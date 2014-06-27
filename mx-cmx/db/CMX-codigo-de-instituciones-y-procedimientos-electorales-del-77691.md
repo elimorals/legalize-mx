@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2011-07-01"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-12-16"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
+CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -58,7 +58,9 @@ Este ordenamiento reglamenta las normas de la Constitución Política de los Est
 
 I. Los derechos y obligaciones político-electorales de los ciudadanos del Distrito Federal;
 
-II. Las prerrogativas y obligaciones de los Partidos Políticos Nacionales y Locales;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. Las prerrogativas y obligaciones de los Partidos Políticos Nacionales, Locales, candidatos de los partidos y Candidatos Independientes;
 
 III. La constitución, derechos y obligaciones de las Agrupaciones Políticas Locales;
 
@@ -182,7 +184,11 @@ II. Asociarse libre, individual y voluntariamente a una Asociación Política pa
 
 III. Participar como observadores en todas las etapas de los procesos electorales locales y de participación ciudadana, en los términos de este Código y demás disposiciones aplicables;
 
-IV. Ser votados para todos los cargos de elección popular en el Distrito Federal, cumpliendo con los requisitos establecidos en la Constitución Política, el Estatuto de Gobierno y demás previstos en este Código;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+IV. Ser votados para todos los cargos de elección popular en el Distrito Federal.
+
+El derecho de solicitar el registro como candidato independiente a Jefe de Gobierno del Distrito Federal, diputado a la Asamblea Legislativa del Distrito Federal, y delegados ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que cumplan con los requisitos, condiciones y términos que determine la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de derechos humanos, este Código y la demás normatividad aplicable.
 
 V. Solicitar la información pública a las autoridades electorales y a las asociaciones políticas de conformidad con la Ley de Transparencia y a los candidatos de los Partidos Políticos con relación a sus compromisos de campaña;
 
@@ -538,15 +544,23 @@ XIII. Aprobar o rechazar los dictámenes, proyectos de acuerdo o de resolución 
 
 XIV. Requerir a través del Secretario del Consejo, informes específicos a las áreas del Instituto Electoral;
 
-XV. Resolver en términos de este Código, sobre el otorgamiento o negativa de registro de Partido Político local o Agrupación Política, según corresponda;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-XVI. Determinar el financiamiento público para los Partidos Políticos, en sus diversas modalidades;
+XV. Resolver en los términos de este Código, sobre el otorgamiento o negativa de registro de Partido Político local, Agrupación Política o Candidatos Independientes.
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XVI. Determinar el financiamiento público para los Partidos Políticos y Candidatos Independientes, en sus diversas modalidades;
 
 XVII. Otorgar los recursos humanos y materiales necesarios para el desarrollo de las actividades de las representaciones de Partidos Políticos y Grupos Parlamentarios;
 
-XVIII. Garantizar a los Partidos Políticos el ejercicio de sus derechos y asignación de las prerrogativas que les corresponden;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-XIX. Vigilar que las Asociaciones Políticas cumplan las obligaciones a que están sujetas;
+XVIII. Garantizar a los Partidos Políticos y Candidatos Independientes el ejercicio de sus derechos y asignación de las prerrogativas que les corresponden;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XIX. Vigilar que las Asociaciones Políticas y Candidatos Independientes cumplan las obligaciones a que están sujetas;
 
 XX. Determinar la división del territorio del Distrito Federal en Distritos Electorales Uninominales locales y fijar, dentro de cada uno, el domicilio que les servirá de cabecera y aprobar el marco geográfico para los procesos de participación ciudadana;
 
@@ -554,7 +568,9 @@ XXI. Designar para los procesos electorales a los Consejeros Distritales;
 
 XXII. Resolver sobre los convenios de Fusión, Frente, Coalición o Candidatura Común que celebren las asociaciones políticas;
 
-XXIII. Aprobar el registro de la plataforma electoral que para cada proceso electoral presenten los Partidos Políticos o Coaliciones;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XXIII. Aprobar el registro de la plataforma electoral que para cada proceso electoral presenten los Partidos Políticos, Coaliciones y Candidatos Independientes;
 
 XXIV. Aprobar previo cumplimiento de los requisitos legales, el registro de las candidaturas a Jefe de Gobierno y las listas de candidatos a Diputados de representación proporcional y, en forma supletoria, a los candidatos a Diputados de mayoría relativa y a Jefes Delegacionales;
 
@@ -578,7 +594,9 @@ XXXII. Aprobar los informes anuales sobre la evaluación del desempeño de los C
 
 XXXIII. Vigilar el cumplimiento de las reglas sobre el uso, características y colocación de propaganda electoral, así como su oportuno retiro;
 
-XXXIV. Ordenar, a solicitud de los Partidos Políticos o Coaliciones, la investigación de hechos que afecten de modo relevante los derechos de los Partidos Políticos o Coaliciones en los procesos electorales;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XXXIV. Ordenar, a solicitud de los Partidos Políticos, Coaliciones o Candidatos Independientes, la investigación de hechos que afecten de modo relevante los derechos de los Partidos Políticos, Coaliciones o Candidatos Independientes en los procesos electorales;
 
 XXXV. Sancionar las infracciones en materia administrativa electoral;
 
@@ -598,9 +616,11 @@ XXXIX. Las demás señaladas en este Código.
 
 Para el desempeño de sus atribuciones, cumplimiento de obligaciones y supervisión del adecuado desarrollo de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral, el Consejo General cuenta con el auxilio de Comisiones de carácter permanente y provisional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 37.
 
-Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Se integrarán por el Consejero Presidente y dos Consejeros Electorales, todos ellos con derecho a voz y voto; y serán integrantes con derecho a voz los representantes de los partidos políticos, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General.
+Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Se integrarán por el Consejero Presidente y dos Consejeros Electorales, todos ellos con derecho a voz y voto; y serán integrantes con derecho a voz los representantes de los partidos políticos y Candidatos Independientes, a partir de su registro y exclusivamente durante el proceso electoral, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General.
 
 Contarán con un Secretario Técnico sólo con derecho a voz, designado por sus integrantes a propuesta de su Presidente y tendrán el apoyo y colaboración de los órganos ejecutivos y técnicos del Instituto Electoral.
 
@@ -662,11 +682,15 @@ Las Comisiones, para un mejor desempeño, podrán contar con el personal técnic
 
 Son atribuciones de la Comisión de Asociaciones Políticas:
 
-I. Auxiliar al Consejo General en la supervisión del cumplimiento de las obligaciones de las Asociaciones Políticas y, en general, en lo relativo a los derechos y prerrogativas de éstas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. Auxiliar al Consejo General en la supervisión del cumplimiento de las obligaciones de las Asociaciones Políticas y Candidatos Independientes, así como en lo relativo a sus derechos y prerrogativas;
 
 II. Autorizar el dictamen y proyecto de resolución de pérdida del registro de las Asociaciones Políticas Locales que se encuentren en cualquiera de los supuestos determinados por el Código y presentarlo a consideración y, en su caso, aprobación del Consejo General;
 
-III. Instruir la investigación de presuntos actos contrarios a la ley en que hayan incurrido las Asociaciones Políticas, siempre que otro órgano del Instituto Electoral no tenga competencia específica sobre el asunto y validar, y en su caso, presentar al Consejo General el dictamen y/o proyecto de resolución de quejas e imposición de sanciones administrativas a las asociaciones políticas, formulados por la Dirección Ejecutiva de Asociaciones Políticas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Instruir la investigación de presuntos actos contrarios a la ley en que hayan incurrido las Asociaciones Políticas o Candidatos Independientes, siempre que otro órgano del Instituto Electoral no tenga competencia específica sobre el asunto, así como validar, y en su caso, presentar al Consejo General el dictamen y/o proyecto de resolución de quejas e imposición de sanciones administrativas a las asociaciones políticas o Candidatos Independientes, formulados por la Dirección Ejecutiva de Asociaciones Políticas;
 
 IV. Revisar el expediente y presentar a la consideración del Consejo General, el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretendan constituirse como Asociaciones Políticas Locales;
 
@@ -674,9 +698,13 @@ V. Presentar a la Junta Administrativa opinión sobre las estimaciones presupues
 
 VI. Presentar a consideración del Consejo General el proyecto de Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas y supervisar su cumplimiento;
 
-VII. Presentar al Consejo General, el proyecto de Acuerdo por el que se determina el financiamiento público para los Partidos Políticos, en las modalidades que establece este Código;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-VIII. Coadyuvar con la autoridad federal electoral, a solicitud de ésta, en el monitoreo de todos los medios masivos de comunicación con cobertura en el Distrito Federal durante los procesos electorales, registrando todas las manifestaciones de los Partidos Políticos y de sus candidatos y precandidatos, solicitando para ello la información necesaria a los concesionarios de esos medios;
+VII. Presentar al Consejo General, el proyecto de Acuerdo por el que se determina el financiamiento público para los Partidos Políticos y Candidatos Independientes, en las modalidades que establece este Código;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VIII. Coadyuvar con la autoridad federal electoral, a solicitud de ésta, en el monitoreo de todos los medios masivos de comunicación con cobertura en el Distrito Federal durante los procesos electorales, registrando todas las manifestaciones de los Partidos Políticos y de sus candidatos y precandidatos, así como de los Candidatos Independientes, solicitando para ello la información necesaria a los concesionarios de esos medios;
 
 IX. Proponer proyectos orientados al fortalecimiento del régimen democrático de las Asociaciones Políticas y supervisar su ejecución; y
 
@@ -758,17 +786,25 @@ I. Emitir opinión respecto de los proyectos de normatividad que elabore la Unid
 
 II. Supervisar los resultados finales del Programa de Fiscalización instrumentado por la Unidad Técnica Especializada en Fiscalización;
 
-III. Supervisar que los recursos del financiamiento que ejerzan las Asociaciones Políticas se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-IV. Supervisar los resultados finales de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales, así como de los recursos utilizados en las campañas y procesos de selección interna de candidatos de los Partidos Políticos, según corresponda;
+III. Supervisar que los recursos del financiamiento que ejerzan las Asociaciones Políticas y Candidatos Independientes se apliquen estricta e invariablemente para las actividades señaladas en este Código;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+IV. Supervisar los resultados finales de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales, así como de los recursos utilizados en las campañas y procesos de selección interna de candidatos de los Partidos Políticos, y de Candidatos Independientes, según corresponda;
 
 V. Supervisar los resultados finales de auditorías especiales de las Asociaciones Políticas, en los términos de los acuerdos del Consejo General;
 
-VI. Emitir opinión respecto de los proyectos de Dictamen y Resolución que formule la Unidad Técnica Especializada de Fiscalización sobre los informes presentados por las Asociaciones Políticas acerca del origen y destino de los recursos utilizados anualmente y los empleados en las campañas y procesos de selección interna de candidatos, según corresponda;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Emitir opinión respecto de los proyectos de Dictamen y Resolución que formule la Unidad Técnica Especializada de Fiscalización sobre los informes presentados por las Asociaciones Políticas acerca del origen y destino de los recursos utilizados anualmente y los empleados en las campañas y procesos de selección interna de candidatos, así como por los Candidatos Independientes, según corresponda;
 
 VII. Supervisar los resultados del proceso de liquidación de los bienes de las Asociaciones Políticas y emitir opinión respecto del dictamen que presente la Unidad Técnica Especializada de Fiscalización;
 
-VIII. Informar al Consejo General de las presuntas irregularidades en que hubiesen incurrido las Asociaciones Políticas derivadas del manejo de sus recursos así como, por el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento correspondiente; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VIII. Informar al Consejo General de las presuntas irregularidades en que hubiesen incurrido las Asociaciones Políticas y candidatos independientes derivadas del manejo de sus recursos así como, por el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento correspondiente; y
 
 IX. Las demás que le confiera este Código.
 
@@ -1062,7 +1098,9 @@ n) Promoción y desarrollo de los principios rectores de la participación ciuda
 
 o) Evaluación del desempeño de los Comités Ciudadanos; y
 
-p) Fiscalización de los recursos de los Partidos Políticos;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+p) Fiscalización, en caso de delegación de funciones, de los recursos de los Partidos Políticos y Candidatos Independientes.
 
 III. Recibir de la Contraloría General, en el mes de septiembre del año anterior al que vaya a aplicarse, el proyecto de Programa Interno de Auditoría, para su incorporación al proyecto de Programa Operativo Anual;
 
@@ -1210,7 +1248,9 @@ IV. Aplicar las políticas, normas y procedimientos para la administración de l
 
 V. Supervisar la aplicación de las normas de operación, desarrollo y evaluación del programa de protección civil y de seguridad del Instituto Electoral;
 
-VI. Entregar las ministraciones de financiamiento público que correspondan a los Partidos Políticos por transferencia electrónica;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Entregar las ministraciones de financiamiento público que correspondan a los Partidos Políticos y Candidatos Independientes en los términos que acuerde el Consejo General, debiendo realizarse en ambos casos mediante transferencia electrónica.
 
 VII. Proponer a la Junta Administrativa, para su aprobación:
 
@@ -1318,9 +1358,13 @@ Son atribuciones de la Dirección Ejecutiva de Asociaciones Políticas:
 
 I. Elaborar y proponer a la Junta Administrativa, previa opinión de la Comisión de Asociaciones Políticas, el anteproyecto del Programa de Vinculación y Fortalecimiento de las Asociaciones Políticas;
 
-II. Proyectar la estimación presupuestal para cubrir las diversas modalidades de financiamiento público que corresponde a los Partidos Políticos, en términos de este Código, a efecto de que se considere en el proyecto de Presupuesto de Egresos del Instituto Electoral;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-III. Elaborar y someter a la aprobación de la Comisión de Asociaciones Políticas, el anteproyecto de Acuerdo del Consejo General por el que se determina el financiamiento público para los partidos Políticos, en sus diversas modalidades y realizar las acciones conducentes para su ministración;
+II. Proyectar la estimación presupuestal para cubrir las diversas modalidades de financiamiento público que corresponde a los Partidos Políticos y Candidatos Independientes, en términos de este Código, a efecto de que se considere en el proyecto de Presupuesto de Egresos del Instituto Electoral;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Elaborar y someter a la aprobación de la Comisión de Asociaciones Políticas, el anteproyecto de Acuerdo del Consejo General por el que se determina el financiamiento público para los partidos Políticos y Candidatos Independientes, en sus diversas modalidades y realizar las acciones conducentes para su ministración;
 
 IV. Apoyar las gestiones de los Partidos Políticos para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
 
@@ -1334,7 +1378,9 @@ VIII. Llevar el libro de registro de los integrantes de los órganos directivos 
 
 IX. Instrumentar las medidas tendentes a cerciorarse que las Asociaciones Políticas, mantienen los requisitos que para obtener su registro establece este Código;
 
-X. Revisar las solicitudes de registro de plataformas electorales, convenios de coalición y de candidatura común que presenten los Partidos Políticos;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+X. Revisar las solicitudes de registro de plataformas electorales, convenios de coalición y de candidatura común que presenten los Partidos Políticos y los Candidatos Independientes;
 
 XI. Efectuar la revisión de las solicitudes de candidatos y sus respectivos anexos, así como en la integración de los expedientes respectivos; y
 
@@ -1518,9 +1564,11 @@ El titular de la Contraloría General debe asumir las medidas necesarias para qu
 
 #### SECCIÓN TERCERA. DE LA UNIDAD TÉCNICA ESPECIALIZADA DE FISCALIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 88.
 
-La Unidad Técnica Especializada de Fiscalización, es el órgano técnico del Instituto Electoral que tiene a su cargo supervisar que los recursos del financiamiento público y privado que ejerzan las Asociaciones Políticas, se aplique conforme a lo dispuesto en la Constitución Política, este Código y demás normatividad aplicable.
+La Unidad Técnica Especializada de Fiscalización, es el órgano técnico del Instituto Electoral que tiene a su cargo supervisar que los recursos del financiamiento público y privado que ejerzan las Asociaciones Políticas y Candidatos Independientes, se aplique conforme a lo dispuesto en la Constitución Política, este Código y demás normatividad aplicable.
 
 El titular de la Unidad Técnica Especializada de Fiscalización será designado por el Consejo General con el voto de las dos terceras partes de sus integrantes de entre una terna de propuestas que le envíe el Contador Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal.
 
@@ -1542,9 +1590,13 @@ I. Elaborar y remitir a la Junta Administrativa, previa opinión de la Comisión
 
 II. Instrumentar el Programa de Fiscalización e informar trimestralmente al Consejo General, sobre el avance en su cumplimiento;
 
-III. Dictaminar los informes que presenten las Asociaciones Políticas sobre el origen y destino de sus recursos anuales; así como los que rindan los Partidos Políticos respecto de los recursos empleados en las campañas electorales de sus candidatos;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-IV. Formular los proyectos de resolución respecto de las irregularidades consignadas en el Dictamen que recaiga a la revisión de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales; así como los que rindan los Partidos Políticos respecto de los recursos empleados en las campañas electorales de sus candidatos;
+III. Dictaminar los informes que presenten las Asociaciones Políticas sobre el origen y destino de sus recursos anuales; así como los que rindan los Partidos Políticos respecto de los recursos empleados en las campañas electorales de sus candidatos, y los que corresponda presentar a los Candidatos Independientes;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+IV. Formular los proyectos de resolución respecto de las irregularidades consignadas en el Dictamen que recaiga a la revisión de los informes que las Asociaciones Políticas presenten sobre el origen y destino de sus recursos anuales; así como los que rindan los Partidos Políticos respecto de los recursos empleados en las campañas electorales de sus candidatos, y los que corresponda presentar a los Candidatos Independientes;
 
 V. Solicitar en todo tiempo a las Asociaciones Políticas, en forma motivada y fundada, documentos e informes detallados sobre sus ingresos y egresos;
 
@@ -1554,19 +1606,29 @@ VII. Requerir a los proveedores registrados en el catálogo respectivo, la infor
 
 VIII. Llevar a cabo las diligencias necesarias para el desahogo de las solicitudes de investigación que se promuevan ante el Instituto Electoral, respecto al presunto rebase a los topes de gastos de campaña;
 
-IX. Desplegar las actividades que resulten necesarias para dar cumplimiento a las resoluciones jurisdiccionales, que ordenen reponer alguna fase del procedimiento de revisión de los informes de las Asociaciones Políticas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-X. Instrumentar las auditorias a las finanzas de las Asociaciones Políticas que acuerde el Consejo General;
+IX. Desplegar las actividades que resulten necesarias para dar cumplimiento a las resoluciones jurisdiccionales, que ordenen reponer alguna fase del procedimiento de revisión de los informes de las Asociaciones Políticas o Candidatos Independientes;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+X. Instrumentar las auditorías a las finanzas de las Asociaciones Políticas y Candidatos Independientes que acuerde el Consejo General;
 
 XI. Realizar las visitas de verificación a las Asociaciones Políticas con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
 
-XII. Elaborar los anteproyectos de normatividad relacionada con el registro de ingresos y egresos de las Asociaciones Políticas, la documentación comprobatoria sobre el manejo de sus recursos, los informes que éstas deben presentar ante el Instituto Electoral, las reglas para su revisión y dictamen, así como el procedimiento relativo a la liquidación de su patrimonio;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-XIII. Asesorar y orientar a las Asociaciones Políticas sobre el cumplimiento de sus obligaciones en términos de este Código;
+XII. Elaborar los anteproyectos de normatividad relacionada con el registro de ingresos y egresos de las Asociaciones Políticas y Candidatos Independientes, la documentación comprobatoria sobre el manejo de sus recursos, los informes que aquéllas y éstos deben presentar ante el Instituto Electoral, las reglas para su revisión y dictamen, así como el procedimiento relativo a la liquidación del patrimonio de las Asociaciones Políticas;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XIII. Asesorar y orientar a las Asociaciones Políticas y Candidatos sobre el cumplimiento de sus obligaciones en términos de este Código;
 
 XIV. Intercambiar, de acuerdo con los convenios que al efecto se celebren, información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas en este Código;
 
-XV. Solicitar a las autoridades de los tres ámbitos de gobierno, instituciones financieras y todas las personas físicas y morales, la información que se encuentre en su poder y sea necesaria para comprobar el cumplimiento y la veracidad de los informes que presenten las Asociaciones Políticas y realizar las acciones necesarias en los casos en que solicite el levantamiento del secreto bancario, fiduciario y fiscal;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+XV. Solicitar a las autoridades de los tres ámbitos de gobierno, instituciones financieras y todas las personas físicas y morales, la información que se encuentre en su poder y sea necesaria para comprobar el cumplimiento y la veracidad de los informes que presenten las Asociaciones Políticas y Candidatos Independientes, así como realizar las acciones necesarias en los casos en que solicite el levantamiento del secreto bancario, fiduciario y fiscal;
 
 XVI. Dictaminar los informes que presenten las Agrupaciones Políticas sobre del origen y destino de los recursos utilizados para el desarrollo de sus actividades tendentes a la obtención del registro legal como Partido Político Local, así como formular los proyectos y resoluciones de las irregularidades consignadas en el dictamen; y
 
@@ -1644,7 +1706,13 @@ Para la elección de Jefes Delegacionales, el Consejo General designará a los C
 
 Son integrantes del Consejo Distrital con derecho a voz y voto, el Consejero Presidente Distrital y seis Consejeros Distritales, nombrados por el Consejo General.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2014)</small>
+
 Asimismo son integrantes del Consejo Distrital con derecho a voz, un representante por cada Partido Político o Coalición y el Secretario Técnico Jurídico de la Dirección Distrital correspondiente, quien fungirá como Secretario del Consejo Distrital.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Para efectos del escrutinio y cómputo de votos, los Candidatos Independientes podrán designar un representante ante la instancia correspondiente del Instituto electoral, únicamente durante los procesos electorales en que participen.
 
 ###### Artículo 97.
 
@@ -1690,13 +1758,17 @@ IV. Ser militante, desempeñar o haber desempeñado cargo de dirección de algú
 
 V. Haber desempeñado cargo de dirección de mando medio o superior de la Federación, el Distrito Federal, Estados o Municipios, durante los tres años anteriores a la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 100.
 
-Los Partidos Políticos y Coaliciones, a través de sus órganos de dirección en el Distrito Federal facultados para ello, designarán un representante propietario y un suplente ante el Consejo Distrital, quienes iniciarán sus funciones una vez que protesten el cargo que les fue conferido.
+Los Partidos Políticos, Coaliciones, a través de sus órganos de dirección en el Distrito Federal facultados para ello, así como los Candidatos Independientes que hayan obtenido su registro en el Distrito o demarcación correspondiente o que contienda para el cargo de Jefe de Gobierno, designarán un representante propietario y un suplente ante el Consejo Distrital, quienes iniciarán sus funciones una vez que protesten el cargo que les fue conferido.
 
 Los representantes, propietario y suplente, podrán ser sustituidos libremente por el órgano directivo facultado para su designación.
 
-La designación y sustitución de los representantes de Partido Político o Coalición se comunicará por escrito al Consejero Presidente Distrital, para los efectos conducentes.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+La designación y sustitución de los representantes de Partido Político, Coalición o Candidaturas Independientes se comunicará por escrito al Consejero Presidente Distrital, para los efectos conducentes.
 
 ###### Artículo 101.
 
@@ -1712,15 +1784,21 @@ La operación y funcionamiento de los Consejos Distritales se sujetará a las di
 
 ###### Artículo 103.
 
-El Consejero Presidente Distrital convocará por escrito a la sesión de instalación del Consejo Distrital, durante la primera semana de febrero del año de la elección.
+El Consejero Presidente Distrital convocará por escrito a la sesión de instalación del Consejo Distrital, durante la primera semana de febrero del año de la elección:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 A partir de su instalación y hasta la conclusión del proceso, los Consejos Distritales sesionarán por lo menos una vez al mes, conforme a las reglas siguientes:
 
-I. Los Consejeros Distritales y representantes de los Partidos Políticos o Coaliciones serán convocados por escrito a las sesiones ordinarias cuando menos con setenta y dos horas de anticipación, y a las sesiones extraordinarias con una antelación de veinticuatro horas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. Los Consejeros Distritales y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes serán convocados por escrito a las sesiones ordinarias cuando menos con setenta y dos horas de anticipación, y a las sesiones extraordinarias con una antelación de veinticuatro horas;
 
 II. Para que los Consejos Distritales sesionen válidamente, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Consejero Presidente Distrital; y
 
-III. En caso de que no se reúna esa mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Distritales y representantes de los Partidos Políticos o Coaliciones que asistan, entre los que deberá estar el Consejero Presidente Distrital o el Secretario del Consejo Distrital.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. En caso de que no se reúna esa mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros Distritales y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes que asistan, entre los que deberá estar el Consejero Presidente Distrital o el Secretario del Consejo Distrital.
 
 ###### Artículo 104.
 
@@ -1754,7 +1832,9 @@ VI. Nombrar las Comisiones de Consejeros Distritales en materia de Capacitación
 
 VII. Supervisar el procedimiento de insaculación de los funcionarios de casilla y su capacitación; así como vigilar que las Mesas Directivas de Casilla se instalen en los términos de este Código;
 
-VIII. Registrar los nombramientos de los representantes de casilla y generales que los Partidos Políticos y Coaliciones acrediten para la jornada electoral;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VIII. Registrar los nombramientos de los representantes de casilla y generales que los Partidos Políticos, Coaliciones y Candidatos Independientes acrediten para la jornada electoral;
 
 IX. Ordenar la entrega de la documentación y materiales electorales a los Presidentes de las Mesas Directivas de Casilla, para el debido cumplimiento de sus funciones;
 
@@ -1782,7 +1862,9 @@ Son atribuciones del Consejero Presidente Distrital:
 
 I. Convocar y conducir las sesiones del Consejo Distrital;
 
-II. Firmar, junto con el Secretario del Consejo Distrital, las identificaciones de los Consejeros Distritales y representantes de los Partidos Políticos y Coaliciones;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. Firmar, junto con el Secretario del Consejo Distrital, las identificaciones de los Consejeros Distritales y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes;
 
 III. Recibir las solicitudes de acreditación que presenten los ciudadanos de nacionalidad mexicana, para participar como observadores durante el proceso electoral;
 
@@ -1824,9 +1906,13 @@ IV. Recibir y dar trámite a los medios de impugnación que se interpongan contr
 
 V. Expedir copia certificada, previo cotejo y compulsa de todos aquellos documentos que obren en los archivos del Consejo Distrital;
 
-VI. Registrar los nombramientos de los representantes de los Partidos Políticos y Coaliciones ante el Consejo Distrital;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-VII. Expedir el documento que acredite a los Consejeros Distritales y a los representantes de los Partidos Políticos o Coaliciones como miembros del Consejo Distrital;
+VI. Registrar los nombramientos de los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante el Consejo Distrital;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VII. Expedir el documento que acredite a los Consejeros Distritales y a los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes como miembros del Consejo Distrital;
 
 VIII. Firmar, junto con el Consejero Presidente Distrital, los acuerdos y resoluciones que emita el Consejo Distrital;
 
@@ -1834,9 +1920,11 @@ IX. Llevar el Archivo General del Consejo Distrital; y
 
 X. Las demás que disponga este Código y las que le asigne el Consejo Distrital.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 109.
 
-Las atribuciones de los Consejeros Distritales y representantes de Partidos Políticos y Coaliciones son las previstas en el Reglamento respectivo.
+Las atribuciones de los Consejeros Distritales y representantes de Partidos Políticos, Coaliciones y Candidatos Independientes son las previstas en el Reglamento respectivo.
 
 Los Consejeros Distritales deben participar en el Programa de Capacitación que imparta la Unidad de Servicio Profesional Electoral y de Formación y Desarrollo.
 
@@ -1892,13 +1980,19 @@ I. Presidir los trabajos de la mesa;
 
 II. Recibir de los Consejos Distritales la documentación y materiales electorales necesarios para el funcionamiento de la casilla y conservarlos bajo su responsabilidad hasta la instalación de la misma;
 
-III. Verificar la identidad de los representantes de los Partidos Políticos, de los Asistentes-Instructores y de los Observadores;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Verificar la identidad de los representantes de los Partidos Políticos y Candidatos Independientes, así como de los Asistentes-Instructores y de los Observadores;
 
 IV. Mantener el orden en la casilla e inmediaciones de la misma, con el auxilio de la fuerza pública si fuera necesario;
 
-V. Suspender temporalmente la votación en caso de alteración del orden o cuando existan circunstancias o condiciones que impidan la libre emisión del sufragio, vulneren el secreto del voto o atenten contra la seguridad personal de los electores, representantes de los Partidos Políticos o Coaliciones e integrantes de la Mesa Directiva de Casilla;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-VI. Retirar de la casilla a cualquier persona que incurra en alteración grave del orden, haga proselitismo a favor de algún candidato, Partido o Coalición, impida la libre emisión del sufragio, viole el secreto del voto, realice actos que afecten la autenticidad del escrutinio y cómputo, intimide o ejerza violencia sobre los electores, representantes de Partidos Políticos o Coaliciones o integrantes de la Mesa Directiva de Casilla;
+V. Suspender temporalmente la votación en caso de alteración del orden o cuando existan circunstancias o condiciones que impidan la libre emisión del sufragio, vulneren el secreto del voto o atenten contra la seguridad personal de los electores, representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes, o de los integrantes de la Mesa Directiva de Casilla;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Retirar de la casilla a cualquier persona que incurra en alteración grave del orden, haga proselitismo a favor de algún candidato, Partido o Coalición, impida la libre emisión del sufragio, viole el secreto del voto, realice actos que afecten la autenticidad del escrutinio y cómputo, intimide o ejerza violencia sobre los electores, representantes de Partidos Políticos, Coaliciones o Candidatos Independientes, o integrantes de la Mesa Directiva de Casilla;
 
 VII. Entregar el paquete electoral al Consejo Distrital, de manera inmediata a la clausura de la casilla;
 
@@ -1918,7 +2012,9 @@ III. Verificar que el nombre del elector figure en la Lista Nominal correspondie
 
 IV. Marcar, en el apartado correspondiente a la elección local, la Credencial para Votar del ciudadano que haya votado;
 
-V. Recibir durante la jornada electoral los escritos de incidentes y protesta, que presenten los representantes de los Partidos Políticos o Coaliciones acreditados ante la Mesa Directiva de Casilla y consignarlos en el acta respectiva;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+V. Recibir durante la jornada electoral los escritos de incidentes y protesta, que presenten los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes acreditados ante la Mesa Directiva de Casilla y consignarlos en el acta respectiva;
 
 VI. Inutilizar al término de la votación, por medio de dos rayas diagonales con tinta, las boletas sobrantes, anotando su número en el acta de la elección que corresponda;
 
@@ -1930,11 +2026,15 @@ VIII. Las demás que les confieran este Código.
 
 Son atribuciones del Escrutador de la Mesa Directiva de Casilla:
 
-I. Contar al inicio de la votación y ante los representantes de Partidos Políticos o Coaliciones que se encuentren presentes, las boletas electorales recibidas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. Contar al inicio de la votación y ante los representantes de Partidos Políticos, Coaliciones y Candidatos Independientes que se encuentren presentes, las boletas electorales recibidas;
 
 II. Contar la cantidad de boletas depositadas en cada urna y el número de electores que, de acuerdo a la Lista Nominal, hayan emitido su sufragio;
 
-III. Realizar, conjuntamente con el Presidente y Secretario de la Mesa Directiva de Casilla, y ante los representantes de los Partidos Políticos o Coaliciones presentes, el escrutinio y cómputo;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Realizar, conjuntamente con el Presidente y Secretario de la Mesa Directiva de Casilla, y ante los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes presentes, el escrutinio y cómputo;
 
 IV. Contar los votos emitidos a favor de cada candidato, los votos nulos y los emitidos en blanco;
 
@@ -2886,7 +2986,9 @@ XXII. Requerir fundada y motivadamente a los órganos y servidores públicos del
 
 XXIII. Las demás que le confiera este Código y la normatividad aplicable.
 
-# LIBRO TERCERO. DE LAS ASOCIACIONES POLÍTICAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JUNIO DE 2014)</small>
+
+# LIBRO TERCERO. DE LAS ASOCIACIONES POLÍTICAS Y LAS CANDIDATURAS INDEPENDIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -2910,9 +3012,11 @@ Las Asociaciones Políticas, promoverán el análisis y presentación de propues
 
 Los Partidos Políticos locales se constituirán por ciudadanos del Distrito Federal, quedando expresamente prohibida la intervención de organizaciones gremiales, por lo que en su creación no podrá haber afiliación corporativa.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 190.
 
-Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en el Distrito Federal tienen el derecho exclusivo para solicitar el registro de candidatos a cargos locales de elección popular, en los términos y condiciones establecidas en el presente ordenamiento.
+Los Partidos Políticos con registro nacional y los Partidos Políticos con registro local en el Distrito Federal tienen el derecho para solicitar el registro de candidatos a cargos locales de elección popular, en los términos y condiciones establecidas en el presente ordenamiento.
 
 ## TÍTULO SEGUNDO. DE LA NATURALEZA, CONSTITUCIÓN Y REGISTRO DE LAS ASOCIACIONES POLÍTICAS
 
@@ -3696,9 +3800,149 @@ Asimismo y respecto a la integración de la lista B que establece la fracción I
 
 Los votos se computarán a favor de cada uno de los Partidos Políticos que los haya obtenido y se sumarán en favor del candidato.
 
-### CAPÍTULO VI. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VII. DE LA FISCALIZACIÓN
+### CAPÍTULO V BIS. DE LAS CANDIDATURAS INDEPENDIENTES
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 244 Bis.
+
+Los ciudadanos y ciudadanas que cumplan con los requisitos, condiciones y términos que establece la normatividad, tendrán derecho a participar y en su caso a ser registrados como Candidatos Independientes para ocupar los cargos de:
+
+a) Jefe de Gobierno del Distrito Federal;
+
+b) Jefe Delegacional en las demarcaciones territoriales del Distrito Federal;
+
+c) Diputados a la Asamblea Legislativa del Distrito Federal.
+
+Para obtener el registro como candidato independiente, además de cumplir con los términos, plazos y condiciones de registro que se establecen para los candidatos propuestos por los partidos políticos, entre ellos, los contenidos en el artículo 294 del presente Código, el solicitante deberá satisfacer el requisito consistente en no haber sido integrante de alguno de los órganos de dirección nacional o local en el Distrito Federal de algún partido político, cuando menos tres años anteriores a la solicitud de registro.
+
+Ninguna persona podrá contender de manera simultánea en un mismo proceso electoral como candidato independiente y candidato de partido político. Tampoco podrá buscarse simultáneamente una candidatura en el proceso de selección de candidatos de un partido político y buscar el apoyo ciudadano como aspirante a solicitar registro para una candidatura independiente.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 244 Ter.
+
+Apartado A. Además de lo previsto en el artículo anterior, para obtener el registro como candidato independiente, se deberá presentar un número de firmas de apoyo, con copia simple de la credencial de elector respectiva, que será equivalente al porcentaje de firmas de la lista nominal que establezca la legislación federal para registro de candidatos independientes al cargo de diputado federal. Para la elección de Jefe Delegacional, el listado nominal será el de la delegación; para los diputados locales, el del Distrito Electoral local uninominal, y para Jefe de Gobierno, el de todo el Distrito Federal.
+
+Lo dispuesto en el párrafo anterior respecto al porcentaje de firmas de apoyo, solo será exigible en el caso de que la legislación federal determine que dicho porcentaje será vinculante para las candidaturas independientes en las elecciones locales de las entidades federativas. En caso contrario, el porcentaje de firmas de apoyo exigible será el equivalente al 2% de la lista nominal respectiva, distribuidas en por lo menos el 35% de las delegaciones o distrito (sic) electorales, para la elección de Jefe de Gobierno, o de las secciones electorales de la demarcación o distrito correspondiente, en las elecciones de Jefe Delegacional o diputado a la Asamblea Legislativa, en los términos de la normatividad que al efecto emita el Instituto Electoral. Dicha normatividad establecerá entre otros aspectos, las disposiciones necesarias para armonizar el presente Código con las leyes generales en materia electoral en lo que resulte vinculante; así como las reglas específicas para la (sic) de acreditación de firmas, cuando un distrito electoral abarque el territorio de más de una delegación.
+
+En todos los casos, el procedimiento para recabar las firmas de apoyo deberá realizarse de conformidad con lo siguiente:
+
+1. El Consejo General del Instituto Electoral del Distrito Federal, emitirá una convocatoria con el objeto de señalar las etapas y mecanismos para el registro de candidaturas independientes. Dichas etapas son:
+
+a) Registro de aspirantes;
+
+b) Procedimiento para la obtención de las firmas ciudadanas para alcanzar el porcentaje de apoyo fijado para cada candidatura, y
+
+c) Dictamen sobre el respaldo ciudadano requerido para obtener el derecho a registrarse como candidato Independiente.
+
+d) Registro de candidatura independiente.
+
+2. El Consejo General emitirá los Lineamientos y la Convocatoria para que la ciudadanía interesada y que cumpla con los requisitos establecidos, participe en el procedimiento para la obtención de las firmas ciudadanas para alcanzar el porcentaje de apoyo fijado para cada candidatura independiente; durante los mismos plazos en que se lleven a cabo las precampañas o procesos de selección interna de candidatos de los partidos políticos.
+
+Esta Convocatoria deberá ser publicada en la Gaceta Oficial del Distrito Federal y en al menos dos diarios de circulación nacional, así como en el sitio web del Instituto Electoral, señalando:
+
+I. Fecha, nombre, cargo y firma de quien la emite en representación del IEDF;
+
+II. Los cargos para los que se convoca;
+
+III. Los requisitos y procedimiento para la obtención de firmas ciudadanas a favor de los aspirantes;
+
+IV. El periodo para la obtención de las firmas ciudadanas que respalden las candidaturas independientes, mismo que corresponderá a las precampañas de los partidos políticos;
+
+V. El plazo y los mecanismo (sic) para validar las firmas ciudadanas entregadas como respaldo por cada aspirante;
+
+VI. Los términos para llevar a cabo la rendición de cuentas del tope de gastos de campaña y la verificación de su legal origen y destino.
+
+3. Los ciudadanos interesados en obtener su registro como aspirantes a candidatos independientes deberán entregar la solicitud correspondiente ante la instancia que señale la Convocatoria.
+
+4. Para el caso de candidaturas independientes a Jefe de Gobierno y de Jefes Delegacionales, se presentará solicitud para registro únicamente del aspirante a candidato; y por lo que hace a Diputados Locales por el principio de mayoría relativa, la solicitud deberá ser presentada en fórmula que estará integrada por propietario y suplente del mismo género, con excepción de la fórmula en la que el propietario sea hombre, pues en dicho supuesto la suplente si podrá ser mujer.
+
+Las solicitudes de registro de aspirantes señalarán, cuando menos, lo siguiente:
+
+I. Nombre y apellidos completos del interesado;
+
+II. Lugar y fecha de nacimiento;
+
+III. Domicilio y tiempo de residencia en el mismo;
+
+IV. Ocupación
+
+V. Clave de credencial para votar;
+
+VI. El cargo y ámbito territorial por el que pretenda competir.
+
+VII. Tratándose del registro de fórmulas, deberá especificarse el nombre y sexo del propietario y del suplente, respectivamente;
+
+VIII. La designación de un representante ante el Instituto Electoral; así como del responsable del registro, administración y gasto de los recursos a utilizar en la obtención de firmas ciudadanas para alcanzar el porcentaje fijado para cada candidatura y en la campaña electoral, y
+
+IX. El emblema y los colores que pretendan utilizar para obtener el respaldo ciudadano, los cuales no podrán ser semejantes o los mismos a los utilizados por los partidos políticos con registro vigente, o de otros candidatos independientes.
+
+En caso de que más de un aspirante concuerde en estos elementos, aquel que haya efectuado su registro en primer término tendrá derecho a conservar su emblema y colores, por lo que se solicitara a los otros aspirantes que presenten una nueva propuesta.
+
+No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales, ni tampoco los utilizados por el Tribunal Electoral del Poder Judicial de la Federación, el Tribunal Electoral del Distrito Federal, el Instituto Nacional Electoral y el Instituto Electoral del Distrito Federal.
+
+Una vez realizadas las compulsas correspondientes, y en el caso de que dos o más solicitantes de registro como candidatos independientes presenten firmas de apoyo de los mismos ciudadanos, serán tomadas a favor de uno de los candidatos, la firma con la última fecha en que el ciudadano expreso su apoyo.. (sic)
+
+Apartado B. El procedimiento de verificación de los requisitos estará a cargo del Instituto Electoral del Distrito Federal; quien emitirá el dictamen correspondiente y en su oportunidad otorgará el registro de los candidatos independientes que hayan cumplido con los requisitos. El Consejo General del Instituto Electoral del Distrito Federal aprobará los formatos para la obtención de respaldo ciudadano, mismos que deberán tener:
+
+a) Folio;
+
+b) La mención de que no serán válidos en caso de tachaduras o enmendaduras;
+
+c) La mención de que las firmas sólo apoyaran una candidatura independiente por cada elección.
+
+d) Cada formato deberá especificar el nombre y cargo del candidato o candidatos; espacio para recabar las firmas de ciudadanos, señalando nombre, clave de elector, delegación, sección electoral, que deberán corresponder con la copia simple de la credencial para votar con fotografía.
+
+La recolección de firmas se hará mediante un procedimiento coincidente con los tiempos establecidos para las precampañas o procesos de selección interna de los partidos, con recursos provenientes de financiamiento privado de los aspirantes a solicitar registro como candidatos independientes. Este procedimiento estará regulado por las normas y lineamientos que al efecto expedirá el Consejo General del Instituto, mismos que serán fiscalizados en los términos de este Código. El Instituto emitirá los lineamientos correspondientes para la obtención del financiamiento privado y su fiscalización. Asimismo, aprobará los formatos para transparentar el origen y destino de los recursos de financiamiento privado durante la etapa de obtención de respaldo ciudadano y de la propia campaña electoral.
+
+Los aspirantes a candidatos independientes tendrán la obligación de abrir una cuenta bancaria a su nombre desde el momento en que realicen la solicitud de registro como aspirantes, misma que deberá utilizarse exclusivamente para la actividad financiera relacionada con el procedimiento de obtención de firmas de apoyo y con la candidatura independiente, y mantenerse hasta la conclusión del proceso de fiscalización.
+
+El Consejo General del Instituto deberá determinar, al menos, los siguientes aspectos:
+
+I. Los porcentajes, reglas y los topes de gastos que pueden utilizar los candidatos independientes en el proceso de obtención de firmas de apoyo para el registro de su candidatura, incluyendo la erogación de recursos en especie y en dinero.
+
+II. Las reglas de propaganda a que están sujetos los candidatos y candidatas independientes en el proceso de obtención de firmas, a fin de que el órganos (sic) fiscalizador pueda dictaminar el origen y destino de los recursos que hayan utilizado los candidatos independientes en dicho periodo.
+
+III. El plazo que tendrán los candidatos y candidatas independientes para entregar al Instituto un informe de los gastos erogados en el periodo de obtención de firmas. En dicho informe deberá especificarse detalladamente el origen de los recursos utilizados.
+
+IV. El plazo que tendrá el órgano fiscalizador para emitir el dictamen de que el candidato o candidatos independientes no rebasaran los topes de gastos para el periodo de obtención de firmas.
+
+V. El plazo para que la Dirección Ejecutiva de Asociaciones Políticas lleve a cabo la revisión de las firmas de apoyo que presente cada uno de los candidatos independientes así como el plazo que tendrá la autoridad para emitir los dictámenes.
+
+Los plazos a que se refieren las fracciones IV y V deberán concluir cuando menos una semana antes del registro de candidaturas independientes.
+
+El Instituto Electoral, a través de las instancias que determine la propia convocatoria, recibirá las solicitudes de registro y verificará que cumplan con los requisitos. En caso de que el ciudadano incumpla algún requisito de forma, se le prevendrá para que lo subsane en un plazo de 48 horas.
+
+El órgano correspondiente de (sic) Instituto Electoral sesionará antes del inicio de las precampañas de los partidos políticos, para emitir las constancias de obtención de la calidad de aspirante a candidato independiente.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 244 Quater.
+
+Los candidatos independientes tendrán derecho al uso de espacios en medios de comunicación, en los términos previstos por el artículo 41 fracción III constitucional de acuerdo con la administración que realice el Instituto Nacional Electoral y de acuerdo con lo previsto en el numeral 321 de este Código; así como a financiamiento público únicamente para campañas electorales, equiparado a los recursos de campaña que se destinen a los candidatos del partido político con menor financiamiento público en el año de la elección.
+
+La bolsa de financiamiento público a que se refiere este artículo se dividirá entre los tipos de elección que se contiendan en el proceso electoral, y por cada tipo de elección se distribuirá igualitariamente entre el número de candidatos independientes registrados; de conformidad con lo siguiente:
+
+a) Un 33% del financiamiento público, que corresponda en su conjunto a los candidatos independientes, se distribuirá de manera igualitaria entre todos los candidatos independientes al cargo de Jefe de Gobierno del Distrito Federal;
+
+b) Un 33% del financiamiento público, que corresponda en su conjunto a los candidatos independientes, se distribuirá de manera igualitaria entre todos los candidatos independientes al cargo de Jefe Delegacional; y
+
+c) Un 33% del financiamiento público, que corresponda en su conjunto a los candidatos independientes se distribuirá de manera igualitaria entre todos los candidatos independientes al cargo de Diputados de la Asamblea Legislativa del Distrito Federal;
+
+El acceso de las prerrogativas para gastos de campaña de los candidatos independientes, así como la administración y comprobación de gastos y la revisión del origen del financiamiento privado; se llevará a cabo en los términos que acuerde el Consejo General del Instituto Nacional Electoral o en su caso del Instituto Electoral del Distrito Federal.
+
+Asimismo, y con el fin de optimizar el ejercicio de estos recursos públicos, se establece la obligación de los candidatos independientes de reintegrar al Instituto los recursos públicos que no sean debidamente comprobados, mediante el procedimiento que fije el Instituto en los lineamientos correspondientes.
+
+Las disposiciones contenidas en el presente artículo se harán efectivas a través de la normatividad, lineamientos y acuerdos específicos que al efecto emita el Consejo General del Instituto Electoral del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Artículo 244 Quintus. La suma del financiamiento público y privado por cada candidato independiente, no podrá ser superior al tope de gastos de campaña que determine el Instituto Electoral para cada distrito, Delegación o Distrito Federal, según la elección de que se trate en los términos del artículo 310 de este Código. El financiamiento público que se otorgue a los candidatos independientes, no podrá exceder del 60% del tope de gastos de campaña correspondiente. El financiamiento privado de que dispongan los candidatos independientes, estará sujeto en cuanto a su origen, uso, destino, comprobación y fiscalización; a las mismas disposiciones que regulan el financiamiento privado para los candidatos registrados por los partidos políticos.
+
+### CAPÍTULO VI. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3930,7 +4174,7 @@ b) Los fondos y fideicomisos que se constituyan serán manejados a través de la
 
 c) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos de los Partidos Políticos.
 
-### CAPÍTULO VIII. DE LA PÉRDIDA DE REGISTRO Y DE LA EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO VII. DE LA FISCALIZACIÓN
 
 ###### Artículo 266.
 
@@ -4022,9 +4266,11 @@ b) Remitir, una vez cumplido el plazo para la interposición del recurso, o pres
 
 c) Publicar en la página de Internet del Instituto el dictamen y resolución del Consejo General y, en su caso, las resoluciones emitidas por el Tribunal.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 269.
 
-La Unidad Técnica Especializada de Fiscalización, brindará a los Partidos Políticos la orientación y asesoría necesarias para el cumplimiento de las obligaciones relacionadas con la fiscalización.
+La Unidad Técnica Especializada de Fiscalización, brindará a los Partidos Políticos y Candidatos Independientes, la orientación y asesoría necesarias para el cumplimiento de las obligaciones relacionadas con la fiscalización.
 
 ###### Artículo 270.
 
@@ -4048,7 +4294,7 @@ Dicho procedimiento se iniciará con la solicitud que presenten ante esa Unidad,
 
 Para el ejercicio de sus atribuciones, las autoridades del Distrito Federal, las instituciones financieras y todas las personas físicas y morales estarán obligadas a rendir y a otorgar la documentación que esté en su poder y que les sea requerida por la Unidad Técnica Especializada de Fiscalización.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DE LA PÉRDIDA DE REGISTRO Y DE LA EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 272.
 
@@ -4106,7 +4352,7 @@ g) En todo tiempo deberá garantizarse al partido político de que se trate el e
 
 ## TÍTULO PRIMERO. DE LOS PROCEDIMIENTOS ELECTORALES Y DE PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ELECTORAL ORDINARIO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 274.
 
@@ -4120,19 +4366,27 @@ El día en que se reciba la votación de las elecciones ordinarias será conside
 
 Durante los procesos electorales y de participación ciudadana todos los días y horas son hábiles. Los plazos se contarán por días completos y cuando se señalen por horas se contarán de momento a momento.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO ELECTORAL EXTRAORDINARIO
+### CAPÍTULO II. DEL PROCEDIMIENTO ELECTORAL ORDINARIO
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, ENTRARÁ EN VIGOR AL MOMENTO EN QUE EL H. CONGRESO DE LA UNIÓN DETERMINE QUE INICIA LA VIGENCIA DE LA DISPOSICIÓN RELATIVA PARA LAS ELECCIONES FEDERALES EN TÉRMINOS DE LA LEGISLACIÓN RESPECTIVA. LA JORNADA ELECTORAL DEL PROCESO ELECTORAL DE 2018 SE VERIFICARÁ DE MANERA CONCURRENTE CON LA FEDERAL, EN LOS TÉRMINOS DEL MANDATO DEL DECRETO DE REFORMAS CONSTITUCIONALES DE 10 DE FEBRERO DE 2014.</small>
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 276.
 
-Las elecciones ordinarias de Diputados a la Asamblea Legislativa, de Jefe de Gobierno y de Jefes Delegacionales deberán celebrarse el primer domingo de julio del año que corresponda.
+Las elecciones ordinarias de Diputados a la Asamblea Legislativa, de Jefe de Gobierno y de Jefes Delegacionales deberán celebrarse el primer domingo de junio del año que corresponda.
 
 ###### Artículo 277.
 
 El proceso electoral ordinario se inicia durante el mes de octubre del año anterior a la elección y concluye una vez que el Tribunal Electoral del Distrito Federal o en su caso el Tribunal Electoral del Poder Judicial de la Federación, haya resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
-Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
-I. Preparación de la elección, que se inicia con la primera sesión que el Consejo General celebre durante la primera semana del mes de octubre del año anterior en que deban de realizarse las elecciones ordinarias, comprendiendo el registro de candidatos propuestos por los Partidos Políticos y Coaliciones, siempre que cumplan con los requisitos que contempla este Código, y concluye al iniciarse la jornada electoral;
+Para los efectos de este Código el proceso electoral ordinario comprende las etapas siguientes:
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. Preparación de la elección, que se inicia con la primera sesión que el Consejo General celebre durante la primera semana del mes de octubre del año anterior en que deban realizarse las elecciones ordinarias, comprendiendo el registro de Candidatos Independientes y de candidatos propuestos por los Partidos Políticos y Coaliciones, siempre que cumplan con los requisitos que contempla este Código, y concluye al iniciarse la jornada electoral;
 
 II. Jornada electoral, que se inicia a las 8:00 horas del primer domingo de julio y concluye con la entrega de los paquetes electorales al Consejo Distrital;
 
@@ -4140,7 +4394,7 @@ III. Cómputo y resultados de las elecciones, que se inicia con la recepción de
 
 IV. Declaratorias de validez, que se inicia al concluir el cómputo de cada elección y concluye con la entrega de las constancias de mayoría y las declaratorias de validez de las elecciones de Diputados a la Asamblea Legislativa y de Jefes Delegacionales hechas por los órganos del Instituto Electoral, o en su caso, con las resoluciones que emita el Tribunal Electoral del Distrito Federal, en este tipo de elecciones. En el caso de la elección de Jefe de Gobierno, esta etapa concluirá con el bando expedido por la Asamblea Legislativa del Distrito Federal, para dar a conocer a los habitantes del Distrito Federal, la declaración de Jefe de Gobierno electo que hubiere hecho el Tribunal Electoral del Distrito Federal en términos del Estatuto de Gobierno y del presente Código.
 
-### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO III. DEL PROCEDIMIENTO ELECTORAL EXTRAORDINARIO
 
 ###### Artículo 278.
 
@@ -4150,13 +4404,15 @@ En el caso de vacantes de Diputados a la Asamblea Legislativa del Distrito Feder
 
 En caso de que la elección del Jefe Delegacional no se hubiese realizado, o se hubiese anulado, la Asamblea Legislativa del Distrito Federal nombrará al Jefe Delegacional provisional en términos de lo previsto por el Estatuto de Gobierno. El Instituto Electoral convocará a la elección extraordinaria correspondiente, en términos del primer párrafo de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 279.
 
-Las convocatorias para la celebración de procesos electorales y de participación ciudadana extraordinarios, no podrán restringir los derechos que el Estatuto de Gobierno y el presente Código otorgan a los ciudadanos, Partidos Políticos y Coaliciones acreditados o registrados ante el Consejo General, ni alterar los procedimientos y formalidades instituidas en el mismo, excepción hecha de los plazos en que se desarrollará cada una de las etapas.
+Las convocatorias para la celebración de procesos electorales y de participación ciudadana extraordinarios, no podrán restringir los derechos que el Estatuto de Gobierno y el presente Código otorgan a los ciudadanos, Candidatos Independientes, Partidos Políticos y Coaliciones acreditados o registrados ante el Consejo General, ni alterar los procedimientos y formalidades instituidas en el mismo, excepción hecha de los plazos en que se desarrollará cada una de las etapas.
 
 En las elecciones extraordinarias no podrán participar los Partidos Políticos que hubiesen perdido su registro aún y cuando hubieran participado con candidato en la elección ordinaria que fue anulada.
 
-### CAPÍTULO I. ÁMBITO TERRITORIAL DE VALIDEZ RESPECTO A LOS CARGOS DE ELECCIÓN POPULAR
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 280.
 
@@ -4182,7 +4438,7 @@ Los Partidos Políticos que integran el Consejo General fungirán como garantes 
 
 ## TÍTULO SEGUNDO. DE LA GEOGRAFÍA ELECTORAL, LA COLABORACIÓN REGISTRAL Y ELECTORAL
 
-### CAPÍTULO II. DE LA COLABORACIÓN REGISTRAL Y ELECTORAL
+### CAPÍTULO I. ÁMBITO TERRITORIAL DE VALIDEZ RESPECTO A LOS CARGOS DE ELECCIÓN POPULAR
 
 ###### Artículo 282.
 
@@ -4202,7 +4458,7 @@ La sección electoral es la fracción territorial de los distritos electorales u
 
 El trazo de las secciones electorales atenderá a los límites de las colonias o localidades. La manzana constituirá la base geográfica de las secciones electorales.
 
-### CAPÍTULO III. DE LAS LISTAS NOMINALES DE ELECTORES Y SU REVISIÓN
+### CAPÍTULO II. DE LA COLABORACIÓN REGISTRAL Y ELECTORAL
 
 ###### Artículo 284.
 
@@ -4218,7 +4474,7 @@ De conformidad con el último párrafo de la fracción V del artículo 41 de la 
 
 Los convenios a que se refiere el párrafo anterior y que en su caso se llegaren a celebrar, limitarán la actuación del Instituto Federal Electoral a la realización de trabajos de ejecución en la organización de la elección, pero de ninguna manera se facultará al Instituto Federal Electoral con atribuciones de decisión sobre el proceso electoral ni para la aplicación de las normas del presente Código.
 
-### CAPÍTULO ÚNICO. ASIGNACIÓN POR REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO III. DE LAS LISTAS NOMINALES DE ELECTORES Y SU REVISIÓN
 
 ###### Artículo 287.
 
@@ -4250,7 +4506,7 @@ Las Listas Nominales de Electores que se entreguen a los Partidos Políticos ser
 
 ## TÍTULO TERCERO. DE LA REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DE LA ASAMBLEA LEGISLATIVA
 
-### CAPÍTULO I. REQUISITOS DE ELEGIBILIDAD PARA OCUPAR CARGOS DE ELECCIÓN POPULAR
+### CAPÍTULO ÚNICO. ASIGNACIÓN POR REPRESENTACIÓN PROPORCIONAL
 
 ###### Artículo 291.
 
@@ -4316,7 +4572,7 @@ X. Las vacantes de miembros propietarios de la Asamblea Legislativa del Distrito
 
 ## TÍTULO CUARTO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO II. ACTOS PREVIOS A LA JORNADA ELECTORAL
+### CAPÍTULO I. REQUISITOS DE ELEGIBILIDAD PARA OCUPAR CARGOS DE ELECCIÓN POPULAR
 
 ###### Artículo 294.
 
@@ -4348,11 +4604,13 @@ Quedan exceptuadas del cumplimiento de lo establecido en el párrafo primero del
 
 La Asamblea Legislativa solo concederá licencias, siempre y cuando medie escrito fundado y motivado a fin de preservar lo dispuesto en la presente disposición, en los términos que señalen los ordenamientos respectivos.
 
-### CAPÍTULO III. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
+### CAPÍTULO II. ACTOS PREVIOS A LA JORNADA ELECTORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 297.
 
-Para el registro de candidaturas a todo cargo de elección popular, el Partido Político, que cumpla con los requisitos que impone este ordenamiento deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de sus campañas electorales, previo a la solicitud de registro de la candidatura que corresponda.
+Para el registro de candidaturas a todo cargo de elección popular, el Candidato Independiente y el Partido Político que cumpla con los requisitos que impone este ordenamiento, deberán presentar y obtener, respectivamente, el registro de su plataforma electoral y de la plataforma electoral que sus candidatos sostendrán a lo largo de sus campañas electorales, previo a la solicitud de registro de la candidatura que corresponda.
 
 El Secretario Ejecutivo elaborará con anticipación los diversos formatos que faciliten el procedimiento de registro de candidatos, así como su sustitución. La plataforma electoral deberá presentarse para su registro ante el Consejo General en un plazo de 15 días que concluirá cinco días antes del inicio del registro de candidatos. Del registro de dicha plataforma se expedirá constancia.
 
@@ -4414,15 +4672,45 @@ Los partidos políticos procuraran no registrar candidatos, que habiendo partici
 
 III. Los candidatos deberán instrumentar acciones tendientes a dar a conocer sus compromisos de campaña. En todo momento, los ciudadanos podrán solicitar a los candidatos información sobre sus compromisos de campaña ya sea directamente o por medio de los Partidos Políticos o el Instituto Electoral.
 
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+###### Artículo 299 Bis.
+
+Para el registro de candidaturas independientes a todo cargo de elección popular, el interesado que pretenda contender, deberá presentar:
+
+I. La solicitud de registro de candidatura, la cual deberá señalar en lo conducente, los mismos datos que se requieren para el registro de candidatos de partidos políticos;
+
+II. El dictamen que emita el órgano fiscalizador de no rebase de gastos durante el periodo para la obtención de firmas ciudadanas;
+
+III. El dictamen que emita la Dirección Ejecutiva de Asociaciones Políticas relativo a que dicho candidato cuenta con el mínimo de firmas requerido para su registro;
+
+IV. Dos fotografías del interesado;
+
+V. La solicitud de la declaración de aceptación de la candidatura, y copia del acta de nacimiento y de la Credencial para Votar, debiendo presentar su original para su cotejo, así como en su caso, la constancia de residencia de propietario y suplente, la cual debe ser acreditada con documental pública expedida por la autoridad local;
+
+VI. Constancia de registro de la plataforma electoral; entendida como el documento que contendrá sus compromisos de campaña; y
+
+V (SIC). Presentar el proyecto de gastos de campaña, conforme al tope que haya sido aprobado por el Instituto Electoral. Dicho proyecto también incluirá la propuesta sobre el origen del financiamiento privado del que pretendan disponer.
+
+Los candidatos independientes deberán instrumentar acciones tendientes a dar a conocer sus compromisos de campaña. En todo momento, los ciudadanos podrán solicitar a los candidatos independientes registrados, información sobre sus compromisos de campaña.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 300.
 
-Recibida una solicitud de registro de candidaturas por el Presidente o el Secretario del Consejo General que corresponda, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en el artículo anterior; en su caso, se harán los requerimientos que correspondan. Los Consejos General y Distritales celebrarán una sesión, cuyo único objeto será registrar las candidaturas que procedan.
+Recibida una solicitud de registro de candidaturas por el Presidente o el Secretario del Consejo General que corresponda, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en los artículos 299 y 299 Bis; en su caso, se harán los requerimientos que correspondan. Los Consejos General y Distritales celebrarán una sesión, cuyo único objeto será registrar las candidaturas que procedan.
 
-Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al Partido Político, correspondiente, para que dentro de las 72 horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al Partido Político correspondiente o Candidato Independiente, para que dentro de las 72 horas siguientes subsane el o los requisitos omitidos; o en el caso de los partidos, sustituya la candidatura.
 
 En el caso de que para un mismo cargo de elección popular sean registrados diferentes candidatos por un mismo Partido Político, el Director Ejecutivo de Asociaciones Políticas del Instituto Electoral, una vez detectada esta situación, requerirá al Partido Político a efecto de que informe al Consejo General, en un término de 72 horas, qué candidato o fórmula prevalece. En caso de no hacerlo, se entenderá que el Partido Político opta por el último de los registros presentados, quedando sin efecto los demás.
 
 En el caso en que el candidato haya sido postulado para un cargo de elección federal, el Director Ejecutivo de Asociaciones Políticas del Instituto Electoral requerirá al Partido Político para su sustitución en un plazo de 48 horas después de notificar el dictamen de la no procedencia.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Tratándose de Candidatos Independientes, cuando hayan solicitado registro para dos o más distintos cargos en elecciones locales o federales, o pretendan el registro en más de un distrito electoral, el Director Ejecutivo de Asociaciones Políticas del Instituto Electoral, una vez detectada esta situación, requerirá al involucrado a efecto de que informe al Consejo General, en un término de 72 horas, qué registro prevalecerá; en caso de no hacerlo, se entenderá que opta por el último de los registros presentados, quedando sin efecto los demás.
 
 Cualquier solicitud presentada fuera de los plazos para el registro de candidaturas será desechada de plano y, en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
@@ -4446,11 +4734,13 @@ Los Partidos Políticos o Coaliciones al realizar la sustitución de candidatos 
 
 Cualquier sustitución de candidaturas que no se sujete a lo establecido en el párrafo anterior no podrá ser registrada.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
 
 ###### Artículo 302.
 
 El Consejo General, tomando en cuenta las medidas de certeza que estime pertinentes, aprobará el modelo del material electoral, actas de casilla, boletas electorales y, en su caso, los instrumentos electrónicos que se utilizarán para la elección de representantes populares o en los procesos de participación ciudadana.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2014)</small>
 
 Las boletas para las elecciones populares contendrán:
 
@@ -4458,21 +4748,31 @@ I. Entidad, Delegación o distrito electoral;
 
 II. Cargo para el que se postula al candidato o candidatos;
 
-III. Color o combinación de colores y emblema del Partido Político o el emblema y el color o colores de la Coalición, o nombre simplemente en el caso de candidato ciudadano;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Color o combinación de colores y emblema del Partido Político o el emblema y el color o colores de la Coalición o Candidato Independiente;
 
 IV. Las boletas estarán adheridas a un talón foliado, del cual serán desprendibles. La información que contendrá este talón será la relativa al distrito electoral y a la elección que corresponda;
 
 V. Nombre y apellidos de las candidatas o candidatos;
 
-VI. En la elección de Diputados por mayoría relativa, un recuadro por cada Partido Político o Coalición, que contenga la fórmula de candidatos propietarios y suplentes; en el reverso, la lista que cada Partido Político o Coalición postule de sus candidatos a Diputados por el principio de representación proporcional;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-VII. En el caso de la elección de Jefes Delegacionales, un espacio por cada Partido Político;
+VI. En la elección de Diputados por mayoría relativa, un recuadro por cada Partido Político o Coalición y Candidatos Independientes, que contenga la fórmula de candidatos propietarios y suplentes; en el reverso, la lista que cada Partido Político o Coalición postule de sus candidatos a Diputados por el principio de representación proporcional;
 
-VIII. En el caso de la elección de Jefe de Gobierno, un solo espacio por cada Partido Político;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VII. En el caso de la elección de Jefes Delegacionales, un espacio por cada Partido Político y uno para cada Candidato Independiente;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VIII. En el caso de la elección de Jefe de Gobierno, un solo espacio por cada Partido Político y uno para cada Candidato Independiente;
 
 IX. Las firmas impresas del Consejero Presidente del Consejo General y del Secretario Ejecutivo del Instituto Electoral;
 
-X. Los colores y emblema de los Partidos Políticos aparecerán en la boleta en igual tamaño y en el orden que les corresponden de acuerdo a la antigüedad de su registro. En caso de Coalición, el emblema registrado y los nombres de los candidatos aparecerán en el lugar que corresponde al Partido Político Coaligado de mayor antigüedad; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+X. Los colores y emblema de los Partidos Políticos aparecerán en la boleta en igual tamaño y en el orden que les corresponden de acuerdo a la antigüedad de su registro. En caso de Coalición, el emblema registrado y los nombres de los candidatos aparecerán en el lugar que corresponde al Partido Político Coaligado de mayor antigüedad. Al final de ellos aparecerá en igual tamaño el recuadro que contenga el nombre y emblema para cada uno de los Candidatos Independientes, atendiendo al orden de su registro; y
 
 XI. Las medidas de seguridad que eviten su falsificación.
 
@@ -4492,7 +4792,9 @@ Las boletas y actas de casilla deberán obrar en poder del Consejo Distrital die
 
 I. El Presidente del Consejo Distrital citará a los demás miembros del mismo, el día y la hora en que serán recibidas las boletas electorales en las oficinas del Consejo Distrital;
 
-II. El Consejero Presidente, el Secretario y los Consejeros Electorales distritales, en presencia de los representantes de los Partidos Políticos presentes, procederán a contar las boletas y actas de casilla para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General para ellas;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. El Consejero Presidente, el Secretario y los Consejeros Electorales distritales, en presencia de los representantes de los Partidos Políticos y Candidatos Independientes presentes, procederán a contar las boletas y actas de casilla para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General para ellas;
 
 III. El Secretario levantará acta pormenorizada de la entrega, recepción y distribución de las boletas y actas de casilla, asentando en ella los datos relativos al número de boletas y actas de casilla, las características del embalaje que las contiene, y los nombres y cargos de los funcionarios presentes; y
 
@@ -4506,11 +4808,15 @@ Para orientar a los ciudadanos en el ejercicio del sufragio y coadyuvar con la l
 
 Las urnas en que los electores depositen las boletas, deberán construirse de un material transparente, plegable o armables y llevarán en el exterior y en lugar visible, impresa o adherida en el mismo color de la boleta que corresponda, la denominación de la elección de que se trate. En caso de que se utilicen instrumentos electrónicos para la recepción del voto, el contenedor de los votos deberá ser resistente, preferentemente transparente, formar parte del respectivo instrumento electrónico, y garantizar la secrecía del voto, conforme a las características determinadas por el Instituto Electoral.
 
-Los Consejos Distritales podrán acordar un cotejo muestral entre las Listas Nominales de Electores entregadas a los Partidos Políticos y las que habrán de ser utilizadas el día de la jornada electoral. El cotejo muestral podrá realizarse antes de su distribución a las casillas.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Los Consejos Distritales podrán acordar un cotejo muestral entre las Listas Nominales de Electores entregadas a los Partidos Políticos y Candidatos Independientes y las que habrán de ser utilizadas el día de la jornada electoral. El cotejo muestral podrá realizarse antes de su distribución a las casillas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 307.
 
-(DEROGADO, G.O. 1 DE JULIO DE 2011)
+Los Candidatos Independientes acreditarán representantes ante los consejos distritales del ámbito de la elección en la que participen; quienes tendrán las mismas facultades de los representantes acreditados por los partidos políticos. En el caso de candidatos y candidatas independientes a Jefe de Gobierno, acreditarán representantes ante el Consejo General, únicamente durante el proceso electoral respectivo, y solo para efectos de escrutinio y cómputo.
 
 ###### Artículo 308.
 
@@ -4518,7 +4824,9 @@ Los Consejeros Presidentes de los Consejos Distritales entregarán a cada Presid
 
 I. La Lista Nominal de Electores de cada sección, con la relación de ciudadanos que les corresponda votar en cada casilla;
 
-II. La relación de los representantes de los Partidos Políticos ante la casilla y generales registrados en el Consejo Distrital;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. La relación de los representantes de los Partidos Políticos y de los candidatos independientes ante la casilla y generales registrados en el Consejo Distrital;
 
 III. Las boletas para cada elección, en número igual al de los electores que figuren en la Lista Nominal de Electores para cada casilla de la sección y el dato de los folios correspondientes;
 
@@ -4550,11 +4858,15 @@ V. Para determinar el tope de gastos de campaña en distritos y Delegaciones, se
 
 VI. Para obtener el factor de costo por ciudadano, la cantidad obtenida conforme a lo dispuesto en la fracción IV para las elecciones de Diputados o Jefes Delegacionales se dividirá entre el número de electores correspondiente al último corte del Padrón Electoral; y
 
-VII. Salvo el Partido Político que obtenga mayor financiamiento público en términos de este Código, los demás Partidos Políticos podrán realizar transferencias de sus otras fuentes de financiamiento para los gastos de campaña, respetando los topes de gastos, especificando los montos de cada una de las transferencias y observando el principio de supremacía del financiamiento público sobre el privado.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VII. Salvo el Partido Político que obtenga mayor financiamiento público en términos de este Código, los demás Partidos Políticos y Candidaturas Independientes podrán realizar transferencias de sus otras fuentes de financiamiento para los gastos de campaña, respetando los topes de gastos, especificando los montos de cada una de las transferencias y observando el principio de supremacía del financiamiento público sobre el privado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 310.
 
-Los gastos que realicen los Partidos Políticos y sus candidatos en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General, previo al inicio de las campañas.
+Los gastos que realicen los Partidos Políticos, sus candidatos y los candidatos independientes en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo General, previo al inicio de las campañas.
 
 Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
 
@@ -4572,21 +4884,27 @@ No se considerarán dentro de los topes de campaña los gastos que realicen los 
 
 ## TÍTULO QUINTO. CAMPAÑAS ELECTORALES
 
-### CAPÍTULO II. DISPOSICIONES PARA EL CONTROL DE LA PROPAGANDA ELECTORAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 311.
 
-La campaña electoral, para los efectos de este Código, es el conjunto de actividades llevadas a cabo por los Partidos Políticos o Coaliciones, para la obtención del voto.
+La campaña electoral, para los efectos de este Código, es el conjunto de actividades llevadas a cabo por los Partidos Políticos, Coaliciones o Candidatos Independientes, para la obtención del voto.
 
 Se entiende por actos de campaña las reuniones públicas, debates, asambleas, visitas, marchas y en general aquéllos en que los candidatos o sus voceros se dirigen al electorado para promover sus candidaturas.
 
 Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones, mantas, cartelones, pintas de bardas y expresiones que durante la campaña electoral producen y difunden los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
 
-Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los Partidos Políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los Partidos Políticos y Candidatos Independientes en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección en cuestión hubieren registrado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 312.
 
-Las campañas electorales de los Partidos Políticos se iniciarán:
+Las campañas electorales se iniciarán:
 
 I. 60 días antes del término previsto para finalizar las campañas electorales, en el caso de elección para Jefe de Gobierno del Distrito Federal, y
 
@@ -4596,33 +4914,41 @@ Las campañas electorales deberán concluir tres días antes de celebrarse la jo
 
 El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales. La contravención a esta disposición, será sancionada en los términos de la fracción I del artículo 379 de este Código.
 
-### CAPÍTULO III. REGLAS GENERALES PARA LA CELEBRACIÓN DE DEBATES Y ENCUESTAS DE OPINIÓN
+### CAPÍTULO II. DISPOSICIONES PARA EL CONTROL DE LA PROPAGANDA ELECTORAL
 
 ###### Artículo 313.
 
 La propaganda electoral deberá ser retirada por el Gobierno del Distrito Federal y los Órganos Político-Administrativos, en cada una de sus demarcaciones. La propaganda retirada de la vía pública deberá ser enviada a centros de reciclaje, acreditando mediante las constancias que éstos emiten, la entrega de dichos materiales.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 314.
 
-El Presidente del Consejo General podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran, desde el momento en que de acuerdo con los mecanismos internos de su Partido, se ostenten con tal carácter.
+El Presidente del Consejo General podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran, desde el momento en que de acuerdo con los mecanismos internos de su Partido, o habiendo obtenido el registro como Candidato Independiente, se ostenten con tal carácter.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 315.
 
-Las reuniones públicas realizadas por los Partidos Políticos no tendrán más límite que el respeto a los derechos de terceros, en particular los de otros Partidos Políticos, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público dicte la autoridad administrativa competente.
+Las reuniones públicas realizadas por los Partidos Políticos y candidatos no tendrán más límite que el respeto a los derechos de terceros, en particular los de otros Partidos Políticos y candidatos, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público dicte la autoridad administrativa competente.
 
 En los inmuebles sujetos al régimen de propiedad en condominio, los administradores o los encargados de controlar los accesos, permitirán el ingreso a los Partidos Políticos y candidatos que pretendan llevar a cabo actos de campaña electoral al interior de los propios inmuebles, sujetándose en todo caso a lo establecido por el reglamento del condominio.
 
 En aquellos casos en los que las autoridades concedan gratuitamente a los Partidos Políticos o candidatos el uso de locales cerrados de propiedad pública, deberán ajustarse a lo siguiente:
 
-I. Las autoridades federales, locales y delegacionales deberán dar un trato equitativo en el uso de los locales públicos a todos los Partidos Políticos que participen en la elección; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. Las autoridades federales, locales y delegacionales deberán dar un trato equitativo en el uso de los locales públicos a todos los Partidos Políticos y candidatos independientes que participen en la elección; y
 
 II. Los contendientes deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre del ciudadano autorizado por el Partido Político o el candidato en cuestión que se responsabilice del buen uso del local y sus instalaciones.
 
 Los Partidos Políticos o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán dar a conocer a la autoridad competente su itinerario a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión. Este tipo de actos deberán respetar en todo momento la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 316.
 
-La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o del candidato postulado por Partido.
+La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del Partido Político o del Candidato Independiente o postulado por Partido.
 
 El material que se utilice para la elaboración de propaganda deberá ser reciclado, de naturaleza biodegradable o en su defecto de naturaleza reciclable. La utilización de plásticos se deberá sujetar a lo dispuesto en la ley respectiva en materia de plásticos. Tratándose de papel el 70% deberá ser reciclado.
 
@@ -4630,7 +4956,9 @@ La propaganda que Partidos Políticos y candidatos difundan por medios gráficos
 
 Además, propiciará la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestas por los mismos. No deberá utilizar símbolos, signos o motivos religiosos, expresiones verbales o alusiones ofensivas a las personas o a los candidatos de los diversos Partidos que contiendan en la elección. La propaganda que los Partidos Políticos y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por este Código, así como a las disposiciones administrativas expedidas en materia de prevención de la contaminación por ruido.
 
-Los Partidos Políticos, las Coaliciones y los candidatos se abstendrán de utilizar propaganda y en general cualquier mensaje que implique diatriba, injuria, difamación o calumnia en menoscabo de la imagen de Partidos Políticos, candidatos o instituciones públicas.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Los Partidos Políticos, las Coaliciones y los candidatos se abstendrán de utilizar propaganda y en general cualquier mensaje que implique diatriba, injuria, difamación o calumnia en menoscabo de la imagen de Partidos Políticos, candidatos de partido e independientes o instituciones públicas.
 
 Queda prohibido a los concesionarios y permisionarios de radio y televisión difundir propaganda, y en general cualquier mensaje que implique alguno de los actos considerados en el párrafo anterior.
 
@@ -4656,7 +4984,9 @@ V. No podrá colgarse, fijarse, pintarse o pegarse en monumentos históricos, ar
 
 Se entiende por lugares de uso común los que son propiedad del Gobierno del Distrito Federal, los bienes abandonados o mostrencos, mamparas que se establecieran en el número que determine el Consejo General, previo acuerdo con el Gobierno del Distrito Federal, o los lugares que los particulares pongan a disposición del Instituto Electoral para efectos de propaganda, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral.
 
-Estos lugares serán repartidos en forma igualitaria y por sorteo entre los Partidos Políticos y Coaliciones registrados, conforme al procedimiento acordado por el Consejo General en sesión que celebren los Consejos Distritales a más tardar en la última semana del mes de marzo del año de la elección.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Estos lugares serán repartidos en forma igualitaria y por sorteo entre los Partidos Políticos, Coaliciones y Candidatos Independientes registrados, conforme al procedimiento acordado por el Consejo General en sesión que celebren los Consejos Distritales a más tardar en la última semana del mes de marzo del año de la elección.
 
 Se entiende por mobiliario urbano todos aquellos elementos urbanos complementarios, ya sean fijos, permanentes, móviles o temporales, ubicados en vía pública o en espacios públicos que sirven de apoyo a la infraestructura y al equipamiento urbanos y que refuerzan la imagen de la ciudad, tales como bancas, parabuses, cabinas telefónicas, buzones de correo, columnas, carteleras publicitarias con anuncios e información turística, social y cultural, unidades de soporte múltiple con nomenclatura, postes con nomenclatura y placas de nomenclatura, sanitarios públicos, bebedores, quioscos para venta de periódicos, libros, revistas, dulces, flores y juegos de azar para la asistencia pública, vallas, bolardos, rejas, casetas de vigilancia, semáforos y cualquier otro elemento que cumpla con esta finalidad, recipientes para basura, recipientes para basura clasificada, contenedores, postes de alumbrado, unidades de soporte múltiple, parquímetros, soportes para bicicletas, muebles para aseo de calzado, para sitios de automóviles de alquiler y mudanza, protectores para árboles, jardineras y macetas.
 
@@ -4676,19 +5006,23 @@ Queda prohibida la utilización de programas sociales y de sus recursos, del ám
 
 Durante las campañas los servidores públicos no podrán utilizar ni aplicar programas emergentes destinados a la ciudadanía, salvo en casos de desastres naturales y protección civil.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 321.
 
-En términos de lo dispuesto por el apartado B de la Base III del artículo 41 de la Constitución Política, solamente el Instituto Federal Electoral es el encargado de la administración de los tiempos en radio y televisión que le corresponden al Estado para los fines tanto de las autoridades electorales federales como las de las Entidades Federativas.
+En términos de lo dispuesto por el apartado B de la Base III del artículo 41 de la Constitución Política, el Instituto Nacional Electoral es el único encargado de la administración de los tiempos en radio y televisión que le corresponden al Estado para los fines tanto de las autoridades electorales federales como las de las Entidades Federativas.
 
-El Instituto Electoral, a través de la Dirección Ejecutiva de Asociaciones Políticas, realizará las acciones conducentes para obtener de la autoridad electoral federal los tiempos necesarios para la difusión ordinaria y de campaña de los Partidos Políticos y su distribución entre éstos.
+El Instituto Electoral, a través de la Dirección Ejecutiva de Asociaciones Políticas, realizará las acciones conducentes para obtener de la autoridad electoral federal los tiempos necesarios para la difusión ordinaria y de campaña de los Partidos Políticos y Candidatos Independientes, y su distribución entre éstos.
 
 ###### Artículo 322.
 
 Durante las campañas electorales, los candidatos a un cargo de elección popular no podrán contratar por cuenta propia o interpósita persona, tiempos y espacios en radio y televisión. Asimismo, ninguna persona física o moral podrá ceder gratuitamente tiempos y espacios publicitarios en medios de comunicación masiva a favor o en contra de algún Partido Político o candidato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 323.
 
-La Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral solicitará a los medios impresos los catálogos y tarifas disponibles y los que reciba los pondrá a disposición de los Partidos Políticos
+La Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral solicitará a los medios impresos los catálogos y tarifas disponibles y los que reciba los pondrá a disposición de los Partidos Políticos y Candidatos Independientes.
 
 El Instituto Electoral podrá convenir con el órgano electoral federal medidas para la coordinación e intercambio de información respecto a lo establecido en el presente Capítulo.
 
@@ -4696,19 +5030,25 @@ El Instituto Electoral podrá convenir con el órgano electoral federal medidas 
 
 Los Partidos Políticos y los candidatos, podrán ejercer el derecho de réplica, y aclaración respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades o atributos. Este derecho se ejercitará, sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
 
-Los Partidos Políticos presentarán solicitud de réplica cuando consideren que se difunden hechos falsos o sin sustento alguno. La solicitud de aclaración procederá por comentarios editoriales o información tendenciosa o insuficiente, que a juicio del Partido Político afecte su imagen ante el electorado.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Los Partidos Políticos y los Candidatos Independientes presentarán solicitud de réplica cuando consideren que se difunden hechos falsos o sin sustento alguno. La solicitud de aclaración procederá por comentarios editoriales o información tendenciosa o insuficiente, que a juicio del Partido Político o candidato, afecte su imagen ante el electorado.
 
 El Consejo General será el órgano encargado de establecer el procedimiento para garantizar y hacer efectivo el ejercicio del derecho de réplica.
 
-### CAPÍTULO I. DE LA UBICACIÓN DE CASILLAS
+### CAPÍTULO III. REGLAS GENERALES PARA LA CELEBRACIÓN DE DEBATES Y ENCUESTAS DE OPINIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 325.
 
-Para la difusión de las plataformas electorales de los contendientes y de la cultura democrática, el Instituto Electoral organizará debates públicos, previo consenso de los Partidos Políticos, tomando en consideración lo siguiente:
+Para la difusión de las plataformas electorales de los contendientes y de la cultura democrática, el Instituto Electoral organizará debates públicos, previo consenso de los Partidos Políticos y representantes de los Candidatos Independientes, tomando en consideración lo siguiente:
 
 I. El nivel de difusión procurará garantizar la totalidad del área geográfica donde se verificará la elección de que se trate;
 
-II. El esquema del debate será acordado por los representantes de los Partidos, con la mediación del Instituto Electoral;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. El esquema del debate será acordado por los representantes de los Partidos y Candidatos Independientes, con la mediación del Instituto Electoral;
 
 III. El Instituto Electoral convendrá con los medios de difusión públicos y privados lo relativo a la promoción y difusión de los debates públicos; y
 
@@ -4720,7 +5060,9 @@ Las encuestas de opinión que se realicen desde el inicio de las campañas hasta
 
 Quien ordene la publicación o difusión de cualquier encuesta o sondeo de opinión sobre las campañas electorales, deberá entregar dentro de los tres días siguientes un ejemplar del estudio completo al Consejero Presidente del Consejo General, en el que incluirá la metodología, el nombre de la empresa que lo realiza y, en su caso, el nombre del patrocinador de la encuesta.
 
-En todos los casos la metodología utilizada en las encuestas o sondeos de opinión estará a disposición de los Partidos Políticos y Coaliciones en la Secretaría Ejecutiva del Instituto Electoral.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+En todos los casos la metodología utilizada en las encuestas o sondeos de opinión estará a disposición de los Partidos Políticos, Coaliciones y Candidatos Independientes, en la Secretaría Ejecutiva del Instituto Electoral.
 
 Durante los ocho días previos a la elección y hasta la hora del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas y sanciones correspondientes.
 
@@ -4728,7 +5070,7 @@ Las personas físicas o morales que pretendan llevar a cabo encuestas por muestr
 
 ## TÍTULO SEXTO. DE LAS CASILLAS ELECTORALES
 
-### CAPÍTULO II. DE LA DESIGNACIÓN DE LOS FUNCIONARIOS DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPÍTULO I. DE LA UBICACIÓN DE CASILLAS
 
 ###### Artículo 327.
 
@@ -4774,7 +5116,7 @@ III. En sesión del Consejo Distrital que se celebre en la última semana del me
 
 IV. El Secretario Ejecutivo del Consejo General ordenará la publicación de la lista de ubicación de casillas aprobadas, a más tardar el 15 de junio del año de la elección y ordenará una segunda publicación de la lista, en su caso, con los ajustes correspondientes, la última semana de junio del año de la elección. Los Presidentes de los Consejos Distritales harán lo propio en los lugares públicos comprendidos en su distrito.
 
-### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO II. DE LA DESIGNACIÓN DE LOS FUNCIONARIOS DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### Artículo 330.
 
@@ -4798,29 +5140,45 @@ Durante el procedimiento para la designación de funcionarios de casilla deberá
 
 El Instituto Electoral, promoverá la participación de los ciudadanos en las tareas electorales. Los ciudadanos designados para integrar las mesas directivas de casilla, podrán excusarse de su responsabilidad, únicamente por causa justificada o de fuerza mayor, presentando dicha excusa por escrito ante el organismo que lo designó.
 
-### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 331.
 
-Los Partidos Políticos y Coaliciones tendrán derecho a nombrar representantes ante las Mesas Directivas de Casilla, de acuerdo con lo siguiente:
+Los Partidos Políticos, Coaliciones y Candidatos Independientes tendrán derecho a nombrar representantes ante las Mesas Directivas de Casilla, de acuerdo con lo siguiente:
 
 I. Deberán ser acreditados por escrito ante el Consejo Distrital respectivo, durante el mes de junio y hasta siete días antes del día de la elección, por quien tenga facultades de representación en los términos de este Código;
 
 II. Podrán acreditar dos representantes propietarios y un suplente ante cada casilla y en cada Distrito Electoral dos representantes generales propietarios, hasta por cada diez casillas electorales; anexando la relación de los nombres de los representantes y tipo de representación, el carácter de propietario o suplente, según sea el caso, la clave de la Credencial para Votar de cada uno de ellos y las casillas en las que participarán;
 
-III. Los nombramientos de los representantes se harán en hoja membretada del Partido Político o Coalición, debiendo contener la denominación del Partido Político o Coalición; el nombre del representante, clave de elector y tipo de representación; indicación de su carácter de propietario o suplente; número del distrito electoral, sección y casilla en que actuarán; nombre y firma del representante del Partido Político o Coalición, ante el Consejo Distrital o del dirigente que haga el nombramiento;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-IV. Durante el plazo para su registro los Partidos Políticos y Coaliciones podrán sustituir libremente a sus representantes, posteriormente sólo por causa de fuerza mayor; y
+III. Los nombramientos de los representantes se harán en hoja membretada del Partido Político, Coalición o Candidato Independiente, debiendo contener la denominación del Partido Político, Coalición o Candidato Independiente; el nombre del representante, clave de elector y tipo de representación; indicación de su carácter de propietario o suplente; número del distrito electoral, sección y casilla en que actuarán; nombre y firma del representante del Partido Político, Coalición o Candidato Independiente, ante el Consejo Distrital o del dirigente que haga el nombramiento;
 
-V. El Presidente y Secretario del Consejo Distrital sellarán y firmarán los nombramientos respectivos y los devolverán a los Partidos Políticos o Coaliciones, a más tardar cinco días antes de la elección, conservando una relación de los mismos para su entrega a Presidentes de la Mesa Directiva de Casilla y Asistentes Electorales.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-Las solicitudes de registro que no reúnan alguno de los requisitos, se regresarán al Partido Político o Coalición solicitante, para que dentro de los tres días siguientes, subsane las omisiones. Vencido el término señalado sin corregirse la omisión, no se registrará el nombramiento.
+IV. Durante el plazo para su registro los Partidos Políticos, Coaliciones y Candidatos Independientes podrán sustituir libremente a sus representantes, posteriormente sólo por causa de fuerza mayor; y
 
-En caso de que el Consejero Presidente del Consejo Distrital no resuelva dentro de las cuarenta y ocho horas siguientes a la solicitud o niegue el registro, el Partido Político o Coalición interesado podrá solicitar al Consejero Presidente del Consejo General, registre a los representantes de manera supletoria.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+V. El Presidente y Secretario del Consejo Distrital sellarán y firmarán los nombramientos respectivos y los devolverán a los Partidos Políticos, Coaliciones y Candidatos Independientes, a más tardar cinco días antes de la elección, conservando una relación de los mismos para su entrega a Presidentes de la Mesa Directiva de Casilla y Asistentes Electorales.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Las solicitudes de registro que no reúnan alguno de los requisitos, se regresarán al Partido Político, Coalición o Candidato Independiente solicitante, para que dentro de los tres días siguientes, subsane las omisiones. Vencido el término señalado sin corregirse la omisión, no se registrará el nombramiento.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+En caso de que el Consejero Presidente del Consejo Distrital no resuelva dentro de las cuarenta y ocho horas siguientes a la solicitud o niegue el registro, el Partido Político, Coalición o Candidato Independiente interesado podrá solicitar al Consejero Presidente del Consejo General, registre a los representantes de manera supletoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 332.
 
-Los representantes de los Partidos Políticos o Coaliciones, para la jornada electoral ajustarán su conducta a las siguientes reglas:
+Los representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes, para la jornada electoral ajustarán su conducta a las siguientes reglas:
 
 I. Tendrán los siguientes derechos:
 
@@ -4828,7 +5186,9 @@ a) Ejercer su cargo exclusivamente ante las Mesas Directivas de Casilla para las
 
 b) Observar y vigilar que el desarrollo de la elección se apegue a las disposiciones de este Código;
 
-c) Portar en lugar visible durante todo el día de la jornada electoral, un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del Partido Político o Coalición al que representen y con la leyenda visible de “representante”;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+c) Portar en lugar visible durante todo el día de la jornada electoral, un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del Partido Político, Coalición o Candidato Independiente al que representen y con la leyenda visible de “representante”;
 
 d) Participar en la instalación de la casilla y coadyuvar al buen desarrollo de sus actividades hasta su clausura;
 
@@ -4848,7 +5208,7 @@ c) Acreditarse ante el Presidente de la Mesa Directiva de Casilla mediante el no
 
 Los representantes generales verificarán la presencia de sus representantes ante las Mesas de Casilla, recibirán de los mismos informes y los auxiliarán en sus funciones, pudiendo presentar escritos de incidentes y de protesta. Sólo por inasistencia o ausencia definitiva del representante de casilla, el representante general podrá sustituirlo en sus funciones, sin que pueda presentarse más de un representante general por casilla.
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
 
 ###### Artículo 333.
 
@@ -4880,9 +5240,13 @@ La actuación de los observadores se sujetará a las normas siguientes:
 
 I. Podrán presenciar y asistir a las sesiones públicas de los órganos del Instituto Electoral, presenciar en las casillas electorales los actos relativos a la jornada electoral y solicitar por escrito al Instituto Electoral información sobre el proceso electoral para el mejor desarrollo de sus actividades;
 
-II. Por ningún motivo podrán sustituir u obstaculizar a las autoridades electorales y representantes de los Partidos Políticos o Coaliciones en el ejercicio de sus funciones;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-III. No podrán hacer proselitismo de cualquier tipo o manifestarse en favor de Partido Político, Coalición o candidato alguno, ni externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, Partidos Políticos, Coaliciones o candidatos;
+II. Por ningún motivo podrán sustituir u obstaculizar a las autoridades electorales y representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. No podrán hacer proselitismo de cualquier tipo o manifestarse en favor de Partido Político, Coalición o candidato alguno, ya sea de partido o independiente, ni externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, Partidos Políticos, Coaliciones o candidatos;
 
 IV. La observación podrá realizarse en cualquier ámbito territorial del Distrito Federal;
 
@@ -4896,7 +5260,7 @@ El Consejo General en ocasión de la celebración de los procesos electorales, p
 
 ## TÍTULO SÉPTIMO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE LAS CASILLAS
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 336.
 
@@ -4904,9 +5268,11 @@ Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los c
 
 El día de la jornada electoral, exclusivamente pueden portar armas los miembros uniformados de las fuerzas públicas encargadas del orden. Sin embargo, ningún miembro uniformado podrá ingresar armado a la casilla.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 337.
 
-Ninguna autoridad podrá detener a los integrantes de las Mesas Directivas de Casilla o a los representantes de los Partidos Políticos o Coaliciones durante la jornada electoral, salvo en el caso de flagrante delito.
+Ninguna autoridad podrá detener a los integrantes de las Mesas Directivas de Casilla o a los representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes durante la jornada electoral, salvo en el caso de flagrante delito.
 
 ###### Artículo 338.
 
@@ -4922,9 +5288,11 @@ IV. La información de los hechos que puedan influir o alterar el resultado de l
 
 Asimismo, el Instituto Electoral podrá solicitar de las autoridades federales y de las entidades federativas, la información a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 339.
 
-Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de Partidos Políticos y Coaliciones, para dar fe de hechos o certificar documentos concernientes a la elección, los cuales serán gratuitos durante la jornada electoral.
+Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, para dar fe de hechos o certificar documentos concernientes a la elección, los cuales serán gratuitos durante la jornada electoral.
 
 Para estos efectos, el Colegio de Notarios del Distrito Federal publicará, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
 
@@ -4970,25 +5338,35 @@ g) No militar en ninguna (sic) Partido Político; y
 
 h) Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
 
-Por ningún motivo los asistentes electorales podrán sustituir en sus funciones a los funcionarios de casilla o representantes de los Partidos Políticos o Coaliciones.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Por ningún motivo los asistentes electorales podrán sustituir en sus funciones a los funcionarios de casilla o representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes.
 
 ###### Artículo 341.
 
 Los Consejos Distritales, previamente al día de la elección, adoptarán las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados inmediatamente, así como en su caso del resguardo y organización para la distribución de los medios electrónicos aprobados por el Consejo General para la emisión del voto electrónico.
 
-Para la recepción continua y simultánea de los paquetes electorales y de los medios aprobados por el Consejo General para la emisión del voto electrónico, el Consejo Distrital podrá autorizar a los Consejeros Electorales para tal efecto, pudiendo llamar, asimismo, a los Consejeros Electorales suplentes y al personal de estructura que ocupe puestos exclusivos del Servicio Profesional Electoral referenciado en el Catálogo de Cargos y Puestos del Instituto Electoral. Los Partidos Políticos y Coaliciones podrán acreditar a un representante suplente adicional, con el único fin de que esté presente durante dicha recepción.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
-Cuando medie caso fortuito o causa de fuerza mayor, se considerará que existe una causa justificada para que los paquetes con los expedientes de casilla o los instrumentos electrónicos para la recepción de la votación no sean entregados inmediatamente al Consejo Distrital. Los Consejos Distritales durante los tres días previos a la elección y el mismo día de la elección solicitarán por escrito a los Partidos Políticos y Coaliciones retirar su propaganda de los lugares en donde se instalarán las casillas. En forma complementaria, los Consejos Distritales tomarán las medidas necesarias para el retiro de la propaganda en dichos lugares, en términos de lo dispuesto por este Código. En todo caso, se hará bajo la vigilancia y supervisión de los Consejeros Electorales y representantes de los Partidos Políticos y Coaliciones.
+Para la recepción continua y simultánea de los paquetes electorales y de los medios aprobados por el Consejo General para la emisión del voto electrónico, el Consejo Distrital podrá autorizar a los Consejeros Electorales para tal efecto, pudiendo llamar, asimismo, a los Consejeros Electorales suplentes y al personal de estructura que ocupe puestos exclusivos del Servicio Profesional Electoral referenciado en el Catálogo de Cargos y Puestos del Instituto Electoral. Los Partidos Políticos, Coaliciones y Candidatos Independientes podrán acreditar a un representante suplente adicional, con el único fin de que esté presente durante dicha recepción.
 
-### CAPÍTULO III. DE LA VOTACIÓN
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Cuando medie caso fortuito o causa de fuerza mayor, se considerará que existe una causa justificada para que los paquetes con los expedientes de casilla o los instrumentos electrónicos para la recepción de la votación no sean entregados inmediatamente al Consejo Distrital. Los Consejos Distritales durante los tres días previos a la elección y el mismo día de la elección solicitarán por escrito a los Partidos Políticos, Coaliciones y Candidatos Independientes retirar su propaganda de los lugares en donde se instalarán las casillas. En forma complementaria, los Consejos Distritales tomarán las medidas necesarias para el retiro de la propaganda en dichos lugares, en términos de lo dispuesto por este Código. En todo caso, se hará bajo la vigilancia y supervisión de los Consejeros Electorales y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes.
+
+### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE LAS CASILLAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 342.
 
-El primer domingo de julio del año de la elección ordinaria a partir de las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutador de las Mesas Directivas de Casilla nombrados como propietarios, procederán a la instalación de la casilla en el lugar previamente señalado por el Consejo Distrital en presencia de los representantes de Partidos Políticos y Coaliciones que concurran. La apertura de la casilla iniciará para el inicio de la votación a las 8:00 horas. En ningún caso podrá iniciar la votación en las casillas antes de las 8:00 horas
+El primer domingo de junio del año de la elección ordinaria a partir de las 8:00 horas, los ciudadanos Presidente, Secretario y Escrutador de las Mesas Directivas de Casilla nombrados como propietarios, procederán a la instalación de la casilla en el lugar previamente señalado por el Consejo Distrital en presencia de los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes que concurran. La apertura de la casilla iniciará para el inicio de la votación a las 8:00 horas. En ningún caso podrá iniciar la votación en las casillas antes de las 8:00 horas.
 
 De no integrarse la Mesa Directiva de casilla e instalarse la misma a las 8:15 horas conforme al párrafo anterior, y si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración En primer término, recorrerá el orden de los propietarios presentes, para ocupar los cargos de los funcionarios ausentes; enseguida, habilitará como propietarios a los suplentes presentes para cubrir la ausencia de los faltantes. En ausencia de los funcionarios designados, integrará la Mesa Directiva de Casilla nombrando a los funcionarios de entre los electores que se encuentren en la casilla.
 
-Si no asistiera ninguno de los funcionarios de la casilla, el Consejo Distrital tomará las medidas necesarias para la integración de la Mesa Directiva de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su integración e la (sic) instalación de la casilla. Cuando no sea posible la intervención oportuna del personal designado por el Consejo Distrital, a las 10:00 horas, encontrándose presentes más de dos representantes de los Partidos Políticos y Coaliciones ante las Mesas Directivas de Casilla designarán, por mayoría, a los funcionarios necesarios para integrar la Mesa Directiva de Casilla de entre los electores presentes.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Si no asistiera ninguno de los funcionarios de la casilla, el Consejo Distrital tomará las medidas necesarias para la integración de la Mesa Directiva de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su integración e instalación de la casilla. Cuando no sea posible la intervención oportuna del personal designado por el Consejo Distrital, a las 10:00 horas, encontrándose presentes más de dos representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante las Mesas Directivas de Casilla designarán, por mayoría, a los funcionarios necesarios para integrar la Mesa Directiva de Casilla de entre los electores presentes.
 
 En el supuesto previsto en el párrafo anterior, el Presidente del Consejo Distrital requerirá la presencia de un notario público, quien tiene la obligación de acudir y dar fe de los hechos; en su defecto, bastará que los representantes expresen su conformidad para designar, de común acuerdo, a los miembros de la Mesa Directiva de Casilla.
 
@@ -5014,19 +5392,27 @@ En todos los anteriores casos, invariablemente la casilla deberá quedar instala
 
 Una vez integrada la Mesa Directiva de Casilla, inmediatamente y previo a la recepción de la votación, se procederá a lo siguiente:
 
-I. Los funcionarios de casilla cuidarán que las condiciones materiales del local en que ésta haya de instalarse facilite la votación, garanticen la libertad y el secreto del voto, asegurando el orden en la elección. En el local de la casilla y en su exterior a 20 metros de distancia no deberá haber propaganda partidaria; de haberla, según su naturaleza, la mandarán retirar, ocultar o borrar, pudiendo solicitar los recursos materiales y humanos al órgano político administrativo correspondiente para cumplir con este fin;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-II. Se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose por los funcionarios de la casilla y los representantes de los Partidos Políticos y Coaliciones presentes, en el apartado correspondiente a la instalación de la casilla, haciéndose constar, en su caso, que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los Partidos Políticos y Coaliciones, los incidentes ocurridos durante la instalación de la casilla y, en su caso, la sustitución de funcionarios; y
+I. Los funcionarios de casilla cuidarán que las condiciones materiales del local en que ésta haya de instalarse facilite la votación, garanticen la libertad y el secreto del voto, asegurando el orden en la elección. En el local de la casilla y en su exterior a 20 metros de distancia no deberá haber propaganda partidaria ni de Candidaturas Independientes; de haberla, según su naturaleza, la mandarán retirar, ocultar o borrar, pudiendo solicitar los recursos materiales y humanos al órgano político administrativo correspondiente para cumplir con este fin;
 
-III. Las boletas electorales serán rubricadas o selladas en la parte posterior por uno de los representantes partidistas ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. En el supuesto de que el representante del Partido Político o Coalición que resultó facultado en el sorteo se negare a rubricar o sellar las boletas, el representante que lo solicite tendrá ese derecho.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
+II. Se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose por los funcionarios de la casilla y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes presentes, en el apartado correspondiente a la instalación de la casilla, haciéndose constar, en su caso, que las urnas se armaron o abrieron en presencia de los funcionarios, representantes y electores para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, los incidentes ocurridos durante la instalación de la casilla y, en su caso, la sustitución de funcionarios; y
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Las boletas electorales serán rubricadas o selladas en la parte posterior por uno de los representantes partidistas o de Candidatos Independientes ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. En el supuesto de que el representante del Partido Político, Coalición o Candidato Independiente que resultó facultado en el sorteo se negare a rubricar o sellar las boletas, el representante que lo solicite tendrá ese derecho.
+
+### CAPÍTULO III. DE LA VOTACIÓN
 
 ###### Artículo 345.
 
 Una vez llenada y firmada el acta de la jornada electoral a partir de las ocho horas el Presidente de la Mesa Directiva de Casilla anunciará el inicio de la votación.
 
-Iniciada la votación no podrá suspenderse salvo por caso fortuito o causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al Consejo Distrital a través de un escrito en que se dé cuenta de la causa de suspensión, la hora en que ocurrió y la indicación de los votantes que al momento habían ejercido su derecho de voto, el escrito deberá ser firmado por dos testigos, que lo serán preferentemente, los integrantes de la Mesa Directiva de Casilla o los representantes de los Partidos Políticos o Coaliciones.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Iniciada la votación no podrá suspenderse salvo por caso fortuito o causa de fuerza mayor. En este caso, corresponde al Presidente dar aviso de inmediato al Consejo Distrital a través de un escrito en que se dé cuenta de la causa de suspensión, la hora en que ocurrió y la indicación de los votantes que al momento habían ejercido su derecho de voto, el escrito deberá ser firmado por dos testigos, que lo serán preferentemente, los integrantes de la Mesa Directiva de Casilla o los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes.
 
 Recibida la comunicación que antecede, el Consejo Distrital de inmediato tomará las medidas que estime necesarias y decidirá si se reanuda la votación.
 
@@ -5042,7 +5428,9 @@ El Presidente de la Mesa Directiva de Casilla recogerá las Credenciales para Vo
 
 El Secretario de la Mesa Directiva de Casilla anotará los incidentes en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos involucrados, así como en su caso, de las autoridades que conocieron de los hechos;
 
-III. Una vez comprobado que el elector aparece en la Lista Nominal, de acuerdo con su Credencial para Votar, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto las marque en el círculo o cuadro correspondiente al Partido Político o Coalición por el que sufraga;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+III. Una vez comprobado que el elector aparece en la Lista Nominal, de acuerdo con su Credencial para Votar, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto las marque en el círculo o cuadro correspondiente al Partido Político, Coalición o Candidato Independiente por el que sufraga;
 
 IV. El elector doblará sus boletas y se dirigirá a depositarlas en la urnas correspondientes; y
 
@@ -5054,7 +5442,9 @@ b) Impregnar con líquido indeleble el dedo pulgar derecho del elector; y
 
 c) Devolver al elector su Credencial para Votar.
 
-Los representantes de los Partidos Políticos y Coaliciones ante las Mesas Directivas de Casilla, cuyo nombre no aparezca en la Lista Nominal de la casilla, podrán ejercer su derecho de voto en la casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado en este artículo, anotando el nombre completo y la clave de la Credencial para Votar de los representantes al final de la Lista Nominal de Electores.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante las Mesas Directivas de Casilla, cuyo nombre no aparezca en la Lista Nominal de la casilla, podrán ejercer su derecho de voto en la casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado en este artículo, anotando el nombre completo y la clave de la Credencial para Votar de los representantes al final de la Lista Nominal de Electores.
 
 ###### Artículo 347.
 
@@ -5090,7 +5480,9 @@ Tendrán derecho de acceso a las casillas:
 
 I. Los electores en el orden que se presenten a votar;
 
-II. Los representantes de los Partidos Políticos o Coaliciones ante la Mesa Directiva de Casilla, debidamente acreditados en los términos de este Código;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. Los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante la Mesa Directiva de Casilla, debidamente acreditados en los términos de este Código;
 
 III. Los notarios públicos que deban dar fe de cualquier acto relacionado con la integración de la Mesa Directiva de Casilla, la instalación de la casilla y, en general, con el desarrollo de la votación siempre y cuando se hayan identificado ante el Presidente de la Mesa Directiva de Casilla y precisada la índole de la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación;
 
@@ -5098,7 +5490,9 @@ IV. Funcionarios del Consejo Distrital que fueren llamados por el Presidente de 
 
 V. Los representantes generales permanecerán en las casillas el tiempo necesario para cumplir con las funciones que les fija este Código; y
 
-VI. Los observadores electorales, debidamente acreditados que porten identificación, que podrán presentarse o permanecer a una distancia que le permita cumplir sus tareas, sin que entorpezca el proceso de votación o funciones de representantes de Partidos y funcionarios de casilla.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Los observadores electorales, debidamente acreditados que porten identificación, que podrán presentarse o permanecer a una distancia que le permita cumplir sus tareas, sin que entorpezca el proceso de votación o funciones de representantes de Partidos o Candidatos Independientes y funcionarios de casilla.
 
 El Presidente de la Mesa Directiva de Casilla podrá conminar a quienes tienen el derecho de acceso a las casillas a cumplir con sus funciones y, en su caso, proceder conforme lo dispuesto por el artículo siguiente.
 
@@ -5112,11 +5506,15 @@ Corresponde al Presidente de la Mesa Directiva de Casilla, en el lugar en que se
 
 El Presidente de la Mesa Directiva de Casilla podrá solicitar, en todo tiempo, el auxilio de las fuerzas de seguridad pública a fin de preservar el orden en la casilla y la normalidad de la votación, ordenando el retiro de cualquier persona que indebidamente interfiera o altere el orden.
 
-En estos casos, el Secretario de la Mesa Directiva de Casilla hará constar las causas del quebranto del orden y las medidas acordadas por el Presidente, en el Acta de Incidentes que deberá firmarse por los funcionarios de la casilla y los representantes de los Partidos Políticos y Coaliciones acreditados ante la misma. Si algún funcionario o representante se negase a firmar, el Secretario hará constar la negativa.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+En estos casos, el Secretario de la Mesa Directiva de Casilla hará constar las causas del quebranto del orden y las medidas acordadas por el Presidente, en el Acta de Incidentes que deberá firmarse por los funcionarios de la casilla y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes acreditados ante la misma. Si algún funcionario o representante se negase a firmar, el Secretario hará constar la negativa.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 351.
 
-Los representantes de los Partidos Políticos y Coaliciones ante la Mesa Directiva de Casilla o en su ausencia el representante general, podrán presentar al Secretario escritos sobre cualquier incidente que en su concepto constituya una infracción a lo dispuesto por este Código. El Secretario recibirá tales escritos y los incorporará al expediente electoral de la casilla sin que pueda mediar discusión sobre su recepción.
+Los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante la Mesa Directiva de Casilla o en su ausencia el representante general, podrán presentar al Secretario escritos sobre cualquier incidente que en su concepto constituya una infracción a lo dispuesto por este Código. El Secretario recibirá tales escritos y los incorporará al expediente electoral de la casilla sin que pueda mediar discusión sobre su recepción.
 
 ###### Artículo 352.
 
@@ -5126,11 +5524,13 @@ Podrá cerrarse antes de la hora fijada en el párrafo anterior, sólo cuando el
 
 Si a las 18:00 horas aún hubiere electores formados para votar, el Secretario tomará nota de los mismos; en este caso, la casilla se cerrará una vez que dichos electores hayan votado.
 
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 353.
 
-El presidente declarará cerrada la votación al cumplirse alguno de los extremos previstos en el artículo anterior. Acto seguido, el Secretario llenará el apartado correspondiente al cierre de la votación del acta de la jornada electoral, anotando la hora de cierre de la votación y en su caso, causa por la que se cerró antes o después de las 18:00 horas. El acta deberá ser firmada por los funcionarios y representantes de los Partidos Políticos y Coaliciones.
+El presidente declarará cerrada la votación al cumplirse alguno de los extremos previstos en el artículo anterior. Acto seguido, el Secretario llenará el apartado correspondiente al cierre de la votación del acta de la jornada electoral, anotando la hora de cierre de la votación y en su caso, causa por la que se cerró antes o después de las 18:00 horas. El acta deberá ser firmada por los funcionarios y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes.
 
-### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y LA REMISIÓN AL CONSEJO DISTRITAL
+### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
 
 ###### Artículo 354.
 
@@ -5156,11 +5556,9 @@ III. El Presidente de la Mesa Directiva de Casilla abrirá la urna, sacará las 
 
 IV. El escrutador contará las boletas extraídas de la urna;
 
-V. El escrutador bajo la supervisión de los funcionarios de la casilla y representantes de los Partidos Políticos y Coaliciones, en voz alta clasificará las boletas para determinar el número de votos emitidos a favor de cada uno de los Partidos Políticos, candidatos o Coaliciones y el número de votos que sean nulos.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-Si se encontrasen boletas de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
-
-De encontrarse boletas correspondientes a las elecciones del ámbito federal, se procederá a entregarlas al Presidente de la casilla federal y hacer la anotación en el acta respectiva de la elección correspondiente; y
+V. El escrutador bajo la supervisión de los funcionarios de la casilla y representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, en voz alta clasificará las boletas para determinar el número de votos emitidos a favor de cada uno de los Partidos Políticos, candidatos o Coaliciones y el número de votos que sean nulos.
 
 VI. El Secretario anotará en hojas por separado los resultados de cada una de las operaciones señaladas en los incisos anteriores, los que una vez verificados, transcribirá en las respectivas actas de escrutinio y cómputo de cada elección.
 
@@ -5176,11 +5574,17 @@ III. Se contará como nulo cualquier voto emitido en forma distinta a la señala
 
 IV. Se contará como un voto válido para el candidato común, la marca o marcas que haga el elector dentro de uno o varios cuadros o círculos en los que se contenga el nombre o nombres de los candidatos comunes y el emblema de los Partidos Políticos o Coaliciones, de tal modo que a simple vista se desprenda, de manera indubitable, que votó en favor de determinado candidato o fórmula postulado en común; En este caso se contará voto válido para el candidato o fórmula pero nulo para los Partidos Políticos o Coaliciones postulantes.
 
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+V. El voto emitido a favor de una candidatura independiente y uno o más partidos políticos en la misma boleta, así como el voto emitido a favor de dos o más candidatos independientes en la boleta respectiva, se considerará como voto nulo; de conformidad con las reglas aplicables al escrutinio y cómputo de la votación.
+
 ###### Artículo 357.
 
 Concluido el escrutinio y el cómputo de todas las votaciones se levantarán las actas correspondientes de cada elección, asentándose en ellas lo siguiente:
 
-I. El número de votos emitidos a favor de cada Partido Político o Coalición;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. El número de votos emitidos a favor de cada Partido Político, Coalición o Candidato;
 
 II. El número de votos emitidos a favor los (sic) candidatos comunes;
 
@@ -5190,13 +5594,19 @@ IV. El número de votos nulos;
 
 V. Una relación de los incidentes suscitados, si los hubiere;
 
-VI. La relación de escritos de incidente presentados por los representantes de los Partidos Políticos o Coaliciones durante la jornada electoral; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. La relación de escritos de incidente (sic) presentados por los representantes de los Partidos Políticos, Coaliciones o Candidatos Independientes durante la jornada electoral; y
 
 VII. El número de electores que votaron de acuerdo a la Lista Nominal.
 
-Todos los funcionarios y los representantes de los Partidos Políticos y Coaliciones que actuaron en la casilla, deberán firmar las actas de escrutinio y cómputo de cada elección. Se entregará copia legible de dichas actas a los representantes de los Partidos Políticos y Coaliciones, recabando el acuse de recibo y procediendo a anular las actas que no hayan sido utilizadas.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
-Los representantes de los Partidos Políticos o Coaliciones ante las casillas, tendrán derecho a firmar el acta bajo protesta, señalando los motivos de la misma.
+Todos los funcionarios y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes que actuaron en la casilla, deberán firmar las actas de escrutinio y cómputo de cada elección. Se entregará copia legible de dichas actas a los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, recabando el acuse de recibo y procediendo a anular las actas que no hayan sido utilizadas.
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes ante las casillas, tendrán derecho a firmar el acta bajo protesta, señalando los motivos de la misma.
 
 ###### Artículo 358.
 
@@ -5222,23 +5632,29 @@ Para garantizar la inviolabilidad de la documentación anterior, con el expedien
 
 Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes de las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas, con los resultados de cada una de las elecciones. Tales avisos serán firmados por los funcionarios y representantes que así deseen hacerlo.
 
-### CAPÍTULO VI. DE LA VOTACIÓN ELECTRÓNICA
+### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y LA REMISIÓN AL CONSEJO DISTRITAL
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 360.
 
-Concluidas las operaciones establecidas en el Capítulo inmediato anterior por los funcionarios de la Mesa Directiva de Casilla, el Secretario levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete electoral que contenga los expedientes. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos y Coaliciones, recibiendo, estos últimos, copia de la misma.
+Concluidas las operaciones establecidas en el Capítulo inmediato anterior por los funcionarios de la Mesa Directiva de Casilla, el Secretario levantará constancia de la hora de clausura de la casilla y el nombre de los funcionarios y representantes que harán la entrega del paquete electoral que contenga los expedientes. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, recibiendo, estos últimos, copia de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 361.
 
-Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad y en compañía de los representantes de Partido Político o Coalición que deseen hacerlo, entregarán de inmediato al Consejo Distrital que corresponda el paquete electoral de la casilla.
+Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad y en compañía de los representantes de (sic) Partido Político, Coalición o Candidatura Independiente que deseen hacerlo, entregarán de inmediato al Consejo Distrital que corresponda el paquete electoral de la casilla.
 
 El Consejo General podrá establecer criterios con base en los cuales los Consejos Distritales autoricen a los asistentes electorales para auxiliar a los Presidentes de las Mesas Directivas de Casilla en la entrega de los paquetes electorales.
 
-### CAPÍTULO I. REALIZACION DE LOS CÓMPUTOS DISTRITALES
+### CAPÍTULO VI. DE LA VOTACIÓN ELECTRÓNICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 362.
 
-Tratándose de la instalación de la casilla, votación y cierre, así como del traslado del instrumento electrónico utilizado en la jornada electoral y de los dispositivos que contienen los resultados de a (sic) elección, así como del paquete electoral, se estará a lo siguiente:
+Tratándose de la instalación de la casilla, votación y cierre, así como del traslado del instrumento electrónico utilizado en la jornada electoral y de los dispositivos que contienen los resultados de la elección, así como del paquete electoral, se estará a lo siguiente:
 
 I. Para la ubicación de casillas y designación de funcionarios de Mesa (sic) Directiva de Casilla, en las secciones electorales en las que se haya autorizado el uso de instrumentos electrónicos, se atenderán las reglas establecidas en este Código para la ubicación e integración de casillas, en cuanto sean aplicables;
 
@@ -5266,7 +5682,9 @@ a) El Presidente leerá en voz alta los datos siguientes:
 
 2. Número de votos nulos por elección; y
 
-3. Número de votos emitidos a favor de cada uno de los candidatos por Partido Político o Coalición.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+3. Número de votos emitidos a favor de cada uno de los candidatos, Partido Político o Coalición.
 
 b) Concluido lo anterior, el Secretario de la Mesa Directiva de Casilla anexará el comprobante emitido por el instrumento electrónico al acta de la jornada electoral y asentará lo siguiente:
 
@@ -5296,15 +5714,19 @@ Para garantizar la inviolabilidad de la documentación anterior, con el expedien
 
 e) Posteriormente, los Presidentes de las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas, con los resultados de cada una de las elecciones, los que serán firmados por los funcionarios y representantes que deseen hacerlo;
 
-VI. Concluidas por los funcionarios de la Mesa Directiva de Casilla y el nombre del o de los funcionarios y representantes que harán la entrega del paquete electoral que contenga el expediente. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos y Coaliciones, quienes tendrán derecho a recibir copia de la misma; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
 
-VII. Una vez clausurada la casilla, el Presidente de la misma, bajo su responsabilidad y en compañía de los representantes de los candidatos ciudadanos, Partido Político o Coalición que deseen hacerlo, hará llegar de inmediato al Consejo Distrital que corresponda el paquete electoral de la casilla, el instrumento electrónico utilizado en la recepción del voto y demás material electoral utilizado.
+VI. Concluidas por los funcionarios de la Mesa Directiva de Casilla y el nombre del o de los funcionarios y representantes que harán la entrega del paquete electoral que contenga el expediente. La constancia será firmada por los funcionarios de la casilla y los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes, quienes tendrán derecho a recibir copia de la misma; y
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VII. Una vez clausurada la casilla, el Presidente de la misma, bajo su responsabilidad y en compañía de los representantes de los candidatos independientes, Partido Político o Coalición que deseen hacerlo, hará llegar de inmediato al Consejo Distrital que corresponda el paquete electoral de la casilla, el instrumento electrónico utilizado en la recepción del voto y demás material electoral utilizado.
 
 El Secretario podrá asistir al Presidente de Mesa (sic) Directiva de Casilla para que, con apoyo del Asistente Electoral respectivo, también trasladen lo antes indicado y, en su caso, el medio magnético que contiene los resultados de la elección en la casilla, en condiciones que garanticen su seguridad.
 
 ## TÍTULO OCTAVO. OBTENCION DE RESULTADOS ELECTORALES
 
-### CAPÍTULO II. DE LOS CÓMPUTOS FINALES
+### CAPÍTULO I. REALIZACION DE LOS CÓMPUTOS DISTRITALES
 
 ###### Artículo 363.
 
@@ -5320,6 +5742,8 @@ III. De la recepción de los paquetes que contengan los expedientes de casilla y
 
 El cómputo distrital de una elección es la suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas en un distrito electoral o de los contenidos en el medio magnético, tratándose de la votación electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 365.
 
 Los Consejos Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas, conforme a las reglas siguientes:
@@ -5334,7 +5758,9 @@ De no ser posible el empleo de instrumentos electrónicos autorizados por el Con
 
 III. El Secretario asentará los resultados en las formas establecidas para ello. Si se detectaren errores o alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla o el acta fuera ilegible, o tratándose de la votación electrónica el medio electrónico estuviere inutilizado, al finalizar la recepción de los paquetes se procederá a realizar el cómputo de casilla ante Consejo Distrital;
 
-IV. Al finalizar la recepción de los paquetes se procederá, sin dilación alguna, a realizar el escrutinio y cómputo de casilla ante el Consejo Distrital de todos aquéllos paquetes cuya apertura hubiera sido solicitada por los Partidos Políticos y Coaliciones, y los que tengan muestras de alteración, realizándose las operaciones señaladas en las fracciones anteriores, y haciéndose constar dicha circunstancia en el acta de la sesión. Será causa de responsabilidad del Consejo Distrital negarse a realizar la apertura de los paquetes que haya sido previamente solicitada;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+IV. Al finalizar la recepción de los paquetes se procederá, sin dilación alguna, a realizar el escrutinio y cómputo de casilla ante el Consejo Distrital de todos aquéllos paquetes cuya apertura hubiera sido solicitada por los Partidos Políticos, Candidatos Independientes y Coaliciones, y los que tengan muestras de alteración, realizándose las operaciones señaladas en las fracciones anteriores, y haciéndose constar dicha circunstancia en el acta de la sesión. Será causa de responsabilidad del Consejo Distrital negarse a realizar la apertura de los paquetes que haya sido previamente solicitada cuando proceda en términos legales;
 
 V. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo distrital de las elecciones de Jefe de Gobierno, de Jefe Delegacional y de Diputados por el principio de mayoría relativa que se asentarán en las actas correspondientes;
 
@@ -5374,11 +5800,13 @@ El Consejero Presidente del Consejo Distrital, una vez cumplido el plazo para la
 
 Los Consejeros Presidentes de los Consejos Distritales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales.
 
-El Secretario Ejecutivo y los Consejeros Presidentes de los Consejos Distritales tomarán las medidas necesarias para el depósito de los paquetes que contengan la documentación electoral hasta la conclusión del proceso electoral, en el lugar señalado para tal efecto y de los instrumentos electrónicos que se hayan utilizado en la respectiva elección; los salvaguardarán y depositarán dentro del local del Consejo respectivo en un lugar que reúna las condiciones de seguridad. Asimismo y en presencia de los representantes de los Partidos Políticos y Coaliciones, dispondrán que sean selladas las puertas de acceso del lugar en que fueron depositados.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+El Secretario Ejecutivo y los Consejeros Presidentes de los Consejos Distritales tomarán las medidas necesarias para el depósito de los paquetes que contengan la documentación electoral hasta la conclusión del proceso electoral, en el lugar señalado para tal efecto y de los instrumentos electrónicos que se hayan utilizado en la respectiva elección; los salvaguardarán y depositarán dentro del local del Consejo respectivo en un lugar que reúna las condiciones de seguridad. Asimismo y en presencia de los representantes de los Partidos Políticos, Coaliciones y Candidatos Independientes dispondrán que sean selladas las puertas de acceso del lugar en que fueron depositados.
 
 El Consejo General acordará lo necesario para la destrucción de la documentación y del material electoral, dentro de los seis meses posteriores a la conclusión del proceso electoral. Se podrá exceptuar de lo anterior el material electoral que pueda ser reutilizado en otros procesos electorales o de participación ciudadana.
 
-### CAPÍTULO ÚNICO. DE LAS QUEJAS, PROCEDIMIENTOS, SUJETOS Y LAS CONDUCTAS SANCIONABLES
+### CAPÍTULO II. DE LOS CÓMPUTOS FINALES
 
 ###### Artículo 369.
 
@@ -5390,7 +5818,9 @@ El cómputo de Delegación es el procedimiento por el cual se determina la votac
 
 I. Se procederá a anotar el resultado final en el acta de cómputo respectiva, la cual deberá ser firmada por los integrantes del Consejo Distrital;
 
-II. El Consejero Presidente del Consejo Distrital procederá a expedir la constancia de Jefe Delegacional electo por el principio de mayoría relativa, al Partido Político o Coalición que por sí mismo haya obtenido el mayor número de votos;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. El Consejero Presidente del Consejo Distrital procederá a expedir la constancia de Jefe Delegacional electo por el principio de mayoría relativa, al Partido Político, Coalición o Candidato Independiente que por sí mismo haya obtenido el mayor número de votos;
 
 III. Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren;
 
@@ -5404,7 +5834,9 @@ El Consejo General celebrará sesión el sábado siguiente al día de la jornada
 
 Los cómputos a que se refiere el párrafo anterior, constituyen el procedimiento por el cual se determina, mediante la suma de los resultados anotados en las actas de cómputo distrital, la votación obtenida en la elección de Jefe de Gobierno, agregando los votos recabados en el extranjero para dicha elección, y de Diputados por el principio de representación proporcional en todo el territorio del Distrito Federal. Una vez concluido dicho procedimiento, se llevará a cabo lo siguiente:
 
-I. El Consejero Presidente del Consejo General, procederá a expedir la constancia de mayoría relativa al candidato del Partido Político o Coalición que por sí mismo haya obtenido el mayor número de votos, en la elección de Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+I. El Consejero Presidente del Consejo General, procederá a expedir la constancia de mayoría relativa al candidato independiente o del Partido Político o Coalición que por sí mismo haya obtenido el mayor número de votos, en la elección de Jefe de Gobierno;
 
 II. De acuerdo al cómputo de circunscripción de la elección de Diputados por el principio de representación proporcional se realizarán los actos y operaciones previstas en los artículos 291, 292 y 293 de este Código;
 
@@ -5424,37 +5856,49 @@ El Consejero Presidente del Consejo General una vez verificados los hechos a que
 
 # LIBRO QUINTO. DE LAS FALTAS ADMINISTRATIVAS Y SANCIONES
 
+### CAPÍTULO ÚNICO. DE LAS QUEJAS, PROCEDIMIENTOS, SUJETOS Y LAS CONDUCTAS SANCIONABLES
+
 #### SECCIÓN PRIMERA. DE LAS QUEJAS
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 372.
 
-Un Partido Político aportando elementos de prueba idóneos y suficientes que hagan presumir la existencia de una posible infracción, podrá solicitar al Consejo General que investigue las actividades de otro Partido Político por incumplimiento a sus obligaciones.
+Un Partido Político o Candidato Independiente aportando elementos de prueba idóneos y suficientes que hagan presumir la existencia de una posible infracción, podrá solicitar al Consejo General que investigue las actividades de otro Partido Político o Candidato Independiente por incumplimiento a sus obligaciones.
 
-Los ciudadanos podrán solicitar por escrito a la autoridad electoral administrativa, se investiguen los actos u omisiones de los Partidos Políticos y Agrupaciones Políticas, que se presuman violatorios de las normas electorales, debiendo acompañar los elementos probatorios idóneos en los que sustente su queja.
+Los ciudadanos podrán solicitar por escrito a la autoridad electoral administrativa, se investiguen los actos u omisiones de los Partidos Políticos, Agrupaciones Políticas y Candidato (sic) Independientes, que se presuman violatorios de las normas electorales, debiendo acompañar los elementos probatorios idóneos en los que sustente su queja.
 
 #### SECCIÓN SEGUNDA. DE LOS PROCEDIMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 373.
 
-Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales de los Partidos Políticos, los ciudadanos, observadores electorales y en general cualquier sujeto bajo el imperio de la misma, el Instituto Electoral, el trámite y sustanciación alguno de los siguientes procedimientos (sic):
+Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, Candidatos Independientes, ciudadanos, observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
 
 I. Procedimiento ordinario sancionador Electoral. Procede cuando a instancia de parte o de oficio algún órgano o integrante de los organismos electorales del Instituto en ejercicio de sus funciones, tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados; su desarrollo se sujetará al principio dispositivo que faculta a las partes a instar al órgano competente por escrito para la apertura de la instancia y a ofrecer las pruebas que estime conducentes.
 
 El procedimiento sancionador ordinario será aplicable en faltas genéricas al Código distintas de las sustanciadas a través del procedimiento especial;
 
-II. Procedimiento especial sancionador Electoral. Procede respecto de las conductas contrarias a la norma electoral que cometan los Partidos Políticos, sus miembros y personas relacionadas con sus actividades; es primordialmente inquisitivo y el instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+II. Procedimiento especial sancionador Electoral. Procede respecto de las conductas contrarias a la norma electoral que cometan los Partidos Políticos, sus miembros y personas relacionadas con sus actividades, así como por los Candidatos Independientes; es primordialmente inquisitivo y el instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes.
 
 El procedimiento especial sancionador Electoral será instrumentado en los casos siguientes:
 
 a) Por el incumplimiento a las obligaciones en materia de financiamiento, origen, monto, destino, manejo y comprobación de sus recursos;
 
-b) Por propaganda política o electoral de partidos políticos que denigre a las instituciones o calumnie a las personas;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+b) Por propaganda política o electoral de partidos políticos o Candidatos Independientes que denigre a las instituciones o calumnie a las personas;
 
 c) Cuando las denuncias tengan como motivo la comisión de conductas referidas a la colocación o al contenido de propaganda o de cualquier otra diferente a la transmitida por radio o televisión; y
 
 d) Por actos anticipados de precampaña o campaña;
 
-Cuando se tome conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones de partidos políticos o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos que calumnie a las personas o denigre a las instituciones; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, el Secretario Ejecutivo, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la formula al Instituto Federal Electoral, a través del Secretario del Consejo.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Cuando se tome conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones de partidos políticos, candidatos independientes o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos o candidatos independientes que calumnie a las personas o denigre a las instituciones; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, el Secretario Ejecutivo, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la formula al Instituto Nacional Electoral, a través del Secretario del Consejo.
 
 ###### Artículo 374.
 
@@ -5470,7 +5914,9 @@ IV. Para la integración del expediente, se podrá solicitar la información y d
 
 V. Establecer los plazos máximos para la sustanciación de la queja y los relativos para la formulación y presentación del dictamen correspondiente al Consejo General para su determinación;
 
-VI. Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos Políticos, deberán ser resueltas a más tardar en la fecha que se rinda el dictamen correspondiente a los informes del origen y monto del financiamiento respectivo;
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos Políticos y Candidaturas Independientes, deberán ser resueltas a más tardar en la fecha que se rinda el dictamen correspondiente a los informes del origen y monto del financiamiento respectivo;
 
 VII. Para la determinación de la sanción correspondiente, se tomará en cuenta los siguientes elementos:
 
@@ -5508,13 +5954,17 @@ IV. Los funcionarios electorales, a quienes procederá sancionar, en su caso, co
 
 V. Los notarios públicos, por el incumplimiento de las obligaciones que el presente Código les imponen. Conocida la infracción, se integrará un expediente que se remitirá al Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable. El Colegio de Notarios o la autoridad competente deberá comunicar al Instituto Electoral las medidas que haya adoptado en el caso; y
 
-VI. Los Partidos Políticos y las Agrupaciones Políticas Locales.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2014)</small>
+
+VI. Los Partidos Políticos, las Agrupaciones Políticas Locales y los Candidatos Independientes.
 
 En los casos en los que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, induzcan al electorado a votar en favor o en contra de un candidato o Partido Político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o realicen aportaciones económicas a un Partido Político o candidato, así como a una Agrupación Política, el Instituto Electoral integrará el expediente que corresponda para informar a la Secretaría de Gobernación, para los efectos legales conducentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 377.
 
-Los Partidos Políticos, independientemente de las responsabilidades en que incurran sus dirigentes, candidatos, miembros o simpatizantes, serán sancionados por las siguientes causas:
+Los Partidos Políticos independientemente de las responsabilidades en que incurran sus dirigentes, candidatos, miembros o simpatizantes, así como los aspirantes y Candidatos Independientes en lo conducente serán sancionados por las siguientes causas:
 
 I. Incumplir las disposiciones de este Código;
 
@@ -5551,6 +6001,10 @@ XVI. No anexar los estados financieros o cualquier otro elemento requerido por l
 XVII. Promover la imagen de un candidato o de un Partido Político en propaganda electoral, distinto a los registrados ante el Instituto Electoral, sin que medie coalición o candidatura común, y cuya finalidad sea obtener un beneficio electoral; y
 
 XVIII. Por inobservar las disposiciones de este Código y realizar conductas contrarias a la democracia o al propósito de las normas a que están sujetos.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2014)</small>
+
+Las sanciones para los aspirantes y candidatos independientes consistirán en multa o pérdida del registro, en los términos de que el presente código establece para los candidatos de partido y la normatividad que apruebe el Instituto Electoral.
 
 ###### Artículo 378.
 
@@ -5658,7 +6112,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciséis días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 1 DE JULIO DE 2011.
 
@@ -5671,3 +6125,13 @@ Artículo Tercero. Por única vez el plazo para la presentación de las solicitu
 Artículo Cuarto. Para los efectos de los artículos 282 y 283 del Código de Instituciones y Procedimientos Electorales del Distrito Federal, se deberá aplicar para el proceso ordinario 2014-2015. En cuanto al término señalado en la fracción I del artículo 282 del Código, por única ocasión, comenzará a correr a partir de la entrega de la información desagregada incluyendo Manzanas del Censo de Población y Vivienda 2010, que el INEGI proporcione al Instituto Electoral del Distrito Federal.
 
 Artículo Quinto. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su difusión.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación.
+
+TERCERO.- El Instituto Electoral del Distrito Federal, contemplará en su presupuesto para el proceso electoral del Distrito Federal 2014-2015, los recursos necesarios para el financiamiento público de los candidatos independientes, de conformidad con lo dispuesto en el artículo 244 de las presentes reformas.
+
+CUARTO.- La fecha de celebración de la jornada electoral a la que se refiere el artículo 276 de este Código, entrará en vigor al momento en que el H. Congreso de la Unión determine que inicia la vigencia de la disposición relativa para las elecciones federales en términos de la legislación respectiva. La jornada electoral del proceso electoral de 2018 se verificará de manera concurrente con la federal, en los términos del mandato del decreto de reformas constitucionales de 10 de febrero de 2014.
