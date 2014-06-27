@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2014-01-31"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2014.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -523,95 +523,95 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-36.- La Soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+36.- La soberanía del Estado reside esencial y originalmente en el pueblo Sudcaliforniano, quien lo ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+I.- Los partidos políticos son entidades de interés público, la Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en el proceso electoral, así como los derechos, obligaciones y prerrogativas que les corresponden. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-l.- Los partidos políticos son entidades de interés público, la Ley determinará las normas y requisitos para su registro legal y formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+Los partidos políticos tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal, de acuerdo a los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo; así como las reglas para garantizar la paridad de géneros, en candidaturas a Diputados por los Principios de Mayoría Relativa, Representación Proporcional y Planillas de Ayuntamientos; sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, por tanto quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+La Ley de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales, establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para garantizar la paridad de géneros, en candidaturas a Diputados por los Principios de Mayoría Relativa, Representación Proporcional y Planillas de Ayuntamientos. Fijará las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de gobernador y de treinta a sesenta días cuando sólo se elijan diputados locales o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta constitución y la ley.
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+Un partido político estatal perderá su registro por no haber obtenido al menos, el tres por ciento del total de la votación valida emitida en cualquiera de las elecciones que se celebren para Gobernador del Estado o Diputados de Mayoría Relativa.
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+II.- La ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la trasmisión en territorio estatal de este tipo de mensajes contratados fuera del Estado.
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio estatal de este tipo de mensajes contratados o adquiridos fuera del Estado.
 
-> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+Para fines electorales locales, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad, conforme a lo establecido en el apartado B de la fracción III del artículo 41 de la Constitución General.
 
 De igual manera la ley determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social, distintos a la radio y la televisión.
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
-
-En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
-
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las instituciones, a los propios partidos y a las personas.
 
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2009)</small>
+III.- El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley General de Partidos Políticos.
 
-III.- La Ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos, de sus precampañas y campañas político electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado, asimismo establecerá la duración de dichas precampañas y campañas electorales.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten: asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter especifico, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley.
+La ley fijara las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes cuyo monto total no excederá anualmente, por cada partido político, del diez por ciento del tope de gastos establecido para la última elección de gobernador.
+Sin perjuicio de lo establecido en el inciso B) del párrafo segundo del Apartado C, de la fracción V del artículo 41 de la Constitución General y con fundamento en el último párrafo del apartado B de la fracción V del artículo 41 del mismo ordenamiento, el Instituto Estatal Electoral, podrá llevar a cabo la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos, conforme a la delegación respectiva que en su caso haga el Instituto Nacional Electoral, en los términos establecidos en la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un Organismo Público Local en Materia Electoral que se denominará Instituto Estatal Electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones, en los términos de la Ley de la materia, así como responsable de los procedimientos de referéndum y el plebiscito. En el ejercicio de sus actividades, el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-La ley fijará las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un Consejero Presidente y seis Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones y un Secretario Ejecutivo. Los Consejos Distritales y Municipales Electorales serán órganos desconcentrados del Instituto Estatal Electoral y solo funcionaran durante el desarrollo del proceso electoral. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-Igualmente fijará los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+El Instituto Estatal Electoral tendrá a su cargo las facultades, atribuciones y obligaciones que establece el inciso a) del apartado B de la fracción V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, 104 de la Ley General de Instituciones y Procedimientos Electorales y los relativos de la Ley Electoral del Estado de Baja California Sur;
 
-La Comisión de Fiscalización del Financiamiento de los Partidos Políticos, está facultada para solicitar la intervención de la Unidad de Fiscalización de los Recursos de los Partidos Políticos del Instituto Federal Electoral, a efecto de obtener información bancaria, fiduciaria o fiscal relacionada con las finanzas de los Partidos Políticos.
+V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 
-La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+En materia electoral, la interposición de los medios de impugnaciones constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JUNIO DE 2000)</small>
+La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 
-IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-> <small>(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)</small>
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; y
 
-El Instituto Estatal Electoral residirá en la Capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un Consejero Presidente y cuatro Consejeros Electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado y un Secretario General que se designará a propuesta del Consejero Presidente con la aprobación de la mayoría de los Consejeros Electorales. Los Comités Distritales y Municipales Electorales formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
-El consejero Presidente y los consejeros electorales del Instituto Estatal Electoral, serán electos sucesivamente, por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado de entre los propuestos por las fracciones parlamentarias del propio Congreso del Estado. Conforme al mismo procedimiento, se designarán un consejero presidente y cuatro consejeros electorales suplentes, en orden de prelación. El consejero Presidente y los consejeros electorales durarán en su encargo 6 años.
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
-La Ley señalará los requisitos que deben reunir el consejero Presidente y los consejeros Electorales del Instituto Estatal Electoral y determinarán las reglas y procedimientos correspondientes a su elección.
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
-(REFORMADO, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
+VI.- La ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse;
 
-El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación electoral y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la Ley, declaración de validez y otorgamiento de constancias en las elecciones de Diputados Locales y Ayuntamientos, cómputo de la elección de Gobernador del Estado de Baja California Sur en cada uno de los distritos Electorales Uninominales, así como la regulación de la observancia electoral y de las encuestas o sondeos de opinión con fines electorales. Lo relativo al Catálogo General de Electores, padrón Electoral, Listado Nominal y credencial para votar con fotografía, se sujetará a los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral, preparar, desarrollar y vigilar los procesos de plebiscito y referéndum en el Estado y los Municipios. Las sesiones de todos los órganos electorales de dirección serán públicos (sic) en los términos que señale la Ley.
+VII.- La ley de la materia señalará las reglas a las que se sujetarán las candidaturas independientes a cargos de elección popular;
 
-> <small>(ADICIONADO, B.O. 27 DE OCTUBRE DE 2003)</small>
+VIII.- La Procuraduría General de Justicia del Estado, contará con una Agencia del Ministerio Público Especializada en delitos electorales; y
 
-El Consejo General del Instituto Estatal Electoral podrá invitar, durante del (sic) proceso electoral, al Vocal del Registro Federal de Electores en el Estado, a las sesiones de dicho Instituto, a las cuales acudirá con voz pero sin voto, conforme a lo convenido con el Instituto Federal Electoral.
+IX.- La Ley de la materia señalará las reglas a las que se sujetarán las candidaturas comunes.
 
-> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-El Consejo General del Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales.
+36 BIS.- El Tribunal Estatal Electoral es el órgano jurisdiccional especializado en materia electoral en el Estado y gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por Tres Magistrados que actuarán en forma colegiada y permanecerán en su encargo durante siete años; cumplirán sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+El Tribunal Estatal Electoral no formará parte del Poder Judicial del Estado.
 
-V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley correspondiente. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
+Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo dispuesto por la Constitución General, y la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes en la materia.
 
-En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
+Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+Todas las sesiones del Tribunal Estatal Electoral serán públicas.
 
-VI.- La ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse; y
+Para ser magistrados electorales se requieren cubrir los requisitos señalados en el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2013)</small>
+En caso de presentarse alguna vacante temporal de alguno de los magistrados, ésta se cubrirá de conformidad con el procedimiento que disponga la ley de la materia.
 
-VII.- La ley de la materia señalará las reglas a las que se sujetarán las candidaturas independientes a cargos de elección popular.
+Tratándose de una vacante definitiva de magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+
+La ley relativa establecerá el procedimiento de designación del magistrado presidente, así como las reglas para cubrir las vacantes temporales que se presenten. La presidencia deberá ser rotatoria.
+
+La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
@@ -631,49 +631,27 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)</small>
+41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a lo siguiente:
 
-41.- El Congreso del Estado de Baja California Sur se integrará con dieciséis Diputados de Mayoría Relativa, electos en su totalidad el primer domingo de julio de cada tres años, por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cinco Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+I.- La asignación de diputados por el principio de representación proporcional se hará de acuerdo con el procedimiento que se establezca en la Ley, y se sujetará a las siguientes bases:
 
-> <small>(REFORMADA, B.O. 27 DE OCTUBRE DE 2003)</small>
+a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado;
 
-I.- La base para realizar la demarcación territorial de los dieciséis Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y socioeconómico.
+b).- Los partidos políticos tendrán derecho a que se les asignen diputados por el principio de representación proporcional, siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+c).- Para que un partido político tenga derecho a que le sean asignados diputados de representación proporcional, deberá alcanzar por lo menos el tres por ciento del total de la votación valida emitida para diputados de Mayoría Relativa, en los términos que establezca la ley.
 
-II.- La asignación de Diputados por el principio de Representación Proporcional, se hará de acuerdo con el procedimiento que se establezca en la ley, y se sujetara a las siguientes bases:
+La asignación se hará independientemente de los triunfos de mayoría que hubiesen obtenido siguiendo un orden de mayor a menor porcentaje de votos obtenidos.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1983)</small>
+II.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos con derecho a ello, en los términos de las fórmulas y reglas establecidas en esta Constitución y en la Ley de la Materia.
 
-a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
+III.- En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal valida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal valida emitida más el ocho por ciento; asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)</small>
+En ningún caso los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, más de dos candidatos a Diputados por mayoría relativa y por representación proporcional.
 
-b).- Los partidos políticos tendrán derecho a que se les asignen diputados por el principio de representación proporcional siempre y cuando hayan registrado candidatos, por lo menos, en ocho distritos electorales uninominales.
-
-> <small>(REFORMADO, B.O. 27 DE OCTUBRE DE 2003)</small>
-
-c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el dos por ciento del total de la votación emitida para diputados de Mayoría Relativa, y siempre que no hayan logrado mas de cinco diputaciones de mayoría relativa, en los términos que establezca la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
-
-III.- El Consejo General del Instituto Estatal Electoral asignará las diputaciones por el principio de Representación Proporcional a los partidos políticos o coaliciones con derecho a ello, en los términos siguientes:
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
-
-a).- En primer término asignará una diputación a todo aquel partido político o coalición que tenga derecho a ello y no haya obtenido constancia de mayoría en ningún distrito electoral, conforme lo disponga la ley de la materia.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
-
-b).- Sí después de hechas las asignaciones que se señalan en el inciso anterior aún quedaren diputaciones por distribuir, éstas se otorgarán a los partidos políticos o coaliciones que hayan logrado hasta cinco diputaciones de mayoría relativa, sin que en ningún caso logren más de seis diputaciones por ambos principios.
-
-> <small>(REFORMADO, B.O. 14 DE JULIO DE 1995)</small>
-
-c).- No podrán asignarse más de cuatro diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones, que no hayan obtenido diputación de mayoría relativa.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
+Ningún partido político podrá contar con más de dieciséis diputados por ambos principios.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
@@ -699,9 +677,9 @@ I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 
 II.- Tener 18 años cumplidos al día de la elección.
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1978)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
+III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor de un año anterior al día de la elección, en el distrito por el que se pretende postular o tres años en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 1987)</small>
 
@@ -709,13 +687,13 @@ III.- Tener residencia efectiva no menor de un año anterior al día de la elecc
 
 I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualesquiera que sea su calidad, el origen y la forma de su designación;
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-II.- Los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquiera otra persona que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo sesenta días naturales antes de la fecha de las elecciones;
+II.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, los Magistrados del Tribunal Estatal Electoral, los Presidentes Municipales y funcionarios federales en el Estado, a menos que se separen de su cargo sesenta días naturales antes de la fecha de las elecciones cuando se renueve el Congreso del Estado y Ayuntamientos. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
 
-III.- Los Presidentes Municipales o quienes ocupen cualquier cargo municipal, a menos que se separen de su cargo sesenta días antes de la elección;
+III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-IV.- Los funcionarios y empleados federales en el Estado, a menos que se separen de su cargo sesenta días antes de la elección;
+IV.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
 V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
 
@@ -723,7 +701,11 @@ V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cu
 
 VI.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección.
 
-46.- Los diputados al Congreso del Estado, no podrán ser reelectos para el período inmediato. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán serlo para el período inmediato con el carácter de suplentes.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+
+46.- Los Diputados al Congreso del Estado podrán ser reelectos, hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+La ley establecerá las reglas y condiciones que se observaran para hacer efectivo este principio.
 
 47.- Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
@@ -741,11 +723,9 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2008)</small>
-
-50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones; el primero, del primero de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 30 de diciembre del mismo año; y el segundo, del 15 de marzo al 30 de junio del año siguiente.
+50.- El Congreso del Estado tendrá, durante el año, dos Períodos Ordinarios de Sesiones: el primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo, del 15 de marzo al 30 de junio.
 
 > <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 1987)</small>
 
@@ -799,11 +779,9 @@ III.- Los Ayuntamientos
 
 IV.- El Tribunal Superior de Justicia
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.1 % del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
-
-Asimismo se podrá hacer la propuesta a través del diputado de su distrito.
+V.- Los ciudadanos del Estado registrados en la lista nominal de electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respectivas.
 
 > <small>(ADICIONADA, B.O. 20 DE JULIO DE 2013)</small>
 
@@ -883,9 +861,9 @@ V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaració
 
 VI.- Legislar en materia de Coordinación Fiscal entre el Estado y los Municipios.
 
-> <small>(ADICIONADA, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-VII.- Elegir a los Magistrados del Tribunal Estatal Electoral, en los términos del artículo 99 de esta Constitución;
+VII.- Elegir al Contralor General del Instituto Estatal Electoral; y en caso de presentarse alguna vacante temporal de algún Magistrado del Tribunal Estatal Electoral, elegir al Magistrado que cubra dicha vacante con base en el procedimiento establecido en la Ley de la materia.
 
 VIII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme a lo establecido en este ordenamiento;
 
@@ -965,9 +943,11 @@ XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gob
 
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
 
-> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 2014)</small>
 
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del primer periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días posteriores a la apertura del segundo periodo ordinario de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si han respetado los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
 
 La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre so (sic) organización interna, recursos, funcionamiento y resoluciones.
 
@@ -1013,7 +993,7 @@ XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en lo
 
 XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable, ingravable e inembargable;
 
-XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y (sic)
+XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la superación del nivel de vida de la población, mejoramiento de su salud y el saneamiento del medio ambiente; y
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1025,7 +1005,7 @@ XLIV.- Expedir leyes que instituyan el Tribunal Unitario de lo Contencioso Admin
 
 > <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y (sic)
+XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
 
 > <small>(ADICIONADA, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1097,29 +1077,27 @@ X.- Las demás que le confieran expresamente esta Constitución y las leyes.
 
 69.- Para ser Gobernador del Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado con residencia efectiva no menor de 3 años antes de la elección, o vecino de él durante 5 años anteriores al día de la elección;
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-II.- Tener 30 años cumplidos el día de la elección;
+I.- Ser ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios.
 
-> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, B.O. 27 DE JUNIO DE 2014)</small>
 
-III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección;
+II.- Tener 30 años cumplidos al día de la elección.
 
-IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección;
+III.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-V.- No ser funcionario o empleado federal noventa días anteriores a la fecha de la elección;
+IV.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)</small>
+V.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-VI.- No ser Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia del Estado, Diputado Local, Presidente Municipal y cualquier otra persona que desempeñe cargo público estatal o municipal, noventa días naturales anteriores a la fecha de la elección; y
+VI.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 78 de esta Constitución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
-
-70.- El Gobernador del Estado será electo el primer domingo de julio de cada seis años, e iniciará el ejercicio de sus funciones el día 10 de septiembre.
+70.- El Gobernador del Estado durará en su encargo seis años e iniciará el ejercicio de sus funciones el día 10 de septiembre.
 
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
 
@@ -1149,11 +1127,21 @@ II.- Si la falta temporal excede de treinta días, el Congreso del Estado o la C
 
 77.- El cargo de Gobernador del Estado solamente es renunciable por causa grave calificada por el Congreso del Estado, ante el que se presentará la renuncia.
 
-78.- El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de Interino, Provisional, Substituto o encargado del despacho.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-Asimismo, no podrá ser electo para el período inmediato el Gobernador Substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tengan distinta denominación.
+78.- El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
 
-Tampoco podrá ocupar el cargo, para el período inmediato, el Gobernador Interino, el Provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
+Asimismo, no podrá ser electo para el período inmediato el Gobernador sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tengan distinta denominación.
+
+Tampoco podrá ocupar el cargo para el período inmediato, el Gobernador interino, el provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en forma ininterrumpida los dos últimos años del período.
+
+Por ningún motivo podrán ser Gobernador:
+
+I.- Los Secretarios de Despacho o su equivalente del Poder Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, los Magistrados del Tribunal Estatal Electoral, Diputados Locales, los Presidentes Municipales, funcionarios federales en el Estado, a menos que se separen de su cargo noventa días naturales antes de la fecha de las elecciones.
+
+II.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos noventa días anteriores al de la elección; y
+
+III.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
 ### CAPITULO II. DEL PODER EJECUTIVO
 
@@ -1283,7 +1271,7 @@ XL.- Tomar las medidas necesarias en casos de desastres y situaciones económica
 
 XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado, sea uniforme en cuanto a formalidades y expedición de documentos, y en su caso, exigir y obtener del ayuntamiento respectivo, la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los servidores públicos.
 
-XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
+XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
 
@@ -1291,7 +1279,7 @@ XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las accio
 
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y (sic)
+XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y
 
 > <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1425,13 +1413,13 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, as�
 
 ### CAPITULO III. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia; en un Tribunal Estatal Electoral y Jueces del fuero común en los términos de esta Constitución.
+87.- Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del fuero común, en los términos de esta Constitución.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes: (sic)
+88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -1441,9 +1429,7 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, as�
 
 I.- El Tribunal Superior de Justicia.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
-
-II.- El Tribunal Estatal Electoral.
+II.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
 > <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -1655,43 +1641,9 @@ XIV.- Las demás que le confiera esta Constitución y las Leyes.
 
 El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 
-> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+99.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
-99.- El Tribunal Estatal Electoral, tendrá la competencia y organización que determine la Ley, funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio Tribunal. Los Poderes Legislativo y Judicial garantizarán su debida integración. Para el ejercicio de sus funciones el Tribunal Estatal Electoral, estará integrado con tres Magistrados numerarios y dos supernumerarios, los cuales ejercerán el cargo por seis años y responderán sólo al mandato de la Ley. El Presidente del mismo será elegido de entre sus miembros, para ejercer la función por seis años.
-
-Los Magistrados del Tribunal Estatal Electoral, serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Tribunal Superior de Justicia del Estado. Si dicha mayoría no se logra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de Magistrados. La Ley señalará las reglas y procedimientos correspondientes.
-
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2007)</small>
-
-Los Magistrados del Tribunal Estatal Electoral no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
-
-Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
-
-I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado por tres años;
-
-II.- No tener más de 65 años de edad, ni menos de 35 en la fecha de su elección;
-
-> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
-
-III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o institución legalmente facultada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V.- No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de su elección;
-
-VI.- No tener ni haber tenido cargo alguno de elección popular cinco años anteriores al de su elección;
-
-VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cinco años anteriores al de su elección;
-
-VIII.- No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia; y
-
-IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con fotografía.
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
-
-99 BIS.- Los Magistrados del Tribunal Estatal Electoral durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los supuestos previstos por el artículo 93 de esta Constitución.
-
-Para el procedimiento de reelección o no de los magistrados del Tribunal Estatal Electoral, se seguirá el procedimiento previsto por el artículo 93 BIS de esta Constitución.
+99 BIS.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -1783,11 +1735,9 @@ En el proyecto de Presupuesto de Egresos correspondiente se incluirán las parti
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
-
-118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo del mes de julio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -1857,7 +1807,7 @@ IV.- Que su población no sea inferior a cinco mil habitantes.
 
 V.- Que la comunidad en que se establezca su cabecera cuente con más de tres mil habitantes.
 
-VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y (sic)
+VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y
 
 VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo;
 
@@ -1887,7 +1837,7 @@ III.- El establecimiento de cuerpos de asesoramiento técnico;
 
 IV.- La capacitación de sus funcionarios y empleados;
 
-V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades; y (sic)
+V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades; y
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1977,11 +1927,21 @@ III.- Tener 21 años cumplidos al día de la elección, excepto para ser Síndic
 
 IV.- Ser persona de reconocida buena conducta;
 
-V.- No desempeñar, con excepción de los docentes, cargos o comisión del gobierno federal o estatal, a menos que se separe con dos meses de anticipación al día de la elección; y
+V.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, B.O. 14 DE JULIO DE 1995)</small>
+VI.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-VI.- No pertenecer al estado eclesiástico ni ser ministro de cualquier culto, a menos que se separe formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2014)</small>
+
+138 BIS.- No podrá ser miembro de un ayuntamiento:
+
+I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de su designación
+
+II.- Quienes desempeñen, con excepción de los docentes, cargos o comisión del Gobierno Federal o Estatal, de Secretario de Despacho o su equivalente del Poder Ejecutivo, de Procurador General de Justicia, de Magistrado del Tribunal Superior de Justicia, de Juez, de Magistrado del Tribunal Estatal Electoral, de Presidente Municipal o miembro de Ayuntamiento a menos que se separe sesenta días naturales anteriores al día de la elección. Cuando se renueve el Titular del Poder Ejecutivo Estatal, Diputados y Ayuntamientos, la separación del cargo deberá ser al menos noventa días naturales antes de la fecha de las elecciones.
+
+III.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y
+
+IV.- Los ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.
 
 (REFORMADO, B.O. 14 DE JULIO DE 1995)(F. DE E., B.O. 18 DE AGOSTO DE 1995)
 
@@ -1989,7 +1949,9 @@ VI.- No pertenecer al estado eclesiástico ni ser ministro de cualquier culto, a
 
 140.- La Ley Electoral reglamentará la preparación, desarrollo y vigilancia del proceso comicial para la renovación de ayuntamientos.
 
-141.- Los Presidentes Municipales, Síndicos y Regidores de los ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes, pero éstos si podrán serlo como propietarios, a menos que hayan ejercido el cargo.
+> <small>(REFORMADO, B.O. 27 DE JUNIO DE 2014)</small>
+
+141.- Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectos para un período adicional, siempre y cuando el período del mandato de los Ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 142.- En caso de ausencia temporal que no exceda de treinta días del Presidente Municipal, pasará a desempeñar sus funciones el Primer Regidor.
 
@@ -3057,9 +3019,9 @@ El municipio de La Paz iniciará su período el día 27 de abril de 2011 y concl
 
 El municipio de Los Cabos iniciará su período el día 28 de abril de 2011 y concluirá el 28 de septiembre de 2015.
 
-QUINTO.- Para efectos de lo dispuesto por los artículos 41 y 50 a que hace referencia esta reforma, el presente decreto entrará en vigor el 30 de junio del año 2014.
+QUINTO.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
-SEXTO.- Para los efectos del artículo 70 y 118 de la presente reforma, el presente decreto entrará en vigor el día 30 de junio del año 2014.
+SEXTO.- (DEROGADO, B.O. 27 DE JUNIO DE 2014)
 
 SÉPTIMO.- Las reformas a las disposiciones legales del Estado de Baja California Sur, que sean necesarias para cumplir con la presente reforma constitucional, deberán ser realizadas dentro del plazo de un año establecido por el artículo sexto transitorio de la reforma constitucional federal, publicada en el Diario Oficial de la Federación el día 13 de noviembre de 2007.
 
@@ -3258,3 +3220,31 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 27 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Una vez que entre en vigor el presente Decreto, el Congreso del Estado deberá adecuar las leyes secundarias en materia político-electoral que de ella emanen, a más tardar el 30 de junio de 2014. Dichas modificaciones observarán las garantías electorales que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución establecen como marco general; así como respecto de las facultades y competencias que no están expresamente concedidas a la Federación.
+
+TERCERO.- Los procesos electorales ordinarios locales correspondientes a las elecciones para renovar a los integrantes de la Legislatura e integrantes de los Ayuntamientos, que tendrán lugar el año 2018, por única ocasión y en cumplimiento al Decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos de fecha 22 de enero de 2014, y publicada el 10 de febrero del mismo año en el Diario Oficial de la Federación, se realizarán el primer domingo de julio de 2018.
+
+CUARTO.- Los actuales Consejeros del Instituto Estatal Electoral, seguirán sujetos a lo dispuesto por el Transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
+
+QUINTO.- Los Magistrados del Tribunal Estatal Electoral seguirán sujetos a las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, y continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal.
+
+SEXTO.- La reforma al artículo 46 de esta Constitución en materia de reelección de diputados, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- La reforma al artículo 141 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+OCTAVO.- Una vez que entren en vigor las disposiciones de este Decreto, los recursos humanos, financieros y materiales que en la actualidad se encuentren adscritos al Tribunal Estatal Electoral del Estado de Baja California Sur y que forman parte del Poder Judicial del Estado, pasaran a formar parte del primero, por lo que los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Quinto Transitorio de este Decreto.
+
+NOVENO.- A partir de la entrada en vigor del presente Decreto, se derogan los Artículos Quinto y Sexto Transitorios del decreto 1732 de fecha 06 de marzo de 2008 y publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 15 de fecha 10 de Marzo del año 2008.
+
+> <small>N. DE E. EN RELACIÓN A LA DEROGACIÓN CITADA EN ESTE ARTÍCULO, LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 1839 DE FECHA 12 DE MARZO DE 2010, CORRESPONDEN A LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR.</small>
+
+DÉCIMO.- A partir de la entrada en vigor del presente Decreto, se derogan los Artículos Segundo y Tercero Transitorios del decreto 1839 de fecha 10 de marzo de 2010, publicado en el Boletín Oficial extraordinario del Gobierno del Estado de Baja California Sur número 10 de fecha 12 de Marzo del año 2010.
+
+DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la primera semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
+
+DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
