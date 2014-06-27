@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2014-05-14"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 223, PUBLICADO EN LA G.G. DE 14 DE MAYO DE 2014, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -47,9 +45,11 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 Finalidad del proceso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 1.
 
-El proceso penal tiene por objeto el conocimiento de los hechos, establecer la verdad histórica, garantizar la justicia en la aplicación del derecho y resolver el conflicto surgido como consecuencia del delito, para contribuir a restaurar la armonía social entre sus protagonistas, en un marco de respeto irrestricto a los derechos fundamentales de las personas.
+El proceso penal tiene por objeto el conocimiento de los hechos, establecer la verdad histórica, garantizar la justicia en la aplicación del derecho y resolver el conflicto surgido como consecuencia del delito, para contribuir a restaurar la armonía social entre sus protagonistas, en un marco de respeto irrestricto a los derechos fundamentales de las personas y atendiendo al interés superior del menor.
 
 Se entenderá por derechos fundamentales a los reconocidos en las Constituciones Federal y Local, en los tratados internacionales celebrados y en las leyes que de aquellas emanen.
 
@@ -452,6 +452,14 @@ Registro de audiencias
 ###### Artículo 41.
 
 Las audiencias se registrarán en videograbación, audiograbación o cualquier medio apto para producir seguridad en las actuaciones e información que permitan garantizar su fidelidad, integridad, conservación, reproducción de su contenido y acceso a las mismas, a quienes de acuerdo a la ley tuvieren derecho a ello.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Los menores de edad únicamente deberán comparecer para la toma de la declaración ministerial y la primera audiencia principal de desahogo de pruebas. Se procurará que el menor víctima no tenga contacto con el imputado.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+El Juez y el Ministerio Público vigilarán se desahoguen de forma preferente las diligencias en las que intervenga un menor.
 
 Expedición de copia, reproducciones e informes
 
@@ -945,9 +953,11 @@ Si el que deba ser notificado se niega a recibir al servidor público, o las per
 
 Convalidación de la notificación
 
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 106.
 
-Si a pesar de no haberse hecho la notificación en la forma que este código previene, la persona que deba ser notificada se muestra sabedora de la providencia, ésta surtirá efectos legales.
+Si a pesar de no haberse hecho la notificación en la forma que este código previene, la persona que deba ser notificada se muestra sabedora de la providencia, ésta surtirá efectos legales. Este precepto no aplicará para las víctimas u ofendidos menores de edad.
 
 Pluralidad de defensores
 
@@ -1919,7 +1929,9 @@ Supuesto de caso urgente
 
 Habrá caso urgente cuando concurran las siguientes circunstancias:
 
-I. Que se trate de delito grave así calificado por la ley;
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+I. Que se trate de delito grave así calificado por la ley o que atente en contra de menores de edad;
 
 II. Que exista riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia; y,
 
@@ -2387,9 +2399,11 @@ El procedimiento penal se inicia por denuncia o querella en los casos previstos 
 
 Denuncia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 223.
 
-Toda persona que tenga conocimiento de la comisión de hechos posiblemente constitutivos de delito perseguible de oficio, está obligada a denunciarlos de inmediato al ministerio público o a la policía.
+Toda persona que tenga conocimiento de la comisión de hechos posiblemente constitutivos de delito perseguible de oficio o cometidos en contra menores (sic) de edad, está obligada a denunciarlos de inmediato al ministerio público o a la policía.
 
 Si en el lugar donde se realizó el hecho delictuoso no hubiere policía o ministerio público, la denuncia podrá formularse ante cualquier autoridad pública, quien la recibirá y la comunicará sin demora al ministerio público más próximo, el que podrá ordenarle la realización de diligencias que estime convenientes y necesarias, lo que se hará constar en el registro de la investigación.
 
@@ -2404,6 +2418,18 @@ En caso de que peligre la vida o seguridad del denunciante o de sus familiares, 
 Cuando la denuncia sea verbal se formulará acta en su presencia, quien la firmará junto con el servidor público que la reciba: la escrita será firmada por quien la formule. En ambos casos, si no pudiere firmar, estampará su huella digital o lo hará un tercero a su ruego.
 
 Cuando la denuncia se realice por otro medio distinto, el ministerio público deberá adoptar las medidas necesarias para constatar la identidad del denunciante.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Denuncia de personas menores
+
+###### Artículo 224 Bis.
+
+La denuncia que realicen las personas menores de edad víctimas de un delito deberá ser videograbada y tomada de inmediato ante la presencia exclusiva del represente (sic) legal y/o persona de confianza del menor y del Agente del Ministerio Público quien deberá estar capacitado en la atención de menores, pudiendo solicitar el apoyo de personal especializado en la atención psicológica y emocional de menores.
+
+La toma de declaración se realizará en lugar apto para los menores de edad, procurando contar con un espacio físico agradable para el menor y en donde se le proteja del contacto con el inculpado o con asuntos ajenos a su interés.
+
+Se exime al menor de edad de expresarse con las formalidades que marca la Ley, pudiendo el Ministerio Público o Juez suplir las deficiencias.
 
 Denuncia obligatoria
 
@@ -2843,6 +2869,10 @@ A la inspección podrá asistir su defensa técnica del examinado, quien será a
 
 De lo actuado se dejará registro.
 
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+A la inspección podrá asistir su defensa técnica del examinado, quien será advertido previamente de tal derecho. En caso de menores de edad, dicha diligencia será realizada preferentemente por personal especializado en el tratamiento de menores y la presencia de su defensa técnica será indispensable para realizar tal acto.
+
 Inspección de vehículos
 
 ###### Artículo 256.
@@ -3049,6 +3079,10 @@ Reconocimiento de personas
 
 Cuando el que declare lo hiciere con duda o reticencia, motivando sospecha de que no conoce a la persona que refiere, el juez o el ministerio público ordenarán, con comunicación previa, que se practique su reconocimiento para identificarla o establecer que quien la menciona efectivamente la conoce o la ha visto.
 
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Cuando el declarante sea menor de edad, el Juez o el Ministerio Público de oficio deberán acordar que la diligencia de confrontación se efectúe en un lugar donde no puedan ser vistos o identificados por el probable responsable. La confrontación se llevará a cabo en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el declarante pueda reconocer o identificar al inculpado.
+
 Requisitos
 
 ###### Artículo 271.
@@ -3057,9 +3091,19 @@ Al practicar la confrontación se cuidará que:
 
 I. La persona que sea objeto de ella no se disfrace, ni se desfigure, ni se borre las huellas o señales que puedan servir al que tiene que identificarla;
 
-II. Aquélla se presente acompañada cuando menos de tres personas, vestidas con ropas semejantes y con las mismas señas que las del confrontado, si fuere posible; y
+II. Aquélla se presente acompañada cuando menos de tres personas, vestidas con ropas semejantes y con las mismas señas que las del confrontado, si fuere posible; y (sic)
 
 III. Los individuos que acompañen a la persona que va a confrontarse sean de aspecto físico semejante.
+
+> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+IV. Cuando el declarante sea menor de edad, además de lo previsto por el artículo anterior, el Ministerio Público o Juez deberán:
+
+a) Asegurarse que las personas objeto de la confrontación no vean ni escuchen o puedan identificar al declarante;
+
+b) Asegurarse que el declarante no escuche a las personas objeto de la confrontación; y
+
+c) No presionar ni obligar al menor de edad para que señale a persona alguna.
 
 Colocación
 
@@ -3815,9 +3859,11 @@ Si después de comparecer se niega a declarar sin causa legítima, previo los ap
 
 Facultad de abstención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 345.
 
-Podrán abstenerse de declarar el cónyuge, concubina o concubinario, el tutor, el curador o el pupilo del imputado y sus ascendientes, descendientes o parientes colaterales hasta el cuarto grado de consanguinidad o civil y tercero por afinidad.
+Podrán abstenerse de declarar el cónyuge, concubina o concubinario, el tutor, el curador o el pupilo del imputado y sus ascendientes, descendientes o parientes colaterales hasta el cuarto grado de consanguinidad o civil y tercero por afinidad. No se aplicará lo previsto en este párrafo en los casos de acoso sexual, actos libidinosos, estupro y violación cometidos en contra de menores de edad.
 
 Deberá informarse a las personas mencionadas de la facultad de abstención antes de declarar, pero si aceptan rendir testimonio, no podrán negarse a contestar las preguntas formuladas.
 
@@ -3887,7 +3933,9 @@ Forma de la declaración
 
 Al inicio de la diligencia, se le recibirá la protesta de decir verdad en los términos señalados en este código; se identificará y proporcionará su nombre, estado civil, ocupación, domicilio y vínculos con las partes.
 
-A los menores de dieciocho años sólo se les exhortará para que se conduzcan con verdad.
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+A los menores de dieciocho años sólo se les exhortará para que se conduzcan con verdad, explicándoles claramente de manera que puedan entender el alcance de la misma y el objetivo de la diligencia, evitando en todo momento atemorizar al menor.
 
 Si el testigo teme por su integridad física o la de alguna persona vinculada con él por razón de parentesco o cualquier otra, a juicio del juez, quedará eximido de indicar públicamente su domicilio y se tomará nota reservada de éste, quedando prohibida su divulgación, pero la identidad del testigo no podrá ocultársele al acusado.
 
@@ -4702,6 +4750,14 @@ Sentencia de la reposición
 La resolución que ordene la reposición del procedimiento determinará la causa y efectos de la misma, señalando las actuaciones que deban reponerse y, en su caso, las que queden insubsistentes.
 
 Tratándose de sentencias, la reposición se deberá limitar a las actuaciones de la audiencia intermedia y la de juicio.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+De la reposición de actuaciones
+
+###### Artículo 423 Bis.
+
+Cuando se decrete la reposición de actuaciones, se salvaguardarán las diligencias en las que haya participado una víctima, ofendido o testigo menor de edad, sin que se puedan repetir, salvo que el Juez determine lo contrario, decisión que deberá estar fundada y motivada, procurando siempre no afectar la estabilidad emocional y psicológica del menor.
 
 ### CAPÍTULO III. REVISIÓN EXTRAORDINARIA
 
@@ -5676,3 +5732,9 @@ II. En los demás distritos judiciales, el uno de enero de dos mil quince.
 TERCERO.- Para los efectos de la aplicación del tratamiento contra el abuso y dependencia de sustancias psicoactivas con supervisión judicial, el Consejo de la Judicatura determinará el número de jueces de control especializados en materia de tratamiento contra el abuso y dependencia de sustancias psicoactivas que habrá en cada Distrito.
 
 CUARTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación que deberán recibir los jueces de control que conocerán del tratamiento contra el abuso y dependencia de sustancias psicoactivas con supervisión judicial, para adquirir la especialización correspondiente.
+
+G.G. 27 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
