@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-06-25"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2605,7 +2605,7 @@ Artículo 205 BIS.- (DEROGADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO V. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JUNIO DE 2014)</small>
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
@@ -2773,17 +2773,23 @@ En los casos de reincidencia del delito de incumplimiento de obligaciones alimen
 
 ###### Artículo 218.
 
-Al integrante de un núcleo familiar que haga uso de la violencia física o moral, en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, se le impondrán de dos a cinco años de prisión y de cien a quinientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
+Al integrante de un núcleo familiar que haga uso de la violencia física o moral, en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas; cause menoscabo en sus derechos, bienes o valores de algún integrante del núcleo familiar, se le impondrán de dos a cinco años de prisión y de cien a quinientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
 
 Por núcleo familiar debe entenderse el lugar en donde habitan o concurran familiares o personas con relaciones de familiaridad en intimidad, o el vínculo de mutua consideración y apoyo que existe entre las personas con base en la filiación o convivencia fraterna.
 
-Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio.
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad, mayores de sesenta años o incapaces; en cuyo caso, se perseguirá de oficio.
 
 El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
 
-Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá la perdida de los derechos inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
+Si el inculpado de este delito lo cometiese de manera reiterada, o en contra de una persona mayor de sesenta años, se le impondrá la perdida de los derechos hereditarios, los inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Las penas previstas en el presente artículo se elevarán hasta en un tercio, si se comete en agravio de una persona mayor de sesenta años.
 
 ### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
@@ -5346,3 +5352,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE JUNIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
