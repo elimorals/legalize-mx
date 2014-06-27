@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2013-10-29"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -275,9 +275,11 @@ Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido e
 
 ### CAPITULO VI. OBLIGACIONES DE LAS INSTITUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 35.
 
-Son obligaciones de las instituciones a que se refiere el artículo 1o. de esta Ley:
+Son obligaciones de las instituciones a que se refiere el artículo 1 de esta Ley:
 
 I. Preferir, en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón. Para los efectos del párrafo que antecede, en cada una de las instituciones se formarán los escalafones de acuerdo con las bases establecidas en el Capítulo XI de esta Ley;
 
@@ -297,13 +299,17 @@ c) Jubilación y pensión por invalidez, vejez o muerte; y,
 
 d) Asistencia médica y medicinas para los familiares del trabajador en los términos de los convenios que se celebren con las instituciones de seguridad social;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos especialmente en los temas de diversidad sexual, discapacidad, asuntos indígenas y equidad de género; y,
+VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, así como el respeto a la equidad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-VII. Respetar y vigilar que se respeten y cumplan los derechos humanos del personal a su cargo, cuidando en especial manera que no se vulneren, ni violenten los derechos del personal con discapacidad, las mujeres, las personas de la tercera edad, los indígenas y de aquellos trabajadores con alguna diversidad sexual, generando aquellas condiciones necesarias para un entorno laboral libre de violencia o discriminación.
+VII. Conceder licencia a sus trabajadores en los términos que se estipulen en las condiciones generales de trabajo; y,
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+VIII. Respetar y vigilar que se cumplan los derechos humanos del personal a su cargo, cuidando en especial manera que no se vulneren, ni violenten los derechos del personal con discapacidad, personas de la tercera edad, indígenas y aquellos trabajadores con preferencias sexuales conforme su orientación sexual o identidad de género, generando las condiciones necesarias para un entorno laboral libre de violencia, acoso o discriminación.
 
 ### CAPITULO VII. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -325,13 +331,13 @@ VI. Asistir puntualmente a sus labores;
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y, (sic)
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
 VIII. Asistir a los cursos de capacitación y adiestramiento laborales, así como de sensibilización para el respeto y fomento de los derechos humanos, para mejorar su preparación y eficiencia; y,
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2014)</small>
 
-IX. Respetar los derechos e integridad de todas las personas en especial de los menores de edad, de los adultos mayores, de las personas enfermas, en particular de las personas que padezcan alguna enfermedad infecto-contagiosa, de las personas con discapacidad física, mental o sensorial, de las personas con diversidad sexual y de los indígenas y extranjeros, durante el ejercicio de sus obligaciones como servidores públicos, reportando cualquier anomalía a las autoridades correspondientes, el reporte de dichos actos no podrá ser sancionado, objetado o motivo de acoso laboral ni de la terminación de la relación laboral.
+IX. Proteger, vigilar y promover los derechos e integridad de las mujeres; menores de edad, adultos mayores; enfermos, en particular de las personas que padezcan alguna enfermedad infecto-contagiosa; de las personas con discapacidad física, mental o sensorial; con preferencia sexual de acuerdo a su orientación sexual e identidad de género y de los indígenas y extranjeros, durante el ejercicio de sus obligaciones como servidores públicos, reportando cualquier anomalía a las autoridades correspondientes, el reporte de dichos actos no podrá ser sancionado, objetado o motivo de acoso laboral, ni de la terminación de la relación laboral.
 
 ### CAPITULO VIII. DE LA SUSPENSION DE LA RELACION LABORAL
 
@@ -351,9 +357,9 @@ IV. La prisión preventiva del trabajador seguida de sentencia absolutoria; y, (
 
 V. El arresto del trabajador; y,
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2014)</small>
 
-VI. La violación de alguno de los Derechos Humanos de los ciudadanos durante el ejercicio de sus funciones laborales, incluida la discriminación por género, diversidad sexual, étnica, por discapacidad o de cualquier otro tipo.
+VI. La violación de alguno de los derechos humanos de las personas durante el ejercicio de sus funciones laborales, incluida la discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales de acuerdo con su orientación sexual o identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ### CAPITULO IX. DE LA TERMINACION DE LA RELACION DE TRABAJO
 
@@ -980,3 +986,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la inclusión de los estímulos y beneficios fiscales derivados del presente Decreto, el Congreso del Estado dispondrá lo conducente en sus leyes de ingresos para el ejercicio 2014.
 
 TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación así como las acciones afirmativas en el rubro, se ejecutarán de acuerdo a la programación presupuestal del próximo año a la fecha de la publicación del presente Decreto, de igual manera los estímulos fiscales, acciones afirmativas y gastos de adecuación física deberán de contemplarse en las respectivas leyes y presupuestos de ingresos y egresos de los tres Poderes del Estado, los gobiernos municipales, sus organismos descentralizados y sus organismos autónomos en el ejercicio del próximo año fiscal inmediato a la publicación del presente Decreto.
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
