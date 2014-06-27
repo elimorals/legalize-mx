@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2011-12-28"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -53,7 +53,9 @@ Esta Ley crea el Sistema Estatal de Seguridad Pública, con el objeto de estable
 
 La Seguridad Pública es una función a cargo del Estado y el Municipio; y, comprende la prevención, investigación y persecución del delito; y tiene como fines:
 
-I. Garantizar la integridad y los derechos de las personas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+I. Garantizar la integridad y los derechos de las personas; sin diferencia del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencia sexual conforme su orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana;
 
 II. Preservar la libertad, el orden y la paz pública;
 
@@ -1231,13 +1233,19 @@ Las instituciones de Seguridad Pública, en el ejercicio de sus funciones deber�
 
 Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las instituciones de Seguridad Pública se sujetarán a las siguientes obligaciones:
 
-I. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+I. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución y en los tratados internacionales;
 
 II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos, no se harán diferencias de trato o de protección, fundadas en prejuicios o cuestionamientos por motivo de origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencia sexual conforme su orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana, su actuación será congruente, oportuna y proporcional al hecho;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna motivada por el origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencia sexual conforme su orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana;
 
 V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
 
@@ -2590,3 +2598,7 @@ P.O. 28 DE DICIEMBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del 2012, dos mil doce, y previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
