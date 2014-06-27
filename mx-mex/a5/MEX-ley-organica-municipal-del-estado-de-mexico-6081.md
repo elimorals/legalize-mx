@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-05-14"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1397,6 +1397,10 @@ Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, d
 
 Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento.
 
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Una vez nombrados los integrantes de las comisiones, los presidentes de cada una tendrán treinta días para convocar a sesión a efecto de llevar a cabo su instalación e inicio de los trabajos.
+
 > <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 66.
@@ -1479,9 +1483,13 @@ s). De apoyo y atención al migrante;
 
 t) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
 
-u) Las demás que determine el ayuntamiento, de acuerdo a las necesidades del municipio.
+u) De Protección e Inclusión a Personas con Discapacidad;
+
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+v) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -1589,7 +1597,7 @@ III. Definir y poner en práctica los instrumentos de concertación que se requi
 
 IV. Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
 
-V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la participación de la comunidad municipal, las decisiones y acciones del Consejo, especialmente a través de la formación del Voluntariado de Protección Civil; (sic)
+V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la participación de la comunidad municipal, las decisiones y acciones del Consejo, especialmente a través de la formación del Voluntariado de Protección Civil;
 
 VI. Operar, sobre la base de las dependencias municipales, las agrupaciones sociales y voluntariado participantes, un sistema municipal en materia de prevención, información, capacitación, auxilio y protección civil en favor de la población del municipio.
 
@@ -1721,9 +1729,9 @@ XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
 Para ser secretario del ayuntamiento se requiere, además de los requisitos establecidos en el artículo 32 de esta Ley, los siguientes:
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
 
-I. En municipios que tengan una población de hasta 150 mil habitantes, haber concluido la educación media superior; en los municipios que tengan más de 150 mil y hasta 500 mil habitantes, o que sean cabecera distrital, haber concluido estudios de licenciatura; en los municipios de más de 500 mil habitantes y en el municipio sede de los poderes del Estado, tener título profesional de nivel licenciatura;
+I. En municipios que tengan una población de hasta 150 mil habitantes, podrán tener título profesional de educación superior; en los municipios que tengan más de 150 mil o que sean cabecera distrital, tener título profesional de educación superior;
 
 II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
@@ -3980,3 +3988,29 @@ G.G. 14 DE MAYO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 243 POR EL QUE SE ADICIONA EL INCISO U), RECORRIÉNDOSE EN SU ORDEN, A LA FRACCIÓN I DEL ARTÍCULO 69.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 244 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 92.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para el caso de los secretarios que están actualmente en funciones, no les será aplicable el presente decreto, por única ocasión.
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 246 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 65.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
