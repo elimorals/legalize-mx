@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-integral-para-adolescentes-del-estado-de-53146"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-16"
-last_updated: "2014-02-12"
+last_updated: "2014-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 12 DE FEBRERO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 276 PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 16 de enero del 2007.
 
@@ -85,9 +83,9 @@ V. Defensor Especializado: Licenciado en Derecho de la Dirección de la Defensor
 
 VI. Juez Especializado de la Causa: Juez adscrito al Supremo Tribunal de Justicia del Estado, cuyos criterios de organización, formación especializada, ingreso, p, moción, permanencia y terminación del nombramiento son definidos por el Consejo del Poder Judicial, que conoce de la causa de imputación al adolescente;
 
-VIl. Juez Especializado de Apelación: Juez adscrito al Supremo Tribunal de Justicia del Estado, cuyos criterios de organización, formación especializada, ingreso, promoción, permanencia y terminación del nombramiento son definidos por el Consejo del Poder Judicial, que conoce de la apelación en materia de Justicia Integral para Adolescentes;
+VII. Juez Especializado de Apelación: Juez adscrito al Supremo Tribunal de Justicia del Estado, cuyos criterios de organización, formación especializada, ingreso, promoción, permanencia y terminación del nombramiento son definidos por el Consejo del Poder Judicial, que conoce de la apelación en materia de Justicia Integral para Adolescentes;
 
-VllI. Libertad Bajo Palabra: Es la medida cautelar, mediante la cual, el adolescente otorga manifestación escrita ante el Juez Especializado que conozca de la causa, obligándose a no realizar hecho ilícito y a presentarse cuando se le requiera durante el tiempo que esta dure;
+VIII. Libertad Bajo Palabra: Es la medida cautelar, mediante la cual, el adolescente otorga manifestación escrita ante el Juez Especializado que conozca de la causa, obligándose a no realizar hecho ilícito y a presentarse cuando se le requiera durante el tiempo que esta dure;
 
 IX. Ministerio Público Especializado: Agentes investigadores y adscritos del Ministerio Público designados por el Procurador General de Justicia del Estado para integrar la averiguación previa y sostener la acusación en materia de adolescentes;
 
@@ -101,9 +99,11 @@ XI. Oficial de Vigilancia: Funcionario de la Secretaría de Seguridad Pública, 
 
 La procuración e impartición de justicia integral para adolescentes, será pronta, expedita, imparcial, eficaz y humanitaria, atendiendo al interés superior del adolescente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+
 ###### Artículo 9.
 
-Al adolescente que se le atribuya la comisión o participación de un hecho ilícito tipificado como delito en la ley, se le respetarán las garantías que la Constitución le otorga; además, las autoridades en su ámbito de competencia garantizarán al adolescente los siguientes derechos:
+Al adolescente que se le atribuya la comisión o participación de un hecho ilícito tipificado como delito en la ley, se le respetarán los derechos humanos que la Constitución le reconoce; además, las autoridades en su ámbito de competencia garantizarán al adolescente los siguientes derechos:
 
 l. No se podrá incoar en su contra proceso alguno sin denuncia o querella previa;
 
@@ -111,13 +111,19 @@ II. Que se le presuma inocente hasta en tanto no se demuestre que es culpable;
 
 III. Queda prohibido divulgar la identidad del adolescente investigado, sometido a proceso o sancionado, el nombre de sus padres, tutores o quien ejerza la patria potestad o cualquier dato que permita su identificación pública;
 
-IV. Ser asistido por un abogado en todas las etapas del proceso; en caso de no contar con uno o con persona de su confianza, se le nombrará un defensor de oficio. No podrá recibírsele ninguna declaración sin la asistencia de éste.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
-V. El adolescente en todo momento, podrá reunirse con su defensor o persona de su confianza en estricta confidencialidad;
+IV. Ser asistido por un abogado en todas las etapas del proceso; en caso de no contar con uno, se le nombrará un defensor público. No podrá recibírsele ninguna declaración sin la asistencia de éste;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+V. El adolescente en todo momento, podrá reunirse con su defensor en estricta confidencialidad;
 
 VI. Ser informado, en un lenguaje claro y accesible, sin demora y personalmente, o a través de sus padres, tutores, quienes ejerzan la patria potestad o la guarda o custodia, o sus representantes legales sobre las razones por las que se les detiene, juzga o impone una medida; la persona que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento; que podrán disponer de defensa jurídica gratuita y todo aquello que interese respecto de su sujeción al Sistema;
 
-VII. Que la carga de la prueba corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+
+VII. La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
 
 VIII. No ser privado de su libertad en forma ilegal;
 
@@ -132,6 +138,10 @@ XII. No ser sometido a violencia física, intimidación, tortura ni a otros trat
 XIII. Recurrir al procedimiento de Conciliación previsto por esta Ley; y,
 
 XIV. Los demás que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2014)</small>
+
+Derechos que se aplicarán a los adolescentes sin discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencia sexual, entre las que se encuentra su orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 ###### Artículo 10.
 
@@ -261,7 +271,7 @@ El internamiento en régimen semiabierto, tendrá una duración mínima de tres 
 
 Si el adolescente no cumple con el internamiento en régimen semiabierto se le podrá decretar internamiento en régimen cerrado por el tiempo que le restara cumplir de la medida impuesta originalmente.
 
-### Capítulo Vll. Internamiento en Régimen Cerrado
+### Capítulo VII. Internamiento en Régimen Cerrado
 
 ###### Artículo 27.
 
@@ -269,7 +279,7 @@ El internamiento en régimen cerrado consiste en la reclusión continua del adol
 
 Excepcionalmente, y por razón de seguridad, los internos que hayan cumplido dieciocho años, a consideración del Juez Especializado, podrán ser trasladados a los Centros de Readaptación Social, en régimen especial.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 28.
 
@@ -287,17 +297,17 @@ V. Secuestro, artículo 228;
 
 VI. Tráfico de personas, sus miembros y órganos, artículo 229 bis;
 
-VII. Extorsión, artículo 236 y 236 bis;
+VII. Desaparición forzada, artículo 230 y 231;
 
-VIII. Asalto, artículo 237;
+VIII. Extorsión, artículo 236 y 236 bis;
 
-IX. Violación, artículo 240;
+IX. Asalto, artículo 237;
 
-X. Abusos deshonestos, artículo 246;
+X. Violación, artículo 240;
 
-XI. Homicidio, artículos 260, 264 y 267;
+XI. Homicidio, artículos 260, 264 y 267, 280 y 281;
 
-XII. Lesiones, artículo 270 fracciones IV y V;
+XII. Lesiones, artículo 270 fracciones IV y V; y 271;
 
 XIII. Parricidio, artículo 283;
 
@@ -655,9 +665,9 @@ V. El Juez Especializado, después de tomar le protesta de decir verdad al decla
 
 VI. Sólo las partes podrán objetar la formulación de preguntas capciosas, impertinentes, compuestas o sugestivas. El Juez Especializado resolverá en el acto sobre la procedencia o improcedencia de las objeciones y continuará con el interrogatorio;
 
-Vll. Los documentos e informes admitidos previamente, serán leídos y exhibidos en la audiencia, con indicación de su origen; las grabaciones y elementos de prueba audiovisuales serán reproducidos en la audiencia, según su forma de reproducción habitual. El Juez Especializado, de oficio o a solicitud de parte, podrá prescindir de la lectura íntegra de documentos o informes escritos o de la reproducción total de una grabación, a efecto de leer o reproducir sólo la parte pertinente del documento o de la grabación;
+VII. Los documentos e informes admitidos previamente, serán leídos y exhibidos en la audiencia, con indicación de su origen; las grabaciones y elementos de prueba audiovisuales serán reproducidos en la audiencia, según su forma de reproducción habitual. El Juez Especializado, de oficio o a solicitud de parte, podrá prescindir de la lectura íntegra de documentos o informes escritos o de la reproducción total de una grabación, a efecto de leer o reproducir sólo la parte pertinente del documento o de la grabación;
 
-Vlll. Todos los elementos de convicción podrán ser presentados a los peritos, testigos, traductores, intérpretes o al adolescente, cuando corresponda durante sus declaraciones, quienes podrán ser invitados a reconocerlos o a declarar sobre ellos;
+VIII. Todos los elementos de convicción podrán ser presentados a los peritos, testigos, traductores, intérpretes o al adolescente, cuando corresponda durante sus declaraciones, quienes podrán ser invitados a reconocerlos o a declarar sobre ellos;
 
 IX. Desahogadas las pruebas, el Juez Especializado preguntará a las partes si desean hacer alguna manifestación, de ser así, les concederá la palabra en su orden, al Ministerio Público Especializado, al sujeto pasivo, al defensor y por último al adolescente;
 
@@ -1214,3 +1224,7 @@ P.O. 21 DE ENERO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Congreso del Estado, a través de las comisiones correspondientes, expedirá las reformas que sean necesarias a los demás ordenamientos legales estatales, para adaptarlas al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
