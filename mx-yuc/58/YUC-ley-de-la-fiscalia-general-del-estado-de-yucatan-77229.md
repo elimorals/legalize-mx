@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-77229"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-10"
-last_updated: "2011-03-01"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
 
-LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
+LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 10 de noviembre de 2010.
 
@@ -42,6 +42,8 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 E X P O S I C I Ó N D E M O T I V O S:.
 
 En tal virtud, con fundamento en los artículos 29 y 30 fracción V de la Constitución Política y 64 fracciones I y XVII, incisos a) y p), 97, 100 y 101 de la Ley Orgánica del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
+
+> <small>N. DE E. VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 200/2014, PUBLICADO EN EL D.O. DE 28 DE JUNIO DE 2014, RELATIVO A LA DENOMINACIÓN DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN.</small>
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
@@ -121,7 +123,9 @@ III. La Vice Fiscalía de Prevención del Delito, de Justicia Restaurativa, y At
 
 IV. La Vice Fiscalía Especializada en Justicia para Adolescentes;
 
-V. La Vice Fiscalía Especializada en Delitos Electorales y Contra el Medio Ambiente;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+V. La Vice Fiscalía Especializada en Delitos Electorales;
 
 VI. Las fiscalías investigadoras del Ministerio Público;
 
@@ -317,11 +321,15 @@ XII. Interponer los recursos que sean necesarios de acuerdo a la Ley de la mater
 
 XIII. Las demás que le asigne el Fiscal General, con base en esta Ley, su Reglamento y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 13.
 
-El Vice Fiscal Especializado en Delitos Electorales y Contra el Medio Ambiente, tiene las siguientes facultades y obligaciones:
+El Vice Fiscal Especializado en Delitos Electorales, tiene las siguientes facultades y obligaciones:
 
-l. Establecer los mecanismos de coordinación y de interrelación con otras áreas de la Fiscalía General y de las instancias competentes de los tres órdenes de gobierno, para el óptimo cumplimiento de las funciones que le correspondan en la persecución e investigación de los delitos electorales y contra el medio ambiente;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+l. Establecer los mecanismos de coordinación y de interrelación con otras áreas de la Fiscalía General y de las instancias competentes de los tres órdenes de gobierno, para el óptimo cumplimiento de las funciones que le correspondan en la persecución e investigación de los delitos electorales;
 
 II. Coordinar las actividades que realicen los Fiscales Investigadores del Ministerio Público que conozcan de los delitos de su competencia, durante todo el proceso, hasta la total resolución de los asuntos;
 
@@ -331,19 +339,27 @@ IV. Interponer los recursos y medios de defensa que considere necesarios para cu
 
 V. Considerar criterios de oportunidad para el ejercicio de la acusación penal o de la no acusación, tratándose de los delitos de su competencia, en los casos en que disponga la legislación aplicable;
 
-VI. Realizar estudios encaminados a fortalecer la aplicación de la legislación electoral y la protección del medio ambiente en el Estado;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-VII. Conocer de los delitos electorales y contra el medio ambiente previstos en el Código Penal del Estado de Yucatán;
+VI. Realizar estudios encaminados a fortalecer la aplicación de la legislación electoral en el Estado;
+
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+VII. Conocer de los delitos electorales previstos en la Ley General de Delitos Electorales que sean de su competencia;
 
 VIII. Realizar la sistematización de la información contenida en las investigaciones de hechos a su cargo;
 
-IX. Proporcionar al juez competente, de conformidad con el Código Penal del Estado de Yucatán, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de hechos que puedan constituir algún delito electoral o contra el medio ambiente;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+IX. Proporcionar al juez competente, de conformidad con el Código Penal del Estado de Yucatán, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de hechos que puedan constituir algún delito electoral;
 
 X. Ejercer las facultades y obligaciones que esta Ley, su Reglamento y demás disposiciones legales aplicables confieren a los fiscales investigadores del Ministerio Público, y
 
 XI. Las demás que le asigne el Fiscal General, con base en esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
-Para ser Vice Fiscal Especializado en Delitos Electorales y Contra el Medio Ambiente, se requerirá no ser ni haber sido, candidato a cargo de elección popular o dirigente en los órganos nacionales, estatales o municipales de algún partido político, durante los 3 años previos a su designación, en ambos casos.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Para ser Vice Fiscal Especializado en Delitos Electorales, se requerirá no ser ni haber sido, candidato a cargo de elección popular o dirigente en los órganos nacionales, estatales o municipales de algún partido político, durante los 3 años previos a su designación, en ambos casos.
 
 #### Sección Tercera. De los Fiscales Investigadores del Ministerio Público
 
@@ -1153,10 +1169,54 @@ C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 1 DE MARZO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas.
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
