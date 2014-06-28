@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2014-06-21"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -715,9 +715,11 @@ De no prevenir de los legisladores la petición de un acuerdo administrativo, el
 
 ### CAPITULO IV. DE LAS FORMALIDADES DE INICIATIVAS DE ACUERDOS ECONOMICOS
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 71.
 
-El acuerdo económico es una resolución para obviar trámites y simplificar procedimientos, que puede ser tomado por el Congreso o la Diputación Permanente.
+El acuerdo económico es una resolución que tiene efectos internos en la administración de los órganos, dependencias, comités y comisiones del Congreso, y debe ser tomada por el Pleno.
 
 ### CAPITULO V. DE LAS FORMALIDADES DE LOS PUNTOS DE ACUERDO
 
@@ -2324,3 +2326,9 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
