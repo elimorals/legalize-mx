@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2012-09-11"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -59,9 +59,11 @@ Los tribunales del Estado deberán emitir resoluciones de manera pronta, complet
 
 Competencia de los tribunales locales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 3.
 
-Corresponde al Poder Judicial del Estado de Yucatán, la atribución de impartir justicia y aplicar leyes y normas de carácter general en materias, constitucional, civil, familiar, mercantil, de justicia para adolescentes, penal, electoral, administrativa, laboral y en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos que resulten aplicables, le confieran jurisdicción; así como, de expedir las disposiciones reglamentarias de esta Ley, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado y demás leyes que de ellas deriven.
+Corresponde al Poder Judicial del Estado de Yucatán, la atribución de impartir justicia y aplicar leyes y normas de carácter general en materias constitucional, civil, familiar, mercantil, de justicia para adolescentes, penal, fiscal, administrativa, laboral y en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos que resulten aplicables, le confieran jurisdicción; así como de expedir las disposiciones reglamentarias de esta ley, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado y demás leyes que de ellas deriven.
 
 También le corresponde la solución de controversias a través de mecanismos alternativos, por conducto del Centro Estatal de Solución de Controversias, en los términos de la legislación aplicable.
 
@@ -73,27 +75,33 @@ El Poder Judicial del Estado contará con el Consejo de la Judicatura, órgano e
 
 Litigantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 5.
 
-En materia civil, familiar, mercantil electoral y administrativa, los litigantes deberán estar asesorados por abogado o licenciado en derecho con título o cédula legalmente expedidos. Podrán nombrar pasantes de derecho que puedan oír y recibir notificaciones e imponerse de autos.
+En materia civil, familiar, mercantil y administrativa, los litigantes deberán estar asesorados por abogado o licenciado en derecho con título o cédula legalmente expedidos. Podrán nombrar pasantes de derecho que puedan oír y recibir notificaciones e imponerse de autos.
 
 En materia penal y de justicia de adolescentes, la defensa del imputado y del adolescente en conflicto con la ley penal, respectivamente, deberá ser realizada por abogado o licenciado en derecho, con título o cédula legalmente expedidos.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 Días hábiles
 
 ###### Artículo 6.
 
-Los tribunales del Estado laborarán durante todos los días hábiles del año, excepto los sábados y domingos, aquellos que estén declarados y los que en adelante se declaren inhábiles, por alguna Ley Federal o del Estado, así como los días en que por determinación del Pleno del Consejo de la Judicatura se suspendan las labores, y con acuerdo del Pleno del Tribunal Superior de Justicia, si la suspensión incluye a este órgano.
+Los tribunales del estado laborarán durante todos los días hábiles del año, excepto los sábados y domingos, aquellos que estén declarados y los que en adelante se declaren inhábiles, por alguna ley federal o del estado, así como los días en que, por determinación del Pleno del Consejo de la Judicatura, se suspendan las labores, y con acuerdo del Pleno del Tribunal Superior de Justicia si la suspensión incluye a este órgano.
 
-En materia penal, de justicia para adolescentes y en los procesos electorales en el Estado, son hábiles las 24 horas de todos los días del año, sin previa habilitación, en términos de la legislación de la materia.
+En materia penal y de justicia para adolescentes, son hábiles las veinticuatro horas de todos los días del año, sin previa habilitación, en términos de la legislación de la materia.
 
 ### CAPÍTULO II. De las Garantías de la función judicial
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 Principios que rigen la función judicial
 
 ###### Artículo 7.
 
-Los tribunales del Poder Judicial del Estado impartirán justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
+Los tribunales del Poder Judicial del Estado impartirán justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad, seguridad jurídica, exhaustividad y congruencia.
 
 Independencia
 
@@ -123,11 +131,13 @@ Remuneración durante el encargo
 
 Los juzgadores percibirán una remuneración adecuada e irrenunciable, proporcional a la dignidad del cargo, que le permita dedicarse con todas sus capacidades, la cual no podrá ser disminuida durante su encargo.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 Principio de unidad de jurisdicción
 
 ###### Artículo 12.
 
-La función jurisdiccional sólo corresponde a los órganos del Poder Judicial del Estado, encargados de la impartición de justicia, en los términos que la Constitución Política de los Estados Unidos Mexicanos y la del Estado establezcan.
+La función jurisdiccional sólo corresponde a los órganos del Poder Judicial del Estado, salvo en los casos que establezca la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Yucatán.
 
 Régimen de incompatibilidades
 
@@ -147,13 +157,15 @@ Las sentencias ejecutoriadas de los tribunales del Estado deberán acatarse en s
 
 ### CAPÍTULO III. De los órganos del Poder Judicial del Estado de Yucatán
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
 Integración general
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 15.
 
-El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de Justicia Electoral y Administrativa, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de Primera Instancia y los juzgados de Paz.
+El ejercicio de la función jurisdiccional del Poder Judicial del Estado se deposita en el Tribunal Constitucional, el Tribunal Superior de Justicia, el Tribunal de Justicia Fiscal y Administrativa, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, los tribunales y juzgados de primera instancia y los juzgados de paz.
+
+> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 Adicionalmente, para el cumplimiento de sus funciones no jurisdiccionales, el Poder Judicial contará con el Consejo de la Judicatura, el Fondo Auxiliar para la Administración de Justicia y el Centro Estatal de Solución de Controversias.
 
@@ -723,59 +735,59 @@ IX.- Formular el Manual de Operación de la Unidad y los demás que se requieran
 
 X.- Las demás que le confiera el Pleno y otras disposiciones legales aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
+
 ### CAPÍTULO I. Disposiciones generales
 
-Decisiones del Tribunal de Justicia Electoral y Administrativa
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO II. Del Pleno del Tribunal de Justicia Electoral y Administrativa
+Objeto y naturaleza del tribunal
 
-## TÍTULO TERCERO. DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA
+### CAPÍTULO II. Del Pleno del Tribunal de Justicia Fiscal y Administrativa
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Funcionamiento del tribunal
+
+## TÍTULO TERCERO. DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ###### Artículo 60.
 
-El Tribunal de Justicia Electoral y Administrativa es la máxima autoridad jurisdiccional en materia electoral y administrativa del Estado de Yucatán; contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables.
+El Tribunal de Justicia Fiscal y Administrativa es la máxima autoridad jurisdiccional en materia contencioso-administrativa y de responsabilidades de los servidores públicos en el Estado de Yucatán. Contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables.
 
-Jurisdicción
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Competencia territorial e integración
 
 ###### Artículo 61.
 
-El Tribunal de Justicia Electoral y Administrativa tendrá jurisdicción en todo el Estado de Yucatán y residirá en su capital, se integrará con tres Magistrados, con sus respectivos suplentes, quienes entrarán en funciones en términos de la ley y reglamentos aplicables, en ausencia del Magistrado Titular.
+El Tribunal de Justicia Fiscal y Administrativa tendrá competencia en todo el estado de Yucatán, residirá en su capital y se integrará con tres magistrados, con sus respectivos suplentes, quienes entrarán en funciones en términos de la ley y reglamentos aplicables, en ausencia del magistrado titular.
 
-Disposiciones relativas a los magistrados del Tribunal de Justicia Electoral y Administrativa
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Disposiciones aplicables a los magistrados
 
 ###### Artículo 62.
 
-Son aplicables a los magistrados del Tribunal de Justicia Electoral y Administrativa las disposiciones contenidas en el Capítulo Cuarto del Título Primero de esta Ley, sin perjuicio de lo que la legislación aplicable disponga.
+Son aplicables a los magistrados del Tribunal de Justicia Fiscal y Administrativa, las disposiciones contenidas en el capítulo cuarto del título primero de esta ley, sin perjuicio de lo que la legislación aplicable disponga.
 
-Personal del Tribunal de Justicia Electoral y Administrativa
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Administración, vigilancia y disciplina
 
 ###### Artículo 63.
 
-El nombramiento del personal del Tribunal de Justicia Electoral y Administrativa corresponderá a la Comisión Especial del Consejo de la Judicatura, con base en lo que disponga el Reglamento de Carrera Judicial.
+El nombramiento del personal, así como la administración, vigilancia y disciplina del Tribunal de Justicia Fiscal y Administrativa estará a cargo de una comisión especial del Consejo de la Judicatura, integrada por el presidente de dicho tribunal y dos miembros del Consejo de la Judicatura, el cual tendrá, en lo conducente, las atribuciones que esta ley establece al pleno del consejo.
 
-Competencia específica
+El funcionamiento de esta comisión se regirá por los acuerdos generales que al efecto emita el pleno de Tribunal de Justicia Fiscal y Administrativa.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Competencia del tribunal
 
 ###### Artículo 64.
 
-Corresponde al Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, a través del Pleno, conocer y resolver lo siguiente:
-
-A) En materia electoral del Estado:
-
-I.- Los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral del estado;
-
-II.- Los medios de impugnación reconocidos en la ley, incluyendo el juicio para la protección de los derechos político electorales del ciudadano, que se presenten oportunamente, durante el proceso electoral y en la etapa de preparación de la elección ordinaria, en contra de los actos y resoluciones de las autoridades, organismos electorales y asociaciones políticas;
-
-III.- Los medios de impugnación que se presenten de conformidad con lo dispuesto en los artículos 24 y 25 de la Constitución Política del Estado;
-
-IV.- Los medios de impugnación que se presenten en procesos extraordinarios, en los términos de las leyes electorales estatales y la convocatoria respectiva;
-
-V.- Los recursos de apelación que se interpongan durante el tiempo que transcurra entre dos procesos electorales ordinarios por actos o resoluciones de los organismos electorales;
-
-VI.- Las impugnaciones relativas a los procedimientos de participación ciudadana establecidas en la ley, y
-
-VII.- La imposición de sanciones de acuerdo a lo previsto en las disposiciones en materia electoral estatal.
-
-B) En materia contenciosa administrativa:
+Corresponde al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, a través del Pleno, conocer y resolver lo siguiente:
 
 I.- Controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y los particulares;
 
@@ -793,69 +805,87 @@ VII.- De los juicios de impugnación contra la resolución del recurso de revoca
 
 VIII.- De los juicios que se promuevan en contra de las resoluciones negativas fictas en materia administrativa y fiscal, que se configuren por el silencio de las autoridades del Poder Ejecutivo, de los Municipios y de los organismos públicos descentralizados, las Empresas de Participación Estatal mayoritaria y los Fideicomisos Públicos, para dar respuesta a la instancia de un particular en el plazo que la ley fija;
 
-IX.- Del recurso de reclamación en contra de los autos de admisión o desechamiento de la demanda ante el Tribunal de Justicia Electoral y Administrativa o de su ampliación y del auto que admita o deseche la contestación o su ampliación, así como del que admita o rechace pruebas, y
+IX.- Del recurso de reclamación en contra de los autos de admisión o desechamiento de la demanda ante el Tribunal de Justicia Fiscal y Administrativa o de su ampliación y del auto que admita o deseche la contestación o su ampliación, así como del que admita o rechace pruebas;
 
 X.- De los juicios que promueva la administración pública Estatal o Municipal o sus autoridades, para que sean modificadas las resoluciones administrativas o fiscales favorables a un particular, provenientes de autoridades diferentes a este Tribunal.
 
-C) De los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal de Justicia Electoral y Administrativa.
+XI.- Del incumplimiento de las sentencias del Tribunal de Justicia Fiscal y Administrativa, y
 
-D) Del incumplimiento de las sentencias del Tribunal de Justicia Electoral y Administrativa.
-
-Respeto a los principios de legalidad y exhaustividad
+XII.- De los demás juicios o procedimientos que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal de Justicia Fiscal y Administrativa.
 
 ###### Artículo 65.
 
-El Tribunal de Justicia Electoral y Administrativa del Estado al resolver los asuntos electorales de su competencia, garantizará que sus actos y resoluciones se sujeten invariablemente al principio de legalidad y exhaustividad.
-
-Definitividad de las resoluciones
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 ###### Artículo 66.
 
-Las resoluciones del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado recaídas al recurso de apelación, de inconformidad y el juicio para la protección de los derechos político electorales del ciudadano, serán definitivas.
-
-Interpretación de normas
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 ###### Artículo 67.
 
-Para el trámite, sustanciación y resolución de los medios de impugnación previstos en las leyes electorales, sus disposiciones se interpretarán conforme a los criterios: gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad a la demás normatividad aplicable relativa a la materia electoral. Tratándose de dichos medios de impugnación, a falta de disposición expresa se aplicarán los criterios establecidos en el Tribunal de Justicia Electoral y Administrativa, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación y los Principios Generales del Derecho.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
-Contencioso administrativo
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Legislación aplicable
 
 ###### Artículo 68.
 
-Los juicios que se promuevan ante el Tribunal de Justicia Electoral y Administrativa, en materia contenciosa administrativa, se sustanciarán y resolverán con arreglo al procedimiento que señale la Ley aplicable en la materia.
+Los juicios que se promuevan ante el Tribunal de Justicia Fiscal y Administrativa se sustanciarán y resolverán con arreglo al procedimiento que señale las leyes aplicables en la materia.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Supletoriedad
 
 ###### Artículo 69.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que prescribe la ley aplicable en la materia, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado; los juicios por responsabilidad administrativa se sustanciarán conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+A falta de disposición expresa y en cuanto no se oponga a lo que prescribe la ley aplicable en la materia, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Sustanciación y sentencia
 
 ###### Artículo 70.
 
-Los asuntos en materia contenciosa administrativa serán sustanciados por el Magistrado Ponente, quien lo pondrá en estado de resolución, y la sentencia será dictada por el Pleno del Tribunal de Justicia Electoral y Administrativa.
+Los asuntos que conozca el Tribunal de Justicia Fiscal y Administrativa serán sustanciados por el magistrado ponente quien lo pondrá en estado de resolución, y la sentencia será dictada por su Pleno.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Organización del tribunal
 
 ###### Artículo 71.
 
-El Tribunal de Justicia Electoral y Administrativa, estará organizado conforme lo establece la Constitución Política del Estado de Yucatán, esta Ley, el reglamento interno y demás acuerdos que emita su Pleno para su adecuado funcionamiento.
+El Tribunal de Justicia Fiscal y Administrativa estará organizado conforme lo establece la Constitución Política del Estado de Yucatán, esta ley, el reglamento interno y demás acuerdos que emita su pleno para su adecuado funcionamiento.
 
-El Tribunal de Justicia Electoral y Administrativa, contará con secretarios de acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y de demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto, según disponga la comisión especial respectiva.
+El Tribunal de Justicia Fiscal y Administrativa contará con secretarios de acuerdos, secretarios de estudio y cuenta, actuarios, oficiales de partes y demás funcionarios judiciales que sean necesarios acorde a las necesidades del trabajo y del presupuesto, según lo disponga la comisión especial respectiva.
 
-Para conocer de la administración, vigilancia y disciplina en el Tribunal de Justicia Electoral y Administrativa, éste contará con una Comisión Especial integrada por el Magistrado Presidente del Tribunal de Justicia Electoral y Administrativa, y con dos miembros del Consejo de la Judicatura, y en lo conducente, tendrá las atribuciones que esta Ley establece al Pleno del Consejo.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
-El funcionamiento de esta Comisión se regirá de conformidad con los acuerdos generales que al efecto emita el Pleno de este Tribunal.
+Funciones del tribunal
 
 ###### Artículo 72.
 
-El Tribunal de Justicia Electoral y Administrativa tendrá las atribuciones que establece este ordenamiento y las demás que establezcan los ordenamientos jurídicos aplicables.
+El Tribunal de Justicia Fiscal y Administrativa tendrá las atribuciones que establecen este ordenamiento y las demás que establezcan otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 73.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, funcionará en Pleno, integrándose su quórum por mayoría de los Magistrados que lo integran entre los que deberá estar presente su Presidente, las sesiones para resolver asuntos de su competencia serán públicas o privadas, y sus resoluciones se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
+El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, funcionará en Pleno y requerirá la presencia de dos magistrados, incluido el presidente, para sesionar. Las sesiones para resolver asuntos de su competencia serán públicas o privadas, y sus resoluciones se tomarán por mayoría de votos. En caso de empate, el presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 28 DE JUNIO DE 2014)</small>
+
+Atribuciones del pleno del tribunal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 74.
 
-Son atribuciones del Pleno del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, las siguientes:
+Son atribuciones del Pleno del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, las siguientes:
 
-I.- Elegir cada cuatro años entre los Magistrados al Presidente del Tribunal, de conformidad con su reglamento interno;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+I.- Elegir, de entre los magistrados que lo integran, a su presidente, para un plazo de cuatro años, de conformidad con su reglamento interno;
 
 II.- Aprobar el anteproyecto de presupuesto correspondiente y remitirlo al Consejo de la Judicatura;
 
@@ -863,37 +893,49 @@ III.- Convocar, a propuesta del Presidente, a los Magistrados suplentes cuando a
 
 IV.- Designar o remover, a propuesta del Presidente del Tribunal, a los Secretarios de Acuerdos, conforme a lo que establezca el Reglamento de Carrera Judicial;
 
-V.- Resolver los medios de impugnación de los cuales deba conocer, en los procedimientos de elección ordinaria o extraordinaria;
+V.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-VI.- Resolver los juicios de protección de los derechos político-electorales del ciudadano;
+VI.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-VII.- Resolver las impugnaciones relativas a los procedimientos de participación ciudadana;
+VII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-VIII.- Desechar, sobreseer, tener por no interpuestos o por no presentados cuando proceda, los medios de impugnación incluyendo el juicio para la protección de los derechos político electorales del ciudadano y las impugnaciones relativas a los procedimientos de participación ciudadana, los escritos de terceros interesados o de los coadyuvantes;
+VIII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-IX.- Calificar y resolver las excusas que presenten los Magistrados, así como conocer y resolver respecto de las licencias que los mismos le presenten;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-X.- Encomendar a los secretarios o actuarios la realización de diligencias que deban practicarse fuera del Tribunal;
+IX.- Calificar y resolver las excusas que presenten sus magistrados así como conocer y resolver respecto de las licencias que estos le presenten, dictando las medidas que se estimen pertinentes;
+
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+X.- Representar legalmente al Tribunal; comisionar, delegar u otorgar poderes, según corresponda; y encomendar la realización de diligencias, incluso las que deban practicarse fuera del tribunal;
 
 XI.- Aplicar las sanciones pecuniarias y administrativas de su competencia previstas en la Ley;
 
-XII.- Resolver los asuntos contenciosos administrativos y electorales de su competencia, y
+XII.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
 XIII.- Expedir su reglamento interno que complemente su organización y funcionamiento, así como los acuerdos generales necesarios para su adecuado desempeño.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 75.
 
-El Presidente del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, tendrá las siguientes atribuciones:
+El Presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado tendrá las siguientes atribuciones:
 
-I.- Presidir las sesiones del Pleno del Tribunal, y en su caso dirigir los debates y procurar la conservación del orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado; ésta misma disposición la podrá hacer valer el Magistrado Ponente cuando sustancie algún asunto a su cargo de naturaleza contencioso administrativa;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-II.- Convenir con la instancia correspondiente las acciones de capacitación del personal adscrito al Tribunal de Justicia Electoral y Administrativa;
+I.- Presidir las sesiones del Pleno del Tribunal, y, en su caso, dirigir los debates y procurar la conservación del orden durante su desarrollo. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado; esta misma disposición la podrá hacer valer el magistrado ponente cuando sustancie algún asunto a su cargo.
+
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+II.- Convenir con la instancia correspondiente las acciones de capacitación del personal adscrito al tribunal;
 
 III.- Despachar la correspondencia del Tribunal;
 
 IV.- Vigilar que se cumplan las determinaciones del Pleno;
 
-V.- Someter al Pleno del Tribunal de Justicia Electoral y Administrativa, el ante proyecto de presupuesto elaborado por la Comisión encargada de la administración del Tribunal, y posteriormente remitirlo al Presidente del Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado;
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+V.- Someter al Pleno del Tribunal de Justicia Fiscal y Administrativa el anteproyecto de presupuesto elaborado por la comisión especial encargada de la administración del tribunal y posteriormente remitirlo al Presidente del Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado;
 
 VI.- Gestionar los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
@@ -901,19 +943,27 @@ VII.- Tomar las medidas necesarias para coordinar las funciones jurisdiccionales
 
 VIII.- Turnar los asuntos que deba conocer el Tribunal para la sustanciación de los expedientes de conformidad con el proceso específico establecido por la Ley de la materia o reglamento interno aplicable a cada caso concreto;
 
-IX.- Tratándose de asuntos electorales de su competencia, podrá requerir cualquier informe o documento que, obrando en poder de los órganos electorales o de las autoridades federales, estatales o municipales, pueda servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la Ley de la materia, siendo que aquellas autoridades a las que obliga esta ley, deberán obsequiar el requerimiento dentro del plazo que se le establezca;
+IX.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-X.- Ordenar en materia electoral, cuando así lo considere, la realización de alguna diligencia o desahogo de alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la ley de la materia;
+X.- (DEROGADA, D.O. 28 DE JUNIO DE 2014)
 
-XI.- Presidir la Comisión Especial del Consejo de la Judicatura, y
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-XII.- Las demás que considere pertinentes para el correcto funcionamiento del Tribunal de Justicia Electoral y Administrativa.
+XI.- Presidir la Comisión Especial del Consejo de la Judicatura, tramitar los asuntos de la competencia del Tribunal y turnar los expedientes a sus integrantes para que se substancie el procedimiento y los proyectos de resolución, y
+
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+XII.- Las demás que considere pertinentes para el correcto funcionamiento del tribunal.
 
 ## TÍTULO CUARTO. DEL TRIBUNAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-### CAPÍTULO III. Del Presidente del Tribunal de Justicia Electoral y Administrativa
+### CAPÍTULO III. Del Presidente del Tribunal de Justicia Fiscal y Administrativa
 
-Atribuciones del Presidente del Tribunal de Justicia Electoral y Administrativa
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 28 DE JUNIO DE 2014)</small>
+
+Atribuciones del Presidente del Tribunal de Justicia Fiscal y Administrativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 76.
 
@@ -1873,13 +1923,13 @@ VI.- Las demás que establezca la legislación aplicable y el Pleno del Consejo.
 
 #### Sección Primera. De la visitaduría
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 Naturaleza
 
 ###### Artículo 149.
 
-La Visitaduría del Consejo de la Judicatura está encargada de inspeccionar la actividad del Tribunal de Justicia Electoral y Administrativa, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de los tribunales y juzgados de Primera Instancia y de los juzgados de Paz así como supervisar el desempeño de los servidores públicos adscritos a dichos órganos.
+La Visitaduría del Consejo de la Judicatura está encargada de inspeccionar la actividad del Tribunal de Justicia Fiscal y Administrativa, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, de los tribunales y juzgados de Primera Instancia y de los juzgados de paz así como supervisar el desempeño de los servidores públicos adscritos a dichos órganos.
 
 Titular de la visitaduría
 
@@ -1919,9 +1969,9 @@ La visitaduría tendrá las siguientes atribuciones:
 
 I.- Vigilar la debida prestación del servicio de impartición de justicia conforme los acuerdos generales que emita el Pleno del Consejo y lo establecido en esta Ley;
 
-> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-II.- Realizar visitas administrativas, ordinarias o extraordinarias, al Tribunal de Justicia Electoral y Administrativa, al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los tribunales y juzgados de primera instancia y juzgados de paz;
+II.- Realizar visitas administrativas, ordinarias o extraordinarias al Tribunal de Justicia Fiscal y Administrativa, al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los tribunales y juzgados de primera instancia y juzgados de paz;
 
 III.- Revisar los libros, registros, controles, bitácoras y demás documentos relativos a la función jurisdiccional cuya vigilancia tenga encomendada, con el propósito de verificar que se encuentren en orden, actualizados y con todos los datos establecidos por la normativa aplicable;
 
@@ -1981,9 +2031,9 @@ IV.- Inspeccionar y vigilar el cumplimiento de las normas relativas a los sistem
 
 V.- Administrar el sistema de registro y actualización de la situación patrimonial de los servidores públicos del Poder Judicial, en coordinación con el encargado de la unidad respectiva en el Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-VI.- Intervenir en la entrega y recepción de bienes y documentos cuando ocurran cambios de titulares en las direcciones, órganos técnicos del Consejo de la Judicatura, en el Tribunal de Justicia Electoral y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los tribunales y juzgados de primera instancia y en los juzgados de paz; de lo que se levantará un acta para constancia;
+VI.- Intervenir en la entrega y recepción de bienes y documentos cuando ocurran cambios de titulares en las direcciones, órganos técnicos del Consejo de la Judicatura, en el Tribunal de Justicia Fiscal y Administrativa, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los tribunales y juzgados de primera instancia y en los juzgados de paz; de lo que se levantará un acta para constancia;
 
 VII.- Dictaminar las bajas y el destino final de bienes en los inventarios de activo fijo, en coordinación con la Dirección de Administración y Finanzas;
 
@@ -2217,11 +2267,13 @@ XII.- (DEROGADA, D.O. 11 DE SEPTIEMBRE DE 2012)
 
 El Reglamento de Carrera Judicial determinará las categorías de la carrera judicial que surjan con motivo del nuevo sistema penal.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 Inclusión
 
 ###### Artículo 177.
 
-El personal jurisdiccional del Tribunal de Justicia Electoral y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios formará parte de la carrera judicial.
+El personal jurisdiccional del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios formará parte de la carrera judicial.
 
 Requisitos
 
@@ -2430,3 +2482,47 @@ Las disposiciones de este Decreto entrarán en vigor el día siguiente al de su 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
