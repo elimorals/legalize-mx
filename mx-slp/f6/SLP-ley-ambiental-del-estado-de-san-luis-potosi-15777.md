@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2014-03-25"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2181,7 +2181,11 @@ V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la reali
 
 VI. Concertar acciones e inversiones con los sectores social y privado, con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la conservación y restauración del ambiente en la Entidad.
 
-### CAPITULO II. DE LA COMISION ESTATAL DE ECOLOGIA; DE LA SUBCOMISION DE PROYECTOS ESTRATEGICOS Y DE LOS COMITES MUNICIPALES DE DEFENSA DE LOS RECURSOS NATURALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2014)</small>
+
+### CAPITULO II
+
+DE LA COMISION ESTATAL DE ECOLOGIA; DE LA SUBCOMISION DE PROYECTOS ESTRATEGICOS; Y DE LOS CONSEJOS CONSULTIVOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 ###### ARTICULO 129.
 
@@ -2221,17 +2225,57 @@ La conformación de la Subcomisión de Evaluación de Proyectos Estratégicos, a
 
 Las autoridades ambientales a quienes corresponda por razón de competencia iniciar y dar seguimiento al procedimiento administrativo de evaluación y en su caso, autorización de impacto ambiental respecto de dichos proyectos, fijarán oportunamente los mecanismos que permitan compaginar las acciones de esta Subcomisión con los términos y plazos previstos en las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 132.
 
-Los ayuntamientos, con la participación que corresponda a la SEGAM, crearán e impulsarán de manera permanente, Comités Municipales de Defensa de los Recursos Naturales, con el propósito de organizar la participación de la comunidad, por representantes de los ejidos o comunidades, por manzanas, sectores o colonias de los centros de población, en programas de información, difusión y capacitación, manejo de residuos sólidos urbanos, de residuos industriales peligrosos y de manejo especial, contaminación atmosférica y de aguas residuales; mejoramiento y aprovechamiento sustentable de recursos naturales, reforestación, plantaciones y aprovechamientos forestales, cambios de uso del suelo, de terrenos forestales o de aptitud preferentemente forestal, flora y fauna silvestre; campañas para el ahorro en el consumo del agua; denuncias de la ciudadanía sobre aspectos ambientales, demás programas y acciones apropiadas según necesidades, lugar y circunstancias.
+En cada municipio del Estado se integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
 
-Los Comités Municipales de Defensa de los Recursos Naturales en el ámbito municipal, serán los organismos oficiales de participación ciudadana en el Estado, para la interlocución entre las autoridades y la sociedad civil en materia ambiental.
+Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable se integrarán por:
 
-Los Comités Municipales de Defensa de los Recursos Naturales podrán solicitar la participación cuando corresponda a las autoridades federales del ramo, a las empresas y particulares en general, para que asistan a las reuniones que al efecto se señalen, así como para que los programas y acciones de la federación donde se involucre la participación ciudadana en materia ambiental, se incorporen a los mecanismos establecidos en dichos comités con el propósito de dar oportunidad a que las autoridades federales den a conocer sus programas, así como para responder a la sociedad civil de los asuntos que por Ley les han sido encomendados en el ámbito de su responsabilidad, así como para que públicamente realicen las explicaciones pertinentes ante la propia sociedad civil.
+I. El presidente municipal, quien lo presidirá;
 
-Los comités tendrán el carácter de organismos auxiliares de la acción municipal en la materia, sin que pueda existir otro comité u organismo paralelo o análogo, formado por las autoridades del ramo; y únicamente el Gobierno del Estado y los ayuntamientos en los términos de la presente Ley, podrán establecer otros mecanismos de gestión para la comunicación entre las autoridades y la sociedad civil. Estos comités serán creados en los términos de la Ley Orgánica del Municipio Libre.
+II. El regidor que tenga a su cargo la Comisión de Ecología;
+
+III. Un representante del sector académico, preferentemente especializado en la materia;
+
+IV. Dos representantes del sector privado, comercial o empresarial;
+
+V. Dos representantes de la sociedad civil, y
+
+VI. Un representante de los pueblos o comunidades indígenas, que se ubiquen en el municipio.
+
+Los integrantes del Consejo Consultivo Municipal tendrán derecho a voz y voto. Los cargos de los integrantes del Consejo son de carácter honorífico, por lo que no percibirán retribución alguna. Por cada integrante habrá un suplente, quien actuará en ausencia del propietario.
+
+Para ser integrante del Consejo y representar a la sociedad civil se requiere por lo menos, ser ciudadano mexicano; estar en pleno uso de sus derechos; mayor de edad; ser designado por la institución, organización o sector que represente; y contar con méritos científicos, técnicos, académicos o sociales en materia de protección ambiental y aprovechamiento sustentable de los recursos naturales.
+
+Los integrantes serán designados por cada ayuntamiento por un periodo de tres años, y podrán ser ratificados por única vez por un periodo igual; además, el Consejo Consultivo por acuerdo de sus integrantes, podrá invitar a sus sesiones a las instituciones públicas y privadas, a representantes de la sociedad, de organizaciones académicas, de investigación y de profesionales especialistas en la materia, así como a ciudadanos que puedan aportar conocimientos, experiencias o propuestas para el cumplimiento de los objetivos de este órgano; quienes sólo contarán con derecho a voz.
+
+El Consejo designará de entre sus miembros a un Secretario Técnico, quien será responsable de convocar a las sesiones, previo acuerdo con el Presidente, así como de dar seguimiento a los acuerdos emitidos y los demás asuntos que le encomiende el Consejo.
+
+El Consejo Consultivo sesionará de manera ordinaria por lo menos cada tres meses; y de manera extraordinaria las veces que sean necesarias para el cumplimiento de sus fines. Sus decisiones se tomarán por mayoría de votos, privilegiando en todo momento el diálogo; en caso de empate, quien presida tendrá voto de calidad.
+
+El Reglamento del Consejo Consultivo será emitido por cada ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2014)</small>
+
+ARTICULO 132 BIS. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable tendrán las siguientes atribuciones:
+
+I. Proponer al ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente, y a la procuración del desarrollo sustentable en sus municipios;
+
+II. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental del municipio;
+
+III. Ser vínculo con la ciudadanía y sus organizaciones sociales, procurando su participación en la solución de los problemas ambientales;
+
+IV. Fomentar la cultura de la protección al ambiente, y programas de educación ambiental en cada municipio;
+
+V. Coadyuvar en la evaluación de las acciones y programas que, en la materia, se efectúen por las áreas administrativas del ayuntamiento;
+
+VI. Recomendar a la autoridad estatal en materia ambiental, líneas estratégicas en los temas relacionados con el objeto de esta Ley en el ámbito territorial del municipio;
+
+VII. Dar aviso al ayuntamiento o a las autoridades competentes en la materia, sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio, y
+
+VIII. Las demás que determine esta Ley, los demás ordenamientos legales aplicables en la materia o el ayuntamiento.
 
 ###### ARTICULO 133.
 
@@ -2972,3 +3016,13 @@ P.O. 25 DE MARZO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable deberán ser constituidos e instalados dentro de los noventa días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Una vez integrados los Consejos Consultivos Municipales de Medio Ambiente Sustentable, tendrá un plazo de ciento ochenta días para la elaboración de su reglamento interno.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
