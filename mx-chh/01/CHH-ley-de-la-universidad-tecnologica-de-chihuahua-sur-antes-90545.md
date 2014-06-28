@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-chihuahua-sur-antes-90545"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-05"
-last_updated: "2012-12-05"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE LA UNIVERSIDAD TECNOLOGICA DE CHIHUAHUA SUR -ANTES LEY DE LA UNIVERSIDAD TECNOLOGICA JUNTA DE LOS RIOS DEL ESTADO DE CHIHUAHUA-
 
-LEY DE LA UNIVERSIDAD TECNOLÓGICA JUNTA DE LOS RÍOS DEL ESTADO DE CHIHUAHUA
+LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 05 de diciembre de 2012.
 
@@ -49,23 +49,33 @@ D E C R E T A
 
 Se expide la Ley de la Universidad Tecnológica Junta de los Ríos, para quedar en los términos siguientes:
 
-LEY DE LA UNIVERSIDAD TECNOLÓGICA JUNTA DE LOS RÍOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2014)</small>
+
+LEY DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA SUR
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 1.
 
-Se crea la Universidad Tecnológica Junta de los Ríos, como Organismo Público Descentralizado del Gobierno del Estado de Chihuahua, dotado de personalidad jurídica y patrimonio propios, con domicilio en el Municipio de Chihuahua, Chihuahua.
+Se crea la Universidad Tecnológica de Chihuahua Sur, como Organismo Público Descentralizado del Gobierno del Estado de Chihuahua, dotado de personalidad jurídica y patrimonio propios, con domicilio en el Municipio de Chihuahua, Chihuahua.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 2.
 
-La Universidad Tecnológica Junta de los Ríos se adhiere al Sistema Nacional de Universidades Tecnológicas y, por tanto, adopta como modelo pedagógico el establecido para ellas.
+La Universidad Tecnológica de Chihuahua Sur se adhiere al Sistema Nacional de Universidades Tecnológicas y, por tanto, adopta como modelo pedagógico el establecido para ellas.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 3.
 
-La Universidad Tecnológica Junta de los Ríos, tendrá por objeto principal impartir Educación Técnica Superior, para formar Profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+La Universidad Tecnológica de Chihuahua Sur, tendrá por objeto principal impartir Educación Técnica Superior, para formar Profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 4.
 
-Para el cumplimiento de su objeto, la Universidad Tecnológica Junta de los Ríos tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, la Universidad Tecnológica de Chihuahua Sur tendrá las siguientes atribuciones:
 
 I.- Diseñar, de conformidad al sistema adherente, planes y programas de estudio con los contenidos particulares y regionales procedentes.
 
@@ -87,9 +97,11 @@ IX.- Administrar los bienes incorporados a su patrimonio, así como los ingresos
 
 X.- Expedir las disposiciones necesarias a fin de hacer efectivas las atribuciones que este Decreto le confiere para el cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 5.
 
-La Universidad Tecnológica Junta de los Ríos, contará con los órganos siguientes:
+La Universidad Tecnológica de Chihuahua Sur, contará con los órganos siguientes:
 
 I.- Un Consejo Directivo.
 
@@ -101,13 +113,15 @@ IV.- Los Órganos Colegiados que señale el Estatuto Orgánico.
 
 V.- Un Órgano de Vigilancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 6.
 
-El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica Junta de los Ríos, y se integrará por:
+El Consejo Directivo será el órgano máximo de gobierno de la Universidad Tecnológica de Chihuahua Sur y se integrará por:
 
 I.- El Secretario de Educación, Cultura y Deporte del Estado quien lo presidirá.
 
-II- Un representante de la Secretaría de Hacienda del Ejecutivo del Estado.
+II.- Un representante de la Secretaría de Hacienda del Ejecutivo del Estado.
 
 III.- Dos representantes del Gobierno Federal designados por la Secretaría de Educación Pública.
 
@@ -139,7 +153,9 @@ IV.- Proponer al Gobernador del Estado una terna para que de ella nombre al Rect
 
 V.- Autorizar, en su caso, el nombramiento de los dos primeros niveles jerárquicamente inferiores al Rector, de servidores de la Universidad, incluidos los Directores de Área, así como conocer de la renuncia o de las causales de la remoción de éstos.
 
-VI.- Examinar y, en su caso, aprobar el proyecto de Presupuesto y la programación anual de la Universidad Tecnológica Junta de los Ríos, en los términos que resulten aplicables, derivados de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+VI.- Examinar y, en su caso, aprobar el proyecto de Presupuesto y la programación anual de la Universidad Tecnológica de Chihuahua Sur, en los términos que resulten aplicables, derivados de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
 
 VII.- Conocer y observar, en su caso, los estados financieros de la Universidad.
 
@@ -149,7 +165,9 @@ IX.- Conocer, discutir y aprobar, si lo consideran, los proyectos académicos qu
 
 X.- Sin perjuicio de las facultades que le corresponden al Rector, otorgar Poderes Generales para Pleitos y Cobranzas, Actos de Administración y de Dominio, incluidas las facultades para articular y absolver posiciones aun en materia laboral, así como facultades para suscribir títulos y operaciones de crédito, de conformidad con lo previsto en los artículos 9 y 85 de la Ley General de Títulos y Operaciones de Crédito.
 
-XI.- Fijar las reglas a las que se deberá sujetar la Universidad Tecnológica Junta de los Ríos en la suscripción de acuerdos, convenios y contratos con los sectores público, privado y social para el cumplimiento de sus objetivos.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XI.- Fijar las reglas a las que se deberá sujetar la Universidad Tecnológica de Chihuahua Sur en la suscripción de acuerdos, convenios y contratos con los sectores público, privado y social para el cumplimiento de sus objetivos.
 
 XII.- Designar a la persona que habrá de sustituir al Rector en sus ausencias temporales.
 
@@ -193,9 +211,11 @@ II.- Los acuerdos se tomarán por mayoría de votos de los miembros presentes y,
 
 III.- El Comisario asistirá con voz pero sin voto, a las Sesiones del Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 11.
 
-La Universidad Tecnológica Junta de los Ríos contará con un Rector designado por el Gobernador del Estado de una terna de candidatos propuesta por el Consejo Directivo.
+La Universidad Tecnológica de Chihuahua Sur contará con un Rector designado por el Gobernador del Estado, de una terna de candidatos propuesta por el Consejo Directivo.
 
 El Rector será el representante legal de la Institución y durará en su cargo cuatro años, pudiendo ser designado por un período similar más.
 
@@ -223,9 +243,13 @@ II.- Aplicar las políticas generales aprobadas por el Consejo Directivo.
 
 III.- Presentar al Consejo Directivo para su aprobación, los anteproyectos de los presupuestos anuales de ingresos y de egresos.
 
-IV.- Presentar ante el Consejo Directivo, los estados financieros de la Universidad Tecnológica Junta de los Ríos.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
 
-V.- Proponer al Consejo Directivo los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objeto de la Universidad Tecnológica Junta de los Ríos.
+IV.- Presentar ante el Consejo Directivo, los estados financieros de la Universidad Tecnológica de Chihuahua Sur.
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+V.- Proponer al Consejo Directivo los proyectos de planes de desarrollo, programas operativos y aquellos de carácter especial que sean necesarios para el cumplimiento del objeto de la Universidad Tecnológica de Chihuahua Sur.
 
 VI.- Presentar al Consejo Directivo para su aprobación, los proyectos de reglamentos, estatutos, acuerdos o modificaciones de éstos y las demás disposiciones que rijan la vida interna de la Universidad.
 
@@ -237,7 +261,9 @@ IX.- Rendir al Consejo Directivo para su aprobación, un informe anual de activi
 
 X.- Celebrar convenios, contratos y acuerdos con dependencias o entidades de la administración pública federal, estatal o municipal, organismos del sector social y privado, nacional y extranjero.
 
-XI.- Representar legalmente a la Universidad con las facultades de un Apoderado General para Pleitos y Cobranzas y Actos de Administración, incluidas las de articular y absolver posiciones aun en materia laboral. Para realizar Actos de Dominio, habrá de contar con la autorización expresa del Consejo Directivo, además de sujetarse a lo dispuesto por la Ley de Entidades Paraestatales del Estado.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XI.- Representar legalmente a la Universidad con las facultades de un Apoderado General para Pleitos y Cobranzas y Actos de Administración, incluidas las de articular y absolver posiciones aun en materia laboral, así como facultades para emitir, suscribir, girar, librar, cobrar y endosar títulos de crédito, al igual que para abrir, operar y cerrar cuentas bancarias. Para realizar Actos de Dominio, habrá de contar con la autorización expresa del Consejo Directivo, además de sujetarse a lo dispuesto por la Ley de Entidades Paraestatales del Estado.
 
 XII.- Asistir a las sesiones del Consejo Directivo con voz pero sin voto.
 
@@ -261,7 +287,9 @@ I.- Generar ingresos adicionales a los gestionados por la Universidad.
 
 II.- Administrar y acrecentar los recursos que gestione.
 
-III.- Apoyar las actividades de la Universidad Tecnológica Junta de los Ríos en materia de difusión y vinculación con el sector productivo.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+III.- Apoyar las actividades de la Universidad Tecnológica de Chihuahua Sur en materia de difusión y vinculación con el sector productivo.
 
 IV.- Las demás que le señalen las disposiciones universitarias.
 
@@ -299,33 +327,45 @@ Las condiciones laborales del personal administrativo se regirán por lo dispues
 
 El personal técnico de apoyo se contratará por honorarios en plena correspondencia con las labores docentes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 20.
 
-Se considerará personal de confianza de la Universidad Tecnológica Junta de los Ríos, todo aquel que realice funciones de dirección, vigilancia y fiscalización y los que tengan personal bajo su cargo y dirección.
+Se considerará personal de confianza de la Universidad Tecnológica de Chihuahua Sur, todo aquel que realice funciones de dirección, vigilancia y fiscalización y los que tengan personal bajo su cargo y dirección.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 21.
 
-Serán alumnos de la Universidad Tecnológica Junta de los Ríos quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso sean admitidos para cursar cualesquiera de los programas académicos que se impartan. Tendrán en esta condición, los derechos y obligaciones que las disposiciones universitarias contemplen.
+Serán alumnos de la Universidad Tecnológica de Chihuahua Sur quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso sean admitidos para cursar cualquiera de los programas académicos que se impartan. Tendrán en esta condición, los derechos y obligaciones que las disposiciones universitarias contemplen.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 22.
 
-El Ejecutivo del Estado deberá acompañar a la cuenta pública anual, los estados financieros de la Universidad Tecnológica Junta de los Ríos.
+El Ejecutivo del Estado deberá acompañar a la cuenta pública anual, los estados financieros de la Universidad Tecnológica de Chihuahua Sur.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 23.
 
-Para la liquidación y extinción de la Universidad Tecnológica Junta de los Ríos, se seguirán las mismas formalidades requeridas para su creación.
+Para la liquidación y extinción de la Universidad Tecnológica de Chihuahua Sur, se seguirán las mismas formalidades requeridas para su creación.
 
 ###### Artículo 24.
 
 En su caso, la extinción del Organismo será comunicada al Congreso del Estado mediante formal iniciativa, a fin de que proceda a abrogar el presente Decreto. Para tal efecto, el Ejecutivo deberá proporcionar al Congreso toda la información relativa al procedimiento de liquidación y extinción.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 25.
 
-En caso de que la Universidad Tecnológica Junta de los Ríos deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de las Secretarías de Educación, Cultura y Deporte, y de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquélla.
+En caso de que la Universidad Tecnológica de Chihuahua Sur deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de las Secretarías de Educación, Cultura y Deporte, y de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 26.
 
-En su caso, se podrá proponer al Congreso del Estado mediante formal iniciativa, la fusión o escisión de la Universidad Tecnológica Junta de los Ríos, cuando su actividad combinada o separada, según sea el caso, redunde en un incremento de eficiencia y productividad.
+En su caso, se podrá proponer al Congreso del Estado mediante formal iniciativa, la fusión o escisión de la Universidad Tecnológica de Chihuahua Sur, cuando su actividad combinada o separada, según sea el caso, redunde en un incremento de eficiencia y productividad.
 
 T R A N S I T O R I O S
 
@@ -354,3 +394,23 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de noviembre del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los recursos humanos, financieros, presupuestales, o asignaciones de cualquier tipo que se entiendan respecto a la "Universidad Tecnológica Junta de los Ríos", se entienden como válidos y vigentes en todos sus términos y para todos los efectos legales y administrativos consecuentes, como referidos al Organismo Público Descentralizado Denominado "Universidad Tecnológica de Chihuahua Sur" previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Quedan íntegros e idénticos de manera cabal los derechos laborales de los empleados, trabajadores, docentes, asesores o demás personal, sea cual fuere su denominación o categoría, respecto a los existentes o entendidos o vinculados a la "Universidad Tecnológica Junta de los Ríos", igualmente ahora respecto a la "Universidad Tecnológica de Chihuahua Sur".
+
+###### ARTÍCULO CUARTO.
+
+Quedan vigentes todos los acuerdos, convenios, contratos, minutas de trabajo, documentos académicos o escolares, o instrumentos similares que se refieran o tengan suscritos u ordenados por "Universidad Tecnológica Junta de los Ríos", entendidos y válidos ahora, respecto a la "Universidad Tecnológica de Chihuahua Sur"; particularmente los firmados con las autoridades federales y municipales.
