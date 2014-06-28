@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2014-05-14"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -97,9 +97,13 @@ V. Las demás dependencias del Ejecutivo Estatal en el ámbito de sus atribucion
 
 VI. Los ayuntamientos y los presidentes municipales, salvo las responsabilidades resarcitorias determinadas por el órgano superior de fiscalización del Estado de México.
 
-> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, G.G. 28 DE JUNIO DE 2014)</small>
 
-VII. Los demás órganos que determinen las leyes.
+VII. El Instituto Electoral del Estado de México;
+
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
+
+VIII. Los demás órganos que determinen las leyes.
 
 ###### Artículo 4.
 
@@ -467,6 +471,14 @@ e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Huma
 
 f) Observar las disposiciones relacionadas con el procedimiento de designación de los Defensores Municipales de Derechos Humanos.
 
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
+
+XXIV bis. Cumplir en tiempo y forma los mandatos del Instituto Electoral del Estado de México y cualquiera de sus órganos, conforme lo establezca la legislación electoral aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales;
+
+> <small>(ADICIONADA, G.G. 28 DE JUNIO DE 2014)</small>
+
+XXIV ter. Abstenerse de infringir, por acción u omisión, las disposiciones constitucionales, legales, reglamentarias y normativas en materia electoral, de propaganda gubernamental y aplicación imparcial de los recursos públicos, así como abstenerse de influir en la equidad de la competencia entre los partidos políticos;
+
 > <small>(ADICIONADA, G.G. 5 DE ENERO DE 1994)</small>
 
 XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles y la contratación de servicios y de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría, conforme a las disposiciones legales aplicables al Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación de que se trate o Fideicomiso Público.
@@ -491,7 +503,7 @@ XXIX. Abstenerse de contratar como servidor público a quien se encuentre inhabi
 
 > <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y (sic);
+XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y
 
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -588,6 +600,14 @@ IV. Sanción económica, de uno a tres tantos de los beneficios obtenidos, o por
 V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños o perjuicios a la administración pública, será de uno a diez años si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
+
+> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+
+En caso de infracciones graves se impondrá además la sanción de destitución.
+
+> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+
+En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones X, XIV, XVI, XVII, XVIII, XIX, XX, XXIV bis y XXIV ter del artículo 42 de la Ley.
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -1346,3 +1366,49 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- Los procedimientos o procesos que se hayan iniciado a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, excepto las disposiciones relativas a la imposición de las sanciones de suspensión e inhabilitación, así como de la prescripción.
+
+G.G. 28 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
+
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
+
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral (sic) Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
+
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO. Se abrogo el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+DÉCIMO SEGUNDO. En tanto se expida la ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
+
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igualo menor jerarquía que se opongan a este Decreto.
+
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
+
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
+
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las leyes.
+
+Para el próximo ejercicio fiscal, la legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
+
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el periodo constitucional 2015-2018.
+
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
+
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las fundones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
+
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
