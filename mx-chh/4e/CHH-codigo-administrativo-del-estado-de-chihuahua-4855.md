@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2013-06-22"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8951,11 +8951,13 @@ La garantía deberá mantenerse vigente durante el tiempo de otorgamiento del pe
 
 Los permisionarios serán solidariamente responsables de los daños que ocasionen sus empleados en la prestación del servicio.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 1637-J.
 
-La prestación del servicio de depósito vehicular se sujetará a una tarifa, entendiendo por esta, la contraprestación económica autorizada para el cobro por este servicio, a costa del interesado en su devolución.
+La prestación del servicio de depósito vehicular se sujetará a una tarifa, entendiendo por esta, la contraprestación económica autorizada para el cobro por este servicio, a costa del interesado en su devolución, con la salvedad de los vehículos robados que hayan sido recuperados, cuyos propietarios sean personas físicas contarán con un período de gracia de diez días, contados a partir del día siguiente al de su notificación, que se les haya realizado en los términos del artículo 1673-r. Los días posteriores a dicho período se sujetarán al pago de la tarifa ordinaria.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 La tarifa deberá ser revisada y actualizada anualmente por la Secretaría General de Gobierno y ser incluida en la Ley de Ingresos del Gobierno del Estado.
 
@@ -8999,7 +9001,9 @@ B. Derechos.
 
 I.- Recibir los vehículos infraccionados, abandonados, accidentados, descompuestos, embargados o asegurados bajo cualquier título legal, que pongan bajo su guarda y custodia las autoridades competentes;
 
-II.- Cobrar a quienes acrediten un interés legítimo sobre los vehículos, la tarifa autorizada por la prestación del servicio;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+II.- Cobrar a quienes acrediten un interés legítimo sobre los vehículos, la tarifa autorizada por la prestación del servicio, con las excepciones previstas en el artículo 1637-j;
 
 III.- Verificar el inventario que sea elaborado por la autoridad y cotejarlo con el que se levante en el momento de la recepción;
 
@@ -9091,15 +9095,21 @@ En el momento de la entrega, deberá liquidarse el pago al permisionario por los
 
 La Secretaría General de Gobierno, tendrá en todo momento la facultad de revisar y/o inspeccionar las instalaciones donde se preste el servicio de depósito vehicular.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 1637-R.
 
-En el supuesto de que el Ministerio Publico determine que los vehículos presuntamente abandonados, no hayan sido empleados en la comisión de algún delito, según lo establecido por el artículo 68 de la Ley de Vialidad y Tránsito para el Estado de Chihuahua, y previo al envío a un depósito vehicular y su puesta en disposición para la Secretaría de Hacienda, esta verificará en el padrón vehicular el nombre del propietario del bien presuntamente abandonado, ordenándosele notificar que el vehículo se encuentra a su disposición y señalando el domicilio del depósito vehicular en el que se encuentre.
+En el supuesto de que el Ministerio Publico determine que los vehículos presuntamente abandonados, no hayan sido empleados en la comisión de algún delito, según lo establecido por el artículo 68 de la Ley de Vialidad y Tránsito para el Estado de Chihuahua, así como en los casos de vehículos robados que hayan sido recuperados, previo al envío a un depósito vehicular y su puesta en disposición para la Secretaría de Hacienda, esta verificará en el padrón vehicular el nombre del propietario del bien presuntamente abandonado, ordenándosele notificar que el vehículo se encuentra a su disposición y señalando el domicilio del depósito vehicular en el que se encuentre.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 Cuando se desconozca el propietario y su domicilio, se notificará mediante publicación en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+
 Transcurrido un año contado a partir de la notificación referida en el párrafo anterior, sin que el propietario o poseedor del vehículo se presente a recogerlo, será emitida una declaratoria de abandono a favor del Estado, que deberá ser publicada en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de treinta días para que el interesado acuda a recuperarlo, bajo el apercibimiento que de no realizarlo, se procederá a su remate.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
 Agotado el procedimiento anterior, el permisionario tendrá prelación sobre el monto en que se adjudiquen los mismos, para que le sea liquidado el gasto operativo que el depósito de los bienes le representó; en este supuesto, deberá efectuarse el cálculo conforme a la tarifa autorizada.
 
@@ -11082,3 +11092,9 @@ Las tarifas a las que se hacen referencia en el presente Decreto, entrarán en v
 ###### ARTÍCULO SEXTO.
 
 Se derogan las demás disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
