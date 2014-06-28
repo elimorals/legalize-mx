@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2014-04-12"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -149,7 +149,7 @@ Queda estrictamente prohibido al personal de la Comisión recibir cualquier tipo
 
 ###### ARTICULO 12.
 
-La Comisión regirá su actuación por lo siguientes principios:
+La Comisión regirá su actuación por los siguientes principios:
 
 I. Pro Persona;
 
@@ -283,7 +283,7 @@ V. El público en general no tendrá acceso a los expedientes de casos particula
 
 VI. La Comisión podrá firmar, cuando así lo requiera, convenios con instituciones públicas o privadas para la elaboración de estudios y diagnósticos en los cuales los investigadores autorizados tengan acceso a los expedientes. Se deberá incluir en dichos convenios cláusula de confidencialidad protegiendo los datos personales e íntimos de los quejosos, peticionarios o víctimas de la violación de Derechos Humanos, quienes deberán ser informados en lo general de los estudios que se estén realizando y quienes, en su caso, deberán autorizar explícitamente el uso de sus datos personales y otra información confidencial que les concierna.
 
-La Comisión se sujetará a Io que mande la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
+La Comisión se sujetará a lo que mande la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
 ###### ARTICULO 23.
 
@@ -407,9 +407,23 @@ c) Cuando una autoridad se niegue infundadamente a ejercer las atribuciones que 
 
 d) Cuando los particulares o algún otro agente social utilice por cualquier motivo, legal o ilegal, lícito o ilícito, recursos públicos de los municipios, Estado o Federación;
 
-XVIII. Conocer de actos u omisiones de otras autoridades o particulares que le sean enviados o devueltos por la Comisión Nacional de Derechos Humanos en ejercicio de las facultades de coordinación y revisión que confiere a ese organismo, la Constitución Política de los Estados Unidos Mexicanos y su Ley, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX. Las demás que le señale la presente Ley y otros ordenamientos legales, necesarias, para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XVIII. Conocer de actos u omisiones de otras autoridades o particulares que le sean enviados o devueltos por la Comisión Nacional de Derechos Humanos en ejercicio de las facultades de coordinación y revisión que confiere a ese organismo, la Constitución Política de los Estados Unidos Mexicanos y su Ley, y (sic);
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XIX. Conocer de actos u omisiones atribuibles a servidores públicos relacionados con la materia laboral. La competencia de la Comisión no comprende la facultad para conocer de conflictos suscitados entre uno o varios patrones y uno o más trabajadores o uno o más sindicatos, ni entre sindicatos y trabajadores, incluso, cuando el patrón sea una autoridad o dependencia estatal o municipal, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XX. Las demás que le señale la presente Ley y otros ordenamientos legales, necesarias para el mejor cumplimiento de sus funciones.
 
 ###### ARTICULO 28.
 
@@ -1634,3 +1648,9 @@ P.O. 12 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor cuando se publique en el Periódico Oficial del Estado la reforma al artículo 17 en su párrafo segundo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
