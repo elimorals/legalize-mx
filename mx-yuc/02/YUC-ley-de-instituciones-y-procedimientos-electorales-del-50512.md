@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-50512"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2012-08-31"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURÍDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISIÓN, COMISIÓN PERMANENTE DE HACIENDA PÚBLICA, INSPECCIÓN DE LA CONTADURÍA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACIÓN A CUENTA PÚBLICA, OFICIALÍA MAYOR DEL CONGRESO Y TESORERÍA DEL CONGRESO, SE ENTENDERÁN POR JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA, VIGILANCIA DE LA CUENTA PÚBLICA Y TRANSPARENCIA, SECRETARÍA GENERAL DEL PODER LEGISLATIVO Y DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS, RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 28 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -1385,7 +1387,7 @@ Cuando el Consejo General acuerde la cancelación de la inscripción o de regist
 
 ###### Artículo 105.
 
-El acuerdo del Consejo General, que ordene la suspensión de la inscripción o registro de un partido político, podrá ser impugnada en los términos de ley.
+El acuerdo del Consejo General, que ordene la suspensión de la inscripción o registro de un partido político, podrá ser impugnada (sic) en los términos de ley.
 
 Cuando dicho acuerdo cause ejecutoria, el Instituto procederá a liquidar el patrimonio del partido político, que deberá realizarse dentro de los 60 días naturales posteriores.
 
@@ -6057,7 +6059,7 @@ El Congreso, a más tardar, la segunda quincena del mes de Junio de 2006, en ses
 
 ###### ARTÍCULO NOVENO.
 
-Los ciudadanos Gerardo Robigue (sic) Herrera Sansores, Mario Ruemer Jesús Leal Guillermo, Rossana Rivera Palmero, Pedro Regalado Uc Be, Sergio Lara Pinto, Landy Lissette Mendoza Fuentes, Carlos Eduardo Pech Escalante y Hernán Vega Burgos, quienes fungieron como consejeros ciudadanos y secretario técnico respectivamente, del Instituto Electoral del Estado, tendrán el carácter de depositarios del patrimonio del Instituto Electoral del Estado, limitando sus actos para lo estrictamente necesario para la conservación del mismo; tanto con el carácter de patrón, como su naturaleza de organismo público autónomo; desde el momento de la entrada en vigor del presente decreto y hasta que resulten legalmente designadas, las personas que fungirán como consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los plazos y términos previstos, a quienes les entregarán tal patrimonio.
+Los ciudadanos Gerardo Robigue Herrera Sansores, Mario Ruemer Jesús Leal Guillermo, Rossana Rivera Palmero, Pedro Regalado Uc Be, Sergio Lara Pinto, Landy Lissette Mendoza Fuentes, Carlos Eduardo Pech Escalante y Hernán Vega Burgos, quienes fungieron como consejeros ciudadanos y secretario técnico respectivamente, del Instituto Electoral del Estado, tendrán el carácter de depositarios del patrimonio del Instituto Electoral del Estado, limitando sus actos para lo estrictamente necesario para la conservación del mismo; tanto con el carácter de patrón, como su naturaleza de organismo público autónomo; desde el momento de la entrada en vigor del presente decreto y hasta que resulten legalmente designadas, las personas que fungirán como consejeros electorales del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en los plazos y términos previstos, a quienes les entregarán tal patrimonio.
 
 Hasta ese entonces, los depositarios y responsables percibirán una remuneración equivalente, a la que anteriormente recibían en los cargos que ocupaban.
 
@@ -6103,7 +6105,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 22 DE ENERO DE 2007.
 
@@ -6264,3 +6266,43 @@ D.O. 31 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor a los 180 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Artículo primero. Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se abroga la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán, contenida en el decreto 678 publicado en el Diario Oficial del Gobierno del Estado de fecha 24 de mayo del año 2006.
+
+Artículo tercero. Por única ocasión, el proceso electoral ordinario correspondiente a las elecciones que tendrán lugar el primer domingo de junio del año 2015, iniciarán en la primera semana del mes de octubre del año 2014. Para tal efecto el Consejo General del Instituto aprobará los ajustes necesarios a los plazos establecidos en la presente Ley.
+
+Artículo cuarto. Los actuales consejeros electorales del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, continuarán en su encargo hasta en tanto se realicen las designaciones de los nuevos consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán, en términos de lo dispuesto por el artículo transitorio noveno del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación.
+
+En lo sucesivo, cuando en alguna norma se haga referencia al Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, se entenderá por el Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo quinto. El Consejero Presidente del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este Decreto, asumirá el cargo de Presidente del Instituto Electoral y de Participación Ciudadana de Yucatán, hasta en tanto el Instituto Nacional Electoral realice las designaciones correspondientes.
+
+Artículo sexto. A partir de la entrada en vigor de este decreto, el patrimonio del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, lo será en su integridad del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo séptimo. Los acuerdos, convenios, contratos, procedimientos de participación ciudadana, vigentes o en proceso, así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite en el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, que se encuentren bajo cualquier concepto, se transferirán y quedarán a cargo del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+El actual Contralor y Secretario Ejecutivo del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, lo serán del Instituto Electoral y de Participación Ciudadana de Yucatán, hasta concluir sus períodos que señala esta Ley.
+
+Los actuales Directores Ejecutivos y Titulares de las Unidades del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, lo serán del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Los derechos laborales de los servidores públicos y empleados del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán quedarán a salvo con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan. Esto sin perjuicio de la evaluación satisfactoria de su desempeño que podrá realizar el Instituto, cuando sean designados los nuevos consejeros electorales del Consejo General.
+
+Artículo octavo. Se conservará la integración de las Comisiones del Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, que serán del Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+Artículo noveno. Para efectos de la determinación del ámbito territorial de los distritos electorales uninominales para el proceso electoral de los años 2014 y 2015, se conservará el último aprobado por el Consejo General, salvo que el Instituto Nacional Electoral emita una determinación distinta, en el ejercicio de sus funciones constitucionales.
+
+Artículo décimo. Se conservarán los nombramientos de los consejeros electorales distritales, municipales y secretarios ejecutivos, designados previamente a la entrada en vigor de esta Ley, para el próximo proceso electoral, sin perjuicio de que sean revisados sus nombramientos por el Consejo General para verificar el cumplimiento de los requisitos de idoneidad al cargo.
+
+Artículo décimo primero. Los acuerdos, lineamientos, reglamentos y demás disposiciones generales emitidas por el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución Política del Estado de Yucatán y al presente Decreto, hasta en tanto el Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán no emita aquéllas que deban sustituirlas.
+
+Artículo décimo segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios de la presente Ley.
+
+Artículo décimo tercero. Conforme al artículo décimo octavo transitorio de la Ley General de Instituciones y Procedimientos Electorales, la Unidad Técnica de Fiscalización del Instituto Electoral y de Participación Ciudadana de Yucatán, deberá emitir el ajuste de los plazos necesarios a fin de que los procedimientos administrativos y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en el Estado, así como de sus militantes o simpatizantes, que el Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán haya iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, se concluyan conforme a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+Los gastos realizados por los partidos políticos en el Estado hasta antes de la entrada en vigor de la presente Ley, serán fiscalizados por el Instituto Electoral y de Participación Ciudadana de Yucatán, con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+Artículo décimo cuarto. Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de esta Ley.
