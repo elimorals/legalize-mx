@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-de-medios-de-impugnacion-en-materia-50523"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2010-10-04"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE YUCATAN
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE YUCATAN
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURIDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISION, COMISION PERMANENTE DE HACIENDA PUBLICA, INSPECCION DE LA CONTADURIA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACION A CUENTA PUBLICA, OFICIALIA MAYOR DEL CONGRESO Y TESORERIA DEL CONGRESO, SE ENTENDERAN POR JUNTA DE GOBIERNO Y COORDINACION POLITICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS, RESPECTIVAMENTE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -51,23 +51,23 @@ LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE YUCA
 
 Las disposiciones de esta Ley son de orden público y de observancia general en todo el territorio del Estado, y tienen por objeto reglamentar las disposiciones del Artículo 25 de la Constitución Política del Estado de Yucatán.
 
-(F. DE. E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 2.
 
-La aplicación e interpretación de las disposiciones de esta Ley, corresponden al Instituto de Procedimientos Electorales y Participación Ciudadana, así como al Tribunal Electoral del Estado.
+La aplicación e interpretación de las disposiciones de esta Ley, corresponden al Instituto Electoral y de Participación Ciudadana de Yucatán, así como al Tribunal Electoral del Estado de Yucatán.
 
-Para el trámite, la sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus disposiciones se interpretarán conforme a los criterios: Gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+Para el trámite, la sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus disposiciones se interpretarán conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales de los que el Estado mexicano sea parte y la Constitución Política del Estado de Yucatán, y de acuerdo a los criterios gramatical, sistemático y funcional.
 
-(F. DE. E., D.O. 28 DE SEPTIEMBRE DE 2006)
+A falta de disposición expresa, se aplicarán los criterios establecidos por el Tribunal Electoral del Estado de Yucatán, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación y los principios generales del derecho.
 
-A falta de disposición expresa, se aplicaran los criterios establecidos en el Tribunal Electoral del Estado, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación y los Principios Generales del Derecho.
+En la resolución de medios de impugnación relativos a asuntos internos de los partidos políticos, se deberá considerar su carácter de entidad de interés público como organización de ciudadanos, la libertad de decisión interna, el derecho a la auto organización y los derechos de los militantes.
 
-(F. DE. E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 3.
 
-Los medios de impugnación tienen como objeto garantizar que todos los actos y resoluciones de las autoridades, organismos electorales y asociaciones políticas, se sujeten invariablemente a los principios constitucionales de legalidad, certeza, independencia, imparcialidad y objetividad, dar definitividad a las distintas etapas y actos de los procedimientos electorales; y proteger los derechos político electorales de los ciudadanos yucatecos.
+Los medios de impugnación tienen por objeto garantizar que todos los actos y resoluciones de las autoridades electorales, organismos electorales y asociaciones políticas, se sujeten invariablemente a los principios constitucionales de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad; dar definitividad a las distintas etapas y actos de los procedimientos electorales; y proteger los derechos político-electorales de los ciudadanos yucatecos.
 
 ###### Artículo 4.
 
@@ -83,7 +83,9 @@ III.- Tribunal: El Tribunal Electoral del Estado;
 
 IV.- Pleno: El Pleno del Tribunal;
 
-V.- Instituto: El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+V.- Instituto: El Instituto Electoral y de Participación Ciudadana de Yucatán, y
 
 VI.- Consejo General: El Consejo General del Instituto.
 
@@ -149,17 +151,31 @@ I.- Cuando alguna o algunas de las causales de nulidad previstas en el artículo
 
 II.- Cuando no se instalen las casillas en el 20 % de las secciones electorales que corresponden al municipio y consecuentemente, la votación no hubiere sido recibida.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 10.
 
-La elección de gobernador, de diputados de mayoría relativa o de los Ayuntamientos será nula, cuando en cualquier etapa del proceso electoral, se cometan violaciones graves y sistemáticas a los principios rectores electorales y las mismas, sean determinantes para el resultado de la elección.
+Las elecciones serán nulas cuando existan violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Se considerarán violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+Para efectos de lo dispuesto en el inciso b) de la Base IV del por la Constitución Política de los Estados Unidos Mexicanos, se presumirá que la cobertura informativa es indebida cuando, fuera de los supuestos establecidos en dicha constitución y en las leyes electorales, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 ###### Artículo 11.
 
 Podrá declararse la nulidad de una elección, cuando se hayan cometido en forma generalizada violaciones sustanciales durante la jornada electoral en el Estado, Municipio o Distrito, se encuentren fehacientemente acreditadas, demostrándose que las mismas fueron determinantes para el resultado de la elección.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 12.
 
-Sólo podrá ser declarada nula la elección en un municipio, en un distrito electoral o en la Entidad, cuando las causas que se invoquen, hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
+Las violaciones y causas de nulidad a que se refiere este capítulo deberán acreditarse de manera objetiva y material.
 
 ###### Artículo 13.
 
@@ -938,3 +954,47 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de (sic) Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
