@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2014-02-13"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1907,95 +1907,31 @@ II.- Al que profane un cadáver o restos humanos, con actos de mutilación, obsc
 
 ###### ARTÍCULO 223.
 
-Para los efectos de este Capítulo se entiende por:
-
-I.- Funcionarios electorales: quienes en los términos de la Ley Electoral del Estado integren los órganos que cumplen funciones públicas en materia electoral;
-
-II.- Funcionarios partidistas: los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes, en el curso de un proceso electoral, los propios partidos otorgan representación para actuar ante los órganos electorales en los términos de la ley de la materia; y
-
-III.- Documentos públicos electorales: las boletas electorales, las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, las de los cómputos distritales y municipales y, en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral del Estado de Baja California Sur.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 224.
 
-Se impondrá prisión de uno a seis años y multa hasta por doscientos días de salario, al funcionario electoral que:
-
-I.- Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal o Federal de Electores, cuando éste último se utilice en procesos electorales de carácter local;
-
-II.- Obstruya el desarrollo normal de la votación, o se abstenga de cumplir con sus obligaciones electorales, sin causa justificada y en perjuicio del proceso;
-
-III.- Altere los resultados electorales, sustraiga o destruya boletas o documentos públicos electorales;
-
-IV.- Retenga indebidamente o no entregue al organismo electoral correspondiente, el paquete electoral o documentos públicos electorales, sin causa justificada;
-
-V.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-VI.- Abra, instale o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley Electoral, la instale dolosamente en lugar distinto al legalmente señalado, o impida su instalación;
-
-VII.- Expulse de la casilla electoral, sin causa justificada, a los representantes de un partido político o le niegue los derechos que la ley les concede;
-
-VIII.- Propale dolosamente noticias falsas respecto a la jornada electoral o sus resultados; y
-
-IX.- Con pleno conocimiento, facilite o consienta que los particulares cometan cualquiera de los supuestos previstos en el artículo 227 de este código.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 225.
 
-Se impondrá prisión de uno a seis años y multa hasta por doscientos días de salario, al funcionario partidista que:
-
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
-
-III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales; o
-
-IV.- Impida con violencia la apertura, instalación o cierre de una casilla; o interfiera u obstaculice el escrutinio o cómputo.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 226.
 
-Se impondrá prisión de uno a seis años y multa de hasta doscientos días de salario, destitución y suspensión de derechos políticos hasta por cinco años, al servidor público que:
-
-I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
-
-II.- Con excepción de los casos previstos por la Ley Electoral; destine recursos financieros o bienes que tenga a su disposición en virtud de su cargo, como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato determinado o proporcione ese apoyo a través de sus subordinados, distrayéndolos de sus labores para que les presten servicio;
-
-III.- Condicione la prestación de un servicio público, al cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato;
-
-IV.- Impida indebidamente la reunión de una asamblea o manifestación pública o cualquier acto legal de propaganda política; o
-
-V.- Se niegue injustificadamente a dar fe de hechos o certificar documentos concernientes a la elección, cuando la Ley Electoral señale dicha obligación.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 227.
 
-Se impondrá prisión de seis meses a tres años o multa hasta por cincuenta días, a criterio del juez, a la persona que:
-
-I.- Vote a sabiendas de que no cumple con los requisitos de la ley, o vote más de una vez en una misma elección;
-
-II.- Vote o pretenda votar con credencial ajena;
-
-III.- Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
-
-IV.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien comprometa el voto mediante amenaza, promesa o recompensa;
-
-V.- Impida en forma violenta la instalación de una casilla, obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio, o del cómputo;
-
-VI.- Viole de cualquier manera el secreto del voto u obtenga ilegalmente credenciales de elector de los ciudadanos;
-
-VII.- Introduzca en las urnas o sustraiga ilícitamente de ellas una o más boletas electorales;
-
-VIII.- Destruya o altere boletas o documentos públicos electorales o borre o destruya propaganda electoral de los partidos políticos;
-
-IX.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa, durante las campañas o la jornada electoral;
-
-X.- Proporcione documentos o información falsa al Registro Estatal de Electores, para obtener la credencial para votar; y
-
-XI.- Se presente a una casilla electoral portando armas.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 228.
 
-Se impondrá prisión de dos a siete años y multa hasta doscientos días de salario, a quien por cualquier medio participe en la alteración del registro de electores del Padrón Electoral del Estado, los listados nominales o en la expedición ilícita de Credenciales para Votar.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 229.
 
-Se impondrán de tres días a dos años de prisión y multa hasta por cincuenta días de salario, a los ministros de cualquier religión o secta que, en el desarrollo de actos propios de su ministerio, por cualquier medio fomenten la abstención o induzcan al electorado a votar en favor o en contra de un determinado candidato o partido político.
+(DEROGADO, B.O. 28 DE JUNIO DE 2014)
 
 ## TÍTULO NOVENO. DELITOS CONTRA EL MEDIO AMBIENTE
 
@@ -3190,3 +3126,9 @@ B.O. 20 DE AGOSTO DE 2013.
 B.O. 13 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- La presente Derogación entrará en vigor, el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta reforma resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
