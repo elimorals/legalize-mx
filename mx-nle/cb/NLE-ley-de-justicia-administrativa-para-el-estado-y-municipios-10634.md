@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2014-06-27"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE JUNIO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -2867,7 +2869,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- La operación de lo dispuesto en el artículo 102, relativo a la implementación de la oralidad en los juicios contenciosos administrativos, se aplicará de manera gradual y sucesiva considerando como factor el tipo de actos administrativos impugnados, conforme a las siguientes reglas:
 
-I. A partir del día siguiente al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre:
+> <small>(F. DE E. 28 DE JUNIO DE 2014)</small>
+
+I. A partir de los 90 días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre:
 
 1. Fracción V del Artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
