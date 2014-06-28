@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2014-06-27"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -4303,221 +4303,59 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, se introduzca 
 
 A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, se les impondrán de dos a diez años de prisión y de cien a mil días multa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE JUNIO DE 2014)</small>
 
 ## TITULO QUINTO. DELITO CONTRA EL PROCESO ELECTORAL
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 316.
 
-Para los efectos de este título se entiende por:
-
-I. Funcionario electoral: quien en los términos de la legislación estatal electoral integre los órganos que cumplen funciones públicas electorales;
-
-II. Funcionario partidista: quien sea dirigente de los partidos políticos nacionales o estatales, sus candidatos y los ciudadanos a quienes los propios partidos políticos otorguen representación para actuar ante los órganos que cumplen funciones públicas electorales; y
-
-III. Documento público electoral: aquél expedido en el ejercicio de sus funciones, por los organismos electorales y el Tribunal Electoral del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 317.
 
-Comete el delito contra el proceso electoral quien:
-
-I. Vote a sabiendas de que no cumple con los requisitos de ley o vote más de una vez en una misma elección;
-
-II. Se presente a votar armado, en estado de ebriedad o bajo los efectos de un tóxico y altere el orden;
-
-III. Obstaculice o interfiera el desarrollo normal del proceso electoral;
-
-IV. Induzca al electorado a abstenerse de votar;
-
-V. Ejerza violencia física o moral sobre los funcionarios electorales;
-
-VI. Usurpe el carácter de funcionario de casilla;
-
-VII. Pretenda votar con una credencial de la que no sea titular;
-
-VIII. Dolosamente acepte nombramiento para el desempeño de alguna función electoral, sin reunir los requisitos legales;
-
-IX. Sustraiga boletas electorales o presente boletas falsas;
-
-X. Impida a un tercero la emisión de su voto o el desempeño de sus funciones electorales;
-
-XI. Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
-
-XII. Suplante a un votante;
-
-XIII. Manifieste datos falsos al registro de electores o se registre más de una vez;
-
-XIV. En cualquier acto electoral altere gravemente el orden;
-
-XV. Obstaculice o se posesione de oficinas electorales o impida la entrada o salida de los funcionarios electorales;
-
-XVI. Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de la casilla o en el lugar en que se encuentren formados los votantes;
-
-XVII. Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
-
-XVIII. Impida dolosamente o violentamente la instalación oportuna de una casilla electoral u obstaculice su funcionamiento o su clausura;
-
-XIX. Incite a la violencia en contra de los ciudadanos, de los miembros de los partidos o de los funcionarios electorales;
-
-XX. Por medio de remuneración comprometa el voto de algún elector, en favor o en contra de cualquier candidato;
-
-XXI. Realice funciones electorales que legalmente no le hayan sido encomendadas;
-
-XXII. Deposite dolosamente más de una boleta en una urna electoral;
-
-XXIII. Solicite o acepte expresa o tácitamente expedir una factura a un partido político o candidato, alterando el costo real de los servicios prestados;
-
-XXIV. Propale dolosamente noticias falsas en torno al desarrollo del proceso electoral o respecto de los resultados oficiales del cómputo de la elección;
-
-XXV. Indebidamente destruya o inutilice propaganda electoral;
-
-XXVI. A quien utilice recursos públicos destinados al financiamiento para la campaña electoral de los partidos políticos, durante el proceso electoral de que se trate, en la compra y entrega de productos alimenticios comprendidos dentro de la canasta básica, para la promoción del voto;
-
-XXVII. A quien utilice recursos públicos, durante el proceso electoral de que se trate, en la compra y entrega de productos alimenticios comprendidos dentro de la canasta básica, para la promoción del voto.
-
-Al responsable, se le impondrán de treinta a doscientos días multa o prisión de uno a dos años, o ambas penas.
-
-A quien vote más de una vez en una misma elección se le aumentará hasta el doble de la pena señalada en este artículo.
-
-XXVIII. Altere, sustraiga, destruya, falsifique o haga uso indebido de documentos electorales;
-
-XXIX. Participe dolosamente en la instalación o funcionamiento de una casilla ubicada en lugar distinto al señalado legalmente;
-
-XXX. Impida u obstaculice la reunión de una asamblea o manifestación pública, o cualquier otro acto legal de propaganda política; y
-
-XXXI. A quien ejerza presión sobre los electores a votar o no votar.
-
-Al responsable, se le impondrán de cien a quinientos días multa o prisión de dos a cuatro años, o ambas penas.
-
-A quien vote más de una vez en una misma elección se le aumentara hasta el doble de la pena señalada en este artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 318.
 
-Comete el delito contra el proceso electoral, el funcionario electoral que:
-
-I. Se abstenga de cumplir con sus obligaciones electorales sin causa justificada;
-
-II. Obstaculice o interfiera el desarrollo del proceso electoral;
-
-III. Altere, sustraiga, destruya, falsifique o haga uso indebido de documentos electorales;
-
-IV. Participe dolosamente en la instalación o funcionamiento de una casilla ubicada en lugar distinto al señalado legalmente;
-
-V. Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley o la instale en lugar distinto;
-
-VI. Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella;
-
-VII. Coarte a los representantes de partidos políticos, observadores o funcionarios electorales, los derechos señalados por el Código Electoral del Estado;
-
-VIII. Altere los resultados electorales;
-
-IX. Dolosamente induzca la realización del escrutinio en lugar distinto al señalado para tal efecto;
-
-X. Impida la entrega oportuna o no entregue, cuando legalmente deba hacerlo, los documentos que tenga a su cargo en el ejercicio de sus funciones, sin causa justificada;
-
-XI. Se niegue, teniendo la obligación de hacerlo, a registrar los nombramientos de representantes de los partidos políticos, sin causa justificada;
-
-XII. Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
-
-XIII. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, durante la jornada electoral;
-
-XIV. Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
-
-XV. Dolosamente solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
-
-XVI. Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
-
-XVII. Siendo funcionario de casilla, dolosamente no levante debida y oportunamente las actas correspondientes o no haga entrega de las copias de ellas a los representantes de los partidos políticos; y
-
-XVIII. Se niegue a reconocer la personalidad jurídica de un partido, coalición o fusión que hubiese cumplido con los requisitos legales.
-
-Al responsable se le impondrán de cien a quinientos días multa o prisión de dos a cuatro años, o ambas penas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 319.
 
-Comete el delito contra el proceso electoral, el funcionario partidista que:
-
-I. Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
-
-II. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinios o cómputos o ejerza violencia física o moral sobre los funcionarios electorales;
-
-III. Impida con violencia la instalación, apertura, funcionamiento o clausura de una casilla;
-
-IV. Dificulte el funcionamiento de las oficinas electorales o impida la entrada o salida a las mismas a los funcionarios electorales o a otras personas;
-
-V. Fije o haga propaganda electoral en lugares o días prohibidos por el Código Electoral del Estado;
-
-VI. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, durante la jornada electoral; y
-
-VII. Impida o dificulte por sí o por interpósita persona la distribución o entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales o incite a la población a realizar estos actos.
-
-Al responsable se le impondrá de cien a quinientos días multa o prisión de dos a cuatro años, o ambas penas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 320.
 
-Comete el delito contra el proceso electoral, el servidor público que:
-
-I. No preste la ayuda solicitada por las autoridades electorales;
-
-II. Obligue a sus subordinados a emitir sus votos en favor de un partido político, coalición o candidato;
-
-III. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o candidato;
-
-IV. Impida u obstaculice la reunión de una asamblea o manifestación pública, o cualquier otro acto legal de propaganda política;
-
-V. Prive de la libertad a los candidatos o representantes de un partido político o personas que realicen actos de propaganda, pretextando delitos que no se hayan cometido;
-
-VI. Teniendo fe pública, certifique hechos falsos relativos a la función electoral o sin causa justificada se niegue a dar fe de los actos en que deba intervenir en los términos de ley;
-
-VII. Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones y declaratoria de ausencia, omita reiteradamente hacerlo;
-
-VIII. Condicione dolosamente la prestación de un servicio público al apoyo de un partido político o candidato; y
-
-IX. Al servidor público que permita que se fije propaganda política en las oficinas públicas de su encargo.
-
-Al responsable se le impondrá de doscientos a setecientos días multa o prisión de tres a seis años, o ambas penas.
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 321.
 
-A los ministros del culto religioso que en el ejercicio de su ministerio induzcan dolosamente al electorado a votar en favor o en contra de un determinado partido o candidato, fomenten la abstención del electorado o ejerzan presión sobre el mismo, se les impondrán de doscientos a seiscientos días multa.
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 322.
 
-A los responsables de los medios de comunicación electrónicos y escritos que en la actividad de su profesión, el día de la elección induzcan dolosamente al electorado a votar en favor o en contra de un determinado partido o candidato o que con sus manifestaciones pretendan influir en la decisión del elector, se aplicará una sanción de quinientos a mil días multa.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 323.
 
-Cuando el delito previsto en este capítulo sea cometido por un servidor público en ejercicio de sus funciones, será destituido e inhabilitado de cuatro a doce años para desempeñar empleo cargo o comisión públicos.
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 324.
 
-Al que a sabiendas, y debiendo evitarlo, permita que se realice cualquiera de los actos previstos en este capítulo, se le aplicarán de dos a cuatro años de prisión.
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 325.
 
-Al que obligue o induzca a otro a cometer alguno de los actos punibles de que hablan los artículos anteriores se le impondrá pena de prisión de tres a ocho años.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 326.
 
-Por la comisión del delito comprendido en el presente capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos hasta por siete años.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ###### Artículo 327.
 
-El delito previsto en este capítulo, se perseguirá de oficio.
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
 
 ## TRANSITORIOS
 
@@ -5360,3 +5198,49 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 28 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
+
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
+
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
+
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO. Se abroga el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+DÉCIMO SEGUNDO. En tanto se expida la Ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
+
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igualo menor jerarquía que se opongan a este Decreto.
+
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
+
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
+
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las Leyes.
+
+Para el próximo ejercicio fiscal, la Legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
+
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el período constitucional 2015-2018.
+
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan (sic) en las personas que garanticen los principios enunciados en este artículo.
+
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
+
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
