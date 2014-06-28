@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-12-25"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -337,11 +337,19 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial del Estado de Colima.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, se amplía el plazo hasta el 31 de mayo del citado año, para efectuar el pago por anualidad adelantada del servicio público de agua potable, alcantarillado y saneamiento con una tasa del 8%, no generando los recargos correspondientes en dichas prórrogas.
+Por concepto de estímulo fiscal, en el ejercicio fiscal 2014, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio fiscal 2014 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+
+PERIODO JULIO Y SEPTIEMBRE Y NOVIEMBRE Y
+
+AGOSTO OCTUBRE DICIEMBRE
+
+BASE 100% 80% 60%
+
+Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -355,7 +363,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -386,6 +394,12 @@ P.O. 9 DE MAYO DE 2009.
 P.O. 25 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
 
 ###### ARTÍCULO UNICO.
 
