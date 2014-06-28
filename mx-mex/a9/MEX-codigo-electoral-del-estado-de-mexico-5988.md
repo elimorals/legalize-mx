@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2013-11-12"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DÉCIMO TRANSITORIO DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -293,7 +293,7 @@ I. Estar inscrito en el padrón electoral correspondiente y contar con la creden
 
 II. No ser magistrado o funcionario del Tribunal, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate;
 
-III. No formar parte del personal profesional electoral del Instituto, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate; y (sic)
+III. No formar parte del personal profesional electoral del Instituto, salvo que se separe del cargo un año antes de la fecha de inicio del proceso electoral de que se trate; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -713,7 +713,7 @@ II. Haber dejado de cumplir con los requisitos necesarios para obtener el regist
 
 III. Incumplir de manera grave o sistemática, a juicio del Consejo General, las obligaciones que señala éste Código;
 
-IV. Haber sido declarado disuelto por el acuerdo de sus miembros, de conformidad con sus estatutos, y (sic)
+IV. Haber sido declarado disuelto por el acuerdo de sus miembros, de conformidad con sus estatutos, y
 
 V. Haberse fusionado con otro partido;
 
@@ -799,7 +799,7 @@ VI. Nombrar representantes ante los órganos del Instituto, en los términos de 
 
 VII. Ser propietarios, poseedores o administradores de los bienes muebles e inmuebles que sean indispensables para el cumplimiento de sus fines;
 
-VIII. Acudir al Instituto para solicitar que se investiguen las actividades realizadas dentro del territorio del Estado por cualquier otro partido, con el fin de que actúen dentro de la Ley; y (sic)
+VIII. Acudir al Instituto para solicitar que se investiguen las actividades realizadas dentro del territorio del Estado por cualquier otro partido, con el fin de que actúen dentro de la Ley; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1599,7 +1599,7 @@ Los Organos Centrales del Instituto son:
 
 I. El Consejo General;
 
-II. La Junta General; y (sic)
+II. La Junta General; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1661,7 +1661,7 @@ VII. (DEROGADA, G.G. 10 DE SEPTIEMBRE DE 2008)
 
 VIII. No tener ni haber tenido cargo alguno de elección ni haber sido postulado como candidato, en los últimos cinco años anteriores a la designación;
 
-IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los tres años anteriores a la fecha de su designación; y (sic)
+IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político o de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los tres años anteriores a la fecha de su designación; y
 
 X. No ser ministro de culto religioso alguno;
 
@@ -1991,7 +1991,7 @@ V. Supervisar el cumplimiento de las normas aplicables a los partidos políticos
 
 VI. Proponer al Consejo General candidatos a Consejeros Electorales de los Consejos Distritales y Consejos Municipales Electorales;
 
-VII. Sustanciar el procedimiento de pérdida de registro del partido político que se encuentre en los supuestos previstos en este Código hasta dejarlo en estado de resolución, la cual será dictada por el Consejo General del Instituto; y (sic)
+VII. Sustanciar el procedimiento de pérdida de registro del partido político que se encuentre en los supuestos previstos en este Código hasta dejarlo en estado de resolución, la cual será dictada por el Consejo General del Instituto; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2475,7 +2475,7 @@ VII. Entregar copia de los memorándums, circulares y documentos remitidos por l
 
 > <small>(ADICIONADA, G.G. 9 DE OCTUBRE DE 1999)</small>
 
-VIII. Entregar al Consejo Distrital copia de los informes y reportes que remita a la Junta General; y (sic)
+VIII. Entregar al Consejo Distrital copia de los informes y reportes que remita a la Junta General; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2619,11 +2619,11 @@ VII. Dar a conocer, mediante avisos colocados en el exterior del local del Conse
 
 VIII. Recibir y turnar los medios de impugnación que se interpongan en contra de los propios actos o resoluciones del Consejo Distrital, en los términos que señala este Código;
 
-IX. Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo Distrital o el Consejo General del Instituto; y (sic)
+IX. Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo Distrital o el Consejo General del Instituto; y
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-X. Proveer de toda la información y documentación necesarias y expedir las certificaciones y toda aquella documentación que le sea solicitada por parte de los consejeros y los representantes de los partidos políticos o coaliciones; y (sic)
+X. Proveer de toda la información y documentación necesarias y expedir las certificaciones y toda aquella documentación que le sea solicitada por parte de los consejeros y los representantes de los partidos políticos o coaliciones; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2757,7 +2757,7 @@ XII. Analizar el informe que mensualmente deberá presentar la Junta Municipal;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-XIII. Solicitar a la Junta Municipal copia de los informes, reportes, oficios y demás documentos que esta remita a la Junta General; y (sic)
+XIII. Solicitar a la Junta Municipal copia de los informes, reportes, oficios y demás documentos que esta remita a la Junta General; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2801,7 +2801,7 @@ VII. Vigilar el cumplimiento de las resoluciones tomadas por el propio Consejo M
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1999)</small>
 
-VIII. Proveer de la información y documentación necesarias y expedir las certificaciones que les sean solicitadas por parte de los consejeros y los representantes de los partidos políticos o coaliciones; y (sic)
+VIII. Proveer de la información y documentación necesarias y expedir las certificaciones que les sean solicitadas por parte de los consejeros y los representantes de los partidos políticos o coaliciones; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2853,7 +2853,7 @@ VI. No tener parentesco en línea directa con candidatos registrados en la elecc
 
 > <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
-VII. No ser delegado municipal o miembro directivo de los Consejos de Participación Ciudadana; (sic)
+VII. No ser delegado municipal o miembro directivo de los Consejos de Participación Ciudadana;
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
@@ -6442,3 +6442,49 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Si la designación de Consejeros Electorales se efectúa con posterioridad al primero de enero del año 2014, entrarán en funciones el mismo día que inicie su vigencia el Decreto de designación y durarán en su encargo hasta el 31 de diciembre del 2017.
 
 CUARTO.- Para efectos de lo dispuesto en el tercer párrafo del artículo 89, disposición aprobada en este decreto, no podrá extenderse más allá del siguiente periodo ordinario de sesiones en que haya concluido el encargo.
+
+G.G. 28 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
+
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
+
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral (sic) Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
+
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO. Se abroga el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+DÉCIMO SEGUNDO. En tanto se expida la Ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
+
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
+
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
+
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las Leyes.
+
+Para el próximo ejercicio fiscal, la Legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
+
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el período constitucional 2015-2018.
+
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
+
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
+
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
