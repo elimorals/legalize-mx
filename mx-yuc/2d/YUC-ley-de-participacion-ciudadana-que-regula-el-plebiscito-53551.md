@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-participacion-ciudadana-que-regula-el-plebiscito-53551"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2007-01-22"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PARTICIPACION CIUDADANA QUE REGULA EL PLEBISCITO, REFERENDUM Y LA INICIATIVA POPULAR EN EL ESTADO DE YUCATAN
 
-LEY DE PARTICIPACION CIUDADANA QUE REGULA EL PLEBISCITO, REFERENDUM Y LA INICIATIVA POPULAR EN EL ESTADO DE YUCATAN
+LEY DE PARTICIPACIÓN CIUDADANA QUE REGULA EL PLEBISCITO, REFERÉNDUM Y LA INICIATIVA POPULAR EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 22 de enero 2007.
 
@@ -57,9 +57,13 @@ II.- Ley: Ley de Participación Ciudadana que regula el Plebiscito, Referéndum 
 
 III.- Ley Electoral: Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
 
-IV.- Instituto: El Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
 
-V.- Consejo: El Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán.
+IV.- Instituto: El Instituto Electoral y de Participación Ciudadana de Yucatán.
+
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+V.- Consejo: El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 VI.- Comisión: La Comisión Permanente de Participación Ciudadana.
 
@@ -71,13 +75,17 @@ IX.- Acto trascendental: Acto o resolución de una autoridad, cuyos efectos y co
 
 X.- Catálogo: El Catálogo de Políticas Públicas y Actos Gubernamentales Trascendentales, que emita el Instituto.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 4.
 
-Para efectos de esta Ley, son medios de consulta popular: el plebiscito, el referéndum, el referéndum constitucional y la iniciativa popular; correspondiendo al Instituto organizar los procedimientos respectivos, bajo los principios establecidos en la fracción I del Apartado A del Artículo 16 de la Constitución.
+Para efectos de esta Ley, son medios de consulta popular: el plebiscito, el referéndum, el referéndum constitucional y la iniciativa popular; correspondiendo al Instituto organizar los procedimientos respectivos, bajo los principios establecidos en el apartado E del artículo 16 de la Constitución.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 5.
 
-El Instituto para el desempeño de sus atribuciones y funciones en materia de participación ciudadana, tendrá el apoyo y colaboración de las autoridades estatales y municipales; asimismo, podrá celebrar convenios con las autoridades federales y demás afines o análogas, para el debido cumplimiento de los fines establecidos en el artículo 114 de la Ley Electoral.
+El Instituto, para el desempeño de sus atribuciones y funciones en materia de participación ciudadana, tendrá el apoyo y colaboración de las autoridades estatales y municipales; asimismo, podrá celebrar convenios con las autoridades federales y demás afines o análogas, para el debido cumplimiento de los fines establecidos en la Ley Electoral.
 
 ###### Artículo 6.
 
@@ -107,9 +115,11 @@ III.- Los Ayuntamientos, y
 
 IV.- El Congreso del Estado.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 10.
 
-Son derechos y obligaciones de los ciudadanos en materia de participación ciudadana, los previstos en la Constitución y en los Capítulos I y III del Título Tercero, de la Ley Electoral. Además de los previstos en la Constitución, participar informada y responsablemente en los procedimientos de participación ciudadana y pedir al Instituto someta a consulta, los actos o acciones gubernamentales no previstas en el Catálogo.
+Son derechos y obligaciones de los ciudadanos en materia de participación ciudadana, los previstos en la Constitución, la Ley Electoral y las demás disposiciones en la materia. Además de los previstos en la Constitución, participar informada y responsablemente en los procedimientos de participación ciudadana y pedir al Instituto someta a consulta, los actos o acciones gubernamentales no previstas en el Catálogo.
 
 ###### Artículo 11.
 
@@ -854,3 +864,49 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de (sic) Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
