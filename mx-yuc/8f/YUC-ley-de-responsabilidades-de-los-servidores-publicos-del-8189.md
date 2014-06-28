@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-de-los-servidores-publicos-del-8189"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-09"
-last_updated: "2014-02-28"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 9 de marzo de 1989.
 
@@ -75,7 +75,9 @@ II.- Las dependencias de la Administración Pública del Estado.
 
 III.- El Tribunal Superior de Justicia.
 
-IV.- El Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+IV.- El Tribunal de Justicia Fiscal y Administrativa del Estado de Yucatán.
 
 V.- Los Tribunales del Trabajo.
 
@@ -123,7 +125,9 @@ VIII.- Las violaciones graves y sistemáticas a los planes, programas y presupue
 
 No procede el Juicio Político por la mera expresión de ideas.
 
-El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquellos tengan el carácter de delictuosos se formulará la declaración de procedencia a la que alude la presente Ley y se estará a lo dispuesto por la Legislación en materia de Defensa Social.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones a que se refiere este artículo. Cuando aquellos tengan el carácter de delictuosos se formulará la declaración de procedencia a la que alude la presente Ley y se estará a lo dispuesto por la legislación en materia penal.
 
 ###### ARTICULO 8º.
 
@@ -387,7 +391,21 @@ XXIII.- Atender los llamados del Congreso del Estado o, en sus recesos, de la Di
 
 XXIV.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
 
-XXV.- Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+XXV.- Cumplir en tiempo y forma los mandatos del Instituto Nacional Electoral, del Instituto Electoral y de Participación Ciudadana de Yucatán y cualquiera de sus órganos, en los términos de la legislación aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales.
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+XXVI.- Abstenerse de infringir, por acción u omisión, las disposiciones constitucionales, legales, reglamentarias y normativas en materia electoral, de propaganda gubernamental y aplicación imparcial de los recursos públicos.
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+XXVII.- Abstenerse de influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADA, D.O. 28 DE JUNIO DE 2014)</small>
+
+XVIII (SIC).- Las demás que le impongan las leyes y reglamentos.
 
 ###### ARTICULO 40º.
 
@@ -436,6 +454,14 @@ V.- Sanción Económica.
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, que será impuesta, por la autoridad jurisdiccional a solicitud, del superior jerárquico o de la Contraloría según el caso.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que impliquen lucro o causen daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en el Estado, y de tres a diez años si excede de dicho límite.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+En el caso de infracciones graves se impondrá, además, la sanción de destitución.
+
+> <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+En todo caso se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXV, XXVI y XXVII del artículo 39 de la Ley.
 
 ###### ARTICULO 46º.
 
@@ -565,9 +591,11 @@ Las resoluciones y acuerdos de la Contraloría, de las dependencias y de los Ayu
 
 La Contraloría expedirá constancias que acrediten la no existencia del registro de inhabilitación, que serán exhibidas para los efectos pertinentes por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 61.
 
-Los sujetos sancionados podrán impugnar ante el Tribunal Contencioso Administrativo las resoluciones administrativas por las que se impongan las sanciones a que se refiere este capítulo. Las resoluciones anulativas dictadas por ese tribunal, que causen ejecutoria, tendrán el efecto de restituir al servidor público en el goce de los derechos de que se hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
+Los sujetos sancionados podrán impugnar ante el Tribunal de Justicia Fiscal y Administrativa las resoluciones administrativas por las que se impongan las sanciones a que se refiere este capítulo. Las resoluciones anulativas dictadas por ese tribunal, que causen ejecutoria, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones anuladas, sin perjuicio de lo que establecen otras leyes.
 
 ###### ARTICULO 62.
 
@@ -597,11 +625,13 @@ b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de
 
 c) Que la suspensión no traiga como consecuencia continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 64.
 
-El servidor público, afectado por las resoluciones administrativas de la Contraloría, las Dependencias y de los Ayuntamientos podrán optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal de lo Contencioso Administrativo.
+El servidor público, afectado por las resoluciones administrativas de la Contraloría, las Dependencias y de los Ayuntamientos podrán optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal de Justicia Fiscal y Administrativa.
 
-La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal de lo Contencioso Administrativo.
+La resolución que se dicte en el recurso de revocación será también impugnable ante el Tribunal de Justicia Fiscal y Administrativa.
 
 ###### ARTICULO 65.
 
@@ -621,7 +651,9 @@ I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente 
 
 II.- Auxilio de la fuerza pública.
 
-Si existe resistencia al mandamiento legítimo de autoridad se estará a lo que prevenga la legislación en Materia de defensa social.
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
+Si existe resistencia al mandamiento legítimo de autoridad se estará a lo que prevenga la legislación en materia penal.
 
 ###### ARTICULO 68.
 
@@ -697,13 +729,17 @@ El servidor público a quien se practique visitas de investigación o auditoría
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para el efecto designe. Si el servidor público y los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 76.
 
-Serán sancionados en los términos que dispongan el Código de Defensa Social, los servidores públicos que incurran en enriquecimiento ilícito.
+Serán sancionados, en los términos que disponga el Código Penal del Estado de Yucatán, los servidores públicos que incurran en enriquecimiento ilícito.
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 77.
 
-Para los efectos de esta Ley y del Código de Defensa Social del Estado, se computarán entre los bienes que adquieran los servidores públicos o respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que éstos los obtuvieron por sí mismos o por motivos ajenos al servicio público.
+Para los efectos de esta Ley y del Código Penal del Estado de Yucatán, se computarán entre los bienes que adquieran los servidores públicos o respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que estos los obtuvieron por sí mismos o por motivos ajenos al servicio público.
 
 ###### ARTICULO 78.
 
@@ -766,3 +802,47 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
