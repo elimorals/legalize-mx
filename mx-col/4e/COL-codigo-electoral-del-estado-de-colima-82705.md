@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2014-06-14"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -189,7 +189,7 @@ Los organismos electorales garantizarán las calidades del voto.
 
 Quienes incurran en actos que generen presión o coacción a los electores o que impidan el ejercicio del sufragio, serán sancionados, conforme a lo dispuesto en la ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2014)</small>
+(ADICIONADO, P.O. 14 DE JUNIO DE 2014) (F. DE E., P.O. 28 DE JUNIO DE 2014)
 
 El voto de los ciudadanos colimenses que residan en el extranjero, se determina en base a lo estipulado por la LEGIPE, y los reglamentos y acuerdos que para este caso determine el INE.
 
@@ -251,7 +251,7 @@ Ningún ciudadano, se podrá afiliar a más de un PARTIDO POLÍTICO.
 
 ###### ARTÍCULO 12.
 
-Es derecho exclusivo de los ciudadanos mexicanos participar, como observadores en las actividades electores (sic), en la forma y términos que al efecto determine el INE.
+Es derecho exclusivo de los ciudadanos mexicanos participar, como observadores en las actividades electores, en la forma y términos que al efecto determine el INE.
 
 ###### ARTÍCULO 13.
 
@@ -1655,7 +1655,7 @@ El CONSEJO GENERAL ordenará la publicación en el Periódico Oficial del ESTADO
 
 Le corresponde al CONSEJO GENERAL en los procesos electorales locales las siguientes atribuciones:
 
-I. Expedir los reglamentos interiores que sean necesarios para el buen funcionamiento del INSTITUTO ;
+I. Expedir los reglamentos interiores que sean necesarios para el buen funcionamiento del INSTITUTO;
 
 II. Designar, de entre las propuestas que al efecto haga por ternas su Presidente, a los Presidentes de los CONSEJOS MUNICIPALES;
 
@@ -1735,7 +1735,9 @@ XXXIX. Ajustar, en el caso de elecciones extraordinarias, los plazos relativos a
 
 XL. Elaborar y proponer las pautas para la distribución del tiempo en radio y televisión, para su aprobación por parte de la autoridad administrativa electoral federal;
 
-XLI. Ejercer las funciones que le sean delegadas por el INE;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XLI. Ejercer las funciones de fiscalización en caso que sean delegadas por el INE y cualquier otra función que sea competencia de éste y que de igual forma sea delegada. Lo anterior, siguiendo los lineamientos que determine la LEGIPE y demás leyes aplicables;
 
 XLII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el INE, conforme a lo previsto por la LEGIPE y demás disposiciones que emita el Consejo General del INE, y
 
@@ -3139,7 +3141,9 @@ II. El primer escrutador contará en dos ocasiones el número de ciudadanos que 
 
 III. El presidente abrirá la urna, sacará las boletas depositadas por los electores y mostrará a los presentes que la misma quedó vacía;
 
-IV. El segundo escrutador contará las boletas extraídas de las urnas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+IV. El segundo escrutador si lo hubiere, contará las boletas extraídas de las urnas. De no existir un segundo escrutador dicha tarea la llevara a cabo el primer escrutador.
 
 V. Los dos escrutadores bajo la supervisión clasificará las boletas para determinar:
 
@@ -3159,9 +3163,9 @@ I. Se contará un voto válido por la marca que haga el elector dentro de la del
 
 II. Se contará como nulo cualquier voto emitido en forma distinta a la descrita en la fracción anterior.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
-La boleta que contenga el señalamiento o cruce de dos o más círculos, cuadros o rectángulos con emblemas de diferentes PARTIDOS POLÍTICOS en coalición, será nulo para el partido político, pero deberá contabilizarse como voto válido a favor del candidato.
+La boleta que contenga el señalamiento o cruce de dos o más círculos, cuadros o rectángulos con emblemas de diferentes PARTIDOS POLÍTICOS en coalición, deberá contabilizarse como voto válido a favor del candidato.
 
 ###### ARTÍCULO 234.
 
@@ -3447,7 +3451,9 @@ e) Todos los votos hayan sido depositados a favor de un mismo partido; o
 
 f) Que el número de boletas sufragadas sea mayor al número de boletas entregadas.
 
-Los resultados obtenidos de lo anterior formarán parte del cómputo.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+
+Los votos que hayan sido emitidos a favor de dos o más partidos coligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de la casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que integren la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación. Los resultados obtenidos de lo anterior formarán parte del cómputo.
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -4285,7 +4291,7 @@ II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los PARTIDOS P
 
 III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta doscientos mil días de salario mínimo general vigente para el ESTADO, en el caso de aportaciones que violen lo dispuesto en esta (sic) CÓDIGO, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo, y
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los PARTIDOS POLÍTICOS, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente para el ESTADO , en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los PARTIDOS POLÍTICOS, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta mil días de salario mínimo general vigente para el ESTADO, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 F) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -5266,3 +5272,7 @@ Las indemnizaciones a que se refiere el párrafo anterior serán otorgadas a los
 El pago de las prestaciones ya referidas se cubrirán con cargo al presupuesto del Tribunal Electoral del Estado.
 
 OCTAVO.- La disposición relativa a las percepciones de los Consejeros Electorales Municipales, contenida en el artículo 125 del presente Decreto, les será aplicable a partir del 01 de enero de 2015.
+
+P.O. 28 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
