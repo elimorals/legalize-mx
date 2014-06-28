@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2014-04-05"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -245,7 +245,7 @@ No estarán obligados al pago de derechos por servicio de saneamiento aquellos u
 
 Por el servicio de agua potable, alcantarillado y saneamiento para uso comercial:
 
-I).- Por los servicios de agua potable en servicios “sin medidor”, alcantarillado y saneamiento, se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
+I).- Por los servicios de agua potable en servicios "sin medidor", alcantarillado y saneamiento, se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
 
 a).- COMERCIAL CONSUMO BAJO: El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, guarachearías, imprentas, jugueterías, licorerías, loncherías, cenadurías, materiales para construcción, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocasetes, alquiler de videojuegos, vidrierías, zapaterías, renta ( ciber café ) y venta de equipos de computo, joyerías.
 
@@ -267,7 +267,7 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 3.874 .7748 2.9836
 
-c).- COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas:
+c).- COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como "comercial consumo alto" y pagarán los derechos conforme a las siguientes cuotas:
 
 1. Casas de Huéspedes.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
@@ -285,9 +285,7 @@ con baño privado 1.228 .2456 1.1052
 
 con baño común 1.086 1.086 .9774
 
-2. Centros Botaneros.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la
-
-siguiente cuota fija mensual:
+2. Centros Botaneros.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
 CUOTA
 
@@ -551,7 +549,7 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 16.2. Mediana 7.510 1.502 6.759
 
-II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso comercial, se pagarán los derechos de conformidad con las siguientes Tarifas mensuales.
+II.- Por los servicios de agua potable en "servicio medido", alcantarillado y saneamiento para uso comercial, se pagarán los derechos de conformidad con las siguientes Tarifas mensuales.
 
 a) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en el inciso a) del artículo 5 y pagarán las tarifas que resulten de aplicar con la siguiente:
 
@@ -865,7 +863,7 @@ En caso de que sea detectada una toma de agua potable o descarga de drenaje sani
 
 a).- En el caso de tomas domésticas de agua potable y de descargas al drenaje, se tomará como base para el cobro, lo que resulte de considerar un gasto de 300 litros por habitante por día, considerando 4.5 habitantes por familia, por un máximo de hasta 5 años, salvo que el usuario demuestre que data de un período menor, caso éste que el cobro se ajustara a lo demostrado;
 
-b).- Tratándose de tomas de agua potable y/o descargas al drenaje distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un período en que se trate, salvo que el usuario demuestre que la toma data de un período menor y que su consumo de agua es inferior al presuntamente establecido y (sic)
+b).- Tratándose de tomas de agua potable y/o descargas al drenaje distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un período en que se trate, salvo que el usuario demuestre que la toma data de un período (sic) menor y que su consumo de agua es inferior al presuntamente establecido y
 
 c).- Tratándose de tomas de agua clandestina a que se refiere la fracción V del artículo 10 de la Ley de Aguas para el Estado de Colima, se presume un consumo de agua equivalente a 10,000 metros cúbicos por hectárea por año, a la cual se le aplicará la cuota correspondiente al concepto de agua potable considerada en el rango de 16 a 20 metros cúbicos de la tarifa popular uno, hasta por cinco años, salvo que se demuestre que la conexión clandestina data de un período menor.
 
@@ -1093,7 +1091,7 @@ Los usuarios de los servicios de drenaje, pagarán los derechos por la conexión
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6”, para usuarios con toma de agua de 1/2”:
+I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6", para usuarios con toma de agua de 1/2":
 
 1) Uso doméstico y doméstico residencial 20.373 SM
 
@@ -1111,7 +1109,7 @@ de factibilildad (sic) 90.740 SM
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-En este caso se deberá recabar la factibilidad técnica de “LA COMAPAT” independientemente de cumplir con lo establecido en la Norma Oficial Mexicana NOM-02-ECOL-1996 que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal, de lo contrario no descargaran.
+En este caso se deberá recabar la factibilidad técnica de "LA COMAPAT" independientemente de cumplir con lo establecido en la Norma Oficial Mexicana NOM-02-ECOL-1996 que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal, de lo contrario no descargaran.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1433,7 +1431,7 @@ XI.- Instalación de medidor de ½” a 2 “ de
 
 diámetro para toma de agua
 
-( no incluye material) 22.349 SM
+(no incluye material) 22.349 SM
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1561,7 +1559,7 @@ A los usuarios de cuota mínima que paguen por anualidad en los términos de és
 
 La COMAPAT a través de su Director General, podrá conceder hasta un 50 por ciento de descuento en la tarifa correspondiente, a los propietarios o poseedores de lotes baldíos o inmuebles no habitados, cuando por escrito lo soliciten y manifiesten bajo protesta de decir verdad, previa inspección y comprobación en el inmueble, que durante el tiempo en mora o parte de él, no se contó con el servicio del agua, o que la casa habitación se encontró deshabitada.
 
-Lo anterior se ajustará al contenido del Reglamento Interior del la (sic) COMAPAT.
+Lo anterior se ajustará al contenido del Reglamento Interior del (sic) la COMAPAT.
 
 (REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
@@ -1589,17 +1587,17 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2014, el beneficio a que se refieren las fracciones I, II, y V del artículo 42 de esta Ley, se amplía hasta el 30 de abril del citado año con un descuento del 10%, además de no generar los recargos correspondientes en dichas prórrogas, ampliándose por el mismo periodo los descuentos especificados en las fracciones III y IV de ese mismo artículo.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO TERCERO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago de los servicios de agua potable, alcantarillado y saneamiento de los años anteriores y 2013, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en el periodo y porcentaje siguiente:
+Por concepto de estímulo fiscal, en el ejercicio fiscal 2014, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio fiscal 2014 y anteriores, en los periodos y porcentajes que a continuación se establecen:
 
-PERIÓDO Del 17 de noviembre de 2013 al
+PERIODO JULIO Y SEPTIEMBRE Y NOVIEMBRE Y
 
-20 de diciembre de 2013
+AGOSTO OCTUBRE DICIEMBRE
 
-BASE 0%
+BASE 100% 80% 60%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
 
@@ -1680,3 +1678,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
