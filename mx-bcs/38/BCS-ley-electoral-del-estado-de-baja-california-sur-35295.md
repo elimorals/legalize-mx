@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2014-06-27"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 28 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -443,7 +445,7 @@ II.- Haber celebrado, cuando menos en tres de los Municipios del Estado, una asa
 
 a).- Que concurrieron a la asamblea municipal los afiliados a que se refiere la fracción anterior; que aprobaron la declaración de principios, programa de acción y estatutos y que suscribieron el documento de manifestación formal de afiliación;
 
-b).- Que con las personas mencionadas en el inciso anterior, quedaron formadas las listas de afiliación, las que deberán contener: el nombre completo, apellidos, domicilio, ocupación, el número de folio de la credencial para votar con fotografía y la firma de cada afiliado o huella digital, en caso de no saber escribir; y (sic)
+b).- Que con las personas mencionadas en el inciso anterior, quedaron formadas las listas de afiliación, las que deberán contener: el nombre completo, apellidos, domicilio, ocupación, el número de folio de la credencial para votar con fotografía y la firma de cada afiliado o huella digital, en caso de no saber escribir; y
 
 c).- Que fue electa la directiva municipal de la organización, así como los delegados, propietarios y suplentes, para la asamblea estatal constitutiva del partido;
 
@@ -523,7 +525,7 @@ VII.- Nombrar representantes ante la mesa directiva de casilla y los representan
 
 VIII.- Solicitar al Instituto Estatal Electoral que investigue las actividades de los demás partidos políticos, cuando exista motivo fundado para considerar que no cumplen alguna de las obligaciones o que sus actividades no se apegan a la Ley;
 
-IX.- Aportando elementos de prueba, podrá solicitar al Consejo General del Instituto Estatal Electoral que promueva la investigación de las actividades de otros partidos políticos o de alguna agrupación política cuando incumplan sus obligaciones de manera grave o sistemática; y (sic)
+IX.- Aportando elementos de prueba, podrá solicitar al Consejo General del Instituto Estatal Electoral que promueva la investigación de las actividades de otros partidos políticos o de alguna agrupación política cuando incumplan sus obligaciones de manera grave o sistemática; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2007)</small>
 
@@ -579,7 +581,7 @@ XIII BIS.- Aplicar el financiamiento de que dispongan, por cualquiera de las mod
 
 XIV.- Brindar el apoyo necesario que se requiera para la práctica de las auditorias y verificaciones que ordene el Instituto Estatal Electoral a través de la Comisión de Fiscalización del Financiamiento de los Partidos Políticos;
 
-XV.- Coadyuvar con las autoridades competentes para que se retire, dentro de los treinta días siguientes al día de la elección en que participen, la propaganda que en apoyo de sus candidatos hubieren fijado, pintado, instalado o emitido; y (sic)
+XV.- Coadyuvar con las autoridades competentes para que se retire, dentro de los treinta días siguientes al día de la elección en que participen, la propaganda que en apoyo de sus candidatos hubieren fijado, pintado, instalado o emitido; y
 
 > <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2013)</small>
 
@@ -1445,7 +1447,7 @@ XLIV.- A través de la Comisión de Fiscalización de los Recursos de los Partid
 
 XLV.- Conocer por conducto del Consejero Presidente y de sus Comisiones, un informe bimestral y anual de actividades de los mismos, así como los informes específicos que el Consejo General estime necesarios solicitarles;
 
-XLVI.- Conocer por conducto del Consejero Presidente el informe bimestral y anual de los egresos del Instituto Estatal Electoral y remitirlo al Congreso del Estado; y (sic)
+XLVI.- Conocer por conducto del Consejero Presidente el informe bimestral y anual de los egresos del Instituto Estatal Electoral y remitirlo al Congreso del Estado; y
 
 > <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
@@ -4064,3 +4066,41 @@ DÉCIMO.- A partir de la entrada en vigor del presente Decreto, se derogan los A
 DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la primera semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- La Ley contenida en el presente Decreto, entrará en vigor el mismo día de su publicación, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se abroga la Ley Electoral del Estado de Baja California Sur, expedida en el Decreto 1419, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 52 de fecha 20 de noviembre de 2003; así como sus reformas y adiciones.
+
+Tercero.- Se derogan las disposiciones previstas en los Decretos 1839 de fecha 10 de marzo de 2010, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 10 del día 12 de Marzo de 2010 y el Decreto 1843 publicado en el Boletín Oficial número 16 Bis de fecha 30 de abril de 2010.
+
+Cuarto.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Quinto.- El Consejo General del Instituto expedirá su Reglamento Interior a más tardar en 180 días a partir la entrada en vigor de la presente Ley.
+
+Sexto.- Los partidos políticos deberán adecuar sus documentos básicos y demás reglamentación interna a lo previsto en esta Ley y en las demás disposiciones legales aplicables, en términos de lo establecido en el artículo quinto transitorio de la Ley General de Partidos Políticos.
+
+Séptimo.- Por única ocasión, las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio. Para tal efecto el Consejo General del Instituto aprobará los ajustes necesarios a los plazos establecidos en la presente Ley.
+
+Octavo.- En términos de lo establecido por el Artículo Décimo Segundo Transitorio del decreto por el cual se emite la Ley General de de (sic) Instituciones y Procedimientos Electorales, las funciones correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, las llevará a cabo el Instituto en tanto no sean reasumidas por votación de la mayoría del Consejo General del Instituto Nacional Electoral, en términos del Octavo Transitorio del Decreto mediante el cual se realizaron reformas a la Constitución General en materia político electoral.
+
+Noveno.- El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Gobierno del Estado, asignará recursos presupuestarios al Instituto para el debido cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y sujeto a la suficiencia presupuestaria.
+
+Décimo.- Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en el Estado, así como de sus militantes o simpatizantes, iniciados o que se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia del mismo, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en el Estado hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados por el Instituto con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+Décimo Primero.- El Congreso del Estado de Baja California Sur, deberá elegir en sesión pública al Contralor General del Instituto Estatal Electoral, a más tardar 30 días posteriores a la instalación del Consejo General del Instituto Estatal Electoral.
+
+Décimo Segundo.- El Instituto Estatal Electoral, llevará a cabo convenios con el Instituto Nacional con el fin de fortalecer la Educación Cívica y la Cultura Democrática, explorando la posibilidad de establecer procedimientos electrónicos para la emisión del voto mediante urna y boleta electrónica.
+
+Décimo Tercero.- Una vez instalado el Tribunal Estatal Electoral de Baja California Sur, en términos de lo previsto en el Artículo Décimo Transitorio del Decreto legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el diez de febrero de 2014, deberá expedir su Reglamento el cual tendrá por objeto regular su organización y funcionamiento interno, de conformidad al presupuesto aprobado por el H. Congreso del Estado.
+
+Décimo Cuarto.- Los Consejeros designados para integrar el Consejo del Instituto Estatal Electoral, se sujetarán a lo previsto en el artículo décimo transitorio del decreto que crea la nueva Ley General de Instituciones y Procedimientos Electorales, y serán nombrados de forma escalonada, en los siguientes términos:
+
+a) Tres consejeros que durarán en su encargo tres años;
+
+b) Tres consejeros que durarán en su encargo seis años, y
+
+c) Un consejero que durará en su encargo siete años.
+
+Décimo Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
