@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2011-04-18"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -179,29 +179,21 @@ El desempeño del cargo se realizará con prioridad, eficacia, eficiencia y honr
 
 ### CAPITULO SEGUNDO. De la Toma de Protesta e Instalación de los Ayuntamientos
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 20.
 
-Los Ayuntamientos electos, tomarán protesta solemne y públicamente, al rendir su último informe de gobierno el Ayuntamiento saliente respectivo, bajo el siguiente calendario:
+Los Ayuntamientos electos, tomarán protesta solemne y públicamente al rendir su último informe de gobierno el Ayuntamiento saliente respectivo, bajo el siguiente calendario:
 
-> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
+I. El del Municipio de Mulegé, será el día 24 de septiembre del año de la elección;
 
-El del Municipio de Loreto será el día 25 de abril del año de la elección;
+II. El del Municipio de Loreto será el día 25 de septiembre del año de la elección,
 
-> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
+III. El del Municipio de Comondú, será el día 26 de septiembre del año de la elección;
 
-El del Municipio de Comondú será el día 26 de abril del año de la elección;
+IV. El del Municipio de La Paz, será el día 27 de septiembre del año de la elección;
 
-> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
-
-El del Municipio de La Paz será el día 27 de abril del año de la elección;
-
-> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
-
-El del Municipio de Los Cabos será el día 28 de abril del año de la elección; y
-
-> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
-
-El del Municipio de Mulegé será el día 29 de abril del año de la elección.
+V. El del Municipio de Los Cabos, será el día 28 de septiembre del año de la elección.
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 2008)</small>
 
@@ -233,9 +225,11 @@ Los integrantes del Ayuntamiento electo que no hayan rendido protesta en términ
 
 En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de actividades del Ayuntamiento saliente, se nombrará una comisión de tres miembros, que fungirá como Comisión Instaladora para el Ayuntamiento electo. La Comisión Instaladora designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría, de asignación y la declaratoria de validez expedidas por el órgano respectivo o, en su caso, con la resolución del Tribunal Estatal Electoral, para que acudan a la sesión de instalación formal del mismo, en los términos del artículo que precede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
+
 ###### Artículo 25.
 
-La Comisión Instaladora para el Ayuntamiento electo, citará personalmente a los integrantes propietarios y suplentes del mismo para que concurran a la sesión de instalación el día 30 de Abril del año de la elección a las 9:00 horas. Dicha citación deberá hacerse con una anticipación de quince días naturales.
+La Comisión Instaladora para el Ayuntamiento electo, citará personalmente a los integrantes propietarios y suplentes del mismo para que concurran a la sesión de la instalación el día 30 de septiembre del año de la elección a las 9 horas. Dicha citación deberá hacerse con una anticipación de quince días naturales.
 
 Cuando por causa de fuerza mayor no pueda llevarse a cabo la sesión de instalación en el lugar que se tenía previsto, se podrá realizar en un lugar distinto, previa notificación por escrito de manera fehaciente, cuando menos con tres horas de anticipación a los miembros electos del Ayuntamiento.
 
@@ -245,7 +239,9 @@ La Comisión Instaladora declarará valida la Sesión de instalación, con la pr
 
 El Ayuntamiento saliente a través de la Comisión Instaladora dará posesión física de las oficinas municipales al Ayuntamiento que se instala e inmediatamente procederá a hacer la siguiente declaratoria formal y solemne:
 
-Siendo las… horas del día 30 de abril del año…, se declara que queda legítimamente instalado el Ayuntamiento del municipio de..., que deberá funcionar durante el periodo de...".
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+“Siendo las… horas del día 30 de septiembre del año… se declara que queda legítimamente instalado el Ayuntamiento del Municipio de..., que debera funcionar durante el periodo de...”
 
 ###### Artículo 27.
 
@@ -923,11 +919,13 @@ Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al 
 
 Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial asignada a la delegación, quienes deberán de acreditar fehacientemente su residencia y garantizar su residencia en ella.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
 
 ###### Artículo 84.
 
-Para la designación de Delegados deberá hacerse una consulta ciudadana de conformidad a las bases que establezca la convocatoria que para tal efecto expida el Ayuntamiento. Dicha convocatoria se expedirá con quince días naturales de anticipación a la celebración de la elección, misma que se efectuará el segundo domingo del mes de junio del primer año de Gobierno Municipal.
+Para la designación de delegados deberá hacerse una consulta ciudadana de conformidad a la (sic) bases que establezca dicha convocatoria se expedirá con quince días naturales de anticipación a la celebración de la elección, misma que se efectuará el segundo domingo del mes de noviembre del primer año de Gobierno Municipal.
+
+> <small>(REFORMADO, B.O. 18 DE ABRIL DE 2011)</small>
 
 El Ayuntamiento calificará los resultados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos a más tardar siete días después de la celebración de la elección.
 
@@ -2337,7 +2335,7 @@ DIP. PROFR. OSCAR LEGGS CASTRO
 
 SECRETARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE MARZO DE 2008.
 
@@ -2363,7 +2361,7 @@ TERCERO.- Por única ocasión los Subdelegados municipales designados en términ
 
 P.O. 18 DE ABRIL DE 2011.
 
-DECRETO NUMERO 1909, POR EL QUE SE REFORMAN LOS ARTICULOS 51 FRACCION I INCISO F) Y ARTICULO 84 DE LA LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO NÚMERO 1909, POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 FRACCIÓN I INCISO F) Y ARTÍCULO 84 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2375,6 +2373,12 @@ CUARTO.- Se deroga en todos sus términos el decreto número 1906 emitido por es
 
 P.O. 18 DE ABRIL DE 2011.
 
-DECRETO NUMERO 1911, POR EL QUE SE REFORMA EL ARTICULO 20 DE LA LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO NÚMERO 1911, POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- Las presentes Reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
