@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-del-estado-de-baja-16795"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2005-11-10"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de julio de 2000.
 
@@ -413,9 +413,9 @@ El Congreso del Estado desechará de plano toda Iniciativa Ciudadana que no se r
 
 La Iniciativa Ciudadana deberá dirigirse (sic) el H. Congreso del Estado y se presentará en la Oficialía Mayor del Poder Legislativo, debiendo contener como requisitos indispensables:
 
-> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
-I.- El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser estos al menos el 0.1% del total de los ciudadanos inscritos en la lista nominal de Electores correspondiente al Estado de Baja California Sur;
+I.- El nombre, firma, número de folio de la credencial de elector y sección de los electores solicitantes, debiendo ser al menos 0.13% del total de los ciudadanos inscritos en la lista nominal de Electores correspondiente al estado de Baja California Sur;
 
 II.- Domicilio en la capital del Estado y nombrar un representante común para recibir notificaciones y participar en las discusiones en la Comisión respectiva, sin derecho a voto;
 
@@ -489,8 +489,22 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE NOVIEMBRE DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE JUNIO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO SEXTO DEL DECRETO NÚMERO 2178.
+
+Primero.- La presente reforma entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+## N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 2178.
+
+Primero.- La presente Derogación entrará en vigor, el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta reforma resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
