@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2013-12-20"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -59,11 +59,11 @@ El ejercicio de las funciones de los Diputados al Congreso del Estado durante tr
 
 El Congreso tendrá la organización y funcionamiento que establecen la Constitución Política del Estado, esta Ley y los Reglamentos que deriven de la misma.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 5o.
 
-El Congreso del Estado tendrá durante el año dos períodos ordinarios de sesiones: El primero, del 15 de Marzo al 30 de Junio; y el segundo, del 01 de Septiembre al 15 de Diciembre, el cual podrá prolongarse hasta el 31 de Diciembre del mismo año.
+El Congreso del Estado tendrá durante el año dos períodos ordinarios de sesiones. El primero, del 01 de septiembre al 15 de diciembre, el cual podrá prolongarse hasta el 31 de diciembre del mismo año y el segundo del 15 de Marzo al 30 de Junio.
 
 A convocatoria del Gobernador o de la Diputación Permanente, los períodos ordinarios de sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 
@@ -107,15 +107,21 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 
 EL COLEGIO ELECTORAL Y LA CALIFICACION DE LAS ELECCIONES.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 13.
 
-En la segunda quincena del mes de Febrero del año de renovación de los miembros del Congreso, y bajo la vigilancia de la Diputación Permanente, se abrirá por la Secretaría el libro destinado para el efecto del registro de las constancias de mayoría expedidas y debidamente requisitadas por las Autoridades Electorales, correspondientes a los presuntos Diputados propietarios y suplentes electos mediante el sistema de Distritos Electorales Uninominales, así como el de las constancias de asignación de los presuntos Diputados Propietarios y Suplentes electos mediante el principio de Representación Proporcional expedidas por el Organismo Electoral competente. En la solicitud de registro se especificará el domicilio de los presuntos, para los efectos de la Ley.
+A mas tardar el último día del mes de julio del año de renovación de los miembros del Congreso, y bajo la vigilancia de la Diputación Permanente, se abrirá por la Secretaría el libro destinado para el efecto del registro de las constancias de mayoría expedidas y debidamente requisitadas por las Autoridades Electorales, correspondientes a los presuntos Diputados propietarios y suplentes electos mediante el sistema de Distritos Electorales Uninominales, así como el de las constancias de asignación de los presuntos Diputados Propietarios y Suplentes electos mediante el principio de Representación Proporcional, expedidas por el Organismo Electoral competente. En la solicitud de registro se especificará el domicilio de los presuntos, para los efectos de la Ley.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 14.
 
-A más tardar el primer día hábil del mes de marzo, la Diputación Permanente comunicará a los presuntos diputados en su domicilio, el número de registro de su constancia de mayoría o de asignación.
+A más tardar el primer día hábil del mes de agosto, la Diputación Permanente comunicará a los presuntos diputados en su domicilio, el número de registro de su constancia de mayoría o de asignación.
 
 ###### ARTICULO 15.
 
@@ -349,7 +355,7 @@ Los Diputados podrán reclamar verbalmente los trámites dictados por la Preside
 
 ###### ARTICULO 43.
 
-El Presidente permanecerá sentado mientras ejerza sus funciones como tal; pero al tomar la palabra para intervenir en una discusión sin aquel carácter, lo hará poniéndose de pie. También permanecerá de pie en unión con los Diputados al recibir una Protesta Constitucional de un Servidor Público.
+El Presidente permanecerá sentado mientras ejerza sus funciones como tal; pero al tomar la palabra para intervenir en una discusión sin aquel carácter, lo hará poniéndose de pié. También permanecerá de pié, en unión con los Diputados al recibir una Protesta Constitucional de un Servidor Público.
 
 ###### ARTICULO 44.
 
@@ -389,7 +395,7 @@ VII.- Extender personalmente las actas de las sesiones privadas, lo que será in
 
 VIII.- Rendir informes exactos al Congreso, en la primera sesión de cada mes, de los expedientes y negocios que fueron despachados durante el anterior, y los que aún permanecen en poder o a disposición de las comisiones.
 
-IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la (sic) motivaron.
+IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la motivaron.
 
 X.- Recoger y comprobar las votaciones, proclamando sus resultados cuando así lo disponga el Presidente de la Directiva.
 
@@ -1785,9 +1791,9 @@ III.- A los Ayuntamientos;
 
 IV.- Al Tribunal Superior de Justicia en su ramo; y
 
-> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
 
-V.- A los Ciudadanos inscritos en la lista nominal de Electores, cuyo número represente cuando menos el 0.1% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine. Así como por conducto del Diputado de su distrito.
+V.- A los Ciudadanos inscritos en la lista nominal de Electores, cuyo número represente cuando menos el 0.13% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la ley de la materia y la presente Ley determine.
 
 Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de 30 días hábiles siguientes, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
 
@@ -2313,7 +2319,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pues en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2482,6 +2488,16 @@ Las Iniciativas que tengan por objeto reformar o adicionar la Constitución Pol�
 ###### ARTICULO 213.
 
 Los trámites para las reformas o adiciones a la Constitución serán los que señala la misma en su Artículo 166.
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+ARTICULO 213 BIS.- Para efectos de la elección del Contralor General del Instituto Estatal Electoral, se llevará a cabo conforme a las siguientes bases:
+
+I.- Se deberá conformar una Comisión Especial Plural que al efecto designe la Junta de Gobierno y Coordinación Política, la que elaborará una lista de candidatos de las propuestas que las fracciones parlamentarias y los diputados que no pertenezcan a fracción parlamentaria alguna le hagan llegar, cada fracción o diputado solo podrá proponer un candidato;
+
+II.- De la lista señalada en la fracción anterior, la Comisión Especial Plural, examinará si los candidatos cumplen con los requisitos de elegibilidad establecidos en los artículos 26 y 308 de la Ley Electoral del Estado y elaborará dictamen en el que se contengan los nombres de los aspirantes a Contralor General que satisfagan dichos requisitos, sometiéndose a la votación del Pleno y se elegirá al Contralor General con la mayoría de votos de los Diputados presentes; y
+
+III.- En caso de no alcanzarse la votación señalada en la fracción anterior, se procederá a conformar una terna con los candidatos que hubiesen obtenido mayor votación, y se procederá a elegir de entre ellos a quien ocupará el cargo de Contralor General del Instituto Estatal Electoral.
 
 ### CAPITULO I
 
@@ -3190,3 +3206,11 @@ B.O. 20 DE DICIEMBRE DE 2013.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 FRACCIÓN XV, 54 FRACCIÓN XXVI, 55 FRACCIÓN XXVI, INCISOS A) Y C), 97, FRACCIÓN V Y PENÚLTIMO PÁRRAFO, 105 PRIMER PÁRRAFO Y FRACCIONES II Y III, 114 PRIMER PÁRRAFO, 199, 226 FRACCIÓN V Y 247 FRACCIÓN XV, DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- Las presentes Reformas y Adición, entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Para efectos de la aplicación del artículo 13 de la presente reforma, la fecha para dar cumplimiento a dicha disposición respecto de la elección a celebrarse el primer domingo de julio del año 2018, será el último día del mes de agosto del año de la elección.
+
+Tercero.- Para efectos de la aplicación del artículo 14 de la presente reforma, la fecha para dar cumplimiento a dicha disposición respecto de la elección a celebrarse el primer domingo de julio del año 2018, será a más tardar en la segunda quincena del mes de agosto del año de la elección.
