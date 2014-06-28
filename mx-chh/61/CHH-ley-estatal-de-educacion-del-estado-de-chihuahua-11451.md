@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-06-14"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -222,6 +222,10 @@ XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
 
 XXI. Prevenir la comisión de delitos en materia de trata de personas; desalentar la demanda que propicia cualquier forma de explotación, así como advertir de los riesgos por el uso del internet y las redes sociales, en los términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2014)</small>
+
+XXII. Promover la formación de personas especializadas en resolución de conflictos, negociación y mediación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3950,3 +3954,9 @@ El Ejecutivo del Estado realizará las previsiones presupuestales necesarias, pa
 P.O. 14 DE JUNIO DE 2014.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 28 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
