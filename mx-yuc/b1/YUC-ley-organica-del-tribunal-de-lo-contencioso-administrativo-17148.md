@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-tribunal-de-lo-contencioso-administrativo-1714
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-10-01"
-last_updated: "1990-12-13"
+last_updated: "2014-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATAN.- ANTES LEY ORGANICA DEL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATAN-
 
-LEY ORGANICA DEL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATAN
+LEY ORGÁNICA DEL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1990.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO NOVENO DEL DECRETO 200/2014 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN; LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN; EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN; Y LA LEY DE PARTICIPACIÓN CIUDADANA QUE REGULA EL PLEBISCITO, REFERÉNDUM Y LA INICIATIVA POPULAR EN EL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 28 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-Ley publicada en el Diario Oficial el Jueves 1 de Octubre de 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014 (DEROGADA).
+
+Ley publicada en el Diario Oficial, el jueves 1 de octubre de 1987.
 
 GOBIERNO DEL ESTADO
 
@@ -309,7 +311,7 @@ DEL SECRETARIO DE GOBIERNO
 
 ING. RAMIRO ALPIZAR CARRILLO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 13 DE DICIEMBRE DE 1990.
 
@@ -320,3 +322,47 @@ El presente decreto entrará en vigor el primer día hábil del mes de enero del
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas.
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
