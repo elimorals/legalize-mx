@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2014-04-01"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3293,6 +3293,8 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 330.
 
 Comete el delito de robo quien se apodera de una cosa ajena mueble, sin derecho o sin consentimiento de la persona que pueda disponer de ella con arreglo a la Ley.
@@ -3603,8 +3605,6 @@ Cuando alguna de las conductas delictivas a que se refiere este Capítulo se rea
 
 ### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
-
 ###### ARTÍCULO 357.
 
 Para los efectos de este Código, bajo el nombre de lesión se comprenden, no solamente las heridas, excoriaciones, contusiones, fracturas, dislocaciones y quemaduras, sino toda alteración en la salud y cualquier otro daño que deje huella material en el cuerpo humano, si estos efectos son producidos por una causa externa.
@@ -3863,107 +3863,55 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 
 ###### ARTÍCULO 395.
 
-Para los efectos de este Título son:
+Son delitos electorales, los establecidos en la Ley General en Materia de Delitos Electorales.
 
-I. Servidores públicos, los descritos en el artículo 97 de la Constitución Política del Estado de Yucatán;
+El Ministerio Público y el Poder Judicial del Estado de Yucatán serán competentes para investigar, perseguir, procesar y sancionar los delitos establecidos en la Ley General de Delitos Electorales cuando no sea competente la federación conforme a lo dispuesto en dicha ley.
 
-II. Funcionarios electorales, quienes integren los órganos que tienen a su cargo las funciones públicas electorales, en los términos de la legislación electoral del Estado de Yucatán;
-
-III. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos que acrediten debidamente estar autorizados por dichos partidos para actuar en la jornada electoral ante los organismos electorales;
-
-IV. Documentos públicos electorales, las actas oficiales relativas al funcionamiento de las casillas; las de los cómputos estatales, distritales y municipales; y en general, los documentos expedidos, en el ejercicio de sus funciones por los órganos electorales y por quienes cumplan funciones públicas electorales;
-
-V. Propaganda política, los anuncios, carteles, volantes, folletos, banderines y demás documentos impresos que se fijen en las carteleras autorizadas para ello, postes, bardas y cercas con el permiso consiguiente de sus propietarios u ocupantes, relacionados con los partidos políticos o sus candidatos, y
-
-VI. Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+Las penas establecidas para los delitos electorales se aplicarán sin perjuicio de las demás que resulten aplicables para los tipos penales que concurran en la comisión de dichos delitos.
 
 ###### ARTÍCULO 396.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Título, se podrá imponer, además de las sanciones señaladas para cada uno de ellos, la suspensión de los derechos políticos de uno a cinco años.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 397.
 
-Se impondrá prisión de seis meses a dos años y de diez a cien días-multa a quien:
-
-I. Vote más de una vez en una misma elección;
-
-II. Suplante a un elector, aunque no llegue a emitir el sufragio;
-
-III. Estando impedido por la ley, vote o intente votar;
-
-IV. Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
-
-V. Obstruya, obstaculice o interfiera el desarrollo normal de las votaciones o el cómputo en la casilla electoral;
-
-VI. Se presente a votar portando armas;
-
-VII. Siendo Fedatario Público, se niegue a dar fe de los hechos relacionados con las elecciones estatales. Además podrá ser sancionado con la cancelación de la patente respectiva;
-
-VIII. Obligue o presione a votar por determinado candidato o a no emitir el sufragio a las personas que se encuentren bajo su autoridad o dependencia económica, y
-
-IX. Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 398.
 
-Se impondrán hasta quinientos días-multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 399.
 
-Se impondrá sanción de tres meses a cinco años de prisión y de veinte a cien días-multa, al funcionario electoral que:
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
-I. De cualquiera forma sustituya, destruya o haga uso indebido de la documentación relativa al Registro Federal de Electores, para efecto de las elecciones estatales;
-
-II. Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales, en perjuicio del proceso electoral;
-
-III. Altere los resultados electorales;
-
-IV. Sustraiga o destruya boletas, documentos públicos o materiales electorales;
-
-V. No entregue sin causa justificada o impida la entrega oportuna de documentos públicos y materiales electorales;
-
-VI. En ejercicio de sus funciones ejerza presión sobre los electores, induciéndolos a votar por un candidato o partido determinado o a abstenerse de emitir el sufragio en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
-
-VII. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales, y
-
-VIII. Abra, instale o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia, la instale sin causa justificada en lugar distinto al legalmente señalado, o impida su instalación.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 400.
 
-Se impondrá de tres meses a cinco años de prisión y de cincuenta a cien días-multa, al funcionario partidista que:
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
-I. Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
-
-II. Sustraiga, destruya, altere o haga uso indebido de material o documentos públicos electorales;
-
-III. Obstaculice el desarrollo normal de la votación;
-
-IV. Ejerza violencia física o moral sobre los funcionarios electorales;
-
-V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de los resultados oficiales contenidos en las actas de escrutinio y cómputo;
-
-VI. Impida o trate de impedir con violencia la instalación, apertura o cierre de una casilla;
-
-VII. Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral, y
-
-VIII. Interponga algún recurso con dolo o mala fe que resulte desechado por ser notoriamente improcedente.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 401.
 
-Se impondrá de tres meses a seis años de prisión y de setenta a doscientos días-multa, al servidor público que:
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
-I. Abusando de sus funciones obligue a sus subordinados a emitir su voto en favor de un partido político o candidato;
-
-II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato, y
-
-III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las sanciones que puedan corresponder por el delito de peculado o algún otro o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a sus labores, para que éstos presten servicios a un partido político o candidato.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 402.
 
-Se impondrá prisión de tres meses a dos años y de diez a cien días-multa, a quien dolosamente destruya propaganda política, sea particular, servidor público o funcionario electoral, partidista o electoral.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 403.
 
-Se impondrá suspensión de sus derechos políticos hasta por seis años, a quienes habiendo sido electos diputados o regidores no se presenten, sin causa justificada, a desempeñar el cargo, en los plazos que establece la Constitución Política del Estado y las demás leyes aplicables.
+(DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 TÍTULO VIGESIMOSEGUNDO
 
@@ -4188,3 +4136,47 @@ Artículo Primero.- Los artículos 13, 29, 394 Quinquies que se reforman, y 394 
 Artículo Segundo.- El artículo 188 Bis que se adiciona y el 228 que se reforma, contenidos en este decreto, entrarán en vigor a los noventa días naturales siguientes contados a partir de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 28 DE JUNIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligaciones normativas
+
+El Titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los sesenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Delitos contra el medio ambiente
+
+El Fiscal General deberá ajustar la normatividad interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos contra el medio ambiente a una fiscalía investigadora.
+
+Cuarto. Expedición o adecuación de disposiciones reglamentarias
+
+Los órganos competentes del Poder Judicial deberán expedir o realizar las adecuaciones a las disposiciones reglamentarias necesarias para la debida implementación de este decreto dentro de los sesenta días naturales siguientes a su entrada en vigor.
+
+Quinto. Vigencia de las disposiciones electorales
+
+En términos de lo dispuesto por el párrafo segundo del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, seguirán vigentes el inciso A del artículo 64 y los artículos 65, 66 y 67 de la Ley Orgánica del Poder Judicial del Estado de Yucatán, así como la demás normatividad necesaria para el cumplimiento de las atribuciones electorales transitorias del Tribunal de Justicia Fiscal y Administrativa hasta que se instale y entre en funciones el Tribunal Electoral del Estado de Yucatán.
+
+Sexto. Derechos laborales
+
+En términos de lo dispuesto por el párrafo primero del artículo noveno transitorio del Decreto 195/2014 por el que se modifica la Constitución Política del Estado de Yucatán, en materia electoral, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 20 de junio de 2014, se reconoce y computa la antigüedad y los años en el ejercicio de la función jurisdiccional de impartición de justicia de la magistrada María Guadalupe González Góngora, quien fue ratificada por la LIX Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 502, publicado en el Diario Oficial de (sic) Gobierno del Estado de Yucatán el 30 de marzo de 2012; del magistrado José Jesús Mateo Salazar Azcorra, quien fue ratificado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 284, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de marzo de 2010; y del magistrado Miguel Diego Barbosa Lara, quien fue designado por la LVIII Legislatura del Estado Libre y Soberano de Yucatán, según lo dispuesto en el Decreto 287, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 23 de marzo de 2010.
+
+Los magistrados que se encuentren en su primer período de ejercicio podrán ser sometidos al proceso de evaluación del desempeño a que se refiere el artículo 66 de la Constitución Política del Estado de Yucatán para, en su caso, poder ser ratificados, en términos del propio numeral.
+
+Séptimo. Vigencia de disposiciones internas
+
+Los acuerdos de organización interna, el otorgamiento de poderes generales o especiales y acuerdos delegatorios emitidos por el Tribunal de Justicia Electoral y Administrativa permanecerán vigentes, por lo que serán entendidos respecto del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Octavo. Referencias al tribunal
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Tribunal Contencioso Administrativo o del Tribunal de Justicia Electoral y Administrativa se entenderán referidas al Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán.
+
+Noveno. Derogación de disposiciones legales
+
+A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del Tribunal Contencioso Administrativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 1 de octubre de 1987.
+
+Décimo. Derogación tácita
+
+A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
