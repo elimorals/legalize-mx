@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-de-medios-de-impugnacion-en-materia-37815"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-27"
-last_updated: "2010-03-12"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 27 de febrero de 2004.
 
@@ -39,13 +39,21 @@ LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
 
-La presente Ley es de orden público, de observancia general para el Estado de Baja California Sur y reglamentaria de los artículos 36 y 99 de la Constitución Política del Estado de Baja California Sur.
+###### ARTÍCULO 1°.
 
-###### ARTÍCULO 2º.
+La presente Ley es de orden público, de observancia general para el Estado de Baja California Sur y reglamentaria de los artículos 36 y 36 Bis de la Constitución Política del Estado de Baja California Sur.
 
-La resolución de los medios de impugnación previstos en esta Ley que sean sometidos a la consideración de las autoridades electorales, se ajustarán a los criterios de interpretación gramatical, sistemática y funcional. A falta de disposición expresa en la presente Ley se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado de Baja California Sur, a la Jurisprudencia y a los Principios Generales del Derecho.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+###### ARTÍCULO 2°.
+
+Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a la Constitución, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, asi como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho
+
+La interpretación del orden juridico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 ### CAPÍTULO II. DE LAS NULIDADES
 
@@ -77,7 +85,9 @@ XI. Que existan irregularidades graves, plenamente acreditadas y no reparables d
 
 XII. Cuando el contenido del paquete electoral se encuentra alterado;
 
-XIII. Cuando el número total de votos emitidos sea superior al número total de electores que contenga la lista nominal correspondiente, salvo lo establecido por el artículo 209 tercer párrafo de la Ley Electoral vigente en el Estado; y
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+XIII. Cuando el número total de votos emitidos sea superior al número total de electores que contenga la lista nominal correspondiente, salvo lo establecido por el artículo 278 párrafo segundo y tercero, y en el artículo 279 párrafo quinto de la Ley General de Instituciones y Procedimientos Electorales, y
 
 XIV. Cuando se cierre la casilla antes de la hora indicada, sin haber acudido a votar la totalidad de los ciudadanos de la lista nominal.
 
@@ -99,7 +109,25 @@ c) La mitad más uno de los candidatos propietarios para la planilla de Presiden
 
 IV. Se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos políticos o coaliciones promoventes o a sus candidatos; y
 
-V. El partido político o coalición con mayoría de votos, sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice en los términos del artículo 170 de la Ley Electoral vigente.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+V. El partido político o coalición con mayoría de votos, sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice en los términos del artículo 112 y 113 de la Ley Electoral vigente
+
+> <small>(ADICIONADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 4 BIS.- Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos.
+
+I.- Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+II.- En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+III.- Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+IV.- Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilicito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral
+
+V.- Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
 ###### ARTÍCULO 5º.
 
@@ -121,11 +149,17 @@ Las elecciones cuyos cómputos, constancias de mayoría y validez o de asignaci�
 
 ARTÍCULO 8° BIS.- El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones realizadas en la Entidad, de que conozca el Tribunal Estatal Electoral, procederá cuando:
 
-I.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 250 de la Ley Electoral;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
 
-II.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 251 de la Ley Electoral; y
+I.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 146 de la Ley Electoral:
 
-III.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 257 de la Ley Electoral.
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+II.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 155 de la Ley Electoral; y
+
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+III.- El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el artículo 163 de la Ley Electoral.
 
 El Tribunal Estatal Electoral deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos a los Comités Electorales sin necesidad de recontar los votos.
 
@@ -141,9 +175,11 @@ Para el recuento de votos de una elección, el Tribunal Estatal Electoral dispon
 
 ### CAPÍTULO III. DE LOS MEDIOS DE IMPUGNACIÓN
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
 
-Los recursos y el Juicio de Inconformidad, son aquellos medios de impugnación con que cuentan los partidos políticos, las coaliciones, asociaciones políticas estatales y ciudadanos, para efecto de garantizar la vigencia del principio de legalidad en los procesos electorales y tienen como finalidad revocar, modificar o confirmar en los términos de esta Ley, los actos y resoluciones impugnadas.
+###### ARTÍCULO 9°.
+
+Los recursos y el Juicio de Inconformidad, son aquellos medios de impugnación con que cuentan los partidos políticos, las coaliciones, agrupaciones políticas estatales y ciudadanos, para efecto de garantizar la vigencia del principio de legalidad en los procesos electorales y tienen como finalidad revocar, modificar o confirmar en los términos de esta Ley, los actos y resoluciones impugnadas.
 
 ###### ARTÍCULO 10.
 
@@ -165,7 +201,9 @@ Durante el tiempo que transcurra entre dos procesos electorales estatales ordina
 
 I. Los partidos políticos o coaliciones, para impugnar los actos, resoluciones o sentencias de los órganos electorales, salvo los que esta Ley señale como no impugnables;
 
-II. Las organizaciones políticas, cuando se les haya negado el registro como partidos políticos o asociaciones políticas estatales;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+II. Las agrupaciones políticas, cuando se les haya negado el registro como partidos políticos o asociaciones políticas estatales;
 
 III. Los ciudadanos para impugnar los actos o resoluciones del Instituto Estatal Electoral, cuando se recurra la imposición de una sanción en materia de precampañas, sin perjuicio de lo señalado en la legislación electoral federal en materia de recursos jurisdiccionales.
 
@@ -229,9 +267,11 @@ I. El Consejo General del Instituto Estatal Electoral, del recurso de Revisión 
 
 II. El Tribunal Estatal Electoral, del recurso de Apelación y del Juicio de Inconformidad, conforme a lo establecido en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-La interposición de los recursos que correspondan a los partidos políticos o coaliciones deberá tramitarse a través de sus representantes legítimos. Las organizaciones o agrupaciones políticas podrán interponer el recurso de Apelación a través de sus representantes legítimos sólo en los casos señalados en el segundo párrafo del artículo 40 y segundo párrafo del artículo 62 de la Ley Electoral vigente.
+La interposición de los recursos que correspondan a los partidos políticos o coaliciones deberá tramitarse a través de sus representantes legítimos. Las organizaciones que pretendan constituirse en un Partido Político Local o las agrupaciones políticas podrán interponer el recurso de Apelación a través de sus representantes legítimos sólo en los casos señalados en el segundo párrafo del artículo 19 de la Ley General de Partidos Políticos y en el apartado A del artículo 178 de la Ley Electoral.
 
 Los ciudadanos podrán interponer el recurso de Apelación en el caso previsto en el artículo 12 fracción III de esta Ley.
 
@@ -361,7 +401,9 @@ I. El recurrente, que será quien estando legitimado en los términos de la pres
 
 II. La autoridad, que será el organismo electoral que realice el acto, dicte la resolución o sentencia que se impugna; y
 
-III. El tercer interesado, que será el partido político, coalición, asociación política estatal o candidato, que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el recurrente.
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+III. El tercer interesado, que será el partido político, coalición, agrupación política estatal o candidato, que tenga un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el recurrente.
 
 ###### ARTÍCULO 35.
 
@@ -477,7 +519,9 @@ Dentro de los dos días siguientes al de su fijación, los representantes de los
 
 Los escritos a que se refiere el párrafo anterior, deberán cumplir los siguientes requisitos:
 
-I. Hacer constar la denominación del partido político, coalición o asociación política estatal interesado y el domicilio para oír notificaciones; si el recurrente omite señalar domicilio para recibirlas, se practicarán por estrados;
+> <small>(REFORMADA, B.O. 28 DE JUNIO DE 2014)</small>
+
+I. Hacer constar la denominación del partido político, coalición o agrupación política estatal interesado y el domicilio para oír notificaciones; si el recurrente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
 II. Exhibir los documentos que acrediten la personería del recurrente, cuando no la tengan reconocida ante el órgano electoral responsable;
 
@@ -637,7 +681,9 @@ Los recursos de Revisión deberán ser resueltos en sesión pública por mayorí
 
 Los recursos de Apelación serán resueltos por mayoría simple de los Magistrados del Tribunal Estatal Electoral, dentro de los seis días siguientes a aquél en que se admitan.
 
-Los Juicios de Inconformidad serán resueltos por la mayoría simple de los Magistrados del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión, salvo que el Pleno acuerde su modificación. Los Juicios de Inconformidad interpuestos para impugnar los resultados de la elección de Diputados, deberán ser resueltos en su totalidad a más tardar el día 25 de febrero del año de la elección. Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Gobernador del Estado y de Ayuntamientos, éstos deberán ser resueltos a más tardar el día 12 de marzo del año de la elección.
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+
+Los Juicios de Inconformidad serán resueltos por la mayoría simple de los Magistrados del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión, salvo que el Pleno acuerde su modificación. Los Juicios de Inconformidad interpuestos para impugnar los resultados de la elección de Diputados, deberán ser resueltos en su totalidad a más tardar el día 25 de junio del año de la elección. Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Gobernador del Estado y de Ayuntamientos, estos deberán ser resueltos a más tardar el día 12 de julio del año de la elección.
 
 ###### ARTÍCULO 62.
 
@@ -747,7 +793,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 12 DE MARZO DE 2010.
 
@@ -848,3 +894,23 @@ El Instituto Estatal Electoral, publicará a más tardar el día 20 de agosto de
 I.- En el año de la elección en que se renueven el Titular del Poder Ejecutivo Estatal, los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, todos los candidatos podrán ser registrados en el periodo comprendido del día diez al día quince de noviembre inclusive, del año anterior al de la elección; y
 
 II.- En el año de la elección en que solamente se renueven los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, los candidatos podrán ser registrados en el periodo comprendido del día seis al día diez de diciembre inclusive, del año anterior al de la elección.
+
+B.O. 28 DE JUNIO DE 2014.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor el mismo día de su publicacion en el Boletín Oficial del Gobierno del Estado de Baja California Sur
+
+Segundo.- Todas las referencias realizadas al Consejo General del Instituto Estatal Electoral contenidas en la Ley del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur, deberán entenderse realizadas al Consejo General del Instituto Estatal Electoral.
+
+Todas las referencias realizadas al Secretario General del Instituto Estatal Electoral contenidas en la Ley del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur, deberán entenderse realizadas al Secretario Ejecutivo del Instituto Estatal Electoral.
+
+Todas las referencias realizadas a los Comités Municipales del Instituto Estatal Electoral contenidas en la Ley del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur, deberán entenderse realizadas a los Consejos Municipales del Instituto Estatal Electoral.
+
+Todas las referencias realizadas a los Comités Distritales del Instituto Estatal Electoral contenidas en la Ley del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Baja California Sur, deberán entenderse realizadas a los Consejos Distritales del Instituto Estatal Electoral.
+
+Tercero.- Si a la entrada en vigor del presente Decreto se encuentra en trámite cualquier medio de impugnación ante el Instituto Estatal Electoral o ante el Tribunal Estatal Electoral, éste será resuelto conforme a las normas vigentes al momento de su interposición.
+
+Cuarto.- Para los efectos previstos en el tercer párrafo del artículo 61 del presente Decreto, por única ocasión, los Juicios de Inconformidad interpuestos para impugnar los resultados de la elección de Diputados del proceso electoral de 2018, deberán ser resueltos en su totalidad a más tardar el día 25 de julio de ese año.
+
+Por lo que hace a los Juicios de Inconformidad presentados para impugnar los resultados de la elección de Gobernador del Estado y de Ayuntamientos del proceso electoral de 2018, éstos deberán ser resueltos a más tardar el día 12 de agosto de dicho año.
+
+Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
