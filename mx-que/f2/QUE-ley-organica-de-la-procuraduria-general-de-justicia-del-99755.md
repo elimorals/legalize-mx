@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-99755"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2014-03-20"
+last_updated: "2014-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -134,6 +132,14 @@ XII. Promover la reparación del daño a favor de la víctima u ofendido del del
 XIII. Participar ante la autoridad judicial especializada en justicia para adolescentes, en los procedimientos relacionados con la ejecución de las medidas aplicadas por la realización de conductas sancionadas, conforme a sus atribuciones; y
 
 XIV. Ejercer las demás facultades y cumplir las obligaciones que determinen las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2014)</small>
+
+Artículo 6 bis. (Atribuciones del Ministerio Público Especializado en atención de Delitos Electorales). Corresponde al Ministerio Público Especializado en atención de Delitos Electorales:
+
+I. Investigar, perseguir, procesar y sancionar los delitos establecidos en la Ley General en Materia de Delitos Electorales, cuando no sean competencia de la Federación; y
+
+II. Ejercer las demás facultades y cumplir las obligaciones que determinen las leyes aplicables.
 
 ###### Artículo 7.
 
@@ -345,11 +351,15 @@ IV. Los Agentes del Ministerio Público que sean necesarios;
 
 V. Los Agentes del Ministerio Público Especializados en Justicia para Adolescentes que sean necesarios y aquellos otros que por normatividad deban fungir con carácter de especializados;
 
-VI. El Archivo General;
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2014)</small>
 
-VII. El Almacén de Resguardo de Evidencia; y
+VI. Un Agente del Ministerio Público Especializado en atención de Delitos Electorales;
 
-VIII. Las subdirecciones, coordinaciones, unidades, jefaturas de departamento, jefaturas de área, supervisiones y demás unidades administrativas que resulten necesarias.
+VII. El Archivo General;
+
+VIII. El Almacén de Resguardo de Evidencia; y
+
+IX. Las subdirecciones, coordinaciones, unidades, jefaturas de departamento, jefaturas de área, supervisiones y demás unidades administrativas que resulten necesarias.
 
 Los Subprocuradores, Directores, Subdirectores, Coordinadores, Jefes de Departamento, Jefes de Área o de Unidad, Supervisores, Ministerios Públicos y sus Auxiliares, Peritos y los Policías de Investigación del Delito, por la naturaleza de las funciones que desempeñan y la confiabilidad que requiere su desempeño, se consideran personal de confianza para todos los efectos legales.
 
@@ -2234,3 +2244,11 @@ Lic. Arsenio Durán Becerra
 Procurador General de Justicia
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JUNIO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente.
