@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2014-05-16"
+last_updated: "2014-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -47,9 +47,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 La presente Ley es reglamentaria de los artículos 25 y 26 de la Constitución Política del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+
 ###### Artículo 2.
 
-Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para adolescentes, ejecución de sanciones penales, electoral y constitucional del fuero común y en materia federal cuando las leyes conducentes así lo faculten.
+Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para adolescentes, ejecución de sanciones penales y constitucional del fuero común y en materia federal cuando las leyes conducentes así lo faculten.
 
 Corresponde al Pleno del Tribunal Superior de Justicia, conocer y resolver las controversias contempladas en el artículo 29, fracción VI, de la Constitución Política del Estado de Querétaro.
 
@@ -109,7 +111,9 @@ II. Ajustar invariablemente sus actos, procedimientos y resoluciones, a los prin
 
 III. Auxiliar a los órganos jurisdiccionales federales y demás autoridades, en los términos que determinen las leyes relativas;
 
-IV. Diligenciar exhortos, requisitorias y despachos en materia civil, mercantil, familiar, penal o electoral que les envíen los jueces del Estado, de otras entidades federativas y de otras instancias jurisdiccionales, que se ajusten a la ley;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2014)</small>
+
+IV. Diligenciar exhortos, requisitorias y despachos en materia civil, mercantil, familiar o penal que les envíen los jueces del Estado, de otras entidades federativas y de otras instancias jurisdiccionales, que se ajusten a la ley;
 
 V. Diligenciar y ejecutar rogatorias, requisitorias o exhortos provenientes del extranjero;
 
@@ -389,13 +393,13 @@ De acuerdo a la carga de trabajo existente y a las necesidades de servicio, el P
 
 La Sala Constitucional conocerá de los asuntos de esta índole; las salas civiles conocerán de los asuntos civiles, mercantiles y familiares; las salas penales, conocerán de los asuntos de este ramo; y la sala especializada en justicia para adolescentes conocerá de los asuntos de esa materia.
 
-La Sala Electoral, conocerá de los asuntos de esa materia y podrá auxiliar a otras salas, teniendo las mismas facultades de éstas, aun dentro del proceso electoral, previo acuerdo del Pleno del Tribunal Superior de Justicia, siempre y cuando no se interfiera con la función de aquélla.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
 
 ###### Artículo 27.
 
 Cada sala elegirá, de entre los miembros que la componen, un Presidente que durará en su cargo un año y podrá ser reelecto.
 
-El nombramiento del Presidente de la Sala Electoral será fuera del período electoral, salvo sustitución por causa justificada de quien ocupa el cargo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
 
 ###### Artículo 28.
 
@@ -405,9 +409,13 @@ Las salas estarán integradas por los magistrados propietarios. En caso de falta
 
 Tratándose de los asuntos que conozca el Pleno de la Sala, el magistrado ponente llevará su trámite hasta que se encuentren en estado de resolución.
 
-La ponencia formulada será resuelta por el Pleno de la Sala, el que se integrará con la asistencia cuando menos de dos de sus integrantes. De la misma forma se integrará la Sala Electoral, cuando trabaje en auxilio de las otras salas.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
 
-En materia electoral y constitucional, siempre se requerirá la presencia de todos sus integrantes.
+La ponencia formulada será resuelta por el Pleno de la Sala, el que se integrará con la asistencia cuando menos de dos de sus integrantes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
+
+En materia constitucional, siempre se requerirá la presencia de todos sus integrantes.
 
 ###### Artículo 30.
 
@@ -427,9 +435,11 @@ Las salas sesionarán en Pleno los días y en el horario que establezca el Regla
 
 #### Sección Primera. De la competencia de las salas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2014)</small>
+
 ###### Artículo 34.
 
-Los magistrados de las salas constitucional, civil, penal, electoral, especializada en justicia para adolescentes y las auxiliares, en su caso, en Pleno o de manera unitaria, conocerán en su materia:
+Los magistrados de las salas constitucional, civil, penal, especializada en justicia para adolescentes y las auxiliares, en su caso, en Pleno o de manera unitaria, conocerán en su materia:
 
 I. De la segunda instancia y de la denegada apelación, en los términos que establecen las leyes;
 
@@ -491,17 +501,7 @@ La Sala Penal podrá proceder en los mismos términos que establece el segundo p
 
 ###### Artículo 37.
 
-La Sala Electoral tendrá las siguientes atribuciones:
-
-I. Conocer y resolver sobre los asuntos que la ley de la materia señale como de su competencia;
-
-II. Establecer los criterios de interpretación normativa derivados de las resoluciones que emita;
-
-III. Propiciar la comunicación e intercambio de materiales electorales con otros órganos jurisdiccionales;
-
-IV. Elaborar y divulgar la memoria de las resoluciones y criterios de interpretación que emita; y
-
-V. Las demás que le confieran la presente Ley y otras disposiciones aplicables.
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 38.
 
@@ -549,15 +549,7 @@ Los magistrados propietarios y supernumerarios serán elegidos por la Legislatur
 
 ###### Artículo 43.
 
-Los magistrados del Tribunal Superior de Justicia están impedidos para conocer de los asuntos en materia electoral, por alguna de las causas siguientes:
-
-I. Haber sido postulado como candidato a algún puesto de elección popular, dentro de los cinco años anteriores;
-
-II. Haber desempeñado el máximo cargo de dirección nacional, estatal o municipal de algún partido político;
-
-III. Tener militancia activa, abierto proselitismo o desempeñar comisiones a favor de algún partido político; y
-
-IV. Haber ocupado la dirección ejecutiva de algún cargo en la administración pública federal, estatal o municipal, por lo menos un año antes de su designación, excepto de los que actualmente prestan sus servicios en el Poder Judicial estatal y aquellos que se desempeñen en instituciones docentes, científicas, culturales o de beneficencia.
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 44.
 
@@ -2526,3 +2518,9 @@ P.O. 16 DE MAYO DE 2014.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 29 DE JUNIO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. La Sala Electoral del Tribunal Superior de Justicia del Poder Judicial del Estado, continuará conociendo de los procedimientos que en materia electoral se encuentren en trámite a la entrada en vigor de la presente Ley, hasta su conclusión. Asimismo, conocerá de aquellos que se presenten hasta en tanto quede constituido el Tribunal Electoral del Estado de Querétaro, a partir de la conclusión de los asuntos que les determinen en los términos de las demás salas del tribunal a que pertenece.
