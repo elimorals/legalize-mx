@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2014-05-30"
+last_updated: "2014-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -3897,109 +3897,39 @@ Cuando los delitos a que se refiere el artículo 336 aparezcan cometidos por una
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2014)</small>
 
 ###### Artículo 339.
 
-Para los efectos de este título se entiende por:
-
-I. Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
-
-II. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral; y,
-
-III. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos de la Comisión Estatal Electoral.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+Por lo que ve a los tipos penales y sus sanciones, la investigación, persecución y procesamiento de éstos, se estará a lo dispuesto en la Ley General en Materia de Delitos Electorales.
 
 ###### Artículo 340.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente título se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 341.
 
-En la aplicación de las sanciones alternativas a que se refiere el presente título, el juez atenderá primero a las pecuniarias o, motivando su resolución, impondrá la sanción privativa de libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 342.
 
-Se impondrán de diez a cien días multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
-
-I. Vote a sabiendas de que no cumple con los requisitos de la Ley;
-
-II. Vote más de una vez en una misma elección;
-
-III. Haga proselitismo setenta y dos horas anteriores al día de la jornada electoral, y durante ésta en el interior de las casillas o en el lugar donde se encuentren formados los votantes;
-
-IV. Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio; o,
-
-V. Ostente a una agrupación como partido político sin que ésta haya obtenido su registro o hagan aparecer a partidos políticos como coalición, sin que tampoco se hayan registrado en los términos de la ley de la materia.
-
-La misma sanción se aplicará a quienes por cualquier medio inciten a abstenerse de votar o tomen como base de propaganda electoral, determinada religión o exploten el sentimiento religioso.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 343.
 
-Se impondrá de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones, a juicio del juez, al funcionario electoral que:
-
-I. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
-
-II. Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
-
-III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-IV. Altere los resultados electorales, sustraiga o destruya boletas electorales;
-
-V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
-
-VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstas por la ley de la materia; y,
-
-VIII. Al que expulse de la casilla electoral sin causa justificada, al representante debidamente acreditado de un partido político.
-
-La misma sanción se aplicará a los Notarios Públicos que sin causa justificada se nieguen a dar fe de los actos en que sea necesaria o posible su intervención, de acuerdo con la Ley.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 344.
 
-Se impondrán de cincuenta a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
-
-I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla, o en el lugar donde los propios electores se encuentren formados;
-
-II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III. Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
-
-IV. Obstaculice el desarrollo normal de la votación, sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
-
-V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o,
-
-VI. Impida con violencia la instalación, apertura o cierre de una casilla fuera de los tiempos previstos por la Ley de la materia.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 345.
 
-Se impondrán de setenta a doscientos días multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
-
-I. De cualquier manera impida indebidamente la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral;
-
-II. Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
-
-III. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o,
-
-IV. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### Artículo 346.
 
-Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años, a quienes, habiendo sido electos diputados, no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del Artículo 30 de la Constitución Política del Estado.
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -4344,3 +4274,11 @@ SEGUNDO. El Congreso del Estado, a través de las comisiones correspondientes, e
 P.O. 30 DE MAYO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto a los Titulares de los poderes Ejecutivo y Judicial, de los Órganos Constitucionales Autónomos y los ayuntamientos, todos del Estado de Michoacán de Ocampo, así como al Instituto Nacional Electoral y la Presidencia del Congreso de la Unión, para su conocimiento.
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que le dieron origen, salvo que este Código resulte más benéfico.
