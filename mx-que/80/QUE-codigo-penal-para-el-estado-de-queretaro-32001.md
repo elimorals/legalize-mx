@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2013-06-12"
+last_updated: "2014-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -3361,8 +3361,6 @@ Son aplicables por este delito, en lo conducente, los Artículos 178, 179 y 180 
 
 ### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
 
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
-
 ###### ARTICULO 292.
 
 Al que, con la finalidad de entorpecer la administración de justicia, sustraiga, destruya, altere o dañe cualquier documento que obre en un expediente, o sin estar agregado se considere parte de él, o que no estando integrado esté destinado a formar parte del mismo, del que conozca o haya conocido cualquier órgano jurisdiccional o administrativo, se le impondrá sanción de 6 meses a 4 años de prisión y de 8 a 30 días multa.
@@ -3551,153 +3549,39 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 ###### ARTICULO 316.
 
-Cometen delitos contra la seguridad certeza y eficacia del sufragio, quienes realicen las acciones o incurran en las omisiones a que se refiere este capítulo, en relación con cualquiera de las elecciones de carácter estatal o municipal.
-
-Para la comisión de cualquiera de los delitos comprendidos en el presente título se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años, destitución del cargo o suspensión de derechos políticos de uno a seis años.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 317.
 
-Para los efectos del presente Título se entiende por:
-
-I.- Funcionarios electorales, quienes estén investidos de facultades legales en los términos de la Ley Electoral del Estado para participar en los órganos encargados de organizar, desarrollar y vigilar la realización de los procesos electorales ordinarios y extraordinarios;
-
-II.- Representantes de partido, los dirigentes de partido político, así como ciudadanos a quienes, en términos de la ley aplicable, los propios partidos les otorguen representación para que participen en los procesos electorales;
-
-III.- Documentos públicos electorales, las actas que de acuerdo con la ley de la materia deben ser formuladas y, en general, los documentos expedidos en el ejercicio de sus funciones por los órganos electorales, así como por las personas dotadas de fe pública, en relación con cuestiones electorales, y
-
-IV.- Día de salario, el monto económico equivalente a un salario mínimo general vigente en la ciudad de Querétaro.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 318.
 
-Se impondrá de seis meses a tres años de prisión y multa de diez a cien días de salario, a quien:
-
-I.- Emita su voto a sabiendas de que no cumple con los requisitos legalmente establecidos;
-
-II.- Emita su voto con una credencial de la que no sea titular;
-
-III.- Vote más de una vez en una jornada electoral, respecto de un mismo cargo;
-
-IV.- Marque boletas electorales que no correspondan a su voto;
-
-V.- Introduzca ilícitamente en las urnas boletas electorales que no correspondan a su voto;
-
-VI.- Obstaculice de cualquier manera la realización de los actos, diligentes y procedimientos de que de acuerdo con la ley deben efectuar los funcionarios electorales en el desempeño de sus funciones, así como los representantes de partido político y los ciudadanos en el ejercicio de sus derechos, durante los procesos electorales;
-
-VII.- Conduzca a una o más personas o les proporcione los medios para que vote o voten más de una vez, el día de la elección respecto de un mismo cargo, en una jornada electoral;
-
-VIII.- Otorgue u ofrezca algún beneficio a una o más personas, en la condición de que voten en determinado sentido o de que se abstengan de votar;
-
-IX.- Obstruya con violencia el libre tránsito en las vialidades o en edificios públicos o privados, así como la prestación normal de otro servicio, público o privado, para ejercer presión con motivos de índole electoral, sin perjuicio de las libertades que establece la Constitución Federal y Estatal;
-
-Al inductor o inductores se les aumentará la sanción hasta una mitad de la pena establecida en este artículo;
-
-X.- Coloque o mande colocar propaganda electoral en lugares prohibidos por las disposiciones legales aplicables o por los órganos electorales competentes;
-
-XI.- Realice con violencia o dirija reuniones públicas, asambleas o marchas, tendientes a apoyar a determinado candidato o fórmulas de candidatos el día de la elección y los tres que le precedan, sin perjuicio de lo que establece la Constitución Federal;
-
-> <small>(F. DE E., P.O. 18 DE AGOSTO DE 1994)</small>
-
-Divulgue o distribuya, según el caso, escritos, publicaciones, imágenes o grabaciones, tendientes a apoyar a determinado candidato o fórmulas de candidatos, el día de la elección y los tres que la precedan.
-
-XII.- Realice aportaciones de cualquier especie a favor de algún candidato o partido político, teniendo prohibición legal para ello o, en su caso, hacerlas en montos superiores a los permitidos por la ley.
-
-La sanción prevista para este caso se aplicará independientemente de la señalada en el artículo 230 de la Ley Electoral del Estado de Querétaro; y
-
-XIII.- Ejerza presión sobre los electores para que voten en determinado sentido o para que se abstengan de votar.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E. 18 DE AGOSTO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 319.
 
-Se impondrá de tres meses a cinco años de prisión y multa de diez a cien días de salario, a los ministros de cultos religiosos, quienes en ejercicio de actos propios de su ministerio, induzcan por cualquier medio a uno o más ciudadanos a votar por determinado partido político o abstenerse de votar.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 320.
 
-Se impondrá de seis meses a seis años de prisión y multa de cincuenta a doscientos días de salario, al funcionario electoral que:
-
-I.- Sustraiga, altere, sustituya, inutilice, destruya o haga uso indebido de documentos oficiales electorales, fuera de los casos autorizados por la ley de la materia o por los órganos electorales competentes;
-
-II.- Obstaculice el desarrollo normal de la votación o, sin causa justificada, se abstenga de cumplir con sus obligaciones legales;
-
-III.- Altere intencionalmente los resultados de los cómputos;
-
-IV.- Sustraiga o destruya boletas electorales de las urnas, con la finalidad de que no sean contabilizadas en el cómputo correspondiente;
-
-V.- Haga cualquier tipo de anotación no autorizada durante el cómputo de votos, en una o más boletas electorales depositadas en las urnas;
-
-VI.- Introduzca en las urnas boletas electorales que no correspondan a su voto;
-
-VII.- Se abstenga de entregar oportunamente los documentos oficiales electorales, o de alguna manera impida la entrega oportuna de los mismos a su destinatario, sin tener causa justificada para ello;
-
-VIII.- Ejerza presión sobre los electores para inducir el sentido del voto de los ciudadanos o para abstenerse de votar;
-
-IX.- Instale, abra o cierre dolosamente una casilla electoral, fuera de los casos y tiempos previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
-
-X.- Propicie por cualquier medio que algún partido político obtenga prerrogativas o beneficios en forma y montos superiores a los previstos por la ley de la materia;
-
-XI.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la ley le concede;
-
-XII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen, y
-
-XIII.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 321.
 
-Se impondrá de tres meses a cinco años de prisión y multa de veinte a doscientos días de salario mínimo, al candidato o al representante de partido político acreditado en una casilla electoral, que:
-
-I.- Induzca a los electores a votar en determinado sentido, o abstenerse de votar, ya sea en el interior del local donde esté ubicada la casilla, o en la zona en que los ciudadanos estén formados para votar;
-
-II.- Haga proselitismo durante la jornada electoral;
-
-III.- Indebidamente sustraiga, sustituya, destruya, inutilice, altere o haga uso de documentos oficiales electorales;
-
-IV.- obstaculice de cualquier forma el desarrollo de la votación;
-
-V.- Induzca o ejerza violencia sobre alguno de los funcionarios electorales, para que desempeñe irregularmente sus atribuciones o para que deje de realizarlas;
-
-VI.- Divulgue información falsa acerca de la forma en que se está desarrollando la jornada electoral;
-
-VII.- Falsee la información de que tenga conocimiento en razón de su cargo, respecto de los resultados oficiales contenidos en el acta de la jornada electoral o en la del cómputo correspondiente;
-
-VIII.- Impida la instalación, apertura o cierre de una casilla, o bien que dichas actividades no se realicen en los tiempos, lugares y formas legalmente establecidos, y
-
-IX.- En su carácter de candidato acepte, por sí o por interpósita persona, aportaciones económicas para financiar su campaña política, de acuerdo a lo que dispone la Ley Electoral del Estado.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 322.
 
-Se impondrá de uno a nueve años de prisión y multa de doscientos a cuatrocientos días de salario al servidor público que:
-
-I.- Aprovechando de su cargo, induzca u obligue por cualquier medio a sus subalternos a votar en determinado sentido o abstenerse de votar;
-
-II.- Condicione la prestación de un servicio público a la emisión del voto en determinado sentido, o bien a abstenerse de votar;
-
-III.- Destine fondos, bienes o servicios que tenga a su disposición, en razón de su cargo, para apoyar a determinado candidato o partido político, y
-
-IV.- Proporcione apoyo a algún candidato o partido político, ya sea directamente o por conducto de sus subordinados, en el tiempo que corresponda a su jornada laboral.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 323.
 
-Se les fincará la responsabilidad legal y constitucional correspondiente, a quienes habiendo resultado electos como Gobernador, diputados, presidentes municipales o regidores, se abstengan sin causa justificada de presentarse a desempeñar su cargo en la fecha en que inicie el periodo constitucional respectivo.
-
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ###### ARTICULO 324.
 
-Se impondrá de tres a doce años de prisión y multa de diez a quinientos días de salario, al que por cualquier medio impida a quién hubiese resultado electo para un cargo de elección popular tome posesión del mismo, o entorpezca o impida que desempeñe sus atribuciones.
-
-La pena prevista por este artículo se aumentará hasta una mitad a los instigadores.
+(DEROGADO, P.O. 29 DE JUNIO DE 2014)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3829,7 +3713,7 @@ Esta Ley entrará en vigor al día siguiente al de su publicación en el Periód
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a la presente.
+Se derogan todas las disposiciones que se opongan al presente.
 
 P.O. 2 DE ABRIL DE 1999
 
@@ -4015,7 +3899,7 @@ ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir d
 
 ###### ARTÍCULO TERCERO.
 
-Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 P.O. 20 DE JUNIO DE 2008.
 
@@ -4238,3 +4122,7 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 29 DE JUNIO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
