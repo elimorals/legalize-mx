@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-90551"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-11-30"
-last_updated: "2013-08-14"
+last_updated: "2014-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en la Sección Séptima del Periódico Oficial del Estado de Michoacán, el viernes 30 de noviembre de 2012.
 
@@ -353,7 +355,7 @@ V. Los procedimientos democráticos internos para la renovación de sus órganos
 
 VI. La integración de sus órganos y la precisión de sus funciones, facultades y obligaciones;
 
-VII. La obligación de presentar una plataforma electoral mínima, para cada elección en que participen, congruente con su declaración de principios y programa de acción, laque sus candidatos sostendrán en las campañas electorales;
+VII. La obligación de presentar una plataforma electoral mínima, para cada elección en que participen, congruente con su declaración de principios y programa de acción, la que sus candidatos sostendrán en las campañas electorales;
 
 VIII. Las normas internas para los procesos democráticos de selección de candidatos;
 
@@ -4277,7 +4279,7 @@ III. El denunciante presente escrito de desistimiento, siempre y cuando lo exhib
 
 ###### ARTÍCULO 314.
 
-El estudio de las causas de improcedencia o sobreseimiento se realizará de oficio. Encaso de advertir que se actualiza alguna de ellas, la Secretaría General elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+El estudio de las causas de improcedencia o sobreseimiento se realizará de oficio. En caso de advertir que se actualiza alguna de ellas, la Secretaría General elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
 
 Cuando durante la sustanciación de una investigación la Secretaría General advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
 
@@ -5314,3 +5316,77 @@ PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su pub
 P.O. 14 DE AGOSTO DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los actuales Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
+
+TERCERO. Los Magistrados del Tribunal Electoral del Estado de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
+
+CUARTO. Por única ocasión, el proceso electoral ordinario local correspondientes (sic) a las elecciones que tendrán lugar el primer domingo de junio del año 2015 iniciará en la primera semana del mes de octubre del año 2014. Para tal efecto el Instituto Electoral de Michoacán aprobará los ajustes necesarios a los plazos establecidos en el presente Código.
+
+QUINTO. La celebración de las elecciones que se verifiquen en el año 2018 se llevarán (sic) a cabo el primer domingo del mes de julio, conforme al artículo quinto transitorio contenido en la reforma que en materia político electoral se hiciera a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEXTO. Las funciones correspondientes a la fiscalización, capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, delegadas al Instituto Electoral de Michoacán por virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, se mantendrán delegadas hasta en tanto no sean reasumidas por el Consejo General del Instituto Nacional Electoral, en términos del Octavo Transitorio de dicho decreto.
+
+SÉPTIMO. En lo correspondiente a facilitar a los órganos de comités distritales y municipales, a los partidos políticos y a los representantes de candidatos independientes la información sobre seccionamiento y lista nominal de electores, hasta en tanto no se determine procedimiento por el Instituto Nacional Electoral, el Consejo General del Instituto Electoral de Michoacán determinará lo correspondiente.
+
+OCTAVO. Hasta en tanto el Instituto Nacional Electoral no ejerza su función en el rubro de geografía electoral, a efecto de determinar las secciones electorales de cada distrito electoral, la composición municipal será la siguiente:
+
+Distrito 01. Churintzio, Ecuandureo, Numarán, Penjamillo, La Piedad, Tanhuato, Yurécuaro y Zináparo. Cabecera: La Piedad.
+
+Distrito 02. Angamacutiro, Copándaro, Chucándiro, Huandacareo, José Sixto Verduzco, Morelos, Panindícuaro y Puruándiro. Cabecera: Puruándiro.
+
+Distrito 03. Aporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua. Cabecera: Maravatío.
+
+Distrito 04. Briseñas, Jiquilpan, Marcos Castellanos, Pajacuarán, Régules, Sahuayo, Venustiano Carranza y Vista Hermosa. Cabecera: Jiquilpan.
+
+Distrito 05. Chavinda, Chilchota, Ixtlán, Jacona, Tangamandapio, Tangancícuaro y Villamar. Cabecera: Jacona.
+
+Distrito 06. Zamora. Cabecera: Zamora.
+
+Distrito 07. Coeneo, Cherán, Huaniqueo, Jiménez, Nahuátzen, Purépero, Tlazazalca y Zacapu. Cabecera: Zacapu.
+
+Distrito 08. Álvaro Obregón, Cuitzeo, Charo, Indaparapeo, Santa Ana Maya, Tarímbaro y Zinapécuaro. Cabecera: Zinapécuaro.
+
+Distrito 09. Cotija, Charapan, Peribán, Los Reyes, Tancítaro, Tingüindín y Tocumbo. Cabecera: Los Reyes.
+
+Distrito 10. Morelia por la parte Noroeste, que comprende las secciones electorales siguientes: 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960, 961, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1191, 1192, 1193, 1197, 1198, 1199, 1200, 1201, 1202, 1203, 1204, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1218, 1219, 1220, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1263, 1283 y 2677. Cabecera: Morelia zona Noroeste.
+
+Distrito 11. Morelia por la parte Noreste, que comprende las secciones electorales siguientes: 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1000, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106, 1194, 1195, 1196, 1205, 1206, 1207, 1237, 1238, 1262, 1284, 1285 y 2675. Cabecera: Morelia zona Noreste.
+
+Distrito 12. Hidalgo, Irimbo, Jungapeo, Queréndaro y Túxpan. Cabecera: Hidalgo.
+
+Distrito 13. Angangueo, Ocampo y Zitácuaro. Cabecera: Zitácuaro.
+
+Distrito 14. Paracho y por la parte norte de Uruapan que comprende las secciones electorales siguientes: 2175, 2176, 2177, 2178, 2179, 2180, 2181, 2182, 2183, 2184, 2185, 2186, 2187, 2188, 2189, 2190, 2191, 2192, 2193, 2194, 2195, 2196, 2197, 2198, 2199, 2200, 2201, 2202, 2203, 2204, 2205, 2206, 2208, 2209, 2210, 2211, 2212, 2213, 2214, 2215, 2216, 2217, 2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229, 2230, 2231, 2236, 2237, 2238, 2295, 2296, 2297, 2298, 2299, 2300, 2301, 2302, 2303, 2304, 2305, 2306, 2307, 2308, 2309 y 2310. Cabecera: Uruapan zona Norte.
+
+Distrito 15. Erongarícuaro, Huiramba, Lagunillas, Pátzcuaro, Quiroga, Salvador Escalante, Tingambato y Tzintzuntzan. Cabecera: Pátzcuaro.
+
+Distrito 16. Morelia por la parte Suroeste, que comprende las secciones electorales siguientes: 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1128, 1129, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137, 1138, 1139, 1140, 1141, 1142, 1143, 1144, 1145, 1146, 1147, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155, 1156, 1157, 1158, 1159, 1160, 1161, 1162, 1163, 1164, 1165, 1166, 1167, 1168, 1169, 1170, 1215, 1216, 1217, 1221, 1222, 1239, 1240, 1247, 1248, 1249, 1250, 1251, 1264, 1265, 1266, 1267, 1268, 1271, 1272, 1277, 1281 y 1282. Cabecera: Morelia zona Suroeste.
+
+Distrito 17. Morelia por la parte Sureste, que comprende las secciones electorales siguientes: 1043, 1044, 1045, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1241, 1242, 1243, 1244, 1245, 1246, 1269, 1270, 1273, 1274, 1275, 1276, 1278, 1279, 1280, 1286 y 1287. Cabecera: Morelia zona Sureste.
+
+Distrito 18. Carácuaro, Huetamo, Juárez, Nocupétaro, San Lucas, Susupuato, Tiquicheo de Nicolás Romero, Tuzantla y Tzitzio. Cabecera: Huetamo.
+
+Distrito 19. Acuitzio, Ario de Rosales, Madero, Tacámbaro y Turicato. Cabecera: Tacámbaro.
+
+Distrito 20. Nuevo Parangaricutiro, Taretan, Ziracuaretiro y la parte Sur de Uruapan que comprende las secciones electorales siguientes: 2207, 2232, 2233, 2234, 2235, 2239, 2240, 2241, 2242, 2243, 2244, 2245, 2246, 2247, 2248, 2249, 2250, 2251, 2252, 2253, 2254, 2255, 2256, 2257, 2258, 2259, 2260, 2261, 2262, 2263, 2264, 2265, 2266, 2267, 2268, 2269, 2270, 2271, 2272, 2273, 2274, 2275, 2276, 2277, 2278, 2279, 2280, 2281, 2282, 2283, 2284, 2285, 2286, 2287, 2288, 2289, 2290, 2291, 2292, 2293, 2294, 2311, 2312, 2313, 2314, 2315 y 2316. Cabecera: Uruapan zona Sur.
+
+Distrito 21. Aguililla, Aquila, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila y Tepalcatepec. Cabecera: Coalcomán de Vázquez Pallares.
+
+Distrito 22. Arteaga, Churumuco, Gabriel Zamora, La Huacana, Múgica, Nuevo Urecho y Tumbiscatío. Cabecera: Múgica.
+
+Distrito 23. Apatzingán y Parácuaro. Cabecera: Apatzingán.
+
+Distrito 24. Lázaro Cárdenas. Cabecera: Lázaro Cárdenas.
+
+En la elección para Gobernador del Estado se considerarán los votos sufragados en el extranjero.
+
+NOVENO. Para efectos de lograr una norma que precise de manera más amplia sobre los criterios sustantivos y de procedimiento que regulen el sistema de elección por usos y costumbres, el Congreso desarrollará un proceso de consulta a los pueblos y comunidades indígenas del Estado, bajo los principios que regula el Derecho Internacional de los Derechos Humanos, en particular los de la materia, este proceso debe desarrollarse dentro de los noventas días contados a partir de que sea vigente la normatividad que regule el derecho de consulta a los pueblos indígenas. Éste último, deberá aprobarse dentro de los ciento veinte días siguientes de la publicación del presente decreto.
+
+DÉCIMO. Se abroga el Código Electoral del Estado de Michoacán publicado con fecha 30 de noviembre del 2012, en el Periódico Ocampo (sic).
+
+DÉCIMO PRIMERO. Notifíquese el presente Decreto a los Titulares de los poderes Ejecutivo y Judicial, de los Órganos Constitucionales Autónomos y los Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como al Instituto Nacional Electoral y la Presidencia de las Cámaras del Congreso de la Unión, para su conocimiento.
