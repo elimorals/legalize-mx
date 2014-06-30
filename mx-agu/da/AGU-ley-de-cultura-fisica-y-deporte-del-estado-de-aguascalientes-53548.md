@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2012-03-05"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de enero de 2007.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
 LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -1041,6 +1041,8 @@ El Instituto del Deporte del Estado de Aguascalientes, en coordinación con la S
 
 ### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 89.
 
 Como parte de la rehabilitación de los internos de los centros penitenciarios del Estado, el Instituto del Deporte del Estado de Aguascalientes, propondrá los programas a desarrollar y facilitará la asesoría en materia de capacitación a instructores deportivos.
@@ -1053,11 +1055,11 @@ El Instituto del Deporte del Estado de Aguascalientes en coordinación con la Se
 
 ###### Artículo 91.
 
-Independientemente de los requisitos que establezcan los municipios del Estado y otras dependencias, correspondiente a la apertura de clínicas y gimnasios deportivos, el Instituto del Deporte del Estado de Aguascalientes, supervisará que las personas que impartan nociones de cultura y acondicionamiento físico, cuenten con los conocimientos necesarios y estén debidamente certificados por expertos en la materia.
+lndependientemente de los requisitos que establezcan los Municipios, el Estado y otras dependencias correspondientes a la apertura de clínicas y gimnasios deportivos, el IDEA, supervisará que los entrenadores deportivos que fomentan el desarrollo de la cultura física y el deporte en todas sus manifestaciones, cuenten con los conocimientos necesarios y estén debidamente certificados.
 
-A quienes cuenten con los conocimientos teóricos prácticos necesarios, pero no tuvieren la certificación correspondiente, el Instituto del Deporte, podrá mediante examen de conocimiento otorgar dicho reconocimiento y certificación.
+El IDEA tendrá a su cargo la operación y administración del Programa de Formación y Capacitación para el Desarrollo del Deporte, cuyo objeto será coadyuvar en la formación, capacitación, actualización y certificación de entrenadores deportivos para la enseñanza y práctica del deporte en términos de los lineamientos que para el efecto emita la CONADE. Asimismo, el IDEA deberá evaluar, por lo menos una vez al año, a los entrenadores deportivos.
 
-Asimismo, el Instituto del Deporte deberá evaluar por lo menos una vez al año, a los instructores deportivos, poniendo a la disposición de los propietarios de dichos negocios seminarios de actualización sobre las distintas disciplinas.
+Para tal efecto, el IDEA impartirá y validará cursos, talleres, diplomados, congresos, coloquios, clínicas, foros, simposiums, así como especialidades en materia de deporte y cultura física, brindando apoyo y asesoría a las Asociaciones Deportivas y público en general.
 
 ### CAPITULO DECIMO OCTAVO. De la Cultura Física y el Deporte de los Trabajadores del Estado
 
@@ -1636,3 +1638,17 @@ P.O. 5 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial en el Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El IDEA creará un padrón de las clínicas y gimnasios deportivos en el Estado, así como un registro de entrenadores deportivos de la cultura física y del deporte en el Estado con el objeto de realizar anualmente las certificaciones a que se refiere el Artículo 91 de la Ley de Cultura Física y Deporte del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se deberán realizar las modificaciones reglamentarias pertinentes de conformidad con el presente Decreto.
