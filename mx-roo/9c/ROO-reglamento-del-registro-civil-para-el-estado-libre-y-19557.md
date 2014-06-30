@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-registro-civil-para-el-estado-libre-y-19557"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2001-01-31"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL REGISTRO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 31 de enero de 2001.
 
@@ -105,7 +105,7 @@ VIII.- No encontrarse inhabilitado para ejercer profesión y gozar de buena repu
 
 ###### Artículo 7.
 
-El Directo General del Registro Civil tendrá las siguientes atribuciones y obligaciones:
+El Director General del Registro Civil tendrá las siguientes atribuciones y obligaciones:
 
 I.- Ser depositario de la fe pública registral, donde conste el estado civil de la personas, para cuyo pleno ejercicio se auxiliará de los Oficiales del Registro y demás funcionarios que así lo determine;
 
@@ -123,13 +123,15 @@ VII.- Proponer a la Secretaría de Gobierno las reformas, modificaciones y adici
 
 VIII.- Cumplir los acuerdos, convenios e instrucciones del Ejecutivo Estatal, y las comisiones que éste le confiera;
 
-IX.- Imprimir y distribuir anualmente la Clave de Registro e Identidad Personal (CRIP) para el registro de nacimientos en todas las Oficialías;
+IX.- (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 X.- Apoyar y vigilar el procedimiento de asignación de la Clave Única de Registro de Población(CURP) y ordenar la concentración de la información de las actas y anotaciones marginales, para ser enviadas oportunamente a las dependencias y entidades de la administración pública federal con las que se hayan celebrado previamente acuerdos al respecto. Asimismo, ordenar la elaboración de la información que sea requerida por la Secretaría de Gobernación, por conducto de la Dirección General del Registro Nacional de Población e Identificación Personal para la elaboración de la Cédula de Identidad Ciudadana;
 
 XI.- Celebrar actos del estado civil con las atribuciones de Oficial en casos extraordinarios en todo el Estado;
 
-XII.- Autorizar con su firma la expedición de certificaciones de actas que obren en los libros o formas del archivo a su cargo;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XII.- Autorizar con su firma autógrafa, digital o firma electrónica avanzada la expedición de certificaciones de actas que obren en los libros o formas del archivo a su cargo;
 
 XIII.- Planear y coordinar la capacitación, actualización y profesionalización del personal a su cargo;
 
@@ -159,7 +161,9 @@ XXV.- Autorizar al jefe del área de archivo, en su caso, que expida las copias 
 
 XXVI.- Ordenar al jefe del Área de Archivo la reposición o restauración de libros y documentos deteriorados, destruidos o extraviados y efectuar las anotaciones marginales necesarias;
 
-XXVII.- Supervisar el cumplimiento del adecuado funcionamiento del Sistema Nacional para la solicitud, trámite y obtención de certificaciones de actas del Registro;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XXVII.- Supervisar el cumplimiento del adecuado funcionamiento del Sistema Nacional para la solicitud, trámite y obtención de certificaciones de actas de Registro a través del Sistema para la Inscripción y Certificación de los Actos del Estado Civil de las Personas (Sic);
 
 XXVIII.- Ordenar la compulsa de las actas que integran los libros de las Oficialías con los que correspondan al archivo de la Dirección General;
 
@@ -167,7 +171,9 @@ XXIX.- Autorizar la expedición de certificaciones de los asientos, actas y acto
 
 XXX.- Normar, organizar y operar la captura y procesamiento electrónico de la información de las actas del Registro civil que se generen;
 
-XXXI.- Recabar mensualmente de las Oficialías del Registro Civil los datos estadísticos de los movimientos de actas del estado civil de las personas, a efecto de hacer llegar oportunamente a las oficinas estatales del Instituto Federal Electoral y del Padrón Electoral, la información que la ley de la materia establece;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XXXI.- Recabar mensualmente de las Oficialías del Registro Civil los datos estadísticos de los movimientos de actas del estado civil de las personas, a efecto de hacer llegar oportunamente a las oficinas estatales del Instituto Nacional de Estadística y Geografía y del Instituto Nacional Electoral, la información que la ley de la materia establece;
 
 XXXII.- Proponer la apertura de nuevas Oficialías o el cambio de ubicación de las ya existentes, así como el nombramiento y cambio de los titulares de las unidades administrativas;
 
@@ -799,7 +805,7 @@ a) La personalidad, con poder notarial, con el que comparezca el apoderado espec
 
 b) La dispensa de edad concedida al menor para contraer matrimonio;
 
-c) La dispensa del tutor o curador para contraer matrimonio con la persona que ha estado está(SIC) bajo su guarda;
+c) La dispensa del tutor o curador para contraer matrimonio con la persona que ha estado está (sic) bajo su guarda;
 
 II.- La copia certificada del acta de matrimonio que se transcriba, cuando se trate de mexicanos casados en el extranjero;
 
@@ -1278,3 +1284,11 @@ Gobernador Constitucional del Estado
 Lic. José Irabien Medina
 
 Secretario de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se deroga toda disposición de igual o menor jerarquía que se oponga al presente Decreto.
