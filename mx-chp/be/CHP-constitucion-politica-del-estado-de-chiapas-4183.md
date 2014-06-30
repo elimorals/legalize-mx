@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-06-25"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -453,9 +453,7 @@ V. Participar en los plebiscitos que convoque el Ejecutivo del Estado e iniciar 
 
 VI. Afiliarse libre, personal e independientemente a un partido político.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
-
-VII. Ejercer la democracia participativa conformando Asambleas de Barrio en términos de esta constitución y la ley en materia.
+VII. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 VIII. Exigir que los actos de los Poderes del Estado sean transparentes y públicos.
 
@@ -975,9 +973,11 @@ III. Crear y suprimir empleos de la Administración Pública Estatal y señalar 
 
 IV. Legislar, de manera enunciativa más no limitativa, en las materias educativa en los términos del artículo 3° de esta Constitución, económica, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, equidad de género, gobierno electrónico, acceso a internet en espacios públicos, protección y preservación del patrimonio histórico y cultural del Estado.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-V. Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le presente el Ejecutivo del Estado, dentro de los primeros seis meses en que éste inicie su mandato, así como los planes regionales y sectoriales para el desarrollo del Estado y los que presenten los Ayuntamientos para el periodo de su encargo; además, examinar y emitir opinión sobre la evaluación anual del nivel de cumplimiento de dichos planes.
+V. Examinar y aprobar el Plan Estatal de Desarrollo, los programas sectoriales, especiales y regionales para el desarrollo que presente el Ejecutivo del Estado, así como los Planes Municipales de Desarrollo que presenten los Ayuntamientos para el periodo de su encargo. En caso de que el Congreso no se pronuncie en los plazos establecidos en la ley de la materia, se considerarán aprobados dichos Planes y Programas.
+
+Además, examinará y emitirá opinión sobre la evaluación anual del nivel de cumplimiento de dichos Planes y Programas, conforme a la ley de la materia.
 
 VI. Conceder al Ejecutivo por un tiempo limitado y con la aprobación de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en caso de invasión, alteración o peligro públicos, o requerirlo así la administración general del Estado. El Ejecutivo deberá dar cuenta del uso que haga de las facultades conferidas, en el siguiente periodo ordinario de sesiones.
 
@@ -1401,7 +1401,17 @@ XXX. Atender el fenómeno global del cambio climático, a través de acciones qu
 
 XXXI. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los tratados internacionales; así como cuidar el cumplimiento de la presente Constitución y de las leyes, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes.
 
-XXXII. Las demás que le confiera esta Constitución y las leyes que de ella emanen para elevar el índice de desarrollo humano y calidad de vida de la población del Estado y de los municipios que lo integran.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XXXII. Presentar al Congreso del Estado, el Plan Estatal de Desarrollo así como los programas sectoriales, especiales y regionales que de él deriven, para su examinación y aprobación correspondiente, los cuales deberán ser publicados en los términos y condiciones establecidas en las leyes de la materia.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XXXIII. Evaluar el nivel de cumplimiento del Plan Estatal de Desarrollo así como de los programas sectoriales, especiales y regionales que de él deriven, y en general fomentar la práctica de la evaluación en la administración pública.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XXXIV. Las demás que le confiera esta Constitución y las leyes que de ella emanen, para elevar el índice de desarrollo humano y calidad de vida de la población del Estado y de los Municipios que lo integran.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2231,7 +2241,7 @@ El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde
 
 VIII. Las relaciones de trabajo entre los municipios y sus Trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO I. DE LOS OBJETIVOS DE DESARROLLO DEL MILENIO DEL PROGRAMA DE LAS NACIONES UNIDAS PARA EL DESARROLLO
 
@@ -2239,7 +2249,9 @@ VIII. Las relaciones de trabajo entre los municipios y sus Trabajadores, se regi
 
 ###### Artículo 71.
 
-Para atender el fenómeno global del cambio climático, así como para coadyuvar al desarrollo sustentable, el Plan de Desarrollo Municipal contendrá las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos.
+Los Ayuntamientos del Estado de Chiapas deberán elaborar y entregar sus Planes Municipales de Desarrollo al Congreso del Estado para su examen y aprobación correspondiente, en los términos y condiciones que establezcan las leyes de la materia.
+
+El Plan de Desarrollo Municipal contendrá las políticas públicas en materia de Desarrollo Económico, Social, Humano y Sustentable, incluyendo además, las políticas para la adaptación al cambio climático y la mitigación de sus efectos adversos para atender dicho fenómeno global.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2463,11 +2475,9 @@ La propaganda bajo cualquier modalidad de comunicación social, que difundan com
 
 La transparencia del servicio público y el derecho a la información serán garantizados por el Estado, en los términos de la legislación de la materia.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
-
 ###### Artículo 91.
 
-Los ciudadanos tendrán derecho a constituirse en Asambleas de Barrios como organismos sociales para tomar acciones comunitarias y ejercer de manera transparente y solidaria los recursos que se les otorgue para obras de beneficio colectivo, teniendo la obligación de la rendición de cuentas, impulsando la democracia participativa en el Entidad, en el ámbito de competencia de los gobiernos Estatal y Municipal.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4368,3 +4378,27 @@ Artículo Octavo.- El Congreso del Estado proveerá lo necesario para el nombram
 Artículo Noveno.- La Secretaria de Hacienda dispondrá en tiempo y forma, previo a la nueva instalación del Consejo General del Instituto de Elecciones y Participación Ciudadana, la ampliación presupuestal para el cumplimiento de las disposiciones constitucionales a que se refiere el presente decreto y para el debido desarrollo del proceso electoral local ordinario 2014-2015.
 
 Artículo Décimo.- Las disposiciones relativas a Candidaturas Independientes entrarán en vigor a partir del proceso electoral local ordinario 2014-2015.
+
+P.O. 30 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 519, POR EL QUE SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 12 Y EL ARTÍCULO 91 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Con el fin de que se siga ejerciendo la democracia participativa en el Estado, se conformarán los Órganos que para tal efecto se creen, los cuales estarán sujetos a las disposiciones que se establezcan en la Ley de la materia.
+
+P.O. 30 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 520, POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 30; LA FRACCIÓN XXXII DEL ARTÍCULO 44; EL ARTÍCULO 71; SE ADICIONAN LAS FRACCIONES XXXIII Y XXXIV AL ARTÍCULO 44; TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los plazos relativos a la presentación de los Planes y Programas de Desarrollo Estatal y Municipal correspondientes, así como las evaluaciones de cumplimiento a que hace referencia la fracción V del artículo 30, serán establecidos en las leyes de la materia.
+
+Sin perjuicio de la implementación de la presente reforma, las evaluaciones de nivel de cumplimiento de los primeros dos años de la actual administración, se realizarán en el año 2015.
+
+Artículo Cuarto.- Se realizarán las adecuaciones que sean necesarias a las normas secundarias en materia de Planeación para el Desarrollo, dentro de un plazo de 90 días naturales siguientes a la publicación del presente Decreto en el Periódico oficial.
