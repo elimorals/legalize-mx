@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2013-07-20"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -73,7 +73,9 @@ En los términos de la Ley General de Salud y de la presente Ley, corresponde al
 
 A.- EN MATERIA DE SALUBRIDAD GENERAL:
 
-I.- Atención médica, preferentemente en beneficio de los grupos social y económicamente vulnerables;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+I.- Atención médica, preferentemente en beneficio de los grupos social y económicamente vulnerables; así como atención médica gratuita a los jóvenes menores de 18 años, sin distinción de su condición social, económica, cultural y étnica;
 
 II.- Atención materno infantil;
 
@@ -1599,6 +1601,8 @@ IV.- Efectos de abusos de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPÍTULO IV. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 171.
 
 La Secretaría de Salud del Estado, en materia de manejo, tratamiento y rehabilitación de personas afectadas por el alcoholismo, vigilará el cumplimiento de las Normas Oficiales Mexicanas vigentes en este rubro, en establecimientos públicos y privados.
@@ -1611,31 +1615,29 @@ El Gobierno del Estado y los Ayuntamientos, a través del Consejo Estatal Contra
 
 ###### ARTÍCULO 173.
 
-La Secretaría de Salud coordinará acciones con el Consejo Estatal Contra las Adicciones y los Gobiernos Municipales con el fin de dar difusión al Programa Contra el Tabaquismo que comprenderá:
+La Secretaría de Salud, sin menoscabo de lo previsto en el Capítulo Tercero de la Ley de Protección Contra la Exposición al Humo de Tabaco del Estado de Baja California Sur, coordinará acciones con el Consejo Estatal Contra las Adicciones y los gobiernos Municipales con el fin de dar difusión al Programa Contra el Tabaquismo que comprenderá:
 
 I.- La prevención del hábito del tabaquismo y el tratamiento de padecimientos originados por esta causa;
 
 II.- La información sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes y jóvenes, a través de métodos individuales, colectivos o de comunicación masiva; y
 
-III.- Vigilar el cumplimiento del reglamento sobre el consumo de tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+III.- Vigilar el cumplimiento de la Ley de Protección Contra la Exposición al Humo de Tabaco del Estado de Baja California Sur.
 
 ###### ARTÍCULO 174.
 
-El Gobierno del Estado y los Ayuntamientos, coadyuvarán a la observancia del reglamento federal de publicidad de tabaco.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### ARTÍCULO 175.
 
-Con el objeto de proteger la salud de las personas no fumadoras de los efectos de la inhalación involuntaria de humos producidos por la combustión de tabaco, en cualquiera de sus formas, queda prohibido:
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
-I.- Fumar en los edificios en los que funcionen oficinas o dependencias de los Poderes Ejecutivo, Legislativo y Judicial, de los Ayuntamientos, medios de transporte público, locales cerrados, establecimientos donde se expenden alimentos para su consumo, así como hospitales, clínicas, estancias infantiles, con excepción de las áreas reservadas para fumadores que se delimiten en los edificios y locales a que se refiere el presente artículo;
-
-II.- La venta de cigarros en empaque o a granel dentro de las farmacias, boticas, hospitales, escuelas públicas y privadas; y
-
-III.- La inspección y vigilancia del cumplimiento de las disposiciones que se desprendan del presente artículo y su reglamento, estará a cargo de la Secretaría de Salud del Estado y de las dependencias municipales que los Ayuntamientos designen.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 176.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+Para poner en práctica las acciones contra el tabaquismo, en conjunto con lo dispuesto por la Ley de Protección Contra la Exposición al Humo de Tabaco del Estado de Baja California Sur, se tendrán en cuenta los siguientes aspectos:
 
 I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas;
 
@@ -3182,3 +3184,55 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE JUNIO DE 2014.
+
+DECRETO No. 2167, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 173, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 176; Y SE DEROGA EL CONTENIDO DE LOS ARTÍCULOS 174 Y 175 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo del Estado deberá emitir el reglamento al que se refiere la presente ley, en un término no mayor a los sesenta días hábiles posteriores a la publicación del presente decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, tomando en cuenta, de manera enunciativa y no limitativa, los siguientes aspectos:
+
+I.- Los lineamientos para el establecimiento de la señalización de los espacios 100% libres de humo de tabaco y de los espacios al aire libre para fumar, así como su distancia entre estos; y
+
+II.- Los procedimientos que garanticen la eficacia de las disposiciones del presente decreto;
+
+###### ARTÍCULO TERCERO.
+
+Los titulares de todas de las dependencias y entidades de los tres poderes de gobierno del Estado de Baja California Sur y sus municipios, contarán con treinta días hábiles para informar a los trabajadores de la dependencia sobre la ley expedida, para que el área administrativa que corresponda coloque la señalización respectiva e inicien la vigilancia de su cumplimiento. Los órganos de control interno o las áreas encargadas de esta función en las diferentes oficinas de las dependencias y entidades de estos tres poderes del gobierno del estado y los municipios, según corresponda, deberán incorporar en sus programas de auditoría, la verificación del cumplimiento de esta ley después de noventa días de su entrada en vigor, y deslindar las responsabilidades a que hubiera lugar.
+
+###### ARTÍCULO CUARTO.
+
+Los propietarios, poseedores, responsables, administradores o quien obtenga algún provecho de los espacios 100% libres de humo de tabaco especificados, contarán con un plazo de treinta días naturales para informar a sus trabajadores y empleados, dependientes, personal docente y administrativo, usuarios, entre otros, sobre la aplicación de las disposiciones del presente Decreto, y capacitar e iniciar el proceso educativo social que conlleva. En ese periodo deberán colocar la señalización correspondiente, implementar, cumplir y vigilar el cumplimiento de la ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de esta ley, la Secretaría de Salud contará con un plazo de noventa días hábiles para la instalación de una línea telefónica para la denuncia ciudadana y para la elaboración y difusión del manual de señalamientos que deberá colocarse en los vehículos y establecimientos, a que hace referencia el presente ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta ley, iniciados con anterioridad a la entrada en vigor de la presente ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+B.O. 30 DE JUNIO DE 2014.
+
+DECRETO No. 2165, POR EL QUE SE REFORMA LA FRACCIÓN I DEL APARTADO A DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo del Estado realizara las adecuaciones y modificaciones a la reglamentación atinente en un plazo de noventa días naturales contados a partir de la publicación del presente decreto a efecto de hacer efectiva la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado, en coordinación con el Poder Legislativo, implementará un programa de difusión del derecho a que se refiere el presente decreto para la juventud y la niñez sudcaliforniana.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que contravengan el presente decreto.
