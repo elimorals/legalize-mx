@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-juventud-para-el-estado-de-baja-california-sur-95290"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2014 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de julio de 2013.
 
@@ -285,9 +287,35 @@ El Estado y los ayuntamientos impulsarán acciones que hagan efectiva la partici
 
 #### SECCIÓN PRIMERA. DERECHO A LA SALUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-Los jóvenes tienen el derecho a la salud integral, que se traduce en su bienestar físico, mental y social.
+Las y los jóvenes de Baja California Sur, tienen el derecho a la protección de su salud. Por lo tanto, el Gobierno del Estado, a través de la Secretaria de Salud, ofrecerá atención específicamente dirigida a las y los jóvenes, afín a sus necesidades y particularidades, observando lo siguiente:
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+I).- Asumiendo el pleno respeto al derecho de las y los jóvenes a la salud integral y de calidad, garantizará la atención primaria gratuita, así como el cuidado especializado de la salud juvenil, que deberá estar proporcionada por los servicios de salud del Estado y Municipios en los Centros de Salud de la entidad.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+II).- Con base en la igualdad de oportunidades y con perspectiva de género, garantizará el acceso al sistema de salud de todas y todos los jóvenes a través de servicios, acciones, líneas de atención y actividades de prevención, garantizando la igualdad en el trato sin discriminación.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+III).- Brindará a la juventud del Estado en los diferentes Centros de Salud de la entidad, información científica adecuada, de calidad, objetiva, de manera gratuita y con pleno respeto al estado laico, principalmente en las consultas relacionadas con la salud sexual y/o reproductiva, que promuevan la sexualidad responsable y la prevención del embarazo temprano, garantizando el acceso a los diferentes métodos anticonceptivos tanto para hombres como para mujeres.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+IV).- En coordinación con la Secretaría de Educación Pública del Estado, promoverá la afiliación gratuita de las y los estudiantes al sistema de seguridad social.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 27 BIS.- La Secretaría de Educación Pública del Estado, los ayuntamientos y las organizaciones de la sociedad civil, coadyuvarán en la promoción entre la juventud, a través de proyectos, programas y campañas, de los servicios médicos y las diferentes modalidades de afiliación a la seguridad médico-social a las que tienen derecho, así como los hábitos de vida saludable y de prevención de riesgos de salud a los que están expuestos.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+ARTÍCULO 27 TER.- El personal que labora en los Poderes Legislativo, Ejecutivo Judicial del Estado de Baja California Sur, así como en sus diferentes dependencias está obligado a canalizar a través (sic) la Secretaría de Salud, los casos de jóvenes que demuestren afectación psicológica, mental, emocional o datos de violencia contra sí mismos o contra otras personas, para ser atendidos de manera gratuita e inmediata a través de los servicios que para ello existen dentro del sistema de salud vigente.
 
 ###### ARTÍCULO 28.
 
@@ -296,6 +324,10 @@ Las autoridades sanitarias velarán por la plena efectividad del derecho a la sa
 ###### ARTÍCULO 29.
 
 El Estado y los ayuntamientos diseñarán políticas públicas dirigidas a la prevención, atención y control de embarazos de mujeres jóvenes y adolescentes, para inhibir las consecuencias sociales y económicas que se ocasionan ante la sociedad, y abatir las necesidades que se generan en la población afectada.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Las políticas públicas y mecanismos a que se refiere el párrafo anterior, deberán garantizar el acceso de las y los jóvenes a servicios de atención médica, psicológica y/o informativa, en las que se incluya la provisión de información completa, objetiva y científica, sin discriminación, de manera gratuita y con estricto respeto de los derechos de confidencialidad y de privacidad.
 
 #### SECCIÓN SEGUNDA. DERECHO A LA EDUCACIÓN
 
@@ -358,6 +390,10 @@ El Estado y los ayuntamientos fomentarán el desarrollo de políticas públicas 
 Las funciones que desempeñe un empleado joven en su primer empleo deberán ser adecuadas al nivel de formación y preparación académica.
 
 Las empresas que contraten a jóvenes en la modalidad de primer empleo recibirán los beneficios y estímulos económicos que señale la normatividad fiscal y económica.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+El Gobierno del Estado, en conjunto con los ayuntamientos, implementarán programas de sensibilización dirigidos a funcionarios y funcionarias de todos los niveles, así como a empresarios, empresarias y al público en general, para erradicar prácticas discriminatorias con motivo de edad, sexo, orientación sexual, etnia, credo religioso, ideología política, estado de salud o condición social, en lo que respecta a la creación de espacios laborales para la juventud de la entidad.
 
 ###### ARTÍCULO 38.
 
@@ -1246,3 +1282,9 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE JUNIO DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
