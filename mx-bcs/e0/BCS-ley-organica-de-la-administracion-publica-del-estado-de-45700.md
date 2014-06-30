@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2013-06-10"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -513,9 +513,9 @@ k) Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyect
 
 l) Cuando proceda conforma a las normas vigentes, condonar multas por infracción a las disposiciones fiscales estatales, así como las multas por infracción a las disposiciones fiscales federales cuando esta facultad haya sido delegada al Estado mediante convenio;
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
-m) Proponer al Gobernador del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
+m) Cancelar créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
 
 III. En materia de deuda pública:
 
@@ -1606,3 +1606,9 @@ Artículo Cuarto.- Los convenios, actos jurídicos, asuntos pendientes y en trá
 Artículo Quinto.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales y administrativas vigentes, en que se haga alusión a la Secretaría de Seguridad Pública o Secretario de Seguridad Pública, se entenderán referidos a la Secretaría General de Gobierno y a su Titular, a partir de la entrada en vigor del presente Decreto.
 
 Artículo Sexto.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales y administrativas vigentes, en que se haga alusión a la Secretaría de la Consejería Jurídica, Dirección General de Asuntos Jurídicos y Estudios Legislativos, así como sus titulares, se entenderán referidos a la Secretaría General de Gobierno y a su Titular, a partir de la entrada en vigor del presente Decreto.
+
+B.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
