@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2014-01-27"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE JULIO DE 2014, EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -257,9 +259,11 @@ IV.- Gozar de buena reputación.
 
 En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos idóneos que corroboren el dicho de los interesados. Todos deberán firmar las actas o estampar su huella dactilar, debiéndose imprimir en ellas el sello de la Oficialía.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 39.
 
-En el Estado de Baja California Sur, estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas a nacimientos, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el Estado; así como anotar la emancipación por matrimonio e inscribir las ejecutorias que declaren la ausencia, el otorgamiento de la tutela, la presunción de muerte, la pérdida o suspensión de derechos de familia y la limitación de la capacidad legal para administrar bienes.
+En el Estado de Baja California Sur, estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas a nacimientos, reconocimientos de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros y residentes en el Estado. Así como inscribir las ejecutorias que declaren la ausencia, el otorgamiento de la tutela, la presunción de muerte, la pérdida o suspensión de derechos de familia, y la limitación de la capacidad legal para administrar bienes.
 
 ###### Artículo 40.
 
@@ -567,7 +571,7 @@ Al escrito a que se refiere el artículo anterior, se acompañará:
 
 I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes o, en su defecto, un dictamen médico que compruebe la edad de ambos, cuando por su aspecto no sea notorio que ambos contrayentes son mayores de 18 años;
 
-II.- La constancia de que han prestado su consentimiento para que el matrimonio se celebre, las personas que ejercen la patria potestad, la tutela o el Juez, en su caso, si uno o ambos pretendientes son menores de edad;
+II.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimentos legales para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -577,7 +581,7 @@ Los laboratorios encargados de los servicios de sanidad de carácter oficial, ti
 
 V.- El convenio o capitulaciones que los pretendientes deben celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
 
-Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
 
 No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio y el Oficial del Registro Civil está obligado a asesorarlos e incluso a redactarlo a petición de los interesados. Si no expresan su voluntad en ningún sentido, se entenderá que se casan bajo el régimen de separación de bienes.
 
@@ -607,9 +611,11 @@ IX.- Constancia de haber recibido pláticas e información sobre violencia famil
 
 El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos previstos en los artículos anteriores, fijará el lugar, fecha y hora para la celebración del matrimonio, dentro de los ocho días siguientes.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 102.
 
-Antes de iniciar la ceremonia el Oficial del Registro Civil hará que los pretendientes, así como los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas y que los testigos ratifiquen su declaración bajo protesta de decir verdad, identificando plenamente a los contrayentes.
+Antes de iniciar la ceremonia el oficial del Registro Civil hará que los pretendientes, reconozcan ante él y por separado sus firmas y que los testigos ratifiquen su declaración bajo protesta de decir verdad, identificando plenamente a los contrayentes.
 
 ###### Artículo 103.
 
@@ -625,11 +631,13 @@ Se levantará luego el acta de matrimonio en la que se hará constar:
 
 I.- Los nombres, apellidos, nacionalidad, edad, ocupación, domicilio, lugar y fecha de nacimiento de los contrayentes, y la Clave Única de Registro de Población asignada si se tuviere;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+II.- Que son mayores de edad;
 
 III.- Los nombres, apellidos, ocupación, nacionalidad y domicilio de los padres de los contrayentes;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o de la autoridad judicial, en su caso, si los contrayentes son menores de edad;
+IV.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
 
 V.- Que no hubo impedimento para el matrimonio o que se otorgó dispensa;
 
@@ -791,7 +799,7 @@ Una vez levantada el acta de defunción, se mandará hacer la anotación margina
 
 ###### Artículo 135.
 
-En los casos de emancipación por efecto del matrimonio, no se extenderá acta por separado, sino que el Oficial del Registro Civil anotará en el acta de nacimiento del cónyuge o cónyuges, esta circunstancia.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO IX. De la inscripción de las ejecutorias que declaran o modifican el estado civil o la pérdida o suspensión de los derechos de familia
 
@@ -929,35 +937,31 @@ Tratándose de mexicanos que se casen en el extranjero, pero que tengan o fijen 
 
 ### CAPÍTULO II. De los requisitos para contraer matrimonio
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 157.
 
-Para contraer matrimonio el hombre debe haber cumplido 18 años y la mujer 16.
+Para contraer matrimonio el hombre y la mujer deben tener 18 años cumplidos.
 
 ###### Artículo 158.
 
-Los jueces de Primera Instancia Familiar o Mixto, pueden conceder dispensas de edad por causas graves y justificadas.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 159.
 
-Quienes no hayan cumplido 18 años sólo pueden contraer matrimonio con el consentimiento de quienes ejerzan la patria potestad o la tutela.
-
-Faltando quienes deben otorgar el consentimiento, lo suplirá el Juez de Primera Instancia de la residencia del menor.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 160.
 
-Cuando los que ejerzan la patria potestad o la tutela nieguen su consentimiento o revoquen el que hubieren concedido, el interesado puede recurrir ante el Juez de Primera Instancia competente para que supla el consentimiento, si lo juzga prudente, después de oír a las partes.
-
-Si el Juez se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados podrán ocurrir al Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 161.
 
-La persona que ha prestado su consentimiento ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya causa para ello.
-
-El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 162.
 
-Si la persona que ejerce la patria potestad o la tutela autorizó la celebración del matrimonio, y falleciere antes de que se celebre éste, su consentimiento no puede ser revocado por la persona que en su defecto tendría el derecho de otorgarlo, salvo que haya una causa superveniente, y siempre que el matrimonio se efectúe dentro del plazo legal.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO III. De los impedimentos para contraer matrimonio
 
@@ -965,7 +969,7 @@ Si la persona que ejerce la patria potestad o la tutela autorizó la celebració
 
 Son impedimentos para celebrar el matrimonio:
 
-I.- La falta de edad requerida por la ley, si ésta no ha sido dispensada;
+I.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
 
 II.- La falta de consentimiento del que, o los que, ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
 
@@ -987,19 +991,23 @@ X.- La enajenación mental incurable, el idiotismo y la imbecilidad; y
 
 XI.- El matrimonio subsistente con persona distinta de aquélla con la que se pretende contraer.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 164.
 
-De estos impedimentos sólo son dispensables la falta de edad, el parentesco de (sic) consanguinidad en línea colateral en el tercero y cuarto grados, siempre que existan causas que lo justifiquen.
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral en el tercero y cuarto grados, siempre que existan causas que lo justifiquen. También será dispensado el impedimento señalado en la fracción IX, siempre y cuando los contrayentes manifiesten por escrito al oficial· del Registro Civil, estar plenamente enterados de dicho impedimento.
 
 ###### Artículo 165.
 
 La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo, o presente ante el Oficial del Registro Civil un certificado expedido por un centro de salud pública, en el cual conste que no se encuentra embarazada al momento de solicitar el matrimonio.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 166.
 
-El tutor no puede contraer matrimonio con la persona que está o ha estado bajo su guarda a no ser que obtenga dispensa, la que no se le concederá por el Juez competente, sino hasta cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+El tutor no puede contraer matrimonio con la persona que está o ha estado bajo su guarda. Esta prohibición comprende también al curador, a los descendientes de éste y del tutor.
 
-Si el matrimonio se celebrase en contravención de lo dispuesto en este artículo, el Juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+Si se llegare a celebrar ilícitamente matrimonio en contravención de lo dispuesto en este artículo, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre, dando vista al Ministerio Público.
 
 ### CAPÍTULO IV. De los derechos y obligaciones que nacen del matrimonio
 
@@ -1077,7 +1085,7 @@ Las capitulaciones matrimoniales, la modificación de éstas, o el cambio de ré
 
 ###### Artículo 180.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas, si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO VI. De la sociedad conyugal
 
@@ -1205,9 +1213,11 @@ Cuando se solicite la suspensión legal de la sociedad conyugal, se procederá d
 
 La sociedad conyugal termina por disolución del matrimonio, por voluntad de los cónyuges, a solicitud de uno de ellos, por sentencia que declare la presunción de muerte del cónyuge ausente y en los supuestos previstos en el artículo 200, pero en todos estos casos se requiere de resolución judicial.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 199.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los esposos, solicitando al Juez de su domicilio que autorice el cambio de régimen y proceda a la liquidación de los bienes comunes. En el caso de que los cónyuges sean menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas que deben otorgarlo para la celebración del matrimonio. Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo conviene (sic) los esposos, solicitando al uez (sic) de su domicilio que autorice el cambio de régimen y proceda a la liquidación de los bienes comunes.
 
 ###### Artículo 200.
 
@@ -1277,9 +1287,11 @@ Puede haber separación de bienes en virtud de las capitulaciones anteriores al 
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones que regulan la separación, serán objeto de la sociedad conyugal que deben constituir los cónyuges o, en su defecto, de las normas supletorias de este Código.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 212.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal, mediante capitulaciones otorgadas ante el Juez del domicilio, pero si los consortes son menores de edad, deben concurrir a su otorgamiento, las personas facultadas para autorizar el matrimonio. Lo mismo se observará cuando el régimen de separación de bienes se modifique durante la minoridad de los cónyuges.
+Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal, mediante capitulaciones otorgadas ante el juez del domicilio.
 
 ###### Artículo 213.
 
@@ -1411,27 +1423,19 @@ La acción que nace de estas causas de nulidad sólo puede deducirse por el cón
 
 ###### Artículo 240.
 
-La minoridad de dieciséis años en la mujer o de dieciocho en el hombre, dejará de ser causa de nulidad del matrimonio:
-
-I.- Cuando la esposa quede encinta; y
-
-II.- Cuando ambos cónyuges hubiesen llegado a los dieciocho años, sin que nadie hubiese intentado la nulidad.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 241.
 
-La nulidad por falta de consentimiento de los que ejerzan la patria potestad, sólo podrá alegarse por aquéllos a quienes tocaba prestarlo, y dentro de los treinta días de que tengan conocimiento del matrimonio.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 242.
 
-Caduca la acción de nulidad establecida en el artículo anterior:
-
-I.- Si ha transcurrido el término legal sin reclamarla; y
-
-II.- Si dentro del término para interponer la acción, los ascendientes han consentido expresamente en el matrimonio o tácitamente, haciendo donación al hijo en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la descendencia como legítima al Registro Civil o realizando cualquier otro acto que, a juicio del Juez, demuestre su consentimiento tácito.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 243.
 
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días de celebrado el matrimonio, por el tutor o por el Ministerio Público; pero dicha causa de nulidad cesará si antes de presentarse la demanda, se obtiene el consentimiento del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 244.
 
@@ -1553,11 +1557,15 @@ Es ilícito, pero no nulo, el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 166, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 165, 311 y 312.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+II.- Cuando se celebre sin que hayan transcurrido los términos fijados en los Artículos 165, 311 y 312.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 271.
 
-Los que infrinjan lo dispuesto en el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de quien ejerza la patria potestad, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan lo dispuesto en el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, incurrirán en las penas que señale el Código de la materia.
 
 ## TÍTULO SEXTO. Del divorcio
 
@@ -2835,7 +2843,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+I.- Por la mayoría de edad de los hijos;
 
 II.- Por la pérdida de la patria potestad; y
 
@@ -2867,7 +2877,7 @@ La patria potestad termina:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación derivada del matrimonio; y
+II.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
 
 III.- Por la mayor edad del hijo.
 
@@ -3327,7 +3337,9 @@ III.- Los tutores que no rindan sus cuentas dentro del término legal;
 
 IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 
-V.- El tutor que haya contraído matrimonio con su pupilo, sin haber obtenido dispensa; y
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+V.- El tutor que haya contraído matrimonio ilícitamente con su pupilo, en contravención a lo dispuesto en este Código.
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
@@ -3795,9 +3807,11 @@ Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente resp
 
 Los que tienen derecho a nombrar tutor, lo tienen también para nombrar curador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 654.
 
-Los menores que hubiesen cumplido dieciséis años y los que se hubiesen emancipado por matrimonio, designarán por sí mismos al curador, con aprobación judicial.
+Los menores que hubiesen cumplido dieciséis años, designarán por sí mismo (sic) al curador, con aprobación judicial.
 
 En los demás casos será nombrado por el Juez.
 
@@ -3887,15 +3901,11 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ###### Artículo 667.
 
-El matrimonio de un menor de dieciocho años produce de derecho su emancipación, y aunque el matrimonio se disuelva, el cónyuge emancipado no recaerá en la patria potestad aunque no haya alcanzado todavía la mayoría de edad.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 668.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y
-
-II.- De un tutor para negocios judiciales.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO IV. De la representación y la administración de los bienes del ausente
 
@@ -15552,3 +15562,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 B.O. 27 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación· en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
