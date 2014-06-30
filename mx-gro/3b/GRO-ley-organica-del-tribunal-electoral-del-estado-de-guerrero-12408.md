@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-tribunal-electoral-del-estado-de-guerrero-1240
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-13"
-last_updated: "2011-09-09"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145
 
-LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 457, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
+LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NÚMERO 145
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 1998.
 
@@ -53,11 +55,11 @@ LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUERRERO NUMERO 145.
 
 ### CAPITULO I. De su Integración y Funcionamiento
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 1.
 
-De conformidad con el artículo 25 de la Constitución Política del Estado Libre y Soberano de Guerrero, el Tribunal Electoral es un órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones y máxima autoridad jurisdiccional en materia electoral local.
+De conformidad con los Artículos 105, 106, 132, y 133 de la Constitución Política del Estado Libre y Soberano de Guerrero, el Tribunal Electoral es un órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones y máxima autoridad jurisdiccional en materia electoral local.
 
 ###### ARTICULO 2.
 
@@ -73,25 +75,25 @@ El Tribunal Electoral del Estado, permanecerá con los servidores públicos que 
 
 El Tribunal Electoral del Estado, se integra con una Sala de Segunda Instancia y cinco Salas Unitarias, que se denominarán Primera, Segunda, Tercera. (sic) Cuarta y Quinta, teniendo su sede en la Ciudad de Chilpancingo de los Bravo.
 
-Para el ejercicio de sus atribuciones, el Tribunal Electoral del Estado, se integra con cinco Magistrados numerarios y dos supernumerarios designados de acuerdo al procedimiento establecido en el párrafo vigésimo sexto del artículo 25 de la Constitución Política del Estado; 51 fracción V de la Ley Orgánica del Poder Legislativo y 16 de esta ley. En la sesión en que el Honorable Congreso del Estado elija a los Magistrados les designará la Sala que les corresponda.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Para el ejercicio de sus atribuciones, el Tribunal Electoral del Estado, se integra con cinco Magistrados electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley, durarán siete años en el cargo y serán electos en forma escalonada.
 
 ###### ARTICULO 4.
 
 En los términos de lo dispuesto por la Constitución Local y las leyes aplicables, el Tribunal Electoral es competente para:
 
-I. Resolver, en forma firme y definitiva, las impugnaciones sobre las elecciones de Gobernador, Diputados y Ayuntamientos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-II. Comunicar al H. Congreso del Estado sobre los resultados de los medios de impugnación interpuestos contra las elecciones de Gobernador y Diputados, señalando los efectos legales procedentes, antes de las fechas establecidas para la toma de protesta a que se refieren los artículos 39 y 60, de la Constitución Local, según sea el caso;
+I. Resolver las cuestiones incidentales que se presenten durante la tramitación de los medios de impugnación;
 
-III. Resolver en forma firme y definitiva, las controversias que se susciten por:
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-a) Actos y resoluciones de los Organos Electorales distintos a los señalados en la fracción I, que violen normas constitucionales o legales;
+II. Comunicar al Honorable Congreso del Estado sobre los resultados de los medios de impugnación interpuestos contra las elecciones de Gobernador y Diputados, señalando los efectos legales procedentes, antes de las fechas establecidas para la toma de protesta a que se refieren los Artículos 72, 49 y 57, de la Constitución Local, según sea el caso;
 
-b) Conflictos o diferencias laborales entre el Tribunal Electoral y el Consejo Estatal Electoral y sus respectivos servidores;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2008)</small>
-
-c) Resolver el Juicio Electoral Ciudadano;
+III. Resolver en forma firme y definitiva, las controversias que se susciten por actos y resoluciones de los Órganos Electorales distintos a los señalados en la fracción I, que violen normas constitucionales o legales;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -101,19 +103,31 @@ IV. Fijar, integrar, aprobar, modificar o abandonar la jurisprudencia cuando se 
 
 V. Resolver en forma definitiva e inatacable las impugnaciones que se interpongan con motivo de las sanciones aplicadas por los organismos electorales previstas en la ley, con plenitud de jurisdicción, pudiendo confirmar, revocar o modificar la resolución o acto impugnado, según corresponda;
 
-VI. Elaborar anualmente el proyecto de su presupuesto y enviarlo al H. Congreso del Estado para su aprobación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VII. Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento;
+VI. Elaborar y aprobar anualmente el proyecto de su presupuesto y enviarlo al H. Congreso del Estado para su aprobación;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII. Expedir los Reglamentos y acuerdos generales necesarios para su adecuado funcionamiento;
 
 VIII. Desarrollar tareas de formación, investigación, capacitación y difusión en la materia;
 
-IX. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño; y (sic)
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-X. Las demás que les señalen las leyes;
+IX. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-XI. Las demás que les señalen las leyes.
+X. Aprobar y expedir el Estatuto que contenga las bases y lineamientos generales que regule la organización del servicio profesional de carrera electoral para asegurar el buen desempeño de las actividades electorales que tiene encomendadas;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XI. Aprobar la ampliación del presupuesto y las modificaciones a las partidas del mismo, en su caso, y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XII. Las demás que les señalen las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -121,11 +135,11 @@ XI. Las demás que les señalen las leyes.
 
 Su Integración, Funcionamiento, Atribuciones y Competencia.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 5.
 
-El Pleno del Tribunal se integra por los Magistrados Propietarios y se instalará a más tardar en la semana que inicia el proceso electoral; para que pueda sesionar válidamente se requiere de la presencia de por lo menos, cuatro Magistrados y sus resoluciones se tomarán por unanimidad o mayoría de votos, estando obligados a votar en favor o en contra de la propuesta.
+El Pleno del Tribunal se integra por los Magistrados y sesionará para hacer la declaratoria del inicio de los trabajos inherentes al proceso a más tardar en la semana que inicia el proceso electoral; para que pueda sesionar válidamente se requiere de la presencia de por lo menos, tres Magistrados y sus resoluciones se tomarán por unanimidad o mayoría de votos, estando obligados a votar en favor o en contra de la propuesta.
 
 ###### ARTICULO 6.
 
@@ -135,123 +149,125 @@ El Pleno del Tribunal Electoral, tendrá las siguientes atribuciones:
 
 I. Elegir, entre los Magistrados al Presidente del Tribunal, quien una vez electo presidirá las sesiones del Pleno y de la Sala de Segunda Instancia;
 
-II. Designar o remover a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-III. Designar y remover, a propuesta del Presidente al Secretario Administrativo;
+II. Formular y aprobar el presupuesto de egresos del Tribunal Electoral y someterlo a la aprobación del Pleno.
 
-IV. Designar y remover, a propuesta del Presidente al Secretario de Capacitación, Investigación y Difusión Electoral;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-V. Aprobar, y, en su caso, modificar el Reglamento Interior del Tribunal, con base en el proyecto que le presente una comisión redactora de Magistrados que para ese efecto se integre;
+III. Designar o remover a propuesta del Presidente del Tribunal, al Secretario General de Acuerdos;
 
-VI. Calificar y resolver sobre las licencias, excusas e impedimentos que presenten los Magistrados y demás personal jurídico del Tribunal Electoral;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VII. Comunicar, a través del Presidente, al H. Congreso del Estado, cuando se considere que existen elementos que den lugar a la remoción de algún Magistrado;
+IV. Designar y remover, a propuesta del Presidente del Tribunal al Secretario Administrativo;
 
-VIII. Conferir a los Magistrados Supernumerarios, cuando no estén en funciones, las comisiones y actividades que se estimen pertinentes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-IX. Notificar, a través del Presidente, al Magistrado Supernumerario que deba suplir la ausencia temporal de un Magistrado Propietario, en el orden en que fueron electos por el H. Congreso del Estado;
+V. Designar y remover, a propuesta del Presidente del Tribunal, al Secretario de Capacitación, Investigación y Difusión Electoral;
 
-X. Aprobar y remover al personal jurídico de las Salas, a propuesta de los Magistrados de las mismas.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-XI. Cuando las cargas de trabajo extraordinarias lo exijan, podrá autorizar la contratación eventual del personal jurídico y administrativo necesario de acuerdo a las partidas autorizadas en el presupuesto;
+VI. Aprobar, y, en su caso, modificar el Reglamento Interior del Tribunal, con base en el proyecto que le presente una comisión redactora de Magistrados que para ese efecto se integre;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-XII. Aprobar los mecanismos y procedimientos del turno de los expedientes;
+VII. Calificar y resolver sobre las licencias, excusas e impedimentos que presenten los Magistrados y demás personal jurídico del Tribunal Electoral;
 
-XIII. Conocer el presupuesto a ejercer por el Tribunal Electoral, una vez aprobado por el H. Congreso del Estado; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-XIV. Las demás que sean necesarias para el buen funcionamiento del Tribunal.
+VIII. Comunicar, a través del Presidente, al Senado de la Republica, cuando se presente una vacante definitiva de algún Magistrado, para que provea el mecanismo de sustitución.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+IX. Aprobar y remover al personal jurídico de las Salas, a propuesta de los Magistrados de las mismas.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+X. Cuando las cargas de trabajo extraordinarias lo exijan, podrá autorizar la contratación eventual del personal jurídico y administrativo necesario de acuerdo a las partidas autorizadas en el presupuesto;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XI. Aprobar los mecanismos y procedimientos del turno de los expedientes;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XII. Aprobar los informes semestrales y la cuenta pública del Tribunal.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XIII. Las demás que sean necesarias para el buen funcionamiento del Tribunal.
+
+XIV. Las demás que sean necesarias para el buen funcionamiento del Tribunal. (Sic)
 
 ### CAPITULO III. Del Presidente del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 7.
 
-Dentro de los primeros días a que se instale el Tribunal Electoral, los Magistrados numerarios, elegirán de entre ellos, al Presidente del Pleno, quien lo será también del Tribunal y de la Sala de Segunda Instancia por un período de cuatro años sin derecho a reelección.
+Dentro de los primeros días a que se renueve a los integrantes del Tribunal Electoral, los Magistrados, en sesión pública elegirán de entre ellos, al Presidente del Pleno, quien lo será también del Tribunal y de la Sala de Segunda Instancia por un período de dos años sin derecho a ser reelecto.
 
-Las ausencias del Presidente serán suplidas, si no excede de 15 días, por un Magistrado Propietario. Si la ausencia excediera de dicho plazo pero fuere menor a un mes, se designará un Presidente Interino, y si fuere mayor a ese término se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del período.
+Las ausencias del Presidente serán suplidas, si no excede de 15 días, por un Magistrado. Si la ausencia excediera de dicho plazo pero fuere menor a un mes, se designará un Presidente Interino, y si fuere mayor a ese término se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del período.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 8.
 
-El Presidente del Tribunal Electoral presidirá el Pleno y la Sala de Segunda Instancia y tendrá las atribuciones siguientes:
+El Presidente del Tribunal Electoral presidirá el Pleno y la Sala de Segunda Instancia y tendrá las atribuciones y obligaciones siguientes:
 
-I. Representar al Tribunal Electoral y celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo;
+I. Representar al Tribunal Electoral y celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo, pudiendo delegarla cuando el caso lo requiera;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+II. Formular y aprobar el anteproyecto del presupuesto de egresos del Tribunal Electoral y someterlo al conocimiento del Pleno; además, decidir y desarrollar todos los actos que tengan como fin la implementación del mismo;
 
-II. Convocar y presidir las sesiones de la Sala de Segunda Instancia y del Pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
+III. Convocar y presidir las sesiones y reuniones de trabajo de la Sala de Segunda Instancia y del pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de la Sala y la continuación de la sesión en privado;
 
-III. Proponer al Pleno del Tribunal, el nombramiento de los funcionarios que son de su competencia;
+IV. Proponer al Pleno del Tribunal, el nombramiento de los funcionarios que son de su competencia;
 
-IV. Proponer al Pleno el nombramiento del Secretario General de Acuerdos;
+V. Proponer al Pleno el nombramiento del Secretario General de Acuerdos;
 
-V. Proponer al Pleno el nombramiento del Secretario Administrativo;
+VI. Proponer al Pleno el nombramiento del Secretario de Capacitación, Investigación y Difusión Electoral;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+VII. Proponer al Pleno el nombramiento del Secretario Administrativo;
 
-VI. Proponer al Pleno el nombramiento del Coordinador del Servicio Profesional de Carrera;
+VIII. Proponer al Pleno el nombramiento del Coordinador del Servicio Profesional de Carrera;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+IX. Proponer al Pleno el nombramiento del Secretario Contralor Interno;
 
-VII. Proponer al Pleno el nombramiento del Secretario Contralor interno;
+X. Proponer al Pleno el nombramiento del Coordinador de Comunicación Social;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+XI. Proponer al Pleno el nombramiento del Coordinador de Estadística y Jurisprudencia Electoral;
 
-VIII. Proponer al Pleno el nombramiento del Coordinador de Comunicación Social;
+XII. Proponer al Pleno el nombramiento del titular de la Unidad de Transparencia y Acceso a la Información;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+XIII. Vigilar que el Tribunal cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
 
-IX. Proponer al Pleno el nombramiento del Coordinador de Estadística y
+XIV. Vigilar que se cumplan las determinaciones del Pleno y las resoluciones de la Sala de Segunda Instancia;
 
-Jurisprudencia Electoral;
+XV. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+XVI. Conceder licencia a los servidores que son de su competencia;
 
-X. Proponer al Pleno el nombramiento del Coordinador de la Unidad de Enlace Institucional;
+XVII. Comunicar al Senado de la República de las ausencias definitivas de los Magistrados para los efectos que procedan, de conformidad con las disposiciones constitucionales y legales aplicables;
 
-XI. Proponer al Pleno el nombramiento del Secretario de Capacitación, Investigación y Difusión Electoral;
+XVIII. Supervisar que se realicen los turnos de inmediato a las Salas Unitarias;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+XIX. Rendir ante el Pleno un informe jurisdiccional y administrativo al término de cada proceso electoral, dando cuenta de los principales criterios adoptados en sus decisiones;
 
-XII. Vigilar que se cumplan las determinaciones del Pleno y las resoluciones de la Sala de Segunda Instancia;
+XX. Proponer al Pleno del Tribunal, la suspensión o cese del personal de su competencia;
 
-XIII. Despachar la correspondencia del Tribunal Electoral;
+XXI. Acordar con los Secretarios del Tribunal, los asuntos de su competencia;
 
-XIV. Llevar las relaciones con autoridades o instituciones públicas y privadas nacionales, que tengan vínculos con el Tribunal;
+XXII. Someter al Pleno del Tribunal Electoral el proyecto del Reglamento Interior;
 
-XV. Elaborar el proyecto del presupuesto del Tribunal en los términos de la ley de la materia y remitirlo a la consideración del Poder Legislativo;
+XXIII. Remitir de inmediato a los Magistrados ponentes de la Sala de Segunda Instancia, los expedientes respectivos, por conducto de la Secretaria General de Acuerdos;
 
-XVI. Vigilar que el Tribunal cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento;
+XXIV. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal;
 
-XVII. Convocar a sesiones públicas o reuniones internas de Magistrados electorales y demás personal jurídico, técnico y administrativo del Tribunal;
+XXV. Rendir informe al Pleno, del estado que guarda el Tribunal;
 
-XVIII. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas de las Salas;
+XXVI. Dar cuenta al Pleno sobre la correspondencia de asuntos que involucren al Tribunal; y
 
-XIX. Conceder licencia a los servidores que son de su competencia;
-
-XX. Comunicar al H. Congreso del Estado de las ausencias definitivas de los Magistrados para los efectos que procedan, de conformidad con las disposiciones constitucionales y legales aplicables;
-
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
-
-XXI. Remitir de inmediato a los Magistrados los expedientes que le correspondan conforme al turno en que sean recibidos, y en caso del conocimiento de la Sala de Segunda Instancia, auxiliarse de la oficialía de partes para determinar el turno al magistrado ponente que deba formular el proyecto de resolución;
-
-XXII. Rendir ante el Pleno un informe jurisdiccional y administrativo al término de cada proceso electoral, dando cuenta de los principales criterios adoptados en sus decisiones;
-
-XXIII. Proponer al Pleno del Tribunal, la suspensión o cese del personal de su competencia;
-
-XXIV. Acordar con los Secretarios del Tribunal, los asuntos de su competencia;
-
-XXV. Someter al Pleno del Tribunal Electoral el proyecto del Reglamento Interior;
-
-XXVI. Dar cuenta al Pleno sobre la correspondencia de asuntos que involucren al Tribunal;
-
-XXVII. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
-
-XXVIII. Las demás que les señalen las leyes de la materia, el Reglamento Interior o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
+XXVII. Las demás que les señalen las leyes de la materia, el Reglamento Interior o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -285,7 +301,9 @@ El Tribunal Electoral contará con cinco Salas Unitarias integradas por: un Magi
 
 Las salas unitarias tendrán competencia territorial en toda la entidad.
 
-Los asuntos del conocimiento de cada sala unitaria será determinado por riguroso turno. La oficialía de partes remitirá de inmediato al magistrado presidente el expediente que reciba mediante el oficio respectivo, para que éste lo asigne al magistrado que corresponda.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Los asuntos del conocimiento de cada sala unitaria será determinado por riguroso turno. La Secretaría General remitirá el expediente que reciba mediante el oficio respectivo al magistrado que corresponda.
 
 ###### ARTICULO 13.
 
@@ -313,13 +331,15 @@ VII. Las demás que les confieran las leyes, el Reglamento Interior o aquellas q
 
 De su Integración, Funcionamiento y Atribuciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 14.
 
-La Sala de Segunda Instancia se integrará por los Magistrados de las Salas Unitarias y será presidido por el Presidente del Tribunal. En el caso de Recurso de Reconsideración, actuará con excepción del magistrado que haya dictado la resolución que se impugne. Cuando el titular de la Sala Responsable sea el Presidente del Tribunal, se designará como Presidente para el caso particular a cualquiera de los Magistrados que integran la Sala de Segunda Instancia.
+La Sala de Segunda Instancia se integrará por los Magistrados de las Salas Unitarias y será presidida por el Presidente del Tribunal. Para que la Sala de Segunda Instancia sesione válidamente, deberán estar presentes la mayoría de los Magistrados del Tribunal. En el caso de Recurso de Reconsideración, actuará con excepción del magistrado que haya dictado la resolución que se impugne. Cuando el titular de la Sala Responsable sea el Presidente del Tribunal, se designará como Presidente para el caso particular a cualquiera de los Magistrados que integran la Sala de Segunda Instancia.
 
-Para que la Sala de Segunda Instancia sesione válidamente, deberán estar presentes todos los Magistrados del Tribunal, excepto aquél cuya resolución se impugne. Sus resoluciones se tomarán por unanimidad o mayoría de votos.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Sus resoluciones se tomarán por unanimidad o mayoría de votos.
 
 Los Magistrados del Tribunal Electoral sólo podrán abstenerse de votar cuando tengan impedimento legal o no hayan estado presentes en la discusión del asunto. En caso de empate, el Presidente tendrá voto de calidad.
 
@@ -331,7 +351,7 @@ En caso de elecciones extraordinarias, la Sala de Segunda Instancia, se instalar
 
 Los Jueces Instructores, Secretarios y demás personal jurídico y administrativo de las Salas Unitarias, auxiliarán a la Sala de Segunda Instancia en sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 15.
 
@@ -349,19 +369,21 @@ II. En forma firme y definitiva, el Juicio de Inconformidad que se interpongan e
 
 III. Los juicios de inconformidad que se presenten en contra de la Asignación de Diputados por el principio de representación proporcional en términos de la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-IV. Los recursos de apelación contra actos y resoluciones del Instituto Electoral del Estado;
+IV. Los recursos de apelación contra actos y resoluciones del Instituto Electoral y de Participación Ciudadana del Estado;
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
 
 V. El Juicio Electoral Ciudadano;
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI. El Juicio para dirimir los conflictos o diferencias laborales, entre el Instituto Electoral del Estado, Tribunal Electoral del Estado y sus respectivos servidores;
+VI. El Juicio para dirimir los conflictos o diferencias laborales, entre el Instituto Electoral y de Participación Ciudadana del Estado, Tribunal Electoral del Estado y sus respectivos servidores;
 
-VII. Rendir los informes requeridos por las autoridades competentes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII. Las cuestiones incidentales de su competencia que se promueven durante la tramitación de los Medios de Impugnación.
 
 VIII. Elegir al Presidente de la Sala en caso de ausencia; y
 
@@ -369,45 +391,33 @@ IX. Las demás que les confiera las leyes y el Reglamento Interior del Tribunal.
 
 ### CAPITULO VII. De los Magistrados
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 16.
 
-Los Magistrados del Tribunal serán elegidos por los miembros presentes de la Cámara de Diputados conforme a las siguientes bases:
+Los Magistrados del Tribunal serán elegidos por la Cámara de Senadores de la República Mexicana de acuerdo al procedimiento que establece el artículo 108 de la Ley General de Instituciones y Procedimientos Electorales así como el Reglamento del Senado y la Convocatoria Pública respectiva.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+I. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-I. Noventa días antes de que concluya el periodo para el que fueron electos los Magistrados Electorales que integran el Tribunal Electoral, el Congreso del Estado emitirá convocatoria pública abierta, que será publicada en el Periódico Oficial del Gobierno del Estado y cuando menos en dos periódicos de mayor circulación en el Estado, dirigida a todos los Licenciados en Derecho residentes en el Estado de Guerrero, que tengan interés de participar como candidatos a ocupar el cargo de Magistrado Electoral; para que en el plazo de quince días naturales contados a partir de la publicación presenten su solicitud;
+II. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-II. En dicha convocatoria se establecerán los requisitos que deben cumplir los aspirantes y que nunca serán menores a los establecidos en el artículo 18 de esta Ley, el procedimiento que se seguirá para la selección de los Magistrados Electorales, debiendo acompañar a su solicitud los documentos que acrediten el cumplimiento de los requisitos respectivos;
+III. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-III. Las solicitudes de registro y los expedientes serán recibidas y revisados por la Comisión de Gobierno del Congreso;
+IV. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-IV. Dentro de las atribuciones de dicha Comisión se encuentra la de revisar las solicitudes y desechar aquellas que no cumplan con los requisitos establecidos en la convocatoria; debiendo comunicar a los aspirantes la razón por la que fueron descalificados; así como elaborar la lista de los que si llenaron los requisitos;
+V. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-V. Los aspirantes que hayan cumplido con los requisitos, serán sometidos a un examen de conocimientos político-electorales y jurisdiccionales electorales sobre temas preestablecidos por la Institución Académica a que se refiere la fracción VI siguiente;
+VI. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-VI. Para darle mayor transparencia al procedimiento de selección, la Comisión de Gobierno propondrá al Pleno del Congreso del Estado, una Institución Académica de prestigio nacional, para que mediante el convenio correspondiente elabore y califique el examen de conocimientos al que serán sometidos los aspirantes;
+VII. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-VII. Realizadas las evaluaciones, la institución académica elaborará un dictamen individual y sucesivo de los candidatos a magistrados electorales e integrará una lista final con los resultados de la evaluación aplicada; y
+VIII. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-VIII. Una vez elaborada la lista final de candidatos, la Comisión de Gobierno propondrá al Pleno del Congreso la aprobación de los magistrados electorales propietarios, a los cinco aspirantes que hayan obtenido el mayor promedio en la evaluación practicada por la institución académica.
-
-Así mismo, se designarán dos magistrados supernumerarios, para cubrir las ausencias temporales o definitivas de los propietarios, tomando en cuenta los siguientes dos mejores promedios de la lista elaborada por la institución académica.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
-
-Los magistrados electorales numerarios y supernumerarios durarán en su cargo cuatro años. Pudiendo ser ratificados en una sola ocasión por un periodo igual. Los magistrados electorales que se encuentren en funciones deberán concluir su encargo hasta en tanto sean designados los nuevos magistrados del Tribunal Electoral del Estado. Los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal.
-
-Los magistrados electorales podrán ser ratificados por una sola ocasión. Para determinar procedente la ratificación de los magistrados electorales, la Comisión de Gobierno deberá realizar una evaluación objetiva e imparcial sobre el trabajo desarrollado por cada uno de los magistrados electorales, al frente de las Salas del Tribunal, debiendo integrar un dictamen individual en el que se hará constar la justificación de la ratificación o no ratificación. Para la práctica de la evaluación que refiere el párrafo anterior, el Congreso del Estado emitirá el reglamento que establezca las bases y los parámetros respectivos.
-
-De considerar procedente únicamente la ratificación parcial de los magistrados electorales, la Comisión de Gobierno deberá seguir el procedimiento descrito en el presente artículo para la designación del complemento del número de los magistrados electorales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 17.
 
-Son atribuciones de los Magistrados numerarios del Tribunal, las siguientes:
+Son atribuciones de los Magistrados del Tribunal, las siguientes:
 
 I. Concurrir, participar y votar, cuando corresponda en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente del Tribunal;
 
@@ -431,7 +441,9 @@ IX. Informar al Presidente del Tribunal, durante el proceso electoral diariament
 
 X. Rendir al Pleno un informe de actividades de la Sala;
 
-XI. Turnar a los Jueces Instructores de la Sala, los expedientes para su substanciación y para que formulen los proyectos de resolución;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XI. Requerir cualquier informe o documento que, obrando en poder del Instituto Electoral y de Participación Ciudadana del Estado o de las autoridades estatales o municipales, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en esta ley, de igual forma se solicitará a las autoridades federales para los mismos efectos;
 
 XII. Requerir cualquier informe o documento que, obrando en poder del Consejo Estatal Electoral o de las autoridades estatales o municipales, pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código, de igual forma se solicitará a las autoridades federales para los mismos efectos;
 
@@ -461,39 +473,99 @@ Para ser Magistrado del Tribunal Electoral del estado, se deberán reunir los si
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Contar con credencial para votar con fotografía;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2007)</small>
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación.
 
-III. No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, al día de su nombramiento;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+III. Poseer el día de la designación, con antigüedad mínima de diez años, Título Profesional de Licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello.
 
-IV. Contar con Título y cédula profesional de Licenciado en Derecho expedidos legalmente y ejercicio profesional de cuando menos diez años;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-V. Acreditar y tener conocimiento en materia electoral;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI. No desempeñar ni haber desempeñado cargo de Dirección Nacional, Estatal o Municipal en algún partido político, en los últimos diez años anteriores al nombramiento;
+V. Haber residido en el país y en la entidad de que se trate, durante un año anterior al día de la designación;
 
-VII. No haber sido registrado como candidato a cargo de elección popular en los últimos cinco años anteriores a la designación;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VIII. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+VI. No haber sido de la entidad federativa de que se trate, gobernador, secretario, procurador, senador, diputado federal local durante los cuatro años previos al día de su nombramiento;
 
-IX. Haber residido en el Estado durante los últimos diez años;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-X. No haber sido funcionario de asignación por el Gobernador del Estado en los últimos cinco años;
+VII. Contar con credencial con fotografía;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VIII. Acreditar conocimientos en derecho electoral;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+IX. No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional o equivalente a un partido político;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+X. No haber sido registrado como candidato, con excepción de los candidatos independientes a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 
 ###### ARTICULO 19.
 
 (DEROGADO, P.O. 1 DE ENERO DE 2008)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+DE LOS IMPEDIMENTOS DE LOS MAGISTRADOS
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 20.
 
-Los Magistrados del Tribunal Electoral del Estado deberán excusarse de conocer algún asunto en el que tengan interés personal por relaciones de parentesco hasta el cuarto grado por consaguinidad o afinidad, negocios, amistad estrecha o enemistad, que pueda afectar su imparcialidad. El Pleno del Tribunal calificará y resolverá de inmediato la excusa.
+En ningún caso los magistrados electorales podrán abstenerse de votar salvo cuando tengan impedimento legal.
+
+Son impedimentos para conocer de los asuntos, alguna de las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere el inciso anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa el inciso a) de este Artículo;
+
+IV. Haber presentado querella o denuncia el servidor público, su cónyuge o sus parientes, en los grados que expresa el inciso a), en contra de alguno de los interesados;
+
+V. Tener pendiente el servidor público, su cónyuge o sus parientes, en los grados que expresa el inciso a), un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesado el servidor público, su cónyuge o parientes, en los grados expresados en el mismo inciso a), en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
+
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, semejante a aquél que le es sometido para su conocimiento o tenerlo su cónyuge o sus parientes en los grados expresados en el inciso a);
+
+VIII. Tener interés personal en asuntos donde alguno de los interesados sea juez, árbitro o arbitrador;
+
+IX. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
+
+X. Aceptar presentes o servicios de alguno de los interesados;
+
+XI. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
+
+XII. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+XIII. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XV. Ser cónyuge o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+
+XVI. Haber sido juez o magistrado en el mismo asunto, en otra instancia;
+
+XVII. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados, y
+
+XVIII. Cualquier otra análoga a las anteriores.
+
+Las excusas y recusaciones que por impedimento legal se presenten, serán calificadas y resueltas de inmediato por el Pleno del Tribunal Electoral del Estado.
 
 ### CAPITULO VIII. Del Secretario General de Acuerdos del Tribunal
 
@@ -547,19 +619,29 @@ XV. Coadyuvar con el Presiente en el control del turno de los expedientes a los 
 
 XVI. Llevar el registro de las tesis de jurisprudencia que adopte el Pleno; y
 
-XVII. Las demás que les señalen las leyes y el Reglamento Interior del Tribunal.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XVII. Custodiar y supervisar el debido funcionamiento de los estrados; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XVIII. Las demás que les señalen las leyes de la materia, el Reglamento Interior o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
 ###### ARTICULO 22.
 
 Para ser Secretario General de Acuerdos del Tribunal, deberá reunir los mismos requisitos que se exigen para ser Juez Instructor.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+En caso de ausencia temporal del Secretario General de Acuerdos del Tribunal se habilitara y aprobará por el Pleno a uno de los Secretarios de Acuerdos de las Salas Unitarias.
+
 ### CAPITULO IX. De los Jueces Instructores
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 23.
 
-Las Salas Unitarias contarán, cada una, hasta con tres Jueces Instructores durante el proceso electoral.
+Las Salas Unitarias contarán, durante el proceso electoral con los jueces instructores que sean necesarios conforme a la carga de trabajo y el presupuesto aprobado.
 
 ###### ARTICULO 24.
 
@@ -599,7 +681,9 @@ V. No desempeñar o haber desempeñado cargo de elección popular en los último
 
 VI. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político en los últimos cinco años.
 
-### CAPITULO X. Del Secretario General de Acuerdos de Sala
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2014)</small>
+
+### CAPITULO X. Del Secretario de Acuerdos de Sala
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -647,11 +731,13 @@ De los Actuarios, Secretarios de Estudio y Cuenta, y demás personal auxiliar ju
 
 ### CAPITULO XI. Del Secretario de Capacitación, Investigación y Difusión Electoral
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 30.
 
-El Tribunal Electoral contará con un Secretario de Capacitación, Investigación y Difusión Electoral, que tendrá a su cargo todo lo relativo a los programas de capacitación, investigación y difusión en materia jurídico-electoral. Así mismo tendrá la responsabilidad de fungir como unidad de enlace entre la Comisión de Acceso a la Información Pública y el Tribunal Electoral y atender todo lo relacionado con la materia de transparencia de la información pública que le corresponda al mismo organismo jurisdiccional.
+El Tribunal Electoral contará con un Secretario de Capacitación, Investigación y Difusión Electoral, que tendrá a su cargo todo lo relativo a los programas de capacitación, investigación y difusión en materia jurídico-electoral. Así mismo tendrá la responsabilidad de fungir como unidad de enlace entre el Instituto de Transparencia y Acceso a la Información Pública y el Tribunal Electoral y atender todo lo relacionado con la materia de transparencia de la información pública que le corresponda al mismo organismo jurisdiccional.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
 La coordinación del Servicio Profesional Electoral estará adscrita a ésta secretaría.
 
@@ -709,19 +795,21 @@ V. No ser o haber sido dirigente nacional, estatal o municipal de algún partido
 
 VI. Gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa mayor de un año.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-La organización y funcionamiento de la Secretaría de la Contraloría Interna y las coordinaciones de Servicio Profesional de Carrera; Comunicación Social; Jurisprudencia y Estadística Electoral; Unidad de Enlace Institucional del Tribunal Electoral del Estado, serán especificadas dentro del Reglamento Interior del mismo, en el que se establecerán los requisitos de nombramiento y atribuciones.
+La organización y funcionamiento de la Secretaría de la Contraloría Interna y las coordinaciones de Servicio Profesional de Carrera; Comunicación Social; Jurisprudencia y Estadística Electoral; Unidad de Transparencia y Acceso a la Información Pública del Tribunal Electoral del Estado, serán especificadas dentro del Reglamento Interior del mismo, en el que se establecerán los requisitos de nombramiento y atribuciones.
 
 ### CAPITULO XIII. De las Responsabilidades
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 36.
 
-Los magistrados del Tribunal Electoral del Estado, serán sujetos del régimen de responsabilidades previsto en el Título Décimo Tercero, Capítulo único de la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y por el presente capítulo. El personal ejecutivo, operativo, técnico y administrativo del Tribunal en materia de responsabilidades se regirán por la Ley de Responsabilidades de los Servidores Públicos del Estado, este capítulo y por el Estatuto del Servicio Profesional Electoral, según corresponda.
+Los magistrados del Tribunal Electoral del Estado, serán sujetos del régimen de responsabilidades previsto por el Título Décimo Tercero de la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y por el presente capítulo. El personal ejecutivo, operativo, técnico y administrativo del Tribunal en materia de responsabilidades se regirán por la Ley de Responsabilidades de los Servidores Públicos del Estado, este capítulo y por el Estatuto del Servicio Profesional Electoral, según corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
 La sustanciación del procedimiento de responsabilidad administrativa, la determinación y aplicación de la sanción que corresponda, en su caso, en contra de los servidores públicos del Tribunal, se desarrollará en los términos de este capítulo, será competencia:
 
@@ -735,9 +823,11 @@ II. De los Magistrados de cada Sala Unitaria, tratándose del personal adscrito 
 
 III. Del Presidente del Tribunal tratándose del restante personal jurídico y administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 37.
 
-Los Magistrados del Tribunal Electoral del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determine el Título Décimo Tercero de la Constitución Local.
+Los Magistrados del Tribunal Electoral del Estado sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -751,11 +841,15 @@ Los Magistrados, serán los responsables al establecer o fijar la interpretació
 
 Son causas de responsabilidad para los servidores públicos del Tribunal Electoral del Estado:
 
-I.- Realizar conductas que atenten contra la independencia de la función jurisdiccional electoral, tales como aceptar o ejercer consignas, presiones, encargos o comisiones o cualquier acción que genere o implique subordinación respecto de algún candidato o partido político;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+I.- Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
 II.- Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otras Salas del Tribunal, cuando se trate de Primera Instancia;
 
-III.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+III.- Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
 
 IV.- Impedir en los procedimientos en materia electoral, que las partes ejerzan los derechos que legalmente les correspondan;
 
@@ -769,7 +863,9 @@ VIII.- Emitir opinión pública que implique prejuzgar sobre un asunto de su con
 
 IX.- Abandonar o dejar de desempeñar las labores o funciones que tengan a su cargo sin la autorización correspondiente; y
 
-X.- Las demás que determine la ley.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+X.- Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos que establece la Ley General de Instituciones y Procedimientos Electorales y de la demás legislación de la materia;
 
 ###### ARTICULO 40.
 
@@ -781,7 +877,9 @@ Las denuncias se presentarán por escrito, identificándose quien la presente, a
 
 Para la determinación de las responsabilidades a que se refiere el presente Capítulo, deberá seguirse el siguiente procedimiento:
 
-I.- Se enviará una copia del escrito de denuncia y sus anexos al Servidor Público denunciado, para que en un término de cinco días hábiles formule un informe sobre los hechos y acompañar, en su caso, las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+I.- Se notificará y emplazará con una copia del escrito de denuncia y sus anexos al Servidor Público denunciado, para que en un término de cinco días hábiles formule un informe sobre los hechos y acompañar, en su caso, las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
 
 II.- Recibido el informe y desahogadas las pruebas si las hubiere, se resolverá dentro de los quince días hábiles siguientes sobre la existencia de responsabilidad o imponiendo al infractor las sanciones correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas siguientes;
 
@@ -797,7 +895,7 @@ V.- Cuando se trate de denuncias en contra de Servidores Públicos del Servicio 
 
 Si el Servidor Público suspendido temporalmente no resultare responsable de la falta que se le impute, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 42.
 
@@ -835,13 +933,17 @@ Durante los años de los procesos electorales o durante los periodos de procesos
 
 Durante el tiempo que transcurra entre dos procesos electorales, los servidores del Tribunal Electoral gozarán de descanso los días sábados y domingos, además de los que establece la Ley.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 46.
 
-Los servidores del Tribunal Electoral estarán obligados a prestar sus servicios sin horario determinado, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+Dada la naturaleza especializada del órgano jurisdiccional y de las actividades encomendadas por Ley, los servidores del Tribunal Electoral estarán obligados a prestar sus servicios sin horario determinado, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 47.
 
-Durante los procesos electorales, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a los servidores del Tribunal, de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado.
+Durante los procesos electorales, no se pagarán horas extras, pero se preverán en el presupuesto las compensaciones extraordinarias que deban otorgarse a los servidores del Tribunal, de acuerdo con los horarios y cargas de trabajo que hubiesen desahogado. Dicha compensación contemplará los días de descanso obligatorios.
 
 ###### ARTICULO 48.
 
@@ -859,9 +961,11 @@ Cuando se hubiere otorgado una licencia hasta por dos meses no podrá concederse
 
 Toda licencia deberá concederse por escrito, cuyo procedimiento quedará establecido en el Reglamento Interior del Tribunal Electoral.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 52.
 
-El Presidente del Tribunal y los Magistrados de las Salas Central y Regionales, otorgarán licencias al personal bajo su jurisdicción que no excedan de quince días; las que excedan de este término serán otorgadas por el Pleno o por quien haya conocido de su nombramiento.
+El Presidente del Tribunal y los Magistrados de las Salas Unitarias, otorgarán licencias al personal bajo su jurisdicción que no excedan de quince días; las que excedan de este término serán otorgadas por el Pleno o por quien haya conocido de su nombramiento.
 
 ### CAPITULO XV. De las Actuaciones Judiciales y del Archivo Jurisdiccional
 
@@ -873,13 +977,17 @@ I.- Ningún servidor podrá abandonar la residencia de las Salas del Tribunal El
 
 II.- Cuando el personal de las Salas, tuviere que abandonar su residencia para practicar diligencias, podrá hacerlo, dando aviso al Magistrado, expresando el objeto y naturaleza de la diligencia a realizar.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 54.
 
-Las Salas del Tribunal Electoral deberán conservar en su archivo jurisdiccional los expedientes de los asuntos definitivamente concluidos, a partir de que se ordene su archivo.
+Las Salas del Tribunal Electoral deberán conservar en su archivo jurisdiccional los expedientes que se encuentren en trámite o sustanciación.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 55.
 
-Una vez concluido el proceso electoral respectivo, las Salas del Tribunal Electoral del Estado, deberán remitir los expedientes al archivo general del Tribunal, para su guarda y custodia.
+Una vez concluidos los asuntos sometidos a la jurisdicción de las Salas del Tribunal Electoral del Estado, se deberán remitir los expedientes al archivo general del Tribunal para su guarda y custodia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -969,19 +1077,23 @@ Los trabajadores que formen parte del Cuerpo del Servicio Profesional de Carrera
 
 Cuando existan conflictos o diferencias laborales entre los servidores y el Tribunal, para la resolución de los mismos, se estará a lo establecido en el Libro Tercero de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Guerrero.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Para la promoción, sustanciación y resolución de los juicios previstos en este capítulo se considerarán hábiles, en cualquier tiempo, todos los días del año con exclusión de los sábados, domingos y días de descanso obligatorios señalados por Ley Número 248 de Trabajo de los Servidores Públicos del Estado de Guerrero.
+
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO XIX. DEL SERVICIO PROFESIONAL DE CARRERA
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 63.
 
 El Tribunal Electoral del Estado establecerá el Servicio Profesional de Carrera de sus servidores públicos, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia y profesionalismo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
-El Servicio Profesional de Carrera tendrá como propósito garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación. Estará a cargo de un Coordinador General designado por el Pleno a propuesta del Presidente del Tribunal.
+El Servicio Profesional de Carrera tendrá como propósito garantizar la estabilidad y seguridad en el empleo, para lo cual deberá cumplirse con lo previsto en el Artículo 66 de esta Ley y en su caso lo establecido por el Estatuto del mismo. Así como fomentar la vocación de servicio y promover la capacitación.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -999,13 +1111,13 @@ El ingreso al Cuerpo procederá cuando el aspirante acredite los requisitos pers
 
 ###### ARTICULO 66.
 
-La permanencia de los servidores públicos en el Tribunal Electoral estará sujeta a la acreditación e los exámenes de los programas de formación y desarrollo profesional electoral y del resultado de la evaluación anual que se realicen de conformidad con lo establecido en el Estatuto.
+La permanencia de los servidores públicos en el Tribunal Electoral estará sujeta a la acreditación de los exámenes de los programas de formación y desarrollo profesional electoral y del resultado de la evaluación anual que se realicen de conformidad con lo establecido en el Estatuto.
 
-> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 67.
 
-El Cuerpo proveerá de sus rangos o niveles a los funcionarios que cubrirán los cargos de Secretario General de Acuerdos del Tribunal, Juez Instructor, Secretario General de Acuerdos de Sala, Secretario de Capacitación, Investigación y Difusión Electoral Proyectista, Actuario, así como de los demás cargos que se determinen en el Estatuto.
+El Cuerpo proveerá de sus rangos o niveles a los funcionarios que cubrirán los cargos de Secretario General de Acuerdos del Tribunal, Juez Instructor, Secretario de Acuerdos de Sala, Secretario de Capacitación, Investigación y Difusión Electoral, Proyectista, Actuario, así como de los demás cargos que se determinen en el Estatuto.
 
 > <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
 
@@ -1132,3 +1244,13 @@ Se derogan todas aquellas disposiciones que se opongan a este Decreto.
 ###### ARTÍCULO TERCERO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
+
+CUARTO. Los actuales magistrados que integran el Tribunal Electoral del Estado de Guerrero, permanecerán en el cargo, hasta en tanto el Senado de la República nombre a los nuevos Magistrados integrantes del mismo.
