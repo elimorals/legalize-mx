@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-los-organos-auxiliares-del-congreso-del-69272"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LOS ORGANOS AUXILIARES DEL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LOS ORGANOS AUXILIARES DEL CONGRESO DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE LOS ÓRGANOS AUXILIARES DEL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -259,7 +259,9 @@ III. Aprobar el programa anual de actividades de conformidad con el presupuesto 
 
 IV. Establecer las políticas generales de investigación y difusión;
 
-V. Seleccionar la terna de los candidatos a ocupar la Dirección General del Instituto;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+V. Designar al Director General del Instituto.
 
 VI. Proponer al Pleno la remoción del Director General, en caso de que éste incumpla con las obligaciones que le señalan la Ley y el Reglamento;
 
@@ -317,29 +319,17 @@ VI. Contar con experiencia en materia parlamentaria e investigación.
 
 El Director General permanecerá en su encargo el tiempo que dure la legislatura durante la cual fue nombrado, pudiendo ser removido en cualquier tiempo por el Pleno.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 19.
 
-Para el nombramiento del Director General se observará el siguiente procedimiento:
+El Consejo designará al Director General a más tardar el treinta y uno de enero del Primer Año de Ejercicio Constitucional de la Legislatura, sujetándose a los siguientes lineamientos:
 
-I. El Consejo formulará una convocatoria abierta y la publicará en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación de la Entidad, en los estrados del Congreso y de otras dependencias o instituciones públicas, a efecto de que los interesados en ocupar el cargo se inscriban para participar en un concurso de oposición;
+I. Cada Grupo Parlamentario o Fuerza Política representada en el Congreso del Estado podrá proponer a un aspirante, el cual tendrá que cumplir los requisitos previstos en el Artículo 17 de este Reglamento por lo que se deberá anexar la documentación que lo acredite;
 
-II. En la convocatoria se señalarán los requisitos para la inscripción; las fechas de apertura y cierre de inscripción; el lugar y la fecha en que deberán de presentarse los aspirantes para efectuar el examen de conocimientos;
+II. El Consejo citará a los aspirantes que cumplan los requisitos a fin de que expongan sus propuestas de programa de trabajo y respondan los cuestionamientos, que en su caso, realicen los integrantes del propio Consejo; y
 
-III. Los requisitos para la inscripción serán los siguientes:
-
-A. Llenar formato de solicitud de registro; y
-
-B. Presentar currículum vitae.
-
-IV. El Consejo formulará el examen por escrito, para lo cual solicitará el apoyo de Instituciones de Educación Superior del Estado;
-
-V. Se aplicará el examen a los aspirantes en la forma y términos que establezca el Consejo, pero en todo caso se observará que exista imparcialidad, para lo cual intervendrán los catedráticos designados por las instituciones de educación superior que hayan colaborado en la formulación del examen;
-
-VI. La revisión del examen se llevará a cabo por los miembros del Consejo y los catedráticos que hayan colaborado en la formulación del examen;
-
-VII. Una vez efectuada la revisión del examen presentado por los aspirantes, el Consejo evaluará el resultado y designará a aquellos que deban integrar la terna que será presentada al Pleno del Congreso, para lo cual tomarán en cuenta el resultado del examen, su perfil profesional y sus antecedentes, para lo cual podrán efectuar una entrevista a los aspirantes: y
-
-VIII. El Pleno del Congreso mediante mayoría absoluta elegirá de entre la terna propuesta, a quien deberá fungir como Director General.
+III. El Consejo elegirá al Director General con el voto de la mayoría de sus integrantes y lo llamará para que rinda la protesta de Ley correspondiente.
 
 ###### ARTÍCULO 20.
 
@@ -371,7 +361,7 @@ XII. Distribuir los asuntos que sean turnados al Instituto y que requieran una l
 
 XIII. Presentar cada seis meses al Consejo el informe del desempeño de las actividades del Instituto;
 
-XlV. Proponer al Consejo, el nombramiento de los servidores públicos del Instituto, de conformidad con el presupuesto de egresos autorizado y las normas relativas a la materia;
+XIV. Proponer al Consejo, el nombramiento de los servidores públicos del Instituto, de conformidad con el presupuesto de egresos autorizado y las normas relativas a la materia;
 
 XV. Solicitar al Consejo la remoción de los Coordinadores, en caso de que éstos no cumplan cabalmente con sus obligaciones;
 
@@ -731,7 +721,7 @@ XII. Impulsar el establecimiento de sistemas, procesos y procedimientos administ
 
 XIII. Analizar y emitir opiniones sobre los manuales administrativos de los órganos técnicos y administrativos del Congreso, así como mantener un registro de los mismos;
 
-XlV. Informar trimestralmente al Contralor de los resultados de las actividades realizadas, de los avances en la formulación de proyectos, acuerdos y circulares, así como del control de declaraciones patrimoniales, quejas y denuncias, asuntos de orden jurídico y administrativo inherentes a las atribuciones y responsabilidades del departamento; y
+XIV. Informar trimestralmente al Contralor de los resultados de las actividades realizadas, de los avances en la formulación de proyectos, acuerdos y circulares, así como del control de declaraciones patrimoniales, quejas y denuncias, asuntos de orden jurídico y administrativo inherentes a las atribuciones y responsabilidades del departamento; y
 
 XV. Las demás que les sean encomendadas por el Contralor en el marco de las disposiciones jurídicas vigentes.
 
@@ -808,3 +798,19 @@ DIPUTADO PRIMER SECRETARIO.
 Luis David Mendoza Esparza,
 
 DIPUTADO SEGUNDO SECRETARIO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión las propuestas de aspirantes para designar al próximo Director General, serán presentadas exclusivamente por los integrantes del Consejo.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado.
