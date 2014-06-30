@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2014-04-29"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -683,7 +683,9 @@ Se entiende por candidatura independiente la postulación de los ciudadanos a un
 
 4. Los candidatos independientes gozarán entre sí y con relación a los partidos políticos que contiendan en una elección, en términos de equidad, de los derechos y prerrogativas que determine la ley de la materia;
 
-5. Los candidatos independientes gozarán en los periodos de precampañas y campañas, de los tiempos en radio y televisión conforme lo prescriben los Apartados A y B, de la base III, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, y lo determine el Instituto Nacional Electoral y las leyes de la materia.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+5. Los candidatos independientes gozarán en los periodos de campaña de los tiempos en radio y televisión conforme lo prescriben los incisos a) y b), apartado A de la base tercera, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, y lo determine el Instituto Nacional Electoral y las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -968,6 +970,10 @@ II. La asignación seguirá el orden establecido en las listas registradas por l
 III. Ningún partido político podrá contar con más de veintiocho diputados por ambos principios de representación; y,
 
 IV. El porcentaje máximo de sobrerrepresentación (sic) entre el número de diputados y la votación estatal obtenida por cada partido político, será de ocho puntos porcentuales, con excepción de los casos en que los triunfos de mayoría relativa superen ese porcentaje.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación emitida menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2039,11 +2045,11 @@ Tratándose de los Magistrados del Tribunal Electoral del Estado de Guerrero cor
 
 4. Los nombramientos deberán recaer, preferentemente, en aquellas personas que presten sus servicios al Estado de Guerrero, que en el ejercicio de su función se hayan caracterizado por su eficiencia, probidad, honorabilidad, especialización y profesionalismo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 113.
 
-Los integrantes de los Órganos Autónomos, deberán rendir la protesta constitucional de su encargo ante el pleno del Congreso del Estado, previo al inicio de sus funciones.
+Los integrantes de los Órganos Autónomos, deberán rendir la protesta constitucional de su encargo ante el pleno del Congreso del Estado, previo al inicio de sus funciones, con excepción de los miembros del Instituto Electoral y de Participación Ciudadana y del Tribunal Electoral.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2351,17 +2357,17 @@ XI. Las demás que determine la Ley.
 
 El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, podrá celebrar convenios con el Instituto Nacional Electoral para que éste asuma la organización de los procesos electorales locales, en los términos que disponga la ley.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 130.
 
-En las elecciones locales corresponde al Instituto Nacional Electoral, lo dispuesto en el artículo 41, Base IV, Apartado B, inciso a) de la Constitución Política de los Estados Unidos Mexicanos.
+En las elecciones locales corresponde al Instituto Nacional Electoral, lo dispuesto en el artículo 41, Base V, Apartado B, inciso a) de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 131.
 
-Acorde a lo prescrito en el artículo 41, base IV, Apartado C, segundo párrafo, y en los supuestos que establezca (sic) ley y con la aprobación de una mayoría de cuando menos ocho votos del Consejo General, el Instituto Nacional Electoral asumirá las elecciones locales.
+Acorde a lo prescrito en el artículo 41, base V, Apartado C, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, y en los supuestos que establezca la ley y con la aprobación de una mayoría de cuando menos ocho votos del Consejo General, el Instituto Nacional Electoral asumirá las elecciones locales.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2389,11 +2395,15 @@ La función de proteger los derechos político-electorales de los ciudadanos, y 
 
 La actuación del Tribunal Electoral del Estado de Guerrero deberá regirse por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
 
-1. Se integrará con siete Magistrados nombrados por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+1. Se integrará con cinco Magistrados electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley;
 
 2. Contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y su reglamento, así como con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley; y,
 
-3. Funcionará en Pleno, una Sala de Segunda Instancia y 7 Salas Unitarias.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+3. El Tribunal Estatal Electoral actuará en forma Colegiada.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4640,3 +4650,11 @@ VIGÉSIMO. La Ley Electoral del Estado establecerá el procedimiento para el reg
 VIGÉSIMO PRIMERO. Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad para los efectos en lo dispuesto por el artículo 125 fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero y oportunamente en su caso, expídase el Acuerdo de ratificación respectiva.
 
 VIGÉSIMO SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Remítase el presente Decreto a los Honorables Ayuntamientos de la entidad para los efectos en lo dispuesto por el Artículo 199, numeral 1 fracción III, de la Constitución Política del Estado Libre y Soberano de Guerrero y oportunamente en su caso, expídase el Acuerdo de ratificación respectiva.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
