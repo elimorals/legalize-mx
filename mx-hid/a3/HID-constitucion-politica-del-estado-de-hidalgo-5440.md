@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-06-16"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -645,11 +645,13 @@ La soberanía del Estado, reside esencial y originariamente en el pueblo hidalgu
 
 La renovación de los poderes legislativo y ejecutivo, así como de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral y los que cuenten con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+I.- Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
 
-Los partidos politicos tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación Estatal y Municipal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a diputadas y diputados locales.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
@@ -667,11 +669,17 @@ La Ley establecerá el procedimiento para la liquidación de los partidos locale
 
 Los partidos políticos tendrán derecho de acceso a la radio y la televisión, conforme a las normas establecidas en el Apartado B de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
-Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-La Ley electoral fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales; establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador; y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con los que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+La ley determinará los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes.
 
 La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular; las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos; y las sanciones para quienes las infrinjan.
 
@@ -693,9 +701,7 @@ El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, a
 
 El Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral que se haga cargo de la organización de los procesos electorales locales. La propuesta para la celebración del convenio correspondiente deberá ser aprobada por el voto de al menos cuatro de los Consejeros Electorales del Consejo General y deberá contener los motivos y fundamentos que sustenten la necesidad y posibilidad para la celebración del convenio, el proyecto de reestructuración administrativa, financiera y laboral del propio Instituto Estatal, los montos a erogar y la forma en que habrán de cubrirse al Instituto Federal Electoral.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
-
-El Instituto Estatal Electoral de Hidalgo podrá coordinarse con el órgano técnico del Consejo General del Instituto Federal Electoral, a través de la suscripción de un convenio, en el que se establezcan las bases y los procedimientos para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en la fiscalización de las finanzas de los partidos políticos en el ámbito de la Entidad.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 IV. Para garantizar la legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señale esta Constitución, y las leyes respectivas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de esta Constitución. Correspondiendo al Tribunal Electoral la aplicación del sistema mencionado.
 
@@ -3594,3 +3600,9 @@ P.O. 3 DE MARZO DE 2014.
 P.O. 16 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
