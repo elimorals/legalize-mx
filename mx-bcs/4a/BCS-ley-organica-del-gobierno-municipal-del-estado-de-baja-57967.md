@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2014-06-28"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -851,7 +851,7 @@ I.- Incurrir en violaciones graves y reiteradas a la Constitución Política de 
 
 II.- La ausencia de la mayoría de los integrantes, tanto propietarios como suplentes, de manera que no pueda integrarse;
 
-III.- La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 144 de la Constitución Política Local, de la mayoría de sus integrantes (sic) y no pueda integrarse aún con los suplentes;
+III.- La renuncia calificada por el Congreso del Estado o la Diputación Permanente, en los términos previstos por el artículo 144 de la Constitución Política Local, de la mayoría de sus integrantes y no pueda integrarse aún con los suplentes;
 
 IV.- La declaratoria de procedencia por el Congreso del Estado, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur y de la Ley Reglamentaria del Poder Legislativo, respecto de la mayoría de los integrantes y no pueda integrarse éste, aún con los suplentes; y
 
@@ -1335,6 +1335,10 @@ XVI. Integrar los estados contables de cierre de ejercicio de la Administración
 
 XVII. Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, productos y aprovechamientos, contribuciones de mejoras.
 
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2014)</small>
+
+XVII BIS. Cancelar créditos incobrables a favor del Municipio, conforme a las leyes fiscales en vigor, informando al Cabildo.
+
 XVIII. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 ### CAPITULO SÉPTIMO. De la Oficialía Mayor
@@ -1689,7 +1693,7 @@ I. Cumplimiento del plazo;
 
 II. Revocación;
 
-III. Caducidad (sic)
+III. Caducidad
 
 IV. Cualquiera otra prevista en el título-concesión.
 
@@ -1960,6 +1964,14 @@ El presupuesto deberá ser aprobado por mayoría calificada del Ayuntamiento. En
 ###### Artículo 185.
 
 Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación y ser sancionado por mayoría calificada del Ayuntamiento.
+
+###### Artículo 107.
+
+Integrarán la administración pública descentralizada los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, institutos, patronatos y comités.
+
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
+
+Los fideicomisos municipales, emisores de valores a que se refiere el Capítulo Quinto de la Ley de Deuda Pública para el Estado, así como los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos de obligaciones contraídas por los Municipios o Entidades Públicas municipales, no serán considerados fideicomisos públicos, ni formarán parte de la administración pública descentralizada, por lo que no les es aplicable lo previsto por la presente Ley.
 
 ###### Artículo 186.
 
@@ -2382,3 +2394,9 @@ B.O. 28 DE JUNIO DE 2014.
 Primero.- Las presentes Reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
