@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-de-proyectos-de-prestacion-de-61006"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-05"
-last_updated: "2008-05-05"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61006&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de mayo de 2008.
 
@@ -311,7 +313,7 @@ El costo total del Proyecto de prestación de Servicios debe ser calculado como 
 
 El modelo básico para estimar el valor presente de los flujos estimados de pago de un Proyecto de Prestación de Servicios “PPS” es el siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 A partir de la estimación de los costos del inversionista proveedor, así como de su utilidad requerida, se obtiene el flujo estimado de pagos al inversionista proveedor, el cual se utilizará como variable para el cálculo del valor presente neto de un Proyecto de prestación de Servicios, que a continuación se describe:
 
@@ -319,7 +321,7 @@ Valor presente neto de un Proyecto de Prestación de Servicios
 
 El modelo básico para estimar el valor presente neto de un Proyecto de Prestación de Servicios es el siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 h) Los costos adicionales, los cuales serán la suma del costo de los riesgos retenibles y el costo base que, en su caso, tenga que erogar la dependencia o entidad;
 
@@ -460,3 +462,11 @@ Lic. Juan Ángel José Pérez Talamantes
 EL SECRETARIO DE FINANZAS DEL ESTADO
 
 C.P.C. Raúl Gerardo Cuadra García
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, publicado en la primera sección del Periódico Oficial del Estado de Aguascalientes el día cinco de mayo de dos mil ocho.
