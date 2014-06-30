@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2013-06-26"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 CÓDIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LA TERCERA DISPOSICIÓN TRANSITORIA DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -4628,3 +4630,51 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERA. Remítase el presente Código al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Código entrará en vigor el día de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, con excepción de lo dispuesto en la Disposición Transitoria Quinta.
+
+TERCERA. El presente Código de Instituciones y Procedimientos Electorales para el Estado de Morelos, abroga el Código Electoral del Estado Libre y Soberano de Morelos aprobado por la Quincuagésima Legislatura del Congreso del Estado de Morelos y publicado en el Periódico Oficial “Tierra y Libertad” número 4647 de fecha 2 de octubre de 2008.
+
+CUARTA. El Consejo Estatal del Instituto Estatal Electoral deberá adecuar, en un plazo no mayor a 45 días naturales, los reglamentos, estatutos, manuales y, en general, toda la normatividad que correspondan a la aplicación de las nuevas atribuciones y facultades que contempla el presente Código.
+
+QUINTA. El Instituto Morelense de Procesos Electorales y Participación Ciudadana se integrará cuando el Consejero Presidente y los Consejeros Electorales sean designados por el Consejo General del Instituto Nacional y, después de rendir la protesta a que se refiere el artículo 133 de la Constitución Política del Estado Libre y Soberano de Morelos, constituyan el Consejo Estatal Electoral, en los siguientes términos:
+
+1. A partir de la instalación del Consejo Estatal a que se refiere esta disposición, iniciará la vigencia de las normas contenidas en el Libro Tercero del presente Código.
+
+2. Una vez instalado el Consejo Estatal, se extinguirá el órgano constitucional autónomo denominado Instituto Estatal Electoral.
+
+3. Todos los recursos humanos, materiales y presupuestales asignados al Instituto Estatal Electoral serán transferidos al Instituto Morelense de Procesos Electorales y Participación Ciudadana, sujetándose a los procedimientos legales pertinentes.
+
+4. Todas las referencias contenidas en el marco jurídico y administrativo del Estado de Morelos, que hagan referencia al Instituto Estatal Electoral, se entenderán hechas al Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+5. Todos los asuntos encomendados al Instituto Estatal Electoral, serán continuados por el Instituto Morelense de Procesos Electorales y Participación Ciudadana, en términos de la legislación aplicable al momento de su inicio.
+
+6. Los procesos de fiscalización realizados por el Instituto Estatal Electoral, en términos del Código que se abroga, serán continuados y concluidos por el Instituto Morelense de Procesos Electorales y Participación Ciudadana, en términos de la normativa que les dio origen.
+
+7. Los derechos laborales de los servidores públicos del Instituto Estatal Electoral, transferidos al Instituto Morelense de Procesos Electorales y Participación Ciudadana, serán respetados y quedarán a salvo, en términos de la legislación aplicable.
+
+8. Todas las prestaciones sociales que se encuentran a cargo del Instituto Estatal Electoral serán transferidas al Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+SEXTA. La actual conformación del Consejo Estatal Electoral del Instituto Estatal Electoral continuará en el ejercicio de sus funciones, hasta en tanto sean designados el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, por el Consejo General del Instituto Nacional, en términos de lo establecido en el transitorio noveno del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral publicado en el Diario Oficial de la Federación en fecha 10 de febrero de 2014 y en la disposición transitoria octava del decreto de la reforma Constitucional local en materia Político-electoral, cuya declaratoria realizo este Congreso el día veinticinco de junio de dos mil catorce.
+
+SÉPTIMA. Los Magistrados del órgano jurisdiccional local en materia electoral, que se encuentran en funciones, continuarán en su encargo hasta en tanto se realicen los nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, y lo dispuesto en el artículo Décimo Transitorio del Decreto que reforma, adiciona y deroga diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia Político-Electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
+
+OCTAVA. Por única ocasión, el proceso electoral ordinario local cuya jornada electoral se llevará a cabo el primer domingo de junio del año 2015, iniciará el día 4 del mes de octubre del año 2014.
+
+NOVENA. Con motivo del inicio del proceso electoral 2014-2015 precisado en el transitorio que antecede, el Consejo Estatal Electoral del Instituto Estatal Electoral, a más tardar el 15 de julio del año 2014, realizará las modificaciones del programa operativo anual, programa anual de actividades y de su presupuesto de egresos por año electoral, contemplando la ampliación presupuestal relativa a gasto ordinario, gasto operativo por año electoral y prerrogativas a partidos políticos por año electoral.
+
+DÉCIMA. Efectuada la modificación al presupuesto de egresos del Instituto Estatal Electoral, será turnada la solicitud de ampliación presupuestal por año electoral al Poder Ejecutivo del Estado para su trámite correspondiente.
+
+DÉCIMA PRIMERA. Por única ocasión y en términos del artículo 40, fracción XXXIV de la Constitución Política del Estado Libre y Soberano de Morelos, el Congreso del Estado deberá emitir la convocatoria a elecciones de los integrantes del Congreso del Estado y de ayuntamientos a más tardar el día 15 septiembre del año 2014.
+
+DÉCIMA SEGUNDA. Los derechos, registros, acreditaciones y prerrogativas de los partidos políticos, vigentes hasta antes de la entrada en vigor del presente Código, se tendrán como transferidos al Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+DÉCIMA TERCERA. En relación a la creación de la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, los recursos humanos y materiales requeridos para su funcionamiento deberán contemplarse en el Presupuesto de Egresos para el ejercicio fiscal del año 2015.
+
+DÉCIMA CUARTA. En relación al voto de los morelenses en el extranjero contemplado en el presente Código, para los efectos de su aplicación el Instituto Morelense de Procesos Electorales y Participación Ciudadana deberá prever en el convenio correspondiente con el Instituto Nacional Electoral la instrumentación más adecuada para hacer efectivo este derecho a los ciudadanos morelenses residentes en el extranjero y prever en el proyecto de Presupuesto de Egresos del ejercicio fiscal del año 2017 los recursos necesarios para su aplicación.
+
+DÉCIMA QUINTA. Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan al presente.
