@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-medios-de-impugnacion-en-materia-82376"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-30"
-last_updated: "2011-06-30"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de junio de 2011.
 
@@ -1006,3 +1008,29 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abroga la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de San Luis Potosí, expedida como Decreto 579 de la Quincuagésima Novena Legislatura Constitucional del Congreso del Estado de San Luis Potosí, y publicada el 30 de junio de 2011 en el Periódico Oficial del Estado.
+
+TERCERO. Los magistrados del Tribunal Electoral del Poder Judicial del Estado que se encuentren en funciones a la entrada en vigor de las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal. Los magistrados podrán ser elegibles para un nuevo nombramiento.
+
+CUARTO. Una vez que sean nombrados los magistrados electorales por el Senado de la República, los recursos humanos, materiales, presupuestales y financieros para el año 2014 del Tribunal Electoral del Poder Judicial del Estado, seguirán formando parte y (sic) ejercidos por el Poder Judicial del Estado; sin menoscabo de los derechos laborales de todos y cada uno de los trabajadores que actualmente lo integran, y de conformidad con las leyes de la materia.
+
+Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales, de fecha veintidós de mayo del presente año, expedido por el Congreso de la Unión, seguirán bajo la competencia del actual Tribunal Electoral del Poder Judicial del Estado hasta su conclusión.
+
+Los medios de impugnación en materia electoral que a la fecha de inicio de vigencia del presente Decreto se hayan promovido en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, seguirán tramitándose bajo esa Ley; y hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado del Poder Judicial del Estado, el que deberá entregar, a través del proceso de entrega - recepción, los asuntos en trámite y el estado que guardan los mismos al órgano de nueva creación.
+
+Los procedimientos jurisdiccionales que se están tramitando ante el actual Tribunal Electoral del Poder Judicial del Estado en su carácter de sala auxiliar en razón de las competencias designadas por el Pleno del Supremo Tribunal de Justicia del Estado, continuarán recibiéndose y substanciándose por la misma, hasta en tanto se cumplan las disposiciones a que se refiere el párrafo Segundo de este Transitorio; cumplido el supuesto, deberá iniciarse y ejecutarse el proceso de entrega-recepción de los asuntos en trámite de acuerdo con la asignación que para este efecto determine el Poder Judicial del Estado.
+
+QUINTO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Estado, deberá destinar las partidas presupuestales para la creación y funcionamiento del Tribunal Electoral del Estado como organismo constitucional autónomo, para el debido cumplimiento de sus atribuciones de conformidad con la normativa aplicable; así como de las diversas obligaciones que se desprendan del presente Decreto.
+
+SEXTO. El Congreso del Estado de San Luis Potosí, deberá realizar el procedimiento para nombrar a los magistrados supernumerarios, previo al inicio del proceso electoral.
+
+SÉPTIMO. Una vez integrado el Tribunal Electoral del Estado, deberá emitir su reglamento interior en un plazo máximo de treinta días.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
