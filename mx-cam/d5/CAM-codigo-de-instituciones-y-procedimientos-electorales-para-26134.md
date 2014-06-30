@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-instituciones-y-procedimientos-electorales-para-26134
 country: "mx"
 rank: "codigo"
 publication_date: "2002-09-30"
-last_updated: "2011-10-14"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
+CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADA).
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de septiembre del 2002.
 
@@ -927,7 +929,7 @@ III. La elección de los integrantes de sus órganos de dirección;
 
 IV. Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular; y
 
-V. Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados; (sic)
+V. Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados;
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -6755,6 +6757,8 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta días del mes de septiembre del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 30 DE SEPTIEMBRE DE 2005.
 
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -6788,3 +6792,29 @@ P.O. 14 DE OCTUBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Instituciones y Procedimientos Electorales para el Estado de Campeche publicado en el Periódico Oficial del Estado el 30 de septiembre de 2002, así como sus reformas y adiciones.
+
+TERCERO.- Todos los asuntos legales y administrativos o de cualquier otra índole que se encuentren en trámite ante el Instituto Electoral u otra autoridad a la entrada en vigor del presente decreto, serán resueltos conforme a las disposiciones contenidas en el Código de Instituciones y Procedimientos Electorales para el Estado de Campeche y normatividad vigente al momento de su inicio.
+
+CUARTO.- Por única ocasión, el proceso electoral en el Estado iniciará en la primera semana del mes de octubre de 2014 y la jornada electoral se celebrará el primer domingo de junio de 2015. Para tal efecto el Consejo General del Instituto Electoral del Estado de Campeche aprobará los ajustes necesarios a los plazos establecidos en esta Ley de Instituciones a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en Ley de Instituciones y Procedimientos Electorales del Estado de Campeche.
+
+QUINTO.- El Instituto Electoral del Estado de Campeche solicitará la ampliación presupuestal correspondiente a efecto de cumplir con el mandamiento de dar inicio con el proceso electoral en la primera semana del (sic) octubre de 2014 y desarrollar las diversas actividades relacionadas con éste, por lo que el Congreso del Estado le ministrará los recursos necesarios para tal fin.
+
+SEXTO.- Los procesos electorales en los posteriores periodos iniciarán en el mes de septiembre del año anterior a la elección de que se trate. Para ello el Consejo General del Instituto Electoral del Estado de Campeche aprobará los ajustes necesarios a fin de garantizar el debido cumplimiento de los plazos y procedimientos contenidos en la presente Ley de Instituciones.
+
+SÉPTIMO.- Las elecciones locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio, por lo que el Consejo General del Instituto deberá realizar los ajustes necesarios a los plazos y demás procedimientos contenidos en la presente Ley de Instituciones.
+
+OCTAVO.- El financiamiento público de los partidos políticos y de los candidatos independientesa (sic) que se refiere el presente decreto, entrará en vigor a partir del mes de enero de 2015.
+
+NOVENO.- La reforma en materia de reelección de diputados locales, así como a presidentes municipales, regidores y síndicos de ayuntamientos y juntas municipales serán aplicables a partir del año 2018.
+
+DÉCIMO.- Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones y partidos políticos en el Estado, que la Unidad de Fiscalización del Instituto Electoral haya iniciado o se encuentre en trámite a la entrada en vigor de la Ley General de Instituciones y Procedimientos Electorales y de la Ley General de Partidos, seguirá bajo la competencia de la misma y serán resueltas conforme a los plazos y procedimientos señalados en el Código de Instituciones y Procedimientos Electorales para el Estado de Campeche en vigor al momento de su inicio.
+
+DÉCIMO PRIMERO.- Los recursos erogados correspondiente (sic) a los partidos políticos, agrupaciones políticas, y de los candidatos independientes durante el proceso electoral 2014-2015, así como del financiamiento público que se otorgará para el año 2015, serán fiscalizados por la Unidad de Fiscalización del Instituto Nacional Electoral o en caso de ser delegada esta función al Instituto Electoral se realizará por la Unidad de Fiscalización de este órgano local.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente decreto la actual Unidad de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas del Instituto Electoral asumirá las funciones de la "Unidad de Vinculación con el Instituto Nacional Electoral", por lo que su titular y demás personal adscrito deberá ser integrado al recién creado Órgano Técnico conservando sus derechos laborales adquiridos y otorgándoseles los nombramientos correspondientes. Por lo que, una vez concluidas las funciones de fiscalización electoral conocerá exclusivamente de los asuntos de vinculación. Para el caso de ser delegada la función de fiscalización electoral al Instituto Electoral se integrará nuevamente la Unidad de Fiscalización nombrando para ello los órganos competentes del Instituto Electoral al titular y al personal respectivo.
