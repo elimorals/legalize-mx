@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2014-04-11"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NÚMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -3855,7 +3857,7 @@ En este caso tendrán preferencia para integrar las Mesas Directivas de Casilla,
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
-VIII. Realizada la integración de las Mesas Directivas de Casilla, los Consejos Distritales entre el quince y el veinticinco de mayo del año de la elección, ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada Distrito; y (sic)
+VIII. Realizada la integración de las Mesas Directivas de Casilla, los Consejos Distritales entre el quince y el veinticinco de mayo del año de la elección, ordenarán la publicación de las listas de sus miembros para todas las secciones electorales en cada Distrito; y
 
 IX. Los Consejos Distritales, notificarán personalmente a los integrantes de las Mesas Directivas de Casilla, su respectivo nombramiento y los citarán a rendir la protesta de ley.
 
@@ -5946,3 +5948,69 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periodico Oficial del Gobierno del Estado.
+
+SEGUNDO. A partir de que entre en vigor la presente Ley, queda abrogada la Ley número 571 de Instituciones y Procedimientos Electorales del Estado de Guerrero.
+
+TERCERO. Los archivos, bienes muebles y recursos humanos, materiales y financieros del Instituto Electoral del Estado de Guerrero pasarán al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+CUARTO. El Consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Electoral, tan pronto se instale éste, procederá a recibir los archivos, bienes y recursos a que se refiere el artículo anterior. Asimismo adoptaran las medidas necesarias para iniciar la puesta en funcionamiento del Instituto Electoral y de Participación Ciudadana, en los términos establecidos en la presente Ley, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, ordenamientos aplicables, bases, reglas y lineamientos emitidos por el Instituto Nacional Electoral.
+
+Para llevar a cabo dicho procedimiento el Secretario Ejecutivo, deberá solicitar la intervención de la Auditoría General del Estado.
+
+QUINTO. Por única ocasión, el proceso electoral ordinario correspondiente a las elecciones respectivas que tendrán lugar el primer domingo de junio del año 2015 iniciarán en la primera semana del mes de octubre del año 2014, en correlación con el artículo noveno transitorio de la Ley General de Instituciones y Procedimientos Electorales, expedida el 22 de mayo del 2014.
+
+SEXTO. Las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio, en correlación con el artículo décimo primero transitorio de la Ley General de Instituciones y Procedimientos Electorales, expedida el 22 de mayo del 2014.
+
+SÉPTIMO. Las actuales disposiciones en materia de financiamiento y fiscalización que establece la Ley de Instituciones y Procedimientos Electorales del Estado de Guerrero, estará vigente hasta en tanto el Instituto Nacional expida las disposiciones en estas materias, conforme a sus facultades constitucionales.
+
+OCTAVO. El registro y asignación del diputado migrante o binacional establecidos en los artículos 17, 18 y 19 de la presente Ley, sera aplicado a partir de la elección de diputados y ayuntamientos que se verificará en el año 2018.
+
+NOVENO. El voto de los ciudadanos guerrerenses en el extranjero consignado en la presente Ley, será ejercido hasta la elección de Gobernador que se verificará en el año 2021, para ese efecto el Instituto Electoral realizará los estudios de factibilidad y operación y se estará a lo establecido en el Título Sexto de la Ley General Electoral y lineamientos que emita el Instituto Nacional Electoral.
+
+DÉCIMO. Todas las disposiciones relativas al servicio Profesional Electoral contempladas en la Ley de Instituciones y Procedimientos Electorales publicada en el periódico oficial del estado de fecha 1 de enero de 2008, tendrán vigencia en tanto el Instituto Nacional emita la Normatividad, en términos del transitorio décimo cuarto de la Ley General de Instituciones y Procedimientos Electorales.
+
+UNDÉCIMO. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, designará a los nuevos presidentes y consejeros de los consejos distritales electorales. Los consejeros designados con anterioridad continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el presente Transitorio; y podrán participar en dicho procedimiento sujetándose a las reglas que determine la ley y el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+DUODÉCIMO. El Secretario General del Instituto Electoral, actualmente en funciones continuará en el cargo hasta la conclusión del periodo para el cual fue nombrado, como Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+DÉCIMO TERCERO. Los asuntos y procedimientos cuyo trámite se haya iniciado previo a la vigencia de la presente Ley, serán sustanciados y resueltos conforme a lo establecido en la Ley número 571 de Instituciones y Procedimientos Electorales. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+DÉCIMO CUARTO. Se autoriza al Poder Ejecutivo para que a través de la Secretaría de Finanzas y Administración, realice las transferencias presupuestales necesarias, a efecto de que el Instituto Electoral y de Participación Ciudadana pueda llevar a cabo las actividades que están encomendadas en la presente Ley.
+
+DÉCIMO QUINTO. El proceso electoral de Gobernador, Diputados y Ayuntamientos de 2015, se llevará a cabo en las siguientes fechas y plazos:
+
+Para Gobernador:
+
+I. La Precampaña electoral se establece de la tercera semana de diciembre de 2014 a la tercera semana de febrero de 2015;
+
+II. El Registro de Candidatos se llevará a cabo del dieciocho de febrero al primero de marzo de 2015;
+
+III. La aprobación del registro se llevará a cabo del dos al cinco de marzo de 2015; y
+
+IV. La (sic) campañas inician al día siguiente de la aprobación del registro.
+
+Para Diputados Locales:
+
+I. La Precampaña electoral se establece de la tercera semana de enero a la primera semana de marzo de 2015;
+
+II. El Registro de Candidatos a diputados de mayoria se llevará a cabo del veintiseis de marzo al primero de abril y de Representación proporcional del dos al nueve de abril de 2015;
+
+III. La aprobación del registro se llevará a cabo del dos al cuatro de abril para diputados de mayoría y del trece al quince de abril de 2015; y
+
+IV. La (sic) campañas inician al día siguiente de la aprobación del registro.
+
+Para Ayuntamientos:
+
+I. La Precampaña electoral se establece de la primera semana a la cuarta semana de marzo de 2015;
+
+II. El Registro de Candidatos se llevará a cabo del quince al veintiuno de abril de 2015;
+
+III. La aprobación del registro se llevará a cabo del veintidos al veinticuatro de abril de 2015; y
+
+IV. La (sic) campañas inician al día siguiente de la aprobación del registro.
+
+DÉCIMO SEXTO. Se abrogan todas las disposiciones jurídicas que se opongan a la presente Ley.
