@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2011-06-30"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
+CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JUNIO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -53,7 +51,7 @@ Las personas físicas y morales, mexicanas o extranjeras que se encuentren en la
 
 Ninguna contribución podrá recaudarse, si no está prevista en la Ley de Ingresos del Estado, en la correspondiente de los municipios, o en sus respectivas modificaciones.
 
-> <small>(DEROGADO CUARTO PARRAFO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 11 DE MARZO DE 2008)</small>
 
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos de alguno o algunos de los municipios del Estado, así como la del Estado, se aplicarán respectivamente las que se hayan aprobado y publicado con la fecha más reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -153,7 +151,7 @@ Cuando las autoridades fiscales del Estado, actúen en funciones de autoridad fi
 
 Las leyes fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado y en cada uno de los municipios, en su caso, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, salvo que en ellas se establezca una fecha posterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -285,7 +283,7 @@ b) Cuando no tengan domicilio en el Estado y realicen actividades a través de r
 
 Todas las diligencias o notificaciones deberán practicarse en el lugar del domicilio fiscal declarado al Registro Estatal o Municipal de Contribuyentes; sin embargo, las propias autoridades fiscales podrán practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este mismo artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -441,13 +439,17 @@ Cuando se perciba el ingreso o se remunere el trabajo personal subordinado en bi
 
 Cuando las leyes fiscales hagan referencia a salario mínimo, se entenderá el salario mínimo general diario vigente en el territorio del Estado de Baja California Sur, dado a conocer por la Comisión Nacional de los Salarios Mínimos, en el momento de la realización de la situación jurídica o de hecho prevista en las mismas.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 25.
 
-El monto de las contribuciones, aprovechamientos o de las devoluciones a cargo del fisco estatal o de los municipios, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo, el cual será calculado hasta el diezmilésimo. Las contribuciones no se actualizarán por fracciones de mes. El citado índice Nacional de Precios al Consumidor es el que calcula el Banco de México y publica en el Diario Oficial de la Federación dentro de los diez primeros días de cada mes siguiente al que corresponda.
+El monto de las contribuciones, aprovechamientos o de las devoluciones a cargo del fisco estatal o de los municipios, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo, el cual será calculado hasta el diezmilésimo. Las contribuciones no se actualizarán por fracciones de mes. El citado índice Nacional de Precios al Consumidor es el que calcula el Instituto Nacional de Estadística y Geografía y publica en el Diario Oficial de la Federación dentro de los diez primeros días de cada mes siguiente al que corresponda.
 
-Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido emitido por el Instituto Nacional de Estadística y Geografía o publicado en el Diario Oficial de la Federación, la actualización de que se trate se realizará aplicando el último índice mensual publicado;
 
-Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal, así como a los valores de bienes u operaciones de que se traten, será 1.
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales, definitivos y del ejercicio, no será deducible ni acreditable.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este Artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal o municipal, así como a los valores de bienes u operaciones de que se traten, será 1.
 
 ### Capitulo Segundo. De los medios electrónicos
 
@@ -469,11 +471,9 @@ La comparecencia de las personas físicas a que se refiere el párrafo anterior,
 
 Para los efectos fiscales, los certificados tendrán una vigencia máxima de dos años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado La Secretaría de Finanzas o en su caso las tesorerías municipales podrán, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dichas autoridades para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dichas autoridades no emiten las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
 
-> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2008)</small>
-
 ###### Artículo 26 Bis.
 
-Tratándose del pago de contribuciones y otros ingresos, podrá efectuarse mediante transferencia electrónica de fondos, a favor de la Secretaría de Finanzas del Gobierno del Estado, o de los Municipios, según se trate.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 27.
 
@@ -683,9 +683,11 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 
 Con excepción de lo previsto en la fracción I del artículo 65, en ningún otro caso las autoridades fiscales podrán liberar a los contribuyentes de la actualización de las contribuciones o condonar, total o parcialmente, los recargos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 39.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente. La devolución deberá hacerse a petición del interesado mediante cheque nominativo y conforme a las disposiciones siguientes:
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente. La devolución deberá hacerse a petición del interesado mediante cheque nominativo o depósito en cuenta bancaria, conforme a las disposiciones siguientes:
 
 I. Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente;
 
@@ -695,13 +697,23 @@ En el caso de contribuciones que se hubieran retenido o trasladado, la devoluci�
 
 Cuando se solicite la devolución, ésta deberá efectuarse dentro de los tres meses siguientes a la fecha de presentación de la solicitud con todos los datos, informes y documentos que señale la forma oficial respectiva, ante la autoridad fiscal competente. Si la devolución no se hubiera efectuado en el plazo a que se refiere este párrafo, las autoridades fiscales deberán pagar las cantidades actualizando su monto y además pagarán intereses, calculando ambos a partir del día siguiente al de vencimiento del plazo antes mencionado, conforme a lo previsto en los artículos 25 y 38 de este Código.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Para efectos de los depósitos en cuenta bancaria, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado, no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse el depósito.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+También se suspenderá el plazo mencionado cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser ésta inexistente o haberse cancelado o cuando el número de la cuenta proporcionado por el contribuyente sea erróneo, hasta en tanto el contribuyente proporcione un número de cuenta válido.
+
 En ningún caso los intereses a cargo del fisco estatal y de los municipios, excederán de los que se causarían en 5 años.
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 40.
 
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios, que sean líquidos y exigibles, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 39 de este Código. En este caso se notificará personalmente al contribuyente la resolución que determine la compensación.
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos hayan quedado firmes por cualquier causa, aun en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el Artículo 39 de este Código. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación.
 
 ###### Artículo 41.
 
@@ -967,6 +979,32 @@ Los contribuyentes que tomen esta opción, deberán presentar el aviso respectiv
 
 Los contribuyentes a que se refiere este artículo deberán presentar dentro de los plazos autorizados el dictamen formulado por contador público registrado, incluyendo la información y documentación, de acuerdo con lo dispuesto en el Reglamento de este Código, a más tardar el 31 de mayo del año inmediato posterior a la terminación del ejercicio fiscal de que se trate.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+###### Artículo 57
+
+Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, así como las Administraciones Públicas Municipales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+
+I. Tengan a su cargo créditos fiscales firmes.
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+III. No se encuentren inscritos en el Registro Estatal y/o Municipal de Contribuyentes.
+
+IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+La prohibición establecida en este Artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este Artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este Artículo.
+
+Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal o municipal para el pago de los adeudos correspondientes.
+
+Igual obligación tendrán los municipios cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente Artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y/o Municipal de Contribuyentes.
+
+Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal y/o Municipal de Contribuyentes.
+
+Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este Artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
 ## Titulo III. De las facultades de las autoridades fiscales
 
 ### Capitulo Único
@@ -1223,13 +1261,13 @@ VI. Si en el cierre del acta final de la visita no estuviere presente el visitad
 
 VII. Las actas parciales se entenderá que forman parte integrante del acta final de la visita, aunque no se señale así expresamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 ###### Artículo 75.
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal o establecimientos de los contribuyentes, así como la revisión de la contabilidad de los mismos que se lleve a cabo en las oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de que se notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 > <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
 
@@ -1261,7 +1299,7 @@ Las autoridades fiscales deberán concluir anticipadamente las visitas en los do
 
 En el caso de conclusión anticipada a que se refiere el párrafo anterior se deberá levantar acta en la que se señale la razón de tal hecho, quedando a salvo las facultades de comprobación de las autoridades fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 ###### Artículo 77.
 
@@ -1515,33 +1553,95 @@ Las copias o reproducciones que deriven del microfilm, disco óptico, medios mag
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de las facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los 30 días siguientes a aquél en que haya surtido efectos su notificación.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 95.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de 36 meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que se debieron haber pagado, hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en el que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto actualizado, a la tasa que mediante Ley, fija anualmente el Congreso del Estado. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades, hasta el mes por el que se calculan los recargos.
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de treinta y seis meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
-Las autoridades fiscales al autorizar el pago a plazos, exigirán se garantice el interés fiscal en los términos de los artículos 172 y 173 de este Código.
+I. Presenten el formato que para tales efectos establezca la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur.
 
-Cesará la autorización para pagar a plazos en forma diferida o en parcialidades, cuando:
+La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente Artículo.
 
-I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente en un plazo no mayor de 15 días, otorgue nueva garantía o amplíe la que resulte insuficiente;
+II. Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-II. Cuando el contribuyente sea declarado en estado de quiebra, concurso, suspensión de pagos o solicite su liquidación judicial;
+a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-III. El contribuyente no pague tres parcialidades sucesivas con los recargos correspondientes.
+b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización.
 
-Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado, el contribuyente estará obligado a pagar recargos al fisco estatal o municipal que corresponda por falta de pago oportuno, conforme a lo establecido por el artículo 38 de este Código, calculados sobre la cantidad no pagada actualizada, debiendo cubrir además los recargos que se causen conforme a la autorización concedida sobre el saldo actualizado, cuyo monto no incluirá el importe de la parcialidad que causó los recargos conforme al artículo 38 de este Código.
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
 
-No procederá la autorización a que se refiere este artículo, tratándose de contribuciones que deban pagarse en el año de calendario en curso, o de las que debieron haberse pagado en los últimos 6 meses del año de calendario inmediato anterior.
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el Artículo 25 de este Código.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 96.
 
-Para efectos de la autorización del pago a plazo, la solicitud deberá presentarse ante la autoridad recaudadora correspondiente, la que resolverá por escrito en un plazo no mayor de 15 días. La solicitud de autorización deberá acompañarse cuando se trate de contribuyentes que se dediquen a actividades empresariales, un informe acerca del movimiento de efectivo en caja y bancos, correspondientes al plazo que se solicita.
+Para los efectos de la autorización a que se refiere el Artículo anterior se estará a lo siguiente:
 
-Cuando el contribuyente solicite autorización en los términos de este artículo, en tanto se resuelve su solicitud, deberá pagar mensualmente parcialidades actualizadas en veinticuatro partes, considerando inclusive los recargos causados conforme a la tasa prevista en el artículo 38 de este Código, hasta la fecha en que se resuelva la solicitud respectiva; cuando dicha solicitud sea para cubrir parcialidades menores a 24 meses, los pagos que deberá hacer mensualmente el contribuyente se efectuarán en proporción a lo solicitado. A más tardar el día hábil siguiente a la fecha en que se presente la solicitud respectiva, deberá efectuarse el pago de la primera parcialidad.
+I. Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago correspondiente al 20% señalado en la fracción II del Artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado de Baja California Sur vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
+
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los Artículos 25 y 38 de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+
+II. Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la fracción II del Artículo anterior, del monto total del adeudo a que hace referencia dicha fracción.
+
+El monto a liquidar por el contribuyente, se calculará adicionando al monto referido en el párrafo anterior, la cantidad que resulte de multiplicar la tasa de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos del Estado de Baja California Sur, vigente en la fecha de la solicitud de autorización de pago a plazos de forma diferida, por el número de meses, o fracción de mes transcurridos desde la fecha de la solicitud de pago a plazos de forma diferida y hasta la fecha señalada por el contribuyente para liquidar su adeudo y por el monto que se diferirá.
+
+El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del Artículo 95 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este Artículo.
+
+La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale la Secretaría de Finanzas o las tesorerías municipales, en sus respectivas competencias, mediante reglas de carácter general.
+
+IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
+
+a) No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, en los casos que no se hubiere dispensado, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+
+b) El contribuyente se encuentre sometido a un procedimiento de concurso mercantil o sea declarado en quiebra.
+
+c) Tratándose del pago en parcialidades el contribuyente no cumpla en tiempo y monto con tres parcialidades o, en su caso, con la última.
+
+d) Tratándose del pago diferido, se venza el plazo para realizar el pago y éste no se efectúe.
+
+En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
+
+El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los Artículo (sic) 25 y 38 de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
+
+V. Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
+
+a) Recargos por prórroga.
+
+b) Recargos por mora.
+
+c) Accesorios en el siguiente orden:
+
+1. Multas.
+
+2. Gastos extraordinarios.
+
+3. Gastos de ejecución.
+
+4. Recargos.
+
+5. Indemnización a que se refiere el octavo párrafo del Artículo 38 de este Código.
+
+d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del Artículo 95 de este Código.
+
+VI. No procederá la autorización a que se refiere este Artículo tratándose de:
+
+a) Contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores al mes en el que se solicite la autorización, excepto en los casos de aportaciones de seguridad social, y
+
+b) Contribuciones retenidas, trasladadas o recaudadas.
+
+La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores, al mes en el que se solicite la autorización, cuando se trate de contribuciones retenidas, trasladadas o recaudadas; cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en los plazos establecidos en las reglas de carácter general que establezca la Secretaría de Finanzas o las tesorerías municipales, en sus respectivas competencias, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el Artículo 95 de este Código.
+
+Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente Artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el Artículo 25 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
 ###### Artículo 97.
 
-Cuando el contribuyente deje de pagar o pague fuera del plazo hasta 3 parcialidades a las que se refiere el segundo párrafo del artículo anterior, se considerará, sólo por ese hecho, que ha desistido de su solicitud, debiendo cubrirse el saldo insoluto con recargos, a partir de la fecha en que debió hacerse el pago, los que se causarán a la tasa prevista en el artículo 38 de este Código.
+(DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 98.
 
@@ -2295,6 +2395,22 @@ IV. Por edictos, únicamente en el caso de que la persona a quien deba notificar
 
 V. Por instructivos, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 168 de este Código.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+La Secretaría de Finanzas, así como los Municipios a través de sus Tesorerías, podrán habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este Artículo, cumpliendo con las formalidades previstas en este Código.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Dicha habilitación de terceros se dará a conocer a través del Boletín Oficial del Gobierno del Estado de Baja California Sur y en la página de Internet de la Secretaría de Finanzas o de las tesorerías municipales, según corresponda.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Para los efectos de los Artículo (sic) 166, 167 y 168 de este Código, el notificador de los terceros habilitados para realizar las notificaciones en los términos del párrafo segundo de este Artículo, deberá identificarse ante la persona con quien se entienda la diligencia, mediante el oficio de habilitación que para tales actos emita la empresa tercera contratada por la Secretaría de Finanzas o por las tesorerías municipales.
+
 ###### Artículo 166.
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberán proporcionarse al interesado original del acto administrativo que se notifique. Cuando la notificación la hagan directamente las autoridades fiscales, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
@@ -2487,13 +2603,35 @@ Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubi
 
 En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 186.
 
-El crédito fiscal se extingue por prescripción en el término de 5 años. El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consume la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consume la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera de su pago.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del Artículo 184 de este Código, también se suspenderá el plazo de la prescripción.
+
+Asimismo, se interrumpirá el plazo a que se refiere este Artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+###### Artículo 186
+
+Bis.- La Secretaría de Finanzas o las tesorerías municipales, podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20,000 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este Artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+La Secretaría de Finanzas dará a conocer las reglas de carácter general para la aplicación de este artículo.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### Artículo 187.
 
@@ -2765,9 +2903,11 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad podrá designar un medio diferente para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 219.
 
-La base para enajenación de los bienes inmuebles embargados será la del avalúo y para negociaciones, el avalúo pericial, ambos conforme a las reglas establecidas en el artículo 220 de este Código y en los demás casos la que fijen de común acuerdo la autoridad y el embargado, en un plazo de 6 días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, una institución de crédito designada por la autoridad, practicará el avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
+La base para enajenación de los bienes inmuebles embargados será la del avalúo y para negociaciones, el avalúo pericial, ambos conforme a las reglas establecidas en el artículo 220 de este Código y en los demás casos la que fijen de común acuerdo la autoridad y el embargado, en un plazo de 6 días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la autoridad designará a una institución de crédito, corredores públicos, empresa dedicada a la compraventa o subasta de bienes o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, que obtengan su registro ante la Secretaría de Finanzas o ante las tesorerías municipales para el avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II inciso d) del artículo 147 de este Código dentro de los 10 días siguientes a aquel en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en el artículo 220 de este Código, o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
@@ -2777,9 +2917,11 @@ Cuando el dictamen rendido por el perito del embargado o terceros acreedores res
 
 En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 220.
 
-Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante 6 meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito o por corredor público.
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante 6 meses, contados a partir de la fecha en que se efectúen, podrán practicarse por las autoridades fiscales, instituciones de crédito y por el Instituto de Administración y Avalúos de Bienes Nacionales. Los avalúos también podrán practicarse por corredores públicos, empresas dedicadas a la compraventa o subasta de bienes o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, que obtengan su registro ante la Secretaría de Finanzas o ante las tesorerías municipales, el cual se realizará en los términos que establezca la Secretaría de Finanzas en las reglas de carácter general que emita para tal efecto. Tratándose de poblaciones en donde no se cuente con los servicios de los valuadores antes mencionados, los avalúos se podrán realizar por personas o instituciones versadas en la materia que obtengan el referido registro.
 
 En aquellos casos en que después de realizado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aún cuando no haya transcurrido el plazo señalado en el párrafo que antecede, haciéndose necesario elaborar un nuevo avalúo.
 
@@ -3129,7 +3271,7 @@ IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de c
 
 El Magistrado del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur estará impedido para conocer de las causas administrativas cuando:
 
-I. Obre parentesco consanguíneo dentro del cuarto grado en línea colateral por consaguinidad; civil sin limitación de grado; o por afinidad dentro del segundo grado de alguna de las partes de sus abogados patronos o de sus representantes o autorizados;
+I. Obre parentesco consanguíneo dentro del cuarto grado en línea colateral por consaguinidad (sic); civil sin limitación de grado; o por afinidad dentro del segundo grado de alguna de las partes de sus abogados patronos o de sus representantes o autorizados;
 
 II. Si tiene interés personal en el negocio;
 
@@ -3299,7 +3441,7 @@ VI. Por último se deberán acompañar las pruebas documentales que se ofrezcan.
 
 VII. La constancia de la notificación del acto impugnado. Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el magistrado concederá a la actora el término de tres días para que la desvirtúe. Si durante dicho término no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de la notificación de la referida resolución.
 
-###### Articulo 273.
+###### Artículo 273.
 
 Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
 
@@ -3737,7 +3879,7 @@ VICTOR MANUEL GULUARTE CASTRO
 
 RUBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 11 DE MARZO DE 2008.
 
@@ -3750,3 +3892,9 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán hacer los ajustes necesarios para que los recursos humanos, materiales y financieros asignados a las Direcciones de Política Hacendaría y Administrativa y Dirección Jurídica de la Secretaría de Finanzas del Gobierno del Estado, pasen a ser de la Subsecretaría de Finanzas y de la Procuraduría Fiscal del Estado de la Secretaría de Finanzas.
 
 TERCERO.- En un plazo que no excederá de quince días hábiles, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones conducentes al Reglamento Interior de la Secretaría de Finanzas o para la emisión de un nuevo reglamento, en su caso.
+
+B.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
