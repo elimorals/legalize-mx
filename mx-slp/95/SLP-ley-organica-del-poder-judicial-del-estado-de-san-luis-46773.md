@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2013-08-01"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -93,11 +93,11 @@ Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administrac
 
 ### CAPITULO II. De las Autoridades Judiciales
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 3°.
 
-En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal, de justicia para menores y electoral en el territorio del Estado.
+En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal y de justicia para menores en el territorio del Estado.
 
 ###### ARTICULO 4°.
 
@@ -105,7 +105,7 @@ El Poder Judicial del Estado se integra por:
 
 I. El Supremo Tribunal de Justicia;
 
-II. El Tribunal Electoral;
+II. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -245,7 +245,7 @@ IV. Revisar a petición de parte interesada, las decisiones del Consejo de la Ju
 
 V. Resolver toda clase de controversias entre las salas y el Tribunal, que no tengan señaladas una tramitación especial en la Ley;
 
-VI. Enviar al Congreso del Estado, la propuesta de los candidatos a magistrados para integrar el Tribunal Electoral;
+VI. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 VII. Adscribir a los magistrados a las salas que integren el Supremo Tribunal de Justicia;
 
@@ -291,7 +291,7 @@ IV. Convocar a los magistrados a los Plenos ordinarios o extraordinarios;
 
 V. Proponer al Pleno las medidas necesarias para mejorar la impartición de justicia;
 
-VI. Proponer al Pleno, la lista relativa a los profesionistas necesarios para formular la propuesta que el Supremo Tribunal de Justicia presentará al Congreso del Estado, para el nombramiento de magistrados del Tribunal Electoral;
+VI. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 VII. Nombrar al personal asignado a la Presidencia;
 
@@ -387,209 +387,101 @@ II. De los demás asuntos que expresamente les encomiende la ley.
 
 ###### ARTICULO 26.
 
-El Tribunal Electoral es un órgano especializado del Poder Judicial del Estado, con facultad jurisdiccional en materia electoral y el único competente para interpretar el alcance de la Ley Electoral del Estado.
-
-El Tribunal se compondrá con una Sala de Segunda Instancia, que funcionará en forma colegiada; y con salas de Primera Instancia, que serán regionales y unitarias, en el número y con la competencia territorial que determine el Consejo de la Judicatura.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
-
-El Tribunal Electoral se integrará el día uno del mes de octubre del año anterior al de la elección ordinaria de que se trate; e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y da la Sala Regional de Primera Instancia correspondiente a la zona centro.
-
-Las salas de Primera Instancia se instalarán durante el mes de enero del año de la elección, con un magistrado y el personal jurídico y administrativo necesario para el ejercicio de sus funciones; a excepción de la correspondiente a la región centro, que en cuanto al periodo de instalación estará a lo dispuesto en el párrafo anterior de este artículo.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
-
-Concluido el proceso electoral, las funciones de las Salas regionales de Primera Instancia, concluirán cuando se resuelve en forma definitiva e inatacable el último de los recursos de su competencia, presentados en la elección de que se trate. La Sala de Segunda Instancia continuará funcionando de manera permanente, con el personal estrictamente necesario para su funcionamiento, salvo en los casos de elecciones extraordinarias, en que las salas se integrarán de manera normal.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 27.
 
-Los magistrados del Tribunal Electoral serán designados en la siguiente forma:
-
-I. El Pleno del Supremo Tribunal de Justicia deberá presentar al Congreso del Estado, a más tardar el quince de agosto del año que corresponda, la lista que haya aprobado, integrada por el triple del total de los candidatos a elegir, y
-
-II. De la lista propuesta por el Pleno del Supremo Tribunal de Justicia, el Congreso del Estado elegirá, dentro del plazo que señala el artículo 96 de la Constitución Política del Estado, por el voto de cuando menos las dos terceras partes de sus miembros presentes, a los magistrados numerarios y supernumerarios que integrarán cada Sala.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 28.
 
-Los magistrados de las salas regionales de Primera Instancia del Tribunal Electoral, concluirán sus funciones cuando concluyan las propias de las salas en los términos del artículo 26, último párrafo de esta Ley, pudiendo ser reelectos para el siguiente proceso electoral ordinario.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 29.
 
-El Congreso del Estado deberá hacer del conocimiento público la designación que efectúe de los magistrados del Tribunal Electoral, a través del Periódico Oficial del Estado, notificando además a los partidos políticos sobre dichas designaciones.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 #### Sección Segunda. Del Funcionamiento de las Salas Regionales de Primera Instancia Del Tribunal Electoral
 
 ###### ARTICULO 30.
 
-Las salas de Primera Instancia del Tribunal Electoral, funcionarán únicamente durante el plazo señalado en la presente Ley.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 31.
 
-Las salas de Primera Instancia tendrán competencia para conocer de los recursos de revisión que estipula el artículo 45 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado; así como de los juicios de nulidad que se presenten conforme a los artículos, 265, 266, y 267 de la Ley Electoral del Estado, y 50 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado, tanto para elecciones ordinarias, como extraordinarias.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 32.
 
-Para la tramitación, integración y substanciación de los expedientes relativos a los recursos que deban resolver las salas de Primera Instancia, contarán con un Secretario General de Acuerdos, los secretarios de estudio y cuenta, y personal auxiliar necesario, mismo que será asignado por el Consejo de la Judicatura.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 33.
 
-Los secretarios de las salas regionales de Primera Instancia del Tribunal Electoral, deberán ser mexicanos, mayores de veintiséis años, en pleno ejercicio de sus derechos políticos, tener título de abogado legalmente expedido y contar con una experiencia mínima de tres años en el ejercicio de la profesión.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 34.
 
-Son facultades y obligaciones de los magistrados de las salas de Primera Instancia del Tribunal Electoral:
-
-I. Conocer, tramitar y resolver los recursos de su competencia conforme a lo que disponga la Ley Electoral del Estado;
-
-II. Remitir a la Sala de Segunda Instancia los informes de los asuntos que ante ellos se tramiten, y los demás que se les soliciten;
-
-III. Vigilar que se notifique legalmente a las partes, así como a los organismos electorales, las resoluciones que pronuncie la Sala, y
-
-IV. Las demás que les encomienden las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 35.
 
-Los magistrados supernumerarios suplirán las faltas o ausencias temporales o definitivas de los magistrados de número.
-
-Por lo que toca a los casos de excusas y recusaciones, se estará al procedimiento previsto para los magistrados del Supremo Tribunal de Justicia.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 #### Sección Tercera. De la Sala de Segunda Instancia del Tribunal Electoral
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
-
 ###### ARTICULO 36.
 
-La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de las ternas propuestas que presentará el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes de la integración del Tribunal Electoral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2008)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 37.
 
-Para efecto de lo señalado en el artículo inmediato anterior, el Pleno del Supremo Tribunal de Justicia incluirá en la propuesta, a cuando menos el doble de los magistrados a elegir conforme a esta Ley, por lo cual el Congreso del Estado nombrará, dentro del término que señala el artículo 96 de la Constitución Política del Estado, a los numerarios y a los supernumerarios, quienes durarán en su cargo siete años, pudieron ser reelectos.
-
-Para conformar las propuestas de magistrados del Tribunal Electoral, el Pleno del Supremo Tribunal de Justicia, tomará en consideración a profesionales del derecho de todas las zonas del Estado, valorando su probidad, honradez, solvencia moral, imparcialidad, capacidad profesional y conocimiento del derecho. Asimismo, revisará escrupulosamente que los profesionistas propuestos, cubran los mismos requisitos que establece la Constitución Política del Estado para ser Magistrado del Supremo Tribunal de Justicia, así como los particulares que señala esta Ley para serlo del Tribunal Electoral.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 38.
 
-El Congreso del Estado deberá publicar en el Periódico Oficial del Estado, la designación de los magistrados integrantes de la Sala de Segunda Instancia del Tribunal Electoral, notificando además a los partidos políticos sobre dichas designaciones.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 39.
 
-El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral y durará en su cargo un año, pudiendo ser reelecto.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 40.
 
-La Sala de Segunda Instancia funcionará en forma colegiada y será competente para conocer, fuera del proceso electoral, del recurso de revisión; y durante el proceso electoral, del recurso de reconsideración.
-
-La Sala de Segunda Instancia será la responsable de las tareas de, formación, investigación, capacitación y difusión en la materia.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 41.
 
-El Presidente de la Sala de Segunda Instancia tendrá las siguientes atribuciones:
-
-I. Representar a la Sala ante toda clase de autoridades;
-
-II. Convocar a los magistrados a las sesiones del Pleno;
-
-III. Presidir las sesiones del Pleno, dirigir los debates y conservar el orden de las mismas;
-
-IV. Vigilar que se cumplan las determinaciones de carácter jurisdiccional de la Sala;
-
-V. Despachar la correspondencia a través de la Secretaría;
-
-VI. Turnar a los magistrados, sin excluirse, los expedientes para que se formule el proyecto de resolución, y
-
-VII. Vigilar que se dicten en tiempo y forma las resoluciones de la Sala.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 42.
 
-Para que sesione válidamente la Sala de Segunda Instancia, se requerirá la presencia de los tres magistrados que la integran.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 43.
 
-Los criterios que sustente la Sala de Segunda Instancia en sus resoluciones constituirán jurisprudencia, siempre que el mismo se plasme en cinco tesis no interrumpidas por otra en contrario, y que hayan sido aprobadas por unanimidad de votos de los magistrados que integren la Sala. Esta jurisprudencia será de observancia obligatoria para toda autoridad y organismo electoral del Estado.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 44.
 
-La Sala hará la publicación de las tesis a que se refiere el artículo anterior, en la Gaceta Judicial, al concluir los procesos electorales respectivos, debiendo remitirla a los partidos políticos para su conocimiento.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 #### Sección Cuarta. Disposiciones Comunes a las Salas de Primera y Segunda Instancia del Tribunal Electoral
 
 ###### ARTICULO 45.
 
-Para ser Magistrado del Tribunal Electoral, además de reunir los requisitos que establece el artículo 99 de la Constitución Política del Estado, se requiere:
-
-I. Estar inscrito en el Registro Federal Electoral y contar con credencial para votar con fotografía;
-
-II. No haber sido condenado en sentencia ejecutoria por delito que merezca pena de prisión por más de un año, o por cualquier otro en materia electoral que dañe seriamente la buena fama en el concepto público;
-
-III. No ocupar, ni haber ocupado cargo alguno de elección popular, en los últimos tres años;
-
-IV. No desempeñar, ni haber desempeñado ningún cargo de dirección nacional, estatal o municipal en algún partido político, durante los tres años anteriores al nombramiento;
-
-V. No formar parte de los demás organismos electorales a que se refiere la Ley Electoral del Estado;
-
-VI. No ocupar cargo alguno en la función pública al momento de su designación, excepción hecha del Poder Judicial del Estado, y
-
-VII. Tener conocimientos de derecho electoral.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 46.
 
-Durante el tiempo que ejerzan las funciones de su cargo, los magistrados estarán sujetos a lo dispuesto en el artículo 6º de esta Ley.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 47.
 
-Son facultades y obligaciones de los magistrados de la Sala de Segunda Instancia las siguientes:
-
-I. Concurrir, participar y votar cuando corresponda, en las sesiones a las que sean convocados por el Presidente;
-
-II. Resolver los asuntos de su competencia;
-
-III. Formular los proyectos de resolución de los asuntos que les sean turnados para tal efecto;
-
-IV. Discutir y votar los proyectos de resolución que sean sometidos a su consideración;
-
-V. Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría, y
-
-VI. Las demás que les otorguen esta Ley y su Reglamento Interno.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### ARTICULO 48.
 
-Son facultades y obligaciones del Secretario General de Acuerdos de la Sala de Segunda Instancia:
-
-I. Acordar con el Presidente de la Sala, todo lo relativo a las sesiones de la misma;
-
-II. Estar presente en todas las sesiones, teniendo voz informativa;
-
-III. Levantar las actas del Pleno recabando las firmas de los magistrados, tomar la votación de los mismos y hacer el cómputo respectivo;
-
-IV. Autorizar con su firma las diligencias y resoluciones en las que intervenga;
-
-V. Llevar el registro del personal;
-
-VI. Expedir las copias certificadas que las partes interesadas soliciten;
-
-VII. Dar fe de los actos de la Sala;
-
-VIII. Asentar en los expedientes las razones y certificaciones que procedan;
-
-IX. Conservar en su poder los sellos y utilizarlos sólo en cumplimiento de sus funciones;
-
-X. Tener a su cargo y bajo su responsabilidad el archivo;
-
-XI. Recibir y dar cuenta de la correspondencia, al Presidente;
-
-XII. Dictar los acuerdos de trámite, y
-
-XIII. Las demás que señalen las disposiciones aplicables, y las que le encomienden los magistrados en el Pleno.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1245,7 +1137,9 @@ El Consejo de la Judicatura velará, en todo momento, por el respeto a la autono
 
 El Consejo de la Judicatura estará integrado por cuatro consejeros, en los términos del artículo 90 de la Constitución Política del Estado, y funcionará en Pleno o a través de comisiones.
 
-El Consejo de la Judicatura contará con aquellas comisiones permanentes o transitorias de composición variable que determine el Pleno del mismo, debiendo existir en todo caso las de administración y presupuesto, carrera judicial, disciplina, la de adscripción y la de administración del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+El Consejo de la Judicatura contará con aquellas comisiones permanentes o transitorias de composición variable que determine el Pleno del mismo, debiendo existir en todo caso las de administración y presupuesto, carrera judicial, disciplina, y la de adscripción.
 
 Las comisiones serán colegiadas o unitarias y tendrán las facultades que establezca el reglamento expedido por el Pleno del propio Consejo, en el que además se establecerá la organización y funcionamiento de las mismas.
 
@@ -1323,7 +1217,7 @@ XIII. Fijar con la aprobación del Supremo Tribunal, el calendario y el horario 
 
 XIV. Proponer al Congreso del Estado, la modificación de las demarcaciones y del número de los distritos judiciales en que se divida el territorio del Estado;
 
-XV. Determinar el número, la ubicación y competencia territorial de las salas regionales de primera instancia del Tribunal Electoral, que se requerirán para cada proceso electoral;
+XV. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 XVI. Determinar el número y, en su caso, especialización por materia, de los juzgados en cada uno de los distritos judiciales, así como la competencia territorial y ubicación de los juzgados menores;
 
@@ -1333,7 +1227,7 @@ XVIII. Dirigir las labores de compilación y sistematización de tesis y jurispr
 
 XIX. Establecer las comisiones que estime convenientes para el adecuado funcionamiento del Consejo, y designar a los consejeros que deban integrarlas;
 
-XX. Designar de entre sus miembros a los comisionados que integrarán la Comisión de Administración del Tribunal Electoral del Estado, en los términos señalados en esta Ley;
+XX. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
 XXI. Encargarse del cumplimiento de las obligaciones que impone al Poder Judicial, la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado;
 
@@ -1981,11 +1875,11 @@ Para tal efecto, implementará un sistema de indicadores de desempeño y evaluar
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 164.
 
-El Pleno y las salas del Supremo Tribunal de Justicia del Estado, y del Tribunal Electoral del Estado, podrán establecer jurisprudencia en los términos que dispone esta Ley.
-
-El Consejo de la Judicatura designará a un Coordinador General de Compilación y Sistematización de Tesis del Supremo Tribunal de Justicia, que se encargará de reunir, sistematizar y publicar las tesis que emitan el Pleno y las salas, de conformidad con lo establecido en la presente Ley.
+El Pleno y las salas del Supremo Tribunal de Justicia del Estado podrán establecer jurisprudencia en los términos que dispone esta Ley
 
 ###### ARTICULO 165.
 
@@ -2041,7 +1935,7 @@ Antes de la publicación de una nueva jurisprudencia en el Periódico Oficial de
 
 ###### ARTICULO 174.
 
-Tratándose de la materia electoral, el Tribunal Electoral fijará jurisprudencia en los términos que señale su reglamento, siendo aplicables en lo general las disposiciones de este Capítulo.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ## TITULO SEPTIMO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -2422,3 +2316,27 @@ PRIMERO. La parte atinente de este Decreto entrará en vigor al día siguiente d
 SEGUNDO. La Reforma a los artículos, 4° en su fracción III los incisos f) y g), 94 en su fracción XLV; la denominación del capítulo VI del Título Segundo; y la adición de los artículos, 54 Ter a 54 Septies, entrarán en vigor el uno de marzo del dos mil catorce.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abroga la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de San Luis Potosí, expedida como Decreto 579 de la Quincuagésima Novena Legislatura Constitucional del Congreso del Estado de San Luis Potosí, y publicada el 30 de junio de 2011 en el Periódico Oficial del Estado.
+
+TERCERO. Los magistrados del Tribunal Electoral del Poder Judicial del Estado que se encuentren en funciones a la entrada en vigor de las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal. Los magistrados podrán ser elegibles para un nuevo nombramiento.
+
+CUARTO. Una vez que sean nombrados los magistrados electorales por el Senado de la República, los recursos humanos, materiales, presupuestales y financieros para el año 2014 del Tribunal Electoral del Poder Judicial del Estado, seguirán formando parte y ejercidos por el Poder Judicial del Estado; sin menoscabo de los derechos laborales de todos y cada uno de los trabajadores que actualmente lo integran, y de conformidad con las leyes de la materia:
+
+Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales, de fecha veintidós de mayo del presente año, expedido por el Congreso de la Unión, seguirán bajo la competencia del actual Tribunal Electoral del Poder Judicial del Estado hasta su conclusión.
+
+Los medios de impugnación en materia electoral que a la fecha de inicio de vigencia del presente Decreto se hayan promovido en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, seguirán tramitándose bajo esa Ley; y hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado del Poder Judicial del Estado, el que deberá entregar, a través del proceso de entrega-recepción, los asuntos en trámite y el estado que guardan los mismos al órgano de nueva creación.
+
+Los procedimientos jurisdiccionales que se están tramitando ante el actual Tribunal Electoral del Poder Judicial del Estado en su carácter de sala auxiliar en razón de las competencias designadas por el Pleno del Supremo Tribunal de Justicia del Estado, continuarán recibiéndose y substanciándose por la misma, hasta en tanto se cumplan las disposiciones a que se refiere el párrafo Segundo de este Transitorio; cumplido el supuesto, deberá iniciarse y ejecutarse el proceso de entrega-recepción de los asuntos en trámite de acuerdo con la asignación que para este efecto determine el Poder Judicial del Estado.
+
+QUINTO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Estado, deberá destinar las partidas presupuestales para la creación y funcionamiento del Tribunal Electoral del Estado como organismo constitucional autónomo, para el debido cumplimiento de sus atribuciones de conformidad con la normativa aplicable; así como de las diversas obligaciones que se desprendan del presente Decreto.
+
+SEXTO. El Congreso del Estado de San Luis Potosí, deberá realizar el procedimiento para nombrar a los magistrados supernumerarios, previo al inicio del proceso electoral.
+
+SÉPTIMO. Una vez integrado el Tribunal Electoral del Estado, deberá emitir su reglamento interior en un plazo máximo de treinta días.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
