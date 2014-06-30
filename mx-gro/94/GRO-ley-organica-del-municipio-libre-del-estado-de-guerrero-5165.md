@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2014-01-24"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -533,21 +533,29 @@ VIII.- Demás servidores de nivel equivalente.
 
 Los servidores públicos a que se refiere este artículo no podrán ser parientes de ningún edil hasta el cuarto grado por afinidad o consanguinidad.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 30.
 
-El número y asignación de regidores de mayoría relativa y de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
+El número y asignación de regidores de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
 
 ###### ARTICULO 31.
 
 Los síndicos y regidores durante su encargo podrán ser autorizados por el Cabildo para desempeñarse como servidores públicos federales, estatales o municipales, siempre que lo hagan en las áreas docentes, de la salud o de beneficencia, y no afecten sus responsabilidades edilicias, a juicio del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTICULO 32.
 
-Los presidentes municipales, síndicos y demás regidores de elección popular directa durarán en su cargo tres años y no podrán ser reelectos para el ayuntamiento siguiente.
+Los presidentes municipales, síndicos y regidores de elección popular directa durarán en su cargo tres años y podrán ser electos por un periodo inmediato adicional. Lo mismo aplicará para quienes siendo suplentes hayan sustituido a los propietarios, siempre y cuando se ajusten a los plazos y condiciones que al respecto señala la ley.
 
-Quienes por nombramiento o designación de parte de una autoridad desempeñen las funciones propias de tales cargos, independientemente de la denominación que se les dé, no podrán ser electos para el período inmediato. Estos servidores públicos, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hubieren sustituido o suplido a los propietarios.
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Quienes sean postulados por partidos políticos no podrán participar en calidad de candidatos independientes.
+
+Los candidatos independientes no podrán ser postulados por un partido político o coalición tratándose de la elección inmediata.
+
+Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -643,7 +651,7 @@ VI. Reporte del avance del cumplimiento del Convenio Unico de Desarrollo Estado-
 
 VII. Bando de Policía y Buen Gobierno, reglamentos y ordenanzas municipales;
 
-VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes municipales o la prestación de servicios públicos, y (sic)
+VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes municipales o la prestación de servicios públicos, y
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2008)</small>
 
@@ -701,25 +709,23 @@ Los Comisarios Municipales, los suplentes y los Auxiliares que señala esta Ley 
 
 ### CAPITULO IV. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 46.
 
-Los Municipios, serán Gobernados y administrados por sus respectivos ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos Síndicos Procuradores, regidores de mayoría relativa que hayan obtenido la mayoría de votos en la demarcación territorial electoral municipal y por regidores de representación proporcional, a partir de las siguientes bases:
+Los Municipios serán Gobernados y administrados por sus respectivos ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos Síndicos Procuradores y por Regidores de Representación Proporcional, a partir de las siguientes bases:
 
-I.- En los Municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 20 regidores, de los cuales 10 serán de mayoría relativa y 10 de representación proporcional.
+I.- En los Municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 20 Regidores de Representación Proporcional.
 
-II.- En los Municipios con población de 115 mil a 299,999 habitantes, los ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 12 regidores de los cuales, 6 serán de mayoría relativa y 6 de representación proporcional.
+II.- En los Municipios con población de 115 mil a 299,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos Procuradores y 12 Regidores de Representación Proporcional.
 
-III.- En los Municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 10 Regidores de los cuales, 5 serán de mayoría relativa y 5 de representación proporcional.
+III.- En los Municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 10 Regidores de Representación Proporcional.
 
-IV.- En los Municipios con habitantes de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 8 regidores de los cuales, 4 serán de mayoría relativa y 4 de representación proporcional.
+IV.- En los Municipios con habitantes de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 8 Regidores de Representación Proporcional.
 
-V.- En los Municipios con una población menor de 25 mil habitantes, los ayuntamientos se integrarán por un Presidente Municipal, un Sindico Procurador y 6 Regidores de los cuales, 3 serán de mayoría relativa y 3 de representación proporcional.
+V.- En los Municipios con una población menor de 25 mil habitantes, los ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y 6 Regidores de Representación Proporcional.
 
-Los regidores de mayoría relativa serán electos uno por cada demarcación territorial electoral en que se divide el municipio.
-
-Ningún partido político o coalición podrá tener más del 50% de regidurías por ambos principios.
+Ningún partido político o coalición podrá tener más del 50% de regidurías.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -827,7 +833,7 @@ VIII. De Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-IX. De Asuntos indígenas, y (sic)
+IX. De Asuntos indígenas, y
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -903,7 +909,7 @@ XXIII. Designar a los delegados y subdelegados municipales, a los titulares de l
 
 XXIV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
 
-XXV. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, y (sic)
+XXV. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, y
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -979,7 +985,7 @@ XIV. Publicar el Plan Municipal de Desarrollo Urbano y las declaratorias de prov
 
 XV. (DEROGADA, P.O. 23 DE MARZO DE 2007)
 
-XVI. Participar en coordinación con las instancias federales y estatales, en la planeación y regulación de los centros urbanos involucrados en los procesos de conurbación, y (sic)
+XVI. Participar en coordinación con las instancias federales y estatales, en la planeación y regulación de los centros urbanos involucrados en los procesos de conurbación, y
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2003)</small>
 
@@ -1199,7 +1205,7 @@ l. Implementar un programa municipal de Participación Equitativa de la Mujer, q
 
 II. Apoyar las actividades productivas de las mujeres; promoviendo el empleo, gestionando créditos y apoyándoles en los trámites para su funcionamiento que permita a las mujeres contar con recursos para la creación de sus propios proyectos;
 
-III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y (sic)
+III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
@@ -1525,7 +1531,7 @@ XXII. Regularizar los bienes muebles e inmuebles propiedad del Municipio;
 
 XXIII. Verificar que los servidores públicos municipales cumplan con las obligaciones derivadas de la Ley de Responsabilidades de los Servidores Públicos;
 
-XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y (sic)
+XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3792,3 +3798,17 @@ SEGUNDO.- El artículo antes citado deroga todas las disposiciones legales, regl
 TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
 
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
+
+P.O. 30 DE JUNIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma a la que se refiere el artículo 32 del presente decreto no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
