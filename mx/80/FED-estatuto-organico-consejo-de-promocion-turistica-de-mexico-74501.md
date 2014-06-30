@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-consejo-de-promocion-turistica-de-mexico-7450
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-22"
-last_updated: "2012-02-17"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-03-24"
 
 ESTATUTO ORGÁNICO CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V., PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de abril de 2010.
 
@@ -219,7 +221,7 @@ El Presidente de la Asamblea General será el Secretario de Turismo o la persona
 
 En el capital social del Consejo, podrán participar como accionistas los gobiernos Federal, Estatal y Municipales; así como la iniciativa privada, en los porcentajes que determine la Asamblea General, conforme a los términos de los Estatutos Sociales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 10.
 
@@ -281,7 +283,7 @@ Los miembros de la Junta de Gobierno, representantes de las entidades federativa
 
 Por cada miembro propietario habrá un suplente, que tendrá derecho de voz y voto en las sesiones que asista en ausencia del titular.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, SE DEROGA LA FRACCION I, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR CUATRO FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, SE DEROGA LA FRACCIÓN I, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR CONFORMADO POR CUATRO FRACCIONES.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
 
@@ -429,7 +431,7 @@ IX. Las demás que le encomiende la Junta de Gobierno, en el ámbito de sus facu
 
 Las actas de las sesiones se asentarán en el libro respectivo y deberán ser firmadas por el Presidente y Secretario de la Junta de Gobierno y por el Comisario que asista. Se agregarán a las actas los documentos que acrediten que las convocatorias se hicieron legalmente; asimismo, se agregará la lista de asistencia de los Consejeros cuando se inicie la sesión y serán protocolizadas ante Notario Público e inscritas en el Registro Público de la Propiedad y del Comercio las actas que por su naturaleza así lo requieran, para que surtan sus efectos ante terceros.
 
-> <small>(REFORMADA SU DENOMINACION, 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, 18 DE MAYO DE 2010)</small>
 
 ### Capítulo IV. De la Dirección General y de la Dirección General Adjunta
 
@@ -439,7 +441,7 @@ Las actas de las sesiones se asentarán en el libro respectivo y deberán ser fi
 
 El Director General será designado por el Presidente de la República o a indicación de éste a través del Secretario de Turismo, y será ratificado por la Junta de Gobierno; éste durará en su encargo cuatro años, pudiendo ser nombrado por otro periodo igual.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 2010)</small>
 
 ###### Artículo 31.
 
@@ -461,7 +463,7 @@ V. No estar en los supuestos que señala el artículo 16 del presente Estatuto, 
 
 VI. Contar con experiencia y conocimiento de la materia de promoción turística, ya sea en los sectores público o privado.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2010, SE DEROGAN LAS FRACCIONES XX Y XXIX, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO DE REFORMAS AL PRESENTE ESTATUTO, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2010, SE DEROGAN LAS FRACCIONES XX Y XXIX, MODIFICANDO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 32.
 
@@ -1359,7 +1361,7 @@ CUARTO.- Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de
 
 México, D.F., a 24 de marzo de 2010.- El Encargado del Despacho de los Asuntos de la Dirección General del Consejo de Promoción Turística de México, S.A. de C.V., Carlos Felipe Behnsen Flathmann.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 18 DE MAYO DE 2010.
 
@@ -1372,3 +1374,15 @@ UNICO.- Las presentes modificaciones, entrarán en vigor al día siguiente de su
 D.O.F. 17 DE FEBRERO DE 2012.
 
 UNICO.- En relación con los artículos 32, fracción XIX, 32 BIS fracción XVIII, 34 y 42 fracción XVI del presente Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.; deberán actualizarse los instrumentos normativos necesarios para la operación y funcionamiento de la Entidad.
+
+D.O.F. 30 DE JUNIO DE 2014.
+
+PRIMERO.- El Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., que se aprueba, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., deberán ser realizadas mediante movimientos compensados, sin afectar el presupuesto regularizable de servicios personales.
+
+TERCERO.- En relación con los artículos 30, fracción V, 32 último párrafo y 50 fracción XXII del presente Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.; deberán actualizarse los instrumentos normativos necesarios para la operación y funcionamiento de la Entidad, para lo cual las distintas áreas que componen su estructura organizacional, dentro del ámbito de sus atribuciones, iniciarán los trabajos conducentes al caso. Los instrumentos normativos vigentes seguirán aplicándose, en tanto no contravengan las disposiciones del presente estatuto orgánico.
+
+CUARTO.- Se abroga el Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V., publicado en el Diario Oficial de la Federación del 22 de abril de 2010 y sus reformas publicadas en este órgano de difusión de fechas 18 de mayo de 2010, 20 de octubre de 2010 y 17 de febrero de 2012, y se ratifican los poderes que se hayan otorgado durante la vigencia del mismo.
+
+QUINTO.- Las unidades administrativas con denominación nueva o distinta que aparecen en el presente estatuto y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos hasta su resolución.
