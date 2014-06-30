@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-coordinacion-general-de-90639"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-03"
-last_updated: "2012-12-03"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE TRANSPARENCIA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA Y DEL COMITÉ CIUDADANO PARA LA TRANSPARENCIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DICTAMEN SEGUNDO, DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE TRANSPARENCIA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA Y DEL COMITÉ CIUDADANO PARA LA TRANSPARENCIA MUNICIPAL DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado Puebla, el lunes 3 de diciembre de 2012.
 
@@ -654,3 +656,21 @@ Atentamente.- "Sufragio Efectivo. No Reelección".- H. Puebla de Z., a 19 de oct
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Municipio de Puebla.- Periodo 2011 2014.- Secretaría del Ayuntamiento.- O/I/SG/PO3/E.
 
 La Secretaria del Ayuntamiento del Municipio de Puebla, en uso de las facultades que le confieren los artículos 138 fracción VII de la Ley Orgánica Municipal y 7 fracción IV del Reglamento Interior de la Secretaría del Ayuntamiento del Municipio de Puebla. CERTIFICA: Que las presentes copias fotostáticas compuestas de veintitrés fojas útiles por su anverso, son copia fiel de su original a las que me remito, tuve a la vista y cotejé, relativas al Dictamen del Honorable Ayuntamiento del Municipio de Puebla, por el que se aprueba expedir el Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, mismo que obra en el Archivo de la Dirección Jurídica de la Secretaría del Ayuntamiento, expidiéndose la presente en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre del año dos mil doce, para los efectos legales a que haya lugar, quedando registrada con el número 4749.- La Secretaria del Ayuntamiento del Municipio de Puebla.- PROFESORA MARÍA LEONOR APOLONIA POPÓCATL GUTIÉRREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones anteriores y aquéllas que se opongan a lo establecido en el presente Reglamento.
+
+TERCERO.- Para la renovación de los Comisionados, que se realiza en el mes de abril del primer año de gobierno, por única ocasión la Convocatoria se emitirá en el mes de abril de dos mil diecisiete.
+
+DICTAMEN
+
+PRIMERO.- Se aprueba el Reglamento Interior de la Coordinación General de Transparencia del Honorable Ayuntamiento del Municipio de Puebla, y del Comité Ciudadano para la Transparencia, en los términos señalados en el Considerando XXIV del presente Dictamen.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Coordinación General de Transparencia y del Comité Ciudadano para la Transparencia, publicado en el Periódico Oficial del Estado de Puebla, el tres de diciembre de dos mil doce.
+
+TERCERO.- Se instruye al Secretario del Ayuntamiento para que en la forma legal correspondiente realice los trámites necesarios ante la Secretaría General de Gobierno del Estado y sea publicado por una sola vez en el Periódico Oficial del Estado de Puebla, el Reglamento Interior de la Coordinación General de Transparencia del Honorable Ayuntamiento del Municipio de Puebla y del Comité Ciudadano para la Transparencia.
