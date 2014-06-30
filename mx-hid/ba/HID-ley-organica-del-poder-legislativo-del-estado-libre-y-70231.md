@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2014-06-02"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -73,9 +75,9 @@ El Congreso del Estado, se integra con Diputados electos en su totalidad por suf
 
 Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos periodos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los periodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -777,7 +779,7 @@ XXIV.- Comisión de Ciencia y Tecnología;
 
 XXV.- Comisión de Turismo;
 
-XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y (sic)
+XXVI.- Comisión de Transparencia y Acceso a la Información Pública Gubernamental; y
 
 XXVII.- Comisión de Cultura;
 
@@ -1561,11 +1563,17 @@ IV.- Dirección General de Servicios Administrativos;
 
 V.- Instituto de Estudios Legislativos;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI.- Instituto para el Desarrollo y Fortalecimiento Municipal; y
+VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
 
-VII.- Dirección de Comunicación Social,
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII.-Dirección de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VIII.-Unidad Institucional de Género.
 
 Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
 
@@ -1777,6 +1785,34 @@ IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
+###### Artículo 202 Bis.
+
+La Unidad Institucional de Género, es el Órgano del Congreso del Estado, encargado de la institucionalización de la perspectiva de género, como política de equilibrio y eje rector en las actividades administrativas y técnicas, así como en las relaciones laborales entre el personal y servidores públicos integrantes del Poder Legislativo.
+
+Estará a cargo de un responsable designado por el Presidente de la Junta de Gobierno y contará con el personal que éste le asigne, para el desempeño de sus funciones, teniendo como atribuciones las siguientes:
+
+I.- Crear, modificar y actualizar bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo;
+
+II.- Aplicar en coordinación con todas las áreas administrativas y órganos auxiliares del Congreso del Estado el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género;
+
+III.- Expedir y difundir entre el personal del Congreso del Estado, el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo;
+
+IV.- Dar seguimiento e informar al Presidente de la Junta de Gobierno sobre el cumplimiento institucional de las disposiciones contenidas en las leyes estatales, federales o generales de observancia obligatoria para el Estado de Hidalgo, así como a las recomendaciones o acciones relacionadas con los Sistemas, Comisiones o cualquier otro órgano público de participación colegiada de los que forme parte el Congreso del Estado en materia de perspectiva de género, erradicación de la violencia contra la mujer, erradicación de la discriminación e igualdad real entre mujeres y hombres;
+
+V.- Entregar al Presidente de la Junta de Gobierno los informes que en la materia deba presentar ante los Sistemas, Comisiones u otros órganos públicos de participación colegiada de los que el Congreso del Estado sea parte;
+
+VI.- Asistir al Presidente de la Junta de Gobierno en los temas afines a la Unidad Institucional de Género;
+
+VII.- Participar en lo conducente con las Unidades Institucionales para la Igualdad entre Mujeres y Hombres de las Dependencias o Entidades de la Administración Pública Estatal y aún con las correlativas del Congreso de la Unión, los Congresos de las Entidades Federativas y del Distrito Federal;
+
+VIII.- Crear y mantener actualizadas las bases de datos e información estadística interna, estatal y nacional necesaria para el seguimiento y evaluación de las metas trazadas en el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género; y
+
+IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+Las atribuciones de la Unidad Institucional de Género serán realizadas y ejecutadas bajo la supervisión de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, estableciéndose por Acuerdo interno de ellas, cuál representará los trabajos y el período por el que lo hará.
+
+El Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo y sus modificaciones serán propuestos al Pleno del Congreso, por las Comisiones coordinadoras y aprobadas por aquél.
+
 ###### ARTÍCULO 199.
 
 El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, es el Órgano Técnico que tiene por objeto desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan la capacidad administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
@@ -1866,6 +1902,8 @@ IV.- Brindar, a través de sus áreas, el apoyo institucional que los Diputados 
 V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Legislativo, con el objeto de definir las estrategias de comunicación; y
 
 VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
@@ -2054,3 +2092,11 @@ P.O. 17 DE MARZO DE 2014.
 P.O. 2 DE JUNIO DE 2014.
 
 ÚNICO.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+Primero.- Envíese el presente Decreto al Titular del Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo.- El Director General de Servicios Administrativos designará en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el espacio físico que ocupará la Unidad Institucional de Género en el Congreso del Estado y proveerá del mobiliario, equipo y todo lo necesario para la organización y funcionamiento de la Unidad atendiendo a las posibilidades del presupuesto.
+
+Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad Institucional de Género, bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, elaborará el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo a fin de someterlo a la consideración y aprobación del Pleno del Congreso.
