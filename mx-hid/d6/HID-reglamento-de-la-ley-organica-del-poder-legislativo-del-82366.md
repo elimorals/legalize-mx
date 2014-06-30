@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2014-06-02"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -301,7 +301,7 @@ Las Comisiones Permanentes de Estudio y Dictamen, además de las funciones conte
 
 I.- Recibir, registrar, analizar los asuntos que les sean turnados y emitir resolutivos en un plazo no mayor de treinta días hábiles, contados a partir del día siguiente de haber recibido los expedientes;
 
-II. Emitir resolutivos de las Iniciativas y los asuntos que la Legislatura anterior, hubiere dejado pendientes;
+II.- Emitir resolutivos de las Iniciativas y los asuntos que la Legislatura anterior, hubiere dejado pendientes;
 
 III. Sesionar de conformidad con el Calendario de Reuniones, que será entregado por escrito al Presidente de la Junta de Gobierno, a las que deberán asistir la mayoría de los Diputados integrantes de la Comisión o Comisiones;
 
@@ -861,7 +861,7 @@ VI.- El original del resolutivo; y
 
 VII.- Original y copia del Decreto enviado al Ejecutivo para los efectos de los Artículos 51 y 52 de la Constitución.
 
-En Io que hace a los demás asuntos que señalan los Artículos 89 y 134 de la Ley, se deberán archivar a las solicitudes de los promoventes y resolutivos recaídas a los mismos.
+En lo que hace a los demás asuntos que señalan los Artículos 89 y 134 de la Ley, se deberán archivar a las solicitudes de los promoventes y resolutivos recaídas a los mismos.
 
 ###### ARTÍCULO 82.
 
@@ -911,9 +911,17 @@ IV.- Dirección General de Servicios Administrativos;
 
 V.- Instituto de Estudios Legislativos;
 
-VI.- Instituto para el Desarrollo y Fortalecimiento Municipal; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VII.- Dirección de Comunicación Social.
+VI.- Instituto para el Desarrollo y Fortalecimiento Municipal;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII.- Dirección de Comunicación Social; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VIII.- Unidad Institucional de Género.
 
 Los titulares de los órganos auxiliares del Congreso, podrán emitir y dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en cada una de éstas.
 
@@ -1323,6 +1331,10 @@ El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalg
 
 Al frente del Instituto se encuentra un Titular, cuyas atribuciones se contemplan en el Artículo 201 de la Ley, su organización interna, funcionamiento y resoluciones, serán previstas en la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, en la Constitución y demás Leyes y Reglamentos aplicables.
 
+### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 115.
 
 Es el órgano de contacto permanente con los medios de comunicación escrita, digital, social y electrónica, dirigida directamente a la ciudadanía, a las instituciones y demás dependencias gubernamentales, para difundir el quehacer de los Diputados y las actividades realizadas al interior del Congreso, con las facultades que prevé el Artículo 202 de la Ley Orgánica del Poder Legislativo, además de:
@@ -1334,6 +1346,36 @@ II.- Analizar y procesar la información de los medios de comunicación referent
 En materia de recabar información podrá apoyarse en el Presidente de la Junta de Gobierno, en el Secretario de Servicios Legislativos, en el Auditor Superior del Estado o en el Titular de la Unidad de Transparencia y Acceso a la Información Pública Gubernamental.
 
 El Director de Comunicación Social del Congreso, es el responsable de la información proporcionada a los diversos medios de comunicación Municipal, Estatal y Nacional, manteniendo contacto con los diversos congresos locales y generando una red de información que propicie el fortalecimiento de la imagen institucional, tanto de los Diputados como del quehacer legislativo y fomente el respeto a una cultura de la legalidad por parte de la sociedad en general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2014)</small>
+
+###### ARTÍCULO 116.
+
+La Unidad Institucional de Género, es el Órgano del Congreso del Estado, con las atribuciones previstas en el numeral 202 Bis de la Ley Orgánica del Poder Legislativo del Estado de Hidalgo y cuyo responsable dependerá del Presidente de la Junta de Gobierno.
+
+Además de lo previsto por la Ley, la Unidad Institucional de Género difundirá y fomentará el respeto a la dignidad humana entre el personal del Poder Legislativo y en el trato a la ciudadanía.
+
+Los contenidos, metas y resultados alcanzados en su aplicación serán revisados y evaluados por las Comisiones participantes al término de cada Período Ordinario de Sesiones a fin de darles seguimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+###### ARTÍCULO 117.
+
+Son atribuciones del responsable de la Unidad Institucional de Género:
+
+I.- Dirigir las actividades de la Unidad Institucional de Género:
+
+II.- Implementar y aplicar bajo la supervisión de las Presidencias de las Comisiones participantes, el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género;
+
+III.- Expedir y difundir el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo, bajo la supervisión de las Presidencias de las Comisiones participantes;
+
+IV.- Convocar a las o los Diputados Presidentes de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género a las reuniones de trabajo necesarias para cumplimentar en lo conducente, lo previsto en el artículo 202 Bis de la Ley, así como elaborar las Minutas correspondientes;
+
+V.- Llevar el control y registro de toda la documentación relativa a la Unidad Institucional de Género;
+
+VI.- Elaborar y presentar con quince dias de anticipación al término de cada Período Ordinario de Sesiones a las y/o los Diputados Presidentes de las Comisiones participantes, un informe semestral de las actividades realizadas por la Unidad Institucional de Género; y
+
+VII.- Las demás que se contemplen en la Ley, este Reglamento o que le sean delegadas por el Presidente de la Junta de Gobierno o las Comisiones participantes.
 
 T R A N S I T O R I O
 
@@ -1382,3 +1424,11 @@ P.O. 2 DE JUNIO DE 2014.
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO.
 
 Único.- Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2014.
+
+Primero.- Envíese el presente Decreto al Titular del Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo.- El Director General de Servicios Administrativos designará en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, el espacio físico que ocupará la Unidad Institucional de Género en el Congreso del Estado y proveerá del mobiliario, equipo y todo lo necesario para la organización y funcionamiento de la Unidad atendiendo a las posibilidades del presupuesto.
+
+Tercero.- En un plazo no mayor a 40 días naturales el responsable de la Unidad Institucional de Género, bajo la coordinación de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, elaborará el Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo a fin de someterlo a la consideración y aprobación del Pleno del Congreso.
