@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-82375"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-30"
-last_updated: "2013-09-09"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de junio de 2011.
 
@@ -5138,3 +5140,45 @@ P.O. 9 DE SEPTIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abroga la Ley Electoral del Estado de San Luis Potosí, expedida como Decreto 578 de la Quincuagésima Novena Legislatura Constitucional del Congreso del Estado de San Luis Potosí, y publicada el 29 de junio del dos mil once en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno del Consejo Estatal Electoral y de Participación Ciudadana, declarará el inicio del proceso electoral 2014-2015, para gobernador, diputados locales y ayuntamientos dentro de la primera semana del mes de octubre del año anterior a aquél en que se celebren las elecciones.
+
+CUARTO. La celebración de los comicios electorales locales que se celebren en el año 2015 se verificarán el primer domingo de junio de ese año, salvó aquellos que se realicen en el año 2018, los cuales se verificarán el primer domingo de julio, y aquellos posteriores el primer domingo de junio de cada año.
+
+QUINTO. Los actuales, Presidente, y consejeros del Consejo Estatal Electoral y de Participación Ciudadana, continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014. Los consejeros podrán ser elegibles para un nuevo nombramiento.
+
+SEXTO. A más tardar el 30 de septiembre de 2014, el Consejo General del Instituto de acuerdo a lo previsto en la Ley General de Instituciones y Procedimientos Electorales, desarrollara el proceso de designación de los integrantes del Consejo Estatal Electoral y de Participación Ciudadana, en los términos de los párrafos 1, 2 y 3 del inciso c) de la fracción IV del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 41 de esta Ley.
+
+Por única ocasión, y de acuerdo a lo dispuesto en la Ley General de Instituciones y Procedimientos Electorales, el Consejo General del Instituto deberá realizar los nombramientos de forma escalonada, en los siguientes términos:
+
+a) Tres consejeros que durarán en su encargo tres años;
+
+b) Tres consejeros que durarán en su encargo seis años, y
+
+c) Un consejero que durará en su encargo siete años.
+
+SÉPTIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Estado, deberá destinar las partidas presupuestales al Consejo Estatal Electoral y de Participación Ciudadana, para el debido cumplimiento de sus atribuciones de conformidad con la normativa aplicable; así como de las diversas obligaciones que se desprendan del presente Decreto, y lo que mandata la Ley General de Instituciones y Procedimientos Electorales, y la Ley General de Partidos Políticos.
+
+OCTAVO. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, deberá realizar la (sic) modificaciones correspondientes a fin de cumplir con la nueva distribución de prerrogativas de los partidos políticos y agrupaciones políticas estatales conforme a las disposiciones que para tal efecto establecen la Ley General de Instituciones y Procedimientos Electorales, Ley General de Partidos Políticos y la presente Ley.
+
+NOVENO. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas del Estado, deberá destinar las partidas presupuestales para que los partidos políticos y agrupaciones políticas estatales, ejerzan sus prerrogativas en los términos establecidos en el presente ordenamiento, en la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos y demás disposiciones aplicables que emita el Instituto Nacional Electoral; así como de las diversas obligaciones que se desprendan del presente Decreto.
+
+DÉCIMO. Los artículos que se modifican con este Decreto, en materia de reelección de diputados, no serán aplicables a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor de este Decreto.
+
+DÉCIMO PRIMERO. Los artículos que se modifican con este Decreto, en materia de reelección de presidentes municipales, regidores y síndicos, no serán aplicables a los integrantes que hayan protestado el cargo en el ayuntamiento que se encuentre en funciones a su entrada en vigor.
+
+DÉCIMO SEGUNDO. El Secretario Ejecutivo que se encuentre en funciones a la entrada en vigor del presente Decreto, asumirá las atribuciones que conforme a la presente Ley están otorgadas para ese cargo, y hasta en tanto los Consejeros Electorales que sean designados por parte del Consejo General del Instituto Nacional Electoral, nombren en la primera sesión Plenaria del Consejo, al Secretario Ejecutivo conforme a la presente Ley.
+
+DECIMO TERCERO. A partir de la entrada en vigor de la presente Ley, los servidores públicos del actual Consejo Estatal Electoral, y de Participación Ciudadana, deberán en su caso, cumplir con las obligaciones de la Ley de Entrega-recepción para el Estado de San Luis Potosí.
+
+DÉCIMO CUARTO. Los asuntos en trámite a la entrada en vigor de esta Ley, se concluirán en los términos de la Ley Electoral que se abroga, por las autoridades que conforme a las disposiciones de la misma, y la de la Ley del Sistema de Medios de Impugnación en Materia Electoral, resulten competentes.
+
+DÉCIMO QUINTO. Una vez que rindan protesta los Consejeros Electorales que sean designados por parte del Instituto Nacional Electoral, contarán con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias, administrativas y estatutarias a este mismo Decreto.
+
+DÉCIMO SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
