@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2014-06-27"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -107,9 +107,13 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 9o.- Todos los habitantes del Estado tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
 
-El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
-Todos los niños nacidos de matrimonio o fuera del mismo, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
+El matrimonio y la familia constituyen la base fundamental de la sociedad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades. Todas las niñas, niños y adolescentes nacidos de matrimonio o fuera del mismo, tienen derecho a igual protección.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado en el Registro Civil, las niñas y niños deben ser inscritos inmediatamente después de su nacimiento a fin de que el infante pueda preservar su identidad, contando con un nombre y apellido. El Estado garantizara el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 
@@ -134,6 +138,10 @@ Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y
 > <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2013)</small>
 
 Es derecho de los habitantes del Estado, acceder a la información y el conocimiento para lograr una comunidad totalmente intercomunicada. El Estado y Municipios, en apoyo de las labores escolares proporcionarán espacios públicos con acceso a internet gratuito en Bibliotecas Públicas y Escolares, para lo cual se coordinarán con sus dependencias, instituciones tecnológicas y educativas de todo el Estado.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2014)</small>
+
+El Estado y municipios dentro del ámbito de su competencia garantizarán la calidad en la educación obligatoria, con base en el mejoramiento constante, de manera que los materiales y métodos educativos, la organización escolar, y la infraestructura educativa garantice el máximo logro de aprendizaje de los educandos.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3248,3 +3256,17 @@ DÉCIMO.- A partir de la entrada en vigor del presente Decreto, se derogan los A
 DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la primera semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE JUNIO DE 2014.
+
+DECRETO NO. 2163 POR EL QUE SE REFORMA EL SEGUNDO Y TERCER PÁRRAFO DEL NUMERAL 9° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado y los H. Ayuntamientos del Estado, dispondrán de seis meses para proponer y realizar las adecuaciones normativas dentro de las leyes correspondientes para que se establezca la exención de cobro de la primera copia certificada del acta de nacimiento.
+
+B.O. 30 DE JUNIO DE 2014.
+
+DECRETO NO. 2166 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL NUMERAL 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
