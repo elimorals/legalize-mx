@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2012-10-22"
+last_updated: "2014-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -311,121 +311,71 @@ Las convocatorias que se expidan relativas a elecciones extraordinarias, no podr
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 21.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos de acuerdo con los programas, principios e ideas que postulan, hacer posible el acceso de éstos al ejercicio del poder público, mediante el sufragio universal, libre, secreto y directo. Esta Ley determina las formas específicas de su intervención en el proceso electoral.
+Los partidos políticos son entidades de interés público, con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+Es derecho exclusivo de los ciudadanos mexicanos formar parte de partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de:
 
-Solo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+I.- Organizaciones civiles, sociales o gremiales, estatales, nacionales o extranjeras;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+II.- Organizaciones con objeto social diferente a la creación de partidos; y
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la Ley.
+III.- Cualquier forma de afiliación corporativa.
+
+Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes; y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados locales. Éstos, deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+
+En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos electorales locales en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral local anterior.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 22.
 
-Sólo serán reconocidos como partidos políticos, los registrados ante el Instituto Federal Electoral o el Instituto Estatal Electoral.
+Sólo serán reconocidos como partidos políticos, los registrados ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 23.
 
-Para que una asociación política pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que a éstos son conferidos, deberá constituirse y registrarse en los términos de esta Ley.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-Para constituir un Partido Político Estatal, la asociación política interesada notificará ese propósito al Instituto Estatal Electoral en el mes de enero del año siguiente al de la elección de Gobernador. A partir de la notificación, la asociación deberá informar mensualmente al Instituto del origen y destino de los recursos que obtenga para el desarrollo de sus actividades para la obtención del registro legal y realizará los actos tendentes a demostrar que cumple con los requisitos señalados en el Artículo 28 de esta Ley.
+Para que una organización de ciudadanos pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que a éstos son conferidos, deberá constituirse y registrarse en los términos de la Ley General de Partidos Políticos.
 
 ###### Artículo 24.
 
-Toda asociación política estatal que pretenda constituirse como partido político estatal deberá formular su declaración de principios, su programa de acción y los estatutos que rijan sus actividades.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 25.
 
-La declaración de principios deberá contener, como mínimo:
-
-I.- La obligación de cumplir con la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Hidalgo, así como las leyes que de éstas emanen;
-
-II.- Los principios ideológicos de carácter político, económico y social que postule;
-
-III.- La prohibición de aceptar pacto o acuerdo que los obligue a actuar subordinadamente a una organización internacional o a depender de entidades o partidos políticos extranjeros; así como no solicitar o recibir, toda clase de apoyo económico, político y propagandístico proveniente del extranjero, del narcotráfico u otras organizaciones delictivas, de ministros de los cultos, asociaciones, iglesias o agrupación de cualquier religión o secta; de entidades de gobierno federal, estatal y municipal, a excepción de las prerrogativas legales y de cualquier actividad licita; y
-
-IV.- La obligación de llevar a cabo sus actividades por medios pacíficos y por la vía democrática.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 26.
 
-El programa de acción determinará:
-
-I.- Las acciones que pretenda realizar para alcanzar los objetivos contenidos en su declaración de principios;
-
-II.- Las propuestas políticas para resolver los problemas estatales; y
-
-III.- Las medidas que adoptará en relación a su orientación ideológica, formación política y la participación electoral de sus militantes.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 27.
 
-Los estatutos establecerán:
-
-I.- Una denominación propia, un emblema y color o colores que lo distingan de otros partidos políticos, y no contener alusiones, expresiones, símbolos o significados religiosos o racistas;
-
-II.- Los procedimientos de afiliación individual y los derechos y obligaciones de sus miembros;
-
-III.- Los procedimientos internos para la integración y renovación de sus dirigentes y los sistemas de selección de candidatos que deberán observar en todo momento para postularlos, el principio de equidad de género establecido en esta Ley, respetando en todos los casos los derechos de sus afiliados;
-
-IV.- Los órganos de dirección, que serán cuando menos los siguientes: una Asamblea Estatal, un Comité Estatal y un Comité Municipal, cuando menos en las dos terceras partes de los municipios existentes en el Estado;
-
-V.- Las facultades, obligaciones y funciones de los órganos de dirección a que se refiere la fracción anterior;
-
-VI.- La obligación de presentar una plataforma electoral para cada elección en que participe, la cual deberán sostener y difundir sus candidatos durante la campaña electoral; y
-
-VII.- Las sanciones aplicables a los miembros que infrinjan las disposiciones internas y los correspondientes medios y procedimientos de defensa.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO SEGUNDO. DE LA CONSTITUCIÓN Y REGISTRO
 
 ###### Artículo 28.
 
-Para que una asociación política estatal pueda constituirse como partido político estatal, deberá satisfacer los siguientes requisitos:
-
-I.- Contar con un mínimo de 250 afiliados por municipio, cuando menos en las dos terceras partes de los que conforman el Estado y que el número adicional de afiliados en éstos y en el resto de los municipios de la Entidad no sea menor de 25,000;
-
-II.- Celebrar asambleas, cuando menos, en las dos terceras partes de los municipios de la Entidad, en presencia de un notario público, quien dará fe de que:
-
-a.- Concurrieron a cada asamblea municipal, el número mínimo de afiliados que señala la fracción I de este artículo; que aprobaron los proyectos de declaración de principios, programa de acción y estatutos y que suscribieron el documento de manifestación formal de afiliación;
-
-b.- Con las personas señaladas en el inciso anterior, se elaborarán las listas de afiliados, que deberán contener: el nombre, los apellidos, el número de credencial para votar con fotografía, el domicilio y la firma de cada afiliado o huella digital, en caso de no saber escribir; y
-
-c.- Fue electa una mesa directiva municipal de la asociación política, así como los delegados propietarios y suplentes para asistir con voz y voto a la Asamblea Estatal Constitutiva.
-
-III.- Celebrar una Asamblea Estatal Constitutiva del partido político, ante la presencia de un notario público quien dará fe de que:
-
-a.- Asistieron los delegados propietarios o suplentes electos en las asambleas municipales y que acreditaron por medio de las certificaciones correspondientes, que éstas se celebraron de conformidad con lo previsto en la fracción II de este artículo;
-
-b.- Comprobó la identidad y domicilio de los delegados por medio de la credencial para votar con fotografía; y
-
-c.- Fueron aprobados su declaración de principios, programa de acción y estatutos.
-
-Las actuaciones y documentos a que se refieren las fracciones II y III de este artículo deberán quedar debidamente protocolizadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 29.
 
-Una vez realizados los actos relativos al procedimiento de constitución de un partido político estatal, la asociación política estatal interesada, en el mes de enero del año siguiente al de la notificación del propósito de constituir un partido, en términos de lo dispuesto en el Artículo 23 de esta Ley, deberá presentar al Instituto Estatal Electoral la solicitud de registro, acompañándola con los siguientes documentos:
-
-I.- La declaración de principios, el programa de acción y los estatutos;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-II.- Las listas de afiliados por municipio, a que se refiere el apartado b de la fracción II del Artículo 28 de esta Ley; y
-
-III.- Los testimonios de las actas protocolizadas de las asambleas municipales y estatales constitutiva a que se refieren las fracciones II y III del Artículo precedente.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 30.
 
-Dentro del plazo de sesenta días naturales contados a partir de la fecha de presentación de la solicitud de registro, el Consejo General del Instituto Estatal Electoral resolverá lo conducente, previa comprobación de haberse satisfecho los requisitos señalados en esta Ley. Cuando proceda el registro, expedirá el certificado correspondiente. En caso de negativa, fundamentará las causas que la motiven y la comunicará a los interesados. Su resolución deberá publicarse en el Periódico Oficial del Estado. Podrá ser recurrible en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 31.
 
-Una vez obtenido el registro, los partidos políticos tendrán los derechos y obligaciones que esta Ley señala.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO TERCERO. DERECHOS Y OBLIGACIONES
 
@@ -433,21 +383,31 @@ Una vez obtenido el registro, los partidos políticos tendrán los derechos y ob
 
 Los partidos políticos con registro nacional o estatal tienen derecho conforme a lo dispuesto en la Constitución Política del Estado y la presente Ley a:
 
-I.- Gozar de las garantías concedidas por esta Ley para alcanzar sus fines;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+I.- Gozar de los derechos concedidos por esta Ley para alcanzar sus fines;
 
 II.- Participar en la preparación, desarrollo, vigilancia, cómputo y declaración de validez de los procesos electorales estatales, distritales y municipales.
 
-III.- Recibir el financiamiento público que les corresponda y demás prerrogativas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-IV.- Nombrar dos representantes propietarios y un suplente ante cada mesa directiva de casilla y sustituirlos hasta tres días antes del día de la elección;
+III.- Acceder a las prerrogativas y recibir el financiamiento público;
 
-V.- Nombrar a un representante general por un máximo de cinco casillas electorales ubicadas en zonas urbanas y uno por cada cinco rurales;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+IV.- Nombrar representantes ante las mesas directivas de casilla, así como representantes generales;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+V.- Gozar de facultades para regular su vida interna y determinar su organización interior y los procedimientos correspondientes;
 
 VI.- Nombrar a sus representantes ante los órganos electorales y registrarlos para el efecto de acreditar su actuación, los que tendrán derecho de voz;
 
 VII.- Revocar en todo tiempo el nombramiento de sus representantes acreditados ante el Consejo General, los Consejos Distritales y Municipales electorales;
 
-VIII.- Postular candidatos en las elecciones estatales, distritales y municipales;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VIII.- Organizar procesos internos para seleccionar y postular candidatos en las elecciones, en los términos de las disposiciones aplicables;
 
 IX.- Formar coaliciones y fusionarse con otros partidos políticos;
 
@@ -455,13 +415,23 @@ X.- Realizar asambleas, reuniones públicas y actos de propaganda política en a
 
 XI.- Solicitar al Consejo General del Instituto Estatal Electoral, que investiguen en el ámbito de su competencia las actividades de los demás partidos políticos, cuando exista motivo fundado para considerar que no cumplen con alguna de sus obligaciones o que sus actividades no se apegan a la Ley;
 
-XII.- Suscribir acuerdos de participación con las asociaciones políticas reconocidas por esta Ley;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XII.- Suscribir acuerdos de participación con las agrupaciones políticas locales, reconocidas por Ley;
 
 XIII.- Ser propietarios, poseedores, administradores o usuarios sólo de los bienes que sean indispensables para el cumplimiento directo e inmediato de sus fines;
 
-XIV.- Establecer relaciones con organizaciones o partidos políticos extranjeros, siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado mexicano y de sus órganos de gobierno; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-XV.- Las demás que establezca esta Ley, sus reglamentos y las disposiciones, acuerdos y resoluciones del Consejo General del Instituto Estatal Electoral.
+XIV.- Establecer relaciones con organizaciones o partidos políticos extranjeros, siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado mexicano y de sus órganos de gobierno;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XV.- Acceder a la defensa de sus intereses legítimos dentro del sistema de justicia electoral; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+XVI.- Las demás que establezcan las leyes, sus reglamentos, acuerdos, disposiciones y resoluciones de las autoridades electorales.
 
 ###### Artículo 33.
 
@@ -555,7 +525,9 @@ V.- Establecer un centro de formación política;
 
 VI.- Comunicar al Instituto Estatal Electoral cualquier modificación a su declaración de principios, programa de acción y estatutos, dentro de los veinte días naturales siguientes a la fecha en que la hagan;
 
-VII.- Mantener como mínimo el 2% de la votación de la última elección de Diputados locales;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII.- Mantener como mínimo el 3% de la votación de la última elección de Diputados locales;
 
 VIII.- Para poder participar en las elecciones deberán presentar su acreditación con un año de anticipación, según corresponda a la elección de que se trate;
 
@@ -563,23 +535,35 @@ VIII.- Para poder participar en las elecciones deberán presentar su acreditaci�
 
 IX.- Someterse al procedimiento para la liquidación de los partidos políticos locales que pierdan su registro y reintegrar sus bienes y remanentes, en términos de lo dispuesto en el Artículo 61 de esta Ley; y
 
-X.- Las demás que establezcan sus estatutos, la presente Ley y sus reglamentos.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+X.- Las demás que establezcan sus estatutos, la presente Ley y sus reglamentos; así como las que señale la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 35.
 
-Para los efectos de lo dispuesto en el último párrafo de la fracción I del Artículo 24 de la Constitución Política del Estado de Hidalgo y en el tercer párrafo del Artículo 21 de esta Ley, son asuntos internos de los partidos políticos:
+Para los efectos de lo dispuesto en el último párrafo de la fracción I del Artículo 24 de la Constitución Política del Estado de Hidalgo, son asuntos internos de los partidos políticos:
 
-I.- La elaboración y modificación de sus documentos básicos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+I.- La elaboración y modificación de sus documentos básicos, las cuales en ningún caso se podrán hacer una vez iniciado el proceso electoral;
 
 II.- La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos;
 
 III.- La elección de los integrantes de sus órganos de dirección;
 
-IV.- Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-V.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales y, en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados.
+IV.- Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+V.- Los procesos deliberativos para la definición de sus estrategias políticas y electorales y, en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VI.- La emisión de los reglamentos internos y acuerdos de carácter general que se requieran para el cumplimiento de sus documentos básicos.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -835,85 +819,37 @@ Municipios rurales fd = 1.75
 
 #### SECCIÓN QUINTA. DEL SISTEMA DE CONTABILIDAD
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 42.
 
-Los partidos políticos se sujetarán a un sistema de contabilidad, basado en los principios, que para ese fin aprobará el Consejo General del Instituto Estatal Electoral a propuesta que haga la Comisión de Auditoría y Fiscalización. La contabilidad de los partidos políticos deberá registrarse en libros que reflejen todos los movimientos contables que a este respecto realicen.
-
-Los partidos políticos deberán tener dos juegos de libros contables: uno relativo a gastos anuales y otro a gastos erogados en campañas políticas, donde deberán asentar en forma diaria los movimientos que lleven a cabo. El requisito de libros contables podrá sustituirse por los programas de cómputo que apruebe la Comisión de Auditoría y Fiscalización.
-
-Asimismo, los partidos políticos deberán contar con documentos que cumplan con los requisitos fiscales y que acrediten las erogaciones que efectúen ya sea para gastos genéricos o para gastos de campañas.
+Cada partido político será responsable de su contabilidad y de la operación del sistema de contabilidad, así como del cumplimiento de lo dispuesto por la Ley y las decisiones que en la materia emita el Consejo General del Instituto Nacional Electoral.
 
 ###### Artículo 43.
 
-Los partidos políticos deberán expedir recibos foliados por las aportaciones que reciban, en dinero o en especie, que incluirán tanto el monto del donativo como la identificación del aportante.
-
-También deberán expedir recibos por las cuotas de los militantes y llevar un registro preciso de los ingresos percibidos a través de actividades promocionales y de rendimientos financieros.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 44.
 
-Los partidos políticos presentarán ante la Coordinación Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Estatal Electoral, dos tipos de informes financieros: de gastos generales y gastos de campaña, integrados de la siguiente manera:
-
-I.- Informe de gastos generales:
-
-En el informe de gastos generales se reportarán los ingresos obtenidos por financiamiento público y financiamiento privado, los gastos ordinarios en el sostenimiento de sus órganos y en la realización de actividades específicas. Este informe deberá entregarse, a más tardar el día treinta del mes de marzo del año siguiente y la Comisión de Auditoría y Fiscalización deberá presentar el dictamen al Consejo General del Instituto Estatal Electoral, a más tardar el día treinta de abril del mismo año.
-
-II.- Informe de gastos de campaña:
-
-En el informe de gastos de campaña se reportarán los montos de los ingresos obtenidos por financiamiento público y financiamiento privado, así como el monto de los gastos erogados. Este informe deberá presentarse cada mes, desde el inicio de la campaña electoral, y la Comisión de Auditoría y Fiscalización presentará el dictamen al Consejo General del Instituto Estatal Electoral del total acumulado para cada gasto de campaña, antes del inicio del cómputo de la elección de que se trate.
-
-La falta de presentación de informes de gastos de campaña de los citados cortes mensuales, se sancionará con la suspensión de la campaña política del partido que incumpla dicha obligación y sólo podrá reiniciarse una vez presentado el informe.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 #### SECCIÓN SEXTA. DE LAS AUDITORÍAS, SUPERVISIÓN Y VIGILANCIA DEL FINANCIAMIENTO Y GASTO QUE REALICEN
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
 ###### Artículo 45.
 
-Para la fiscalización de las finanzas de los partidos políticos, se creará una Comisión de Auditoría y Fiscalización dependiente del Consejo General del Instituto Estatal Electoral, integrada por contadores públicos de reconocido prestigio personal y profesional, que deberán cumplir con los mismos requisitos que se exigen para ser Consejero Electoral. Los miembros de esta comisión serán designados por el Consejo General, durando en su encargo hasta tres años, pudiendo ser ratificados por el propio Consejo por un periodo más. Esta comisión tendrá las siguientes atribuciones:
+En cuanto a su régimen financiero, los partidos políticos deberán cumplir con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones aplicables, así como la normatividad que emita el Consejo General del Instituto Nacional Electoral.
 
-I.- Auditorías periódicas:
-
-Realizar auditorías a la contabilidad de los partidos políticos;
-
-II.- Revisión de informes:
-
-Recibir, revisar y dictaminar los informes de gastos generales y gastos de campaña presentados por los partidos políticos. Dicha comisión deberá presentar un dictamen consolidado ante el Consejo General;
-
-III.- Funciones de fiscalización:
-
-Para efectos de la revisión y comprobación de los informes del origen, monto y destino de los recursos que perciban los partidos políticos, por cualquier modalidad de financiamiento, se estará a lo que disponga esta Ley, a la reglamentación y acuerdos que emita para tal efecto el Consejo General del Instituto Estatal Electoral, así como a los convenios de apoyo y colaboración que celebren en materia de fiscalización con el Instituto Federal Electoral y con otras autoridades competentes.
-
-Asimismo, podrá solicitar a las autoridades competentes, según corresponda, la información que a su juicio sea relevante para el cumplimiento de sus atribuciones.
-
-IV.- Publicidad de los informes:
-
-(REFORMADA, P.O. 12 DE OCTUBRE DE 2009) (F. DE E., P.O. 15 DE FEBRERO DE 2010)
-
-El Consejo General del Instituto Estatal Electoral dará a conocer públicamente los informes presentados por los partidos políticos. En los periodos de campaña se harán cortes mensuales que se darán a conocer públicamente, a más tardar tres días después de su presentación, a través de los medios electrónicos de que disponga el Instituto.
-
-V.- Sanciones:
-
-En caso de incumplimiento en materia de financiamiento y gastos de campaña, se aplicarán las sanciones de acuerdo a lo establecido en esta Ley.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-En términos de lo dispuesto en el penúltimo párrafo de la fracción V, del Artículo 41 de la Constitución Federal, la Comisión de Auditoría y Fiscalización solicitará al órgano técnico del Instituto Federal Electoral sea el conducto para superar las limitaciones derivadas de los secretos bancario, fiduciario y fiscal en los procedimientos de fiscalización de las finanzas de los partidos políticos en el ámbito de la Entidad.
+El Instituto Estatal Electoral contará con una Unidad Técnica de Fiscalización, con el fin de auditar las finanzas de los partidos políticos, que ejercerá dichas facultades cuando el Instituto Nacional Electoral se las delegue, atendiendo al modelo, protocolos y lineamientos específicos que al efecto se emitan.
 
 #### SECCIÓN SÉPTIMA. DE LA REGLAMENTACIÓN CONCERNIENTE AL ACCESO A MEDIOS DE COMUNICACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 46.
 
-Los partidos políticos tendrán el derecho de acceso a la radio y la televisión, que sean propiedad del Gobierno del Estado, conforme a las normas establecidas en el Apartado B de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Los partidos políticos, al ejercer sus prerrogativas en radio y televisión, deberán difundir sus principios ideológicos, programas de acción, plataformas electorales, actividades permanentes y candidaturas a puestos de elección popular.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-Ninguna otra persona, física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Los partidos políticos tendrán el derecho de acceso a la radio y a la televisión, que sean propiedad del Estado, conforme a las normas establecidas en el Apartado B de la Base III del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Instituto Nacional Electoral la administración de los tiempos del Estado para fines electorales, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales.
 
 ###### Artículo 47.
 
@@ -951,123 +887,45 @@ Los partidos políticos y coaliciones deberán proporcionar oportunamente y cuan
 
 ### CAPÍTULO QUINTO. DE LAS COALICIONES Y FUSIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 51.
 
-Para efecto de su intervención en los procesos electorales, los partidos políticos acreditados ante el Instituto Estatal Electoral, tienen derecho a postular candidatos, fórmulas, planillas, o listas, por sí mismos o en coalición, en las elecciones en las que deseen participar, sean de Gobernador del Estado, Diputados por los principios de mayoría relativa o representación proporcional, o para la integración de los Ayuntamientos. Una vez otorgado por la Autoridad Electoral el registro correspondiente de los candidatos, planillas o listas, no podrá modificarse la modalidad de postulación.
+Los partidos políticos podrán formar coaliciones para las elecciones de Gobernador, diputados locales de mayoría relativa y ayuntamientos, siempre y cuando cumplan con los requisitos y se sujeten a las reglas establecidas por la Ley.
 
-Los partidos políticos podrán acordar celebrar coaliciones parciales o totales.
-
-Los partidos políticos que se coaliguen, deberán celebrar y registrar el convenio correspondiente en los términos del presente capítulo.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-Los partidos políticos que conformen una coalición, deberán sujetarse a las siguientes reglas:
-
-l.- Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado por alguna coalición para la misma elección.
-
-II.- Las coaliciones no podrán registrar como candidatos, fórmulas o planillas, a quienes hayan sido registrados por otra coalición o partido político para la misma elección.
-
-III.- Los partidos políticos no podrán postular a un candidato ya registrado por otro partido político. No se aplicará ésta prohibición en los casos en que exista coalición en los términos del presente capítulo;
-
-IV.- Los partidos políticos no podrán formar parte en más de una coalición para el mismo proceso electoral; y
-
-V.- La coalición permanecerá vigente en el caso de que existan recursos legales promovidos donde sea parte de la misma, ante los órganos electorales o ante los Tribunales Electorales, en cuyo caso, los efectos de la coalición concluirán al momento en que se resuelvan definitivamente los medios de impugnación por parte de la autoridad electoral competente.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-Concluida la etapa de resultados y declaración de validez de las elecciones en las que se encuentren coaligados, automáticamente dejará de surtir sus efectos la coalición, en cuyo caso los candidatos de la coalición que resultaren electos quedarán comprendidos en el partido político ante el Congreso y los Ayuntamientos que se hayan señalado en el convenio de coalición.
+Para el caso de fusión de partidos se deberá atender a lo dispuesto por la Ley General de Partidos Políticos y demás disposiciones aplicables.
 
 ###### Artículo 52.
 
-La coalición que se formule para la elección de Gobernador del Estado, tendrá sus efectos sobre los dieciocho distritos electorales en que se divide el territorio del Estado.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 53.
 
-La coalición que se formule para la elección de Ayuntamientos, tendrá sus efectos en los municipios para los que se concrete el convenio de coalición.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 54.
 
-La coalición total que se celebre para la elección de diputados por el principio de mayoría relativa, comprenderá obligatoriamente los dieciocho distritos en que se divide el territorio del Estado, por lo que la coalición deberá registrar fórmulas únicas de candidatos a Diputados de mayoría relativa en los 18 distritos y cada partido político presentará en lo individual, una lista de doce fórmulas a diputados por el principio de representación proporcional.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 55.
 
-La coalición parcial que se formule para la elección de Diputados por el principio de mayoría relativa y que tenga como propósito registrar entre una y doce fórmulas de candidatos tendrá efectos exclusivamente dentro de los distritos electorales para los que se coaligaron.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-Los partidos que se constituyan en coalición para postular candidatos a Diputados por el principio de mayoría relativa en trece o más distritos electorales, deberán postular y registrar sus listas en lo individual de candidatos a Diputados por el principio de representación proporcional, en los términos de esta Ley.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 56.
 
-La solicitud de registro de la coalición, junto con el convenio y sus apéndices, deberá presentarse ante la Secretaría General del Instituto Estatal Electoral, a más tardar setenta y cinco días naturales tratándose de la elección de Gobernador y sesenta días naturales en la elección de Diputados y Ayuntamientos, antes de que se inicie el periodo de registro respectivo de los candidatos, fórmulas o planillas de la elección de que se trate. Dicha solicitud deberá ser resuelta por el Consejo General en un término de 5 días.
-
-La Secretaría General dará cuenta de inmediato al Consejo General de la solicitud, convenio y anexos presentados, para que éste lo turne al área respectiva para que se proceda a la integración y análisis del expediente, para determinar dentro de un plazo de 48 horas a partir de ser turnado si cumple con todos y cada uno de los requisitos señalados en la Ley.
-
-En caso de que durante el estudio y análisis del expediente se advierta la existencia de omisiones en el cumplimiento de los requisitos establecidos en la presente Ley, la Secretaría General notificará a los solicitantes para que dentro de las 48 horas siguientes se subsane la omisión, y proceda el Consejo a emitir su resolutivo. En caso de que no se subsanen las omisiones, se les tendrá por no presentada la solicitud de registro del convenio de coalición.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 57.
 
-Los partidos políticos que conforman una coalición se sujetarán a lo siguiente:
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-l.- Cada partido político deberá registrar a sus representantes ante el Consejo General, Distritales y Municipales;
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-II.- Cada partido político deberá acreditar a sus representantes ante las mesas de casilla y generales;
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-III.- Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán en lo individual para cada uno de los partidos políticos para todos los efectos establecidos en esta Ley;
-
-IV.- La prerrogativa de financiamiento público por actividad electoral que corresponda a cada partido político será entregada a cada uno de los partidos coaligados, quienes lo aportarán a la coalición en los términos del convenio celebrado;
-
-V.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
-
-VI.- La postulación de los candidatos, fórmulas, listas y planillas de las coaliciones deberán apegarse a lo dispuesto en la Sección Primera del Capítulo Cuarto del Título Sexto de esta Ley;
-
-VII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
-
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
-
-VIII.- Para efectos de la asignación de la representación proporcional, cada uno de los partidos coaligados deberá obtener el porcentaje de la votación equivalente a la que se exige a cada partido político en lo individual, de igual forma los partidos coaligados deberán registrar listas propias de candidatos a diputados por el principio de representación proporcional observando lo dispuesto en el Artículo 56 de esta Ley;
-
-IX.- Las coaliciones deberán señalar al momento de presentar su solicitud de registro, el número de cada uno de los distritos electorales y el nombre de los municipios en donde pretendan coaligarse; y
-
-X.- El convenio de coalición deberá señalar el origen partidario al que pertenecen cada uno de los candidatos y en el caso de los candidatos a Diputados de mayoría relativa y representación proporcional, al grupo parlamentario al que pertenecerán de resultar electos.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 58.
 
-El convenio de la coalición deberá contener en todos los casos, cuando menos, los siguientes datos:
-
-I.- Los partidos políticos que la forman;
-
-II.- La elección y causas que la motivan;
-
-III.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
-
-IV.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
-
-V.- El nombre del responsable financiero para el manejo de la prerrogativa por actividad electoral, quien será el representante ante la Comisión de Auditoría y Fiscalización;
-
-VI.- Plataforma electoral única que correrá agregada como apéndice al convenio que se celebre;
-
-VII.- Especificación de la forma en la que la coalición seleccionará a los candidatos, fórmulas o planillas conforme a los estatutos de los partidos y sus sistemas de selección de candidatos; y
-
-VIII.- La firma autógrafa de los dirigentes de los partidos que pretendan coaligarse adjuntando la autorización para celebrar estos convenios de conformidad a lo establecido en sus estatutos.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ###### Artículo 59.
 
-Los partidos políticos estatales podrán fusionarse entre sí. La fusión, tendrá por objetivo la formación de un nuevo partido político o la determinación de cual de los partidos políticos conservará su vigencia, en cuyo caso se deberá solicitar al Instituto Estatal Electoral un nuevo registro en los términos de esta Ley o en el convenio que formulen deberán establecer su personalidad jurídica y la vigencia del registro que habrá de prevalecer, acordándose la disolución del partido o partidos políticos que participen en la fusión.
-
-El convenio de fusión deberá registrarse ante el Instituto Estatal Electoral, por lo menos ciento ochenta días naturales antes del día de la elección, el cual resolverá lo conducente dentro del término de sesenta días naturales siguientes a la presentación de la solicitud.
+(DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
 ### CAPÍTULO SEXTO. DE LA PÉRDIDA DEL REGISTRO
 
@@ -1077,7 +935,9 @@ El convenio de fusión deberá registrarse ante el Instituto Estatal Electoral, 
 
 Son causas de pérdida del registro de un partido político estatal, las siguientes:
 
-I.- No haber obtenido por lo menos el 2 % de la votación total emitida en la elección inmediata anterior de Diputados Locales;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+I.- No obtener en la elección ordinaria inmediata anterior, por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones para Gobernador, diputados locales y ayuntamientos;
 
 II.- La inobservancia a las disposiciones de esta Ley;
 
@@ -1085,9 +945,17 @@ III.- El incumplimiento de manera grave o sistemática de las obligaciones que s
 
 IV.- La infracción de los acuerdos tomados por el Consejo General;
 
-V.- La fusión con otro u otros partidos políticos, en los términos del artículo 59 de este ordenamiento; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI.- La disolución por acuerdo de sus miembros.
+V.- La fusión con otro u otros partidos políticos, en los términos del artículo 51 de este ordenamiento;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VI.- La disolución por acuerdo de sus miembros; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII.- No participar en un proceso electoral local ordinario.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1095,7 +963,9 @@ VI.- La disolución por acuerdo de sus miembros.
 
 La pérdida del registro como partido político local, deberá pronunciarse mediante resolución motivada y fundada por el Instituto Estatal Electoral, la que se publicará en el Periódico Oficial del Estado. La declaratoria de pérdida de registro de un partido político no tendrá efectos en relación con los triunfos que sus candidatos hubieren obtenido en las elecciones según el principio de mayoría relativa, ni en la asignación de síndicos o regidores en las elecciones de Ayuntamientos por el principio de representación proporcional y será recurrible en los términos de la Ley Estatal de Medios de Impugnación en Materia Electoral.
 
-Para la declaratoria de pérdida de registro del partido político local, debido a la causa que se señala en la fracción I del Artículo anterior, el Secretario General del Instituto elaborará, para someter a la consideración del Consejo General, un proyecto de dictamen fundado en los cómputos y declaraciones de validez respectivas de los consejos del Instituto, así como de las resoluciones del Tribunal Electoral.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Para la declaratoria de pérdida de registro del partido político local, debido a la causa que se señala en las fracciones I y VII del Artículo anterior, el Secretario General del Instituto elaborará, para someter a la consideración del Consejo General, un proyecto de dictamen fundado en los cómputos y declaraciones de validez respectivas de los consejos del Instituto, así como de las resoluciones del Tribunal Electoral.
 
 Si algún partido político local se encontrara en alguno de los supuestos previstos en las fracciones II, III o IV del Artículo anterior, se aplicará lo dispuesto en el Artículo 257 de esta Ley.
 
@@ -1133,19 +1003,27 @@ f).- Si realizado lo anterior quedasen bienes o recursos remanentes, se adjudica
 
 g).- En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías establecidas en la Constitución Federal, la Constitución Política del Estado de Hidalgo y esta Ley. Los acuerdos del Consejo General serán impugnables ante el Tribunal Electoral.
 
-### CAPÍTULO SÉPTIMO. DE LAS ASOCIACIONES POLÍTICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS AGRUPACIONES POLÍTICAS LOCALES
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 62.
 
-Las asociaciones políticas son formas de agrupación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada.
+Las agrupaciones políticas locales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada,
 
-Las asociaciones no podrán utilizar bajo ninguna circunstancia las denominaciones, colores o emblemas de partidos políticos.
+Las agrupaciones políticas locales no podrán utilizar bajo ninguna circunstancia las denominaciones, colores o emblemas de partidos políticos.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 63.
 
-Las asociaciones políticas sólo podrán participar en los procesos electorales mediante acuerdos de participación con un partido político. No podrán hacerlo con coaliciones. Las candidaturas surgidas de los acuerdos de participación, serán registradas por el partido político y serán votadas con la denominación, emblema, color o colores de éste.
+Las agrupaciones políticas locales sólo podrán participar en los procesos electorales mediante acuerdos de participación con un partido político o coalición. Las candidaturas surgidas de los acuerdos de participación, serán registradas por el partido político y serán votadas con la denominación, emblema, color o colores de éste.
 
-En la propaganda y campaña electoral, se podrá mencionar a la asociación participante.
+El acuerdo de participación a que se refiere el párrafo anterior deberá presentarse para su registro ante el Consejo General del Instituto Estatal Electoral en los términos y plazos previstos por la Ley.
+
+En la propaganda y campaña electoral, se podrá mencionar a la agrupación participante.
 
 ###### Artículo 64.
 
@@ -1159,11 +1037,33 @@ III.- Disponer de escritura constitutiva ante notario público, así como una de
 
 La asociación interesada presentará seis meses antes al día de la elección de que se trate junto con su solicitud de registro, la documentación con la que acredite los requisitos anteriores y los que, en su caso, señale el Consejo General del Instituto Estatal Electoral.
 
-El Consejo General del Instituto Estatal Electoral, dentro del plazo máximo de treinta días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
-Cuando proceda el registro, el Consejo General del Instituto Estatal Electoral, expedirá el certificado respectivo. En caso de negativa expresará las causas que la motiven y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado.
+Los interesados presentarán durante el mes de enero del año anterior al de la elección, junto con su solicitud de registro, la documentación con la que acrediten los requisitos anteriores y los que, en su caso, señale el Consejo General del Instituto Estatal Electoral.
 
-El registro de las asociaciones políticas que hubiese procedido, surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+El Consejo General del Instituto Estatal Electoral, dentro del plazo máximo de sesenta días naturales contados a partir de la fecha en que conozca de las solicitudes de registro, resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Cuando proceda el registro, el Consejo General del Instituto Estatal Electoral, expedirá el certificado respectivo. En caso de negativa expresará las causas que la motiven y lo comunicará a la agrupación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+El registro de las agrupaciones políticas que hubiese procedido, surtirá efectos a partir del 1o. de junio del año anterior al de la elección, previa publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Las agrupaciones políticas con registro, gozarán del régimen fiscal previsto para los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+Las agrupaciones políticas con registro deberán presentar al Instituto Estatal Electoral un informe anual del ejercicio anterior sobre el origen y destino de los recursos que reciban por cualquier modalidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+
+El informe a que se refiere el párrafo anterior deberá presentarse a más tardar dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte.
 
 ###### Artículo 65.
 
@@ -1177,9 +1077,21 @@ III.- Por incumplir de manera grave con las disposiciones contenidas en esta Ley
 
 IV.- Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
 
-V.- Por incumplir los acuerdos emitidos por el Consejo General; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI.- Las demás que establezca esta Ley.
+V.- Por incumplir los acuerdos emitidos por el Consejo General;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VI.- Omitir rendir el informe anual del origen y aplicación de sus recursos;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VII.- No acreditar actividad alguna durante un año calendario, en los términos de la normatividad; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+
+VIII.-. Las demás disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS ELECTORALES
 
@@ -3808,3 +3720,7 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 EI presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
