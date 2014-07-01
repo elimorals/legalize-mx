@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-general-de-gobierno-81061"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-29"
-last_updated: "2011-03-29"
+last_updated: "2014-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE GUERRERO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE GUERRERO
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Gobierno del Estado de Guerrero, el martes 29 de marzo de 2011.
 
@@ -333,7 +335,7 @@ XXI. Las demás que les señalen otras disposiciones legales o administrativas a
 
 El titular de la Subsecretaría de Gobierno para Asuntos Jurídicos y de Derechos Humanos, tendrá las atribuciones específicas siguientes:
 
-l. Formular los proyectos de leyes, reglamentos, decretos, acuerdos y opiniones e informes que le sea solicitado (sic) por el Secretario General de Gobierno;
+I. Formular los proyectos de leyes, reglamentos, decretos, acuerdos y opiniones e informes que le sea solicitado (sic) por el Secretario General de Gobierno;
 
 II. Someter a consideración del superior jerárquico las leyes, decretos, reglamentos, acuerdos y demás disposiciones, que el Gobernador, promulgue, expida o autorice, para su refrendo por el Secretario General de Gobierno;
 
@@ -357,7 +359,7 @@ X. Las demás que le señalen otras disposiciones legales o administrativas, as�
 
 El titular de la Subsecretaría de Gobierno de Desarrollo Político, tendrá las atribuciones específicas siguientes:
 
-l. Apoyar al Secretario General de Gobierno, en la conducción de la política interna del Estado;
+I. Apoyar al Secretario General de Gobierno, en la conducción de la política interna del Estado;
 
 II. Acordar con el Secretario General de Gobierno, los programas en materia de desarrollo político que prevé el Plan Estatal de Desarrollo;
 
@@ -383,7 +385,7 @@ XI. Las demás que le señale (sic) otras disposiciones legales o administrativa
 
 El titular de la Subsecretaría del trabajo y Previsión Social, tendrá las atribuciones específicas siguientes:
 
-l. Vigilar que las empresas o centros de trabajo de jurisdicción local, den cumplimiento al artículo 123 Constitucional, a la Ley Federal del Trabajo, y a los reglamentos y demás disposiciones reglamentarias en materia laboral;
+I. Vigilar que las empresas o centros de trabajo de jurisdicción local, den cumplimiento al artículo 123 Constitucional, a la Ley Federal del Trabajo, y a los reglamentos y demás disposiciones reglamentarias en materia laboral;
 
 II. Participar en la determinación de lineamientos que en materia de trabajo deben aplicarse en el Estado, así como aprobar las normas y técnicas que sean procedentes en la materia;
 
@@ -413,7 +415,7 @@ XIII. Las demás que le señale (sic) otras disposiciones legales o administrati
 
 El titular de la Subsecretaría de Gobierno para Asuntos Agrarios, tendrá las atribuciones específicas siguientes:
 
-l. Representar al Secretario General de Gobierno en las sesiones del Consejo Agrario Estatal;
+I. Representar al Secretario General de Gobierno en las sesiones del Consejo Agrario Estatal;
 
 II. Informar sobre las acciones que en política agraria desarrolla el Gobierno del Estado, para los Informes de Gobierno respectivos;
 
@@ -437,7 +439,7 @@ X. Las demás que le señale (sic) otras disposiciones legales o administrativas
 
 El titular de la Subsecretaría de Gobierno para Asuntos Religiosos, tendrá las atribuciones específicas siguientes:
 
-l. Diseñar programas y acciones tendientes a garantizar la libertad de creencias, de cultos religiosos y el respeto a la pluralidad y tolerancia religiosa en la entidad;
+I. Diseñar programas y acciones tendientes a garantizar la libertad de creencias, de cultos religiosos y el respeto a la pluralidad y tolerancia religiosa en la entidad;
 
 II. Representar al Gobierno del Estado ante la Secretaría de Gobernación y establecer mecanismos de coordinación para implementar acciones a favor de los derechos y libertades religiosas de los habitantes del Estado;
 
@@ -615,7 +617,7 @@ XI. Las demás que le establece el Acuerdo que crea la Dirección General, publi
 
 La Dirección General de Consultoría y Apoyo Técnico, tendrá las atribuciones siguientes:
 
-l. Tramitar la presentación de las iniciativas de leyes y decretos del Ejecutivo, ante el Congreso del Estado;
+I. Tramitar la presentación de las iniciativas de leyes y decretos del Ejecutivo, ante el Congreso del Estado;
 
 II. Tramitar las pensiones otorgadas por el Gobierno del Estado a sus trabajadores;
 
@@ -701,7 +703,7 @@ XI. Ejercer el control de los recursos humanos, financieros y materiales asignad
 
 XII. Vigilar que los defensores de oficio asistan con prontitud y eficiencia a quienes soliciten de sus servicios profesionales;
 
-XIIl. Implementar, desarrollar y ejecutar cursos de actualización jurídica para los defensores de oficio; y
+XIII. Implementar, desarrollar y ejecutar cursos de actualización jurídica para los defensores de oficio; y
 
 XIV. Las demás que le señale la Ley del Servicio de Defensoría de Oficio del Estado y aquéllas que le confieran los superiores jerárquicos.
 
@@ -775,7 +777,7 @@ XVII. Las demás que le señalen el Código Civil, la Ley número 495 del Regist
 
 La Dirección General de Gobernación, tendrá las atribuciones siguientes:
 
-l. Auxiliar al titular de la Secretaría General de Gobierno, en sus relaciones con los ciudadanos y las organizaciones;
+I. Auxiliar al titular de la Secretaría General de Gobierno, en sus relaciones con los ciudadanos y las organizaciones;
 
 II. Atender por conducto de los órganos administrativos que la integran los asuntos que se le planteen en los municipios, así Como coadyuvar, conforme a las leyes, en la solución de las controversias planteadas;
 
@@ -837,7 +839,7 @@ IX. Las demás que le señale el Acuerdo que la crea, publicado en el Periódico
 
 La Dirección General de Trabajo, tendrá las atribuciones siguientes:
 
-l. Elaborar y ejecutar su Programa Anual de Trabajo, previamente autorizado por el Subsecretario;
+I. Elaborar y ejecutar su Programa Anual de Trabajo, previamente autorizado por el Subsecretario;
 
 II. Acordar con el Subsecretario del Ramo, el despacho de los asuntos y actividades relacionadas con el área bajo su responsabilidad;
 
@@ -867,7 +869,7 @@ XIII. Las demás que le señale el Reglamento de Inspección del Trabajo del Est
 
 La Dirección General del Servicio Estatal del Empleo, tendrá las atribuciones siguientes:
 
-l. Elaborar y ejecutar el Programa Anual de Capacitación y Adiestramiento, previamente autorizado por el Secretario;
+I. Elaborar y ejecutar el Programa Anual de Capacitación y Adiestramiento, previamente autorizado por el Secretario;
 
 II. Planear, programar, dirigir, orientar y evaluar las actividades tendientes al desarrollo de mecanismos institucionales que permitan conocer los mercados de trabajo a nivel estatal, estableciendo una vinculación entre la oferta y demanda de mano de obra;
 
@@ -907,7 +909,7 @@ IV. Las demás que le señalen otras disposiciones legales o administrativas, as
 
 La Procuraduría de la Defensa del Trabajo, tendrá las atribuciones siguientes:
 
-l. Elaborar y ejecutar su Programa Anual de Trabajo y ponerlo a la consideración de la Dirección General del Trabajo para su análisis y aprobación en su caso;
+I. Elaborar y ejecutar su Programa Anual de Trabajo y ponerlo a la consideración de la Dirección General del Trabajo para su análisis y aprobación en su caso;
 
 II. Acordar con el jefe inmediato superior el despacho de los asuntos y actividades relacionadas con el área bajo su responsabilidad;
 
@@ -941,7 +943,7 @@ La Procuraduría, se apoyará con 6 Procuradurías Auxiliares de la Defensa del 
 
 La Dirección General de Asuntos Agrarios, tendrá las atribuciones siguientes:
 
-l. Proponer las medidas necesarias para la observancia y aplicación de las disposiciones agrarias que al efecto le señalen las leyes al Ejecutivo del Estado;
+I. Proponer las medidas necesarias para la observancia y aplicación de las disposiciones agrarias que al efecto le señalen las leyes al Ejecutivo del Estado;
 
 II. Coadyuvar con las instancias competentes, en la integración de los expedientes de expropiación de bienes inmuebles de régimen privado, para incrementar el patrimonio inmobiliario del Gobierno del Estado o bien para regularizar asentamientos humanos;
 
@@ -971,7 +973,7 @@ XIII. Las demás que le señalen otras disposiciones legales o administrativas a
 
 La Dirección Técnica Operativa, tendrá las atribuciones siguientes:
 
-l. Coordinarse con las instancias del Sector Agrario Federal para la solución de la problemática agraria suscitada en la entidad;
+I. Coordinarse con las instancias del Sector Agrario Federal para la solución de la problemática agraria suscitada en la entidad;
 
 II. Propiciar la participación de las organizaciones campesinas y sociales para solucionar en amigable composición la problemática agraria;
 
@@ -995,7 +997,7 @@ X. Las demás que le señalen otras disposiciones legales o administrativas, as�
 
 La Dirección de Límites Territoriales y Remunicipalización, tendrá las atribuciones siguientes:
 
-l. Vigilar y controlar la correcta demarcación y conservación de los límites territoriales del Estado con las entidades federativas vecinas y de los municipios entre sí;
+I. Vigilar y controlar la correcta demarcación y conservación de los límites territoriales del Estado con las entidades federativas vecinas y de los municipios entre sí;
 
 II. Proponer y ejecutar las medidas posibles de solución de los conflictos que se susciten por límites territoriales del Estado con las entidades federativas circunvecinas y entre los Municipios;
 
@@ -1065,7 +1067,7 @@ XIII. Las demás que le señalen otras disposiciones legales o administrativas, 
 
 La Subdirección de Información y Estadísticas Religiosas, tendrá las atribuciones siguientes:
 
-l. Estudiar y analizar el funcionamiento, estructuras y disposiciones normativas de las iglesias en la entidad;
+I. Estudiar y analizar el funcionamiento, estructuras y disposiciones normativas de las iglesias en la entidad;
 
 II. Mantener actualizado el padrón de asociaciones religiosas, agrupaciones e iglesias, así como de sus representantes, apoderados, ministros de cultos, asociados y templos;
 
@@ -1149,7 +1151,7 @@ La Comisión Técnica de Transporte y Vialidad, es un Órgano Administrativo Des
 
 La Procuraduría de la defensa de los Campesinos del Estado, tendrá por objeto atender eficiente y oportunamente las demandas de los campesinos del Estado, proporcionándoles la asistencia jurídica y técnica necesaria y tendrá las atribuciones siguientes:
 
-l. Proponer al titular del Ejecutivo Estatal, los programas y proyectos, así como las acciones socioeconómicas que se requieren, para contribuir al desarrollo social integral y armónico de los campesinos, además de que respondan a la solución de sus demandas más sentidas;
+I. Proponer al titular del Ejecutivo Estatal, los programas y proyectos, así como las acciones socioeconómicas que se requieren, para contribuir al desarrollo social integral y armónico de los campesinos, además de que respondan a la solución de sus demandas más sentidas;
 
 II. Captar y dar seguimiento a las demandas de los campesinos, a través de instrumentos que permitan ampliar los canales de comunicación con la administración pública estatal;
 
@@ -1189,7 +1191,7 @@ XVIII. Las demás que le señala el Reglamento Interior y el Decreto que la crea
 
 Las Juntas Locales de Conciliación y Arbitraje de Chilpancingo de los Bravo, Acapulco de Juárez, Zihuatanejo de Azueta, Coyuca de Catalán e Iguala de la Independencia, tendrán las atribuciones siguientes:
 
-l. Resolver los conflictos de trabajo que sean de su competencia, de acuerdo a la jurisdicción que le corresponda a cada una;
+I. Resolver los conflictos de trabajo que sean de su competencia, de acuerdo a la jurisdicción que le corresponda a cada una;
 
 II. Promover la conciliación en las controversias laborales que se susciten entre trabajador y patrón en la primera audiencia de conciliación;
 
@@ -1270,3 +1272,19 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C. P. ISRAEL SOBERANIS NOGUEDA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2014.
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. En tanto se expida el Manual de Organización de la Secretaría General de Gobierno, el titular de la misma, queda facultado para resolver las cuestiones de operación que se origine por la aplicación del presente Reglamento.
+
+Tercero. Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial del Gobierno del Estado número 25 Alcance I de fecha 29 de marzo de 2011.
+
+Cuarto. Se abroga el Acuerdo Administrativo, publicado en el Periódico Oficial del Gobierno del Estado número 71 Alcance I de fecha 3 de septiembre de 2013.
+
+Quinto. Se abroga el Acuerdo por el que se edita y pública el Periódico Oficial del Gobierno del Estado de fecha 6 de enero de 1982.
+
+Sexto. En caso de suscitarse cambios de adscripción de algunos servidores públicos dentro de la Secretaría, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de una nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la institución, quedan garantizados los derechos laborales de los trabajadores de la misma.
