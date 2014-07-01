@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2014-06-26"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2281,7 +2281,7 @@ Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 BIS.- Para los efectos de este capítulo se entenderá por:
+ARTICULO 204 BIS. Para los efectos de este capítulo se entenderá por:
 
 I. Comercio: La venta, compra, adquisición o enajenación de algún narcótico;
 
@@ -2303,7 +2303,7 @@ VIII. Tabla: La relación de narcóticos y la orientación de dosis máximas de 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 TER.- Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+ARTICULO 204 TER. Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
 
 Por la comisión de este delito se impondrá prisión de cuatro a ocho años y sanción pecuniaria de doscientos a cuatrocientos días multa.
 
@@ -5073,9 +5073,17 @@ II. Despida o genere en la atmósfera, autorice u ordene emisiones de gases, hum
 
 III. Realice actividades de separación, utilización, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de la competencia del Estado, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos que resulten sobrantes de actividades domésticas, industriales, agrícolas o comerciales, que ocasionen o puedan ocasionar daños al medio ambiente, a los recursos naturales, a la flora, a la fauna, a los ecosistemas o a la salud de las personas;
 
-IV. Tale recursos forestales, transporte, comercie o transforme sus derivados, o productos provenientes de la descomposición de las rocas o del suelo a cielo abierto que se encuentren en las áreas naturales protegidas estatales; o
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2014)</small>
 
-V. Explore, extraiga, procese, importe o exporte cualquier mineral o sustancia geológica que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación.
+IV. Tale recursos forestales, transporte, comercie o transforme sus derivados, o productos provenientes de la descomposición de las rocas o del suelo a cielo abierto que se encuentren en las áreas naturales protegidas estatales;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2014)</small>
+
+V. Explore, extraiga, procese, importe o exporte cualquier mineral o sustancia geológica que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación; o
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2014)</small>
+
+VI. A quien sin aplicar las medidas de prevención o seguridad dictadas por las instancias correspondientes, guarde, almacene, acopie, posea, recolecte, repare algún vehículo del que haya transcurrido su vida útil o sus partes usadas, en cualquier lugar, que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5754,3 +5762,9 @@ El Consejo de la Judicatura del Estado proveerá lo conducente para contar con l
 ###### ARTÍCULO QUINTO.
 
 El Consejo de la Judicatura del Estado, en razón de la cantidad de causas penales que existiesen durante el desarrollo de la implementación del Sistema de Justicia Penal Acusatorio y Oral, podrá facultar a los Jueces de Control para actuar en los diferentes Distritos que integran la Región Judicial que les corresponda; y a los Tribunales de Enjuiciamiento para actuar de manera itinerante y realizar sus atribuciones en las diferentes Regiones Judiciales. Asimismo, en la designación de Jueces de Control y de quienes integren Tribunales de Enjuiciamiento, designación de Jueces de Control el Consejo podrá habilitar a Jueces de Primera Instancia, que estén suficientemente capacitados, para que temporalmente realicen las funciones inherentes a dicho Sistema, sin dejar de atender las relativas a su encargo.
+
+P.O. 1 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
