@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-las-victimas-de-los-delitos-para-el-72763"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-05"
-last_updated: "2014-04-03"
+last_updated: "2014-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LAS VÍCTIMAS DE LOS DELITOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 1 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de mayo de 2009.
 
@@ -416,3 +418,33 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 1 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección a las Víctimas de los Delitos para el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado No. 53 de fecha 5 de mayo del 2009, así como sus subsecuentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal publicará el reglamento de la Ley de Protección a las Victimas para el Estado de Tamaulipas que se expide mediante el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Atención a las Victimas, deberá quedar instalado a más tardar a los 180 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión Estatal de Atención a Víctimas a que se refiere la presente Ley deberá elegirse dentro de los sesenta días naturales a partir de configuración del Sistema Estatal de Estatal de Atención a las Victimas.
+
+###### ARTÍCULO SEXTO.
+
+El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal para la constitución del Fondo de Atención a Víctimas del Estado de Tamaulipas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones jurídicas que se opongan el presente Decreto.
