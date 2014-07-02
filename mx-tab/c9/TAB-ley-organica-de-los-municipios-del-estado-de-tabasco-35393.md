@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2011-06-01"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
+LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -70,6 +70,10 @@ La función primordial del Municipio es permitir el gobierno democrático para e
 ###### Artículo 4.
 
 En los términos señalados en esta Ley y sin menoscabo de la libertad que sancionan el pacto federal y la Constitución del Estado, los municipios podrán coordinarse entre sí, con el Estado o con municipios de otras entidades federativas, para el más eficaz cumplimiento de sus funciones, la prestación de los servicios públicos y el mejor aprovechamiento de sus recursos y en cuanto proceda, buscarán la coordinación con los gobiernos estatal y federal.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+Artículo 4 bis. El Ayuntamiento y/o Consejo Municipal, titulares de las Dependencias y Entidades Paramunicipales y demás servidores públicos municipales que tengan el carácter de sujetos obligados, deberán cumplir con las obligaciones en materia de transparencia señaladas en la Ley de Transparencia y Acceso a la Información Pública del Estado. El incumplimiento de esta obligación será causa de responsabilidad administrativa que será sancionada conforme a dicha Ley, sin perjuicio de otras sanciones que prevean otras leyes.
 
 ### CAPÍTULO II. De la Organización Territorial del Estado
 
@@ -147,6 +151,10 @@ La creación y supresión de municipios, modificación de su territorio, cambios
 
 Para crear un Municipio se requiere que exista un mínimo de treinta mil habitantes en el territorio que pretende constituirse, que las fuentes de ingresos sean suficientes para cubrir sus necesidades, que no afecte seriamente la economía del Municipio del que pretenda segregarse; que mediante plebiscito y por mayoría de las dos terceras partes de la población, se confirme el deseo de los habitantes de integrar un nuevo Municipio y que se consulte al Ayuntamiento del que el nuevo cuerpo intente desmembrarse.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+La organización de la Consulta Popular en modalidad de plebiscito a que se refiere el párrafo anterior, se sujetará a lo que disponga la Ley de Participación Ciudadana del Estado de Tabasco.
+
 ###### Artículo 12.
 
 Salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables, los conflictos a que se refiere el artículo 36, fracción XX, de la Constitución Política del Estado Libre y Soberano de Tabasco, que se susciten entre dos o más municipios del Estado, o políticos entre cualquiera de éstos con el Poder Ejecutivo, serán resueltos por el Congreso del Estado, conforme al siguiente procedimiento:
@@ -215,7 +223,9 @@ b) Ejercer el derecho de petición ante las autoridades municipales.
 
 II. De los vecinos del Municipio:
 
-a) Votar en las elecciones populares, en los procesos de plebiscito y referéndum y ser votado para todos los cargos de elección popular municipal, así como ser nombrado para cualquier otro empleo o comisión, de acuerdo a las leyes correspondientes;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) Votar en las elecciones populares, participar en las consultas populares a través de los procesos de plebiscito y referéndum y ser votado para todos los cargos de elección popular municipal, así como ser nombrado para cualquier otro empleo o comisión, de acuerdo a las leyes correspondientes;
 
 b) Participar en las actividades tendentes a promover el desarrollo municipal, así como tener acceso a sus beneficios; y
 
@@ -241,7 +251,9 @@ b) Asistir en los días y horas designados por el Ayuntamiento para recibir inst
 
 c) Inscribirse en el catastro municipal, manifestando la propiedad o posesión que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista, así como inscribirse en los padrones electorales, en los términos que determinen las leyes;
 
-d) Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum, conforme a las leyes correspondientes y desempeñar los cargos concejiles, las funciones electorales y las de jurado; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+d) Votar en las elecciones populares, así como en las consultas populares a través de los procesos de plebiscito y referéndum, conforme a las leyes correspondientes y desempeñar los cargos concejiles, las funciones electorales y las de jurado; y
 
 e) Las demás que les otorguen otras disposiciones jurídicas aplicables.
 
@@ -273,7 +285,9 @@ Cuando correspondan al Municipio dos síndicos de hacienda, el primer regidor se
 
 Dadas las funciones que desempeña el síndico o los síndicos, se procurará postular como tales, a personas que cuenten indistintamente con títulos de, licenciados en Contaduría Pública, Derecho, Economía, Administración o cualquier otra profesión relacionada con las facultades que le competen.
 
-Las leyes electorales determinarán el número de Regidores de Representación Proporcional, de acuerdo a los porcentajes de votación alcanzada por los partidos minoritarios, cuidando que se salvaguarde siempre el principio democrático del mandato de las mayorías.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+La Ley Electoral y de Partidos Políticos del Estado de Tabasco determinará el número de regidores de representación proporcional que serán asignados a los partidos políticos, cuidando que se salvaguarde siempre el principio democrático del mandato de las mayorías.
 
 ###### Artículo 20.
 
@@ -281,37 +295,31 @@ Los cargos de presidentes municipales, síndicos, regidores o concejales, así c
 
 La competencia que la Constitución General de la República y la Constitución local otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 21.
 
-Para ser regidor se requiere:
+Para ser regidor se requiere cumplir con los requisitos establecidos para dicho cargo en la Constitución Local y en la Ley Electoral y de Partidos Políticos del Estado de Tabasco.
 
-a) Ser ciudadano mexicano por nacimiento;
-
-b) Tener residencia no menor de 3 años anteriores al día de la elección en el Municipio correspondiente;
-
-c) No ser ministro de algún culto religioso;
-
-d) No tener antecedentes penales;
-
-e) Haber cumplido 21 años antes del día de la elección;
-
-f) No ser secretario del Ayuntamiento, contralor municipal, director de finanzas, o titular de alguna de las dependencias de la administración pública municipal o de una entidad paramunicipal, a menos que permanezca legalmente separado de su cargo desde noventa días naturales antes de la elección; y
-
-g) Los demás requisitos que exijan las leyes correspondientes.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### Artículo 22.
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato.
+Los presidentes municipales, síndicos y regidores de los ayuntamientos electos popularmente por elección directa, podrán ser reelectos para el período inmediato. Las personas que por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para el período inmediato.
 
-Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hubieren estado en ejercicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### Artículo 23.
 
-Entre los días 12 al 30 de diciembre de cada año, el Ayuntamiento se constituirá en Sesión Solemne para que el presidente del mismo o del Concejo Municipal en funciones, en su caso, rinda el informe de administración ante el propio Ayuntamiento.
+Entre el 1° y el 15 de diciembre de cada año, el Ayuntamiento se constituirá en Sesión Solemne para que el presidente del mismo o del Concejo Municipal en funciones, en su caso, rinda el informe de administración de cada año de su ejercicio constitucional ante el propio Ayuntamiento, salvo el tercer año, cuando dicho informe se rendirá durante la última semana del mes de septiembre.
 
-El día 31 del mismo mes, en el último año del ejercicio del Ayuntamiento, también en Sesión Solemne del propio Cabildo, el presidente municipal electo para el período siguiente, rendirá la protesta, y a su vez la tomará a los demás miembros propietarios del Ayuntamiento igualmente electos.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-El Ayuntamiento saliente invitará a los Poderes del Estado, a los habitantes y vecinos del Municipio para que asistan a la ceremonia y continuará en funciones hasta las nueve horas del día primero de enero siguiente.
+El día 4 de octubre, en el último año del ejercicio del Ayuntamiento, también en Sesión Solemne del propio Cabildo, el presidente municipal electo para el período siguiente, rendirá la protesta, y a su vez la tomará a los demás miembros propietarios del Ayuntamiento igualmente electos.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+El Ayuntamiento saliente invitará a los Poderes del Estado, a los habitantes y vecinos del Municipio para que asistan a la ceremonia y continuará en funciones hasta las nueve horas del día 5 de octubre siguiente.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -329,15 +337,19 @@ Los miembros del Ayuntamiento, el secretario del mismo, directores, así como lo
 
 ### CAPÍTULO II. De la Instalación y proceso de entrega-recepción de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 25.
 
-Los miembros del Ayuntamiento entrarán en funciones el primero de enero siguiente a las elecciones y durarán en su encargo tres años.
+Los miembros del Ayuntamiento entrarán en funciones el 5 de octubre del año de la elección y durarán en su encargo tres años.
 
 El Ayuntamiento residirá en la cabecera del Municipio respectivo. Sólo por acuerdo del Cabildo y con la aprobación de la Legislatura local, el Ayuntamiento podrá establecerse en otro lugar, comprendido dentro de los límites territoriales del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 26.
 
-A las nueve horas del día primero de enero siguiente al de las elecciones, el Ayuntamiento saliente dará posesión en las oficinas municipales a los miembros entrantes, que hayan rendido la protesta de ley como lo establece el artículo 23 de esta Ley. Inmediatamente después el nuevo presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar durante los años de..."
+A las nueve horas del día 5 de octubre del año de la elección, el Ayuntamiento saliente dará posesión en las oficinas municipales a los miembros entrantes, que hayan rendido la protesta de ley como lo establece el artículo 23 de esta Ley. Inmediatamente después el nuevo presidente hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de... que deberá funcionar del 5 de octubre del año ___ al 4 de octubre del año ___" " (sic)
 
 Una vez que esté debidamente instalado, el Ayuntamiento sesionará para asignar las comisiones a cada uno de los integrantes del Ayuntamiento y a continuación el presidente municipal dará lectura al programa de trabajo que deberá contener como mínimo: las bases para la elaboración del Plan Municipal de Desarrollo, los trabajos a realizarse dentro del Programa Operativo Anual y su respectiva calendarización. El secretario del Ayuntamiento se encargará de levantar el acta de la Sesión.
 
@@ -517,9 +529,19 @@ II. Coordinar sus Planes Municipales con los Planes Nacional y Estatal de Desarr
 
 III. Expedir y aplicar, el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones; de manera particular las que organicen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal, sujetándose a las reglas establecidas para ello en la presente Ley;
 
-IV. Estimar, examinar, discutir y aprobar la iniciativa de Ley de Ingresos Municipales, que será remitida a más tardar en el mes de octubre de cada año, a la Legislatura estatal para su aprobación;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+IV. Estimar, examinar, discutir y aprobar la iniciativa de Ley de Ingresos Municipales, que será remitida entre el 5 y el 31 del mes de octubre de cada año, a la Legislatura estatal para su aprobación;
 
 V. Examinar, discutir y aprobar el presupuesto de egresos sobre la base de sus ingresos disponibles y de conformidad con el Programa Operativo Anual correspondiente y el Plan Municipal de Desarrollo. En su caso las modificaciones o ampliaciones, se sujetarán a lo previsto en el artículo 65, fracción III, segundo párrafo, de esta Ley, así como las que autorice el Cabildo y las demás disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+En dicho presupuesto de egresos deberán incluirse los tabuladores desglosados de las remuneraciones que percibirán los miembros del Ayuntamiento y demás servidores públicos, a propuesta del Presidente Municipal, sujetándose a lo establecido en el artículo 75 de la Constitución Política del Estado y la Ley de Remuneraciones de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+El incumplimiento de esta disposición será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de otras sanciones que prevean otras leyes.
 
 VI. Enviar mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros y sus avances, mismos que acreditarán las erogaciones y el desarrollo de las metas físicas de sus proyectos.
 
@@ -631,9 +653,11 @@ LV. Diseñar el sistema de registro y el control de su patrimonio;
 
 LVI. Proporcionar a los integrantes de pueblos o comunidades indígenas que no hablen español, el auxilio de intérpretes o defensores que tengan conocimiento de su dialecto, lengua y cultura, en los asuntos o procedimientos que tengan que ventilar ante el Ayuntamiento y sus distintas dependencias;
 
-LVII. Convocar en los términos establecidos en la Constitución local y las disposiciones aplicables, a referéndum o plebiscito;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
-LVIII. Someter a la consideración del Cabildo, las iniciativas populares que les sean remitidas en términos de ley; y
+LVII. Convocar a consulta popular, bajo la modalidad de plebiscito o referéndum en los términos establecidos en la Constitución Política Local y las disposiciones aplicables;
+
+LVIII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
 
 LIX. Las demás que la Constitución federal, la particular del Estado, la presente Ley y otras disposiciones jurídicas aplicables le señalen.
 
@@ -671,9 +695,21 @@ X. Establecer partidas específicas en el presupuesto de egresos para cumplir la
 
 Para los efectos de dar cumplimiento a las atribuciones a que se refieren los dos preceptos que anteceden, en los municipios que cuenten con una población indígena considerable, los ayuntamientos contarán con una Dirección o un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que sean de su competencia.
 
-Dicha dependencia, estará a cargo de una persona que hable y escriba el dialecto o lengua indígena de la región de que se trate, será designada por el Cabildo a propuesta del presidente municipal, quien preferentemente, consultará a las autoridades tradicionales de las principales comunidades para representar la misma.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-El titular de la dependencia mencionada realizará las funciones y ejercerá las atribuciones específicas que señale el Reglamento Interior correspondiente. Se procurará que el personal de la misma sea indígena.
+Dicha Dirección o Departamento, según corresponda, estará a cargo de un ciudadano indígena vecino del municipio, que hable y/o escriba el dialecto o lengua de la región de que se trate, quien será electo por los pueblos y comunidades indígenas del municipio, de acuerdo con sus normas, procedimientos y prácticas tradicionales.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+La Comisión de Asuntos Indígenas del Cabildo emitirá la convocatoria respectiva; y designará a un representante para cada comunidad, quien fungirá como observador y tomará nota de los resultados de la elección. La actuación de tal representante se regirá por los principios de certeza, legalidad, imparcialidad y objetividad, con pleno respeto de los usos y costumbres de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+La elección se realizará dentro de los primeros 120 días a partir del inicio del período constitucional correspondiente. Una vez realizada, la autoridad indígena reconocida comunicará sus resultados al Presidente Municipal, para que éste a su vez lo haga del conocimiento del Cabildo para su designación formal.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+El titular de la dirección o jefatura de departamento de asuntos indígenas, tendrá derecho a participar con voz en las sesiones del cabildo en que se traten asuntos relacionados con la población indígena y sus comunidades en el municipio, así como las demás facultades y obligaciones que señala la presente ley y reglamentos aplicables. El personal de dicha dependencia será preferentemente indígena.
 
 ### CAPÍTULO V. Prohibiciones del Ayuntamiento
 
@@ -707,7 +743,9 @@ IX. Imponer sanciones administrativas por violaciones a los reglamentos municipa
 
 X. Cambiar la clasificación de las plazas o cargos de confianza, a de base, durante los últimos ocho meses de su período constitucional; y
 
-XI. Autorizar o destinar recursos humanos y/o partidas para campañas políticas de partidos o candidatos.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+XI. Autorizar o destinar recursos humanos y/o partidas para precampañas y campañas políticas de partidos políticos, precandidatos y candidatos; así como para apoyar a aspirantes a candidatos independientes.
 
 ### CAPÍTULO VI. De los Regidores
 
@@ -715,7 +753,9 @@ XI. Autorizar o destinar recursos humanos y/o partidas para campañas políticas
 
 Los regidores tendrán las siguientes facultades y obligaciones:
 
-I. Asistir a las sesiones que celebre el Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+I. Asistir a las sesiones que celebre el Ayuntamiento y firmar las actas de las mismas una vez aprobadas; la falta de firma de algún regidor no afectará su contenido.
 
 II. Vigilar y atender el ramo de la administración municipal que les sea encomendado por el Ayuntamiento;
 
@@ -728,6 +768,10 @@ V. Suplir en sus faltas temporales al presidente municipal en la forma que previ
 VI. Rendir, por conducto del presidente de la comisión de que se trate, informe trimestral por escrito al Cabildo, de las actividades realizadas conforme a lo señalado en esta Ley, así como con relación al Plan Municipal de Desarrollo y al Programa Operativo Anual; y
 
 VII. Las demás que les otorguen esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+El incumplimiento de cualquiera de las obligaciones señaladas en este artículo será sancionado conforme a las disposiciones de la Constitución Política Local y la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de otras sanciones que establezcan otras leyes.
 
 ### CAPÍTULO VII. Del Síndico o Síndicos
 
@@ -879,17 +923,23 @@ Los reglamentos, bandos, circulares y disposiciones administrativas de observanc
 
 La facultad de presentar las iniciativas ante el propio Ayuntamiento, correspondientes a las normas que deriven de lo consignado en el párrafo anterior corresponde:
 
-I. Al presidente municipal, regidores y síndicos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
-II. A las comisiones de Cabildo, colegiadas o individuales; y
+I. Al presidente municipal, regidores y síndicos; y
 
-III. A los ciudadanos vecinos del Municipio, en los términos de la fracción IV, del artículo 8 Bis, de la Constitución del Estado.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
-Las iniciativas correspondientes al presupuesto de egresos y sus reformas, sólo podrán presentarse por los miembros del Ayuntamiento.
+II. A las comisiones de Cabildo, colegiadas o individuales.
+
+III. (DEROGADA, P.O. 2 DE JULIO DE 2014)
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### Artículo 48.
 
-Durante el mes de enero del primer año de su ejercicio y cada año si se considera necesario, el Ayuntamiento, de acuerdo con las leyes aplicables, expedirá el Bando de Policía y Gobierno, que deberá incluir aquellas disposiciones necesarias y relativas a los valores protegidos en la esfera del orden público, en los que se refiere a la seguridad general, a la protección civil, al civismo, la salubridad y al ornato público, la propiedad y al bienestar colectivo.
+Dentro de los primeros treinta días del primer año de su ejercicio y cada año si se considera necesario, el Ayuntamiento, de acuerdo con las leyes aplicables, expedirá el Bando de Policía y Gobierno, que deberá incluir aquellas disposiciones necesarias y relativas a los valores protegidos en la esfera del orden público, en los que se refiere a la seguridad general, a la protección civil, al civismo, la salubridad y al ornato público, la propiedad y al bienestar colectivo.
 
 ###### Artículo 49.
 
@@ -1115,7 +1165,9 @@ Para aplicar la suspensión o revocación a que se refieren los artículos 59 y 
 
 Si alguno de los miembros propietarios de los ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
 
-Si se tratare del presidente municipal, éste podrá ser sustituido por su suplente o por uno de los regidores o por un vecino del Municipio, designado, cualquiera de ellos, por la mayoría de los integrantes del Ayuntamiento.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+Si se tratare del presidente municipal, éste será sustituido por su suplente o, en su caso, por uno de los regidores o por un vecino del Municipio; en los dos últimos supuestos, cualquiera de ellos será designado por la mayoría de los integrantes del Ayuntamiento.
 
 Cuando el número de regidores en funciones, aún llamados los suplentes y que no se trate del presidente municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos.
 
@@ -1175,7 +1227,9 @@ I. Realizar las acciones necesarias para el desarrollo municipal, siguiendo los 
 
 II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, así como promulgarlos, publicarlos, vigilar y sancionar su cumplimiento;
 
-III. Elaborar los planes y programas municipales de acuerdo a las leyes respectivas, así como el presupuesto de ingresos y egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un período Constitucional, el primero, dentro de los cuatro primeros meses y, posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada ejercicio fiscal anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+
+III. Elaborar los planes y programas municipales de acuerdo a las leyes respectivas, así como el presupuesto de ingresos y egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los primeros ciento veinte días naturales de su mandato, y posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada ejercicio fiscal anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
 
 Tratándose del presupuesto de egresos correspondiente al primer año del ejercicio de un nuevo período constitucional, dentro de los sesenta días siguientes de iniciado el mismo, y conforme la previsión de los ingresos, el presidente municipal podrá solicitar al Cabildo, la aprobación de la modificación, y en su caso, la ampliación del presupuesto asignado por la administración anterior, para el ejercicio de que se trate, a fin de dar cumplimiento al Plan Municipal de Desarrollo y al Programa Operativo Anual de ese año, así como a los demás objetivos y metas que se pretendan alcanzar;
 
@@ -1205,7 +1259,7 @@ XV. Tener el mando de la fuerza pública municipal, con las restricciones señal
 
 XVI. Para el cumplimiento de sus facultades y obligaciones, el presidente municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos con las excepciones que ésta y otras leyes señalan;
 
-XVII. Fijar a propuesta del director de administración y una vez aprobado el presupuesto de egresos, los sueldos o remuneraciones de los servidores públicos del Ayuntamiento; ordenando la publicación de los rangos mínimos y máximos del tabulador correspondiente en el Periódico Oficial del Estado;
+XVII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
 
 XVIII. Proponer al Cabildo la creación de las coordinaciones que sean necesarias, para la consecución del desarrollo y la prestación de los servicios públicos del Ayuntamiento;
 
@@ -1223,7 +1277,9 @@ II. Imponer contribuciones, eximir de ellas o determinar sanciones que no estén
 
 III. Actuar como Juez en asuntos relativos a la propiedad o posesión de bienes inmuebles o intervenir en cualquier otro asunto de carácter civil o penal, imponiendo las sanciones correspondientes;
 
-IV. Utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinada persona o partido;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+IV. Utilizar su autoridad o influencia oficial para hacer que los votos en los procesos electorales recaigan en determinado precandidato, candidato o partido político; así como para que el respaldo ciudadano favorezca a algún aspirante a candidato independiente.
 
 V. Ausentarse del Municipio sin permiso del Ayuntamiento, por más de ocho días, excepto en aquellos casos de urgencia justificada;
 
@@ -1769,7 +1825,9 @@ VI. Vigilar el cumplimiento de las disposiciones legales y estatutos de las rela
 
 VII. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos municipales;
 
-VIII. Proponer, en coordinación con los directores de finanzas y de programación al presidente municipal, los rangos mínimos y máximos del tabulador correspondiente para determinar los sueldos o remuneraciones de los servidores públicos del Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+VIII. Proponer, en coordinación con los directores de finanzas y de programación al presidente municipal, los tabuladores desglosados de las remuneraciones que percibirán los miembros del Ayuntamiento y demás servidores públicos, que deberán incluirse en el presupuesto de egresos municipal.
 
 IX. Asegurar la conservación, así como administrar y controlar los bienes muebles del Municipio;
 
@@ -2197,9 +2255,11 @@ VII. No haber ocupado ese mismo cargo en el período inmediato anterior; y
 
 VIII. Las demás que se señalen en la convocatoria correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 103.
 
-La elección de los delegados y subdelegados se llevará a cabo mediante sufragio libre y secreto, durante los meses de marzo a mayo del año del inicio del período constitucional.
+La elección de los delegados y subdelegados se llevará a cabo mediante sufragio libre y secreto, durante los meses de marzo a mayo del año siguiente al del inicio del periodo constitucional.
 
 El Procedimiento para la elección de delegados y subdelegados será el siguiente:
 
@@ -2220,6 +2280,10 @@ VII. Una vez concluido el proceso de cómputo de votos, previa acta circunstanci
 Si alguno de los representantes de las fórmulas se niega a firmar, no será causa de nulidad de la elección; y
 
 VIII. Las resoluciones por las que se declare válida una elección y se otorgue la constancia a los electos serán definitivas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+Los actos y resoluciones derivados del proceso de elección de delegados y subdelegados podrán ser impugnados en términos del artículo 63 bis, párrafo tercero, fracciones III y V de la Constitución Política Local y de las leyes de la materia.
 
 Los jefes de sector y de sección serán designados directamente por el Ayuntamiento, a propuesta del presidente municipal o podrán ser electos, conforme a las disposiciones anteriores.
 
@@ -2295,7 +2359,9 @@ La inspección de la Hacienda Pública Municipal compete al Ayuntamiento, por s�
 
 La Legislatura estatal aprobará las leyes de ingresos de los municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y el Programa Operativo Anual del año de que se trate.
 
-Para la aprobación de la Ley de Ingresos del Municipio, éstos enviarán sus proyectos a la Legislatura local, directamente o por conducto del Ejecutivo, a más tardar en el mes de octubre de cada año.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+Para la aprobación de la Ley de Ingresos del Municipio, éstos enviarán sus proyectos a la Legislatura local, directamente o por conducto del Ejecutivo, entre el 5 y el 31 del mes de octubre de cada año.
 
 En caso de que el Ayuntamiento no presente dentro del término legal la iniciativa de Ley de Ingresos, se tomará como tal la ley que hubiese regido durante el año fiscal inmediato anterior y serán sujetos de responsabilidad en términos de la ley de la materia por el incumplimiento de dicha disposición, los servidores públicos, que conforme a sus atribuciones y obligaciones, resultaren con responsiva por la omisión.
 
@@ -2359,7 +2425,9 @@ Los planes municipales deberán prever, de conformidad con el artículo 115 de l
 
 Los municipios podrán participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales en la materia; cuando el Estado elabore proyectos de desarrollo regional, deberá otorgarse la participación correspondiente a los municipios concurrentes.
 
-En los meses de enero y febrero del año en que tomen posesión los miembros de los ayuntamientos, podrán convocar a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación para el Desarrollo del Estado de Tabasco, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo; así mismo, del resultado señalado deberán tomar en consideración aquellas propuestas que sean de utilidad para elaborar sus planes municipales, debiendo sujetarse a lo que sobre el particular establece la Ley de Planeación del Estado.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+Durante los primeros sesenta días naturales contados a partir de que tomen posesión los miembros de los ayuntamientos, podrán convocar a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación para el Desarrollo del Estado de Tabasco, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo; así mismo, del resultado señalado deberán tomar en consideración aquellas propuestas que sean de utilidad para elaborar sus planes municipales, debiendo sujetarse a lo que sobre el particular establece la Ley de Planeación del Estado.
 
 En la formulación de los planes de desarrollo municipal, acorde a lo establecido en la fracción IX, del inciso b), del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, el Municipio deberá consultar a los pueblos o comunidades indígenas que se encuentren dentro de su límite territorial y, en su caso, incorporará las recomendaciones y propuestas que le realicen.
 
@@ -3740,3 +3808,37 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Para efectos legislativos, legales y administrativos que sean procedentes, en vía de interpretación legislativa, se considera que los actos de autoridad y demás tareas oficiales que se hubieren ejercitado en la función pública, que se desplegaren a partir del inicio de su vigencia, por parte de los servidores públicos municipales que por razón de sus cargos, estén adscritos a la Dirección de Protección Ambiental y Desarrollo Sustentable, y a la Unidad de Protección Civil, respectivamente, que las ejecutaren debidamente, acorde a los ordenamientos legales aplicables, son jurídicamente lícitas, conforme a los antecedentes y las premisas que se citaron en los considerandos décimo segundo y décimo tercero de este decreto. En este tenor se consideran insertas y permanecen en el texto legislativo las disposiciones legislativas de cuyas citas se han precisado, por subsistir para los fines jurídicos, atento a lo antes expresado.
 
 CUARTO.- Se hace un atento exhorto a las autoridades municipales que a la entrada en vigor de este decreto, no hubieren acatado con la materialización de dotar de la infraestructura física, de la suficiencia financiera y de recursos humanos, para el desarrollo y operación de las funciones asignadas a la Dirección de Protección Ambiental y Desarrollo Sustentable; para que sin detrimento de su hacienda municipal, con sus propios recursos disponibles, y sin generar mayor egreso de sus finanzas públicas, cumplan en un plazo no mayor de noventa días naturales e improrrogables, a constituir a la citada dependencia, con la estructura mínima que fuere necesaria; debiendo las autoridades municipales en el ámbito de su competencia, seleccionar y adscribir al personal que actualmente se encuentra formando parte de su plantilla laboral, dotándola de las herramientas legales y materiales para su debida cumplimentación. Queda constreñido el Titular del Órgano de Fiscalización Superior del Estado, para que en aquéllos Municipios que han quedado referidos, y que a la fecha, no está legalmente conformada la dependencia antes precisada; para que sin perjuicio de sus funciones de fiscalización, en tiempo y forma, cumpliendo con los principios constitucionales en materia de la fiscalización del gasto público, incluya en su momento, un informe administrativo acerca del acatamiento que ineludiblemente debe cumplirse.
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley Electoral del Estado de Tabasco, publicada mediante Decreto 099, en el Periódico Oficial Extraordinario No. 52 del 12 de diciembre de 2008.
+
+TERCERO. El nuevo Organismo Público Local que se crea por virtud de lo mandatado por la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Instituciones y Procedimientos Electorales y del presente Decreto, se denomina INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, sustituyendo al organismo del mismo nombre que se preveía en la Ley que se abroga, para todos los efectos legales y administrativos que procedan.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este ordenamiento, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas que regulaban los actos previstos en la Ley que se abroga.
+
+QUINTO. El titular de la Contraloría General del nuevo Instituto Electoral y de Participación Ciudadana de Tabasco será designado por la Cámara de Diputados a más tardar el 15 de diciembre de 2014.
+
+Ningún ciudadano que cumpla los requisitos establecidos en la Ley podrá ser excluido de participar en el procedimiento de designación del nuevo titular de la Contraloría General.
+
+SEXTO. El personal del Instituto Electoral y de Participación Ciudadana de Tabasco o del Tribunal Electoral de Tabasco, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+En lo que se refiere al personal del Instituto Electoral y de Participación Ciudadana de Tabasco que deba ingresar al Servicio Profesional Electoral Nacional, correspondiente al Sistema de Organismos Públicos Locales, se estará a lo que al efecto determine el Instituto Nacional Electoral; en tanto, se seguirán aplicando las normas de orden laboral y administrativo vigentes en el Instituto Estatal.
+
+SÉPTIMO. Una vez que el Consejo General del Instituto Nacional Electoral designe a los Consejeros Presidente y Consejeros Electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, el nuevo Consejo dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley, sin demérito de lo que conforme a sus facultades corresponda al Instituto Nacional Electoral.
+
+Las disposiciones generales emitidas por el Consejo Estatal, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y la presente Ley, hasta en tanto el Consejo Estatal del nuevo organismo público local o el Consejo General del Instituto Nacional Electoral, según corresponda, emitan aquellas que deban sustituirlas.
+
+OCTAVO. Por única ocasión, el proceso electoral ordinario correspondiente a las elecciones de diputados al Congreso del Estado y regidores de los Ayuntamientos, que tendrán lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014, con la sesión que el día lunes seis de dicho mes celebre el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco.
+
+Para tal efecto el Consejo Estatal aprobará los ajustes necesarios a los plazos establecidos en la presente Ley, considerando necesariamente los Acuerdos que al efecto emita el Consejo General del Instituto Nacional Electoral.
+
+NOVENO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en la entidad, así como de sus militantes o simpatizantes, que los órganos electorales locales hayan iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+DÉCIMO. El Titular del Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que los órganos administrativos y jurisdiccionales en materia electoral cuenten con los recursos necesarios para el adecuado cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y sujeto a la suficiencia presupuestaria.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
