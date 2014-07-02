@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2013-12-31"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -191,13 +191,17 @@ XXX. Expedir las certificaciones de los documentos originales que obren en los e
 
 XXXI. Elaborar e impartir los cursos de capacitación conforme a la Ley Orgánica del Municipio libre del Estado, a los miembros electos de los ayuntamientos, a fin de que cuenten con conocimientos y habilidades necesarios para cumplir con las funciones, bajo criterios de eficacia y legalidad;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
-XXXII. Elaborar el registro estatal de servidores públicos sancionados e inhabilitados, el cual deberá actualizar semestralmente, y
+XXXII. Implementar y poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, mediante la coordinación y, responsabilidad con los órganos de control de los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos; y los fideicomisos públicos, a efecto de registrar la información relativa a las sanciones e inhabilitaciones de los servidores de la administración pública estatal y municipal, en el desempeño de su puesto, cargo, o comisión. Este registro deberá actualizarse por lo menos cada seis meses;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
-XXXIII. Las demás que expresamente señalen la Constitución Política y las leyes del Estado, y su Reglamento Interno.
+XXXIII. Expedir las constancias de existencia o no, de sanciones impuestas a los servidores públicos, y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
+
+XXXIV. Las demás que expresamente señalen la Constitución Política del Estado, las leyes y disposiciones aplicables, y su Reglamento Interno.
 
 ### CAPITULO III. Del Auditor Superior
 
@@ -1362,3 +1366,13 @@ P.O. 31 DE DICIEMBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
+
+CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
