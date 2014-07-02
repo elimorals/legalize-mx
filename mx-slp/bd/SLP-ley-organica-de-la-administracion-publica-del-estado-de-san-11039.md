@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2014-06-05"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -405,7 +405,7 @@ XXVIII. Fungir como fideicomitente de la administración pública estatal en los
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y (sic)
+XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y
 
 XXX. (DEROGADA, P.O. 31 DE ENERO DE 2006)
 
@@ -1305,7 +1305,9 @@ X. Recibir, registrar, verificar, e investigar las declaraciones de situación p
 
 XI. Atender las quejas y denuncias que presente la ciudadanía derivadas de las actuaciones de los servidores públicos del Ejecutivo del Estado;
 
-XII. Conocer e investigar los actos u omisiones de los servidores públicos que pudieran constituir responsabilidades administrativas o delitos, aplicando las sanciones que correspondan en los términos que las leyes señalen y, en su caso, presentar las denuncias y querellas en nombre del Estado y ante las autoridades competentes;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+XII. Conocer e investigar los actos u omisiones de los servidores públicos que pudieran constituir responsabilidades administrativas o delitos, aplicando las sanciones que correspondan en los términos que las leyes señalen y, en su caso, presentar las denuncias y querellas en nombre del Estado y ante las autoridades competentes; además, llevar un registro relativo a las sanciones impuestas; la inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos en la administración estatal; y los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrita en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos;
 
 XIII. Fiscalizar la obra pública federal programada para el Estado, en coordinación con la Secretaría de la Contraloría y Desarrollo Administrativo de la Federación;
 
@@ -1728,3 +1730,13 @@ NOVENO. La substanciación y decisión de los asuntos y procedimientos que actua
 DÉCIMO. En cumplimiento a la Ley que expide este Decreto, el titular del Poder Ejecutivo del Estado podrá reorganizar la administración pública estatal, en las áreas que se afecten, quedando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados, para las dependencias que se reorganicen.
 
 DÉCIMO PRIMERO. En términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, las secretarías, General de Gobierno; y de Finanzas entregarán a la Junta Directiva del Instituto Registral y Catastral del Estado, los bienes y recursos públicos que tenían bajo su administración con la consiguiente intervención que corresponda a la Contraloría General del Estado.
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
+
+CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
