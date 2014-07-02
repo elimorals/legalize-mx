@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-medios-de-impugnacion-en-materia-electoral-del-65483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en el Número 51 Extraordinario del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -73,7 +73,9 @@ e) Constitución Local: La Constitución Política del Estado Libre y Soberano d
 
 f) Instituto Estatal: El Instituto Electoral y de Participación Ciudadana de Tabasco;
 
-g) Instituto Federal: Instituto Federal Electoral;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+g) Instituto Nacional: Instituto Nacional Electoral;
 
 h) Juicio Laboral: El Juicio para dirimir los conflictos y diferencias laborales;
 
@@ -85,11 +87,15 @@ k) Partidos Políticos: Los nacionales y locales, constituidos y registrados con
 
 l) Tribunal Electoral: El Tribunal Electoral de Tabasco.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 2.
 
-1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
+1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a la Constitución Federal y Local, los tratados o instrumentos celebrados por el Estado Mexicano, así como los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
 
-2. La conservación de la libertad de decisión política y el derecho a la autoorganización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
+2. La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución Federal y Local, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+3. En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 ### CAPÍTULO II. De los medios de impugnación
 
@@ -97,7 +103,9 @@ l) Tribunal Electoral: El Tribunal Electoral de Tabasco.
 
 1. Los medios de impugnación regulados por esta ley tienen por objeto garantizar:
 
-a) Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) Que todos los actos y resoluciones de las autoridades electorales en los procesos electorales y de consulta popular se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y de legalidad; y
 
 b) La definitividad de los distintos actos y etapas de los procesos electorales.
 
@@ -229,7 +237,9 @@ a) A través de la presentación de escritos en los que manifiesten lo que a su 
 
 b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
 
-c) Los escritos deberán ir acompañados del documento con el que se acredite su personería en los términos del inciso b) del párrafo 1 del artículo 13 de esta ley;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+c) Los escritos deberán ir acompañados del documento con el que se acredite su personería en los términos del inciso c) del párrafo 1 del artículo 13 de esta ley;
 
 d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político; y
 
@@ -251,9 +261,29 @@ I. Los registrados formalmente ante el órgano electoral responsable, cuando és
 
 II. Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
-b) Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-c) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable.
+b) Las coaliciones, por conducto de sus representantes autorizados;
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+c) Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+d) Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable;
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+e) Los candidatos independientes, por su propio derecho, o a través de sus representantes autorizados ante los órganos del Instituto Estatal, en los siguientes términos:
+
+I. En el recurso de revisión, durante la etapa de preparación de la elección, procederá para impugnar los actos o resoluciones que causen un perjuicio a quien teniendo interés jurídico lo promueva, y que provengan de los órganos colegiados del Instituto Estatal a nivel distrital y municipal.
+
+II. En el recurso de apelación, para impugnar las resoluciones que recaigan a los recursos de revisión en los que hubiese sido parte, los actos y resoluciones de la autoridad electoral estatal que causen un perjuicio a su esfera jurídica, así como la determinación y, en su caso la aplicación de sanciones que en términos de la Ley Electoral realice el Consejo Estatal;
+
+III. En el juicio de inconformidad, durante el proceso electoral y exclusivamente en la etapa de resultados y declaraciones de validez, para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales relativas a las elecciones de Gobernador del Estado, Diputados, Presidentes Municipales y Regidores, en los términos señalados en el artículo 52 de la presente Ley.
+
+IV. En el juicio para la protección de los derechos político-electorales del ciudadano, cuando por sí mismo y en forma individual haga valer presuntas violaciones a sus derechos de ser votado al cargo de elección popular para el cual fue registrado.
 
 ### CAPÍTULO VII. De las pruebas
 
@@ -393,9 +423,15 @@ c) En cuanto al informe circunstanciado, si la autoridad u órgano partidista no
 
 d) El Juez Instructor, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá al Tribunal Electoral tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o se den los supuestos previstos en el párrafo 5 del artículo 17 de este ordenamiento. Asimismo, cuando el compareciente incumpla el requisito señalado en el inciso d) del párrafo 4 del artículo citado, y éste no se pueda deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de que no se tomará en cuenta el escrito al momento de resolver si no se cumple con el mismo dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente;
 
-e) Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Juez Instructor, en un plazo no mayor a diez días, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-f) Cerrada la instrucción, el magistrado electoral procederá a formular el proyecto de sentencia de sobreseimiento, desechamiento o de fondo, según sea el caso, dentro de los quince días siguientes y lo someterá a la consideración del pleno del Tribunal Electoral, termino que podrá ser prorrogado por acuerdo del pleno atendiendo al volumen del expediente.
+e) Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Juez Instructor, en un plazo no mayor a cinco días, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+f) Cerrada la instrucción, el magistrado electoral procederá a formular el proyecto de sentencia de sobreseimiento, desechamiento o de fondo, según sea el caso, dentro de los quince días siguientes y lo someterá a la consideración del pleno del Tribunal Electoral, para las elecciones de regidores y Gobernador del Estado; dicho término podrá ser ampliado hasta por diez días por acuerdo del pleno atendiendo al volumen del expediente.
+
+En la elección de diputados el término para formular el proyecto respectivo será de diez días, el cual podrá ser ampliado hasta por cinco días por acuerdo del pleno atendiendo al volumen del expediente.
 
 2. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, el Tribunal Electoral resolverá con los elementos que obren en autos.
 
@@ -521,7 +557,9 @@ Para el caso de que no se contara con el acuse de recibo, deberá fijarse ademá
 
 ###### Artículo 31.
 
-1. El partido político cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+1. El partido político, coalición o candidato independiente cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
 2. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través del Periódico Oficial del Estado o de uno de los diarios o periódicos de circulación local, o en lugares públicos o mediante la fijación de cédulas en los estrados de los órganos del Instituto Estatal y del Tribunal Electoral.
 
@@ -569,7 +607,9 @@ e) Arresto hasta por treinta y seis horas.
 
 1. Durante el tiempo que transcurra entre dos procesos electorales, para garantizar la legalidad de los actos y resoluciones electorales, en los términos señalados en este Libro, podrá interponerse el recurso de apelación.
 
-2. Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, además del medio de impugnación señalado en el párrafo anterior, podrá interponerse el recurso de revisión y el juicio de inconformidad en los términos previstos en este Libro.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+2. Durante el proceso electoral y de consulta popular, para garantizar la constitucionalidad y legalidad de los actos, resoluciones y resultados electorales, además del medio de impugnación señalado en el párrafo anterior, podrá interponerse el recurso de revisión y el juicio de inconformidad en los términos previstos en este Libro.
 
 3. Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el párrafo anterior, debiéndose aplicar, en lo conducente, las reglas señaladas en el presente ordenamiento y en la Ley Orgánica del Tribunal Electoral de Tabasco.
 
@@ -583,7 +623,9 @@ e) Arresto hasta por treinta y seis horas.
 
 2. Durante el proceso electoral, en la etapa de resultados y declaraciones de validez de las elecciones, los actos o resoluciones de los órganos del Instituto Estatal, que causen un perjuicio real al interés jurídico del partido político recurrente, cuya naturaleza sea diversa a los que puedan recurrirse por la vía de inconformidad y que no guarden relación con el proceso electoral y los resultados del mismo, serán resueltos por la Junta Estatal Ejecutiva o el Consejo Estatal del Instituto.
 
-3. Sólo procederá el recurso de revisión, cuando reuniendo los requisitos que señala esta ley, lo interponga un partido político a través de sus representantes legítimos.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+3. Sólo procederá el recurso de revisión, cuando reuniendo los requisitos que señala esta ley, lo interponga un partido político, una coalición o un candidato independiente, a través de sus representantes legítimos, además de que el último también podrá hacerlo por sí mismo.
 
 ### CAPÍTULO II. De la competencia
 
@@ -625,7 +667,9 @@ h) Todos los recursos de revisión interpuestos dentro de los cinco días anteri
 
 1. Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:
 
-a) A los partidos políticos que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado o por estrados;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) A los partidos políticos, coaliciones y candidatos independientes, que no tengan representantes acreditados, o en caso de inasistencia de éstos a la sesión en que se dictó la resolución, se les hará personalmente en el domicilio que hubieren señalado o por estrados;
 
 b) Al órgano del Instituto cuyo acto o resolución fue impugnado, se le hará por oficio al cual se le anexará copia de la resolución; y
 
@@ -637,11 +681,15 @@ c) A los terceros interesados, se les hará personalmente en el domicilio que hu
 
 ###### Artículo 42.
 
-1. Durante el tiempo que transcurra entre dos procesos electorales y durante la etapa de preparación del proceso electoral, el recurso de apelación será procedente para impugnar:
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+1.- Durante el tiempo que transcurra entre dos procesos electorales y durante la etapa de preparación del proceso electoral o de consulta popular, el recurso de apelación será procedente para impugnar:
 
 a) Las resoluciones que recaigan a los recursos de revisión previstos en el Título Segundo del presente Libro; y
 
-b) Los actos o resoluciones de los órganos del Instituto Estatal que no sean impugnables a través del recurso de revisión y que causen un perjuicio al partido político o agrupación política con registro, que teniendo interés jurídico lo promueva.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+b) Los actos o resoluciones de los órganos del Instituto Estatal que no sean impugnables a través del recurso de revisión y que causen un perjuicio al partido político, coalición, candidato independiente o agrupación política con registro, que teniendo interés jurídico lo promueva.
 
 2. En la etapa de resultados y declaraciones de validez de las elecciones, el recurso de apelación será procedente para impugnar las resoluciones que recaigan a los recursos de revisión promovidos en los términos del párrafo 2 del artículo 37 de esta ley.
 
@@ -669,11 +717,17 @@ b) Los actos o resoluciones de los órganos del Instituto Estatal que no sean im
 
 1. Podrán interponer el recurso de apelación:
 
-a) De acuerdo con los supuestos de procedencia previstos en los artículos 42 y 43 de esta ley, los partidos políticos o agrupaciones políticas con registro, a través de sus representantes legítimos; y (sic)
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) De acuerdo con los supuestos de procedencia previstos en el artículo 42 de esta ley, los partidos políticos, coaliciones, candidatos independientes o agrupaciones políticas con registro, a través de sus representantes legítimos; los candidatos independientes también podrán hacerlo por su propio derecho, y
+
+Únicamente los partidos políticos en los supuestos del artículo 43
 
 b) En el caso de imposición de sanciones previsto por el artículo 45 de esta ley:
 
-I. Los partidos políticos, en los términos señalados en el inciso a) del presente artículo;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+
+I. Los partidos políticos, coaliciones y candidatos independientes en los términos señalados en el inciso a) del presente artículo;
 
 II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna;
 
@@ -783,7 +837,9 @@ II. Las declaraciones de validez de las elecciones y el otorgamiento de las Cons
 
 2. El escrito de protesta deberá contener:
 
-a) El partido político que lo presenta;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) El partido político, o candidato independiente que lo presenta;
 
 b) La mesa directiva de casilla ante la que se presenta;
 
@@ -793,7 +849,9 @@ d) La causa por la que se presenta la protesta;
 
 e) Cuando se presente ante el Consejo correspondiente, se deberán identificar, además, individualmente cada una de las casillas que se impugnan cumpliendo con lo señalado en los incisos c) y d) anteriores; y
 
-f) El nombre, la firma y cargo partidario de quien lo presenta.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+f) El nombre, la firma y cargo partidario de quien lo presenta o del representante del candidato independiente.
 
 3. El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo correspondiente, antes de que se inicie la sesión de los cómputos correspondientes, en los términos que señale la Ley Electoral.
 
@@ -835,11 +893,15 @@ e) La conexidad, en su caso, que guarde con otras impugnaciones.
 
 1. El juicio de inconformidad sólo podrá ser promovido por:
 
-a) Los partidos políticos; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) Los partidos políticos, coaliciones, candidatos independientes; y
 
 b) Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación de primera o segunda minoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes en términos de lo establecido en el párrafo 3 del artículo 12 de la presente Ley.
 
-2. Cuando se impugne la elección de Gobernador del Estado, por nulidad de toda la elección, el respectivo juicio de inconformidad deberá presentarse por el representante del partido político o coalición registrado ante el Consejo Estatal.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+2. Cuando se impugne la elección de Gobernador del Estado, por nulidad de toda la elección, el respectivo juicio de inconformidad deberá presentarse por el representante del partido político, coalición o candidato independiente registrado ante el Consejo Estatal; este último también podrá hacerlo por su propio derecho.
 
 ### CAPÍTULO V. De los plazos y de los términos
 
@@ -893,9 +955,13 @@ n) Hacer la corrección de los cómputos estatal, distritales o municipales cuan
 
 2. Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de diputados, ayuntamientos o Gobernador del Estado, previstos en esta ley, el Tribunal Electoral decretará lo conducente, aun cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 60.
 
-1. Los juicios de inconformidad de las elecciones de diputados, regidores y Gobernador del Estado, deberán quedar resueltos a más tardar el día 15 de noviembre del año de la elección.
+1. Los juicios de inconformidad de las elecciones de regidores y Gobernador del Estado deberán quedar resueltos a más tardar el día 15 de agosto del año de la elección.
+
+Los juicios de inconformidad de la elección de diputados deberán quedar resueltos a más tardar el día 30 de julio del año de la elección.
 
 ###### Artículo 61.
 
@@ -907,7 +973,9 @@ n) Hacer la corrección de los cómputos estatal, distritales o municipales cuan
 
 1. Las sentencias recaídas a los juicios de inconformidad serán notificadas:
 
-a) Al partido político o, en su caso, al candidato que presentó la demanda y a los terceros interesados, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en la ciudad sede del Tribunal Electoral. En cualquier otro caso, la notificación se hará por estrados;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+a) Al partido político, coalición o, en su caso, al candidato o candidato independiente que presentó la demanda y a los terceros interesados, a más tardar dentro de las cuarenta y ocho horas siguientes a las en que se dicte la sentencia, personalmente siempre y cuando hayan señalado domicilio ubicado en la ciudad sede del Tribunal Electoral. En cualquier otro caso, la notificación se hará por estrados;
 
 b) Al Consejo Estatal del Instituto, por oficio acompañado de copia certificada de la sentencia, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la misma; y
 
@@ -925,17 +993,19 @@ c) En su caso, a la Oficialía Mayor de la Cámara de Diputados del Congreso del
 
 2. Los efectos de las nulidades decretadas por el Tribunal Electoral respecto de la votación emitida en una o varias casillas o de una elección en un distrito electoral o en un municipio, o bien, en la elección de Gobernador del Estado, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad, tomando en cuenta lo dispuesto en la parte final del párrafo anterior.
 
-3. Son causas de nulidad de la elección de Gobernador, de Diputado de mayoría relativa o de un Ayuntamiento, cuando en la etapa de preparación de la elección o de la jornada electoral el partido o coalición, cuyos candidatos obtengan la constancia de mayoría incurran en cualquiera de los siguientes hechos:
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-a) En forma generalizada se den violaciones sustanciales en el proceso electoral tales como ejercer violencia física o psicológica de tal manera que provoque temor o afecte la libertad y esos hechos sean determinantes para el resultado de la elección de que se trate, y se demuestre que las mismas fueron determinantes para el resultado de la elección;
+3. Son causas de nulidad de la elección de Gobernador, de Diputado de mayoría relativa o de un Ayuntamiento, cuando en la etapa de preparación de la elección o de la jornada electoral el partido o coalición, cuyos candidatos obtengan la constancia de mayoría o los candidatos independientes incurran en hechos que en forma generalizada generen violaciones sustanciales en el proceso electoral tales como ejercer violencia física o psicológica de tal manera que provoque temor o afecte la libertad y esos hechos sean determinantes para el resultado de la elección de que se trate, y se demuestre que las mismas fueron determinantes para el resultado de la elección.
 
-b) En el caso de utilización, en actividades y actos de precampaña y campaña, de recursos que no estén permitidos por la ley;
+a).- N. DE E. EL CONTENIDO DE ESTE INCISO ES COMPLEMENTO DEL PÁRRAFO 3 DE ESTE ARTÍCULO, CONFORME A LA LITERALIDAD DEL P.O. 2 DE JULIO DE 2014, PÁGINAS 172, 173 Y 178.
 
-c) Cuando se excedan los topes para gastos de campaña establecidos en la ley y se demuestre que ello fue determinante para el resultado de la elección;
+b).- (DEROGADO, P.O. 2 DE JULIO DE 2014)
 
-d) Cuando se utilicen recursos públicos o se destinen programas sociales de cualquier orden y ámbito de gobierno para favorecer a determinado partido político y sus candidatos, y se demuestre que ello fue determinante para el resultado de la elección; y
+c).- (DEROGADO, P.O. 2 DE JULIO DE 2014)
 
-e) Las demás que señala esta ley.
+d).- (DEROGADO, P.O. 2 DE JULIO DE 2014)
+
+e).- (DEROGADO, P.O. 2 DE JULIO DE 2014)
 
 ###### Artículo 64.
 
@@ -947,9 +1017,11 @@ e) Las demás que señala esta ley.
 
 2. De resultar algún Regidor propietario inelegible, la constancia se expedirá al que siga en la lista de regidores propietarios y una vez agotada ésta, la constancia se expedirá al Regidor suplente, tomando como base el orden en que se encuentre en la lista.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 66.
 
-1. Los partidos políticos o candidatos no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+1. Los partidos políticos, coaliciones o candidatos no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
 ### CAPÍTULO II. De la nulidad de la votación recibida en casilla
 
@@ -971,7 +1043,9 @@ f) Haber mediado dolo o error en la computación de los votos y siempre que ello
 
 g) Permitir a ciudadanos sufragar sin Credencial para Votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en la Ley Electoral;
 
-h) Haber impedido el acceso de los representantes de los partidos políticos o haberlos expulsado, sin causa justificada;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+h) Haber impedido el acceso de los representantes de los partidos políticos o candidatos independientes o haberlos expulsado, sin causa justificada;
 
 i) Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores y siempre que esos hechos sean determinantes para el resultado de la votación;
 
@@ -1011,9 +1085,35 @@ b) Cuando en el territorio estatal no se instale el veinte por ciento o más de 
 
 c) Cuando el candidato ganador de la elección resulte inelegible.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### Artículo 71.
 
-1. El Tribunal Electoral podrá declarar la nulidad de una elección de diputados o regidores, cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el distrito o municipio de que se trate, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o sus candidatos.
+1. El Tribunal Electoral podrá declarar la nulidad de una elección de diputados o regidores, o de gobernador cuando, se configure alguno de los siguientes supuestos:
+
+a) Se hayan cometido en forma generalizada violaciones sustanciales durante la preparación y desarrollo de la elección, que vulneren de manera grave los principios constitucionales y legales del proceso electoral, en el distrito, municipio o territorio del Estado, según corresponda, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos políticos o coaliciones promoventes o a sus candidatos o candidatos independientes;
+
+b). Haya existido una campaña generalizada en medios de comunicación social a favor o en contra de un candidato, partido político o coalición en contravención a lo dispuesto en las fracciones III y IV del Apartado B del artículo 9 de la Constitución Política Local, y se acredite que tal violación, por su duración e impacto en el electorado, fue determinante para el resultado de la elección; y
+
+c) Se dé una violación sistemática por parte de cualquier autoridad a lo dispuesto en la fracción V del artículo 9 del Apartado B de la Constitución Política Local, y se acredite que tal violación, por su duración e impacto en el electorado, fue determinante para el resultado de la elección.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+###### Artículo 71 Bis.
+
+1. Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+3. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+4. Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+5. Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+6. Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
 # LIBRO TERCERO. Del juicio para la protección de los derechos político-electorales del ciudadano
 
@@ -1033,9 +1133,11 @@ c) Cuando el candidato ganador de la elección resulte inelegible.
 
 1. El juicio podrá ser promovido por el ciudadano cuando:
 
-a) Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
-En los procesos electorales, si también el partido político interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud del Tribunal Electoral, remitirá el expediente para que sea resuelto por éste, junto con el juicio promovido por el ciudadano;
+a) Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político o coalición, o haber cumplido con los requisitos para ser registrado como candidato independiente, le sea negado indebidamente su registro como candidato a un cargo de elección popular.
+
+En los procesos electorales, si también el partido político, coalición o candidato independiente interpuso recurso de revisión o apelación, según corresponda, por la negativa del mismo registro, el Consejo del Instituto, a solicitud del Tribunal Electoral, remitirá el expediente para que sea resuelto por éste, junto con el juicio promovido por el ciudadano;
 
 b) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
 
@@ -1046,6 +1148,10 @@ d) Considere que los actos o resoluciones del partido político al que está afi
 e) Habiendo cumplido con los requisitos y trámites correspondientes, no hubiere obtenido oportunamente el documento que exija la ley electoral respectiva para ejercer el voto; y
 
 f) Habiendo obtenido oportunamente el documento a que se refiere el inciso anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+g) Siendo candidato registrado, sea indebidamente declarado inelegible.
 
 2. El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
@@ -1246,3 +1352,39 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley Electoral del Estado de Tabasco, publicada mediante Decreto 099, en el Periódico Oficial Extraordinario No. 52 del 12 de diciembre de 2008.
+
+TERCERO. El nuevo Organismo Público Local que se crea por virtud de lo mandatado por la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Instituciones y Procedimientos Electorales y del presente Decreto, se denomina INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, sustituyendo al organismo del mismo nombre que se preveía en la Ley que se abroga, para todos los efectos legales y administrativos que procedan.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este ordenamiento, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas que regulaban los actos previstos en la Ley que se abroga.
+
+QUINTO. El titular de la Contraloría General del nuevo Instituto Electoral y de Participación Ciudadana de Tabasco será designado por la Cámara de Diputados a más tardar el 15 de diciembre de 2014.
+
+Ningún ciudadano que cumpla los requisitos establecidos en la Ley podrá ser excluido de participar en el procedimiento de designación del nuevo titular de la Contraloría General.
+
+SEXTO. El personal del Instituto Electoral y de Participación Ciudadana de Tabasco o del Tribunal Electoral de Tabasco, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+En lo que se refiere al personal del Instituto Electoral y de Participación Ciudadana de Tabasco que deba ingresar al Servicio Profesional Electoral Nacional, correspondiente al Sistema de Organismos Públicos Locales, se estará a lo que al efecto determine el Instituto Nacional Electoral; en tanto, se seguirán aplicando las normas de orden laboral y administrativo vigentes en el Instituto Estatal.
+
+SÉPTIMO. Una vez que el Consejo General del Instituto Nacional Electoral designe a los Consejeros Presidente y Consejeros Electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, el nuevo Consejo dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley, sin demérito de lo que conforme a sus facultades corresponda al Instituto Nacional Electoral.
+
+Las disposiciones generales emitidas por el Consejo Estatal, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y la presente Ley, hasta en tanto el Consejo Estatal del nuevo organismo público local o el Consejo General del Instituto Nacional Electoral, según corresponda, emitan aquellas que deban sustituirlas.
+
+OCTAVO. Por única ocasión, el proceso electoral ordinario correspondiente a las elecciones de diputados al Congreso del Estado y regidores de los Ayuntamientos, que tendrán lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014, con la sesión que el día lunes seis de dicho mes celebre el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco.
+
+Para tal efecto el Consejo Estatal aprobará los ajustes necesarios a los plazos establecidos en la presente Ley, considerando necesariamente los Acuerdos que al efecto emita el Consejo General del Instituto Nacional Electoral.
+
+NOVENO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en la entidad, así como de sus militantes o simpatizantes, que los órganos electorales locales hayan iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+DÉCIMO. El Titular del Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que los órganos administrativos y jurisdiccionales en materia electoral cuenten con los recursos necesarios para el adecuado cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y sujeto a la suficiencia presupuestaria.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
