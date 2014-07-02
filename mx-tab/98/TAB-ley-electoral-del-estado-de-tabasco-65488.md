@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-del-estado-de-tabasco-65488"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2011-08-03"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ELECTORAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Extraordinario No. 52 del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -215,7 +217,7 @@ I. Estar inscrito en el padrón electoral correspondiente y contar con la creden
 
 II. No ser Magistrado, Secretario General o Juez Instructor del Tribunal Electoral, salvo que se separe del cargo tres años antes del día de la elección; y
 
-III. No ser Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales, Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto Estatal o formar parte del Servicio Profesional Electoral del Instituto, salvo que se separe definitivamente del cargo tres años antes del día de la elección; (sic)
+III. No ser Consejero Presidente o Consejero Electoral en los Consejos Estatal, Distritales o Municipales, Secretario Ejecutivo, Contralor General, Director o personal profesional directivo del propio Instituto Estatal o formar parte del Servicio Profesional Electoral del Instituto, salvo que se separe definitivamente del cargo tres años antes del día de la elección;
 
 ### CAPÍTULO SEGUNDO. DE LOS SISTEMAS ELECTORALES
 
@@ -249,7 +251,7 @@ El Estado de Tabasco se divide en 21 distritos electorales uninominales; la dist
 
 I.- Deberá dividirse la población total del Estado, entre el número de distritos señalados en el párrafo anterior, para obtener el promedio poblacional por distrito;
 
-II.- La desviación del promedio poblacional por distrito procurará ser, por encima o por debajo, inferior al 15% en los 21distritos;
+II.- La desviación del promedio poblacional por distrito procurará ser, por encima o por debajo, inferior al 15% en los 21 distritos;
 
 III.- La unidad de agregación en la integración de los distritos, deberá ser la sección electoral tomando en cuenta la delimitación de comunidades o colonias y las vías de comunicación, procurando en la medida de lo posible la integridad municipal, salvo los casos en que el territorio de un municipio deba ocupar más de un distrito electoral;
 
@@ -997,7 +999,7 @@ EN CASO DE INSUFICIENCIA, EL CONSEJO ESTATAL COMPLETARÁ EL TIEMPO FALTANTE CON 
 
 Para la distribución entre los Partidos Políticos del tiempo correspondiente a las campañas electorales, convertido a número de mensajes, se aplicarán, en lo conducente, las reglas establecidas en el artículo 75 de esta Ley.
 
-El tiempo a que se refiere el párrafo anterior será utilizado para la difusión de mensajes de acuerdo a la pauta que apruebe el Comité de Radio y Televisión del Instituto Federal Electoral, a propuesta del Consejo Estatal, (sic)
+El tiempo a que se refiere el párrafo anterior será utilizado para la difusión de mensajes de acuerdo a la pauta que apruebe el Comité de Radio y Televisión del Instituto Federal Electoral, a propuesta del Consejo Estatal,
 
 ###### ARTÍCULO 79.
 
@@ -1263,7 +1265,7 @@ En el ejercicio de sus facultades, el Órgano Técnico de Fiscalización deberá
 
 ###### ARTÍCULO 97.
 
-El Órgano Técnico de Fiscalización contará con la estructura administrativa que determine su reglamento interior y con los recursos presupuestarios que apruebe el Consejo Estatal; (sic)
+El Órgano Técnico de Fiscalización contará con la estructura administrativa que determine su reglamento interior y con los recursos presupuestarios que apruebe el Consejo Estatal;
 
 ###### ARTÍCULO 98.
 
@@ -2035,7 +2037,7 @@ XXVII. Llevar a cabo las acciones necesarias para exhortar a los ciudadanos que 
 
 XXVIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
-XXIX. Las demás que confiera esta Ley; (sic)
+XXIX. Las demás que confiera esta Ley;
 
 ###### ARTÍCULO 144.
 
@@ -2993,7 +2995,7 @@ Los gastos que realicen los Partidos Políticos, las Coaliciones y sus candidato
 
 Para los efectos de este artículo quedarán comprendidos dentro de los topes de gastos los siguientes conceptos:
 
-I. Los gastos de propaganda, comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares.; (sic)
+I. Los gastos de propaganda, comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares.;
 
 II. Los gastos operativos de la campaña, comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y, personal, viáticos y otros similares; y
 
@@ -3207,7 +3209,7 @@ El procedimiento para determinar la ubicación de las casillas, será el siguien
 
 > <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
-I.Entre el 15 de febrero al 15 de marzo del año de la elección, las Juntas Distritales recorrerán las secciones de su ámbito territorial con el propósito de localizar lugares y concertar con sus propietarios la ubicación de las casillas, en caso de que estos cumplan con los requisitos que señala el artículo anterior;
+I. Entre el 15 de febrero al 15 de marzo del año de la elección, las Juntas Distritales recorrerán las secciones de su ámbito territorial con el propósito de localizar lugares y concertar con sus propietarios la ubicación de las casillas, en caso de que estos cumplan con los requisitos que señala el artículo anterior;
 
 > <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -3937,7 +3939,7 @@ II. El de la votación de Diputados, y
 
 Cada uno de los cómputos a que se refiere el presente artículo se realizará sucesiva e ininterrumpidamente hasta su conclusión
 
-Los Consejos Electorales Distritales, en sesión previa a la jornada electoral, podrán acordar que el Presidente y el Secretario del mismo, puedan ser sustituidos en sus funciones por el Vocal de Organización y Capacitación Electoral y, que los Consejeros Electorales y Representantes de los Partidos Políticos acrediten en su ausencias (sic) a sus suplentes para que participen, de manera que se pueda sesionar permanentemente.
+Los Consejos Electorales Distritales, en sesión previa a la jornada electoral, podrán acordar que el Presidente y el Secretario del mismo, puedan ser sustituidos en sus funciones por el Vocal de Organización y Capacitación Electoral y, que los Consejeros Electorales y Representantes de los Partidos Políticos acrediten en su (sic) ausencias a sus suplentes para que participen, de manera que se pueda sesionar permanentemente.
 
 Los Consejos Electorales Distritales deberán contar con los recursos humanos, materiales, técnicos y financieros necesarios, para la realización de los cómputos en forma permanente.
 
@@ -4277,7 +4279,7 @@ III. El incumplimiento, sin causa justificada, de su obligación de transmitir l
 
 IV. La manipulación o superposición de la propaganda electoral o los programas de los Partidos Políticos con el fin de alterar o distorsionar su sentido original o denigrar a las instituciones, a los propios partidos, o para calumniar a los candidatos;
 
-V. La difusión de propaganda negativa que denigre, calumnie o difame a Partido Político, alguno de sus candidatos o precandidatos. y (sic)
+V. La difusión de propaganda negativa que denigre, calumnie o difame a Partido Político, alguno de sus candidatos o precandidatos. y
 
 VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley, las leyes, reglamentos y acuerdos de los Institutos, aplicables.
 
@@ -5095,7 +5097,7 @@ LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE MARZO DE 2011.
 
@@ -5114,3 +5116,37 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 TERCERO. El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, deberá realizar las modificaciones a sus reglamentos y los trámites administrativos necesarios, incluyendo las previsiones presupuestales correspondientes a fin de llevar a cabo las acciones que se requiera para dar cumplimiento en tiempo y forma a las normas contenidas en el presente decreto.
+
+P.O. DE 2 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley Electoral del Estado de Tabasco, publicada mediante Decreto 099, en el Periódico Oficial Extraordinario No. 52 del 12 de diciembre de 2008.
+
+TERCERO. El nuevo Organismo Público Local que se crea por virtud de lo mandatado por la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Instituciones y Procedimientos Electorales y del presente Decreto, se denomina INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE TABASCO, sustituyendo al organismo del mismo nombre que se preveía en la Ley que se abroga, para todos los efectos legales y administrativos que procedan.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este ordenamiento, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas que regulaban los actos previstos en la Ley que se abroga.
+
+QUINTO. El titular de la Contraloría General del nuevo Instituto Electoral y de Participación Ciudadana de Tabasco será designado por la Cámara de Diputados a más tardar el 15 de diciembre de 2014.
+
+Ningún ciudadano que cumpla los requisitos establecidos en la Ley podrá ser excluido de participar en el procedimiento de designación del nuevo titular de la Contraloría General.
+
+SEXTO. El personal del Instituto Electoral y de Participación Ciudadana de Tabasco o del Tribunal Electoral de Tabasco, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+En lo que se refiere al personal del Instituto Electoral y de Participación Ciudadana de Tabasco que deba ingresar al Servicio Profesional Electoral Nacional, correspondiente al Sistema de Organismos Públicos Locales, se estará a lo que al efecto determine el Instituto Nacional Electoral; en tanto, se seguirán aplicando las normas de orden laboral y administrativo vigentes en el Instituto Estatal.
+
+SÉPTIMO. Una vez que el Consejo General del Instituto Nacional Electoral designe a los Consejeros Presidente y Consejeros Electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, el nuevo Consejo dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley, sin demérito de lo que conforme a sus facultades corresponda al Instituto Nacional Electoral.
+
+Las disposiciones generales emitidas por el Consejo Estatal, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y la presente Ley, hasta en tanto el Consejo Estatal del nuevo organismo público local o el Consejo General del Instituto Nacional Electoral, según corresponda, emitan aquellas que deban sustituirlas.
+
+OCTAVO. Por única ocasión, el proceso electoral ordinario correspondiente a las elecciones de diputados al Congreso del Estado y regidores de los Ayuntamientos, que tendrán lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014, con la sesión que el día lunes seis de dicho mes celebre el Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco.
+
+Para tal efecto el Consejo Estatal aprobará los ajustes necesarios a los plazos establecidos en la presente Ley, considerando necesariamente los Acuerdos que al efecto emita el Consejo General del Instituto Nacional Electoral.
+
+NOVENO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en la entidad, así como de sus militantes o simpatizantes, que los órganos electorales locales hayan iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+DÉCIMO. El Titular del Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que los órganos administrativos y jurisdiccionales en materia electoral cuenten con los recursos necesarios para el adecuado cumplimiento de sus atribuciones, de conformidad con la normatividad aplicable y sujeto a la suficiencia presupuestaria.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
