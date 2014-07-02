@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2014-06-21"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1717,7 +1717,9 @@ c) La Coordinación de Asuntos Jurídicos, dependiente de la Directiva: a la que
 
 d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la que corresponde la difusión de las actividades institucionales y de la legislación del Estado; la edición bimestral impresa de la Gaceta Parlamentaria; así como el apoyo en las relaciones públicas del Congreso.
 
-e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
+e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes, para lo cual deberá llevar un registro relativo a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, responsabilizándose de realizar la captura, así como envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -2226,3 +2228,13 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
+
+CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
