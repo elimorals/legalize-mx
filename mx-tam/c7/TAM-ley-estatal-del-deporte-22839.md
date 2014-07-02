@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-del-deporte-22839"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2011-02-10"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -716,3 +718,37 @@ P.O. 10 DE FEBRERO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su expedición.
+
+P.O. 2 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Estatal del Deporte publicada en el Periódico Oficial del Estado No. 147 de fecha 6 de diciembre del 2001.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal expedirá el Reglamento de la Ley de Cultura Física y Deporte para el Estado de Tamaulipas, el cual se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que se hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales integrantes del Sistema Estatal del Deporte, continuarán en el cargo hasta la terminación del plazo para el cual fueron electos.
+
+###### ARTÍCULO SEXTO.
+
+Los actuales integrantes de la Comisión Estatal de Apelación y Arbitraje del Deporte continuarán en el cargo hasta la terminación del plazo para el cual fueron electos.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Comisión Estatal Contra la Violencia en el Deporte, deberá quedar instalada a los 180 días posteriores de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
