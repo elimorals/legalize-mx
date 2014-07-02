@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2014-06-21"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -749,9 +749,43 @@ Si el presunto responsable se niega a firmar el acta, o se niega a aceptar copia
 
 El titular de la dependencia o entidad paraestatal y los ayuntamientos y sus entidades podrán designar, en su caso, un representante que participe en las diligencias. Se dará vista de todas las actuaciones a la dependencia o entidad, estatal o municipal, en la que el presunto responsable preste sus servicios.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 85.
 
-Las resoluciones y acuerdos que se dicten dentro del procedimiento a que se refiere este Capítulo, constarán por escrito. Las resoluciones que impongan sanciones se inscribirán en el registro de servidores públicos sancionados que llevarán los órganos de control, mismos que establecerán los sistemas de colaboración para difundir e intercambiar los datos de sus registros.
+Las resoluciones y acuerdos que se dicten dentro del procedimiento a que se refiere este Capítulo constarán por escrito. Las resoluciones que impongan sanciones se inscribirán en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+ARTICULO 85 BIS. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos; y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán llevar el registro de los servidores públicos sujetos a procedimientos administrativos instaurados, de los sancionados e inhabilitados; de los recursos e impugnaciones que hayan hecho valer y, en su caso, las resoluciones por las que se dejen sin efectos las resoluciones dictadas; el cual será de carácter público.
+
+Los titulares de los órganos internos de control, y de las contralorías, serán los responsables de la captura, así como del envío oportuno y veraz de la información a la Auditoría Superior del Estado, que la inscribirá en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, relativo a las sanciones impuestas; la inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público; y los medios de impugnación y su resolución con carácter definitivo.
+
+La actualización y envío de la información general que remitan los titulares de los órganos competentes a la Auditoría Superior del Estado, deberá llevarse a cabo por lo menos cada semestre.
+
+Las sanciones que se impongan a los servidores públicos deberán hacerse del conocimiento de la Auditoría Superior del Estado, en un plazo que no exceda de diez días hábiles contados a partir del día siguiente a la fecha en que la resolución quede firme.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+ARTICULO 85 TER. La inscripción en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, deberá contener, por lo menos, los datos siguientes:
+
+I. Nombre, puesto, cargo o cómisión; el Registro Federal de Contribuyentes, incluida la homoclave; y adscripción del servidor público sancionado;
+
+II. Fecha de la resolución, número de expediente, y referencia de la autoridad que la emite;
+
+III. Origen, causa y descripción suscinta de la irregularidad, así como de los hechos que propiciaron el procedimiento y la sanción;
+
+IV. Sanción impuesta; periodo de ejecución en el caso de la inhabilitación, precisando la fecha de inicio y terminación de la misma; y el monto, tratándose de las que cuenten con carácter económico, y
+
+V. Nombre del servidor público responsable de la captura y envío de la información.
+
+La Auditoría Superior del Estado expedirá las normas para la implementación y operación del registro, y las constancias de sanciones e inhabilitaciones de los servidores públicos, así como de no existencia de éstas, que acrediten la situación específica de las personas que, en su caso, pretendan ingresar al servicio público, previo al nombramiento o contratación respectiva.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2014)</small>
+
+ARTICULO 85 QUÁTER. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos; y los fideicomisos públicos, deberán solicitar a la Auditoría Superior del Estado, previamente y por escrito, los informes sobre la existencia de sanciones e inhabilitación de las personas que pretendan incorporarse a desempeñar un empleo, cargo o comisión en el servicio público.
+
+La contravención a lo dispuesto en el párrafo anterior, será causa de responsabilidad administrativa del funcionario que omita solicitar la información respectiva y, en su caso, el nombramiento o contrato que se haya realizado será nulo de pleno derecho.
 
 ###### ARTICULO 86.
 
@@ -1150,3 +1184,13 @@ P.O. 21 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
+
+CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
