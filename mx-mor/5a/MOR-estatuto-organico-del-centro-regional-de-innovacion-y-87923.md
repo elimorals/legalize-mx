@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-centro-regional-de-innovacion-y-87923"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-23"
-last_updated: "2012-05-23"
+last_updated: "2014-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL CENTRO REGIONAL DE INNOVACION Y DESARROLLO ARTESANAL DEL ESTADO DE MORELOS
 
-ESTATUTO ORGÁNICO DEL CENTRO REGIONAL DE INNOVACIÓN Y DESARROLLO ARTESANAL EN EL ESTADO DE MORELOS.
+ESTATUTO ORGÁNICO DEL CENTRO REGIONAL DE INNOVACIÓN Y DESARROLLO ARTESANAL EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014 (ABROGADA).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de mayo de 2012.
 
@@ -418,3 +420,19 @@ LA DIRECTORA GENERAL DEL CENTRO REGIONAL DE INNOVACIÓN Y DESARROLLO ARTESANAL
 M. EN D. DENISSE GUILLERMINA PÉREZ RODRÍGUEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JULIO DE 2014.
+
+PRIMERA. El presente Estatuto Orgánico iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+CUARTA. Se abroga el Estatuto Orgánico del Centro Regional de Innovación y Desarrollo Artesanal, publicado en el Periódico Oficial "Tierra y Libertad", número 4980, el veintitrés de mayo de 2012.
+
+QUINTA. Dentro de los 60 días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, se deberán expedir los Manuales de Organización, y de Políticas y Procedimientos respectivos.
+
+SEXTA. En un plazo no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios del Museo Morelense de Arte Popular.
