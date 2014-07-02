@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2014-05-15"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -346,6 +346,14 @@ VIII.- Realizar audiencias mensuales en el distrito o circunscripción en que hu
 
 IX.- Rendir informe cuando menos anual ante los ciudadanos de sus distritos o circunscripción en que hubiesen sido electos acerca de sus actividades legislativas y de las gestiones realizadas;
 
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2014)</small>
+
+El informe anual deberá rendirse a más tardar dentro de los 30 días naturales siguientes, a partir de que se cumpla el primer año de actividades tomando como referencia la toma de protesta del cargo; exceptuando el último informe de actividades, el cual tendrá como plazo máximo para su rendición el 16 de agosto.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2014)</small>
+
+El informe a que se refiere el párrafo anterior, será por escrito quedando a salvo la rendición del informe ante los ciudadanos, mismo que podrá realizarse en el momento en que así lo determine cada uno de los diputados.
+
 X.- Asistir con puntualidad a las sesiones del Pleno de la Asamblea, de las Comisiones o Comités a los que pertenezcan, así como emitir su voto en aquellos asuntos que lo requieran;
 
 XI.- Justificar por escrito al Presidente respectivo de sus ausencias en las sesiones de Pleno, Comisiones o Comités;
@@ -554,11 +562,11 @@ XVI.- Representar a la Asamblea ante toda clase de autoridades administrativas, 
 
 XVII.- Requerir a los Diputados faltistas a concurrir a las sesiones de la Asamblea y disponer, en su caso, las medidas y sanciones que correspondan en los términos de esta ley y del Reglamento para el Gobierno Interior de la propia Asamblea;
 
-XVIII.- Dirigir al personal administrativo encargado de la seguridad y vigilancia del recinto de sesiones; y (sic)
+XVIII.- Dirigir al personal administrativo encargado de la seguridad y vigilancia del recinto de sesiones; y
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XIX.- Autorizar e instruir a la Tesorería, a realizar los descuentos a las dietas de los Diputados, en términos de lo dispuesto por la fracción X del artículo 17 de esta Ley, y (sic)
+XIX.- Autorizar e instruir a la Tesorería, a realizar los descuentos a las dietas de los Diputados, en términos de lo dispuesto por la fracción X del artículo 17 de esta Ley, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE JULIO DE 2007)</small>
 
@@ -696,7 +704,7 @@ XIII.- Recibir, durante los recesos, las iniciativas de ley dirigidas a la Asamb
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XIV.- Conocer y resolver, en los recesos, sobre las solicitudes de licencia que le sean presentadas por los Diputados, y (sic)
+XIV.- Conocer y resolver, en los recesos, sobre las solicitudes de licencia que le sean presentadas por los Diputados, y
 
 XV.- Las demás que le confiere esta ley y otras disposiciones legales aplicables.
 
@@ -1154,6 +1162,14 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Le
 
 ARTÍCULO 65 BIS.- La Comisión de Vigilancia y Evaluación de Políticas y Programas Sociales, es un órgano interno de la Asamblea Legislativa encargado de la evaluación de los planes, programas, metas y acciones en materia de política social de aplicación en el Distrito Federal, conforme a la normatividad aplicable. La Comisión se regirá de conformidad con los lineamientos que al efecto expidan sus integrantes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE JULIO DE 2014)</small>
+
+La Comisión deberá evaluar anualmente la política y programas sociales implementados por el Gobierno del Distrito Federal, por sí o, a través de instituciones de investigación científica o de educación superior de reconocido prestigio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE JULIO DE 2014)</small>
+
+La Asamblea Legislativa deberá contemplar en su proyecto de presupuesto la cantidad que estime necesaria, a fin de que la Comisión de Vigilancia y Evaluación cumpla con lo dispuesto en el párrafo anterior.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 66.
@@ -1278,7 +1294,7 @@ I. Administración;
 
 II. Asuntos Editoriales;
 
-III. Atención, Orientación y Quejas Ciudadanas, y (sic)
+III. Atención, Orientación y Quejas Ciudadanas, y
 
 IV. De la Biblioteca "Francisco Zarco";
 
@@ -2239,3 +2255,23 @@ DÉCIMO.- La Comisión de Ciencia, Tecnología e Innovación deberá emitir opin
 DÉCIMO PRIMERO.- A la entrada en vigor del presente decreto, se deberán asignar los recursos financieros, materiales y humanos suficientes para el buen desempeño del Canal.
 
 DÉCIMO SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 2 DE JULIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 BIS DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente decreto entrará en vigor, a partir del día siguiente al de su publicación.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JULIO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
