@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-donacion-y-trasplantes-de-organos-tejidos-y-celulas-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-07"
-last_updated: "2014-06-07"
+last_updated: "2014-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CHH"
 LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE JULIO DE 2014.</small>
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de junio de 2014.
 
@@ -113,9 +115,11 @@ El COETRA-CHIH y la Secretaría de Salud, de manera conjunta o separada, impleme
 
 El COETRA-CHIH y las instituciones de salud públicas y privadas estatales, en coordinación con la Secretaría de Educación, Cultura y Deporte del Estado, las instituciones de educación públicas y privadas del Estado, dependencias federales, estatales y municipales, así como con organismos no gubernamentales y medios de comunicación y difusión, implementarán de manera altruista, campañas permanentes de difusión de la cultura de la donación entre la ciudadanía, para ser informada de manera adecuada sobre la donación de órganos, tejidos y células para fines de trasplante.
 
+> <small>(F. DE E., P.O. 2 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 6°.
 
-Los centros hospitalarios públicos del Sector Salud del Estado y los privados que cuenten con licencia sanitaria vigente de actos quirúrgicos y obstétricos, deberán conformar en cada caso un Comité Interno de Procuración de Órganos, Tejidos y Células, y formarán parte de la Red Estatal de Procuración de Órganos.
+Los centros hospitalarios públicos del Sector Salud del Estado y los privados que cuenten con licencia sanitaria para extracción (procuración) de órganos y tejidos, deberán conformar en cada caso un Comité Interno de Procuración de Órganos, Tejidos y Células, y formarán parte de la Red Estatal de Procuración de Órganos.
 
 ### CAPÍTULO III. DE LA DONACIÓN
 
@@ -223,7 +227,9 @@ IV. Ser compatible con el disponente primario del que se vaya a tomar el órgano
 
 V. Haber expresado su voluntad por escrito y ser enterado del procedimiento quirúrgico al que será sometido, así como de los riesgos y las probabilidades de éxito.
 
-VI. Cuando se trate de órganos provenientes de cadáveres, deberá tener el mismo grupo sanguíneo, así como prueba cruzada entre el receptor y el órgano a trasplantar.
+> <small>(F. DE E., P.O. 2 DE JULIO DE 2014)</small>
+
+VI. Cuando se trate de órganos provenientes de cadáveres, deberá tener, preferentemente, el mismo grupo sanguíneo y, en caso de ser necesario, el Comité Interno de Trasplantes decidirá si se realizan las pruebas cruzadas entre el receptor y el órgano a trasplantar.
 
 VII. Tratándose de menores de edad, se requerirá la autorización de sus padres y, a falta de éstos, se regirá conforme a las reglas del parentesco que establece el Código Civil del Estado.
 
