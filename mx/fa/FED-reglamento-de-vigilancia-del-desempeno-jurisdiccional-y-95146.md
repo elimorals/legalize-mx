@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vigilancia-del-desempeno-jurisdiccional-y-95146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-15"
-last_updated: "2013-07-15"
+last_updated: "2014-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-07-04"
 
 REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de julio de 2013.
 
@@ -559,17 +559,35 @@ A partir de la interpretación y evaluación preliminar que realicen a la inform
 
 Para efectos del artículo anterior, la DGSJL y los Delegados de TICs de las Salas visitadas, según corresponda, procederán conforme a los siguientes lineamientos:
 
-1. Se entiende como “cierre”: el último día hábil de cada mes, o excepcionalmente la fecha distinta que autorice la Junta, en que los usuarios del SICSEJ pueden incorporar, modificar, validar o firmar actuaciones procesales de todo tipo en el Sistema. Transcurrida esa fecha, la DGSJL, y/o el Delegado de TICs, ejecutarán la aplicación denominada “candado” de cierre en el SICSEJ, con el propósito de impedir que los usuarios del Sistema modifiquen la información registrada en ese período, con posterioridad al “cierre”;
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+1. Se entiende como “cierre”: el último día hábil de cada mes, o excepcionalmente la fecha distinta que autorice la Junta, en que los usuarios del SICSEJ pueden incorporar, modificar, validar o firmar actuaciones procesales de todo tipo en el Sistema. Transcurrida esa fecha, la DGSJL, y/o el Delegado de TICs, ejecutarán la aplicación denominada “candado” de cierre en el SICSEJ, con el propósito de impedir que los usuarios del Sistema modifiquen la información registrada en ese período, con posterioridad al “cierre”; ésta fecha también se considerará como cierre en el Subsistema de Juicio Tradicional del Sistema de Justicia en Línea, en adelante SJT, para la emisión del Reporte Mensual para visitas a que se refiere el numeral siguiente.
 
 2. Una vez activada la aplicación denominada “candado” de cierre, la DGSJL, y/o el Delegado de TICs de la Sala que corresponda, generarán el Reporte mensual para visitas por Ponencia y Mesa. El reporte, que será elaborado el primer día hábil posterior a la fecha de cierre, contendrá la estadística de la actividad jurisdiccional generada durante el periodo de que se trate, misma que será puesta a disposición de los Magistrados Instructores y sus equipos el mismo día, para que procedan a su revisión y validación hasta por un término de 5 días hábiles;
 
 3. En caso de detectar inconsistencias en la información del Reporte mensual de visitas, los Magistrados Instructores las remitirán a la DGSJL y/o a los Delegados de TICs que correspondan, mediante el formato “Reporte de ajustes al informe mensual de visitas” y dentro de los tres días siguientes a que se aplique el candado de “cierre”, a través del cual podrán solicitar los ajustes o correcciones que consideren pertinentes. Dentro de los cinco días siguientes a que se aplique el candado de “cierre”, la DGSJL y/o los Delegados de TICs, con la participación de los Secretarios de Acuerdos y demás personal jurisdiccional que determine el Magistrado Instructor, deberán efectuar los ajustes o correcciones solicitados, cerciorándose, previamente, y dentro del mismo plazo, que los cambios solicitados son procedentes.
 
-Sin el requisito de validación de correcciones ordinarias o de otro tipo de inconsistencias hechas valer oportunamente, la información no será considerada como definitiva y las personas que hayan provocado las omisiones respectivas, serán objeto de sanción en los términos procedentes.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-En caso de que, con posterioridad a los plazos contenidos en este numeral, sean necesarias correcciones extraordinarias en el SICSEJ y/o SJL, el Magistrado Instructor que corresponda solicitará la modificación respectiva a la DGSJL y/o al Delegado de TICs, para que, previa revisión de la causa del error y su consecuente verificación física en el expediente respectivo, procedan a realizar la corrección o ajuste solicitados, dando cuenta detallada a la SOTIC, al Magistrado visitador y a la Contraloría Interna para efectos de transparencia y firmeza de la información. Las correcciones a que se refiere este párrafo deberán consignarse en la COCOVIJ precisamente en el reporte del mes siguiente, con la consiguiente nota explicativa; y
+Sin el requisito de validación de correcciones sumarias o de otro tipo de inconsistencias hechas valer oportunamente, la información no será considerada como definitiva y las personas que hayan provocado las omisiones respectivas, serán objeto de sanción en los términos procedentes.
 
-4. Fuera de los casos extraordinarios señalados en la parte final del numeral anterior, al sexto día hábil siguiente a que se active el candado de “cierre”, la DGSJL y/o el Delegado de TICs, emitirá nuevamente el Reporte mensual para visitas de los asuntos generados por la actividad jurisdiccional, por Ponencia y Mesa, donde se reflejarán los ajustes realizados a petición del Magistrado Instructor. Los Secretarios de Acuerdos respectivos deberán asistir a los Delegados de TICs y al personal autorizado de la DGJL, en la identificación y modificación de las correcciones derivadas de los reportes de inconsistencias que se señalan en el presente artículo.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+En caso de que, con posterioridad a los plazos contenidos en este numeral, sean necesarias correcciones extraordinarias en el SICSEJ, SJT y/o SJL, el Magistrado Instructor que corresponda, dentro del mes siguiente a aquél en que se generó el error o inconsistencia, solicitará la modificación respectiva a la DGSJL y/o al Delegado de TICs, para que, previa revisión de la causa del error y su consecuente verificación física en el expediente respectivo, procedan a realizar la corrección o ajuste solicitados, dando cuenta detallada a la SOTIC, al Magistrado visitador y a la Contraloría Interna para efectos de transparencia y firmeza de la información. Las correcciones a que se refiere este párrafo deberán consignarse en la COCOVIJ precisamente en el reporte del mes siguiente, con la consiguiente nota explicativa;
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+4. Fuera de los casos extraordinarios señalados en la parte final del numeral anterior, al sexto día hábil siguiente a que se active el candado de “cierre”, la DGSJL y/o el Delegado de TICs, emitirá nuevamente el Reporte mensual para visitas de los asuntos generados por la actividad jurisdiccional, por Ponencia y Mesa, donde se reflejarán los ajustes realizados a petición del Magistrado Instructor, asimismo, el “Reporte de ajustes al informe mensual de visitas”, deberá remitirse a la Contraloría Interna por conducto de la Unidad de Seguimiento de Visitas, para el ejercicio de sus atribuciones, conservando la DGSJL una copia de dicho reporte.
+
+Los Secretarios de Acuerdos respectivos deberán asistir a los Delegados de TICs y al personal autorizado de la DGSJL, en la identificación y modificación de las correcciones derivadas de los reportes de inconsistencias que se señalan en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+5. También procederán las correcciones de forma sumaria y extraordinaria, cuando derive de una inconsistencia observada con motivo de la confronta llevada a cabo por un Magistrado Visitador, aunque la inconsistencia sea de más de un mes atrás.
+
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+6. Para correcciones de inconsistencias cometidas o detectadas de más de un mes atrás, que no deriven de una observación de un Magistrado Visitador, se deberá seguir el procedimiento ordinario establecido en el último párrafo, del artículo 66, del Reglamento Interior.
 
 Con base en la información obtenida de la COCOVIJ, o de otros medios idóneos de información institucional, los Magistrados visitadores constatarán la buena marcha jurisdiccional y administrativa de las Salas y rendirán las conclusiones conducentes para que la Junta proceda a la evaluación del estado que guarda el funcionamiento del Tribunal.
 
@@ -862,3 +880,15 @@ CUARTO. Las referencias que en otros ordenamientos se hagan al Acuerdo E/JGA/14/
 QUINTO. La información recopilada, almacenada, sistematizada o analizada durante el proceso de visita, comprendido de enero de 2013 a la fecha de entrada en vigor del presente Reglamento, quedará incorporada a la Comunidad de Control y Vigilancia Jurisdiccional a efecto de que los Magistrados visitadores cuenten con elementos objetivos para continuar con el Proceso de Vigilancia del desempeño jurisdiccional y administrativo de las Salas del Tribunal durante la anualidad en curso. De la misma manera, todas las evaluaciones, recomendaciones y demás acciones practicadas durante el Proceso de Visita de 2013 se entenderá que forma parte integral del Proceso de Vigilancia a desarrollar en el mismo año.
 
 Dictado en sesiones de veinte y veintisiete de junio, y cuatro de julio de dos mil trece.- Con fundamento en los artículos 30 fracción XV, 52 fracciones II y III, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa; así como los artículos 16 fracción VI, 78 fracciones VIII y XI, y 103, del Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa, firman: el Presidente de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa, Mag. Juan Manuel Jiménez Illescas.- Rúbrica.- Los Integrantes de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa: Mag. Carlos Chaurand Arzate, Mag. Juan Ángel Chávez Ramírez, Mag. Faustino Gerardo Hidalgo Ezquerra, Mag. Rafael Estrada Sámano.- Rúbricas.- El Secretario Auxiliar de la Junta de Gobierno y Administración, Gibrán Miguel Castañeda de la Cruz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE JULIO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en la Comunidad de Control y Vigilancia Jurisdiccional y en la página web institucional del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+TERCERO. Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
+
+CUARTO. Comuníquese el presente Acuerdo a los Presidentes de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, del Tribunal Federal de Justicia Fiscal y Administrativa, al Titular de la Oficialía de Partes Común de las Salas Regionales Metropolitanas, a los Coordinadores de la Actuaría Común del Tribunal, al Titular de la Unidad de Seguimiento de Visitas, así como al Director General del Sistema de Justicia en Línea.
