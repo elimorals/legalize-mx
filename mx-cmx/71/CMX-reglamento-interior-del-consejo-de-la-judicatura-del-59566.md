@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2012-12-13"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JULIO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -350,7 +350,7 @@ XXXV. Analizar y en su caso, autorizar las resoluciones, así como la aplicació
 
 XXXVI. Aprobar las políticas institucionales en materia de modernización, simplificación y mejoramiento administrativo de las áreas administrativas y de apoyo judicial, del Tribunal y del Consejo;
 
-XXXVII. Determinar las políticas y lineamientos para la elaboración y actualización del Catálogo de Puestos, tanto del Tribunal como del Consejo, de conformidad a la normatividad aplicable; y (sic)
+XXXVII. Determinar las políticas y lineamientos para la elaboración y actualización del Catálogo de Puestos, tanto del Tribunal como del Consejo, de conformidad a la normatividad aplicable; y
 
 (ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE DICIEMBRE DE 2008) (F. DE E., G.O. 18 DE JUNIO DE 2009)
 
@@ -398,7 +398,7 @@ Las sesiones serán presididas por el Presidente o por quien lo supla en su ause
 
 Para garantizar el orden en las sesiones públicas, el Presidente podrá tomar las siguientes medidas:
 
-a) Exhortar a guardar el orden; y (sic)
+a) Exhortar a guardar el orden; y
 
 b) Ordenar el abandono del local; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
 
@@ -826,7 +826,9 @@ Son facultades de cada Consejero:
 
 I. Dictar las medidas necesarias para el pronto y expedito despacho de los asuntos de su Ponencia;
 
-II. Designar al personal que integrará su Ponencia de conformidad con la estructura orgánica tipo autorizada, asignándoles las labores que desempeñarán, acorde con las funciones que tenga encomendadas;
+> <small>(REFORMADA, G.O. 3 DE JULIO DE 2014)</small>
+
+II. Designar al personal que integrará su Ponencia de conformidad con la estructura orgánica tipo autorizada, con excepción de los Secretarios Técnicos, que serán designados por el Consejo; asignándoles a todo su personal las labores que desempeñarán, acorde con las funciones que tenga encomendadas.
 
 III. Delegar funciones entre el personal adscrito a la Ponencia, salvo aquellas que, por disposición legal, deba realizar personalmente;
 
@@ -840,7 +842,7 @@ VI. Solicitar a la Secretaría General la inclusión de asuntos en el orden del 
 
 VII. Solicitar al Presidente, se convoque en términos del presente Reglamento, a sesión extraordinaria;
 
-VIII. Dictar con independencia de que el motivo de una queja de lugar o no a responsabilidad administrativa, las providencias oportunas para su corrección o remedio inmediato, atendiendo a la naturaleza del asunto y siempre que no incidan directamente en la función jurisdiccional. Asimismo, de considerarlo procedente, turnará el asunto a la Comisión de Disciplina Judicial para que determine lo que en derecho corresponda; y (sic)
+VIII. Dictar con independencia de que el motivo de una queja de lugar o no a responsabilidad administrativa, las providencias oportunas para su corrección o remedio inmediato, atendiendo a la naturaleza del asunto y siempre que no incidan directamente en la función jurisdiccional. Asimismo, de considerarlo procedente, turnará el asunto a la Comisión de Disciplina Judicial para que determine lo que en derecho corresponda; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 3 DE DICIEMBRE DE 2008)</small>
 
@@ -968,9 +970,11 @@ IV. No estar inhabilitado por resolución judicial o administrativa.
 
 ### CAPÍTULO VIII. DE LOS SECRETARIOS TÉCNICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE JULIO DE 2014)</small>
+
 ###### Artículo 68.
 
-Los Secretarios Técnicos son aquellos servidores públicos cuya actividad consiste en auxiliar las labores del Consejo en sus respectivas áreas de adscripción.
+Los Secretarios Técnicos son aquellos servidores públicos cuya actividad consiste en auxiliar las labores del Consejo en sus respectivas áreas de adscripción y serán designados por el Consejo, siempre que cumplan con los siguientes requisitos:
 
 Para ser Secretario Técnico, se requiere:
 
@@ -1092,7 +1096,7 @@ El Secretaria (sic) Técnico de la Comisión de Administración y Presupuesto, t
 
 I. Participar con calidad de vocal en los Comités de Adquisiciones, Arrendamientos y Prestación de Servicios; Obra Pública; Enajenación de Bienes Muebles, y los que determine el Pleno del Consejo, conforme a la normatividad aplicable en cada caso;
 
-II. Evaluar e informar trimestralmente a la Comisión de Administración y Presupuesto el avance obtenido de los Programas Anuales de Adquisiciones, Arrendamientos y Prestación de Servicios, de Obra Pública; Enajenación de Bienes Muebles y los que determinen los Acuerdos Generales que se emitan, respecto a la administración y manejo de recursos, de conformidad con la normatividad establecida; y (sic)
+II. Evaluar e informar trimestralmente a la Comisión de Administración y Presupuesto el avance obtenido de los Programas Anuales de Adquisiciones, Arrendamientos y Prestación de Servicios, de Obra Pública; Enajenación de Bienes Muebles y los que determinen los Acuerdos Generales que se emitan, respecto a la administración y manejo de recursos, de conformidad con la normatividad establecida; y
 
 ###### Artículo 77.
 
@@ -1896,6 +1900,92 @@ Para el desahogo de los asuntos de su competencia, se auxiliará de las áreas q
 
 La Contraloría, a través de sus áreas, conducirá sus actividades en forma programada y con base en las políticas que establezca el Consejo, para el logro de sus objetivos y prioridades.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE JULIO DE 2014)</small>
+
+## TÍTULO SÉPTIMO. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE JULIO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2014)</small>
+
+###### Artículo 174.
+
+La Dirección de Protección Civil tiene por objeto la salvaguarda de los servidores públicos y los usuarios que acuden diariamente a los inmuebles del Tribunal y del Consejo, así como de los bienes que conforman ambas instituciones, a través de las acciones de prevención, auxilio y recuperación en caso de contingencia natural o humana.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2014)</small>
+
+###### Artículo 175.
+
+La Dirección de Protección Civil forma parte de la estructura orgánica del Consejo, tiene a su cargo las funciones y atribuciones que correspondan a su propio ámbito de competencia y se rige por lo previsto en la normatividad aplicable, en este reglamento, así como los acuerdos que al efecto apruebe el Pleno del Consejo y las determinaciones tomadas por los Consejeros integrantes de la Comisión de Protección Civil.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2014)</small>
+
+###### Artículo 176.
+
+El Director de Protección Civil es aquel servidor público cuya actividad consiste en planear, dirigir y evaluar las acciones necesarias en materia de Protección Civil de conformidad con la legislación vigente en las diversas áreas del Tribunal y del Consejo.
+
+Para ser director de Protección Civil se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II. Tener título y cédula profesional expedida por autoridad o institución legalmente facultada para ello, así como acreditar conocimientos en áreas relacionadas con la Protección Civil.
+
+III. Tener cuando menos treinta años de edad cumplidos al momento de la designación.
+
+IV. Gozar de buena reputación, y
+
+V. No estar inhabilitado por resolución judicial o administrativa.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2014)</small>
+
+###### Artículo 177.
+
+Serán atribuciones del director de Dirección de Protección Civil:
+
+I. Proponer al Pleno del Consejo, los programas en materia de Protección Civil para beneficio de los servidores públicos y público usuario que acude diariamente a los inmuebles de ambas instituciones;
+
+II. Ejecutar los acuerdos que en la materia dicte el Pleno del Consejo o los Consejeros integrantes de la Comisión de Protección Civil y vigilar que sean observados por los demás elementos que integran las áreas jurisdiccionales, administrativas y de apoyo judicial del Tribunal y del Consejo;
+
+III. Elaborar los trabajos que en la materia le encomienden el Presidente del Tribunal y del Consejo, así como los Consejeros integrantes de la Comisión de Protección Civil y resolver las consultas que se sometan a su consideración;
+
+IV. Acordar con los Consejeros integrantes de la Comisión de Protección Civil el despacho de los asuntos que le son encomendados por estos;
+
+V. Elaborar, coordinar y vigilar la ejecución de los programas de Protección Civil del Tribunal y del Consejo;
+
+VI. Someter, respecto de los asuntos de su competencia los proyectos para incrementar las medidas de Protección Civil en los inmuebles del Tribunal y del Consejo y vigilar que se cumplan una vez aprobados;
+
+VII. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de la Dirección de Protección Civil del Consejo y los Comités Internos de Protección Civil de los diferentes inmuebles del Tribunal y del Consejo, conforme a los lineamientos y disposiciones que emite el Pleno del Consejo;
+
+VIII. Registrar, instruir y vigilar a los diferentes Comités Internos de Protección Civil de cada uno de los inmuebles del Tribunal y del Consejo;
+
+IX. Formar parte del Puesto de Mando del Tribunal, como Secretario Técnico, para actuar ante una contingencia mayor;
+
+X. Realizar y difundir programas de orientación y capacitación, en materia de Protección Civil a los servidores públicos del Tribunal y del Consejo;
+
+XI. Recabar, captar y sistematizar la información, para conocer la situación de los inmuebles del Tribunal y del Consejo, en condiciones normales y de emergencia;
+
+XII. Representar al Tribunal y Consejo, cuando así se lo autorice el Presidente del Tribunal, ante toda clase de autoridades e instituciones, en materia de Protección Civil;
+
+XIII. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
+
+XIV. Verificar el cumplimiento de la Ley Orgánica, Reglamento, términos de referencia y normas técnicas complementarias en materia de Protección Civil;
+
+XV. Coadyuvar en la actualización de los instrumentos de la Protección Civil;
+
+XVI. Promover la Cultura de Protección Civil, organizando y desarrollando acciones, observando los aspectos normativos de operación, coordinación y participación;
+
+XVII. Llevar a cabo las acciones necesarias para la expedición y actualización de los programas internos de protección civil de cada uno de los inmuebles del Tribunal y del Consejo, acorde a la normatividad vigente; y
+
+XVIII. Las demás que le atribuyan expresamente las leyes, reglamentos y Acuerdos del Pleno del Consejo, así como las Normas Oficiales Mexicanas y demás normas aplicables.
+
+> <small>(ADICIONADO, G.O. 3 DE JULIO DE 2014)</small>
+
+###### Artículo 178.
+
+La Dirección de Protección Civil contará con la estructura que al efecto autorice el Pleno del Consejo, de conformidad con el Presupuesto de Egresos del propio Consejo, para desarrollar las funciones y los objetivos establecidos.
+
 ## TRANSITORIOS
 
 Primero.- El presente Reglamento entrará en vigor al siguiente día hábil de su publicación en el Boletín Judicial del Distrito Federal y para mayor difusión, se deberá publicar en la Gaceta Oficial del Distrito Federal.
@@ -1987,3 +2077,23 @@ CUARTO.- Incorpórese el texto de este decreto y las modificaciones respectivas 
 G.O. 13 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y en la Gaceta Oficial del Distrito Federal, quedando sin efectos las disposiciones anteriores que fueron sujetas a modificación.
+
+G.O. 3 DE JULIO DE 2014.
+
+ACUERDO GENERAL 40-21/2014, POR EL QUE SE ADICIONA EL TÍTULO SÉPTIMO AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto que se adiciona al Reglamento Interior del Consejo de la Judicatura del Distrito Federal, en la página web del Consejo de la Judicatura del Distrito Federal.
+
+G.O. 3 DE JULIO DE 2014.
+
+ACUERDO 42-07/2014, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58, FRACCIÓN II Y 68 PRIMER PÁRRAFO, DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal.
