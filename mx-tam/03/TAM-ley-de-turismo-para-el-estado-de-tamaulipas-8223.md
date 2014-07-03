@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "2014-04-29"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 3 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -463,7 +465,7 @@ En relación a las sanciones que se deriven de quejas presentadas por turistas, 
 
 Para determinar el monto de las sanciones a aplicar, la Secretaría deberá emitir previamente una resolución fundada y motivada.
 
-Los montos de las sanciones nunca podrán ser mayores a los considerados en la Ley Federal de Turismo y deberán ser, además, correlativos a la gravedad de la infracción. No podrá (sic) sancionarse dos o más ocasiones el mismo hecho constitutivo.
+Los montos de las sanciones nunca podrán ser mayores a los considerados en la Ley Federal de Turismo y deberán ser, además, correlativos a la gravedad de la infracción. No podrá sancionarse dos o más ocasiones el mismo hecho constitutivo.
 
 ###### ARTICULO 56.
 
@@ -600,3 +602,21 @@ P.O. 29 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley de Turismo para el Estado de Tamaulipas, publicada en el Anexo al Periódico Oficial del Estado número 52 del 30 de junio de 1993 y sus subsecuentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador del Estado emitirá el Reglamento de la Ley que se expide mediante el presente Decreto, mismo que se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos, recursos, y resoluciones administrativos, sanciones y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
