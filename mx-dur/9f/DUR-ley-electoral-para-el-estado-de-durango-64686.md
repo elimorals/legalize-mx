@@ -4,7 +4,7 @@ identifier: "DUR-ley-electoral-para-el-estado-de-durango-64686"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2012-08-27"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ELECTORAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 3 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -463,7 +465,7 @@ XIII. Mantener el mínimo de afiliados en los municipios requeridos para su cons
 
 XIV. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-XV. Garantizar la equidad y procurar la paridad de los géneros en sus órganos de dirección yen las candidaturas a cargos de elección popular;
+XV. Garantizar la equidad y procurar la paridad de los géneros en sus órganos de dirección y en las candidaturas a cargos de elección popular;
 
 XVI. Cumplir con lo establecido por el artículo 204 de esta ley;
 
@@ -1049,7 +1051,7 @@ VII. Las empresas mexicanas de carácter mercantil.
 
 2. Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
-3. Los partidos políticos en los términos de la fracción VII del artículo 53 de esta ley, deberán tener un órgano interno encargado de la obtención y la administración de sus recursos generales y de campaña, así como de la presentación de los informes a los qua se refiere el artículo 95 de este mismo ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
+3. Los partidos políticos en los términos de la fracción VII del artículo 53 de esta ley, deberán tener un órgano interno encargado de la obtención y la administración de sus recursos generales y de campaña, así como de la presentación de los informes a los que se refiere el artículo 95 de este mismo ordenamiento. Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
 
@@ -2885,9 +2887,7 @@ ARTÍCULO 186
 
 ## TÍTULO TERCERO. DE LAS BASES PARA LA ORGANIZACIÓN DEL SERVICIO PROFESIONAL ELECTORAL
 
-CAPÍTU LO I
-
-DISPOSICIÓN PRELIMINAR
+### CAPÍTULO I. DISPOSICIÓN PRELIMINAR
 
 ARTÍCULO 187
 
@@ -2953,7 +2953,7 @@ III. Períodos vacacionales, así como el monto y modalidad de la prima vacacion
 
 IV. Permisos y licencias;
 
-V. Régimen contractual de los servidores eIectorales;
+V. Régimen contractual de los servidores electorales;
 
 VI. Ayuda para gastos de defunción;
 
@@ -2986,6 +2986,10 @@ ARTÍCULO 192
 2. El personal del Instituto será incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 3. Las diferencias o conflictos entre el Instituto y sus servidores serán resueltas por el Tribunal Electoral conforme al procedimiento previsto en la ley de la materia.
+
+# LIBRO QUINTO. DEL PROCESO ELECTORAL
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3033,9 +3037,7 @@ IV. Precandidato: es el ciudadano que pretende ser postulado por un partido pol�
 
 2. Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre, ellos medie convenio para participar en coalición.
 
-# LIBRO QUINTO. DEL PROCESO ELECTORAL
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO I. DE LAS PRECAMPAÑAS
 
@@ -3132,8 +3134,6 @@ ARTÍCULO 203
 2. A las precampañas y a los precandidatos que en ellas participen les serán aplicables, en lo conducente, las normas previstas en esta ley respecto de los actos de campaña y propaganda electoral.
 
 3. El Consejo Estatal emitirá los demás reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en esta ley.
-
-## TÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
 ### CAPÍTULO II. DEL REGISTRO DE CANDIDATOS
 
@@ -3731,13 +3731,13 @@ VI. Auxiliar en la recepción de los paquetes electorales; y
 
 VII. Cumplir las tareas que por escrito le ordene el Presidente, y los acuerdos que determine el Consejo Municipal.
 
+## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ARTÍCULO 244
 
 1. La etapa denominada de la Jornada Electoral comprende los actos, resoluciones, tareas y actividades que los órganos electorales, los partidos políticos y los ciudadanos en general, realizan desde la instalación de la casilla hasta la clausura.
-
-## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
 ### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
@@ -4113,9 +4113,113 @@ ARTÍCULO 274
 
 3. Lo mismo se observará con los jueces y funcionarios autorizados expresamente por el Ejecutivo del Estado, para actuar por receptoría el día de la elección.
 
+## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-## TITULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+###### ARTÍCULO 275.
+
+La etapa posterior a la elección comprende:
+
+I. En los Consejos Municipales:
+
+a). La recepción de los paquetes electorales relativos a la elección de los integrantes de los Ayuntamientos, diputados y gobernador;
+
+b). La realización del cómputo municipal de la elección de los integrantes de los Ayuntamientos;
+
+c). La expedición de las constancias de mayoría y de asignación de regidores de representación proporcional y declaración de validez de la elección de integrantes de los ayuntamientos;
+
+d). La difusión de la información sobre los resultados del cómputo municipal;
+
+e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+g). La remisión de la documentación de la elección Municipal al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
+
+II. En los Consejos Municipales cabecera de Distrito:
+
+a). La recepción de los paquetes electorales relativos a la elección de Diputados y Gobernador;
+
+b). La realización del cómputo distrital de la elección de diputados electos por el principio de mayoría relativa;
+
+c). La expedición de las constancias de mayoría y declaración de validez de la elección de diputados electos por el principio de mayoría relativa;
+
+d). La difusión de la información sobre los resultados del cómputo distrital;
+
+e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+g). La remisión de la documentación de la elección Municipal al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
+
+III. En los Consejos Municipales cabecera de Distrito:
+
+a). La recepción de los paquetes electorales relativos a la elección de Diputados y Gobernador;
+
+b). La realización del cómputo distrital de la elección de diputados electos por el principio de mayoría relativa;
+
+c). La expedición de las constancias de mayoria y declaración de validez de la elección de diputados electos por el principio de mayoría relativa;
+
+d). La difusión de la información sobre los resultados del cómputo distrital;
+
+e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
+
+g). La remisión de la documentación de la elección distrital al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
+
+III. En el Consejo Estatal:
+
+a). La aprobación del informe general sobre el desarrollo de las elecciones estatales;
+
+b). La recepción de los informes particulares sobre las actividades y cómputo de los Consejos Municipales;
+
+c). Hacer el cómputo de la votación total por circunscripción plurinominal de Diputados de representación proporcional, hacer la declaración de validez de Diputados, por este principio, hacer la designación correspondiente al principio de representación proporcional y otorgar las constancias respectivas en los términos de esta ley;
+
+d). Hacer el cómputo estatal de la elección de Gobernador del Estado, así como la declaración de validez de la elección y la de gobernador electo, y entregar la constancia respectiva; y
+
+e). La recepción de los medios de impugnación y el inicio del trámite conforme a lo dispuesto por la ley de la materia.
+
+IV. En el Tribunal Electoral del Poder Judicial del Estado:
+
+a). Sustanciar y resolver los medios de impugnación, y
+
+b). Realizar las correcciones de los cómputos, en su caso.
+
+ARTÍCULO 276
+
+1. La recepción, depósito y salvaguarda de los paquetes en que se contengan los expedientes de casilla por parte de los Consejos Municipales, se hará conforme al procedimiento siguiente:
+
+I. Se recibirán en el orden en que sean entregados por las personas facultadas para ello;
+
+II. El Presidente o funcionario autorizado del Consejo Municipal extenderá el recibo señalando el día y la hora en que fueron entregados;
+
+III. Los Presidentes de los Consejos Municipales, dispondrán su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del Consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo respectivo. En todo caso, dispondrán, bajo su responsabilidad, la implementación de medidas que permitan la agilidad en la recepción, evitando la aglomeración de personas en los sitios de recepción.
+
+IV. Los Presidentes de los Consejos Municipales, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de los representantes de los partidos.
+
+2. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta ley.
+
+ARTÍCULO 277
+
+1. Los Consejos Municipales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales conforme a las siguientes reglas:
+
+l. El presidente del Consejo recibirá las actas de escrutinio y cómputo y de inmediato dará lectura, en voz alta, del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar al Instituto;
+
+II. El Secretario anotará esos resultados en el lugar que le corresponda en el formato destinado para el registro conforme al orden numérico de las casillas; y
+
+III. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
+
+ARTÍCULO 278
+
+1. Para el mejor conocimiento de los ciudadanos, concluido el plazo para la recepción de los paquetes electorales y las actas de escrutinio y cómputo de todas las casillas instaladas en el Municipio, el presidente deberá fijar en el exterior del local del Consejo Municipal, los resultados preliminares de las elecciones en el Municipio.
+
+ARTÍCULO 279
+
+1. En el caso de que los cómputos no puedan realizarse en las sedes de los consejos respectivos, por causa de fuerza mayor, el Consejo Estatal podrá aprobar que se lleven a cabo en un lugar distinto.
+
+2. En los casos en que no se cuente con la documentación necesaria para realizar los cómputos correspondientes, éstos se verificarán con las copias de la documentación de que dispongan los Consejos y los Partidos Políticos. Una vez cotejadas entre sí, se instrumentará un procedimiento para tal efecto.
 
 ### CAPÍTULO II. DE LOS CÓMPUTOS MUNICIPALES Y DE LA FÓRMULA PARA LA ASIGNACIÓN DE REGIDORES DE REPRESENTACIÓN PROPORCIONAL
 
@@ -4222,110 +4326,6 @@ IV. Remitir, una vez cumplido el plazo para la interposición de los medios de i
 V. Conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos municipales; y
 
 VI. Tomarán las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de los sobres que contengan la documentación a que se refiere el artículo 267 de esta ley hasta la conclusión del proceso electoral. Una vez concluido el proceso electoral, se procederá a su destrucción.
-
-###### ARTÍCULO 275.
-
-La etapa posterior a la elección comprende:
-
-I. En los Consejos Municipales:
-
-a). La recepción de los paquetes electorales relativos a la elección de los integrantes de los Ayuntamientos, diputados y gobernador;
-
-b). La realización del cómputo municipal de la elección de los integrantes de los Ayuntamientos;
-
-c). La expedición de las constancias de mayoría y de asignación de regidores de representación proporcional y declaración de validez de la elección de integrantes de los ayuntamientos;
-
-d). La difusión de la información sobre los resultados del cómputo municipal;
-
-e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-g). La remisión de la documentación de la elección Municipal al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
-
-II. En los Consejos Municipales cabecera de Distrito:
-
-a). La recepción de los paquetes electorales relativos a al elección de Diputados y Gobernador;
-
-b). La realización del cómputo distrital de la elección de diputados electos por el principio de mayoría relativa;
-
-c). La expedición de las constancias de mayoría y declaración de validez de la elección de diputados electos por el principio de mayoría relativa;
-
-d). La difusión de la información sobre los resultados del cómputo distrital;
-
-e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-g). La remisión de la documentación de la elección Municipal al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
-
-III. En los Consejos Municipales cabecera de Distrito:
-
-a). La recepción de los paquetes electorales relativos a la elección de Diputados y Gobernador;
-
-b). La realización del cómputo distrital de la elección de diputados electos por el principio de mayoría relativa;
-
-c). La expedición de las constancias de mayoria y declaración de validez de la elección de diputados electos por el principio de mayoría relativa;
-
-d). La difusión de la información sobre los resultados del cómputo distrital;
-
-e). La recepción de los medios de impugnación y el inicio del trámite correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-f). La remisión de los medios de impugnación al Tribunal Electoral del Poder Judicial del Estado y la documentación correspondiente, conforme a lo dispuesto por la ley de la materia;
-
-g). La remisión de la documentación de la elección distrital al Consejo Estatal y, en su caso, al Tribunal Electoral del Poder Judicial del Estado.
-
-III. En el Consejo Estatal:
-
-a). La aprobación del informe general sobre el desarrollo de las elecciones estatales;
-
-b). La recepción de los informes particulares sobre las actividades y cómputo de los Consejos Municipales;
-
-c). Hacer el cómputo de la votación total por circunscripción plurinominal de Diputados de representación proporcional, hacer la declaración de validez de Diputados, por este principio, hacer la designación correspondiente al principio de representación proporcional y otorgar las constancias respectivas en los términos de esta ley;
-
-d). Hacer el cómputo estatal de la elección de Gobernador del Estado, así como la declaración de validez de la elección y la de gobernador electo, y entregar la constancia respectiva; y
-
-e). La recepción de los medios de impugnación y el inicio del trámite conforme a lo dispuesto por la ley de la materia.
-
-IV. En el Tribunal Electoral del Poder Judicial del Estado:
-
-a). Sustanciar y resolver los medios de impugnación, y
-
-b). Realizar las correcciones de los cómputos, en su caso.
-
-ARTÍCULO 276
-
-1. La recepción, depósito y salvaguarda de los paquetes en que se contengan los expedientes de casilla por parte de los Consejos Municipales, se hará conforme al procedimiento siguiente:
-
-I. Se recibirán en el orden en que sean entregados por las personas facultadas para ello;
-
-II. El Presidente o funcionario autorizado del Consejo Municipal extenderá el recibo señalando el día y la hora en que fueron entregados;
-
-III. Los Presidentes de los Consejos Municipales, dispondrán su depósito, en orden numérico de las casillas, colocando por separado los de las especiales, en un lugar dentro del local del Consejo que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo respectivo. En todo caso, dispondrán, bajo su responsabilidad, la implementación de medidas que permitan la agilidad en la recepción, evitando la aglomeración de personas en los sitios de recepción.
-
-IV. Los Presidentes de los Consejos Municipales, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de los representantes de los partidos.
-
-2. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta ley.
-
-ARTÍCULO 277
-
-1. Los Consejos Municipales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales conforme a las siguientes reglas:
-
-l. El presidente del Consejo recibirá las actas de escrutinio y cómputo y de inmediato dará lectura, en voz alta, del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar al Instituto;
-
-II. El Secretario anotará esos resultados en el lugar que le corresponda en el formato destinado para el registro conforme al orden numérico de las casillas; y
-
-III. Los representantes de los partidos políticos acreditados ante el Consejo, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
-
-ARTÍCULO 278
-
-1. Para el mejor conocimiento de los ciudadanos, concluido el plazo para la recepción de los paquetes electorales y las actas de escrutinio y cómputo de todas las casillas instaladas en el Municipio, el presidente deberá fijar en el exterior del local del Consejo Municipal, los resultados preliminares de las elecciones en el Municipio.
-
-ARTÍCULO 279
-
-1. En el caso de que los cómputos no puedan realizarse en las sedes de los consejos respectivos, por causa de fuerza mayor, el Consejo Estatal podrá aprobar que se lleven a cabo en un lugar distinto.
-
-2. En los casos en que no se cuente con la documentación necesaria para realizar los cómputos correspondientes, éstos se verificarán con las copias de la documentación de que dispongan los Consejos y los Partidos Políticos. Una vez cotejadas entre sí, se instrumentará un procedimiento para tal efecto.
 
 ### CAPÍTULO III. DE LOS CÓMPUTOS DISTRITALES
 
@@ -4526,6 +4526,10 @@ ARTÍCULO 299
 1. El Consejo Estatal, remitirá los expedientes relativos a la elección de diputados electos por el principio de representación proporcional, en su caso, al Tribunal Electoral del Poder Judicial del Estado, para que se proceda de conformidad con lo dispuesto en la ley de la materia.
 
 2. Una vez resueltas las impugnaciones que se hubieren presentado, en su caso, a la asignación de diputados electos por el principio de representación proporcional, el Consejo Estatal, a más tardar el día veinte de agosto del año de la elección, sesionará a fin de realizar la asignación definitiva y declarar la validez de esta elección.
+
+# LIBRO SEXTO. DEL RÉGIMEN SANCIONADOR ELECTORAL
+
+## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
 
 ### CAPÍTULO I. SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
@@ -4760,10 +4764,6 @@ VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 6. Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere la presente ley incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
 
 7. Las multas que no hubiesen sido recurridas, o bien que fuesen confirmadas por la autoridad competente, deberán ser pagadas en la Dirección de Administración del Instituto en un plazo improrrogable de quince días contados a partir de la notificación; si el infractor no cumple con su obligación, el Instituto dará vista a la Secretaria de Finanzas y de Administración de Gobierno del Estado a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
-
-# LIBRO SEXTO. DEL RÉGIMEN SANCIONADOR ELECTORAL
-
-## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO SANCIONADOR
 
@@ -5286,3 +5286,25 @@ Este Congreso del Estado deberá señalar las bases para la elección de Contral
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 3 DE JULIO DE 2014.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Durango.
+
+Segundo. Se abroga la Ley Electoral para el Estado de Durango, así como sus reformas y adiciones.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Cuarto. El personal del Instituto y del Tribunal Electoral, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Quinto. EI Consejo General del Instituto dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en 180 días a partir de su entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y a la presente Ley, hasta en tanto el Consejo General del Instituto no emita aquéllas que deban sustituirlas.
+
+Sexto. Las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio.
+
+Séptimo. El Consejo General del Instituto podrá realizar ajustes a los plazos establecidos en esta Ley a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en la presente Ley.
+
+Octavo. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que se hayan iniciado o se encuentren en trámite a la entrada en vigor de esta Ley, seguirán bajo la competencia del Instituto, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en el Estado hasta antes de la entrada en vigor del presente Decreto, serán fiscalizados por el Instituto con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos a más tardar el último día de diciembre de 2014.
+
+Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
