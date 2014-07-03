@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2014-04-30"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -323,9 +323,19 @@ III. Dirigir la política de comunicación social y de relaciones públicas del 
 
 IV. Formular promociones, concurrir a las audiencias, rendir pruebas, formular alegatos, promover cualquier clase de incidentes y recursos, rendir los informes previos y justificados cuando los actos reclamados en los juicios de amparo sean imputados al Tribunal, a la Sala Superior, al Pleno Jurisdiccional de la Sala Superior o a la Junta;
 
-V. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia, y
+V. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia, y (sic)
 
 VI. Autorizar, junto con el Secretario Auxiliar de la Junta, las actas en que se hagan constar las deliberaciones y acuerdos de dicho órgano y firmar el engrose de las resoluciones que emita.
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2014)</small>
+
+VII. Dirigir la ejecución de las determinaciones y/o acuerdos de la Junta de Gobierno y Administración;
+
+> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 2014)</small>
+
+VIII. Suscribir convenios de colaboración con todo tipo de instituciones públicas y privadas, así como autoridades administrativas y jurisdiccionales, con el apoyo especializado de las unidades administrativas correspondientes, a fin de dirigir la buena marcha del Tribunal y fortalecer sus relaciones públicas.
+
+Se requerirá la autorización de la Junta de Gobierno y Administración para la suscripción de los convenios de colaboración que impliquen la erogación de recursos del Tribunal.
 
 Para el ejercicio de sus funciones, el Presidente contará con las unidades administrativas y el personal de apoyo especializado establecidos en el presente Reglamento y que figuren en el presupuesto autorizado.
 
@@ -691,7 +701,9 @@ n) Comisión Reguladora de Energía (CRE)
 
 2) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia, que no sea del conocimiento de la Sala Especializada en Propiedad Intelectual.
 
-3) Tramitar y resolver los juicios que se promuevan contra normas oficiales mexicanas publicadas en el Diario Oficial de la Federación, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, de conformidad con lo previsto por el artículo 2o. de la Ley.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
+
+3) Tramitar y resolver los juicios que se promuevan contra normas oficiales mexicanas publicadas en el Diario Oficial de la Federación, cuando sean autoaplicativas o cuando se controviertan en unión o con motivo del primer acto de aplicación, de conformidad con lo previsto por el artículo 2o. de la Ley, siempre que se controvierta la legalidad de tales normas oficiales mexicanas, por vicios propios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
@@ -2874,3 +2886,11 @@ TERCERO.- Las promociones presentadas conforme al Sistema Automático de Recepci
 CUARTO.- Los Coordinadores de Oficialía de Partes y Oficiales de Partes de la Sala Superior y del Pleno Jurisdiccional de la Sala Superior y Oficiales de Partes de las Salas Regionales, en coordinación con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, deberán tomar las medidas necesarias para asegurarse que a la entrada en vigor del presente Acuerdo, no se reciba ninguna promoción conforme al Sistema Automático de Recepción de Oficialías de Partes que se abroga por virtud del presente Acuerdo.
 
 QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JULIO DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
