@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2013-12-27"
+last_updated: "2014-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1827,21 +1827,29 @@ V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 Los contribuyentes que otorguen apoyos para la creación de obras literarias o artísticas de autores nuevoleoneses podrán acreditar, contra el impuesto sobre nóminas a su cargo, una cantidad equivalente al 80% del apoyo otorgado, conforme a lo siguiente:
 
-1.- El monto total del estímulo fiscal a distribuir no excederá de $6,000,000.00 anuales;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
 
-2.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de $500,000.00 por creador ni por proyecto; y
+1.- El monto total del estímulo fiscal a distribuir no excederá de $15,000,000.00 anuales;
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+2.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal por creador o por proyecto no podrá exceder de los siguientes montos: $500,000.00 (quinientos mil pesos) para el caso de creación de obras artísticas originales o $1,000,000.00 (un millón de pesos) tratándose de creaciones de producciones teatrales, musicales y dancísticas; y
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 3. El monto a acreditarse no podrá exceder del 20% del impuesto sobre nóminas a cargo del contribuyente.
 
-Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor, en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guión cinematográfico y fotografía. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas originales en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guion cinematográfico y fotografía o bien, se podrán utilizar los estímulos para la creación de producciones teatrales, musicales y dancísticas, entendiéndose como tal la materialización de obras artisticas originales de teatro, música y danza, a través de sus distintos procesos tales como la escenografía, utilería, vestuario, iluminación, elementos electrónicos, entre otros. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
 
 Los apoyos serán inembargables, deberán proporcionarse en dinero y el contribuyente podrá optar por entregarlos directamente al creador o hacerlo a través del Consejo para la Cultura y las Artes de Nuevo León, conforme a las reglas de operación que este organismo expida.
 
 Los apoyos otorgados en los términos previstos en este artículo no podrán acumularse a otros estímulos que se otorguen en relación con diversas contribuciones federales, estatales o municipales.
 
-Corresponderá al Consejo para la Cultura y las Artes de Nuevo León la autorización de los proyectos de creación literaria y artística y el establecimiento de los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+Corresponderá al Consejo para la Cultura y las Artes de Nuevo León la autorización de los proyectos de creación literaria y artística, y de producción teatral, musical y dancística, así como el establecimiento de los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal.
 
 El Consejo para la cultura y las Artes de Nuevo León deberá publicar en su página de Internet, dentro de los meses de julio y enero de cada año, un informe que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como las personas beneficiadas con el otorgamientos (sic) del estímulo fiscal y los proyectos de creación artística y literaria de dicho estímulo.
 
@@ -4622,3 +4630,7 @@ P.O. 31 DE DICIEMBRE DE 2012.
 P.O. 27 DE DICIEMBRE DE 2013.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2014.
+
+P.O. 3 DE JULIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
