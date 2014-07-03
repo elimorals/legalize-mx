@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2012-09-14"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -55,7 +55,9 @@ III. Fijar las normas básicas para planear y regular el ordenamiento territoria
 
 IV. Definir los principios para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en los centros de población;
 
-V. Determinar las normas y procedimientos básicos a que se sujetarán las autoridades y particulares en materia de desarrollo urbano, en los términos de esta Ley, los planes y programas de desarrollo urbano y sus disposiciones reglamentarias;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+V. Determinar las normas y procedimientos básicos a que se sujetarán las autoridades y particulares en materia de desarrollo urbano, en los términos de esta Ley, así como observar lo establecido en las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, los planes y programas de desarrollo urbano y sus disposiciones reglamentarias;
 
 VI. Establecer las bases que regirán la participación del Estado y los Municipios en la planeación de las zonas conurbadas en el Estado, así como las bases de coordinación para la ejecución de las acciones, inversiones, obras y servicios en materia de desarrollo urbano y ordenamiento territorial, en dichas zonas;
 
@@ -439,13 +441,17 @@ XXI. Establecer y vigilar el cumplimiento de la normatividad técnica para regul
 
 XXII. Prever o convenir, en forma conjunta con los municipios involucrados, y con la opinión de las dependencias federales competentes, la localización de los derechos de vía necesarios en materia de agua potable, drenaje pluvial, drenaje sanitario, energía eléctrica, comunicaciones, energéticos, vialidad, transporte, u otros; con objeto de determinar los trazos y vías públicas que por su importancia, utilización o funcionamiento constituyan o deban constituir el drenaje pluvial y la red vial estatal, intermunicipal y metropolitano, conforme a los planes o programas que correspondan, o a falta de éstos, previo dictamen y opinión de la Comisión Estatal de Desarrollo Urbano o de la comisión de la zona conurbada correspondiente;
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XXIII. Tramitar y resolver los recursos administrativos que le competen conforme esta Ley, cuando sean impugnados sus actos o resoluciones; y
+XXIII. Tramitar y resolver los recursos administrativos que le competen conforme a esta Ley, cuando sean impugnados sus actos o resoluciones;
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XXIV. Las demás que le atribuya esta Ley;
+XXIV. Coadyuvar en la elaboración de la normatividad técnica para regular la Accesibilidad Universal de las personas con discapacidad dentro del territorio del Estado; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+XXV. Las demás que le atribuya esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -477,9 +483,9 @@ XI. Intervenir en el cumplimiento, ejecución y financiamiento de los destinos d
 
 XII. Intervenir en la elaboración y ejecución de programas para la regularización de la tenencia de la tierra urbana;
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XIII. Otorgar o negar las solicitudes de autorizaciones, permisos o licencias de uso de suelo, uso de edificación, construcción, fraccionamientos, subdivisiones, relotificaciones, parcelaciones y conjuntos urbanos, de acuerdo con los planes o programas de desarrollo urbano, las disposiciones de la presente Ley y demás que resulten aplicables. Tratándose de inmuebles ubicados en zonas de riesgo, el Ayuntamiento podrá solicitar opinión del (sic) Dependencia Estatal competente;
+XIII. Otorgar o negar las solicitudes de autorizaciones, permisos o licencias de uso de suelo, uso de edificación, construcción, fraccionamientos, subdivisiones, relotificaciones, parcelaciones y conjuntos urbanos, de acuerdo con los planes o programas de desarrollo urbano, las disposiciones de la presente Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad, y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y demás que resulten aplicables. Tratándose de inmuebles ubicados en zonas de riesgo, el Ayuntamiento podrá solicitar opinión de la Dependencia Estatal competente;
 
 XIV. Dictaminar y resolver las solicitudes de constitución de polígonos de actuación de su competencia;
 
@@ -1063,9 +1069,11 @@ Las sesiones de las Comisiones de Planeación requerirán un quórum legal de po
 
 Los acuerdos que se tomen en las comisiones regionales deberán ser evaluados y en su caso, aprobados por los Ayuntamientos de los municipios de la región. La violación a lo dispuesto en este precepto será sancionada de conformidad con lo establecido en el artículo 50, fracción XXII, y demás aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-Para la ejecución de las acciones previstas en los programas de ordenación de las regiones se requiere que las autoridades municipales involucradas expidan las licencias de uso del suelo y los permisos de construcción correspondientes, de conformidad con la Ley, Planes y Programas de desarrollo urbano municipal o de centros de población aplicables. En el caso de que en dichos planes o programas no se incluyan las acciones acordadas por los consejos regionales, se procederá a modificarlos conforme las disposiciones de esta Ley antes de expedir dichas licencias y permisos.
+Para la ejecución de las acciones previstas en los programas de ordenación de las regiones se requiere que las autoridades municipales involucradas expidan las licencias de uso del suelo y los permisos de construcción correspondientes, de conformidad con la Ley, Planes y Programas de desarrollo urbano municipal o de centros de población aplicables, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes. En el caso de que en dichos planes o programas no se incluyan las acciones acordadas por los consejos regionales, se procederá a modificarlos conforme las disposiciones de esta Ley antes de expedir dichas licencias y permisos.
 
 ## TÍTULO QUINTO. DE LA PLANEACIÓN URBANA
 
@@ -1103,7 +1111,9 @@ Los planes o programas que integran el sistema estatal de planeación del desarr
 
 I. Guardar congruencia con los otros niveles de planeación;
 
-II. Sujetarse a los lineamientos y al orden jerárquico establecido en esta Ley y de los otros ordenamientos en la materia;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+II. Sujetarse a los lineamientos y al orden jerárquico establecido en esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y de los otros ordenamientos en la materia;
 
 III. Atender los objetivos y estrategias del Plan Nacional de Desarrollo y el Plan Estatal de Desarrollo;
 
@@ -1289,7 +1299,7 @@ El Programa Estatal de Desarrollo Urbano deberá contener, además de lo estable
 
 I. Las estructuras generales de los sistemas de comunicación, transporte, hidráulicos y energéticos;
 
-II. Los proyectos de equipamiento (sic) regionales, su ubicación, características, objetivos, áreas de influencias responsables de su ejecución y fuentes de financiamiento;
+II. Los proyectos de equipamiento regionales, su ubicación, características, objetivos, áreas de influencias responsables de su ejecución y fuentes de financiamiento;
 
 III. Las metas generales en cuanto a la calidad de vida en los centros de población; y
 
@@ -1715,7 +1725,9 @@ DE LOS EFECTOS DE LOS PLANES DE DESARROLLO URBANO
 
 Los planes o programas de desarrollo urbano, a que se refiere esta Ley tienen como objetivo dar cumplimiento al párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado. Serán de carácter obligatorio para los particulares y para las dependencias y entidades de las administraciones públicas federales, estatales y municipales, en el ámbito de sus respectivas competencias.
 
-La ejecución de acciones urbanas y obras públicas o privadas deberán sujetarse a lo establecido en esta Ley y en los planes y programas de desarrollo urbano, sin este requisito no se otorgará autorización, licencia o permiso alguno para efectuarlos. Las que se expidan no obstante esta prohibición, serán nulas de pleno derecho.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+La ejecución de acciones urbanas y obras públicas o privadas deberán sujetarse a lo establecido en esta Ley, en la Ley para la Protección de los Derechos de las Personas con Discapacidad, y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, Normas Estatales y en los planes y programas de desarrollo urbano, sin este requisito no se otorgará autorización, licencia o permiso alguno para efectuarlos. Las que se expidan no obstante esta prohibición, serán nulas de pleno derecho.
 
 ###### ARTÍCULO 89.
 
@@ -2219,7 +2231,7 @@ I. De alimentos y bebidas: restaurantes, cafeterías, taquerías y similares;
 
 II. Cabaret y centros nocturnos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 4 DE NOVIEMBRE DE 2011)
 
@@ -2745,9 +2757,11 @@ XII. A cada lado de los derechos de vía federales se establecerán restriccione
 
 XIII. Los derechos de paso no privados tendrán la anchura que dispongan las Leyes federales, estatales o los acuerdos de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 160.
 
-Los planes y programas de desarrollo urbano, programas sectoriales, fraccionamientos, conjuntos, los proyectos, obras, acciones e inversiones públicas y privadas y demás acciones urbanas que se lleven a cabo en el territorio del Estado, deberán sujetarse por lo que a vías públicas se refiere, a las disposiciones del presente capítulo, así como a las regulaciones específicas que establezca la presente Ley.
+Los planes y programas de desarrollo urbano, programas sectoriales, fraccionamientos, conjuntos, los proyectos, obras, acciones e inversiones públicas y privadas y demás acciones urbanas que se lleven a cabo en el territorio del Estado, deberán sujetarse por lo que a vías públicas se refiere, a las disposiciones del presente capítulo, así como a las regulaciones específicas que establezca la presente Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 Cuando por razones de topografía o hidrología no sea posible diseñar la red vial conforme a las disposiciones de este capítulo, el interesado podrá presentar un diseño especial el cual será sometido al dictamen de la Dependencia Estatal en coordinación con el Consejo Estatal del Transporte y Vialidad y el municipio que corresponda.
 
@@ -2799,7 +2813,7 @@ Los Atlas de riesgos se elaborarán y consultarán conforme al procedimiento seg
 
 ###### ARTÍCULO 166.
 
-Tratándose de inmuebles ubicados en zonas de riesgo alto y riesgo muy alto, el Ayuntamiento, antes de otorgar licencias relativas a usos del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones relativas a todo tipo de fraccionamientos, podrá solicitar un dictamen de las medidas de mitigación aplicables al Consejo Técnico Geológico o Hidrometereológico (sic) constituido para ese efecto.
+Tratándose de inmuebles ubicados en zonas de riesgo alto y riesgo muy alto, el Ayuntamiento, antes de otorgar licencias relativas a usos del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones relativas a todo tipo de fraccionamientos, podrá solicitar un dictamen de las medidas de mitigación aplicables al Consejo Técnico Geológico o Hidrometereológico constituido para ese efecto.
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
@@ -3023,7 +3037,9 @@ Cuando a través de una acción de crecimiento urbano, la autoridad municipal co
 
 Toda acción urbana que genere la transformación de suelo rural o urbano, los cambios en la utilización de áreas o predios, así como todas las acciones de urbanización, construcción y edificación que se realicen en el Estado, estarán sujetas a las disposiciones de esta Ley.
 
-Los municipios expedirán las autorizaciones para realizar las acciones a que alude el párrafo anterior, asegurando el cumplimiento de las disposiciones de esta Ley y sus disposiciones reglamentarias, así como de los planes y programas de desarrollo urbano.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+Los municipios expedirán las autorizaciones para realizar las acciones a que alude el párrafo anterior, asegurando el cumplimiento de las disposiciones de esta Ley y sus disposiciones reglamentarias, así como de los planes y programas de desarrollo urbano, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 Son acciones de crecimiento en un centro de población las siguientes:
 
@@ -3199,9 +3215,17 @@ XI. Las obras y previsiones necesarias para facilitar el acceso, circulación y 
 
 XII. La habilitación, equipamiento y arbolado de áreas verdes o recreativas, camellones, y banquetas de concreto, conforme a los lineamientos que señale la autoridad municipal correspondiente en la autorización del proyecto urbanístico presentado por el fraccionador;
 
-XIII. Las redes generales para telefonía y televisión por cable, las cuales deberán ser subterráneas; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XIV. Las obras de urbanización mencionadas anteriormente, deberán ejecutarse conforme al proyecto ejecutivo y calendario de obra que se acuerde con la Autoridad Municipal, y no podrá excederse de dos años a partir de la fecha de autorización, pudiéndose solicitar una prórroga para su cumplimiento.
+XIII. Las redes generales para la telefonía y televisión por cable, las cuales deberán ser subterráneas;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+XIV. Las obras de urbanización mencionadas anteriormente, deberán ejecutarse conforme al proyecto ejecutivo y calendario de obra que se acuerde con la Autoridad Municipal, y no podrá excederse de dos años a partir de la fecha de autorización, pudiéndose solicitar una prórroga para su cumplimiento; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+XV. Cumplir con la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 Los fraccionamientos habitacionales, que cuenten con vialidades subcolectoras en su interior, deberán establecer sobre dichas vialidades corredores de usos mixtos, equivalentes a por lo menos el 20% del área vendible del fraccionamiento o conjunto, en donde se permitirán usos habitacionales, comerciales y de servicios no contaminantes, de bajo impacto.
 
@@ -3343,11 +3367,17 @@ VII. Realizar el diseño del pavimento de acuerdo a lo establecido en la Ley par
 
 VIII. Garantizar la buena calidad de pavimentos, guarniciones, banquetas y el sistema para el manejo integral de aguas pluviales por el término de tres años a partir de la fecha de recepción de estas obras por el municipio;
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-IX. Inscribir en el Registro Público de la Propiedad y del Comercio el acuerdo de autorización y el plano del proyecto ejecutivo; y
+IX. Inscribir en el Registro Público de la Propiedad y del Comercio el acuerdo de autorización y el plano de proyecto ejecutivo;
 
-X. Pagar el impuesto predial correspondiente a cada uno de los lotes del fraccionamiento hasta la fecha en que se formalice la venta de los mismos.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+X. Pagar el impuesto predial correspondiente a cada uno de los lotes del fraccionamiento hasta la fecha en que se formalice la venta de los mismos; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+XI. Deberá cumplir con la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 ###### ARTÍCULO 206.
 
@@ -3411,7 +3441,9 @@ XIII. Podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelaci
 
 XIV. En estos fraccionamientos podrán existir lotes con usos distintos al habitacional, pero compatibles con este, como son: usos comerciales, de servicios e industriales no contaminantes, ni riesgosos para los habitantes; y
 
-XV. Las demás que establezcan las disposiciones de carácter general que al efecto expidan los Ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+XV. Deberá sujetarse a la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y las demás que establezcan las disposiciones de carácter general que al efecto expidan los Ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
 
 #### SECCIÓN QUINTA. DE LOS FRACCIONAMIENTOS COMERCIALES Y DE SERVICIOS
 
@@ -3429,9 +3461,17 @@ IV. El ancho mínimo de las vías públicas será de 18-diez y ocho metros;
 
 V. Deberán realizar las obras y previsiones necesarias para facilitar el acceso, circulación, uso de espacios públicos e instalaciones para personas con capacidades diferentes;
 
-VI. Deberán ceder al municipio las áreas para destinos y equipamiento urbano público, de conformidad con lo establecido en el artículo 201, fracción II, de la presente Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-VII. Construir las obras de urbanización previstas en el artículo 199 de esta Ley.
+VI. Deberán ceder al municipio las áreas para destinos y equipamiento urbano público, de conformidad con lo establecido en el artículo 201, fracción II, de la presente Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VII. Construir las obras de urbanización previstas en el artículo 199 de ésta Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VIII. Deberán cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 #### SECCIÓN SEXTA. DE LOS FRACCIONAMIENTOS INDUSTRIALES O PARQUES INDUSTRIALES
 
@@ -3445,9 +3485,17 @@ II. Se adecuará la vialidad interna y su conexión a la infraestructura vial ex
 
 III. Los titulares de los fraccionamientos industriales deberán hacer la cesión municipal correspondiente conforme a lo dispuesto en el artículo 201 fracción III de esta Ley;
 
-IV. Ejecutar las obras de urbanización que se indican en el artículo 199 de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-V. Será responsabilidad de los adquirentes de los lotes, el cumplimiento de las normas de seguridad aplicables.
+IV. Ejecutar las obras de urbanización que se indican en el artículo 199 de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+V. Será responsabilidad de los adquirientes de los lotes, el cumplimiento de las normas aplicables; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VI. Deberá cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 #### SECCIÓN SÉPTIMA. DE LOS FRACCIONAMIENTOS FUNERARIOS O CEMENTERIOS
 
@@ -3481,9 +3529,17 @@ VI. Especificar, en cualquier tipo de cementerio, el número de lotes disponible
 
 VII. Contribuir, en los términos de las Leyes respectivas, para las obras de conservación, mejoramiento o ampliación de las vías públicas e instalaciones de servicios públicos de beneficio general, con las que colinda el cementerio, o en el caso en que éste quede dentro del área de influencia o beneficio de cualquier obra pública;
 
-VIII. No serán susceptibles de transmitirse a los particulares en propiedad o posesión, las áreas a que se refiere la fracción I de este artículo; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-IX. Ceder al municipio las áreas a que se refiere el artículo 201 fracción VII, de esta Ley.
+VIII. No serán susceptibles de transmitirse a los particulares en propiedad o posesión las áreas a que se refiere la fracción I de este artículo;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+IX. Ceder al municipio las áreas a que se refiere el artículo 201 fracción VII, de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+X. Deberá cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 #### SECCIÓN OCTAVA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
@@ -3511,9 +3567,17 @@ IV. El ancho mínimo de las vías públicas será de 10-diez metros;
 
 V. Ceder a título gratuito a favor del municipio correspondiente, las superficies de suelo determinada como vías públicas;
 
-VI. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-VII. Ceder al municipio las áreas públicas municipales a que se refiere el artículo 201 fracción IV, de esta Ley.
+VI. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VII. Ceder al municipio las áreas públicas municipales a que se refiere el artículo 201 fracción IV de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VIII. Deberá cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 ###### ARTÍCULO 213.
 
@@ -3537,9 +3601,17 @@ V. El ancho mínimo de las vías públicas será de 13- trece metros;
 
 VI. Ceder a título gratuito a favor del municipio correspondiente, las superficies de suelo determinada como vías públicas;
 
-VII. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-VIII. Ceder al municipio las áreas a que se refiere el artículo 201, fracción IV, de esta Ley.
+VII. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VIII. Ceder al municipio las áreas a que se refiere el artículo 201, fracción IV, de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+IX. Deberá cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 #### SECCIÓN DÉCIMA. DE LOS FRACCIONAMIENTOS AGROPECUARIOS
 
@@ -3559,9 +3631,17 @@ IV. Las vialidades internas tendrán un ancho de 12-doce metros como mínimo;
 
 V. Ceder a título gratuito a favor del municipio correspondiente, las superficies de suelo determinada como vías públicas;
 
-VI. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-VII. Ceder al municipio las áreas a que se refiere el artículo 201, fracción IV, de esta Ley;
+VI. Construir las obras de urbanización que se indican en el artículo 200 de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VII. Ceder al Municipio las áreas a que se refiere el artículo 201, fracción IV, de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VIII. Deberá cumplir con las especificaciones señaladas en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 ### CAPÍTULO CUARTO. DE LOS CONJUNTOS URBANOS
 
@@ -3593,7 +3673,9 @@ VI. Situar los espacios para estacionamiento de vehículos en el interior de las
 
 VII. Se deberá delimitar físicamente el terreno mediante bardas, rejas o con la propia edificación; y
 
-VIII. Contar con las autorizaciones y observar las normas para la construcción establecidas en esta Ley y las demás que se determinen en las disposiciones de carácter general que establezca el Ayuntamiento o la autoridad municipal correspondiente.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+VIII. Contar con las autorizaciones y observar las normas para la construcción establecidas en esta Ley, en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes y las demás que se determinen en las disposiciones de carácter general que establezca el Ayuntamiento o la autoridad municipal correspondiente.
 
 ###### ARTÍCULO 218.
 
@@ -3699,13 +3781,15 @@ III. Obras para la conservación de construcciones o edificaciones; y
 
 IV. Obras para la seguridad y sanidad de predios, lotes y construcciones o edificaciones.
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
 
-Todas las obras de construcción o de edificación señaladas en los artículos anteriores requerirán de autorización. Las licencias o permisos de construcción o edificación se otorgarán por la autoridad municipal, de conformidad con lo dispuesto en esta Ley, y, en su caso, por lo dispuesto en el Reglamento Municipal de Construcción.
+Todas las obras de construcción o de edificación señaladas en los artículos anteriores requerirán de autorización. Las licencias o permisos de construcción o edificación se otorgarán por la autoridad municipal, de conformidad con lo dispuesto en esta Ley, en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y en su caso, por lo dispuesto en el Reglamento Municipal de Construcción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 228.
 
-Las autoridades o los particulares que pretendan llevar a cabo una obra de construcción o edificación, se sujetarán a esta Ley, a los reglamentos municipales en la materia, así como a las siguientes disposiciones:
+Las autoridades o los particulares que pretendan llevar a cabo una obra de construcción o edificación, se sujetarán a esta Ley, a la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta a las Normas Oficiales Mexicanas en materia de Accesibilidad Universal que se expidan, y a los reglamentos municipales en la materia, así como a las siguientes disposiciones:
 
 I. Sujetarse a los planes y programas de desarrollo urbano y la zonificación establecida en los mismos;
 
@@ -3741,9 +3825,11 @@ XIV. En los casos de instalación y construcción de anuncios panorámicos por s
 
 Las zonas deterioradas física o funcionalmente en forma total o parcial podrán ser declaradas por el Ayuntamiento espacios dedicados al mejoramiento con el fin de reordenarlos, renovarlos, rehabilitarlos y/o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 230.
 
-Para la realización de acciones de mejoramiento los municipios deberán atender los ordenamientos y regulaciones que sobre el particular establece esta Ley y las demás regulaciones emitidas al respecto, y cumplir con lo siguiente:
+Para la realización de acciones de mejoramiento los municipios deberán atender los ordenamientos y regulaciones que sobre el particular establece esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y a las demás regulaciones emitidas al respecto, y cumplir con lo siguiente:
 
 I. Identificar y señalar en los planes o programas de desarrollo urbano correspondientes (sic), las áreas, zonas sujetas a mejoramiento;
 
@@ -3877,7 +3963,9 @@ PROCEDIMIENTO PARA AUTORIZAR ACCIONES DE CONSERVACIÓN, MEJORAMIENTO Y CRECIMIEN
 
 Corresponde a los Municipios autorizar o negar las autorizaciones, permisos y licencias de las distintas acciones de conservación, mejoramiento y crecimiento de acuerdo con los planes o programas de desarrollo urbano aplicables.
 
-El Municipio podrá además emitir autorizaciones en materia de administración del desarrollo urbano por Internet si cuenta con reglamentación vigente en materia de uso de medios electrónicos, un padrón de usuarios actualizable anualmente y cumple con las Leyes aplicables de la materia.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+
+El Municipio podrá además emitir autorizaciones en materia de administración del desarrollo urbano por Internet si cuenta con reglamentación vigente en materia de uso de medios electrónicos, un padrón de usuarios actualizable anualmente y cumplir con las leyes aplicables de la materia, así como también cumplir con la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 ###### ARTÍCULO 242.
 
@@ -4443,9 +4531,11 @@ V. Pago de derechos correspondientes; y,
 
 VI. Los demás que señalen para tal efecto los Ayuntamientos en las disposiciones de carácter general que al efecto expidan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 284.
 
-Con fundamento en la licencia de uso de suelo, el interesado elaborará el proyecto de construcción que deberá reunir los requisitos establecidos en esta Ley y en las disposiciones de carácter general expedidas por el Ayuntamiento en materia de desarrollo urbano o construcción.
+Con fundamento en la licencia de uso de suelo, el interesado elaborará el proyecto de construcción que deberá reunir los requisitos establecidos en esta Ley, en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes y en las disposiciones de carácter general expedidas por el Ayuntamiento en materia de desarrollo urbano o construcción.
 
 Cuando la solicitud a que se refiere el párrafo anterior verse sobre alguna de las obras o actividades señaladas por el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente o por el artículo 37 de la Ley Ambiental del Estado de Nuevo León, a la solicitud respectiva se deberá acompañar la autorización de impacto ambiental, emitida, según corresponda por la Secretaría del Medio Ambiente y Recursos Naturales o por la Agencia de Protección al Medio Ambiente y Recursos Naturales del Estado.
 
@@ -4455,9 +4545,11 @@ Las licencias de uso de suelo perderán su vigencia si dentro del término de tr
 
 #### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 286.
 
-Toda obra, construcción o edificación que se realice en el territorio del Estado requerirá de la licencia de construcción, expedida por el municipio, de acuerdo con la zonificación establecida en los planes o programas de desarrollo urbano y conforme a las normas de esta Ley.
+Toda obra, construcción o edificación que se realice en el territorio del Estado requerirá de la licencia de construcción, expedida por el municipio, de acuerdo con la zonificación establecida en los planes o programas de desarrollo urbano, conforme a las normas de esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 Los reglamentos municipales en materia de construcciones establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, estabilidad, prevención de riesgos, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes.
 
@@ -4483,7 +4575,9 @@ Para la obtención de licencia municipal de construcción, el solicitante deber�
 
 I. Acreditar la propiedad o posesión del predio;
 
-II. Presentar los proyectos arquitectónicos, estructurales y de instalaciones y las memorias correspondientes con la responsiva otorgada por perito o peritos, que con el carácter de directos responsables de la obra o corresponsables, asuman la obligación o señalen el perito de la materia y firma de su responsabilidad, de que el proyecto, cálculos, especificaciones, materiales y procesos de ejecución de la obra en sus diversos aspectos o elementos cumplan las normas técnicas correspondientes y se ajusten a lo dispuesto en esta Ley, en los reglamentos o disposiciones de carácter general que expidan los Ayuntamientos y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
+
+II. Presentar los proyectos arquitectónicos, estructurales y de instalaciones y las memorias correspondientes con la responsiva otorgada por perito o peritos, que con el carácter de director responsable de la obra o corresponsables, asuman la obligación o señalen el perito de la materia y firma de su responsabilidad, de que el proyecto, cálculos, especificaciones, materiales y procesos de ejecución de la obra en sus diversos aspectos o elementos cumplan las normas técnicas correspondientes y se ajusten a lo dispuesto en esta Ley, en la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, en los reglamentos o disposiciones de carácter general que expidan los Ayuntamientos y demás ordenamientos jurídicos aplicables;
 
 III. Acompañar la licencia de uso de suelo para construcciones con giro diferente al habitacional unifamiliar en fraccionamiento autorizado;
 
@@ -4499,7 +4593,7 @@ VI. Los demás que establezcan las disposiciones de carácter general expedidas 
 
 ###### ARTÍCULO 289.
 
-En el caso de construcción de vivienda popular que estén (sic) ubicada en zonas de regularización de la tenencia de la tierra o en fraccionamiento (sic) sociales progresivos, y sea el propio poseedor quien realice los trámites, la licencia municipal de construcción será otorgada con la presentación de los documentos siguientes::
+En el caso de construcción de vivienda popular que estén (sic) ubicada en zonas de regularización de la tenencia de la tierra o en fraccionamiento (sic) sociales progresivos, y sea el propio poseedor quien realice los trámites, la licencia municipal de construcción será otorgada con la presentación de los documentos siguientes:
 
 I. Documentos que acrediten la propiedad o constancia expedida por la autoridad estatal responsable de que el predio se encuentra en proceso de regularización de la tenencia de la tierra, o que el solicitante está en posesión del mismo;
 
@@ -4515,7 +4609,7 @@ En el caso de normas reglamentarias cuya aplicación corresponde a dependencias,
 
 ###### ARTÍCULO 291.
 
-La autoridad municipal competente, una vez que reciba la solicitud de revisión del proyecto de construcción, la revisará y dictaminará en un plazo no mayor de 30-treinta días hábiles Si (sic) el dictamen descalifica el proyecto de construcción, se notificará al solicitante para los efectos que establezcan esta Ley y demás disposiciones de carácter general expedidas por el Ayuntamiento. Si el dictamen recomienda autorizar el proyecto de construcción, de inmediato se expedirá la licencia o permiso de construcción, previo pago del derecho que fije la Ley de Hacienda aplicable.
+La autoridad municipal competente, una vez que reciba la solicitud de revisión del proyecto de construcción, la revisará y dictaminará en un plazo no mayor de 30-treinta días hábiles Si el dictamen descalifica el proyecto de construcción, se notificará al solicitante para los efectos que establezcan esta Ley y demás disposiciones de carácter general expedidas por el Ayuntamiento. Si el dictamen recomienda autorizar el proyecto de construcción, de inmediato se expedirá la licencia o permiso de construcción, previo pago del derecho que fije la Ley de Hacienda aplicable.
 
 ###### ARTÍCULO 292.
 
@@ -4975,11 +5069,11 @@ XVI. Las demás que los Ayuntamientos consideren necesarias.
 
 ### CAPÍTULO PRIMERO. DEL CUMPLIMIENTO DE LAS DISPOSICIONES EN MATERIA DE DESARROLLO URBANO
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 324.
 
-Los planes o programas de desarrollo urbano, así como los reglamentos municipales de zonificación y construcciones deberán ajustarse a las disposiciones de la presente Ley y respetar los principios de subordinación y reserva que establece la Constitución Política de los Estados Unidos Mexicanos.
+Los planes o programas de desarrollo urbano, así como los reglamentos municipales de zonificación y construcciones deberán ajustarse a las disposiciones de la presente Ley, a la Ley para la Protección de los Derechos de las Personas con Discapacidad, y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes y respetar los principios de subordinación y reserva que establece la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 325.
 
@@ -5744,3 +5838,13 @@ P.O. 22 DE JUNIO DE 2012.
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE JULIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Personas con Discapacidad del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 8 de marzo de 2006, además de las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+Tercero.- El Comité Técnico y el Consejo para la Certificación de Perros de Asistencia ya instaladas continuarán operando en los términos de esta Ley.
+
+Cuarto.- El Poder Ejecutivo y las Autoridades Municipales dentro del ámbito de sus respectivas competencias, deberán adecuar su normatividad en los términos del presente Decreto, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto.
