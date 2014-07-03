@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-personas-con-discapacidad-del-estado-de-nuevo-leon-49568
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-08"
-last_updated: "2012-01-13"
+last_updated: "2014-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADA EN EL P.O. DE 3 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de marzo de 2006.
 
@@ -957,7 +959,7 @@ IX. Expedir su propio Reglamento;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
 
-X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y (sic)
+X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1262,3 +1264,13 @@ Segundo.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nue
 Tercero.- El Procurador de la Defensa de las Personas con Discapacidad, deberá ser nombrado en un plazo no mayor de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Cuarto.- El Reglamento Interior y la Estructura orgánica de la Procuraduría de la Defensa de las Personas con Discapacidad del Estado de Nuevo León, deberá ser aprobado a un plazo no mayor de 120 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE JULIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Personas con Discapacidad del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 8 de marzo de 2006, además de las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+Tercero.- El Comité Técnico y el Consejo para la Certificación de Perros de Asistencia ya instaladas continuarán operando en los términos de esta Ley.
+
+Cuarto.- El Poder Ejecutivo y las Autoridades Municipales dentro del ámbito de sus respectivas competencias, deberán adecuar su normatividad en los términos del presente Decreto, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto.
