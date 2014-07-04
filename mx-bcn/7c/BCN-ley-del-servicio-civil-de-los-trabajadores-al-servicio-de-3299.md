@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2014-05-08"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -34,6 +34,8 @@ GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABE
 QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACIÓN, EL ORDENAMIENTO LEGAL QUE SIGUE:
 
 LA H. XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXXII DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO No. 52, PUBLICADO EN EL P.O. 8 DE MAYO DE 2014, LAS MENCIONES QUE EN OTRAS LEYES SE HAGAN A LA “LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS”, SE ENTENDERÁN HECHAS A LA “LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA”.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2014)</small>
 
@@ -307,7 +309,7 @@ El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y 
 
 ###### ARTICULO 22.
 
-En ningún caso el cambio de funcionarios de las autoridades públicas o de estas, modificará la situación de los trabajadores de base esto es, que no se afectarán los derechos de los mismos y fundamentalmente los de antigüedad e inamobilidad.
+En ningún caso el cambio de funcionarios de las autoridades públicas o de estas, modificará la situación de los trabajadores de base esto es, que no se afectarán los derechos de los mismos y fundamentalmente los de antigüedad e inamobilidad (sic).
 
 ### CAPITULO II
 
@@ -2269,6 +2271,10 @@ Al tener conocimiento de las vacantes las Comisiones Mixtas de Escalafón proced
 
 Las convocatorias señalaran los requisitos para aplicar derechos, plazos para presentar solicitudes de participación en los concursos y demás datos que determinen el Reglamento de la Comisión Mixta de Escalafón.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2014)</small>
+
+El sindicato podrá proponer de manera extraordinaria la ocupación de dichas vacantes sin sujetarse al procedimiento aquí señalado; lo anterior, acorde a los parámetros que se acuerden para tales efectos en el Reglamento de Escalafón, debiendo en todo caso justificar su petición a fin de que sea aprobada por la Comisión Mixta de Escalafón.
+
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 166.
@@ -2411,7 +2417,9 @@ SEXTO.- El Tribunal de Arbitraje del Estado, deberá quedar configurado en su nu
 
 SÉPTIMO.- Dentro un (sic) año contado a partir de la entrada en vigor del presente decreto, se deberá expedir la Ley del Servicio Profesional de Carrera para la administración estatal centralizada a que se refiere la fracción I del artículo 51 de esta Ley.
 
-OCTAVO.- Las menciones que en otras leyes se hagan a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas, se entenderán hechas a la Ley del Servicio Civil de los Servidores Públicos al Servicio del Gobierno del Estado y Municipios de Baja California.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
+OCTAVO.- Las menciones que en otras leyes se hagan a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas, se entenderán hechas a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
 
 NOVENO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
 
@@ -2420,3 +2428,7 @@ DÉCIMO.- Las vacantes de plazas definitivas que existen hasta la entrada en vig
 DÉCIMO PRIMERO.- Los trabajadores de base, que en su calidad de elementos de apoyo, ya laboran en las instituciones policiales, no serán considerados trabajadores de confianza y conservarán sus prerrogativas y derechos adquiridos.
 
 DÉCIMO SEGUNDO.- Las autoridades públicas en reconocimiento al derecho a la vivienda del que gozan sus trabajadores de base; acorde a su factibilidad financiera, procurarán integrar un fondo destinado a su implementación, debiendo llevar a cabo los trabajos técnicos y presupuestarios a más tardar al año 2019.
+
+P.O. 4 DE JULIO DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
