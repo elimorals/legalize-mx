@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2013-06-12"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -751,33 +751,23 @@ Dicha constancia será agregada a los autos y a partir de su emisión surtirá e
 
 La hora de envío y de recepción de la notificación será sincronizada con el Centro Nacional de Metrología.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 115.
 
-Las notificaciones deberán hacerse de la siguiente forma:
+Será notificado personalmente:
 
-I. Será notificado personalmente el emplazamiento en el domicilio del demandado, siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
+I. El emplazamiento en el domicilio del demandado, siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias; así como el emplazamiento correspondiente al escrito de reconvención, mismo que se realizará en el domicilio del actor;
 
-II. Será notificado personalmente o cuando por acuerdo se haya establecido, por correo electrónico o por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado:
+II. La sentencia definitiva;
 
-a) El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+III. Cualquier actuación que el Juez considere conveniente, debiendo motivar razonadamente su decisión y evitando conculcar el principio de igualdad procesal que rige al procedimiento; y
 
-b) La primera resolución que se dicte, cuando se dejare de actuar más de cuatro meses, por cualquier motivo;
+IV. En los demás casos que la Ley así lo disponga.
 
-c) Cuando se trate de situaciones graves o urgentes, a juicio del juez.
+Las notificaciones establecidas en las fracciones II y III podrán realizarse por correo electrónico o por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial, en los términos establecidos en el Reglamento del Sistema de Expediente Electrónico del Poder Judicial del Estado de Querétaro.
 
-En este caso, podrá ordenarse la notificación en el domicilio particular de las partes, si su ubicación se desprende de autos, aún cuando no se haya señalado domicilio procesal;
-
-d) El requerimiento de un acto a la parte que deba cumplirlo;
-
-e) Las sentencias definitivas; y
-
-f) En los demás casos en que la ley lo disponga.
-
-Se tendrá por efectuada la notificación por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, a la parte que vía consulta electrónica acceda al expediente y conozca el contenido del auto, acuerdo o resolución judicial que ordene su notificación personal o vía correo electrónico, en los términos del Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro.
+Respecto a la fracción IV, las notificaciones podrán realizarse a través de los medios electrónicos antes referidos, siempre que no correspondan a la primera notificación del procedimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -899,7 +889,9 @@ Sólo por errores u omisiones sustanciales que hagan no identificable el juicio,
 
 La inobservancia al contenido de este artículo, motivará la imposición de las sanciones que al efecto establezcan las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 124.
 
@@ -1123,15 +1115,15 @@ XII. En los juicios de divorcio, el Tribunal del domicilio conyugal y en caso de
 
 XIII. Tratándose de juicio de alimentos, el del acreedor o deudor alimentario, a elección del primero;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-XIV. En la adopción, el de la residencia del adoptado; sobre la anulación de la adopción, el de la residencia del adoptado al momento del otorgamiento de la adopción; y (sic)
+XIV. En la adopción, el de la residencia del adoptado; sobre la anulación de la adopción, el de la residencia del adoptado al momento del otorgamiento de la adopción; y
 
 XV. En los casos de restitución de menores, el de la residencia del menor hasta antes de su traslado o su retención ilícita; en casos de urgencia, el del lugar donde aquél se encontrare;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1367,7 +1359,7 @@ X. Pidiendo la exhibición o compulsa de un protocolo o de cualquier documento q
 
 XI. Pidiendo el examen de testigos u otras declaraciones que se refieran a un proceso extranjero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1929,7 +1921,9 @@ Toda contienda judicial principiará por demanda, en la cual se expresarán:
 
 I. El Tribunal ante el que se promueve;
 
-II. El nombre del actor y domicilio para oír notificaciones;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
+
+II. El nombre del actor; el domicilio para oír notificaciones y el domicilio donde resida habitualmente, en el cual será emplazado en el caso de existir reconvención, debiendo seguirse las reglas dispuestas en los artículos 118, 119 y 122 del presente ordenamiento;
 
 III. El nombre del demandado y su domicilio;
 
@@ -2003,9 +1997,11 @@ Si la demanda no es contestada en tiempo, el juez verificará la legalidad del e
 
 Se presumen ciertos los hechos de la demanda que se dejó de contestar. Sin embargo, se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten cuestiones familiares, el estado civil de las personas y en los casos en que el emplazamiento se hubiere hecho por edictos.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 270.
 
-El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; se dará traslado del escrito al actor, para que conteste en el plazo de seis días, observándose, respecto de la contestación, las mismas reglas que quedan establecidas en el artículo 268.
+El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; se correrá traslado del escrito al actor, para que conteste en el plazo de seis días, observándose, respecto de la contestación, las mismas reglas que quedan establecidas en el artículo 268.
 
 ###### Artículo 271.
 
@@ -2033,25 +2029,23 @@ En las resoluciones a que se refieren los artículos 266 y 269, si debiera segui
 
 Contra la determinación que manda a abrir el juicio a prueba, no hay más recurso que el de responsabilidad, la que lo niegue será apelable en ambos efectos, si fuere apelable la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 275 Bis.
 
-Contestada que sea la demanda y en su caso, la reconvención, el juez de oficio citará personalmente a las partes para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria ante el Centro de Mediación del Poder Judicial del Estado de Querétaro. Dicha audiencia se verificará sin que se suspenda el procedimiento.
+Contestada que sea la demanda y, en su caso, la reconvención, deberá citarse a las partes, en términos de ley para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria, la cual deberá ser desahogada por el propio juzgador o por alguno de los secretario (sic) auxiliares del juzgado.
 
-Las partes deberán comparecer personalmente o a través de representante facultado para transigir.
+La tramitación y desahogo de la audiencia de conciliación no suspenderá el procedimiento.
 
-La audiencia será única e indiferible y lo tratado en el proceso de mediación será confidencial, conforme lo establece el Reglamento del Centro de Mediación del Poder Judicial del Estado de Querétaro.
+Las partes podrán comparecer personalmente o a través de representante legal facultado para transigir.
 
-El Director del Centro de Mediación, al concluir la audiencia, hará saber de inmediato al juzgador si las partes llegaron a un acuerdo o no. En el caso de que las partes lo hayan hecho, tendrá la obligación de entregar al juez el original del convenio para que sea ratificado en ese mismo momento.
+La audiencia será única e indiferible y lo tratado en el proceso de conciliación será confidencial.
 
-El juez, dentro de los tres días siguientes a la ratificación del convenio, lo calificará y, en su caso, lo aprobará, adquiriendo éste la categoría de cosa juzgada.
+En la constancia relativa deberá asentarse quiénes acudieron a la cita y si se logró o no un acuerdo conciliatorio. Para el caso de haberse logrado la conciliación, el juez o el secretario auxiliar que desahogó la audiencia, redactará inmediatamente el convenio respectivo y las partes deberán ratificarlo en el acto.
 
-Al citar a las partes a esta audiencia, se les apercibirá de que, en caso de no asistir sin justa causa; se les impondrá una multa por el equivalente a 100 días de salario mínimo.
+Dentro de los tres días siguientes a la ratificación del convenio, el juzgador lo calificará y, en su caso, lo aprobará, adquiriendo éste la categoría de cosa juzgada.
 
-La causa para no comparecer, deberá hacerse del conocimiento del juzgador por lo menos un día antes de la fecha señalada para la audiencia, exhibiendo los comprobantes respectivos. Si se tratare de una enfermedad, el correspondiente certificado deberá ratificarse ante la presencia judicial por el médico que lo expida, el mismo día fijado para la audiencia. El juzgador podrá autorizar que el mediador se traslade, en compañía del colitigante, al lugar en que se encuentre el enfermo y ahí se llevará a cabo la audiencia.
+Cuando las partes no lleguen a un acuerdo o, en su caso, una o ambas partes no se presenten a la audiencia conciliatoria, ello no afectará el desarrollo del juicio, por lo que, sin mayor trámite, se deberá continuar con la secuela del procedimiento.
 
 ### Capítulo Segundo. De la prueba
 
@@ -2279,9 +2273,11 @@ Al admitir la prueba, el juez ordenará que el reconocimiento o inspección se p
 
 Desde que se abra el periodo de ofrecimiento de pruebas y hasta antes de la citación para sentencia, todo litigante está obligado a declarar bajo protesta de decir verdad, cuando así lo exigiere el contrario.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 314.
 
-El que haya de absolver posiciones será citado personalmente, a más tardar tres días antes del señalado para la diligencia, bajo apercibimiento de que, si dejare de comparecer sin justa causa, será tenido por confeso de las posiciones que fueren calificadas de legales.
+El que haya de absolver posiciones será citado mediante notificación por listas, a más tardar tres días antes del señalado para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso de las posiciones que fueren calificadas de legales.
 
 ###### Artículo 315.
 
@@ -6852,3 +6848,11 @@ P.O. 12 DE JUNIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 4 DE JULIO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Los negocios que se encuentren en trámite a la fecha de inicio de vigencia de la presente Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la misma.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igualo (sic) menor jerarquía que se opongan a la presente Ley.
