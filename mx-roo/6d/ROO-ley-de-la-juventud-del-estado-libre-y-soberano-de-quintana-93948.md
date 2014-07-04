@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2013-04-09"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -555,9 +555,11 @@ La COJUDEQ generará los mecanismos necesarios para la participación del Estado
 
 Se establece el Congreso Juvenil del Estado de Quintana Roo, con el propósito de brindar a los jóvenes del Estado, un espacio de análisis y expresión en el cual puedan dar a conocer sus propuestas para mejorar el marco normativo estatal, así como promover cualquier otra acción legislativa que consideren necesaria deba realizarse por el Poder Legislativo del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 61.
 
-El Congreso Juvenil, se llevará a cabo el día 12 de agosto de cada año, en conmemoración al Día Internacional de la Juventud, en la Sede del Poder Legislativo del Estado de Quintana Roo.
+El Congreso Juvenil, se llevará a cabo en el mes de septiembre de cada año, en la sede del Poder Legislativo del Estado de Quintana Roo.
 
 ###### Artículo 62.
 
@@ -569,9 +571,11 @@ Los participantes del Congreso Juvenil, serán los jóvenes que cumplan con los 
 
 La selección de los jóvenes será representativa de cada uno los Municipios del Estado y cada uno de los Distritos Electorales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 64.
 
-La Comisión, emitirá la convocatoria correspondiente a más tardar al inicio del mes junio de cada año, la cual se hará de conocimiento público.
+La Comisión, emitirá la convocatoria correspondiente a finales del mes de agosto, la cual se hará de conocimiento público.
 
 Previamente a la expedición de la Convocatoria, se realizarán los trabajos de coordinación con las Unidades Administrativas Municipales en materia de Juventud y el Instituto Electoral de Quintana Roo para la realización del Congreso Juvenil.
 
@@ -617,7 +621,9 @@ En tanto se dé cumplimiento a lo dispuesto en el párrafo anterior, los Ayuntam
 
 Quedan exceptuados del cumplimiento de este artículo, los Municipios que ya cuentan con alguna dependencia u organismo municipal de atención a la Juventud.
 
-QUINTO.- El primer Congreso Juvenil del Estado de Quintana Roo, se instaurará el día 12 de agosto del año 2014.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
+QUINTO.- El Primer Congreso Juvenil del Estado de Quintana Roo, se instaurará en el mes de septiembre del año 2014.
 
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DOCE DIAS DEL MES DE MARZO DE DOS MIL TRECE.
 
@@ -638,3 +644,11 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
