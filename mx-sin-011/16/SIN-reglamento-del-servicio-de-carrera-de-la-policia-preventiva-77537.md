@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-servicio-de-carrera-de-la-policia-preventiva-775
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-01"
-last_updated: "2010-12-01"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 ---
 # REGLAMENTO DEL SERVICIO DE CARRERA DE LA POLICIA PREVENTIVA MUNICIPAL DE GUASAVE, SINALOA
 
-REGLAMENTO DEL SERVICIO DE CARRERA DE LA POLICIA PREVENTIVA MUNICIPAL DE GUASAVE DEL ESTADO DE SINALOA
+REGLAMENTO DEL SERVICIO DE CARRERA DE LA POLICÍA PREVENTIVA MUNICIPAL DE GUASAVE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DEL REGLAMENTO DEL SERVICIO DE CARRERA DE LA POLICÍA PREVENTIVA MUNICIPAL DE GUASAVE, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA DEROGADO A LOS 30 DÍAS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 1 de diciembre de 2010.
 
@@ -33,7 +35,7 @@ El C. LIC. JESÚS BURGOS PINTO, Presidente Municipal de Guasave, a sus habitante
 
 Que el Honorable Ayuntamiento de Guasave, por conducto de su Secretaría, se ha servido comunicarme para los efectos correspondientes lo siguiente:
 
-Que en Sesión Ordinaria celebrada el dia diecinueve de noviembre del año dos mil diez, el Honorable Ayuntamiento de Guasave, en ejercicio de las facultades conferidas por los artículos 115, fracción II, de la Constitución Política de los Estados Unidos Mexicanos; 125 fracción II de la Constitución Política del Estado de Sinaloa; artículos 3, segundo párrafo, 27 fracción I y IV, 47, 79, 80 fracción I, 81 fracción III y 82 de la Ley de Gobierno Municipal del Estado de Sinaloa, tuvo a bien aprobar Reglamento (sic) del Servicio de Carrera de la Policía Preventiva Municipal de Guasave, con base en la siguiente:
+Que en Sesión Ordinaria celebrada el dia diecinueve de noviembre del año dos mil diez, el Honorable Ayuntamiento de Guasave, en ejercicio de las facultades conferidas por los artículos 115, fracción II, de la Constitución Política de los Estados Unidos Mexicanos; 125 fracción II de la Constitución Política del Estado de Sinaloa; artículos 3, segundo párrafo, 27 fracción I y IV, 47, 79, 80 fracción I, 81 fracción III y 82 de la Ley de Gobierno Municipal del Estado de Sinaloa, tuvo a bien aprobar (sic) Reglamento del Servicio de Carrera de la Policía Preventiva Municipal de Guasave, con base en la siguiente:
 
 EXPOSICIÓN DE MOTIVOS.
 
@@ -577,7 +579,7 @@ I.- Que exista acuerdo favorable por parte de la Comisión de Carrera;
 
 II.- Que la separación del cargo haya sido voluntaria;
 
-III.- Que exista plaza vacante o de nueva creación, y (sic)
+III.- Que exista plaza vacante o de nueva creación, y
 
 IV.- Que presenten los exámenes relativos al procedimiento de desarrollo y promoción del último grado en el que ejerció su función; y
 
@@ -1286,3 +1288,25 @@ PRESIDENTE MUNICIPAL
 LIC. LEONARDO JOSÉ MALDONADO DADO
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO.- Este reglamento entrará en vigor a los 30 días de su publicación en el Periódico oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se deroga el Reglamento del Servicio de carrera Preventiva Municipal de Guasave publicado en fecha en fecha (sic) 01 de diciembre de 2010 en el Periódico Oficial del Estado de Sinaloa y todas las disposiciones que se opongan a este reglamento.
+
+TERCERO.- El Servicio de Carrera de la Policía Preventiva Municipal, se irá estableciendo gradualmente así como los órganos para su operación, de conformidad con las disposiciones presupuestales y los acuerdos y convenios que se celebren con el estado.
+
+CUARTO.- Mientras se expide el manual de procedimientos respectivo a que hace referencia este reglamento, el presidente municipal queda facultado para resolver lo relativo al Servicio de Carrera y contará con un plazo de treinta días a partir de la entrada en vigor de este reglamento para expedirlo.
+
+QUINTO.- Los órganos a que hace referencia este reglamento se integrarán en un término no mayor a 30 días de la entrada en vigor del presente reglamento.
+
+SEXTO.- El plazo para la implementación del servicio profesional de carrera policial será de hasta 1 año, a partir de la publicación de (sic) reglamento del Servicio Profesional de Carrera, debido a que se requiere que el personal en activo:
+
+I. Cuente con las evaluaciones de control y confianza;
+
+II. Que tengan la equivalencia de la formación inicial y;
+
+III. Que cubran con el perfil en la parte de renivelación académica.
