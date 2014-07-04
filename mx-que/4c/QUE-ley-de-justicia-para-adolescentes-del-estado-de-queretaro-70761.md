@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-para-adolescentes-del-estado-de-queretaro-70761
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-23"
-last_updated: "2011-06-17"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO - ANTES LEY PARA LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO -
 
-LEY PARA LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO
+LEY PARA LA IMPARTICIÓN DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -161,7 +161,9 @@ IV. Procedimientos alternativos al juzgamiento, por las conductas contempladas e
 
 En todo caso, la responsabilidad de los adolescentes se sujetará a las disposiciones siguientes:
 
-I. Las personas menores a doce años de edad, están exentos de responsabilidad y sólo podrán sujetarse, en los términos que disponga la presente Ley, a los tratamientos que para su rehabilitación social determine la Procuraduría de la Defensa del Menor y la Familia; quienes ejerzan la patria potestad, tutela o custodia de los adolescentes, deberán coadyuvar y participar en los correspondientes tratamientos, así como a asumir las responsabilidades civiles a las que haya lugar;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
+
+I. Las personas menores a doce años de edad, están exentas (sic) responsabilidad y sólo podrán sujetarse, en los términos que disponga la presente Ley, a los tratamientos que para su rehabilitación social determine la Procuraduría de la Defensa del Menor y la Familia. Quienes ejerzan la patria potestad, tutela o custodia de los niños, deberán coadyuvar y participar en los correspondientes tratamientos, así como a asumir las responsabilidades civiles a las que haya lugar;
 
 II. Las personas de doce años cumplidos y menos de dieciocho años de edad, serán responsables de las conductas sancionables sobre la base del respeto irrestricto al principio de culpabilidad por el acto y no se admitirán, bajo ninguna circunstancia, consideraciones acerca del autor del hecho imputado, su personalidad, vulnerabilidad biológica, temibilidad o peligrosidad; y
 
@@ -867,29 +869,35 @@ VII. La resolución se notificará a la Dirección General de Reinserción Socia
 
 ### Capítulo Único. Del procedimiento
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 68.
 
-En los casos de conductas sancionables, cometidas por personas menores de doce años de edad o por las señaladas en la fracción III del artículo 8 de esta Ley, conocerá la Procuraduría de la Defensa del Menor y la Familia, a efecto de resolver sobre la imposición de medidas para la rehabilitación y asistencia social de los adolescentes.
+En los casos de conductas sancionables, cometidas por personas menores de doce años de edad o por las señaladas en la fracción III del artículo 8 de esta Ley, conocerá la Procuraduría de la Defensa del Menor y la Familia, a efecto de resolver sobre la imposición de medidas para la rehabilitación y asistencia social.
 
-La Procuraduría de la Defensa del Menor y la Familia tendrá facultades suficientes para obtener el apoyo de la familia y de la comunidad en el tratamiento de adolescentes, adecuándolo a las características propias de cada uno de éstos, su familia y entorno social, con el objeto de lograr su autoestima, a través del desarrollo de sus potenciales y de la autodisciplina necesaria para propiciar en el futuro, el equilibrio entre sus condiciones de vida individual, familiar y colectiva, así como modificar los factores negativos de su estructura biopsicosocial para propiciar un desarrollo armónico, útil y sano.
+La Procuraduría de la Defensa del Menor y la Familia, tendrá facultades suficientes para obtener el apoyo de la familia y de la comunidad en el tratamiento de los niños, adecuándolo a las características propias de cada uno de éstos, de su familia y de su entorno social, con el objeto de lograr su autoestima, a través del desarrollo de sus potenciales y de la autodisciplina necesaria para propiciar en el futuro el equilibrio entre sus condiciones de vida individual, familiar y colectiva, así como para modificar los factores negativos de su estructura biopsicosocial para favorecer un desarrollo armónico, útil y sano.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 69.
 
-El Ministerio Público hará la remisión del expediente a la Procuraduría de la Defensa del Menor y la Familia, mediante acta circunstanciada por escrito que contenga los datos de la víctima u ofendido y del adolescente involucrado, así como una descripción de los hechos y de las circunstancias de lugar, tiempo y modo que hagan posible la evaluación de la conducta del adolescente.
+El Ministerio Público hará la remisión del expediente a la Procuraduría de la Defensa del Menor y la Familia, mediante acta circunstanciada, por escrito, que contenga los datos de la victima u ofendido y del niño involucrado, así como una descripción de los hechos y de las circunstancias de lugar, tiempo y modo que hagan posible la evaluación de la conducta del menor.
 
-Recibida la información se abrirá el expediente que corresponda, procediendo a citar a quienes ejerzan la patria potestad, tutela o custodia y al adolescente señalado, a efecto de celebrar las audiencias necesarias para resolver sobre la sujeción a programas de rehabilitación y determinar las medidas de asistencia social que se otorgarán.
+Recibida la información se abrirá el expediente que corresponda, procediendo a citar a quienes ejerzan la patria potestad, tutela o custodia y al niño, señalando las audiencias necesarias para resolver sobre la sujeción de programas de rehabilitación y determinar las medidas de asistencia social que se otorgarán.
 
-En caso de que los citados no acudan a una audiencia, podrá hacérseles comparecer con el auxilio de la fuerza pública.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 70.
 
-El adolescente y su familia podrán sujetarse a los estudios de evaluación que la Procuraduría de la Defensa del Menor y la Familia considere necesarios.
+El niño y su familia deberán sujetarse a los estudios de evaluación que la Procuraduría de la Defensa del Menor y la Familia considere necesarios.
 
-Los adolescentes podrán ser entregados en custodia de las instituciones que la mencionada Procuraduría señale, cuando se encuentre en estado de abandono o se considere en riesgo su integridad física o emocional de permanecer en el lugar donde habita, o bien, cuando resulte necesario para su adecuada atención.
+Los niños podrán ser entregados en custodia de las instituciones que la mencionada Procuraduría señale, cuando se encuentren en estado de abandono o se considere en riesgo su integridad física o emocional de permanecer en el lugar donde habita, o bien, cuando ello resulte necesario para su adecuada atención.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 71.
 
-El cumplimiento de las medidas que se ordenen será obligatorio para los adolescentes y para los padres, de resultar necesario; asimismo, la Procuraduría de la Defensa del Menor y la Familia podrá solicitar la colaboración de otras autoridades para el debido cumplimiento de sus determinaciones o, en su caso, el uso de la fuerza pública para el mismo objeto, siempre y cuando ello resulte indispensable.
+El cumplimiento de las medidas que se ordenen será obligatorio para los niños y para los padres. La Procuraduría de la Defensa del Menor y la Familia podrá solicitar la colaboración de las autoridades o el uso de la fuerza pública para el debido cumplimiento de sus determinaciones, siempre que tal circunstancia resulte indispensable.
 
 ## Título Quinto. De las medidas
 
@@ -1629,7 +1637,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE JUNIO DE 2011.
 
@@ -1638,3 +1646,9 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 4 DE JULIO DE 2014.
+
+Artículo Primero. La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
