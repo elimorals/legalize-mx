@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2013-09-13"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -1277,9 +1277,11 @@ El Ejecutivo del Estado apoyará a los productores agropecuarios organizados, cu
 
 ### CAPÍTULO III. FINANCIAMIENTO Y ESTÍMULOS A LA PRODUCTIVIDAD
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 156.
 
-La Secretaría con el objeto de elevar la productividad agropecuaria, le corresponderá fomentar, promover e impulsar la constitución de fideicomisos, fondos y organismos de participación pública y privada, con la intervención de aquellas instituciones crediticias que incidan para el otorgamiento de créditos y estímulos a los productores primarios del Estado.
+La Secretaría con el objeto de elevar la productividad agropecuaria, y para fortalecer el empleo en el sector rural, le corresponderá fomentar, promover e impulsar la constitución de fideicomisos, fondos y organismos de participación pública y privada, con la intervención de aquellas instituciones crediticias que incidan para el otorgamiento de créditos y estímulos a los productores primarios del Estado.
 
 ###### ARTÍCULO 157.
 
@@ -1321,9 +1323,41 @@ VII.- Fomentar y promover los programas de saneamiento financiero de los sectore
 
 VIII.- Promover y obtener de las instituciones financieras del país como del extranjero, líneas de crédito específicas para el desarrollo de los productores del campo.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2014)</small>
+
+### CAPÍTULO IV. FONDO DE FOMENTO PARA EL DESARROLLO RURAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2014)</small>
+
+ARTÍCULO 159 BIS.- El Ejecutivo del Estado, a través de la Secretaría creará un Fondo de Fomento para el Desarrollo Rural Sustentable, cuyo fin primordial se orientará a incrementar la productividad y la competitividad en el ámbito rural, con el fin de fortalecer el empleo, el desarrollo de talentos profesionales regionales y elevar el ingreso de los productores; asimismo generar condiciones favorables para ampliar los mercados agropecuarios; a aumentar el capital natural para la producción, y creación de fuentes de trabajo en el sector rural, así como a la constitución y consolidación de empresas rurales.
+
+La Secretaría deberá propiciar con este Fondo:
+
+I. El impulso a la investigación y desarrollo tecnológico agropecuario;
+
+II. El desarrollo de los recursos humanos, promoviendo el desarrollo de padrones de técnicos y profesionistas egresados de las escuelas y universidades regionales rurales, a efecto de incentivar su contratación;
+
+III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura en el sector rural;
+
+IV. El fomento a los sistemas familiares de producción;
+
+V. El fomento al desarrollo de las capacidades productivas de los jóvenes, mujeres y pequeños productores del sector rural;
+
+VI. El impulso a la industria, agroindustria y la integración de cadenas productivas, así como el desarrollo de la infraestructura industrial en el medio rural;
+
+VII. El impulso a las actividades económicas no agropecuarias en el que se desempeñan los diversos agentes de la sociedad rural;
+
+VIII. La creación de condiciones adecuadas para enfrentar el proceso de globalización;
+
+IX. La conservación y mejoramiento de los recursos naturales; y
+
+X. Las demás que se deriven del cumplimiento de esta Ley.
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES, SANCIONES Y MEDIO DE DEFENSA
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 160.
 
@@ -1392,3 +1426,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El artículo 159 bis por el que se crea el Fondo de Fomento para el Desarrollo Rural Sustentable, entrará en vigor el primero de enero de 2016, siempre que los Poderes Legislativo y Ejecutivo del Estado realicen las previsiones presupuestales que garanticen la viabilidad financiera de su instrumentación.
+
+TERCERO.- El Ejecutivo por conducto de la Secretaría, en un término no mayor a los 30 días, posterior a la entrada en vigor del artículo 159 bis señalada en el transitorio anterior, deberá reglamentar la instrumentación y operación del Fondo de Fomento para el Desarrollo Rural Sustentable.
