@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2014-03-28"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -41,7 +39,7 @@ LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -221,9 +219,9 @@ II.- Promover y difundir la lectura, así como favorecer la adquisición tanto d
 
 III.- Difundir al educando el conocimiento de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Baja California; Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, el conocimiento del Escudo y el Canto del Estado de Baja California, así como la valoración de las tradiciones y particularidades culturales del Estado y de las diversas regiones del País.
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
 
-IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo del rescate y la enseñanza de las lenguas de los grupos indígenas que existan en el Estado, así como garantizar la impartición en la educación básica del idioma inglés.
+IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo del rescate y la enseñanza de las lenguas de los grupos indígenas que existan en el Estado, así como garantizar la impartición permanente en la educación básica del idioma inglés.
 
 V.- Infundir el conocimiento y práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones al mejoramiento de la sociedad.
 
@@ -247,7 +245,7 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Informar y orientar a los educandos sobre los perjuicios que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, así como sus consecuencias nocivas, propiciando el rechazo a los vicios.
 
-XII.- Fomentar y encausar (sic) el desarrollo y la aplicación del avance científico y tecnológico de acuerdo con las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza.
+XII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo con las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -343,7 +341,7 @@ XVI.- Disponer el uso temporal de los planteles educativos oficiales para alberg
 
 XVII.- Promover servicios educativos, distintos de los previstos en la fracción I, de acuerdo con las necesidades nacionales, estatales y municipales.
 
-XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y (sic)
+XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -409,7 +407,7 @@ V.- Promover permanentemente la investigación que sirva como base a la innovaci
 
 VI.- Apoyar el funcionamiento del Consejo Municipal de Participación Social previendo lo necesario a su integración oportuna y proveyéndolo de los recursos necesarios para el despacho de sus asuntos; así como la existencia de los patronatos para la construcción, conservación y funcionamiento de las escuelas, de acuerdo con las disposiciones respectivas.
 
-VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y (sic)
+VII.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal, y
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -423,15 +421,15 @@ IX.- Auxiliar al Titular del Poder Ejecutivo del Estado en el cumplimiento de es
 
 X.- Fomentar y difundir las actividades artísticas, culturales y deportivas en todas sus manifestaciones;
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN EN VÍA DE CONSECUENCIA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
+
+XI.- Editar libros y materiales didácticos distintos a los textos gratuitos otorgados por la Secretaría de Educación Pública y
+
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
 
 XII.- PARA EL INGRESO, PROMOCIÓN, RECONOCIMIENTO Y PERMANENCIA DEL PERSONAL DOCENTE O CON FUNCIONES DE DIRECCIÓN O SUPERVISIÓN EN LA EDUCACIÓN BÁSICA Y MEDIA SUPERIOR QUE IMPARTAN, DEBERÁN OBSERVAR LO DISPUESTO POR LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
-
-XII.- Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección o supervisión en la educación básica y media superior que impartan, deberán observar lo dispuesto por la Ley del Servicio Profesional Docente del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -439,13 +437,13 @@ ARTICULO 16 BIS.- Adicionalmente a las atribuciones exclusivas a las que se refi
 
 I.- Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y VII del artículo 15 de esta Ley, de acuerdo con las necesidades estatales;
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN EN VÍA DE CONSECUENCIA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 II.- PARTICIPAR EN LAS ACTIVIDADES TENDIENTES A REALIZAR EVALUACIONES PARA EL INGRESO, LA PROMOCIÓN, EL RECONOCIMIENTO Y LA PERMANENCIA EN EL SERVICIO PROFESIONAL DOCENTE, DE CONFORMIDAD CON LO DISPUESTO EN LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO;
 
 III.- Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I del artículo 12 de la Ley General de Educación;
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN EN VÍA DE CONSECUENCIA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 IV.- EJECUTAR PROGRAMAS PARA LA INDUCCIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN DE MAESTROS DE EDUCACIÓN MEDIA SUPERIOR, LOS QUE DEBERÁN SUJETARSE, EN LO CONDUCENTE, A LO DISPUESTO POR LA LEY DEL SERVICIO PROFESIONAL DOCENTE DEL ESTADO;
 
@@ -501,7 +499,7 @@ Los resultados de calidad educativa derivados de estas acciones serán evaluados
 
 El Ejecutivo del Estado sin menoscabo de su propia obligación promoverá la participación directa de cada ayuntamiento para dar a las escuelas públicas, mantenimiento y proveer de equipo básico y materiales adecuados de acuerdo a los avances de la ciencia y la tecnología.
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -525,7 +523,7 @@ Además, establecerán mecanismos para estimular el reconocimiento de la labor d
 
 ARTICULO 18 BIS.- Las autoridades educativas del Estado podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -595,7 +593,7 @@ En el Sistema Educativo Estatal deberá asegurarse la participación activa de t
 
 La educación que se imparta por el Sistema Educativo Estatal será de calidad, basada en normas de competencia internacional, de manera que permita al educando incorporarse a la sociedad como un elemento positivo y competitivo para desarrollar una actividad productiva que le facilite superarse académicamente y culturalmente.
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -683,17 +681,17 @@ La educación secundaria se enfocará además al dominio del idioma inglés
 
 Las escuelas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado por conducto de la Secretaría de Educación y Bienestar Social, de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuesta por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 28.
 
-La educación física y artística como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán en los niveles de educación inicial y básica, sin distinción alguna por motivos de discapacidad.
+La educación física, artística e idioma inglés como materias permanentes y obligatorias al desarrollo armónico e integral del individuo en el proceso escolar, se aplicarán en los niveles de educación inicial y básica, sin distinción alguna por motivos de discapacidad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 29.
 
-Las autoridades educativas a través de la Dirección y Departamentos Estatales de Educación Física y Artística, serán las responsables de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
+Las autoridades educativas a través de la Dirección y Departamentos Estatales de Educación Física, Artística e idioma inglés, serán las responsables de la aplicación de los programas y guías metodológicas oficiales en cada una de sus áreas, en los diferentes niveles educativos.
 
 ###### ARTICULO 30.
 
@@ -709,7 +707,7 @@ IV.- Propiciar en el educando la confianza y seguridad en sí mismo, mediante la
 
 V.- Promover la formación y estimular la adquisición de hábitos, de ejercer diaria higiene, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva.
 
-VI.- Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión, y (sic)
+VI.- Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión, y
 
 VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
 
@@ -799,7 +797,7 @@ VI.- Estimular el interés por preservar el equilibrio ecológico.
 
 VII.- Promover en el educando actitudes encaminadas a la prevención y conservación de la salud, sin abandonar los conocimientos de la medicina tradicional.
 
-VIII.- Fomentar las actividades y deportes tradicionales, y (sic)
+VIII.- Fomentar las actividades y deportes tradicionales, y
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -923,7 +921,7 @@ VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenido
 
 VII.- Pugnará para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la independencia, soberanía y la solidaridad entre las naciones, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen económico, político y social.
 
-VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y (sic)
+VIII.- Promoverá la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -1085,7 +1083,7 @@ IV.- Formar parte de las asociaciones de padres de familia y de los consejos de 
 
 V.- Colaborar con las autoridades escolares para la superación de los educandos, en los términos del Proyecto Educativo del Estado, así como coadyuvar en el mejoramiento de los planteles escolares.
 
-VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativas, de los aciertos o irregularidades que observen en la prestación del servicio educativo, y (sic)
+VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativas, de los aciertos o irregularidades que observen en la prestación del servicio educativo, y
 
 VII.- Opinar ante las autoridades educativas en relación a las tarifas y demás contraprestaciones que las escuelas particulares fijen.
 
@@ -1103,7 +1101,7 @@ X.- Una vez reconocido su carácter de asociados conforme a esta Ley y su Reglam
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
 
-XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y (sic)
+XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -1263,7 +1261,7 @@ IV.- Sensibilizarán a la comunidad, mediante la divulgación de material que pr
 
 V.- Tomarán nota de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN EN VÍA DE CONSECUENCIA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2014)</small>
 
@@ -1956,3 +1954,13 @@ QUINTO.- A efecto de dar cumplimiento a la obligación de garantizar la calidad 
 SEXTO.- Las autoridades educativas, en el ámbito de sus respectivas competencias, establecerán de forma paulatina y progresiva, conforme a la disponibilidad presupuestaria, un programa de subsidios escolares compensatorios para reducir condiciones de inequidad social en el sistema educativo.
 
 SÉPTIMO.- El Consejo Estatal de Participación Social deberá instalarse dentro de los 180 días naturales siguientes a la entrada en vigor de este Decreto.
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO.- Las reformas a los artículos 14 fracción IV y 28 de esta ley, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 de la presente Ley, reformados a través del Decreto 253 publicado en el Periódico Oficial No. 38, tomo CXIX, Sección I, de fecha 31 de agosto de 2012 y la reforma a los artículos 14 y 28 de este Decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, de tal manera que para el ciclo escolar 2015-2016 deberá estar cubierto el 100 por ciento de los alumnos de 3 grado de preescolar y el 100 por ciento de los alumnos de 1, 2 y 3 grado de primaria. A partir del ciclo escolar 2016-2017, se cubrirá al 100 por ciento a los alumnos de 4, 5 y 6 grado de primaria. Para el ciclo escolar 2017-2018 deberá estar cubierto el idioma inglés en materia permanente y obligatoria en la totalidad del nivel básico del Sistema Educativo Estatal.
+
+TERCERO.- La reforma al artículo 29 de esta ley, relativa a la creación de la unidad administrativa especializada en idioma inglés, y personal humano adscrito a la misma, entrará en vigor a partir del calendario escolar correspondiente al ciclo 2017-2018.
+
+CUARTO.- El Ejecutivo del Estado deberá establecer dentro de sus Proyectos de Presupuestos de Egresos para los próximos ejercicios fiscales, las partidas presupuestales que permitan garantizar la impartición permanente en esta entidad de la educación básica del idioma inglés, acorde a lo previsto en el artículo Segundo transitorio.
