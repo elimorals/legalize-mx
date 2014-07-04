@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-8861
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-16"
-last_updated: "2012-07-16"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-06-30"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 4 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JULIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2012.
 
@@ -1936,3 +1938,13 @@ SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Públ
 TERCERO.- Se abroga el Estatuto Orgánico del Instituto del Fondo Nacional para el Consumo de los Trabajadores, publicado en el Diario Oficial de la Federación el 15 de junio de 2009 y se derogan las disposiciones que se opongan a este Estatuto.
 
 México, D.F., a 30 de junio de 2012.- El Director General del Instituto del Fondo Nacional para el Consumo de los Trabajadores, Gabriel Ramírez Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE JULIO DE 2014.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente en que se apruebe y registre la estructura orgánica del Instituto FONACOT por la Secretaría de la Función Pública.
+
+SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO.- Se abroga el Estatuto Orgánico del Instituto del Fondo Nacional para el Consumo de los Trabajadores, publicado en el Diario Oficial de la Federación el 16 de julio del 2012 y se derogan las disposiciones que se opongan a este Estatuto.
