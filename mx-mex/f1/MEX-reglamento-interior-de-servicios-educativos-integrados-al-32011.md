@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2011-05-12"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -61,9 +61,11 @@ SEIEM es un organismo público descentralizado de carácter estatal, con persona
 
 El Organismo tendrá su domicilio en la ciudad de Toluca de Lerdo, capital del Estado de México y contará para el cumplimiento de su objeto con oficinas e instalaciones educativas en el territorio del Estado.
 
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 5.
 
-SEIEM está sectorizado a la Secretaría de Educación, Cultura y Bienestar Social, siendo esta dependencia responsable, en lo externo, de planear, supervisar, controlar y evaluar su funcionamiento.
+SEIEM está sectorizado a la Secretaría de Educación, siendo esta dependencia responsable, en lo externo, de planear, supervisar, controlar y evaluar su funcionamiento;
 
 ###### Artículo 6.
 
@@ -91,9 +93,13 @@ El Consejo Directivo es el órgano de gobierno de SEIEM, sus determinaciones ser
 
 El Consejo Directivo estará integrado por:
 
-I. Un Presidente, quien será el Secretario de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
-II. Un Vicepresidente, quien será el Secretario de Administración;
+I. Un Presidente, quien será el Secretario de Educación;
+
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+II. Un Vicepresidente, quien será el Secretario de Finanzas;
 
 III. Un Secretario, quien será el Director General de SEIEM;
 
@@ -101,7 +107,9 @@ IV. Un Comisario, quien será el representante de la Secretaría de la Contralor
 
 V. Cuatro vocales, quienes serán:
 
-a) El Secretario de Finanzas y Planeación;
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 2014)</small>
+
+a) El Subsecretario de Planeación y Presupuesto, de la Secretaría de Finanzas;
 
 b) El Director General Jurídico y Consultivo;
 
@@ -129,7 +137,9 @@ III. Aprobar las modificaciones a la estructura orgánica de SEIEM;
 
 IV. Instruir la creación de órganos técnicos de asesoría para el cumplimiento de sus atribuciones y solicitar el apoyo de aquellas instituciones vinculadas con el objeto de SEIEM;
 
-V. Aprobar la propuesta de contenido regional de los planes y programas de estudio a cargo de SEIEM para someterlos a la consideración del Secretario de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+V. Aprobar la propuesta de contenido regional de los planes y programas de estudio a cargo de SEIEM para someterlos a la consideración del Secretario de Educación;
 
 VI. Vigilar el cumplimiento de las disposiciones legales aplicables al Organismo;
 
@@ -167,7 +177,9 @@ VII. Aceptar las donaciones, legados y demás bienes que se otorguen a favor de 
 
 VIII. Someter a la aprobación del Consejo Directivo las propuestas de modificación a la estructura orgánica de SEIEM;
 
-IX. Autorizar los manuales administrativos de SEIEM, de conformidad con las disposiciones establecidas por la Secretaría de Administración;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+IX. Autorizar los manuales administrativos de SEIEM, de conformidad con las disposiciones establecidas por la Secretaría de Finanzas;
 
 X. Promover acciones de modernización administrativa para elevar la calidad de los servicios que presta SEIEM;
 
@@ -197,7 +209,9 @@ I. Coordinación Académica y de Operación Educativa;
 
 II. Coordinación de Administración y Finanzas;
 
-III. Dirección de Planeación Educativa;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+III. Dirección de Planeación y Evaluación;
 
 IV. Dirección de Educación Superior;
 
@@ -269,9 +283,9 @@ XIII. Las demás que les confieran otras disposiciones legales y aquellas que le
 
 Corresponde a la Coordinación Académica y de Operación Educativa:
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
-I. Organizar, operar, supervisar y evaluar los servicios de educación inicial, preescolar, primaria, secundaria, especial, indígena, física, para adultos, de nivel medio superior, en su modalidad abierta y superior para la formación continua y desarrollo profesional del magisterio de SEIEM;
+I. Organizar, supervisar y evaluar los servicios de educación inicial, preescolar, primaria, secundaria, especial, indígena, física, para adultos, de nivel medio superior, en su modalidad abierta y superior para la formación continua y desarrollo profesional del magisterio de SEIEM, así como el registro, control y certificación escolar de este nivel educativo;
 
 II. Proponer disposiciones técnicas y administrativas para la eficiente organización, operación, supervisión y evaluación del servicio educativo que le corresponda y vigilar su cumplimiento;
 
@@ -305,13 +319,21 @@ IV. Dirección de Educación Superior.
 
 Corresponde a la Coordinación de Administración y Finanzas:
 
-I. Proponer al Director General políticas y lineamientos para la administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad en la materia;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
-II. Someter a la consideración del Director General los programas y proyectos para la administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+I. Proponer al Director General políticas y lineamientos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
 
-III. Difundir y vigilar la aplicación de las normas, políticas y lineamientos a los que deben sujetarse las unidades administrativas de SEIEM en materia administrativa y financiera;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
 
-IV. Evaluar en coordinación con la Dirección de Planeación Educativa, los programas y proyectos referentes a la administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+II. Someter a la consideración del Director General los programas y proyectos para la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+III. Difundir y vigilar la aplicación de las normas, políticas y lineamientos a los que deben sujetarse las unidades administrativas de SEIEM en materia de planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas;
+
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+IV. Evaluar los programas y proyectos referentes a la planeación educativa, evaluación institucional, estadística, control escolar, desarrollo y administración de los recursos humanos, materiales y financieros de SEIEM, así como lo relativo a servicios generales, informática, telecomunicaciones e instalaciones educativas, de acuerdo con la normatividad de la materia;
 
 V. Elaborar los presupuestos de ingresos y de egresos de SEIEM, de acuerdo con la normatividad aplicable y someterlos a la consideración del Director General;
 
@@ -331,7 +353,17 @@ XI. Controlar y evaluar las acciones de construcción, rehabilitación, mantenim
 
 XII. Someter a la consideración del Director General, los proyectos de programas de asignación de mobiliario escolar, material de mantenimiento preventivo, reparaciones y construcción que requiera SEIEM; y
 
-XIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+XIII. Supervisar las acciones de planeación, programación, seguimiento y evaluación de la ejecución de los proyectos institucionales;
+
+> <small>(ADICIONADA, G.G. 4 DE JULIO DE 2014)</small>
+
+XIV. Vigilar la recopilación, procesamiento y emisión de la información generada en los procesos de planeación institucional, programación, estadística, evaluación y de control escolar; y
+
+> <small>(ADICIONADA, G.G. 4 DE JULIO DE 2014)</small>
+
+XV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 21.
 
@@ -343,13 +375,19 @@ II. Dirección de Informática y Telecomunicaciones;
 
 III. Dirección de Administración y Desarrollo de Personal; y
 
-IV. Dirección de Recursos Materiales y Financieros.
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+IV. Dirección de Recursos Materiales y Financieros y
+
+> <small>(ADICIONADA, G.G. 4 DE JULIO DE 2014)</small>
+
+V. Dirección de Planeación y Evaluación.
 
 ###### Artículo 22.
 
 Quedan adscritas directamente a la Dirección General:
 
-I. Dirección de Planeación Educativa;
+I. (DEROGADA, G.G. 4 DE JULIO DE 2014)
 
 II. (DEROGADA, G.G. 10 DE AGOSTO DE 2009)
 
@@ -359,9 +397,11 @@ IV. Dirección de Servicios Regionalizados.
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES, DE LA UNIDAD Y DE LA CONTRALORIA INTERNA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 23.
 
-Corresponde a la Dirección de Planeación Educativa:
+Corresponde a la Dirección de Planeación y Evaluación:
 
 I. Elaborar el Programa de Desarrollo Institucional de SEIEM y someterlo a la consideración de la instancia competente;
 
@@ -381,7 +421,9 @@ VIII. Establecer los lineamientos para la acreditación y certificación de estu
 
 IX. Definir las estrategias para la distribución de los libros de texto a cargo de SEIEM y vigilar su cumplimiento;
 
-X. Organizar, dirigir y controlar los procedimientos de registro y certificación escolar en sus diferentes tipos, niveles y modalidades;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+X. Organizar, dirigir y controlar los procedimientos de registro y certificación escolar de los niveles y modalidades de educación básica;
 
 XI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -403,7 +445,9 @@ XVIII. Las demás que le confieran otras disposiciones legales y aquellas que le
 
 Corresponde a la Dirección de Educación Superior:
 
-I. Proporcionar servicios de educación superior en los procesos orientados a la formación inicial; continua y desarrollo profesional del magisterio de SEIEM;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+I. Proporcionar servicios de educación superior en los procesos orientados a la formación inicial, continua y desarrollo profesional del magisterio de SEIEM, así como dirigir y controlar los procedimientos de registro y certificación escolar de los planteles del tipo superior, dependientes de este Organismo;
 
 II. Establecer los lineamientos para mejorar el trabajo académico en las instituciones de educación superior a cargo de SEIEM;
 
@@ -479,7 +523,9 @@ VI. Someter a la consideración del Coordinador Académico y de Operación Educa
 
 VII. Proponer y ejecutar programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
 
-VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, informando de las incidencias a las Direcciones de Planeación Educativa y de Administración y Desarrollo de Personal;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, informando de las incidencias a las direcciones de Planeación y Evaluación y de Administración y Desarrollo de Personal;
 
 IX. Supervisar la adecuada operación de los programas de cómputo y de extensión y vinculación educativa de la Dirección; y
 
@@ -509,7 +555,9 @@ VI. Someter a la consideración del Coordinador Académico y de Operación Educa
 
 VII. Proponer y ejecutar los programas de actualización, capacitación y superación profesional del personal académico adscrito a la Dirección;
 
-VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, informando de las incidencias a las Direcciones de Planeación Educativa y de Administración y Desarrollo de Personal;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+VIII. Actualizar el catálogo de centros de trabajo bajo su responsabilidad, informando de las incidencias a las direcciones de Planeación y Evaluación y de Administración y Desarrollo de Personal;
 
 IX. Supervisar la adecuada operación de los programas de cómputo y de extensión y vinculación educativa de la Dirección; y
 
@@ -567,7 +615,9 @@ II. Coordinar y tramitar la regularización y el suministro de energía eléctri
 
 III. Formular, coordinar y ejecutar los programas de asignación de mobiliario y los correspondientes a su mantenimiento y reparación;
 
-IV. Coordinar con el Comité de Instalaciones Educativas del Estado de México, el programa de obras de SEIEM, de acuerdo con las normas y lineamientos técnicos aplicables;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+IV. Coordinar con las instancias competentes, el programa de obras de SEIEM, de acuerdo con las normas y lineamientos técnicos aplicables;
 
 V. Supervisar, controlar y evaluar la infraestructura educativa de SEIEM, con apego a la normatividad federal y estatal aplicable;
 
@@ -627,7 +677,9 @@ Corresponde a la Dirección de Recursos Materiales y Financieros:
 
 I. Suministrar los bienes y proporcionar los servicios generales que requieran las unidades administrativas de SEIEM para el cumplimiento de sus funciones;
 
-II. Integrar, en coordinación con la Dirección de Planeación Educativa, el anteproyecto de presupuesto de SEIEM y someterlo a la autorización del Coordinador de Administración y Finanzas;
+> <small>(REFORMADA, G.G. 4 DE JULIO DE 2014)</small>
+
+II. Integrar, en coordinación con la Dirección de Planeación y Evaluación, el anteproyecto de presupuesto de SEIEM y someterlo a la autorización de la Coordinación de Administración y Finanzas;
 
 III. Aplicar los mecanismos y lineamientos para el control y registro del ejercicio del presupuesto y elaborar los informes correspondientes;
 
@@ -773,7 +825,7 @@ DIRECTOR GENERAL DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO Y SECRET
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 G.G. 20 DE NOVIEMBRE DE 2007.
 
@@ -818,3 +870,15 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Los asuntos, trámites y procedimientos relacionados con los programas de becas que venía atendiendo la Coordinación Académica y de Operación Educativa, antes de la entrada en vigor del presente Acuerdo, serán atendidos hasta su conclusión por la Coordinación de Administración y Finanzas y la Dirección de Administración y Desarrollo de Personal, en términos de las facultades que les asigna el presente ordenamiento.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 4 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto en este Acuerdo.
+
+CUARTO.- Los asuntos y procedimientos relacionados con la certificación escolar del tipo de educación superior que se encuentren en trámite en la Dirección de Planeación y Evaluación, a la entrada en vigor de este Acuerdo, los concluirá esta Unidad Administrativa.
+
+QUINTO.- Los archivos correspondientes al registro y control escolar del tipo educativo de educación superior que están en posesión de la Dirección de Planeación y Evaluación, transfiéranse a la Dirección de Educación Superior, en un lapso no mayor a quince días naturales, mediante acta de entrega-recepción.
