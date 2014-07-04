@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2014-06-29"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1297,7 +1297,7 @@ III.- El agente haya realizado el hecho quebrantando la confianza o seguridad qu
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados, y (sic)
+IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados, y
 
 V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias atenuantes señaladas en este Código, en agravio de su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de ese parentesco o relación.
 
@@ -1505,7 +1505,7 @@ II.- Que el agente se ostente como autoridad sin serlo;
 
 III.- Que se lleve a cabo por dos o más personas;
 
-IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y (sic)
+IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -1997,7 +1997,7 @@ III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descr
 
 ###### ARTICULO 190.
 
-Se aplicará prisión de 6 meses a 4 años Y (sic) de 20 a 500 días multa a quien:
+Se aplicará prisión de 6 meses a 4 años Y de 20 a 500 días multa a quien:
 
 I.- Altere o elimine las marcas de animales vivos, cueros o pieles;
 
@@ -2033,7 +2033,7 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 ###### ARTICULO 193.
 
-Al que engañado a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
+Al que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2343,13 +2343,17 @@ Si el agente devuelve al menor o a la persona que no tenga capacidad para compre
 
 ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
 
-Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o personas con discapacidad, las penas previstas en este artículo se incrementarán hasta en una tercera parte.
+Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o personas con discapacidad, las penas previstas en este artículo se incrementarán hasta en una mitad más.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
 ARTICULO 217 TER.- Se considera también constitutivo de violencia familiar y se sancionará con pena de uno a cuatro de prisión, cuando se haga uso de los medios señalados en el artículo anterior, en contra de la persona con la que se encuentre unida fuera de matrimonio llevando relación de pareja o de cualquier otra naturaleza, que implique la sujeción del pasivo a la custodia, protección o cuidado del activo, aun cuando los sujetos no convivan en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2014)</small>
+
+En caso de reincidencia de las conductas señaladas en este artículo y el anterior las penas previstas se incrementarán, adicionalmente, en una tercera parte.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -2405,7 +2409,7 @@ Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la exi
 
 ###### ARTICULO 217.
 
-A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
+A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -3083,7 +3087,7 @@ VII.- Autorice o contrate a quien se encuentre inhabilitado por resolución firm
 
 VIII.- Otorgue un nombramiento o de cualquier modo autorice a alguien para el desempeño de un empleo, cargo o comisión sin que el designado satisfaga los requisitos exigidos por la Ley.
 
-IX.- Otorgue cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla, o (sic)
+IX.- Otorgue cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla, o
 
 X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo impedimento legal para hacerlo.
 
@@ -3713,7 +3717,7 @@ Esta Ley entrará en vigor al día siguiente al de su publicación en el Periód
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente.
+Se derogan todas las disposiciones que se opongan a la presente.
 
 P.O. 2 DE ABRIL DE 1999
 
@@ -4126,3 +4130,9 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 29 DE JUNIO DE 2014.
 
 Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 4 DE JULIO DE 2014.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
