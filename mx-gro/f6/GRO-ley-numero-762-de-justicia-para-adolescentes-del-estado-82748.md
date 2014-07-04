@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-762-de-justicia-para-adolescentes-del-estado-82748"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-23"
-last_updated: "2012-02-29"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY NÚMERO 762 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY NÚMERO 478 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS SESENTA DÍAS NATURALES POSTERIORES A LA DECLARATORIA QUE EMITA EL PODER LEGISLATIVO PREVIA SOLICITUD DE LA AUTORIDAD ENCARGADA DE LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 23 de agosto de 2011.
 
@@ -33,7 +35,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8° fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -397,7 +399,7 @@ b) En caso de muerte, bajo el siguiente orden de prelación, al cónyuge, concub
 
 c) A las asociaciones, fundaciones y otros entes, en los delitos que afectan intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses; y
 
-e (sic)) A las comunidades indígenas, los hechos punibles que impliquen discriminación o genocidio respecto de los miembros de la etnia o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
+e) (sic) A las comunidades indígenas, los hechos punibles que impliquen discriminación o genocidio respecto de los miembros de la etnia o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
 
 ###### Artículo 33.
 
@@ -715,7 +717,7 @@ Son delitos de acción privada:
 
 a) Los delitos culposos contenidos en los artículos 60 y 60-A del Código Penal del Estado;
 
-b) Las lesiones perseguibIes por querella.
+b) Las lesiones perseguibles por querella.
 
 ###### Artículo 64.
 
@@ -1329,7 +1331,7 @@ e) La expresión de los preceptos legales aplicables;
 
 f) Los medios de prueba que piensa producir en el juicio, así como la prueba anticipada que se haya desahogado en la fase de investigación;
 
-h (sic) ) El monto estimado de la reparación del daño y
+h) (sic) El monto estimado de la reparación del daño y
 
 i) La sanción aplicable
 
@@ -1847,7 +1849,7 @@ a) Ofrecer rehabilitación y asistencia social a los menores de doce años a qui
 
 b) Ejecutar las medidas cautelares que el Juez haya ordenado en contra del adolescente, durante las etapas de investigación o de juicio oral.
 
-b (sic)) Ejecutar, y dar seguimiento a las medidas sancionadoras que sean impuestas a adolescentes infractores mayores de doce años y menores de catorce años por los Jueces de Juicio Oral para Adolescentes.
+b) (sic) Ejecutar, y dar seguimiento a las medidas sancionadoras que sean impuestas a adolescentes infractores mayores de doce años y menores de catorce años por los Jueces de Juicio Oral para Adolescentes.
 
 ###### Artículo 170.
 
@@ -2762,3 +2764,17 @@ El Ejecutivo del Estado, atendiendo lo dispuesto en los artículos 21 y 60 de la
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO. La presente ley entrará en vigor a los sesenta días naturales posteriores a la declaratoria que emita este Poder Legislativo previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatorio en el Estado.
+
+SEGUNDO. A la entrada en vigencia del presente ordenamiento jurídico queda abrogada la Ley número 762 de Justicia para Adolescentes del Estado Libre y Soberano de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 67 Alcance I, de fecha 23 de agosto de 2011.
+
+TERCERO. Los adolescentes sujetos a procedimiento por alguna infracción penal o que se encuentren cumpliendo una medida de tratamiento de conformidad a la ley que se abroga, se acogerán al régimen previsto en la presente ley en todo aquello que les favorezca.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+QUINTO. A la entrada en vigor de esta ley, aquellos asuntos que aún se encuentren en trámite conforme a la Ley de Tutela y de Asistencia Social para Menores Infractores del Estado de Guerrero, concluirán de acuerdo con las disposiciones de ésta.
+
+SEXTO. En un plazo de ciento ochenta días, después de la entrada en vigor de la presente ley, el Ejecutivo del Estado expedirá los reglamentos de acuerdo a las disposiciones que se desprenden de la misma.
