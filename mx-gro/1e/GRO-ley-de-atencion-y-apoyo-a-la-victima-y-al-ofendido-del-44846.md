@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-44846"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2010-12-10"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE ATENCION Y APOYO A LA VICTIMA Y AL OFENDIDO DEL DELITO PARA EL ESTADO DE GUERRERO NUMERO 368
 
-LEY DE ATENCION Y APOYO A LA VICTIMA Y AL OFENDIDO DEL DELITO PARA EL ESTADO DE GUERRERO NUMERO 368
+LEY DE ATENCIÓN Y APOYO A LA VICTIMA Y AL OFENDIDO DEL DELITO PARA EL ESTADO DE GUERRERO NUMERO 368
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY NÚMERO 479 DE ATENCIÓN, APOYO Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE GUERRERO PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -414,3 +416,25 @@ P.O. 10 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a los sesenta días naturales posteriores a la declaratoria que emita este Poder Legislativo, previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatorio en el Estado.
+
+SEGUNDO. Se abroga la Ley de Atención y Apoyo a la Victima y Ofendido del Delito para el Estado de Guerrero Número 368, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 94, de fecha 16 de noviembre de 2004.
+
+TERCERO. El titular del Poder Ejecutivo Estatal expedirá el Reglamento de la presente Ley dentro de los sesenta días siguientes a su entrada en vigor.
+
+CUARTO. El Consejo Estatal para la Atención, Apoyo y Protección a Víctimas u Ofendidos del Delito se instalará, a más tardar, a los treinta días de que entre en vigor la presente Ley.
+
+QUINTO. La Fiscalía Estatal elaborará, dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, el Programa de Atención, Apoyo y Protección a Víctimas u Ofendidos del Delito.
+
+SEXTO. La Fiscalía Estatal instalará el Registro Estatal de Víctimas u Ofendidos dentro de los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los servicios de asesoría jurídica a las víctimas u ofendidos deberán constituirse dentro del término señalado en el artículo quinto transitorio.
+
+OCTAVO. La constitución y operación del Fondo Estatal de Atención y Apoyo a Víctimas u Ofendidos del Delito, deberá efectuarse dentro de los treinta días posteriores a la entrada en vigor de esta Ley.
+
+NOVENO. El Ejecutivo del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos para el ejercicio fiscal 2015.
+
+DÉCIMO. En caso de que existan ordenamientos jurídicos que se opongan a la presente Ley, se aplicará la disposición que más beneficie a la víctima y al ofendido del delito.
