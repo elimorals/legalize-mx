@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ordenamiento-civico-del-estado-de-quintana-roo-101283"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2014-05-02"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 4 DE JULIO DE 2014.
 
 Ley publicada en el Número 43 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 2 de mayo de 2014.
 
@@ -233,9 +233,11 @@ XV. Ejercer sus derechos sin perturbar el orden, la paz y tranquilidad pública,
 
 XVI. Colaborar con las autoridades cuando éstas lo soliciten y en situaciones de emergencia.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 15.
 
-Tienen el derecho de utilizar las vías públicas quienes habitan o transitan en el Estado, por lo que los particulares o autoridades no podrán limitar o restringir el tránsito de peatones y vehículos, salvo en los casos señalados en la presente ley y demás ordenamientos.
+Tienen el derecho de utilizar las vías públicas quienes habitan o transitan en el Estado, por lo que los particulares o autoridades no podrán limitar o restringir el tránsito de peatones y vehículos.
 
 ###### Artículo 16.
 
@@ -251,9 +253,11 @@ Las personas que realicen manifestaciones o marchas, podrán hacer uso de las v�
 
 Si durante las manifestaciones, marchas o plantones se altera el orden o paz públicos, o se impide, entorpece u obstaculice la prestación de un servicio público, o se produjera actos de violencia, la Administración Pública, según su competencia, tomará las medidas necesarias para garantizar el orden, la paz y la prestación de servicios públicos.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+
 ###### Artículo 19.
 
-Cuando las manifestaciones tengan lugar en calles o avenidas, el paso de los participantes respetará el uso de la mitad de los carriles para el desplazamiento de servicios de emergencia y terceros ajenos a la misma y, cuando la infraestructura lo haga posible, se deberá privilegiar el uso de los carriles laterales.
+Cuando las manifestaciones tengan lugar en calles o avenidas, el paso de los participantes respetará el desplazamiento de servicios de emergencia y terceros ajenos a la misma.
 
 ###### Artículo 20.
 
@@ -460,3 +464,9 @@ EL SECRETARIO DE GOBIERNO
 DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 4 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
