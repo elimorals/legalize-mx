@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2013-del-pleno-del-consejo-de-la-95368"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-08-13"
-last_updated: "2013-08-13"
+last_updated: "2014-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95368&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-08-05"
 
 ACUERDO GENERAL 20/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ATENCIÓN DE LAS SOLICITUDES DE CONCENTRACIÓN DE EXPEDIENTES EN LOS ÓRGANOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JULIO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de agosto de 2013.
 
@@ -53,11 +53,17 @@ SEGUNDO. Las respuestas se realizarán inicialmente atendiendo a las providencia
 
 a) La solicitud de concentración de asuntos es exclusiva de la materia de amparo, sólo se atenderá por una ocasión y no aplicará en asuntos ya resueltos, listados o con audiencia constitucional celebrada. Los juzgados de Distrito o tribunales de Circuito que tramiten los asuntos a concentrar, certificarán que los asuntos no se encuentran en los supuestos citados.
 
-b) La solicitud debe realizarse por escrito, dirigida a la Comisión de Creación de Nuevos Órganos y presentarse ante el órgano judicial del conocimiento a más tardar tres días hábiles antes de la celebración de la audiencia constitucional o que el asunto sea listado para resolución.
+> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2014)</small>
 
-c) Presentada la solicitud, el órgano jurisdiccional suspenderá el procedimiento y dará aviso al diverso órgano con el que se pretende concentrar, mediante fax o correo electrónico, a fin de que también lo suspenda. Resuelta la solicitud de concentración se reanudará el procedimiento.
+b) La solicitud debe realizarse por escrito, dirigida a la Comisión de Creación de Nuevos Órganos y presentarse, indistintamente en alguno de los juzgados o tribunales en los que se pretenda la concentración, siendo innecesario se haga en los demás órganos judiciales, a más tardar tres días hábiles antes de la celebración de la audiencia constitucional o que el asunto sea listado para resolución, respectivamente.
 
-d) La autoridad ante quien se presente la solicitud de concentración deberá recabar de su juzgado y del diverso, la documentación soporte de la solicitud presentada y deberá enviarla a la comisión de Creación de Nuevos Órganos.
+> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2014)</small>
+
+c) Presentada la solicitud, el órgano jurisdiccional deberá dar respuesta a la misma, en cumplimiento al Principio de Petición que establece el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos, además de suspender el procedimiento y dar aviso al órgano con el que se pretende concentrar, mediante fax o correo electrónico, a fin de que también lo suspenda, en caso contrario, el solicitante lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos, para que determine lo conducente.
+
+> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2014)</small>
+
+d) La autoridad ante quien se presente la solicitud de concentración deberá recabar de su juzgado y del diverso, la documentación soporte de la solicitud presentada y deberá enviarla a la comisión de Creación de Nuevos Órganos para que determine el órgano judicial que deberá concentrar los expedientes materia de la misma.
 
 e) Las partes que refiere el artículo 5 de la Nueva Ley de Amparo deberán ratificar ante la presencia judicial federal del conocimiento la solicitud de concentración, a fin de dar certeza a la misma.
 
@@ -77,6 +83,12 @@ TERCERO. Para la procedencia de las solicitudes de concentración son necesarios
 
 CUARTO. La Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal está facultada para emitir las reglas, criterios y/o circulares necesarias para la atención de las solicitudes de concentración y su difusión, a través de la página electrónica de la Secretaria Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, así como para interpretar y resolver todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente acuerdo.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JULIO DE 2014)</small>
+
+QUINTO. En la concentración de asuntos se atenderá lo dispuesto por el Capítulo V, Sección Primera de la Ley de Amparo, que refiere a las reglas de competencia; el Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; la legislación de la materia de que se trate y la jurisprudencia emitida por la Suprema Corte de Justicia de la Nación.
+
+Los jueces de Distrito ante quienes se presenten las solicitudes de concentración deberán, inicialmente, opinar respecto de la viabilidad de la concentración, atendiendo a los supuestos de competencia.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
@@ -84,3 +96,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la atención de las solicitudes de concentración de expedientes en los órganos judiciales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diecinueve de junio de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a cinco de agosto de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE JULIO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
