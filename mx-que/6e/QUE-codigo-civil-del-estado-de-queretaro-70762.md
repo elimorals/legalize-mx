@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2014-03-20"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -765,7 +765,7 @@ IV. En su caso, copia certificada del acta de divorcio o de defunción;
 
 V. Un certificado suscrito por un médico legalmente autorizado para ejercer la profesión, que asegure que los pretendientes no padecen enfermedad venérea, infecto-contagiosa, crónica o incurable que sean hereditarias;
 
-VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y (sic)
+VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y
 
 VII. Copia de la dispensa de impedimento, si los hubo.
 
@@ -2079,7 +2079,7 @@ II. Cuando el alimentista deja de necesitar los alimentos;
 
 III. En caso de injuria, falta o daños graves inferidos por el alimentista contra el que debe prestarlos, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad;
 
-IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y (sic)
+IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas, salvo que se trate de menores cuyo deudor alimentario sea el padre o la madre o quien ejerza la patria potestad; y
 
 V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
 
@@ -4275,7 +4275,9 @@ El menor, podrá ser escuchado por sí o a través de su representante. La Procu
 
 I. Representación de menores o incapaces, en cuestiones relativas a alimentos, divorcio, restitución de menores, tutela, custodia, patria potestad y sucesiones testamentarias;
 
-II. Fingir (sic) como tutor en los casos de ausencia de éste o cuando no se hubiere designado; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
+
+II. Fungir como tutor en los casos de ausencia de éste o cuando no se hubiere designado; y
 
 III. En los procedimientos de adopción, en tanto no se autoriza la misma, será representante del menor o incapaz.
 
@@ -10151,7 +10153,7 @@ Si el que paga ignoraba, cuando lo hizo, la existencia del plazo, tendrá derech
 
 ###### Artículo 1844.
 
-El plazo se presume establecido en favor del deudor, a menos que resulte, de la estipulación y de las circunstancias, que ha sido establecido en favor del acreedor o de las dos partes.
+El plazo se presume establecido en favor del deudor, a menos que resulte, de la estipulación y de las circunstancias, que ha sido establecido a favor del acreedor o de las dos partes.
 
 ###### Artículo 1845.
 
@@ -15826,3 +15828,9 @@ Artículo Tercero. El titular del Poder Ejecutivo del Estado promoverá las modi
 Artículo Cuarto. La Procuraduría General de Justicia y el Poder Judicial del Estado, ambos del Estado de Querétaro, dentro los sesenta días naturales siguientes al inicio de vigencia de la presente Ley, proporcionarán la capacitación técnica respectiva a los Jueces, Agentes del Ministerio Público y personal al que corresponda conocer de los procedimientos de extinción de dominio.
 
 Asimismo, el titular del Poder Ejecutivo del Estado, en el mismo plazo referido en el párrafo anterior, deberá proporcionar la capacitación técnica al personal de su adscripción que participe en los procedimientos de extinción de dominio.
+
+P.O. 4 DE JULIO DE 2014.
+
+Artículo Primero. La Presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
