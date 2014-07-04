@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2011-08-26"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -117,9 +117,7 @@ Los Vocales serán designados y removidos libremente por el Gobernador del Estad
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-###### ARTICULO 7 Bis.
-
-El patrimonio de la Comisión Estatal se formará con:
+ARTICULO 7 BIS.- El patrimonio de la Comisión Estatal se formará con:
 
 a).- Los subsidios, donaciones y liberalidades que reciba, y los bienes muebles e inmuebles que adquiera por cualquier título legal; y
 
@@ -137,7 +135,7 @@ El cargo del integrante del Consejo Directivo no será retribuido con sueldo o e
 
 El Consejo Directivo funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente o quien haga sus veces. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 10.
 
@@ -183,7 +181,7 @@ X.- En coordinación con las dependencias competentes del Gobierno del Estado, p
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
 
-X Bis.- Participar con las Juntas en la determinación de las condiciones particulares de descargas domiciliarias o determinarlas a solicitud de las mismas. A falta de éstas, serán las que establezcan la Comisión Nacional del Agua y las Normas Oficiales Mexicanas en materia de protección ambiental, de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca de la Federación;
+X BIS.- Participar con las Juntas en la determinación de las condiciones particulares de descargas domiciliarias o determinarlas a solicitud de las mismas. A falta de éstas, serán las que establezcan la Comisión Nacional del Agua y las Normas Oficiales Mexicanas en materia de protección ambiental, de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca de la Federación;
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -209,7 +207,7 @@ XV.- Solicitar a las autoridades competentes, expropiaciones, ocupaciones tempor
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XV Bis.- Apoyar, a solicitud de las Juntas, en la elaboración de convocatorias, términos de referencia, contratos, apertura de propuestas y dictámenes de las licitaciones de obra pública de agua potable, alcantarillado y saneamiento en el Estado y supervisar dichas obras;
+XV BIS.- Apoyar, a solicitud de las Juntas, en la elaboración de convocatorias, términos de referencia, contratos, apertura de propuestas y dictámenes de las licitaciones de obra pública de agua potable, alcantarillado y saneamiento en el Estado y supervisar dichas obras;
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -221,9 +219,7 @@ XVII.- Conocer de todos los asuntos que en forma general o específica interesen
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
-###### ARTICULO 10 Bis.
-
-Serán facultades del Consejo Directivo:
+ARTICULO 10 BIS.- Serán facultades del Consejo Directivo:
 
 I.- Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios para el cumplimiento de las funciones que correspondan a la Comisión Estatal;
 
@@ -315,9 +311,9 @@ Las Juntas tendrán las siguientes funciones y atribuciones:
 
 I.- Administrar, operar y mantener los sistemas de agua potable, alcantarillado y saneamiento de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
 
-II.- Facturar y recaudar el importe de los servicios conforme a las tarifas y cuotas en vigor, así como los adeudos generados por el incumplimiento del pago oportuno;
+II.- Facturar y recaudar el importe de los servicios conforme a las tarifas y cuotas en vigor, así como los adeudos generados por el incumplimiento de los pagos oportunos; mismos que tendrán el carácter de créditos fiscales para efectos de la presente Ley;
 
 III.- Tener la administración general de los bienes muebles e inmuebles de su propiedad;
 
@@ -383,13 +379,13 @@ XXIII.- Determinar las condiciones particulares de descarga domiciliaria al sist
 
 XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
 
 XXV. Sustituir el abastecimiento de agua potable por agua cruda o residual tratada, a los usuarios dedicados a la industria de la construcción, así como aquellos consumidores cuyos procesos productivos así lo permitan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA [N. DE REPUBLICADA], P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -415,13 +411,15 @@ IV.- Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios
 
 V.- Aprobar previamente los convenios y contratos que deba suscribir el Gerente General;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2014)</small>
 
-VI.- Examinar y aprobar los estados financieros, los balances y los informes, generales y especiales, que deba prestar el Gerente General; y
+VI.- Aprobar los programas de condonación de multas y recargos derivados del incumplimiento del pago oportuno de las tarifas y cuotas que propongan los Gerentes Generales de las Juntas;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
 
-VII.- Las demás que sean congruentes con las funciones y atribuciones de los Organismos.
+VII.- Examinar y aprobar los estados financieros, los balances y los informes generales y especiales, que deba prestar el Gerente General; y
+
+VIII.- Las demás que sean congruentes con las funciones y atribuciones de los Organismos.
 
 ###### ARTICULO 18.
 
@@ -449,13 +447,15 @@ VI.- Someter a la consideración y aprobación del Consejo Directivo que corresp
 
 VII.- Formular los programas de trabajo y operación, así como los estados financieros, balances e informes generales y especiales, para someterlos a la consideración y aprobación de los Consejos Directivos; y
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2014)</small>
 
-VIII.- Formular los proyectos de tarifas y cuotas para el cobro de los servicios y someterlos a la consideración del Consejo Directivo respectivo; y
+VIII.- Proponer al Consejo, en su caso, el programa anual de descuentos en los términos que establece el artículo 51 Bis de esta Ley;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2014)</small>
 
-IX.- Las demás que les señale su Consejo Directivo y las disposiciones aplicables.
+IX.- Formular los proyectos de tarifas y cuotas para el cobro de los servicios y someterlos a la consideración del Consejo Directivo respectivo; y
+
+X.- Las demás que les señale su Consejo Directivo y las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
@@ -489,11 +489,11 @@ Las obras destinadas al servicio público de abastecimiento de agua a los centro
 
 Las Comisiones Municipales de Desarrollo de Centros Poblados y las dependencias encargadas de las obras públicas en cada municipio, deberán comunicar por escrito y con la anticipación debida a la Junta correspondiente, acerca de todo lo relacionado con sus programas de pavimentación y regeneración de calles y banquetas, con el objeto de coordinar los trabajos de introducción y rehabilitación de las redes de agua potable, alcantarillado y saneamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 1998)</small>
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 23.
 
@@ -739,6 +739,12 @@ Los usuarios que no cubran las cuotas del servicio dentro de los plazos señalad
 
 Será causa de limitación de los servicios el que los usuarios dejen de pagar uno o más meses o bimestres conforme al sistema de cobro establecido.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2014)</small>
+
+ARTICULO 51 BIS.- Las Juntas de Agua Potable y Alcantarillado de los municipios del Estado de Sinaloa, podrán realizar la condonación de multas y recargos de carácter general en un ejercicio fiscal, hasta el 100% cuando se conceda en un periodo de treinta días y del 50% por los siguientes treinta días.
+
+En casos particulares, podrán condonar multas y recargos hasta el 50% cuando se compruebe que la falta de pago se motivó por penuria económica de los contribuyentes.
+
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 52.
@@ -897,13 +903,11 @@ En vista de la inspección a que se refiere el artículo 75, las Juntas resolver
 
 En caso de que la descarga de alcantarillado se haya destruido intencionalmente o por causas imputables al usuario, poseedor o propietario del inmueble en que se halle instalada, éste deberá cubrir el precio de la reparación, de acuerdo con los costos vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
-###### Artículo 79 Bis.
-
-Es de interés público la promoción y ejecución de las medidas y acciones necesarias para cuidar el agua.
+ARTICULO 79 BIS. Es de interés público la promoción y ejecución de las medidas y acciones necesarias para cuidar el agua.
 
 Dada la importancia del agua, es deber de todo usuario utilizarla adecuada y racionalmente, por lo tanto, debido al uso irracional del vital líquido ante la falta de cultura del cuidado del agua, con el objeto de hacer más racional su consumo, queda prohibido al usuario el lavado de pisos, banquetas y automóviles a "chorro de agua".
 
@@ -945,7 +949,7 @@ XIII.- El que se niegue a proporcionar sin causa justificada, los informes que s
 
 XIV.- El que emplee mecanismos para succionar agua de las tuberías de distribución o con esta finalidad lleve a cabo trabajos o realice actos sin autorización de la Junta respectiva;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -961,19 +965,19 @@ XVII.- Los usuarios industriales, comerciales o públicos que dejen de pagar los
 
 XVIII.- Los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2011)</small>
 
 XIX. Los usuarios que teniendo como actividad la industria de la construcción, utilicen la red de agua potable en el ejercicio de su actividad en lugar de utilizar el agua cruda o tratada que deberá ser suministrada por el propio organismo público descentralizado operador del servicio; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2011)</small>
 
 XX. El usuario que se niegue a reparar alguna fuga de agua que se localice en su predio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -981,7 +985,7 @@ Para efectos de la fracción XV, de este artículo, se entenderá como desperdic
 
 ### CAPITULO OCTAVO. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 1987)</small>
 
 ###### ARTICULO 81.
 
@@ -1009,13 +1013,13 @@ Los infractores a que se refiere las fracciones VI, VII, VIII y IX del artículo
 
 También serán sancionados con la interrupción de los servicios, los infractores a que se refiere la fracción XVII del artículo 80, cuando se trate de usuarios industriales, comerciales o públicos a que se refiere el artículo 4 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 Los usuarios referidos en la fracción XIX, del artículo 80 de esta ley, serán sancionados con multa de 500 a 1000 veces el salario mínimo general vigente en la zona respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -1035,15 +1039,15 @@ III. Si mediante una inspección ocular resultare que el desperdicio de agua per
 
 Las infracciones se calificarán por las Juntas tomando en consideración el carácter del servicio, la gravedad de la falta, los daños causados y las condiciones económicas del infractor. En caso, de que se trate de una fuga de agua domiciliaria, se le apercibirá para que la corrija inmediatamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO PRIMERO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO PRIMERO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 85.
 
 En los casos de las infracciones señaladas en las fracciones II, III y IV del artículo 80, además de las sanciones que se establecen en el artículo 82, los propietarios o poseedores de los predios o fincas urbanas estarán obligados a:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -1059,7 +1063,7 @@ Los propietarios o poseedores de predios, giros o establecimientos, en donde exi
 
 Además de la sanción que proceda de acuerdo con lo estipulado en el artículo 83, en relación con la fracción VI del artículo 80, el infractor estará obligado al pago del importe de la reparación del medidor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -1075,13 +1079,13 @@ Tratándose de giros mercantiles o industriales, se podrá solicitar de las auto
 
 El inspector que descubra alguna infracción, levantará acta circunstanciada para consignar los hechos u omisiones en que se hubiere incurrido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 Con independencia de lo anterior, la denuncia ciudadana constituirá otra medida que tendrán las Juntas Municipales para detectar el uso irresponsable del vital líquido, por lo tanto, toda persona que tenga conocimiento del desperdicio de agua en cualquiera de sus formas, tienen la obligación de comunicar al respectivo Organismo Operador de Agua Potable, Alcantarillado y Saneamiento, para que éste realice las acciones correctivas que sean necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -1217,7 +1221,7 @@ El Secretario de Obras Públicas
 
 ARQ. JAIME SEVILLA POYASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE OCTUBRE DE 1987.
 
@@ -1286,3 +1290,7 @@ Artículo Segundo.- En tanto el Congreso del Estado de Sinaloa aprueba las tarif
 P.O. 26 DE AGOSTO DE 2011.
 
 Artículo Único. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE JULIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
