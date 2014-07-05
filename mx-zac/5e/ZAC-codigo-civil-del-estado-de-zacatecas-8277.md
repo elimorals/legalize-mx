@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2013-05-18"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -61,7 +61,7 @@ En el libro tercero, que reglamenta los bienes y derechos reales, se proponen un
 
 Se precisa el concepto de la posesión y se evidencian sus elementos, tanto el material llamado corpus como el psicológico denominado animus, pero se da la posibilidad de separarlos jurídicamente y se precisa que pueden ser objeto de posesión tanto los bienes materiales como los inmateriales e incluso los derechos de carácter extrapatrimonial. Se propone cambiar el concepto "causa de la posesión" por "el hecho o el acto jurídico" generador de la misma.
 
-El título relativo al derecho real de servidumbre tuvo modificaciones importantes, empezando por su concepto en el que se fijan claramente los sujetos activo y pasivo; con la relación jurídica se definieron las servidumbre(sic) positivas o negativas, y se aclaró que las servidumbres nunca se presumen sino que exclusivamente emanan de la ley o de la voluntad de los interesados; la propiedad se entiende libre, y ha de ser el que pretenda tener el derecho de servidumbre quien debe probar su existencia; se establecen las servidumbres en vista al interés público o privado. En relación a la servidumbre legal de desagüe se modificó por el de servidumbres legales de aguas en las que se reglamentan específica y separadamente la de desagüe, la de captación de aguas, la de estribo de presa, la de sacar agua, la de abrevadero y la de acueducto.
+El título relativo al derecho real de servidumbre tuvo modificaciones importantes, empezando por su concepto en el que se fijan claramente los sujetos activo y pasivo; con la relación jurídica se definieron las servidumbre (sic) positivas o negativas, y se aclaró que las servidumbres nunca se presumen sino que exclusivamente emanan de la ley o de la voluntad de los interesados; la propiedad se entiende libre, y ha de ser el que pretenda tener el derecho de servidumbre quien debe probar su existencia; se establecen las servidumbres en vista al interés público o privado. En relación a la servidumbre legal de desagüe se modificó por el de servidumbres legales de aguas en las que se reglamentan específica y separadamente la de desagüe, la de captación de aguas, la de estribo de presa, la de sacar agua, la de abrevadero y la de acueducto.
 
 El capítulo quinto del libro tercero se recorre al cuarto que reglamenta las servidumbres legales de paso se define ésta y se fijan las indemnizaciones que debe cumplir el titular del predio sirviente al del dominante. Se prevé la situación de predios enclavados a los que se concede un paso menor en amplitud del que es necesario para la explotación del inmueble.
 
@@ -481,7 +481,7 @@ El derecho que este artículo concede deberá ejercitarse precisamente dentro de
 
 79.- Si el bien hallado fuere de los que no pueden conservarse, la autoridad dispondrá desde luego su venta y mandará depositar el precio. Lo mismo se hará cuando la conservación del bien pueda ocasionar gastos que no estén en relación con su valor.
 
-80.- Si durante el plazo designado se presentare alguno reclando(sic) el bien, la autoridad municipal remitirá todos los datos del caso al Juez competente, según el valor del bien, ante quien el reclamante probará su acción, interviniendo como parte demandada el Ministerio Público.
+80.- Si durante el plazo designado se presentare alguno reclando (sic) el bien, la autoridad municipal remitirá todos los datos del caso al Juez competente, según el valor del bien, ante quien el reclamante probará su acción, interviniendo como parte demandada el Ministerio Público.
 
 81.- Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclama la propiedad del bien, éste se venderá, dándose una cuarta parte del precio al que la halló y destinándose las otras tres cuartas partes al establecimiento de beneficencia que designe el Gobierno. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
 
@@ -1723,7 +1723,7 @@ Por el solo lapso de los treinta días, se pierde el derecho del tanto. Si la ve
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
-DE LOS TESTAMENTOS EN GENERAL (SIC)
+DE LOS TESTAMENTOS EN GENERAL
 
 501.- Testamento es un acto jurídico solemne, unilateral, personalísimo, revocable y libre por el cual una persona capaz dispone de sus bienes, declara o cumple deberes para después de su muerte.
 
@@ -2099,7 +2099,7 @@ V.- Los demás a prorrata.
 
 641.- Si el testador ignoraba que el bien fuese propio del heredero o de un legatario, será nulo el legado.
 
-642.- El legado que consiste en la devolución del bien recibido en prenda o en el título constitutivo de un(sic) hipoteca, sólo extingue el derecho de prenda o hipoteca pero no la deuda, a no ser que así se prevenga expresamente.
+642.- El legado que consiste en la devolución del bien recibido en prenda o en el título constitutivo de un (sic) hipoteca, sólo extingue el derecho de prenda o hipoteca pero no la deuda, a no ser que así se prevenga expresamente.
 
 643.- Lo dispuesto en el artículo que precede, se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.
 
@@ -2109,7 +2109,7 @@ Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legata
 
 Cualquiera otra carga, perpetua o temporal, a que se halle afecto el bien legado, pasa con ésta al legatario pero en ambos casos, las rentas y los réditos devengados, hasta la muerte del testador, son a cargo de la herencia.
 
-645.- El legado de un(sic) deuda hecho al mismo deudor, extingue la obligación y el que debe cumplir el legado está obligado, no solamente a otorgar al deudor la constancia del pago, sino también a cancelar las prendas, las hipotecas y las fianzas, y a liberar al legatario de toda responsabilidad. Lo anterior se entiende sin perjuicio de la acción que tienen los acreedores que resultaron perjudicados, para pedir la revocación del legado, en caso de que por él quede insolvente la sucesión.
+645.- El legado de un (sic) deuda hecho al mismo deudor, extingue la obligación y el que debe cumplir el legado está obligado, no solamente a otorgar al deudor la constancia del pago, sino también a cancelar las prendas, las hipotecas y las fianzas, y a liberar al legatario de toda responsabilidad. Lo anterior se entiende sin perjuicio de la acción que tienen los acreedores que resultaron perjudicados, para pedir la revocación del legado, en caso de que por él quede insolvente la sucesión.
 
 646.- Legado el Título, sea público o privado que ampara una deuda, se entiende legada ésta, observándose lo dispuesto en los artículos 642 y 643.
 
@@ -4835,7 +4835,7 @@ Para que una cantidad entregada por el vendedor tenga el carácter de arras debe
 
 1622.- Los Magistrados, los Jueces, el Ministerio Público, los Defensores Oficiales, los Abogados, los Procuradores, los Peritos y testigos, no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 
-1623.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coheredores(sic) de las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
+1623.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coheredores (sic) de las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
 1624.- Los hijos sujetos a patria potestad solamente pueden vender a sus padres los bienes que adquieran por su trabajo.
 
@@ -5849,7 +5849,7 @@ Los Notarios insertarán este artículo en los testimonios de los poderes, que e
 
 I.- Cuando el interés del negocio para el que se confiere exceda de cincuenta cuotas del valor del salario mínimo vigente;
 
-II.- Cuando sea general; y (sic)
+II.- Cuando sea general; y
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que conforme a la ley deba constar en instrumento público;
 
@@ -6211,7 +6211,7 @@ IX.- La indemnización que haya de abonar el porteador en caso de retardo, si so
 
 2060.- Los dueños de establecimientos en que se reciben huéspedes son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus superiores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios del mismo efecto.
 
-La responbilidad(sic) de que habla el párrafo anterior no excederá de la suma de cinco cuotas del salario mínimo, cuando no se pueda imputar culpa al hotelero o a su personal.
+La responbilidad (sic) de que habla el párrafo anterior no excederá de la suma de cinco cuotas del salario mínimo, cuando no se pueda imputar culpa al hotelero o a su personal.
 
 2061.- Para que los dueños de establecimientos donde se reciben huéspedes sean responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en esos establecimientos las personas que allí se alojen, es necesario que sean entregados en depósito a ellos o a sus empleados debidamente autorizados.
 
@@ -6469,7 +6469,7 @@ El concubinato será representado conjuntamente por el concubinario y la concubi
 
 2136.- Para que las asociaciones y las sociedades extranjeras de carácter civil puedan ejercer sus actividades en el Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
 
-2137.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro Público de la Propiedad y de Sociedades: Los estatutos de la(sic) asociaciones y sociedades extranjeras.
+2137.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro Público de la Propiedad y de Sociedades: Los estatutos de la (sic) asociaciones y sociedades extranjeras.
 
 ### CAPITULO NOVENO. DE LA APARCERIA RURAL
 
@@ -6809,7 +6809,7 @@ III.- Que anticipe o asegure competentemente los gastos de excusión.
 
 2273.- Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador; mas éste conservará el beneficio de excusión, aún cuando se dé sentencia contra los dos.
 
-2274.- Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor, debe renunciar(sic) el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador.
+2274.- Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor, debe renunciar (sic) el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador.
 
 2275.- El que fía al fiador goza de los beneficios de orden y excusión, tanto en contra del fiador como contra del deudor principal.
 
@@ -7619,11 +7619,29 @@ Si la anotación preventiva se hiciere con posterioridad a la presentación del 
 
 2484.- El registro producirá sus efectos desde el día y hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente:
 
-2485.- A más tardar dentro de los dos días hábiles siguientes a aquél en que se firme una escritura en que se cree, declare, reconozca, adquiera, trasmita, modifique, limite, conserve, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sean inscribibles, el Notario ante quien se otorgue dará al registro un aviso en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma o indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El Registrador, con aviso del Notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación.
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2014)</small>
 
-Si dentro de los treinta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del Notario. Si el testimonio se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+2485.- En los casos de trámites para adquisición, transmisión, modificación o extinción de la propiedad o posesión originaria de bienes raíces o cualquier derecho real sobre los mismos o que sin serlo sean inscribibles, o para que se haga constar un crédito que tenga preferencia desde que se ha registrado, únicamente el Notario Público, ante quien se celebren dichos trámites, bajo su más estricta responsabilidad, incluirá en la solicitud que haga para esos efectos, del certificado de gravámenes o de libertad de estos, la expresión "con carácter de aviso pre-preventivo", señalando los datos esenciales y los nombres de las personas entre quienes se propala la operación, lo que bastará para que el Registrador Público, sin cobro de derecho alguno, haga inmediatamente la anotación al margen de la inscripción de la propiedad misma que surtirá efectos durante treinta días naturales.
 
-Si el documento en que consta alguna de las operaciones que se mencionan en el párrafo anterior fuera privado, deberán dar el aviso a que se refiere este artículo las autoridades de que habla la fracción III del artículo 2474, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Si antes de transcurrir los treinta días, los propagantes de la operación suprimen definitivamente los trámites, el Notario Público está obligado a comunicarlo de inmediato al Registrador, para que este cancele la anotación pre-preventiva.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Cuando quede debidamente comprobado que el aviso pre-preventivo se presentó sin darse los supuestos anteriores y se origine en consecuencia la simulación de un acto que acarree perjuicios a terceros, el Notario Público será responsable de los mismos.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Una vez que se firme la escritura, en los casos a que se refiere el primer párrafo de este artículo, el Notario Público que la autorice dará al Registro el aviso preventivo en el que conste el inmueble de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre él, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, folio, libro o sección en que estuviere inscrita la propiedad en el Registro. El Registrador, sin el pago de derecho alguno asentará inmediatamente de recibido el aviso, la anotación preventiva al margen de la inscripción de propiedad.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación pre-preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Si fuere privado el documento en que conste alguna de las citadas operaciones, deberán dar el aviso a que se refiere el cuarto párrafo del presente artículo, las instituciones que se mencionan en el artículo 1670, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
 
 2486.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha de dicha anotación preventiva.
 
@@ -8100,3 +8118,9 @@ P.O. 18 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2014.
+
+Artículo Primero:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo:- Se derogan las disposiciones que contravengan este Decreto.
