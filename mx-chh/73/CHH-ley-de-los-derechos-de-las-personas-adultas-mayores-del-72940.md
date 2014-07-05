@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-personas-adultas-mayores-del-72940"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2010-02-03"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de febrero de 2010.
 
@@ -103,7 +103,13 @@ IV. Casa Hogar. Todo establecimiento de los sectores público, social o privado 
 
 V. Centro de Día. Establecimiento que proporciona alternativas a personas adultas mayores para la ocupación creativa y productiva del tiempo libre, mediante actividades culturales, deportivas, recreativas, de estímulo y capacitación, donde se promueva tanto la dignificación de esta etapa de la vida, como el autocuidado de la salud.
 
-VI. Red de Apoyo Social. Conjunto de agrupaciones constituidas por promotores institucionales, voluntarios y personas adultas mayores, que tiene por objeto promover el mejoramiento de la calidad de vida y empoderar el disfrute de los derechos de quienes forman parte de este grupo etario.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VI. Centros de Atención Residencial. Todo establecimiento que, independientemente de su denominación y naturaleza jurídica, mediante el pago de una contraprestación económica brinda atención integral con servicios permanentes o temporales de estancia, alimentación, cuidado médico y geriátrico a personas adultas mayores.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VII. Red de Apoyo Social. Conjunto de agrupaciones constituidas por promotores institucionales, voluntarios y personas adultas mayores, que tiene por objeto promover el mejoramiento de la calidad de vida y empoderar el disfrute de los derechos de quienes forman parte de este grupo etario.
 
 ###### Artículo 9.
 
@@ -481,7 +487,7 @@ Ante la falta de familia e imposibilidad de la persona adulta mayor de obtener r
 
 De existir familia con posibilidades económicas para suministrar parcial o totalmente lo que se requiera para su subsistencia y cuidado, pero se negaren a cumplir con las obligaciones alimentarias, la Subprocuraduría Especializada en Atención a Personas Adultas Mayores procederá a proveer lo necesario para la protección, asistencia y atención integral del adulto mayor; además, en los términos de la legislación civil, deberá promover ante el juez competente las acciones correspondientes, a efecto de obtener el cumplimiento forzoso y el pago de los gastos o erogaciones que se hayan originado con motivo de los servicios proporcionados a la persona de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE LA LEY.</small>
 
 ###### Artículo 44.
 
@@ -665,9 +671,15 @@ VII. En general, el incumplimiento a las disposiciones de este ordenamiento.
 
 Cuando las infracciones sean cometidas por particulares, en atención a la gravedad de las mismas, se sancionarán por la Procuraduría de Asistencia Jurídica y Social con:
 
-I. Amonestación escrita, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+I. Amonestación escrita.
 
 II. Multa de diez a ciento cincuenta veces el salario mínimo general diario vigente en la zona geográfica que corresponda, al momento de cometerse la infracción.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+III. Clausura temporal o permanente, cuando la infracción se cometa en algún establecimiento del sector social o privado.
 
 ###### Artículo 75.
 
@@ -716,3 +728,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de diciembre del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
