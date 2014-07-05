@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-y-bienestar-de-los-animales-en-el-56447"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2013-03-23"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
+LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de julio de 2007.
 
@@ -145,7 +145,9 @@ VI. Todo animal que el ser humano elija para su compañía, tiene derecho a que 
 
 VII. Todo animal de trabajo tiene derecho a una limitación razonable del tiempo e intensidad de trabajo, a una alimentación suficiente y al reposo;
 
-VIII. Un animal muerto debe ser tratado con respeto, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VIII. El cadáver de todo animal, debe ser tratado con respeto; por lo cual, queda estrictamente prohibido arrojarlos en la vía pública o en lotes baldíos, y
 
 IX. Ninguna persona será obligada a provocar daño, lesión, mutilación o muerte de algún animal y podrá invocar esta Ley en su defensa.
 
@@ -249,7 +251,9 @@ II. Establecer y regular los centros de control animal de su competencia;
 
 III. Capturar animales abandonados o ferales, en los términos de la presente Ley, y canalizarlos a los centros de control animal, refugios o criaderos, legalmente establecidos;
 
-IV. Verificar, cuando exista denuncia, sobre ruidos, hacinamiento, falta de seguridad e higiene u olores fétidos que se produzcan por la crianza o reproducción de animales, en detrimento del bienestar animal;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IV. Verificar en coordinación con los Servicios de Salud, cuando exista denuncia, sobre ruidos, hacinamiento, falta de seguridad e higiene u olores fétidos, en detrimento de los animales y la salud de las personas; así como dar aviso a dicha entidad pública, cuando tenga conocimiento de asuntos relativos a la sanidad o falta de higiene;
 
 V. Proceder al sacrificio cuando así se justifique, apoyándose en médicos veterinarios o especialistas técnicos, que para tal efecto faculte la Autoridad Municipal; en todos los casos se levantará acta circunstanciada;
 
@@ -269,7 +273,21 @@ XI. Constituir un patrón de médicos veterinarios voluntarios quienes serán ac
 
 XII. Conocer, a través de la unidad administrativa que para tal efecto se designe, cualquier hecho, acto u omisión derivado del incumplimiento de la presente Ley, el Reglamento y demás disposiciones jurídicas aplicables, e imponer las sanciones correspondientes, salvo aquellas que estén expresamente atribuidas a otras autoridades, y
 
-XIII. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+XIII. Informar a las autoridades federales y estatales competentes, sobre el establecimiento de circos o empresas circenses, que utilicen animales para espectáculo o exhibición;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+XIV. Contar con instalaciones debidamente adaptadas, conforme a lo siguiente:
+
+a) Para cavar fosas comunes destinadas a los cadáveres de animales que se encuentren en la vía pública;
+
+b) Para enterrar a los animales o sus restos que tengan que ser sacrificados en los supuestos previstos en la presente Ley, y
+
+c) Para el establecimiento, en su caso, de un horno crematorio en donde los particulares puedan incinerar sus animales, previo el pago de derechos contenidos en las leyes de ingresos municipales correspondientes; y
+
+XV. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales.
 
 ### CAPÍTULO III. Participación social
 
@@ -411,6 +429,16 @@ II. Cumplir con esta Ley, el Reglamento, las normas oficiales mexicanas aplicabl
 
 III. Tener personal capacitado e instalaciones adecuadas.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Artículo 23 bis.- Los centros de control animal contarán con la infraestructura necesaria para brindar a los animales una estancia digna, segura y saludable, por lo que deberán:
+
+I. Estar bajo la responsabilidad de personal debidamente autorizado, capacitado y certificado en la materia;
+
+II. Capacitar permanentemente al personal y promover programas de certificación, y
+
+III. Llevar a cabo, en coordinación con los Servicios de Salud del Estado, campañas permanentes de vacunación, esterilización y de fomento a un trato digno de los animales.
+
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 24.
@@ -441,7 +469,11 @@ VIII. Privar de aire, luz, alimento, agua, espacio, abrigo contra la intemperie,
 
 IX. Abandonar a los animales en vía pública o por períodos prolongados en bienes de propiedad de particulares, y
 
-X. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+X. Mantenerlos en abandono, en azoteas, en balcones o en terrenos baldíos, y
+
+XI. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales.
 
 ###### Artículo 26.
 
@@ -513,9 +545,15 @@ IV. Sacrificar animales en presencia de menores de edad.
 
 La inobservancia a lo establecido en el presente artículo, derivará en las responsabilidades o sanciones que dicten la presente Ley, el Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
 ###### Artículo 34.
 
-El personal que intervenga en el sacrificio de animales, deberá estar plenamente autorizado y capacitado en la aplicación de las diversas técnicas, manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, en estricto cumplimiento de las normas oficiales mexicanas y las normas zoológicas.
+El personal que intervenga en el sacrificio de animales, deberá estar plenamente autorizado, capacitado y certificado en la aplicación de las diversas técnicas, manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas.
+
+Asimismo, las instalaciones destinadas al sacrificio de animales para consumo humano, contarán con un programa de mantenimiento y verificación periódica de equipos para dicho fin.
+
+Todo lo anterior con el objeto de garantizar el estricto cumplimiento de las normas oficiales mexicanas y demás disposiciones aplicables.
 
 ###### Artículo 35.
 
@@ -551,9 +589,9 @@ Dichos establecimientos, se sujetarán a las disposiciones que para tal efecto e
 
 Asimismo, están obligados a otorgar al comprador un manual de cuidado autorizado por la Secretaría correspondiente a la especie, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas a que están sujetos por el incumplimiento de las disposiciones de la presente Ley.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
 
-Las crías de los animales de circos y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar a la Secretaría, cuando sean enajenadas, intercambiadas, prestadas o donadas, a terceras personas, o trasladadas a otras instituciones.
+Las crías de los animales de zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar a la Secretaría, cuando sean enajenadas, intercambiadas, prestadas o donadas, a terceras personas, o trasladadas a otras instituciones.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -598,6 +636,12 @@ Para celebrar espectáculos públicos con mamíferos marinos, se deberá contar 
 ###### Artículo 45.
 
 En toda exhibición, espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo, en el que participen animales vivos, deberá garantizarse su trato digno y respetuoso durante todo el tiempo que dure su utilización, así como en su traslado y en tiempos de espera; se permitirá la presencia de un representante de alguna asociación protectora de animales legalmente constituida y registrada o algún miembro de la Comisión, así como de un médico veterinario certificado como observador, por parte de la Autoridad Municipal, para las actividades que se realicen.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Artículo 45 bis.- Queda prohibida la realización de espectáculos circenses públicos o privados, fijos o itinerantes, en los cuales se utilicen animales silvestres, con fines de diversión, exhibición, explotación, exposición, adiestramiento o entretenimiento.
+
+Las autoridades estatales y municipales informarán de forma inmediata a las autoridades federales competentes, sobre la realización de dichos espectáculos.
 
 ### CAPÍTULO VIII. Uso de animales para experimentos
 
@@ -783,7 +827,11 @@ I. Multa de una a cien cuotas de salario mínimo vigente en el Estado, contra qu
 
 II. La multa podrá incrementarse de ciento uno a doscientas cuotas de salario mínimo vigente en el Estado, cuando las violaciones a lo dispuesto por la presente Ley, se agraven en perjuicio de los animales, a consideración de la autoridad competente, y
 
-III. Arresto inconmutable de treinta y seis horas y multa hasta por cuatrocientas cuotas de salario mínimo vigente en el Estado de Zacatecas por violaciones a lo dispuesto por el artículo 5, 26 y 28 de la presente Ley.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+III. Se sancionará a quien celebre o realice clandestinamente espectáculos circenses públicos o privados, fijos o itinerantes, en los cuales se utilicen animales silvestres, en los términos señalados, con multa equivalente de 100 a 500 cuotas de salario mínimo diario vigente en el estado, y
+
+IV. Arresto inconmutable de treinta y seis horas y multa hasta por cuatrocientas cuotas de salario mínimo vigente en el Estado de Zacatecas por violaciones a lo dispuesto por el artículo 5, 26 y 28 de la presente Ley.
 
 ###### Artículo 65.
 
@@ -884,3 +932,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 5 DE JULIO DE 2014.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
