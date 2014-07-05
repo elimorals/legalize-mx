@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2013-07-11"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -3977,11 +3977,15 @@ ART. 931.- Las sentencias no pueden ser revocadas por el juez que las dicta.
 
 ART. 932.- Los autos que no fueren apelables y los decretos pueden ser revocados por el juez que los dicta, o por el que lo substituya en el conocimiento del negocio.
 
-ART. 933.- La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación, y se substanciará con un escrito por cada parte y la resolución del juez que debe pronunciarse dentro del tercer día. Esta resolución no admite ningún recurso.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+ART. 933.- La revocación debe pedirse por escrito dentro de tres días siguientes a la notificación, y se substanciará con un escrito por cada parte, ordenándose correr traslado a las partes del juicio, con el escrito de la interposición del recurso, sus anexos y copia del auto impugnado, para que en igual término concurran a deducir las partes, sus derechos, con relación al recurso; y la resolución del juez que debe pronunciarse dentro de otros tres días. Esta resolución no admite ningún recurso.
 
 ART. 934.- De los decretos y autos del tribunal superior, aun de aquellos que dictados en primera instancia serían apelables, puede pedirse reposición que se substancia en la misma forma que la revocación.
 
-ART. 935.- En los juicios extraordinarios la revocación se resolverá siempre de plano.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+ART. 935.- En los juicios extraordinarios la revocación se tramitará y resolverá como lo dispone el artículo 933 de este Código.
 
 ## TITULO DECIMO TERCERO. De los Recursos
 
@@ -5316,3 +5320,9 @@ P.O. 11 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
