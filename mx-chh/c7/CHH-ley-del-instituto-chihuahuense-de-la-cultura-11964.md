@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-la-cultura-11964"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-19"
-last_updated: "2012-09-26"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
-
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de enero de 1991.
 
@@ -83,6 +83,10 @@ VII.- Propiciar y estimular el intercambio cultural, humanístico y científico,
 
 VIII.- Coadyuvar con los municipios en el diseño de una política cultural que atienda las necesidades y características de cada uno de ellos.
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IX.- Ser el ente gubernamental del Estado encargado de rescatar, revitalizar, preservar, fomentar y transmitir la cosmovisión, cosmogonía, historias, idiomas, tradiciones orales, filosofías, escrituras y literaturas de los pueblos indígenas, de conformidad con lo establecido en los artículos 13 de la Ley Estatal de Educación y de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
+
 ###### ARTICULO 4.
 
 Para el cumplimiento de sus objetivos, el Instituto tiene las siguientes atribuciones:
@@ -99,9 +103,17 @@ V.- Proponer y promover iniciativas que tiendan a impulsar el desarrollo de la c
 
 VI.- Adquirir y enajenar bienes para el cumplimiento de sus objetivos, de conformidad con las disposiciones legales aplicables;
 
-VII.- Ser el órgano representativo del Gobierno del Estado en materia cultural; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
 
-VIII.- Las demás que señala esta Ley y otras disposiciones legales aplicables.
+VII.- Ser el órgano representativo del Gobierno del Estado en materia cultural;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VIII.- Diseñar, ejecutar, instrumentar y dar seguimiento a programas y proyectos tendientes a garantizar el ejercicio de los derechos lingüísticos y culturales de los pueblos y las comunidades indígenas.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IX.- Las demás que señala esta Ley y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
@@ -420,3 +432,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
