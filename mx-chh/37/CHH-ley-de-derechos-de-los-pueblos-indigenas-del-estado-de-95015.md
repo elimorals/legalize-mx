@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2013-06-29"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -165,7 +165,9 @@ IV. Mantener y proteger sus lugares religiosos y culturales y a acceder a ellos 
 
 V. Utilizar y controlar sus objetos de culto.
 
-VI. Revitalizar, utilizar, fomentar y transmitir a las generaciones futuras su cosmovisión, cosmogonía, historias, idiomas, tradiciones orales, filosofías, escrituras y literaturas.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VI. Rescatar, revitalizar, utilizar, fomentar y transmitir a las generaciones futuras su cosmovisión, cosmogonía, historias, idiomas, tradiciones orales, filosofías, escrituras y literaturas.
 
 VII. Atribuir nombres a sus comunidades, lugares y personas, así como a mantenerlos, pudiendo ser en su idioma, en español o conforme a sus costumbres y tradiciones.
 
@@ -432,3 +434,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de mayo del año los mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
