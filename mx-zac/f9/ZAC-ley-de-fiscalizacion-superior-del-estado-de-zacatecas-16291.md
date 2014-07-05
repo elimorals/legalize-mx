@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fiscalizacion-superior-del-estado-de-zacatecas-16291"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2013-10-30"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el jueves 30 de marzo de 2000.
 
@@ -149,7 +149,7 @@ XIII Fiscalización Superior: Facultad a cargo de la Legislatura, ejercida por l
 
 XIV. Programas: Los contenidos en los Planes de Desarrollo, en los programas operativos anuales y en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales, así como los obtenidos posteriormente a la formulación de los programas de desarrollo y presupuestos aprobados;
 
-XV. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, en uso de sus facultades de Fiscalización a las entidades sujetas a revisión; y (sic)
+XV. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, en uso de sus facultades de Fiscalización a las entidades sujetas a revisión; y
 
 XVI. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
 
@@ -163,7 +163,7 @@ XVIII. Informe del Resultado: Documento elaborado por la Auditoría Superior del
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
 
-XIX. Informe de Solventación: Documento en el cual se reflejan o asientan las observaciones de carácter resarcitorio subsistentes al plazo de solventación establecido en esta Ley; además, entre otros documentos, con el que se da inicio al procedimiento para el fincamiento de responsabilidad resarcitoria; y (sic)
+XIX. Informe de Solventación: Documento en el cual se reflejan o asientan las observaciones de carácter resarcitorio subsistentes al plazo de solventación establecido en esta Ley; además, entre otros documentos, con el que se da inicio al procedimiento para el fincamiento de responsabilidad resarcitoria; y
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
 
@@ -503,7 +503,7 @@ XXI. Establecer las bases para la entrega-recepción de la documentación compro
 
 XXII. Recibir, resguardar y fiscalizar las declaraciones de situación patrimonial inicial, anual y final, que deben presentar los servidores públicos del Poder Legislativo;
 
-XXIII. Vigilar que los Ayuntamientos cumplan oportunamente con el procedimiento obligatorio de entrega-recepción de las administraciones municipales; y (sic)
+XXIII. Vigilar que los Ayuntamientos cumplan oportunamente con el procedimiento obligatorio de entrega-recepción de las administraciones municipales; y
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -817,9 +817,13 @@ Artículo 33 C. Cuando la Auditoria Superior del Estado, además de imponer la m
 
 Artículo 33 D.- Lo dispuesto en los artículos anteriores respecto a las medidas de apremio, no excluyen la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables, ni del fincamiento de otras responsabilidades.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
 
-Artículo 33 E.- Las multas que como medida de apremio imponga la Entidad de Fiscalización Superior, se constituirán en crédito fiscal a favor del erario estatal o municipal en su caso; se harán efectivos por la Secretaría de finanzas o la Tesorería Municipal, mediante el procedimiento administrativo de ejecución que establecen el Código Fiscal del Estado y el Código Fiscal Municipal del Estado de Zacatecas.
+Artículo 33 E.- Las multas que como medida de apremio imponga la Auditoría Superior del Estado, deberán ser cubiertas con cargo al patrimonio del servidor público y se constituirán en crédito fiscal a favor de la Legislatura del Estado; se harán efectivos por la Secretaría de Finanzas, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+
+La Secretaría de Finanzas integrará el monto efectivamente recaudado por concepto de medidas de apremio, el cual será destinado a un fondo de capacitación dirigido a los servidores públicos del Estado y municipios para evitar futuros actos u omisiones de incumplimiento de esta Ley. No considerando en este importe el monto que se obtenga por gastos de ejecución.
+
+El fondo de capacitación se distribuirá el cincuenta por ciento a la Legislatura del Estado y el otro cincuenta por ciento a la Auditoría Superior del Estado. El Auditor Superior del Estado debe informar semestralmente a la Comisión de Vigilancia sobre el uso y destino de este fondo.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -834,6 +838,16 @@ Deberá fundar y motivar las causas que la justifiquen, siempre que se trate de 
 II. Cuando el monto de la multa exceda de ese límite, se requerirá autorización de la Comisión.
 
 La solicitud de condonación de multas en los términos de este Artículo, no constituirá instancia y las resoluciones que dicte la Auditoria al respecto no podrán ser impugnadas por los medios de defensa que establece esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Artículo 33 G.- Para la aplicación de las medidas de apremio por infracciones a la presente Ley, se estará a lo siguiente:
+
+La Auditoría Superior del Estado notificará al presunto infractor la conducta irregular que se le imputa y le concederá un plazo de cinco días hábiles, contados a partir del día siguiente de la notificación, a efecto de que exprese lo que a su derecho convenga y aporte los medios de prueba que considere necesarios para su defensa.
+
+Transcurrido dicho plazo, la Auditoría Superior del Estado analizará las circunstancias de la presunta infracción, la gravedad de la misma, la contestación y pruebas ofrecidas, determinando mediante oficio si se confirma o no la medida impuesta.
+
+La falta de contestación dentro del plazo respectivo, hará presumir como ciertos los hechos, salvo prueba en contrario, y el crédito fiscal quedará firme.
 
 ## TÍTULO TERCERO
 
@@ -879,7 +893,7 @@ II. Promover ante las autoridades competentes el fincamiento de otras responsabi
 
 III. Promover las acciones de responsabilidad a que se refiere el Título Séptimo de la Constitución Política del Estado;
 
-IV. Presentar las denuncias y querellas penales, a que haya lugar, y (sic)
+IV. Presentar las denuncias y querellas penales, a que haya lugar, y
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -961,7 +975,7 @@ La indemnización invariablemente deberá ser suficiente para cubrir los daños 
 
 La Auditoría Superior del Estado podrá solicitar a la Secretaría de Finanzas o las Tesorerías Municipales, según corresponda, se proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinado en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
 
-El presunto o presuntos responsables podrán solicitar la sustitución del embargo precautorio, por cualesquiera de las garantías que establece la legislación fiscal, a satisfacción de la Auditoría Superior del Estado, y (sic)
+El presunto o presuntos responsables podrán solicitar la sustitución del embargo precautorio, por cualesquiera de las garantías que establece la legislación fiscal, a satisfacción de la Auditoría Superior del Estado, y
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -981,9 +995,11 @@ En todas las cuestiones relativas al procedimiento no previstas en este Capítul
 
 Las multas y sanciones resarcitorias a que se refiere la presente Ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida por la Auditoría Superior del Estado, haciéndose efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
 ###### Artículo 47.
 
-El Ejecutivo del Estado, por conducto de la Secretaría del Ramo y los Ayuntamientos, deberán informar semestralmente a la Auditoria Superior del Estado de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto de lo recuperado.
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, deberá informar semestralmente a la Auditoría Superior del Estado de los trámites que se vayan realizando para la ejecución de los cobros respectivos y el monto de lo recuperado.
 
 ###### Artículo 48.
 
@@ -995,11 +1011,11 @@ La Auditoría Superior del Estado podrá abstenerse de sancionar al infractor, p
 
 ### CAPÍTULO IV. DEL RECURSO DE REVOCACIÓN
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
 
 ###### Artículo 50.
 
-Las sanciones y demás resoluciones que emita la Auditoría Superior del Estado conforme a esta Ley, podrán ser impugnadas por el servidor público o por los particulares, personas físicas o morales, ante la propia Auditoria Superior del Estado, mediante el recurso de revocación o bien, mediante juicio de nulidad ante el Tribunal de lo Contencioso Administrativo. El recurso de revocación se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación del pliego o resolución recurrida.
+Las medidas de apremio, sanciones y demás resoluciones que emita la Auditoría Superior del Estado conforme a esta Ley, podrán ser impugnadas por el servidor público o por los particulares, personas físicas o morales, ante la propia Auditoría Superior del Estado, mediante el recurso de revocación o bien, mediante juicio de nulidad ante el Tribunal de lo Contencioso Administrativo. El recurso de revocación se interpondrá dentro de los quince días siguientes a la fecha en que surta efectos la notificación de las medidas de apremio, sanciones, el pliego o resolución recurrida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2006)</small>
 
@@ -1067,9 +1083,9 @@ Son atribuciones de la Comisión:
 
 I. Supervisar las actividades de la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
 
-II. Dictaminar, unida a las Comisiones de Hacienda, las respectivas Cuentas Públicas, dentro de los siete meses posteriores a la presentación de los Informes Complementarios;
+II. Dictaminar, unida a la Comisión de Presupuesto y Cuenta Pública, las respectivas Cuentas Públicas, dentro de los siete meses posteriores a la presentación de los Informes Complementarios;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -1123,7 +1139,7 @@ XV. De acuerdo a las posibilidades presupuestales, contratar Asesores Externos p
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
 
-XVI. Acordar la prorroga de los plazos a que hace mención esta Ley; y (sic)
+XVI. Acordar la prorroga de los plazos a que hace mención esta Ley; y
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2007)</small>
 
@@ -1133,9 +1149,13 @@ XVII. Citar, por conducto de su Presidente, al Auditor Superior del Estado, para
 
 XVIII. Recibir del Pleno o de la Comisión Permanente, los Informes de Avance de Gestión Financiera y los Informes Anuales de las Cuentas Públicas y turnarlos a la Auditoría Superior del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
 
-XIX. Las que deriven de esta Ley, su Reglamento y las disposiciones generales y acuerdos, que al efecto emita la Legislatura del Estado.
+XIX. La Comisión de Vigilancia podrá recibir denuncias de las entidades fiscalizadas en contra del personal de la Auditoría Superior del Estado, por actos u omisiones que puedan representar responsabilidad como servidores públicos. Las denuncias deben presentarse debidamente fundadas, motivadas y acompañar los medios de prueba permitidos por la ley; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+XX. Las que deriven de esta Ley, su Reglamento y las disposiciones generales y acuerdos, que al efecto emita la Legislatura del Estado.
 
 ## TÍTULO SEXTO. ORGANIZACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
@@ -1504,3 +1524,9 @@ Artículo primero.- El presente Decreto entrará en vigor el día primero de ene
 Artículo segundo.- Los reglamentos y demás disposiciones que a la entrada en vigor del presente Decreto resulten aplicables, continuarán vigentes, hasta en tanto se actualice la reglamentación relativa al control y ejercicio presupuestal.
 
 Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
