@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-para-el-estado-de-zacatecas-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2011-08-27"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
+LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2009.
 
@@ -247,11 +247,17 @@ Deberán coadyuvar dentro del ámbito de sus atribuciones a fomentar la cultura 
 
 a) La Secretaría de Educación Pública;
 
-b) El Instituto de la Juventud;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-c) El Instituto para las Mujeres Zacatecanas;
+b) Subsecretaría de la Juventud;
 
-d) La Comisión Estatal para la Integración de las Personas con Discapacidad,
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c) Secretaría de las Mujeres;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+d) Subsecretaría de las Personas con Discapacidad,
 
 e) Los Servicios de Salud del Estado,
 
@@ -325,9 +331,13 @@ Integración
 
 El Consejo Consultivo se integrará por la o el titular de:
 
-I. El Ejecutivo del Estado, a través de la Secretaría de Educación y Cultura, que lo presidirá;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II. La Dirección General del Instituto, que podrá presidir en representación del Ejecutivo y de la Secretaría de Educación y Cultura;
+I. El Ejecutivo del Estado a través de la Secretaría de Educación, que lo presidirá;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. La Dirección General del Instituto, que podrá presidir en representación del Ejecutivo y de la Secretaría de Educación;
 
 III. La Comisión de la Niñez, Juventud y Deporte de la Legislatura del Estado, representada por cualquiera de sus integrantes, y
 
@@ -337,11 +347,17 @@ Podrán formar parte los titulares o representantes de:
 
 a) Los Servicios de Salud del Estado;
 
-b) El Instituto de la Juventud del Estado;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-c) El Instituto para la Mujer Zacatecana;
+b) Subsecretaría de la Juventud;
 
-d) La Comisión Estatal para la Integración de las Personas con Discapacidad;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c) Secretaría de las Mujeres;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+d) Subsecretaría de las Personas con Discapacidad;
 
 e) La Comisión Estatal para los Adultos en Plenitud;
 
@@ -629,9 +645,11 @@ XXIX. Las demás que le señale esta Ley, y demás normatividad aplicable.
 
 Naturaleza jurídica y objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-La Comisión de Justicia Deportiva será un órgano colegiado, desconcentrado de la Secretaría de Educación y Cultura, dotado de autonomía técnica, cuyo objeto es conocer, atender y resolver administrativamente, si es necesario, a través de medios de justicia alternativa y medidas provisionales o precautorias, las controversias, inconformidades, quejas, denuncias y recursos hechos valer por los sujetos de esta Ley en materia de la misma y demás normatividad aplicable, así como las controversias que se deriven de la promoción, organización y desarrollo o participación de las actividades deportivas.
+La Comisión de Justicia Deportiva será un órgano colegiado, desconcentrado de la Secretaría de Educación, dotado de autonomía técnica, cuyo objeto es conocer, atender y resolver administrativamente, si es necesario, a través de medios de Justicia alternativa y medidas provisionales o precautorias, las controversias, inconformidades, quejas, denuncias y recursos, hechos valer por los sujetos de esta Ley en materia de la misma y demás normatividad aplicable, así como las controversias que se deriven de la promoción, organización y desarrollo o participación de las actividades deportivas.
 
 Este órgano tendrá competencia en materia de control y sanción de dopaje y de conductas violentas en eventos y espectáculos deportivos y para imponer las correcciones disciplinarias y medidas de apremio necesarias, independientemente de los procedimientos o sanciones nacionales o internacionales.
 
@@ -751,7 +769,9 @@ II. Promover, y en su caso, coordinar, la construcción, conservación, adecuaci
 
 III. Ejercer atribuciones en materia de obra pública, adquisiciones, arrendamientos, comodatos, prestación de servicios, regularización de inmuebles, y demás actos jurídicos en lo que se refiere a la infraestructura deportiva del municipio, de acuerdo a lo establecido por la normatividad aplicable;
 
-IV. Destinar o donar áreas para instalaciones deportivas, que sean seguras y adecuadas;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IV. Destinar o donar áreas para instalaciones deportivas, que sean seguras, adecuadas y accesibles, para la práctica deportiva de todas las poblaciones, incluyendo especialmente a las poblaciones con discapacidad.
 
 V. Vigilar que los planes y programas de desarrollo urbano que se aprueben para el municipio contengan áreas reservadas, que sean seguras y adecuadas para la práctica del deporte y actividades físicas, y
 
@@ -879,7 +899,9 @@ XI. Deporte popular;
 
 XII. Iniciación deportiva, talentos deportivos y excelencia deportiva;
 
-XIII. Capacitación a los recursos humanos de la cultura física y deporte;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+XIII. Capacitación a los recursos humanos de la cultura fisica y deporte, para que cuente con certificación ó especialización para la adecuada atención de las diversas poblaciones o deportes en que se especializan.
 
 XIV. Infraestructura deportiva;
 
@@ -922,6 +944,10 @@ IV. Detectar, apoyar y dar seguimiento a niñas, niños y jóvenes que tengan ap
 V. Optimizar e incrementar, sin menoscabo de las demás actividades escolares, el tiempo destinado a la educación física y a las actividades deportivas en las instituciones educativas de nivel básico y medio superior, y
 
 VI. Capacitar e incentivar a los profesores de educación física y entrenadores de las instituciones educativas.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VIl. Diseñar planes y programas de práctica del deporte que fomenten el desarrollo neurológico de todas las poblaciones, incluyendo prioritariamente a niñas, niños y poblaciones con discapacidad.
 
 Deporte de alto rendimiento o competitivo
 
@@ -1129,9 +1155,11 @@ El Instituto establecerá convenios de colaboración con las dependencias compet
 
 Apoyo a competencias oficiales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 62.
 
-La Secretaría de Educación y Cultura y el sector educativo estatal deberán establecer y desarrollar mecanismos de apoyo en relación al cumplimiento de sus respectivos programas, para alumnas y alumnos que vayan a participar en competencias oficiales, en términos de esta Ley, su Reglamento y demás normatividad aplicable.
+La Secretaría de Educación y el Sector Educativo Estatal deberán establecer y desarrollar mecanismos de apoyo en relación al cumplimiento de sus respectivos programas, para alumnas y alumnos que vayan a participar en competencias oficiales, en términos de esta Ley, su Reglamento y demás normatividad aplicable.
 
 Los padres y las madres de familia, en función a los derechos a la salud, educación, deporte y recreación que tiene la niñez, de acuerdo a las normas internacionales, federales y estatales sobre derechos de la niñez, deberán coadyuvar en la participación de sus hijas e hijos en competencias oficiales.
 
@@ -1191,9 +1219,11 @@ La niñez, las personas con discapacidad y las personas adultas mayores podrán 
 
 Prioridades
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 67.
 
-En cuanto al disfrute y ejercicio de los derechos de las y los deportistas, principalmente en materia de infraestructura y equipo deportivos, estímulos, apoyos y reconocimientos, deberá ponerse especial énfasis a la niñez, juventud, personas adultas mayores, personas con discapacidad, personas privadas de su libertad y demás poblaciones especiales.
+En cuanto al disfrute y ejercicio de los derechos de las y los deportistas, principalmente en materia de infraestructura y equipo deportivos, estímulos, apoyos y reconocimientos, deberá ponerse especial énfasis a la niñez, juventud, personas adultas mayores, personas con discapacidad, personas privadas de su libertad y demás poblaciones especiales, dando prioridad en la elección de itinerarios y horarios accesibles a las poblaciones con discapacidad.
 
 Obligaciones
 
@@ -1381,9 +1411,9 @@ La persona Titular del Ejecutivo, por conducto del Instituto, promoverá la cons
 
 Deberán establecerse reglas claras y transparentes para la administración, ejercicio, aplicación y fiscalización del Fondo Estatal e integrarse una comisión responsable de la ejecución de dichas reglas, sin que contravenga lo que disponga el Reglamento, la constitución del Fondo Estatal y la normatividad derivada.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
 
-En todo caso, del fondo integrado, se destinará al menos el 2% para deportistas con discapacidad.
+En todo caso, del fondo de los apoyos y estímulos deberá destinarse por lo menos el 10% para promoción y atención a deportistas con discapacidad.
 
 Prioridades
 
@@ -1431,9 +1461,29 @@ IV. La temporalidad o vigencia de los estímulos y apoyos;
 
 V. Los mecanismos de responsabilidad, ejercicio, aplicación, transparencia, publicidad y control, y
 
-VI. Las demás que establezca la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VI. La antigüedad probada en la práctica de la disciplina deportiva;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VIl. Los resultados obtenidos en competencias oficiales;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+VIII. Las mejoras y marcas obtenidas durante la práctica de la disciplina;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IX. Las evaluaciones positivas de los entrenadores y autoridades deportivas, y
+
+X. Las demás que establezca la normatividad aplicable.
 
 Los apoyos y estímulos económicos se otorgarán en base a lo que establece esta Ley, así como a las determinaciones de la persona Titular del Ejecutivo y del Instituto; además, los apoyos y estímulos económicos, quedarán sujetos a los recursos disponibles y a lo previsto en los convenios que celebre el Instituto con los sectores social, privado y académico, para tales efectos.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+En la medida de lo posible, los estímulos y apoyos aumentarán progresivamente durante la trayectoria deportiva, además, será obligación de las autoridades, fijar cuotas mínimas y máximas para la entrega de los mismos.
 
 Contenido
 
@@ -1523,7 +1573,9 @@ I. Participar con el sector público municipal, estatal, y nacional, así como c
 
 II. Emitir los lineamientos necesarios para determinar el procedimiento de acreditación o certificación, para lo cual, deberá tomar en cuenta lo dispuesto por la normatividad aplicable;
 
-III. Promover, en coordinación con la Secretaría de Educación y Cultura y con las instituciones de educación superior, la investigación y formación en las ciencias y técnicas aplicadas del deporte;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Promover en coordinación con la Secretaría de Educación y con las Instituciones de Educación Superior la investigación y formación en las Ciencias y Técnicas aplicadas al Deporte.
 
 IV. Facilitar la obtención de beneficios, estímulos o apoyos para la capacitación, formación, actualización, profesionalización, investigación y certificación, y
 
@@ -1861,7 +1913,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS PINTO NÚÑEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE JUNIO DE 2011.
 
@@ -1884,3 +1936,27 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
 TERCERO.- El Estado a través de sus dependencias respectivas, los gobiernos de los municipios e instituciones de seguridad privada, en lo que les sea aplicable y en los 30 días hábiles siguientes a la entrada en vigor del presente decreto, adoptarán o modificarán en su caso, sus ordenamientos internos a efecto de garantizar el puntual cumplimiento de estas normas.
 
 CUARTO.- El porcentaje presupuestal establecido por este decreto para destinarse a deportistas con discapacidad, en lo posible, deberá aplicarse por la Dirección General del Instituto de Cultura Física y Deporte del Estado de Zacatecas a partir del presente ejercicio fiscal 2011.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 5 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan a la eficaz aplicación del contenido de este decreto.
