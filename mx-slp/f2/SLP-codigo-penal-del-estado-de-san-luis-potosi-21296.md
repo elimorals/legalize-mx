@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-02-28"
+last_updated: "2014-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1715,9 +1715,9 @@ Comete el delito de esterilidad provocada, quien sin el consentimiento de una pe
 
 Este delito se sancionará con una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo, más la reparación del daño.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2014)</small>
 
-### CAPITULO VI. HOSTIGAMIENTO Y ACOSO SEXUAL
+### CAPITULO VI. HOSTIGAMIENTO; ACOSO SEXUAL; Y DIFUSIÓN ILÍCITA DE IMÁGENES ÍNTIMAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -1748,6 +1748,10 @@ Si el acosador es servidor público y se vale de medios o circunstancias que el 
 En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de dos a siete años.
 
 Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de dieciocho años, en cuyo caso se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+ARTÍCULO 158 Quinque.- Comete el delito de difusión ilícita de imágenes íntimas quien transmita, publique o difunda imágenes, sonidos o grabaciones de contenido sexual obtenidas con o sin el consentimiento de la víctima, sin autorización para su difusión. Este delito se sancionará con una pena de uno a tres años de prisión y multa de ciento cincuenta a doscientos salarios mínimos.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -1983,6 +1987,12 @@ La misma pena se aplicará a quien siendo padre, madre, tutor o curador de un me
 
 Se considerará como empleado en cualquiera de los establecimientos mencionados en el primer párrafo de este articulo, y para los efectos del mismo, a la persona menor de dieciocho años que por cualquier estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 181 Bis.
+
+El que a través de internet, del teléfono, o de cualquier otra tecnología de la información, o la comunicación, contacte con un menor de dieciocho años o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, y proponga concertar un encuentro con el mismo, a fin de cometer cualquiera de los delitos descritos en los artículos, 148, 149, 180, 180 BIS, 182, 183, 184, 184 BIS, 187 y 188, siempre que tal propuesta se acompañe de actos materiales encaminados al acercamiento, se le impondrá de seis meses a cinco años de prisión y de trescientos a quinientos días multa, sin perjuicio de las penas correspondientes a los delitos, en su caso, cometidos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO II
@@ -2099,9 +2109,17 @@ VI. Por dos o más personas, en participación o autoría;
 
 VII. En el hogar, escuela, iglesia o sitio de reunión al que acudía la víctima;
 
-VIII. Suministrando a la víctima alguna sustancia tóxica que le impidiera evitar la ejecución del acto, y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
 
-IX. Se emplee para la comisión del delito la violencia, psicológica o moral, en contra de la víctima.
+VIII. Suministrando a la víctima alguna sustancia tóxica que le impidiera evitar la ejecución del acto;
+
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
+
+IX. Se emplee para la comisión del delito la violencia, psicológica o moral, en contra de la víctima, y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+
+X. Por persona que se valga del uso o empleo del internet, del teléfono, o de cualquier otra tecnología de la información, o la comunicación para generar relación de confianza o amistad con la víctima.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -2527,7 +2545,9 @@ Este delito se sancionará con una pena de dos a seis años de prisión, sanció
 
 Comete el delito de extorsión quien para obtener un lucro para sí o para un tercero, intimide a otro con causarle un mal en su persona, familia o bienes, obligándolo a dar, hacer, dejar de hacer o tolerar algo. Este delito se sancionará con una pena de prisión de cuatro a diez años y sanción pecuniaria de cuatrocientos a mil días de salario mínimo.
 
-Cuando este delito se cometa utilizando cualquier medio de comunicación, a través de los que se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital, u otros sistemas electromagnéticos, o cualquier otro originado con motivo de los descubrimientos de la ciencia, se le impondrá de seis a doce años de prisión y sanción pecuniaria de seiscientos a mil doscientos días de salario mínimo.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
+Cuando este delito se cometa utilizando cualquier medio de comunicación, a través de los que se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, informáticos, vía satelital, u otros sistemas electromagnéticos, o cualquier otro originado con motivo de los descubrimientos de la ciencia, se le impondrá de seis a doce años de prisión y sanción pecuniaria de seiscientos a mil doscientos días de salario mínimo.
 
 Además de las penas señaladas en el segundo párrafo de este artículo, se aumentará en una mitad más la pena de prisión y sanción pecuniaria impuestas, cuando en la comisión del delito:
 
@@ -4648,3 +4668,9 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
