@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-notariado-para-el-estado-de-zacatecas-51500"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-02"
-last_updated: "2006-08-02"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 2 de agosto de 2006.
 
@@ -1157,9 +1157,11 @@ Firmada la escritura por los intervinientes, inmediatamente después, el notario
 
 La autorización definitiva de la escritura, se pondrá al final de la misma, en donde se expresará la fecha, firma y sello del notario, así como las demás menciones que otras leyes prescriban, lo que significa que fueron satisfechos todos los requisitos que las leyes exigen, convirtiéndola en un documento público con todos los privilegios que ello implica.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2014)</small>
+
 ###### Artículo 114.
 
-Si quienes deban suscribir una escritura no se presentan a firmarla dentro de los treinta días hábiles siguientes a la fecha en que se extendió en el protocolo, el notario asentará al calce de ella la razón de "NO PASÓ", la cual deberá firmar y sellar. La razón de “NO PASÓ" priva al documento de cualquier valor probatorio.
+Si quienes deban suscribir una escritura no se presentan a firmarla dentro de los treinta días hábiles siguientes a la fecha en que se extendió en el protocolo, el notario asentará al calce de ella la razón de "NO PASÓ", la cual deberá firmar y sellar. La razón de "NO PASÓ" priva al documento de cualquier valor probatorio. De igual forma el fedatario público deberá comunicar dicha circunstancia al Oficial Registrador a fin de que proceda a la cancelación del aviso pre-preventivo a que se refiere el artículo 2485 del Código Civil del Estado.
 
 ###### Artículo 115.
 
@@ -1785,7 +1787,7 @@ Cuando por cualquier causa el Ejecutivo del Estado emita declaratoria de cesaci�
 
 ###### Artículo 184.
 
-La Dirección de Notarías iniciará el procedimiento de clausura fijando un aviso mismo que se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, y en uno de los (sic) de mayor circulación de la localidad. Enseguida se pedirá al Colegio de Notarios designe un representante para que concluya los asuntos en trámite y autorice la razón de cierre de los protocolos no agotados.
+La Dirección de Notarías iniciará el procedimiento de clausura fijando un aviso mismo que se publicará en el Periódico Oficial, Órgano del Gobierno del Estado, y en uno de los de mayor circulación de la localidad. Enseguida se pedirá al Colegio de Notarios designe un representante para que concluya los asuntos en trámite y autorice la razón de cierre de los protocolos no agotados.
 
 Se levantará acta en la que se hará constar la causa que motivó el cierre del protocolo, también se asentará el inventario de los libros, apéndice, índices, folios sin utilizar y no encuadernados, los demás documentos que hayan formado parte de la función notarial, destrucción del sello de autorizar, y el depósito de testamentos públicos cerrados si los hubiere. De considerarlo conveniente se harán constar las manifestaciones de los participantes en la diligencia.
 
@@ -1832,3 +1834,11 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JULIO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
