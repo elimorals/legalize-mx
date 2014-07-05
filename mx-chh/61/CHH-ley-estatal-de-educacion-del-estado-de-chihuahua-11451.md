@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2014-06-28"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -521,9 +521,9 @@ XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
 XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado;
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2014)</small>
 
-XLI. Promover la creación y dirigir el funcionamiento de un ente gubernamental en el Estado encargado de promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablen en el territorio estatal, así como de la difusión del conocimiento y disfrute de la riqueza cultural de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, a efecto de facilitarles el acceso y permanencia a la educación en general y a la formación para la vida, el trabajo y la productividad.
+XLI. Dirigir el funcionamiento, como cabeza de sector, de un ente gubernamental del Estado encargado de rescatar, revitalizar, preservar, utilizar, fomentar y transmitir la cosmovisión, cosmogonía, historias, tradiciones orales, filosofías, escrituras, idiomas y literaturas de los pueblos indígenas. Para los efectos de esta fracción, la Secretaría realizará acciones de coordinación con las instituciones del Gobierno Federal, así como con los Ayuntamientos de la Entidad, para diseñar, ejecutar, instrumentar y dar seguimiento a dichos programas y proyectos.
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
 
@@ -3960,3 +3960,13 @@ P.O. 28 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
