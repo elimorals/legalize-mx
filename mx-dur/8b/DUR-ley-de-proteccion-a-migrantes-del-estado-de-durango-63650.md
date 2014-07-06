@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-migrantes-del-estado-de-durango-63650"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-11"
-last_updated: "2013-12-05"
+last_updated: "2014-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de septiembre de 2008.
 
@@ -95,67 +95,113 @@ XII. Turista: Al extranjero autorizado por la autoridad migratoria para visitar 
 
 Quedan excluidos del régimen de esta Ley los asuntos de competencia federal señalados en la Ley General de Población y su Reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-Son duranguenses las personas a las que alude el artículo 14 de la Constitución Política del Estado Libre y Soberano de Durango.
+Son duranguenses las personas a las que alude el artículo 54 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-### CAPÍTULO II. DE LOS EMIGRANTES
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO II. DE LA MOVILIDAD HUMANA
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 6.
 
-Independientemente de las atribuciones federales establecidas en la Ley General de Población, el Gobierno deberá establecer un programa permanente para disminuir los procesos de emigración y las acciones específicas de apoyo, promoción y protección, para lo que deberá:
+La movilidad humana es la acción del derecho humano de toda persona a migrar, que incluye transformaciones positivas que disminuyan las desigualdades, inequidades y discriminación. No se reconocerá a ningún ser humano como ilegal por su condición, en tanto adquiere la calidad de inmigrado.
 
-A.
-
-I. Investigar las causas que den o puedan dar origen a la emigración rural y urbana hacia el extranjero;
-
-II. Mejorar las alternativas de desarrollo y la creación de la infraestructura de servicios adecuada en el medio rural y urbano, asegurando la prestación de servicios de educación básica en las comunidades de más de 100 habitantes y los servicios de salud en las poblaciones mayores de 5,000 habitantes, en coordinación con las dependencias y entidades federales, estatales y municipales competentes, para arraigar en sus localidades de origen a las comunidades de migrantes o a los núcleos de población propensas a este fenómeno social;
-
-III. Coordinarse con las dependencias y entidades federales, estatales y los Ayuntamientos, para la creación y consolidación de oportunidades ocupacionales, la organización y funcionamiento de unidades productivas, cooperativas, integradoras, sociedades de producción y otras organizaciones económicas en las comunidades rurales, que les permitan lograr un mayor aprovechamiento de sus recursos naturales y culturales que generen arraigo y permanencia de los habitantes de las diversas localidades; y
-
-IV. En coordinación con las dependencias, entidades federales y estatales competentes y los Ayuntamientos, proporcionarán servicios sobre orientación y gestión de trámites, en materia de registro civil, derechos humanos, migración y servicio exterior, entre otros.
-
-B.
-
-l. Establecer oficinas de representación en el extranjero que brinder (sic) apoyo a los migrantes;
-
-II. Establecer convenios y mecanismos de colaboración, apoyo y entendimiento con las autoridades locales del extranjero y consulares mexicanas;
-
-III. Suscribir convenios de colaboración con autoridades federales y de otras autoridades locales de otras entidades, organizaciones humanitarias, civiles, no gubernamentales y de carácter internacional en la materia;
-
-IV. Promover la agrupación de los emigrantes en asociaciones, federaciones, clubes u organizaciones similares;
-
-V. Promover la realización de obras públicas con la participación de emigrantes;
-
-VI. Establecer una línea telefónica gratuita que facilite la gestión de los trámites relativos al apoyo y protección de los emigrantes;
-
-VII. Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los emigrantes, así como facilitar la comunicación electrónica, y
-
-VIII. Promover el establecimiento de mecanismos que permitan las mejores condiciones en calidad, tiempo y precio en la transferencia de fondos provenientes del extranjero.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 7.
 
-El Instituto, deberá atender a los migrantes duranguenses y sus familiares consanguíneos, que pudieran verse afectados por el fenómeno de la migración. Entendiendo, para los efectos de esta Ley, como beneficiarios, a todos aquellos ciudadanos duranguenses que radiquen fuera del territorio nacional por más de tres meses por año, que conserven familia consanguínea hasta el segundo grado en el territorio del Estado, y se encuentren en el extranjero por razones de trabajo.
+Se consideran personas en movilidad humana, independientemente de su condición migratoria a:
 
-Las personas que pretendan emigrar del país, además de las obligaciones que establece la legislación federal aplicable, comunicarán, de ser posible, al Instituto o a los Ayuntamientos, la localidad donde pretenden establecerse, brindando la información que la autoridad estatal o municipal, en su caso, le requieran para fines estadísticos.
+I. Las personas que salen del Estado de Durango con la intención de asentarse de manera temporal o definitiva fuera de su territorio;
+
+II. Las personas mexicanas o extranjeras que llegan al Estado de Durango para:
+
+a) Asentarse en ella con fines de tránsito, permanencia temporal o definitiva;
+
+b) Las que por causa de cualquier tipo de violencia, o desastre natural buscan refugio o asilo en su territorio; y
+
+c) Las que por causa de desplazamiento forzado, buscan protección.
+
+Para el caso de las personas extranjeras, se deberá atender a las limitaciones que impongan las leyes en materia de migración.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
-Los menores de edad o las personas sujetas a interdicción, para realizar cualquier trámite migratorio, deberán presentarse acompañados por las personas que ejerzan sobre ellos la patria potestad o la tutela, en su caso; o acreditar el permiso concedido al efecto por dichas personas o por autoridad competente.
+En el Estado de Durango ninguna persona será objeto de discriminación o exclusión por su condición migratoria. El Gobierno del Estado apoyará la ejecución de programas y servicios con el objeto de promover la protección, acceso, ejercicio y defensa de sus derechos humanos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 9.
+
+El criterio de atención a familiares de migrantes, consiste en hacer posible el acceso a los programas y servicios del Gobierno del Estado de Durango, independientemente del lugar donde se encuentren sus migrantes.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO III. DE LOS EMIGRANTES
+
+###### ARTÍCULO 10.
+
+No pueden emigrar las personas que estén sujetas a proceso judicial, sean prófugos de la justicia, estén arraigados por cualquier causa en virtud de resolución judicial o que así lo establezcan otras disposiciones aplicables en la materia, salvo que exista autorización emitida por autoridad competente.
+
+El Gobierno y los Ayuntamientos podrán coadyuvar con la autoridad competente para evitar la emigración en los casos previstos en el párrafo anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 9.
+###### ARTÍCULO 11.
 
-El Instituto y los Ayuntamientos realizarán una campaña permanente para informar a los duranguenses de los riesgos y peligros a que se pueden enfrentar, al emigrar sin cumplir todos los requisitos que para entrar al país a donde se dirijan exijan las leyes del mismo.
+El Instituto, cuando le sea solicitado, podrá auxiliar y representar a los duranguenses en la verificación de la autenticidad, capacidad económica y legalidad de las empresas, patrones o contratistas que pretendan contratar trabajadores duranguenses para realizar labores en el extranjero.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL INSTITUTO
+El Instituto podrá acudir a las autoridades laborales migratorias y otras competentes para obtener la información suficiente que garantice a los trabajadores las mejores condiciones de contratación.
+
+Si el contrato en cuestión se extendiera en una lengua diferente al español, el Instituto podrá hacerlo traducir para proporcionarlo a cada uno de los trabajadores e informará a los mismos sobre los efectos legales correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 12.
+
+El traslado en forma colectiva de los trabajadores duranguenses que sean contratados para laborar en un país extranjero, independientemente de las acciones que realice el gobierno federal, deberá ser vigilado por el Ejecutivo, a efecto de garantizar en todo momento el trato respetuoso y digno a los duranguenses.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 6 DE JULIO DE 2014)
+
+###### ARTÍCULO 13.
+
+El Instituto coadyuvará con las autoridades federales competentes y con los municipios a petición de éstas, para la repatriación de mexicanos que conforme a sus conocimientos o capacidades puedan contribuir al desarrollo del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 14.
+
+El Instituto coadyuvará con los demás organismos federales y municipales que correspondan, para distribuir en los centros de población existentes y en los que se creen, a los contingentes de repatriados que en forma colectiva se internen al país, en los términos de los artículos 83 y 84 de la Ley General de Población, cuidando en todo momento que se garanticen las prestaciones de los servicios públicos, el acceso a los servicios educativos básicos y de salud a la población residente, deportados y repatriados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 15.
+
+Cuando un duranguense sea deportado de un país extranjero, el Instituto y los Ayuntamientos, conforme a sus posibilidades, podrán contribuir con un porcentaje del costo de traslado de su persona a la población de origen, en los términos del Capítulo IV de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 16.
+
+Para ser sujeto a los beneficios señalados en el artículo anterior, el Instituto deberá verificar ante las autoridades consulares mexicanas, la fecha, hora y motivo de la deportación. De no estar registrado este suceso por las autoridades consulares, no será sujeto del beneficio señalado.
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DEL INSTITUTO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -211,69 +257,19 @@ XXIII. Proporcionar atención y protección a migrantes víctimas de delitos, y
 
 XXIII. Las demás que resulten necesarias para el cumplimiento de los objetivos de la presente Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 6 DE JULIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
+###### ARTÍCULO 17.
 
-###### ARTÍCULO 10.
+Cuando la causa de deportación haya sido la comisión de un delito grave que amerite pena corporal, los beneficios señalados en Capítulo IV de esta Ley no serán aplicables para el deportado.
 
-No pueden emigrar las personas que estén sujetas a proceso judicial, sean prófugos de la justicia, estén arraigados por cualquier causa en virtud de resolución judicial o que así lo establezcan otras disposiciones aplicables en la materia, salvo que exista autorización emitida por autoridad competente.
-
-El Gobierno y los Ayuntamientos podrán coadyuvar con la autoridad competente para evitar la emigración en los casos previstos en el párrafo anterior.
+De manera excepcional, la autoridad correspondiente podrá brindar los beneficios señalados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 11.
-
-El Instituto, cuando le sea solicitado, podrá auxiliar y representar a los duranguenses en la verificación de la autenticidad, capacidad económica y legalidad de las empresas, patrones o contratistas que pretendan contratar trabajadores duranguenses para realizar labores en el extranjero.
-
-El Instituto podrá acudir a las autoridades laborales migratorias y otras competentes para obtener la información suficiente que garantice a los trabajadores las mejores condiciones de contratación.
-
-Si el contrato en cuestión se extendiera en una lengua diferente al español, el Instituto podrá hacerlo traducir para proporcionarlo a cada uno de los trabajadores e informará a los mismos sobre los efectos legales correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 12.
-
-El traslado en forma colectiva de los trabajadores duranguenses que sean contratados para laborar en un país extranjero, independientemente de las acciones que realice el gobierno federal, deberá ser vigilado por el Ejecutivo, a efecto de garantizar en todo momento el trato respetuoso y digno a los duranguenses.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 13.
-
-El Instituto coadyuvará con las autoridades federales competentes y con los municipios a petición de éstas, para la repatriación de mexicanos que conforme a sus conocimientos o capacidades puedan contribuir al desarrollo del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 14.
-
-El Instituto coadyuvará con los demás organismos federales y municipales que correspondan, para distribuir en los centros de población existentes y en los que se creen, a los contingentes de repatriados que en forma colectiva se internen al país, en los términos de los artículos 83 y 84 de la Ley General de Población, cuidando en todo momento que se garanticen las prestaciones de los servicios públicos, el acceso a los servicios educativos básicos y de salud a la población residente, deportados y repatriados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 15.
-
-Cuando un duranguense sea deportado de un país extranjero, el Instituto y los Ayuntamientos, conforme a sus posibilidades, podrán contribuir con un porcentaje del costo de traslado de su persona a la población de origen, en los términos del Capítulo IV de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 16.
-
-Para ser sujeto a los beneficios señalados en el artículo anterior, el Instituto deberá verificar ante las autoridades consulares mexicanas, la fecha, hora y motivo de la deportación. De no estar registrado este suceso por las autoridades consulares, no será sujeto del beneficio señalado.
-
-### CAPÍTULO IV. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
+### CAPÍTULO V. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -301,21 +297,65 @@ ARTÍCULO 12 BIS 2. El Instituto deberá contar con un órgano de control intern
 
 ARTÍCULO 12 BIS 3. El Reglamento Interior del Instituto establecerá la estructura orgánica, atribuciones y funciones específicas de las áreas operativas del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 6 DE JULIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
+###### ARTÍCULO 18.
 
-###### ARTÍCULO 17.
-
-Cuando la causa de deportación haya sido la comisión de un delito grave que amerite pena corporal, los beneficios señalados en Capítulo IV de esta Ley no serán aplicables para el deportado.
-
-De manera excepcional, la autoridad correspondiente podrá brindar los beneficios señalados.
+Cuando un duranguense, haya cometido un delito en el extranjero o en el país y sea extraditado conforme a los tratados internacionales vigentes y la legislación penal aplicable, el Instituto, de acuerdo por lo establecido en el artículo 4 de la presente Ley, podrá vigilar que la entrega entre las autoridades correspondientes se realice salvaguardando sus derechos a un trato digno y humano, para lo que podrá solicitar la intervención de la Comisión Nacional de Derechos Humanos o de la Comisión Estatal de Derechos Humanos, según sea el caso, sin que esto ponga en riesgo la seguridad y confidencialidad de las acciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO V. DE LA JUNTA DIRECTIVA
+###### ARTÍCULO 19.
+
+Cuando un duranguense en el extranjero cometa un delito y sea sentenciado a una pena privativa de su vida, el Instituto solicitará a la Secretaría de Relaciones Exteriores su intervención oficial para solicitar clemencia, en los términos de la legislación aplicable.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XII. DE LA ASISTENCIA SOCIAL AL EMIGRANTE
+
+###### ARTÍCULO 20.
+
+Para poder acceder al beneficio de la asistencia social, además de los requisitos señalados en esta Ley, se deberá:
+
+I. Demostrar la condición de duranguense del beneficiado; y
+
+II. Demostrar que cuenta con un domicilio en el Estado de Durango, en términos de la ley.
+
+###### ARTÍCULO 21.
+
+Las autoridades del Estado de Durango brindarán apoyo, en la medida de las disposiciones presupuestales, a los duranguenses localizados temporal o definitivamente en el extranjero que requieran el auxilio de las autoridades, para:
+
+I. Ser trasladados a una localidad del Estado en caso de deportación;
+
+II. El traslado de cadáveres de duranguenses fallecidos en el extranjero;
+
+III. Brindar auxilio en caso de situaciones excepcionales; y
+
+IV. El trámite de documentos oficiales.
+
+###### ARTÍCULO 22.
+
+La solicitud de apoyo o asistencia a un emigrante duranguense podrá ser tramitada por un pariente directo de él o de su cónyuge, por la autoridad consular mexicana o por las autoridades municipales donde se localicen puestos fronterizos, puertos y aeropuertos, donde eventualmente se localice el emigrante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 23.
+
+Se crea el Fondo Estatal de Asistencia al Emigrante del Estado de Durango, con la aportación de recursos federales, estatales, municipales, del sector privado e internacionales, el que se regulará conforme a la Ley de Entidades Paraestatales del Estado de Durango y que tendrá como finalidad, brindar asistencia social a los emigrantes que por su condición económica, retornen al país al ser deportados o repatriados y requieran auxilio para ser trasladados a su comunidad de residencia en el Estado de Durango.
+
+###### ARTÍCULO 24.
+
+El Fondo Estatal de Asistencia al Emigrante del Estado de Durango deberá quedar incluido en el presupuesto de Egresos de cada año.
+
+###### ARTÍCULO 25.
+
+Los Ayuntamientos, conforme a su capacidad financiera, podrán crear Fondos Municipales de Asistencia al Emigrante, los que se deberán reflejar en sus presupuestos anuales de egresos.
+
+### CAPÍTULO VI. DE LA JUNTA DIRECTIVA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -403,69 +443,59 @@ ARTÍCULO 12 BIS 8. Los cargos de los integrantes de la Junta Directiva serán h
 
 ARTÍCULO 12 BIS 9. Para el mejor análisis y discusión de los asuntos de su competencia, la Junta Directiva, a través de su Presidente o del Secretario Técnico, podrán invitar a personas especialistas en algún tema determinado que sea de interés y que se vaya a tratar en las sesiones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 6 DE JULIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
+###### ARTÍCULO 26.
 
-###### ARTÍCULO 18.
-
-Cuando un duranguense, haya cometido un delito en el extranjero o en el país y sea extraditado conforme a los tratados internacionales vigentes y la legislación penal aplicable, el Instituto, de acuerdo por lo establecido en el artículo 4 de la presente Ley, podrá vigilar que la entrega entre las autoridades correspondientes se realice salvaguardando sus derechos a un trato digno y humano, para lo que podrá solicitar la intervención de la Comisión Nacional de Derechos Humanos o de la Comisión Estatal de Derechos Humanos, según sea el caso, sin que esto ponga en riesgo la seguridad y confidencialidad de las acciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 19.
-
-Cuando un duranguense en el extranjero cometa un delito y sea sentenciado a una pena privativa de su vida, el Instituto solicitará a la Secretaría de Relaciones Exteriores su intervención oficial para solicitar clemencia, en los términos de la legislación aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO XII. DE LAS OBRAS PÚBLICAS CON LA PARTICIPACIÓN DE EMIGRANTES
-
-###### ARTÍCULO 20.
-
-Para poder acceder al beneficio de la asistencia social, además de los requisitos señalados en esta Ley, se deberá:
-
-I. Demostrar la condición de duranguense del beneficiado; y
-
-II. Demostrar que cuenta con un domicilio en el Estado de Durango, en términos de la ley.
-
-###### ARTÍCULO 21.
-
-Las autoridades del Estado de Durango brindarán apoyo, en la medida de las disposiciones presupuestales, a los duranguenses localizados temporal o definitivamente en el extranjero que requieran el auxilio de las autoridades, para:
-
-I. Ser trasladados a una localidad del Estado en caso de deportación;
-
-II. El traslado de cadáveres de duranguenses fallecidos en el extranjero;
-
-III. Brindar auxilio en caso de situaciones excepcionales; y
-
-IV. El trámite de documentos oficiales.
-
-###### ARTÍCULO 22.
-
-La solicitud de apoyo o asistencia a un emigrante duranguense podrá ser tramitada por un pariente directo de él o de su cónyuge, por la autoridad consular mexicana o por las autoridades municipales donde se localicen puestos fronterizos, puertos y aeropuertos, donde eventualmente se localice el emigrante.
+Los Ayuntamientos podrán disponer, conforme a su disposición presupuestal, de una oficina de atención a los emigrantes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 23.
+###### ARTÍCULO 27.
 
-Se crea el Fondo Estatal de Asistencia al Emigrante del Estado de Durango, con la aportación de recursos federales, estatales, municipales, del sector privado e internacionales, el que se regulará conforme a la Ley de Entidades Paraestatales del Estado de Durango y que tendrá como finalidad, brindar asistencia social a los emigrantes que por su condición económica, retornen al país al ser deportados o repatriados y requieran auxilio para ser trasladados a su comunidad de residencia en el Estado de Durango.
+El emigrante o quien realice la solicitud de apoyo, conforme al artículo 22 de esta Ley, deberá demostrar que el beneficiario radicaba en el extranjero y no fue deportado por las causales señaladas en el artículo 17 de este mismo instrumento.
 
-###### ARTÍCULO 24.
+###### ARTÍCULO 28.
 
-El Fondo Estatal de Asistencia al Emigrante del Estado de Durango deberá quedar incluido en el presupuesto de Egresos de cada año.
+El Estado, y en su caso, el municipio, establecerán los mecanismos, conforme a la disponibilidad presupuestal, para brindar asistencia social a los duranguenses que hayan sido deportados, la que podrá ser:
 
-###### ARTÍCULO 25.
+l. En efectivo, cubriendo una parte porcentual del costo de transportación del beneficiario hasta la localidad de residencia dentro del Estado;
 
-Los Ayuntamientos, conforme a su capacidad financiera, podrán crear Fondos Municipales de Asistencia al Emigrante, los que se deberán reflejar en sus presupuestos anuales de egresos.
+II. En especie, conviniendo con las empresas que brindan el servicio de transporte de pasajeros, las facilidades para que el beneficiario se traslade en un solo trayecto continuo desde el punto fronterizo, puerto o aeropuerto donde haya sido deportado, hasta la localidad de residencia dentro del Estado; y
 
-### CAPÍTULO VI. DE LA DIRECCIÓN DEL INSTITUTO Y SUS ÁREAS OPERATIVAS
+III. En gestión ante autoridades locales y federales del punto fronterizo, puerto o aeropuerto donde haya sido deportado, para que pueda recibir apoyos asistenciales en tanto se realiza su traslado a la entidad.
+
+###### ARTÍCULO 29.
+
+Cuando la solicitud de apoyo no provenga de la autoridad consular mexicana, se podrá actuar conforme a lo previsto en el artículo 15 de esta Ley. En todo caso, la deportación del beneficiario no deberá de haber ocurrido en un tiempo mayor a ocho días naturales al momento de presentarse la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 30.
+
+Cuando un duranguense fallezca en el extranjero, las autoridades estatales y municipales, en su caso, y conforme al ámbito de su competencia, deberán brindar todas las facilidades para el trámite de la documentación oficial que les sea requerida.
+
+###### ARTÍCULO 31.
+
+Los deudos de un duranguense fallecido en el extranjero, podrán solicitar al Estado y al municipio, según sea el caso, se les brinde asesoría para la realización de los trámites de internación al territorio nacional, a fin de sepultarlo en el país.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+El Instituto, a requerimiento de los deudos o de las autoridades consulares, podrá apoyar económicamente en el proceso de traslado e inhumación.
+
+Si la inhumación se realizara en un panteón del territorio estatal, además podrá brindarle las facilidades necesarias para que se realice el acto en un marco de dignidad y respeto.
+
+###### ARTÍCULO 32.
+
+La transportación de cadáveres y restos áridos, deberá cumplir con todos los requisitos establecidos en la normatividad aplicable.
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DEL INSTITUTO Y SUS ÁREAS OPERATIVAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -531,113 +561,7 @@ XIV. Las demás que le asigne la Junta Directiva, el Reglamento Interior y demá
 
 ARTÍCULO 12 BIS 12. Los responsables de cada área operativa deberán cumplir con los requisitos que el Reglamento Interior del Instituto les asigne y tendrán las atribuciones que el propio Reglamento les señale.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 26.
-
-Los Ayuntamientos podrán disponer, conforme a su disposición presupuestal, de una oficina de atención a los emigrantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 27.
-
-El emigrante o quien realice la solicitud de apoyo, conforme al artículo 22 de esta Ley, deberá demostrar que el beneficiario radicaba en el extranjero y no fue deportado por las causales señaladas en el artículo 17 de este mismo instrumento.
-
-###### ARTÍCULO 28.
-
-El Estado, y en su caso, el municipio, establecerán los mecanismos, conforme a la disponibilidad presupuestal, para brindar asistencia social a los duranguenses que hayan sido deportados, la que podrá ser:
-
-l. En efectivo, cubriendo una parte porcentual del costo de transportación del beneficiario hasta la localidad de residencia dentro del Estado;
-
-II. En especie, conviniendo con las empresas que brindan el servicio de transporte de pasajeros, las facilidades para que el beneficiario se traslade en un solo trayecto continuo desde el punto fronterizo, puerto o aeropuerto donde haya sido deportado, hasta la localidad de residencia dentro del Estado; y
-
-III. En gestión ante autoridades locales y federales del punto fronterizo, puerto o aeropuerto donde haya sido deportado, para que pueda recibir apoyos asistenciales en tanto se realiza su traslado a la entidad.
-
-###### ARTÍCULO 29.
-
-Cuando la solicitud de apoyo no provenga de la autoridad consular mexicana, se podrá actuar conforme a lo previsto en el artículo 15 de esta Ley. En todo caso, la deportación del beneficiario no deberá de haber ocurrido en un tiempo mayor a ocho días naturales al momento de presentarse la solicitud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 30.
-
-Cuando un duranguense fallezca en el extranjero, las autoridades estatales y municipales, en su caso, y conforme al ámbito de su competencia, deberán brindar todas las facilidades para el trámite de la documentación oficial que les sea requerida.
-
-###### ARTÍCULO 31.
-
-Los deudos de un duranguense fallecido en el extranjero, podrán solicitar al Estado y al municipio, según sea el caso, se les brinde asesoría para la realización de los trámites de internación al territorio nacional, a fin de sepultarlo en el país.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-El Instituto, a requerimiento de los deudos o de las autoridades consulares, podrá apoyar económicamente en el proceso de traslado e inhumación.
-
-Si la inhumación se realizara en un panteón del territorio estatal, además podrá brindarle las facilidades necesarias para que se realice el acto en un marco de dignidad y respeto.
-
-###### ARTÍCULO 32.
-
-La transportación de cadáveres y restos áridos, deberá cumplir con todos los requisitos establecidos en la normatividad aplicable.
-
-### CAPÍTULO VII. DEL CONSEJO CONSULTIVO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 13. El Instituto contará con un Consejo Consultivo que fungirá como órgano asesor en materia de migración, y como promotor de las acciones del Instituto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 14. El Consejo Consultivo se integrará con seis personas de la sociedad civil; conocedores o con experiencia en la materia de migración; los cuales deberán representar a los diferentes sectores de la sociedad, serán nombrados por la Junta Directiva conforme a la convocatoria que se expida en los términos que el Reglamento Interior señale.
-
-Los Ayuntamientos del Estado con población migrante acreditarán ante el Consejo Consultivo a un representante del Cabildo respectivo, el que programará en forma permanente la asistencia e invitación de éstos a sus reuniones, conforme lo considere conveniente, según los asuntos a tratar.
-
-Al Consejo Consultivo concurrirán como invitados permanentes personas representativas de las organizaciones de migrantes duranguenses en el extranjero.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 15. Los cargos del Consejo Consultivo serán honoríficos, por los que no percibirán salario, emolumento o retribución económica alguna. No obstante, podrán recibir los viáticos necesarios para cumplir con las encomiendas que con motivo de su función reciban.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 16. Los miembros del Consejo Consultivo que lo sean por razón de su cargo durarán mientras dure dicho cargo; los demás duraran tres años, contados a partir de su nombramiento, pudiendo ser ratificados por la Junta Directiva por un período igual, en los términos que establezca el Reglamento Interior o hasta que sean substituidos, renuncien al mismo o les resulte imposible su desempeño.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 17. Serán atribuciones del Consejo Consultivo las siguientes:
-
-I. Funcionar como órgano de consulta del Instituto, con relación a los objetivos de éste último;
-
-II. Proponer a la Junta Directiva, la realización de proyectos en materia de atención a migrantes;
-
-III. Formular a la Junta Directiva la elaboración de estudios y proyectos, para el desarrollo de los programas operativos del Instituto;
-
-IV. Dar seguimiento a las políticas, programas, proyectos y acciones que desarrolle el Instituto en cumplimiento de su objetivo, así como, en su caso, sugerir las modificaciones tendientes a perfeccionarlas;
-
-V. Coadyuvar en la elaboración de las políticas y programas que establezcan las dependencias estatales y municipales, así como las instituciones educativas y de la sociedad civil, orientadas a la atención de los problemas de migrantes;
-
-VI. Apoyar en el desarrollo de acciones concretas del Instituto en lugares de destino de migrantes, y
-
-VII. Las demás que el Reglamento Interior del Instituto establezca.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 6 DE JULIO DE 2014)
 
 ###### ARTÍCULO 33.
 
@@ -701,11 +625,9 @@ La falta de pago de infracciones y sanciones administrativas, podrá ser, requer
 
 El Estado coadyuvará con el gobierno federal y los municipios, en la realización de programas temporales o permanentes de atención y orientación a emigrantes, en aeropuertos, centrales de autobuses y carreteras.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 6 DE JULIO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO XIII. DE LOS TRANSMIGRANTES Y LOS TURISTAS
+### CAPÍTULO XIII. DE LAS OBRAS PÚBLICAS CON LA PARTICIPACIÓN DE EMIGRANTES
 
 ###### ARTÍCULO 41.
 
@@ -803,35 +725,57 @@ Se crea el Fondo Estatal para la Realización de Obras Públicas con la Particip
 
 El Fondo Estatal para la Realización de Obras Públicas con la Participación de Emigrantes deberá quedar incluido en los presupuestos de egresos de cada año.
 
-### CAPÍTULO VIII. DEL PATRIMONIO DEL INSTITUTO
+### CAPÍTULO VIII. DEL CONSEJO CONSULTIVO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 12 BIS 18. El patrimonio del Instituto se conformará de la siguiente manera:
-
-I. Con la partida que establezca el Presupuesto de Egresos del Estado;
-
-II. Con todos aquellos bienes que el Ejecutivo le asigne para el cumplimiento de sus fines;
-
-III. Con todas aquellas aportaciones que hagan en su favor los tres órdenes de gobierno, ya sean en especie o numerario;
-
-IV. Con las aportaciones, legados, donaciones y demás recursos que reciba de personas físicas o morales;
-
-V. Con los frutos, rendimientos y demás ingresos que su mismo patrimonio generen, y
-
-VI. Con todos los demás bienes que se asignen u obtengan para el cumplimiento de sus objetivos.
+ARTÍCULO 12 BIS 13. El Instituto contará con un Consejo Consultivo que fungirá como órgano asesor en materia de migración, y como promotor de las acciones del Instituto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 12 BIS 19. El Instituto queda sujeto a las reglas de presupuesto, contabilidad y gasto público aplicables a la Administración Pública.
+ARTÍCULO 12 BIS 14. El Consejo Consultivo se integrará con seis personas de la sociedad civil; conocedores o con experiencia en la materia de migración; los cuales deberán representar a los diferentes sectores de la sociedad, serán nombrados por la Junta Directiva conforme a la convocatoria que se expida en los términos que el Reglamento Interior señale.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los Ayuntamientos del Estado con población migrante acreditarán ante el Consejo Consultivo a un representante del Cabildo respectivo, el que programará en forma permanente la asistencia e invitación de éstos a sus reuniones, conforme lo considere conveniente, según los asuntos a tratar.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
+Al Consejo Consultivo concurrirán como invitados permanentes personas representativas de las organizaciones de migrantes duranguenses en el extranjero.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS 15. Los cargos del Consejo Consultivo serán honoríficos, por los que no percibirán salario, emolumento o retribución económica alguna. No obstante, podrán recibir los viáticos necesarios para cumplir con las encomiendas que con motivo de su función reciban.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS 16. Los miembros del Consejo Consultivo que lo sean por razón de su cargo durarán mientras dure dicho cargo; los demás duraran tres años, contados a partir de su nombramiento, pudiendo ser ratificados por la Junta Directiva por un período igual, en los términos que establezca el Reglamento Interior o hasta que sean substituidos, renuncien al mismo o les resulte imposible su desempeño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS 17. Serán atribuciones del Consejo Consultivo las siguientes:
+
+I. Funcionar como órgano de consulta del Instituto, con relación a los objetivos de éste último;
+
+II. Proponer a la Junta Directiva, la realización de proyectos en materia de atención a migrantes;
+
+III. Formular a la Junta Directiva la elaboración de estudios y proyectos, para el desarrollo de los programas operativos del Instituto;
+
+IV. Dar seguimiento a las políticas, programas, proyectos y acciones que desarrolle el Instituto en cumplimiento de su objetivo, así como, en su caso, sugerir las modificaciones tendientes a perfeccionarlas;
+
+V. Coadyuvar en la elaboración de las políticas y programas que establezcan las dependencias estatales y municipales, así como las instituciones educativas y de la sociedad civil, orientadas a la atención de los problemas de migrantes;
+
+VI. Apoyar en el desarrollo de acciones concretas del Instituto en lugares de destino de migrantes, y
+
+VII. Las demás que el Reglamento Interior del Instituto establezca.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 6 DE JULIO DE 2014)
 
 ###### ARTÍCULO 50.
 
@@ -841,11 +785,9 @@ Los municipios, conforme a su capacidad financiera, podrán crear Fondos Municip
 
 Los recursos del Fondo Estatal para la Realización de Obras Públicas con la Participación de Emigrantes no utilizados en el ejercicio fiscal correspondiente, serán acumulados para su aplicación en el siguiente ejercicio; la misma regla operará en tratándose de fondos municipales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 6 DE JULIO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO XIV. DEL PADRÓN DE INMIGRANTES EXTRANJEROS EN EL ESTADO DE DURANGO
+### CAPÍTULO XIV. DE LOS TRANSMIGRANTES Y LOS TURISTAS
 
 ###### ARTÍCULO 52.
 
@@ -889,17 +831,81 @@ Si se siguiese un juicio privativo de la libertad en su contra, el Instituto inf
 
 Ningún transmigrante o turista puede ser detenido en el territorio estatal por una autoridad estatal o municipal, por la sola presunción de su condición migratoria. Para su identificación, basta la presentación de credencial o identificación oficial de una institución o dependencia oficial nacional o extranjera; pasaporte o matricula consular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIV], P.O. 6 DE JULIO DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 5 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO XV. DEL PADRÓN DE INMIGRANTES EXTRANJEROS EN EL ESTADO DE DURANGO
 
-### CAPÍTULO XV. DE LOS MEDIOS DE PROTECCIÓN DE LOS MIGRANTES
+### CAPÍTULO IX. DEL PATRIMONIO DEL INSTITUTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS 18. El patrimonio del Instituto se conformará de la siguiente manera:
+
+I. Con la partida que establezca el Presupuesto de Egresos del Estado;
+
+II. Con todos aquellos bienes que el Ejecutivo le asigne para el cumplimiento de sus fines;
+
+III. Con todas aquellas aportaciones que hagan en su favor los tres órdenes de gobierno, ya sean en especie o numerario;
+
+IV. Con las aportaciones, legados, donaciones y demás recursos que reciba de personas físicas o morales;
+
+V. Con los frutos, rendimientos y demás ingresos que su mismo patrimonio generen, y
+
+VI. Con todos los demás bienes que se asignen u obtengan para el cumplimiento de sus objetivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
+ARTÍCULO 12 BIS 19. El Instituto queda sujeto a las reglas de presupuesto, contabilidad y gasto público aplicables a la Administración Pública.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX], P.O. 6 DE JULIO DE 2014)
+
+###### ARTÍCULO 57.
+
+Para fines estadísticos, evaluación e implementación de las políticas públicas de protección, se crea el Padrón de Inmigrantes Extranjeros en el Estado de Durango, a cargo del Consejo Estatal de Población, con el objeto de:
+
+I. Que los inmigrantes establecidos en el Estado cuenten con una identificación estatal oficial e indubitable, misma que contará con las medidas de seguridad establecidas en las normas reglamentarias que para tal efecto se expidan;
+
+II. Promover el cumplimiento de sus obligaciones; y
+
+III. Establecer parámetros permanentes para la medición y regulación de la política poblacional estatal.
+
+###### ARTÍCULO 58.
+
+Todo inmigrante e inmigrado mayor de 18 años con residencia permanente en el Estado, tiene el derecho de inscribirse en el Padrón de Inmigrantes en el Estado de Durango.
+
+###### ARTÍCULO 59.
+
+El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, llevará a cabo conjuntamente con los municipios, acciones para promover, fomentar, integrar, organizar y vigilar el Padrón de Inmigrantes en el Estado de Durango, así como la expedición y entrega de las identificaciones oficiales correspondientes.
+
+###### ARTÍCULO 60.
+
+La credencial de identificación del Padrón de Inmigrantes en el Estado de Durango será válida y deberá aceptarse como identificación oficial por las dependencias y entidades de la administración pública del Estado, así como sus municipios.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XV], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XVI. DE LOS MEDIOS DE PROTECCIÓN DE LOS MIGRANTES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO IX. DE LOS PLANES Y PROGRAMAS DEL INSTITUTO
+###### ARTÍCULO 61.
+
+Cualquier persona podrá denunciar presuntas conductas discriminatorias o violatorias de los derechos, integridad física y mental de los emigrantes, inmigrantes y transmigrantes, para lo que deberá documentar y fundamentar sus quejas o denuncias respecto a las conductas presuntamente delictivas, ya sea directamente o por medio de su representante; pudiendo ser:
+
+I. Queja: procedimiento que se seguirá por conductas presuntamente discriminatorias o violatorias de sus derechos, ejecutadas por autoridades estatales o municipales y federales en el ejercicio de sus funciones o con motivo de ellas.
+
+En el primer caso, el Instituto, y en su caso, las municipales, conocerán de la queja, remitiéndola en forma inmediata al órgano interno de control correspondiente, orientando al quejoso en el ejercicio de sus derechos; en el segundo caso, se dará intervención inmediata a la Comisión Estatal de Derechos Humanos, documentará la queja para turnarla a la Comisión Nacional de los Derechos Humanos y a la Secretaría de la Función Pública del Gobierno Federal, para su conocimiento; y
+
+II. Denuncia: procedimiento que seguirá el Instituto cuando se presuma la consumación de un delito o deba iniciarse alguna controversia de carácter civil, mercantil, administrativa o de otra índole, procedimiento administrativo para brindar al migrante la orientación para que acuda ante la autoridad o servidor público competente, o en su caso, la canalice ante la autoridad que corresponda.
+
+En tratándose de acciones, reclamaciones, quejas y denuncias cuyo trámite deba realizarse en el extranjero, el Instituto, por conducto de sus oficinas de representación, brindarán la orientación, y en su caso, asistencia para el trámite de aquéllas, canalizando, en su caso, los asuntos a las representaciones consulares más cercanas.
+
+### CAPÍTULO X. DE LOS PLANES Y PROGRAMAS DEL INSTITUTO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -951,55 +957,13 @@ ARTÍCULO 12 BIS 26. El Instituto implementará programas de carácter permanent
 
 ARTÍCULO 12 BIS 27. El Instituto gestionará que las dependencias del Ejecutivo y los Ayuntamientos, otorguen toda clase de facilidades a los migrantes y sus familias para la obtención y envío de documentos oficiales, de identidad, estudios, propiedad y otros de carácter público que les sean necesarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 6 DE JULIO DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 57.
-
-Para fines estadísticos, evaluación e implementación de las políticas públicas de protección, se crea el Padrón de Inmigrantes Extranjeros en el Estado de Durango, a cargo del Consejo Estatal de Población, con el objeto de:
-
-I. Que los inmigrantes establecidos en el Estado cuenten con una identificación estatal oficial e indubitable, misma que contará con las medidas de seguridad establecidas en las normas reglamentarias que para tal efecto se expidan;
-
-II. Promover el cumplimiento de sus obligaciones; y
-
-III. Establecer parámetros permanentes para la medición y regulación de la política poblacional estatal.
-
-###### ARTÍCULO 58.
-
-Todo inmigrante e inmigrado mayor de 18 años con residencia permanente en el Estado, tiene el derecho de inscribirse en el Padrón de Inmigrantes en el Estado de Durango.
-
-###### ARTÍCULO 59.
-
-El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, llevará a cabo conjuntamente con los municipios, acciones para promover, fomentar, integrar, organizar y vigilar el Padrón de Inmigrantes en el Estado de Durango, así como la expedición y entrega de las identificaciones oficiales correspondientes.
-
-###### ARTÍCULO 60.
-
-La credencial de identificación del Padrón de Inmigrantes en el Estado de Durango será válida y deberá aceptarse como identificación oficial por las dependencias y entidades de la administración pública del Estado, así como sus municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 61.
-
-Cualquier persona podrá denunciar presuntas conductas discriminatorias o violatorias de los derechos, integridad física y mental de los emigrantes, inmigrantes y transmigrantes, para lo que deberá documentar y fundamentar sus quejas o denuncias respecto a las conductas presuntamente delictivas, ya sea directamente o por medio de su representante; pudiendo ser:
-
-I. Queja: procedimiento que se seguirá por conductas presuntamente discriminatorias o violatorias de sus derechos, ejecutadas por autoridades estatales o municipales y federales en el ejercicio de sus funciones o con motivo de ellas.
-
-En el primer caso, el Instituto, y en su caso, las municipales, conocerán de la queja, remitiéndola en forma inmediata al órgano interno de control correspondiente, orientando al quejoso en el ejercicio de sus derechos; en el segundo caso, se dará intervención inmediata a la Comisión Estatal de Derechos Humanos, documentará la queja para turnarla a la Comisión Nacional de los Derechos Humanos y a la Secretaría de la Función Pública del Gobierno Federal, para su conocimiento; y
-
-II. Denuncia: procedimiento que seguirá el Instituto cuando se presuma la consumación de un delito o deba iniciarse alguna controversia de carácter civil, mercantil, administrativa o de otra índole, procedimiento administrativo para brindar al migrante la orientación para que acuda ante la autoridad o servidor público competente, o en su caso, la canalice ante la autoridad que corresponda.
-
-En tratándose de acciones, reclamaciones, quejas y denuncias cuyo trámite deba realizarse en el extranjero, el Instituto, por conducto de sus oficinas de representación, brindarán la orientación, y en su caso, asistencia para el trámite de aquéllas, canalizando, en su caso, los asuntos a las representaciones consulares más cercanas.
-
-### CAPÍTULO X. DE LA REPATRIACIÓN Y DEPORTACIÓN DE EMIGRANTES DURANGUENSES
+### CAPÍTULO XI. DE LA REPATRIACIÓN Y DEPORTACIÓN DE EMIGRANTES DURANGUENSES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO XI. DE LA ASISTENCIA SOCIAL AL EMIGRANTE
 
 ###### ARTÍCULO 62.
 
@@ -1072,3 +1036,9 @@ CUARTO. El personal, los recursos y asuntos pendientes que pertenecen a la Direc
 QUINTO. La Junta Directiva deberá expedir el Reglamento Interior del Instituto, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
 
 SEXTO. El Ejecutivo del Estado deberá integrar el Consejo a que se refiere el artículo 12 bis 14 de esta ley, dentro de los 30 días hábiles contados a partir del día siguiente de la entrada en vigor del presente ordenamiento jurídico.
+
+P.O. 6 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
