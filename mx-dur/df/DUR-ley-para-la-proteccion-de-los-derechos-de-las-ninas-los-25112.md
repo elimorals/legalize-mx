@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2012-10-21"
+last_updated: "2014-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de mayo de 2002.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
@@ -67,9 +67,13 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Niña o Niño.- A las personas hasta los doce años de edad incumplidos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
 
-II. Adolescentes.- toda persona que tienen entre doce años cumplidos y dieciocho años cumplidos;
+I. Niña o Niño.- Toda persona menor de doce años;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+II. Adolescentes.- Toda persona que tengaentre (sic) doce años cumplidos y menos de dieciocho años;
 
 III. Estado.- Conjunto de dependencias y entidades que conforman la Administración Pública Estatal y Municipal;
 
@@ -91,7 +95,9 @@ XI. Hogar Provisional.- Es el lugar donde físicamente se va a ubicar a una niñ
 
 XII. Maltrato Físico.- Todo acto de agresión intencional, repetitivo, en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física, y cuyo propósito es lograr su sometimiento y control;
 
-XIII. Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivo que perturben emocionalmente a la víctima, perjudicando su desarrollo psíquico o emotivo; y cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de abandono y que provoquen en quién las recibe, deterioro, disminución o afectación a su estructura de personalidad.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XIII. Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivo que perturben emocionalmente a la víctima, perjudicando su desarrollo psíquico o emotivo; y cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad;
 
 XIV. Niña, Niño o Adolescente con Discapacidad.- Al que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que les impiden el desarrollo normal de sus actividades;
 
@@ -145,7 +151,9 @@ d) A ser protegidos contra toda forma de explotación;
 
 e) A recibir protección por parte de sus progenitores, familiares, el Estado y la sociedad; y
 
-f) A recibir información respecto de cuestiones de seguridad publica y de protección civil.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
+f) A recibir información respecto de cuestiones de seguridad pública y de protección civil.
 
 II.- A la identidad, Certeza Jurídica y Familia:
 
@@ -219,25 +227,73 @@ III. Una mayor asignación de recursos públicos a las instituciones encargadas 
 
 Las niñas, los niños y adolescentes tienen derecho fundamental a la vida; el Estado deberá garantizar y proteger este derecho, con políticas públicas que garanticen su supervivencia, seguridad y desarrollo integral.
 
-### CAPÍTULO III. Del Derecho a la no Discriminación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO III. Del Derecho a la Igualdad y a la no Discriminación
 
 ###### Artículo 9.
 
 Las disposiciones de esta ley se aplican a todos (sic) las niñas, los niños y adolescentes del Estado de Durango, sin discriminación alguna en razón de raza, color, sexo, edad, idioma, religión, creencias, origen étnico, cultura, opinión política, posición económica, discapacidad física, mental o sensorial, condición de nacionalidad o de nacimiento, o de cualquier otra condición de sus padres, representantes o responsables de su familia.
 
-Es deber de las autoridades, ascedientes, tutores y de los miembros de la sociedad, promover e impulsar un desarrollo igualitario entre las niñas, los niños y adolescentes, debiendo combatir o erradicar las costumbres y prejuicios alentadores de una pretendida superioridad de un sexo sobre otro.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO IV. Del Derecho a la Identidad
+Las niñas, los niños y adolescentes son iguales en sus derechos, por lo que se deben respetar éstos sin distinción alguna, siendo el deber de las autoridades, ascendientes, tutores y de los miembros de la sociedad, promover e impulsar su desarrollo igualitario, debiendo combatir o erradicar las costumbres y prejuicios alentadores de una pretendida superioridad de un sexo sobre otro.
 
-### CAPÍTULO V. Del Derecho a Vivir en Familia
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO IV. Derecho a la Libertad
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Los niños, las niñas y adolescentes tienen derecho a la libertad personal, no pueden ser privados de ella; salvo lo dispuesto por el Código de Justicia para Menores Infractores en el Estado de Durango.
+
+Los niños y niñas a quienes se atribuya la comisión de un delito, están exentos de responsabilidad penal, sólo serán sujetos a rehabilitación y asistencia social, debiendo remitirse de inmediato a la autoridad competente.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO V. Del Derecho a la Identidad
 
 ###### Artículo 10.
 
 Las niñas, los niños y adolescentes que nazcan en el Estado de Durango, tendrán derecho a su identidad, incluidas la nacionalidad, el nombre, a conocer a sus padres y ser cuidados por ellos, y a ser inscritos en el Registro Civil de conformidad a lo previsto en el Código Civil para el Estado de Durango.
 
-### CAPÍTULO VI. Del Derecho a la Salud
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO VII. Del Derecho a ser Protegido en su Integridad
+### CAPÍTULO VII (SIC). Del Derecho a la Personalidad
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 10 Bis.
+
+Los niños, niñas y adolescentes tendrán como derechos de la personalidad los siguientes:
+
+I. Un nombre, una nacionalidad y un documento de identidad.
+
+II. Respeto a su integridad física, mental y emocional.
+
+III. La protección de su imagen, identidad, autonomía, pensamiento, dignidad y valores; y
+
+IV. Ser protegidas en su honor y reputación.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 10 Bis 1.
+
+Se prohíbe publicar, reproducir, exponer, vender o utilizar, en cualquier forma, imágenes o fotografías de las niñas, niños y adolescentes para ilustrar informaciones referentes a acciones u omisiones que se les atribuyan, sean de carácter delictivo o de contravención con la moral o las buenas costumbres, hayan participado o hayan sido testigos o víctimas de esos hechos, si se afecta su dignidad, de conformidad a lo que establezca la legislación penal aplicable.
+
+Asimismo queda prohibida la publicación del nombre o cualquier dato personal que lo permita identificar como autor o víctima de un hecho delictivo o infracción penal, salvo autorización judicial.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 10 Bis 2.
+
+Cuando la imagen, fotografía o identidad de una niña, niño o adolescente se reproduzca, publique, exponga o utilice violando lo dispuesto en el artículo anterior, podrá solicitarse a la autoridad administrativa competente que, como medida cautelar y sin perjuicio de lo que pueda resolverse en definitiva, suspenda el acto o cualquier otra acción que pueda intentar el infractor de esta disposición o su representante que afecte los derechos de la personalidad, en resguardo del interés superior de estas personas.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO VIII. Del Derecho a Vivir en Familia
 
 ###### Artículo 11.
 
@@ -287,9 +343,11 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Durango, en c
 
 De no ser posible la reintegración familiar, el Estado brindará la atención y cuidados asistenciales que requieran a través del Sistema para el Desarrollo Integral de la Familia del Estado de Durango y de instituciones asistenciales privadas.
 
-Las instituciones de asistencia privada que proporcionen en forma temporal o definitiva atención y cuidados a las niñas, los niños y adolescentes deben ser supervisada por la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
+Las instituciones de asistencia privada que proporcionen en forma temporal o definitiva atención y cuidados a las niñas, los niños y adolescentes deben ser supervisada (sic) por la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Durango.
 
-### CAPÍTULO VIII. Del Derecho a la Educación
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO IX. Del Derecho a la Salud
 
 ###### Artículo 20.
 
@@ -339,13 +397,29 @@ II. Las demás que señalen la presente Ley, su Reglamento y disposiciones legal
 
 Los servicios de prevención, tratamiento y atención, en la medida de lo posible se proporcionarán en forma gratuita, previa valoración y el estudio socioeconómico correspondiente.
 
-### CAPÍTULO IX
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
 
-De los Derechos al Descanso, Recreación,
+### CAPÍTULO X. Del Derecho a la Alimentación, Vestido y Vivienda
 
-Esparcimiento, Deporte y Juego
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO X. Derecho a la Libertad de Expresión
+###### Artículo 21 Bis.
+
+Las niñas, los niños y adolescentes, tienen derecho a recibir una alimentación sana y acorde a los requerimientos de su edad y etapa de desarrollo, un vestido decoroso y una vivienda segura y digna, acorde a las posibilidades de quien provea los alimentos en los términos de la legislación civil.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 21 Bis 1.
+
+Las autoridades correspondientes deben:
+
+I. Promover la solidaridad familiar; y
+
+II. Concientizar a la sociedad para la atención de esta obligación.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XI. Del Derecho a ser Protegido en su Integridad
 
 ###### Artículo 22.
 
@@ -365,9 +439,31 @@ También se considerará abuso, el uso de la fuerza física, psicológica o mora
 
 El Gobierno del Estado debe establecer programas permanentes y gratuitos de asistencia y atención integral.
 
-### CAPÍTULO XI. Del Derecho a la Opinión
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO XII. Del Derecho a la Participación
+### CAPÍTULO XII. Del Derecho a ser Protegidos contra toda Forma de Explotación
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Las niñas, los niños y adolescentes tienen derecho a ser protegidos contra:
+
+I. La explotación económica y laboral que pueda ser peligrosa, que entorpezca su educación, sea nocivo para su salud o su desarrollo físico, mental, espiritual, moral o social; y que no se ajuste a los lineamientos comprendidos en la Ley Federal del Trabajo y a los tratados internacionales en la materia;
+
+II. El ser involucrados en la producción, tráfico y consumo de sustancias psicotrópicas;
+
+III. Todas las formas de corrupción, explotación y agresión sexual;
+
+IV. El secuestro, sustracción, venta o la trata de niñas, niños y adolescentes;
+
+V. Toda práctica de mendicidad abierta o disimulada con trabajos en la calle; y
+
+VI. Todos los demás delitos en los que pueda ser víctima.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XIII. Del Derecho a la Educación
 
 ###### Artículo 24.
 
@@ -395,7 +491,13 @@ Toda medida correctiva que se adopte en los centros educativos, se aplicará, re
 
 Los adolescentes mayores de catorce años y menores de dieciséis que laboren, de conformidad con lo establecido en los artículos 22, 23 y 173 de la Ley Federal del Trabajo, tendrán derecho a la enseñanza adecuada a sus condiciones.
 
-### CAPÍTULO XIII. Del Derecho a la Reunión
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XIV
+
+De los Derechos al Descanso, Recreación,
+
+Esparcimiento, Deporte y Juego
 
 ###### Artículo 27.
 
@@ -407,7 +509,9 @@ La ejecución de los derechos consagrados en esta disposición debe estar dirigi
 
 El Gobierno del Estado a través de la Secretaría de Educación y los Institutos de la Cultura y del Deporte fomentará la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, los niños y adolescentes.
 
-### CAPÍTULO XIV. Del Derecho a la Libre Asociación
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XV. Derecho a la Libertad de Expresión
 
 ###### Artículo 29.
 
@@ -415,7 +519,9 @@ Las niñas, los niños y los adolescentes tienen derecho a expresar libremente s
 
 Los padres, representantes o responsables tienen el deber de orientar a las niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral
 
-### CAPÍTULO XV. Del Derecho a la Protección de la Vida Privada
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XVI. Del Derecho a la Opinión
 
 ###### Artículo 30.
 
@@ -429,7 +535,9 @@ II.- Que sus opiniones sean escuchadas y tomadas en cuenta, en función de su ed
 
 El Gobierno del Estado a través de las autoridades competentes deberá garantizar a todas las niñas, los niños y adolescentes el ejercicio de este derecho, ya sea directamente, a través de un representante o de la Procuraduría de la Defensa del Menor; especialmente en todo procedimiento administrativo o judicial de conformidad con las disposiciones aplicables.
 
-### CAPÍTULO XVI. Del Derecho a la Información
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XVII. Del Derecho a la Participación
 
 ###### Artículo 32.
 
@@ -437,27 +545,51 @@ Las niñas, los niños y adolescentes tienen derecho a participar libre y activa
 
 El Estado, la familia y la sociedad deberán propiciar y fomentar oportunidades de participación de la infancia y la adolescencia.
 
-### CAPÍTULO XVII. Del Derecho a la Administración de Justicia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO XVIII. De las Responsabilidades
+### CAPÍTULO XVIII. De la Libertad de Pensamiento y del Derecho a una Cultura Propia
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 32 Bis.
+
+Todos los ciudadanos deberán respetar la libertad de pensamiento de las niñas, niños y adolescentes, así como su derecho a tener y preservar su cultura.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 32 Bis 1.
+
+Las niñas, niños y adolescentes tienen derecho a aprovechar su cultura, profesar y practicar su religión y hablar su idioma o lengua; así como a preservar los usos, costumbres, recursos y formas de organización social de los grupos étnicos a los que pertenezcan.
+
+El reconocimiento de este derecho no convalida prácticas de trato a niñas, niños y adolescentes que contraríen las garantías constitucionales ni los derechos establecidos en esta Ley y en la Convención sobre los derechos de los niños.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XIX. Del Derecho a la Reunión
 
 ###### Artículo 33.
 
 Las niñas, los niños y adolescentes tienen derecho a reunirse de manera pública o privada con fines lícitos y pacíficos, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Durango.
 
-### CAPÍTULO I. Disposiciones Generales
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIV], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XX. Del Derecho a la Libre Asociación
 
 ###### Artículo 34.
 
 Las niñas, los niños y adolescentes tienen derecho a asociarse libremente con otras personas, con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos o de cualquier otra índole, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPÍTULO II. De los Derechos de las niñas, los niños y adolescentes con Discapacidad
+(REUBICADO [N. DE E. ANTES CAPÍTULO XV], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XXI. Del Derecho a la Protección de la Vida Privada
 
 ###### Artículo 35.
 
 En el Estado de Durango todas las niñas, los niños y adolescentes tienen derecho al respeto de su correspondencia, domicilio, vida privada e intimidad familiar. Este derecho no puede ser objeto de injerencias arbitrarias o ilegales.
 
-### CAPÍTULO III. Los Derechos de las niñas, los niños y adolescentes con Adicciones
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVI], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XXII. Del Derecho a la Información
 
 ###### Artículo 36.
 
@@ -465,7 +597,9 @@ Las niñas, los niños y adolescentes tienen derecho al acceso de la informació
 
 El Gobierno del Estado a través de la Secretaría General de Gobierno, pugnará por que las radiodifusoras y televisoras locales difundan mensajes dirigidos exclusivamente a las niñas, los niños y adolescentes, que atienda sus necesidades informativas, la difusión de sus derechos, sus responsabilidades que promuevan la equidad, la tolerancia, los valores y la no violencia.
 
-### CAPÍTULO IV. De las niñas, los niños y adolescentes en Situación de Calle
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XXIII. Del Derecho a la Administración de Justicia
 
 ###### Artículo 37.
 
@@ -479,9 +613,43 @@ I.- Establecer una edad mínima antes de la cual se supondrá que las niñas, y 
 
 II.- Tratar a las niñas, los niños y adolescentes sin recurrir a procesos judiciales, respetando plenamente los derechos humanos y las salvaguardas jurídicas.
 
-### CAPÍTULO I. De las Acciones de Protección
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
 
-### CAPÍTULO II. De la Procuraduría de la Defensa del Menor la Mujer y la Familia
+### CAPÍTULO XXIV. Del Derecho al Debido Proceso en caso de Infracción a la Ley Penal
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 38 Bis.
+
+Las niñas, niños y adolescentes de Durango tienen derecho al debido proceso en caso de infringir la ley penal, por lo que las autoridades del Estado respetarán en todo caso sus garantías constitucionales y los derechos reconocidos en esta ley y en los tratados y normas internacionales ratificadas por el Estado Mexicano.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 38 Bis 1.
+
+A fin de dar cumplimiento a lo establecido en el Artículo anterior, toda autoridad estatal o municipal asegurará a niñas, niños y adolescentes lo siguiente:
+
+I. Que no sean sometidos a torturas ni a otros tratos penales crueles, inhumanos o degradantes;
+
+II. Que no sean privados de su libertad de manera ilegal o arbitraria;
+
+III. Que la privación de la libertad sea aplicada al menor infractor que realizó un delito clasificado como grave y como último recurso durante el período más breve posible, atendiendo al principio del interés superior de la infancia;
+
+IV. Que en el tratamiento a que se refiere la fracción anterior, se considere la importancia de promover la reintegración o adaptación social del menor infractor y para que asuma una función constructiva en la sociedad;
+
+V. Que todo aquel adolescente que presuntamente ha infringido las leyes penales, tenga derecho a un pronto acceso a la asistencia jurídica y a cualquier otra asistencia adecuada, a fin de salvaguardar sus derechos;
+
+VI. Que en los casos que se presuma se han infringido las leyes penales, se respete el derecho a la presencia de sus ascendientes, tutores, custodios o de quienes estén responsabilizados de su cuidado, al momento que se desahogue cualquier diligencia durante el procedimiento;
+
+VII. Que a quienes se prive legalmente de su libertad, sean tratados respetando sus derechos humanos y la dignidad inherente a toda persona;
+
+VIII. Que quienes sean privados de su libertad tengan derecho a mantener contacto permanente y constante con su familia, con la cual podrán convivir, salvo en los casos que lo impida el interés superior de la infancia; y
+
+IX. Que no procederá la privación de libertad en ningún caso cuando se trate de niñas, niños y adolescentes que se encuentren en circunstancias especialmente difíciles, de abandono o de calle y cuando el motivo sea el solo hecho de estar en esta situación difícil.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVIII], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO XXV. De las Responsabilidades
 
 ###### Artículo 39.
 
@@ -525,7 +693,7 @@ II. Consumo de drogas, estupefacientes, bebidas con contenido alcohólico, y tab
 
 ## TÍTULO TERCERO. DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN CIRCUNSTANCIAS ESPECIALMENTE DIFÍCILES
 
-### CAPÍTULO III. Del Procedimiento Especial de Protección
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 43.
 
@@ -535,7 +703,7 @@ Cualquier autoridad o persona que tenga conocimiento de alguna niña, niño o ad
 
 Las autoridades estatales y municipales, así como las instituciones de asistencia privada establecerán programas a fin de proteger menores en circunstancias especialmente difíciles.
 
-### CAPÍTULO ÚNICO. De las Sanciones
+### CAPÍTULO II. De los Derechos de las niñas, los niños y adolescentes con Discapacidad
 
 ###### Artículo 45.
 
@@ -555,6 +723,8 @@ IV. Brindar facilidades arquitectónicas y de accesibilidad en centros escolares
 
 V. Los demás que contribuyan a generar condiciones a favor de las niñas, los niños y adolescentes con discapacidad.
 
+### CAPÍTULO III. Los Derechos de las niñas, los niños y adolescentes con Adicciones
+
 ###### Artículo 47.
 
 El Estado con la activa participación de la sociedad, debe garantizar políticas y programas contra el uso ilícito de sustancias alcohólicas, estupefacientes y psicotrópicos. Asimismo, debe asegurar programas de atención especial para la recuperación integral de las niñas, los niños y adolescentes dependientes y consumidores de estas sustancias.
@@ -567,6 +737,8 @@ Las niñas, los niños y adolescentes adictos a sustancias que producen dependen
 
 La Secretaría de Salud, establecerá las campañas preventivas tendientes a crear en las familias y la sociedad, la sensibilización y concientización sobre los efectos nocivos del uso de fármacos o sustancias que produzcan adicción.
 
+### CAPÍTULO IV. De las niñas, los niños y adolescentes en Situación de Calle
+
 ###### Artículo 50.
 
 Los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia tendrán la obligación de establecer un programa específico y prioritario que contemple las medidas de defensa jurídica, de provisión, prevención, protección y asistencia para brindar atención a las niñas, los niños y adolescentes en situación de calle.
@@ -575,7 +747,49 @@ Los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia t
 
 Los Sistemas Estatales y Municipales para el Desarrollo Integral de la Familia en coordinación con organismos e instituciones privadas impulsarán e implementarán medidas tendientes a prevenir y evitar que los menores realicen actividades marginales o de sobrevivencia llevando a cabo las acciones que se requieran para protegerlos y evitar su explotación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO V. De las Niñas, Niños y Adolescentes Migrantes y Repatriados
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+Los Sistemas Estatal y Municipales DIF en coordinación con las instituciones públicas y privadas competentes, procurarán una repatriación ordenada y segura de las niñas, niños y adolescentes de Durango que se encuentren fuera de la frontera mexicana, atendiendo a los principios establecidos en los acuerdos bilaterales sobre la materia.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis 1.
+
+El Sistema Estatal y los Municipales DIF, difundirán una campaña permanente para la defensa y protección de los derechos de las niñas, niños y adolescentes migrantes y repatriados, y brindarán los medios para reintegrarlos con sus familias, en sus comunidades de origen; además con las organizaciones de la sociedad civil impulsarán la consolidación de albergues de tránsito para su atención especializada y temporal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO VI. De los Derechos de las Niñas, Niños y Adolescentes Indígenas
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis 2.
+
+El Estado y los municipios garantizarán los derechos de las niñas, niños y adolescentes indígenas a la vida, la libertad y la seguridad en los mismos términos aplicables para los de otros grupos no indígenas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis 3.
+
+El Estado y los municipios, por conducto de sus instancias educativas, garantizarán que las niñas, niños y adolescentes indígenas tengan efectivo su derecho a recibir educación básica en sus tres niveles, con las adaptaciones requeridas para recibir una formación bilingüe e intercultural, garantizándoles las medidas necesarias para eliminar del sistema educativo, los prejuicios y los adjetivos que los denigren como indígenas.
+
+Velarán, además, por su salud, respeto a su dignidad, procurando que los programas específicos de asistencia social queden a su alcance.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis 4.
+
+Las niñas, niños y adolescentes indígenas tienen derecho a vivir en paz y a gozar de plenas garantías contra actos de discriminación, violencia, reacomodos o desplazamientos forzados, separación de sus familiares y comunidades bajo ningún pretexto.
+
 ## TÍTULO CUARTO. DE LA PROCURACIÓN DE LA DEFENSA Y PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES
+
+### CAPÍTULO I. De las Acciones de Protección
 
 ###### Artículo 52.
 
@@ -589,11 +803,47 @@ Las niñas, los niños y adolescentes a quienes se violen algunos o varios de lo
 
 Cuando la conducta que motive la medida de protección se origine en un delito de lesiones o contra la libertad sexual del menor de edad, el Sistema para el Desarrollo Integral de la Familia o la institución pública o privada que conozca de estos hechos, podrá solicitar al Ministerio Público especializado se dicte la medida de protección que permita atender de manera urgente la situación de riesgo o peligro que enfrente el infante o adolescente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2014)</small>
+
+### CAPÍTULO II. De la Protección ante los Medios de Comunicación Masiva y Espectáculos Públicos
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 54 Bis.
+
+Las autoridades estatales y municipales podrán coadyuvar con las federales, a fin de que los medios de comunicación cumplan con la función social de difundir información de interés social, cultural y educativo, que colabore a la formación de la niñez y la adolescencia, en los términos de la Ley Federal de Radio y Televisión.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 54 Bis 1.
+
+Las autoridades, en el marco de sus atribuciones legales, procurarán que a través de los medios:
+
+I. Se atiendan las necesidades informativas de las niñas, niños y adolescentes;
+
+II. Se promueva la difusión de sus derechos, deberes y garantías, y
+
+III. Se oriente el ejercicio de sus derechos para su sano desarrollo, y puedan protegerse a sí mismos de peligros que puedan afectar su vida y su salud.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+###### Artículo 54 Bis 2.
+
+Las autoridades estatales y municipales procurarán que los espectáculos a que asistan menores y adolescentes, promuevan el espíritu cívico, la solidaridad, la fraternidad y el respeto a la dignidad entre los hombres, en consideración a su edad, y que no participen en juegos u otras actividades que puedan causarles daño psicológico.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO III. De la Procuraduría de la Defensa del Menor la Mujer y la Familia
+
 ###### Artículo 55.
 
 La Procuraduría de la Defensa del Menor, la mujer y la familia, es el área administrativa que depende del Organismo Descentralizado del Poder Ejecutivo del Estado, denominado Sistema para el Desarrollo Integral de la Familia; la cual tendrá la estructura orgánica que permita la disponibilidad presupuestal y que determine su ley orgánica y el reglamento respectivo.
 
 La Procuraduría es la instancia especializada con funciones de autoridad competente en esta materia, para casos especiales, en los que intervendrá en la defensa de los derechos contemplados en esta ley a favor de las niñas, los niños y adolescentes, sin perjuicio de la aplicación de otras disposiciones legales vigentes en nuestro Estado.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 6 DE JULIO DE 2014)
+
+### CAPÍTULO IV. Del Procedimiento Especial de Protección
 
 ###### Artículo 56.
 
@@ -685,6 +935,8 @@ IV. Cualquier otra medida que proteja los derechos reconocidos en el Código Civ
 
 ## TÍTULO QUINTO
 
+### CAPÍTULO ÚNICO. De las Sanciones
+
 ###### Artículo 67.
 
 Los empleados, servidores públicos o cualquier otra persona que incumpla o interfiera en el cumplimiento de lo dispuesto en esta Ley, serán sancionadas conforme a lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, así como por lo establecido en la legislación civil y penal aplicable al caso concreto.
@@ -729,7 +981,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO. RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 2009.
 
@@ -760,3 +1012,13 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
