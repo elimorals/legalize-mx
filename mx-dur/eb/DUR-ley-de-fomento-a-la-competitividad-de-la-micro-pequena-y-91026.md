@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-a-la-competitividad-de-la-micro-pequena-y-91026"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-06"
-last_updated: "2012-12-06"
+last_updated: "2014-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de diciembre de 2012.
 
@@ -139,7 +139,9 @@ La Secretaría será responsable de elaborar los programas de fomento a las MIPY
 
 La Secretaría para el cumplimiento de los objetivos de la presente Ley además de las facultades que le establece la Ley Orgánica de la Administración Pública del Estado de Durango y la Ley de Desarrollo Económico para el Estado de Durango, tendrá las siguientes:
 
-I. Fomentar la constitución de incubadoras de empresas y formación de emprendedores;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+I. Fomentar la constitución de incubadoras de empresas y formación de emprendedores, mediante la implementación de programas dirigidos principalmente a mujeres jefas de familia y jóvenes.
 
 II. Gestionar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, del Estado y de los Municipios;
 
@@ -394,3 +396,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
