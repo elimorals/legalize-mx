@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2010-06-24"
+last_updated: "2014-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
+LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -79,7 +79,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Actividades riesgosas: Aquellas actividades que en caso de producirse una contingencia, ocasionarían una afectación al equilibrio ecológico o al ambiente;
 
-II. Aguas residuales: Las provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+II. Aguas:
+
+a) residuales: Las provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana, y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad;
+
+b) pluviales: Las provenientes de la lluvia, el granizo y la nieve.
 
 III. Ambiente: Conjunto de elementos naturales, artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
@@ -359,6 +365,12 @@ VI. Vigilar que quien realice obras o actividades que afecten o puedan afectar e
 
 VII. Instrumentar los mecanismos para que la educación sea una herramienta, para evitar el deterioro ambiental y los desequilibrios ecológicos, así como sus daños, a través de la prevención.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+ARTÍCULO 8 BIS.- Las dependencias de la Administración Pública Centralizada, el Poder Legislativo, el Poder Judicial, los Órganos Constitucionales Autónomos del Estado y los Ayuntamientos, en los inmuebles a su cargo, promoverán la instalación de sistemas de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren atendiendo a la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, en las labores de limpieza de pisos y ventanas, y en el riego de jardines y árboles de ornato en su caso, dichas aguas pluviales no podrán ser utilizadas para el consumo humano, salvo autorización expresa de la Secretaría de Salud en su caso.
+
+La instalación del sistema de captación de agua pluvial en aquellos inmuebles, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos se llevará a cabo bajo la rigurosa supervisión de expertos del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
+
 ### CAPÍTULO II. PLANEACIÓN AMBIENTAL
 
 ###### ARTÍCULO 9.
@@ -420,6 +432,10 @@ IV. Procurar que quienes dañen al ambiente asuman los costos de indemnización 
 V. Promover la política ambiental que incluya el aprovechamiento del recurso natural como factor social para superar la pobreza; y
 
 VI. Conjugar todos los instrumentos de política ambiental con el fin de salvaguardar la integridad y el equilibrio de los ecosistemas, así como la salud y el bienestar de la población.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2014)</small>
+
+ARTÍCULO 14 BIS. Las Dependencias de la Administración Pública Estatal y Municipales, el Poder Legislativo, el Poder Judicial y los órganos constitucionales autónomos, procurarán contar con sistema de celdas solares en sus inmuebles, el cual se podrá establecer de manera progresiva hasta que el total del consumo de energía eléctrica sea a través de dicho sistema, de acuerdo con la posibilidad física, técnica y financiera que resulte conveniente para cada caso.
 
 ###### ARTÍCULO 15.
 
@@ -1834,3 +1850,15 @@ ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
