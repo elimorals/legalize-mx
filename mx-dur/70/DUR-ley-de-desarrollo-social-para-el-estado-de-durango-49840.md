@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2013-12-15"
+last_updated: "2014-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -95,23 +95,31 @@ VII. Concertar con los Ayuntamientos la implementación de programas estatales y
 
 VIII. Instrumentar un Sistema de Evaluación Interno para las políticas de desarrollo social y humano;
 
-IX. Celebrar convenios o acuerdos de coordinación y colaboración con el Gobierno Federal, los Ayuntamientos y los sectores social y privado en materia de desarrollo social y humano;
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2014)</small>
 
-X. Proponer al Gobiernos (sic) Federal y Municipal programas de inversión en materia de desarrollo social y humano;
+IX. Llevar a cabo, en conjunto con la Dirección del Registro Civil, y de manera coordinada, mediante la celebración de Convenios de Colaboración, la verificación de defunciones registradas en dicha Dirección, para efectos de mejor control en la distribución de los apoyos asistenciales a éste sector de la población;
 
-XI. Celebrar convenios con los Municipios para la prestación de asesoría técnica y administrativa en el diseño, operación y evaluación de los programas y acciones de desarrollo social y humano;
+X. Celebrar convenios o acuerdos de coordinación y colaboración con el Gobierno Federal, los Ayuntamientos y los sectores social y privado en materia de desarrollo social y humano;
 
-XII. Dictar las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la Ley;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
 
-XIII. Llevar a cabo un Sistema de Estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado de Durango, con el fin de que el Consejo y la (sic) autoridades puedan evaluar y establecer si los programa (sic) han tenido eficiencia, eficacia y calidad en los mismos; y (sic)
+XI. Proponer a los Gobiernos Federal y Municipal, programas de inversión en materia de desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+XII. Celebrar convenios con los Municipios para la prestación de asesoría técnica y administrativa en el diseño, operación y evaluación de los programas y acciones de desarrollo social y humano;
 
-XIV. Coordinarse con la Secretaría de Educación, en el proceso productivo de elaboración o adquisición de acuerdo a lo establecido por la Ley de Adquisiciones, Arrendamientos o Servicios del Estado de Durango, distribución y entrega de uniformes escolares a que se refiere el artículo 49 de la Ley de Educación del Estado de Durango.
+XIII. Dictar las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de la Ley;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XIV. Llevar a cabo un Sistema de Estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado de Durango, con el fin de que el Consejo y las autoridades puedan evaluar y establecer si los programas han tenido eficiencia, eficacia y calidad en los mismos;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XV. Coordinarse con la Secretaría de Educación, en el proceso productivo de elaboración o adquisición de acuerdo a lo establecido por la Ley de Adquisiciones, Arrendamientos o Servicios del Estado de Durango, distribución y entrega de uniformes escolares a que se refiere el artículo 49 de la Ley de Educación del Estado de Durango; y
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
-XV. Las demás que le confiera esta Ley y otras disposiciones legales aplicables en la materia.
+XVI. Las demás que le confiera esta Ley y otras disposiciones legales aplicables en la materia.
 
 ###### Artículo 7.
 
@@ -171,9 +179,13 @@ XXVI. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, 
 
 XXVII. Padrón de beneficiarios: Relación oficial que incluye a las personas atendidas por los programas federales, estatales y municipales de Desarrollo Social y Humano, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
-XXVIII. Beneficiarios: Las personas atendidas por los planes y programas de desarrollo social y humano que por sus condiciones de vida así lo han requerido y que cumplen con la normatividad establecida en los planes y programas de la materia; y
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2014)</small>
 
-XXIX. Equidad de género: Los derechos y capacidades de hombres y mujeres en la participación, en el diseño, programación, ejecución y evaluación de los planes y programas de desarrollo social sean en circunstancias de igualdad.
+XXVIII. Dirección General del Registro Civil: Entidad del Estado encargada de, entre otras funciones, la expedición de actas del estado civil de las personas, nacimientos, defunciones, etc.;
+
+XXIX. Beneficiarios: Las personas atendidas por los planes y programas de desarrollo social y humano que por sus condiciones de vida así lo han requerido y que cumplen con la normatividad establecida en los planes y programas de la materia; y
+
+XXX. Equidad de género: Los derechos y capacidades de hombres y mujeres en la participación, en el diseño, programación, ejecución y evaluación de los planes y programas de desarrollo social sean en circunstancias de igualdad.
 
 ###### Artículo 8.
 
@@ -666,3 +678,9 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE JULIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
