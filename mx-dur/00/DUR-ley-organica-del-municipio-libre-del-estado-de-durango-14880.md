@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-14880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-30"
-last_updated: "2013-10-31"
+last_updated: "2014-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 6 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 30 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de mayo de 1999.
 
@@ -2198,3 +2200,33 @@ P.O. 31 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2014.
+
+PRIMERO.
+
+El presente decreto entrará en vigor a los 30 días siguientes al de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.
+
+Se abroga la Ley del Municipio Libre del Estado de Durango, expedida por el Congreso del Estado el 11 de mayo de 1999, aprobada mediante decreto número 91 y publicado en el Periódico Oficial del Gobierno del Estado de Durango número 43, de fecha 30 de mayo de 1999, así como todas sus reformas y adiciones.
+
+TERCERO.
+
+Los municipios del Estado de Durango, en un término que no exceda de 180 días contados a partir del inicio de vigencia de la presente Ley, en cumplimiento a lo que dispone el artículo 115 de la Constitución Política Federal y 152 de la Constitución Política Local, deberán adecuar sus Bandos de Policía y Gobierno, reglamentos, circulares y demás disposiciones, de acuerdo a lo establecido en la presente Ley.
+
+CUARTO.
+
+Cuando las condiciones socio-económicas de los municipios no justifiquen la creación del Juzgado administrativo, los asuntos relativos los deberán resolver ante las instancias municipales existentes.
+
+QUINTO.
+
+Los municipios que no cuenten con un órgano de difusión oficial denominado “Gaceta Municipal”, los acuerdos que requieran de publicación, ésta deberá hacerse en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEXTO.
+
+La elección consecutiva de Presidentes Municipales, Regidores y Síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente decreto.
+
+SEPTIMO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
