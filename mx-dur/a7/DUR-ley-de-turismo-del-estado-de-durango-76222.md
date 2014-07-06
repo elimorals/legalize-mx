@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-76222"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2013-12-05"
+last_updated: "2014-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 22 de julio de 2010.
 
@@ -89,9 +89,11 @@ XV. El fomento de una cultura turística en la población duranguense, y
 
 XVI. El impulso de la profesionalización del sector turístico, con la mejora de la formación de los recursos humanos; en particular, en el uso de las nuevas tecnologías y en las competencias lingüísticas.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
 ###### Artículo 3.
 
-Para el cumplimiento del objetivo de esta Ley, la Secretaría, por conducto de su titular, podrá celebrar todo tipo de contratos, convenios o acuerdos de colaboración y coordinación, con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales, así como con los sectores social y privado, previo acuerdo del titular del Poder Ejecutivo Estatal.
+Para el cumplimiento del objetivo de esta Ley, la Secretaría, por conducto de su titular, podrá celebrar todo tipo de contratos, convenios o acuerdos de colaboración y coordinación, con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales, así como con los sectores social, privado, y productivo, previo acuerdo del titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 4.
 
@@ -127,7 +129,9 @@ XIV. Secretaría: La Secretaría de Turismo del Estado de Durango;
 
 XV. Secretaría Federal: Secretaría de Turismo del Gobierno Federal;
 
-XVI. Servicios Turísticos: Son todas aquellas actividades provenientes de personas físicas o morales destinadas a invertir, desarrollar o comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios vinculados al turismo; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XVI. Sector Turístico Productivo: Es toda aquella prestación de servicios ofertado al sector turístico, provenientes de personas físicas o morales destinadas a invertir, desarrollar o comercializar los destinos y atractivos turísticos;
 
 XVII. Turismo: Las actividades que se realizan a fin de ofrecer bienes y servicios, a las personas que se desplazan de su domicilio o residencia habitual con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyan al desarrollo del Estado;
 
@@ -157,11 +161,19 @@ IV. Restaurantes, cafeterías, bares, centros nocturnos y establecimientos simil
 
 V. Empresas de transporte especializado en excursiones o viajes de turismo por tierra, aire o mar;
 
-VI. Empresas dedicadas a la renta de automóviles u otros medios de transporte;
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2014)</small>
 
-VII. Centros de enseñanza de idiomas, cuyos servicios estén orientados a turistas, y
+VI. Sector Turístico Productivo;
 
-VIII. Los demás considerados como tales por la Ley General.
+VII. Empresas dedicadas a la renta de automóviles u otros medios de transporte;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+VIII. Centros de enseñanza de idiomas, cuyos servicios estén orientados a turistas; y
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+IX. Los demás considerados como tales por la Ley General.
 
 ###### Artículo 6.
 
@@ -481,31 +493,53 @@ V.- Las demás que establezcan los reglamentos que deriven de la presente Ley.
 
 En todo lo no dispuesto en el presente Capítulo serán aplicables las disposiciones que las normas oficiales mexicanas establecen sobre la materia.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2014)</small>
 
 ###### Artículo 31 Bis 2.
 
-Se reconocen como actividades del turismo alternativo las siguientes:
+Se reconocen como actividades del Turismo alternativo las siguientes:
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 a) Actividades aéreas;
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 b) Actividades náuticas;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 c) Buceo;
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 d) Cabalgatas;
 
-e) Cicloturismo;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
+e) Ciclismo de montaña, ruta y otras formas de ciclismo deportivo, turístico y recreativo;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 f) Escalada;
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 g) Espeleísmo;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 h) Observación de la flora y la fauna;
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 i) Safari fotográfico;
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
+
 j) Supervivencia; y
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
 k) Turismo en rodados doble tracción.
 
@@ -543,7 +577,9 @@ La Secretaría, en coordinación con las dependencias de la Administración Púb
 
 Para promover la capacitación continua de las trabajadoras y trabajadores del sector turístico, la Secretaría promoverá la realización de programas y espacios de formación, destinados a la adquisición y actualización de nuevos conocimientos que incrementen la profesionalización del ramo turístico.
 
-Se promoverá además, la suscripción de convenios con Universidades e Instituciones de Educación, para elaborar y actualizar planes de estudio en materia turística.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
+Se promoverá además, la suscripción de convenios con Universidades e Instituciones de Educación, Sindicatos y/o asociaciones, agrupaciones, gremios de trabajadores del Servicio Público de Transporte, así como a todo el sector turístico productivo, para elaborar y actualizar planes de estudio en materia, turística; lo anterior, a través de la Secretaría de Turismo del Gobierno Federal, la Secretaría de Desarrollo Económico y la Secretaría de Trabajo y Previsión Social.
 
 Las características, alcance y estrategias en esta materia, serán determinadas en el Reglamento de esta Ley.
 
@@ -605,39 +641,47 @@ II. Impulsar la restauración del patrimonio histórico, artístico y cultural, 
 
 III. Promover la participación del Estado en los programas turísticos que conjunten a varias Entidades Federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, históricos y arqueológicos del Estado, a nivel nacional e internacional;
 
-IV. Estimular la formación de asociaciones, comités y fideicomisos de carácter público, privado o mixto de naturaleza turística;
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2014)</small>
 
-V. Modernizar y profesionalizar el sector turístico y sus infraestructuras, como medio para estimular y mejorar la calidad y la competitividad de la oferta turística;
+IV. Celebrar convenios de coordinación, con el sector productivo turístico, a efecto de llevar a cabo, la capacitación de los trabajadores, con fines de mejorar el servicio, enfocado a dar cursos de historiografía básica de la entidad, así como el conocimiento de los núcleos turísticos más significativos, recorridos, distancias, vías de comunicación, en síntesis sobre el conocimiento general de la geografía del estado;
 
-VI. Propiciar e incrementar todas las celebraciones tradicionales y folklóricas propias del Estado;
+V. Estimular la formación de asociaciones, comités y fideicomisos de carácter público, privado o mixto de naturaleza turística;
 
-VII. Promocionar, en coordinación con la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, las actividades y festejos con motivo de la conmemoración del aniversario de la fundación de la Ciudad Victoria de Durango y de la Entidad;
+VI. Modernizar y profesionalizar el sector turístico y sus infraestructuras, como medio para estimular y mejorar la calidad y la competitividad de la oferta turística;
 
-VIII. Incentivar y apoyar el desarrollo de la industria cinematográfica, promoviendo a Durango como zona geográficamente idónea para locaciones y filmaciones;
+VII. Propiciar e incrementar todas las celebraciones tradicionales y folklóricas propias del Estado;
 
-IX. Impulsar y apoyar los programas, estudios y actividades del sector privado que incrementen la calidad y la competitividad de la oferta turística;
+VIII. Promocionar, en coordinación con la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, las actividades y festejos con motivo de la conmemoración del aniversario de la fundación de la Ciudad Victoria de Durango y de la Entidad;
 
-X. Promover la diversificación de la oferta turística;
+IX. Incentivar y apoyar el desarrollo de la industria cinematográfica, promoviendo a Durango como zona geográficamente idónea para locaciones y filmaciones;
 
-XI. Impulsar mecanismos de colaboración con Universidades e Instituciones para la formación continua de los trabajadores del sector turístico, así como para la elaboración de programas y planes de estudios en materia turística;
+X. Impulsar y apoyar los programas, estudios y actividades del sector privado que incrementen la calidad y la competitividad de la oferta turística;
 
-XII. Impulsar la diversificación y/o mejoramiento de las conexiones de líneas aéreas y terrestres;
+XI. Promover la diversificación de la oferta turística;
 
-XIII. Promover la realización y la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la Entidad y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
+XII. Impulsar mecanismos de colaboración con Universidades e Instituciones para la formación continua de los trabajadores del sector turístico, así como para la elaboración de programas y planes de estudios en materia turística;
 
-XIV. Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
+XIII. Impulsar la diversificación y/o mejoramiento de las conexiones de líneas aéreas y terrestres;
 
-XV. Promover y coordinar la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones;
+XIV. Promover la realización y la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la Entidad y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales;
 
-XVI. Desarrollar e implementar un plan de mercadotecnia que identifique el mercado de la Entidad, así como los segmentos de mayor potencial, permitiendo con ello direccionar mejor los esfuerzos y recursos destinados a la promoción;
+XV. Crear un banco de imágenes del Estado, organizado por destino y mantenerlo actualizado;
 
-XVII. Promover en el mercado nacional e internacional la imagen y la marca "Durango". La Secretaría podrá declarar obligatoria la inclusión del nombre "Durango", y de los logotipos y lemas que se establezcan, en las campañas de promoción impulsadas por empresas y asociaciones turísticas llevadas a cabo con recursos públicos;
+XVI. Promover y coordinar la participación del Estado en eventos oficiales de promoción turística nacionales e internacionales, tales como ferias, tianguis, seminarios y exposiciones;
 
-XVIII. Organizar la oferta turística, para que responda de manera clara a las características de la demanda, que sea atractiva, diversificada y de fácil acceso al turista.
+XVII. Desarrollar e implementar un plan de mercadotecnia que identifique el mercado de la Entidad, así como los segmentos de mayor potencial, permitiendo con ello direccionar mejor los esfuerzos y recursos destinados a la promoción;
 
-XIX. Mantener un contacto directo con Universidades e instituciones de educación superior, con la finalidad de que se apoye la promoción de la actividad turística; y
+XVIII. Promover en el mercado nacional e internacional la imagen y la marca "Durango". La Secretaría podrá declarar obligatoria la inclusión del nombre "Durango", y de los logotipos y lemas que se establezcan, en las campañas de promoción impulsadas por empresas y asociaciones turísticas llevadas a cabo con recursos públicos;
 
-XX. Elaborar y difundir material especializado de información turística, así como artículos promocionales;
+XIX. Organizar la oferta turística, para que responda de manera clara a las características de la demanda, que sea atractiva, diversificada y de fácil acceso al turista.
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XX. Mantener un contacto directo con Universidades e instituciones de educación superior, con la finalidad de que se apoye la promoción de la actividad turística; y
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+XXI. Elaborar y difundir material especializado de información turística, así como artículos promocionales.
 
 ###### Artículo 44.
 
@@ -845,7 +889,7 @@ XII. Inscribirse en el Registro Nacional y Estatal de Turismo y actualizar los d
 
 XIII. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a personas con discapacidad;
 
-XIV. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; y (sic)
+XIV. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; y
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -939,7 +983,9 @@ II. Prestar asesoría y apoyo técnico a los prestadores de servicios turístico
 
 III. Diseñar y aplicar cursos de capacitación turística a servidores públicos estatales y municipales cuyas actividades estén vinculadas con el turismo;
 
-IV. Participar coordinadamente con dependencias y entidades públicas, así como con los sectores social y privado en actividades de capacitación turística;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2014)</small>
+
+IV. Participar coordinadamente con dependencias y entidades públicas, así como con los sectores social, privado, productivo y de prestación de servicios, en actividades de capacitación turística;
 
 V. Intervenir en programas de capacitación a guías de turistas y sancionar la evaluación que se practique a los aspirantes;
 
@@ -1188,3 +1234,9 @@ TERCERO. La Secretaría de Turismo, propondrá al Ejecutivo Estatal en un plazo 
 CUARTO. Los ayuntamientos dictarán, o en su caso, adecuarán los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas que correspondan para que en sus respectivas circunscripciones se cumplan las previsiones de esta Ley.
 
 QUINTO. Dentro de los sesenta días siguientes a la instalación del Consejo Consultivo Estatal de Filmaciones, se deberá expedir el reglamento en el que se establezcan las normas de organización y operación interna.
+
+P.O. 6 DE JULIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
