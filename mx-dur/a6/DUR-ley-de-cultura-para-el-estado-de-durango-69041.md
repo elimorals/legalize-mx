@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2013-05-30"
+last_updated: "2014-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -47,9 +47,11 @@ LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta ley es de orden público, de interés social y de observancia obligatoria en todo el régimen interior del Estado, en materia de desarrollo cultural.
+La presente Ley es de orden público e interés social y de observancia general en todo el Estado de Durango, reglamenta el derecho a la Cultura reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos e Instrumentos Internacionales en la materia, así como el artículo 28 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 2°.
 
@@ -263,7 +265,7 @@ II. Promover, difundir y estimular la obra de los artistas, creadores y difusore
 
 III. Propiciar las condiciones para que, sin demérito de su régimen de propiedad o de posesión, los particulares permitan la exhibición pública de colecciones o bienes individuales adscritos al patrimonio cultural;
 
-IV. Fomentar la cooperación con los sectores público, social y privado de los tres órdenes de gobierno, otras entidades federativas, organizaciones internacionales, no gubernamentales y comunitarias dedicadas al desarrollo cultural, y (sic)
+IV. Fomentar la cooperación con los sectores público, social y privado de los tres órdenes de gobierno, otras entidades federativas, organizaciones internacionales, no gubernamentales y comunitarias dedicadas al desarrollo cultural, y
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -1181,7 +1183,7 @@ XXV. Museo nacional "Francisco Villa";
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XXVI. Otros organismos que se creen, y (sic)
+XXVI. Otros organismos que se creen, y
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -1530,3 +1532,13 @@ P.O. 30 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
