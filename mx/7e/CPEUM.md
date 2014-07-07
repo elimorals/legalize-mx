@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2014-06-17"
+last_updated: "2014-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JULIO DE 2014.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1648,7 +1648,9 @@ La ley establecerá el sistema de nulidades de las elecciones federales o locale
 
 a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2014)</small>
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
@@ -7347,3 +7349,7 @@ D.O.F. 17 DE JUNIO DE 2014.
 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JULIO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
