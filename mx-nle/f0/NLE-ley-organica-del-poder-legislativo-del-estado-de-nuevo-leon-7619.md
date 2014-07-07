@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2014-06-25"
+last_updated: "2014-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL P.O. 7 DE JULIO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -253,11 +255,11 @@ Cuando uno o más de los Diputados Electos se presentaren después de la protest
 
 El día 31 de agosto del año de la elección, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en desempeño de sus funciones a partir del día 1º de septiembre.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
 
 ###### Artículo 34.
 
-La Directiva comunicará por oficio la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
+La Directiva comunicará la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
@@ -1061,11 +1063,13 @@ I.- De los Órganos de Soporte Técnico:
 
 a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
 
-b) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
 
-c) (DEROGADO, P.O. 25 DE JUNIO DE 2014)
+c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
+
+d) (DEROGADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
