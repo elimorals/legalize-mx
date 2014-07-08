@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2013-10-16"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -123,7 +123,7 @@ I.- Votar en las elecciones populares.
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2013)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. EI derecho de solicitar el registro de candidatos ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso.
 
@@ -191,75 +191,137 @@ El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del 
 
 Del Proceso Electoral.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 41.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo. La Jornada Electoral se llevará a cabo el primer domingo de julio del año de la elección.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo. La Jornada Electoral se llevará a cabo el primer domingo de junio del año de la elección.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 42.
 
-Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales o con registro en el estado gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; teniendo el derecho exclusivo para solicitar el registro de candidatos a participar en los procesos electorales para elegir al Gobernador, a los Diputados al Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
-
-Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto en la creación de partidos políticos quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente, así como cualquier forma de afiliación corporativa.
-
-Las autoridades electorales solamente pueden intervenir en los asuntos internos de los partidos en los términos que expresamente señalen esta Constitución y la ley electoral del Estado.
-
-Los partidos políticos coadyuvarán con los organismos electorales en la vigilancia para que las distintas etapas del proceso electoral se realicen con pleno respeto a lo dispuesto por esta Constitución, la ley electoral y demás leyes relativas.
-
-Las autoridades del Estado garantizarán en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas.
-
-La ley electoral garantizará que los partidos políticos con registro estatal o nacional cuenten de manera equitativa y permanente con elementos para la realización de sus actividades, siempre y cuando las realicen en el Estado. En ella se establecerán las reglas para el financiamiento público de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y para actividades específicas, relativas a educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, que se otorgará a los partidos políticos que participen en las elecciones estatales y para la renovación de los integrantes de los Ayuntamientos de la entidad.
-
-La ley electoral establecerá el procedimiento para la disolución y liquidación de los partidos que pierdan su registro estatal y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
-
-El monto total del financiamiento permanente que se otorgue a los Partidos Políticos será incrementado en el período electoral, en los términos que determine la ley.
-
-El setenta por ciento del total del financiamiento público que se otorgue a los partidos políticos se distribuirá de acuerdo al porcentaje de votación que éstos hayan obtenido en la última elección de Diputados Locales. El treinta por ciento restante se asignará en forma igualitaria a los partidos políticos contendientes que tengan representación en el Congreso del Estado.
-
-En materia de fiscalización, para superar la limitación de los secretos bancario, fiduciario o fiscal, la instancia competente de la Comisión Estatal Electoral deberá coordinarse con el órgano que tenga tal atribución en el Instituto Federal Electoral.
-
-Los partidos políticos ejercerán su derecho de acceso a la radio y televisión conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en las leyes reglamentarias aplicables.
-
-Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad en radio y televisión.
-
-Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio o televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargo de elección popular. Queda prohibida la transmisión en territorio del estado de este tipo de mensajes contratados en el territorio nacional o en el extranjero.
-
-En la propaganda política o electoral que difundan los partidos políticos por cualquier medio, deberán de abstenerse de expresiones que denigren a las instituciones públicas o privadas, a los partidos políticos o que calumnien a las personas.
-
-La Ley Electoral establecerá entre otras, las disposiciones siguientes:
-
-I. Las reglas para establecer los límites a las erogaciones de los partidos políticos en sus procesos de precampaña y en las campañas electorales, los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total no excederá del diez por ciento del tope de gastos de campaña que se determine para la elección del Gobernador y cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado el monto máximo no excederá de la cantidad fijada en la anterior elección de Gobernador más el índice de inflación acumulado a la fecha de su determinación que señale la autoridad oficial correspondiente; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como para dar a conocer el patrimonio que poseen al iniciar el período electoral y el establecimiento de las sanciones para el incumplimiento de las disposiciones que se expidan en estas materias;
-
-II. Las reglas para que de manera permanente los organismos electorales y los partidos políticos; así como los candidatos y precandidatos en los períodos de campaña y precampaña, transparenten sus ingresos y egresos;
-
-III. Los términos y condiciones, en que en las elecciones de Gobernador, Diputados al Congreso y Ayuntamientos del Estado durante las campañas respectivas será obligatoria la participación de los candidatos a un debate público, cuya organización corresponderá a la Comisión Estatal Electoral; y
-
-IV. Las reglas y plazos para la realización de los procesos de precampañas y campañas electorales.
-
-En todo caso, la duración de las campañas no deberá de exceder de noventa días para la elección de Gobernador, ni de sesenta días cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado; en ningún caso la duración de las precampañas podrá exceder de las dos terceras partes del tiempo de las respectivas campañas electorales.
-
-La violación a estas disposiciones por los partidos políticos o cualquier persona física o moral, será sancionada conforme a la ley.
+Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida democrática y permitir el acceso de éstos a la integración de los órganos de representación popular, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros en candidaturas para Diputados al Congreso. Los partidos políticos nacionales o con registro en el estado gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; teniendo el derecho para solicitar el registro de candidatos a participar en los procesos electorales para elegir al Gobernador, a los Diputados al Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
+Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto en la creación de partidos políticos quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente, así como cualquier forma de afiliación corporativa.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+Las autoridades electorales solamente pueden intervenir en los asuntos internos de los partidos en los términos que expresamente señalen esta Constitución y la ley electoral del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Los partidos políticos y los candidatos coadyuvarán con los organismos electorales en la vigilancia para que las distintas etapas del proceso electoral se realicen con pleno respeto a lo dispuesto por esta Constitución, la Ley Electoral y demás leyes relativas.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Las autoridades del Estado garantizarán en todo tiempo la libertad de los partidos políticos y de los candidatos independientes para la difusión de sus principios y programas.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+La ley electoral garantizará que los partidos políticos con registro estatal o nacional cuenten de manera equitativa y permanente con elementos para la realización de sus actividades, siempre y cuando las realicen en el Estado. En ella se establecerán las reglas para el financiamiento público de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y para actividades específicas, relativas a educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, que se otorgará a los partidos políticos que participen en las elecciones estatales y para la renovación de los integrantes de los Ayuntamientos de la entidad.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+La ley electoral establecerá el procedimiento para la disolución y liquidación de los partidos que pierdan su registro estatal y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+El monto total del financiamiento permanente que se otorgue a los Partidos Políticos será incrementado en el período electoral, en los términos que determine la ley.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+El setenta por ciento del total del financiamiento público que se otorgue a los partidos políticos se distribuirá de acuerdo al porcentaje de votación que éstos hayan obtenido en la última elección de Diputados Locales. El treinta por ciento restante se asignará en forma igualitaria a los partidos políticos contendientes que tengan representación en el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+En materia de fiscalización, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Los partidos políticos y los candidatos independientes ejercerán su derecho de acceso a la radio y televisión conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en las leyes reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad en radio y televisión.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio o televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargo de elección popular. Queda prohibida la transmisión en territorio del estado de este tipo de mensajes contratados en el territorio nacional o en el extranjero.
+
+(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO DÉCIMO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+En la propaganda política o electoral que difundan los partidos políticos y candidatos por cualquier medio, deberán de abstenerse de expresiones QUE DENIGREN A LAS INSTITUCIONES PÚBLICAS O PRIVADAS, A LOS PARTIDOS POLÍTICOS o que calumnien a las personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+
+La Ley Electoral establecerá entre otras, las disposiciones siguientes:
+
+(NOTA: EL 2 DE OCTUBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO DÉCIMO QUINTO, FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+I. Las reglas para establecer los límites a las erogaciones de los partidos políticos en sus procesos de precampaña y en las campañas electorales, los montos máximos que tengan las aportaciones de sus militantes y simpatizantes; LOS PROCEDIMIENTOS PARA EL CONTROL Y VIGILANCIA DEL ORIGEN Y USO DE TODOS LOS RECURSOS CON QUE CUENTEN LOS PARTIDOS POLÍTICOS O LOS CANDIDATOS, ASÍ COMO PARA DAR A CONOCER EL PATRIMONIO QUE POSEEN AL INICIAR EL PERÍODO ELECTORAL y el establecimiento de las sanciones para el incumplimiento de las disposiciones que se expidan en estas materias;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+II. Las bases y requisitos para la postulación y registro de los candidatos independientes, así como sus derechos y obligaciones, garantizando su derecho al financiamiento público y el acceso a la radio y televisión en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en ésta Constitución, así como en las leyes de la materia.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+III. Las reglas para que de manera permanente los organismos electorales y los partidos políticos; así como los candidatos y precandidatos en los períodos de campaña y precampaña, transparenten sus ingresos y egresos;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+IV. Los términos y condiciones, en que en las elecciones de Gobernador, Diputados al Congreso y Ayuntamientos del Estado durante las campañas respectivas será obligatoria la participación de los candidatos a un debate público, cuya organización corresponderá a la Comisión Estatal Electoral; y
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+V. Las reglas y plazos para la realización de los procesos de precampañas y campañas electorales.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+En todo caso, la duración de las campañas será de sesenta a noventa días para la elección de Gobernador, y de treinta a sesenta días cuando sólo se elijan Diputados al Congreso y Ayuntamientos del Estado; en ningún caso la duración de las precampañas podrá exceder de las dos terceras partes del tiempo de las respectivas campañas electorales.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+La violación a estas disposiciones por los partidos políticos, candidatos o cualquier persona física o moral, será sancionada conforme a la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+
 ###### Art. 43.
 
-La organización de las elecciones es una función estatal que se ejerce bajo los principios de legalidad, imparcialidad, objetividad, certeza, e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado designados para tal efecto por el Congreso del Estado por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso.
+La organización de las elecciones es una función estatal que se ejerce bajo los principios rectores de legalidad, imparcialidad, objetividad, certeza, máxima publicidad e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La Ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado que serán designados conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
-La Comisión Estatal Electoral podrá celebrar convenios de coordinación y colaboración con los organismos electorales federales. Tratándose de la organización de los procesos electorales del Estado de Nuevo León, la Comisión Estatal Electoral, previa autorización de las dos terceras partes de los integrantes del Congreso del Estado, podrá convenir con el Instituto Federal Electoral que éste se haga cargo.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-Los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral y los titulares de primer nivel que integren dichos órganos, así como los Comisionados Municipales Electorales, no podrán ocupar dentro de los dos años siguientes a la fecha de su retiro, cargos en los poderes públicos o en las administraciones municipales en cuya elección hayan participado de manera directa.
+La Comisión Estatal Electoral podrá celebrar convenios de coordinación y colaboración con el Instituto Nacional Electoral. Asimismo mediante convenio podrá solicitar al Instituto Nacional Electoral asumir la organización del proceso electoral del Estado de Nuevo León, en los términos que disponga la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Los Consejeros Electorales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 El Gobierno del Estado y las Autoridades Municipales están obligados a prestar a los organismos electorales el auxilio material e institucional que requieran para el desarrollo de sus actividades, así como el que la propia ley les señale.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
 Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes Legislativo, Ejecutivo y Judicial, como de los municipios, y de cualquier otro ente público estatal o municipal. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en caso de emergencia.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 Los servidores públicos del Estado y Municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin afectar la equidad de la competencia entre los partidos políticos.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+
 La propaganda bajo cualquier modalidad de comunicación social que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los órganos de gobierno estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso podrá incluir nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los tres párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
@@ -273,9 +335,9 @@ Para conocer y resolver las impugnaciones y controversias que se susciten dentro
 
 En una partida del presupuesto de egresos, el Congreso del Estado, considerará la asignación de los recursos financieros que serán destinados al órgano jurisdiccional electoral.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-La autoridad en materia contencioso electoral se integrará por el número de Licenciados en Derecho que la Ley determine, designados por el Congreso del Estado, por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso; y que, además de cumplir los requisitos establecidos para los ciudadanos que deban integrar el órgano responsable de conducir los procesos electorales, deberán contar con por lo menos 35 años de edad y 10 años de ejercicio profesional.
+La autoridad jurisdiccional electoral se integrará por tres Magistrados, quienes serán electos conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y en los términos que determine la Ley.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
@@ -283,9 +345,11 @@ La autoridad en materia contencioso electoral se integrará por el número de Li
 
 La Ley Electoral del Estado, reglamentaria de esta Constitución en la materia, regulará y garantizará el desarrollo de los procesos electorales; el ejercicio del sufragio; los derechos, obligaciones, organización y funciones de los partidos, asociaciones políticas y organismos electorales; la preparación, desarrollo, vigilancia, cómputo y calificación de las elecciones; el procedimiento de lo contencioso electoral; los recursos y medios de defensa, las responsabilidades y sanciones por actos violatorios a esta Constitución y a las leyes en materia electoral, así como los supuestos y reglas para la realización, en los ámbitos administrativos y jurisdiccional, de recuentos totales o parciales de votación, las causales de nulidad de las elecciones de Gobernador, Diputados al Congreso o Ayuntamientos del Estado; así como los plazos convenientes para el desahogo de todas las instancias impugnativas, sujetando todos los actos y resoluciones electorales invariablemente al principio de legalidad y tomando en cuenta el principio de definitividad de las etapas de los procesos electorales y en general las demás disposiciones relativas al proceso electoral.
 
-Así mismo, las leyes ordinarias establecerán los delitos y las faltas en materia electoral y las sanciones que por ello deban imponerse.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-El organismo electoral competente con la participación del Gobierno del Estado, de los Partidos Políticos y los Ciudadanos, actualizará permanentemente el padrón electoral.
+Así mismo, la Ley General y las leyes ordinarias de la materia, establecerán los delitos y las faltas en materia electoral y las sanciones que por ello deban imponerse.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
 ## TITULO IV.
 
@@ -301,9 +365,13 @@ Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años
 
 Cada Legislatura estará compuesta por veintiséis Diputados electos por el principio de mayoría relativa, votados en distritos electorales uninominales, y hasta dieciséis diputados electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establezca la Ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
-A ningún Partido Político se le podrán asignar más de veintiséis diputaciones por ambos principios, además, tampoco a ningún partido se le podrán asignar más de catorce diputaciones por el principio de representación proporcional.
+A ningún Partido Político se le podrán asignar más de veintiséis diputaciones por ambos principios, o contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación que hubiere recibido menos ocho puntos porcentuales. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un Partido Político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Además tampoco a ningún partido se le podrán asignar más de catorce diputaciones por el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
@@ -337,9 +405,9 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información y el Procurador General de Justicia;
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, los Consejeros Electorales de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -361,11 +429,11 @@ VII.- Los Jefes Militares con mando de fuerza, sea federal o del Estado.
 
 Los servidores públicos antes enunciados, con excepción del Gobernador, podrán ser electos como Diputados al Congreso del Estado si se separan de sus respectivos cargos cuando menos cien días naturales antes de la fecha en que deba celebrarse la elección de que se trate.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 49.
 
-Los Diputados propietarios no podrán ser electos para el período inmediato con ese carácter ni con el de suplentes; pero éstos podrán ser electos con el carácter de propietarios para el período inmediato, siempre que no hubiere estado en ejercicio.
+Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 ###### Art. 50.
 
@@ -395,11 +463,11 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. DECRETO NO. 186], P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 1° de septiembre y terminará el día 20 de diciembre; el segundo comenzará el día 1° de marzo y terminará el día 1° de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 1º de septiembre y terminará el día 20 de diciembre; el segundo comenzará el día 1º de febrero y terminará el día 1º de mayo; ambos períodos podrán ser prorrogados hasta por treinta días.
 
 > <small>(REFORMADO [N. DE E. DECRETO NO. 67], P.O. 23 DE FEBRERO DE 2004)</small>
 
@@ -555,13 +623,13 @@ XIV.- Promover e impulsar la educación pública, la cultura física, el deporte
 
 XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen;
+XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información y Auditor General del Estado, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado, Comisionados de la Comisión de Transparencia y Acceso a la Información, y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada;
+XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros de la Judicatura del Estado, Auditor General del Estado, Comisionados de la Comisión de Transparencia y Acceso a la Información, y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada;
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -687,9 +755,7 @@ XLV.- Instituir mediante las leyes que expida, el Tribunal de Justicia Administr
 
 Los Municipios podrán contar con Órganos de lo Contencioso Administrativo, autónomos sin subordinación jerárquica a la autoridad municipal, con facultades plenas para el pronunciamiento de sus fallos y para resolver las controversias que se susciten entre la administración pública municipal, central o paramunicipal, y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; los que se regirán por los ordenamientos legales que al efecto se emitan.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
-
-XLVI.- Designar a los Comisionados Ciudadanos y a los Magistrados Electorales, en los términos que determinen esta Constitución y las leyes respectivas.
+XLVI.- (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -907,9 +973,9 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en e
 
 II.- Tener cuando menos treinta años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de Justicia Administrativa, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Transparencia y Acceso a la Información, Servidor Público o Militar en servicio activo.
+III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de Justicia Administrativa, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Consejero Electoral de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Transparencia y Acceso a la Información, Servidor Público o Militar en servicio activo.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1507,11 +1573,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de Justicia Administrativa, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Consejeros Electorales de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de Justicia Administrativa, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -1527,11 +1593,11 @@ Las declaraciones y resoluciones tanto del Congreso como del Tribunal Superior d
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal superior de justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información, el Auditor General del estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder en contra de él.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal superior de justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros Electorales de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información, el Auditor General del estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder en contra de él.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -1643,7 +1709,9 @@ II.- Ser mayor de veintiún años;
 
 III.- Tener residencia de no menos de un año, para el día de la elección en el Municipio en que ésta se verifique;
 
-IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los puestos de Instrucción y Beneficencia;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los casos previstos en el artículo 124 de esta Constitución, así como los puestos de Instrucción y Beneficencia.
 
 V.- Tener un modo honesto de vivir; y
 
@@ -1659,11 +1727,11 @@ Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión l
 
 Cuando por cualquier circunstancia no se presenten el día de su toma de posesión, los miembros del Ayuntamiento electo, o se declarase la nulidad de la elección de los miembros, el H. Congreso del Estado nombrará un Concejo Municipal de acuerdo con lo previsto por la fracción XLIV del Artículo 63 de esta Constitución, el que fungirá hasta en tanto no acudan a rendir protesta quienes hubiesen sido electos en los comicios ordinarios, o los que lo fueren en las elecciones extraordinarias.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 124.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, podrán ser electos consecutivamente hasta por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 1999)</small>
 
@@ -3542,3 +3610,9 @@ Primero.- El presente Decreto entrara en vigor al día siguiente al de su public
 Segundo.- El Congreso del Estado, deberá de expedir la legislación para hacer cumplir lo dispuesto en el presente Decreto a más tardar en un año contado a partir de la entrada en vigor del mismo.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor en la misma fecha en que lo hagan las modificaciones a la legislación electoral del Estado a que se refiere el Transitorio Segundo siguiente.
+
+Segundo.- Para adecuar el marco jurídico conforme a las disposiciones del presente Decreto, la Legislatura del Estado deberá realizar las modificaciones correspondientes a la Ley Electoral a más tardar el 08 de julio de 2014.
