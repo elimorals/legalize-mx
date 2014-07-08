@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2013-02-28"
+last_updated: "2014-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE FEBRERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24395/LX/13 PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -113,17 +111,33 @@ I. La Fiscalía General del Estado;
 
 II. La Fiscalía Central;
 
-III. Comisionado de Seguridad Pública;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-IV. Las Fiscalías Regionales;
+III. La Fiscalía Especial en materia de Delitos Electorales;
 
-V. La Fiscalía de Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-VI. La Fiscalía de Reinserción Social;
+IV. La (sic) Comisionado de Seguridad Pública;
 
-VII. Los Agentes del Ministerio Público; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-VIII. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
+V. Las Fiscalías Regionales;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+VI. La Fiscalía de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+VII. La Fiscalía de Reinserción Social;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+VIII. Los Agentes del Ministerio Público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+
+IX. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
 
 El Comisionado de Seguridad Pública ejercerá el mando operacional sobre los agrupamientos de policía del Estado y, en su caso de las policías municipales cuando se suscriban los convenios de coordinación correspondientes bajo los lineamientos de los sistemas federal y estatal de seguridad pública.
 
@@ -192,6 +206,14 @@ V. Medios alternos de solución de conflictos;
 VI. Investigación contra el narcomenudeo; y
 
 VII. Otras unidades previstas en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 8º bis. La Fiscalía Especial en materia de Delitos Electorales será competente para investigar, perseguir, procesar y sancionar los delitos establecidos en la Ley General en materia de Delitos Electorales.
+
+Contará con los recursos humanos, financieros y materiales que requiera para su efectiva operación.
+
+El titular será nombrado conforme a lo previsto por la Constitución Política del Estado de Jalisco y durará en el cargo lo establecido en la misma.
 
 ###### Artículo 9º.
 
@@ -921,7 +943,7 @@ SÉPTIMO. Se abrogan las siguientes leyes:
 
 I. La Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, expedida mediante el Decreto número 13570, publicado en el Periódico Oficial El Estado de Jalisco el 28 de febrero de 1989, así como todas sus reformas y adiciones; y
 
-II. la (sic) Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco, expedida mediante el Decreto número 17161, publicado en el periódico oficial El Estado de Jalisco el 5 de febrero de 1998, así como todas sus reformas y adiciones.
+II. la Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco, expedida mediante el Decreto número 17161, publicado en el periódico oficial El Estado de Jalisco el 5 de febrero de 1998, así como todas sus reformas y adiciones.
 
 OCTAVO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
 
@@ -966,3 +988,47 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. El personal del Instituto Electoral y de Participación Ciudadana del Estado que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Cuarto. Cuando con motivo del presente Decreto, cualquier órgano del Instituto Electoral y de Participación Ciudadana del Estado cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Quinto. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente decreto y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+
+Sexto. Por única ocasión y de conformidad a lo establecido en el artículo Noveno Transitorio de la Ley General de Instituciones y Procedimientos Electorales, el proceso electoral ordinario cuya jornada electoral tendrá lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014.
+
+Séptimo. En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, los actuales Consejero Presidente y consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les corresponden conforme al Código Electoral y de Participación Ciudadana del Estado de Jalisco, por lo que los actos jurídicos en que intervengan surtirán todos sus efectos legales.
+
+Octavo. La jornada electoral que se verifiquen en el año 2018 se llevará a cabo el primer domingo de julio.
+
+Noveno. La organización del Servicio Profesional Electoral se hará conforme a las características y plazos que establezca el Instituto Nacional Electoral mediante el Estatuto del Servicio Profesional Electoral Nacional.
+
+Décimo. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado podrá realizar ajustes a los plazos establecidos en el Código que se reforma mediante este Decreto, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el mismo.
+
+Décimo Primero. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos ante las autoridades electorales del Estado de Jalisco que hayan iniciado o se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+Décimo Segundo. En tanto se expida la Ley Federal en materia del derecho de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+Décimo Tercero. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos electorales se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que la ley General en Materia de Delitos Electorales resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestares, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+Décimo Quinto. El Tribunal Electoral dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá expedir su Reglamento interno.
+
+Décimo Sexto. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones del Tribunal Electoral del Poder Judicial, pasarán a formar parte del organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Séptimo. Los asuntos que se encuentren pendientes de resolver ante el Tribunal Electoral, corresponderá su trámite o resolución al organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
+
+Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
