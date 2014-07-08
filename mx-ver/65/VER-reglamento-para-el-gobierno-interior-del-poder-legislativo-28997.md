@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2012-02-01"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1037,9 +1037,11 @@ El día fijado para la firma del proyecto de dictamen de la comisión, el diputa
 
 #### SECCIÓN SEGUNDA. Del Enlistamiento, la Observación y la Propuesta de Modificación de los Dictámenes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2014)</small>
+
 ###### Artículo 109.
 
-Aprobado un dictamen, el presidente de la comisión lo turnará al Presidente de la Junta de Trabajos Legislativos, para que se enliste en el orden del día de la sesión que corresponda, en los términos de este Reglamento. Dicho dictamen será impreso y distribuido entre los coordinadores de los grupos legislativos, para que éstos lo hagan llegar a sus miembros, así como entre los diputados que no conformen grupo legislativo, y quedará en observación, por lo menos, durante cuarenta y ocho horas previas a la celebración de la sesión dentro de la cual se discuta.
+Aprobado un dictamen, el presidente de la Comisión lo turnará al Presidente de la Junta de Trabajos Legislativos, para que se enliste en el orden del día de la sesión que corresponda, en los términos de este Reglamento. Dicho dictamen será escaneado y distribuido vía electrónica entre los coordinadores de los grupos legislativos, para que éstos, por la misma vía, lo hagan llegar a sus miembros, así como entre los diputados que no conformen grupo legislativo, y quedará en observación, por lo menos, durante cuarenta y ocho horas previas a la celebración de la sesión dentro de la cual se discuta.
 
 El voto particular deberá presentarse a la Junta de Trabajos Legislativos, quien instruirá a la Secretaría General del Congreso para que, con veinticuatro horas de antelación a la celebración de la sesión dentro de la cual se discutirá el dictamen correspondiente, lo distribuya entre los miembros del Congreso.
 
@@ -1636,3 +1638,11 @@ Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
 G.O. 1 DE FEBRERO DE 2012.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 8 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La instrumentación de este Decreto quedará a cargo de la Coordinación de Informática de la Secretaría General, la que, en su caso, desarrollará la plataforma conducente para asegurar el envío, recepción y protección de datos, dentro de un plazo no mayor a tres meses a partir de la entrada en vigor del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
