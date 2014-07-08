@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2014-06-21"
+last_updated: "2014-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -59,11 +59,11 @@ VI. Las autoridades competentes y los procedimientos para declarar la procedenci
 
 VII. El registro patrimonial de los servidores públicos.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Artículo 2°.
 
-Para los efectos de esta ley, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en la Constitución Política del Estado de Jalisco; a los miembros del Instituto Electoral y de Participación Ciudadana del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, los integrantes del Instituto de Transparencia e Información Pública del Estado y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+Para los efectos de esta ley, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado, a los integrantes del Tribunal Electoral del Estado, así como a los del Tribunal de Arbitraje y Escalafón previstos en la Constitución Política del Estado de Jalisco; a los miembros del Instituto Electoral y de Participación Ciudadana del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, los integrantes del Instituto de Transparencia e Información Pública del Estado y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
 
 ###### Artículo 3º.
 
@@ -75,7 +75,9 @@ II. El Supremo Tribunal de Justicia;
 
 III. El Tribunal de lo Administrativo;
 
-IV. El Tribunal Electoral;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+IV. El Tribunal Electoral del Estado;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
 
@@ -127,11 +129,11 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 
 ### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Artículo 5°.
 
-Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los magistrados del Tribual Electoral del Estado; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6º.
 
@@ -419,13 +421,13 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2014, PÁGINA 117.</small>
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado: los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado: los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
-
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
+Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; los magistrados del Tribunal Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
 
 ###### Artículo 32.
 
@@ -891,7 +893,9 @@ a) En el Congreso del Estado, representado por el Secretario General;
 
 b) En la Auditoría Superior del Estado de Jalisco, representado por el Auditor Superior.
 
-II. En el Poder Ejecutivo y la administración pública estatal, el Gobernador del Estado, y en general en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo dispongan su Ley Orgánica y su reglamento interior;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+II. En el Poder Ejecutivo y la administración pública estatal, el Gobernador del Estado, y en general en sus dependencias, los servidores públicos de mayor jerarquía conforme lo dispongan su Ley Orgánica y su reglamento interior;
 
 III. En el Poder Judicial:
 
@@ -899,7 +903,7 @@ a) En el Supremo Tribunal de Justicia, el pleno, representado por el Magistrado 
 
 b) En el Tribunal de lo Administrativo, su respectivo pleno, representado por su Presidente.
 
-c) En el Tribunal Electoral, el pleno, representado por su Presidente;
+c) (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 IV. En el Instituto Electoral y de Participación Ciudadana del Estado, el pleno, representado por su Presidente;
 
@@ -913,9 +917,17 @@ VIII. En los municipios, el Ayuntamiento, representado por el Presidente Municip
 
 IX. En la Comisión Estatal de Derechos Humanos, el Consejo, representado por su Presidente;
 
-X. En el Instituto de Transparencia e Información Pública del Estado, el Consejo, representado por su Presidente, y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-XI. En los organismos descentralizados y empresas de participación estatal o municipal mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
+X. En el Instituto de Transparencia e Información Pública del Estado, el Consejo, representado por su Presidente;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+XI. En los organismos descentralizados y empresas de participación estatal o municipal mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+
+XII. En el Tribunal Electoral del Estado, el pleno, representado por su Presidente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1327,9 +1339,17 @@ VI. En la Comisión Estatal de Derechos Humanos, ante el Congreso del Estado, po
 
 VII. En el Instituto Electoral y de Participación Ciudadana del Estado, ante el Congreso del Estado, por conducto del Presidente, incluyendo a éste: consejeros electorales con derecho a voto, directores de área y demás personal que determinen sus estatutos y reglamentos;
 
-VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
-IX. En todas las entidades a que se contrae este artículo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad con las fracciones que integran este artículo.
+VIII. En el Instituto de Transparencia e Información Pública del Estado, ante el Congreso del Estado, por conducto del Presidente del Consejo, el Presidente, consejeros ciudadanos, Secretario Ejecutivo, directores y jefes de departamento y demás personal que determine su reglamento;
+
+(REFORMADA, P.O. 8 DE JULIO DE 2014
+
+IX. En todas las entidades a que se contrae este artículo, los que ostenten la representación jurídica de la entidad para la que laboran, los jefes y subjefes de compras o quienes hagan sus veces ante los órganos que les correspondan, de conformidad a las fracciones que integran este artículo; y
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014
+
+X. En el Tribunal Electoral del Estado, ante el Congreso del Estado, por conducto del presidente incluyendo a éste, el Secretario General de Acuerdos, directores, y demás personal que determine el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1694,3 +1714,45 @@ P.O. 8 DE ABRIL DE 2014.
 P.O. 21 DE JUNIO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. El personal del Instituto Electoral y de Participación Ciudadana del Estado que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Cuarto. Cuando con motivo del presente Decreto, cualquier órgano del Instituto Electoral y de Participación Ciudadana del Estado cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Quinto. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente decreto y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+
+Sexto. Por única ocasión y de conformidad a lo establecido en el artículo Noveno Transitorio de la Ley General de Instituciones y Procedimientos Electorales, el proceso electoral ordinario cuya jornada electoral tendrá lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014.
+
+Séptimo. En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, los actuales Consejero Presidente y consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les corresponden conforme al Código Electoral y de Participación Ciudadana del Estado de Jalisco, por lo que los actos jurídicos en que intervengan surtirán todos sus efectos legales.
+
+Octavo. La jornada electoral que se verifiquen en el año 2018 se llevará a cabo el primer domingo de julio.
+
+Noveno. La organización del Servicio Profesional Electoral se hará conforme a las características y plazos que establezca el Instituto Nacional Electoral mediante el Estatuto del Servicio Profesional Electoral Nacional.
+
+Décimo. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado podrá realizar ajustes a los plazos establecidos en el Código que se reforma mediante este Decreto, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el mismo.
+
+Décimo Primero. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos ante las autoridades electorales del Estado de Jalisco que hayan iniciado o se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+Décimo Segundo. En tanto se expida la Ley Federal en materia del derecho de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+Décimo Tercero. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos electorales se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que la ley General en Materia de Delitos Electorales resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestares, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+Décimo Quinto. El Tribunal Electoral dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá expedir su Reglamento interno.
+
+Décimo Sexto. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones del Tribunal Electoral del Poder Judicial, pasarán a formar parte del organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Séptimo. Los asuntos que se encuentren pendientes de resolver ante el Tribunal Electoral, corresponderá su trámite o resolución al organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
+
+Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
