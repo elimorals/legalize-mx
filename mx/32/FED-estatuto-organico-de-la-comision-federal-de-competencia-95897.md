@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-95897"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-09-19"
-last_updated: "2013-09-19"
+last_updated: "2014-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95897&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-09-11"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA, PUBLICADO EN EL D.O.F. DE 8 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de septiembre de 2013.
 
@@ -742,3 +744,41 @@ SEGUNDO.- Los recursos de reconsideración interpuestos en términos del artícu
 Publíquese.- Así lo acordó y firma el Pleno de la CFCE por unanimidad de votos, en sesión del once de septiembre de dos mil trece, de conformidad con lo dispuesto en los artículos 28, párrafos décimo tercero, décimo noveno, fracción III y vigésimo de la Constitución Política de los Estados Unidos Mexicanos y 25 de la Ley Federal de Competencia Económica, ante la fe del Secretario Ejecutivo, quien actúa con fundamento en el artículo 29 de la referida Ley.
 
 La Presidente, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Alejandro Ildefonso Castañeda Sabido, Benjamín Contreras Astiazarán, Martín Moguel Gloria, Jesús Ignacio Navarro Zermeño, Francisco Javier Núñez Melgoza.- Rúbricas.- El Secretario Ejecutivo, Ali Bernard Haddou Ruiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE JULIO DE 2014.
+
+PRIMERO.- El presente Estatuto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Federal de Competencia Económica publicado en el Diario Oficial de la Federación el diecinueve de septiembre de dos mil trece.
+
+TERCERO.- La Comisión deberá adecuar su estructura orgánica así como las disposiciones administrativas a lo dispuesto en el presente Estatuto. En tanto no se efectúe la adecuación normativa a que se refiere este precepto, se continuarán aplicando las normas administrativas vigentes antes de la entrada en vigor del presente Estatuto en lo que no se opongan a éste.
+
+CUARTO.- Los procedimientos o asuntos iniciados con anterioridad a la entrada en vigor del presente Estatuto serán tramitados por el órgano o unidad administrativa que corresponda de conformidad con las atribuciones otorgadas en el presente Estatuto.
+
+Tratándose de los procedimientos de investigación iniciados con anterioridad a la entrada en vigor del presente Estatuto, los Oficios de Probable Responsabilidad serán emitidos por la Autoridad Investigadora; y el emplazamiento correspondiente será realizado por la Secretaría Técnica siguiendo el procedimiento señalado en la Ley abrogada en términos del artículo Segundo Transitorio de la Ley. El cierre de las investigaciones será resuelto por el Pleno a propuesta de la Autoridad Investigadora.
+
+QUINTO.- De conformidad con el artículo 33 bis 2 de la Ley Federal de Competencia Económica abrogada por el artículo Segundo Transitorio de la Ley, las solicitudes presentadas antes de la emisión del oficio de probable responsabilidad correspondiente serán tramitadas por la Autoridad Investigadora. Aquellas solicitudes presentadas con posterioridad a la emisión del oficio de probable responsabilidad serán tramitadas por la Secretaría Técnica.
+
+SEXTO.- El Pleno de la Comisión Federal de Competencia Económica deberá nombrar al titular de la Autoridad Investigadora y al Secretario Técnico en un plazo no mayor a tres meses a partir de la entrada en vigor del presente Estatuto. En el mismo plazo deberá aprobar la estructura orgánica de la Comisión.
+
+Seguirán vigentes las normas de carácter general que el Pleno haya emitido para el eficaz desempeño de sus funciones mientras no se opongan a la Ley y a este Estatuto.
+
+SÉPTIMO.- Para los efectos de lo dispuesto en el artículo 48 del presente ordenamiento, se aplicará el Reglamento de la Ley de Transparencia y Acceso a la Información Pública Gubernamental de la Comisión Federal de Competencia Económica, publicado en el Diario Oficial de la Federación el veintiséis de febrero de dos mil catorce; y el Consejo de Transparencia a que se refiere el citado ordenamiento continuará resolviendo los recursos de revisión establecidos en dicha ley. La anterior disposición será aplicable hasta en tanto no sea modificada por el Pleno o se realicen las modificaciones a los ordenamientos secundarios en términos de lo establecido en el artículo Sexto Transitorio del “Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de transparencia” publicado en el Diario Oficial de la Federación el siete de febrero de dos mil catorce.
+
+OCTAVO.- Las delegaciones a que se refiere el artículo 52 del presente Estatuto quedarán sujetas en su existencia y organización administrativa a la suficiencia de recursos presupuestales con los que cuente la Comisión Federal de Competencia Económica.
+
+NOVENO.- Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Federal de Competencia Económica a la fecha de la entrada en vigor del presente Estatuto se respetarán en todo momento de conformidad con las disposiciones normativas aplicables.
+
+DÉCIMO.- El Secretario Ejecutivo nombrado conforme al Estatuto que se abroga será el titular de la Secretaría Técnica y ejercerá las atribuciones que le corresponden a esta última hasta que su titular sea nombrado por el Pleno.
+
+Los titulares de las Direcciones Generales de Asuntos Contenciosos, Asuntos Jurídicos, de Estudios Económicos y de Concentraciones nombrados conforme al Estatuto que se abroga continuarán en sus funciones y ejercerán las atribuciones que se establecen en el presente instrumento para las direcciones que ostentan dichos nombres hasta que sus titulares sean nombrados por el Pleno o el Secretario Técnico, según sea el caso.
+
+DÉCIMO PRIMERO.- El titular de la Dirección General de Investigaciones de Prácticas Monopólicas Relativas nombrado conforme al Estatuto que se abroga continuará en funciones y ejercerá las atribuciones que se establecen en el presente instrumento para la Dirección General de Investigación de Mercados hasta que su titular sea nombrado por la Autoridad Investigadora.
+
+El titular de la Dirección General de Investigaciones de Prácticas Monopólicas Absolutas nombrado conforme al Estatuto que se abroga continuará en funciones y ejercerá las atribuciones que se establecen en el presente instrumento para la dirección del mismo nombre hasta que su titular sea nombrado por la Autoridad Investigadora.
+
+En tanto se hace el nombramiento de la Autoridad Investigadora por el Pleno conforme a la Ley, ejercerá las atribuciones de esta última conforme al presente Estatuto, el Director General de Investigaciones de Prácticas Monopólicas Absolutas.
+
+DÉCIMO SEGUNDO.- El “Calendario de suspensión de labores para el año dos mil catorce y principios de dos mil quince” de la Comisión publicado el diecisiete de enero de dos mil catorce continuará siendo aplicable después de la entrada en vigor de este Estatuto.
