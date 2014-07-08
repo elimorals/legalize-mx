@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2014-06-14"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -303,7 +303,7 @@ XIX. Internamiento o tratamiento en libertad vigilada de sujetos con imputabilid
 
 XX. Tratamiento de deshabituación o desintoxicación;
 
-XXI. Trabajo en libertad en beneficio de la comunidad; y (sic)
+XXI. Trabajo en libertad en beneficio de la comunidad; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2006)</small>
 
@@ -1533,7 +1533,7 @@ Art. 142 J. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-Art. 142 K. Al que gestione para que una persona que ejerza la patria potestad o la tutela sobre un menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, preste su consentimiento para la adopción del menor o de quien no tenga la capacidad para comprender el significado del hecho, sin que se cumplan las disposiciones legales o los tratados internacionales de los que México sea parte, se le impondrán de dos a seis años de prisión y de mil a mil quinientos días multa; (sic)
+Art. 142 K. Al que gestione para que una persona que ejerza la patria potestad o la tutela sobre un menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, preste su consentimiento para la adopción del menor o de quien no tenga la capacidad para comprender el significado del hecho, sin que se cumplan las disposiciones legales o los tratados internacionales de los que México sea parte, se le impondrán de dos a seis años de prisión y de mil a mil quinientos días multa;
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1863,7 +1863,7 @@ XI. Cuando, a sabiendas, autorice o contrate a quien se encuentre legalmente inh
 
 XII. Cuando otorgue cualquiera identificación que acredite, como servidor público, a quien no lo sea;
 
-XIII. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y (sic)
+XIII. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1879,7 +1879,7 @@ XVI. Obligar al indiciado o acusado a declarar usando la incomunicación o cualq
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2005)</small>
 
-XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y (sic)
+XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2963,7 +2963,7 @@ Se impondrá de diez a cincuenta jornadas de trabajo a favor de la comunidad o m
 
 ###### Art. 202 Bis.
 
-Se impondrán de cincuenta a cien días de multa o de treinta a cien jornadas de trabajo a favor de la comunidad, a quien al que (sic) por razones de origen étnico, edad, sexo, embarazo, estado civil, raza, nacionalidad, idioma, religión, ideología, preferencia sexual, condición social o económica, trabajo o profesión, discapacidad, características físicas, estado de salud o cualquier otra causa que atente contra la dignidad humana, limite, anule o genere un menoscabo a los derechos, libertades y seguridad de la persona.
+Se impondrán de cincuenta a cien días de multa o de treinta a cien jornadas de trabajo a favor de la comunidad, a quien al que por razones de origen étnico, edad, sexo, embarazo, estado civil, raza, nacionalidad, idioma, religión, ideología, preferencia sexual, condición social o económica, trabajo o profesión, discapacidad, características físicas, estado de salud o cualquier otra causa que atente contra la dignidad humana, limite, anule o genere un menoscabo a los derechos, libertades y seguridad de la persona.
 
 Al reincidente, se le impondrá de uno a tres años de prisión.
 
@@ -3269,7 +3269,7 @@ Para que proceda la aplicación de la pena de infanticidio, se requiere que la m
 
 ### CAPITULO I. De las Definiciones
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 227.
 
@@ -3309,8 +3309,6 @@ Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra p
 
 ### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
 ###### Art. 230.
 
 Se impondrá de un mes a cuatro años de prisión, suspensión hasta por cinco años de los derechos de tutela, a quien abandone a persona enferma o que padezca enajenación mental, siempre que tuviera la obligación de cuidarlo.
@@ -3333,15 +3331,11 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 ### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
-
 ## TITULO VIGESIMO. DE LOS DELITOS FISCALES
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO IV. Delitos Cometidos por Representantes de Partido
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 233.
 
@@ -3467,7 +3461,7 @@ XIV. Los responsables sean miembros de un cuerpo de seguridad pública, aun cuan
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
 
-XV. Se ejecute a bordo de un vehículo de transporte público en servicio; y (sic)
+XV. Se ejecute a bordo de un vehículo de transporte público en servicio; y
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
@@ -3586,8 +3580,6 @@ II. Cuando el valor de lo robado no pase del máximo establecido en la fracción
 Si en el mismo caso, la restitución y reparación se verifican después de iniciadas las investigaciones, pero antes de formularse conclusiones en el proceso, la pena será solo la multa del triple del valor de lo robado y especial amonestación. Sin perjuicio de que si la víctima u ofendido se desista o renuncie a la restitución de lo robado o a los daños o perjuicios, en cuyo caso procederá a la exhoneración.
 
 ### CAPITULO V. Delitos cometidos por los Servidores Públicos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Art. 240.
 
@@ -3717,8 +3709,6 @@ En todos los casos previstos en este capítulo será aplicable, en lo conducente
 
 ### CAPITULO VI. Disposiciones Comunes
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
-
 ###### Art. 245.
 
 Comete el delito de abuso de confianza, el que, con perjuicio de alguien, disponga para sí o para otro, de una cosa ajena mueble de la cual se le haya transmitido la tenencia y no el dominio.
@@ -3729,7 +3719,7 @@ Comete el delito de abuso de confianza, el que, con perjuicio de alguien, dispon
 
 Al responsable del delito de Abuso de Confianza se le sancionará sólo por querella del ofendido y conforme a las reglas siguientes:
 
-I. Con prisión de tres a seis meses y multa por el importe de dos a ocho días de salario, cuando el valor de los (sic) dispuesto no exceda del importe de cuatro cientos (sic) cincuenta días de salario;
+I. Con prisión de tres a seis meses y multa por el importe de dos a ocho días de salario, cuando el valor de los (sic) dispuesto no exceda del importe de cuatro cientos cincuenta días de salario;
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3859,7 +3849,7 @@ XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien 
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
-XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y (sic)
+XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -4083,193 +4073,65 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 ###### Art. 266.
 
-Para los efectos de este capítulo se entiende por:
-
-I. Funcionarios electorales, quienes en los términos de la Ley Electoral del Estado, integren los órganos que cumplen funciones públicas electorales;
-
-II. Representantes de partido, los dirigentes de los partidos políticos nacionales y estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos correspondientes, en los términos de la legislación local electoral; y
-
-III. Documentos públicos electorales, las actas oficiales de instalación de casilla, de escrutinio y las relativas a los diferentes cómputos, paquetes electorales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Consejo Electoral del Estado.
+Los delitos electorales, las sanciones, la distribución de competencias y las formas de coordinación entre los órganos de gobierno se estará a lo dispuesto por la Ley General en Materia de Delitos Electorales.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 267.
 
-Se impondrá de diez a cien días de multa y prisión de seis meses a tres años, al ciudadano que:
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-I. Vote a sabiendas de que no cumple con los requisitos de ley;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-II. Vote más de una vez en una misma elección;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-III. Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en el que se encuentren formados los electores;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-V. Recoja sin causa prevista por la ley de la materia, credenciales de elector de los ciudadanos;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-VII. Viole dolosamente el secreto del voto;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-VIII. Vote o pretenda votar con una credencial de la que no sea titular;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-IX. El día de la elección, organice la reunión y traslado de votantes con el objeto de llevarlos a votar e influir en el sentido de su voto;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-X. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; las altere o destruya sin autorización del órgano electoral respectivo;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-XI. Obtenga o solicite declaración firmada del elector acerca del sentido de su voto, o bien, que comprometa el voto mediante amenaza o promesa;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-XII. Impida en forma violenta la instalación o cierre de una casilla;
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-XIII. Se presente en la casilla en plan intimidatorio, portando armas, o
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-XIV. Obligue, presione, condicione o coaccione a las personas que estén bajo su encargo, haciendo uso del grado de superioridad jerárquica, escolar o laboral, para apoyar a agrupación política, partido político, candidato o a emitir su voto a favor de éstos.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 268.
 
-Se impondrán de cincuenta a doscientos días de multa y prisión de dos a seis años, al funcionario electoral que:
-
-I. Altere dolosamente, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
-
-II. Se abstenga de cumplir, sin causa justificada, sus obligaciones electorales en perjuicio del proceso;
-
-III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-IV. Altere dolosamente los resultados electorales, sustraiga o destruya boletas o documentos electorales;
-
-V. No entregue o impida la entrega oportuna de documentos electorales, sin mediar causa justificada;
-
-VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-VII. Instale o impida, abra o cierre dolosamente una urna o casilla fuera de los tiempos, formas y lugares previstos por la ley de la materia sin causa justificada;
-
-VIII. Expulse de la casilla electoral sin causa justificada al representante de un partido político debidamente acreditado, o le impida sin causa justificada el libre ejercicio de los derechos que la ley le concede;
-
-IX. Enterado de la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen, dentro del ámbito de su competencia;
-
-X. Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; y
-
-XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 269.
 
-Se impondrá de cien a doscientos días multa y prisión de uno a seis años, al representante de partido que:
-
-I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en lugar donde los propios electores se encuentren formados;
-
-II. Realice propaganda electoral partidista mientras cumple sus funciones durante la jornada electoral;
-
-III. Substraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
-
-IV. Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
-
-V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; e
-
-VI. Impida con violencia la instalación; apertura o cierre de una casilla.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
-Se impondrá de doscientos a cuatrocientos días de multa y prisión de uno a nueve años, al servidor público que:
-
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
-
-I. Obligue, presione, condicione o coaccione a quienes esté bajo su encargo a emitir su voto a favor de un candidato o partido político o a participar en actividades de éstos o de agrupación política alguna, condicionando su permanencia o situación laboral o escolar.
-
-La pena se incrementará en una mitad cuando el delito previsto en el párrafo anterior se realice dentro de los horarios escolares o laborales;
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
-
-III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
-Se impondrán hasta quinientos días multa, a los ministros de culto religioso que, en los edificios destinados al culto o en cualquier otro lugar, que por cualquier medio y en el desarrollo de actos propios de su ministerio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 272.
 
-Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quien, habiendo sido electo para cualquier cargo de elección popular no se presente, sin causa justificada a juicio del Congreso del Estado, a desempeñar el cargo dentro de los plazos señalados en la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 273.
 
-Se impondrá de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
-
-I. Proporcione documentos o información falsa al Registro Estatal de Electores para obtener cualquier documento que en ejercicio de sus funciones deba expedir dicho registro; y
-
-II. Altere en cualquier forma, sustituya, destruya, o haga un uso indebido de la credencial de elector que en los términos de ley, expida el Registro Estatal de Electores.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 274.
 
-La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del Registro Estatal de Electores, o el sujeto activo fuere de nacionalidad extranjera.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 275.
 
-Se impondrá de setenta a doscientos días de multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del registro de electores, el padrón electoral, los listados nominales o en la expedición ilícita de credenciales para votar.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 276.
 
-Se impondrá prisión de uno a nueve años, al representante de partido o a los organizadores de actos de campaña que, a sabiendas, aprovechen ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 270 de este Código.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 277.
 
-Por la comisión de cualesquiera de los delitos comprendidos en el presente capítulo se impondrá además de la pena señalada, la suspensión o inhabilitación de derechos políticos de uno a cinco años, y destitución del cargo, según sea el caso.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### Art. 278.
 
-Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -5330,3 +5192,45 @@ SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones a los reglame
 TERCERO. Se autoriza a la Secretaría de Planeación, Administración y Finanzas para realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto, haciendo uso en su caso, de los recursos humanos y materiales ya existentes, en coordinación con la Fiscalía General del Estado de Jalisco, lo anterior con respecto de la creación de la Unidad Especializada de Protección Animal.
 
 CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los animales, el Fiscal General designará las agencias especializadas para su conocimiento conforme a las disposiciones legales, reglamentarias y normativas aplicables.
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. El personal del Instituto Electoral y de Participación Ciudadana del Estado que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Cuarto. Cuando con motivo del presente Decreto, cualquier órgano del Instituto Electoral y de Participación Ciudadana del Estado cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Quinto. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente decreto y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+
+Sexto. Por única ocasión y de conformidad a lo establecido en el artículo Noveno Transitorio de la Ley General de Instituciones y Procedimientos Electorales, el proceso electoral ordinario cuya jornada electoral tendrá lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014.
+
+Séptimo. En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, los actuales Consejero Presidente y consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les corresponden conforme al Código Electoral y de Participación Ciudadana del Estado de Jalisco, por lo que los actos jurídicos en que intervengan surtirán todos sus efectos legales.
+
+Octavo. La jornada electoral que se verifiquen en el año 2018 se llevará a cabo el primer domingo de julio.
+
+Noveno. La organización del Servicio Profesional Electoral se hará conforme a las características y plazos que establezca el Instituto Nacional Electoral mediante el Estatuto del Servicio Profesional Electoral Nacional.
+
+Décimo. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado podrá realizar ajustes a los plazos establecidos en el Código que se reforma mediante este Decreto, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el mismo.
+
+Décimo Primero. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos ante las autoridades electorales del Estado de Jalisco que hayan iniciado o se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+Décimo Segundo. En tanto se expida la Ley Federal en materia del derecho de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+Décimo Tercero. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos electorales se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que la ley General en Materia de Delitos Electorales resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+Décimo Quinto. El Tribunal Electoral dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá expedir su Reglamento interno.
+
+Décimo Sexto. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones del Tribunal Electoral del Poder Judicial, pasarán a formar parte del organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Séptimo. Los asuntos que se encuentren pendientes de resolver ante el Tribunal Electoral, corresponderá su trámite o resolución al organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
+
+Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
