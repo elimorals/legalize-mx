@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2014-07-03"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -4821,8 +4821,6 @@ AL QUE PARA HACERSE DE UNA CANTIDAD DE DINERO EN NUMERARIO O EN BILLETES DE BANC
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
-
 ###### ARTICULO 392.
 
 COMETE EL DELITO DE USURA QUIEN OBTENGA BENEFICIO, PARA SI O PARA OTRO, EN DINERO O EN ESPECIE, DE UN PRESTAMO REALIZADO, AUN ENCUBIERTO CON OTRA FORMA CONTRACTUAL, AL RECIBIR UN INTERES IGUAL O MAYOR AL COSTO PORCENTUAL PROMEDIO, PUBLICADO POR EL BANCO DE MEXICO, EN EL DIARIO OFICIAL DE LA FEDERACION, EN LA FECHA PROXIMA ANTERIOR AL DIA EN QUE SE ACUERDE EL PRESTAMO, O AL OBTENER VENTAJA EVIDENTEMENTE DESPROPORCIONADA A LO QUE POR SU PARTE SE OBLIGO.
@@ -5043,217 +5041,55 @@ ARTICULO 413 BIS.- SE IMPONDRAN DE TRES A SEIS AÑOS DE PRISION, AL PARTICULAR Q
 
 ###### ARTICULO 414.
 
-LAS CONDUCTAS QUE SE TIPIFICAN COMO DELITOS ELECTORALES SE PERSIGUEN DE OFICIO Y UNICAMENTE SE SANCIONARAN CUANDO EXISTE INTENCION DOLOSA EN SU EJECUCION Y SE CONSUMAN CON EL OBJETO DE INCUMPLIR, FALSEAR, ALTERAR O IMPEDIR EL PROCESO ELECTORAL EN CUALQUIERA DE SUS FASES.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 415.
 
-PARA LOS EFECTOS DE ESTE CAPITULO, SE ENTIENDE POR:
-
-I.- SERVIDORES PUBLICOS: LAS PERSONAS A QUE SE REFIERE EL ARTICULO 105 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON;
-
-II.- FUNCIONARIOS ELECTORALES: QUIENES EN LOS TERMINOS DE LA LEGISLACION ELECTORAL INTEGREN LOS ORGANISMOS ELECTORALES Y JURISDICCIONALES ELECTORALES;
-
-III.- FUNCIONARIOS DE PARTIDO: LOS DIRIGENTES DE LOS PARTIDOS POLITICOS NACIONALES Y ESTATALES, ASI COMO SUS REPRESENTANTES ANTE LOS ORGANISMOS ELECTORALES Y JURISDICCIONALES EN LOS TERMINOS DE LA LEY ELECTORAL DEL ESTADO DE NUEVO LEON;
-
-IV.- CANDIDATOS: LOS CIUDADANOS REGISTRADOS FORMALMENTE COMO TALES POR LA COMISION ESTATAL ELECTORAL;
-
-V.- DOCUMENTOS ELECTORALES: LOS NOMBRAMIENTOS DE LOS REPRESENTANTES DE PARTIDOS Y CANDIDATOS, LA LISTA NOMINAL DE LOS ELECTORES, LAS BOLETAS ELECTORALES, LAS ACTAS DE LA JORNADA ELECTORAL, LOS PAQUETES ELECTORALES, LAS ACTAS DE LAS SESIONES DE COMPUTO DE LA COMISION ESTATAL ELECTORAL, DE LAS MESAS AUXILIARES DE COMPUTO Y DE LAS COMISIONES MUNICIPALES ELECTORALES Y, EN GENERAL, TODOS LOS DOCUMENTOS Y ACTAS EXPEDIDOS EN EL EJERCICIO DE SUS FUNCIONES POR LOS ORGANISMOS ELECTORALES DE LA ENTIDAD;
-
-VI.- MATERIAL ELECTORAL: LAS URNAS ELECTORALES, MAMPARAS, SELLOS Y TINTA INDELEBLE; Y
-
-VII.- LEY: LA LEY ELECTORAL DEL ESTADO DE NUEVO LEON.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 416.
 
-SE IMPONDRA MULTA DE DIEZ A CINCUENTA CUOTAS, O PRISION DE TRES DIAS A SEIS MESES, O AMBAS SANCIONES, A JUICIO DEL JUEZ, A LA PERSONA QUE:
-
-I.- DESTRUYA O SEA SORPRENDIDO DESTRUYENDO PROPAGANDA ELECTORAL, O LA PROPAGANDA DESTINADA A LA DIFUSION DE PROGRAMAS Y PRINCIPIOS DE LOS PARTIDOS POLITICOS O CANDIDATOS;
-
-II.- SIENDO NOTARIO PUBLICO; AGENTE DEL MINISTERIO PUBLICO O JUEZ, SE CONDUZCA CON FALSEDAD AL CERTIFICAR HECHOS RELATIVOS AL PROCESO ELECTORAL; O
-
-III.- SE PRESENTE EN CASILLAS PORTANDO ARMAS SIN TENER AUTORIZACION PARA ELLO DE ACUERDO CON LA LEY, O EN ESTADO DE EBRIEDAD O INTOXICACION.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 417.
 
-SE IMPONDRA MULTA DE VEINTE A CIEN CUOTAS, Y PRISION DE SEIS MESES A TRES AÑOS, A LA PERSONA QUE:
-
-I.- RECOJA, SIN CAUSA JUSTIFICADA, CREDENCIALES PARA VOTAR DE LOS CIUDADANOS O CREDENCIALES QUE ACREDITEN A MILITANTES DE UNA ORGANIZACION POLITICA;
-
-II.- SOLICITE O DE PAGA, DADIVA, PROMESA DE DINERO U OTRA RECOMPENSA A CAMBIO DE EMITIR O NO SU VOTO EN FAVOR DE UN PARTIDO POLITICO, COALICION O CANDIDATO;
-
-III.- TENIENDO UNO O MAS ELECTORES BAJO SU DEPENDENCIA ECONOMICA, LOS OBLIGUE DE MANERA EXPRESA Y HACIENDO USO DE SU AUTORIDAD O JERARQUIA, A QUE VOTEN O NO EN FAVOR DE UN PARTIDO POLITICO, COALICION O CANDIDATO;
-
-IV.- SOLICITE LA PARTICIPACION EN ACTIVIDADES DE CAMPAÑA ELECTORAL O LA EMISION O NO DEL VOTO A FAVOR DE UN PARTIDO POLITICO, COALICION O CANDIDATO OFRECIENDO EMPLEO O MEJORAMIENTO DEL MISMO;
-
-V.- VIOLE EL DERECHO CIUDADANO DE AFILIACION LIBRE, VOLUNTARIA E INDIVIDUAL OBLIGANDO A PERTENECER O NO A UN PARTIDO POLITICO;
-
-VI.- OBTENGA O SOLICITE DECLARACION FIRMADA DEL ELECTOR ACERCA DE LA INTENCION DE SU VOTO;
-
-VII.- DURANTE LOS OCHO DIAS PREVIOS A LA ELECCION Y HASTA LA HORA OFICIAL DEL CIERRE DE LAS CASILLAS, PUBLIQUE O DIFUNDA POR CUALQUIER MEDIO LOS RESULTADOS DE ENCUESTAS O SONDEOS DE OPINION QUE DEN A CONOCER LAS PREFERENCIAS ELECTORALES DE LOS CIUDADANOS, SOBRE LOS CANDIDATOS, COALICIONES O PARTIDOS POLITICOS CONTENDIENTES EN LAS ELECCIONES LOCALES;
-
-VIII.- CELEBRE MITINES, REUNIONES PUBLICAS O CUALQUIER OTRO ACTO PUBLICO DE CAMPAÑA; O REALICE PROSELITISMO O DISTRIBUYA, DIFUNDA O INSTALE PROPAGANDA ELECTORAL, EL DIA DE LA ELECCION Y LOS TRES QUE LE PRECEDAN;
-
-IX.- HAGA PROSELITISMO O EJERZA VIOLENCIA O AMENACE A LOS ELECTORES EL DIA DE LA JORNADA ELECTORAL, EN EL INTERIOR DE LAS CASILLAS O EN EL LUGAR QUE SE ENCUENTREN FORMADOS LOS VOTANTES, CON EL FIN DE ORIENTAR LA INTENCION DE SU VOTO;
-
-X.- SIMULE HECHOS, CIRCUNSTANCIAS O ACTOS DE CAMPAÑA ELECTORAL PARA IMPUTARLOS A UN CANDIDATO, PARTIDO U ORGANIZACION POLITICA DISTINTA A LA QUE ESTA PERTENECE;
-
-XI.- CONOCIENDO LA EXISTENCIA DE CONDICIONES O ACTIVIDADES QUE ATENTEN CONTRA LA LIBERTAD O EL SECRETO DEL VOTO, NO TOME LAS MEDIDAS CONDUCENTES PARA QUE CESEN;
-
-XII.- EL DIA DE LA JORNADA ELECTORAL LLEVE A CABO EL TRANSPORTE DE VOTANTES, COARTANDO O PRETENDIENDO COARTAR SU LIBERTAD PARA LA EMISION DEL VOTO;
-
-XIII.- INCITE A LA VIOLENCIA QUE ALTERE EL ORDEN PUBLICO Y AFECTE CUALQUIERA DE LAS ETAPAS DEL PROCESO ELECTORAL;
-
-XIV.- MEDIANTE VIOLENCIA O AMENAZAS OBSTACULICE O IMPIDA EL LIBRE ACCESO A OFICINAS O LUGARES DONDE SE ENCUENTREN INSTALADOS LOS ORGANISMOS ELECTORALES O JURISDICCIONALES;
-
-XV.- VOTE A SABIENDAS DE QUE NO CUMPLE CON LOS REQUISITOS EXIGIDOS POR LA LEY;
-
-XVI.- VOTE O INTENTE VOTAR CON UNA CREDENCIAL PARA VOTAR DE LA QUE NO SEA TITULAR;
-
-XVII.- TENIENDO LA ACREDITACION DE OBSERVADOR ELECTORAL, INCURRA EN LAS PROHIBICIONES DETERMINADAS EN LA LEY;
-
-XVIII.- SE OSTENTE EN UNA O MAS CASILLAS COMO FUNCIONARIO ELECTORAL O REPRESENTANTE DE PARTIDO POLITICO, CANDIDATO O COALICION, SIN TENER ESA CALIDAD; O
-
-XIX.- UTILICE LA DENOMINACION O EMBLEMA DE PARTIDO POLITICO, COALICION O ASOCIACION POLITICA SIN CONTAR CON LA AUTORIZACION DE LA ORGANIZACION POLITICA RESPECTIVA.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 418.
 
-SE IMPONDRA MULTA DE VEINTE A CIEN CUOTAS, Y PRISION DE UNO A TRES AÑOS, A LA PERSONA QUE:
-
-I.- MEDIANTE VIOLENCIA O AMENAZAS OBSTACULICE O IMPIDA LA INSTALACION O CLAUSURA DE UNA O MAS CASILLAS; EL DESARROLLO DE LA VOTACION; EL ESCRUTINIO Y COMPUTO; EL TRASLADO Y ENTREGA DE LOS PAQUETES CON LA DOCUMENTACION ELECTORAL; EL ADECUADO EJERCICIO DE LAS TAREAS DE LOS FUNCIONARIOS ELECTORALES; EL COMPUTO DE LOS ORGANISMOS ELECTORALES; O CUALQUIER OTRO ACTO POSTERIOR A LA ELECCION;
-
-II.- VOTE MAS DE UNA VEZ EN UNA MISMA ELECCION;
-
-III.- TRANSGREDA EN LA JORNADA ELECTORAL, EL DERECHO DEL CIUDADANO A EMITIR SU VOTO EN SECRETO; O
-
-IV.- INTRODUZCA O SUSTRAIGA ILICITAMENTE DE LAS URNAS UNA O MAS BOLETAS ELECTORALES; O SE APODERE, DESTRUYA O ALTERE BOLETAS, DOCUMENTOS ELECTORALES, MATERIAL ELECTORAL O CREDENCIALES DE ELECTOR.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 419.
 
-SE IMPONDRA MULTA DE CINCUENTA A DOSCIENTAS CUOTAS, Y PRISION DE SEIS MESES A CUATRO AÑOS, AL FUNCIONARIO ELECTORAL QUE:
-
-I.- NO ENTREGUE LOS DOCUMENTOS ELECTORALES O EL MATERIAL ELECTORAL A QUIEN CORRESPONDA, O NO LO HAGA LLEGAR A LA CASILLA CORRESPONDIENTE EL DIA DE LA JORNADA ELECTORAL, EN LOS TERMINOS QUE MARCA LA LEY;
-
-II.- ABRA O CIERRE UNA CASILLA FUERA DE LOS TIEMPOS Y FORMAS PREVISTOS POR LA LEY O LA INSTALE EN LUGAR DISTINTO AL LEGALMENTE SEÑALADO;
-
-III.- IMPIDA, OBSTRUYA O SUSPENDA EL INICIO, DESARROLLO O CIERRE DE LA VOTACION EN CONTRAVENCION A LO ESTABLECIDO EN LA LEY;
-
-IV.- SIN CAUSA PREVISTA POR LA LEY SE NIEGUE A RECONOCER LA PERSONALIDAD DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS, COALICIONES O CANDIDATOS, EXPULSE U ORDENE SU RETIRO DE LA CASILLA ELECTORAL, O LES IMPIDA EL EJERCICIO DE LOS DERECHOS QUE LES CONCEDE LA LEY;
-
-V.- EJERZA VIOLENCIA O AMENAZA SOBRE LOS ELECTORES A FIN DE INDUCIRLOS A VOTAR POR UN CANDIDATO, PARTIDO POLITICO O COALICION, EN EL INTERIOR DE LA CASILLA O EN EL LUGAR DONDE LOS PROPIOS ELECTORES SE ENCUENTREN FORMADOS;
-
-VI.- PERMITA QUE UN CIUDADANO EMITA SU VOTO A SABIENDAS DE QUE NO CUMPLE CON LOS REQUISITOS DE LEY O QUE SE INTRODUZCAN ILICITAMENTE EN LAS URNAS UNA O MAS BOLETAS ELECTORALES O SE REHUSE, SIN CAUSA JUSTIFICADA, A ADMITIR EL VOTO DE QUIEN TENGA DERECHO AL SUFRAGIO;
-
-VII.- CONOCIENDO LA EXISTENCIA DE CONDICIONES O ACTIVIDADES QUE ATENTEN CONTRA LA LIBERTAD O EL SECRETO DEL VOTO, NO TOME LAS MEDIDAS CONDUCENTES PARA QUE CESEN;
-
-VIII.- ALTERE LOS RESULTADOS ELECTORALES, SUSTRAIGA O DESTRUYA BOLETAS, DOCUMENTOS ELECTORALES O MATERIAL ELECTORAL, O HAGA VALER UN DOCUMENTO ELECTORAL ALTERADO O NULO;
-
-IX.- OCULTE, ALTERE O DESTRUYA UNO O MAS PAQUETES ELECTORALES; O
-
-X.- DIFUNDA DOLOSAMENTE NOTICIAS FALSAS SOBRE EL DESARROLLO DE LA JORNADA ELECTORAL O RESPECTO DE SUS RESULTADOS.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 420.
 
-SE IMPONDRA MULTA DE CIEN A DOSCIENTAS CUOTAS, Y PRISION DE SEIS MESES A CINCO AÑOS, AL FUNCIONARIO DE PARTIDO O AL CANDIDATO QUE:
-
-I.- ACEPTE O PROPONGA SU CANDIDATURA A SABIENDAS QUE NO REUNE LOS REQUISITOS DE ELEGIBILIDAD QUE ESTABLECE LA CONSTITUCION POLITICA DEL ESTADO;
-
-II.- SUSTRAIGA, DESTRUYA, ALTERE O HAGA USO INDEBIDO DE DOCUMENTOS ELECTORALES O MATERIAL ELECTORAL;
-
-III.- OBTENGA Y UTILICE A SABIENDAS Y EN SU CALIDAD DE CANDIDATO, FONDOS PROVENIENTES DE ACTIVIDADES ILICITAS PARA SU CAMPAÑA ELECTORAL;
-
-IV.- CELEBRE MITINES, REUNIONES PUBLICAS O CUALQUIER OTRO ACTO PUBLICO DE CAMPAÑA, O DE PROSELITISMO O DISTRIBUYAN, DIFUNDAN O INSTALEN PROPAGANDA ELECTORAL, EL DIA DE LA ELECCION Y LOS TRES QUE LE PRECEDAN;
-
-V.- OBSTACULICE O IMPIDA MEDIANTE VIOLENCIA O AMENAZAS LA INSTALACION, APERTURA O CIERRE DE UNA CASILLA;
-
-VI.- INDUZCA, AMENACE O EJERZA VIOLENCIA SOBRE EL ELECTORADO PARA QUE SE ABSTENGA DE VOTAR, O BIEN VOTE O NO A FAVOR DE UN CANDIDATO, PARTIDO POLITICO O COALICION, YA SEA EN EL INTERIOR DE LA CASILLA O EN EL LUGAR DONDE LOS PROPIOS ELECTORES SE ENCUENTREN FORMADOS;
-
-VII.- SOLICITE VOTOS A CAMBIO DE DINERO O DE LA PROMESA DE ENTREGARLO;
-
-VIII.- OBSTACULICE O IMPIDA EL DESARROLLO DE LA VOTACION O DE LOS ACTOS POSTERIORES A LA ELECCION, O CON ESE FIN AMENACE O EJERZA VIOLENCIA SOBRE LOS FUNCIONARIOS ELECTORALES;
-
-IX.- MEDIANTE VIOLENCIA O AMENAZAS OBSTACULICE O IMPIDA EL LIBRE ACCESO A OFICINAS O LUGARES DONDE SE ENCUENTREN INSTALADOS LOS ORGANISMOS ELECTORALES O JURISDICCIONALES;
-
-X.- INCITE A LA VIOLENCIA QUE ALTERE EL ORDEN PUBLICO Y AFECTE CUALQUIERA DE LAS ETAPAS DEL PROCESO ELECTORAL;
-
-XI.- SIMULE HECHOS, CIRCUNSTANCIAS O ACTOS DE CAMPAÑA ELECTORAL PARA IMPUTARLOS A UN CANDIDATO, PARTIDO U ORGANIZACION POLITICA DISTINTA A LA QUE ESTE PERTENECE; O
-
-XII.- DIFUNDA DOLOSAMENTE NOTICIAS FALSAS SOBRE EL DESARROLLO DE LA JORNADA ELECTORAL O RESPECTO DE SUS RESULTADOS.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 421.
 
-SE IMPONDRA MULTA DE CIEN A TRESCIENTAS CUOTAS Y PRISION DE UNO A SEIS AÑOS Y, A JUICIO DEL JUEZ, INHABILITACION DE UNO A SEIS AÑOS, Y EN SU CASO, LA DESTITUCION DEL CARGO, AL SERVIDOR PUBLICO QUE:
-
-I.- OBLIGUE A SUS SUBORDINADOS, HACIENDO USO DE SU AUTORIDAD O JERARQUIA, A EMITIR O NO SU VOTO A FAVOR DE UN CANDIDATO, PARTIDO POLITICO O COALICION;
-
-II.- CONDICIONE EN EL AMBITO DE SU COMPETENCIA, LA PRESTACION DE UN SERVICIO PUBLICO O EL CUMPLIMIENTO DE PROGRAMAS O LA REALIZACION DE OBRA PUBLICA, A LA EMISION O NO DEL VOTO A FAVOR DE UN PARTIDO POLITICO, CANDIDATO O COALICION;
-
-III.- DESTINE RECURSOS HUMANOS, ECONOMICOS O MATERIALES QUE TENGA A SU DISPOSICION EN VIRTUD DE SU EMPLEO, CARGO O COMISION, PARA BENEFICIO DE UN CANDIDATO, PARTIDO POLITICO O COALICION; O UTILICE SU TIEMPO OFICIAL DE LABORES EN BENEFICIO O APOYO DE CANDIDATOS, PARTIDOS POLITICOS O COALICIONES;
-
-IV.- OBSTACULICE O IMPIDA EL DESARROLLO QUE CONFORME A LA LEY DEBA EFECTUARSE EN CADA UNA DE LAS ETAPAS DEL PROCESO ELECTORAL; O
-
-V.- OBSTACULICE, IMPIDA, SUSPENDA O NIEGUE EL EJERCICIO DE LAS PRERROGATIVAS, GARANTIAS Y DERECHOS DE LOS PARTIDOS POLITICOS, COALICIONES O CANDIDATOS PREVISTOS EN LA LEY PARA:
-
-A) RECIBIR LA EXENCION DE IMPUESTOS O DERECHOS ESTATALES O MUNICIPALES QUE GRAVEN LOS BIENES O ACTIVIDADES DESTINADOS AL CUMPLIMIENTO DE SUS FINES;
-
-B) RECIBIR LOS PERMISOS O AUTORIZACIONES PARA LA CELEBRACION DE ACTIVIDADES CON FINES PROMOCIONALES, TALES COMO ESPECTACULOS, CONGRESOS, CONFERENCIAS, EVENTOS DE TIPO CULTURAL O ACADEMICO, VENTA DE BIENES Y DE PROPAGANDA UTILITARIA, VENTAS EDITORIALES, ASI COMO CUALQUIERA OTRA ANALOGA QUE SE REALICE PARA LA RECAUDACION DE FONDOS;
-
-C) CELEBRAR REUNIONES PUBLICAS DE CAMPAÑA, EN LOS TERMINOS QUE ESTABLECE LA LEY; O
-
-D) COLOCAR, FIJAR O INSTALAR PROPAGANDA ENCAMINADA A LA DIFUSION EN CUALQUIER TIEMPO DE LOS PRINCIPIOS, PROGRAMAS O CANDIDATURAS O LA PROPAGANDA ELECTORAL ESTABLECIDA EN LA LEY.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 422.
 
-SE IMPONDRA MULTA DE SETENTA A DOSCIENTAS CUOTAS, Y PRISION DE TRES A SIETE AÑOS, A QUIEN POR CUALQUIER MEDIO PARTICIPE EN LA ALTERACION DE LAS LISTAS NOMINALES DE ELECTORES O EN LA EXPEDICION ILICITA DE CREDENCIALES PARA VOTAR.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 423.
 
-SE IMPONDRA MULTA DE CIEN A QUINIENTAS CUOTAS Y PRISION DE UNO A CINCO AÑOS, A QUIEN FALSIFIQUE O ALTERE LOS MEDIOS DE PRUEBA RECONOCIDOS EN LA LEY O A SABIENDAS DE SU FALSEDAD O ALTERACION LOS UTILICE EN LA TRAMITACION DE RECURSOS O DEMANDAS EN MATERIA ELECTORAL O BIEN EN OTRA INSTANCIA ANTE CUALQUIER AUTORIDAD.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 424.
 
-SE IMPONDRA MULTA DE CIEN A QUINIENTAS CUOTAS, O PRISION DE UNO A TRES AÑOS, O AMBAS SANCIONES A JUICIO DEL JUEZ, A LOS MINISTROS DE CUALQUIER CULTO RELIGIOSO QUE, EN EL DESARROLLO DE ACTOS PUBLICOS PROPIOS DE SU MINISTERIO, INTRODUZCAN EXPRESAMENTE A LOS ELECTORES A VOTAR O NO A FAVOR DE UN CANDIDATO, PARTIDO POLITICO O COALICION, O A LA ABSTENCION DEL EJERCICIO DEL DERECHO AL VOTO.
-
-LA MISMA SANCION SE APLICARA AL EXTRANJERO QUE FUERE SORPRENDIDO EN LA REALIZACION DE ACTIVIDADES DE TIPO POLITICO O ELECTORAL.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 425.
 
-POR LA COMISION DE CUALQUIERA DE LOS DELITOS COMPRENDIDOS EN EL PRESENTE CAPITULO SE PODRA IMPONER, ADEMAS DE LA SANCION SEÑALADA, LA SUSPENSION DE UNO A TRES AÑOS DE SUS DERECHOS POLITICOS O PRERROGATIVAS CIUDADANAS.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ###### ARTICULO 426.
 
-SE IMPONDRA SUSPENSION DE DERECHOS POLITICOS POR UN AÑO A QUIENES INCUMPLAN SIN CAUSA JUSTIFICADA LAS OBLIGACIONES DE:
-
-I.- INSCRIBIRSE EN EL PADRON ELECTORAL EN LOS TERMINOS QUE DETERMINA LA LEY;
-
-II.- VOTAR EN LAS ELECCIONES POPULARES;
-
-III.- DESEMPEÑAR LOS CARGOS DE ELECCION POPULAR EN EL ESTADO, TENIENDO LOS REQUISITOS QUE DETERMINA LA LEY; O
-
-IV.- DESEMPEÑAR LAS FUNCIONES ELECTORALES QUE LE SEAN ENCOMENDADAS.
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -6046,3 +5882,79 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 3 DE JULIO DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Nuevo León.
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Electoral del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 13 de diciembre de 1996, así como sus reformas y adiciones.
+
+Tercero.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Cuarto.- El personal de la Comisión Estatal Electoral que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Quinto.- El Consejo General de la Comisión Estatal Electoral deberá designar al Secretario Ejecutivo en un plazo no mayor a sesenta días posteriores a la integración del Consejo General.
+
+Hasta en tanto se designe al Secretario Ejecutivo, el Coordinador Técnico Electoral de la Comisión Estatal Electoral ejercerá las funciones de Secretario Ejecutivo.
+
+Sexto. Las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio, de conformidad con lo establecido en la fracción II inciso a) del artículo segundo transitorio del Decreto por el que se publicó la Reforma Constitucional en materia político-electoral, así como el artículo undécimo transitorio de la Ley General de Procedimientos e Instituciones Electorales.
+
+Séptimo.- Hasta en tanto el Instituto Nacional Electoral no emita la resolución correspondiente a la geografía electoral y el diseño y determinación de los distritos electorales para (sic) Estado de Nuevo León, de conformidad a lo establecido por el artículo 41 fracción V apartado B inciso a) numeral 2 de la Constitución Política de los Estados Unidos Mexicanos, y lo señalado en la Ley General de la materia; los distritos electorales serán los siguientes:
+
+PRIMER DISTRITO. Cabecera: Monterrey. Parte del punto formado por la intersección de los municipios de San Pedro Garza García, Santa Catarina y Monterrey, siguiendo por este último en dirección Noroeste hasta encontrar el punto de intersección de los municipios de Santa Catarina, García y Monterrey, siguiendo por este último en todos sus accidentes al Noreste encontrando y siguiendo la Ave. Del Palmar, hasta encontrar el límite de los municipios de Gral. Escobedo y Monterrey, siguiendo por este último hacia el Este en todos sus accidentes, hasta encontrar la línea imaginaria proveniente de la calle Dr. Jesús García Segura, y siguiendo por ésta al Suroeste hasta la calle la Esperanza, continuando por ésta al Noroeste hasta encontrar la calle Dr. Enrique Rangel, siguiendo por ésta al Suroeste hasta encontrar la calle Julio A. Roca, doblando por ésta hacia el Sureste hasta la calle Esquisto, siguiendo por ésta hacia el Suroeste hasta encontrar la calle Jícamas, dando vuelta hacia el Sureste hasta la calle Hornablenda, siguiendo por ésta al Suroeste hasta encontrar la calle Cerezas, siguiendo por ésta hacia el Sureste hasta encontrar nuevamente a la calle Hornablenda, siguiendo por ésta hacia el Suroeste hasta la calle Monte Negro, siguiendo por ésta hacia el Sureste hasta encontrar la calle Monte Alto, continuando por ésta hacia el Suroeste hasta encontrar de nuevo la calle Monte Negro y continuando por ésta en dirección Sureste hasta encontrar la calle Océano Ártico, siguiendo por ésta hacia el Noreste hasta encontrar la Ave. Solidaridad, siguiendo por ésta hacia el Sureste hasta encontrar la calle Mar Egeo, siguiendo por ésta hacia el Suroeste hasta encontrar la calle Mar Báltico, siguiendo por ésta hacia el Oeste hasta encontrar la calle Mar Caspio, siguiendo por ésta hacia el Noroeste hasta encontrar la calle Océano Atlántico, siguiendo por ésta hacia el Suroeste hasta encontrar la calle Océano Antártico, siguiendo por ésta hacia el Sureste hasta encontrar la calle Cataluña, siguiendo por ésta hacia el Suroeste hasta encontrar la calle Villa Alegre, siguiendo por ésta hacia el Sureste hasta encontrar la línea imaginaria de la continuidad de la calle Prol. Pelícano, siguiendo por ésta hacia el Suroeste hasta encontrar la Ave. No Reelección, siguiendo por ésta hacia el Noroeste hasta encontrar la calle del canal del águila, siguiendo por ésta hacia el Suroeste hasta encontrar la Ave. Abraham Lincoln, siguiendo por ésta hacia el Noroeste hasta encontrar la calle Cardenal, siguiendo por ésta hacia el Suroeste hasta la Ave. Adolfo Ruiz Cortines, siguiendo por ésta hacia el Sureste hasta encontrar la calle Nogal, siguiendo por ésta hacia el Suroeste hasta encontrar la calle Alejandro de Rodas, siguiendo por ésta hacia el Noroeste hasta la calle Hacienda de Peñuelas, siguiendo por ésta hacia el Suroeste hasta encontrar la Ave. Paseo de los Leones, siguiendo por ésta hacia el Noroeste hasta encontrar la Ave. Pedro Infante, siguiendo por ésta hacia el Suroeste y en línea imaginaria hasta encontrar el punto de partida.
+
+SEGUNDO DISTRITO. Cabecera: Monterrey. Parte del punto formado por la intersección del límite norte del municipio de Monterrey con el de Gral. Escobedo y la línea imaginaria de la calle García Segura, y siguiendo por ésta al Suroeste hasta encontrar la calle La Esperanza, hacia el Noroeste hasta encontrar la calle Enrique Rangel, y siguiendo por ésta al Suroeste hasta la calle Julio A. Roca, doblando por ésta hacia el Noroeste hasta la calle Esquisto, hacia el Suroeste hasta la calle Jícamas, dando vuelta al Sureste hasta la calle Hornablenda, dando vuelta al Suroeste hasta encontrar la calle Monte Negro, doblando hacia el Sureste hasta encontrar la calle Océano Artico, dando vuelta hacia el Noreste hasta la Ave. Solidaridad, doblando hacia el Sureste hasta llegar a la calle Rodrigo Gómez, donde se dará vuelta hacia el Norte hasta el límite Sur del panteón C.N.O.P., donde se dará vuelta hacia el Noreste en todos sus accidentes, hasta llegar al margen Sur del Arroyo del Topo Chico, doblando al Este en todos sus accidentes hasta la Avenida Bernardo Reyes, donde se dará vuelta al Sur hasta llegar a encontrar la Avenida Fidel Velázquez, dando vuelta al Este hasta encontrar la calle Luis Moreno al Sur, doblando por Miguel Alemán Valdez al Este y continuar al Norte por la calle Narciso Mendoza, hasta encontrar el límite del municipio que colinda con el municipio de San Nicolás, para continuar por dicho límite hacia el Norte en todos sus accidentes hasta llegar al punto de partida.
+
+TERCER DISTRITO. Cabecera: Monterrey. Parte del Punto formado por la Avenida Solidaridad y Rodrigo Gómez, donde se dará vuelta hacia el Norte hasta el límite Sur del panteón C.N.O.P., donde se dará vuelta hacia el Noreste en todos sus accidentes hasta llegar al margen Sur del Arroyo del Topo Chico, doblando al Este en todos sus accidentes hasta la Avenida Bernardo Reyes, donde se dará vuelta al Sur hasta la Avenida Penitenciaría, donde se doblará al Noroeste hasta la Ave. Fidel Velázquez, doblando al Sur por la calle Golfo Pérsico y doblar hacia el Oeste por la calle Mar Caribe y la calle Golfo de México, doblando al Oeste hasta Ave. Fidel Velázquez, donde se dará vuelta al Suroeste hasta encontrar la Ave. Abraham Lincoln, dando vuelta al Sureste hasta la calle Reynosa, dando vuelta al Sur hasta la calle Tuxtla, doblando al Oeste hasta llegar a la Ave. José E. González, donde se doblará al Sur para encontrar la Ave. Ruiz Cortines, donde se dará vuelta al Noroeste hasta la calle Juan José Hinojosa, doblando por ésta al Oeste hasta encontrar la calle Los Cedros, hacia el Noroeste hasta encontrar la calle La Haya y continuar por ésta al Oeste hasta la calle Sándalo, dando vuelta al Noroeste hasta la calle Meseta de Chipinque, doblando al Suroeste hasta la calle Cerro del Fraile en dirección Norte hasta la calle Payán, en dirección Sur hasta la calle Juan de Ayolas, siguiendo por ésta al Noroeste hasta la calle Nogal, dando vuelta al Noreste hasta la Ave. Prolongación Ruiz Cortines, donde se virará al Noroeste hasta la calle Cardenal, doblando al Noreste hasta la Ave. Abraham Lincoln, doblando al Sureste hasta la calle Milano, dando vuelta al Norte y siguiendo por ésta en línea imaginaria hasta encontrar la calle Cataluña, doblando al Norte por la calle Océano Antártico para continuar hacia el Este por la calle Océano Atlántico en la misma dirección hasta encontrar Mar Caspio, dando vuelta al Sureste hasta la calle Mar Báltico, doblando por ésta al Este hasta la calle Mar Egeo, donde se dará vuelta al Norte hasta la Avenida Solidaridad, siguiendo por ésta última hacia el Sureste hasta encontrar el punto de partida.
+
+CUARTO DISTRITO. Cabecera: Monterrey. Parte del punto formado por la intersección de los municipios de San Pedro Garza García, Santa Catarina y Monterrey, continuando al Sureste por el límite de este último con todos sus accidentes hasta la línea imaginaria proveniente de la calle Oaxaca, donde se doblará al Norte hasta la calle Castelar, doblando al Oeste hasta la calle Tlaxcala, dando vuelta al Norte hasta el margen Norte del Río Santa Catarina, siguiendo por dicho cauce en todos sus accidentes al Oeste hasta la línea imaginaria proveniente de la calle Serafín Peña, donde se doblará al Norte hasta la calle Juan I. Ramón, doblando hacia el Este hasta encontrar la calle Juan Alvarez, siguiendo por ésta hacia el Norte hasta la calle 5 de Mayo, doblando al Oeste hasta la calle Venustiano Carranza, dando vuelta al Norte hasta la Ave. Francisco I. Madero, doblando al Oeste hasta encontrar la calle Jordán, donde se dará vuelta al Norte hasta la calle Huichapan, en dirección Noroeste hasta la calle Cholula, donde se dará vuelta al Este hasta la Ave. Simón Bolívar, continuando por ésta en dirección Norte hasta la calle Matehuala, dando vuelta hacia el Noroeste hasta la calle Nevado de Toluca, donde se dará vuelta al Oeste hasta la calle Iztaccíhuatl, para doblar al Norte hasta la Ave. Ruiz Cortines, donde se dará vuelta hacia el Oeste y Noroeste hasta encontrar la calle Juan José Hinojosa, continuando por ésta hasta encontrar la calle Los Cedros al Noroeste hasta encontrar la calle La Haya, doblando por ésta al Oeste hasta la calle Sándalo, dando vuelta al Noroeste hasta la calle Meseta de Chipinque, doblando al Suroeste hasta la calle Cerro del Fraile, en dirección Norte hasta la calle Payán, en dirección Sur hasta la calle Juan de Ayolas, siguiendo por ésta al Noroeste hasta la calle Nogal, dando vuelta al Norte hasta la calle Alejandro de Rodas, doblando al Oeste hasta la calle Seguridad Social, dando vuelta al Oeste en línea imaginaria hasta llegar al punto de partida.
+
+QUINTO DISTRITO. Cabecera: Monterrey. Parte del punto formado por el límite Suroeste del municipio de Monterrey que colinda con el Municipio de San Pedro Garza García y la línea imaginaria proveniente de la calle Oaxaca, donde se doblará al Norte hasta la calle Castelar, doblando al Oeste hasta la calle Tlaxcala, dando vuelta al Norte hasta el margen norte del Río Santa Catarina, siguiendo por dicho cauce en todos sus accidentes al Oeste hasta la línea imaginaria proveniente de la calle Serafín Peña, donde se doblará al Norte hasta la calle Juan I. Ramón, doblando hacia el Este hasta encontrar la calle Alvarez y siguiendo por ésta al Norte hasta la calle 5 de Mayo, doblando al Oeste hasta la calle Venustiano Carranza, dando vuelta al Norte hasta la Ave. Francisco I. Madero, doblando al Oeste hasta encontrar la calle Jordán, donde se dará vuelta al Norte hasta la calle Huichapan, en dirección Noroeste hasta la calle Cholula, donde se dará vuelta al Este hasta la Ave. Simón Bolívar, continuando por ésta en dirección Norte hasta la calle Matehuala, dando vuelta hacia el Noroeste hasta la calle Nevado de Toluca, donde se dará vuelta al Oeste hasta la calle Iztaccíhuatl, dando vuelta al Norte hasta la Ave. Ruiz Cortines, doblando al Oeste hasta la Ave. José E. González y continuar por ésta hacia el Norte doblando por la calle Tuxtla hacia el Este, continuando por la calle Reynosa hacia el Norte y por la Ave. Abraham Lincoln al Noroeste y siguiendo en la misma dirección por la Ave. Fidel Velázquez hasta la calle Golfo de México, y continuando por la calle Mar Caribe, doblando hacia el Norte por la calle Golfo Pérsico, doblando al Noroeste hasta la Ave. Fidel Velázquez, en dirección Noreste hasta la Ave. Penitenciaría, dando vuelta al Sureste hasta la Ave. Bernardo Reyes, donde se doblará al Sur hasta encontrar la calle José M. Luis Mora, doblando por ésta en dirección Sureste hasta la calle Progreso al Este y doblar por la calle Juan Méndez al Sur para volver a encontrar la calle José M. Luis Mora, continuando al Sureste y doblar por la calle Vicente Guerrero al Norte y continuar por la calle Magallanes, dando vuelta al Este hasta la calle Diego de Montemayor, donde se doblará al Sur, continuar por ésta en línea imaginaria hasta la calle Coahuila en la misma dirección, siguiendo por ésta hasta el límite del municipio que colinda con el municipio de San Pedro para doblar por dicho límite al Oeste hasta encontrar el punto de partida.
+
+SEXTO DISTRITO. Cabecera: Monterrey. Parte del punto formado por las avenidas Fidel Velázquez y Manuel L. Barragán, siguiendo al Sur por ésta última y por el límite de los municipios de San Nicolás y Monterrey en todos sus accidentes hasta la Ave. Constituyentes de Nuevo León, donde se doblará al Sur, hasta el margen Norte del Río Santa Catarina, continuando por éste en todos sus accidentes en dirección Oeste hasta la Prolongación Francisco I. Madero en dirección Noroeste y continuando por la Ave. Francisco I. Madero en dirección Oeste hasta encontrar la calle Diego de Montemayor, dando vuelta al Norte hasta la calle Magallanes, donde se doblará al Oeste hasta la calle Vicente Guerrero, para doblar al Sur hasta la calle José M. Luis Mora al Noroeste, para doblar al Norte por la calle Juan Méndez, para continuar al Oeste por la calle Progreso y continuar al Noroeste por la calle José M. Luis Mora hasta encontrar la Ave. Bernardo Reyes, donde se doblará al Norte hasta encontrar la Avenida Fidel Velázquez, doblando en dirección Noreste hasta encontrar la calle Tacubaya al Sur, doblando al Este por la calle Miguel Alemán Valdez y continuando al Norte por la calle Narciso Mendoza para encontrar la Ave. Fidel Velázquez, doblando en dirección Noreste hasta encontrar el punto de partida.
+
+SÉPTIMO DISTRITO. Cabecera: Monterrey. Parte del punto formado por la calle Diego de Montemayor y la Ave. Francisco I. Madero, en dirección Este hasta el límite Norte del Río Santa Catarina, siguiendo dicho cauce hacia el Suroeste y continuando por todo el límite del municipio de Monterrey que colinda con el municipio de Guadalupe, doblando al Sur y en todos sus accidentes hasta encontrar la calle Sendero Sur, donde doblará al Oeste hasta la Avenida Eugenio Garza Sada, doblando por ésta en dirección Noroeste hasta encontrar la calle Sierra de Fray, doblando al Oeste, continuando hacia el Norte por el Antiguo Camino a Villa de Santiago, doblando hacia el Noreste por la calle Pino Blanco para doblar al Noreste hasta la calle Vía Málaga, dando vuelta al Sureste hasta la calle Vía Alcalá, dando vuelta al Noreste hasta la Ave. Eugenio Garza Sada, doblando al Noroeste hasta encontrar el margen Norte del Arroyo Seco, y continuando por dicho cauce hacia el Oeste hasta la calle Torres Bodet, doblando por ésta al Sureste hasta la Ave. Balcón del Parque, dando vuelta al Oeste hasta la calle 9a., doblando al Norte y continuando por el cauce del Arroyo Seco en todos sus accidentes en dirección Oeste y Suroeste hasta la calle Pípila al Noroeste, doblando por la calle Cristóbal Pérez al Norte, siguiendo por la calle Elvira Rentería al Noroeste, continuar por la calle Medallones al Sureste y seguir por la calle Parentalia al Oeste hasta encontrar la calle Coahuila en dirección Norte, y en línea imaginaria hasta encontrar la calle Diego de Montemayor, siguiendo al Norte hasta encontrar el punto de partida.
+
+OCTAVO DISTRITO. Cabecera: Monterrey. Parte del punto formado por el límite de los municipios de Guadalupe y Monterrey y la calle Sendero Sur, donde se doblará al Oeste hasta la Avenida Eugenio Garza Sada, doblando por ésta en dirección Noroeste hasta encontrar la calle Sierra de Fray, doblando al Oeste y continuando hacia el Norte por el Antiguo Camino a Villa de Santiago, doblando hacia el Noroeste por la calle Pino Blanco, para doblar al Sur por la calle Vía Málaga, dando vuelta al Noreste hasta la calle Vía Alcalá, dando vuelta al Noreste hasta la Ave. Eugenio Garza Sada, doblando al Noroeste hasta encontrar el margen Norte del Arroyo Seco, y continuando por dicho cauce hacia el Oeste hasta la calle Torres Bodet, doblando por ésta al Sureste hasta la Ave. Balcón del Parque, dando vuelta al Oeste hasta la calle 9a., doblando al Norte y continuando por el cauce del Arroyo Seco en todos sus accidentes en dirección Oeste y Sureste hasta la calle Pípila al Noroeste y doblando por la calle Cristóbal Pérez al Norte y seguir por la calle Elvira Rentería al Noroeste, continuar por la calle Medallones al Sureste y seguir por la calle Parentalia al Oeste hasta encontrar la calle Coahuila y doblar al Sur encontrando el límite del municipio que colinda con el Municipio de San Pedro Garza García, continuando al Sur en todos sus accidentes por todo el límite del municipio de Monterrey hasta encontrar el límite Norte de la colonia San Angel, y doblando al Oeste hasta el Margen Este del Río la Silla, continuando por dicho cauce al Norte en todos sus accidentes hasta llegar al punto de partida.
+
+NOVENO DISTRITO. Cabecera: San Nicolás de los Garza. Parte del punto formado por la Ave. López Mateos y el límite Sur del municipio de San Nicolás de los Garza, y siguiendo el citado límite hacia el Este con todos sus accidentes hasta encontrar la Vía a Matamoros, doblando por Estibina hasta encontrar el Antiguo Camino a Apodaca, en dirección Suroeste hasta la Ave. Conductores y continuando por ésta en dirección Norte hasta la Ave. López Mateos, dando vuelta al Suroeste hasta encontrar al punto de partida.
+
+DÉCIMO DISTRITO. Cabecera: San Nicolás de los Garza. Parte del punto formado por el límite Norte del municipio y la Vía a Matamoros, y siguiendo por ésta última al Suroeste, doblando por Estibina al Sureste y continuando por el Antiguo Camino a Apodaca en dirección Suroeste hasta la Avenida Conductores, en dirección Norte hasta la Ave. López Mateos, dando vuelta al Suroeste hasta el límite Sur del municipio que colinda con el municipio de Monterrey, y siguiendo hacia el Oeste por el citado límite con todos sus accidentes hasta encontrar la Avenida Fidel Velázquez, siguiendo por ésta hacia el Noreste hasta la calle Sierra Madre, en dirección Noreste hasta la Ave. Las Puentes, en dirección Este hasta la calle Valle del Bosque, doblando al Norte hasta la calle Iztaccíhuatl, donde se da vuelta al Este hasta la calle Nevado de Toluca, doblando al Norte hasta la calle Sierra de Paila, doblando al Este hasta la calle Tovares, doblando al Norte hasta la calle Sierra de Tarahumara, dando vuelta al Este hasta la calle Pico Bolívar, dando vuelta al Norte hasta la calle Allende, doblando al Este y siguiendo en la misma dirección por la calle Sierra de Caribes hasta encontrar la Ave. Diego Díaz de Berlanga, continuando por ésta hacia el Norte hasta la calle Rinoceronte, dando vuelta por las calles de Elefante, Guepardo, Geo, Carpio, Elefante, Ave. Las Torres, Papagayo, Dromo y Malta y continuando por ésta última hasta encontrar el límite Norte del municipio de San Nicolás de los Garza, y continuar por el citado límite hacia el Este hasta encontrar el punto de partida.
+
+DÉCIMO PRIMER DISTRITO. Cabecera: San Nicolás de los Garza. Parte del punto formado por el límite Oeste del municipio y la Avenida Fidel Velázquez, siguiendo por ésta hacia el Noreste hasta Ave. Universidad hacia el Norte y doblar por la calle Sierra Madre en dirección Noreste hasta la Ave. Las Puentes, en dirección Este hasta la calle República Mexicana, doblando al Norte hasta la calle Iztaccíhuatl, donde se da vuelta al Este hasta la calle Nevado de Toluca, doblando al Norte hasta la calle Sierra de Paila, doblando al Este hasta la calle Tovares, doblando al Norte hasta la calle Sierra de Tarahumara, dando vuelta al Este hasta la calle Pico Bolívar, dando vuelta al Norte hasta la calle Allende, doblando al Este y siguiendo en la misma dirección por la calle Sierra de Caribes hasta encontrar la Ave. Diego Díaz de Berlanga, continuando por ésta hacia el Norte hasta la calle Rinoceronte, doblando por las calles de Elefante, Guepardo, Geo, Carpio, Elefante, Ave. Las Torres, Papagayo, Dromo y Malta y continuando por ésta última hasta encontrar el límite Norte del municipio de San Nicolás de los Garza, y continuar por el citado límite hacia el Noroeste siguiéndolo en todos sus accidentes hasta la Ave. Universidad en dirección Sur, para doblar por la calle Benito Juárez al Oeste y continuar al Sur por la calle Luis M. Farías, para continuar al Oeste por la calle Lázaro Cárdenas, asimismo continuar por la calle Francisco Villa hacia el Suroeste y continuar al Oeste por la calle Pedro Galindo hasta encontrar el límite del municipio de San Nicolás que colinda con el municipio de Monterrey, dando vuelta al Sur por este mismo en todos sus accidentes hasta llegar al punto de partida.
+
+DÉCIMO SEGUNDO DISTRITO. Cabecera: Guadalupe. Partiendo del punto de confluencia formado por la avenida Chapultepec y el límite oeste del municipio de Guadalupe que colinda con el municipio de Monterrey y en dirección Sureste hasta llegar al margen norte del Río la Silla, doblando al Este y Noreste en todos sus accidentes hasta la calle Chula Vista, dando vuelta al sur hasta la avenida Benito Juárez, dirigiéndose al oeste hasta la avenida Serafín Peña, doblando al sur hasta la avenida Eloy Cavazos, donde dobla al Este hasta la Avenida México, dando vuelta en dirección Sureste hasta el límite sur del municipio, donde dobla al oeste en todos sus accidentes hasta el límite Oeste del municipio de Guadalupe que colinda con el municipio de Monterrey, doblando al norte en todos sus accidentes hasta llegar al punto de partida.
+
+DÉCIMO TERCER DISTRITO. Cabecera: Guadalupe. Parte del punto de confluencia del límite Este del municipio que colinda con el municipio de Juárez y con el margen Sur del Río la Silla en dirección Oeste en todos sus accidentes hasta llegar a la calle Chula Vista, doblando al Sur hasta la Avenida Benito Juárez, donde dobla al Oeste hasta la Avenida Serafín Peña en dirección Sur hasta la Avenida Eloy Cavazos, dando vuelta al Este hasta la Avenida México, dirigiéndose al Suroeste hasta el límite Sur del municipio, dando vuelta al Este en todos sus accidentes hasta el límite Este del municipio, doblando al Norte hasta llegar al punto de partida.
+
+DÉCIMO CUARTO DISTRITO. Cabecera: Guadalupe. Parte del punto de confluencia de la calle Bonifacio Salinas Leal y margen Sur del Arroyo la Talaverna, en dirección Este en todos sus accidentes hasta la línea imaginaria del límite Oeste del municipio, doblando al Norte hasta el límite Norte del municipio de Guadalupe que colinda con el municipio de Apodaca, dirigiéndose al Este hasta el límite Este de la colonia Josefa Zozaya Segundo Sector, donde dobla al Sur hasta la carretera a San Miguel, doblando al Noroeste hasta la calle Trigo, dando vuelta al Sur hasta el margen Sur del Arroyo de la Talaverna, dirigiéndose al Este en todos sus accidentes y continuando en esta misma dirección por el límite Norte del municipio hasta el límite Este del municipio de Guadalupe que colinda con el municipio de Juárez, donde dobla al Sur hasta el margen Sur del Río la Silla, dando vuelta al Oeste en todos sus accidentes hasta llegar a la calle Fontana, doblando al Norte y siguiendo en la misma dirección por la calle 16 de Noviembre hasta llegar al margen Sur del Río Santa Catarina, dirigiéndose al Noroeste y Oeste en todos sus accidentes hasta llegar a la calle Bonifacio Salinas Leal, dando vuelta al Norte hasta llegar al punto de partida.
+
+DÉCIMO QUINTO DISTRITO. Cabecera: Guadalupe. Partiendo del punto de confluencia formado por la Avenida Chapultepec y el límite Oeste del municipio de Guadalupe que colinda con el municipio de Monterrey hacia el Norte y Sureste con todos sus accidentes hasta llegar al margen Sur del Río Santa Catarina, doblando al Este en todos sus accidentes hasta llegar a la Avenida Constituyentes de Nuevo León, dando vuelta al Norte hasta llegar al margen Sur del Arroyo la Talaverna, dirigiéndose al Este en todos sus accidentes hasta llegar a la calle Bonifacio Salinas Leal, doblando al Sur hasta llegar al margen Norte del Río Santa Catarina, dando vuelta al Este en todos sus accidentes hasta la calle 16 de Noviembre, dirigiéndose al Sur y continuando en la misma dirección por la calle Fontana hasta el margen Norte del Río la Silla, doblando al Este y Sureste en todos sus accidentes hasta llegar a la Avenida Chapultepec, dando vuelta al Noroeste hasta llegar al punto de partida.
+
+DÉCIMO SEXTO DISTRITO. Cabecera: Apodaca. Comprende todo el municipio de Apodaca.
+
+DÉCIMO SÉPTIMO DISTRITO. Cabecera: General Escobedo. Comprende el municipio de General Escobedo y la parte Norte del municipio de San Nicolás de los Garza, comprendida del límite Noreste del municipio de Monterrey con la Avenida Pedro de Galindo, en dirección Noreste por la Avenida Francisco Villa hasta doblar en la calle Lázaro Cárdenas, en dirección Este hasta la calle Luis M. Farías al Norte y continuar al Este por la calle Benito Juárez, doblar al Norte por la Ave. Universidad, para continuar por ésta en dirección Norte hasta encontrar el límite de los municipios de San Nicolás de los Garza y Escobedo.
+
+DÉCIMO OCTAVO DISTRITO. Cabecera: San Pedro Garza García. Comprende todo el municipio de San Pedro Garza García más la parte Noreste del municipio de Santa Catarina, formado por los límites de los municipios de San Pedro Garza García y Santa Catarina, con la calle Pintores en dirección Oeste hasta la calle 1o. de Mayo, donde dobla al Norte hasta la calle Carpinteros, doblando en dirección Oeste hasta encontrar la calle Tezozomoc, para continuar por ésta en dirección Norte hasta encontrar el límite imaginario del municipio de San Pedro Garza García.
+
+DÉCIMO NOVENO DISTRITO. Cabecera: Santa Catarina. Comprende el municipio de Santa Catarina menos la parte Noreste del municipio de Santa Catarina, formado por los límites de los municipios de San Pedro Garza García y Santa Catarina, con la calle Pintores en dirección Oeste hasta la calle 1o. de Mayo, donde dobla al Norte hasta la calle Carpinteros, doblando en dirección Oeste hasta encontrar la calle Tezozomoc, para continuar por ésta en dirección Norte hasta encontrar el límite imaginario del municipio de San Pedro Garza García.
+
+VIGÉSIMO DISTRITO. Cabecera: Hidalgo. Comprende los municipios de Abasolo, Ciénega de Flores, El Carmen, García, General Zuazua, Higueras, Mina y Salinas Victoria.
+
+VIGÉSIMO PRIMER DISTRITO. Cabecera: Sabinas Hidalgo. Comprende los municipios de Anáhuac, Bustamante, Lampazos, Vallecillo y Villaldama.
+
+VIGÉSIMO SEGUNDO DISTRITO. Cabecera: China. Comprende los municipios de Agualeguas, Cerralvo, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás y Pesquería.
+
+VIGÉSIMO TERCER DISTRITO. Cabecera: Cadereyta Jiménez. Comprende Santiago.
+
+VIGÉSIMO CUARTO DISTRITO. Cabecera: Montemorelos. Comprende los municipios de Allende y General Terán.
+
+VIGÉSIMO QUINTO DISTRITO. Cabecera: Linares. Comprende los municipios de Hualahuises y Rayones.
+
+VIGÉSIMO SEXTO DISTRITO. Cabecera: Galeana. Comprende los municipios de Aramberri, Iturbide, Dr. Arroyo, Mier y Noriega y General Zaragoza.
+
+Octavo.- La Ley del Servicio Profesional Electoral, publicada en el Periódico Oficial del Estado el 2 de diciembre de 1998 y sus reformas estarán vigentes hasta en tanto el Instituto Nacional Electoral expida el Estatuto del Servicio Profesional Electoral Nacional, y el mismo inicie su vigencia.
+
+Noveno.- La Comisión Estatal Electoral deberá adecuar sus Reglamentos Internos conforme a las disposiciones del presente Decreto, en un periodo máximo de noventa días naturales, posteriores a la entrada en vigor del presente Decreto.
+
+Décimo.- Hasta en tanto no sean designados los integrantes del Consejo General de la Comisión Estatal Electoral por el Instituto Nacional Electoral, los actuales Comisionados Ciudadanos continuarán en su encargo y desempeñarán las funciones de los Consejeros Electorales en los términos de esta Ley.
