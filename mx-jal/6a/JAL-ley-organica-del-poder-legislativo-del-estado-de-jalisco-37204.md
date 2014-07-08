@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2013-03-20"
+last_updated: "2014-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -317,7 +317,7 @@ II. Los Diputados Presidentes de las Comisiones de Puntos Constitucionales, Estu
 
 III. El Diputado Presidente de la Mesa Directiva del Congreso;
 
-IV. El Diputado Presidente de la Junta de Coordinación Política; (sic)
+IV. El Diputado Presidente de la Junta de Coordinación Política;
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -697,9 +697,7 @@ VII. Presentar propuestas a la Mesa Directiva, del programa legislativo de las s
 
 VIII. Designar a su Secretario Técnico;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
-
-IX. Proponer a la asamblea el nombramiento de los consejeros electorales representantes del Poder Legislativo ante el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, a propuesta de las fracciones o grupos parlamentarios; y
+IX. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
@@ -821,7 +819,7 @@ XX. Las demás que le confieran la presente ley y su reglamento.
 
 I. Funcionan en el área legislativa las siguientes direcciones:
 
-a) Dirección de Procesos Legislativos; es la responsable de la planeación y programación técnica de la (sic) sesiones; de la asistencia a la Mesa Directiva para el desarrollo de las sesiones; así como la realización de minutas y su remisión y la trascripción (sic) en el "Diario de los Debates";
+a) Dirección de Procesos Legislativos; es la responsable de la planeación y programación técnica de la (sic) sesiones; de la asistencia a la Mesa Directiva para el desarrollo de las sesiones; así como la realización de minutas y su remisión y la trascripción en el "Diario de los Debates";
 
 b) Dirección de Asuntos Jurídicos y Dictamen Legislativo, es la responsable de dar soporte jurídico en los asuntos legales de que sea parte el Congreso, así como apoyo, a petición de las comisiones para la realización del contenido jurídico de los dictámenes;
 
@@ -1581,9 +1579,7 @@ VI. La formación del inventario pormenorizado de los muebles y enseres de la Se
 
 I. La legislación en materia electoral;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2011)</small>
-
-II. La elección del Consejero Presidente y de los consejeros electorales con derecho a voz y voto del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, de conformidad con el artículo 121, párrafos 2 y 4, del Código Electoral y de Participación Ciudadana del Estado de Jalisco;
+II. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2010)</small>
 
@@ -1615,7 +1611,7 @@ Artículo 77 A.
 
 I. La legislación en materia de servicios para el área conurbada de Guadalajara y asuntos Metropolitanos;
 
-II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y (sic)
+II. La declaración de Municipios que pertenezcan a zonas conurbadas para su mejor ubicación y atención de asuntos que interesen a los Ayuntamientos integrantes; y
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2007)</small>
 
@@ -1935,7 +1931,9 @@ II. La legislación relativa al Poder Judicial y al Ministerio Público;
 
 III. La Ley Orgánica de la Procuraduría General de Justicia;
 
-IV. La elección y en su caso la ratificación de magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral y del Tribunal de lo Administrativo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+
+IV. La elección y en su caso la ratificación de magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo;
 
 V. La elección de los integrantes del Consejo General del Poder Judicial;
 
@@ -2009,7 +2007,7 @@ IV. La legislación civil, penal o administrativa, en su aspecto sustantivo;
 
 V. El reglamento de esta ley y demás disposiciones reglamentarias;
 
-VI. La revisión de los dictámenes de las demás comisiones, relativos a leyes del Estado en cuanto a la Constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna y la corrección de estilo; y (sic)
+VI. La revisión de los dictámenes de las demás comisiones, relativos a leyes del Estado en cuanto a la Constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna y la corrección de estilo; y
 
 VII. El análisis y la revisión permanente de la legislación sustantiva jalisciense buscando su codificación y armonía;
 
@@ -2059,7 +2057,7 @@ IV. La legislación, control y vigilancia del órgano técnico de responsabilida
 
 V. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Responsabilidades;
 
-VI. La supervisión y coordinación del órgano técnico de Responsabilidades; y (sic)
+VI. La supervisión y coordinación del órgano técnico de Responsabilidades; y
 
 VII. La propuesta a la Asamblea para el nombramiento y la remoción de los servidores públicos del órgano técnico de Responsabilidades;
 
@@ -2439,7 +2437,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ###### Artículo 128.
 
-1. Lo acontecido en las sesiones se consigna en un órgano oficial denominado "Diario de los Debates" en el que se publica la fecha y el lugar en que se verifica la sesión, el sumario, nombre de quien preside, copia fiel del acta de la sesión anterior, trascripción (sic) de las discusiones en el orden que se desarrollan e inserción de todos los documentos a los que se les da lectura.
+1. Lo acontecido en las sesiones se consigna en un órgano oficial denominado "Diario de los Debates" en el que se publica la fecha y el lugar en que se verifica la sesión, el sumario, nombre de quien preside, copia fiel del acta de la sesión anterior, trascripción de las discusiones en el orden que se desarrollan e inserción de todos los documentos a los que se les da lectura.
 
 2. Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que son de interés público.
 
@@ -3151,7 +3149,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Artículo 217.
 
@@ -3165,7 +3163,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ###### Artículo 219.
 
-1. Para la elección o, en su caso, ratificación de los magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal Electoral y del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; del Presidente y consejeros del Consejo General del Instituto Electoral y de Participación Ciudadana, y del Presidente y consejeros de la Comisión Estatal de Derechos Humanos, se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
+1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; y del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
 
 ###### Artículo 220.
 
@@ -4133,7 +4131,7 @@ SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del
 
 TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción de las Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
 
-CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte (sic) en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
 
 QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de Promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de Promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
 
@@ -4174,3 +4172,45 @@ P.O. 27 DE SEPTIEMBRE DE 2012.
 P.O. 20 DE MARZO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE JULIO DE 2014.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. El personal del Instituto Electoral y de Participación Ciudadana del Estado que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Cuarto. Cuando con motivo del presente Decreto, cualquier órgano del Instituto Electoral y de Participación Ciudadana del Estado cambie de adscripción, el traspaso se hará incluyendo al personal a su servicio, las asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes que haya utilizado para la atención de los asuntos a su cargo.
+
+Quinto. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente decreto y deberá expedir los reglamentos que se deriven del mismo a más tardar en 60 días a partir de su entrada en vigor.
+
+Sexto. Por única ocasión y de conformidad a lo establecido en el artículo Noveno Transitorio de la Ley General de Instituciones y Procedimientos Electorales, el proceso electoral ordinario cuya jornada electoral tendrá lugar el primer domingo de junio del año 2015, iniciará en la primera semana del mes de octubre del año 2014.
+
+Séptimo. En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, los actuales Consejero Presidente y consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les corresponden conforme al Código Electoral y de Participación Ciudadana del Estado de Jalisco, por lo que los actos jurídicos en que intervengan surtirán todos sus efectos legales.
+
+Octavo. La jornada electoral que se verifiquen en el año 2018 se llevará a cabo el primer domingo de julio.
+
+Noveno. La organización del Servicio Profesional Electoral se hará conforme a las características y plazos que establezca el Instituto Nacional Electoral mediante el Estatuto del Servicio Profesional Electoral Nacional.
+
+Décimo. El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado podrá realizar ajustes a los plazos establecidos en el Código que se reforma mediante este Decreto, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales contenidos en el mismo.
+
+Décimo Primero. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos ante las autoridades electorales del Estado de Jalisco que hayan iniciado o se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+Décimo Segundo. En tanto se expida la Ley Federal en materia del derecho de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables.
+
+Décimo Tercero. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos electorales se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que la ley General en Materia de Delitos Electorales resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+
+Décimo Quinto. El Tribunal Electoral dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá expedir su Reglamento interno.
+
+Décimo Sexto. Todos los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones del Tribunal Electoral del Poder Judicial, pasarán a formar parte del organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Séptimo. Los asuntos que se encuentren pendientes de resolver ante el Tribunal Electoral, corresponderá su trámite o resolución al organismo público autónomo Tribunal Electoral del Estado de Jalisco.
+
+Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
+
+Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
