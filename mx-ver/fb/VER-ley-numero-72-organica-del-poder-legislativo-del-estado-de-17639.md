@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2014-02-04"
+last_updated: "2014-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1127,6 +1127,12 @@ VII. (DEROGADA. G.O. 7 DE SEPTIEMBRE DE 2001)
 
 VIII. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2014)</small>
+
+###### Artículo 60 Bis.
+
+Para inducir una óptima administración de los recursos materiales y de los servicios que se requieran, así como para reducir el impacto ambiental de las actividades que se llevan a cabo en el Congreso del Estado, la Secretaría de Servicios Administrativos y Financieros elaborará y difundirá un manual de manejo ambiental. Éste incorporará lineamientos que promuevan el ahorro de energía, el uso eficiente del agua, el consumo responsable y la gestión integral de los residuos.
+
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE FISCALIZACIÓN
 
 > <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2003)</small>
@@ -1398,3 +1404,9 @@ G.O. 4 DE FEBRERO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. El procedimiento para la implementación del Centro de Estudios para la igualdad de Género y los Derechos Humanos se establecerá en el Reglamento de los Servicios Administrativos del Congreso del Estado de Veracruz de Ignacio de la Llave, que deberá reformarse dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+G.O. 8 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
