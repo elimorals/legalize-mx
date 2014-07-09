@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-el-control-y-ejercicio-presupuestal-del-88068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-23"
-last_updated: "2012-05-23"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO PARA EL CONTROL Y EJERCICIO PRESUPUESTAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL CONTROL Y EJERCICIO DEL PRESUPUESTO DE LA LEGISLATURA DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de mayo de 2012.
 
@@ -1558,3 +1560,17 @@ DIP. NOEMI BERENICE LUNA AYALA
 SECRETARIA
 
 DIP. MA. ISABEL TRUJILLO MEZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2014.
+
+Primera. El presente Reglamento entrará en vigor el día siguiente de su aprobación.
+
+Segunda. Se abroga el Reglamento para el Control y Ejercicio Presupuestal del Poder Legislativo del Estado, publicado en el Suplemento 3 al número 41, del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 23 de mayo de 2012.
+
+Tercera. Las operaciones económicas realizadas con anterioridad a la entrada en vigor del presente Reglamento estarán sujetas a las disposiciones establecidas en la Ley Orgánica, el Reglamento General, los Lineamientos y los acuerdos del Pleno y las Comisiones.
+
+Cuarta. Las determinaciones no enunciadas en el presente Reglamento, serán establecidas en los Lineamientos que para tal efecto emitirá la Comisión de Planeación, Patrimonio y Finanzas.
+
+Quinta. Publíquese por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado.
