@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2014-06-27"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -3166,6 +3166,14 @@ VI. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido 
 
 Los pagos de que habla el artículo anterior, sólo tendrán lugar por los servicios que se presten. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2014)</small>
+
+###### Artículo 132 Bis.
+
+El Estado, garantizará el acceso a la inscripción de las propiedades privadas en el Instituto de Servicios Registrales y Catastrales de Morelos, otorgando los medios legales para que los ciudadanos registren su propiedad inmobiliaria.
+
+La primera inscripción de la propiedad, será gratuita y el registro de los actos traslativos subsecuentes será obligatorio.
+
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ### CAPITULO II.
@@ -4733,3 +4741,11 @@ OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electoral
 NOVENA. Los Magistrados Electorales del Tribunal Electoral del Estado de Morelos, serán designados en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la normativa que resulte aplicable.
 
 DÉCIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2014.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en el artículo 145, del Reglamento para el Congreso del Estado de Morelos.. (sic)
+
+SEGUNDO. Toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, la adición se tiene como parte de esta Constitución.
+
+TERCERA. En un plazo que no exceda de seis meses, el Titular del Poder Ejecutivo del Estado presentará el Proyecto de Ley para la Regularización de la Propiedad Inmobiliaria en el Estado.
