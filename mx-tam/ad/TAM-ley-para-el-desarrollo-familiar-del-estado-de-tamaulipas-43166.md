@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2014-04-03"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -187,15 +187,21 @@ b) Promoverá el cumplimiento de las responsabilidades propias de la familia;
 
 c) Llevará a cabo programas obligatorios de orientación para quienes deseen contraer matrimonio y fundar una familia, a partir de la presentación de los principios rectores de la familia y los valores en torno a los cuales los mismos se desenvuelven, atendiéndose a lo dispuesto por los artículos 3, párrafo 1, y 4 de la presente ley;
 
-d) Desarrollará políticas e impulsará programas de protección, auxilio y rehabilitación de la familia, del menor, y de las personas de la tercera edad;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+d) Desarrollará políticas e impulsará programas de protección, auxilio y rehabilitación de la familia, del menor, de las personas con discapacidad y de la tercera edad;
 
 e) Desarrollará programas de empleo, teniendo en cuenta la naturaleza de la familia, el ingreso familiar, prestaciones de ley y una cultura laboral.
 
 f) Impulsará y fomentará programas y acciones tendentes a la consolidación y práctica de valores éticos en la familia;
 
-g) Promoverá y coordinará las actividades desarrolladas por las instituciones que realicen actividades en beneficio de la familia, de la igual dignidad del hombre y la mujer, del menor, y las personas de la tercera edad, con base en la promoción de los principios rectores de la familia;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
-h) Propiciará la participación de la comunidad y de los organismos no gubernamentales en los programas de promoción y protección a la familia, en especial al menor, y las personas de la tercera edad;
+g) Promoverá y coordinará las actividades desarrolladas por las instituciones que realicen actividades en beneficio de la familia, de la igual dignidad del hombre y la mujer, del menor, de las personas con discapacidad y de la tercera edad, con base en la promoción de los principios rectores de la familia;
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+h) Propiciará la participación de la comunidad y de los organismos no gubernamentales en los programas de promoción y protección a la familia, en especial al menor, a las personas con discapacidad y de la tercera edad;
 
 i) Ejecutará programas especiales de protección para los discapacitados;
 
@@ -205,7 +211,9 @@ k) Prestará subsidiariamente asistencia médica y jurídica;
 
 l) Alentará que los medios de comunicación social, de acuerdo al principio de autoregulación (sic) ética, conozcan y difundan los principios rectores de la familia;
 
-m) Dará preferencia a la formulación y ejecución de programas que beneficien a la familia, en especial al menor, y a las personas de la tercera edad, los que deberán contar con la asignación presupuestaria suficiente y privilegiada;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+m) Dará preferencia a la formulación y ejecución de programas que beneficien a la familia, en especial al menor, a las personas con discapacidad y de la tercera edad, los que deberán contar con la asignación presupuestaria suficiente y privilegiada;
 
 n) Vigilará que los patrones que empleen menores de edad, en términos de lo permitido por los artículos 22 y 23 de la Ley Federal del Trabajo, cumplan lo dispuesto en esta ley y demás leyes aplicables;
 
@@ -764,3 +772,9 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
