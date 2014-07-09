@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-88544"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2013-09-24"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -55,9 +55,9 @@ LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
 1. La presente Ley es de orden público, interés social y de observancia general en el Estado de Tamaulipas, y tiene como objeto garantizar el respeto de los derechos fundamentales de toda persona susceptible de ser adoptada.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
-2. Mediante esta ley se establecen los principios y las funciones de las instituciones, lineamientos y requisitos administrativos necesarios para que las adopciones se realicen bajo el interés superior del niño, niña o adolescente cuando sea el caso, y con apego a las disposiciones aplicables a las personas susceptibles de especial protección. Su aplicación corresponde a las dependencias y entidades que integran la administración pública del estado.
+2. Mediante esta Ley se establecen los principios y las funciones de las instituciones, lineamientos y requisitos administrativos necesarios para que las adopciones se realicen bajo el interés superior del niño, niña o adolescente, y mayor de edad con discapacidad, cuando sea el caso, y con apego a las disposiciones aplicables a las personas susceptibles de especial protección y su aplicación corresponde a las dependencias y entidades que integran la administración pública del Estado.
 
 3. El procedimiento judicial para hacer la adopción será el establecido en el Código de Procedimientos Civiles del Estado de Tamaulipas.
 
@@ -73,45 +73,59 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 5.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de la presente Ley, se entiende por:
 
-I. Adopción: Institución jurídica en la cual se confiere la calidad jurídica de hijo del adoptante al adoptado y se generan los derechos y obligaciones inherentes a una relación análoga a la de filiación natural;
+I. Adolescente: A toda persona mayor de doce y menor de dieciocho años de edad;
 
-II. Casa Hogar: Casa Hogar del Niño, de Ciudad Victoria, Tamaulipas dependiente del Sistema;
+II. Adopción: Institución Jurídica en la cual se confiere la calidad legal de hijo del adoptante al adoptado y se generan los derechos y obligaciones inherentes a una relación análoga a la de filiación natural;
 
-III. Certificado de idoneidad: Documento emitido por el Sistema, en el que se expresa que el solicitante es apto y adecuado para adoptar;
+III. Adoptabilidad: Estatus de adoptable que adquieren los niños, niñas, adolescentes y personas mayores discapacitadas institucionalizados, al determinarse ante la autoridad judicial correspondiente, que no es posible y/o conveniente para el interés superior del menor, la reintegración a su familia nuclear o extendida y adquieren la viabilidad jurídica, médica y psicológica para asignarse en adopción a fin de garantizar la guarda de sus derechos;
 
-IV. Consejo: El Consejo Técnico de Adopciones, órgano colegiado interdisciplinario encargado de realizar las funciones relativas a los procedimientos administrativos previos a la adopción;
+IV. Asignación: Proceso mediante el cual el Consejo Técnico de Adopciones vincula a través de expedientes a un menor adoptable con los ofertantes idóneos;
 
-V. Custodia: Aquella en la cual el Consejo Técnico, permite a los solicitantes llevar a convivir al menor a su domicilio por un periodo de tres meses, al término del cual si es favorable la convivencia se inicia el juicio de adopción, continuando el menor en el mismo domicilio hasta la entrega formal;
+V. Casa Hogar: Casa Hogar del Niño, de Ciudad Victoria, Tamaulipas dependiente del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-VI. Dirección: Dirección de Centros Asistenciales del Sistema;
+VI. Centro Asistencial: Aquellos señalados como tal en el artículo 11 de la Ley de Instituciones de Asistencia Social para el Estado de Tamaulipas;
 
-VII. Familia extensa: Núcleo familiar compuesto por ascendientes o colaterales consanguíneos que proporcionan alojamiento, cuidados y atenciones al niño, niña o adolescente en situación de desamparo, con el objeto de brindarle un ambiente propicio;
+VII. Certificado de idoneidad: Documento emitido por el Sistema, en el que se expresa que el ofertante es apto y adecuado para adoptar;
 
-VIII. Familia de origen: Grupo de personas formado por sujetos que comparten un vínculo consanguíneo, referido en específico a progenitores y sus hijos;
+VIII. Consejo: El Consejo Técnico de Adopciones, órgano colegiado encargado de realizar las funciones de valuación de solicitudes, aprobar y extender el Certificado de Idoneidad, asignar a los adoptables y dar seguimiento del proceso;
 
-IX. Interés superior del menor: Catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como a generar las condiciones materiales que permitan a los menores vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el Estado;
+IX. Coordinación: Coordinación de Centros Asistenciales del Sistema;
 
-X. Juez: El Juez que conozca del procedimiento jurisdiccional de Adopción, en razón del domicilio del menor sujeto a adopción;
+X. Custodia: Aquella en la cual el Consejo Técnico, permite a los ofertantes llevar a convivir al menor a su domicilio por un periodo de tres meses, al término del cual si es favorable la convivencia se inicia el juicio de adopción, continuando el menor en el mismo domicilio hasta la entrega formal;
 
-XI. Niño o niña: Persona de hasta doce años de edad incumplidos;
+XI. Dirección: Dirección de Adopciones del Sistema, que le corresponda entre otros asuntos, realizar el análisis de los expedientes de solicitud de adopción que reciba, así como la elaboración de una minuta en donde señale si existe o no consenso para declarar apto a un ofertante de adopción, para ser presentado al Consejo;
 
-XII. Principio de subsidiariedad: Prioridad de colocar en su propio país a los niños, niñas y adolescentes sujetos a adopción, o bien en un entorno cultural y lingüístico próximo al de su procedencia;
+XII. Expósito: Se considera así al menor que es colocado en una situación de desamparo, por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen;
 
-XIII. Procuraduría: El Titular de la Procuraduría Estatal de Protección a la Familia y Asuntos Jurídicos del Sistema;
+XIII. Familia extensa: Núcleo familiar compuesto por ascendientes o colaterales consanguíneos que proporcionan alojamiento, cuidados y atenciones al niño, niña o adolescente en situación de desamparo, con el objeto de brindarle un ambiente propicio;
 
-XIV. Reglamento: El Reglamento de la Ley de Adopciones del Estado de Tamaulipas;
+XIV. Familia de origen: Grupo de personas formado por sujetos que comparten un vínculo consanguíneo, referido en específico a progenitores y sus hijos;
 
-XV. Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+XV. Interés superior del niño: Catálogo de valores, principios, interpretaciones, acciones y procesos dirigidos a forjar un desarrollo humano integral y una vida digna, así como a generar las condiciones materiales que permitan a los menores vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible, cuya protección debe promover y garantizar el Estado;
 
-XVI. Seguimiento: La serie de actos mediante los cuales, el Sistema establece contacto directo o indirecto con la familia adoptiva para asegurarse de que la adopción ha resultado exitosa y, en su caso, orientarla para asegurar la adecuada integración del menor adoptado;
+XVI. Idoneidad: Condición de adecuados y aptos para incorporar y desarrollar a un niño, niña, adolescente o persona mayor con discapacidad con la calidad de hijo;
 
-XVII. Solicitante (es): La (s) persona (as), que acude ante el Sistema, con la intención de obtener un certificado de idoneidad, y así poder iniciar el trámite de adopción de un menor en el Estado de Tamaulipas; y
+XVII. Juez: El Juez que conozca del procedimiento jurisdiccional de Adopción, en razón del domicilio del menor sujeto a adopción;
 
-XVIII. Unidad de Adopciones: La unidad administrativa dependiente del Sistema, que le corresponda entre otros asuntos, realizar el análisis de los expedientes de solicitud de adopción que reciba, así como la elaboración de una minuta en donde señale si existe o no consenso para declarar apto a un solicitante de adopción, para ser presentado al Consejo.
+XVIII. Niño o niña: Persona de hasta doce años de edad;
+
+XIX. Principio de subsidiariedad: Prioridad de colocar en su propio país a los niños, niñas y adolescentes sujetos a adopción, o bien en un entorno cultural y lingüístico próximo al de su procedencia;
+
+XX. Procuraduría: El Titular de la Procuraduría de la Defensa del Menor y la Familia;
+
+XXI. Reglamento: El Reglamento de la Ley de Adopciones del Estado de Tamaulipas;
+
+XXII. Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+
+XXIII. Seguimiento: La serie de actos mediante los cuales, el Sistema establece contacto directo o indirecto con la familia adoptiva para asegurarse de que la adopción ha resultado exitosa y, en su caso, orientarla para asegurar la adecuada integración del menor adoptado; y
+
+XXIV. Ofertante (s): La (s) persona (as), que acude ante el Sistema, con la intención de obtener un certificado de idoneidad, y así poder ofrecer sus recursos personales, familiares, económicos, sociales, y para desarrollar como hijo propio a un niño, niña, adolescente o persona mayor con discapacidad que es adoptable.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES Y LOS DERECHOS DE LOS ADOPTADOS
 
@@ -119,7 +133,9 @@ XVIII. Unidad de Adopciones: La unidad administrativa dependiente del Sistema, q
 
 ###### ARTÍCULO 6.
 
-Son principios rectores en el cumplimiento, interpretación y aplicación de esta Ley, que deberán respetar las autoridades encargadas de las acciones de defensa y representación jurídica, provisión, prevención, procuración e impartición de justicia, para la protección del interés superior de los niños, niñas y adolescentes, los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
+
+Son principios rectores en el cumplimiento, interpretación y aplicación de esta Ley, que deberán respetar las autoridades encargadas de las acciones de defensa y representación jurídica, provisión, prevención, procuración e impartición de justicia, para la protección del interés superior de los niños, niñas, adolescentes y personas mayores con discapacidad, los siguientes:
 
 I. La prioridad del bienestar y protección de sus derechos en todas las circunstancias, por encima de cualquier interés de terceros;
 
@@ -131,13 +147,21 @@ III. La garantía de una vida libre de cualquier forma de violencia;
 
 IV. La procuración de su desarrollo integral dentro de su familia de origen, privilegiando la convivencia con su padre y su madre biológicos, aun cuando éstos se encuentren separados;
 
-V. La búsqueda de una opción familiar externa a la familia de origen, cuando ésta incumpla sus obligaciones de protección, cuidado y atención del niño, niña o adolescente, lo cual deberá acreditarse por vía judicial;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-VI. La prevalencia del principio de subsidiariedad, para que los niños, niñas y adolescentes sean otorgados en adopción preferentemente dentro de su lugar de origen y del territorio nacional;
+V. La búsqueda de una opción familiar externa a la familia de origen, cuando ésta incumpla sus obligaciones de protección, cuidado y atención del niño, niña, adolescente o persona mayor con discapacidad, lo cual deberá acreditarse por vía judicial;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VI. La prevalencia del principio de subsidiariedad, para que los niños, niñas, adolescentes y personas mayores con discapacidad sean otorgados en adopción preferentemente dentro de su lugar de origen y del territorio nacional;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
 VII. El de corresponsabilidad o concurrencia de las autoridades competentes, familia y sociedad en general, en la garantía de respeto a los derechos de niñas, niños y adolescentes y en la atención de los mismos; y
 
-VIII. El de la tutela plena e igualitaria de los derechos humanos de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VIII. El de la tutela plena e igualitaria de los derechos humanos de un niño, niña, adolescente o persona mayor con discapacidad.
 
 ###### ARTÍCULO 7.
 
@@ -155,25 +179,39 @@ V. A las personas que solicitan la adopción, cualquier relación con entidades 
 
 VI. Toda relación entre madre o padre adoptivos con la madre o padre biológicos del niño, niña o adolescente sujeto a adopción, o con cualquier persona involucrada en este proceso, con excepción de los casos en que los adoptantes sean familiares biológicos o de la familia extensa;
 
-VII. A la madre y/o al padre adoptivos disponer de los órganos y tejidos de la persona adoptada; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-VIII. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia biológica o extensa del adoptado, o por cualquier persona, así como por entidades públicas o privadas y autoridades involucradas en el proceso de adopción.
+VII. A la madre y/o al padre adoptivos disponer de los órganos y tejidos de la persona adoptada;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VIII. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia biológica o extensa del adoptado, o por cualquier persona, así como por entidades públicas o privadas y autoridades involucradas en el proceso de adopción; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+IX. A los Centros Asistenciales permitir visitas o acciones que generen cualquier vínculo afectivo entre personas que pretendan ser ofertantes y cualquier niño, niña o adolescente que se encuentre en el Centro Asistencial y sea factible su adopción.
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LOS ADOPTADOS
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
-La adopción confiere al adoptado los apellidos de los adoptantes, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente, y los mismos derechos y obligaciones que el parentesco por consanguinidad, y extingue los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos para el matrimonio.
+1. La adopción confiere al adoptado los apellidos de los adoptantes y los mismos derechos y obligaciones que el parentesco por consanguinidad, y extingue los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos para el matrimonio
+
+2. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+
+3. La adopción será irrevocable.
 
 ###### ARTÍCULO 9.
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se amplían a toda la familia del adoptante, como si el adoptado fuera hijo biológico de éste, excepto en lo relativo a los impedimentos para el matrimonio.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 10.
 
-En todos los casos de adopción, los niños, niñas y adolescentes que vayan a adoptarse tendrán derecho a asistencia psicológica en todo el proceso y a ser informados de las consecuencias de su adopción. Asimismo, deberán ser escuchados, atendiendo a su edad y grado de madurez.
+En todos los casos de adopción, los niños, niñas, adolescentes y personas mayores con discapacidad que vayan a adoptarse tendrán derecho a asistencia psicológica en todo el proceso y a ser informados de las consecuencias de su adopción. Asimismo, deberán ser escuchados, atendiendo a su edad y grado de madurez.
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS PARA PODER ADOPTAR
 
@@ -181,13 +219,17 @@ En todos los casos de adopción, los niños, niñas y adolescentes que vayan a a
 
 ###### ARTÍCULO 11.
 
-1. Tienen capacidad para adoptar la persona de entre veinticinco y cincuenta años de edad, en pleno ejercicio de sus derechos, casado o libre de matrimonio.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+1. Tienen capacidad para adoptar la persona de entre veinticinco y cincuenta años de edad, exceptuándose el límite superior en caso de que el adoptante sea un familiar en línea recta o colateral hasta tercer grado, en pleno ejercicio de sus derechos, casado o libre de matrimonio. Tratándose de matrimonios o concubinatos si alguno de los ofertantes excede de los cincuenta años, que la media aritmética de edad de la pareja no rebase dicho tope.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 2. No obstante lo anterior, el Juez y el Sistema procurarán que los menores sean adoptados preferentemente de acuerdo con el siguiente orden de prelación: por personas casadas y sin hijos; por personas en probado concubinato y sin hijos.
 
-3. Pueden adoptar, a uno o más menores, o a una persona con discapacidad cuando ésta sea mayor de edad, siempre que el adoptante tenga veinticinco años de edad más que el adoptado y que acredite además:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
+
+3. Pueden adoptar, a uno o más menores, o a una persona con discapacidad cuando ésta sea mayor de edad, siempre que el o los ofertantes tengan una diferencia de más de veinticinco años de edad que el adoptado, y que acredite además:
 
 I. Que la adopción es benéfica para la persona que se trata de adoptar;
 
@@ -203,9 +245,9 @@ V. En el caso de las mujeres, no estar embarazada ni en tratamiento para lograrl
 
 VI. En el supuesto, haber trascurrido mínimo de dieciocho meses de haberse integrado un hijo biológico o adoptivo a la familia;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-VII. En caso de tener enfermedades degenerativas o incapacitantes graves, enfermedades crónicas que requieran condiciones de vida especiales, enfermedades que supongan tratamientos intensos, como radiológicos, químicos, o quirúrgicos; o enfermedades graves ya tratadas que puedan reproducirse, el Juez debe valorar la situación particular de los adoptantes y, en caso de que considere que procede la adopción, debe dictar las medidas de protección necesarias para salvaguardar el interés superior del menor. Lo anterior para evitar posible discriminación de adoptantes;
+VII. No tener enfermedades degenerativas o incapacitantes graves, enfermedades crónicas que requieran condiciones de vida especiales, enfermedades que supongan tratamientos intensos, como radiológicos, químicos, o quirúrgicos; o enfermedades graves ya tratadas que puedan reproducirse, el juez debe valorar la situación particular de los adoptantes tomando en cuenta además los plazos previstos en los protocolos médicos y, en caso de que considere que procede la adopción, debe dictar las medidas de protección necesarias para salvaguardar el interés superior del niño. Lo anterior para evitar posible discriminación de adoptantes;
 
 VIII. En caso de trastornos psiquiátricos en fase de remisión, se considerará prudencial que haya transcurrido un plazo de cinco años desde tal remisión, precisando de un informe del profesional correspondiente;
 
@@ -229,7 +271,9 @@ III. En caso de que los progenitores hayan fallecido o perdido la patria potesta
 
 ###### ARTÍCULO 14.
 
-El Juez competente deberá asegurarse de que el niño, niña o adolescente sujeto a adopción, teniendo en cuenta su edad y grado de madurez, así como todas las personas involucradas cuyo consentimiento se requiera para la adopción:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
+
+El Juez competente deberá asegurarse de que el niño, niña, adolescente o persona mayor con discapacidad sujeto a adopción, teniendo en cuenta su edad y grado de madurez, así como todas las personas involucradas cuyo consentimiento se requiera para la adopción:
 
 I. Han sido convenientemente asesoradas y debidamente informadas de las consecuencias de su consentimiento, en particular en relación al mantenimiento o ruptura, en virtud de la adopción, de los vínculos jurídicos entre el menor de edad y su familia de origen;
 
@@ -249,43 +293,71 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido aprob
 
 I. Firmar la solicitud proporcionada por el Sistema;
 
-II. Fotografías a color, tomadas en su domicilio que comprendan fachada, sala, comedor, cocina, recamaras, sanitarios, así como de una reunión familiar donde esté incluido el solicitante(s);
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-III. Historia personal de cada uno de los solicitantes manuscrita, donde se incluya fecha, nombre y firma;
+II. Fotografías a color, tomadas en su domicilio que comprendan fachada, sala, comedor, cocina, recamaras, sanitarios, así como de una reunión familiar donde esté incluido el ofertante(s);
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-IV. Certificado médico de salud de cada uno de los solicitantes, expedido por una institución oficial que certifique que se encuentra sano, así como también resultado de pruebas aplicadas para la detección del VIH-SIDA, biometría hemática, química sanguínea, VDRL. El certificado se valorará con estricto apego al principio de no discriminación;
+III. Historia personal de cada uno de los ofertantes manuscrita, donde se incluya fecha, nombre y firma;
 
-V. Certificado médico de salud de cada uno de los solicitantes, expedido por una Institución Oficial que certifique que se encuentra sano, así como también resultado de pruebas aplicadas para la detección del VIH-SIDA, biometría hemática, química sanguínea, VDRL;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+IV. Currículum Vitae acompañado de fotografía reciente, con copias certificadas que acrediten lo ahí expuesto;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+V. Certificado médico de salud de cada uno de los ofertantes, así como de cada uno de sus hijos o personas que vivan con ellos, expedido por una Institución Oficial que certifique que se encuentra sano, así como también resultado de pruebas aplicadas para la detección del VIH-SIDA, biometría hemática, química sanguínea, VDRL y negativo de embarazo. El certificado se valorará con estricto apego al principio de no discriminación;
 
 VI. Documento que acredite haber aprobado exámenes toxicológicos; expedidos por Institución Oficial;
 
-VII. Dos cartas de recomendación de personas que conozcan al solicitante, que incluya los datos en los cuales pueden ser localizados, éstas no podrán ser expedidas por familiares;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-VIII. Copia certificada del acta de nacimiento y matrimonio, en su caso;
+VII. Dos cartas de recomendación de personas que conozcan al ofertante, que incluya los datos en los cuales pueden ser localizados, éstas no podrán ser expedidas por familiares;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VIII. Copia certificada del acta de nacimiento y matrimonio con un mínimo de 5 años de matrimonio civil o 3 si cuentan con diagnóstico médico de infertilidad;
 
 IX. Constancia de trabajo especificando puesto, sueldo y antigüedad;
 
-X. Certificado de estudios mínimos de Secundaria;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+X. Certificado de estudios mínimos de Secundaria. Exceptuándose este requisito en caso de que el adoptante sea un familiar en línea recta o colateral hasta tercer grado;
 
 XI. Documento que muestre la cobertura de servicios de salud;
 
-XII. Carta de residencia de cada uno de los solicitantes;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XII. Carta de residencia de cada uno de los ofertantes;
 
 XIII. Copia certificada de identificación oficial con fotografía;
 
-XIV. Una fotografía a color tamaño credencial de cada uno de los solicitantes;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+XIV. Una fotografía de cada uno de los ofertantes;
 
-XV. Carta de no antecedentes penales de cada uno de los solicitantes, expedida por la Procuraduría General de Justicia del Estado. La existencia de antecedentes penales no impide por sí misma la adopción. El caso concreto será valorado por la autoridad correspondiente con apego al principio de no discriminación;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XV. Carta de no antecedentes penales de cada uno de los ofertantes, expedida por la Procuraduría General de Justicia del Estado. La existencia de antecedentes penales no impide por sí misma la adopción. El caso concreto será valorado por la autoridad correspondiente con apego al principio de no discriminación;
 
 XVI. Haber resultado adecuados y aptos en los estudios socioeconómicos, psicológicos y médicos que sean practicados por el personal del Sistema;
 
-XVII. Acudir a las entrevistas programadas de común acuerdo con el personal del Sistema y aceptar las visitas a su domicilio que le solicite el Sistema; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-XVIII. Firma de carta compromiso, donde se acepte las visitas de seguimiento al adoptado y a la familia adoptante.
+XVII. Acudir a las entrevistas programadas de común acuerdo con el personal del Sistema y aceptar las visitas a su domicilio que le solicite el Sistema;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XVIII. Firma de carta compromiso donde se acepte las visitas de seguimiento al adoptado y a la familia adoptante;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XIX. Constancia de haber acreditado la Escuela para Padres por Adopción; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XX. Las demás que señalen el Reglamento de la presente Ley o determine el Consejo.
 
 2. Para efectos de la validez de los documentos señalados en el párrafo anterior, los mismos no deben tener una antigüedad mayor a tres meses a partir de su expedición, por las autoridades correspondientes.
 
@@ -293,15 +365,19 @@ XVIII. Firma de carta compromiso, donde se acepte las visitas de seguimiento al 
 
 La falta de alguno de los documentos y requisitos señalados en el artículo anterior, tendrá como consecuencia la negativa del Certificado de idoneidad, por parte del Consejo.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-Una vez que el solicitante ha cumplido con lo establecido en el artículo 16 de esta Ley, el Consejo en un plazo no mayor a tres meses, deberá expedir el certificado de idoneidad o notificarle su no idoneidad a la adopción, para que el solicitante pueda iniciar el procedimiento ante el Juez competente para autorizar la adopción.
+Una vez que el ofertante ha cumplido con lo establecido en el artículo 16 de esta Ley, el Consejo en un plazo no mayor a tres meses, deberá expedir el certificado de idoneidad o notificarle su no idoneidad a la adopción, para que el ofertante pueda iniciar el procedimiento ante el Juez competente para autorizar la adopción.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 19.
 
-1. El Certificado de idoneidad tendrá una vigencia de un año a partir de su expedición, si transcurrido este plazo el solicitante no lleva a cabo el procedimiento judicial para llevar a cabo la adopción, tendrá que solicitar de nueva cuenta la expedición de un nuevo certificado de idoneidad, sin omitir ninguno de los requisitos señalados en el artículo 16 de la presente Ley.
+1. El Certificado de idoneidad tendrá una vigencia de un año a partir de su expedición, si transcurrido este plazo el ofertante no lleva a cabo el procedimiento judicial para llevar a cabo la adopción, tendrá que solicitar de nueva cuenta la expedición de un nuevo certificado de idoneidad, sin omitir ninguno de los requisitos señalados en el artículo 16 de la presente Ley.
 
-2. El Consejo negará el certificado de idoneidad, al solicitante que habiéndolo obtenido hasta en tres ocasiones, sin causa justificada, no promueva el procedimiento judicial para llevar a cabo la adopción.
+2. El Consejo negará el certificado de idoneidad, al ofertante que habiéndolo obtenido hasta en tres ocasiones, sin causa justificada, no promueva el procedimiento judicial para llevar a cabo la adopción.
 
 ###### ARTÍCULO 20.
 
@@ -321,15 +397,21 @@ Se crea el Consejo Técnico de Adopciones como órgano colegiado adscrito al Sis
 
 I. El Titular de la Coordinación de Centros Asistenciales Rehabilitación y Educación Especial del Sistema, quien lo presidirá;
 
-II. El Titular de la Dirección de Centros Asistenciales, quien será el Secretario Técnico; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+II. El Titular de la Dirección de Adopciones, quien será el Secretario Técnico; y
 
 III. Tres Vocales, los cuales serán los siguientes:
 
-a) Titular de la Procuraduría Estatal de Protección a la Familia y Asuntos Jurídicos del Sistema;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+a) El Titular de la Procuraduría de la Defensa del Menor y la Familia;
 
 b) El Titular de la Casa Hogar del Niño, del Sistema; y
 
-c) El Titular de la Unidad de Adopciones del Sistema.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+c) El Titular de la Dirección Jurídica del Sistema.
 
 2. Los integrantes del Consejo tendrán voz y voto en las sesiones. En caso de empate, el Presidente tendrá voto de calidad.
 
@@ -349,11 +431,17 @@ II. Verificar que las solicitudes tanto de nacionales como de extranjeros estén
 
 III. Aplicar los criterios para asignación de conformidad con el principio de subsidiariedad;
 
-IV. Analizar el dictamen de la Unidad de adopciones sobre los estudios de psicología, trabajo social y evaluación médica practicados a los solicitantes nacionales o extranjeros;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-V. Integrar debidamente el expediente de la adopción para la resolución del Juez;
+IV. Analizar el dictamen de la Dirección sobre los estudios de psicología, trabajo social y evaluación médica practicados a los ofertantes nacionales o extranjeros;
 
-VI. Acordar una visita en el domicilio de los solicitantes cuando se considere así necesario;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+V. Integrar debidamente el expediente de la adopción para la aprobación y emisión del certificado de idoneidad;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VI. Acordar una visita en el domicilio de los ofertantes cuando se considere así necesario;
 
 VII. Analizar los casos de los niños, niñas o adolescentes cuya situación jurídica esté resuelta y permita ser integrados en una familia;
 
@@ -395,7 +483,9 @@ I. Convocar a sesión ordinaria o extraordinaria a los miembros del Consejo;
 
 II. Formular el orden del día de dichas sesiones;
 
-III. Proporcionar datos acerca de los antecedentes, en caso de existir, de violencia o maltrato de los que fuera sujeto el niño, niña o adolescente, a los miembros del Consejo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+III. Proporcionar datos acerca de los antecedentes, en caso de existir, violencia o maltrato de los que fuera sujeto el niño, niña o adolescente, y persona mayor con discapacidad, a los miembros del Consejo;
 
 IV. Elaborar el acta con los asuntos y resoluciones que se hayan acordado en las sesiones del Consejo;
 
@@ -413,7 +503,9 @@ Los Vocales Consejeros tendrán las funciones siguientes:
 
 l. Consultar en la Secretaría Técnica del Consejo los expedientes de los casos que se tratarán en cada sesión ordinaria o extraordinaria;
 
-II. Opinar, en su caso, sobre los estudios y valoraciones practicadas a los solicitantes;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+II. Opinar, en su caso, sobre los estudios y valoraciones practicadas a los ofertantes;
 
 III. Firmar las actas de las sesiones en que hubieren estado presentes;
 
@@ -421,55 +513,105 @@ IV. Realizar las actividades que les encomiende el Consejo; y
 
 V. Las demás que se deriven de la aplicación de esta Ley y de su Reglamento.
 
-## TÍTULO QUINTO. DE LOS TIPOS DE ADOPCIONES
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2014)</small>
 
-### CAPÍTULO PRIMERO. DE LA ADOPCIÓN DE MENORES EN ESTADO DE VULNERABILIDAD
+ARTÍCULO 27 BIS.
+
+La Dirección tendrá las siguientes obligaciones y atribuciones:
+
+l. Elaborar dictamen sobre los estudios de psicología, trabajo social y evaluación médica practicados a los ofertantes nacionales o extranjeros;
+
+II. Emitir dictamen de adaptabilidad;
+
+III. Promover la cultura de la adopción, apoyada por leyes adecuadas y oportunas de acuerdo a la dignidad de la persona;
+
+IV. Solicitar a los encargados de los Centros Asistenciales información sobre las solicitudes de adopción que se les presenten así como de los menores expósitos y/o en estado de abandono que reciban;
+
+V. Llevar un estricto control de niños, niñas y adolescentes, y personas mayores con discapacidad inscritos en el padrón de beneficiarios de cada Centro Asistencial, susceptibles de ser integrados a una familia mediante la adopción;
+
+VI. Denunciar ante las autoridades competentes, los procesos de adopción que contravengan lo dispuesto en la presente Ley; y
+
+VII. Guardar estricta confidencialidad sobre todos los asuntos de su competencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2014)</small>
+
+## TÍTULO QUINTO. DE LOS SUJETOS DE ADOPCIÓN
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2014)</small>
+
+### CAPÍTULO PRIMERO. DE LA ADOPCIÓN DE MENORES EN ESTADO DE VULNERABILIDAD Y PERSONAS MAYORES CON DISCAPACIDAD
 
 ###### ARTÍCULO 28.
 
-1. Se Consideran menores en estado de vulnerabilidad, las niñas, los niños y los adolescentes, en términos de lo dispuesto por el artículo 5 fracción II de la ley sobre el Sistema Estatal de Asistencia Social, que sean sujetos de Asistencia Social y que se encuentren institucionalizados en Centros Asistenciales del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+1. Se consideran menores en estado de vulnerabilidad, las niñas, los niños y los adolescentes, en términos de lo dispuesto por el artículo 5 fracción II de la Ley sobre el Sistema Estatal de Asistencia Social, que sean sujetos de Asistencia Social y que se encuentren institucionalizados en Centros Asistenciales del Estado. Siendo deber de los Centros Asistenciales informar a la Dirección, en un término de setenta y dos horas, sobre las solicitudes de adopción que se les presenten y sobre los menores expósitos y/o en estado de abandono que reciban.
 
 2. El proceso de adopción de menores en estado de vulnerabilidad, se iniciará en vía de jurisdicción voluntaria ante el Juez de Primera Instancia que corresponda por el domicilio del niño, niña o adolescente.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2014)</small>
+
+3. Los niños que se consideren expósitos, permanecerán en los Centros Asistenciales Públicos de los Municipios en los cuales fueren encontrados, o en el más cercano a dicha localidad, por espacio de treinta días, para determinar su origen. Si transcurrido éste término, no se presentare familiar alguno, o no se acreditara su parentesco, dicho menor se canalizará para su asistencia a la Casa Hogar del Niño dependiente del Sistema, debiendo ser registrado su nacimiento como expósito, imponiéndosele los apellidos Caballero de la Sierra.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
-En los procesos de adopción de niños, niñas o adolescentes en situación de desamparo o abandono, el Sistema por conducto de la Procuraduría o de la Unidad de Adopciones, exhibirá los elementos de prueba necesarios para acreditar, en su caso, que no conviene reintegrar al sujeto a adopción con su madre, padre, abuelos paternos o maternos o familia extensa.
+Previo a los procesos de adopción de niños, niñas o adolescentes en estado de vulnerabilidad, y personas mayores de edad con discapacidad, la Procuraduría o la Dirección, exhibirá los elementos de prueba necesarios para acreditar, en su caso, que no es viable la reintegración familiar, para lo que deberá emitirse el acuerdo correspondiente fundado y motivado, acompañando todas y cada una de las diligencias practicadas.
 
 ###### ARTÍCULO 30.
 
 El término para oponerse a lo dispuesto por el artículo anterior no podrá ser mayor de tres meses, contados a partir de la fecha en la cual el menor fue ingresado a un Centro Asistencial.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 31.
 
-Al declararse a un niño, niña o adolescente como expósito o en estado de abandono, la Unidad de Adopciones promoverá el juicio de pérdida de patria potestad, y solicitará además la custodia provisional del menor, hasta en tanto se resuelva su situación jurídica de manera definitiva.
+1. Al declararse a un niño, niña, adolescente o mayor de edad con discapacidad como expósito o en estado de abandono, la Dirección promoverá el juicio de pérdida de patria potestad, y solicitará además la custodia provisional del menor a favor del titular del Centro Asistencial donde se encuentre éste, hasta en tanto se resuelva su situación jurídica de manera definitiva.
+
+2. Una vez que sea decretada la pérdida de la patria potestad o registrado el nacimiento de algún menor como expósito, la Dirección podrá asignarlo con los ofertantes de adopción.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
-El Sistema, previo acuerdo del Consejo y con la autorización del Juez competente, podrá integrar al niño, niña o adolescente que se pretenda adoptar, por conducto de la Dirección, a la Casa Hogar, en la cual permanecerá en tanto se resuelve el proceso de adopción.
+El Sistema, previo acuerdo del Consejo y con la autorización del Juez competente, podrá integrar al niño, niña, adolescente o mayor de edad con discapacidad que se pretenda adoptar, por conducto de la Coordinación, a un Centro Asistencial, en la cual permanecerá en tanto se resuelve el proceso de adopción.
 
 ###### ARTÍCULO 33.
 
 Una vez realizada la integración a que se refiere el artículo anterior, el Consejo programará la presentación del niño, niña o adolescente con los futuros padres adoptantes.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 34.
 
-Después de la presentación, se programarán las convivencias del sujeto a adopción con los solicitantes de ésta y se dará inicio al período de adaptabilidad, que no será menor de tres semanas y bajo supervisión psicológica.
+1. Después de la presentación, se programarán las convivencias del sujeto a adopción con los ofertantes de ésta y se dará inicio al período de adaptabilidad, que no será menor de tres semanas y bajo supervisión psicológica.
+
+2. Posteriormente se dará inicio al periodo de custodia que comprenderá tres meses o más si fuere necesario, bajo supervisión de la Dirección.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 35.
 
-Concluido el periodo de adaptabilidad y en caso de ser favorable el dictamen emitido por la Unidad de Adopciones, se promoverá el juicio de adopción.
+Concluido el periodo de custodia y en caso de ser favorable el dictamen de adaptabilidad emitido por la Dirección, se promoverá el juicio de la adopción.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
-El Sistema, por conducto de la Unidad, podrá solicitar la pérdida de patria potestad de los padres adoptivos, cuando se incurra en alguna de las causales previstas en el Código Civil para el Estado de Tamaulipas, independientemente de la responsabilidad penal en la que se incurra.
+El Sistema, por conducto de la Dirección, podrá solicitar la pérdida de patria potestad de los padres adoptivos, cuando se incurra en alguna de las causales previstas en el Código Civil para el Estado de Tamaulipas, independientemente de la responsabilidad penal en la que se incurra.
 
 ###### ARTÍCULO 37.
 
 Cuando ninguno de los padres biológicos de un menor pueda proveer a la crianza de éste, podrán solicitar a la Dirección, que aquél sea asignado en adopción, para lo que se requiere:
 
-I. La entrega del menor con una copia certificada de su acta de nacimiento y demás documentos que prueben su filiación con los solicitantes; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-II. El consentimiento por escrito de los solicitantes, quienes al efecto deberán presentar identificación oficial.
+l. La entrega del menor con una copia certificada de su acta de nacimiento y demás documentos que prueben su filiación con los ofertantes; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+II. El consentimiento por escrito de los ofertantes, quienes al efecto deberán presentar identificación oficial.
 
 ###### ARTÍCULO 38.
 
@@ -483,6 +625,12 @@ Las niñas, niños y adolescentes que se encuentren bajo el cuidado del Sistema,
 
 Transcurrido el término señalado en el artículo anterior sin que se revoque la entrega voluntaria, se dará inicio al proceso de adopción.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2014)</small>
+
+ARTÍCULO 40 BIS.
+
+Tratándose de los mayores de edad con discapacidad, les aplicará en lo conducente, lo establecido en el presente Capítulo.
+
 ### CAPÍTULO SEGUNDO. DE LA ADOPCIÓN ENTRE PARTICULARES
 
 ###### ARTÍCULO 41.
@@ -491,7 +639,9 @@ Se considerarán adopciones entre particulares, aquellas a través de la (sic) c
 
 ###### ARTÍCULO 42.
 
-1. Los Jueces que conozcan de los procesos de adopción entre particulares, deberán informar al Sistema, para los efectos legales que correspondan.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
+1. Los Jueces que conozcan de los procesos de adopción entre particulares, deberán informar al Sistema el inicio de los mismos, así como la resolución que recaiga en estos, para los efectos legales que correspondan.
 
 2. Conforme lo establecido en la fracción II del párrafo 3 del artículo 11 de la presente Ley, el Juez no puede conceder la adopción entre particulares, sin el Certificado de idoneidad que para tal efecto emita el Sistema, por conducto del Consejo.
 
@@ -519,15 +669,23 @@ II. Que el menor es adoptable, para lo cual emitirá un informe sobre la identid
 
 III. Que las personas a quienes les corresponde otorgar consentimiento sobre la adopción han sido previamente asesoradas e informadas de las consecuencias de ello;
 
-IV. Que la adopción obedece al interés superior del menor;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+IV. Que la adopción obedece al interés superior de la niñez;
 
 V. Autorización de su país de origen para llevar a cabo el trámite de adopción de un menor mexicano, así como para entrar y residir en dicho país;
 
-VI. Que las autoridades competentes del país de origen de los solicitantes acrediten, con los documentos respectivos, que éstos son aptos para adoptar;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
-VII. Que el solicitante acredite su legal estancia en el país, a través de forma migratoria expedida por el Gobierno Mexicano; y
+VI. Que las autoridades competentes del país de origen de los ofertantes acrediten con los documentos respectivos, que éstos son aptos para adoptar;
 
-VIII. Permiso especial del Estado Mexicano para llevar a cabo el trámite de adopción de un menor originario de este país, de conformidad con el artículo 158 del Reglamento de la Ley General de Población.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VII. Que el ofertante acredite su legal estancia en el país, a través de forma migratoria expedida por el Gobierno Mexicano; y
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+VIII. Visa de visitante para realizar el trámite de adopción, de conformidad a la Ley de Migración.
 
 2. Resuelta la adopción, el Juez lo informará al Sistema, al Sistema Nacional para el Desarrollo Integral de la Familia, a la Secretaría de Relaciones Exteriores y al Instituto Nacional de Migración.
 
@@ -535,53 +693,47 @@ VIII. Permiso especial del Estado Mexicano para llevar a cabo el trámite de ado
 
 En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
-## TÍTULO SEXTO. DE LA REVOCACIÓN DE LA ADOPCIÓN
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2014)</small>
+
+## TÍTULO SEXTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2014)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 48.
 
-La adopción puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme a la presente Ley;
-
-II. Por ingratitud del adoptado; y
-
-III. Cuando el Sistema justifique que existe causa grave que ponga en peligro al menor.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTÍCULO 49.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; y
-
-III. Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTÍCULO 50.
 
-En el primer caso del artículo 48, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTÍCULO 51.
 
-La sentencia que revoca una adopción por parte de un Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTÍCULO 52.
 
-En caso de ingratitud la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTÍCULO 53.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquella se hizo para que cancele el acta de adopción.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ## TÍTULO SÉPTIMO. DE LAS SANCIONES Y LOS RECURSOS
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 54.
 
-A los solicitantes que falseen en cualquier información proporcionada o intencionalmente oculten otra que debiese presentar al Consejo, para la integración de su solicitud de certificado de idoneidad, se les cancelará su solicitud y no se les admitirá una nueva, haciendo del conocimiento del Ministerio Público, para los efectos legales que procedan.
+A los ofertantes que falseen en cualquier información proporcionada o intencionalmente oculten otra que debiese presentar al Consejo, para la integración de su solicitud de certificado de idoneidad, se les cancelará su solicitud y no se les admitirá una nueva, haciendo del conocimiento del Ministerio Público, para los efectos legales que procedan.
 
 ###### ARTÍCULO 55.
 
@@ -686,3 +838,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de adopciones que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
