@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-profesionalizacion-de-75141
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-10"
-last_updated: "2010-05-10"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACION DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACION DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACIÓN DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO DE PROFESIONALIZACIÓN DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 9 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 10 de mayo de 2010.
 
 LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2, 3, 8 Y 16 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 En mérito de lo expuesto, se expide el siguiente:
 
@@ -222,3 +224,15 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE JULIO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interno del Instituto de Profesionalización de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 10 de mayo de 2010.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
