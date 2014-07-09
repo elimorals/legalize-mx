@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2014-06-24"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO LXII-232 MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADA EN EL P.O. DE 1 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR LOS DELITOS MENCIONADOS EN LA FRACCIÓN I DEL ARTÍCULO ÚNICO DEL PRESENTE DECRETO QUEDARÁ ABROGADO; SIN EMBARGO, RESPECTO A LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JUNIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -121,31 +119,13 @@ IX.- Conceder y en su caso revocar o negar el beneficio de la libertad provision
 
 X.- Promover los mecanismos alternativos de solución de conflictos entre el ofendido o la víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal, en términos de lo dispuesto por el artículo 3 Bis de este Código. En materia penal, los mecanismos alternativos de solución de conflictos aplicables son la mediación y la conciliación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+XII.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
-XI.- Iniciar la averiguación previa de los hechos que tenga conocimiento, por los delitos contra la salud en los supuestos previstos en los artículos 204 Ter a 204 Quintus del Código Penal para el Estado de Tamaulipas;
+XIII.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XII.- Ordenar el aseguramiento y decomiso de bienes provenientes del narcotráfico.
-
-Los narcóticos los pondrá a disposición de la autoridad sanitaria federal para su destrucción, utilización en la docencia o investigación, y los instrumentos del delito o cosas que sean objeto o producto de él, se pondrán a disposición del Juzgado que le corresponda conocer del proceso, quién determinará su destino, según su utilidad, para beneficio de la procuración e impartición de Justicia o su inutilización si fuere el caso;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Informar a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura de algún establecimiento cuando el propietario, poseedor, arrendatario o usufructuario lo empleare para realizar cualquiera de las conductas sancionadas en delitos contra la salud en la modalidad de narcomenudeo, previsto en la Ley General de Salud o en el Código Penal Federal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XIV.- Rendir los informes que en delitos contra la salud en materia de narcomenudeo le solicite el Ministerio Público de la Federación; y
+XIV.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
 (REUBICADA, P.O. 16 DE DICIEMBRE DE 2010)
 
@@ -205,11 +185,7 @@ II.- Cuando agotada la averiguación no aparezca acreditada la probable responsa
 
 III.- Cuando hubiere alguna causa de extinción de la acción penal a que se refiere el Título Octavo, Libro Primero del Código Penal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-IV.- En los delitos contra la salud en la modalidad de narcomenudeo, cuando el inculpado sea farmacodependiente o consumidor y tenga en posesión uno de los narcóticos previstos en la tabla del artículo 479 de la Ley General de Salud, en cantidad igual o inferior a los previstos en ella, fuera de los lugares señalados en la fracción II del artículo 204 Ter del Código Penal de la entidad, y sea para su estricto consumo personal o posea un medicamento que contenga alguno de los narcóticos previstos en la tabla y por su naturaleza y cantidad sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+IV.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTICULO 5.
 
@@ -241,11 +217,7 @@ a).- Cuando durante el procedimiento aparezca plenamente comprobado en autos que
 
 b).- Cuando por datos posteriores estime que ya no es procedente una orden de aprehensión no ejecutada aún; solicitará en este caso, se deje sin efecto, lo que se acordará de plano sin perjuicio de que se continúe la averiguación y de que posteriormente, vuelva a ejercitarse si procede; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-c).- Cuando se demuestre que el inculpado es farmacodependiente o consumidor y la posesión del narcótico sea en cantidad igual o inferior a los previstos en la tabla del artículo 479 de la Ley General de Salud, estando fuera de los lugares señalados en la fracción II del artículo 204 Ter del Código Penal de la entidad, y sea para su estricto consumo personal; o la posesión del medicamento que contenía alguno de los narcóticos previstos en la tabla, por su naturaleza y cantidad eran los necesarios para el tratamiento de la persona que los poseía o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+c).- (DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 III.- La aplicación tanto de las penas como de las medidas de seguridad;
 
@@ -263,17 +235,7 @@ V.- La interposición de los recursos que la Ley señala;
 
 VI.- Lo que corresponda en los incidentes que se tramiten; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-VII.- En delitos contra la salud en materia de narcomenudeo:
-
-a).- El aseguramiento y decomiso de los instrumentos del delito o cosas que sean objeto o producto del narcomenudeo, en lo cual el Juez determinará su destino, según su utilidad, para beneficio de la procuración e impartición de Justicia o su inutilización si fuere el caso;
-
-b).- La clausura de algún establecimiento cuando el propietario, poseedor, arrendatario o usufructuario lo empleare para realizar cualquiera de las conductas sancionadas en la Ley General de Salud o en el Código Penal Federal, y
-
-c).- Se informe a la autoridad sanitaria cuando una persona relacionada con un procedimiento sea fármaco-dependiente, para los efectos del tratamiento que corresponda, así como la notificación al inculpado de la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+VII.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -333,11 +295,7 @@ Si se cometieron dos o más delitos en dos o más distritos dentro del Estado, s
 
 En caso de concurso de delitos del orden común, la competencia se fija atendiendo a la sanción del delito mayor, y a la privativa de libertad cuando se señalen varias de distinta naturaleza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-En el caso de que existiera concurso de delitos contra la salud en su modalidad de narcomenudeo con otros del orden federal, la competencia le corresponderá a la autoridad federal.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -351,13 +309,9 @@ El juez o tribunal que se estime incompetente para conocer de su causa, una vez 
 
 Si la autoridad a quien se remita el proceso, a su vez se estimara incompetente, lo elevará al Superior que deba dirimir la competencia, para que resuelva lo que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 17 Bis.
 
-Tratándose del delito de narcomenudeo, si de las constancias del procedimiento se advierte la incompetencia de las autoridades del fuero común, se remitirá el expediente al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente gozarán de plena validez.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ### CAPITULO II. FORMALIDADES
 
@@ -997,21 +951,9 @@ Si el ofendido se encuentra inconciente (sic) o imposibilitado para formular su 
 
 Al iniciar el procedimiento el Ministerio Público o la Policía Ministerial, se trasladarán y darán fe de las cosas y de las personas a quienes hubiera afectado el hecho delictuoso y tomarán los datos de los que lo hayan presenciado, procurando que declaren a la mayor brevedad posible, pudiendo elaborar en su caso croquis y tomar fotografías.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 106 Bis.
 
-El Ministerio Público al iniciar una averiguación previa por el delito de narcomenudeo, lo hará del conocimiento del Ministerio Público de la Federación, a efecto de que éste cuente con los elementos necesarios para que, en su caso, solicite la remisión de la investigación.
-
-En los casos que el conocimiento de la averiguación sea competencia del Ministerio Público de la Federación, el Ministerio Público del fuero común podrá practicar las diligencias de averiguación previa que correspondan y remitirá al de la Federación, a más tardar dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione.
-
-Si hubiese detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
-
-El Ministerio Público del fuero común recibirá las constancias que le remita el Ministerio Público de la Federación y continuará con la investigación, siempre y cuando sea de su competencia en los términos señalados en este Código y en la Ley General de Salud, en lo que corresponda.
-
-El Ministerio Público al iniciar una averiguación previa o la autoridad judicial del conocimiento, tan pronto identifique que una persona relacionada con un procedimiento penal es farmacodependiente, deberá informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes para su tratamiento o programa de prevención.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1407,27 +1349,15 @@ III.- Que ya no sea necesaria la existencia de las medidas decretadas.
 
 En los casos de los dos Artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que lo estime necesario para apreciar mejor su relación con el delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+I.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
-En delitos contra la salud en la modalidad de narcomenudeo, además de lo dispuesto por el artículo 122 de éste Código, el Ministerio Público procederá a hacer lo siguiente:
+II.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
-I.- Ordenar el aseguramiento del narcótico, realizando una inspección de las sustancias en la que se determinará la naturaleza, el peso y las demás características de éstas, lo que asentará en un acta que incluyendo el inventario con la descripción y el estado en que se encuentre, identificándolo con sellos o marcas adecuadas, dictando las medidas conducentes e inmediatas para evitar que se destruyan, alteren o desaparezcan, y procederá a remitir el narcótico a la autoridad sanitaria correspondiente, conservando una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, según el caso, y
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
 
-II.- Tratándose de objetos o instrumentos del delito procederá además a notificar el aseguramiento al interesado dentro de los sesenta días naturales siguientes a su ejecución, poniendo a su disposición una copia certificada del acta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Las notificaciones se harán en los términos que dispone el presente Código, y, en caso de desconocerse la identidad o domicilio de la persona se procederá a hacer por edicto que se publicará por una sola ocasión en el periódico oficial del Estado y en un periódico de mayor circulación del lugar. En ambos casos se apercibirá que no enajene o grave los bienes asegurados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-De no hacer manifestación alguna de lo que a su derecho convenga en un término no mayor de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Gobierno del Estado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
@@ -1621,21 +1551,13 @@ En los casos del delito de daño en propiedad ajena causado por incendio, inunda
 
 Si el delito fuere de falsedad o falsificación de documentos, se hará una minuciosa descripción del instrumento argüido de falso y se depositará en lugar seguro, haciendo que firmen en él, si fuere posible, las personas que depongan respecto a su falsedad; en caso contrario se harán constar los motivos. Al expediente se agregará una copia certificada del documento argüido de falso y una fotostática del mismo cuando sea posible. La comprobación del cuerpo del delito en los casos de falsedad, se hará como lo dispone el artículo 158 de éste Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 155 Bis.
 
-En los casos del delito de narcomenudeo, el Ministerio Público o el juez de la causa, solicitarán la elaboración del dictamen pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia considerada como estupefaciente. El dictamen deberá ser rendido antes de las 48 ó 72 horas, respectivamente, cuando hubiere detenido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 ###### ARTICULO 155 Ter.
 
-En la destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, se observarán las disposiciones del Código Federal de Procedimientos Penales.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -1753,11 +1675,7 @@ c).- Que esté extinguida legalmente.
 
 II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna causa que excluya el delito o la responsabilidad penal, pero solamente por lo que se refiere a quienes se encuentran en estas circunstancias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-III.- En los delitos contra la salud en la modalidad de narcomenudeo, cuando se demuestre que el inculpado es farmacodependiente o consumidor y tenga en posesión uno de los narcóticos previstos en la tabla del artículo 479 de la Ley General de Salud, en cantidad igual o inferior a los previstos en ella, fuera de los lugares señalados en la fracción II del artículo 204 Ter del Código Penal de la entidad, y sea para su estricto consumo personal o posea un medicamento que contenga alguno de los narcóticos previstos en la tabla y por su naturaleza y cantidad sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+III.- (DEROGADA, P.O. 9 DE JULIO DE 2014)
 
 Las resoluciones que se dicten en los casos al que se refiere el presente Artículo, impedirán definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven, debiendo formularse expresamente y de acuerdo con los requisitos fijados en este Código, en la Ley Orgánica de la Procuraduría General de Justicia y su Reglamento.
 
@@ -3963,13 +3881,11 @@ II.- Cuando han sido cometidos por varias personas, aunque en diversos tiempos y
 
 III.- Cuando se ha cometido un delito para procurarse los medios de cometer otro, para facilitar su ejecución, para consumarlo o para asegurar la impunidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 472.
 
-No procederá la acumulación si se trata de diversos fueros, con excepción en delitos contra la salud en materia de narcomenudeo.
+No procederá la acumulación si se trata de diversos fueros, con excepción en delitos contra la salud.
 
 ###### ARTICULO 473.
 
@@ -3989,11 +3905,7 @@ Si la promoviere alguna de las partes, el Tribunal las oirá en audiencia verbal
 
 Si los procesos se siguen en diversos tribunales, será competente para conocer de todos los que deban acumularse, el Tribunal que conociere de las diligencias más antiguas; si éstas se comenzaron en la misma fecha, el que conociere del delito más grave; y si fueren iguales será competente el juez que elija el Ministerio Público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-En el caso de que se trate de un delito contra la salud en la modalidad de narcomenudeo y otro delito federal, será competente para conocer el Juez que le corresponda conocer del otro delito federal acumulado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 477.
 
@@ -4251,11 +4163,11 @@ Los lugares en donde los reos deban extinguir las sanciones privativas de libert
 
 En toda sentencia condenatoria se prevendrá que se amoneste al sentenciado para que no reincida, advirtiéndole las sanciones a que se expone, y de ello se extenderá diligencia, pero sin que la falta de esta obste para hacer efectivas las sanciones de la reincidencia y de la habitualidad.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 510.
 
-Pronunciada una sentencia condenatoria firme, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas para el Juez de Ejecución de Sanciones, para el Coordinador General de Reintegración Social y Ejecución de Sanciones, y para el Director del Centro donde el reo se encuentre internado o donde hubiere estado detenido.
+Pronunciada una sentencia condenatoria firme, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas para el Juez de Ejecución de Sanciones, para el Subsecretario de Ejecución de Sanciones y Reinserción Social, y para el Director del Centro donde el reo se encuentre internado o donde hubiere estado detenido.
 
 ###### ARTICULO 511.
 
@@ -4277,13 +4189,11 @@ Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en
 
 La ejecución de la sentencia en lo relativo a la reparación del daño a cargo del delincuente, corresponde al Juez de Ejecución de Sanciones, ajustándose a las disposiciones de la ley procesal civil a ese respecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 515.
 
-Cuando los tribunales decreten la pérdida en favor del Estado, de instrumentos y objetos del delito, la confiscación de cosas peligrosas o nocivas o el decomiso de bienes pertenecientes al enriquecimiento ilícito, a que se refieren los Artículos 63, 64 y 65 del Código Penal, o producto del delito contra la salud en materia de narcomenudeo, se pondrán a disposición del Consejo de la Judicatura del Poder Judicial del Estado, quién determinará su destino, según su utilidad, para beneficio de la impartición de justicia o su inutilización, si fuere el caso.
+Cuando los tribunales decreten la pérdida en favor del Estado, de instrumentos y objetos del delito, la confiscación de cosas peligrosas o nocivas o el decomiso de bienes pertenecientes al enriquecimiento ilícito, a que se refieren los artículos 63, 64 y 65 del Código Penal para el Estado, se pondrán a disposición del Consejo de la Judicatura del Poder Judicial del Estado, quién determinará su destino, según su utilidad, para beneficio de la impartición de justicia o su inutilización, si fuere el caso.
 
 ### CAPITULO II. CONDENA CONDICIONAL
 
@@ -5212,3 +5122,9 @@ El Código de Procedimientos Penales del Estado de Tamaulipas, publicado en el A
 ###### ARTÍCULO CUARTO.
 
 El Código de Procedimientos Penales para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el 17 de enero de 1987 para efectos de su aplicación en los procedimientos penales iniciados por los delitos mencionados en la fracción I del artículo único del presente Decreto quedará abrogado; sin embargo, respecto a los procedimientos penales que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
