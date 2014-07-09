@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2014-04-15"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -318,7 +318,7 @@ VI. Resolver los recursos administrativos que les sean interpuestos cuando legal
 
 VII. Apoyar al Jefe de Gobierno en la planeación, conducción, coordinación, vigilancia y evaluación del desarrollo de las entidades paraestatales agrupadas en su subsector en congruencia con el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los demás programas que deriven de éste;
 
-VIII. En los juicios de amparo, el Jefe de Gobierno podrá ser representado por el titular de la dependencia a la que el asunto corresponda, según la distribución de competencias. En los juicios contencioso-administrativos, los titulares de las dependencias contestarán la demanda por sí y en representación del Jefe de Gobierno, y (sic)
+VIII. En los juicios de amparo, el Jefe de Gobierno podrá ser representado por el titular de la dependencia a la que el asunto corresponda, según la distribución de competencias. En los juicios contencioso-administrativos, los titulares de las dependencias contestarán la demanda por sí y en representación del Jefe de Gobierno, y
 
 IX. Comparecer ante la Asamblea Legislativa en los casos previstos por el Estatuto de Gobierno y la legislación aplicable.
 
@@ -610,7 +610,11 @@ XXII. Tener bajo su adscripción directa a la Procuraduría de la Defensa del Tr
 
 XXIII. Nombrar y remover a los Subprocuradores, Procuradores Auxiliares, peritos y demás personal de apoyo técnico-operativo de la Procuraduría de la Defensa del Trabajo, así como a los Inspectores y demás personal de la Inspección Local del Trabajo excepción hecha del Director General;
 
-XXIV. Fomentar y apoyar la organización social para el trabajo y el auto empleo;
+XXIV. Fomentar y apoyar la organización social para el trabajo y el auto empleo.
+
+> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2014)</small>
+
+Para cumplir con esta tarea deberá promover y difundir las herramientas disponibles y confiables para ofertar servicios profesionales a través de servicios de internet certificados.
 
 XXV. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo, para la protección de los trabajadores;
 
@@ -654,7 +658,7 @@ XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobie
 
 XII. Dirigir el Sistema del Deporte del Distrito Federal a través del Instituto del Deporte;
 
-XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Federal, a través del Instituto de la Juventud del Distrito Federal; y (sic)
+XIII. Contribuir al desarrollo integral de las y los jóvenes del Distrito Federal, a través del Instituto de la Juventud del Distrito Federal; y
 
 > <small>(ADICIONADA, G.O. 24 DE ENERO DE 2008)</small>
 
@@ -754,7 +758,7 @@ XII. Promover la realización de ferias, exposiciones y congresos, de carácter 
 
 XIII. Incentivar la creación y expansión de diversos mecanismos administrativos y gubernamentales que permitan fortalecer e incrementar las actividades científicas y de desarrollo tecnológico en la Ciudad;
 
-XIV. Definir políticas, instrumentos y medidas de apoyo a la ciencia, la tecnología y la innovación productiva por parte de la Administración Pública del Distrito Federal, y proponer e impulsar estímulos fiscales y financieros, así las (sic) facilidades administrativas en el Distrito Federal;
+XIV. Definir políticas, instrumentos y medidas de apoyo a la ciencia, la tecnología y la innovación productiva por parte de la Administración Pública del Distrito Federal, y proponer e impulsar estímulos fiscales y financieros, así (sic) las facilidades administrativas en el Distrito Federal;
 
 XV. Mantener actualizado el sistema local de documentación e información científica.
 
@@ -932,7 +936,7 @@ XIX. Promover la realización de ferias, exposiciones y congresos, de carácter 
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
-XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y (sic)
+XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
@@ -978,7 +982,7 @@ XIV. Establecer y promover políticas para la educación y participación comuni
 
 XV. Regular y controlar las actividades ambientalmente riesgosas, de conformidad con lo que establece la Ley Ambiental del Distrito Federal;
 
-XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y (sic)
+XVI. Realizar actividades de vigilancia y verificación ambiental, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia, y
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1078,7 +1082,7 @@ XVI. Fomentar la participación de las organizaciones civiles y comunitarias, de
 
 XVII. Apoyar iniciativas y proyectos de la sociedad relacionados con las materias a cargo de la Secretaría;
 
-XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y (sic)
+XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y
 
 XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1406,7 +1410,7 @@ XXII. Establecer la normatividad y control sobre la administración y enajenaci�
 
 XXIII. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole, necesarios para el ejercicio de las atribuciones del órgano ejecutivo local, excepto los relativos a obra pública, los servicios relacionados con ésta, la contratación de créditos o firma de títulos crediticios y otros que sean atribución de otra dependencia, unidad administrativa u órgano desconcentrado, o correspondan a una facultad indelegable del Jefe del Gobierno del Distrito Federal, y (sic)
+XXIV. Celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de cualquier índole, necesarios para el ejercicio de las atribuciones del órgano ejecutivo local, excepto los relativos a obra pública, los servicios relacionados con ésta, la contratación de créditos o firma de títulos crediticios y otros que sean atribución de otra dependencia, unidad administrativa u órgano desconcentrado, o correspondan a una facultad indelegable del Jefe del Gobierno del Distrito Federal, y
 
 > <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -1498,7 +1502,7 @@ XXX. A través del Órgano de Control Interno de la Contraloría General, vigila
 
 XXXI. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, políticas o lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, a efecto de eficientar los recursos y transparentar el manejo de los mismos;
 
-XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y (sic)
+XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y
 
 XXXIII. (DEROGADA, G.O. 15 DE ENERO DE 2014)
 
@@ -1814,7 +1818,7 @@ LXXV. Realizar recorridos periódicos, audiencias públicas y difusión pública
 
 LXXVI. Coordinar acciones de participación ciudadana en materia de prevención del delito;
 
-LXXVII. Promover, coordinar y fomentar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, y (sic)
+LXXVII. Promover, coordinar y fomentar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, y
 
 > <small>N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMA PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2014, SE ADVIERTE QUE EN DICHA PUBLICACIÓN SE ADICIONA LA FRACCIÓN LXXVIII SIN INDICAR LA REUBICACIÓN DE LAS SUBSECUENTES FRACCIONES TODA VEZ QUE YA EXISTÍAN.</small>
 
@@ -2517,3 +2521,11 @@ G.O. 15 DE ABRIL DE 2014.
 PRIMERO.- La participación equitativa del 50% en cargos públicos de mujeres y hombres, a la que se refiere el artículo 17, se dará de manera progresiva hasta que se complete en su totalidad para el inicio del ejercicio fiscal 2019.
 
 SEGUNDO.- La participación equitativa del 50% en cargos públicos de mujeres y hombres, a la que se refiere el artículo 39, se dará de manera progresiva hasta que se complete en su totalidad para el inicio del ejercicio fiscal 2016.
+
+G.O. 9 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
