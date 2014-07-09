@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "2012-05-18"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-01-15"
 
 LEY ORGÁNICA DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 9 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
@@ -1143,3 +1145,43 @@ G.O. 18 DE MAYO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal. Envíese al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 SEGUNDO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
+
+G.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal. Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Revisión de la Cuenta Pública del Ejercicio Fiscal 2012 y demás procedimientos de auditoria realizados de manera previa a la entrada en vigor de este Decreto, se tramitarán y resolverán de conformidad con la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y demás normatividad aplicable anterior a la expedición del presente Decreto; a partir (sic) la Revisión y fiscalización de la Cuenta Pública 2013 y procedimientos de auditoria relacionados con la misma, se tramitaran y resolverán atendiendo las disposiciones del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el término de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán expedirse las normas reglamentarias y realizarse las adecuaciones normativas que correspondan.
+
+###### ARTÍCULO CUARTO.
+
+El actual Contador Mayor de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal ejercerá el cargo de Auditor Superior de la Auditoría Superior de la Ciudad de México hasta concluir el periodo de siete años por el cual fue ratificado y designado por esta la Asamblea Legislativa y solo podrá ser removido del cargo por el voto de las tres cuartas partes de los diputados que integran la legislatura, en consecuencia deberán expedirse por la Mesa Directiva del Pleno de la Asamblea Legislativa y de las Comisiones de Gobierno y de Vigilancia los oficios y comunicados respectivos, así como ordenarse la publicación correspondiente en la Gaceta Oficial del Distrito Federal y Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales y humanos que conforman el patrimonio y estructura de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal sin más trámite o formalidad pasaran a formar parte del patrimonio y estructura de la Auditoría Superior de la Ciudad de México.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones legales, reglamentarias, administrativas y normativas que regulaban la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán aplicables y vigentes en lo que no se opongan al presente Decreto y hasta en tanto no se emita el Reglamento Interior de la Auditoria Superior de la Ciudad de México y se homologue y actualice su normatividad interna.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones jurídicas y normativas que en su contenido reserven denominación, atribuciones, facultades, derechos y obligaciones respecto de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, a partir de la entrada en vigencia del presente Decreto se deberán aplicar, referir, interpretar y entender en favor de la Auditoría Superior de la Ciudad de México.
+
+Lo anterior, atendiendo al principio de supremacía constitucional de conformidad con el Artículo 122, Apartado C, de la Constitución Política de los Estados Unidos Mexicanos y el Decreto de Reformas a los Artículos 73, 74, 79, 116, 122 y 134 de la Constitución Federal publicado en el Diario Oficial de la Federación el 7 de mayo de 2008.
+
+###### ARTÍCULO NOVENO.
+
+Los Derechos y prerrogativas laborales de los trabajadores de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán respetados por el presente Decreto y la Auditoría Superior de la Ciudad de México, por ende no serán objeto de restricción, privación o afectación con las modificaciones y cambios que se lleguen a realizar.
