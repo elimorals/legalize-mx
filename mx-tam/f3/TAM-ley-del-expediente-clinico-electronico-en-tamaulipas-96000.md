@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-expediente-clinico-electronico-en-tamaulipas-96000"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2013-09-17"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DEL EXPEDIENTE CLÍNICO ELECTRÓNICO EN TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR DE MANERA GRADUAL, QUEDÁNDO SUJETO A LA PARTIDA PRESUPUESTAL ASIGNADA EN EL DECRETO DEL PRESUPUESTO DE EGRESOS QUE EL EJECUTIVO ENVÍE AL CONGRESO DEL ESTADO, CON BASE EN LA DISPONIBILIDAD FINANCIERA DEL GOBIERNO ESTATAL.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -183,7 +181,7 @@ El programa será estadístico informático con el que se puedan trabajar grande
 
 ###### Artículo 31.
 
-La Secretaría de Salud deberá llevar un registro estatal de las personas a las que se le (sic) han emitido Expedientes Clínicos Electrónicos.
+La Secretaría de Salud deberá llevar un registro estatal de las personas a las que se le han emitido Expedientes Clínicos Electrónicos.
 
 El registro estatal del Expediente Clínico Electrónico, se proporcionará a través de la Clave Única de Registro de Población (CURP) y en el acto se registrarán las huellas dactilares de la persona.
 
@@ -321,21 +319,27 @@ Cualquier persona que haya denunciado presuntas violaciones a los derechos human
 
 ### CAPÍTULO VI. De las Sanciones
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+
 ###### Artículo 49.
 
-A quien adapte o remplace de manera dolosa datos del Expediente Clínico Electrónico se le impondrá una multa de 100 a 1,000 días de salario mínimo vigente en el Estado.
+A quien adapte o remplace de manera dolosa datos del Expediente Clínico Electrónico se le impondrá una multa de 50 a 150 días de salario mínimo vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### Artículo 50.
 
-Al personal médico que teniendo acceso haga lucro indebido, trate datos personales mediante el engaño o acose al titular, se le removerá su cédula profesional y el acceso al sistema del Expediente Clínico Electrónico y además se le sancionará con cinco a diez años de prisión.
+Al personal médico que teniendo acceso al Expediente Clínico Electrónico, utilice indebidamente o lucre con datos personales, mediante el engaño o acoso al titular de éstos, se le suspenderá del ejercicio profesional y el acceso al sistema del Expediente Clínico Electrónico y además se le sancionará con 150 a 300 días de salario mínimo vigente en el Estado, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
 
 ###### Artículo 51.
 
-En caso de que se compruebe el otorgamiento de información falsa por parte del paciente, que cause mala práctica médica por parte de los profesionales de la salud, se le impondrá una multa de 50 a 100 días de salario mínimo vigente en el Estado.
+(DEROGADO, P.O. 9 DE JULIO DE 2014)
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
 
 ###### Artículo 52.
 
-A la persona que ingrese al Expediente Clínico Electrónico de manera ilegal para alterar, interferir o copiar la información contenida en el mismo, se le sancionará con prisión de 1 año a 5 años de prisión.
+A la persona que ingrese al Expediente Clínico Electrónico de manera ilegal para alterar, interferir o copiar la información contenida en el mismo, se le sancionará con 100 a 250 días de salario mínimo vigente en el Estado, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
 
 T R A N S I T O R I O S
 
@@ -378,3 +382,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de agosto del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO.- NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
