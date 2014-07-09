@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2013-06-29"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -269,7 +269,13 @@ IX. Participar en la Comisión Estatal, en los términos del presente ordenamien
 
 X. Incluir anualmente en el Presupuesto de Egresos, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos de los programas correspondientes; y
 
-XI. Las que señale la Ley General, el presente ordenamiento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XI. Integrar y actualizar un padrón que deberá contener la información a que se refiere el artículo 62 de la presente Ley, respecto de las personas y organizaciones que reciban bienes o servicios con recursos municipales. Dicha información se integrará al Padrón General.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XII. Las que señale la Ley General, el presente ordenamiento y demás disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -377,7 +383,7 @@ VIII. Vivienda;
 
 IX. Generación y conservación del empleo, actividades productivas y empresas del sector social de la economía;
 
-X. Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y (sic)
+X. Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y
 
 XI. Atención de personas y grupos vulnerables, víctimas de desastres naturales, catástrofes o situaciones de emergencia.
 
@@ -1013,7 +1019,7 @@ VII. Incumplir con la obligación de mantener a disposición del público en gen
 
 VIII. Proporcionar datos falsos en los informes u omitir información;
 
-IX. Condicionar o discriminar a las personas en la prestación de bienes y servicios por motivos de origen étnico o nacional, género, edad, discapacidad, condición social, económica, salud, religión, opiniones, estado civil, preferencias sexuales o de cualquier índole, salvo que se trate de proyectos encaminados a atender a alguna categoría específica de personas; e (sic)
+IX. Condicionar o discriminar a las personas en la prestación de bienes y servicios por motivos de origen étnico o nacional, género, edad, discapacidad, condición social, económica, salud, religión, opiniones, estado civil, preferencias sexuales o de cualquier índole, salvo que se trate de proyectos encaminados a atender a alguna categoría específica de personas; e
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
 
@@ -1037,7 +1043,7 @@ I. Apercibimiento para que en un plazo no mayor de treinta días naturales conta
 
 II. Multa hasta por el equivalente a trescientos días de salario mínimo general vigente, correspondiente al área geográfica de la capital del estado, en caso de incumplir con el apercibimiento a que se refiere la fracción I del presente artículo o las fracciones VI, VII, VIII y IX del artículo 101;
 
-III. Suspensión hasta por cuatro años en el otorgamiento de recursos públicos, apoyos en especie o servicios, en caso de incumplir por más de una vez con cualquier obligación de las establecidas en el presente ordenamiento, siempre que hubiere dado origen a la aplicación de una multa; y (sic)
+III. Suspensión hasta por cuatro años en el otorgamiento de recursos públicos, apoyos en especie o servicios, en caso de incumplir por más de una vez con cualquier obligación de las establecidas en el presente ordenamiento, siempre que hubiere dado origen a la aplicación de una multa; y
 
 IV. Suspensión hasta por ocho años en el otorgamiento de recursos públicos, apoyos en especie o servicios en el caso de infracción reiterada o causa grave.
 
@@ -1136,3 +1142,9 @@ A partir de la entrada en vigor del presente ordenamiento, el Poder Ejecutivo de
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con cuatrocientos ochenta días hábiles para modificar las reglas de operación de los diversos programas y proyectos a fin de incluir los lineamientos respectivos al respeto del derecho a la autonomía y el consentimiento libre, previo e informado de los pueblos y las comunidades indígenas.
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
