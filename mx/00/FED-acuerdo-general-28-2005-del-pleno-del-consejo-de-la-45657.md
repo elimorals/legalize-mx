@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2011-03-01"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2014.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -63,7 +63,7 @@ IV. Comisión: Comisión de Administración del Consejo de la Judicatura Federal
 
 V. Magistrados y Jueces: Magistrados de Circuito y Jueces de Distrito;
 
-VI. Secretario de Finanzas: El Secretario Ejecutivo de Finanzas del Consejo de la Judicatura Federal;
+VI. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)
 
 > <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -85,7 +85,15 @@ XI. Jubilación: Es el retiro del servicio activo otorgado a los servidores púb
 
 - Jubilación anticipada, es la posibilidad que tienen los jueces y magistrados para solicitar su retiro voluntario cuando hayan cumplido 65 años de edad y, por lo menos, 25 años de servicio.
 
-XII. Pensión del ISSSTE: Es la retribución mensual que otorga el ISSSTE a los trabajadores que se jubilen, ya sea forzosa o anticipadamente, la que se concede de conformidad con lo previsto en los artículos 60 a 66 de la Ley del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado vigente en la fecha de firma del presente acuerdo, o bien, de acuerdo con las disposiciones que establezcan una prestación sustituta a la mencionada;
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+Se considera que para efectos del cálculo de la antigüedad de los Magistrados de Circuito y Jueces de Distrito, se debe atender a lo dispuesto en el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos que dispone que el ejercicio del Poder Judicial de la Federación se deposita en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito.
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+XII. Pensión del ISSSTE: Es la retribución mensual que otorga el ISSSTE a los trabajadores que se jubilen, de conformidad con lo previsto en la Ley del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+
+Para efectos del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, se considera como pensión del ISSSTE, el monto señalado como concepto "01 Pensión" del recibo de pago expedido por el propio Instituto;
 
 > <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
 
@@ -99,9 +107,9 @@ XIV. Pensión total por jubilación: Es la retribución mensual que se integra c
 
 XV. Plan: El Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto o, de existir, la partida presupuestal correspondiente; y
+XVI. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto y de existir, la partida presupuestal correspondiente; y
 
 > <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
 
@@ -112,6 +120,12 @@ XVII. Comité Técnico del Fideicomiso: El órgano creado por el Consejo como fi
 ###### Artículo 2 Bis.
 
 Se podrán recibir, por cualquier persona, donativos que permitan financiar el Plan regulado en este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+###### Artículo 2 Ter.
+
+El régimen de pensiones complementarias a que se refiere este Acuerdo se financiará con los fondos del fideicomiso de inversión que para tal efecto se haya constituido y, previa autorización del Pleno, con recursos presupuestales a través de la partida presupuestal correspondiente al Presupuesto de Egresos del Poder Judicial de la Federación.
 
 ## TITULO SEGUNDO. Del los Beneficiarios de la Pensión Complementaria
 
@@ -147,31 +161,37 @@ El monto de la pensión complementaria se deberá calcular conforme a las reglas
 
 La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta un 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban Jueces de Distrito o Magistrados de Circuito en activo, y se integrará de la siguiente manera:
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-I. Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de veintisiete de diciembre de mil novecientos ochenta y tres, o que hayan optado por el sistema previsto en el artículo décimo transitorio de la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad aplicable y la asignada como pensión complementaria.
+I.- Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicada en el Diario Oficial de la Federación de 27 de diciembre de 1983, o que hayan optado por el sistema previsto en el artículo Décimo Transitorio de la Ley del Instituto de Seguridad Social de los Trabajadores del Estado, publicada en el Diario Oficial de la Federación el 31 de marzo de 2007, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad vigente y la asignada por el Consejo como pensión complementaria.
 
-Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por Servicios al Personal, conforme al incremento que sufra la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
+Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por Servicios al Personal, conforme al incremento de la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban Jueces de Distrito o Magistrados de Circuito en activo.
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por una aportación base de diez salarios mínimos mensuales generales vigentes para el Distrito Federal el día de su retiro, que será considerada provisionalmente como pensión, conforme a las nuevas disposiciones de la Ley del ISSSTE para estos casos, y la asignada como pensión complementaria.
+II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, publicada en el Diario Oficial de la Federación de 31 de marzo de 2007, la pensión total por jubilación estará integrada por una aportación base de diez veces el salario mínimo general mensual vigente para el Distrito Federal el día de su retiro, y la asignada como pensión complementaria.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 35/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al trabajador a través del PENSIONISSSTE o de la institución que maneje su cuenta individual y se le pagarán o retendrán, por Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80%, sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban Jueces de Distrito o Magistrados de Circuito en activo, según las reglas del presente Acuerdo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-Estas pensiones deberán asimismo ajustarse anualmente por Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate.
+Estas pensiones deberán asimismo ajustarse anualmente por Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban Jueces de Distrito o Magistrados de Circuito en activo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+Sobre el importe de la pensión complementaria que otorgue el Consejo, en términos de la fracción I o de la fracción II de este artículo, según proceda, se aplicará la retención del impuesto sobre la renta, observando lo previsto por las disposiciones aplicables de la Ley del Impuesto Sobre la Renta, sin que para el cálculo de la aludida retención se considere el importe de la pensión otorgada por el ISSSTE, ya que dicho Instituto respecto de la pensión que otorgue, de proceder conforme a la mencionada ley, hará lo propio.
 
 ###### Artículo 5.
 
 Los montos de las pensiones complementarias serán determinados conforme a las reglas de este acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
 ###### Artículo 6.
 
-La Comisión deberá ordenar, al menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinidida (sic) del Plan, teniendo siempre como objetivo, alcanzar el porcentaje establecido en el artículo 4 de este Acuerdo.
+La Comisión deberá ordenar, por lo menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinida del Plan, teniendo siempre como objetivo, observar lo establecido en los artículos 4 y 5 de este Acuerdo.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -185,6 +205,10 @@ Para calcular cada pensión en particular, el titular de Servicios al Personal d
 
 En relación con las pensiones complementarias a que se refiere este acuerdo podrá negarse su otorgamiento, o bien, respecto de aquellas que se hubieran concedido, podrán dejarse de otorgar o modificarse en cantidad o en el lapso durante el cual se otorgarán, en cualquier momento, por decisión del Pleno, aun cuando se cumplan todas las condiciones que en él se establecen, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+En el supuesto de que los servidores públicos que con antelación a su jubilación o durante, o con posterioridad a dicho evento, sean sujetos de algún procedimiento de responsabilidad de conformidad con las disposiciones aplicables, durante la sustanciación del mismo, el Pleno determinará si el magistrado o juez podrá recibir o continuar percibiendo la pensión complementaria a que tiene o pudiese tener derecho en los términos del artículo 9 de este Acuerdo General; en caso de ser sancionados o condenados por una conducta calificada como grave, se suspenderá en definitiva la pensión complementaria.
+
 ## TITULO CUARTO. De la Procedencia de la Pensión Complementaria
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
@@ -197,9 +221,13 @@ I. Para tener derecho al total de la pensión complementaria por jubilación for
 
 II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los Magistrados y Jueces deberán haber cumplido, cuando menos, 65 años de edad y 25 años de servicio en el Poder Judicial; en cuyo caso, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 13 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
 ###### Artículo 10.
 
-La hipótesis prevista en la fracción I del artículo 9 de este Acuerdo se equipara al retiro por incapacidad física o mental, siempre que tal circunstancia sea diagnosticada por el servicio médico del ISSSTE.
+Los Magistrados y Jueces a los que el ISSSTE, diagnostique una incapacidad física o mental permanente, de conformidad con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, tendrán derecho a una pensión total del 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban Jueces de Distrito o Magistrados de Circuito en activo.
+
+Los beneficiarios de los servidores públicos que reciban esta pensión se regirán por lo previsto en los artículos 3 y 14 de este Acuerdo General.
 
 ###### Artículo 11.
 
@@ -219,9 +247,9 @@ Los montos de las pensiones complementarias a que se refiere este Acuerdo se suj
 
 I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria ser menor al 25% del salario neto que perciban Jueces de Distrito o Magistrados de Circuito en activo; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADO PRIMER PARRAFO] POR EL PUNTO UNICO DEL ACUERDO GENERAL 8/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-II. La pensión complementaria por jubilación anticipada se determinará mediante una proporción ascendente que de manera equitativa considere los años de servicio y la edad en una línea oblicua. En los casos en que el funcionario determine su retiro después de los 70 años de edad, se establecerá una compensación que le permita alcanzar con mayor anticipación el total de la pensión. Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación, sin que éste en ningún caso llegue a exceder los porcentajes a que se refiere la fracción I:
+II.- La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua. Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación sin que éste en ningún caso llegue a exceder los porcentajes a que se refiere la fracción que antecedente:
 
 1.- A los 65 años de edad y:
 
@@ -381,21 +409,19 @@ La información anterior se representa gráficamente en la siguiente tabla:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
 ###### Artículo 14.
 
-La pensión total por jubilación para los beneficiarios a que se refiere el artículo 3, fracciones II y III, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, podrá ser superior a tal porcentaje.
+La pensión total por jubilación para los beneficiarios a que se refiere el artículo 3, fracciones II y III, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual neto que perciban Jueces de Distrito o Magistrados de Circuito en activo.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
 ###### Artículo 15.
 
-No obstante lo previsto en el artículo 4 de este acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del Plan, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
+No obstante lo previsto en los artículos 4 y 5 de este Acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del mismo, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 35/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
-
-En ejercicio de dichas atribuciones, el Pleno del Consejo de la Judicatura Federal podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del salario neto que perciban Jueces de Distrito o Magistrados de Circuito en activo.
+En ejercicio de dichas atribuciones, el Pleno podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del sueldo mensual neto que perciban magistrados de Circuito o jueces en activo.
 
 ## TITULO SEXTO. Del Procedimiento de Solicitud de la Pensión Complementaria
 
@@ -429,6 +455,14 @@ Las resoluciones serán firmadas por el Presidente de la Comisión, por el titul
 
 Las resoluciones que determinen sobre la procedencia o no de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los quince días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución. Asimismo, se deberá remitir una copia certificada de dicha resolución a la Dirección General de Recursos Humanos para que sea agregada al expediente personal respectivo.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+El titular de Servicios al Personal deberá instrumentar los mecanismos para la implementación de un programa de revisión de supervivencia, que se llevará a cabo dos veces al año.
+
+De los resultados que se obtengan se elaborará un informe, el cual deberá ser presentado a la Comisión de Administración.
+
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 50/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 20.
@@ -459,23 +493,25 @@ En contra de la resolución que decida sobre el recurso de reconsideración no p
 
 ## TITULO OCTAVO. Del Pago de la Pensión Complementaria
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 37/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 26.
 
 El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere la fracción I del artículo 3 de este Acuerdo, se origina a partir del día siguiente a la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
-El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir de la fecha de baja del servidor público, salvo lo dispuesto en el segundo párrafo del artículo 16 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
+El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir del día siguiente de la baja del servidor público, salvo lo dispuesto en el segundo párrafo del artículo 16 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 22/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
 
 ###### Artículo 26 Bis.
 
-En caso de que cualquiera de los beneficiarios de la pensión complementaria, a que se refiere el artículo 3 de este Acuerdo, no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión podrá autorizar el pago anticipado de una cantidad equivalente al cincuenta por ciento de la pensión complementaria que aproximadamente se calcule le habrá de corresponder.
+En caso de que cualquiera de los beneficiarios de la pensión complementaria, a que se refiere el artículo 3 de este Acuerdo, no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión podrá autorizar, previa solicitud por escrito, el pago anticipado de una cantidad equivalente al 50% de la pensión complementaria que aproximadamente se calcule le habrá de corresponder.
 
-El pago de este anticipo se realizará, según corresponda, conforme a las reglas previstas en los artículos 26 y 27 del presente Acuerdo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+El pago de este anticipo se realizará, según corresponda, conforme a las reglas previstas en el presente Acuerdo.
 
 Cuando el ISSSTE cuantifique la pensión a su cargo, Servicios al Personal realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes a favor del beneficiario, lo cual deberá informarse a la Comisión.
 
@@ -511,9 +547,13 @@ El titular de Servicios al Personal informará mensualmente a la Comisión de la
 
 ## TITULO NOVENO. De la Suspensión y Cancelación de la Pensión Complementaria
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
 ###### Artículo 31.
 
-(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 42/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)
+Se suspenderá el pago de la pensión complementaria cuando el magistrado de Circuito o juez de Distrito jubilado que la estuviere recibiendo, por cualquier causa, regresare al servicio activo en cualquier cargo dentro del Poder Judicial de la Federación.
+
+La suspensión surtirá efectos a partir de la fecha de reinicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario señalado en el párrafo que antecede se retire del servicio activo del Poder Judicial de la Federación, siempre y cuando no reciba alguna otra pensión en el Poder Judicial de la Federación.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 42/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2008)</small>
 
@@ -535,6 +575,12 @@ Tratándose del supuesto previsto en la fracción III del artículo 3 de este Ac
 
 Para efectos de los (sic) dispuesto en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se publicará trimestralmente la información del fideicomiso constituido por el Consejo para financiar el Plan, y se remitirá a las autoridades que conforme a la ley corresponda.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 15/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE JULIO DE 2014)</small>
+
+###### Artículo 35.
+
+La Comisión es el órgano encargado de interpretar las disposiciones de este Acuerdo, así como de resolver las situaciones no previstas en el mismo, para lo cual en su caso, podrá solicitar la opinión de las áreas correspondientes.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Acuerdo entrará en vigor a partir del uno de septiembre de dos mil cinco.
@@ -547,7 +593,7 @@ CUARTO.- En caso de que los funcionarios mencionados en el artículo anterior, n
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de trece de julio de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente en funciones Ministro Juan Díaz Romero, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a trece de julio de dos mil cinco.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE MARZO DE 2006.
 
@@ -662,3 +708,9 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 35/2010, que Reforma los Artículos 4, Párrafos Primero y Penúltimo, 13, Fracción I y 15, Párrafo Segundo, del Diverso Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 9 DE JULIO DE 2014.
+
+PRIMERO. El presente entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
