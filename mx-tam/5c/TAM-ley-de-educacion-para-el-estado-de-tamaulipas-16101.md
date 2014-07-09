@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2014-04-03"
+last_updated: "2014-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -377,39 +377,43 @@ XIV.- Fomentar las actividades de educación física, de cuidado al medio ambien
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas y atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de la realización de estudios clínicos, buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+XVII.- Promover entre los padres de familia o tutores la realización de estudios clínicos en los educandos, cuando se advierta la necesidad de efectuarlos;
+
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas y atendiendo a sus respectivos ámbitos de competencia, las disposiciones administrativas de carácter general aplicables en los planteles incorporados al mismo para el fomento de buenas prácticas nutricionales y hábitos saludables de alimentación en docentes, en la familia y estudiantes del Sistema Estatal de educación;
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-XVII.- Emprender acciones concretas para alcanzar la paridad de representación entre varones y mujeres en las actividades que se describen en las fracciones anteriores;
+XVIII.- Emprender acciones concretas para alcanzar la paridad de representación entre varones y mujeres en las actividades que se describen en las fracciones anteriores;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XVIII.- Coadyuvar con el fomento de la igualdad entre la familia en la crianza y cuidado de las y los hijos;
+XIX.- Coadyuvar con el fomento de la igualdad entre la familia en la crianza y cuidado de las y los hijos;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XIX.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con las disposiciones generales que la Secretaría determine, conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
+XX.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con las disposiciones generales que la Secretaría determine, conforme a lo dispuesto por la Ley General del Servicio Profesional Docente;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XX.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
+XXI.- Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y la diversidad educativa;
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXI.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos las autoridades educativas deberán coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Secretaría y demás disposiciones aplicables.
+XXII.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos las autoridades educativas deberán coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Secretaría y demás disposiciones aplicables.
 
 Las autoridades educativas participarán en la actualización e integración permanente del Sistema de Información y Gestión Educativa, mismo que también deberá proporcionar información para satisfacer las necesidades de operación de los sistemas educativos.
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar, y
+XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar, y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXIII.- Las demás que le establezcan las disposiciones aplicables.
+XXIV.- Las demás que le establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -1129,7 +1133,7 @@ I.- La formación, con nivel de licenciatura, de docentes de educación inicial,
 
 II.- La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior. El cumplimiento de estas finalidades se sujetará, en lo conducente, a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
 
-III.- La implementación y practica de programas de especializaciones, maestrías y doctorados, adecuados a las necesidades y recursos educativos de la Entidad; y (sic)
+III.- La implementación y practica de programas de especializaciones, maestrías y doctorados, adecuados a las necesidades y recursos educativos de la Entidad; y
 
 IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
 
@@ -2106,6 +2110,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE ABRIL DE 2014.
 
 DECRETO NO. LXII-219 POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NO. LXII-208, DE FECHA 7 DE MARZO DE 2014, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULlPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
