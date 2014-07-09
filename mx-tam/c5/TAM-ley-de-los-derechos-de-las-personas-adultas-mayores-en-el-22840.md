@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2010-12-16"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -113,7 +113,7 @@ II.- Participación: La intervención de las personas adultas mayores en la vida
 
 III.- Equidad: El trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia;
 
-IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y (sic)
+IV.- Corresponsabilidad: La concurrencia de los sectores público y social, y en especial, de las familias con una actitud de responsabilidad compartida, para la consecución del objeto de esta ley; y
 
 V.- Atención diferenciada: Aquella que obliga a las autoridades del Gobierno del Estado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
 
@@ -511,6 +511,10 @@ VII.- Expedir copia del expediente en caso de que sea solicitado por sus familia
 
 VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
 
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
+
+IX.- Llevar un diario de las visitas que se le realicen, en caso de abandono por un periodo mayor a 30 días se dará aviso inmediato al Ministerio Público.
+
 ###### ARTICULO 30.
 
 En todo momento las Instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta ley les consagra.
@@ -560,5 +564,11 @@ Artículo Único. El presente Decreto entrará en vigor el día siguiente al de 
 P.O. 16 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
