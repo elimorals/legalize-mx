@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2014-07-02"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -35,6 +35,8 @@ DECRETO
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA
 
 D E C R E T A :
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 9 DE JULIO DE 2014, LAS DISPOSICIONES JURÍDICAS Y NORMATIVAS QUE EN SU CONTENIDO RESERVEN DENOMINACIÓN, ATRIBUCIONES, FACULTADES, DERECHOS Y OBLIGACIONES RESPECTO DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, A PARTIR DE LA ENTRADA EN VIGENCIA DEL PRESENTE DECRETO SE DEBERÁN APLICAR, REFERIR, INTERPRETAR Y ENTENDER EN FAVOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO.</small>
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
@@ -114,7 +116,9 @@ IV.- Formular observaciones al Programa General de Desarrollo del Distrito Feder
 
 V.- Formular su proyecto de presupuesto que enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste ordene su incorporación en el proyecto de Presupuesto de Egresos del Distrito Federal. La Asamblea manejará, administrará y ejercerá de manera autónoma su presupuesto;
 
-VI.- Revisar la Cuenta Pública del año anterior que le remita el Jefe de Gobierno del Distrito Federal, para lo cual dispondrá de un órgano técnico denominado Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, que se regirá, por su propia Ley Orgánica y su Reglamento Interior, y dependerá, para su funcionamiento, de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+
+VI.- Revisar la Cuenta Pública del año anterior que le remita el Jefe de Gobierno del Distrito Federal, para lo cual dispondrá de un órgano técnico denominado Auditoria Superior de la Ciudad de México, que se regirá, por la Ley de Fiscalización Superior de la Ciudad de México y su Reglamento Interior, y dependerá, para su funcionamiento, de la Comisión de Vigilancia de la Auditoria Superior de la Asamblea Legislativa del Distrito Federal;
 
 VII.- Aprobar los Programas de Desarrollo Urbano del Distrito Federal, de acuerdo con los procedimientos y requisitos establecidos en la ley de la materia;
 
@@ -132,7 +136,9 @@ XII.- Elegir a los miembros del Consejo General del Instituto Electoral del Dist
 
 XIII.- Designar a dos Consejeros de la Judicatura del Distrito Federal, en los términos de la fracción II de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIV.- Designar o remover a los titulares de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en términos de lo dispuesto por esta ley y por la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+
+XIV.- Designar o remover al titular de la Auditoria Superior de la Ciudad de México, en términos de lo dispuesto por esta ley y por la Ley de Fiscalización Superior de la Ciudad de México y la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
@@ -154,9 +160,11 @@ c).- El Presidente de la Comisión de Derechos Humanos del Distrito Federal; y
 
 d).- El Contralor General de la Administración Pública del Distrito Federal.
 
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+
 XIX.- Recibir y analizar los informes trimestrales que le envíe el Jefe de Gobierno del Distrito Federal, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, estos informes deberán ser recibidos dentro de los cuarenta y cinco días siguientes a la fecha de corte del período respectivo.
 
-Los resultados de dicho análisis, se considerarán para la revisión de la Cuenta Pública que realice la Contaduría Mayor de Hacienda de la propia Asamblea;
+Los resultados de dicho análisis, se considerarán para la revisión de la Cuenta Pública que realice la Auditoria Superior de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -284,7 +292,7 @@ El Presidente de la Mesa Directiva y, durante los recesos del Pleno, el Presiden
 
 Todo acto de autoridad que vulnere el fuero de los Diputados o la inviolabilidad del recinto, deberá analizarse por la Asamblea, la cual, en su caso, exigirá la aplicación de las medidas procedentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2014
 
 ###### ARTÍCULO 17.
 
@@ -686,7 +694,9 @@ VII.- Proponer a la Asamblea dos Consejeros de la Judicatura del Distrito Federa
 
 La aprobación de esta propuesta, requerirá del voto de la mayoría de los diputados presentes en la sesión de Pleno respectiva;
 
-VIII.- Designar o suspender provisionalmente, a los titulares de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en términos de lo dispuesto por esta Ley y por su Ley Orgánica;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+
+VIII.- Designar o suspender provisionalmente al titular de la Auditoria Superior de la Ciudad de México, en términos de lo dispuesto por esta Ley, la Ley de Fiscalización Superior de la Ciudad de México, y la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México;
 
 IX.- Convocar a Sesiones Extraordinarias de acuerdo con lo establecido en el artículo 27 de la presente ley;
 
@@ -916,7 +926,9 @@ I.- Comisión de Gobierno;
 
 II.- De Análisis y Dictamen Legislativo;
 
-III.- De Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+
+III.- De Vigilancia de la Auditoria Superior de la Ciudad de México;
 
 IV.- De Investigación;
 
@@ -936,11 +948,11 @@ VII.- De Vigilancia y Evaluación de Políticas y Programas Sociales.
 
 Cada comisión y comité tendrá una Secretaría Técnica quienes formarán parte de la estructura de la Asamblea Legislativa, y estará bajo la dirección del Presidente de la misma, a la que corresponderá apoyar los trabajos de la comisión, en los términos que disponga el Reglamento para el Gobierno Interior y el Reglamento Interior de las Comisiones de la Asamblea Legislativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 61.
 
-Las comisiones de Análisis y Dictamen Legislativo, de Vigilancia de la Contaduría Mayor de Hacienda y de Vigilancia y Evaluación de Políticas y Programas Sociales, se constituyen con carácter definitivo y funcionan para toda una legislatura. Para los efectos de esta ley son permanentes y se denominan ordinarias.
+Las comisiones de Análisis y Dictamen Legislativo, de Vigilancia de la Auditoria Superior de la Ciudad de México y de Vigilancia y Evaluación de Políticas y Programas Sociales, se constituyen con carácter definitivo y funcionan para toda una legislatura. Para los efectos de esta ley son permanentes y se denominan ordinarias.
 
 Las comisiones ordinarias se integrarán e instalaran durante el mes de septiembre del año en que se inicie la legislatura.
 
@@ -1108,9 +1120,9 @@ XXXIII.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
 
 XXXIV.- Vivienda;
 
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
 
-XXXV.- Vigilancia de la Contaduría Mayor de Hacienda, y
+XXXV. Vigilancia de la Auditoria Superior de la Ciudad de México, y
 
 > <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1154,9 +1166,11 @@ Las propuestas de modificación que, en su caso, se incluyan en las opiniones a 
 
 La comisión o comisiones dictaminadoras del Presupuesto de egresos del Distrito Federal, decidirán sobre la inclusión de las opiniones emitidas por las comisiones ordinarias, de acuerdo a la disponibilidad de recursos y en cumplimiento a lo establecido en la Ley de Presupuesto y Gasto Eficiente.
 
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 65.
 
-La Comisión de Vigilancia de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal ejercerá sus funciones conforme a la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en lo que le corresponda.
+La Comisión de Vigilancia de la Auditoria Superior de la Ciudad de México ejercerá sus funciones conforme a esta Ley y la Ley de Fiscalización Superior de la Ciudad de México, en lo que le corresponda.
 
 > <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1510,7 +1524,9 @@ a). Tributario fiscal así como de Egresos del Distrito Federal;
 
 b). Régimen interno de la Administración Pública del Distrito Federal;
 
-c). Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda;
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
+
+c). Regulación interna de la Asamblea Legislativa y de la Auditoria Superior de la Ciudad de México;
 
 d). Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y
 
@@ -2275,3 +2291,43 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
 
 TERCERO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 9 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal. Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+La Revisión de la Cuenta Pública del Ejercicio Fiscal 2012 y demás procedimientos de auditoria realizados de manera previa a la entrada en vigor de este Decreto, se tramitarán y resolverán de conformidad con la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y demás normatividad aplicable anterior a la expedición del presente Decreto; a partir (sic) la Revisión y fiscalización de la Cuenta Pública 2013 y procedimientos de auditoria relacionados con la misma, se tramitaran y resolverán atendiendo las disposiciones del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el término de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán expedirse las normas reglamentarias y realizarse las adecuaciones normativas que correspondan.
+
+###### ARTÍCULO CUARTO.
+
+El actual Contador Mayor de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal ejercerá el cargo de Auditor Superior de la Auditoría Superior de la Ciudad de México hasta concluir el periodo de siete años por el cual fue ratificado y designado por esta la (sic) Asamblea Legislativa y solo podrá ser removido del cargo por el voto de las tres cuartas partes de los diputados que integran la legislatura, en consecuencia deberán expedirse por la Mesa Directiva del Pleno de la Asamblea Legislativa y de las Comisiones de Gobierno y de Vigilancia los oficios y comunicados respectivos, así como ordenarse la publicación correspondiente en la Gaceta Oficial del Distrito Federal y Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales y humanos que conforman el patrimonio y estructura de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal sin más trámite o formalidad pasaran a formar parte del patrimonio y estructura de la Auditoría Superior de la Ciudad de México.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal y se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones legales, reglamentarias, administrativas y normativas que regulaban la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán aplicables y vigentes en lo que no se opongan al presente Decreto y hasta en tanto no se emita el Reglamento Interior de la Auditoria Superior de la Ciudad de México y se homologue y actualice su normatividad interna.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones jurídicas y normativas que en su contenido reserven denominación, atribuciones, facultades, derechos y obligaciones respecto de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, a partir de la entrada en vigencia del presente Decreto se deberán aplicar, referir, interpretar y entender en favor de la Auditoría Superior de la Ciudad de México.
+
+Lo anterior, atendiendo al principio de supremacía constitucional de conformidad con el Artículo 122, Apartado C, de la Constitución Política de los Estados Unidos Mexicanos y el Decreto de Reformas a los Artículos 73, 74, 79, 116, 122 y 134 de la Constitución Federal publicado en el Diario Oficial de la Federación el 7 de mayo de 2008.
+
+###### ARTÍCULO NOVENO.
+
+Los Derechos y prerrogativas laborales de los trabajadores de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal serán respetados por el presente Decreto y la Auditoría Superior de la Ciudad de México, por ende no serán objeto de restricción, privación o afectación con las modificaciones y cambios que se lleguen a realizar.
