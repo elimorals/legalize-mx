@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2014-04-03"
+last_updated: "2014-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -1331,7 +1331,9 @@ VII.- Por realizar servicio de transporte privado de carga o de pasajeros sin co
 
 VIII.- En el caso de que los vehículos afectados a la concesión o permiso sean conducidos por personas que carezcan de licencia para conducir, se retirarán de inmediato de la circulación y se sancionará a los propietarios de los mismos, con multa de 80 a 100 días de salario mínimo tratándose de unidades de pasajeros y de 60 a 80 días de salario mínimo en el caso de unidades de carga;
 
-IX.- Por conducir vehículos bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica se impondrá multa de 250 a 300 días de salario mínimo en el caso de unidades de pasajeros y de 180 a 200 días de salario mínimo en el caso de servicio de carga, sin perjuicio de la detención del vehículo y la responsabilidad en que se pudiera incurrir;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
+
+IX.- Al chofer que conduzca una unidad prestadora del servicio público de transporte bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica, se le revocará el Tarjetón de Identidad para conducir vehículos automotores previsto en el Reglamento de Transporte del Estado, sin perjuicio de las responsabilidades y acciones adicionales que además se originen;
 
 X.- Cuando las unidades de transporte afectas a la concesión o permiso, no respeten el derecho establecido para el paso de peatones en la vía de circulación o invadan los accesos peatonales establecidos, se impondrá multa de 60 a 80 días de salario mínimo tratándose de servicio de pasajeros y de 40 a 60 días de salario mínimo tratándose de servicio de carga;
 
@@ -1586,6 +1588,12 @@ SEGUNDO. Para efectos de la actualización de las placas y la documentación con
 Lo anterior, para efectos de la no aplicación de la multa señalada en la fracción XIX del artículo 119 que se adiciona mediante el presente Decreto, sin demérito del retiro de las unidades a los depósitos de guarda y custodia de vehículos infraccionados, hasta el cumplimiento sus obligaciones.
 
 P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
