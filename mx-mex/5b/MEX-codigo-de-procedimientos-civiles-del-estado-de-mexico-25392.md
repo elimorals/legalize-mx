@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2013-11-29"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2014.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Inicio dispositivo e impulso procesal oficioso
-
-###### Artículo 1.
-
-2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
-
 Ejercicio de la jurisdicción
 
 ###### Artículo 1.
 
 1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
+
+Inicio dispositivo e impulso procesal oficioso
+
+###### Artículo 1.
+
+2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
 
 Normas genéricas de la jurisdicción
 
@@ -905,11 +905,11 @@ Revocación de representante común
 
 Autorización de las promociones
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2014)</small>
 
 ###### Artículo 1.
 
-94.- Los Licenciados en Derecho autorizarán con su firma toda promoción escrita o verbal de sus clientes. Sin ese requisito, no se les dará curso; con excepción de los juicios de violencia familiar y de alimentos donde el Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar y de alimentos, no quede en estado de indefensión y para ello, tomará la medida citada en el artículo anterior y el defensor público, hará suya o ratificará la demanda.
+94.- Los Licenciados en Derecho podrán autorizar con su firma toda promoción escrita o verbal de sus clientes, para justificar su patrocinio. La falta de firma del profesional, no impedirá que se les dé curso; en los juicios de violencia familiar y de alimentos el Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar y de alimentos no quede en estado de indefensión cuando no cuente con licenciado en derecho que lo patrocine y para ello, tomará la medida citada en el artículo anterior y el defensor público lo asistirá en las diligencias en la que deba intervenir.
 
 Exhibición de cédula profesional
 
@@ -3177,11 +3177,9 @@ Plazo para interponer la queja
 
 394.- El recurso de queja se interpondrá a los tres días siguientes de notificado el auto que se reclama, ante el Juez donde se tramita el juicio y se substanciará sin suspensión del procedimiento.
 
-Garantía para admitir la queja
-
 ###### Artículo 1.
 
-395.- Al interponer el recurso, el quejoso deberá exhibir garantía equivalente a treinta días de salario mínimo vigente en la región, si se trata de queja interpuesta contra un Juez de Primera Instancia y de veinte días de salario mínimo si se refiere a Juez de Cuantía Menor. De no exhibir la garantía no se admitirá el recurso.
+395.- (DEROGADO, G.G. 10 DE JULO DE 2014)
 
 Remisión e informe justificado
 
@@ -3205,11 +3203,9 @@ Efectos de la queja
 
 398.- Si se declara fundada la queja, se ordenará admitir la demanda o apelación.
 
-Queja infundada
-
 ###### Artículo 1.
 
-399.- Si la queja es infundada se impondrá, a la parte quejosa y a su abogado, solidariamente, una multa hasta de treinta días de salario mínimo vigente en la región, si se trata de un Juez de Primera Instancia y hasta de veinte días si se refiere a uno de Cuantía Menor.
+399.- (DEROGADO, G.G. 10 DE JULO DE 2014)
 
 # LIBRO SEGUNDO. Función Jurisdiccional
 
@@ -8664,3 +8660,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes d
 TERCERO.- Los asuntos que hayan sido turnados, así como los que se encuentren en trámite ante los órganos jurisdiccionales a los que hace mención la reforma propuesta, continuarán con su substanciación hasta su conclusión, igual circunstancia se observará en las salas del Tribunal Superior de Justicia del Estado, hasta la entrada en vigor del presente Decreto.
 
 CUARTO.- El Consejo de la Judicatura deberá emitir los lineamientos administrativos referentes al sistema de remisión de exhortos y despachos por medios electrónicos, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+G.G. 10 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
