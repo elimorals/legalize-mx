@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2014-06-30"
+last_updated: "2014-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -371,7 +371,9 @@ c) Apoyar las acciones de todos aquellos organismos públicos y privados que des
 
 d) Proporcionar los elementos necesarios que requiera el funcionamiento del Patronato del Estudiante Sudcaliforniano, en los términos de las disposiciones legales que resulten aplicables;
 
-e) Coordinar al Instituto Sudcaliforniano de la Mujer, al Instituto Sudcaliforniano de Cultura, al Instituto Sudcaliforniano del Deporte y al Instituto Sudcaliforniano de la Juventud; y
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
+e) Coordinar al Instituto Sudcaliforniano de las Mujeres, al Instituto Sudcaliforniano de Cultura, al Instituto Sudcaliforniano del Deporte y al Instituto Sudcaliforniano de la Juventud; y
 
 f) Atender la política en materia de población.
 
@@ -471,7 +473,7 @@ q) A través de su titular, autorizar a servidores públicos para que a su vez a
 
 Las disposiciones reglamentarias determinarán la forma en la que los servidores públicos a que se refiere el presente inciso acreditarán ante las instituciones bancarias, la personalidad con la que se ostenten y el documento administrativo mediante el cual son autorizados por el Secretario de Finanzas.
 
-r) Cubrir oportunamente, los compromisos de pago con los trabajadores y demás acreedores del Gobierno del Estado; y (sic)
+r) Cubrir oportunamente, los compromisos de pago con los trabajadores y demás acreedores del Gobierno del Estado; y
 
 s) Vigilar que los servidores públicos que manejen fondos del Estado caucionen debidamente su manejo;
 
@@ -629,7 +631,7 @@ e) Mantener por sí, o en coordinación con los Gobiernos Federal y Municipales,
 
 f) Proponer criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado;
 
-g) Otorgar becas de conformidad con las disposiciones aplicables, sin perjuicio de las atribuciones que competan a otras dependencias o entidades; y (sic)
+g) Otorgar becas de conformidad con las disposiciones aplicables, sin perjuicio de las atribuciones que competan a otras dependencias o entidades; y
 
 h) Supervisar la celebración y cumplimiento de los convenios que en materia educativa, cultural, ciencia y tecnología, deportiva, recreativa, artística y de aprovechamiento del tiempo libre, suscriban los organismos sectorizados a esta Secretaría.
 
@@ -711,7 +713,7 @@ m) Participar en las actividades de la entidad paraestatal encargada, entre otro
 
 n) Proponer, orientar y estimular el desarrollo de la micro, pequeña y medianas empresas y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
 
-o) Fomentar, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico; y (sic)
+o) Fomentar, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico; y
 
 p) Conducir las acciones de la Administración Pública del Estado, relacionadas con la simplificación administrativa y la desregulación de trámites e instrumentos normativos de carácter estatal.
 
@@ -1119,9 +1121,9 @@ h) Fungir como órgano de asesoría y capacitación hacia las demás dependencia
 
 i) Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, substanciar el procedimiento administrativo disciplinario que establezca la ley de la materia; y en su caso hacerlo del conocimiento de las autoridades correspondientes;
 
-j) Procurar el resarcimiento de los daños patrimoniales ocasionados a la Administración Pública del Estado por la actividad irregular u omisión de los servidores públicos; y (sic)
+j) Procurar el resarcimiento de los daños patrimoniales ocasionados a la Administración Pública del Estado por la actividad irregular u omisión de los servidores públicos; y
 
-k) Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado. (sic)
+k) Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado.
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -1612,3 +1614,9 @@ B.O. 30 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2014.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
