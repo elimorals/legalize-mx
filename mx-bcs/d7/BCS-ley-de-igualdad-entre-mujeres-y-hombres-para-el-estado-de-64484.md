@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-64484
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2014-04-30"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2008.
 
@@ -57,9 +57,11 @@ Son sujetos de los derechos que protege esta Ley, las mujeres y los hombres que 
 
 El incumplimiento a la presente Ley, se castigará de conformidad con la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley Estatal para Prevenir la Discriminación en el Estado de Baja California Sur, la Ley de la Comisión Estatal de Derechos Humanos, la Ley del Instituto Sudcaliforniano de la Mujer, los Tratados Internacionales debidamente ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley Estatal para Prevenir la Discriminación en el Estado de Baja California Sur, la Ley de la Comisión Estatal de Derechos Humanos, la Ley del Instituto Sudcaliforniano de las Mujeres, los Tratados Internacionales debidamente ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -139,9 +141,11 @@ X. Proponer iniciativas y desarrollar políticas de cooperación para el desarro
 
 XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 12.
 
-Para cumplir con las obligaciones a que se refiere el artículo anterior el Ejecutivo Estatal podrá, a través de la Secretaría que corresponda según la materia de que se trate, suscribir convenios o acuerdos de coordinación y vinculación interinstitucional, en el marco del sistema, con la participación del Instituto Sudcaliforniano de la Mujer del Estado de Baja California Sur.
+Para cumplir con las obligaciones a que se refiere el artículo anterior el Ejecutivo Estatal podrá, a través de la Secretaría que corresponda según la materia de que se trate, suscribir convenios o acuerdos de coordinación y vinculación interinstitucional, en el marco del sistema, con la participación del Instituto Sudcaliforniano de las Mujeres del Estado de Baja California Sur.
 
 ### CAPÍTULO TERCERO. DE LOS AYUNTAMIENTOS
 
@@ -199,9 +203,11 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 El Ejecutivo Estatal es el encargado de la aplicación del Sistema y el Programa, a través de los órganos correspondientes.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 18.
 
-El Instituto Sudcaliforniano de la Mujer, a través de su Consejo Directivo y asesoría del Consejo Consultivo, sin menoscabo de las atribuciones que le confiere la Ley específica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+El Instituto Sudcaliforniano de las Mujeres, a través de su Consejo Directivo y asesoría del Consejo Consultivo, sin menoscabo de las atribuciones que le confiere la Ley específica que lo rige, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL
 
@@ -209,9 +215,11 @@ El Instituto Sudcaliforniano de la Mujer, a través de su Consejo Directivo y as
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre sí, con las organizaciones de los diversos grupos sociales y con las autoridades de los municipios, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 20.
 
-El Consejo Directivo del Instituto Sudcaliforniano de la Mujer del Estado le corresponderá:
+El Consejo Directivo del Instituto Sudcaliforniano de las Mujeres del Estado le corresponderá:
 
 I. Proponer los lineamientos para la Política Estatal en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Estatal;
 
@@ -229,9 +237,11 @@ VII. Impulsar la participación de la sociedad civil en la promoción de la igua
 
 VIII. Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 21.
 
-La directora del Instituto Sudcaliforniano de la Mujer deberá considerar la Asesoría del Consejo Consultivo para el establecimiento de programas y convenios para la igualdad entre hombres y mujeres, e informará de los programas y acciones que se lleven a cabo para tal efecto, en las reuniones mensuales que se celebren con dicho Consejo Consultivo.
+La directora del Instituto Sudcaliforniano de las Mujeres deberá considerar la Asesoría del Consejo Consultivo para el establecimiento de programas y convenios para la igualdad entre hombres y mujeres, e informará de los programas y acciones que se lleven a cabo para tal efecto, en las reuniones mensuales que se celebren con dicho Consejo Consultivo.
 
 ###### Artículo 22.
 
@@ -245,9 +255,11 @@ III. Promover el desarrollo de programas y servicios que fomenten la igualdad en
 
 IV. Contribuir al adelanto de las mujeres.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 23.
 
-Los ayuntamientos coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto Sudcaliforniano de la Mujer o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
+Los ayuntamientos coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto Sudcaliforniano de las Mujeres o, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del Sistema Estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
 
 ###### Artículo 24.
 
@@ -259,15 +271,19 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 25.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto al Ejecutivo por el Instituto Sudcaliforniano de la Mujer y tomará en cuenta las necesidades del Estado y los municipios, así como las particularidades de la desigualdad en cada región. Este Programa deberá integrarse al Plan Estatal de Desarrollo del Gobierno del Estado, así como a los programas sectoriales, regionales, institucionales y especiales a que se refiere la ley de Planeación del Estado.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto al Ejecutivo por el Instituto Sudcaliforniano de las Mujeres y tomará en cuenta las necesidades del Estado y los municipios, así como las particularidades de la desigualdad en cada región. Este Programa deberá integrarse al Plan Estatal de Desarrollo del Gobierno del Estado, así como a los programas sectoriales, regionales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
 
 El programa que elabore el Ejecutivo del Estado, con visión de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de Igualdad en congruencia con los programas nacionales.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 26.
 
-El Instituto Sudcaliforniano de la Mujer deberá revisar el Programa Estatal cada tres años, a efecto de evaluarlo y proponer su actualización, en los términos de esta Ley.
+El Instituto Sudcaliforniano de las Mujeres deberá revisar el Programa Estatal cada tres años, a efecto de evaluarlo y proponer su actualización, en los términos de esta Ley.
 
 ## TÍTULO IV. OBJETIVOS Y ACCIONES
 
@@ -429,9 +445,11 @@ Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo y sus 
 
 ### CAPÍTULO ÚNICO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### Artículo 41.
 
-La Comisión Estatal de Derechos Humanos y el Instituto Sudcaliforniano de la Mujer son los encargados de la observancia en el seguimiento, evaluación y monitoreo de la Política Estatal en Materia de Igualdad entre Mujeres y Hombres.
+La Comisión Estatal de Derechos Humanos y el Instituto Sudcaliforniano de las Mujeres son los encargados de la observancia en el seguimiento, evaluación y monitoreo de la Política Estatal en Materia de Igualdad entre Mujeres y Hombres.
 
 La observancia tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
@@ -498,3 +516,9 @@ B.O. 30 DE ABRIL DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE JULIO DE 2014.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
