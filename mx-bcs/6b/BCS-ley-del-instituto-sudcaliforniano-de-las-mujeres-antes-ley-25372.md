@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-las-mujeres-antes-ley-2537
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-31"
-last_updated: "2009-09-30"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES - ANTES - LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
 
-LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
+LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de julio de 1999.
 
@@ -43,27 +43,37 @@ SE EMITE LA LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER.
 
 Se emite la Ley del Instituto Sudcaliforniano de la Mujer en los siguientes términos:
 
-LEY DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
+
+LEY DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
 
 ### CAPITULO PRIMERO. DE LA CREACION, OBJETO Y FUNCIONES
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
 
-Se crea el Instituto Sudcaliforniano de la Mujer, como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con sede en la Capital del Estado de Baja California Sur y con representación en cada uno de sus Municipios.
+###### ARTICULO 1°.
 
-###### ARTICULO 2º.
+Se crea el Instituto Sudcaliforniano de las Mujeres, como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonios propios, con sede en la Capital del Estado de Baja California Sur y con representación en cada uno de sus Municipios.
 
-El Instituto Sudcaliforniano de la Mujer, en adelante el Instituto, tendrá por objeto establecer las políticas y acciones que incidan en la incorporación de las mujeres en la vida económica, social, política y cultural en condiciones de equidad de género, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
+###### ARTICULO 2°.
+
+El Instituto Sudcaliforniano de las Mujeres, en adelante el Instituto, tendrá por objeto establecer las políticas y acciones que incidan en la incorporación de las mujeres en la vida económica, social, política y cultural en condiciones de equidad de género, promoviendo ante las autoridades e instancias competentes los mecanismos necesarios para ello.
 
 ###### ARTICULO 3º.
 
 El Instituto, coordinará y ejecutará, en su caso, los programas y acciones que se contemplen en el Programa Estatal de la Mujer, y que constituyan los lineamientos a seguir en esta materia dentro del Plan Estatal de Gobierno.
 
-###### ARTICULO 4º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
-Para el cumplimiento de su objeto, el Instituto Sudcaliforniano de la Mujer tendrá las siguientes funciones:
+###### ARTICULO 4°.
 
-I.- Fungir como órgano del Ejecutivo del Estado en lo referente a la mujer, así como de enlace y representante permanente del Ejecutivo ante la Comisión Nacional de la Mujer, la Comisión de Género del H. Congreso de la Unión y de la Comisión de Equidad de Género del H. Congreso del Estado de Baja California Sur;
+Para el cumplimiento de su objeto, el Instituto Sudcaliforniano de las Mujeres tendrá las siguientes funciones:
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+I.- Fungir como órgano del Ejecutivo del Estado en lo referente a la mujer, así como de enlace y representante permanente del Ejecutivo ante el Instituto Nacional de las Mujeres, las Comisiones ordinarias de Igualdad de Género de las Cámaras de Diputados y Senadores del Congreso de la Unión y de la Comisión permanente de Igualdad de Género del Congreso del Estado de Baja California Sur.
 
 II.- Coordinar e instrumentar la operación del Programa de la Mujer;
 
@@ -133,25 +143,37 @@ IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le
 
 El Instituto gozará respecto de su patrimonio, de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado. Dichos bienes, así como los actos y contratos que celebre el Instituto, quedarán exentos de toda clase de impuestos y derechos estatales.
 
-### CAPITULO TERCERO. DE LOS ORGANOS DEL INSTITUTO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+### CAPITULO TERCERO. DE LOS ORGANOS DEL INSTITUTO SUDCAlIFORNIANO DE LAS MUJERES
 
-###### ARTICULO 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
-El Instituto de la Mujer, contará con los siguientes órganos:
+###### ARTICULO 7°.
+
+El Instituto Sudcaliforniano de las Mujeres, contará con los siguientes órganos:
+
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 I.- EL CONSEJO DIRECTIVO;
 
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2005)</small>
+
 II.- LA DIRECCION GENERAL;
+
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2005)</small>
 
 III.- EL CONSEJO CONSULTIVO Y;
 
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2005)</small>
+
 IV.- LA CONTRALORÍA SOCIAL.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
-El Consejo Directivo será la máxima autoridad del Instituto Sudcaliforniano de la Mujer y se integrará por:
+###### ARTICULO 8°.
+
+El Consejo Directivo será la máxima autoridad del Instituto Sudcaliforniano de las Mujeres y se integrará por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del estado;
 
@@ -159,23 +181,21 @@ II.- Un Vicepresidente, que será el Secretario General de Gobierno; y en sus au
 
 III.- Una Secretaría, Técnica, que será la titular de la Dirección General del Instituto; y
 
-IV.- Diez Vocales, que serán los titulares de las siguientes dependencias:
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-Secretaría de Desarrollo y Fomento Económico;
+IV.- Seis Vocales, que serán los titulares de las siguientes dependencias;
+
+Secretaría de Promoción y Desarrollo Económico;
 
 Secretaría de Salud;
 
 Secretaría de Educación Pública;
 
-Secretaría de Finanzas y Administración;
+Secretaría de Finanzas;
 
 Subprocuraduría de Atención a la Mujer y al Menor;
 
-Subsecretaría de Bienestar Social;
-
-Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado;
-
-Secretaría Técnica del Consejo Estatal de Población;
+Dirección del Sistema para el Desarrollo Integral de la Familia en Baja California Sur;
 
 Además se integrará con dos vocales mujeres por cada Municipio, designados por los Ayuntamientos.
 
@@ -269,11 +289,11 @@ Las funciones del Consejo Consultivo serán las de asesorar y apoyar al Consejo 
 
 ### CAPITULO QUINTO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
 
-###### ARTICULO 16º.
+###### ARTICULO 16°.
 
-La Contraloria Social será el órgano ciudadano de vigilancia interna del Instituto Sudcaliforniano de la Mujer, estará integrado por cinco ciudadanos o ciudadanas, insaculados de una lista de 15 personas propuestas por el Consejo Consultivo, seleccionados por el Consejo Directivo, de la respuesta a la convocatoria abierta a la ciudadanía del Estado, que deberá emitir el mismo Consejo Consultivo cada seis años.
+La Contraloría Social será el órgano ciudadano de vigilancia interna del Instituto Sudcaliforniano de las Mujeres, estará integrado por cinco ciudadanos o ciudadanas, insaculados de una lista de 15 personas propuestas por el Consejo Consultivo, seleccionados por el Consejo Directivo, de la respuesta a la convocatoria abierta a la ciudadanía del Estado, que deberá emitir el mismo Consejo Consultivo cada seis años.
 
 > <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2005)</small>
 
@@ -281,9 +301,9 @@ La Contraloria Social será el órgano ciudadano de vigilancia interna del Insti
 
 Serán facultades de la Contraloría Social:
 
-> <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-I.- Vigilar que los planes y programas del Instituto Sudcaliforniano de la Mujer se elaboren y se realicen acordes a las necesidades de la población femenina;
+I.- Vigilar que los planes y proyectos del Instituto Sudcaliforniano de las Mujeres, sean acordes con las necesidades de la población femenina;
 
 > <small>(REFORMADA, B.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -373,17 +393,25 @@ Las relaciones laborales entre el Instituto y sus Trabajadores, se regirán por 
 
 El Órgano de Vigilancia del Instituto, será la Contraloría de Gobierno del Estado de Baja California Sur, quien determinará los instrumentos de control en los términos de las leyes aplicables.
 
-> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
-###### ARTÍCULO 22º.
+###### ARTICULO 22°.
 
-Serán principios rectores del Instituto Sudcaliforniano de la Mujer:
+Serán principios rectores del Instituto Sudcaliforniano de las Mujeres:
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 I.- EL RESPETO Y LIBERTAD DE ORGANIZACIÓN DE LA POBLACIÓN, sin distinción de clases sociales, políticas, religiosas o de cualquier otro orden.
 
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 II.- LA PARTICIPACIÓN ORGANIZADA DE LA COMUNIDAD, en la aplicación de los recursos que se destinen para alcanzar los objetivos y metas previstos en condiciones de economía, eficacia y eficiencia.
 
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2005)</small>
+
 III.- LA CORRESPONSABILIDAD ENTRE GOBIERNO Y SOCIEDAD CIVIL, en la solución a los problemas de las mayorías.
+
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 IV.- LA TRANSPARENCIA, HONESTIDAD, EFICIENCIA Y RENDICIÓN DE CUENTAS A LA CIUDADANIA, sobre recursos humanos, financieros, materiales y tecnológicos destinados a los objetivos de los programas.
 
@@ -434,3 +462,9 @@ B.O. 30 DE SEPTIEMBRE DE 2009.
 PRIMERO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE JULIO DE 2014.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
