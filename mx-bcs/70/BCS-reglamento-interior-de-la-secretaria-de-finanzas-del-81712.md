@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-del-81712"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2012-03-10"
+last_updated: "2014-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 2011.
 
@@ -80,6 +80,10 @@ XII. Tesorería General; y
 > <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
 XIII. La Coordinación de Enlace Administrativo.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XIV. Secretaría Particular.
 
 El Secretario de Finanzas podrá disponer en Manuales de Organización la distribución interna de funciones en niveles jerárquicos inferiores a las de las unidades administrativas anteriores.
 
@@ -149,9 +153,11 @@ La facultad de abrir cuentas de cheques y librar títulos de crédito con cargo 
 
 ### CAPÍTULO III. DE LA SUBSECRETARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 6.
 
-A la Subsecretaría le corresponde el ejercicio de las siguientes atribuciones:
+A la subsecretaría le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Planear, programar, presupuestar, controlar y evaluar las actividades de administración y gasto público de la Secretaría de Finanzas;
 
@@ -165,21 +171,21 @@ V. Acordar con el Secretario los asuntos cuyo trámite se le encomienden;
 
 VI. Informar al Secretario periódicamente sobre la administración interna de la Secretaría;
 
-VII. Tramitar las requisiciones de recursos financieros y materiales autorizadas por los titulares de las direcciones y unidades administrativas de la Secretaría;
+VII. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-VIII. Informar al Secretario sobre los resultados de las acciones de revisión e inspecciones que efectúe a las unidades administrativas que integran la Secretaría;
+VIII (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-IX. Coordinar los trabajos relacionados con la distribución de los incentivos al personal de la Secretaría de Finanzas;
+IX. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-X. Coordinar las medidas de control, ejecución y avance en la recuperación de los apoyos otorgados a los sectores productivos por conducto del Fondo de Desarrollo Social;
+X. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-XI. Vigilar el cumplimiento de la normatividad que regula el proceso de otorgamiento de apoyos con cargo a los programas sociales;
+XI. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-XII. Dar seguimiento a las directrices relacionadas con la ejecución y fiscalización de los fondos de aportaciones y demás mecanismos de transferencia de recursos que se establezcan;
+XII. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
 XIII. Establecer un programa permanente de reforma institucional administrativa;
 
-XIV. Vigilar, evaluar, diseñar y sugerir las medidas necesarias para la modernización de los procesos operativos internos de las direcciones y unidades administrativas de la Secretaría, proponiendo técnicas, métodos y mecanismos que mejoren y vuelvan más eficientes los servicios públicos y reflejen un transparente ejercicio presupuestal;
+XIV. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
 XV. Requerir a las direcciones y unidades administrativas los informes de labores desarrolladas, para evaluar los logros obtenidos, sus alcances y dictaminar lo conducente para mejorar su desempeño administrativo;
 
@@ -231,7 +237,7 @@ I. Departamento de Modernización e Innovación.
 
 II. Departamento de Control y Seguimiento.
 
-III. Departamento Jurídico.
+III. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
 ### CAPITULO IV. DE LOS ORGANOS DESCONCENTRADOS DE LA PROCURADURIA FISCAL
 
@@ -301,7 +307,7 @@ XXX. Informar a Oficialía Mayor de los bienes muebles que han pasado a propieda
 
 XXXI. Proporcionar asesoría técnica y capacitación en materia fiscal a los ayuntamientos, dependencias y entidades del Gobierno Estatal y a las direcciones y unidades administrativas de la propia Secretaría, informando de cada caso al titular de la misma;
 
-XXXII. Recibir, calificar y aceptar las garantías que deban otorgarse a favor de la Secretaría de Finanzas del Gobierno del Estado para garantizar los contratos de obra pública, de adquisiciones, arrendamientos y servicios, así como las que se exhiban para garantizar el interés fiscal con motivo de la interposición de medios de defensa, o de la solicitud de un convenio para pagar en parcialidades o de manera diferida créditos fiscales;
+XXXII. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
 XXXIII. Elaborar los lineamientos generales aplicables para las fianzas que se reciban como garantía en los contratos de obras públicas, adquisiciones, arrendamientos o servicios que contrate el Estado;
 
@@ -339,7 +345,15 @@ XLIX. Las contempladas en el artículo 11 de este Reglamento;
 
 L. Interponer el recurso de revisión ante los Tribunales Federales en contra de las sentencias dictadas por el Tribunal Federal de Justicia Fiscal y Administrativa, cuando se controviertan las resoluciones emitidas por las autoridades del Estado en ejercicio de las facultades que le fueron delegadas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado; y
 
-LI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas de acuerdo con sus atribuciones.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+LI. Conocer y resolver de conformidad con la legislación, los convenios y sus anexos suscritos por el Gobierno del Estado con la Federación o los Municipios y la normatividad aplicables, la cancelación de créditos fiscales.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+LII. Ordenar el pago, ya sea en dinero o en bienes equivalentes, del valor de las mercancías que depositadas en recintos fiscales y bajo custodia de las autoridades aduaneras, se extravíen o por cualquier otra circunstancia no se puedan entregar, en coordinación con las unidades administrativas competentes; asimismo, ordenar la entrega a los adquirentes de bienes rematados del monto pagado por los mismos, cuando dichos bienes no puedan ser entregados a éstos; y
+
+LIII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas de acuerdo con sus atribuciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -355,13 +369,15 @@ I. Subprocuraduría Fiscal de Asuntos Contenciosos y Resoluciones;
 
 II. Subprocuraduría Fiscal de Consultoría y Normatividad;
 
-III. (DEROGADA, B.O. 10 DE MARZO DE 2012)
+> <small>(REFORMADA, [N. DE E. ADICIONADA], B.O. 10 DE JULIO DE 2014)</small>
+
+III. Departamento de Fianzas.
 
 IV. Unidad Administrativa;
 
-V. (DEROGADA, B.O. 10 DE MARZO DE 2012)
+V. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
-VI. Archivo y Oficialía de Partes; y
+VI. (DEROGADA, B.O. 10 DE JULIO DE 2014)
 
 VII. Notificadores.
 
@@ -437,7 +453,9 @@ I. Participar en la definición de la política fiscal del Gobierno del Estado;
 
 II. Evaluar y controlar la selección y programación de visitas domiciliarias, auditorías, inspecciones, revisiones y verificaciones, relativas a comprobar la legal importación, almacenaje, estancia, tenencia, transporte y/o manejo en territorio nacional de mercancías, vehículos y embarcaciones de procedencia extranjera, a fin de verificar el cumplimiento de las disposiciones relativas a la legal introducción de las mismas al propio territorio nacional, recabando la información correspondiente y necesaria para el ejercicio de sus facultades;
 
-III. Ordenar y practicar a los contribuyentes, responsables solidarios y terceros con ellos relacionados, visitas domiciliarias, inspecciones, revisiones y verificaciones de mercancías de procedencia extranjera, incluyendo vehículos, en centros de almacenamiento, distribución y/o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, lotes de exhibición para su venta, o durante su transporte o circulación, a fin de comprobar la legal importación, almacenaje, estancia, tenencia, transporte, o manejo en territorio nacional de las mismas, y de verificar el cumplimiento de las disposiciones relativas al impuesto general de importación, impuesto general de exportación, impuesto al valor agregado, impuesto especial sobre producción y servicios, cuotas compensatorias, derecho de trámite aduanero y demás regulaciones y restricciones no arancelarias que correspondan, incluyendo el cumplimiento de las Normas Oficiales Mexicanas de conformidad con las disposiciones fiscales, de comercio exterior y aduaneras aplicables; y en caso de ser procedente, iniciar el procedimiento administrativo en materia aduanera;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+III. Ordenar y practicar a los contribuyentes, responsables solidarios y terceros con ellos relacionados, visitas domiciliarias, inspecciones, revisiones y verificaciones de mercancías de procedencia extranjera, incluyendo vehículos, en centros de almacenamiento, distribución y/o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública, lotes de exhibición para su venta, o durante su transporte o circulación, a fin de comprobar la legal importación, almacenaje, estancia, tenencia, transporte, o manejo en territorio nacional de las mismas, y de verificar el cumplimiento de las disposiciones relativas al impuesto general de importación, impuesto general de exportación, impuesto al valor agregado, impuesto especial sobre producción y servicios, impuesto sobre automóviles nuevos, impuesto sobre tenencia o uso de vehículos, cuotas compensatorias, derecho de trámite aduanero y demás regulaciones y restricciones no arancelarias que correspondan, incluyendo el cumplimiento de las Normas Oficiales Mexicanas de conformidad con las disposiciones fiscales, de comercio exterior y aduaneras aplicables; y en caso de ser procedente, iniciar el procedimiento administrativo en materia aduanera;
 
 IV. Ordenar y practicar a los contribuyentes, responsables solidarios y terceros con ellos relacionados visitas domiciliarias, inspecciones, revisiones y verificaciones, con objeto de comprobar que los envases o recipientes de bebidas alcohólicas tengan adherido el marbete o precinto correspondiente que dispongan las leyes;
 
@@ -449,11 +467,17 @@ VI. Ordenar y practicar la inspección y vigilancia permanente, retención, pers
 
 VII. Ordenar y realizar la inspección y vigilancia permanente en la importación, almacenaje, estancia o tenencia, transporte o manejo de las mercancías de origen y procedencia extranjera dentro del territorio nacional;
 
-VIII. Designar y autorizar al personal necesario para la práctica de visitas domiciliarias, auditorías, inspecciones, verificaciones, revisiones, embargos y ejecuciones que sea necesario para el ejercicio de sus facultades, para que actúen de forma conjunta o separada y expedir las constancias de identificación del personal que autorice;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-IX. Clausurar, preventivamente, mediante sellos oficiales, los escritorios, archiveros, bodegas, almacenes, y en general, cualquier otro lugar o local donde se encuentren las mercancías de origen y/o procedencia extranjera;
+VIII. Designar y habilitar al personal necesario para la práctica de visitas domiciliarias, auditorías, inspecciones, verificaciones, revisiones, embargos, retenciones, aseguramientos y ejecuciones que sea necesario para el ejercicio de sus facultades, para que actúen de forma conjunta o separada; expedir las constancias de identificación del personal a su cargo que habilite para la práctica de los actos relacionados con el ejercicio de sus facultades y emitirles credenciales de identificación;
 
-X. Notificar a los contribuyentes, responsables solidarios y terceros con ellos relacionados, todos los actos y resoluciones que emita, incluyendo las que puedan ser susceptibles de impugnación, los relativos a los procedimientos administrativos en materia aduanera, y los necesarios para la cobranza coactiva de los créditos fiscales que determine;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+IX. Clausurar, preventivamente, mediante sellos oficiales, los escritorios, archiveros, bodegas, almacenes, y en general, cualquier otro lugar o local donde se encuentren las mercancías de origen y/o procedencia extranjera; así como decretar el aseguramiento precautorio en los casos en que las disposiciones fiscales federales lo señalen, y levantarlo cuando proceda.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+X. Notificar a los contribuyentes, responsables solidarios y terceros con ellos relacionados, todos los actos y resoluciones que emita, incluyendo las que puedan ser susceptibles de impugnación y los relativos a los procedimientos administrativos en materia aduanera; dar a conocer a los contribuyentes, responsables solidarios y demás obligados a los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de sus facultades de comprobación y hacer constar dichos hechos y omisiones en el oficio de observaciones o en la última acta parcial que se levante;
 
 XI. Cumpliendo con las formalidades establecidas en la Ley Aduanera, el Código Fiscal de la Federación, el Convenio de Colaboración Administrativa mencionado en el proemio de este artículo y otras disposiciones legales federales y estatales aplicables, levantar actas circunstanciadas haciendo constar los hechos que den origen al inicio del procedimiento administrativo en materia aduanera y notificar al interesado el inicio del mismo; así como tramitarlo y resolverlo conforme a la legislación federal aplicable;
 
@@ -467,7 +491,9 @@ XV. Solicitar a las dependencias federales, estatales y municipales, así como a
 
 XVI. Requerir, recibir y, en su caso, exigir a los contribuyentes, responsables solidarios y terceros con ellos relacionados para que exhiban, ya sea en su domicilio o en las oficinas de la propia Dirección, la exhibición de la contabilidad, avisos, declaraciones, pedimentos, manifestaciones y demás documentos e informes que conforme a las disposiciones legales deben presentarse para amparar la legal importación, posesión, estancia o tenencia en el país de las mercancías y vehículos de origen o procedencia extranjera, para verificar el cumplimiento de sus obligaciones en materia aduanera y de comercio exterior, incluyendo normas oficiales mexicanas y regulaciones no arancelarias, a fin de proceder a su revisión;
 
-XVII. Registrar ante la Secretaría de Hacienda y Crédito Público los locales para que sean habilitados como recintos fiscalizados para el depósito y resguardo de vehículos, embarcaciones y mercancías embargadas como garantía del interés fiscal, o los que se encuentren afectos al procedimiento administrativo en materia aduanera;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XVII. Registrar ante la Secretaría de Hacienda y Crédito Público los locales para que sean habilitados como recintos fiscales para el depósito y resguardo de vehículos, embarcaciones y mercancías embargados como garantía del interés fiscal, o los que se encuentren afectos al procedimiento administrativo en materia aduanera o en abandono;
 
 XVIII. Autorizar la destrucción, donación o venta de mercancías perecederas sujetas a un procedimiento administrativo en materia aduanera;
 
@@ -475,13 +501,19 @@ XIX. Tramitar y resolver el procedimiento administrativo en materia aduanera, de
 
 XX. Vigilar, resguardar y custodiar los vehículos y mercancías que haya embargado, hasta que la resolución dictada en el procedimiento administrativo en materia aduanera quede firme o se resuelva legalmente su devolución;
 
-XXI. Autorizar, cuando proceda la legal devolución de las mercancías, vehículos y embarcaciones que hayan sido objeto de un procedimiento administrativo en materia aduanera;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-XXII. Declarar que las mercancías han pasado a propiedad del fisco del (sic) Federal por abandono, cuando haya sido notificado a los contribuyentes interesados, la autorización para que las mercancías afectas al procedimiento administrativo en materia aduanera sean retiradas de los recintos fiscalizados, y éstos no procedan a retirarlas dentro del plazo que al efecto se conceda;
+XXI. Autorizar, cuando proceda la legal devolución de las mercancías, vehículos y embarcaciones que hayan sido objeto de un procedimiento administrativo en materia aduanera; así como ordenar en los casos que proceda, el levantamiento del embargo precautorio y la entrega de las mercancías embargadas, antes de la conclusión del procedimiento administrativo en materia aduanera, previa calificación y aceptación de la garantía del interés fiscal;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXII. Declarar que las mercancías vehículos y embarcaciones han pasado a propiedad del fisco federal por abandono, cuando haya sido notificado a los contribuyentes interesados, la autorización para que las mercancías afectas al procedimiento administrativo en materia aduanera sean retiradas de los recintos fiscales, y éstos no procedan a retirarlas dentro del plazo que al efecto se conceda; asimismo declarar que las mercancías, vehículos y embarcaciones, pasan a propiedad del fisco federal en los casos establecidos en el articulo 183-A de la Ley Aduanera o del artículo que lo sustituya.
 
 XXIII. Mantener constante comunicación y coordinación con las aduanas del país y autoridades aduaneras federales y de otras entidades federativas;
 
-XXIV. Tratándose de bienes embargados precautoriamente con motivo de sus facultades de comprobación en materia aduanera, designar depositarios de los bienes embargados a las autoridades fiscales del Estado o de sus municipios, removerlos, o sustituirlos cuando sea necesario, y en caso de que se encuentren violaciones a dicho cargo fincar las responsabilidades correspondientes, informando a la Secretaría de Hacienda y Crédito Público tanto de la designación, como del cambio;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXIV. Tratándose de las mercancías y de los vehículos embargados precautoriamente con motivo de sus facultades de comprobación en materia aduanera, tenerlos bajo su guarda y custodia hasta que quede firme la resolución respectiva o, en su caso, hasta que se resuelva la legal devolución de la mercancía o vehículo de que se trate; asimismo podrá designar depositarios de los bienes embargados, cuando así proceda, al contribuyente visitado, terceros, a las autoridades fiscales del Estado o de sus municipios, removerlos, o sustituirlos cuando sea necesario, y en caso de que se encuentren violaciones a dicho cargo fincar las responsabilidades correspondientes, informando a la Secretaría de Hacienda y Crédito Público tanto de la designación como del cambio;
 
 XXV. Colaborar con el Servicio de Administración Tributaria, en la formulación del programa operativo anual de fiscalización, en donde se establezcan los números de actos en materia de visitas domiciliarias, inspecciones, revisiones y verificaciones para comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de toda clase de mercancías de procedencia extranjera, incluyendo vehículos, excepto aeronaves;
 
@@ -497,7 +529,9 @@ XXIX. Vigilar la legal importación, estancia o tenencia, transporte o manejo de
 
 XXX. Habilitar los días y horas inhábiles para la práctica del ejercicio de sus facultades;
 
-XXXI. Aplicar la legislación federal tendiente a comprobar que se han pagado los Impuestos Generales de Importación y Exportación, Impuesto al Valor Agregado, Impuesto Especial sobre Producción y Servicios, Cuotas Compensatorias, Derecho de Trámite Aduanero; así como para verificar el cumplimiento de las regulaciones y restricciones no arancelarias, incluyendo las Normas Oficiales Mexicanas y las Reglas de Carácter General en Materia de Comercio Exterior, en los términos de la Ley de Coordinación Fiscal y del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado por el Gobierno del Estado con la Federación;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXXI. Aplicar la legislación federal tendiente a comprobar que se han pagado los Impuestos Generales de Importación y Exportación, Impuesto al Valor Agregado, Impuesto Especial sobre Producción y Servicios, Impuesto Sobre Automóviles Nuevos, Impuesto Sobre Tenencia o Uso de Vehículos, Cuotas Compensatorias, Derecho de Trámite Aduanero; así como para verificar el cumplimiento de las regulaciones y restricciones no arancelarias, incluyendo las Normas Oficiales Mexicanas y las Reglas de Carácter General en Materia de Comercio Exterior, en los términos de la Ley Administrativa en Materia Fiscal Federal celebrado por el Gobierno del Estado con la Federación;
 
 XXXII. Aplicar los programas, lineamientos, directrices, sistemas, procedimientos y métodos de trabajo que le corresponda;
 
@@ -515,27 +549,43 @@ XXXVIII. Emitir los oficios que ordenen reponer el procedimiento administrativo 
 
 XXXIX. Determinar en cantidad líquida los créditos fiscales derivados de las visitas domiciliarias, auditorías, requerimientos de documentación, inspecciones, revisiones y verificaciones practicadas, emitir las resoluciones correspondientes e imponer multas por las infracciones a las disposiciones aduaneras, fiscales y de comercio exterior, que rijan en materia de su competencia, incluyendo las cuotas compensatorias, su actualización y accesorios;
 
-XL. Colaborar y coordinarse con otras autoridades del Estado y de sus municipios para practicar y emitir los dictámenes periciales en materia de comercio exterior que le sean solicitados, designando los peritos que para tal efecto se requieran; y
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
 
-XLI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+XL. Llevar a cabo verificaciones para constatar los datos proporcionados al registro federal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XLI. Acordar con el Secretario o, en suplencia de este con el Subsecretario, el destino de las mercancías o vehículos que hayan sido asignados a favor del Estado; así como la destrucción, donación, asignación o venta de mercancías perecederas, de fácil descomposición o deterioro o de animales vivos, embargados precautoriamente, en los términos de la legislación aduanera, en materia de su competencia;
+
+XLII. Colaborar y coordinarse con otras autoridades del Estado y de sus municipios para practicar y emitir los dictámenes periciales en materia de comercio exterior que le sean solicitados, designando los peritos que para tal efecto se requieran; y
+
+XLIII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-Al frente de la Dirección de Fiscalización Aduanera estará un Director, quien será auxiliado en sus funciones por las siguientes unidades administrativas:
+Al frente de la Dirección de Fiscalización Aduanera estará a cargo un Director, quien será auxiliado en sus funciones por los siguientes departamentos:
 
-I. Auditorías y Verificaciones en Comercio Exterior;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-II. Resoluciones;
+I. Departamento de Auditorías y Verificaciones en Comercio Exterior;
 
-III. Informática; y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-IV. Unidad Administrativa.
+II. Departamento de Resoluciones;
 
-> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
 
-La Dirección de Fiscalización Aduanera contará también con asesores jurídicos, visitadores, auditores, verificadores, notificadores y, con el demás personal que requiera para cubrir las necesidades del servicio.
+III. Departamento de Informática; y
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+IV. Departamento de Programación.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
+La Dirección de Fiscalización Aduanera contará también con un área administrativa, asesores jurídicos, visitadores, auditores, verificadores, notificadores y, con el demás personal que requiera para cubrir las necesidades del servicio.
 
 > <small>(ADICIONADO, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -741,7 +791,7 @@ XXXI. Designar al personal necesario para el ejercicio de las facultades de veri
 
 XXXII. Informar y difundir por los medios de comunicación masivos, las disposiciones fiscales federales y estatales destinadas a los contribuyentes que permitan orientar y mejorar el cumplimiento de sus obligaciones;
 
-XXXIII. Elaborar los proyectos de acuerdo mediante los cuales se determine el nombre, sede y circunscripción territorial de las Recaudaciones y Subrecaudaciones; y (sic)
+XXXIII. Elaborar los proyectos de acuerdo mediante los cuales se determine el nombre, sede y circunscripción territorial de las Recaudaciones y Subrecaudaciones; y
 
 > <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -749,21 +799,31 @@ XXXIV. Tramitar y en su caso autorizar las solicitudes de pago diferido o en par
 
 XXXV. Las demás que le confieran las disposiciones legales aplicables y/o el Secretario de Finanzas dentro de la esfera de sus respectivas competencias.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-La Dirección de Ingresos estará a cargo de un Director, quien será auxiliado en sus funciones por un Coordinador de Ingresos, teniendo éste las facultades que se le asignen en el manual de organización.
+La Dirección de Ingresos estará a cargo de un Director, quien para el desarrollo de sus funciones se auxiliará de las siguientes unidades administrativas:
 
-La Dirección de Ingresos contará además con las siguientes unidades administrativas:
+I. Coordinación de Ingresos;
 
-I. Departamento de Impuestos Federales;
+II. Coordinación de Operaciones;
 
-II. Departamento de Impuestos Estatales;
+III. Departamento de Contribuciones Estatales;
 
-III. Departamento de Contabilidad y Rendición de Cuentas;
+IV. Departamento de Contribuciones Federales;
 
-IV. Departamento de Padrón Vehicular; y
+V. Departamento de Padrón de Contribuyentes;
 
-V. Departamento Administrativo.
+VI. Departamento de Padrón Vehicular;
+
+VII. Departamento de Control de Obligaciones;
+
+VIII. Departamento de Asistencia al Contribuyente;
+
+IX. Departamento Jurídico; y
+
+X. Departamento Administrativo.
 
 ###### ARTÍCULO 18.
 
@@ -813,7 +873,9 @@ XVIII. Las demás que le confieran las disposiciones legales aplicables, el Dire
 
 Las Subrecaudaciones ejercerán las atribuciones contenidas en el artículo anterior, con excepción de las establecidas en las Fracciones I, II, XI, XII, XIII XIV y XV de dicho precepto y serán coordinadas en la forma que determine el Director de Ingresos.
 
-### CAPÍTULO IX. DE LA DIRECCIÓN DE CONTROL DE CRÉDITOS Y COBRANZAS COACTIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE CONTROL DE CRÉDITOS Y COBRANZA COACTIVA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -841,7 +903,9 @@ IX. Remitir los bienes embargados al almacén fiscal para su guarda y custodia h
 
 X. Vigilar, resguardar y custodiar las mercancías, vehículos y embarcaciones que haya embargado, o puesto bajo su resguardo otras autoridades de la Secretaría de Finanzas, hasta que se ordene su remate o se resuelva legalmente sobre su devolución;
 
-XI. Autorizar, cuando proceda la devolución de las mercancías, vehículos y embarcaciones que hayan sido embargados durante el Procedimiento Administrativo de Ejecución, siempre que se haya cubierto o garantizado el crédito fiscal;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XI. Autorizar, cuando proceda la devolución de las mercancías, vehículos y embarcaciones que hayan sido embargados durante el Procedimiento Administrativo de Ejecución o el embargo en la vía administrativa, siempre que se haya cubierto o garantizado el crédito fiscal, o en su caso hayan cesado sus efectos.
 
 XII. Realizar la devolución de mercancías, vehículos y embarcaciones que se haya autorizado en los términos de la fracción anterior, o cuando lo haya autorizado la Dirección de Fiscalización Aduanera;
 
@@ -861,7 +925,9 @@ XIX. Enajenar en remate los bienes embargados en los términos de la legislació
 
 XX. Enajenar fuera de remate en los términos de la legislación fiscal aplicable cuando se trate de mercancía perecedera o de fácil descomposición, que se encuentren sujetas a un Procedimiento Administrativo de Ejecución, o cuando así lo haya autorizado la Dirección de Fiscalización Aduanera;
 
-XXI. Autorizar, cuando proceda la legal devolución de las mercancías, vehículos y embarcaciones que hayan sido embargados durante el Procedimiento Administrativo de Ejecución;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes, relacionados con el cobro de los créditos fiscales que tenga a su cargo;
 
 XXII. Poner a disposición de los particulares los bienes embargados, cuando se haya cubierto el crédito fiscal, otorgándoles el plazo legal para su retiro del almacén fiscal;
 
@@ -891,13 +957,41 @@ XXXII. Suspender el Procedimiento Administrativo de Ejecución, previa garantía
 
 XXXIII. Contestar las solicitudes de informes y documentación que le realice el Secretario, el Subsecretario, la Procuraduría Fiscal, las Direcciones de: Fiscalización Aduanera, Auditoria Fiscal, e Ingresos dentro del plazo que para tal efecto éstas le indiquen;
 
-XXXIV. Notificar los actos y resoluciones que emita; y (sic)
+XXXIV. Notificar los actos y resoluciones que emita; y
 
 > <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
 
 XXXV. Tramitar, aceptar, rechazas (sic) o cancelar, según proceda, las garantías para asegurar el interés fiscal así como sus ampliaciones, disminuciones o sustituciones; ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente y fijar los honorarios del depositario interventor de negociaciones o del administrador de bienes raíces; y
 
-XXXVI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXXVI. Autorizar y proceder a la devolución de la documentación proporcionada por los contribuyentes, responsables solidarios o terceros con ellos relacionados, cuando el crédito fiscal haya sido pagado o cuando una autoridad fiscal o jurisdiccional determine la cancelación del crédito fiscal;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXXVII. Elaborar los lineamientos, datos y requisitos que deban contener las garantías ofrecidas por los contribuyentes, excepto para las fianzas relativas a contratos de obra pública, adquisiciones, arrendamientos o servicios que contrate el Estado, para garantizar el interés fiscal de créditos estatales, dándolos a conocer en el Boletín Oficial de Gobierno del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXXVIII. Solicitar a las dependencias federales, estatales y municipales, los informes y datos necesarios para el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XXXIX. Solicitar a la Comisión Nacional Bancaria y de Valores, Entidades Financieras, Sociedades Cooperativas de Ahorro y Préstamo o de Inversiones y Valores, que ejecuten el embargo o aseguramientos de las cuentas bancarias y de inversión a nombre de los contribuyentes o responsables solidarios, que tengan créditos fiscales a su cargo, así como el traspaso de fondos a la cuenta de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y solicitar su levantamiento cuando así proceda.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XL. Declarar el abandono de los bienes y de las cantidades a favor de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XLI. Transferir a la instancia competente los bienes embargados que hayan pasado a propiedad del Gobierno del Estado de Baja California Sur, o de los que pueda disponer en términos de la normatividad aplicable, así como realizar de conformidad con las políticas, procedimientos y criterios que al efecto se emitan, la donación o destrucción de dichos bienes;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2014)</small>
+
+XLII. Ejercer el Procedimiento Administrativo de Ejecución, para el cobro de multas por concepto de reparación de daños al ofendido en procesos penales.
+
+XLIII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -955,7 +1049,7 @@ XV. Dar seguimiento a la aplicación de los recursos por concepto de aportacione
 
 XVI. Tramitar y autorizar, previo acuerdo superior, los montos de los fondos revolventes, así como sus respectivos incrementos que por necesidades del servicio requieran las diversas dependencias de la Administración Pública Estatal;
 
-XVII. Registrar, coordinar e instrumentar, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público estatal; y (sic)
+XVII. Registrar, coordinar e instrumentar, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público estatal; y
 
 > <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
 
@@ -1025,7 +1119,7 @@ I. Coordinación de Política Presupuestal;
 
 II. Departamento de Información y Análisis Presupuestal;
 
-III. Departamento de Coordinación con Dependencias y Programas Federales; y (sic)
+III. Departamento de Coordinación con Dependencias y Programas Federales; y
 
 IV. Departamento de Control Presupuestal.
 
@@ -1267,9 +1361,29 @@ III. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 IV. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
-### CAPÍTULO XVII. DE LOS ÓRGANOS DESCENTRALIZADOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE JULIO DE 2014)</small>
 
-### CAPÍTULO XVII (SIC). DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
+### CAPÍTULO XVII. DE LA SECRETARÍA PARTICULAR
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2014)</small>
+
+###### Artículo 36 Bis.
+
+La Secretaría Particular tendrá las siguientes atribuciones:
+
+I. Llevar la agenda del Secretario;
+
+II. Distribuir la correspondencia destinada al Secretario entre las áreas involucradas y dar seguimiento de la misma;
+
+III. Llevar la guarda y custodia de la documentación que requiera el Secretario para el ejercicio de sus funciones;
+
+IV. Controlar la logística de las reuniones de trabajo del Secretario; y
+
+V. Las demás que le encomiende de manera directa el propio Secretario.
+
+(REUBICADO [ANTES CAPÍTULO XVII], B.O. 10 DE JULIO DE 2014)
+
+### CAPÍTULO XVIII. DE LOS ÓRGANOS DESCENTRALIZADOS
 
 ###### ARTÍCULO 37.
 
@@ -1277,9 +1391,15 @@ Los organismos descentralizados con personalidad jurídica y patrimonio propios 
 
 Respecto a estos órganos, el Secretario de Finanzas ejercerá las facultades que las leyes y demás ordenamientos estatales le confieren a la Secretaría, personalmente o a través de las diversas direcciones previstas en el presente Reglamento, de conformidad con las atribuciones que corresponden a cada una de ellas.
 
+(REUBICADO [ANTES CAPÍTULO XVII (SIC)], B.O. 10 DE JULIO DE 2014)
+
+### CAPÍTULO XIX. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 38.
 
-Durante la ausencia del Secretario de Finanzas por periodos de hasta 30 días, éste será suplido temporalmente por el Subsecretario, salvo designación por escrito de algún otro servidor público por parte del Secretario.
+Durante la ausencia del Secretario de Finanzas por periodos de hasta 30 días, éste será suplido temporalmente por el Subsecretario, salvo designación por escrito de algún otro servidor público por parte del Secretario; excepto en los casos de la suplencia ante autoridades judiciales federales o estatales y ante el Tribunal Federal de Justicia Fiscal y Administrativa, caso en que esta responsabilidad recaerá en el Procurador Fiscal.
 
 En ausencias mayores a 30 días, el Secretario será suplido temporalmente por el Servidor Público que designe el Gobernador del Estado de Baja California Sur.
 
@@ -1386,3 +1506,9 @@ En tanto se expidan los acuerdos y demás disposiciones administrativas que deri
 ###### ARTÍCULO SEXTO.
 
 Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de la reforma, modificación, derogación o adición al Reglamento que se lleva a cabo mediante este Decreto, inclusive respecto del Decreto mediante el cual se expide el Reglamento Interior de la Secretaría de Finanzas, publicado en el Boletín Oficial del Estado el 10 de junio de 2011, deba ser ejercida por otra u otras unidades administrativas que en el mismo se establecen, corresponderá a la unidad administrativa competente terminar la sustanciación de los asuntos que se encuentren en trámite a la fecha señalada en el Artículo Primero Transitorio de este Decreto y, en su caso, dictar la resolución que corresponda, aplicando en lo conducente las disposiciones establecidas en el Reglamento Interior de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur, publicado en el Boletín Oficial del Estado el 10 de febrero de 2001, así como el publicado en el mismo informativo el 05 de marzo de 2010.
+
+B.O. 10 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
