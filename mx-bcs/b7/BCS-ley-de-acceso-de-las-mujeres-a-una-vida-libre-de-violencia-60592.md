@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2014-04-30"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -473,9 +473,9 @@ XI.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
 
 XII.- (DEROGADA, B.O. 10 DE JULIO DE 2013)
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
 
-De igual forma, por quien ostente la titularidad de la dirección del Instituto Sudcaliforniano de la Mujer, quien será la secretaria ejecutiva del sistema, así como por quien ejerza la titularidad del Sistema Estatal para el Desarrollo Integral de la Familia;
+De igual forma, por quienes ostenten la titularidad de las direcciones del Instituto Sudcaliforniano de las Mujeres y del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 2013)</small>
 
@@ -775,7 +775,9 @@ Corresponde al Sistema para el Desarrollo de la Familia del Estado y de los muni
 
 I. Realizar en el ámbito de su respectiva competencia, las acciones y programas que promuevan el respeto a los derechos humanos y la igualdad entre los hombres y mujeres;
 
-II. Establecer en todos los centros a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres, utilizando la metodología que para el efecto determine el Instituto Sudcaliforniano de la Mujer;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2014)</small>
+
+II. Establecer en todos los centros a su cargo, las bases para un sistema de registro de información estadística en materia de violencia contra las mujeres, utilizando la metodología que para el efecto determine el Instituto Sudcaliforniano de las Mujeres;
 
 III. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres proporcionando la información y datos estadísticos que requieran para el debido cumplimiento, de conformidad con la Ley de (sic) Estatal de Transparencia y Acceso a la Información Pública;
 
@@ -807,7 +809,9 @@ III. Al revisar las cuentas públicas del Estado y Municipios vigilar el puntual
 
 IV. Aplicar la perspectiva de género de manera transversal en sus actividades.
 
-#### SECCIÓN DÉCIMA. DEL INSTITUTO SUDCALIFORNIANO DE LA MUJER
+#### SECCIÓN DÉCIMA. DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 36.
 
@@ -823,11 +827,13 @@ IV. Informar sobre los procedimientos judiciales en materia de violencia en cont
 
 V. Las demás que le confiera esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
+
 #### SECCIÓN DÉCIMO PRIMERA. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 37.
 
-Son obligaciones del Instituto Sudcaliforniano de la Mujer, las siguientes:
+Son obligaciones del Instituto Sudcaliforniano de las Mujeres, las siguientes:
 
 I.- Fungir como Secretaría Ejecutiva del Sistema Estatal, a través de su titular;
 
@@ -973,7 +979,7 @@ III. Establecer mecanismos para erradicar el hostigamiento y el acoso sexual a l
 
 IV. Denunciar ante la Contraloría General, a los servidores públicos que resulten responsables de violencia en contra de mujeres;
 
-V. Implementar proyectos especiales para proteger los derechos .laborales de mujeres indígenas y campesinas víctimas de violencia; y
+V. Implementar proyectos especiales para proteger los derechos laborales de mujeres indígenas y campesinas víctimas de violencia; y
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -1274,3 +1280,9 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La reestructuración de la conformación del Sistema Estatal, se integrará a los 30 días siguientes a la entrada en vigor del presente decreto.
 
 TERCERO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+B.O. 10 DE JULIO DE 2014.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
