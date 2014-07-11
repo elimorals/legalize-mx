@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-95948"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-09-23"
-last_updated: "2013-09-23"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-20"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de septiembre de 2013.
 
@@ -71,6 +71,18 @@ IV. Presidente, el Presidente del Instituto Federal de Telecomunicaciones, y
 
 V. Estatuto Orgánico, el presente Estatuto Orgánico del Instituto Federal de Telecomunicaciones.
 
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VI. Autoridad Pública, se entenderá el concepto definido en el artículo 3, fracción III, de la Ley Federal de Competencia Económica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VII. Ley de Competencia, Ley Federal de Competencia Económica, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VIII. Disposiciones Regulatorias, se entenderá el concepto definido en el artículo 3, fracción VIII, de la Ley de Competencia.
+
 ### CAPÍTULO II. De la Organización del Instituto
 
 ###### Artículo 4.
@@ -117,11 +129,21 @@ h) Consulta Jurídica,
 
 i) Defensa Jurídica,
 
-j) Concentraciones y Condiciones de Competencia,
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
 
-k) Investigación de Prácticas Monopólicas, y
+j) Procedimientos de Competencia,
 
-l) Vinculación Institucional.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+k) Concentraciones y Concesiones,
+
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+l) Consulta Económica, y
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+m) Vinculación Institucional.
 
 VI.- Coordinaciones Generales de:
 
@@ -147,17 +169,33 @@ f) Procedimientos de Competencia.
 
 El Instituto contará con los Directores Generales, Directores Generales Adjuntos, Directores y Subdirectores de Área, Jefes de Departamento, supervisores, inspectores, verificadores y demás personal necesario para el cumplimiento de sus funciones, conforme a su presupuesto aprobado. Asimismo, el Instituto contará con una Contraloría Interna que se regirá conforme al Capítulo XIX del Estatuto Orgánico.
 
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VIII.- Autoridad Investigadora:
+
+a) Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas,
+
+b) Dirección General de Condiciones de Mercado,
+
+c) Dirección General de Análisis Económico, y
+
+d) Dirección General Adjunta de Atención en Procedimientos.
+
 ###### Artículo 5.
 
 El Instituto podrá establecer mecanismos de colaboración con dependencias y entidades de la Administración Pública Federal, de las entidades federativas y de los municipios, el Poder Legislativo, el Poder Judicial, otros órganos constitucionales autónomos, instituciones de educación superior y de investigación, y otros organismos públicos o privados, para asegurar el cumplimiento de sus atribuciones y del marco jurídico aplicable en materia de telecomunicaciones, radiodifusión y competencia económica en estos sectores.
 
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 6.
 
-En sus ausencias, el Presidente será suplido por los Titulares de las Unidades de Asuntos Jurídicos; de Política Regulatoria; de Servicios a la Industria; de Supervisión y Verificación, y de Sistemas de Radio y Televisión, en el orden indicado. Tratándose de juicios de amparo, los Comisionados serán suplidos por el Titular de la Unidad de Asuntos Jurídicos.
+En sus ausencias, el Presidente será suplido por los Titulares de las Unidades de Asuntos Jurídicos; de Política Regulatoria; de Servicios a la Industria; de Supervisión y Verificación, y de Sistemas de Radio y Televisión, en el orden indicado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JULIO DE 2014)</small>
 
 ###### Artículo 7.
 
-En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Económica, por el Director General de Telecomunicaciones y Asuntos Internacionales y por el Director General de Espectro Radioeléctrico y Comunicación Vía Satélite, en el orden indicado; el Titular de la Unidad de Servicios a la Industria será suplido por el Director General de Licitaciones de Espectro Radioeléctrico y Servicios y por el Director General de Redes de Telecomunicaciones y Servicios, en el orden indicado; el Titular de la Unidad de Supervisión y Verificación será suplido por el Director General de Supervisión y por el Director General de Verificación, en el orden indicado; el Titular de la Unidad de Sistemas de Radio y Televisión será suplido por el Director General Adjunto de Supervisión, Inspección y Sanciones de Radiodifusión, por el Director General Adjunto de Trámites y Servicios de Radiodifusión y por el Director General Adjunto de Desarrollo de la Radiodifusión, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica y por el Director General de Defensa Jurídica, en el orden indicado, y el Titular de la Unidad de Competencia Económica será suplido por el Director General de Concentraciones y Condiciones de Competencia y por el Director General de Investigación de Prácticas Monopólicas, en el orden indicado.
+En sus ausencias, el Titular de la Unidad de Política Regulatoria será suplido por el Director General de Regulación Económica, por el Director General de Telecomunicaciones y Asuntos Internacionales y por el Director General de Espectro Radioeléctrico y Comunicación Vía Satélite, en el orden indicado; el Titular de la Unidad de Servicios a la Industria será suplido por el Director General de Licitaciones de Espectro Radioeléctrico y Servicios y por el Director General de Redes de Telecomunicaciones y Servicios, en el orden indicado; el Titular de la Unidad de Supervisión y Verificación será suplido por el Director General de Supervisión y por el Director General de Verificación, en el orden indicado; el Titular de la Unidad de Sistemas de Radio y Televisión será suplido por el Director General Adjunto de Supervisión, Inspección y Sanciones de Radiodifusión, por el Director General Adjunto de Trámites y Servicios de Radiodifusión y por el Director General Adjunto de Desarrollo de la Radiodifusión, en el orden indicado; el Titular de la Unidad de Asuntos Jurídicos será suplido por el Director General de Consulta Jurídica y por el Director General de Defensa Jurídica, en el orden indicado, y el Titular de la Unidad de Competencia Económica será suplido por el Director General de Procedimientos de Competencia, por el Director General de Concentraciones y Concesiones, y por el Director General de Consulta Económica, en el orden indicado, y el Titular de la Autoridad Investigadora será suplido por el Director General de Prácticas Monopólicas y Concentraciones Ilícitas, por el Director General de Condiciones de Mercado y por el Director General de Análisis Económico, en el orden indicado.
 
 Los demás servidores públicos del Instituto serán suplidos en sus ausencias por el servidor público designado para tales efectos por el titular de la unidad administrativa respectiva o, en su defecto, por el del nivel jerárquico inmediato inferior que le esté adscrito.
 
@@ -175,7 +213,9 @@ I. Planear, formular y conducir las políticas y programas, así como regular el
 
 II. Regular, promover y supervisar el uso, aprovechamiento y explotación eficiente del espectro radioeléctrico, los recursos orbitales, los servicios satelitales, las redes de telecomunicaciones y la prestación de los servicios de radiodifusión y telecomunicaciones, así como el acceso a infraestructura activa, pasiva e insumos esenciales;
 
-III. Expedir disposiciones administrativas de carácter general, normas, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de homologación y certificación, así como ordenamientos y criterios técnicos en materia de telecomunicaciones, radiodifusión y competencia;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+III. Expedir disposiciones administrativas de carácter general, incluyendo las Disposiciones Regulatorias, normas, planes técnicos fundamentales, lineamientos, modelos de costos, procedimientos de homologación y certificación, así como ordenamientos y criterios técnicos, en el ámbito de competencia del Instituto, de conformidad con el presente Estatuto orgánico y las leyes aplicables;
 
 IV. Emitir y modificar el Estatuto Orgánico, así como los lineamientos para el funcionamiento del Pleno;
 
@@ -205,7 +245,9 @@ XVI. Aprobar el proyecto de Presupuesto del Instituto a propuesta del Presidente
 
 XVII. Aprobar el programa de trabajo anual, así como el informe trimestral de actividades del Instituto, que deba presentarse a los Poderes Ejecutivo y Legislativo de la Unión;
 
-XVIII. Nombrar, a propuesta de cualquier Comisionado, al Titular de la Unidad de Competencia Económica, así como acordar su remoción de conformidad con lo dispuesto en el Capítulo V del Estatuto Orgánico;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XVIII. Nombrar y remover de su cargo a los titulares de la Autoridad Investigadora y de la Unidad de Competencia Económica;
 
 XIX. Determinar la existencia de agentes económicos preponderantes y con poder sustancial en el mercado relevante, en los sectores de radiodifusión y de telecomunicaciones, e imponer las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia que incluirán entre otras, las relacionadas con información, oferta y calidad de servicios, acuerdos en exclusiva, limitaciones al uso de equipos terminales entre redes, regulación asimétrica en tarifas e infraestructura de red, incluyendo la desagregación de sus elementos esenciales y en su caso la separación contable, funcional o estructural de dichos agentes;
 
@@ -213,23 +255,89 @@ XX. Establecer las medidas que permitan la desagregación efectiva de la red loc
 
 XXI. Regular de forma asimétrica a los participantes en los mercados de radiodifusión y telecomunicaciones con el objeto de eliminar eficazmente las barreras a la competencia y libre concurrencia, así como imponer límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, y ordenar la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento de estos límites;
 
-XXII. Ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia, regular el acceso a insumos esenciales, y ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, en los sectores de radiodifusión y telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-XXIII. Determinar si la información aportada por el agente económico es insuficiente para tramitar la concentración conforme al artículo 21 bis de la Ley Federal de Competencia Económica;
+XXII. Ordenar medidas para eliminar barreras a la competencia y la libre concurrencia; determinar la existencia y regular el acceso a insumos esenciales, así como ordenar la desincorporación de activos, derechos, partes sociales o acciones de los Agentes Económicos en las proporciones necesarias para eliminar efectos anticompetitivos;
 
-XXIV. Citar a los agentes económicos y celebrar audiencias orales a solicitud del probable responsable o del denunciante en términos del artículo 33 de la Ley Federal de Competencia Económica;
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-XXV. Autorizar la orden de visita a que se refiere el artículo 31 de la Ley Federal de Competencia Económica y autorizar que los servidores públicos que lleven a cabo la visita de verificación puedan solicitar el auxilio inmediato de la fuerza pública;
+XXII Bis. Presentar solicitud de sobreseimiento respecto de probables conductas delictivas contra el consumo y la riqueza nacionales previstas en el Código Penal Federal, cuando se hubiere presentado querella;
 
-XXVI. Prorrogar los plazos señalados en las fracciones IV y VII del artículo 33 bis de la Ley Federal de Competencia Económica;
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-XXVII. Ejercer las atribuciones señaladas en las fracciones IV, IV bis, V, VI, VIII, X, XIII bis, XVI, XVIII bis, XVIII bis 1, XVIII bis 2 y XVIII bis 3 del artículo 24 de la Ley Federal de Competencia Económica;
+XXII Bis 1. Ordenar la suspensión de los actos o hechos constitutivos de una probable conducta prohibida por la Ley de Competencia e imponer las demás medidas cautelares, así como fijar caución para levantar dichas medidas;
 
-XXVIII. Ordenar, a propuesta del Titular de la Unidad de Competencia Económica como medida cautelar, la suspensión de los actos constitutivos de una probable práctica monopólica o probable concentración prohibida y fijar caución en términos del artículo 34 bis 4 de la Ley Federal de Competencia Económica;
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-XXIX. Ordenar el cierre de expedientes o la reducción de multas en términos del artículo 33 bis 2 de la Ley Federal de Competencia Económica;
+XXII Bis 2. Resolver sobre los asuntos de su competencia y sancionar administrativamente la violación de la Ley de Competencia;
 
-XXX. Emitir la resolución a que se refiere la fracción VII del artículo 33 bis de la Ley Federal de Competencia Económica;
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 3. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 4. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal o a petición de parte, respecto de los ajustes a programas y políticas llevados a cabo por Autoridades Públicas, cuando éstos puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 5. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal o a petición de parte, respecto de los anteproyectos de disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 6. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal o de alguna de las Cámaras del Congreso de la Unión o a petición de parte, sobre iniciativas de leyes y anteproyectos de reglamentos y decretos en lo tocante a los aspectos de libre concurrencia y competencia económica, sin que estas opiniones tengan efectos vinculantes;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 7. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal o de alguna de las Cámaras del Congreso de la Unión, respecto de leyes, reglamentos, acuerdos, circulares y actos administrativos de carácter general en materia de libre concurrencia y competencia económica, sin que estas opiniones tengan efectos vinculantes;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 8. Opinar cuando lo considere pertinente, o a solicitud del Ejecutivo Federal o de la Cámara de Senadores del Congreso de la Unión, sobre asuntos en materia de libre concurrencia y competencia económica en la celebración de tratados internacionales, en términos de lo dispuesto en la ley de la materia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 9. Opinar sobre la incorporación de medidas protectoras y promotoras en materia de libre concurrencia y competencia económica en los procesos de desincorporación de entidades y activos públicos, así como en los procedimientos de licitaciones, asignación, concesiones, permisos, licencias o figuras análogas, cuando así lo determinen otras leyes o el Ejecutivo Federal mediante acuerdos o decretos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 10. Promover, en coordinación con las Autoridades Públicas, que sus actos administrativos observen los principios de libre concurrencia y competencia económica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 11. Realizar u ordenar la realización de estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica, en su caso, con propuestas de liberalización, desregulación o modificación normativa, cuando detecte riesgos al proceso de libre concurrencia y competencia económica, identifique un problema de competencia o así se lo soliciten otras Autoridades Públicas;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 12. Resolver los incidentes de cumplimiento y ejecución de las resoluciones en términos de los artículos 132 y 133 de la Ley de Competencia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXII Bis 13. Ordenar a la Unidad de Competencia Económica el inicio del procedimiento mediante el emplazamiento a los probables responsables en términos del artículo 78 de la Ley de Competencia, así como la notificación o publicación, según corresponda, de los dictámenes preliminares a que se refieren los artículos 94 y 96 de la misma norma, o, en su caso, decretar el cierre del expediente;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXIII. Resolver si la concentración cumple con el supuesto de notoriedad de que la concentración no tendrá como objeto o efecto, disminuir, dañar o impedir la libre concurrencia y la competencia económica a que se refiere el artículo 92 de la Ley de Competencia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXIV. Ordenar que se cite a los agentes económicos y a la Autoridad Investigadora a la audiencia oral prevista para el procedimiento seguido en forma de juicio;
+
+XXV. (DEROGADA, D.O.F. 11 DE JULIO DE 2014)
+
+XXVI. (DEROGADA, D.O.F. 11 DE JULIO DE 2014)
+
+XXVII. (DEROGADA, D.O.F. 11 DE JULIO DE 2014)
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXVIII. Ordenar, a solicitud de la Autoridad Investigadora la emisión de las medidas cautelares relacionadas con la materia de la denuncia o investigación que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado de la investigación y resolución del procedimiento y fijar caución, en términos de los artículos 135 y 136 de la Ley de Competencia;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXIX. Decretar el cierre de expedientes, resolver sobre el otorgamiento del beneficio de dispensa o reducción del importe de las multas previsto en el artículo 100 de la Ley de Competencia, así como sobre el monto de la sanción reducida en términos del artículo 103 de la misma;
+
+XXX. (DEROGADA, D.O.F. 11 DE JULIO DE 2014)
 
 XXXI. Resolver los procedimientos que en materia de competencia económica se sustancien ante el Instituto, relativos a telecomunicaciones y radiodifusión, de conformidad con lo dispuesto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -237,13 +345,15 @@ XXXII. Instruir la presentación de controversias constitucionales en términos 
 
 XXXIII. Resolver los casos relativos a concentraciones;
 
-XXXIV. Emitir la opinión a la que se refiere el artículo 38 de la Ley Federal de Competencia Económica en materia de telecomunicaciones y radiodifusión;
+XXXIV. (DEROGADA, D.O.F. 11 DE JULIO DE 2014)
 
 XXXV. Emitir criterios sobre la manera en que se llevarán a cabo las reuniones de interacción con los agentes económicos;
 
 XXXVI. Autorizar la presentación de manifestaciones y documentos en calidad de amicus curiae en términos del artículo 598 del Código Federal de Procedimientos Civiles;
 
-XXXVII. Otorgar concesiones y resolver sobre su prórroga, así como su terminación por revocación, rescate, quiebra o caducidad en términos de las leyes, previa opinión no vinculante que, en su caso, emita la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XXXVII. Otorgar concesiones y permisos, resolver sobre su prórroga, así como su terminación por revocación, rescate, quiebra o caducidad en términos de las leyes, previa opinión no vinculante que, en su caso, emita la Secretaría de Comunicaciones y Transportes;
 
 XXXVIII. Autorizar las solicitudes de servicios adicionales a los originalmente contemplados en las concesiones otorgadas que utilicen bandas de frecuencias del espectro radioeléctrico y en las concesiones de agentes económicos preponderantes o con poder sustancial;
 
@@ -269,9 +379,13 @@ XLVIII. Declarar, en su caso, la pérdida de bienes, instalaciones y equipos en 
 
 XLIX. Interpretar las disposiciones legales, reglamentarias y administrativas en el ámbito de su competencia, y
 
-L. Las demás que otros ordenamientos confieran al Instituto, cuya atención no esté conferida por el Estatuto Orgánico a otras unidades administrativas.
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-Tratándose de las atribuciones previstas en las fracciones IV y XVIII, se requerirá el voto favorable de al menos cinco Comisionados.
+L. Las demás que otros ordenamientos confieran al Instituto o al Pleno, cuya atención no esté conferida por el Estatuto Orgánico a otras unidades administrativas.
+
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+Tratándose de las atribuciones previstas en las fracciones III en cuanto hace a las Disposiciones Regulatorias, IV, XVIII y XXII siempre que esta última derive del procedimiento previsto en el artículo 94 de la Ley de Competencia, se requerirá el voto favorable de al menos cinco Comisionados.
 
 ###### Artículo 10.
 
@@ -281,15 +395,35 @@ El Pleno, a petición de cualquier Comisionado, podrá acordar el conocimiento y
 
 El Pleno requerirá la presencia de cuando menos cuatro Comisionados para sesionar válidamente. El Pleno será presidido por el Presidente del Instituto y, en sus ausencias, presidirá la sesión el Comisionado que se designe por mayoría de los Comisionados presentes y, en su defecto, presidirá el Comisionado que concluya su encargo en la fecha más lejana.
 
-Las resoluciones y acuerdos del Pleno se tomarán en forma colegiada por mayoría simple de votos de los Comisionados presentes en la sesión respectiva, salvo en los supuestos previstos en el Estatuto Orgánico en los que se requiera el voto favorable de al menos cinco Comisionados.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
 
-Las sesiones, acuerdos y resoluciones del Pleno serán de carácter público, con las excepciones que determine la ley.
+Con excepción de los casos sustanciados conforme a la Ley de Competencia, en los que las deliberaciones del Pleno se rigen por lo establecido en los artículos 18 y 19 de la misma, las resoluciones y acuerdos del Pleno se tomarán en forma colegiada por mayoría simple de votos de los Comisionados presentes en la sesión respectiva, salvo en los supuestos previstos en el Estatuto Orgánico en los que se requiera el voto favorable de al menos cinco Comisionados.
+
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+Para los asuntos en materia de competencia económica, el Presidente turnará los asuntos al Comisionado Ponente de manera rotatoria, siguiendo el orden que corresponda, conforme a lo siguiente:
+
+I. Tratándose de procedimientos seguidos en forma de juicio, de incidentes, de opiniones formales y de aquellos procedimientos tramitados con posterioridad a la emisión del dictamen preliminar, una vez que se emita el acuerdo de integración del expediente;
+
+II. Tratándose de opiniones, una vez que se emita el acuerdo de recepción o el que tenga por presentada la documentación e información faltante en términos de la fracción III del artículo 98 de la Ley, y
+
+III. Tratándose de concentraciones, una vez que se emita o se entienda por emitido el acuerdo de recepción o de admisión, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE JULIO DE 2014)</small>
+
+El Comisionado Ponente deberá presentar el proyecto de resolución al Pleno para su aprobación o modificación, antes de la sesión del Pleno; el Comisionado Ponente incorporará al proyecto de resolución las modificaciones o correcciones sugeridas por el Pleno. Para tales efectos, el Comisionado Ponente contará con el apoyo técnico de las Direcciones Generales adscritas a la Unidad de Competencia Económica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE JULIO DE 2014)</small>
+
+En aquellos casos, donde el Pleno califique como válida la actualización de un impedimento por parte del Comisionado Ponente, el expediente será turnado de nueva cuenta al siguiente Comisionado que en turno corresponda.
 
 ###### Artículo 12.
 
 Las sesiones del Pleno podrán ser ordinarias o extraordinarias. Las sesiones ordinarias se celebrarán como mínimo una vez cada mes, conforme al calendario de sesiones fijado por el Pleno. Las sesiones extraordinarias podrán ser convocadas por el Presidente o cuando menos cuatro Comisionados, a través del Secretario Técnico del Pleno. En el caso de sesiones extraordinarias, se deberán expresar en la convocatoria los asuntos específicos de las sesiones respectivas.
 
-Sin necesidad de convocatoria alguna, las sesiones del Pleno y las resoluciones y acuerdos tomados en ellas serán válidos, siempre que en tales sesiones estén presentes todos los Comisionados.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+Sin necesidad de convocatoria alguna, las sesiones del Pleno y las resoluciones y acuerdos tomados en ellas serán válidos, siempre que en tales sesiones estén presentes todos los Comisionados. Estas sesiones tendrán el carácter de extraordinarias.
 
 ###### Artículo 13.
 
@@ -297,9 +431,11 @@ De las sesiones del Pleno se levantará acta, en la que se asentarán las resolu
 
 ### CAPÍTULO IV. Del Presidente del Instituto
 
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 14.
 
-Con excepción de las atribuciones que correspondan al Pleno y a la Unidad de Competencia Económica, el Presidente tendrá a su cargo originalmente el trámite y resolución de los demás asuntos competencia del Instituto.
+Con excepción de las atribuciones que correspondan al Pleno, la Autoridad Investigadora y la Unidad de Competencia Económica, el Presidente tendrá a su cargo originalmente el trámite y resolución de los demás asuntos del Instituto.
 
 ###### Artículo 15.
 
@@ -313,7 +449,13 @@ III. Coordinar y vigilar que se ejecuten las resoluciones y cumplan los acuerdos
 
 IV. Planear, organizar, coordinar, dirigir, controlar y evaluar el desarrollo de las actividades de las Unidades, Coordinaciones Generales y demás áreas del Instituto;
 
-V. Determinar la distribución de los asuntos al interior del Instituto entre las Unidades y Coordinaciones Generales conforme a su competencia, con excepción de la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+V. Determinar la distribución de los asuntos al interior del Instituto entre las Unidades y Coordinaciones Generales conforme a su competencia, con excepción de la Autoridad Investigadora;
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+V Bis. Turnar a los demás Comisionados los asuntos en materia de competencia económica respecto de los cuales fungirán como Comisionados Ponentes, en términos de la Ley de Competencia y este Estatuto;
 
 VI. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales o municipales cuando sea necesario para el desempeño eficaz de las facultades del Instituto;
 
@@ -333,9 +475,11 @@ XIII. Intervenir con la representación del Instituto en asuntos internacionales
 
 XIV. Las demás señaladas en otras disposiciones legales, reglamentarias o administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 16.
 
-El Presidente ejercerá sus facultades directamente o mediante acuerdo delegatorio, a través de los Titulares de Unidad, Coordinadores Generales, Directores Generales, Directores Generales Adjuntos y demás servidores públicos del Instituto, con excepción del Titular de la Unidad de Competencia Económica y el personal adscrito a la misma.
+El Presidente ejercerá sus facultades directamente o mediante acuerdo delegatorio, a través de los Titulares de Unidad, Coordinadores Generales, Directores Generales, Directores Generales Adjuntos y demás servidores públicos del Instituto, con excepción del Titular de la Autoridad Investigadora y el personal adscrito a la misma.
 
 Son facultades indelegables del Presidente, las establecidas en las fracciones IV, VII, VIII y X, del artículo 15 del Estatuto Orgánico.
 
@@ -349,17 +493,25 @@ I. Formular los proyectos de resoluciones y acuerdos relativos a los asuntos que
 
 II. Formular los requerimientos internos que en su caso consideren necesarios para complementar la integración de los proyectos de resoluciones y acuerdos relativos a los asuntos a su cargo, así como solicitar, a través de los Titulares de Unidad competentes, cualquier informe o documento que se encuentre en poder de los sujetos regulados, de las dependencias y entidades de la administración pública federal, de las entidades federativas o de los municipios, del Poder Legislativo, del Poder Judicial, de otros órganos constitucionales autónomos y organismos públicos o privados, que pueda servir para la sustanciación de los asuntos, de conformidad con las leyes, reglamentos y demás ordenamientos aplicables;
 
-III. Someter al Pleno, a propuesta de al menos tres Comisionados, la remoción del Titular de la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+III. Solicitar al Presidente la incorporación o remoción de asuntos en el orden del día de las sesiones del Pleno;
 
 IV. Participar en foros, reuniones, negociaciones, eventos, convenciones y congresos relacionados con las funciones del Instituto, e informar al Pleno de dicha participación, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+IV Bis. En su carácter de Comisionado Ponente, instruir a la Unidad de Competencia Económica los términos en que presentará los proyectos de resolución y de opinión formal;
 
 V. Las demás que señale el Estatuto Orgánico y otros ordenamientos jurídicos.
 
 Cada Comisionado contará permanentemente con el apoyo del personal autorizado para el desahogo de los asuntos de su competencia.
 
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 18.
 
-Los Comisionados no podrán abstenerse de votar salvo en casos de ausencia justificada. Asimismo, estarán impedidos de conocer de cualquier asunto o caso en el que tenga interés directo o indirecto en los términos que la ley determine, por lo que estarán obligados a excusarse, en cuyo supuesto el Pleno calificará la excusa.
+Con excepción de los casos sustanciados conforme a la Ley de Competencia, en los que las deliberaciones del Pleno se rigen por lo establecido en los artículos 18 y 19 de la misma, los Comisionados no podrán abstenerse de votar salvo en casos de ausencia justificada. Asimismo, estarán impedidos de conocer de cualquier asunto o caso en el que tenga interés directo o indirecto en los términos que las leyes determinen, por lo que estarán obligados a excusarse, en cuyo supuesto el Pleno calificará la excusa.
 
 ### CAPÍTULO VI. De la Secretaría Técnica del Pleno
 
@@ -391,7 +543,9 @@ IX. Llevar el seguimiento sistemático de las resoluciones y acuerdos del Pleno,
 
 X. Llevar el control de gestión del turno, seguimiento y desahogo de los asuntos que son competencia del Pleno;
 
-XI. Realizar los trámites administrativos necesarios para que sean publicados en el Diario Oficial de la Federación los acuerdos, circulares y demás disposiciones administrativas de carácter general que emita el Instituto, excepto las relacionadas con las atribuciones de la Unidad de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XI. Realizar los trámites administrativos necesarios para que sean publicados en el Diario Oficial de la Federación los acuerdos, circulares y demás disposiciones administrativas de carácter general que emita el Instituto, excepto las relacionadas con las atribuciones de la Autoridad Investigadora;
 
 XII. Organizar y resguardar el archivo del Pleno, así como su digitalización y el control de los servicios de consulta interna a sus expedientes, coordinando la clasificación de los acuerdos y resoluciones con las unidades que correspondan, conforme a la regulación aplicable en materia de transparencia y acceso a la información pública;
 
@@ -417,7 +571,9 @@ Los Titulares de Unidad y los Coordinadores Generales se auxiliarán o apoyarán
 
 Asimismo, los servidores públicos señalados en el párrafo anterior, ejercerán las atribuciones conferidas en el Estatuto Orgánico o en los acuerdos delegatorios de facultades que emita el Presidente. Los Titulares de Unidad y Coordinadores Generales responderán directamente del desempeño de sus funciones y ejercicio de sus atribuciones ante el Presidente, y los Directores Generales y demás servidores públicos adscritos a las distintas unidades administrativas lo harán ante su superior jerárquico.
 
-La Unidad de Competencia Económica gozará de autonomía en el ejercicio de sus funciones de investigación y responderá de ellas ante el Pleno.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+La Autoridad Investigadora en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
 ###### Artículo 22.
 
@@ -464,6 +620,14 @@ V. Requerir información y documentación económica, financiera, administrativa
 VI. Admitir a trámite los asuntos presentados ante el Instituto, y
 
 VII. Las demás que les encomiende el Presidente.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+Los requerimientos que formule la Autoridad Investigadora a las Unidades y Órganos del Instituto deberán mantenerse con carácter confidencial por parte de los servidores públicos del mismo.
+
+La Autoridad Investigadora y la Unidad de Competencia Económica deberán mantener un registro de los servidores públicos que tengan acceso a la información y documentación que obre en los expedientes a su cargo.
 
 ### CAPÍTULO VIII. De la Unidad de Política Regulatoria
 
@@ -579,9 +743,13 @@ Para el despacho de los asuntos de su competencia, la Unidad de Servicios a la I
 
 A) Corresponden a la Dirección General de Licitaciones de Espectro Radioeléctrico y Servicios las siguientes atribuciones:
 
-I. Tramitar y evaluar, considerando entre otros elementos, los derechos de los usuarios, las solicitudes para el otorgamiento de concesiones en materia satelital y de televisión y audio restringidos, así como respecto de las prórrogas de las mismas, y someter el otorgamiento o, en su caso, la negativa correspondiente a consideración del Pleno;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-II. Analizar y autorizar las modificaciones y las cesiones de las concesiones y permisos en materia en materia (sic) satelital y de televisión y audio restringidos;
+I. Tramitar y evaluar, considerando entre otros elementos, los derechos de los usuarios, las solicitudes para el otorgamiento de permisos y concesiones en materia satelital y de televisión y audio restringidos, así como respecto de las prórrogas de las mismas, y someter el otorgamiento o, en su caso, la negativa correspondiente a consideración del Pleno;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+II. Analizar y autorizar las modificaciones y las cesiones de las concesiones y permisos en materia satelital y de televisión y audio restringidos;
 
 III. Tramitar y evaluar, considerando entre otros elementos, los derechos de los usuarios, las solicitudes de servicios adicionales a los originalmente contemplados en las concesiones otorgadas que utilicen espectro radioeléctrico en materia satelital y de televisión y audio restringidos y someterlas a consideración del Pleno;
 
@@ -627,7 +795,9 @@ El Director General de Licitaciones de Espectro Radioeléctrico y Servicios ser�
 
 B) Corresponden a la Dirección General de Redes de Telecomunicaciones y Servicios las siguientes atribuciones:
 
-I. Tramitar y evaluar, considerando entre otros elementos, los derechos de los usuarios, las solicitudes para el otorgamiento de concesiones en materia de telecomunicaciones, excepto en materia satelital y de televisión y audio restringidos, así como respecto de las prórrogas de las mismas, y someter el otorgamiento o, en su caso, la negativa correspondiente a consideración del Pleno;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+I. Tramitar y evaluar, considerando entre otros elementos, los derechos de los usuarios, las solicitudes para el otorgamiento de asignaciones, permisos y concesiones en materia de telecomunicaciones, excepto en materia satelital y de televisión y audio restringidos, así como respecto de las prórrogas de las mismas, y someter el otorgamiento o, en su caso, la negativa correspondiente a consideración del Pleno;
 
 II. Analizar y autorizar las modificaciones y las cesiones de las concesiones y permisos en materia de telecomunicaciones, excepto en materia satelital y de televisión y audio restringidos;
 
@@ -645,7 +815,9 @@ VIII. Calificar y dictaminar los instrumentos constitutivos, los proyectos de re
 
 IX. Revisar y autorizar los contratos de adhesión y demás instrumentos que los concesionarios de telecomunicaciones, excepto en materia satelital y de televisión y audio restringidos, y que pretendan celebrar con los usuarios de sus servicios, así como cualquier otro acto relacionado con el objeto de la concesión, sin perjuicio de las atribuciones que correspondan a otras autoridades, a fin de proteger los derechos de los usuarios;
 
-X. Proponer los derechos, productos o aprovechamientos que corresponda aplicar en materia de telecomunicaciones que sean de su competencia, ante la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+X. Proponer los derechos o productos que corresponda aplicar en materia de telecomunicaciones que sean de su competencia, ante la Secretaría de Hacienda y Crédito Público;
 
 XI. Comprobar y certificar que los productos, procesos, métodos, instalaciones, servicios o actividades de telecomunicaciones cumplen con las normas oficiales mexicanas, ordenamientos técnicos y demás disposiciones administrativas y técnicas aplicables;
 
@@ -695,7 +867,9 @@ Para el despacho de los asuntos de su competencia, la Unidad de Supervisión y V
 
 A) Corresponde a la Dirección General de Supervisión las siguientes atribuciones:
 
-I. Diseñar y ejecutar programas de supervisión y vigilancia dirigidos a prestadores de servicios y operadores de telecomunicaciones, para verificar el cumplimiento de sus títulos y demás disposiciones legales, reglamentarias y administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+I. Diseñar y ejecutar programas de supervisión y vigilancia dirigidos a prestadores de servicios y operadores de telecomunicaciones, para verificar el cumplimiento de sus títulos de concesión, asignación o permisos, y demás disposiciones legales, reglamentarias y administrativas aplicables;
 
 II. Supervisar que los concesionarios y demás sujetos regulados, cumplan con las obligaciones y condiciones que implican la presentación de información documental, establecidas en los títulos de concesión, permisos, autorizaciones, asignaciones y demás disposiciones legales, reglamentarias y administrativas aplicables;
 
@@ -797,7 +971,9 @@ III. Ejecutar el programa anual de supervisión de cumplimiento de obligaciones 
 
 IV. Ordenar la práctica de visitas de inspección a concesionarios y permisionarios de radiodifusión a efecto de verificar que cumplan con las disposiciones legales, reglamentarias, normas oficiales mexicanas, ordenamientos técnicos y demás disposiciones administrativas y técnicas en materia de radiodifusión que les resulten aplicables, así como, con las obligaciones o condiciones establecidas en los títulos de concesión, permisos y autorizaciones;
 
-V. Ordenar la práctica de visitas de inspección a estaciones de radiodifusión que operen sin concesión y, en su caso, el aseguramiento de las mismas y de los equipos asociados a la operación de éstas, para cesar la prestación del servicio público de radiodifusión sin contar con concesión;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+V. Ordenar la práctica de visitas de inspección a estaciones de radiodifusión que operen sin concesión o permiso y, en su caso, el aseguramiento de las mismas y de los equipos asociados a la operación de éstas, para cesar sus transmisiones;
 
 VI. Expedir y revocar las credenciales de los servidores públicos habilitados como inspectores-verificadores en materia de radiodifusión;
 
@@ -809,7 +985,9 @@ IX. Sustanciar los procedimientos correspondientes e imponer las sanciones que p
 
 X. Proponer al Pleno la declaratoria de pérdida de bienes, instalaciones y equipos en beneficio de la Nación y la aplicación de las sanciones que correspondan, de acuerdo con lo dispuesto en la disposiciones legales, reglamentarias y administrativas aplicables;
 
-XI. Remitir para dictamen de la Unidad de Asuntos Jurídicos, previo a la resolución conducente señalada en la fracción anterior, el expediente integrado con motivo del procedimiento respectivo y el proyecto de resolución;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+XI. Remitir para dictamen de la Unidad de Asuntos Jurídicos, previo a la resolución conducente señalada en las dos fracciones anteriores, el expediente integrado con motivo del procedimiento respectivo y el proyecto de resolución;
 
 XII. Coordinarse con la Unidad de Asuntos Jurídicos en los asuntos contenciosos y consultivos en materia de radiodifusión;
 
@@ -827,17 +1005,29 @@ I. Otorgar el apoyo que, en su caso, requieran las unidades competentes del Inst
 
 II. Requerir información y documentación económica, financiera, administrativa, comercial, operativa, técnica y cualquier otra que considere necesaria para analizar y resolver los asuntos de su competencia;
 
-III. Evaluar las solicitudes para el otorgamiento de concesiones públicas y sociales para la prestación del servicio público de radiodifusión, así como someter a consideración del Pleno la resolución de las mismas, tomando en cuenta los beneficios que el servicio ofrezca a las audiencias;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-IV. Recibir y evaluar las solicitudes que presenten los titulares de concesiones para la prestación del servicio público de radiodifusión para la prestación de servicios adicionales, en los términos que fijen las disposiciones legales, reglamentarias y administrativas aplicables;
+III. Evaluar las solicitudes para el otorgamiento de concesiones y permisos para la prestación del servicio público de radiodifusión, así como someter a consideración del Pleno la resolución de las mismas, tomando en cuenta los beneficios que el servicio ofrezca a las audiencias;
 
-V. Evaluar y tramitar las solicitudes de refrendo, cesión o adjudicación de concesiones para prestar el servicio público de radiodifusión y someter a consideración del Pleno el proyecto de resolución correspondiente;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-VI. Autorizar las solicitudes para la modificación de las características técnicas, administrativas y legales de las concesiones para prestar el servicio público de radiodifusión, así como todos los actos que afecten los derechos concesionados;
+IV. Recibir y evaluar las solicitudes que presenten los titulares de concesiones y permisos de radiodifusión para la prestación de servicios adicionales, en los términos que fijen las disposiciones legales, reglamentarias y administrativas aplicables, así como autorizar las solicitudes para la asignación de canales adicionales de Televisión Digital Terrestre a concesionarios y permisionarios de televisión radiodifundida, como parte del proceso de transición a esa tecnología digital;
 
-VII. Autorizar a concesionarios que presten el servicio público de radiodifusión, en su caso, la ampliación de plazos para dar cumplimiento a obligaciones relacionadas con la prestación de dicho servicio;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
 
-VIII. Revisar el cumplimiento de obligaciones por parte de concesionarios que prestan el servicio público de radiodifusión;
+V. Evaluar y tramitar las solicitudes de refrendo, cesión o adjudicación de concesiones y permisos para prestar el servicio público de radiodifusión y someter a consideración del Pleno el proyecto de resolución correspondiente;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VI. Autorizar las solicitudes para la modificación de las características técnicas, administrativas y legales de las concesiones y permisos para prestar el servicio público de radiodifusión, así como todos los actos que afecten los derechos concesionados y permisionados;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VII. Autorizar a concesionarios y permisionarios de radiodifusión, en su caso, la ampliación de plazos para dar cumplimiento a obligaciones relacionadas con la prestación de dicho servicio;
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VIII. Revisar el cumplimiento de obligaciones por parte de concesionarios y permisionarios de radiodifusión;
 
 IX. Remitir a la Dirección General Adjunta de Supervisión, Inspección y Sanciones de Radiodifusión, el expediente integrado con motivo del ejercicio de sus atribuciones cuando deba iniciarse un procedimiento de imposición de sanciones;
 
@@ -853,19 +1043,23 @@ C) Corresponden a la Dirección General Adjunta de Desarrollo de la Radiodifusi�
 
 I. Proponer al Pleno las políticas, programas y proyectos aplicables para el establecimiento, uso, aprovechamiento y desarrollo del servicio público de radiodifusión, así como ejecutar los proyectos que hayan sido aprobados;
 
-II. Elaborar dictámenes sobre la viabilidad de las modificaciones de las características técnicas de las concesiones de radiodifusión, así como sobre todos los actos que afecten los derechos concesionados desde el punto de vista técnico, tomando en cuenta los beneficios que el servicio ofrezca a las audiencias, así como la naturaleza del servicio público de radiodifusión;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+II. Elaborar dictámenes sobre la viabilidad de las modificaciones de las características técnicas de las concesiones y permisos de radiodifusión, así como sobre todos los actos que afecten los derechos concesionados y permisionados desde el punto de vista técnico, tomando en cuenta los beneficios que el servicio ofrezca a las audiencias, así como la naturaleza del servicio público de radiodifusión;
 
 III. Otorgar el apoyo que, en su caso, requieran las unidades competentes del Instituto, para la vigilancia del uso y aprovechamiento del espectro radioeléctrico;
 
 IV. Proponer la elaboración, modificación, emisión y cancelación de normas, procedimientos de evaluación de la conformidad, procedimientos de homologación y ordenamientos técnicos en materia de radiodifusión;
 
-V. Resolver consultas en materia de normas oficiales mexicanas y demás disposiciones administrativas y técnicas en materia de radiodifusión soliciten (sic) las unidades administrativas del Instituto y las dependencias de la Administración Pública Federal;
+V. Resolver consultas en materia de normas oficiales mexicanas y demás disposiciones administrativas y técnicas en materia de radiodifusión (sic) soliciten las unidades administrativas del Instituto y las dependencias de la Administración Pública Federal;
 
 VI. Opinar en relación a las características de los equipos y dispositivos utilizados en radio y televisión;
 
 VII. Expedir copias certificadas de los documentos existentes en las áreas a su cargo, conforme a las disposiciones aplicables;
 
-VIII. Participar e intervenir, con el apoyo de las áreas competentes del Instituto, en los diferendos entre concesionarios relativos a precios y condiciones de la retransmisión de contenidos radiodifundidos, y
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+VIII. Participar e intervenir, con el apoyo de las áreas competentes del Instituto, en los diferendos entre concesionarios o permisionarios relativos a precios y condiciones de la retransmisión de contenidos radiodifundidos;
 
 IX. Elaborar y mantener actualizada la información estadística, métricas, indicadores y proyecciones del sector de radiodifusión para el Anuario Estadístico del Instituto; desarrollar y establecer procedimientos para la obtención, depuración, actualización y difusión de información estadística, económico-financiera, documental y de evolución y comportamiento del mercado de la radiodifusión nacional e internacional y diseñar e instrumentar mecanismos electrónicos para que los prestadores de servicios de radiodifusión entreguen la información necesaria para la elaboración de la estadística en la materia;
 
@@ -929,7 +1123,9 @@ I. Asesorar jurídicamente sobre cuestiones contenciosas a las distintas unidade
 
 II. Actuar en los juicios de amparo en que el Instituto sea parte, cuando versen sobre asuntos de la competencia del Pleno, Presidente, Unidades, Coordinaciones Generales y Direcciones Generales del propio Instituto, con las facultades de delegados en las audiencias, y proponer la designación de abogados y dirigirlos en su actuación en los juicios respectivos; intervenir en los juicios de amparo cuando el Instituto tenga el carácter de tercero perjudicado; tramitar los recursos de revisión, reclamación y queja a que se refiere la legislación de amparo y, en general, llevar a cabo la sustanciación de toda clase de juicios y recursos ante el Poder Judicial de la Federación;
 
-III. Representar legalmente al Instituto en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades competentes; ejercitar las acciones, excepciones y defensas que competan al Instituto; formular escritos de demanda o contestación en toda clase de procedimientos judiciales o contencioso-administrativos, ofrecer pruebas, formular alegatos e interponer todo tipo de recursos que procedan ante los citados tribunales y autoridades; y, en general, atender la tramitación de los juicios y procedimientos y dar cumplimiento a las resoluciones que en ellos se pronuncien, salvo de naturaleza laboral que serán competencia de la Coordinación General de Administración del Instituto; así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte del Instituto;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
+III. Representar legalmente al Instituto, a su Presidente y a los Comisionados, en toda clase de juicios, procedimientos administrativos e investigaciones ante los tribunales y otras autoridades competentes; ejercitar las acciones, excepciones y defensas que competan al Instituto; formular escritos de demanda o contestación en toda clase de procedimientos judiciales o contencioso-administrativos, ofrecer pruebas, formular alegatos e interponer todo tipo de recursos que procedan ante los citados tribunales y autoridades; y, en general, atender la tramitación de los juicios y procedimientos y dar cumplimiento a las resoluciones que en ellos se pronuncien, salvo de naturaleza laboral que serán competencia de la Coordinación General de Administración del Instituto; así como coordinar la defensa en los juicios promovidos en el extranjero en que sea parte del Instituto;
 
 IV. Elaborar los proyectos de informes previos y justificados en los juicios de amparo, cuando versen sobre asuntos en que cualquier autoridad del Instituto sea designada como autoridad responsable;
 
@@ -945,121 +1141,111 @@ El Director General de Defensa Jurídica será auxiliado en el ejercicio de sus 
 
 ### CAPÍTULO XIII. De la Unidad de Competencia Económica
 
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 29.
 
-Para el despacho de los asuntos de su competencia, la Unidad de Competencia Económica tendrá adscrita a su cargo la Dirección General de Concentraciones y Condiciones de Competencia, y la Dirección General de Investigación de Prácticas Monopólicas; así como la Dirección General Adjunta de Procedimientos de Competencia. Al Titular de la Unidad de Competencia Económica le corresponden originalmente las atribuciones conferidas a las áreas que se establecen en los apartados A), B), C) y D) así como las siguientes atribuciones:
+Para el despacho de los asuntos de su competencia, la Unidad de Competencia Económica, que para todos los efectos tendrá las atribuciones del órgano encargado de la instrucción a que se refiere la Ley de Competencia, tendrá adscritas a su cargo la Dirección General de Procedimientos de Competencia, la Dirección General de Concentraciones y Concesiones y la Dirección General de Consulta Económica.
 
-I. Admitir y turnar los asuntos que se presenten ante el Instituto en materia de competencia económica; así como prevenir en su caso, para la presentación de información y documentación faltante;
+En la sustanciación de procedimientos, seguirá el contenido de las disposiciones jurídicas aplicables y será el encargado de elaborar el proyecto de resolución correspondiente.
 
-II. Tramitar la ejecución de las resoluciones y de las sanciones impuestas en materia de competencia económica, así como imponer las medidas de apremio que establece la Ley Federal de Competencia Económica;
+Para la elaboración de los proyectos de resolución y de opinión formal, la Unidad de Competencia Económica atenderá los términos instruidos por el Comisionado Ponente, a efecto de que éste lo someta a la consideración del Pleno.
 
-III. Coordinar y supervisar el trámite de los procedimientos que se sigan ante las direcciones a su cargo, cuidando la uniformidad de criterios;
+Además de la atribuciones que señale la Ley de Competencia al órgano encargado de la instrucción, al Titular de la Unidad de Competencia Económica le corresponden originalmente las atribuciones conferidas en los apartados A), B), C) y D) de este artículo, así como las siguientes:
 
-IV. Resolver las consultas y opiniones en materia de competencia a que se refieren las fracciones VII, IX y XI del artículo 24 de la Ley Federal de Competencia Económica;
+I. Emitir el acuerdo de recepción y turnar a trámite las notificaciones de concentración y las solicitudes de opinión en materia de competencia que sean presentadas, así como en su caso tener por no presentadas las mismas;
 
-V. Proponer al Pleno los proyectos de respuesta a las consultas y opiniones en materia de competencia a que se refieren las fracciones VI, VIII, X y XVIII bis 3 del artículo 24 de la Ley Federal de Competencia Económica;
+II. Ampliar los plazos de los procedimientos relativos a la notificación de concentraciones, así como los plazos para el desahogo de pruebas y para la emisión de resolución en los procedimientos para resolver sobre condiciones de mercado;
 
-VI. Desechar las denuncias que sean notoriamente improcedentes sin necesidad de prevención; así como iniciar y turnar las investigaciones de oficio;
+III. Ejecutar los acuerdos y resoluciones del Pleno en materia de competencia económica;
 
-VII. Emitir la orden de no ejecutar una concentración en términos del artículo 20 de la Ley Federal de Competencia Económica;
+IV. Emitir los acuerdos de inicio de los incidentes relativos al cumplimento y ejecución de las resoluciones del Instituto, y turnarlo a la Dirección General de Procedimientos de Competencia para el trámite del incidente,
 
-VIII. Proponer al Pleno que ordene, como medida cautelar, la suspensión de los actos constitutivos de la probable práctica monopólica o probable concentración prohibida, así como proponer la caución que éste deba fijar a fin de evitar la suspensión de los actos constitutivos de dicha práctica y proponer el levantamiento de la medida cautelar;
+V. Apoyar al Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de directrices, guías, lineamientos y criterios técnicos a que se refiere la fracción XXII del artículo 12 de la Ley de Competencia, así como proponer las modificaciones a las mismas que considere pertinentes; y
 
-IX. Requerir a la Secretaría de Hacienda y Crédito Público la información necesaria para efecto de calcular el monto de las sanciones a que se refiere el artículo 35 de la Ley Federal de Competencia Económica;
+VI. Habilitar días y horas inhábiles en los casos previstos en el calendario anual de labores, así como en aquéllos donde exista causa justificada, sólo para efectos de los procedimientos de que se trate.
 
-X. Solicitar el apoyo de la fuerza pública o de otras autoridades federales, estatales o municipales cuando sea necesario para el desempeño eficaz de sus facultades;
+A) Corresponderá a la Dirección General de Procedimientos de Competencia, Dirección General de Consulta Económica y la Dirección General de Concentraciones y Concesiones el ejercicio de las siguientes atribuciones:
 
-XI. Coadyuvar con el Pleno en la elaboración de los proyectos de criterios técnicos a que se refiere el artículo 24, fracción XVIII bis de la Ley Federal de Competencia Económica, así como en la organización y tramitación de la consulta pública a que se refiere dicha disposición;
+I. Tramitar hasta su integración los asuntos que le sean turnados;
 
-XII. Solicitar al Diario Oficial de la Federación la publicación de extractos de acuerdos de inicio, dictámenes preliminares, resoluciones, criterios técnicos o cualquier otra que se requiera conforme a la Ley Federal de Competencia Económica, el Estatuto Orgánico, las disposiciones administrativas de carácter general u otros ordenamientos;
+II. Formular los dictámenes, proyectos, opiniones, informes y consultas de los asuntos que le corresponda, además de brindar a los Comisionados el apoyo y colaboración de carácter técnico para la cabal comprensión del expediente una vez integrado;
 
-XIII. Emitir el dictamen a que se refiere el artículo 14 de la Ley Federal de Competencia Económica;
+III. Realizar las diligencias necesarias para la tramitación de los asuntos a su cargo, incluyendo las de requerir información, documentación o cualquier elemento de convicción, realizar inspecciones, así como citar a declarar;
 
-XIV. Elaborar y proponer al Pleno los proyectos de estudios, trabajos de investigación e informes generales a que se refiere la fracción XVIII bis 2 del artículo 24 de la Ley Federal de Competencia Económica;
+IV. Otorgar prórrogas en los asuntos a su cargo, siempre que las mismas se encuentren justificadas y no exista imposibilidad legal para ello;
 
-XV. Emitir la orden de visita a que se refiere el artículo 31 de la Ley Federal de Competencia Económica y autorizar que los servidores públicos que lleven a cabo la visita de verificación puedan solicitar el auxilio inmediato de la fuerza pública;
+V. Formular las prevenciones que resulten aplicables en términos de la Ley de Competencia y las Disposiciones Regulatorias, así como aquellas que resulten necesarias para el desahogo de los procedimientos, siempre que no exista impedimento legal para ello;
 
-XVI. Proponer al Pleno los análisis correspondientes para ordenar medidas para eliminar las barreras a la competencia y libre concurrencia; regular el acceso a insumos esenciales, y ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos;
+VI. Proveer sobre las pruebas que le sean ofrecidas o aportadas;
 
-XVII. Emitir el acuerdo de admisión a que se refiere el artículo 21 bis de la Ley Federal de Competencia Económica o bien ordenar su improcedencia y que el asunto se tramite conforme al artículo 21 de la Ley Federal de Competencia Económica;
+VII. Decretar y hacer efectivas las medidas de apremio que sean necesarias para el eficaz desempeño de sus atribuciones, incluido el auxilio de la fuerza pública en forma inmediata;
 
-XVIII. Emitir el acuerdo de recepción a trámite conforme a lo previsto en el artículo 21 de la Ley Federal de Competencia Económica;
+VIII. Solicitar el apoyo de autoridades federales, estatales o municipales cuando sea necesario para el desempeño eficaz de sus facultades;
 
-XIX. Coordinar los procedimientos a que se refieren los artículos 30, 33, 33 bis y 34 bis de la Ley Federal de Competencia Económica, y
+IX. Expedir copias certificadas, certificaciones o cotejos de los documentos existentes en las áreas a su cargo o que le sean presentados por los agentes económicos;
 
-XX. Llevar a cabo todos los actos que correspondan al Instituto en materia de competencia económica conforme a la Ley Federal de Competencia Económica, cuya atención no sea atribución exclusiva del Pleno.
+X. Expedir copia certificada o realizar cotejos de documentos o información para integrarlos a los expedientes;
 
-A) Corresponderá a la Dirección General de Concentraciones y Condiciones de Competencia, y a la Dirección General de Investigación de Prácticas Monopólicas; así como a la Dirección General Adjunta de Procedimientos de Competencia, las siguientes atribuciones:
+XI. Solicitar a cualquier Autoridad Pública o autoridad en el extranjero la información y documentación que requiera para indagar sobre los asuntos de su competencia;
 
-I. Tramitar, hasta su integración o conclusión, los asuntos que les turne el Titular de la Unidad;
+XII. Realizar los actos necesarios para desahogar los incidentes por posibles declaraciones falsas o entregas de información falsa;
 
-II. Formular los dictámenes, opiniones, informes y consultas de los asuntos que les correspondan además de brindar al Titular de la Unidad el apoyo y colaboración de carácter técnico que sea necesario para la cabal comprensión del expediente una vez integrado;
+XIII. Emitir acuerdos de comisión a efecto de llevar a cabo las diligencias necesarias para la sustanciación de los procedimientos a su cargo;
 
-III. Realizar las diligencias necesarias para la tramitación de los asuntos a su cargo, incluyendo las de requerir y recabar información, documentación o cualquier otro elemento de convicción, realizar inspecciones, así como citar a declarar a quienes tengan relación con los asuntos a su cargo;
+XIV. Realizar las notificaciones de las determinaciones que emitan estas Direcciones Generales, sin previo acuerdo de comisión, y
 
-IV. Otorgar prórrogas en los asuntos a su cargo en términos de las disposiciones aplicables, siempre y cuando no se trate de prórrogas que corresponda otorgar al Pleno;
+XV. Las demás atribuciones que le confieran el Pleno.
 
-V. Proveer sobre las pruebas u otros elementos de convicción que les presenten los agentes económicos;
+B) Al Director General de Procedimientos de Competencia le corresponden las siguientes atribuciones:
 
-VI. Proponer al titular de la Unidad de Competencia Económica, la solicitud de apoyo de la fuerza pública o de otras autoridades federales, estatales o municipales cuando sea necesario para el desempeño eficaz de sus facultades;
+I. Realizar el emplazamiento con el dictamen de probable responsabilidad una vez concluida la investigación, así como todos los actos necesarios para tramitar, hasta su conclusión, y dictaminar los procedimientos seguidos en forma de juicio por probables incumplimientos a la Ley Federal de Competencia Económica;
 
-VII. Proponer las sanciones y medidas de apremio que considere aplicables en los asuntos que le correspondan;
+II. Realizar la notificación y publicación del dictamen preliminar a que se refiere el artículo 94 de la Ley de Competencia, una vez concluida la investigación, así como todos los actos necesarios para darle trámite, hasta su conclusión, incluida la publicación de la resolución que corresponda;
 
-VIII. Decretar el cierre de un expediente en los casos previstos por la Ley Federal de Competencia Económica, y
+III. Realizar la publicación del dictamen preliminar a que se refiere el artículo 96 de la Ley de Competencia, una vez concluida la investigación, así como todos los actos necesarios para darle trámite, hasta su conclusión, incluida la publicación de la resolución y de sus datos relevantes;
 
-IX. Expedir copias certificadas o certificaciones de los documentos existentes en las áreas a su cargo.
+IV. Dar vista a la Autoridad Investigadora, con las manifestaciones del probable responsable, para que se pronuncie respecto a éstas, adjuntando una versión reservada para su traslado al denunciante a efecto de que pueda coadyuvar con la Autoridad Investigadora en el procedimiento;
 
-B) La Dirección General de Concentraciones y Condiciones de Competencia contará con las siguientes atribuciones:
+V. Realizar los actos necesarios para verificar el cumplimiento de las determinaciones establecidas en las resoluciones y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
-I. Estudiar y dictaminar los asuntos que en materia de notificación de concentraciones se presenten al Instituto;
+VI. Notificar los acuerdos que ordenen el inicio de incidentes, así como llevar a cabo los actos necesarios para tramitar dichos incidentes hasta su conclusión, y
 
-II. Proponer al Pleno las condiciones bajo las cuales deban autorizarse las concentraciones notificadas y supervisar su cumplimiento;
+VII. Dar trámite al procedimiento expedito a efecto de que el Pleno fije caución a fin de levantar las medidas cautelares que se hubieren decretado en los términos que dispongan las Disposiciones Regulatorias.
 
-III. Realizar estudios sobre las condiciones de competencia y libre concurrencia en los mercados correspondientes a los sectores de radiodifusión y telecomunicaciones, los niveles de concentración y participación de los agentes económicos en dichos mercados, considerando las tendencias y experiencias internacionales;
+C) Corresponderá a la Dirección General de Concentraciones y Concesiones el ejercicio de las siguientes atribuciones:
 
-IV. Formular para consideración del Pleno, en los casos previstos por las leyes, los proyectos de opinión en materia de competencia económica sobre las solicitudes presentadas por los interesados en obtener una concesión, así como para la cesión de concesiones y permisos, y emitir las opiniones en esta materia que determine el Pleno mediante criterios generales;
+I. Realizar los actos necesarios a efecto de tramitar hasta su conclusión y dictaminar los asuntos que en materia de notificación de concentraciones se presenten al Instituto, incluyendo los requerimientos de información adicional, así como aquellos que le sean turnados por el Titular de la Unidad;
 
-V. Formular para consideración del Pleno, los proyectos de resolución sobre las notificaciones que presenten los interesados en adquirir entidades o activos del sector público en proceso de desincorporación, así como las propuestas de incorporación de medidas protectoras y promotoras en materia de competencia económica en procesos de desincorporación de entidades y activos públicos;
+II. Formular para consideración del Pleno el acuerdo que comunique a los notificantes los posibles riesgos al proceso de competencia y libre concurrencia que existan en la concentración, así como proceder a su notificación una vez que el mismo sea aprobado;
 
-VI. Proponer a la Unidad de Servicios a la Industria, la incorporación de medidas protectoras y promotoras en materia de competencia económica en las licitaciones públicas de concesiones en materia de telecomunicaciones y radiodifusión que realice el Instituto;
+III. Proponer al Pleno las condiciones bajo las cuales deban autorizarse las concentraciones notificadas;
 
-VII. Coadyuvar con la Unidad de Política Regulatoria en la formulación de las contraprestaciones y tarifas que corresponda determinar al Instituto;
+IV. Realizar los actos necesarios para verificar el cumplimiento de las condiciones bajo las cuales se sujete la autorización de una concentración y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
-VIII. Investigar y dictaminar sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de competencia y libre concurrencia previstas en las leyes, reglamentos o disposiciones administrativas;
+V. Realizar los actos necesarios para verificar el cumplimiento de las condiciones establecidas en las resoluciones y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
 
-IX. Proponer límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones, que sirvan a un mismo mercado o zona de cobertura geográfica, y
+VI. Formular para consideración del Pleno el proyecto de opinión sobre las solicitudes de los interesados en participar en procedimientos de licitaciones, asignación, concesiones, permisos o figuras análogas que realicen las Autoridades Públicas, cuando así lo determinen otras leyes o el Ejecutivo Federal mediante acuerdos o decretos, y
 
-X. Dictaminar sobre los casos en que sea necesario ordenar la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento de los límites señalados en la fracción anterior;
+VII. Emitir, en los casos previstos por las leyes u otras disposiciones aplicables, las opiniones en materia de competencia económica sobre las solicitudes de cesión de concesiones y permisos.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Dirección General contará con las direcciones generales adjuntas, directores de área, subdirectores, jefes de departamento, analistas y demás personal técnico y administrativo que autorice el Pleno conforme a las disposiciones jurídicas aplicables y al presupuesto autorizado.
+D) Corresponderá a la Dirección General de Consulta Económica el ejercicio de las siguientes atribuciones:
 
-C) La Dirección General de Investigaciones de Prácticas Monopólicas contará con las siguientes atribuciones:
+I. Formular proyectos de opinión no vinculantes respecto de los ajustes a programas y políticas llevados a cabo por autoridades públicas; los anteproyectos de disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas; iniciativas de leyes y anteproyectos de reglamentos y decretos; leyes, reglamentos, acuerdos, circulares y actos administrativos de carácter general cuando éstos puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables;
 
-I. Tramitar y realizar las investigaciones por concentraciones prohibidas, prácticas monopólicas absolutas y prácticas monopólicas relativas, así como los demás asuntos que le turne el Titular de la Unidad, emitir el acuerdo de conclusión de la investigación y elaborar los dictámenes correspondientes;
+II. Dar trámite y dictaminar las solicitudes de orientaciones generales en materia de libre concurrencia y competencia económica en términos de las Disposiciones Regulatorias;
 
-II. Apoyar al Titular de la Unidad en la elaboración de las solicitudes de autorización de las órdenes de visita de verificación de las investigaciones que tramite;
+III. Apoyar al Presidente y al Pleno del Instituto en la recepción y seguimiento de Solicitudes de Opinión Formal, así como realizar todos los actos necesarios para el trámite del procedimiento previsto en el artículo 106 de la Ley de Competencia;
 
-III. Tramitar el procedimiento correspondiente al beneficio de reducción de sanciones a que se refiere el artículo 33 bis 3 de la Ley Federal de Competencia Económica;
+IV. Participar con apego a las indicaciones del Presidente en los foros, reuniones y negociaciones que se lleven a cabo con organismos internacionales y gobiernos extranjeros en materia de competencia económica;
 
-IV. Tramitar y proponer al Pleno la terminación anticipada de los procedimientos a su cargo, en términos de lo previsto en el artículo 33 bis 2 de la Ley Federal de Competencia Económica;
+V. Realizar el análisis del impacto regulatorio estimado de las Disposiciones Regulatorias, conforme a las disposiciones aplicables;
 
-V. Comunicar al interesado si la información es suficiente y el orden cronológico de su petición, en términos del artículo 33 bis 3 de la Ley Federal de Competencia Económica;
+VI. Proponer a la Unidad de Servicios a la Industria, la incorporación de medidas protectoras y promotoras en materia de competencia económica en las licitaciones públicas;
 
-VI. Proponer al Titular de la Unidad el dictamen a que se refiere el artículo 14 de la Ley Federal de Competencia Económica, así como la controversia constitucional a la que se refiere el artículo 105, fracción I, inciso l) de la Constitución Política de los Estados Unidos Mexicanos, en materia de competencia económica;
+VII. Opinar a la Unidad de Política Regulatoria en la formulación de las contraprestaciones y tarifas, las propuestas de regulación y obligaciones específicas, así como los proyectos de resolución sobre preponderancia, y
 
-VII. Dictaminar sobre el monto de los daños y perjuicios que se hubieran generado por causa de una concentración prohibida o por la comisión de prácticas monopólicas, por solicitud de una autoridad judicial de conformidad con el artículo 38 de la Ley Federal de Competencia Económica, y
-
-VIII. Coadyuvar con el Titular de la Unidad en la elaboración del oficio de probable responsabilidad y, en su caso, proponer las medidas cautelares a que se refiere el artículo 34 bis 4 de la Ley Federal de Competencia Económica.
-
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Dirección General contará con las direcciones generales adjuntas, directores de área subdirectores, jefes de departamento, analistas y demás personal técnico y administrativo que autorice el Pleno conforme a las disposiciones jurídicas aplicables y al presupuesto autorizado a este Instituto.
-
-D) La Dirección General Adjunta de Procedimientos de Competencia contará con las siguientes atribuciones:
-
-I. Tramitar los procedimientos a que se refieren los artículo 33 y 34 bis 4 de la Ley Federal de Competencia Económica y elaborar los dictámenes correspondientes;
-
-II. Apoyar al Pleno en la audiencia oral con los agentes económicos con interés jurídico en el expediente;
-
-III. Sustanciar los procedimientos relativos a la desincorporación de activos, derechos o partes necesarias para asegurar el cumplimiento a los límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones, que sirvan a un mismo mercado o zona de cobertura geográfica.
+VIII. Coadyuvar con la Dirección General de Procedimientos de Competencia en la evaluación de las medidas correctivas propuestas en las posibles barreras a la competencia o por la regulación para el acceso al insumo esencial.
 
 ### CAPÍTULO XIV. De la Coordinación General de Comunicación Social
 
@@ -1201,9 +1387,175 @@ IX. Las demás atribuciones que le confieran el Pleno o el Presidente.
 
 Para el ejercicio de sus funciones la Dirección General de Vinculación Institucional se auxiliará de los servidores públicos que se determinen conforme al presupuesto.
 
-### CAPÍTULO XVIII. De los Órganos en materia de Transparencia
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE JULIO DE 2014)</small>
 
-### Capítulo XIX. De la Contraloría Interna
+### CAPÍTULO XVIII. De la Autoridad Investigadora
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+###### Artículo 33 Bis.
+
+Para el despacho de los asuntos de su competencia, la Autoridad Investigadora tendrá adscritas a su cargo la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas; la Dirección General de Condiciones de Mercado; la Dirección General de Análisis Económico; y la Dirección General Adjunta de Atención en Procedimientos. Al Titular de la Autoridad Investigadora le corresponden originalmente las atribuciones conferidas en los apartados A), B), C), D) y E) de este artículo, así como las siguientes atribuciones:
+
+I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias que se presenten ante el Instituto por probables violaciones a la Ley de Competencia, así como dictar acuerdo de inicio respecto a las investigaciones que inicien de oficio;
+
+II. Conducir las investigaciones sobre probables violaciones a la Ley de Competencia, así como las previstas en los artículos 94 y 96 de la misma, para lo cual podrá requerir informes y documentos necesarios, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;
+
+III. Solicitar a cualquier Autoridad Pública o autoridad en el extranjero la información y documentación que requiera para indagar sobre posibles violaciones a la Ley de Competencia;
+
+IV. Expedir copias certificadas o realizar cotejos de documentos o información para integrarlos a los expedientes;
+
+V. Proporcionar la información que le sea requerida por cualquier autoridad administrativa o judicial, así como por el Pleno, en este último caso salvo que se trate de investigaciones en curso, precisando para tal efecto si se encuentra clasificada como confidencial y/o reservada en términos de ley. Asimismo, deberá proporcionar al Pleno la información requerida, salvo que se trate de investigaciones en curso;
+
+VI. Emitir el dictamen de probable responsabilidad y ejercer las acciones y desahogar los requerimientos que a ésta correspondan en las etapas de ese procedimiento;
+
+VII. Presentar denuncias y querellas ante la Procuraduría General de la República respecto de probables conductas delictivas en materia de libre concurrencia y competencia económica y, en su caso, ser coadyuvante en el curso de las investigaciones que deriven de las citadas denuncias o querellas;
+
+VIII. Procurar la aplicación y cumplimiento de la Ley de Competencia, sus Disposiciones Regulatorias y este estatuto;
+
+IX. Recabar declaraciones de testigos o de Agentes Económicos, y demás medios de convicción necesarios, para lo cual podrá solicitar el auxilio de las Autoridades Públicas;
+
+X. Coadyuvar con el Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de directrices, guías, lineamientos y criterios técnicos a que se refiere la fracción XXII del artículo 12 de la Ley de Competencia, así como proponer las modificaciones a las mismas que considere pertinentes;
+
+XI. Dictar el acuerdo de inicio y turnar a trámite las solicitudes de investigación para determinar la existencia de barreras a la competencia y libre concurrencia o insumos esenciales;
+
+XII. Dictar el acuerdo de inicio y turnar a trámite las solicitudes de investigación para determinar la existencia de poder sustancial en el mercado relevante, condiciones de competencia efectiva, u otros términos análogos;
+
+XIII. Tener por no presentadas las denuncias y solicitudes respecto de las cuales no se desahogue la prevención correspondiente;
+
+XIV. Ordenar la acumulación o la apertura de nuevas investigaciones en los términos de la Ley de Competencia y las Disposiciones Regulatorias;
+
+XV. Ampliar en casos debidamente justificados los plazos contenidos en la Ley de Competencia;
+
+XVI. Ampliar los periodos de investigación previstos en los artículos 71, 94 y 96 de la Ley de Competencia;
+
+XVII. Desechar aquellas solicitudes de investigación sobre cuestiones de competencia efectiva, existencia de poder sustancial en el mercado relevante u otros términos análogos que no reúnan los requisitos previstos en el artículo 96 de la Ley de Competencia y las Disposiciones Regulatorias;
+
+XVIII. Presentar al Pleno el dictamen que proponga el inicio del procedimiento seguido en forma de juicio en términos del artículo 78 de la Ley de Competencia, así como los dictámenes preliminares previstos en los artículos 94 y 96 de la misma, o, en su caso, el que proponga el cierre del expediente;
+
+XIX. Proponer al Pleno la presentación de la solicitud de sobreseimiento respecto de conductas delictivas contra el consumo y la riqueza nacionales, cuando el Instituto hubiere sido querellante;
+
+XX. Proponer al Pleno que ordene medidas cautelares, incluida la suspensión, de los actos constitutivos de la probable práctica monopólica o probable concentración ilícita;
+
+XXI. Solicitar al Diario Oficial de la Federación la publicación de extractos de acuerdos de inicio en los términos de la Ley de Competencia y las Disposiciones Regulatorias;
+
+XXII. Emitir la orden de visitas de verificación a que se refiere la Ley Federal de Competencia Económica;
+
+XXIII. Realizar los actos necesarios para verificar el cumplimiento de los compromisos establecidos en las resoluciones en términos de los artículos 100 y 103 de la Ley de Competencia y, en su caso, remitir el expediente al Titular de la Unidad de Competencia Económica para el inicio del trámite del incidente de cumplimiento y ejecución de resoluciones;
+
+XXIV. Habilitar días y horas inhábiles en los casos previstos en el calendario anual de labores, así como en aquéllos donde exista causa justificada, sólo para efectos de las investigaciones de que se trate;
+
+XXV. Proveer sobre la solicitud para acogerse al beneficio de la reducción de sanciones, sometiendo al Pleno el proyecto correspondiente para su resolución;
+
+XXVI. Nombrar y remover a los servidores públicos a su cargo, conforme a la normatividad aplicable;
+
+XXVII. Ejercer las demás atribuciones que confieran a la Autoridad Investigadora la Ley de Competencia, las Disposiciones Regulatorias y este Estatuto, y
+
+XXVIII. Procurar y propiciar la coadyuvancia del denunciante en el procedimiento seguido en forma de juicio.
+
+Todas las facultades establecidas en este apartado podrán ser ejercidas mediante delegación a las Direcciones Generales y la Dirección General Adjunta, adscritas a la Autoridad Investigadora, previa publicación en el Diario Oficial de la Federación del acuerdo respectivo.
+
+A) Corresponderán a la Dirección General de Investigaciones de Prácticas Monopólicas y Concentraciones Ilícitas; y la Dirección General de Condiciones de Mercado, las siguientes atribuciones:
+
+I. Tramitar hasta su conclusión los asuntos que le sean turnados por el Titular de la Autoridad Investigadora;
+
+II. Formular las prevenciones que resulten aplicables en términos de la Ley de Competencia y las Disposiciones Regulatorias, así como aquellas que resulten necesarias para el desahogo de las investigaciones, siempre que no exista impedimento legal para ello;
+
+III. Formular los dictámenes, proyectos, opiniones, informes y consultas de los asuntos que le corresponda, además de brindar a los Comisionados el apoyo y colaboración de carácter técnico para la cabal comprensión del expediente, una vez presentado al Pleno el dictamen de probable responsabilidad o que proponga el cierre del expediente, así como los dictámenes preliminares;
+
+IV. Proporcionar la información que le sea requerida por el Pleno o cualquiera de los Comisionados sobre los expedientes que se encuentren asignados a la Autoridad Investigadora, salvo que se trate de investigaciones en curso;
+
+V. Realizar las diligencias necesarias para la tramitación de los asuntos a su cargo, incluyendo las de requerir información, documentación o cualquier elemento de convicción, realizar visitas de verificación e inspecciones, así como citar a declarar a quienes tengan relación con los asuntos a su cargo y recabar sus declaraciones;
+
+VI. Otorgar prórrogas en los asuntos a su cargo, siempre que las mismas se encuentren justificadas y no exista imposibilidad legal para ello;
+
+VII. Proveer sobre las pruebas que le sean ofrecidas o aportadas;
+
+VIII. Decretar y hacer efectivas las medidas de apremio que sean necesarias para el eficaz desempeño de sus atribuciones, incluido el auxilio de la fuerza pública en forma inmediata;
+
+IX. Solicitar el apoyo de Autoridades Públicas cuando sea necesario para el desempeño eficaz de sus facultades;
+
+X. Solicitar a cualquier Autoridad Pública o autoridad en el extranjero la información y documentación que requiera para indagar sobre posibles violaciones a la Ley Federal de Competencia Económica;
+
+XI. Expedir copias certificadas, certificaciones o cotejos de los documentos existentes en las áreas a su cargo o que le sean presentados por los agentes económicos;
+
+XII. Expedir copia certificada o realizar cotejos de documentos o información para integrarlos a los expedientes;
+
+XIII. Emitir oficios de comisión a efecto de llevar a cabo las diligencias necesarias para la sustanciación de las investigaciones a su cargo;
+
+XIV. Realizar los actos necesarios para investigar los actos que posiblemente constituyan declaraciones falsas o entregas de información falsa, y
+
+XV. Realizar las notificaciones de las determinaciones que emitan estas Direcciones Generales, sin previo acuerdo de comisión.
+
+B) Corresponderán a la Dirección General de Investigaciones de Prácticas Monopólicas y Concentraciones Ilícitas las siguientes atribuciones:
+
+I. Tramitar y realizar las investigaciones por probables violaciones a la Ley de Competencia;
+
+II. Proponer al Titular de la Autoridad Investigadora la ampliación del periodo de investigación prevista en el artículo 71 de la Ley de Competencia, así como emitir el acuerdo de conclusión de la investigación correspondiente;
+
+III. Apoyar al Titular de la Autoridad Investigadora en la elaboración de las órdenes de visita de verificación de las investigaciones que trámite, así como practicar las mismas en los términos contenidos en dichas órdenes;
+
+IV. Reiterar los requerimientos de información que formule en aquellos casos donde el desahogo de los mismos resulte insuficiente para tenerlos por desahogados;
+
+V. Realizar los actos necesarios, y formular el dictamen con su opinión respecto la pretensión del agente económico solicitante, para desahogar el trámite del procedimiento de dispensa o reducción del importe de las multas previsto en el artículo 101 de la Ley de Competencia, en su caso, hasta la reanudación del procedimiento;
+
+VI. Recibir y tramitar, en términos de las Disposiciones Regulatorias, las solicitudes que formulen agentes económicos, así como personas físicas, para acogerse al beneficio de reducción de sanciones establecido en el artículo 103 de la Ley de Competencia;
+
+VII. Una vez integrado el expediente, hacer del conocimiento del Comisionado Ponente el nombre de los agentes económicos y personas físicas que se hubieran acogido a los beneficios previstos en el artículo 103 de la Ley de Competencia, así como las condiciones de su solicitud, y
+
+VIII. Elaborar para consideración del Titular de la Autoridad Investigadora, el proyecto de dictamen de probable responsabilidad y, en su caso proponer las medidas cautelares que correspondan, así como el que proponga el cierre del expediente.
+
+C) Corresponderán a la Dirección General de Condiciones de Mercado las siguientes atribuciones:
+
+I. Tramitar y realizar las investigaciones sobre condiciones de competencia efectiva, existencia de poder sustancial en el mercado relevante u otros términos análogos, relativas al proceso de competencia y libre concurrencia;
+
+II. Tramitar y realizar las investigaciones sobre condiciones de competencia en un mercado con el fin de determinar la existencia de barreras a la competencia y libre concurrencia o insumos esenciales, y
+
+III. Proponer al Titular de la Autoridad Investigadora las ampliaciones del periodo de investigación previstas en los artículos 94 y 96 de la Ley de Competencia, así como emitir el acuerdo de conclusión de la investigación correspondiente.
+
+D) Corresponderá a la Dirección General de Análisis Económico las siguientes atribuciones:
+
+I. Apoyar en coordinación con las demás Direcciones Generales adscritas a la Autoridad Investigadora en el análisis de los aspectos económicos de los asuntos tramitados ante la misma;
+
+II. Realizar los estudios económicos, trabajos de investigación e informes generales para efecto de las investigaciones previstas en la Ley Federal de Competencia Económica, y
+
+III. Incorporar en las investigaciones que se tramitan ante la Autoridad Investigadora las mejores prácticas internacionales en materia de competencia económica.
+
+E) Corresponderá a la Dirección General Adjunta de Atención en Procedimientos las siguientes atribuciones:
+
+I. Coadyuvar al titular de la Autoridad Investigadora, así como a las Direcciones Generales a su cargo, en los procedimientos seguidos en forma de juicio;
+
+II. Apoyar en los requerimientos que formule la Dirección General de Defensa Jurídica para la defensa de los actos emitidos por la Autoridad Investigadora ante los órganos jurisdiccionales competentes;
+
+III. Apoyar y asesorar jurídicamente a la Autoridad Investigadora; y coadyuvar con la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas;
+
+IV. Proponer al Titular de la Autoridad Investigadora lineamientos sobre uniformidad de criterios en la actuación de las Direcciones Generales que estén a su cargo, y
+
+V. Apoyar al Titular de la Autoridad Investigadora, así como a las Direcciones Generales que estén a su cargo, a supervisar la aplicación de la Ley Federal de Competencia Económica, las Disposiciones Regulatorias y el presente Estatuto.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+###### Artículo 33 Ter.
+
+En el caso de que los servidores públicos de la Autoridad Investigadora se entrevisten con los agentes económicos para el despacho de los asuntos de su competencia, se sujetarán a lo siguiente:
+
+I. Siempre deberán estar presentes al menos dos servidores públicos;
+
+II. Las solicitudes de reunión se realizarán vía correo electrónico institucional en la que se asentará la identificación del expediente, los agentes económicos, o representantes legales que solicitan la reunión, personas que asistirán, servidores públicos con quienes pretende reunirse y el motivo de la reunión, y
+
+III. El servidor público guardará constancia de la entrevista, a fin de integrarla al registro de la Autoridad Investigadora, y deberá señalar fecha y hora de la reunión y comunicarlo al solicitante vía correo electrónico institucional.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2014)</small>
+
+###### Artículo 33 Quater.
+
+La Autoridad Investigadora no estará sujeta a las reglas de contacto antes señaladas cuando se trate de reuniones de las que puedan derivar elementos de identificación de fuentes derivadas del beneficio de reducción del importe de multas tratándose de prácticas monopólicas absolutas.
+
+Las entrevistas de la Autoridad Investigadora que se realicen respecto de los supuestos señalados anteriormente, podrán llevarse a cabo en lugares distintos a las oficinas del Instituto, siempre y cuando estén presentes al menos dos servidores públicos.
+
+La Autoridad Investigadora deberá llevar a cabo un estricto control interno de las convocatorias y desarrollo de las reuniones a que se refiere este precepto, información que será clasificada como reservada.
+
+### CAPÍTULO XIX. De los Órganos en materia de Transparencia
 
 ###### Artículo 34.
 
@@ -1217,7 +1569,7 @@ El Instituto contará con un Consejo de Transparencia facultado para resolver, e
 
 Dicho Consejo estará integrado por un servidor público designado por el Pleno, el Secretario Técnico del Pleno, el Titular de la Unidad de Asuntos Jurídicos y el Titular de la Contraloría Interna.
 
-### CAPÍTULO XX. Disposiciones Finales
+### Capítulo XX. De la Contraloría Interna
 
 ###### Artículo 36.
 
@@ -1273,6 +1625,8 @@ XX. Las demás que las disposiciones legales y administrativas le otorguen.
 
 La Dirección de Responsabilidades y Quejas podrá ejercer las facultades previstas en las fracciones VIII, IX, XI, XII, XIII, XIV, XIX y XX; la Dirección de Auditoría podrá ejercer las facultades previstas en las fracciones III, IV, V, VI, VII, VIII, X, XII, XIX y XX; y la Dirección de Control, Evaluación y Desarrollo Administrativo podrá ejercer las facultades referidas en las fracciones I, II, XV, XVI, XVII, XVIII, XIX y XX.
 
+### CAPÍTULO XXI. Disposiciones Finales
+
 ###### Artículo 38.
 
 Todos los trabajadores de base y de confianza del Instituto estarán obligados a aplicar los manuales de normatividad interna y procedimientos que al efecto se establezcan. Se considerará que dichos manuales son obligatorios cuando los mismos se hubieran dado a conocer a los citados trabajadores y exista la constancia respectiva o, en su caso, se hayan incorporado a la red informática del Instituto.
@@ -1289,8 +1643,22 @@ Los días en que el Instituto suspenda sus labores, o cuando sus oficinas perman
 
 TRANSITORIOS (SIC)
 
-PRIMERO (SIC).- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 El Presidente, Gabriel Oswaldo Contreras Saldívar.- Rúbrica.- Los Comisionados: Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja.- Rúbricas.
 
 El presente Estatuto fue aprobado por Acuerdo del Pleno del Instituto Federal de Telecomunicaciones en su I Sesión, celebrada el 20 de septiembre de 2013, por unanimidad de votos de los Comisionados Gabriel Oswaldo Contreras Saldívar, Luis Fernando Borjón Figueroa, Ernesto Estrada González, Adriana Sofía Labardini Inzunza, María Elena Estavillo Flores, Mario Germán Fromow Rangel y Adolfo Cuevas Teja; con fundamento en los párrafos décimo noveno fracciones I y III y vigésimo del artículo 28 del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013; mediante Acuerdo P/IFT/200913/1.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE JULIO DE 2014.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos del "Acuerdo mediante el cual el Pleno del Instituto Federal de Telecomunicaciones aprobó su calendario anual de sesiones ordinarias y el calendario anual de labores para el año 2014", publicado en el DOF el 5 de febrero de 2014, la Autoridad Investigadora, para el ejercicio de sus atribuciones, podrá habilitar días y horas inhábiles, cuando hubiere causa que lo exija.
+
+TERCERO.- En tanto se designa al primer titular de la Autoridad Investigadora, la facultad prevista en el artículo 33 Bis, fracción XXVI, será ejercida por el Presidente del Instituto.
+
+CUARTO.- En tanto se emitan los lineamientos relativos al sistema de servicio profesional del Instituto, los nombramientos que se hagan de Directores Generales y Titulares de Unidad, deberán de recaer en personas con experiencia mínima de tres años relacionados con el ejercicio de sus funciones y título profesional con antigüedad mínima de cinco años.
