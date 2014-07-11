@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2013-05-24"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 24 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -139,7 +137,9 @@ VII.- Los depositarios e interventores;
 
 VIII.- Los peritos médicos legistas;
 
-IX.- Los intérpretes y demás peritos en los ramos que se les encomienden;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+
+IX.- Los intérpretes, personal especializado en atención a personas menores de edad y demás peritos en los ramos que se les encomienden;
 
 X.- Los síndicos e interventores de concursos y quiebras;
 
@@ -3669,11 +3669,11 @@ Las erogaciones que motive el otorgamiento de estímulo y recompensas, serán co
 
 Los cargos de los auxiliares de la administración de justicia son oficios de interés público que deben ser desempeñados por personas de buena conducta, imparcialidad e idoneidad absoluta. La función de los auxiliares no constituye una profesión. Para cada oficio se exigirán conocimientos y experiencia en la materia que corresponda y, cuando el caso lo requiera, título profesional legalmente expedido. Los honorarios respectivos son garantía constitucional y una equitativa retribución del servicio; pero en ningún caso podrán significar una carga excesiva para los que soliciten la intervención del órgano jurisdiccional.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 231.
 
-Las personas que tengan interés en figurar en las listas de auxiliares de la administración de justicia como peritos, intérpretes, depositarios, interventores, síndicos de concursos, albaceas, partidores, liquidadores, tutores, curadores, notarios públicos y corredores, deberán formular su solicitud ante la Presidencia del Tribunal Superior de Justicia, directamente, o por conducto de un Juzgado de Primera Instancia, con expresión de su identidad, domicilio, estudios, títulos profesionales, práctica y experiencia en su especialidad, cargos desempeñados y servicios que aspiren a prestar.
+Las personas que tengan interés en figurar en las listas de auxiliares de la administración de justicia como peritos, intérpretes, personal especializado en atención a personas menores de edad, depositarios, interventores, síndicos de concursos, albaceas, partidores, liquidadores, tutores, curadores, notarios públicos y corredores, deberán formular su solicitud ante la Presidencia del Tribunal Superior de Justicia, directamente, o por conducto de un Juzgado de Primera Instancia, con expresión de su identidad, domicilio, estudios, títulos profesionales, práctica y experiencia en su especialidad, cargos desempeñados y servicios que aspiren a prestar.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -4846,3 +4846,9 @@ Los artículos comprendidos en el Título Décimo Cuarto de este Decreto entrar�
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
