@@ -4,7 +4,7 @@ identifier: "COA-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-8998"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "1993-07-27"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 11 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de julio de 1993.
 
@@ -154,3 +156,13 @@ LIC. ELISEO FRANCISCO MENDOZA BERRUETO
 EL SECRETARIO DE GOBIERNO
 
 LIC. FELIPE A. GONZALEZ RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley para Prevenir y Sancionar la Tortura en el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado el 27 de julio de 1993.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a las contenidas en la presente ley.
