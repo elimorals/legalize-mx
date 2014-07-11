@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-12-30"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -284,6 +284,10 @@ IV. Los demás elementos susceptibles legal y materialmente de incorporación.
 ###### ARTÍCULO 16.
 
 Las autoridades en materia de vialidad vigilarán en todo momento que las vialidades en el Estado cuenten con la señalización correspondiente; siendo obligación de éstas, dar aviso por escrito a las Secretarías o Direcciones competentes por la falta de dicha señalización conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+ARTÍCULO 16 BIS.- La Secretaría supervisará que la instalación, colocación y exposición de anuncios publicitarios que tengan por objeto el uso o explotación de las vialidades estatales, sean instalados y conservados en la forma que mejor garanticen su uso adecuado y la seguridad de los peatones y conductores.
 
 ### CAPÍTULO III. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS CONDUCTORES Y PEATONES
 
@@ -654,3 +658,11 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las autoridades competentes emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de noventa días.
