@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-06-28"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -749,13 +749,9 @@ XXIV. Participar en la creación y administración de sus reservas territoriales
 
 XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la apropiación social de éstos;
 
-> <small>(ADICIONADA, G.G. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
 
-XXIV Ter. Prohibir el establecimiento de una gasolinera o estación de servicio con respecto a otra similar, en una distancia menor en forma radial de 1,000 metros en áreas urbanas y menor de 10,000 metros lineales en áreas rurales y carreteras, como una acción preventiva ante un riesgo, observando invariablemente las disposiciones federales, estatales y municipales en materia de protección civil, ambientales, de seguridad, desarrollo urbano y demás aplicables; así como los lineamientos que señala el Plan de Desarrollo Urbano Municipal.
-
-Tratándose de municipios colindantes en el Estado, que integren una zona conurbada o metropolitana, para el cumplimiento de lo dispuesto en esta fracción, deberán establecer los mecanismos de coordinación necesarios para el cumplimiento de esta disposición.
-
-Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
+XXIV Ter. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -863,9 +859,13 @@ II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
 
-> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
 
-IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; contar con título profesional o experiencia mínima de un año en la materia, para el desempeño de los cargos que así lo requieran y en los otros casos, de preferencia ser profesional en el área en la que sea asignado.
+IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; contar con título profesional o experiencia mínima de un año en la materia, para el desempeño de los cargos que así lo requieran;
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2014)</small>
+
+V. En los otros casos, acreditar ante los mencionados en la fracción anterior, contar preferentemente con carrera profesional concluida o en su caso con certificación o experiencia mínima de un año en la materia.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -4072,3 +4072,19 @@ Se exhorta al Procurador General de Justicia del Estado de México, para que la 
 DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
 DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
+
+G.G. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 254 POR EL QUE SE REFORMA LA FRACCIÓN XXIV TER DEL ARTÍCULO 31.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 255 POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 32.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
