@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2011-03-30"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -925,17 +925,25 @@ Una vez recibida la Recomendación, el superior jerárquico debe informar dentro
 
 La Comisión debe informar a los quejosos la aceptación y cumplimiento que las autoridades y servidores públicos den a las Recomendaciones.
 
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 107.
 
-Las Recomendaciones no son vinculatorias; sin embargo, una vez aceptadas, las autoridades o servidores públicos están obligados a cumplirlas en sus términos.
+Las Recomendaciones no son vinculatorias; sin embargo, una vez aceptadas, todas las autoridades o servidores públicos están obligados a responder, cumplirlas en sus términos y a dar publicidad a las acciones llevadas a cabo para la protección o restitución de los derechos humanos.
+
+Para tal efecto, como mínimo deberán publicar dichas acciones en la página oficial de internet que corresponda y en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### Artículo 108.
 
 La Comisión debe verificar el cumplimiento de sus Recomendaciones, para lo cual, puede realizar toda clase de actuaciones, gestiones o diligencias de oficio o a petición de parte.
 
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 109.
 
-Cuando una Recomendación no sea aceptada por el superior jerárquico de que se trate, o habiéndola aceptado sea omiso en su cumplimiento, la Legislatura del Estado, a petición de la Comisión, puede solicitar su comparecencia a efecto de que justifique su negativa u omisión.
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deben fundar, motivar y hacer pública su negativa.
+
+La Legislatura del Estado, a petición de la Comisión, podrá solicitar su comparecencia a efecto de que justifique su negativa u omisión.
 
 ### Capítulo XI. De los recursos
 
@@ -1140,3 +1148,9 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 11 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Las presentes reformas entraran en vigencia al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
