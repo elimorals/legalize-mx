@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-rural-93881"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-12"
-last_updated: "2013-04-12"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 12 de abril de 2013.
 
@@ -76,6 +76,10 @@ III. Secretaría Técnica;
 IV. Coordinación de Planeación;
 
 V. Coordinación Administrativa;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+
+V BIS. Dirección General de Asuntos Jurídicos;
 
 VI. Dirección de Agricultura;
 
@@ -145,7 +149,7 @@ XIV. Autorizar y aprobar los presupuestos de los programas, obras y gasto corrie
 
 XV. Coordinar, vigilar y controlar el funcionamiento de los órganos desconcentrados de la Secretaría;
 
-XVI. Firmar cheques de las diferentes cuentas bancarias que se tengan aperturadas para la operación de los programas, obras y gasto corriente de la Secretaría; y (sic)
+XVI. Firmar cheques de las diferentes cuentas bancarias que se tengan aperturadas para la operación de los programas, obras y gasto corriente de la Secretaría; y
 
 XVII. Escuchar la opinión que los productores rurales, las autoridades federales y municipales, así como los sectores privado y social, tengan en relación con las actividades de desarrollo rural en el Estado, con el fin de mejorar la calidad de vida de la población coahuilense;
 
@@ -321,17 +325,19 @@ XVIII. Coordinar con la Unidad Administrativa correspondiente, la participación
 
 XIX. Dar seguimiento a la operación de la Secretaría a fin de mantener informado al o la titular de la Secretaría;
 
-XX. Vigilar que en todos los asuntos de la Secretaría y de las unidades adscritas a ellas, se dé cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
+XX. (DEROGADA, P.O. 11 DE JULIO DE 2014)
 
-XXI. Coordinar con las áreas responsables, las auditorías que se presenten por parte de los órganos de control, tanto estatales como federales, así como con despachos externos;
+XXI. (DEROGADA, P.O. 11 DE JULIO DE 2014)
 
-XXII. Atender, en coordinación con las unidades administrativas, asuntos de índole jurídica con apoyo y supervisión de la Consejería Jurídica;
+XXII. (DEROGADA, P.O. 11 DE JULIO DE 2014)
 
 XXIII. Coordinar las reuniones del Consejo Estatal para el Desarrollo Rural Sustentable, y dar seguimiento a los acuerdos que se deriven de las mismas; y
 
-XXIV. Coordinar el proceso de transparencia de las distintas áreas de la Secretaría.
+XXIV. (DEROGADA, P.O. 11 DE JULIO DE 2014)
 
-#### SECCIÓN SEGUNDA. DE LAS COORDINACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2014)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS COORDINACIONES Y DIRECCIONES GENERALES
 
 ###### ARTÍCULO 14.
 
@@ -432,6 +438,50 @@ XXIX. Atender las necesidades de las unidades administrativas sobre servicios ge
 XXX. Verificar, de conformidad con los ordenamientos correspondientes, las alternativas para la obtención de insumos, que sean proporcionadas a la Secretaría por proveedores de bienes y servicios; y
 
 XXXI. Supervisar los inventarios físicos de bienes muebles, inmuebles y de consumo de la Secretaría promoviendo su regularización, baja y en su caso, conforme a las disposiciones aplicables, destino final con el apoyo de las instancias correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+ARTÍCULO 15 BIS.- Corresponden al titular de la Dirección General de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+
+I. Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la Secretaría e informar oportunamente de los mismos al titular de la misma;
+
+II. Planear, programar, organizar, dirigir, evaluar y controlar las funciones encomendadas a su cargo y acordar con el titular de la Secretaría los asuntos cuya importancia lo amerite;
+
+III. Fungir como titular de la Unidad de Transparencia y Acceso a la Información de la Secretaría;
+
+IV. Fungir como enlace ante la Secretaría de Fiscalización y Rendición de Cuentas en los procesos de entrega-recepción de la Secretaría;
+
+V. Representar legalmente a la Secretaría en todas las controversias y trámites competencia de ésta, así como iniciar y continuar acciones ante los órganos formal o materialmente jurisdiccionales, desistirse, interponer recursos, promover incidentes, ofrecer o rendir pruebas, alegar y seguir los juicios y procedimientos hasta ejecutar las resoluciones y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley;
+
+VI. Asesorar jurídicamente al titular de la Secretaría y demás titulares de las unidades administrativas que la integran y entidades paraestatales sectorizadas a la misma, en la elaboración de proyectos, acuerdos, convenios, contratos y demás instrumentos jurídicos que la Secretaría celebre con otras instancias de la administración pública federal, estatal, municipal y demás organizaciones sociales o educativas, y llevar el registro de los actos aludidos una vez formalizados;
+
+VII. Revisar que todos los procesos de concursos, licitaciones y contratos, estén apegados a la legislación estatal y federal vigente según sea el origen de los recursos;
+
+VIII. Atender auditorías, supervisiones o fiscalizaciones que realice cualquier órgano de control;
+
+IX. Intervenir y coordinar los programas de auditoría que se presenten para revisiones de las diferentes áreas de la Secretaría y de los programas y acciones bajo sus responsabilidades, con las diferentes instancias de control;
+
+X. Supervisar y dar seguimiento a las auditorías practicadas a fin de que las áreas operativas cumplan en tiempo y forma con la solución de las observaciones realizadas;
+
+XI. Iniciar y dar seguimiento hasta su conclusión a los procedimientos administrativos iniciados en contra de beneficiarios que incumplan con las obligaciones señaladas en la normatividad aplicable.
+
+XII. Compilar las leyes, reglamentos, decretos, acuerdos, circulares, resoluciones y demás disposiciones jurídicas y administrativas, así como la jurisprudencia y tesis relacionadas con la competencia de la Secretaría;
+
+XIII. Elaborar los proyectos de informes en los juicios de amparo y los recursos que en el caso procedan;
+
+XIV. Atender las denuncias y quejas que se presenten con motivo de irregularidades de funcionarios públicos de la Secretaría;
+
+XV. Iniciar procedimientos administrativos de responsabilidad según lo establecido en la Ley de Responsabilidades de Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, o dar aviso a la Secretaría de Fiscalización y Rendición de Cuentas a fin de que inicie el procedimiento correspondiente, según lo establezca la legislación aplicable;
+
+XVI. Proponer al titular de la Secretaría las modificaciones a la estructura orgánica de la misma, Direcciones y Coordinaciones, de acuerdo a las necesidades propias de sus actividades y del óptimo funcionamiento de la Secretaría;
+
+XVII. Registrar los instrumentos normativos que emita el titular de la Secretaría y los demás titulares de las unidades administrativas, de acuerdo a su competencia, así como los nombramientos, autorizaciones o delegaciones que para el ejercicio de sus funciones corresponda;
+
+XVIII. Atender y dar seguimiento a las resoluciones que pronuncien las autoridades jurisdiccionales, así como las recomendaciones emitidas por las Comisiones Nacional y Estatal de Derechos Humanos, coordinándose con las unidades administrativas de la Secretaría para su cumplimiento;
+
+XIX. Expedir de conformidad con la normatividad aplicable, copias certificadas de las constancias que obren en los archivos de la Secretaría, cuando deban ser exhibidas en los procedimientos judiciales, administrativos, contenciosos y en cualquier averiguación o proceso, así como a petición fundada y motivada del interesado, en los casos en que procedan;
+
+XX. Las demás que le delegue o encomiende el titular de la Secretaría o que le confiera la normatividad aplicable.
 
 #### SECCIÓN TERCERA. DE LAS DIRECCIONES
 
@@ -698,3 +748,11 @@ EL SECRETARIO DE DESARROLLO RURAL
 NOÉ FERNANDO GARZA FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- El presente decreto de modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Desarrollo Rural deberán adecuarse en un término no mayor de 30 días a partir de la entrada en vigor del presente decreto.
