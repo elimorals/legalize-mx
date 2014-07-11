@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2013-11-20"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -283,6 +283,16 @@ La Legislatura se constituirá en Colegio Electoral y en votación nominal desig
 
 Los nombramientos y licencias de los magistrados del Tribunal Superior de Justicia serán remitidas por el Consejo de la Judicatura a la Legislatura o a la Diputación Permanente, la que resolverá en el término de diez días; tratándose de los magistrados del Tribunal de lo Contencioso Administrativo, serán presentadas por conducto del Ejecutivo, observándose el mismo plazo para su resolución.
 
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2014)</small>
+
+###### Artículo 33 Bis.
+
+Las comisiones que conozcan del nombramiento o designación de servidores públicos que por mandato de Ley corresponda a la Legislatura, verificarán inexcusablemente que los aspirantes cubran los requisitos constitucionales y legales para ocupar el cargo al que son propuestos.
+
+Cuando exista urgencia sobre la designación o nombramiento de servidores públicos y se haya dispensado el turno a comisión, el procedimiento referido en el artículo 13 A fracción I inciso g) del Reglamento del Poder Legislativo del Estado Libre y Soberano de México, podrá llevarse a cabo ante la Junta de Coordinación Política o en el Pleno. En caso de que la solicitud se presente ante la Diputación Permanente ésta deberá convocar a un periodo extraordinario de sesiones observando el procedimiento dispuesto.
+
+Se entiende por urgencia cuando la falta del servidor público, impida, interfiera o ponga en riesgo una función pública trascendental para el Estado.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2013)</small>
@@ -525,7 +535,7 @@ VIII. Entregar las iniciativas y expedientes, a las comisiones o comités corres
 
 IX. Proporcionar a las comisiones o comités la información que obre en su poder, cuando lo soliciten;
 
-X. Informar al final de cada sesión de las faltas de asistencia (sic) justificadas y sin justificar de los diputados;
+X. Informar al final de cada sesión de las faltas de asistencia justificadas y sin justificar de los diputados;
 
 XI. Firmar las resoluciones que expida la Legislatura, así como la correspondencia que lo requiera;
 
@@ -1463,7 +1473,7 @@ Para el control, fiscalización y revisión del ingreso y del gasto público de 
 
 Las atribuciones y funcionamiento de la Secretaría de Asuntos Parlamentarios, la Contraloría, la Secretaría de Administración y Finanzas, la Dirección General de Comunicación Social y el Instituto de Estudios Legislativos, serán regulados por el Reglamento correspondiente.
 
-Los titulares de estas dependencias serán electos por la Asamblea y duraran en su encargo cuatro años, pudiendo ser removidos de acuerdo con la ley.
+Los titulares de estas dependencias serán electos por la Asamblea y durarán en su encargo cuatro años, pudiendo ser removidos de acuerdo con la ley.
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -2062,3 +2072,11 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Los actuales integrantes de la Comisión Legislativa Editorial y de Biblioteca conformarán el comité permanente que se crea y sus funciones serán las establecidas en virtud de este decreto.
+
+G.G. 11 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
