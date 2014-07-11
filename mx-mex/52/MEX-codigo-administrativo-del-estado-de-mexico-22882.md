@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2014-06-27"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1° DE AGOSTO DE 2014 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4865,9 +4867,9 @@ c) No podrán colindar con casa habitación;
 
 d) Ser inscritos en los registros municipales sobre establecimientos comerciales, detallando la licencia con el giro específico e impacto que produce su actividad, así como las demás características que el Ayuntamiento determine.
 
-> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
 
-XI. Prohibir el establecimiento de una gasolinera o estación de servicio con respecto a otra similar, en una distancia menor en forma radial de 1,000 metros en áreas urbanas y menor de 10,000 metros lineales en áreas rurales y carreteras, como una acción preventiva ante un riesgo, observando invariablemente las disposiciones federales, estatales y municipales en materia de protección civil, ambientales, de seguridad, desarrollo urbano y demás aplicables; así como los lineamientos que señala el Plan de Desarrollo Urbano Municipal.
+XI. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
 Tratándose de municipios colindantes en el Estado, que integren una zona conurbada o metropolitana, para el cumplimiento de lo dispuesto en esta fracción, deberán establecer los mecanismos de coordinación necesarios para el cumplimiento de esta disposición.
 
@@ -7203,7 +7205,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 67.- Los concesionarios deberán abstenerse de recibir:
 
-I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, o recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
+I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, o recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza:;
 
 II. Junto con el vehículo, alimentos perecederos, medicamentos a granel, drogas, armas, animales, productos químicos, materiales o residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, mutagénicos o biológico infecciosos y demás productos o mercancías que se encuentren a simple vista, cuya conservación represente un riesgo para la salud o para el ambiente, por su concentración, propiedades químicas o resultados de la descomposición;
 
@@ -16764,3 +16766,9 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE JULIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
