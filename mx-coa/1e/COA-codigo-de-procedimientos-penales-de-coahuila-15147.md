@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2014-01-10"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,9 +29,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 UNA VEZ QUE SE HAYA OBSERVADO LO PREVISTO EN EL PÁRRAFO QUE ANTECEDE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999 QUEDARÁ ABROGADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -2883,19 +2881,23 @@ INFIRMACIÓN DE LA CONFESIÓN. Toda confesión admite prueba en contrario.
 
 #### SECCIÓN TERCERA. TESTIGOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 348.
 
 OBLIGACIÓN DE DAR TESTIMONIO. Toda persona tiene la obligación de rendir testimonio cuando se le pida; excepto los casos que determina la ley.
 
-Si la persona que se citó se niega a testificar; u omite o niega responder a preguntas que se le hagan antes, durante o después de su testimonio: Se le prevendrá que tal conducta se sanciona penalmente como desacato. Si persiste en su actitud, se dará vista al Ministerio Público para que proceda en consecuencia. A menos que se acoja a su derecho de no declarar por considerar que al hacerlo se incriminaría penalmente. Lo cual se hará constar.
+Si la persona que se citó se niega a testificar; u omite o niega responder a preguntas que se le hagan antes, durante o después de su testimonio: Se le prevendrá que tal conducta se sanciona penalmente como desacato. Si persiste en su actitud, se dará vista al Ministerio Público para que proceda en consecuencia. A menos que se acoja a su derecho de no declarar por considerar que al hacerlo se incriminaría penalmente o se trate de persona menor de edad. Lo cual se hará constar.
+
+Para que una persona menor de edad rinda testimonio, el Ministerio Público o Juez, dará intervención a personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifieste. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el menor de edad, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
+
+Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del menor de edad, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 349.
 
-QUIENES NO TIENEN OBLIGACIÓN DE DECLARAR. Tendrán excusa para declarar: 1) Los que deban guardar secreto profesional. 2) Los que tengan con el inculpado: a) Motivos de afecto por intimidad, estrecha amistad o gratitud. b) Parentesco por consanguinidad; o afinidad en línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto grado. 3) El cónyuge; adoptante o adoptado; tutor, curador o pupilo del inculpado.
+QUIENES NO TIENEN OBLIGACIÓN DE DECLARAR. Tendrán excusa para declarar: 1) Los que deban guardar secreto profesional. 2) Los que tengan con el inculpado: a) Motivos de afecto por intimidad, estrecha amistad o gratitud. b) Parentesco por consanguinidad; o afinidad en línea recta ascendente o descendente sin limitación de grados y en la colateral hasta el cuarto grado. 3) El cónyuge; adoptante o adoptado; tutor, curador o pupilo del inculpado. 4) Las personas menores de edad que padezcan alguna afectación a su estado de salud mental que sea determinante para impedir que declare.
 
 Los anteriores motivos de excusa se apoyarán con algún medio de prueba. Pero el juzgador podrá pedir otro, cuando exista motivo para desconfiar del que se presente.
 
@@ -2937,6 +2939,24 @@ Cuando el testigo esté fuera del lugar donde resida el juzgado o tribunal; se p
 
 DECLARACIÓN DEL TESTIGO. Las declaraciones de los testigos se tomarán por separado y se dispondrá lo pertinente para evitar que aquellos se comuniquen entre sí.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+ARTÍCULO 355 BIS. DECLARACIÓN DE TESTIGOS MENORES DE EDAD.
+
+Cuando la declaración provenga de personas menores de edad, se deberá:
+
+I. Informarles, por medio del personal capacitado en tratamiento de menores de edad designado por el Ministerio Público o Juez, que digan la verdad.
+
+II. Se les explicará, de manera que puedan entender, el alcance de su declaración y el objetivo de la diligencia.
+
+III. No se les presionará, ni obligará para que señale a persona alguna.
+
+La diligencia podrá llevarse a cabo en lugar distinto a las instalaciones del juzgado, de acuerdo a las exigencias del mecanismo a implementar y podrá ser recabada con la ayuda de cualquier medio electrónico audiovisual.
+
+El ministerio público, el abogado de la víctima u ofendido, el defensor y, de ser posible, el inculpado podrán asistir a la diligencia pero no podrán interferirla, ni intervenir sino a través del juez quien decidirá si la diligencia deberá continuar.
+
+El juez siempre supervisará la implementación de los mecanismos del personal especializado de tal manera que no afecte su desarrollo pero se asegurará de que no se vulneren los derechos de los testigos menores de edad o de las partes.
+
 ###### ARTÍCULO 356.
 
 IDENTIFICACIÓN Y PROTESTA DE TESTIGOS. Antes de que el testigo comience a declarar, se le pedirá identificación. Se harán constar los datos del documento con el que se identifique. Después, se le instruirá acerca de las sanciones que el código penal establece para quién se conduce con falsedad o se niega a declarar. Enseguida, se le tomará la protesta de decir verdad.
@@ -2966,6 +2986,10 @@ El Ministerio Público, el inculpado o su defensor tienen derecho de preguntar d
 El juez o las partes, a través de preguntas, podrán solicitar al testigo aclare o amplíe lo que declaró o respondió en la diligencia; o en otras que obren en la causa; leyéndole lo conducente.
 
 Cuando se trate de ratificaciones de declaraciones anteriores, se interrogará expresamente al testigo si las entiende y reconoce en sus términos. Así como si las reproduce o no las reproduce como tales. Si se estima conducente, además, se le facilitará el acta para que el propio testigo la lea. Para los efectos anteriores, no se empleará el término "ratificación".
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Cuando el testigo sea menor de edad siempre se dará intervención al personal especializado mencionado en el artículo 348 para que cumpla con el propósito de su función.
 
 ###### ARTÍCULO 359.
 
@@ -3043,6 +3067,16 @@ Se conducirá al confrontante frente a las personas que formen la fila. Se le pe
 
 Cuando se estime necesario preservar la identidad del confrontante, la diligencia podrá practicarse utilizando medios adecuados para que aquél no pueda ser visto por el confrontado. Haciéndose constar lo anterior. Así como el motivo para proceder de esta forma; sin perjuicio de los careos que fuere necesario practicar.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+ARTÍCULO 370 BIS. DERECHOS CUANDO EL CONFRONTANTE SEA MENOR DE EDAD. Cuando el confrontante sea menor de edad, se deberá:
+
+I. Asegurar que las personas objeto de la confrontación no lo vean, no lo escuchen o lo puedan identificar;
+
+II. Asegurar que el confrontante no escuche a las personas objeto de la confrontación; y
+
+III. No presionar ni obligar al menor de edad para que señale a persona alguna.
+
 #### SECCIÓN QUINTA. CAREOS
 
 ###### ARTÍCULO 371.
@@ -3083,11 +3117,15 @@ Luego el juzgador les manifestará las discrepancias que de ellas resulten. En l
 
 Concluido lo anterior, el juzgador dará al inculpado, defensor y Ministerio Público la oportunidad de formular preguntas a los careados. Si se trata de careo constitucional, el Ministerio Público sólo tendrá este derecho cuando el objeto del careo fue formular preguntas al testigo; o se use tal derecho por el inculpado o su defensor.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 377.
 
-MEDIDAS ESPECIALES PARA CAREOS CONSTITUCIONALES CON MENORES DE EDAD Y TESTIGOS CON IDENTIDAD RESERVADA. Cuando el ofendido o víctima que deba ser careado con el inculpado sea menor de 16 años de edad, el juzgador podrá disponer cualquiera de las medidas siguientes:
+MEDIDAS ESPECIALES PARA CAREOS CONSTITUCIONALES CON MENORES DE EDAD Y TESTIGOS CON IDENTIDAD RESERVADA. Cuando el ofendido o víctima que deba ser careado con el inculpado sea menor de 16 años de edad, el careo se llevará a cabo en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el inculpado pueda cuestionar a la víctima o los testigos durante la audiencia sin confrontarlos físicamente.
 
-1) Leer por separado a cada uno de los careados las discrepancias que hay entre sus declaraciones y preguntarles lo que al respecto tengan que decir. 2) Que las preguntas se hagan por su conducto. 3) Si lo estima indispensable, que el interrogatorio lo formule sólo el defensor.
+A falta de cualquier medio electrónico audiovisual, el juzgador podrá disponer cualquiera de las medidas siguientes:
+
+1) Separar físicamente a los careados. 2) Leer por separado a cada uno de los careados las discrepancias que hay entre sus declaraciones y preguntarles lo que al respecto tengan que decir. 3) Que las preguntas se hagan por su conducto. 4) Si lo estima indispensable, que el interrogatorio lo formule sólo el defensor.
 
 El juzgador podrá tomar las mismas medidas cuando se levante la reserva de identidad de testigos, según lo estime necesario.
 
@@ -4631,6 +4669,10 @@ XIII. DEFENSA INADECUADA. En los casos en que la defensa inadecuada trascienda o
 
 REPOSICIÓN DEL PROCEDIMIENTO. Si al expresar agravios no se alegan violaciones a las normas del procedimiento penal, que hubiesen afectado la defensa del inculpado, el tribunal de apelación podrá suplir la deficiencia y ordenar que se reponga el procedimiento.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+ARTÍCULO 577 BIS. Cuando se resuelva que habrá lugar a la reposición de procedimientos se salvaguardarán las diligencias en las que haya participado una víctima o testigo menor de edad, sin que se puedan repetir de manera injustificada, salvo juicio contrario del Juez mismo que deberá estar fundado y motivado, procurando siempre no afectar la estabilidad emocional y psicológica del menor de edad.
+
 ###### ARTÍCULO 578.
 
 SANCIONES AL PERSONAL DEL JUZGADO. Cuando al resolver se encuentre que se retardó indebidamente el despacho del asunto; que se violó la ley durante el proceso; o que se cometió cualquier otra falta; se dará vista a la autoridad facultada para declararla e imponer la sanción.
@@ -6121,9 +6163,9 @@ TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las l
 
 Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Ministerial.
 
-Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad: (sic)
+Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad:
 
-Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos:
 
 CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado, publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas:
 
@@ -6186,3 +6228,9 @@ P.O. 24 DE DICIEMBRE DE 2013.
 PRIMERO.- La presente reforma entrará en vigor un mes después, contado a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
