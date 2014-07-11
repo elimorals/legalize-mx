@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "2009-05-12"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -161,7 +161,11 @@ XIII.- Intervenir, cuando el interesado opte por esta vía y no por la judicial,
 
 XIV.- Intervenir en la tramitación extrajudicial de sucesiones testamentarias e intestamentarias, conforme a las disposiciones legales aplicables en cada caso; y
 
-XV.- Las demás que establezcan las leyes.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+
+XV.- Presentar al usuario de los servicios notariales un presupuesto detallado del monto de los impuestos, derechos y honorarios que se causarán con motivo del acto o negocio jurídico a formalizar, conforme a las leyes de carácter fiscal Federal, Estatal y Municipales, y del Arancel de los Notarios vigentes al momento de la solicitud de los servicios; así como a informar del tiempo estimado para la conclusión del trámite solicitado, conforme a los plazos establecidos en las leyes que resulten aplicables a dicho trámite; y
+
+XVI.- Las demás que establezcan las leyes.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
@@ -901,7 +905,7 @@ III.- Otorgar la protesta de ley ante el Ejecutivo del Estado dentro de los 30 d
 
 IV.- Establecer su Notaría e iniciar sus funciones, dentro de los 30 días siguientes a la fecha en que haya otorgado la protesta, informando de ello inmediatamente a las Autoridades y Dependencias mencionadas en la fracción I y avisando al público mediante publicación a su costa en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO SEPTIMO. DE LAS LICENCIAS, SUSPENSIONES TEMPORALES, SUPLENCIAS Y ASOCIACION DE NOTARIOS
 
@@ -991,7 +995,9 @@ La falta definitiva de cualquiera de los Notarios Asociados, será causa de term
 
 Los Convenios de Asociación y la disolución de los mismos, por cualquier causa, deberán registrarse en la Dirección de Notarías del Estado y en la Oficina del Registro Público de la Propiedad y de Comercio del Distrito que corresponda al de las Notarías que se pretenden asociar. Tanto los Convenios de Asociación como de disolución serán publicados en el Periódico Oficial del Gobierno del Estado.
 
-### CAPITULO OCTAVO. DE LA TERMINACION DEL CARGO DE NOTARIO
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 11 DE JULIO DE 2014)</small>
+
+### CAPITULO OCTAVO. DE LA TERMINACIÓN DEL CARGO DE NOTARIO
 
 ###### ARTICULO 119.
 
@@ -1005,17 +1011,23 @@ III.- Abandono del cargo, en los términos previstos por la presente Ley;
 
 IV.- Hechos supervenientes de los que impiden su ingreso a la función o que los impedimentos indicados en la fracción II del artículo 113, duren más de dos años;
 
-V.- Separación definitiva del cargo como sanción impuesta por el Ejecutivo del Estado en los términos de la fracción IV del artículo 158; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+
+V.- Separación definitiva del cargo como sanción impuesta por el Secretario de Gobierno en los términos de la fracción IV del artículo 158; y
 
 VI.- Sanción impuesta por los tribunales competentes por sentencia firme e irrevocable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 120.
 
-Se considerará abandonado el cargo y en consecuencia quedará sin efecto el nombramiento del Notario, si dentro del término de 30 días siguientes al de la protesta rendida ante la autoridad respectiva el Notario no procede a iniciar sus funciones y a fijar su residencia en el lugar en que deba desempeñarlas, salvo caso de fuerza mayor que se lo impida a juicio del Ejecutivo del Estado. En este caso de excepción, el término empezará a contar cuando la causa haya cesado.
+Se considerará abandonado el cargo y en consecuencia quedará sin efecto el nombramiento de Notario, si dentro del término de 30 días siguientes al de la protesta rendida ante la autoridad respectiva el Notario no procede a iniciar sus funciones y a fijar su residencia en el lugar en que deba desempeñarlas, salvo caso de fuerza mayor que se lo impida a juicio del Secretario de Gobierno. En este caso de excepción, el término empezará a contar cuando la causa haya cesado.
 
 Se considerará abandonado el cargo si a pesar de la incompatibilidad establecida en el artículo 6o., el Notario continúa desempeñando simultáneamente la función notarial.
 
-Igualmente se considerará abandonado el cargo, si transcurrido el plazo de la licencia que se le hubiere concedido, el Notario no se presenta a reanudar sus labores, sin causa debidamente justificada a juicio del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Igualmente se considerará abandonado el cargo si el Notario, sin haber solicitado ningún tipo de licencia a las que tiene derecho, no se presenta durante 30 días consecutivos a ejercer la función notarial, o si transcurrido el plazo de la licencia que se le hubiere concedido, el Notario no se presenta a reanudar sus labores, sin causa debidamente justificada a juicio del Director de Notarías.
 
 En estos casos se declarará vacante la plaza y se procederá a cubrirla en los términos de esta Ley.
 
@@ -1037,19 +1049,25 @@ Siempre que se promueva judicialmente la interdicción de algún Notario, el Jue
 
 Tan luego como el Ejecutivo del Estado tenga conocimiento de que un Notario adolece de impedimentos físicos o intelectuales de conformidad con esta Ley para el ejercicio del Notariado, requerirá al Consejo de Notarios, para que proponga 5 médicos de los cuales se designarán 2 para que determinen acerca de la naturaleza del padecimiento y si éste lo imposibilita para actuar y la duración del mismo.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 125.
 
-Comprobados los hechos que originen la terminación del nombramiento de Notario, el Ejecutivo del Estado dictará acuerdo en tal sentido, lo cual se publicará por una sola vez en el Periódico Oficial y se comunicará a las autoridades a que se refiere el artículo 110 de esta Ley.
+Comprobados los hechos que originen la terminación del nombramiento de Notario, el Secretario de Gobierno dictará acuerdo en tal sentido, lo cual se publicará por una sola vez en el Periódico Oficial y se comunicará a las autoridades a que se refiere el artículo 110 de esta Ley.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 126.
 
-Dictado el acuerdo de terminación del cargo de Notario, el Ejecutivo del Estado a través de la Secretaría del Ejecutivo del Estado, con un representante del Consejo de Notarios, procederá a levantar la diligencia correspondiente para la clausura del protocolo, en los términos del artículo 128; remitiéndose el mismo al Archivo de Notarías, para que sea entregado al Notario que lo suceda en sus funciones.
+Dictado el acuerdo de terminación del cargo de Notario, el Secretario de Gobierno a través de la Dirección de Notarías, con un representante del Consejo de Notarios, procederá a levantar la diligencia correspondiente para la clausura del protocolo, en los términos del artículo 128; remitiéndose el mismo al Archivo de Notarías, para que sea entregado al Notario que lo suceda en sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 127.
+
+El Notario que suceda en sus funciones a aquél cuya terminación del nombramiento se acordó, autorizará los actos o contratos que en su caso proceda y expedirá los testimonios respectivos. Si no hubiere suplente o en casos de suma urgencia la autorización de los mismos y la expedición de testimonios lo hará el notario que designe la Dirección de Notarías.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
-
-###### ARTICULO 127.
-
-El Notario que suceda en sus funciones a aquél cuya terminación del nombramiento se acordó, autorizará los actos o contratos que en su caso proceda y expedirá los testimonios respectivos. Si no hubiere suplente o en casos de suma urgencia la autorización de los mismos y la expedición de testimonios lo hará el notario que designe el Ejecutivo del Estado.
 
 Una vez concluidos los trámites, el protocolo se remitirá a la Dirección de Notarías.
 
@@ -1067,11 +1085,11 @@ Los interventores que fueren designados para actuar en la clausura de un protoco
 
 El Notario que por cualquier causa reciba una Notaría ya establecida, deberá hacerlo por riguroso inventario de los libros y documentos a que se refiere el artículo anterior sin que esté facultado para tomar posesión de los demás bienes que se encuentren en la oficina del Notario a quien substituye. La diligencia de recepción se llevará a cabo con asistencia de los interventores a que se refiere el artículo 128. De la misma se levantará acta por cuadruplicado, cuyos ejemplares se distribuirán entre el Ejecutivo del Estado, el Consejo de Notarios, el Notario que reciba la Notaría y el Notario substituto.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 131.
 
-El Notario substituido tiene derecho a asistir a las diligencias de clausura de protocolo y de entrega de éste al Notario substituto. Si la vacante es por causa de delito, asistirá también a dichas diligencias el Agente del Ministerio Público que designe el Fiscal General del Estado.
+El Notario substituido tiene derecho a asistir a las diligencias de clausura de protocolo y de entrega de éste al Notario substituto. Si la vacante es por causa de delito, asistirá también a dichas diligencias el Agente del Ministerio Público que designe el Procurador General de Justicia del Estado.
 
 ## TITULO TERCERO
 
@@ -1155,11 +1173,15 @@ Los consejeros sólo podrán estar separados de su cargo, durante el tiempo en q
 
 Cada año, si la Secretaría del Ejecutivo estima conveniente, se practicará una visita ordinaria a todas las Notarías del Estado. Esta visita ordinaria se referirá al año anterior.
 
-Además de las visitas ordinarias, la Secretaría del Ejecutivo del Estado, podrá mandar que se practiquen visitas especiales, en cualquier tiempo y a cualquier Notaría.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 144.
+Además de las visitas ordinarias, la Dirección de Notarías podrá ordenar que se practiquen visitas especiales, en cualquier tiempo y a cualquier Notaría y sin necesidad de notificación previa.
 
-Cuando la visita no tenga por objeto la investigación de un delito, cuya averiguación se esté practicando por las autoridades competentes, se dará aviso al Notario con ocho días de anticipación.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 144.
+
+Cuando la visita tenga por objeto la investigación de un delito, cuya averiguación se esté practicando por las autoridades competentes, se dará aviso al Notario con 8 días de anticipación.
 
 ###### ARTICULO 145.
 
@@ -1177,15 +1199,19 @@ III.- Si la visita tiene por objeto un instrumento determinado, se examinarán l
 
 IV.- En todo caso el visitador cuidará de cerciorarse que, después de tres meses de cerrados los protocolos hayan sido encuadernados con sus correspondientes apéndices.
 
-###### ARTICULO 146.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-De toda visita se levantará una acta donde se harán constar las irregularidades observadas; se consignarán en general los puntos en que la Ley no haya sido fielmente cumplida y los hechos y fundamentos que el Notario exponga en su defensa. El Notario tendrá derecho a duplicado del acta firmada por el visitador y por el mismo.
+###### ARTÍCULO 146.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+De toda visita se levantará un acta donde se harán constar las irregularidades observadas; se consignarán en general los puntos en que la Ley no haya sido fielmente cumplida y los hechos y fundamentos que el Notario exponga en su defensa. El Notario tendrá derecho a duplicado del acta firmada por el visitador y por él mismo.
 
-###### ARTICULO 147.
+Se concederá al Notario un plazo de conformidad con el visitador para que demuestre ante la Dirección de Notarías haberlas subsanado, en caso contrario se dará inicio al procedimiento previsto en los artículos 157 y siguientes de la presente Ley.
 
-Las visitas se practicarán por acuerdo del Ejecutivo del Estado y se llevarán a cabo por la Dirección de Notarías.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 147.
+
+Las visitas ordinarias se practicarán por orden del Secretario de Gobierno y se llevarán a cabo por la Dirección de Notarías con los visitadores asignados a su cargo.
 
 ## TITULO QUINTO
 
@@ -1193,11 +1219,13 @@ Las visitas se practicarán por acuerdo del Ejecutivo del Estado y se llevarán 
 
 ### CAPITULO UNICO. DE LA DIRECCION DE NOTARIAS
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 148.
+###### ARTÍCULO 148.
 
-La Dirección de Notarías tendrá a su cargo la atención y el despacho de todos los asuntos relacionados con el Notariado, así como la organización, conservación y guarda del Archivo de Notarías.
+La Dirección de Notarías tendrá a su cargo la atención y el despacho de todos los asuntos relacionados con el Notariado, así como la organización, conservación y guarda del archivo de notarías. Para tal efecto, será dotada del presupuesto que le permita contar con las áreas necesarias para el eficiente desempeño de sus funciones, entre ellas la de asuntos jurídicos, quejas, testamentos, informática, administración y archivo.
+
+Para el cumplimiento de sus funciones en materia de conservación, guarda, modernización y digitalización de los archivos histórico y de concentración la Dirección de Notarías podrá gestionar e integrar proyectos ante organismos nacionales e internacionales públicos y privados con el objeto de obtener recursos económicos para tales funciones, así como con empresas, instituciones o dependencias públicas o privadas.
 
 ###### ARTICULO 149.
 
@@ -1217,41 +1245,59 @@ IV.- Con los sellos de los Notarios que deben depositarse o inutilizarse conform
 
 La Dirección de Notarías dependerá de la Secretaría General de Gobierno y estará a cargo de un Director nombrado y removido libremente por el Ejecutivo del Estado, y del personal que determine el presupuesto de egresos del Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+El director de notarías deberá tener título de abogado, licenciado en derecho o en ciencias jurídicas, contar con conocimientos suficientes en derecho notarial y ser persona de reconocida solvencia moral.
+
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 151.
 
 La Dirección de Notarías usará un sello igual al de los Notarios, pero en su circunferencia dirá: "Dirección de Notarías, Estado de Coahuila de Zaragoza".
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 152.
+###### ARTÍCULO 152.
 
-Son obligaciones y atribuciones del la Dirección de Notarías:
+A la Dirección de Notarías corresponde el despacho de los siguientes asuntos:
 
-I.- Comunicar al Secretario del Ejecutivo del Estado las irregularidades y violaciones de la Ley, que advierta en el ejercicio de la función notarial;
+I.- Estudiar y proponer métodos de conservación y respaldo de la documentación e información relacionada con la función notarial;
 
-II.- Vigilar el funcionamiento general de las Notarías a través de los visitadores a su mando;
+II.- Vigilar el funcionamiento general de las notarías a través de los visitadores a su mando;
 
-III.- Inutilizar los sellos de los Notarios, cuando proceda conforme a la Ley y conservar aquellos que deban depositarse;
+III.- Comunicar al Secretario de Gobierno las irregularidades y violaciones a la ley que advierta en el ejercicio de la función notarial;
 
-IV.- Llevar el registro de expedición de patentes de aspirantes y de Notarios; de sellos y firmas de estos últimos y de las suplencias. En estos registros se asentarán la fecha de los nombramientos, aquellos en que se haya dejado de actuar por virtud de licencia, permiso o suspensión del Notario y su reanudación;
+IV.- Llevar el registro de los fiat de Notario, del sello de autorizar, de la rúbrica y firma de los Notarios, así como de los convenios de asociación, suplencia, y su modificación y terminación. Para tal efecto, llevará un expediente por cada Notario, que se formará con la documentación relacionada con la actividad notarial y que, a juicio del titular, considere conveniente conservar;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
+V.- Recibir los sellos de autorizar de los Notarios para su inutilización que se hayan deteriorado, alterado o aparecido después de su extravío, así como los que no cumplan con los requisitos previstos en esta ley;
 
-V.- Llevar un registro de los testamentos que autoricen los Notarios e ingresar por vía electrónica los avisos de testamento que con tal motivo reciba a (sic) la base de datos del Registro Nacional del Aviso de Testamentos, y rendir los informe que le soliciten las autoridades judiciales competentes o notarios públicos en cumplimiento a lo dispuesto por la presente ley;
+VI.- Llevar un registro de los testamentos que autoricen los Notarios, e ingresar por vía electrónica los avisos de testamento que con tal motivo reciba a la base de datos del Registro Nacional de Avisos de Testamento, y rendir los informes que les soliciten las autoridades judiciales competentes o Notarios en cumplimiento a lo dispuesto por la presente Ley;
 
-VI.- Rendir los informes y la cooperación técnica que le sea requerida por otras dependencias del Gobierno del Estado;
+VII.- Expedir, cuando así proceda, a los otorgantes interesados, causahabientes o apoderados, testimonios o copias de los documentos del archivo a su cargo, previo pago de los derechos que se causen;
 
-VII.- Expedir, cuando proceda legalmente, previo pago de los derechos en la Tesorería General del Estado, a los otorgantes interesados o a sus causahabientes, los testimonios que pidieran de las escrituras o actos notariales registrados en los protocolos, cuyo depósito y conservación le encomienda la presente Ley; sujetándose en la expedición de dichos testimonios a las reglas establecidas en este ordenamiento;
+VIII.- Autorizar definitivamente, a solicitud de los interesados, los instrumentos notariales que hubieren quedado pendientes, asentados en los protocolos que se encuentren bajo su custodia, y realizar, para tal efecto, los trámites correspondientes mediante el pago a cargo de los interesados de los impuestos y derechos que, en su caso, se requiera;
 
-VIII.- Llevar los índices generales, según las reglas que acuerde el Ejecutivo;
+IX.- Revisar que los libros de protocolo cumplan con todos y cada uno de los requisitos previstos en esta ley, a efecto de recibirlos para su conservación y guarda definitiva;
 
-IX.- Autorizar definitivamente los instrumentos notariales en los términos del artículo 34 cuando el Notario ha cesado en sus funciones, en los casos previstos por esta Ley;
+X.- Llevar el control de las actas que se levanten con motivo de las visitas que practiquen los visitadores a su mando;
 
-X.- Llevar el control de las actas que se levanten con motivo de las visitas que practique por sí o a través de los visitadores de la dependencia a su cargo;
+XI.- Recibir las inspecciones judiciales, cuando la ley lo autorice;
 
-XI.- Las demás que sean propias y naturales del cargo o fije esta Ley u otros ordenamientos jurídicos.
+XII.- Contestar, debidamente fundadas y motivadas, las consultas que le presenten los Notarios respecto a la aplicación de alguna disposición de esta ley;
+
+XIII.- Entregar al Notario y a sus gestores la credencial o cédula de identificación expedida por el Secretario de Gobierno, para el efecto de acreditarlos en el ejercicio de la función notarial y de gestión, respectivamente, e informar a las dependencias federales, estatales y municipales relacionadas con la función Notarial, de las credenciales expedidas.
+
+La credencial tendrá vigencia anual y su alcance y efectos permanecerán inalterados mientras el Notario se encuentre en el ejercicio de su función;
+
+XIV.- Expedir a las autoridades judiciales o administrativas que en el ejercicio de sus funciones lo soliciten, copia certificada de los instrumentos notariales sujetos a su resguardo;
+
+XV.- Practicar, en coordinación con las dependencias o entidades que conforme a la ley corresponda, auditorías de sistemas o en físico para la investigación de presuntas violaciones a la presente ley y a las demás disposiciones aplicables a la función notarial;
+
+XVI.- Proponer al Secretario las medidas de seguridad con que deben contar los folios del índice, protocolo y testimonio;
+
+XVII.- Establecer los mecanismos y medios de comunicación, físicos, electrónicos o de cualquier otra tecnología, para la entrega y recepción eficiente de la información que deban entregar los Notarios a la Dirección de Notarías en términos de la presente ley; y
+
+XVIII.- Las demás que expresamente le confieran las leyes.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
 
@@ -1271,55 +1317,79 @@ Los visitadores ejercerán las funciones que les sean encomendadas por el titula
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-###### ARTICULO 155.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-Los Notarios son responsables por los delitos y faltas que cometan con motivo del ejercicio de su función en los mismos términos en que lo son los demás ciudadanos; en consecuencia, quedarán sometidos a la jurisdicción de las autoridades penales en todo lo concerniente a los actos y omisiones delictuosas en que incurran.
+###### ARTÍCULO 155.
 
-###### ARTICULO 156.
+Los Notarios serán responsables civil, penal y administrativamente de los daños y perjuicios que por ignorancia, negligencia, dolo o culpa ocasionen a las partes o a terceros en el ejercicio de su función.
 
-De la responsabilidad civil en que incurran los Notarios, conocerán los tribunales civiles, a instancia de parte legítima y en los términos de su respectiva competencia.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+###### ARTÍCULO 156.
 
-A los Notarios Públicos que sean llamados para dar testimonio judicial de los actos en que hubieren intervenido con motivo del ejercicio de sus funciones, se les solicitará su declaración por oficio y la rendirán por la misma vía.
+De la responsabilidad civil en que incurran los Notarios conocerán los tribunales civiles a instancia de parte legítima, en los términos de su respectiva competencia.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+De la responsabilidad penal los Notarios son responsables por los delitos que cometan con motivo del ejercicio de su función. En consecuencia, quedarán sometidos a la jurisdicción de las autoridades penales en todo lo concerniente a los actos y omisiones delictuosos en que incurran.
 
-Cuando sea el caso de contestar interrogatorios, se remitirá al Notario en sobre cerrado, el pliego de preguntas y repreguntas que se hubieren formulado por las partes, debiendo contestar por escrito las que hayan sido calificadas de legales por la Autoridad Judicial que conozca del procedimiento.
+Las acusaciones, denuncias o querellas por delitos atribuidos a los Notarios en ejercicio de sus funciones se presentarán ante el Procurador General de Justicia del Estado, quien dará vista con ellas a la Secretaría de Gobierno y al Consejo de Notarios para que intervengan previamente y rindan su dictamen en un plazo de quince días hábiles, hecho lo cual se procederá conforme a la ley.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 157.
+###### ARTÍCULO 157.
 
-La responsabilidad administrativa en que incurran los Notarios, por violaciones a la presente Ley, se hará efectiva por el Ejecutivo del Estado por conducto de la Dirección de Notarías.
-
-###### ARTICULO 158.
-
-El Ejecutivo del Estado, en su caso, sancionará administrativamente a los Notarios, por violaciones a los preceptos de esta Ley, aplicándoles las siguientes sanciones:
+La responsabilidad administrativa en que incurran los Notarios por violaciones a la presente ley se hará efectiva por el Secretario de Gobierno, aplicando, en su caso, las sanciones siguientes:
 
 I.- Amonestación por oficio;
 
-II.- Multa de cien a mil pesos;
+II.- Multa de cien a diez mil veces el salario mínimo vigente en el Distrito Notarial del domicilio del Notario;
 
 III.- Suspensión del cargo hasta por un año; y
 
 IV.- Separación definitiva del cargo.
 
-Para aplicar a los Notarios la sanción administrativa que establece la fracción II de este artículo, el Ejecutivo del Estado ordenará que se practique una investigación, de cuyo resultado y tomando en cuenta la gravedad y demás circunstancias que concurran en el acto de que se trate, dictará resolución oyendo previamente en defensa al Notario.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 159.
+###### ARTÍCULO 158.
 
-Tratándose de actos u omisiones de los Notarios, que por su gravedad pudieran motivar las sanciones a que se refieren las fracciones III y IV del artículo anterior, antes de dictar resolución sobre el particular, se seguirá el siguiente procedimiento.
+Cualquier persona usuaria de los servicios notariales, bajo su más estricta responsabilidad y acompañando los elementos de prueba correspondientes, podrá presentar ante la Dirección de Notarías Queja por escrito, fundada y motivada, por los actos u omisiones realizados por el Notario que, a su juicio, constituyan incumplimiento a la presente ley y le causen demora injustificada en el trámite solicitado, o daños y perjuicios en su patrimonio.
 
-El Ejecutivo del Estado designará un visitador que practique la investigación que corresponda, y con el resultado de la misma se dará conocimiento al Consejo del Colegio de Notarios para que, éste opine en el plazo que se fijará prudencialmente.
+Las quejas anónimas o que no están suscritas o ratificadas por el interesado se tendrán por no presentadas. La ratificación deberá realizarse dentro de los tres días hábiles siguientes a su presentación.
 
-Recibido el Informe del Consejo, el Ejecutivo del Estado oirá personalmente al Notario de que se trate, concediéndole el término de quince días para que aporte pruebas en su defensa y fenecido el término, se dictará la resolución definitiva, sin que haya lugar a ulterior recurso administrativo. La substanciación del procedimiento señalado, en ningún caso podrá exceder del término de dos meses.
+La Dirección de Notarías tiene la obligación de respetar y hacer respetar el derecho a la presentación de quejas, y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
-###### ARTICULO 160.
+###### ARTÍCULO 159.
 
-Las acusaciones, denuncias y querellas por delitos atribuidos a los Notarios en ejercicio de sus funciones se presentarán ante el Fiscal General del Estado, quien dará vista con ella a la Secretaría del Ejecutivo del Estado y al Consejo de Notarios del Estado para que intervengan previamente y rindan su dictamen, en un plazo máximo de 15 días, hecho lo cual, se procederá conforme a la Ley.
+Tratándose de actos u omisiones del Notario que pudieran motivar cualquiera de las sanciones a que se refiere el artículo 157, antes de dictar resolución sobre el particular se seguirá el procedimiento en el orden siguiente:
+
+1).- Se citará por escrito al Notario por la Dirección informándole sobre los presuntos hechos u omisiones que se le imputen, el lugar, día y hora en que tendrá verificativo la audiencia, y su derecho a ofrecer pruebas y alegatos.
+
+2).- Entre la fecha de la notificación y la verificación de la audiencia deberá mediar un plazo no menor a 5 días ni mayor a 15 días hábiles.
+
+3).- Cuando para el desahogo de este procedimiento resulte necesario que el Notario se traslade de su Distrito a la Dirección, dicho plazo no será menor a 10 ni mayor a 20 días hábiles;
+
+4).- Si en la audiencia se advierte la falta de elementos suficientes para resolver o se encontraren elementos que impliquen nueva responsabilidad administrativa a cargo del Notario o de otras personas, se podrá disponer la práctica de nuevas investigaciones por la Dirección y citar para otra u otras audiencias; y
+
+Al concluir la o las audiencias que correspondan con las respectivas pruebas y alegatos aportadas y producidos, respectivamente, por el Notario, la Dirección de Notarías hará del conocimiento del Secretario de Gobierno las conclusiones sobre los actos u omisiones probablemente causantes de daños y perjuicios, así como las posibles violaciones a la Ley, quien dentro de los 15 días hábiles siguientes resolverá lo conducente y, en caso de existir responsabilidad administrativa a cargo del Notario, le impondrá la sanción administrativa correspondiente.
+
+Para la aplicación de las sanciones previstas en el artículo 157 el Secretario de Gobierno, al motivar su resolución, deberá tomar en cuenta las circunstancias y la gravedad del caso, los daños y perjuicios que directamente se hayan ocasionado, si los hubo, el grado de diligencia del Notario para la solución del problema, su antigüedad en el cargo, sus antecedentes profesionales y los servicios prestados por él al Gobierno, a la Sociedad y al Notariado.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 160.
+
+Los Notarios no son responsables por los daños y perjuicios que se ocasionen con motivo de los actos o negocios jurídicos otorgados ante su fe, cuando:
+
+I.- El resultado de su actuación sea consecuencia de diferencia de opinión jurídica fundada;
+
+II.- Para sustentar su derecho los otorgantes exhiban documentación falsa, alterada o expedida con información equivocada, por error o dolosamente, por personas físicas o morales, instituciones o dependencias públicas o privadas;
+
+III.- El bien materia del negocio o acto de que se trate tenga vicios;
+
+IV.- Se simulen actos jurídicos con ánimo defraudatorio de la contraparte o de terceros, sin que el Notario intervenga en la simulación; y
+
+V.- Se aporten especificaciones técnicas deficientes, erróneas o falsas, como características del bien objeto de dicho contrato o acto, siendo éstas el motivo determinante de la voluntad de alguno de los contratantes para celebrarlo.
 
 ## TITULO SEPTIMO
 
@@ -1633,7 +1703,7 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ROBERTO OROZCO MELO.- (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE OCTUBRE DE 1980.
 
@@ -1730,3 +1800,17 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones contrarias al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se aplicará de manera supletoria lo establecido en la Ley del Procedimiento Administrativo, Código Civil y Código Procesal Civil del Estado de Coahuila de Zaragoza.
