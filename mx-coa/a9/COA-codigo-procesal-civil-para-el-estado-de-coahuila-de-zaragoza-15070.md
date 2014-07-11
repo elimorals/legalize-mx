@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2014-03-18"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -5013,9 +5013,19 @@ Todos los que tengan conocimiento de los hechos que las partes deben probar, est
 
 No estarán obligados a declarar como testigos y podrán pedir que se les exima de hacerlo, las personas señaladas en la fracción II del artículo 425.
 
-Los menores de catorce años o los débiles mentales sólo podrán ser oídos cuando su testimonio resulte indispensable, por las circunstancias del caso. En tales casos se tomará su declaración sin que se les exija la protesta de decir verdad y sus deposiciones se considerarán como complemento de prueba.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Los menores de catorce años o los débiles mentales sólo podrán ser oídos cuando su testimonio resulte indispensable, por las circunstancias del caso. En tales casos se tomará su declaración, sin que se les exija la protesta de decir verdad, con la intervención de personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifiesten. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el menor de edad, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del menor de edad, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 Los sordomudos podrán ser admitidos como testigos en el caso de que por saber leer y escribir, puedan dar sus declaraciones por escrito.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 479.
 
@@ -5023,13 +5033,19 @@ Ofrecimiento de la prueba testimonial.
 
 La prueba testimonial se ofrecerá indicando los nombres y domicilios de las personas, terceras ajenas al pleito, a quienes deba interrogarse, y los hechos sobre los cuales cada uno de ellos o todos deban declarar.
 
+Cuando se trate de personas menores de edad se deberán (sic) indicar tal circunstancia y la parte oferente deberá exhibir el interrogatorio correspondiente con copia simple para correr traslado. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que ordena la admisión de la prueba.
+
 La contraparte podrá, a su vez, dentro de los tres días siguientes al en que se le notifique el auto de admisión de la prueba, proponer otros testigos sobre los mismos hechos, indicando los puntos sobre los que debe interrogárseles.
 
-Los hechos materia del examen deben referirse a los puntos del debate y no serán contrarios al derecho o a la moral; la formulación de preguntas en relación con cada uno, se hará en cuestionamientos separados. Si alguno de los testigos no sabe el idioma castellano, se indicará esta circunstancia para que se haga oportunamente la designación de intérprete por el juzgador.
+Los hechos materia del examen deben referirse a los puntos del debate y no serán contrarios al derecho o a la moral; la formulación de preguntas en relación con cada uno, se hará en cuestionamientos separados. En el caso de menores de edad, los cuestionamientos se realizarán con la intervención de personal especializado que emplee mecanismos que faciliten su participación, aseguren pericia para que entiendan lo que se les pregunta y se comprenda lo que manifiesten para lo cual será necesario ordenar que se realice la prueba o pruebas de capacidad que se señalan en el artículo 478. Si alguno de los testigos no sabe el idioma castellano, se indicará esta circunstancia para que se haga oportunamente la designación de intérprete por el juzgador.
 
 La falta de indicación del domicilio de los testigos impedirá la admisión de la prueba, a menos que la parte ofrezca presentarlos. Si el testigo no vive en el domicilio señalado, se tendrá al oferente por desistido de utilizarlo.
 
-Si alguno de los testigos propuestos reside fuera del lugar del juicio se le examinará por exhorto. En este caso la prueba se ofrecerá acompañando interrogatorios con copia para la contraparte, requisito sin el cual no será admitida. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes al auto que ordena la admisión de la prueba. El juzgador, calificará el pliego con arreglo a las prevenciones del párrafo tercero de este artículo, procurando además, que las preguntas estén concebidas en términos claros y precisos y que en una sola no se comprenda más de un hecho, a menos que por la íntima relación que exista entre varios, no puedan enunciarse separadamente, y formen un solo hecho complejo; calificación que se anotará en el mismo interrogatorio. Se dejará en el expediente respectivo, copia del pliego autorizada por el secretario. El juzgador podrá formular por escrito el interrogatorio sobre los hechos propuestos por las partes, pudiendo incluir en el exhorto el pliego de preguntas y el de repreguntas en sobre cerrado y sellado.
+Si alguno de los testigos propuestos reside fuera del lugar del juicio se le examinará por exhorto. En este caso la prueba se ofrecerá acompañando interrogatorios con copia para la contraparte, requisito sin el cual no será admitida.
+
+La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que ordena la admisión de la prueba. El juzgador, calificará el pliego con arreglo a las prevenciones del párrafo tercero de este artículo, procurando además, que las preguntas estén concebidas en términos claros y precisos y que en una sola no se comprenda más de un hecho, a menos que por la íntima relación que exista entre varios, no puedan enunciarse separadamente, y formen un solo hecho complejo; calificación que se anotará en el mismo interrogatorio. Se dejará en el expediente respectivo, copia del pliego autorizada por el secretario.
+
+El juzgador podrá formular por escrito el interrogatorio sobre los hechos propuestos por las partes, pudiendo incluir en el exhorto el pliego de preguntas y el de repreguntas en sobre cerrado y sellado.
 
 El juzgador podrá limitar el número de testigos, cuando los propuestos hayan sido a su juicio en número excesivo, procurando observar la regla de igualdad de las partes.
 
@@ -5055,11 +5071,17 @@ Sanción por proporcionar datos falsos o retardar el procedimiento.
 
 En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o que de las constancias del expediente se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta ciento cincuenta días de salario mínimo general vigente en la capital del Estado, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido el oferente de la prueba. Así mismo, deberá declararse desierta la prueba testimonial.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 483.
 
-Declaración del testigo en su domicilio.
+Declaración del testigo en su domicilio u otro lugar adecuado.
 
 A los testigos de más de setenta años y a los enfermos, el juzgador podrá, según las circunstancias del caso, recibir su declaración en sus domicilios, en presencia de la otra parte, si asistiere.
+
+En el caso de testigos menores de edad, si el personal especializado encargado de implementar mecanismos que faciliten su participación, estima necesario que la declaración deba rendirse en un lugar distinto a las instalaciones del juzgado como parte de su función, deberá solicitarlo ante el juez y exponer los motivos que lo justifiquen.
+
+El juez decidirá sobre la pertinencia de tal solicitud.
 
 ###### ARTÍCULO 484.
 
@@ -5107,11 +5129,21 @@ IX. Si alguno de los testigos hace referencia a otras personas, el juzgador, en 
 
 X. En el acta que se levante se harán constar las preguntas formuladas y las respuestas del testigo, en forma que en la contestación se comprenda el sentido o término de la pregunta, salvo los casos excepcionales en que, a juicio del juzgador, sea pertinente escribir textualmente la pregunta y a continuación la respuesta. Los testigos estarán obligados a dar la razón de su dicho y el juzgador deberá exigirla en todo caso. La declaración, una vez firmada, no podrá variarse ni en la substancia ni en la redacción.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 487.
 
-Declaración por medio de intérprete.
+Declaración por medio de intérprete o con la asistencia de personal especializado.
 
-Si el testigo no sabe el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el juzgador cuando así se solicite en el ofrecimiento de la prueba. Si el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma por él o por el intérprete. Este deberá, antes de desempeñar su encargo, protestar hacerlo legalmente, anotando esa circunstancia en el acta.
+Si el testigo no sabe el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el juzgador cuando así se solicite en el ofrecimiento de la prueba. Si el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma por él o por el intérprete.
+
+Si el testigo es menor de edad el interrogatorio será formulado al testigo por medio de personal especializado conforme al artículo 478 y 479 y su declaración podrá ser recabada con la ayuda de cualquier medio electrónico audiovisual. El personal especializado podrá cambiar la forma de las preguntas del interrogatorio siempre que el contenido sea esencialmente el mismo y, cuando sea necesario, deberá emitir un dictamen que facilite la comprensión de la declaración del testigo.
+
+Las partes podrán asistir durante el desarrollo del interrogatorio pero no podrán interferirlo, ni intervenir sino a través del juez quien decidirá si la diligencia deberá continuar.
+
+El juez siempre supervisará la implementación de los mecanismos del personal especializado de tal manera que no afecte su desarrollo pero se asegurará de que no se vulneren los derechos de los testigos menores de edad o de las partes.
+
+Tanto interpretes como el personal especializado, antes de desempeñar su encargo, deberán protestar hacerlo legalmente, anotando esa circunstancia en el acta.
 
 ###### ARTÍCULO 488.
 
@@ -13452,5 +13484,11 @@ SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publi
 P.O. 18 DE MARZO DE 2014.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
