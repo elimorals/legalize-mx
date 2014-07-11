@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-03-06"
+last_updated: "2014-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -145,7 +145,11 @@ e) Los de organización y estructura de los Poderes Legislativo, Ejecutivo y Jud
 
 f) Los de iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
 
-g) Las propuestas de nombramientos y resolución sobre renuncias, licencias temporales y absolutas de servidores públicos de los poderes Legislativo, Ejecutivo y Judicial, así como de órganos autónomos, salvo lo previsto en otras disposiciones constitucionales y legales; y
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2014)</small>
+
+g) Las propuestas de nombramientos y resolución sobre renuncias, licencias temporales y absolutas de servidores públicos de los poderes Legislativo, Ejecutivo y Judicial, así como de órganos autónomos, salvo lo previsto en otras disposiciones constitucionales y legales.
+
+Los aspirantes harán una presentación ante la comisión sobre su trayectoria profesional y de las motivaciones que los impulsan para ocupar el cargo al que son propuestos, hasta por quince minutos y podrán ser interrogados por los diputados que las integren, quienes harán uso de la palabra hasta por siete minutos, teniendo los aspirantes en todo caso, derecho a réplica y dúplica hasta por diez minutos cada vez.
 
 h) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -1943,7 +1947,7 @@ II. Elaborar los proyectos legislativos que les instruyan las comisiones y en su
 
 III. Informar al Secretario de Asuntos Parlamentarios de los acuerdos recaídos en las sesiones de las comisiones legislativas o comités según corresponda; así como los proyectos legislativos o de estudio que tengan a su cargo;
 
-IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y (sic)
+IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2382,3 +2386,11 @@ G.G. 6 DE MARZO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 11 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
