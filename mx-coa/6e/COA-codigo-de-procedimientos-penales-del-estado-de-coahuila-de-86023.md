@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-del-estado-de-coahuila-de-8602
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-17"
-last_updated: "2013-05-31"
+last_updated: "2014-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 31 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de febrero de 2012.
 
@@ -2019,11 +2017,15 @@ La intervención del asesor jurídico será para orientar, asesorar o intervenir
 
 La víctima u ofendido podrá constituirse como acusador coadyuvante. Si se tratase de varías víctimas u ofendidos por el mismo delito, en cualquier caso deberán nombrar un representante común, y si no alcanzan un acuerdo, el juzgador nombrará a uno de ellos.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
 ###### Artículo 136.
 
 Comparecencia de menor o incapaz
 
-Cuando la víctima sea menor o incapaz y comparezca ante el ministerio público deberá, además de contar con asesor jurídico, ser acompañada por quien ejerza la patria potestad, tutela o curatela o por quien legalmente ejerza la representación.
+Cuando la víctima sea menor o incapaz y comparezca ante el ministerio público deberá, además de contar con asesor jurídico, estar acompañada por quien ejerza la patria potestad, tutela o curatela o por quien legalmente ejerza la representación. Así mismo, se solicitará la intervención de personal especializado para que emplee mecanismos que faciliten la participación del menor o incapaz y aseguren pericia para comprender lo que manifieste. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el menor de edad, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
+
+Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del menor de edad, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
 
 ###### Artículo 137.
 
@@ -3687,7 +3689,9 @@ III. Evitar la obstaculización del procedimiento, o
 
 IV. Asegurar el pago de la reparación del daño.
 
-Corresponderá al ministerio público, mediante la policía, vigilar el cumplimiento de las medidas cautelares de índole personal, con inclusión de las acordadas en suspensión condicional de la investigación inicial o del proceso, así como promover lo conducente cuando la persona imputada no se ajuste a aquéllas. Las víctimas u ofendidos también podrán promover ante el juez lo que corresponda en esos casos.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Corresponderá a la Dirección de Medidas Cautelares, a través de la policía procesal y demás policías auxiliares, vigilar el cumplimiento de las medidas cautelares de índole personal, con inclusión de las acordadas en suspensión condicional de la investigación inicial o del proceso, así como dar aviso inmediato al Ministerio Público cuando la persona imputada no se ajuste a aquéllas.
 
 ###### Artículo 238.
 
@@ -4833,7 +4837,9 @@ En aquellos delitos que atenten contra el libre desarrollo de la personalidad o 
 
 El representante de la víctima tiene la facultad de impugnar ante el juez de control la negativa del ministerio público de solicitar el anticipo de prueba.
 
-En el desahogo de la prueba anticipada, los jueces velarán por el interés superior de la niñez, sin quebrantar los principios rectores del sistema acusatorio, evitando al máximo que la persona menor de edad repita diligencias innecesarias y resguardando su identidad del público, con medios adecuados para ello, durante la audiencia.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+En el desahogo de la prueba anticipada, los jueces velarán por el interés superior de la niñez, darán intervención a personal especializado para que emplee mecanismos que faciliten su participación, sin quebrantar los principios rectores del sistema acusatorio, evitando al máximo que la persona menor de edad repita diligencias innecesarias y resguardando su identidad del público, con medios adecuados para ello, durante la audiencia.
 
 ###### Artículo 329.
 
@@ -4841,7 +4847,9 @@ Procedimiento para prueba anticipada
 
 La solicitud de desahogo de prueba anticipada podrá plantearse desde que se presenta la denuncia o querella y hasta antes de que dé inicio la audiencia de juicio oral.
 
-Cuando se solicite prueba anticipada, el juez o tribunal citarán a audiencia a todos aquellos que tuvieren derecho a asistir a la audiencia de juicio oral y luego de escucharlos, valorará la posibilidad de que la prueba por anticipar no pueda ser desahogada en la audiencia de juicio oral por el grave riesgo de pérdida con motivo de la demora y, en su caso, admitirá y desahogará la prueba en el mismo acto otorgando a las partes todas las facultades previstas para su participación en la audiencia de juicio oral.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Cuando se solicite prueba anticipada, el juez o tribunal citarán a audiencia a todos aquellos que tuvieren derecho a asistir a la audiencia de juicio oral y luego de escucharlos, valorará la posibilidad de que la prueba por anticipar no pueda ser desahogada en la audiencia de juicio oral por el grave riesgo de pérdida con motivo de la demora y, en su caso, admitirá y desahogará la prueba en el mismo acto otorgando a las partes, y al personal especializado cuando se trate de menores de edad, todas las facultades previstas para su participación en la audiencia de juicio oral.
 
 El imputado que estuviere detenido será trasladado a la sala de audiencias para la práctica de la diligencia.
 
@@ -5015,7 +5023,9 @@ Normas para proceder con peritos, testigos e intérpretes
 
 Antes de rendir declaración, se tomará la protesta de ley a los que han de declarar, o en su caso, se les exhortará para que se conduzcan con verdad, en términos de lo previsto por el artículo 66 de este código. Posteriormente, se llevará a cabo la identificación de los peritos y testigos, los cuales serán interrogados de manera individual sobre su nombre, apellidos, estado civil, oficio o profesión, domicilio, vínculo de parentesco y de interés con las partes así como cualquier otra circunstancia útil para apreciar su veracidad, sin embargo, se le preguntará al testigo si es su deseo proporcionar sus datos personales en voz alta o si prefiere que éstos sean anotados por separado y mantenidos en reserva.
 
-Los testigos menores de edad o incapaces serán acompañados por quien ejerza la patria potestad, tutela o curatela o por persona de su confianza con la finalidad de salvaguardar sus derechos.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Los testigos menores de edad o incapaces serán acompañados por quien ejerza la patria potestad, tutela o curatela o por persona de su confianza con la finalidad de salvaguardar sus derechos. También se dará intervención al personal especializado mencionado en el artículo 136 de este código.
 
 En debates prolongados, a petición de parte, el juez que presida la audiencia puede disponer que las testimoniales que se relacionen con un mismo hecho se desahoguen en la misma fecha y por excepción que se practiquen en fechas distintas a aquéllas que por el número de testigos o la complejidad del desahogo de prueba lo justifique.
 
@@ -5041,11 +5051,25 @@ En su interrogatorio, la parte que haya propuesto a un testigo o perito no podr�
 
 Se exceptúa de lo establecido en el párrafo anterior, si en el curso del interrogatorio el testigo se muestra reacio a contestar las preguntas de la parte que lo ofrece; se trate de una persona mentalmente deficiente por razón de su edad, su escasa educación u otra condición, o que por razón de pudor esté renuente a expresarse. En estos casos la parte que lo propuso podrá solicitar al juez que presida la audiencia su autorización para tratarlo como testigo hostil y formularle preguntas sugestivas.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+En el caso de menores de edad, el interrogatorio se formulará a través de personal especializado. La diligencia podrá llevarse a cabo en lugar distinto a la sala de audiencias, de acuerdo a las exigencias del mecanismo a implementar pero deberá ser recabada con la ayuda de cualquier medio electrónico audiovisual.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+El ministerio público, el asesor jurídico de la víctima u ofendido, el defensor y el imputado podrán asistir a la audiencia y formular preguntas pero no podrán interferirla, ni intervenir sino a través del juez quien realizará el interrogatorio a través del personal especializado y decidirá si la audiencia debe continuar.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+
+El juez siempre supervisará la implementación de los mecanismos del personal especializado de tal manera que no afecte su desarrollo pero se asegurará de que no se vulneren los derechos de los testigos menores de edad o de las partes.
+
 Durante las repreguntas de la contraparte del oferente, sí podrá hacer preguntas sugestivas y confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos, presentados en el juicio de forma sugestiva.
 
 Deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contengan.
 
-Los peritos y testigos responderán directamente a las preguntas que les formulen las partes o quien las represente. Los peritos y testigos podrán complementar sus respuestas directas, para mayor claridad de las mismas. El juez o tribunal sólo podrá formular preguntas para aclarar dichas respuestas en los términos previstos en este código.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+Los peritos y testigos responderán directamente a las preguntas que les formulen las partes, el personal especializado o quien las represente. Los peritos y testigos podrán complementar sus respuestas directas, para mayor claridad de las mismas. El juez o tribunal sólo podrá formular preguntas para aclarar dichas respuestas en los términos previstos en este código.
 
 Los peritos y los testigos podrán consultar documentos, notas escritas y publicaciones con la finalidad de fundamentar y aclarar sus respuestas, previa autorización judicial, para lo cual, proporcionarán previamente a las partes el contenido de aquellos documentos.
 
@@ -5305,7 +5329,9 @@ Testimonios especiales
 
 Cuando deba recibirse testimonio de personas agredidas sexualmente o víctimas de secuestro, sin perjuicio de la fase en que se encuentre el proceso, el juez o tribunal podrán disponer su recepción en sesión privada con el auxilio de familiares o peritos especializados o bien, por sistemas de reproducción a distancia de imágenes y sonidos o cualquier medio audiovisual que impida confrontarlas físicamente con el acusado y garantice el resguardo de su identidad, sin afectar los principios de contradicción e inmediación y el derecho de defensa.
 
-La misma regla se aplicará cuando alguna persona menor de edad deba declarar por cualquier motivo. El testigo menor de edad sólo será interrogado por el juez que presida la audiencia, debiendo las partes dirigir las preguntas por su conducto.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+
+La misma regla se aplicará cuando alguna persona menor de edad deba declarar por cualquier motivo. El testigo menor de edad sólo será interrogado por el juez que presida la audiencia con la intervención de personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifieste, debiendo las partes dirigir las preguntas por su conducto.
 
 #### SECCIÓN III. Peritajes
 
@@ -8370,3 +8396,27 @@ CUARTO.- Las disposiciones contenidas en el Código de Procedimientos Penales pa
 Una vez que se haya observado lo previsto en el párrafo que antecede el Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999 quedará abrogado.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 507, POR EL QUE SE MODIFICA EL ARTÍCULO 237 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza y será aplicable al Sistema Penal Acusatorio Adversarial de acuerdo a la forma gradual en que éste se implemente.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias del Poder Ejecutivo que se relacionen directa o indirectamente con esta ley, deberán implementar las medidas necesarias para dar cumplimiento a la misma.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan a esta ley.
+
+P.O. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 507, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 136, 328, 329, 344, 345 Y 366 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
