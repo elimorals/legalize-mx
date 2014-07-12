@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-06-21"
+last_updated: "2014-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1133,7 +1133,7 @@ Los cónyuges, uno y el otro, se deben y tendrán siempre y en todo lugar respet
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
 
-Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aún más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
+Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aun más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
 
 Ambos deberán prepararse, con el estudio amistoso y la mutua corrección de sus defectos para desempeñar de la mejor manera posible la mas alta magistratura de la vida que es la de ser padres de familia para que sus hijos encuentren en ustedes el buen ejemplo y una conducta digna de servirles de modelo.
 
@@ -2993,7 +2993,7 @@ ART. 410 L.- La adopción será decretada cuando presente reales ventajas para e
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
-ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
+ART. 410 LL.- La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en !a filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el adoptado fue víctima de cualquier delito contra la libertad personal, y que por consecuencia no había sido abandonado.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -3049,7 +3049,7 @@ IV La documentación que los solicitantes presenten en idioma distinto al españ
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 410 R.- La adopción de una persona a favor de extranjeros soló se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
+ART. 410 R.- La adopción de una persona a favor de extranjeros sólo se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -4223,29 +4223,23 @@ ART. 722.- El Ministerio Público velará por los intereses del ausente, será o
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-ART. 723.- Son objeto del patrimonio de la familia:
+ART. 723.- El patrimonio de familia es una institución de interés público que se constituye con la finalidad de garantizar la subsistencia y el desarrollo de los miembros del núcleo familiar, siendo susceptible de constituirse con los bienes siguientes:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+I.- La casa que destinen como habitación;
 
-I.- La casa que el jefe de la familia destine para la habitación de ésta, hasta por un valor de 15,000 unidades de salario mínimo vigente en el Estado de Colima;
+II.- La parcela fuente de su manutención;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+III.- El vehículo destinado para su uso y beneficio;
 
-II.- En su caso, la parcela que el jefe de la familia destine para manutención de la misma, hasta por un valor de 10,000 unidades de salario mínimo;
+IV.- El menaje del hogar; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2005)</small>
+V.- El equipo y herramienta de la micro o pequeña industria que les sirva de sustento económico.
 
-III.- En su caso, el vehículo que el jefe de la familia destine para uso y beneficio de ésta, hasta por un valor de 2,500 unidades de salario mínimo;
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
-
-IV.- El menaje del hogar, hasta por un valor de 1,500 unidades de salario mínimo; y
-
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
-
-V.- En su caso, el equipo y herramienta de la micro o pequeña industria que sirva de sustento económico a la familia, hasta por un valor de 10,000 unidades de salario mínimo.
+ART. 723 BIS.- Cualquier miembro de una familia tiene el derecho de constituir con bienes de su propiedad un patrimonio para sí y en beneficio de su familia, entendiéndose por familia para los efectos de este Capítulo, a todo grupo de personas que habitan una misma casa y que se encuentren unidos por una relación conyugal, de concubinato, de parentesco consanguíneo, civil o de afinidad y de aquellos a los que legalmente tenga la obligación de dar alimentos.
 
 ART. 724.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
@@ -4261,37 +4255,39 @@ ART. 728.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-ART. 730.- El valor de los bienes afectados al patrimonio de la familia será hasta de 37,000 unidades de salario mínimo en el Estado de Colima.
+ART. 730.- El valor de los bienes que conformen el patrimonio de familia no podrán exceder en su conjunto de 40,000 unidades de salario mínimo diario vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Registrador Público de la Propiedad de su domicilio, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2005)</small>
-
-Los efectos de la protección surtirán a partir de la inscripción respectiva.
-
-Además comprobará lo siguiente:
+ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito ante el Instituto para el Registro del Territorio, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados, debiendo comprobar lo siguiente:
 
 I.- Que es mayor de edad o que está emancipado;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
-III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
+III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio;
 
-IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres;
+IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres; y
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 730.
+V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 730 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+La comprobación de las calidades a que se refieren las fracciones anteriores, se hará de conformidad con los medios idóneos legalmente establecidos. Tratándose de bienes inmuebles, se podrá acreditar la cuantía de los mismos tomando como base el valor catastral, lo cual se acreditará con el recibo de pago de impuesto predial del año correspondiente, o mediante avalúo de perito autorizado.
 
-ART. 732.- Si se llenan las condiciones exigidas en el artículo anterior, el Registrador aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el archivo físico y en la base de datos del Registro Público de la Propiedad.
+En todo lo relativo a la sucesión de los bienes del patrimonio familiar, la transmisión de éstos estará exenta de contribuciones.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+La protección a que hace referencia el artículo 727 surtirá efecto a partir de la inscripción respectiva.
 
-ART. 733.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 730, podrá ampliarse el patrimonio hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+ART. 732.- Cumplidas las condiciones exigidas en el artículo anterior, el registrador aprobará la constitución del patrimonio de familia y hará la inscripción correspondiente en el archivo físico y en la base de datos del Instituto para el Registro del Territorio.
+
+La inscripción del patrimonio de familia subsistirá aun cuando ocurra el fallecimiento del constituyente y se lleve a cabo el procedimiento sucesorio respectivo, salvo resolución judicial en contrario.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+ART. 733.- Cuando el valor de los bienes afectos al patrimonio de la familia sea inferior al máximo fijado en el artículo 730 de este Código, podrá ampliarse hasta llegar a este valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Instituto para el Registro del Territorio.
 
 ART. 734.- Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o por que los esté dilapidando, los acreedores alimentistas, y, si éstos, son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el patrimonio de la familia hasta por el valor fijado en el artículo 730. En la constitución de este patrimonio se observará en lo conducente, lo dispuesto en los artículos 731 y 732.
 
@@ -4339,9 +4335,19 @@ IV.- Cuando por causa de utilidad pública se expropian los bienes que lo forman
 
 V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 735, se declare judicialmente nula o rescinda la venta de esos bienes.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
 
-ART. 742.- La declaración de que queda extinguido el patrimonio, la hará el juez competente, mediante el procedimiento fijado con el Código respectivo, y la comunicará al Registro Público, para que se hagan las cancelaciones correspondientes en el archivo físico o en el electrónico.
+VI.- En el caso de divorcio administrativo o necesario, si no se hubiesen procreado hijos durante el matrimonio disuelto.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Si hubiese hijos, el patrimonio de familia subsistirá en beneficio de éstos, hasta que todos ellos cumplan la mayoría de edad, pero el cónyuge culpable perderá el derecho de habitar el inmueble sujeto a dicho patrimonio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
+ART. 742.- La declaración de que queda extinguido el patrimonio, la hará el juez competente o el oficial del Registro Civil, mediante el procedimiento fijado con el Código respectivo, y la comunicará al Instituto para el Registro del Territorio, para que se hagan las cancelaciones correspondientes en el archivo físico o en el electrónico.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda, en el archivo físico o en el electrónico.
 
@@ -11332,3 +11338,7 @@ P.O. 14 DE JUNIO DE 2014.
 P.O. 21 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
