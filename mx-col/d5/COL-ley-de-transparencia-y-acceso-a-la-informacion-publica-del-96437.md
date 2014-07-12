@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9643
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-26"
-last_updated: "2013-10-26"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de octubre de 2013.
 
@@ -989,7 +987,9 @@ Si después de 3 ocasiones que el Gobernador remita sus propuestas no fuera posi
 
 Para ser Consejero se requiere:
 
-I. Ser mexicano por nacimiento y tener residencia en el Estado, acreditable cuando menos de cinco años previos a la emisión de la convocatoria;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+I. Ser mexicano y tener residencia en el Estado, acreditable cuando menos de cinco años previos a la emisión de la convocatoria;
 
 II. Cuando menos, tener 30 años de edad, cumplidos al momento de la designación;
 
@@ -1291,7 +1291,9 @@ En apoyo del ejercicio de este derecho, los sujetos obligados deberán realizar 
 
 I. Tratándose de solicitudes presentadas de manera verbal la Unidad de Información llenará un formato para proceder a su localización; de encontrarse disponible en ese momento, luego de verificar que no se trate de información clasificada como reservada o confidencial, la pondrá a disposición del solicitante para que se imponga de la misma o, en su caso, le proporcionará de manera directa la información de su interés. Cuando no sea posible la inmediata localización de lo solicitado, entregará al interesado copia del formato que hubiera llenado, para darle el trámite que corresponde a una solicitud presentada por escrito;
 
-II. Cuando la solicitud se presente por escrito, éste deberá satisfacer los requisitos previstos en esta Ley, y los sujetos obligados darán respuesta a las mismas en el plazo previsto en el artículo 92 de esta Ley; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+II. Cuando la solicitud se presente por escrito, éste deberá satisfacer los requisitos previstos en el presente ordenamiento, y los sujetos obligados darán respuesta a las mismas en el plazo previsto por el artículo 93 de esta Ley; y
 
 III. Las solicitudes presentadas por medio electrónico deberán reunir los requisitos que se señalen en los sitios habilitados para tales fines, sin que aquéllos puedan exceder de los señalados para las solicitudes que se presenten por escrito. El uso de los medios electrónicos implica la aceptación de los usuarios al contenido de las reglas y condiciones propias de éstos.
 
@@ -1704,3 +1706,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 26 veintiséis del mes de octubre del año 2013.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL CONTRALOR GENERAL, M.V.Z. LUIS GAITÁN CABRERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
