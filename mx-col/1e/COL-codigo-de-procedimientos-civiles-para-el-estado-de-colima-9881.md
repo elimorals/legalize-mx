@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-06-21"
+last_updated: "2014-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -5445,11 +5445,15 @@ II.- El inventario y avalúo se harán por el cónyuge que sobreviva o el albace
 
 III.- El juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquellos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales a cargo del Erario, para que en el término de cinco días presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
-IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará con copia para dar aviso al Fisco;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
-V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados;
+IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará una copia para dar aviso al fisco; y
 
-VI.- La transmisión de los bienes del patrimonio familiar está exenta de contribuciones, cualquiera que sea su naturaleza.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
+
+VI.- (DEROGADA, P.O. 12 DE JULIO DE 2014)
 
 ### CAPITULO VIII. De la tramitación por Notarios
 
@@ -6452,3 +6456,7 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 21 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
