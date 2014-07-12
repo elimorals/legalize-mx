@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2014-01-11"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -335,7 +335,7 @@ VIII. De conformidad con el Reglamento General, aplicar las sanciones a los dipu
 
 IX. Rendir informe anual del ejercicio legislativo y del estado que guarda el presupuesto;
 
-X. Designar y tomar la protesta a los Consejeros representantes del Poder Legislativo que integrarán el Consejo General del Instituto Electoral del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado; y (sic)
+X. Designar y tomar la protesta a los Consejeros representantes del Poder Legislativo que integrarán el Consejo General del Instituto Electoral del Estado, de conformidad con lo dispuesto en la Constitución Política del Estado; y
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -451,7 +451,7 @@ XII. Abstenerse de intervenir en los asuntos legislativos en los que tengan un i
 
 XIII. Presentar al menos una iniciativa de ley, decreto, acuerdo o estudio legislativo dentro de cada periodo ordinario de sesiones;
 
-XIV. Entregar su declaración de situación patrimonial, conforme a las disposiciones legales aplicables; y (sic)
+XIV. Entregar su declaración de situación patrimonial, conforme a las disposiciones legales aplicables; y
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2012)</small>
 
@@ -1567,7 +1567,9 @@ II. Los que se refieran a legislación en materia de expropiación y ocupación 
 
 III. Aprobación de los convenios que el Ejecutivo celebre respecto de los límites del Estado y someterlos a la ratificación de la Cámara de Senadores;
 
-IV. La formulación de informes en juicios de amparo en que la Legislatura sea parte, por medio del Presidente de la Comisión o de un miembro de la misma, así como la representación jurídica en defensa de los intereses de la Legislatura en procedimientos judiciales; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IV. La formulación de informes en juicios de amparo en que la Legislatura sea parte, por medio del Presidente de la Comisión o de un miembro de la misma, así como la representación jurídica en defensa de los intereses de la Legislatura en procedimientos judiciales, la que podrá delegar cualquiera de los integrantes de la Comisión en el Director de Procesos Legislativos y Asuntos Jurídicos, o bien, en el Subdirector de Asuntos Jurídicos o en cualquier otro servidor público de la Legislatura;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2591,13 +2593,15 @@ IV. La Dirección de Administración y Finanzas, apoyará las funciones relativa
 
 La Secretaría General, además, tendrá a su cargo, como órganos de apoyo a la actividad legislativa, la coordinación de las siguientes unidades:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
-
-I. Instituto de Investigaciones Legislativas, mismo que estará adscrito a la Dirección de Procesos Legislativos y Asuntos Jurídicos;
+I. (DEROGADA, P.O. 12 DE JULIO DE 2014)
 
 II. Coordinación de Comunicación Social; y
 
 III. Unidad Centralizada de Información Digitalizada.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IV. Unidad de Enlace para el Acceso a la Información Pública.
 
 ###### ARTÍCULO 163.
 
@@ -2611,9 +2615,13 @@ II. Subdirección del Diario de los Debates.
 
 La Dirección de Procesos Legislativos y Asuntos Jurídicos, se integra por:
 
-I. Subdirección de Procesos Legislativos; y (sic)
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
-II. Subdirección de Asuntos Contenciosos;
+I. Subdirección de Procesos Legislativos;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+II. Subdirección de Asuntos Jurídicos; y
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2010)</small>
 
@@ -2629,9 +2637,15 @@ II. Subdirección de Recursos Humanos; y
 
 III. Subdirección de Recursos Materiales y Servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 166.
 
-La integración, actividad y funcionamiento de las unidades administrativas y de apoyo, estarán sujetas a lo dispuesto por el Reglamento General, los manuales de organización, de procedimientos, de servicios y demás disposiciones normativas que acuerde el Pleno.
+La integración, actividad y funcionamiento de las unidades administrativas y de apoyo, estarán sujetos a lo dispuesto por el Reglamento General, los manuales de organización y de procedimientos, de servicios y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Las unidades administrativas y de apoyo, deberán emitir los manuales de procedimientos para cumplir cabalmente con sus atribuciones y mejorar el funcionamiento y eficiencia de su área, de conformidad con lo establecido en la Ley y el Reglamento.
 
 ### CAPÍTULO II. Del Órgano de Fiscalización Superior
 
@@ -2778,3 +2792,9 @@ P.O. 11 DE ENERO DE 2014.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se archive el expediente original, como asunto plenamente concluido.
+
+P.O. 12 DE JULIO DE 2014.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan este Decreto.
