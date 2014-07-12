@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-jovenes-para-el-estado-de-colima-47110"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2005-11-26"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE LOS JOVENES PARA EL ESTADO DE COLIMA
 
-LEY DE LOS JOVENES PARA EL ESTADO DE COLIMA
+LEY DE LOS JÓVENES PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Colima, el sábado 26 de noviembre del 2005.
 
@@ -402,3 +404,17 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 23 del mes de noviembre del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de los Jóvenes para el Estado de Colima publicada mediante Decreto 278 en el Periódico Oficial El Estado de Colima; asimismo, se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de 120 días naturales para la integración de la Comisión.
+
+CUARTO.- En un plazo de 180 días naturales deberá ser elaborado el Reglamento de la presente Ley.
+
+QUINTO.- En un plazo no mayor a 120 días naturales deberá integrarse el Consejo Ciudadano; una vez integrado éste, contará con un plazo de 90 días naturales para la elaboración de su Reglamento Interior.
