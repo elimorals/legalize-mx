@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-05-31"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -293,7 +291,9 @@ VIII. Sancionar las infracciones en que incurran los concesionarios, permisionar
 
 IX. Normar el control del parque vehicular para la substitución y renovación de unidades, con la finalidad de reducir el impacto ambiental;
 
-X. Autorizar y expedir, previo pago de derechos, los permisos provisionales para circular sin placas y sin tarjeta de circulación de vehículos, de acuerdo a lo que señale esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+X. Autorizar y expedir, previo pago de derechos, las placas y tarjetas de circulación provisionales por 30 días improrrogables, de acuerdo a lo que señale esta Ley y su Reglamento;
 
 XI. Vigilar la aplicación de sanciones, detención, retiro y depósito vehicular del transporte, por violación de las disposiciones de esta Ley y su Reglamento, en que incurran los concesionarios, permisionarios y operarios del servicio de transporte;
 
@@ -377,6 +377,10 @@ XXXVI. En coordinación con el Secretariado Ejecutivo realizar las acciones de v
 
 XXXVII. Las demás que señale esta ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+La Dirección General aplicará las tecnologías de la información para el cumplimiento de las atribuciones que señala el presente artículo, así como contar con una base de datos de identidad, para implementar los programas que le permitan prestar sus servicios con eficacia y eficiencia.
+
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ARTÍCULO 10 BIS.- Son atribuciones de los Municipios del Estado:
@@ -453,25 +457,41 @@ IV. Mercantil;
 
 V. Especial;
 
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+VI. Administrativo oficial;
+
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
-VI. De servicio social y de emergencias; y
+VII. De servicio social y de emergencias; y
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
-VII. Complementario al servicio de autotransporte público federal.
+VIII. Complementario al servicio de autotransporte público federal.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-Para que circulen en las vías públicas, las unidades vehiculares de cualquier tipo o clase, deberán estar inscritas en el Registro, portar placas de circulación vigentes, calcomanía de placas, tarjeta de circulación, calcomanía fiscal vehicular vigente, hologramas, engomados de revisión, conservar adherida la constancia de inscripción al Repuve, en el cristal delantero de la unidad y reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento. Deberán contar, además, con los dispositivos y accesorios técnicos y de seguridad necesarios para su circulación, según sea el caso.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+ARTÍCULO 15 BIS.- Las unidades vehiculares automotores de cualquier tipo o clase, exceptuando las motocicletas, para poder circular dentro del territorio colimense, deberán estar inscritas en el Registro, portar placas de circulación vigentes al frente y en la parte posterior, tarjetas de circulación, calcomanía fiscal vehicular vigente, hologramas, engomados de revisión, conservar adherida la constancia de inscripción al Repuve, en el cristal delantero de la unidad, no tener polarizados los cristales o en su defecto contar con el permiso correspondiente y reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento. Deberán contar además con los dispositivos y accesorios técnicos y de seguridad necesarios para su circulación, según sea el caso.
+
+En lo que respecta a las motocicletas, los ocupantes deberán portar cada uno de ellos casco de protección, y chaleco donde se observe el número de matrícula que corresponda a su placa de circulación, en la parte anterior y posterior conforme a las especificaciones que determine para este caso el Reglamento.
+
+La falta de cumplimiento de las disposiciones señaladas en el primer párrafo de este artículo será motivo de infracción vial, en caso de reincidencia, se procederá al aseguramiento del medio de transporte, hasta que sea cumplida dicha omisión, independientemente de las sanciones aplicables.
+
+El aseguramiento a que se refiere el párrafo anterior lo podrán llevar a cabo las Direcciones del Transporte y de la Seguridad Vial del Estado y de Tránsito y vialidad de cada Municipio, así como las autoridades de Seguridad Pública y Procuración de Justicia y, en su caso, deberán ponerlo a disposición de la autoridad competente.
 
 El Reglamento determinará las condiciones y características que deberán reunir cada uno de estos vehículos.
 
 ###### ARTÍCULO 16.
 
 El servicio de transporte público es aquél que se lleva a cabo de manera continua, uniforme, regular y permanente en las vías públicas de comunicación terrestre del Estado y sus Municipios, para satisfacer la demanda de los usuarios, mediante la utilización de vehículos adecuados para cada tipo de servicio, y en el que los usuarios como contraprestación, realizan un pago en numerario, que puede ser en moneda de curso legal o tarjeta de prepago, de conformidad con las tarifas previamente aprobadas.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Los vehículos destinados al transporte público cualquiera que sea su clasificación, deberán llevar en la parte externa del capacete la matrícula que corresponda a su placa de circulación, conforme las especificaciones que determine el Reglamento. La falta de cumplimiento de las disposiciones señaladas, será suficiente para el aseguramiento del medio de trasporte (sic), hasta que sea subsanada dicha omisión, independientemente de las sanciones aplicables.
 
 El prestador del servicio podrá ser una entidad estatal, persona física o moral con fines lucrativos, autorizada para la prestación del servicio de transporte público y serán de:
 
@@ -643,13 +663,19 @@ Este servicio de transporte, así como el de tracción humana, animal y otras mo
 
 Sólo con destino o propósito turístico podrán circular unidades de tracción animal o de propulsión humana por vialidades céntricas de las zonas urbanas del Estado. Queda prohibido el transporte de carga (sic) dichas unidades.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-ARTÍCULO 24 BIS.- El servicio de transporte de servicio social y de emergencias, es aquel que se presta en vehículos destinados a patrullas de seguridad pública, transporte, tránsito y vialidad, así como de protección civil, y de ambulancias o unidades vehiculares adaptadas, destinadas a prestar servicio de asistencia social, así como de emergencias, plenamente identificables.
+ARTÍCULO 24 BIS.- El servicio administrativo oficial es el destinado a las actividades de procuración de justicia, patrullas de seguridad pública, transporte, tránsito y vialidad.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
+Las patrullas de seguridad pública, transporte, tránsito y vialidad, deberán llevar en la parte externa del capacete la matrícula que corresponda a su placa de circulación, además de la colocación en ambos costados, así como en su parte posterior, conforme las especificaciones que determine el Reglamento
 
-ARTÍCULO 24 BIS 1.- El servicio complementario al autotransporte público federal, es la autorización mediante permiso expedido por el Titular del Poder Ejecutivo, a través de la Secretaría o la Dirección General, con el propósito de que en las vías públicas de jurisdicción estatal y municipal, unidades vehiculares afectas al servicio de autotransporte público federal, presten sus servicios contratados, en especial las de carga y las de turismo, y de estas últimas las que presten el servicio de transporte de personal escolar o de trabajadores, con placa federal.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+ARTICULO 24 BIS 1.- El servicio de transporte de servicio social y de emergencias, es aquel que se presta en vehículos de protección civil y de ambulancias o unidades vehiculares adaptadas, destinadas a prestar servicio de asistencia social, así como de emergencias, plenamente identificables mismos que deberán llevar en la parte externa del capacete la matrícula que corresponda a su placa de circulación, además de la colocación en ambos costados, así como en su parte posterior, conforme las especificaciones que determine el Reglamento. En lo que respecta a las motocicletas, sus ocupantes deberán portar un chaleco conforme a lo dispuesto por el artículo 15 Bis de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+ARTICULO 24 BIS 2.- El servicio complementario al autotransporte público federal, es la autorización mediante permiso expedido por el Titular del Poder Ejecutivo, a través de la Secretaría o la Dirección General, con el propósito de que en las vías públicas de jurisdicción estatal y municipal, unidades vehiculares afectas al servicio de autotransporte público federal, presten sus servicios contratados, en especial las de carga y las de turismo, y de estas últimas las que presten el servicio de transporte de personal escolar o de trabajadores, con placa federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -825,15 +851,19 @@ V. Registro de representantes legales, mandatarios y apoderados de personas mora
 
 VI. Registro público vehicular de las unidades inscritas y emplacadas en el Estado;
 
-VII. Registro y seguimiento de infracciones, sanciones y delitos;
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
 
-VIII. Registro de identidad de personas y de conductores del servicio de transporte no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación;
+VII. Registro público de motocicletas de cualquiera de sus tipos o sus equivalentes inscritas y emplacadas en el Estado;
 
-IX. Registro de escuelas de manejo, del personal especializado y de operación;
+VIII. Registro y seguimiento de infracciones, sanciones y delitos;
 
-X. Registro de los concesionarios de centrales y terminales de pasajeros y centros de carga; así como de pensiones, estacionamientos, encierros, corralones y confinamientos públicos; y
+IX. Registro de identidad de personas y de conductores del servicio de transporte no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación;
 
-XI. Registro de los demás actos que sean necesarios, a juicio de la Secretaría.
+X. Registro de escuelas de manejo, del personal especializado y de operación;
+
+XI. Registro de los concesionarios de centrales y terminales de pasajeros y centros de carga; así como de pensiones, estacionamientos, encierros, corralones y confinamientos públicos; y
+
+XII. Registro de los demás actos que sean necesarios, a juicio de la Secretaría.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1121,7 +1151,9 @@ VII. Prestar el servicio de transporte de manera gratuita, cuando por causas de 
 
 VIII. Presentar ante la Dirección General, el Programa de Capacitación Anual, mismo que se aplicará de manera continúa a sus trabajadores, con el fin de garantizar la calidad en el servicio, en los términos de la Ley de la materia;
 
-IX. Mantener los vehículos en buen estado físico, mecánico y de presentación;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IX. Mantener los vehículos en buen estado físico, mecánico y de presentación; además de portar el mismo, en la parte externa del capacete la matrícula que correspondan (sic) a su placa de circulación, a fin de que sea plenamente identificable conforme a las especificaciones que determine para este caso el Reglamento.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1375,7 +1407,7 @@ Para los efectos señalados en el artículo anterior, se considerará que existe
 
 ###### ARTÍCULO 98.
 
-El Ejecutivo del Estado, podrá otorgar de manera unilateral o por convocatoria, concesiones de acuerdo a los estudios que al efecto se realicen, previa declaratoria de necesidad del servicio, (sic)
+El Ejecutivo del Estado, podrá otorgar de manera unilateral o por convocatoria, concesiones de acuerdo a los estudios que al efecto se realicen, previa declaratoria de necesidad del servicio,
 
 Las concesiones que se entreguen mediante convocatoria, esta deberá contener cuando menos:
 
@@ -2409,9 +2441,9 @@ h) Circular en transporte público o privado con cargas o sustancias peligrosas 
 
 V.- Son causales de suspensión:
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-a) Cuando los concesionarios, permisionarios, empresas concesionarias y conductores del servicio de transporte reincidan por cuarta vez en seis meses en las conductas por las que fueron sancionados conforme a las fracciones II, incisos a), b), c) y d); III, incisos c), d), e) y f); y IV incisos e) y g) de este artículo; y
+a) Cuando los concesionarios, permisionarios, empresas concesionarias y conductores del servicio de transporte reincidan por segunda vez en seis meses en las conductas por las que fueron sancionados conforme a las fracciones II, incisos a), b), c) y d); III, incisos c), d), e) y f); y IV incisos e) y g) de este artículo; y
 
 b) El oponerse u obstaculizar la práctica de las visitas de inspección a que se refiere esta Ley.
 
@@ -2427,9 +2459,9 @@ Para los efectos de esta Ley, se entiende por reincidencia cuando el infractor c
 
 La Secretaría, a través de la Dirección General, podrá detener por sí o con el auxilio de la Dirección y confinar los vehículos que prestan servicio de transporte, y en su caso retirar placas y documentos, en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
-I. Cuando el vehículo circule sin placas y sin tarjeta de circulación, o sin permiso provisional o de traslado, o cuando portando las placas estas sean modificadas, alteradas o sustituidas;
+I. Cuando el vehículo circule sin placas y sin tarjeta de circulación, o sin placas y tarjeta de circulación provisionales, o cuando portado (sic) las placas estas sean modificadas, alteradas o sustituidas;
 
 II. Por prestar un servicio distinto al autorizado;
 
@@ -2586,3 +2618,23 @@ TERCERO.- Las acciones que en su caso deba realizar el Secretario Ejecutivo del 
 CUARTO.- Las inscripciones, avisos y demás actos que se hayan realizado con anterioridad a la entrada en vigor del presente Decreto, conservarán plena validez y vigencia.
 
 QUINTO.- La Dirección General de Transporte y de la Seguridad Vial deberá proporcionar al Secretariado Ejecutivo, en un plazo no mayor a 180 días naturales, a partir de la Publicación del presente Decreto, la información histórica relativa a los números de identificación que tuviesen asignados los vehículos y de la cual dispusieran a la entrada en vigor de esta disposición a efecto de integrar la base de datos del padrón de vehículos que integran el Registro Público Vehicular.
+
+P.O. 12 DE JULIO DE 2014.
+
+DECRETO NO. 344 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 24 BIS; EL ARTÍCULO 24 BIS 1; LA FRACCIÓN IX DEL ARTÍCULO 66; EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 180; ADICIONAR LA FRACCIÓN VI DEL ARTÍCULO 15 HACIÉNDOSE EL CORRIMIENTO SUBSECUENTE DE LAS FRACCIONES VI Y VII PASANDO A SER FRACCIONES VII Y VIII; EL ARTÍCULO 15 BIS; SEGUNDO PÁRRAFO DEL ARTÍCULO 16 HACIÉNDOSE EL CORRIMIENTO DEL SEGUNDO PÁRRAFO QUE PASA A SER TERCERO; EL ARTÍCULO 24 BIS 2; Y DEROGAR LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 15, TODOS DE LA LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo Estatal otorgará un subsidio del 50% del costo para la implementación de la calca en el transporte público a que se refiere el artículo 16 de la Ley del Transporte y de Seguridad Vial del Estado.
+
+TERCERO.- Se autoriza al Ejecutivo Estatal afecte partidas del Presupuesto Público Estatal necesarias para dar cumplimiento al artículo segundo transitorio del presente decreto.
+
+CUARTO.- Los diez ayuntamientos del Estado contarán con un término de 90 días para armonizar sus reglamentos de tránsito y vialidad de conformidad al presente decreto.
+
+QUINTO.- Los vehículos de transporte deberán cumplir las disposiciones a que se refiere el segundo parrado (sic) del artículo 16, el artículo 24 bis y 24 bis 1, de la Ley del Transporte y de Seguridad Vial del Estado, a más tardar cuando la Dirección de Transporte y de Seguridad Vial del Estado termina la revisión física vehicular del año 2015.
+
+P.O. 12 DE JULIO DE 2014.
+
+DECRETO NO. 345 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN X DEL ARTÍCULO 10 Y LA FRACCIÓN I DEL ARTICULO 182 Y, ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 Y LA FRACCIÓN VII DEL 41 BIS 1, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS FRACCIONES SUBSECUENTES, TODOS DE LA LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
