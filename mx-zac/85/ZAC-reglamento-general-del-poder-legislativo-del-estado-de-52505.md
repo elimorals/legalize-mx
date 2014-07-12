@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2014-01-11"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -73,7 +73,7 @@ VIII. Comisión de Planeación, a la Comisión de Planeación, Patrimonio y Fina
 
 IX. Presidente, al Presidente de la Mesa Directiva o de la Comisión Permanente;
 
-X. Recinto, al inmueble sede del Poder Legislativo del Estado, y (sic)
+X. Recinto, al inmueble sede del Poder Legislativo del Estado, y
 
 XI. Unidades Administrativas, a la Secretaría General, Direcciones, Subdirecciones, Coordinaciones, unidades y oficinas que tienen a su cargo la prestación de servicios en los términos de la Ley y este Reglamento;
 
@@ -191,7 +191,7 @@ IX. Recibir, cuando lo solicite, copias de las actas de sesiones;
 
 X. Solicitar por conducto de la Secretaría General copia de la grabación de la sesión cuando así lo requiera;
 
-XI. Solicitar licencia en los términos de la Constitución, así como permisos de acuerdo a la Ley y este Reglamento, y (sic)
+XI. Solicitar licencia en los términos de la Constitución, así como permisos de acuerdo a la Ley y este Reglamento, y
 
 XII. Proponer la celebración de convenios, para optimizar el funcionamiento de la Legislatura.
 
@@ -473,15 +473,23 @@ Las Comisiones de Puntos Constitucionales y la de Vigilancia, se integrarán por
 
 Los miembros de las comisiones están obligados a acudir puntualmente a sus sesiones y sólo podrán faltar por causa justificada comunicada al Presidente por escrito con una anticipación de cuando menos 24 horas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### Artículo 52.
 
-Las Comisiones podrán crear subcomisiones o grupos de trabajo para mejorar sus funciones; contarán con un secretario técnico de carácter permanente que estará adscrito a la Dirección de Procesos Legislativos y Asuntos Jurídicos, el cual tendrá las atribuciones siguientes:
+Las Comisiones podrán crear subcomisiones o grupos de trabajo para mejorar sus funciones; contarán con un secretario técnico de carácter permanente que será designado y removido libremente por la Comisión de Régimen Interno, a propuesta del Director de Procesos Legislativos y Asuntos Jurídicos, y estará adscrito a dicha Dirección.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
+El secretario técnico será responsable de asesorar a la Comisión respectiva en la planeación, ejecución, control y seguimiento de las actividades a desarrollar, tendrá, además, las funciones siguientes:
 
 I. Citar, a petición del Presidente, a sesión a los integrantes de la Comisión;
 
 II. Levantar las minutas de las reuniones de trabajo de la Comisión, así como el registro de las asistencias de los diputados que la integran;
 
-III. Elaborar y dar seguimiento al cronograma de actividades aprobado por la Comisión para realizar el procedimiento de investigación legislativa establecido en la Ley y en este Reglamento;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+III. Recibir y registrar los expedientes de los asuntos que le sean turnados o remitidos a la Comisión, dando inmediata cuenta de ellos a su Presidente y a la Unidad del Secretariado Técnico;
 
 IV. Proyectar dictámenes o poner en estado de resolución las iniciativas;
 
@@ -490,6 +498,14 @@ V. Llevar un libro en el que se asienten las resoluciones y acuerdos de la Comis
 VI. Entregar con toda oportunidad la información y documentos relacionados con las sesiones, y
 
 VII. Recabar información pertinente para la argumentación del dictamen.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+VIII. Facilitar oportuna y puntualmente, la información y documentación relativa a los trabajos de la Comisión, a la Unidad del Secretariado Técnico; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IX. Las demás que deriven de la Ley Orgánica, del Reglamento General, del Manual General de Organización y otras disposiciones legales.
 
 ###### Artículo 53.
 
@@ -1469,27 +1485,37 @@ V. Forma de evaluación.
 
 El sistema se implementará a través de un Plan por cada Legislatura y programas anuales vinculados con el presupuesto del Poder Legislativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### Artículo 175.
 
-El Programa General de Trabajo incluirá los programas anuales de trabajo de cada una de las unidades administrativas, los cuales se referirán de manera específica a las funciones y atribuciones de éstas, pero deberán seguir la misma estructura y los lineamientos generales del Programa General.
+El Programa Operativo Anual incluirá los programas operativos de cada una de las unidades administrativas, los cuales se referirán de manera específica a las funciones y atribuciones de éstas, pero deberán seguir la misma estructura y los lineamientos generales del Programa Operativo Anual.
 
-Las unidades administrativas elaborarán sus programas anuales de trabajo y los enviarán a la Secretaría General para que sean integrados al anteproyecto de Programa General de Trabajo.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Las unidades administrativas elaborarán sus programas operativos y los enviarán a la Secretaría General para que sean integrados al anteproyecto de Programa Operativo Anual.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### Artículo 176.
 
-La Secretaría General, a través de la Dirección de Administración y Finanzas, elaborará el anteproyecto del Programa General de Trabajo y del presupuesto de egresos, con base en el siguiente procedimiento:
+La Secretaría General, a través de la Dirección de Administración y Finanzas, elaborará el anteproyecto del Programa Operativo Anual y del presupuesto de egresos, con base en el siguiente procedimiento:
 
 I. La Secretaría General formulará los anteproyectos mencionados y los remitirá a la Comisión de Planeación para su revisión, antes del treinta de septiembre;
 
 II. Recibidos en la Comisión de Planeación, dentro de los primeros quince días del mes de octubre, procederá a su revisión y dentro de los tres días hábiles siguientes al mes señalado, los remitirá por escrito a la Comisión de Régimen Interno para la elaboración del proyecto definitivo;
 
-III. Los proyectos definitivos del programa general y del presupuesto de egresos de la Legislatura, serán sometidos a la consideración del Pleno para su consideración y deberán aprobarse antes del diez de noviembre, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+III. Los proyectos definitivos del Programa Operativo Anual y del presupuesto de egresos de la Legislatura, serán sometidos a la consideración del Pleno para su consideración y deberán aprobarse antes del diez de noviembre, y
 
 IV. Formulado el proyecto definitivo del presupuesto de egresos, la Secretaría General procederá a su envío a la Secretaría de Finanzas del Gobierno del Estado, para que se integre antes del quince de noviembre a la Iniciativa de Decreto de Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### Artículo 177.
 
-Aprobado el Programa General de Trabajo, será obligatorio para los integrantes de la Legislatura y los servidores públicos de las unidades administrativas.
+Aprobado el Programa Operativo Anual, será obligatorio para los integrantes de la Legislatura y los servidores públicos de las unidades administrativas.
 
 ### Capítulo XII. De las convocatorias a elecciones extraordinarias
 
@@ -1851,6 +1877,10 @@ Las direcciones dependerán administrativamente de la Secretaría General, ésta
 
 Los manuales de organización establecerán las facultades de las subdirecciones, departamentos y demás unidades administrativas de la Legislatura.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Las unidades administrativas emitirán los manuales que regularán los procedimientos y demás labores de su área y los presentarán para su revisión ante la Secretaría General, para su posterior aprobación por la Comisión de Régimen Interno y Concertación Política.
+
 ### Capítulo II. De la Secretaría General
 
 ###### Artículo 221.
@@ -1883,9 +1913,19 @@ I. Someter al acuerdo de los Presidentes de la Mesa Directiva, de la Comisión d
 
 II. Desempeñar las comisiones y funciones que los mismos le confieran y mantenerlos informados sobre el desarrollo de las actividades;
 
-III. Proponer a los Presidentes de la Mesa Directiva y de la Comisión de Régimen Interno los proyectos de ley, decretos, reglamentos, convenios, acuerdos y demás disposiciones que tengan por objetivo mejorar el funcionamiento de la Legislatura, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+III. Proponer a la Presidencia de la Mesa Directiva y de la Comisión de Régimen Interno los proyectos de ley, decretos, reglamentos, convenios, acuerdos, manuales y demás disposiciones que tengan por objetivo mejorar el funcionamiento administrativo de la Legislatura;
 
 IV. Acordar con los titulares de las direcciones y de las unidades administrativas a su cargo, así como con los demás servidores públicos de la Legislatura, los asuntos de su competencia y darle el seguimiento correspondiente; así como conceder audiencias al público.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+V. Instrumentar, previo acuerdo con los órganos de gobierno, los manuales de organización y de procedimientos de las unidades administrativas, así como de los demás documentos normativos necesarios para el eficaz desempeño de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+VI. Proponer la creación de nuevas áreas administrativas a los Presidentes de las Comisiones de Régimen Interno y Concertación Política y de Planeación, Patrimonio y Finanzas, para el mejor desarrollo de las funciones administrativas.
 
 ###### Artículo 224.
 
@@ -1913,11 +1953,15 @@ X. Ejecutar y vigilar que se cumplan los acuerdos emitidos por el Pleno, la Comi
 
 XI. Coadyuvar en la integración de la agenda legislativa de los periodos de sesiones;
 
-XII. Vigilar el correcto control del archivo parlamentario de la Legislatura;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XII. Vigilar que cada unidad administrativa elabore su archivo correspondiente y que, posteriormente, lo envíe a la Unidad de Archivo General del Poder Legislativo para su resguardo, clasificación, compilación y conservación;
 
 XIII. Proporcionar el apoyo necesario en las funciones legislativas y parlamentarias que desarrollen los grupos parlamentarios y los diputados en particular;
 
-XIV. Solicitar a los titulares de las direcciones y de las unidades administrativas la información necesaria para la elaboración del programa operativo anual;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XIV. Solicitar a los titulares de las direcciones y de las unidades administrativas la información necesaria para la elaboración del Programa Operativo Anual;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -1937,7 +1981,9 @@ XXI. Expedir copias certificadas de los documentos que obren en los archivos de 
 
 XXII. Recibir los documentos y expedientes de la Legislatura y dar seguimiento a los trámites correspondientes;
 
-XXIII. Coordinar los trabajos para la elaboración de los proyectos del programa anual de trabajo y del presupuesto de egresos de la Legislatura, así como la supervisión del ejercicio del gasto, el manejo del fondo revolvente y autorizar la ministración de los insumos y bienes materiales;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXIII. Coordinar los trabajos para la elaboración de los proyectos del Programa Operativo Anual y del presupuesto de egresos de la Legislatura, así como la supervisión del ejercicio del gasto, el manejo del fondo revolvente y autorizar la ministración de los insumos y bienes materiales;
 
 XXIV. Dar aviso oportuno al Presidente de los asuntos urgentes que sean de su conocimiento;
 
@@ -1946,6 +1992,34 @@ XXV. Expedir constancias y credenciales de identificación a los diputados y per
 XXVI. Mantener actualizado, a través de la Dirección de Administración, el inventario de bienes inmuebles, muebles y equipo, así como vigilar el adecuado y oportuno mantenimiento de los mismos y autorizar las altas y bajas correspondientes, y
 
 XXVII. Autorizar, previa anuencia de los Presidentes de las Comisiones de Régimen Interno y de Planeación, los movimientos de personal, las recategorizaciones, el pago de tiempo extra y demás prestaciones de los trabajadores de la Legislatura.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXVIII. Supervisar las actividades del Secretario Técnico de la Comisión de Régimen Interno;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXIX. Definir la competencia de las unidades administrativas, cuando no exista disposición expresa por la Ley o el Reglamento, para la atención de algún asunto particular;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXX. Supervisar y evaluar la integración del Sistema de Información Legislativa y Parlamentaria, así como verificar su publicación en la página de Internet de la Legislatura;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXXI. Proponer a las unidades administrativas y de apoyo, lineamientos específicos de procedimientos para sus áreas, para su consideración, aprobación y emisión;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXXII. Vigilar que las erogaciones de las Unidades Administrativas se ajusten a sus programas operativos anuales, así como a los calendarios y montos autorizados, y verificar su correcto ejercicio;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXXIII. Realizar la apertura y el manejo de las cuentas bancarias a nombre de la Legislatura, conjuntamente con el Presidente de la Comisión de Planeación o, en ausencia de éste, con el Presidente de la Comisión de Régimen Interno; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXXIV. Las demás que le instruya el Pleno o los órganos de Gobierno.
 
 ### Capítulo III. De las unidades de apoyo de la Secretaría General
 
@@ -1958,6 +2032,10 @@ I. (DEROGADA, P.O. 8 DE MAYO DE 2010)
 II. La Coordinación de Comunicación Social, y
 
 III. La Unidad Centralizada de Información Digitalizada.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IV. Unidad de Enlace para el Acceso a la Información Pública.
 
 ###### Artículo 226.
 
@@ -2051,7 +2129,9 @@ III. Promover modificaciones a la página de internet de la Legislatura, para da
 
 IV. Establecer vínculos de colaboración e información que posibiliten la difusión de las actividades legislativas, a través de los diferentes medios de comunicación;
 
-V. Efectuar encuestas de opinión sobre el trabajo legislativo, con el propósito de mejorarlo;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+V. Monitorear encuestas de opinión sobre el trabajo legislativo, con el propósito de mejorarlo;
 
 VI. Elaborar síntesis informativas de las actividades de la Legislatura y ponerlas a disposición en la página de Internet;
 
@@ -2065,19 +2145,29 @@ X. Promover en los medios de comunicación las actividades de las comisiones leg
 
 XI. Mantener una estrecha colaboración con los cronistas municipales con la finalidad de proporcionarles información sobre hechos relevantes llevados a cabo en la Legislatura, y
 
-XII. Las demás que le encomiende la Secretaría General.
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XII. Crear una compilación ordenada y sistematizada de los archivos de audio, video y demás que tenga a su disposición, referentes a las actividades de la Legislatura catalogadas por ejercicio constitucional, vigilando su correcta incorporación al archivo; y
+
+XIII. Las demás que le encomiende la Secretaría General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### Artículo 232.
 
-La Unidad centralizada de información digitalizada tendrá las siguientes facultades:
+La Unidad Centralizada de Información Digitalizada tendrá las siguientes facultades:
 
 I. Coadyuvar en la instauración de sistemas de consulta del acervo, para la eficiente atención a las solicitudes de los diputados y servidores públicos de la Legislatura, así como de la población en general;
 
-II. Concentrar, clasificar y conservar los acervos digitalizados, que se relacionen con la actividad legislativa;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+II. Concentrar y clasificar los acervos digitalizados, relacionados con la actividad legislativa, y coordinar su entrega al archivo;
 
 III. Proponer la modernización de los sistemas de consulta, para hacer dinámico el uso de la documentación;
 
-IV. Resguardar la información depositada en la base de datos de la Legislatura;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IV. Resguardar y preservar la información depositada en la base de datos de la Legislatura;
 
 V. Proporcionar el soporte técnico para la adquisición y mantenimiento de los equipos informáticos de la Legislatura;
 
@@ -2167,7 +2257,13 @@ III. Acatar las instrucciones, por escrito, de los Presidentes de las Comisiones
 
 IV. Auxiliar técnicamente al Pleno, a la Mesa Directiva y a la Secretaría General, en la fase de expedición de leyes, decretos, acuerdos, informes, opiniones o estudios legislativos que se le encomienden;
 
-V. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, por acuerdo delegatorio del Presidente de la Comisión de Puntos Constitucionales, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la Legislatura, así como presentar denuncia o querella ante el Ministerio Público, de los hechos que lo ameriten;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
+V. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, por acuerdo delegatorio de cualquier miembro de la Comisión de Puntos Constitucionales, la representación jurídica de la Legislatura en los juicios y procedimientos contenciosos en los que ésta sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la Legislatura, así como presentar denuncia o querella ante el Ministerio Público, de los hechos que lo ameriten.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Cualquiera de los miembros de la Comisión de Puntos Constitucionales podrá delegar la referida representación jurídica en el Subdirector de Asuntos Jurídicos o en otro servidor público de la Legislatura;
 
 VI. Proporcionar asesoría jurídica a los diputados, órganos y unidades administrativas de la Legislatura que lo requieran;
 
@@ -2364,3 +2460,9 @@ P.O. 11 DE ENERO DE 2014.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se archive el expediente original, como asunto plenamente concluido.
+
+P.O. 12 DE JULIO DE 2014.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan este Decreto.
