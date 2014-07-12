@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-98361
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-01"
-last_updated: "2014-02-01"
+last_updated: "2014-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 1 de febrero de 2014.
 
@@ -99,11 +99,17 @@ II. Multa equivalente al monto de 20 a 500 días de salario mínimo vigente en e
 
 III. Auxilio de la fuerza pública;
 
-Cuando el Tribunal tenga conocimiento de actos o hechos que presuman una conducta delictiva, podrá interponer la denuncia correspondiente ante el Ministerio Público para su investigación.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Cuando el Tribunal tenga conocimiento de actos o hechos que presuman una conducta delictiva, dará vista al Ministerio Público para su investigación.
 
 Para la imposición de los medios de apremio y medidas disciplinarias anteriores no será necesario sujetarse al orden antes establecido.
 
 Las multas tendrán el carácter de créditos fiscales y se harán efectivas por los fiscos del Estado o de los municipios, para lo cual se girará el oficio correspondiente. Aquellos informarán al Tribunal el haber hecho efectiva la multa, señalando los datos que acrediten su cobro.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Cuando las autoridades responsables sean omisas en el cumplimiento de las sentencias definitivas del Tribunal, éste denunciará dichas omisiones en los términos procedentes de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### ARTÍCULO 8.
 
@@ -119,6 +125,8 @@ Las resoluciones dictadas por el Tribunal en casos similares podrán ser invocad
 
 ### CAPITULO II. DE LA COMPETENCIA
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
 El Tribunal es competente para conocer:
@@ -129,11 +137,11 @@ II. De los juicios que se promuevan en contra de cualquier acto o resolución de
 
 III. De las controversias de carácter administrativo o fiscal que se susciten, entre las autoridades Estatales y Municipales, así como de las que surjan entre el estado y los municipios o de éstos entre sí;
 
-IV. De los Juicios que se promuevan ante la negativa ficta que opera por el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto, o dentro del término de diez días tratándose de actos declarativos y de sesenta días tratándose de actos constitutivos, según, lo establecido por la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
+IV. De los Juicios que se promuevan por la negativa ficta que opera ante el silencio de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por los ordenamientos jurídicos aplicables al caso concreto, o dentro del término de diez días hábiles tratándose de actos declarativos y de sesenta días naturales tratándose de actos constitutivos, según, lo establecido por la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
-V. En los casos a que se refiere el párrafo anterior, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
+En los casos a que se refiere el párrafo anterior, el silencio de las autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda;
 
-VI. De los juicios que promueva la autoridad emisora de actos o resoluciones administrativas favorables a los gobernados, cuando no pueda anularlo o revocarlo por si misma por lo previsto en las leyes o reglamentos, ejerciendo su acción de lesividad ante el tribunal cuando:
+V. De los juicios que promueva la autoridad emisora de actos o resoluciones administrativas favorables a los gobernados, cuando no pueda anularlo o revocarlo por si misma por lo previsto en las leyes o reglamentos, ejerciendo su acción de lesividad ante el tribunal cuando:
 
 a) Se afecten disposiciones de orden público o el interés social;
 
@@ -143,15 +151,15 @@ c) El interesado se haya conducido con dolo, mala fe o violencia para conseguir 
 
 d) Se haya concedido un beneficio indebido.
 
-El procedimiento de lesividad sólo podrá iniciarse a petición de la autoridad que emitió la resolución favorable al gobernado, dentro del año siguiente a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del ultimo efecto, pero los efectos de la sentencia en caso de ser total o parcialmente desfavorable para el gobernado, sólo se retrotraerán al año anterior a la presentación de la demanda, si la naturaleza del acto lo permite.
+El procedimiento de lesividad sólo podrá iniciarse a petición de la autoridad que emitió la resolución favorable al gobernado, dentro de los cinco años siguiente a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del último efecto, pero los efectos de la sentencia en caso de ser total o parcialmente desfavorable para el gobernado, sólo se retrotraerán al año anterior a la presentación de la demanda, si la naturaleza del acto lo permite;
 
-VII. De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos;
+VI. De los juicios contra resoluciones dictadas por las autoridades administrativas o fiscales señaladas, en los expedientes relativos a recursos ordinarios establecidos por las leyes y reglamentos respectivos;
 
-VIII. De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable;
+VII. De los juicios que versen sobre la responsabilidad patrimonial del Estado, de acuerdo a lo establecido en la legislación aplicable;
 
-IX. Del procedimiento que se promueva para que se declare la afirmativa ficta, ante la omisión de la autoridad de dictar la certificación de la misma dentro del término de tres días establecido por el artículo 33 de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios; y
+VIII. Del procedimiento que se promueva para que se declare la afirmativa ficta, por la ausencia absoluta de dar respuesta por parte de la autoridad ante la cual se presentó la solicitud, dentro del término de tres días establecido por el artículo 33 de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios; y
 
-X. De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
+IX. De los demás juicios que se promuevan en contra de los actos o resoluciones que las leyes consideren como competencia del Tribunal.
 
 ### CAPITULO III. DE LAS PARTES
 
@@ -169,7 +177,9 @@ b) El particular a quien favorezca la resolución, cuya modificación o nulidad 
 
 c) El organismo descentralizado estatal o municipal con funciones administrativas de autoridad que dicte, ordene, ejecute o trate de ejecutar el acto impugnado; y
 
-III. El tercero perjudicado, que podrá ser cualquier persona física o moral, cuyos intereses se verían afectados por la resolución que dicte el Tribunal.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+III. El tercero interesado, que podrá ser cualquier persona física o moral, cuyos intereses se verían afectados por la resolución que dicte el Tribunal.
 
 ###### ARTÍCULO 13.
 
@@ -223,7 +233,9 @@ a).- La que admita o deseche una demanda o su ampliación;
 
 b).- La que admita o deseche la contestación o su ampliación;
 
-c).- La que admita o deniegue la intervención del tercero perjudicado;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+c).- La que admita o deniegue la intervención del tercero interesado;
 
 d).- La que mande citar a un tercero;
 
@@ -233,7 +245,9 @@ f).- Cuando se deje de actuar por más de dos meses;
 
 g).- Las de sobreseimiento y las incidentales;
 
-h).- La sentencia definitiva;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+h).- La sentencia definitiva y resoluciones interlocutorias;
 
 i).- Las que resuelvan sobre la aclaración de sentencia; y
 
@@ -241,11 +255,19 @@ j).- En cualquier caso urgente o importante, si así lo considera el Tribunal.
 
 III. Fuera de los casos señalados en la fracción anterior, las notificaciones se harán directamente en el Tribunal a los particulares, si se presentan dentro de las 24 horas siguientes al en que se haya dictado la resolución y si no se presentaren con oportunidad, por lista autorizada que se fijará en los Estados (sic); y
 
-IV. Por edictos, en el caso de que se ignore el domicilio de un particular, así como cuando la persona a quien se deba notificar hubiere fallecido y se desconozca quien es el representante de la sucesión. En estos casos, los gastos que se originen correrán a cargo del promovente que haya señalado a la persona a quien tenga que hacerse la notificación.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+IV. Por edictos, en el caso de que se ignore el domicilio de un particular distinto al actor, así como cuando la persona a quien se deba notificar hubiere fallecido y se desconozca quien es el representante de la sucesión. En estos casos, los gastos que se originen correrán a cargo del promovente que haya señalado a la persona a quien tenga que hacerse la notificación.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 21.
 
-En el caso de las notificaciones personales señaladas por la fracción II del artículo anterior, de no encontrar el notificador a quien deba hacerse la notificación, le dejará citatorio para hora fija dentro de las 24 horas siguientes, si aun así no se encontrare, le dejará cédula en la que hará constar: la fecha y hora en que se entregue, el Tribunal que manda practicar la diligencia, la síntesis de la determinación que se manda notificar y el nombre y apellido de la persona a quien se le deja. En caso de que se negare a recibirla, se fijará en la puerta del domicilio señalado, dejándose constancia de lo anterior en el expediente
+En el caso de las notificaciones personales señaladas por la fracción II del artículo anterior, de no encontrar el notificador a quien deba hacerse la notificación, le dejará citatorio para hora fija dentro de las 24 horas siguientes, si aun así no se encontrare, se le practicará la notificación mediante cédula en la que hará constar: la fecha y hora en que se entregue, el Tribunal que manda practicar la diligencia, la síntesis de la determinación que se manda notificar y el nombre y apellido de la persona a quien se le deja. En caso de que se negare a recibirla, se fijará en la puerta del domicilio señalado, dejándose constancia de lo anterior en el expediente.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Si el actuario encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse. Si no se presenta se notificará por lista.
 
 ###### ARTÍCULO 22.
 
@@ -277,9 +299,11 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 ### CAPITULO V. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 27.
 
-La demanda deberá de formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, contados a partir del día siguiente al en que el afectado tenga conocimiento o al día siguiente al en que haya surtido efectos la notificación del acto o resolución impugnados.
+La demanda deberá de formularse por escrito y presentarse directamente ante el Tribunal, dentro de los 15 días, que se computarán a partir del día siguiente a aquél en que surta efectos la notificación al demandante del acto o resolución que reclame o a aquél en que haya tenido conocimiento o se ostente sabedor del acto o de su ejecución.
 
 Si el particular reside fuera de la entidad y no tiene representante en el Estado, o fallece durante el plazo a que se refiere el párrafo anterior, el término para la presentación de la demanda será de 45 días, siguientes a la notificación o al en que tenga conocimiento del acto reclamado.
 
@@ -287,7 +311,9 @@ Cuando el actor resida fuera de la capital del Estado, podrá presentar su deman
 
 En caso de incumplimiento a lo previsto por el párrafo anterior, el Tribunal impondrá al servidor público una multa equivalente al monto de 20 a 500 días de salario mínimo vigente en el Estado, independientemente de la responsabilidad en que pudiera incurrir de conformidad con la ley de la materia.
 
-El procedimiento de lesividad solo podrá iniciarse dentro del año siguiente a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del último efecto.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+El procedimiento de lesividad solo podrá iniciarse dentro de los cinco años siguientes a la fecha en que se haya emitido el acto o resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que podrá demandar la modificación o nulidad en cualquier época sin exceder de un año del último efecto.
 
 La demanda de responsabilidad patrimonial deberá presentarse antes de que transcurra un año que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial, o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continúo.
 
@@ -321,7 +347,9 @@ b) El acto o resolución impugnado;
 
 c) La fecha de notificación o en la que se tuvo conocimiento del acto o resolución impugnado;
 
-d) El nombre y domicilio del demandado y del tercero perjudicado, si lo hubiere;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+d) El nombre y domicilio del demandado y del tercero interesado, si lo hubiere;
 
 e) Los hechos en que se apoye la demanda y los agravios que le cause el acto o resolución impugnado;
 
@@ -349,9 +377,11 @@ Contra el auto de desechamiento procederá el recurso de reclamación.
 
 ### CAPITULO VI. DE LA CONTESTACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
-Admitida la demanda, se correrá traslado a la parte demandada y al tercero perjudicado, si lo hubiere, emplazándolos para que dentro del término de 15 días contados a partir del día siguiente al en que haya surtido efectos la notificación, contesten lo que a su derecho convenga. La parte demandada podrá ampliar su contestación, dentro de los 5 días contados a partir del siguiente al en que haya surtido efecto la notificación de la ampliación de la demanda.
+Admitida la demanda, se correrá traslado a la parte demandada y al tercero interesado, si lo hubiere, emplazándolos para que dentro del término de 15 días contados a partir del día siguiente al en que haya surtido efectos la notificación, contesten lo que a su derecho convenga. La parte demandada podrá ampliar su contestación, dentro de los 5 días contados a partir del siguiente al en que haya surtido efecto la notificación de la ampliación de la demanda.
 
 Cuando fueren varios los demandados, el término correrá en forma individual para cada uno de ellos.
 
@@ -375,9 +405,11 @@ Las pruebas documentales que se ofrezcan deberán de anexarse al escrito de cont
 
 A la contestación deberá acompañarse copia de la misma y de todos los documentos anexos, para cada una de las partes, siempre que las mismas no excedan de 25 hojas.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-Con excepción de lo previsto en el artículo 30 de esta Ley, el tercero perjudicado podrá apersonarse al juicio hasta antes de la audiencia, interponiendo defensas y excepciones y aportando las pruebas que considere pertinentes. En este caso el Tribunal correrá traslado a las partes para que dentro del término de 10 días, expongan lo que a su derecho convenga.
+Con excepción de lo previsto en el artículo 30 de esta Ley, el tercero interesado podrá apersonarse al juicio hasta antes de iniciada la audiencia, o en caso de no existir dicha etapa podrá apersonarse hasta antes del turno del expediente a sentencia definitiva, interponiendo defensas y excepciones y aportando las pruebas que considere pertinentes. En este caso el Tribunal correrá traslado a las partes para que dentro del término de 10 días, expongan lo que a su derecho convenga.
 
 ###### ARTÍCULO 37.
 
@@ -461,7 +493,9 @@ V. Contra actos que no afecten los intereses del actor, que se hayan consumado d
 
 VI. Contra actos conexos a otros que hayan sido impugnados por medio de defensa diferente;
 
-VII. Para los efectos de esta fracción se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo 49 de esta Ley.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+
+VII. Para los efectos de esta fracción se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo 53 de esta Ley;
 
 VIII. Contra reglamentos, acuerdos, circulares o disposiciones de carácter general, que no hayan sido aplicados concretamente al promovente;
 
@@ -507,9 +541,11 @@ IV. El de falta de personalidad; y
 
 V. Incompetencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 52.
 
-La interposición de los incidentes mencionados en el artículo anterior, suspenderá el procedimiento y podrán promoverse hasta antes de la celebración de la audiencia de pruebas y alegatos; el Tribunal podrá desechar de plano aquellos incidentes que considere notoriamente frívolos o improcedentes.
+La interposición de los incidentes mencionados en el artículo anterior, suspenderá el procedimiento y podrán promoverse hasta antes de la celebración de la audiencia de pruebas y alegatos; o cuando no hubiere hasta antes de turnarse dicho procedimiento a sentencia definitiva; el Tribunal podrá desechar de plano aquellos incidentes que considere notoriamente frívolos o improcedentes.
 
 Todo incidente promovido dentro del procedimiento contencioso administrativo será tramitado dentro de la misma pieza de autos.
 
@@ -573,17 +609,23 @@ El juzgador, sin necesidad de citación, resolverá el incidente dictando la sen
 
 En los juicios que se tramiten ante el Tribunal, se admitirán toda clase de pruebas, excepto la confesional mediante la absolución de posiciones, las que no tengan relación con los hechos controvertidos y las que fueren contrarias a la moral y al derecho.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 62.
 
-Las pruebas deberán ofrecerse en los escritos de demanda o contestación; las documentales se acompañarán invariablemente a ellos y en su caso, a los de ampliación de los mismos.
+Las pruebas deberán ofrecerse en los escritos de demanda o contestación y en su caso, en los de ampliación de los mismos; las documentales se acompañarán invariablemente de ellos.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 63.
 
-Dentro del término de 5 días contados a partir del siguiente, al en que se tengan por ofrecidas las pruebas, el Tribunal dictará una resolución admitiéndolas o desechándolas. En contra de esta resolución, procederá el recurso de reclamación.
+Las pruebas serán admitidas en los acuerdos de radicación de la demanda, contestación y en su caso la ampliación de las mismas. En contra de esta resolución, procederá el recurso de reclamación.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 64.
 
-Las pruebas supervenientes podrán presentarse hasta antes de celebrarse la audiencia del juicio. En este caso, el Tribunal ordenará dar vista a la contraparte para que en el plazo de 3 días exprese lo que a su derecho convenga, resolviéndose sobre su admisión dentro del tercer día. La resolución no será recurrible.
+Las pruebas supervenientes podrán presentarse hasta antes del inicio de la audiencia de pruebas y alegatos, o cuando no hubiera hasta antes del turno del expediente a sentencia definitiva. En este caso, el Tribunal ordenará dar vista a la contraparte para que en el plazo de 3 días exprese lo que a su derecho convenga, resolviéndose sobre su admisión dentro del tercer día. La resolución no será recurrible.
 
 ###### ARTÍCULO 65.
 
@@ -593,11 +635,11 @@ El Tribunal podrá acordar, de oficio, la práctica de cualquier diligencia que 
 
 El Tribunal podrá decretar, en todo tiempo, la repetición o ampliación de cualquier diligencia probatoria que estime necesarias. Los hechos notorios no requieren prueba.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 67.
 
-A fin de que las partes puedan rendir sus pruebas en la audiencia del juicio, los servidores públicos o autoridades tienen obligación de expedir con toda oportunidad las copias de los documentos que se les soliciten; si no cumplieren con esa obligación, la parte interesada solicitará del Tribunal que requiera a los omisos.
-
-El Tribunal hará el requerimiento para que se le remitan en un término que no exceda de 10 días, pero si no obstante dicho requerimiento no se expidieren, el Tribunal hará uso de los medios de apremio. Si la omisión fuere de una autoridad o servidor público demandado, se tendrán por ciertos los hechos afirmados por el actor respecto del omiso.
+A fin de que las partes puedan rendir sus pruebas, los servidores públicos tienen la obligación de expedir con toda oportunidad, las copias o documentos que aquellos les hubieren solicitado. Si no lo hacen, la parte interesada una vez que acredite haber hecho la petición, solicitará al órgano jurisdiccional que requiera a los omisos y difiera a la audiencia, lo que se acordará siempre que la solicitud se hubiere hecho cuando menos tres días hábiles antes de la presentación de la demanda o de la ampliación de la misma. El órgano jurisdiccional hará el requerimiento de que se le envíen directamente los documentos o copias dentro de un plazo que no exceda de diez días, pero si no obstante dicho requerimiento no se expidieren, el Tribunal hará uso de los medios de apremio. Si la omisión fuere de una autoridad o servidos (sic) público demandado, se tendrán por ciertos los hechos afirmados por el actor respecto del omiso.
 
 ###### ARTÍCULO 68.
 
@@ -617,7 +659,9 @@ Los peritos deberán rendir su dictamen dentro de los diez días siguientes a la
 
 En cualquier momento las partes podrán acordar la designación de un solo perito.
 
-Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, de tal modo que el Tribunal considere que no es posible encontrar conclusiones que le aporten elementos de convicción, designará al perito tercero en discordia. Dicho perito no será recusable, pero deberá excusarse cuando concurra en él alguno de los impedimentos que señala el artículo 121 de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, de tal modo que el Tribunal considere que no es posible encontrar conclusiones que le aporten elementos de convicción, designará al perito tercero en discordia. Dicho perito no será recusable, pero deberá excusarse cuando concurra en él alguno de los impedimentos que señala el artículo 116 de esta Ley.
 
 Los peritos fundamentarán en forma idónea su dictamen y podrán acompañar a éste dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Además podrán requerir informes de terceros y ejecutar calcas, planos, relieves, así como todas las actividades que sean indispensables para rendir su dictamen. Igualmente estarán facultados para inspeccionar lugares, bienes muebles o inmuebles, documentos, libros, archivos físicos o electrónicos y obtener muestras para motivar sus dictámenes. Las partes estarán obligados (sic) a darles facilidades para el cumplimiento de su misión y el Tribunal les prestará, para este fin, el auxilio necesario.
 
@@ -1044,3 +1088,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 29 veintinueve del mes de enero del año 2014 dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
