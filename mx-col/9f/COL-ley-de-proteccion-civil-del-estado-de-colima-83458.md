@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2012-09-22"
+last_updated: "2014-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -79,9 +79,9 @@ La materia de protección civil comprende el conjunto de acciones encaminadas a 
 
 En el presupuesto anual de egresos del Gobierno del Estado se asignará a la Unidad Estatal de Protección Civil la partida presupuestal correspondiente a fin de dar cumplimiento a las acciones que se indican en este artículo, las que no podrán ser reducidas en ningún caso y por ningún motivo y, en cambio, sí podrán ser aumentadas conforme a las necesidades de protección y salvaguarda a la población.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-El Ejecutivo del Estado, podrá establecer una partida especial llamada Fondo Estatal de Protección Civil para su operación, la cual será vigilada y liberada, en su caso, por la Junta de Gobierno cuando sea requerida. Dicha partida será abonada a una cuenta especial, única de la Unidad Estatal de Protección Civil, quien la ejercerá y, además, podrá recibir donaciones.
+El Ejecutivo del Estado, podrá establecer una partida especial llamada Fondo Estatal de Emergencias y Desastres para operación en caso de contingencias, la cual será vigilada y liberada, en su caso, por la Junta de Gobierno cuando sea requerida. Dicha partida será abonada a una cuenta especial, única de la UEPC, quien la ejercerá y, además, podrá recibir donaciones.
 
 ###### Artículo 3o.
 
@@ -281,7 +281,7 @@ En todas las edificaciones, excepto casas habitación unifamiliares, se deberán
 
 Lo dispuesto por el párrafo anterior, se regulará en la Ley de Asentamientos Humanos, su Reglamento y en los reglamentos municipales de construcción, creando un apartado específico que establezca la autorización de la UEPC o UMPC, según su caso, conforme a las disposiciones legales y reglamentarias aplicables.
 
-En lo que se refiere al desarrollo urbano, los proyectos de construcción y expedición de las licencias de habitabilidad, deberá (sic) contar con el visto bueno de la UMPC y la UEPC previo a su autorización.
+En lo que se refiere al desarrollo urbano, los proyectos de construcción y expedición de las licencias de habitabilidad, deberá contar con el visto bueno de la UMPC y la UEPC previo a su autorización.
 
 ###### Artículo 11.
 
@@ -367,9 +367,23 @@ XVIII. Asociarse con otras entidades públicas o con particulares para coordinar
 
 XIX. Expedir los reglamentos necesarios en todos los aspectos que no están encomendados expresamente a los ayuntamientos;
 
-XX. Crear el Fondo Estatal de Emergencias y Desastres para la atención de emergencias originadas por un riesgo o desastre; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
-XXI. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales relativas.
+XX. Crear el Fondo Estatal de Emergencias y Desastres para la atención de emergencias originadas por un riesgo o desastre, así como emitir sus Reglas de Operación con la opinión de la UEPC;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXI. Crear el Fondo Estatal de Prevención de Desastres, para el conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos; el cual será operado y administrado en coordinación con la UEPC;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXII. Disponer la utilización y destino de los recursos de los instrumentos financieros de gestión de riesgos, con apego a lo dispuesto por la Ley General de Protección Civil, esta Ley, sus Reglamentos y demás disposiciones legales y administrativas en la materia;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+
+XXIII. Promover la realización de acciones dirigidas a una estrategia integral de los instrumentos de administración y transferencia de riesgos, a través de herramientas tales como: la identificación de la infraestructura por asegurar, el análisis de los riesgos, las medidas para la reducción de éstos, la definición de los esquemas de retención y aseguramiento, entre otros; y
+
+XXIV. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales relativas.
 
 ###### Artículo 17.
 
@@ -1067,9 +1081,9 @@ XXVI. Establecer los mecanismos para la recaudación de los ingresos económicos
 
 XXVII. Coordinar las acciones de la UEPC, de las dependencias, organismos y dependencias federales y municipales en caso de siniestro o desastre en el Estado, así como ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades, además de restablecer el funcionamiento de los servicios elementales para la comunidad;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
-XXVIII. Administrar y aplicar los recursos económicos del Fondo Estatal de Protección Civil en forma eficiente;
+XXVIII. Administrar y aplicar los recursos económicos del Fondo Estatal de Emergencias y Desastres en forma eficiente;
 
 > <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1426,6 +1440,14 @@ e) Fenómenos socio - organizativos.
 ###### Artículo 90.
 
 El subprograma de prevención agrupará las acciones de protección civil tendientes a evitar, mitigar los efectos o disminuir la ocurrencia de hechos de alto riesgo, siniestro o desastre y promover el desarrollo de la cultura de protección civil en la comunidad.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Las acciones de prevención correspondientes a este subprograma deberán regirse por ejes transversales, que involucren a todas las dependencias de la Administración Pública Estatal, dentro del ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+
+Las estrategias implementadas en este subprograma, serán financiadas con recursos del Fondo Estatal de Prevención de Desastres.
 
 ###### Artículo 91.
 
@@ -2060,3 +2082,9 @@ P.O. 22 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Respecto a la creación del Fondo Estatal de Prevención de Desastres, éste se integrará con las partidas presupuestales de la Unidad Estatal de Protección Civil y los recursos presupuestales que el Ejecutivo Estatal considere pertinente en el proceso de presupuestación.
