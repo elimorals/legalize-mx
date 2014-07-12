@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2014-04-12"
+last_updated: "2014-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1771,35 +1771,55 @@ Para dar trámite a la solicitud de reposición de placas de circulación, será
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+VI.- Por la expedición de permisos y placas de circulación provisionales:
 
-VI.- Por la expedición de permisos provisionales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-a).- Para manejar automóviles:
+a).- Permisos para manejar automóviles:
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 1.- Por el primer permiso, por 6 meses 6.000
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 2.- Por el segundo permiso, hasta por seis meses 7.000
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 3.- Por el tercer permiso, hasta por un año 8.000
 
-b).- Para circular sin placas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
-1.- Por primer permiso, por 30 días 6.000
+b).- Dotación de placas y tarjetas de circulación provisionales:
 
-2.- Permisos de traslado, hasta por 5 días 6.000
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-3.- Permiso de traslado, por día adicional 2.000
+1.- Para vehículos 6.000
 
-4.- Permiso de demostración vehicular 11.000
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2014)</small>
 
-c).- Para manejar motocicletas, trimotos, cuatrimotos, y otros vehículos similares:
+2.- Para motocicletas o equivalentes 4.000
+
+3.- (DEROGADO, P.O. 12 DE JULIO DE 2014)
+
+4.- (DEROGADO, P.O. 12 DE JULIO DE 2014)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+
+c).- Permiso para manejar motocicletas, trimotos, cuatrimotos, y otros vehículos similares:
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 1.- Por el primer permiso, por 6 meses 6.000
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 2.- Por el segundo permiso, por 6 meses 7.000
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 3.- Por el tercer permiso, hasta por un año 8.000
 
@@ -4697,15 +4717,15 @@ El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado l
 
 Para los efectos del Título Segundo, se entenderá por ``día de salario mínimo'', el salario mínimo general diario vigente en el Estado, en la fecha de pago del derecho de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 76.
 
 Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se distribuirá entre el personal de la Secretaría de Finanzas y Administración que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 77.
 
@@ -4713,7 +4733,7 @@ Para determinar las contribuciones y demás conceptos de ingreso que se establec
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 78.
 
@@ -5200,3 +5220,7 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 12 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
