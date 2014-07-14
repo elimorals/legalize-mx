@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-88635"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-13"
-last_updated: "2012-07-13"
+last_updated: "2014-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 13 de julio de 2012.
 
@@ -405,7 +405,9 @@ Tendrá como objeto proponer las políticas, programas, proyectos e instrumentos
 
 El Consejo Estatal de Pesca y Acuacultura se conformará de la siguiente manera:
 
-I. El Secretario de Pesca y Acuacultura, quien lo presidirá;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
+
+I. El Secretario de Pesca y Acuacultura, quien lo presidirá y tendrá voto de calidad;
 
 II. El Subsecretario de Pesca; como Secretario Técnico;
 
@@ -419,13 +421,43 @@ VI. El Jefe de la Unidad de Transparencia y Rendición de Cuentas, como vocal;
 
 VII. El Secretario de Desarrollo Social y Humano, como vocal;
 
-VIII. El Secretario de Seguridad Pública, como vocal; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
 
-IX. El Procurador General de Justicia del Estado, como vocal.
+VIII. El Secretario de Seguridad Pública, como vocal;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
+
+IX. El Procurador General de Justicia del Estado, como vocal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+X. Un representante de la Comisión de Pesca del H. Congreso del Estado, como vocal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+XI. Un representante de cada uno de los Ayuntamientos del Estado, como vocal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+XII. Un representante del sector de la pesca ribereña, como vocal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+XIII. Un representante del sector de la pesca de altamar, como vocal;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+XIV. Un representante del sector acuícola, como vocal; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2014)</small>
+
+XV. Un representante del sector de la pesca de aguas continentales, como vocal.
 
 Quienes tendrán voz y voto en las decisiones del Consejo Estatal de Pesca y Acuacultura
 
-Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto los representantes de la SAGARPA, SEMAR, PROFECO, SCT, SE, PGR y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales y de productores de los sectores pesquero y acuícola en el Estado.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2014)</small>
+
+Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto los representantes de la SAGARPA, CONAPESCA, SEMAR, PROFECO, SCT, SE, PGR y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales en el Estado.
 
 ###### ARTÍCULO 17.
 
@@ -1288,3 +1320,11 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
