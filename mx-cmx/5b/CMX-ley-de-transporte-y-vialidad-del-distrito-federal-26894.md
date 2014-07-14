@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2013-07-11"
+last_updated: "2014-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 14 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -640,7 +642,7 @@ a) Cuando el otorgamiento de concesiones, pudiere crear competencia desleal o mo
 
 b) Cuando se ponga en peligro la prestación del servicio público de transporte o se justifique en necesidades de interés público;
 
-c) Cuando se trate del establecimiento de sistemas de transporte que impliquen el uso o aplicación de nuevas tecnologías o la preservación del medio ambiente; y (sic)
+c) Cuando se trate del establecimiento de sistemas de transporte que impliquen el uso o aplicación de nuevas tecnologías o la preservación del medio ambiente; y
 
 d) Por mandato judicial o administrativo de la autoridad competente;
 
@@ -680,7 +682,7 @@ VII.- Presentar el programa general de capacitación que se aplicará anualmente
 
 VIII.- Cumplir con los requisitos exigidos en otras leyes, en la Declaratoria de necesidades y en las bases de licitación, en su caso;
 
-IX.- Presentar el programa anual de mantenimiento de la unidad o parque vehicular objeto del transporte; y (sic)
+IX.- Presentar el programa anual de mantenimiento de la unidad o parque vehicular objeto del transporte; y
 
 X.- Presentar el programa para la sustitución o cambio de la unidad o parque vehicular;
 
@@ -1488,7 +1490,7 @@ V Bis.- Registro de Vehículos de Transporte de Seguridad Privada;
 
 VI.- Registro y seguimiento de infracciones, sanciones y delitos;
 
-VII.- Registro de operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación; y (sic)
+VII.- Registro de operadores no aptos y de aquellos solicitantes de permisos o licencias para conducir que se encuentren en la misma situación; y
 
 > <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1618,7 +1620,7 @@ VI.- La verificación que realicen los centros autorizados sobre emisión de con
 
 VII.- El retiro de la vialidad de los vehículos y objetos que ilícitamente obstaculicen, limiten o impidan el uso adecuado de la vialidad o pongan en peligro el tránsito de personas o vehículos;
 
-VIII.- El diseño y aplicación de medidas para garantizar la seguridad en los sistemas de transporte público de vía exclusiva, proporcionados por la Administración Pública y/o los particulares; y (sic)
+VIII.- El diseño y aplicación de medidas para garantizar la seguridad en los sistemas de transporte público de vía exclusiva, proporcionados por la Administración Pública y/o los particulares; y
 
 IX.- La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público;
 
@@ -1800,7 +1802,7 @@ Toda unidad que tenga como fin la prestación del servicio público de transport
 
 ###### Artículo 103.
 
-Los usuarios tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia Secretaría establezca bajo los principios de prontitud, expeditez (sic), imparcialidad, integridad y gratuidad a que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
+Los usuarios tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio público de transporte, mediante los procedimientos que la propia Secretaría establezca bajo los principios de prontitud, expeditez, imparcialidad, integridad y gratuidad a que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
 
 Para este efecto, independientemente de los órganos de control, la Secretaría establecerá en las áreas administrativas de las dependencias, organismos descentralizados, empresas de participación estatal y, en su caso, órganos desconcentrados relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en el párrafo que antecede.
 
@@ -2477,3 +2479,43 @@ G.O. 11 DE JULIO DE 2013.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+G.O. 14 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se abroga la Ley de Transporte y Vialidad del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal del 26 de diciembre de 2002, así como las demás disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- Las disposiciones reglamentarias de la Ley de Transporte y Vialidad del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 26 de diciembre de 2002, continuarán en vigor, en lo que no contradigan a las disposiciones de este Decreto, hasta en tanto no se expidan otras nuevas.
+
+QUINTO.- Los reglamentos que deriven de esta Ley, deberán expedirse dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley, hasta en tanto se continuarán aplicando los vigentes en lo que no se opongan a la presente Ley.
+
+SEXTO.- Las referencias que se hagan en otros ordenamientos a la Secretaría de Transportes y Vialidad; se entenderán hechas a la Secretaría de Movilidad a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- En lo relativo al Programa Integral de Movilidad, la Secretaría de conformidad con lo establecido en este ordenamiento, iniciará su proceso de elaboración dentro de los ciento ochenta días naturales siguientes al inicio de vigencia de la presente ley.
+
+OCTAVO.- En lo relativo al Programa Integral de Seguridad Vial, la Secretaría de conformidad con lo establecido por este ordenamiento, iniciará su proceso de elaboración de dentro de los trescientos sesenta y cinco días naturales siguientes al inicio de vigencia de la presente ley.
+
+NOVENO.- Las modificaciones que deban realizarse a los ordenamientos administrativos y la creación de manuales, lineamientos y demás dispositivos legales, deberán expedirse y publicarse a más tardar, en trescientos sesenta y cinco días naturales a la entrada en vigor de esta Ley.
+
+DÉCIMO.- El Comité del Sistema Integrado de Transporte Público, la Comisión de Clasificación de Vialidades, el Consejo Asesor de Movilidad y Seguridad Vial y el Fondo Público de Movilidad y Seguridad Vial deberán ser instalados dentro de los ciento ochenta días naturales siguientes a la publicación del Reglamento de la presente Ley.
+
+DÉCIMO PRIMERO.- La constitución y funcionamiento del Consejo Asesor de Movilidad y los Consejos Delegacionales Asesores de Movilidad atenderán al Acuerdo que para tal efecto emita el Jefe de Gobierno.
+
+DÉCIMO SEGUNDO.- La contratación de la póliza del seguro de responsabilidad civil para los vehículos de uso particular, será exigible a partir de la entrada en vigor del reglamento correspondiente que al efecto se publique.
+
+DÉCIMO TERCERO.- La obligatoriedad para la instalación del Sistema de Localización Vía Satelital y del Equipo de Radiocomunicación en las unidades de Transporte Público concesionado surtirá efectos en los términos de lo establecido en el Reglamento de la presente Ley.
+
+DÉCIMO CUARTO.- La Secretaría en el plazo de trescientos sesenta y cinco días naturales, contados a partir de la publicación de la presente Ley, deberá expedir los lineamientos para el otorgamiento de placa de matrícula y/o distintivo oficial, pudiendo ser este una placa de matrícula verde, que permita identificar vehículos motorizados con tecnologías sustentables, tales como híbridos o eléctricos, o los que en el futuro funcionen con las diversas energías renovables.
+
+DÉCIMO QUINTO.- Los sistemas de información de movilidad y de seguridad vial y el Centro de gestión de movilidad se instalarán cuando se cuente con los recursos financieros, humanos y tecnológicos necesarios para su óptimo funcionamiento.
+
+La creación de la estructura administrativa del Órgano Regulador, se creará a costos compensados de la Administración Pública del Distrito Federal y el Gobierno del Distrito Federal dictará las medidas para que en un plazo de 120 días hábiles se dé cumplimiento a lo que establece el presente artículo transitorio.
+
+DÉCIMO SEXTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+DÉCIMO SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+DÉCIMO OCTAVO.- Los documentos emitidos por la Secretaría de Transporte y Vialidad hasta antes de la entrada en vigor del presente decreto, continuarán con la vigencia establecida en los mismos.
