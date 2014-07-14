@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-proteccion-de-nuevos-conjuntos-parques-y-12140
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-01"
-last_updated: "1976-04-01"
+last_updated: "2014-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE FOMENTO Y PROTECCION DE NUEVOS CONJUNTOS, PARQUES Y CIUDADES INDUSTRIALES EN EL ESTADO DE HIDALGO
 
-LEY DE FOMENTO Y PROTECCION DE NUEVOS CONJUNTOS PARQUES Y CIUDADES INDUSTRIALES EN EL ESTADO DE HIDALGO
+LEY DE FOMENTO Y PROTECCIÓN DE NUEVOS CONJUNTOS PARQUES Y CIUDADES INDUSTRIALES EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 14 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Hidalgo, el 1 de abril de 1976.
 
@@ -178,3 +180,11 @@ PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el 
 SEGUNDO.- Se deroga solamente para el caso particular a que se contrae esta Ley, todas las disposiciones que se opongan a su exacta observancia.
 
 DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO EN PACHUCA DE SOTO HIDALGO A LOS DIECISIETE DÍAS DEL MES DE FEBRERO DE MIL NOVECIENTOS SETENTA Y SEIS. DIPUTADO PRESIDENTE.- LIC. RUBEN LICONA RUIZ. DIPUTADO SECRETARIO. - ALBERTO ASSAD ÁVILA. DIPUTADO SECRETARIO.- LIC. ROBERTO ZAMORA JIMÉNEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JULIO DE 2014.
+
+PRIMERO. La presente Ley entra en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Fomento y Protección de Nuevos Conjuntos Parques y Ciudades Industriales para el Estado de Hidalgo, Publicada en el Suplemento del Periódico Oficial del Estado de Hidalgo, el 1° de abril de 1976.
