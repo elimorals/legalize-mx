@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-la-mujer-de-61016"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-12"
-last_updated: "2011-12-12"
+last_updated: "2014-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 14 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de mayo de 2008.
 
@@ -283,3 +285,11 @@ PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publi
 P.O. 12 DE DICIEMBRE DE 2011.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+P.O. 14 DE JULIO DE 2014.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto Municipal de la Mujer.
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto Municipal de la Mujer.
