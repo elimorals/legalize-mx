@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-consejo-de-la-cronica-del-municipio-de-92478"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2013-02-18"
+last_updated: "2014-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL CONSEJO DE LA CRÓNICA DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014.
 
 Reglamento publicado en la Sección Primera al Número 7 del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
@@ -45,7 +45,7 @@ El Cronista de la Ciudad de Aguascalientes es un personaje emblemático, con con
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 CUARTO.- De acuerdo a lo anterior, y una vez hecho el estudio y análisis de la propuesta de Iniciativa de "REGLAMENTO DEL CONSEJO DE LA CRÓNICA DEL MUNICIPIO DE AGUASCALIENTES", se obtuvo la siguiente propuesta de iniciativa de reglamento:
 
@@ -145,7 +145,9 @@ I. Por el/la Presidente(a) Municipal;
 
 II. Por el/la Secretario(a) Ejecutivo(a);
 
-III. Por el Regidor(a) Presidente(a) de la Comisión Permanente de Educación y Cultura del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
+
+III. Por el Regidor(a) Presidente(a) de la Comisión Permanente de Cultura del H. Ayuntamiento;
 
 IV. Por lo menos tres cronistas del Municipio;
 
@@ -217,9 +219,13 @@ II. Publicar la crónica acerca del Municipio de Aguascalientes;
 
 III. Participar en publicaciones municipales, estatales, nacionales o internacionales; en conferencias, simposios y congresos de historia y cultura que se relacionen con sus costumbres o hechos relevantes del Municipio de Aguascalientes;
 
-IV. Sesionar por lo menos una vez cada seis meses informando de sus acuerdos y resoluciones que se dicten, al Presidente(a) y a la Comisión de Educación y Cultura del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
 
-V. En coordinación con el Instituto Municipal Aguascalentense para la Cultura (IMAC) y/o Dirección de Educación de la Secretaría de Integración Social, difundirá, propiciará y promoverá actividades y eventos culturales, reuniones, simposios o publicaciones para dar a conocer sus trabajos, las crónicas y actividades que realicen los cronistas o sus invitados;
+IV. Sesionar por lo menos una vez cada seis meses informando de sus acuerdos y resoluciones que se dicten, al Presidente(a) y a la Comisión Permanente de Cultura del H. Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2014)</small>
+
+V. En coordinación con el Instituto Municipal Aguascalentense para la Cultura (IMAC) y/o Dirección de Educación, Cultura Física y Deporte de laSecretaría (sic) de Desarrollo Social difundirá, propiciará y promoverá actividades y eventos culturales, reuniones, simposios o publicaciones para dar a conocer sus trabajos, las crónicas y actividades que realicen los cronistas o sus invitados;
 
 VI. Promover el conocimiento del patrimonio histórico-cultural del Municipio de Aguascalientes;
 
@@ -296,3 +302,23 @@ Lic. Lorena Martínez Rodríguez, Presidente Municipal; Regidores: Elsa Lucía A
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 18 de febrero del 2013.- Lic. Lorena Martínez Rodríguez, Presidente Municipal de Aguascalientes.- Rúbrica.
 
 De conformidad con el artículo 107 fracción XI del Código Municipal de Aguascalientes, Mtro. J Luis Fernando Muñoz López, El Secretario del H. Ayuntamiento y Director General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2014.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS DEL “DICTAMEN QUE REFORMA DIVERSOS ORDENAMIENTOS MUNICIPALES: CÓDIGO MUNICIPAL DE AGUASCALIENTES; REGLAMENTO DEL CONSEJO DE LA CRÓNICA DEL MUNICIPIO DE AGUASCALIENTES; REGLAMENTO DEL CONSEJO EDITORIAL DEL MUNICIPIO DE AGUASCALIENTES; REGLAMENTO DE LA ROTONDA DE LAS PERSONAS ILUSTRES DE AGUASCALIENTES; REGLAMENTO PARA OTORGAR RECONOCIMIENTO O DISTINCIONES EN EL MUNICIPIO DE AGUASCALIENTES; REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+PRIMERO.- Se aprueba la reforma a los numerales 1, 2 y 3 del inciso c) de la fracción I del artículo 1340 del Código Municipal de Aguascalientes.
+
+SEGUNDO.- Se aprueban las reformas a los artículos 10 fracción III y 21 fracciones IV y V del Reglamento del Consejo de la Crónica del Municipio de Aguascalientes.
+
+TERCERO.- Se aprueban las reformas a los artículos 3° fracciones IV y VII, y 6° fracción II del Reglamento del Consejo Editorial del Municipio de Aguascalientes.
+
+CUARTO. Se aprueban las reformas a los artículos 2° fracciones V, VI, IX Y X, 5° fracción III, 7° fracciones I, II, III, IV y VI, 10 párrafos primero, tercero y cuarto, 22 y 23 fracciones I, II, III, IV y V, así como la modificación a la numeración de las fracciones subsecuentes del mismo artículo del Reglamento de la Rotonda de las Personas Ilustres de Aguascalientes.
+
+QUINTO.- Se aprueban las reformas a los artículos 2° fracción IV, 4, 27, 29 y 35 del Reglamento para Otorgar Reconocimientos o Distinciones en el Municipio de Aguascalientes.
+
+SEXTO.- Se aprueban las reformas a los artículos 31 fracción IV, 60 y 61 del Reglamento del Archivo General Municipal de Aguascalientes.
+
+SÉPTIMO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
