@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2014-06-09"
+last_updated: "2014-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -470,7 +470,7 @@ No se requiere el diferimiento de la audiencia, cuando la audiencia sólo se ref
 
 ARTICULO 47
 
-El juez examinará de oficio la personalidad de las partes, y el interesado podrá corregir cualquier deficiencia al respecto, siempre y cuando fuese subsanable, en un plazo no mayor diez (sic) días de acuerdo a lo previsto en el artículo 41 de este Código. Contra el auto en que el Juez desconozca la personalidad negándose a dar curso a la demanda procederá el recurso de queja.
+El juez examinará de oficio la personalidad de las partes, y el interesado podrá corregir cualquier deficiencia al respecto, siempre y cuando fuese subsanable, en un plazo no mayor (sic) diez días de acuerdo a lo previsto en el artículo 41 de este Código. Contra el auto en que el Juez desconozca la personalidad negándose a dar curso a la demanda procederá el recurso de queja.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -1202,7 +1202,7 @@ III.- Por edictos que se hagan ostensibles en los sitios públicos de costumbre 
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-IV.- Por correo, y (sic)
+IV.- Por correo, y
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -1300,7 +1300,7 @@ VI.- La sentencia dictada por el juez o la Sala del Tribunal que condene al arre
 
 > <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
-VII.- Para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido, y (sic)
+VII.- Para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido, y
 
 > <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -2672,7 +2672,7 @@ VI.- Los fundamentos de derecho y la clase de acción, procurando citar los prec
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-VII.- El valor de lo demandado, si de ello depende la competencia del juez, y (sic)
+VII.- El valor de lo demandado, si de ello depende la competencia del juez, y
 
 > <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -2738,11 +2738,11 @@ V.- Todas las excepciones que se tengan, cualquiera que sea su naturaleza, se ha
 
 De las excepciones procesales se le dará vista al actor para que las conteste y rinda las pruebas que considere oportunas en los términos de este ordenamiento;
 
-VI.- Dentro del término para contestar la demanda, se podrá proponer la reconvención en los casos en que proceda, la que tiene que ajustarse a lo prevenido por el artículo 255 de este ordenamiento, y (sic)
+VI.- Dentro del término para contestar la demanda, se podrá proponer la reconvención en los casos en que proceda, la que tiene que ajustarse a lo prevenido por el artículo 255 de este ordenamiento, y
 
 > <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
-VII.- Se deberán acompañar las copias simples de la contestación de la demanda y de todos los documentos anexos a ella para cada una de las demás partes; y (sic)
+VII.- Se deberán acompañar las copias simples de la contestación de la demanda y de todos los documentos anexos a ella para cada una de las demás partes; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -4234,7 +4234,7 @@ VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritu
 
 > <small>(ADICIONADA, G.O. 27 DE ENERO DE 2011)</small>
 
-IX.- El estado de liquidación de adeudos, intereses moratorios y/o pena convencional que se haya estipulado en la Asamblea General de Condóminos, suscrita por el administrador y/o comité vigilancia (sic), en el que se incluya copia certificada por Notario Público o por la Procuraduría Social del Distrito Federal, del Acta de Asamblea General relativa y/o del Reglamento Interno del condominio o conjunto condominal, en el que se haya determinado las cuotas a cargo de los condóminos o poseedores para los fondos de mantenimiento, administración, reserva, intereses y demás obligaciones de los condóminos. De acuerdo a lo estipulado en el párrafo tercero del artículo 59 de la nueva Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
+IX.- El estado de liquidación de adeudos, intereses moratorios y/o pena convencional que se haya estipulado en la Asamblea General de Condóminos, suscrita por el administrador y/o comité (sic) vigilancia, en el que se incluya copia certificada por Notario Público o por la Procuraduría Social del Distrito Federal, del Acta de Asamblea General relativa y/o del Reglamento Interno del condominio o conjunto condominal, en el que se haya determinado las cuotas a cargo de los condóminos o poseedores para los fondos de mantenimiento, administración, reserva, intereses y demás obligaciones de los condóminos. De acuerdo a lo estipulado en el párrafo tercero del artículo 59 de la nueva Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -4308,13 +4308,15 @@ I.- Cuando la acción sea real;
 
 II.- Cuando se haya declarado judicialmente que la enajenación por la que adquirió el tercero está en los casos de los artículos 2,163, 2,168 del Código Civil y los demás preceptos en que expresamente se establezca esa responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
 ARTICULO 453
 
-Hecho el embargo se emplazará al deudor en persona conforme al artículo 535, para que en un término no mayor de quince días ocurra a hacer el pago o a oponer excepciones y defensas que tuviere, siguiéndose el juicio por todos los trámites del juicio ordinario.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
+
+Hecho el embargo se emplazará al deudor en persona, conforme al artículo 535, para que en un término no mayor de quince días, ocurra a hacer el pago o a oponer excepciones y defensas que tuviere; siguiéndose el juicio por todos los trámites del juicio ordinario. Para los efectos del remate, en su caso, se estará a lo dispuesto por los artículos 569, 570 y demás relativos de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 En los casos en que el juicio sea apelable en términos de este código, la vía ejecutiva podrá impugnarse mediante recurso de apelación que se haga valer contra el auto admisorio de la demanda que procederá en el efecto devolutivo de tramitación inmediata.
 
@@ -5414,9 +5416,11 @@ II.- Para recurrir el auto de aprobación del remate, en su caso, y
 
 III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante y el ejecutado practique el avalúo de la cosa. Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, ni cuando la valorización se haga por otros medios.
 
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
+
 ARTICULO 569
 
-El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
+El remate se practicará de acuerdo con las reglas establecidas para el juicio especial hipotecario, a que se refiere el artículo 486 de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5426,13 +5430,19 @@ ARTICULO 569 BIS
 
 Cuando el monto líquido de la condena fuere superior al valor de los bienes embargados previamente valuados en términos del artículo anterior, y del certificado de gravámenes no aparecieren otros acreedores, el ejecutante podrá optar por la adjudicación directa de los bienes que haya a su favor al valor fijado en el avalúo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
 ARTICULO 570
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos del juzgado y en los de la Tesorería del Distrito Federal, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate, igual plazo. Si el valor de la cosa pasare del equivalente a trescientos mil pesos, cantidad que se actualizará en términos del artículo 62, se insertarán además los edictos en la sección de avisos judiciales, de un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los medios de difusión antes señalados, algún otro medio de publicidad para convocar postores.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
+
+Hecho el avalúo, y previo a sacar los bienes a pública subasta, cuando éstos fueren raíces, el juez revisará de oficio que los datos de identificación de los mismos, asentados en el acta de embargo correspondiente, coincidan con los que aparecen en el certificado de libertad de gravámenes referido en el artículo 566 de este código, y con los datos de identificación que se adviertan del avalúo a que se refiere el artículo 569; y tratándose de aquellos juicios en que por su naturaleza se cuente con el instrumento público mediante el cual se identifiquen los bienes, de igual manera deberá hacerse la identificación con éste.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2014)</small>
+
+De existir diferencias en los datos de identificación de los inmuebles a rematar, el juez lo hará del conocimiento a las partes, a efecto de que éstas aporten los elementos necesarios para subsanar cualquier discrepancia que incida de manera directa o sustancial en la subasta.
+
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2014)</small>
+
+Hecho lo anterior, y una vez que se encuentren debidamente identificados los bienes, se sacarán a pública subasta, anunciándose por medio de edicto que se fijará por una sola ocasión, en los tableros de avisos del juzgado y en los de la Tesorería del Distrito Federal, debiendo mediar entre la publicación y la fecha de remate cuando menos cinco días hábiles. Si el valor de la cosa pasare de trescientos mil pesos, cantidad que se actualizará en términos del artículo 62, se insertará además el edicto en la sección de avisos judiciales, de un periódico de información.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -6378,17 +6388,17 @@ VI.- Las resoluciones o autos, que siendo apelables, se pronuncien en ejecución
 
 VII.- Las sentencias definitivas o de autos o resoluciones que suspendan o pongan fin al procedimiento, salvo disposición en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
 ARTICULO 692 TER
 
-En los casos no previstos en el artículo anterior la parte que se sienta agraviada por una determinación judicial, dentro del término de tres días contados a partir del día siguiente en que surta efectos su notificación, deberá por escrito interponer el recurso de apelación sin expresión de agravios, que se admitirá en efecto devolutivo de tramitación preventiva.
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
 
-De no interponerse el recurso que se menciona en el párrafo anterior, se tendrá por firme la resolución y por precluido el derecho del afectado para hacerlo valer con posterioridad.
+En los casos no previstos en el artículo anterior, la parte que se sienta agraviada por una determinación judicial, dentro del término de tres días contados a partir del día siguiente en que surta efectos su notificación, deberá por escrito interponer el recurso de apelación sin expresión de agravios, que se admitirá en efecto devolutivo de tramitación preventiva, debiendo quedar en el expediente original, previo a la integración del o los correspondientes cuadernos de agravios para su remisión a la alzada, copia certificada tanto del escrito de interposición del recurso en cita como del de la expresión de agravios, de la contestación a los mismos, y los acuerdos recaídos a tales escritos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
+
+De no interponerse el recurso que se menciona en el párrafo anterior, se tendrá por firme la resolución sin necesidad de declaración judicial, y por precluído el derecho del afectado para hacerlo valer con posterioridad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEÁSE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -6396,7 +6406,9 @@ ARTICULO 692 QUÁTER
 
 Al apelarse la sentencia definitiva se deberán expresar los agravios en su contra.
 
-Dentro del plazo de doce días a que se refiere el artículo 692, el apelante deberá hacer valer también, en escrito por separado, los agravios que considere le causaron las determinaciones que combatió en las apelaciones admitidas en efecto devolutivo cuyo trámite se reservó para hacerlo conjuntamente con la definitiva.
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
+
+Dentro del plazo de doce días a que se refiere el artículo 692, el apelante deberá hacer valer también, en escrito por separado, los agravios que considere le causaron las determinaciones que combatió en las apelaciones admitidas en efecto devolutivo cuyo trámite se reservó para hacerlo conjuntamente con la apelación de la definitiva. El secretario de acuerdos deberá revisar siempre escrupulosamente el expediente, y certificar en el mismo, bajo su responsabilidad, que en su caso, no existen apelaciones admitidas en el efecto devolutivo de tramitación preventiva. Tratándose de apelaciones de tramitación inmediata, el secretario de acuerdos deberá verificar que quede en el expediente original, previo a la integración del o los correspondientes cuadernos de agravios para su remisión a la alzada, copia certificada tanto del escrito de interposición del recurso en cita como del de la expresión de agravios, de la contestación a los mismos, y los acuerdos recaídos a tales escritos; al infractor de este artículo, se le impondrá, como corrección disciplinaria el equivalente a diez días del salario que perciba.
 
 La parte que obtuvo todo lo que pidió, en el mismo término señalado en el párrafo anterior, podrá expresar los agravios en contra de las resoluciones que se recurrieron a través de la apelación en el efecto devolutivo de tramitación preventiva, manifestando de qué manera trascendería al fondo del asunto el resarcimiento de la violación a subsanar, a efecto de que el tribunal de alzada proceda a estudiarlas.
 
@@ -6418,35 +6430,33 @@ ARTICULO 693
 
 Interpuesta una apelación, el Juez la admitirá sin substanciación alguna si fuere procedente, siempre que en el escrito se hayan hecho valer los agravios respectivos, expresando el juzgador en su auto si la admite en ambos efectos o en uno solo.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
 
-El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramita ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última apelación admitida y las subsecuentes, hasta la apelación de que se trate.
+El juez en el mismo auto admisorio ordenará se forme el testimonio de apelación respectivo con todas las constancias que obren en el expediente que se tramita ante él, si se tratare de la primera apelación que se haga valer por las partes. Si se tratare de segunda o ulteriores apelaciones, solamente formará el testimonio de apelación con las constancias faltantes entre la última apelación admitida y las subsecuentes hasta la apelación de que se trate, incluyéndose todos los documentos que las partes hayan exhibido desde el escrito inicial de demanda y durante la tramitación del juicio, hasta la etapa en que se encuentre.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 14 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+De igual manera, al tener por interpuesto el recurso de apelación, dará vista con el mismo a la parte apelada, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva. Transcurridos los plazos señalados, sin necesidad de rebeldía y se hayan contestado o no los agravios, se remitirán al tribunal, conjuntamente con el testimonio de apelación o los autos originales según corresponda, los cuadernos de agravios respectivos, conformados con el original del escrito de interposición del recurso con la expresión de agravios, el de la contestación a los mismos, y los originales de los autos que les recaigan a tales escritos.
 
-De igual manera, al tener por interpuesto el recurso de apelación, dará vista con el mismo a la parte apelada, para que en el término de tres días conteste los agravios si se tratare de auto o sentencia interlocutoria, y de seis días si se tratare de sentencia definitiva. Transcurridos los plazos señalados, sin necesidad de rebeldía y se hayan contestado o no los agravios, se remitirán los escritos originales del apelante y en su caso de la parte apelada, el testimonio de apelación o los autos originales al Superior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El testimonio deberá integrarse de manera fiel y en el orden en que se contengan las actuaciones en el expediente de origen, sin que pueda modificarse la forma de integrarse el testimonio de apelación, por el juzgado de origen o por el tribunal de alzada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El testimonio de apelación que se forme, se remitirá al tribunal de apelación que le corresponda, dentro del término de cinco días, contados a partir de la fecha en que precluyó el término de la parte apelada para contestar los agravios, o en su caso del auto en que se tuvieron por contestados, haciendo constar en el expediente el número de fojas con que se integra el que se envía al Tribunal, así como las fechas de la providencia impugnada, y del auto que admitió el recurso, precisando si se trata del primer testimonio que se envía o el que corresponda en los sucesivos envíos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El tribunal al recibir el testimonio formará un solo toca, en el que se vayan tramitando todas las apelaciones que se interpongan en el juicio de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -9636,7 +9646,7 @@ Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, 
 
 Los únicos incidentes que se tramitarán serán el de nulidad de actuaciones por defecto o falta de emplazamiento y el de impugnación de falsedad de documentos, que se interpondrán por escrito.
 
-El incidente de nulidad por defecto o falta de emplazamiento será de previo y especial pronunciamiento y suspenderá el procedimiento. En la demanda incidental y su contestación se ofrecerán las pruebas, mismas que de admitirse se desahogaran en audiencia especial si su naturaleza lo exige. En el mismo acuerdo que recaiga a la contestación de la demanda incidental o en el que declare la preclusión del término para hacerlo, se señalará la fecha para la audiencia especial y en su caso, para el desahogo de las mismas. De no requerirse audiencia para la recepción de pruebas, se citará para sentencia interlocutoria dentro de los tres días posteriores. Si se reciben las pruebas en audiencia especial el Juez, después de escuchar los alegatos, dictará la sentencia interlocutoria en el mismo acto o, en su defecto, citará a las partes dentro del mismo término para la emisión de la resolución respectiva. En todo caso, el Juez explicará brevemente la sentencia y sus resolutivos en la misma audiencia especial o su continuación. El incidente de impugnación de falsedad de documentos deberá promoverse conjuntamente en la contestación de demanda o la reconvención, salvo que se impugnen documentos exhibidos en dichos ocursos o con posterioridad. Las pruebas se ofrecerán en la demanda incidental y su contestación, se admitirán en el mismo acuerdo que recaiga a la contestación la (sic) demanda o en el que declare la preclusión del término para hacerlo, y se recibirán en la audiencia de juicio, resolviéndose conjuntamente con la sentencia definitiva.
+El incidente de nulidad por defecto o falta de emplazamiento será de previo y especial pronunciamiento y suspenderá el procedimiento. En la demanda incidental y su contestación se ofrecerán las pruebas, mismas que de admitirse se desahogaran en audiencia especial si su naturaleza lo exige. En el mismo acuerdo que recaiga a la contestación de la demanda incidental o en el que declare la preclusión del término para hacerlo, se señalará la fecha para la audiencia especial y en su caso, para el desahogo de las mismas. De no requerirse audiencia para la recepción de pruebas, se citará para sentencia interlocutoria dentro de los tres días posteriores. Si se reciben las pruebas en audiencia especial el Juez, después de escuchar los alegatos, dictará la sentencia interlocutoria en el mismo acto o, en su defecto, citará a las partes dentro del mismo término para la emisión de la resolución respectiva. En todo caso, el Juez explicará brevemente la sentencia y sus resolutivos en la misma audiencia especial o su continuación. El incidente de impugnación de falsedad de documentos deberá promoverse conjuntamente en la contestación de demanda o la reconvención, salvo que se impugnen documentos exhibidos en dichos ocursos o con posterioridad. Las pruebas se ofrecerán en la demanda incidental y su contestación, se admitirán en el mismo acuerdo que recaiga a la contestación (sic) la demanda o en el que declare la preclusión del término para hacerlo, y se recibirán en la audiencia de juicio, resolviéndose conjuntamente con la sentencia definitiva.
 
 > <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
 
@@ -10212,7 +10222,7 @@ Cuando el recurso deba resolverse en forma unitaria, la audiencia será presidid
 
 ###### Artículo 1078.
 
-En el juicio oral será admisible el recurso de queja en los casos previstos el (sic) Capítulo III, del Título Décimo Segundo de este Código.
+En el juicio oral será admisible el recurso de queja en los casos previstos (sic) el Capítulo III, del Título Décimo Segundo de este Código.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 9 DE JUNIO DE 2014)</small>
 
@@ -11293,3 +11303,13 @@ Artículo Tercero.- Las reformas y adiciones a la Ley Orgánica del Tribunal Sup
 Artículo Cuarto.- Los demás procedimientos previstos en el artículo 1019 del Código de Procedimientos Civiles, entrarán en vigor a los trescientos sesenta y cinco días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Artículo Quinto.- Por lo que hace a los juicios del orden familiar en trámite, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente Decreto hasta su total conclusión.
+
+G.O. 14 DE JULIO DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
