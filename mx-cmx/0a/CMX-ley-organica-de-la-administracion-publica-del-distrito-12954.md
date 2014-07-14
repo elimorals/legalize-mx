@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2014-07-09"
+last_updated: "2014-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -234,11 +234,11 @@ El Jefe de Gobierno podrá elaborar proyectos de reglamentos sobre leyes que exp
 
 Los reglamentos, decretos y acuerdos expedidos por el Jefe de Gobierno deberán, para su validez y observancia, ser refrendados por el Secretario que corresponda, según la materia de que se trate, y cuando se refieran a materias de dos o más secretarías, deberán refrendarse por los titulares de las mismas que conozcan de esas materias conforme a las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
 
 ###### Artículo 15.
 
-El Jefe de Gobierno se auxiliará en el ejercicio de sus atribuciones, que comprenden el estudio, planeación y despacho de los negocios del orden administrativo, en los términos de ésta Ley, de las siguientes dependencias:
+El Jefe de Gobierno se auxiliará en el ejercicio de sus atribuciones, que comprende el estudio, planeación y despacho de los negocios del orden administrativo, en los términos de ésta Ley, de las siguientes dependencias:
 
 I. Secretaría de Gobierno;
 
@@ -256,7 +256,9 @@ VII. Secretaría de Salud;
 
 VIII. Secretaría de Finanzas;
 
-IX. Secretaría de Transportes y Vialidad;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2014)</small>
+
+IX. Secretaría de Movilidad;
 
 X. Secretaría de Seguridad Pública;
 
@@ -1192,15 +1194,21 @@ XX. Expedir las reglas de carácter general en materia de hacienda pública a qu
 
 XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
+
 ###### Artículo 31.
 
-A la Secretaría de Transportes y Vialidad corresponde el despacho de las materias relativas al desarrollo integral del transporte, control del autotransporte urbano, así como la planeación y operación de las vialidades.
+A la Secretaría de Movilidad corresponde el despacho de las materias relativas al desarrollo integral de la movilidad, el transporte, control del autotransporte urbano, así como la planeación de la movilidad y operación de las vialidades.
 
 Específicamente cuenta con las siguientes atribuciones:
 
-I. Formular y conducir la política y programas para el desarrollo del transporte de acuerdo a las necesidades del Distrito Federal;
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2014)</small>
 
-II. Elaborar y mantener actualizado el Programa Integral de Transporte y Vialidad del Distrito Federal;
+I. Formular y conducir la política y programas para el desarrollo de la movilidad y transporte, de acuerdo a las necesidades del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 14 DE JULIO DE 2014)</small>
+
+II. Elaborar y mantener actualizado el programa integral de movilidad, transporte y vialidad del Distrito Federal;
 
 III. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y rapidez en el transporte de personas y de carga;
 
@@ -2529,3 +2537,19 @@ PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Fede
 SEGUNDO.- El Presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
+
+G.O. 14 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
+
+TECERO (SIC).- La Secretaría de Movilidad, ejercerán las atribuciones y facultades conferidas a la ex Secretaría de Transporte y Vialidad, así como sus obligaciones.
+
+CUARTO.- El Jefe de Gobierno tendrá ciento ochenta días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones necesarias al Reglamento Interior de la Administración Pública del Distrito Federal y demás ordenamientos vinculados.
+
+QUINTO.- Las menciones que en otras Leyes y disposiciones se refieran a la Secretaría de Transportes y Vialidad, se entenderán realizadas a la Secretaría de Movilidad.
+
+SEXTO.- Los logotipos, formatos, formas valoradas para trámites, leyendas, y demás insumos con el imagotipo de la Secretaría de Transportes y Vialidad, se seguirán utilizando hasta que se agoten, en todo caso, el plazo no podrá exceder del 31 de diciembre de 2014.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
