@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-01-20"
+last_updated: "2014-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE ENERO DE 2014 NO APLICA AL ARTICULADO DEL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 13 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3585,7 +3583,7 @@ Todo bien mueble adquirido por un procedimiento ajeno al efectuado por la Coordi
 
 ###### ARTÍCULO 201.
 
-Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador, del administrador del área o del titular de la misma, según sea el caso, dar aviso inmediato a Control Patrimonial, para la alta y registro de bien (sic).
+Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador, del administrador del área o del titular de la misma, según sea el caso, dar aviso inmediato a Control Patrimonial, para la alta y registro de (sic) bien.
 
 APARTADO CUARTO
 
@@ -9127,7 +9125,7 @@ d) Estar domiciliado en el Estado de Aguascalientes por lo menos dos años anter
 
 e) Demostrar ante la Comisión de Admisión de Peritos, conocimientos sobre el contenido y aplicación de la Reglamentación Municipal en materia de construcciones mediante la acreditación de un examen que consistirá de dos partes: la primera que corresponderá al conocimiento de los contenidos del presente Libro y los correspondientes del Código Urbano y la segunda correspondiente a la elaboración de un proyecto estructural específico, así como aceptar las responsabilidades que los contenidos del presente Libro le indica y acatar las condiciones y restricciones que la Comisión de Admisión de Peritos le imponga;
 
-f) Presentar por escrito su Currículo Vitae en el que se detalle la experiencia indicada en los contenidos de la presente fracción; y (sic)
+f) Presentar por escrito su Currículo Vitae en el que se detalle la experiencia indicada en los contenidos de la presente fracción; y
 
 g) Que se emita dictamen favorable para su registro por la Comisión de Admisión de Peritos.
 
@@ -14957,7 +14955,7 @@ V. Acreditar ante la autoridad la propiedad o legal posesión del inmueble objet
 
 VI. Constancia actualizada de no adeudo del impuesto a la propiedad raíz y clave catastral del predio;
 
-VII. Cuando el uso del suelo propuesto en la solicitud se refiera a actividades distintas al habitacional, y si así lo requiere se deberá presentar debidamente contestado el cuestionario de información básica ambiental, y (sic)
+VII. Cuando el uso del suelo propuesto en la solicitud se refiera a actividades distintas al habitacional, y si así lo requiere se deberá presentar debidamente contestado el cuestionario de información básica ambiental, y
 
 VIII. Cuando lo aprecie necesario la Secretaría, también se deberá exhibir plano topográfico con cuadro de áreas y/o deslinde catastral del o los predios respectivos.
 
@@ -15153,7 +15151,7 @@ b) Que se cuente con la factibilidad de servicios de agua potable, alcantarillad
 
 c) Que se esté al corriente con las obligaciones fiscales municipales y estatales;
 
-d) Que se cuente con una manifestación de impacto urbano o rural, en términos de lo establecido por el presente Código; y (sic)
+d) Que se cuente con una manifestación de impacto urbano o rural, en términos de lo establecido por el presente Código; y
 
 e) Que no se modifique el trazo y dimensiones de las vías públicas previamente autorizadas;
 
@@ -17237,7 +17235,7 @@ II. Emitir el Dictamen correspondiente al cálculo de aforo para la capacidad m�
 
 III. Previo a la expedición de la Constancia de Alineamiento y Compatibilidad Urbanística, solicitar se realicen las verificaciones necesarias para constatar que se cumplen con todos los requisitos y supuestos previstos en las normatividades jurídicas aplicables; y
 
-IV. Las demás que le señalen las disposiciones jurídicas aplicables; (sic)
+IV. Las demás que le señalen las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -18409,11 +18407,17 @@ b) Un Secretario Técnico.- Que será el Director de Reglamentación de la Secre
 
 c) Seis vocales, mismos que tendrán derecho a voz y voto y serán los siguientes:
 
-1. El Regidor Presidente de la Comisión de Educación y Cultura del H. Ayuntamiento, o la persona que éste designe.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2014)</small>
 
-2. El Titular de la Dirección de Mercados, Estacionamientos y Áreas Comerciales de la Secretaría del H. Ayuntamiento y dirección General de Gobierno o la persona que éste designe.
+1. Titular Presidente(a) de la Comisión Permanente de Cultura del H. Ayuntamiento, o la persona que éste designe.
 
-3. El Director del Instituto Municipal Aguascalentense para la Cultura o la persona que éste designe.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2014)</small>
+
+2. Titular de la Dirección de Mercados, Estacionamientos y Áreas Comerciales de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, o la persona que éste designe.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2014)</small>
+
+3. Titular del Instituto Municipal Aguascalentense para la Cultura, o la persona que éste designe.
 
 4. Tres representantes de agrupaciones de músicos que deseen participar dentro de la Comisión.
 
@@ -19621,7 +19625,7 @@ Será preciso dar aviso oportuno al Municipio de la organización de cualquier f
 
 ###### ARTÍCULO 1429.
 
-Además, la empresa deberán formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
+Además, la empresa deberán (sic) formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
 
 I. Dictamen de las condiciones físicas de la plaza, expedido por perito debidamente registrado.
 
@@ -20411,7 +20415,7 @@ I. En las oficinas de la autoridad municipal, si comparece personalmente el inte
 
 II. En el domicilio en que hubiere señalado ante las autoridades administrativas o, en su caso, en el domicilio en que se encuentre.
 
-III. La notificación se entenderá con la persona que deba ser notificada, con su representante legal o la persona autorizada para esos efectos, a falta de estos, el notificador cerciorado de ser el domicilio designado de la persona, dejara citatorio con cualquier persona que se encuentre en el domicilio para que espere a una hora fija dentro de las veinticuatro horas siguientes, Si (sic) el domicilio se encontrare cerrado, el citatorio se dejara con el vecino más inmediato.
+III. La notificación se entenderá con la persona que deba ser notificada, con su representante legal o la persona autorizada para esos efectos, a falta de estos, el notificador cerciorado de ser el domicilio designado de la persona, dejara citatorio con cualquier persona que se encuentre en el domicilio para que espere a una hora fija dentro de las veinticuatro horas siguientes, Si el domicilio se encontrare cerrado, el citatorio se dejara con el vecino más inmediato.
 
 IV. Si la persona a quien ha de notificarse no atendiere el citatorio la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realice la diligencia, entregándole copia del documento.
 
@@ -21123,7 +21127,7 @@ b) Permitir el consumo de bebidas alcohólicas dentro de los establecimientos me
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-c) No colocar anuncios visibles que contengan la leyenda de: "El abuso en el consumo del alcohol es nocivo para la salud"; y (sic)
+c) No colocar anuncios visibles que contengan la leyenda de: "El abuso en el consumo del alcohol es nocivo para la salud"; y
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -22148,3 +22152,13 @@ Décimo.- Se concede un plazo de 30 días hábiles para que el H. Ayuntamiento C
 Undécimo.- Las menciones realizadas por éste Código a las Comisiones Permanentes establecidas por el artículo 82, se entenderán referidas a la Comisión permanente del ramo de que se trate, independientemente de su denominación actual, ello hasta en tanto se realicen las modificaciones correspondientes.
 
 Décimo Segundo.- Quedan derogadas las disposiciones jurídicas que se opongan a las presentes reformas, modificaciones y adiciones al Código Municipal de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2014.
+
+SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO
+
+PRIMERO.- Se aprueba la reforma a los numerales 1,2 y 3 del inciso c) de la fracción I del artículo 1340 del Código Municipal de Aguascalientes.
+
+…
+
+SÉPTIMO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
