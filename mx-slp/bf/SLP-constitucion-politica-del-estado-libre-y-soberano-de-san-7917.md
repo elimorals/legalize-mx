@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-06-26"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -869,7 +869,9 @@ V.- Expedir leyes concurrentes con las federales en materia de protección al am
 
 VI.- Expedir la Ley Orgánica del Municipio Libre;
 
-VII.- Dar las bases normativas a las que deberán sujetarse los ayuntamientos en la expedición de los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+VII.- Dar las bases normativas a las que deberán sujetarse los ayuntamientos en la expedición de los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones;
 
 VIII.- Aprobar las leyes que regulen su organización y funcionamiento internos;
 
@@ -915,7 +917,11 @@ XXIII.- Conceder licencias temporales al Gobernador para separarse de su encargo
 
 XXIV.- Recibir el informe escrito del Gobernador del Estado durante la segunda quincena de septiembre de cada año. Cuando el Congreso y el titular del Ejecutivo así lo acuerden, éste comparecerá ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el estado que guarda la administración pública;
 
-XXV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal para que informe u oriente cuando se discuta una ley o se estudie un asunto que se relacione con su función, así como para que informe sobre algún asunto de su competencia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+XXV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal para que informe u oriente cuando se discute una ley o se estudie un asunto que se relacione con su función, así como para que informe sobre algún asunto de su competencia.
+
+El Congreso del Estado también podrá solicitar comparecer a los titulares de los organismos constitucionales autónomos que prevé esta Constitución, para los fines previstos en el párrafo primero de esta fracción;
 
 XXVI.- Erigir, suprimir y fusionar municipios tomando en cuenta criterios de orden demográfico, político, social y económico, así como en su caso consultar a la ciudadanía de los municipios interesados a través de plebiscito;
 
@@ -1753,9 +1759,9 @@ En el caso de los funcionarios suplentes, podrán ser electos para el período i
 
 II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
-Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que deberá expedir la Legislatura del Estado, los bandos de policía y buen gobierno; los reglamentos; circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal.
+Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que deberá expedir la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
 
@@ -1813,7 +1819,7 @@ Cuando un Municipio, por causas excepcionales, no pueda proporcionar los servici
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
 
-Los municipios del Estado, previo el acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las respectivas legislaturas de los Estados. Asimismo, cuando a juicio de los ayuntamientos sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o través (sic) del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+Los municipios del Estado, previo el acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las respectivas legislaturas de los Estados. Asimismo, cuando a juicio de los ayuntamientos sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o (sic) través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
 
@@ -1939,7 +1945,7 @@ I.- El Gobernador del Estado;
 
 II.- Los secretarios, subsecretarios o Procurador General del Estado; los titulares de organismos descentralizados o desconcentrados de la administración; o a los que esta Constitución otorga autonomía;
 
-III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo; y (sic)
+III.- Los miembros de las Fuerzas Armadas que estén en servicio activo o que tengan mando en el Estado, así como los que ejerzan cargo y atribuciones de mando de policía en el municipio respectivo; y
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -2854,3 +2860,17 @@ SÉPTIMO. La reforma a los artículos, 40, y 48 de esta Constitución en materia
 OCTAVO. La reforma al artículo 114 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos, no será aplicable a los integrantes que hayan protestado el cargo en el ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
 
 NOVENO. Quedan sin efecto, la Minuta con Proyecto de Decreto que reformó los artículos, 26, y 48, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, aprobada en Sesión Ordinaria del Pleno del Honorable Congreso del Estado de San Luis Potosí, con fecha 28 de junio de 2011; y la Minuta con Proyecto de Decreto que reformó la fracción II, y el párrafo último del artículo 118, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, aprobada en Sesión Ordinaria del Pleno del Honorable Congreso del Estado de San Luis Potosí, con fecha 22 de noviembre de 2012, en razón de oponerse éstas, a las disposiciones constitucionales que han sido establecidas mediante este Decreto.
+
+P.O. 15 DE JULIO DE 2014.
+
+DECRETO NÚMERO 616, POR EL QUE SE REFORMAN LOS ARTÍCULOS 57 EN SU FRACCIÓN VII, Y 114 EN SU FRACCIÓN II EL PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+ÚNICO. Este Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2014.
+
+DECRETO NÚMERO 617, POR EL QUE SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 57, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
