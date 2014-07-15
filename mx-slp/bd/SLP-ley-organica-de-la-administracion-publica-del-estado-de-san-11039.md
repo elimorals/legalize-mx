@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2014-07-02"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -635,7 +635,9 @@ V. Participar con el titular del Ejecutivo en la celebración de convenios en ma
 
 VI. Vigilar la prestación del servicio público de transporte en todas sus modalidades;
 
-VII. Recibir, tramitar y someter a la consideración del titular del Ejecutivo, las solicitudes para el otorgamiento de permisos y concesiones para la explotación de servicios de transporte público en el Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+VII. Recibir, tramitar y someter a la consideración del titular del Ejecutivo, las solicitudes para la autorización de concesiones, así como el otorgamiento de permisos temporales para la explotación de servicios de transporte público en el Estado;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -1253,7 +1255,7 @@ XXIX. Elaborar el protocolo de revisión, evaluación y control para el cumplimi
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
-XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y (sic)
+XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -1740,3 +1742,17 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
 
 CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+P.O. 15 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los treinta días naturales siguientes a la publicación de este Decreto, el titular del Poder Ejecutivo del Estado deberá efectuar las modificaciones que resulten necesarias al Reglamento de la Ley de Transporte Público del Estado.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en las cuatro zonas del Estado, las declaratorias de necesidades y, en su caso, convocatorias para la expedición de permisos en las modalidades a que se refieren las fracciones IV y V incisos a) y b) del artículo 21, así como las contenidas en el artículo 22, de la Ley de Transporte Público del Estado.
+
+CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a partir de la expedición del presente Decreto, para efecto de convocar a sus consejos municipales y éstos puedan emitir opinión sobre las necesidades sobre servicio de transporte rural, y remitir esta opinión a la Secretaría de Comunicaciones y Transportes.
+
+QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
