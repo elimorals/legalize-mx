@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-05-29"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1097,9 +1097,9 @@ El que determine anualmente la Secretaría de Finanzas del Estado, como resultad
 
 ## TITULO TERCERO. DERECHOS
 
-### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS
+### CAPÍTULO III. SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 37.
 
@@ -1971,7 +1971,7 @@ La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, exc
 
 Tratándose de avalúos para adquisición de viviendas de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2014)</small>
 
 ### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
 
@@ -1979,15 +1979,23 @@ Tratándose de avalúos para adquisición de viviendas de interés social o popu
 
 ###### ARTICULO 70.
 
-Las concesiones para servicio público de transporte en todas sus modalidades, su adjudicación por herencia, el otorgamiento de permisos especiales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
+Las concesiones para servicio público de transporte en todas sus modalidades, el otorgamiento de permisos temporales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
 
-I. Camiones, ómnibus y automóviles de alquiler, de pasajeros:
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
+Otorgamiento o cesión de concesiones:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
+I. Camiones, camionetas, ómnibus y automóviles de alquiler, de pasajeros:
 
 a) En los Municipios de, San Luis Potosí, Ciudad Valles, Matehuala y Rioverde, 166.4; y
 
 b) En los demás municipios 145.70.
 
-II. Camiones y ómnibus de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
+II. Camiones camionetas y ómnibus sujetos a régimen de concesión en las modalidades de:
 
 a) Servicio mixto 132.13;
 
@@ -1995,17 +2003,23 @@ b) Transporte de minerales 140; y
 
 c) Carga y transporte de materiales para construcción 146.04.
 
-III. Los permisos especiales para servicio público causarán 3.60, por mes o fracción; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
 
-IV. Cuando se trate de concesiones para transporte escolar, se cobrará el 50% de las tarifas establecidas en este artículo.
+III. Los permisos temporales para prestar servicio público de transporte causarán los siguientes derechos expresados en salarios mínimos: modalidad rural y servicios especiales 50 salarios mínimos.
+
+Modalidades de carga a excepción del servicio de grúa, 25 salarios mínimos; Grúas y arrastre de vehículos 40 salarios mínimos.
+
+IV. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 71.
 
-El otorgamiento de permiso de ruta, de sitio, transporte de materiales para construcción o minerales, para transportar carga particular, para carga y descarga en la vía pública, ómnibus, camiones y automóviles de servicio público para salirse de ruta o para realizar viajes especiales serán de carácter gratuito.
+El otorgamiento de autorización para el transporte de carga particular será de carácter gratuito.
 
 ###### ARTICULO 72.
 
@@ -2019,9 +2033,11 @@ La revista anual reglamentaria de vehículos de servicio público, incluyendo ca
 
 El refrendo anual de concesión para vehículos de servicio público causará los siguientes derechos expresados en salarios mínimos: 33.52 en el caso de taxis, colectivos y camiones de carga de más de tres toneladas; y, 16.76 las camionetas de tres toneladas o de menos capacidad de carga.
 
-###### ARTICULO 75.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
-Por los servicios de control vehicular prestados por esta Secretaría a vehículos de servicio público o mercantil se pagarán derechos por el equivalente a las cantidades de salarios mínimos que se expresan a continuación:
+###### ARTÍCULO 75.
+
+Por los servicios de control vehicular prestados por esta Secretaría, a vehículos de servicio público, se pagarán derechos por el equivalente a las cantidades de salarios mínimos que se expresan a continuación:
 
 I. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga 4.20;
 
@@ -2037,11 +2053,7 @@ VI. Por cinco años 4.20;
 
 VII. Por permiso para salir del Estado 1.7; y
 
-VIII. Por permiso anual de operación para transporte, cuando no se esté sujeto a régimen de concesión:
-
-a) De turismo 41.9; y
-
-b) Escolar, funerario y para empleados 8.38.
+VIII. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
 ###### ARTICULO 76.
 
@@ -2094,322 +2106,6 @@ Tratándose de análisis microbiológicos de agua potable, refrescos, leche y su
 En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $300.00 por cada análisis.
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
-
-ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuota estatal que forman parte de los bienes del dominio público del Estado, cubrirán los derechos establecidos en el presente artículo.
-
-I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
-a) Caseta "Calderón":
-
-Tramo San Luis Potosí - Villa de Arriaga
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 84.00
-
-B2 Autobús de pasajeros. 2 ejes 150.00
-
-B3 Autobús de pasajeros. 3 ejes 150.00
-
-B4 Autobús de pasajeros. 4 ejes 150.00
-
-C2 Camión de carga. 2 ejes 150.00
-
-C3 Camión de carga. 3 ejes 150.00
-
-C4 Camión de carga. 4 ejes 150.00
-
-C5 Camión de carga. 5 ejes 162.00
-
-C6 Camión de carga. 6 ejes 162.00
-
-C7 Camión de carga. 7 ejes 162.00
-
-C8 Camión de carga. 8 ejes 162.00
-
-C9 Camión de carga. 9 ejes 162.00
-
-Eje excedente 42.00
-
-Tramo San Luis Potosí - Villa de Reyes
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 28.00
-
-B2 Autobús de pasajeros. 2 ejes 58.00
-
-B3 Autobús de pasajeros. 3 ejes 58.00
-
-B4 Autobús de pasajeros. 4 ejes 58.00
-
-C2 Camión de carga. 2 ejes 58.00
-
-C3 Camión de carga. 3 ejes 58.00
-
-C4 Camión de carga. 4 ejes 58.00
-
-C5 Camión de carga. 5 ejes 63.00
-
-C6 Camión de carga. 6 ejes 63.00
-
-C7 Camión de carga. 7 ejes 63.00
-
-C8 Camión de carga. 8 ejes 63.00
-
-C9 Camión de carga. 9 ejes 63.00
-
-Eje excedente 42.00
-
-Tramo San Luis Potosí - Bledos
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 49.00
-
-B2 Autobús de pasajeros. 2 ejes 89.00
-
-B3 Autobús de pasajeros. 3 ejes 89.00
-
-B4 Autobús de pasajeros. 4 ejes 89.00
-
-C2 Camión de carga. 2 ejes 89.00
-
-C3 Camión de carga. 3 ejes 89.00
-
-C4 Camión de carga. 4 ejes 75.00
-
-C5 Camión de carga. 5 ejes 95.00
-
-C6 Camión de carga. 6 ejes 95.00
-
-C7 Camión de carga. 7 ejes 95.00
-
-C8 Camión de carga. 8 ejes 95.00
-
-Camión de carga. 9 ejes 95.00
-
-Eje excedente 42.00
-
-Tramo Villa de Reyes - Villa de Arriaga
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 50.00
-
-B2 Autobús de pasajeros. 2 ejes 92.00
-
-B3 Autobús de pasajeros. 3 ejes 92.00
-
-B4 Autobús de pasajeros. 4 ejes 92.00
-
-C2 Camión de carga. 2 ejes 92.00
-
-C3 Camión de carga. 3 ejes 92.00
-
-C4 Camión de carga. 4 ejes 92.00
-
-C5 Camión de carga. 5 ejes 99.00
-
-C6 Camión de carga. 6 ejes 99.00
-
-C7 Camión de carga. 7 ejes 99.00
-
-C8 Camión de carga. 8 ejes 99.00
-
-C9 Camión de carga. 9 ejes 99.00
-
-Eje excedente 42.00
-
-Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 16.00
-
-B2 Autobús de pasajeros. 2 ejes 25.00
-
-B3 Autobús de pasajeros. 3 ejes 30.00
-
-B4 Autobús de pasajeros. 4 ejes 30.00
-
-C2 Camión de carga. 2 ejes 30.00
-
-C3 Camión de carga. 3 ejes 30.00
-
-C4 Camión de carga. 4 ejes 30.00
-
-C5 Camión de carga. 5 ejes 30.00
-
-C6 Camión de carga. 6 ejes 30.00
-
-C7 Camión de carga. 7 ejes 30.00
-
-C8 Camión de carga. 8 ejes 30.00
-
-C9 Camión de carga. 9 ejes 30.00
-
-Eje excedente 42.00
-
-II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
-a) Caseta "Cerritos":
-
-Tramo San Luis Potosí - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 85.00
-
-B2 Autobús de pasajeros. 2 ejes 147.00
-
-B3 Autobús de pasajeros. 3 ejes 190.00
-
-B4 Autobús de pasajeros. 4 ejes 190.00
-
-C2 Camión de carga. 2 ejes 147.00
-
-C3 Camión de carga. 3 ejes 190.00
-
-C4 Camión de carga. 4 ejes 190.00
-
-C5 Camión de carga. 5 ejes 190.00
-
-C6 Camión de carga. 6 ejes 190.00
-
-C7 Camión de carga. 7 ejes 336.00
-
-C8 Camión de carga. 8 ejes 336.00
-
-C9 Camión de carga. 9 ejes 336.00
-
-Eje excedente 31.00
-
-Tramo San Luis Potosí - Cerritos
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 28.00
-
-B2 Autobús de pasajeros. 2 ejes 47.00
-
-B3 Autobús de pasajeros. 3 ejes 61.00
-
-B4 Autobús de pasajeros. 4 ejes 61.00
-
-C2 Camión de carga. 2 ejes 47.00
-
-C3 Camión de carga. 3 ejes 61.00
-
-C4 Camión de carga. 4 ejes 61.00
-
-C5 Camión de carga. 5 ejes 61.00
-
-C6 Camión de carga. 6 ejes 61.00
-
-C7 Camión de carga. 7 ejes 107.00
-
-C8 Camión de carga. 8 ejes 107.00
-
-C9 Camión de carga. 9 ejes 107.00
-
-Eje excedente 31.00
-
-Tramo Cerritos - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 57.00
-
-B2 Autobús de pasajeros. 2 ejes 100.00
-
-B3 Autobús de pasajeros. 3 ejes 129.00
-
-B4 Autobús de pasajeros. 4 ejes 129.00
-
-C2 Camión de carga. 2 ejes 100.00
-
-C3 Camión de carga. 3 ejes 129.00
-
-C4 Camión de carga. 4 ejes 129.00
-
-C5 Camión de carga. 5 ejes 129.00
-
-C6 Camión de carga. 6 ejes 129.00
-
-C7 Camión de carga. 7 ejes 229.00
-
-C8 Camión de carga. 8 ejes 229.00
-
-C9 Camión de carga. 9 ejes 229.00
-
-Eje excedente 31.00
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
-b) Caseta auxiliar "Villa Juárez":
-
-Tramo Cerritos - Río Verde
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Auto, pick up, moto 42.00
-
-B2 Autobús de pasajeros. 2 ejes 73.00
-
-B3 Autobús de pasajeros. 3 ejes 95.00
-
-B4 Autobús de pasajeros. 4 ejes 95.00
-
-C2 Camión de carga. 2 ejes 73.00
-
-C3 Camión de carga. 3 ejes 95.00
-
-C4 Camión de carga. 4 ejes 95.00
-
-C5 Camión de carga. 5 ejes 95.00
-
-C6 Camión de carga. 6 ejes 95.00
-
-C7 Camión de carga. 7 ejes 168.00
-
-C8 Camión de carga. 8 ejes 168.00
-
-C9 Camión de carga. 9 ejes 168.00
-
-Eje excedente 31.00
-
-Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
-
-Los derechos anteriores se cubrirán al cruzar las casetas establecidas y las que en un futuro se puedan constituir en razón de los flujos vehiculares y por el establecimiento y cruce de nuevos tramos carreteros y no estarán sujetos a lo dispuesto por el artículo 93 de la Ley de Hacienda para el Estado de San Luis Potosí.
-
-Los comprobantes de pago que se expidan en dichas casetas serán idóneos para acreditar el pago de los derechos.
-
-La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3286,3 +2982,17 @@ P.O. 29 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los treinta días naturales siguientes a la publicación de este Decreto, el titular del Poder Ejecutivo del Estado deberá efectuar las modificaciones que resulten necesarias al Reglamento de la Ley de Transporte Público del Estado.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en las cuatro zonas del Estado, las declaratorias de necesidades y, en su caso, convocatorias para la expedición de permisos en las modalidades a que se refieren las fracciones IV y V incisos a) y b) del artículo 21, así como las contenidas en el artículo 22, de la Ley de Transporte Público del Estado.
+
+CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a partir de la expedición del presente Decreto, para efecto de convocar a sus consejos municipales y éstos puedan emitir opinión sobre las necesidades sobre servicio de transporte rural, y remitir esta opinión a la Secretaría de Comunicaciones y Transportes.
+
+QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
