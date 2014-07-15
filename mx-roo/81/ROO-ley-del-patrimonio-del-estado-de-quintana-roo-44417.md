@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2014-06-16"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -1219,6 +1219,10 @@ PEDRO JOSE FLOTA ALCOCER
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 16 DE JUNIO DE 2014.
+> <small>(F. DE E., P.O. 15 DE JULIO DE 2014)</small>
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
+Artículo Primero. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+> <small>(F. DE E., P.O. 15 DE JULIO DE 2014)</small>
+
+Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
