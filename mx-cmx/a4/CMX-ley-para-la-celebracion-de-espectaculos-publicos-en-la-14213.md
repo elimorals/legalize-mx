@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2011-11-18"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-12-27"
 ---
 # LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN LA CIUDAD DE MEXICO -- ANTES LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL --
 
-LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
+LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -69,6 +69,10 @@ II. Autorización: El acto administrativo que emite la Delegación para que una 
 III. Aviso: El acto por medio del cual las personas físicas o morales calificadas como titulares por la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, notifican a la Delegación la celebración de algún evento en los establecimientos mercantiles que cuentan con licencia de funcionamiento para la presentación permanente de eventos artísticos, teatrales, culturales, musicales, deportivos, taurinos o cinematográficos, en locales con aforo para más de cien personas;
 
 IV. Delegaciones: A las Delegaciones del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
+
+IV Bis. Espectáculo circense: La representación artística, con la participación de malabaristas, payasos, equilibristas y otro tipo de artistas, que se realiza en un inmueble cubierto o al aire libre;
 
 V. Espectáculo público: La representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, cinematográfica, teatral o cultural, organizada por una persona física o moral, en cualquier lugar y tiempo y a la que se convoca al público con fines culturales, o de entretenimiento, diversión o recreación, en forma gratuita o mediante el pago de una contraprestación en dinero o especie;
 
@@ -252,6 +256,10 @@ X. Presentar el Espectáculo público en los términos y condiciones ofrecidos e
 
 XI. Evitar que en la presentación de los Espectáculos se atente contra la salud, dignidad y seguridad, tanto de los espectadores como de los que intervienen en los mismos, cuidando especialmente que no exista contacto físico entre el público asistente y participantes durante la celebración del Espectáculo;
 
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
+
+XI Bis. Abstenerse de presentar un espectáculo circense con animales.
+
 XII. Proporcionar a los participantes en el Espectáculo público, sanitarios higiénicos y suficientes para ambos sexos, y de igual manera a los espectadores;
 
 XIII. Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entradas cuando de conformidad con las disposiciones específicas de la Ley o de los Reglamentos correspondientes, resulte procedente ante la suspensión o cancelación de un Espectáculo público por causas imputables al Titular;
@@ -304,11 +312,15 @@ II. Espectáculos taurinos;
 
 III. Espectáculos musicales, teatrales, artísticos, culturales o recreativos;
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2014)</small>
 
-IV. Espectáculos tradicionales, y
+IV. Espectáculos tradicionales,
 
-V. Espectáculos masivos, cualquiera que sea su tipo, cuando el número de espectadores sea superior a 2,500 personas.
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
+
+V. Espectáculo Circense y
+
+VI. Espectáculos masivos, cualquiera que sea su tipo, cuando el número de espectadores sea superior a 2,500 personas.
 
 Su celebración se sujetará a lo ordenado por la Ley, los reglamentos específicos que se deriven de ésta para cada tipo de Espectáculo público y las demás disposiciones que resulten aplicables.
 
@@ -342,9 +354,11 @@ La Delegación podrá ordenar, en los casos en que sea factible, la devolución 
 
 La realización de Espectáculos públicos en el Distrito Federal sólo requerirá de presentación de un aviso a la Delegación que corresponda, cuando se celebre en el interior de los establecimientos mercantiles que cuenten con licencia de funcionamiento para esos efectos, en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, en cuyo caso se deberá sujetar a lo previsto en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2014)</small>
+
 ###### Artículo 20.
 
-El aviso se presentará en el formato que para el efecto proporcionen las Ventanillas única o la de gestión, y los interesados estarán obligados a manifestar bajo protesta de decir verdad, los siguientes datos:
+El aviso se presentará en el formato que para el efecto proporcionen las Ventanillas única o de la de gestión, y los interesados estarán obligados a manifestar bajo protesta de decir verdad, los siguientes datos:
 
 I. Nombre, domicilio, Registro Federal de Contribuyentes y nacionalidad;
 
@@ -361,6 +375,10 @@ VI. Tipo de eventos, aforo y giros principal y complementarios, autorizados en l
 VII. Tratándose de Espectáculos teatrales y musicales, en su caso, los datos de la autorización de la sociedad de autores o compositores que corresponda o del propio Titular, para los efectos de los derechos de autor, y
 
 VIII. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por la Ley, con lo dispuesto por la Ley de Salud para el Distrito Federal y sus disposiciones reglamentarias, la Ley de Protección Civil del Distrito Federal y su reglamento, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica y las demás disposiciones que resulten aplicables, y con las demás obligaciones y autorizaciones que les impongan o requieran las dependencias de la Administración y de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público de que se trate así lo requiera.
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
+
+VIII BIS. La manifestación bajo protesta de decir verdad de que durante la celebración del espectáculo circense no se presentarán animales.
 
 ###### Artículo 21.
 
@@ -437,6 +455,10 @@ XII. Póliza de seguro de responsabilidad civil, para cubrir cualquier eventuali
 XIII. La autorización de las dependencias de la Administración Pública Federal, cuando la naturaleza y clase del Espectáculo público lo requiera;
 
 XIV. Autorización de la asociación o sociedad de autores o compositores que corresponda, en su caso, para los efectos de los derechos de autor o del propio titular, cuando la naturaleza del Espectáculo público a presentar la requiera, conforme a la ley de la materia, y
+
+> <small>(ADICIONADA, G.O. 15 DE JULIO DE 2014)</small>
+
+XIV BIS.- La manifestación bajo protesta de decir verdad de que durante la celebración del espectáculo circense no se presentarán animales.
 
 XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Protección Civil del Distrito Federal, y su Reglamento, la Ley para las Personas con Discapacidad del Distrito Federal, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del Espectáculo público.
 
@@ -1068,6 +1090,10 @@ Se sancionará con el equivalente de 100 a 200 días de salario mínimo general 
 
 Se sancionará con el equivalente de 200 a 400 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
 
+> <small>(ADICIONADO, G.O. 15 DE JULIO DE 2014)</small>
+
+Se sancionará con el equivalente de 9,000 a 12,000 días multa por violaciones a lo dispuesto en la fracción XI Bis del artículo 12.
+
 ###### Artículo 83.
 
 Las violaciones a esta Ley no previstas en los artículos que anteceden se sancionarán con multa de hasta 50 veces el salario mínimo general vigente en el Distrito Federal.
@@ -1138,19 +1164,17 @@ III. Una vez concluida la audiencia a que se refiere la fracción anterior, la D
 
 En caso de que proceda la suspensión inmediata del Espectáculo público, se procederá a su ejecución en el momento mismo de la notificación, con quien se encuentre presente en el lugar en el que se pretenda celebrar el evento de que se trate.
 
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2014)</small>
+
 ###### Artículo 90.
 
-Son causas de revocación de oficio de los Permisos, las siguientes:
+Son causas de revocación de oficio de los permisos, las siguientes:
 
-I. No contar con el uso del suelo autorizado para la celebración del Espectáculo;
+I. No contar con el uso del suelo autorizado para la celebración del espectáculo;
 
-II. Realizar Espectáculos diferentes a los autorizados;
+II. Realizar espectáculos diferentes a los autorizados;
 
 III. No respetar el aforo autorizado en el permiso correspondiente;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 IV. Cuando se impida a la Delegación, o en su caso, a la Secretaría de Protección Civil, el cumplimiento de sus funciones de verificación;
 
@@ -1158,17 +1182,19 @@ V. Expender bebidas alcohólicas sin autorización;
 
 VI. Permitir conductas que propicien la prostitución;
 
-VII. Cuando por motivo de la celebración de un Espectáculo se ponga en peligro la seguridad, salubridad y orden públicos, o la integridad de los Participantes o Espectadores;
+VII. Cuando por motivo de la celebración de un espectáculo se ponga en peligro la seguridad, salubridad y orden públicos, o la integridad de los participantes o espectadores;
 
-VIII. No celebrar el Espectáculo en la fecha señalada dentro del programa;
+VIII. No celebrar el espectáculo en la fecha señalada dentro del programa;
 
-IX. Suspender el Espectáculo sin causa justificada en la fecha indicada en el programa;
+IX. Suspender el espectáculo sin causa justificada en la fecha indicada en el programa;
 
 X. Cuando se haya expedido el permiso con base en documentos falsos o emitidos con dolo o mala fe;
 
-XI. Cuando se haya expedido un permiso en contravención a lo dispuesto en esta Ley, y
+XI. Cuando se haya expedido un permiso en contravención a lo dispuesto en esta Ley,
 
-XII. Cuando se haya expedido el permiso por autoridad no competente.
+XII. Cuando se haya expedido el permiso por autoridad no competente; y
+
+XIII. La utilización de animales en espectáculos circenses.
 
 ###### Artículo 91.
 
@@ -1315,3 +1341,11 @@ G.O. 18 DE NOVIEMBRE DE 2011.
 Primero.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE JULIO DE 2014.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 365 días posteriores a su publicación.
+
+TERCERO.- Los empleados y los titulares de espectáculos públicos que presenten un espectáculo circense en el Distrito Federal que cuenten con registro, permiso, autorización de posesión y traslado de animales silvestres, así como el certificado de cumplimiento de la legislación en materia de bienestar animal expedido por la autoridad federal correspondiente, tendrán un plazo de 365 días para adecuar su espectáculo en el territorio del Distrito Federal.
