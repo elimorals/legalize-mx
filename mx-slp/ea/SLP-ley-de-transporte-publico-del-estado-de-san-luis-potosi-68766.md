@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2014-06-24"
+last_updated: "2014-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -121,9 +121,11 @@ IV. Las autoridades correspondientes, estatales y municipales, deberán implemen
 
 V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 7°.
 
-La prestación del servicio público de transporte corresponde al Estado, el que podrá prestarlo por sí mismo, a través de la Secretaría de Comunicaciones y Transportes, o concesionario mediante concurso a personas físicas o morales de conformidad con lo establecido por la presente Ley.
+La prestación del servicio público de transporte corresponde al Estado, el que podrá prestarlo por sí mismo, a través de la Secretaría de Comunicaciones y Transportes; u otorgar a personas físicas o morales mediante concesiones o permisos el derecho para su explotación de conformidad con lo establecido por la presente Ley.
 
 También podrá prestarlo a través de las entidades de la administración pública paraestatal creadas al efecto por el propio titular del Ejecutivo del Estado, de conformidad con lo establecido en la presente Ley y demás ordenamientos aplicables.
 
@@ -209,9 +211,13 @@ XX. Operador: a la persona autorizada mediante la licencia correspondiente para 
 
 XXI. Peatón: a la persona que transita a pie por la vía pública;
 
-XXII. Permiso: al acto administrativo, y unilateral del Poder Ejecutivo del Estado, por si o a través de la Secretaría, para otorgar a personas físicas o morales el derecho para explotar temporalmente el servicio de transporte público, en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
 
-XXIII. Permisionario: a la persona física o moral que, al amparo de un permiso, realiza temporalmente la prestación del servicio de transporte público en las vías de jurisdicción estatal y municipal, mediante la utilización de bienes de su propiedad o de aquéllos en los que acredite fehacientemente el derecho de su uso;
+XXII. Permiso temporal: acto administrativo y unilateral del titular de la Secretaría de Comunicaciones y Transportes, para otorgar a personas físicas o morales el derecho de explotar temporalmente, el servicio de transporte público, en las modalidades que consigna la presente Ley;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+XXIII. Permisionario: persona física o moral que al amparo de un permiso temporal, presta servicio público de transporte en las vías de jurisdicción estatal y municipal, mediante la utilización de bienes de su propiedad o de aquéllos en los que acredite fehacientemente el derecho de su uso;
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
 
@@ -241,7 +247,9 @@ XXXIV. Secretaría: a la Secretaría de Comunicaciones y Transportes;
 
 XXXV. Señalética: a los elementos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otra índole, que se colocan en la vía pública, en los servicios auxiliares y en los vehículos;
 
-XXXVI. Servicio público de transporte de personas, equipajes y cosas: al que se efectúa por medio de vehículos autorizados que cubren itinerarios determinados por la propia autoridad, en las calles y caminos de competencia estatal, y que se presta a la población directamente por el Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, sus entidades, o por personas físicas o morales a las que el Ejecutivo del Estado otorgue concesiones o permisos, mediante el pago de una retribución en numerario;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+XXXVI. Servicio público de transporte: prestación del servicio de transporte público de personas, equipajes y cosas mediante el pago de una retribución en numerario, que se ofrece directamente a la población por el Ejecutivo del Estado, a través de la Secretaría de Comunicaciones y Transportes, sus entidades, o terceros personas físicas o morales a las que el Gobierno del Estado otorgue concesiones o permisos temporales, el cual se efectúa por medio de vehículos autorizados por la propia Secretaría, en las calles y caminos de jurisdicción estatal o municipal;
 
 XXXVII. Servicios auxiliares: a los bienes muebles o inmuebles de infraestructura, complementarios a la prestación del servicio de transporte público, previstos por esta Ley y su Reglamento, susceptibles de permiso o concesión a particulares;
 
@@ -321,7 +329,7 @@ VI. Crear las entidades de la administración pública paraestatal que establece
 
 VII. Convocar a concurso para el otorgamiento de concesiones para la prestación del servicio público de transporte, en cualquiera de sus modalidades, así como los servicios auxiliares del mismo;
 
-VIII. Otorgar los permisos temporales de prestación del servicio público de transporte, cuando éstos sean necesarios por causa emergente, exclusivamente durante el tiempo que dure la misma y tengan como único fin garantizar el servicio a la ciudadanía, y
+VIII. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
 IX. Las demás atribuciones que le otorgan esta Ley y otras disposiciones aplicables.
 
@@ -349,7 +357,9 @@ V. Llevar el registro de los operadores y unidades del servicio de transporte p�
 
 VI. Presentar las denuncias y querellas ante el Ministerio Público, en los casos que proceda;
 
-VII. Organizar los servicios emergentes de transporte público, cuando las circunstancias lo ameriten;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+VII. Otorgar los permisos temporales para la prestación del servicio público de transporte en los términos que la presente Ley señala, organizando, en su caso, los servicios emergentes de transporte público cuando las circunstancias lo ameriten;
 
 VIII. Autorizar los convenios que los concesionarios celebren entre sí, fijando las bases para unión, combinación y enlace entre los distintos medios de transporte, siempre y cuando dichos convenios conlleven al mejoramiento sustancial del servicio de transporte;
 
@@ -493,11 +503,25 @@ Los propietarios y conductores de vehículos particulares no podrán prestar ser
 
 Para efectos de la presente Ley se entenderá por concesión, el acto administrativo del titular del Poder Ejecutivo, para otorgar a personas físicas o morales, el derecho para explotar el servicio público de transporte, en los términos que en la misma se señala.
 
-Las concesiones para los servicios de transporte urbano, interurbano y foráneo a que se refieren las fracciones I, II y III del artículo 21 de esta Ley, se otorgarán, mediante concurso. Las concesiones de transporte rural y de servicios especiales a que se refieren las fracciones IV y V de ese mismo precepto, así como las de transporte de carga que se consignan en el artículo 22 de esta Ley, podrán ser otorgadas sin necesidad de someterse al procedimiento de concurso que establece este Ordenamiento, siempre y cuando se cumplan los siguientes requisitos:
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2014)</small>
 
-I. La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo Municipal de Transporte Público correspondiente, la cual será ratificada por el ayuntamiento quien emitirá la opinión que justifique lo siguiente:
+Estará sujeta al régimen de concesión la prestación del servicio público de transporte, a través de personas físicas o morales en las modalidades a que se refieren las fracciones I, II, y III del artículo 21 de esta Ley, y se otorgarán mediante concurso.
 
-a) La modalidad y el número de concesiones a expedir.
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2014)</small>
+
+La prestación del servicio público de transporte en la modalidad de servicios especiales de transporte de trabajadores, queda sujeta al régimen de concesiones que se otorgarán mediante adjudicación directa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
+La prestación de servicio público de transporte, a través de personas físicas o morales en las modalidades a que se refiere la fracción IV en todos sus incisos, y los incisos a) y b) de la fracción V ambas del artículo 21, así como las de transporte de carga que se consignan en el artículo 22 de esta Ley, se efectuará mediante la expedición de permiso temporal, sin necesidad de someterse al procedimiento de concurso que establece este Ordenamiento, siempre y cuando se cumplan los requerimientos que se establecen en el artículo 51 de la presente Ley, y los siguientes requisitos:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
+I. La Secretaría deberá emitir el dictamen técnico, previa opinión del Consejo Municipal de Transporte Público correspondiente, el cual deberá justificar lo siguiente:
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
+a) La modalidad y el número de permisos temporales a expedir.
 
 b) El tipo y características de los vehículos que se requieran, siendo requisito esencial poseer dispositivos de control de velocidad y aceleración, que eviten el desplazamiento de las unidades de transporte urbano colectivo, a una velocidad mayor a los sesenta kilómetros por hora, y mantengan el nivel constante y confortable de aceleración.
 
@@ -511,27 +535,41 @@ II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido 
 
 III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2014)</small>
 
-Las concesiones se otorgarán preferentemente, a los solicitantes que acrediten la vecindad en la cabecera, delegación o comunidad del municipio de origen, en las modalidades donde concursen personas físicas señaladas en el artículo 38 en sus párrafos tercero y cuarto de esta Ley, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
+En igualdad de circunstancias, los permisos temporales se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la población donde se vaya a prestar el servicio público de transporte, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley para la adjudicación de permisos temporales, la Secretaría oirá directamente la opinión de los consejos municipales, para emitir la declaratoria de necesidades correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
+Estos mismos requisitos serán aplicables para la adjudicación directa de concesiones en la modalidad de servicios especiales de transporte de trabajadores.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 32.
 
-Para efectos de esta Ley y sus ordenamientos reglamentarios, constituye servicio público de transporte de pasajeros o de carga, exclusivamente el que realizan las personas físicas o morales al amparo de una concesión o permiso expedido por las autoridades competentes, en los términos que en la misma se señalan.
+Para efectos de esta Ley y sus ordenamientos reglamentarios, constituye servicio público de transporte de pasajeros o de carga, exclusivamente el que realizan las personas físicas o morales al amparo de una concesión o de un permiso temporal expedidos por las autoridades competentes, en los términos que en la misma se señalan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 33.
 
-Para el otorgamiento de concesiones, el titular del Ejecutivo con la asistencia de la Secretaría, deberá elaborar y publicar en el Periódico Oficial del Estado, conjuntamente con la convocatoria, la declaratoria de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
+Para el otorgamiento de concesiones de servicio público de transporte en las modalidades de Urbano, Interurbano, Foráneo y automóvil de alquiler, el titular del Ejecutivo con la asistencia de la Secretaría, deberá elaborar y publicar en el Periódico Oficial del Estado, conjuntamente con la convocatoria, la declaratoria de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
 
 En la elaboración de la declaratoria de necesidades, el titular del Ejecutivo por conducto de la Secretaría, deberá tomar en cuenta la propuesta de los ayuntamientos involucrados, en lo que corresponda al ámbito de la jurisdicción territorial de los municipios respectivos.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 34.
 
-El titular del Ejecutivo del Estado otorgará las concesiones de las modalidades a que se refiere el artículo 31 de la presente Ley, mediante el procedimiento establecido en este mismo Ordenamiento y su Reglamento.
+El titular del Ejecutivo del Estado otorgará las concesiones de las modalidades a que se refieren las fracciones I, II y III del artículo 21 de la presente Ley, mediante el procedimiento de concurso establecido en este mismo Ordenamiento y su Reglamento.
+
+El titular de la Secretaría expedirá los permisos temporales, los cuales en todas las circunstancias serán por el término de un año, en las modalidades a que se refieren los incisos de la fracción IV, y los incisos a) y b) de la fracción V, del artículo 21, y todas las comprendidas en el artículo 22 de la presente Ley, sin necesidad de someterse al procedimiento de concurso, cubriendo los requisitos que señalan las fracciones I, II y III del artículo 31 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-Las concesiones y permisos para explotar los servicios públicos de transporte son personalísimas, inembargables, y no se podrán enajenar salvo en los casos que a continuación se indican, y en los términos del Capítulo VII del presente Título:
+Las concesiones y permisos para explotar los servicios públicos de transporte son personalísimas e inembargables; los permisos son intransferibles y no enajenables; las concesiones se podrán enajenar en los casos que a continuación se indican, y en los términos del Capítulo VII del presente Título.
 
 I. Fallecimiento o incapacidad permanente, total o parcial del concesionario, en que la concesión será otorgada al beneficiario que el propio concesionario señale.
 
@@ -543,9 +581,13 @@ III. Cuando el beneficiario de la concesión se declare incompetente para seguir
 
 El trámite de cesión de derechos se hará bajo las reglas de esta Ley, sin sujetarse al procedimiento de concurso señalado por la misma, siempre y cuando se cumpla en todos los casos con lo que este Ordenamiento establece y, en especial, con los siguientes requisitos:
 
-a) Que se acredite que la concesión o permiso se encuentre al corriente de las obligaciones y pagos administrativos.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
-b) Que la concesión o permiso permanezca y haya sido explotada sin interrupción desde la fecha de su otorgamiento.
+a) Que se acredite que la concesión se encuentre al corriente de las obligaciones y pagos administrativos.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
+b) Que la concesión permanezca y haya sido explotada sin la interrupción desde la fecha de su otorgamiento.
 
 c) Que el titular de la concesión, así como el que pretende adquirirla, soliciten la respectiva autorización por escrito y bajo protesta de decir verdad.
 
@@ -555,13 +597,17 @@ Cualquier tipo de operación que se realice sin previa autorización del titular
 
 Los concesionarios que sean autorizados para ceder sus derechos de acuerdo a lo establecido en la fracción III de este artículo, no podrán, en ningún caso, volver a ser sujetos para el otorgamiento de otra concesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 36.
 
-La declaratoria de necesidades para el otorgamiento de concesiones, contendrá como mínimo lo siguiente:
+La declaratoria de necesidades para el otorgamiento de concesiones o permisos temporales contendrá como mínimo lo siguiente:
 
 I. Los resultados de los estudios técnicos que justifiquen su otorgamiento;
 
-II. La modalidad y el número de concesiones a expedir;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+II. La modalidad y el número de concesiones o permisos temporales a expedir;
 
 III. El tipo y características de los vehículos que se requieran, siendo requisito esencial poseer dispositivos de control de velocidad y aceleración, que eviten el desplazamiento de las unidades de transporte urbano colectivo, a una velocidad mayor a los sesenta kilómetros por hora, y mantengan el nivel confortable de aceleración;
 
@@ -617,15 +663,19 @@ Los concursantes que no estuvieran de acuerdo con la calificación dada a conoce
 
 IX. Concluidas las etapas a que se refieren las fracciones que anteceden, se emitirá el fallo del concurso, mismo que se publicará en el Periódico Oficial del Estado, así como en uno de los diarios de circulación en el municipio de que se trate, o en su defecto de la Capital del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 38.
 
-Las concesiones de transporte público, según la modalidad de que se trate, únicamente se otorgarán a personas físicas o morales de nacionalidad mexicana, conforme a las leyes del país.
+Las concesiones o permisos temporales de transporte público, según la modalidad de que se trate, únicamente se otorgarán a personas físicas o morales de nacionalidad mexicana, conforme a las leyes del país.
 
-Las concesiones y permisos para la prestación del servicio público de transporte a que se refiere el artículo 21, fracciones, I incisos a) y b); II; y III incisos a) y b), de la presente Ley, únicamente se otorgarán a personas morales.
+Las concesiones para la prestación del servicio público de transporte a que se refiere el artículo 21, fracciones, I incisos a) y b), II, y III incisos a) y b) de la presente Ley, únicamente se otorgarán a personas morales.
 
-Tratándose de las fracciones IV y V del artículo 21, y las modalidades contenidas en el artículo 22 de esta Ley, las concesiones se podrán otorgar a personas físicas o morales.
+Tratándose de los incisos c) y d) de la fracción I del artículo 21, las concesiones se expedirán únicamente a personas físicas.
 
-Las concesiones y permisos para la prestación de los demás sistemas y modalidades de servicio de transporte público que señala esta Ley, sólo se otorgarán a personas físicas.
+Para la explotación del servicio público de transporte en las modalidades correspondientes a todos los incisos de la fracción IV, y los incisos a) y b) de la fracción V ambas del artículo 21, y todas las modalidades contenidas en el artículo 22 de esta Ley, se otorgarán permisos temporales a personas físicas o morales.
+
+Las concesiones de los servicios especiales de transporte de trabajadores se expedirán a personas físicas o morales.
 
 ###### ARTICULO 39.
 
@@ -759,11 +809,51 @@ III. No exista conflicto respecto a la personalidad del órgano directivo en el 
 
 ### Capítulo IV. De la Expedición de Permisos
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 51.
 
-El titular del Ejecutivo, con la opinión de la Secretaría, podrá expedir permisos temporales para la prestación del servicio público de transporte, únicamente en caso de algún desastre o necesidad urgente, y exclusivamente durante el tiempo que dure la misma, y tengan como único fin garantizar el servicio a la ciudadanía.
+El titular de la Secretaría tendrá la facultad indelegable para expedir permisos temporales para la prestación del servicio público de transporte, en las modalidades que establecen la fracción IV, y los incisos a) y b) de la fracción V, del artículo 21, y todas las que comprende el artículo 22 de la presente Ley.
 
-Los ayuntamientos que se encuentren en el supuesto del párrafo que antecede, podrán solicitar al titular del Ejecutivo, a través de la Secretaría, la expedición de permisos temporales para la prestación del servicio público de transporte, con la opinión de su consejo municipal de transporte.
+Los permisos a que se refiere el presente artículo tendrán una vigencia de un año, siendo improrrogables.
+
+Su expedición, además de lo que señalan las fracciones I, II, y III del artículo 31 de la presente Ley, quedará sujeta a cumplir los siguientes requisitos:
+
+I. Para el caso de personas físicas:
+
+a) Tener mayoría de edad.
+
+b) No ser titular de diversa concesión o permiso de servicio público de transporte en cualquier modalidad, expedida por el Gobierno del Estado.
+
+c) Que no se le haya declarado caducidad, revocado, declarado nulidad o haya cedido o recibido en cesión concesión o permiso de servicio público de transporte en cualquier modalidad, expedida por el Gobierno del Estado.
+
+d) Contar con la solvencia económica necesaria para prestar el servicio público de transporte en las mejores condiciones para el usuario.
+
+e) No tener antecedentes penales.
+
+f) Contar con licencia, seguro y la capacitación que especifique el dictamen técnico para la modalidad que se trate.
+
+g) No tener reclamos pendientes de solventar por daños a terceros derivados de la prestación del servicio público de transporte.
+
+h) Aprobar examen médico y toxicológico, y
+
+II. Para el caso de personas morales:
+
+a) Que tenga domicilio social y fiscal en el Estado.
+
+b) Que al solicitante no se le haya declarado caducidad, revocado, declarado nulidad o haya cedido o recibido en cesión concesión o permiso del servicio público de transporte en cualquier modalidad expedida por el Gobierno del Estado.
+
+c) Que cuente con la solvencia económica y moral necesarias para prestar el servicio público de transporte en las mejores condiciones para el usuario.
+
+d) Que no tenga reclamos pendientes de solventar por daños a terceros derivados de la prestación del servicio público de transporte.
+
+Podrán ser sujetas de un nuevo permiso las personas físicas o morales que acrediten haber cumplido los requisitos referidos.
+
+En caso de suspensión del servicio, desastre, o necesidad urgente, exclusivamente durante el tiempo que dure la misma, y con el único fin de garantizar el servicio a la ciudadanía, el titular de la Secretaría expedirá los permisos necesarios para que terceros, titulares de concesión o permiso temporal expedidos por el Gobierno del Estado, presten servicio público de transporte en los servicios suspendidos, las zonas de desastre o donde se declaré la necesidad urgente.
+
+Para el caso de servicios públicos de transporte que se vean afectados por resoluciones firmes que extingan concesiones o permisos temporales y únicamente en caso de que la necesidad de servicio público de transporte persista, el titular de la Secretaría expedirá permisos temporales hasta por un periodo de un año a diversos concesionarios, o permisionarios que presten servicio en la zona geográfica que resulte afectada por la extinción de las concesiones o permisos que corresponda.
+
+Para el caso de concesiones extinguidas, y sólo en caso de que sea necesario otorgar concesiones que reemplacen a las extinguidas, el Ejecutivo deberá sustanciar durante un periodo no mayor al del permiso temporal concedido por la Secretaría, el procedimiento para otorgar las nuevas concesiones que se requieran para cubrir el servicio afectado por la extinción.
 
 Los permisos temporales expedidos fuera de los casos establecidos en el presente artículo serán nulos; lo mismo se observará cuando se expidan por una autoridad no facultada para ello; o cuando estando facultada los expida sin cumplir con los requisitos exigidos por esta Ley.
 
@@ -923,9 +1013,11 @@ La misma declaratoria señalará la forma, condiciones y plazos en que deba ejec
 
 ### Capítulo VII. De la Cesión de Derechos de las Concesiones
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 62.
 
-Los derechos y obligaciones derivados de una concesión o permiso para la prestación del servicio público de transporte, salvo en los casos contemplados en el artículo 35 de esta Ley, no podrán cederse. Cualquier tipo de operación que se realice sin cumplir con dicho requisito será nula, no surtirá efecto legal alguno y será causa de la revocación de la concesión o permiso.
+Los derechos derivados de una concesión o permiso temporal para la prestación del servicio público de transporte no podrán cederse, salvo en los casos contemplados para las concesiones en el artículo 35 de esta Ley. Cualquier tipo de operación que se realice sin cumplir con dicho requisito será nula, no surtirá efecto legal alguno y será causa de la revocación de la concesión o permiso temporal.
 
 ###### ARTICULO 63.
 
@@ -1713,7 +1805,11 @@ Los consejos municipales de transporte público tendrán las siguientes funcione
 
 I. Analizar permanentemente las condiciones del servicio de transporte público en todas sus modalidades en el ámbito municipal, proponiendo programas, estudios y acciones de carácter técnico y financiero para mejorar la prestación del servicio;
 
-II. Con base en las necesidades de la población, proponer la creación, ampliación o modificación de rutas, itinerarios, horarios, frecuencias de paso, tarifas, sistemas de pago y servicios auxiliares;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
+
+II. Con base en las necesidades de la población, proponer la creación, ampliación o modificación de rutas, itinerarios, horarios, frecuencias de paso, tarifas, sistemas de pago y servicios auxiliares; en relación a la opinión que tenga que emitir sobre la expedición de permisos temporales del transporte rural, establecido en el artículo 31, éste tendrá treinta días para lo conducente.
+
+De no resolver sobre el particular, la Secretaria procederá a la emisión de la declaratoria de necesidades de que se trate, continuando el proceso de expedición de permisos temporales hasta su culminación;
 
 III. Conocer, analizar y emitir la opinión que al efecto le solicite la Secretaría, para el otorgamiento de concesiones y permisos;
 
@@ -2100,3 +2196,17 @@ P.O. 24 DE JUNIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los treinta días naturales siguientes a la publicación de este Decreto, el titular del Poder Ejecutivo del Estado deberá efectuar las modificaciones que resulten necesarias al Reglamento de la Ley de Transporte Público del Estado.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en las cuatro zonas del Estado, las declaratorias de necesidades y, en su caso, convocatorias para la expedición de permisos en las modalidades a que se refieren las fracciones IV y V incisos a) y b) del artículo 21, así como las contenidas en el artículo 22, de la Ley de Transporte Público del Estado.
+
+CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a partir de la expedición del presente Decreto, para efecto de convocar a sus consejos municipales y éstos puedan emitir opinión sobre las necesidades sobre servicio de transporte rural, y remitir esta opinión a la Secretaría de Comunicaciones y Transportes.
+
+QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
