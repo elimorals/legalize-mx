@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2013-11-06"
+last_updated: "2014-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -911,7 +911,7 @@ El servicio de carrera de las instituciones del Sistema comprenderá las etapas 
 
 I. El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
 
-II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del servicio de carrera; y (sic)
+II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del servicio de carrera; y
 
 > <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1867,15 +1867,21 @@ El incumplimiento de las disposiciones de esta sección, dará lugar a que la po
 
 ### CAPÍTULO ÚNICO. De la Participación Ciudadana
 
-> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 124.
 
-Se establecerá y organizará un Consejo Ciudadano de Seguridad Pública como instancia colegiada de consulta con participación ciudadana, dependiente del Consejo Estatal, a través del cual se establecerán mecanismos eficientes, con la finalidad de que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema; de igual manera, este Consejo impulsará las acciones necesarias en materia de seguridad pública, prevención social del delito y participación ciudadana, debiendo coadyuvar con las autoridades competentes para el servicio de la comunidad.
+Se instaurará y organizará un Consejo Ciudadano de Seguridad Pública, como instancia colegiada de consulta con participación ciudadana, a través del cual se establecerán mecanismos eficientes para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema; de igual manera, este Consejo impulsará las acciones necesarias en materia de seguridad pública, prevención social del delito y participación ciudadana, debiendo coadyuvar con las autoridades competentes para el servicio de la comunidad.
 
-El Consejo Ciudadano de Seguridad Pública se integrará mayoritariamente por ciudadanos y con la representación del Estado, que determine el Reglamento Interior correspondiente.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
-El Titular del Ejecutivo del Estado elegirá, a propuesta del Secretario Ejecutivo, a los Consejeros Ciudadanos que integrarán este Consejo, y que podrán pertenecer a asociaciones civiles, agrupaciones de profesionales, organismos no gubernamentales, empresariales, así como también, instituciones de educación superior.
+El Consejo Ciudadano de Seguridad Pública se integrará mayoritariamente por ciudadanos y con la representación del Estado que determine la presente Ley.
+
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
+El titular del Ejecutivo del Estado elegirá a los Consejeros Ciudadanos que integrarán este Consejo, los que podrán pertenecer a asociaciones civiles, agrupaciones de profesionales, organismos no gubernamentales o empresariales, así como también a instituciones de educación superior.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2013)</small>
 
 El Presidente del Consejo Ciudadano de Seguridad Pública será electo de entre los Consejeros Ciudadanos, con la aprobación de las dos terceras partes de éstos.
 
@@ -1885,9 +1891,13 @@ El Presidente del Consejo Ciudadano de Seguridad Pública será electo de entre 
 
 El Consejo Ciudadano de Seguridad Pública se integrará de la siguiente forma:
 
-I. Por siete Consejeros Ciudadanos, uno de los cuales fungirá como Presidente, quienes tendrán voz y voto;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-II. Los titulares de la Secretaría de Gobierno, Secretaría de Seguridad Pública, Procuraduría General de Justicia del Estado; así como el Secretario Ejecutivo, quienes fungirán como Consejeros Gubernamentales con voz y voto; y
+I. Por, cuando menos, siete Consejeros Ciudadanos, uno de los cuales fungirá como Presidente, quienes tendrán voz y voto;
+
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+II. Los titulares de las Secretarías de Gobierno y de Seguridad Pública y de la Procuraduría General de Justicia, los Presidentes Municipales de Xalapa y Veracruz, el Presidente de la Comisión Permanente de Seguridad Pública del Congreso del Estado, así como el Secretario Ejecutivo, quienes fungirán como Consejeros Gubernamentales, con voz y voto;
 
 III. Un Secretario Técnico, quien sólo contará con voz.
 
@@ -2482,3 +2492,9 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente de su publi
 Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
