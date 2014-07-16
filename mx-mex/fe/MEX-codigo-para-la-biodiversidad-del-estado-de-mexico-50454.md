@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2014-05-09"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2014.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -925,7 +925,7 @@ II. Los lineamientos y estrategias ambientales para la preservación, conservaci
 
 ###### Artículo 2.
 
-46. El Estado se coordinará y participará con la Federación, Entidades Federativas o Municipios, (sic) vecinos la formulación de los Programas de Ordenamiento Ecológico Regionales correspondientes cuando la región ecológica respectiva también comprenda territorios que no sean jurisdicción del Estado.
+46. El Estado se coordinará y participará con la Federación, Entidades Federativas o Municipios, vecinos la formulación de los Programas de Ordenamiento Ecológico Regionales correspondientes cuando la región ecológica respectiva también comprenda territorios que no sean jurisdicción del Estado.
 
 ###### Artículo 2.
 
@@ -1311,7 +1311,7 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 78. Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante la Secretaría, tendrán derecho a formular por escrito dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a evaluación de impacto ambiental. Para tal efecto el promovente del proyecto deberá exhibir por duplicado ante la autoridad competente el informe previo o manifestación de impacto ambiental, éste será publicado en términos del presente Libro y su Reglamento.
 
-El Reglamento establecerá la forma a través de los cuales (sic) se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
+El Reglamento establecerá la forma a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
 
 La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
 
@@ -1687,9 +1687,11 @@ El Ejecutivo Estatal promoverá el establecimiento de zoológicos, centros de ex
 
 ### CAPITULO I. DEL APROVECHAMIENTO Y USO SOSTENIBLE DEL AGUA Y LOS ECOSISTEMAS ACUATICOS
 
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 2.
 
-128. El uso racional del agua se regirá por la Ley del Agua del Estado de México.
+128. El uso racional, administración, manejo eficiente, fomento a su cultura, promoción y concientización sobre el manejo sustentable y gestión integral del agua, se regirá por la Ley del Agua para el Estado de México y Municipios.
 
 ###### Artículo 2.
 
@@ -3491,7 +3493,7 @@ XII. Otorgar la documentación necesaria para el transporte de materias primas y
 
 XIII. Asesorar y capacitar a los propietarios y poseedores forestales, técnicos del sector oficial y prestadores de servicios técnicos forestales en la elaboración y ejecución de programas de manejo forestal, de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
 
-XIV. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas, pueblos hospital y otros productores forestales en el desarrollo y consolidación de organizaciones productivas, así como en la creación de empresas sociales forestales propiciando la integración de cadenas productivas y los sistemas producto (sic) del sector;
+XIV. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas, pueblos hospital y otros productores forestales en el desarrollo y consolidación de organizaciones productivas, así como en la creación de empresas sociales forestales propiciando la integración de cadenas productivas y los sistemas producto del sector;
 
 XV. Brindar atención de forma coordinada con la Federación y los Municipios a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos, pueblos hospital y comunidades indígenas;
 
@@ -3831,7 +3833,7 @@ V. La cuantificación de los recursos forestales que incluya la valoración de l
 
 VI. Los criterios e indicadores de sostenibilidad y degradación de los ecosistemas forestales;
 
-VII. Los inventarios sobre la infraestructura forestal existente; y (sic)
+VII. Los inventarios sobre la infraestructura forestal existente; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -5285,7 +5287,7 @@ III. Programa de preparación y respuesta a emergencias y contingencias que pued
 
 IV. Bitácora en la cual se registren los residuos que se reciben indicando tipo, peso o volumen, destino, fecha de entrada y salida de los mismos;
 
-V. Area para segregar y almacenar temporalmente los residuos por tiempos acordes con lo que establezcan las disposiciones respectivas: y
+V. Área para segregar y almacenar temporalmente los residuos por tiempos acordes con lo que establezcan las disposiciones respectivas: y
 
 VI. Los demás requisitos que determine la normatividad aplicable.
 
@@ -5595,7 +5597,7 @@ V. Los antecedentes, circunstancias y situación socioeconómica del infractor.
 
 ###### Artículo 4.
 
-108. La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación (sic) conservación, remediación, rehabilitación o restauración del ambiente, la biodiversidad en su conjunto y los elementos y recursos naturales, siempre y cuando se garanticen las obligaciones del infractor.
+108. La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación conservación, remediación, rehabilitación o restauración del ambiente, la biodiversidad en su conjunto y los elementos y recursos naturales, siempre y cuando se garanticen las obligaciones del infractor.
 
 ###### Artículo 4.
 
@@ -7109,7 +7111,7 @@ Toda persona física o jurídica colectiva, federación, asociación o empresa q
 
 ###### Artículo 6.
 
-28. Toda persona que sea propietaria, esté encargada o posea una mascota está obligado (sic) a procurarle alimentación y cuidados apropiados a su modo de vida.
+28. Toda persona que sea propietaria, esté encargada o posea una mascota está obligado a procurarle alimentación y cuidados apropiados a su modo de vida.
 
 ###### Artículo 6.
 
@@ -7766,3 +7768,9 @@ PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
+
+G.G. 16 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
