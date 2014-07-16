@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2013-12-16"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -481,7 +481,7 @@ XII. La persona moral que administre o los propietarios de los inmuebles afectos
 
 XIII. Los asociados, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por el asociante mediante la asociación en participación, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la misma, siempre que la asociación en participación incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción III de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el período o a la fecha de que se trate;
 
-XIV. Los servidores públicos, magistrados, jueces, secretarios de acuerdos, notarios públicos y corredores públicos que autoricen cualquier acto jurídico o autentiquen algún documento sin cerciorarse de que se han cubierto las contribuciones o aprovechamientos correspondientes u omitan cumplir las disposiciones fiscales estatales, y (sic)
+XIV. Los servidores públicos, magistrados, jueces, secretarios de acuerdos, notarios públicos y corredores públicos que autoricen cualquier acto jurídico o autentiquen algún documento sin cerciorarse de que se han cubierto las contribuciones o aprovechamientos correspondientes u omitan cumplir las disposiciones fiscales estatales, y
 
 > <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -2243,7 +2243,7 @@ $ $ $ %
 
 1'393,020.61 En adelante 132,813.36 19.1
 
-II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados «taxis» el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis" el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
 
 Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
 
@@ -2785,45 +2785,77 @@ d) El excedente de 200 has en adelante 2.2 salarios mínimos
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 153.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
 
-I. Venta de bienes muebles e inmuebles propiedad del estado destinados a un fin de interés público;
+A. Aprovechamientos en general:
 
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+I. Venta de bienes muebles e inmuebles propiedad del Estado destinados a un fin de interés público;
 
-II. Venta de certificado holográfico para centro de verificación vehicular o verificentro:
+II. Reintegros e indemnizaciones;
 
-a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural. 1.5 salarios mínimos
+III. Subsidios;
 
-b) Certificado holográfico para verificación a vehículos con motor a diesel. 2 salarios mínimos
+IV. Multas no fiscales;
 
-c) Certificado holográfico para verificación dinámica con expedición de holograma tipo “0”. 2 salarios mínimos
+V. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
 
-d) Certificado holográfico para verificación dinámica con expedición de holograma tipo “00”. 4 salarios mínimos
+VI. Bienes y herencias vacantes, tesoros, herencias, legados, donaciones y otros conceptos a favor del Estado;
 
-El 60% del ingreso que perciba el Estado proveniente de estos aprovechamientos que se deriven de la verificación vehicular obligatoria, se destinarán a la implementación de obras y acciones en materia de calidad del aire, áreas naturales protegidas, manejo integral de residuos y ordenamiento ecológico.
+VII. Honorarios;
 
-III. Reintegros e indemnizaciones;
+VIII. Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos a cargo del Gobierno del Estado para obras de beneficio social;
 
-IV. Subsidios;
+IX. Ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación o de pago;
 
-V. Multas no fiscales;
+X. Venta de bases de licitación pública; y
 
-VI. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
+XI. Aprovechamientos diversos.
 
-VII. Bienes y herencias vacantes, tesoros, herencias legados, donaciones y otros conceptos en favor del Estado;
+B. Aprovechamientos en materia ambiental:
 
-VIII. Honorarios;
+I. Venta de certificado holográfico para verificación vehicular o verificentro:
 
-IX. Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos a cargo del Gobierno del Estado para obras de beneficio social;
+a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural, con expedición de holograma tipo “E”.
 
-X. Ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación o de pago;
+1.5 salarios mínimos;
 
-XI. Venta de bases de licitación pública, y
+b) Certificado holográfico para verificación a vehículos con motor a diésel.
 
-XII. Aprovechamientos diversos.
+2 salarios mínimos;
+
+c) Certificado holográfico para verificación dinámica con expedición de holograma tipo “0”
+
+2 salarios mínimos;
+
+d) Certificado holográfico para verificación dinámica con expedición de holograma tipo “00”
+
+5 salarios mínimos;
+
+e) Certificado holográfico para verificación dinámica estatal con expedición de holograma tipo “DE”.
+
+1 salario mínimo;
+
+II. Pagos por responsabilidad resarcitoria, reparación de daños ocasionados al ambiente o de compensación derivada de menoscabo, alteración, afectaciones, daños, uso indebido o perjuicios que causen a los ecosistemas veracruzanos y que se cuantifiquen en términos de la Ley Estatal de Protección Ambiental, así como las leyes, reglamentos, disposiciones administrativas, licencias, autorizaciones, dictámenes y resolutivos que se emitan en la materia ambiental;
+
+III. Multas en materia ambiental, entendiéndose como tales a todas aquellas sanciones administrativas de carácter pecuniario derivadas de infracciones que se ubiquen en las leyes de carácter ambiental en el Estado, así como aquellas sanciones pecuniarias que se impongan como medidas de reparación de daño ambiental, en que el Estado intervenga como sustituto del infractor para reparar las afectaciones, aplicando supletoriamente la Ley Federal de Responsabilidad Ambiental;
+
+IV. Los contenidos en el artículo 69 de la Ley número 555 de Desarrollo Forestal Sustentable para el Estado de Veracruz de Ignacio de la Llave;
+
+V. Captación de bonos verdes en términos de la Ley Estatal de Mitigación y Adaptación ante los Efectos del Cambio Climático, así como las aportaciones federales, estatales o municipales que deriven de fondos o fideicomisos vinculados con esta materia;
+
+VI. Los instrumentos financieros y de mercado, establecidos en la Ley Estatal de Protección Ambiental y demás normatividad ambiental en el Estado.
+
+Los ingresos establecidos en la fracción I de este Apartado B serán depositados directamente en el Fideicomiso Público del Fondo Ambiental Veracruzano; el cuarenta por ciento de los mismos se destinará para el cumplimiento de los Programas de Gestión de Calidad del Aire y el Programa de Verificación Vehicular Obligatoria y el sesenta por ciento restante se destinará al cumplimiento del objeto de dicho fideicomiso.
+
+Los ingresos establecidos en las fracciones II, III, V y VI del Apartado B serán depositados directamente en el Fideicomiso Público del Fondo Ambiental Veracruzano y se destinarán íntegramente para el cumplimiento del objeto de dicho fideicomiso.
+
+Se exceptúan del destino anterior las multas impuestas por la Procuraduría Estatal de Protección al medio Ambiente.
+
+Los ingresos relativos a la fracción IV serán parte del Fondo Forestal Veracruzano, en términos de los artículos 69, 70 y 71 de la Ley número 555 de Desarrollo Forestal Sustentable para el Estado de Veracruz de Ignacio de la Llave.
 
 # LIBRO CUARTO. DEL PRESUPUESTO Y GASTO PÚBLICO
 
@@ -5354,3 +5386,17 @@ Segundo. La actualización de contribuciones, aprovechamientos y sus accesorios,
 Tercero. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma, pudiendo en su caso brindar facilidades administrativas.
 
 Cuarto. Las autoridades fiscales, mediante reglas de carácter general, establecerán las bases bajo las cuales los contribuyentes del Impuesto sobre Loterías, Rifas, Sorteos y Concursos deberán cumplir con la obligación de dictaminar el referido impuesto en términos de la presente reforma.
+
+G.O. 16 DE JULIO DE 2014
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Las multas previstas en los artículos 139, fracción IV, y 142 de la Ley Estatal de Protección Ambiental podrán aplicarse, al actualizarse alguna de las infracciones previstas en dichos preceptos, a partir del primero de enero de dos mil quince.
+
+TERCERO. La Secretaría y las autoridades competentes del Gobierno del Estado de Veracruz de Ignacio de la Llave realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivados del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
+
+QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
+
+SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
