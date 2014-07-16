@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-06-27"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -293,25 +293,57 @@ XVI. Promover criterios uniformes para el desarrollo policial, en términos de e
 
 XVII. Verificar que los elementos de las Instituciones Policiales del Estado se sometan a las evaluaciones de control de confianza y cuenten con el Certificado Único Policial, de conformidad con las disposiciones legales aplicables;
 
-XVIII. Definir criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las Instituciones Policiales y promover su aplicación;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XIX. Supervisar la actuación de las Instituciones Policiales del Estado, en la investigación de delitos, bajo el mando y conducción del ministerio público;
+XVIII. Solicitar al Centro las evaluaciones de control de confianza para el ingreso, promoción y permanencia de los elementos de la institución policial a su cargo, así como de los servidores públicos que deban también evaluarse;
 
-XX. Participar en la Conferencia Nacional de Secretarios de Seguridad Pública u órganos equivalentes;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XXI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Secretarios de Seguridad Pública;
+XIX. Solicitar a la Comisión de Honor y Justicia la instauración del procedimiento en contra del elemento policial o servidor público que no haya presentado o aprobado las evaluaciones de control de confianza;
 
-XXII. Coordinar y supervisar las acciones en materia de protección civil;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XXIII. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma;
+XX. Ejecutar la separación impuesta con motivo de la resolución correspondiente, a los elementos de la institución policial y a los servidores públicos que no hayan presentado o aprobado las evaluaciones de control de confianza;
 
-XXIV. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XXV. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las Instituciones Policiales del Estado;
+XXI. Definir criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las instituciones Policiales y promover su aplicación;
 
-XXVI. Proponer el contenido de los convenios de coordinación y asunción de la función de seguridad pública municipal; y
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XXVII. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XXII. Supervisar la actuación de las instituciones Policiales del Estado, en la investigación de delitos, bajo el mando y conducción del ministerio público;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXIII. Participar en la Conferencia Nacional de Secretarios de Seguridad Pública u órganos equivalentes;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXIV. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Secretarios de Seguridad Pública;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXV. Coordinar y supervisar las acciones en materia de protección civil;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXVI. Coordinar con el Instituto Mexiquense de la Pirotecnia, todas las acciones relacionadas con la misma;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXVII. Coordinar los servicios de seguridad, vigilancia y protección regional en caminos y carreteras estatales o vías primarias, zonas rurales, áreas de recreo y turísticas de competencia estatal, así como las instalaciones estratégicas del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXVIII. Emitir los acuerdos, instructivos, manuales de organización y de procedimientos, y demás normatividad que rija las actividades de las instituciones Policiales del Estado;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXIX. Proponer el contenido de los convenios de coordinación y asunción de la función de seguridad pública municipal; y
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
 
 B. En materia de reinserción social:
 
@@ -363,21 +395,49 @@ VII. Promover la capacitación de los cuerpos policiales estatales en materia de
 
 VIII. Verificar que los elementos de la Procuraduría se sometan a las evaluaciones de control de confianza, de conformidad con las disposiciones jurídicas aplicables;
 
-IX. Impulsar las acciones necesarias para promover la denuncia de los delitos y la participación de la comunidad en las actividades de procuración de justicia;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-X. Formular estrategias de coordinación en materia de combate a la corrupción, protección de personas y atención a víctimas y ofendidos de delitos;
+IX. Solicitar al Centro las evaluaciones de control de confianza para el ingreso, promoción y permanencia de los elementos de la institución policial a su cargo, así como de los servidores públicos que deban también evaluarse;
 
-XI. Proponer programas de cooperación con la Federación y las entidades federativas en materia de procuración de justicia;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XII. Promover la homologación de criterios para la regulación e instrumentación de la cadena de custodia de los indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito, de conformidad con los acuerdos de la Conferencia Nacional de Procuración de justicia;
+X. Solicitar a la Comisión de Honor y Justicia, la instauración del procedimiento en contra del elemento policial o servidor público que no haya presentado o aprobado las evaluaciones de control de confianza;
 
-XIII. Participar en la Conferencia Nacional de Procuración de Justicia;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XIV. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Procuración de Justicia;
+XI. Ejecutar la separación impuesta con motivo de la resolución correspondiente, a los elementos policiales y a los servidores públicos que no hayan aprobado las evaluaciones de control de confianza;
 
-XV. En casos excepcionales y por el tiempo que dure la contingencia, nombrar agentes del ministerio público, de la Policía Ministerial o peritos a personas con experiencia profesional, dispensándolos sólo de la presentación de los concursos de ingreso. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos exigidos por esta Ley, la Ley Orgánica y su Reglamento, quienes no ingresarán al Servicio de Carrera hasta en tanto acrediten los concursos y evaluaciones correspondientes; y
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XVI. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XII. Impulsar las acciones necesarias para promover la denuncia de los delitos y la participación de la comunidad en las actividades de procuración de justicia;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XIII. Formular estrategias de coordinación en materia de combate a la corrupción, protección de personas y atención a víctimas y ofendidos de delitos;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XIV. Proponer programas de cooperación con la Federación y las entidades federativas en materia de procuración de justicia;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XV. Promover la homologación de criterios para la regulación e instrumentación de la cadena de custodia de los indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito, de conformidad con los acuerdos de la Conferencia Nacional de Procuración de Justicia;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XVI. Participar en la Conferencia Nacional de Procuración de Justicia;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XVII. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Procuración de Justicia;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XVIII. En casos excepcionales y por el tiempo que dure la contingencia, nombrar agentes del ministerio público, de la Policía Ministerial o peritos a personas con experiencia profesional, dispensándolos sólo de la presentación de los concursos de ingreso. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos exigidos por esta Ley, la Ley Orgánica y su Reglamento, quienes no ingresarán al Servicio de Carrera hasta en tanto acrediten los concursos y evaluaciones correspondientes; y
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XIX. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernados (sic) del Estado.
 
 ### CAPÍTULO QUINTO. DEL SECRETARIO GENERAL DE GOBIERNO
 
@@ -463,17 +523,41 @@ XVII. Promover la capacitación, actualización y especialización de los elemen
 
 XVIII. Verificar que los elementos a su cargo se sometan a las evaluaciones de control de confianza y cuenten con el Certificado Único Policial, de conformidad con las disposiciones legales aplicables;
 
-XIX. Suscribir convenios de coordinación en materia de seguridad pública con otros Municipios del Estado o de otras entidades federativas, para cumplir con los fines de la seguridad pública, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XX. Vigilar la recepción de denuncias de hechos probablemente constitutivos de delito, remitiéndolas inmediatamente al ministerio público;
+XIX. Solicitar al Centro las evaluaciones de control de confianza para el ingreso, promoción y permanencia de los elementos de la institución policial a su cargo, así como de los servidores públicos que deban también evaluarse;
 
-XXI. Establecer las instancias de coordinación para la integración y funcionamiento del Sistema Nacional y del Sistema Estatal;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XXII. Participar en la Conferencia Nacional de Seguridad Pública Municipal, en caso de ser designado por el Consejo Estatal de Seguridad Pública;
+XX. Solicitar a la Comisión de Honor y Justicia, la instauración del procedimiento en contra del elemento policial o servidor público que no haya presentado o aprobado las evaluaciones de control de confianza;
 
-XXIII. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Seguridad Pública Municipal; y
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
 
-XIV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
+XXI. Ejecutar la separación impuesta con motivo de la resolución correspondiente, a los elementos de la institución policial y a los servidores públicos que no hayan aprobado las evaluaciones de control de confianza;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXII. Suscribir convenios de coordinación en materia de seguridad pública con otros Municipios del Estado o de otras entidades federativas, para cumplir con los fines de la seguridad pública, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXIII. Vigilar la recepción de denuncias de hechos probablemente constitutivos de delito, remitiéndolas inmediatamente al ministerio público;
+
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXIV. Establecer las instancias de coordinación para la integración y funcionamiento del Sistema Nacional y del Sistema Estatal;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXV. Participar en la Conferencia Nacional de Seguridad Pública Municipal, en caso de ser designado por el Consejo Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXVI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en la Conferencia Nacional de Seguridad Pública Municipal; y
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2014)</small>
+
+XXVII. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 22.
 
@@ -565,7 +649,7 @@ El Consejo Estatal determinará los mecanismos idóneos y las herramientas infor
 
 ###### Artículo 29.
 
-El Sistema Estatal deberá contribuir a la integración y buen funcionamiento del Sistema Nacional, y suministrará que éste (sic) la información que corresponda de manera inmediata, de conformidad con las disposiciones jurídicas aplicables.
+El Sistema Estatal deberá contribuir a la integración y buen funcionamiento del Sistema Nacional, y suministrará que éste la información que corresponda de manera inmediata, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 30.
 
@@ -2595,6 +2679,34 @@ Se sancionará con uno a dos años de prisión y de doscientos a quinientos día
 
 Las sanciones previstas en este Capítulo se impondrán sin perjuicio de las penas que correspondan por delitos previstos en otras leyes.
 
+> <small>(ADICIONADO, G.G. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 209.
+
+La Inspección General de las Instituciones de Seguridad Pública del Estado de México, en términos de la Ley de Responsabilidades, sancionará en tal caso, al Secretario, al Procurador y a los servidores públicos, que dentro del ámbito de su competencia tengan responsabilidades en materia de control de confianza, cuando:
+
+I. Omitan solicitar al Centro las evaluaciones para el ingreso, promoción y permanencia de los elementos policiales o servidores públicos, según corresponda.
+
+II. Omitan verificar que los elementos policiales o servidores públicos subsanen las restricciones que se señalaron en la evaluación aprobada en esos términos.
+
+III. No soliciten a la Comisión de Honor y Justicia competente, la instauración del procedimiento correspondiente en contra del elemento policial o servidor público que no haya presentado o aprobado las evaluaciones de control de confianza.
+
+IV. No ejecuten la separación impuesta con motivo de la resolución correspondiente, a los elementos de la institución policial y a los servidores públicos que no hayan aprobado las evaluaciones de control de confianza.
+
+Tratándose de presidentes municipales, la referida Inspección General dará vista a la Contraloría del Poder Legislativo, para la instauración del procedimiento administrativo disciplinario y la imposición, en su caso, de la sanción respectiva.
+
+> <small>(ADICIONADO, G.G. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 210.
+
+La sanción se aplicará en el siguiente orden y consistirá en:
+
+I. Sanción económica de quince días a seis meses del total del sueldo base presupuestal asignado, cuando se acredite el supuesto a que se refiere la fracción II del artículo anterior.
+
+II. La suspensión del empleo, cargo o comisión sin goce de sueldo, por un periodo no menor de tres días ni mayor a treinta días, cuando se acredite el supuesto a que se refiere la fracción I del artículo anterior.
+
+III. Destitución e inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años, cuando se acrediten los supuestos a que se refieren las fracciones III y IV del artículo anterior. Asimismo, cuando se incurra en reincidencia respecto de los supuestos previstos en las fracciones I y II del citado dispositivo jurídico.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
@@ -2704,3 +2816,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cualquier asunto en trámite se sustanciará hasta su conclusión, de conformidad con lo establecido en las disposiciones vigentes hasta antes de entrar en vigor el presente Decreto.
+
+G.G. 16 DE JULIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Secretario de Seguridad Ciudadana del Estado de México, el Procurador General de Justicia del Estado de México y los presidentes municipales deberán solicitar al Centro de Control de Confianza del Estado de México, las evaluaciones de aquellos elementos que no han sido evaluados, lo que deberán hacer dentro del plazo de 90 días posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El Ejecutivo del Estado y los ayuntamientos proveerán lo necesario, para la exacta observancia del presente Decreto, en la esfera administrativa que les corresponda.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
