@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2012-09-26"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -63,23 +63,49 @@ Para los efectos del presente ordenamiento, se reconoce al deporte en todas sus 
 
 Esta Ley y su Reglamento tienen por objeto establecer las bases generales de coordinación y colaboración entre la Federación, el Estado y los Municipios, así como de la concertación para la participación de los sectores social y privado en materia de Cultura Física y Deporte, teniendo las siguientes finalidades generales:
 
-I.- Fomentar el óptimo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- Elevar, por medio de la cultura física y el deporte, el nivel de vida social y cultural de los habitantes en el Estado y sus Municipios;
+I.- Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones.
 
-III.- Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-IV.- Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito;
+II.- Elevar la calidad de vida, el nivel social y cultural de los habitantes en el Estado y sus municipios, por medio de la activación física, la cultura física y el deporte.
 
-V.- Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-VI.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del doping, así como de otros métodos no reglamentarios;
+III.- Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, la cultura física y el deporte.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio primordial en la prevención de enfermedades, preservación de la salud y prevención del delito.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- Incentivar la inversión social y privada para el desarrollo de la activación física, la cultura física y el deporte, como complemento de la actuación pública.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Promover las medidas necesarias para prevenir, erradicar y sancionar todo acto de violencia, sin detrimento de las responsabilidades de orden penal y civil a que hubiere lugar.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI Bis. Reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI Ter. Prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje.
 
 VII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Deportivo-Recreativas, del deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII Bis. Incentivar la actividad deportiva que se desarrolla en forma organizada y programática, a través de las Asociaciones Deportivas Estatales y Municipales.
+
 VIII.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-IX.- Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IX.- Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil.
 
 X.- Que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad; y
 
@@ -97,17 +123,35 @@ III.- Reglamento: El Reglamento de la Ley de Cultura Física y Deporte del Estad
 
 IV.- Programa: El Programa Estatal de Cultura Física y Deporte;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV Bis.- Secretaría: Secretaría de Educación, Cultura y Deporte.
+
 V.- Sistema: El Sistema Estatal de Cultura Física y Deporte;
 
 VI.- Instituto: El Instituto Chihuahuense del Deporte y Cultura Física;
 
-VII.- Registro: El Registro Estatal del Deporte;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII.- Registro Estatal: El Registro Estatal de Cultura Física y Deporte.
 
 VIII.- Consejos: Los Consejos Estatales del Deporte Estudiantil;
 
-IX.- Comisión: La Comisión de Mediación y Arbitraje del Deporte Estatal; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-X.- CONADE: La Comisión Nacional de Cultura Física y Deporte.
+IX.- Comisión: Comisión de Apelación y Arbitraje del Deporte Estatal.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+X.- Comisión Especial: La Comisión Especial contra la Violencia en el Deporte Chihuahuense.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XI.- Consejo Estatal: El Consejo Estatal de Vigilancia Electoral Deportiva.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XII.- CONADE: La Comisión Nacional de Cultura Física y Deporte.
 
 ###### Artículo 4.
 
@@ -115,39 +159,103 @@ Para efecto de la aplicación de la presente Ley, se considerarán como definici
 
 I.- Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
 
-II.- Cultura Física: Conjunto de bienes como conocimientos, ideas, valores y elementos materiales, entre otros, que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Cultura Física: Conjunto de bienes, conocimientos, ideas, valores y elementos materiales, entre otros, que el hombre ha producido con relación al movimiento y uso de su cuerpo.
 
 III.- Actividad Física: Actos motores propios del ser humano, realizados como parte de sus actividades cotidianas;
 
 IV.- Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-V.- Deporte: Actividad institucionalizada y reglamentada, desarrollada en competencias que tiene por objeto lograr el máximo rendimiento, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones.
 
 VI.- Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII.- Deporte Social: El que promueve, fomenta y estimula el que todas las personas tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas, de salud o rehabilitación, sin distinción de origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VIII.- Deporte de Rendimiento: El que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento o, en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IX.- Deporte de Alto Rendimiento: El que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+X.- Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XI.- Evento Deportivo: Todo encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por estas y por los organismos rectores del deporte.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XII.- Evento Deportivo Masivo: Todo evento deportivo abierto al público en el que sin importar el número de personas que se encuentren reunidas, se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquel que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XIII.- Evento Deportivo con fines de espectáculo: Todo aquel en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 5.
 
-El Estado y los Municipios, dentro de sus respectivas jurisdicciones, promoverán las acciones necesarias para fomentar la cultura física y el deporte, de conformidad con las bases de coordinación previstas en la Ley General, esta Ley, sus Reglamentos y demás ordenamientos legales aplicables.
+El Estado y los Municipios, en el ámbito de su competencia, promoverán las acciones necesarias para fomentar la activación física, la cultura física y el deporte, de conformidad con las bases de coordinación previstas en la Ley General, esta Ley, sus Reglamentos y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 6.
 
-El Estado y los Municipios, en el ámbito de sus atribuciones, promoverán el adecuado ejercicio del derecho de todos los chihuahuenses a la cultura física y a la práctica del deporte.
+El Estado y los Municipios, en el ámbito de sus atribuciones, promoverán el adecuado ejercicio del derecho de todos los habitantes del Estado a la cultura física y a la práctica del deporte.
 
 ###### Artículo 7.
 
 Las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, deberán apoyar al Instituto en el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 8.
 
-El Instituto Chihuahuense del Deporte integrará el Programa Estatal de Deporte, que se sujetará a lo previsto en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, la Ley de Planeación del Estado de Chihuahua y el Reglamento de la presente Ley, especificará los objetivos, prioridades y políticas que normarán al sector.
+El Instituto integrará, en coordinación con la Secretaría, el Programa Estatal de Cultura Física y Deporte, que se sujetará a lo previsto en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y la Ley de Planeación del Estado de Chihuahua, mismo que deberá contener como mínimo lo siguiente:
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+I.- Definición de objetivos y metas.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Formulación de estrategias, a partir de criterios de coordinación institucional para el aprovechamiento de los recursos públicos y privados.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+III.- Diseño de políticas que aseguren la efectiva participación del sector privado en la actividad deportiva estatal.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Incorporación del plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; así como su rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los programas operativos anuales que garanticen su ejecución.
 
 ## TÍTULO II. DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ### CAPÍTULO PRIMERO
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 9.
 
-El Sistema Estatal de Cultura Física y Deporte se compone por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones Estatales y Municipales, así como los Consejos de Deporte Estudiantil Estatales reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
+El Sistema Estatal de Cultura Física y Deporte se compone por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones Estatales y Municipales, así como los Consejos de Deporte Estudiantil Estatales reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Tendrá como objeto asesorar en la elaboración del Programa, coordinar y dar seguimiento a la ejecución de las políticas públicas en la materia, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
 
 ###### Artículo 10.
 
@@ -161,29 +269,45 @@ III.- Dependencias y Entidades de la Administración Pública Estatal;
 
 IV.- Las Asociaciones Deportivas Estatales;
 
-VI (sic).- Los Consejos Estatales del Deporte Estudiantil; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-VII.- Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
+V.- Los Consejos Estatales del Deporte Estudiantil.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Las Asociaciones y Sociedades que estén reconocidas en términos de esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+A las sesiones del Sistema será invitada permanente, previa convocatoria, la Comisión de Juventud y Deporte del H. Congreso del Estado, la cual tendrá voz para opinar sobre los temas que se aborden.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 11.
 
-El Sistema deberá sesionar ordinariamente, cuando menos, una vez en cada año natural y de forma extraordinaria cuando así se amerite, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa. Dicho Programa deberá tomar en cuenta los acuerdos del sistema.
+El Sistema deberá sesionar ordinariamente, cuando menos, dos veces en cada año natural y de forma extraordinaria cuando así se amerite, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa. El Instituto tendrá la responsabilidad de integrar a dicho Programa los acuerdos del Sistema.
 
 ###### Artículo 12.
 
 El Sistema desarrollará las siguientes acciones:
 
-I.- Ejecutar las políticas para fomentar, promover y estimular el desarrollo de la cultura física y el deporte en el ámbito estatal;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+I.- Ejecutar las políticas para fomentar, promover y estimular el desarrollo y ejercicio de la cultura física y el deporte en el ámbito estatal.
 
 II.- Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del Sistema;
 
-III.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
+III.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad.
 
-V.- Formular el Programa Estatal de Cultura Física y Deporte y llevar a efecto las acciones que del mismo se deriven;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-VI.- Administrar el Registro Estatal del Deporte; y
+IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte.
+
+V.- (DEROGADA, P.O. 16 DE JULIO DE 2014)
+
+VI.- (DEROGADA, P.O. 16 DE JULIO DE 2014)
 
 VII.- Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
@@ -231,11 +355,11 @@ VI.- Los demás recursos, bienes y derechos que se adquieran o reciban por cualq
 
 La administración del Instituto estará a cargo de un órgano de gobierno denominado Junta Directiva y de las estructuras administrativas que se establezcan en el Reglamento correspondiente. Así mismo, tendrá un Director designado por el Titular del Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 19.
 
-La Junta Directiva a que se refiere el artículo anterior, estará integrada por los titulares de cada una de las siguientes dependencias de la administración centralizada:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Junta Directiva a que se refiere el artículo anterior, estará integrada por los titulares de las siguientes dependencias de la administración pública estatal:
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -243,25 +367,17 @@ a) Un Presidente, que será el Secretario de Educación, Cultura y Deporte;
 
 b) Un Secretario Técnico, que será el Director del Instituto Chihuahuense del Deporte y Cultura Física, quien participará con voz pero sin voto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 c) Secretario de Hacienda;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 d) Secretario de Desarrollo Urbano y Ecología;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 e) Secretario de Comunicaciones y Obras Públicas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -271,8 +387,6 @@ f) Secretario de Economía;
 
 g) Secretario de Desarrollo Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 h) Secretario de Salud.
@@ -281,19 +395,25 @@ h) Secretario de Salud.
 
 i) El Fiscal General del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 j) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 k) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-El Presidente de la Junta Directiva podrá invitar a participar con voz pero sin voto a personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JULIO DE 2014)</small>
+
+El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario Propietario o Suplente, designados por la Secretaría de la Contraloría, quienes participarán con voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+De la misma manera, podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la activación física, la cultura física y el deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JULIO DE 2014)</small>
 
 El cargo de miembro de la Junta Directiva será honorífico.
 
-Los miembros del Consejo, en el caso de los Titulares de las dependencias de Gobierno del Estado, podrán designar a sus respectivos suplentes, quienes, por lo menos, tendrán la categoría de Jefes de Departamento.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JULIO DE 2014)</small>
+
+Los integrantes del Consejo, en el caso de los Titulares de las dependencias de Gobierno del Estado, podrán designar a sus respectivos suplentes, quienes, por lo menos, deberán tener la categoría de Jefes de Departamento.
 
 ###### Artículo 20.
 
@@ -307,6 +427,10 @@ La Junta Directiva tendrá las siguientes facultades:
 
 I.- Establecer, en congruencia con el programa sectorial, las políticas estatales y definir las prioridades a las que deberá sujetarse el Instituto relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y el deporte;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+I Bis.- Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad.
+
 II.- Aprobar los programas y presupuesto del Instituto, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos del Estado de Chihuahua, bastará con la aprobación de la Junta Directiva;
 
 III.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director y en su caso los servidores públicos que deban intervenir, de conformidad con el Reglamento, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por la Junta Directiva;
@@ -315,13 +439,17 @@ IV.- Aprobar, a propuesta del Director, la estructura básica de la organizació
 
 V.- Autorizar la creación de comités de apoyo;
 
-VI.- Establecer, con sujeción a las disposiciones legales relativas y con la intervención que corresponda a las dependencias estatales, las normas y bases para el arrendamiento y enajenación de inmuebles, de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Establecer, con sujeción a las disposiciones legales relativas y con la intervención que corresponda a las dependencias estatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera para la prestación de sus servicios, de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley.
 
 VII.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director, con la intervención que corresponda a los Órganos de Control Estatal;
 
 VIII.- Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que realice el Instituto y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
 
-IX.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas del Estado, por conducto de la Coordinadora de Sector;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IX.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda del Estado, por conducto de la Coordinadora de Sector.
 
 X.- Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
 
@@ -334,6 +462,14 @@ XIII.- Formular los lineamientos que se estimen necesarios para racionalizar las
 XIV.- Aprobar, vigilar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazo que sean elaborados por el Director;
 
 XV.- Evaluar los presupuestos del Instituto, en concordancia con el Plan Estatal de Desarrollo, los Programas Sectoriales y demás disposiciones relativas;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XV Bis.- Aprobar los anteproyectos y proyecto de presupuesto del Instituto que habrán de presentarse ante la Secretaría de Hacienda, por conducto de la Coordinadora de Sector.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XV Ter.- Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas del Instituto.
 
 XVI.- Vigilar que el Instituto conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Estatal de Planeación;
 
@@ -355,9 +491,27 @@ XXIV.- Aprobar las medidas que proponga el Director para atender los informes qu
 
 XXV.- Delegar facultades a favor del Director o a favor de Delegados Especiales;
 
-XXVI.- Ejercer las facultades que la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, la Ley de Entidades Paraestatales del Estado de Chihuahua y demás disposiciones relativas le asignen; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXVI.- Ejercer las facultades que la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, la Ley de Entidades Paraestatales del Estado de Chihuahua y demás disposiciones relativas le asignen.
 
 XXVII.- Determinar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar por concesionarse u otorgarse en uso las instalaciones a su cargo a los particulares o a otros entes de carácter público.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXVIII.- Autorizar al Director para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Instituto, de conformidad con las disposiciones legales o reglamentarias aplicables.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXIX.- Autorizar al Director, con las limitaciones que al efecto se precisen, para que este pueda emitir, avalar y negociar títulos de crédito a nombre de Instituto.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXX.- Autorizar al Director, con las limitaciones que al efecto se determinen, para que este pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre del Instituto y bajo su responsabilidad.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXI.- Autorizar al Director para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre del Instituto.
 
 ###### Artículo 22.
 
@@ -395,21 +549,19 @@ XIII.- Coordinar todas las acciones administrativas y operativas del Instituto, 
 
 XIV.- Aprobar, dentro de su ámbito de atribuciones, las estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+XV.- Formular y someter a la autorización de la Junta Directiva el Programa Presupuestal y Financiero Anual del Instituto, con excepción de aquel que deberá presentarse a la Secretaría de Hacienda para integrar el Presupuesto de Egresos del Estado de Chihuahua.
 
-XV.- Formular y someter a la autorización de la Junta Directiva el Programa Presupuestal y Financiero Anual del Instituto, con excepción de aquel que deberá presentarse a la Secretaría de Finanzas y Administración para integrar el Presupuesto de Egresos del Estado de Chihuahua;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
-
-XVI.- Una vez aprobado el Programa Presupuestal y Financiero Anual el (sic) Instituto, remitirlo a la Secretaría de Finanzas y Administración, incluyendo la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente;
+XVI.- Una vez aprobado el Programa Presupuestal y Financiero Anual del Instituto, remitirlo a la Secretaría de Hacienda, incluyendo la parte correspondiente a la suscripción de créditos externos para su autorización en términos de la Ley correspondiente.
 
 XVII.- Validar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos trascendentes que regulen el funcionamiento del Instituto, así como las reformas y adiciones a dichos ordenamientos legales y someterlos a la aprobación de la Junta Directiva;
 
-XVIII.- Emitir y negociar títulos de crédito a nombre del Instituto, de acuerdo a la autorización que para tal fin le haya otorgado la Junta Directiva;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XVIII.- Emitir, avalar y negociar títulos de crédito a nombre del Instituto, de acuerdo a la autorización que para tal fin le haya otorgado la Junta Directiva.
 
 XIX.- Informar, siempre que sea requerido para ello por el H. Congreso del Estado, cuando se discuta un proyecto de ley o se estudie un asunto del ámbito de competencia del Instituto;
 
@@ -433,9 +585,35 @@ XXVIII.- Celebrar y suscribir convenios de coordinación, colaboración y concer
 
 XXIX.- Otorgar poderes o mandatos generales y especiales con las facultades que les competan a los mandatarios, de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva;
 
-XXX.- Sustituir y revocar poderes generales o especiales, en los términos aprobados por la Junta Directiva; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XXXI.- Las que señalen otras Leyes, Reglamentos, Decretos, acuerdos y demás ordenamientos legales aplicables.
+XXX.- Sustituir y revocar poderes generales o especiales, en los términos aprobados por la Junta Directiva.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXI.- Establecer las instancias de asesoría, coordinación y consulta que estimen necesarias para el adecuado funcionamiento del Instituto.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXII.- Formular querellas y otorgar perdón a nombre del Instituto.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXIII.- Ejercitar y desistirse de acciones judiciales inclusive del Juicio de Amparo a nombre del Instituto, previa autorización que para su ejercicio le haya conferido la Junta Directiva.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXIV.- Comprometer asuntos en arbitrajes y celebrar transacciones bajo su responsabilidad y de acuerdo con la autorización que para tal efecto le haya otorgado la Junta Directiva.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXXV.- Las que señalen otras Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+El Director tendrá, además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al Instituto como mandatario del mismo.
 
 ###### Artículo 24.
 
@@ -451,13 +629,25 @@ La actuación de los Comisarios se ajustará en todo caso a lo dispuesto por la 
 
 El Instituto tendrá las siguientes atribuciones:
 
-I.- Convocar al Sistema, con la participación que corresponda a las Dependencias y Entidades del sector público y a las instituciones de los sectores social y privado;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física y deporte;
+I.- Las que conforme a los ordenamientos legales aplicables le correspondan a la Secretaría en materia de cultura física y deporte, excepto aquellas que por disposición expresa competan en exclusiva a esta última.
 
-III.- Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y el deporte;
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
-IV.- Integrar el Programa Estatal de Cultura Física y Deporte;
+I Bis.- Convocar al Sistema, con la participación que corresponda a las Dependencias y Entidades del sector público y a las instituciones de los sectores social y privado.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte, incluidas sus manifestaciones social y de rendimiento.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+III.- Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Integrar, en coordinación con la Secretaría, el Programa Estatal de Cultura Física y Deporte.
 
 V.- Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales, sin contravenir lo dispuesto por las reglas nacionales;
 
@@ -471,13 +661,21 @@ IX.- Promover el desarrollo de los programas de formación, capacitación, actua
 
 X.- Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
 
-XI.- Integrar y actualizar el Registro;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XII.- Definir los lineamientos para la prevención y control en el uso de sustancias prohibidas y métodos no reglamentarios en el deporte;
+XI.- Integrar y actualizar el Registro Estatal.
 
-XIII.- Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación o deporte dentro del territorio Estatal, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas que para tal efecto expida la dependencia con competencia en la materia;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XIV.- Otorgar el registro correspondiente a las Asociaciones y Sociedades que en el ámbito estatal tengan como objeto fomentar, desarrollar, promover, investigar, difundir e impulsar actividades de cultura física o deporte, así como sancionar sus estatutos;
+XII.- Definir los lineamientos para la lucha contra el dopaje en el deporte y la prevención de la violencia en el deporte.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XIII.- Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física, recreación, rehabilitación o deporte dentro del territorio Estatal, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XIV.- Otorgar el registro correspondiente a las Asociaciones y Sociedades a que hace referencia esta Ley, así como sancionar sus estatutos y promover la práctica institucional y reglamentada del deporte a través de las Asociaciones Deportivas Estatales.
 
 XV.- Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del Sistema;
 
@@ -487,9 +685,13 @@ XVII.- Diseñar y establecer los criterios para asegurar la uniformidad y congru
 
 XVIII.- Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
 
-XIX.- Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XX.- Formular programas para promover la cultura física y deporte entre las personas con discapacidad y adultos en plenitud;
+XIX.- Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XX.- Formular programas para promover la cultura física y deporte entre las personas con discapacidad y adultos mayores.
 
 > <small>(ADICIONADA, P.O. 4 DE ENERO DE 2006)</small>
 
@@ -497,7 +699,37 @@ XXI.- Ejercer las atribuciones que le confiere la ley en las materias de obra p�
 
 XXI.- Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
-XXII.- Las demás que esta Ley u otras disposiciones legales determinen.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXII.- Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXIII.- Promover la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXIV.- Atender y orientar permanentemente a las Asociaciones Deportivas Estatales y Organismos Afines en la creación y actualización de su estructura, así como brindar la asesoría necesaria para que sus estatutos no contravengan lo dispuesto en la presente Ley y en su Reglamento.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXV.- Vigilar y asegurar, a través del Consejo Estatal, que los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales y Organismos Afines, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal les son delegadas, se realicen con estricto cumplimiento de las disposiciones legales y estatutarias vigentes.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXVI.- Supervisar que las actividades que realicen las Asociaciones Deportivas Estatales y Organismos Afines, se efectúen conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXVII.- Verificar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus asociados, deportistas, órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXVIII.- Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Estatales.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XXIX.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2006)</small>
 
@@ -579,7 +811,9 @@ Los sistemas municipales coordinarán sus actividades para aplicar las política
 
 Los Municipios ejercerán las facultades derivadas de sus propias atribuciones de promoción de la cultura física y deporte.
 
-#### SECCIÓN TERCERA. DE LAS BASES DE COORDINACIÓN, COLABORACIÓN Y CONCERTACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2014)</small>
+
+#### SECCIÓN TERCERA. DE LA CONCURRENCIA, COORDINACIÓN, COLABORACIÓN Y CONCERTACIÓN
 
 ###### Artículo 37.
 
@@ -605,15 +839,51 @@ VI.- Establecer procedimientos de promoción en materia de cultura física y dep
 
 VII.- Las demás que le señalen este u otros ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 38 Bis.
+
+La coordinación y colaboración entre autoridades de los tres órdenes de gobierno, respecto de la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y por su homóloga en el ámbito Estatal, será subsidiaria y se sujetará a lo siguiente:
+
+I.- Los organizadores, participantes, asistentes, aficionados o espectadores y en general los usuarios de las instalaciones deportivas, atenderán las disposiciones en materia de seguridad y protección civil, así como las indicaciones que emitan las autoridades competentes en dichas materias, a fin de garantizar que los eventos deportivos se realicen de manera ordenada y preservar la integridad de las personas y los bienes.
+
+II.- Para preservar la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán acatar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en que se realice el evento.
+
+La seguridad en la cancha o área de competencia, en vestidores y baños para jugadores, así como en los corredores que los comuniquen, será responsabilidad exclusiva de los organizadores y asociaciones o sociedades deportivas que avalen el evento; los cuerpos de seguridad pública de los diversos órdenes de gobierno, a petición expresa de aquellos, podrán resguardar dichos recintos, salvo que su intervención sea indispensable para salvaguardar la vida o integridad de los jugadores y demás personas que se encuentren en las áreas referidas, así como de los bienes.
+
+III.- La seguridad en los alrededores de los recintos deportivos corresponderá a las autoridades municipales, en términos que dispongan las leyes aplicables.
+
+IV.- Para garantizar la seguridad en las áreas que se especifiquen, de acuerdo con la naturaleza del evento de que se trate, las autoridades estatales y federales tendrán la intervención que les corresponda, a solicitud de las autoridades municipales.
+
+V.- Para participar en la planeación y desarrollo del evento, los organizadores y autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial. Dichos representantes podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+
+VI.- Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública.
+
+VII.- En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones.
+
+VIII.- Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse.
+
+IX.- Las autoridades de los tres órdenes de gobierno capacitarán a los cuerpos policiales y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones, así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido.
+
+X.- La Ley sobre el Sistema Estatal de Seguridad Pública preverá los mecanismos de coordinación para la más eficaz prestación del servicio de seguridad pública entre el Estado y sus municipios, a fin de garantizar el desarrollo pacífico de los eventos deportivos.
+
+Para los efectos de este artículo se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 39.
 
-La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado y los municipios entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
+La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de los tres órdenes de gobierno entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos aplicables.
 
-#### SECCIÓN CUARTA. DE LA COMISIÓN DE MEDIACIÓN Y ARBITRAJE DEL DEPORTE ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2014)</small>
+
+#### SECCIÓN CUARTA. DE LA COMISIÓN DE APELACIÓN Y ARBITRAJE DEL DEPORTE ESTATAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 40.
 
-La Comisión es un órgano colegiado, de constitución accidental, dependiente del Instituto, cuyo objeto es fungir como mediador o árbitro en las controversias que se susciten entre deportistas, entrenadores y directivos, de acuerdo con la organización y competencia que esta Ley establece.
+La Comisión es un órgano colegiado, de constitución incidental, dependiente de la Secretaría, cuyo objeto es resolver el recurso de apelación que se interponga en los casos y términos previstos en esta Ley y su Reglamento, así como fungir como Panel de Arbitraje, o coadyuvar en las mediaciones y conciliaciones, respecto de las controversias de naturaleza jurídica deportiva que se susciten o puedan suscitarse entre deportistas, entrenadores, directivos, autoridades, entidades u organismos deportivos, con la organización y competencia que esta Ley establece; dotado de plena jurisdicción y autonomía para dictar sus acuerdos, laudos y resoluciones e independiente de las autoridades administrativas.
 
 Los conflictos planteados deberán referirse a la materia deportiva o de cultura física, no corresponder a la jurisdicción exclusiva de autoridad diversa, de conformidad con otras leyes, y tratarse de derechos que se encuentren dentro de la libre disposición de los mediados.
 
@@ -621,29 +891,69 @@ Los conflictos planteados deberán referirse a la materia deportiva o de cultura
 
 La Comisión tendrá las siguientes atribuciones:
 
-I.- Conocer y resolver mediante el procedimiento de mediación, sobre las controversias que se susciten entre deportistas, entrenadores, directivos y cualquier persona, independientemente de que sean o no miembros del Sistema;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- Intervenir como árbitro para dirimir las controversias que se susciten como consecuencia de la promoción, organización y desarrollo de actividades deportivas y entre los deportistas o demás participantes en éstas, independientemente de que las partes pertenezcan o no al Sistema; y
+I.- Conocer y resolver mediante el recurso de apelación, las impugnaciones planteadas por cualquier persona física o moral inscrita en el Registro Estatal o cualquiera de los miembros del Sistema, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades u organismos deportivos, que afecten los derechos deportivos establecidos a favor del apelante en la presente Ley o en los reglamentos y demás disposiciones que de ella emanen.
 
-III.- Las demás que establezca la presente Ley y otras disposiciones reglamentarias.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+El impugnante podrá optar entre agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Intervenir como panel de arbitraje en las controversias que se susciten o puedan suscitarse entre deportistas, entrenadores, directivos, autoridades, entidades u organismos deportivos, o entre unos y otros, de conformidad con el Reglamento que se expida para tal efecto.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+III.- Conceder la suspensión provisional y, en su caso, definitiva, del acto impugnado dentro del trámite del recurso de apelación.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Efectuar la suplencia de la deficiencia de la queja dentro del trámite del recurso de apelación, cuando el impugnante no sea directivo, autoridad, entidad u organismo deportivo.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- Fungir como conciliador dentro del trámite del recurso de apelación.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Coordinar un área de mediación y conciliación con la participación de personal calificado y, en su caso, de mediadores o conciliadores independientes, para permitir la solución de controversias que se susciten o puedan suscitarse entre deportistas, entrenadores, directivos, autoridades, entidades u organismos deportivos, o entre unos y otros, de conformidad con el Reglamento que se expida para tal efecto.
+
+Para efectos de esta fracción, se entiende por mediación la función de establecer comunicación y negociación entre las partes para prevenir o resolver un conflicto, y por conciliación el método para proponer a las partes, alternativas concretas de solución para que resuelvan de común sus diferencias.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII.- Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar y ejecutar o que no acaten y ejecuten en sus términos, los acuerdos, decisiones, laudos y resoluciones emitidos por la propia Comisión.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VIII.- Las demás que establezca la presente Ley y otras disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 42.
 
-La Comisión se integrará accidentalmente por un Pleno de tres miembros, cada vez que una solicitud de resolución de conflictos se presente ante el Instituto, y desaparecerá una vez que haya terminado su función, de acuerdo a los procedimientos de mediación o arbitraje.
+La Comisión se integrará por un Pleno, por las unidades administrativas y Oficinas Municipales necesarias para el cabal desempeño de sus funciones.
 
-El Pleno se compondrá por un Presidente y dos Miembros Titulares con sus respectivos suplentes.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
-El Titular del Instituto designará al Presidente y a los Miembros Titulares y suplentes de la Comisión, de entre los integrantes del Consejo Consultivo del referido Instituto, en los términos que señale el Reglamento.
+El Pleno se integrará por un Presidente y cuatro Miembros Titulares. Corresponderá al Ejecutivo Estatal su designación.
 
-Para el cumplimiento de sus funciones, el Pleno de la Comisión contará con el apoyo del órgano jurídico del Instituto.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
-El Instituto, por conducto de su órgano jurídico, estará encargado de llevar un registro de cada integración de la Comisión, de sus miembros titulares y suplentes, del problema planteado, de la vía elegida para resolverlo y de la resolución correspondiente.
+Los nombramientos antes citados, deberán recaer en personas con profesión de Licenciado en Derecho, amplio conocimiento del ámbito deportivo, así como reconocido prestigio y calidad moral.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
+El Presidente y los Miembros Titulares de la Comisión, durarán tres años en su encargo, pudiendo ser reelectos para un periodo más.
+
+> <small>(DEROGADO PÁRRAFO QUINTO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 43.
 
 El Pleno de la Comisión requerirá para la celebración de sus sesiones de la mayoría de sus miembros integrantes.
 
-Los convenios obtenidos en los procedimientos de mediación, así como las resoluciones en materia de arbitraje, tendrán los efectos de una transacción y serán sancionados y aprobados en los términos de la ley de la materia.
+> <small>(DEROGADO PÁRRAFO SEGUNDO, P.O. 16 DE JULIO DE 2014)</small>
 
 En caso de que no se arribe a una resolución satisfactoria en el procedimiento de mediación, se dejará a las partes en aptitud de ejercer sus derechos por las vías legales que procedan.
 
@@ -651,23 +961,67 @@ En caso de que no se arribe a una resolución satisfactoria en el procedimiento 
 
 En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros del Pleno, a elección de las partes, asumirá sus funciones temporalmente.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 44-A.
+
+El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 44-B.
+
+La tramitación y resolución del recurso de apelación a que hace referencia esta Sección, se sujetará a los requisitos y condiciones siguientes:
+
+I.- Se interpondrá por escrito, por comparecencia o a través de medios electrónicos, ópticos o de cualquier otra tecnología, dentro de los quince días hábiles siguientes al que surta efectos la notificación o se tenga conocimiento del acto, omisión, decisión, acuerdo o resolución impugnado, debiéndose señalar la autoridad, organismo o entidad que lo emitió o que fue omiso en su realización, acompañando en su caso, el documento original que lo contenga y su constancia de notificación, así como señalando los hechos y agravios que se le causaron, y ofreciendo las pruebas que acrediten dichos hechos y agravios.
+
+Si la interposición del recurso de apelación se hace por medios electrónicos, ópticos o de cualquier otra tecnología, el apelante deberá ratificar dicho recurso por escrito y exhibir la documentación a que hace referencia el párrafo anterior, dentro de los tres días hábiles siguientes al de su interposición.
+
+II.- La Comisión, dentro de los cinco días hábiles siguientes a la recepción del escrito o de la comparecencia, por la que se interpuso el recurso de apelación o, en su caso, a la ratificación del recurso, acordará sobre la prevención, admisibilidad o no del recurso.
+
+Si el recurso fuera oscuro o irregular, o no cumpliera con alguno de los requisitos establecidos en la fracción anterior, se prevendrá al apelante para que dentro del término de tres días hábiles subsane los defectos. De no hacerlo transcurrido el término, la Comisión lo tendrá por no admitido y devolverá al apelante todos los documentos que haya presentado.
+
+Una vez admitido el recurso, se correrá traslado al apelado para que dentro del término de cinco días hábiles siguientes a que surta efectos la notificación correspondiente, rinda un informe por escrito justificando el acto, omisión, decisión, acuerdo o resolución impugnado, ofreciendo las pruebas que correspondan.
+
+En el acuerdo que determine la admisibilidad del recurso de apelación se citará a las partes a una audiencia de conciliación dentro de los diez días hábiles siguientes, la que se llevará a cabo concurran o no las partes.
+
+III.- Admitido el recurso de apelación, la Comisión podrá conceder la suspensión provisional y en su caso definitiva del acto impugnado o de la resolución materia de la apelación, siempre y cuando lo justifique el apelante, no se trate de actos consumados, no se ponga en riesgo a la comunidad de la disciplina deportiva respectiva, ni se contravengan disposiciones de orden público. La Comisión podrá revocar en cualquier momento esta suspensión, cuando cambien las condiciones de su otorgamiento.
+
+IV.- En la audiencia de conciliación, se escuchará a las partes en conflicto y, de ser posible, la Comisión propondrá una solución al mismo, que podrá ser aceptada por ambas partes, mediante la celebración de un convenio que tendrá los efectos de una resolución definitiva emitida por la Comisión. En caso de que las partes no quisieran conciliar, se continuará con la secuela del procedimiento, pronunciándose sobre la admisión de las pruebas ofrecidas por las partes, y citándolas a una audiencia de desahogo de pruebas y alegatos, dentro de los diez días hábiles siguientes, la que se llevará a cabo concurran o no las partes.
+
+V.- En la audiencia de pruebas y alegatos se desahogarán las que hayan sido admitidas, de ser posible en un solo día. Acto seguido, en su caso las partes formularán alegatos y se citará para la resolución definitiva que deberá emitir el Pleno de la Comisión en ese momento, o dentro de los quince días hábiles siguientes, en razón de lo voluminoso del expediente.
+
+VI.- Las notificaciones se podrán hacer a las partes por correspondencia o mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología. Asimismo, se podrán utilizar dichos medios para la administración de los expedientes formados con motivo del recurso de apelación.
+
+VII.- Las resoluciones definitivas emitidas por la Comisión no admitirán recurso alguno en el ámbito deportivo, agotarán la vía administrativa, serán obligatorias y se ejecutarán, en su caso, a través de la autoridad, entidad u organismo que corresponda, que será responsable de su estricto y efectivo cumplimiento.
+
+VIII.- En todo lo no previsto en esta Ley y su Reglamento para la substanciación del recurso de apelación, la Comisión aplicará supletoriamente lo dispuesto por el Código de Procedimientos Civiles del Estado.
+
 ###### Artículo 45.
 
-El Titular del Poder Ejecutivo Estatal expedirá las normas reglamentarias a las que se sujetarán los procedimientos de mediación y arbitraje, así como de la integración y funcionamiento de la Comisión.
+(DEROGADO, P.O. 16 DE JULIO DE 2014)
 
 ### CAPÍTULO TERCERO. DE LOS SECTORES SOCIAL Y PRIVADO
 
 #### SECCIÓN PRIMERA. DE LAS ASOCIACIONES Y SOCIEDADES DEPORTIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 46.
 
-El Estado reconocerá y estimulará las acciones de organización y promoción desarrolladas por las Asociaciones y Sociedades Deportivas, a fin de asegurar el acceso de la población a la práctica de la cultura física y el deporte.
+El Estado reconocerá y estimulará las acciones de organización y promoción desarrolladas por las Asociaciones y Sociedades Deportivas, a fin de asegurar el acceso de la población a la práctica de la activación física, la cultura física y el deporte.
 
 En el ejercicio de sus respectivas funciones en materia de cultura física y deporte, el sector público, social y privado se sujetará en todo momento, a los principios de colaboración responsable entre todos los interesados.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 47.
 
-Serán registradas por el Instituto como Asociaciones Deportivas las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+Serán registradas por el Instituto como Asociaciones Deportivas las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promuevan, difundan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
 
 ###### Artículo 48.
 
@@ -679,15 +1033,33 @@ Para los efectos de la presente Ley, las Asociaciones Deportivas Estatales, se c
 
 I.- Equipos o clubes deportivos;
 
-II.- Ligas deportivas; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Ligas deportivas.
 
 III.- Asociaciones Estatales, Municipales o Regionales.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Organismos Afines.
 
 ###### Artículo 50.
 
 Para los fines y propósitos de la presente Ley se reconoce la participación de los Consejos, para incrementar la práctica deportiva de los estudiantes y elevar su nivel de rendimiento físico.
 
 Los Consejos son asociaciones civiles, constituidas por universidades públicas o privadas, tecnológicos, escuelas normales, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes, los programas emanados del Instituto entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de Asociaciones Deportivas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Serán considerados Organismos Afines las asociaciones civiles que realicen actividades cuyo fin no implique la competencia deportiva, pero que tengan por objeto realizar actividades vinculadas con el deporte en general y a favor de las Asociaciones Deportivas Estatales en particular, con carácter de investigación, difusión, promoción, apoyo, fomento, estímulo y reconocimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+A los Organismos Afines les será aplicable lo dispuesto para las Asociaciones Deportivas Estatales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Para los efectos de la presente Ley, se reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con discapacidad y al deporte para personas adultas mayores.
 
 ###### Artículo 51.
 
@@ -709,7 +1081,9 @@ Las Asociaciones y Sociedades Deportivas Estatales deberán observar los lineami
 
 La presente Ley reconoce a las Asociaciones Deportivas Estatales, por lo que todo lo previsto en esta Ley para dicho efecto, les será aplicable.
 
-Las Asociaciones Deportivas Estatales regularán su estructura interna y funcionamiento a través de sus Estatutos, en los términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Las Asociaciones Deportivas Estatales regularán su estructura interna y funcionamiento a través de sus Estatutos Sociales, en los términos de la legislación civil, el presente ordenamiento y su Reglamento, observando en todo momento los principios de democracia, representatividad, equidad, legalidad, transparencia y rendición de cuentas.
 
 ###### Artículo 55.
 
@@ -723,6 +1097,26 @@ II.- Actuar, en coordinación con sus asociados, en la promoción general de su 
 
 III.- Colaborar con las Administraciones Federal, Estatal y Municipales en la formación de técnicos deportivos y en la prevención, control y represión del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Colaborar con la administración pública federal, estatal y municipal en el control, disminución y prevención de la obesidad, así como las enfermedades que provoca.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- Colaborar con la administración pública estatal y municipal en la prevención de la violencia en el deporte y eventos o espectáculos públicos o privados en materia de activación física, cultura física o deporte.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Actuar como el organismo rector de su disciplina deportiva, en todas sus categorías, especialidades y modalidades en el Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII.- Representar oficialmente al Estado ante sus respectivas federaciones deportivas nacionales.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VIII.- Ejercer la potestad disciplinaria en los términos establecidos en la presente Ley, su Reglamento y demás ordenamientos aplicables.
+
 ###### Artículo 56.
 
 Las Asociaciones Deportivas Estatales son la máxima instancia técnica de su disciplina en la Entidad y deberán representar a un solo deporte en todas sus modalidades y especialidades, en los términos del reconocimiento de su respectiva Asociación Deportiva Nacional.
@@ -735,17 +1129,59 @@ Las Asociaciones Deportivas Estatales se rigen por lo dispuesto en la presente L
 
 Las Asociaciones Deportivas Estatales que soliciten su registro deberán cumplir los siguientes requisitos:
 
-I.- Existencia de interés deportivo estatal o nacional de la disciplina;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- La existencia de competiciones de ámbito nacional con un número significativo de participantes;
+I.- Existencia de interés deportivo estatal o nacional de la disciplina. En caso de los deportes autóctonos deberá reflejar el interés deportivo regional.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- La existencia de competiciones de ámbito nacional con un número significativo de participantes, salvo en el caso de deportes autóctonos.
 
 III.- Representar mayoritariamente una especialidad deportiva en el Estado;
 
-IV.- Prever en sus estatutos la facultad del Estado de fiscalizar la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de los programas operados con los mencionados recursos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
 
-V.- Contar con la afiliación a una Asociación Deportiva Nacional reconocida por las Federaciones Deportivas Internacionales; y
+IV.- Contemplar en sus estatutos, además de lo señalado en la legislación civil correspondiente, lo siguiente:
 
-VI.- Las demás que prevea éste y otros ordenamientos aplicables.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+a) Órganos de dirección, de administración, de auditoría, de evaluación de resultados y de justicia deportiva, así como sus respectivas atribuciones, sin perjuicio de las demás que se establezcan en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+b) Tipo y número de asambleas que se realizarán durante el año, indicando las materias que en ellas podrán tratarse, y el quórum para sesionar.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+c) Procedimiento y quórum para reforma de estatutos y adopción de acuerdos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+d) El reconocimiento de las facultades del Instituto por conducto del Consejo Estatal, establecidas en la presente Ley y su Reglamento en materia de vigilancia de los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal le son delegadas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+e) Normas sobre administración patrimonial y forma de fijar cuotas de los asociados.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+f) Mecanismos de apoyo para sus deportistas afiliados, dirigidos a todos aquellos trámites que se requieran para su participación en competiciones nacionales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+g) El reconocimiento de la facultad del Instituto de fiscalizar la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de los programas operados con los mencionados recursos.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- Contar con la afiliación a una Asociación Deportiva Nacional reconocida por las Federaciones Deportivas Internacionales.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Estar reconocida conforme a la presente Ley.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII.- Las demás que prevea este y otros ordenamientos aplicables.
 
 Quedarán exentos del cumplimiento de lo dispuesto por la fracción V de este artículo, en cuanto a la sujeción a una Federación Deportiva Internacional, las Asociaciones Estatales de Charrería y Juegos y Deportes Autóctonos.
 
@@ -760,6 +1196,38 @@ Las Asociaciones Deportivas Estatales serán las únicas facultadas para convoca
 ###### Artículo 61.
 
 Para la realización de competiciones deportivas oficiales nacionales, dentro del territorio estatal, las Asociaciones Deportivas Estatales tienen la obligación de registrarlas ante el Instituto, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el Reglamento de la presente Ley; así mismo, deberán cumplir y apegarse a lo dispuesto por los lineamientos expedidos en términos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 61-A.
+
+Con el fin de garantizar el cumplimiento efectivo de las funciones que como colaboradoras de la administración pública estatal les son delegadas a las Asociaciones Deportivas Estatales en términos de la presente Ley, el Instituto, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 61-B.
+
+Los procesos electorales de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales serán vigilados por el Instituto a través del Consejo Estatal.
+
+El Consejo Estatal estará adscrito orgánicamente al Instituto y velará de forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
+
+En caso de que exista alguna controversia en cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales, el Consejo Estatal deberá resolver sobre el particular, de acuerdo con el procedimiento establecido en el Reglamento de esta Ley y los demás ordenamientos aplicables, garantizando el derecho de audiencia de los interesados.
+
+Las resoluciones definitivas dictadas por el Consejo Estatal, en relación con la solución de las controversias a que se refiere el párrafo anterior, podrán ser impugnadas mediante el recurso de apelación ante la Comisión.
+
+La Comisión Estatal, terminado el proceso electoral respectivo, expedirá la constancia que corresponda.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 61-C.
+
+la Comisión Estatal se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos suplentes, designados por la Junta Directiva del Instituto.
+
+La designación deberá recaer en personas con profesión de Licenciado en Derecho, conocimiento en el ámbito deportivo, así como reconocido prestigio y calidad moral.
+
+El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su encargo, pudiendo ser ratificados por un periodo más.
+
+El funcionamiento, integración y operación de la Comisión Estatal estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 #### SECCIÓN TERCERA. DE OTRAS ASOCIACIONES Y SOCIEDADES
 
@@ -783,15 +1251,27 @@ En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar
 
 Cualquier órgano, ya sea público o privado, de los reconocidos en esta Sección, que reciba recursos del erario público, deberá presentar un informe semestral sobre la aplicación de los mismos y estarán sujetos a las auditorías financieras y evaluaciones que determine el Instituto.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+De igual forma, deberán rendir al Instituto un informe anual sobre las actividades realizadas y los resultados estatales y nacionales alcanzados, y acompañar al mismo el programa de trabajo para el siguiente ejercicio.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+El Instituto presentará al Congreso del Estado un informe semestral de los resultados alcanzados en la materia.
+
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ## TÍTULO III. DEL DEPORTE PROFESIONAL
 
 ### CAPÍTULO PRIMERO. DE LA INFRAESTRUCTURA
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 67.
 
-Se entiende como deporte profesional a las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realicen con fines de lucro.
+Se entiende por deporte profesional aquel en el que el deportista se sujeta a una relación de trabajo, obteniendo una remuneración económica por su práctica.
 
 ###### Artículo 68.
 
@@ -807,15 +1287,65 @@ El Instituto coordinará y promoverá la constitución de Comisiones Estatales d
 
 ## TÍTULO IV. DE LA CULTURA FÍSICA Y EL DEPORTE
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 70-A.
+
+En la Entidad se promoverá, fomentará y estimulará la cultura física en todos los niveles y grados de educación y enseñanza del Estado como factor fundamental del desarrollo armónico e integral del ser humano.
+
+Los gobiernos estatal y municipales se coordinarán, en el ámbito de sus respectivas competencias, involucrando la participación de los sectores social y privado, para realizar las acciones generales siguientes:
+
+I.- Difundir programas y actividades que den a conocer los contenidos y valores de la cultura física y deportiva.
+
+II.- Promover, fomentar y estimular las actividades de cultura física con motivo de la celebración de competiciones o eventos deportivos.
+
+III.- Promover, fomentar y estimular las investigaciones sobre la cultura física y los resultados correspondientes.
+
+IV.- Promover, fomentar y estimular el desarrollo de una cultura deportiva nacional que haga del deporte un bien social y un hábito de vida.
+
+V.- Difundir el patrimonio cultural deportivo.
+
+VI.- Promover certámenes, concursos o competiciones de naturaleza cultural deportiva.
+
+VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
+
+Los Juegos Tradicionales, los Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo del país y del Estado. La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 70-B.
+
+El Instituto, en coordinación con la Secretaría y los Municipios, planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+
+Los titulares de las dependencias y entidades de la administración pública Estatal y municipal tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
+
+Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el Instituto.
+
+Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física, su entrenamiento y participación en competiciones oficiales.
+
 ### CAPÍTULO SEGUNDO. DE LA ENSEÑANZA, INVESTIGACIÓN Y DIFUSIÓN
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 71.
 
-Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento y conservación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la cultura física y el deporte, promoviendo para este fin la participación de los sectores social y privado en el territorio estatal.
+Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la activación física, la cultura física y el deporte, promoviendo para este fin la participación de los sectores social y privado en el territorio estatal.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 72.
 
-La planificación y construcción de instalaciones de cultura física y deporte, financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+La planificación y construcción de instalaciones de cultura física y deporte, financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la Asociación Deportiva Estatal que corresponda, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 72 Bis.
+
+Los integrantes del Sistema promoverán acciones para el uso óptimo de las instalaciones públicas.
+
+Las actividades físicas y la práctica del deporte en espacios naturales deben regirse por los principios de respeto por la naturaleza y de preservación de sus recursos, debiéndose observar las disposiciones de los instrumentos de gestión territorial vigentes.
+
+Asimismo, se respetarán las áreas clasificadas para asegurar la conservación de la diversidad biológica, la protección de ecosistemas y la gestión de recursos, el tratamiento de los residuos y la preservación del patrimonio natural y cultural.
 
 ###### Artículo 73.
 
@@ -833,9 +1363,11 @@ En todo caso, el Instituto conservará sus facultades de supervisión y vigilanc
 
 Para los efectos de este artículo, se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, misma que será determinada por la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 75.
 
-El Instituto coordinará con los Municipios y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
+El Instituto coordinará con la Secretaría, los Municipios y los sectores social y privado el adecuado mantenimiento, conservación y uso óptimo de las instalaciones de cultura física y deporte y emitirá para ello los lineamientos correspondientes.
 
 ###### Artículo 76.
 
@@ -847,25 +1379,37 @@ Así mismo, los productos y aprovechamientos obtenidos mediante el usufructo de 
 
 Para los efectos del párrafo anterior, se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, misma que será determinada por el Instituto.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 77.
 
-En los términos de los convenios de coordinación y colaboración respectivos, los Municipios inscribirán sus instalaciones destinadas a la cultura física y deporte al Registro, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
+En los términos de los convenios de coordinación y colaboración respectivos, los Municipios inscribirán sus instalaciones destinadas a la activación física, la cultura física y el deporte al Registro Estatal, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada que permita la planeación estatal.
 
-El Instituto podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevean las demás disposiciones legales aplicables.
+El Instituto podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, ordenamientos técnicos de las disciplinas deportivas correspondientes y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 78.
 
-Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles acciones de violencia, infracciones o conductas delictivas.
+Las instalaciones destinadas a la activación física, la cultura física, el deporte, y en las que se celebren eventos o espectáculos deportivos, deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia, de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, discriminación y cualquier otra conducta antisocial.
 
 ###### Artículo 79.
 
 El Instituto promoverá ante las diversas instancias de gobierno la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y el deporte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 80.
 
-El uso de las instalaciones a que se refiere este capítulo, deberá ser preferentemente para eventos deportivos, respetándose los programas y calendarios previamente establecidos.
+El uso de las instalaciones a que se refiere este Capítulo, deberá ser preferentemente para eventos deportivos.
 
-En el caso de utilización de las instalaciones con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse lo establecido en el párrafo anterior, fijando una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, misma que será determinada por el Instituto.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
+En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias que determine la presente Ley y la Comisión Especial.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Así mismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión Especial, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad y que sea sujeto de ser asegurado.
 
 ###### Artículo 81.
 
@@ -875,19 +1419,35 @@ Las instalaciones públicas de cultura física y deporte del Estado, deberán es
 
 Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante el Instituto, quien verificará que sean adecuadas a la práctica de la disciplina deportiva para la cual fueron diseñadas.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 82 Bis.
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
+
 ### CAPÍTULO TERCERO. DE LAS CIENCIAS APLICADAS
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 83.
 
-El Instituto promoverá, coordinará e impulsará, en conjunto con la Secretaría de Educación y Cultura, la enseñanza, investigación y difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+El Instituto promoverá, coordinará e impulsará, en coordinación con la Secretaría, la enseñanza, investigación, difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de activación física, cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 ###### Artículo 84.
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del Sistema, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 85.
 
-El Instituto participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la Administración Pública Estatal y Municipal, organismos públicos, sociales y privados, estatales y nacionales, para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte.
+El Instituto participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las dependencias y entidades de la Administración Pública Estatal y Municipal, organismos públicos, sociales y privados, estatales y nacionales, para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
 
 ###### Artículo 86.
 
@@ -899,29 +1459,47 @@ Para tal efecto, emitirá los lineamientos necesarios en los que se determine el
 
 ###### Artículo 87.
 
-El Instituto promoverá, en coordinación con la Secretaría de Educación y Cultura, el desarrollo e investigación en las áreas de Medicina Deportiva, Biomecánica, Control del Dopaje, Sicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y el deporte.
+El Instituto promoverá, en coordinación con la Secretaría, el desarrollo e investigación en las áreas de Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y deporte.
 
 ###### Artículo 88.
 
 El Instituto coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 89.
 
-Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del Registro, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el Instituto, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
+Los deportistas integrantes del Sistema tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del Registro Estatal, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el Instituto, sí como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
 
 ###### Artículo 90.
 
 Las instituciones y organizaciones de los sectores social y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 91.
 
-Las instituciones del sector salud y educativo promoverán, en su respectivo ámbito de competencia, programas de atención médica para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas, así como para la investigación científica.
+Las instituciones del sector salud y educativo promoverán, en su respectivo ámbito de competencia, programas de atención médica, psicológica y de nutrición para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas, así como para la investigación científica.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 92.
 
-Los Servicios Estatales de Salud y el Instituto procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+La Secretaría de Salud del Estado y el Instituto procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 92 Bis.
+
+Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas.
 
 ### CAPÍTULO QUINTO. DEL CONTROL DE SUSTANCIAS PROHIBIDAS Y MÉTODOS NO REGLAMENTARIOS EN EL DEPORTE
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 93.
 
@@ -933,17 +1511,27 @@ Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo
 
 I.- Desarrollar los programas deportivos de las Asociaciones Deportivas Estatales;
 
-II.- Impulsar la investigación científica en materia de cultura física y deporte;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-III.- Fomentar las actividades de las Asociaciones Deportivas, Recreativas, de Rehabilitación y de Cultura Física;
+II.- Impulsar la investigación científica en materia de activación física, cultura física y deporte.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+III.- Fomentar las actividades de las Asociaciones Deportivas, Recreativas, de Rehabilitación y de Cultura Física, cuyo ámbito de actuación trascienda de aquel de los municipios del Estado.
 
 IV.- Promover la actividad de clubes, asociaciones, ligas y deportistas, cuando esta actividad se desarrolle en el ámbito estatal;
 
 V.- Cooperar con los Órganos Municipales de Cultura Física y Deporte y, en su caso, con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento;
 
-VI.- Promover con los Consejos, Universidades y demás instituciones educativas, la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI.- Promover con los Consejos, Universidades y demás instituciones educativas, la participación en los programas deportivos y cooperar con estos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas.
 
 VII.- Realizar cualquier actividad que contribuya al desarrollo de las competiciones que, de acuerdo con la legislación, corresponda al Instituto.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VIII.- Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad.
 
 ###### Artículo 95.
 
@@ -991,17 +1579,25 @@ El Instituto tendrá a su cargo la constitución, administración, control y vig
 
 El Patronato del Salón de la Fama se integrará por representantes de los distintos sectores sociales interesados en el deporte, de conformidad con los lineamientos que fije la Junta Directiva.
 
-### CAPÍTULO SEXTO. DE LOS RIESGOS Y RESPONSABILIDAD CIVIL
+### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE
 
 ###### Artículo 100.
 
-Se considera de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud, así como de los métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
+Se declara de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud, así como de los métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 101.
 
-Se entenderá por dopaje en el deporte, la utilización por parte de los deportistas y la administración por terceros, de las clases o grupos farmacológicos de agentes prohibidos o métodos no reglamentarios.
+Se entenderá por dopaje en el deporte la administración, uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario, enunciado en la lista vigente de la Agencia Mundial Antidopaje, tanto en deportistas como en los animales que estos utilicen en su disciplina.
 
-Se entenderá por clases y grupos farmacológicos de agentes o métodos de dopaje, aquello prohibido por las organizaciones deportivas nacionales e internacionales y que figuren en las listas que para el efecto publique la CONADE, de conformidad con lo dispuesto por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Se sancionará como infracción por dopaje, lo establecido en la fracción I del artículo 121.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado, velarán por la aplicación de la Convención Internacional contra el Dopaje en el Deporte y los demás ordenamientos que resulten aplicables.
 
 ###### Artículo 102.
 
@@ -1015,9 +1611,11 @@ El Comité Estatal Antidopaje será junto con las Asociaciones Deportivas Estata
 
 Cuando se determinen casos de dopaje dentro o fuera de competición, las Asociaciones Deportivas Estatales, cuyos atletas hayan resultado positivos, tendrán la obligación de hacer del conocimiento del Instituto dicha situación.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 105.
 
-El Instituto, conjuntamente con las Autoridades Estatales y Municipales, del sector salud y los integrantes del Sistema, promoverá las medidas de prevención y control del uso de sustancias y de la práctica de los métodos no reglamentarios.
+El Instituto, conjuntamente con las Autoridades Estatales y Municipales, del sector salud y los integrantes del Sistema, promoverá e impulsará las medidas de prevención y control del uso de sustancias y de la práctica de los métodos referidos en el artículo 100 de la presente Ley. Así mismo, realizará informes y estudios sobre las causas y efectos del uso de dichas sustancias.
 
 ###### Artículo 106.
 
@@ -1029,25 +1627,35 @@ Todos los deportistas que integren las preselecciones y selecciones estatales, d
 
 Para los atletas de otras nacionalidades que compitan en eventos deportivos dentro del territorio estatal, sólo será requisito pasar el control si son designados en la competición en que participen.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 108.
 
-Para los efectos de la presente Ley y su Reglamento, se considera infracción administrativa el resultado positivo del análisis antidopaje practicado al deportista. Lo anterior, sin menoscabo de las sanciones que procedan en el ámbito deportivo y que al efecto se establezcan en el Reglamento de la presente Ley.
+Para los efectos de la presente Ley y su Reglamento, se considera infracción administrativa el resultado positivo del análisis antidopaje practicado al deportista o los animales que estos utilicen en su disciplina. Lo anterior, sin menoscabo de las sanciones que procedan en el ámbito deportivo y que al efecto se establezcan en el Reglamento de la presente Ley, así como de la responsabilidad penal en que se incurra de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 109.
 
-Lo dispuesto en el artículo 104 de la presente Ley aplica en los mismos términos a los directivos, técnicos, médicos, entrenadores o cualquier otra persona física o moral que resulte responsable de la inducción, facilitación o administración de sustancias, métodos de dopaje en el deporte. Lo anterior, sin menoscabo de las sanciones que pudieran proceder de otros ordenamientos aplicables.
+Lo dispuesto en el artículo 104 de la presente Ley aplica en los mismos términos a los directivos, técnicos, médicos, entrenadores o cualquier otra persona física o moral que resulte responsable de la inducción, facilitación o administración de sustancias, métodos de dopaje prohibidos o no reglamentarios en el deporte. Lo anterior, sin menoscabo de las sanciones que pudieran proceder de otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 110.
 
-Los integrantes del Sistema, en su respectivo ámbito de competencia, orientarán a los deportistas que hayan resultado positivos en los controles antidopaje, para su rehabilitación médica, psicológica y social.
+Los integrantes del Sistema, en su respectivo ámbito de competencia, orientarán a los deportistas que hayan resultado positivos en los controles antidopaje, para el restablecimiento de su salud física y mental e integración social.
 
 ###### Artículo 111.
 
 Los métodos, prácticas y análisis para determinar el uso de sustancias y/o métodos no reglamentarios, deberán realizarse conforme a los establecidos por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje, con estricto apego a las normas y procedimientos que para tal efecto dicte la CONADE y respetando en todo momento las garantías individuales.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 112.
 
-Los Poderes Públicos, en el ámbito de sus respectivas competencias, adoptarán medidas normativas para controlar la circulación, disponibilidad, tenencia, importación, distribución, venta y utilización en el deporte de agentes y de métodos de dopaje.
+Los Poderes Públicos, en el ámbito de sus respectivas competencias, adoptarán medidas normativas para controlar la circulación, disponibilidad, tenencia, importación, distribución, venta y utilización en el deporte de agentes dopantes y de métodos de dopaje prohibidos o no reglamentarios.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1071,6 +1679,120 @@ Los integrantes del Sistema, en coordinación con las autoridades competentes, e
 
 En las proximidades de los recintos en que se celebren acontecimientos deportivos calificados de alto riesgo, la autoridad competente, en coordinación con los organizadores, montará oficinas móviles de denuncias, de equipos de recepción de detenidos, de centros móviles de atención médica, de protección civil y cualquier otra medida tendiente a procurar la seguridad de los deportistas, espectadores y población en general.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-A.
+
+Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación y los Municipios.
+
+El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-B.
+
+Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
+
+I.- La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado.
+
+II.- La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo.
+
+III.- La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo.
+
+IV. La irrupción no autorizada en los terrenos de juego.
+
+V.- La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos.
+
+VI.- La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades.
+
+VII.- Las que establezcan la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-C.
+
+Se crea la Comisión Especial Contra la Violencia en el Deporte Chihuahuense, que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
+
+La Comisión Especial será un órgano colegiado integrado por representantes del Instituto, de los Órganos Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Estatales, del Consejo, de las Ligas Profesionales y, en su caso, de las Comisiones Estatales del Deporte Profesional.
+
+La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
+
+En la Comisión Especial podrán participar dependencias y entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas a la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
+
+La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo del Instituto.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-D.
+
+Las atribuciones de la Comisión Especial, serán:
+
+I.- Promover e impulsar acciones de prevención contra la violencia en el deporte; para tal efecto deberá elaborar un programa anual de trabajo.
+
+II.- Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
+
+III.- Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos.
+
+IV.- Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, áreas de seguridad pública y protección civil del Estado y los Municipios.
+
+V.- Establecer los lineamientos que permitan llevar a cabo los acuerdos o convenios de colaboración entre los tres órdenes de gobierno en la materia, los requisitos y normas mínimas que deben cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de las establecidas por Protección Civil, y las medidas que se consideren necesarias para la prevención de la violencia en los eventos deportivos.
+
+VI.- Fomentar programas y campañas de divulgación en contra de la violencia y la discriminación a fin de retribuir los valores de integración y convivencia social del deporte.
+
+VII.- Emitir recomendaciones y orientar a los miembros del Sistema sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos.
+
+VIII.- Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley.
+
+IX.- Realizar estudios e informes sobre las causas y efectos de la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley.
+
+X.- Conformar y publicar la estadística estatal sobre la violencia en el deporte, así como en las diversas modalidades de eventos deportivos previstos en esta Ley.
+
+XI.- Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes.
+
+XII.- Las demás que se establezcan en esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-E.
+
+Dentro de los lineamientos que emita la Comisión Especial a que se refiere el artículo anterior, deberán regularse, en lo concerniente al acceso a los eventos deportivos, entre otras medidas:
+
+I.- La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales y que por consecuencia puedan poner en peligro la integridad física de los deportistas, entrenadores, directivos, árbitros y espectadores o asistentes en general.
+
+II.- El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos.
+
+III.- La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la moral, la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general.
+
+IV.- El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos y registrados ante su respectiva Asociación Deportiva Estatal.
+
+V.- El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas; así como de personas que se encuentren bajo los efectos de las mismas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-F.
+
+Toda persona que asista a la celebración de un evento deportivo, independientemente de la calidad en que lo haga, quedará sujeta a lo siguiente:
+
+I.- Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, las que emita la Comisión Especial y las que correspondan en el ámbito municipal en donde se lleven a cabo.
+
+II.- Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de las sanciones civiles, penales o administrativas que correspondan.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-G.
+
+Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 115-H.
+
+Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
 ###### Artículo 116.
 
 La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al Instituto.
@@ -1079,13 +1801,21 @@ La aplicación de sanciones administrativas por infracciones a esta Ley, su Regl
 
 Las infracciones administrativas cometidas por servidores públicos, se sancionarán en los términos de la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 117 Bis.
+
+Contra la resolución de la autoridad que imponga sanciones administrativas, procederá el recurso de revisión, independientemente de las vías judiciales que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 118.
 
-En el ámbito de la justicia deportiva, la aplicación de sanciones por infracciones a sus estatutos y reglamentos deportivos corresponde a:
+En el ámbito de la justicia deportiva, la aplicación de sanciones por infracciones a sus estatutos, reglamentos deportivos y ordenamientos de conducta corresponde a:
 
 I.- Las Asociaciones Deportivas Estatales, las Asociaciones y Sociedades Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
 
-II.- El Instituto y los órganos Municipales de Cultura Física y Deporte; y
+II.- El Instituto y los Órganos Municipales de Cultura Física y Deporte; y
 
 III.- Los directivos, jueces, árbitros y organizadores de competiciones deportivas.
 
@@ -1093,13 +1823,23 @@ III.- Los directivos, jueces, árbitros y organizadores de competiciones deporti
 
 Contra las resoluciones de organismos deportivos que impongan sanciones, sin menoscabo de las vías judiciales que corresponde, proceden los recursos siguientes:
 
-I.- Recurso de revisión, ante la propia autoridad que emitió la resolución; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- Recurso de inconformidad en segunda instancia, que se promoverá ante la instancia inmediata en orden ascendente dentro de la estructura deportiva estatal.
+I.- Recurso de apelación, que se promoverá ante la Comisión de Apelación y Arbitraje.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Recurso de inconformidad, que tiene por objeto, impugnar las resoluciones; se promoverá ante la instancia inmediata en orden ascendente dentro de la estructura deportiva estatal.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+Para efectos de este artículo se entiende por estructura deportiva estatal, la distribución y orden que guardan entre sí las autoridades deportivas y los integrantes del asociacionismo deportivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 120.
 
-Para la aplicación de sanciones por faltas a estatutos y reglamentos, los organismos deportivos que pertenecen al Sistema habrán de prever lo siguiente:
+Para la aplicación de sanciones por faltas a estatutos, reglamentos y ordenamientos de conducta, los organismos deportivos que pertenecen al Sistema habrán de prever lo siguiente:
 
 I.- Un apartado dentro de sus estatutos que considere las infracciones y sanciones correspondientes, de acuerdo a su disciplina deportiva, así como el procedimiento para imponer dichas sanciones y el derecho de audiencia a favor del presunto infractor;
 
@@ -1111,17 +1851,41 @@ III.- Los procedimientos para interponer los recursos establecidos en el artícu
 
 Se considerarán como infracciones muy graves a la presente Ley, las siguientes:
 
-I.- La utilización de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-II.- La promoción o incitación a la utilización de tales sustancias o métodos.
+I.- En materia de dopaje:
 
-Se considera promoción la dispensa y administración de tales sustancias, así como la colaboración en la puesta en práctica de los métodos no reglamentarios;
+a) La presencia de una sustancia prohibida, de sus metabolitos o marcadores en la muestra de un deportista.
 
-III.- La negativa a someterse a los controles de dopaje, dentro y fuera de competiciones, cuando sean exigidos por los órganos o personas competentes;
+b) La utilización o tentativa, de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones.
 
-IV.- Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje; y (sic)
+c) La promoción, instigación, administración o encubrimiento de la utilización de sustancias prohibidas o métodos no reglamentarios dentro y fuera de competiciones.
 
-V.- La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva;
+d) La negativa o resistencia, sin justificación válida, a someterse a los controles de dopaje dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes, posterior a una notificación hecha conforme a las normas antidopaje aplicables.
+
+e) Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje.
+
+f) La falsificación o tentativa, de cualquier parte del procedimiento de control del dopaje.
+
+g) Tráfico o tentativa, de cualquier sustancia prohibida o de algún método no reglamentario.
+
+h) La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+II.- Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+III.- El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+IV.- El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- El incumplimiento de las obligaciones establecidas en los artículos 38 Bis y 82 Bis de la presente Ley.
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -1131,7 +1895,9 @@ VI.- Incurrir o incitar a que otros incurran en cualquier acto de violencia dura
 
 A los infractores a esta Ley o demás disposiciones que de ella emanen, se les aplicarán las sanciones siguientes:
 
-I.- A las Asociaciones y Sociedades Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2014)</small>
+
+I.- A las Asociaciones y Sociedades Deportivas, Deportivas Estatales, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva, así como a los organizadores de eventos deportivos con fines de espectáculo:
 
 a) Amonestación privada o pública;
 
@@ -1169,9 +1935,71 @@ b) Suspensión temporal o definitiva de su inscripción al Sistema; y
 
 c) Suspensión temporal o definitiva del uso de instalaciones públicas de cultura física y deporte.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+V.- A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y, en su caso, la reincidencia:
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+a) Expulsión inmediata de las instalaciones deportivas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+b) Amonestación privada o pública.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+c) Multa de diez a noventa días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometerse la infracción.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+d) Suspensión de uno a cinco años el acceso a eventos deportivos masivos o con fines de espectáculo.
+
 ###### Artículo 123.
 
 El trámite para la imposición de sanciones a las infracciones previstas en el presente Capítulo, se contendrá en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 124.
+
+Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
+
+I.- Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y de cinco a treinta días multa.
+
+II.- Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con seis meses a tres años de prisión y de diez a cuarenta días multa.
+
+III.- Participe activamente en riñas, lo que se sancionará con seis meses a cuatro años de prisión y de diez a sesenta días multa.
+
+IV.- Incite o genere violencia, se considera incitador a quien dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes.
+
+V.- Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones.
+
+VI.- Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días multa.
+
+Para efectos de lo dispuesto en este artículo, un día multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de salario mínimo general, vigente el día y en el lugar donde se haya cometido el delito.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
+
+Cuando en la comisión de este delito no resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero común.
+
+No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que se investigue su probable responsabilidad y se garantice la reparación del daño.
+
+En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 125.
+
+Para los efectos señalados en este Capítulo, se instituye el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Sistema Nacional de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida en términos de la Ley General del Sistema Nacional de Seguridad Pública.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
 
 ## TRANSITORIOS
 
@@ -1362,3 +2190,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 16 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Reglamento y demás disposiciones de carácter secundario a que se refiere este Decreto, deberán expedirse dentro de los seis meses siguientes a la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto desarrollará las nuevas atribuciones que le confiere el presente Decreto con los recursos humanos, financieros y materiales con los que cuenta actualmente.
+
+###### ARTÍCULO CUARTO.
+
+Las modificaciones necesarias al Reglamento Interior del Instituto se harán dentro de los noventa días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
