@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2013-02-09"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -177,15 +177,35 @@ IX. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la F
 
 X. Ordenar la práctica de visitas de inspección y vigilancia, con el objeto de verificar que las condiciones en que se encuentran los animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
-XI. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales, y (sic)
+XI. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales, y
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XII. La creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+XII. La creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
-XIII. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+XIII. Integrar, equipar y operar brigadas de vigilancia animal para responder a las necesidades de protección y rescate de animales en situación de riesgo, estableciendo una coordinación interinstitucional para implantar operativos en esta materia y coadyuvar con asociaciones civiles en la protección y canalización de animales a los centros de control animal. La brigada de vigilancia animal tiene como funciones:
+
+a. Rescatar animales de las vías primarias y secundarias, para evitar que sean lastimados o que causen un accidente automovilístico.
+
+b. Rescatar a los animales que se encuentren en abandono o que sean maltratados.
+
+c. Responder a situaciones de peligro por agresión animal.
+
+d. Impedir y remitir ante la autoridad competente a los infractores por la venta de animales en la vía pública, salvo en los casos y las condiciones que la propia ley establece.
+
+e. Coadyuvar en el rescate de animales silvestres y entregarlos a las autoridades competentes para su resguardo.
+
+f. Impedir y remitir ante la autoridad competente a los infractores que celebren peleas de perros o las promuevan.
+
+g. Realizar trabajo preventivo, a través de la difusión del cuidado y respeto en las escuelas y parques públicos.
+
+Las disposiciones contenidas en esta fracción no sustituyen las facultades que sobre esta materia esta Ley otorga a otros órdenes de autoridad, y
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+XIV. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -571,7 +591,7 @@ V. Programas para fomentar, en las instituciones educativas, una cultura de prot
 
 VI. La creación de nuevos centros de control animal para evitar la sobrepoblación de los existentes, y
 
-VII. Las demás que señalen las disposiciones aplicables; (sic)
+VII. Las demás que señalen las disposiciones aplicables;
 
 ###### ARTÍCULO 46.
 
@@ -984,3 +1004,13 @@ P.O. 9 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las brigadas de vigilancia animal se integrarán y equiparán para su operación, a la brevedad, de conformidad con la disponibilidad presupuesta.
