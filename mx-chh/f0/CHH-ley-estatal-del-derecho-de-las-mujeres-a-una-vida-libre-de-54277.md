@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2013-12-18"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -113,7 +113,7 @@ IV. Programa: El Programa Integral para Garantizar el Derecho de las Mujeres a u
 
 V. Derechos humanos de las mujeres: Aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano.
 
-VI. Violencia contra las mujeres: Cualquier acción u omisión, que en razón de género, tenga como fin o resultado un daño o sufrimiento sicoIógico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
+VI. Violencia contra las mujeres: Cualquier acción u omisión, que en razón de género, tenga como fin o resultado un daño o sufrimiento sicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público.
 
 VII. Perspectiva de género: La visión científica, analítica y política sobre mujeres y hombres, que contribuye a construir una sociedad donde tengan el mismo valor, mediante la eliminación de las causas de opresión de género, promoviendo la igualdad, la equidad, el bienestar de las mujeres, las oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
@@ -150,6 +150,14 @@ III. Violencia sicológica: Es cualquier acto u omisión que daña la estabilida
 IV. Violencia patrimonial: Es cualquier acto u omisión del agresor que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
 V. Violencia económica: Es toda acción u omisión del agresor que tiene como propósito o resultado que la víctima perciba un salario menor por igual trabajo, dentro de un mismo centro laboral.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VI. Violencia obstétrica: Es todo acto u omisión intencional, por parte del personal de salud que, en el ejercicio de su profesión u oficio, dañe, lastime o denigre a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica, y alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, y practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
 
 ###### Artículo 6.
 
@@ -361,7 +369,7 @@ XI. Contribuir a la difusión de la legislación en materia de violencia contra 
 
 XII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley;
 
-XIII. Convocar a los sectores de la sociedad para su integración al Sistema y emitir convocatoria para que representantes de organizaciones de la sociedad civil sean designados miembros del Consejo; y (sic)
+XIII. Convocar a los sectores de la sociedad para su integración al Sistema y emitir convocatoria para que representantes de organizaciones de la sociedad civil sean designados miembros del Consejo; y
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2012)</small>
 
@@ -962,3 +970,9 @@ P.O. 18 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
