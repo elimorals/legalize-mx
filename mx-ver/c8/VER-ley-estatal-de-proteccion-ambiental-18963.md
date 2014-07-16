@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2012-12-21"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -205,9 +205,9 @@ XLVIII Ter.- Sistemas de Verificación: Conjunto de acciones de control de las e
 
 XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
 
-> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-XLIX Bis.- Verificentro: Establecimiento autorizado por la Secretaría, que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar las pruebas de verificación estáticas y dinámicas.
+XLIX Bis. Verificentro: Establecimiento concesionado a un particular por la Secretaría que cumple con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en el Programa de Verificación Vehicular Obligatoria, para realizar pruebas de verificación vehicular tanto estáticas como dinámicas; y
 
 L.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -227,7 +227,13 @@ B. La Secretaría
 
 C. La Procuraduría.
 
-II.- Las autoridades municipales del Estado
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+II.- Las autoridades municipales del Estado a través de:
+
+a) El presidente municipal y, en su caso, el Cabildo; y
+
+b) La dependencia de la Administración Pública Municipal responsable de proteger el medio ambiente.
 
 III.- Las demás que señale esta ley.
 
@@ -241,13 +247,17 @@ II.- Los que otorgue o delegue la Federación a través de acuerdos o convenios 
 
 III.- Los que se deriven de los reglamentos municipales y demás disposiciones relativas al equilibrio ecológico y la protección al ambiente.
 
-Las atribuciones en materia de conservación, preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercidas de manera concurrente por el Estado y los Municipios; quienes en todo caso respetarán lo dispuesto en la Ley General y ordenamientos que de ella se deriven y aplicarán las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+Las atribuciones en materia de ordenamiento, conservación, preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercidas de manera concurrente por el Estado y los Municipios; quienes en todo caso respetarán lo dispuesto en las leyes generales y ordenamientos que de ellas se deriven y aplicarán las normas oficiales mexicanas que se expidan en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 6.
 
-Es facultad del Ejecutivo Estatal ejercer, a través de la Secretaría y la Procuraduría, las atribuciones que se establecen en el presente artículo, salvo aquellas que le correspondan de manera exclusiva por disposición de esta Ley y demás ordenamientos aplicables:
+Es facultad del Ejecutivo Estatal ejercer, a través de la Secretaría y la Procuraduría, las atribuciones que se establecen en el presente artículo, salvo aquellas que le correspondan de manera exclusiva a su titular por disposición de esta Ley y demás ordenamientos aplicables:
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 A. Por conducto de la Secretaría:
 
@@ -277,7 +287,7 @@ XII. Conducir la política estatal de información y difusión en materia ambien
 
 XIII. Evaluar el impacto ambiental de las obras o actividades y, en su caso, de los estudios de riesgo correspondientes, que no se encuentren expresamente reservadas a la Federación y, en su caso, la expedición de las autorizaciones correspondientes, de conformidad con lo dispuesto por el artículo 38 de la presente Ley;
 
-XlV. Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la Federación, de conformidad con lo dispuesto en el artículo 11 de la Ley General;
+XIV. Ejercer las funciones que en materia de preservación y conservación del equilibrio ecológico y protección al ambiente les transfiera la Federación, de conformidad con lo dispuesto en el artículo 11 de la Ley General;
 
 XV. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
 
@@ -287,13 +297,17 @@ XVII. Atender, en coordinación con la Federación, los asuntos que afecten el e
 
 XVIII. Promover el uso de transporte alternativo, así como espacios para su circulación;
 
-XIX. Establecer y operar, por sí o a través de las personas que autorice para ello, sistemas de verificación de calidad del aire en fuentes móviles, centros de verificación, verificentros o servicios similares, así como a unidades móviles equipadas con sistemas para realizar mediciones a vehículos. En el caso de las fuentes móviles limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Reglamento que al efecto se expida, así como en las Normas Oficiales Mexicanas;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+XIX. Establecer, operar y, en general, prestar el servicio público de verificación de calidad del aire en fuentes móviles, por sí o a través de las personas que concesione para ello; así como limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Programa de Verificación Vehicular Obligatoria, así como en las Normas Oficiales Mexicanas;
 
 XX. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación;
 
 XXI. Resolver los recursos de revisión en el ámbito de su competencia, de acuerdo con lo establecido por la presente Ley; y
 
 XXII. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 B. Por conducto de la Procuraduría:
 
@@ -315,6 +329,8 @@ VIII. Dictar y aplicar las medidas, en el ámbito de su competencia, en los caso
 
 IX. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+
 C. La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias, conjunta o separadamente, ejercerán las atribuciones siguientes:
 
 I. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción estatal, en las materias que no estén expresamente atribuidas a la Federación;
@@ -333,59 +349,85 @@ VII. Promover la gestión integrada de zonas costeras; y
 
 VIII. Las demás que establezcan esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 7.
 
-Corresponde a las autoridades Municipales del Estado de Veracruz, en el ámbito de su competencia, las siguientes facultades:
+Corresponde a las autoridades municipales del Estado, en el ámbito de su competencia, las siguientes atribuciones:
 
-I.- Formular, conducir y evaluar la política ambiental municipal,
+A. Por conducto del Presidente Municipal:
 
-II.- La aplicación de los instrumentos de política ambiental previstos en esta Ley y sus reglamentos,
+I. Formular, conducir y evaluar la política ambiental municipal y publicar los programas, decretos y actos administrativos que esta ley confiere a los Municipios, previa aprobación del Cabildo;
 
-III.- Conservar, preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales salvo cuando se trate de asuntos de competencia del Estado o de la Federación.
+II. Conservar, preservar y restaurar el equilibrio ecológico y la protección al ambiente, en sus respectivas circunscripciones territoriales, salvo cuando se trate de asuntos de competencia del Estado o de la Federación;
 
-IV.- Participar coordinadamente con el Ejecutivo Federal y Estatal, en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan,
+III. Participar coordinadamente con el Ejecutivo Federal y Estatal, en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-V.- La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos y de conformidad a lo establecido por las Normas Oficiales Mexicanas,
+IV. Participar con la Federación y el Estado en la aplicación de las leyes y normatividad que éstos expidan;
 
-VI.- Participar con el Estado en la aplicación de las normas técnicas ambientales que éste expida, para regular las actividades que no sean consideradas altamente riesgosas,
+V. Formular y expedir los programas de ordenamiento ecológico municipal o comunitario del territorio, en congruencia con lo señalado en otros ordenamientos ecológicos que correspondan, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas, previo acuerdo del Cabildo;
 
-VII.- Crear, regular y administrar zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley,
+VI. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte municipal;
 
-VIII.- La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, con la participación que de acuerdo con esta Ley corresponda al gobierno del Estado,
+VII. Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos y de conformidad a lo establecido por las Normas Oficiales Mexicanas;
 
-IX.- Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles de jurisdicción estatal y municipal,
+VIII. Formular y evaluar el programa municipal de protección al ambiente;
 
-X.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación de las autoridades estatales en los términos de la presente Ley; y demás disposiciones aplicables,
+IX. Formular y conducir la política municipal de información y difusión en materia ambiental;
 
-XI.- Formular y expedir los programas de ordenamiento ecológico municipal y/o comunitario del territorio, en congruencia con lo señalado en otros ordenamientos ecológicos que correspondan, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas,
+X. Formular y evaluar el programa municipal de protección al ambiente;
 
-XII.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte municipal,
+XI. Crear y regular zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley;
 
-XIII.- El manejo y disposición final de los residuos sólidos que no sean considerados peligrosos por esta Ley y de acuerdo con el Título Quinto de la misma,
+XII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación de las autoridades estatales en los términos de la presente Ley y demás disposiciones aplicables;
 
-XIV.- Participar coordinadamente con la autoridad estatal en la evaluación del impacto ambiental de obras o actividades de competencia municipal y estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial,
+XIII. Suscribir, en términos de la normatividad aplicable, convenios y acuerdos con la Federación o el Estado, para la ejecución de recursos federales o estatales en la aplicación de programas y proyectos ambientales vigilando la correcta aplicación de éstos;
 
-XV.- Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
+XIV. Participar en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios en su circunscripción territorial;
 
-XVI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la federación o a los estados,
+XV. Atender los demás asuntos en materia ambiental, de conservación, preservación del equilibrio ecológico, cambio climático, forestal y protección al ambiente que le confieran esta Ley, la Ley de Desarrollo Forestal Sustentable, la Ley Estatal para la Mitigación y Adaptación Ante los Efectos del Cambio Climático, la Ley de Vida Silvestre para el Estado de Veracruz, la Ley de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial y demás ordenamientos aplicables, que no estén otorgados expresamente a la Federación o al Estado; y
 
-XVII.- Concertar con los sectores social y privado, para la realización de acciones en las materias de su competencia conforme a esta Ley,
+XVI. Resolver los recursos de revisión de acuerdo con lo establecido por esta Ley.
 
-XVIII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y sus Reglamentos, en los asuntos de su competencia,
+B. Por conducto del titular de dependencia de la Administración Pública Municipal responsable de proteger el medio ambiente
 
-XIX.- Formular querella o denuncia ante la autoridad competente de los hechos ilícitos materia de esta Ley, que regule el Código Penal,
+I. La aplicación de los instrumentos de política ambiental previstos en esta Ley y sus reglamentos;
 
-XX.- Participar en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios en su circunscripción territorial.
+II. Participar con el Presidente Municipal en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-XXI.- Vigilar el cumplimiento de las normas Oficiales Mexicanas expedidas por la Federación, en las materias y supuestos a que se refieren las fracciones V, VIII, IX y X de este Artículo,
+III. Participar e impulsar en la elaboración de los programas de ordenamiento ecológico municipal o comunitario del territorio, así como controlar y vigilar el uso y cambio de uso del suelo, establecido en dichos programas;
 
-XXII.- Formular y conducir la política municipal de información y difusión en materia ambiental,
+IV. Ejecutar el programa municipal de protección al ambiente;
 
-XXIII.- Formular, ejecutar y evaluar el programa municipal de protección al ambiente,
+V. Participar con el Estado en la aplicación de las normas técnicas ambientales que éste expida, para regular las actividades que no sean consideradas altamente riesgosas;
 
-XXIV.- Atender los demás asuntos que en materia de conservación, preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+VI. Administrar zonas de conservación, preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley;
 
-XXV.- Resolver los recursos de revisión de acuerdo con lo establecido por esta Ley.
+VII. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, con la participación que de acuerdo con esta Ley corresponda al gobierno del Estado;
+
+VIII. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles de jurisdicción estatal y municipal;
+
+IX. Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte municipal;
+
+X. El manejo y disposición final de los residuos sólidos que no sean considerados peligrosos por esta Ley y de acuerdo con el Título Quinto de la misma;
+
+XI. Coadyuvar, en términos de la presente Ley y su reglamento, con la autoridad estatal en la evaluación y control del impacto ambiental de obras o actividades de competencia municipal y estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+XII. Concertar con los sectores público, social y privado, para la realización de acciones en las materias de su competencia y de educación ambiental;
+
+XIII. Aplicar las sanciones administrativas por violaciones a la presente Ley y sus reglamentos, en los asuntos de su competencia;
+
+XIV. Formular querella o denuncia ante la autoridad competente de los hechos ilícitos en materia ambiental, que regule el Código Penal;
+
+XV. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación;
+
+XVI. Ejecutar la política municipal de información y difusión en materia ambiental;
+
+XVII. Emitir, previo dictamen y de manera conjunta con el Presidente Municipal, opinión fundada ante la autoridad competente respecto del derribo o desrame de árboles en lugares públicos, urbanos o rurales;
+
+XVIII. Solicitar a la autoridad competente, previa petición fundada y aprobada en sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+
+XIX. Atender los demás asuntos que esta Ley y la normatividad ambiental le confieran, así como aquellos que le sean expresamente delegados por el Presidente Municipal.
 
 ### CAPÍTULO III. DE LA COORDINACIÓN
 
@@ -667,9 +709,9 @@ VII.- Para la elaboración de los programas de ordenamiento ecológico, se deber
 
 La formulación y adecuaciones de los programas de ordenamiento ecológico estatal y regionales, estarán a cargo de la Secretaría.
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
-La elaboración y adecuación de los programas de ordenamiento ecológicos municipales estarán a cargo de las direcciones o departamentos municipales de ecología correspondientes o, en su defecto, donde no existieren, por las dependencias de obras públicas. En su elaboración se tomará siempre en cuenta la opinión del Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable y la Evaluación Ambiental Estratégica que al efecto realice la Secretaría.
+La elaboración y adecuación de los programas de ordenamiento ecológicos municipales estarán a cargo de las dependencias de la Administración Pública Municipal responsables de proteger el medio ambiente y en su elaboración se tomará en cuenta la opinión del Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 El ordenamiento ecológico local se formulará en congruencia con el ordenamiento ecológico que establezca la Federación y particularizará en aquellos aspectos que contribuyen a establecer y preservar el equilibrio ecológico en el territorio de la Entidad.
 
@@ -1673,13 +1715,17 @@ V. Integrar y mantener actualizado el inventario estatal de fuentes fijas de con
 
 VI. Establecer y operar sistemas de monitoreo de la calidad del aire, con el fin de integrar los reportes locales de los Sistemas Estatal y Nacional de Información Ambiental;
 
-VII. Establecer y operar el Programa Estatal de Verificación de Emisiones de Fuentes Móviles en Circulación que sean de jurisdicción local;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+VII. Establecer y operar el Programa de Verificación Vehicular Obligatoria;
 
 VIII. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la contaminación atmosférica;
 
 IX. Elaborar los informes sobre el estado del ambiente en la entidad o municipios correspondientes;
 
-X. Formular y aplicar programas de gestión de calidad del aire, con base en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales para establecer la calidad ambiental en el territorio estatal;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+X. Elaborar, proponer y aplicar el Programa Veracruzano de Gestión de Calidad del Aire, que será publicado por el titular del Poder Ejecutivo del Estado, en términos de lo dispuesto en las Normas Oficiales Mexicanas;
 
 XI. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera; y
 
@@ -1738,6 +1784,8 @@ III.- Realicen investigaciones de tecnología y apliquen ésta, para disminuir l
 IV.- Reubiquen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
 #### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 132.
 
@@ -1803,25 +1851,29 @@ XIII.- Las demás que establezca esta Ley, las disposiciones que de ella se deri
 
 La Secretaría podrá convenir con los responsables de las fuentes fijas de competencia estatal la realización de las actividades a que se refiere el artículo anterior, o bien, requerir a los mismos para que las lleven a cabo, en forma obligatoria.
 
-#### SECCIÓN TERCERA. DE LOS CENTROS DE VERIFICACIÓN Y VERIFICENTROS
+#### SECCIÓN TERCERA. DE LOS VERIFICENTROS
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 139.
 
-Los propietarios de los vehículos automotores de uso privado o de servicio público deberán:
+Los propietarios de los vehículos automotores de uso privado y de servicio público empadronados, registrados, emplacados o autorizados para circular por las autoridades correspondientes del Estado, deberán:
 
-I.- Realizar el mantenimiento regular de las unidades, mantener en buenas condiciones a efecto de mantener el funcionamiento del vehículo dentro de los límites permitidos de emisiones señalados en la normatividad aplicable;
+I. Realizar el mantenimiento regular de las unidades, mantener en buenas condiciones a efecto de mantener el funcionamiento del vehículo dentro de los límites permitidos de emisiones señalados en la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-II.- Verificar periódicamente las emisiones de contaminantes a la atmósfera, de acuerdo con los programas, mecanismos y disposiciones establecidos, en los centros de verificación o los verificentros autorizados por la Secretaría, dentro del período que le corresponda, en los términos del Programa de Verificación Vehicular Obligatoria que al efecto se expida;
+II. Verificarlos periódicamente en los centros de verificación o en los verificentros concesionados por la Secretaría, analizando las emisiones de contaminantes a la atmósfera, las cuales no deberán rebasar los límites máximos permisibles, de acuerdo con los programas, mecanismos y disposiciones establecidos en el Programa de Verificación Vehicular Obligatoria expedido por la Secretaría;
 
-III.- Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad;
+III. Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-IV.- Cubrir el costo de la tarifa por verificación vehicular, autorizada por la Secretaría, en los términos del Programa de Verificación Vehicular Obligatoria para el Estado; en caso de que la verificación se realice fuera de los plazos señalados en dicho Programa, serán sancionados en los términos del ordenamiento.
+IV. Cubrir el costo de la tarifa por verificación vehicular, en los términos del Código de Derechos para el Estado de Veracruz de Ignacio de la Llave, el Programa de Verificación Vehicular Obligatoria y los títulos de concesión respectivos, según corresponda; en caso de que la verificación se realice fuera de los plazos que se establezcan en el Programa de Verificación Vehicular Obligatoria, el infractor deberá cubrir a la Secretaría de Finanzas y Planeación o a la tesorería municipal, cuando exista convenio de coordinación, una sanción por un monto de veinte a cincuenta días de salario mínimo general vigente en el área geográfica que corresponda, y con dicho comprobante de pago podrá acudir a verificar su vehículo cubriendo el monto correspondiente por la verificación del periodo omitido.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2014)</small>
+
+Los propietarios de vehículos que no estén registrados en el padrón vehicular del Estado pero cuya residencia y tránsito cotidiano sean en territorio veracruzano, podrán verificar de manera voluntaria sus vehículos en términos de lo que establezca el Programa de Verificación Vehicular Obligatoria.
 
 ###### Artículo 140.
 
@@ -1831,9 +1883,15 @@ Las autoridades competentes podrán establecer medidas de tránsito y vialidad p
 
 Las emisiones de contaminantes generadas por fuentes móviles, que circulen en el territorio estatal, no deberán rebasar los límites máximos permisibles señalados en las Normas Oficiales Mexicanas.
 
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 142.
 
-La omisión de la verificación de las emisiones contaminantes generadas por los vehículos automotores, o la falta de cumplimiento de las medidas que para el control de emisiones se establezcan, será objeto de sanciones en los términos que prevengan esta Ley y otras disposiciones jurídicas.
+La omisión de la verificación de las emisiones contaminantes generadas por los vehículos automotores, en términos del artículo 139 fracción IV de esta Ley, o la falta de cumplimiento de las medidas que para el control de emisiones se establezcan, será objeto de sanciones que irán de los veinte a los cincuenta días de salario mínimo general vigente en el área geográfica que corresponda, en los términos establecidos en la presente Ley, el Programa de Verificación Vehicular Obligatoria, la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave y su Reglamento, y las demás disposiciones jurídicas que resulten aplicables.
+
+Las sanciones para los usuarios de vehículos automotores que circulen sin portar la constancia de haber acreditado la verificación vehicular serán impuestas por las autoridades estatales o, en su caso, por las autoridades municipales cuando exista un convenio de colaboración y consistirán, entre otras, en la imposición de multas que irán de los veinte a los cincuenta días de salario mínimo general vigente en el área geográfica que corresponda, y el retiro de la circulación de los vehículos automotores, en los términos establecidos en la presente Ley, el Programa de Verificación Vehicular Obligatoria, la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave y su Reglamento, y las demás disposiciones jurídicas que resulten aplicables, con independencia de las sanciones que correspondan por verificación extemporánea
+
+Los convenios de colaboración con las autoridades municipales serán firmados por el Ejecutivo del Estado, asistido por la Secretaría de Finanzas y Planeación y la Secretaría de Medio Ambiente, y en tales convenios se detallarán expresamente las atribuciones que se transfieren a los municipios en términos del Programa de Verificación Vehicular Obligatoria, así como el destino de los recursos que se obtengan derivados de dichas atribuciones, y que se emplearán exclusivamente para actividades ambientales en beneficio del municipio, previa autorización de la Secretaría y que serán reportados de manera anual a dicha dependencia.
 
 ###### Artículo 143.
 
@@ -1841,21 +1899,33 @@ En materia de prevención y control de la contaminación atmosférica producida 
 
 I.- Establecerá las medidas preventivas y correctivas para reducir la emisión de contaminantes a la atmósfera;
 
-II.- Establecerá el programa de verificación vehicular obligatoria.
+II.- (DEROGADA, G.O. 16 DE JULIO DE 2014)
 
-III.- Establecerá, autorizar y concesionar el establecimiento y operación de centros de verificación para vehículos automotores.
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-IV.- Regulará el establecimiento, autorización y operación de sistemas de verificación de emisiones de vehículos automotores en circulación;
+III.- Concesionará a particulares el establecimiento, equipamiento, operación y explotación de verificentros;
+
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+IV.- Regulará el establecimiento, inspección, supervisión, evaluación y operación de centros de verificación y verificentros;
 
 V.- Determinará las tarifas para los servicios de verificación vehicular obligatoria en los centros que autorice y concesiones.
 
-VI.- Autorizará a los centros de verificación, la expedición de certificados a los vehículos que se hubieren sometido al procedimiento de verificación obligatoria aprobando la misma.
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-VII.- Inspeccionará, supervisará y evaluará la operación de los centros y sistemas de verificación vehicular obligatoria que autorice o concesione.
+VI.- Autorizará a los verificentros, en los títulos de concesión respectivos, la expedición de certificados a los vehículos que se hubieren sometido al procedimiento de verificación obligatoria aprobando la misma;
 
-VIII.- Integrará un registro de los centros de verificación vehicular que autorice.
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
-IX.- Integrará y mantendrá actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación.
+VII.- Inspeccionará, supervisará y evaluará la operación de los verificentros que concesione y los centros de verificación vigentes;
+
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+VIII.- Integrará un registro de los verificentros concesionados;
+
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+IX.- Integrará y mantendrá actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los verificentros;
 
 X.- Exigirá a los propietarios o poseedores de vehículos automotores el cumplimiento de las medidas de control dispuestas y en su caso, retirará de la circulación a aquellos vehículos que no acaten la normatividad;
 
@@ -1868,6 +1938,22 @@ XIII.- Promoverá el mejoramiento de los sistemas de transporte, y solicitará t
 XIV.- La Secretaría y la sociedad civil, promoverán acciones orientadas hacia la prevención de la contaminación atmosférica.
 
 XV.- Realizará en coordinación con las autoridades correspondientes actos de inspección y vigilancia en materia de contaminación atmosférica para verificar la debida observancia de las Normas Oficiales Mexicanas y las demás disposiciones aplicables, e imponer las sanciones administrativas que correspondan.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 143 Bis.
+
+En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles dentro del territorio del Estado, el Ejecutivo, asistido por la Secretaría de Medio Ambiente, establecerá el Programa de Verificación Vehicular Obligatoria, el cual deberá determinar, cuando menos, lo siguiente:
+
+I. Las especificaciones mínimas de equipamiento, infraestructura, imagen y de procedimientos que deberán cumplir los verificentros; estos criterios deberán ser considerados dentro de los requisitos que se exijan a los participantes de los concursos públicos para la adjudicación de concesiones de verificentros;
+
+II. Los diferentes tipos de holograma que podrán obtenerse y los requisitos que deberán cumplirse para obtener cada uno de ellos, así como los esquemas de incentivos y restricciones asociadas a cada tipo de holograma;
+
+III. Los tipos de vehículos automotores que hubieran sido definidos por sus fabricantes como inoperables en los dinamómetros, en el entendido que salvo por éstos, el resto de los vehículos automotores deberán ser verificados mediante una prueba dinámica;
+
+IV. Las tarifas por concepto de verificación vehicular que los concesionarios de verificentros estarán facultados para cobrar y su procedimiento de actualización, las cuales deberán ser idénticas para todos los verificentros concesionados y deberán reflejarse en los títulos de concesión respectivos; y
+
+V. La periodicidad con que deberán realizarse las verificaciones vehiculares y el plazo con que los propietarios de los vehículos automotores contarán, dentro de cada periodo, para llevar a cabo la verificación correspondiente.
 
 ###### Artículo 144.
 
@@ -1941,11 +2027,31 @@ En el ámbito de competencia de la Secretaría y de la Procuraduría, tanto para
 
 Asimismo, la Procuraduría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis.
 
-La Secretaría, atendiendo a las necesidades de los servicios de verificación de fuentes móviles en el Estado, expedirá, previa convocatoria pública, las autorizaciones a los interesados que cumplan los requisitos correspondientes para instalar un centro de verificación vehicular o verificentro. Para tal efecto, la Secretaría publicará las convocatorias en la Gaceta Oficial del estado, en las cuales se determinarán los elementos técnicos, materiales, humanos, financieros y demás condiciones que deberán reunir los centros de verificación o verificentros para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número, ubicación y características de las instalaciones de los centros de verificación o verificentros.
+Se requiere de concesión para establecer, equipar, operar y explotar un verificentro. Las concesiones se otorgarán hasta por un plazo de veinte años y podrán ser prorrogadas hasta por un plazo similar al señalado originalmente, atendiendo al cumplimiento de las obligaciones de la concesión respectiva.
+
+Para el otorgamiento de concesiones, la Secretaría deberá atender a las necesidades de los servicios de verificación de fuentes móviles en el Estado, efectuando una distribución adecuada de los verificentros en los municipios, en proporción al parque vehicular existente. La Secretaría procurará que los verificentros concesionados se instalen en los principales núcleos de población y su distribución permita a todos los habitantes del Estado tener acceso oportuno a los mismos.
+
+Las concesiones a que se refiere este artículo serán otorgadas por la Secretaría, a través de concurso público, conforme a lo siguiente:
+
+I. La Secretaría publicará convocatoria en la Gaceta Oficial del Estado y en un periódico de amplia circulación en el Estado, señalando el plazo con que contarán los interesados en participar en el concurso para adquirir las bases;
+
+II. Las bases de los concursos públicos incluirán como mínimo las características técnicas y de calidad de los equipos que deberán instalarse en el verificentro, el plazo de la concesión, los requisitos de infraestructura con que deberá contar, el área mínima del inmueble en donde deberá instalarse el verificentro y el capital contable mínimo con que deberán contar los participantes; los requisitos mínimos que la Secretaría deberá solicitar a los participantes serán acordes con las especificaciones establecidas en el Programa de Verificación Vehicular Obligatoria. La Secretaría determinará e incluirá en las bases de los concursos públicos, los criterios para el otorgamiento de las concesiones;
+
+III. Aquellos interesados que hubieran adquirido las bases del concurso público que corresponda, podrán presentar una propuesta en sobre cerrado. Las propuestas que sean presentadas en estos términos serán abiertas en día prefijado, pudiendo los participantes estar presentes, en los términos y condiciones que se contemplen en las bases;
+
+IV. Para que su propuesta sea considerada solvente, los participantes deberán demostrar su solvencia económica, así como su capacidad técnica, administrativa y financiera, y deberán cumplir con los requisitos que establezcan las bases que expida la Secretaría;
+
+V. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes en el lugar y fecha determinados para tal efecto en las bases del concurso público que corresponda; asimismo, a partir del acto de apertura de propuestas, durante el plazo en que las mismas se estudien y hasta la fecha de emisión del fallo, la Secretaría informará cuáles han sido las propuestas desechadas por no considerarse solventes en los términos establecidos en la fracción anterior y las principales causas que motivaron dicha determinación;
+
+VI. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y, en su caso, se procederá a expedir una nueva convocatoria;
+
+VII. La resolución que contenga el fallo será de carácter definitivo y solamente en contra de dicho acto procederá el recurso de revocación, de acuerdo a lo establecido en el Título Sexto Capítulo II de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave.
+
+En los títulos de concesión, la Secretaría deberá establecer las condiciones económicas aplicables a sus titulares incluyendo, cuando menos, las tarifas por concepto de verificación vehicular que el concesionario estará facultado a cobrar a los usuarios y su procedimiento de actualización, el precio unitario de venta para cada tipo de certificado holográfico que la Secretaría estará facultada a cobrar al concesionario y su procedimiento de actualización, y las indemnizaciones o compensaciones que, en su caso, resulten aplicables.
 
 > <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1971,79 +2077,123 @@ VIII.- Dejar de prestar servicios de manera continua hasta por seis meses; y
 
 IX.- Cualquier otra práctica que se realice con la finalidad de modificar los resultados objeto de la verificación.
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
-Artículos 146 Bis 2. Los interesados que cumplan los requisitos correspondientes para instalar un centro de verificación vehicular o verificentro deberán otorgar una fianza, a través de institución legalmente facultada para ello, para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el Programa de Verificación Vehicular y la autorización o concesión correspondiente, así como el buen uso de la documentación que acredite la verificación de los vehículos y el pago de multas correspondientes, por el equivalente a mil quinientos días de salario mínimo general vigente en la capital del Estado. Esta garantía deberá mantenerse en vigor por el término establecido en la convocatoria y la autorización respectiva.
+Artículos 146 Bis 2. Los concesionarios de verificentros deberán otorgar una fianza, a través de institución legalmente facultada para ello, para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el Programa de Verificación Vehicular y la concesión correspondiente, así como el buen uso de la documentación que acredite la verificación de los vehículos y el pago de multas correspondientes, por el equivalente a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda. Esta garantía deberá mantenerse en vigor durante todo el período de la concesión.
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis 3.
 
-La autorización o concesión para la prestación de servicios de verificación vehicular tendrá la vigencia que se indique en la convocatoria o hubiere quedado establecida en el documento correspondiente. Sólo podrá darse por terminada cuando:
+Las concesiones para establecer, equipar, operar y explotar verificentros tendrán la vigencia que se indique en el título de concesión respectivo y sólo podrá darse por terminada cuando:
 
-I.- No se cumplan las condiciones conforme a las que deberá prestarse el servicio;
+I. No se cumplan las condiciones conforme a las que deberá prestarse el servicio;
 
-II.- Concluya el término de la autorización; y
+II. Concluya el plazo de la concesión; o
 
-III.- Proceda la revocación de la autorización en los términos de la presente Ley.
+III. Proceda la revocación de la concesión en los términos de la presente Ley.
 
-Cuando los incumplimientos que se detecten en los centros de verificación o verificentros sean atribuibles a los proveedores de maquinaria y servicios, éstos serán responsables en términos de lo dispuesto por esta Ley.
+Cuando los incumplimientos que se detecten en los verificentros sean atribuibles a los proveedores de maquinaria y servicios, éstos serán responsables en términos de lo dispuesto por esta Ley.
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis 4.
 
-Los centros de verificación y verificentros están obligados a:
+Los verificentros estarán obligados a:
 
-I.- Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, el Programa de Verificación Vehicular, la convocatoria, autorización, concesión y circulares correspondientes;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+I. Operar, conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, el Programa de Verificación Vehicular Obligatoria, la convocatoria, la concesión y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 II.- Acreditar ante la Secretaría que su personal se encuentra debidamente capacitado para la prestación del servicio;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 III.- Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 IV.- Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, comercial o de servicios sin autorización de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 V.- Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada, como soporte de las verificaciones vehiculares;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 VI.- Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos, en los términos fijados por ésta, tanto por medios impresos como electrónicos, bajo los criterios técnicos y metodológicos establecidos;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 VII.- Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o cuando los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 VIII.- Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 IX.- Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 X.- Enviar a la Secretaría la documentación e información requerida para la supervisión y control de la verificación, en los formatos y términos que la misma Secretaría establezca, en los que podrá considerarse el reporte documental así como la transmisión de datos, imágenes y video;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 XI.- Mantener durante las horas de funcionamiento a un representante con facultades para atender las visitas de inspección técnicas y administrativas que ordene la Secretaría, en cualquier momento, debiendo brindar las facilidades correspondientes;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 XII.- Contar con los elementos distintivos e imagen determinados por la Secretaría;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 XIII.- Cobrar las tarifas autorizadas por la Secretaría por la prestación del servicio de verificación vehicular; las tarifas deberán indicarse en un lugar visible a los usuarios, dentro de su establecimiento;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 XIV.- Mantener en vigor la fianza correspondiente, durante la vigencia de la autorización para prestar el servicio de verificación vehicular; y
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 XV.- Corroborar que el equipo y programa de cómputo que se instale para proporcionar el servicio de verificación vehicular sea la versión autorizada por la Secretaría, de lo contrario, abstenerse de proporcionar el servicio.
 
-Cuando los centros de verificación vehicular o verificentros incumplan con alguna de las normas establecidas en la presente Ley, la Secretaría podrá iniciar el procedimiento administrativo con base en la documentación e información que proporcionen o con la que disponga la Secretaría, de acuerdo a las formalidades establecidas por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave. En su caso, se aplicarán las sanciones correspondientes, pudiendo establecerse, en su caso, la cancelación o revocación de la autorización o concesión otorgada.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+Cuando los verificentros incumplan con alguna de las normas establecidas en la presente Ley, la Secretaría podrá iniciar los procedimientos administrativos que correspondan, con base en la documentación e información que proporcionen o con la que disponga la Secretaría, de acuerdo a las formalidades establecidas por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave. En su caso, se aplicarán las sanciones correspondientes, pudiendo establecerse, de ser procedente, la revocación de la concesión otorgada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis 5.
 
-Por cada verificación vehicular que realicen los prestadores de servicios autorizados, expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+Por cada verificación vehicular que realicen los concesionarios, éstos expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 I.- Fecha de la verificación vehicular y número de folio de la constancia;
 
-II.- Identificación del prestador de servicios autorizado y de quien efectuó la verificación vehicular;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+II. Identificación del concesionario y del personal autorizado que efectuó la verificación vehicular;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 III.- Indicación de las normas oficiales o técnicas ecológicas locales aplicadas en la verificación vehicular;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 IV.- Determinación del resultado de la verificación vehicular;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 V.- Marca, submarca, modelo, número de serie, placas, peso bruto vehicular, combustible, clase, servicio y año del vehículo de que se trate, así como el nombre y domicilio del propietario; y
 
-VI.- Las demás que señalen las normas oficiales, el programa de verificación, la convocatoria, la autorización, concesión y circulares respectivas.
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+VI. Las demás que señalen el Programa de Verificación Vehicular Obligatoria, la convocatoria, la concesión y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -2051,31 +2201,71 @@ VI.- Las demás que señalen las normas oficiales, el programa de verificación,
 
 El original de la constancia de verificación vehicular se entregará al propietario o poseedor de la fuente emisora de contaminantes, adhiriendo inmediatamente, en caso de ser aprobatoria, el documento respectivo en un lugar visible de la propia fuente.
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis 7.
 
-Los proveedores de equipos y servicios para la operación de los centros de verificación vehicular y verificentros deberán contar con la autorización de la Secretaría.
+Los proveedores de equipos y servicios a los concesionarios para la operación de los verificentros deberán contar con la autorización de la Secretaría.
 
-> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 146 Bis 8.
 
-Los proveedores de equipos, programas de cómputo y servicios para la operación de centros de verificación de emisiones generadas por fuentes móviles están obligados a:
+Los proveedores de equipos, programas de cómputo y servicios para la operación de verificentros de emisiones generadas por fuentes móviles están obligados a:
 
-I.- Suministrar equipos, programas de cómputo y servicios, que cumplan con la normatividad correspondiente o los requerimientos que establezca la Secretaría, proporcionando los manuales de operación;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+I.- Suministrar a los concesionarios, equipos, programas de cómputo y servicios, que cumplan con la normatividad correspondiente y los requerimientos que establezca la Secretaría, proporcionando los manuales de operación;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 II.- Garantizar que el personal que efectúe la instalación, suministro y mantenimiento esté debidamente capacitado y acreditado ante la Secretaría;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 III.- En su caso, prestar los servicios de mantenimiento a los equipos instalados, cerciorándose de que están calibrados y en óptimas condiciones, y observar que éstos cumplan los requisitos que fije la Secretaría;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 IV.- Llevar un registro con la información de las operaciones de mantenimiento y reparación de equipos y remitir un informe mensual a la Secretaría;
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 V.- Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 VI.- Presentar y mantener en vigor una fianza de cinco mil días de salario mínimo general, vigente en la capital del Estado, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables; y
 
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
 VII.- Prestar sus servicios de conformidad con los contratos autorizados por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2014)</small>
+
+###### Artículo 146 Bis 9.
+
+En materia de prevención y control de la contaminación atmosférica, se sancionarán las siguientes acciones u omisiones:
+
+I.- Se le impondrá una multa de quinientos a dos mil días de salario mínimo general vigente en el área geográfica que corresponda, al que realice el cambio provisional de aditamentos o equipos de cualquier vehículo automotor, con el objeto de obtener uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria;
+
+II.- Se le impondrá una multa de un mil a cinco mil días de salario mínimo general vigente en el área geográfica que corresponda, al que:
+
+a) Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria;
+
+b) Venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en la presente Ley y el Programa de Verificación Vehicular Obligatoria; o
+
+c) Posea o use un documento que acredite la aprobación de la verificación vehicular, que no hubiera sido expedido o solicitado con base en el procedimiento establecido para la operación de los Verificentros o Centros de Verificación.
+
+III.- Se le impondrá una multa de veinte a quinientos días de salario mínimo general vigente en el área geográfica que corresponda:
+
+a) Al técnico o empleado de un Centro de Verificación o Verificentro que, por sí o por interpósita persona, solicite o reciba dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
+
+b) En calidad de usuario del servicio de verificación vehicular, ofrezca, prometa o entregue dinero o cualquier otra dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+
+IV.- Se le impondrá una multa de veinte a quinientos días de salario mínimo general vigente en el área geográfica que corresponda, a los prestadores y laboratorios de servicios ambientales que proporcionen documentos o información falsa u omitan datos con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o licencia.
+
+Las multas previstas en esta fracción se impondrán siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.
 
 ### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
 
@@ -2607,7 +2797,9 @@ Para asuntos de jurisdicción estatal y municipal regulados por esta Ley, dispos
 
 I.- En el ámbito estatal, la Secretaría y la Procuraduría, de conformidad con sus respectivas competencias; y
 
-II.- En el ámbito municipal, el Presidente Municipal.
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+
+II.- En el ámbito municipal, el Presidente Municipal o, en su caso, el titular de la dependencia de la Administración Pública Municipal responsable de proteger el medio ambiente, en términos de la reglamentación que corresponda.
 
 ###### Artículo 195.
 
@@ -2618,6 +2810,8 @@ Cuando alguna de las autoridades señaladas en el artículo anterior, esté cono
 Cualquier autoridad de las enumeradas en el artículo 194 de esta ley, que tenga conocimiento de una conducta o hecho que no sea de su competencia, pero que presente un peligro inminente a los ecosistemas o a la salud pública, podrá actuar a prevención, ordenando la inspección procedente y levantando el acta correspondiente en los términos de los Artículos 199 y 202 de esta Ley, y la turnará inmediatamente a la autoridad competente.
 
 ### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 197.
 
@@ -2715,49 +2909,27 @@ Si de los hechos investigados apareciera la posible comisión de un delito, la a
 
 ###### Artículo 212.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la autoridad competente, con una o más de las siguientes sanciones:
+Las violaciones a esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionadas administrativamente por la autoridad competente con una o más de las siguientes sanciones:
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+I.- Multa por el equivalente de cincuenta a veinte mil días de salario mínimo general vigente en el área geográfica que corresponda, en el momento de imponer la sanción;
 
-I.- Amonestación con apercibimiento;
+II.- La reparación del daño ambiental o por excepción la compensación ambiental; para estos efectos, se aplicará de manera supletoria la Ley Federal de Responsabilidad Ambiental;
 
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+III.- Clausura temporal o definitiva, total o parcial del establecimiento, equipos, instalaciones o fuentes contaminantes o generadoras del servicio o similares, cuando:
 
-II.- Multa por el equivalente de una a tres veces el daño que haya causado al equilibrio ecológico o al ambiente;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-III.- Si no fuere posible valuar el daño a que se refiere la fracción anterior, se impondrá multa de cincuenta a veinte mil días de salario mínimo general vigente en la capital del Estado, en el momento de imponer la sanción;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-IV.- Clausura temporal o definitiva, total o parcial del establecimiento, equipos, instalaciones o fuentes contaminantes o generadoras del servicio o similares, cuando:
-
-a) El infractor no hubiere cumplido, en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
+a) El infractor no hubiere cumplido en obtener las autorizaciones necesarias, los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
 
 b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente; o
 
 c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
 
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+IV.- El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a lo previsto en la presente Ley;
 
-V.- El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a lo previsto en la presente Ley;
+V.- Arresto administrativo hasta por treinta y seis horas;
 
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+VI.- La suspensión o la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que hubiera otorgado la misma autoridad que impone la sanción; y
 
-VI.- Arresto administrativo hasta por treinta y seis horas;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-VII.- La suspensión o la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que haya otorgado la misma autoridad que impone la sanción;
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-VIII.- Impedir la circulación de vehículos, remitiéndolos en su caso a los depósitos correspondientes; y
-
-> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
-
-IX.- La reparación del daño ambiental.
+VII.- Impedir la circulación de vehículos, remitiéndolos en su caso a los depósitos correspondientes;
 
 ###### Artículo 213.
 
@@ -3032,3 +3204,17 @@ G.O. 21 DE DICIEMBRE DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Las multas previstas en los artículos 139, fracción IV, y 142 de la Ley Estatal de Protección Ambiental podrán aplicarse, al actualizarse alguna de las infracciones previstas en dichos preceptos, a partir del primero de enero de dos mil quince.
+
+TERCERO. La Secretaría y las autoridades competentes del Gobierno del Estado de Veracruz de Ignacio de la Llave realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivados del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
+
+QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
+
+SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
