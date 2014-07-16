@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-mejora-regulatoria-para-el-estado-73101
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-17"
-last_updated: "2010-02-17"
+last_updated: "2014-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 17 de febrero de 2010.
 
@@ -472,3 +474,13 @@ EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA
 SALVADOR SANDOVAL PALAZUELOS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JULIO DE 2014.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Ley de Mejora Regulatoria para el Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 4780, del diecisiete de febrero de 2010, y se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Instrumento.
+
+TERCERA. Se instruye a la Comisión Estatal de Mejora Regulatoria a fin de que coordine con los Municipio (sic) de la Entidad, los trabajos de expedición de su Reglamento en materia de Mejora Regulatoria, de conformidad con el Artículo Cuarto Transitorio del Decreto número mil doscientos treinta y nueve por el que se reforman y adicionan diversos artículos de la Ley de Mejora Regulatoria para el Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5167, de 05 de marzo de 2014.
