@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2013-08-26"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -769,31 +769,37 @@ Los gastos generados por concepto de arrastre y corralón, derivados por el env�
 
 ### Capítulo V. Prevención de la Contaminación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 47.
 
-Los vehículos contarán con los dispositivos esenciales para prevenir y controlar la emisión de ruidos y gases que ocasionen contaminación ambiental conforme a las leyes federal y estatal de la materia, las disposiciones reglamentarias y normas oficiales que de ellas deriven.
+Los vehículos contarán con los dispositivos esenciales para prevenir y controlar la emisión de ruidos y gases que ocasionen contaminación ambiental conforme a las leyes federales y estatales de la materia, las disposiciones reglamentarias y normas oficiales y programas de verificación vehicular que de ellas deriven, debiendo acudir a los verificentros o centro de verificación autorizados para verificar las emisiones de su vehículo, de acuerdo con los calendarios establecidos para este propósito y portar en el vehículo el engomado que así lo acredite.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 La Dirección de Tránsito y la de Transporte coadyuvarán en la vigilancia de esta disposición con las autoridades competentes.
 
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
 ###### Artículo 48.
 
 Las autoridades de tránsito y transporte ordenarán el retiro de la circulación de los vehículos que no porten la constancia de haber acreditado la verificación vehicular y de los que emitan humo negro o azul o ruido en exceso.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+Las unidades que circulen contraviniendo la presente disposición serán retiradas de circulación y depositadas en los corralones del Estado o Municipio, y corresponderá a la Secretaría de Medio Ambiente del Estado implementar los procedimientos correspondientes, en términos de la leyes, reglamentos, normas y programas, a fin de que cumplan la verificación vehicular respectiva, y sólo de esa manera se autorice la circulación de las mismas, previo pago de multa, arrastre y días de corralón.
 
-Las unidades que circulen contraviniendo la presente disposición serán retiradas de circulación y depositadas en los corralones, a disposición de la Secretaría de Desarrollo Social y Medio Ambiente, para que con los propietarios de aquéllas se establezca el procedimiento a fin de que cumplan la verificación vehicular correspondiente y sólo de esa manera se autorice la circulación de las mismas, previo pago de multa, arrastre y días de corralón.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 49.
 
-Los propietarios o conductores de los vehículos que no cuenten con la constancia que refiere el artículo anterior o que sus vehículos emitan humo negro o azul, o ruido en exceso se harán acreedores a las sanciones previstas en esta Ley y su Reglamento.
+Los propietarios o conductores de los vehículos que no cuenten con la constancia que refiere el artículo anterior o que sus vehículos emitan humo negro o azul, o ruido en exceso se harán acreedores a las sanciones previstas en esta Ley, su Reglamento y el Programa de Verificación Vehicular vigente que emita el Estado.
+
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 50.
 
-Las autoridades estatales en materia ambiental se coordinarán con las autoridades de tránsito y transporte, a fin de llevar a cabo operativos para la detección de vehículos que, aún portando el engomado de verificación vehicular, rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas.
+Las autoridades estatales en materia ambiental se coordinarán con las autoridades de tránsito y transporte, a fin de llevar a cabo operativos para la detección de vehículos que, aun portando el engomado de verificación vehicular, rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas.
 
-Las autoridades de tránsito y transporte no permitirán la circulación de vehículos que rebasen los límites permisibles de contaminación, hasta en tanto no los habiliten y sean aprobados en su funcionamiento por los centros de verificación autorizados por las autoridades estatales en materia ambiental, aplicando las sanciones a que se hubieren hecho acreedores en términos de las disposiciones reglamentarias.
+Las autoridades de tránsito y transporte no permitirán la circulación de vehículos que rebasen los límites permisibles de contaminación, hasta en tanto no los habiliten y sean aprobados en su funcionamiento por los verificentros o centros de verificación autorizados por las autoridades estatales en materia ambiental, aplicando las sanciones a que se hubieren hecho acreedores, en términos de las disposiciones correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -801,7 +807,9 @@ Las autoridades de tránsito y transporte no permitirán la circulación de veh�
 
 La Dirección de Transporte exigirá que todos los vehículos destinados al servicio de transporte público porten el engomado de verificación vehicular, como requisito para acreditar la revista anual del transporte público.
 
-Las autoridades de tránsito y transporte remitirán a la autoridad estatal en materia ambiental, el mismo día de la infracción, el número de folio del engomado del vehículo que contamine ostensiblemente, para que proceda en contra del centro de verificación vehicular en términos de la Ley Estatal de Protección Ambiental.
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+
+Las autoridades de tránsito y transporte remitirán a la autoridad estatal en materia ambiental, el mismo día de la infracción, el número de folio del engomado del vehículo que contamine ostensiblemente, para que proceda en contra del verificentro o centro de verificación vehicular autorizado que lo emitió, en términos de la Ley Estatal de Protección Ambiental y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -2242,3 +2250,17 @@ Artículo Sexto. En todos los ordenamientos y disposiciones en que se haga menci
 Artículo Séptimo. La Secretaría de Finanzas y Planeación y la Contraloría General, conformarán un Grupo de Trabajo, a fin de determinar la estructura orgánica mínima indispensable que integrará las Secretarías, cuyas funciones se reforman, adicionan o derogan en este instrumento. Las denominaciones de los órganos y áreas administrativas se ajustarán a lo dispuesto en los Lineamientos por los que se establecen los criterios técnico-administrativos para la modificación, elaboración y autorización de las estructuras orgánicas y plantillas de personal de las Dependencias y Entidades de la Administración Pública.
 
 Artículo Octavo. En tanto se expidan las nuevas normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+
+G.O. 16 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Las multas previstas en los artículos 139, fracción IV, y 142 de la Ley Estatal de Protección Ambiental podrán aplicarse, al actualizarse alguna de las infracciones previstas en dichos preceptos, a partir del primero de enero de dos mil quince.
+
+TERCERO. La Secretaría y las autoridades competentes del Gobierno del Estado de Veracruz de Ignacio de la Llave realizarán las adecuaciones correspondientes en los Programas y Reglamentos derivados del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
+
+QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
+
+SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
