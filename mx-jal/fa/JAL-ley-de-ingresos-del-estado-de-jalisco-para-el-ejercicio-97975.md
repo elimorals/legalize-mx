@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-97975"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-14"
-last_updated: "2014-06-14"
+last_updated: "2014-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 14 de diciembre de 2013.
 
@@ -157,13 +157,19 @@ b) Productos de Capital 6,186,000
 
 e Inversiones del Estado 6,186,000
 
-IV. Aprovechamientos 4,252,045,000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
 
-a) Aprovechamientos de Tipo Corriente 4,252,045,000
+IV. Aprovechamientos 4,358,045,000
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
+
+a) Aprovechamientos de Tipo Corriente 4,358,045,000
 
 1) Accesorios a contribuciones -
 
-2) Diversos 1,004,648,000
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
+2) Diversos 1,110,648,000
 
 3) Gastos Administración Recaudación 322,816,880
 
@@ -199,11 +205,17 @@ de Organismos Descentralizados 544,395,000
 
 de su Propiedad (ingresos propios OPDs) 544,395,000
 
-VI. Participaciones y Aportaciones 63,468,313,000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
 
-Participaciones 33,687,225,000
+VI. Participaciones y Aportaciones 63,748,313,000
 
-a) Fondo General de Participaciones 30,315,789,000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
+
+Participaciones 33,967,225,000
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
+
+a) Fondo General de Participaciones 30,595,789,000
 
 b) Fondo de Fomento Municipal 974,785,000
 
@@ -293,9 +305,9 @@ a) Financiamiento para el Abastecimiento de Agua
 
 para la Zona Conurbada de Guadalajara 253,217,000
 
-I, II, III, IV, V, VI, VII y VIII TOTAL
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-GENERAL 83,836,493,000
+TOTAL GENERAL 84,222,493,000.00
 
 ###### Artículo 2°.
 
@@ -2792,3 +2804,11 @@ P.O. 14 DE JUNIO DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. La Secretaría de Planeación, Administración y Finanzas deberá publicar dentro de los 30 días siguientes a la entrada en vigor del presente decreto, los requisitos y normatividad que regirán para la procedencia de la reducción establecida en el presente decreto.
+
+P.O. 17 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación, Administración y Finanzas a modificar los volúmenes correspondientes al Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2014 y su plantilla de personal anexa, para ser publicados en el Periódico Oficial El Estado de Jalisco, en los términos del presente Decreto, los cuales deberá formular dentro de los 10 días hábiles posteriores a su aprobación.
+
+Tercero. Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación, Administración y Finanzas a efectuar las adecuaciones presupuestales y administrativas que se requieran, incluidas las ampliaciones y transferencias entre partidas que por la implementación de la presente autorización o que por el reajuste presupuestal, reporten variación tanto en incremento, como por insuficiencia presupuestal, aun en aquellas partidas que no sean consideradas de ampliación automática, el ejercicio de esta facultad deberá ser notificado al Congreso dentro de los treinta días siguientes a que se haga uso de la misma.
