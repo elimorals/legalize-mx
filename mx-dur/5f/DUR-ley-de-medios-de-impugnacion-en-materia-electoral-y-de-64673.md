@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2009-06-18"
+last_updated: "2014-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL Y DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
+LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -49,25 +49,27 @@ LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES Y DEL ÁMBITO DE APLICACIÓN Y CRITERIOS DE INTERPRETACIÓN
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
 ARTÍCULO 1
 
-1. Esta ley es de orden público y de observancia general en todo el Estado, en materia de medios de impugnación político-electoral y de participación ciudadana, y reglamentaria de los artículos 25, 37 y 97 de la Constitución Política del Estado Libre y Soberano de Durango.
+1. Esta ley es de orden público y de observancia general en todo el Estado, en materia de medios de impugnación político-electoral y de participación ciudadana, y reglamentaria de los artículos 63 y 141 de la Constitución Política del Estado libre y Soberano de Durango.
 
 ARTÍCULO 2
 
 1. Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-2. Los criterios fijados por el Tribunal Electoral del Poder Judicial del Estado, sentarán jurisprudencia cuando sustenten en el mismo sentido tres resoluciones.
+2. Los criterios fijados por el Tribunal Electoral del Estado de Durango, sentarán jurisprudencia cuando sustenten en el mismo sentido tres resoluciones.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-3. El Presidente del Tribunal Electoral del Poder Judicial del Estado notificará de inmediato los criterios definidos a que se refiere el párrafo 2 de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlo a partir del momento de su notificación.
+3. El presidente del Tribunal Electoral del Estado de Durango, notificará de inmediato los criterios definidos a que se refiere el párrafo 2 de este artículo y los mandará publicar por estrados. Los Magistrados estarán obligados a aplicarlo a partir del momento de su notificación.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-4. El Tribunal Electoral del Poder Judicial del Estado difundirá los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+4. El Tribunal Electoral del Estado de Durango, difundirá los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
 
 5. La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada por las autoridades electorales competentes, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
 
@@ -75,7 +77,9 @@ ARTÍCULO 3
 
 1. Para los efectos de esta ley, se entenderá por:
 
-I. El Tribunal Electoral: El Tribunal Electoral del Poder Judicial del Estado de Durango;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
+
+I. El Tribunal Electoral: El Tribunal Electoral del Estado de Durango;
 
 II. El Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Durango;
 
@@ -85,7 +89,9 @@ IV. Periódico Oficial: Al Periódico Oficial del Gobierno Constitucional del Es
 
 V. Congreso: Al Congreso del Estado de Durango;
 
-VI. Consejo Estatal: Al Consejo Estatal Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
+
+VI. Consejo General: Al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango; y
 
 VII. Consejo Municipal: A los Consejos Municipales Electorales del Instituto Electoral y de Participación Ciudadana del Estado de Durango
 
@@ -433,7 +439,9 @@ ARTÍCULO 26
 
 1. El presidente de la sala ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
-2. La Sala del Tribunal Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial del Estado, y el Reglamento Interno del propio Tribunal, así como las reglas y el procedimiento siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2014)</small>
+
+2. La Sala del Tribunal Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezca la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, y el Reglamento Interno del propio Tribunal, así como las reglas y el procedimiento siguientes:
 
 I. Abierta la sesión pública por el Presidente de la Sala y verificado el quórum legal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
 
@@ -457,7 +465,9 @@ ARTÍCULO 28
 
 2. Durante los procesos electorales el Instituto y el Tribunal Electoral podrán notificar sus actos, resoluciones o sentencias en cualquier día y hora.
 
-3. Las notificaciones se podrán hacer personalmente por estrados, por oficio, por correo certificado o por telegrama, o por fax según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de este libro.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
+3. Las notificaciones se podrán hacer personalmente por estrados, por oficio, por correo certificado o por telegrama, por fax, o por medio electrónico, según se requiera para la eficacia del acto resolución o sentencia a notificar, salvo disposición expresa de este libro.
 
 ARTÍCULO 29
 
@@ -500,6 +510,10 @@ II. Si el domicilio se encontrara en lugar distinto del previsto en la fracción
 Para el caso de que no se contara con el acuse de recibo, deberá fijarse además un ejemplar de la determinación judicial correspondiente en los estrados de la sala.
 
 4. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la transmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2014)</small>
+
+5. La notificación por correo electrónico surtirá efectos a partir de que se tenga constancia de la recepción de la misma o, en su caso, se cuente con el acuse de recibo correspondiente
 
 ARTÍCULO 32
 
@@ -581,11 +595,13 @@ b). Las resoluciones definitivas que dicte el Instituto sobre la asignación de 
 
 c). Los actos, acuerdos y demás resoluciones que dicte el Instituto y afecten la constitucionalidad o legalidad en materia político-electoral o el sistema de partidos políticos;
 
-d). La resolución del Consejo Estatal que ponga fin al procedimiento de liquidación y los actos que integren ese procedimiento que causen una afectación sustantiva al promovente;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+d). La resolución del Consejo General que ponga fin al procedimiento de liquidación y los actos que integren ese procedimiento que causen una afectación sustantiva al promovente;
 
-e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
+e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales municipales.
 
 II. Durante el proceso electoral ordinario o extraordinario contra:
 
@@ -597,9 +613,9 @@ c). La asignación de diputados y regidores de representación proporcional;
 
 d). La declaratoria de validez de las elecciones de gobernador del Estado, diputados e integrantes de los Ayuntamientos y, en su caso, que emitan los órganos del Instituto en el ámbito de su competencia; y
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
-e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales.
+e). Los actos o resoluciones sobre la designación y remoción de Consejeros electorales municipales.
 
 2. Las causas de nulidad previstas en esta ley, sólo podrán hacerse valer al promover el juicio Electoral en contra de los supuestos señalados en los incisos b), c) y d) de esta fracción.
 
@@ -679,7 +695,7 @@ ARTÍCULO 48
 
 1. Todos los juicios Electorales deberán estar resueltos en un plazo no mayor de seis días contados a partir de que el Tribunal Electoral emita el auto de admisión correspondiente.
 
-2. Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a mas (sic) tardar el día trece de agosto y los relativos a la elección de gobernador del estado a mas (sic) tardar el quince de agosto, ambas fechas del año de la elección.
+2. Los juicios Electorales relativos a los cómputos, declaraciones de validez y entrega de constancias de mayoría de las elecciones de diputados y ayuntamientos deberán quedar resueltos a mas tardar el día trece de agosto y los relativos a la elección de gobernador del estado a mas tardar el quince de agosto, ambas fechas del año de la elección.
 
 ### CAPÍTULO II. DE LAS NULIDADES
 
@@ -755,6 +771,24 @@ II. Cuando en el territorio estatal no se instale el veinticinco por ciento o m�
 
 III. Cuando el candidato ganador de la elección resulte inelegible.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2014)</small>
+
+ARTÍCULO 54 BIS
+
+1. Son causas de nulidad de una elección de diputado de mayoría relativa en un distrito electoral uninominal, o de una elección de integrantes de un ayuntamiento en un municipio, o de una elección de gobernador del Estado, las violaciones graves, dolosas y determinantes, previstas en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+3. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+4. Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+5. Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+6. Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+7. Con la finalidad de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
+
 ARTÍCULO 55
 
 1. El Tribunal Electoral podrá declarar la nulidad de una elección de diputados, integrantes de los Ayuntamientos o gobernador, cuando se hayan cometido en forma generalizada violaciones substanciales y graves en la jornada electoral de acuerdo con las causales de nulidad previstas en esta ley, en el municipio, distrito o en la entidad, siempre y cuando éstas se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos promoventes o a sus candidatos.
@@ -765,7 +799,7 @@ ARTÍCULO 55
 
 ### CAPÍTULO ÚNICO. ARTÍCULO 56
 
-1. El Juicio para la protección de los derechos político-electorales, solo (sic) procederá cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en la fracción V del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada. Además será procedente para impugnar los actos u omisiones en materia de participación ciudadana en la vida pública del Estado y de los Municipios
+1. El Juicio para la protección de los derechos político-electorales, solo procederá cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos. En el supuesto previsto en la fracción V del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la organización o agrupación política agraviada. Además será procedente para impugnar los actos u omisiones en materia de participación ciudadana en la vida pública del Estado y de los Municipios
 
 ARTÍCULO 57
 
@@ -807,7 +841,7 @@ XIII. Todos los demás actos de los órganos del Instituto en materia de partici
 
 XIV. Cualquier otro acto u omisión que afecte los derechos fundamentales de carácter político-electoral.
 
-2. El juicio solo (sic) será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones realizadas para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+2. El juicio solo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones realizadas para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
 
 3. Los actos o resoluciones que violen el derecho político-electoral de votar de los ciudadanos sólo se impugnará a través del medio de impugnación correspondiente previsto en la Ley General del Sistema de Medios de Impugnación en Materia Electoral, a menos de que los órganos del Instituto expidan el documento oficial mediante el cual los ciudadanos electores duranguenses ejerzan su derecho a votar en las elecciones locales, en cuyo caso los actos o resoluciones del Instituto podrán ser impugnadas conforme a este artículo.
 
@@ -917,7 +951,7 @@ ARTÍCULO 71
 
 ARTÍCULO 72
 
-1. De ofrecerse la prueba confesional a cargo del Consejero Presidente o del Secretario Ejecutivo del Instituto, solo (sic) será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por el Instituto y relacionados con la litis. Su desahogo será vía oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas de legales por el Tribunal Electoral las posiciones, remitirá el pliego al absolvente, para que en un término de cinco días hábiles lo conteste por escrito.
+1. De ofrecerse la prueba confesional a cargo del Consejero Presidente o del Secretario Ejecutivo del Instituto, solo será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por el Instituto y relacionados con la litis. Su desahogo será vía oficio y para ello el oferente de la prueba deberá presentar el pliego de posiciones correspondiente. Una vez calificadas de legales por el Tribunal Electoral las posiciones, remitirá el pliego al absolvente, para que en un término de cinco días hábiles lo conteste por escrito.
 
 ARTÍCULO 73
 
@@ -975,10 +1009,18 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JUNIO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 17 DE JULIO DE 2014.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Los medios de impugnación en materia electoral y de participación ciudadana que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
