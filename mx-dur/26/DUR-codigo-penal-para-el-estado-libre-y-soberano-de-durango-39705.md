@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2014-05-22"
+last_updated: "2014-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CÓDIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CÓDIGO SE APLICARÁN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -1331,7 +1331,7 @@ III.- Ejerza las funciones de un empleo, cargo o comisión después de haber sid
 
 IV.- Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas en perjuicio de terceros o de la función pública;
 
-V.- Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y (sic)
+V.- Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, utilice o inutilice, indebidamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2513,7 +2513,7 @@ Se le impondrán de tres a nueve años de prisión y multa de doscientos diecis�
 
 I.- Desmonte o destruya la vegetación natural; corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o haga cambios de uso de suelo en suelos de conservación, áreas naturales protegidas o áreas verdes en suelo urbano; y
 
-II.- Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano; (sic)
+II.- Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2013)</small>
 
@@ -4027,6 +4027,8 @@ Se impondrá de tres a seis meses de prisión y de tres a diez días multa, al q
 
 ### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 445.
 
 Se impondrá de seis meses a diez años de prisión y de cien a quinientos días multa, a quiénes compren o vendan o de cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, salvo las excepciones que se contemplan en la Legislación Agraria.
@@ -4035,141 +4037,51 @@ Se impondrá de seis meses a diez años de prisión y de cien a quinientos días
 
 ###### ARTÍCULO 446.
 
-Para los efectos de este Capítulo, se entiende por:
-
-I.- Servidores Públicos, las personas a que se refiere el Artículo 116 de la Constitución Política Local.
-
-II.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
-
-III.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales y de las agrupaciones políticas estatales y sus representantes ante los órganos electorales, en los términos de la legislación estatal electoral;
-
-IV.- Candidatos, los ciudadanos registrados formalmente como tales ante la autoridad competente;
-
-V.- Los documentos públicos electorales, las actas de jornada electoral, las de escrutinio y cómputo, los paquetes electorales y los expedientes de casilla, las actas circunstanciadas de las sesiones de los Consejos Local y Municipales relativas a los cómputos local, distritales, municipales y de circunscripción plurinominal y, en general, todos los documentos y actas expedidos o suscritos por las autoridades electorales en el ejercicio de sus funciones; y
-
-VI.- Materiales electorales, los elementos físicos electorales tales como urnas, canceles y modulares para la emisión del voto, marcadores de credencial para votar, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para utilización en las casillas electorales durante la jornada electoral.
+En materia de delitos electorales, se estará a lo dispuesto por la Ley General correspondiente.
 
 ###### ARTÍCULO 447.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años, la inhabilitación de uno a cinco años como servidor público y su destitución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 448.
 
-Se impondrán de setenta y dos a doscientos dieciséis días-multa y prisión de uno a tres años, a quien:
-
-I.- Vote a sabiendas de que no cumple con los requisitos de la Ley;
-
-II.- Vote más de una vez en una misma elección;
-
-III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes con el fin de orientar el sentido de su voto;
-
-IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
-
-V.- Recoja en cualquier tiempo, sin causa prevista por la Ley, credenciales para votar de los ciudadanos;
-
-VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
-
-VII.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
-
-VIII.- Vote o pretenda votar con una credencial para votar en la que no sea titular;
-
-IX.- El día de la jornada electoral lleve a cabo diversas acciones, coartando o pretendiendo coartar su libertad para la emisión del voto;
-
-X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
-
-XI.- Obtenga o solicite declaración firmada del elector a cerca de su intención o el sentido de su voto, o bien que mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
-
-XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; y
-
-XIII.- Durante los ocho días previos a la jornada electoral y hasta que el Consejo Estatal Electoral del Instituto Estatal Electoral haya dado a conocer los resultados preliminares, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias de los ciudadanos.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 449.
 
-Se impondrá multa de treinta y seis a doscientos dieciséis días de salario, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 450.
 
-Se impondrán de cincuenta a doscientos días multa y de dos a seis años de prisión, al funcionario electoral que:
-
-I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
-
-II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones electorales propias de su encargo, en perjuicio del proceso electoral;
-
-III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
-
-V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
-
-VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de las casillas o en el lugar donde los propios electores se encuentren formados;
-
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
-
-VIII.- Sin causa prevista por la Ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
-
-IX.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; y
-
-X.- Propale de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 451.
 
-Se impondrán de cien a doscientos días multa y de uno a seis años de prisión, al funcionario partidista o al candidato que:
-
-I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III.- Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
-
-IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
-
-V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
-
-VI.- Impida con violencia la instalación, apertura o cierre de votación de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia; y
-
-VII.- Obtenga y utilice a sabiendas en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 452.
 
-Se impondrán de doscientos a cuatrocientos días multa y de uno a nueve años de prisión, al servidor público que:
-
-I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
-
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
-
-III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado;
-
-IV.- Proporcione apoyo o preste algún servicio a los partidos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores de manera ilegal; V.- Prive de la libertad a los candidatos, a sus representantes, a los representantes de los partidos políticos, o a los funcionarios electorales bajo pretexto de comisión de delitos inexistentes y sin existir orden de aprehensión para ello; y
-
-VI.- Impida sin causa justificada, la reunión de una asamblea, manifestación pública, o cualquier acto legal de propaganda electoral.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 453.
 
-Se impondrá sanción de suspensión de derechos políticos hasta por seis años a quien, habiendo sido electo popularmente no se presente, sin causa justificada a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado Libre y Soberano de Durango.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 454.
 
-Se impondrán de veinte a cien días multa y de tres meses a cinco años de prisión, a quien:
-
-I.- Proporcione documentos o información falsa al Registro Estatal de Ciudadanos para obtener el documento que acredite la ciudadanía; y
-
-II.- Altere de cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Estatal de Ciudadanos.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 455.
 
-La pena a que se refiere el artículo anterior, se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 456.
 
-Se impondrá de setenta a doscientos días multa y de tres a siete años de prisión, a quien por cualquier medio altere o participe en la alteración del Registro Estatal de Electores, de los listados nominales o en la expedición ilícita de credenciales para votar.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### ARTÍCULO 457.
 
-Se impondrá de dos a nueve años de prisión, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del Artículo 452 de este Código.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ## TRANSITORIOS
 
@@ -4440,3 +4352,9 @@ P.O. 22 DE MAYO DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 17 DE JULIO DE 2014.
+
+Primero. Las presentes disposiciones entrarán en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
