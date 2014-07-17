@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-del-personal-700
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-02"
-last_updated: "2009-09-02"
+last_updated: "2014-07-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL PERSONAL ACADEMICO DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL PERSONAL ACADEMICO DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
+REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DEL PERSONAL ACADÉMICO DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE TRABAJO DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, PUBLICADO EN LA G.G. DE 17 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta de Gobierno del Estado de México, el miércoles 2 de septiembre de 2009.
 
@@ -932,3 +934,15 @@ LIC. JOSÉ LUÍS GUILLERMO GONZÁLEZ RODRÍGUEZ
 DIRECTOR
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 17 DE JULIO DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO. El presente Reglamento Interior de Trabajo deberá depositarse en la Junta de Conciliación y Arbitraje para los efectos laborales a que haya lugar.
+
+CUARTO. Se dejan sin efectos los Reglamentos de Condiciones Generales de Trabajo del Personal Docente y del Personal Administrativo del Tecnológico de Estudios Superiores de Valle de Bravo, aprobados por la Junta Directiva del Tecnológico, en la XXVII Sesión Ordinaria del mes de julio de dos mil cinco.
