@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2008-12-14"
+last_updated: "2014-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -63,11 +63,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 127 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos; así como en materia de Proyectos de Inversión y Prestación de Servicios.
+La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 160, en su párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos; así como en materia de Proyectos de inversión y Prestación de Servicios.
 
 ###### ARTÍCULO 2.
 
@@ -75,15 +75,15 @@ Para efectos de esta Ley se entenderá por:
 
 I.- SECRETARÍA: La Secretaria de Finanzas y de Administración.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
 
-II.- CONTRALORÍA: La Secretaría de la Contraloría y Modernización Administrativa del Gobierno del Estado.
+II.- CONTRALORÍA: La Secretaría de Contraloría.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
 III.- DEPENDENCIAS: Las señaladas en las fracciones del artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Durango.
 
-IV.- ENTIDADES: Los organismos públicos descentralizados Estatales o Municipales, las empresas de participación Estatal o Municipal mayoritaría (sic) y los fideicomisos en donde el fideicomitente sea el Gobierno del Estado.
+IV.- ENTIDADES: Los organismos públicos descentralizados Estatales o Municipales, las empresas de participación Estatal o Municipal mayoritaría y los fideicomisos en donde el fideicomitente sea el Gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
@@ -215,11 +215,11 @@ Las controversias que se susciten con motivo de la aplicación de esta Ley se so
 
 Las controversias que se susciten con motivo de los contratos celebrados con base en esta Ley, se someterán a la jurisdicción de los tribunales estatales o al arbitraje, según se estipule en dichos contratos.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-En lo no previsto por la presente Ley será aplicable supletoriamente el Código de Justicia Administrativa del Estado de Durango.
+En lo no previsto por la presente Ley será aplicable supletoriamente la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -367,7 +367,7 @@ IV.- La indicación, si la licitación es nacional o internacional;
 
 V.- La descripción general, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación;
 
-VI.- En caso de arrendamiento, la indicación de si éste es con opción a compra; y (sic)
+VI.- En caso de arrendamiento, la indicación de si éste es con opción a compra; y
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
@@ -431,7 +431,7 @@ XIV.- Penas convencionales por atraso en las entregas o en la prestación de los
 
 XV.- Instrucciones para elaborar y entregar las proposiciones y garantías;
 
-XVI.- La indicación, en los casos de licitación internacional, que los pagos se harán en moneda nacional; y (sic)
+XVI.- La indicación, en los casos de licitación internacional, que los pagos se harán en moneda nacional; y
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
 
@@ -887,7 +887,7 @@ VI.- Baja o destino.
 
 ###### ARTÍCULO 57.
 
-La Secretaría, Las (sic) Dependencias, las Entidades y Ayuntamientos en los supuestos a que se refiere el presente capítulo bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisición, arrendamientos y de servicios, a través de los procedimientos de invitación restringida o adjudicación directa, respetando los ayuntamientos sus lineamientos correspondientes.
+La Secretaría, Las Dependencias, las Entidades y Ayuntamientos en los supuestos a que se refiere el presente capítulo bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisición, arrendamientos y de servicios, a través de los procedimientos de invitación restringida o adjudicación directa, respetando los ayuntamientos sus lineamientos correspondientes.
 
 La opinión que ejerzan deberá fundarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, emitiendo un dictamen en el que deberán acreditar de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opinión y contendrá además:
 
@@ -1166,3 +1166,9 @@ Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Tercero.- Dentro de los 180 días en que entren en vigor el presente decreto, el Ejecutivo del Estado realizará las adecuaciones pertinentes al Reglamento de esta Ley.
+
+P.O. 17 DE JULIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
