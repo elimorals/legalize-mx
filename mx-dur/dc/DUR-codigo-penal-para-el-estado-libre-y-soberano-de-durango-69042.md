@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2014-05-22"
+last_updated: "2014-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSI
 
 NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TRANSITORIO PRIMERO DEL DECRETO NÚMERO 139 DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2014, SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR EL PRESENTE ORDENAMIENTO, MISMO QUE SURTE SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4353,6 +4353,8 @@ Cuando un particular cometa o participe en alguno de los delitos previsto en est
 
 ### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+
 ###### Artículo 381.
 
 Al sentenciado a confinamiento que salga del lugar que se haya fijado para su residencia antes de extinguirla, se le impondrá prisión por el tiempo que le falte para extinguir el confinamiento.
@@ -4561,131 +4563,43 @@ Si con la llamada o mensaje se produce un daño, se altera del orden público o 
 
 ###### Artículo 407.
 
-Para los efectos de los delitos electorales, se entiende por:
-
-I. Servidores Públicos: Las personas a que se refiere el artículo 116 de la Constitución Política Local;
-
-II. Funcionarios electorales: Quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
-
-III. Funcionarios partidistas: Los dirigentes de los partidos políticos estatales y de las agrupaciones políticas estatales y sus representantes ante los órganos electorales, en los términos de la legislación estatal electoral;
-
-IV. Candidatos: Los ciudadanos registrados formalmente como tales ante la autoridad competente;
-
-V. Los documentos públicos electorales: Las actas de jornada electoral, las de escrutinio y cómputo, los paquetes electorales y los expedientes de casilla, las actas, circunstanciadas de las sesiones de los Consejos Local y Municipales relativas a los cómputos local, distritales, municipales y de circunscripción plurinominal y, en general, todos los documentos y actas expedidos o suscritos por las autoridades electorales en el ejercicio de sus funciones; y,
-
-VI. Materiales electorales: Los elementos físicos electorales tales como urnas, canceles y modulares para la emisión del voto, marcadores de credencial para votar, liquido indeleble, útiles de escritorio y demás equipamiento autorizado para utilización en las casillas electorales durante la jornada electoral.
+En materia de delitos electorales, se estará a lo dispuesto por la Ley General correspondiente.
 
 ###### Artículo 408.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente capitulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos por un término igual al de la pena privativa de libertad, la inhabilitación de uno a cinco años como servidor público y su destitución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 409.
 
-Se impondrán de setenta y dos a doscientos dieciséis días-multa y prisión de uno a tres años, a quien:
-
-I. Vote a sabiendas de que no cumple con los requisitos de la ley;
-
-II. Vote más de una vez en una misma elección;
-
-III. Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes con el fin de orientar el sentido de su voto;
-
-IV. Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral o el adecuado ejercicio de las tareas de los funcionarios electorales;
-
-V. Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
-
-VI. Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
-
-VII. El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
-
-VIII. Vote o pretenda votar con una credencial para votar en la que no sea titular;
-
-IX. El día de la jornada electoral lleve a cabo diversas acciones, coartando o pretendiendo coartar su libertad para la emisión del voto;
-
-X. Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales o se apodere, destruya o altere boletas, documentos o materiales electorales o impida de cualquier forma su traslado o entrega a los órganos competentes;
-
-XI. Obtenga o solicite declaración firmada del elector a cerca de su intención o el sentido de su voto o bien que mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
-
-XII. Impida en forma violenta la instalación de una casilla o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; y,
-
-XIII. Durante los ocho días previos a la jornada electoral y hasta que el Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango haya dado a conocer los resultados preliminares, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias de los ciudadanos.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 410.
 
-Se impondrán multa de de (sic) treinta y seis a doscientos dieciséis días de salario, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 411.
 
-Se impondrán multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario y de dos a seis años de prisión, al funcionario electoral que:
-
-I. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
-
-II. Se abstenga de cumplir, sin causa justificada, con las obligaciones electorales propias de su encargo, en perjuicio del proceso electoral;
-
-III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-IV. Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
-
-V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
-
-VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de las casillas o en el lugar donde los propios electores se encuentren formados;
-
-VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
-
-VIII. Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
-
-IX. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; y,
-
-X. Propale de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 412.
 
-Se impondrán multa de setenta y dos a cuatrocientos treinta y dos días de salario y de uno a seis años de prisión, al funcionario partidista o al candidato que:
-
-I. Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III. Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
-
-IV. Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
-
-V. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
-
-VI. Impida con violencia la instalación, apertura o cierre de votación de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia; y,
-
-VII. Obtenga y utilice a sabiendas en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 413.
 
-Se impondrán multa de setenta y dos a seiscientos cuarenta y ocho días de salario y de uno a nueve años de prisión, al servidor público que:
-
-I. Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
-
-II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
-
-III. Destine fondos, bienes o servicios que tenga a su disposición al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado;
-
-IV. Proporcione apoyo o preste algún servicio a los partidos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores de manera ilegal;
-
-V. Prive de la libertad a los candidatos, a sus representantes, a los representantes de los partidos políticos o a los funcionarios electorales bajo pretexto de comisión de delitos inexistentes y sin existir orden de aprehensión para ello; e
-
-VI. Impida sin causa justificada, la reunión de una asamblea, manifestación, pública o cualquier acto legal de propaganda electoral.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 414.
 
-Se impondrá sanción de suspensión de derechos políticos hasta por seis años a quien, habiendo sido electo popularmente no se presente, sin causa justificada a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado Libre y Soberano de Durango.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 415.
 
-Se impondrán de tres a siete años de prisión y multa de doscientos dieciséis a quinientos cuatro días de salario, a quien por cualquier medio altere o participe en la alteración del Registro Estatal de Electores, de los listados nominales o en la expedición ilícita de credenciales para votar. Se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores conforme a la ley de la materia o si fuere de nacionalidad extranjera.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ###### Artículo 416.
 
-Se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, al funcionario partidista, o a los organizadores de actos de campaña que a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 413 de ése código.
+(DEROGADO, P.O. 17 DE JULIO DE 2014)
 
 ## TRANSITORIOS
 
@@ -5048,3 +4962,9 @@ P.O. 22 DE MAYO DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 17 DE JULIO DE 2014.
+
+Primero. Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
