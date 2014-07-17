@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-infraestructura-del-815
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2014-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, DE PUEBLA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Novena Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -1010,3 +1012,17 @@ TERCERO.- Todo instrumento legal, jurídico o administrativo y norma en sentido 
 CUARTO.- Quedan sin efecto todas aquéllas disposiciones que contravengan lo dispuesto en el presente Reglamento.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.-C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario de Infraestructura.-C. JOSÉ ANTONIO GALI FAYAD.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JULIO DE 2014.
+
+PRIMERO. El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se abroga el Decreto por el que se expide el Reglamento de la Secretaría de Infraestructura, publicado en el Periódico Oficial del Estado de fecha trece de mayo del dos mil once.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a unidades administrativas que se desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia especifica que en cada caso se relacione.
+
+QUINTO. Dentro de los sesenta días siguientes a la publicación del presente decreto, las unidades administrativas podrán llevar a cabo la transferencia de los asuntos a su cargo a las que las absorben.
