@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-colegio-de-bachilleres-del-estado-64406
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-27"
-last_updated: "2008-10-27"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+N. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 18 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 27 de octubre de 2008.
 
@@ -741,3 +743,23 @@ SECRETARIO GENERAL ADMINISTRATIVO Y SUPLENTE DEL RECTOR DEL CENTRO DE ESTUDIOS S
 ING. DOMINGO TRUJILLO VENEGAS
 
 DIRECTOR GENERAL DEL INSTITUTO TECNOLÓGICO DE HERMOSILLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 18 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Colegio de Bachilleres del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, número 34, sección I, del día 27 de octubre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y de Puestos del Colegio, deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los nuevos manuales administrativos, serán válidos los actuales, en lo que no se opongan al texto de este Reglamento Interior, además de los Acuerdos y Circulares que correspondan al Colegio. Asimismo el Director General del Colegio estará facultado para resolver las cuestiones que se presenten y que no se encuentren contempladas, en tanto se expiden los mencionados documentos normativos.
