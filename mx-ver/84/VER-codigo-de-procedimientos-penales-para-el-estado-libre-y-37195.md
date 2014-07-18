@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2014-05-08"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LL
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA DEROGADO EN FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DEL 17 DE SEPTIEMBRE DE 2012, EN LOS DIFERENTES DISTRITOS JUDICIALES QUE SE SEÑALAN AL RESPECTO, EN LAS FECHAS CORRESPONDIENTES AL 11 DE NOVIEMBRE DE 2013, 11 DE MAYO DE 2014 Y 11 DE MAYO DE 2015, RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1500,6 +1500,12 @@ En los casos de envenenamiento, se recogerán cuidadosamente las vasijas y demá
 ###### Artículo 195.
 
 Si el delito fuere de falsificación de documentos, además de la descripción minuciosa de éstos, se depositarán en lugar seguro y, si fuere posible, firmarán sobre ellos las personas que depongan respecto de su falsedad. En caso contrario, se hará constar el motivo. Si fuere necesario y posible, se agregará al expediente copia certificada del documento señalado como falso y otra copia fotostática del mismo.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 195 Bis.
+
+Cuando existan indicios de que las prendas a disposición de las casas de empeño son provenientes de la comisión de delitos, el Ministerio Público podrá ordenar respecto de ellas su verificación, peritajes y aseguramiento y sólo en caso de que ello no entorpezca la investigación podrán quedar en calidad de depósito a disposición de la autoridad, en la casa de empeño. Para el caso de negativa por parte del gerente, representante legal, directivo o encargado de la negociación, procederá solicitar la autorización de cateo respectiva.
 
 ### CAPÍTULO III. ATENCIÓN MÉDICA A LOS LESIONADOS
 
@@ -3318,3 +3324,9 @@ G.O. 8 DE MAYO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
