@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-66528
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2014-06-17"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "COA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2014, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2014 (ABROGADA).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2014.</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de febrero de 2009.
 
-EL C. PROFR. HUMBERTO MORElRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+EL C. PROFR. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
 QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
@@ -629,9 +631,11 @@ TRANSITORIOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA.
 
 La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley del Deporte para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado en fecha 27 de julio de 1999.
+Se abroga la Ley de Cultura Física y Deporte para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, número 11, de fecha 6 de febrero de 2009.
 
 ###### ARTÍCULO TERCERO.
 
