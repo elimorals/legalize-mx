@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-02-18"
+last_updated: "2014-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -481,7 +481,7 @@ XXXIV. Expedir en lo conducente, para efectos de lo dispuesto en las fracciones 
 
 XXXV. Dictar, previo acuerdo de las dos terceras partes de sus integrantes, disposiciones que afecten al patrimonio inmobiliario municipal. La enajenación, transmisión de la posesión o dominio de bienes inmuebles se podrá otorgar siempre que medie autorización expresa del Congreso del Estado;
 
-REFORMADA, G.O. 24 DE AGOSTO DE 2004)
+> <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
 
 XXXVI. Cuando se trate de la contratación de obras y servicios públicos que comprometan al municipio por un plazo mayor al periodo del Ayuntamiento, se requerirá el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado; en el caso de contratos de obra pública cuyo monto exceda del veinte por ciento de la partida presupuestal respectiva, se requerirá en los mismo (sic) términos el acuerdo del Cabildo, para someterlo a la aprobación del Congreso del Estado o, en sus recesos, de la Diputación Permanente;
 
@@ -519,7 +519,7 @@ XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito de
 
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y (sic)
+XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y
 
 > <small>(ADICIONADA, G.O. 10 DE MAYO DE 2010)</small>
 
@@ -717,7 +717,7 @@ XVI. Gobernación, Reglamentos y Circulares;
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVII. Equidad de Género; y (sic)
+XVII. Equidad de Género; y
 
 > <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -734,6 +734,10 @@ XX. Promoción y Defensa de los Derechos Humanos.
 > <small>(ADICIONADA, G.O. 10 DE ENERO DE 2013)</small>
 
 XXI. Ciencia y Tecnología.
+
+> <small>(ADICIONADA, G.O. 18 DE JULIO DE 2014)</small>
+
+XXII. Impulso a la Juventud.
 
 ###### Artículo 41.
 
@@ -927,7 +931,7 @@ II. Vigilar el cumplimiento de las disposiciones legales en materia de fusión, 
 
 III. Vigilar que las licencias del uso del suelo se apeguen a las disposiciones legales respectivas;
 
-IV. Supervisar el cumplimiento del reglamento de construcciones; y (sic)
+IV. Supervisar el cumplimiento del reglamento de construcciones; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE MARZO DE 2006)</small>
 
@@ -1061,7 +1065,7 @@ III. Promover las medidas necesarias para el uso racional de los recursos natura
 
 IV. Recomendar acciones para el desarrollo sustentable del municipio;
 
-V. Colaborar con la Comisión de Limpia Pública en la vigilancia de la operación de los rellenos sanitarios, sistemas de recolección, tratamiento y disposición final de basura; y (sic)
+V. Colaborar con la Comisión de Limpia Pública en la vigilancia de la operación de los rellenos sanitarios, sistemas de recolección, tratamiento y disposición final de basura; y
 
 VI. Proponer medidas tendientes a la debida protección de la flora y fauna existente en el municipio; y
 
@@ -1186,6 +1190,22 @@ III. Instalar en los principales parques y bibliotecas públicas municipales, el
 IV. Las que señalan el artículo 8 de la Ley de Fomento a la Investigación Científica y Tecnológica del Estado de Veracruz de Ignacio de la Llave.
 
 V. Las demás que expresamente le señalen otras disposiciones normativas.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 60 Septies.
+
+Son atribuciones de la Comisión de Impulso a la Juventud:
+
+I. Proponer al Ayuntamiento la implementación de programas enfocados a la participación activa de los jóvenes;
+
+II. Establecer una coordinación eficiente y efectiva con los gobiernos Federal y Estatal, para diseñar políticas públicas orientadas al desarrollo integral de la juventud en el municipio;
+
+III. Realizar periódicamente actividades dirigidas a la inclusión de los jóvenes en el ámbito laboral, a través de la capacitación, priorizando en madres solteras, discapacitados e integrantes de comunidades indígenas;
+
+IV. Emprender las gestiones que sean necesarias ante las autoridades competentes, a efecto de impulsar los proyectos que presenten los jóvenes al Ayuntamiento; y
+
+V. Lo que para tal efecto señale la Ley de Desarrollo Integral de la Juventud para el Estado de Veracruz de Ignacio de la Llave.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -3450,5 +3470,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 18 DE FEBRERO DE 2014.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
