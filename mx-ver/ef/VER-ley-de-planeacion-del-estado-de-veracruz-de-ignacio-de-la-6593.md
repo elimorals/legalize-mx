@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2003-03-18"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -41,7 +41,7 @@ La Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Ve
 
 LEY NUMERO 56.
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 DE PLANEACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
@@ -53,7 +53,7 @@ DISPOSICIONES GENERALES.
 
 La presente Ley, norma el Sistema de Planeación Democrática Estatal y señala las modalidades para que el Gobernador del Estado, coordine, mediante convenios, la participación de Veracruz en la planeación nacional del desarrollo. Sus disposiciones son de orden público e interés social.
 
-REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
 
 ###### ARTICULO 2o.
 
@@ -83,7 +83,7 @@ La organización y funcionamiento del Sistema Estatal de Planeación Democrátic
 
 El Sistema Estatal de Planeación Democrática, contará con:
 
-REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
 
 I.- Una estructura institucional constituida por las dependencias estatales y municipales responsables de la formulación, instrumentación, control y evaluación de los programas, y por el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave, y los Comités de Planeación Municipal, como foros de consulta en las diferentes etapas del proceso de planeación.
 
@@ -131,7 +131,7 @@ La competencia, en materia de planeación se distribuye conforme a lo siguiente:
 
 I.- Al Gobernador del Estado le compete:
 
-REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
 
 a).- Presidir y conducir el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
@@ -145,7 +145,7 @@ e).- Convenir con el Ejecutivo Federal, con los Ayuntamientos y con los sectores
 
 II.- A la Secretaría de Finanzas y Planeación compete:
 
-REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
 
 a).- Coordinar y elaborar el Plan Estatal de Desarrollo y los programas que de él se deriven, con apoyo y participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
@@ -319,11 +319,17 @@ El Gobernador del Estado, al enviar a la Legislatura del Estado, las iniciativas
 
 PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 26.
 
-Los Planes Municipales de Desarrollo de cada uno de los municipios del Estado, deberán elaborarse, aprobarse y publicarse dentro de un plazo de cuatro meses, contados a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos, y su vigencia no excederá del período que les corresponda.
+Los Planes Municipales de Desarrollo de cada uno de los municipios del Estado deberán elaborarse, aprobarse y publicarse dentro de un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos, y su vigencia no excederá del período que les corresponda. Antes de publicarse en la Gaceta Oficial del estado, los Ayuntamientos remitirán su Plan Municipal de Desarrollo al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI inciso b) de esta Ley.
 
 El Plan, precisará los objetivos, estrategias y prioridades del desarrollo municipal. Contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los órganos responsables de su ejecución; sus previsiones se referirán al conjunto de las actividades económicas, sociales y culturales y regirá el contenido de los programas que se deriven del Plan.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+Si una vez que haya expirado el plazo al que se refiere el párrafo primero de este artículo existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado “De la Responsabilidad Administrativa” del Título Sexto de la Ley Orgánica del Municipio Libre.
 
 ###### ARTICULO 27.
 
@@ -365,7 +371,7 @@ La revisión y análisis que haga la Legislatura, de las cuentas públicas munic
 
 COORDINACION.
 
-REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)
+REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)
 
 ###### ARTICULO 36.
 
@@ -467,7 +473,7 @@ Por lo tanto, mando se imprima promulgue, circule y se le dé el debido cumplimi
 
 Xalapa-Enríquez, Ver., a 7 de enero de 1987.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbrica.- El Secretario de Finanzas y Planeación, RAUL A. OJEDA MESTRE.- Rúbrica.- El Secretario de Educación y Cultura, GUILLERMO ZUÑIGA MARTINEZ.- Rúbrica.- El Secretario de Desarrollo Económico, ARMANDO MENDEZ DE LA LUZ.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, GUSTAVO NACHON AGUIRRE.- Rúbrica.- El Secretario de Desarrollo Agropecuario y Pesquero, RICARDO GARCIA LAGOS.- Rúbrica.- El Secretario de Salud y Asistencia, PEDRO CORONEL PEREZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -486,3 +492,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 18 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
