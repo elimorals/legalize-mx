@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2014-06-13"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, REFORMADO POR DECRETO NÚMERO 252, PUBLICADO EN LA G.O. DE 8 DE MAYO DE 2014, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO CON CABECERAS EN LOS MUNICIPIOS DE XALAPA Y CÓRDOBA, RESPECTIVAMENTE, Y EL DÍA 11 DE NOVIEMBRE DEL AÑO 2013 EN LOS DISTRITOS JUDICIALES DÉCIMO Y DÉCIMO SEGUNDO, CON CABECERAS EN LOS MUNICIPIOS DE JALACINGO Y COATEPEC. EN LOS DEMÁS DISTRITOS JUDICIALES DEL ESTADO SE SEGUIRÁ APLICANDO EL CÓDIGO DE PROCEDIMIENTOS PENALES QUE HA REGIDO EN ELLOS HASTA EN TANTO ENTRE EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS TÉRMINOS DE SU ARTÍCULO SEGUNDO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -2276,6 +2276,10 @@ Aseguramiento de bienes, instrumentos, objetos o productos del delito
 Los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o que pudieran tener relación con el mismo, siempre que estén relacionados directamente con el lugar de los hechos o del hallazgo, serán asegurados precautoriamente por la policía ministerial durante el desarrollo de la cadena de custodia, a fin de que no se alteren, destruyan o desaparezcan.
 
 La policía deberá informar al Ministerio Público sobre el aseguramiento precautorio realizado, a fin de que éste determine si la medida continúa y si resulta necesario llevar a cabo diligencias adicionales.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+Cuando existan indicios de que las prendas a disposición de las casas de empeño son provenientes de la comisión de delitos, el Ministerio Público podrá ordenar respecto de ellas su verificación, peritajes y aseguramiento y sólo en caso de que ello no entorpezca la investigación podrán quedar en calidad de depósito a disposición de la autoridad, en la casa de empeño. Para el caso de negativa por parte del gerente, representante legal, directivo o encargado de la negociación, procederá solicitar la autorización de cateo respectiva.
 
 ###### Artículo 210.
 
@@ -6544,3 +6548,9 @@ G.O. 13 DE JUNIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
