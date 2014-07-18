@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2014-06-13"
+last_updated: "2014-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,29 @@ state: "VER"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2025.
+Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
-Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
+Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación:
 
-Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
+La Quincuagésima Novena Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide el siguiente:
+
+CÓDIGO NÚMERO 586
+
+PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 # LIBRO PRIMERO
 
-## TITULO PRIMERO.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE JUNIO DE 2011)</small>
+## TÍTULO PRELIMINAR. DE LA APLICACIÓN DE LA LEY PENAL Y DE LAS GARANTÍAS PENALES
 
 ###### Art. 1o.
 
@@ -1265,2165 +1267,37 @@ El Estado mantendrá precios de garantía para el maíz, frijol, leche, arroz y 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MARZO DE 2020)</small>
 
-###### ARTICULO 1o.
+###### Artículo 1º.
 
-Las reformas constitucionales a que se contrae la presente ley, entrarán en vigor el día 20 de diciembre del presente año.
+Los ámbitos de validez para la aplicación de este código son: el espacial, el temporal y el personal.
 
-###### ARTICULO 2o.
+###### Artículo 2º.
 
-Los actuales Ministros de la Suprema Corte de Justicia de la Nación quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación del Senado.
+Las normas relativas a los derechos humanos, contenidas en las Constituciones Políticas de los Estados Unidos Mexicanos y del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, respectivamente, así como en los Tratados Internacionales suscritos por el Depositario del Poder Ejecutivo Federal y aprobados por el Senado de la República, regirán en la aplicación de este código.
 
-Los actuales Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación de la Cámara de Diputados. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Ministros y Magistrados.
+###### Artículo 3º.
 
-###### ARTICULO 3o.
+El poder punitivo del Estado queda sujeto a los principios de legalidad, culpabilidad, readaptación social, proporcionalidad de las consecuencias jurídicas para inimputables, de atención a los usos y costumbres de los pueblos indígenas que les reconozca la ley, y de protección a los derechos del ofendido o víctima del delito.
 
-Los actuales Magistrados de Circuito y Jueces de Distrito quedarán sujetos a la ratificación de sus nombramientos por la Suprema Corte de Justicia de la Nación, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que la misma Suprema Corte quede integrada, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Magistrados y Jueces.
+###### Artículo 4º.
 
-###### ARTICULO 4o.
+Sólo será sancionada la conducta que, por acción u omisión, esté tipificada como delito en ley vigente al momento de su realización.
 
-Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Tribunal Superior de Justicia del Distrito Federal, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que el mismo Tribunal Superior de Justicia quede integrado, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Jueces.
+###### Artículo 5º.
 
-D.O.F. 20 DE AGOSTO DE 1928.
+Queda prohibido imponer sanción alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate.
 
-LEY QUE REFORMA EL ARTÍCULO 52 Y EL PÁRRAFO CUARTO DE LA FRACCIÓN III DEL ARTÍCULO 115.
+###### Artículo 6º.
 
-PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
+Una conducta típica será punible cuando lesione o ponga en peligro, efectivamente y sin causa justa, el bien jurídico tutelado por la ley penal.
 
-SEGUNDO.- La división territorial que servirá de base para la elección de los Diputados a la XXXIV Legislatura de la Unión, será con sujeción al presente Decreto.
+###### Artículo 7º.
 
-TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 constitucional, surtirán sus efectos en las elecciones de diputados a las Legislaturas de los Estados, en las fechas en que, de conformidad con sus Constituciones Políticas locales y leyes electorales respectivas, se verifiquen, a partir de la promulgación de la presente ley.
+Toda persona a quien se le impute la comisión de un delito se presume inocente mientras no se declare su responsabilidad en sentencia ejecutoria.
 
-D.O.F. 20 DE AGOSTO DE 1928.
+###### Artículo 8º.
 
-LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCIÓN VI DEL ARTÍCULO 73.
-
-Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
-
-D.O.F. 6 DE SEPTIEMBRE DE 1929.
-
-LA LEY DE REFORMAS CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 7 DE FEBRERO DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 19 DE DICIEMBRE DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 27 DE ABRIL DE 1933.
-
-###### ARTICULO UNICO.
-
-Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
-
-D.O.F. 29 DE ABRIL DE 1933.
-
-###### ARTICULO UNICO.
-
-En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
-
-D.O.F. 4 DE NOVIEMBRE DE 1933.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 10 DE ENERO DE 1934.
-
-UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA EL ARTÍCULO 42.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 30, 37, 73, FRACCIÓN XVI Y 133.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 104.
-
-###### ARTICULO UNICO.
-
-Los recursos de súplica que actualmente se encuentran en tramitación, habrán de seguirse y de sentenciarse de acuerdo con la legislación vigente cuando se promovieron.
-
-D.O.F. 22 DE MARZO DE 1934.
-
-UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
-
-Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
-
-D.O.F. 13 DE DICIEMBRE DE 1934.
-
-UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
-
-D.O.F. 15 DE DICIEMBRE DE 1934.
-
-DECRETO QUE REFORMA EL ÚLTIMO PÁRRAFO DE LA BASE 4ª DE LA FRACCIÓN VI DEL ARTÍCULO 73, EL ARTÍCULO 94 Y LAS FRACCIONES II Y III DEL ARTÍCULO 95.
-
-###### ARTICULO 5o.
-
-Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
-
-D.O.F. 18 DE ENERO DE 1935.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 6 DE DICIEMBRE DE 1937.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 12 DE AGOSTO DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 31 DE DICIEMBRE DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 11 DE SEPTIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 9 DE NOVIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCIÓN VI DEL ARTÍCULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 24 DE OCTUBRE DE 1942.
-
-UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en que sea publicada en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1942.
-
-###### ARTICULO UNICO.
-
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE ENERO DE 1943.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 10 DE FEBRERO DE 1944.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 21 DE SEPTIEMBRE DE 1944.
-
-###### ARTICULO 6o.
-
-En los casos en que, en los Juzgados de Distrito, se hubiera pronunciado el fallo de primera instancia y contra él se hubiera interpuesto en tiempo el recurso de revisión, la sentencia será revisable por el tribunal que tendría competencia para conocer del amparo directo, según las presentes reformas.
-
-###### ARTICULO 7o.
-
-En los asuntos en trámite ante los Juzgados de Distrito, los Tribunales Colegiados de Circuito y la Suprema Corte de Justicia, en los que no se hubiera pronunciado resolución definitiva al entrar en vigor las presentes reformas, para decretar el sobreseimiento del amparo o la caducidad de la instancia, se requiere que transcurra un término de trescientos días, incluyendo los inhábiles, sin que el quejoso o el recurrente, en su caso, haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entren en vigor estas reformas.
-
-###### ARTICULO 8o.
-
-Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de las presentes reformas.
-
-D.O.F. 22 DE DICIEMBRE DE 1969.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 26 DE DICIEMBRE DE 1969.
-
-UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE JULIO DE 1971.
-
-DECRETO QUE REFORMA EL ARTÍCULO 74 Y ADICIONA EL ARTÍCULO 79.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 6 DE JULIO DE 1971.
-
-DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCIÓN XVI DEL ARTÍCULO 73.
-
-UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 22 DE OCTUBRE DE 1971.
-
-UNICO.- La presente reforma entrará en vigor el mismo día que entre en vigor la Ley Federal Reglamentaria a que la misma se refiere.
-
-D.O.F. 14 DE FEBRERO DE 1972.
-
-DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 52, 54 FRACCIONES I, II Y III; 55 FRACCIÓN II Y 58.
-
-TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 14 DE FEBRERO DE 1972.
-
-DECRETO QUE REFORMA LA FRACCIÓN XII DEL APARTADO A DEL ARTÍCULO 123.
-
-UNICO.- La presente reforma entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 10 DE NOVIEMBRE DE 1972.
-
-UNICO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 31 DE ENERO DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 20 DE MARZO DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE OCTUBRE DE 1974.
-
-###### ARTICULO PRIMERO.
-
-El Estado de Baja California Sur tendrá la extensión territorial y límites que comprende actualmente el Territorio de la Baja California Sur.
-
-###### ARTICULO SEGUNDO.
-
-El Estado de Quintana Roo tendrá la extensión territorial y límites que comprende actualmente el Territorio de Quintana Roo.
-
-###### ARTICULO TERCERO.
-
-La Cámara de Senadores a propuesta en ternas del Ejecutivo Federal, nombrará un Gobernador Provisional en cada uno de los Estados de Baja California Sur y Quintana Roo. Los Gobernadores Provisionales rendirán la protesta constitucional ante el propio Senado de la República y tomarán desde luego posesión de sus cargos, convocando a elecciones para integrar las legislaturas constituyentes locales, a más tardar el 12 de octubre de 1974.
-
-###### ARTICULO CUARTO.
-
-Las elecciones de diputados para integrar las legislaturas constituyentes, se celebrarán el 10 de noviembre de 1974.
-
-###### ARTICULO QUINTO.
-
-Las legislaturas constituyentes de cada uno de los Estados de Baja California Sur y Quintana Roo se integrarán con siete diputados propietarios y sus respectivos suplentes.
-
-Para ser diputados constituyentes se requiere reunir los requisitos que señala el artículo 55 de la Constitución Federal.
-
-###### ARTICULO SEXTO.
-
-Regirán el proceso electoral para la integración de las legislaturas constituyentes, la Constitución General de la República y la Ley Federal Electoral, en lo conducente.
-
-###### ARTICULO SEPTIMO.
-
-Se crean las comisiones estatales electorales de los Estados de Baja California Sur y Quintana Roo, integradas por un presidente que serán los secretarios generales de gobierno, un secretario y un vocal, designados por los Gobernadores Provisionales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se nombrará un suplente.
-
-###### ARTICULO OCTAVO.
-
-Se creará un comité distrital electoral en cada uno de los siete distritos electorales en que se dividan los Estados de Baja California Sur y Quintana Roo.
-
-Los comités distritales electorales estarán integrados por un presidente, un secretario y un vocal designados por las comisiones estatales electorales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se designará un suplente.
-
-###### ARTICULO NOVENO.
-
-Las comisiones estatales electorales, en su primera sesión, harán la división de los Estados de Baja California Sur y Quintana Roo, en siete distritos electorales y elaborarán el calendario de plazos a que se sujetará el proceso comicial.
-
-###### ARTICULO DECIMO.
-
-Podrán registrar fórmulas de candidatos para participar en las elecciones de las legislaturas constituyentes, los partidos políticos nacionales.
-
-###### ARTICULO DECIMO PRIMERO.
-
-En las elecciones de las legislaturas constituyentes se usarán las credenciales permanentes de elector expedidas por el Registro Nacional de Electores para las elecciones federales. Las delegaciones del Registro Nacional de Electores colaborarán y auxiliarán, dentro de sus funciones, a las comisiones estatales y comités distritales electorales.
-
-###### ARTICULO DECIMO SEGUNDO.
-
-Los comités distritales electorales expedirán la constancia de mayoría a las fórmulas de candidatos que la hayan obtenido. Las comisiones estatales electorales resolverán sobre el registro o negativa de registro de las constancias de mayoría.
-
-###### ARTICULO DECIMO TERCERO.
-
-Los presuntos diputados constituyentes, sin necesidad de citación, se reunirán en el recinto que señalen las convocatorias, el 25 de noviembre y constituidos en juntas preparatorias, nombrarán de entre sus miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y un Secretario.
-
-En esta reunión, los presuntos diputados presentarán los documentos que los acrediten.
-
-Para la integración y funcionamiento de las juntas preparatorias, estudio y calificación de las elecciones e instalación de la legislatura constituyente, se aplicarán, en lo conducente, las disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
-
-###### ARTICULO DECIMO CUARTO.
-
-Las comisiones estatales electorales enviarán a las juntas preparatorias los paquetes relativos a las elecciones de las legislaturas constituyentes y éstas procederán a calificar las elecciones de sus propios miembros. Sus resoluciones serán inapelables.
-
-###### ARTICULO DECIMO QUINTO.
-
-En tanto se expide la Constitución Política de cada uno de los Estados de Baja California Sur y Quintana Roo continuará vigente la legislación que ha regido en los Territorios, excepto en aquellos que pugne con su soberanía. La Hacienda Pública de los Estados se integrará con los ingresos y egresos que determinan las leyes fiscales de los territorios.
-
-El Congreso de la Unión decretará las leyes de ingresos y la Cámara de Diputados los presupuestos de egresos para el año fiscal de 1975, los que regirán provisionalmente en tanto los órganos competentes de los Estados decretan sus propias normas.
-
-###### ARTICULO DECIMO SEXTO.
-
-Mientras se constituye el Poder Judicial de los Estados de Baja California Sur y Quintana Roo conforme a sus respectivas constituciones políticas, la administración de justicia estará a cargo de un Tribunal Superior de Justicia compuesto de tres magistrados y del número y categoría de los juzgados que funcionan actualmente. Los magistrados serán nombrados por los gobernadores provisionales, y los jueces por los Tribunales Superiores de Justicia.
-
-Los gobernadores provisionales nombrarán también al Procurador General de Justicia del Estado respectivo y a los agentes del Ministerio Público.
-
-###### ARTICULO DECIMO SEPTIMO.
-
-El Ejecutivo Federal, por conducto de las Secretarías de Gobernación y del Patrimonio Nacional, determinará los bienes muebles e inmuebles cuyo dominio ceda a los Estados para formar parte del patrimonio de los mismos y, en su caso, de los Municipios.
-
-###### ARTICULO DECIMO OCTAVO.
-
-Los gobernadores provisionales durarán en su encargo hasta el día en que conforme a la Constitución Política de cada uno de los Estados, deban tomar posesión los gobernadores constitucionales electos.
-
-###### ARTICULO DECIMO NOVENO.
-
-Los ciudadanos que funjan como gobernadores provisionales, no podrán ser electos gobernadores constitucionales. Tampoco podrán ser electos diputados para integrar las legislaturas constitucionales, los que funjan con el carácter de propietarios en las constituyentes, ni los suplentes que llegaren a ejercer las funciones de éstos.
-
-###### ARTICULO VIGESIMO.
-
-Con base en los presupuestos de egresos correspondientes, los gobernadores provisionales harán las transferencias de partidas necesarias para cubrir las erogaciones que, en el ejercicio de sus funciones, requieran los poderes estatales.
-
-###### ARTICULO VIGESIMO PRIMERO.
-
-Se faculta al Ejecutivo Federal para dictar, por conducto de la Secretaría de Gobernación, las normas interpretativas y aclaratorias del presente decreto.
-
-###### ARTICULO VIGESIMO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 31 DE DICIEMBRE DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE FEBRERO DE 1975.
-
-DECLARATORIA QUE ADICIONA LA FRACCIÓN XXXI DEL APARTADO A, DEL ARTÍCULO 123.
-
-###### ARTICULO PRIMERO.
-
-Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Los conflictos de naturaleza jurídica, individual o colectivos, los de naturaleza económica, los de procedimiento especial y los de huelga, que se susciten en las ramas incluidas en esta reforma y que se encuentren pendientes de solución, o se presenten ante los tribunales de jurisdicción local hasta el día de la publicación de este decreto, serán resueltos hasta su total terminación por los mismos.
-
-###### ARTICULO TERCERO.
-
-El día en que entre en vigor esta Ley, los conflictos en los diversos ramos a que se refiere esta reforma, serán resueltos por los tribunales federales del trabajo. En su oportunidad se promulgará y publicará la reforma correspondiente a la ley de la materia.
-
-D.O.F. 6 DE FEBRERO DE 1975.
-
-DECLARATORIA QUE ADICIONA EL PÁRRAFO SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y LA FRACCIÓN X DEL ARTÍCULO 73.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE FEBRERO DE 1975.
-
-###### ARTICULO PRIMERO.
-
-Esta reforma entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-En los juicios de amparo pendientes de resolución ante la Suprema Corte de Justicia, en los que esté reclamada la inconstitucionalidad de una ley, turnados al ministro relator antes de que entre en vigor esta reforma, para decretar la caducidad de la instancia se requiere que transcurra un término de cien días, incluyendo los inhábiles, sin que el recurrente haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entre en vigor esta reforma.
-
-###### ARTICULO TERCERO.
-
-Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de la presente reforma.
-
-D.O.F. 6 DE FEBRERO DE 1976.
-
-DECRETO QUE ADICIONA DESPUÉS DEL PÁRRAFO SÉPTIMO EL ARTÍCULO 27.
-
-UNICO.- El presente Decreto entrará en vigor ciento veinte días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE FEBRERO DE 1976.
-
-DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27, SE ADICIONA LA FRACCIÓN XXIX-C DEL ARTÍCULO 73 Y LAS FRACCIONES IV Y V DEL ARTÍCULO 115.
-
-PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-SEGUNDO.- El Congreso Federal y las Legislaturas Locales, deberán expedir en el plazo de un año, las leyes reglamentarias previstas en las anteriores reformas y adiciones.
-
-D.O.F. 4 DE FEBRERO DE 1977.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE DICIEMBRE DE 1977.
-
-###### ARTICULO PRIMERO.
-
-Dentro de los seis meses posteriores a la entrada en vigor del presente Decreto, los Estados de la Federación iniciarán las reformas constitucionales necesarias para adoptar lo establecido en el artículo 115, fracción III último párrafo, de la Constitución General de la República.
-
-###### ARTICULO SEGUNDO.
-
-Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 9 DE ENERO DE 1978.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XII Y REFORMA LA FRACCIÓN XIII, AMBAS DEL APARTADO "A" DEL ARTÍCULO 123.
-
-UNICO.- El Presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 9 DE ENERO DE 1978.
-
-DECRETO QUE REFORMA LA FRACCIÓN XXXI, DEL APARTADO "A", DEL ARTÍCULO 123.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Los conflictos laborales que se hayan suscitado dentro de las ramas o en relación con las materias que se incorporen a la esfera exclusiva de la Federación y que se encuentren en trámite, continuarán siendo atendidos por las autoridades locales del trabajo, hasta la total terminación de los mismos.
-
-D.O.F. 19 DE DICIEMBRE DE 1978.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE AGOSTO DE 1979.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-El Pleno de la Suprema Corte de Justicia determinará cuándo la Sala Auxiliar deberá suspender y reanudar sus funciones, y cuándo dejará de funcionar definitivamente.
-
-###### ARTICULO TERCERO.
-
-Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias a fin de lograr la efectividad de las presentes reformas.
-
-D.O.F. 18 DE MARZO DE 1980.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 9 DE JUNIO DE 1980.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 29 DE DICIEMBRE DE 1980.
-
-###### ARTICULO UNICO.
-
-Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 21 DE ABRIL DE 1981.
-
-DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 117.
-
-UNICO.- Una vez que el Congreso de la Unión o la Comisión Permanente, en su caso, hagan la declaración de haber sido aprobada esta Reforma, pasará al Ejecutivo Federal para su promulgación y publicación, y entrará en vigor a los quince días siguientes de efectuada la citada declaración.
-
-D.O.F. 21 DE ABRIL DE 1981.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 29, 90 Y 92.
-
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 22 DE ABRIL DE 1981.
-
-###### ARTICULO UNICO.
-
-Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE NOVIEMBRE DE 1982.
-
-DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 28, MODIFICA LA FRACCIÓN X Y XVIII DEL ARTÍCULO 73, Y ADICIONA LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-En tanto se establecen por la Ley reglamentaria del párrafo quinto del Artículo 28 Constitucional las modalidades a que se sujetarán, mantienen su actual situación jurídica, el Banco Nacional del Ejército, Fuerza Aérea y Armada, S. A., el Banco Obrero, S. A., las sucursales en México de bancos extranjeros que cuentan con concesión del Gobierno Federal y las Organizaciones Auxiliares de Crédito.
-
-D.O.F. 17 DE NOVIEMBRE DE 1982.
-
-DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE DICIEMBRE DE 1982.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan las fracciones VII del Artículo 74, IX del Artículo 76 y XIX del Artículo 89 de la Constitución Política de los Estados UNidos Mexicanos.
-
-###### ARTICULO TERCERO.
-
-Dentro del año siguiente a la entrada en vigor del presente Decreto, los Estados de la Federación a través de sus congresos constituyentes locales, iniciarán las reformas constitucionales necesarias para cumplir las disposiciones del Título Cuarto de la Constitución General de la República, en lo conducente.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 16, REFORMA EL ARTÍCULO 25, 26, ADICIONA LAS FRACCIONES XIX Y XX DEL ARTÍCULO 27, REFORMA EL ARTÍCULO 28 Y ADICIONA LAS FRACCIONES XXIX-D; XXIX-E Y XXIX-F AL ARTÍCULO 73.
-
-###### ARTICULO UNICO.
-
-Las presentes reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 115.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-El Congreso de la Unión y las legislaturas de los Estados, en el plazo de un año computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las leyes federales, así como las Constituciones y leyes locales, respectivamente, para proveer al debido cumplimiento de las bases que se contienen en el mismo. Las contribuciones locales y las participaciones a que se refieren los incisos a) al c) de la fracción IV, se percibirán por los Municipios a partir del 1o. de enero de 1984.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE ADICIONA UN PÁRRAFO PENÚLTIMO AL ARTÍCULO 4°.
-
-###### ARTICULO UNICO.
-
-La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE REFORMA EL ARTÍCULO 21.
-
-###### ARTICULO UNICO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE FEBRERO DE 1983.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 14 DE ENERO DE 1985.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE FEBRERO DE 1985.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE ABRIL DE 1986.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 65, 66 Y 69, Y ADICIONA LOS ARTÍCULOS DÉCIMO SÉPTIMO Y DECIMO OCTAVO TRANSITORIOS.
-
-###### ARTICULO 1o.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y las Reformas a los Artículos 65, 66 y 69 surtirán sus efectos a partir del 1o. de septiembre de 1989.
-
-###### ARTICULO 2o.
-
-Los Artículos Transitorios Décimo Séptimo y Décimo Octavo de la Constitución surtirán sus efectos a partir del 1o. de septiembre de 1988.
-
-D.O.F. 7 DE ABRIL DE 1986.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 106 Y 107.
-
-UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE DICIEMBRE DE 1986.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 23 DE DICIEMBRE DE 1986.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el 1o. de enero de 1987.
-
-D.O.F. 17 DE MARZO DE 1987.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 17, 46, 115 Y 116.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las legislaturas de los estados, en el plazo de un año, computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las constituciones y leyes locales, para proveer el debido cumplimiento de las disposiciones de este Decreto.
-
-D.O.F. 17 DE MARZO DE 1987.
-
-DECRETO QUE REFORMA EL PÁRRAFO SEXTO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor a partir del 1o. de septiembre de 1989.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73, LA FRACCIÓN I-B DEL ARTÍCULO 104 Y UN PÁRRAFO FINAL A LA FRACCIÓN V DEL ARTÍCULO 107; REFORMA EL ARTÍCULO 94, EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 97, EL ARTÍCULO 101, Y EL INCISO A) DE LA FRACCIÓN III, EL PRIMER PÁRRAFO Y EL INCISO B) DE LA FRACCIÓN V Y LAS FRACCIONES VI, VIII Y XI DEL ARTÍCULO 107; DEROGA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN I DEL ARTÍCULO 104 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107.
-
-UNICO.- El presente Decreto entrará en vigor el día 15 de enero de 1988, previa su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 73 FRACCIÓN VI, 79 FRACCIÓN V, 89 FRACCIONES II Y XVII, 110 PRIMER PÁRRAFO, 111 PRIMER PÁRRAFO Y 127 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 74.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
-
-TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
-
-CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
-
-QUINTO.- Las elecciones de los Representantes a la Asamblea del Distrito Federal, se regirán en lo conducente, y hasta en tanto se expida el ordenamiento correspondiente, por las normas que la Constitución Política de los Estados Unidos Mexicanos y el Código Federal Electoral contienen en materia de elección de los Diputados Federales al Congreso de la Unión.
-
-SEXTO.- Los debates de la Asamblea de Representantes del Distrito Federal, se regirán hasta en tanto se expida el ordenamiento a que se refiere el inciso I) de la base 3a. del artículo 73 Constitucional, por lo dispuesto en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
-
-SEPTIMO.- El Colegio Electoral de la Asamblea de Representantes del Distrito Federal que calificará la elección de 1988, habrá de reunirse para este fin, durante la primera quincena del mes de octubre, del propio año de la elección.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA EL ARTÍCULO 78 Y ADICIONA UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27 Y ADICIONA LA FRACCIÓN XXIX-G DEL ARTÍCULO 73.
-
-###### ARTICULO UNICO.
-
-La presente reforma y adición a la Constitución Política de los Estados Unidos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE MAYO DE 1988.
-
-UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 6 DE ABRIL DE 1990.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- En tanto no se establezca el servicio del Registro Nacional Ciudadano, los ciudadanos deberán inscribirse en los padrones electorales.
-
-TERCERO.- Los diputados electos a la LIV Legislatura del Congreso de la Unión durarán en sus funciones hasta el 31 de octubre de 1991.
-
-CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
-
-QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
-
-SEXTO.- En tanto se expida por el Congreso de la Unión la nueva ley reglamentaria en materia electoral, seguirá en vigor el Código Federal Electoral.
-
-D.O.F. 27 DE JUNIO DE 1990.
-
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo.- En tanto se expiden las nuevas normas aplicables, las instituciones de banca y crédito y las sucursales en México de bancos extranjeros que cuenten con concesión del Gobierno Federal continuarán rigiéndose por las disposiciones legales y reglamentarias vigentes.
-
-D.O.F. 6 DE ENERO DE 1992.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-A partir de la entrada en vigor de este Decreto y en tanto no se modifique la legislación reglamentaria en materia agraria, continuarán aplicándose sus disposiciones, incluidas las relativas a las autoridades e instancias competentes y a la organización interna de los ejidos y comunidades, siempre que no se opongan a lo establecido en este mismo Decreto.
-
-###### ARTICULO TERCERO.
-
-La Secretaría de la Reforma Agraria, el Cuerpo Consultivo Agrario, las comisiones agrarias mixtas y las demás autoridades competentes, continuarán desahogando los asuntos que se encuentren actualmente en trámite en materia de ampliación o dotación de tierras, bosques y aguas; creación de nuevos centros de población, y restitución, reconocimiento y titulación de bienes comunales, de conformidad con las disposiciones legales que reglamenten dichas cuestiones y que estén vigentes al momento de entrar en vigor el presente Decreto.
-
-Los expedientes de los asuntos arriba mencionados, sobre los cuales no se haya dictado resolución definitiva al momento de entrar en funciones los tribunales agrarios, se pondrán en estado de resolución y se turnarán a éstos para que, conforme a su ley orgánica, resuelvan en definitiva, de conformidad con las disposiciones legales a que se refiere el párrafo anterior.
-
-Los demás asuntos de naturaleza agraria que se encuentren en trámite o se presenten a partir de la entrada en vigor de este Decreto, y que conforme a la ley que se expida deban pasar a ser de la competencia de los tribunales agrarios, se turnarán a éstos una vez que entren en funciones para que resuelvan en definitiva.
-
-D.O.F. 28 DE ENERO DE 1992.
-
-DECRETO QUE REFORMA LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 3; PÁRRAFO QUINTO DEL ARTÍCULO 5; ARTÍCULO 24; FRACCIONES II Y III DEL ARTÍCULO 27, EL ARTÍCULO 130 Y ADICIONA EL ARTÍCULO DECIMOSÉPTIMO TRANSITORIO.
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE ENERO DE 1992.
-
-DECRETO QUE REFORMA EL ARTÍCULO 102.
-
-###### ARTICULO 1o.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO 2o.
-
-En tanto se establecen los organismos de protección de los derechos humanos en los Estados en los términos del presente Decreto, la Comisión Nacional de Derechos Humanos podrá seguir conociendo de las quejas que deban ser de competencia local.
-
-Los Estados que ya cuenten con dichos organismos, recibirán las quejas aún no resueltas que hayan sido presentadas ante la Comisión Nacional en un término de 30 días naturales contados a partir de la fecha de publicación del decreto en el Diario Oficial de la Federación.
-
-Las Legislaturas de los Estados dispondrán de un año a partir de la publicación de este Decreto para establecer los organismos de protección de los Derechos Humanos.
-
-D.O.F. 28 DE ENERO DE 1992.
-
-DECRETO QUE REFORMA EL ARTÍCULO 4.
-
-###### ARTICULO UNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 5 DE MARZO DE 1993.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE AGOSTO DE 1993.
-
-DECRETO QUE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 82.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE AGOSTO DE 1993.
-
-DECRETO QUE REFORMA EL PÁRRAFO CUARTO Y ADICIONA LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 28, REFORMA LA FRACCIÓN X DEL ARTÍCULO 73 Y LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- En tanto se expide la ley del banco central, reglamentaria del artículo 28 de esta Constitución, continuará en vigor la Ley Orgánica del Banco de México.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 41, 54, 56, 60, 63, 74, Y 100.
-
-Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo. Permanecerán en sus cargos los actuales Magistrados del Tribunal Federal Electoral electos por la Cámara de Diputados del Congreso de la Unión, según Decreto publicado en el Diario Oficial de la Federación el 3 de octubre de 1990.
-
-Artículo Tercero. En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
-
-Artículo Cuarto. Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
-
-Artículo Quinto. La elección federal para integrar la LVI Legislatura de la Cámara de Diputados del H. Congreso de la Unión, se realizará con base en la distribución de los distritos uninominales y las cinco circunscripciones plurinominales en que se dividió el país para el proceso electoral federal de 1991. Para la elección federal de 1997, por la que se integrará la LVII Legislatura, se hará la nueva distribución de distritos uninominales con base en los resultados definitivos del censo general de población de 1990.
-
-Artículo Sexto. Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 16, 19, 20 Y 119 Y DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 107.
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto por el Artículo Segundo Transitorio.
-
-SEGUNDO.- Lo previsto en el párrafo primero de la fracción I, del artículo 20 Constitucional del presente Decreto, entrará en vigor al año contado a partir de la presente publicación.
-
-D.O.F. 3 DE SEPTIEMBRE DE 1993.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 65 Y 66.
-
-PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- El período ordinario correspondiente a noviembre y diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos del Decreto de reformas publicado el 7 de abril de 1986.
-
-TERCERO.- A partir del 15 de marzo de 1995 los períodos de sesiones ordinarias se celebrarán de acuerdo con las fechas establecidas por el presente Decreto.
-
-CUARTO.- Los diputados que se elijan a la LVI legislatura del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 (sic) agosto de 1997.
-
-QUINTO.- Los senadores que se elijan a las LVI y LVII legislaturas del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000.
-
-Los senadores que se elijan en 1997 durarán en sus funciones del 1o. de noviembre de dicho año, al 31 de agosto del año 2000.
-
-D.O.F. 25 DE OCTUBRE DE 1993.
-
-PRIMERO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-
-SEGUNDO.- La Asamblea de Representantes del Distrito Federal electa para el periodo noviembre de 1991 a noviembre de 1994, continuará teniendo las facultades establecidas en la fracción VI del artículo 73 de esta Constitución vigentes al momento de entrar en vigor el presente Decreto.
-
-TERCERO.- La III Asamblea de Representantes del Distrito Federal, tendrá las facultades que le otorga el presente Decreto, y será la que se integre para el periodo que comenzará el 15 de noviembre de 1994 y concluirá el 16 de septiembre de 1997.
-
-CUARTO.- A partir del 15 de marzo de 1995, los periodos de sesiones ordinarias de la Asamblea de Representantes del Distrito Federal se celebrarán de acuerdo con las fechas establecidas por el presente decreto.
-
-QUINTO.- El primer nombramiento para el cargo de Jefe del Distrito Federal, en los términos de este Decreto se verificará en el mes de diciembre de 1997 y el periodo constitucional respectivo concluirá el 2 de diciembre del año 2000. En tanto dicho Jefe asume su encargo, el gobierno del Distrito Federal seguirá a cargo del Presidente de la República de acuerdo con la base 1a. de la fracción VI del artículo 73 de esta Constitución vigente al momento de entrar en vigor el presente Decreto. El Ejecutivo Federal mantendrá la facultad de nombrar y remover libremente al titular del órgano u órganos de gobierno del Distrito Federal y continuará ejerciendo para el Distrito Federal, en lo conducente, las facultades establecidas en la fracción I del artículo 89 de esta Constitución.
-
-SEXTO.- Los consejos de ciudadanos por demarcación territorial se elegirán e instalarán en 1995, conforme a las disposiciones del Estatuto de Gobierno y las leyes respectivas.
-
-SEPTIMO.- Los servidores públicos que se readscriban a la administración pública del Distrito Federal y sus dependencias conservarán todos sus derechos laborales.
-
-OCTAVO.- Las iniciativas de leyes de ingresos, y de decretos de presupuesto de egresos del Distrito Federal para los ejercicios 1995, 1996 y 1997, así como las cuentas públicas de 1995 y 1996 serán enviados a la Asamblea de Representantes por el Presidente de la República. La cuenta pública correspondiente a 1994 será revisada por la Cámara de Diputados del Congreso de la Unión.
-
-NOVENO.- En tanto se reforman y expidan las disposiciones que coordinen el sistema fiscal entre la Federación y el Distrito Federal, continuarán aplicándose las normas que sobre la materia rijan al entrar en vigor el presente Decreto.
-
-DECIMO.- En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
-
-DECIMO PRIMERO.- El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
-
-D.O.F. 19 DE ABRIL DE 1994.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 1 DE JULIO DE 1994.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día 31 de diciembre de 1999.
-
-D.O.F. 31 DE DICIEMBRE DE 1994.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos Octavo y Noveno siguientes.
-
-SEGUNDO.- Los actuales Ministros de la Suprema Corte de Justicia de la Nación concluirán sus funciones a la entrada en vigor del presente Decreto. Recibirán una pensión igual a la que para casos de retiro forzoso prevé el "Decreto que establece las Causas de Retiro Forzoso o Voluntario de los Ministros de la Suprema Corte de Justicia de la Nación".
-
-A los Ministros citados en el párrafo anterior, no les serán aplicables los impedimentos a que se refieren el último párrafo del artículo 94 y el tercer párrafo del artículo 101, reformados por virtud del presente Decreto.
-
-De regresar al ejercicio de sus funciones, de conformidad con el procedimiento previsto en el artículo 96 reformado por virtud del presente Decreto, se suspenderá el derecho concedido en el primer párrafo de este artículo, durante el tiempo en que continúen en funciones.
-
-TERCERO.- Para la nominación y aprobación de los primeros ministros que integrarán la Suprema Corte de Justicia de la Nación, conforme a las reformas previstas en el presente Decreto, el titular del Ejecutivo Federal propondrá ante la Cámara de Senadores, a 18 personas, de entre las cuales dicha Cámara aprobará, en su caso, los nombramientos de 11 ministros, con el voto de las dos terceras partes de sus miembros.
-
-CUARTO.- Para los efectos del primer párrafo del artículo 97 de este Decreto de Reformas, la ley que reglamente la selección, ingreso, promoción o remoción de los miembros del Poder Judicial Federal, distinguirá los casos y procedimientos que deban resolverse conforme a las fracciones I, II y III del artículo 109 de la Constitución.
-
-La Cámara de Senadores, previa comparecencia de las personas propuestas, emitirá su resolución dentro del improrrogable plazo de treinta días naturales.
-
-El período de los Ministros, vencerá el último día de noviembre del año 2003, del 2006, del 2009 y del 2012, para cada dos de ellos y el último día de noviembre del año 2015, para los tres restantes. Al aprobar los nombramientos, el Senado deberá señalar cuál de los períodos corresponderá a cada Ministro.
-
-Una vez aprobado el nombramiento de, por lo menos, siete Ministros, se realizará una sesión solemne de apertura e instalación, en la cual se designará al Presidente de la Suprema Corte de Justicia de la Nación.
-
-QUINTO.- Los magistrados de Circuito y el Juez de Distrito electos la primera vez para integrar el Consejo de la Judicatura Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por el Senado y el designado por el Ejecutivo, vencerá el último día de noviembre de 1999 y el correspondiente al Consejero restante, el último día de noviembre del año 1997. El Senado y el Ejecutivo Federal deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
-
-El Consejo quedará instalado una vez designados cinco de sus miembros, siempre y cuando uno de ellos sea su Presidente.
-
-SEXTO.- En tanto quedan instalados la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, en términos de los transitorios Tercero y Quinto anteriores, la última Comisión de Gobierno y Administración de la propia Corte, ejercerá las funciones de ésta y atenderá los asuntos administrativos del Poder Judicial de la Federación. En esa virtud, lo señalado en el artículo segundo transitorio será aplicable, en su caso, a los miembros de la citada Comisión, una vez que haya quedado formalmente instalada la Suprema Corte de Justicia, en términos de lo dispuesto en el presente Decreto.
-
-Corresponde a la propia Comisión convocar a la sesión solemne de apertura e instalación a que se refiere el artículo Tercero transitorio, así como tomar las medidas necesarias para que la primera insaculación de los Magistrados de Circuito y del Juez de Distrito que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
-
-La Comisión dejará de funcionar una vez que haya dado cuenta de los asuntos atendidos conforme a los párrafos anteriores, a la Suprema Corte o al Consejo de la Judicatura Federal, según corresponda, cuando estos últimos se encuentren instalados.
-
-SEPTIMO.- El Magistrado, el Juez de Primera Instancia y el Juez de Paz electos la primera vez para integrar el Consejo de la Judicatura del Distrito Federal, serán Consejeros por un período que vencerá el último día de noviembre del año 2001. El período de uno de los Consejeros designados por la Asamblea de Representantes del Distrito Federal y el designado por el Jefe del Departamento del Distrito Federal vencerá el último día de noviembre de 1999, y el correspondiente al Consejero restante, el último día de noviembre de 1997. La Asamblea y el Jefe del Departamento deberán designar a sus representantes dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto e indicarán cuál de los períodos corresponde a cada Consejero.
-
-El Consejo quedará instalado una vez designados cinco de sus miembros.
-
-El Pleno del Tribunal Superior de Justicia continuará a cargo de los asuntos administrativos, hasta en tanto quede constituido el Consejo. Asimismo, tomará las medidas necesarias para que la elección del Magistrado y del Juez de Primera Instancia que serán Consejeros, se haga en los días inmediatos siguientes a la entrada en vigor del presente Decreto.
-
-OCTAVO.- Las reformas al artículo 105, entrarán en vigor en la misma fecha en que entre en vigor la ley reglamentaria correspondiente.
-
-NOVENO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
-
-Las reformas a la fracción XVI del artículo 107, entrarán en vigor en la misma fecha en que entren en vigor las reformas a la ley reglamentaria de los artículos 103 y 107 constitucionales.
-
-DECIMO.- Los conflictos de carácter laboral entre el Poder Judicial de la Federación y sus servidores, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes, al entrar en vigor el presente Decreto, ante el Consejo de la Judicatura Federal o la Suprema Corte de Justicia, según corresponda, una vez integrados conforme a los artículos Tercero y Quinto transitorios anteriores.
-
-DECIMO PRIMERO.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirán aplicándose los vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
-
-DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
-
-D.O.F. 2 DE MARZO DE 1995.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE JULIO DE 1996.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE AGOSTO DE 1996.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos siguientes.
-
-SEGUNDO. Las adiciones contenidas en la fracción II del artículo 105 del presente Decreto, únicamente por lo que se refiere a las legislaciones electorales de los Estados, que por los calendarios vigentes de sus procesos la jornada electoral deba celebrarse antes del primero de abril de 1997, entrarán en vigor a partir del 1o. de enero de 1997.
-
-Para las legislaciones electorales federal y locales que se expidan antes del 1o. de abril de 1997 con motivo de las reformas contenidas en el presente Decreto, por única ocasión, no se aplicará el plazo señalado en el párrafo cuarto de la fracción II del artículo 105.
-
-Las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general electoral y la Constitución, que se ejerciten en los términos previstos por el Artículo 105 fracción II de la misma y este Decreto, antes del 1o. de abril de 1997, se sujetarán a las siguientes disposiciones especiales:
-
-a) El plazo a que se refiere el segundo párrafo de la fracción II del artículo mencionado, para el ejercicio de la acción, será de quince días naturales; y
-
-b) La Suprema Corte de Justicia de la Nación deberá resolver la acción ejercida en un plazo no mayor a quince días hábiles, contados a partir de la presentación del escrito inicial.
-
-Las reformas al artículo 116 contenidas en el presente Decreto no se aplicarán a las disposiciones constitucionales y legales de los Estados que deban celebrar procesos electorales cuyo inicio haya ocurrido u ocurra antes del 1o. de enero de 1997. En estos casos, dispondrán de un plazo de un año contado a partir de la conclusión de los procesos electorales respectivos, para adecuar su marco constitucional y legal al precepto citado.
-
-Todos los demás Estados, que no se encuentren comprendidos en la excepción del párrafo anterior, deberán adecuar su marco constitucional y legal a lo dispuesto por el artículo 116 modificado por el presente Decreto, en un plazo que no excederá de seis meses contado a partir de su entrada en vigor.
-
-TERCERO. A más tardar el 31 de octubre de 1996 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Federal Electoral, así como los ocho nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales Consejeros Ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo General del Instituto Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
-
-CUARTO. En la elección federal de 1997 se elegirán, a la Quincuagésima Séptima Legislatura, treinta y dos senadores según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, y durarán en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. La asignación se hará mediante una fórmula que tome en cuenta el cociente natural y el resto mayor; y se hará en orden decreciente de las listas respectivas. Se deroga el segundo párrafo del Artículo Tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100 de esta Constitución.
-
-QUINTO. Los nuevos Magistrados Electorales deberán designarse a más tardar el 31 de octubre de 1996 y, por esta ocasión, requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Cámara de Senadores.
-
-SEXTO. En tanto se expiden o reforman las leyes correspondientes, el Tribunal Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
-
-SÉPTIMO. El Jefe de Gobierno del Distrito Federal se elegirá en el año de 1997 y ejercerá su mandato, por esta única vez, hasta el día 4 de diciembre del año 2000.
-
-OCTAVO. La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal señalada en el inciso f) de la fracción V del apartado C del artículo 122 de este Decreto, entrará en vigor el 1o. de enero de 1998. Para la elección en 1997 del Jefe de Gobierno y los diputados a la Asamblea del Distrito Federal, se aplicará el Código Federal de Instituciones y Procedimientos Electorales.
-
-NOVENO. El requisito a que se refiere el párrafo segundo de la fracción I de la BASE SEGUNDA, del apartado C del artículo 122, que prohibe acceder a Jefe de Gobierno si se hubiese desempeñado tal cargo con cualquier carácter, debe entenderse aplicable a todo ciudadano que haya sido titular de dicho órgano, aunque lo haya desempeñado bajo distinta denominación.
-
-DÉCIMO. Lo dispuesto en la fracción II de la BASE TERCERA, del apartado C del artículo 122, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000; en 1997, se elegirán en forma indirecta, en los términos que señale la ley.
-
-DECIMOPRIMERO. La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materias civil y penal para el Distrito Federal entrará en vigor el 1o. de enero de 1999.
-
-DECIMOSEGUNDO. Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
-
-DECIMOTERCERO. Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
-
-D.O.F. 20 DE MARZO DE 1997.
-
-PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2004)</small>
-
-SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
-
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 1999)</small>
-
-TERCERO.- Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto.
-
-CUARTO.- En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
-
-QUINTO.- El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE FEBRERO DE 1999.
-
-UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE MARZO DE 1999.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE JUNIO DE 1999.
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los actuales Consejeros de la Judicatura Federal, con excepción del Presidente del Consejo, concluirán sus funciones a la entrada en vigor del presente decreto.
-
-El Pleno de la Suprema Corte de Justicia, el Senado y el Ejecutivo Federal deberán designar a los Consejeros de la Judicatura Federal, de conformidad con el artículo 100 constitucional reformado, a más tardar dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
-
-Por única vez, el período de los Consejeros designados por la Suprema Corte de Justicia vencerá el último día de noviembre de 2002, de 2004 y de 2006; el de los designados por el senado el último día de noviembre de 2003 y 2007; y el designado por el Ejecutivo Federal, el último día de noviembre de 2005. Al designar Consejeros, se deberá señalar cual de los períodos corresponderá a cada uno.
-
-TERCERO.- En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
-
-CUARTO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XXIX-J AL ARTÍCULO 73.
-
-PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se fija como plazo máximo para la expedición de la ley reglamentaria de las atribuciones de la Federación en materia de deporte, el de un año.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 4 Y REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 25.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE JUNIO DE 1999.
-
-DECRETO QUE REFORMA LA FRACCIÓN XXIX-H Y ADICIONA LA FRACCIÓN XXIX-I AL ARTÍCULO 73.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE JULIO DE 1999.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE JULIO DE 1999.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-
-SEGUNDO.- La entidad de fiscalización superior de la Federación iniciará sus funciones el 1 de enero del año 2000. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a IV del artículo 79 reformado por este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al año 2001.
-
-La entidad de fiscalización superior de la Federación revisará la Cuenta Pública de los años 1998, 1999 y 2000 conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
-
-Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda de la Cámara de Diputados, se entenderán hechas a la entidad de fiscalización superior de la Federación.
-
-TERCERO.- En tanto la entidad de fiscalización superior de la Federación no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al artículo 74, fracción IV, de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
-
-Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-Una vez creada la entidad de fiscalización superior de la Federación, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
-
-CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
-
-D.O.F. 13 DE SEPTIEMBRE DE 1999.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los actuales integrantes del Consejo Consultivo de la Comisión Nacional de Derechos Humanos, continuarán en su encargo hasta concluir el período para el que fueron designados, pudiendo, en su caso, ser propuestos y elegidos para un segundo período en los términos de lo dispuesto por el quinto párrafo del apartado B del Artículo 102 que se reforma por este Decreto.
-
-TERCERO.- En un plazo máximo de sesenta días, la Cámara de Senadores o, en su caso, la Comisión Permanente del Congreso de la Unión, deberá elegir al Presidente de la Comisión Nacional de los Derechos Humanos, conforme al procedimiento dispuesto por el apartado B del Artículo 102 que se reforma por este Decreto. Para tal efecto, se observarán las siguientes reglas:
-
-A.- La Comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los Derechos Humanos.
-
-B.- Con base en la auscultación antes señalada, la Comisión podrá proponer la ratificación de la actual Titular de la Comisión Nacional de Derechos Humanos o, en su caso, integrar una terna de candidatos.
-
-CUARTO.- En tanto el Congreso de la Unión expide las reformas a la Ley de la Comisión Nacional de Derechos Humanos, ésta ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la ley reglamentaria vigente hasta dicha expedición.
-
-QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 23 DE DICIEMBRE DE 1999.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación, salvo lo previsto en los artículos siguientes.
-
-###### ARTICULO SEGUNDO.
-
-Los Estados deberán adecuar sus constituciones y leyes conforme a lo dispuesto en este decreto a más tardar en un año a partir de su entrada en vigor. En su caso, el Congreso de la Unión deberá realizar las adecuaciones a las leyes federales a más tardar el 30 de abril del año 2001.
-
-En tanto se realizan las adecuaciones a que se refiere el párrafo anterior, se continuarán aplicando las disposiciones vigentes.
-
-###### ARTICULO TERCERO.
-
-Tratándose de funciones y servicios que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor de las reformas a que se refiere el artículo transitorio anterior sean prestados por los gobiernos estatales, o de manera coordinada con los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. Los gobiernos de los estados dispondrán de lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el gobierno del estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
-
-En el caso del inciso a) de la fracción III del artículo 115, dentro del plazo señalado en el párrafo anterior, los gobiernos estatales podrán solicitar a la legislatura correspondiente, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de estado a municipio afecte, en perjuicio de la población, su prestación. La legislatura estatal resolverá lo conducente.
-
-En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
-
-###### ARTICULO CUARTO.
-
-Los estados y municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las constituciones y leyes estatales.
-
-###### ARTICULO QUINTO.
-
-Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, en coordinación con los municipios respectivos, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
-
-###### ARTICULO SEXTO.
-
-En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
-
-D.O.F. 7 DE ABRIL DE 2000.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 21 DE SEPTIEMBRE DE 2000.
-
-DECRETO QUE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 73.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 21 DE SEPTIEMBRE DE 2000.
-
-DECRETO QUE DEROGA EL ÚLTIMO PÁRRAFO, REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV Y AGRUPA EL CONTENIDO DEL ARTÍCULO 20 EN UN APARTADO A Y SE ADICIONA EL APARTADO B.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Las disposiciones legales vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden las normas reglamentarias correspondientes.
-
-D.O.F. 14 DE AGOSTO DE 2001.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
-
-###### ARTICULO TERCERO.
-
-Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
-
-###### ARTICULO CUARTO.
-
-El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
-
-D.O.F. 14 DE JUNIO DE 2002.
-
-UNICO.- El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
-
-La Federación, las entidades federativas y los municipios contarán con el periodo comprendido entre la publicación del presente Decreto y su entrada en vigor, para expedir las leyes o realizar las modificaciones necesarias, según sea el caso, a fin de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
-
-La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias, tanto en el ámbito federal como en el local, conforme a los criterios siguientes:
-
-a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
-
-b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
-
-Para la expedición de las leyes o la realización de las modificaciones necesarias para proveer al debido cumplimiento del decreto, se contaría con el periodo comprendido entre la publicación del decreto y su entrada en vigor. Según la fecha de aprobación del Decreto y su consiguiente publicación, el citado periodo no sería menor a un año ni mayor a dos.
-
-D.O.F. 12 DE NOVIEMBRE DE 2002.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la unificación estructural, curricular y laboral de los tres niveles constitucionales obligatorios, en un solo nivel de educación básica integrada.
-
-Tercero.- La autoridad educativa federal deberá, a la entrada en vigor del presente Decreto, instalar comisiones técnicas y de consulta con las demás autoridades educativas del país que resulten pertinentes, para iniciar un proceso tendiente a la revisión de los planes, programas y materiales de estudio, para establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de la educación preescolar obligatoria para todo el país, así como preparar al personal docente y directivo de este nivel, de acuerdo a la nueva realidad educativa que surge de este Decreto.
-
-Cuarto.- Con el objetivo de impulsar la equidad en la calidad de los servicios de educación preescolar en el país, la autoridad educativa deberá prever lo necesario para dar cumplimiento a lo que dispone el artículo 2o. de la Ley Reglamentaria del artículo 5o. constitucional en materia de profesiones, en el sentido de que la impartición de la educación preescolar es una profesión que necesita título para su ejercicio, sin perjuicio de los derechos adquiridos de quienes a la fecha imparten este nivel educativo.
-
-Quinto.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
-
-Sexto.- Los presupuestos federal, estatales, del Distrito Federal y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas federales en coordinación con las locales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
-
-Séptimo.- Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
-
-Octavo.- Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 29 DE SEPTIEMBRE DE 2003.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE OCTUBRE DE 2003.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 5 DE ABRIL DE 2004.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE JULIO DE 2004.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE JULIO DE 2004.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 2 DE AGOSTO DE 2004.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 27 DE SEPTIEMBRE DE 2004.
-
-UNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE JUNIO DE 2005.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE NOVIEMBRE DE 2005.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE DICIEMBRE DE 2005.
-
-PRIMERO.- La reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La Cámara de Senadores establecerá dentro del periodo ordinario de sesiones inmediato siguiente a la entrada en vigor del presente decreto, la Comisión de Límites de las Entidades Federativas, la cual se integrará y funcionará en los términos de la ley reglamentaria que al efecto se expida, así como por las disposiciones que para el caso dispongan la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento para su Gobierno Interior.
-
-TERCERO.- Las controversias que a la entrada en vigor de este decreto se encuentren en trámite ante la Suprema Corte de Justicia de la Nación con motivo de conflictos limítrofes entre entidades federativas, serán remitidas de inmediato, con todos sus antecedentes, a la Cámara de Senadores, a fin de que ésta en términos de sus atribuciones constitucionales proceda a establecerlos de manera definitiva mediante decreto legislativo.
-
-D.O.F. 9 DE DICIEMBRE DE 2005.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE DICIEMBRE DE 2005.
-
-PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
-
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
-
-La Federación contará con un año a partir de la entrada en vigor del presente decreto, para expedir las leyes y establecer las instituciones y los órganos que se requieran en el orden federal para la implementación del sistema de justicia integral para adolescentes.
-
-> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2009)</small>
-
-TERCERO. Los asuntos en trámite hasta el momento en que entren en vigor las leyes y se implementen las instituciones y los órganos a que se refiere el transitorio anterior se concluirán conforme a la legislación con que se iniciaron. Los asuntos que se encuentren pendientes de resolución en el momento en que inicie la operación del nuevo sistema se remitirán a la autoridad que resulte competente para que continúe en el conocimiento de éstos hasta su conclusión.
-
-D.O.F. 7 DE ABRIL DE 2006.
-
-Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- En tanto se expide la Ley general a que se refiere el apartado B del Artículo 26 de esta Constitución, continuará en vigor la Ley de Información Estadística y Geográfica, y demás disposiciones legales y administrativas aplicables. Asimismo, subsistirán los nombramientos, poderes, mandatos, comisiones y, en general, las delegaciones y facultades concedidas, a los servidores públicos del Instituto Nacional de Estadística, Geografía e Informática.
-
-Tercero.- A la entrada en vigor de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución, los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Nacional de Estadística, Geografía e Informática, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, se transferirán al organismo creado en los términos del presente Decreto. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del Artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
-
-Cuarto.- Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, la no-transferencia y la suficiencia de recursos públicos. Lo anterior, a efecto de que el organismo esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de la Ley a que se refiere el apartado B del Artículo 26 de esta Constitución.
-
-Quinto.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando ante el Instituto Nacional de Estadística, Geografía e Informática, y posteriormente ante el organismo creado en los términos del presente Decreto.
-
-Sexto.- Dentro de los 180 días naturales, posteriores a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá emitir la Ley a la que se refiere el apartado B del Artículo 26 de esta Constitución.
-
-Séptimo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-D.O.F. 14 DE SEPTIEMBRE DE 2006.
-
-ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 4 DE DICIEMBRE DE 2006.
-
-DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73.
-
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo.- En tanto no se modifique la legislación que regula la materia de responsabilidades administrativas de los servidores públicos federales, ésta continuará rigiéndose por las disposiciones legales vigentes al momento de su aplicación.
-
-D.O.F. 4 DE DICIEMBRE DE 2006.
-
-DECRETO QUE REFORMA EL ARTÍCULO 1.
-
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE FEBRERO DE 2007.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE JUNIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 82.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE JUNIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 55.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 20 DE JULIO DE 2007.
-
-DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 73.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto. Lo anterior será sin perjuicio de las disposiciones normativas que para tal efecto expidan las entidades federativas como complemento para la prevención de accidentes, la seguridad pública y la protección civil, siempre y cuando se sujeten a lo que establezca la ley de la materia.
-
-D.O.F. 20 DE JULIO DE 2007.
-
-DECRETO QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Federación, los Estados y el Distrito Federal, en sus respectivos ámbitos de competencia, deberán expedir las leyes en materia de acceso a la información pública y transparencia, o en su caso, realizar las modificaciones necesarias, a más tardar un año después de la entrada en vigor de este Decreto.
-
-Tercero.- La Federación, los Estados y el Distrito Federal deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de la entrada en vigor del mismo. Las leyes locales establecerán lo necesario para que los municipios con población superior a setenta mil habitantes y las demarcaciones territoriales del Distrito Federal cuenten en el mismo plazo con los sistemas electrónicos respectivos.
-
-D.O.F. 2 DE AGOSTO DE 2007.
-
-PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- El Congreso de la Unión al inicio de la vigencia del presente Decreto hará las adecuaciones correspondientes a la legislación federal, conforme a lo estipulado en este Decreto. Los estados y el Distrito Federal deberán adecuar sus leyes conforme a las disposiciones del presente Decreto a más tardar seis meses después de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE AGOSTO DE 2007.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
-
-D.O.F. 27 DE SEPTIEMBRE DE 2007.
-
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 13 DE NOVIEMBRE DE 2007.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Artículo Segundo. Por única vez el Instituto Federal Electoral deberá establecer, conforme a las bases legales que se expidan, tope de gastos para campaña presidencial en el año 2008, sólo para efecto de determinar el monto total del financiamiento privado que podrá obtener anualmente cada partido político.
-
-Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones que correspondan en las leyes federales en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
-
-Artículo Cuarto. Para los efectos de lo establecido en el tercer párrafo de la base V del artículo 41 de esta Constitución, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto, la Cámara de Diputados procederá a integrar el Consejo General del Instituto Federal Electoral conforme a las siguientes bases:
-
-a) Elegirá a un nuevo consejero Presidente, cuyo mandato concluirá el 30 de octubre de 2013; llegado el caso, el así nombrado podrá ser reelecto por una sola vez, en los términos de lo establecido en el citado párrafo tercero del artículo 41 de esta Constitución;
-
-b) Elegirá, dos nuevos consejeros electorales, cuyo mandato concluirá el 30 de octubre de 2016;
-
-c) Elegirá, de entre los ocho consejeros electorales en funciones a la entrada en vigor de este Decreto, a tres que concluirán su mandato el 15 de agosto de 2008 y a tres que continuarán en su encargo hasta el 30 de octubre de 2010;
-
-d) A más tardar el 15 de agosto de 2008, elegirá a tres nuevos consejeros electorales que concluirán su mandato el 30 de octubre de 2013.
-
-Los consejeros electorales y el consejero Presidente del Consejo General del Instituto Federal Electoral, en funciones a la entrada en vigor del presente Decreto, continuarán en sus cargos hasta en tanto la Cámara de Diputados da cumplimiento a lo dispuesto en el presente artículo. Queda sin efectos el nombramiento de consejeros electorales suplentes del Consejo General del Instituto Federal Electoral establecido por el Decreto publicado en el Diario Oficial de la Federación de fecha 31 de octubre de 2003.
-
-Artículo Quinto. Para los efectos de la renovación escalonada de los Magistrados Electorales de la Sala Superior y de las salas regionales del Tribunal Electoral del Poder Judicial de la Federación a que se refiere el artículo 99 de esta Constitución, se estará a lo que determine la Ley Orgánica del Poder Judicial de la Federación.
-
-Artículo Sexto. Las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal deberán adecuar su legislación aplicable conforme a lo dispuesto en este Decreto, a más tardar en un año a partir de su entrada en vigor; en su caso, se observará lo dispuesto en el artículo 105, fracción II, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Los Estados que a la entrada en vigor del presente Decreto hayan iniciado procesos electorales o estén por iniciarlos, realizarán sus comicios conforme lo establezcan sus disposiciones constitucionales y legales vigentes, pero una vez terminado el proceso electoral deberán realizar las adecuaciones a que se refiere el párrafo anterior en el mismo plazo señalado, contado a partir del día siguiente de la conclusión del proceso comicial respectivo.
-
-Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 7 DE MAYO DE 2008.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el transitorio tercero siguiente.
-
-SEGUNDO. El Congreso de la Unión, así como las legislaturas de los Estados y del Distrito Federal, deberán aprobar las leyes y, en su caso, las reformas que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de un año, contado a partir de la fecha de entrada en vigor del mismo, salvo en el caso de lo dispuesto en el artículo 74, fracción IV constitucional.
-
-TERCERO. Las fechas aplicables para la presentación de la Cuenta Pública y el informe del resultado sobre su revisión, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2008.
-
-CUARTO. Las Cuentas Públicas anteriores a la correspondiente al ejercicio fiscal 2008 se sujetarán a lo siguiente:
-
-I. La Cámara de Diputados, dentro de los 180 días naturales posteriores a la entrada en vigor de este Decreto, deberá concluir la revisión de las Cuentas Públicas correspondientes a los ejercicios fiscales 2002, 2003, 2004 y 2005.
-
-II. Las Cuentas Públicas correspondientes a los ejercicios fiscales 2006 y 2007 serán revisadas en los términos de las disposiciones aplicables en la materia antes de la entrada en vigor de este Decreto.
-
-III. La Cámara de Diputados deberá concluir la revisión de la Cuenta Pública del ejercicio fiscal de 2006 durante el año 2008.
-
-IV. La Cuenta Pública correspondiente al ejercicio fiscal 2007 será presentada a más tardar el 15 de mayo de 2008, el informe del resultado el 15 de marzo de 2009 y su revisión deberá concluir en 2009.
-
-D.O.F. 18 DE JUNIO DE 2008.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos transitorios siguientes.
-
-Segundo. El sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin exceder el plazo de ocho años, contado a partir del día siguiente de la publicación de este Decreto.
-
-En consecuencia, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, deberán expedir y poner en vigor las modificaciones u ordenamientos legales que sean necesarios a fin de incorporar el sistema procesal penal acusatorio. La Federación, los Estados y el Distrito Federal adoptarán el sistema penal acusatorio en la modalidad que determinen, sea regional o por tipo de delito.
-
-En el momento en que se publiquen los ordenamientos legales a que se refiere el párrafo anterior, los poderes u órgano legislativos competentes deberán emitir, asimismo, una declaratoria que se publicará en los órganos de difusión oficiales, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado en dichos ordenamientos y, en consecuencia, que las garantías que consagra esta Constitución empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
-
-Tercero. No obstante lo previsto en el artículo transitorio segundo, el sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo, de la Constitución, entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, en las entidades federativas que ya lo hubieren incorporado en sus ordenamientos legales vigentes, siendo plenamente válidas las actuaciones procesales que se hubieren practicado con fundamento en tales ordenamientos, independientemente de la fecha en que éstos entraron en vigor. Para tal efecto, deberán hacer la declaratoria prevista en el artículo transitorio Segundo.
-
-Cuarto. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
-
-Quinto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 18, así como el régimen de modificación y duración de penas establecido en el párrafo tercero del artículo 21, entrarán en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder el plazo de tres años, contados a partir del día siguiente de la publicación de este Decreto.
-
-Sexto. Las legislaciones en materia de delincuencia organizada de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación federal. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
-
-Séptimo. El Congreso de la Unión, a más tardar dentro de seis meses a partir de la publicación de este Decreto, expedirá la ley que establezca el Sistema Nacional de Seguridad Pública. Las entidades federativas expedirán a más tardar en un año, a partir de la entrada en vigor del presente Decreto, las leyes en esta materia.
-
-Octavo. El Congreso de la Unión, las Legislaturas de los estados y el órgano legislativo del Distrito Federal, deberán destinar los recursos necesarios para la reforma del sistema de justicia penal. Las partidas presupuestales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente decreto y en los presupuestos sucesivos. Este presupuesto deberá destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, y la capacitación necesarias para jueces, agentes del Ministerio Público, policías, defensores, peritos y abogados.
-
-Noveno. Dentro de los dos meses siguientes a la entrada en vigor del presente Decreto se creará una instancia de coordinación integrada por representantes de los Poderes Ejecutivo, Legislativo y Judicial, además del sector académico y la sociedad civil, así como de las Conferencias de Seguridad Pública, Procuración de Justicia y de Presidentes de Tribunales, la cual contará con una secretaría técnica, que coadyuvará y apoyará a las autoridades locales y federales, cuando así se lo soliciten.
-
-Décimo. La Federación creará un fondo especial para el financiamiento de las actividades de la secretaría técnica a que se refiere el artículo transitorio octavo. Los fondos se otorgarán en función del cumplimiento de las obligaciones y de los fines que se establezcan en la Ley.
-
-Décimo Primero. En tanto entra en vigor el sistema procesal acusatorio, los agentes del Ministerio Público que determine la ley podrán solicitar al juez el arraigo domiciliario del indiciado tratándose de delitos graves y hasta por un máximo de cuarenta días.
-
-Esta medida será procedente siempre que sea necesaria para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
-
-D.O.F. 15 DE AGOSTO DE 2008.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
-
-D.O.F. 29 DE AGOSTO DE 2008.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE SEPTIEMBRE DE 2008.
-
-Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Las Legislaturas de los Estados deberán realizar las adecuaciones que correspondan a sus Constituciones Locales, así como a su legislación secundaria en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
-
-D.O.F. 30 DE ABRIL DE 2009.
-
-DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO NOVENO AL ARTÍCULO 4o.; SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA UNA FRACCIÓN XXIX-Ñ AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Todos los actos jurídicos emitidos y fundamentados en las leyes anteriores y en la Ley Federal del Derecho de Autor vigente, tales como registros de obras y contratos, reservas de derechos otorgadas, resoluciones a procedimientos entre otros, así como los celebrados entre particulares, contratos, convenios, sucesiones testamentarias, conservarán su validez.
-
-D.O.F. 30 DE ABRIL DE 2009.
-
-DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-O AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión deberá expedir la ley en la materia en un plazo no mayor de 12 meses, contados a partir de la entrada en vigor del presente Decreto.
-
-Tercero.- En tanto el Congreso de la Unión expide la ley respectiva a la facultad que se otorga en este Decreto, continuarán vigentes las disposiciones que sobre la materia hayan dictado las legislaturas de las entidades federativas, en tratándose de datos personales en posesión de particulares.
-
-D.O.F. 4 DE MAYO DE 2009.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Las legislaciones en materia de secuestro de las entidades federativas, continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de esta Constitución. Los procesos penales iniciados con fundamento en dichas legislaciones, así como las sentencias emitidas con base en las mismas, no serán afectados por la entrada en vigor de la legislación general. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme a las disposiciones vigentes antes de la entrada en vigor de esta última.
-
-D.O.F. 1 DE JUNIO DE 2009.
-
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 14 DE AGOSTO DE 2009.
-
-Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE AGOSTO DE 2009.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
-
-Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
-
-Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los ministros de la Suprema Corte de Justicia de la Nación, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los magistrados de Circuito, los jueces de Distrito, los consejeros de la Judicatura Federal, los integrantes del Consejo General del Instituto Federal Electoral y los magistrados y jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
-
-a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se mantendrán durante el tiempo que dure su encargo.
-
-b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
-
-c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
-
-Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
-
-Quinto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de su competencia, deberán tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
-
-D.O.F. 27 DE ABRIL DE 2010.
-
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 29 DE JULIO DE 2010.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá realizar las adecuaciones legislativas que correspondan en un plazo máximo de un año contado a partir del inicio de la vigencia de este Decreto.
-
-D.O.F. 13 DE ABRIL DE 2011.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 6 DE JUNIO DE 2011.
-
-Primero. El presente Decreto entrará en vigor a los 120 días de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión expedirá las reformas legales correspondientes dentro de los 120 días posteriores a la publicación del presente Decreto.
-
-Tercero. Los juicios de amparo iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo por lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como el cumplimiento y ejecución de las sentencias de amparo.
-
-Cuarto. Para la integración de jurisprudencia por reiteración no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a lo dispuesto en las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
-
-D.O.F. 10 DE JUNIO DE 2011.
-
-Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La ley a que se refiere el tercer párrafo del artículo 1o. constitucional sobre reparación deberá ser expedida en un plazo máximo de un año contado a partir de la entrada en vigor del presente decreto.
-
-Tercero. La ley a que se refiere el artículo 11 constitucional sobre el asilo, deberá ser expedida en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Cuarto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 29 constitucional en materia de suspensión del ejercicio de los derechos y las garantías, en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Quinto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 33 constitucional, en materia de expulsión de extranjeros en un plazo máximo de un año contado a partir del inicio de la vigencia de este decreto. En tanto se expida la ley referida, este artículo se seguirá aplicando en los términos del texto vigente.
-
-Sexto. Los casos previstos en el segundo párrafo del artículo 97 constitucional, que estén pendientes de resolución al momento de entrar en vigor la reforma, los continuará desahogando la Suprema Corte de Justicia de la Nación hasta su conclusión.
-
-Séptimo. En lo que se refiere al Apartado B del artículo 102 constitucional y a la autonomía de los organismos locales de derechos humanos, las legislaturas locales deberán realizar las adecuaciones que correspondan en un plazo máximo de un año contados (sic) a partir del inicio de la vigencia de este decreto.
-
-Octavo. El Congreso de la Unión adecuará la Ley de la Comisión Nacional de los Derechos Humanos en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
-
-Noveno. Se derogan todas las disposiciones que contravengan el presente decreto.
-
-D.O.F. 14 DE JULIO DE 2011.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá expedir la Ley General para Prevenir y Sancionar la Trata de Personas, en un plazo no mayor a los 180 días siguientes a la entrada en vigor del presente Decreto.
-
-D.O.F. 17 DE AGOSTO DE 2011.
-
-ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 12 DE OCTUBRE DE 2011.
-
-DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO DECIMO AL ARTÍCULO 4o. Y SE REFORMA LA FRACCIÓN XXIX-J DEL ARTICULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. En el plazo de un año, a partir de la publicación del presente Decreto, el Congreso de la Unión expedirá la legislación general reglamentaria del artículo cuarto constitucional en materia de cultura física y deporte
-
-D.O.F. 12 DE OCTUBRE DE 2011.
-
-DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 4o. Y SE ADICIONA LA FRACCIÓN XXIX-P AL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 13 DE OCTUBRE DE 2011.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE FEBRERO DE 2012.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión, contará con un plazo de 180 días para incorporar las disposiciones relativas al derecho a un medio ambiente sano y las responsabilidades por el daño y deterioro ambiental.
-
-Tercero.- El Congreso de la Unión, contará con un plazo de 360 días para emitir una Ley General de Aguas.
-
-D.O.F. 9 DE FEBRERO DE 2012.
-
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el país a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y de las entidades federativas, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática del Desarrollo.
-
-Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos federal, de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
-
-Cuarto. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión y las legislaturas de los estados, deberán adecuar en el ámbito de sus respectivas competencias, la Ley General de Educación y demás disposiciones legales aplicables en la materia.
-
-D.O.F. 25 DE JUNIO DE 2012.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Congreso de la Unión deberá realizar las reformas a las leyes secundarias que correspondan en un plazo máximo de hasta seis meses, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-
-Tercero. Las autoridades federales podrán ejercer la facultad de atracción a que se refiere el presente Decreto, después de la entrada en vigor de las reformas a la ley secundaria, que al efecto expida el Honorable Congreso de la Unión.
-
-D.O.F. 9 DE AGOSTO DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-###### ARTÍCULO SEGUNDO.
-
-El Congreso de la Unión deberá expedir la legislación para hacer cumplir lo dispuesto en el presente Decreto, a más tardar en un año contando a partir de la entrada en vigor del mismo.
-
-###### ARTÍCULO TERCERO.
-
-Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal deberán realizar las adecuaciones necesarias a su legislación secundaria, derivadas del presente Decreto en un plazo no mayor a un año, contado a partir de su entrada en vigor.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 15 DE OCTUBRE DE 2012.
-
-ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y quedarán derogadas todas las disposiciones normativas que contravengan a este decreto.
-
-D.O.F. 30 DE NOVIEMBRE DE 2012.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE FEBRERO DE 2013.
-
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Ejecutivo Federal someterá a la Cámara de Senadores las ternas para la designación de los integrantes de la Junta de Gobierno del Instituto Nacional para la Evaluación de la Educación, en un plazo máximo de sesenta días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, que deberá recaer en personas con capacidad y experiencia en las materias de la competencia del Instituto.
-
-Para asegurar la renovación escalonada de los integrantes, los primeros nombramientos se realizarán por los periodos siguientes:
-
-I. Dos nombramientos por un periodo de cinco años;
-
-II. Dos nombramientos por un periodo de seis años, y
-
-III. Un nombramiento por un periodo de siete.
-
-El Ejecutivo Federal deberá determinar el periodo que corresponda a cada uno de los miembros, al someter su designación a la aprobación de la Cámara de Senadores.
-
-Para la conformación de la Primera Junta de Gobierno del Instituto, el Ejecutivo Federal someterá a la aprobación de la Cámara de Senadores cinco ternas para que de entre ellas se designen a los cinco integrantes que la constituirán. La presentación de ternas en el futuro corresponderá a la renovación escalonada que precisa el párrafo segundo de este artículo.
-
-El primer Presidente de la Junta de Gobierno del Instituto durará en su encargo cuatro años.
-
-Tercero. El Congreso de la Unión deberá expedir la Ley del Instituto Nacional para la Evaluación de la Educación, así como las reformas a la Ley General de Educación correspondientes, a más tardar en un plazo de seis meses contado a partir de la fecha de publicación del presente Decreto.
-
-En tanto el Congreso de la Unión expide la Ley del Instituto Nacional para la Evaluación de la Educación, el Instituto Nacional creado por este Decreto ejercerá sus atribuciones y competencia conforme al Decreto por el que se reforma el diverso por el que se crea el Instituto Nacional para la Evaluación de la Educación, publicado en el Diario Oficial de la Federación del 16 de mayo de 2012, en lo que no se oponga al presente Decreto. Para estos efectos, las atribuciones previstas en dicho ordenamiento para el Órgano de Gobierno y la Junta Técnica serán ejercidas por la Junta de Gobierno del Instituto, y las de la Presidencia por el Presidente de la Junta de Gobierno.
-
-Cuarto. Los recursos materiales y financieros, así como los trabajadores adscritos al organismo descentralizado Instituto Nacional para la Evaluación de la Educación, pasan a formar parte del Instituto que se crea en los términos del presente Decreto.
-
-Quinto. Para el debido cumplimiento de lo dispuesto por los artículos 3o. y 73, fracción XXV, de esta Constitución, el Congreso de la Unión y las autoridades competentes deberán prever al menos lo siguiente:
-
-I. La creación de un Sistema de Información y Gestión Educativa. Al efecto, durante el año 2013 el Instituto Nacional de Estadística y Geografía realizará un censo de escuelas, maestros y alumnos, que permita a la autoridad tener en una sola plataforma los datos necesarios para la operación del sistema educativo y que, a su vez, permita una comunicación directa entre los directores de escuela y las autoridades educativas;
-
-II. El uso de la evaluación del desempeño docente para dar mayor pertinencia y capacidades al sistema nacional de formación, actualización, capacitación y superación profesional para maestros, en el marco de la creación de un servicio profesional docente. La evaluación de los maestros debe tener, como primer propósito, el que ellos y el sistema educativo cuenten con referentes bien fundamentados para la reflexión y el diálogo conducentes a una mejor práctica profesional. El sistema educativo deberá otorgar los apoyos necesarios para que los docentes puedan, prioritariamente, desarrollar sus fortalezas y superar sus debilidades, y
-
-III. Las adecuaciones al marco jurídico para:
-
-a) Fortalecer la autonomía de gestión de las escuelas ante los órdenes de gobierno que corresponda con el objetivo de mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que alumnos, maestros y padres de familia, bajo el liderazgo del director, se involucren en la resolución de los retos que cada escuela enfrenta.
-
-b) Establecer en forma paulatina y conforme a la suficiencia presupuestal escuelas de tiempo completo con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural. En aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria se impulsarán esquemas eficientes para el suministro de alimentos nutritivos a los alumnos a partir de microempresas locales, y
-
-c) Prohibir en todas las escuelas los alimentos que no favorezcan la salud de los educandos.
-
-Al efecto, el Poder Legislativo hará las adecuaciones normativas conducentes y preverá en ellas los elementos que permitan al Ejecutivo Federal instrumentar esta medida. El Ejecutivo Federal la instrumentará en un plazo de 180 días naturales, contados a partir del día siguiente al de la entrada en vigor de las normas que al efecto expida el Congreso de la Unión.
-
-Sexto. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
-
-D.O.F. 5 DE JUNIO DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Ejecutivo Federal tendrá un plazo de 16 meses para iniciar las leyes reglamentarias pertinentes a la presente reforma.
-
-D.O.F. 11 DE JUNIO DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Las medidas de fomento a la competencia en televisión, radio, telefonía y servicios de datos, deberán aplicarse en todos los segmentos de forma que se garantice en su conjunto la competencia efectiva en la radiodifusión y telecomunicaciones.
-
-TERCERO. El Congreso de la Unión realizará las adecuaciones necesarias al marco jurídico conforme al presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor, y deberá:
-
-I. Establecer tipos penales especiales que castiguen severamente prácticas monopólicas y fenómenos de concentración;
-
-II. Regular el organismo público a que se refiere el artículo 6o. que se adiciona en virtud del presente Decreto. Pasarán a este organismo público los recursos humanos, financieros y materiales del organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales;
-
-III. Establecer los mecanismos para homologar el régimen de permisos y concesiones de radiodifusión, a efecto de que únicamente existan concesiones, asegurando una diversidad de medios que permita distinguir las concesiones de uso comercial, público, privado y social que incluyen las comunitarias e indígenas;
-
-IV. Regular el derecho de réplica;
-
-V. Establecer la prohibición de difundir publicidad engañosa o subrepticia;
-
-VI. Establecer los mecanismos que aseguren la promoción de la producción nacional independiente;
-
-VII. Establecer prohibiciones específicas en materia de subsidios cruzados o trato preferencial, consistentes con los principios de competencia, para el efecto de que los operadores de radiodifusión o telecomunicaciones no otorguen subsidios a los servicios que proporcionan, por sí o a través de sus empresas subsidiarias, filiales, afiliadas o que pertenezcan al mismo grupo de interés económico. Cada concesionario deberá fijar tarifas mínimas, consistentes con los principios de competencia, para la emisión de anuncios, las cuales serán presentadas ante la autoridad para su registro público;
-
-VIII. Determinar los criterios conforme a los cuales el Instituto Federal de Telecomunicaciones otorgará las autorizaciones para el acceso a la multiprogramación, bajo los principios de competencia y calidad, garantizado el derecho a la información y atendiendo de manera particular la concentración nacional y regional de frecuencias, incluyendo en su caso, el pago de las contraprestaciones debidas;
-
-IX. Crear un Consejo Consultivo del Instituto Federal de Telecomunicaciones, integrado por miembros honorarios y encargado de fungir como órgano asesor en la observancia de los principios establecidos en los artículos 6o. y 7o. constitucionales, y
-
-X. Aprobar las leyes, reformas y adiciones que deriven del presente Decreto.
-
-CUARTO. En el mismo plazo referido en el artículo anterior, el Congreso de la Unión deberá expedir un solo ordenamiento legal que regule de manera convergente, el uso, aprovechamiento y explotación del espectro radioeléctrico, las redes de telecomunicaciones, así como la prestación de servicios de radiodifusión y telecomunicaciones.
-
-La ley establecerá que las concesiones serán únicas, de forma que los concesionarios puedan prestar todo tipo de servicios a través de sus redes, siempre que cumplan con las obligaciones y contraprestaciones que les imponga el Instituto Federal de Telecomunicaciones y en su caso, las contraprestaciones correspondientes.
-
-El Instituto Federal de Telecomunicaciones, una vez que haya determinado los concesionarios que tienen el carácter de agente económico preponderante en términos de la fracción III del artículo Octavo Transitorio de este Decreto, establecerá, dentro de los sesenta días naturales siguientes, mediante lineamientos de carácter general, los requisitos, términos y condiciones que los actuales concesionarios de radiodifusión, telecomunicaciones y telefonía deberán cumplir para que se les autorice la prestación de servicios adicionales a los que son objeto de su concesión o para transitar al modelo de concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. La autorización a que se refiere este párrafo podrá otorgarse a los agentes económicos preponderantes sólo cuando se encuentren en cumplimiento de las medidas que se les hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio de este Decreto. El Instituto deberá resolver sobre la procedencia o improcedencia de las autorizaciones a que se refiere este párrafo dentro de los sesenta días naturales siguientes a la presentación de las solicitudes respectivas y, en el primer caso, determinará las contraprestaciones correspondientes.
-
-QUINTO. A la entrada en vigor del presente Decreto se permitirá la inversión extranjera directa hasta el cien por ciento en telecomunicaciones y comunicación vía satélite.
-
-Se permitirá la inversión extranjera directa hasta un máximo del cuarenta y nueve por ciento en radiodifusión. Dentro de este máximo de inversión extranjera se estará a la reciprocidad que exista en el país en el que se encuentre constituido el inversionista o el agente económico que controle en última instancia a éste, directa o indirectamente.
-
-La transición digital terrestre culminará el 31 de diciembre de 2015. Los Poderes de la Unión estarán obligados a promover, en el ámbito de sus competencias, la implementación de equipos receptores y decodificadores necesarios para la adopción de esta política de gobierno garantizando, a su vez, los recursos presupuestales que resulten necesarios. Los concesionarios y permisionarios están obligados a devolver, en cuanto culmine el proceso de transición a la televisión digital terrestre, las frecuencias que originalmente les fueron concesionadas por el Estado, a fin de garantizar el uso eficiente del espectro radioeléctrico, la competencia y el uso óptimo de la banda de 700 MHz.
-
-SEXTO. Con el objeto de asegurar el escalonamiento en el cargo de los Comisionados de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, los primeros Comisionados nombrados en cada uno de esos órganos concluirán su encargo el último día de febrero de los años 2016, 2017, 2018, 2019, 2020, 2021 y 2022.
-
-El Ejecutivo Federal, al someter los nombramientos a la ratificación del Senado de la República, señalará los periodos respectivos.
-
-Para los nombramientos de los primeros Comisionados, tanto de la Comisión Federal de Competencia Económica como del Instituto Federal de Telecomunicaciones, deberá observarse lo siguiente:
-
-I. El Comité de Evaluación a que se refiere el artículo 28 de la Constitución deberá enviar al Ejecutivo Federal las listas de aspirantes respectivas, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto;
-
-II. Una vez recibidas las listas, el Ejecutivo Federal deberá remitir sus propuestas al Senado de la República dentro de los diez días naturales siguientes;
-
-III. El Senado de la República, una vez reunido, contará con un plazo de diez días naturales para resolver sobre la propuesta, y
-
-IV. En caso de que respecto de una misma vacante el Senado de la República no apruebe en dos ocasiones la designación del Ejecutivo Federal, corresponderá a éste la designación directa del comisionado respectivo, a partir de la lista de aspirantes presentada por el Comité de Evaluación a que se refiere el artículo 28 de la Constitución.
-
-SÉPTIMO. En tanto se integran los órganos constitucionales conforme a lo dispuesto en el artículo Sexto Transitorio, continuarán en sus funciones, conforme al marco jurídico vigente a la entrada en vigor del presente Decreto, los órganos desconcentrados Comisión Federal de Competencia y Comisión Federal de Telecomunicaciones. Los recursos humanos, financieros y materiales de los órganos desconcentrados referidos pasarán a los órganos constitucionales que se crean por virtud de este Decreto.
-
-Los procedimientos iniciados con anterioridad a la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, continuarán su trámite ante estos órganos en términos de la legislación aplicable al momento de su inicio. Las resoluciones que recaigan en estos procedimientos, sólo podrán ser impugnadas en términos de lo dispuesto por el presente Decreto mediante juicio de amparo indirecto.
-
-Asimismo, los juicios y recursos en trámite, continuarán hasta su conclusión conforme a la legislación vigente a la entrada en vigor del presente Decreto.
-
-Si no se hubieren realizado las adecuaciones al marco jurídico previstas en el artículo Tercero Transitorio a la fecha de la integración de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones, éstos ejercerán sus atribuciones conforme a lo dispuesto por el presente Decreto y, en lo que no se oponga a éste, en las leyes vigentes en materia de competencia económica, radiodifusión y telecomunicaciones.
-
-OCTAVO. Una vez constituido el Instituto Federal de Telecomunicaciones conforme a lo dispuesto en el artículo Sexto Transitorio, deberá observarse lo siguiente:
-
-I. Los concesionarios que presten servicios de televisión radiodifundida están obligados a permitir a los concesionarios de televisión restringida la retransmisión de su señal, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde.
-
-Los concesionarios que presten servicios de televisión restringida están obligados a retransmitir la señal de televisión radiodifundida, de manera gratuita y no discriminatoria, dentro de la misma zona de cobertura geográfica, en forma íntegra, simultánea y sin modificaciones, incluyendo la publicidad y con la misma calidad de la señal que se radiodifunde, e incluirla sin costo adicional en los servicios contratados por los suscriptores y usuarios. Los concesionarios de televisión restringida vía satélite, sólo deberán retransmitir obligatoriamente las señales radiodifundidas de cobertura del cincuenta por ciento o más del territorio nacional. Todos los concesionarios de televisión restringida deberán retransmitir las señales radiodifundidas por instituciones públicas federales.
-
-Los concesionarios de telecomunicaciones o de televisión radiodifundida que hayan sido declarados con poder sustancial en cualquiera de los mercados de telecomunicaciones o radiodifusión o como agentes económicos preponderantes en los términos de este Decreto, no tendrán derecho a la regla de gratuidad de los contenidos de radiodifusión o de la retransmisión gratuita; lo que en ningún caso se reflejará como costo adicional en los servicios contratados por los suscriptores y usuarios. Estos concesionarios deberán acordar las condiciones y precios de los contenidos radiodifundidos o de la retransmisión. En caso de diferendo, el Instituto Federal de Telecomunicaciones determinará la tarifa bajo los principios de libre competencia y concurrencia. El Instituto Federal de Telecomunicaciones sancionará con la revocación de la concesión a los agentes económicos preponderantes o con poder sustancial que se beneficien directa o indirectamente de la regla de gratuidad, a través de otros concesionarios, sin perjuicio del pago de las contraprestaciones que correspondan. También se revocará la concesión a estos últimos.
-
-Las obligaciones de ofrecer y retransmitir gratuitamente los contenidos radiodifundidos perderán su vigencia simultáneamente cuando existan condiciones de competencia en los mercados de radiodifusión y telecomunicaciones. Esta declaración será realizada por el Instituto Federal de Telecomunicaciones en los términos que establezca la ley. En este caso, los concesionarios estarán en libertad de acordar los precios y condiciones de la retransmisión de contenidos radiodifundidos. En caso de diferendo el Instituto Federal de Telecomunicaciones determinará la tarifa que deberá estar orientada a costos.
-
-II. Para dar cabal cumplimiento al Programa de Licitación y Adjudicación de Frecuencias de Televisión Radiodifundida Digital, el Instituto Federal de Telecomunicaciones publicará, en un plazo no mayor a ciento ochenta días naturales a partir de su integración, las bases y convocatorias para licitar nuevas concesiones de frecuencias de televisión radiodifundida que deberán ser agrupadas a efecto de formar por lo menos dos nuevas cadenas de televisión con cobertura nacional, bajo los principios de funcionamiento eficiente de los mercados, máxima cobertura nacional de servicios, derecho a la información y función social de los medios de comunicación, y atendiendo de manera particular las barreras de entrada y las características existentes en el mercado de televisión abierta. No podrán participar en las licitaciones aquellos concesionarios o grupos relacionados con vínculos de tipo comercial, organizativo, económico o jurídico, que actualmente acumulen concesiones para prestar servicios de radiodifusión de 12 MHz de espectro radioeléctrico o más en cualquier zona de cobertura geográfica.
-
-III. El Instituto Federal de Telecomunicaciones deberá determinar la existencia de agentes económicos preponderantes en los sectores de radiodifusión y de telecomunicaciones, e impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia y, con ello, a los usuarios finales. Dichas medidas se emitirán en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, e incluirán en lo aplicable, las relacionadas con información, oferta y calidad de servicios, acuerdos en exclusiva, limitaciones al uso de equipos terminales entre redes, regulación asimétrica en tarifas e infraestructuras de red, incluyendo la desagregación de sus elementos esenciales y, en su caso, la separación contable, funcional o estructural de dichos agentes.
-
-Para efectos de lo dispuesto en este Decreto, se considerará como agente económico preponderante, en razón de su participación nacional en la prestación de los servicios de radiodifusión o telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos con que disponga el Instituto Federal de Telecomunicaciones.
-
-Las obligaciones impuestas al agente económico preponderante se extinguirán en sus efectos por declaratoria del Instituto Federal de Telecomunicaciones una vez que conforme a la ley existan condiciones de competencia efectiva en el mercado de que se trate.
-
-IV. El Instituto Federal de Telecomunicaciones, en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración, establecerá las medidas que permitan la desagregación efectiva de la red local del agente preponderante en telecomunicaciones de manera que otros concesionarios de telecomunicaciones puedan acceder, entre otros, a los medios físicos, técnicos y lógicos de conexión entre cualquier punto terminal de la red pública de telecomunicaciones y el punto de acceso a la red local pertenecientes a dicho agente. Estas medidas también serán aplicables al agente económico con poder sustancial en el mercado relevante de servicios al usuario final.
-
-Las medidas a que se refiere el párrafo anterior deberán considerar como insumo esencial todos los elementos necesarios para la desagregación efectiva de la red local. En particular, los concesionarios podrán elegir los elementos de la red local que requieran del agente preponderante y el punto de acceso a la misma. Las citadas medidas podrán incluir la regulación de precios y tarifas, condiciones técnicas y de calidad, así como su calendario de implantación con el objeto de procurar la cobertura universal y el aumento en la penetración de los servicios de telecomunicaciones.
-
-V. El Instituto Federal de Telecomunicaciones revisará, dentro de los ciento ochenta días naturales siguientes a su integración, los títulos de concesión vigentes, a efecto de verificar el cumplimiento de sus términos, condiciones y modalidades.
-
-VI. En un plazo de ciento ochenta días naturales siguientes a su integración, el Instituto Federal de Telecomunicaciones recabará la información necesaria a fin de constituir el Registro Público de Concesiones a que se refiere el artículo 28 de la Constitución.
-
-NOVENO. En relación con las resoluciones a que se refieren las fracciones III y IV del artículo anterior, se estará a lo siguiente:
-
-I. Se pronunciarán de conformidad con el procedimiento que establezca la legislación vigente en la fecha de su emisión y a falta de disposición expresa, conforme a la Ley Federal de Procedimiento Administrativo;
-
-II. Únicamente podrán ser impugnadas mediante el juicio de amparo indirecto y no serán objeto de suspensión, tal y como lo establece el artículo 28 de la Constitución, reformado en virtud del presente Decreto. Las normas generales aplicadas durante el procedimiento y los actos intraprocesales sólo podrán reclamarse en el amparo promovido contra la resolución referida, y
-
-III. No admitirán recurso administrativo alguno y solamente podrán ser impugnadas a través del juicio de amparo indirecto en los términos de la fracción anterior.
-
-El incumplimiento de las medidas contempladas en las citadas resoluciones será sancionado en términos de las disposiciones aplicables. El incumplimiento a la separación contable, funcional o estructural dará lugar a la revocación de los títulos de concesión.
-
-DÉCIMO. Los medios públicos que presten el servicio de radiodifusión deberán contar con independencia editorial; autonomía de gestión financiera; garantías de participación ciudadana; reglas claras para la transparencia y rendición de cuentas; defensa de sus contenidos; opciones de financiamiento; pleno acceso a tecnologías, y reglas para la expresión de diversidades ideológicas, étnicas y culturales.
-
-DÉCIMO PRIMERO. Para que la publicidad en radio y televisión sea equilibrada, la ley dotará al Instituto Federal de Telecomunicaciones de atribuciones para vigilar el cumplimiento de los tiempos máximos que la misma señale para la transmisión de mensajes comerciales.
-
-La ley deberá asegurar que la programación dirigida a la población infantil respete los valores y principios a que se refiere el artículo 3o. de la Constitución, así como las normas en materia de salud y establecerá lineamientos específicos que regulen la publicidad pautada en la programación destinada al público infantil. El Instituto contará con facultades para supervisar su cumplimiento.
-
-Asimismo, corresponderá al Instituto resolver cualquier desacuerdo en materia de retransmisión de contenidos, con excepción de la materia electoral.
-
-DÉCIMO SEGUNDO. El Consejo de la Judicatura Federal deberá establecer Tribunales Colegiados de Circuito y Juzgados de Distrito especializados en materia de competencia económica, radiodifusión y telecomunicaciones, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
-
-El Consejo de la Judicatura Federal emitirá acuerdos de carácter general en los que se preverán la forma de asignación de los asuntos y la rotación de jueces y magistrados especializados que conocerán de los mismos, así como las medidas pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales a que se refiere el párrafo anterior.
-
-DÉCIMO TERCERO. La Cámara de Diputados, en el Presupuesto de Egresos de la Federación, aprobará las disposiciones necesarias para dotar de suficiencia presupuestaria a los órganos reguladores a que se refiere este Decreto para el desempeño de sus funciones, así como las previsiones presupuestarias para el buen funcionamiento del organismo a que se refiere el artículo 6o., Apartado B, fracción V, de la Constitución.
-
-DÉCIMO CUARTO. El Ejecutivo Federal tendrá a su cargo la política de inclusión digital universal, en la que se incluirán los objetivos y metas en materia de infraestructura, accesibilidad y conectividad, tecnologías de la información y comunicación, y habilidades digitales, así como los programas de gobierno digital, gobierno y datos abiertos, fomento a la inversión pública y privada en aplicaciones de telesalud, telemedicina y Expediente Clínico Electrónico y desarrollo de aplicaciones, sistemas y contenidos digitales, entre otros aspectos.
-
-Dicha política tendrá, entre otras metas, que por lo menos 70 por ciento de todos los hogares y 85 por ciento de todas las micros, pequeñas y medianas empresas a nivel nacional, cuenten con accesos con una velocidad real para descarga de información de conformidad con el promedio registrado en los países miembros de la Organización para la Cooperación y el Desarrollo Económicos. Esta característica deberá ser ofrecida a precios competitivos internacionalmente.
-
-El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos de la política de inclusión digital universal.
-
-Asimismo, el Ejecutivo Federal elaborará las políticas de radiodifusión y telecomunicaciones del Gobierno Federal y realizará las acciones tendientes a garantizar el acceso a Internet de banda ancha en edificios e instalaciones de las dependencias y entidades de la Administración Pública Federal. Las entidades federativas harán lo propio en el ámbito de su competencia.
-
-DÉCIMO QUINTO. La Comisión Federal de Electricidad cederá totalmente a Telecomunicaciones de México su concesión para instalar, operar y explotar una red pública de telecomunicaciones y le transferirá todos los recursos y equipos necesarios para la operación y explotación de dicha concesión, con excepción de la fibra óptica, derechos de vía, torres, postería, edificios e instalaciones que quedarán a cargo de la Comisión Federal de Electricidad, garantizando a Telecomunicaciones de México el acceso efectivo y compartido a dicha infraestructura para su aprovechamiento eficiente, a fin de lograr el adecuado ejercicio de sus funciones y el cumplimiento de sus objetivos. Telecomunicaciones de México tendrá atribuciones y recursos para promover el acceso a servicios de banda ancha, planear, diseñar y ejecutar la construcción y el crecimiento de una robusta red troncal de telecomunicaciones de cobertura nacional, así como la comunicación vía satélite y la prestación del servicio de telégrafos. Lo anterior, de conformidad con los lineamientos y acuerdos emitidos por el Instituto Federal de Telecomunicaciones.
-
-DÉCIMO SEXTO. El Estado, a través del Ejecutivo Federal, en coordinación con el Instituto Federal de Telecomunicaciones, garantizará la instalación de una red pública compartida de telecomunicaciones que impulse el acceso efectivo de la población a la comunicación de banda ancha y a los servicios de telecomunicaciones, de conformidad con los principios contenidos en el artículo 6o., Apartado B, fracción II del presente Decreto y las características siguientes:
-
-I. Iniciará la instalación antes de que concluya el año 2014, y estará en operación antes de que concluya el año 2018;
-
-II. Contemplará el aprovechamiento de al menos 90 MHz del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz), de los recursos de la red troncal de fibra óptica de la Comisión Federal de Electricidad y de cualquier otro activo del Estado que pueda utilizarse en la instalación y la operación de la red compartida;
-
-III. Podrá contemplar inversión pública o privada, identificando las necesidades presupuestales y, en su caso, las previsiones que deba aprobar la Cámara de Diputados;
-
-IV. Asegurará que ningún prestador de servicios de telecomunicaciones tenga influencia en la operación de la red;
-
-V. Asegurará el acceso a los activos requeridos para la instalación y operación de la red, así como el cumplimiento de su objeto y obligaciones de cobertura, calidad y prestación no discriminatoria de servicios;
-
-VI. Operará bajo principios de compartición de toda su infraestructura y la venta desagregada de todos sus servicios y capacidades, y prestará exclusivamente servicios a las empresas comercializadoras y operadoras de redes de telecomunicaciones, bajo condiciones de no discriminación y a precios competitivos. Los operadores que hagan uso de dicha compartición y venta desagregada se obligarán a ofrecer a los demás operadores y comercializadores las mismas condiciones que reciban de la red compartida, y
-
-VII. Promoverá que la política tarifaria de la red compartida fomente la competencia y que asegure la reinversión de utilidades para la actualización, el crecimiento y la cobertura universal.
-
-El Ejecutivo Federal, en el marco del Sistema Nacional de Planeación Democrática, incluirá en los instrumentos programáticos respectivos, las acciones necesarias para el desarrollo de la red a que se refiere este artículo.
-
-DÉCIMO SÉPTIMO. En el marco del Sistema Nacional de Planeación Democrática, el Ejecutivo Federal incluirá en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales y especiales conducentes las siguientes acciones:
-
-I. El crecimiento de la red troncal prevista en el artículo Décimo Sexto Transitorio de este Decreto, ya sea mediante inversión pública, privada o mixta, para asegurar la máxima cobertura de servicios a la población;
-
-II. Un programa de banda ancha en sitios públicos que identifique el número de sitios a conectar cada año, hasta alcanzar la cobertura universal;
-
-III. Un estudio pormenorizado que identifique el mayor número posible de sitios públicos federales, ductos, postería y derechos de vía que deberán ser puestos a disposición de los operadores de telecomunicaciones y radiodifusión para agilizar el despliegue de sus redes. El programa deberá incluir la contraprestación que los concesionarios deberán pagar por el aprovechamiento correspondiente, bajo principios de acceso no discriminatorio y precios que promuevan el cumplimiento del derecho a que se refiere el artículo 6o., párrafo tercero, de la Constitución, siempre y cuando el concesionario ofrezca las mismas condiciones en el acceso a su propia infraestructura;
-
-IV. Un programa de trabajo para dar cabal cumplimiento a la política para la transición a la Televisión Digital Terrestre y los recursos presupuestales necesarios para ello, y
-
-V. Un Programa Nacional de Espectro Radioeléctrico que, de manera enunciativa y no limitativa, incluirá lo siguiente:
-
-a) Un programa de trabajo para garantizar el uso óptimo de las bandas 700 MHz y 2.5 GHz bajo principios de acceso universal, no discriminatorio, compartido y continuo, y
-
-b) Un programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión.
-
-El Instituto Federal de Telecomunicaciones deberá realizar las acciones necesarias para contribuir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones.
-
-DÉCIMO OCTAVO. Los derechos laborales de los trabajadores que presten sus servicios en las empresas y organismos dedicados a las actividades que comprende el presente Decreto se respetarán en todo momento de conformidad con la ley.
-
-D.O.F. 19 DE JULIO DE 2013.
-
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE SEPTIEMBRE DE 2013.
-
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Quedará sin efecto toda disposición que contravenga el presente Decreto.
-
-D.O.F. 8 DE OCTUBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación de conformidad con las disposiciones previstas en los artículos siguientes.
-
-SEGUNDO. La legislación única en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que expida el Congreso de la Unión conforme al presente Decreto, entrará en vigor en toda la República a más tardar el día dieciocho de junio de dos mil dieciséis.
-
-La legislación vigente en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas expedida por el Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal continuará en vigor hasta que inicie la vigencia de la legislación que respecto de cada una de dichas materias expida el Congreso de la Unión conforme al presente Decreto.
-
-TERCERO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la legislación procedimental penal que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos.
-
-D.O.F. 20 DE DICIEMBRE DE 2013.
-
-Primero. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Segundo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Tercero. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Cuarto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Quinto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Sexto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Séptimo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Octavo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Noveno. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Primero. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Segundo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Tercero. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Cuarto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Quinto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Sexto. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Séptimo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Octavo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Décimo Noveno. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Vigésimo. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-Vigésimo Primero. (DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO QUINTO DEL ARTÍCULO 25, LOS PÁRRAFOS SEXTO Y SÉPTIMO DEL ARTÍCULO 27 Y EL PÁRRAFO CUARTO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE ÁREAS Y EMPRESAS ESTRATÉGICAS, D.O.F. 31 DE OCTUBRE DE 2024)
-
-D.O.F. 27 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXIX-R AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Congreso de la Unión expedirá la ley general correspondiente en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto. Para ello, solicitará previamente la opinión de las entidades federativas.
-
-Tercero.- Las Legislaturas de las Entidades Federativas adecuarán las legislaciones correspondientes a lo dispuesto en el presente Decreto y a la ley general que apruebe el Congreso de la Unión en un plazo no mayor a 60 días a partir de la entrada en vigor de dicha ley general.
-
-D.O.F. 27 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE REFORMA EL INCISO E) Y SE ADICIONA EL INCISO O) DE LA FRACCIÓN IV DEL ARTÍCULO 116, SE REFORMA EL ARTÍCULO 122, APARTADO C, BASE PRIMERA, FRACCIÓN V, INCISO F) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE FEBRERO DE 2014.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión deberá expedir la Ley General del Artículo 6o. de esta Constitución, así como las reformas que correspondan a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, a la Ley Federal de Datos Personales en Posesión de los Particulares, al Código Federal de Instituciones y Procedimientos Electorales, a la Ley General del Sistema de Medios de Impugnación en Materia Electoral y los demás ordenamientos necesarios, en un plazo de un año contado a partir de la fecha de publicación del presente Decreto.
-
-TERCERO. Los Comisionados que actualmente conforman el Instituto Federal de Acceso a la Información y Protección de Datos podrán formar parte del nuevo organismo autónomo en el ámbito federal, previa petición formal al Senado de la República dentro de los diez días siguientes a la entrada en vigor del presente Decreto únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue, siempre y cuando su petición sea aprobada por el voto de las dos terceras partes de los Senadores presentes. En este caso, la Cámara de Senadores deberá resolver en un plazo de diez días, de lo contrario se entenderá la negativa a su petición.
-
-En tanto se integra el organismo garante que establece el artículo 6o. de esta Constitución, continuarán en sus funciones, conforme al orden jurídico vigente al entrar en vigor el presente Decreto, los comisionados del actual Instituto Federal de Acceso a la Información y Protección de Datos.
-
-La designación de los comisionados del organismo garante que se crea mediante la modificación del artículo 6o. constitucional materia del presente Decreto, será realizada a más tardar 90 días después de su entrada en vigor, conforme a lo siguiente:
-
-I. En el supuesto de que la totalidad de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten su continuidad en el cargo y obtengan la respectiva aprobación en los términos del párrafo primero de esta disposición transitoria, formarán parte del organismo garante del derecho de acceso a la información que se crea mediante el presente Decreto, hasta la fecha de terminación del período para el que fueron originariamente designados, conforme a lo dispuesto por el siguiente artículo transitorio.
-
-II. En el caso de que sólo alguna, alguno, algunas o algunos de los comisionados del Instituto Federal de Acceso a la Información y Protección de Datos soliciten continuar en el cargo y obtengan la aprobación a que se refiere el párrafo primero de este precepto, continuarán en el ejercicio del cargo en el nuevo organismo hasta el término de la designación que se les confirió originariamente para formar parte del Instituto que se extingue; asimismo, se designarán los comisionados a que se refieren los incisos a) y b) del siguiente artículo transitorio, quienes ejercerán el cargo en los periodos señalados en los respectivos incisos.
-
-En esta hipótesis, los comisionados que formen parte del nuevo organismo en virtud de que los comisionados del citado Instituto no soliciten o no obtengan la aprobación para continuar en esa función, tendrán los períodos de desempeño siguientes:
-
-a) Si ha fenecido el mandato de la comisionada que concluye el encargo el 9 de enero de 2014, el nombramiento concluirá el 31 de marzo de 2018;
-
-b) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 13 de abril de 2019, el mismo se hará hasta esa fecha.
-
-c) Si el nombramiento es en razón de la no continuación del comisionado que habría concluido el encargo el 17 de junio de 2016, el mismo se hará hasta esa fecha.
-
-d) Si el o los nombramientos son en razón de la no continuación de una o de ambas comisionadas que habría o habrían concluido el encargo el 11 de septiembre de 2016, el o los mismos se harán hasta esa fecha.
-
-III. En el supuesto de que ninguno de los actuales comisionados del Instituto Federal de Acceso a la Información y Protección de Datos solicite al Senado o reciba la aprobación para formar parte del organismo garante del derecho de acceso a la información que se crea por medio del presente Decreto, y para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, el Senado de la República especificará el período de ejercicio para cada comisionado, tomando en consideración lo siguiente:
-
-a) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2018.
-
-b) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2020.
-
-c) Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de marzo de 2022, y
-
-d) Nombrará a un comisionado, cuyo mandato concluirá el 31 de marzo de 2023.
-
-CUARTO. La designación de los dos nuevos comisionados del organismo garante que establece el artículo 6o. de esta Constitución será realizada a más tardar 90 días después de la entrada en vigor de este Decreto.
-
-Para asegurar la renovación escalonada de los comisionados en los primeros nombramientos, el Senado de la República especificará el período de ejercicio para cada comisionado tomando en consideración lo siguiente:
-
-a) Nombrará a un comisionado, cuyo mandato concluirá el 1 de noviembre de 2017.
-
-b) Nombrará a un nuevo comisionado, cuyo mandato concluirá el 31 de marzo de 2020.
-
-c) Quien sustituya al comisionado que deja su encargo el 9 de enero de 2014, concluirá su mandato el 31 de marzo de 2018.
-
-d) Quien sustituya al comisionado que deja su encargo el 13 de abril de 2019, concluirá su mandato el 31 de marzo de 2026.
-
-e) Quien sustituya al comisionado que deja su encargo el 17 de junio de 2016, concluirá su mandato el 1 de noviembre de 2021.
-
-f) Quienes sustituyan a los comisionados que dejan su encargo el 11 de septiembre de 2016, uno concluirá su mandato el 1 de noviembre de 2022 y el otro concluirá su mandato el 1 de noviembre de 2023.
-
-QUINTO. Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal tendrán un plazo de un año, contado a partir de su entrada en vigor, para armonizar su normatividad conforme a lo establecido en el presente Decreto.
-
-SEXTO. El organismo garante que establece el artículo 6o. de esta Constitución podrá ejercer las facultades de revisión y de atracción a que se refiere el presente Decreto, posterior a la entrada en vigor de las reformas a la ley secundaria que al efecto expida el Honorable Congreso de la Unión.
-
-SÉPTIMO. En tanto se determina la instancia responsable encargada de atender los temas en materia de protección de datos personales en posesión de particulares, el organismo garante que establece el artículo 6o. de esta Constitución ejercerá las atribuciones correspondientes.
-
-OCTAVO. En tanto el Congreso de la Unión expide las reformas a las leyes respectivas en materia de transparencia, el organismo garante que establece el artículo 6o. de esta Constitución ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental vigente.
-
-NOVENO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el artículo 6o. de esta Constitución, creado en los términos del presente Decreto.
-
-DÉCIMO. Los recursos financieros y materiales, así como los trabajadores adscritos al Instituto Federal de Acceso a la Información Pública y Protección de Datos Personales, se transferirán al organismo público autónomo creado. Los trabajadores que pasen a formar parte del nuevo organismo se seguirán rigiendo por el apartado B del artículo 123 de esta Constitución y de ninguna forma resultarán afectados en sus derechos laborales y de seguridad social.
-
-D.O.F. 10 DE FEBRERO DE 2014.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO.- El Congreso de la Unión deberá expedir las normas previstas en el inciso a) de la fracción XXI, y en la fracción XXIX-U del artículo 73 de esta Constitución, a más tardar el 30 de abril de 2014. Dichas normas establecerán, al menos, lo siguiente:
-
-I. La ley general que regule los partidos políticos nacionales y locales:
-
-a) Las normas, plazos y requisitos para su registro legal y su intervención en los procesos electorales federales y locales;
-
-b) Los derechos y obligaciones de sus militantes y la garantía de acceso a los órganos imparciales de justicia intrapartidaria;
-
-c) Los lineamientos básicos para la integración de sus órganos directivos; la postulación de sus candidatos y, en general, la conducción de sus actividades de forma democrática; así como la transparencia en el uso de los recursos;
-
-d) Los contenidos mínimos de sus documentos básicos;
-
-e) Los procedimientos y las sanciones aplicables al incumplimiento de sus obligaciones;
-
-f) El sistema de participación electoral de los partidos políticos a través de la figura de coaliciones, conforme a lo siguiente:
-
-1. Se establecerá un sistema uniforme de coaliciones para los procesos electorales federales y locales;
-
-2. Se podrá solicitar su registro hasta la fecha en que inicie la etapa de precampañas;
-
-3. La ley diferenciará entre coaliciones totales, parciales y flexibles. Por coalición total se entenderá la que establezcan los partidos políticos para postular a la totalidad de los candidatos en un mismo proceso electoral federal o local, bajo una misma plataforma electoral. Por coalición parcial se entenderá la que establezcan los partidos políticos para postular al menos el cincuenta por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma. Por coalición flexible se entenderá la que establezcan los partidos políticos para postular al menos el veinticinco por ciento de las candidaturas en un mismo proceso electoral federal o local, bajo una misma plataforma electoral;
-
-4. Las reglas conforme a las cuales aparecerán sus emblemas en las boletas electorales y las modalidades del escrutinio y cómputo de los votos;
-
-5. En el primer proceso electoral en el que participe un partido político, no podrá coaligarse, y
-
-g) Un sistema de fiscalización sobre el origen y destino de los recursos con los que cuenten los partidos políticos, las coaliciones y los candidatos, que deberá contener:
-
-1. Las facultades y procedimientos para que la fiscalización de los ingresos y egresos de los partidos políticos, las coaliciones y los candidatos se realice de forma expedita y oportuna durante la campaña electoral;
-
-2. Los lineamientos homogéneos de contabilidad, la cual deberá ser pública y de acceso por medios electrónicos;
-
-3. Los mecanismos por los cuales los partidos políticos, las coaliciones y las candidaturas independientes deberán notificar al órgano de fiscalización del Instituto Nacional Electoral, la información sobre los contratos que celebren durante las campañas o los procesos electorales, incluyendo la de carácter financiero y la relativa al gasto y condiciones de ejecución de los instrumentos celebrados. Tales notificaciones deberán realizarse previamente a la entrega de los bienes o la prestación de los servicios de que se trate;
-
-4. Las facultades del Instituto Nacional Electoral para comprobar el contenido de los avisos previos de contratación a los que se refiere el numeral anterior;
-
-5. Los lineamientos para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones emitidos por la autoridad electoral;
-
-6. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a sus actividades y campañas electorales, por conducto del Instituto Nacional Electoral, en los términos que el mismo Instituto establezca mediante disposiciones de carácter general;
-
-7. La facultad de los partidos políticos de optar por realizar todos los pagos relativos a la contratación de publicidad exterior, por conducto del Instituto Nacional Electoral, y
-
-8. Las sanciones que deban imponerse por el incumplimiento de sus obligaciones.
-
-II. La ley general que regule los procedimientos electorales:
-
-a) La celebración de elecciones federales y locales el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del 2015, salvo aquellas que se verifiquen en 2018, las cuales se llevarán a cabo el primer domingo de julio;
-
-b) Los mecanismos de coordinación entre los órganos del Ejecutivo Federal en materia de inteligencia financiera y el Instituto Nacional Electoral, que permitan reportar a éste las disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables;
-
-c) Las reglas aplicables para transparentar el financiamiento, la metodología y los resultados de las encuestas que se difundan, relativas a las preferencias electorales, así como las fechas límite para llevar a cabo su difusión;
-
-d) Los términos en que habrán de realizarse debates de carácter obligatorio entre candidatos, organizados por las autoridades electorales; y las reglas aplicables al ejercicio de la libertad de los medios de comunicación para organizar y difundir debates entre candidatos a cualquier cargo de elección popular. La negativa a participar de cualquiera de los candidatos en ningún caso será motivo para la cancelación o prohibición del debate respectivo. La realización o difusión de debates en radio y televisión, salvo prueba en contrario, no se considerará como contratación ilegal de tiempos o como propaganda encubierta;
-
-e) Las modalidades y plazos de entrega de los materiales de propaganda electoral para efectos de su difusión en los tiempos de radio y televisión;
-
-f) Las sanciones aplicables a la promoción de denuncias frívolas. Para tales efectos se entenderá como denuncia frívola aquella que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia;
-
-g) La regulación de la propaganda electoral, debiendo establecer que los artículos promocionales utilitarios sólo podrán ser elaborados con material textil;
-
-h) Las reglas para garantizar la paridad entre géneros en candidaturas a legisladores federales y locales, e
-
-i) Las reglas, plazos, instancias y etapas procesales para sancionar violaciones en los procedimientos electorales.
-
-III. La ley general en materia de delitos electorales establecerá los tipos penales, sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación y las entidades federativas.
-
-TERCERO.- El Congreso de la Unión deberá expedir, durante el segundo periodo de sesiones ordinarias del segundo año de ejercicio de la LXII Legislatura, la ley que reglamente el párrafo octavo del artículo 134 de esta Constitución, la que establecerá las normas a que deberán sujetarse los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y de cualquier otro ente de los tres órdenes de gobierno, y que garantizará que el gasto en comunicación social cumpla con los criterios de eficiencia, eficacia, economía, transparencia y honradez, así como que respete los topes presupuestales, límites y condiciones de ejercicio que establezcan los presupuestos de egresos respectivos.
-
-CUARTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 35; 41; 54; 55; 99; 105 fracción II inciso f); 110 y 111 por lo que hace a la denominación del Instituto Nacional Electoral, y 116, fracción IV, de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas a que se refiere el Transitorio Segundo anterior, sin perjuicio de lo previsto en el transitorio Quinto siguiente.
-
-La adición del cuarto párrafo a la base I del artículo 41 de esta Constitución, relativa al porcentaje de votación necesaria para que los partidos políticos conserven su registro, entrará en vigor al día siguiente de la publicación del presente Decreto.
-
-Las reformas a que se refiere el primer párrafo del presente transitorio, respecto de entidades federativas que tengan procesos electorales en 2014, entrarán en vigor una vez que hayan concluido dichos procesos.
-
-QUINTO.- El Instituto Nacional Electoral deberá integrarse dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto y comenzará a ejercer sus atribuciones a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior. En caso de que a la fecha de integración del Instituto Nacional Electoral no hubieren entrado en vigor las normas previstas en el Transitorio Segundo anterior, dicho Instituto ejercerá las atribuciones que las leyes vigentes otorgan al Instituto Federal Electoral.
-
-Con el objeto de asegurar el escalonamiento en el cargo de los integrantes del Consejo General del Instituto Nacional Electoral, el comité de evaluación a que se refiere el inciso a) del párrafo quinto del Apartado A de la Base V del artículo 41, que se reforma por virtud del presente Decreto, deberá remitir a la Cámara de Diputados para su trámite en procesos separados, conforme a lo previsto en el referido párrafo:
-
-a) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo tres años;
-
-b) Cuatro listas para cubrir la elección de cada uno de los cuatro consejeros que durarán en su encargo seis años;
-
-c) Tres listas para cubrir la elección de cada uno de los tres consejeros que durarán en su encargo nueve años, y
-
-d) Una lista para cubrir la elección del Presidente que durará en su encargo nueve años.
-
-Los consejeros del Instituto Federal Electoral que se encuentren en funciones al inicio del procedimiento de selección para la integración del Instituto Nacional Electoral, podrán participar en dicho proceso.
-
-SEXTO.- Una vez integrado y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, el Instituto Nacional Electoral deberá expedir los lineamientos para garantizar la incorporación de todos los servidores públicos del Instituto Federal Electoral y de los organismos locales en materia electoral, al Servicio Profesional Electoral Nacional, así como las demás normas para su integración total.
-
-SÉPTIMO.- Los recursos humanos, presupuestales, financieros y materiales del Instituto Federal Electoral, pasarán a formar parte del Instituto Nacional Electoral una vez que quede integrado en términos del Transitorio Quinto anterior; sin menoscabo de los derechos laborales.
-
-OCTAVO.- Una vez integrado el Instituto Nacional Electoral y a partir de que entren en vigor las normas previstas en el Transitorio Segundo anterior, las funciones correspondientes a la capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, se entenderán delegadas a los organismos públicos locales.
-
-En este caso, el Instituto Nacional Electoral podrá reasumir dichas funciones, por mayoría del Consejo General.
-
-La delegación y reasunción posteriores de estas atribuciones se someterá a lo dispuesto en la Base V, Apartado C del artículo 41 de esta Constitución.
-
-NOVENO.- El Consejo General del Instituto Nacional Electoral designará a los nuevos consejeros de los organismos locales en materia electoral, en términos de lo dispuesto por el inciso c) de la fracción IV del artículo 116 de esta Constitución. Los actuales consejeros continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el presente Transitorio. El Consejo General llevará a cabo los procedimientos para que el nombramiento de los consejeros electorales se verifique con antelación al siguiente proceso electoral posterior a la entrada en vigor de este Decreto.
-
-DÉCIMO.- Los Magistrados de los órganos jurisdiccionales locales en materia electoral, que se encuentren en funciones a la entrada en vigor de las normas previstas en el Transitorio Segundo, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de esta Constitución. El Senado de la República llevará a cabo los procedimientos para que el nombramiento de los magistrados electorales se verifique con antelación al inicio del siguiente proceso electoral local posterior a la entrada en vigor de este Decreto.
-
-Los magistrados a que se refiere el párrafo anterior serán elegibles para un nuevo nombramiento.
-
-DÉCIMO PRIMERO.- La reforma al artículo 59 de esta Constitución será aplicable a los diputados y senadores que sean electos a partir del proceso electoral de 2018.
-
-DÉCIMO SEGUNDO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 69, párrafo tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1o. de diciembre de 2018.
-
-DÉCIMO TERCERO.- La reforma al artículo 116 de esta Constitución en materia de reelección de diputados locales, así como a diputados a la Asamblea Legislativa del Distrito Federal, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
-
-DÉCIMO CUARTO.- La reforma al artículo 115 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
-
-DÉCIMO QUINTO.- Las reformas a los artículos 65; 74, fracción IV y 83 de esta Constitución entrarán en vigor el 1o. de diciembre de 2018, por lo que el período presidencial comprendido entre los años 2018 y 2024 iniciará el 1o. de diciembre de 2018 y concluirá el 30 de septiembre de 2024.
-
-DÉCIMO SEXTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 28; 29, párrafo primero; 69, párrafo segundo; 76, fracciones II, por lo que se refiere a la supresión de la ratificación del Procurador General de la República por el Senado y XII; 78, fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III; 107; 110 y 111 por lo que se refiere al Fiscal General de la República; 116, fracción IX y 119, párrafo primero de esta Constitución, entrarán en vigor en la misma fecha en que lo hagan las normas secundarias que expida el Congreso de la Unión necesarias por virtud de las adiciones, reformas y derogaciones a que se refiere el presente Transitorio, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General de la República.
-
-> <small>(ADICIONADO, D.O.F. 27 DE AGOSTO DE 2018)</small>
-
-Una vez realizada la declaratoria a que se refiere el párrafo anterior, la Cámara de Senadores iniciará de forma inmediata el procedimiento previsto en el Apartado A del artículo 102 de esta Constitución para la designación del Fiscal General de la República. Si la Cámara de Senadores no estuviere reunida, la Comisión Permanente la convocará inmediatamente a sesión extraordinaria.
-
-> <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2018)</small>
-
-El Procurador General de la República que se encuentre en funciones al momento de expedirse la declaratoria a que se refiere el párrafo primero de este artículo, continuará en su encargo hasta en tanto el Senado designe al Fiscal General de la República.
-
-DÉCIMO SÉPTIMO.- Una vez que entren en vigor las disposiciones de este Decreto referidas en el Transitorio anterior, se procederá de la siguiente forma:
-
-I.- Los asuntos en los que la Procuraduría General de la República ejerza la representación de la Federación, así como aquellos en que haya ejercitado acciones de inconstitucionalidad en casos distintos a los previstos en el inciso i) de la fracción II, del artículo 105 de esta Constitución que se adiciona por virtud de este Decreto, que se encuentren en trámite a la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior, deberán remitirse dentro de los veinte días hábiles siguientes a la dependencia del Ejecutivo Federal que realiza la función de Consejero Jurídico del Gobierno.
-
-Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de las disposiciones a que se refiere el Transitorio anterior; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos, y
-
-II.- Los recursos humanos, financieros y materiales que la Procuraduría General de la República destine para la atención y desahogo de los procedimientos a que se refiere la fracción anterior, serán transferidos a la dependencia que realice las funciones de Consejero Jurídico del Gobierno. Los titulares de ambos órganos realizarán las previsiones necesarias para que dichos recursos queden transferidos el mismo día en que entren en vigor las disposiciones señaladas en el Transitorio anterior.
-
-DÉCIMO OCTAVO.- A partir de la entrada en vigor del presente Decreto el Senado nombrará por dos terceras partes de sus miembros presentes al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de la República. El Ejecutivo Federal podrá objetar dicho nombramiento, en cuyo caso se procederá a un nuevo nombramiento en los términos de este párrafo.
-
-En el plazo de treinta días a partir de la entrada en vigor de este Decreto, el Procurador General de la República expedirá el acuerdo de creación de la fiscalía especializada en materia de delitos relacionados con hechos de corrupción, cuyo titular será nombrado por el Senado en los términos del párrafo anterior.
-
-Los titulares de las fiscalías nombrados en términos del presente transitorio durarán en su encargo hasta el treinta de noviembre de dos mil dieciocho, sin perjuicio de que puedan ser removidos libremente por el Procurador General de la República o, en su caso, del Fiscal General de la República. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en cuyo caso el titular de la fiscalía de que se trate, será restituido en el ejercicio de sus funciones.
-
-DÉCIMO NOVENO.- A partir de la entrada en vigor de las reformas a que se refiere el transitorio Décimo Sexto anterior, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de la República pasarán al órgano autónomo que el propio Decreto establece.
-
-VIGÉSIMO.- La reforma al artículo 26 de esta Constitución entrará en vigor al día siguiente de la publicación del presente Decreto.
-
-El Consejo General del Consejo Nacional para la Evaluación de la Política de Desarrollo Social deberá integrarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto. Para dicho efecto, se deberán elegir dos consejeros por un periodo de dos años, dos por un periodo de tres años, dos por un periodo de cuatro años y un consejero presidente por un periodo de cuatro años. En caso de que en el plazo referido no quede integrado el órgano constitucional referido y hasta su integración, continuará en sus funciones el organismo descentralizado denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social.
-
-Con excepción del Secretario de Desarrollo Social, los integrantes del Comité Directivo del organismo descentralizado referido en el párrafo anterior, que se encuentren en funciones a la entrada en vigor del presente Decreto, podrán ser considerados para integrar el nuevo órgano autónomo que se crea.
-
-El Congreso de la Unión deberá expedir la ley que regirá al órgano autónomo denominado Consejo Nacional para la Evaluación de la Política de Desarrollo Social, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
-
-En tanto el Congreso de la Unión expide la Ley a que se refiere el párrafo anterior, el Consejo Nacional para la Evaluación de la Política de Desarrollo Social que se crea por virtud del presente Decreto, una vez instalado, ejercerá sus atribuciones y competencias conforme a lo dispuesto en el mismo y en el Decreto por el que se regula el Consejo Nacional de Evaluación de la Política de Desarrollo Social, publicado en el Diario Oficial de la Federación el 24 de agosto de 2005.
-
-VIGÉSIMO PRIMERO.- Los Consejeros del Instituto Federal Electoral que a la entrada en vigor del presente Decreto se encuentren en funciones, continuarán en su encargo hasta que se integre el Instituto Nacional Electoral, en términos de lo previsto por el Quinto Transitorio del presente Decreto; por lo que los actos jurídicos emitidos válidamente por el Instituto Federal Electoral en los términos de la legislación vigente, surtirán todos sus efectos legales.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE ADICIONA UN OCTAVO PÁRRAFO AL ARTÍCULO 4o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. A partir de la entrada en vigor del presente Decreto, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, dispondrán de seis meses para establecer en sus haciendas o códigos financieros la exención de cobro del derecho por el registro de nacimiento y la expedición de la primera copia certificada del acta de nacimiento.
-
-TERCERO. El Congreso de la Unión en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, y previa opinión de las entidades federativas y la autoridad competente en materia de registro nacional de población, deberá realizar las adecuaciones a la ley que determinen las características, diseño y contenido del formato único en materia de registro de población, así como para la expedición de toda acta del registro civil que deberá implementarse a través de mecanismos electrónicos y adoptarse por las propias entidades federativas del país y por las representaciones de México en el exterior.
-
-CUARTO. La Secretaría de Gobernación a través del Registro Nacional de Población, remitirá al Instituto Nacional Electoral la información recabada por las autoridades locales registrales relativas a los certificados de defunción.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
-
-D.O.F. 17 DE JUNIO DE 2014.
-
-DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE JULIO DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 22 DE MAYO DE 2015.
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Las Legislaturas de las entidades federativas adecuarán sus respectivas Constituciones, así como la legislación correspondiente, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
-
-D.O.F. 26 DE MAYO DE 2015.
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La Ley reglamentaria en materia de responsabilidad hacendaria aplicable a las Entidades Federativas y los Municipios que deberá expedirse en términos de la fracción XXIX-W del artículo 73 del presente Decreto, así como las reformas que sean necesarias para cumplir lo previsto en este Decreto, deberán publicarse en el Diario Oficial de la Federación dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
-
-Tercero. Dentro del plazo de 180 días naturales contados a partir de la entrada en vigor de la ley reglamentaria a que se refiere el artículo anterior, las legislaturas de las Entidades Federativas realizarán las reformas necesarias para armonizar su legislación con este Decreto y la ley citada.
-
-Cuarto. Las Entidades Federativas y los Municipios se sujetarán a las disposiciones de este Decreto y a las de las leyes a que se refiere el Artículo Transitorio Segundo del mismo, a partir de la fecha de su entrada en vigor y respetarán las obligaciones que, con anterioridad a dicha fecha, hayan sido adquiridas con terceros en los términos de las disposiciones aplicables.
-
-Quinto. La ley reglamentaria establecerá la transitoriedad conforme a la cual entrarán en vigor las restricciones establecidas en relación a la contratación de obligaciones de corto plazo, a que se refiere el artículo 117, fracción VIII, último párrafo de este Decreto.
-
-Sexto. Las Entidades Federativas y los Municipios enviarán al Ejecutivo Federal y al Congreso de la Unión un informe sobre todos los empréstitos y obligaciones de pago vigentes a la entrada en vigor del presente Decreto, en un plazo máximo de 60 días naturales, conforme a los lineamientos que aquél emita.
-
-Séptimo. La ley reglamentaria establecerá que en el registro a que se refiere el inciso 3o. de la fracción VIII del artículo 73 de este Decreto, se incluirán cuando menos los siguientes datos de cada empréstito u obligaciones: deudor, acreedor, monto, tasa de interés, plazo, tipo de garantía o fuente de pago, así como los que se determinen necesarios para efectos de fortalecimiento de la transparencia y acceso a la información.
-
-En tanto se implementa el referido registro, se pondrá a disposición de las comisiones legislativas competentes del Congreso de la Unión un reporte de las obligaciones y empréstitos a que se refiere el artículo 9 de la Ley de Coordinación Fiscal con la que actualmente cuenta el registro, a más tardar en un plazo de 30 días naturales; así como, aquella información adicional que las comisiones legislativas competentes soliciten a las autoridades relacionadas con la misma. Igualmente, se deberá informar cada cierre trimestral (marzo, junio, septiembre y diciembre), los empréstitos y obligaciones registrados en cada periodo, especificando en su caso, si fue utilizado para refinanciar o reestructurar créditos existentes. Lo anterior, con el objeto de que en tanto entra en vigor la ley reglamentaria y se implementa el registro, el Congreso de la Unión pueda dar puntual seguimiento al endeudamiento de los Estados y Municipios. Para tal efecto, la Auditoría Superior de la Federación, verificará el destino y aplicación de los recursos en los que se hubiera establecido como garantía recursos de origen federal.
-
-Las legislaturas de los Estados realizarán y publicarán por medio de sus entes fiscalizadores, una auditoría al conjunto de obligaciones del sector público, con independencia del origen de los recursos afectados como garantía, en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
-
-Los servidores públicos y demás personal del Congreso de la Unión que tengan acceso a la información referente al presente Artículo Transitorio, serán responsables del manejo de la misma y responderán de los daños y perjuicios que en su caso ocasionen por su divulgación.
-
-Octavo. La ley reglamentaria a que se refiere el Artículo 73, fracción VIII, inciso 3o. de este Decreto, establecerá las modalidades y condiciones de deuda pública que deberán contratarse mediante licitación pública, así como los mecanismos que se determinen necesarios para efectos de asegurar condiciones de mercado o mejores que éstas y el fortalecimiento de la transparencia en los casos en que no se establezca como obligatorio.
-
-D.O.F. 27 DE MAYO DE 2015.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-
-Segundo. El Congreso de la Unión, dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, deberá aprobar las leyes generales a que se refieren las fracciones XXIV y XXIX-V del artículo 73 de esta Constitución, así como las reformas a la legislación establecida en las fracciones XXIV y XXIX-H de dicho artículo. Asimismo, deberá realizar las adecuaciones a la Ley Orgánica de la Administración Pública Federal, con el objeto de que la Secretaría responsable del control interno del Ejecutivo Federal asuma las facultades necesarias para el cumplimiento de lo previsto en el presente Decreto y en las leyes que derivan del mismo.
-
-Tercero. La ley a que se refiere la fracción XXIX-H del artículo 73 de la Constitución, establecerá que, observando lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el Tribunal Federal de Justicia Administrativa:
-
-a) Aprobará su proyecto de presupuesto, con sujeción a los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
-
-b) Ejercerá directamente su presupuesto aprobado por la Cámara de Diputados, sin sujetarse a las disposiciones emitidas por las secretarías de Hacienda y Crédito Público y de la Función Pública;
-
-c) Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Hacienda y Crédito Público, siempre y cuando no rebase su techo global aprobado por la Cámara de Diputados;
-
-d) Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal, y
-
-e) Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería, en los términos de las leyes aplicables.
-
-Cuarto. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán, en el ámbito de sus respectivas competencias, expedir las leyes y realizar las adecuaciones normativas correspondientes, dentro de los ciento ochenta días siguientes a la entrada en vigor de las leyes generales a que se refiere el Segundo Transitorio del presente Decreto.
-
-Quinto. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 79, 108, 109, 113, 114, 116, fracción V y 122, BASE QUINTA, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Segundo del presente Decreto.
-
-Sexto. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos, en el ámbito federal y de las entidades federativas, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
-
-Séptimo. Los sistemas anticorrupción de las entidades federativas deberán conformarse de acuerdo con las Leyes Generales que resulten aplicables, las constituciones y leyes locales.
-
-Octavo. Los Magistrados del Tribunal Federal de Justicia Fiscal y Administrativa que hayan sido nombrados a la fecha de entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución, continuarán como Magistrados del Tribunal Federal de Justicia Administrativa por el tiempo que fueron nombrados.
-
-Los titulares de los órganos a que se refieren las adiciones y reformas que establece el presente Decreto en las fracciones VIII del artículo 74 y II del artículo 76, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados.
-
-Los Magistrados de los Tribunales Contenciosos Administrativos cualquiera que sea su denominación en el ámbito de las entidades federativas, continuarán como magistrados de los Tribunales de Justicia Administrativa de cada entidad federativa, exclusivamente por el tiempo que hayan sido nombrados.
-
-El Tribunal Federal de Justicia Fiscal y Administrativa continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de este Decreto.
-
-Noveno. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal Federal de Justicia Fiscal y Administrativa, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal Federal de Justicia Administrativa en los términos que determine la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución.
-
-Décimo. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal Federal de Justicia Fiscal y Administrativa, a la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal Federal de Justicia Administrativa, en los términos que dicha ley determine.
-
-Décimo Primero. La ley reglamentaria del segundo párrafo del artículo 113 Constitucional, reformado por virtud del presente Decreto, se entenderá referida al último párrafo del artículo 109 Constitucional atendiendo a lo establecido en el Quinto Transitorio del presente Decreto.
-
-D.O.F. 2 DE JULIO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión dentro de los 180 días naturales siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, deberá expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren. En razón de lo anterior, se abroga la Ley Federal de Justicia para Adolescentes, publicada en el Diario Oficial de la Federación el 27 de diciembre de 2012.
-
-La Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, así como la legislación vigente en materia de justicia para adolescentes expedida por las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, continuarán en vigor hasta que inicie la vigencia de la legislación nacional que expida el Congreso de la Unión conforme al presente Decreto.
-
-TERCERO. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
-
-CUARTO. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán prever los recursos necesarios para la debida implementación, funcionamiento y desarrollo del sistema de justicia para adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
-
-D.O.F. 10 DE JULIO DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión deberá expedir la legislación en las materias que se adicionan por virtud del presente Decreto al artículo 73, fracción XXI, inciso a), dentro de los 180 días siguientes a la entrada en vigor del mismo.
-
-La legislación a que se refiere el presente Transitorio deberá regular el Sistema Nacional de Búsqueda de Personas.
-
-TERCERO. La legislación en materia de desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, tortura y otros tratos o penas crueles, inhumanos o degradantes de las entidades federativas y de la Federación, continuará en vigor hasta en tanto entren en vigor las leyes generales que expida el Congreso de la Unión referidas en el Transitorio anterior. Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas.
-
-D.O.F. 27 DE ENERO DE 2016.
+La responsabilidad penal no trascenderá de la persona y de los derechos de quienes cometen el delito. La graduación de la pena no excederá los límites de la gravedad del reproche penal.
 
 ###### Artículo 9°.
 
@@ -3433,7 +1307,7 @@ Las sanciones tendrán por objeto, además de la protección de los bienes jurí
 
 Las penas y las medidas de seguridad se impondrán en sentencia ejecutoria dentro del debido proceso legal, y se ejecutarán por las autoridades competentes.
 
-## TITULO SEGUNDO.
+## TÍTULO I. DE LA LEY PENAL
 
 ###### Art. 28.
 
@@ -3614,20 +1488,6 @@ III.- Alistarse y servir en los cuerpos de reserva, conforme a la ley, para aseg
 IV.- Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(REFORMADO, D.O.F. 20 DE MARZO DE 1997)</small>
-
-###### Art. 32.
-
-La Ley regulará el ejercicio de los derechos que la legislación mexicana otorga a los mexicanos que posean otra nacionalidad y establecerá normas para evitar conflictos por doble nacionalidad.
-
-El ejercicio de los cargos y funciones para los cuales, por disposición de la presente Constitución, se requiera ser mexicano por nacimiento, se reserva a quienes tengan esa calidad y no adquieran otra nacionalidad. Esta reserva también será aplicable a los casos que así lo señalen otras leyes del Congreso de la Unión.
-
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
-
-En tiempo de paz, ningún extranjero podrá servir en la Fuerza Armada permanente, ni en las fuerzas de policía o seguridad pública. Para pertenecer al activo del Ejército en tiempo de paz y al de la Armada o al de la Fuerza Aérea o al de la Guardia Nacional en todo momento, o desempeñar cualquier cargo o comisión en ellos, se requiere ser mexicano por nacimiento.
-
-Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas, mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria para desempeñar los cargos de capitán de puerto y todos los servicios de practicaje y comandante de aeródromo.
-
-Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones de gobierno en que no sea indispensable la calidad de ciudadano.
 
 ###### Art. 33.
 
@@ -3885,11 +1745,7 @@ Tampoco consentirá intervención en investigación y persecución alguna sin la
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-### CAPITULO I.
-
-DE LOS DERECHOS HUMANOS Y SUS GARANTIAS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+### CAPÍTULO I. APLICACIÓN EN EL ESPACIO
 
 ###### Artículo 11.
 
@@ -3905,11 +1761,7 @@ III. Por los delitos permanentes y por los continuados, que se sigan cometiendo 
 
 El lugar de la realización del delito es aquel en que se lleva a cabo la conducta típica.
 
-### CAPITULO II.
-
-DE LOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+### CAPÍTULO II. APLICACIÓN EN EL TIEMPO
 
 ###### Artículo 13.
 
@@ -3925,35 +1777,25 @@ Si la nueva disposición entra en vigor durante la extinción de la pena o medid
 
 Cuando la nueva norma deje de considerar una determinada conducta como delictuosa, se ordenará la libertad absoluta de los sujetos activos, cesando el procedimiento o los efectos de la sentencia pronunciada.
 
-### CAPITULO III.
-
-DE LOS EXTRANJEROS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+### CAPÍTULO III. APLICACIÓN EN CUANTO A LAS PERSONAS
 
 ###### Artículo 15.
 
 Este código se aplicará a todas las personas sin distinción alguna, con las excepciones que sobre inimputabilidad, aplicación de usos y costumbres de las comunidades indígenas, inmunidades y satisfacción previa de requisitos de procedencia, establezcan las leyes.
 
-### CAPITULO IV.
-
-DE LOS CIUDADANOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
+### CAPÍTULO IV. LEYES ESPECIALES
 
 ###### Artículo 16.
 
 Para los delitos previstos en leyes especiales, se aplicarán supletoriamente las disposiciones de este código.
 
-### CAPITULO I.
-
-DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
+### CAPÍTULO V. RESOLUCIÓN DE CONFLICTO DE NORMAS
 
 ###### Artículo 17.
 
 Cuando un mismo delito esté regulado en normas o leyes diversas, la especial prevalecerá sobre la general, la de mayor alcance absorberá a la de menor amplitud y la principal excluirá a la secundaria.
 
-## TITULO TERCERO.
+## TÍTULO II. EL DELITO
 
 ###### Art. 41.
 
@@ -4301,11 +2143,7 @@ Los Estados de la Federación conservan la extensión y límites que hasta hoy h
 
 > <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO II.
-
-DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
-
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+### CAPÍTULO I. CONDUCTA, HECHOS Y CLASIFICACIÓN DE LOS DELITOS
 
 ###### Artículo 18.
 
@@ -4327,11 +2165,7 @@ II. Permanente o continuo, cuando integrado el tipo la conducta se prolonga en e
 
 III. Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo se viola el mismo precepto legal.
 
-### CAPITULO I.
-
-DE LA DIVISION DE PODERES.
-
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
+### CAPÍTULO II. DOLO Y CULPA
 
 ###### Artículo 21.
 
@@ -4341,17 +2175,13 @@ Obra con dolo, el que conociendo las circunstancias que integran la descripción
 
 Hay culpa cuando violando un deber de cuidado se realiza una conducta o hecho cuyas consecuencias eran previsibles y no se previeron; cuando habiéndose previsto se confía en que no sucederán; o por impericia.
 
-### CAPITULO II.
-
-DEL PODER LEGISLATIVO.
+### CAPÍTULO III. ERROR
 
 ###### Artículo 22.
 
 A quien cometa un delito por error en perjuicio de persona distinta de aquella contra la que iba dirigida su acción, no le serán aplicables las circunstancias que deriven de la cualidad del ofendido, salvo para efectos de la reparación del daño, siendo en cambio valuadas, para los efectos de la sanción, las particularidades subjetivas en las que deliberó y ejecutó el delito.
 
-### CAPITULO III.
-
-DEL PODER EJECUTIVO.
+### CAPÍTULO IV. CAUSAS QUE EXCLUYEN EL DELITO
 
 ###### Artículo 23.
 
@@ -4421,11 +2251,7 @@ c) Los que al momento de realizar la conducta típica, a virtud de cualquier cau
 
 Las causas de exclusión del delito se harán valer de oficio en cualquier etapa del procedimiento.
 
-### CAPITULO IV.
-
-DEL PODER JUDICIAL.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2021)</small>
+### CAPÍTULO V. LA TENTATIVA
 
 ###### Artículo 28.
 
@@ -4511,11 +2337,7 @@ Las objetivas se tendrán en cuenta para los que intervienen en la comisión del
 
 Cuando una persona moral, con excepción de las instituciones del Estado, facilite los medios para la comisión del delito, de modo que éste resulte cometido a su nombre, bajo su amparo o en su provecho, el juez, con audiencia del representante legal de la misma, impondrá en la sentencia las sanciones previstas en este código, sin perjuicio de la responsabilidad individual por el delito cometido.
 
-## TÍTULO CUARTO
-
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN, Y PATRIMONIAL DEL ESTADO.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+## TÍTULO III. DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
 ###### Art. 46.
 
@@ -4542,12 +2364,6 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 ###### Art. 50.
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
-
-#### SECCION I.
-
-DE LA ELECCION E INSTALACION DEL CONGRESO.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 51.
 
@@ -4801,10 +2617,6 @@ La ley determinará, las formas y procedimientos para la agrupación de los dipu
 
 Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Federal para tener vigencia.
 
-#### SECCION II.
-
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
-
 ###### Art. 71.
 
 El derecho de iniciar leyes o decretos compete:
@@ -4868,14 +2680,6 @@ I.- Las iniciativas de leyes o decretos se discutirán preferentemente en la Cá
 I (SIC).- El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
-
-#### SECCION III.
-
-DE LAS FACULTADES DEL CONGRESO.
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
 
@@ -5369,12 +3173,6 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
 
-#### SECCION IV.
-
-DE LA COMISION PERMANENTE.
-
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
 ###### Art. 78.
 
 Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 miembros de los que 19 serán Diputados y 18 Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un sustituto.
@@ -5408,16 +3206,6 @@ VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsule
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 1999)</small>
-
-#### SECCION V.
-
-DE LA FISCALIZACION SUPERIOR DE LA FEDERACION.
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2015)</small>
 
 ###### Art. 79.
 
@@ -5683,7 +3471,7 @@ I. La restitución en los derechos de guarda y custodia del menor o incapaz, tra
 
 II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que sean necesarios para la recuperación de la salud física y mental de la víctima.
 
-III. El pago de gastos e intereses legales; y (sic)
+III. El pago de gastos e intereses legales; y
 
 IV. Tratándose de delitos que afecten la vida y la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
 
@@ -5905,9 +3693,7 @@ Además de la hipótesis indicada en la parte final del artículo anterior, cuan
 
 La vigilancia consistirá en mantener en observación la conducta del sentenciado, a fin de ser orientado por el personal especializado que dependa de la autoridad ejecutora, para coadyuvar a su readaptación social y a la protección de la comunidad.
 
-## TITULO QUINTO. DE LOS ESTADOS DE LA FEDERACION Y DE LA CIUDAD DE MEXICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+## TÍTULO IV. APLICACIÓN DE SANCIONES
 
 ###### Art. 81.
 
@@ -6281,11 +4067,7 @@ Para asegurar el cumplimiento de las condiciones impuestas, al conceder la suspe
 
 La sanción corporal se tendrá por extinguida si durante el plazo de la misma, a partir de la sentencia definitiva, el reo no da lugar a un proceso ulterior en su contra, que concluya con sentencia condenatoria y subsisten las circunstancias que determinaron el otorgamiento de la suspensión. Si el nuevo delito es doloso, se harán efectivas ambas sentencias. Si el delito es culposo, el juez resolverá si debe aplicarse o no la sanción suspendida. Si el reo no cumple las obligaciones que trae aparejadas la suspensión, el juez podrá hacer efectiva la sanción o amonestarlo, con el apercibimiento de que si incurre en nueva falta se estará a lo anterior.
 
-## TITULO SEXTO.
-
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JUNIO DE 2008)</small>
+## TÍTULO V. EXTINCIÓN PENAL
 
 ###### Art. 94.
 
@@ -7037,11 +4819,7 @@ Cuando se hubiere cumplido parte de la medida de seguridad, para que opere la pr
 
 # LIBRO SEGUNDO
 
-## TITULO SEPTIMO.
-
-PREVENCIONES GENERALES.
-
-> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+## TÍTULO I. DELITOS CONTRA LA VIDA Y LA SALUD PERSONAL
 
 ###### Art. 105.
 
@@ -8219,11 +5997,7 @@ Para los efectos de este artículo, se entenderá por uniones fuera de matrimoni
 
 En todos los casos previstos en este Capítulo, el Ministerio Público acordará las medidas preventivas necesarias y pedirá al juez lo propio para salvaguardar la integridad física o psíquica de la víctima; si ésta fuere mujer, el Ministerio Público solicitará además al juez las órdenes de protección referidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Veracruz de Ignacio de la Llave.
 
-## TITULO OCTAVO.
-
-DE LAS REFORMAS DE LA CONSTITUCION.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+## TÍTULO II. DELITOS DE PELIGRO PARA LA VIDA O LA SALUD PERSONAL
 
 ###### Art. 118.
 
@@ -9043,9 +6817,7 @@ Comete el delito de esterilidad forzada quien practique u ordene que se realicen
 
 Además de las penas previstas, se impondrá al sujeto activo, en su caso, privación del derecho de ejercer la profesión por un tiempo igual al de la pena de prisión, y si fuere servidor público, se le impondrá también destitución e inhabilitación, hasta por diez años, para ejercer otro empleo, cargo o comisión públicos.
 
-## TITULO NOVENO.
-
-DE LA INVIOLABILIDAD DE LA CONSTITUCION.
+## TÍTULO III. DELITOS CONTRA LA LIBERTAD
 
 ###### Art. 133.
 
@@ -9209,7 +6981,9 @@ A quien, en lugar desprotegido, haga uso de la violencia física o moral sobre u
 
 A quienes asalten, haciendo uso de la violencia física o moral, a los habitantes de una comunidad, con el propósito de causarles un daño, obtener un lucro o lograr su asentimiento para cualquier fin, se les sancionará con prisión de diez a treinta años y multa hasta de trescientos días de salario.
 
-### CAPÍTULO VII. ATAQUES A LA LIBERTAD DE REUNIÓN Y DE EXPRESIÓN
+### CAPÍTULO VI BIS. ENGAÑO TELEFÓNICO
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2014)</small>
 
 ###### Artículo 172.
 
@@ -9227,17 +7001,27 @@ II. El cónyuge, la concubina, el concubinario y parientes colaterales por consa
 
 III. Los relacionados por amor, gratitud o estrecha amistad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO VII. ATAQUES A LA LIBERTAD DE REUNIÓN Y DE EXPRESIÓN
+
+###### Artículo 173 Bis.
+
+A quien con el propósito de obtener un lucro para sí o para otro, a través de una llamada telefónica o por cualquier medio electrónico, pretenda engañar a una persona haciéndole creer que le va a causar o le está causando un daño a un tercero, se le aplicarán de tres a diez años de prisión y multa de quinientos a mil días de salario.
+
+Igual penalidad se aplicará si quien realiza la llamada o envía el mensaje electrónico pretende hacer creer al receptor que le causará un daño o que se ha privado de la libertad a una persona.
+
+Este delito se perseguirá de oficio.
+
 ### CAPÍTULO VIII. ALLANAMIENTO DE MORADA
 
 ### CAPÍTULO IX. ALLANAMIENTO DE DESPACHO, OFICINA O CONSULTORIO
-
-### CAPÍTULO I. VIOLACIÓN DE LA INTIMIDAD
 
 ###### Artículo 174.
 
 A quien impida o disuelva una reunión legítima o no permita a alguien expresar sus ideas o creencias, se le impondrán de seis meses a tres años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO II. REVELACIÓN DE SECRETOS
+### CAPÍTULO I. VIOLACIÓN DE LA INTIMIDAD
 
 ###### Artículo 175.
 
@@ -9245,7 +7029,7 @@ A quien sin motivo justificado, con engaño, intimidación o violencia se introd
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO III. DELITOS INFORMÁTICOS
+### CAPÍTULO II. REVELACIÓN DE SECRETOS
 
 ###### Artículo 176.
 
@@ -9257,17 +7041,17 @@ Si se emplea violencia o se realiza por dos o más personas, las penas se increm
 
 Este delito se perseguirá por querella.
 
+### CAPÍTULO III. DELITOS INFORMÁTICOS
+
 ### CAPÍTULO I. PEDERASTIA
 
 > <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
+## TÍTULO IV. DELITOS CONTRA LA INTIMIDAD PERSONAL Y LA INVIOLABILIDAD DEL SECRETO
+
 ### CAPÍTULO II. VIOLACIÓN
 
 > <small>(REFORMADO Y REUBICADO, G.O. 2 DE ABRIL DE 2010)</small>
-
-## TÍTULO IV. DELITOS CONTRA LA INTIMIDAD PERSONAL Y LA INVIOLABILIDAD DEL SECRETO
-
-### CAPÍTULO II BIS. PEDERASTIA
 
 ###### Artículo 177.
 
@@ -9279,9 +7063,7 @@ II. Reproduzca dichos documentos u objetos; o
 
 III. Intercepte comunicaciones o utilice medios técnicos para escuchar, observar, grabar, transmitir o reproducir la imagen, el sonido o ambos.
 
-### CAPÍTULO III. ABUSO ERÓTICO-SEXUAL
-
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO II BIS. PEDERASTIA
 
 ###### Artículo 178.
 
@@ -9295,7 +7077,7 @@ Cuando alguien haya recibido el secreto o comunicación reservada en razón de s
 
 A quien revele, divulgue o utilice indebidamente o en perjuicio de tercero, información o imágenes obtenidas en una intervención de comunicación privada sostenida por él, con otra persona o entre otras personas, se le aplicará prisión de uno a ocho años y multa de trescientos a seiscientos días de salario.
 
-### CAPÍTULO IV. ESTUPRO
+### CAPÍTULO III. ABUSO ERÓTICO-SEXUAL
 
 > <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -9313,9 +7095,9 @@ Al responsable de este delito se le impondrán de seis meses a dos años de pris
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO V. ACOSO SEXUAL
+### CAPÍTULO IV. ESTUPRO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 182.
 
@@ -9349,7 +7131,9 @@ El responsable perderá, cuando la tenga, la patria potestad o la tutela de la v
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO I. DIFAMACIÓN
+### CAPÍTULO V. ACOSO SEXUAL
+
+> <small>(REFORMADO Y REUBICADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 184.
 
@@ -9387,15 +7171,13 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO II. CALUMNIA
+### CAPÍTULO I. DIFAMACIÓN
 
 ###### Artículo 185 Bis.
 
 (DEROGADO, G.O. 2 DE ABRIL DE 2010)
 
-### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2008)</small>
+### CAPÍTULO II. CALUMNIA
 
 ###### Artículo 186.
 
@@ -9427,7 +7209,9 @@ Si quien comete este delito es servidor público o ejerce una profesión, empleo
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA DIGNIDAD
+### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2008)</small>
 
 ###### Artículo 189.
 
@@ -9441,7 +7225,7 @@ Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO I. ROBO
+### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA DIGNIDAD
 
 ###### Artículo 190.
 
@@ -9469,6 +7253,8 @@ El delito de acoso sexual se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
+### CAPÍTULO I. ROBO
+
 ### CAPÍTULO II. ABIGEATO
 
 > <small>(REFORMADO, G.O. 2 DE ENERO DE 2012)</small>
@@ -9483,15 +7269,11 @@ El delito de acoso sexual se perseguirá por querella.
 
 ### CAPÍTULO VI. ADMINISTRACIÓN FRAUDULENTA
 
+## TÍTULO VII. DELITOS CONTRA EL PATRIMONIO
+
 ### CAPÍTULO VII
 
 INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
-
-## TÍTULO VII. DELITOS CONTRA EL PATRIMONIO
-
-### CAPÍTULO VIII. EXTORSIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 191.
 
@@ -9503,7 +7285,9 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO IX. USURA
+### CAPÍTULO VIII. EXTORSIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 193.
 
@@ -9517,7 +7301,7 @@ INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES.
 
 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
-### CAPÍTULO X. DESPOJO
+### CAPÍTULO IX. USURA
 
 ###### Artículo 196.
 
@@ -9545,7 +7329,7 @@ Este delito se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO XI. DAÑOS
+### CAPÍTULO X. DESPOJO
 
 ###### Artículo 197.
 
@@ -9571,9 +7355,7 @@ Este delito se perseguirá por querella.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO XI BIS. GRAFITI ILEGAL
-
-> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
+### CAPÍTULO XI. DAÑOS
 
 ###### Artículo 202.
 
@@ -9697,7 +7479,9 @@ A quien proporcione recursos, de cualquier naturaleza, para llevar a cabo las ac
 
 Si en los actos de referencia interviene algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción de conductas o de ejecución de sus consecuencias jurídicas, además de las penas mencionadas en este artículo, se le aumentará la privativa de libertad que le correspondiere hasta en una mitad, se le destituirá e inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por el doble del tiempo de la pena de prisión que le fuere impuesta.
 
-### CAPÍTULO XII. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO XI BIS. GRAFITI ILEGAL
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 210.
 
@@ -9721,7 +7505,7 @@ Se impondrán de seis a diez años de prisión y multa hasta de cien días de sa
 
 I. Desfigure o borre las marcas de animales vivos o de sus pieles;
 
-II. Marque o señale en campo ajeno sin consentimiento del dueño animales (sic) sin hierro o marca;
+II. Marque o señale en campo ajeno sin consentimiento del dueño animales sin hierro o marca;
 
 III. Marque o señale animales ajenos, aunque sea en campo propio;
 
@@ -9729,7 +7513,7 @@ IV. Contramarque o contraseñale animales ajenos en cualquier parte, sin derecho
 
 V. Expida certificados falsos para obtener guías simulando ventas; haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello; o use documentos falsificados para cualquier negociación sobre ganados o cueros.
 
-### CAPÍTULO XIII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO XII. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### Artículo 213.
 
@@ -9757,9 +7541,7 @@ IV. Sea gerente, directivo, administrador, mandatario o intermediario de persona
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO XIV. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
-
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+### CAPÍTULO XIII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### Artículo 215.
 
@@ -9767,7 +7549,9 @@ Se sancionará con prisión de dos a cinco años y multa hasta de quinientos dí
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO I. VIOLENCIA FAMILIAR
+### CAPÍTULO XIV. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 216.
 
@@ -9819,9 +7603,7 @@ XII. Venda o intercambie por algún otro bien, vales de papel o cualquier dispos
 
 XIII. Haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
 
-### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
-
-> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
+### CAPÍTULO I. VIOLENCIA FAMILIAR
 
 ###### Artículo 218.
 
@@ -9835,15 +7617,17 @@ III. Oculte o retenga valores, o los emplee indebidamente.
 
 Este delito se sancionará de la misma forma que el fraude genérico, atendiendo al beneficio obtenido o al perjuicio causado, conforme a la cantidad que resulte más elevada.
 
-### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
+### CAPÍTULO II. INCUMPLIMIENTO DE LA OBLIGACIÓN DE DAR ALIMENTOS Y ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 219.
 
 A quien, artificiosamente, se coloque en estado de insolvencia, con el objeto de eludir las obligaciones que tenga frente a sus acreedores, se le impondrán las sanciones previstas para el delito de fraude, conforme al valor de las obligaciones incumplidas.
 
-### CAPÍTULO IV. TRÁFICO DE MENORES
+### CAPÍTULO III. SUSTRACCIÓN O RETENCIÓN DE MENORES O INCAPACES
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 220.
 
@@ -9857,7 +7641,7 @@ Las penas se aumentarán en una mitad si la extorsión se comete por un servidor
 
 Al responsable de tentativa en la conducta señalada en el artículo anterior, se le aplicará la misma sanción.
 
-### CAPÍTULO V. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
+### CAPÍTULO IV. TRÁFICO DE MENORES
 
 ###### Artículo 221.
 
@@ -9875,7 +7659,7 @@ A los dirigentes, administradores y mandatarios de personas morales que ordenen,
 
 La sanción privativa de libertad se reducirá en una tercera parte si, antes de que se dicte sentencia ejecutoriada, se devolviere a la víctima la cantidad lucrada ilícitamente con el pago de los intereses legales correspondientes.
 
-### CAPÍTULO VI. BIGAMIA
+### CAPÍTULO V. DELITOS CONTRA LA FILIACIÓN Y EL ESTADO CIVIL
 
 ###### Artículo 222.
 
@@ -9911,7 +7695,7 @@ Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate
 
 Si la invasión y ocupación consecuente no se ejecutan con violencia y el o los ocupantes restituyen voluntariamente al poseedor en el goce de sus derechos, antes de que el Ministerio Público ejerza la acción penal persecutoria, no se impondrá sanción alguna.
 
-### CAPÍTULO VII. MATRIMONIOS ILEGALES
+### CAPÍTULO VI. BIGAMIA
 
 ###### Artículo 226.
 
@@ -9933,19 +7717,19 @@ La prisión podrá aumentarse hasta diez años y la multa hasta trescientos día
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-### CAPÍTULO VIII. INCESTO
+### CAPÍTULO VII. MATRIMONIOS ILEGALES
 
 ###### Artículo 228 Bis.
 
 A quien, sin importar el material ni los instrumentos utilizados, pinte, tiña, grabe o imprima palabras, dibujos, símbolos, manchas o figuras a un bien mueble o inmueble, sin consentimiento de quien pueda darlo conforme a la ley, se le impondrán de tres meses a ocho años de prisión, multa hasta de trescientos días de salario y trabajo en favor de la comunidad y de la víctima u ofendido.
 
-### CAPÍTULO I. MALTRATO
+### CAPÍTULO VIII. INCESTO
 
 ###### Artículo 229.
 
 A quien, después de la ejecución del delito y sin haber participado en él, adquiera, reciba u oculte el producto del mismo, a sabiendas de que provenía de éste o si, de acuerdo con las circunstancias, debía presumir su procedencia ilegítima, así como a quien ayude a otro para los mismos fines, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Si el delito se comete con ánimo de lucro, la prisión será de cuatro a nueve años y la multa hasta de quinientos días de salario.
 
-### CAPÍTULO II. INDUCCIÓN A LA MENDICIDAD
+### CAPÍTULO I. MALTRATO
 
 ###### Artículo 230.
 
@@ -9953,7 +7737,7 @@ Se impondrán de cinco a quince años de prisión y multa hasta de mil días de 
 
 Cuando el agente activo sea servidor público las sanciones anteriores serán aumentadas hasta en una mitad y se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos por otro tiempo igual al de la pena de prisión impuesta.
 
-### CAPÍTULO I. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO II. INDUCCIÓN A LA MENDICIDAD
 
 ###### Artículo 231.
 
@@ -9973,13 +7757,13 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 ## TÍTULO IX. DELITOS DE MALTRATO E INDUCCIÓN A LA MENDICIDAD
 
-### CAPÍTULO II. DELITOS COMETIDOS POR MÉDICOS, AUXILIARES Y OTROS RELACIONADOS CON LA PRÁCTICA DE LA MEDICINA
+### CAPÍTULO I. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-### CAPÍTULO III. DELITOS COMETIDOS POR OTROS PROFESIONALES Y TÉCNICOS
+### CAPÍTULO II. DELITOS COMETIDOS POR MÉDICOS, AUXILIARES Y OTROS RELACIONADOS CON LA PRÁCTICA DE LA MEDICINA
 
 ## TÍTULO X. DELITOS COMETIDOS EN EL EJERCICIO DE UNA ACTIVIDAD PROFESIONAL O TÉCNICA
 
-### CAPÍTULO IV. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN
+### CAPÍTULO III. DELITOS COMETIDOS POR OTROS PROFESIONALES Y TÉCNICOS
 
 ###### Artículo 233.
 
@@ -9993,7 +7777,7 @@ Si el juez lo considera conveniente, además de las penas previstas para cada un
 
 (DEROGADO, G.O. 2 DE ABRIL DE 2010)
 
-### CAPÍTULO I. DELITOS AMBIENTALES
+### CAPÍTULO IV. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN
 
 ###### Artículo 236.
 
@@ -10021,7 +7805,7 @@ Para que el perdón concedido por el agraviado o por su representante legítimo 
 
 No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
 
-### CAPÍTULO II. ESTRAGOS
+### CAPÍTULO I. DELITOS AMBIENTALES
 
 ###### Artículo 241.
 
@@ -10031,7 +7815,7 @@ A quien le una parentesco con persona menor de dieciocho años de edad o incapaz
 
 Si el agente activo devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 
-### CAPÍTULO III. INCITACIÓN A COMETER UN DELITO Y APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
+### CAPÍTULO II. ESTRAGOS
 
 ###### Artículo 243.
 
@@ -10055,7 +7839,7 @@ Cuando en la comisión del delito no haya existido el consentimiento a que se al
 
 A quienes ejerciendo el derecho de patria potestad, tutela o custodia, cometan el delito en cualquiera de los casos indicados, se les impondrá, además, la privación de este derecho, así como de los derechos de familia en relación con el sujeto pasivo.
 
-### CAPÍTULO I. CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
+### CAPÍTULO III. INCITACIÓN A COMETER UN DELITO Y APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
 
 ###### Artículo 245.
 
@@ -10071,7 +7855,7 @@ IV. Usurpe el estado civil o la filiación de otro con el fin de adquirir derech
 
 V. Inscriba o haga inscribir un divorcio o la nulidad de un matrimonio, no declarados por sentencia ejecutoriada.
 
-### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO I. CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
 
 ###### Artículo 246.
 
@@ -10079,9 +7863,7 @@ Se impondrán de seis meses a cinco años de prisión y multa de veinte a ochent
 
 Las mismas sanciones se impondrán al otro contrayente, al encargado del registro civil, a los testigos y a quienes, en su caso, ejerzan la patria potestad o la tutela y hayan autorizado u otorgado su consentimiento, si conocían el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
+### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### Artículo 247.
 
@@ -10089,7 +7871,9 @@ A quien contraiga matrimonio a sabiendas de la existencia de un impedimento no d
 
 Las mismas sanciones se impondrán al encargado del registro civil, a los testigos y a quienes ejerzan la patria potestad o la tutela, que hayan autorizado, declarado u otorgado su consentimiento, conociendo el impedimento.
 
-### CAPÍTULO I. FALSIFICACIÓN DE LLAVES, SELLOS, MARCAS Y CONTRASEÑAS
+### CAPÍTULO III. CONTRA LA SEGURIDAD DEL TRÁNSITO DE VEHÍCULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 248.
 
@@ -10099,15 +7883,15 @@ Se aplicarán las mismas sanciones en caso de que la cópula sea entre hermanos.
 
 ## TÍTULO XI. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS
+### CAPÍTULO I. FALSIFICACIÓN DE LLAVES, SELLOS, MARCAS Y CONTRASEÑAS
 
 ###### Artículo 249.
 
 A quien reiteradamente haga uso de la fuerza física o moral contra una persona incapaz, menor de dieciséis años o que no pueda resistir, sujeta o no a su custodia, guarda, protección, educación, instrucción o cuidado, se le impondrán de seis meses a seis años de prisión y multa hasta de trescientos días.
 
-### CAPÍTULO III. FALSIFICACIÓN DE TÍTULOS Y CONTRA LA FE PÚBLICA
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS
 
-### CAPÍTULO IV. USO DE DOCUMENTO FALSO
+### CAPÍTULO III. FALSIFICACIÓN DE TÍTULOS Y CONTRA LA FE PÚBLICA
 
 ###### Artículo 250.
 
@@ -10115,7 +7899,7 @@ A quien reiteradamente haga uso de la fuerza física o moral contra una persona 
 
 ## TÍTULO XII. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VÍAS DE COMUNICACIÓN
 
-### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA
+### CAPÍTULO IV. USO DE DOCUMENTO FALSO
 
 ###### Artículo 251.
 
@@ -10141,9 +7925,7 @@ VIII. A sabiendas ejercite acción u oponga excepciones ante cualquier autoridad
 
 Al defensor de oficio que incurra en alguna de las conductas previstas en el artículo anterior, además de las penas señaladas, se le impondrán destitución e inhabilitación para ejercer otro empleo, cargo o comisión públicos hasta por dos años.
 
-### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA
 
 ###### Artículo 253.
 
@@ -10181,17 +7963,17 @@ Se impondrán de tres meses a dos años de prisión y multa hasta de cien días 
 
 Si el daño en la salud se realiza, se impondrán además las sanciones que correspondan a este delito, aplicando en su caso las reglas del concurso.
 
-### CAPÍTULO III. PORNOGRAFÍA
+### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 257.
 
 Quienes ejerzan una profesión o actividad técnica, distinta a las previstas en los capítulos precedentes de este Título, serán responsables por los daños que causen con motivo de sus actividades y, además de las sanciones que correspondan por los delitos cometidos, se les impondrá suspensión de tres meses a dos años para ejercer la profesión o actividad técnica de que se trate.
 
-### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
+### CAPÍTULO III. PORNOGRAFÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 258.
 
@@ -10223,7 +8005,9 @@ Se impondrán de dos a cuatro años de prisión y multa de cien a quinientas vec
 
 ## TÍTULO XIII. DELITOS DE FALSEDAD
 
-### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO IV. LENOCINIO Y TRATA DE PERSONAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 259.
 
@@ -10279,9 +8063,9 @@ Los delitos del presente capítulo se perseguirán por querella de la autoridad 
 
 Al servidor público que, aprovechándose de sus funciones, intervenga en la comisión de estos delitos, se le aumentará la pena de prisión hasta en cinco años y se le destituirá e inhabilitará para ocupar empleo, cargo o comisión públicos por un tiempo igual.
 
-### CAPÍTULO I. VIOLACIÓN DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPÍTULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
-### CAPÍTULO II. CONTRA EL RESPETO A LOS MUERTOS
+### CAPÍTULO I. VIOLACIÓN DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### Artículo 265.
 
@@ -10301,7 +8085,7 @@ III. Si el delito tuviere como consecuencia la destrucción de un edificio habit
 
 Cuando los delitos señalados en el presente capítulo se cometan de manera culposa se sancionarán conforme a lo previsto para ello en este código.
 
-### CAPÍTULO I. CONSPIRACIÓN
+### CAPÍTULO II. CONTRA EL RESPETO A LOS MUERTOS
 
 ###### Artículo 268.
 
@@ -10309,7 +8093,7 @@ A quien públicamente incite a cometer un delito o haga apología de éste o de 
 
 ## TÍTULO XIV. DELITOS CONTRA LA MORAL PÚBLICA
 
-### CAPÍTULO II. REBELIÓN
+### CAPÍTULO I. CONSPIRACIÓN
 
 ###### Artículo 269.
 
@@ -10345,7 +8129,7 @@ Las penas también le serán aplicadas al conductor de la unidad vehicular con l
 
 La autoridad que conozca de un hecho que pudiere constituir el delito descrito debe de inmediato hacerlo del conocimiento del Agente del Ministerio Público que corresponda para el ejercicio de sus funciones.
 
-### CAPÍTULO III. SEDICIÓN
+### CAPÍTULO II. REBELIÓN
 
 ###### Artículo 273.
 
@@ -10363,7 +8147,7 @@ No se impondrá sanción a quienes, ejerciendo la patria potestad o la tutela, a
 
 Toda correspondencia que bajo cubierta circule por las estafetas estará protegida en términos de este capítulo.
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SEDICIÓN
 
 ###### Artículo 276.
 
@@ -10383,9 +8167,13 @@ Si este delito se comete por conductores de vehículos de transporte de pasajero
 
 A quien con cualquier finalidad instale en un vehículo placas de circulación o autorización oficial para circular, que no le correspondan legalmente, o a sabiendas de esta circunstancia haga uso del mismo, se le impondrán de seis meses a tres años de prisión y multa hasta de ciento veinte días de salario.
 
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+Sólo la autoridad de Transporte en el Estado y sus delegaciones regionales podrán autorizar temporalmente la circulación de vehículos, cumpliendo con lo dispuesto por la Ley de Tránsito y Transporte en el Estado de Veracruz de Ignacio de la Llave y su reglamento.
+
 ## TÍTULO XV. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO V. TERRORISMO
+### CAPÍTULO IV. MOTÍN
 
 ###### Artículo 278.
 
@@ -10399,7 +8187,7 @@ III. Enajene o, a sabiendas, haga uso de llaves, sellos, contraseñas, marcas, e
 
 IV. Al que procurándose los objetos verdaderos antes mencionados para utilizarlos directamente o duplicándolos, haga uso indebido de ellos.
 
-### CAPÍTULO VI. SABOTAJE
+### CAPÍTULO V. TERRORISMO
 
 ###### Artículo 279.
 
@@ -10425,7 +8213,7 @@ IX. Siendo perito, altere de manera dolosa el contenido de un documento al tradu
 
 X. Imite, simule o altere de distinta manera a las anteriores, un documento verdadero.
 
-### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PÚBLICO
+### CAPÍTULO VI. SABOTAJE
 
 ###### Artículo 280.
 
@@ -10457,23 +8245,25 @@ III. A quien para eximirse de una obligación impuesta por la ley utilice un cer
 
 Cuando alguno de los delitos previstos en este capítulo sea cometido por un servidor público, la pena de que se trate se aumentará hasta en una mitad, se le destituirá del empleo, cargo o comisión públicos e inhabilitará por otro tiempo igual al de la privativa de libertad.
 
-### CAPÍTULO II. ABUSO DE AUTORIDAD
+### CAPÍTULO I. EJERCICIO INDEBIDO O ABANDONO DEL SERVICIO PÚBLICO
 
 ###### Artículo 283.
 
 A quien a sabiendas, en beneficio propio, de un tercero o para causar daño a otro, hiciere uso de un documento falso o alterado, se le impondrán de seis meses a cinco años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
+### CAPÍTULO II. ABUSO DE AUTORIDAD
 
 ## TÍTULO XVI. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO IV. COALICIÓN
+### CAPÍTULO II BIS. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
 
 ###### Artículo 284.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta días de salario a quien públicamente ejecute o haga ejecutar actos obscenos.
 
-### CAPÍTULO V. COHECHO
+### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
 
 ###### Artículo 285.
 
@@ -10511,7 +8301,7 @@ A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VI. PECULADO
+### CAPÍTULO IV. COALICIÓN
 
 ###### Artículo 290.
 
@@ -10537,7 +8327,7 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 (DEROGADO, G.O. 2 DE ABRIL DE 2010)
 
-### CAPÍTULO VII. EXACCIÓN ILEGAL
+### CAPÍTULO V. COHECHO
 
 ###### Artículo 292.
 
@@ -10565,7 +8355,7 @@ Las penas se agravarán hasta en una mitad, si se emplea violencia física o mor
 
 (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
-### CAPÍTULO VIII. INTIMIDACIÓN
+### CAPÍTULO VI. PECULADO
 
 ###### Artículo 294.
 
@@ -10585,7 +8375,7 @@ Si el sujeto activo se valiere de su función pública, profesión u oficio, ade
 
 ## TÍTULO XVII. DELITOS CONTRA EL SERVICIO PÚBLICO
 
-### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
+### CAPÍTULO VII. EXACCIÓN ILEGAL
 
 ###### Artículo 297.
 
@@ -10597,7 +8387,7 @@ II. Exhume un cadáver o un feto o parte de ellos; o
 
 III. Sustraiga o esparza las cenizas de un cadáver o restos humanos.
 
-### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO VIII. INTIMIDACIÓN
 
 ###### Artículo 298.
 
@@ -10611,7 +8401,7 @@ III. Viole o vilipendie el lugar donde repose un cadáver, restos humanos o sus 
 
 ## TÍTULO XVIII. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
 
 ###### Artículo 299.
 
@@ -10625,7 +8415,7 @@ La pena privativa de libertad se aumentará en una mitad para quienes organizan,
 
 A quien contrate, organice, instruya, entrene o equipe a personas en tácticas, técnicas o procedimientos militares para el desarrollo de actividades terroristas, de escuadrones de la muerte o grupos de justicia privada, se le impondrán de siete a veinte años de prisión y multa hasta de seiscientos días de salario.
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
 
 ###### Artículo 301.
 
@@ -10683,7 +8473,7 @@ Los rebeldes no serán responsables de las muertes o de las lesiones inferidas e
 
 No se aplicará sanción a los rebeldes que depongan las armas antes de ser tomados prisioneros.
 
-### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 309.
 
@@ -10697,13 +8487,13 @@ III. Abolir o reformar la Constitución Política del Estado o las instituciones
 
 IV. Separar o impedir el desempeño de su cargo a algún servidor público, estatal o municipal.
 
-### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 310.
 
 A quienes, para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta días de salario y suspensión de derechos políticos hasta por dos años.
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 311.
 
@@ -10721,7 +8511,7 @@ A quien administre dinero o bienes relacionados con terroristas se le impondrán
 
 Se considera terrorista y se sancionará como tal a quien haga señales, dé voces de alarma o provoque estruendos por los medios idóneos, simulando la posible existencia de alguno de los actos considerados por el delito de terrorismo, con el fin de suscitar tumultos, desórdenes, alarma o zozobra aun cuando éstos no se produzcan.
 
-### CAPÍTULO II. FRAUDE PROCESAL
+### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 314.
 
@@ -10735,7 +8525,7 @@ III. Recursos esenciales que el Estado destine para el mantenimiento del orden p
 
 ## TÍTULO XIX. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
-### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### Artículo 315.
 
@@ -10753,9 +8543,7 @@ Al responsable del delito previsto en este artículo se le impondrán de uno a s
 
 Se impondrán las mismas sanciones que señala el artículo anterior al servidor público que, sin presentar renuncia o sin causa justificada, con perjuicio del servicio, abandone el empleo, cargo o comisión para el que fue nombrado.
 
-### CAPÍTULO IV. EVASIÓN DE PRESOS
-
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+### CAPÍTULO II. FRAUDE PROCESAL
 
 ###### Artículo 317.
 
@@ -10777,11 +8565,115 @@ V. A sabiendas aplique fondos públicos a un fin distinto al que estaban destina
 
 VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que produzca algún beneficio económico indebido, para sí o para otro, valiéndose de información que tenga en razón de su empleo, cargo o comisión.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JULIO DE 2014)</small>
+
+### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
+
+###### Artículo 318 Bis.
+
+Comete el delito de desaparición forzada de persona el servidor público que realice, ordene, autorice, consienta, tolere, apoye o conozca de la detención o privación de la libertad de una persona y además incurra en una o más de las siguientes hipótesis:
+
+a). Se niegue a reconocer dicha detención o privación de la libertad;
+
+b). Omita dolosamente o se niegue a rendir informe sobre dicha detención o privación de libertad;
+
+c). Oculte o mantenga dolosamente el ocultamiento de la víctima;
+
+d). Se niegue a informar sobre cualquier dato que tenga sobre la detención, la privación de libertad o el paradero de la víctima;
+
+e). Dolosamente proporcione información falsa o rinda informes falsos sobre la detención, la privación de libertad o el paradero de la víctima.
+
+Al servidor público que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a treinta años de prisión y multa de mil a cuatro mil días de salario, además de la inhabilitación definitiva para ejercer la función pública.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+### CAPÍTULO IV. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 318 Ter.
+
+Será igualmente considerado como sujeto activo del delito de desaparición forzada de persona, el particular que:
+
+a). Con la autorización, apoyo, tolerancia, o aquiescencia de algún servidor público, realice alguna de las conductas descritas en el artículo anterior;
+
+b). Intervenga con cualquier grado de autoría o participación en la comisión de alguna de las hipótesis descritas en el artículo anterior.
+
+Al particular que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a veinticinco años de prisión y multa de quinientos a dos mil días de salario.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 318 Quáter.
+
+Se equipara al delito de desaparición forzada de persona el omitir entregar a su familia o a la autoridad a una persona, viva o muerta, que haya nacido durante la privación de libertad de una mujer víctima de desaparición forzada de persona y se sancionará conforme a lo dispuesto en los dos artículos anteriores.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 318. Quinquies.
+
+Se sancionará, a quien sin ser autor o partícipe, incurra en alguna de las conductas relacionadas con este delito, conforme a lo siguiente:
+
+a). Ayude a eludir la aplicación de la justicia o a entorpecer la investigación de cualquiera de los delitos de desaparición forzada de persona o su equiparado, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario.
+
+b). Teniendo conocimiento de la comisión de este delito, omita dar aviso a la autoridad correspondiente, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario.
+
+c). No evite la comisión de este delito, pudiendo hacerlo sin riesgo propio o ajeno, con pena de uno a cinco años de prisión y multa de cien a quinientos días de salario.
+
+d). Teniendo conocimiento del destino final de una persona nacida de una mujer víctima de desaparición forzada de persona, no proporcione la información a la autoridad competente, con pena de tres a seis años de prisión y multa de cien a trescientos días de salario.
+
+Si fuere servidor público, se sancionará además con inhabilitación definitiva e inconmutable para ejercer la función pública.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+Artículo 318 Sexties. Serán atenuantes punitivas y reducirán la pena hasta en una mitad, las siguientes:
+
+a). Que la víctima fuere liberada espontáneamente durante los cinco días siguientes a su privación de libertad;
+
+b). Que quien hubiere intervenido con cualquier grado de participación en la comisión del delito, o quien no lo hubiere evitado pudiendo hacerlo, proporcione información que conduzca a la libertad de la víctima.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 318 Septies.
+
+Serán atenuantes punitivas y reducirán la pena hasta en un tercio, las siguientes:
+
+a). Que el autor o partícipe proporcione información que conduzca a dar con el paradero de los restos corpóreos de la víctima;
+
+b). Que el autor material del delito proporcione información relativa a la responsabilidad y paradero del autor intelectual y se logre la ubicación o captura de éste.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 318 Octies.
+
+Serán agravantes punitivas y aumentarán la pena hasta en una mitad más, las siguientes:
+
+a). Que durante la desaparición forzada a la víctima le sobrevenga la muerte;
+
+b). Que se haya realizado alguna acción tendiente a ocultar el cadáver de la víctima;
+
+c). Que se haya realizado la conducta con el fin de ocultar o procurar la impunidad por la comisión de otro delito;
+
+d). Que la víctima sea periodista o defensor de derechos humanos;
+
+e). Que se haya realizado la conducta con el fin de obtener algún beneficio;
+
+f). Que la desaparición forzada se ejecute como consecuencia de una práctica policial en la investigación o persecución de algún delito;
+
+g). Que la víctima se encuentre en una situación de vulnerabilidad. Se considera situación de vulnerabilidad la condición de desventaja de la víctima derivada de una o más de las siguientes circunstancias:
+
+1. Su origen, sexo, orientación sexual, o condición socioeconómica precaria;
+
+2. Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la consumación de este delito;
+
+3. Trastorno físico o mental, o discapacidad;
+
+4. Pertenencia a un pueblo o comunidad indígena;
+
+5. Tener más de sesenta años de edad o menos de dieciocho;
+
+6. Su condición migratoria, aislamiento social, cultural o lingüístico.
+
 ### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
-
-### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
-
-### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
 
 ###### Artículo 319.
 
@@ -10799,13 +8691,13 @@ I. Por razón de su empleo, cargo o comisión tenga conocimiento de que existe i
 
 II. Al concluir el empleo, cargo o comisión no entregue a la persona autorizada para recibir los bienes, documentación, archivos, expedientes y todo lo que haya estado bajo su responsabilidad.
 
-### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
+### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
 
 ###### Artículo 321.
 
 Se impondrán prisión de seis meses a seis años y multa hasta de doscientas veces el salario, a los servidores públicos que se unan para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
 
 ###### Artículo 322.
 
@@ -10819,9 +8711,9 @@ Cuando el dinero, dádiva o servicios de que se trate, sea inferior al equivalen
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
-### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
+### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
 
-### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
 
 ###### Artículo 323.
 
@@ -10841,9 +8733,7 @@ I. El servidor público que a título personal e indebidamente utilice fondos p�
 
 II. Cualquier persona que sin tener el carácter de servidor público, estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPÍTULO I. DE LOS DELITOS ELECTORALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
 ###### Artículo 325.
 
@@ -10853,7 +8743,7 @@ I. Cuando las prestaciones indebidas no excedan del equivalente de quinientas ve
 
 II. Si su equivalente excediera de quinientas veces el salario, se impondrán de dos a diez años de prisión y multa de trescientos a quinientos días de salario.
 
-### CAPÍTULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 326.
 
@@ -10863,17 +8753,15 @@ I. Por sí o por interpósita persona, utilizando la violencia física o moral, 
 
 II. Realice una conducta ilícita u omita una lícita que lesione los intereses del denunciante, querellante o informante o de algún tercero interesado.
 
-### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
+### CAPÍTULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 327.
 
 Se impondrán de uno a cuatro años de prisión y multa hasta de ciento cincuenta días de salario al servidor público que por sí o por interpósita persona, sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva o gestione la emisión o ejecución de un acto o resolución oficial en beneficio propio o de un tercero.
 
-### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
-
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO II. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 328.
 
@@ -10883,7 +8771,7 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes cuya procedencia no logre justificarse de acuerdo con la ley en materia de responsabilidades de los servidores públicos del Estado.
 
-### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
+### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -10899,7 +8787,7 @@ Cuando la ley autorice el empleo de medios de apremio, el delito sólo se consum
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta en un año.
 
-### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -10907,7 +8795,7 @@ Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta d�
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien quebrante los sellos que se fijen por orden de autoridad competente.
 
-### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
+### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -10915,7 +8803,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta d�
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
 
-### CAPÍTULO VI. VIOLENCIA LABORAL
+### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -10927,7 +8815,7 @@ Los servidores públicos que cometan los ilícitos previstos en el presente Tít
 
 ## TÍTULO XX. DELITOS CONTRA LA FUNCIÓN ELECTORAL
 
-### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -10943,6 +8831,12 @@ A quien presente testigos falsos ante autoridad competente en ejercicio de sus f
 
 Igual sanción se impondrá a quien obtenga que un testigo o perito falte a la verdad o la oculte al ser examinado por dicha autoridad.
 
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+
+###### Artículo 334 Bis.
+
+A quien siendo gerente, directivo, representante legal de casas de empeño, o quien tenga la obligación de hacerlo, omita rendir el reporte mensual ante la Procuraduría General de Justicia del Estado, de los actos o hechos que estén relacionados con las operaciones que realizan, al que están obligados en términos de la Ley Federal de Protección al Consumidor, o que al rendirlo afirme hechos falsos u oculte la verdad, en todo o en parte, se le impondrá de uno a seis años de prisión y multa de quinientos días de salario.
+
 ###### Artículo 335.
 
 A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante la autoridad, antes de que se pronuncie resolución, sólo se le impondrá multa hasta de sesenta días de salario.
@@ -10951,15 +8845,17 @@ A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante l
 
 Si la declaración falsa hubiere sido elemento de convicción para la imposición de sanción privativa de libertad, existiendo posterior reconocimiento de inocencia del inculpado, al falso declarante se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO VII BIS. FEMINICIDIO
+### CAPÍTULO VI. VIOLENCIA LABORAL
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 337.
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 338.
 
@@ -10967,9 +8863,9 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+### CAPÍTULO VII BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 339.
 
@@ -10993,9 +8889,7 @@ A los servidores públicos que ilegalmente permitan la salida temporal de las pe
 
 Si la reaprehensión del evadido se lograre por informes proporcionados por el responsable de la evasión, las sanciones se reducirán hasta en dos terceras partes de las previstas.
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
-
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 344.
 
@@ -11011,17 +8905,25 @@ II. El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 346.
 
 A quien quebrante una sanción de privación, suspensión o inhabilitación de derechos se le impondrá multa hasta de ciento cincuenta días de salario. En caso de reincidencia, se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 347.
 
 A quien altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta días de salario.
+
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 348.
 
@@ -11317,7 +9219,409 @@ A quien, por cualquier medio, dolosamente reporte emergencias falsas que movilic
 
 Al que, con la intención de perturbar el orden público, dé a conocer falsamente, a sabiendas de ello y por cualquier medio, la existencia de aparatos explosivos u otros que puedan causar el mismo efecto; de ataques con armas de fuego; o de sustancias químicas, biológicas o tóxicas que puedan causar daño a la salud, se le impondrá prisión de uno a cuatro años y multa de quinientos a mil días de salario, atendiendo a la alarma o perturbación del orden efectivamente producida.
 
-## ARTICULOS TRANSITORIOS.
+## TRANSITORIOS
+
+PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este ordenamiento quedará abrogado el Código Penal para el Estado Libre y Soberano de Veracruz-Llave que inició su vigencia el 20 de octubre de 1980; y se derogarán sus reformas y adiciones subsiguientes, así como las demás disposiciones que se opongan al presente Código.
+
+Dado en el Salón de Sesiones de la LIX Legislatura del Honorable Congreso del Estado, en la Ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los quince días del mes octubre del año dos mil tres. Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
+
+Por tanto, en atención a lo dispuesto por los artículos 35 párrafo segundo y 49, fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/01342, de los diputados Presidente y Secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veinticuatro días del mes de octubre del año dos mil tres.
+
+Atentamente
+
+Sufragio efectivo. No reelección.
+
+Licenciado Miguel Alemán Velazco
+
+Gobernador del Estado.
+
+Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+G.O. 3 DE AGOSTO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE AGOSTO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 3 DE NOVIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor los quince días siguientes al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE FEBRERO DE 2005.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 258, POR EL QUE SE REFORMAN LOS ARTÍCULOS 140 Y 233 DEL CÓDIGO.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 274, POR EL QUE SE REFORMA EL ARTÍCULO 276 DEL CÓDIGO.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 279, POR EL QUE SE REFORMA EL ARTÍCULO 189 DEL CÓDIGO.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
+
+G.O. 15 DE AGOSTO DE 2005.
+
+DECRETO No. 284, POR EL QUE SE REFORMA EL ARTÍCULO 233 DEL CÓDIGO.
+
+Primero. Presente (sic) decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor seis meses después de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 3 DE ENERO DE 2007.
+
+DECRETO No. 622 POR EL QUE SE ADICIONA EL ARTÍCULO 163 BIS DEL CÓDIGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 3 DE ENERO DE 2007.
+
+DECRETO No. 623 POR EL QUE SE REFORMA EL ARTÍCULO 164 DEL CÓDIGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 30 DE MAYO DE 2007.
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones opuestas a este decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 888 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 186 DEL CÓDIGO.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 889 POR EL QUE SE ADICIONA EL ARTÍCULO 243 BIS AL CÓDIGO.
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 890 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 292 DEL CÓDIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 891 POR EL QUE SE REFORMAN LOS ARTÍCULOS 49 Y 96 DEL CÓDIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 892 POR EL QUE SE REFORMA EL ARTÍCULO 241 DEL CÓDIGO.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 893 POR EL QUE SE REFORMAN LOS ARTÍCULOS 288, 290 Y 291 DEL CÓDIGO.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE AGOSTO DE 2007.
+
+DECRETO No. 894 POR EL QUE SE ADICIONA EL ARTÍCULO 147 BIS AL CÓDIGO.
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este decreto.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2007.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones opuestas al presente decreto.
+
+G.O. 30 DE ABRIL DE 2008.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE JUNIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE JULIO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE AGOSTO DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE SEPTIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE ENERO DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE JUNIO DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE NOVIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 2 DE ABRIL DE 2010.
+
+Artículo primero. El presente decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2010.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan los artículos 243 Bis, 250 y 293 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, así como todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+DECRETO NÚMERO 291 POR EL QUE SE REFORMA EL ARTÍCULO 339 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE AGOSTO DE 2011.
+
+DECRETO NÚMERO 292 POR EL QUE SE REFORMAN LOS ARTÍCULOS 56, FRACCIONES II, III(SIC) Y IV (SIC), Y 329, PÁRRAFOS SEGUNDO Y TERCERO; SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 56, UN PÁRRAFO TERCERO AL ARTÍCULO 93, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 104, UN PÁRRAFO CUARTO AL ARTICULO 137, UN PÁRRAFO SEGUNDO AL ARTÍCULO 319, UN PÁRRAFO QUE SERÁ EL SEGUNDO AL ARTICULO 329, CON EL CORRIMIENTO DE LOS ACTUALES SEGUNDO Y TERCERO, UN CAPÍTULO VII BIS, QUE SE DENOMINARÁ FEMINICIDIO, AL TÍTULO XXI DELITOS DE VIOLENCIA DE GÉNERO Y UN ARTÍCULO 367 BIS; Y SE DEROGA EL ARTÍCULO 368 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE SEPTIEMBRE DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 312 POR EL QUE SE REFORMA EL ARTÍCULO 290, FRACCIÓN V, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 314 POR EL REFORMAN LOS ARTÍCULOS 183, FRACCIÓN II, Y 185, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE ENERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE MAYO DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE NOVIEMBRE DE 2012.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 21 DE DICIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
+
+G.O. 7 DE FEBRERO DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 9 DE JULIO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 22 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE NOVIEMBRE DE 2013.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días naturales, efectuará las modificaciones reglamentarias que se requieran para dar cumplimiento al presente Decreto, en la parte relativa a la creación de la Unidad de Policía Científica Preventiva.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE JUNIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+DECRETO NÚMERO 268 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 277 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+DECRETO NÚMERO 272 POR EL QUE SE ADICIONA EL ARTICULO 334 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2014.
+
+DECRETO NÚMERO 273 POR EL QUE SE ADICIONA EL CAPÍTULO II BIS, AL TÍTULO XVII "DELITOS CONTRA EL SERVICIO PUBLICO" DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, CON LA DENOMINACIÓN "DESAPARICIÓN FORZADA DE PERSONAS", QUE COMPRENDE LOS ARTÍCULOS 318 BIS, 318 TER, 318 QUATER, 318 QUINQUIES, 318 SEXTIES, 318 SEPTIES Y 318 OCTIES.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### Art. 1o.
 
@@ -11328,10 +9632,6 @@ En las elecciones a que debe convocarse, conforme al artículo siguiente, no reg
 ###### Art. 2o.
 
 El Encargado del Poder Ejecutivo de la Nación, inmediatamente que se publique esta Constitución, convocará a elecciones de Poderes Federales, procurando que éstas se efectúen de tal manera que el Congreso quede constituído en tiempo oportuno, a fin de que hecho el cómputo de los votos emitidos en las elecciones presidenciales, pueda declararse quién es la persona designada como Presidente de la República, a efecto de que pueda cumplirse lo dispuesto en el artículo anterior.
-
-###### Art. 3o.
-
-El próximo período constitucional comenzará a contarse, para los Diputados y Senadores, desde el primero de septiembre próximo pasado, y para el Presidente de la República, desde el 1o. de Diciembre de 1916.
 
 ###### Art. 3o.
 
@@ -11487,92 +9787,6 @@ Por esta vez, el cómputo de los votos para Senadores se hará por la Junta Comp
 
 La Suprema Corte de Justicia de la Nación, resolverá los amparos que estuvieren pendientes, sujetándose a las leyes actuales en vigor.
 
-###### Art. 9o.
-
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, queda facultado para expedir la ley electoral, conforme a la cual deberán celebrarse, esta vez, las elecciones para integrar los Poderes de la Unión.
-
-###### Art. 10o.
-
-Los que hubieren figurado en el Gobierno emanado de la rebelión, contra el legítimo de la República, o cooperado a aquélla, combatiendo después con las armas en la mano, o sirviendo empleos o cargos de las facciones que han atacado al Gobierno Constitucionalista, serán juzgados por las leyes vigentes, siempre que no hubieren sido indultados por éste.
-
-###### Art. 11o.
-
-Entre tanto el Congreso de la Unión y los de los Estados legislan sobre los problemas agrario y obrero, las bases establecidas por esta Constitución para dichas leyes, se pondrán en vigor en toda la República.
-
-###### Art. 12o.
-
-Los mexicanos que hayan militado en el Ejército Constitucionalista, los hijos y viudas de éstos, y las demás personas que hayan prestado servicios a la causa de la Revolución o a la Instrucción Pública, tendrán preferencia para la adquisición de fracciones a que se refiere el artículo 27 y derecho a los descuentos que las leyes señalarán.
-
-###### Art. 13o.
-
-Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los patronos, sus familiares o intermediarios.
-
-> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1921)</small>
-
-###### Art. 14o.
-
-Queda suprimida la Secretaría de Justicia.
-
-###### Art. 15.
-
-Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la ley de responsabilidad civil aplicable a los autores, cómplices y encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913 y contra el Gobierno Constitucionalista.
-
-###### Art. 16.
-
-El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)</small>
-
-###### Art. 17.
-
-Los Templos y demás bienes que, conforme a la fracción II del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos que se reforma por este Decreto, son propiedad de la nación, mantendrán su actual situación jurídica.
-
-###### Art. 18.
-
-(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
-
-###### Art. 19.
-
-(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
-
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
-
-Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a treinta y uno de enero de mil novecientos diecisiete.- Presidente: Luis Manuel Rojas, Diputado por el Estado de Jalisco.- Primer Vice-Presidente: Gral. de División Cándido Aguilar, Diputado por el Estado de Veracruz.- Segundo Vice-Presidente: Gral. Brigadier Salvador González Torres, Diputado por el Estado de Oaxaca.- Diputado por el Estado de Aguascalientes: Daniel Cervantes.- Diputado por el Territorio de la Baja California: Ignacio Roel.- Diputados por el Estado de Coahuila: M. Aguirre Berlanga, José Ma. Rodríguez, Jorge E. Von Versen, Manuel Cepeda Medrano, José Rodríguez González (Suplente).- Diputado por el Edo. de Colima: Francisco Ramírez Villarreal.- Diputados por el Edo. de Chiapas: Enrique Suárez, Lisandro López, Daniel A. Cepeda, Cristóbal Ll. y Castillo, J. Amilcar Vidal.- Diputado por el Edo. de Chihuahua: Manuel M. Prieto.- Diputados por el Distrito Federal: Gral. Ignacio L. Pesqueira, Lauro López Guerra, Gerzayn Ugarte, Amador Lozano, Félix F. Palavicini, Carlos Duplán, Rafael L. de los Ríos, Arnulfo Silva, Antonio Norzagaray, Ciro B. Ceballos, Alfonso Herrera, Román Rosas y Reyes (Suplente), Lic. Francisco Espinosa (Suplente).- Diputados por el Edo. de Durango: Silvestre Dorador, Lic. Rafael Espeleta, Antonio Gutiérrez, Dr. Fernando Gómez Palacio, Alberto Terrones B., Jesús de la Torre.- Diputados por el Edo. de Guanajuato: Gral. Lic. Ramón Frausto, Ing. Vicente M. Valtierra, José N. Macías, David Peñaflor, José Villaseñor, Santiago Manrique, Lic. Hilario Medina, Manuel G. Aranda, Enrique Colunga, Ing. Ignacio López, Dr. Francisco Díaz Barriga, Nicolás Cano, Tte. Crnl. Gilberto N. Navarro, Luis Fernández Martínez, Luis M. Alcocer (Suplente), Ing. Carlos Ramírez Llaca.- Diputados por el Edo. de Guerrero: Fidel Jiménez, Fidel Guillén, Francisco Figueroa.- Diputados por el Edo. de Hidalgo: Antonio Guerrero, Leopoldo Ruiz, Lic. Alberto M. González, Rafael Vega Sánchez, Alfonso Cravioto, Matías Rodríguez, Ismael Pintado Sánchez, Lic. Refugio M. Mercado, Alfonso Mayorga.- Diputados por el Edo. de Jalisco: Marcelino Dávalos, Federico E. Ibarra, Manuel Dávalos Ornelas, Francisco Martín del Campo, Bruno Moreno, Gaspar Bolaños B., Juan de Dios Robledo, Ramón Castañeda y Castañeda, Jorge Villaseñor, Gral. Amado Aguirre, José I. Solórzano, Francisco Labastida Izquierdo, Ignacio Ramos Praslow, José Manzano, Joaquín Aguirre Berlanga, Gral. Brigadier Esteban B. Calderón, Paulino Machorro y Narváez, Crnl. Sebastián Allende, Jr.- Diputados por el Edo. de México: Aldegundo Villaseñor, Fernando Moreno, Enrique O'Fárril, Guillermo Ordorica, José J. Reynoso, Antonio Aguilar, Juan Manuel Giffard, Manuel A. Hernández, Enrique A. Enríquez, Donato Bravo Izquierdo, Rubén Martí.- Diputados por el Edo. de Michoacán: José P. Ruíz, Alberto Peralta, Cayetano Andrade, Uriel Avilés, Gabriel R. Cervera, Onésimo López Couto, Salvador Alcaraz Romero, Manuel Martínez Solórzano, Martín Castrejón, Lic. Alberto Alvarado, José Alvarez, Rafael Márquez, José Silva Herrera, Amadeo Betancourt, Francisco J. Múgica, Jesús Romero Flores.- Diputados por el Edo. de Morelos: Antonio Garza Zambrano, Alvaro L. Alcázar, José L. Gómez.- Diputados por el Edo. de Nuevo León: Manuel Amaya, Nicéforo Zambrano, Luis Ilizaliturri, Crnl. Ramón Gámez, Reynaldo Garza, Plutarco González, Lorenzo Sepúlveda (Suplente).- Diputados por el Edo. de Oaxaca: Juan Sánchez, Leopoldo Payán, Lic. Manuel Herrera, Lic. Porfirio Sosa, Lic. Celestino Pérez Jr., Crisóforo Rivera Cabrera, Crnl. José F. Gómez, Mayor Luis Espinosa.- Diputados por el Edo. de Puebla: Dr. Salvador R. Guzmán, Lic. Rafael P. Cañete, Miguel Rosales, Gabriel Rojana, Lic. David Pastrana Jaimes, Froylán C. Manjarrez, Tte. Crnl. Antonio de la Barrera, Mayor José Rivera, Crnl. Epigmenio A. Martínez, Pastor Rouaix, Crnl. de Ings. Luis T. Navarro, Tte. Crnl. Federico Dinorín, Gral. Gabino Bandera Mata, Crnl. Porfirio del Castillo, Crnl. Dr. Gilberto de la Fuente, Alfonso Cabrera, José Verástegui.- Diputados por el Edo. de Querétaro: Juan N. Frías, Ernesto Perrusquía.- Diputados por el Edo. de San Luis Potosí: Samuel M. Santos, Dr. Arturo Méndez, Rafael Martínez Mendoza, Rafael Nieto, Dionisio Zavala, Gregorio A. Tello, Rafael Curiel, Cosme Dávila (Suplente).- Diputados por el Edo. de Sinaloa: Pedro R. Zavala, Andrés Magallón, Carlos M. Ezquerro, Cándido Avilés, Emiliano C. García.- Diputados por el Edo. de Sonora: Luis G. Monzón, Ramón Ross.- Diputados por el Edo. de Tabasco: Lic. Rafael Martínez de Escobar, Santiago Ocampo, Carmen Sánchez Magallanes,- Diputados por el Edo. de Tamaulipas: Crnl. Pedro A. Chapa, Ceferino Fajardo, Fortunato de la Híjar, Emiliano Próspero Nafarrete.- Diputados por el Territorio de Tepic: Tte. Crnl. Cristóbal Limón, Mayor Marcelino Sedano, Juan Espinosa Bávara.- Diputados por el Edo. de Tlaxcala: Antonio Hidalgo, Ascensión Tépal, Modesto González y Galindo.- Diputados por el Edo. de Veracruz: Saúl Rodiles, Enrique Meza, Benito Ramírez G., Eliseo L. Céspedes, Adolfo G. García, Josafat F. Márquez, Alfredo Solares, Alberto Román, Silvestre Aguilar, Angel S. Juarico, Heriberto Jara, Victorio N. Góngora, Carlos L. Gracidas (Suplente), Marcelo Torres, Juan de Dios Palma, Galdino H. Casados, Fernando A. Pereyra.- Diputados por el Edo. de Yucatán: Enrique Recio, Miguel Alonso Romero, Héctor Victoria A.- Diputados por el Edo. de Zacatecas: Adolfo Villaseñor, Julián Adame, Jairo R. Dyer, Samuel Castañón, Andrés L. Arteaga, Antonio Cervantes, Crnl. Juan Aguirre Escobar.- Secretario: Fernando Lizardi, Diputado por el Edo. de Guanajuato.- Secretario: Ernesto Meade Fierro, Diputado por el Edo. de Coahuila.- Secretario: José M. Truchuelo, Diputado por el Edo. de Querétaro.- Secretario: Antonio Ancona Albertos, Diputado por el Edo. de Yucatán.- Prosecretario: Dr. Jesús López Lira, Diputado por el Edo. de Guanajuato.- Prosecretario: Fernando Castaños, Diputado por el Edo. de Durango.- Prosecretario: Juan de Dios Bojórquez, Diputado por el Edo. de Sonora.- Prosecretario: Flavio A. Bórquez, Diputado por el Edo. de Sonora.
-
-Por tanto, mando se imprima, circule y publique por bando solemne y pregón en toda la República para su debido cumplimiento.
-
-Dado en el Palacio Nacional de la Ciudad de Querétaro, el 5 de febrero de 1917.- V. CARRANZA.- Rúbrica.
-
-Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobernación.- México.
-
-Lo que hónrome en comunicar a usted para su publicación y demás efectos.
-
-Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
-
-Al Ciudadano ..
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
-
-D.O.F. 8 DE JULIO DE 1921.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE NOVIEMBRE DE 1923.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 22 DE ENERO DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE ENERO DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA LOS ARTÍCULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -11616,222 +9830,6 @@ Noveno.- Se abrogan todas las disposiciones que se opongan a lo establecido en e
 D.O.F. 29 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo disposición en contrario conforme a lo establecido en los artículos transitorios siguientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Las normas de esta Constitución y los ordenamientos legales aplicables al Distrito Federal que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán aplicándose hasta que inicie la vigencia de aquellos que lo sustituyan.
-
-###### ARTÍCULO TERCERO.
-
-Las normas relativas a la elección de los poderes locales de la Ciudad de México se aplicarán a partir del proceso electoral para la elección constitucional del año 2018. Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias de los Poderes Legislativo, Ejecutivo y Judicial de la Ciudad, necesarias para que ejerzan las facultades que establezcan esta Constitución y la de la Ciudad de México, a partir del inicio de sus funciones. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
-
-Lo dispuesto en el párrafo tercero de la Base II del Apartado A del artículo 122 constitucional contenido en el presente Decreto, no será aplicable a los diputados integrantes de la VII Asamblea Legislativa del Distrito Federal.
-
-###### ARTÍCULO CUARTO.
-
-Las normas relativas a la elección de las Alcaldías se aplicarán a partir del proceso electoral para la elección constitucional del año 2018.
-
-La elección de las Alcaldías en el año 2018 se realizará con base en la división territorial de las dieciséis demarcaciones territoriales del Distrito Federal vigente hasta la entrada en vigor del presente Decreto. Los Concejos de las dieciséis Alcaldías electos en 2018 se integrarán por el Alcalde y diez Concejales electos según los principios de mayoría relativa y de representación proporcional, en una proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo.
-
-Lo dispuesto en el inciso b) del párrafo tercero de la Base VI del Apartado A del artículo 122 constitucional contenido en el presente Decreto, no será aplicable a los titulares de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal electos en 2015, quienes no podrán ser postulados en los comicios de 2018 para integrar las Alcaldías.
-
-Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias necesarias para que las Alcaldías, a partir del inicio de sus funciones en 2018, ejerzan las facultades a que se refiere esta Constitución y la de la Ciudad de México. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
-
-###### ARTÍCULO QUINTO.
-
-Los órganos de gobierno electos en los años 2012 y 2015 permanecerán en funciones hasta la terminación del periodo para el cual fueron electos. En su desempeño se ajustarán al orden constitucional, legal y del Estatuto de Gobierno del Distrito Federal destinado a normar las funciones a su cargo, que hubiere emanado o emane de los órganos competentes. Las facultades y atribuciones derivadas del presente Decreto de reformas constitucionales no serán aplicables a dichos órganos de gobierno, por lo que se sujetarán a las disposiciones constitucionales y legales vigentes con antelación a la entrada en vigor del presente Decreto.
-
-###### ARTÍCULO SEXTO.
-
-Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, entrarán en vigor a partir del día 1 de enero de 2020.
-
-En tanto la Legislatura de la Ciudad de México ejerce la atribución a que se refiere la Base XI del Apartado A del artículo 122 constitucional, las relaciones laborales entre la Ciudad de México y sus trabajadores que, hasta antes de la entrada en vigor del presente Decreto, se hubieren regido por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, continuarán normándose por dicha Ley, y los conflictos del trabajo que se susciten se conocerán y se resolverán por el Tribunal Federal de Conciliación y Arbitraje, hasta que se establezca la instancia competente en el ámbito local de la Ciudad de México.
-
-Los trabajadores de los poderes Legislativo, Ejecutivo y Judicial de la Ciudad de México, sus demarcaciones territoriales y sus órganos autónomos, así como de las entidades paraestatales de la Administración Pública local conservarán los derechos adquiridos que deriven de la aplicación del orden jurídico que los rija, al momento de entrar en vigor el presente Decreto.
-
-Los órganos públicos de la Ciudad de México, que hasta antes de la entrada en vigor de este Decreto se encuentren incorporados al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, continuarán sujetos, al igual que sus trabajadores, al mismo régimen de seguridad social.
-
-Los órganos públicos de la Ciudad de México que no se encuentren incorporados al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, podrán celebrar convenio, en los términos de la ley de dicho Instituto, para su incorporación y la afiliación de sus trabajadores. Lo anterior, siempre y cuando la Ciudad de México se encuentre al corriente en sus obligaciones con el Instituto y éste cuente con capacidad necesaria, en términos de su propia ley.
-
-###### ARTÍCULO SÉPTIMO.
-
-La Asamblea Constituyente de la Ciudad de México se compondrá de cien diputados constituyentes, que serán elegidos conforme a lo siguiente:
-
-A. Sesenta se elegirán según el principio de representación proporcional, mediante una lista votada en una sola circunscripción plurinominal, en los siguientes términos:
-
-I. Podrán solicitar el registro de candidatos los partidos políticos nacionales mediante listas con fórmulas integradas por propietarios y suplentes, así como los ciudadanos mediante candidaturas independientes, integradas por fórmula de propietarios y suplentes.
-
-II. Tratándose de las candidaturas independientes, se observará lo siguiente:
-
-a) El registro de cada fórmula de candidatos independientes requerirá la manifestación de voluntad de ser candidato y contar cuando menos con la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores del Distrito Federal, dentro de los plazos que para tal efecto determine el Instituto Nacional Electoral.
-
-b) Con las fórmulas de candidatos que cumplan con los requisitos del inciso anterior, el Instituto Nacional Electoral integrará una lista de hasta sesenta fórmulas con los nombres de los candidatos, ordenados en forma descendente en razón de la fecha de obtención del registro.
-
-c) En la boleta electoral deberá aparecer un recuadro blanco a efecto de que el elector asiente su voto, en su caso, por la fórmula de candidatos independientes de su preferencia, identificándolos por nombre o el número que les corresponda. Bastará con que asiente el nombre o apellido del candidato propietario y, en todo caso, que resulte indubitable el sentido de su voto.
-
-d) A partir de los cómputos de las casillas, el Instituto Nacional Electoral hará el cómputo de cada una de las fórmulas de candidatos independientes, y establecerá aquellas que hubieren obtenido una votación igual o mayor al cociente natural de la fórmula de asignación de las diputaciones constituyentes.
-
-III. Las diputaciones constituyentes se asignarán:
-
-a) A las fórmulas de candidatos independientes que hubieren alcanzado una votación igual o mayor al cociente natural, que será el que resulte de dividir la votación válida emitida entre sesenta.
-
-b) A los partidos políticos las diputaciones restantes, conforme las reglas previstas en el artículo 54 de la Constitución y en la Ley General de Instituciones y Procedimientos Electorales que resulten aplicables y en lo que no se oponga al presente Decreto.
-
-Para esta asignación se establecerá un nuevo cociente que será resultado de dividir la votación emitida, una vez deducidos los votos obtenidos por los candidatos independientes, entre el número de diputaciones restantes por asignar.
-
-En la asignación de los diputados constituyentes se seguirá el orden que tuviesen los candidatos en las listas presentadas por los partidos políticos.
-
-c) Si después de aplicarse la distribución en los términos previstos en los incisos anteriores, quedaren diputaciones constituyentes por distribuir, se utilizará el resto mayor de votos que tuvieren partidos políticos y candidatos independientes.
-
-IV. Serán aplicables, en todo lo que no contravenga al presente Decreto, las disposiciones conducentes de la Ley General de Instituciones y Procedimientos Electorales.
-
-V. Los partidos políticos no podrán participar en el proceso electoral a que se refiere este Apartado, a través de la figura de coaliciones.
-
-VI. Para ser electo diputado constituyente en los términos del presente Apartado, se observarán los siguientes requisitos:
-
-a) Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos;
-
-b) Tener veintiún años cumplidos el día de la elección;
-
-c) Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella;
-
-d) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
-
-e) No estar en servicio activo en el Ejército Federal ni tener mando de policía en el Distrito Federal, cuando menos sesenta días antes de la elección;
-
-f) No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-g) No ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-h) No ser Ministro de la Suprema Corte de Justicia de la Nación o miembro del Consejo de la Judicatura Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-i) No ser Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación o del Tribunal Electoral del Distrito Federal, ni Consejero Presidente o consejero electoral de los Consejos General, locales, distritales o de demarcación territorial del Instituto Nacional Electoral o del Instituto Electoral del Distrito Federal, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo de dichos Institutos, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que se separen definitivamente de sus cargos tres años antes del día de la elección;
-
-j) No ser legislador federal, ni diputado a la Asamblea Legislativa del Distrito Federal, ni Jefe Delegacional, salvo que se separen de sus cargos sesenta días antes del día de la elección; resultando aplicable en cualquier caso lo previsto en el artículo 125 de la Constitución;
-
-k) No ser Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, ni Magistrado o Juez Federal en el Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-l) No ser titular de alguno de los organismos con autonomía constitucional del Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-m) No ser Secretario en el Gobierno del Distrito Federal, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública local, salvo que se separen de sus cargos sesenta días antes del día de la elección;
-
-n) No ser Ministro de algún culto religioso; y
-
-o) En el caso de candidatos independientes, no estar registrados en los padrones de afiliados de los partidos políticos, con fecha de corte a marzo de 2016, ni haber participado como precandidatos o candidatos a cargos de elección popular postulados por algún partido político o coalición, en las elecciones federales o locales inmediatas anteriores a la elección de la Asamblea Constituyente.
-
-VII. El Consejo General del Instituto Nacional Electoral emitirá la Convocatoria para la elección de los diputados constituyentes a más tardar dentro de los siguientes 15 días a partir de la publicación de este Decreto. El Acuerdo de aprobación de la Convocatoria a la elección, establecerá las fechas y los plazos para el desarrollo de las etapas del proceso electoral, en atención a lo previsto en el párrafo segundo del presente Transitorio.
-
-VIII. El proceso electoral se ajustará a las reglas generales que apruebe el Consejo General del Instituto Nacional Electoral. Dichas reglas deberán regular el proceso en atención a la finalidad del mismo y, en consecuencia, el Instituto podrá realizar ajustes a los plazos establecidos en la legislación electoral a fin de garantizar la ejecución de las actividades y procedimientos electorales.
-
-Los actos dentro del proceso electoral deberán circunscribirse a propuestas y contenidos relacionados con el proceso constituyente. Para tal efecto, las autoridades electorales correspondientes deberán aplicar escrutinio estricto sobre su legalidad.
-
-El Tribunal Electoral del Poder Judicial de la Federación será competente para resolver las impugnaciones derivadas del proceso electoral, en los términos que determinan las leyes aplicables.
-
-B. Catorce senadores designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
-
-C. Catorce diputados federales designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
-
-Los legisladores federales designados como diputados constituyentes en términos del presente Apartado y el anterior, continuarán ejerciendo sus cargos federales de elección popular, sin que resulte aplicable el artículo 62 constitucional.
-
-D. Seis designados por el Presidente de la República.
-
-E. Seis designados por el Jefe de Gobierno del Distrito Federal.
-
-F. Todos los diputados constituyentes ejercerán su encargo de forma honorífica, por lo que no percibirán remuneración alguna.
-
-La Asamblea Constituyente ejercerá en forma exclusiva todas las funciones de Poder Constituyente para la Ciudad de México y la elección para su conformación se realizará el primer domingo de junio de 2016 para instalarse el 15 de septiembre de ese año, debiendo aprobar la Constitución Política de la Ciudad de México, a más tardar el 31 de enero de 2017, por las dos terceras partes de sus integrantes presentes.
-
-Para la conducción de la sesión constitutiva de la Asamblea Constituyente, actuarán como Junta Instaladora los cinco diputados constituyentes de mayor edad. La Junta Instaladora estará constituida por un Presidente, dos Vicepresidentes y dos Secretarios. El diputado constituyente que cuente con mayor antigüedad será el Presidente de la Junta Instaladora. Serán Vicepresidentes los diputados constituyentes que cuenten con las dos siguientes mayores antigüedades y, en calidad de Secretarios les asistirán los siguientes dos integrantes que cuenten con las sucesivas mayores antigüedades.
-
-La sesión de instalación de la Asamblea se regirá, en lo que resulte conducente, por lo previsto en el artículo 15 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-
-Corresponderá a la Junta Instaladora conducir los trabajos para la aprobación del Reglamento para el Gobierno Interior de la Asamblea Constituyente de la Ciudad de México, mismo que deberá ser aprobado dentro de los diez días siguientes a la instalación de la Asamblea. Para su discusión y aprobación será aplicable en lo que resulte conducente el Reglamento Interior de la Cámara de Diputados.
-
-Es facultad exclusiva del Jefe de Gobierno del Distrito Federal elaborar y remitir el proyecto de Constitución Política de la Ciudad de México, que será discutido, en su caso modificado, adicionado, y votado por la Asamblea Constituyente, sin limitación alguna de materia. El Jefe de Gobierno deberá remitir el proyecto de la Constitución Política de la Ciudad de México a la Asamblea Constituyente a más tardar el día en que ésta celebre su sesión de instalación.
-
-Con la finalidad de cumplir con sus funciones, la Asamblea Constituyente de la Ciudad de México, deberá crear, al menos, tres comisiones para la discusión y aprobación de los dictámenes relativos al proyecto de Constitución.
-
-###### ARTÍCULO OCTAVO.
-
-Aprobada y expedida la Constitución Política de la Ciudad de México, no podrá ser vetada por ninguna autoridad y será remitida de inmediato para que, sin más trámite, se publique en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
-
-La Constitución Política de la Ciudad de México, entrará en vigor el día que ésta señale para la instalación de la Legislatura, excepto en lo que hace a la materia electoral, misma que será aplicable desde el mes de enero de 2017. En el caso de que sea necesario que se verifiquen elecciones extraordinarias, las mismas se llevarán a cabo de conformidad a la legislación electoral vigente al día de la publicación del presente Decreto.
-
-Se faculta a la Asamblea Legislativa del Distrito Federal, para legislar sobre los procedimientos e instituciones electorales que resultarán aplicables al proceso electoral 2017-2018.
-
-Al momento de la publicación de la Constitución Política de la Ciudad de México, cesarán las funciones de la Asamblea Constituyente. A partir de ello, las reformas y adiciones a la Constitución Política de la Ciudad de México se realizarán de conformidad con lo que la misma establezca.
-
-###### ARTÍCULO NOVENO.
-
-La integración, organización y funcionamiento de la Asamblea Constituyente de la Ciudad de México se regirá exclusivamente por lo dispuesto en el presente Decreto y en el Reglamento para su Gobierno Interior, conforme a las bases siguientes:
-
-I. La Asamblea Constituyente de la Ciudad de México tendrá las facultades siguientes:
-
-a) Elegir, por el voto de sus dos terceras partes, a los integrantes de su Mesa Directiva, en los términos que disponga el Reglamento para su Gobierno Interior, dentro de los cinco días siguientes a la aprobación de éste.
-
-En el caso de que transcurrido el plazo a que se refiere el párrafo anterior, no se hubiere electo a la Mesa Directiva, la Junta Instaladora ejercerá las atribuciones y facultades que el Reglamento para el Gobierno Interior de la Asamblea Constituyente le otorga a aquélla y a sus integrantes, según corresponda. La Junta Instaladora no podrá ejercer dichas atribuciones más allá del 5 de octubre de 2016.
-
-b) Sesionar en Pleno y en comisiones, de conformidad con las convocatorias que al efecto expidan su Mesa Directiva y los órganos de dirección de sus comisiones.
-
-c) Dictar todos los acuerdos necesarios para el cumplimiento de su función.
-
-d) Recibir el proyecto de Constitución Política de la Ciudad de México que le sea remitido por el Jefe de Gobierno del Distrito Federal.
-
-e) Discutir, modificar, adicionar y votar el proyecto de Constitución Política de la Ciudad de México.
-
-f) Aprobar, expedir y ordenar la publicación de la Constitución Política de la Ciudad de México.
-
-II. La Asamblea Constituyente gozará de plena autonomía para el ejercicio de sus facultades como Poder Constituyente; ninguna autoridad podrá intervenir ni interferir en su instalación y funcionamiento.
-
-III. La Asamblea Constituyente de la Ciudad de México sesionará en la antigua sede del Senado de la República en Xicoténcatl. Corresponderá a dicha Cámara determinar la sede de la Asamblea Constituyente para su instalación, en caso de que por circunstancias de hecho no fuere posible ocupar el recinto referido. El pleno de la Asamblea Constituyente podrá determinar en cualquier momento, la habilitación de otro recinto para sesionar.
-
-IV. Los recintos que ocupe la Asamblea Constituyente de la Ciudad de México para el cumplimiento de su función, son inviolables. Las autoridades federales y del Distrito Federal deberán prestar el auxilio que les solicite el Presidente de la Asamblea Constituyente para salvaguardar la inviolabilidad de los recintos que ésta ocupe y para garantizar a sus integrantes el libre ejercicio de su función.
-
-V. La Asamblea Constituyente sesionará en Pleno y en comisiones, de conformidad con lo que disponga su Reglamento. Las sesiones del Pleno requerirán la asistencia, por lo menos, de la mayoría del total de sus integrantes y sus acuerdos se adoptarán con la votación de las dos terceras partes del total de sus integrantes. Las sesiones de las Comisiones requerirán la asistencia de la mayoría de sus integrantes y sus determinaciones se adoptarán con la votación de la mayoría de los presentes. En todos los casos las discusiones deberán circunscribirse al tema objeto del debate.
-
-VI. La Asamblea Constituyente de la Ciudad de México no podrá interferir, bajo ninguna circunstancia, en las funciones de los Poderes de la Unión ni de los órganos del Distrito Federal, ni tendrán ninguna facultad relacionada con el ejercicio del gobierno de la entidad. Tampoco podrá realizar pronunciamientos o tomar acuerdos respecto del ejercicio de los Gobiernos Federal o del Distrito Federal o de cualquier otro poder federal o local.
-
-###### ARTÍCULO DÉCIMO.
-
-El Congreso de la Unión, en la expedición de las leyes a que se refiere el párrafo tercero del Apartado B y el primer párrafo del Apartado C del artículo 122, deberá prever que las mismas entren en vigor en la fecha en que inicie la vigencia de la Constitución Política de la Ciudad de México.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Todos los inmuebles ubicados en la Ciudad de México que estén destinados al servicio que prestan los poderes de la Federación, así como cualquier otro bien afecto a éstos, continuarán bajo la jurisdicción de los poderes federales.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-Los jueces y magistrados del Tribunal Superior de Justicia del Distrito Federal se integrarán en el Poder Judicial de la Ciudad de México, una vez que éste inicie sus funciones, de conformidad con lo que establezca la Constitución Política de dicha entidad.
-
-###### ARTÍCULO DÉCIMO TERCERO.
-
-Los recursos de revisión interpuestos contra las resoluciones del Tribunal de lo Contencioso Administrativo del Distrito Federal, de conformidad con lo dispuesto por el artículo 104, fracción III de esta Constitución, que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, continuarán el trámite que corresponda conforme al régimen jurídico aplicable al momento de su interposición, hasta su total conclusión.
-
-En tanto en la Ciudad de México no se emitan las disposiciones legales para la presentación y sustanciación de los recursos de revisión interpuestos contra las resoluciones del Tribunal de Justicia Administrativa de la Ciudad de México, dichos recursos serán conocidos y resueltos por los Tribunales de la Federación, en los términos de la fracción III del artículo 104 constitucional.
-
-###### ARTÍCULO DÉCIMO CUARTO.
-
-A partir de la fecha de entrada en vigor de este Decreto, todas las referencias que en esta Constitución y demás ordenamientos jurídicos se hagan al Distrito Federal, deberán entenderse hechas a la Ciudad de México.
-
-###### ARTÍCULO DÉCIMO QUINTO.
-
-Los ciudadanos que hayan ocupado la titularidad del Departamento del Distrito Federal, de la Jefatura de Gobierno o del Ejecutivo local, designados o electos, en ningún caso y por ningún motivo podrán ocupar el de Jefe de Gobierno de la Ciudad de México, ni con el carácter de interino, provisional, sustituto o encargado de despacho.
-
-###### ARTÍCULO DÉCIMO SEXTO.
-
-Las Alcaldías accederán a los recursos de los fondos y ramos federales en los términos que prevea la Ley de Coordinación Fiscal.
-
-###### ARTÍCULO DÉCIMO SÉPTIMO.
-
-Dentro de las funciones que correspondan a las Alcaldías, la Constitución Política de la Ciudad de México y las leyes locales contemplarán, al menos, aquéllas que la Ley Orgánica de la Administración Pública del Distrito Federal vigente a la entrada en vigor del presente Decreto, señala para los titulares de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, con base en lo establecido por el artículo 122 constitucional.
-
-Las competencias de las Alcaldías, a que se refiere el presente artículo Transitorio, deberán distribuirse entre el Alcalde y el Concejo de la Alcaldía, en atención a lo dispuesto en la Base VI del Apartado A del artículo 122 constitucional, reformado mediante el presente Decreto.
-
-D.O.F. 25 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-X AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
@@ -12755,60 +10753,6 @@ D.O.F. 30 DE DICIEMBRE DE 1946.
 
 DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 104.
 
-###### ARTICULO UNICO.
-
-Esta Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA EL ARTÍCULO 3°.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 73 Y ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 117.
-
-UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 12 DE FEBRERO DE 1947.
-
-DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTÍCULO 27.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 12 DE FEBRERO DE 1947.
-
-DECRETO QUE ADICIONA EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DEL ARTÍCULO 115.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 29 DE DICIEMBRE DE 1947.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 2 DE DICIEMBRE DE 1948.
-
-DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 20.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 2 DE DICIEMBRE DE 1948.
-
-DECRETO QUE ADICIONA LA FRACCIÓN I DEL ARTÍCULO 27.
-
-###### ARTICULO UNICO.
-
-La presente adición a la fracción I del artículo 27 de la Constitución General de la República entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
-
-D.O.F. 10 DE FEBRERO DE 1949.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 19 DE FEBRERO DE 1951.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
-
 ###### ARTICULO PRIMERO.
 
 Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
@@ -12816,52 +10760,6 @@ Dentro de los treinta días siguientes al en que entre en vigor esta reforma con
 ###### ARTICULO SEGUNDO.
 
 Cuando estas designaciones recaigan en Magistrados o Jueces del Poder Judicial de la Federación, que lleven actualmente más de cuatro años ininterrumpidos en el desempeño de su encargo, ya sea que se les reelija o que sean promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, ó previo el juicio de responsabilidad correspondiente.
-
-###### ARTICULO TERCERO.
-
-Los magistrados de Circuito y los Jueces de Distrito, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
-
-###### ARTICULO CUARTO.
-
-Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en la Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberán integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
-
-Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
-
-###### ARTICULO QUINTO.
-
-Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
-
-###### ARTICULO SEXTO.
-
-Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
-
-###### ARTICULO SEPTIMO.
-
-La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
-
-###### ARTICULO OCTAVO.
-
-Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
-
-###### ARTICULO NOVENO.
-
-El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
-
-D.O.F. 28 DE MARZO DE 1951.
-
-###### ARTICULO UNICO.
-
-La adición al artículo 131 de la Constitución General de la República, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 11 DE JUNIO DE 1951.
-
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
-
-D.O.F. 16 DE ENERO DE 1952.
 
 ###### ARTICULO PRIMERO.
 
@@ -12880,10 +10778,6 @@ D.O.F. 20 DE ENERO DE 1960.
 UNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 5 DE DICIEMBRE DE 1960.
-
-###### ARTICULO PRIMERO.
-
-Esta reforma entrará en vigor al día siguiente de la publicación de esta ley en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO PRIMERO.
 
@@ -12913,97 +10807,9 @@ UNICO.- La presente ley entrará en vigor el día de su publicación en el "Diar
 
 D.O.F. 21 DE NOVIEMBRE DE 1962.
 
-###### ARTICULO UNICO.
-
-Esta Ley principiará a regir al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 22 DE JUNIO DE 1963.
-
-ARTICULO UNICO TRANSITORIO.- Las presentes adiciones y reformas entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 23 DE FEBRERO DE 1965.
-
-Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 13 DE ENERO DE 1966.
-
-TRANSITORIO.- La presente adición entrará en vigor a partir de los cinco días de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 21 DE OCTUBRE DE 1966.
-
-DECRETO QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 73 Y DEROGA LA FRACCIÓN IX DEL ARTÍCULO 89 Y LA FRACCIÓN II DEL ARTÍCULO 117.
-
-UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 21 DE OCTUBRE DE 1966.
-
-DECRETO QUE REFORMA LA FRACCIÓN III Y ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 79, REFORMA EL ARTÍCULO 88, LA FRACCIÓN XVI DEL ARTÍCULO 89 Y ADICIONA EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 135.
-
-UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 24 DE OCTUBRE DE 1967.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 25 DE OCTUBRE DE 1967.
-
-###### ARTICULO 1o.
-
-Estas reformas entrarán en vigor el mismo día que entren en vigor las reformas a la Ley Orgánica del Poder Judicial de la Federación y a la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Federal, que habrán de expedirse como consecuencia de estas mismas reformas.
-
-###### ARTICULO 2o.
-
-Los ministros supernumerarios se constituirán en Sala Auxiliar para resolver los amparos contra leyes, que integran el rezago. La Sala Auxiliar dictará sentencia con sujeción a la jurisprudencia del Pleno y estudiará también cuando proceda los conceptos de violación que se refieran a cuestiones de legalidad. Estos asuntos se le turnarán desde luego si sobre su materia existe jurisprudencia, y los demás del rezago, a medida que la jurisprudencia del Pleno se vaya definiendo. Asimismo, resolverá sobre los asuntos que la Ley Orgánica del Poder Judicial de la Federación le encomiende para desahogar el rezago que exista en las Salas de la Suprema Corte de Justicia. Cuando la Sala Auxiliar hubiere de participar en la resolución de conflictos jurisprudenciales con cualquiera de las otras Salas, los ministros supernumerarios que la integren formarán parte del Pleno. Entre tanto funcione la Sala Auxiliar, los ministros que la integren no desempeñarán las atribuciones que como supernumerarios les asigna la ley.
-
-###### ARTICULO 3o.
-
-Los amparos contra sentencias definitivas dictadas por el Tribunal Fiscal de la Federación, pendientes de resolución ante los Juzgados de Distrito, que en términos de estas reformas deben ser directos, se remitirán a los Tribunales Colegiados de Circuito y en su caso a la Suprema Corte de Justicia.
-
-###### ARTICULO 4o.
-
-Los amparos directos o en revisión que en la actualidad radican en la Suprema Corte de Justicia y que, conforme a la ley, pasan a ser de la competencia de los Tribunales Colegiados de Circuito, se enviarán desde luego, para su resolución, al que corresponda. Si existen dos o más tribunales en un mismo circuito, se les distribuirán proporcionalmente.
-
-###### ARTICULO 5o.
-
-En los juicios de amparo a que se refiere la fracción V del artículo 107 y que, de acuerdo con las presentes reformas, deben ser turnados a la Suprema Corte de Justicia, ésta conocerá tanto de las violaciones procesales como del fondo del negocio.
-
 ###### ARTICULO TERCERO.
 
 Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
-
-###### ARTICULO CUARTO.
-
-La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
-
-D.O.F. 15 DE DICIEMBRE DE 1934.
-
-DECRETO QUE REFORMA EL ARTÍCULO 32.
-
-###### ARTICULO 1o.
-
-Se concede un plazo de seis meses a los agentes aduanales que en la actualidad funcionen sin tener la calidad de ciudadanos mexicanos por nacimiento para que hagan entrega de sus oficinas respectivas.
-
-###### ARTICULO 2o.
-
-Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 16 DE ENERO DE 1935.
-
-###### ARTICULO 1o.
-
-La presente reforma entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO 2o.
-
-Los bienes inmuebles ubicados en la nueva entidad federativa, que pasaron a ser propiedad de los Estados de Yucatán y Campeche, con motivo del Decreto de 24 de octubre de 1932, así como los que con posterioridad se hubieren destinado al servicio público, pertenecerán al territorio de Quintana Roo; lo mismo se observará respecto de los bienes muebles que tengan igual destino, ya se encuentren dentro de los inmuebles de referencia o fuera de ellos.
-
-###### ARTICULO 3o.
-
-La organización política y judicial del Territorio de Quitana (sic) Roo, se regirá transitoriamente, en tanto no se reformen las leyes en vigor, por las que le eran aplicables el 14 de diciembre de 1931, en todo lo que no pugnen con la Constitución Federal.
-
-###### ARTICULO 4o.
-
-Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que hubieren contraído los Estados de Yucatán y Campeche, con motivo de la administración del territorio anexado, quedarán a cargo de los Erarios respectivos y a su favor, igualmente, los créditos pendientes constituídos por el mismo objeto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 19 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE FORTALECIMIENTO DE LA SOBERANÍA NACIONAL".]
 
