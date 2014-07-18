@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-25548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-23"
-last_updated: "2012-10-15"
+last_updated: "2014-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-08-20"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de agosto de 2002.
 
@@ -839,6 +839,10 @@ V.- Auxiliar a la Secretaría de la Defensa Nacional en la expedición de Cartil
 
 VI.- Cotejar los documentos públicos o privados que en original tengan a la vista y certificar las copias correspondientes. Para ello llevarán un libro de cotejos en los términos que determine la Secretaría;
 
+> <small>(ADICIONADA, D.O.F. 18 DE JULIO DE 2014)</small>
+
+VI Bis.- Expedir, en las formas que determine la Secretaría, copias certificadas de las diversas actas del estado civil de mexicanos, emitidas por los registros civiles del territorio nacional, mediante la transmisión electrónica de las mismas que realice la Secretaría de Gobernación de conformidad con los convenios de colaboración que al efecto se suscriban;
+
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2005)</small>
 
 VII.- Expedir en su circunscripción, declaratorias de nacionalidad mexicana por nacimiento, así como certificados a petición de parte dentro del ámbito de sus atribuciones;
@@ -1398,3 +1402,9 @@ D.O.F. 15 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Dirección General del Servicio Exterior y de Recursos Humanos de la Secretaría realizará los trámites necesarios para la aplicación de las disposiciones contenidas en el presente Decreto.
+
+D.O.F. 18 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que en su caso sean necesarias para la instrumentación del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Relaciones Exteriores, por lo que no se requerirá de recursos adicionales para tal efecto, y por tanto no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni los subsecuentes.
