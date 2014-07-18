@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-03-19"
+last_updated: "2014-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1799,9 +1799,17 @@ El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y e
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción de los supuestos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2014)</small>
 
-Las Salas se organizarán por materia o por circuito y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Los Magistrados Supernumerarios integrarán las Salas, en los supuestos y con la temporalidad prevista en esta Constitución y en la Ley Orgánica del Poder Judicial. Las apelaciones en los Juicios de Oralidad Familiar, serán resueltas de forma unitaria en los casos previstos por la ley, por un Magistrado Numerario, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
+Las Salas se integraran por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional y Administrativa se integrará con un Magistrado Numerario.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
+
+Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y Administrativa y el Magistrado Consejero.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
+
+El Pleno del Tribunal Superior de Justicia de oficio o a petición fundada por parte de la Sala correspondiente podrá conocer de los asuntos que por su interés o trascendencia así lo ameriten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2013)</small>
 
@@ -1820,6 +1828,10 @@ En las ausencias temporales y en las definitivas del Magistrado Presidente será
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 En los casos de ausencia temporal menor a treinta días hábiles, de algún Magistrado diferente a la figura del Presidente dentro del Pleno del Tribunal Superior de Justicia, éste último, elegirá dentro de los Magistrados supernumerarios quien supla al Magistrado numerario ausente.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
+
+Los Magistrados Supernumerarios, podrán ejercer funciones jurisdiccionales, integrando sala unitaria o colegiada, con la adscripción, competencia, jurisdicción y tiempo que el Pleno determine, cuando se estime que las necesidades del servicio así lo requieran.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
@@ -4287,7 +4299,7 @@ T R A N S I T O R I O:
 
 P.O. 28 DE ENERO DE 2011.
 
-PRIMERO.- El presente Decreto relativo al nuevo sistema de reinserción previsto en el párrafo segundo del Artículo 26, así como el régimen de modificación y duración de penas establecidas, en el Artículo 29, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del día 19 de junio del año 2011.
+PRIMERO.- El presente Decreto relativo al nuevo sistema de reinserción previsto en el párrafo segundo del Artículo 26, así como el régimen de modificación y duración de penas establecidas en el Artículo 29, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del día 19 de junio del año 2011.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
 
@@ -4472,3 +4484,9 @@ P.O. 14 DE MARZO DE 2014.
 P.O. 19 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
