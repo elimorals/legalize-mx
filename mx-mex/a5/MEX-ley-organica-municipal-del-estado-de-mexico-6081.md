@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-07-11"
+last_updated: "2014-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1487,9 +1487,13 @@ t) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna 
 
 u) De Protección e Inclusión a Personas con Discapacidad;
 
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
+
+v) De prevención social de la violencia y la delincuencia;
+
 > <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
 
-v) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
+w) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2507,7 +2511,7 @@ II. Renuncia;
 
 III. Incapacidad permanente que le impida el desempeño de sus funciones;
 
-IV. incurrir (sic) en 3 o más faltas de asistencia a sus labores sin causa justificada dentro de un lapso de 30 días;
+IV. incurrir en 3 o más faltas de asistencia a sus labores sin causa justificada dentro de un lapso de 30 días;
 
 V. Haber sido condenado mediante sentencia ejecutoriada por delito doloso;
 
@@ -4088,3 +4092,9 @@ DECRETO NÚMERO 255 POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACC
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 18 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
