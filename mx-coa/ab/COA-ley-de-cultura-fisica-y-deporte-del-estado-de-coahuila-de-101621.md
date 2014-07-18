@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2014-06-17"
+last_updated: "2014-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 18 DE JULIO DE 2014.</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -413,7 +413,9 @@ V. Efectuar la suplencia en la deficiencia de queja, cuando el solicitante no se
 
 VI. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar o que no observen en sus términos los acuerdos, decisiones, laudos y resoluciones emitidos por la propia comisión; y
 
-Las demás que establezca la presente ley y otras disposiciones reglamentarias.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2014)</small>
+
+VII. Las demás que establezca la presente ley y otras disposiciones reglamentarias.
 
 ###### ARTÍCULO 29.
 
@@ -725,9 +727,11 @@ T R A N S I T O R I O S
 
 La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley del Deporte para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial del Gobierno del Estado en fecha 27 de julio de 1999.
+Se abroga la Ley de Cultura Física y Deporte para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, número 11, de fecha 6 de febrero de 2009.
 
 ###### ARTÍCULO TERCERO.
 
