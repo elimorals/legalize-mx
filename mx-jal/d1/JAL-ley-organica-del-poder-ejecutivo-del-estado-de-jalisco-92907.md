@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2013-03-20"
+last_updated: "2014-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -543,9 +543,17 @@ XIV. Promover, en coordinación con la dependencia competente, la práctica y de
 
 XV. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-XVI. Promover, en el ámbito de su competencia, los principios de equidad y no discriminación entre las personas, así como vigilar la observancia de tales principios al interior de la Secretaría y de los planteles educativos a su cargo; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2014)</small>
 
-XVII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XVI. Promover, en el ámbito de su competencia, los principios de equidad y no discriminación entre las personas, así como vigilar la observancia de tales principios al interior de la Secretaría y de los planteles educativos a su cargo;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2014)</small>
+
+XVII. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2014)</small>
+
+XVIII. Las demás que establezcan con otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 16.
 
@@ -922,6 +930,10 @@ XXVI. Proponer al Gobernador del Estado la expedición de los títulos, grados y
 XXVII. Aprobar la incorporación y revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza superior o tecnológica impartida en el Estado, conforme a la ley, y
 
 XXVIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2014)</small>
+
+En lo relativo a las instituciones de educación superior y tecnologia a los que se refiere este articulo respecto a la formación actualización, capacitación y superior profesional del personal docente, ésta le corresponderá a la Secretaría de Educación de conformidad a la fracción XVII del artículo 15 de esta ley, y de las disposiciones federales en materia educativa.
 
 ###### Artículo 24.
 
@@ -1371,7 +1383,7 @@ I. Realizar actividades correspondientes a las áreas estratégicas o prioritari
 
 II. Ejecutar proyectos estratégicos o especializados de acuerdo a su competencia;
 
-III. Prestar servicios públicos o sociales, incluyentes e integrales con una visión de ciudadanía igualitaria, o (sic)
+III. Prestar servicios públicos o sociales, incluyentes e integrales con una visión de ciudadanía igualitaria, o
 
 IV. Obtención y aplicación de recursos para fines de asistencia pública, desarrollo e inclusión social y seguridad social.
 
@@ -1934,3 +1946,7 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 P.O. 20 DE MARZO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
