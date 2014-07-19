@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2014-07-12"
+last_updated: "2014-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -131,7 +131,9 @@ VII. Las demás que esta Ley y el Reglamento General establezcan.
 
 El día siete de septiembre del año de la elección, se llevará a efecto sesión solemne de la transmisión del Poder Legislativo a la que se invitará al titular del Poder Ejecutivo y al representante del Poder Judicial, presidida por la Mesa Directiva de la Comisión Instaladora, de conformidad a lo siguiente:
 
-I. Se pasará lista de presentes a los diputados, a efecto de que se sesione con la mayoría de sus miembros; de igual forma a los diputados electos. En términos del artículo 58 de la Constitución Política del Estado, los diputados electos ausentes, serán llamados;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2014)</small>
+
+I. Se pasará lista de presentes a los diputados, a efecto de que se sesione con la mayoría de sus miembros; de igual forma a los diputados electos. En términos del artículo 58 de la Constitución Política del Estado, los diputados electos ausentes, serán llamados; establecido el quórum, se rendirán honores a los símbolos patrios entonando el Himno Nacional Mexicano;
 
 II. La Mesa Directiva de la Comisión Instaladora, por conducto de uno de sus secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior;
 
@@ -163,7 +165,11 @@ IX. Enseguida, el Presidente dirá en voz alta:
 
 “LA HONORABLE (NÚMERO) LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS QUEDA, HOY SIETE DE SEPTIEMBRE DEL (AÑO), SOLEMNE Y LEGÍTIMAMENTE INSTALADA PARA EL EJERCICIO DE SUS FUNCIONES”; y
 
-X. Por último, el Presidente de la Mesa Directiva citará a los diputados para el día ocho del propio mes, para la apertura de los trabajos de la nueva Legislatura.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2014)</small>
+
+X. El Presidente instruirá para que se proceda a entonar la Marcha de Zacatecas; y
+
+XI. Por último, el Presidente de la Mesa Directiva citará a los diputados para el día ocho del propio mes, para la apertura de los trabajos de la nueva Legislatura.
 
 ### CAPÍTULO III. Del proceso de entrega-recepción
 
@@ -897,6 +903,10 @@ El día en que la Legislatura inicie su periodo ordinario de sesiones, el Presid
 
 En los periodos ordinarios la Legislatura deberá celebrar sesiones cuantas veces sea necesario para el oportuno y eficaz despacho de los negocios de su competencia y por lo menos dos veces a la semana.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2014)</small>
+
+En la apertura de los periodos ordinarios, los grupos parlamentarios, previo acuerdo de la Comisión de Régimen Interno y Concertación Política, podrán presentar su posicionamiento en un tiempo que no excederá de 10 minutos para cada participante.
+
 #### Sección Octava. De los tipos de sesiones
 
 ###### ARTÍCULO 74.
@@ -937,7 +947,9 @@ VI. Estén presentes en visita oficial delegaciones de legisladores federales de
 
 VII. Les sea tomada la protesta a los magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, a los Consejeros Electorales y a los representantes de la Legislatura ante el Instituto Electoral del Estado; al Presidente y miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos y otros servidores públicos que deban rendir protesta ante ésta;
 
-VIII. Inicien y clausuren los periodos ordinarios y extraordinarios; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2014)</small>
+
+VIII. Inicien y clausuren los periodos ordinarios y extraordinarios; en la apertura y clausura de los periodos ordinarios se entonará siempre el Himno Nacional Mexicano para rendir honores a los símbolos patrios; y
 
 IX. Cuando así lo determine la Mesa Directiva o la Comisión Permanente.
 
@@ -2798,3 +2810,9 @@ P.O. 12 DE JULIO DE 2014.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 19 DE JULIO DE 2014.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
