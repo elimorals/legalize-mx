@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2013-12-22"
+last_updated: "2014-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS EN EL DECRETO PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -483,11 +481,21 @@ Se justificará el retardo, falta o ausencia de un diputado, cuando previamente 
 
 Las faltas de asistencia a las reuniones de las comisiones legislativas, sólo serán justificadas por el Presidente de las mismas cuando medie causa de fuerza mayor inevitable o enfermedad; en este caso, se observará lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2014)</small>
 
 ###### Artículo 41.
 
-Corresponde al Pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada; así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
+Corresponde al Pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+Para obtener licencia para separarse del cargo por tiempo determinado o indeterminado, los diputados lo solicitarán por escrito con firma autógrafa y con señalamiento de la causa ante el Presidente de la Mesa Directiva. La solicitud será resuelta por el Pleno en la sesión inmediata. La misma surtirá efectos a partir de su presentación o en fecha posterior señalada en el escrito de referencia.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+Para reincorporarse al ejercicio de las actividades legislativas, el diputado con licencia lo informará por escrito al Presidente de la Mesa, quien notificará al suplente para que cese en el ejercicio de su cargo en la fecha que se indique de igual manera lo hará del conocimiento del Pleno y dela (sic) Oficialía Mayor, para los efectos legales conducentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Se entiende que los diputados que falten a tres sesiones consecutivas del pleno sin causa justificada y sin previo aviso al Presidente, renuncian a desempeñar su cargo, llamándose desde luego a los suplentes.
 
@@ -527,7 +535,9 @@ VII. Asistir a las sesiones del Congreso con puntualidad, de principio a fin, pu
 
 VIII. Concurrir con toda oportunidad a las sesiones de las juntas preparatorias;
 
-IX. Presentar el informe anual de actividades legislativas y de gestoría, durante la segunda quincena del mes de junio de cada año legislativo;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+
+IX. Presentar el informe anual de actividades legislativas y de gestoría, durante la segunda quincena del mes de agosto de cada año legislativo;
 
 X. Asistir a las reuniones de las comisiones de las que formen parte y a las cuales hayan sido citados con oportunidad;
 
@@ -535,7 +545,9 @@ XI. Guardar prudente reserva de todo lo que se trate o resuelva en las sesiones 
 
 XII. Abstenerse de dictaminar en las iniciativas y asuntos en que tengan interés personal o que interesen de la misma manera a sus cónyuges o a sus parientes consanguíneos, en línea recta, sin limitación de grado; a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
 
-XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones del Congreso, de la Comisión Permanente y de las comisiones legislativas;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+
+XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones del Congreso y de las comisiones legislativas;
 
 XIV. Observar las normas de cortesía y el respeto para con los miembros del Congreso, así como para con los servidores públicos e invitados al recinto oficial;
 
@@ -621,13 +633,17 @@ Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2014)</small>
 
 ###### Artículo 51.
 
-Durante su ejercicio constitucional, la legislatura sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, pero deberá celebrar por lo menos tres sesiones al mes; la Gran Comisión acordará las fechas en que la Legislatura gozará de periodo vacacional, durante las cuales, el Pleno no celebrará sesiones, a menos que estas tengan carácter de extraordinarias.
+Durante su ejercicio constitucional, la legislatura sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, en los periodos vacacionales del personal del Congreso, el Pleno no celebrará sesiones a menos que estas tengan carácter de extraordinarias.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Son sesiones extraordinarias aquellas que sean convocadas por el Presidente de la Mesa Directiva, o en su caso, por la mayoría de sus integrantes, en los periodos vacacionales o por tratarse de un asunto urgente, todas las demás sesiones se considerarán ordinarias.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Los decretos de convocatoria y las declaraciones de apertura y clausura de cada año de ejercicio constitucional serán publicados en el Periódico Oficial del Gobierno del Estado de Durango y comunicados al Titular del Poder Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos de la Entidad, a las Cámaras del H. Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
@@ -969,7 +985,9 @@ XIV. Rendir u ordenar que se rindan los informes previos y justificados que se d
 
 XV. Aplicar las medidas disciplinarias que le faculte expresamente la ley, al diputado o diputados que se resistan a acatar las resoluciones dictadas por las instancias de gobierno del Congreso;
 
-XVI. Conceder permisos y licencias a los diputados en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+
+XVI. Conocer de las solicitudes de permisos y licencias de los diputados y proceder en los términos de esta ley;
 
 XVII. Citar a sesiones extraordinarias, cuando lo señale la Ley, lo acuerde la asamblea o lo considere necesario, en cuyo caso deberá hacerlo con veinticuatro horas de anticipación como mínimo.
 
@@ -1535,7 +1553,9 @@ I. Legislación electoral del Estado;
 
 II. Legislación sobre el Municipio Libre;
 
-III. Licencias del Gobernador, Diputados y Magistrados del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+
+III. Licencias del Gobernador y Magistrados del Poder Judicial del Estado;
 
 IV. Conflictos de límites que se susciten entre los Municipios del Estado;
 
@@ -1569,7 +1589,9 @@ II. Leyes de ingresos del Estado y municipios; y Ley de Egresos del Estado;
 
 III. Autorizaciones al Ejecutivo del Estado y a los Ayuntamientos, para contratar empréstitos cuyo plazo de amortización exceda de su período constitucional;
 
-IV. Autorizaciones al Ejecutivo del Estado y a los municipios para la enajenación de bienes inmuebles propiedad de los mismos; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+
+IV. Autorizaciones al Titular del Poder Ejecutivo para la enajenación de bienes inmuebles propiedad del Estado; y
 
 V. Cuentas Públicas de gasto anual del Estado y municipios, en base al informe que rinda la Entidad de Auditoria Superior del Estado.
 
@@ -2179,13 +2201,17 @@ Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acord
 
 ### CAPÍTULO II. DE LAS INICIATIVAS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2014)</small>
 
 ###### Artículo 170.
 
-La iniciación es la etapa del proceso legislativo en la que los sujetos facultados para ello, presentan al Congreso del Estado, iniciativas de ley o decretos para modificar nuevas normas, derogar o abrogar ordenamientos vigentes.
+La iniciación es la etapa del proceso legislativo en la cual los sujetos legitimados para ello presentan al Congreso del Estado una propuesta para crear, abrogar, reformar, adicionar o derogar disposiciones constitucionales o legales.
 
-La iniciativa es una propuesta fundada y motivada que el iniciador presenta al Congreso del Estado, para regular una materia determinada.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2014)</small>
+
+Las iniciativas se presentarán según las formalidades previstas en esta Ley o en su caso, la legislación aplicable a la iniciativa popular.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Según su extensión y la diversidad de las materias que contengan las iniciativas se dividirán en libros, éstos en títulos, éstos en capítulos, éstos en secciones, éstos en artículos y éstos en apartados, párrafos, numerales, fracciones e incisos.
 
@@ -3239,19 +3265,241 @@ Si de las conclusiones de la Comisión de Derechos Humanos del Congreso, se deri
 
 De acuerdo a su naturaleza, se aplicarán al procedimiento las prevenciones que en materia de juicio político y declaración de procedencia prevé esta ley y en cuanto fuera aplicable, la ley de Responsabilidades de los Servidores Públicos del estado y Municipios de Durango.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+## TÍTULO SEXTO. DE LAS CONDECORACIONES, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2014)</small>
 
 ###### Artículo 288.
 
-En el caso de responsabilidades administrativas se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Durango, asumiendo el Pleno el carácter de superior jerárquico, en tratándose de servidores públicos de extracción popular de carácter municipal, los servidores públicos de mando medio y superior del Congreso y de los servidores públicos de los Organismos autónomos por disposición constitucional. En el caso de munícipes, se estará a lo previsto en el capítulo anterior.
+Las condecoraciones, premios y reconocimientos previstos en este Título se otorgarán en correspondencia pública de una conducta o de una trayectoria vital ejemplares; por servicios notables prestados en beneficio de la Humanidad, de la Nación, del Estado, de la comunidad o de cualquier persona; o por la realización de obras científicas, artísticas o culturales singularmente destacadas.
 
-Si las sanciones fueren de sanción económica, inhabilitación, destitución o suspensión, y el servidor público perteneciere a los Poderes Ejecutivo o Judicial, el Congreso en vía de moción de censura, propondrá la imposición de las medidas sancionatorias al órgano que corresponda, previa notificación al Titular del Poder que corresponda.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2014)</small>
 
 ###### Artículo 289.
 
-Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
+Las condecoraciones y reconocimientos podrán concederse con carácter póstumo, para lo cual, se entregará simbólicamente el pergamino y medalla al o los familiares del homenajeado, que sean designados por la misma familia en el acto que para el efecto se realice. De no haber sido localizado familiar alguno, el director de una institución educativa vinculada con la vida del homenajeado o que lleve el nombre de éste, podrá recibir el reconocimiento y guardarlo en el lugar de honor que corresponda en la institución.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 290.
+
+Los reconocimientos se podrán otorgar en los términos previstos en este Título, a los ciudadanos ya sea considerados como personas en lo individual o en grupo, a las personas morales y a las instituciones, que con su actuar hayan dado prestigio al Estado de Durango, o contribuido significativamente al desarrollo político, económico, social o cultural de Durango o de la Nación.
+
+Las fechas históricas y acontecimientos relevantes, a los que se hace un reconocimiento, deberán referirse a eventos de trascendencia que hayan influido en el desarrollo político, social, deportivo, económico y cultural del Estado de Durango o del país.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 291.
+
+Los reconocimientos especiales se concederán de manera pública a las personas físicas o morales con un mérito civil relevante.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO II. DE LAS CONDECORACIONES
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 292.
+
+El Congreso del Estado concederá las siguientes Condecoraciones:
+
+I. Medalla Guadalupe Victoria.- Esta es la más alta presea que otorga el pueblo de Durango y se concederá para premiar relevantes servicios prestados a la Humanidad, a la Patria, al Estado o a la comunidad; actos heroicos; méritos eminentes y conducta o trayectoria vital ejemplares;
+
+II. Medalla Francisco Villa.- Esta se conferirá a los servidores públicos del Estado, o de los municipios, que por su capacidad organizativa o por su eficiente y entusiasta entrega a su cotidiana labor, mejoren la productividad en el área de su adscripción, o sean un positivo ejemplo para la superación de los demás trabajadores.;
+
+III. Medalla Francisco Zarco.- Se otorgará a los periodistas locales, nacionales o extranjeros que con su trabajo hayan contribuido al fortalecimiento de la libertad de información.
+
+IV. Medalla Francisco Castillo Nájera.- Esta se podrá otorgar a:
+
+a) Diplomáticos extranjeros debidamente acreditados en el país y que en su trabajo se hayan distinguido por sus acciones a favor de la promoción cultural, educativa y económica de Durango o los duranguenses.
+
+b) Los extranjeros en reconocimiento a sus acciones cívicas, por sus producciones o trabajos docentes, de investigación o de divulgación de la ciencia, la cultura y la economía.
+
+V. Medalla Francisco González de la Vega.- Esta se concederá a quienes constituyan, en su comunidad, respetables ejemplos de dignidad cívica por su diligente cumplimiento de la Ley, la firme y serena defensa de los derechos propios y de los demás, el respeto a las instituciones públicas y en general, por su relevante comportamiento ciudadano;
+
+VI. Medalla José Guadalupe Aguilera.- Esta se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo científico o tecnológico del país o del Estado, en el campo de las ciencias, la tecnología o la innovación en todas sus ramas; así como a la enseñanza de los valores humanos y aportaciones docentes en beneficio de la niñez y juventud duranguense durante su etapa de formación;
+
+VII. Medalla Silvestre Revueltas.- Esta se otorgará a quienes por sus acciones, producciones o trabajos docentes, de investigación o de divulgación hayan contribuido a enriquecer el acervo cultural del país o del Estado, en el campo de las artes en cual quiera (sic) de sus manifestaciones o a la difusión cultural de lo duranguense;
+
+VIII. Medalla José Fernando Ramírez.- Esta se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el estudio de la historia, arqueología y paleontología del Estado y la nación;
+
+IX. Medalla Francisca Iturbe Fierro.- Esta se otorgará a quienes desinteresadamente, y por propia voluntad, con sacrificio económico o de su tiempo o comodidad, hayan realizado o estén realizando actos de manifiesta solidaridad humana que contribuyan al bienestar y propicien el desarrollo de la comunidad, ya sea cooperando al remedio o alivio en caso de catástrofe o siniestro; o prestando ayuda o asistencia a grupos o individuos socialmente marginados, en pobreza extrema o a grupos vulnerables; y
+
+X. Medalla al Mérito Deportivo.- Esta se otorgará a personas físicas, ya sea en lo individual o en grupo, pero tratándose de promotores del deporte podrá concederse también a personas morales y se concederá por:
+
+a) La actuación particularmente relevante en alguna rama del deporte, en eventos locales, nacionales o internacionales llevada a cabo por personas que se dediquen a estas actividades como profesionales o aficionados; y
+
+b) Por el impulso o el fomento al desarrollo del deporte.
+
+XI. Premio Estatal del Periodismo.- Cada año el Congreso del Estado, a través de la Gran Comisión y en coordinación con los periodistas de la entidad, emitirá la convocatoria correspondiente con la finalidad de llevar a cabo un concurso estatal denominado: "Premio Estatal de Periodismo", en el cual, podrán participar los periodistas locales que cumplan con los requisitos establecidos en la misma.
+
+El 7 de junio del año que corresponda, el Congreso del Estado en espacio solemne en sesión del Pleno, otorgará las condecoraciones o reconocimientos respectivos a los periodistas ganadores.
+
+Una misma persona podrá recibir dos o más condecoraciones, siempre y cuando estas sean distintas, pero nunca podrá entregarse la misma condecoración más de una vez, a una persona o institución, aunque hubiese sido propuesta en años diferentes.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 293.
+
+Las condecoraciones consistirán en la entrega de:
+
+I. Un diploma en el que se expresarán las razones por las que se confiere y una síntesis del acuerdo respectivo con la firma del Presidente y los secretarios de la Mesa Directiva; y
+
+II. Una medalla, cuyas características serán a probadas (sic) por la Comisión Especial de Evaluación.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 294.
+
+La propuesta para que sea otorgada una condecoración, de las señaladas en el artículo 292, se deberá presentar ante el Pleno mediante una iniciativa, la cual deberá contener la justificación en la que se expresarán los méritos del personaje para ser merecedor de la condecoración solicitada, acompañando los documentos probatorios que se estimen pertinentes, y, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde puedan recabarse.
+
+Para el estudio y dictaminación de las propuestas que se presenten el Presidente de la Mesa Directiva, designará una Comisión Especial de Evaluación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO III. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO PLENARIO
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 295.
+
+En el Salón de Sesiones del Congreso se dispondrá de un espacio al que se le denominará Muro de Honor, destinado a inscribir con letras doradas el nombre (sic) personas en lo individual o en grupo, el nombre de personas morales o de instituciones que con su actuar o función hayan dado prestigio al Estado de Durango, que hayan contribuido en grado excelso a las artes, al desarrollo científico o tecnológico con aportaciones en beneficio de la humanidad, que hayan destacado por su quehacer intelectual en el desarrollo de las ciencias y las artes de México y el mundo, que hayan destacado por su participación en los procesos históricos que han conformado la nación o el Estado, y en general que hayan contribuido significativamente al desarrollo político, económico, social o cultural de Durango o de la Nación; así como fechas históricas o acontecimientos relevantes, los cuales deberán referirse a eventos de trascendencia, que hayan influido en el desarrollo político, social, deportivo, económico y cultural del Estado de Durango o del país.
+
+Para ser considerada una propuesta para su inscripción en el Muro de Honor se estará a lo siguiente:
+
+I. Para inscribir el nombre de una persona se deberá:
+
+a) Tener cuando menos diez años de haber fallecido.
+
+b) Contar con la anuencia de la familia directa.
+
+c) Presentar justificación que demuestre los meritos del personaje para ser recordado permanentemente en la que se expresen los merecimientos del candidato y se acompañará de los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde puedan recabarse.
+
+II. Para que proceda inscribirse a un grupo de personas, deberá:
+
+a) Comprender a un número indeterminado de personas, todas participantes con el mismo fin u objetivo, pudiendo ser en tiempos y lugares diferentes, y
+
+b) Que por su número, no sea posible físicamente inscribir a todas las personas.
+
+III. Para inscribir el nombre de Instituciones se deberá:
+
+a) Tener cuando menos cincuenta años de haber sido fundada en el Estado.
+
+b) Contar con la anuencia de su máxima autoridad de gobierno Interior.
+
+c) Presentar justificación que demuestre los meritos de la institución y su contribución al desarrollo económico, científico, cultural o educativo de la Nación o de la entidad, para que merezca ser recordada permanentemente, acompañándola de los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas o testimonios y los lugares donde puedan recabarse.
+
+IV. Para inscribir fechas históricas o acontecimientos relevantes, deberá tratarse de una fecha o acontecimiento que la propia comunidad reconoce como trascendental en la vida política, social, económica, cultural e histórica, deportiva del Estado o del País.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 296.
+
+Las propuestas podrán ser presentadas por:
+
+I. Los diputados;
+
+II. El Gobernador del Estado;
+
+III. El Cabildo de cualquier Ayuntamiento del Estado; o
+
+IV. El Tribunal Superior de Justicia.
+
+En todos los casos las propuestas se presentaran al Pleno del Congreso del Estado en la forma de iniciativa de decreto.
+
+Para el estudio y dictaminación de la iniciativa el Presidente de la Mesa Directiva, designará una Comisión Especial de Evaluación.
+
+La aprobación de la iniciativa correspondiente deberá realizarse por mayoría calificada del Pleno.
+
+El acto de develación del nombre de un personaje, fecha histórica, acontecimiento relevante, grupo de personas o una institución en el Muro de Honor del Congreso del Estado, se verificará en Sesión Solemne que para el efecto se convoque.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO IV. DE LOS RECONOCIMIENTOS ESPECIALES
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 297.
+
+El Congreso del Estado podrá conceder un reconocimiento público especial a las personas físicas o morales con un mérito civil relevante, el cual constará de un diploma firmado por el Presidente y los Secretarios de la Mesa Directiva, en el que se expresarán las razones de su otorgamiento.
+
+La propuesta para el otorgamiento de dichos reconocimientos podrá provenir de organizaciones de la sociedad civil, ayuntamientos e instituciones y organismos públicos o privados del Estado, en las que se señalen los merecimientos del candidato y se acompañará de los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas y los lugares donde puedan recabarse; pero en cualquier caso, la resolución definitiva será del Pleno del Congreso del Estado.
+
+El otorgamiento de un reconocimiento especial no inhabilita a una persona para obtener alguno (sic) de las condecoraciones a que se refiere el artículo 292 de esta ley.
+
+Para el estudio y dictaminación de la iniciativa el Presidente de la Mesa Directiva, designará una Comisión Especial de Evaluación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO V. DEL CEREMONIAL
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 298.
+
+La entrega de las condecoraciones Guadalupe Victoria, Francisco Villa y Francisco Zarco, así como la inscripción de nombres en el Muro de Honor del Recinto Plenario, se llevará a cabo en Sesión Solemne.
+
+En el orden del día deberá incluirse, según corresponda:
+
+I. La lectura del acuerdo o Decreto mediante el cual se otorga la condecoración o se inscribe el nombre en el Muro de Honor;
+
+II. La lectura de una narración de los méritos de la persona o personas a las que le será impuesta la condecoración o de los hechos (sic) acontecimientos relevantes, que motivan la inscripción en el muro de Honor;
+
+III. La lectura del significado e importancia de la condecoración para el Estado;
+
+IV. El mensaje del Presidente de la Mesa Directiva, y
+
+V. El mensaje del homenajeado, del representante del grupo de personas o de la persona moral que recibe el reconocimiento, o el titular o la máxima autoridad de la institución, según sea el caso. Tratándose de un homenaje póstumo tendrá derecho al uso de la palabra en la tribuna un familiar o representante del homenajeado.
+
+La imposición de las condecoraciones Medalla Francisco Castillo Nájera; Medalla Francisco González de la Vega, Medalla José Guadalupe Aguilera, Medalla Silvestre Revueltas, Medalla José Fernando Ramírez, Medalla Francisca Iturbe Fierro, Medalla al Mérito Deportivo y los Reconocimientos especiales, podrá hacerse en espacio solemne en los términos de la presente ley, o en un espacio público o privado dentro del territorio del Estado, pero en todo momento se deberá cuidar la dignidad del recinto y la solemnidad del acto.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 299.
+
+Cuando se acuerde inscribir el nombre de una persona, grupo de personas, una institución, fecha histórica o acontecimiento relevante, en el Muro de Honor del Congreso del Estado, el Presidente de la Mesa Directiva, fijará la fecha que mayor convenga para la Sesión Solemne, tomando en cuenta la opinión de la familia del homenajeado o de los directivos de la institución. En caso de que esto no sea posible se tomará en cuenta para la definición de la fecha, una efeméride significativa con la vida y obra del personaje o de la institución.
+
+En la sesión solemne se destinará un sitio especial para el homenajeado y su familia o para los directivos de la institución homenajeada. Se informará de ello a la familia o a la institución según sea el caso, para que ellos determinen la ocupación de los mismos.
+
+Cuando en una sesión solemne de las señaladas en este capítulo, se encuentre el Presidente de la República o su representante, éste se colocará a la derecha del Presidente de la Legislatura; el Gobernador ocupara el sitial a la Izquierda y el Presidente del Tribunal Superior de Justicia ocupará el lado derecho del Presidente de la República o su representante.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 300.
+
+Cuando se apruebe imposición de las condecoraciones Medalla Guadalupe Victoria, Medalla Francisco Villa y Medalla Francisco Zarco las sesiones solemnes que para tal efecto se lleven preferentemente el 10 de octubre, el 5 de junio y el 7 de junio respectivamente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2014)</small>
+
+### CAPÍTULO VI. LA COMISIÓN ESPECIAL DE EVALUACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 301.
+
+La Comisión Especial de Evaluación tendrá las atribuciones siguientes:
+
+I. Recibir y registrar las propuestas que se le turnen;
+
+II. Dictaminar la (sic) propuestas para otorgar condecoraciones o reconocimientos especiales, formulando las proposiciones que a su juicio deban someterse al Pleno;
+
+III. Elaborar el acta respectiva de cada reunión que celebre;
+
+IV. Remitir a la Oficialía Mayor los dictámenes a los que se refiere la fracción II, para que se integren al proyecto del orden del día de la sesión en que habrán de discutirse; y
+
+V. Las demás que resulten necesarias para el otorgamiento de las condecoraciones, premios y reconocimientos que corresponden de acuerdo con este Título y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2014)</small>
+
+###### Artículo 302.
+
+La Comisión Especial de Evaluación podrá auxiliarse, para el análisis de las propuestas que se presenten para recibir alguna de las condecoraciones, premios y reconocimientos previstos en este Título, cuando así lo estime necesario o conveniente, de la opinión de los representantes de las instituciones de educación superior, colegios de profesionistas, asociaciones civiles, organismos no gubernamentales y personas físicas de reconocida trayectoria y prestigio en la comunidad.
 
 T R A N S I T O R I O S
 
@@ -3393,7 +3641,7 @@ P.O. 21 DE ABRIL DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
-EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3408,3 +3656,21 @@ Artículo Segundo.- El presente decreto entrará en vigencia el día primero de 
 Artículo Tercero.- La Comisión de Atención Ciudadana quedará integrada, para lo que resta del presente año de ejercicio constitucional, por los diputados integrantes de la Comisión de Gestoría y Quejas que fueron aprobados por el Pleno.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+P.O. 20 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley reglamentaria de la fracción VII del artículo 55 de la Constitución Política del estado Libre y Soberano de Durango, expedida por la LXIV Legislatura mediante Decreto 448, publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 51 Bis de fecha 24 de Diciembre de 2009, y sus reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+Los informes de actividades legislativas y gestoría a que se refiere el artículo 44 fracción IX correspondiente al segundo año de ejercicio constitucional, abarcara los meses de julio y agosto del presente año.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
