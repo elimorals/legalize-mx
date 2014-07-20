@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-de-la-fraccion-vii-del-articulo-55-de-la-7212
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2013-05-30"
+last_updated: "2014-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY REGLAMENTARIA DE LA FRACCIÓN VII DEL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 182 POR EL CUAL SE REFORMA LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 20 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -570,3 +572,21 @@ El presente decreto entrará en vigor al día siguiente de (sic) publicación, e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 20 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley reglamentaria de la fracción VII del artículo 55 de la Constitución Política del estado Libre y Soberano de Durango, expedida por la LXIV Legislatura mediante Decreto 448, publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 51 Bis de fecha 24 de Diciembre de 2009, y sus reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+Los informes de actividades legislativas y gestoría a que se refiere el artículo 44 fracción IX correspondiente al segundo año de ejercicio constitucional, abarcara los meses de julio y agosto del presente año.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan, todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
