@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2014-01-10"
+last_updated: "2014-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -322,7 +322,7 @@ XII. Realizar los actos administrativos y jurídicos que no requieran la interve
 
 XIII. Rendir a las Salas del Tribunal en la última sesión de cada año un informe dando cuenta de la marcha del Tribunal y de las principales jurisprudencias y tesis formuladas por éste en sus decisiones;
 
-XIV. Publicar la jurisprudencia del Tribunal, las sentencias de la Sala Superior cuando constituyan jurisprudencia o cuando la contraríen, incluyendo los votos particulares que con ella se relacionen, así como aquéllas que considere que deben darse a conocer por ser de interés general; y (sic)
+XIV. Publicar la jurisprudencia del Tribunal, las sentencias de la Sala Superior cuando constituyan jurisprudencia o cuando la contraríen, incluyendo los votos particulares que con ella se relacionen, así como aquéllas que considere que deben darse a conocer por ser de interés general; y
 
 XV. Dar cuenta a la Sala Superior de las excitativas de justicia y tramitar los demás asuntos de la Competencia de la Sala Superior hasta ponerlos en estado de resolución;
 
@@ -1000,15 +1000,21 @@ Cuando las pruebas documentales no obren en poder del demandante o cuando no hub
 
 Si no se adjuntan las copias a que se refiere este artículo, el Magistrado Instructor requerirá al promovente para que las presente dentro del plazo de cinco días. Si no las presenta dentro de dicho plazo, se tendrá por no presentada la ampliación a la demanda. Si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos y testigos, a que se refieren las fracciones IV, V y VI del artículo 86 de esta ley, las mismas se tendrán por no ofrecidas.
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2014)</small>
 
 ###### Artículo 90.
 
-Dentro del término de 48 horas de haber recibido la demanda, el Presidente del Tribunal la turnará al Magistrado que corresponda, quien la admitirá, o en los siguientes casos la desechará:
+Dentro del plazo de veinticuatro horas contado desde que la demanda fue turnada, el Magistrado que corresponda concederá o negará la suspensión en caso de haber sido solicitada; asimismo la admitirá, prevendrá o en los siguientes casos la desechará:
+
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
 
 I.- Si encontrare motivo manifiesto e indudable de improcedencia
 
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2012)</small>
+
 II.- Si siendo oscura o irregular y prevenido el actor para subsanarla, en el término de cinco días no lo hiciere; la oscuridad o irregularidad subsanables, sólo versarán respecto de los requisitos a que se refieren las fracciones III, IV, V, VI, VII, VIII y IX del artículo 85.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
 Contra los autos de desechamiento a que se refiere este artículo, procede el recurso de reclamación.
 
@@ -1715,3 +1721,9 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 21 DE JULIO DE 2014.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
