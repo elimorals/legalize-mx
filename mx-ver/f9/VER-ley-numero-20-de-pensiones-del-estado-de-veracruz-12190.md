@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-20-de-pensiones-del-estado-de-veracruz-12190"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-09"
-last_updated: "2014-02-11"
+last_updated: "2014-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NÚMERO 20 DE PENSIONES DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PENSIONES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 21 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el sábado 9 de noviembre de 1996.
 
@@ -715,7 +717,7 @@ VIII. Promocionar y supervisar programas de vivienda para que los derechohabient
 
 IX. Organizar sus dependencias y fijar la estructura y funcionamiento de las mismas;
 
-X. Expedir los reglamentos para el debido cumplimiento de sus funciones y de su organización interna, y (sic);
+X. Expedir los reglamentos para el debido cumplimiento de sus funciones y de su organización interna, y;
 
 > <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
@@ -801,7 +803,7 @@ XIII. Aprobar la integración de comités o comisiones necesarios para el mejor 
 
 XIV. Nombrar y remover a propuesta del Director General, al secretario técnico del Consejo Directivo;
 
-XV. Disponer la entrega de ejemplares de los estudios actuariales con la debida oportunidad a las representaciones sindicales, y; (sic)
+XV. Disponer la entrega de ejemplares de los estudios actuariales con la debida oportunidad a las representaciones sindicales, y;
 
 > <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -861,11 +863,11 @@ XV. Preparar documentalmente la entrega de su administración, que permitan el c
 
 XVI. Analizar los documentos que constituyan la recepción de la administración del Instituto y, en su caso, en un término no mayor de seis meses informar al Consejo Directivo de las condiciones en que reciba la administración, para que, de considerarse necesario se ejerciten las acciones legales que correspondan.
 
-En caso de incumplimiento de esta fracción y la anterior, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de las acciones legales que correspondan, y (sic)
+En caso de incumplimiento de esta fracción y la anterior, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de las acciones legales que correspondan, y
 
 > <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-XVII. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y (sic)
+XVII. Ordenar, en los términos previstos por el artículo 31, la práctica de verificaciones, visitas domiciliarias a entidades sujetas al régimen del Instituto o comprobación del cumplimiento de obligaciones en términos de esta Ley, a cargo del Gobierno del Estado y los organismos públicos incorporados, con sujeción a las formalidades previstas en el Código de Procedimientos Administrativos para el Estado; y
 
 > <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -1142,3 +1144,119 @@ G.O. 11 DE FEBRERO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE JULIO DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Quedan abrogadas la Ley Numero 20 de Pensiones del Estado de Veracruz publicada en la Gaceta Oficial Número 135 del 9 de noviembre de 1996, el Decreto Número 2 por el que se reforma y adiciona diversos artículos de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número Extraordinario 356 del 26 de noviembre de 2007, el Decreto Número 538 por el que se reforman diversos artículos de la Ley de Pensiones del Estado publicado en la Gaceta Oficial Número Extraordinario 51 del 11 de febrero de 2009 y el Decreto Número 241 que reforma el artículo 112 de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número 59 del 11 de febrero de 2014. Así mismo, quedan abrogadas todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. El descuento del porcentaje a que se refiere el artículo 19 de esta ley, únicamente será aplicable a los trabajadores que, a partir de la entrada en vigor de este ordenamiento, cumplan con los requisitos exigidos por la misma para obtener la jubilación o pensión, quedando excluidos de dicha deducción los pensionistas vigentes a la entrada en vigor del presente ordenamiento y los trabajadores que hayan cumplido con la edad y tiempo de cotización conforme a la Ley abrogada.
+
+CUARTO. Se considerarán trabajadores en transición a aquellos que ingresaron al servicio con fecha anterior a la entrada en vigor de la presente Ley, con excepción de los que ingresaron al servicio antes del 01 de enero de 1997, los cuales tendrán derecho a una pensión por jubilación al reunir las siguientes condiciones:
+
+I. Tener treinta años de servicios, y
+
+II. Contar cuando menos con una edad de cincuenta y tres años.
+
+QUINTO. El sueldo regulador que se establece en el artículo 3 fracción XIV para los trabajadores en transición será el promedio ponderado de los sueldos de cotización, de acuerdo a los años que le falten al trabajador para cumplir treinta años de cotizaciones al Instituto y de acuerdo con la entrada en vigor de la presente ley, previa actualización mediante el Índice Nacional de Precios al Consumidor, de conformidad con la siguiente tabla:
+
+Años que faltan para Número de años a
+
+cumplir con 30 años de promediar
+
+cotización
+
+0 0
+
+1 1
+
+2 2
+
+3 3
+
+4 4
+
+5 5
+
+6 6
+
+7 7
+
+8 8
+
+9 9
+
+10 o más 10
+
+Para efectos del sueldo regulador se deberá atender los sistemas escalafonarios de cada ente público en donde presta sus servicios el trabajador; el Consejo Directivo acordará lo conducente.
+
+SEXTO. Las cuotas con cargo para los trabajadores en transición serán de un porcentaje de su sueldo de cotización de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2014 11.00%
+
+2015 11.50%
+
+2016 en adelante 12.00%
+
+SÉPTIMO. Las aportaciones a cargo del patrón correspondiente a los trabajadores en transición serán de un porcentaje del sueldo de cotización de los trabajadores de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2014 15.00%
+
+2015 16.00%
+
+2016 17.00%
+
+2017 18.00%
+
+2018 19.00%
+
+2019 en adelante 20.00%
+
+OCTAVO. Para los trabajadores en transición que ingresaron al servicio hasta antes del 26 de noviembre de 2007 tendrán derecho a una pensión por jubilación al cumplir los siguientes requisitos:
+
+I. Tener treinta años de servicio, y
+
+II. Contar con cincuenta y tres años de edad.
+
+Los trabajadores en transición que ingresaron al servicio con posterioridad al 26 de noviembre de 2007 hasta la entrada en vigor de la presente Ley, tendrán derecho a una pensión por jubilación al cumplir treinta años de servicio y sesenta años de edad.
+
+El monto de la pensión por jubilación en todos los casos será del 100% del sueldo regulador establecido en el artículo quinto transitorio.
+
+NOVENO. Para los trabajadores en transición, la pensión por vejez será de acuerdo con lo siguiente:
+
+Tendrán derecho a una pensión por vejez al cumplir con 60 años de edad y al menos 15 años de servicio, el monto de la pensión será de un porcentaje del sueldo regulador establecido en el artículo quinto transitorio de acuerdo con la siguiente tabla:
+
+Antigüedad Porcentaje Antigüedad Porcentaje
+
+15 50.00% 23 70.00%
+
+16 52.50% 24 72.50%
+
+17 55.00% 25 75.00%
+
+18 57.50% 26 80.00%
+
+19 60.00% 27 85.00%
+
+20 62.50% 28 90.00%
+
+21 65.00% 29 95.00%
+
+22 67.50% 30 o más 100.00%
+
+DÉCIMO. El Fondo de Fortalecimiento de la Reserva Técnica, el Fondo Global y el Fondo de la Reserva Técnica Específica, deberán unificarse en un solo fondo como lo establece el artículo 3 fracción VII, en un periodo que no excederá los 10 meses siguientes a la publicación de esta Ley.
+
+DÉCIMO PRIMERO. La unificación de los Fondos a la Reserva Técnica mencionado en el artículo anterior, deberán ajustarse a los porcentajes de inversión del artículo 100 de la presente Ley.
+
+DÉCIMO SEGUNDO. Los trámites de jubilación, de pensión por vejez, de pensión por invalidez, de pensión por incapacidad, de pensión por causa de muerte, así como los gastos de funeral y la indemnización global presentados al Instituto con anterioridad a la fecha de entrada en vigor de la presente Ley, se concederán los términos establecidos en las leyes abrogadas.
+
+DÉCIMO TERCERO. Las autorizaciones de jubilación y las pensiones por vejez, invalidez, incapacidad y por causa de muerte, concedidas bajo la vigencia de las leyes abrogadas, autorizadas por el H. Consejo Directivo antes de la entrada en vigor de la presente Ley, continuarán surtiendo sus efectos para su incorporación en la nómina de pensionistas, siempre y cuando, continúen en la categoría o plaza para la cual fue autorizado en el acuerdo respectivo; en caso de recategorización o cambio de plaza obtenido en forma posterior a la fecha de autorización de la jubilación o pensión respectiva, ésta se concederá bajó los términos de la presente Ley.
+
+DÉCIMO CUARTO. Para los efectos de lo dispuesto en los artículos 98 y 101 de ésta Ley, el Instituto de Pensiones del Estado, en el ámbito de la armonización contable, únicamente podrá registrar en su contabilidad los adeudos adquiridos mediante convenios suscritos bajo la vigencia de ésta Ley.
+
+DÉCIMO QUINTO. En un plazo no mayor de 180 días naturales contados a partir de la entrada en vigor de la presente ley, el Consejo Directivo tendrá que aprobar y publicar la reglamentación correspondiente a las disposiciones relativas a la aplicación de este ordenamiento.
