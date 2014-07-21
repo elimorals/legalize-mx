@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-876-de-proteccion-a-los-animales-para-el-estado-7746
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2014-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 876 DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 876 DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 876 DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 5 de noviembre de 2010.
 
@@ -71,7 +71,9 @@ VII. La regulación de las disposiciones correspondientes a la denuncia, vigilan
 
 Son objeto de protección de esta Ley todos los animales que se encuentren de forma permanente o transitoria dentro del territorio del Estado.
 
-Quedan excluidos de la aplicación de la presente Ley, los espectáculos de tauromaquia, circenses, peleas de gallos, faenas camperas, las carreras de animales, actividades relacionadas con el deporte de la charrería, jaripeos, pamplonadas, Granjas Cinegéticas, Unidades de Manejo Ambiental (UMAS), y demás permitidas por la Ley, las que habrán de sujetarse a lo dispuesto en las Leyes, Reglamentos y demás ordenamientos jurídicos aplicables a la materia.
+> <small>(REFORMADO, G.O. 21 DE JULIO DE 2014)</small>
+
+Quedan excluidos de la aplicación de la presente Ley, los espectáculos de tauromaquia, peleas de gallos, faenas camperas, las carreras de animales, actividades relacionadas con el deporte de la charrería, jaripeos, pamplonadas, Granjas Cinegéticas, Unidades de Manejo Ambiental (UMAS), y demás permitidas por la Ley, las que habrán de sujetarse a lo dispuesto en las Leyes, Reglamentos y demás ordenamientos jurídicos aplicables a la materia.
 
 Las autoridades del Estado deben auxiliar a las federales en la aplicación de las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
@@ -103,6 +105,10 @@ IX. Crueldad: Acto de brutalidad, sádico o zoofílico contra cualquier animal, 
 
 X. Epizootia: Enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la habitual;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2014)</small>
+
+X Bis. Espectáculo circense: Los espectáculos que sean realizados por los circos que se encuentran de paso o establecidos en territorio veracruzano y en los cuales se involucren a todo tipo de animales.
+
 XI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Estado en materia de la presente Ley;
 
 XII. Ley: La Ley de Protección a los Animales para el Estado de Veracruz de Ignacio de la Llave;
@@ -113,13 +119,19 @@ XIV. Maltrato: Todo hecho, acto u omisión del ser humano que puede ocasionar do
 
 XV. Personal capacitado: Personas que prestan sus servicios y cuentan con conocimientos y capacitación suficiente para la protección de los animales, y cuyas actividades están respaldadas por autorización expedida por autoridad competente;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2014)</small>
+
+XV Bis. Procuraduría: La Procuraduría Estatal de Protección al Medio Ambiente.
+
 XVI. Reglamento: El Reglamento de la Ley de Protección a los Animales para el Estado;
 
 XVII. Sacrificio humanitario: El que siendo necesario se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento, utilizando métodos químicos o físicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
 
 XVIII. Salud: El equilibrio armónico, biológico, psicológico y social, de las especies animales y del hombre, representado por la ausencia de enfermedades y el pleno ejercicio de sus facultades;
 
-XIX. Secretaría: La Secretaría de Desarrollo Social y Medio Ambiente del Estado;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2014)</small>
+
+XIX. Secretaría: La Secretaría de Medio Ambiente del Estado.
 
 XX. Secretaría de Salud: La Secretaría de Salud del Estado;
 
@@ -207,6 +219,18 @@ XII. Conocer de cualquier hecho, acto u omisión derivado del incumplimiento de 
 
 XIII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2014)</small>
+
+###### Artículo 9 Bis.
+
+Corresponde a la Procuraduría el ejercicio de las siguientes atribuciones:
+
+I. Asesorar, orientar e informar a la población, dependencias, entidades y órganos desconcentrados de la administración pública, respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia de protección, trato digno y respetuoso de los animales, así como de los procedimientos que ante otras instancias o autoridades competentes resulten procedentes;
+
+II. Atender y recibir denuncias por actos, hechos u omisiones que pudieran constituir incumplimientos, violaciones o falta de aplicación de la Ley, de su reglamento y de las normas ambientales para el Estado de Veracruz en materia de protección, trato digno y respetuoso a los animales y en general aquellas que pudieran atentar contra su bienestar, turnándola a las autoridades competentes; y
+
+III. Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos aplicables le confieran.
+
 ###### Artículo 10.
 
 Corresponde a la Secretaría de Salud el ejercicio de las atribuciones siguientes:
@@ -277,7 +301,17 @@ VII. Impulsar campañas de concientización para la protección y el trato digno
 
 VIII. Establecer campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de vacunación antirrábica, de esterilización y desparasitación, en coordinación con la Secretaría de Salud; y
 
-IX. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2014)</small>
+
+IX. Elaborar y publicar su Reglamento Municipal de Protección a los Animales, en términos de lo dispuesto en la presente Ley y el Reglamento.
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2014)</small>
+
+X. Vigilar el cumplimiento de esta Ley y sancionar administrativamente en términos de lo dispuesto en la presente Ley, el reglamento y el reglamento municipal.
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2014)</small>
+
+XI. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ###### Artículo 16.
 
@@ -398,6 +432,10 @@ VI. Hacer ingerir a un animal bebidas alcohólicas o suministrar drogas sin fine
 VII. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
 
 VIII. La utilización de animales en la celebración de ritos clandestinos que puedan afectar el bienestar animal;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2014)</small>
+
+VIII Bis. Los espectáculos circenses donde se compruebe que existe maltrato o crueldad en el adiestramiento o resguardo de los animales.
 
 IX. Los actos de zoofilia;
 
@@ -687,11 +725,13 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ### CAPÍTULO VI. De las Denuncias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2014)</small>
+
 ### CAPÍTULO VII. De las Medidas de Seguridad
 
 ###### Artículo 65.
 
-Cualquier persona podrá denunciar ante la Secretaría todo hecho, acto u omisión que contravenga las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
+Cualquier persona podrá denunciar ante la Secretaría, la Procuraduría o el ayuntamiento correspondiente todo hecho, acto u omisión que contravenga las disposiciones de la presente Ley y demás ordenamientos jurídicos aplicables.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades deberán turnarlos a la autoridad competente.
 
@@ -737,7 +777,9 @@ Las sanciones aplicables a las infracciones previstas en la presente Ley podrán
 
 I. Amonestación;
 
-II. Multa, de diez a quinientos días de salario;
+> <small>(REFORMADA, G.O. 21 DE JULIO DE 2014)</small>
+
+II. Multa, de diez a cinco mil días de salario;
 
 III. Arresto administrativo de hasta por treinta y seis horas;
 
@@ -756,6 +798,10 @@ La amonestación escrita, la multa y el arresto administrativo podrán ser conmu
 La violación de las disposiciones contenidas en los artículos 28 fracciones VII, VIII, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX, de esta Ley, se sancionarán, en caso de ser infractores primarios, con una amonestación, y en caso de reincidencia, se sancionarán atendiendo a la gravedad de la infracción y conforme a los criterios que establece el artículo 76 de esta Ley, con arresto administrativo hasta por 36 horas o con multa de 10 a 150 días de salario mínimo vigente en la Capital del Estado de Veracruz de Ignacio de la Llave.
 
 La violación de las disposiciones contenidas en los artículos 3, 28 fracciones I, II, III, IV, V, VI, IX, X, XI y XX; 30, 31, 32, 33, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 55, 56 y 58, de esta Ley, se sancionarán atendiendo a la gravedad de la infracción y conforme a los criterios que establece el artículo 76 de esta Ley, con multa de 10 a 500 días de salario mínimo vigente en la Capital del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2014)</small>
+
+En caso de violación a lo dispuesto en el artículo 28, fracción VIII Bis, la sanción que se impondrá será de cinco mil días de salario mínimo vigente en la Capital del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 73.
 
@@ -836,3 +882,11 @@ Gobernador del Estado
 Rúbrica.
 
 folio 1854
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 21 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
