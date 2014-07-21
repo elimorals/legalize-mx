@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2009-11-26"
+last_updated: "2014-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 583 DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 583 DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2014.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -323,7 +323,9 @@ Los Comités Municipales del Deporte tendrán los objetivos siguientes:
 
 I. Determinar las necesidades deportivas de manera conjunta con las autoridades municipales;
 
-II. Elaborar sus programas de acuerdo con el Programa Operativo Estatal del deporte, a través del Consejo del Sistema Estatal del Deporte;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2014)</small>
+
+II. Elaborar sus Planes Operativos Anuales conforme a las necesidades municipales y los Programas de Trabajo de acuerdo con el Programa Operativo Estatal del Deporte, a través del Consejo del Sistema Estatal del Deporte.
 
 III. Otorgar estímulos, reconocimientos y apoyos para el desarrollo y fomento de las actividades deportivas en los municipios y promover a los clubes, ligas y asociaciones deportivas, para su incorporación al Sistema Estatal del Deporte, para gozar de sus beneficios;
 
@@ -371,7 +373,9 @@ I. Crear la Comisión Edilicia del Deporte en sus respectivos territorios;
 
 II. Reservar los espacios y zonas para la práctica del deporte, en sus proyectos y programas de desarrollo urbano;
 
-III. Considerar dentro de su presupuesto invertir al menos 3% de sus ingresos para la difusión, promoción, construcción de infraestructura y equipamiento, fomento, investigación y supervisión del deporte;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2014)</small>
+
+III. Considerar dentro de su presupuesto, a propuesta del Comité Municipal del Deporte, una inversión de hasta el 5% y no menos del 3%, de los ingresos anuales del año fiscal que corresponda, para la difusión, promoción, construcción de infraestructura y equipamiento, fomento, investigación o supervisión del deporte;
 
 IV. Determinar las necesidades en materia deportiva y crear los medios para satisfacerlas;
 
@@ -872,3 +876,11 @@ Lic. Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 21 DE JULIO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
