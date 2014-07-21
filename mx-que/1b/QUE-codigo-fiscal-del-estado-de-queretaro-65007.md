@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-65007"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-13"
-last_updated: "2013-12-25"
+last_updated: "2014-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -99,7 +101,7 @@ IV. El Director de Ingresos
 
 V. El Director de Fiscalización
 
-VI. Los titulares de las dependencias encargadas de las Finanzas Públicas de los Municipios; y (sic)
+VI. Los titulares de las dependencias encargadas de las Finanzas Públicas de los Municipios; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -343,7 +345,7 @@ Son impuestos son (sic) las contribuciones establecidas en ley que deben pagar l
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -1165,7 +1167,7 @@ La resolución a que se refiere el párrafo anterior deberá emitirse en un tér
 
 ###### Artículo 70.
 
-Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 69 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinaran las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro un (sic) de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 69 de este Código.
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 69 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinaran las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro un de un (sic) plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 69 de este Código.
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 68 de este Código.
 
@@ -1859,7 +1861,7 @@ I. Grabe o manufacture sin autorización de la Secretaría de Planeación y Fina
 
 II. Imprima, grabe o troquele sin autorización de la Secretaría de Planeación y Finanzas, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIOÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1907,7 +1909,7 @@ No se formulará querella si quien hubiere omitido el pago de la contribución u
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 El delito de defraudación fiscal y los previstos en el artículo 115 de este Código, serán calificados cuando se originen por:
 
@@ -3668,3 +3670,15 @@ XVII. La calcomanía de revalidación y la tarjeta de circulación a que hace re
 Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2014, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
 
 Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
+
+P.O. 21 DE JULIO DE 2014.
+
+Artículo Primero. El presente Código entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Código Fiscal del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en fecha 13 de diciembre de 2008.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Los asuntos que a la entrada en vigor de la presente Ley se encuentren en trámite, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+Artículo Quinto. Las referencias que en otras disposiciones se realicen respecto de los artículos correspondientes el Código que se abroga, se entenderán hechas a aquellos preceptos de esta Ley correlativos a los mismos.
