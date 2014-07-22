@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-tecnico-de-fraccionamientos-para-el-municipio-de-437
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-08"
-last_updated: "2009-10-20"
+last_updated: "2014-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO TECNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GUANAJUATO
 
-REGLAMENTO TECNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GTO
+REGLAMENTO TÉCNICO DE FRACCIONAMIENTOS PARA EL MUNICIPIO DE ALLENDE, GTO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO FRACCIÓN IV DEL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO Y TERRITORIAL PARA EL MUNICIPIO DE SAN MIGUEL DE ALLENDE, DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de febrero de 2005.
 
@@ -389,7 +391,7 @@ a) Sus lotes no podrán tener un frente menor de 17 metros, ni una superficie me
 
 b) Las vialidades locales, deberán tener una sección mínima de 13 metros de paramento a paramento y las banquetas serán de 2.50 metros de ancho, debiéndose destinar 0.70 metros para franja jardinada o arriates; y
 
-c) Las vialidades colectoras, deberán tener una sección mínima de 20 metros de paramento a paramento y las banquetas serán de 3 metros de ancho, debiéndose destinar 1 metro para franja jardinada o arriates; (sic)
+c) Las vialidades colectoras, deberán tener una sección mínima de 20 metros de paramento a paramento y las banquetas serán de 3 metros de ancho, debiéndose destinar 1 metro para franja jardinada o arriates;
 
 ###### ARTICULO 40.
 
@@ -399,7 +401,7 @@ a) Sus lotes no podrán tener un frente menor de 12 metros, ni una superficie me
 
 b) Las vialidades locales, deberán tener una sección mínima de 12 metros de paramento a paramento y las banquetas serán de 2.0 metros de ancho, debiéndose destinar 0.60 metros para franja jardinada o arriates; y
 
-c) Las vialidades colectoras, deberán tener una sección mínima de 18 metros de paramento a paramento y las banquetas serán de 2.50 metros de ancho, debiéndose destinar 0.80 metros para franja jardinada o arriates; (sic)
+c) Las vialidades colectoras, deberán tener una sección mínima de 18 metros de paramento a paramento y las banquetas serán de 2.50 metros de ancho, debiéndose destinar 0.80 metros para franja jardinada o arriates;
 
 ###### ARTICULO 41.
 
@@ -409,7 +411,7 @@ a) Sus lotes no podrán tener un frente menor de 8 metros, ni una superficie men
 
 b) Las vialidades locales, deberán tener una sección mínima de 12 metros de paramento a paramento y las banquetas serán de 2 metros de ancho, debiéndose destinar 0.60 metros para franja jardinada o arriates; y
 
-c) Las vialidades colectoras, deberán tener una sección mínima de 16 metros de paramento a paramento y las banquetas serán de 2 metros de ancho, debiéndose destinar 0.60 metros para franja jardinada o arriates; (sic)
+c) Las vialidades colectoras, deberán tener una sección mínima de 16 metros de paramento a paramento y las banquetas serán de 2 metros de ancho, debiéndose destinar 0.60 metros para franja jardinada o arriates;
 
 ###### ARTICULO 42.
 
@@ -1216,3 +1218,37 @@ P.O. 20 DE OCTUBRE DE 2009.
 Artículo Primero.- Estas reformas entrarán en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo.- Las autorizaciones de fraccionamientos, desarrollos en condominio, relotificaciones, divisiones, lotificaciones, que se hayan solicitado con anterior a las reformas a este reglamento se continuarán tramitando de acuerdo a las disposiciones contenidas en el reglamento vigente en el momento de su autorización.
+
+P.O. 22 DE JULIO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Código Reglamentario entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Reglamentos que se abrogan
+
+Artículo Segundo. Se abrogan las siguientes disposiciones reglamentarias:
+
+I. Reglamento de Zonificación y Usos de Suelo para el Municipio de San Miguel de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 158, tercera parte, del 03 de octubre de 2006;
+
+II. Reglamento de Obras y Construcciones del Municipio de San Miguel de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 100, segunda parte, del 24 de junio de 2005;
+
+III. Reglamento de Anuncios y Toldos para el Municipio de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 24, segunda parte, del 24 de marzo de 1998, y
+
+IV. Reglamento Técnico de Fraccionamientos para el Municipio de Allende, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 22, segunda parte, del 8 de febrero de 2005.
+
+Sustanciación de procedimientos en trámite
+
+Artículo Tercero. Los procedimientos regulados al amparo de los Reglamentos que se abrogan en el artículo Segundo Transitorio, que a la fecha de la entrada en vigor del presente Código Reglamentario se encuentren en trámite, seguirán sustanciándose observando las normas contenidas en el Reglamento vigente al momento de iniciar su procedimiento respectivo, hasta su conclusión.
+
+Derogación de disposiciones
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al contenido del presente Código Reglamentario.
+
+Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial del Municipio
+
+Artículo Quinto. Hasta en tanto se publique el Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial del municipio, continuarán aplicándose los planes y programas vigentes en la actualidad, sujetándose al contenido del presente Código Reglamentario.
+
+Plazo para la regularización de permisos, autorizaciones y licencias
+
+Artículo Sexto. Se otorga un plazo de 30 días hábiles posteriores a la entrada en vigor del presente Código Reglamentario para que los particulares soliciten, renueven o actualicen las licencias, permisos y autorizaciones que contempla, de lo contrario, se aplicarán las sanciones establecidas en el apartado correspondiente. La Dirección elaborará un Programa que permita el apego de los particulares a las disposiciones contenidas en este Código Reglamentario de una manera ordenada.
