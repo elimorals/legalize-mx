@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "2012-10-08"
+last_updated: "2014-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -45,19 +45,21 @@ REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE 
 
 El Tribunal Superior de Justicia, se integra con la estructura determinada por la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2014)</small>
 
 ###### Artículo 2º.
 
-El horario ordinario de las oficinas que integran el Poder Judicial será todos los días hábiles de la semana de las 8:00 a las 15:00 horas incluída media hora de descanso.
+El horario ordinario de las oficinas que integran el Poder Judicial, será todos los días hábiles de las 8:00 a las 15:00 horas, incluida media hora de descanso.
 
-Los Titulares de los Tribunales o Dependencias Administrativas podrán ordenar que el personal labore en horas o días diferentes a las señaladas, en horario no mayor de ocho horas, por requerimiento de la Ley o necesidades del servicio.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
+Los titulares de los Tribunales y dependencias administrativas, podrán ordenar que el personal labore en horas y días diferentes a las señaladas, en horario no mayor de ocho horas, por requerimiento de la Ley o necesidades del servicio.
 
-Se exceptúa del horario anterior al personal que labora en la Sala Administrativa, cuando esta se erija en la Sala Electoral y en los Juzgados Electorales, en los que el Presidente de dicha Sala, dispondrá el horario que deben regir las labores de los organismos electorales, así como los turnos que deban implementarse los sábados, domingos y días festivos, durante el proceso electoral.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE JULIO DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
 El Pleno del Tribunal podrá modificar el horario establecido.
 
@@ -237,23 +239,9 @@ Para que funcionen las Salas del Tribunal, se necesita la concurrencia de los Tr
 
 Las Sesiones de las Salas serán ordinarias y secretas y se celebrarán el día hábil de cada semana que acuerden las Presidencias de las mismas. En caso de algún asunto urgente, el Presidente podrá convocar a Sesiones Extraordinarias a iniciativa propia o a solicitud de un Magistrado de la propia Sala.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
 ###### Artículo 25
 
-1.- Las sesiones de la Sala Administrativa, erigida en Sala Electoral, durante el proceso electoral, serán públicas y se celebrarán en cualquier día y hora, conforme al procedimiento siguiente:
-
-a).- El Secretario de Acuerdos dará lectura a la lista de los asuntos que serán ventilados y resueltos en la Sesión;
-
-b).- El Magistrado Instructor hará la presentación general del expediente y leerá los puntos resolutivos del proyecto de resolución; señalará el sentido de la resolución y los preceptos en que se funde y las consideraciones jurídicas que considere pertinentes;
-
-c).- Los Magistrados podrán discutir el proyecto en turno;
-
-d).- Cuando la mayoría de los Magistrados estén de acuerdo con el proyecto, el Magistrado disidente podrá limitarse a expresar que vota en contra o formular voto particular razonado dentro de un plazo de 24 horas, contados a partir de que concluya la Sesión respectiva, dicho voto se agregará al expediente.
-
-e).- Si el proyecto del Magistrado Instructor, no fue aceptado por la mayoría, la Presidencia de la Sala designará a otro Magistrado, para que dentro de un plazo de 24 horas, contadas a partir de que concluya la sesión respectiva, emita nuevo proyecto de fallo, con las consideraciones y razonamientos jurídicos correspondientes y lo someta a consideración del Pleno de la Sala; y,
-
-f).- El Secretario de Acuerdos levantará un Acta Circunstanciada de cada Sesión Pública.
+1.- (DEROGADO, P.O. 22 DE JULIO DE 2014)
 
 ###### Artículo 26.
 
@@ -265,9 +253,7 @@ Los proyectos de resolución, redactados por escrito deberán ser distribuidos p
 
 En los mismos términos, si uno de los Magistrados estuviese conforme con los puntos resolutivos pero disconforme con alguna de las consideraciones del fallo, expresará la razón de su voto o formulará voto concurrente en el mismo plazo.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
-Los proyectos de resolución redactados por escrito, deberán ser distribuidos inmediatamente para su estudio, a los Magistrados integrantes de la Sala Administrativa, erigida en la Sala Electoral, 24 horas antes del aviso del listado de los asuntos por estrados.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE JULIO DE 2014)</small>
 
 ###### Artículo 28.
 
@@ -299,11 +285,9 @@ c).- Autorizar las actas, los acuerdos y las resoluciones, dar fe de las actuaci
 
 d).- Cuidar que se pongan en los expedientes las razones que procedan con relación al acuerdo y ordenar el despacho oportuno de la correspondencia.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
 ###### Artículo 30
 
-1.- El Secretario de Acuerdos de la Sala Administrativa erigida en la Sala Electoral, llevará los libros que se consideren convenientes para el control de los medios de impugnación que se presenten.
+1.- (DEROGADO, P.O. 22 DE JULIO DE 2014)
 
 ### CAPÍTULO IV. DEL SECRETARIO GENERAL, OFICIAL MAYOR, ACTUARIOS Y DELEGACIONES DE LA OFICIALÍA MAYOR
 
@@ -413,11 +397,9 @@ IX.- Conceder licencias a los secretarios y empleados de su dependencia, hasta p
 
 X.- Vigilar la puntualidad y disciplina de sus subordinados.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
 ###### Artículo 37
 
-1.- Corresponde a los Presidentes de los Juzgados Electorales, las mismas atribuciones que señala el Artículo 25-1, en el ámbito de su competencia.
+1.- (DEROGADO, P.O. 22 DE JULIO DE 2014)
 
 ### CAPÍTULO II. DE LOS SECRETARIOS DE ACUERDOS Y ACTUARIOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -463,11 +445,9 @@ XIX.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondenci
 
 XX.- Desempeñar todas las demás funciones que las leyes, los reglamentos y el Tribunal Pleno determinen.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
 ###### Artículo 39
 
-1.- Son atribuciones y obligaciones de los Secretarios de Acuerdos de los Juzgados Electorales, además de las que señala el artículo anterior, llevar los libros que se refieren el Artículo 30-1 de este Reglamento, en lo que atañe a los Medios de Impugnación que les corresponda conocer de acuerdo con su competencia.
+1.- (DEROGADO, P.O. 22 DE JULIO DE 2014)
 
 ###### Artículo 40.
 
@@ -783,9 +763,7 @@ Los funcionarios y empleados que tengan más de 6 meses consecutivos de servicio
 
 El Tribunal Pleno señalará en la primera Sesión que celebre en los meses de junio y diciembre de cada año, los períodos vacacionales de los Magistrados, Jueces de Primera Instancia y Menores y empleados del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1997)</small>
-
-De acuerdo a las necesidades del servicio, igualmente señalará los períodos vacacionales de los Organos Jurisdiccionales Electorales durante el año de Proceso Electoral.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JULIO DE 2014)</small>
 
 ###### Artículo 62.
 
@@ -819,9 +797,7 @@ V.- Las licencias concedidas conforme a este acuerdo serán registradas en el ex
 
 VI.- Todas las licencias que se otorguen serán de días naturales, y no deberán otorgarse en vísperas de vacaciones o al reinicio de labores después de éstas, ni así mismo a continuación de licencias ya concedidas, ya sean con goce de sueldo o sin él.
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1997)</small>
-
-VII.- Durante las etapas de la Jornada Electoral, de resultados y declaración de validez de las elecciones y de la del dictamen y declaración de validez de la elección y de Gobernador Electo del Estado, de resultados y declaración de validez de las elecciones de Diputados y componentes de Ayuntamientos y Juntas Municipales, las licencias y permisos quedan suspendidos en Sala y Juzgados Electorales.
+VII.- (DEROGADA, P.O. 22 DE JULIO DE 2014)
 
 ###### Artículo 64.
 
@@ -1488,3 +1464,9 @@ PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente acuerdo entrará en vigor el nueve de octubre del dos mil doce.
 
 TERCERO.- Comuníquese a los Jueces de Conciliación del Municipio de Calakmul y circúlese esta determinación del Pleno del H. Tribunal Superior de Justicia del Estado, para su conocimiento. Cúmplase.
+
+P.O. 22 DE JULIO DE 2014.
+
+PRIMERO: Las derogaciones y reformas al Reglamento Interior General del Honorable Tribunal Superior de Justicia del Estado, de los Juzgados de Primera Instancia, Menores y de Conciliación y de las demás dependencias del propio Tribunal, entrarán en vigor en los términos y plazo establecidos en el artículo 3 del Código Civil vigente en el Estado.
+
+SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
