@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-cultura-del-8283
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-08"
-last_updated: "2011-09-08"
+last_updated: "2014-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA, DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE CULTURA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JULIO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 8 de septiembre de 2011.
 
@@ -179,7 +179,9 @@ El Director General tendrá las atribuciones siguientes:
 
 I. Representar legalmente al Instituto con todas las facultades generales y especiales, en términos de lo dispuesto por el Código Civil del Estado de México. Para actos de dominio respecto de los bienes que integren el patrimonio del Instituto, requerirá la autorización expresa del Consejo Directivo.
 
-II. Otorgar y revocar poderes especiales en los servidores públicos del Instituto.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+II. Otorgar y revocar poderes generales y especiales en los servidores públicos del Instituto.
 
 III. Cumplir los acuerdos que emita el Consejo Directivo.
 
@@ -205,7 +207,9 @@ XIII. Presentar al Consejo Directivo para su aprobación, la estructura orgánic
 
 XIV. Expedir constancias, diplomas y reconocimientos a los participantes en programas y eventos promovidos en materia de cultura.
 
-XV. Aprobar el otorgamiento de becas económicas para integrantes de la Orquesta Sinfónica Juvenil y del Coro Juvenil del Estado de México.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XV. Aprobar el otorgamiento de becas económicas para integrantes de la Orquesta Sinfónica Mexiquense y del Coro Juvenil del Estado de México.
 
 XVI. Rendir al Consejo Directivo el informe anual de actividades y los informes que le sean requeridos.
 
@@ -221,7 +225,17 @@ XXI. Celebrar acuerdos y convenios con representantes de los sectores público, 
 
 XXII. Resolver las dudas que se susciten con motivo de la interpretación del presente Reglamento.
 
-XXIII. Las demás que le confieran otras disposiciones y las que le establezca el Consejo Directivo.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XXIII. Garantizar en el ámbito de su competencia el derecho de acceso a la información y protección de datos personales conforme a la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XXIV. Promover acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta el Instituto y vigilar su cumplimiento.
+
+> <small>(ADICIONADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XXV. Las demás que le confieren otras disposiciones y las que le establezca el Consejo Directivo.
 
 ###### Artículo 12.
 
@@ -283,7 +297,17 @@ XIII. Formular y proponer al Director General la celebración de acuerdos y conv
 
 XIV. Promover que las unidades administrativas a su cargo cumplan con los programas, proyectos y atribuciones a su cargo.
 
-XV. Las demás que les confieran otras disposiciones y aquellas que les encomiende el Director General.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XV. Proponer al Director General acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta el Instituto y vigilar su cumplimiento.
+
+> <small>(ADICIONADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XVI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública, así como en la protección de datos personales.
+
+> <small>(ADICIONADA, G.G. 22 DE JULIO DE 2014)</small>
+
+XVII. Las demás que les confieran otras disposiciones y aquellas que les encomiende el Director General
 
 ### CAPÍTULO IV. DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
@@ -333,11 +357,17 @@ Corresponde a la Orquesta Sinfónica del Estado de México:
 
 I. Formular y ejecutar programas para representaciones artísticas de la "OSEM", de los directores huéspedes y de solistas que la asistirán, así como las giras estatales, nacionales e internacionales, las grabaciones musicales y las acciones de promoción y difusión.
 
-II. Integrar, organizar y coordinar la Orquesta Sinfónica Juvenil y el Coro Juvenil del Estado.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
 
-III. Proponer al Director General la asignación de becas económicas para integrantes de la Orquesta Sinfónica Juvenil y del Coro Juvenil del Estado de México.
+II. Integrar, organizar y coordinar la Orquesta Sinfónica Mexiquense y el Coro Juvenil del Estado.
 
-IV. Autorizar las presentaciones artísticas, las giras, grabaciones, las acciones de promoción y difusión y todo lo relacionado con la Orquesta Sinfónica Juvenil y con el Coro Juvenil del Estado.
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+III. Proponer al Director General la asignación de becas económicas para integrantes de la Orquesta Sinfónica Mexiquense y del Coro Juvenil del Estado de México.
+
+> <small>(REFORMADA, G.G. 22 DE JULIO DE 2014)</small>
+
+IV. Autorizar las presentaciones artísticas, las giras, grabaciones, las acciones de promoción y difusión y todo lo relacionado con la Orquesta Sinfónica Mexiquense y con el Coro Juvenil del Estado.
 
 V. Fomentar acuerdos y convenios de intercambio cultural en materia musical con instituciones análogas, nacionales e internacionales para la ejecución de acciones conjuntas que coadyuvarán a promover la participación de la "OSEM" en eventos dirigidos a la población en general, intercambiar repertorios musicales y elevar el nivel de preparación de sus integrantes.
 
@@ -534,3 +564,13 @@ ING. AGUSTÍN GASCA PLIEGO
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE CULTURA Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
