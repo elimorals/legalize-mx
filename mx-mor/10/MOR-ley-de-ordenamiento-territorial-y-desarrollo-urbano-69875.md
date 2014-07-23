@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2013-10-30"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -87,7 +87,9 @@ X. Condominio: Régimen jurídico en el que coexiste un derecho singular y exclu
 
 XI. Conjunto urbano: Modalidad de acción urbana en un polígono determinado, donde se autorizan simultáneamente diversos aprovechamientos del suelo, y que puede incluir dos o más acciones contempladas en el Título Séptimo de esta Ley;
 
-XII. Consejo Estatal: Consejo Estatal de Desarrollo Urbano, órgano institucional de participación de la sociedad organizada;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XII. Consejo Estatal: Consejo Estatal de Ordenamiento Territorial, Órgano Institucional de Participación de la Sociedad Organizada;
 
 XIII. Consejo Municipal: Consejo Municipal de Desarrollo Urbano, órgano institucional de participación de la sociedad organizada, auxiliar de las autoridades municipales en el proceso de planeación del desarrollo urbano sustentable;
 
@@ -291,7 +293,9 @@ XI. Promover y fomentar acciones urbanas en materia de fraccionamientos, condomi
 
 XII. Establecer los mecanismos que hagan efectiva la participación organizada de los grupos sociales;
 
-XIII. Integrar e instalar el Consejo Estatal de Desarrollo Urbano, como órgano asesor auxiliar de los sectores público, social y privado;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XIII. Integrar e instalar el Consejo Estatal de Ordenamiento Territorial, como órgano asesor auxiliar de los sectores público, social y privado;
 
 XIV. Asumir las facultades que expresamente le deleguen los municipios, mediante el Convenio de Coordinación correspondiente, en materia de planeación y administración urbana o cuando el Municipio solicite el auxilio de la Secretaría, o simplemente no ejerza sus funciones por causa de fuerza mayor o falta de capacidad administrativa; en este caso le corresponderá a la autoridad estatal un porcentaje del 12% por concepto de pago de derechos que se causen por las autorizaciones o licencias emitidas;
 
@@ -375,19 +379,27 @@ Las afectaciones jurídicas derivadas de los programas de desarrollo urbano sust
 
 Para tal efecto el registrador, al realizar la inscripción de los programas, también deberá realizar las anotaciones correspondientes en los folios o asientos registrales respectivos.
 
-### CAPÍTULO III. CONSEJO ESTATAL DE DESARROLLO URBANO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2014)</small>
+
+### CAPÍTULO III. CONSEJO ESTATAL DE ORDENAMIENTO TERRITORIAL
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### Artículo 11.
 
-El Consejo Estatal, en el marco del Sistema Estatal de Planeación Democrática, es un órgano auxiliar de las autoridades mencionadas en el artículo 5 y su funcionamiento se regirá por lo dispuesto en esta Ley y en los ordenamientos reglamentarios que al efecto se emitan.
+El Consejo Estatal de Ordenamiento Territorial, en el marco del Sistema Estatal de Planeación Democrática, es un órgano auxiliar de las autoridades mencionadas en el artículo 5 y su funcionamiento, se regirá por lo dispuesto en esta Ley y en los ordenamientos reglamentarios que al efecto se emitan.
+
+> <small>(REFORMADO. P.O. 23 DE JULIO DE 2014)</small>
 
 ###### Artículo 12.
 
-El Consejo Estatal será un órgano institucional con participación de la sociedad organizada y coadyuvará al cumplimiento de los programas de desarrollo urbano sustentable aprobados por las autoridades competentes.
+El Consejo Estatal de Ordenamiento Territorial, será un órgano institucional con participación de la sociedad organizada y coadyuvará al cumplimiento de los Programas de Desarrollo Urbano Sustentable aprobados por las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### Artículo 13.
 
-El Consejo Estatal, se integrará de la manera siguiente:
+El Consejo Estatal de Ordenamiento Territorial, se integrará de la manera siguiente:
 
 I. Un Presidente. Que será el titular del Poder Ejecutivo o la persona que éste designe;
 
@@ -419,21 +431,25 @@ VII. El Presidente de la Comisión de Planeación para el Desarrollo y Asentamie
 
 VIII. Vocales. Un representante de los siguientes sectores públicos y de la sociedad civil organizada: Dependencias y Organismos, Federales, Estatales y Municipales, relacionadas con el desarrollo urbano sustentable; Asociaciones y Cámaras de Comercio y de la Industria; Colegios y Asociaciones de Profesionistas; Asociaciones Civiles y Sociales; Instituciones Académicas y de Investigación; y Organismos No Gubernamentales; y
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-IX. Los representantes municipales, cuando se traten asuntos de su competencia.
+IX. Los representantes municipales, cuando se traten asuntos de su competencia. Los cargos del Consejo Estatal de Ordenamiento Territorial son honoríficos y por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales. El Secretario de Desarrollo Sustentable suplirá en sus funciones al Presidente del Consejo Estatal de Ordenamiento Territorial.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 Los cargos del Consejo Estatal son honoríficos y por cada representante propietario se designará un suplente, que los sustituirá en sus faltas temporales. El Secretario de Desarrollo Sustentable suplirá en sus funciones al Presidente del Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 14.
 
-Las sesiones del Consejo Estatal serán válidas cuando acudan más de la mitad, de la totalidad de sus miembros. Las decisiones del Consejo Estatal se tomarán por mayoría de votos de los miembros presentes. El Presidente del Consejo Estatal tendrá voto de calidad, en caso de empate.
+Las Sesiones del Consejo Estatal de Ordenamiento Territorial serán válidas cuando acudan más de la mitad, de la totalidad de sus miembros. Las decisiones del Consejo Estatal de Ordenamiento Territorial, se tomarán por mayoría de votos de los miembros presentes. El Presidente del Consejo Estatal de Ordenamiento Territorial tendrá voto de calidad, en caso de empate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### Artículo 15.
 
-El Consejo Estatal, tendrá las atribuciones siguientes:
+El Consejo Estatal de Ordenamiento Territorial, tendrá las atribuciones siguientes:
 
 I. Asesorar a las autoridades competentes en el proceso de planeación del ordenamiento territorial y desarrollo urbano sustentable de los centros de población de acuerdo con los fines de esta Ley;
 
@@ -453,11 +469,13 @@ VII. Elaborar su Reglamento Interno y someterlo a consideración del Poder Ejecu
 
 VIII. Las demás que se relacionen con la naturaleza de sus funciones.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 16.
 
-El Consejo Estatal contará con asesoría y apoyo permanente, para la atención de los asuntos de su competencia, de un grupo de trabajo que constituirá la Subcomisión Técnica. Asimismo el Consejo Estatal contará con una Subcomisión de Vigilancia de la Reserva Territorial Declarativa, misma que intervendrá en la coordinación de acciones que los Gobiernos Federal, Estatal y Municipal, así como los propietarios o poseedores de la tierra, pudieran realizar como parte de sus atribuciones, previniendo y evitando su ocupación irregular; también aportará los elementos técnicos, jurídicos y prácticos para el cumplimiento de sus objetivos.
+El Consejo Estatal de Ordenamiento Territorial contará con asesoría y apoyo permanente, para la atención de los asuntos de su competencia, de un grupo de trabajo que constituirá la Subcomisión Técnica. Asimismo el Consejo Estatal de Ordenamiento Territorial contará con una Subcomisión de Vigilancia de la Reserva Territorial Declarativa, misma que intervendrá en la coordinación de acciones que los Gobiernos Federal, Estatal y Municipal, así como los propietarios o poseedores de la tierra, pudieran realizar como parte de sus atribuciones, previniendo y evitando su ocupación irregular; también aportará los elementos técnicos, jurídicos y prácticos para el cumplimiento de sus objetivos.
 
-La organización y funcionamiento del Consejo Estatal y de las Subcomisiones Técnica y de Vigilancia de la Reserva Territorial Declarativa, se establecerán en el Reglamento Interno del Consejo Estatal.
+La organización y funcionamiento del Consejo Estatal de Ordenamiento Territorial y de las Subcomisiones Técnica y de Vigilancia de la Reserva Territorial Declarativa, se establecerán en el Reglamento Interno del Consejo Estatal de Ordenamiento Territorial.
 
 ###### Artículo 17.
 
@@ -497,7 +515,9 @@ II. Opinar y coadyuvar en los procesos de consulta convocados a fin de elaborar 
 
 III. Proponer acciones permanentes de información y difusión de los aspectos vinculados con los programas de desarrollo urbano sustentable municipales;
 
-IV. Solicitar la opinión del Consejo Estatal en algún asunto específico;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+IV. Solicitar la opinión del Consejo Estatal de Ordenamiento Territorial en algún asunto específico;
 
 V. Evaluar a solicitud de la Presidencia Municipal, los estudios y proyectos específicos tendientes a solucionar problemas urbanos y formular las propuestas correspondientes;
 
@@ -645,7 +665,9 @@ El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable 
 
 I. La Secretaría deberá considerar los lineamientos y estrategias contenidas en el Plan Estatal de Desarrollo vigente;
 
-II. En el marco del Consejo Estatal, la Secretaría dará aviso del inicio del proceso de planeación y recepción de las opiniones, planteamientos y demandas de la comunidad, a través de la publicación de las bases de la consulta en el Periódico Oficial “Tierra y Libertad” y en dos diarios de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. En el marco del Consejo Estatal de Ordenamiento Territorial, la Secretaría dará aviso del inicio del proceso de planeación y recepción de las opiniones, planteamientos y demandas de la comunidad, a través de la publicación de las bases de la consulta en el Periódico Oficial “Tierra y Libertad” y en dos diarios de mayor circulación en el Estado;
 
 III. Cuando el proyecto del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable se encuentre disponible, se publicará la convocatoria para la consulta pública, en el Periódico Oficial “Tierra y Libertad” y en dos diarios de amplia circulación en el Estado; el proyecto del programa estatal estará a consulta y opinión de la ciudadanía, de las organizaciones de la comunidad y de las autoridades federales y municipales interesadas, durante un plazo no menor de sesenta días naturales;
 
@@ -821,9 +843,11 @@ Una vez realizados los estudios a que hace referencia el párrafo anterior la Se
 
 La fundación de centros de población prevista en el Programa Estatal o en el Programa Municipal de Desarrollo Urbano Sustentable correspondiente, que se realicen conforme a esta Ley, requerirá decreto expedido por el Congreso del Estado. El decreto señalará la obligatoriedad de formular el programa de desarrollo urbano sustentable correspondiente, cuyo contenido se determinará al detalle en el reglamento de ordenamiento territorial de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 60.
 
-El Congreso del Estado solicitará el dictamen a que se refiere el artículo 58 segundo párrafo, así como la opinión del Consejo Estatal y del Consejo Municipal correspondiente, respecto de las iniciativas de fundación de centros de población.
+El Congreso del Estado solicitará el Dictamen a que se refiere el artículo 58 segundo párrafo, así como la opinión del Consejo Estatal de Ordenamiento Territorial y del Consejo Municipal correspondiente, respecto de las iniciativas de fundación de centros de población.
 
 ###### Artículo 61.
 
@@ -907,9 +931,11 @@ V. Las zonas que se hayan visto deterioradas por fenómenos naturales o por expl
 
 VI. Aquellas áreas que prevean otros ordenamientos.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 67.
 
-El Ejecutivo Estatal a propuesta de los municipios o del Consejo Estatal, con base en los estudios y lineamientos establecidos en los programas de desarrollo urbano sustentable, podrá proponer como Áreas Naturales Protegidas, aquellas zonas que lo requieran por su ubicación, extensión, calidad o por influencia que tenga en el ambiente, la ordenación del territorio y el desarrollo urbano sustentable.
+El Ejecutivo Estatal a propuesta de los Municipios o del Consejo Estatal de Ordenamiento Territorial, con base en los estudios y lineamientos establecidos en los Programas de Desarrollo Urbano Sustentable, podrá proponer como Áreas Naturales Protegidas, aquellas zonas que lo requieran por su ubicación, extensión, calidad o por influencia que tenga en el ambiente, la ordenación del territorio y el desarrollo urbano sustentable.
 
 ###### Artículo 68.
 
@@ -1125,11 +1151,21 @@ III. Medidas o políticas de fomento a la promoción de nuevos asentamientos o a
 
 IV. Lineamientos de diseño, construcción, comercialización, investigación y desarrollo tecnológico que deban satisfacerse en los proyectos para alcanzar los objetivos señalados en los programas de vivienda.
 
-### CAPÍTULO I. DE LAS RESERVAS TERRITORIALES
+> <small>(ADICIONADO CON LOS ARTÍCULO QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2014)</small>
+
+### CAPITULO VIII. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+Artículo 92 BIS.- Los programas que establece esta Ley deberán adecuarse a los requerimientos que se presenten en una emergencia o contingencia urbana, de conformidad con las medidas de seguridad que en materia de protección civil determinen las disposiciones aplicables. Asimismo, se identificarán los lugares no aptos para el desarrollo urbano que por su naturaleza representen riesgo para los asentamientos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+Artículo 92 TER.- Las actividades e inversiones que en materia de protección ecológica, conservación, mejoramiento, así como las acciones urbanas que realice la Federación, el estado, los Municipios y los particulares, deberán atender al análisis de la prevención y reducción de los efectos destructivos de un desastre o emergencia.
 
 ## TÍTULO CUARTO. RESERVAS TERRITORIALES
 
-### CAPÍTULO II. RESERVA TERRITORIAL PATRIMONIAL
+### CAPÍTULO I. DE LAS RESERVAS TERRITORIALES
 
 ###### Artículo 93.
 
@@ -1153,7 +1189,7 @@ El Gobierno del Estado, a través de la Comisión Estatal de Reservas Territoria
 
 El Programa Estatal de Reservas Territoriales deberá ser revisado y en su caso modificado por lo menos cada seis años.
 
-### CAPÍTULO III. REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+### CAPÍTULO II. RESERVA TERRITORIAL PATRIMONIAL
 
 ###### Artículo 97.
 
@@ -1237,7 +1273,7 @@ Cuando la Comisión Estatal de Reservas Territoriales y los Ayuntamientos ejerza
 
 El derecho de preferencia a que se refiere este capítulo, no se aplicará en aquellas superficies o predios comprendidos dentro de las áreas urbanizadas.
 
-### CAPÍTULO IV. DE LOS BIENES TERRITORIALES
+### CAPÍTULO III. REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
 ###### Artículo 108.
 
@@ -1259,7 +1295,7 @@ No se regularizará la tenencia de la tierra en asentamientos humanos ubicados e
 
 En la regularización de propiedad social y federal corresponderá al Instituto Nacional de Administración y Avalúos de Bienes Nacionales, establecer el monto de la indemnización y la enajenación. En el caso de regularización de propiedad estatal, municipal o particular, corresponderá a la Comisión de Avalúos de Bienes del Estado de Morelos, establecer el monto de la indemnización y la enajenación.
 
-### CAPÍTULO V. DE LA EXPROPIACIÓN ESTATAL PARA FINES DEL DESARROLLO URBANO SUSTENTABLE
+### CAPÍTULO IV. DE LOS BIENES TERRITORIALES
 
 ###### Artículo 113.
 
@@ -1283,7 +1319,7 @@ Los bienes territoriales propiedad de la Comisión Estatal de Reservas Territori
 
 No podrán ser entregados los bienes territoriales propiedad de la Comisión sin existir un uso o destino preestablecido. El incumplimiento a los términos de la solicitud dará lugar al requerimiento del bien por parte de la Comisión.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. DE LA EXPROPIACIÓN ESTATAL PARA FINES DEL DESARROLLO URBANO SUSTENTABLE
 
 ###### Artículo 117.
 
@@ -1295,7 +1331,7 @@ Corresponderá a la Comisión Estatal de Reservas Territoriales, en colaboració
 
 ## TÍTULO QUINTO. APOYOS A LA ADMINISTRACIÓN URBANA
 
-### CAPÍTULO I. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
+### CAPÍTULO ÚNICO
 
 ###### Artículo 119.
 
@@ -1337,7 +1373,7 @@ Para efectos de lo señalado en el artículo anterior, y para los casos que así
 
 ## TÍTULO SEXTO. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
 
-### CAPÍTULO II. VÍA PÚBLICA Y VIALIDAD
+### CAPÍTULO I. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
 
 ###### Artículo 123.
 
@@ -1397,7 +1433,7 @@ Las constancias y licencias de uso de suelo no constituyen constancias de alinea
 
 La oficina de Catastro, estatal o municipal, en los documentos que expida al público respecto a la propiedad inmobiliaria, plano catastral o boleta predial, deberán indicar el uso de suelo que señala el programa vigente.
 
-### CAPÍTULO III. CONSTRUCCIÓN Y EJECUCIÓN DE OBRAS
+### CAPÍTULO II. VÍA PÚBLICA Y VIALIDAD
 
 ###### Artículo 133.
 
@@ -1431,7 +1467,7 @@ Para delimitar los arroyos de circulación vehicular se construirán guarnicione
 
 El tipo y características técnicas del pavimento a emplearse en vías públicas se determinarán con base en su función dentro de la estructura e imagen urbana y a la intensidad del tránsito y pesos vehiculares, ya sea que se ejecuten en forma directa por los Municipios, por contratistas, por particulares o por colonos organizados; en cualquiera de los casos se utilizarán materiales permeables para la mejor filtración de las aguas, de conformidad con lo dispuesto en las normas de equipamiento urbano. La Autoridad Municipal u otros ejecutores podrán solicitar la asesoría técnica de la Secretaría de Obras Públicas, la Secretaría de Desarrollo Sustentable y/o de los Colegios de Arquitectos o de Ingenieros Civiles legalmente constituidos en la Entidad.
 
-### CAPÍTULO IV. REDES DE SERVICIOS PÚBLICOS
+### CAPÍTULO III. CONSTRUCCIÓN Y EJECUCIÓN DE OBRAS
 
 ###### Artículo 137.
 
@@ -1441,7 +1477,7 @@ Toda obra, construcción o edificación que se realice en el territorio estatal 
 
 Las autoridades municipales correspondientes, supervisarán la ejecución de los proyectos y vigilarán en todo momento que las obras y actividades complementarias estén de acuerdo con lo establecido en los programas de desarrollo urbano sustentable.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. REDES DE SERVICIOS PÚBLICOS
 
 ###### Artículo 139.
 
@@ -1461,7 +1497,7 @@ Los derechos de vía de las líneas de alta tensión, previo dictamen de la Secr
 
 ## TÍTULO SÉPTIMO. FUSIÓN, DIVISIÓN, FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y DE SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 143.
 
@@ -1533,7 +1569,7 @@ En casos excepcionales, a juicio de la Comisión Estatal o Municipal, o bien de 
 
 Solo podrá prorrogarse el plazo concedido para las obras de urbanización, hasta por una mitad del original plazo, a juicio de las autoridades competentes, en cuyo caso, la fianza deberá de ser renovada en base a presupuestos y valores vigentes al momento de la renovación.
 
-### CAPÍTULO III. FUSIÓN Y DIVISIÓN
+### CAPÍTULO II. DE LAS AUTORIDADES Y DE SUS ATRIBUCIONES
 
 ###### Artículo 156.
 
@@ -1561,7 +1597,7 @@ II. Vigilar que se cumplan todos los requisitos y formalidades para cada una de 
 
 III. Las demás que señale su respectivo reglamento.
 
-### CAPÍTULO IV. FRACCIONAMIENTOS
+### CAPÍTULO III. FUSIÓN Y DIVISIÓN
 
 ###### Artículo 159.
 
@@ -1577,7 +1613,7 @@ Cuando se efectúe una división con apertura de calle y/o servidumbre de paso, 
 
 Deberá entenderse por división para efectos de regularización cuando las fracciones existentes por su condición física y jurídica no cumplan con el mínimo de noventa metros cuadrados de superficie y seis metros de frente, con una antigüedad mayor de cinco años, teniendo los poseedores el carácter de dueños, y una posesión pacifica, continua, pública y cierta.
 
-### CAPÍTULO V. RÉGIMEN EN CONDOMINIO
+### CAPÍTULO IV. FRACCIONAMIENTOS
 
 ###### Artículo 162.
 
@@ -1675,7 +1711,7 @@ El fraccionamiento de urbanización progresiva que desarrolle el Gobierno del Es
 
 Los lotes de los fraccionamientos de urbanización progresivos ejecutados por el Gobierno del Estado y los ayuntamientos, deberán ser ofertados a familias que no tengan vivienda propia y sus ingresos familiares no sean mayores a tres veces el salario mínimo vigente en el Estado, y se enajenarán mediante un sorteo con presencia de notario público.
 
-### CAPÍTULO VI. CONJUNTOS URBANOS
+### CAPÍTULO V. RÉGIMEN EN CONDOMINIO
 
 ###### Artículo 173.
 
@@ -1747,7 +1783,7 @@ II. Los senderos peatonales que sirvan de enlace entre edificios y se encuentren
 
 III. Las demás que refiera el o los reglamentos respectivos.
 
-### CAPÍTULO I. DENUNCIA CIUDADANA Y PROCEDIMIENTO DE CONCILIACIÓN
+### CAPÍTULO VI. CONJUNTOS URBANOS
 
 ###### Artículo 183.
 
@@ -1757,19 +1793,19 @@ Un conjunto urbano podrá contener acciones de fusión, división, fraccionamien
 
 En los conjuntos urbanos en que se desarrollen proyectos de vivienda destinada a los sectores más desprotegidos de la población, las autoridades estatales y municipales otorgarán todas las facilidades para su tramitación, construcción y operación.
 
-### CAPÍTULO II. INSPECCIONES
+### CAPÍTULO I. DENUNCIA CIUDADANA Y PROCEDIMIENTO DE CONCILIACIÓN
 
 ## TÍTULO OCTAVO. DENUNCIA CIUDADANA, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO III. INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. INSPECCIONES
 
 ###### Artículo 185.
 
 Son autoridades competentes para recibir la denuncia ciudadana, sin menoscabo de otras disposiciones aplicables:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-I. El Gobierno del Estado a través de la Secretaría de Desarrollo Sustentable, Secretaría de Obras Públicas y el Consejo Estatal;
+I. El Gobierno del Estado a través de la Secretaría de Desarrollo Sustentable, Secretaría de Obras Públicas y el Consejo Estatal de Ordenamiento Territorial;
 
 II. Los Gobiernos Municipales a través del Síndico, la oficina responsable del desarrollo urbano y el Consejo Municipal de Desarrollo Urbano.
 
@@ -1867,7 +1903,7 @@ VII. Por desistimiento del denunciante.
 
 Sin perjuicio de las sanciones administrativas o penales que procedan en el marco legal de competencia respectiva, toda persona que violente la presente Ley está obligado a reparar los daños causados, de conformidad con la legislación civil aplicable.
 
-### CAPÍTULO IV. MEDIOS DE DEFENSA
+### CAPÍTULO III. INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 202.
 
@@ -1876,6 +1912,8 @@ La autoridad estatal o municipal podrá realizar, por conducto del personal debi
 ###### Artículo 203.
 
 El procedimiento de las inspecciones se sujetará a lo dispuesto en el reglamento que corresponda.
+
+### CAPÍTULO IV. MEDIOS DE DEFENSA
 
 ###### Artículo 204.
 
@@ -2038,3 +2076,21 @@ Tercero.- Se le otorga 90 días, para que el Ejecutivo del Estado, actualice el 
 Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Quinto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO No. 1491 POR EL QUE SE ADICIONA EL CAPÍTULO VIII DEL TÍTULO TERCERO Y LOS ARTÍCULOS 92 BIS Y 92 TER, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO No. 1493 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO PRIMERO Y LOS ARTÍCULOS 4, FRACCIÓN XII; 7, FRACCIÓN XIII; 11; 12; 13 FRACCIÓN IX; 14; 15 PRIMER PÁRRAFO; 16; 22, FRACCIÓN IV; 32, FRACCIÓN II; 36, FRACCIÓN II; 60; 67 Y 185, FRACCIÓN I, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado de Morelos contará con un plazo de 180 días posteriores a la entrada en vigor del presente Decreto, para que realice las adecuaciones al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, en materia de ordenamiento territorial, así como a las demás disposiciones reglamentarias que sean necesarias, en los términos a que se refiere la presente resolución.
+
+TERCERO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, de la Constitución Política del Estado Libre y Soberano de Morelos.
