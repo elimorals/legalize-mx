@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-subsistema-de-preparatoria-abierta-y-88176"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-06"
-last_updated: "2012-06-06"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA -ANTES LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA DEL ESTADO DE CHIHUAHUA-
 
-LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA DEL ESTADO DE CHIHUAHUA
+LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 6 de junio de 2012.
 
@@ -39,35 +39,51 @@ LA SEXAGÉSIMA TERCERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHU
 
 D E C R E T A
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley del Subsistema de Preparatoria Abierta del Estado de Chihuahua, para quedar redactada en los términos siguientes:
+Se expide la Ley del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
-LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA DEL ESTADO DE CHIHUAHUA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2014)</small>
+
+LEY DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. De su naturaleza y Objeto
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el "Subsistema de Preparatoria Abierta del Estado de Chihuahua", como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua adscrito a la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
+Se crea el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, como un Organismo Público Descentralizado del Gobierno del Estado de Chihuahua adscrito a la Secretaría de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, con domicilio en la Capital del Estado.
 
-Para los efectos de la presente Ley, se entiende como "Preparatoria Abierta" y/o "Subsistema de Preparatoria Abierta", al organismo creado mediante la misma, así como al "Subsistema Educativo del Nivel Medio Superior en la modalidad No Escolarizada y/o Mixta" en las modalidades definidas por la Reforma Integral de la Educación Media Superior en el Bachillerato General y/o Tecnológico; en los términos convenidos o que se convengan con la Autoridad Educativa Federal.
+Para los efectos de la presente Ley, se entiende como Preparatoria Abierta y Telebachillerato y/o Subsistema de Preparatoria Abierta y Telebachillerato, al Organismo creado mediante la misma, así como al Subsistema Educativo del Nivel Medio Superior en la modalidad Escolarizada, No Escolarizada y/o Mixta en las modalidades definidas por la Reforma Integral de la Educación Media Superior en el Bachillerato General y/o Tecnológico; en los términos convenidos o que se convengan con la Autoridad Educativa Federal.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-El Subsistema de Preparatoria Abierta del Estado de Chihuahua, adopta el modelo educativo de la modalidad "No Escolarizada y/o Mixta" con apego a las normas, políticas y lineamientos establecidos de común acuerdo entre las Autoridades Educativas Estatal y Federal, así como a aquéllas expedidas por la Secretaría de Educación Pública.
+El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, adopta el modelo educativo de la modalidad Escolarizada, No Escolarizada y/o Mixta con apego a las normas, políticas y lineamientos establecidos de común acuerdo entre las Autoridades Educativas Estatal y Federal, así como a aquellas expedidas por la Secretaría de Educación Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 3.
 
-El Subsistema de Preparatoria Abierta del Estado de Chihuahua tendrá por objetivo:
+El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua tendrá por objeto:
 
-I. Planear, organizar y administrar el Subsistema de Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-II. Atender la demanda educativa del nivel medio superior en aquellos sectores de la sociedad que no pueden acceder a la modalidad escolarizada, ya sea por su ubicación geográfica, ocupaciones personales, limitaciones físicas u otras circunstancias.
+I. Planear, organizar y administrar el Subsistema de Preparatoria Abierta y Telebachillerato.
 
-III. Proporcionar asesoría y apoyo a las dependencias e instituciones privadas y municipales para el desarrollo y operación del Subsistema de Preparatoria Abierta; así como suscribir acuerdos para la creación de centros de asesoría y sedes de aplicación.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. Atender la demanda educativa del nivel medio superior en aquellos sectores de la sociedad que no pueden acceder a la modalidad escolarizada o no escolarizada, ya sea por su ubicación geográfica, ocupaciones personales, limitaciones físicas u otras circunstancias, incluida en su caso tal atención mediante los Programas de Telebachillerato Comunitario y Bachillerato Intercultural.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+III. Proporcionar asesoría y apoyo a las dependencias e instituciones privadas y municipales para el desarrollo y operación del Subsistema de Preparatoria Abierta y Telebachillerato; así como suscribir acuerdos para la creación de Centros de Asesoría y sedes de aplicación.
 
 IV. Desarrollar y establecer, en coordinación con los municipios e instituciones privadas, los procesos de preinscripción, inscripción, acreditación y certificación.
 
@@ -77,15 +93,19 @@ VI. Operar la logística para la solicitud, aplicación y entrega de certificaci
 
 VII. Las demás que le confieren las disposiciones legales aplicables y las que el Director General o, en su caso, el Secretario de Educación, Cultura y Deporte le asigne, dentro del ámbito de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-Para el cumplimiento de su objeto, el Subsistema de Preparatoria Abierta del Estado de Chihuahua, tendrá las facultades siguientes:
+Para el cumplimiento de su objeto, el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, tendrá las facultades siguientes:
 
 I. Fomentar el desarrollo del estudio y superación personal de sus usuarios.
 
 II. Impulsar en forma permanente mecanismos de evaluación de la calidad de la docencia y el desarrollo pedagógico, a través de evaluaciones internas y externas, a fin de lograr los más altos estándares de calidad.
 
-III. Reglamentar la selección, ingreso, estancia y egreso de los estudiantes, sujeto a los lineamientos de las "Normas de Registro y Control para el Subsistema de Preparatoria Abierta" que emite la Dirección General del Bachillerato de la Secretaría de Educación Pública del Poder Ejecutivo Federal.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+III. Reglamentar la selección, ingreso, estancia y egreso de los estudiantes, sujeto a los lineamientos de las Normas de Registro y Control para Preparatoria Abierta que emite la Dirección General del Bachillerato de la Secretaría de Educación Pública del Poder Ejecutivo Federal; o las instancias que resulten competentes.
 
 IV. Establecer los términos del ingreso, promoción y permanencia del personal académico, asesores o análogos, así como la selección, admisión y ascenso del personal administrativo, apoyado en la reglamentación correspondiente.
 
@@ -97,25 +117,39 @@ VII. Planear, implementar y evaluar programas de enseñanza media superior en ma
 
 VIII. Expedir constancias, certificados de estudio, certificados de competencias laborales y diplomas, según los planes y/o programas debidamente autorizados.
 
-IX. Reconocer equivalencias y estudios del mismo tipo educativo realizados en otras instituciones de enseñanza media superior nacionales y/o extranjeras, apegándose al Acuerdo 286 de fecha 30 de octubre de 2000; o el que en su momento resulte aplicable.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-X. Crear las instancias necesarias de vinculación con los sectores público, privado y social, que deberán ser distintas y diferenciadas de los órganos de gobierno del Subsistema de Preparatoria Abierta.
+IX. Establecer equivalencias y reconocer estudios del mismo tipo educativo realizados en otras instituciones de enseñanza media superior nacionales y/o extranjeras, apegándose al Acuerdo 286 de fecha 30 de octubre del 2000; o los que resulten aplicables.
 
-XI. Promover y organizar programas de prestación del servicio social, residencias y estadías u otras modalidades de vinculación entre la sociedad y el Subsistema de Preparatoria Abierta, acordes a los objetivos de los programas educativos.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+X. Crear las instancias necesarias de vinculación con los sectores público, privado y social, que deberán ser distintas y diferenciadas de los órganos de gobierno del Subsistema de Preparatoria Abierta y Telebachillerato.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XI. Promover y organizar programas de prestación del servicio social, residencias y estadías u otras modalidades de vinculación entre la sociedad y el Subsistema de Preparatoria Abierta y Telebachillerato, acordes a los objetivos de los programas educativos.
 
 XII. Establecer órganos y mecanismos de apoyo financiero.
 
 XIII. Diseñar y establecer anualmente su calendario escolar y/o de solicitud y aplicación de exámenes, en función de los programas de trabajo aprobados por los órganos competentes, de modo que pueda cumplir de manera eficaz las actividades académicas programadas.
 
-XIV. Las demás que le confieran las normas y disposiciones reglamentarias de la Preparatoria Abierta, o aquéllas derivadas de las normas federales aplicables.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-## TÍTULO SEGUNDO. DEL GOBIERNO DE LA PREPARATORIA ABIERTA
+XIV. Las demás que le confieran las normas y disposiciones reglamentarias de la Preparatoria Abierta y Telebachillerato, o aquellas derivadas de las normas federales aplicables.
 
-### CAPÍTULO I. De las Autoridades de la Preparatoria Abierta
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2014)</small>
+
+## TÍTULO SEGUNDO. DEL GOBIERNO DE LA PREPARATORIA ABIERTA Y TELEBACHILLERATO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2014)</small>
+
+### CAPÍTULO I. De las Autoridades del Subsistema de Preparatoria Abierta y Telebachillerato
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 5.
 
-Son autoridades del Subsistema de Preparatoria Abierta del Estado de Chihuahua, las siguientes:
+Son autoridades del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, las siguientes:
 
 I. La Junta Directiva.
 
@@ -127,13 +161,17 @@ IV. Los Jefes de Unidades.
 
 V. Un Órgano de Vigilancia.
 
-Para mejorar desempeño (sic) de sus funciones, el Organismo contará con las Oficinas Regionales de Servicios que sean aprobadas por la Junta Directiva, siempre que se justifiquen y cuenten con el respaldo presupuestal respectivo.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
+Para el mejor desempeño de sus funciones, el Organismo contará con las Oficinas Regionales de Servicios que sean aprobadas por la Junta Directiva, siempre que se justifiquen y cuenten con el respaldo presupuestal respectivo.
 
 ### CAPÍTULO II. De la Junta Directiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 6.
 
-La Junta Directiva es la máxima autoridad del Subsistema de Preparatoria Abierta del Estado de Chihuahua, y estará integrada por siete miembros que serán:
+La Junta Directiva es la máxima autoridad del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, y estará integrada por siete miembros que serán:
 
 I. El Secretario de Educación, Cultura y Deporte del Poder Ejecutivo del Estado, quien la presidirá.
 
@@ -207,13 +245,21 @@ La Junta Directiva sesionará válidamente con la asistencia de más de la mitad
 
 La Junta Directiva tendrá las atribuciones siguientes:
 
-I. Vigilar la buena marcha del Subsistema de Preparatoria Abierta, entendido como un Subsistema Educativo del Sector Público, en todos los ámbitos de su actividad, y recomendar las medidas para mejorar su funcionamiento.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-II. Examinar y, en su caso, aprobar el proyecto del presupuesto y la programación anual de la Preparatoria Abierta en los términos que resulten aplicables derivados de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público.
+I. Vigilar la buena marcha del Subsistema de Preparatoria Abierta y Telebachillerato, entendido como un Subsistema Educativo del Sector Público, en todos los ámbitos de su actividad, y recomendar las medidas para mejorar su funcionamiento.
 
-III. Autorizar la estructura organizacional del Subsistema de Preparatoria Abierta, así como sus cambios, siempre que se cuente con la suficiencia presupuestal necesaria y con las normas o lineamientos que resulten aplicables.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-IV. Nombrar, a propuesta del Director General, a los Jefes de Unidad de la Preparatoria Abierta del Estado de Chihuahua, cada cuatro años, y en su caso, conocer sobre las causales de su remoción o cambio.
+II. Examinar y, en su caso, aprobar el proyecto de presupuesto y la programación anual de la Preparatoria Abierta y Telebachillerato en los términos que resulten aplicables derivados de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+III. Autorizar la estructura organizacional del Subsistema de Preparatoria Abierta y Telebachillerato, así como sus cambios, siempre que se cuente con la suficiencia presupuestal necesaria y con las normas o lineamientos que resulten aplicables.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+IV. Nombrar, a propuesta del Director General, a los Jefes de Unidad de la Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, cada cuatro años y, en su caso, conocer sobre las causales de su remoción o cambio.
 
 V. Nombrar, a propuesta del Director General, a los Directores Académico y Administrativo y, en su caso, conocer sobre las causales de su remoción o cambio.
 
@@ -225,35 +271,47 @@ VIII. Solicitar auditorías externas, en su caso.
 
 IX. Sin perjuicio de las facultades que le corresponden al Director General, otorgar Poderes Generales para Pleitos y Cobranzas, Actos de Administración y de Dominio, incluidas las facultades para articular y absolver posiciones, aun en materia laboral, así como facultades para suscribir títulos y operaciones de crédito, de conformidad con lo previsto en los artículos 9 y 85 de la Ley General de Títulos y Operaciones de Crédito.
 
-X. Aprobar los planes estratégicos de la Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+X. Aprobar los planes estratégicos de la Preparatoria Abierta y Telebachillerato.
 
 XI. Proponer ante quien corresponda, los cambios que considere necesarios a los planes, programas de estudio o materiales, evaluaciones o exámenes.
 
-XII. Aprobar los reglamentos del Subsistema de Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XII. Aprobar los reglamentos del Subsistema de Preparatoria Abierta y Telebachillerato.
 
 XIII. Nombrar, a propuesta del Director General, a los Coordinadores de las Oficinas Regionales de Servicios y, en su caso, conocer sobre las causales de su remoción o cambio.
 
 XIV. Emitir el Acuerdo o Reglamento en que se establezcan los requisitos, bases y funciones de los Directores Académico y Administrativo, así como de los Jefes de Unidades y demás dependencias de la estructura orgánica del Subsistema.
 
-XV. Resolver los conflictos entre órganos de la Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XV. Resolver los conflictos entre órganos de la Preparatoria Abierta y Telebachillerato.
 
 XVI. Expedir sus propios reglamentos según corresponda.
 
-XVII. Las demás que se establezcan en la presente Ley, en las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta, que no correspondan a otros órganos.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XVII. Las demás que se establezcan en la presente Ley, en las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta y Telebachillerato, que no correspondan a otros órganos.
 
 ### CAPÍTULO III. Del Director General
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 15.
 
-El Director General será la autoridad académica y administrativa del Subsistema de Preparatoria Abierta, y será nombrado por el Gobernador del Estado. Durará en su encargo cuatro años y podrá ser ratificado en una sola ocasión para un período igual, sin exceder en ningún caso los ocho años.
+El Director General será la autoridad académica y administrativa del Subsistema de Preparatoria Abierta y Telebachillerato, y será nombrado por el Gobernador del Estado. Durará en su cargo cuatro años y podrá ser ratificado en una sola ocasión para un período igual, sin exceder en ningún caso los ocho años.
 
 ###### ARTÍCULO 16.
 
 Las ausencias temporales del Director General serán cubiertas por el Director Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-Para ser Director General del Subsistema de Preparatoria Abierta del Estado de Chihuahua, se requiere:
+Para ser Director General del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, se requiere:
 
 I. Ser mexicano por nacimiento.
 
@@ -263,27 +321,39 @@ III. Poseer el grado de doctorado o de maestría como mínimo, así como contar 
 
 IV. Las demás que, en su caso, se establezcan en el Estatuto Orgánico.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 18.
 
-El Director General del Subsistema de Preparatoria Abierta del Estado de Chihuahua, será el Coordinador General del Organismo en los términos señalados en la Ley de Entidades Paraestatales del Estado de Chihuahua, así como el responsable del propio Subsistema, en los términos pactados con la Secretaría de Educación Pública del Poder Ejecutivo Federal.
+El Director General del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, será el Coordinador General del Organismo en los términos señalados en la Ley de Entidades Paraestatales del Estado de Chihuahua, así como el responsable del propio Subsistema, en los términos pactados con la Secretaría de Educación Pública del Poder Ejecutivo Federal.
 
 ###### ARTÍCULO 19.
 
 El Director General no formará, por ningún motivo, parte de la Junta Directiva, pero podrá asistir a las sesiones respectivas con derecho de voz, más no de voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-El Director General del Subsistema de Preparatoria Abierta del Estado de Chihuahua, tendrá las facultades y obligaciones siguientes:
+El Director General del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, tendrá las facultades y obligaciones siguientes:
 
-I. Ejercer la dirección y gestión del Subsistema de Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-II. Administrar y representar legalmente al Subsistema de Preparatoria Abierta con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley, por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral, formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas en uno o más apoderados para que las ejerzan individual o conjuntamente, aun en materia laboral, incluida la facultad de articular y absolver posiciones, así como revocar los poderes que otorgue. Para actos de dominio requerirá de la autorización expresa de la Junta de Directiva para cada caso concreto.
+I. Ejercer la dirección y gestión del Subsistema de Preparatoria Abierta y Telebachillerato.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. Administrar y representar legalmente al Subsistema de Preparatoria Abierta y Telebachillerato con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley, por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral, formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes, tales como facultades para emitir, suscribir, girar, librar, cobrar y endosar títulos de crédito, al igual que para abrir, operar y cerrar cuentas bancarias, de conformidad con las autorizaciones que le sean conferidas por la Junta Directiva. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas en uno o más apoderados para que las ejerzan individual o conjuntamente, aun en materia laboral, incluida la facultad de articular y absolver posiciones, así como revocar los poderes que otorgue. Para actos de dominio requerirá de la autorización expresa de la Junta Directiva para cada caso concreto.
 
 III. Desarrollar las líneas de actuación aprobadas por los órganos colegiados que en su caso sean creados, y ejecutar sus acuerdos.
 
-IV. Cumplir y hacer cumplir las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-V. Promover la difusión y divulgación del conocimiento, la cultura y la autosuperación de los Estudiantes o Usuarios del Subsistema de Preparatoria Abierta.
+IV. Cumplir y hacer cumplir las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta y Telebachillerato.
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+V. Promover la difusión y divulgación del conocimiento, la cultura y la autosuperación de los Estudiantes o Usuarios del Subsistema de Preparatoria Abierta y Telebachillerato.
 
 VI. Proponer a la Junta Directiva el nombramiento y remoción de los Jefes de Unidades.
 
@@ -295,15 +365,19 @@ IX. Nombrar y remover al Abogado General.
 
 X. Delegar funciones ejecutivas que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa.
 
-XI. Las demás que le confiere el artículo 21 de la Ley de Entidades Paraestatales del Estado de Chihuahua, o que establezcan las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XI. Las demás que le confiere el artículo 21 de la Ley de Entidades Paraestatales del Estado de Chihuahua, o que establezcan las normas y disposiciones reglamentarias del Subsistema de Preparatoria Abierta y Telebachillerato.
 
 ## TÍTULO TERCERO. DEL PATRIMONIO
 
 ### CAPÍTULO ÚNICO. De la Integración del Patrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-El patrimonio del Subsistema de Preparatoria Abierta del Estado de Chihuahua se integrará por:
+El patrimonio del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua se integrará por:
 
 I. Los ingresos que obtenga por los servicios que preste en cumplimiento de su objetivo.
 
@@ -315,31 +389,39 @@ IV. Los bienes muebles e inmuebles de su propiedad y los que adquiera por cualqu
 
 V. Las utilidades, intereses, dividendos, rendimientos, derechos y, en general, todo ingreso que adquiera por cualquier título legal.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 22.
 
-Los bienes inmuebles que formen parte del patrimonio del Subsistema de Preparatoria Abierta serán inembargables, inalienables e imprescriptibles. La Junta Directiva podrá solicitar al Titular del Poder Ejecutivo Estatal, que gestione ante la autoridad competente, la autorización para la desafectación de los bienes inmuebles que siendo patrimonio del Subsistema de Preparatoria Abierta, dejen de estar sujetos a la prestación del servicio público propio de su objeto, mismos que serán considerados bienes de dominio privado de la misma y sujetos por tanto, a las disposiciones de las leyes civiles.
+Los bienes inmuebles que formen parte del patrimonio del Subsistema de Preparatoria Abierta y Telebachillerato serán inembargables, inalienables e imprescriptibles. La Junta Directiva podrá solicitar al Titular del Poder Ejecutivo Estatal, que gestione ante la autoridad competente, la autorización para la desafectación de los bienes inmuebles que siendo patrimonio del Subsistema de Preparatoria Abierta y Telebachillerato, dejen de estar sujetos a la prestación del servicio público propio de su objeto, mismos que serán considerados bienes de dominio privado de la misma y sujetos por tanto, a las disposiciones de las leyes civiles.
 
-El Subsistema de Preparatoria Abierta, destinará la totalidad de sus activos al cumplimiento de sus fines.
+El Subsistema de Preparatoria Abierta y Telebachillerato, destinará la totalidad de sus activos al cumplimiento de sus fines.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-La inversión de recursos financieros por parte del Subsistema de Preparatoria Abierta en proyectos, investigaciones científicas, pedagógicas y humanísticas; becas y cualquier otro de carácter económico, estará sujeta a las siguientes bases:
+La inversión de recursos financieros por parte del Subsistema de Preparatoria Abierta y Telebachillerato en proyectos, investigaciones científicas, pedagógicas y humanísticas; becas y cualquier otro de carácter económico, estará sujeta a las siguientes bases:
 
-I. La Junta Directiva conocerá de la debida aplicación y adecuado aprovechamiento de los recursos en el Subsistema de Preparatoria Abierta.
+I. La Junta Directiva conocerá de la debida aplicación y adecuado aprovechamiento de los recursos en el Subsistema de Preparatoria Abierta y Telebachillerato.
 
-II. Los derechos de autor, propiedad intelectual y, en general, los resultados obtenidos por las personas físicas o morales que reciban apoyo del Subsistema de Preparatoria Abierta serán materia de regulación específica en los acuerdos y convenios que al efecto se celebren, los cuales protegerán los intereses del Subsistema de Preparatoria Abierta, de los miembros del personal académico y de los Estudiantes o Usuarios.
+II. Los derechos de autor, propiedad intelectual y, en general, los resultados obtenidos por las personas físicas o morales que reciban apoyo del Subsistema de Preparatoria Abierta y Telebachillerato serán materia de regulación específica en los acuerdos y convenios que al efecto se celebren, los cuales protegerán los intereses del Subsistema de Preparatoria Abierta y Telebachillerato, de los miembros del personal académico y de los Estudiantes o Usuarios.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 24.
 
-El ejercicio de los recursos en el Subsistema de Preparatoria Abierta se ajustará siempre a los criterios de racionalidad y disciplina presupuestal.
+El ejercicio de los recursos en el Subsistema de Preparatoria Abierta y Telebachillerato se ajustará siempre a los criterios de racionalidad y disciplina presupuestal.
 
 ## TÍTULO CUARTO. DE LA COMUNIDAD DEL SUBSISTEMA
 
 ### CAPÍTULO I. Del Personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-Para el cumplimiento de su objetivo, el Subsistema de Preparatoria Abierta contará con el siguiente personal:
+Para el cumplimiento de su objetivo, el Subsistema de Preparatoria Abierta y Telebachillerato contará con el siguiente personal:
 
 I. Académico.
 
@@ -347,9 +429,11 @@ II. Técnico de apoyo.
 
 III. De servicios administrativos.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 26.
 
-El personal académico será el contratado para brindar los servicios de asesoría y capacitación requeridos para el objeto de la Preparatoria Abierta, en beneficio de los Estudiantes o Usuarios, y su ingreso, permanencia y terminación será conforme a las disposiciones que al respecto se expidan, así como de los planes y programas que se aprueben.
+El personal académico será el contratado para brindar los servicios de asesoría y capacitación requeridos para el objeto de la Preparatoria Abierta y Telebachillerato, en beneficio de los Estudiantes o Usuarios, y su ingreso, permanencia y terminación será conforme las disposiciones que al respecto se expidan, así como de los planes y programas que se aprueben.
 
 ###### ARTÍCULO 27.
 
@@ -365,53 +449,71 @@ Serán considerados trabajadores de confianza: el Director General, el Abogado G
 
 Los procedimientos que la Junta Directiva expida en relación con el personal académico deberán asegurar que el ingreso, promoción y permanencia sea de personal altamente calificado.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-El Subsistema de Preparatoria Abierta establecerá, a través de la Junta Directiva el régimen salarial del personal académico, técnico de apoyo y de servicios administrativos, dentro de los límites que determine el Estado y de acuerdo con la disponibilidad de recursos, al igual que el régimen de seguridad social que estime conveniente. No será violatorio del principio de igualdad de salarios la fijación de salarios distintos para trabajo igual si éste corresponde a diferentes categorías académicas.
+El Subsistema de Preparatoria Abierta y Telebachillerato establecerá, a través de la Junta Directiva, el régimen salarial del personal académico, técnico de apoyo y de servicios administrativos, dentro de los límites que determine el Estado y de acuerdo con la disponibilidad de recursos, al igual que el régimen de seguridad social que estime conveniente. No será violatorio del principio de igualdad de salarios la fijación de salarios distintos para trabajo igual si este corresponde a diferentes categorías académicas.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 31.
 
-las relaciones de trabajo con el personal académico se regularán además por el Reglamento de Ingreso, Promoción y Permanencia del Personal Académico del propio Subsistema de Preparatoria Abierta, conforme a las características propias de un trabajo especial.
+Las relaciones de trabajo con el personal académico se regularán además por el Reglamento de Ingreso, Promoción y Permanencia del Personal Académico del propio Subsistema de Preparatoria Abierta y Telebachillerato, conforme a las características propias de un trabajo especial.
 
 ### CAPÍTULO II. De los Estudiantes o Usuarios
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 32.
 
-Serán Estudiantes o Usuarios de Subsistema de Preparatoria Abierta quienes cumplan con los procedimientos y requisitos de ingreso que al efecto queden establecidos por las disposiciones reglamentarias que expida el Subsistema de Preparatoria Abierta, en los términos pactados con la Instancia Federal respectiva o los que sean aplicables, y que resulten admitidos para cualesquiera de los programas, cursos y niveles que se impartan, con los derechos y obligaciones que correspondan.
+Serán Estudiantes o Usuarios del Subsistema de Preparatoria Abierta y Telebachillerato quienes cumplan con los procedimientos y requisitos de ingreso que al efecto queden establecidos por las disposiciones reglamentarias que expida el Subsistema de Preparatoria Abierta y Telebachillerato, en los términos pactados con la Instancia Federal respectiva o los que sean aplicables, y que resulten admitidos para cualquiera de los programas, cursos y niveles que se impartan, con los derechos y obligaciones que correspondan.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-Las agrupaciones de Estudiantes o Usuarios del Subsistema de Preparatoria Abierta del Estado de Chihuahua se organizarán, en su caso, en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades del organismo.
+Las agrupaciones de Estudiantes o Usuarios del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua se organizarán, en su caso, en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades del Organismo.
 
 ## TÍTULO QUINTO. DEL ÓRGANO DE VIGILANCIA
 
 ### CAPÍTULO ÚNICO. Del Comisario Público
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 34.
 
-El Subsistema de Preparatoria Abierta del Estado de Chihuahua contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Contraloría del Estado.
+El Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, contará con un órgano de vigilancia a través de un Comisario Público y su respectivo suplente, quienes serán designados por el titular de la Secretaría de la Contraloría del Estado.
 
-El Comisario Público evaluará el desempeño general y por funciones del Subsistema de Preparatoria Abierta del Estado de Chihuahua, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario.
+El Comisario Público evaluará el desempeño general y por funciones del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría del Estado le asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, la Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario.
 
 ###### ARTÍCULO 35.
 
 Las facultades y obligaciones del Comisario Público serán las previstas en las leyes aplicables respecto a la Secretaría de la Contraloría del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 36.
 
-El Ejecutivo deberá acompañar los estados financieros del Subsistema de Preparatoria Abierta a la Cuenta Pública Anual.
+El Ejecutivo deberá acompañar los estados financieros del Subsistema de Preparatoria Abierta y Telebachillerato a la Cuenta Pública Anual.
 
-## TÍTULO SEXTO. DE LA EXTINCIÓN O LIQUIDACIÓN DEL SUBSISTEMA DE PREPARATORIA ABIERTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2014)</small>
+
+## TÍTULO SEXTO. DE LA EXTINCIÓN O LIQUIDACIÓN DEL SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO
 
 ### CAPÍTULO ÚNICO. Del Procedimiento
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 37.
 
-Para la extinción y liquidación del Subsistema de Preparatoria Abierta de Chihuahua, se seguirán las mismas formalidades requeridas para su creación.
+Para la extinción y liquidación del Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, se seguirán las mismas formalidades requeridas para su creación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 38.
 
-En caso de que el Subsistema de Preparatoria Abierta de Chihuahua deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación, Cultura y Deporte, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquélla.
+En caso de que el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la Secretaría de Educación, Cultura y Deporte, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
 
 Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad, que deberá ser aprobada por el Congreso del Estado.
 
@@ -470,3 +572,33 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de mayo del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los recursos humanos, financieros, presupuestales, o asignaciones de cualquier tipo que se entiendan respecto al Subsistema de Telebachillerato, Telebachillerato Comunitario o Bachillerato Intercultural, operados, aplicados o coordinados por la Autoridad Educativa Estatal, incluidos los del ciclo escolar 2013-2014, pasan en todos sus términos y para todos los efectos legales y administrativos consecuentes al Organismo Público Descentralizado denominado Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua.
+
+En términos idénticos a los señalados en el párrafo que antecede, los que se entiendan o refieran al Bachillerato de Chihuahua, también operado por la Autoridad Educativa Estatal, se respetarán de manera cabal todos los derechos laborales de los empleados, trabajadores, docentes, asesores y demás personal sea cual fuere su denominación o categoría.
+
+En el caso del personal o recurso humano del denominado Subsistema de Telebachillerato, y/o Bachillerato de Chihuahua, la relación laboral se entenderá respecto al Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, que hará las gestiones o trámites necesarios para el reconocimiento relativo a salarios, prestaciones, antigüedad y demás condiciones del propio personal, sea cual fuere su denominación en los términos del párrafo que antecede.
+
+Lo relativo a la seguridad social, será atendido por las indicaciones, gestiones o trámites que se realicen según los acuerdos de la H. Junta Directiva, en relación a las disposiciones legales y administrativas que resulten aplicables, e involucrando a las instancias conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan vigentes todos los acuerdos, convenios, contratos, minutas de trabajo o instrumentos similares que se refieran o tengan por objeto las modalidades indicadas en el Artículo Segundo Transitorio, suscritos u ordenados por la Autoridad Educativa Estatal y/o Federal, entendidos y válidos ahora, respecto al Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua; particularmente los firmados con las Autoridades Federales y Municipales.
+
+###### ARTÍCULO CUARTO.
+
+Realícense las gestiones administrativas, presupuestales y operativas necesarias para trasladar todo lo relativo a los programas de Telebachillerato Comunitario y Bachillerato Intercultural, para ser operados por el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua.
+
+###### ARTÍCULO QUINTO.
+
+Regístrese el presente Decreto y realícense las modificaciones a que haya lugar en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
