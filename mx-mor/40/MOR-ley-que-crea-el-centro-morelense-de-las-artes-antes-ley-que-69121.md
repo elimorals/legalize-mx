@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-centro-morelense-de-las-artes-antes-ley-que-691
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-01"
-last_updated: "2009-07-01"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de julio de 2009.
 
@@ -45,9 +45,11 @@ LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS.
 
 ### CAPÍTULO ÚNICO. De la Naturaleza, Objeto y Atribuciones
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Centro Morelense de las Artes del Estado de Morelos, en adelante el Centro, como organismo público descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Educación del Estado de Morelos, con domicilio legal en la ciudad de Cuernavaca, Morelos.
+Se crea el Centro Morelense de las Artes del Estado de Morelos, en adelante el Centro, como Organismo Público Descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Cultura del Estado de Morelos, con domicilio legal en la ciudad de Cuernavaca, Morelos.
 
 ###### ARTÍCULO 2.
 
@@ -95,9 +97,11 @@ XIV. Las demás que le confieran las normas y disposiciones reglamentarias del C
 
 ### CAPÍTULO PRIMERO. De los Órganos del Centro
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 4.
 
-Para efectos de la presente Ley se denomina Rector, al servidor público que desempeña las tareas de Director General del Centro, de conformidad con lo establecido en la Ley de Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+Para efectos de la presente Ley se denomina Rector, al servidor público que desempeña las tareas de Director General del Centro, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
 ###### ARTÍCULO 5.
 
@@ -129,13 +133,21 @@ La Junta de Gobierno se integrará por:
 
 I. El Gobernador Constitucional del Estado, quien la presidirá por sí o por el servidor que designe;
 
-II. El Secretario de Educación, quien es titular de la dependencia coordinadora del sector y actuará como Secretario de la Junta;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-III. El titular de la Secretaría de Finanzas y Planeación;
+II. La persona titular de la Secretaría de Cultura, quien es titular de la dependencia coordinadora del sector y actuará como Secretario Técnico de la Junta;
 
-IV. El titular de la Secretaría de Gestión e Innovación Gubernamental;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-V. El Director General del Instituto de Cultura del Estado de Morelos, y
+III. La persona titular de la Secretaría de Educación, quien coordinará la evaluación y seguimiento de los planes y programas académicos;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+IV. La persona titular de la Secretaría de Hacienda;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+V. La persona titular de la Secretaría de Administración; y
 
 VI. Dos ciudadanos morelenses de reconocida trayectoria en el ámbito de las artes.
 
@@ -151,9 +163,11 @@ El Rector y el Comisario designado por la contraloría deberán asistir a las se
 
 Cuando la Junta de Gobierno así lo considere podrá invitar con voz pero sin voto, a quienes puedan coadyuvar con sus opiniones al mejor desarrollo del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 9.
 
-La Junta de Gobierno tendrá las siguientes facultades no delegables, además de las señaladas en la Ley de Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+La Junta de Gobierno tendrá las siguientes facultades no delegables, además de las señaladas en la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
 I. Vigilar que las actividades del Centro se desarrollen conforme a su objeto y recomendar medidas para mejorar su funcionamiento;
 
@@ -195,15 +209,19 @@ Para ser Rector, deberán reunirse los siguientes requisitos:
 
 I. Ser ciudadano morelense por nacimiento o por residencia y acreditar el desempeño de una función pública relacionada con el cargo a nivel estatal o municipal en el Estado, de por lo menos cinco años;
 
-II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 30 fracciones I, III y IV de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 81, fracciones II, III y IV, de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 III. Contar con título a nivel licenciatura, tener conocimientos y experiencia en materia artística, cultural y administrativa, y
 
 IV. Ser mayor de treinta y cinco años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 12.
 
-El Rector tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+El Rector tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley Orgánica de la Administración Pública del Estado de Morelos:
 
 I. Representar al Centro en las actividades de coordinación y concertación con cualquier institución que tenga relación con la materia de cultura y las artes;
 
@@ -211,7 +229,9 @@ II. Representar al Centro en los comités y eventos artísticos y culturales;
 
 III. Nombrar y remover a los funcionarios y demás personal de apoyo del Centro, que no sean de mandos medios;
 
-IV. Tener la representación legal del Centro en los términos y condiciones señalados en la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+IV. Tener la representación legal del Centro en los términos y condiciones señalados en la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 V. Elaborar el Proyecto Estratégico de Desarrollo del Centro, actualizarlo anualmente y someterlo a la aprobación de la Junta de Gobierno;
 
@@ -277,7 +297,9 @@ El Consejo Académico del Centro se integrará por:
 
 I. El Rector, quien lo presidirá;
 
-II. El Director General del Instituto de Cultura del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. El Secretario de Cultura;
 
 III. Los titulares de cada una de las diversas áreas de conocimiento del Centro.
 
@@ -415,6 +437,12 @@ Serán alumnos del Centro quienes cumplan con los procedimientos y requisitos de
 
 Las agrupaciones de alumnos del Centro se organizarán en la forma que ellos determinen y se mantendrán independientes de grupos políticos, religiosos, sindicales, así como de las propias autoridades universitarias.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+###### ARTÍCULO 35.
+
+Las y los alumnos promoverán y fomentarán al interior de las instalaciones del Centro, la preservación de la cultura y arte morelenses.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
@@ -470,3 +498,13 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
