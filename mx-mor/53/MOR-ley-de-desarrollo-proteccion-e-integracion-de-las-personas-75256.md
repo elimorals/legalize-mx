@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2010-06-09"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO, PROTECCION E INTEGRACION DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY DE DESARROLLO, PROTECCION E INTEGRACION DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -503,7 +503,7 @@ I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización
 
 II. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
 
-III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles (sic) un trato digno con calidad y respeto;
+III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles un trato digno con calidad y respeto;
 
 IV. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
 
@@ -517,7 +517,9 @@ VIII. Denunciar ante las autoridades competentes, cuando sea procedente, cualqui
 
 IX. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
-X. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+X. Coadyuvar con (sic) Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
 
 XI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
@@ -651,7 +653,7 @@ El Consejo invitará a formar parte del mismo a cinco representantes de organiza
 
 ###### Artículo 38.
 
-El Consejo podrá invitar a sus sesiones a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores; (sic) Por lo que el desarrollo de las sesiones será de manera pública.
+El Consejo podrá invitar a sus sesiones a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores; Por lo que el desarrollo de las sesiones será de manera pública.
 
 ###### Artículo 39.
 
@@ -858,3 +860,11 @@ SECRETARIO DE GOBIERNO
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
