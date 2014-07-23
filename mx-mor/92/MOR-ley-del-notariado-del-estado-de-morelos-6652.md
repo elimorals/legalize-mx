@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2013-01-16"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -356,6 +356,10 @@ V.- Ejercer sus funciones, si el objeto o fin del acto es contrario a la ley o a
 VI.- Ejercer sus funciones si el objeto del acto es física o legalmente imposibles.
 
 VII.- Recibir y conservar en depósito, sumas de dinero, valores o documentos que representen numerario, con motivo de los actos o hechos en que intervengan, excepto los casos en que deba recibir dinero para destinarlo al pago de impuestos o derechos causados por las operaciones efectuadas ante ellos.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+Las prohibiciones a que se refieren las fracciones anteriores, también resultan aplicables a los Aspirantes a Notarios, cuando suplan en el ejercicio del cargo al Titular de la Notaría.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1989)</small>
 
@@ -1302,3 +1306,17 @@ Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicaci
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto que al efecto se expida, entrara en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
