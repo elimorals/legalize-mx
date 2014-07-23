@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2013-07-31"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -157,7 +157,9 @@ j). Los Secretarios Particulares de Secretario o equivalente, Subsecretario, Coo
 
 Se consideran trabajadores de base aquellos que no sean eventuales y los que no se incluyan las funciones dentro del artículo 4 y en la siguiente clasificación de trabajadores de confianza:
 
-I.- En el Poder Ejecutivo Estatal: Los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Consejero Jurídico; los Subsecretarios; los Coordinadores Generales; el Procurador Fiscal; los Directores Generales; los Asesores y Secretarios Particulares; los Directores de Área; los Subdirectores; los Jefes de Departamento; los que integran las plantillas de las unidades administrativas bajo la adscripción directa del titular del Poder Ejecutivo, para tareas de asesoría, apoyo técnico y de coordinación.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+I.- En el Poder Ejecutivo Estatal: Los Secretarios de Despacho; El Fiscal General del Estado; el Consejero Jurídico; los Subsecretarios; los Coordinadores Generales; el Procurador Fiscal; los Directores Generales; los Asesores y Secretarios Particulares; los Directores de Área; los Subdirectores; los Jefes de Departamento; los que integran las plantillas de las Unidades Administrativas bajo la adscripción directa del Titular del Poder Ejecutivo, para tareas de asesoría, apoyo técnico y de coordinación.
 
 II.- En el Poder Legislativo: Secretario de Administración y Finanzas; Secretario de Servicios Legislativos y Parlamentarios; el Auditor Superior de Fiscalización; Directores Generales; Directores; Directores de Área; Subdirectores; Coordinadores y Secretarios Técnicos; Asesores; Investigadores y Jefes de Departamento.
 
@@ -1646,3 +1648,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero de
 SEGUNDO.- La presente reforma no será aplicable a los Magistrados Numerarios, Supernumerarios e integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los Magistrados integrantes del Tribunal Contencioso Administrativo, así como a los Magistrados integrantes del Tribunal Estatal Electoral, que integran actualmente el Poder Judicial del Estado de Morelos, sino a los futuros sucesores de los mismos.
 
 TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
