@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2014-06-11"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -121,7 +121,7 @@ XIV. La emisión de políticas y estrategias para la formulación de los program
 
 XV. La colaboración con las dependencias y entidades que tengan a su cargo la administración y conservación de parques, bosques, lagos, lagunas, ríos, zonas arqueológicas, monumentos artísticos e históricos, museos y demás sitios de atractivo turístico, con el objeto de impulsar y fomentar su aprovechamiento turístico;
 
-XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y (sic)
+XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
@@ -301,9 +301,11 @@ Son obligaciones del turista:
 
 I. Cumplir las condiciones convenidas al contratar el servicio turístico;
 
-II. Respetar y coadyuvar en la protección y preservación del patrimonio histórico y cultural, de los establecimientos turísticos y de los recursos naturales de la entidad;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
-III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico del Estado y; (sic)
+II. Respetar y coadyuvar en la protección y preservación del patrimonio histórico y cultural, de los establecimientos turísticos, de los recursos naturales de la entidad y los espacios públicos de convivencia.
+
+III. Informar a las autoridades turísticas o a las que corresponda, sobre cualquier acto, hecho u omisión que atente o ponga en peligro el patrimonio turístico del Estado y;
 
 IV. Preservar la limpieza del patrimonio turístico, así como de los caminos que conducen hacia ellos.
 
@@ -497,7 +499,7 @@ Para efectos de esta Ley se entiende por turismo sustentable aquella que se llev
 
 I. Promover el mejoramiento de la oferta turística, de manera que las autoridades competentes busquen las medidas de protección, conservación y mejoramiento de los atractivos naturales y culturales, así como de los servicios y facilidades que constituyen o puedan ser un atractivo para el turismo, buscando a su vez el respeto a las costumbres y tradiciones de las comunidades;
 
-II. Buscar el uso racional de la riqueza turística para la generación de empleo, una mayor captación de divisas y derrama económica (sic) el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos;
+II. Buscar el uso racional de la riqueza turística para la generación de empleo, una mayor captación de divisas y derrama económica el beneficio de la población en su conjunto, así como de las empresas y prestadores de servicios turísticos;
 
 III. Facilitar la integración de las comunidades a proyectos turísticos, de acuerdo con las propuestas que presenten las autoridades federales, estatales y municipales;
 
@@ -543,7 +545,7 @@ El turismo de naturaleza es aquel que tiene como fin realizar actividades recrea
 
 El turismo de naturaleza tiene las siguientes categorías:
 
-l. El ecoturismo, tienen (sic) como fin el realizar actividades recreativas de apreciación y conocimiento mediante la observación y la realización de actividades de la naturaleza a través del contacto con la misma.
+l. El ecoturismo, tienen como fin el realizar actividades recreativas de apreciación y conocimiento mediante la observación y la realización de actividades de la naturaleza a través del contacto con la misma.
 
 II. El turismo aventura, incluye actividades deportivas y recreativas, impuestas por la naturaleza, dichas actividades son agrupadas de acuerdo al espacio natural en que se desarrollan, puede ser agua, tierra, aire.
 
@@ -663,7 +665,7 @@ XI. Ser vigilantes del desempeño de la actividad turística en el ámbito de su
 
 XII. Promoción, difusión y orientación turística;
 
-XIII. Promover los programas de señalética y; (sic)
+XIII. Promover los programas de señalética y;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -797,9 +799,13 @@ La Secretaría promoverá el establecimiento de programas de vinculación escuel
 
 La Secretaría propondrá al Titular del Ejecutivo del Estado, la celebración de acuerdos con la Secretaría de Trabajo y Previsión Social de la Administración Pública Federal para el desarrollo de programas relacionados con la capacitación y adiestramiento que tengan como finalidad instruir a aquellos trabajadores de establecimientos turísticos, para el desarrollo de sus actividades de acuerdo a los términos que marque la legislación federal en materia de trabajo.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 59.
 
-La Secretaría impulsará programas de capacitación en coordinación con las dependencias y entidades federales, estatales y municipales, así como con organismos sociales y privados, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística para los prestadores de servicios turísticos, los responsables del área de turismo en los municipios y al personal de contacto.
+La Secretaría impulsará Programas de capacitación en coordinación con las Dependencias y Entidades Federales, Estatales y Municipales, así como con organismos sociales y privados, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística dirigido a los prestadores de servicios del ramo, los responsables del área de turismo en los Municipios y al personal de contacto.
+
+La Secretaría, a través de sus Programas de profesionalización y capacitación ejecutados en comunidades indígenas, enfocará las actividades derivadas de dichos Programas a preservar su identidad y garantizar su desarrollo.
 
 ###### Artículo 60.
 
@@ -996,3 +1002,43 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morel
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1505 POR EL QUE SE REFORMA LA FRACCIÓN II, DEL ARTÍCULO 11, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1506 POR EL QUE SE REFORMA EL ARTÍCULO 59, DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Iniciando vigencia el presente Decreto, el Titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
