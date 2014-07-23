@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-la-mujer-para-el-estado-de-morelos-91665"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-23"
-last_updated: "2014-03-26"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 23 de enero de 2013.
 
@@ -231,7 +231,7 @@ XIX. Participar en el diseño del Plan Estatal de Desarrollo del Estado de Morel
 
 XX. Estimular y fomentar la participación activa de las organizaciones que actúan en la promoción y defensa de los derechos de la mujer, en las tareas de formulación, ejecución, seguimiento y evaluación de las políticas y acciones públicas orientadas al desarrollo integral de la mujer;
 
-XXI.Establecer un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de las políticas públicas.
+XXI. Establecer un sistema de información y estadística que genere indicadores para el diseño, seguimiento y evaluación de las políticas públicas.
 
 XXII. Impulsar la creación y fortalecimiento de las instancias Municipales de la Mujer;
 
@@ -327,7 +327,9 @@ F. Comisión Estatal de Seguridad Pública;
 
 G. Secretaría de Hacienda;
 
-H. Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
+H. Fiscalía General del Estado de Morelos;
 
 I. Secretaría de Desarrollo Social;
 
@@ -411,7 +413,7 @@ I. Convocar, previo acuerdo con la Presidenta, a las sesiones ordinarias y, cuan
 
 II. Levantar las actas de las sesiones que se realicen y someterlas a la aprobación de la Junta Directiva en sesión posterior; y
 
-III. Las demás atribuciones que le confiere este Decreto; (Sic)
+III. Las demás atribuciones que le confiere este Decreto;
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
@@ -668,3 +670,9 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado (sic) Unidos Mexicanos.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- EI presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
