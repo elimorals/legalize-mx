@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2013-10-01"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2014.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -89,7 +89,7 @@ XII. Dirección General de Relaciones Internacionales;
 
 XIII. Dirección General de Educación Superior Universitaria;
 
-XIV. Dirección General de Educación Superior Tecnológica;
+XIV. (DEROGADA POR EL TRANSITORIO SEGUNDO DEL DECRETO QUE CREA EL TECNOLÓGICO NACIONAL DE MÉXICO, D.O.F. 23 DE JULIO DE 2014)
 
 > <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
@@ -799,55 +799,7 @@ XXI. Vigilar que los nombres de las instituciones con reconocimiento de validez 
 
 ###### ARTÍCULO 19.
 
-Corresponde a la Dirección General de Educación Superior Tecnológica el ejercicio de las siguientes atribuciones:
-
-I. Proponer para autorización superior normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje de la educación de tipo superior que imparta la Secretaría en los institutos tecnológicos y planteles de educación tecnológica agropecuaria y forestal, así como en ciencia y tecnología del mar, difundir los aprobados y verificar su cumplimiento;
-
-II. Proporcionar a los organismos descentralizados de los gobiernos de los estados que impartan educación superior tecnológica, la asistencia académica, técnica y pedagógica que acuerde la Secretaría;
-
-III. Promover que las instituciones tecnológicas de educación superior formulen programas institucionales de innovación y desarrollo que les permitan alcanzar niveles superiores de desempeño;
-
-IV. Promover procesos de planeación participativa en las instituciones tecnológicas a que se refiere este artículo;
-
-V. Promover, en coordinación con la Dirección General de Evaluación de Políticas, procesos de autoevaluación y evaluación externa de los programas educativos y de la gestión institucional en los planteles tecnológicos a que se refiere este artículo;
-
-VI. Impulsar en los planteles tecnológicos a que se refiere este artículo la atención a las recomendaciones formuladas por organismos evaluadores en relación con sus programas educativos, así como con su gestión y administración institucional, con el propósito de que alcancen y mantengan sus reconocimientos de calidad;
-
-VII. Impulsar la organización, desarrollo y dirección en los planteles tecnológicos a que se refiere este artículo, a través de la adecuación de la estructura orgánica y la actualización de su normativa;
-
-VIII. Coordinar las políticas orientadas a la articulación y fortalecimiento de la actualización, formación y superación del personal académico para mejorar sus habilidades, tomando en cuenta las opiniones y propuestas que al respecto emitan las autoridades educativas locales;
-
-IX. Impulsar y fomentar el desarrollo y consolidación de cuerpos académicos, así como de sus líneas de generación y aplicación del conocimiento, en las instituciones y planteles tecnológicos a que se refiere este artículo;
-
-X. Promover y autorizar la celebración de convenios de vinculación entre escuelas que dependan de la Secretaría y que impartan la educación a que se refiere este artículo, con los sectores social y privado;
-
-XI. Formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación impartida, así como de las investigaciones que se realicen en los centros e institutos tecnológicos, centros de optimización y desarrollo de equipos, Centro Nacional de Investigación y Desarrollo Tecnológico y Centro Interdisciplinario de Investigación y Docencia en Educación Técnica, dependientes de la Secretaría;
-
-XII. Organizar, operar, desarrollar, supervisar y evaluar en coordinación con la Dirección General de Evaluación de Políticas, la educación a que se refiere este artículo que imparta la Secretaría;
-
-XIII. Expedir los nombramientos de los directivos de los institutos y centros dependientes de la Secretaría que impartan la educación a que se refiere este artículo, de acuerdo con las disposiciones aplicables;
-
-XIV. Establecer, en términos de la Ley General de Educación, la coordinación que resulte necesaria con los gobiernos de los estados para la mejor prestación de la educación a que se refiere este artículo;
-
-XV. Promover y fomentar la investigación que realicen los centros, institutos y planteles tecnológicos del tipo superior;
-
-XVI. Establecer en coordinación con la Dirección General de Evaluación de Políticas, indicadores para evaluar el desempeño de las instituciones educativas del tipo superior tecnológico a que se refiere este artículo;
-
-XVII. Expedir certificados, títulos y grados, otorgar constancias y diplomas a las personas que hayan concluido estudios conforme a los planes y programas autorizados, en los servicios de educación superior tecnológica que dependan de la Secretaría;
-
-XVIII. Estudiar y resolver las solicitudes para otorgar el reconocimiento de validez oficial a los estudios de educación a que se refiere este artículo;
-
-XIX. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial a los estudios a que se refiere este artículo;
-
-XX. Inspeccionar y vigilar, en términos de la Ley General de Educación y de las demás disposiciones aplicables, que las instituciones incorporadas por la Secretaría que impartan la educación a que se refiere este artículo, cumplan con las disposiciones legales aplicables y, en su caso, substanciar los procedimientos e imponer las sanciones que correspondan;
-
-XXI. Autenticar los certificados, títulos, diplomas o grados que se expidan por las instituciones educativas que presten los servicios de educación superior tecnológica a que se refiere este artículo;
-
-XXII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con los lineamientos y criterios generales que se emitan;
-
-XXIII. Definir normas y políticas en materia de equipamiento y mantenimiento de planteles; así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo, y
-
-XXIV. Emitir dictamen para efectos de la creación de planteles destinados a impartir educación superior tecnológica a cargo de la Secretaría.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL DECRETO QUE CREA EL TECNOLÓGICO NACIONAL DE MÉXICO, D.O.F. 23 DE JULIO DE 2014)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
@@ -2080,3 +2032,25 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las referencias que se hacen a la Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación, así como a las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública y a las Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República, respectivamente.
 
 TERCERO.- El cambio de denominación de la Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación a Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública, así como el de las Oficinas de Servicios Federales de Apoyo a la Educación en los Estados de la República a Delegaciones Federales de la Secretaría de Educación Pública en los Estados de la República, respectivamente, no implica la creación de ninguna Unidad Administrativa nueva.
+
+D.O.F. 23 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se DEROGAN la fracción XIV, del apartado A, del artículo 2 y el artículo 19 del Reglamento Interior de la Secretaría de Educación Pública.
+
+Asimismo, se derogan las demás disposiciones administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encuentran adscritos y asignados a la Dirección General de Educación Superior Tecnológica, pasan a formar parte del órgano administrativo desconcentrado que se crea en los términos del presente Decreto.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2014, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y los subsecuentes. Cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+CUARTO.- Los derechos laborales de los trabajadores de la Dirección General de Educación Superior Tecnológica, que se transfieran al órgano administrativo desconcentrado que se crea por virtud del presente Decreto, serán estrictamente respetados en los términos que establecen el apartado B) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de los Trabajadores al Servicio del Estado, y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como el Reglamento Interior de trabajo del personal docente de los Institutos Tecnológicos y el Reglamento Interno de trabajo del personal no docente de los Institutos Tecnológicos, vigentes.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto seguirán su curso normal hasta su conclusión por "EL TECNOLÓGICO", conforme a las disposiciones jurídicas aplicables.
+
+SEXTO.- Los alumnos que cursan sus estudios en los institutos tecnológicos que dependen de la Secretaría de Educación Pública no tendrán afectación alguna en sus situaciones jurídicas o académicas con motivo de la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- El Secretario de Educación Pública someterá al Titular del Ejecutivo Federal el nombramiento del Director General de "EL TECNOLÓGICO", en un plazo que no excederá de sesenta días naturales, contados a partir de la entrada en vigor de este Decreto, lapso durante el cual continuará en funciones el actual titular de la Dirección General de Educación Superior Tecnológica, quien podrá ser considerado para los efectos de la nueva designación, siempre y cuando cumpla con los requisitos señalados en el presente Decreto.
+
+OCTAVO.- El Manual de Organización de "EL TECNOLÓGICO" deberá ser expedido dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
