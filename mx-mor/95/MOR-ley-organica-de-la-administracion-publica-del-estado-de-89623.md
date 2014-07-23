@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-04-16"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -465,7 +465,7 @@ XXX. Representar al Gobierno del Estado y participar activamente dentro del Sist
 
 XXXI. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus secretarías y dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a las disposiciones legales aplicables; y
 
-XXXII. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las entidades de la administración pública paraestatal, previa opinión de la secretaría, dependencia o entidad que corresponda.
+XXXII. (DEROGADA, P.O. 23 DE JULIO DE 2014)
 
 ###### Artículo 23.
 
@@ -597,7 +597,7 @@ b) Impulsar la obtención de vivienda básica y, su equipamiento; infraestructur
 
 c) Propiciar el acceso a los bienes y servicios fundamentales, entre ellos, alimentación, salud, educación, cultura y deporte; y
 
-d) La promoción de los bienes y servicios complementarios para el desarrollo integral de la población en pobreza;(sic)
+d) La promoción de los bienes y servicios complementarios para el desarrollo integral de la población en pobreza;
 
 IV. Administrar los fondos públicos que le asigne el Ejecutivo Estatal destinados a los sectores sociales cuya función le corresponda;
 
@@ -643,7 +643,7 @@ II. Normar la planeación urbana sustentable de los Municipios en términos de l
 
 III. Formular y administrar los programas Estatales de Ordenamiento Territorial y Desarrollo Urbano Sustentable, así como en materia de infraestructura y vías de comunicación y los demás de competencia estatal de conformidad otras disposiciones jurídicas aplicables;
 
-IV. Autorizar la expedición de permisos, licencias y autorizaciones para el establecimiento de fusiones, divisiones, fraccionamientos, condominios y conjuntos urbanos y sus modificaciones conforme a las disposiciones jurídicas aplicables;
+IV. (DEROGADA, P.O. 23 DE JULIO DE 2014)
 
 V. Establecer los términos de referencia para la formulación de programas de desarrollo urbano sustentable en sus distintos niveles, conforme a la legislación vigente en la materia;
 
@@ -674,6 +674,10 @@ XVII. Proponer a la Secretaría de Gobierno la expropiación, ocupación tempora
 XVIII. Promover la participación de la sociedad a través del Consejo Estatal para el Desarrollo Sustentable y otras instancias de participación; y
 
 XIX. Realizar la planeación estratégica para la protección del ambiente y el desarrollo sustentable de Morelos, a través de la colaboración intersectorial y de las instituciones académicas.
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2014)</small>
+
+XX. Expedir, previo acuerdo con el Gobernador, las Políticas y Programas en materia de Vivienda, así como proponer, dirigir, coordinar y controlar la ejecución de Programas de Vivienda, en armonía con el Plan Estatal de Desarrollo vigente y el Sistema Estatal de Planeación Democrática.
 
 ###### Artículo 28.
 
@@ -897,7 +901,7 @@ XXIV. Registrar, expedir y resguardar el padrón de conductores en sus diferente
 
 XXV. Registrar los vehículos de servicio de transporte público, privado y particular, expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
 
-XXVI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del servicio público, así como autorizar el cambio de modalidad del servicio público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo; y (sic)
+XXVI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del servicio público, así como autorizar el cambio de modalidad del servicio público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo; y
 
 XXVII. Organizar los servicios emergentes de transporte público, cuando las circunstancia (sic) lo ameriten en coordinación con las autoridades correspondientes.
 
@@ -1421,7 +1425,7 @@ I. Establecer, con base en los programas sectoriales, las directrices generales 
 
 II. Aprobar los programas y presupuestos del organismo auxiliar y sus modificaciones, conforme a las disposiciones legales aplicables y acuerdo de la dependencia coordinadora correspondiente;
 
-III. Proponer los precios y tarifas de bienes, trámites y servicios que produzca o preste el organismo auxiliar, excepto los de aquellos que sean determinados por acuerdo del Gobernador del Estado;
+III. (DEROGADA, P.O. 23 DE JULIO DE 2014)
 
 IV. Aprobar anualmente, con base en el informe de los comisarios y dictamen de los auditores externos, los estados financieros del organismo auxiliar, y autorizar la publicación de ellos;
 
@@ -1481,11 +1485,13 @@ XIV. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposicione
 
 DEL CONTROL, COORDINACIÓN Y EVALUACIÓN.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 67.
 
-Los organismos auxiliares descentralizados tendrán un órgano de vigilancia, el que se integrará por un comisario público propietario y un suplente, designados por la Secretaría de la Contraloría del Estado.
+Los Organismos Auxiliares Descentralizados tendrán un órgano de vigilancia, el que se integrará por un Comisario Público Propietario y un Suplente, y contarán con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado al Organismo Auxiliar correspondiente, mismos servidores públicos que serán designados por la Secretaría de la Contraloría del Estado.
 
-Este servidor público evaluará la actividad general y por funciones del organismo auxiliar; asimismo, realizará estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, y en lo general, solicitará la información y ejecutará los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; en tal virtud deberán proporcionar la información que solicite el comisario público, tanto el órgano de gobierno como el titular o director general, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
+Los Comisarios Públicos, evaluarán la actividad general y por funciones del Organismo Auxiliar; asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; en tal virtud deberán proporcionar la información que solicite el Comisario Público, tanto el Órgano de Gobierno como el Titular o Director General, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
 
 ###### Artículo 68.
 
@@ -1501,7 +1507,9 @@ III. Los otros servidores públicos del organismo descentralizado responderán c
 
 Los órganos de control interno formarán parte de la estructura del organismo descentralizado y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo; sus funciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
 
-I. Dependerán del titular o director general, y por ende del órgano de gobierno;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+I. Dependerán únicamente del Órgano de Gobierno;
 
 II. Efectuarán sus actividades conforme a las reglas y bases, que les permitan cumplir sus funciones con autonomía y autosuficiencia; y
 
@@ -1731,9 +1739,11 @@ En los casos de escisión, fusión y liquidación de empresas de participación 
 
 DE LOS FIDEICOMISOS PÚBLICOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 97.
 
-Los fideicomisos públicos que no se constituyan con las características señaladas en el artículo 50 de la presente Ley, no serán considerados entidades de la administración pública paraestatal y no estarán, por tanto, sujetos a esta Ley.
+Los fideicomisos públicos que no se constituyan con las características señaladas en el artículo 49 de la presente Ley, no serán considerados Entidades de la Administración Pública Paraestatal y no estarán, por tanto, sujetos a esta Ley.
 
 La integración, facultades y funcionamiento de los comités y titulares o directores generales de los fideicomisos públicos se regirán, cuando sea compatible con su naturaleza, por los preceptos que esta Ley establece para los órganos de gobierno y para los titulares o directores generales.
 
@@ -1871,7 +1881,7 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 
 TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
 
-CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal Seguridad (sic) Pública.
+CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de (sic) Sistema Estatal (sic) Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
 
@@ -1884,3 +1894,31 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1488, POR EL QUE SE REFORMAN LOS ARTÍCULOS 67 Y 69 FRACCIÓN I, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1490, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 97, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1492, POR EL QUE SE ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 27 Y SE DEROGAN LAS FRACCIONES XXXII DEL ARTÍCULO 22, IV DEL ARTÍCULO 27 Y III DEL ARTÍCULO 65, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, de la Constitución Política del Estado Libre y Soberano de Morelos.
