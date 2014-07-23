@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2014-06-04"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -999,7 +999,7 @@ Para estos efectos, se establecerá la coordinación necesaria entre las autorid
 
 ###### Artículo 88 Bis.
 
-EI Ejecutivo del Estado, a través de la Secretaría de Salud Estatal, en coordinación con otras autoridades sanitarias competentes, elaborará programas para la prevención y control de las enfermedades bucodentales en las escuelas de educación preescolar y primaria del Estado, dando prioridad a las escuelas rurales que se encuentren en situación de marginación o de escasos recursos.
+El Ejecutivo del Estado, a través de la Secretaría de Salud Estatal, en coordinación con otras autoridades sanitarias competentes, elaborará programas para la prevención y control de las enfermedades bucodentales en las escuelas de educación preescolar y primaria del Estado, dando prioridad a las escuelas rurales que se encuentren en situación de marginación o de escasos recursos.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2013)</small>
 
@@ -1877,7 +1877,9 @@ I.- La prevención y el tratamiento de alcoholismo, y en su caso, la rehabilitac
 
 II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales dirigida a toda la población, y especialmente a la niñez, los adolescentes y mujeres gestantes, a través de métodos individuales, sociales o de comunicación masiva; y
 
-III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos considerados de alto riesgo.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+III.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en el grupo etario de 10 a 19 años, así como los considerados de alto riesgo.
 
 ###### Artículo 166.
 
@@ -2247,7 +2249,9 @@ IV. Recibir información completa sobre los riesgos de la operación y las conse
 
 V. Haber otorgado su consentimiento válidamente informado en forma expresa y, en términos del Capítulo II del Título Décimo Cuarto de la Ley General de Salud y demás legislación aplicable, y
 
-VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubino del receptor. Cuando se trate del trasplante de médula ósea no será necesario este requisito.
 
 ###### Artículo 206.
 
@@ -2327,7 +2331,9 @@ b.- Electroencefalograma que demuestre ausencia total de actividad eléctrica ce
 
 No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas:
 
-El o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la Fracción II del Artículo 212 de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
+El o la cónyuge, el concubino, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la Fracción II del Artículo 212 de esta Ley.
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
@@ -3858,3 +3864,27 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO. Respecto a la reforma constitucional, toda vez que fue aprobado por el Constituyente Permanente, el presente Decreto inició su vigencia a partir de la Declaratoria emitida por la LII Legislatura del Congreso del Estado, en consecuencia, las reformas se tienen como parte de esta Constitución.
 
 TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1503 POR EL QUE SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 205 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 214, AMBOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO NÚMERO 1504 POR EL QUE SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 165, DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inicio a), X de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
