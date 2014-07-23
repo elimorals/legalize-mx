@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-comite-de-moleculas-nuevas-86225"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-23"
-last_updated: "2012-02-23"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-02-07"
 
 REGLAMENTO INTERIOR DEL COMITÉ DE MOLÉCULAS NUEVAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de febrero de 2012.
 
@@ -99,9 +99,11 @@ Los representantes de las Asociaciones Académicas del Comité por voluntad prop
 
 La colaboración de los representantes de las Asociaciones Académicas del Comité no estará sujeta a remuneración alguna.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 10.
 
-Para el eficaz desarrollo de las funciones del Comité, el Presidente podrá designar como miembros invitados a las sesiones del mismo a representantes de la Comisión de Control Analítico y Ampliación de Cobertura, Instituto Mexicano de la Propiedad Industrial, Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Consejo de Salubridad General e Institutos Nacionales de Salud que sean necesarios.
+Para el eficaz desarrollo de las funciones del Comité, el Presidente podrá designar como miembros invitados a las sesiones del mismo a representantes de la Comisión de Control Analítico y Ampliación de Cobertura, Instituto Mexicano de la Propiedad Industrial, Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Hospitales Federales de Referencia, Instituciones Públicas de Salud de segundo nivel y alta especialidad, Consejo de Salubridad General e Institutos Nacionales de Salud que sean necesarios.
 
 ###### Artículo 11.
 
@@ -191,13 +193,17 @@ Los representantes de las Asociaciones Académicas no participarán en ninguna a
 
 SUBCOMITE DE EVALUACION DE PRODUCTOS BIOTECNOLOGICOS
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 17.
 
-Para el mejor desempeño de las funciones que tiene conferidas, el Comité contará con un Subcomité de Evaluación de Productos Biotecnológicos, el cual contará con un Secretario Técnico y con 5 representantes de Asociaciones Académicas, mismo que será convocado por acuerdo del Presidente o el Vicepresidente del Comité.
+Para el mejor desempeño de las funciones que tiene conferidas, el Comité contará con un Subcomité de Evaluación de Productos Biotecnológicos, el cual contará con un Secretario Técnico y representantes de Asociaciones Académicas, mismo que será convocado por acuerdo del Presidente o el Vicepresidente del Comité, el funcionamiento del Subcomité se ajustará a las políticas de funcionamiento del Comité de Moléculas Nuevas y a los procedimientos administrativos aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
 
 ###### Artículo 18.
 
-El Subcomité de Evaluación de Productos Biotecnológicos, estará integrado por un Secretario Técnico quien será un Directivo de la Comisión de Control Analítico y Ampliación de Cobertura, siendo éste el representante de la autoridad sanitaria, además de contar con los siguientes representantes: del Instituto Nacional de Medicina Genómica, de la Universidad Nacional Autónoma de México, del Instituto Politécnico Nacional y del Consejo de Salubridad General.
+El Subcomité de Evaluación de Productos Biotecnológicos, estará integrado por un Secretario Técnico, cargo que tendrá un Directivo de la Comisión de Autorización Sanitaria, además de contar con representantes del Instituto Nacional de Medicina Genómica, de la Universidad Nacional Autónoma de México, del Instituto Politécnico Nacional y del Consejo de Salubridad General.
 
 ###### Artículo 19.
 
@@ -223,27 +229,31 @@ Los representantes de las Asociaciones Académicas del Subcomité podrán por vo
 
 La colaboración de los representantes de las Asociaciones Académicas del Subcomité no estará sujeta a remuneración alguna.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 25.
 
 Corresponde al Secretario Técnico del Subcomité:
 
 I. Presidir las sesiones del Subcomité de conformidad a lo acordado por el Presidente del Comité;
 
-II. Elaborar un procedimiento interno para las sesiones del Subcomité;
+II. Nombrar a un suplente;
 
-III. Elaborar los formatos que deberán llenarse antes, durante y después de las sesiones ante el Subcomité;
+III. Elaborar un procedimiento interno para las sesiones del Subcomité;
 
-IV. Enviar las invitaciones para las sesiones a los miembros del Subcomité;
+IV. Elaborar los formatos que deberán llenarse antes, durante y después de las sesiones ante el Subcomité;
 
-V. Elaborar la orden del día de las sesiones del Subcomité, anexando la documentación correspondiente;
+V. Enviar las invitaciones para las sesiones a los miembros del Subcomité;
 
-VI. Levantar las actas, acuerdos de confidencialidad y no conflicto de intereses correspondientes a cada sesión, destacando los acuerdos y compromisos establecidos en la misma, identificando responsables y fechas de cumplimiento;
+VI. Elaborar la orden del día de las sesiones del Subcomité, anexando la documentación correspondiente;
 
-VII. Llevar el registro de actas de las sesiones;
+VII. Levantar las actas, acuerdos de confidencialidad y no conflicto de intereses correspondientes a cada sesión, destacando los acuerdos y compromisos establecidos en la misma, identificando responsables y fechas de cumplimiento;
 
-VIII. Integrar la información y documentación técnica sobre los temas o asuntos que sean sometidos al estudio y análisis del subcomité y enviarlas en un plazo no mayor de tres días siguientes a la celebración de la sesión correspondiente al Presidente del Comité para su estudio y análisis;
+VIII. Llevar el registro de actas de las sesiones;
 
-IX. Las demás que le sean encomendadas por el Presidente del Comité.
+IX. Integrar la información y documentación técnica sobre los temas o asuntos que sean sometidos al estudio y análisis del subcomité y enviarlas en un plazo no mayor de tres días siguientes a la celebración de la sesión correspondiente al Presidente del Comité para su estudio y análisis;
+
+X. Las demás que le sean encomendadas por el Presidente del Comité.
 
 ###### Artículo 26.
 
@@ -356,3 +366,9 @@ La publicación en el Diario Oficial de la Federación de los lineamientos antes
 CUARTO. La Comisión Federal para la Protección contra Riesgos Sanitarios expedirá, a los treinta días hábiles siguientes de la publicación del presente reglamento, los lineamientos que deberán observarse en el funcionamiento del Comité de Moléculas Nuevas así como su interacción (cuando aplique) con el Subcomité de Evaluación de Productos Biotecnológicos o con motivo de las solicitudes de registros de medicamentos e insumos para la salud que sean presentados ante la Secretaría en términos de este Reglamento.
 
 México, Distrito Federal, a siete de febrero de dos mil doce.- El Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios: el Presidente del Comité, Federico Alberto Argüelles Tello.- Rúbrica.- El Vicepresidente del Comité, Marco Antonio Arias Vidaca.- Rúbrica.- La Secretaria Técnica del Comité, María del Carmen Soledad Becerril Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE JULIO DE 2014.
+
+ÚNICO. La presente Modificación entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
