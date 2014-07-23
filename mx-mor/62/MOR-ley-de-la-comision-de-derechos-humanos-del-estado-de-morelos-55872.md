@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-de-derechos-humanos-del-estado-de-morelos-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-06"
-last_updated: "2009-05-20"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de junio de 2007.
 
@@ -35,9 +35,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO.
-
-.
+CONSIDERANDO...
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MORELOS.
 
@@ -325,7 +323,9 @@ VI. Contar con experiencia en materia de Derechos Humanos, o actividades afines 
 
 VII. No desempeñar, ni haber desempeñado cargo de Dirección Nacional, Estatal o Municipal, en algún partido político en el año anterior a su designación, así como no haber sido representante popular o candidato a un cargo de elección en la jornada electoral inmediata anterior; y
 
-VIII. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Despacho o Procurador General de Justicia del Estado, en el año anterior a su designación.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+VIII. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Despacho o Fiscal General del Estado, en el año anterior a su designación.
 
 ###### ARTÍCULO 18.
 
@@ -740,3 +740,9 @@ El presente Decreto entrara en vigor al día siguiente se (sic) su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión de Derechos Humanos del Estado de Morelos, en un plazo no mayor a treinta días hábiles, contados a partir de la vigencia del presente Decreto, deberá expedir las reformas necesarias a su reglamentación interna.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
