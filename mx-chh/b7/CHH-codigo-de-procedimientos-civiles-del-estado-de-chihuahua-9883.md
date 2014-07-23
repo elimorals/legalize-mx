@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2013-02-27"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+NOTA 1: DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO 493/2015 II P.O. POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DEL 23 DE JULIO DE 2014, EL CÓDIGO DE PROCEDIMIENTOS CIVILES DE 1974 SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO, EL CUAL INICIARÁ SU VIGENCIA EL DÍA DIECISIETE DE AGOSTO DEL AÑO DOS MIL QUINCE.
+
+NOTA 2: DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO 494/2015 II P.O. POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DEL 23 DE JULIO DE 2014, EL CÓDIGO DE PROCEDIMIENTOS CIVILES DE 1974 SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO, EL CUAL INICIARÁ SU VIGENCIA EL DÍA DIECISIETE DE AGOSTO DEL AÑO DOS MIL QUINCE.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -5152,3 +5156,29 @@ P.O. 27 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los 180 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO No. 493/2014 II P.O., POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+Artículo Primero. El Código de Procedimientos Civiles del Estado iniciará su vigencia el día diecisiete de agosto del año dos mil quince, previa su publicación en el Periódico Oficial del Estado, conforme a las modalidades previstas en los artículos siguientes.
+
+Artículo Segundo. El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo código y hasta la total solución de los mismos.
+
+Artículo Tercero. No procederá la acumulación de procesos, cuando alguno de ellos esté sometido al código anterior y otro a éste código.
+
+P.O. 23 DE JULIO DE 2014.
+
+DECRETO No. 494/2014 II P.O., POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
+
+###### ARTÍCULO PRIMERO.
+
+El Código Procesal Familiar del Estado iniciará su vigencia el diecisiete de agosto de dos mil quince, previa su publicación en el Periódico Oficial del Estado, conforme a las modalidades previstas en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código y hasta la total solución de los mismos.
+
+###### ARTÍCULO TERCERO.
+
+No procederá la acumulación de procesos, cuando alguno de ellos esté sometido al Código anterior y otro a este Código.
