@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2014-03-26"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -241,7 +241,7 @@ XI.- Promover la instalación de centros de protección y asistencia a receptore
 
 XII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
 
-XIII.- Difundir lo alcances de la presente ley y condenar los actos de violencia familiar; y
+XIII.- Difundir lo (sic) alcances de la presente ley y condenar los actos de violencia familiar; y
 
 XIV.- Las demás que le confieran otros ordenamientos legales.
 
@@ -277,9 +277,11 @@ VII.- Proporcionar la información que solicite la Procuraduría de la Defensa d
 
 VIII.- Las demás que le confieran otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 17.
 
-A la Procuraduría General de Justicia le corresponde:
+A la Fiscalía General del Estado de Morelos le corresponde:
 
 I.- Diseñar la política en materia de procuración de justicia para prevenir, atender, sancionar y erradicar la violencia familiar;
 
@@ -327,7 +329,7 @@ VIII.- Las demás que le confieran otros ordenamientos legales.
 
 La Comisión Estatal de Seguridad Pública deberá:
 
-I.- lncluir en los cursos de formación y capacitación policial temas sobre prevención de violencia familiar y atención al receptor de violencia familiar respetando su dignidad, intimidad y privacidad;
+I.- Incluir en los cursos de formación y capacitación policial temas sobre prevención de violencia familiar y atención al receptor de violencia familiar respetando su dignidad, intimidad y privacidad;
 
 II.- Promover con personal capacitado programas participativos y de seguimiento en comunidades, colonias y barrios, identificados con (sic) de alto índice de violencia familiar;
 
@@ -487,7 +489,7 @@ La instauración del procedimiento de mediación, por parte de la Procuraduría 
 
 ###### ARTÍCULO 31.
 
-En caso de que el procedimiento de mediación concluya con un acuerdo de las partes, se redactará un convenio que refleje con exactitud la voluntad de las partes, el cual será firmado por los interesados y se ratificará ante la autoridad que conozca del asunto. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
+En caso de que el procedimiento de mediación concluya con un acuerdo de las partes, se redactará un convenio que refleje con exactitud la voluntad de las partes; el cual será firmado por los interesados y se ratificará ante la autoridad que conozca del asunto. Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
 
 ###### ARTÍCULO 32.
 
@@ -606,3 +608,9 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado (sic) Unidos Mexicanos.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
