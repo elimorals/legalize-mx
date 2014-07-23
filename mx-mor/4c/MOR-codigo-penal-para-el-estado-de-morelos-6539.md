@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2014-06-11"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1032,6 +1032,14 @@ Cuando la ley permita sustituir la sanción aplicable por otra de menor gravedad
 Cuando el juez dicte sentencia condenatoria amonestará al sentenciado.
 
 El juez podrá aplicar el apercibimiento y la caución de no delinquir en cualquiera de los delitos previstos en este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+Cuando se cometa un delito doloso en contra de algún periodista, persona o instalación con la intención de afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2014)</small>
+
+En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones o la víctima sea mujer y concurran razones de género en la comisión del delito, conforme a lo que establecen las leyes en la materia.
 
 ###### ARTICULO 59.
 
@@ -2343,7 +2351,7 @@ XI. Respecto de documentos que se conserven en oficinas públicas, cuando la sus
 
 En estos casos no operará la fracción I del artículo 174. Cuando el valor de lo sustraído se halla en los términos de dicha fracción se estará a lo estipulado en la fracción II para determinar la pena que servirá de base para establecer el incremento que corresponde conforme a este precepto.
 
-XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y (sic)
+XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y
 
 XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
 
@@ -2401,7 +2409,7 @@ Si en los actos mencionados en las fracciones anteriores del presente artículo,
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-Al (sic) quien cometa la conducta prevista en la fracción XI del presente artículo y denuncie o informe de dos o más individuos que participaron dentro de la comisión de dicha conducta o que realicen actividades relacionadas con la misma, se le impondrá la mitad de la pena de prisión que le corresponda.
+Al quien cometa la conducta prevista en la fracción XI del presente artículo y denuncie o informe de dos o más individuos que participaron dentro de la comisión de dicha conducta o que realicen actividades relacionadas con la misma, se le impondrá la mitad de la pena de prisión que le corresponda.
 
 ###### ARTICULO 177.
 
@@ -2709,7 +2717,7 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ###### ARTICULO 201.
 
-Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, y exceda de un lapso de treinta días naturales, se le impondrán de un año a cuatro años de prisión "y" (sic) de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. Si el adeudo excede de noventa días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios a que se refiere el Código Familiar para el Estado de Morelos.
+Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, y exceda de un lapso de treinta días naturales, se le impondrán de un año a cuatro años de prisión "y" de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. Si el adeudo excede de noventa días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios a que se refiere el Código Familiar para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -3233,7 +3241,7 @@ En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa d
 
 Si la conducta del infractor provoca un accidente o daños a consecuencia de una llamada o mensaje falso se impondrá de tres a cinco años de prisión y multa de doscientos días de salario mínimo.
 
-El uso indebido de medios de comunicación para movilizar cuerpos de emergencia se perseguirá de oficio, debiendo proveer lo necesario el (sic) Ministerio Público.
+El uso indebido de medios de comunicación para movilizar cuerpos de emergencia se perseguirá de oficio, debiendo proveer lo necesario el Ministerio Público.
 
 Cuando las llamadas o mensajes falsos la realicen menores de edad se sancionará, de acuerdo a lo establecido en la Ley de Justicia para Adolescentes del Estado de Morelos.
 
@@ -3349,7 +3357,7 @@ IV. Simule la práctica de una intervención quirúrgica;
 
 V. Ejerciendo la medicina, se niegue a prestar asistencia a un enfermo en caso de urgencia notoria, poniendo en peligro la vida o la salud de aquél, cuando por las circunstancias del caso no sea posible recurrir a otro médico o a un servicio de salud;
 
-VI. Certifique con falsedad que una persona tiene una enfermedad u otro impedimento bastante para eximirla de cumplir una obligación que la ley le impone o para adquirir un derecho; o (sic)
+VI. Certifique con falsedad que una persona tiene una enfermedad u otro impedimento bastante para eximirla de cumplir una obligación que la ley le impone o para adquirir un derecho; o
 
 VII. Sin necesidad terapéutica ni consentimiento del paciente, altere por cualquier medio el funcionamiento de alguno de sus órganos;
 
@@ -3979,7 +3987,7 @@ A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y (sic) XXV, XXIX, XXX, XXXI, XXXII y XXXIII se les impondrá de cuatro a diez años de prisión y de mil a dos mil días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII y XXV, XXIX, XXX, XXXI, XXXII y XXXIII se les impondrá de cuatro a diez años de prisión y de mil a dos mil días multa.
 
 En todos los delitos previstos en este Capítulo, además de la pena de prisión correspondiente, el agente será privado de su cargo e inhabilitado para el desempeño de otro por los períodos a los que se refieren los dos párrafos precedentes, a juicio del tribunal.
 
@@ -4646,3 +4654,9 @@ DECRETO NÚMERO MIL CUATROCIENTOS CINCUENTA Y SIETE POR EL QUE SE ADICIONA EL AR
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
