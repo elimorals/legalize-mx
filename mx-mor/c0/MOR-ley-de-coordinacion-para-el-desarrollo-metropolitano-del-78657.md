@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-78657"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-19"
-last_updated: "2014-06-11"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de enero de 2011.
 
@@ -33,7 +33,7 @@ MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y
 
 Que el Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,.
+LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -121,37 +121,39 @@ Los órganos de coordinación metropolitana funcionarán de conformidad a lo est
 
 Los Consejos para el Desarrollo Metropolitano son los órganos jerárquicos de consulta, opinión y toma de decisión del plan de manera colegiada, programas, acciones y proyectos de desarrollo metropolitano que sean presentados por sus órganos técnicos para su análisis, estudio, aprobación, y la toma de decisión del plan será de manera colegiada.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 6.
 
 El Consejo para el Desarrollo Metropolitano se integrará de la siguiente manera:
 
 I. El Secretario de Gobierno, quien lo presidirá;
 
-II. El Secretario de Desarrollo Urbano y Obras Públicas, quien fungirá como Secretario Técnico;
+II. El Secretario de Desarrollo Sustentable, quien fungirá como Secretario Técnico;
 
-III. El Secretario de Finanzas y Planeación;
+III. El Secretario de Obras Públicas;
 
-IV. El Secretario de Desarrollo Humano y Social;
+IV. El Secretario de Hacienda;
 
-V. El Titular de la Comisión Estatal del Agua y Medio Ambiente en el Estado de Morelos;
+V. El Secretario de Desarrollo Social;
 
-VI. Los Presidentes Municipales que integren la zona metropolitana de la que se trate;
+VI. El Titular de la Comisión Estatal del Agua;
 
-VII. Un representante del Poder Legislativo quien será el Presidente de la Comisión Legislativa en la materia competente;
+VII. Los Presidentes Municipales que integren la zona metropolitana de la que se trate;
 
-VIII. El Delegado de la Secretaría de Desarrollo Social en el Estado de Morelos;
+VIII. Un representante del Poder Legislativo quien será el Presidente de la Comisión Legislativa en la materia competente;
 
-IX. El Delegado de la Secretaría del Medio Ambiente y Recursos Naturales en el Estado de Morelos;
+IX. El Delegado de la Secretaría de Desarrollo Social en el Estado de Morelos;
 
-X. El Director General del Instituto de Desarrollo y Fortalecimiento Municipal del Estado;
+X. El Delegado de la Secretaría del Medio Ambiente y Recursos Naturales en el Estado de Morelos;
 
-XI. El Titular del Comité de Planeación para el Desarrollo del Estado de Morelos.
+XI. El Director General del Instituto de Desarrollo y Fortalecimiento Municipal del Estado;
+
+XII. El Titular del Comité de Planeación para el Desarrollo del Estado de Morelos.
 
 Todos los integrantes del Consejo tendrán derecho de voz y voto. Por cada integrante propietario del Consejo se nombrará a un suplente, quien deberá estar debidamente acreditado y tendrá los mismos derechos de los titulares.
 
-En el Consejo para el Desarrollo Metropolitano, podrán participar todas las instancias del ámbito público, social y privado que se relacionen con la materia del objeto y funciones del Consejo, las comisiones competentes del Congreso local respectivo, las asociaciones o colegios de académicos, científicos, profesionistas, empresarios o ciudadanos, cuyos conocimientos y experiencia contribuyan a la eficaz y eficiente atención de los asuntos que se relacionen con el mismo.
-
-Para asuntos específicos, el Consejo podrá convocar a invitados especiales, mismos que tendrán derecho a voz pero sin voto.
+En el Consejo para el Desarrollo Metropolitano, podrán participar todas las instancias del ámbito público, social y privado que se relacionen con la materia del objeto y funciones del Consejo, las Comisiones competentes del Congreso Local respectivo, las asociaciones o colegios de académicos, científicos, profesionistas, empresarios o ciudadanos, cuyos conocimientos y experiencia contribuyan a la eficaz y eficiente atención de los asuntos que se relacionen con el mismo. Para asuntos específicos, el Consejo podrá convocar a invitados especiales, mismos que tendrán derecho a voz pero sin voto.
 
 ###### Artículo 7.
 
@@ -207,11 +209,15 @@ Los Comités Técnicos del Fideicomiso son las instancias facultadas para autori
 
 El Comité Técnico del Fideicomiso de cada zona metropolitana estará integrado de la siguiente manera:
 
-I. El Secretario de Finanzas y Planeación, quien lo presidirá;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+I. El Secretario de Hacienda, quien lo presidirá;
 
 II. El Secretario de Gobierno del Estado;
 
-III. El Secretario de Desarrollo Humano y Social;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+III. El Secretario de Desarrollo Social;
 
 IV. El Secretario Técnico del Consejo para el Desarrollo Metropolitano;
 
@@ -265,21 +271,25 @@ XVIII. Las demás que le otorguen esta Ley y demás disposiciones legales y regl
 
 Los subcomités Técnicos de Evaluación de Proyectos son los órganos integrados por especialistas en materia de obras públicas y desarrollo urbano, encargados de elaborar propuestas y recomendaciones a los Comités Técnicos de Administración Financiera, para la toma de decisiones y acuerdos respecto de la autorización de recursos financieros que se pretendan destinar a algún programa, proyecto, estudio, acción, plan, obra de infraestructura y su equipamiento.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 13.
 
-El Subcomité Técnico de Evaluación de Proyectos de cada zona metropolitana estará integrado de la siguiente manera:
+El Subcomité Técnico de Evaluación de Proyectos de cada zona metropolitana, estará integrado de la siguiente manera:
 
-I. El Secretario de Desarrollo Urbano y Obras Públicas, quien lo presidirá;
+I. El Secretario de Desarrollo Sustentable, quien lo presidirá;
 
-II. Un representante del Comité de Planeación para el Desarrollo del Estado de Morelos (COPLADE) o su equivalente;
+II. El Secretario de Obras Públicas;
 
-III. El titular de la Comisión Estatal del Agua y Medio Ambiente;
+III. Un representante del Comité de Planeación para el Desarrollo del Estado de Morelos (COPLADE) o su equivalente;
 
-IV. Los titulares de los Sistemas Operadores de Agua Potable y Saneamiento de los Municipios que integren la zona metropolitana de que se trate; y
+IV. El titular de la Comisión Estatal del Agua;
 
-V. Los titulares de las áreas de obras públicas y desarrollo urbano de los Municipios que integren la zona metropolitana de que se trate.
+V. Los Titulares de los Sistemas Operadores de Agua Potable y Saneamiento de los Municipios que integren la zona metropolitana de que se trate; y
 
-Todos los integrantes del Subcomité Técnico tendrán derecho de voz y voto. Por cada integrante propietario se nombrará a un suplente, quien deberá estar debidamente acreditado y tendrá los mismos derechos de los titulares.
+VI. Los Titulares de las áreas de obras públicas y desarrollo urbano de los Municipios que integren la zona metropolitana de que se trate.
+
+Todos los integrantes del Subcomité Técnico tendrán derecho de voz y voto. Por cada integrante propietario se nombrará a un suplente, quien deberá estar debidamente acreditado tendrá los mismos derechos de los titulares.
 
 ###### Artículo 14.
 
@@ -454,3 +464,13 @@ Segunda.- En un plazo no mayor de 90 días, el Ejecutivo del Estado, deberá rea
 Tercera.- Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto, para los efectos legales correspondientes.
 
 Cuarto.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, la fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- En un plazo no mayor de 90 días hábiles el Ejecutivo del Estado, deberá realizar las reformas pertinentes al Reglamento de la Ley de Coordinación para el Desarrollo Metropolitano del Estado de Morelos, en relación a las modificaciones realizadas.
+
+CUARTA.- Se derogan todas las disposiciones legales de igual o menor rango jerárquico que se opongan al presente Decreto. Lo que se hace del conocimiento para los efectos legales correspondientes.
