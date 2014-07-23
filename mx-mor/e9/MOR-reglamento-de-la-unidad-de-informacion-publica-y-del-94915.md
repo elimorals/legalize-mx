@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-unidad-de-informacion-publica-y-del-94915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-12"
-last_updated: "2013-06-12"
+last_updated: "2014-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA UNIDAD DE INFORMACIÓN PÚBLICA Y DEL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO (SEDAGRO) DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LAS UNIDADES DE INFORMACIÓN PÚBLICA Y DE LOS CONSEJOS DE INFORMACIÓN CLASIFICADA DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 23 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de junio de 2013.
 
@@ -316,3 +318,13 @@ C.P. Mireya Sámano Landa
 Contralora de Desarrollo Social y Agropecuario
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERA. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Unidad de Información Pública y del Consejo de Información Clasificada de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial "Tierra y Libertad", número 5095, de fecha doce de junio de 2013. Así como el Acuerdo mediante el cual se da a conocer el procedimiento de solicitudes de acceso a la información pública en las dependencias y entidades de la administración pública del Estado, publicado en el Periódico Oficial "Tierra y Libertad", número 4354, de fecha 13 de octubre de 2004, respectivamente.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
