@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-tratamiento-contra-la-obesidad-y-84192
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2013-10-09"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y TRATAMIENTO DE TRASTORNOS ALIMENTICIOS EN EL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -89,7 +89,11 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Educación;
 
-IV. El Consejo Estatal para la Prevención, Control, Atención y Tratamiento Integral de Trastornos Alimenticios.
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2014)</small>
+
+IV. La Secretaría de la Contraloría, por cuanto a la evaluación, control y vigilancia del Programa Estatal, y
+
+V. El Consejo Estatal para la Prevención, Control, Atención y Tratamiento Integral de Trastornos Alimenticios.
 
 ###### Artículo 6.
 
@@ -366,3 +370,13 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE JULIO DE 2014.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
