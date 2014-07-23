@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-las-unidades-de-informacion-publica-y-de-los-8934
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-05"
-last_updated: "2012-09-05"
+last_updated: "2014-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LAS UNIDADES DE INFORMACIÓN PÚBLICA Y DE LOS CONSEJOS DE INFORMACIÓN CLASIFICADA DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de septiembre de 2012.
 
@@ -51,7 +51,9 @@ Para efectos del presente Reglamento se entiende por:
 
 I. Acuerdo: El respectivo Acuerdo de creación de las diversas UDIP y los CIC de la Administración Pública Centralizada;
 
-II. Administración Pública Centralizada: Las Secretarías y Dependencias que conforman la Administración Pública Centralizada del Estado de Morelos, en términos de lo dispuesto por el artículo 3, en relación con el 23, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+II. Administración Pública Centralizada: Las Secretarías, la Procuraduría General de Justicia y la Consejería Jurídica, que integran la administración pública centralizada, en términos de lo dispuesto por el artículo 2, en relación con el artículo 11, de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
 III. CIC: Todo Consejo de Información Clasificada de la Administración Pública Centralizada;
 
@@ -131,11 +133,15 @@ El Titular de la UDIP tiene la obligación de actualizar, en la respectiva pági
 
 Para proceder a la actualización de la información, a que hace referencia el artículo anterior de este Reglamento, dentro de los primeros cinco días hábiles de cada mes, el Titular de la UDIP requerirá, mediante oficio al titular de la o las áreas resguardantes o generadoras de la información respectiva, la actualización correspondiente de la información referida en el artículo 32 de la Ley.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+
 ###### Artículo 13.
 
-Una vez que el Titular de la UDIP tenga en su poder la información actualizada, procederá a revisarla para que, en su caso, solicite mediante oficio a la o las áreas resguardantes o generadoras de la información pública las precisiones, adiciones o correcciones a que haya lugar.
+Una vez que el Titular de la UDIP, tenga en su poder la información actualizada, procederá a revisarla para que, en su caso, solicite mediante oficio a la o las áreas resguardantes o generadoras de la información pública las precisiones y/o adiciones a que haya lugar.
 
-Al efecto determinará el plazo en que se le deberá entregar la información corregida o complementada, el cual será fijado atendiendo a la naturaleza de la solventación de que se trate.
+Al efecto determinará el plazo en que se le deberá entregar la información complementada, el cual será fijado atendiendo a la naturaleza de la solventación de que se trate.
+
+Las unidades Administrativas generadoras o resguardantes de la información deberán de enviar en tiempo y forma al titular de la UDIP, la información solicitada.
 
 #### SECCIÓN SEGUNDA
 
@@ -157,7 +163,9 @@ En caso de ser necesario el Titular de la UDIP auxiliará al particular en el ll
 
 El Titular de la UDIP que reciba una solicitud de información se ajustará al siguiente procedimiento:
 
-I. El día en que ingrese la solicitud de información, la revisará para verificar si le falta algún dato o elemento para su tramitación y respuesta. En caso de faltar algún elemento, de manera inmediata, procederá a la prevención, en términos del artículo 78 de la Ley, con la finalidad de que sea subsanada por el solicitante, dentro de los cinco días hábiles posteriores a la notificación respectiva y, en caso contrario, se tendrá por no presentada la solicitud;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+
+I. El día en que ingrese la solicitud de información a través del Sistema Infomex o por escrito, la revisará para verificar si le falta algún dato o elemento para su tramitación y respuesta. En caso de faltar algún elemento, de manera inmediata, procederá a la prevención, en términos del artículo 78 de la Ley, con la finalidad de que sea subsanada por el solicitante, dentro de los cinco días hábiles posteriores a la notificación respectiva y, en caso contrario, se tendrá por no presentada la solicitud;
 
 II. Cuando la solicitud de información reúna los requisitos de Ley, el titular de la UDIP deberá proceder, de manera inmediata como corresponda, de conformidad con la organización y procedimientos internos de comunicación de cada área de la Administración Pública Centralizada, a fin de localizar la información, requiriendo al efecto y, según cada caso, al área resguardante o generadora de la información;
 
@@ -192,3 +200,13 @@ EL SECRETARIO DE GOBIERNO.
 ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JULIO DE 2014.
+
+PRIMERA. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Unidad de Información Pública y del Consejo de Información Clasificada de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial “Tierra y Libertad”, número 5095, de fecha doce de junio de 2013. Así como el Acuerdo mediante el cual se da a conocer el procedimiento de solicitudes de acceso a la información pública en las dependencias y entidades de la administración pública del Estado, publicado en el Periódico Oficial “Tierra y Libertad”, número 4354, de fecha 13 de octubre de 2004, respectivamente.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
