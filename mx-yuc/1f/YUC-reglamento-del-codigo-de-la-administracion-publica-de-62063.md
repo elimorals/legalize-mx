@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2013-11-21"
+last_updated: "2014-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -79,7 +79,7 @@ XII. Secretaría General: la Secretaría General de Gobierno;
 
 XIII. Secretario o Titular: cada uno de los titulares de las dependencias enlistadas en el artículo 22 del Código, y
 
-XIV. Subsecretarios: los subsecretarios de las Secretarías, General de Gobierno, y de Seguridad Pública; (sic)
+XIV. Subsecretarios: los subsecretarios de las Secretarías, General de Gobierno, y de Seguridad Pública;
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -477,7 +477,7 @@ XXVIII. Participar en los procesos de actualización y adecuación del orden jur
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXIX. Visar contratos y convenios para acompañar la firma del Titular de la Dependencia, cuando éste así lo solicite; (sic)
+XXIX. Visar contratos y convenios para acompañar la firma del Titular de la Dependencia, cuando éste así lo solicite;
 
 ### CAPÍTULO VI. De las suplencias
 
@@ -4189,7 +4189,9 @@ IV. Las demás que le otorguen este Reglamento y otras disposiciones normativas 
 
 ## TÍTULO XII. SECRETARÍA DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. De la Estructura Orgánica de la Secretaría
+> <small>(REFORMADA SU DENOMINACIÓN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
+
+### CAPÍTULO I. De la Estructura Orgánica de la Secretaría de Seguridad Pública
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -5845,1707 +5847,921 @@ El Director Jurídico y los servidores públicos que integran la Dirección Jur�
 
 Por virtud de estas disposiciones, se entenderá ratificado por el Titular de esta Secretaría, todos los actos y actuaciones que se realicen en los términos de Ley, por esta Dirección y los representantes que acredite, en cada uno de los casos en que intervengan.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
+
 #### SECCIÓN TERCERA. De los Órganos Desconcentrados
 
 ###### Artículo 269.
 
-El Instituto de Capacitación Profesional de las Corporaciones de Seguridad Pública en el Estado, es un órgano desconcentrado de esta Secretaría que tiene como objetivo principal propiciar el desarrollo integral de los elementos de seguridad pública del Estado.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 270.
 
-Las metas principales del Instituto son las de profesionalizar a todos los elementos de las distintas corporaciones policíacas del Estado, con esquemas normativos sustentados en los principios de legalidad, eficiencia, profesionalismo y honradez, para brindar a la sociedad unos elementos de mejor calidad.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 271.
 
-El Instituto tiene entre sus funciones establecer programas, elaborar planes de estudio, capacitar a los elementos, evaluar las aptitudes físicas y mentales de los mismos, establecer técnicas de adiestramiento, formación e investigación, en concordancia con lo señalado en los artículos 29 y 30 de la Ley de Seguridad Pública del Estado.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 272.
 
-El Director del Instituto de Capacitación de las Corporaciones de Seguridad Pública tendrá las siguientes facultades y obligaciones:
-
-I. Representar al Instituto en las diversas actividades que realice en el ámbito de su competencia;
-
-II. Coordinar el funcionamiento del Instituto;
-
-III. Supervisar que los cadetes, alumnos y demás personal en instrucción, se sujeten a los manuales de régimen interno correspondientes a los Programas de Formación, Capacitación y Estudios Superiores;
-
-IV. Aplicar a los cadetes y alumnos del Instituto, cuando así proceda, las sanciones previstas en los ordenamientos legales aplicables;
-
-V. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de candidatos al Instituto y vigilar su aplicación;
-
-VI. Proponer al Secretario las estrategias y políticas de desarrollo académico y formación integral del personal;
-
-VII. Proponer y desarrollar los programas de investigación académica en materias policiales;
-
-VIII. Determinar, en coordinación con las diferentes áreas de la Institución, las necesidades de capacitación específicas del personal, así como los programas que respondan a las mismas;
-
-IX. Emitir los criterios académicos aplicables dentro del Instituto;
-
-X. Proponer al Titular de esta Secretaría, las convocatorias para el ingreso al Instituto;
-
-XI. Desarrollar y ejecutar los programas y planes de estudios aplicables en esta Secretaría;
-
-XII. Desarrollar y coordinar las estrategias para la profesionalización de los aspirantes e integrantes de esta Secretaría;
-
-XIII. Participar en el diseño y actualización de políticas y normas, para el reclutamiento y selección de candidatos al Instituto y vigilar su aplicación;
-
-XIV. Tramitar los registros, autorizaciones y reconocimientos de los planes y programas de estudio ante las autoridades competentes;
-
-XV. Expedir constancias y certificaciones de los programas de formación profesional impartidos en el Instituto y asignar el valor curricular que corresponda a cada uno de ellos;
-
-XVI. Proponer al Secretario la celebración de convenios con instituciones de educación superior, estatales y nacionales, públicas y privadas, con objeto de brindar formación académica de excelencia a los integrantes de la Institución, y
-
-XVII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 273.
 
-El Patronato Pro-Hijo del Policía es un órgano desconcentrado de esta Secretaría que tendrá las siguientes atribuciones:
-
-I. Administrar los recursos que obtenga mediante aportaciones, donaciones o subsidios de personas físicas o morales, para el cumplimiento de los objetivos del Patronato;
-
-II. Administrar esos recursos obtenidos por los conceptos citados con antelación;
-
-III. Aumentar la captación de recursos, provenientes de las actividades de la cafetería y del comedor de esta Secretaría;
-
-IV. Mejorar el nivel de vida del personal administrativo y operativo de esta Dependencia;
-
-V. Fomentar el desarrollo de actividades educativas, culturales, deportivas para el personal de esta Secretaría y sus familias;
-
-VI. Difundir los valores familiares entre el personal de esta Secretaría, y
-
-VII. Vigilar de manera estricta que los recursos proporcionados al personal de esta Secretaría sean utilizados para el concepto que fue expedido.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 274.
 
-El patrimonio del Patronato Pro-hijo del Policía se integrará con las aportaciones, donaciones o subsidios que personas físicas o morales destinen al cumplimiento de sus objetivos; con los recursos provenientes de las actividades de la cafetería y del comedor de esta Secretaría; con los beneficios o frutos que obtenga de su propio patrimonio y con las utilidades que logre en el desarrollo de sus actividades.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 275.
 
-Los recursos que obtenga el Patronato deberán aplicarse invariablemente con la jerarquía de su importancia a:
-
-I. Dar cumplimiento a lo establecido en las fracciones IV, V, VI, y VII del artículo 273, y
-
-II. Vigilar de manera estricta que los recursos proporcionados al personal de esta Secretaría, sean utilizados para el concepto que fue expedido; (sic)
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 276.
 
-El Patronato contará con un Consejo Consultivo que estará integrado de la siguiente manera:
-
-I. Por el Director General del Patronato, quien fungirá como Presidente del mismo;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-II. Las esposas de los subsecretarios, y
-
-III. Un Coordinador Administrativo, designado por el Presidente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 277.
 
-El Consejo Consultivo tendrá las siguientes funciones:
-
-I. Conocer y evaluar los programas del Patronato;
-
-II. Supervisar el funcionamiento de los servicios que preste el Patronato;
-
-III. Realizar propuestas a fin de elaborar el programa anual de actividades del Patronato, y
-
-IV. Promover y coordinar los programas de eventos especiales que realice el Patronato.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 278.
 
-El Consejo Consultivo sesionará de manera ordinaria cada cuatro meses y de manera extraordinaria, cuando el caso así lo requiera.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 279.
 
-Las convocatorias para las sesiones del Consejo Consultivo serán expedidas por la Presidenta del Consejo, irán acompañadas del orden del día y se harán llegar a los miembros, cuando menos cinco días hábiles anteriores a la fecha de la sesión.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 280.
 
-Para que las sesiones ordinarias o extraordinarias del Consejo Consultivo estén debidamente instaladas deberá estar presente su Presidente y contar con un quórum integrado por la mitad más uno de sus integrantes.
-
-En caso de no reunirse el quórum al que se refiere el párrafo anterior, se hará una segunda convocatoria señalando los motivos y en esta ocasión se celebrará la sesión con cualquiera que sea el número de los miembros que asistan.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 281.
 
-Los acuerdos tomados en las sesiones del Consejo Consultivo, serán validos cuando sean aprobados por mayoría simple. En caso de empate la Presidente del Consejo tendrá voto de calidad. Las damas del voluntariado, tendrán derecho a voz, pero no a voto.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 282.
 
-El Secretario de Seguridad Pública nombrará a la persona que se encargue de la Dirección del Patronato Pro-hijo del Policía, quien tendrá el cargo de Director General.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 283.
 
-El Director General del Patronato, tendrá las siguientes facultades y obligaciones:
-
-I. Representar al Patronato como apoderado general del mismo, a quien se le otorgará poder para la administración de bienes, pleitos y cobranzas, con todas las facultades generales y particulares que requieran cláusula especial conforme a la ley;
-
-II. Tendrá poder para actos de dominio, con la limitación de que no podrá enajenar bienes y muebles del Patronato;
-
-III. Convocar y coordinar las reuniones del Consejo Consultivo con el carácter de Presidenta del mismo;
-
-IV. Elaborar programas anuales de las actividades, que considere las opiniones y propuestas de los miembros del Consejo Consultivo;
-
-V. Seleccionar el personal propuesto por esta Secretaría para el buen desempeño del Patronato y la adecuada prestación de los servicios que ofrece;
-
-VI. Recaudar fondos, para mejorar el nivel de vida del personal de esta Secretaría y su familia;
-
-VII. Apoyar al personal de esta Secretaría económicamente;
-
-VIII. Apoyar con los fondos recaudados, la adquisición de aparatos ortopédicos, lentes y cualquier otro aditamento especial a los hijos del personal de escasos recursos que tengan disminuidas sus facultades;
-
-IX. Conseguir y otorgar becas a los hijos del personal, que demuestren no poder costear sus estudios y presenten buen aprovechamiento;
-
-X. Proporcionar auxilio económico a las viudas y huérfanos del personal operativo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 284.
 
-Únicamente podrá disolverse el Patronato por acuerdo del Titular de esta Secretaría, en virtud del cual se transferirá el patrimonio a la misma, incluyendo los intereses que produzcan sus inversiones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN CUARTA. De los Órganos Colegiados
 
 ###### Artículo 285.
 
-En los términos del artículo 37 de la Ley de Seguridad Pública del Estado de Yucatán, la Secretaría de Seguridad Pública contará con una Comisión de Honor y Justicia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 286.
 
-La Comisión de Honor y Justicia es un órgano colegiado de carácter permanente, encargado de conocer sobre las promociones, recompensas, condecoraciones, disciplina, correctivos administrativos de carácter no laboral, o faltas a los deberes cometidas por los integrantes de esta Secretaría, y previstos en la Ley de Seguridad Pública del Estado de Yucatán, en este Reglamento y en las demás disposiciones legales aplicables,
-
-Tratándose de conductas probablemente constitutivas de delito, la Comisión deberá hacerlas del conocimiento sin demora de la autoridad competente.
-
-Para el cumplimiento de sus atribuciones, contará con el apoyo de los departamentos administrativos de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 287.
 
-La Comisión de Honor y Justicia tendrá las funciones siguientes:
-
-I. Realizar el análisis de las infracciones administrativas de carácter no laboral cometidas por los integrantes de esta Secretaría, y escuchar en todo caso los argumentos del presunto infractor;
-
-II. Determinar la aplicación de sanciones a los infractores, de conformidad con la Ley y este Reglamento y,
-
-III. Resolver el recurso de revocación que interpongan los integrantes de esta Secretaría en contra de las resoluciones emitidas por la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 288.
 
-La Comisión se integrará en los términos del artículo 39 de la Ley de Seguridad Pública del Estado de Yucatán por:
-
-I. Un Presidente, que será el Secretario;
-
-II. Un Secretario, que será uno de los tres subsecretarios, dependiendo del área al que pertenezca el elemento, y
-
-III. Un Vocal, que será el Coordinador de Asuntos Internos e Información Policial; los integrantes a que se refieren las fracciones anteriores serán de carácter permanente y podrán designar a un suplente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 289.
 
-La Comisión sesionará en la sede de esta Secretaría por convocatoria del Titular de la misma. Sólo en casos extraordinarios se convocará su reunión en otro lugar, ya sea por cuestiones de seguridad o por confiabilidad respecto de los asuntos que vayan a tratarse.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 290.
 
-Habrá quórum en las sesiones de la Comisión con la mitad más uno de sus miembros. Todos los miembros de la Comisión tendrán derecho a voz y voto, sus resoluciones serán tomadas por mayoría simple de los miembros presentes. En caso de empate, el presidente tendrá voto de calidad. El sentido del voto de los integrantes será secreto; el Secretario deberá elaborar un acta en la que se registre el desarrollo y las resoluciones de cada sesión.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 291.
 
-Cuando algún miembro de la Comisión tenga una relación afectiva, familiar, profesional, o una diferencia personal o de otra índole con el presunto infractor o con el representante de éste, que impida una actuación imparcial de su encargo, deberá excusarse ante el Presidente de la Comisión y será suplido por el otro Subsecretario. Si algún miembro de la instancia no se excusa debiendo hacerlo, podrá ser recusado por el infractor o su representante para que se abstenga del conocimiento del asunto, debiendo el Presidente resolver sobre el particular.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 292.
 
-Los integrantes de la Comisión de Honor y Justicia, podrán ser removidos libremente por el Secretario en cualquier tiempo. Éstos no podrán abandonar sus cargos, en tanto no lleguen las personas que los sustituyan.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 293.
 
-En ausencia temporal, accidental o incidental del Presidente de la Comisión, será sustituido por la persona que éste nombre, quien podrá ser removido hasta en tanto no dicte la resolución del caso que conoce.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 294.
 
-El procedimiento administrativo ante la Comisión de Honor y Justicia, iniciará por solicitud fundada y motivada del titular de la Dirección General de Administración, dirigida al Presidente de la Comisión de Honor y Justicia, remitiendo para tal efecto el expediente respectivo. El Presidente resolverá, si la instrucción del procedimiento la llevará a cabo directamente dicho funcionario o por conducto de la Comisión de Honor y Justicia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 295.
 
-El Secretario de la Comisión de Honor y Justicia, según corresponda, convocará a los miembros de ésta y citará al presunto infractor a una audiencia, haciéndole saber la infracción administrativa de carácter laboral que se le imputa, el lugar, el día y la hora en que tendrá verificativo dicha audiencia y su derecho de ofrecer pruebas y formular alegatos, por sí o asistido de un defensor, el cual no podrá ser persona ajena a esta Secretaría. La audiencia se celebrará dentro de un plazo no menor de cinco ni mayor de veinte días naturales posteriores a la recepción del expediente, por el Presidente de la Comisión de Honor y Justicia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 296.
 
-La notificación se realizará en el domicilio oficial de la adscripción del presunto infractor, y se le hará saber que estará a disposición de la Dirección General de Administración, hasta en tanto se dicte la resolución definitiva correspondiente. Asimismo, deberá señalar domicilio para oír y recibir notificaciones, dentro del lugar de residencia de la instancia que conozca del asunto, apercibiéndolo que en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada, así como que, de no señalar domicilio, las subsecuentes notificaciones se realizarán en un lugar visible al público dentro de las instalaciones que ocupe la instancia que conozca del asunto.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 297.
 
-El día y hora señalados para la comparecencia del presunto infractor, el Presidente declarará formalmente abierta la sesión y enseguida el Secretario tomará las generales de aquél y de su defensor protestando al primero a conducirse con verdad y discerniéndole el cargo al segundo. Acto seguido procederá a dar lectura a todas las constancias existentes, con la finalidad de hacer saber al presunto infractor los hechos que se le atribuyen. El Presidente de la instancia, concederá el uso de la palabra al presunto infractor y a su defensor, los que expondrán en forma concreta y específica lo que a su derecho convenga.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 298.
 
-Los miembros de la Comisión están facultados para cuestionar al compareciente, solicitar informes u otros elementos de prueba, por conducto del Secretario, previa autorización del Presidente, con la finalidad de allegarse de datos necesarios para el esclarecimiento del asunto.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 299.
 
-Las pruebas que sean presentadas por las partes serán debidamente analizadas y valoradas, resolviendo cuales se admiten y cuales son desechadas.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 300.
 
-Si el Presidente lo considera necesario, por lo extenso o la particular dificultad de las pruebas presentadas, cerrará la sesión, levantando el acta correspondiente y establecerá un término probatorio de quince días, para su deshago. En caso contrario, se cerrará la sesión y dentro del término de veinte días hábiles se procederá a dictar la resolución correspondiente. En aquellos asuntos que hubieren sido instruidos directamente por la Comisión de Honor y Justicia, ésta tendrá veinte días hábiles contados a partir del cierre de la misma para emitir la resolución que conforme a derecho corresponda. En los asuntos que hubieren sido instruidos por el Presidente, dentro de los dos días hábiles siguientes al cierre de la misma, remitirá el expediente a la Comisión de Honor y Justicia, la cual tendrá veinte días hábiles contados a partir de que reciba el expediente, para emitir la resolución que conforme a derecho corresponda. En ambos casos, la resolución se notificará personalmente al interesado por conducto de la Dirección General de Administración o por el Departamento de Recursos Humanos. Las resoluciones que dicte la Comisión de Honor y Justicia son sin perjuicio de que, si se comprobaren faltas a la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, el Secretario podrá aplicar las sanciones que correspondan o decidirá la baja o el cese del servicio.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 301.
 
-La resolución que dicte la Comisión de Honor y Justicia deberá estar debidamente fundada y motivada, contendrá una relación sucinta de los hechos y una valoración de todas y cada una de las pruebas aportadas. Asimismo, deberá hacerle saber al interesado que puede inconformarse con la misma, mediante el recurso de revocación y el término para que lo haga valer.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 302.
 
-Los acuerdos dictados durante el procedimiento administrativo mencionado, serán firmados por el Presidente de la Comisión de Honor y Justicia y autentificados por el Secretario de la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 303.
 
-Cuando los casos tratados por la instancia, requieran la celebración de más sesiones, al término de cada una se notificará la fecha de la siguiente y se asentará esta circunstancia en el acta correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 304.
 
-En lo no previsto en el presente capítulo, se aplicará de manera supletoria, el Código de Procedimientos Civiles del Estado de Yucatán.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 305.
 
-El Comité de Servicio de Carrera Policial, Promociones y Deméritos, es el órgano colegiado encargado de aplicar las disposiciones relativas a la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 306.
 
-El Comité de Servicio de Carrera Policial, Promociones y Deméritos, tiene a su cargo las siguientes atribuciones:
-
-I. Aprobar los lineamientos, mecanismos y procedimientos para regular los procesos de promociones y deméritos;
-
-II. Evaluar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y los méritos de los integrantes de esta Secretaría, a fin de determinar quienes cumplen con los requisitos para ser promovidos o declinaciones;
-
-III. Aprobar los lineamientos, mecanismos y procedimientos para el otorgamiento de estímulos a sus integrantes;
-
-IV. Proponer las reformas necesarias a las disposiciones jurídicas que regulan la profesionalización de la Carrera Policial y Promociones y Deméritos;
-
-V. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes de esta Secretaría, de conformidad con el expediente respectivo;
-
-VI. Proponer e instrumentar los sistemas de desarrollo integral y planeación de carrera policial del personal;
-
-VII. Conocer y resolver las controversias que se susciten en materia de Servicio Civil de Carrera Policial, Promociones y Deméritos;
-
-VIII. Informar a la Comisión de Honor y Justicia, aquellos aspectos del Servicio Civil de Carrera Policial, Promociones y Deméritos que por su importancia lo requierán;
-
-IX. Resolver sobre los procedimientos de bajas relativos a la separación del servicio por renuncia, muerte o jubilación de los integrantes de esta Secretaría, así como por el incumplimiento de los requisitos de permanencia que se señalan en este Reglamento, y
-
-X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 307.
 
-El Comité de Servicio de Carrera Policial, Promociones y Deméritos, estará integrado de la siguiente manera:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. Por un Presidente, que será el Secretario;
-
-II. Por un Secretario Ejecutivo, que será el Coordinador de Asuntos Internos e Información Policial;
-
-III. Por tres secretarios técnicos, que serán los subsecretarios de la Policía Estatal de Caminos Peninsular, de Seguridad Ciudadana y de Servicios Viales, y
-
-IV. Por los titulares de las direcciones que ocuparán el cargo de vocales, conjuntamente con el Director de Asuntos Jurídicos.
-
-Los integrantes del Comité podrán designar representantes. La votación emitida por los integrantes de este Comité será secreta.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 ### CAPÍTULO II. De las relaciones jerárquicas
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN PRIMERA. De la Integración y Mando
 
 ###### Artículo 308.
 
-La Secretaría contará con el siguiente personal:
-
-I. El Secretario de Seguridad Pública;
-
-II. El Subsecretario de la Policía Estatal de Caminos Peninsular;
-
-III. El Subsecretario de Seguridad Ciudadana;
-
-IV. El Subsecretario de Servicios Víales;
-
-V. El Director Asuntos (sic) Internos e Información;
-
-VI. El Director General de Administración;
-
-VII. Directores Operativos;
-
-VIII. Coordinadores Operativos;
-
-IX. Jefes Administrativos;
-
-X. Comandantes de Compañía;
-
-XI. Peritos;
-
-XII. Agentes de Policía, y
-
-XIII. Personal Administrativo u Operativo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 309.
 
-Los integrantes de esta Secretaría se agruparán en categorías, jerarquías y mando en la forma que se indica en el cuadro siguiente:
-
-CATEGORIAS JERARQUIA MANDO
-
-I. COMANDANTE SECRETARIO ALTO
-
-GENERAL MANDO
-
-II. PRIMER SUBSECRETARIO MANDO
-
-COMANDANTE SUPERIOR
-
-III. SEGUNDO DIRECTOR MANDO
-
-COMANDANTE SUPERIOR
-
-OPERATIVO
-
-IV. COORDINADOR PRIMER MANDO
-
-INSPECTOR OPERATIVO
-
-V. JEFE DE SEGUNDO
-
-PERSONAL E INSPECTOR
-
-INSTRUCCIÓN
-
-CARRERA POLICIACA
-
-SUBINSPECTOR COMANDANTES MANDO
-
-DE COMPAÑÍA OPERATIVO
-
-PRIMER OFICIAL SEGUNDO MANDO
-
-COMANDANTE SUPERIOR
-
-DE COMPAÑÍA SUBORDINADO
-
-SEGUNDO OFICIAL COMANDANTE
-
-DE AGRUPAMIENTO
-
-SUB OFICIAL SEGUNDO
-
-COMANDANTE DE
-
-AGRUPAMIENTO
-
-I. ESCALA BASICA POLICIA PRIMERO
-
-POLICIA SEGUNDO SUBORDINADOS
-
-POLICIA TERCERO
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 310.
 
-Los titulares de las categorías estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones que se le encarguen.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 311.
 
-El Secretario ejercerá el alto mando, entendido éste como la representación de esta Secretaría y la autoridad que se ejerce, sobre los integrantes de la corporación en servicio activo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 312.
 
-El Mando Superior lo ejercerán los subsecretarios, quienes ostentarán la jerarquía de Primer Comandante.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 313.
 
-El Mando Superior Operativo lo ejercerán los Directores.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 314.
 
-Los mandos operativos los ejercerán los coordinadores y los jefes de Personal e Instructores.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 315.
 
-Los mandos operativos serán ejercidos por los comandantes de Compañía, quienes ostentarán la jerarquía de Subinspector.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 316.
 
-Los mandos superiores subordinados los ejercerán el Segundo Comandante de Compañía, los Comandantes de Agrupamiento y los segundos comandantes de Agrupamiento, quienes ostentarán la categoría de Primer Oficial, Segundo Oficial y Suboficial sucesivamente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 317.
 
-Los Policías Primero, Segundo y Tercero serán elementos subordinados y ostentarán las categorías de Escala Básica.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 318.
 
-Los nombrados en el artículo que antecede, podrán ocupar los cargos de ayudantes de compañía o bien Comandantes de una Unidad Operativa pelotón.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 319.
 
-Los Mandos pueden clasificarse de la siguiente manera, de acuerdo con la forma en que son ejercidos:
-
-I. Titulares, y
-
-II. Circunstanciales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 320.
 
-Los mandos titulares se ejercen por medio del nombramiento oficial, expedido por la superioridad correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 321.
 
-Los mandos circunstanciales pueden ser ejercidos en los casos siguientes:
-
-I. Interino, es el designado con ese carácter por la superioridad correspondiente, en tanto se nombra al Titular;
-
-II. El Mando Accidental, es el que se ejerce por ausencia temporal del Titular que impida desempeñarlo en caso de enfermedad, licencias, vacaciones, comisiones fuera de su adscripción y otros motivos, y
-
-III. El Mando Incidental, es el que se desempeña en casos imprevistos, por ausencias temporales del Titular o de quien ejerza el mando.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 322.
 
-En cualquiera de los casos antes señalados, sólo los integrantes de esta Secretaría en servicio activo podrán ejercer el mando.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 323.
 
-En caso de ausencia temporal, impedimento, excusa u otros similares del mando Titular, la orden y sucesión de mando se sujetará a las reglas siguientes:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. En ausencia del Secretario, el despacho y resolución de los asuntos correspondientes a esta Secretaría estará a cargo del Subsecretario de la Policía Estatal de Caminos Peninsular, del Subsecretario de Seguridad Ciudadana, del Subsecretario de Servicios Víales y del Coordinador de Asuntos Internos e Información Policial, en el orden mencionado;
-
-II. En ausencia de uno de los tres subsecretarios, el mando lo desempañarán los otros subsecretarios en el orden mencionado en la fracción anterior y en ausencia de éste, lo hará el Coordinador de Asuntos Internos e Información Policial y los directores de área que correspondan, en el orden mencionado;
-
-III. En ausencia del Coordinador de Asuntos Internos e Información Policial, el mando lo desempeñará el Subsecretario de la Policía Estatal de Caminos Peninsular, el Subsecretario de Seguridad Ciudadana y el Subsecretario de Servicios Víales, en el orden mencionado.
-
-IV. En ausencia de algún Director, el mando lo ejercerá el otro Director de la misma área que corresponda.
-
-V. En ausencia de los titulares de los departamentos tanto del grupo de apoyo como de las demás áreas administrativas, el mando lo desempeñará el inferior inmediato a éstos.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN SEGUNDA. De la clasificación de los integrantes de la Secretaría
 
 ###### Artículo 324.
 
-Los integrantes de esta Secretaría se clasifican por su permanencia en:
-
-I. Personal definitivo, y
-
-II. Personal eventual.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 325.
 
-El personal definitivo es el que presta de manera permanente sus servicios en esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 326.
 
-El personal eventual prestará sus servicios de forma temporal mediante contrato de prestación de servicios por lista de raya.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 327.
 
-Todos los integrantes de esta Secretaría estarán contemplados en alguna de las situaciones siguientes:
-
-I. Servicio Activo, y
-
-II. Baja.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 328.
 
-La relación entre esta Secretaría y su personal se regirá por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, por este Reglamento y por las demás disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 329.
 
-El personal en servicio activo es aquél que presta sus servicios en esta Dependencia, desempeñándose en el campo de su especialidad o en comisión designada por el Secretario.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 330.
 
-Como personal en servicio activo también podrá considerarse al que se encuentre:
-
-I. A disposición, o sea, en espera de órdenes para que se le asigne cargo o comisión y,
-
-II. Con licencia ordinaria, extraordinaria o por enfermedad.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 331.
 
-Se considerará como personal comisionado, a los integrantes de esta Secretaría que, por orden del Secretario, se encuentren desarrollando actividades en apoyo a otras autoridades.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 332.
 
-El personal comisionado estará obligado a sujetarse a los lineamientos disciplinarios del área en la que cumpla su comisión, sin que esto lo exima de cumplir con los deberes y atribuciones inherentes a su grado dentro de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 333.
 
-El personal desempeñará su comisión, cumpliendo estrictamente con los principios de ética y obligaciones de esta Secretaría, y deberá esforzarse en proyectar el profesionalismo y la excelencia propias de la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 334.
 
-El integrante que desempeñe una comisión podrá ser reasignado o retirado de la misma, cuando la causa que la motivó se modifique o deje de existir, en los términos que disponga la legislación respectiva.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 335.
 
-Al integrante que se le conceda licencia deberá informar por escrito al Superior de quien dependa, el lugar y domicilio donde hará uso de ese beneficio.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 336.
 
-Si en la plaza donde el integrante hará uso de la licencia se localizan instalaciones de esta Secretaría, deberá reportar al Titular de la plaza su situación y localización.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 337.
 
-En caso de que el integrante necesite una prórroga de la licencia, deberá solicitarla con anticipación por conducto de su superior jerárquico. Si al momento de formular esta solicitud se encuentra fuera de la plaza de su adscripción, la hará llegar a esta Secretaría por conducto del Titular de la unidad administrativa más cercana. Al presentar dicha solicitud, deberá tomar las previsiones necesarias con la finalidad de que sea recibida por la autoridad competente, para resolver lo que proceda antes de su vencimiento.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 338.
 
-El integrante que disfrute de licencia por enfermedad y fuere a cambiar de residencia, deberá notificarlo al Director del Estado Mayor, previa certificación de la autoridad médica correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 339.
 
-Cuando se presente una alteración del orden público y paz social, en los lugares donde el integrante disfrute de licencia, si no está imposibilitado para hacerlo, deberá presentarse en el establecimiento de esta Secretaría más cercano para prestar sus servicios en caso de ser necesario.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 340.
 
-Cuando se disfruten licencias por motivos particulares, los integrantes de esta Secretaría podrán salir de la plaza en la que fue solicitada, pero deberán informar por escrito el lugar en donde se encuentran, por conducto del establecimiento de la Secretaría más cercano.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 341.
 
-El personal de esta Secretaría será dado de baja, en los términos previstos por la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán y demás disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN TERCERA. De los nombramientos
 
 ###### Artículo 342.
 
-El Secretario será nombrado y removido libremente por el Gobernador del Estado.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 343.
 
-El Secretario hará los nombramientos de los subsecretarios, directores, coordinadores operativos y demás responsables de las unidades de la corporación, estos nombramientos son de encargo y durarán el tiempo que determine o bien el tiempo que dure en su cargo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 344.
 
-En lo que concierte (sic) a los nombramientos operativos, cuando éstos terminen la gestión de su encargo, regresarán al grado jerárquico que tenían al momento de su nombramiento, a no ser que durante este tiempo hubieran tenido algún ascenso.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 345.
 
-Los directores, los responsables de Unidad y de grupos de apoyo a que se refiere este ordenamiento, deberán tener título profesional y conocimientos relativos a la materia del cargo; además deberán cumplir con los requisitos establecidos en este Reglamento y demás disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 346.
 
-El Secretario podrá dispensar al Director, a los responsables de Unidad y de grupos de apoyo, todos ellos administrativos, los requisitos relativos al nivel de escolaridad profesional, siempre que los interesados acrediten tener amplios conocimientos en la materia relativa al área.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 347.
 
-Al concluirse el período para el cual fueron nombrados directores o bien al ser removidos, estos elementos regresarán a la jerarquía que tenían en el momento de ser nombrados para el cargo. Si durante el ejercicio de su cargo éstos tuvieran algún ascenso el mismo será respetado al término de sus funciones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 348.
 
-El nombramiento de los responsables de las unidades estará a cargo del Subsecretario respectivo, sin importar el grado jerárquico del elemento. Los responsables de las unidades podrán ser removidos libremente en cualquier tiempo por el Secretario.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 349.
 
-Al concluir el término para el cual fueron nombrados responsables de unidad o bien al ser removidos, estos elementos regresarán a la jerarquía que tenían en el momento de ser nombrados para el cargo. Si durante el ejercicio de su cargo éstos tuvieran algún ascenso el mismo será respetado al término de sus funciones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 350.
 
-Para otorgar nombramientos a los peritos de tránsito terrestre, se deberán cumplir los requisitos siguientes:
-
-I. Acreditar estudios en el ámbito superior o de técnico especializado, o bien constancia o documento que así lo acredite, expedido por el Instituto de Capacitación Profesional de las Corporaciones de Seguridad Pública en el Estado o de cualquier otra Entidad Federativa, así como las expedidas por las instituciones federales.
-
-II. En defecto de lo establecido en la fracción anterior, acreditar fehacientemente experiencia en la materia en que se pretenda prestar el servicio;
-
-III. No haber sido condenado por sentencia irrevocable como responsable, ni estar sujeto a proceso penal por delito doloso;
-
-IV. Tener buena conducta y reconocida solvencia moral;
-
-V. Acreditar previamente los exámenes de ingreso que determine esta Secretaría, en los términos de la legislación aplicable;
-
-VI. No hacer uso de substancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
-
-VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de la legislación aplicable, y
-
-VIII. Los demás requisitos que señalen otras disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 351.
 
-El personal de esta Secretaría requiere para su designación y permanencia estar en condiciones adecuadas de salud, haber observado buena conducta, tener conocimientos necesarios para el correcto desempeño de sus funciones y acreditar que cumple con los requisitos siguientes:
-
-I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
-
-III. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que este Reglamento establezca;
-
-IV. Abstenerse de hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, no padecer alcoholismo y someterse a los exámenes periódicos que determine el Secretario, para comprobar el no uso de este tipo de sustancias;
-
-V. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, y
-
-VI. Las demás que establezca el Secretario con base a las normas que sean aprobadas por las autoridades competentes.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 352.
 
-Para ser Comandante o Jefe de Grupo de la Secretaría se requiere:
-
-I. Ser mayor de edad y tener una antigüedad mínima de dos años de servicio en esta Secretaría;
-
-II. Acreditar buena conducta durante su desempeño del servicio;
-
-III. No haber sido sancionado con sentencia ejecutoria por delitos dolosos;
-
-IV. Aprobar el examen de selección correspondiente;
-
-V. Haber sido capacitado por el Instituto de Capacitación Profesional de las Corporaciones Policíacas del Estado, y
-
-VI. Cumplir con los demás requisitos que establece la Ley, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 353.
 
-Los agentes de esta Secretaría deberán cumplir con los requisitos siguientes:
-
-I. Tener 18 años de edad como mínimo;
-
-II. Aprobar el examen de ingreso que determine esta Secretaría;
-
-III. No haber sido sancionado en sentencia ejecutoria por delitos dolosos;
-
-IV. Tener un nivel educativo mínimo de secundaria o equivalente, y
-
-V. Cumplir con todos los requisitos establecidos en este Reglamento.
-
-Los agentes en servicio que no cubran el requisito señalado en la fracción IV de este artículo, deberán incorporarse, en lo posible, a los servicios educativos que para tal fin establezca esta Secretaría, hasta completar su educación media superior.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 354.
 
-El Secretario determinará las características y periodicidad con que se practiquen las evaluaciones previstas en el artículo anterior, para garantizar la adecuada selección, promoción, permanencia y el nivel profesional de los servidores públicos adscritos a esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 355.
 
-Los resultados de las evaluaciones se mantendrán en reserva, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 ### CAPÍTULO III. De los principios normativos de disciplina, prestaciones, estímulos y recompensas
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN PRIMERA. De los principios y deberes de los integrantes de la Secretaría
 
 ###### Artículo 356.
 
-Para los efectos de este Reglamento, la disciplina comprende el aprecio a sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia a las leyes, reglamentos y el respeto a los derechos humanos. La disciplina constituye la base para el funcionamiento y organización de la Institución, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, la justicia y la ética. La disciplina demanda respeto y consideración mutua entre quien ostenta una autoridad y sus subordinados.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 357.
 
-La actuación de los integrantes de esta Secretaría se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 358.
 
-La Secretaría exige de sus integrantes el más estricto cumplimiento del deber, salvaguardando la integridad y los derechos de las personas, previniendo la comisión de delitos para lo cual preservarán las libertades, el orden y la paz públicos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 359.
 
-Los deberes de los integrantes de esta Secretaría son:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. Velar por la protección de los habitantes, el orden público y la prevención de los delitos;
-
-II. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos;
-
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito y brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
-
-IV. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por cuestiones de raza, religión, sexo, condición económica o social, preferencia sexual, ideología, política o por cualquier otro motivo;
-
-V. Abstenerse en todo momento y bajo cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones, o cualquier otra; cuando tenga conocimiento de esos actos, deberá denunciarlos inmediatamente ante la autoridad competente;
-
-VI. Observar un trato respetuoso con todas las personas, absteniéndose de todo acto arbitrario o de limitar indebidamente las acciones o manifestaciones que, en ejercicio de sus derechos constitucionales, con carácter pacífico y sin lesionar la esfera de derechos de terceras personas, realice cualquier persona;
-
-VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las que les corresponda por sus servicios y estén previstas en la ley. En particular, se opondrán a cualquier acto de corrupción;
-
-VIII. Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en las disposiciones constitucionales y legales aplicables;
-
-IX. Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición del Ministerio Público o de la autoridad competente;
-
-X. Cumplir con las indicaciones de los superiores jerárquicos y con todas sus obligaciones y deberes, siempre y cuando sean conforme a derecho;
-
-XI. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes;
-
-XII. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XIII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones y evitar todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-XIV. Conocer la escala jerárquica de esta Secretaría, debiendo guardar a los superiores, subordinados o iguales el respeto y la consideración debidos;
-
-XV. Fomentar en sí mismos y en el personal a su mando la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo;
-
-XVI. Responder, sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general y respetar la linealidad del mando;
-
-XVII. Estar debidamente uniformado, portar insignias y equipo reglamentario que le proporcione esta Secretaría, mientras se encuentre en servicio;
-
-XVIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne, con motivo de sus funciones. El uso de armas deberá ser racional y se reservará exclusivamente para actos del servicio que así lo demanden;
-
-XIX. Preservar las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XX. Elaborar un parte informativo de todos los actos en que intervengan, así como también de las detenciones que se realicen;
-
-XXI. Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, no importando su índole. Lo ejecutará en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse con estricto apego a las actividades realizadas y a los hechos ocurridos;
-
-XXII. Remitir a la instancia que corresponda la información recopilada en el cumplimiento de sus misiones o en el desempeño de sus actividades para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras áreas de esta Secretaría, para substanciar procedimientos jurisdiccionales o administrativos;
-
-XXIII. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de esta Secretaría;
-
-XXIV. Abstenerse de disponer para beneficio propio o de terceros, de los bienes asegurados de esta Secretaría;
-
-XXV. Auxiliar en todo tiempo a los habitantes del Estado que se encuentren en situación de riesgo por causas naturales, accidentales, fortuitas o por catástrofes o desastres de cualquier tipo;
-
-XXVI. Realizar operativos preventivos relacionados con la delincuencia organizada;
-
-XXVII. Realizar las detenciones que procedan, privilegiando la persuasión, cooperación o advertencia, con el fin de mantener la observancia de la ley y restaurar el orden y la paz públicos en los casos de flagrancia;
-
-XXVIII. Proporcionar al público su nombre cuando se lo solicite y mostrar su identificación de manera respetuosa y cortés en el desempeño de su servicio;
-
-XXIX. Atender con diligencia la solicitud de informes, quejas o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área de esta Secretaría que corresponda;
-
-XXX. Informar a su superior jerárquico, a la brevedad posible, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en jerarquía. Tratándose de actos u omisiones de un superior jerárquico, deberá informarlo al superior jerárquico de éste;
-
-XXXI. Abstenerse de introducir a las instalaciones de esta Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean productos de detenciones, cateos, aseguramientos u otros similares y que previamente exista la autorización correspondiente.
-
-XXXII. Abstenerse de consumir, dentro y fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que su consumo sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de esta Secretaría;
-
-XXXIII. Abstenerse de consumir bebidas embriagantes en las instalaciones de esta Secretaría o durante el servicio;
-
-XXXIV. Abstenerse de convocar o participar en cualquier práctica de inconformidad, rebeldía o indisciplina en contra del mando o alguna otra autoridad;
-
-XXXV. Ejercer sus funciones y atribuciones en correspondencia con el mando, categoría jerárquica o cargo que ostente;
-
-XXXVI. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba, o que sean contradictorias, injustas o impropias.
-
-XXXVII. Abstenerse de realizar conductas que desacrediten su persona o la imagen de esta Secretaría, dentro o fuera del servicio;
-
-XXXVIII. Identificar los indicadores de delitos con mayor incidencia, para instrumentar las acciones que correspondan;
-
-XXXIX. No permitir que personas ajenas a esta Secretaría realicen actos inherentes a las atribuciones que tengan encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
-
-XL. Abstenerse de asistir uniformados a bares, cantinas, centros de apuesta y juegos, prostíbulos u otros centros de este tipo, salvo que medie orden expresa para el desempeño de funciones o casos de flagrancia;
-
-XLI. Ejecutar eficientemente las políticas de la Administración Pública, en lo referente al orden, seguridad pública, tránsito y vialidad del Estado;
-
-XLII. Por acuerdo del Gobernador del Estado, determinar y coordinar las políticas para el establecimiento de planes, programas y otros dispositivos para el mantenimiento del orden, seguridad pública, auxilio a damnificados en caso de siniestro o desastre, así como establecer las medidas tendientes a prevenir la delincuencia;
-
-XLIII. Promover la coordinación con las dependencias afines de los gobiernos federal y estatal en materia de seguridad, orden público, tránsito y vialidad;
-
-XLIV. Obedecer las indicaciones del Departamento de Asuntos Jurídicos, y
-
-XLV. Las demás que le indique el Secretario, que estén previstas en este Reglamento y otras disposiciones legales apicables (sic).
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN SEGUNDA. De la Profesionalización de la Carrera Policial, Promociones y Deméritos
 
 ###### Artículo 360.
 
-El Servicio Civil de Carrera Policial, Promociones y Deméritos comprende el reclutamiento, selección, ingreso, permanencia, promoción, régimen de estímulos y la conclusión del servicio de los integrantes de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 361.
 
-Los fines del Servicio Civil de Carrera Policial, Promociones y Deméritos son:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. Garantizar la estabilidad y la seguridad en el empleo con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes;
-
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de esta Secretaría;
-
-III. Fomentar la vocación de servicio mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional de los integrantes de esta Secretaría, y
-
-IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los integrantes de esta Secretaría, para asegurar la lealtad en la prestación de los servicios.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN TERCERA. De las Promociones
 
 ###### Artículo 362.
 
-La promoción es el acto mediante el cual la superioridad otorga a los integrantes de esta Secretaría el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en este Reglamento.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 363.
 
-Las promociones sólo podrán conferirse cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su escalafón.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 364.
 
-Al personal que sea promovido le será ratificada su nueva categoría jerárquica, mediante la expedición de la constancia de grado correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 365.
 
-Los requisitos para que los miembros de esta Secretaría puedan participar en los procesos de promoción, serán los siguientes:
-
-I. Estar en servicio activo o comisionado;
-
-II. Presentar la documentación requerida, conforme al procedimiento y plazos establecidos en la convocatoria;
-
-III. Acumular el número de créditos requeridos para cada grado, en la escala jerárquica de esta Secretaría y que haya sido reconocidos por el Instituto;
-
-IV. Haber observado buena conducta;
-
-V. Aprobar los exámenes que se señalen en la convocatoria;
-
-VI. Observar los deberes previstos en este Reglamento;
-
-VII. Tener cuando menos dos años de antigüedad en el grado que ostentan jerarquía, y
-
-VIII. Los demás que se señalen en la convocatoria respectiva.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 366.
 
-Podrán otorgarse promociones por mérito especial a quienes se destaquen en el servicio por actos de reconocido valor o por méritos extraordinarios durante el desarrollo de funciones. En todo caso deberá considerarse lo siguiente:
-
-I. Que el acto hubiere salvado vidas humanas con riesgo de la propia, o
-
-II. Que el acto salve bienes de la nación, con riesgo de su vida.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 367.
 
-El personal que sea promovido por mérito especial, deberá cumplir en el Instituto con los cursos, capacitación y especialización que señale la normatividad correspondiente, para la categoría jerárquica a la que hubiere sido promovido. Si no cumple con estos requisitos, no podrá obtener posteriores promociones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 368.
 
-La promoción de los integrantes de esta Secretaría exige mayor responsabilidad y profesionalismo para cada jerarquía y se sustenta con el resultado aprobatorio del proceso correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 369.
 
-Los interesados que deseen participar en el proceso de promoción, deberán acreditar éstos, ante el Comité que cumplen los requisitos en los términos que se señalen en este Reglamento y en la convocatoria. En caso de que un integrante desista de su participación en el proceso de promoción, deberá comunicarlos por escrito al Comité de Promociones y si fuera el caso de que algún interesado, por necesidades del servicio, se viera impedido de participar, el Titular de la unidad administrativa a la que se encuentre adscrito lo hará del conocimiento del Comité.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 370.
 
-En cualquiera de las etapas del proceso de promoción, será motivo de exclusión del mismo la conducta indebida del interesado, respecto de las evaluaciones de dicho procedimiento.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 371.
 
-Las mujeres interesadas que reúnan los requisitos para participar en un procedimiento de promoción y que se encuentren en estado de gravidez, quedarán exentas de los exámenes de capacidad física, poligráficos y de cualquier otro tipo que a juicio de los servicios médicos de esta Secretaría pongan en riesgo el proceso de gestación, pero cumplirán con las demás evaluaciones. Las interesadas acreditarán su estado de gravidez, mediante el certificado médico expedido por la Unidad de Desarrollo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 372.
 
-Para efectos de promoción, los interesados deberán aprobar los exámenes médico, toxicológico, de conocimientos y los demás que el Comité establezca en la convocatoria correspondiente a cada división o servicio.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 373.
 
-El Comité convocará al procedimiento de promoción cuando existan plazas disponibles en las diferentes jerarquías y escalafones de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 374.
 
-Para cada procedimiento de promoción se elaborarán los instructivos operacionales en los que se establecerán, además de la convocatoria, los siguientes datos:
-
-I. Las plazas ofrecidas por jerarquía y escalafón;
-
-II. Descripción del sistema selectivo;
-
-III. Integración del Comité de Promociones;
-
-IV. Calendario de actividades de: publicación de convocatoria, trámite de documentos, evaluaciones, relación escalafonaria y de resultados;
-
-V. Duración del procedimiento, indicando plazos máximos y mínimos para las diferentes evaluaciones, y
-
-VI. Disposiciones generales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 375.
 
-Para cada procedimiento de promoción, el Comité elaborará los exámenes académicos y proporcionará los temarios de estudio y bibliografía correspondientes a cada jerarquía y escalafón, sometiéndolos a consideración del Comité.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 376.
 
-Los interesados serán promovidos de acuerdo a la calificación global obtenida, con base en la calificación parcial asignada a los requisitos y a los resultados de los exámenes. A dichas calificaciones parciales se les denominarán, criterios de promoción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 377.
 
-Los criterios de promoción acreditables son:
-
-I. De los requisitos, y
-
-II. De los exámenes:
-
-a) De aptitud física;
-
-b) Médico, y
-
-c) Toxicológico.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 378.
 
-Los criterios de promoción que poseerán puntaje y coeficiente, son:
-
-I. De los requisitos:
-
-a) La valoración del desempeño, en el ejercicio de sus funciones;
-
-b) Estímulos;
-
-c) Disciplina;
-
-d) Capacitación y adiestramiento, y
-
-e) Exámenes de conocimiento generales y específicos.
-
-II. De los exámenes:
-
-a) De conocimientos generales, y
-
-b) De conocimientos específicos.
-
-III. Estímulos obtenidos en la jerarquía actual.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 379.
 
-El puntaje máximo y coeficiente de los criterios de promoción del artículo que antecede serán:
-
-CRITERIO DE PROMOCIÓN PUNTAJES COEFICIENTE
-
-VALORACION DEL DESEMPEÑO, 100 PUNTOS 0.24
-
-EN EL EJERCICIO DE SUS
-
-FUNCIONES
-
-ESTIMULOS 100 PUNTOS 0.25
-
-DISCIPLINA 100 PUNTOS 0.21
-
-CAPACITACION Y 100 PUNTOS 0.10
-
-ADIESTRAMIENTO
-
-EXAMENES DE 100 PUNTOS 0.20
-
-CONOCIMIENTOS GENERALES Y
-
-ESPECIFICOS
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 380.
 
-A cada procedimiento le corresponderán cien puntos. El puntaje del resto de los concursantes se determinará por regla proporcional de tres simple.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 381.
 
-El orden de prelación de los concursantes se establecerá con relación a la calificación global obtenida y se publicará, en una relación de orden descendente, dentro de los cinco días hábiles siguientes al día en que concluyan los exámenes. Esta relación será suscrita y ratificada por el Comité.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 382.
 
-Si la cantidad de concursantes que aprueben el procedimiento de promoción fuere menor al número de plazas ofertadas, las que queden sin cubrir serán ofrecidas hasta el siguiente procedimiento de promoción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 383.
 
-Los concursantes con calificación aprobatoria que no alcancen plaza, deberán participar nuevamente en el próximo procedimiento de promoción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 384.
 
-Si durante el período comprendido entre la conclusión de los exámenes y el día en que se expida la relación de concursantes promovidos, alguno de éstos causara baja del servicio, será promovido el concursante que haya quedado fuera de las plazas ofertadas que obtenga la mayor calificación global y así sucesivamente hasta ocupar las plazas ofertadas.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 385.
 
-En el caso de que dos o más concursantes obtengan la misma calificación, su orden de prelación se conferirá primeramente atendiendo al que tenga mayor antigüedad en esta Secretaría y si persistiera la igualdad, al que no teniendo ninguna otra fuente de ingreso económico tenga a su cargo una familia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 386.
 
-El procedimiento para el otorgamiento de una promoción por mérito especial señalada en este Reglamento, será como sigue:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. El Titular de la unidad a donde pertenezca el integrante, realizará por escrito la propuesta en la que mencionará las causas, hechos, pruebas, evidencias documentales, testigos u otros elementos necesarios que la fundamenten. Esta documentación será turnada al Comité;
-
-II. Con base en el informe, el Comité deliberará sobre la propuesta recibida, y
-
-III. Si como resultado de la deliberación se determina otorgar la promoción por mérito especial, procederá a tramitar la expedición de la Constancia de Grado respectivo. En caso contrario, se informará al interesado y al Titular que lo propuso las causas por las cuales le fue denegada dicha promoción.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN CUARTA. Del Escalafón
 
 ###### Artículo 387.
 
-Se considera escalafón a la relación que contiene a todos los integrantes de esta Secretaría, ordenados en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 388.
 
-La antigüedad se clasificará y computará para cada integrante de esta Secretaría, en la siguiente forma:
-
-I. Antigüedad en el servicio, a partir de la fecha de su ingreso a esta Secretaría, y
-
-II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 389.
 
-Para el caso de que existe concurrencia sobre derechos escalafonarios de ascenso y categoría jerárquica, se considerará preferentemente al que acredite mayor tiempo de servicio en el grado anterior. En igualdad de circunstancias, al que tenga mayor antigüedad en el servicio, y si también fuere igual, se preferirá a quien represente la única fuente de ingresos en su familia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN QUINTA. Del cambio de división o servicio
 
 ###### Artículo 390.
 
-El Secretario podrá por necesidades del servicio, determinar el cambio de los integrantes de una división a otra; de una división a un servicio; de un servicio a una división, sin perjuicio de los derechos escalafonarios que correspondan.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN SEXTA. Del régimen de estímulos
 
 ###### Artículo 391.
 
-El régimen de estímulos de esta Secretaría comprende las recompensas, condecoraciones, menciones honoríficas, distintivos y citaciones, por medio de los cuales reconoce y promueve la actuación heroica, valiente, ejemplar, sobresaliente, y demás actos meritorios de sus integrantes.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 392.
 
-Recompensa, es la remuneración de carácter económico que se otorga, dependiendo de las asignaciones presupuestarias, para alentar e incentivar la conducta del personal, y crear conciencia de que el esfuerzo y el sacrificio son honrados y reconocidos por esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 393.
 
-Condecoración, es la presea o joya que galardona un acto específico del personal, departamentos y grupos administrativos de la Secretaría.
-
-Las condecoraciones que se otorgarán al personal en activo de esta Secretaría serán las siguientes:
-
-ESTIMULOS PUNTOS
-
-I. Mérito Policíaco, 25
-
-II. Mérito Cívico, 12
-
-III. Mérito Social, 8
-
-IV. Mérito Ejemplar, 10
-
-V. Mérito Tecnológico, 10
-
-VI. Mérito Facultativo, 8
-
-VII. Mérito Docente, 10
-
-VIII. Mérito Deportivo, 8
-
-IX. Mérito Póstumo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 394.
 
-El régimen de estímulos, es el medio que esta Secretaría utiliza para reconocer en sus integrantes las acciones concretas de probado valor, productividad e iniciativa, discrecionalidad y confidencialidad, respecto de sus funciones sustantivas. Su fin es fortalecer el servicio de carrera y propiciar la satisfacción en el cumplimiento del deber.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 395.
 
-Los objetivos del régimen de estímulos son los siguientes:
-
-I. Generar una sana competitividad entre los integrantes de esta Secretaría;
-
-II. Fomentar la calidad, efectividad y lealtad en el desempeño del servicio, y
-
-III. Incrementar las posibilidades de promoción y desarrollo de los integrantes.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 396.
 
-Las acciones de los integrantes que se propongan para la entrega de algún estímulo, serán motivo de un solo reconocimiento, pero no impedirá el otorgamiento de algún otro u otros reconocimientos por parte de otras instituciones, asociaciones u organismos nacionales o internacionales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 397.
 
-Todo estímulo otorgado por esta Secretaría será acompañado de una constancia que acredite el otorgamiento y en su caso, la autorización de portación de la condecoración o distintivo correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 398.
 
-La ceremonia de entrega oficial de los estímulos conferidos se realizará el día del Policía de cada año y será presidida por el Secretario. La entrega de estímulos a los aspirantes o integrantes de esta Secretaría se verificará en la fecha establecida en el Manual de Régimen Interno respectivo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 399.
 
-Si un integrante pierde la vida al realizar actos que merecieran el otorgamiento de algún estímulo o recompensa, esta Secretaría resolverá sobre el particular a fin de conferir dicho estímulo a título postmorten.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 400.
 
-La Condecoración al Mérito Policial se otorgará a los integrantes que realicen los siguientes actos:
-
-I. Actos de relevancia excepcional en beneficio de esta Secretaría;
-
-II. Actos de reconocido valor extraordinario y mérito en el desarrollo de las operaciones, con las siguientes precisiones:
-
-a) Por su diligencia en la captura de delincuentes, y
-
-b) Por auxiliar con éxito a la población en general en accidentes o situaciones de peligro o emergencia, así como para la preservación de sus bienes.
-
-III. Actos en cumplimiento de comisiones de naturaleza y en condiciones difíciles, y
-
-IV. Actos consistentes en operaciones o maniobras de riesgo extraordinario:
-
-a) Que comprometan la vida de quien las realice, y
-
-b) Que tenga por objeto conservar los bienes materiales del Estado, de la Nación, de la Secretaría y de las personas.
-
-Se confiere de primera clase, por ejecutar espontáneamente los actos referidos. Cuando su ejecución provenga del cumplimiento de una orden superior, será de segunda clase.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 401.
 
-La Condecoración al Mérito Cívico se otorgará a los integrantes considerados por la comunidad donde ejerzan funciones, como ejemplos de dignidad cívica, diligente cumplimiento de la ley, firme y serena defensa de los derechos humanos, respeto a las instituciones públicas y, en general, por un relevante comportamiento ciudadano.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 402.
 
-La Condecoración al Mérito Social se otorgará a los integrantes que se distingan, por el cumplimiento excepcional en el servicio en favor de la comunidad, y por poner en alto el prestigio y dignidad de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 403.
 
-La Condecoración al Mérito Ejemplar se otorgará a los integrantes que se distingan en forma sobresaliente en las disciplinas científica, artística o cultural y que sea de relevante interés, prestigio y dignidad para esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 404.
 
-La Condecoración al Mérito Tecnológico se otorgará en Primera y Segunda Clase, al integrante que invente, diseñe o mejore algún instrumento, aparato, sistema o método, que sea de utilidad y prestigio para los cuerpos de Seguridad Pública, el Estado o la Nación.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 405.
 
-La Condecoración al Mérito Facultativo se otorgará a los aspirantes del Instituto que se hayan distinguido por realizar en forma brillante sus estudios.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 406.
 
-La Condecoración al Mérito Docente se otorgará a los integrantes del Instituto que hayan desempeñado cargos docentes con distinción y eficiencia, por un mínimo de tres años, pudiendo computarse en varios períodos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 407.
 
-La Condecoración al Mérito Deportivo se otorgará a los integrantes que se distingan en cualquier deporte. Se confiere al que por su participación en cualquier disciplina deportiva a nombre de esta Secretaría, ya sea de nivel estatal, nacional o internacional, obtenga alguna presea y al que impulse o participe en cualquier deporte, en beneficio de la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 408.
 
-La Mención Honorífica se otorga por acciones sobresalientes o de relevancia no consideradas para el otorgamiento de condecoraciones. La propuesta para los grupos especiales y unidades administrativas, sólo podrá efectuarla el mando inmediato superior correspondiente. Dicha mención honorífica será conferida a cada integrante adscrito al grupo especial o al Departamento.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 409.
 
-El Distintivo se otorga por actuación sobresaliente en el cumplimiento del servicio o desempeño académico, en cursos con motivo de intercambios interinstitucionales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 410.
 
-Para efectos de otorgamiento de recompensas, serán evaluadas las siguientes circunstancias:
-
-I. La relevancia de los efectos, que en términos de proyección, favorezcan la imagen de esta Secretaría, y
-
-II. El grado de esfuerzo, sacrificio o si se rebasaron los límites del deber o si se consiguieron resultados sobresalientes en la actuación de que se trate.
-
-La Dirección General de Administración será quien realice la tramitación administrativa y contable correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 411.
 
-En el caso de que el integrante que se hubiere hecho merecedor a la entrega de una recompensa fallezca, ésta será entregada a sus deudos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 412.
 
-La Mención Honorífica es la presea o joya que se otorga al personal o a los departamentos administrativos de esta Secretaría, por acciones sobresalientes o de relevancia, no consideradas para el otorgamiento de condecoraciones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 413.
 
-El Distintivo, es la divisa o insignia con la que esta Secretaría reconoce al personal, que se destaque por actuación sobresaliente en el cumplimiento del servicio, disciplina o desempeño académico.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 414.
 
-La Citación, consiste en el reconocimiento verbal y escrito al personal de esta Secretaría, por haber realizado un hecho relevante, pero que no amerite o esté considerado para el otorgamiento de los estímulos referidos anteriormente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN SÉPTIMA. De los cargos y grados
 
 ###### Artículo 415.
 
-Para ocupar un grado dentro de esta Secretaría, se deberá cumplir con los requisitos establecidos en este Reglamento y demás disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 416.
 
-Cuando esta Secretaría no cuente con personal que ostente la jerarquía necesaria para ocupar algún cargo, el Secretario podrá:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. Nombrar al personal de esta Secretaría que ostente un grado inmediato inferior, o
-
-II. Designar a cualquier persona que, sin pertenecer a esta Secretaría, tenga la experiencia y profesionalismo para desempeñar dicho cargo.
-
-En este último caso, el Secretario le asignará el grado mínimo correspondiente al cargo que vaya a ocupar.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN OCTAVA. De la evaluación
 
 ###### Artículo 417.
 
-La Evaluación es el proceso de apreciación integral y periódica de las prestaciones del servicio de los integrantes, que se determinará a través del grado de apego a los principios constitucionales de actuación policial y de contribución a los objetivos institucionales y será un requisito indispensable considerarla, para efectos de las promociones y el régimen de estímulos. Dicha evaluación se realizará con objetividad, imparcialidad y transparencia, a fin de fortalecer el compromiso entre la Corporación y sus integrantes así como para armonizar los objetivos institucionales con la vocación de pertenencia a esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 418.
 
-Se entenderá por contribución a los objetivos institucionales, la concurrencia y adhesión voluntaria a la consecución y cumplimiento de la misión, objetivos, fines, propósitos y metas de esta Secretaría. El grado de contribución se medirá con base en las funciones debidas a cada jerarquía, cargo, misión, comisión o encargo.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 419.
 
-En las evaluaciones se deberá contar con la siguiente información general:
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
-I. Nombre completo y jerarquía del integrante;
-
-II. Adscripción y cargo actual;
-
-III. Fecha de ingreso a la Secretaría;
-
-IV. Fecha de la última promoción;
-
-V. Las dos últimas adscripciones y cargos desempeñados, y
-
-VI. Vacaciones, permisos y licencias disfrutadas en el período a evaluar.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN NOVENA. De la valoración del desempeño de los oficiales de policía
 
 ###### Artículo 420.
 
-Para efectos de esta Sección, quedan comprendidas todas aquellas acciones que los oficiales realizan cotidianamente en el desempeño de sus funciones y, para ello, son considerados el grado de dificultad, la exposición de la vida en el cumplimiento del deber, la prontitud o diligencia en la detención de las personas que cometan un ilícito y su prevención.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 421.
 
-Se podrá obtener puntaje para ser acreedores a una promoción en los términos de la siguiente tabla:
-
-CATÁLOGO DE DELITOS PUNTOS
-
-1 ROBO
-
-a) AUTOMÓVILES, CAMIONES 2
-
-b) MOTOS 1
-
-c) BICICLETAS, TRICICLOS 1
-
-d) COMERCIO U OFICINA,
-
-DOMICILIO, ALHAJAS,
-
-EFECTIVO, VIA PÚBLICA
-
-DE UN $ 1.00 A $ 1,000.00 1
-
-DE UN $ 1,001.00 A $ 5,000.00 2
-
-DE UN $ 5,001.00 EN ADELANTE 3
-
-e) CRISTALAZO 1
-
-f) TAPONES 1
-
-g) DE AUTOESTEREOS 1
-
-h) DE ANIMALES 1
-
-i) DE INSTRUMENTOS MUSICALES 1
-
-j) SERVICIO PÚBLICO O PARTICULAR
-
-DE PASAJE O CARGA 2
-
-k) OTROS
-
-DE UN $ 1.00 A $ 1,000.00 1
-
-DE UN $ 1,001.00 A $ 5,000.00 2
-
-DE UN $ 5,001.00 EN ADELANTE 3
-
-2 DELITOS SEXUALES
-
-a) VIOLACIÓN 2
-
-b) ESTUPRO 2
-
-3 DAÑO EN PROPIEDAD AJENA CON FUGA
-
-a) DOLOSO 2
-
-b) CULPOSO 1
-
-4 LESIONES DOLOSAS O CON FUGA
-
-a) MAYORES DE QUINCE DÍAS 1
-
-5 HOMICIDIO
-
-a) INTERNACIONAL 5
-
-b) IMPRUDENCIAL CON FUGA 1
-
-c) EN RIÑA 2
-
-6 DELITOS CONTRA LA SALUD
-
-a) PORTACIÓN DE
-
-ESTUPEFACIENTES (SUFICIENTE
-
-PARA CONSIGNAR) 2
-
-7 SECUESTRO
-
-a) PERSONAS 10
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 422.
 
-En los puntos obtenidos de conformidad con el artículo que antecede, el elemento podrá hacerse acreedor a puntos adicionales, cuando el detenido o detenidos lleven consigo armas e instrumentos prohibidos. Cuando se trate de armas de fuego, éste obtendrá dos puntos y cuando se trate de arma blanca o punzocortante un punto.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 423.
 
-De igual forma el elemento podrá hacerse acreedor a puntos adicionales cuando recupere el producto robado, un punto cuando el monto no excede de veinte mil pesos y dos puntos cuando el monto sea de veinte mil pesos o más, excepción hecha en los casos de recuperación de vehículos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 424.
 
-Los integrantes que se encuentren en situación especial, serán evaluados por la Coordinación de Asuntos Internos e Información Policial, únicamente para el efecto de promoción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 425.
 
-Como complemento a la apreciación objetiva del desempeño de los integrantes mencionados en el artículo que antecede, la Coordinación de Asuntos Internos e Información Policial del Estado solicitará a la Dirección o Departamento en la que se encuentren prestando sus servicios dichos integrantes, un informe en el que expresen el grado de legalidad, eficiencia, profesionalismo, honradez y observancia por parte de los mismos. Estos de manera automática se harán acreedores al cincuenta por ciento del puntaje y coeficiente de esta valoración.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA. Disciplina
 
 ###### Artículo 426.
 
-El cumplimiento del deber será valorado por los subsecretarios, directores operativos y comandantes, quienes propondrán al Secretario el nombre del elemento o elementos que a consideración de ellos sea merecedor de los veintiún puntos, o bien un número determinado de puntos y para tal efecto se deberá tomar en cuenta:
-
-I. Criterios:
-
-A). Legalidad, integrado con los siguientes factores:
-
-1. Apego a los ordenamientos de la Secretaría;
-
-2. Respeto y defensa de los derechos humanos, y
-
-3. Cumplimiento a los ordenamientos jurídicos del marco general.
-
-B). Efectividad, que se integran con los siguientes factores:
-
-1. Eficacia, entendida como la facultad para cumplir con los objetivos planeados o proyectados en la prestación del servicio.
-
-2. Eficiencia, entendida como la consecución de los objetivos planeados o proyectados con ahorro de equipo, tiempo y servicio.
-
-C). Honradez, que considera los siguientes factores de evaluación:
-
-1. Aptitud hacia la prestación del servicio, que se basa en los siguientes indicadores:
-
-a) Conocimientos de sus funciones;
-
-b) Apego a los procedimientos institucionales;
-
-c) Solución de problemas;
-
-d) Iniciativa;
-
-e) Disposición;
-
-f) Actitud para trabajar en grupo;
-
-g) Creatividad;
-
-h) Delegación;
-
-i) Comunicación oral;
-
-j) Comunicación escrita, y
-
-k) Comprensión.
-
-2. Adhesión a los principios y valores institucionales, que contienen los siguientes indicadores de evaluación.
-
-a) Toma de decisiones;
-
-b) Liderazgo;
-
-c) Confidencialidad, reserva y discreción, sobre los asuntos a su cargo;
-
-d) Conducta;
-
-e) Disciplina;
-
-f) Responsabilidad;
-
-g) Puntualidad;
-
-h) Cuidado personal;
-
-i) Respeto y subordinación a los superiores en jerarquía, y
-
-j) Respeto y deferencia a los subordinados en jerarquía.
-
-II. Actitud de Servicio.
-
-1. Felicitaciones;
-
-2. Participaciones en apoyo a la ciudadanía durante el desempeño del servicio, y
-
-3. Calidad de las intervenciones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 427.
 
-La evaluación correspondiente al cumplimiento del deber tendrá un valor de 0.21 del resultado general. El valor del criterio se dividirá equitativamente, entre los factores de evaluación correspondientes y éstos, a su vez, entre sus indicadores de evaluación respectivos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 428.
 
-El Secretario, una vez otorgados los puntos a que se refiere el artículo 430, a uno o más elementos sin que el total de estos exceda de veintiún puntos, podrá otorgar extraordinariamente cuando así lo considere, cinco puntos adicionales.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA PRIMERA. De la capacitación y adiestramiento
 
 ###### Artículo 429.
 
-Para efectos de este Título, se entenderá por:
-
-I. Capacitación: el proceso de aprendizaje y desarrollo de destrezas y habilidades propias de la actividad que realizan los integrantes de esta Secretaría.
-
-II. Adiestramiento: el proceso de desarrollar con mayor efectividad, las destrezas y habilidades adquiridas por los integrantes, en el proceso de capacitación.
-
-III. Actualización: el proceso de aprendizaje sobre las innovaciones o modificaciones de los sistemas, equipos, técnicas policiales y administrativas, así como de los conocimientos necesarios relacionados con las funciones de los integrantes.
-
-IV. Especialización: el proceso de aprendizaje en campos de conocimientos particulares, que demanden de los integrantes, destrezas y habilidades precisas o específicas.
-
-V. Profesionalización: el obtener un grado académico reconocido por instituciones de educación superior.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 430.
 
-Los créditos por estudios efectuados en la jerarquía actual se determinarán tomando como referente la correspondencia de 100 puntos por cada 10 créditos. Los puntos obtenidos se calcularán por regla proporcional de tres simple. La calificación parcial será el producto entre el puntaje obtenido por el coeficiente de 0.10
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA SEGUNDA. Exámenes de conocimientos generales y específicos
 
 ###### Artículo 431.
 
-Del resultado del examen de conocimientos generales y específicos, se obtendrá un promedio el cual se multiplicará por el coeficiente 0.20 para determinar la calificación respectiva.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 432.
 
-El exámen de conocimientos generales y específicos, será el último de los criterios de promoción que se aplicará para efectos de otorgar la promoción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. Del régimen disciplinario
 
 ###### Artículo 433.
 
-Los correctivos disciplinarios o sanciones, serán impuestos por el superior jerárquico o por el Secretario. La aplicación de sanciones será sin perjuicio de las que correspondan aplicar, por responsabilidad administrativa o penal.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 434.
 
-El infractor quedará a disposición de la Comandancia de cuartel en el recinto oficial, que será con o sin perjuicio del servicio, según la gravedad de la falta cometida.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 435.
 
-Para graduar con equidad la imposición de las sanciones, se tomará en consideración los factores siguientes:
-
-I. Gravedad de la infracción;
-
-II. Daños causados a la Secretaría;
-
-III. Daños infligidos a la ciudadanía;
-
-IV. Condición socioeconómica del infractor;
-
-V. Cargo, comisión, categoría jerárquica y antigüedad;
-
-VI. Conducta observada con anterioridad al hecho;
-
-VII. Circunstancias de ejecución;
-
-VIII. Intencionalidad o negligencia;
-
-IX. Perjuicios originados al servicio;
-
-X. Daños producidos a otros integrantes;
-
-XI. Daños causados al material y equipo, y
-
-XII. Grado de instrucción del presunto infractor.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 436.
 
-Las sanciones se encuentran establecidas, en el Artículo 35 de la Ley de Seguridad Pública del Estado de Yucatán y podrán ser:
-
-I. Amonestación;
-
-II. Arresto hasta por 36 horas;
-
-III. Multa de uno a cincuenta días de salario mínimo vigente en el Estado;
-
-IV. Inhabilitación hasta por un período de 15 años, para ingresar a cualquier corporación policial del Estado, dependiendo de la gravedad de la falta;
-
-V. Destitución del cargo y,
-
-VI. Las demás que señalen otras disposiciones legales aplicables.
-
-La aplicación de dichas sanciones se hará a juicio del superior jerárquico o del Titular de esta Secretaría. En todo caso, deberá registrarse en el expediente personal del infractor la sanción que se le aplique.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 437.
 
-La amonestación es el acto por el cual se advierte al integrante sobre la acción u omisión indebida que cometió en el cumplimiento de sus deberes. Mediante ella se informa al integrante las consecuencias y por reincidencia, se hará acreedor a una sanción mayor. La aplicación de esta sanción se hará en términos que no denigren al infractor, en público o en privado, a criterio del superior jerárquico.
-
-Dependerá de la gravedad de la falta aplicar una u otra forma de amonestación pero, en todo caso, procederá la amonestación pública cuando el infractor se niegue a recibir la notificación de la resolución.
-
-La amonestación pública se hará frente a los que ostenten el mismo o mayor grado que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría jerárquica.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 438.
 
-La multa es la interpretación de la relación jurídica existente entre el infractor y esta Secretaría, misma que no excederá de cincuenta salarios mínimos vigentes en el Estado.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 439.
 
-La destitución del cargo es la terminación de la relación jurídica entre la Secretaría y el infractor, sin responsabilidad para aquélla.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA CUARTA. De los correctivos disciplinarios
 
 ###### Artículo 440.
 
-Son correctivos disciplinarios los ya señalados en el Artículo 436 de este Reglamento, que se imponen a los integrantes de la Secretaría cuyos actos u omisiones sólo constituyen faltas menores en el cumplimiento de la disciplina.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 441.
 
-Los arrestos pueden ser:
-
-I. Sin perjuicio del servicio, que consiste en realizar sus actividades dentro o fuera de las instalaciones según corresponda, cumpliendo con los horarios establecidos, al término de los cuales, si no ha concluido con dicho arresto, se concentrará en su unidad administrativa para concluirlo, y
-
-II. Con perjuicio del servicio, en cuyo caso, el arrestado desempeñará sus actividades exclusivamente dentro de las instalaciones.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 442.
 
-Los arrestos serán aplicados en la forma siguiente:
-
-I. A los superintendentes e inspectores, de 12 a 36 horas;
-
-II. A los oficiales, de 24 hasta 36 horas, y
-
-III. A los integrantes de escala básica, hasta 36 horas.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 443.
 
-Los arrestos podrán ser impuestos a los integrantes de esta Secretaría por su respectivo superior jerárquico, ya sea con motivo de su grado o de su cargo, pero sólo serán calificadas por:
-
-I. El Secretario;
-
-II. Los subsecretarios;
-
-III. Los directores, y
-
-IV. Los demás titulares de los departamentos administrativos.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 444.
 
-Toda orden de arresto deberá darse por escrito, salvo cuando el superior se vea precisado a comunicarla verbalmente, en cuyo caso la ratificará por escrito dentro de las dos horas siguientes, anotando el motivo y la hora de la orden dada. Dicha orden deberá ejecutarse de manera inmediata, haciéndoselo saber a quien deba cumplirla.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 445.
 
-El integrante que se inconforme con la corrección disciplinaria impuesta, una vez cumplida la misión, será escuchado en audiencia, dentro de las veinticuatro horas siguientes, por el superior jerárquico que calificó el arresto. Sin mayor trámite se procederá a resolver lo conducente y contra dicha resolución no procederá recurso alguno. Si la resolución es favorable, su efecto será que el antecedente del arresto no se integre al expediente del inconforme.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA QUINTA. De las bajas, destituciones del cargo o inhabilitación
 
 ###### Artículo 446.
 
-La baja en la Secretaría es la separación definitiva del servicio activo por los supuestos siguientes:
-
-I. Por disposición de la Superioridad,
-
-II. Por cese definitivo, o
-
-III. Por resolución judicial.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 447.
 
-Las inhabilitaciones serán dadas por el superior jerárquico o por el Titular de esta Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 448.
 
-Al ser dado de baja, el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 449.
 
-El Retiro es la separación del personal del servicio activo de esta Secretaría, con el beneficio de los derechos y la responsabilidad de sus obligaciones que fija la ley correspondiente.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 450.
 
-El personal retirado informará por escrito a esta Secretaría cuando cambie su lugar de residencia, domicilio o cuando salga del país.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 451.
 
-Cuando se presente una situación de emergencia o desastre en los lugares en donde resida un integrante retirado, si no está imposibilitado para hacerlo, deberá presentarse al establecimiento de la Secretaría más cercano, para prestar sus servicios en caso de ser necesario.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA SEXTA. De la conclusión del servicio
 
 ###### Artículo 452.
 
-La conclusión del servicio es el acto mediante el cual el integrante es dado de baja del servicio, dándose por terminada su relación laboral con la Secretaría.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 453.
 
-La conclusión del servicio podrá ser:
-
-I. Por renuncia;
-
-II. Por fallecimiento;
-
-III. Por jubilación o retiro;
-
-IV. Por incumplimiento de los requisitos de permanencia;
-
-V. Por cese, y
-
-VI. Por conclusión del tiempo determinado.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 454.
 
-La Renuncia, es el derecho que tiene todo integrante para separarse definitiva y voluntariamente de esta Secretaría, que deberá ser presentada por escrito.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 455.
 
-El fallecimiento es la causal de baja del integrante por pérdida de la vida.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 456.
 
-La jubilación o retiro es el derecho del integrante a separarse del servicio activo y a gozar de los beneficios que otorga el Estado a través de la (sic) leyes, reglamentos y manuales correspondientes.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 457.
 
-La Secretaría, a través del departamento que se determine, velará por la consideración y trato respetuoso a los integrantes que pasen a situación de retiro, con relación a la colaboración oportuna en los correspondientes trámites administrativos, así como el apoyo institucional que requieran.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 458.
 
-Las jubilaciones se harán en los términos establecidos en las leyes de la materia.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 459.
 
-Podrá ser destituido de su cargo cualquier servidor público de esta Secretaría, cuando actúe contrariamente a lo establecido en este Reglamento o en las demás disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 460.
 
-La materialización de las siguientes conductas, por constituir graves violaciones a los deberes señalados en este Reglamento, motivará la inmediata suspensión de las funciones que el integrante estuviere desempeñando, y deberá quedar a disposición de la Dirección General de Administración o del Departamento de Recursos Humanos, para lo que legalmente proceda:
-
-I. Por abandono del servicio sin justificación;
-
-II. Por faltar a su servicio en los términos establecidos en las disposiciones legales aplicables;
-
-III. Por dictar o ejecutar órdenes que constituyan un delito o que al saber de éstas no lo hiciere del conocimiento del superior jerárquico de quien las dicte o ejecute;
-
-IV. Por solicitar u otorgar dádivas a consecuencia de la asignación de comisiones, uso de equipo o derecho a prestaciones, así como realizar actos que impliquen prácticas de corrupción o soborno;
-
-V. Por abstenerse de cumplir o abusar de sus atribuciones como servidor público, con el fin de obtener beneficios por sí o por interpósita persona;
-
-VI. Por traficar o proporcionar información de uso exclusivo de la Secretaría en cualquier tipo o especie de soporte, ya sea para beneficio personal o de terceros;
-
-VII. Por sustraer, ocultar, extraviar, alterar o dañar cualquier documento, prueba o indicio de probables hechos delictivos o faltas administrativas o equipo propiedad de la Secretaría, en forma dolosa o negligente;
-
-VIII. Por resultar positivo en el examen de drogas de cualquier tipo o negarse a someterse al mismo;
-
-IX. Por la entrega y utilización de documentación falsa para fines de ingreso, promoción o cualquier administrativo dentro de la Secretaría;
-
-X. Por actuar en forma contraria a sus facultades y obligaciones señaladas en este Reglamento, y
-
-XI. Por realizar cualquier conducta o acto análogos a los establecidos en las fracciones anteriores.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 461.
 
-El Secretario de Seguridad Pública del Estado, resolverá las cuestiones que no se encuentren previstas en este Título o que requieran disposiciones expresas para ser implantadas.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 #### SECCIÓN DÉCIMA SÉPTIMA. De la aplicación de sanciones por faltas administrativas de carácter no laboral
 
 ###### Artículo 462.
 
-El Secretario podrá imponer al personal de esta Secretaría, por las faltas administrativas de carácter no laboral en que incurra en el servicio, las sanciones o correcciones disciplinarias establecidas en la Ley de Seguridad Pública del Estado de Yucatán, siempre y cuando no haya conocido la Comisión de Honor y Justicia. Esta facultad podrá ser ejercida por los titulares de las diversas áreas de la Secretaría y sus órganos auxiliares, en el ámbito de su competencia, sin perjuicio de que puedan ser aplicadas directamente por el propio Secretario.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 463.
 
-Antes de imponer alguna de las sanciones o medidas correctivas por faltas administrativas de carácter no laboral, el Secretario o el Servidor Público de los señalados en el artículo anterior, oirá en defensa al afectado y resolverá lo conducente, en un término no mayor de quince días hábiles.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 464.
 
-El afectado, al ser notificado de la sanción o medida correctiva a que se haya hecho acreedor, por faltas administrativas de carácter no laboral, podrá interponer el recurso de revisión ante el Secretario, en un término no mayor de 72 horas contados (sic) a partir de la notificación expresando lo que a su derecho corresponda.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 465.
 
-En el escrito mencionado en el artículo anterior, el Servidor Público deberá expresar cuando menos:
-
-I. Su nombre y cargo que ocupa en la Secretaría;
-
-II. Las razones fundadas de su proceder respecto a la infracción que se le imputa, y
-
-III. Las pruebas que tuviere al respecto.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 466.
 
-En un término no mayor de quince días hábiles, el Secretario citará al recurrente para darle a conocer la resolución tomada. Esta no admitirá recurso administrativo alguno, salvo que el afectado pueda recurrir a los medios de defensa establecidos en otras disposiciones legales aplicables.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 467.
 
-En los casos que los elementos de seguridad pública incurran en un ilícito tipificado como delito en el Código Penal o cualquier otra ley, los titulares de las corporaciones los podrán (sic) a disposición de la autoridad que corresponda.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)</small>
 
 ### CAPÍTULO IV. Del recurso de revisión
 
 ###### Artículo 468.
 
-Contra las resoluciones de la Comisión de Honor y Justicia sólo procede el recurso de revisión.
-
-El recurso de revisión tiene por objeto que la Comisión de Honor y Justicia confirme, modifique o revoque una resolución emitida por la misma.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 469.
 
-El perjudicado con la resolución emitida por la Comisión de Honor y Justicia deberá interponer el recurso de revisión, por escrito, ante la Comisión de Honor y Justicia dentro de las setenta y dos horas posteriores a la notificación del acto que se reclama.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 470.
 
-La Comisión de Honor y Justicia acordará si es o no de admitirse el recurso interpuesto.
-
-En caso de no admitirse, sin mayor trámite ordenará que se proceda a la ejecución de la resolución por parte de la Dirección General de Administración o el Departamento de Recursos Humanos.
-
-Si se admite el recurso, la Comisión de Honor y Justicia señalará día y hora para celebrar una audiencia en la que el inconforme podrá alegar por sí o por persona de su confianza lo que a su derecho convenga. Hecho lo anterior, se dictará la resolución dentro del término de tres días. En contra de dicha resolución no procede recurso alguno.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 471.
 
-La resolución que se emita con motivo del recurso, deberá ser notificada personalmente recurrente por la Dirección General de Administración o del Departamento de Recursos Humanos dentro del término de tres días.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 472.
 
-El recurso de revisión interpuesto por actos de esta Secretaría se ajustará a lo dispuesto en el Código.
+(DEROGADO, POR TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL PARA LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, D.O. 24 DE JULIO DE 2014)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -10097,7 +9313,7 @@ XXV. Dar seguimiento a las observaciones determinadas en las visitas realizadas 
 
 XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad, Quejas y Responsabilidades y darles seguimiento hasta su resolución definitiva;
 
-XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y (sic)
+XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -10315,7 +9531,7 @@ XI. Designar al personal supervisor que en su caso, lleve a cabo verificaciones 
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables; (sic)
+XII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -11307,7 +10523,7 @@ XXXIII. Designar al servidor público, encargado provisionalmente del despacho d
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXXIV. Administrar los medios de difusión y comunicación electrónica en términos de lo dispuesto en la Ley de Obra Pública y Servicios Conexos del Estado Yucatán (sic), y
+XXXIV. Administrar los medios de difusión y comunicación electrónica en términos de lo dispuesto en la Ley de Obra Pública y Servicios Conexos del Estado (sic) Yucatán, y
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -13074,3 +12290,61 @@ CUARTO. Cuando en las leyes de las dependencias o entidades de la Administració
 QUINTO. Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Sistema para el Financiamiento del Desarrollo del Estado de Yucatán, "Fondo Yucatán" (SIFIDEY), y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Secretaría de Fomento Económico, de conformidad con las disposiciones aplicables.
 
 SEXTO. Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al contenido de este Decreto.
+
+D.O. 24 DE JULIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación de disposiciones del Recapy
+
+A partir de la entrada en vigor de este decreto quedarán derogadas las disposiciones contenidas en la sección tercera “De los Órganos Desconcentrados” que contiene los artículos 269 al 284 y la sección cuarta “De los Órganos Colegiados” que contiene los artículos 285 al 307 del capítulo I “De la Estructura Orgánica de la Secretaría de Seguridad Pública”; el capítulo II “De las relaciones jerárquicas” que contiene los artículos 308 al 355; el Capítulo III “De los principios normativos de disciplina, prestaciones, estímulos y recompensas”, que contiene los artículos 356 al 467, y el Capítulo IV “Del recurso de revisión” que contiene los artículo 468 al 472, todos del Título XII “Secretaría de Seguridad Pública” del Decreto 94 por el que se expide el Reglamento del Código de la Administración Pública de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de julio de 2008.
+
+Tercero. Obligación normativa
+
+El Gobernador deberá expedir dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este decreto, el Decreto por el que se regula el Patronato Pro-Hijo del Policía, por lo que hasta en tanto se expide dicho instrumento continuarán aplicándose las disposiciones contenidas en los artículos 273 al 284 del Reglamento del Código de la Administración Pública de Yucatán.
+
+Cuarto. Implementación progresiva
+
+La Secretaría de Seguridad Pública implementará, entre el personal operativo en activo, el Servicio Profesional de Carrera Policial establecido en este decreto, de manera progresiva y de acuerdo con la disponibilidad presupuestaria, en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Migración
+
+El personal operativo en activo, para migrar al Servicio Profesional de Carrera Policial, dispondrá de un término de quince días naturales contados a partir de la entrada en vigor de este decreto para acreditar las evaluaciones de control de confianza; la equivalencia a la formación inicial y el perfil de puesto con relación a la renivelación académica. El personal operativo en activo que no cumpla con alguno de los requisitos anteriormente señalados serán dados de baja de la Secretaría de Seguridad Pública.
+
+Sexto. Instalación de las comisiones
+
+La Comisión del Servicio Profesional de Carrera Policial deberá instalarse dentro de los quince días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Séptimo. Expedición de normatividad
+
+La Comisión del Servicio Profesional de Carrera Policial deberá expedir dentro de los quince días naturales siguientes contados a partir de la entrada en vigor este decreto el Manual de Organización del Servicio Profesional de Carrera; el Manual de Procedimientos del Servicio Profesional de Carrera; el Catálogo, la Descripción y el Perfil de Puestos del Servicio Profesional de Carrera; y la Herramienta de Seguimiento y Control del Servicio Profesional de Carrera.
+
+Octavo. Casos no previstos
+
+El Secretario de Seguridad Pública quedará facultado para resolver lo relativo al Servicio Profesional de Carrera Policial hasta en tanto la Comisión del Servicio Profesional de Carrera Policial expide el Manual de Organización del Servicio Profesional de Carrera; el Manual de Procedimientos del Servicio Profesional de Carrera; el Catálogo, la Descripción y el Perfil de Puestos del Servicio Profesional de Carrera; y la Herramienta de Seguimiento y Control del Servicio Profesional de Carrera.
+
+Noveno. Organización jerárquica
+
+El Secretario de Seguridad Pública deberá ajustar la organización jerárquica de la Secretaría de Seguridad Pública, dentro de los noventa días siguientes contados a partir de la entrada en vigor de este decreto, en los términos previstos en este decreto y con pleno respecto a los derechos del personal operativo.
+
+Décimo. Alineación al modelo policial
+
+La Secretaría de Seguridad Pública, de manera progresiva y en el plazo de un año contado a partir de la entrada en vigor de este decreto, deberá practicar a sus elementos las evaluaciones periódicas de permanencia, verificar que cuenten con el certificado de evaluación de control de confianza y cumplan con todos los requisitos que demanda el modelo policial a que se refiere la Ley General del Sistema Nacional de Seguridad Pública. Los elementos que no cumplan con lo anterior dentro de los plazos establecidos para tal efecto serán separados del servicio en términos de lo dispuesto por la ley de la materia.
+
+Décimo primero. Ingreso u homologación
+
+Los elementos que obtengan el certificado de control de confianza y que satisfagan los requisitos de permanencia ingresarán o serán homologados al Servicio Profesional de Carrera Policial, según corresponda, en la jerarquía y grado, así como antigüedad y derechos que resulten, de conformidad con lo previsto en este decreto y en la Ley General del Sistema Nacional de Seguridad Pública.
+
+Décimo segundo. Transferencia
+
+Los procedimientos, actos jurídicos, asuntos pendientes y en trámite, así como el personal auxiliar, mobiliario, archivo y equipo, a cargo del Comité de Servicio de Carrera Policial, Promociones y Deméritos se transferirán y quedarán asignados a la Comisión del Servicio Profesional de Carrera Policial.
+
+Décimo tercero. Resolución de procedimientos previos
+
+Los procedimientos de separación y remoción iniciados con anterioridad a la entrada en vigor de este decreto se sustanciarán y concluirán conforme a las disposiciones aplicables al momento de su instauración.
+
+Décimo cuarto. Derogación tácita
+
+Se derogan todas las disposiciones normativas de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
