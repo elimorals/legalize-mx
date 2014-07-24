@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1992-12-20"
+last_updated: "2014-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
+LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JULIO DE 2014.
 
-Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
+Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
 GOBIERNO DEL ESTADO
 
@@ -67,9 +67,9 @@ IV.- Los familiares o dependientes económicos de los servidores públicos y de 
 
 La observancia de esta Ley es obligatoria para las Entidades Públicas y los Servidores Públicos.
 
-### CAPITULO SEGUNDO. De la Institución, de su Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE JULIO DE 2014)</small>
 
-y de las Obligaciones Económicas.
+### CAPITULO SEGUNDO. Institución y Patrimonio
 
 ###### Artículo 5o.
 
@@ -113,9 +113,9 @@ I.- Un fondo parcial permanente de un millón de pesos.
 
 II.- Las aportaciones ordinarias a título de cuotas a cargo de los servidores públicos en los siguientes términos: un dos por ciento de su sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir los seguros de enfermedades y de maternidad; y un 6 por ciento para tener derecho a las demás prestaciones. Los servidores públicos que perciban por jornada normal de trabajo únicamente el salario mínimo o menos de esa cantidad, quedan relevados del pago de las aportaciones ordinarias que se fijan en esta fracción, mismas que estarán a cargo exclusivo de las entidades públicas estatales. No disfrutarán de este derecho, los servidores públicos cuyo salario se determinen por horas de trabajo.
 
-(REFORMADA, D.O. 2 DE ENERO DE 1979) (F. DE E., D.O. 8 DE ENERO DE 1979)
+> <small>(REFORMADA, D.O. 24 DE JULIO DE 2014)</small>
 
-III.- Las aportaciones ordinarias de las Entidades Públicas, sobre la base de un 6 por ciento del sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir el seguro de enfermedades y de maternidad; un 0.75 por ciento para cubrir íntegramente el seguro de riesgos de trabajo; y un 6 por ciento más para cubrir todas las demás prestaciones;
+III.- Las aportaciones ordinarias de las Entidades Públicas, sobre la base de un 6% del sueldo básico, que comprende el sueldo presupuestal, sobresueldo y compensación, para cubrir el seguro de enfermedades y de maternidad; un 0.75% para cubrir íntegramente el seguro de riesgos de trabajo; y un 7% más para cubrir todas las demás prestaciones.
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -371,7 +371,9 @@ El Consejo Directivo podrá aumentar el pago de estos gastos, por causa justific
 
 No son deducibles del Seguro de Fallecimiento los saldos de los créditos a favor del Instituto provenientes de préstamos a corto plazo, dichos saldos se extinguirán automáticamente a la muerte del deudor y el Instituto recuperará su importe y el de cualesquiera préstamos insolutos, con un fondo de garantía constituido e incrementado con la prima del 1 por ciento de los préstamos a corto plazo autorizados.
 
-### CAPITULO SEXTO. De las Prestaciones Sociales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE JULIO DE 2014)</small>
+
+### CAPITULO SEXTO. Prestaciones Sociales
 
 ###### Artículo 38.
 
@@ -429,11 +431,11 @@ Las personas jubiladas por el Instituto gozarán también de los derechos señal
 
 El monto del préstamo que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será igual al importe de 3 meses de su pensión.
 
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 46.
 
-Los préstamos a corto plazo y sus intereses los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de 12 meses; sólo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse o ampliarse en su monto y plazo, si ya transcurrieron seis quincenas a partir de la fecha de su otorgamiento y si está al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que cause el préstamo renovado o ampliado.
+Los préstamos a corto plazo y su interés ordinario los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de doce meses; solo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse o ampliarse en su monto y plazo cuando hayan transcurrido seis quincenas a partir de la fecha de su otorgamiento y siempre que esté al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo así como los intereses que cause el préstamo renovado o ampliado.
 
 > <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -449,29 +451,47 @@ Las anteriores disposiciones, no conceden ni suponen quita ni espera en favor de
 
 Todo préstamo a corto plazo se considera insoluto cuando el deudor deje definitivamente el servicio y no continúe cubriendo los abonos a que está obligado.
 
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2014)</small>
+
+###### Artículo 48 Bis.
+
+Será facultad del Consejo Directivo, a consulta expresa y por escrito del Director General del Instituto, autorizar la operación y administración (sic) esquemas optativos y generales de préstamos a corto plazo con descuento en nómina a los derechohabientes del Instituto y a grupos de servidores públicos que presten sus servicios para el Gobierno del Estado de Yucatán y no sean derechohabientes del Instituto. Cuando se trate de servidores públicos que no sean derechohabientes del Instituto, lo anterior deberá hacerse al amparo de un convenio marco que se firme con la institución a la que pertenece dicho grupo de trabajadores, donde el patrón del citado grupo de trabajadores se obligue a retener de la nómina y a pagar puntualmente las obligaciones que los trabajadores adquieran con el Instituto y, en su caso, actuar como aval o garante solidario del trabajador.
+
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
 ###### Artículo 49.
 
 El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General. Estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 50.
 
-El monto máximo del préstamo especial con garantía colateral que se otorgue al servidor público o al jubilado por el Instituto, será la cantidad que resulte de multiplicar por 24, el 40% de su sueldo o pensión mensual; causará interés del 12% anual y su pago se efectuará en un plazo máximo de 30 meses, mediante pagos periódicos iguales o en una sola exhibición.
+El monto máximo del préstamo especial con garantía colateral que se otorgue al servidor público o al jubilado por el Instituto será la cantidad que resulte de multiplicar por veinticuatro, el 40% de su sueldo o pensión mensual; causará interés ordinario y su pago se efectuará en un plazo máximo de treinta meses mediante pagos periódicos iguales o en una sola exhibición.
 
-El monto máximo del préstamo especial con garantía colateral, que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será el importe de 5 meses de su pensión; causará interés del 12% anual y será cubierto en un plazo de 24 meses, mediante pagos periódicos iguales o en una sola exhibición.
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
+
+El monto máximo del préstamo especial con garantía colateral que se otorgue a los jubilados por el Gobierno del Estado o las Entidades Públicas Estatales, será el importe de cinco meses de su pensión; causará interés ordinario y será cubierto en un plazo de veinticuatro meses, mediante pagos periódicos iguales o en una sola exhibición.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
 
 Todo préstamo especial se documentará con arreglo a los títulos ejecutivos mercantiles.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 1992)</small>
+
 Sólo se concederá un nuevo préstamo de esta clase, cuando se encuentre liquidado el anterior. Sin embargo, podrán renovarse en su monto, si ya transcurrieron 15 meses a partir de la fecha de su otorgamiento y se está al corriente en el pago de los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que cause el préstamo renovado.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 51.
 
-El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero, siempre que el solicitante ofrezca garantía suficiente a juicio del Director General y lo amortice en un período no mayor de veinticuatro meses, cubriendo un interés del 12 % anual, que se descontará quincenalmente junto con sus intereses.
+El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero, siempre que el solicitante ofrezca garantía suficiente a juicio del Director General y lo amortice en un periodo no mayor de veinticuatro meses, cubriendo un interés ordinario, que se descontará quincenalmente junto con sus intereses.
+
+> <small>(ADICIONADO, D.O. 24 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+El Consejo Directivo se reunirá en forma periódica con el Director General para definir la tasa de interés ordinario que habrá de aplicarse a cada tipo de crédito. Dicha tasa no podrá ser en ningún momento menor a la tasa promedio ponderado de la deuda pública estatal más seis puntos porcentuales y deberá apegarse en la medida de lo posible a estándares de mercado.
 
 > <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
@@ -761,67 +781,179 @@ Las pensiones que establece esta Ley no son susceptibles de enajenarse, cederse,
 
 Por ningún motivo el Instituto dejará de pagar oportunamente las jubilaciones o pensiones. En el caso de suspensión de derechos que prevé el Artículo 10 de esta Ley, el Instituto continuará cubriendo la jubilación o pensión, cuando así lo acuerde el Consejo Directivo y cargará el importe de lo pagado a la cuenta de la Entidad Pública respectiva con sus intereses correspondientes.
 
-### CAPITULO NOVENO. De las Inversiones de Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE JULIO DE 2014)</small>
+
+### CAPITULO NOVENO. Administración del Patrimonio del Instituto
+
+> <small>(ADICIONADA, D.O. 24 DE JULIO DE 2014)</small>
+
+#### Sección Primera. Aplicación y Manejo de los Recursos
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 87.
 
-Se impone al Consejo Directivo la obligación de cuidar de manera preferente los pagos regulares a su cargo por concepto de Seguros, Jubilaciones, Pensiones y Gastos de Administración.
+Los ingresos que reciba el Instituto, por cualquier título, se aplicarán única y exclusivamente a cubrir las prestaciones que contempla esta Ley, así como sus gastos de administración, conforme a lo dispuesto en el siguiente artículo.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+El Instituto, en la aplicación de las aportaciones y demás recursos, así como en la administración de su patrimonio, distinguirá cada una de las aportaciones mencionadas en el artículo 8 de esta Ley y las prestaciones a las que se encuentran referidas, y las registrará por separado en relación con las demás aportaciones y prestaciones previstas en esta Ley.
+
+El Consejo Directivo determinará las cuentas que considere necesarias para realizar por separado el registro de sus ingresos y egresos conforme a lo establecido en el párrafo anterior. En todo caso, deberá contar, por lo menos, con las siguientes cuentas:
+
+I.- De aportaciones para las prestaciones por enfermedades y maternidad, así como aquellas referidas al otorgamiento de estas prestaciones, y
+
+II.- De aportaciones para las prestaciones de jubilaciones y pensiones; así como aquellas referidas al otorgamiento de estas prestaciones.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 88.
 
-El Fondo Social Permanente, las aportaciones ordinarias a título de cuotas, las aportaciones extraordinarias, las rentas, los intereses o productos financieros, así como las percepciones por los demás conceptos a que se refiere el artículo 8o., servirán para cubrir las prestaciones que otorga esta Ley y cualesquiera otras obligaciones económicas a cargo del Instituto, según las asignaciones presupuestales que acuerde el Consejo Directivo. Con los remanentes se constituirán reservas técnicas para garantizar el cumplimiento de obligaciones futuras derivadas del régimen de seguridad social establecido en esta Ley y entre tanto deberán aplicarse a inversiones productivas de fácil liquidez, con un rendimiento no menor del 9 por ciento anual neto, libre de impuestos, que se destinará para cubrir los gastos de administración que anualmente apruebe el Consejo Directivo.
+Las aportaciones e ingresos del Instituto se apegarán a las siguientes directrices:
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+I.- Las aportaciones a que se refiere el artículo 8 de esta Ley se aplicarán de la siguiente manera:
+
+a) Las aportaciones ordinarias para los seguros de enfermedades y de maternidad señaladas en las fracciones II, III y IV del artículo 8 de esta Ley se registrarán y destinarán única y exclusivamente a los rubros de estas prestaciones.
+
+El Consejo Directivo podrá acordar mayores recursos para estas prestaciones con cargo a las aportaciones ordinarias sin destino específico;
+
+b) Las aportaciones ordinarias para el seguro de riesgos de trabajo señaladas en la fracción III del artículo 8 de esta Ley se registrarán y destinarán única y exclusivamente a esta prestación.
+
+El Consejo Directivo podrá acordar mayores recursos para esta prestación con cargo a las aportaciones ordinarias sin destino específico;
+
+c) Las demás aportaciones ordinarias previstas en las fracciones II y III del artículo 8 de esta Ley se destinarán para las prestaciones mencionadas en el artículo 6 de la propia Ley, en la proporción que para cada rubro de estas señale el Consejo Directivo.
+
+Por lo menos el equivalente a la mitad de estas aportaciones deberá destinarse única y exclusivamente a los rubros y renglones de jubilaciones y pensiones;
+
+d) Las aportaciones ordinarias previstas en la fracción IV del artículo 8 de esta Ley, distintas a las del seguro de enfermedades, se destinarán a los demás servicios para los jubilados y pensionados;
+
+e) Las aportaciones extraordinarias a que se refiere la fracción V del artículo 8 de esta Ley se destinarán a las prestaciones a los cuales se encuentren referidas al ser convenidas, y
+
+f) Los accesorios de cada una de las aportaciones citadas en los incisos anteriores se destinarán a los mismos rubros a los cuales se destinen las aportaciones con las que se encuentren relacionadas.
+
+Para estos efectos, se consideran accesorios las reservas y sus rendimientos; las actualizaciones, recargos, sanciones pecuniarias y prescripciones a favor del Instituto, así como los demás ingresos que puedan quedar claramente referidos a una prestación en lo particular.
+
+II.- Los recursos por enajenación de inmuebles del Instituto, se abonarán a la reserva para prestaciones de jubilaciones y pensiones, y
+
+III.- Los demás ingresos que reciba el Instituto, por cualquier título, distintos a los señalados en las fracciones anteriores, se aplicarán en los términos y condiciones que el Consejo Directivo acuerde, a propuesta del Comité de Inversión y Finanzas a que se refiere el artículo 91 de esta Ley.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 89.
 
-La inversión de las reservas del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias las que, además, garanticen mayor utilidad social, conforme a las normas que establezca el Consejo Directivo con base en estudios actuariales que efectúe periódicamente un despacho profesional acreditado.
+El Instituto, para cubrir las prestaciones establecidas en esta Ley, así como los gastos administrativos del organismo, ajustará su presupuesto anual de egresos conforme a lo siguiente:
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+I.- El presupuesto anual deberá ser aprobado por el Consejo Directivo, en el mes de diciembre de cada año, para el ejercicio inmediato siguiente.
+
+El Instituto deberá formular su presupuesto y ejercer el gasto con criterios de disciplina, productividad, ahorro, austeridad, eficacia, eficiencia, desregulación presupuestaria y transparencia, sin que ello afecte la atención a sus derechohabientes;
+
+II.- Antes de cualquier otro rubro, se presupuestará el pago de las prestaciones señaladas en las fracciones I y VI del artículo 6 de esta Ley, así como de los gastos administrativos del Instituto. El Consejo Directivo cuidará que estos pagos se realicen oportunamente, y
+
+III.- Los gastos administrativos del Instituto directamente relacionados con cada prestación serán cubiertos precisamente con las aportaciones y demás activos referidos a dicha prestación.
+
+Los gastos administrativos del Instituto que no se encuentren relacionados directamente a una prestación en lo particular se cubrirán con cargo a las aportaciones ordinarias, en la misma proporción que los egresos de cada prestación represente en relación con los egresos del Instituto para cubrir todas las prestaciones del artículo 6 de esta Ley.
+
+En ningún caso, los gastos administrativos del Instituto no relacionados directamente con una prestación en lo particular deberán exceder el límite que el Consejo Directivo señale para cada ejercicio, sin que dicho límite sea superior al equivalente al 7.5% de los ingresos estimados por aportaciones ordinarias para el respectivo ejercicio.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 90.
 
-Los egresos del Instituto se ajustarán al presupuesto anual que el Consejo Directivo apruebe en el mes de diciembre de cada año.
+El Instituto publicará en su página de Internet la información relevante a su situación financiera que incluya, entre otros, los siguientes aspectos:
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+I.- Las aportaciones recibidas en términos del artículo 8 de esta Ley, así como los ingresos del Instituto por cualquier otro concepto;
+
+II.- El gasto realizado en el ejercicio anual, y
+
+III.- El monto de sus reservas y su rendimiento.
+
+Esta información se presentará en forma periódica, oportuna y accesible por lo menos cada cuatro meses.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 91.
 
-A título de inversión especial de su patrimonio, el Instituto comprará o construirá casas habitación para enajenarlas a los servidores públicos y a los jubilados, mediante contrato con pago de contado, con reserva de dominio o con garantía hipotecaria, según lo determine el Consejo Directivo. De preferencia, el Instituto construirá las casas por administración directa.
+El Consejo Directivo constituirá un Comité de Inversión y Finanzas, que se encargará de proponer las políticas de inversión de los recursos del Instituto, así como de vigilar que las inversiones que se realicen se lleven a cabo conforme lo establecido en esta Ley.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+Los representantes de los servidores públicos que forman parte del Consejo Directivo a que se refieren las fracciones VII y VIII del artículo 111 de esta Ley serán invitados permanentes a las sesiones del Comité de Inversión y Finanzas.
+
+> <small>(ADICIONADA, D.O. 24 DE JULIO DE 2014)</small>
+
+#### Sección Segunda. Reservas del Instituto
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 92.
 
-Para que los servidores públicos y los jubilados a que se refiere el artículo anterior adquieran el derecho de comprar una casa, es requisito indispensable que se comprometan a habitarla con sus familiares o dependientes económicos hasta cubrir totalmente su importe. Si el servidor público o el jubilado deshabitan la casa por más de 3 meses, o la alquilan, no importa el tiempo del arrendamiento, sin autorización por escrito del Instituto, el contrato se rescindirá. El Instituto tendrá derecho a cobrar las exhibiciones estipuladas, hasta el día que le sea devuelto el inmueble. Estas exhibiciones en ningún caso se considerarán aplicadas a la amortización del valor del inmueble y se tomarán como simple pago de renta de aquél.
+El Instituto constituirá reservas para el cumplimiento de obligaciones futuras con los remanentes que se generen después de cubrir las prestaciones establecidas en el artículo 6 de esta Ley, así como los gastos administrativos del organismo, según las previsiones del presupuesto de egresos aprobado, las cuales se ajustarán a lo siguiente:
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+I.- El Consejo Directivo determinará las reservas que considere necesario. En todo caso, deberá contar, por lo menos, con:
+
+a) La reserva de enfermedades y maternidad, y
+
+b) La reserva de jubilaciones y pensiones.
+
+II.- Las reservas y los rendimientos que generen se destinarán exclusivamente a cubrir las prestaciones a las cuales se encuentren referidas, así como a los gastos administrativos correspondientes, sin poder destinarse a alguna otra prestación diferente.
+
+Cuando alguna de las reservas alcance los montos que, conforme a los estudios actuariales, financieros y demás pertinentes, deba tener, los excedentes se abonarán a la reserva de jubilaciones y pensiones;
+
+III.- Solo podrá disponerse de los recursos de las reservas y sus rendimientos conforme al presupuesto aprobado por el Consejo Directivo, de acuerdo con lo previsto en el artículo 89 de esta Ley, y
+
+IV.- No se permitirán transferencias de recursos de una reserva a otra, con la salvedad señalada en el segundo párrafo de la fracción II de este artículo.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 93.
 
-Cuando el Instituto construya casas con fondos propios, el plazo para pagar su importe no excederá de 15 años, con el interés que señale el Consejo Directivo, respetando el tope del 12 por ciento anual. El interés aumentará al 18 por ciento anual en los casos en que el comprador pierda la calidad de sujeto de esta Ley. El importe de los pagos parciales mensuales destinados a amortizar capital e intereses, se descontará de las percepciones que reciben los compradores por sus servicios en las Entidades Públicas o por su pensión.
+Las reservas mencionadas en el artículo anterior deberán invertirse en las mejores condiciones de rendimiento, liquidez y seguridad que los mercados financieros permitan, conforme a lo siguiente:
+
+I.- Podrán realizarse inversiones en las siguientes clasificaciones:
+
+a) Instrumentos financieros, de emisores públicos y del sector privado, de renta fija y de renta variable, así como en operaciones reguladas por las autoridades financieras del país, en las proporciones que el Consejo Directivo señale.
+
+Estas inversiones y operaciones solo podrán hacerse en instrumentos inscritos en el Registro Nacional de Valores, así como a cargo del Gobierno del estado o de instituciones de crédito autorizadas para realizar operaciones de banca y crédito;
+
+b) Préstamos y esquemas crediticios señalados en el capítulo séptimo de esta ley, y
+
+c) Proyectos de infraestructura pública o de participación privada para el desarrollo del estado de Yucatán, hasta por los montos que el Consejo Directivo señale, en el presupuesto de cada año.
+
+Los recursos de aportaciones ordinarias destinados a estas inversiones, después de cubrir las prestaciones establecidas en el artículo 6 de esta Ley, no deberán exceder del equivalente al 10 % de los ingresos estimados por dichas aportaciones para el correspondiente ejercicio;
+
+II.- Se invertirán de acuerdo con los lineamientos y el programa anual que el Consejo Directivo apruebe, a propuesta del Comité de Inversión y Finanzas, con base en los estudios actuariales, financieros y demás pertinentes que periódicamente efectúen despachos profesionales acreditados. En estos lineamientos deberá señalarse, por lo menos, lo siguiente:
+
+a) La calificación crediticia de los instrumentos y operaciones objeto de inversión de las reservas;
+
+b) Los porcentajes de instrumentos y operaciones de renta fija y de renta variable de cada reserva;
+
+c) Los porcentajes de instrumentos y operaciones a corto, medio y largo plazo;
+
+d) El porcentaje máximo de cada reserva que podrá invertirse en instrumentos de un mismo emisor.
+
+e) El porcentaje máximo de instrumentos de un mismo emisor que podrá ser adquirido para una misma reserva, y
+
+III.- Las inversiones y operaciones que la administración de las reservas implique podrán realizarse directamente por el Instituto, quien también podrá contratar a intermediarios y agentes financieros especializados en estos servicios.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 94.
 
-Las casas habitación que venda el Instituto a los sujetos de esta Ley, quedan exentas del pago del impuesto predial mientras se encuentren en vigor los respectivos contratos de compra venta con reserva de dominio o con garantía hipotecaria.
+En los proyectos de infraestructura pública o de participación privada para el desarrollo del estado de Yucatán, establecidos en el inciso c) de la fracción I del artículo 93 de esta Ley, sus características, montos, plazos, rendimientos, así como las condiciones deberán ser previa y expresamente aprobados por el Consejo Directivo.
+
+En estos casos, las resoluciones del Consejo Directivo deberán contar con el voto favorable del Presidente del Consejo, así como de los dos representantes designados por los servidores públicos del estado.
+
+> <small>(REFORMADO, D.O. 24 DE JULIO DE 2014)</small>
 
 ###### Artículo 95.
 
-El Consejo Directivo para seleccionar a los presuntos compradores de casa habitación tomará en cuenta los años de servicios, las posibilidades económicas de los interesados y cualquier otro requisito que estime de interés según el Reglamento que al efecto dicte el mismo Consejo Directivo. El servidor público y los jubilados que sean propietarios de inmuebles en el Estado, carecerán de derecho para adquirir del Instituto las casas habitación a que se refiere esta Ley.
+El fondo parcial permanente a que se refiere la fracción I del artículo 8, de esta Ley, se incrementará con sus propios rendimientos.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+En el presupuesto anual, el Consejo Directivo señalará el destino en que deban aplicarse los excedentes de fondo parcial. En el evento de que este fondo registre una cantidad menor al mínimo, deberá reconstituirse antes de seguir disponiendo de sus rendimientos.
 
 ###### Artículo 96.
 
-El Instituto dará posesión de las casas que enajene a cada uno de los compradores o adquirentes, sin más formalidad que la firma del contrato respectivo.
-
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+(DEROGADO, D.O. 24 DE JULIO DE 2014)
 
 ###### Artículo 97.
 
-Si el contrato de compraventa se rescinde dentro de los 5 años siguientes a la fecha de su celebración, por culpa del servidor público o del jubilado, éstos tendrán derecho a seguir habitando el inmueble a razón de un mes por cada año en que haya estado vigente aquél. Al concluir este plazo de gracia deberán entregar en buen estado el inmueble al Instituto y si no lo hicieren así, los daños y perjuicios serán a su cargo. Los efectos de la rescisión del contrato de compraventa después de los 5 años de su celebración, por culpa del servidor público o del jubilado, serán fijados en el contrato respectivo y, en su defecto, se resolverán de acuerdo con las reglas del derecho civil.
+(DEROGADO, D.O. 24 DE JULIO DE 2014)
 
 ### CAPITULO DECIMO. Generalidades
 
@@ -1160,3 +1292,63 @@ UNICO.- Este Decreto entrará en vigor el día 1º. de enero de 1992, previa su 
 D.O. 20 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 24 DE JULIO DE 2014.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+Segundo. Reforma a la fracción III del artículo 8
+
+La reforma a la fracción III del artículo 8, relativa al incremento de un punto porcentual respecto de las aportaciones ordinarias de las entidades públicas para cubrir las demás prestaciones, es decir aquellas que difieren del seguro de enfermedades y maternidad y el seguro de riesgos de trabajo, entrará en vigor el 1 de enero de 2015.
+
+Tercero. Presupuesto del instituto
+
+Las prestaciones y gastos administrativos correspondientes al 2014 se cubrirán conforme al presupuesto aprobado en diciembre de 2013, sin que resulten aplicables los límites previstos en el artículo 88, fracción I, inciso c), 89, fracción III, y 93, fracción I, de la Ley.
+
+El consejo directivo tomará las medidas conducentes para que el ejercicio del presupuesto del 2014 se ajuste, en lo posible, a las disposiciones de este decreto.
+
+Cuarto. Regulación del comité de inversión y finanzas
+
+El consejo directivo regulará mediante acuerdo la organización y funcionamiento del Comité de Inversión y Finanzas del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, dentro de los noventa días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Reserva del instituto
+
+La reserva que el instituto mantenga a la fecha de entrada en vigor de este decreto se aplicará conforme a lo siguiente:
+
+I.- El equivalente al 0.50% se abonará a la reserva de enfermedades y maternidad.
+
+II.- El equivalente al 95% se abonará a la reserva de jubilaciones y pensiones.
+
+III.- El equivalente al 4.50% restante se abonará a las reservas que, a propuesta del Comité de Inversión y Finanzas del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, determine el consejo directivo.
+
+Sexto. Patrimonio del instituto
+
+El total de activos del instituto, correlativos a pasivos a cargo de las entidades públicas estatales, pendientes de cubrir a la fecha de entrada en vigor de este decreto, se aplicará a la reserva de jubilaciones y pensiones.
+
+El Gobierno del estado y el instituto convendrán las mejores condiciones para reestructurar los pasivos de las entidades públicas estatales, considerando al efecto la situación y posibilidades de las finanzas públicas del estado, así como los requerimientos y necesidades para la viabilidad financiera del instituto.
+
+El consejo directivo del instituto será el único facultado para determinar y sancionar los términos y las condiciones bajo los cuales las entidades públicas estatales que estén en mora o incumplimiento a la fecha de entrada en vigor de este decreto puedan reestructurar sus pasivos con el instituto. En dichas reestructuras se podrá pactar, en su caso, la condonación y quita de intereses moratorios y establecer el plazo y las condiciones bajo las cuales las entidades públicas estatales cubrirán la totalidad de su adeudo al tiempo que cumplen con el entero de sus aportaciones corrientes.
+
+En caso de que la reestructuración se documente, total o parcialmente, con valores a cargo del Gobierno del estado, dichos valores se colocarán, registrarán y administrarán conforme a los acuerdos alcanzados con el consejo directivo y en apego a las leyes aplicables. En el caso de pago en especie, los bienes se afectarán a fideicomisos a través de los cuales se verifique su enajenación.
+
+La reestructuración deberá completarse dentro de los ciento ochenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Séptimo. Plazo para las inversiones
+
+El instituto deberá ajustar sus inversiones a las disposiciones de este decreto a más tardar el 1 de enero de 2016.
+
+Octavo. Vigencia de los contratos
+
+Los contratos de compraventa y préstamo hipotecario celebrados con anterioridad a la fecha de entrada en vigor de este decreto continuarán rigiéndose conforme a los términos y condiciones originalmente pactados.
+
+El consejo directivo podrá aprobar los programas de modificación a tales contratos, para incluir los nuevos términos y condiciones que beneficien a los derechohabientes del instituto.
+
+Noveno. Normatividad del consejo directivo
+
+El consejo directivo deberá expedir la normatividad necesaria para el cumplimiento de sus funciones dentro de los ciento ochenta días naturales siguientes contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas que se opongan al contenido de este decreto.
