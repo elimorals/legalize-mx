@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2013-10-25"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -281,11 +281,15 @@ IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carác
 
 V. Obligación alimentaria provisional e inmediata.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
 ###### Artículo 26.
 
-Las órdenes de protección, emergentes y preventivas, serán aplicadas e instrumentadas por la representación social que recae en el Ministerio Público, y en su caso, por los Municipios, en tanto que las de naturaleza civil estarán a cargo de la autoridad jurisdiccional correspondiente.
+Las órdenes de protección emergentes y las preventivas serán expedidas e implementadas por la representación social que recae en el Ministerio Público, y en su caso, por los Municipios, en tanto que las de naturaleza civil estarán a cargo de la autoridad jurisdiccional correspondiente.
 
-Para la ejecución de las órdenes de protección, se contará con el auxilio de la fuerza pública, de conformidad con sus disposiciones normativas.
+Los jueces Municipales a su vez podrán expedir las órdenes de protección emergentes y preventivas de carácter temporal hasta por 72 horas, establecidas en el artículo 23 y 24 en sus fracciones IV, V y VI: siempre que se justifique por las condiciones de hora, lugar o cualquier circunstancia por la que no pueda ocurrir ante la autoridad judicial o que de hacerlo, la demora pondría en un riesgo mayor a la víctima.
+
+Para la ejecución de las órdenes de protección, se contará con el auxilio de las Instituciones de Seguridad Pública Estatal o Municipal, pudiendo utilizar en caso de ser necesaria la fuerza pública para su efectividad, de conformidad con sus disposiciones normativas.
 
 ### CAPÍTULO V. DEL SISTEMA ESTATAL
 
@@ -311,7 +315,7 @@ VI. Contar con el personal debidamente capacitado y especializado en la materia;
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos;
 
-VIII. Contar con programas reeducativos integrales y de capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y (sic)
+VIII. Contar con programas reeducativos integrales y de capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y
 
 IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
@@ -364,6 +368,10 @@ e) La Secretaría de Educación y Bienestar Social;
 f) La Secretaría de Salud, y
 
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2014)</small>
+
+V. Un Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión de Equidad y Género.
 
 ###### Artículo 33.
 
@@ -519,7 +527,7 @@ XII. Establecer los indicadores para la evaluación de la Administración Públi
 
 XIII. Promover una imagen de las mujeres, libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
 
-XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique, y (sic)
+XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique, y
 
 XV. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado.
 
@@ -577,7 +585,9 @@ IV. Participar en el Sistema para Prevenir, Atender, Sancionar y Erradicar la Vi
 
 V. Promover que el personal que labora en el Municipio, y que atiende a mujeres víctimas de violencia, tome cursos de capacitación respecto a la violencia de género y los derechos fundamentales de las mujeres;
 
-VI. Auxiliar en la implementación de las órdenes de protección, emergentes y preventivas, de acuerdo a sus atribuciones;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2014)</small>
+
+VI. Expedir a través de sus Jueces Municipales las órdenes de protección, emergentes y preventivas que se establecen en el artículo 26 de esta ley; mismas que podrán ser ejecutadas por las Instituciones de Seguridad Pública Municipal.
 
 VII. Apoyar la creación de programas de reeducación integral para los agresores;
 
@@ -662,3 +672,9 @@ P.O. 18 DE OCTUBRE DE 2013.
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE JULIO DE 2014.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Municipios contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor de la presente reforma para adecuar su normatividad vigente.
