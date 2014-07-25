@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-para-adolescentes-del-estado-de-quintana-roo-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-28"
-last_updated: "2014-05-28"
+last_updated: "2014-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Ley publicada en el Número 48 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 28 de mayo de 2014.
 
@@ -509,7 +509,29 @@ X. Sostener relaciones con otros tribunales especializados en la materia, y
 
 XI. Las demás previstas en esta ley y demás ordenamientos aplicables.
 
-Sin perjuicio de las facultades y obligaciones anteriormente descritas, los Magistrados Unitarios para Adolescentes tendrán los mismos derechos, facultades y obligaciones que los magistrados numerarios del Tribunal Superior de Justicia del Estado, que establezcan la Constitución Estatal y la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Los Magistrados Unitarios para Adolescentes durarán en su encargo un período de seis años y podrán ser reelectos por una sola vez, para un período de igual duración. A falta de ratificación expresa, concluirán desde luego en sus funciones al término del período para el que fueron designados.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+La ratificación en el encargo de cada Magistrado, en su caso, será propuesta por el Gobernador del Estado, acompañando el dictamen de evaluación correspondiente por lo menos quince días naturales antes de que concluya el período por el que aquél fue designado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Los Magistrados Unitarios para Adolescentes percibirán una remuneración digna y decorosa de acuerdo a la disponibilidad presupuestal del Poder Judicial del Estado, la cual no podrá ser reducida en ningún caso durante el ejercicio de su encargo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Para la designación de los Magistrados Unitarios para Adolescentes, el Gobernador del Estado someterá una propuesta a la consideración del Consejo de la Judicatura del Poder Judicial del Estado, quien previa comparecencia de la persona propuesta, la aprobará o rechazará dentro del plazo de quince días naturales.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+En caso de que el Consejo de la Judicatura rechace la propuesta, el Gobernador del Estado hará nueva propuesta, la cual deberá ser resuelta en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Si el Consejo de la Judicatura rechazare la segunda propuesta, el Gobernador del Estado hará la designación correspondiente.
 
 ### CAPÍTULO X. Dirección General de Ejecución de Medidas para Adolescentes
 
@@ -1213,7 +1235,7 @@ XI. Realizar durante el proceso todas las actuaciones necesarias para la procura
 
 XII. Asesorar a la víctima durante el proceso;
 
-XIII. Solicitar la reparación del daño para la víctima así como realizar todas las acciones tendientes a obtenerla, por la vía legal que corresponda;
+XIII. (DEROGADA, P.O. 25 DE JULIO DE 2014)
 
 XIV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
 
@@ -3255,7 +3277,7 @@ I. Solicitar el sobreseimiento total o parcial del proceso;
 
 II. Solicitar la suspensión del proceso, o
 
-III. Formular la acusación; (sic)
+III. Formular la acusación;
 
 ###### Artículo 321.
 
@@ -3459,9 +3481,17 @@ En estos casos, el Juez de Control para Adolescentes indicará en el auto de ape
 
 ###### Artículo 341.
 
-Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el Juez de Control para Adolescentes ordenará fundada mente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
+Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el Juez de Control para Adolescentes ordenará fundadamente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
 
-I. Cuando el medio de prueba se ofrezca para generar efectos dilatorios;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2014)</small>
+
+I. Cuando el medio de prueba se ofrezca para generar efectos dilatorios, en virtud de ser:
+
+a) Sobreabundante: por referirse a diversos medios de prueba del mismo tipo, testimonial o documental, que acrediten lo mismo, ya superado, en reiteradas ocasiones;
+
+b) Impertinentes: por no referirse a los hechos controvertidos, o
+
+c) Innecesarias: por referirse a hechos públicos, notorios o incontrovertidos;
 
 II. Por haberse obtenido con violación a derechos fundamentales;
 
@@ -3469,7 +3499,13 @@ III. Por haber sido declarados nulos, o
 
 IV. Por ser aquellos que contravengan las disposiciones señaladas en esta ley para su desahogo.
 
-En los casos de delitos contra la libertad y seguridad sexuales y el normal desarrollo psicosexual, el órgano jurisdiccional para adolescentes excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima.
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+En el caso de que el Juez de Control para Adolescentes estime que el medio de prueba sea sobreabundante, dispondrá que la parte que la ofrezca reduzca el número de testigos o de documentos, cuando mediante ellos desee acreditar los mismos hechos o circunstancias con la materia que se someterá a juicio.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Asimismo, en los casos de delitos contra la libertad y seguridad sexuales y el normal desarrollo psicosexual, el órgano jurisdiccional para adolescentes excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima.
 
 La decisión del Juez de Control para Adolescentes de exclusión de medios de prueba es apelable.
 
@@ -4777,21 +4813,27 @@ II. Se deduzca en contra de resolución que no sea impugnable por medio de apela
 
 III. Lo interponga persona no legitimada para ello, o
 
-IV. El escrito de interposición carezca de fundamentos de agravio o de peticiones concretas.
+IV. (DEROGADA, P.O. 25 DE JULIO DE 2014)
 
 ###### Artículo 502.
 
 El recurso de apelación contra las resoluciones del Juez de Control para Adolescentes se interpondrá por escrito ante el mismo Juez que dictó la resolución, dentro de los tres días contados a partir de aquel en el que surta efectos la notificación si se tratare de auto o cualquier otra providencia y de cinco días si se tratare de sentencia definitiva.
 
-En los casos de apelación sobre el desistimiento de la acción de remisión por el Ministerio Público Especializado se interpondrá ante el Juez de Juicio de Oral para Adolescentes que dictó la resolución dentro de los dos días contados a partir de que surte efectos la notificación. El recurso de apelación en contra de las sentencias definitivas dictadas por el Juez de Juicio de Oral para Adolescentes se interpondrá ante el juez que conoció del juicio, dentro de los cinco días siguientes a la notificación de la resolución impugnada, mediante escrito en el que se precisarán las disposiciones violadas y los motivos de agravio correspondientes.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+En los casos de apelación sobre el desistimiento de la acción de remisión por el Ministerio Público Especializado se interpondrá por escrito ante el Juez de Juicio de (sic) Oral para Adolescentes que dictó la resolución dentro de los dos días hábiles siguientes a partir de que surte efectos la notificación. El recurso de apelación en contra de las sentencias definitivas dictadas por el Juez de Juicio de (sic) Oral para Adolescentes se interpondrá ante el juez que conoció del juicio, dentro de los cinco días hábiles siguientes a la notificación de la resolución impugnada, mediante escrito.
 
 En el escrito de interposición de recurso deberá señalarse el domicilio o autorizar el medio para ser notificado; en caso de que el Tribunal Unitario para Adolescentes para conocer de la apelación tenga su sede en un lugar distinto al del proceso, las partes deberán fijar un nuevo domicilio en la jurisdicción de aquél para recibir notificaciones o el medio para recibirlas.
 
-Los agravios deberán expresarse en el mismo escrito de interposición del recurso; el recurrente deberá exhibir una copia para el registro y una para cada una de las otras partes. Si faltan total o parcialmente las coplas, se le requerirá para que presente las omitidas dentro del término de veinticuatro horas. En caso de que no las exhiba, el órgano jurisdiccional para adolescentes las tramitará e impondrá al promovente multa de diez a ciento cincuenta días de salario, excepto cuando éste sea el imputado o la víctima u ofendido.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
-Interpuesto el recurso, el órgano jurisdiccional para adolescentes deberá correr traslado del mismo a las partes para que se pronuncien en un plazo de dos días respecto de los agravios expuestos y señalen domicilio o medios en los términos del segundo párrafo del presente artículo.
+En el mismo escrito de interposición del recurso se precisará la resolución que se impugna, la fuente de agravio y las disposiciones violadas. El recurrente deberá exhibir una copia de su escrito para el registro y una para cada una de las otras partes. Si faltan total o parcialmente las copias, se le requerirá para que presente las omitidas dentro del término de veinticuatro horas. En caso de que no las exhiba, el órgano jurisdiccional para adolescentes las tramitará e impondrá al promovente multa de diez a ciento cincuenta días de salario, excepto cuando éste sea el imputado o la víctima u ofendido.
 
-Al interponer el recurso, al contestarlo o al adherirse a él, los interesados podrán manifestar en su escrito su deseo de exponer oralmente alegatos aclaratorios sobre los agravios ante el Tribunal Unitario para Adolescentes.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+Interpuesto el recurso, el órgano jurisdiccional para adolescentes deberá correr traslado del mismo a las partes para que en un plazo de dos días hábiles señalen domicilio o medios en los términos del tercer párrafo del presente artículo.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 503.
 
@@ -4799,31 +4841,47 @@ Por regla general la interposición del recurso no suspende la ejecución de la 
 
 En el caso de la apelación contra la exclusión de pruebas, la interposición del recurso tendrá como efecto inmediato suspender el plazo de remisión del auto de apertura de juicio al Juez de Juicio de (sic) Oral para Adolescentes, en atención a lo que resuelva el Tribunal Unitario para Adolescentes.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
 ###### Artículo 504.
 
-Quien tenga derecho a recurrir podrá adherirse, dentro del término de dos días contados a partir de recibido el traslado, al recurso interpuesto por cualquiera de las otras partes, siempre que cumpla con los demás requisitos formales de interposición. Quien se adhiera podrá formular agravios. Sobre la adhesión se correrá traslado a las demás partes en un término de dos días.
+Quien tenga derecho a recurrir podrá expresar su derecho a adherirse dentro del término de dos días hábiles contados a partir de que reciba la notificación sobre el recurso interpuesto por cualquiera de las otras partes, siempre que cumpla con los demás requisitos formales de interposición, quien podrá formular agravios de adhesión en la audiencia respectiva. Se deberá correr traslado del escrito de adhesión a las partes.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 505.
 
-Concluidos los plazos otorgados a las partes para la sustanciación del recurso de apelación, el órgano jurisdiccional para adolescentes enviará los registros correspondientes al Tribunal Unitario para Adolescentes que deba conocer del mismo.
+Concluídos los plazos otorgados a las partes para la sustanciación del recurso de apelación, el órgano jurisdiccional para adolescentes ordenará remitir las actuaciones y los registros judiciales que correspondan al Tribunal Unitario para Adolescentes, en un término no mayor de tres días hábiles y notificará a las partes la sede de dicho Tribunal.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 506.
 
-Recibidos los registros correspondientes del recurso de apelación, el Tribunal de (sic) Unitario para Adolescentes se pronunciará de plano sobre la admisión del recurso.
+Recibidos los registros correspondientes del recurso de apelación, el Tribunal de (sic) Unitario para Adolescentes se pronunciará de plano sobre la admisión del recurso, a más tardar dentro de los tres días hábiles siguientes.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 507.
 
-Si al interponer el recurso, al contestarlo o al adherirse a él, alguno de los interesados manifiesta en su escrito su deseo de exponer oralmente alegatos aclaratorios sobre los agravios, o bien cuando el Tribunal de (sic) Unitario para Adolescentes lo estime pertinente, decretará lugar y fecha para la celebración de la audiencia, la que deberá tener lugar dentro de los tres después (sic) de que fenezca el término para la adhesión.
+En el mismo acuerdo en donde se admita el recurso de apelación, el Magistrado decretará lugar y fecha para la celebración de la audiencia, la que deberá tener lugar dentro de los ocho días hábiles siguientes a la admisión. En dicha audiencia se hará la expresión oral de agravios y en su caso, la contestación de los mismos.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 508.
 
-Una vez abierta la audiencia, se concederá la palabra a la parte recurrente para que exponga sus alegatos aclaratorios sobre los agravios manifestados por escrito, sin que pueda plantear nuevos conceptos de agravio.
+Una vez abierta la audiencia, se concederá la palabra a la parte apelante para que exponga sus agravios de forma clara, los cuales deberán ajustarse a la fuente de agravio y a las disposiciones violadas formuladas en su escrito de apelación. Posteriormente, se le dará el uso de la voz a la parte contraria para que si lo considera, dé contestación a los agravios formulados y en su caso, exponga sus agravios de adhesión al recurso de apelación, concediéndosele el derecho de contestar a la otra parte.
 
-En la audiencia, el Tribunal Unitario para Adolescentes podrá solicitar aclaraciones a las partes sobre las cuestiones planteadas en sus escritos.
+En la audiencia, el Tribunal Unitario para Adolescentes podrá solicitar aclaraciones a las partes sobre las cuestiones planteadas.
+
+Si el recurrente no compareciere a la audiencia, se declarará desierto el recurso interpuesto y se desechará de plano.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 509.
 
-La sentencia que resuelva el recurso al que se refiere esta sección, podrá ser dictada de plano, en audiencia o por escrito dentro de los tres días siguientes a la celebración de la misma.
+Una vez concluido el debate, se dictará la sentencia que resuelva el recurso a que se refiere esta sección, la cual podrá ser dictada de plano en la misma audiencia o dentro de los cinco días hábiles siguientes a la celebración de la misma, en la que se citará a las partes previamente para la lectura, explicación y notificación de la sentencia.
+
+En caso de que en la fecha y hora fijadas para la celebración de dicha audiencia no asistieren las partes, se dispensará la lectura y explicación de la sentencia y se tendrá por notificada a las partes.
 
 ###### Artículo 510.
 
@@ -4940,3 +4998,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a las contenidas en el presente decreto.
+
+TERCERO. El actual Magistrado Unitario para Adolescentes continuará en el ejercicio de la función jurisdiccional y concluirá el período para el cual fue designado, sin perjuicio de poder ser ratificado en términos de lo dispuesto por el artículo 25 de la Ley de Justicia para Adolescentes contenido en este Decreto.
