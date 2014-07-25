@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-06-16"
+last_updated: "2014-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -51,7 +51,7 @@ Corresponde al Poder Judicial del Estado de Quintana Roo, la atribución de impa
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-También le corresponde proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas, por conducto del Centro de Justicia Alternativa, en los términos de la ley de Justicia Alternativa. Además tendrá la obligación de proporcionar los servicios de defensoría pública en términos de la Ley del Instituto de Defensoría Pública del Estado Quintana (sic) Roo.
+También le corresponde proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas, por conducto del Centro de Justicia Alternativa, en los términos de la ley de Justicia Alternativa. Además tendrá la obligación de proporcionar los servicios de defensoría pública en términos de la Ley del Instituto de Defensoría Pública del Estado (sic) Quintana Roo.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
@@ -255,9 +255,17 @@ XIII. Conocer de los impedimentos, de las recusaciones con causa, sin causa y de
 
 XIV. Nombrar y remover a los Magistrados de Asuntos Indígenas y a los jueces tradicionales, en los términos de la ley respectiva;
 
-XV. Elegir al Magistrado de Número que deba integrar el Consejo de la Judicatura quien no integrará Pleno ni Sala, y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2014)</small>
 
-XVI. Las demás que le confieran esta ley y otras leyes aplicables.
+XV. Elegir al Magistrado de número que deba integrarse al Consejo de la Judicatura quien no integrará Pleno ni Sala, excepto conforme a lo que establece el último párrafo del artículo 98 de la Constitución Local;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2014)</small>
+
+XVI. Aprobar que el Magistrado Presidente o el Magistrado Consejero puedan integrar Sala Colegiada o Unitaria para resolver los recursos de su competencia en el Sistema Penal Acusatorio;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2014)</small>
+
+XVII. Las demás que le confieran esta ley y otras leyes aplicables.
 
 #### Sección Cuarta. De las atribuciones de carácter judicial del Tribunal Pleno
 
@@ -437,7 +445,7 @@ III.- Asistir a las audiencias y diligencias que lleve a cabo su Sala, permaneci
 
 IV.- Vigilar que las labores del tribunal se desarrollen con normalidad comunicando al pleno las deficiencias que observen;
 
-V.- Conceder audiencia a los interesados en los asuntos de que conozcan; y (sic)
+V.- Conceder audiencia a los interesados en los asuntos de que conozcan; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -929,7 +937,7 @@ II.- De los procesos de jurisdicción concurrente en materia penal sobre los que
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
-III.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y (sic)
+III.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
@@ -2273,7 +2281,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la ce
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO VI. DEL INGRESO, FORMACION Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2633,7 +2641,7 @@ XX.- La ausencia en las labores de trabajo a menos que por acuerdo del pleno de 
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
-XXI.- Las demás que determine la ley; (sic)
+XXI.- Las demás que determine la ley;
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2731,7 +2739,7 @@ III.- Omitir asentar en los autos los acuerdos que dicten y vigilar que reciban 
 
 IV.- No llevar electrónicamente los registros de tocas, exhortos y despachos de correspondencia, títulos, cedulas, actas del Pleno y los demás asuntos que para el control se requieran;
 
-V.- No autorizar con su firma las resoluciones y diligencias en que tenga intervenir (sic);
+V.- No autorizar con su firma las resoluciones y diligencias en que tenga (sic) intervenir;
 
 VI.- Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función;
 
@@ -2899,7 +2907,7 @@ II.- Los abogados patronos de las partes;
 
 III.- El Ministerio Público en los negocios en que intervenga;
 
-IV.- Los titulares de los órganos jurisdiccionales y administrativos del Poder Judicial; y (sic)
+IV.- Los titulares de los órganos jurisdiccionales y administrativos del Poder Judicial; y
 
 V.- Cualquier ciudadano que tenga conocimiento de su comisión.
 
@@ -3380,3 +3388,7 @@ P.O. 16 DE JUNIO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor previa publicación en el Periódico Oficial del Estado de Quintana Roo, al día siguiente a aquel en el que inicie la vigencia del Decreto por el que se reforma el párrafo tercero del articulo 98 y se adicionan los párrafos cuarto y quinto al artículo 98, así como un último párrafo al artículo 99 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a las contenidas en el presente decreto.
+
+P.O. 25 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa publicación en dicho órgano de difusión oficial, del Decreto por el que se reforma el párrafo primero del Artículo 99 y se adiciona un párrafo sexto al Artículo 98, ambos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
