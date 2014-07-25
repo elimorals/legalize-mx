@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2013-08-30"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -751,15 +751,21 @@ Cuando variare el personal de un tribunal, no se proveerá decreto haciendo sabe
 
 La primera notificación se hará personalmente al interesado, o a su representante o mandatario, en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quién se entrega, recogiéndole la firma. Si ésta no supiere o no quisiere firmar se hará constar en la razón que se asentará del acto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2014)</small>
+
 ###### Artículo 112.
 
-Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija hábil del día siguiente, y si no espera se le hará la notificación por cédula.
+Si se tratare de la notificación de la demanda y a la primera busca no se encontrare el demandado ni persona alguna con quien entender la diligencia o habiéndola se negara; una vez cerciorado debidamente el actuario de que ahí vive la persona buscada, se fijará el citatorio en el domicilio señalado, en lugar visible, y el actuario a través de los medios electrónicos dejará constancia de ello, como puede ser la impresión fotográfica, o cualquier otro medio, y si no espera se le hará la notificación por cédula.
 
 La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser citada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona que debe ser notificada.
 
 Además de la cédula, se entregarán a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada y en su caso, copias simples de los demás documentos que el actor haya exhibido con su libelo inicial.
 
 Si ninguna persona quisiere recibir la cédula, se fijará en la puerta, asentándose razón de tal circunstancia, quedando en todo caso en el Juzgado, y a su disposición las copias de traslado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+En ambos casos el actuario tendrá la obligación de tomar fotografías del inmueble donde se realiza la diligencia, las cuales correrán agregadas en autos.
 
 ###### Artículo 113.
 
@@ -861,7 +867,9 @@ La caducidad de la instancia es de orden público e irrenunciable y no puede ser
 
 ·La caducidad tiene por finalidad en la primera instancia dejar sin efecto el proceso pero no la acción y en la segunda convertir en firmes las resoluciones recurridas. La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta antes de la citación para oír la sentencia definitiva, cuando concurra cualquiera de las siguientes circunstancias:
 
-a) Que hayan transcurrido seis meses, contados a partir del día siguiente a aquel en que surta sus efectos la notificación de la última resolución dictada, y
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+a) Que hayan transcurrido ciento veinte días hábiles, contados a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución dictada, y
 
 b) Que no hubiere promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo. Entendiéndose por meses los períodos comprendidos de treinta días.
 
@@ -1117,11 +1125,11 @@ Para los actos preparatorios del juicio, será competente el juez que lo fuere p
 
 En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria el juez que conoció de ellos en primera instancia. En caso de urgencia, puede dictarla el del lugar donde se hallen la persona o la cosa objeto de la providencia, y efectuado, se remitirán las actuaciones al competente.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 163
 
-Bis.- La función jurisdiccional en materia de apelación en el Estado, respecto a las sentencias emitidas en aquellos casos ventilados en los juicios orales familiares, será ejercida por un Magistrado de manera unitaria.
+Bis.- La función jurisdiccional en materia de apelación en el Estado, respecto a las sentencias emitidas en aquellos casos ventilados en los juicios orales, será ejercida por un Magistrado de manera unitaria.
 
 ### CAPITULO III. De la substanciación y decisión de las competencias
 
@@ -8282,3 +8290,7 @@ Cuando de forma extraordinaria a lo previsto en el calendario antes citado, el C
 Cuarto. El título Vigésimo Tercero denominado "De La Administración De Gestión Judicial" del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, únicamente aplicará para los juzgados que el Consejo de la Judicatura determine mediante acuerdo.
 
 Quinto.- El Consejo de la Judicatura del Estado debe realizar las adecuaciones necesarias en el Reglamento de la Visitaduría Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo.
+
+P.O. 25 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
