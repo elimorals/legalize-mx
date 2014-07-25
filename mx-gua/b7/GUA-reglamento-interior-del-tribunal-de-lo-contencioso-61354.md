@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2013-10-25"
+last_updated: "2014-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -187,29 +187,27 @@ II. La votación para la designación de Presidente, será secreta. En caso de e
 
 III. Una vez electo el Presidente rendirá la protesta de ley en los siguientes términos: "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Guanajuato, las leyes que de ellas emanen y en particular las que rigen a este Órgano de Justicia, y si así no lo hiciere que este Órgano Jurisdiccional me lo demande".
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
 ###### Artículo 14.
 
 Son atribuciones del Presidente, además de las previstas en el artículo 18 de la Ley, las siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
-
 I. Delegar la representación del Tribunal a través de poder general para pleitos y cobranzas y actos de administración otorgado ante fedatario público;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+II. Convocar y presidir las sesiones de Pleno y de Consejo, fijar el orden del día de las sesiones, dirigir los debates y conservar el orden de las mismas;
 
-II. Convocar y presidir las sesiones de Pleno y de Consejo, fijar el orden del día de las sesiones, dirigir los debates y conservar el orden en las mismas;
+III. Dar cuenta al Pleno y al Consejo, en su caso, de las excusas, recusaciones, excitativas de justicia y demás asuntos relevantes para el Tribunal;
 
-III. Tramitar los asuntos de la competencia del Consejo y turnar los expedientes entre sus integrantes para que formulen los proyectos de resolución;
+IV. Tramitar los asuntos de la competencia del Consejo y turnar los expedientes entre sus integrantes para que formulen los proyectos de resolución;
 
-IV. Presentar al Consejo para su aprobación la cuenta pública trimestral correspondiente y darle a conocer las observaciones y recomendaciones que formulen el Órgano de Fiscalización Superior o la Contraloría Interna;
+V. Presentar al Consejo para su aprobación la cuenta pública trimestral correspondiente y darle a conocer las observaciones y recomendaciones que formulen el Órgano de Fiscalización Superior o la Contraloría Interna;
 
-V. Remitir a los poderes del Estado el informe anual de actividades del Tribunal;
+VI. Remitir a los poderes del Estado el informe anual de actividades del Tribunal;
 
-VI. Publicar los criterios jurídicos aprobados por el Pleno y la revista del Tribunal;
+VII. Publicar los criterios jurídicos aprobados por el Pleno y la revista del Tribunal;
 
-VII. Ejecutar los actos jurisdiccionales y administrativos que le encomienden el Pleno o el Consejo y los que sean necesarios para el buen funcionamiento del Tribunal.
+VIII. Ejecutar los actos jurisdiccionales y administrativos que le encomienden el Pleno o el Consejo y los que sean necesarios para el buen funcionamiento del Tribunal.
 
 ###### Artículo 15.
 
@@ -914,3 +912,7 @@ P.O. 22 DE FEBRERO DE 2013.
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 25 DE JULIO DE 2014.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
