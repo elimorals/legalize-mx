@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2011-08-26"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,249 +21,113 @@ state: "BCN"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
+LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes de 10 de septiembre de 2012.
 
-EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO QUE AUTORIZA Y DA FE, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA, CELEBRADA EL DIA 26 DE OCTUBRE DEL AÑO 2007, SE TOMO EL SIGUIENTE:
+LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
-ACUERDO
+LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-Se aprobó en lo general por unanimidad de votos de los munícipes presentes del XVIII Ayuntamiento Constitucional de Ensenada, Baja California, y en lo particular el C. Regidor, Gilberto Flores Muñóz, su voto es en contra, respecto al nombramiento del Director, el Dictamen No, 02/07, presentado por las Comisiones Conjuntas de Educación, Cultura y Deporte y la de Gobernación y Legislación, integradas por los CC. Regidores, Profa. Adela Lozano López, Biol. Rocío López Gorosave, C. P. Ricardo Lomelí Sedano, Quím. Ernesto Pedrín Márquez, Ocean. Gilberto Flores Muñóz, Lic. Orlando A. Toscano Montaño, Lic. Alfonso Talavera Hernandez, Quím. Arnoldo Carlos García Guerrero y C.P. Héctor Luna Serrano; relativo al Proyecto de ACUERDO DE CREACIÓN Y de REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA.
+CONSIDERANDO.
 
-Lo anterior de conformidad con la siguiente Fundamentación, antecedentes, Considerandos y Puntos Resolutivos: FUNDAMENTACION.
+Por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide la siguiente:
 
-Con fundamento en el artículo 115 de lo Constitución Política de los Estados Unidos Mexicanos, artículos 76, 77 Y 81 de lo Constitución Política del Estado Libre y Soberano de Baja California, articulo 3 y 23 de la Ley del Régimen Municipal para el Estado de Baja California, articulo 94 del Reglamento de la Administración Publica para el Municipio de Ensenada.
+LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO.
 
-Norman el procedimiento para el presente Dictamen los artículos 1, 10, 11 fracción I, 12, 67, 70,73, 114 fracción (sic) I y IX, 115 fracción I, 123 fracción I, 132, 133, 134 y demás relativos y aplicables del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, vigente a la fecha, ANTECEDENTES.-.
+## Título Primero. Disposiciones generales
 
-Es por todo lo anterior que después de haber analizado y discutido ampliamente cada uno de los artículos que integran la base sobre la que habrá de trabajar en su momento el INSTITUTO DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, se determina bajo los siguientes: PUNTOS RESOLUTIVOS.-
-
-PRIMERO.- Se aprueba el Acuerdo de Creación del instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
-
-SEGUNDO.- Se aprueba el Reglamento del instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
-
-TERCERO.- Publíquese en el Periódico Oficial del Estado, para los efectos legales a que haya lugar.
-
-Dado en la Sala Emmer del área de Regidores del XVIII Ayuntamiento Municipal de Ensenada, Baja California a los 26 días del mes de Octubre del 2007.
-
-La votación fue la siguiente: Catorce votos a favor, correspondientes al Síndico Procurador, Isaac Chapluk Pabloff y a los CC. Regidores, Ernesto Pedrín Márquez, Ricardo Lomelí Sedano, Miguel Angel Zazueta Ochoa, Adela Lozano López, Georgina Posada Aparicio, María Nélida Pelayo Ponce, Jesús Salvador Abarca Macklis, Arnoldo Carlos García Guerrero, Armando Reyes Ledezma, Máximo Rivas Valencia, Gilberto Flores Muñóz, Orlando Toscano Montaño y al Presidente Municipal, César Mancillas Amador. Una ausencia justificada del Regidor, José Felipe Romero Guzmán.
-
-Se extiende la presente Certificación para los usos legales a que haya lugar, el día veintisiete de Noviembre de 2007, en la ciudad de Ensenada, Baja California, México.
-
-El Secretario Fedatario del XVIII Ayuntamiento de Ensenada, B. C.
-
-LIC. JULIO CESAR ARENAS RUIZ
-
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA
-
-## Título Primero
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
-
-### Capítulo Primero.
-
-Disposiciones Generales.
+### Capítulo Único. Del objeto
 
 ###### Artículo 1.
 
-El presente reglamento es de orden público e interés social, de observancia general en el territorio del Municipio de Ensenada, B.C., y tiene por objeto establecer el funcionamiento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Querétaro y tienen por objeto regular, proteger y garantizar la igualdad sustantiva entre mujeres y hombres; así como proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo acciones afirmativas a favor de la equidad de género.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 2.
 
-El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada es un organismo descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio.
+Son principios rectores de la presente Ley: la igualdad sustantiva, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Querétaro, la Ley de Derechos Humanos del Estado de Querétaro, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, Ley para Prevenir y Eliminar toda forma de Discriminación en el Estado de Querétaro, la Ley de la Secretaría de las Mujeres, los instrumentos internacionales de los que México sea parte y la legislación general en la materia.
 
 ###### Artículo 3.
 
-Para la aplicación del presente reglamento serán autoridades responsables:
-
-I. El H. Ayuntamiento de Ensenada;
-
-II. El Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
-
-III. El Director del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, y
-
-IV. El Comisario del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado de Querétaro y que estén en alguna situación o tipo de desventaja, ante la violación del principio de igualdad que esta Ley protege.
 
 ###### Artículo 4.
 
-Para los efectos de interpretación del presente Reglamento se entenderá por:
+La interpretación del contenido de esta Ley, será congruente con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, los tratados internacionales aplicables en materia de derechos humanos y discriminación de los que el Estado Mexicano sea parte, así como con las recomendaciones y demás legislación aplicable.
 
-I. Municipio: El Municipio de Ensenada, Baja California;
+En la interpretación para la aplicación de las disposiciones de este ordenamiento, las autoridades facultadas y obligadas para los efectos, deberán utilizar con prelación de importancia, los criterios y derechos que beneficien en mayor medida a las personas en situación o frente a algún tipo de desigualdad.
 
-II. Instituto: El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
-
-III. Ayuntamiento: El H. Ayuntamiento Constitucional de Ensenada, B.C.;
-
-IV. Consejo: El Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
-
-V. Comisario: El comisario del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada;
-
-VI. Mayoría Simple: Es aquella que corresponde a más de la mitad de los integrantes del Consejo que se encuentren presentes en una Sesión;
-
-VII. Mayoría Calificada: Es aquella que corresponde a cuando menos las dos terceras partes de los integrantes del Consejo, elevando en su caso las fracciones al número entero.
-
-### Capítulo II.
-
-Del Instituto.
+### Capítulo Único. De la competencia
 
 ###### Artículo 5.
 
-El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, tiene por objeto: establecer, coordinar y actualizar la política cultural del municipio en base a una estrategia concertada socialmente y con proyección de largo alcance para la inclusión en el plan Municipal de Desarrollo, así mismo apoya (sic), encauzar y promover la cultura entre la ciudadanía en general, unificando criterios para su promoción, agrupando a los organismos y asociaciones involucradas en lo promoción cultural, la creación de oferta cultural y la capacitación artística; ofreciendo espacios y programas culturales para uso y disfrute de lo ciudadanía, y creando la estructura social necesaria para el desarrollo cultural integral de los habitantes de Ensenada en el ámbito social e individual, en la zona urbana y principalmente en las cabeceras de las regiones del municipio.
+Para los efectos de esta Ley se entenderá por:
+
+Acciones afirmativas, las medidas específicas de carácter temporal, racionalmente justificables a favor de las mujeres, que tienen por objeto acelerar la igualdad sustantiva entre mujeres y hombres.
+
+Adelanto de las mujeres, las acciones tendientes a mejorar el estatus de la mujer en el Estado y asegurar el alcance de su igualdad ante el hombre.
+
+Conciliación vida laboral y familiar, conjunto de políticas públicas y acciones afirmativas para lograr que las mujeres no enfrenten la disyuntiva entre la vida laboral y la vida familiar, a través de la flexibilización de la estructura social y el impulso de programas para desarrollar el trabajo desde sus hogares y trabajos por proyectos.
+
+Entidades públicas, los Poderes Ejecutivo, Legislativo y Judicial del Estado; las dependencias y entidades de la administración pública estatal y paraestatal; los Ayuntamientos de los municipios del Estado; las dependencias y entidades de la administración pública municipal y paramunicipal, los organismos constitucionales autónomos y los partidos políticos y organizaciones políticas con registro oficial.
+
+Equidad de Género, el concepto que se refiere al principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquellos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de géneros en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar.
+
+Igualdad sustantiva, el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+
+Perspectiva de género, concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
+
+Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones de índole legislativo, ejecutivo, administrativo y reglamentario, desarrollados por las dependencias y entidades de la administración pública, con el propósito común de garantizar la inclusión de la perspectiva de igualdad entre mujeres y hombres, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### Artículo 6.
 
-El patrimonio del Instituto se integra por:
-
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
-I. Las partidas presupuestales que le correspondan del Presupuesto de Egresos del Municipio, que le garanticen su operatividad y el cumplimiento de sus atribuciones, funciones y programas;
-
-II. Los activos, bienes muebles e inmuebles que posee actualmente y los que por cualquier título adquiera para la consecución de sus fines, o con motivo de las actividades propias de su objeto;
-
-III. Las aportaciones, transferencias, donaciones, legados, herencias y subsidios que hagan en su favor las instituciones u organismos federales, estatales, municipales, privados o no gubernamentales, así como por particulares;
-
-IV. Los ingresos que obtenga por las actividades que desarrolle en cumplimiento de su objeto, y
-
-V. Los rendimientos y demás ingresos que obtenga por la inversión de los recursos a que se refieren las fracciones anteriores.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación, directa o indirecta, que se genere por pertenecer a cualquier género.
 
 ###### Artículo 7.
 
-Dependerán del Instituto, como entes incorporados en su estructura administrativa y normativa, los siguientes:
+Los Poderes Ejecutivo, Legislativo, Judicial y los municipios del Estado ejercerán sus atribuciones en materia de igualdad sustantiva, de conformidad con la distribución de competencias previstas en la misma y los demás ordenamientos aplicables.
 
-I. La Casa de la Cultura;
-
-II. Las Bibliotecas Públicas Municipales;
-
-III. El Archivo Histórico de Ensenada; y
-
-IV. La Hemeroteca Pública "Francisco Vargas Bañaga".
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 8.
 
-Para la prestación de los servicios de promoción cultural y artística a la comunidad, el Instituto ejerce las siguientes atribuciones:
+La persona titular del Poder Ejecutivo del Estado de Querétaro, será la responsable de formular, conducir y evaluar la política de igualdad sustantiva entre mujeres y hombres en el Estado; fortalecer los mecanismos institucionales de su promoción y cumplimiento, bajo el principio de transversalidad, así como a la Secretaría de las Mujeres, impulsando acciones afirmativas o medidas compensatorias con perspectiva de género.
 
-l.- Garantizar sin discriminación a todos los ciudadanos el acceso equitativo que asegure el pleno disfrute de todos los bienes y servicios culturales que se oferten en el municipio;
+Para el ejercicio de sus facultades, en materia de igualdad sustantiva entre mujeres y hombres, la persona titular del Poder Ejecutivo del Estado de Querétaro, deberá incluir en el proyecto de presupuesto de egresos del ejercicio fiscal que corresponda, una partida presupuestal suficiente que garantice la permanencia de los programas que al efecto se formulen.
 
-II.- Promover y difundir las diversas manifestaciones culturales en la comunidad ensenadense;
-
-III.- Apoyar, por diversos medios, la creación artística de manera integral en todas las disciplinas consideradas como bellas artes;
-
-IV.- Apoyar, preservar y difundir las expresiones de la cultura popular e indígena y las tradiciones culturales mexicanas;
-
-V.- Administrar, dirigir, coordinar y conservar los espacios culturales del Municipio y los acervos documentales, bibliográficos, audiovisuales y artísticos;
-
-VI.- Diseñar y emitir convocatorias públicas para concursos en todas las manifestaciones culturales y artísticas, con el fin de promover la participación cultural;
-
-VII.- Organizar y participar en: festivales, encuentros y muestras culturales a nivel regional, nacional e internacional, que estimulen la participación y la creación cultural y artística de todos aquellos interesados en cultivar las expresiones del espíritu humano;
-
-VIII.- Mantener un sistema de capacitación cultural y artística, por medio de talleres, cursos y seminarios en los espacios que sean designados para ello, como la Casa de la Cultura, la Galería de Arte de la Ciudad, las bibliotecas públicas Municipales, y otros que se vayan incorporando a la infraestructura cultural del municipio, tales como programas de profesionalización y especialización;
-
-IX.- Crear y promover la apertura y la continuidad en el funcionamiento de espacios culturales en el municipio;
-
-X.- Apoyar a las personas o grupos interesados en el desarrollo cultural y artístico, actuando como interlocutor ante los diferentes organismos de la sociedad civil, los tres órdenes de gobierno e instituciones nacionales e internacionales;
-
-XI.- Promover la defensa y la conservación del patrimonio cultural tangible e intangible del municipio, coordinando esfuerzos con el Comité Municipal de Preservación del Patrimonio Cultural de Ensenada;
-
-XII.- Conservar e Incrementar la memoria histórica del municipio por medio de documentos, acervo fotográfico, audiovisual y otros medios de registro iconográfico;
-
-XIII.- Difundir el conocimiento de la historia local por medio de diversas acciones y actividades;
-
-XIV.- Contribuir a la oferta de servicios bibliotecarios en el municipio, incrementando acervos, incorporando tecnología informativa y mejorando los espacios de servicio, entre otros;
-
-XV.- Realizar labores editoriales de manera directa o a través de terceros que conduzcan a un adecuado registro de la cultura impresa o electrónica de las obras que abarquen todos los géneros literarios;
-
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
-XVI. Aprovechar los medios masivos de comunicación para fines de difusión cultural, generando también sus propios medios impresos y electrónicos, boletines, revistas, programas de radio y televisión, a través de convenios con empresas e instituciones públicas o privadas que permitan desarrollar proyectos viables en materia de difusión masiva de la cultura y artes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
-
-XVII. Elaborar el Plan de Desarrollo Cultural de Ensenada;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
-
-XVIII. Coadyuvar con las dependencias y organismos de la administración pública municipal a efecto de que formulen y lleven a cabo sus actividades culturales en forma coherente con el Plan de Desarrollo Cultural de Ensenada;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
-
-XIX. Establecer mecanismos de comunicación, coordinación y concertación con dependencias y organismos públicos y privados que realicen actividades de carácter cultural;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
-
-XX. Promover un proceso integral y participativo que propicie el conocimiento y fortalecimiento de la identidad ensenadense;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2011)</small>
-
-XXI. Las demás que le señalen las leyes, reglamentos y demás ordenamientos legales aplicables.
-
-### Capítulo III.
-
-De los órganos rectores del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+### Capítulo Único. De los lineamientos
 
 ###### Artículo 9.
 
-Los órganos rectores del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada son:
+Corresponde al Poder Legislativo del Estado de Querétaro, en materia de igualdad sustantiva entre mujeres y hombres:
 
-I.- El Consejo del Instituto;
+I. Realizar el proceso de armonización de la legislación local con la federal y las disposiciones que se deriven de los convenios internacionales firmados por México y ratificados por el Senado de la República, atendiendo las recomendaciones emitidas por los Comités de las Convenciones Internacionales de las cuales nuestro País forma parte;
 
-II.- La Dirección;
+II. Procurar utilizar y promover la utilización de un lenguaje con perspectiva de género en la redacción de las leyes, decretos y acuerdos aprobados, así como en la comunicación oficial que emane de sus órganos y dependencias; y
 
-III.- El Comisario.
+III. Revisar que en el Presupuesto de Egresos del Estado de Querétaro para cada ejercicio fiscal, correspondiente a las entidades públicas que se contemplan en la presente Ley, se incluyan partidas presupuestales dirigidas a la realización de las acciones y obras a favor de la igualdad sustantiva entre mujeres y hombres.
 
 ###### Artículo 10.
 
-El Consejo del Instituto es el órgano jerárquicamente superior en la estructura del Instituto y estará integrado de la siguiente manera:
+Corresponde a los Ayuntamientos de los Municipios en el Estado de Querétaro:
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+I. Considerar la implementación de las instancias municipales para impulsar el adelanto de las mujeres y la igualdad sustancial de las mujeres y los hombres en el municipio;
 
-I. Con voz y voto:
+II. Coadyuvar con las diferentes instancias del gobierno federal y estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-a. Presidente Municipal o quien el designe;
+III. Procurar utilizar y promover la utilización de un lenguaje con perspectiva de género en la redacción de la comunicación oficial que de éstos emane;
 
-b. Los Regidores integrantes de la Comisión de Educación, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
-c. El Director General del Instituto;
+IV. Promover campañas de concientización sobre la discriminación hacia las mujeres y la importancia de la igualdad sustantiva entre mujeres y hombres;
 
-d. Un representante del Subcomité de Cultura del COPLADEM;
+El contenido de la publicidad municipal a través de la cual se difundan las campañas a que refiere esta fracción, deberán estar desprovistas de estereotipos establecidos en función del sexo de las personas; y
 
-e. Cuatro representantes ciudadanos, con al menos uno que pertenezca a alguna etnia indígena, uno a la comunidad de personas con discapacidad, y uno que represente a la comunidad artística.
-
-f. Un representante de la Asociación de Periodistas de Ensenada, A.C.
-
-g. Un representante del Seminario de Historia de Baja California, A.C.
-
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
-II. Con voz:
-
-a. Cuatro representantes del Ayuntamiento nombrados por el Presidente Municipal que se desempeñen en deporte, educación, asistencia social y salud;
-
-b. Un representante del Instituto de Cultura de Baja California;
-
-c. Un representante del Sistema Educativo Estatal;
-
-d. Un representante del Instituto Nacional de Antropología e Historia;
-
-e. Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
-
-f. Un representante de la Universidad Autónoma de Baja California;
-
-g. El Cronista oficial.
-
-Los integrantes a que se refiere el presente artículo, deberán contar con su respectivo suplente, mismo que será nombrado junto con el propietario.
-
-Los integrantes del Consejo serán honorarios, por lo que no recibirán retribución económica alguna por sus actividades dentro del mismo.
-
-El director del instituto fungirá como Secretario del Consejo.
-
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+V. Fomentar la participación social, política, económica y ciudadana de las mujeres y hombres, tanto en las áreas urbanas como rurales.
 
 ###### Artículo 10 Bis.
 
@@ -271,328 +135,432 @@ El Consejo podrá autorizar la incorporación de más integrantes con voz, cuand
 
 ###### Artículo 11.
 
-El Consejo tendrá las siguientes facultades:
+La política estatal en materia de igualdad entre mujeres y hombres, deberá establecer las acciones conducentes al logro de la igualdad sustantiva en todas sus dimensiones, bajo los siguientes lineamientos:
 
-I. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
+I. Fomentar la igualdad entre mujeres y hombres en todos sus ámbitos;
 
-II. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
+II. Garantizar que la planeación presupuestal incorpore de forma progresiva la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad sustantiva entre mujeres y hombres;
 
-III. Crear y reformar el reglamento interior del Instituto;
+III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
 
-IV. Aprobar y vigilar el cumplimiento de los planes, programas y proyectos que se elaboren para cumplir los objetivos y fines del Instituto;
+IV. Implementar acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
+V. Promover la igualdad sustantiva entre mujeres y hombres en el ámbito civil;
 
-V. Aprobar anualmente el anteproyecto de presupuesto de ingresos y del presupuesto de egresos del Instituto y someterlo a la consideración del Ayuntamiento para su aprobación;
+VI. Establecer medidas para erradicar la violencia de género y la violencia familiar;
 
-VI. La emisión de resoluciones respecto a los informes, dictámenes y recomendaciones del comisario;
+VII. Promover la eliminación de estereotipos establecidos en función del género; y
 
-VII. Cuando proceda, la aprobación de los trámites conducentes para aceptar herencias, legados, donaciones y demás liberalidades;
+VIII. Implementar la perspectiva de género en la comunicación oficial de las entidades públicas.
 
-VIII. El estudio y aprobación, en su caso, de los proyectos de inversión presentados por la Dirección del Instituto;
-
-IX. Conocer de los convenios de coordinación y colaboración que hayan de celebrarse con dependencias o entidades públicas o privadas;
-
-X. Celebrar sesiones ordinarias trimestrales y las extraordinarias que se requieran;
-
-XI. Aprobar, en su caso, los informes trimestrales de avances financieros y programáticos que presente el Director del Instituto;
-
-XII. Aprobar, en su caso, el informe anual que presente el Director sobre el estado que guarda la administración del Instituto y su situación patrimonial, y turnarlo al Ayuntamiento para su conocimiento;
-
-XIII. Por conducto de su representante legal, turnar al Ejecutivo estatal y federal los acuerdos del Consejo que lo ameriten por su naturaleza e importancia, con apego a la ley;
-
-XIV. Por conducto de su representante legal, turnar a Cabildo las propuestas que surjan del seno del Consejo, cuando las leyes o los reglamentos aplicables en la materia lo exijan y por su importancia, en mérito de las facultades de este cuerpo colegiado;
-
-XV. Proponer, por conducto de su representante legal, del gobierno municipal, estatal y federal las medidas necesarias para el cumplimiento de las funciones y objetivos del Instituto;
-
-XVI. Celebrar, por conducto de su representante legal, los acuerdos de coordinación con el sector público estatal y federal y con otros municipios, así como los sectores privados, sociales y organizaciones civiles, para complementar los fines del Instituto;
-
-XVII. Presentar anualmente al Ayuntamiento, informe sobre la aplicación de recursos públicos asignados, ingresos obtenidos, en su caso, así como resultados de gestión de conformidad a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo;
-
-XVIII. Solicitar y en su casa contratar, estudios, opiniones y dictámenes que, deban realizarse por especialistas y técnicos de la materia de que se trate, cuando se considere que éstos son necesarios para la toma de decisiones, y el buen desempeño del Instituto;
-
-XIX. (DEROGADA, P.O. 26 DE AGOSTO DE 2011)
-
-XX. Las demás que le fijen las leyes y reglamentos aplicables en la materia.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+## Título Cuarto. De la implementación de la igualdad sustantiva entre mujeres y hombres
 
 ###### Artículo 12.
 
-El titular de la Dirección del Instituto será nombrado por el Presidente Municipal.
+Son instrumentos para la implementación de la igualdad sustantiva entre mujeres y hombres, los siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2011)</small>
+I. El Sistema para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Querétaro; y
+
+II. El Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres.
 
 ###### Artículo 13.
 
-El Director General del Instituto deberá reunir los siguientes requisitos:
+En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
 
-I. Ser ciudadano mexicano, de reconocida trayectoria por su relación con el ámbito cultural en la región, con conocimientos y sensibilidad en la materia;
-
-II. Presentar al Consejo del Instituto una propuesta general de trabajo y de política cultural para su período;
-
-III. Entregar documentación que acredite su trayectoria en el ámbito cultural.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Los integrantes a que se refiere el Artículo 10 de este reglamento en sus incisos e) de la fracción I y h) de la fracción II serán seleccionados por el Consejo, conforme a las bases de la convocatoria que para tal efecto emita el Presidente Municipal.
-
-Los interesados en participar en la convocatoria deberán anexar a su solicitud el nombre de la persona que fungirá como su suplente para que asista en sus ausencias, acompañando de los mismos documentos que se le soliciten al propietario.
-
-Para el caso de que no acudan a la convocatoria emitida por el Ayuntamiento, el Consejo quedara instalado con las personas representantes del Ayuntamiento y aquellos nombrados como representantes de los organismos a que se refiere el Artículo 10. Durarán en su cargo tres años.
+El Poder Ejecutivo del Estado será el responsable de la aplicación de los instrumentos para la igualdad sustantiva entre mujeres y hombres, a través de la Secretaría de las Mujeres.
 
 ###### Artículo 15.
 
-Los representantes a los que se refieren los incisos d) de la fracción I y c), d), e), f) y g) de la fracción II, todos del artículo 10 serán propuestos por escrito, por las instituciones respectivas.
-
-Durarán en su encargo tres años, pudiendo ser removidos en cualquier momento por la Institución que lo haya propuesto, ocupando su lugar el suplente correspondiente.
-
-En el tiempo en que se renueve a los integrantes ciudadanos del Consejo, las instituciones deberán ratificar a su representante o, en su caso, nombrar a uno nuevo.
+El Sistema para la Igualdad Sustantiva entre Mujeres y Hombres del Estado de Querétaro, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las entidades públicas estatales y municipales, así como la sociedad civil organizada, instituciones académicas y de investigación, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
 ###### Artículo 16.
 
-La convocatoria para renovación de los representantes ciudadanos del Consejo, se emitirá cada tres años, de conformidad con las siguientes bases:
-
-Todos los aplicantes (sic) deberán cumplir con los siguientes requisitos:
-
-I. Ser mexicano.
-
-II. Ser mayor de edad.
-
-III. Cumplir con una residencia de 5 años en el Municipio.
-
-IV. Contar con experiencia mínima de cinco años en el ramo que pretendan representar.
-
-V. No haber tenido cargos de elección popular los tres años anteriores a su solicitud.
-
-VI. No tener cargos en partidos políticos.
-
-VII. No haber sido funcionario público cuando menos un año anterior a su solicitud.
-
-VIII. No haber sido condenado por delito alguno.
-
-IX. Presentar una ponencia en materia de Cultura de máximo tres cuartillas.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
-
-La convocatoria deberá ser lanzada dentro de los primeros tres meses de la instalación del Ayuntamiento de que se trate por el Presidente Municipal a través de la Secretaría General del Ayuntamiento, publicándose al menos en uno de los diarios de mayor circulación del Municipio.
-
-La publicación se realizará en dos ocasiones con una distancia de tres días naturales entre cada una de ellas.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
-
-Las solicitudes serán recibidas por la Secretaría General del Ayuntamiento y turnadas a la Comisión de Educación, Cultura, Ciencia y Tecnología para su dictamen y posterior aprobación por el Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
-
-El Ayuntamiento deberá comunicar su resolución dentro de los quince días hábiles posteriores a la fecha límite para la recepción de documentación.
+El Sistema tiene como fin garantizar la igualdad sustantiva entre mujeres y hombres en el Estado de Querétaro.
 
 ###### Artículo 17.
 
-El Comisario del Instituto, será el Síndico Procurador Municipal o la persona que éste designe en su representación, del departamento de Auditoria de la Sindicatura.
+El Sistema se integrará de la siguiente manera:
 
-## Título Segundo
+I. Un Presidente, que será la persona titular del Poder Ejecutivo o la que ésta determine;
 
-### Capítulo I.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-De las atribuciones y facultades de los miembros del Consejo del Instituto.
+II. Una Secretaria Técnica, que será la persona Titular de la Secretaría de las Mujeres;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, 26 DE AGOSTO DE 2011)</small>
+III. La Secretaría de Desarrollo Sustentable;
+
+IV. La Secretaría de Salud;
+
+V. La Secretaría del Trabajo;
+
+VI. La Secretaría de Educación;
+
+VII. La Procuraduría General de Justicia del Estado de Querétaro;
+
+VIII. La Secretaría de la Juventud;
+
+IX. La Comisión de Equidad de Género y Grupos Vulnerables del Poder Legislativo del Estado;
+
+X. El Tribunal Superior de Justicia del Estado de Querétaro; y
+
+XI. Cuatro representantes de la sociedad civil e instituciones académicas.
+
+El Sistema sesionará de manera ordinaria como mínimo cada seis meses y de manera extraordinaria cuando sea convocado. Ejercerá sus funciones, en los términos del Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+## Título Segundo. De las autoridades
+
+### Capítulo Primero. De los instrumentos de la política en materia de igualdad sustantiva
 
 ###### Artículo 18.
 
-Atribuciones del Presidente del Consejo del Instituto:
-
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2011)</small>
-
-I. Convocar a reunión del Consejo, a través del Secretario del mismo por lo menos con 5 días de anticipación.
-
-II. Someter a consideración del Consejo para su análisis los expedientes correspondientes a los asuntos planteados;
-
-III. Coordinar y dirigir las sesiones de Consejo;
-
-IV. Emitir su voto para la toma de decisiones del Consejo y, en caso de empate emitir su voto de calidad;
-
-V. Vigilar el exacto cumplimiento del presente reglamento;
-
-VI. Las demás que determine el presente reglamento o apruebe el pleno del Consejo.
+La Secretaría de las Mujeres coordinará las acciones que el Sistema genere para la organización y el funcionamiento del Sistema, así como las disposiciones necesarias para vincularlo con otros similares de carácter local o nacional.
 
 ###### Artículo 19.
 
-Atribuciones del Secretario del Consejo del Instituto:
+El Sistema Estatal tiene los siguientes objetivos:
 
-I. Convocar, por instrucción del presidente, a reunión del Consejo, con por lo menos 48 horas de anticipación;
+I. Promover la igualdad entre mujeres y hombres;
 
-II. Levantar el acta correspondiente de las sesiones ordinarias y extraordinarias;
+II. Contribuir a la erradicación de todo tipo de discriminación por razón de género;
 
-III. Auxiliar al presidente en los asuntos de su competencia y someter los expedientes a consideración del Consejo;
+III. Contribuir al adelanto de las mujeres, en materia económica, de derechos sociales, civiles, de acceso a la información y a la igualdad;
 
-IV. Llevar para efectos de control, un archivo de los asuntos tratados y las resoluciones que se emitan;
+IV. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; y
 
-V. Dar seguimiento a los acuerdos tomados;
-
-VI. Expresar el sentido de su voto en las sesiones a las que asista y en las comisiones que integre, y
-
-VII. Suplir al presidente en caso de ausencia.
+V. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
 
 ###### Artículo 20.
 
-Atribuciones de los integrantes del Consejo del Instituto:
+El Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres, será elaborado y propuesto por la Secretaría de las Mujeres y tomará en cuenta las condiciones sociales y culturales de la Entidad, así como las particularidades de la desigualdad en cada región del Estado. Este Programa deberá ajustarse al Plan Estatal de Desarrollo.
 
-I. Acudir puntualmente a las reuniones a que sean convocados;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-II. Realizar la revisión y análisis de los asuntos sometidos a su consideración;
+El Programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley y deberá ser revisado cada tres años por la Secretaría de las Mujeres para adecuarse a los objetivos del Sistema.
 
-III. Realizar las observaciones y revisiones necesarias y adecuadas, a las solicitudes que se planteen;
-
-IV. Expresar el sentido de su voto en las sesiones a las que asista y en las comisiones que integre, y
-
-V. Las demás que se deriven del presente reglamento.
+En aras de lograr la transversalidad, propiciará que los programas sectoriales, institucionales y especiales del Estado de Querétaro tomen en cuenta los criterios e instrumentos de esta Ley.
 
 ###### Artículo 21.
 
-El Presidente del consejo contará con poder general, para pleitos, cobranzas y actos de administración, en los términos del artículo 2428 del Código Civil del Estado que, por acuerdo del Consejo podrá delegar al Director del Instituto.
+Los informes anuales de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Querétaro, deberán referir, en el ámbito de su competencia, la situación que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley.
+
+## Título Quinto. De los objetivos y acciones en materia de igualdad sustantiva entre mujeres y hombres
 
 ###### Artículo 22.
 
-El Comisario tendrá la obligación de asistir a las sesiones del Consejo del Instituto, con derecho a voz pero sin voto, y gozará de las siguientes facultades:
+Los objetivos y acciones de esta Ley estarán encaminados a garantizar el derecho a la igualdad sustantiva entre mujeres y hombres.
 
-I.- Vigilar que la administración de los recursos y el funcionamiento del Instituto se haga en cumplimiento de las leyes, reglamentos, normas, programas y presupuestos vigentes;
-
-II.- Practicar auditorias de los estados financieros y de las prácticas y procedimientos administrativos;
-
-III.- Recomendar al Consejo del Instituto y a la Dirección General las medidas correctivas que sean convenientes para el mejor funcionamiento del Instituto;
-
-IV.- Las demás que sean necesarias para el ejercicio de las anteriores.
-
-### Capítulo II.
-
-De las sesiones del Consejo del Instituto.
+### Capítulo Segundo. Del Sistema para la Igualdad Sustantiva entre Mujeres y Hombres
 
 ###### Artículo 23.
 
-El Consejo del Instituto celebrará sesiones ordinarias una vez cada tres meses.
+Las entidades públicas estatales y municipales, en el ámbito de su competencia, están obligados a garantizar el derecho a la igualdad entre mujeres y hombres, para lo cual, deberán:
+
+I. Procurar el derecho a una vida libre de discriminación por razón de género;
+
+II. Contribuir a la conciliación de la vida laboral y la familiar;
+
+III. Promover el derecho a una vida libre de estereotipos de género; y
+
+IV. Garantizar el derecho a una vida libre de violencia de género.
 
 ###### Artículo 24.
 
-(DEROGADO, P.O. 26 DE AGOSTO DE 2011)
+Será objetivo de la presente Ley, en materia económica, garantizar la igualdad sustantiva entre mujeres y hombres. Para ello, las entidades públicas estatales y municipales desarrollarán, en el ámbito de su competencia, acciones para fomentar la integración de políticas públicas, con perspectiva de género e impulsar liderazgos igualitarios.
 
 ###### Artículo 25.
 
-El Consejo del Instituto podrá celebrar las sesiones extraordinarias que estime convenientes, y serán convocadas por el Presidente o al menos por la mitad más uno de los miembros que cuentan con voz y voto, con una anticipación de cinco días previos a la fecha de la sesión extraordinaria, sin incluir el día de la convocatoria.
+Para los efectos de lo previsto en el artículo anterior, las entidades públicas deberán:
+
+I. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género;
+
+II. Fomentar la incorporación de la educación y formación integral de las personas que en razón de su género están relegadas;
+
+III. Implementar acciones que tiendan a erradicar la discriminación en la designación de puestos directivos y toma de decisiones por razón de género;
+
+IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos del Estado de Querétaro, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia laboral;
+
+V. Establecer la coordinación necesaria con todos los órdenes de gobierno para garantizar la igualdad sustantiva entre mujeres y hombres;
+
+VI. Garantizar que en su Programa Operativo Anual exista una partida presupuestal para la implementación de acciones tendientes a la igualdad sustantiva;
+
+VII. Establecer los mecanismos necesarios para identificar las partidas presupuestales destinadas al desarrollo de las mujeres y gestar los mecanismos de vinculación, entre ellas, a efecto de incrementar su potencial;
+
+VIII. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad sustantiva en el mercado laboral, en los ámbitos público y privado;
+
+IX. Fomentar la adopción voluntaria de programas de igualdad, por parte del sector privado; para ello, se generarán diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad sustantiva entre mujeres y hombres;
+
+X. Diseñar, en el ámbito de su competencia, políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
+
+XI. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad sustantiva entre mujeres y hombres;
+
+XII. Difundir, previo consentimiento de las empresas o personas que correspondan, los planes que apliquen en materia de igualdad sustantiva entre mujeres y hombres; y
+
+XIII. Garantizar el derecho de acceso a la información relativa a los planes de igualdad de las empresas públicas.
 
 ###### Artículo 26.
 
-La convocatoria para las sesiones ordinarias y extraordinarias del Consejo del Instituto deberá indicar los puntos del Orden del Día.
+Las entidades públicas, en el ámbito de su competencia, generarán los mecanismos necesarios para garantizar la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 27.
 
-Las sesiones, para su validez, requerirán que estén presentes por lo menos la mitad más uno de sus miembros. En caso de no encontrarse presentes el Presidente y el Secretario del Consejo, no podrá desarrollarse la sesión.
+Para los efectos de lo previsto en el artículo anterior, las entidades públicas estatales y municipales desarrollarán, en el ámbito de su competencia, las siguientes acciones:
+
+I. Implementar mecanismos que promuevan la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+
+II. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
+
+III. Fomentar el ejercicio de los derechos sindicales de las mujeres;
+
+IV. Garantizar la participación equitativa de mujeres y hombres en altos cargos públicos;
+
+V. Desarrollar y actualizar estadísticas desagregadas por género, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
+
+VI. Garantizar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en los poderes Ejecutivo, Legislativo y Judicial del Estado de Querétaro y demás entidades públicas estatales y municipales.
 
 ###### Artículo 28.
 
-Las decisiones y acuerdos que tome el Consejo, deben ser aprobados por mayoría de votos.
+Con el fin de garantizar la igualdad en el acceso a los derechos sociales y el pleno disfrute de éstos, serán objetivos de las entidades públicas estatales y municipales, en el ámbito de su competencia:
+
+I. Asegurar el conocimiento, la aplicación y difusión de la legislación existente en el ámbito del desarrollo social;
+
+II. Integrar la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y
+
+III. Evaluar permanentemente las políticas de prevención, atención, sanción y eliminación de la violencia de género de acuerdo a los lineamientos de la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 29.
 
-En caso de empate en la votación, el Presidente del Consejo del Instituto tiene voto de calidad.
+Para efectos de lo previsto en el artículo anterior, las entidades públicas, en el ámbito de su competencia, desarrollarán las siguientes acciones:
+
+I. Dar seguimiento y evaluar, la aplicación en el ámbito estatal, de la legislación existente en el ámbito del desarrollo social, en armonía con los instrumentos internacionales;
+
+II. Promover la difusión y el conocimiento de la legislación y la jurisprudencia en la materia;
+
+III. Promover en la sociedad, el conocimiento de sus derechos y los mecanismos para su exigibilidad;
+
+IV. Integrar el principio de igualdad sustantiva en el ámbito de la protección social;
+
+V. Generar los mecanismos necesarios para garantizar que la política en materia de desarrollo social se conduzca con base en la realidad social de la desigualdad de géneros;
+
+VI. Impulsar iniciativas destinadas a favorecer la promoción específica de la salud, educación y formación integral de las mujeres y hombres;
+
+VII. Integrar el principio de igualdad sustantiva en la formación del personal del servicio de salud, para atender situaciones de violencia de género;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VIII. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la vida familiar y en la atención de las personas dependientes de ellos.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
+
+IX. Incorporar la progresividad de los servicios de cuidado y atención del desarrollo integral de las niñas y los niños.
 
 ###### Artículo 30.
 
-Las actas de las sesiones del Consejo, deberán ser suscritas por todos los asistentes.
+Con el fin de promover y procurar la igualdad sustantiva de mujeres y hombres en el ámbito civil, los entes públicos velarán por los siguientes objetivos:
+
+I. Evaluar la legislación en materia de igualdad entre mujeres y hombres;
+
+II. Promover los derechos específicos de las mujeres como derechos humanos universales; y
+
+III. Erradicar las distintas modalidades de violencia de género.
 
 ###### Artículo 31.
 
-Cuando alguno de los consejeros ciudadanos y su suplente llegara a faltar, injustificadamente, a dos reuniones ordinarias en un año, el Consejo podrá nombrar directamente y sin necesidad de convocatoria a la persona que en lo sucesivo representará al sector de que se trate.
+Para efecto de lo previsto en el artículo anterior, las entidades públicas estatales y municipales, en el ámbito de su competencia, desarrollarán las siguientes acciones:
 
-### Capítulo III.
+I. Mejorar los sistemas de inspección del trabajo en lo que se refiere a las normas sobre la igualdad de retribución;
 
-De las Consultas y Propuestas Ciudadanas.
+II. Llevar a cabo investigaciones con perspectiva de género, en materia de salud y de seguridad en el trabajo;
+
+III. Capacitar a las autoridades encargadas de la procuración y administración de justicia, en materia de igualdad entre mujeres y hombres;
+
+IV. Promover la participación e interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+
+V. Reforzar con las organizaciones de la sociedad civil y organizaciones internacionales de participación para el desarrollo, los mecanismos de cooperación en materia de derechos humanos e igualdad entre mujeres y hombres;
+
+VI. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado;
+
+VII. Garantizar la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+VIII. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares; y
+
+IX. Generar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
+
+### Capítulo Tercero. Del Programa Estatal de Igualdad Sustantiva entre Mujeres y Hombres
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 32.
 
-Para conocer las necesidades, propuestas y proyectos culturales de los ciudadanos de Ensenada, el Consejo convocara a asambleas de consulta en las regiones, delegaciones, comunidades, colonias y los diversos sectores de la comunidad cultural.
+Las entidades públicas estatales y municipales, tendrán entre sus objetivos la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
 
 ###### Artículo 33.
 
-Según la prioridad y factibilidad de las propuestas o proyectos comunitarios, el Consejo elaborará la propuesta correspondiente para someterla a consideración del H Ayuntamiento, para que éste lo incorpore a los programas de cultura municipal. De igual manera, el Consejo podrá hacer recomendaciones al Director del Instituto, para su inmediata atención.
+Las instituciones educativas públicas y privadas, así como las autoridades educativas, están obligadas a proponer incluir en los planes de estudio, prácticas de docencia que erradiquen estereotipos de género, raciales y otros sesgos culturales en contra de las mujeres, así como promover las relaciones de apoyo mutuo entre mujeres y hombres.
 
 ###### Artículo 34.
 
-En caso de proyectos comunitarios prioritarios y no considerados dentro del presupuesto correspondiente al ejercicio en curso del Instituto, el Consejo gestionará ante el Cabildo lo autorización de partidas presupuestales complementarias o bien promoverán patrocinios paro su debida realización.
+Para efecto de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Implementar y promover acciones para erradicar toda discriminación, basada en estereotipos en función del género;
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+III. Garantizar la integración de la perspectiva de género en la política pública del Estado de Querétaro; y
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales.
+
+### Capítulo Séptimo. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
 
 ###### Artículo 35.
 
-El Consejo, previo acuerdo de sus miembros podrá organizar Asambleas Ciudadanas de Consulta y para que éstas tengan validez deberán contar con la asistencia de por lo menos tres de sus integrantes, mismas que serán presididas por el consejero que para el efecto sea comisionado.
+Toda persona tendrá derecho a que las autoridades y organismos públicos estatales y municipales, previo cumplimiento de los requisitos que la ley de la materia establezca, le proporcionen la información que les solicite sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
 
-### Capítulo IV.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-De los informes del Consejo del Instituto.
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 36.
 
-El Consejo del Instituto deberá emitir un informe sobre lo tratado en cada una de sus sesiones, tanto ordinarias como extraordinarias, con base en sus minutas, con el fin de instruir sobre todos sus acuerdos a la Dirección del Instituto para su debido cumplimiento.
+La persona titular del Poder Ejecutivo del Estado de Querétaro, por conducto de la Secretaría de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
 
 ###### Artículo 37.
 
-El Consejo del Instituto deberá girar una copia de las minutas y los informes de sus sesiones a los miembros del Cabildo y al Subcomité Sectorial de Cultura del Copladem.
+Los acuerdos y convenios que en materia de igualdad celebren el Gobierno del Estado de Querétaro y sus dependencias, con los sectores público, social o privado, podrán versar sobre todos los aspectos considerados en los instrumentos de política sobre igualdad, así como coadyuvar en labores de vigilancia y demás acciones operativas previstas en esta Ley.
 
-## Título Tercero
+## Título Sexto. De la vigilancia en materia de igualdad sustantiva entre mujeres y hombres
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2011)</small>
+### Capítulo Primero. Del seguimiento, evaluación y monitoreo
 
-### Capítulo I.. De la organización administrativa del Instituto
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+## Título Tercero. De la política en materia de igualdad sustantiva
+
+### Capítulo Segundo. De la igualdad sustantiva entre mujeres y hombres en materia económica
 
 ###### Artículo 38.
 
-El Instituto será administrado y operado por un Director General y para el mejor desempeño de su labor contará con el personal que permita la capacidad operativa, administrativa y financiera del propio Instituto.
+La Secretaría de las Mujeres, con base en lo dispuesto en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-El Instituto para el desempeño de sus funciones contará con la siguiente estructura orgánica:
+La Secretaría de las Mujeres contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres y el efecto de las políticas públicas aplicadas en esta materia en el Estado de Querétaro.
 
-I. Sub Dirección Operativo;
+### Capítulo Tercero. De la participación y representación política equilibrada de las mujeres y los hombres
 
-II. Sub Dirección de Casas de la Cultura;
+###### Artículo 40.
 
-III. Coordinación Administrativa;
+La vigilancia en materia de igualdad sustantiva entre mujeres y hombres consistirá en:
 
-IV. Coordinación de Patrimonio Cultural y Archivo Histórico;
+I. Recibir información sobre medidas y actividades que pongan en marcha los sectores público y privado en materia de igualdad entre mujeres y hombres;
 
-V. Coordinación de Difusión Cultural y Bibliotecas Públicas Municipales;
+II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a las mujeres y los hombres en materia de igualdad sustantiva;
 
-Las funciones específicas de los órganos del Instituto serán establecidas en su Reglamento Interno.
+III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad sustantiva;
 
-T R A N S I T O R I O S (SIC)
+IV. Difundir información sobre los diversos aspectos relacionados con la igualdad sustantiva entre mujeres y hombres; y
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+V. Las demás acciones que sean necesarias para cumplir los objetivos de esta Ley.
 
-Dado en la Sala Emmer del área de Regidores del XVIII Ayuntamiento Municipal de Ensenada, Baja California a los 14 días del mes de mayo de 2007.
+### Capítulo Segundo. De las sanciones
 
-QUIM. CESAR MANCILLAS AMADOR
+###### Artículo 41.
 
-PRESIDENTE MUNICIPAL DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
+La violación a los principios y programas que esta Ley prevé, por parte de las autoridades estatales y municipales, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado de Querétaro.
 
-LIC. JULIO CESAR ARENAS RUIZ
+## TRANSITORIOS
 
-SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía de este ordenamiento legal.
 
-P.O. 26 DE AGOSTO DE 2011.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA Y PUBLIQUE.
 
-PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Oficial del Estado de Baja California, para efectos de entrar en vigor al día siguiente de su publicación.
+DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS TREINTA Y UN DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DOCE.
 
-SEGUNDO.- En un término no mayor a 60 días naturales a partir de la entrada en vigor de la presente reforma, el Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada deberá elaborar y aprobar el Reglamento Interno del Instituto.
+ATENTAMENTE
 
-TERCERO.- A partir de la entrada en vigor de la presente reforma la Dirección de Educación deberá iniciar la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Dirección haya utilizado para la atención de las Bibliotecas Públicas Municipales, estableciéndose como fecha límite para concluir el proceso referido el 31 de Diciembre de 2011; Asimismo en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio Fiscal 2012 del Instituto Municipal de Cultura y Desarrollo Humano, deberá incluirse el recurso necesario para la operatividad de las Bibliotecas Públicas Municipales, tomando como referencia el recurso asignado para tal efecto por la Dirección de Educación conforme al Presupuesto de Egresos del Ejercicio Fiscal 2011, a la cual consecuentemente le será disminuido el recurso aportado al Instituto para los fines señalados; lo anterior sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO MESA DIRECTIVA
 
-CUARTO.- La administración de la Casa de la Cultura quedará a cargo de la Administración Central hasta el 31 de Diciembre de 2011, fecha que se establece como límite para que la Dirección de Casa de la Cultura transfiera al Instituto de Cultura y Desarrollo Humano de Ensenada, el mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Casa de la Cultura haya utilizado para la atención de sus funciones. Por lo que en el Presupuesto de Egresos del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada para el ejercicio fiscal 2012, deberán incluirse los recursos de las partidas que ejerce la Dirección de Casa de la Cultura, conforme el Presupuesto de Egresos del ejercicio fiscal 2011, sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+DIP. HIRAM RUBIO GARCÍA
 
-QUINTO.- En la primera Sesión Ordinaria del Consejo del Instituto deberá tomarse protesta a los nuevos Consejeros establecidos en la presente reforma, en el entendido de que los Consejeros ciudadanos durarán en su encarga (sic) hasta la renovación del Consejo, en los términos del Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+PRESIDENTE
 
-SEXTO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
+Rúbrica
+
+DIP. ANTONIO CABRERA PÉREZ
+
+SEGUNDO SECRETARIO
+
+Rúbrica
+
+Lic. José Eduardo Calzada Rovirosa, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado de Querétaro, y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, expido y promulgo la presente LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO.
+
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día veintinueve del mes de agosto del año dos mil doce, para su publicación y observancia.
+
+Lic. José Eduardo Calzada Rovirosa
+
+Gobernador Constitucional del Estado de Querétaro
+
+Rúbrica
+
+Lic. Jorge López Portillo Tostado
+
+Secretario de Gobierno
+
+Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2016.
+
+### Capítulo Cuarto. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrara en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase la presente al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES CON MOTIVO DE LA CREACIÓN DE LA SECRETARÍA DE LAS MUJERES"]
+
+Artículo Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. La presente Ley entrará en vigor a partir del 01 de enero del año 2025.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Se deberán realizar las gestiones administrativas que correspondan ante la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para el cumplimiento de lo previsto en la presente Ley, a fin de que ésta contemple y asigne los recursos correspondientes conforme a la autorización y disponibilidad con que se cuente para la operación de la Secretaría de las Mujeres, dentro del Decreto del Presupuesto de Egresos del Estado de Querétaro del Ejercicio Fiscal 2025 y ejercicios fiscales subsecuentes que correspondan, de conformidad con las disposiciones jurídicas aplicables.
+
+Artículo Quinto. A la entrada en vigencia de la presente Ley, se trasladarán los recursos materiales, humanos y financieros con los que cuenta el Instituto Queretano de las Mujeres a la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de las Mujeres, se trasladarán al Poder Ejecutivo del Estado de Querétaro, para el funcionamiento de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Sexto. A partir de la entrada en vigencia de la presente Ley todas las referencias en las disposiciones jurídicas y administrativas del Instituto Queretano de las Mujeres, se entenderán realizadas en lo conducente a favor de la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+No obstante, las disposiciones administrativas tales como Reglamentos, Lineamientos o Manuales que regulen el funcionamiento de (sic) Instituto Queretano de las Mujeres, seguirán vigentes hasta en tanto se emitan las disposiciones que las sustituyan, en todo aquello que no se oponga a lo dispuesto en la presente Ley.
+
+Artículo Octavo. Los programas, procedimientos, trámites que hasta antes de la entrada en vigor de la presente Ley hayan sido iniciados, aprobados y ejecutados por el Instituto Queretano de las Mujeres, serán sustanciados y concluidos con todos sus alcances, efectos y facultades por la Secretaría de las Mujeres del Poder Ejecutivo del Estado de Querétaro, atendiendo a su competencia.
+
+Artículo Noveno. Para los efectos legales a que haya lugar, la Secretaría de las Mujeres sustituirá al Instituto Queretano de las Mujeres, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por este último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la referida Secretaría.
+
+Artículo Décimo. El organismo descentralizado denominado Instituto Queretano de las Mujeres, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a favor del Poder Ejecutivo del Estado de Querétaro para las funciones inherentes a la Secretaría de las Mujeres.
+
+Artículo Décimo Primero. Todas las obligaciones, procedimientos jurisdiccionales pendientes de concluir, pasivos y demás cargas que a la entrada en vigor de la presente Ley estén a cargo del Instituto Queretano de las Mujeres serán asumidos por el Poder Ejecutivo del Estado de Querétaro.
+
+### Capítulo Quinto. De la igualdad entre mujeres y hombres en el ámbito civil
+
+### Capítulo Sexto. De la eliminación de estereotipos establecidos en función del género
