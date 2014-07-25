@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2011-08-26"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -353,7 +353,7 @@ En el tiempo en que se renueve a los integrantes ciudadanos del Consejo, las ins
 
 La convocatoria para renovación de los representantes ciudadanos del Consejo, se emitirá cada tres años, de conformidad con las siguientes bases:
 
-Todos los aplicantes (sic) deberán cumplir con los siguientes requisitos:
+Todos los aplicantes deberán cumplir con los siguientes requisitos:
 
 I. Ser mexicano.
 
@@ -589,10 +589,28 @@ PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Ofi
 
 SEGUNDO.- En un término no mayor a 60 días naturales a partir de la entrada en vigor de la presente reforma, el Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada deberá elaborar y aprobar el Reglamento Interno del Instituto.
 
-TERCERO.- A partir de la entrada en vigor de la presente reforma la Dirección de Educación deberá iniciar la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Dirección haya utilizado para la atención de las Bibliotecas Públicas Municipales, estableciéndose como fecha límite para concluir el proceso referido el 31 de Diciembre de 2011; Asimismo en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio Fiscal 2012 del Instituto Municipal de Cultura y Desarrollo Humano, deberá incluirse el recurso necesario para la operatividad de las Bibliotecas Públicas Municipales, tomando como referencia el recurso asignado para tal efecto por la Dirección de Educación conforme al Presupuesto de Egresos del Ejercicio Fiscal 2011, a la cual consecuentemente le será disminuido el recurso aportado al Instituto para los fines señalados; lo anterior sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
-CUARTO.- La administración de la Casa de la Cultura quedará a cargo de la Administración Central hasta el 31 de Diciembre de 2011, fecha que se establece como límite para que la Dirección de Casa de la Cultura transfiera al Instituto de Cultura y Desarrollo Humano de Ensenada, el mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Casa de la Cultura haya utilizado para la atención de sus funciones. Por lo que en el Presupuesto de Egresos del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada para el ejercicio fiscal 2012, deberán incluirse los recursos de las partidas que ejerce la Dirección de Casa de la Cultura, conforme el Presupuesto de Egresos del ejercicio fiscal 2011, sin menoscabo de los aumentos que pudieran considerarse y/o del presupuesto propio del Instituto.
+TERCERO.- A partir de la entrada en vigor de la presente reforma la Dirección de Educación deberá iniciar la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Dirección haya utilizado para la atención de las Bibliotecas Públicas Municipales, estableciéndose como fecha límite para concluir el proceso referido el 31 de Diciembre de 2014; Asimismo, en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberá incluirse el recurso necesario para la operatividad de las Bibliotecas Públicas Municipales, tomando como referencia el recurso asignado para tal efecto por la Dirección de Educación conforme al Presupuesto de Egresos del Ejercicio Fiscal 2014, a la cual consecuentemente le será disminuido el recurso aportado al instituto para los fines señalados; lo anterior, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
+
+Por lo que hace al personal de las Bibliotecas Públicas Municipales, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
+
+CUARTO.- La administración de las Casas de la Cultura quedará a cargo de la administración central hasta el 31 de Diciembre de 2014, fecha límite para la realización de las transferencias a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Casas (sic) de la Cultura haya utilizado para la atención de sus funciones, por lo que en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberán incluirse los recursos de las partidas presupuestales que ejerce la Dirección de Casas de la Cultura conforme el Presupuesto de Egresos del ejercicio fiscal 2014, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
+
+Por lo que hace al personal de las Casas de la Cultura, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
+
+CUARTO BIS.- La Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, quedarán a cargo de la administración central hasta el 31 de Diciembre de 2014, fecha límite para la realización de la transferencia a favor del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, del mobiliario, vehículos, instrumentos, maquinaria, archivos, y en general los recursos que la Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, hayan utilizado para la atención de sus funciones, por lo que en el subsidio que aporte el Municipio de Ensenada al Presupuesto de Egresos para el Ejercicio fiscal 2015 del Instituto Municipal de Cultura y Desarrollo Humano, deberán incluirse los recursos de las partidas presupuestales que ejerce la administración pública municipal por conducto de los entes que correspondan, conforme al Presupuesto de Egresos del ejercicio fiscal 2014, sin menoscabo de los aumentos que pudieran considerarse en el subsidio asignado al propio del Instituto.
+
+Por lo que hace al personal de la Hemeroteca Pública "Francisco Vargas Bañaga" y el Archivo Histórico de Ensenada, deberán realizarse los movimientos que correspondan para efecto de que presten sus servicios en favor del Instituto, sin perjuicio de sus derechos laborales.
 
 QUINTO.- En la primera Sesión Ordinaria del Consejo del Instituto deberá tomarse protesta a los nuevos Consejeros establecidos en la presente reforma, en el entendido de que los Consejeros ciudadanos durarán en su encarga (sic) hasta la renovación del Consejo, en los términos del Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
 
 SEXTO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
+
+P.O. 25 DE JULIO DE 2014.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL.
