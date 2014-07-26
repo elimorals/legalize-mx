@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mecenazgo-cultural-del-estado-de-jalisco-101412"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-14"
-last_updated: "2014-06-14"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JULIO DE 2014.</small>
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 14 de junio de 2014.
 
@@ -105,9 +105,11 @@ VI.- Informar en el portal de (sic) oficial de la Secretaría de Cultura, a los 
 
 VII.- Establecer un sistema para el control de las rendiciones que deben presentar los beneficiarios.
 
+> <small>(F. DE E., P.O. 26 DE JULIO DE 2014)</small>
+
 ###### Artículo 9.
 
-Los beneficiarios tienen la obligación de presentar un informe trimestral a la Dirección explicando los gastos realizados hasta el momento y el avance en la ejecución del proyecto.
+Los beneficiarios tienen la obligación de presentar un informe trimestral a la Secretaría explicando los gastos realizados hasta el momento y el avance en la ejecución del proyecto.
 
 ###### Artículo 10.
 
