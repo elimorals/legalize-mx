@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2014-05-31"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -41,7 +41,7 @@ CONSTITUCION POLITICA del Estado Libre y soberano de Colima
 
 De los Derechos Humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
 
 ### CAPITULO II.
 
@@ -739,7 +739,9 @@ XII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de s
 
 XIII.- Transmitir órdenes a las policías preventivas municipales sólo en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-XIV.- Conceder indultos y reducir y conmutar penas conforme a la ley.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
+
+XIV.- Conceder indultos conforme a la ley;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
 
@@ -923,15 +925,21 @@ La estructura orgánica de la Administración Pública del Estado y las funcione
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Juzgados de Paz y en los demás órganos auxiliares de la administración de justicia que señale la ley.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Juzgados especializados en justicia para adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Juzgados de Paz, y los demás órganos auxiliares de la administración de justicia que señale su Ley Orgánica.
 
-La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
+La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y Juzgados, y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta, con apego a los principios rectores de la carrera judicial como lo son la excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
 Los recintos del pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
@@ -944,6 +952,18 @@ El Supremo Tribunal de Justicia funcionará en pleno o en sala colegiada y estar
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
 
 En los términos establecidos por dicho ordenamiento, la representación y buena marcha del Poder Judicial corresponden al Magistrado Presidente del Supremo Tribunal de Justicia del Estado, quien será elegido por el Pleno para un período de dos años y podrá ser reelecto.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+El Poder Judicial del Estado contará con un Centro Estatal de Justicia Alternativa y resolución de conflictos, el cual actuará bajo los principios de equidad, imparcialidad, celeridad, profesionalismo, confidencialidad y gratuidad, de conformidad con lo que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+El Director General del Centro Estatal de Justicia Alternativa y resolución de conflictos será nombrado por el Pleno del Supremo Tribunal de Justicia del Estado a propuesta de su Presidente; para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores o árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+Tratándose de la materia penal, los mecanismos alternativos de solución de conflictos se regirán por las bases y lineamientos que establece la Constitución Política de los Estados Unidos Mexicanos y demás legislación aplicable.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -998,6 +1018,14 @@ Si faltare un Magistrado por defunción o por cualquier causa de separación def
 ###### Artículo 71.
 
 Los jueces de primera instancia, los de paz y los que con cualquier otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando las normas y requisitos que establece la Ley Orgánica respectiva.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+La administración de justicia en primera instancia estará a cargo de jueces. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales. Los juzgados de primera instancia residirán en la cabecera de distrito o región que señale la Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+En materia penal la primera instancia corresponde, además, a los jueces de control, tribunales de enjuiciamiento, y Juzgados de ejecución de penas y medidas de seguridad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 1988)</small>
 
@@ -1083,7 +1111,7 @@ Los magistrados rendirán su protesta ante el H. Congreso del Estado, en sesión
 
 Durante el ejercicio de su encargo los miembros del Poder Judicial no podrán ejercer la profesión de abogado ni las funciones de notario público, salvo que estén desempeñando el cargo con el carácter de suplente y por un término que no exceda de tres meses.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 26 DE JULIO DE 2014)</small>
 
 ## TITULO V.
 
@@ -1133,7 +1161,13 @@ El Ministerio Público es la institución única, indivisible y de buena fe, que
 
 El Ministerio Público tendrá un titular que se denominará Procurador General de Justicia del Estado, auxiliado por los agentes y demás personal que señale su ley orgánica.
 
-Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría contará con un cuerpo policíaco de investigación que estará bajo el mando directo del Ministerio Público.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+
+Para el esclarecimiento de los hechos que puedan tener el carácter de delictivos, así como para la persecución de las personas que hayan intervenido en su realización, la Procuraduría contará con un cuerpo facultado de investigación, que actuará bajo la conducción y mando del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
+
+Los elementos policiacos del sistema de seguridad pública, estarán facultados para intervenir en la investigación de los delitos, en los términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -1157,11 +1191,17 @@ El nombramiento y remoción de los demás servidores públicos de esta Instituci
 
 Para ser Procurador General de Justicia y Sub-Procurador se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, a excepción de la edad, que no será menor de 30 años y, del título profesional de licenciado en derecho, con antigüedad mínima de cinco años, expedida (sic) por autoridad o institución legalmente facultada para ello.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
 
 ###### Artículo 84.
 
-La Defensoría de Pública es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa jurídica necesaria en materia penal a las personas que carecen de defensor particular; y el asesoramiento jurídico en asuntos civiles, administrativos, mercantiles, agrarios y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+La Defensoría Pública, es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa jurídica necesaria en materia penal a las personas imputadas que carecen de defensor particular; y la orientación, representación y asesoramiento jurídico en asuntos del orden civil, familiar, administrativo, mercantil, agrario y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+
+La Dirección General de Defensoría Pública y Asesoría Jurídica del Estado de Colima, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a personas en situación de vulnerabilidad, que no se encuentra en condiciones económicas de erogar por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la Defensoría Pública y Asesoría Jurídica del Estado de Colima regirá lo respectivo a su organización, atribuciones y funcionamiento, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
+
+La prestación del servicio de defensoría pública y asesoría jurídica estará a cargo de la Dirección General de la Defensoría Pública y Asesoría Jurídica del Estado, órgano del Poder Ejecutivo, con autonomía técnica y de gestión.
+
+Las percepciones de los defensores públicos y asesores jurídicos no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -2207,7 +2247,7 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 
 ###### Artículo 1°.
 
-El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y los establecidos en esta Constitución.
+El Estado de Colima reconoce, promueve, respeta, protege y garantiza los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -2289,9 +2329,9 @@ Asimismo tiene derecho, en la forma y términos que establezca la ley, a resolve
 
 Los menores que cometan una infracción a las leyes penales serán objeto de un sistema integral de procuración e impartición de justicia, a cargo de Instituciones, tribunales y autoridades especializados, en el que se garanticen los derechos fundamentales que les reconoce la Constitución Federal, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Los menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
 
-El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación. En todo proceso del orden penal, el inculpado, la víctima y el ofendido tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
+En el Estado de Colima el proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación, y demás bases y lineamientos establecidos en la Constitución Federal. En todo proceso del orden penal, el imputado, la víctima y el ofendido gozarán de los derechos fundamentales y las garantías para hacerlos efectivos que les otorgan la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de que el Estado Mexicano sea parte, esta Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -2319,9 +2359,9 @@ XI.- Toda persona tiene derecho a vivir en un medio ambiente sano y seguro para 
 
 El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
 
-XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa del Estado y de los Municipios, tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
+XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2012)</small>
 
@@ -3210,6 +3250,26 @@ CUARTO.- La reforma al tercer párrafo, de la fracción I, del artículo 87 de e
 QUINTO.- De conformidad con lo que dispone el primer párrafo del artículo 86 BIS del presente Decreto, la celebración de las elecciones locales se celebrarán el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del año 2015, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo de julio.
 
 SEXTO.- En virtud del principio de paridad de género en la designación de candidaturas a Diputados locales, dispuesto en la fracción I, del artículo 86 BIS del presente Decreto, los Partidos Políticos deberán tomar las previsiones necesarias que garanticen su cumplimiento.
+
+P.O. 26 DE JULIO DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 328 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de ciento ochenta días contados a partir de la publicación del presente Decreto en el Periódico Oficial, se llevarán a cabo las modificaciones necesarias para adecuar los ordenamientos jurídicos respectivos relativos al Nuevo Sistema de Justicia Penal de Corte Acusatorio Adversarial.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que respecta al inicio de vigencia de las normas jurídicas relativas al Nuevo Sistema de Justicia Penal de Corte Acusatorio Adversarial, se estará a lo establecido en los términos, condiciones, modalidades y fechas que para tal efecto se determine en la publicación de la declaratoria de adopción del sistema procesal acusatorio en los partidos judiciales del Estado que en la misma se determine.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la reforma del sistema de justicia penal y de seguridad pública del Estado, a través de las erogaciones plurianuales que deberán señalarse en forma expresa en el Presupuesto General de Egresos del Estado del ejercicio presupuestal inmediato siguiente a la entrada en vigor del presente Decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones plurianuales deberán aplicarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura y la capacitación necesarias.
 
 ###### ARTÍCULO ÚNICO.
 
