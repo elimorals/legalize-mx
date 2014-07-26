@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-patronato-para-administrar-el-impuesto-especial-11836"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-29"
-last_updated: "2008-12-20"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT -ANTES LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ADICIONAL DEL 10% DESTINADO A LA UAN
 
-LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTONOMA DE NAYARIT
+LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1995.
 
@@ -47,13 +47,17 @@ LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSID
 
 ### CAPITULO I. Objeto y fines
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 1o.
 
-Es objeto del impuesto adicional destinado a la Universidad Autónoma de Nayarit, el pago de impuestos, de derechos y productos establecidos y los que llegaren a establecerse en las leyes fiscales, tanto del Estado como de los Municipios.
+Es objeto del impuesto especial destinado a la Universidad Autónoma de Nayarit, el pago de impuestos, de derechos y productos establecidos y los que llegaren a establecerse en las leyes fiscales, tanto del Estado como de los Municipios.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 Este impuesto se causará y pagará a la tasa del 12%.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 El producto de este impuesto será destinado íntegramente a fomentar e incrementar el patrimonio de la Universidad Autónoma de Nayarit y al financiamiento de sus actividades académicas, de extensión, vinculación e investigación.
 
@@ -63,21 +67,31 @@ El producto de este impuesto será destinado íntegramente a fomentar e incremen
 
 Son sujetos de este impuesto, las personas físicas o morales obligadas al pago de impuestos, de derechos y productos de carácter estatal y municipal.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 3o.
 
-El impuesto adicional será recaudado por las oficinas receptoras simultáneamente con el entero del gravamen principal, haciendo constar tal circunstancia en los recibos oficiales que se expidan. El importe se concentrará en la Secretaría de Finanzas del Poder Ejecutivo.
+El impuesto especial será recaudado por las oficinas receptoras simultáneamente con el entero del gravamen principal, haciendo constar tal circunstancia en los recibos oficiales que se expidan.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 4o.
 
-El monto del impuesto adicional será destinado única y exclusivamente para los siguientes fines:
+El monto del impuesto especial será destinado única y exclusivamente para los siguientes fines:
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 I.- Fomentar el financiamiento de planes y programas de investigación y proyectos que sean productivos, rentables o recuperables, siempre que tengan relación con el desarrollo económico y social del Estado;
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 II.- Desarrollar actividades científicas, editoriales y tecnológicas de la Universidad;
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 III.- Eficientar al servicio social;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 IV.- Adquisiciones, servicios, arrendamientos y obra, reparación y equipamiento de la infraestructura de la Universidad, siempre que se reúnan los requisitos siguientes:
 
@@ -85,17 +99,33 @@ a) Que exista acuerdo unánime de los miembros del Patronato; y
 
 b) Que la contratación se lleve a cabo mediante los procedimientos que establezca la ley de la materia.
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 V.- Financiamiento de actividades académicas, deportivas, artísticas y culturales;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 VI.- Otorgamiento de becas; y
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+
 VII.- Para cubrir los gastos de administración y funcionamiento del patronato, con el acuerdo unánime de los miembros del patronato.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 5o.
 
-El monto del Impuesto Adicional, será entregado mensualmente por conducto de la Secretaría de Finanzas, extendiéndose las constancias de recepción respectivas.
+El monto del impuesto especial, será recaudado y enterado de conformidad a las siguientes disposiciones:
 
-El Presidente y el Tesorero del Patronato llevarán solidaria y común responsabilidad en la recepción, custodia, ejercicio y control de los recursos que maneje el Patronato
+I.- Las recaudadoras deben enterar el impuesto al Patronato, en un plazo máximo de cinco días hábiles después de cada mes recaudado.
+
+II.- Es obligación de los recaudadores de este impuesto contar con una cuenta bancaria específica para la recepción del ingreso y previa autorización de la autoridad correspondiente otorgar mandato especial e irrevocable a la institución bancaria en la que se aperture dicha cuenta, facultándola para transferir la totalidad de los saldos disponibles a la cuenta bancaria y número de referencia que proporcione el Patronato;
+
+III.- Las recaudadoras presentarán dentro de los cinco primeros días hábiles de cada mes, un informe ante el Patronato que registre las operaciones realizadas y el monto al que asciende los enteros realizados durante el mes inmediato anterior;
+
+IV.- Los informes a los que hace referencia la fracción anterior, además deberán formar parte del avance de gestión financiera que rinden trimestralmente las autoridades recaudadoras al Órgano de Fiscalización Superior del Estado, y
+
+V.- El incumplimiento a las disposiciones previstas en el presente artículo constituirán conductas ilícitas que serán sancionadas de conformidad al tipo penal en el que encuadre la conducta del infractor. Lo anterior, sin perjuicio de las responsabilidades políticas o administrativas a que haya lugar.
 
 ### CAPITULO II. Del Patronato
 
@@ -163,13 +193,15 @@ Las faltas justificadas serán informadas con la debida anticipación; si un rep
 
 ### CAPITULO III. Atribuciones del Patronato
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 11.
 
 Son atribuciones del Patronato:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
 
-I.- Recibir, concentrar y administrar los recursos económicos derivados de la recaudación del impuesto del 12% adicional;
+I.- Recibir, concentrar y administrar los recursos económicos derivados de la recaudación del impuesto especial del 12%;
 
 II.- Formar y controlar el inventario de los bienes que formen el Patronato;
 
@@ -191,9 +223,9 @@ VIII.- Fomentar las actividades científicas y tecnológicas de acuerdo con los 
 
 IX.- Celebrar convenios y contratos relacionados con su objeto;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
 
-X.- Promover instrumentos de inversión financiera y productiva respecto de los recursos universitarios provenientes del impuesto adicional del 12%;
+X.- Promover instrumentos de inversión financiera y productiva respecto de los recursos universitarios provenientes del impuesto especial del 12%;
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -280,3 +312,17 @@ P.O. 20 DE DICIEMBRE DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- El Patronato Administrador del Impuesto Especial deberá realizar las adecuaciones pertinentes al reglamento de la presente Ley, dentro de los 60 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 26 DE JULIO DE 2014.
+
+Primero.-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con las salvedades de las siguientes disposiciones.
+
+Segundo.- El Patronato en un plazo no mayor a cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, comunicará a las autoridades recaudadoras, las referencias con los números de cuenta y las instituciones bancarias correspondientes.
+
+Tercero.- El Patronato por conducto de su representante legal, podrá convenir con las autoridades recaudadoras, la forma y plazos para saldar los montos que no se hayan enterado hasta antes de la entrada en vigor de la presente reforma.
+
+Cuarto.- Se derogan todas las disposiciones contenidas en diversos ordenamientos legales que se opongan al presente Decreto.
+
+Quinto.- Dentro de los quince días hábiles siguientes a la entrada en vigor del presente decreto, los ayuntamientos por conducto de las tesorerías municipales deberán informar al Patronato los montos recaudados durante el ejercicio fiscal en curso, así como los cinco ejercicios fiscales inmediatos anteriores y en su caso los montos pendientes de enterar.
+
+Sexto.- Dentro de un plazo no mayor a 20 días hábiles contados a partir de la entrada en vigor de la presente reforma, las recaudadoras deberán suscribir con las instituciones bancarias de su elección el contrato de mandato especial e irrevocable. Dicho plazo, previo aviso al Patronato, podrá prorrogarse por 15 días hábiles adicionales, pero invariablemente los recursos deberán enterarse en su totalidad a la cuenta bancaria que proporcionará el Patronato.
