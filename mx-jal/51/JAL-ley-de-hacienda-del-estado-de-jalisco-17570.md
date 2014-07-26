@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2014-06-14"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 26 DE JULIO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -571,7 +571,9 @@ Artículo 44 bis. Los contribuyentes que otorguen mecenazgos para la creación, 
 
 I. Solo podrá accederse a este incentivo fiscal si el contribuyente se encuentra al corriente del pago de las demás obligaciones tributarias que esta ley le establezca;
 
-II. El monto total del estímulo fiscal anual a distribuir no excederá de la seismilésima parte (0.006%) del total del Presupuesto del Gobierno del Estado;
+> <small>(F. DE E., P.O. 26 DE JULIO DE 2014)</small>
+
+II. El monto total del estímulo fiscal anual a distribuir no excederá del (0.006%) del total del Presupuesto de Egresos del Gobierno del Estado, aprobado por el Congreso;
 
 III. El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de siete mil setecientos cincuenta días de salario mínimo general en el municipio de Guadalajara por creador ni por proyecto;
 
@@ -581,7 +583,9 @@ V. El contribuyente que otorgue el apoyo solo podrá obtener reconocimiento por 
 
 Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor y los que señale la Ley de Mecenazgo Cultural del Estado de Jalisco.
 
-Los apoyos serán inembargables, podrán proporcionarse en dinero o en especie y el contribuyente deberá entregarlo por conducto de la Dirección de Fomento, Mecenazgo y Relaciones Públicas de la Secretaría de Cultura del Estado de Jalisco conforme a las reglas de operación que se expidan.
+> <small>(F. DE E., P.O. 26 DE JULIO DE 2014)</small>
+
+Los apoyos serán inembargables, podrán proporcionarse en dinero o en especie y el contribuyente deberá entregarlo por conducto de la Secretaría de Cultura del Estado de Jalisco conforme a las reglas de operación que este organismo expida.
 
 La Secretaría de Planeación, Administración y Finanzas del Estado, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
