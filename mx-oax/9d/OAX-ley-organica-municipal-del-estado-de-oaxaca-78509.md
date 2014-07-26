@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2013-12-31"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -751,7 +751,7 @@ XVII.- Limpia y Disposiciones de Residuos Sólidos;
 
 XVIII.- Gaceta Municipal y Publicaciones;
 
-XIX.- Transparencia y Acceso a la Información y (sic)
+XIX.- Transparencia y Acceso a la Información y
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -849,7 +849,7 @@ II.- Tratándose de particulares, deberán acreditar su vecindad;
 
 III.- Nombre, domicilio y cargo que desempeñe en el ayuntamiento, la persona o personas en contra de las cuales se dirige la pretensión;
 
-IV.- El o los actos en que se funda la solicitud; y (sic)
+IV.- El o los actos en que se funda la solicitud; y
 
 V.- Las pruebas que sirven de base a la petición y anunciar aquéllas que requieren término para su desahogo;
 
@@ -961,7 +961,11 @@ XVI.- Informar durante las sesiones ordinarias del Ayuntamiento sobre el estado 
 
 XVII.- Vigilar la correcta administración del patrimonio municipal;
 
-XVIII.- Expedir licencias, permisos o autorizaciones para el funcionamiento de comercios, espectáculos, bailes y diversiones públicas en general, previo dictamen de las comisiones respectivas;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
+
+XVIII.- Expedir licencias, permisos o autorizaciones para el funcionamiento de comercios, espectáculos, bailes y diversiones públicas en general, previo dictamen de las comisiones respectivas, en la expedición de licencias para el funcionamiento de cualquier entidad financiera, esta deberá contar con la autorización correspondiente por la Comisión Nacional Bancaria y de Valores.
+
+En caso de no contar con esta autorización, se le negará la licencia para su instalación y se deberá notificar a la Comisión Nacional Bancaria y de Valores, para que ejerza sus facultades de acuerdo a la legislación procedente,
 
 XIX.- Expedir licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo y con apego a la Ley Estatal de Salud;
 
@@ -2108,3 +2112,7 @@ P.O. 31 DE DICIEMBRE DE 2013.
 DECRETO NÚMERO 22, POR EL QUE SE REFORMAN LOS ARTÍCULOS 47 FRACCIÓN XVIII; 80 FRACCIÓN VII; 95 FRACCIÓN II; 121 SEGUNDO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 95 FRACCIÓN 11 BIS; 121 CON EL TERCER PÁRRAFO, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
