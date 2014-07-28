@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-oficina-del-despacho-del-c-86571"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-05"
-last_updated: "2012-03-05"
+last_updated: "2014-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL C. GOBERNADOR DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL GOBERNADOR DEL ESTADO, PUBLICADO EN EL P.O. DE 28 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico oficial del Estado de Aguascalientes, el lunes 5 de marzo de 2012.
 
@@ -379,7 +381,7 @@ Corresponde al Titular de la Dirección General de Giras, Seguridad y Protecció
 
 I. Establecer comunicación y acuerdo con el Secretario Privado, con el fin de conocer la agenda de trabajo del C. Gobernador del Estado, así como los requerimientos para su realización;
 
-II. Planear, programar. organizar y dirigir los servicios de seguridad y transportación del C. Gobernador del Estado, de su familia y de los servidores públicos que se le instruya, coordinadamente con las demás corporaciones públicas de seguridad;
+II. Planear, programar, organizar y dirigir los servicios de seguridad y transportación del C. Gobernador del Estado, de su familia y de los servidores públicos que se le instruya, coordinadamente con las demás corporaciones públicas de seguridad;
 
 III. Planear, programar, organizar y dirigir el servicio de resguardo y seguridad de los inmuebles y del patrimonio oficial y personal del C. Gobernador del Estado y de su familia;
 
@@ -445,7 +447,7 @@ II. Establecer comunicación y acuerdo con el Secretario Privado, con el fin de 
 
 III. Establecer comunicación y acuerdo con el Secretario Privado de la Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, con el fin de conocer su agenda de eventos en Casa Aguascalientes así como los requerimientos para su realización;
 
-IV. Planear, programar. organizar y dirigir los eventos que se realicen en Casa Aguascalientes;
+IV. Planear, programar, organizar y dirigir los eventos que se realicen en Casa Aguascalientes;
 
 V. Resguardar el inmueble y los bienes muebles y demás activos de la Casa Aguascalientes;
 
@@ -776,3 +778,31 @@ DIRECTOR GENERAL DE ADMINISTRACIÓN Y SERVICIOS
 Lic. Carlos Penna Charolet
 
 COORDINADOR DE COMUNICACIÓN SOCIAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Oficina del Despacho del Gobernador del Estado publicado en la Primera Sección del Periódico Oficial del Estado de fecha 5 de marzo de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Se transfiere la estructura orgánica y el presupuesto de la Secretaría Privada a la Secretaría Particular, en los términos descritos en este Reglamento;
+
+###### ARTÍCULO CUARTO.
+
+Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con La Secretaría Privada de la Oficina del Despacho del Gobernador del Estado, la representación de ésta se entenderá efectuada a través de la Secretaría Particular de la Oficina del Despacho del Gobernador del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias a la Secretaría Privada de la Oficina del Despacho del Gobernador del Estado que hagan las leyes y demás disposiciones administrativas, en adelante se entenderán realizadas a la Secretaría Particular de la Oficina del Despacho del Gobernador del Estado.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría Particular, la Coordinación de Asesores, la Dirección General de Administración y Servicios, La Dirección General de Asuntos Internacionales y la Coordinación de Comunicación Social cuentan con noventa días naturales a partir de la fecha de publicación del presente, para adecuar sus respectivos Manuales de Organización, los cuales deberán ser registrados en la Oficialía Mayor del Gobierno del Estado.
