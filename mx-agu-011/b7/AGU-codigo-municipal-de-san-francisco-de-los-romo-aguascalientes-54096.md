@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2014-05-19"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -623,29 +623,27 @@ El Presidente Municipal, los Regidores y Síndico que con causa justificada no p
 
 ### CAPITULO VIII. De las Comisiones
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 68.
 
 El H. Ayuntamiento nombrará las Comisiones a efecto de cumplir con las atribuciones y obligaciones que la Ley le confiere al H. Ayuntamiento, se integran Comisiones Permanentes y serán las siguientes:
 
-I.- Gobierno y Hacienda Pública.
+I.- Gobierno y Hacienda Pública;
 
-II.- Servicios Públicos, Ecología y Juventud.
+II.- Servicios Públicos, Ecología y Juventud;
 
-II (sic).- Educación, Cultura, Deporte y Desarrollo
+III.- Educación, Cultura, Deporte y Desarrollo Urbano;
 
-Urbano.
+IV.- Desarrollo Social, Obras Públicas y Asuntos Metropolitanos;
 
-IV.- Desarrollo Social y Obras Públicas
+V.- Salud, Derechos Humanos y Servicios Pre-hospitalarios;
 
-V.- Salud, Derechos Humanos y Servicios Pre-hospitalarios.
+VI.- Agua Potable, drenaje y alcantarillado;
 
-VI.- Agua Potable, Drenaje y Alcantarillado.
+VII.- D.I.F. Municipal, Equidad y Género;
 
-VII.- D.I.F. Municipal, Equidad y Género.
-
-VIII.- Seguridad Pública, Tránsito Municipal y Protección Civil.
+VIII.- Seguridad Pública, Tránsito Municipal y Protección Civil
 
 Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
@@ -8195,7 +8193,7 @@ II. Tener su certificado de vacunación vigente;
 
 III. Pasear al animal sólo si éste lleva puesto el collar o pechera con su respectiva correa o cadena y en manos de su propietario o poseedor. El animal que sea considerado como agresivo deberá usar bozal; y
 
-IV Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
+IV. Dar un trato digno al animal y en su momento la atención clínica veterinaria adecuada.
 
 ###### ARTICULO 796.
 
@@ -15643,7 +15641,7 @@ XXIV. Servicios Administrativos: Es el inmueble en donde trabajan empleados púb
 
 Estos servicios se pueden ubicar en vialidades de tipo secundario y primario, los cuales también deberán contar con cajones de estacionamiento dentro de sus inmuebles, conforme lo señalan el Código Urbano y este Código;
 
-XXV. Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
+XXV: Servicios Mecánicos y de Mantenimiento Vehicular: Son los establecimientos que se dedican a realizar en su interior cualquier tipo de reparación o servicio de mantenimiento mecánico, eléctrico, de hojalatería, pintura, suspensión y llantas entre otros a maquinaria o vehículos de cualquier especie, independientemente de que su movimiento o funcionamiento sea impulsado por motores de combustión interna de cualquier tipo de combustible o que el mismo sea provocado por algún tipo de generador eléctrico.
 
 Entiéndase por esto a cualquier tipo de talleres de reparación, independientemente de la función mecánica o eléctrica que desempeñe el vehículo.
 
@@ -17085,7 +17083,7 @@ II. Tratándose de usos comerciales en estas zonas, se podrá utilizar hasta el 
 
 III. Un anuncio domiciliar por inmueble institucional, iluminado u opaco, tales como escuelas, iglesias, servicios de salud o establecimientos similares a los anteriores, cuya superficie del anuncio no deberá exceder de 1.20 metros cuadrados, y
 
-IV En caso de usos comerciales en estas zonas, se podrá utilizar hasta el 20 por ciento de superficie del frente de un inmueble.
+IV. En caso de usos comerciales en estas zonas, se podrá utilizar hasta el 20 por ciento de superficie del frente de un inmueble.
 
 ###### ARTICULO 1602.
 
@@ -20866,5 +20864,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 19 DE MAYO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
