@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2013-12-05"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -139,11 +139,13 @@ La Ley determinará las formas de participación de estas organizaciones, y la d
 
 De la forma de Gobierno.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+###### Artículo 8°.
+
+El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo, Democrático, Laico y Popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 8°
-
-El Territorio del Estado es el que comprende los Municipios de Aguascalientes, Calvillo, Rincón de Romos, Asientos, Tepezalá, Cosío y Jesús María, conservando el Estado su extensión y límites conforme al artículo 45 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 8o.
 
@@ -161,11 +163,11 @@ Del Territorio del Estado.
 
 El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 10.
 
-La Ley Orgánica Municipal del Estado de Aguascalientes, determinará los requisitos necesarios para la creación de Municipios.
+La ley que en materia municipal expida el Congreso del Estado determinará los requisitos necesarios para la creación de Municipios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -189,9 +191,13 @@ Son derechos de los habitantes del Estado, varones y mujeres:
 
 I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
+II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -235,103 +241,115 @@ El Poder Legislativo se deposita en una corporación que se denomina Congreso de
 
 El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
 
-Por cada Diputado Propietario se eligirá (sic) un Suplente.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 17.
 
-En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
+En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas, libres auténticas y periódicas, a través del ejercicio del sufragio universal, libre, secreto, directo e intransferible.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen (sic) el Instituto Nacional de Estadística y Geografía.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida en la elección de que se trate. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
 
-l. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida; y
+I. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el tres por ciento de la votación válida emitida; y
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, independencia, imparcialidad, definitividad y objetividad.
+B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, imparcialidad, independencia, legalidad, máxima publicidad, definitividad y objetividad.
 
-La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público autónomo denominado, Instituto Estatal Electoral.
+La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público local electoral denominado Instituto Estatal Electoral.
 
-El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propios, tendrá como autoridad máxima de gobierno un Consejo General.
+El Instituto Estatal Electoral podrá asumir las atribuciones que en su caso le delegue el Instituto Nacional Electoral, así como celebrar convenios a fin de que éste se haga cargo de la organización de los procesos electorales locales y de otros aspectos previstos en la ley.
 
-El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado por cinco Consejeros Electorales, de los cuales uno será presidente y cuatro vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
+El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con autonomía en su funcionamiento, en el ejercicio de su presupuesto y con independencia en sus decisiones, y contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
 
-Por cada Consejero se elegirá un suplente.
+El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de Consejero Electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo período.
 
-El cargo de Consejero Electoral, no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago o retribución alguna con recursos públicos.
+Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
 
-La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales; una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
+Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
+El Instituto Estatal Electoral contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+La Ley de la materia determinará la organización del Instituto Estatal Electoral, sus facultades y estructura orgánica, debiendo contar con un órgano auxiliar para la fiscalización de los recursos y programas del citado Instituto, dotado con autonomía técnica y de gestión. El titular de este órgano auxiliar será electo por el Congreso del Estado mediante el voto de la mayoría de los diputados presentes. La fiscalización de los recursos de los Partidos Políticos podrá realizarse por dicho órgano en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, las leyes, acuerdos y convenios que, en su caso, celebre el Instituto Nacional Electoral con el Instituto Estatal Electoral.
 
-Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público y estarán facultados para participar en las elecciones estatales, distritales y municipales; estando así mismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia.
+Los servidores públicos de los órganos ejecutivos y técnicos del Instituto Estatal Electoral formarán parte del Servicio Profesional Electoral Nacional.
 
-Los partidos políticos nacionales acreditados en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
+En todo caso, la duración de las campañas será de sesenta días para la elección de gobernador, de cuarenta y cinco días para la elección de diputados locales y de treinta a sesenta días para la elección de ayuntamientos en términos de lo que disponga la ley; las precampañas no podrán durar más de dos terceras partes de las respectivas campañas electorales.
 
-La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
+Las elecciones ordinarias deberán celebrase, el primer domingo de junio del año de la elección.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+Los partidos políticos nacionales acreditados en el Estado, podrán participar en las elecciones para gobernador, diputados y ayuntamientos, debiendo respetar las reglas para garantizar la paridad entre géneros en candidaturas a diputaciones locales y de los ayuntamientos en términos de la ley general respectiva; asimismo, estarán facultados para participar en la vida política del Estado, para lo cual tendrán acceso al financiamiento público en términos de la ley de la materia.
 
-La Sala Administrativa y Electoral, será un órgano jurisdiccional permanente, autónomo en su funcionamiento e independiente en sus decisiones, adscrito al Poder Judicial del Estado. Estará integrada por tres Magistrados, sin que formen parte del Pleno del Supremo Tribunal de Justicia. La Sala Administrativa y Electoral, tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios y sus Organismos Descentralizados y otras personas en funciones de autoridad, con los particulares; y en materia electoral resolver los medios de impugnación y nulidades que el Código Electoral establezca, así como declarar la validez de las elecciones, y aquellas que se señalen en la Ley Orgánica del Poder Judicial y sus Reglamentos.
+La participación de candidatos independientes en procesos electorales locales, se sujetará a lo que disponga la ley. Al igual que los partidos políticos, las fórmulas de las candidaturas independientes deberán integrarse por personas del mismo género.
 
-La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
+El Tribunal Electoral será el órgano jurisdiccional local especializado en materia electoral, gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones; se regirá por los principios de certeza, imparcialidad, objetividad, legalidad, probidad, definitividad y máxima publicidad; estará integrado por tres magistrados los cuales serán elegidos por el Senado de la República. Su funcionamiento, atribuciones y demás estructura orgánica se regirán por lo que disponga la Ley. Durante los dos años siguientes a la fecha de su retiro, quienes hayan ocupado el cargo de Magistrados del Tribunal Electoral, quedarán impedidos para actuar como patronos, abogados o representantes en todo tipo de procedimientos tramitados ante este órgano jurisdiccional.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+Las impugnaciones en contra de los actos que, conforme a la base V del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
 
-Los partidos políticos y candidatos independientes, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
+La Ley General en Materia de Delitos Electorales, determinará los tipos penales así como las sanciones aplicables.
 
-El Sistema Estatal Electoral, estará regulado por la Ley de la materia, y deberá garantizar en todo momento los siguientes derechos y obligaciones:
+El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-a) Los partidos políticos se constituirán sólo por ciudadanos sin intervención de organizaciones gremiales, afiliación corporativa, quienes tendrán el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular;
-
-b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos y los candidatos independientes, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas; así como de los ciudadanos registrados para promoverse para obtener el apoyo ciudadano y obtener el registro de una candidatura, así como de los candidatos independientes en sus campañas;
-
-e) Establecer las bases y procedimientos para la liquidación y destino de los bienes y recursos de los partidos políticos que pierdan su registro;
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos y candidatos independientes; y
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como para la etapa de promoción para obtener el apoyo ciudadano por parte de los aspirantes a candidatos y las campañas de los candidatos independientes, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 El Plebiscito y Referéndum podrán solicitarlos:
 
-a) El dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+a) El dos por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 b) Una tercera parte de los Diputados que integran el H. Congreso del Estado;
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 c) Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; o
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 d) El Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado la cual, deberá ser turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 No podrán someterse a referéndum ni a Plebiscito aquéllas Leyes o Artículos que contemplen las siguientes materias:
 
@@ -345,27 +363,37 @@ d) Ley Orgánica del Poder Judicial del Estado; y
 
 e) Las demás que determinen las leyes.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
 Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los procesos electorales serán aplicables a las figuras del plebiscito y el referéndum.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 Se establece en el Estado la Iniciativa Popular, como un medio ciudadano para proponer al Congreso del Estado la creación, reformas, adición, derogación o abrogación de leyes del marco jurídico estatal, la cual opera bajo los siguientes requisitos;
 
-a) Podrán solicitarla, el dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+a) Podrán solicitarla, el dos por ciento de los ciudadanos inscritos en el Padrón Electoral.
 
 b) Deberán acreditar los solicitantes estar inscritos en el Padrón Electoral Federal.
 
 c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley Orgánica del Poder Legislativo.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+La ley regulará la revocación del mandato de las autoridades de elección popular y señalará las causales, los procedimientos para su solicitud y los mecanismos para que la misma se lleve a cabo.
+
 ###### Artículo 17 Bis.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 1978)
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 18.
 
-Los diputados no podrán ser reelectos para el período inmediato.
+Los diputados podrán ser electos hasta por dos periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los Suplentes podrán ser electos para el período inmediato, con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para el período inmediato, con el carácter de Suplentes.
+Las suplencias de diputados se regirán por lo establecido en la ley de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
 
@@ -393,17 +421,17 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa y Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral y los delegados de las dependencias federales en el Estado.
+II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
 
 III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
 
 IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
+Los ciudadanos comprendidos en las Fracciones I y II de este Artículo, podrán ser electos diputados, si se separan de sus cargos o empleos noventa días antes de la elección salvo que esta Constitución establezca otro término.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -423,17 +451,17 @@ El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cu
 
 La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 23.
 
-El Congreso del Estado se instalará cada tres años, el 15 de noviembre del año de la elección.
+El Congreso del Estado se instalará cada tres años, el 15 de septiembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 24.
 
-El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: el primero comenzará el 15 de noviembre y terminará el 15 de marzo, y el segundo comprenderá del 30 de abril al 31 de julio.
+El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: El primero comenzará el 15 de septiembre y terminará el 31 de diciembre y el segundo comprenderá del 1° de marzo al 30 de junio.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -539,15 +567,17 @@ XIII.- Decidir sobre la renuncia del cargo de Gobernador;
 
 XIV.- Ratificar, con el voto de la mayoría de los integrantes del Congreso, el nombramiento de Jefe de Gabinete que otorgue el Titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
-XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
 
 Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal; que podrán ser tanto elementos del Poder Judicial del Estado, peritos en derecho de otras dependencias del Estado y sus Municipios, o miembros del foro local que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades;
 
 XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
 
@@ -595,9 +625,13 @@ XXX.- Citar a solicitud de las dos terceras partes de sus miembros, al Gobernado
 
 Citar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión Pública, a explicar el motivo de su negativa.
 
-XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral, que reúnan los requisitos de la Ley de la materia, por el voto de dos terceras partes de sus integrantes. Si en una primera votación no se obtuviere tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurador General de Justicia.
+XXXI.- Aprobar, mediante el voto de la mayoría de los diputados presentes, el convenio y el programa de gobierno de coalición que, en su caso, celebre el Gobernador con uno o varios partidos políticos representados en el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con lo establecido en el Artículo 59 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -609,7 +643,7 @@ XXXIV.- Autorizar la realización de Proyectos de Prestación de Servicios al Es
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y (sic)
+XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
 
 > <small>(ADICIONADA, P.O. 17 DE ENERO DE 2011)</small>
 
@@ -641,7 +675,9 @@ Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del
 
 Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Procurador General de Justicia, deberá de reunir los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
+El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones I, III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
 
 I. Contar el (sic) día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
 
@@ -649,7 +685,9 @@ II. Contar con experiencia de cinco años en materia de control, auditoría fina
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal.
 
-IV. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+IV.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
 
 El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
 
@@ -865,11 +903,13 @@ El ciudadano que hubiere ocupado el cargo de Gobernador Provisional o Interino, 
 
 No podrá ser electo Gobernador para el período inmediato, el ciudadano que haya desempeñado ese cargo por designación distinta a la de elección popular.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 41.
 
-El Gobernador del Estado será electo directamente por el pueblo, en los términos de la Ley Electoral; durará en su encargo seis años y empezará a ejercer sus funciones el día primero de diciembre del año de la elección, previa protesta que rendirá ante el Congreso, en los siguientes términos:
+El Gobernador del Estado será electo directamente por el pueblo, en los términos de la Ley Electoral; durará en su encargo seis años y empezará a ejercer sus funciones el día primero de octubre del año de la elección, previa protesta que rendirá ante el Congreso, en los siguientes términos:
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
@@ -887,11 +927,11 @@ Cuando la falta de Gobernador ocurriese en los cuatro últimos años del períod
 
 En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Jefe de Gabinete como encargado del Despacho.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 44.
 
-Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los artículos 42 y 43 de esta Constitución.
+Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de octubre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los Artículos 42 y 43 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -907,15 +947,17 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de diciembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias.
+II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de noviembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de noviembre al 15 de diciembre, sobre el estado general que guarde la administración pública estatal.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de septiembre al 15 de octubre, sobre el estado general que guarde la administración pública estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
 
@@ -935,9 +977,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-X.- Nombrar y remover al Jefe del Gabinete y al Procurador General de Justicia del Estado cuyos nombramientos serán ratificados por el Congreso del Estado, y nombrar y remover al Secretario de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal;
+X.- Nombrar y remover al Jefe del Gabinete que cuyo nombramiento será ratificado por el Congreso del Estado, nombrar y remover al Secretario de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como ejercer las facultades en la designación y remoción del Fiscal General del Estado en términos de lo establecido en el Artículo 59 de esta Constitución;
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -953,13 +995,23 @@ XV.- Decretar la expropiación, por causa de utilidad pública, con los requisit
 
 XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27, Fracción XV de esta Constitución.
+XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27, Fracción XV de esta Constitución.
 
-XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-XIX.- Las demás que esta Constitución y la General de la República le confieren.
+XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XX.- Las demás que esta Constitución y la General de la República le confieren.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1013,9 +1065,9 @@ DEL PODER JUDICIAL.
 
 El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes con plena independencia en el ejercicio de sus atribuciones jurisdiccionales y para la administración de su presupuesto.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, una Sala Administrativa y Electoral, que será un órgano especializado y la máxima autoridad jurisdiccional en las materias electoral y contencioso administrativa dentro del Poder Judicial, los Juzgados de Primera Instancia, el o los Jueces de Ejecución, Mixtos Menores, Jueces de Preparación y Especializados de adolescentes y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
+El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, la Sala Administrativa, los Juzgados de Primera Instancia, los Jueces de Ejecución, Mixtos Menores, Jueces de Preparación y Especializados en Adolescentes y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
@@ -1030,6 +1082,10 @@ La representación del Poder Judicial de Aguascalientes corresponde al Supremo T
 El Supremo Tribunal de Justicia del Poder Judicial del Estado estará conformado por siete Magistrados y funcionará en pleno o en sus dos distintas salas: la civil y la penal, integradas por tres Magistrados cada una.
 
 Los Magistrados del Supremo Tribunal de Justicia del Estado, reunidos en pleno, elegirán de entre sus integrantes a su Presidente, quien ostentará el cargo cuatro años y podrá ser reelecto para el período inmediato posterior.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+La Sala Administrativa será un órgano jurisdiccional que gozará de plena autonomía para dictar sus fallos y que estará adscrito al Poder Judicial del Estado, se integrará por tres Magistrados sin que formen parte del Pleno del Supremo Tribunal de Justicia, asimismo tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Estado, de los Municipios y sus Organismos Descentralizados o con otras personas en funciones de autoridad.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1051,23 +1107,23 @@ III.- Tener cuando menos 35 años cumplidos el día de la designación.
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-V.- No haber tenido cargo de secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Diputado Federal o Local o Dirigente de Partido Político durante el año previo al día de su designación.
+V.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 54.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, se elegirán de la forma siguiente:
+Los Magistrados del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, se elegirán de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno. Sólo los Magistrados de la Sala Administrativa y Electoral, serán electos por mayoría calificada y en caso de no lograrse ésta, serán seleccionados por insaculación.
+El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los diputados que integren la legislatura.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-Las ausencias temporales de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral se suplirán como lo establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
+Las ausencias temporales de los Magistrados del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, se suplirán como lo establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1089,41 +1145,23 @@ Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en
 
 El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 56.
 
 Los Jueces de Primera Instancia deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, durarán en su encargo quince años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos. Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa percibirán la remuneración y prestaciones que establezca el Presupuesto de Egresos del ejercicio fiscal correspondiente, las cuales deberán ser iguales para todos los Magistrados.
 
-Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años, y los Magistrados de la Sala Administrativa y Electoral durarán en su encargo diez años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos. Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, percibirán la remuneración que establezca el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa quedarán impedidos para actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este Artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa podrán ser reelectos en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; los Jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designados; los de la Sala Administrativa tendrán el mismo derecho siempre y cuando no continúen con la carrera judicial, lo anterior conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
 
-Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, quedarán impedidos de actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2003)</small>
-
-Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
-
-Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, podrán ser reelectos en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes; los Jueces de Primera Instancia no podrán ser ratificados o ascendidos en caso de mala conducta debidamente comprobada o hayan sido removidos del cargo.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
-
-Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designados; y los de la Sala Administrativa y Electoral tendrán el mismo derecho siempre y cuando no continúen con la carrera judicial, lo anterior conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
-
-> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 25 DE JUNIO DE 2012)</small>
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
-
-Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
+Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1133,9 +1171,9 @@ Corresponde al Supremo Tribunal de Justicia del Estado:
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Jefe de Gabinete, del Secretario de Gobierno, del Procurador General de Justicia, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Jefe de Gabinete, del Secretario de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
@@ -1255,15 +1293,35 @@ En todos los procedimientos seguidos a los adolescentes se observará la garant�
 
 Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u ofendido por un hecho punible, gozarán de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, y los demás que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 59.
 
-La Ley organizará el Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Ejecutivo Estatal. El Ministerio Público del Estado estará presidido por un Procurador General de Justicia del Estado, designado por el titular del Ejecutivo del Estado, y ratificado por el Congreso del Estado, con el voto de la mayoría de sus integrantes.
+El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la ley.
 
-El Procurador General de Justicia deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
+El Fiscal General del Estado deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
 
-La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+El Fiscal General del Estado durará en su cargo seis años y será designado y removido conforme a lo siguiente:
+
+I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo.
+
+II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos;
+
+Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
+
+III.- Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal General del Estado con el voto de las dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
+
+En caso de que el Poder Ejecutivo no envíe la terna al Congreso del Estado, éste tendrá cinco días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala la Fracción I.
+
+Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva.
+
+IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
+
+V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+
+VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determine la ley. En caso de ausencia definitiva, quien sea designado únicamente desempeñará el cargo hasta completar el período para el cual fue elegido el anterior Fiscal General del Estado.
+
+Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1273,7 +1331,9 @@ El Ministerio Público estará sujeto a lo siguiente:
 
 I.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuáles actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
 
-II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público, quien podrá considerar criterios de oportunidad para su ejercicio de acuerdo con los supuestos establecidos en la ley;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley;
 
 III.- El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine;
 
@@ -1427,7 +1487,9 @@ b) Cuatro regidores para los municipios que tengan más de treinta mil habitante
 
 c) Tres regidores para cada uno de los demás municipios.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley Orgánica Municipal del Estado.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Los Ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que sean elegidos para un período más, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
@@ -1441,13 +1503,27 @@ II.- Tener 18 años cumplidos el día de la elección; y
 
 III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, elegidos por votación, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+No pueden ser electos Presidente Municipal, Regidor o Síndico:
+
+I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
+
+II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
+
+III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
+
+IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Los ciudadanos comprendidos en las Fracciones I y II del párrafo anterior, podrán ser electos Presidente Municipal, Regidor o Síndico, si se separan de sus cargos o empleos noventa días antes de la elección, salvo que esta Constitución establezca otro termino.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 67.
 
-Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley Orgánica Municipal del Estado.
+Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley que en materia municipal emita el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
@@ -1559,11 +1635,11 @@ X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y somete
 
 XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 72.
 
-Los miembros de los Ayuntamientos no podrán ser reelectos, debiendo observarse lo dispusto (sic) en el artículo 115 de la Constitución de la República.
+Se establece la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1597,19 +1673,21 @@ Serán sujetos de responsabilidad política los servidores públicos que en el e
 
 No procede el juicio político por el sólo hecho de la manifestación de ideas.
 
-Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Fiscal General del Estado, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este articulo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 75.
 
-Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la Legislación Penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
+Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la normatividad penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
 
-Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo de la Judicatura, del Poder Judicial, el Secretario General de Gobierno, el Procurador General de Justicia, El Presidente Municipal, Regidores y Síndicos de los Ayuntamientos, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo de la Judicatura, del Poder Judicial, el Secretario General de Gobierno, el Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -2690,3 +2768,65 @@ P.O. 5 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado que resulte electo en la elección constitucional del año 2016, iniciará sus funciones el 1° de diciembre de ese mismo año y concluirá su período constitucional el 30 de septiembre del año 2022; y el que resulte electo en la elección constitucional del año 2022, iniciará sus funciones el 1° de octubre ese año y concluirá su período constitucional el 30 de septiembre del 2027.
+
+###### ARTÍCULO TERCERO.
+
+La reforma al Artículo 24 iniciará su vigencia el 15 de septiembre del 2017.
+
+Los diputados que resulten electos en la elección constitucional del año 2016, iniciarán sus funciones el 15 de noviembre del mismo año, y concluirán su período constitucional el 14 de septiembre del año 2018, los cuales tendrán derecho a la reelección consecutiva por un período más. La Legislatura electa en el año 2018 iniciará sus funciones el 15 de septiembre del mismo año.
+
+###### ARTÍCULO CUARTO.
+
+Los presidentes municipales, regidores y síndicos que resulten electos en la elección constitucional del año 2016, iniciarán sus funciones el 1° de enero del año 2017 y concluirán su período constitucional el 14 de octubre del año 2019, los cuales tendrán derecho a la reelección consecutiva por un período más; y los electos en el año 2019 iniciarán sus funciones el 15 de octubre de ese mismo año y concluirán su período constitucional el 14 de octubre del año 2021.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá reformar la Ley Orgánica del Poder Judicial y el Código Electoral del Estado de Aguascalientes para el efecto de separar la materia electoral de la materia administrativa, a fin de regular el funcionamiento del Tribunal Electoral. Los magistrados de la Sala Administrativa y Electoral que hubiesen sido nombrados por un término menor y se encuentren en funciones, durarán en su encargo el tiempo que señala el Artículo 56 de la Constitución Política del Estado de Aguascalientes, como magistrados de la Sala Administrativa del Poder Judicial del Estado.
+
+En la reforma al Código Electoral del Estado de Aguascalientes referida en el párrafo anterior, también se deberá prever, entre otras cosas, lo siguiente:
+
+I. Los fines que deberá perseguir el Instituto Estatal Electoral, mismos que serán, al menos:
+
+a) La aplicación de las disposiciones relativas a las candidaturas independientes, de conformidad a lo previsto en la Ley General de Instituciones y Procedimientos Electorales y a la normatividad electoral local;
+
+b) Vigilar el cumplimiento de las disposiciones especiales para las precampañas y las campañas electorales de procesos locales;
+
+c) Velar por el cumplimiento de las disposiciones que regulan los montos máximos que tendrán las aportaciones de los militantes y simpatizantes;
+
+d) Velar por el cumplimiento de las disposiciones que regulan los criterios y límites en las erogaciones de los partidos políticos en sus precampañas y campañas;
+
+e) Velar por el cumplimiento de las disposiciones que rigen el procedimiento de liquidación de los partidos que pierdan su registro y el destino de sus bienes remanentes;
+
+f) Garantizar el respeto al sistema de nulidades en las elecciones de Gobernador, diputados locales y ayuntamientos, en términos de lo previsto en el Artículo 41, Base VI de la Constitución Política de los Estados Unidos Mexicanos.
+
+II. Precisar la posibilidad de los partidos nacionales acreditados en el Estado para celebrar coaliciones, frentes, fusiones y presentar candidatos comunes en los procesos electorales a cargos de elección popular. Siendo que independientemente del tipo de elección y convenio de coalición, cada uno de los partidos políticos nacionales aparecerá con su propio emblema en la boleta electoral y la votación consignada a dos o más partidos políticos que la conformen, se asignará a éstos de forma proporcional;
+
+III. La existencia y funcionamiento de la Oficialía Electoral, por medio de la cual se dará fe para actos de naturaleza exclusivamente electoral;
+
+IV. La fórmula y procedimiento para la asignación de diputados según el principio de representación proporcional;
+
+V. El procedimiento por el que se elegirá al Presidente del Tribunal Electoral así como la duración de dicho cargo el cual deberá ser rotativo.
+
+###### ARTÍCULO SEXTO.
+
+La reforma al Artículo 59 iniciará su vigencia en la misma fecha en que lo haga la nueva Ley Orgánica del Ministerio Público que para el efecto emita el Congreso del Estado, siempre que se haga por el propio Congreso la declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado. Los asuntos se seguirán con base en la Ley Orgánica vigente al momento de iniciado su trámite,
+
+El Congreso del Estado iniciará el primer proceso de designación previsto en el Artículo 59 de la Constitución Política del Estado de Aguascalientes, cuando inicie su vigencia la autonomía constitucional de la Fiscalía General del Estado y por única ocasión, quien resulte electo durará en el cargo hasta el 28 de febrero del 2018.
+
+###### ARTÍCULO SÉPTIMO.
+
+Una vez que entre en vigor la autonomía de la Fiscalía General del Estado los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia del Estado, pasarán a la Fiscalía General del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+La reforma al Artículo 60, Fracción II, iniciará su vigencia conforme vaya entrando en vigor el Código Nacional de Procedimientos Penales en términos del Decreto número 63 publicado en el Periódico Oficial del Estado de Aguascalientes el 11 de junio del 2014.
