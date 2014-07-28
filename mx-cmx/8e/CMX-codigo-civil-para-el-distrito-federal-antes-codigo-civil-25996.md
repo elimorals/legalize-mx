@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2014-06-20"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE JULIO DE 2014.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -311,23 +311,23 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 En el Distrito Federal estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo, y defunción de los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia sexo-genérica, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá preventiva y provisionalmente, los nombres y los datos de las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
-
-El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
+El Registro Civil, una vez hecha la inscripción preventiva y provisional a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El Registro Civil celebrará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información del Registro de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
+
+El Registro Civil deberá actualizar mensualmente la base de datos de los deudores alimentarios morosos.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -393,7 +393,7 @@ Para las actas cuyo contenido sea notoriamente ilegible, la Dirección General d
 
 ###### ARTICULO 41.
 
-Las Formas del Registro Civil serán expedidas por el Jefe del Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil y el otro, con los documentos que le correspondan, quedará en el archivo de la oficina en que se haya actuado.
+Las Formas del Registro Civil serán expedidas por el Jefe de Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil y el otro, con los documentos que le correspondan, quedará en el archivo de la oficina en que se haya actuado.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -481,7 +481,7 @@ El Ministerio Público cuidará que las actuaciones e inscripciones que se hagan
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquel hubiera nacido, acompañando el certificado de nacimiento. El certificado de nacimiento deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Distrito Federal, el cual contendrá los datos que establezca el Reglamento del Registro Civil. Dicho certificado hace prueba del día, hora y lugar del nacimiento, sexo del nacido y de la maternidad.
 
-En caso de no contar con certificado de nacimiento, el declarante deberá presentar constancia de parto en los términos que lo establezca el Reglamento del Registro Civil.
+En caso de no contar con certificado de nacimiento, el declarante deberá presentar constancia de parto en los términos en que lo establezca el Reglamento del Registro Civil.
 
 Cuando por causas de fuerza mayor, de conformidad con lo que establezca el reglamento, no se cuente con certificado de nacimiento o constancia de parto, deberá presentar denuncia de hechos ante el Ministerio Público donde se haga constar las circunstancias de los hechos.
 
@@ -507,7 +507,7 @@ Para el registro de nacimiento a domicilio deberá estarse a lo dispuesto en el 
 
 ###### ARTICULO 58.
 
-El acta de nacimiento contendrá el día, la hora y el lugar de nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos paterno y materno que le correspondan; asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
+El acta de nacimiento contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres propios y los apellidos paterno y materno que le correspondan; asimismo, en su caso, la razón de si el registrado se ha presentado vivo o muerto y la impresión digital del mismo. Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta.
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
@@ -775,11 +775,13 @@ Este escrito deberá ser firmado por los solicitantes, y asimismo contener su hu
 
 Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá observarse lo establecido en el Reglamento del Registro Civil.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
+El Juez del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, que es un requisito previo a la celebración del matrimonio, el tramitar y obtener un certificado expedido por el propio registro, para hacer constar, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, así como tomar el curso prenupcial impartido por el Gobierno del Distrito Federal a través de la Dirección General del Registro Civil.
 
-El Juez del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
+
+Los cursos prenupciales serán impartidos por el personal profesional capacitado que determine el Director General del Registro Civil. Estos cursos versarán sobre temas como la prevención de la violencia familiar, salud sexual y reproductiva, planificación familiar, el respeto a la equidad de género, relaciones de pareja, fines del matrimonio, derechos y obligaciones de los cónyuges, el régimen patrimonial en las capitulaciones matrimoniales, entre otros aspectos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
@@ -848,6 +850,10 @@ En el lugar, día y hora designados para la celebración del matrimonio deberán
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
 Acto continuo, el Juez del Registro Civil leerá en voz alta el acta respectiva y les hará saber los derechos y obligaciones legales que contraen con el matrimonio, para posteriormente preguntar a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
+
+Se incorpora a la ceremonia de matrimonio civil, la lectura de votos matrimoniales elaborados por las partes, con la asesoría y apoyo del personal del Registro Civil en caso de que los contrayentes así lo deseen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2010)</small>
 
@@ -965,7 +971,7 @@ El Juez del Registro Civil que reciba una solicitud de matrimonio, exigirá de l
 
 ###### ARTICULO 114.
 
-La sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada al Juez del Registro Civil para que realice la anotación en el acta de matrimonio correspondiente.
+La sentencia ejecutoria que decrete un divorcio, se remitirá en copia certificada al Juez del Registro Civil para que realice la anotación en el acta de matrimonio correspondiente.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -1015,7 +1021,7 @@ V.- La causa o enfermedad que originó el fallecimiento de acuerdo a la informac
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VI.- La hora de muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la Averiguación Previa con la que se encuentre relacionada.
+VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta, debiendo asentar los datos de la Averiguación Previa con la que se encuentre relacionada.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -1523,7 +1529,7 @@ Salvo pacto en contrario, que conste en las capitulaciones matrimoniales, los bi
 
 ARTICULO 182 Quintus.- En la sociedad conyugal son propios de cada cónyuge, salvo pacto en contrario que conste en las capitulaciones matrimoniales:
 
-I.- Los bienes y derechos que le pertenezcan al tiempo de celebrarse el matrimonio, y los que posea antes de éste, aunque no fuera dueño de ellos, silos adquiere por prescripción durante el matrimonio;
+I.- Los bienes y derechos que le pertenezcan al tiempo de celebrarse el matrimonio, y los que posea antes de éste, aunque no fuera dueño de ellos, si los adquiere por prescripción durante el matrimonio;
 
 II.- Los bienes que adquiera después de contraído el matrimonio, por herencia, legado, donación o don de la fortuna;
 
@@ -2429,9 +2435,11 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 (ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 SÉPTIMUS], G.O. 9 DE MAYO DE 2014)
 
-ARTICULO 323 Octavus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el articulo 309 del presente Código. Dicho registro contendrá:
+ARTICULO 323 OCTAVUS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
 
-I. Nombre, apellidos y Clave Única del Registro de Población del deudor alimentario moroso;
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2014)</small>
+
+I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario moroso;
 
 II. Nombre del acreedor o acreedores alimentarios;
 
@@ -2449,7 +2457,9 @@ VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción
 
 ARTICULO 323 Novenus.- El certificado a que se refiere el artículo 35 de este Código contendrá lo siguiente:
 
-I. Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
+> <small>(REFORMADA, G.O. 28 DE JULIO DE 2014)</small>
+
+I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
 
 II. Número de acreedores alimentarios;
 
@@ -2459,7 +2469,21 @@ IV. Órgano jurisdiccional que ordeno el registro, y
 
 V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
-El Certificado a que se refiere el presente artículo, será expedido dentro de tres días hábiles contados a partir de su solicitud.
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+
+El Certificado a que se refiere el presente artículo, será expedido por el Registro Civil dentro de los tres días hábiles contados a partir de su solicitud.
+
+> <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
+
+ARTICULO 323 Nonies (sic).- Procede la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los siguientes supuestos:
+
+I. Cuando el deudor demuestra en juicio haber cumplido con su obligación alimentaria y que la misma está garantizada;
+
+II. Cuando al momento de dictar sentencia condenatoria, la pensión de alimentos se establezca en un porcentaje del sueldo que percibe el deudor alimentario; y
+
+III. Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de noventa días y habiendo también demostrado que la pensión está garantizada en lo futuro.
+
+El Juez de lo Familiar ordenará al Registro Civil del Distrito Federal la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2521,11 +2545,9 @@ IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica,
 
 El obligado a proporcionar alimentos cumple su obligación, asignando una pensión al acreedor alimentista o integrándolo a la familia. En caso de conflicto para la integración, corresponde al Juez de lo Familiar fijar la manera de ministrar los alimentos, según las circunstancias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
-
-Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenara al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos.
+Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 323 Septimus, los cuales le serán proporcionados al Juez por el acreedor alimentario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -2723,7 +2745,7 @@ ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia fa
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
 
-(ADICIONADO, G.O. 9 DE MAYO DE 2014) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 ACTAVUS], G.O. 9 DE MAYO DE 2014)
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2014)</small>
 
 ARTICULO 323 Septimus.- Comete violencia familiar el integrante de la familia que transforma la conciencia de un menor con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
@@ -3290,6 +3312,10 @@ IV. Que el solicitante de la adopción exponga de forma clara y sencilla las raz
 V. Que el solicitante de la adopción demuestre un modo de vida honesto, así como la capacidad moral y social para procurar una familia adecuada y estable al adoptado; y
 
 VI. Que ninguno de los adoptantes haya sido procesado o se encuentre pendiente de proceso penal por delitos que atenten contra la familia, sexuales, o en su caso contra la salud.
+
+> <small>(ADICIONADA, G.O. 28 DE JULIO DE 2014)</small>
+
+VII. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
 
 Estas mismas calidades se exigirán a quien adopte conjuntamente.
 
@@ -3975,7 +4001,7 @@ El Juez de lo Familiar, a petición del tutor o del curador, y en caso de no exi
 
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
 
-ARTICULO 469 Quintos.- El tutor cautelar que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado por testamento el incapaz.
+ARTICULO 469 Quintus.- El tutor cautelar que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado por testamento el incapaz.
 
 ### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
 
@@ -7283,7 +7309,7 @@ III.- Si la servidumbre es de paso o desagüe, el convenio se entenderá celebra
 
 IV.- La renuncia de la servidumbre legal de desagüe sólo será válida cuando no se oponga a los reglamentos respectivos.
 
-ARTICULO 1,132.- Si el predio dominante pertenece a varios dueños pro indiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
+ARTICULO 1,132.- Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
 
 ARTICULO 1,133.- Si entre los propietarios hubiere alguno contra quien por leyes especiales no pueda correr la prescripción, ésta no correrá contra los demás.
 
@@ -11263,7 +11289,7 @@ ARTICULO 2,470.- El arrendatario está obligado a dar de comer y beber al animal
 
 ARTICULO 2,471.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario.
 
-ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrendtario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
+ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrentario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
 
 ARTICULO 2,473.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
 
@@ -11405,7 +11431,7 @@ En la conservación del depósito responderá el depositario de los menoscabos, 
 
 ARTICULO 2,523.- Si después de constituído el depósito tiene conocimiento el depositario de que la cosa es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la reserva debida.
 
-ARTICULO 2,524.- Si dentro de ocho días no se le manda judicialmnte (sic) retener o entregar la cosa, puede devolverla al que la depositó, sin que por ello quede sujeto a responsabilidad alguna.
+ARTICULO 2,524.- Si dentro de ocho días no se le manda judicial ente (sic) retener o entregar la cosa, puede devolverla al que la depositó, sin que por ello quede sujeto a responsabilidad alguna.
 
 ARTICULO 2,525.- Siendo varios los que den una sola cosa o cantidad en depósito, no podrá el depositario entregarla sino con previo consentimiento de la mayoría de los depositantes, computado por cantidades y no por personas, a no ser que al constituirse el depósito se haya convenido que la entrega se haga a cualquiera de los depositantes.
 
@@ -12629,7 +12655,7 @@ ARTICULO 2,909.- Si quedare comprobada la insuficiencia de la finca y el deudor 
 
 ARTICULO 2,910.- Si la finca estuviere asegurada y se destruyere por incendio u otro caso fortuito, subsistirá la hipoteca en los restos de la finca, y además el valor del seguro quedará afecto al pago. Si el crédito fuere de plazo cumplido, podrá el acreedor pedir la retención del seguro, y si no lo fuere, podrá pedir que dicho valor se imponga a su satisfacción, para que se verifique el pago al vencimiento del plazo. Lo mismo se observará con el precio que se obtuviere en el caso de ocupación por causa de utilidad pública o de venta judicial.
 
-ARTICULO 2,911.- La hipoteca subsistirá íntegra aunque se reduzca la obligación garantida (sic), y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
+ARTICULO 2,911.- La hipoteca subsistirá íntegra aunque se reduzca la obligación garantida, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
 
 ARTICULO 2,912.- Cuando se hipotequen varias fincas para la seguridad de un crédito, es forzoso determinar por qué porción del crédito responde cada finca, y puede cada una de ellas ser redimida del gravamen, pagándose la parte de crédito que garantiza.
 
@@ -14548,3 +14574,11 @@ CUARTO.- El Jefe de Gobierno deberá realizar las adecuaciones necesarias al Reg
 QUINTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
 
 SEXTO.- Los recursos en trámite a la entrada en vigor del presente Decreto se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+
+G.O. 28 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno tendrá un plazo de noventa días a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones necesarias al Reglamento del Registro Civil del Distrito Federal.
