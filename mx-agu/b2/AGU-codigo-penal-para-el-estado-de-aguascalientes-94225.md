@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2014-02-19"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2287,7 +2287,9 @@ Homicidio culposo. El Homicidio Culposo consiste en privar de la vida a un ser h
 
 Al responsable de Homicidio Culposo se le aplicarán de 3 a 7 años de prisión y de 25 a 175 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y privación de 1 a 3 años para ejercer profesión u oficio.
 
-Si el Homicidio Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el inculpado efectos similares, se aplicarán al responsable de 5 a 15 años de prisión, de 50 a 180 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Si el Homicidio Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el inculpado efectos similares, se aplicarán al responsable de 5 a 15 años de prisión, de 50 a 180 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
 ###### ARTÍCULO 196.
 
@@ -2295,7 +2297,9 @@ Aborto culposo. El Aborto Culposo consiste en provocar la muerte del producto de
 
 Al responsable de Aborto Culposo se le aplicarán de 6 meses a 2 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si el Aborto Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Si el Aborto Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
 La punibilidad prevista en el presente Artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada.
 
@@ -2309,7 +2313,13 @@ I. De 3 a 6 meses de prisión, de 10 a 50 días multa, y al pago total de la rep
 
 II. De 2 a 7 años de prisión, de 25 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y privación de 1 a 2 años para ejercer profesión u oficio, si ponen en peligro la vida, independientemente del tiempo que tarden en sanar; si no ponen en peligro la vida y dejan a la víctima cicatriz notable y permanente o le provocan la disminución de facultades o el normal funcionamiento de órganos o miembros, o le producen incapacidad temporal de hasta un año para trabajar; o le provocan la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad; o le causan una enfermedad incurable o deformidad incorregible, o incapacidad de más de un año para trabajar.
 
-Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Al responsable de la conducta referida en el párrafo anterior, también se le sancionará con la inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
 ### CAPÍTULO III. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -2319,7 +2329,9 @@ Daño en las cosas culposo. El Daño en las Cosas Culposo consiste en la destruc
 
 Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 años de prisión, de 15 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y suspensión o inhabilitación para obtener licencia para conducir de 2 a 5 años.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
 ### CAPÍTULO IV. Tipos Penales Protectores del Equilibrio Ecológico
 
@@ -2446,3 +2458,9 @@ P.O. 19 DE FEBRERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
