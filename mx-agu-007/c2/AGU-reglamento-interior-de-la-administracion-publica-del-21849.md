@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-administracion-publica-del-21849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-03-28"
-last_updated: "1993-03-28"
+last_updated: "2014-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE RINCON DE ROMOS, AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DE MUNICIPIO DE RINCON DE ROMOS, AGS.
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PUBLICA DE MUNICIPIO DE RINCÓN DE ROMOS, AGS.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 28 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO Y DEROGADO A LOS 90 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 28 de marzo de 1993.
 
@@ -748,3 +750,15 @@ C. Juan Manuel Marmolejo Medina.
 EL SECRETARIO DEL H. AYUNTAMIENTO,
 
 C. Profr. Gilberto Luévano Soto.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2014.
+
+PRIMERO: El presente Código Municipal de Rincón de Romos entra en vigor a los 90 días siguientesa (sic) su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Se Abroga y Derogael (sic) Bando de Policía y Gobierno, publicado en el Periódico Oficial el día 29 de Mayo de 2006,Se (sic) Abroga y Deroga el Reglamento que Regula la Venta y Consumo De Bebidas Alcohólicas al Municipio de Rincón de Romos, Publicado en el Periódico Oficial el día 20 de Diciembre de 2004, Se Abroga y Deroga el Reglamento de Inspección del Municipio de Rincón de Romos Publicado en el Periódico Oficial el día 23 de Noviembre de 1986, Se Abroga y Deroga Reglamento de la Comisión Honor y Justicia de la Dirección de Seguridad Pública y Vialidad del Municipio de Rincón de Romos, Publicado en el Periódico Oficialel (sic) día 17 de Octubre de 2005, Se Abroga y Deroga Reglamento del Mercado del Municipio de Rincón de Romos, Publicado en el Periódico Oficial el día 15 de Mayo de 1994, Se Abroga y DerogaReglamento (sic) Interior de la Administración Pública del Municipio de Rincón de Romos, Publicado en el Periódico Oficial el 28 de Marzo de 1993, Se Abroga y Deroga Reglamento Interno de Dirección de Seguridad Pública y Vialidad del Municipio de Rincón de Romos, Publicado en el Periódico Oficial el día 17 de Octubre de 2005, Se Abroga y Deroga Reglamento para el uso de la Vía Publica en el Ejercicio del Comercio Ambulante, Puesto (sic) Semifijos, Mercados sobre Ruedas y Actividades Similares en Rincón de Romos, Publicado en el Periódico Oficial el día 21 de Enero de 2002.
+
+TERCERO: Todos los asuntos que se encuentran en trámite al inicio de la vigencia del presente Código Municipal de Rincón de Romos, seguirán hasta su conclusión apegándose a las formas y procedimientos.
+
+CUARTO: Se Derogan todas las disposiciones jurídicas de carácter Municipal que se opongan a lo dispuesto en el presente Código Municipal de Rincón de Romos, Aguascalientes.
