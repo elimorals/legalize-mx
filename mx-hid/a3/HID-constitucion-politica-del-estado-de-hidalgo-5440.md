@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2014-06-30"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -535,15 +535,21 @@ Son prerrogativas del ciudadano del Estado:
 
 I. Votar en las elecciones populares;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-II. Ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, reuniendo las condiciones que establezca la ley;
+II. Ser votado para todos los cargos de elección popular, con las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
 III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
-IV. Ejercer en toda clase de negocios el derecho de petición, conforme a la Ley.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+IV. Ejercer en toda clase de negocios el derecho de petición, conforme a la Ley; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2014)</small>
+
+V. Ser nombrado para cualquier empleo o comisión del servicio público, con las calidades que establezca la legislación.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -643,7 +649,13 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 La soberanía del Estado, reside esencial y originariamente en el pueblo hidalguense, quien la ejerce por medio de los poderes constituidos en los términos de esta ley fundamental.
 
-La renovación de los poderes legislativo y ejecutivo, así como de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+La renovación de los poderes legislativo y ejecutivo, al igual que la de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos o en coaliciones, así como los candidatos independientes.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
+De los partidos políticos:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -969,7 +981,21 @@ IV. A los Ayuntamientos;
 
 V. Al Procurador General de Justicia del Estado en su ramo y
 
-VI. A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+VI. A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+La Ley Orgánica del Poder Legislativo determinará el trámite que deba darse a las iniciativas.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+###### Artículo 47 Bis.
+
+El día de la apertura de cada periodo ordinario de sesiones del Congreso del Estado, el Ejecutivo Estatal podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+
+No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1015,7 +1041,7 @@ II. Hayan sido dictados en ejercicio de la facultad de revisar la cuenta general
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y (sic)
+III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1129,15 +1155,15 @@ XXI. Hacer comparecer a los servidores públicos titulares de dependencias o dir
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y (sic)
+XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
 
 (ADICIONADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
+XXIII. Expedir leyes sobre planeación del desarrollo estatal, y
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1988)</small>
 
-XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y (sic)
+XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
@@ -1153,7 +1179,7 @@ XXVII. Declarar si ha lugar o no a proceder penalmente contra los servidores pú
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 1998)</small>
 
-XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y (sic),
+XXVIII. Constituirse en órgano de acusación para conocer de las faltas graves administrativas cometidas por los servidores públicos y,
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1595,11 +1621,11 @@ L. Tomar las medidas necesarias en los casos de desastre y situaciones económic
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
-LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y (sic)
+LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de las indemnizaciones que correspondan conforme a la Ley; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
 
-LII. Designar al Consejero del Consejo de la Judicatura; y (sic)
+LII. Designar al Consejero del Consejo de la Judicatura; y
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -1617,9 +1643,9 @@ LIV. Las demás que le confiera esta Constitución y la General de la República
 
 ###### Artículo 72.
 
-El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado o a la Diputación Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Sub-procurador (sic) de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
+El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado o a la Diputación Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Sub-procurador de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
 
-Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, el Titular del Ejecutivo nombrará al Procurador General de Justicia y Sub-procurador (sic) de Asuntos Electorales hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de ley ante el Congreso del Estado.
+Si el Congreso del Estado o la Diputación Permanente en su caso, nada resolvieren dentro del plazo señalado, el Titular del Ejecutivo nombrará al Procurador General de Justicia y Sub-procurador de Asuntos Electorales hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de ley ante el Congreso del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -1687,7 +1713,7 @@ Serán consideradas como áreas prioritarias del estado, la inversión y fortale
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
-La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada en (sic) el Estado en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
+La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada en el Estado en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
@@ -1779,7 +1805,7 @@ IV. No haber sido condenado por delitos dolosos o faltas graves administrativas.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
-El Procurador General de Justicia y el Sub-procurador (sic) de Asuntos Electorales, duraran en su cargo tres años; deberán rendir la protesta de ley ante el Congreso del Estado o la Diputación Permanente en su caso, pudiendo ser ratificados por el primero.
+El Procurador General de Justicia y el Sub-procurador de Asuntos Electorales, duraran en su cargo tres años; deberán rendir la protesta de ley ante el Congreso del Estado o la Diputación Permanente en su caso, pudiendo ser ratificados por el primero.
 
 Solo podrán ser removidos en los términos previstos por esta Constitución; por la comisión de delitos; por faltas establecidas en las leyes vigentes y por incumplimiento grave de sus atribuciones de ley calificado así, por el pleno del Tribunal Superior de Justicia, a solicitud del Congreso o a virtud de la demanda que al efecto formule el titular del Ejecutivo ante el Congreso del Estado.
 
@@ -2869,11 +2895,11 @@ Esta Constitución mantendrá su vigencia aun cuando por alguna rebelión se int
 
 ###### Artículo 1°.
 
-Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
 ###### Artículo 2°.
 
@@ -2883,7 +2909,7 @@ La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, est
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
 ###### Artículo 4°.
 
@@ -3606,3 +3632,9 @@ P.O. 30 DE JUNIO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 28 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto de reforma y adición a la Constitución Política del Estado de Hidalgo.
