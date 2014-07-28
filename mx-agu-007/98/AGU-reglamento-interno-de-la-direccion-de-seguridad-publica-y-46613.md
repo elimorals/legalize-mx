@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-direccion-de-seguridad-publica-y-46613
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-17"
-last_updated: "2005-10-17"
+last_updated: "2014-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,1202 +22,1358 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO DE LA DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO DE RINCON DE ROMOS, AGUASCALIENTES
 
-REGLAMENTO INTERNO DE LA DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO DE RINCON DE ROMOS
+REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de octubre de 2005.
+Reglamento Publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 25 de septiembre de 2006.
 
-Profr. Juan Manuel Méndez Noriega, Presidente Municipal Constitucional de Rincón de Romos, Ags; a los habitantes del Municipio hace saber:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
-Que el H. Ayuntamiento de Rincón de Romos, Aguascalientes, en sesión ordinaria celebrada el día 1° de agosto del 2005, con fundamento en lo dispuesto por el Artículo 115 fracciones II y III inciso h de la Constitución Política de los Estados Unidos Mexicanos; Artículo 68 primer párrafo de la Constitución Política del Estado de Aguascalientes; Artículos 4º, 16 y 36 fracción I de la Ley Municipal para el Estado de Aguascalientes; y
+Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el artículo 49, fracción III, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave y 8, fracción II, de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, me permito expedir el presente Reglamento, al que corresponde la siguiente:
 
-C O N S I D E R A N D O.
+Exposición de Motivos.
 
-Se tiene a bien expedir el siguiente
+Con fundamento en las disposiciones legales antes transcritas y con sustento en la exposición previa, me permito emitir el siguiente:
 
-REGLAMENTO INTERNO DE LA DIRECCION DE SEGURIDAD PUBLICA Y VIALIDAD DEL MUNICIPIO DE RINCON DE ROMOS
+REGLAMENTO DE LA LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-### CAPITULO I. Disposiciones Generales
+### Capítulo I. Disposiciones Generales
 
-###### ARTICULO 1º.
+###### Artículo 1.
 
-El presente Reglamento es de orden público e interés general y tiene por objeto normar la función de prevención del delito y establecer las bases de coordinación entre la Federación, el Estado y el Municipio en materia de Seguridad Pública.
+El presente ordenamiento es de observancia general y tiene por objeto regular las disposiciones de la Ley de Catastro del Estado de Veracruz.
 
-###### ARTICULO 2º.
+La aplicación y vigilancia en el cumplimiento de las disposiciones de este Reglamento, corresponden a la Secretaría de Finanzas y Planeación, por conducto de su secretario, del subsecretario de Ingresos, su director general de Catastro, Geografía y Valuación y a los delegados regionales; a los ayuntamientos, tesoreros municipales y jefes de las Oficinas municipales de Catastro.
 
-La Seguridad Pública es la función a cargo de la Federación, el Estado y sus Municipios que tiene como fines prevenir el delito, salvaguardar la integridad y derecho de las personas, así como preservar el orden público y la paz social.
+###### Artículo 2.
 
-La Dirección de Seguridad Pública y Vialidad Municipal será la encargada de prevenir la comisión de delitos y sancionar las faltas administrativas de seguridad pública, vialidad y tránsito que se cometan dentro del territorio municipal.
+Para los efectos de este Reglamento se entenderá por:
 
-Asimismo, combatirá las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos.
+I. Procedimientos Catastrales: los lineamientos, normas y especificaciones para llevar a cabo las operaciones catastrales, que emita la Secretaría de Finanzas y Planeación;
 
-###### ARTICULO 3º.
+II. Tipología: la clasificación general de las edificaciones existentes en el estado, de acuerdo a sus elementos estructurales instalaciones y acabados;
 
-La función mencionada en el Artículo anterior se enmarcará en el respeto a las garantías individuales y tiene por objeto:
+III. Región: la región Catastral.
 
-I.- Mantener el orden público y la paz social en el Municipio;
+### Capítulo II. De la Clasificación de los Predios
 
-II.- Proteger la integridad y los derechos de las personas;
+###### Artículo 3.
 
-III.- Promover, coordinar y aplicar los programas de prevención de delitos y faltas a las Leyes y Reglamentos de la Federación, del Estado y del Municipio;
+De conformidad con el presente ordenamiento, el Instructivo de Valuación Catastral, los Procedimientos Catastrales y su estado físico, los predios urbanos y suburbanos se clasifican en baldíos, construidos, en proceso de construcción, y construcción precaria.
 
-IV.- Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos;
+###### Artículo 4.
 
-V.- Auxiliar a la población civil en casos de siniestros y desastres naturales y en su caso mitigar sus efectos.
+Conforme con su uso o destino, los predios urbanos y suburbanos se identificarán conforme a la tabla de usos que indiquen los Procedimientos Catastrales.
 
-###### ARTICULO 4º.
+###### Artículo 5.
 
-Son autoridades municipales en Seguridad Pública:
+Por lo que hace a la calidad del suelo, los predios rurales se clasifican en: de riego, de temporal, de humedad, áridos y pantanosos.
 
-I.- El Presidente Municipal;
+### Capítulo III. De las Operaciones Catastrales
 
-II.- El Secretario del H. Ayuntamiento;
+#### Sección Primera. Del Levantamiento Catastral
 
-III.- El Director de Seguridad Pública y Vialidad.
+###### Artículo 6.
 
-###### ARTICULO 5º.
+El levantamiento catastral de predios se realizará por métodos topográficos, fotogramétricos, geodésicos o de percepción remota. Su localización, deslinde y medición se hará conforme a las normas que establezcan los Procedimientos Catastrales.
 
-El Gobierno Municipal podrá celebrar convenios con la Federación, el Estado y otros Municipios, para la mejor prestación de la función de Seguridad Pública en el Municipio.
+###### Artículo 7.
 
-###### ARTICULO 6º.
+El levantamiento catastral por métodos topográficos se efectuará con las formalidades previstas en la Ley de Catastro y el Código de Procedimientos Administrativos.
 
-Para los efectos de este Reglamento, se entenderá por:
+###### Artículo 8.
 
-AYUNTAMIENTO: Es el órgano colegiado de gobierno y de la administración municipal que tiene competencia plena y exclusiva sobre el territorio de Rincón de Romos;
+Conforme a lo estipulado en el artículo 23 de la Ley de Catastro, la credencial de identificación del personal encargado de realizar el levantamiento catastral, deberá contener:
 
-COMISION: La Comisión de Honor y Justicia;
+I. Denominación de la Autoridad Catastral;
 
-CONSEJO: El Consejo Municipal de Seguridad Pública;
+II. Nombre, cargo, fotografía y firma del acreditado;
 
-CORPORACION DE SEGURIDAD: Las que se refieren en el artículo 7° del presente Reglamento;
+III. Nombre, cargo y firma del funcionario que la emita; y la cita del precepto que lo autoriza a expedir la credencial;
 
-CORPORACIONES AUXILIARES: A las corporaciones a que se refiere el articulo 8/o del presente Reglamento;
+IV. Periodo de vigencia.
 
-DIRECCION: La Dirección de Seguridad Pública y Vialidad Municipal;
+#### Sección Segunda. De la Elaboración y Actualización de la Cartografía Catastral
 
-DIRECTOR: El Director de Seguridad Pública y Vialidad del Municipio de Rincón de Romos.
+###### Artículo 9.
 
-INSTITUTO: Al Instituto Estatal de Seguridad Pública de Aguascalientes;
+La cartografía catastral que produzcan tanto el estado como los municipios, estará dibujada en papel o digitalizada, formando parte de bases de datos geográficos o archivos de intercambio, siguiendo el método y las especificaciones que indiquen los Procedimientos Catastrales, para la elaboración de cualquiera de los siguientes planos:
 
-PERSONAL DE SEGURIDAD PUBLICA: Al que se refiere el Artículo 11 de este Reglamento;
+I. De localidad;
 
-PRESIDENTE: Al Presidente Municipal y en el capítulo relativo a la Comisión de Honor y Justicia al Presidente de la misma;
+II. De región;
 
-SECRETARIO: Al Secretario de Seguridad Pública del Estado.
+III. De manzana;
 
-###### ARTICULO 7º.
+IV. De predios.
 
-Las corporaciones responsables de la Seguridad en el Municipio son:
+###### Artículo 10.
 
-I.- La Policía Preventiva y de Vialidad;
+Para efectos de registro catastral, la cartografía se elaborará en escala 1:500 ó 1:1,000 y deberá contener como mínimo los siguientes rasgos:
 
-II.- Las demás que se constituyan con estricto apego a las leyes.
+I. Ubicación en una localidad, región y manzana;
 
-###### ARTICULO 8º.
+II. Orientación;
 
-Son corporaciones auxiliares de Seguridad en el Municipio:
+III. Linderos acotados;
 
-I.- Los Cuerpos Operativos de Protección Civil Municipal;
+IV. Toponimia.
 
-II.- Los Cuerpos de Bomberos y Rescate;
+a) Municipio;
 
-III.- Las empresas de Seguridad Privada y de similar naturaleza que operen o se instalen en el Municipio;
+b) Localidad;
 
-IV.- Las demás que se constituyen con estricto apego a las leyes.
+c) Nombre de calles y vías de comunicación;
 
-###### ARTICULO 9º.
+d) Número de región;
 
-Las Corporaciones de Seguridad a que se refieren los Artículos 7/o y 8/o. de este reglamento, desempeñarán sus funciones bajo la coordinación del Presidente Municipal y el Ayuntamiento, en el ámbito de su competencia.
+V. Número de manzana;
 
-### CAPITULO II. Del Sistema Municipal de Seguridad Pública
+VI. Número de predio;
 
-### CAPITULO III. Del Consejo Municipal de Seguridad Pública
+VII. Bloques de construcción etiquetados, con sus linderos, dimensiones, tipo y número de niveles; y
 
-###### ARTICULO 10.
+VIII. Coordenadas locales, geográficas o Universal Transversa de Mercator (UTM).
 
-Los mandos operativos de las Corporaciones de Seguridad, tendrán el carácter de autoridad auxiliar cuando para ello sea requerido por la autoridad competente.
+###### Artículo 11.
 
-###### ARTICULO 11.
+La cartografía catastral en archivos digitales estará organizada por capas, con el orden siguiente:
 
-Se considera personal de Seguridad Pública a aquél a quien se le atribuya ese carácter mediante nombramiento o instrumento jurídico similar expedido por la Presidencia Municipal.
+I. Manzanas;
 
-Las relaciones de trabajo del personal de las Corporaciones de Seguridad se regirán por lo previsto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+II. Predios;
 
-No formarán parte de las Corporaciones de Seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la Seguridad Pública, aún cuando laboren en las Corporaciones encargadas de prestar dicho servicio.
+III. Bloques de construcción;
 
-###### ARTICULO 12.
+IV. Detalles topográficos.
 
-El personal de las Corporaciones de Seguridad tiene la obligación de portar a la vista las identificaciones con fotografía, así como los uniformes, insignias, divisas, armas y equipo que se le proporcione, en los actos de situaciones que requiera el servicio.
+Las capas de manzanas, predios y bloques de construcción, deberán ser polígonos.
 
-La Dirección conforme a las normas establecidas sujetará al personal de su Corporación de Seguridad para el uso de uniformes, insignias, divisas, armas y equipo.
+#### Sección Tercera. De la Valuación y de la Revaluación Catastral
 
-Las insignias de los grados jerárquicos se ceñirán a las siguientes disposiciones:
+###### Artículo 12.
 
-I.- Se utilizará estrella de seis puntas y rombos de color dorado;
+La valuación y revaluación catastral se efectuará de conformidad con lo dispuesto en este Reglamento y se sujetará a lo establecido tanto en el Instructivo de Valuación Catastral como en el Manual de Procedimientos Catastrales, que al efecto se expidan por la Secretaría de Finanzas y Planeación.
 
-II.- De acuerdo a su nivel jerárquico se utilizarán:
+###### Artículo 13.
 
-a) Director: Tres estrellas;
+La valuación y revaluación catastral comprenderá los siguientes aspectos:
 
-b) Subdirector: Dos estrellas;
+I. La clasificación del suelo en urbano, suburbano o rural;
 
-c) Primer Comandante: Una estrella;
+II. La clasificación de las construcciones por cada piso o nivel, conforme a la Tabla de Valores Unitarios de Construcción vigente;
 
-d) Comandante: Cuatro rombos;
+III. La aplicación de los valores catastrales unitarios del suelo y construcción vigentes o, en su caso, los valores unitarios provisionales;
 
-e) Subcomandante: Tres rombos;
+IV. La aplicación, si procede, de los coeficientes de mérito o demérito; y,
 
-f) Oficial: Dos Rombos;
+V. El cálculo de los valores catastrales de suelo, de construcción y catastral total del predio.
 
-g) Suboficial: Un rombo.
+###### Artículo 14.
 
-###### ARTICULO 13.
+El valor catastral de un predio será igual a la suma del valor catastral del terreno, más, en su caso, el valor catastral de la construcción, definidos como se indica a continuación:
 
-Los uniformes, insignias, divisas de los elementos de Seguridad Privada y corporaciones auxiliares, serán diferentes a las que porten los elementos de Seguridad Pública.
+I. El valor catastral del terreno es igual al producto del área de su superficie por el valor catastral unitario vigente de suelo, por los coeficientes de mérito o demérito correspondientes. Si no existiera valor unitario autorizado por el Congreso del Estado se utilizará el valor catastral provisional que determine la Autoridad Catastral.
 
-Queda prohibida la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio de identificación distinto a los reglamentarios; el uso de vehículos sin placas, recuperados o asegurados o cuya estancia en el país sea ilegal; así como la utilización de insignias, divisas, o uniformes reservados a la Secretaría de la Defensa Nacional o de Marina.
+II. El valor catastral de la construcción es igual al producto del área de la superficie construida, por el valor unitario de construcción vigente para el municipio en que se ubica el predio, por los coeficientes de demérito correspondientes. En caso de existir más de un tipo de construcción, el valor catastral de construcción será igual a la suma de los valores catastrales de construcción de todas las edificaciones existentes en el predio. Si no existe valor unitario autorizado por el Congreso del Estado se utilizará el valor catastral provisional que determine la Autoridad Catastral, de acuerdo con lo indicado en los Procedimientos Catastrales.
 
-También queda prohibido prestar simultáneamente servicios de cualquier carácter a una Corporación de Seguridad Pública y en otra de Seguridad Privada.
+#### Sección Cuarta. De la Determinación de los Valores Catastrales Unitarios Provisionales
 
-###### ARTICULO 14.
+###### Artículo 15.
 
-Se establece el Sistema Municipal de Seguridad Pública en el cual se coordinará el Municipio con el Estado y la Federación en los términos de lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y se integrará con las instancias y acciones previstas en el presente ordenamiento y otras disposiciones aplicables tendientes a la realización del objeto de este Reglamento.
+Para determinar los valores catastrales unitarios provisionales de suelo urbano y suburbano, se aplicará el método que indiquen los procedimientos catastrales y se tomarán como base:
 
-###### ARTICULO 15.
+I. Los valores predominantes del mercado de la propiedad inmobiliaria;
 
-El Sistema Municipal de Seguridad Pública tendrá funciones de coordinación operativas en acuerdo con los Sistemas Nacional y Estatal de Seguridad Pública, en la forma y términos dispuestos por la legislación estatal y federal en la materia que impulsará las actividades conducentes al cumplimiento de los fines que previene este Reglamento.
+II. Las características y diversidad de los servicios públicos y del equipamiento urbano adyacente;
 
-###### ARTICULO 16.
+III. El uso del suelo predominante de la zona, determinado por la Autoridad Catastral.
 
-Los integrantes del Sistema Municipal de Seguridad Pública promoverán en el ámbito de sus respectivas competencias la participación de la sociedad en la planeación y supervisión de la Seguridad Pública en los términos de este Reglamento y demás ordenamientos aplicables.
+###### Artículo 16.
 
-###### ARTICULO 17.
+Los valores catastrales unitarios provisionales para el suelo rural se determinarán tomando como base los valores de mercado de la propiedad inmobiliaria; las condiciones topográficas; cercanías con los centros de población; vías de comunicación; así como calidad y uso del suelo predominante, de acuerdo a lo que establezcan los Procedimientos Catastrales.
 
-El Presidente Municipal podrá proponer convenios para la división del territorio Municipal en zonas o regiones para fines de este ordenamiento previo acuerdo del Consejo y considerando los factores que permitan establecer en su caso, circunscripciones homogéneas a las que sea posible destinar programas comunes específicos.
+###### Artículo 17.
 
-###### ARTICULO 18.
+Para valuar construcciones cuyo tipo no se encuentre incluido en la Tabla de Valores de Construcción aprobada por el Congreso del Estado, la Autoridad Catastral de la jurisdicción determinará un valor provisional mediante el correspondiente análisis de precios unitarios, atendiendo a lo indicado en los Procedimientos Catastrales.
 
-Las Instituciones que integran el Sistema Municipal de Seguridad Pública realizarán las funciones de prevención de conductas ilícitas, sanción de faltas y custodia de individuos sujetos a detención conforme a la legislación vigente, así como los organismos y servicios auxiliares existentes o que en lo sucesivo se creen, independientemente de la denominación y adscripción administrativa que ostenten.
+#### Sección Quinta. Del Registro Catastral de los Bienes Inmuebles y las modificaciones al mismo
 
-###### ARTICULO 19.
+###### Artículo 18.
 
-Para el ejercicio de sus atribuciones, el Sistema Municipal de Seguridad Pública se integra de la siguiente manera:
+El registro catastral, compuesto de un registro alfanumérico, un registro gráfico y un registro documental, se identificará con una clave catastral única constituida por 22 campos, dispuestos como lo indiquen los Procedimientos Catastrales.
 
-I.- Consejo Municipal de Seguridad Pública;
+###### Artículo 19.
 
-II.- Consejo Municipal de Consulta y Participación Ciudadana;
+Para la asignación de los dígitos que conforman la clave catastral, deberá observarse lo siguiente:
 
-III.- Sistema Municipal de Información, Comunicaciones y Servicios de Atención a la Ciudadanía;(sic)
+I. Los dígitos correspondientes a zona catastral se asignarán de acuerdo con la numeración de las zonas catastrales que determine el Reglamento Interior de la Secretaría de Finanzas y Planeación.
 
-###### ARTICULO 20.
+II. Los dígitos correspondientes a municipio, se asignarán de acuerdo con la numeración siguiente:
 
-El Consejo Municipal de Seguridad Pública es la instancia encargada de la coordinación, planeación y supervisión de las labores que realiza el Sistema Municipal de Seguridad Pública.
+01 Acajete
 
-###### ARTICULO 21.
+02 Acatlán
 
-El Consejo, para la organización, dirección, ejecución, supervisión y control de sus trabajos estará compuesto por:
+03 Acayucan
 
-I.- El Presidente Municipal, quien lo presidirá;
+04 Actopan
 
-II.- El Secretario del H. Ayuntamiento; quien fungirá como Secretario Ejecutivo del Consejo;
+05 Acula
 
-III.- El Director de Seguridad Pública y Vialidad Municipal;
+06 Acultzingo
 
-IV.- El Regidor de la Comisión de Seguridad Pública;
+07 Agua Dulce
 
-V.- El Sindico Procurador del H. Ayuntamiento;
+08 Alpatláhuac
 
-VI.- El Coordinador de Protección Civil;
+09 Alto Lucero
 
-VII.- Representantes de los Sectores Privado y Social;
+10 Altotonga
 
-VIII.- Los Representantes en el Municipio de las siguientes Dependencias Estatales, cuando las hubiera:
+11 Alvarado
 
-a) Secretaría General de Gobierno;
+12 Amatitlán
 
-b) Procuraduría General de Justicia;
+13 Amatlán de los Reyes
 
-c) Supremo Tribunal de Justicia;
+14 Ángel R. Cabada
 
-IX.- Los representantes en el Municipio de las siguientes Dependencias Federales, cuando las hubiera:
+15 La Antigua
 
-a) Procuraduría General de la República;
+16 Apazapan
 
-b) Secretaría de la Defensa Nacional;
+17 Aquila
 
-c) Secretaría de Seguridad Pública;
+18 Astacinga
 
-X.- Todos los demás que a juicio del Presidente del Consejo pudieran contribuir para el logro de sus objetivos.
+19 Atlahuilco
 
-###### ARTICULO 22.
+20 Atoyac
 
-En ausencia del Presidente el Secretario del H. Ayuntamiento presidirá el Consejo.
+21 Atzacan
 
-###### ARTICULO 23.
+22 Atzalan
 
-El Consejo tendrá las siguientes atribuciones:
+23 Ayahualulco
 
-I.- Coordinar y supervisar el Sistema Municipal de Seguridad Pública;
+24 Banderilla
 
-II.- Formular y proponer al H. Ayuntamiento el proyecto del Programa Municipal de Seguridad Pública que responda a las finalidades y lineamientos de este reglamento en congruencia con el Plan Municipal de Desarrollo;
+25 Benito Juárez
 
-III.- Formular y proponer al H. Ayuntamiento el Proyecto de inversión de cada ejercicio anual contemplado en los convenios de coordinación de Seguridad
+26 Boca del Río
 
-Pública Federación - Estado - Municipios de conformidad con las necesidades que se tengan y los recursos que se aprueben en el Presupuesto de Egresos del Municipio;
+27 Calcahualco
 
-IV.- Proponer y en su caso acordar la creación de instancias regionales e intermunicipales de coordinación en materia de Seguridad Pública;
+28 Camarón de Tejeda
 
-V.- Establecer, organizar, operar y supervisar el Sistema Municipal de información, comunicaciones en Seguridad Pública y Servicios de atención a la ciudadanía;
+29 Camerino Z. Mendoza
 
-VI.- Coadyuvar en el ámbito de su competencia en los programas de cooperación nacional e internacional que proponga el Consejo Nacional de Seguridad Pública;
+30 Carlos A. Carrillo
 
-VII.- Supervisar el servicio civil de carrera aplicable a los elementos de la corporación, conforme a la Ley respectiva;
+31 Carrillo Puerto
 
-VIII.- Atender las propuestas que en materia de Seguridad Pública realicen los Sectores Social y Privado;
+32 Castillo de Teayo
 
-IX.- Fomentar una cultura de Seguridad Pública en el Municipio;
+33 Catemaco
 
-X.- Formular estudios y propuestas para cumplir sus objetivos;
+34 Cazones de Herrera
 
-XI.- Las demás que señale este Reglamento y demás disposiciones legales.
+35 Cerro Azul
 
-###### ARTICULO 24.
+36 Citlaltépetl
 
-La participación en el Sistema Municipal de Seguridad Pública y en el Consejo en ningún caso implica la transferencia de atribuciones o facultades legales de las Autoridades Federales, Estatales y Municipales, si no la coordinación en el ejercicio de aquellas que establece el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, con el propósito de obtener con mayor eficacia el mejoramiento de las condiciones de Seguridad Pública en el Municipio. Por lo tanto las autoridades que integran el Sistema y participan en el Consejo, conservan íntegramente las facultades y responsabilidades que legalmente les corresponden.
+37 Coacoatzintla
 
-###### ARTICULO 25.
+38 Coahuitlán
 
-El Consejo celebrará una sesión ordinaria cada mes, así como las extraordinarias que se consideren necesarias a convocatoria de su Presidente o de las dos terceras partes de sus integrantes.
+39 Coatepec
 
-###### ARTICULO 26.
+40 Coatzacoalcos
 
-Las resoluciones del Consejo se tomarán mediante el voto de la mayoría de los integrantes presentes, en caso de empate, el Presidente tendrá voto de calidad.
+41 Coatzintla
 
-###### ARTICULO 27.
+42 Coetzala
 
-Cuando la aprobación y ejecución de las resoluciones o acuerdos se comprendan materias o acciones que indican en los ámbitos de competencia de la Federación, del Estado o de otros Municipios, deberán concentrarse ante las autoridades competentes con apego a los ordenamientos legales correspondientes o en su caso, celebrar acuerdos o convenios generales o específicos de coordinación.
+43 Colipa
 
-###### ARTICULO 28.
+44 Comapa
 
-La Secretaría Ejecutiva tendrá las siguientes atribuciones:
+45 Córdoba
 
-I.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
+46 Cosamaloapan
 
-II.- Establecer enlaces de coordinación con los Consejos Estatal y Nacional;
+47 Cosautlán de Carvajal
 
-III.- Coordinar el Servicio Civil de Carrera en materia de Seguridad Pública;
+48 Coscomatepec
 
-IV.- Implementar y coordinar las medidas y acciones necesarias para hacer efectiva la interacción entre las Instituciones de Seguridad Pública integrantes del Consejo;
+49 Cosoleacaque
 
-V.- Delegar atribuciones en sus coordinadores de área;
+50 Cotaxtla
 
-VI.- Ejecutar las acciones necesarias para dar cumplimiento a las atribuciones del Consejo señaladas en el Artículo 23 de este ordenamiento;
+51 Coxquihui
 
-VII.- Las demás que le señale este Reglamento, el Consejo, su Presidente y demás ordenamientos que rijan en la materia.
+52 Coyutla
 
-###### ARTICULO 29.
+53 Cuichapa
 
-Para el logro de los objetivos de este Consejo, existirán las siguientes comisiones:
+54 Cuitláhuac
 
-I.- Comisión Permanente del Consejo, la que se denominará “Gabinete de Seguridad Pública”; se encargará de dar seguimiento de los acuerdos del Consejo y se apoyará en un Comité Técnico;
+55 Chacaltianguis
 
-II.- Comisión del Servicio Civil de Carrera, que auxiliará al Consejo y fungirá como órgano de revisión en las decisiones sobre la materia en relación con el personal de Seguridad Pública;
+56 Chalma
 
-III.- Comisión de enlace, que auxiliará al Consejo en el seguimiento de los acuerdos tomados con la Federación, con el Estado y con otros Municipios;
+57 Chiconamel
 
-IV.- Comisión de Consulta Pública y Participación Ciudadana, que coordinará las acciones interinstitucionales en la materia vinculadas a la Seguridad Pública con la finalidad de unificar criterios.
+58 Chiconquiaco
 
-V.- Comisiones Regionales, para el conocimiento y la atención de asuntos relacionados con la determinada circunscripción territorial que comprenda más de un Municipio en estos casos, las comisiones se integran con funcionarios del Consejo y los Presidentes Municipales involucrados;
+59 Chicontepec
 
-VI.- Comisiones Especiales, para el conocimiento y la atención de materias relacionadas con Seguridad Pública cuando éstas tengan o puedan tener relevancia para todo el Municipio. Las comisiones especiales se formarán con los integrantes que designe el Consejo.
+60 Chinameca
 
-Las conclusiones de las comisiones serán sometidas al Consejo para que determine lo que corresponda.
+61 Chinampa de Gorostiza
 
-###### ARTICULO 30.
+62 Las Choapas
 
-El Gabinete de Seguridad Pública estará compuesto por:
+63 Chocamán
 
-I.- El Presidente Municipal;
+64 Chontla
 
-II.- El Secretario del H. Ayuntamiento;
+65 Chumatlán
 
-III.- El Director de Seguridad Pública y Vialidad;
+66 Emiliano Zapata
 
-IV.- El Síndico Municipal;
+67 Espinal
 
-V.- El Regidor de la Comisión de Seguridad Pública;
+68 Filomeno Mata
 
-VI.- Los representantes en el Municipio de las Dependencias Estatales y Federales que de conformidad con las leyes tengan atribuciones en materia de Seguridad Pública; y
+69 Fortín
 
-VII.- Aquellos funcionarios que a juicio del Presidente Municipal deban participar.
+70 Gutiérrez Zamora
 
-###### ARTICULO 31.
+71 Hidalgotitlán
 
-Los ciudadanos podrán participar en tareas de Seguridad Pública a través del Consejo Municipal de Consulta y Participación Ciudadana y de los Comités que se integren en las Delegaciones, Comisarías, Colonias, Fraccionamientos y comunidades del Municipio, para contribuir en las siguientes estrategias:
+72 El Higo
 
-I.- Evaluación ciudadana de políticas e instituciones;
+73 Huatusco
 
-II.- Información ciudadana y denuncia; y
+74 Huayacocotla
 
-III.- Coadyuvancia ciudadana en el cumplimiento de los Programas Nacional, Estatal y Municipal de Seguridad Pública.
+75 Hueyapan de Ocampo
 
-###### ARTICULO 32.
+76 Huiloapan de Cuauhtémoc
 
-El Consejo Municipal de Consulta y Participación Ciudadana estará integrado por:
+77 Ignacio de la Llave
 
-I.- Un Presidente y Tres Consejeros que serán nombrados por el Presidente Municipal;
+78 Ilamatlán
 
-II.- Un Regidor, representante del H. Ayuntamiento;
+79 Isla
 
-III.- Un Representante por cada Delegación y Comisarías;
+80 Ixcatepec
 
-IV.- Un representante de alguna Asociación de Padres de Familia;
+81 Ixhuacán de los Reyes
 
-V.- Un representante de las Agrupaciones y Organismos Industriales del Municipio;
+82 Ixhuatlán de Madero
 
-VI.- Un representante de las Agrupaciones y Organismos de Comerciantes del Municipio;
+83 Ixhuatlán del Café
 
-VII.- Un representante de las Instituciones Educativas Públicas y Privadas, ubicadas en el Municipio;
+84 Ixhuatlán del Sureste
 
-VIII.- Un Representante de la Comisión de Participación Ciudadana del Consejo, que tendrá a su cargo la Secretaría Técnica; y
+85 Ixhuatlancillo
 
-IX.- Los demás que a juicio del Presidente del Consejo deban participar.
+86 Ixmatlahuacan
 
-###### ARTICULO 33.
+87 Ixtaczoquitlán
 
-El Consejo Municipal, de acuerdo a lo previsto en el artículo anterior, procederá a integrar y constituir formalmente los respectivos comités de Consulta y Participación Ciudadana, para lo cual convocarán a los sectores social y privado interesados en colaborar con la Seguridad Pública. Los comités estarán vinculados y recibirán apoyo de cada una de las Instituciones de Seguridad Pública.
+88 Jalacingo
 
-###### ARTICULO 34.
+89 Jalcomulco
 
-El Consejo Municipal de Consulta y Participación Ciudadana y los Comités respectivos evaluarán a las Instituciones de Seguridad Pública que formen parte del Consejo, sujetándose a las normas y procedimientos que dicte el Comité Técnico. Tendrán también la facultad de emitir recomendaciones con el fin de corregir deficiencias y consolidar aciertos.
+90 Jáltipan
 
-###### ARTICULO 35.
+91 Jamapa
 
-El Consejo Municipal de Consulta y Participación Ciudadana promoverá que las victimas o testigos de delitos participen con información ciudadana, denuncias y quejas.
+92 Jesús Carranza
 
-###### ARTICULO 36.
+93 Jilotepec
 
-El Consejo Municipal de Consulta y Participación Ciudadana en apoyo a la realización de los Programas Municipal, Estatal y Nacional de Seguridad Pública fomentará la cultura de la prevención del delito, la legalidad, los valores de la justicia y respeto a los demás.
+94 José Azueta
 
-###### ARTICULO 37.
+95 Juan Rodríguez Clara
 
-Las Instituciones de Seguridad Pública establecerán programas normativos, operativos y de supervisión dentro del marco de los Programas Municipal, Estatal y Nacional de Seguridad Pública.
+96 Juchique de Ferrer
 
-###### ARTICULO 38.
+97 Landero y Coss
 
-Los Programas normativos consisten en el diseño y definición de políticas con el establecimiento de objetivos, estrategias y acciones a ejecutar en Seguridad Pública.
+98 Lerdo de Tejada
 
-###### ARTICULO 39.
+99 Magdalena
 
-Son programas operativos de las Corporaciones de Seguridad, todos los que contemplen acciones para prevenir y mantener el orden y la tranquilidad pública del Municipio.
+100 Maltrata
 
-###### ARTICULO 40.
+101 Manlio F. Altamirano
 
-Se entiende por programa de supervisión a la verificación, control y evaluación del cumplimiento de objetivos y estrategias a través de las acciones realizadas.
+102 Mariano Escobedo
 
-###### ARTICULO 41.
+103 Martínez de la Torre
 
-La coordinación a que se refiere este capítulo comprende las acciones de las Instituciones de Seguridad Pública inherentes a la consecución de los objetivos de este ordenamiento abarcando las materias siguientes:
+104 Mecatlán
 
-I.- Sistemas expeditos para el intercambio de información que facilite el desarrollo de sus actividades;
+105 Mecayapan
 
-II.- Intercambio académico y de experiencias para robustecer el desempeño profesional del personal de Seguridad Pública;
+106 Medellín de Bravo
 
-III.- Procedimientos de selección, formación, permanencia, promoción y retiro;
+107 Miahuatlán
 
-IV.- Sistemas disciplinarios, de estímulos y recompensas;
+108 Las Minas
 
-V.- Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad Privada actuarán bajo la autoridad y el mando del Ministerio Público cuando intervengan como auxiliar de éste en la averiguación o persecución de los delitos;
+109 Minatitlán
 
-VI.- Relación con la comunidad y fomento a la cultura de prevención de faltas y delitos;
+110 Misantla
 
-VII.- Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública o mediante convenios y bases de coordinación entre Instituciones que al efecto celebren.
+111 Mixtla de Altamirano
 
-### CAPITULO IV. De la Participación Ciudadana
+112 Moloacán
 
-###### ARTICULO 42.
+113 Nanchital de Lázaro Cárdenas del Río
 
-Las autoridades Federales, Estatales y Municipales encargadas de la Seguridad Pública dentro del ámbito de sus respectivas competencias, coordinarán operativa y administrativamente las materias y actividades señaladas en el Artículo anterior mediante convenios generales o específicos.
+114 Naolinco
 
-###### ARTICULO 43.
+115 Naranjal
 
-Las funciones de prevención del delito, vialidad y tránsito, se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado de Aguascalientes, la Ley de Seguridad Pública para el Estado de Aguascalientes, la Ley de Vialidad del Estado de Aguascalientes, la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, el Bando Municipal de Policía y Gobierno, el presente Reglamento y demás ordenamientos aplicables.
+116 Naranjos Amatlán
 
-###### ARTICULO 44.
+117 Nautla
 
-La prevención del delito corresponde en forma coordinada a la Federación, al Estado y al Municipio, cada uno con sus propios recursos en los términos del presente ordenamiento.
+118 Nogales
 
-###### ARTICULO 45.
+119 Oluta
 
-La Dirección de Seguridad Pública y Vialidad es una Dependencia del Gobierno Municipal, que tiene como objetivo prevenir la comisión de delitos y la violación a las leyes, reglamentos y demás disposiciones jurídicas en el ámbito Municipal, con la coordinación y respeto a las competencias Federal y Estatal que establecen las Constituciones Políticas de los Estados Unidos Mexicanos y la del Estado.
+120 Omealca
 
-La fuerza operativa de la Dirección tendrá la denominación de Policía Municipal, cuya función será la vigilancia y prevención del delito dentro del territorio Municipal y la sanción de los infractores a los ordenamientos administrativos aplicables.
+121 Orizaba
 
-###### ARTICULO 46.
+122 Otatitlán
 
-Son atribuciones de la Dirección, sin perjuicio de las determinadas en otras disposiciones legales, las siguientes:
+123 Oteapan
 
-I.- Acordar con el Presidente Municipal, lo relacionado con los Programas, objetivos, estrategias y acciones tendientes al buen funcionamiento administrativo y operativo de la corporación de Seguridad Pública;
+124 Ozuluama
 
-II.- Vigilar y cuidar el orden público en el territorio Municipal para proteger la integridad, patrimonio y derechos de sus habitantes, en coordinación con las Dependencias que de acuerdo con la normatividad Estatal y Federal realicen las funciones de Policía Preventiva, Vialidad y Tránsito;
+125 Pajapan
 
-III.- Auxiliar a las Autoridades Judiciales, Administrativas, al Ministerio Público y a los Municipios en los casos urgentes o en los términos de los convenios de colaboración respectivos;
+126 Pánuco
 
-IV.- Establecer las estrategias para la prevención del delito conforme a las necesidades que generen los índices delictivos y vigilar las áreas de alto riesgo criminógeno;
+127 Papantla
 
-V.- Celebrar convenios de coordinación con las diferentes Instituciones relacionadas con la Seguridad Pública para el logro de sus objetivos;
+128 Paso de Ovejas
 
-VI.- Asistir a las juntas y reuniones para efecto de coordinar políticas relacionadas con la Prevención del Delito;
+129 Paso del Macho
 
-VII.- Participar en la promoción y fomento de una cultura de Prevención del Delito, Educación Vial y Siniestros;
+130 La Perla
 
-VIII.- Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil y Cuerpo de Rescate.
+131 Perote
 
-###### ARTICULO 47.
+132 Platón Sánchez
 
-La Dirección funcionará con el organigrama autorizado por el H. Ayuntamiento, a propuesta del Presidente Municipal.
+133 Playa Vicente
 
-###### ARTICULO 48.
+134 Poza Rica de Hidalgo
 
-El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado.
+135 Pueblo Viejo
 
-###### ARTICULO 49.
+136 Puente Nacional
 
-La Dirección dotará a todo el personal operativo, con credencial que los identifique como personal dedicado a la Prevención del Delito. Contendrá el nombre de la Corporación a la que pertenece el usuario, su nombre, grado jerárquico, fotografía cancelada con sello de la Dirección, clave única de registro de la población (CURP), fecha de expedición y de vencimiento, así como la validación que se hace con la firma del Presidente Municipal, Secretario del H. Ayuntamiento y el Director.
+137 Rafael Delgado
 
-###### ARTICULO 50.
+138 Rafael Lucio
 
-Mientras se tramita la Licencia Oficial Colectiva de Portación de Armas de Fuego, se le proporcionará a la Dirección General de Seguridad Pública del Estado toda la información necesaria y se le otorgarán las facilidades para llevar a cabo las evaluaciones que requiera la Secretaria de la Defensa Nacional para la renovación, mantenimiento y cuidado de la Licencia Colectiva.
+139 Los Reyes
 
-###### ARTICULO 51.
+140 Río Blanco
 
-Queda estrictamente prohibido al personal operativo de la Dirección, la portación de armas de fuego de propiedad particular para el ejercicio de sus funciones.
+141 Salta Barranca
 
-###### ARTICULO 52.
+142 San Andrés Tenejapan
 
-La Dirección tendrá bajo su mando al Cuerpo de Bomberos y coordinación con la Jefatura de la Unidad Municipal de Protección Civil, cuya integración se encuadrará en el organigrama que apruebe el H. Ayuntamiento a propuesta del Presidente Municipal y contará con los elementos indispensables para su operación.
+143 San Andrés Tuxtla
 
-La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y combatir incendios, explosiones de gases, derrames de combustibles o productos químicos, derrumbes de construcciones, fugas de gases tóxicos o combustibles, cortos circuitos y accidentes causados por equipo y material eléctrico, rescate de personas vivas o muertas, control de inundaciones, aseguramiento o destrucción de animales peligrosos y otros eventos en que a juicio de la Dirección deba intervenir.
+144 San Juan Evangelista
 
-###### ARTICULO 53.
+145 Santiago Tuxtla
 
-Se establece el Sistema Municipal de Información, Comunicaciones en Seguridad Pública y Servicios de Atención a la Ciudadanía, en el cual se coordinarán las instancias de Seguridad Pública, el Cuerpo de Bomberos, la Unidad Municipal de Protección Civil y demás Organizaciones de Asistencia Pública para la integración sistemática de la información de Seguridad Pública y para la atención, orientación y respuesta inmediata a la población en casos de emergencia mediante los instrumentos tecnológicos necesarios.
+146 Sayula de Alemán
 
-###### ARTICULO 54.
+147 Soconusco
 
-Este Sistema tendrá como finalidad establecer la infraestructura necesaria para coadyuvar a la coordinación entre las instancias competentes en la toma de decisiones y en la respuesta oportuna y eficiente a la ciudadanía a partir de información confiable que permita optimizar los recursos disponibles, así como la coordinación con el resto de las Entidades Federativas y Municipios aledaños en la Prevención y Persecución de los Delitos, en la prevención y mitigación de siniestros, así como en la atención de emergencias.
+148 Sochiapa
 
-###### ARTICULO 55.
+149 Soledad Atzompa
 
-El Centro Municipal de Comunicaciones Rincón concentrará y administrará las redes locales de información en Seguridad Pública, las estadísticas y los registros en la materia y brindará servicio telefónico de emergencia.
+150 Soledad de Doblado
 
-### CAPITULO V. De la Coordinación en Materia de Seguridad Pública
+151 Soteapan
 
-###### ARTICULO 56.
+152 Tamalín
 
-Son funciones del CEMCRI:
+153 Tamiahua
 
-I.- Brindar un apoyo continuo a la comunidad a través de mecanismos de comunicación para el reporte y atención inmediata de llamadas de emergencia a través de una red Municipal, enlazada a una Red Estatal y a una Red Nacional de Comunicaciones;
+154 Tampico Alto
 
-II.- Atender las emergencias de la ciudadanía en materia de Seguridad Pública y Protección Civil por medio de la red telefónica, el canal de emergencia de radio banda civil y las frecuencias restringidas de radio pertenecientes a las Policías Municipal, Estatal y Federal;
+155 Tancoco
 
-III.- Realizar los procedimientos de vigilancia y registro en tiempo real de los acontecimientos e incidentes relacionados con la alteración del orden público y paz social, así como de contingencias provocadas por fenómenos naturales;
+156 Tantima
 
-IV.- Realizar los procedimientos de supervisión de la Red Municipal de Comunicaciones para corroborar su buen funcionamiento y uso adecuado;
+157 Tantoyuca
 
-V.- Mantener coordinación con Dependencias de Seguridad Pública de los tres niveles de Gobierno, así como con Instituciones de Salud, Protección Civil, atención de emergencias y demás asistenciales públicas y privadas que en la materia funcionen en nuestro Municipio, en los Estados y Municipios vecinos;
+158 Tatahuicapan de Juárez
 
-VI.- Elaborar con la participación de los tres niveles de Gobierno, los lineamientos de coordinación interinstitucional táctico - operativos para la incorporación de las Instituciones involucradas en el Sistema Municipal de Información, Comunicaciones en Seguridad Pública y servicios de atención a la ciudadanía;
+159 Tatatila
 
-VII.- Recopilar información sobre los procedimientos generales y particulares de operación y seguridad de cada una de las Instituciones y Entidades que integran el Sistema Municipal, el Estatal y el Nacional de Seguridad Pública, así como de los grupos de apoyo con el fin de facilitar la coordinación entre las mismas;
+160 Tecolutla
 
-VIII.- Mantener comunicación constante a través de la Red Nacional de Telecomunicaciones, con los Centros Homólogos en todo el País con la finalidad de facilitar la coordinación de acciones y operativos en el ámbito nacional;
+161 Tehuipango
 
-IX.- Proporcionar a las diferentes Instituciones de Seguridad Pública el acceso a las bases de datos contenidas en los registros municipales y del Sistema Nacional de Seguridad Pública;
+162 Temapache
 
-X.- Procesar la información a fin de que cualquier Institución de Seguridad Pública o el Consejo, realice la planeación y definición de estrategias.
+163 Tempoal
 
-Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas Instituciones de los tres niveles de Gobierno.
+164 Tenampa
 
-###### ARTICULO 57.
+165 Tenochtitlán
 
-La Dirección integrará las bases de datos para la composición de los diversos registros del Sistema Municipal de Seguridad Pública en los siguientes rubros:
+166 Teocelo
 
-I.- Personal de Seguridad Pública;
+167 Tepatlaxco
 
-II.- Armamento y Equipo;
+168 Tepetlán
 
-III.- Estadísticas de Seguridad Pública;
+169 Tepetzintla
 
-IV.- Padrón Vehicular;
+170 Tequila
 
-V.- Además aquellos que se consideren de interés para la Seguridad Pública.
+171 Texcatepec
 
-###### ARTICULO 58.
+172 Texhuacán
 
-La utilización de los registros se hará bajo los más estrictos principios de confidencialidad y reserva. La consulta se realizará única y exclusivamente en ejercicio de las funciones oficiales de Seguridad Pública por el personal autorizado. El incumplimiento a esta disposición se sancionará conforme a la Legislación Penal sin perjuicio de responsabilidades de otra naturaleza en que se pudiera incurrir.
+173 Texistepec
 
-La información que ponga en riesgo la Seguridad o atente contra las personas y su honra será estrictamente resguardada y bajo ninguna circunstancia podrá ser hecha pública.
+174 Tezonapa
 
-### CAPITULO VI. De la Prevención del Delito, Vialidad y Tránsito
+175 Tierra Blanca
 
-###### ARTICULO 59.
+176 Tihuatlán
 
-El Consejo, a través del CEMCRI, integrará los registros municipales de Seguridad Pública y resguardará la información contenida en tales bases de datos, los cuales deberán integrarse conforme a los lineamientos señalados por los Sistemas Estatal y Nacional de Seguridad Pública.
+177 Tlacojalpan
 
-### CAPITULO VII. De la Dirección de Seguridad Pública y Vialidad
+178 Tlacolulan
 
-###### ARTICULO 60.
+179 Tlacotalpan
 
-La Dirección mantendrá actualizados los datos relativos a sus registros en el CEMCRI.
+180 Tlacotepec de Mejía
 
-Cuando alguno de los integrantes de las corporaciones de seguridad pública se le inicie averiguación previa, se le dicte auto de formal prisión, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se actualizarán sus registros.
+181 Tlalchichilco
 
-### CAPITULO VIII. Del Sistema Municipal de Información, Comunicaciones en Seguridad Pública y Servicios de Atención a la Ciudadanía
+182 Tlalixcoyan
 
-###### ARTICULO 61.
+183 Tlaltetela
 
-La consulta de registros de personal será obligatoria y previa al ingreso de un aspirante a causar alta en las Corporaciones de Seguridad Pública. Con los resultados de dicha consulta la autoridad podrá admitir o rechazar al solicitante.
+184 Tlalnelhuayocan
 
-###### ARTICULO 62.
+185 Tlapacoyan
 
-La Dirección implementará los instrumentos de acopio de datos de acuerdo con cada dependencia para permitir analizar la incidencia criminológica y en general la problemática de Seguridad Pública con el propósito de planear objetivos, estrategias y acciones tendientes a la preservación del orden público y la paz social de conformidad con los lineamientos de los Programas Municipal, Estatal y Nacional de Seguridad Pública.
+186 Tlaquilpa
 
-###### ARTICULO 63.
+187 Tlilapan
 
-El CEMCRI recopilará diariamente la información y la pondrá a disposición de la Dirección y del Consejo.
+188 Tomatlán
 
-Las estadísticas de Seguridad Pública proporcionadas al CEMCRI permitirán la sistematización de los datos y cifras relevantes sobre prevención de los delitos y las faltas, así como los factores asociados a la problemática de Seguridad Pública.
+189 Tonayán
 
-### CAPITULO IX. De la Profesionalización del Personal de Seguridad Pública
+190 Totutla
 
-###### ARTICULO 64.
+191 Tres Valles
 
-La Dirección diseñará e implementará en coordinación con el Instituto Estatal de Seguridad Pública de Aguascalientes, un Programa General de Profesionalización que incluya a todo el personal de Seguridad Pública, que tendrá como finalidad alcanzar su desarrollo profesional, ético, técnico, científico, físico, humanístico y cultural en el marco de respeto a los derechos humanos y al estado de derecho.
+192 Tuxpan
 
-La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal.
+193 Tuxtilla
 
-###### ARTICULO 65.
+194 Úrsulo Galván
 
-Las carreras y los cursos de formación inicial serán accesibles a todos los aspirantes que reúnan los requisitos para causar alta y serán indispensables para pertenecer a los cuerpos de Seguridad Pública.
+195 Uxpanapa
 
-###### ARTICULO 66.
+196 Vega de Alatorre
 
-Los cursos de actualización y especialización serán accesibles a todo el personal de Seguridad Pública, quienes deberán reunir un mínimo de tres créditos académicos anuales como requisitos para su permanencia y promoción.
+197 Veracruz
 
-###### ARTICULO 67.
+198 Las Vigas de Ramírez
 
-Para fortalecer la profesionalización del personal de Seguridad Pública, se establece el Servicio Civil de Carrera, de conformidad con lo dispuesto en la Ley de la Materia y sus Reglamentos.
+199 Villa Aldama
 
-### CAPITULO X. De las Bases y lineamientos Generales de Actuación del Personal de Seguridad Pública
+200 Xalapa
 
-###### ARTICULO 68.
+201 Xico
 
-El servicio a la comunidad, la disciplina, la eficiencia, honradez, la responsabilidad, la lealtad, el respeto a los derechos humanos y la legalidad, son principios que el personal de Seguridad Pública debe observar invariablemente en su actuación.
+202 Xoxocotla
 
-###### ARTICULO 69.
+203 Yanga
 
-Los elementos pertenecientes a la Dirección, independientemente de las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, deberán:
+204 Yecuatla
 
-I.- Actuar dentro del orden jurídico, respetando en todo momento los preceptos contenidos en las Constituciones Políticas de los Estados Unidos Mexicanos, la de Aguascalientes y las Leyes que de ellas emanen;
+205 Zacualpan
 
-II.- Respetar y contribuir en la protección de los derechos humanos;
+206 Zaragoza
 
-III.- Actuar con decisión y sin demora en la protección de las personas, sus bienes y sus derechos;
+207 Zentla
 
-IV.- No discriminar en el cumplimiento de sus funciones a persona alguna en razón de su nacionalidad, raza, etnia, religión, sexo, idioma, dialecto, condición social o física, ideología, preferencia sexual, con capacidades diferentes o por algún otro motivo;
+208 Zongolica
 
-V.- Abstenerse de todo tipo de corrupción;
+209 Zontecomatlán
 
-VI.- Poner inmediatamente a disposición de un superior jerárquico o de la autoridad correspondiente cualquier instrumento u objeto que con motivo del desempeño de sus funciones haya asegurado a los infractores de las Leyes o Reglamentos;
+210 Zozocolco de Hidalgo
 
-VII.- Proteger y conservar con fines criminalísticos, el lugar donde presuntamente se haya cometido algún delito y los objetos relacionados con el mismo;
+211 San Rafael
 
-VIII.- Observar la prohibición de liberar a los detenidos sin orden o autorización de la autoridad competente;
+212 Santiago Sochiapan
 
-IX.- Ajustarse a lo que establecen los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos en lo referente a la detención de personas;
+III. La asignación de los dígitos de localidad en cada circunscripción municipal, se hará de acuerdo con el catálogo de localidades que emita la Dirección General de Catastro.
 
-X.- Observar un trato respetuoso en sus relaciones con las personas, a quienes auxiliarán y protegerán en todo momento;
+IV. Para la determinación de los dígitos de región, manzana, lote, nivel y departamento, se atenderá a lo especificado en los Procedimientos Catastrales y el Instructivo de Valuación Catastral.
 
-XI.- Abstenerse de todo acto de prepotencia;
+###### Artículo 20.
 
-XII.- Permitir las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la ciudadanía;
+El Registro Alfanumérico es el conjunto de datos contenidos en el padrón técnico que describen un predio, a saber:
 
-XIII.- Prestar apoyo a las personas que hayan sido víctimas de algún delito o estén amenazadas y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
+I. Datos administrativos.
 
-XIV.- Intervenir por propia iniciativa aún cuando no se encuentren en servicio, para dar asistencia a cualquier persona en riesgo;
+a) Fecha del movimiento:
 
-XV.- Usar y conservar los uniformes y equipo bajo su custodia con el debido cuidado y prudencia reintegrándolo al causar baja o cuando se le requiera;
+1. Día;
 
-XVI.- Portar la identificación oficial y mostrarla al ejercer funciones propias de su encargo;
+2. Mes;
 
-XVII.- Disuadir y recurrir a medios no violentos antes de emplear la fuerza de las armas;
+3. Año.
 
-XVIII.- Hacer uso de la fuerza física sólo cuando sea estrictamente necesario y proporcional al hecho, dentro del marco legal de actuación;
+b) Tipo de movimiento:
 
-XIX.- Emplear las armas de fuego sólo en los casos de legítima defensa y/o en los casos establecidos en los ordenamientos jurídicos aplicables al caso concreto.
+1. Alta;
 
-XX.- Velar por la vida, integridad física y proteger los artículos personales de los detenidos o personas que se encuentren bajo su custodia;
+2. Baja;
 
-XXI.- Obedecer las órdenes de sus superiores jerárquicos y cumplir con todas las obligaciones que tengan a su cargo, siempre y cuando la ejecución de aquéllas o el cumplimiento de éstas no signifiquen la comisión de un delito;
+3. Cambio.
 
-XXII.- No tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquellas personas que se encuentren bajo su custodia, en caso de tener conocimiento de tales actos, deberá denunciarlos inmediatamente ante sus superiores o ante el Ministerio Público;
+c) Tipo de predio:
 
-XXIII.- Tratar a sus subordinados y compañeros con dignidad, respeto, decoro y estricto apego a los principios de derechos humanos y a las normas disciplinarias aplicables;
+1. Urbano;
 
-XXIV.- Guardar la reserva y confidencialidad necesarias respecto al desempeño de sus funciones, salvo disposición legal contraria; lo anterior, sin perjuicio de informar al Secretario del H. Ayuntamiento, el contenido de aquellas órdenes de las cuales tengan presunción fundada de ilegalidad;
+2. Suburbano;
 
-XXV.- Asistir a los cursos de formación, actualización y especialización, para adquirir los conocimientos teóricos y prácticos que beneficien a su profesión;
+3. Rural.
 
-XXVI.- Observar las normas éticas y disciplinarias que establezca este Reglamento y demás ordenamientos vigentes;
+d) Clave catastral:
 
-XXVII.- Actuar coordinadamente con otras corporaciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que legalmente proceda;
+1. Zona;
 
-XXVIII.- Estudiar, conocer y respetar este Reglamento y las demás leyes aplicables y relativas al servicio de Seguridad Pública: (sic)
+2. Municipio;
 
-###### ARTICULO 70.
+3. Localidad;
 
-El personal de Seguridad Pública se hará acreedor por su desempeño en el servicio a las siguientes condecoraciones, a juicio de la Comisión de Honor y Justicia:
+4. Región;
 
-I.- Al Valor;
+5. Manzana;
 
-II.- A la Perseverancia;
+6. Lote;
 
-III.- Al Mérito;
+7. Nivel;
 
-IV.- Las demás que el H. Ayuntamiento considere otorgar por otros merecimientos en el desempeño de sus funciones.
+8. Departamento;
 
-Las condecoraciones a que se refieren las fracciones anteriores podrán otorgarse postmortem a los familiares.
+9. Dígito verificador.
 
-###### ARTICULO 71.
+e) Clave Única de Registro de Población (CURP) del propietario o poseedor, y en su caso el Registro Federal de Contribuyentes por lo que hace a personas morales;
 
-La Condecoración al Valor consiste en medalla y diploma que se otorgará a quien salve la vida de una o varias personas o realicen funciones encomendadas que impliquen grave riesgo para su vida y salud.
+f) Nombre del propietario o poseedor;
 
-###### ARTICULO 72.
+g) Ubicación del predio:
 
-La Condecoración a la Perseverancia consiste en medalla y diploma que se otorga al personal que haya mantenido un expediente ejemplar y cumpla 5, 10, 15, 20, 25 y 30 años ininterrumpidos en la Institución.
+1. Calle;
 
-###### ARTICULO 73.
+2. Número postal;
 
-La condecoración al Mérito se otorgará en los siguientes casos:
+3. Colonia o fraccionamiento.
 
-I.- Al Mérito Tecnológico, cuando se invente, diseñe o mejore algún instrumento, aparato, sistema o método de utilidad en beneficio de la Seguridad Pública del Municipio, Estado o País;
+h) Destino del predio;
 
-II.- Al Mérito Ejemplar, cuando se sobresalga en alguna disciplina científica, cultural, artística o deportiva que enaltezca el prestigio y la dignidad de los Cuerpos de Seguridad Pública;
+i) Domicilio para oír y recibir notificaciones:
 
-III.- Al Mérito Social, cuando se distinga particularmente en la prestación de servicios a favor de la comunidad, que mejore la percepción de la imagen de la Seguridad Pública.
+1. Calle;
 
-###### ARTICULO 74.
+2. Número oficial;
 
-Los estímulos y recompensas se otorgarán de preferencia el día del policía de cada año.
+3. Código postal;
 
-###### ARTICULO 75.
+4. Colonia o fraccionamiento;
 
-Sin perjuicio de lo previsto en los ordenamientos de carácter laboral y de seguridad social respectivos, los elementos de las Corporaciones de Seguridad Pública tendrán los siguientes derechos:
+5. Municipio y Estado.
 
-I.- Percibir un salario digno y remunerador acorde con las responsabilidades del servicio;
+j) Codificación básica:
 
-II.- Recibir bajo resguardo, periódicamente, los uniformes, el equipo y los materiales necesarios para la prestación del servicio;
+1. Avalúo técnico;
 
-III.- Recibir un trato digno por parte de sus superiores jerárquicos, sus iguales y subalternos;
+2. Fraccionamiento;
 
-IV.- Recibir el respeto y la atención de la comunidad a la que sirven;
+3. Traslado de dominio;
 
-V.- Acceder al servicio civil de carrera conforme lo establece la Ley de la Materia;
+4. Régimen legal de propiedad;
 
-VI.- Participar en los concursos de promoción o someterse a las evaluaciones para ascender a la jerarquía inmediata superior o conservar su puesto;
+5. Tenencia;
 
-VII.- Recibir condecoraciones, estímulos o recompensas de conformidad con lo establecido en el presente ordenamiento;
+6. Estado físico;
 
-VIII.- Respetar su jornada de trabajo establecida de acuerdo a las necesidades del servicio, salvo situaciones de emergencia o extraordinarias;
+7. Uso del suelo;
 
-IX.- Disfrutar de prestaciones y compensaciones adicionales a su salario, de acuerdo a las posibilidades presupuestales del H. Ayuntamiento;
+8. Tipo de posesión;
 
-X.- Recibir asesoría y defensa jurídica gratuita cuando por motivos del servicio sean sujetos a algún procedimiento penal, civil o por probable violación a los derechos humanos a instancia del ciudadano ofendido. Este apoyo cesará en el momento en el que se dicte sentencia condenatoria por delito doloso que haya causado ejecutoria, y el elemento cause baja de la corporación;
+9. Sin emisión.
 
-XI.- Recibir oportuna atención médica sin costo alguno en la Institución Médica Pública o Privada más cercana al lugar donde se hayan suscitado los hechos, cuando sea lesionado en el cumplimiento de su deber;
+k) Datos del documento de propiedad:
 
-XII.- Ser confinados en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva;
+1. Demarcación notarial;
 
-XIII.- Ser considerados para formar parte de la plantilla docente del Instituto Estatal de Seguridad Pública de acuerdo a sus aptitudes.
+2. Tipo de documento;
 
-###### ARTICULO 76.
+3. Número de Instrumento Notarial;
 
-Son atribuciones de los elementos de los Cuerpos de Seguridad Pública:
+4. Día;
 
-I.- Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a personas, animales o cosas;
+5. Mes;
 
-II.- Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrios, intoxicados o drogados, inválidos, mendigos, extraviados y menores de edad desatendidos, debiendo ponerlos a disposición de las Instituciones Asistenciales;
+6. Año;
 
-III.- Evitar conductas peligrosas tales como: Jugar en la vía pública, viajar en el exterior de cualquier vehículo o abordarlo en movimiento, escalar postes, árboles, muros o cualquier otra actividad riesgosa;
+7. Notaría.
 
-IV.- Retirar de las vía pública a personas que se encuentren en estado indecoroso; a comerciantes ambulantes establecidos en lugares prohibidos o sin licencia; así como vehículos y carros de mano que se desplacen por lugares prohibidos o impidan la circulación;
+l) Datos de inscripción en el Registro Público de la Propiedad:
 
-V.- Evitar que los menores asistan a lugares no permitidos para ellos, e impedir la celebración de toda clase de juegos prohibidos por la Ley;
+1. Número;
 
-VI.- Cuidar que se guarde el debido respeto a monumentos, recintos oficiales, lugares históricos y culturales, así como a la Bandera, Escudo e Himno Nacional;
+2. Tomo;
 
-VII.- Todas las demás que se les asignen o se incluyan en otras Leyes y Reglamentos de la materia.
+3. Día;
 
-###### ARTICULO 77.
+4. Mes;
 
-Son obligaciones de los elementos de los Cuerpos de Seguridad Pública:
+5. Año;
 
-I.- Desempeñar sus servicios en forma personal; salvo autorización de la superioridad;
+6. Zona registral.
 
-II.- Realizar los servicios ordinarios de vigilancia en las vías y lugares públicos del Municipio, según las necesidades de la población, poniendo especial atención a los lugares solitarios y establecimientos con acceso al público tales como: Plazas, parques, jardines, estadios, auditorios, cines, cantinas, billares, salones de baile, centros nocturnos, comerciales, financieros y otros;
+II. Datos técnicos del predio.
 
-III.- Efectuar servicios de vigilancia extraordinaria en ocasiones de celebrarse acontecimientos especiales o eventos periódicos tales como mítines, tianguis, ferias, desfiles, eventos deportivos y artísticos, fiestas populares y cualquier otro acto multitudinario;
+a) Del terreno:
 
-IV.- Cubrir con guardias los módulos distribuidos en el Municipio y los edificios de la Presidencia Municipal, la Dirección y otros que se consideren estratégicos;
+1. Tipo de suelo para predios rurales;
 
-V.- Vigilar y resguardar las personas y bienes que le sean puestos bajo custodia por autoridad competente mediante orden escrita debidamente fundada;
+2. Valor por unidad de superficie por tipo de suelo rural;
 
-VI.- Cuidar la conservación y buen uso de los bienes afectos al servicio público propiedad de las entidades públicas y órganos del gobierno;
+3. Deméritos para predios rurales;
 
-VII.- Operar con precaución y eficiencia el equipo motorizado y electrónico de servicio;
+4. Área;
 
-VIII.- Orientar con cortesía a las personas visitantes y al público en general sobre los lugares o servicios por los que soliciten información, para lo cual deberá conocer la lista de médicos, farmacias, hospitales y demás lugares de interés o de utilidad pública;
+5. Valor por metro cuadrado de predios suburbanos y condominios;
 
-IX.- Acudir con diligencia y aplicar las medidas de seguridad y de orden necesario en los casos de emergencia tales como: Incendios, inundaciones, derrumbes, derrames de productos químicos tóxicos y en general, toda clase de incidentes que pongan en riesgo a la población;
+6. Código de calle;
 
-X.- Portar pluma o lápiz, libreta de notas y formatos de actas de infracción, remisiones y formatos de partes informativos, indispensables para el desempeño de su servicio;
+7. Frente;
 
-XI.- Acudir en auxilio de las Autoridades Federales, del Estado de Aguascalientes y de los Municipios y Estados vecinos, cuando sean requeridos para ello, mediante solicitud debidamente fundada y motivada, autorizada por el Presidente Municipal excepción hecha en los casos de extrema urgencia en que deberá participar hasta el límite de sus atribuciones;
+8. Profundidad;
 
-XII.- Detener a los presuntos responsables de la comisión de delitos o faltas que sorprendan en flagrancia, los que remitirán a la autoridad competente en forma inmediata;
+9. Valor por metro cuadrado de terrenos urbanos;
 
-XIII.- Entregar a la Dirección las armas u objetos con los que se hubiera cometido algún delito o falta, para que a su vez se remitan a la autoridad competente;
+10. Deméritos para predios urbanos y suburbanos;
 
-XIV.- Evitar y prevenir cualquier forma de acoso sexual;
+11. Mérito por esquinas.
 
-XV.- Cuidar el entorno ecológico de las áreas bajo su cuidado;
+b) De las construcciones:
 
-XVI.- Servir con eficiencia, fidelidad, honor, disciplina y lealtad protegiendo los derechos humanos de las personas;
+1. 1. Etiqueta del bloque;
 
-XVII.- Vestir correctamente los uniformes, el equipo y armas asignadas, portando las insignias correspondientes a su grado jerárquico;
+2. 2. Tipo;
 
-XVIII.- Proporcionar su nombre completo y grado jerárquico a cualquier persona que se lo solicite;
+3. 3. Estado de conservación;
 
-XIX.- Asistir debidamente aseado a sus servicios y procurar mantenerse limpio, cuidando que su persona muestre un aspecto pulcro y decente;
+4. 4. Avance de obra;
 
-XX.- Ser atentos y respetuosos con los miembros de las fuerzas armadas y otras policías, efectuando y respondiendo el saludo militar;
+5. 5. Antigüedad;
 
-XXI.- Hacer el relevo puntualmente del elemento del turno anterior del puesto o área que le corresponda, enterándose de las últimas novedades y las instrucciones y consignas que haya recibido, para seguirlas aplicando. Verificar el buen estado de los objetos, bienes muebles e inmuebles que reciban bajo su custodia, reportando cualquier deterioro a sus superiores;
+6. 6. Área.
 
-XXII.- Dar aviso a su superior inmediato cuando por motivo de enfermedad o causa de fuerza mayor deba retirarse del servicio asignado;
+III. Valor catastral.
 
-XXIII.- Solicitar la ayuda que requiera cuando no pueda resolver las situaciones que se le presenten;
+a) Del terreno;
 
-XXIV.- Hacer cumplir las disposiciones administrativas dictadas por el H. Ayuntamiento o contenidas en el Bando Municipal y sus respectivos Reglamentos;
+b) De las construcciones;
 
-XXV.- Extremar la vigilancia durante la noche;
+c) Catastral total.
 
-XXVI.- Rendir parte de las novedades ocurridas al concluir el servicio asignado a su superior inmediato;
+IV. Datos de quien codifica.
 
-XXVII.- Utilizar las formas impresas que se le proporcionen al efecto para remitir a los infractores haciendo constar por lo menos: Fecha y lugar de los hechos; nombre del infractor asegurado; sexo, edad, domicilio, nacionalidad y empleo; nombre y domicilio de testigos de cargo, si los hubiera; inventario de los objetos que se aseguren; fecha y hora de presentación y entrega ante las autoridades competentes;
+a) Municipio y localidad;
 
-XXVIII.- Cubrir el importe que signifique la reparación en caso de ocasionar daños imprudenciales a los bienes del Municipio o su reposición según sea el caso;
+b) Nombre del servidor público que codifica;
 
-XXIX.- Acudir al Instituto Estatal de Seguridad Pública o a otros centros de capacitación que se designen para mejorar su preparación profesional y eficiencia, en el lugar, fecha y hora que fije la Dirección;
+c) Número de folio.
 
-XXX.- Actuar dentro del orden jurídico respetando y haciendo respetar las Leyes que nos rigen.
+###### Artículo 21.
 
-### CAPITULO XI. De la Etica y la Disciplina
+Los Registros Alfanuméricos estarán integrados en bases de datos, cuya estructura, conservación y actualización se ajustará a lo que indiquen los Procedimientos Catastrales.
 
-###### ARTICULO 78.
+###### Artículo 22.
 
-Los principios éticos y los aspectos disciplinarios constituyen la base de la operación adecuada del personal de las Corporaciones de Seguridad Pública.
+Para llevar a cabo una alta, baja o cambio del registro alfanumérico, se elaborará la ficha catastral correspondiente y se mencionará la causa del movimiento. Esta ficha formará parte del Registro Documental del predio.
 
-###### ARTICULO 79.
+###### Artículo 23.
 
-La conducta de los integrantes de la Corporación Municipal, dentro y fuera del servicio se ajustará a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones.
+El Registro Gráfico de un predio es su representación cartográfica en los términos de los artículos 9, 10 y 11 del presente Reglamento.
 
-###### ARTICULO 80.
+###### Artículo 24.
 
-La ética es la norma moral que aplica los valores para diferenciar el bien del mal y que deberán aplicar los elementos de la Corporación en todos los actos de su vida.
+El Registro Documental de cada predio contendrá los documentos señalados en los artículos 28 y 29 del presente ordenamiento.
 
-###### ARTICULO 81.
+###### Artículo 25.
 
-El deber es el conjunto de obligaciones que contraen todos los elementos de la Corporación de Seguridad Pública en el cumplimiento de sus funciones, empleos, cargos o comisiones, presentándose de ordinario en forma de respeto, subordinación, lealtad, honradez, eficiencia, imparcialidad y valor.
+Los propietarios o poseedores, así como los fedatarios públicos, respecto de los instrumentos públicos en los que intervengan, presentarán la solicitud de registro catastral de bienes inmuebles o de modificación de sus datos ante la autoridad catastral de la jurisdicción en que éstos se encuentren ubicados, acompañada de los anexos que señala el artículo 29 de este Reglamento.
 
-###### ARTICULO 82.
+###### Artículo 26.
 
-El cumplimiento del deber es a menudo áspero y difícil y no pocas veces exige penosos sacrificios; sin embargo, es el único camino asequible para el individuo que tiene conciencia de la dignidad y trascendencia de sus funciones, empleos, cargos o comisiones como miembro de la Corporación; cumplirlo con apatía o por simple fórmula, se contrapone con el verdadero espíritu de la profesión; cada miembro de la Corporación deberá encontrar en su propio honor el estímulo y esfuerzo necesarios para cumplirlo con satisfacción.
+Recibida la solicitud a que se refiere el artículo 29 de este Reglamento, la autoridad o los servidores públicos subordinados a ella efectuarán las operaciones catastrales correspondientes; integrarán la información y los documentos en los registros alfanuméricos, gráficos y documentales, en la forma que dispongan los Procedimientos Catastrales y, en su caso, notificará el resultado a la parte interesada.
 
-###### ARTICULO 83.
+###### Artículo 27.
 
-El individuo que ocupe cualquier cargo dentro de la Corporación de Seguridad Pública y reciba como retribución un sueldo asignado por el Municipio, tiene la obligación de poner toda su voluntad, esfuerzo y dedicación al servicio de la sociedad, de las Instituciones y del País.
+La Dirección General de Catastro por sí, o a través de sus Delegaciones Regionales y las oficinas Municipales de Catastro, efectuarán el registro en la base de datos catastrales del Estado.
 
-###### ARTICULO 84.
+###### Artículo 28.
 
-La profesión de policía exige llevar el cumplimiento del deber hasta el sacrificio, anteponiendo al interés personal, la lealtad a las Instituciones y el honor de la Corporación.
+El registro catastral o la modificación de datos del mismo, deberá efectuarse a nombre del propietario o del poseedor del bien a título de dueño, y se sustentará en alguno de los siguientes documentos:
 
-###### ARTICULO 85.
+I. Aviso notarial en el que conste el pago de los impuestos municipales y los derechos por inscripción en el Registro Público de la Propiedad;
 
-Los miembros de la Corporación que tengan conocimiento de que se atenta contra los intereses de las instituciones, tiene la obligación de informar de ello a sus inmediatos superiores; si éstos no dieran la debida importancia a los hechos, deberán dirigirse a los escalones superiores, debiendo insistir hasta que tengan conocimiento de que se han iniciado las gestiones correspondientes por parte del mando para evitarlo; quienes por indolencia, negligencia, omisión o apatía oculten la información a sabiendas, serán sancionados de conformidad con las disposiciones legales aplicables.
+II. Escritura Pública inscrita en el Registro Público de la Propiedad;
 
-###### ARTICULO 86.
+III. Contrato Privado en los términos del Código Civil del Estado;
 
-Deberán abstenerse de utilizar o divulgar información reservada para obtener algún beneficio personal, familiar o para cualquier otra persona. Mantendrán la confidencialidad de la información y de los asuntos de los que tengan conocimiento, a menos de que exista la obligación legal de proporcionarla o cuando así lo estime pertinente la superioridad.
+IV. Sentencia ejecutoriada dictada por la autoridad judicial o jurisdiccional;
 
-###### ARTICULO 87.
+V. Contrato de cesión de derechos de posesión;
 
-Deberán abstenerse de participar en todo tipo de actividades que causen o puedan causar conflicto de intereses en el desempeño de sus funciones, empleos, cargos o comisiones.
+VI. Certificado de vivienda, de entrega de vivienda o cualquier otro título similar expedido por organismos públicos promotores de vivienda para los trabajadores, que autorice la ocupación material del inmueble y produzcan un derecho posesorio original;
 
-###### ARTICULO 88.
+VII. Contrato o constancia de posesión otorgados por las autoridades agrarias responsables de la regularización de la tenencia de la tierra;
 
-Deberán mantener y fortalecer permanentemente el espíritu de la corporación, así como la colaboración mutua absteniéndose en todo momento de descalificar a sus superiores, compañeros o subalternos jerárquicos.
+VIII. Constancia de posesión expedida por la Dirección General del Patrimonio del Estado, respecto de bienes propiedad del Estado o en proceso de regularización en que intervenga esa Dirección General;
 
-###### ARTICULO 89.
+IX. Constancia de posesión expedida por la autoridad municipal competente, únicamente respecto de bienes propiedad del municipio.
 
-Deberán abstenerse de utilizar los recursos públicos puestos a su disposición, para realizar actividades personales, familiares, políticas o para beneficiar a cualquier otra persona.
+###### Artículo 29.
 
-###### ARTICULO 90.
+A la solicitud de registro catastral o modificación de datos de un bien inmueble, deberán anexarse copias de los siguientes documentos:
 
-Deberán abstenerse de participar en actos de proselitismo político, partidista o religioso ostentando sus cargos. Durante el desempeño de sus funciones, empleos, cargos o comisiones, se mantendrán al margen de condicionamientos políticos, religiosos, económicos, sociales, culturales o de cualquier otra índole, evitando que algún tipo de prejuicio viole la objetividad de las responsabilidades del servicio asignado.
+I. Alguno de los documentos indicados en el artículo 28 de este Reglamento;
 
-###### ARTICULO 91.
+II. Plano o croquis del terreno, indicando la longitud de sus lados y área de su superficie;
 
-Deberán abstenerse de ingerir estupefacientes dentro y fuera del servicio. Las bebidas alcohólicas sólo podrán consumirse fuera del servicio, sin que sus efectos se extiendan al turno asignado y el tabaco comercial sólo podrá fumarse en lugares abiertos en donde no exista prohibición para hacerlo.
+III. Croquis de localización dentro de la manzana, si es urbano o suburbano; si es rural; con referencias del poblado, carreteras, caminos o vías férreas más próximas;
 
-###### ARTICULO 92.
+IV. Recibo de pago del impuesto predial; y
 
-Deberán tratar a todas las personas con absoluto respeto, amabilidad y profesionalismo, absteniéndose en todo momento de utilizar lenguaje soez, vulgar u ofensivo.
+V. Plano autorizado y licencia de construcción, cuando se trate de manifestaciones de construcción.
 
-###### ARTICULO 93.
+###### Artículo 30.
 
-Deberán realizar un esfuerzo permanente y sistemático de mejoramiento en la calidad del servicio que prestan, actualizando sus conocimientos y habilidades, imprescindibles para el correcto desempeño de sus funciones, empleos, cargos o comisiones.
+Cuando los propietarios o poseedores no presenten en los plazos establecidos las solicitudes de registro catastral a que están obligados por la Ley, las autoridades catastrales podrán suplir esa omisión, mediante investigación directa, sin perjuicio de aplicar a los infractores las sanciones correspondientes.
 
-###### ARTICULO 94.
+###### Artículo 31.
 
-Deberán ser diligentes, confiables, cuidadosos, preparados e informados, asumiendo con profesionalismo el deber de ser competentes y demostrar sus conocimientos y habilidades en la función diaria del servicio asignado.
+Al efectuar el registro catastral de bienes inmuebles o modificar los datos del mismo, deberá observarse lo siguiente:
 
-###### ARTICULO 95.
+I. En el caso de la nuda propiedad y constitución del usufructo, el registro se hará a nombre del nudo propietario;
 
-Deberán solicitar su baja, cuando por alguna circunstancia no estén conformes con su permanencia en la corporación, absteniéndose de dar el mal ejemplo exteriorizando sus disgustos.
+II. Tratándose de copropiedad, se registrará a nombre del que tenga la mayor porción; en igualdad de proporciones, a nombre de cualquiera de ellos. En todos los casos después del nombre de la persona se deberá mencionar "y copropietario" o "y copropietarios", según corresponda;
 
-###### ARTICULO 96.
+III. Cuando la construcción se edifique en terreno ajeno, se registrará a nombre del propietario o poseedor del terreno.
 
-Deberán rechazar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de su persona o de la propia Corporación. Jamás empeñarán su palabra de honor cuando no tenga la absoluta certeza de poder cumplir lo que prometen. La palabra de honor debe ser inmaculada para todo individuo que sepa respetarse y respetar la institución a la que pertenece.
+###### Artículo 32.
 
-###### ARTICULO 97.
+Con motivo de división, subdivisión, relotificación, fraccionamiento de terrenos o constitución del régimen de propiedad en condominio, se asignará una clave catastral a cada nuevo predio, departamento o vivienda, en los términos de la Ley, este Reglamento y de los Procedimientos Catastrales.
 
-Deberán respetar el honor de las familias tanto como quisieran que se respetará la propia. Si es falta grave de moral y honradez atentar contra el honor de las familias de los particulares, mayor gravedad reviste cuando se trata de la de un compañero, teniendo como agravantes la falta de consideración, si se trata de la de un superior y la de cobardía y bajeza si se trata de la de un subalterno.
+En caso de fusión de dos o más predios en uno sólo, se asignará al nuevo predio la clave catastral del lote que tenga el número menor y se procederá a dar de baja la otra u otras claves de los predios fusionados.
 
-###### ARTICULO 98.
+#### Sección Sexta. De la Zonificación Catastral
 
-Deberán los superiores jerárquicos actuar en forma tal que sus actos se caractericen invariablemente por su puntualidad, pulcritud, corrección, probidad, justicia y equidad, ya que su ejemplo inspirará respeto, confianza y aprecio en sus subordinados.
+###### Artículo 33.
 
-###### ARTICULO 99.
+A partir del inicio de la vigencia del presente Reglamento, se ordena que cada localidad contendrá al menos una Región Catastral, la cual estará integrada, preferentemente, por ciento cincuenta manzanas.
 
-La disciplina es la norma a la que los miembros de la Corporación de Seguridad Pública deberán ajustar su conducta; se sustenta en la obediencia jerárquica y tiene por objeto el fiel y exacto cumplimiento de los principios de legalidad, lealtad, imparcialidad y eficiencia.
+Por lo que hace a las Regiones Catastrales establecidas, antes de la vigencia del presente Reglamento, podrán permanecer inalterables.
 
-###### ARTICULO 100.
+###### Artículo 34.
 
-El interés del servicio exige que la disciplina sea firme, pero al mismo tiempo razonada.
+La zonificación catastral se conformará de regiones homogéneas, atendiendo al uso del suelo, la calidad y disponibilidad de los servicios, así como a la infraestructura y equipamiento urbano existentes.
 
-###### ARTICULO 101.
+###### Artículo 35.
 
-El principio fundamental de la disciplina es el deber de obediencia. Los miembros de la Corporación deberán tener presente que tan noble es mandar como obedecer y que mandará mejor quien mejor sepa obedecer.
+Cuando se zonifique una localidad por primera vez, la asignación del número de Región deberá realizarse con un número progresivo que contenga dos dígitos, en la manera como lo establezcan los Procedimientos Catastrales.
 
-###### ARTICULO 102.
+#### Sección Séptima. De las Tablas de Valores Catastrales Unitarios
 
-Los superiores jerárquicos verificarán la aplicación estricta de la disciplina, evitando todo abuso de autoridad; vigilarán que el personal ejerza debidamente sus funciones, empleos, cargos o comisiones y que ninguna contravención a lo previsto en las leyes, reglamentos y demás disposiciones legales queden sin sanción.
+###### Artículo 36.
 
-###### ARTICULO 103.
+Los valores catastrales unitarios de suelo se determinarán de la siguiente manera:
 
-Las órdenes deberán ser cumplidas con exactitud e inteligencia, sin demora ni murmuraciones; el que las recibe podrá solicitar le sean aclaradas cuando por su índole le parezcan confusas o que se le den por escrito cuando el caso lo amerite. Es obligación de todo superior jerárquico cumplir y hacer cumplir las órdenes que haya recibido, no pudiendo eximirse o disculparse en modo alguno por omisión, descuido o disimulo de su cumplimiento.
+I. En zonas urbanas, por metro cuadrado y por tramo de calle;
 
-###### ARTICULO 104.
+II. En zonas suburbanas, por metro cuadrado y áreas homogéneas;
 
-Queda estrictamente prohibido a los superiores, cualquiera que sea su jerarquía, impartir órdenes que contravengan las leyes, reglamentos y demás disposiciones o que lastimen la dignidad o decoro de sus subalternos o constituyan un delito. En este supuesto, el superior que las dicte y el subalterno que las ejecute, serán responsables de los efectos que resulten.
+III. En zonas rurales, por hectárea y tipo de suelo.
 
-###### ARTICULO 105.
+###### Artículo 37.
 
-La subordinación debe ser mantenida rigurosamente entre grado y grado de la jerarquía; la exacta observancia de las reglas y principios que la garantizan, mantendrá a cada uno dentro de los límites de sus derechos y obligaciones.
+Los planos que contengan las propuestas de Tablas de Valores Catastrales Unitarios de suelo urbano y suburbano se elaborarán con base en lo que indiquen los Procedimientos Catastrales y se presentarán de acuerdo con las siguientes especificaciones:
 
-###### ARTICULO 106.
+I. Se dibujarán por región catastral en papel bond mate con las siguientes dimensiones: 0.28 x 0.43 metros en los que el área útil de dibujo sea de 0.22 x 0.37 metros, incluirán un pie de plano de 0.023 metros con un margen libre superior, inferior y derecho de 0.01 metros e izquierdo de 0.02 metros, para aquellas regiones catastrales que por su extensión requieran de láminas adicionales, podrán seccionarse sobre avenidas o calles;
 
-Entre individuos de igual grado puede existir la subordinación siempre y cuando alguno de ellos esté revestido de un mando o comisión especial.
+II. Contendrán la siguiente información:
 
-###### ARTICULO 107.
+a) Norte geográfico;
 
-Es obligación del superior jerárquico conocer la mentalidad, aptitudes, antecedentes, procedencia, salud, cualidades y defectos de sus subordinados con objeto de asignarles tareas que garanticen un servicio de calidad.
+b) Delimitación de las manzanas que componen la región catastral;
 
-###### ARTICULO 108.
+c) Numeración de manzanas;
 
-Los miembros de la Corporación deberán aceptar con dignidad y satisfacción las obligaciones que les imponga el servicio asignado, fomentando el espíritu de servicio, la cultura física, el sentimiento de pertenencia y la solidaridad entre compañeros.
+d) Nomenclatura de las calles y avenidas principales;
 
-###### ARTICULO 109.
+e) Valor unitario por m² al centro de la calle en cada manzana;
 
-Para que no ignoren las responsabilidades en que incurren si llegaran a cometer una falta o delito, deberán conocer la normatividad relacionada con sus funciones, empleos, cargos o comisiones.
+f) Indicación de ríos, arroyos y cuerpos de agua;
 
-###### ARTICULO 110.
+g) Indicación de regiones catastrales adyacentes.
 
-Como muestra de solidaridad, prestarán en todo momento ayuda moral y material hasta donde sus posibilidades alcancen a sus subalternos y compañeros que la necesiten.
+III. El pie de plano incluirá los siguientes datos:
 
-###### ARTICULO 111.
+a) Nombre y clave del municipio;
 
-Las solicitudes las elevarán por los conductos regulares, comenzando por su inmediato superior y sólo podrán salvar estos conductos cuando se traten asuntos ajenos al servicio o quejas contra algún superior, en este caso, ocurrirá al inmediato superior de quien le haya inferido el agravio o de quien no haya atendido su queja.
+b) Nombre de la localidad;
 
-###### ARTICULO 112.
+c) Región catastral;
 
-Los miembros de la Corporación que se expresen mal de sus superiores en cualquier forma, serán sancionados conforme a las disposiciones legales aplicables.
+d) Índice de hojas;
 
-###### ARTICULO 113.
+e) Fecha de elaboración;
 
-Usarán su vestuario y equipo sin mezclar las prendas de los diferentes uniformes entre sí, ni con las de civil, conservándolas siempre limpias, en buen estado y sin roturas; tampoco usarán alhajas, con excepción de la argolla matrimonial o el anillo de graduación y el reloj de pulso común y corriente.
+f) Datos del municipio;
 
-###### ARTICULO 114.
+g) Firma del presidente, síndico y tesorero municipales;
 
-Para demostrar su porte, aire marcial y buenas maneras, espíritu de dignidad y gallardía, que deben distinguir a los miembros de la Corporación, se presentarán a sus servicios perfectamente aseados, tanto en su persona como en su vestuario, armamento y equipo. El personal masculino usará el cabello corto, la barba rasurada, sin patillas y el bigote recortado sin que sobresalga o descienda de las comisuras de los labios; el personal femenino usará el cabello recogido, maquillaje discreto y en caso de vestir falda de uniforme usarán un corte discreto.
+h) Cuadro para firma de autoridades del H. Congreso del Estado;
 
-###### ARTICULO 115.
+i) Periodo de vigencia de los valores catastrales.
 
-Transitarán por la vía pública con la cabeza erguida, la camisola o chamarra abotonada, no llevarán las manos metidas en los bolsillos, no leerán periódicos o revistas que los distraigan de sus funciones. Jamás provocarán escándalo ya sea hablando en voz alta para llamar la atención, profiriendo palabras obscenas o insolencias ni cometiendo actos que puedan provocar el desprecio de su persona o de las instituciones.
+IV. La Tabla de Valores de Suelo Rural y la de Valores Unitarios de las construcciones se presentarán en el formato que indiquen los procedimientos catastrales.
 
-###### ARTICULO 116.
+###### Artículo 38.
 
-Cuando participen en actos oficiales y sociales, deberán comportarse con el más alto grado de educación, caballerosidad y amabilidad, guardando siempre la compostura que corresponde a su dignidad y formalidad como servidor público.
+La base de datos que contenga la propuesta de Tabla de Valores Unitarios del suelo urbano, suburbano y rural, se elaborará utilizando el sistema que elijan los Ayuntamientos, debiendo mantener la estructura, tipo, número y longitud de campos señalados en los procedimientos catastrales. Para efectos de información a la Dirección General de Catastro, se presentarán en formato del Código Americano Estándar para Intercambio de Información (ASCII, por sus siglas en inglés).
 
-###### ARTICULO 117.
+###### Artículo 39.
 
-Podrán participar en espectáculos deportivos y culturales en su tiempo libre y en su turno de servicio previa autorización de su superior jerárquico.
+Para efectos de la valuación catastral en el Estado, las edificaciones, se clasificarán de acuerdo con la tipología siguiente:
 
-###### ARTICULO 118.
+Código Nombre
 
-Se abstendrán de entrar en cantinas, garitos, antros y prostíbulos, salvo cuando sus funciones así lo requieran, no se exhibirán públicamente con sexo-servidoras, tampoco las subirán a las radio patrullas si no van a ser remitidas, ni las recibirán en las instalaciones donde desempeñen sus funciones, empleos, cargos o comisiones salvo solicitud de auxilio.
+01 Habitacional antigua económica;
 
-###### ARTICULO 119.
+02 Habitacional antigua mediana;
 
-Fuera de los casos de adiestramiento o ejercicios en el campo, jamás se sentarán en el suelo, ni realizarán actos que vayan en menoscabo de su persona o en desprestigio de las instituciones.
+03 Habitacional moderna popular;
 
-###### ARTICULO 120.
+04 Habitacional moderna de interés social;
 
-Los superiores jerárquicos deberán dar curso inmediato a las solicitudes que por su conducto eleven sus subalternos.
+05 Habitacional moderna económica;
 
-###### ARTICULO 121.
+06 Habitacional moderna mediana;
 
-Toda solicitud que hubiera sido denegada por la superioridad, no podrá repetirse sino hasta después de que haya desaparecido la causa que la motivó.
+07 Habitacional moderna semi lujo;
 
-###### ARTICULO 122.
+08 Habitacional moderna de lujo;
 
-Los miembros de la Corporación no podrán expresar en sus conversaciones aversión alguna en la obediencia de las órdenes de sus superiores jerárquicos; no podrán tampoco censurarlas ni permitir que los subalternos lo hagan, aún cuando ello origine aumento de fatiga.
+09 Edificio habitacional de interés social;
 
-###### ARTICULO 123.
+10 Edificio habitacional económico;
 
-Tendrán profundo respeto a la justicia, consideración y deferencia hacia sus subalternos, a quienes nunca harán observaciones ni correcciones en presencia de sus compañeros subalternos o personas extrañas y guardarán el respeto a los particulares.
+11 Edificio habitacional mediano;
 
-ARTICULOS (SIC) 124.- Los superiores jerárquicos no aceptarán obsequios de sus subalternos ni permitirán que se promuevan o colecten suscripciones con ese objeto, sin que por esto se eviten las atenciones sociales y de urbanidad que mutuamente merecen.
+12 Edificio habitacional semi lujo;
 
-###### ARTICULO 125.
+13 Comercial industrial cobertizo;
 
-Cuando en el momento de impartir o recibir órdenes para ejecutar alguna operación, no se encuentre presente el superior que deba mandar, el que le siga en jerarquía o antigüedad, tomará desde luego las medidas necesarias para que la operación se lleve a cabo.
+14 Comercial industrial económico;
 
-###### ARTICULO 126.
+15 Comercial industrial mediano;
 
-El individuo que tenga mando o sea responsable de una comisión del servicio, cuidará escrupulosamente que se cumplan las órdenes y demás disposiciones, supervisando el desempeño de sus subalternos.
+16 Comercial industrial especial;
 
-###### ARTICULO 127.
+17 Plaza comercial semi lujo;
 
-Los superiores jerárquicos deberán revisar cuidadosamente toda la documentación relativa al servicio, antes de otorgar su anuencia para remitirla a la instancia correspondiente.
+18 Plaza comercial de lujo;
 
-###### ARTICULO 128.
+19 Edificio comercial económico;
 
-El superior jerárquico que tenga conocimiento de una falta cometida por un subordinado, impondrá y ejecutará la sanción reglamentaria que corresponda, tomando en consideración la gravedad de la misma, las circunstancias que contribuyeron a su realización, así como los antecedentes y grado jerárquico del infractor, entre otras, sancionando las que sean de su competencia y turnando a la superioridad aquellas que lo ameriten.
+20 Edificio comercial mediano;
 
-###### ARTICULO 129.
+21 Edificio comercial de lujo;
 
-Cuando vayan a disfrutar de vacaciones, franquicias o que por algún motivo se encuentren fuera del lugar de su adscripción, proporcionarán al superior jerárquico de quien dependen, el domicilio, número telefónico y demás datos del lugar donde se encontrarán para casos de emergencia.
+22 Estacionamiento comercial;
 
-###### ARTICULO 130.
+23 Alberca económica;
 
-En los actos oficiales y ceremonias cívicas, se observará el ceremonial respectivo, a fin de dar solemnidad a determinados acontecimientos de la vida institucional y a los cuales se les debe dar la más alta significación.
+24 Alberca mediana;
 
-###### ARTICULO 131.
+25 Alberca de lujo;
 
-Fuera de los actos del servicio y durante sus horas de descanso, se abstendrán de usar el uniforme salvo instrucciones expresas de la superioridad.
+26 Pavimento de concreto hidráulico.
 
-###### ARTICULO 132.
+Al elaborar sus propuestas, los Ayuntamientos deberán utilizar el código y el nombre de los tipos de construcción contenidos en dicha tipología y tomarán de ella exclusivamente los que estén en uso en su municipio.
 
-Deberán cumplir con la máxima diligencia el servicio que les sea encomendado, absteniéndose de cualquier acto u omisión que causen la suspensión o la deficiencia del servicio o implique abuso o ejercicio indebido de su función, empleo, cargo o comisión.
+La descripción detallada y características de cada tipo serán las que contemple el instructivo de valuación catastral.
 
-###### ARTICULO 133.
+###### Artículo 40.
 
-Todo el personal de la Corporación de Seguridad Pública está obligado a presentar con toda oportunidad y veracidad las declaraciones de situación patrimonial en los términos establecidos en la Ley.
+Los Ayuntamientos podrán incorporar nuevos tipos de construcción a la tipología, previa autorización de la Dirección General de Catastro, para lo cual deberá presentar:
 
-###### ARTICULO 134.
+I. Plano arquitectónico tipo;
 
-Atenderán con prontitud y diligencia los requerimientos, acuerdos y demás resoluciones que dicten las autoridades, conforme a sus respectivas competencias.
+II. Plano estructural tipo;
 
-ARTICULOS (SIC) 135.- Al terminar su turno de servicio, informarán a sus superiores de la pérdida, extravío, robo o desperfectos que sufran los bienes o valores que tengan bajo su guarda o custodia, para deslindar responsabilidades.
+III. Números generadores de obra;
 
-###### ARTICULO 136.
+IV. Catálogo de conceptos y presupuesto de obra;
 
-Deberán asistir puntualmente al lugar donde deban prestar sus servicios, permaneciendo en él, el tiempo que sea necesario de acuerdo con la naturaleza del mismo y del sistema de rotación de personal que se establezca.
+V. Explosión de insumos: desglose de la cantidad de material, equipo, mano de obra y herramientas que se utilizan en la obra;
 
-###### ARTICULO 137.
+VI. Memoria descriptiva;
 
-Se abstendrán de ejecutar actos que pongan en peligro su vida o su seguridad personal y la de los demás.
+VII. Memoria fotográfica; y
 
-###### ARTICULO 138.
+VIII. Valor unitario propuesto, por unidad de superficie construida.
 
-Se someterán a los exámenes de capacidad profesional que ordene la superioridad y los que se practiquen para la detección del uso de estupefacientes.
+#### Sección Octava. De la Administración de la Base de Datos del Padrón Técnico
 
-###### ARTICULO 139.
+###### Artículo 41.
 
-Se entiende por correctivos disciplinarios, las sanciones administrativas que se imponen a los integrantes de la Corporación por faltas a las leyes y reglamentos, ya sea por acción o por omisión; son por acción cuando se hace algo indebido y por omisión cuando no se hace lo debido.
+En los términos del Convenio de Colaboración Administrativa en materia catastral que los Ayuntamientos suscriban con el Estado, la Secretaría de Finanzas y Planeación les proporcionará la base de datos del padrón técnico correspondiente a su municipio. A fin de salvaguardar la información contenida en dichas bases, los Ayuntamientos:
 
-###### ARTICULO 140.
+I. Contarán con al menos dos equipos de cómputo en red, donde uno de ellos dispondrá de suficientes recursos de almacenamiento, procesamiento y memoria para ser utilizado como servidor. El otro se empleará como terminal operativa para efectuar en él las altas y bajas y cambios a la base de datos;
 
-En atención a la gravedad de la falta, se aplicarán los siguientes correctivos disciplinarios:
+II. Dispondrán de unidades de escritura para disco compacto, cinta, discos duros, USB'S y cualquier otro tipo nuevo, que permitan realizar respaldos de la información;
 
-I.- Amonestación: Es el acto por el cual se advierte al infractor por la violación u omisión del cumplimiento de sus deberes y lo exhorta a corregirse y a no reincidir. La amonestación puede hacerse de palabra o por escrito, pero siempre en forma reservada. En caso de las amonestaciones escritas, una copia de la misma se integrará al expediente del amonestado;
+III. Contarán con un sistema de gestión de la base de datos, aprobado por la Dirección General de Catastro;
 
-II.- Arresto: Consiste en el confinamiento dentro de las instalaciones de la corporación, de los infractores a los preceptos reglamentarios, con suspensión o no de sus servicios asignados. Se hará por escrito por un término de hasta por treinta y seis horas;
+IV. Realizarán respaldos mensuales de las bases de datos, o antes si el número de movimientos supera los 650 registros; y
 
-III.- Cambio de Adscripción: Es la reubicación del elemento de su grupo, servicio o comisión, y se decreta cuando su comportamiento afecte la disciplina y desempeño en su adscripción original o bien resulte necesario para mantener una buena relación e imagen con la comunidad donde se desempeña;
+V. Controlarán el acceso a la base de datos mediante claves de seguridad propias de cada usuario.
 
-IV.- Suspensión Temporal: Consiste en la separación del elemento a la función, cargo o comisión, por el incumplimiento de sus funciones o la reincidencia de faltas leves o graves, sin goce de sueldo y hasta por quince días. La suspensión temporal tendrá el carácter de preventiva. Será por tiempo indefinido, cuando el elemento quede sujeto a proceso penal por hechos ocurridos con motivo del desempeño de su servicio y su estancia en la corporación pueda afectar la investigación. En este caso, la suspensión terminará hasta que el asunto quede total y definitivamente resuelto.
+### Capítulo IV. De las Formas Oficiales
 
-Si el elemento resulta sin responsabilidad en resolución ejecutoriada, se le reintegrará al servicio pagándosele sus sueldos y prestaciones que hubiese dejado de percibir hasta ese momento;
+#### Sección primera. De la Solicitud de Registro Catastral
 
-V.- Pérdida de Grado: Consiste en el retiro de la jerarquía que tiene un elemento para asignarle la inmediata inferior, cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía o asistiendo los repruebe o bien demuestre ineficiencia para ejercer sus funciones;
+###### Artículo 42.
 
-VI.- Destitución o Baja: Consiste en la separación definitiva del servicio y la rescisión laboral, cuando algún elemento de la corporación:
+La solicitud de registro catastral o modificación de sus datos deberá contener al menos la siguiente información:
 
-A) Falte a su servicio asignado por más de tres días consecutivos sin causa justificada o acumule en un término de treinta días más de tres faltas. En este caso, el Director procederá como lo previene la Ley Federal del Trabajo, dando de baja al elemento;
+I. Clave catastral;
 
-B) Incurra en falta de probidad y honradez durante el servicio;
+II. Ubicación del predio;
 
-C) Porte el arma de cargo fuera del servicio;
+III. Uso o destino del bien inmueble;
 
-D) Ponga en peligro a los particulares a causa de su imprudencia, descuido, negligencia o abandono del servicio;
+IV. Clasificación del predio, tipo de tenencia y estado físico;
 
-E) Se presente a su labores en estado de ebriedad o bajo el influjo de sustancias psicotrópicas o estupefacientes o consumirlas durante el servicio;
+V. Superficie de terreno;
 
-F) Desacate injustificadamente las órdenes de sus superiores;
+VI. Descripción de las construcciones manifestadas;
 
-G) Revele asuntos secretos o reservados de los que tenga conocimiento;
+VII. Modificación física de la construcción;
 
-H) Falsee, omita o altere informes o documentos relativos al desempeño de sus funciones;
+VIII. Datos del propietario o poseedor;
 
-I) Aplique a sus subalternos en forma dolosa o reiterada correctivos disciplinarios inmerecidos;
+IX. Nombre y firma del solicitante;
 
-J) Omita o retarde dolosamente la aplicación de sanciones a sus subalternos en caso de evidente procedencia;
+X. Espacio para sello de recibido de la autoridad catastral;
 
-K) Obligue a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+XI. Lugar y fecha de la solicitud.
 
-L) Use armamento y equipo de procedencia o estancia ilegal o carente de registro;
+###### Artículo 43.
 
-M) Utilice equipo y armamento para fines distintos a la función pública asignada;
+La solicitud de registro catastral constará de dos tantos:
 
-N) A pesar de que se le hayan aplicado varios de los correctivos disciplinarios insista en cometer faltas mostrándose incorregible;
+I. Original para la autoridad catastral;
 
-O) Reciba sentencia judicial condenatoria por la comisión de un delito doloso, dentro o fuera del servicio;
+II. Copia para el interesado.
 
-P) Sustraer bienes o recursos asignados para el servicio;
+###### Artículo 44.
 
-Q) Incurra en cohecho durante su servicio.
+En caso de no disponer de la forma oficial para la solicitud de registro, el interesado podrá cumplir con la obligación manifestándolo por escrito, incluyendo todos los datos que menciona el artículo 42 de este Reglamento.
 
-###### ARTICULO 141.
+#### Sección segunda. Del Certificado del Valor Catastral
 
-La amonestación y el arresto podrá ejecutarlos cualquier superior jerárquico a un subordinado que tenga bajo sus órdenes directas.
+###### Artículo 45.
 
-El Director o la persona en quien delegue esta función, calificará los arrestos y ejecutará las suspensiones provisionales, los cambios de adscripción, las pérdidas de grado y la baja por ausencias, tomando en cuenta lo siguiente:
+El certificado del Valor Catastral es el documento expedido por la autoridad, donde se da a conocer el valor catastral o catastral provisional de un inmueble. Su solicitud por parte de los fedatarios públicos surtirá los efectos de lo dispuesto en el artículo 15 de la Ley de Catastro en vigor.
 
-I.- La importancia de suprimir conductas que afecten a la ciudadanía o lesionen la imagen de la Corporación;
+###### Artículo 46.
 
-II.- Las circunstancias socioculturales del infractor;
+La solicitud del Certificado de Valor Catastral contendrá los siguientes datos:
 
-III.- El nivel jerárquico, los antecedentes, antigüedad en el servicio y el daño causado;
+I. Clave catastral del predio;
 
-IV.- Las condiciones externas que motivaron la falta y los medios de ejecución;
+II. Ubicación;
 
-V.- La reincidencia en el incumplimiento de sus obligaciones.
+III. Clasificación en urbano, suburbano o rural;
 
-### CAPITULO XII. De la Comisión de Honor y Justicia
+IV. Estado físico;
 
-###### ARTICULO 142.
+V. Tipo de operación;
 
-La Comisión de Honor y Justicia es un órgano que tiene por objeto supervisar, evaluar y en su caso sancionar a los elementos operativos de la Dirección de Seguridad Pública y Vialidad del Municipio de Rincón de Romos por la comisión y omisión de conductas, dentro y fuera del servicio, que en cualquier forma afecten el funcionamiento, operatividad, buena imagen ante la ciudadanía o por el incumplimiento de las obligaciones que impone el Reglamento Interno de la
+VI. Número y fecha de la inscripción en el Registro Público de la Propiedad;
 
-Corporación. Así también, será función de la Comisión de Honor y Justicia, otorgar reconocimientos y estímulos a aquellos elementos que por el desempeño de su labor, se estime en justicia procedente, aplicando para tal efecto los lineamientos de la Ley de Seguridad Pública para el Estado de Aguascalientes, La Ley de Vialidad, la Ley de Responsabilidades de los Servidores Públicos del Estado, el Reglamento Interno de la Dirección de Seguridad Pública y Vialidad del Municipio y demás disposiciones legales.
+VII. Superficie de terreno;
 
-###### ARTICULO 143.
+VIII. Superficies construidas;
 
-La Comisión de Honor y Justicia tendrá las facultades que se señalan en su propio reglamento.
+IX. Nombre y domicilio del propietario enajenante;
 
-### CAPITULO XIII. Del Servicio Civil de Carrera
+X. Número y fecha del instrumento público mediante el cual se adquiere, transmite o modifica la propiedad del bien inmueble;
 
-###### ARTICULO 144.
+XI. Nombre y domicilio del fedatario público, así como el número de notaría;
 
-El cambio de mando superior o de autoridades de elección popular no será causa, bajo ninguna circunstancia, de destitución para ningún elemento de los Cuerpos de Seguridad Pública.
+XII. Valor de operación;
 
-## ARTICULOS TRANSITORIOS
+XIII. Lugar y fecha de la declaración;
 
-###### ARTICULO PRIMERO.
+XIV. Nombre, domicilio, Registro Federal de Contribuyentes y Clave Única del Registro de Población del propietario adquirente;
 
-El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+XV. Espacio para certificar el valor catastral actual, con fecha de expedición, sello, así como nombre y firma de la autoridad catastral;
 
-###### ARTICULO SEGUNDO.
+XVI. Espacio para la liquidación del impuesto sobre Traslación de Dominio y Derechos por la inscripción en el Registro Público de la Propiedad;
 
-Se abroga el Reglamento anterior de la Dirección de Seguridad Pública y Vialidad del Municipio de Rincón de Romos, Aguascalientes.
+XVII. Descripción de la operación;
 
-###### ARTICULO TERCERO.
+XVIII. Espacio para certificar el valor catastral referido a una época anterior, en términos del artículo 24, párrafo segundo, de la Ley de Catastro y 53 de este Reglamento, con fecha de expedición, sello, así como nombre y firma de la autoridad catastral;
 
-Se derogan todas las disposiciones legales que se opongan o contradigan al presente Reglamento.
+XIX. Sellos de la autoridad fiscal municipal, estatal y del fedatario público;
 
-A T E N T A M E N T E
+XX. Documentos que deberán anexarse a la solicitud de certificado de valor:
 
-SUFRAGIO EFECTIVO. NO REELECCION.
+a) Plano o croquis del inmueble objeto de la operación;
 
-Profr. Juan Manuel Méndez Noriega,
+b) En operaciones de traslación de dominio de condominios, fraccionamientos, o colonias de nueva creación, se proporcionará copia heliográfica del plano y del oficio de autorización por la autoridad correspondiente;
 
-PRESIDENTE MUNICIPAL.
+c) Copia del último recibo de pago del impuesto predial.
 
-Profr. Roberto Prieto Castorena,
+###### Artículo 47.
 
-REGIDOR.
+El Certificado de Valor Catastral constará de cinco tantos:
 
-Profr. Manuel de Jesús Zamarripa Romero,
+I. Original para el interesado;
 
-REGIDOR.
+II. Copia para la oficina de Hacienda del Estado;
 
-Profr. José Angel Marín Romo,
+III. Copia para la Tesorería Municipal;
 
-REGIDOR.
+IV. Copia para la oficina Municipal de Catastro;
 
-Profra. Amelia Dimas García,
+V. Copia para la Delegación Regional de Catastro.
 
-REGIDORA.
+###### Artículo 48.
 
-Francisco Javier Cardona Briones,
+El Certificado de Valor Catastral de los inmuebles propiedad o del dominio de los gobiernos federal, estatal y municipales, se expedirá mediante oficio, y contendrá la información básica que determine la autoridad catastral.
 
-REGIDOR.
+###### Artículo 49.
 
-Lic. Fernando Israel Contreras Quezada,
+En los casos de conflicto de intereses, sólo se expedirá Certificado de Valor Catastral a nombre de la persona empadronada, en los términos que establece la Ley de Catastro.
 
-REGIDOR.
+###### Artículo 50.
 
-Juan Díaz Mata,
+Respecto a condominios, divisiones, subdivisiones, relotificaciones y fraccionamientos, así como en la edificación de unidades habitacionales, se expedirá el Certificado de Valor Catastral por cada lote, departamento o vivienda.
 
-REGIDOR.
+###### Artículo 51.
 
-Lic. Francisco Javier Medina Martínez,
+En el caso de contratos en los que se transmite el dominio de porciones en copropiedad, de la nuda propiedad o del usufructo, se expedirá el certificado por el valor total del inmueble.
 
-REGIDOR.
+###### Artículo 52.
 
-Ing. Gabriel Durón Peralta,
+Los Certificados de Valor Catastral solicitados con motivo de contratos relativos a la transmisión del dominio de bienes inmuebles, así como de informaciones testimoniales para acreditar la propiedad de las construcciones, se elaborarán con el valor catastral vigente al momento de la expedición, sin menoscabo de que se proporcione otro con valor referido a la época en que se realizó el acto o hecho de que se trata.
 
-REGIDOR.
+#### Sección tercera. De la Cédula Catastral
 
-Lic. Roberto Jaime Reyes,
+###### Artículo 53.
 
-SINDICO PROCURADOR.
+La cédula catastral consignará los datos siguientes:
 
-Profr. Héctor Nájera Gómez,
+I. Administrativos:
 
-SECRETARIO DEL H. AYUNTAMIENTO.
+a) Folio;
+
+b) Clave catastral;
+
+c) Municipio y localidad;
+
+d) Nombre del propietario o poseedor;
+
+e) Uso o destino del inmueble;
+
+f) Ubicación del predio: calle, número oficial, localidad. En caso de los predios rurales, el nombre o referencia del bien.
+
+II. Técnicos:
+
+a) Del terreno:
+
+1. Tipo de predio;
+
+2. Tipo de avalúo;
+
+3. Causas de demérito;
+
+4. Causas de mérito;
+
+5. Tipo de suelo rural;
+
+6. Área de la superficie.
+
+b) De las construcciones:
+
+1. Tipo, de acuerdo a la tipología establecida en el artículo 39;
+
+2. Estado de conservación;
+
+3. Terminación de obra;
+
+4. Área de la superficie construida por cada tipo presente en el predio.
+
+III. Valor catastral o catastral provisional:
+
+a) Valor catastral o catastral provisional del terreno;
+
+d) (sic) Valor catastral o catastral provisional de las construcciones;
+
+c) Valor catastral total o catastral provisional total.
+
+IV. De la autoridad catastral:
+
+a) Nombre, firma y sello de la autoridad catastral que interviene;
+
+b) Lugar y fecha de expedición.
+
+V. Sello y datos de quien entrega y recibe el documento.
+
+###### Artículo 54.
+
+La cédula catastral constará de dos tantos:
+
+I. Original para el interesado;
+
+II. Copia para la autoridad expedidora.
+
+###### Artículo 55.
+
+En términos de la Ley de Catastro, se expedirá Cédula Catastral por cada predio inscrito. La cédula más reciente deja sin efecto las expedidas con anterioridad.
+
+### Capítulo V. De la Notificación y la Difusión
+
+###### Artículo 56.
+
+Procede la notificación de oficio a los propietarios o poseedores, en los siguientes casos:
+
+I. El registro derivado de la adquisición parcial o modificación de la propiedad de bienes inmuebles, así como los cambios relativos a las fracciones reservadas, la división, la subdivisión, relotificación, fraccionamiento de terrenos o la regularización de la tenencia de la tierra;
+
+II. El registro de inmuebles sustraídos de la acción catastral;
+
+III. La modificación del valor catastral que resulte de la valuación o revaluación catastrales;
+
+IV. Los cambios de registro originados por modificación de la clave o de la nomenclatura catastral a instancia de la autoridad; y
+
+V. Los demás casos, en términos de lo dispuesto por la Ley de Catastro.
+
+###### Artículo 57.
+
+El procedimiento relativo a la notificación personal se desarrollará conforme a lo indicado en el Código de Procedimientos Administrativos en vigor para el estado de Veracruz.
+
+###### Artículo 58.
+
+El inicio de programas masivos de catastro será difundido dos veces consecutivas, en la forma dispuesta por la Ley de Catastro.
+
+### Capítulo VI. De los Convenios de Colaboración
+
+###### Artículo 59.
+
+Los Convenios de Colaboración Administrativa en materia de catastro que suscriba el Estado con los Ayuntamientos contendrán, cuando menos:
+
+I. Nombres y facultades de quienes lo suscriben;
+
+II. Objeto;
+
+III. Actividades catastrales que se convienen;
+
+IV. Programa operativo, supervisión y capacitación en su caso;
+
+V. Recursos humanos y financieros que deberá asignar el Ayuntamiento;
+
+VI. Obligaciones de ambas partes;
+
+VII. Causas de rescisión;
+
+VIII. Sanciones;
+
+IX. Vigencia; y
+
+X. Fecha de suscripción.
+
+### Capítulo VII. De la Capacitación
+
+###### Artículo 60.
+
+La Dirección General de Catastro, Geografía y Valuación, podrá impartir al personal de las oficinas municipales de Catastro, en los términos del Convenio que al efecto se suscriba; capacitación en las modalidades de asesoría, adiestramiento, actualización, reforzamiento o especialización, impartiéndose en aulas o extramuros, utilizando para ello medios escritos, informáticos, de comunicación remota o directamente a través de instructores propios o externos.
+
+### Capítulo VIII. De la Supervisión y Verificación
+
+###### Artículo 61.
+
+En términos de la Ley de Catastro, del presente Reglamento y de los Convenios de Colaboración suscritos al efecto, entre el Estado y los Ayuntamientos. La Dirección General de Catastro, Geografía y Valuación, podrá efectuar en las oficinas municipales de Catastro, supervisión y verificaciones a los procedimientos catastrales en apego a la norma que en materia de catastro establece el Gobierno del Estado.
+
+###### Artículo 62.
+
+Al concluir la supervisión o verificación, se elaborará un reporte que contenga la descripción de los aspectos evaluados; las observaciones y, en su caso, las recomendaciones para corregir las inconsistencias detectadas, el plazo en que deberán ser solventadas, así como los nombres y firmas del supervisor y del encargado de la oficina municipal de Catastro. La Dirección General de Catastro, Geografía y Valuación, turnará un tanto del citado reporte para la atención de la Tesorería Municipal.
+
+## TRANSITORIOS
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento de la Ley de Catastro publicado en la Gaceta Oficial número 30 del 9 de marzo de 1991.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada del presente Reglamento, se concluirán de acuerdo con las disposiciones del Reglamento anterior.
+
+Cuarto. En tanto se expidan los nuevos procedimientos catastrales, lineamientos, instructivos, especificaciones y normas correspondientes, se aplicarán los anteriores. Asimismo, el Secretario de Finanzas y Planeación estará facultado para resolver los asuntos que dichos documentos deben regular.
+
+Quinto. En tanto la Dirección General de Catastro, Geografía y Valuación, dispone lo necesario para actualizar en sus bases de datos los números de zonas catastrales que se utilizan en la conformación de la clave catastral, ésta se seguirá integrando con los mismos dígitos de 01 a 15 que se usan actualmente.
+
+Sexto. Los convenios de colaboración administrativa en materia catastral, que estén suscritos antes del inicio de la vigencia del presente reglamento, quedarán vigentes sin necesidad de ratificación expresa.
+
+Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en la ciudad de Xalapa, Enríquez, Veracruz, a los ocho días del mes de septiembre de dos mil seis.
+
+A t e n t a m e n t e
+
+Sufragio efectivo. No reelección
+
+Licenciado Fidel Herrera Beltrán
+
+Gobernador del Estado
+
+Rúbrica.
