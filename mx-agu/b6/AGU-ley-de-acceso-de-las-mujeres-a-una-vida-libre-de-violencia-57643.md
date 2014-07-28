@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2013-02-25"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -885,7 +885,9 @@ I. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 II. La Dirección General del Registro Civil;
 
-III. El Instituto Aguascalentense de la Juventud; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+III. La Secretaría de la Juventud; y
 
 IV. El Instituto del Deporte del Estado de Aguascalientes.
 
@@ -927,9 +929,11 @@ VI. Rendir un informe bimensual a la Coordinación General del Consejo de las ac
 
 VII. Las demás que le asigne el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
 ###### Artículo 69.
 
-Corresponde al Instituto Aguascalentense de la Juventud:
+Corresponde a la Secretaría de la Juventud:
 
 I. Ejecutar campañas de información y difusión para jóvenes sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres en la relación de noviazgo o en cualquier otra relación de hecho; así como para impulsar el respeto al derecho de libertad y autonomía de las mujeres;
 
@@ -1128,3 +1132,9 @@ P.O. 25 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
