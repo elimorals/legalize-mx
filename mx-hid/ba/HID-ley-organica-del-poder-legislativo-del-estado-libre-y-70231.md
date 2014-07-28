@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2014-06-30"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JULIO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -77,7 +77,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los periodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -1467,7 +1467,7 @@ c).- Cuando lo pida un Diputado y sea apoyado por tres ó más. Esta propuesta s
 
 II.- Será votación por Cédula:
 
-a).- Cuando se trate de elegir personas, salvo el caso previsto el (sic) Artículo 76 de la presente Ley.
+a).- Cuando se trate de elegir personas, salvo el caso previsto (sic) el Artículo 76 de la presente Ley.
 
 En todos los tipos de votación se podrá utilizar un sistema electrónico para que cada Diputado desde su curul, tenga la opción de votar a favor, en contra o abstención y los resultados aparezcan en un tablero, además podrá incorporarse el mecanismo necesario para que desde su curul cada Diputado pueda también votar por la elección de personas.
 
@@ -1565,15 +1565,15 @@ V.- Instituto de Estudios Legislativos;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
+VI.- Instituto para el Desarrollo y Fortalecimiento Municipal;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VII.-Dirección de Comunicación Social; y
+VII.- Dirección de Comunicación Social; y
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
 
-VIII.-Unidad Institucional de Género.
+VIII.- Unidad Institucional de Género.
 
 Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
 
@@ -1783,7 +1783,9 @@ IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 202 Bis.
 
@@ -1885,7 +1887,7 @@ XIX.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestra
 
 XX.- Las demás las (sic) facultades que señalen otras disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ###### ARTÍCULO 202.
 
@@ -1903,7 +1905,9 @@ V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Leg
 
 VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2014) (F. DE E., 28 DE JULIO DE 2014)
+
+### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
