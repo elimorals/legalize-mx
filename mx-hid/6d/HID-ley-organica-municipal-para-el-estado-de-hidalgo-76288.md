@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2013-09-02"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -123,7 +123,7 @@ Para dirimir las controversias que se generen entre la Administración Pública 
 
 ###### ARTÍCULO 10.
 
-El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa; 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- lxmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
+El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan, 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
 
 La sede del Ayuntamiento residirá en la Cabecera Municipal, podrá ser reubicada temporalmente cuando las circunstancias así lo justifiquen, con la aprobación de la mayoría de sus integrantes y en caso de que sea definitiva, se requerirá la autorización del Congreso del Estado.
 
@@ -933,7 +933,7 @@ q).- Expedir constancias de vecindad;
 
 r).- Conceder permisos para manifestaciones públicas, de conformidad con el Bando de Policía y Gobierno;
 
-s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y (sic)
+s).- Promover los programas y acciones necesarias para la preservación, conservación, mitigación del daño y restauración del medio ambiente; y
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2013)</small>
 
@@ -1021,7 +1021,7 @@ XII.- Asistir a los remates públicos que se verifiquen, en los que tenga inter�
 
 XIII.- Tramitar las expropiaciones que por causa de utilidad pública fueren necesarias, por los medios que estimen convenientes y previa autorización del Ayuntamiento;
 
-XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias; y (sic)
+XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias; y
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
 
@@ -1083,7 +1083,7 @@ IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntam
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
 
-XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y (sic)
+XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1429,7 +1429,7 @@ ii. Económica y por objeto del gasto; y
 
 iii. Funcional-programática;
 
-El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa; (sic)
+El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa;
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2029,6 +2029,8 @@ El Titular del Desarrollo Integral de la Familia Municipal, deberá contar con e
 
 ### CAPÍTULO OCTAVO. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL Y EL H. CUERPO DE BOMBEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 123.
 
 En cada Municipio, deberá existir un cuerpo de seguridad pública, que estará bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le trasmita en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público y las previstas por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -2105,7 +2107,7 @@ IX.- Las demás que le asignen las Leyes y Reglamentos, el Ayuntamiento y el Pre
 
 ###### ARTÍCULO 127.
 
-En cada Municipio, podrá existir una Dirección de Protección Civil y un Cuerpo de Bomberos, como órgano operativo de dicha dependencia de Protección Civil, que estarán bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos de contingencia o emergencia, que se presenten en el Municipio, por fenómenos hidro-meteorológicos, geológicos, químico-tecnológicos, sanitario-ecológicos, socio-organizativos y/o cualquier otro fenómeno perturbador.
+En cada Municipio, se deberá contar con una Dirección de Protección Civil y podrá crear un Cuerpo de Bomberos, como órgano operativo de dicha dependencia de Protección Civil, que estarán bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos de contingencia o emergencia, que se presenten en el Municipio, por fenómenos hidro-meteorológicos, geológicos, químico-tecnológicos, sanitario-ecológicos, socio-organizativos y/o cualquier otro fenómeno perturbador.
 
 El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
 
@@ -2880,3 +2882,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que la presente Ley, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio estatal, así como, la difusión entre las diferentes Dependencias Educativas y de Gobierno en sus respectivos órdenes, a través de medios electrónicos.
+
+P.O. 28 DE JULIO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
