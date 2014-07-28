@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2014-02-17"
+last_updated: "2014-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -149,7 +149,9 @@ I. La Secretaría de Seguridad Pública del Estado;
 
 II. La Secretaría de Salud de Estado;
 
-III. El Instituto de la Juventud del Estado;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+III. La Secretaría de la Juventud;
 
 IV. El Instituto Aguascalentense de las Mujeres;
 
@@ -279,7 +281,7 @@ X. Dar seguimiento a los expedientes de casos de violencia escolar que se presen
 
 XI. Solicitar un informe a las instituciones educativas donde se presenten casos de violencia escolar, así como emitir recomendaciones y hacer las observaciones necesarias para la atención de la violencia escolar; y
 
-XII. Emitir su reglamento interno; (sic)
+XII. Emitir su reglamento interno;
 
 ###### ARTÍCULO 18.
 
@@ -562,3 +564,11 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 13 de febrero de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete. Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
