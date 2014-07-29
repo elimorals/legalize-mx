@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2013-03-22"
+last_updated: "2014-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -350,6 +350,10 @@ Los centros de salud, públicos y privados, llevarán a cabo las siguientes acci
 I. Tener registros actualizados del ingreso y el egreso de personas adultas mayores, donde conste el tratamiento y la atención médica que se les brindó.
 
 II. Gestionar, en forma inmediata una cartilla médica para el control de salud y autocuidado para la persona adulta mayor, por medio del centro de salud de su adscripción. La cartilla médica de control de salud y autocuidado contendrá un resumen del historial de salud de las personas adultas mayores y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2014)</small>
+
+III. Los directores y el personal encargado de los hospitales y clínicas públicas o privadas, donde se lleven personas a las que se refiere esta ley para su atención, están obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato físico o psicológico cometido en contra de ellas.
 
 ###### Artículo 15.
 
@@ -783,7 +787,7 @@ La Secretaría de Salud coordinará e implementará las acciones que se requiera
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2007)</small>
 
-De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura. (sic) de dignificación, respeto e integración a la sociedad, de tales personas.
+De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordinación con las instituciones federales y locales de salud y educación, para implementar programas de sensibilización, educación y capacitación con objeto de favorecer la convivencia familiar con las personas adultas mayores para que ésta sea armónica. Asimismo, promoverá el otorgamiento de subsidios y estímulos fiscales a las personas adultas mayores que estudien, difundiendo entre la población en general y en la familia, la cultura. de dignificación, respeto e integración a la sociedad, de tales personas.
 
 ###### Artículo 59.
 
@@ -1240,3 +1244,7 @@ SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el 
 TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a los reglamentos interiores del instituto que refiere el presente decreto, Hasta en tanto los cargos previstos en los mismos se entenderán conferidos en los términos y bajo la denominación que el presente decreto les confiere.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE JULIO DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
