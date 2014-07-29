@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-del-estado-de-coahuila-de-8602
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-17"
-last_updated: "2014-07-11"
+last_updated: "2014-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 526 QUE DECLARA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2014, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES CONFORME AL ESQUEMA GRADUAL PREVISTO EN LA DECLARATORIA, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, SALVO QUE SE TRATE DE LOS DELITOS SEÑALADOS EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 260, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE FECHA 17 DE MAYO DE 2013, LOS CUALES SE TRAMITARÁN CONFORME A LO ESTABLECIDO EN EL CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, HASTA EN TANTO SE INCORPOREN AL NUEVO SISTEMA ACUSATORIO MEDIANTE ACUERDO DEL CONSEJO DE LA JUDICATURA DEL ESTADO, SIN QUE PUEDA EXCEDER EL PLAZO CONSTITUCIONAL DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de febrero de 2012.
 
@@ -849,7 +851,7 @@ Causas de impedimento
 
 Son causas de impedimento de los jueces y magistrados:
 
-I. Haber intervenido en el mismo proceso como ministerio público, defensor, asesor jurídico, víctima u ofendido, denunciante, , (sic) haber ejercido la acción penal particular o haber actuado como perito, consultor técnico o conocer del hecho investigado como testigo, o tener interés directo en el proceso;
+I. Haber intervenido en el mismo proceso como ministerio público, defensor, asesor jurídico, víctima u ofendido, denunciante, , haber ejercido la acción penal particular o haber actuado como perito, consultor técnico o conocer del hecho investigado como testigo, o tener interés directo en el proceso;
 
 II. Ser cónyuge, compañero civil, concubina o concubinario, o tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad y por afinidad hasta el segundo, con alguno de los interesados, o éste cohabite o haya cohabitado con alguno de ellos;
 
@@ -8420,3 +8422,31 @@ DECRETO NÚMERO 507, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 136, 328,
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE JULIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 526 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚMERO 526
+
+###### ARTÍCULO ÚNICO.
+
+La Quincuagésima Novena Legislatura del Congreso del Estado Independiente, Libre y Soberano Estado de Coahuila de Zaragoza, con fundamento en lo dispuesto por el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, declara el Inicio de Vigencia del Código Nacional de Procedimientos Penales en el Estado de Coahuila de Zaragoza, con las siguientes prevenciones:
+
+I. Entrará en vigor en el Distrito Judicial de Monclova a los sesenta días naturales siguientes a la publicación de la presente Declaratoria en el Periódico Oficial del Gobierno del Estado, aplicable a los delitos que se cometan en los municipios que integran dicho Distrito Judicial, en los términos que se precisan en el Acuerdo C-085/2013 emitido por el Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+II. En el resto de los Distritos Judiciales o regiones, sus disposiciones entrarán en vigor conforme se implemente el sistema de justicia penal acusatorio, según determine mediante Acuerdo el Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza, el cual definirá la región geográfica o distrito judicial en que se implementará el sistema de justicia penal acusatorio y el esquema de gradualidad que habrá de seguirse en todo el Estado, sin que en ningún caso puedan mediar menos de sesenta días naturales siguientes a la publicación de la presente Declaratoria en el Periódico Oficial del Gobierno del Estado y sin exceder el plazo constitucional de implementación del sistema de justicia penal acusatorio.
+
+## TRANSITORIOS
+
+Artículo Primero.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La presente Declaratoria entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, conforme al esquema de gradualidad previsto en la misma.
+
+Artículo Tercero.- Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en los distritos judiciales o regiones del Estado de Coahuila de Zaragoza, se regirán por las disposiciones vigentes al momento de su inicio.
+
+Artículo Cuarto.- Notifíquese a los Poderes Legislativo, Ejecutivo y Judicial de la Federación y de las entidades federativas, así como a los Poderes Ejecutivo y Judicial del Estado de Coahuila de Zaragoza y a sus Ayuntamientos para su conocimiento y los efectos a que haya lugar.
+
+Artículo Quinto.- El Código de Procedimientos Penales de Coahuila publicado en el Periódico Oficial del Gobierno del Estado de fecha 25 de mayo de 1999 y el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza publicado en el Periódico Oficial del Gobierno del Estado de fecha 17 de febrero de 2012, para efectos de su aplicación en los procedimientos penales iniciados por hechos que ocurran a partir de la entrada en vigor del Código Nacional de Procedimientos Penales conforme al esquema gradual previsto en la presente Declaratoria, quedarán abrogados, salvo que se trate de los delitos señalados en el Artículo Tercero Transitorio del Decreto 260 que Reforma el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado de fecha 17 de mayo de 2013, los cuales se tramitarán conforme a lo establecido en el Código de Procedimientos Penales de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, hasta en tanto se incorporen al nuevo sistema acusatorio mediante Acuerdo del Consejo de la Judicatura del Estado, sin que pueda exceder el plazo constitucional de implementación del Sistema de Justicia Penal Acusatorio.
+
+Respecto de los procedimientos penales que a la entrada en vigor de este ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
