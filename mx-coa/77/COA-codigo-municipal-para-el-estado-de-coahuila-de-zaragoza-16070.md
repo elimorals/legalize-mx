@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2012-10-19"
+last_updated: "2014-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1745,7 +1745,7 @@ V. Estrategias. Son los conjuntos de acciones que se llevarán a cabo para el lo
 
 VI. Lineamientos estratégicos sectoriales. Consisten en aquellas líneas de acción que se deberán seguir en cada sector de actividad de que se trate, ya sea agropecuario, turismo, pesca, salud, educación, comunicaciones, comercio, desarrollo urbano, etc.
 
-VII. Programas y metas anuales. Son las acciones y/o (sic) obras cuantificables, que se desprenden del plan. Incluye la presupuestación tomando en cuenta los recursos estimados con base en los presupuestos de egresos anteriores.
+VII. Programas y metas anuales. Son las acciones y/o obras cuantificables, que se desprenden del plan. Incluye la presupuestación tomando en cuenta los recursos estimados con base en los presupuestos de egresos anteriores.
 
 VIII. Programas coordinados de inversión pública. Son aquéllos programas que se realizarán conjuntamente entre el gobierno municipal y el estatal, y en su caso, federal, así como los proyectos que no se puedan ejecutar con los recursos financieros del municipio.
 
@@ -3059,7 +3059,7 @@ IV. La incapacidad física o mental o inhabilidad manifiesta del trabajador, que
 
 V. Las demás que prevengan las leyes y reglamentos.
 
-### CAPÍTULO DÉCIMO (SIC). DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
+### CAPÍTULO DÉCIMO. DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
 ###### ARTÍCULO 299.
 
@@ -3229,7 +3229,7 @@ En caso de que existan dos o más trabajadores en igualdad de condiciones para o
 
 Para los efectos de este artículo se entiende por:
 
-a). Conocimientos. la (sic) posesión de los principios teóricos y prácticos que se requieren para el desempeño de una plaza y su función.
+a). Conocimientos. la posesión de los principios teóricos y prácticos que se requieren para el desempeño de una plaza y su función.
 
 b). Aptitud. La suma de facultades físicas y mentales, la iniciativa, laboriosidad y eficiencia para llevar a cabo una actividad determinada.
 
@@ -3827,9 +3827,21 @@ III. La resolución que ponga fin al recurso.
 
 Las notificaciones personales se harán directamente al recurrente si acude a las oficinas de la autoridad, o en el domicilio que haya señalado para tal efecto, o bien, por correo certificado con acuse de recibo. Las demás notificaciones se harán por estrados.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2014)</small>
+
 ###### ARTÍCULO 398.
 
-La ejecución del acto reclamado podrá suspenderse cuando no se afecte el interés público y se garanticen suficientemente los posibles daños o perjuicios que pudieran causarse en el supuesto de confirmarse la resolución impugnada. La garantía de que se trata podrá ser constituida mediante depósito en dinero fijado por la autoridad, o fianza que ella misma considere aceptable.
+La ejecución del acto reclamado podrá suspenderse a petición de parte, cuando no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+
+Cuando proceda la suspensión, pero pueda ocasionar daño o perjuicio y la misma se conceda, el quejoso deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causen de confirmarse la resolución impugnada.
+
+La suspensión surtirá sus efectos desde el momento en que se pronuncie el acuerdo relativo por la autoridad.
+
+Dejará de surtir efecto la suspensión otorgada, si dentro del plazo de cinco días siguientes al que surta efectos la notificación del acuerdo de suspensión, el quejoso no otorga la garantía fijada.
+
+Vencido el plazo, la autoridad emitirá el acuerdo respectivo y podrá ejecutarse el acto reclamado. No obstante lo anterior, mientras no se ejecute, el quejoso podrá exhibir la garantía, con lo cual, de inmediato, vuelve a surtir efectos la suspensión otorgada.
+
+En ningún caso, la suspensión de acto podrá tener por efecto modificar o restringir derechos, ni constituir aquéllos que no haya tenido el quejoso antes de la presentación del recurso.
 
 ### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
 
@@ -4146,3 +4158,11 @@ P.O. 19 DE OCTUBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 29 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos administrativos que actualmente se encuentren en trámite, se regirán conforme a las disposiciones procesales aplicables anteriores al presente decreto, hasta resolver en definitiva según corresponda.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
