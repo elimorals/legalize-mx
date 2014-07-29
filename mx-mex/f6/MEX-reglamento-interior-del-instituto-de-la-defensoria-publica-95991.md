@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-defensoria-publica-9599
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-19"
-last_updated: "2013-10-16"
+last_updated: "2014-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 16 DE OCTUBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2014.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el día jueves 19 de septiembre de 2013.
 
@@ -161,7 +159,13 @@ XXIII. Expedir constancias o copias de los documentos que obran en los archivos 
 
 XXIV. Resolver en el ámbito administrativo la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XXV. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejero/a Jurídica.
+> <small>(REFORMADA, G.G. 29 DE JULIO DE 2014)</small>
+
+XXV. Otorgar o revocar poderes generales o especiales en favor de terceros o subalternos, para que lo ejerzan de manera individual o conjunta por cualquier vía ante cualquier autoridad.
+
+> <small>(ADICIONADA, G.G. 29 DE JULIO DE 2014)</small>
+
+XXVI. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejera/o Jurídica (sic).
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES REGIONALES, SUBDIRECTORES Y COORDINADORES REGIONALES
 
@@ -448,3 +452,13 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN T. ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 29 DE JULIO DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Acuerdo.
