@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-procuraduria-general-de-justicia-del-96773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-11-29"
-last_updated: "2014-05-30"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VÉANSE ARTÍCULOS PRIMERO Y DÉCIMO TRANSITORIOS DEL DECRETO QUE CREA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 159, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, LAS REFORMAS Y ADICIONES EN EL CONTENIDAS ENTRARÁ EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, viernes 29 de noviembre de 2013.
 
@@ -73,7 +73,9 @@ VI. Ley: a la Ley Orgánica de la Procuraduría General de Justicia del Estado d
 
 VII. Código Penal: al Código Penal para el Estado de Sinaloa;
 
-VIII. Código de Procedimientos Penales: al Código de Procedimientos Penales para el Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+VIII. Código de Procedimientos Penales: al Código Nacional de Procedimientos Penales;
 
 IX. Código Civil: al Código Civil para el Estado de Sinaloa;
 
@@ -81,7 +83,7 @@ X. Código de Procedimientos Civiles: al Código de Procedimientos Civiles para 
 
 XI. Reglamento: al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa;
 
-XII. Ley de Justicia Alternativa: a la Ley de Justicia Alternativa en Materia Penal para el Estado de Sinaloa;
+XII. (DEROGADA, P.O. 30 DE JULIO DE 2014)
 
 XIII. Adolescente: Hombre o Mujer que está entre los doce años cumplidos y los dieciocho no cumplidos;
 
@@ -91,19 +93,25 @@ XV. Estado: El Estado de Sinaloa.
 
 ### Capítulo Segundo. De la Institución del Ministerio Público y la Procuración de Justicia
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 3.
 
-El Ministerio Público es una Institución Jurídica de Derecho Público que ejerce la representación social del Estado, tiene por propósito proteger el interés social y preservar la vigencia plena del estado de derecho en la Entidad. Esta labor es la Procuración de Justicia.
+El Ministerio Público es la Institución Pública de buena fe que tiene a su cargo la representación del interés social mediante la investigación y persecución de conductas delictivas que se presentaren en la entidad, actuando siempre en pleno respeto a los derechos humanos, a fin de garantizar el acceso a la justicia de las víctimas de delito, dictando las medidas necesarias para su protección y exigiendo la reparación del daño, además de intervenir en los asuntos del orden civil, familiar, penal, de justicia para adolescentes y demás materias que establezcan las leyes con el propósito de contribuir a preservar el marco jurídico del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### Artículo 4.
 
-Corresponde al Ministerio Público la titularidad del ejercicio de la acción penal pública ante los Tribunales del Estado, en los términos que establezca la legislación procesal de la Entidad.
+Corresponde al Ministerio Público la titularidad del ejercicio de la acción penal pública ante los Tribunales del Estado, en los términos que establezca el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 5.
 
 La Institución jurídica del Ministerio Público se deposita para su ejercicio en la Procuraduría General de Justicia del Estado de Sinaloa.
 
-El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado de Sinaloa, el Código de Procedimientos Penales para el Estado de Sinaloa, la presente Ley y otros ordenamientos jurídicos.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado de Sinaloa, el Código Nacional de Procedimientos Penales, la presente Ley y otros ordenamientos jurídicos.
 
 Compete al Ministerio Público la investigación de los delitos y resolver sobre el ejercicio de la acción penal en la forma establecida por la ley, y en su caso, ordenar las diligencias pertinentes y útiles para demostrar o no la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
 
@@ -111,7 +119,9 @@ El Ministerio Público deberá actuar durante todas las etapas del proceso en qu
 
 El deber de lealtad consiste en el deber de información veraz sobre la investigación cumplida y los conocimientos alcanzados, y el deber de no ocultar a los intervinientes elemento alguno que pudiera resultar favorable para la posición que ellos asumen, sobre todo cuando ha resuelto no incorporar alguno de esos elementos al proceso, salvo la reserva que en determinados casos la Ley le autorice en las investigaciones.
 
-La investigación debe ser objetiva y referirse tanto a los elementos de cargo como de descargo. Igualmente, al concluir la investigación formalizada puede solicitar el sobreseimiento del proceso, o en la audiencia de juicio oral puede concluir requiriendo la absolución o una condena más leve que aquélla que sugiere la acusación, cuando surjan elementos que conduzcan a esa determinación, de conformidad con lo previsto en el Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+La investigación debe ser objetiva y referirse tanto a los elementos de cargo como de descargo. Igualmente, al concluir la investigación formalizada puede solicitar el sobreseimiento del proceso, o en la audiencia de juicio oral puede concluir requiriendo la absolución o una condena más leve que aquélla que sugiere la acusación, cuando surjan elementos que conduzcan a esa determinación, de conformidad con lo previsto en el Código Nacional de Procedimientos Penales.
 
 El Ministerio Público tendrá las siguientes obligaciones:
 
@@ -233,7 +243,9 @@ Al tercer reporte del Ministerio Público, el tratamiento del consumidor farmaco
 
 IV. Informar al Ministerio Público de la Federación del inicio de las investigaciones por delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII del Título Decimo Octavo de la Ley General de Salud, cuya competencia sea local en términos del artículo 474 de dicha Ley, a efecto de que la autoridad federal cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación. En estos casos, las diligencias desahogadas hasta ese momento por el Ministerio Público del Estado gozarán de plena validez;
 
-V. Solicitar al titular del Ministerio Público de la Federación o el servidor público que al efecto designe, que para fines de investigación, le autorice que por conducto de sus policías, se empleen las técnicas de investigación que establece el artículo 180 Bis del Código Federal de Procedimientos Penales en los casos de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
+V. Solicitar al titular del Ministerio Público de la Federación o el servidor público que al efecto designe, que para fines de investigación, le autorice que por conducto de sus policías, se empleen las técnicas de investigación que establece el artículo 251 del Código Nacional de Procedimientos Penales en los casos de los delitos de narcomenudeo previstos en los artículos 475,476 y 477 de la Ley General de Salud.
 
 Una vez expedida la autorización a que se refiere el párrafo que antecede, el Ministerio Público de la Federación y, en su caso, el Ministerio Público del Estado, deberán señalar por escrito en la orden respectiva los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden.
 
@@ -275,7 +287,9 @@ Si por el contrario, de los datos aportados por el denunciante o querellante, as
 
 Para ser Agente del Ministerio Público se requiere:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de veinticinco años;
 
@@ -359,7 +373,9 @@ XIII. Expedito: El servidor público deberá actuar de manera pronta, completa e
 
 XIV. Irrecusabilidad del deber: El Ministerio Público tiene potestad para conocer de cualquier asunto de su competencia, independientemente de cualquier circunstancia subjetiva que le acompañe;
 
-XV. Criterios de Oportunidad: En función del principio de legalidad el Ministerio Público sólo podrá prescindir del ejercicio de la acción penal total o parcialmente, en los casos que señale esta Ley o el Código de Procedimientos Penales para el Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XV. Criterios de Oportunidad: En función del principio de legalidad el Ministerio Público sólo podrá prescindir del ejercicio de la acción penal total o parcialmente, en los casos que señale esta Ley o el Código Nacional de Procedimientos Penales;
 
 XVI. Coordinación interinstitucional: El Ministerio Público constituye una dependencia de estructura organizacional jerarquizada, en la que cada superior deberá controlar el desempeño de quienes le asisten y será responsable por la gestión de los servidores públicos a su cargo, sin perjuicio de las responsabilidades en que cada uno de ellos pueda incurrir por sus propios actos. El superior jerárquico tendrá la facultad de atracción respecto de los asuntos en conocimiento de sus subordinados y goza de sus mismas atribuciones aunque no le estén expresamente encomendadas;
 
@@ -485,7 +501,7 @@ b) Dirección General de Litigación:
 
 1. Unidad de Litigación Oral;
 
-2. Unidades de Medidas Cautelares; y
+2. (DEROGADO, P.O. 30 DE JULIO DE 2014); y
 
 3. Unidades de Ejecución de Sanciones y Medidas de Seguridad.
 
@@ -589,7 +605,9 @@ VI. Hacer del conocimiento del Supremo Tribunal de Justicia y del Gobernador del
 
 VII. Analizar y resolver sobre la procedencia o improcedencia de las determinaciones del Ministerio Público sobre la abstención de investigar, archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de criterios de oportunidad, cuando sean autorizadas por el superior jerárquico del Ministerio Publico, por haber sido éstas impugnadas dentro del término legal;
 
-VIII. Decretar o autorizar los criterios de oportunidad en los términos que establezca el Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+VIII. Decretar o autorizar los criterios de oportunidad en los términos que establezca el artículo 256 del Código Nacional de Procedimientos Penales;
 
 IX. Solicitar la intervención de comunicaciones privadas ante el Juez de Distrito, en los términos de las leyes aplicables, de conformidad con el artículo 16, párrafo décimo tercero, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -635,7 +653,13 @@ XXIX. Participar en las acciones de suministro, intercambio y sistematización d
 
 XXX. Ejercer el presupuesto que se apruebe para los gastos de operación y administración de la Procuraduría General de Justicia del Estado, facultándose para tal fin que se aperturen las cuentas bancarias que sean necesarias para un control y manejo transparente de los recursos asignados; y
 
-XXXI. Las demás que determinen las disposiciones legales aplicables, la presente Ley y el Reglamento.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XXXI. Presidir el fondo de apoyo a la procuración de justicia del Estado, en los términos que establece la ley de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XXXII. Las demás que determinen las disposiciones aplicables, la presente Ley y el Reglamento.
 
 ### Capítulo Cuarto. Órganos Administrativos de Procuración de Justicia
 
@@ -645,7 +669,9 @@ XXXI. Las demás que determinen las disposiciones legales aplicables, la present
 
 Para ser nombrado Oficial Mayor en la Institución se deberán cumplir los requisitos siguientes:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años cumplidos el día de la designación;
 
@@ -789,7 +815,9 @@ El Instituto de Formación Profesional tiene por objeto fomentar la profesionali
 
 Para ser Director del Instituto de Formación Profesional se requiere:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años al momento de su designación;
 
@@ -883,7 +911,9 @@ XV. Las demás que determinen otras disposiciones legales, el Director del Insti
 
 Para ser Director de Informática, Sistemas y Comunicaciones se requiere:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años al momento de su designación;
 
@@ -939,7 +969,9 @@ Los Subprocuradores tendrán el mismo nivel jerárquico, dependiendo directament
 
 Para ser Subprocurador General de Justicia se requiere:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser Licenciado en Derecho o su equivalente con título legalmente expedido;
 
@@ -973,7 +1005,9 @@ VII. Apoyar a las Subprocuradurías regionales con el personal de investigación
 
 VIII. Apoyar a las Subprocuradurías regionales con personal calificado en materia de litigación oral, para llevar a cabo asuntos en las audiencias;
 
-IX. Llevar el control de los registros relacionados con las medidas cautelares, condiciones impuestas en los procedimientos de suspensión condicional del proceso, procedimiento abreviado y criterios de oportunidad;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IX. Llevar el control de los registros relacionados con las medidas cautelares, condiciones impuestas en los procedimientos de suspensión condicional del proceso, procedimiento abreviado y criterios de oportunidad en coordinación con la Unidad de Medidas Cautelares de la Secretaría de Seguridad Pública;
 
 X. Llevar el trámite y control de los registros de las Carpetas de Ejecución y los procedimientos que de aquéllas se deriven, a través de la dirección correspondiente;
 
@@ -997,7 +1031,7 @@ b) Dirección General de Litigación:
 
 a. Unidad de Litigación Oral;
 
-b. Unidades de Medidas Cautelares; y
+b. (DEROGADO, P.O. 30 DE JULIO DE 2014); y
 
 c. Unidades de Ejecución de Sanciones y Medidas de Seguridad.
 
@@ -1039,11 +1073,15 @@ Por lo que respecta a las unidades de los Apartados B, C, D y E, cada una de ell
 
 Todos los servidores públicos podrán ser removidos libremente por el Procurador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 39.
 
-Para ser Director de (sic) General se requiere:
+Para ser Director General se requiere:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Ser Licenciado en Derecho o su equivalente con título y cédula profesionales legalmente expedidos;
 
@@ -1061,7 +1099,9 @@ VII. No haber sido condenado por delitos dolosos.
 
 Para ser Director de Unidad se requiere;
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Ser Licenciado en Derecho o su equivalente con título y cédula profesionales legalmente expedidos;
 
@@ -1215,45 +1255,33 @@ VII. Solicitar el apoyo material y humano para llevar a cabo las Audiencias cuan
 
 VIII. Llevar el control estadístico de las Audiencias y de las resoluciones que se deriven;
 
-IX. Proponer acciones y estrategias para garantizar el correcto desempeño de los Agentes de Ministerio Público en las Audiencias Orales; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-X. Las demás que les confieran otras disposiciones legales y el Subprocurador General de Justicia, así como el Director General de Litigación por conducto de aquél.
+IX. Solicitar las órdenes de comparecencia o aprehensión en aquellos asuntos donde no pueda acudir el Agente del Ministerio Público que lleve bajo su mando y conducción una investigación o cuando se trate de una solicitud por exhorto o por colaboración;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+X. Proponer acciones y estrategias para garantizar el correcto desempeño de los Agentes de Ministerio Público en las Audiencias Orales;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XI. Solicitará la audiencia de revisión de medidas cautelares cuando proceda;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XII. Dentro de la audiencia correspondiente, oponerse a la revocación, sustitución o modificación de las medidas cautelares impuestas, solicitada por alguna de las partes sin que exista causa justificada;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XIII. Solicitar al Juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XIV. Las demás que les confieran otras disposiciones legales, el Procurador, el Subprocurador General de Justicia, así como el Director General de Litigación por conducto de aquél.
 
 ###### Artículo 46.
 
-El Director de la Unidad de Medidas Cautelares tendrá las siguientes atribuciones:
-
-I. Solicitar las órdenes de comparecencia o aprehensión en aquellos asuntos donde no pueda acudir el Agente del Ministerio Público que lleve bajo su mando y conducción una investigación o cuando se trate de una solicitud por exhorto o por colaboración;
-
-II. En las carpetas de investigación y durante las etapas de investigación inicial y formalizada, recabará los datos de prueba para justificar la necesidad de las medidas cautelares y los hará llegar al Agente del Ministerio Público encargado del asunto en particular;
-
-III. Supervisará el cumplimiento de las Medidas Cautelares, y le dará vista a la autoridad penitenciaria o al Juez de Control sobre cualquier situación;
-
-IV. Solicitará la audiencia de revisión de medidas cautelares cuando proceda;
-
-V. En apoyo a las Unidades de Carpetas de Investigación y de Litigación y al Agente del Ministerio Público encargado del asunto en particular, aportará a la carpeta de investigación todos los datos de prueba necesarios para justificar la necesidad de una medida cautelar;
-
-VI. Vigilar el cumplimiento de las condiciones que se le impongan al imputado en los criterios de oportunidad y en la suspensión condicional del proceso;
-
-VII. Dentro de la audiencia correspondiente, oponerse a la revocación, sustitución o modificación de las medidas cautelares impuestas, solicitada por alguna de las partes sin que exista causa justificada;
-
-VIII. Con el apoyo de elementos de la Policía Ministerial del Estado, realizar visitas periódicas a las personas que deban cumplir con alguna condición o medida cautelar;
-
-IX. Prevenir a los imputados para que cumplan con las medidas cautelares o condiciones impuestas;
-
-X. Elaborar un plan programado de ejecución de medidas cautelares para darle seguimiento;
-
-XI. Diseñar planes y acciones para darle eficacia a las medidas cautelares, providencias precautorias y las condiciones impuestas al imputado;
-
-XII. Llevar una base de datos y el control estadístico, de las medidas cautelares, providencias precautorias, criterios de oportunidad, conciliaciones, mediaciones, acuerdos reparatorios, procesos de suspensión condicional del proceso, proceso simplificado y abreviado que la ley prevea y que se hayan otorgado indistintamente dentro de las etapas de la investigación inicial, formalizada o cualquiera de las que contempla el proceso;
-
-XIII. Vigilar que los mandatos de las autoridades judicial o ministerial, en materia de medidas cautelares sean debidamente cumplidos;
-
-XIV. Proporcionar a la autoridad Judicial o ministerial que lo solicite, independientemente si son de la federación, local o de otra entidad federativa, la información relativa a los imputados o procesados que se encuentren gozando o hayan gozado de alguna de las medidas cautelares, providencias precautorias, criterios de oportunidad, conciliaciones, mediaciones, acuerdos reparatorios, procesos de suspensión condicional del proceso, proceso simplificado y abreviado que la ley prevé y que se hayan otorgado indistintamente dentro de las etapas de la investigación inicial, formalizada o cualquiera de las que contempla el proceso, para que las autoridades solicitantes estén en posibilidades de resolver la solicitud de aplicación de éstas.
-
-El Ministerio Público sólo podrá solicitar al Juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso; y
-
-XV. Las demás que les confieran otras disposiciones legales y el Subprocurador General de Justicia, así como el Director General de Litigación por conducto de aquél.
+(DEROGADO, P.O. 30 DE JULIO DE 2014)
 
 ###### Artículo 47.
 
@@ -1297,7 +1325,13 @@ XVIII. Vigilar la protección de los derechos humanos en la revisión de peticio
 
 XIX. Interponer los recursos en los procedimientos de ejecución;
 
-XX. Las demás que les confieran otras disposiciones legales y el Subprocurador General de Justicia, así como el Director General de Litigación por conducto de aquél.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XX. Intervenir de manera coordinada con la Unidad de Asistencia para Preliberados, en el cumplimiento de las condiciones y beneficios que se deriven de alguna forma de libertad anticipada.
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XXI. Las demás que les confieran otras disposiciones legales, el Procurador, el Subprocurador General de Justicia, así como el Director General de Litigación por conducto de aquél.
 
 ###### Artículo 48.
 
@@ -1419,6 +1453,18 @@ e. La cantidad de resoluciones tomadas por dicha entidad denegando las solicitud
 
 XIII. Las demás que les confieran otras disposiciones legales, el Procurador General de Justicia, el Subprocurador General de Justicia y el Director General Jurídico Consultivo por conducto de aquél.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+Los medios de comunicación tendrán acceso a la información de las investigaciones a través de los boletines de prensa que emita la unidad de acceso a la información pública, siempre que se cumplan con los requisitos marcados por las leyes en materia de transparencia.
+
+En ningún caso se podrá autorizar a los medios de comunicación el ingreso a los lugares de los hechos, la toma de audio, video o fotografía a las personas involucradas en un evento delictivo, ni al manejo de información relacionada con la seguridad pública o la procuración de justicia.
+
+Ningún funcionario de la Procuraduría General de Justicia podrá dar informes respecto de algún asunto a los medios de comunicación sin autorización expresa del Procurador General de Justicia o de la unidad de acceso.
+
+Sólo la víctima u ofendido a través de su asesor jurídico y el imputado a través de su defensor son las únicas personas que podrán tener acceso a los registros de la investigación inicial; siempre que no se afecte el desarrollo de la misma.
+
 #### Sección Segunda. Subprocuradurías Regionales
 
 ###### Artículo 52.
@@ -1435,7 +1481,9 @@ La Sub-Procuraduría Regional Zona Sur, cuya residencia estará en la Ciudad de 
 
 Para ser Subprocurador Regional de Justicia se requiere:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Ser Licenciado en Derecho o su equivalente con título legalmente expedido;
 
@@ -1493,7 +1541,9 @@ III. Realizar todas las diligencias necesarias para salvaguardar los derechos y 
 
 IV. Interponer todos los medios de defensa, legales y constitucionales para la protección de los derechos de las mujeres, personas menores de edad, ausentes, en estado de interdicción y grupos vulnerables; y
 
-V. Las demás que le confiera el Código Familiar y el Código de Procedimientos Civiles vigente en el Estado.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+V. Las demás que le confiera el Código Familiar, Código de Procedimientos Familiares, Código Civil y el Código de Procedimientos Civiles vigentes en el Estado.
 
 ###### Artículo 57.
 
@@ -1513,9 +1563,13 @@ I. Dirección de Derechos Humanos;
 
 II. Dirección de Atención a Víctimas;
 
-III. Agencia del Ministerio Público Especializada en Atención a Mujeres y Menores Víctimas de Delito;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-IV. Agencia Especializada en Atención a Grupos Vulnerables; y
+III. Unidad Especializada en Atención a Mujeres y Menores Víctimas de Delito;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IV. Unidad Especializada en Atención a Grupos Vulnerables;
 
 V. Las demás dependencias que sean creadas por Acuerdo del Procurador General de Justicia del Estado de Sinaloa.
 
@@ -1537,7 +1591,9 @@ III. Llevar a cabo la persecución penal en los Tribunales, a través de sus Age
 
 IV. Trabajar de manera coordinada con la Subprocuraduría General y las Subprocuradurías Regionales en la investigación de los delitos donde existan mujeres, niños o grupos vulnerables como víctimas de delito;
 
-V. Controlar las bases de datos estatales del Registro Nacional de Víctimas y el Banco Nacional de Datos e información sobre Casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+V. Controlar la base de datos estatal del Banco Nacional de Datos e información sobre Casos de Violencia contra las Mujeres;
 
 VI. Manejar de forma confidencial los datos personales de las víctimas de delito en el ámbito de su competencia;
 
@@ -1665,27 +1721,21 @@ XX. Operar mecanismos, a partir de muestras aleatorias, dirigidos a verificar, e
 
 XXI. Las demás atribuciones y encomiendas que le especifiquen otras disposiciones, el Procurador General y la Subprocuraduría de Derechos Humanos y Atención a Víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 62.
 
-La Agencia del Ministerio Público Especializada en Atención a Mujeres y Menores Víctimas de Delito, dependerá de la Subprocuraduría de Derechos Humanos y Atención a Víctimas, y tendrá las siguientes atribuciones:
+La Unidad Especializada en Atención a Mujeres y Menores Víctimas de Delito, dependerá de la Subprocuraduría de Derechos Humanos y Atención a Víctimas, y tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
 I. Investigar y perseguir los siguientes delitos, cuando sean cometidos contra mujeres o personas menores de edad:
 
-a. Lesiones dolosas que pongan en riesgo la vida;
+a. Feminicidio;
 
-b. Homicidio calificado y feminicidio;
+b. Trata de personas; y
 
-c. Trata de personas;
-
-d. Violencia familiar;
-
-e. Amenazas, cuando la víctima u ofendido ostente esa calidad o de testigo en un proceso penal diverso;
-
-f. Delitos contra el libre desarrollo de la personalidad;
-
-g. Delitos sexuales; y
-
-h. Retención o sustracción de menores.
+c. Delitos contra el libre desarrollo de la personalidad;
 
 II. Brindar orientación y protección máxima a las personas que hayan sido víctimas de algún delito mencionado en la fracción anterior;
 
@@ -1709,9 +1759,11 @@ XI. Las demás atribuciones y encomiendas que le ordene el Procurador General y 
 
 Esta Agencia contará con el personal especializado necesario para llevar a cabo la investigación y los asuntos de litigación que deban presentarse ante los Tribunales, de conformidad con el Reglamento de la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 63.
 
-La Agencia Especializada en Atención a Grupos Vulnerables, tendrá las siguientes atribuciones:
+La Unidad Especializada en Atención a Grupos Vulnerables, tendrá las siguientes atribuciones:
 
 I. Ejercer la conducción y el mando de la investigación así como la asesoría jurídica a los Policías que intervengan en esas investigaciones y perseguir los delitos previstos en la fracción I del artículo anterior, cuando la víctima sea persona indígena, con discapacidad o de la tercera edad;
 
@@ -1771,13 +1823,17 @@ IX. Las demás funciones que mediante acuerdo dicte el Procurador General de Jus
 
 Los mecanismos alternativos de solución de controversias previstos en la presente Ley, se desarrollarán ante la Institución del Ministerio Público y estarán a cargo del Centro de Mecanismo (sic) Alternativos de Solución de Controversias en Materia Penal.
 
-El Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal es un órgano de la Procuraduría General de Justicia del Estado, responsable en la aplicación y conocimiento de los medios alternativos de justicia en materia penal, y contará con autonomía técnica y operativa para facilitar la prevención o solución de los conflictos que le sean planteados en términos de la Ley de Justicia Alternativa en Materia Penal y el Código de Procedimientos Penales, ambos para el Estado de Sinaloa; estará a cargo de un Director General y se integrará por personal especializado, en las siguientes áreas:
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+El Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal es un órgano de la Procuraduría General de Justicia del Estado, responsable en la aplicación y conocimiento de los mecanismos alternativos de justicia en materia penal, y contará con autonomía técnica y operativa para facilitar la prevención o solución de los conflictos que le sean planteados en términos de la normatividad aplicable en Mecanismos Alternativos de Solución de Controversias en Materia Penal y el Código Nacional de Procedimientos Penales; estará a cargo de un Director General y se integrará por personal especializado, en las siguientes áreas:
 
 I. Módulo de Atención Temprana;
 
-II. Módulo de Conciliación; y
+II. Módulo de Conciliación;
 
-III. Módulo de Mediación.
+III. Módulo de Mediación; y
+
+IV. Módulos de Justicia Restaurativa.
 
 Asimismo, se contará con un Coordinador Administrativo, encargado de planear, organizar, programar, coordinar y vigilar las actividades y el funcionamiento del Centro, así como un Administrador de Procesos que realizará labores de gestión y seguimiento en los asuntos relacionados con la supervisión judicial de los Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
@@ -1787,13 +1843,17 @@ El Centro, de Mecanismos Alternativos de Solución de Controversias en Materia P
 
 Para ser Director General del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal, se requieren los siguientes requisitos:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con Título y Cédula Profesional en el área en que se desempeñará;
 
 III. Tener más de treinta años de edad;
 
-IV. Acreditar ejercicio profesional de tres años por lo menos, contados a partir de la expedición de la cédula profesional, de preferencia con estudios y experiencia en el área de Justicia Alternativa o Restaurativa;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IV. Acreditar estudios y experiencia en el área de Justicia Alternativa o Restaurativa que establezca la ley de la materia;
 
 V. Haber acreditado los exámenes de control de confianza;
 
@@ -1809,25 +1869,35 @@ Para su funcionamiento, el Centro de Mecanismos Alternativos de Solución de Con
 
 El Coordinador Regional del Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal, dependerá del Director General, y debe cumplir con los siguientes requisitos:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con Título y Cédula Profesional en el área en que se desempeñará;
 
 III. Tener más de treinta años de edad;
 
-IV. Acreditar ejercicio profesional de tres años por lo menos, contados a partir de la expedición de la cédula profesional, de preferencia con estudios y experiencia en el área de Justicia Alternativa o Restaurativa;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-V. Haber acreditado los exámenes de control de confianza;
+IV. Acreditar ejercicio profesional de tres años por lo menos, contados a partir de la expedición de la cédula profesional;
 
-VI. Ser de honradez y probidad notorias; y
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
-VII. No haber sido condenado por delitos dolosos.
+V. Contar con estudios y experiencia en el área de Justicia Alternativa o Restaurativa en los términos de la ley de la materia;
+
+VI. Haber acreditado los exámenes de control de confianza;
+
+VII. Ser de honradez y probidad notorias; y
+
+VIII. No haber sido condenado por delitos dolosos.
 
 ###### Artículo 70.
 
 El Centro de Mecanismos Alternativos de Solución de Controversias en Materia Penal y sus Unidades Regionales, deberán tener al menos, los Módulos correspondientes para la Atención Temprana, Mediación y Conciliación.
 
-Los facilitadores de los Módulos de Atención Temprana, Mediación y Conciliación deberán tener la misma percepción salarial que el Agente del Ministerio Público.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Los facilitadores de los Módulos de Atención Temprana, Mediación, Conciliación y Justicia Restaurativa deberán tener la misma percepción salarial que el Agente del Ministerio Público Auxiliar.
 
 ###### Artículo 71.
 
@@ -1835,11 +1905,31 @@ El Facilitador es un profesional calificado cuya función es posibilitar la part
 
 El Facilitador hará uso de los procesos restaurativos que considere adecuados para la solución de la controversia, atendiendo las características particulares de los hechos delictivos y de las partes intervinientes.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 71 Bis.
+
+Son obligaciones de los Facilitadores:
+
+I. Cumplir con la certificación en los términos de la normatividad aplicable en Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+II. Conducirse con respeto a los derechos humanos;
+
+III. Actuar con prontitud, profesionalismo, eficacia y transparencia, en congruencia con los principios que rigen la justicia alternativa y las disposiciones que al efecto se establezcan;
+
+IV. Vigilar que en los Procedimientos Alternativos no se afecten derechos de terceros, intereses de menores, incapaces, disposiciones de orden público o interés social;
+
+V. Abstenerse de fungir como testigos, representantes jurídicos o abogados de los asuntos relativos a los Procedimientos Alternativos en los que participen;
+
+VI. Excusarse de intervenir en asuntos en los que se vea afectada su imparcialidad.
+
 ###### Artículo 72.
 
 Para ser facilitador, el profesional debe cumplir con los requisitos siguientes:
 
-I. Ser ciudadano sinaloense y estar en pleno ejercicio de los derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano y estar en pleno ejercicio de los derechos civiles y políticos;
 
 II. Contar con Título de Licenciatura y Cédula profesional;
 
@@ -1867,15 +1957,41 @@ Los mecanismos alternativos que procure el Agente del Ministerio Público, en cu
 
 Los recintos donde se presente el servicio público de mecanismos alternativos, deberán estar acondicionados y equipados de manera que proporcionen a los usuarios un ambiente adecuado que les permita comunicarse y dirigir sus controversias.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 75 Bis.
+
+El Centro contará con un área de seguimiento, la cual tendrá la obligación de monitorear e impulsar el cumplimiento de los acuerdos alcanzados por los Intervinientes en los Procedimientos Alternativos. El seguimiento podrá consistir en:
+
+I. Apercibimiento a los Intervinientes para el caso de incumplimiento del acuerdo, con la continuación del procedimiento penal;
+
+II. Visitas de verificación;
+
+III. Llamadas telefónicas;
+
+IV. Recepción o entrega de documentos, pagos, bienes u objetos;
+
+V. Citación de los Intervinientes y demás personas que sean necesarias;
+
+VI. Envío de correspondencia o comunicación, pudiendo usar medios electrónicos; y
+
+VII. Cualquier otra medida necesaria para el cumplimiento del Acuerdo.
+
+Este órgano deberá informar al facilitador el cumplimiento de los acuerdos alcanzados entre las partes y podrá proponer reuniones de revisión para hacer efectiva la aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
 #### Sección Sexta. Visitaduría
 
 ###### Artículo 76.
 
 La Visitaduría es el órgano interno de control de esta dependencia, encargado de supervisión, inspección, fiscalización y control de los órganos, agentes del Ministerio Público, Policía Ministerial, Peritos y demás servidores públicos de la Procuraduría General de Justicia del Estado, y será responsable de vigilar el adecuado desempeño de sus funciones, de conformidad con la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 La Visitaduría tendrá un titular nombrado por el Procurador, que deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano sinaloense en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de treinta años al momento de su designación;
 
@@ -1955,7 +2071,9 @@ La Policía Ministerial es el cuerpo policial encargado de la investigación de 
 
 La Dirección General de la Policía Ministerial del Estado estará a cargo de un Director, quien deberá cubrir los siguientes requisitos:
 
-I. Ser ciudadano sinaloense y estar en ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano y estar en ejercicio de sus derechos civiles y políticos;
 
 II. Ser mayor de treinta años;
 
@@ -2011,7 +2129,9 @@ XVII. Las demás que le confieran otras disposiciones legales y el Procurador Ge
 
 Para ser Policía Especializado de la Policía Ministerial se requiere:
 
-I. Ser ciudadano sinaloense en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de veinticinco años el día de su designación;
 
@@ -2069,7 +2189,9 @@ M) Procesar y trasladar los indicios encontrados en el lugar de los hechos o del
 
 N) Requerir a las autoridades competentes y a las personas físicas o morales, informes y documentos para fines de la investigación, en caso de negativa, informarán al Ministerio Público para que éste los requiera en los términos del Código de Procedimientos Penales;
 
-O) Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas, de acuerdo con lo previsto en el artículo 154 del Código de Procedimientos Penales;
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+O) Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas, de acuerdo con lo previsto en el artículo 217 del Código Nacional de Procedimientos Penales;
 
 P) Proporcionar atención a víctimas u ofendidos o testigos del delito, para tal efecto deberá:
 
@@ -2095,7 +2217,9 @@ III. Las demás atribuciones que le confiera la Ley, las disposiciones legales, 
 
 Para ser Agente de la Policía Ministerial se requiere:
 
-I. Ser ciudadano sinaloense en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de veintiún años el día de su designación;
 
@@ -2153,7 +2277,9 @@ XIV. Identificar y entrevistar a las personas que pudieran aportar algún dato o
 
 XV. Requerir a las autoridades competentes y a las personas físicas o morales, informes y documentos para fines de la investigación, en caso de negativa, informarán al Ministerio Público para que éste los requiera en los términos del Código de Procedimientos Penales;
 
-XVI. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas de acuerdo con lo previsto en el artículo 154 del Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XVI. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas de acuerdo con lo previsto en el artículo 127 del Código Nacional de Procedimientos Penales;
 
 XVII. Proporcionar atención a víctimas u ofendidos o testigos del delito, para tal efecto deberá:
 
@@ -2183,9 +2309,13 @@ Los niveles y jerarquías de la Policía Ministerial se regirán conforme al Man
 
 La Dirección General de Servicios Periciales estará a cargo de un Director, el cual será nombrado y removido libremente por el Procurador General de Justicia. Asimismo, se contarán con las Direcciones Regionales para llevar a cabo la función en todo el Estado.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 Para ser Director de Investigación Criminalística y Servicios Periciales se requiere:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Poseer Titulo y Cédula profesionales legalmente expedidos en las áreas afines a la investigación criminalística o los servicios periciales;
 
@@ -2235,7 +2365,9 @@ Cada Dirección Regional contará con la infraestructura necesaria para llevar a
 
 Para ser Perito se requiere;
 
-I. Ser ciudadano sinaloense en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Tener más de veintiún años el día de su designación;
 
@@ -2261,7 +2393,9 @@ IX. Someterse a los procedimientos de formación inicial que establezca la Procu
 
 Para ser Director General de Bienes Asegurados, Control y Manejo de Evidencias se requiere cubrir los siguientes requisitos:
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
 II. Tener más de treinta años el día de su designación;
 
@@ -2291,7 +2425,9 @@ VII. Realizar la clasificación definitiva de los bienes asegurados, en coordina
 
 VIII. Efectuar la intervención que legalmente corresponda en su caso, para lo concerniente al destino final de los bienes asegurados y no reclamados, en los términos que prevengan los Códigos Penal y de Procedimientos Penales para el Estado y demás disposiciones aplicables;
 
-IX. En su caso de acuerdo a las determinaciones del Ministerio Público, proveer al respecto de enajenar, donar o destruir directamente los bienes que le sean trasferidos o nombrar y remover depositarios liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de estos, de acuerdo con lo dispuesto en los Códigos Penal y de Procedimientos Penales para el Estado y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IX. En su caso de acuerdo a las determinaciones del Ministerio Público, proveer al respecto de enajenar, donar o destruir directamente los bienes que le sean transferidos o nombrar y remover depositarios liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de estos, de acuerdo con lo dispuesto en los Códigos Penal del Estado y del Código Nacional de Procedimientos Penales y demás disposiciones aplicables;
 
 X. Manejar la organización de los procedimientos administrativos de venta, enajenación, licitación pública, subasta, remate y adjudicación directa, depositado, en las cuentas bancarias que para el efecto se dispuso, previo acuerdo con el Procurador;
 
@@ -2301,7 +2437,9 @@ XII. Actuar en representación de la Institución en las controversias judiciale
 
 XIII. Fungir como enlace de la Procuraduría con la Unidad de Administración y Enajenación de Bienes Asegurados adscrita a la Secretaría de Administración y Finanzas del Gobierno del Estado y cualesquiera otras instancias competentes en materia de administración o registro de bienes asegurados y establecer los mecanismos de coordinación que correspondan;
 
-XIV. Llevar a cabo el desarrollo de las acciones y trámites legales del Ministerio Público, tendentes a hacer constar en el Registro Público de la Propiedad y Comercio que corresponda, el aseguramiento de bienes en los términos del artículo 191 del Código de Procedimientos Penales;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XIV. Llevar a cabo el desarrollo de las acciones y trámites legales del Ministerio Público, tendentes a hacer constar en el Registro Público de la Propiedad y Comercio que corresponda, el aseguramiento de bienes en los términos del artículo 233 del Código Nacional de Procedimientos Penales;
 
 XV. Autorizar la asignación a las unidades administrativas y órganos de la administración pública que determine el Procurador, de los bienes asegurados cuya utilización sea procedente de conformidad con las normas aplicables y criterios institucionales;
 
@@ -2367,7 +2505,9 @@ d. Solicitar la apertura del proceso simplificado o abreviado, según proceda; o
 
 e. Formular acusación y requerir la apertura a juicio;
 
-IV. Aplicar los Criterios de Oportunidad, en los casos que establezca el Código de Procedimientos Penales para el Estado;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IV. Aplicar los Criterios de Oportunidad, en los casos que establezca el Código Nacional de Procedimientos Penales;
 
 V. Promover la conciliación o la mediación, como Mecanismos Alternativos de Solución de Controversias;
 
@@ -2381,15 +2521,19 @@ Al resolver sobre la abstención de investigar, el archivo temporal, el no ejerc
 
 La víctima u ofendido podrá inconformarse ante el Procurador General de Justicia del Estado o el servidor público en quien se delegue esta función, en contra de las determinaciones del Ministerio Público sobre la abstención de investigar, el archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de criterios de oportunidad, dentro del término de diez días contados a partir del día siguiente a su notificación, mediante escrito en el que se planteen los argumentos por los cuales consideran improcedente la determinación del Ministerio Público, o en su caso, las diligencias que a su consideración éste omitió realizar y con las cuales se pudiera haber determinado el ejercicio de la acción penal.
 
-El Procurador General de Justicia del Estado o el servidor público en quien se delega esa función, dentro del plazo de diez días hábiles, analizará los argumentos vertidos en el escrito de inconformidad con el objeto de analizar la procedencia de las determinaciones del Ministerio Público combatidas y resolverá lo que proceda.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
-Las resoluciones del Procurador General de Justicia del Estado o del servidor público en quien se delegue la función, que confirmen las determinaciones del Ministerio Público señaladas en el artículo anterior, podrán ser impugnadas por la víctima u ofendido ante el Juez de Control dentro de los cinco días posteriores a su notificación.
+El Procurador General de Justicia del Estado o el servidor público en quien se delega esa función, dentro del plazo de treinta días hábiles, analizará los argumentos vertidos en la inconformidad con el objeto de analizar la procedencia de las determinaciones del Ministerio Público combatidas y resolverá lo que proceda.
 
-El Juez, dentro de los diez días siguientes a aquél en que se interpuso la impugnación, convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público, al imputado y a su defensor, en la que las partes expondrán los motivos y fundamentos que consideren pertinentes.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
-En caso de que la víctima u ofendido o sus asesores jurídicos no comparezcan a la audiencia, a pesar de haber sido debidamente citados, el Juez de Control declarará sin materia la impugnación y confirmará la resolución de archivo temporal, abstención de investigar, el no ejercicio de la acción penal o sobre criterios de oportunidad.
+Las resoluciones del Procurador General de Justicia del Estado o del servidor público en quien se delegue la función, que confirmen las determinaciones del Ministerio Público señaladas en el artículo anterior, podrán ser impugnadas por la víctima u ofendido ante el Juez de Control en los términos del artículo 258 del Código Nacional de Procedimientos Penales.
 
-El Juez podrá dejar sin efecto la resolución impugnada y ordenará al Ministerio Público reabrir la investigación o continuar con la persecución penal, sólo cuando considere que no se está en presencia de los supuestos que la ley establece para disponer alguna de las decisiones mencionadas en el párrafo anterior.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### Artículo 97.
 
@@ -2401,11 +2545,13 @@ El Ministerio Público está facultado para certificar documentos, datos, inform
 
 ### Capítulo Segundo. Los Criterios de Oportunidad
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 99.
 
-El Ministerio Público buscará prioritariamente la solución del conflicto penal mediante la aplicación de las formas alternas que prevé esta Ley y la Ley de Justicia Alternativa en Materia Penal para el Estado de Sinaloa.
+El Ministerio Público buscará prioritariamente la solución del conflicto penal mediante la aplicación de las formas alternas que prevé esta Ley y la normatividad aplicable en Mecanismos Alternativos de Solución de Controversias en materia penal.
 
-La aplicación de criterios de oportunidad se hará siempre con base en razones objetivas valoradas conforme a las pautas generales fijadas por el Procurador mediante acuerdo previo y estará sujeta a los controles jurisdiccionales que determine el Código de Procedimientos Penales.
+La aplicación de criterios de oportunidad se hará siempre con base en razones objetivas valoradas conforme a las pautas generales fijadas por el Procurador mediante acuerdo previo y estará sujeta a los controles jurisdiccionales que determine el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 100.
 
@@ -2427,23 +2573,25 @@ En los casos de delitos contra la propiedad o que causen un perjuicio patrimonia
 
 ### Capítulo Tercero. Aplicación de Providencias Precautorias, Medidas Cautelares, su Revisión y las Medidas de Protección
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 103.
 
-El Ministerio Público o la víctima u ofendido durante la investigación inicial podrán solicitar al Juez las providencias precautorias que se establecen en el Código de Procedimientos Penales, con la finalidad de evitar la destrucción, alteración u ocultamiento de los indicios, la intimidación, amenaza o influencia a las víctimas y testigos del hecho o para la protección de personas o bienes jurídicos.
-
-De igual forma, a solicitud fundada y motivada del Ministerio Público o la víctima u ofendido, el Juez podrá imponer una de las medidas cautelares previstas o combinar varias de ellas, según resulte adecuado al caso o imponer una diversa a la solicitada siempre que no sea más grave. La prisión preventiva no podrá combinarse con otras medidas cautelares.
-
-La imposición de medidas cautelares tendrá la finalidad de asegurar la presencia del imputado en el juicio, evitar la obstaculización en el desarrollo de la investigación del proceso, garantizar la seguridad de la víctima u ofendido, de los testigos o de la comunidad y asegurar el pago de la reparación del daño.
+El Ministerio Público o la víctima u ofendido durante la investigación inicial podrán solicitar al Juez las providencias precautorias que se establecen en el Código de Nacional Procedimientos Penales, con la finalidad de evitar la destrucción, alteración u ocultamiento de los indicios, la intimidación, amenaza o influencia a las víctimas y testigos del hecho o para la protección de personas o bienes jurídicos.
 
 El Ministerio Público dictará las órdenes necesarias para garantizar el cumplimiento de las providencias precautorias.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 104.
 
-Las providencias precautorias y las medidas cautelares contra el imputado serán impuestas mediante resolución judicial, salvo el caso de las medidas cautelares que hubiere aplicado anticipadamente el Ministerio Público durante la investigación inicial en términos de lo previsto en el artículo 221 del Código de Procedimientos Penales y serán resueltas en audiencia por el Juez de Control o en su caso, por el de Juicio Oral.
+Las providencias precautorias y las medidas cautelares contra el imputado serán impuestas mediante resolución judicial, salvo el caso de las medidas de protección que hubiere aplicado anticipadamente el Ministerio Público durante la investigación inicial en términos de lo previsto en el artículo 137 del Código Nacional de Procedimientos Penales y serán resueltas en audiencia por el Juez de Control o en su caso, por el de Juicio Oral.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### Artículo 105.
 
-El Ministerio Público podrá solicitar al Juez de Control o de Juicio Oral, la revocación, sustitución o modificación de una medida cautelar, cuando hayan variado de manera objetiva las condiciones que justificaron su imposición.
+El Ministerio Público podrá solicitar al Juez, la revocación, sustitución o modificación de una medida cautelar, cuando hayan variado de manera objetiva las condiciones que justificaron su imposición.
 
 ###### Artículo 106.
 
@@ -2719,9 +2867,11 @@ IV. En cualquier momento, posterior al inicio del procedimiento, la Visitaduría
 
 V. Concluida la audiencia según sea el caso, si el expediente no excede de cien hojas la Visitaduría dictará resolución dentro de los treinta días hábiles siguientes, sobre la existencia o no de responsabilidad administrativa, y en su caso, impondrá al servidor público responsable la sanción que corresponda. Por cada veinte hojas de exceso o fracción, se aumentarán tres días al plazo anterior. La resolución se notificará al servidor público dentro de los cinco días hábiles siguientes a su emisión.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### Artículo 126.
 
-En lo no previsto respecto a la investigación, procedimiento y sus formalidades e imposición de las sanciones a los servidores públicos que señala este capítulo, se aplicarán las disposiciones conducentes de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y el Código de Procedimientos Penales para el Estado de Sinaloa.
+En lo no previsto respecto a la investigación, procedimiento y sus formalidades e imposición de las sanciones a los servidores públicos que señala este capítulo, se aplicarán las disposiciones conducentes de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa y el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 127.
 
@@ -2820,3 +2970,41 @@ CUARTO. La reforma prevista en al artículo 21, fracción VII de la Ley Orgánic
 QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+En lo que respecta al Artículo Primero del presente Decreto por el cual se reforman diversas disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado:
+
+Las Unidades requeridas para la implementación del Sistema Acusatorio, deberán crearse en los términos del Código Nacional de Procedimientos Penales.
+
+Las atribuciones y asuntos encomendados a las dependencias y unidades administrativas por las disposiciones de la Ley que por regiones se abroga, por la presente Ley podrán ser competencia y quedar radicados para su prosecución en las dependencias y unidades de nueva creación y denominación distinta que aparecen en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa y cuyas competencias y atribuciones sean de naturaleza similar y se corresponda a la de aquéllas, por ende, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes; sin defecto de que se cumplan y observen las especificidades que en este particular precise la Ley.
+
+###### ARTÍCULO TERCERO.
+
+En lo que respecta al Artículo Primero del presente Decreto por el cual se reforman diversas disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado:
+
+Las actuales Direcciones de Averiguaciones Previas y Control de Procesos, continuarán con sus funciones dentro de las regiones en las que aún no se aplique el nuevo Sistema de Justicia Penal, debiendo de desaparecer paulatinamente, en función a como se vaya instrumentando el Sistema Acusatorio Adversarial por regiones geográficas en la Entidad y se resuelvan las averiguaciones previas y procesos penales, pendientes que hayan iniciado antes de la fecha en los ámbitos territoriales y temporales de validez que se determinan en el ingreso del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del día 18 de junio de 2016, fecha en que deberán desaparecer, quedando mientras tanto bajo la jerarquía del Subprocurador General.
+
+Una vez que desaparezcan las mencionadas Direcciones, corresponderá precisamente a la Subprocuraduría General asumir las facultades y atribuciones que actualmente corresponden a la Dirección de Averiguaciones Previas y a la Dirección de Control de Procesos, sobre las averiguaciones previas y procesos penales que queden pendientes de resolverse al día 1° de junio de 2016, hasta su conclusión y causen estado las resoluciones que pongan fin a estos.
+
+En la nueva Dirección General de Carpetas de Investigación se deben crear las Unidades de Carpetas de Investigación y de Justicia para Adolescentes para efectos de llevar a cabo las funciones propias del Sistema Acusatorio con las reglas previstas en el nuevo Código de Procedimientos Penales. Estas Unidades de nueva creación entrarán en funcionamiento por regiones, de manera paulatina conforme se vaya implementando el nuevo Sistema de Justicia Penal y el personal debe ser seleccionado de entre el más capacitado con el que cuente actualmente la Procuraduría en el Régimen de Audiencias, siempre que se cumplan con los requisitos legales y técnicos que se necesitan para instrumentar dicho reto.
+
+Se crea la Unidad de Litigación en sustitución de la Dirección de Control de Procesos, la cual quedará bajo mando y conducción de la Subprocuraduría General respecto a los asuntos del nuevo Sistema de Justicia Penal.
+
+Dentro de la estructura de la Dirección General de Litigación se crean también las Unidades de Litigación Oral, y de Ejecución de Sanciones y Medidas de Seguridad. Estas Unidades y la Dirección General conocerán únicamente de los asuntos del Sistema Acusatorio y se irán creando las plazas o espacios de operatividad conforme vaya entrando el nuevo Sistema en la Entidad Federativa.
+
+Se actualiza la Dirección General Jurídico Consultiva, y se le dota de tres Unidades que son la de Medios de Impugnación, la de Normatividad y la Unidad de Acceso a la Información Pública, a efecto de que puedan auxiliar a las funciones de la Procuraduría en los medios de defensa, en la contestación de informes previos o justificados y en la elaboración de los Acuerdos y Manuales de Funcionamiento de los Operadores del Nuevo Sistema de Justicia Penal, así como en el Acceso a la Información Pública por parte de la Procuraduría General de Justicia. Esta Dirección junto con las Unidades quedará bajo el mando del Subprocurador General de manera paulatina conforme vaya teniendo vigencia el Sistema Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal realizará las previsiones administrativas y presupuestarias necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
