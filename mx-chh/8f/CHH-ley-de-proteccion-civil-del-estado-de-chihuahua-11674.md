@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2012-05-23"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -65,7 +65,7 @@ La presente Ley establece las bases del Sistema Estatal de Protección Civil com
 
 Son autoridades en materia de Protección Civil:
 
-l. El Gobernador del Estado;
+I. El Gobernador del Estado;
 
 II. El Fiscal General del Estado;
 
@@ -459,13 +459,11 @@ IV.- Un Jefe de la Oficina Administrativa; y
 
 V.- El personal que se le asigne para su adecuado funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### Artículo 20.
 
-Compete a la Coordinación Estatal de Protección Civil:
+Compete a la Coordinación de Protección Civil:
 
 I.- Por conducto de su Titular, desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
@@ -533,9 +531,17 @@ XX.- Emprender las acciones necesarias en coordinación con los Municipios para 
 
 XXI.- Promover la realización de cursos, ejercicios y simulacros que permitan mejorar la capacidad de respuesta de los participantes en los Sistemas Estatal, Distrital y Municipal;
 
-XXII.- Fomentar la creación de una cultura de Protección Civil a través de la realización de eventos y campañas de difusión; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-XXIII.- Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
+XXII.- Fomentar la creación de una cultura de Protección Civil a través de la realización de eventos y campañas de difusión;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XXIII.- Establecer y difundir de manera permanente el Sistema Estatal de Inspección Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XXIV.- Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -907,6 +913,24 @@ VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona co
 
 VIII.- Podrán ordenarse inspecciones generales por establecimientos, giros, zonas, poblaciones o municipios.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 51 Bis.
+
+Todo ciudadano está facultado para realizar inspecciones ciudadanas en cualquier establecimiento del que sea usuario, en el que, por su propia naturaleza o por el uso al que se han destinado, reciban una afluencia masiva de personas, bajo las siguientes bases:
+
+a) Para hacer efectiva la facultad ciudadana, las Unidades Estatales y Municipales de Protección Civil, estarán obligadas a contar en su portal de Internet de transparencia, con un apartado en el que se describan los puntos básicos de seguridad que los referidos establecimientos deban tener, así como una breve explicación de la manera en que debe verificarse su funcionamiento y eficacia, así como formatos ciudadanos de registro de las observaciones y los mecanismos para comunicarlas a la autoridad, todo lo cual constituye el Sistema Estatal de Inspección Ciudadana.
+
+b) Las inspecciones ciudadanas no deben interferir con las actividades del establecimiento y sólo se podrán hacer durante el uso normal que los ciudadanos hagan del servicio respectivo y mediante observaciones efectuadas a simple vista, de acuerdo con las indicaciones del manual de inspección ciudadana, que expida la Coordinación de Protección Civil.
+
+c) La información y formatos necesarios para realizar y comunicar a las Unidades Estatales o Municipales de Protección Civil, será considerada información pública de oficio y deberá estar disponible en el portal de Internet, en términos de los artículos 20, fracción VIII; 21 y demás relativos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
+
+d) Las observaciones efectuadas con motivo de inspecciones ciudadanas deberán registrarse bajo un número consecutivo y deberán enviar acuse de recibo electrónico al ciudadano que las haya enviado.
+
+e) La Unidad de Protección Civil que haya recibido las observaciones deberá, de inmediato, emitir una recomendación al establecimiento respectivo y comunicársela personalmente en un plazo que no deba exceder de cinco días contados a partir de la fecha en que la haya recibido.
+
+f) Dentro de los quince días siguientes, la Unidad de Protección Civil respectiva, deberá verificar las observaciones mediante una inspección que realice en términos del artículo anterior y proceder a establecer, en su caso, las medidas de seguridad que procedan o imponer las sanciones respectivas.
+
 ###### Artículo 52.
 
 En el supuesto de que el visitado en razón de su actividad comercial sea regulado por Leyes y Autoridades Federales, las Autoridades de Protección Civil deberán hacer del conocimiento de la autoridad competente las violaciones que considere en que ha incurrido el visitado, para que esta autoridad aplique las providencias o sanciones que estime necesarias sin perjuicio de las facultades de las autoridades en materia de Protección Civil.
@@ -991,9 +1015,21 @@ II.- Ejecutar, ordenar o favorecer las acciones u omisiones que impidan u obstac
 
 III.- No dar cumplimiento a los requerimientos de la autoridad competente, relativos a proporcionar la información y documentación necesaria para cumplir adecuadamente con las facultades que le confiere esta Ley y su Reglamento;
 
-IV.- No dar cumplimiento a las resoluciones de la autoridad competente que imponga cualquier medida de seguridad, en los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-V.- En general, llevar a cabo cualquier acto u omisión que contravenga las disposiciones de esta Ley o su Reglamento o que por cualquier motivo causen o puedan causar algún riesgo o daño a la salud pública o la seguridad de la población.
+IV.- No contar con un sistema de inspección ciudadana en el portal de Internet de la Unidad de Protección Civil de que se trate, ni contar con los manuales y formatos respectivos para practicarla y comunicarla por esa misma vía.
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+V.- No dar curso a las inspecciones ciudadanas en los términos y plazos previstos en el artículo 51 bis.
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+VI.- No dar cumplimiento a las resoluciones de la autoridad competente que imponga cualquier medida de seguridad, en los términos de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+VII.- En general, llevar a cabo cualquier acto u omisión que contravenga las disposiciones de esta Ley o su Reglamento o que por cualquier motivo causen o puedan causar algún riesgo o daño a la salud pública o la seguridad de la población.
 
 ## TITULO QUINTO. SANCIONES
 
@@ -1206,3 +1242,7 @@ P.O. 23 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
