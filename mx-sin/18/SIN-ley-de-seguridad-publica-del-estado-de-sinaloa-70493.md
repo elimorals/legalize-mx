@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2014-05-30"
+last_updated: "2014-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 159, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, LAS REFORMAS Y ADICIONES EN ÉL CONTENIDAS ENTRAN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -75,9 +77,13 @@ V. Coordinación General: La Coordinación General del Consejo Estatal de Seguri
 
 VI. Instituciones de Procuración de Justicia: Al Ministerio Público, los servicios periciales y demás auxiliares de aquel;
 
-VII. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, el Sistema Penitenciario y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-VIII. Instituciones Policiales: A los cuerpos de policía estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios y de justicia para adolescentes, de detención preventiva, de tribunales de barandilla; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+VII. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, el Sistema Penitenciario, de seguimiento, y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal;
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+VIII. Instituciones Policiales: A los cuerpos de policía estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios y de justicia para adolescentes, de detención preventiva, la policía procesal, de tribunales de barandilla; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
 IX. Instituto: El Instituto Estatal de Ciencias Penales y Seguridad Pública;
 
@@ -105,21 +111,25 @@ I. La prevención de los delitos, de las infracciones administrativas y de las c
 
 II. La investigación y persecución de los delitos;
 
-III. La sanción de las infracciones administrativas;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-IV. La ejecución de las sanciones y medidas de seguridad penales, la reinserción del sentenciado y reintegración social y familiar del adolescente;
+III. El seguimiento del cumplimiento de las medidas cautelares, de la suspensión condicional del proceso, así como la evaluación de riesgo;
 
-V. La administración y operación de los Centros de Ejecución de las Consecuencias Jurídicas del Delito;
+IV. La sanción de las infracciones administrativas;
 
-VI. La atención, protección y asistencia a las víctimas y ofendidos del delito;
+V. La ejecución de las sanciones y medidas de seguridad penales, la reinserción del sentenciado y reintegración social y familiar del adolescente;
 
-VII. El establecimiento de bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+VI. La administración y operación de los Centros de Ejecución de las Consecuencias Jurídicas del Delito;
 
-VIII. La participación de la sociedad y su coadyuvancia entre otros, en los procesos de evaluación de las políticas de prevención del delito y de las instituciones de seguridad pública;
+VII. La atención, protección y asistencia a las víctimas y ofendidos del delito;
 
-IX. El auxilio a la población en casos de siniestros o desastres naturales; y,
+VIII. El establecimiento de bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
 
-X. Las demás actividades resultantes de la normatividad aplicable.
+IX. La participación de la sociedad y su coadyuvancia entre otros, en los procesos de evaluación de las políticas de prevención del delito y de las instituciones de seguridad pública;
+
+X. El auxilio a la población en casos de siniestros o desastres naturales; y,
+
+XI. Las demás actividades resultantes de la normatividad aplicable.
 
 ###### Artículo 5.
 
@@ -285,6 +295,40 @@ Las instituciones de seguridad pública encargadas de la custodia de los interno
 
 La Policía Estatal Preventiva ejercerá funciones de vigilancia y protección de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial, de internos, visitantes, personal administrativo, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 20 Bis.
+
+Son funciones de la policía procesal:
+
+I. Realizar la búsqueda y localización del imputado a solicitud de la autoridad de seguimiento;
+
+II. Presentar al imputado ante el juez en los supuestos en los que la ley lo autoriza, a solicitud de la autoridad de seguimiento o del Ministerio Público;
+
+III. Solicitar y en su caso proporcionar el auxilio a las instituciones policiales correspondientes;
+
+IV. Auxiliar a la autoridad de seguimiento en la ejecución de las medidas cautelares que consistan en la vigilancia del imputado cuando aquélla lo solicite;
+
+V. En los casos en que el imputado incumpla con la medida cautelar impuesta y exista un requerimiento de la autoridad de seguimiento, realizar las acciones conducentes a su localización;
+
+VI. Coordinar con las autoridades federales, estatales o municipales, las tareas de búsqueda y localización de los imputados cuando hayan incumplido la medida cautelar y exista un requerimiento de la autoridad de seguimiento;
+
+VII. Realizar los traslados de los imputados sujetos a prisión preventiva a los juzgados;
+
+VIII. Resguardar la seguridad de las salas de audiencias;
+
+IX. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+
+X. Mantener el orden, disciplina y buen comportamiento de los internos procesados en el exterior de los centros o establecimientos, respetando sus derechos;
+
+XI. Custodiar el orden y tranquilidad en el perímetro exterior de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de los internos, visitas y personal de los mismos;
+
+XII. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales, en coordinación con las demás autoridades competentes;
+
+XIII. Cumplir los mandamientos judiciales relacionados con los sentenciados preliberados y aquellos sujetos a vigilancia postpenitenciaria, en coordinación con las demás autoridades competentes; y
+
+XIV. Los demás que establezcan las disposiciones legales aplicables.
+
 ###### Artículo 21.
 
 Las Policías Preventivas Municipales tendrán las siguientes atribuciones:
@@ -435,7 +479,7 @@ VII. No haber sido inhabilitado ni destituido por resolución firme como servido
 
 VIII. Acreditar la prestación del Servicio Militar Nacional, en el caso de personas del sexo masculino;
 
-IX. Contar con el registro y certificación que emita el Centro Estatal; y, (sic)
+IX. Contar con el registro y certificación que emita el Centro Estatal; y,
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
@@ -1611,6 +1655,12 @@ Dentro del Sistema Único de Información Criminal, se incluirá igualmente la b
 
 La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales, y demás información necesaria que sea solicitada por el Secretariado Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 104 Bis.
+
+Se creará una base de datos de las personas preliberadas o que hayan gozado de un sustitutivo penal, con el propósito de garantizar el seguimiento y el cumplimento de las figuras impuestas, así como tomar decisiones en caso de que se presente un proceso penal diverso.
+
 #### Sección Tercera. Del Registro de Información de Justicia para Adolescentes
 
 ###### Artículo 105.
@@ -1633,9 +1683,43 @@ VII. Cualquier otro hecho, circunstancia o característica particular de la pers
 
 Esta información tendrá en todo momento carácter confidencial, preservando los derechos y protección de la integridad del adolescente.
 
-#### Sección Primera. Del Régimen Laboral
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE JULIO DE 2014)</small>
 
-#### Sección Segunda. De las Obligaciones
+#### Sección Cuarta. Del Registro Estatal de Víctimas
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 105 Bis.
+
+La Comisión Estatal de Atención a Víctimas estará a cargo del Registro Estatal de Víctimas, todas las áreas de gobierno deben coadyuvar dentro del ámbito de su competencia, en el comparto de información que deben otorgar para lograr la máxima protección de las personas.
+
+La Ley de Atención y Protección a Víctimas del Estado regulará el trámite y procedimiento para llevar a cabo el registro de las víctimas así como las acciones que deban seguirse para salvaguardar sus derechos, tal como lo exigen los Artículos 20 de la Constitución Política de los Estados Unidos Mexicanos y 109 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE JULIO DE 2014)</small>
+
+#### Sección Quinta. Del Registro del Seguimiento de las Medidas Cautelares, Suspensión Condicional del Proceso y de las Medidas de Protección
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 105 Bis A.- Al interior de la Unidad (sic) Medidas Cautelares se integrará un registro de todas aquellas soluciones y mecanismos de descongestión adoptados a efecto de llevar un control de los asuntos de su competencia.
+
+También deberán registrarse todas las actividades y condiciones que se le impongan a los imputados con el propósito de tener un control de las evaluaciones de riesgo, que permitan adoptar las medidas necesarias para garantizar la efectividad de las decisiones judiciales que se impongan.
+
+En este Registro se deben anotar:
+
+I. Los criterios de oportunidad que se le haya dado al imputado;
+
+II. Los asuntos que han sido solucionados por mecanismos alternativos, a efecto de dar seguimiento a los convenios o acuerdos;
+
+III. La suspensión condicional del proceso, para verificar la forma de su cumplimiento y evitar que se pueda otorgar esta figura antes de los plazos marcados por el Código Nacional de Procedimientos Penales;
+
+IV. El Procedimiento Abreviado;
+
+V. Las acciones penales por particulares;
+
+VI. La aplicación de medidas de protección, excepto en aquellos casos de violencia contra las mujeres, que serán registrados en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres; y
+
+VII. La aplicación y seguimiento de las medidas cautelares y los servicios previos a juicio.
 
 ### Capítulo IV. Del Registro Estatal de Personal de Seguridad Pública
 
@@ -2467,17 +2551,159 @@ Le corresponde a la Secretaría supervisar el funcionamiento de los Grupos Opera
 
 La Secretaría llevará un riguroso control y supervisión del personal que conforman los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción a que se refiere este Capítulo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+
+### Capítulo V Bis. Instancias de Seguridad Pública y Procuración de Justicia en el Sistema Acusatorio
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+
+#### Sección Primera. De la Policía Procesal y Penitenciaria
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+###### Artículo 191 Bis.
+
+Deberes de la policía procesal:
+
+Son deberes de la policía procesal:
+
+I. Proteger la integridad física del imputado;
+
+II. Proteger la integridad física de las víctimas y testigos;
+
+III. Auxiliar a las autoridades de seguimiento, en el cumplimiento (sic) sus funciones;
+
+IV. Realizar los informes que le solicite la autoridad de seguimiento, sobre las incidencias en el cumplimiento o incumplimiento de sus funciones;
+
+V. Mantener la secrecía de la información recabada;
+
+VI. Generar la información que permita la ubicación de la persona cuando se impongan las medidas cautelares de prohibición de salir del país, de la localidad o ámbito territorial que fije el juez, así como los cambios de domicilio, incumplimientos, conclusión o modificación de la medida, para su sistematización;
+
+VII. En caso de incumplimiento de la medida cautelar, la autoridad de seguimiento dará aviso oportuno a otras policías y al Ministerio Público para los efectos de sus competencias respectivas;
+
+VIII. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+
+IX. Utilizar protocolos de actuación en el desempeño de sus funciones;
+
+X. Cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones;
+
+XI. No permitir que personas ajenas a la autoridad de seguimiento realicen actos inherentes a sus funciones;
+
+XII. Ejecutar los mandamientos de las Autoridades Competentes señaladas en la presente Ley;
+
+XIII. Dejar constancia de sus actuaciones, así como llevar un control y seguimiento de las mismas; y
+
+XIV. Los demás que establezcan las disposiciones legales aplicables.
+
+La policía procesal también tendrá las obligaciones previstas en los artículos 40 fracciones I, II, IV, V, VI, VII, VIII, IX, XV, XVI, XVII, XVIII, XX, XXIII, XXIV, XXVI y XXVII y 41 fracciones IV, V, VI, VII, VIII, IX y X de la Ley General del Sistema Nacional de Seguridad Publica.
+
+Si con motivo de la realización de sus atribuciones la policía procesal presencia, la comisión de un delito o de sus consecuencias, estará obligada a preservar los indicios o datos de prueba derivados del mismo, y llamará a las autoridades competentes para que se hagan cargo de la investigación.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis A.- La Policía Penitenciaria brindará seguridad y custodia para:
+
+I. Mantener la vigilancia, orden y tranquilidad de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, y las demás instalaciones que determinen las disposiciones aplicables;
+
+II. Salvaguardar la vida, la integridad, la seguridad y los derechos de los internos, visitantes y personal adscrito a los Centros de Ejecución de las Consecuencias Jurídicas del Delito, y las demás instalaciones que determinen las disposiciones aplicables, así como hacer cumplir su normatividad;
+
+III. Dar cumplimiento a lo dispuesto en las resoluciones judiciales respecto a la pena privativa de libertad en los rubros de seguridad y custodia, ya sea en los Centros o Establecimientos Penitenciarios, fuera de estos y de los recintos judiciales, en coordinación con las demás autoridades competentes; y
+
+IV. Las demás que otros ordenamientos legales o la normatividad les confieran.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis B.- La Institución Policial tendrá las funciones siguientes:
+
+I. Mantener recluidos y en custodia a los internos por disposición de la autoridad competente;
+
+II. Implementar las políticas, los programas y las estrategias establecidas en materia de seguridad y custodia penitenciaria, que para tal efecto diseñe la Autoridad Administrativa Penitenciaria;
+
+III. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás disposiciones aplicables;
+
+IV. Mantener el orden, disciplina y buen comportamiento de los internos, respetando sus derechos;
+
+V. Custodiar el orden y tranquilidad en el interior de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de los internos, visitas y personal de los mismos;
+
+VI. Revisar a las personas, objetos o vehículos que pretendan ingresar o salir de los Centros o Establecimientos Penitenciarios, bajo los protocolos de actuación respectivos;
+
+VII. Salvaguardar la integridad de las personas y bienes en los Centros o Establecimientos Penitenciarios, así como garantizar, mantener y restablecer el orden y la paz en los mismos, utilizando para ello los Protocolos y con respeto a los Derechos Humanos de los internos, con apoyo en las herramientas, mecanismos y equipo necesarios y disponibles para el cumplimiento de sus atribuciones;
+
+VIII. Efectuar revisiones periódicas en los Centros de Consecuencias Jurídicas del Delito, con el objeto de prevenir la comisión de delitos a solicitud de la Autoridad Administrativa Penitenciaria previo diagnóstico y análisis de riesgo, y con acatamiento de los Protocolos y normatividad correspondientes; y
+
+IX. Las demás que le confieran ésta y otras leyes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+
+#### Sección Segunda. Unidad de Medidas Cautelares
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis C.- La Unidad de Medidas Cautelares es un órgano de la Secretaría de Seguridad Pública del Estado que tendrá las siguientes funciones:
+
+I. Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la detención;
+
+II. Proporcionar información necesaria al Ministerio Público y la Defensa sugiriendo la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
+
+III. Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
+
+IV. Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica;
+
+V. Vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba;
+
+VI. Dirigir y ordenar la prevención social de la delincuencia en el Estado en cuanto hace a la eficacia de las medidas, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+
+VII. Elaborar los proyectos y proponer al titular del Poder Ejecutivo, por conducto del Secretario de Gobierno, las disposiciones normativas en materia cautelar, vigilar el cumplimiento de la Ley, su Reglamento y demás lineamientos, con estricto apego al principio de no discriminación por género o de cualquier tipo y vigilar su exacta aplicación;
+
+VIII. Instituir tratamientos adecuados a las personas reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de estereotipos de género;
+
+IX. Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
+
+X. Las demás que otras leyes y reglamentos establezcan.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis D.- La Unidad de Medidas Cautelares informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida.
+
+La información al respecto deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis E. Cuando el Juez de Control dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, la Unidad de Asistencia de Preliberados tendrá a su cargo la vigilancia de la ejecución de las penas o medidas de seguridad impuestas en la resolución.
+
+Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado, el propio Juez de Control remitirá su resolución a la Unidad de Medidas Cautelares, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+
+#### Sección Tercera. Unidad de Asistencia de Preliberados
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis F.- La Unidad de Asistencia de Preliberados es un organismo de la Subsecretaría de Seguridad Pública, Prevención y Readaptación Social que tendrá la función de seguimiento, control y vigilancia de las actividades preliberacionales y postpenitenciarias de los sentenciados, con el propósito de garantizar que se lleven a cabo todas las medidas preventivas, disciplinarias o restrictivas que haya ordenado el Juez y que deban ejecutarse fuera de la prisión.
+
+Para su ingreso y permanencia les serán aplicables las disposiciones de los miembros de las corporaciones de seguridad pública, así como las disposiciones reglamentarias correspondientes.
+
+Los responsables del seguimiento a la ejecución de medidas cautelares y obligaciones procesales se coordinarán con los supervisores de libertad anticipada para cumplir con sus objetivos marcados en esta Ley y en otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Artículo 191 Bis G.- Para el debido cumplimiento de la reinserción social de los preliberados la Unidad de Asistencia de Preliberados tendrán las siguientes funciones:
+
+I. Dar seguimiento a la ejecución de las sanciones penales, medidas disciplinarias, de seguridad y restrictivas impuestas por la autoridad jurisdiccional fuera de los Centros de Ejecución de las Consecuencias Jurídicas del Delito;
+
+II. Realizar reportes e informes de la evolución de las medidas de seguridad y las condiciones impuestas a los sentenciados;
+
+III. Realizar los informes relativos al cumplimiento de las condiciones impuestas por la Autoridad Jurisdiccional y derivados de la asistencia postpenitenciaria a fin de determinar el avance o retroceso del sentenciado en su Programa de Reinserción Social;
+
+IV. Informar al Juez y a la Autoridad Penitenciaria la conducta del sentenciado que goce de un beneficio de libertad anticipada o de un sustitutivo de la pena de prisión;
+
+V. Proponer estrategias de cumplimiento de medidas y condiciones para los sentenciados ante el Juez y la Autoridad Penitenciaria; y
+
+VI. Las que determinen las Unidades de seguimiento a las medidas cautelares y obligaciones procesales, el Juez, la Autoridad Penitenciaria así como los reglamentos y manuales de la materia.
+
 ### Capítulo VI. Del Personal de la Policía Preventiva
 
-#### Sección Tercera. De los Derechos
-
-#### Sección Cuarta. De los Ascensos
-
-#### Sección Quinta. De las Condecoraciones, Estímulos y Recompensas
-
-### Capítulo I. De las Disposiciones Generales
-
-#### Sección Sexta. De la Permanencia y del Servicio de Carrera Policial
+#### Sección Primera. Del Régimen Laboral
 
 ###### Artículo 192.
 
@@ -2495,7 +2721,7 @@ Las autoridades de las Instituciones policiales garantizarán para los integrant
 
 Adicionalmente a las prestaciones que señale la Ley aplicable, el Ejecutivo del Estado, previo el cumplimiento de los requisitos que señale el Reglamento de esta Ley, podrá otorgar una compensación adicional a los integrantes de las instituciones de seguridad pública del Estado, que resulten lesionados o incapacitados para continuar prestando sus funciones habituales; en cuyo caso, de ser posible, se les destinará a realizar labores administrativas. De igual manera, en los términos que indique el Reglamento de esta Ley, cuando ocurra un deceso o incapacidad total permanente como causa directa del cumplimiento del deber, se podrá otorgar una casa de interés social a sus dependientes económicos, en caso de que no tengan una en propiedad, así como una compensación que cubra los gastos funerarios y becas para la educación de los hijos menores de edad. Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación que regule las prestaciones señaladas en esta Sección a favor de los elementos policiales a su cargo homologándolas en cuanto sea posible y conforme a sus disponibilidades presupuestales y observando lo dispuesto al respecto por la Ley General del Sistema Nacional de Seguridad Pública.
 
-#### Sección Séptima. De la Terminación del Nombramiento
+#### Sección Segunda. De las Obligaciones
 
 ###### Artículo 196.
 
@@ -2567,6 +2793,8 @@ XXXI. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
 En el caso de las fracciones XIII y XIV del artículo anterior, le corresponde a la Secretaría y en su caso, a las autoridades municipales, establecer los mecanismos de comunicación necesarios para que los integrantes de las instituciones policiales preventivas del Estado y los Municipios cumplan con dichos deberes, cerciorándose que se les provea periódicamente de la información estadística respectiva y de aquellos indicadores, cifras o datos que sean pertinentes en el cumplimiento de las metas u objetivos trazados institucionalmente, propiciando la celebración de reuniones para su análisis y discusión.
 
+#### Sección Tercera. De los Derechos
+
 ###### Artículo 198.
 
 Son derechos de los integrantes de las instituciones policiales preventivas del Estado y de los Municipios las siguientes:
@@ -2590,6 +2818,8 @@ VIII. Obtener beneficios sociales, culturales, deportivos, recreativos y de cual
 IX. Recibir los apoyos necesarios para contar con una adecuada preparación académica y de facilidades para proseguir con sus estudios desde el nivel básico hasta el de carácter profesional; y,
 
 X. Los demás que les confieran las Leyes y reglamentos de la materia.
+
+#### Sección Cuarta. De los Ascensos
 
 ###### Artículo 199.
 
@@ -2659,6 +2889,8 @@ II. El de las comisiones fuera del servicio de la Policía; y,
 
 III. El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
 
+#### Sección Quinta. De las Condecoraciones, Estímulos y Recompensas
+
 ###### Artículo 206.
 
 El régimen de condecoraciones, estímulos y recompensas es el mecanismo por el cual las Instituciones Policiales otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de los integrantes, así como fortalecer su identidad institucional.
@@ -2668,6 +2900,8 @@ Todo estímulo otorgado por las instituciones será acompañado de una constanci
 ###### Artículo 207.
 
 El régimen referido en el artículo anterior, se establecerá bajo los supuestos y requisitos que señalen las Reglamentaciones correspondientes y para constancia quedarán inscritas en el Registro Estatal del Personal de Seguridad Pública a que se refiere esta Ley.
+
+#### Sección Sexta. De la Permanencia y del Servicio de Carrera Policial
 
 ###### Artículo 208.
 
@@ -2680,6 +2914,8 @@ El servicio de carrera policial es el mecanismo institucional para garantizar la
 ###### Artículo 210.
 
 La carrera policial se establece con carácter obligatorio y permanente para los integrantes de las instituciones policiales del Estado y de los Municipios, en virtud de que es el elemento básico para su formación.
+
+#### Sección Séptima. De la Terminación del Nombramiento
 
 ###### Artículo 211.
 
@@ -2725,7 +2961,7 @@ Para efectos de lo dispuesto en el presente artículo, se tendrá por supletoria
 
 ## TÍTULO OCTAVO. DEL SISTEMA DE SANCIONES
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De las Disposiciones Generales
 
 ###### Artículo 213.
 
@@ -2755,7 +2991,7 @@ Se constituirán las respectivas comisiones del servicio profesional de carrera 
 
 En la Institución de Procuración de Justicia se integrarán instancias equivalentes, en las que intervengan representantes de los policías ministeriales.
 
-### Capítulo III. De la Aplicación del Régimen Disciplinario
+### Capítulo II. De las Sanciones
 
 ###### Artículo 217.
 
@@ -2791,7 +3027,7 @@ Las correcciones disciplinarias de apercibimiento, arresto y los cambios de adsc
 
 Cualquier controversia que se relacione con el funcionamiento de las instituciones de seguridad pública del Estado y de los Municipios deberá ser atendida y resuelta por las unidades administrativas de control y asuntos internos.
 
-### Capítulo IV. De las Comisiones de Honor y Justicia
+### Capítulo III. De la Aplicación del Régimen Disciplinario
 
 ###### Artículo 220.
 
@@ -2991,9 +3227,7 @@ III. Si existe resistencia al mandamiento legítimo de autoridad, se estará a l
 
 Si la resolución impone sanciones administrativas el elemento policial sancionado podrá interponer juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, de conformidad a lo establecido en la Ley de Justicia Administrativa para el Estado de Sinaloa.
 
-### Capítulo I. De las Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+### Capítulo IV. De las Comisiones de Honor y Justicia
 
 ###### Artículo 235.
 
@@ -3015,7 +3249,9 @@ IV. Las demás que le asigne esta Ley y demás disposiciones relativas.
 
 ## TÍTULO NOVENO. DEL SISTEMA DE FORMACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL DE SEGURIDAD PÚBLICA
 
-### Capítulo II. De la Formación del Personal para la Seguridad Pública
+### Capítulo I. De las Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 237.
 
@@ -3041,7 +3277,7 @@ Para el cumplimiento de lo que dispone este título, se podrá autorizar la crea
 
 Los Municipios podrán desarrollar programas de actualización y capacitación para sus policías preventivos, cumpliendo previamente los requisitos de acreditación y validación por parte del Instituto Estatal de Ciencias Penales y Seguridad Pública, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional. Asimismo, las autoridades municipales podrán participar conjuntamente con el Instituto en los procesos de reclutamiento y selección de quienes aspiren a ingresar a su policía preventiva, con apego a los lineamientos que la institución policial establezca, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente el Instituto Estatal de Ciencias Penales y Seguridad Pública quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
 
-### Capítulo III. Del Perfil de Ingreso a la Formación Inicial Policial
+### Capítulo II. De la Formación del Personal para la Seguridad Pública
 
 ###### Artículo 239.
 
@@ -3151,7 +3387,7 @@ IX. Las demás que establezcan otras disposiciones legales.
 
 El Instituto contará con el presupuesto que le otorgue la Ley de Ingresos y Presupuesto de Egresos del Estado; en los términos de las disposiciones aplicables, podrá recibir aportaciones para su mejor funcionamiento mediante acuerdos, convenios o cualquier otro instrumento legal, con dependencias y entidades del Gobierno Federal, de otras entidades federativas, del estado o municipios; así como de personas o instituciones privadas, sociales o académicas.
 
-### Capítulo Único. De las Disposiciones Generales
+### Capítulo III. Del Perfil de Ingreso a la Formación Inicial Policial
 
 ###### Artículo 244.
 
@@ -3199,7 +3435,7 @@ Tratándose del personal de seguridad privada se estará a lo dispuesto en este 
 
 ## TÍTULO DÉCIMO. DEL SERVICIO DE CARRERA EN LA INSTITUCIÓN DE PROCURACIÓN DE JUSTICIA
 
-### Capítulo I. De las Disposiciones Generales
+### Capítulo Único. De las Disposiciones Generales
 
 ###### Artículo 247.
 
@@ -3213,7 +3449,7 @@ Ninguna persona podrá ingresar o permanecer en la Institución de Procuración 
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
+### Capítulo I. De las Disposiciones Generales
 
 ###### Artículo 249.
 
@@ -3225,7 +3461,7 @@ Serán consideradas violaciones graves a la Constitución y a las leyes que de e
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos estatales o municipales por el manejo o aplicación indebidos de los recursos de los Fondos para la Seguridad Pública, serán determinadas y sancionadas conforme a las disposiciones legales aplicables y por las autoridades competentes.
 
-### Capítulo Único. De las Disposiciones Generales
+### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
 
 ###### Artículo 251.
 
@@ -3282,6 +3518,8 @@ Los particulares que previa autorización legal presten servicios privados de se
 A quien, sin contar con la autorización legal correspondiente, fabrique, distribuya, comercialice, adquiera o use equipo exclusivo, logotipos, uniformes, insignias, divisas o cualquier identificación propia de las instituciones de seguridad pública estatales y municipales, se le impondrá pena de prisión de dos a cinco años y multa de doscientos a quinientos salarios mínimos.
 
 ## TÍTULO DÉCIMO TERCERO. PREVENCIONES GENERALES
+
+### Capítulo Único. De las Disposiciones Generales
 
 ###### Artículo 260.
 
@@ -3402,3 +3640,41 @@ CUARTO. La reforma prevista en al (sic) artículo 21, fracción VII de la Ley Or
 QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 30 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+En lo que respecta al Artículo Primero del presente Decreto por el cual se reforman diversas disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado:
+
+Las Unidades requeridas para la implementación del Sistema Acusatorio, deberán crearse en los términos del Código Nacional de Procedimientos Penales.
+
+Las atribuciones y asuntos encomendados a las dependencias y unidades administrativas por las disposiciones de la Ley que por regiones se abroga, por la presente Ley podrán ser competencia y quedar radicados para su prosecución en las dependencias y unidades de nueva creación y denominación distinta que aparecen en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa y cuyas competencias y atribuciones sean de naturaleza similar y se corresponda a la de aquéllas, por ende, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes; sin defecto de que se cumplan y observen las especificidades que en este particular precise la Ley.
+
+###### ARTÍCULO TERCERO.
+
+En lo que respecta al Artículo Primero del presente Decreto por el cual se reforman diversas disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado:
+
+Las actuales Direcciones de Averiguaciones Previas y Control de Procesos, continuarán con sus funciones dentro de las regiones en las que aún no se aplique el nuevo Sistema de Justicia Penal, debiendo de desaparecer paulatinamente, en función a como se vaya instrumentando el Sistema Acusatorio Adversarial por regiones geográficas en la Entidad y se resuelvan las averiguaciones previas y procesos penales, pendientes que hayan iniciado antes de la fecha en los ámbitos territoriales y temporales de validez que se determinan en el ingreso del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, sin que pueda exceder del día 18 de junio de 2016, fecha en que deberán desaparecer, quedando mientras tanto bajo la jerarquía del Subprocurador General.
+
+Una vez que desaparezcan las mencionadas Direcciones, corresponderá precisamente a la Subprocuraduría General asumir las facultades y atribuciones que actualmente corresponden a la Dirección de Averiguaciones Previas y a la Dirección de Control de Procesos, sobre las averiguaciones previas y procesos penales que queden pendientes de resolverse al día 1° de junio de 2016, hasta su conclusión y causen estado las resoluciones que pongan fin a estos.
+
+En la nueva Dirección General de Carpetas de Investigación se deben crear las Unidades de Carpetas de Investigación y de Justicia para Adolescentes para efectos de llevar a cabo las funciones propias del Sistema Acusatorio con las reglas previstas en el nuevo Código de Procedimientos Penales. Estas Unidades de nueva creación entrarán en funcionamiento por regiones, de manera paulatina conforme se vaya implementando el nuevo Sistema de Justicia Penal y el personal debe ser seleccionado de entre el más capacitado con el que cuente actualmente la Procuraduría en el Régimen de Audiencias, siempre que se cumplan con los requisitos legales y técnicos que se necesitan para instrumentar dicho reto.
+
+Se crea la Unidad de Litigación en sustitución de la Dirección de Control de Procesos, la cual quedará bajo mando y conducción de la Subprocuraduría General respecto a los asuntos del nuevo Sistema de Justicia Penal.
+
+Dentro de la estructura de la Dirección General de Litigación se crean también las Unidades de Litigación Oral, y de Ejecución de Sanciones y Medidas de Seguridad. Estas Unidades y la Dirección General conocerán únicamente de los asuntos del Sistema Acusatorio y se irán creando las plazas o espacios de operatividad conforme vaya entrando el nuevo Sistema en la Entidad Federativa.
+
+Se actualiza la Dirección General Jurídico Consultiva, y se le dota de tres Unidades que son la de Medios de Impugnación, la de Normatividad y la Unidad de Acceso a la Información Pública, a efecto de que puedan auxiliar a las funciones de la Procuraduría en los medios de defensa, en la contestación de informes previos o justificados y en la elaboración de los Acuerdos y Manuales de Funcionamiento de los Operadores del Nuevo Sistema de Justicia Penal, así como en el Acceso a la Información Pública por parte de la Procuraduría General de Justicia. Esta Dirección junto con las Unidades quedará bajo el mando del Subprocurador General de manera paulatina conforme vaya teniendo vigencia el Sistema Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal realizará las previsiones administrativas y presupuestarias necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
