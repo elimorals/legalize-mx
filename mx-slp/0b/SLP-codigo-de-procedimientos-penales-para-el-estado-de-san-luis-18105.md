@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-02-28"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 5° DEL DECRETO 527, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 28 DE FEBRERO DE 2014, SE DEROGA EL DECRETO LEGISLATIVO 1156 PUBLICADO EL 16 DE OCTUBRE DE 2012, POR EL QUE SE EXPIDIÓ EL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE SAN LUIS POTOSÍ; Y, EN CONSECUENCIA, SUBYACE CON TODOS LOS EFECTOS LEGALES EL DIVERSO LEGISLATIVO 572 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 30 DE SEPTIEMBRE DEL AÑO 2000.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y SU TRANSITORIO ÚNICO DEL DECRETO NÚMERO 752, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 30 DE SEPTIEMBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4098,3 +4098,33 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 752 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+###### ARTÍCULO PRIMERO.
+
+En cumplimiento de lo dispuesto en los párrafos, segundo, y tercero del Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo del 2014, la LX Legislatura del Honorable Congreso del Estado de San Luis Potosí, emite la siguiente
+
+D E C L A R A T O R I A
+
+ÚNICO. El Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo del 2014, entrará en vigor con todos sus efectos legales en el Estado de San Luis Potosí el día 30 de septiembre del año 2014, conforme a lo siguiente:
+
+1. A partir de las 00:01 horas del 30 de septiembre del año dos mil catorce, aplicará gradualmente en cada una de las zonas del Estado, iniciando en la del altiplano con el Segundo Distrito Judicial que comprende los municipios de, Matehuala, Catorce, Villa de la Paz, Villa de Guadalupe, Cedral, y Vanegas, con residencia en la cabecera municipal de Matehuala; y continúa con el Tercero que comprende los municipios de, Rioverde, Ciudad Fernández, y San Ciro de Acosta, con residencia en la cabecera municipal de Rioverde. Se faculta al Consejo de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado, conformado por los tres Poderes del Estado, para que con la opinión técnica del Consejo de la Judicatura, del Poder Judicial del Estado, y de la Procuraduría General de Justicia del Estado, establezca las zonas y los distritos judiciales en que continuará implementándose el Sistema Procesal Penal Acusatorio, en el entendido de que en todo el territorio del Estado deberá estar implementado y se deberá estar operando bajo dicho sistema procesal antes del 18 de junio del año 2016, debiendo notificarlo en cada caso al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+2. A partir de las 00:01 horas del 30 de septiembre del año dos mil catorce, se aplicará únicamente en los delitos que conforme a la legislación penal del Estado se persigan por querella necesaria. Se faculta al Consejo de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado, para que con la opinión técnica del Consejo de la Judicatura, del Poder Judicial del Estado, y de la Procuraduría General de Justicia del Estado, determine la fecha en que el Sistema se aplicará en las diversas zonas del Estado, en los delitos que conforme al Código Penal del Estado se persiguen de oficio, sin que tal fecha pueda exceder del 18 de junio del año 2016, debiendo notificarlo al titular del Poder Ejecutivo del Estado para la publicación del Acuerdo respectivo en el Periódico Oficial del Estado.
+
+TRANSITORIOS DEL ARTÍCULO PRIMERO
+
+PRIMERO. La presente Declaratoria entrará en vigor a las 00:01 horas del día uno de agosto del año 2014, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido de la Declaratoria que se expide.
+
+###### ARTÍCULO SEGUNDO.
+
+Se ABROGA el Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado mediante Decreto Legislativo 572, con fecha 30 de septiembre del año dos mil, el cual queda subyacente para continuar hasta su total resolución el trámite de los asuntos que se iniciaron durante su vigencia; asimismo, continuará aplicándose hasta las 24:00 horas del día 17 de junio del año 2016, en los distritos judiciales en los que conforme al Artículo Primero de este Decreto, aún no haya entrado en vigor el Código Nacional de Procedimientos Penales.
+
+TRANSITORIO DEL ARTÍCULO SEGUNDO
+
+ÚNICO. La abrogación que se decreta en el presente, entrará en vigor el 30 de septiembre del año 2014, previa su publicación en el Periódico Oficial del Estado.
