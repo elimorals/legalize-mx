@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-trabajo-y-64330"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-14"
-last_updated: "2009-12-01"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-11-10"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL D.O.F. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2014. (ABROGADO)
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de noviembre de 2008.
 
@@ -1282,3 +1284,17 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 1 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, publicado en el Diario Oficial de la Federación el 14 de noviembre de 2008.
+
+TERCERO. Las disposiciones administrativas en vigor, que derivan del Reglamento citado en el transitorio anterior, incluyendo acuerdos secretariales, continuarán vigentes en lo que no se opongan a las disposiciones del presente Reglamento que se expide.
+
+CUARTO. Las unidades administrativas con denominación nueva o distinta a la que aparece en el instrumento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
+
+QUINTO. Los servidores públicos de la Secretaría, que en virtud de lo dispuesto del Reglamento que se expide, sean adscritos de una unidad administrativa a otra, se les respetarán sus derechos laborales conforme a la ley. La Oficialía Mayor deberá tramitar y, en su caso, emitir los nombramientos acorde con las nuevas denominaciones de las Unidades Administrativas que correspondan.
+
+SEXTO. La Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales con que cuentan las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables.
