@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bebidas-alcoholicas-del-municipio-de-55021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-28"
-last_updated: "2007-03-28"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON
 
-REGLAMENTO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE CADEREYTA JIMENEZ, NUEVO LEON
+REGLAMENTO DE BEBIDAS ALCOHÓLICAS DEL MUNICIPIO DE CADEREYTA JIMÉNEZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL MUNICIPIO DE CADEREYTA JIMÉNEZ, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 2007.
 
@@ -379,7 +381,7 @@ XX. Abstenerse de llevar a cabo sistemas de venta, consumo o expendio con descue
 
 XXI. Abstenerse de realizar concursos, promociones o cualquier tipo de ofertas o prácticas comerciales mediante las cuales se ofrezcan reconocimientos, premios, descuentos o cualquier tipo de incentivo en función del volumen de consumo de bebidas alcohólicas.
 
-XXII. Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”; (sic)
+XXII. Colocar en un lugar visible el cartel oficial emitido por la Secretaría que contenga al menos la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”;
 
 ### CAPITULO TERCERO. DE LOS GIROS Y HORARIOS
 
@@ -1260,3 +1262,27 @@ PRESIDENTE MUNICIPAL
 C. LIC. ÁNGEL LÓPEZ ZÚÑIGA
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2014.
+
+Artículo Primero.- Se abroga el Reglamento de Bebidas Alcohólicas, publicado en el Periódico Oficial del Estado de fecha 28 del mes de Marzo del año 2007, junto con sus reformas y adiciones para el municipio de Cadereyta Jiménez, Nuevo León.
+
+Artículo Segundo.- Se aprueba y expide el Reglamento para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Municipio de Cadereyta Jiménez, Nuevo León.
+
+Artículo Tercero.- Los permisos municipales o licencias municipales para la venta o expedición de bebidas alcohólicas que hayan sido otorgados con anterioridad a la entrada en vigor de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el estado de Nuevo León, publicada en el Periódico Oficial del Estado el día 18 de mayo de 2011 y lo dispuesto por el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 14 de noviembre del 2011, así como del presente reglamento, que no hayan sido refrendados conforme a los plazos señalados en la Ley de Hacienda Municipal, y sus titulares, o persona que tenga derecho a dichos permisos o licencias municipales no hayan iniciado el trámite para el canje y regularización de domicilio o giro de la licencia estatal que corresponda dentro de los plazos y términos señalados en la citada Ley Estatal, su reglamento o de las prórrogas determinadas por el Secretario de Finanzas y Tesorero General del Estado, y del tesorero municipal, ni iniciado tramites de regularización ante la autoridad municipal correspondiente, serán revocados sujetándose al procedimiento siguiente:
+
+a) Al realizar la inspección y se encontrares (sic) por la autoridad municipal competente cualquiera de las hipótesis antes mencionadas, el responsable de la inspección procederá a la imposición de sellos de clausura provisional, levantando acta circunstanciada de los hechos y proporcionará una copia de la misma al titular de la licencia, administrador, empleado o responsable del establecimiento con quien entienda la diligencia. La falta de firma del interesado no invalidará el acta.
+
+b) En la misma diligencia se citará al interesado para una audiencia de pruebas y alegatos en la que podrá manifestar lo que a su derecho convenga, misma que deberá celebrarse entre los cinco y diez días hábiles siguientes a aquel en que fuere hecha la clausura provisional. Dicha audiencia se realizará ante la autoridad municipal correspondiente. El inspector o persona responsable de la diligencia enviará a la Dirección de Inspección y Vigilancia, a más tardar al dia siguiente de aquel en que se haya realizado la clausura provisional, el acta circunstanciada y demás documentos en que se funde y motive el acto administrativo consistente en la imposición de sellos y clausura provisional;
+
+c) La audiencia a que se refiere el párrafo que antecede se llevará a cabo ante la Comisión Revisora integrada por el Secretario del Ayuntamiento, el Secretario de la Contraloría Municipal, así como por el Presidente de la Comisión de Espectáculos y Alcoholes del Ayuntamiento de Cadereyta Jiménez, o por quienes ellos designen en representación, sin que para ese efecto puedan ser designados ningún servidor público adscrito a la Dirección de Inspección y vigilancia.
+
+d) La comisión analizará la documentación a que se refiere el inciso b) anterior y recibirán las pruebas que presenten tanto el interesado como la autoridad responsable del acto administrativo de referencia, y en la audiencia de pruebas, Alegatos y resolución, determinará lo conducente. La audiencia de pruebas, alegatos y resolución se celebrará con o sin la presencia del interesado. Se admitirán toda clase de pruebas, excepto la confesional por absolución de posiciones a cargo de autoridades, la cual solo se podrá desarrollar vía de informe de la autoridad; y
+
+e) En el caso que la resolución de la comisión confirme procedencia de la revocación y clausura definitiva, emitirá resolución en tal sentido y dicha resolución será notificada al H. Ayuntamiento para su aprobación en definitiva y se notificará a la Tesorería del Estado a fin de que proceda en los términos del artículo 77 de esta Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León. Los refrendos y sanciones económicas serán considerados Créditos Fiscales de conformidad con lo establecido por el código Fiscal del estado de Nuevo León.
+
+Artículo Cuarto.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Envíese el presente reglamento al Secretario General de Gobierno para que por su conducto sea publicado en el Periódico Oficial del Estado; así también deberá de ser publicado en la Gaceta y en la Página de Internet del Municipio de Cadereyta Jiménez, Nuevo León www.cadereyta.gob.mx. Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en la Presidencia Municipal en la Sala de Sesiones del R. Ayuntamiento del Municipio de Cadereyta Jiménez, Nuevo León, a 4 -cuatro de Julio del 2014 -dos mil catorce.
