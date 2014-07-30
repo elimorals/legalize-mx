@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-101051"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-21"
-last_updated: "2014-05-21"
+last_updated: "2014-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS SESENTA DÍAS POSTERIORES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de mayo de 2014.
 
@@ -354,3 +354,23 @@ C. GERARDO O. VARGAS LANDEROS
 Procurador General de Justicia del Estado de Sinaloa
 
 C. MARCO ANTONIO HIGUERA GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2014.
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Con el inicio de vigencia de la presente Ley, se abroga la Ley de Atención y Protección a Víctimas u Ofendidos del Delito para el Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", el día 21 de Mayo de 2014, mediante Decreto número 335.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+CUARTO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en el plazo establecido en el artículo primero transitorio.
+
+QUINTO. El Sistema Estatal de Atención a Víctimas deberá integrase (sic), dentro de los treinta días siguientes al inicio de vigencia de la presente Ley.
+
+SEXTO. La Comisión Estatal de Atención Integral a Víctimas deberá integrase (sic), dentro de los treinta días siguientes al inicio de vigencia de la presente Ley.
+
+SÉPTIMO. Las Instituciones Estatales y Municipales deberán implementar los programas de capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley, a partir del inicio de vigencia del presente Decreto.
+
+OCTAVO. Para el cumplimiento del presente Decreto, el titular del Poder Ejecutivo del Estado deberá realizar las trasferencias presupuestales necesarias.
