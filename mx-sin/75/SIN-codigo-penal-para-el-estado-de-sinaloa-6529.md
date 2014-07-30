@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2013-08-09"
+last_updated: "2014-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -79,11 +79,15 @@ Es aplicable la ley vigente en el momento de la realización del delito.
 
 El momento y el lugar de realización del delito son aquellos en que se concretan los elementos del tipo penal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 6.
 
-Cuando entre la comisión del delito y la extinción de la pena o medida de seguridad se pusiere en vigor otra ley aplicable al caso, se estará a lo dispuesto en la ley más favorable al procesado o reo.
+Cuando entre la comisión del delito y la extinción de la pena o medida de seguridad se pusiere en vigor otra ley aplicable al caso, se estará a lo dispuesto en la ley más favorable al imputado, acusado o sentenciado.
 
-La Autoridad Judicial que esté conociendo o haya conocido del procedimiento penal, aplicará de oficio la ley más favorable.
+La autoridad jurisdiccional que esté conociendo o haya conocido del procedimiento penal, aplicará de oficio la ley más favorable.
 
 ### CAPITULO III. APLICACION EN RELACION CON LAS PERSONAS
 
@@ -209,11 +213,15 @@ No son responsables del nuevo delito quienes hayan estado ausentes al momento de
 
 ### CAPITULO IV. COMUNICABILIDAD DE CIRCUNSTANCIAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 21.
 
-El aumento o la disminución de la pena fundada en las cualidades, relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél.
+El aumento o la disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no serán aplicables a los demás sujetos que intervinieron en aquél.
 
-Son aplicables las que se fundan en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
+Sí serán aplicables las que se fundamenten en circunstancias objetivas, siempre que los demás sujetos tengan conocimiento de ellas.
 
 ###### ARTICULO 22.
 
@@ -243,7 +251,17 @@ I.- La actividad o inactividad del agente que produjo el resultado son involunta
 
 II.- Falte alguno de los elementos integrantes de la descripción legal;
 
-III.- Se actúe con el consentimiento válido del titular del bien jurídico afectado, siempre que se trate de aquellos de que pueda disponer;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+III. Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se cumplan los siguientes requisitos:
+
+a) Que el bien jurídico sea disponible;
+
+b) Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y,
+
+c) Que el consentimiento sea expreso sin que medie algún vicio.
 
 IV.- Obre el acusado en defensa de bienes jurídicos propios o ajenos repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
@@ -279,9 +297,13 @@ XI.- Atendiendo a las circunstancias que concurren en la realización de una con
 
 XII.- Se produzca un resultado típico por caso fortuito.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 27.
 
-Las causas que excluyen el delito se investigarán y harán valer de oficio, o a petición de parte interesada, en cualquier estado del procedimiento, en los términos previstos en el Código de Procedimientos Penales para el Estado.
+Las causas que excluyen el delito se investigarán y harán valer de oficio, o a petición de parte interesada, en cualquier estado del procedimiento, en los términos previstos en el Código Nacional de Procedimientos Penales.
 
 ## TITULO TERCERO. DE LAS CONSECUENCIAS JURIDICAS DEL DELITO
 
@@ -363,9 +385,13 @@ Al sentenciado que se negare sin causa justificada a pagar el monto de la multa 
 
 Podrá en cualquier tiempo pagarse el monto de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad o el tiempo de prisión que el reo hubiere cumplido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 36.
 
-La reparación del daño que deba ser hecha por el responsable de un delito, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar el ofendido, sus derechohabientes o sus representantes, en los términos que prevenga el Código de Procedimientos Penales.
+La reparación del daño que deba ser hecha por el responsable de un delito, tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar el ofendido, sus derechohabientes o sus representantes, en los términos que prevenga el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 37.
 
@@ -437,17 +463,21 @@ La reparación del daño deberá exigirse al acusado y podrá subsidiariamente r
 
 Los responsables del delito estarán obligados solidariamente a cubrir el importe de la reparación del daño.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 44.
 
-La reparación del daño material será fijada por el juzgador según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
+La reparación del daño material será fijada por el juzgador según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el procedimiento penal.
 
-La reparación del daño moral será fijada por el prudente arbitrio del juzgador, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el importe del salario general vigente en el Estado.
+La reparación del daño moral será fijada por el prudente arbitrio del juzgador, tomando en consideración las características del delito, las posibilidades económicas del obligado, la afectación moral sufrida por la víctima y las circunstancias personales de ésta, que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de cinco mil días de salario del obligado; a falta de prueba, se considerará el importe del salario general vigente en el Estado.
 
-En lo conducente, el juzgador tomará en cuenta las disposiciones de la Ley Federal del Trabajo y del Código Civil del Estado, en su caso.
+Para la fijación del daño causado y el monto de la reparación, el juzgador, en lo conducente, tomará en cuenta las disposiciones de la Ley Federal del Trabajo y del Código Civil del Estado, en su caso.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+El monto de la reparación del daño material y moral por el delito de homicidio, en ningún caso será inferior al de la indemnización en los casos de muerte determinada en la Ley Federal del Trabajo.
 
-La reparación del daño por el delito de robo de vehículo cuando este último no se recupere o no haya sido cubierto el valor del mismo por otro medio, la fijará el juez en la cantidad resultante de reducir el precio señalado en la factura o documento legal que acredita la propiedad del vehículo, la cantidad que como depreciación por el tiempo transcurrido hasta el momento de la comisión del delito, sea determinado mediante dictamen pericial.
+La reparación del daño por el delito de robo de vehículo cuando este último no se recupere o no haya sido cubierto el valor del mismo por otro medio, la fijará el juez en la cantidad resultante de reducir al precio señalado en la factura o documento legal que acredita la propiedad del vehículo, la cantidad que como depreciación por el tiempo transcurrido hasta el momento de la comisión del delito, sea determinado mediante dictamen pericial.
 
 ###### ARTICULO 45.
 
@@ -457,9 +487,13 @@ La obligación de pagar el importe de la reparación del daño es preferente con
 
 Los depósitos que se constituyan para garantizar la libertad caucional, se aplicarán al pago de la reparación del daño, cuando el inculpado se substraiga a la acción de la justicia después de haber causado ejecutoria la sentencia dictada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 47.
 
-La reparación del daño se hará efectiva por la autoridad judicial, conforme a las disposiciones que para la ejecución de la sentencia señale el Código de Procedimientos Penales, siendo parte en este procedimiento, además del Ministerio Público, quien tenga derecho a la reparación.
+La reparación del daño se hará efectiva por la autoridad judicial, conforme a las disposiciones que para la ejecución de la sentencia señale la Ley de la materia, siendo parte en este procedimiento, además del Ministerio Público, quien tenga derecho a la reparación.
 
 Si no se logra hacer efectivo todo el importe de la reparación del daño, lo que se obtenga se distribuirá proporcionalmente entre los que tienen derecho a ella, atendiendo a las cuantías señaladas en la sentencia ejecutoria, sin perjuicio de que si posteriormente el sentenciado adquiere bienes suficientes, se cubra lo insoluto.
 
@@ -639,7 +673,9 @@ El juzgador, tomando en cuenta las circunstancias del delito y las propias del d
 
 ### CAPITULO I. REGLAS GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 #### SECCION TERCERA. CONSECUENCIAS PARA LAS PERSONAS MORALES
 
@@ -679,31 +715,47 @@ La disolución consistirá en la conclusión definitiva de toda actividad social
 
 ###### ARTICULO 75.
 
-El juez fijará la pena o medida de seguridad que estime justa y la individualizará dentro de los límites señalados para cada delito, con base a la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
+El Juez fijará la pena o medida de seguridad que estime justa y la individualizará dentro de los márgenes de punibilidad establecidos para cada conducta típica y antijurídica, tomando como referencia su gravedad, así como el grado de culpabilidad del sentenciado.
 
-I.- La naturaleza de la acción u omisión y los medios empleados para ejecutarlo;
+Las medidas de seguridad no accesorias a la pena y las consecuencias jurídicas aplicables a las personas morales, serán individualizadas tomando solamente en consideración la gravedad de la conducta típica y antijurídica.
 
-II.- La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
+La gravedad de la conducta típica y antijurídica será determinada:
 
-III.- Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado
+I. Por el valor del bien jurídico y su grado de afectación en virtud de la magnitud del daño causado o del peligro en que éste fue colocado;
 
-IV. La forma y grado de intervención del agente en la comisión del delito; los vínculos de parentesco, amistad o relación entre el activo y el pasivo, así como su calidad y la de la víctima u ofendido;
+II. La naturaleza dolosa o culposa de la conducta y los medios empleados;
 
-V.- La edad, el nivel de educación, las costumbres, condiciones sociales, económicas y culturales del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado pertenezca a un grupo étnico o pueblo indígena, se tomarán en cuenta, además, sus usos y costumbres;
+III. Las circunstancias de tiempo, modo, lugar u ocasión del hecho; y,
 
-VI.- Las condiciones fisiológicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito;
+IV. La forma y grado de intervención del sentenciado en la comisión del delito, así como la calidad de la víctima u ofendido.
 
-VII.- El comportamiento posterior del agente con relación al delito cometido; y,
+El grado de culpabilidad estará determinado por el juicio de reproche, según el sentenciado haya tenido, bajo las circunstancias y características del hecho, la posibilidad concreta de comportarse de distinta manera y de respetar la norma jurídica quebrantada, tomando en cuenta:
 
-VIII.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando hayan influido en ésta.
+I. Los motivos que impulsaron la conducta del sentenciado;
 
-Para la adecuada aplicación de las penas y medidas de seguridad, el Juez deberá tomar conocimiento, directo del sujeto, de la víctima y de las circunstancias del hecho.
+II. Las condiciones fisiológicas y psicológicas específicas en que se encontraba en el momento de la comisión del hecho;
+
+III. La edad, el nivel educativo, las costumbres, las condiciones sociales y culturales del sentenciado;
+
+IV. Los vínculos de parentesco, amistad o relación que guarde con la víctima u ofendido; y,
+
+V. Las demás circunstancias especiales del sentenciado, víctima u ofendido, siempre que resulten relevantes para la individualización de la sanción.
+
+Cuando el sentenciado pertenezca a un grupo étnico o pueblo indígena se tomarán en cuenta, además de los aspectos anteriores, sus usos y costumbres.
+
+Si en un mismo hecho intervinieron varias personas, cada una de ellas será sancionada de acuerdo con el grado de su propia culpabilidad.
+
+Para los fines señalados en el presente artículo, se podrán tomar en consideración los dictámenes periciales y otros medios de prueba.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ARTICULO 75 BIS.- Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este código, siempre que no se trate de un delito grave.
 
-Si no se trata de un delito grave y el inculpado al rendir su declaración preparatoria confiesa espontánea, lisa y llanamente los hechos que se le imputan, o en el mismo acto ratifica la declaración rendida en indagatoria, el juzgador podrá reducir hasta en un tercio la pena que le correspondería conforme a este código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+Si no se trata de un delito grave y el imputado confiesa espontánea, lisa y llanamente los hechos que se le imputan, el juzgador podrá reducir hasta en un tercio la pena que le correspondería conforme a este Código.
 
 Para los efectos de este artículo, el juez sólo podrá aplicar una sola de las reducciones anteriormente señaladas.
 
@@ -781,6 +833,10 @@ Cuando el sujeto realice el hecho en situación de error vencible, se le impondr
 
 ### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO Y AUTORIA INDETERMINADA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 86.
 
 Al que se exceda en casos de legítima defensa, estado de necesidad, obediencia jerárquica, cumplimiento de un deber o ejercicio de un derecho será penado como delincuente por delito culposo.
@@ -807,21 +863,33 @@ Las penas previstas en este artículo, en ningún caso podrán exceder de las do
 
 ###### ARTICULO 90.
 
-En caso de concurso ideal se aplicará la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse hasta en una cuarta parte del máximo de su duración; sin exceder los límites previstos en el Título Tercero de este Libro.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos. Ello sin exceder los límites previstos en el Título Tercero de este Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 91.
 
-En caso de concurso real, se impondrá la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse en una mitad más de las penas correspondientes por cada uno de los demás delitos cometidos, sin que exceda de los máximos señalados en el Título Tercero de este Libro.
+En caso de concurso real, se impondrá la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse con las penas que la Ley contempla para cada uno de los delitos restantes, sin que exceda de los máximos señalados en el Título Tercero de este Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 92.
 
-En caso de delito continuado, la pena correspondiente al delito cometido podrá aumentarse hasta en una mitad más, sin que exceda de los máximos fijados por el Título Tercero de este Libro.
+No habrá concurso cuando las conductas constituyan un delito continuado; sin embargo, en estos casos se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido, sin que exceda de los máximos fijados por el Título Tercero de este Libro.
 
 ###### ARTICULO 93.
 
 Tratándose de autoría indeterminada, se impondrá como pena hasta las tres cuartas partes de las sanciones previstas para el delito de que se trate, con la modalidad respectiva, en su caso.
 
 ### CAPITULO IX. SUSPENSION CONDICIONAL DE LA EJECUCION DE LA PENA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 94.
 
@@ -834,6 +902,10 @@ Cuando se cometa algún delito por pandilla, se aplicarán, a los que intervenga
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policíaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
 ### CAPITULO I. REGLAS GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 95.
 
@@ -883,7 +955,7 @@ La substitución o la conmutación de la pena no procederá para los sentenciado
 
 ###### ARTICULO 101.
 
-La ejecución de la pena de prisión que no exceda de tres años podrá ser suspendida condicionalmente, a petición de parte o de oficio, si concurren los requisitos siguientes:
+La ejecución de la pena de prisión que no exceda de cuatro años podrá ser suspendida condicionalmente, a petición de parte o de oficio, si concurren los requisitos siguientes:
 
 > <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
@@ -896,6 +968,12 @@ No se considerará como antecedente de mala conducta el relativo a que se le hay
 II.- Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma fundadamente que el sentenciado no volverá a delinquir; y
 
 III.- Que en atención a las condiciones personales del sujeto, no haya necesidad de substituir la pena privativa de libertad, en función del fin para el que fue impuesta la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+El sentenciado que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
 
 ###### ARTICULO 102.
 
@@ -915,17 +993,29 @@ V.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
 Cuando el juzgador determine la suspensión de la pena de prisión, resolverá discrecionalmente, según las circunstancias del caso, acerca de sí el beneficio concedido comprenderá a las demás penas impuestas, excepto la relativa a la reparación del daño, que en ningún caso podrá ser suspendida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 104.
 
-La suspensión condicional de la ejecución de la pena, tendrá una duración de tres años, transcurridos los cuales se considerará extinguida la pena impuesta, siempre que durante ese término el sentenciado no diere lugar a nuevo proceso que concluya con sentencia condenatoria. Si esto aconteciere, se harán efectivas ambas sentencias si el nuevo delito es doloso. Tratándose de delito culposo, la autoridad competente resolverá motivada y fundadamente si debe aplicarse o no la pena suspendida. Los hechos que originen el nuevo proceso interrumpen el plazo de tres años, tanto si se trata de delito doloso como culposo, hasta que se dicte sentencia firme.
+La suspensión condicional de la ejecución de la pena, tendrá una duración de cuatro años, transcurridos los cuales se considerará extinguida la pena impuesta, siempre que durante ese término el sentenciado no diere lugar a nuevo proceso que concluya con sentencia condenatoria.
 
-Si el reo falta al cumplimiento de las obligaciones contraídas, la autoridad judicial podrá hacer efectiva la pena suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha pena.
+Si esto último aconteciere, se harán efectivas ambas sentencias si el nuevo delito es doloso. Tratándose de delito culposo, la autoridad competente resolverá motivada y fundadamente si debe aplicarse o no la pena suspendida.
+
+Los hechos que originen el nuevo proceso interrumpen el plazo de cuatro años, tanto si se trata de delito doloso como culposo, hasta que se dicte sentencia firme.
+
+Si el sentenciado falta al cumplimiento de las obligaciones contraídas, la autoridad judicial podrá hacer efectiva la pena suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha pena.
 
 En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas se estará a lo dispuesto en el artículo 99 y será aplicable lo previsto en el artículo 98.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 105.
 
-El beneficio de la suspensión condicional de la pena se concederá con los mismos requisitos a que se refiere este Capítulo, a los sentenciados a más de tres años y hasta cinco años de prisión después de haber cumplido la tercera parte de ella.
+El beneficio de la suspensión condicional de la pena se concederá con los mismos requisitos a que se refiere este Capítulo, a los sentenciados a más de cuatro años y hasta seis años de prisión después de haber cumplido la tercera parte de ella.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
 
@@ -939,7 +1029,7 @@ El beneficio de la suspensión condicional de la pena no se concederá a los sen
 
 ###### ARTICULO 106.
 
-Son causas de extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad impuestas, las siguientes:
+La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
 
 I.- Cumplimiento de la pena o medida de seguridad;
 
@@ -953,31 +1043,61 @@ V.- Rehabilitación;
 
 VI.- Indulto;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Reconocimiento de Inocencia;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2004)</small>
+VII. Reconocimiento de inocencia del sentenciado o anulación de la sentencia;
 
-VIII.- Prescripción; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
 
-IX.- Las demás que señalen las leyes.
+VIII. Prescripción;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+IX. Supresión del tipo penal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+X. Existencia de una sentencia anterior dictada en proceso instaurado por los mismos hechos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XI. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
+XII. Las demás que señalen las leyes.
 
 ###### ARTICULO 107.
 
 La extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad se resolverá de oficio o a petición de parte, según proceda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 108.
 
-La extinción de la pretensión punitiva será resuelta por el Ministerio Público durante la averiguación previa o por el órgano jurisdiccional en cualquier etapa del proceso.
+La extinción de la pretensión punitiva será resuelta por el Ministerio Público durante la investigación, si el imputado no ha sido puesto a disposición del juez o por el órgano jurisdiccional en cualquier etapa del procedimiento.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 109.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte que se extinguió la pretensión punitiva o la potestad de ejecutarlas, sin que esta circunstancia se haya hecho valer en la averiguación previa o durante el proceso, quien hubiere advertido la extinción propondrá la libertad absoluta del sentenciado ante el Juez de Primera Instancia de Vigilancia de la Ejecución de Consecuencias Jurídicas del Delito y éste resolverá lo procedente.
+Si durante la ejecución de las penas o medidas de seguridad se advierte que se extinguió la pretensión punitiva o la potestad de ejecutarlas, sin que esta circunstancia se haya hecho valer, quien hubiere advertido la extinción propondrá la libertad absoluta del sentenciado ante el juez de ejecución y éste resolverá lo procedente.
 
 ### CAPITULO IV. AMNISTIA
 
@@ -1001,7 +1121,7 @@ La muerte del inculpado extingue la pretensión punitiva y la del sentenciado la
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la ley que se dictare concediéndola. Si ésta no expresare su alcance, se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen con todos sus efectos con relación a todos los responsables del delito.
 
-### CAPITULO VII. INDULTO Y RECONOCIMIENTO DE INOCENCIA
+### CAPITULO VII. INDULTO, RECONOCIMIENTO DE INOCENCIA Y ANULACION DE SENTENCIA
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
@@ -1025,7 +1145,9 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de sus 
 
 Para lograr la readaptación social de los condenados por sentencia ejecutoria a una sanción privativa de libertad, el Ejecutivo del Estado organizará y mantendrá adecuados los lugares donde aquélla deba cumplirse, sobre la base del trabajo, la capacitación para el mismo y la educación.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2014)</small>
 
 ### CAPITULO IX. PRESCRIPCION DE LA PRETENSION PUNITIVA
 
@@ -1033,11 +1155,19 @@ Para lograr la readaptación social de los condenados por sentencia ejecutoria a
 
 El indulto es por gracia y el reconocimiento de inocencia es un derecho.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 119.
 
-Se procederá al reconocimiento de inocencia, cualquiera que sea la sanción impuesta, cuando aparezca que el condenado es inocente.
+Se procederá al reconocimiento de inocencia, cualquiera que sea la sanción impuesta, cuando después de dictada la sentencia aparezcan pruebas de las que se desprenda, en forma plena, que no existió el delito por el que se dictó la condena o que, existiendo éste, el sentenciado no participó en su comisión, o bien cuando se desacrediten formalmente, en sentencia irrevocable, las pruebas en la que se fundó la condena.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+
+ARTICULO 119 BIS.- La anulación de la sentencia ejecutoria, procederá cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos, en cuyo caso se anulará la segunda sentencia; o cuando una Ley se derogue o se modifique el tipo penal, o en su caso, la pena por los que se dictó sentencia o la sanción impuesta, procediendo aplicar la más favorable al sentenciado.
 
 ###### ARTICULO 120.
 
@@ -1281,9 +1411,13 @@ VIII.- Se cometa dolosamente en contra de una persona que revista la calidad de 
 
 Si la víctima de los delitos de secuestro establecidos en el presente código es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
 ###### ARTICULO 140.
 
-Cuando las lesiones se cometan en alguna de las formas señaladas en el artículo anterior, las penas se aumentarán hasta en dos terceras partes más de las correspondientes a la lesión de que se trate.
+Cuando las lesiones se cometan en alguna de las formas señaladas en el artículo 139 de este Código, las penas se aumentarán hasta en dos terceras partes más de las correspondientes a la lesión de que se trate.
 
 ###### ARTICULO 141.
 
@@ -1309,7 +1443,11 @@ Cuando se produzca homicidio o lesiones de las señaladas en las fracciones V, V
 
 Cuando este delito se cometa dentro del horario de labores y en la ruta concesionada, sin que ocurran ninguna de las circunstancias señaladas en el párrafo precedente, se sancionará al conductor responsable con prisión de dos a ocho años y se le inhabilitará para el manejo de vehículos de motor conforme a lo previsto en el artículo 263.
 
-Al conductor que cause culposamente la muerte de dos o más personas se aplicarán las mismas penas señaladas en el párrafo primero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
+
+A quien al conducir un vehículo de servicio particular bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben la adecuada conducción de vehículos, cause culposamente la muerte de dos o más personas, se le aplicarán las mismas penas señaladas en el párrafo primero de este artículo.
 
 ###### ARTICULO 145.
 
@@ -2411,11 +2549,15 @@ Si antes de dictarse sentencia en primera instancia y con los mismos requisitos 
 
 Lo dispuesto en este artículo, no será aplicable tratándose de delitos en que el agente sea un servidor público, si se aprovecha del cargo para cometerlo.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 237.
 
-Los delitos de robo, robo bancario, abigeato, encubrimiento por receptación y extorsión se perseguirán de oficio, excepto cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos, casos en que sólo se perseguirán por querella de parte, al igual que los demás delitos previstos en este Título, incluyendo el robo de uso.
+Los delitos previstos en este Título se perseguirán por querella de parte.
+
+Se exceptúan de lo anterior, los de robo con violencia física o moral sobre las personas o material sobre las cosas, previstos en los artículos 204, fracciones I y II; 205 fracciones I, II y III; 207; 207 Bis, fracciones I, II, III, IV y V; y, 210; extorsión y encubrimiento por receptación, los cuales se perseguirán de oficio.
 
 ###### ARTICULO 238.
 
@@ -2917,7 +3059,11 @@ Se impondrá prisión de tres meses a cinco años y de cincuenta a doscientos d�
 
 I.- Habiendo otorgado responsiva para hacerse cargo de la atención de algún lesionado, lo abandone en su tratamiento sin justa causa y sin dar aviso inmediato a la autoridad correspondiente;
 
-II.- No cumpla con las obligaciones que le impone el Código de Procedimientos Penales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+
+II. No cumpla con las obligaciones que le impone el Código Nacional de Procedimientos Penales;
 
 III.- No recabe la autorización del paciente o de la persona que deba otorgarla, salvo en los casos de urgencia, cuando se trate de practicar alguna operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo, cause la pérdida de un miembro o ataque la integridad de una función vital;
 
@@ -4094,3 +4240,11 @@ P.O. 9 DE AGOSTO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Las reformas previstas en el artículo tercero del presente Decreto entrarán en vigor conforme al artículo primero transitorio del Decreto Número 738 publicado en el Periódico Oficial "El Estado de Sinaloa", el 25 de enero de 2013 que contiene el Código de Procedimientos Penales para el Estado de Sinaloa.
+
+P.O. 30 DE JULIO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
