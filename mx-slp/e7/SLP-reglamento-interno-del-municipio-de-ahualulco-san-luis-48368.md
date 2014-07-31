@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-del-municipio-de-ahualulco-san-luis-48368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-26"
-last_updated: "2005-11-26"
+last_updated: "2014-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO INTERNO DEL MUNICIPIO DE AHUALULCO, S.L.P.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL AYUNTAMIENTO Y ADMINISTRACIÓN MUNICIPAL DE AHUALULCO, S.L.P., PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de noviembre de 2005.
 
@@ -651,7 +653,7 @@ Los síndicos tendrán las siguientes facultades y obligaciones, sin perjuicio d
 
 I.- Vigilar la adecuación y aplicación de la Hacienda Municipal y vigilar la correcta recaudación y aplicación de los fondos públicos;
 
-II.- Coordinar la Comisión Permanente de Pensiones y Asuntos Laborales del Ayuntamiento y vigilar la correcta aplicación de la ley relativa respecto del otorgamiento de la jubilaciones (sic) por parte del Gobierno Municipal;
+II.- Coordinar la Comisión Permanente de Pensiones y Asuntos Laborales del Ayuntamiento y vigilar la correcta aplicación de la ley relativa respecto del otorgamiento de la (sic) jubilaciones por parte del Gobierno Municipal;
 
 III.- Promover la formulación, expedición, modificación o reforma de los reglamentos municipales y demás disposiciones administrativas;
 
@@ -868,3 +870,19 @@ LIC. ALICIA SAUCEDO ESCOBEDO
 5º REGIDOR
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno empezara a regir al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones y ordenamientos reglamentarios que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO TERCERO.
+
+se abroga en su totalidad cualquier otro Reglamento Interno que se encontrare vigente anterior a la publicación y entrada en vigor del presente.
