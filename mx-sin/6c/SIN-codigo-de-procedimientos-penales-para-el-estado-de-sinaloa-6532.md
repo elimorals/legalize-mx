@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2014-05-30"
+last_updated: "2014-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO DEL DECRETO NÚMERO 101, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2014, SE ABROGA EL DECRETO NÚMERO 738, MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. NO. 11, SEGUNDA SECCIÓN, DE 25 DE ENERO DE 2013.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 177, POR EL QUE SE DECLARA ADOPTADO EN EL ESTADO DE SINALOA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL Y EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, ENTRARÁN EN VIGOR EN EL ESTADO DE MANERA GRADUAL Y SUCESIVA POR REGIONES O CIRCUITOS JUDICIALES, P.O. 31 DE JULIO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -4352,3 +4352,25 @@ CUARTO. La reforma prevista en al artículo 21, fracción VII de la Ley Orgánic
 QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE JULIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA PUBLICADA MEDIANTE DECRETO 177.</small>
+
+PRIMERO. Se DECLARA ADOPTADO en el Estado de Sinaloa el Sistema Procesal Penal Acusatorio y Oral previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos, conforme al Decreto publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos legales de la Entidad.
+
+En consecuencia, las garantías consagradas por la reforma Constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, referentes a los hechos que ocurran con posterioridad a la entrada en vigor del referido Sistema.
+
+SEGUNDO. El Código Nacional de Procedimientos Penales y el Sistema Procesal Penal Acusatorio y Oral que recoge, entrarán en vigor en el Estado de manera gradual y sucesiva por regiones o Circuitos Judiciales de acuerdo con las siguientes prevenciones:
+
+I. A partir del día quince de octubre del año dos mil catorce, en la Región Centro-Norte, que comprende los distritos judiciales de los municipios de Angostura, Mocorito, Salvador Alvarado, Guasave y Sinaloa.
+
+II. A partir del día primero de junio del año dos mil quince, en la Región Norte, que comprende los distritos judiciales de los municipios de Ahome, El Fuerte y Choix.
+
+III. A partir del día quince de enero del año dos mil dieciséis, en la Región Sur, que comprende los distritos judiciales de los municipios de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+IV. A partir del día trece de junio del año dos mil dieciséis, en la Región Centro, que comprende los distritos judiciales de los municipios de Culiacán, Navolato y Badiraguato.
+
+## TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
