@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2014-01-27"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -243,9 +243,11 @@ Los actos discriminatorios cometidos por los particulares por motivos de discapa
 
 ### Capítulo I. De la denominación, objeto, funciones y patrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2014)</small>
+
 ###### Artículo 12.
 
-Se crea el Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad en Baja California Sur, en adelante Instituto, como un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonios propios, que aplicará y vigilará el cumplimiento de la presente ley y coordinará a las instituciones públicas y a los organismos sociales que persigan los fines que de esta normatividad se derivan, en concordancia con el Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+Se crea el Instituto Sudcaliforniano para la Inclusión de las Personas con Discapacidad, en adelante Instituto, como un organismo descentralizado de la Administración Pública Estatal, siendo la Secretaria General de Gobierno la coordinadora de sector del mismo, con personalidad jurídica y patrimonio propios, que aplicará y vigilará el cumplimiento de la presente Ley y coordinará a las instituciones públicas y a los organismos sociales que persigan los fines que de esta normatividad se derivan, en concordancia con el Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad.
 
 El Instituto tendrá sede en la capital del Estado de Baja California Sur y contará con representación en cada uno de sus municipios de la entidad.
 
@@ -285,9 +287,13 @@ El Consejo Estatal será la máxima autoridad de gobierno del Instituto y estar�
 
 I.- Una presidencia que será ocupada por el titular del Poder Ejecutivo del Estado, que será suplido por el funcionario (a) que éste designe;
 
-II.- Una vicepresidencia, que será presidida por quien ocupe la Dirección General del Sistema DIF Estatal;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2014)</small>
 
-III.- Una Secretaría Técnica, que será ocupada por quien presida la titularidad del Instituto, y;
+II.- Una Vicepresidencia, que ser (sic) quien ocupe la Presidencia del Sistema DIF Estatal;
+
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2014)</small>
+
+III.- Una Secretaría Técnica, que será ocupada por quien se designe como director del Instituto, y;
 
 IV.- Las y los titulares de las siguientes dependencias e instituciones que fungirán como vocales:
 
@@ -311,23 +317,29 @@ i) Dirección del Transporte;
 
 j) Instituto Sudcaliforniano de Cultura;
 
-k) Instituto Sudcaliforniano de la Juventud y el Deporte;
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2014)</small>
 
-l) Instituto Sudcaliforniano de la Mujer;
+k) Instituto Sudcaliforniano de la Juventud;
 
-m) Comisión Estatal de los Derechos Humanos;
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2014)</small>
 
-n) Centro de Rehabilitación y Educación Especial;
+l) Instituto Sudcaliforniano del Deporte;
 
-o) Las Presidencias de los Sistemas DIF Municipales;
+m) Instituto Sudcaliforniano de la Mujer;
 
-p) Las Direcciones Generales de los Sistemas DIF Estatal y Municipales;
+n) Comisión Estatal de los Derechos Humanos;
 
-q) Comisión Permanente de Atención a Grupos Vulnerables y a Personas con Discapacidad del Congreso del Estado, y;
+o) Centro de Rehabilitación y Educación Especial;
 
-r) H. Tribunal Superior de Justicia.
+p) Las Presidencias de los Sistemas DIF Municipales;
 
-s) 5 representantes de asociaciones civiles en materia de discapacidad debidamente registradas, que sean designadas por el presidente del Instituto.
+q) Las Direcciones Generales de los Sistemas DIF Estatal y Municipales;
+
+r) Comisión Permanente de Atención a Grupos Vulnerables y a Personas con Discapacidad del Congreso del Estado, y;
+
+s) H. Tribunal Superior de Justicia.
+
+t) 5 representantes de asociaciones civiles en materia de discapacidad debidamente registradas, que sean designadas por el presidente del Instituto.
 
 Por cada integrante del Consejo Estatal, habrá un suplente, mismo que será designado por los vocales señalados con anterioridad.
 
@@ -401,59 +413,69 @@ Los ayuntamientos de la entidad deberán crear la instancia municipal para el de
 
 ### Capítulo III. De la Dirección del Instituto
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2014)</small>
+
 ###### Artículo 25.
 
-El Instituto estará a cargo de un director o directora, que será designado por el titular del Poder Ejecutivo del Estado, de entre una terna propuesta por el Consejo Estatal, la cual estará compuesta por personas con discapacidad que hayan destacado en beneficio y a favor de las causas de los grupos vulnerables, mismo que ejercerá las siguientes funciones:
+El Instituto estará a cargo de un Director o Directora, que será designado por el Titular del Poder Ejecutivo del Estado, de entre una terna propuesta por el Consejo Estatal, la cual estará compuesta por personas con discapacidad que hayan destacado en beneficio y a favor de las causas de los grupos vulnerables, mismo que ejercerá las siguientes funciones:
 
-I.- Presentar al Consejo Estatal, la promoción, convocatoria y concertación de acuerdos o convenios con las dependencias de la Administración Pública Estatal, los ayuntamientos, los sectores social o privado, o las organizaciones de la sociedad civil en materia de discapacidad, evaluando periódica y sistemáticamente la ejecución del mismo;
+I.- Representar al Instituto como apoderado legal para actos de administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial conforme a la Ley, incluida la de desistirse del juicio de amparo, pudiendo sustituir y delegar este poder en uno o más apoderados, con la aprobación del Consejo Estatal;
 
-II.- Plantear al Consejo Estatal las adecuaciones necesarias a las disposiciones legales en materia de discapacidad;
+II.- Celebrar toda clase de contratos y convenios con los sectores público, social, privado, para la ejecución de acciones relacionados con su objeto;
 
-III.- Promover acciones que fomenten la igualdad de oportunidades para las personas con discapacidad;
+III.- Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestas;
 
-IV.- Impulsar el ejercicio pleno de los derechos de las personas con discapacidad y hacer de su conocimiento los medios institucionales para hacerlos exigibles ante la autoridad competente;
+IV.- Rendir al órgano de vigilancia un informe anual de las actividades del Instituto en el ejercicio anterior, acompañando un balance general contable y los demás datos financieros que sean necesarios;
 
-V.- Proponer y contar con la autorización del Consejo Estatal, las políticas públicas para el desarrollo integral de las personas con discapacidad, mediante la coordinación y supervisión de los programas interinstitucionales;
+V.- Nombrar y remover libremente al personal de confianza y de base, éstos últimos, en los términos de la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipio de Baja California Sur y de las Condiciones Generales de Trabajo; y
 
-VI.- Promover autorización ante el Consejo Estatal a efecto de incrementar la infraestructura física de instalaciones públicas y los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad;
+VI.- Presentar al Consejo Estatal, la promoción, convocatoria y concertación de acuerdos o convenios con las dependencias de la Administración Pública Estatal, los Ayuntamientos, los sectores social o privado, o las organizaciones de la sociedad civil en materia de discapacidad, evaluando periódica y sistemáticamente la ejecución del mismo;
 
-VII.- Impulsar la elaboración, publicación y difusión de estudios de investigación que apoyen al desarrollo integral de las personas con discapacidad;
+VII.- Plantear al Consejo Estatal las adecuaciones necesarias a las disposiciones legales en materia de discapacidad;
 
-VIII.- Motivar y fomentar la cultura de dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización que resalten sus capacidades y aptitudes;
+VIII.- Promover acciones que fomenten la igualdad de oportunidades para las personas con discapacidad;
 
-IX.- Supervisar la ejecución de los programas estatales en la materia, así como promover entre los Poderes del Estado y la sociedad en su conjunto, acciones encaminadas a mejorar la condición social de las personas con discapacidad;
+IX.- Impulsar el ejercicio pleno de los derechos de las personas con discapacidad y hacer de su conocimiento los medios institucionales para hacerlos exigibles ante la autoridad competente;
 
-X.- Promover y dar difusión al contenido de los instrumentos nacionales e internacionales, relacionados con la materia;
+X.- Proponer y contar con la autorización del Consejo Estatal, las políticas públicas para el desarrollo integral de las personas con discapacidad, mediante la coordinación y supervisión de los programas interinstitucionales;
 
-XI.- Establecer acuerdos de colaboración con organismos públicos y privados, así como nacionales e internacionales, que permitan el desarrollo de proyectos que beneficien a las personas con discapacidad;
+XI.- Promover autorización ante el Consejo Estatal a efecto de incrementar la infraestructura física de instalaciones públicas y los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad;
 
-XII.- Fungir como órgano de consulta y asesoría ante las dependencias de la Administración Pública Estatal, y en su caso, voluntaria para los ayuntamientos y las instituciones de los sectores social y privado, que realicen acciones o programas relacionados con las personas con discapacidad;
+XII.- Impulsar la elaboración, publicación y difusión de estudios de investigación que apoyen al desarrollo integral de las personas con discapacidad;
 
-XIII.- Expedir la convocatoria para la integración del Consejo Consultivo, previa autorización del Consejo Estatal;
+XIII.- Motivar y fomentar la cultura de dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización que resalten sus capacidades y aptitudes;
 
-XIV.- Convocar a las sesiones del Consejo Estatal y Consejo Consultivo, así como elaborar el acta de las sesiones que se lleven a cabo;
+XIV.- Supervisar la ejecución de los programas estatales en la materia, así como promover entre los Poderes del Estado y la sociedad en su conjunto, acciones encaminadas a mejorar la condición social de las personas con discapacidad;
 
-XV.- Presidir las sesiones del Consejo Estatal y fungir como secretario Técnico;
+XV.- Promover y dar difusión al contenido de los instrumentos nacionales e internacionales, relacionados con la materia;
 
-XVI.- Presentar ante el Consejo Estatal para su aprobación, el Programa Estatal para la Inclusión de las Personas con Discapacidad;
+XVI.- Establecer acuerdos de colaboración con organismos públicos y privados, así como nacionales e internacionales, que permitan el desarrollo de proyectos que beneficien a las personas con discapacidad;
 
-XVII.- Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente ley;
+XVII.- Fungir como órgano de consulta y asesoría ante las dependencias de la Administración Pública Estatal, y en su caso, voluntaria para los ayuntamientos y las instituciones de los sectores social y privado, que realicen acciones o programas relacionados con las personas con discapacidad;
 
-XVIII.- Elaborar el proyecto de presupuesto anual conforme a los objetivos trazados en un programa operativo anual.
+XVIII.- Expedir la Convocatoria para la integración del Consejo Consultivo, previa autorización del Consejo Estatal;
 
-XIX.- Gestionar apoyos ante las instituciones gubernamentales o de asistencia privada, con el objeto de adquirir prótesis, órtesis, aparatos y equipos que requieran las personas con discapacidad;
+XIX.- Convocar a las sesiones del Consejo Estatal y Consejo Consultivo, así como elaborar el acta de las sesiones que se lleven a cabo;
 
-XX.- Asumir las funciones de representante legal del Instituto y ser responsable de todas las actividades de la administración;
+XX.- Fungir como Secretario Técnico en las sesiones del Consejo Estatal y
 
-XXII (SIC).- Elaborar el reglamento interno, así como proponer la estructura, el personal administrativo y profesional que atienda el funcionamiento del Instituto; ser responsable del cumplimiento del mismo y de sus posteriores modificaciones;
+XXI.- Presentar ante el Consejo Estatal para su aprobación, el Programa Estatal para la Inclusión de las Personas con Discapacidad;
 
-XXIII.- Impulsar campañas de sensibilización con la finalidad de crear una cultura de igualdad y respeto a las personas con discapacidad, manteniendo el interés de la familia y la sociedad en general, a efecto de que realicen su mayor esfuerzo para lograr su completa inclusión;
+XXIII (SIC).- Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley;
 
-XXIV.- Crear un banco de datos que contenga el Registro Estatal de la Población con Discapacidad, así como de las agrupaciones y asociaciones registradas oficialmente, que trabajen en beneficio de las personas con discapacidad;
+XXIII.- Elaborar el proyecto de presupuesto anual conforme a los objetivos trazados en un programa operativo anual.
 
-XXV.- Dar seguimiento al cumplimiento de los acuerdos que dicte el Consejo Estatal como órgano de gobierno, los que señalen otras leyes y reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, y;
+XXIV.- Gestionar apoyos ante las instituciones gubernamentales o de asistencia privada, con el objeto de adquirir prótesis, órtesis, aparatos y equipos que requieran las personas con discapacidad;
 
-XXVI.- Las demás que sean asignadas en el reglamento para el cumplimiento de sus funciones en términos de esta ley.
+XXV.- Elaborar el reglamento interno, así como proponer la estructura, el personal administrativo y profesional que atienda el funcionamiento del instituto; ser responsable del cumplimiento del mismo y de sus posteriores modificaciones;
+
+XXVI.- Impulsar campañas de sensibilización con la finalidad de crear una cultura de igualdad y respeto a las personas con discapacidad, manteniendo el interés de la familia y la sociedad en general, a efecto de que realicen su mayor esfuerzo para lograr su completa inclusión;
+
+XXVII.- Crear un Banco de Datos que contenga el Registro Estatal de la Población con Discapacidad así como de las agrupaciones y asociaciones registradas oficialmente, que trabajen en beneficio de las personas con discapacidad;
+
+XXVIII.- Dar seguimiento al cumplimiento al cumplimiento (sic) de los acuerdos que dicte el Consejo Estatal como órgano de gobierno, los que señalen otras leyes y reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, y;
+
+XXIX.- Las demás que sean asignadas en el Reglamento para el cumplimiento de sus funciones en términos de esta Ley.
 
 ### Capítulo IV. Del Comité de Vigilancia
 
@@ -1509,7 +1531,9 @@ SEGUNDO.- Se abroga el Decreto Número 1340 que expide la Ley del Instituto Sudc
 
 TERCERO.- Se derogan las disposiciones legales o reglamentarias, en todo lo que se oponga a la presente ley.
 
-CUARTO.- El Ejecutivo del Estado, deberá publicar el reglamento de la presente ley en un plazo no mayor a noventa días hábiles, contados a partir de su entrada en vigor.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2014)</small>
+
+CUARTO.- El Director del Instituto, deberá crear las disposiciones reglamentarias necesarias para la correcta aplicación de la Ley, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley.
 
 QUINTO.- En los treinta días hábiles siguientes a la entrada en vigor de la presente ley, se deberá instalar el Consejo Estatal para el Desarrollo e Inclusión de las Personas con Discapacidad y posteriormente, el Consejo Consultivo.
 
@@ -1542,3 +1566,11 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE JULIO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- A fin de dar cumplimiento inmediato a la presente ley, el Titular del Poder Ejecutivo del Estado de Baja California Sur, designará previa la instalación del Consejo Estatal, por única ocasión al Director del Instituto, a efecto de que este último se encargue de la organización de la instalación del Consejo Estatal para la Inclusión de Personas con Discapacidad, además de ser el encargado de elaborar en coordinación con el Ejecutivo Estatal el proyecto de Reglamento de la institución.
