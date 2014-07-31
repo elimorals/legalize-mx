@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2014-06-30"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE JULIO DE 2014, EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE JULIO DE 2014.</small>
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1213,11 +1213,11 @@ Cuando se solicite la suspensión legal de la sociedad conyugal, se procederá d
 
 La sociedad conyugal termina por disolución del matrimonio, por voluntad de los cónyuges, a solicitud de uno de ellos, por sentencia que declare la presunción de muerte del cónyuge ausente y en los supuestos previstos en el artículo 200, pero en todos estos casos se requiere de resolución judicial.
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+(REFORMADO, B.O. 30 DE JUNIO DE 2014) (F. DE E., B.O. 31 DE JULIO DE 2014)
 
 ###### Artículo 199.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo conviene (sic) los esposos, solicitando al uez (sic) de su domicilio que autorice el cambio de régimen y proceda a la liquidación de los bienes comunes.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo conviene (sic) los esposos, solicitando al juez de su domicilio que autorice el cambio de régimen y proceda a la liquidación de los bienes comunes.
 
 ###### Artículo 200.
 
@@ -1555,7 +1555,9 @@ Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomar�
 
 Es ilícito, pero no nulo, el matrimonio:
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
+> <small>(F. DE E., B.O. 31 DE JULIO DE 2014)</small>
+
+I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
 > <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
 
