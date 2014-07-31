@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2014-07-12"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1621,7 +1621,7 @@ d).- Servicio de transporte de valores o de seguridad privada 88.000
 
 e).- Servicio privado de transporte de pasajeros y sus pertenencias 88.000
 
-f).- Servicio mercantil ambulancia (sic) 88.000
+f).- Servicio mercantil (sic) ambulancia 88.000
 
 g).- Servicio de transporte de agua en pipa 30.000
 
@@ -4717,15 +4717,15 @@ El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado l
 
 Para los efectos del Título Segundo, se entenderá por ``día de salario mínimo'', el salario mínimo general diario vigente en el Estado, en la fecha de pago del derecho de que se trate.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 76.
 
 Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se distribuirá entre el personal de la Secretaría de Finanzas y Administración que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamento respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 77.
 
@@ -4733,7 +4733,7 @@ Para determinar las contribuciones y demás conceptos de ingreso que se establec
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 78.
 
@@ -5213,6 +5213,28 @@ Para los efectos de la aplicación del subsidio a que se refiere este Transitori
 
 CUARTO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios y Trámites Electrónicos, durante el año 2014 el monto se ajustará a la decena de pesos inferior más próxima.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2014)</small>
+
+QUINTO.- Se condonan los recargos y multas por el pago extemporáneo del Impuesto Sobre Tenencia o Uso de Vehículos, causado por la tenencia o uso de motocicletas, conforme al siguiente esquema:
+
+Del 01 al 31 de agosto de 2014 100%
+
+Del 01 al 30 de septiembre de 2014 75%
+
+Del 01 al 31 de octubre de 2014 50%
+
+Se condonan los recargos y multas por el pago extemporáneo del Impuesto Sobre Tenencia o Uso de Vehículos, así como del derecho por la expedición o renovación anual de la calcomanía fiscal vehicular, causados en el ejercicio fiscal 2014 y anteriores, a los propietarios, tenedores o usuarios de automóviles, camiones y remolques, conforme al siguiente esquema:
+
+Del 01 al 31 de agosto de 2014 100%
+
+Del 01 al 30 de septiembre de 2014 75%
+
+Del 01 al 31 de octubre de 2014 50%
+
+Se condonan en un 100%, los recargos y las multas que se hayan generado por la omisión en el pago de los derechos relacionados con el canje de placas de circulación de vehículos previstos en los incisos a), c), d) e i), de la fracción IV, del artículo 50 de la Ley de Hacienda del Estado de Colima, siempre y cuando dicho pago se realice durante el periodo del 01 de agosto al 31 de octubre de 2014.
+
+Se condona en un 50%, el pago de los derechos por la expedición de licencias de conducir motocicletas, durante el periodo del 01 al 31 de agosto de 2014.
+
 P.O. 5 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
@@ -5224,3 +5246,7 @@ P.O. 12 DE ABRIL DE 2014.
 P.O. 12 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial "El Estado de Colima", y entrará en vigor el día 1° de agosto de 2014.
