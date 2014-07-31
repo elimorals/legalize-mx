@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2014-07-08"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -2341,39 +2341,33 @@ III. Comprobar el cumplimiento por parte de los órganos administrativos de cada
 
 El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado se hará mediante el sistema de Carrera Judicial, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad, en su caso.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
+
 ###### Artículo 181.
 
-La Carrera Judicial está integrada por las siguientes categorías:
+La carrera judicial está integrada por las siguientes categorías:
 
-I. Juez de Primera Instancia Especializado;
+I. Juez de Primera Instancia;
 
-II. Juez de Primera Instancia Mixto;
+II. Secretario General de Acuerdos de Tribunal;
 
-III. Secretario General de Acuerdos de Tribunal;
+III. Secretario Relator de Magistrado;
 
-IV. Subsecretario General de Acuerdos de Tribunal;
+IV. Secretario de Acuerdos de Sala;
 
-V. Secretario Relator de Magistrado;
+V. Secretario de Acuerdos de Juzgado de Primera Instancia;
 
-VI. Secretario de Acuerdos de Sala;
+VI. Secretario Conciliador de Juzgado de Primera Instancia;
 
-VII. Secretario de Acuerdos de Juzgado Especializado de Primera Instancia;
+VII. Secretario de Juzgado de Primera Instancia;
 
-VIII. Secretario Conciliador de Juzgado de Primera Instancia;
+VIII. Notificador;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+IX. Actuario; y
 
-IX. Secretario de Juzgado Especializado de Primera Instancia;
+X. Juez Menor.
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
-
-X. Secretario de Juzgado Mixto de Primera Instancia;
-
-XI. Notificador;
-
-XII. Actuario; y
-
-XIII. Juez Menor y Juez de Paz.
+No se considerará como parte de la carrera judicial, el cargo de Secretario General de Acuerdos de Tribunal, cuando recaiga en persona que ostente el nombramiento de Juez de Primera Instancia.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -2471,9 +2465,11 @@ III. En su caso, el desempeño en el Poder Judicial de la Entidad; y
 
 IV. El grado académico que comprende el nivel de estudios con que cuente el servidor público así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
+
 ###### Artículo 191.
 
-Tratándose de cambios de adscripción de jueces se considerarán los siguientes elementos:
+Tratándose del cambio de adscripción de jueces, se considerarán los siguientes elementos:
 
 I. Los cursos de enseñanza y capacitación que hayan realizado;
 
@@ -2481,11 +2477,15 @@ II. La antigüedad en el Poder Judicial del Estado;
 
 III. El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
 
-IV. Los resultados de las visitas de inspección; y
+IV. Los resultados de las visitas de Inspección;
 
-V. La disciplina y desarrollo profesional.
+V. La disciplina y el desarrollo profesional;
 
-El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo General del Poder Judicial del Estado en que se acuerde un cambio de adscripción.
+VI. El número de resoluciones confirmadas por las Salas del Supremo Tribunal de Justicia; y
+
+VII. La cantidad de resoluciones dictadas que resulten infundadas o notoriamente improcedentes o innecesarias, contrarias a lo dispuesto por las leyes procesales o tendientes a retardar el procedimiento, aunque no sean tendientes a favorecer a alguna de las partes.
+
+El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo de la Judicatura en que se acuerde un cambio de adscripción.
 
 ###### Artículo 192.
 
@@ -3444,3 +3444,9 @@ Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al pre
 Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
 
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
+
+P.O. 31 DE JULIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
