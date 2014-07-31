@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-04-08"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1283,9 +1283,9 @@ XIV. bis. (DEROGADA, P.O. 28 DE FEBRERO DE 2004)
 
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
-XVI. Las transmisiones que se realicen mediante actos o contratos objeto de este impuesto, por personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la leye (sic) de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto, o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
+XVI. Las transmisiones que se realicen mediante actos o contratos objeto de este impuesto, por personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Territorial, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en las leyes de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto, o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
 
 Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
@@ -1341,11 +1341,11 @@ XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas,
 
 El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa o tarifa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2014)</small>
 
 ###### Art. 116.
 
-El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de Finanzas del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
+El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de Planeación, Administración y Finanzas del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
@@ -1555,9 +1555,9 @@ d) La realización de actos o contratos, cuando su objeto sea la construcción, 
 
 2. Se entiende por vivienda popular aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
-VII. Las personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la ley de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
+VII. Las personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Territorial, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la ley de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
 
 Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
@@ -2759,11 +2759,11 @@ VIII. El depositario interventor que tuviere conocimiento de irregularidades en 
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2014)</small>
 
 ###### Art. 276.
 
-El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la propiedad y del Comercio y en la Dirección de Catastro de la Secretaría de Finanzas del Estado.
+El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro de la Secretaría de Planeación, Administración y Finanzas del Estado.
 
 La inscripción en la última Dependencia se verificará, cuando no se encuentren registrados los bienes en la primera. Cuando los bienes raíces o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad y del Comercio, o Delegaciones de Catastro, en todas ellas se inscribirá el secuestro.
 
@@ -3610,3 +3610,7 @@ P.O. 23 DE AGOSTO DE 2012.
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
