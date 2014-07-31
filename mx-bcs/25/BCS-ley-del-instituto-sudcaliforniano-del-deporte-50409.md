@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-del-deporte-50409"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-30"
-last_updated: "2012-12-31"
+last_updated: "2014-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de abril de 2006.
 
@@ -233,7 +235,7 @@ XIV. Administrar todas aquellas instalaciones deportivas de su competencia de ac
 
 XV. Nombrar, suspender, remover, en su caso, a los trabajadores que presten sus servicios en el Instituto, cuya designación no esté a cargo de la Junta de Gobierno;
 
-XVI. Imponer las medidas disciplinarias que se establezcan en el Reglamento Interior de acuerdo con la Ley de las Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, que sean necesarias para el buen funcionamiento de la institución; y (sic)
+XVI. Imponer las medidas disciplinarias que se establezcan en el Reglamento Interior de acuerdo con la Ley de las Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, que sean necesarias para el buen funcionamiento de la institución; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE AGOSTO DE 2007)</small>
 
@@ -324,3 +326,33 @@ B.O. 10 DE ENERO DE 2012.
 B.O. 31 DE DICIEMBRE DE 2012.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente al de publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que establece la Unión Deportiva Estatal depositada en el Decreto número 78 de fecha 4 de octubre de 1977, así como Ley de Fomento y Estímulo del Deporte para el Estado de Baja California Sur, de fecha 20 de junio de 1995, publicada a través del Decreto número 1045 reformada mediante Decreto número 1675 de fecha 21 de junio de 2007, así como la Ley del Instituto Sudcaliforniano del Deporte, creada mediante Decreto número 1612 publicada el 30 de abril de 2006 y reformada por los Decretos números 1675 de fecha 21 de junio de 2007 y 1959 de fecha 6 de diciembre de 2011, en el Boletín Oficial del Estado y todas aquellas disposiciones que se contravengan a la presente Ley.
+
+El organismo público rector del deporte dependiente del Poder Ejecutivo, creado mediante el Decreto 1612 y que se publicó el 30 de abril de 2006 y reformado por los Decretos 1675 de fecha 21 de junio de 2007 y 1959, de fecha 6 de diciembre de 2011 en el Boletín Oficial del Gobierno del Estado, desarrollará las nuevas funciones con los recursos humanos, materiales y presupuestales necesarios, que deberán ser previstos en el Presupuesto de Egresos para el Ejercicio Fiscal 2015.
+
+El titular del Instituto continuará en su encargo hasta en tanto el Gobernador del Estado realice el proceso de ratificación o nombramiento en términos de lo dispuesto en el Artículo 25 de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente Ley, deberá expedirse dentro de un plazo no mayor a 120 días siguientes, a la fecha en que ésta entre en vigencia.
+
+###### ARTÍCULO CUARTO.
+
+Una vez expedido y publicado en el Boletín Oficial del Gobierno del Estado el Reglamento de la presente Ley, corresponderá al Ejecutivo del Estado, en un plazo no mayor de 30 días, crear la Junta Directiva como órgano de gobierno del Instituto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la CEAAD. Asimismo, proporcionará anualmente los recursos presupuestales para el desempeño de sus actividades.
+
+###### ARTÍCULO SEXTO.
+
+Para los efectos de la integración y actualización del Registro Estatal de Cultura Física y Deporte, de conformidad con el artículo 22, fracción XI de la Ley, las Asociaciones Deportivas Estatales reconocidas en los términos de la presente Ley, deberán acreditar en un plazo no mayor de ciento ochenta días naturales, que cumplen con lo dispuesto en el artículo 72 de esta Ley.
