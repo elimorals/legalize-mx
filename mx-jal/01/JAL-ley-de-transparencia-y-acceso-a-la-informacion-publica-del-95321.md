@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2013-08-08"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -333,9 +333,17 @@ k) La integración, la regulación básica y las actas de las reuniones de los c
 
 l) Los informes trimestrales y anuales de actividades del sujeto obligado, de cuando menos los últimos tres años;
 
-VII. Los mecanismos e instrumentos de participación ciudadana que puedan acceder o ejercer ante el sujeto obligado, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
-VIII. La información pública ordinaria que considere el sujeto obligado, por sí o a propuesta del Instituto.
+VII. Los mecanismos e instrumentos de participación ciudadana que puedan acceder o ejercer ante el sujeto obligado;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+
+VIII. La información pública ordinaria que considere el sujeto obligado, por sí o a propuesta del Instituto; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2014)</small>
+
+IX. La demás información pública a que obliguen las disposiciones federales, así como aquella que se genere por la ejecución del gasto público con recursos federales.
 
 2. La publicación de información fundamental debe realizarse con independencia de su publicación oficial y debe reunir los requisitos de claridad, calidad, veracidad, oportunidad y confiabilidad.
 
@@ -2748,3 +2756,9 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
