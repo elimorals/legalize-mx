@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2014-04-08"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -773,13 +773,17 @@ XIII. REGULAR LOS PROCEDIMIENTOS INTERNOS, PARA LA ADQUISICIÓN DE BIENES O LA C
 
 XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
-XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
-XVI. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XVI Establecer los mecanismos para el debido cumplimiento de las disposiciones en materia de transparencia gubernamental; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2014)</small>
+
+XVI (SIC). Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 ###### Artículo 38.
 
@@ -809,7 +813,7 @@ Tratándose de la asociación de los municipios de dos o más Estados, deben con
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
-VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y (sic)
+VII. Señalar las garantías que en su caso deban otorgar los servidores públicos municipales que designe, para responder por el ejercicio de sus funciones; y
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
@@ -1513,7 +1517,9 @@ LOS CONVENIOS DEBEN SER SUSCRITOS POR EL AYUNTAMIENTO REPRESENTADO POR EL PRESID
 
 Además de los ingresos que forman parte de la Hacienda Municipal, los municipios percibirán las aportaciones federales para fines específicos que a través de los diferentes fondos establezcan el presupuesto de egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
-El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
+
+El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal, y deberá cumplir con las disposiciones en materia de transparencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2201,7 +2207,7 @@ II. Las personas jurídicas que tengan funciones de representación ciudadana y 
 
 III. CORRESPONDE AL AYUNTAMIENTO ESTABLECER LOS LÍMITES DE LA COLONIA, BARRIO, ZONA O CENTRO DE POBLACIÓN QUE CONSTITUYAN EL ÁMBITO TERRITORIAL DONDE LAS FORMAS DE ORGANIZACIÓN CIUDADANA Y VECINAL EJERCEN SUS ATRIBUCIONES, ESCUCHANDO LA OPINIÓN DE LOS VECINOS EN LOS TÉRMINOS DE LA REGLAMENTACIÓN DE LA MATERIA;
 
-IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal; y (sic)
+IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal; y
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2904,3 +2910,7 @@ P.O. 11 DE MARZO DE 2014.
 P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
