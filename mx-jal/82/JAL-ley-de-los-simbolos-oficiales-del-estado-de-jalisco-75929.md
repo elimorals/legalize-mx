@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-simbolos-oficiales-del-estado-de-jalisco-75929"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-07"
-last_updated: "2010-08-07"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE LOS SIMBOLOS OFICIALES DEL ESTADO DE JALISCO
 
-LEY DE LOS SIMBOLOS OFICIALES DEL ESTADO DE JALISCO
+LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de agosto de 2010.
 
@@ -39,13 +39,13 @@ LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO
 
 ### Capítulo I. Disposiciones Generales
 
-###### Articulo 1.
+###### Artículo 1.
 
 Objeto de la ley
 
 1. Esta ley tiene por objeto establecer las características, y regular el uso, difusión y reproducción de los símbolos oficiales del Estado de Jalisco.
 
-###### Articulo 2.
+###### Artículo 2.
 
 Símbolos oficiales
 
@@ -57,7 +57,7 @@ Validación de los símbolos oficiales
 
 1. Los símbolos oficiales deben validarse con la firma del Gobernador del Estado, el Presidente del Congreso del Estado y el Presidente del Supremo Tribunal de Justicia del Estado; y depositarse en el Archivo Histórico del Estado y en la Biblioteca Pública del Estado.
 
-###### Articulo 4.
+###### Artículo 4.
 
 Reproducción de los símbolos oficiales
 
@@ -65,7 +65,7 @@ Reproducción de los símbolos oficiales
 
 2. Los honores a la bandera y la entonación del himno estatales serán posteriores a los correspondientes a la bandera e himno nacionales.
 
-###### Articulo 5.
+###### Artículo 5.
 
 Atribuciones de las autoridades
 
@@ -92,6 +92,14 @@ Obligaciones de las instituciones educativas
 I. Instruir sobre el conocimiento, significado, valor y respeto de los símbolos oficiales; y
 
 II. Rendir honores a la Bandera del Estado y entonar el Himno del Estado al inicio y fin de cursos, y el primer día laboral de cada semana del calendario oficial, posterior a rendir honores a la Bandera Nacional y entonar el Himno Nacional.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2014)</small>
+
+###### Artículo 6 Bis.
+
+Obligaciones de los Poderes del Estado y los Ayuntamientos.
+
+1. En las ceremonias oficiales de los tres poderes del Estado y los ayuntamientos debe rendirse honores a la Bandera del Estado y entonar el Himno del Estado, posterior a rendir honores a la Bandera Nacional y entonar el Himno Nacional.
 
 ### Capítulo II. Escudo del Estado
 
@@ -285,7 +293,7 @@ III. Utilizar el Himno del Estado para fines publicitarios, comerciales o de ín
 
 ### Capítulo V. Responsabilidades
 
-###### Articulo 16.
+###### Artículo 16.
 
 Infracciones
 
@@ -350,3 +358,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
