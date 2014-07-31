@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2014-02-22"
+last_updated: "2014-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -41,13 +41,13 @@ LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Titular del Poder Ejecutivo del Estado a través de la Secretaría de Planeación, Administración y Finanzas.
+La presente Ley tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Titular del Poder Ejecutivo del Estado a través de la Secretaría de Planeación, Administración y Finanzas.
 
-De igual forma, el Titular del Poder Ejecutivo Estatal, por conducto de dicha Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley.
+De igual forma, el Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley, lo anterior de conformidad con las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
@@ -113,13 +113,17 @@ IV. Los organismos públicos autónomos, que expresamente reconoce la Constituci
 
 El gasto público deberá ejercerse con criterios de perspectiva de género.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
+
 ###### Artículo 6.
 
-La Contabilidad Gubernamental comprende la captación y registro de todas las operaciones de activos, pasivos, patrimonio, ingresos y gastos, así como las asignaciones y ejercicios correspondientes a los programas y partidas del Presupuesto del Gobierno del Estado, que realicen las Dependencias y Entidades sujetas a esta Ley, la Contabilidad Gubernamental tendrá las siguientes finalidades:
+La Contabilidad Gubernamental comprende la captación y registro de todas las operaciones de activos, pasivos, patrimonio, ingresos y gastos, así como las asignaciones y ejercicios correspondientes a los programas y partidas del Presupuesto del Gobierno del Estado; que realicen las Dependencias y Entidades sujetas a esta Ley, la Contabilidad Gubernamental tendrá las siguientes finalidades:
 
-I. La elaboración de la cuenta pública para su presentación al Congreso del Estado y la sustentación de la información que requieran los Organos de Control Gubernamental sobre el destino y manejo del Gasto Público; y
+I. La elaboración de la cuenta pública para su presentación al Congreso del Estado y la sustentación de la información que requieran los Órganos de Control Gubernamental sobre el destino y manejo del Gasto Público;
 
-II. Proporcionar información para la evaluación de los programas autorizados, así como para la planeación y programación futura.
+II. Proporcionar información para la evaluación de los programas autorizados, así como para la planeación y programación futura; y
+
+III. Establecer mecanismos para el debido cumplimiento de las disposiciones en materia de transparencia gubernamental.
 
 ###### Artículo 7.
 
@@ -1156,3 +1160,7 @@ SEGUNDO. Lo previsto en el artículo 29-Bis que se adiciona mediante este decret
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
