@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2013-12-20"
+last_updated: "2014-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 503 QUE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTRADO DE GUERRERO, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO SEGUNDO DE DICHA DECLARATORIA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -1868,3 +1870,53 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 31 DE JULIO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 503 QUE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTRADO DE GUERRERO.</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se declara que el Sistema Procesal Penal Acusatorio, previsto en el Decreto publicado en el Diario Oficial de la Federación el 18 de junio de 2008, mediante el cual se reformaron los artículos 16, párrafos segundo y décimo tercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos, ha sido incorporado a la Constitución Política del Estado Libre y Soberano de Guerrero y las leyes secundarias estatales correspondientes y, en consecuencia, los derechos y garantías que consagra la Constitución federal empezarán, a regular la forma y términos en que se sustanciarán los procedimientos penales, de conformidad con lo que establece el siguiente artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se declara que el Código Nacional de Procedimientos Penales entrará en vigor en el Estado de Guerrero, de manera gradual, para todos los delitos tipificados en el Código Penal y los delitos previstos en leyes especiales, por Distritos Judiciales del Estado, de acuerdo a las prevenciones siguientes:
+
+I. 30 de septiembre de 2014: en los Distritos Judiciales de HIDALGO, ALDAMA y ALARCÓN, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de IGUALA DE LA INDEPENDENCIA.
+
+II. 3 de marzo de 2015: en los Distritos Judiciales de AZUETA y MONTES DE OCA, siendo sede para el desahogo de las audiencias procedimentales la ciudad de ZIHUATANEJO DE AZUETA.
+
+III. 3 de abril de 2015: en el Distrito Judicial de GALEANA, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de TECPAN DE GALEANA.
+
+IV. 3 de Mayo de 2015, en los Distritos Judiciales de ABASOLO, ALLENDE, y ALTAMIRANO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de OMETEPEC.
+
+V. 5 de agosto de 2015: en los Distritos Judiciales de MORELOS, LA MONTAÑA y ZARAGOZA, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de TLAPA DE COMONFORT.
+
+VI. 8 de octubre de 2015: en los Distritos Judiciales de LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
+
+VII. 20 de mayo de 2016: en los Distritos Judiciales de MINA y CUAUHTÉMOC, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ARCÉLIA.
+
+VIII. 1 de junio de 2016: en el Distrito Judicial de TABARES, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ACAPULCO.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 503 QUE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTRADO DE GUERRERO.</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo establecido en el ARTÍCULO SEGUNDO de esta declaratoria, quedará abrogado el Código de Procedimientos Penales para el Estado de Guerrero, Número 357, publicado en el Periódico Oficial del Gobierno del Estado de fecha 5 de febrero de 1993.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados antes de la entrada en vigor del Código Nacional de Procedimientos Penales, se tramitarán y concluirán conforme lo establece y ordena el Código de Procedimientos Penales para el Estado de Guerrero, número 357, publicado en el Periódico Oficial del Gobierno del Estado de fecha 5 de febrero de 1993.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Guerrero; Legislativo, Ejecutivo y Judicial de las Entidades Federativas y del Distrito Federal, y a todas aquellas que le resulte su observancia obligatoria, así como a los Ayuntamientos del Estado de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
