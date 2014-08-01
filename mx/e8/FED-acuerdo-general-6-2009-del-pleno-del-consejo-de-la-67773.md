@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-6-2009-del-pleno-del-consejo-de-la-67773"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-30"
-last_updated: "2013-05-29"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-18"
 
 ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2009.
 
@@ -135,13 +135,23 @@ XXIII. Testigo Social: Es quien actúa en representación honorífica de la soci
 
 NATURALEZA DE LOS CONTRATOS. Los contratos que celebre el Consejo en el marco del presente Acuerdo son de carácter administrativo, destinados a satisfacer las necesidades del Poder Judicial de la Federación, para el debido cumplimiento de las funciones encomendadas al Consejo por la Constitución General y por la Ley, y por tanto, su naturaleza se considera de interés público.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
-Podrán celebrarse convenios de adjudicación o contratos con las dependencias o entidades de la Administración Pública Federal, del Distrito Federal, de Entidades Federativas o Municipales, en forma directa, siempre y cuando de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. La autorización de la adjudicación del convenio a suscribirse será responsabilidad del Comité, quien informará de la misma a la Comisión.
+Podrán celebrarse convenios de adjudicación o contratos con los entes públicos siguientes:
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+I. Dependencias o entidades de las administraciones públicas federal, estatal, del Distrito Federal y municipal;
 
-Cuando por disposiciones normativas los entes públicos con quienes se contrate no puedan suscribir convenios en los que se pacten garantías o penas convencionales, entre otras de la misma naturaleza, se les exceptuará de su inclusión en el instrumento jurídico que corresponda, independientemente de salvaguardar los intereses del Consejo.
+II. Instituciones o corporaciones públicas; y
+
+III. Órganos u organismos y cualquier otro ente: del Estado, nacional, federal, estatal, municipal y del Distrito Federal.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+La celebración será en forma directa siempre que de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos; y lo autorice el Comité, quien lo informará a la Comisión.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente que se suscriba, sin perjuicio de salvaguardar los intereses del Consejo.
 
 ###### ARTICULO 4.
 
@@ -405,13 +415,15 @@ En los supuestos de esta fracción deberán comunicar los titulares de las Admin
 
 SERVIDORES PUBLICOS FACULTADOS PARA SUSCRIBIR LOS CONTRATOS. La competencia de los servidores públicos para suscribir los contratos objeto del presente Acuerdo a nombre del Consejo, se determinará conforme a lo siguiente:
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
-I. En caso de que el contrato se haya adjudicado mediante el procedimiento de licitación pública, de invitación a cuando menos tres proveedores o contratistas, o bien, de adjudicación directa pero el monto de la contratación se ubique en los parámetros que correspondan para licitación pública o invitación, será signado por el Secretario de Administración y por el titular del área de adquisiciones o de obras según corresponda; y
+I. En caso que el contrato se haya adjudicado mediante el procedimiento de licitación pública, concurso público sumario, invitación a cuando menos tres proveedores o contratistas, o bien, adjudicación directa pero el monto de la contratación se ubique en los parámetros que correspondan para licitación pública o invitación, aquél será signado por el Secretario de Administración y por el titular del área de adquisiciones o de obras según corresponda; y
 
 II. En caso de que el contrato se haya asignado mediante el procedimiento de adjudicación directa y el monto de la operación se encuentra dentro del parámetro fijado por el Consejo para adjudicación directa, será firmado únicamente por el titular del área operativa que corresponda.
 
-Los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios podrán autorizar y suscribir las adjudicaciones de contratos que correspondan, así como los pedidos o las órdenes de trabajo que se deriven de aquéllos, conforme a los montos establecidos en las Políticas y Lineamientos para el Ejercicio Desconcentrado del Presupuesto de Egresos del Consejo de la Judicatura Federal, correspondiente al ejercicio de que se trate, aprobado por el Pleno.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+Los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios podrán suscribir los contratos que correspondan conforme a los parámetros y montos autorizados por el Consejo. Dichos contratos incluyen pedidos y órdenes de trabajo o de servicio.
 
 ### CAPITULO III. DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PUBLICA Y SERVICIOS
 
@@ -991,7 +1003,7 @@ f. Los proveedores o contratistas que contraten servicios de asesoría, consulto
 
 g. Los proveedores o contratistas que se encuentren en situación de retraso en las entregas de los bienes, en la prestación de los servicios o el avance de obra, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Consejo, siempre y cuando éstos últimos, por tal motivo, hayan resultado gravemente perjudicados, lo que calificará la instancia competente;
 
-h. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado; e (sic)
+h. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado; e
 
 i. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables.
 
@@ -1301,6 +1313,10 @@ XV. Información específica sobre las partes de los trabajos que podrán subcon
 
 XVI. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de conclusión, así como el día estimado de inicio de éstos;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+XVI BIS. Los supuestos en que podrán autorizarse modificaciones a los plazos para el cumplimiento de obligaciones contractuales, así como los requisitos que deban observarse;
+
 XVII. Modelo de contrato al que se sujetarán las partes, diferenciando los de obras y los de servicios;
 
 XVIII. Las condiciones de pago;
@@ -1375,7 +1391,9 @@ XIX. En su caso, términos y condiciones a que deberá ajustarse la participaci�
 
 XX. Las condiciones de precio, en las que se precisará si se trata de precios fijos o variables hasta la total extinción de las obligaciones;
 
-XXI. Los casos en que podrán otorgarse prórrogas para el cumplimiento de las obligaciones contractuales y los requisitos que deberán observarse;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+XXI. Los supuestos en que podrán autorizarse modificaciones a los plazos para el cumplimiento de las obligaciones contractuales así como los requisitos que deban observarse;
 
 XXII. Las causales para la rescisión de los contratos, en los términos previstos en el artículo 167 de este Acuerdo;
 
@@ -1597,7 +1615,9 @@ CANCELACION DE LA LICITACION. El titular del Area de Adquisiciones o de Obras, s
 
 a) Por caso fortuito o fuerza mayor;
 
-b) Cuando existan circunstancias debidamente justificadas que extingan la necesidad para adquirir o arrendar los bienes, servicios de que se trate, o la contratación de obra pública, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo; o
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+b) Cuando existan circunstancias debidamente justificadas que modifiquen o extingan la necesidad para adquirir o arrendar los bienes, servicios de que se trate, o la contratación de obra pública, y que de continuarse con el procedimiento pudiera ocasionar un daño o perjuicio al Consejo; o
 
 c) Por causas de interés general.
 
@@ -2121,15 +2141,19 @@ VI. En aquellas adjudicaciones en las que a juicio del Area operativa que corres
 
 Para los efectos indicados en la última parte del párrafo anterior, Asuntos Jurídicos elaborará y mantendrá actualizados los modelos de pedidos y órdenes de trabajo, que contengan las disposiciones necesarias que garanticen el cumplimiento de las obligaciones a cargo de los proveedores o contratistas, los cuales previamente a su aplicación deberán ser aprobados por el Comité, de conformidad con lo dispuesto por el artículo 21, fracción IX, de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 115.
 
-MODIFICACION. El Secretario de Administración podrá, dentro de su presupuesto aprobado y disponible, dentro de la vigencia del contrato, bajo su responsabilidad y por razones fundadas y explícitas, acordar el incremento del monto del contrato o de la cantidad de bienes, obra pública, arrendamientos o servicios solicitados mediante modificaciones a sus contratos vigentes, siempre que no rebasen, en conjunto, el veinte por ciento del monto o cantidad de los conceptos o volúmenes establecidos originalmente en los mismos y el precio de los bienes, arrendamientos o servicios sea igual al pactado originalmente.
+MODIFICACIÓN. El servidor público facultado para suscribir el contrato en términos del artículo 18 de este Acuerdo podrá, dentro del presupuesto aprobado y disponible, durante la vigencia del contrato, bajo su responsabilidad y por razones fundadas y explícitas, acordar el incremento del monto del contrato; de cantidad de bienes, obra pública, arrendamientos o servicios solicitados; así como los plazos de cumplimiento, mediante modificaciones a sus contratos vigentes, siempre que no rebasen, en conjunto, el veinte por ciento del monto o cantidad de los conceptos o volúmenes establecidos originalmente en los mismos, o bien de los plazos estipulados; y el precio de los bienes, arrendamientos o servicios sea igual al pactado originalmente.
 
-En caso de que se requiera por razones extraordinarias de una modificación mayor, ésta será sometida a la autorización del Comité y por ningún motivo podrá ser superior al treinta por ciento del total del monto contratado.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
-De igual manera, no podrá modificarse por más de una vez un contrato.
+En caso de que se requiera por razones extraordinarias de una modificación mayor, ésta será sometida a la autorización del Comité y por ningún motivo podrá ser superior al treinta por ciento del total del monto, cantidad o plazos contratado.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+Cuando la modificación incida únicamente en los plazos en materia de obra o servicios relacionados con la misma, y dicha modificación sea superior a ese porcentaje del treinta por ciento, el Comité podrá autorizarla informando de ello a la Comisión.
 
 Tratándose de contratos en los que se incluyan dos o más partidas, el porcentaje al que hace referencia el párrafo anterior, se aplicará para cada una de ellas.
 
@@ -2137,7 +2161,13 @@ Cuando los proveedores, contratistas y prestadores de servicios demuestren la ex
 
 Cualquier modificación a los contratos deberá formalizarse por escrito por parte de las áreas operativas responsables, los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato o quien lo sustituya o esté facultado para ello.
 
-El Secretario de Administración y los titulares del área de adquisiciones o de Obras, según corresponda, se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente y a modificar un contrato cuya vigencia haya expirado.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+El servidor público facultado para suscribir el contrato se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones –salvo el supuesto del párrafo siguiente- y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor o contratista, comparadas con las establecidas originalmente y a modificar un contrato cuya vigencia haya expirado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+La modificación de especificaciones técnicas de bienes o condiciones en la prestación de servicios sólo será procedente en los casos en que resulte beneficiado el Consejo, con aprobación del Comité previo dictamen favorable del área requirente y, en su caso, de la Dirección General de Tecnologías de la Información; esto, siempre que se respeten las condiciones de precio, calidad y demás que se hayan pactado originalmente y no se altere el objeto del contrato.
 
 ### CAPITULO III. ANTICIPOS
 
@@ -2495,7 +2525,9 @@ GARANTIA DE CUMPLIMIENTO. Para el cumplimiento de las obligaciones a cargo de lo
 
 La garantía de cumplimiento deberá presentarse, como máximo, dentro de los cinco días hábiles siguientes a la fecha de firma del contrato. En caso contrario, el Consejo podrá rescindir el contrato y lo asignará conforme a lo dispuesto por el artículo 80 y 114 de este Acuerdo.
 
-La garantía deberá permanecer vigente hasta el cumplimiento total del objeto del contrato, incluyendo, en su caso, la prórroga o espera que se autorice. El área operativa que corresponda, deberá expresar por escrito la procedencia de la devolución y cancelación de la misma.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+La garantía deberá permanecer vigente hasta el cumplimiento total del objeto del contrato, incluyendo, en su caso, la modificación del plazo que se autorice. En su oportunidad, el área operativa que corresponda, deberá expresar por escrito la procedencia de la devolución y cancelación de la misma.
 
 Podrá exceptuarse a los contratistas de presentar la garantía del cumplimiento en los siguientes casos:
 
@@ -2509,7 +2541,9 @@ III. A juicio del Comité así resulte conveniente a los intereses del Consejo o
 
 GARANTIA EN LA APLICACION DE ANTICIPOS. En caso de que se haya autorizado otorgar anticipos, previamente a su recepción, los proveedores o contratistas, deberán constituir garantía equivalente al cien por ciento del anticipo, para garantizar su debida aplicación o, en su caso, la devolución del importe recibido. Dicha garantía deberá presentarse, como máximo, dentro de los diez días hábiles siguientes a la fecha de firma del contrato.
 
-La garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo de acuerdo a las disposiciones legales aplicables, permanecerá vigente hasta la amortización total del mismo y deberá contener la indicación expresa de que el otorgante acepta continuar garantizando el monto cubierto para el caso de que se concedan prórrogas o esperas al proveedor.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+La garantía deberá constituirse en la misma moneda en la que se otorgue el anticipo de acuerdo a las disposiciones legales aplicables, permanecerá vigente hasta la amortización total del mismo y deberá contener la indicación expresa de que el otorgante acepta continuar garantizando el monto cubierto para el caso de que se autoricen modificaciones de los plazos de cumplimiento, al proveedor.
 
 Para liberar la garantía relativa a la debida inversión del anticipo, el Area Operativa que corresponda deberá manifestar su conformidad por escrito, en virtud de haber sido totalmente amortizado el anticipo otorgado.
 
@@ -2627,9 +2661,13 @@ NULIDAD DE LOS CONTRATOS. La ilegalidad de los contratos sobrevendrá en virtud 
 
 Cuando se determine la nulidad total de un contrato por causas únicamente imputables al Consejo, a solicitud del proveedor o contratista se cubrirán los gastos no recuperables, los cuales se ajustarán a los conceptos enunciados en este Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 166.
 
-INFORME DE INCUMPLIMIENTO. En caso de incumplimiento en las obligaciones a cargo de los proveedores y contratistas el Area Operativa que corresponda deberá presentar al Comité un informe en el que proponga las acciones a tomar, el cual deberá incluir la opinión que al respecto emita Asuntos Jurídicos, a fin de que se instruya el procedimiento correspondiente.
+INFORME DE INCUMPLIMIENTO. En caso de incumplimiento en las obligaciones a cargo de los proveedores y contratistas el Área Operativa que corresponda deberá presentar al Comité un informe en el que proponga las acciones a tomar, a fin de que se instruya el procedimiento correspondiente.
+
+El informe a que se refiere el párrafo anterior deberá especificar las circunstancias de tiempo, modo y ocasión del incumplimiento.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -2637,17 +2675,29 @@ INFORME DE INCUMPLIMIENTO. En caso de incumplimiento en las obligaciones a cargo
 
 RESCISION ADMINISTRATIVA DE LAS RELACIONES CONTRACTUALES. En caso de incumplimiento de las obligaciones a cargo del proveedor o contratista por causas imputables a él, el Comité podrá determinar de manera unilateral la rescisión administrativa de las relaciones contractuales celebradas al tenor de este Acuerdo, sin necesidad de declaración judicial.
 
-No obstante, a solicitud debidamente justificada por escrito que formule el proveedor o contratista, el Comité podrá autorizar la prórroga o espera a fin de que subsane el incumplimiento en que haya incurrido.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
-En caso de ser autorizada la prórroga o espera al proveedor o contratista, se elaborará un convenio modificatorio con la participación de Asuntos Jurídicos, debiéndose verificar que la garantía presentada respecto del cumplimiento de las obligaciones continúe vigente o se otorgue una nueva para garantizar los términos de dicho convenio.
+No obstante lo previsto en el párrafo anterior, a solicitud debidamente justificada por escrito que formule el proveedor o contratista, el Comité podrá autorizar que se modifiquen las obligaciones contraídas originalmente, así como los plazos respectivos, a fin de que cumpla con las mismas. Lo anterior, sin perjuicio de que dicho órgano se pronuncie sobre la aplicación de las penas que, en su caso, procedan. En todo caso se deberá observar lo dispuesto en el artículo 115 de este Acuerdo y demás disposiciones aplicables.
 
-Si no se autoriza la prórroga o espera, o si una vez concluida persiste el incumplimiento, procederá la rescisión y aplicación de las penas establecidas en los contratos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+En caso de ser autorizada la modificación al proveedor o contratista, se elaborará un convenio modificatorio con la participación de Asuntos Jurídicos, debiéndose verificar que la garantía presentada respecto del cumplimiento de las obligaciones continúe vigente o se otorgue una nueva para garantizar los términos de dicho convenio.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+Si no se autoriza la modificación o si autorizada persiste incumplimiento, en todo caso deberá iniciarse procedimiento de rescisión y la aplicación de las penas establecidas en los contratos.
 
 El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
 
-I. Se iniciará a partir de que el Area Operativa que corresponda comunique por escrito al proveedor o contratista el incumplimiento en que haya incurrido, para que en un término de quince días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
-II. Transcurrido el término a que se refiere la fracción anterior, el Area Operativa que corresponda propondrá al Comité la resolución de la rescisión administrativa acompañando los elementos, documentación y pruebas que en su caso se hubieren hecho valer; y
+I. Se iniciará a partir de que el Área Operativa que corresponda comunique por escrito al proveedor o contratista el incumplimiento en que haya incurrido, para que en un término de tres días hábiles exponga lo que a su derecho convenga, y presente, en su caso, las pruebas idóneas que estime pertinentes.
+
+Tratándose de prueba pericial deberá presentarse, dentro de dicho término, con el dictamen correspondiente;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
+
+II. Transcurrido el término a que se refiere la fracción anterior, el Área Operativa que corresponda propondrá al Comité para su consideración y, en su caso, aprobación, la resolución de rescisión administrativa acompañando los elementos, documentación y pruebas que en su caso se hubieren hecho valer; y
 
 III. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al proveedor o contratista.
 
@@ -3178,3 +3228,9 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para
 TERCERO. Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
 
 CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 6/2009, del Pleno del Consejo de la Judicatura Federal, que establece las bases para que las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 1 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
