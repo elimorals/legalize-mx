@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-07-18"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 1 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 254 PUBLICADO EN LA G.G. DE 11 DE JULIO DE 2014.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
