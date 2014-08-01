@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2014-07-04"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -859,13 +859,17 @@ En la impartición de la educación para menores de edad se tomarán medidas que
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-Cada escuela que imparta educación básica y educación media superior en el Sistema Educativo Estatal y Municipal, deberá de contar con un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencíe problemas de aprendizaje, maltrato físico, psicoemocional o presenten conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o estrés postraumático. De igual manera el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada e integral.
+Por cada tres zonas que comprenden las escuelas pertenecientes a la educación básica y educación media superior en el Sistema Educativo Estatal, deberá existir un área especializada en psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencié problemas de aprendizaje, maltrato físico, psicoemocional, o presentan conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral, así como cualquier trauma o stress postraumático. De igual manera en el área especializada en psicología deberá de ofrecer asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los educandos dentro de los planteles regulares de una manera colegiada o integral.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-El cabal cumplimiento de esta disposición estará sujeto a la planeación y disponibilidad presupuestaria.
+El cabal cumplimiento de esta disposición estará sujeta a la planeación o disposición presupuestaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los psicólogos y demás personal que se contrate para desempeñarse en las áreas especializadas en psicología tendrán la categoría de trabajadores de confianza adscritos a la Secretaría de Educación y Bienestar Social y al Instituto de Servicios Educativos y Pedagógicos de Baja California. En media superior estarán adscritos a los organismos descentralizados de que se trate.
 
 ###### ARTICULO 36.
 
@@ -1964,3 +1968,7 @@ SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 d
 TERCERO.- La reforma al artículo 29 de esta ley, relativa a la creación de la unidad administrativa especializada en idioma inglés, y personal humano adscrito a la misma, entrará en vigor a partir del calendario escolar correspondiente al ciclo 2017-2018.
 
 CUARTO.- El Ejecutivo del Estado deberá establecer dentro de sus Proyectos de Presupuestos de Egresos para los próximos ejercicios fiscales, las partidas presupuestales que permitan garantizar la impartición permanente en esta entidad de la educación básica del idioma inglés, acorde a lo previsto en el artículo Segundo transitorio.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
