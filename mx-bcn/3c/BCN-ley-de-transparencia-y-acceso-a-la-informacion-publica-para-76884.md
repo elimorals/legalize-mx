@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-01"
-last_updated: "2013-10-04"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
 
@@ -61,11 +61,13 @@ IV.- Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obl
 
 V.- Promover la cultura de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 3.
 
-La información generada, administrada o en posesión de los sujetos obligados, se considera un bien del dominio público, por lo que cualquier persona tendrá acceso a la misma en los términos y con las excepciones que esta Ley señala. Su reglamento no podrá establecer más excepciones que las previstas en este ordenamiento.
+La información generada, administrada o en posesión de los sujetos obligados, se considera un bien de dominio público, por lo que cualquier persona tendrá acceso a la misma en los términos y con las excepciones que esta Ley señala. Su reglamento no podrá establecer más excepciones que las previstas en este ordenamiento.
 
-La información que proporcionen los sujetos obligados, deberá reunir los requisitos de claridad, calidad, veracidad, oportunidad y confiabilidad.
+La información que proporcionen los sujetos obligados, deberá entregarse de manera clara, confiable, oportuna y redactada de manera sencilla y de fácil comprensión para la persona.
 
 ###### Artículo 4.
 
@@ -155,9 +157,11 @@ El Órgano Garante promoverá la cultura de la transparencia y el derecho de acc
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN DE OFICIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 11.
 
-Los sujetos obligados deberán, de oficio, poner a disposición del público, la siguiente información:
+Los sujetos obligados deberán, de oficio, poner a disposición del público en sus portales, la siguiente información:
 
 I.- Sus facultades y los indicadores de gestión utilizados para evaluar su desempeño, metas y objetivos de sus programas operativos;
 
@@ -181,7 +185,13 @@ VI.- El directorio de servidores públicos, desde el nivel de jefe de departamen
 
 VII.- Plantilla del personal indicando el nombre, puesto, adscripción, remuneración mensual que considere prestaciones, estímulos o compensaciones y cualquier otra percepción en dinero o en especie, de todos los servidores públicos de los sujetos obligados, incluyendo a sus titulares;
 
-VIII.- Respecto del presupuesto de egresos aprobado, por programas, grupos y partidas de gastos, y los informes sobre su ejecución; así como de la situación financiera y en su caso, respecto a la deuda pública;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VIII.- Respecto del presupuesto de egresos:
+
+a) Se presentará de manera detallada en los términos y formato en el que fue aprobado, agrupándolo por programas, grupos, partidas de gastos, informes sobres (sic) su ejecución; así como de la situación financiera y en su caso, respecto a la deuda pública;
+
+b) Se presentará en el formato de Presupuesto Ciudadano previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado; debiendo contener de manera generalizada, toda la información relativa al ejercicio del gasto así como del origen y objeto de los recursos públicos. La información contenida deberá ser expuesta de manera sencilla y de fácil comprensión para el ciudadano no familiarizado con términos contables o administrativos.
 
 IX.- Las enajenaciones de bienes que realicen por cualquier titulo o acto, indicando los motivos, beneficiarios o adquirientes, y los montos de las operaciones;
 
@@ -583,7 +593,9 @@ Las Unidades de Transparencia deberán:
 
 I.- Recibir, tramitar y dar seguimiento a las solicitudes de acceso a la información pública y de acceso a los datos personales;
 
-II.- Entregar al solicitante la información requerida o, en su caso, el documento o acuerdo que exprese los motivos y fundamentos que se tienen para otorgar el acceso parcial a la misma o, en su caso, para negarlo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II.- Entregar al solicitante la información requerida en los términos del artículo 3 de esta ley o, en su caso, el documento o acuerdo que exprese los motivos y fundamentos que se tienen para otorgar el acceso parcial a la misma o, en su caso, para negarlo;
 
 III.- Orientar a los interesados en la formulación de solicitudes de información pública y de los medios de impugnación previstos por esta Ley;
 
@@ -1151,7 +1163,7 @@ Las responsabilidades que se generen por el incumplimiento de las obligaciones a
 
 ## ARTÍCULOS TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
 
 SEGUNDO.- Se abroga la Ley de Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 36, de fecha 12 de Agosto de 2005.
 
@@ -1200,3 +1212,9 @@ P.O. 4 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un plazo que no excederá de treinta días naturales el Poder Legislativo adecuará su portal de internet para actualizar su contenido en base a las disposiciones del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+PRIMERO.- Los sujetos obligados en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, deberán realizar las adecuaciones a sus Reglamentos en un plazo no mayor a 60 días naturales.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
