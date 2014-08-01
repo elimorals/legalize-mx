@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-07-11"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -504,6 +504,20 @@ b) De las iniciativas de ley o decreto presentadas por los ciudadanos del Estado
 > <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2014)</small>
+
+XXXIII. La Comisión de Asuntos Internacionales, conocerá de los temas e iniciativas siguientes:
+
+a). Celebrar con autorización de la Junta de Coordinación Política, los convenios de Hermanamiento con otras entidades internacionales.
+
+b). Coadyuvar dentro del marco normativo, con las instancias competentes tanto nacionales como de otros países en el apoyo integral a los mexiquenses que se encuentren en el extranjero y a sus familiares.
+
+c). Participar en la promoción, desarrollo de convenios comerciales, fomento turístico, desarrollo económico, en temas de seguridad y con organismos internacionales en materia de respeto y reconocimiento de los tratados internacionales en materia de derechos humanos.
+
+d). Generar las condiciones y los acuerdos para establecer una red o asociaciones de Comisiones de Asuntos Internacionales con las entidades que cuenten con esta figura legislativa, y
+
+e) Las demás que le confiera la Junta de Coordinación Política, la Presidencia de la Legislatura y la Diputación Permanente.
 
 Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
 
@@ -2394,3 +2408,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
