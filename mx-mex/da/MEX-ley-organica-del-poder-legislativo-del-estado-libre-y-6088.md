@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2014-07-11"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1097,9 +1097,13 @@ A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, 
 
 - Apoyo y Atención al Migrante
 
-> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
 
 - Participación Ciudadana.
+
+> <small>(ADICIONADO, G.G. 1 DE AGOSTO DE 2014)</small>
+
+- Asuntos Internacionales
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
@@ -2080,3 +2084,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
