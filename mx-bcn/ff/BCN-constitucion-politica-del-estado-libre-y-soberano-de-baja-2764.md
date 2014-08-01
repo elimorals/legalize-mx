@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2014-03-21"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -373,6 +373,10 @@ Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantiz
 
 La competitividad es el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 1 DE AGOSTO DE 2014)</small>
+
+Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
@@ -383,11 +387,11 @@ Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por l
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
 
-Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
-
 La planeación estatal del desarrollo es un medio para el eficiente y eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales con relación al desarrollo integral de la entidad y tenderá a alcanzar los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Corresponde al Ejecutivo del Estado, así como a los Gobiernos Municipales, en los términos que dispongan las leyes, coordinarse con el Consejo Nacional de Evaluación de la Política de Desarrollo Social a efecto de dar seguimiento a las recomendaciones en los rubros de medición de la pobreza y evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social. El Ejecutivo del Estado y los Gobiernos Municipales crearán los órganos de coordinación que correspondan para la evaluación de las políticas de desarrollo social en el Estado.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -759,7 +763,7 @@ Cuando el Gobernador opte por el Gobierno de Coalición, ratificará a los Titul
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
 
-XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y (sic)
+XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
 
@@ -953,23 +957,29 @@ e).- Proponer las bases para la determinación de daños y perjuicios que afecte
 
 Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2014)</small>
 
-### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
+### CAPITULO V.. DE LA PLANEACION Y EVALUACION LEGISLATIVA
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 38.
 
 El Plan de Desarrollo Legislativo se aprobará en el segundo período de sesiones del inicio de una Legislatura y deberá contener la Agenda Legislativa Básica, la cual se elaborará bajo los principios de economía funcional, eficiencia y democrático.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
-
-###### ARTICULO 39.
-
 El Plan de Desarrollo Legislativo se elaborará, controlará y coordinará conforme a los procedimientos y plazos que establezca la Ley.
 
 El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho contenido en el Artículo 28 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 39.
+
+El Congreso del Estado contará con sistemas y mecanismos de evaluación de la función legislativa.
+
+La evaluación de la función legislativa contará con criterios de medición de la eficacia e impacto de los procesos de formación de leyes y decretos, dictaminación de cuentas públicas, gestión en auxilio a sus representados y desarrollo institucional del Poder Legislativo.
+
+La Ley determinará las bases, instancias, mecanismos de participación ciudadana, criterios y procedimientos necesarios para su cumplimiento.
 
 ## TITULO CUARTO
 
@@ -1491,7 +1501,7 @@ VIII.- Establecer mecanismos que transparenten y propicien la rendición de cuen
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
 
-IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y (sic)
+IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
@@ -1769,7 +1779,7 @@ II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que s
 
 III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
 
-IV.- Solicitar la opinión de los ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
+IV.- Solicitar la opinión de los yuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
 
 V.- Los demás requisitos que determine la Ley.
 
@@ -3694,3 +3704,25 @@ II.- Las remuneraciones adicionales a las nominales, tales como gratificaciones,
 III.- Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
 
 SEXTO.- El Congreso del Estado de Baja California expedirá la Ley Reglamentaria en los términos del presente decreto, y realizará las adecuaciones legislativas pertinentes para establecer el régimen de sanciones penales y administrativas por conductas que impliquen el incumplimiento de las nuevas disposiciones en materia de remuneraciones de los servidores públicos. Asimismo exhortará a los Ayuntamientos para que generen los elementos jurídicos para satisfacer el cumplimiento del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+DECRETO NO. 73 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO QUINTO DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 38 Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+DECRETO NO. 74 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEXTO Y OCTAVO, ASÍ COMO SE ADICIONA UN PÁRRAFO DÉCIMO AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- Las autoridades públicas señaladas en la presente reforma, contarán con un plazo de tres meses a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para crear dentro de sus estructuras internas los órganos de coordinación
