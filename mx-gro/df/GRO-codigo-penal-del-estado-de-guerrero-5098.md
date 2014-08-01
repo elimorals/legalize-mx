@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2014-02-07"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 499 POR EL QUE SE PUBLICA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO VEINTE DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -3033,7 +3035,7 @@ II.- Funcionarios partidistas a los dirigentes nacionales, estatales o municipal
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
-III.- Servidores públicos.- A quienes se encuentren en los términos del artículo 110 de la Constitución Política del Estado y 108 de la Constitución Política de los Estados Unidos Mexicanos, y (sic)
+III.- Servidores públicos.- A quienes se encuentren en los términos del artículo 110 de la Constitución Política del Estado y 108 de la Constitución Política de los Estados Unidos Mexicanos, y
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2008)</small>
 
@@ -3714,3 +3716,15 @@ P.O. 7 DE FEBRERO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Iniciada la vigencia del presente Código, queda abrogado el Código Penal del Estado de Guerrero promulgado el 15 de octubre de 1986 y publicado en el Periódico Oficial del Gobierno del Estado número 91 el 14 de noviembre del mismo año.
+
+TERCERO. Iniciada la vigencia del presente Código, para los ordenamientos legales que remitan a alguna disposición del Código Penal abrogado, se estará a las disposiciones del presente ordenamiento.
+
+CUARTO. La modificación, derogación o reubicación de cualquier tipo penal a que se refiere este Código, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia. Siempre que los hechos se sigan comprendiendo en los tipos modificados o creados.
+
+QUINTO. Se derogan las disposiciones legales que se opongan al presente Código.
