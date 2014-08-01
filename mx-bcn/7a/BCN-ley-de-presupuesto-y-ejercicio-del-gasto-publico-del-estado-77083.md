@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2013-10-18"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -109,13 +109,17 @@ XVII. Perspectiva de Equidad de Género: Enfoque o herramienta que permite ident
 
 XVIII. Poder Ejecutivo: La Administración Pública Centralizada y las Entidades Paraestatales, en su conjunto;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XIX. Titular: Quienes tienen la máxima representación legal de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, de las Entidades de la Administración Pública Paraestatal y Paramunicipal y de los Órganos Autónomos; en su caso, los Secretarios o Directores de Dependencias; y
+XIX. Presupuesto Ciudadano: Es el desglose explicativo e ilustrado del origen, distribución, aplicación y objetivo de los recursos públicos aprobados y asignados en los presupuestos de egresos anuales de los sujetos obligados en el artículo 1 de esta ley;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XX. Unidad Administrativa: Cada una de las áreas operativas que conforman la estructura orgánica de los sujetos de esta Ley a la que se le confieren atribuciones y responsabilidades específicas en sus respectivos ámbitos de competencia, de conformidad con las Leyes y Reglamentos aplicables.
+XX. Titular: Quienes tienen la máxima representación legal de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, de las Entidades de la Administración Pública Paraestatal y Paramunicipal y de los Órganos Autónomos; en su caso, los Secretarios o Directores de Dependencias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXI. Unidad Administrativa: Cada una de las áreas operativas que conforman la estructura orgánica de los sujetos de esta Ley a la que se le confieren atribuciones y responsabilidades específicas en sus respectivos ámbitos de competencia, de conformidad con las Leyes y Reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -479,21 +483,29 @@ A toda proposición de aumento de recursos a partidas presupuestales o a la crea
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y los Titulares del Poder Judicial y de los Órganos Autónomos, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de sus respectivos Proyectos de Presupuesto de Egresos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 39.
 
-Una vez aprobados los Presupuestos de Egresos de los sujetos de la presente Ley por el Congreso del Estado, por el Ejecutivo del Estado, por los
+Una vez aprobados los Presupuestos de Egresos de los sujetos de la presente Ley por el Congreso del Estado, por el Ejecutivo del Estado, por los Ayuntamientos, en sus respectivos ámbitos de competencia, se remitirán al Ejecutivo del Estado para efectos de su publicación en el Periódico Oficial del Estado.
 
-Ayuntamientos, en sus respectivos ámbitos de competencia, se remitirán al Ejecutivo del Estado para efectos de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
 La publicación comprenderá el desglose a nivel de ramo, capítulo, concepto y partidas, y deberá realizarse a más tardar:
 
 I. El 31 de diciembre del ejercicio fiscal anterior al que correspondan, los Presupuestos de Egresos de la Administración Pública Centralizada del Poder Ejecutivo del Estado y de los Municipios, de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos; y,
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
 II. El 15 de enero del ejercicio al que corresponda, los Presupuestos de Egresos de las Entidades Paraestatales y Paramunicipales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
 Los sujetos de esta Ley deberán cumplir con el mismo procedimiento de publicación del cierre presupuestal a más tardar el 30 de abril del ejercicio posterior al que corresponda el cierre presupuestal, el cual deberá contener el presupuesto inicial autorizado, las modificaciones presupuestales, el presupuesto modificado autorizado y el presupuesto ejercido.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2014)</small>
+
+De igual manera los sujetos obligados de esta Ley deberán de elaborar y publicar en sus respectivos portales de transparencia, sus Presupuestos ciudadanos a más tardar el 31 de enero del ejercicio que corresponda, mismos que deberán de ser revisados y actualizados por lo menos cada trimestre en caso de que existan modificaciones posteriores. La aplicación y observancia de esta norma les corresponde a los Titulares de las dependencias establecidas en el artículo 2 de esta ley. El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California será el organismo coadyuvante en el cumplimiento de esta norma en los términos de esta Ley y de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE JUNIO DE 2012)</small>
 
@@ -1029,31 +1041,47 @@ Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y 
 
 ## TÍTULO QUINTO BIS. DE LA TRANSPARENCIA Y DIFUSIÓN DE LA INFORMACIÓN FINANCIERA
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
 ARTÍCULO 92 BIS.- Los sujetos de esta Ley, en el ámbito de sus respectivas competencias deberán dar a conocer en sus respectivos portales de Internet la información financiera siguiente:
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2013)</small>
+
 I. La relativa a la evaluación del desempeño de los programas y políticas públicas;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2013)</small>
 
 II. Los calendarios de ingresos, así como los calendarios de presupuesto de egresos con base mensual;
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2013)</small>
+
 III. La Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2013)</small>
 
 IV. La Ley de Ingresos y Presupuesto de Egresos una vez aprobado por el Congreso del Estado y los Ayuntamientos, así como los dictámenes, acuerdos de comisión y, actas de aprobación correspondientes conforme al marco jurídico aplicable.
 
-V. Las disposiciones aplicables al proceso de integración de las Leyes de Ingresos, Presupuestos de Egresos y demás documentos que deban publicarse en los medios oficiales de difusión.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VI. Además de la información prevista en los ordenamientos legales aplicables, deberá incluirse en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, apartados específicos con la información siguiente:
+V. El Presupuesto Ciudadano;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VI. Las disposiciones aplicables al proceso de integración de las Leyes de Ingresos, Presupuestos de Egresos y demás documentos que deban publicarse en los medios oficiales de difusión;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VII. Además de la información prevista en los ordenamientos legales aplicables, deberá incluirse en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, apartados específicos con la información siguiente:
 
 a) Leyes de Ingresos:
 
 1) Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que estime serán transferidos por la federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones aplicables, y
 
-2) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración publica correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
+2) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la (sic) disposiciones de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
 
 b) Presupuestos de Egresos:
 
-1) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
+1) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallado el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
 
 2) El listado de programas así como sus indicadores estratégicos y de gestión aprobados, y
 
@@ -1061,15 +1089,21 @@ b) Presupuestos de Egresos:
 
 En el proceso de integración de la información financiera para la elaboración de los presupuestos deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño.
 
-VII. Los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, así como el monto recibido, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VIII. El programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, a más tardar el último día hábil de abril.
+VIII. Los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, así como el monto recibido, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+IX. El programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, a más tardar el último día hábil de abril.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2014)</small>
 
 Así como, una vez concluidas las evaluaciones, los resultados de las mismas, e informar sobre las personas que realizaron dichas evaluaciones, a más tardar a los 30 días posteriores a su conclusión.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-ARTÍCULO 92 TER.- La Secretaría de Planeación y Finanzas del Poder Ejecutivo, así como las tesorerías de los municipios, establecerán en sus páginas de Internet, enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno, así como a los órganos o instancias de transparencia competentes.
+ARTÍCULO 92 TER.- La Secretaría de Planeación y Finanzas del Poder Ejecutivo, las tesorerías de los municipios y las unidades Administrativas de los Órganos Autónomos establecerán en sus páginas de Internet, enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno, así como a los órganos o instancias de transparencia competentes.
 
 La Secretaría de Planeación y Finanzas del Poder Ejecutivo, podrá incluir en su página de Internet, previo convenio administrativo, la información financiera de los municipios del Estado.
 
@@ -1258,3 +1292,9 @@ P.O. 11 DE OCTUBRE DE 2013.
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+PRIMERO.- Por única ocasión se les concede a todos los sujetos obligados que hubiesen iniciado administración en el ejercicio fiscal 2013, un plazo de 45 días para cumplir con la obligación a que se refiere el último párrafo del artículo 39 de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
+
+SEGUNDO.- La Presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
