@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2014-07-04"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -53,7 +53,11 @@ Se declara de utilidad pública en el Estado:
 
 I.- La planeación, organización, protección, conservación, fomento, explotación, reproducción, mejoramiento, instalación y comercialización de industrias agropecuarias, de sus productos y subproductos en el Estado;
 
-II.- La planeación para promover el pleno aprovechamiento, protección conservación, mejoramiento, fomento y explotación racional de los terrenos de uso agropecuario y del recurso de agua;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II.- La planeación para promover el pleno aprovechamiento, protección conservación, mejoramiento, fomento y explotación racional de los terrenos de uso agropecuario y del recurso de agua.
+
+En todo caso se deberá vigilar que el agua cumpla con los estándares de calidad que determinen las Normas Oficiales Mexicanas, la normatividad ambiental del Estado y demás disposiciones aplicables.
 
 III.- El fomento, mejoramiento, protección conservación y explotación de los terrenos agrícolas, pastizales naturales y artificiales;
 
@@ -79,7 +83,13 @@ XI.- El servicio de asistencia técnica integral a los productores agropecuarios
 
 XII.- El servicio de clasificación estatal de alimentos, y
 
-XIII.- Las demás que señalen las leyes y disposiciones federales y locales.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIII.- El fomento de la reconversión productiva sustentable, mediante la incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIV.- Las demás que señalen las leyes y disposiciones federales y locales.
 
 ###### ARTÍCULO 3.
 
@@ -131,7 +141,7 @@ IX.- Corridas o velas: La reunión que los productores hacen del ganado que se a
 
 X.- Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, mediante el uso racional de los mismos, así como la biodiversidad y los servicios ambientales de dicho territorio;
 
-XI.- Especie animal: aquella (sic) cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
+XI.- Especie animal: aquella cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
 
 XII.- Estado: El Estado Libre y Soberano de Baja California;
 
@@ -349,7 +359,7 @@ III.- Inspeccionar las parvadas de gallinas, productos y subproductos que se vay
 
 IV.- Impedir que se hagan embarques de parvadas, productos y subproductos avícolas, por cualquier vía de comunicación, mientras los interesados no presenten los documentos que comprueben su procedencia legal y condición sanitaria de los mismos, y
 
-VI (sic).- Documentar con guía de tránsito a parvadas de gallinas, productos y subproductos, cuando estos cumplan con los requisitos de procedencia legal y condición sanitaria.
+VI (SIC).- Documentar con guía de tránsito a parvadas de gallinas, productos y subproductos, cuando estos cumplan con los requisitos de procedencia legal y condición sanitaria.
 
 E) En lo Ganadero:
 
@@ -460,6 +470,10 @@ I.- Promover el bienestar social y económico de los productores, de sus comunid
 II.- Promover la equidad económica y social de las regiones rurales a través de programas de apoyo para inducir el desarrollo en las regiones de mayor rezago, con la participación integral de las instituciones públicas, impulsando la transformación y diversificación productiva y económica de dichas regiones; y
 
 III.- Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales a través de un aprovechamiento sustentable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+IV.- Estimulará la reconversión productiva sustentable agropecuaria y demás actividades económicas del medio rural, para aprovechar eficientemente los recursos naturales, tecnológicos y humanos, y así, lograr mayor productividad, competitividad y rentabilidad.
 
 ## TÍTULO TERCERO. DE LA AGRICULTURA
 
@@ -1434,3 +1448,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su p
 SEGUNDO.- El artículo 159 bis por el que se crea el Fondo de Fomento para el Desarrollo Rural Sustentable, entrará en vigor el primero de enero de 2016, siempre que los Poderes Legislativo y Ejecutivo del Estado realicen las previsiones presupuestales que garanticen la viabilidad financiera de su instrumentación.
 
 TERCERO.- El Ejecutivo por conducto de la Secretaría, en un término no mayor a los 30 días, posterior a la entrada en vigor del artículo 159 bis señalada en el transitorio anterior, deberá reglamentar la instrumentación y operación del Fondo de Fomento para el Desarrollo Rural Sustentable.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
