@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-281-de-seguridad-publica-del-estado-de-guerrero-5443
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-16"
-last_updated: "2013-12-06"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 281 DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 16 de febrero de 2007.
 
@@ -55,7 +55,7 @@ I.- Desarrollar las bases generales de coordinación entre el Estado de Guerrero
 
 II.- Fijar las bases para la integración, organización, actuación, funcionamiento y profesionalización del Cuerpo de Policía Estatal;
 
-III.- Regular y controlar la función del servicio de seguridad pública y sus auxiliares; y (sic)
+III.- Regular y controlar la función del servicio de seguridad pública y sus auxiliares; y
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -89,7 +89,9 @@ II.- Por cuanto al régimen disciplinario; a la Ley de Responsabilidades de los 
 
 III.- El Código de Procedimientos Contenciosos Administrativos del Estado;
 
-IV.- La legislación civil y penal del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+IV.- La legislación civil y penal aplicable en el Estado de Guerrero;
 
 V.- Los usos y costumbres de los pueblos y comunidades indígenas del Estado, en tratandose de asuntos relacionados con los mismos; y
 
@@ -845,7 +847,7 @@ XXVI.- Las demás que sean necesarias dentro del marco legal, para cumplir los o
 
 ###### ARTÍCULO 34.
 
-El Consejo Estatal se reunirá en forma ordinaria una seis meses y en forma extraordinaria cuando lo solicite el Presidente, el Vicepresidente o a petición de las dos terceras partes de sus integrantes, siendo convocados en ambos casos, por conducto del Secretario Ejecutivo, anexando el orden del día.
+El Consejo Estatal se reunirá en forma ordinaria cada seis meses y en forma extraordinaria cuando lo solicite el Presidente, el Vicepresidente o a petición de las dos terceras partes de sus integrantes, siendo convocados en ambos casos, por conducto del Secretario Ejecutivo, anexando el orden del día.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1457,7 +1459,9 @@ Se establece un programa permanente de investigación para el reconocimiento de 
 
 La estadística se integrará al Sistema Estatal de Información Policial, que conforme a las disposiciones aplicables sistematizará los datos y cifras relevantes sobre servicios y operaciones del Cuerpo de Policía Estatal e investigación del delito; procuración y administración de justicia; sistemas de prisión preventiva y ejecución de sanciones; aplicación de medidas de orientación, protección y tratamiento de adolescentes; así como otros datos y elementos asociados a la seguridad pública.
 
-Cuando la revelación de la información a que se hace referencia en el párrafo que antecede, ponga en riesgo el debido desarrollo de una investigación, averiguación previa o proceso, se podrá reservar hasta en tanto no deje de existir tal condición.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Cuando la revelación de la información a que se hace referencia en el párrafo que antecede, ponga en riesgo el debido desarrollo de una investigación, carpeta de investigación o proceso, se podrá reservar hasta en tanto no deje de existir tal condición.
 
 ### CAPÍTULO VI. DE LA INVESTIGACIÓN PARA LA PREVENCIÓN
 
@@ -1947,7 +1951,9 @@ XXII.- Ejecutar, por órdenes expresas del Ministerio Público, la detención de
 
 XXIII.- Practicar detenciones o aseguramientos en los casos de flagrancia en los términos de las disposiciones aplicables, poniendo a disposición de las autoridades judiciales, ministeriales y administrativas competentes, según corresponda, a las personas detenidas o los bienes que se hayan asegurado o que estén bajo su custodia, con estricto cumplimiento de los plazos constitucional y legalmente establecidos;
 
-XXIV.- Informar al inculpado al momento de su detención, sobre los derechos que en su favor establece la Constitución Federal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXIV.- Informar al imputado al momento de su detención, sobre los derechos que a su favor establece la Constitución Federal;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -2271,7 +2277,9 @@ h) Degradación.- A la imposición de un grado inferior;
 
 i) Remoción.- La separación y baja definitiva del servicio del elemento policial, por incumplimiento al catálogo de deberes y obligaciones.
 
-Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o averiguación previa, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar al Cuerpo de Policía Estatal o a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o carpeta de investigación, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar al Cuerpo de Policía Estatal o a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
 
 La suspensión preventiva subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad a lo establecido en la Ley.
 
@@ -2341,7 +2349,7 @@ XXII.- Tener el descanso adecuado en la medida de las posibilidades y necesidade
 
 Circunstancialmente por necesidades del servicio, los elementos del cuerpo de policía estatal, no disfrutarán de vacaciones durante los periodos vacacionales preestablecidos, debiendo otorgársele cuando la circunstancia se haya superado;
 
-XXIII.- Percibir un salario digno y decoroso para cubrir sus necesidades básicas, debiendo recibirlo integro y a más tardar el último día de cada quincena; y (sic)
+XXIII.- Percibir un salario digno y decoroso para cubrir sus necesidades básicas, debiendo recibirlo integro y a más tardar el último día de cada quincena; y
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -2409,9 +2417,9 @@ XIX.- Actualizarse en el empleo de métodos de investigación que garanticen la 
 
 XX.- Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXI.- Preservar conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+XXI.- Presentar conforme a las disposiciones aplicables, los indicios, vestigios, evidencias, objetos, instrumentos o productos y datos de prueba relacionado con probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -2711,9 +2719,9 @@ XII.- Abandonar el servicio nombrado o abstenerse a recibirlo sin causa justific
 
 XIII.- Distraer de su objeto, para uso propio o ajeno el equipo, elementos materiales o bienes asegurados bajo su custodia o de la corporación;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XIV.- No recoger, destruir o recabar medios de pruebas necesarios u obtener indebidamente medios de pruebas para los cuales los ordenamientos legales prevean una tramitación especial;
+XIV.- No recoger, destruir o recabar datos de pruebas necesarios u obtener indebida o ilícitamente datos de pruebas para los cuales los ordenamientos legales prevean una tramitación especial;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -3064,3 +3072,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En un plazo máximo de 90 días, contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo, deberá expedir el Reglamento del Cuerpo de Policía Rural, para ello podrá llevar a cabo mecanismos de consulta con los Cuerpos de Policías Rurales, constituidos conforme a la presente Ley.
 
 TERCERO. Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los sesenta días naturales posteriores a la declaratoria que emita este Poder Legislativo, previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal Acusatoria en el Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
