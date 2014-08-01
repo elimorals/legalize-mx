@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2010-04-30"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -71,7 +71,7 @@ XI. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y
 
 XII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
 
-XIII. Definir los lineamientos para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración con el fin de asumir las funciones previstas en el artículo I3 de la Ley General de Desarrollo Forestal Sustentable; y
+XIII. Definir los lineamientos para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración con el fin de asumir las funciones previstas en el artículo 13 de la Ley General de Desarrollo Forestal Sustentable; y
 
 XIV. Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, y sus Reglamentos.
 
@@ -215,7 +215,7 @@ I.- Diseñar, formular y aplicar, en concordancia con la política nacional y es
 
 II.- Aplicar los criterios de política forestal previstos en esta Ley en las zonas de jurisdicción municipal, en las materias que no estén expresamente reservadas a la Federación o a los Estados;
 
-IlI.- Apoyar a la Federación y al Estado en la adopción y consolidación del Servicio Nacional Forestal;
+III.- Apoyar a la Federación y al Estado en la adopción y consolidación del Servicio Nacional Forestal;
 
 IV.- Participar en el ámbito de sus atribuciones, en el establecimiento de sistemas y esquemas de ventanilla única de atención eficiente para los usuarios del sector;
 
@@ -323,7 +323,7 @@ El ejercicio de los objetivos del Consejo se realizará por los miembros que lo 
 
 ###### ARTÍCULO 17.
 
-El Consejo se integrara por:
+El Consejo se integrará por:
 
 I. El Titular de la Secretaría, quien será su Presidente;
 
@@ -335,9 +335,17 @@ IV. El Director de Ecología o su equivalente por cada uno de los Ayuntamientos;
 
 V. Un representante del sector social, designado en los términos del Reglamento respectivo, y
 
-VI. Un representante del sector académico, designado en los términos del Reglamento.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-El Consejo contará con un secretario Técnico designado por el Presidente, de entre el personal de la propia Secretaría, quien deberá contar con nivel de Director de área por lo menos.
+VI. Un representante del sector académico, designado en los términos del Reglamento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+VII. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Consejo contará con un Secretario Técnico designado por el Presidente, de entre el personal de la propia secretaría, quien deberá contar con nivel de Director de Área por lo menos.
 
 ###### ARTÍCULO 18.
 
@@ -361,11 +369,13 @@ VI.- Cualquier otro que considere el Consejo.
 
 Los invitados a las sesiones, en términos del presente artículo participaran en las mismas con voz pero sin voto.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 20.
 
-El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su Presidente, quien emitirá la convocatoria respectiva. En la primera sesión del año, se definirá el calendario de sesiones ordinarias.
+El Consejo, sesionará en forma ordinaria cada tres meses y, extraordinariamente, cuantas veces sea necesario, a juicio de su presidente, quien emitirá la convocatoria respectiva. En la primera sesión del año, se definirá el calendario de sesiones ordinarias.
 
-El quórum legal para sesionar será con la asistencia de más de la mitad de sus miembros, y tomarán las decisiones por mayoría de votos de los presentes, en caso de empate quien presida la sesión tendrá voto de calidad.
+El quórum legal para sesionar será con la asistencia de más de la mitad de sus miembros, y tomarán las decisiones por mayoría de votos de los presentes, salvo el referido en la fracción VII del artículo 17 quien solo contará con voz y no se considerará para integrar el quórum legal, en caso de empate quien presida la sesión tendrá voto de calidad.
 
 ###### ARTÍCULO 21.
 
@@ -485,7 +495,7 @@ I. La superficie y localización de terrenos forestales y preferentemente forest
 
 II. Los terrenos forestales temporales, su superficie y localización, así como los datos de sus legítimos propietarios;
 
-IIl. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencia y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
+III. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencia y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
 IV. La dinámica de cambio de la vegetación forestal del Estado, que permita conocer y evaluar las tasas de deforestación y de degradación y disturbio, registrando sus causas principales;
 
@@ -501,7 +511,7 @@ VIII. Los demás datos que señale el Reglamento de esta Ley.
 
 En la formulación del Inventario Estatal, se deberán considerar cuando menos los siguientes criterios:
 
-I. La delimitación por cuencas y subcuencas hidrológico - forestales;
+I. La delimitación por cuencas y subcuencas hidrológico-forestales;
 
 II. La naturaleza, características, diversidad de los ecosistemas o tipos de vegetación forestales existentes en el Estado;
 
@@ -527,7 +537,7 @@ La Certificación del buen manejo forestal, para los efectos de esta Ley, y conf
 
 El derecho real de usufructo forestal, faculta a su titular a sembrar o plantar sobre parte o la totalidad de un terreno ajeno forestal o preferentemente forestal, sin que en ningún caso y mientras subsista el derecho puedan confundirse ambas propiedades, ya que el terreno seguirá perteneciendo al dueño de éste y lo sembrado o plantado será del usufructuario.
 
-El derecho real de usufructo forestal deberá constar en escritura pública, teniendo la obligación el Notario Público ante quien se celebre el acto, de dar aviso ai (sic) Registro Público de la Propiedad y de Comercio o al Registro Agrario Nacional, según corresponda el régimen de propiedad de que se trate, y al Registro Forestal Nacional en términos del artículo 61 de la Ley General.
+El derecho real de usufructo forestal deberá constar en escritura pública, teniendo la obligación el Notario Público ante quien se celebre el acto, de dar aviso al Registro Público de la Propiedad y de Comercio o al Registro Agrario Nacional, según corresponda el régimen de propiedad de que se trate, y al Registro Forestal Nacional en términos del artículo 61 de la Ley General.
 
 ### CAPÍTULO OCTAVO. DE LOS RECURSOS FORESTALES LOCALIZADOS EN LAS COMUNIDADES INDÍGENAS
 
@@ -583,11 +593,15 @@ La autoridad municipal deberá atender el combate y control de incendios; y en e
 
 Los propietarios y poseedores de los terrenos forestales y preferentemente forestales y sus colindantes, que realicen el aprovechamiento de recursos forestales, la forestación o plantaciones forestales comerciales y reforestación, así como los prestadores de servicios técnicos forestales responsables de los mismos y los encargados de la administración de las áreas naturales protegidas, estarán obligados a ejecutar trabajos para prevenir, combatir y controlar incendios forestales, en los términos de las normas aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-Los propietarios, poseedores, agricultores, o toda aquella persona que realice quemas autorizadas por la autoridad competente en terrenos agropecuarios, deberán dar aviso a la Secretaría cuando menos con siete días hábiles de anticipación a la quema, en los casos que pudieran afectar los ecosistemas forestales vecinos. De igual forma el interesado deberá dar aviso de la quema a los propietarios y poseedores de los terrenos forestales o preferentemente forestales colindantes, con el objeto de que adopten las precauciones necesarias.
+Los propietarios, poseedores, agricultores, o toda aquella persona que realice quemas autorizadas por la autoridad competente en terrenos agropecuarios, deberán dar aviso a la Secretaría o a la autoridad municipal cuando menos con siete días hábiles de anticipación a la quema, en los casos que pudieran afectar los ecosistemas forestales vecinos. De igual forma el interesado deberá dar aviso de la quema a los propietarios y poseedores de los terrenos forestales o preferentemente forestales colindantes, con el objeto de que adopten las precauciones necesarias.
 
 El incumplimiento del aviso a que se refiere el párrafo anterior, será sancionado administrativamente por la Secretaría, con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse.
+
+La Secretaría y la autoridad municipal promoverán que los productores agrícolas y ganaderos usen alternativas técnicas para la preparación de terreno, control de plagas y eviten el uso del fuego, tales como el aprovechamiento de esquilmos, la incorporación de esquilmos al suelo; labranza mínima, abonos verdes, cultivos de cobertera, control biológico y manejo integrado de plagas, planificación de pastoreo, establecimiento de praderas, tratamiento localizado de pastizales lignificados, entre otros que la innovación científica y tecnología desarrollen.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA CULTURA, EDUCACIÓN, CAPACITACIÓN Y TECNOLOGÍA FORESTAL
 
@@ -688,3 +702,9 @@ PRESIDENTE
 DIP. JUAN MANUEL MOLINA GARCIA
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
