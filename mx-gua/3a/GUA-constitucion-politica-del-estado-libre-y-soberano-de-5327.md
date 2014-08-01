@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2014-06-27"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -96,6 +96,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 ###### ARTICULO 2.
 
 El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los servidores públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos mexicanos. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -629,7 +633,7 @@ IV.- Asociarse para tratar los asuntos políticos del Estado;
 
 V.- Ejercer el Derecho de Petición;
 
-VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y, (sic)
+VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -939,7 +943,7 @@ III.- Realizada la distribución anterior, se procederá a asignar el resto de l
 
 IV.- En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor ni superior en ocho puntos porcentuales respecto al porcentaje de votación que hubiere recibido. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 
-Ningún partido político en virtud de la asignación de diputados de representación proporcional a que se refiere la fracción anterior podrá contar con un número de diputados por uno o ambos principios que exceda el número de distritos uninominales en los que se divida el estado; y (sic)
+Ningún partido político en virtud de la asignación de diputados de representación proporcional a que se refiere la fracción anterior podrá contar con un número de diputados por uno o ambos principios que exceda el número de distritos uninominales en los que se divida el estado; y
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -983,7 +987,7 @@ I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y form
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y, (sic)
+II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y,
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1499,7 +1503,7 @@ I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Cor
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y (sic)
+II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1665,7 +1669,7 @@ XIX.- Rendir informes al Congreso del Estado sobre cualquier Ramo de la Administ
 
 XX.- Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la Ley de la materia;
 
-XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y (sic),
+XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y,
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1675,7 +1679,7 @@ a).- Con la Federación, para que el Estado asuma el ejercicio de sus funciones,
 
 b).- Con los Municipios, a fin de que éstos lleven a cabo la prestación de servicios o el ejercicio de funciones que le corresponden al Estado, o bien, para que éste efectúe el ejercicio de una función o la prestación de un servicio público, competencia del Municipio.
 
-Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y (sic)
+Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -2003,7 +2007,7 @@ XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartici�
 
 XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
 
-XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y (sic)
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -2113,7 +2117,7 @@ IX.- La observancia de los principios de excelencia, objetividad, imparcialidad,
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y (sic)
+X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2365,7 +2369,7 @@ I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y (sic)
+II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -2515,7 +2519,7 @@ En tanto los Ayuntamientos no cumplan con lo dispuesto por el párrafo anterior,
 
 IX.- La ejecución de todas las disposiciones relativas a la higiene urbana y la salubridad pública;
 
-X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y (sic),
+X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y,
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -3688,3 +3692,7 @@ Los magistrados a que se refiere el párrafo anterior serán elegibles para un n
 Artículo Quinto. Las reformas a los artículos 47 y 113 de esta Constitución, no serán aplicables a los Diputados Locales, Presidentes Municipales, Regidores y Síndicos que hayan protestado el cargo en la Legislatura o Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
 
 Artículo Sexto. La referencia que esta Constitución hace al Fiscal General de la República, se entenderá realizada al Procurador General de la República, hasta en tanto entre en vigor la autonomía constitucional de la Fiscalía General de la República.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
