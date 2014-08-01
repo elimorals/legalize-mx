@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2013-02-22"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -382,6 +382,20 @@ a).- Personalmente, los requerimientos de pago.
 b).- Por edictos que se publiquen por tres veces consecutivas en el Periódico Oficial del Estado, en los casos del inciso anterior, cuando el notificado haya desaparecido, no tenga domicilio fijo, se ignore donde reside, se encuentre en el extranjero, sin haber dejado representante legal autorizado ante las autoridades fiscales municipales, o hubiere fallecido y no se conozca el albacea de la sucesión. En los dos últimos casos, en los edictos se dará un plazo de treinta días para hacer el pago de crédito fiscal.
 
 c).- En los demás casos, por medio de oficio o telegrama.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 49 BIS.- Los actos administrativos que se deban notificar deberán contener por lo menos los siguientes requisitos:
+
+I.- Constar por escrito;
+
+II.- Ser dictado por autoridad competente;
+
+III.- Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate;
+
+IV.- Ostentar la firma autógrafa del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad; y
+
+V.- Tratándose de créditos a favor del Fisco exigibles por medio del procedimiento administrativo de ejecución, además de los requisitos señalados en las fracciones anteriores, deberá especificarse el domicilio donde se llevará a cabo la diligencia y el nombre de dos testigos de asistencia.
 
 ###### ARTICULO 50.
 
@@ -1503,7 +1517,9 @@ En el mandamiento de ejecución se designará el ejecutor que deba practicar el 
 
 De no encontrarse el deudor en la primera búsqueda, el ejecutor lo citará para una hora del día siguiente, dejándole citatorio especial con la persona que se encuentre en el domicilio del deudor y si no hubiere, con el vecino más inmediato o con el agente de policía en punto.
 
-Si no espera el deudor al ejecutor a la hora señalada, la diligencia del requerimiento se practicará con cualquier persona que se encuentre en la casa, o bien con cualquiera de las personas a que se refiere la parte final del párrafo anterior, dejándole copia del mandamiento de ejecución y del acta pormenorizada de la diligencia.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Si no espera el deudor al ejecutor a la hora señalada, la diligencia del requerimiento se practicará con cualquier persona que se encuentre en la casa, o bien con cualquiera de las personas a que se refiere la parte final del párrafo anterior, dejándole original del mandamiento de ejecución y del acta pormenorizada de la diligencia, las cuales deberán satisfacer los requisitos a que se refiere el artículo 49 bis de este ordenamiento.
 
 ###### ARTICULO 115.
 
@@ -1547,7 +1563,9 @@ Constituído el ejecutor en el domicilio del deudor entenderá la diligencia de 
 
 I.- Precisamente con el deudor si se trata de secuestro convencional.
 
-II.- En los demás casos con el deudor, o en su ausencia, con alguna de las personas a que se refiere el artículo 114. Si se le pidiera, el ejecutor entregará copia del acta de embargo a la persona con quien se entendiere la diligencia.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II.- En los demás casos con el deudor, o en su ausencia, con alguna de las personas a que se refiere el artículo 114. Si se le pidiera, el ejecutor entregará un tanto en original de acta de embargo a la persona con quien se entendiere la diligencia, la cual deberá satisfacer los requisitos a que se refiere el artículo 49 bis de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -2422,3 +2440,7 @@ Las presentes Reformas de Ley entrarán en vigor al día siguiente de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Túrnese las presentes Reformas de Ley al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
