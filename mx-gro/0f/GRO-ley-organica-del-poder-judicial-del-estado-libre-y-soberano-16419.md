@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2011-07-19"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO 763, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS CIENTO VEINTE DIAS SIGUIENTES A SU PUBLICACION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 501, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2014, VÉASE ARTÍCULO PRIMERO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -97,13 +97,19 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 1
 
 Esta Ley es de orden público y de observancia general, tiene por objeto la organización y regulación del funcionamiento del Poder Judicial del Estado, a quien corresponde interpretar y aplicar las leyes en asuntos civiles, familiares y penales del Fuero Común y en materia de justicia para adolescentes; así como en materia federal, cuando la Constitución de los Estados Unidos Mexicanos y las leyes federales lo faculten, y ejercer las atribuciones de carácter administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+Asimismo, garantizar el derecho a una efectiva impartición de justicia en materia civil, penal, familiar y para adolescentes por medio de magistrados y jueces independientes, imparciales, especializados y profesionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 2o.
 
-El Poder Judicial del Estado se integra por el Tribunal Superior de Justicia, el Consejo de la Judicatura, los Juzgados de Primera Instancia, Juzgados de Justicia Integral para Adolescentes, Juzgados de Control, Juzgados de Apelaciones, Juzgados de Paz y demás órganos relativos a la Administración de Justicia que establece esta Ley.
+El Poder Judicial del Estado se integra por el Tribunal Superior de Justicia, el Consejo de la Judicatura, el Instituto de la Defensoría Pública, los Juzgados de Primera Instancia, los Juzgados de Paz y demás órganos relativos a la Administración de Justicia que establece esta Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los Juzgados de Primera Instancia serán Civiles, Familiares, Penales, Mixtos, de Control, Tribunales de enjuiciamiento, de Ejecución Penal, de Justicia para Adolescentes y los que, con cualquier otra denominación, se creen.
 
 ###### ARTICULO 3o.
 
@@ -161,11 +167,13 @@ XVII.- Los corredores públicos en las funciones que les encomiende el Código P
 
 Los auxiliares señalados están obligados a cumplir las órdenes que dicten las Autoridades Judiciales en ejercicio de sus atribuciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+XVIII.- Los defensores públicos del Instituto de la Defensoría Pública del Estado de Guerrero.
 
-XVIII.- Los abogados del Instituto de Defensoría Pública de la Secretaría General de Gobierno del Estado.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIX.- La autoridad de medidas cautelares y de la suspensión condicional del proceso.
 
 ## TITULO SEGUNDO. DE LA SEDE Y COMPETENCIA DE LOS ORGANOS JURISDICCIONALES
 
@@ -175,35 +183,49 @@ XVIII.- Los abogados del Instituto de Defensoría Pública de la Secretaría Gen
 
 El Tribunal Superior de Justicia tiene jurisdicción en todo el territorio del Estado y su sede en la Capital del mismo, excepto en los casos previstos en la Constitución Política Local.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+La competencia de cada uno de los órganos jurisdiccionales se fijará con arreglo a esta Ley, Código Procesal Civil del Estado, Código Nacional de Procedimientos Penales, Ley de Justicia para Adolescentes, Ley de Ejecución Penal y demás leyes y reglamentos aplicables.
 
-La competencia de cada uno de los órganos jurisdiccionales, se fijará con arreglo a esta Ley, Códigos Procesal Civil, Penal, Ley de Justicia para Adolescentes, Ley de Ejecución de las Penas, Sanciones y Medidas de Seguridad y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-Para conocer de los asuntos jurisdiccionales funcionará en Salas Penales, Salas Civiles y Sala Familiar, integradas por tres Magistrados cada una; y la Sala Auxiliar integrada por tres Magistrados Supernumerarios que conocerá de los asuntos que determine el Pleno del Tribunal y funcionará únicamente durante los períodos que éste acuerde.
+Para conocer de los asuntos jurisdiccionales funcionará con cuatro Salas Penales, una Sala Civil, una Sala Familiar, las Salas Penales Unitarias del sistema penal acusatorio necesarias y dos Salas de Justicia para Adolescentes, integradas las primeras por tres magistrados cada una.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
-
-Las Salas Penales conocerán también en segunda instancia de los asuntos relacionados con la justicia para adolescentes con sujeción a lo dispuesto en la Ley de la materia. En estos casos, podrán funcionar en forma colegiada o unitaria, según lo determine el Pleno del Tribunal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 6o.
 
 Las Salas del Tribunal Superior de Justicia, serán numeradas y tendrán la siguiente jurisdicción y competencia:
 
-I.- Primera Sala Penal, con sede en Chilpancingo de los Bravo, tendrá jurisdicción y competencia en los Distritos Judiciales de Abasolo, Allende, Altamirano, Alvarez, De los Bravo, Galeana, Guerrero, La Montaña, Morelos y Zaragoza;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-II.- Segunda Sala Penal, con sede en Acapulco de Juárez, tendrá jurisdicción y competencia en los Distritos Judiciales de Azueta, Montes de Oca y Tabares;
+I.- Primera Sala Penal, con sede en Chilpancingo de los Bravo, tendrá jurisdicción y competencia en los Distritos Judiciales de Abasolo, Allende, Altamirano, Álvarez, Azueta, De los Bravo, Galeana, Guerrero, La Montaña, Montes de Oca, Morelos y Zaragoza.
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II.- Segunda Sala Penal, con sede en Acapulco de Juárez, tendrá jurisdicción y competencia en el Distrito Judicial de Tabares.
 
 III.- Tercera Sala Penal, con sede en Iguala de la Independencia, tendrá jurisdicción y competencia en los Distritos Judiciales de Alarcón, Aldama, Cuauhtémoc, Hidalgo y Mina;
 
-IV.- Las Salas Civiles Primera y Segunda, tendrán su sede en la Capital del Estado, y su jurisdicción y competencia se ejercerá en todo el territorio del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-V.- La Sala Familiar tendrá su jurisdicción y competencia en todo el Estado y su sede en la Capital del mismo, y
+IV.- Cuarta Sala Penal, con sede en Chilpancingo de los Bravo, tendrá la misma jurisdicción y competencia que la Primera Sala Penal;
 
-VI.- La Sala Auxiliar, cuando exista, tendrá su sede en Chilpancingo de los Bravo y conocerá de los asuntos que determine el Tribunal en Pleno.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+V.- La Sala Civil tendrá su sede en la capital del estado, su jurisdicción y competencia se ejercerá en todo el territorio estatal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VI.- La Sala Familiar tendrá su jurisdicción y competencia en todo el estado y su sede en la capital del mismo;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VII.- Las Salas Unitarias de Justicia para Adolescentes tendrán jurisdicción y competencia en todo el estado, y su sede en la capital del mismo; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VIII.- Las Salas Penales Unitarias tendrán jurisdicción y competencia que determine el Pleno del tribunal Superior de Justicia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -213,7 +235,9 @@ VI.- La Sala Auxiliar, cuando exista, tendrá su sede en Chilpancingo de los Bra
 
 Los Jueces de Primera Instancia tienen jurisdicción y competencia en el Distrito Judicial de su adscripción y residirán en la cabecera distrital del mismo, con excepción de los jueces especializados en justicia para adolescentes, que residirán en la capital del Estado y tendrán jurisdicción y competencia en todo el territorio estatal.
 
-Los Jueces de Paz y de Control tienen jurisdicción y competencia en el Municipio o demarcación municipal para los cuales fueron designados y residirán en la cabecera municipal respectiva.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los jueces de paz tienen jurisdicción y competencia en el municipio o demarcación municipal para el cual fueron designados y residirán en la cabecera municipal respectiva.
 
 El Pleno del Tribunal Superior de Justicia podrá crear juzgados regionales cuando así se requiera.
 
@@ -259,7 +283,7 @@ HIDALGO, comprende las municipalidades de: Atenango del Río, Buenavista de Cuel
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Cochoapa El Grande, Iliatenco, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
+LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Cochoapa El Grande, Iliantenco, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
 
 MINA, comprende las municipalidades de: Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Pungarabato y Zirándaro; su cabecera en Coyuca de Catalán.
 
@@ -277,21 +301,21 @@ ZARAGOZA, comprende las municipalidades de: Alpoyeca, Cualác, Huamuxtitlán, y 
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 9o.
 
-El Tribunal Superior de Justicia del Estado, estará integrado por diecinueve Magistrados Numerarios y tres Supernumerarios y funcionará en Pleno o en Salas. Uno de los Magistrados Numerarios será Presidente del Tribunal y no integrará sala.
+El Tribunal Superior de Justicia del Estado estará integrado, al menos, por veintinueve magistrados, incluyendo a los especializados, conforme lo determine el Pleno del Tribunal, de acuerdo con las necesidades del servicio. Funcionará en Pleno o en Salas. Uno de los magistrados será Presidente del Tribunal y no integrará Sala. Otro de los magistrados integrará el Consejo de la Judicatura sin funciones jurisdiccionales.
 
-Los Magistrados Supernumerarios percibirán sueldo igual al que señale el presupuesto a los Numerarios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 10.
 
-El Presidente del Tribunal Superior de Justicia, será electo por el Pleno de entre sus miembros en la última sesión del mes de abril del año que corresponda; iniciará sus funciones el día uno de mayo del mismo año previa protesta que rinda ante el Pleno del Tribunal.
+El Presidente del Tribunal Superior de Justicia será electo por el Pleno de entre sus miembros en la primera sesión del mes de noviembre cada tres años; iniciará sus funciones el día uno de diciembre del año que corresponda, previa protesta que rinda ante el Pleno del Tribunal.
 
-El Presidente del Tribunal durará en su cargo tres años, pudiendo ser reelecto por otro periodo igual.
+El Presidente del Tribunal durará en su cargo tres años y podrá ser reelecto por una sola ocasión.
 
 ###### ARTICULO 11.
 
@@ -325,9 +349,11 @@ I.- Velar por la autonomía del Poder Judicial, garantizando siempre su independ
 
 II.- Proveer lo conducente para la debida observancia de la Ley en la administración de justicia, procurando que ésta sea pronta, completa, imparcial y gratuita, en todas las instancias del Poder Judicial;
 
-III.- Adscribir a los Magistrados Numerarios a las Salas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-IV.- Señalar el período en que funcionará y los asuntos de que conocerá la Sala Auxiliar y; cuando funcione como Sala de Adscripción, asignarle los Juzgados sobre los cuales ejercerá jurisdicción y competencia;
+III.- Adscribir a los magistrados a las Salas colegiadas y unitarias correspondientes;
+
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 V.- Calificar las excusas e impedimentos que los Magistrados presenten para conocer de los asuntos del Pleno;
 
@@ -335,29 +361,29 @@ VI.- Conocer y calificar la recusación o la excusa conjunta o de la mayoría de
 
 VII.- Resolver los conflictos de competencia o de cualquier otra índole que surjan entre las diversas Salas del Tribunal, teniendo voz pero no voto, los Magistrados de las Salas en conflicto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-VIII.- Nombrar y remover al Administrador General de los Tribunales, a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia y demás personal necesario;
+VIII.- Nombrar y remover a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia, al Administrador General de los Tribunales del Sistema Penal Acusatorio, y demás personal necesario;
 
 IX.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los Juzgados; crear y suprimir plazas de servidores públicos del Poder Judicial de acuerdo a la disponibilidad presupuestal;
 
-X.- Conocer, en sesión pública y solemne, el informe anual de labores del Poder Judicial, que rinda el Presidente del Tribunal Superior de Justicia, en los términos previstos por la fracción VII, segundo párrafo, del artículo 89 de la Constitución Política del Estado Libre y Soberano de Guerrero;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+X.- Conocer, en sesión pública y solemne, el informe anual de labores del Poder Judicial, que presente el Presidente del Tribunal Superior de Justicia, en el mes de diciembre de cada año;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XI.- Nombrar, ratificar, suspender o destituir a los Jueces, a propuesta del Consejo de la Judicatura;
+XI.- Nombrar a los jueces ordinarios o del sistema penal acusatorio, previo examen, propuesta y dictamen del Consejo de la Judicatura. En el nom-bramiento (sic) de los jueces se ga-rantizará (sic) el respeto al principio de equidad de género.
 
 XII.- Nombrar a los Secretarios de Acuerdos, Auxiliares, Proyectistas, Actuarios y demás Personal de confianza de las Salas del Tribunal Superior de Justicia;
 
-XIII.- Nombrar a los Secretarios, Actuarios, Proyectistas, y demás servidores públicos de confianza de los Juzgados a propuesta de sus titulares;
+XIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 XIV.- Crear las comisiones necesarias que coadyuven a la buena marcha de la impartición de la justicia;
 
-XV.- Designar al Magistrado y Juez de Primera Instancia para que integren el Consejo de la Judicatura Estatal, por el voto de cuando menos doce de sus integrantes, conforme a lo dispuesto en la Constitución Política Local;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XV.- Designar al magistrado que integrará el Consejo de la Judicatura, conforme a lo dispuesto en la Constitución Política local;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -387,9 +413,13 @@ XX.- Conocer y resolver las excitativas de justicia que se promuevan en contra d
 
 XXI.- Resolver sobre las renuncias de los Jueces; Secretario General de Acuerdos, Auxiliares, Secretarios de Acuerdos de las Salas, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial;
 
-XXII.- Resolver sobre las licencias con o sin goce de sueldo que soliciten los Magistrados por más de quince días y hasta dos meses;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXIII.- Conceder licencia al Presidente del Tribunal hasta por dos meses;
+XXII.- Resolver sobre las licencias con o sin goce de sueldo que soliciten los magistrados por más de quince días y hasta por noventa días;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXIII.- Conceder licencia improrrogable al Presidente del Tribunal hasta por sesenta días; concluido ese plazo, si no se reincorpora, se designará Presidente interino.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -399,21 +429,23 @@ XXIV.- Conceder a los jueces licencias con goce de sueldo o sin él, por más de
 
 XXV.- Expedir los reglamentos para el funcionamiento del Poder Judicial y modificarlos, en su caso, cuando sea necesario para mejorar la administración de justicia;
 
-XXVI.- Integrar el Consejo de Administración del Fondo Auxiliar para la Administración de Justicia;
+XXVI.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XXVII.- Suspender en sus funciones, a solicitud de la autoridad judicial, al Juez en contra de quien se ejercite acción penal, siempre que se reúnan los requisitos que para librar una orden de aprehensión exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos. Para este efecto, la Sala Penal de adscripción, conforme a lo dispuesto por el artículo 6 de esta Ley, presentará a consideración del Pleno del Tribunal el proyecto de resolución respectivo, que por turno elaborará uno de los Magistrados que la integran;
+XXVII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XXVIII.- Aprobar, modificar o revocar las resoluciones que emita el Consejo de la Judicatura, en caso de faltas e incumplimiento de las obligaciones de los servidores públicos del Poder Judicial, cuando se trate de suspensión, destitución o inhabilitación del cargo;
+XXVIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 XXIX.- Conocer y resolver de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal y de los Magistrados de las Salas;
 
 XXX.- Dirimir los conflictos jurídicos que surjan entre municipios; entre éstos y cualquiera de los Poderes del Estado, o entre los propios Poderes del Estado, siempre que la resolución de tales conflictos no sea de la competencia de la Suprema Corte de Justicia de la Nación;
 
-XXXI.- Elaborar su presupuesto anual de egresos para integrarlo al del Poder Judicial y remitirlo al Ejecutivo del Estado, por conducto del Presidente del Tribunal, para los efectos legales del Artículo 89, fracción VII, párrafo primero, de la Constitución Política Local;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXXII.- Conferir a los Magistrados Supernumerarios, cuando no estén en ejercicio, las funciones que se estimen pertinentes;
+XXXI. - Formular su proyecto de presupuesto de egresos anual para integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente.
 
-XXXIII.- Designar y remover libremente, a propuesta del Consejo de la Judicatura, a los titulares de los órganos auxiliares del mismo, así como resolver sobre su renuncia, licencia o suspenderlos en los términos que determina la Ley;
+XXXII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
+
+XXXIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 XXXIV.- Presentar iniciativas sobre esta Ley Orgánica ante la Legislatura del Estado;
 
@@ -425,21 +457,31 @@ XXXVII.- Autorizar al Presidente para que a nombre del Pleno del Tribunal otorgu
 
 XXXVIII.- Autorizar al Presidente para que a nombre del Pleno del Tribunal Superior, celebre convenios que coadyuven a la buena administración de justicia;
 
-XXXIX.- Solicitar al Consejo de la Judicatura expida acuerdos generales para asegurar un adecuado ejercicio de la función jurisdiccional;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXXIX.- Solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias;
 
 XL.- Solicitar al Consejo de la Judicatura se investigue la conducta de los Jueces;
 
 XLI.- Revisar, confirmar, modificar o revocar, en su caso, por el voto de cuando menos doce de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura. La resolución recaída a los mismos, deberá estar debidamente fundada y motivada;
 
-XLII.- Inhabilitar de manera temporal para desempeñar empleos, cargos o comisiones en el servicio público, a los servidores públicos que incurran en faltas administrativas; y
+XLII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XLIII.- Las demás que le confieran las Leyes.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XLIII.- Solicitar al Gobernador del Estado, el nombramiento de magistrado del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XLIV.- Las demás que le confieran las Leyes.
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 17.
 
-Son atribuciones del Presidente del Tribunal:
+Son atribuciones y obligaciones del Presidente del Tribunal:
 
 I.- Vigilar que se cumplan con los fines propios de la Administración de Justicia del Estado, dictando al efecto las medidas pertinentes;
 
@@ -459,15 +501,19 @@ VI.- Autorizar con el Secretario General de Acuerdos del Tribunal las actas y re
 
 VII.- Dar cuenta al Pleno del Tribunal de todos aquellos actos que lleve a cabo en el ejercicio de sus funciones y que por su importancia éste deba conocer;
 
-VIII.- Rendir anualmente al Pleno del Tribunal, el informe de labores del Poder Judicial, en cumplimiento de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Guerrero;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VIII.- Presentar en diciembre de cada año, un informe ante el Pleno del Tribunal Superior de Justicia del Estado y ante el Consejo de la Judicatura, remitiendo copia al titular del Poder Ejecutivo y al representante del Poder Legislativo sobre la situación que guarda la impartición de justicia en la entidad, en cumplimiento de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Guerrero;
 
 IX.- Integrar y presidir el Consejo de la Judicatura Estatal;
 
-X.- Proponer al Pleno del Tribunal, para su aprobación, los nombramientos del Magistrado y Juez de Primera Instancia, para integrar el Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+X.- Proponer al Pleno del Tribunal, para su aprobación, el nombramiento del magistrado que integrará el Consejo de la Judicatura;
 
 XI.- Proponer al Pleno la integración y designación de las Comisiones necesarias que coadyuven a la buena marcha de impartición de justicia;
 
-XII.- Suscribir a nombre del Tribunal Superior de Justicia los convenios que coadyuven a la buena impartición de justicia y someterlos a la consideración del Pleno para su aprobación;
+XII.- Suscribir a nombre del Tribunal Superior de Justicia los convenios que coadyuven a la buena impartición de Justicia y someterlos a la consideración del Pleno para su aprobación;
 
 XIII.- Previo acuerdo del Pleno y a nombre de éste, otorgar poderes generales o especiales;
 
@@ -479,7 +525,7 @@ XVI.- Solicitar el auxilio de la fuerza pública, para desalojar a las personas 
 
 XVII.- Apersonarse en los juicios de amparo que se promuevan en contra de las resoluciones del Pleno;
 
-XVIII.- Presidir el Consejo de Administración del Fondo Auxiliar para la Administración de Justicia;
+XVIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 XIX.- Representar al Poder Judicial en las adquisiciones y enajenaciones de bienes y servicios, y proveer la administración de bienes y derechos que componen el patrimonio del Poder Judicial;
 
@@ -493,9 +539,11 @@ XXII.- Las demás atribuciones que le confieran las leyes.
 
 La Presidencia del Tribunal, para el despacho de los asuntos de su competencia, contará con el personal a que se refiere el artículo 15 de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 19.
 
-Las faltas temporales del Presidente serán cubiertas por un Presidente Suplente, que lo será un Presidente de Sala, que para ese efecto determine el Tribunal en Pleno. Si la falta excede de dos meses, se observará lo establecido en la Constitución Política Local.
+Las faltas temporales del Presidente del Tribunal, no mayores de treinta días, serán cubiertas por el magistrado de mayor antigüedad en el Pleno. Si la falta excede de ese término, el Pleno designará un Presidente interino, de conformidad con lo dispuesto en el artículo 103.2 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
 ###### ARTICULO 20.
 
@@ -507,9 +555,11 @@ Los acuerdos del Presidente pueden reclamarse por la parte interesada ante el Tr
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 22.
 
-Cada Sala elegirá anualmente por mayoría de votos, en la primera semana del mes de mayo, un Presidente que podrá ser reelecto. Las faltas temporales del Presidente, serán cubiertas por el Magistrado que determine la Sala.
+Las Salas colegiadas, en la primera semana del mes de diciembre de cada año, elegirán de entre sus integrantes a un Presidente, que podrá ser reelecto. Las faltas temporales de éste serán cubiertas por el magistrado integrante de la Sala que elija ésta.
 
 ###### ARTICULO 23.
 
@@ -533,25 +583,33 @@ VII.- Vigilar que los Secretarios y demás servidores públicos de la Sala, cump
 
 Quedan adscritos respectivamente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+I.- A la Sala Civil, los Juzgados de Primera Instancia del Ramo Civil y los Juzgados Mixtos de Primera Instancia, por lo que toca a dicha materia, de acuerdo con la jurisdicción que les corresponda;
 
-I.- A las Salas Civiles, los Juzgados de Primera Instancia del Ramo Civil, y los Juzgados Mixtos de Primera Instancia, por lo que toca a dicha materia, de acuerdo con la jurisdicción que les corresponda;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-II.- A las Salas Penales, los Juzgados de Primera Instancia del Ramo Penal, los juzgados de control, los de ejecución de las penas y medidas de seguridad, los de justicia para adolescentes y los Juzgados Mixtos de Primera Instancia, en esta materia conforme a la jurisdicción que les competa;
+II.- A las Salas Penales, los Juzgados de Primera Instancia del Ramo Penal y Juzgados Mixtos de Primera Instancia en esta materia, conforme a la jurisdicción que les competa;
 
 III.- A la Sala Familiar, los Juzgados de Primera Instancia del Ramo de lo Familiar, y los Juzgados Mixtos de Primera Instancia por lo que hace a dicha materia;
 
-El Pleno del Tribunal podrá modificar las anteriores adscripciones, para la buena marcha de la administración de justicia, y asignar a la Sala Auxiliar las que estime necesarias, cuando las Salas no tuvieren rezago, que aquella deba abatir. Asimismo, adscribirá los Juzgados de Paz a los de Primera Instancia.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+IV.- A las Salas Penales Unitarias, los juzgados y tribunales del sistema penal acusatorio, en los términos de esta ley; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+V.- A las Salas de Justicia para Adolescentes, los jueces de la misma materia.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Pleno del Tribunal podrá modificar las anteriores adscripciones para la buena marcha de la administración de justicia. Asimismo adscribirá a los Juzgados de Paz a los de Primera Instancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 25.
 
-Las Salas Civiles, en los asuntos de los Juzgados de su adscripción, conocerán:
+La Sala Civil, en los asuntos de los juzgados de su adscripción, conocerán:
 
 I.- De los recursos de apelación que se interpongan en contra de las resoluciones de los Jueces de Primera Instancia;
 
@@ -563,23 +621,25 @@ IV.- Resolver las excitativas de justicia que se presenten en contra de los Juec
 
 V.- De los conflictos de competencia suscitados entre juzgadores de la misma o diferente materia con arreglo a lo dispuesto por el Código Procesal Civil del Estado; y
 
-VI.- De los demás asuntos que les encomiende el Pleno, las leyes y el Reglamento Interior del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VI.- De los asuntos de extinción de dominio; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VII.- De los demás asuntos que le encomiende el Pleno, las leyes y el Reglamento Interior del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 26.
 
-Las Salas Penales, en los asuntos de los Juzgados de su adscripción, conocerán:
+Las Salas Penales, en su carácter de tribunales de alzada, en los asuntos de los Juzgados de su adscripción, conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+I.- De los recursos de apelación que se interpongan contra los autos y sentencias de los Jueces de Primera Instancia del Ramo Penal y Jueces de Primera Instancia Mixtos;
 
-I. De los recursos de apelación que se interpongan contra los autos y sentencias de los jueces de control, de justicia para adolescentes y, de los jueces de ejecución de las penas y medidas de seguridad;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-II. De los recursos de casación y revisión que se interpongan contra las sentencias que emitan los jueces de justicia para adolescentes y los jueces de Primera Instancia
+II.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -597,6 +657,22 @@ V.- De los conflictos de competencia entre juzgadores de la misma materia; y
 
 VI.- De los demás asuntos que les encomiende el Pleno, las leyes y el Reglamento Interior del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 26 Bis.
+
+Las Salas Penales Unitarias, en los asuntos de los jueces de control, tribunales de enjuiciamiento y jueces de ejecución de su adscripción, conocerán:
+
+I.- De los recursos de apelación que se interpongan contra los autos y resoluciones de los jueces, conforme a lo previsto en el Código Nacional de Procedimientos Penales;
+
+II.- De los impedimentos, excusas y recusaciones de los jueces;
+
+III.- De las excitativas de justicia que se presenten en contra de los Jueces;
+
+IV.- De los conflictos de competencia entre juzgadores de la misma materia, y
+
+V.- De los demás asuntos que prevean las leyes y el Reglamento Interior del Tribunal Superior de Justicia, o les asigne el Pleno del Tribunal.
+
 ###### ARTICULO 27.
 
 La Sala Familiar, en los asuntos de los Juzgados de su adscripción, conocerá:
@@ -613,17 +689,35 @@ V.- De los conflictos de competencia entre juzgadores de la misma o diferente ma
 
 VI.- De los demás asuntos que le encomiende el Pleno, las leyes y el Reglamento Interior del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 27 Bis.
+
+Las Salas Unitarias de Justicia para Adolescentes, como tribunales de alzada, en los asuntos de los jueces de su adscripción, conocerán:
+
+I.- De los recursos de apelación que se interpongan contra los autos y resoluciones de los jueces en dicha materia, conforme a lo previsto en la Ley de Justicia para Adolescentes del Estado;
+
+II.- De los recursos de casación y revisión que se interpongan contra las sentencias que emitan los jueces de justicia para adolescentes.
+
+III.- De los impedimentos, excusas y recusaciones de los jueces;
+
+IV.- De las excitativas de justicia que se presenten en contra de los Jueces;
+
+V.- De los conflictos de competencia entre juzgadores de la misma materia, y
+
+VI.- De los demás asuntos que prevean las leyes y el Reglamento Interior del Tribunal Superior de Justicia, o les asigne el Pleno del Tribunal.
+
 ###### ARTICULO 28.
 
-La Sala Auxiliar funcionará para abatir el rezago de las otras Salas, también podrá hacerlo como Sala de adscripción, en ambos casos, previo acuerdo del Tribunal en Pleno. Cuando funcione para abatir el rezago, conocerá de los recursos y asuntos que le asigne el Pleno del Tribunal.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2014)
 
 ###### ARTICULO 29.
 
-Cuando funcione para abatir el rezago, en los casos de impedimento, excusa o recusación de alguno o algunos de sus miembros o de todos ellos, los autos se devolverán a la Sala de donde provinieron.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2014)
 
 ###### ARTICULO 30.
 
-Cuando funcione como Sala de Adscripción, conocerá de los asuntos de los Juzgados que se le adscriban, teniendo las mismas funciones, facultades y competencia de la Numeraria de la materia para el trámite procesal y la resolución de los negocios.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2014)
 
 ###### ARTICULO 31.
 
@@ -643,13 +737,13 @@ Las Salas del Tribunal Superior de Justicia, tendrán Secretarios de Acuerdos, S
 
 En cada Cabecera de Distrito habrá cuando menos un Juzgado de Primera Instancia de jurisdicción mixta; excepto en aquellos en que la demanda del servicio exija el establecimiento de Juzgados por materia, que podrá ser Civil, Familiar, Penal o de justicia para adolescentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 33.
 
-Los Juzgados de Primera Instancia, se integrarán con un Juez, Secretarios de Acuerdos y demás personal que sea necesario para el cumplimiento de sus funciones. No obstante, los juzgados de Primera Instancia en materia penal y de justicia para adolescentes podrán integrarse con más de un Juez cuando así lo determine el pleno del Tribunal Superior de Justicia conforme a las necesidades del servicio.
+Los juzgados de primera instancia se integrarán con un juez, secretarios de acuerdos y demás personal que sea necesario para el cumplimiento de sus funciones. No obstante, los tribunales de enjuiciamiento y de justicia para adolescentes se integrarán con el número de jueces y personal especializado que se requieran de acuerdo a las necesidades del trabajo y asi lo determine el Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 Cuando los jueces, por disposición de la ley, sean fedatarios de sus propios actos, podrá prescindirse de los secretarios de acuerdos.
 
@@ -667,19 +761,21 @@ Podrán ser designados nuevamente por otro período de seis años y en caso de q
 
 Para ser Juez de Primera Instancia, se requiere cumplir con los mismos requisitos de los Magistrados del Tribunal Superior de Justicia, con excepción de la edad y tiempo de ejercicio de la profesión, que serán de veinticinco años de edad y tener tres años de práctica profesional.
 
-Tratándose del Juez de Control, de Ejecución de las Penas y Medidas de Seguridad, de Justicia Integral para Adolecentes y de Paz del Estado de Guerrero, deberán cumplir con los requisitos siguientes:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-I.- Ser Ciudadano Mexicano por nacimiento, de preferencia Guerrerense, en pleno ejercicio de sus derechos políticos y civiles;
+I.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-II.- Tener cuando menos veinticinco años de edad cumplidos el día de la designación;
+II.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-III.- Poseer el día de la designación, título de licenciado en derecho y cédula profesional, con seis años de práctica profesional, salvo que se trate de funcionarios judiciales con práctica judicial mínima de tres años;
+III.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-IV.- Gozar de buena reputación, no haber sido condenado por delito que amerite pena corporal; ni estar inhabilitado para desempeñar empleo, cargo o comisión públicos;
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-Estarán impedidos para ocupar el cargo de Juez, los que hayan ocupado el cargo de Secretario de Despacho Auxiliar del Titular del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local, durante el año previo al día de su nombramiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Estarán impedidos para ocupar el cargo de juez de primera instancia los que hayan ocupado el cargo de gobernador del Estado, secretario de despacho del Ejecutivo, Procurador o Fiscal General, Senador, Diputado federal o local, o Presidente municipal, durante los dos años previos al día de su nombramiento.
 
 Los nombramientos de Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios como funcionario profesional judicial y que se hayan conducido con eficiencia y probidad en la administración de justicia o que lo merezcan por honorabilidad, competencia y antecedentes en otras ramas de profesión jurídica.
 
@@ -703,25 +799,39 @@ III. Remitir periódicamente los informes de labores al Consejo de la Judicatura
 
 IV. Enviar oportunamente al archivo judicial los expedientes concluidos y cuya entrega no deba hacerse a otra dependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 35 Ter.
 
-Los tribunales estarán integrados por el número de jueces necesarios para un servicio público, independiente, eficiente, e imparcial.
+Los tribunales de enjuiciamiento estarán integrados por el número de jueces necesarios para proporcionar un servicio público, independiente, imparcial, especializado, profesional y eficiente.
 
-Cuando en un tribunal existan das o más jueces, entre ellos se elegirá un juez coordinador del órgano y si los despachos jurisdiccionales se organizaren en un circuito judicial, los jueces nombrarán entre ellos al coordinador general. El Juez coordinador será nombrado por un período de tres años, puede ser reelecto, y tendrá las funciones que le señalen esta ley y el Tribunal Superior de Justicia del Estado. A falta de acuerdo interno de elección, luego de realizadas cinco votaciones, el Tribunal Superior de Justicia del Estado designará al juez coordinador.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Cuando un tribunal de enjuiciamiento sea colegiado, éstos elegirán al juez coordinador del órgano, y si los despachos jurisdiccionales se organizaren en un distrito judicial, designarán, entre ellos, al coordinador general. El juez coordinador durará en su cargo un año, pudiendo ser reelecto, y tendrá las funciones que señalen esta ley y el Tribunal Superior de Justicia del Estado. Si no se ponen de acuerdo en la elección, después de realizadas dos votaciones, el Tribunal Superior de Justicia designará al juez coordinador.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
 
 El juez que conozca de un proceso tendrá la facultad de ordenar lo que corresponda, para el cumplimiento de sus funciones y, en cada asunto, tendrá la potestad de ejercer el régimen disciplinario. En los demás casos, esa potestad le corresponde al cuerpo de jueces y los acuerdos se tomarán por mayoría; si hubiere empate, el coordinador tendrá doble voto.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
 En las resoluciones y las actuaciones, deberán consignarse el nombre y los apellidos del funcionario a cargo del proceso.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
 
 Los tribunales colegiados estarán conformados por el número de jueces que se requieran para el buen servicio publico y actuarán individualmente o en colegios de tres de ellos, salvo que la ley disponga otra forma de integración.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
 El coordinador distribuirá la carga de trabajo, aplicando los criterios que hayan fijado los jueces con anterioridad y buscando siempre la mayor equidad, especialmente para asumir las responsabilidades del turno del tribunal o del Circuito. Cuando no se pongan de acuerdo, el Tribunal Superior de Justicia del Estado, fijará las reglas.
 
-Los tribunales podrán tener competencia y jurisdicción en dos o más de diferentes Circuitos, en uno o en varios Circuitos y aun en todo el territorio del Estado. El Consejo de la Judicatura del Estado regulará la distribución de los asuntos, por razón de la materia o territorio, entre los tribunales, para equiparar el trabajo, con el objeto de mejorar el servicio y obtener el resultado más eficiente.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los jueces de control, tribunales de enjuiciamiento, y jueces de ejecución penal, podrán tener competencia y jurisdicción en dos o más distritos judiciales, o incluso en todo el territorio del Estado, cuando así lo determine el Pleno del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Consejo de la Judicatura regulará la distribución de los asuntos entre los tribunales, por razón de la materia o territorio, para equiparar el trabajo, con el objeto de mejorar el servicio y obtener el resultado más eficiente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -731,37 +841,51 @@ Los tribunales podrán tener competencia y jurisdicción en dos o más de difere
 
 Corresponde a los jueces coordinadores:
 
-I. Tramitar y diligenciar todos los asuntos del despacho, con independencia funcional y responsabilidad propia;
+I. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-II. Conformar tribunales colegiados, o designar por turno al juez que corresponde conocer cada uno de los asuntos determinados o suplir, con otro juez o quien esté de turno, en caso de ausencia de asignado, para el desarrollo de las diligencias previamente señaladas;
+II. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-III, Consignar en los autos todas las certificaciones y constancias referentes a las actuaciones judiciales;
+III. Consignar en los autos todas las certificaciones y constancias referentes a las actuaciones judiciales;
 
 IV. Extender certificaciones;
 
-V. Diligenciar los exhortos, suplicatorias, requisitorias y despachos dentro de los plazos legales y conforme a los criterios que deriven de las disposiciones de la ley y los acuerdos superiores;
+V. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-VI. Notificar a los interesados que concurran al despacho, las respectivas resoluciones, cuando corresponda;
+VI. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-VII. Firmar la razón de recibido de los escritos, los documentos y las copias que sean presentadas al despacho, sin menoscabo que esta atribución pueda delegarla en otros servidores;
+VII. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-VIII. Llevar la contabilidad de los depósitos judiciales, con todas las obligaciones inherentes al cargo, en los despachos donde no exista contador, o no se haya organizado una oficina centralizada de tesorería;
+VIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-IX. Vigilar porque los servidores subalternos cumplan a cabalidad con todos sus deberes y obligaciones, para obtener la mayor eficiencia;
+IX. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-X. Habilitar a cualquiera de los secretarios como Actuario, cuando lo considere necesario y así lo requiera la prestación del servicio;
+X. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XI. Conocer de las excusas y recusaciones de los secretarios;
+XI. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XII. Remitir a la Dirección del Fondo Auxiliar para la Administración de Justicia, las cantidades o documentos que reciba el Juzgado por multas, fianzas, pensiones alimenticias, depósitos, consignaciones o por cualquier otro concepto, dentro del plazo de setenta y dos horas que para tal efecto se fija;
+XII. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XIII. Proveer lo necesario para la adecuada función administrativo-jurisdiccional del Juzgado, coordinando el desempeño armónico del personal, el respeto mutuo, la atención al público, la lealtad al Poder Judicial del Estado y a la administración de justicia, buscando siempre privilegiar la razón y el trato con dignidad y cortesía;
+XIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XIV. Vigilar el correcto manejo de los libros de control autorizados y custodiarlos, bajo su más estricta responsabilidad;
+XIV. (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
-XV. Partícipar en los cursos y seminarios que se organicen para la capacitación y actualización del personal jurídico, otorgando para ese efecto discrecionalmente, los permisos necesarios al personal del Tribunal, en función de la prestación del servicio; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XV. Coordinarse con el Administrador General de Tribunales del Sistema Acusatorio para la debida administración de justicia en esta materia;
 
 XVI. Proponer, junto con los demás jueces del Despacho, a los servidores públicos de su adscripción como candidatos a recibir estímulos y recompensas.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XVII. Fungir como vínculo de comunicación entre los jueces de control, de enjuiciamiento y de ejecución penal con el Administrador del tribunal, respecto a las cargas de trabajo, así como las necesidades y requerimientos de los jueces, con el propósito de agilizar el funcionamiento del Tribunal;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XVIII. Participar en los cursos y seminarios que se organicen para la capacitación y actualización del personal jurídico, otorgando para ese efecto discrecionalmente, los permisos necesarios al personal del Tribunal, en función de la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIX. Las demás atribuciones que se deriven de la ley o le asigne el Pleno del Tribunal Superior de Justicia.
 
 En razón de la carga administrativa que corresponde al Juez Coordinador, éste puede no adjudicarse causas para trámite jurisdiccional. Sin embargo, cuando haya ausencia de jueces, no podrá prescindir de esta función.
 
@@ -855,15 +979,13 @@ V.- De los demás asuntos que les competan de acuerdo con las leyes.
 
 Los Jueces de Primera Instancia con competencia en materia penal tendrán, a su vez, competencia para conocer de la materia de justicia para adolescentes en los términos que determine el Pleno del Tribunal Superior de Justicia del Estado conforme a sus atribuciones y siempre que cumplan con los requisitos establecidos en la Ley de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 40 Bis.
 
-Los Jueces de primera instancia en materia penal y en materia de justicia para adolescentes podrán ser de control, de juicio oral y de ejecución.
+Los jueces en materia penal y en materia de justicia para adolescentes podrán ser de control, de enjuiciamiento y de ejecución.
 
-En ningún caso un juez de control podrá fungir como juez de juicio oral en un mismo asunto.
+En ningún caso un juez de control podrá fungir como juez o tribunal de enjuiciamiento en un mismo asunto.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -873,67 +995,119 @@ En ningún caso un juez de control podrá fungir como juez de juicio oral en un 
 
 Los Jueces de Primera Instancia en materia de justicia para adolescentes conocerán de los asuntos que le consigne el Ministerio Público especializado en dicha materia y que les correspondan de acuerdo con la Ley, así como de los demás casos que esta Ley y otros ordenamientos aplicables les confieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 40 Quáter.
 
-Los Jueces de control dictaran las resoluciones y realizaran los actos de carácter jurisdiccional que corresponda en las etapas de investigación e intermedia o de preparación del juicio, y resolverán respecto de las solicitudes de medidas cautelares, providencias precautorias y técnicas, y de procedimientos de investigación de la autoridad que requieran control judicial, con sujeción a lo que disponga el Código Procesal Penal, la Ley de Justicia para Adolescentes del Estado y demás disposiciones aplicables.
+Los jueces de control dictarán las resoluciones y realizarán los actos de carácter jurisdiccional que corresponda en las etapas de investigación e intermedia o de preparación del juicio, y resolverán respecto de las solicitudes de medidas cautelares, providencias precautorias y técnicas, y de procedimientos de investigación de la autoridad que requieran control judicial, con sujeción a lo que disponga el Código Nacional de Procedimientos Penales, la Ley de Justicia para Adolescentes del Estado y demás disposiciones aplicables.
 
-Los jueces de juicio oral presidirán la audiencia de juicio oral y determinaran la responsabilidad en que hubieren incurrido los imputados por algún delito conforme a las leyes aplicables.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los tribunales de enjuiciamiento presidirán la audiencia de juicio oral y determinarán la responsabilidad en que hubiere incurrido los imputados por algún delito conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
 
 Los jueces de ejecución tendrán a su cargo el control y supervisión de la legalidad en la aplicación y ejecución de las sanciones y medidas impuestas conforme a las leyes respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+ARTICULO 40 Quintus.- Los jueces de control tendrán las siguientes atribuciones y obligaciones:
 
-ARTICULO 40 Quintus.- Los juzgados de Control tendrán las siguientes atribuciones:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
 I. Controlar, a solicitud de las víctimas, ofendidos o imputados, las acciones del Ministerio Público y los Cuerpos de Policía, durante la etapa de investigación en el sistema procesal acusatorio;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
 II. Autorizar las solicitudes del Ministerio Público, cuando es conveniente realizar diligencias o actuaciones que priven, limiten, restrinjan o perturben los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero y los convenios y tratados internacionales vigentes en el país;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
 III. Resolver por escrito o, mediante audiencias orales, las solicitudes del Ministerio Público, de la víctima u ofendido, del imputado o su abogado defensor, en las etapas de investigación e intermedia y resolver los incidentes que se promuevan en ellas;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
 IV. Proteger los derechos de libertad de los imputados sometidos a proceso y decidir sobre las medidas cautelares, cuando la libertad haya sido limitada por acción de los particulares, los cuerpos de policía o el Ministerio Público;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
 V. Resolver en relación con la aplicación de criterios de oportunidad, los mecanismos alternativos de solución de controversias, la suspensión condicional del proceso y el procedimiento abreviado;
 
-VI. Controlar la detención de los imputados cuando se justifique por flagrancia o caso urgente y resolver sobre la vinculación a proceso;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VII. Facilitar, de oficio o a solicitud de parte la solución de las controversias a través de mecanismo (sic) alternativos de solución de controversias de (sic) conforme a lo dispuesto en la ley; y
+VI. Controlar la detención de los imputados por flagrancia o caso urgente, determinar la prórroga de la detención provisional, conforme a lo dispuesto en la ley, y resolver sobre la vinculación a proceso;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VII. Facilitar y autorizar, en su caso, de oficio o a solicitud de parte, la solución de los conflictos a través de mecanismos alternativos de solución de controversias, conforme a lo dispuesto en la ley, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
 VIII. Las demás que le otorgue la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+ARTICULO 40 Sextus.- Los tribunales de enjuiciamiento tienen las atribuciones y obligaciones siguientes:
 
-ARTICULO 40 Sextus.- Los juzgados de Ejecución de las Penas y Medidas de Seguridad tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
+I.- Ajustar el ejercicio de sus funciones a los principios, derechos, garantías y demás lineamientos previstos en el Código Nacional de Procedimientos Penales;
 
-I. Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento;
+II.- Vigilar en todo momento el respeto y estricta observancia de los derechos y garantías de las personas sujetas a su jurisdicción;
 
-II. Decidir sobre la libertad anticipada y su revocación;
+III.- Realizar los actos necesarios para el adecuado desahogo de la audiencia de juicio oral, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales;
 
-III. Proveer sobre la reducción de penas;
+IV.- Presidir y presenciar el debate y debido desarrollo de la audiencia de juicio oral;
 
-IV. Resolver las propuestas que se formulen para modificar las condiciones de cumplimiento de la condena o su reducción;
+V.- Conocer de las pruebas ofrecidas y admitidas para su desahogo en la audiencia de juicio oral, y apreciarlas de manera integral, de acuerdo con lo dispuesto en el Código Nacional de Procedimientos Penales;
 
-V. Inspeccionar el lugar y condiciones en que se deban cumplir las penas y medidas de seguridad y ordenar, en su caso, las medidas correctivas que se estimen pertinentes;
+VI.- Resolver el fondo del asunto sometido a su jurisdicción, haciendo la correspondiente declaración de condena o absolución;
 
-VI. Vigilar el cumplimiento en sus términos de las medidas de seguridad impuestas a los inimputables;
+VII.- Explicar a las partes la sentencia pronunciada;
 
-VII. Resolver sobre la extinción de la sanción penal;
+VIII.- Imponer, cuando proceda, las sanciones y/o medidas a que haya lugar;
 
-VIII. Decidir respecto a la ineficacia de la sentencia condenatoria cuando el tipo penal se suprima o se declare inconstitucional;
+IX.- Condenar a la reparación del daño cuando haya emitido sentencia condenatoria, y
 
-IX. Proveer, con aplicación del procedimiento previsto para los incidentes de ejecución, las peticiones o quejas que los internos formulen con relación al régimen y el tratamiento penitenciario en cuanto afecten sus derechos;
+X.- Las demás que esta ley y otros ordenamientos aplicables les confieran.
 
-X. Resolver, por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias; y
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XI. Las demás que le otorgue la Ley.
+###### ARTICULO 40 Septies.
+
+Los juzgados de ejecución penal tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
+
+I.- Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento;
+
+II.- Decidir sobre la libertad anticipada y su revocación;
+
+III.- Proveer sobre la reducción de penas;
+
+IV.- Resolver las propuestas que se formulen para modificar las condiciones de cumplimiento de la condena o su reducción;
+
+V.- Inspeccionar el lugar y condiciones en que se deban cumplir las penas y medidas de seguridad y ordenar, en su caso, las medidas correctivas que se estimen pertinentes;
+
+VI.- Vigilar el cumplimiento en sus términos de las medidas de seguridad impuestas a los inimputables;
+
+VII.- Resolver sobre la extinción de la sanción penal;
+
+VIII.- Decidir respecto a la ineficacia de la sentencia condenatoria cuando el tipo penal se suprima o se declare inconstitucional;
+
+IX.- Proveer, con aplicación del procedimiento previsto para los incidentes de ejecución, las peticiones o quejas que los internos formulen con relación al régimen y el tratamiento penitenciario en cuanto afecten sus derechos;
+
+X.- Resolver, por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias, y
+
+XI.- Las demás que les confieran las leyes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1053,11 +1227,9 @@ III.- Conceder licencias con goce de sueldo o sin él, hasta por cinco días, al
 
 IV.- Conocer de los negocios civiles y mercantiles de acuerdo con la competencia que señale el Código Procesal Civil, de las informaciones testimoniales para registros extemporáneos de nacimiento y de las diligencias de apeo y deslinde;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
-
-V.- Conocer en materia penal, con funciones de juez de control, de todos los delitos que se cometan en su jurisdicción, cuando no se haya asignado juzgados de control y, en aquellos delitos cuya competencia les señale el Código de Procedimientos Penales del Estado de Guerrero;
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2014)
 
 VI.- Conocer de la acción correccional, en los términos que establece el Código de Procedimientos Penales;
 
@@ -1221,7 +1393,9 @@ En aquellos Distritos Judiciales en los que se establezcan dos o más Juzgados C
 
 El Poder Judicial del Estado establecerá el Sistema de Carrera Judicial de sus servidores públicos, atendiendo a los principios de capacidad, rectitud, constancia, probidad, excelencia, profesionalismo, objetividad, imparcialidad, independencia, antigüedad de servicio y honestidad. El sistema de carrera judicial tendrá como propósito garantizar la estabilidad y seguridad en el empleo; así como el ingreso, formación, actualización, promoción y permanencia de los servidores públicos del Poder Judicial.
 
-El Pleno del Tribunal, a propuesta del Consejo de la Judicatura Estatal, expedirá el Reglamento del Sistema de Carrera Judicial, que deberá contener por lo menos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Consejo de la Judicatura expedirá el Reglamento del Sistema de Carrera Judicial, que deberá contener por lo menos:
 
 I.- El sistema de mérito para la selección, ingreso, promoción y ascenso de los Servidores Públicos del Poder Judicial;
 
@@ -1277,13 +1451,11 @@ Las designaciones para cubrir las plazas vacantes de Jueces de Primera Instancia
 
 ### CAPITULO IX. DE LOS IMPEDIMENTOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 68.
 
-Los Magistrados, Jueces de Primera Instancia, Jueces de Control, de Ejecución, de Justicia Integral para Adolescentes y Jueces de Paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
+Los magistrados, jueces de primera instancia, jueces de control, de enjuiciamiento, de ejecución, de justicia para adolescentes y jueces de paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
 
 I.- Tener parentesco por consanguinidad en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado y por afinidad hasta el segundo grado, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -1353,27 +1525,33 @@ X.- Los Coordinadores, Jefes y Subjefes de Departamento u Oficina; y
 
 XI.- En general todo aquel Servidor Público que ejecute una función de Dirección o Administración dentro del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 71.
 
-Los Magistrados del Tribunal Superior de Justicia, podrán retirarse voluntariamente percibiendo un haber en los siguientes términos:
+Los magistrados del Tribunal Superior de Justicia al retirarse tendrán derecho a un haber de retiro de carácter vitalicio equivalente al cien por ciento durante los dos primeros años y al setenta por ciento durante el resto del tiempo, del ingreso mensual que corresponda a los magistrados en activo.
 
-I.- Tener doce años o más de servicio efectivo como Magistrado, con un haber del 50 %;
+Cuando los magistrados se retiren sin haber cumplido quince años en el ejercicio del cargo, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño en el ejercicio del cargo.
 
-II.- Tener quince años o más de servicio efectivo como Magistrado, con un haber del 75 %;
-
-III.- Tener veinte años o más de servicio efectivo como Magistrado, el haber será del 100 %.
-
-El porcentaje del haber señalado, será del salario integrado que perciba, el cual se actualizará de acuerdo con los aumentos otorgados a los Magistrados en ejercicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 72.
 
-Son causas de retiro forzoso de un Magistrado del Tribunal Superior de Justicia:
+Son causas de retiro forzoso de un magistrado del Tribunal Superior de Justicia:
 
-I.- Haber cumplido setenta y dos años de edad y tener doce años o más de servicio efectivo como Magistrado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-II.- Padecer incapacidad física o mental permanente para el desempeño de su cargo.
+I. Haber cumplido setenta años de edad;
 
-En estos casos recibirán un haber del 100 %.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II. Padecer incapacidad física o mental permanente para el desempeño de su cargo; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+III. Haber cumplido quince años de servicio en el desempeño del cargo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 73.
 
@@ -1397,15 +1575,25 @@ En caso de que algún Magistrado no fuera ratificado, se le otorgará un retiro 
 
 El Consejo de la Judicatura Estatal es un Organo del Poder Judicial del Estado con independencia técnica y de gestión; así como para emitir sus dictámenes y resoluciones; y tiene a su cargo la administración, vigilancia y disciplina del Poder Judicial, con excepción del Pleno, las Salas y los Magistrados del Tribunal Superior de Justicia.
 
-El Consejo se integrará por cinco miembros de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y tendrá voto de calidad en caso de empate; dos Consejeros nombrados por el Gobernador y aprobados por el Congreso del Estado, en los términos establecidos por la Constitución Política Local, y dos Consejeros designados por el Pleno del Tribunal, uno de entre los Magistrados del Tribunal, y otro de entre los Jueces de Primera Instancia, aprobados por el voto de cuando menos doce de sus integrantes.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-Los Consejeros durarán en sus cargos cinco años, salvo el Presidente del Consejo. Serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo período.
+El Consejo se integrará por cinco miembros de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y tendrá voto de calidad en caso de empate; un consejero nombrado por el Gobernador del Estado, un consejero designado por las dos terceras partes del total de los miembros del Congreso del Estado, un consejero designado por el Pleno del Tribunal de entre sus magistrados y un consejero elegido entre los jueces de primera instancia por votación libre y directa de todos los que posean esta última categoría, en los términos establecidos por la Constitución Política local. Para este último efecto la presidencia del Tribunal convocará a los jueces de primera instancia, con el propósito de que entre ellos elijan al Consejero que habrá de integrar el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Los Consejeros, salvo el Presidente del Consejo, durarán en sus cargos tres años, con posibilidad de ser ratificados por única ocasión. Serán sustituidos de manera escalonada.
 
 Durante su encargo, sólo podrán ser removidos en los términos del Título Décimo Tercero de la Constitución Política del Estado.
 
 Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
-Los Consejeros designados por el Poder Judicial ejercerán su función, sin que ésta resulte incompatible con sus cargos de Magistrados o de Juez.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Durante el ejercicio de su encargo, los consejeros provenientes del Poder Judicial del Estado no realizarán funciones jurisdiccionales. Al término del encargo se reincorporarán a sus respectivas adscripciones.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Las decisiones del Consejo de la Judicatura serán adoptadas por el voto de la mayoría de sus integrantes.
 
 ###### ARTICULO 77.
 
@@ -1421,15 +1609,45 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
 
-No podrán ser Consejeros, las personas que hayan ocupado el cargo de Secretario de Despacho Auxiliar del Titular del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local, durante el año previo al día de su nombramiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+No podrán ser consejeros las personas que sean o hayan sido titulares de alguna dependencia, entidad u organismo de la administración pública estatal o municipal, o representante popular federal o estatal, durante los dos años previos a su designación, y quienes sean o hayan sido dirigentes de algún partido político o postulado para cargo de elección popular dentro de los tres años anteriores a su designación. Tampoco los ministros de algún culto religioso.
 
 Los nombramientos de los Consejeros serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-Tratándose de los Consejeros designados por el Pleno del Tribunal Superior de Justicia, deberán gozar, además, con reconocimiento en el ámbito judicial.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Tratándose de los Consejeros designados por el Pleno del Tribunal Superior de Justicia y por los jueces de primera instancia, deberán gozar, además, con reconocimiento en el ámbito judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 78.
 
-El Consejo de la Judicatura Estatal, funcionará en Pleno o en comisiones y tendrá competencia para proponer al Pleno del Tribunal Superior de Justicia todas las medidas que estime conducentes para eficientar la administración de justicia.
+El Consejo de la Judicatura funcionará en Pleno o en comisiones y tendrá competencia para expedir por sí, o a solicitud del Pleno del Tribunal Superior de Justicia, acuerdos generales para el adecuado ejercicio de sus funciones o de la función jurisdiccional y proponer al Pleno del Tribunal citado las medidas que estime conducentes para eficientar la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Consejo de la Judicatura contará con las comisiones permanentes o transitorias que determine el Pleno del mismo, debiendo existir en todo caso las de administración, carrera judicial y disciplina.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Cada comisión se formará por tres miembros.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Las resoluciones de las comisiones se tomarán por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. Las comisiones calificarán las excusas e impedimentos de sus miembros.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Las comisiones creadas nombrarán a su respectivo presidente y determinarán el tiempo que deba permanecer en el cargo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+En todos aquellos casos en los que no sea posible la resolución de un asunto en comisiones, su conocimiento y resolución pasará al Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El reglamento interior del Consejo de la Judicatura desarrollará las bases previstas en este artículo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1441,9 +1659,11 @@ El Pleno del Consejo de la Judicatura se integrará con los cinco consejeros, pe
 
 ### CAPITULO II. ATRIBUCIONES DEL CONSEJO DE LA JUDICATURA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 79.
 
-Son atribuciones del Consejo de la Judicatura Estatal:
+Son atribuciones del Consejo de la Judicatura:
 
 I.- Proponer al Pleno del Tribunal la designación, adscripción, ratificación y remoción de Jueces;
 
@@ -1459,7 +1679,9 @@ VI.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones. Asi
 
 VII.- Proponer al Pleno, para su aprobación, los reglamentos interiores en materia administrativa, de Examen de Oposición para ocupar el cargo de Juez de Primera Instancia, de Paz y demás Servidores Públicos, de la carrera judicial, de escalafón, de regímenes disciplinarios y los que sean necesarios para el buen funcionamiento del Poder Judicial;
 
-VIII.- Nombrar y remover libremente al Secretario General del Consejo, al Secretario Auxiliar y demás personal de confianza;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VIII.- Nombrar y remover libremente al Secretario General del Consejo, al Administrador General de Tribunales del Sistema Penal Acusatorio, a los Administradores de Tribunal, al Secretario Auxiliar y demás personal de confianza;
 
 IX.- Proponer los cambios de adscripción de los servidores públicos del Poder Judicial, de acuerdo con las necesidades del servicio;
 
@@ -1511,7 +1733,7 @@ XXIX.- Autorizar al Presidente, para que a nombre del Consejo otorgue poderes ge
 
 XXX.- Cuando se lo solicite el Pleno del Tribunal, investigar la conducta de los jueces;
 
-XXXI.- Llevar un control individual de las resoluciones emitidas por los Jueces, cuando estas sean confirmadas, modificadas o revocadas por sus Superiores, para el efecto de proponer las medidas necesarias para una buena administración de justicia;
+XXXI.- Llevar un control individual de las resoluciones emitidas por los Jueces, cuando éstas sean confirmadas, modificadas o revocadas por sus Superiores, para el efecto de proponer las medidas necesarias para una buena administración de justicia;
 
 XXXII.- Designar a los Jueces de Primera Instancia de los Ramos Civil y Penal, respectivamente, que integrarán la Comisión Técnica de la Coordinación General de Peritos;
 
@@ -1523,11 +1745,33 @@ XXXIII.- Establecer los Libros de Gobierno que habrán de llevar las Salas y los
 
 XXXIV.- Dictar las medidas necesarias para el correcto funcionamiento del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y ejercer las demás atribuciones en materia de mecanismos alternativos de solución de controversias que deriven en esta Ley y la ley de la materia, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+XXXV.- Nombrar al Defensor General del Instituto de la Defensoría Pública del Estado, de acuerdo al procedimiento establecido en el artículo 168 de la Constitución Política local, así como a los integrantes del Consejo Consultivo del mismo, de carácter honorífico, que se integrará con cinco miembros, conforme al estatuto y al reglamento interior del citado instituto.
 
-XXXV.- Las demás facultades que las Leyes o Reglamentos le otorguen.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXXVI.- Seleccionar, nombrar y adscribir a los defensores públicos, visitadores y asesores jurídicos del Instituto de la Defensoría Pública del Estado que se requieran para el adecuado cumplimiento de sus funciones y de acuerdo al presupuesto asignado, en términos del estatuto y del reglamento interior del mismo; así como capacitarlos y resolver sobre su promoción y permanencia, conforme a lo dispuesto en la ley y reglamentación correspondientes.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXXVII.- Otorgar prestaciones, estímulos y determinar las responsabilidades de los defensores públicos y asesores jurídicos del Instituto de la Defensoría Pública del Estado, de acuerdo con su estatuto y reglamento interior.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXXVIII.- Nombrar al demás personal jurídico y administrativo del Instituto de la Defensoría Pública del Estado, de acuerdo al estatuto y reglamento correspondientes.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXXIX. Administrar, transparentar y rendir los informes necesarios con relación al Fondo Auxiliar para la Administración de Justicia;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XL.- Las demás facultades que las Leyes o Reglamentos le otorguen.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa, en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones, y velará que los órganos a su cargo así lo hagan.
 
 ###### ARTICULO 80.
 
@@ -1541,13 +1785,39 @@ III.- Conocer de los informes de actividades que realice el Instituto; y
 
 IV.- Establecer las políticas para el otorgamiento de apoyos a los servidores públicos del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 80 Bis.
+
+Corresponde al Consejo de la Judicatura evaluar el desempeño de los jueces del Tribunal Superior de Justicia, para la ratificación de éstos, con base a los elementos siguientes:
+
+I.- El desempeño jurisdiccional que se haya tenido en el ejercicio de su función;
+
+II.- La honestidad con que se haya conducido en el ejercicio del cargo.
+
+III.- Los resultados de las comisiones, en su caso, encomendadas por el Pleno del Tribunal;
+
+IV.- El grado académico, que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente, que se hayan efectuado durante el ejercicio del cargo; y
+
+V.- Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la evaluación.
+
+La evaluación se sujetará además de los principios de legalidad y objetividad a que se refiere la Constitución Política del Estado, en los de certeza e imparcialidad, y el dictamen que al efecto se apruebe deberá estar debidamente fundado y motivado.
+
+El magistrado que sea evaluado se le concederá el derecho de audiencia, a efecto de que ofrezca las pruebas documentales y demás datos que estime pertinentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 81.
 
-Son Atribuciones del Presidente del Consejo de la Judicatura Estatal, las siguientes:
+Son Atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
 
-I.- Representar en juicio al Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-II.- Previa autorización del Consejo de la Judicatura Estatal, otorgar poderes generales y especiales que sean necesarios;
+I.- Representar en juicio al Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+II.- Previa autorización del Consejo de la Judicatura, otorgar poderes generales y especiales que sean necesarios;
 
 III.- Presidir el Pleno del Consejo, sus comisiones y dirigir los debates, conservar el orden en las sesiones y llevar la correspondencia del Consejo;
 
@@ -1555,13 +1825,17 @@ IV.- Formular el proyecto del presupuesto anual del Poder Judicial;
 
 V.- Convocar a los integrantes del Consejo a sesiones ordinarias, así como a las extraordinarias cada vez que lo estime necesario para el buen funcionamiento de la administración de justicia;
 
-VI.- Proponer al Consejo de la Judicatura Estatal, las medidas necesarias para mejorar la Administración de Justicia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VI.- Proponer al Consejo de la Judicatura, las medidas necesarias para mejorar la Administración de Justicia;
 
 VII.- Resolver los asuntos cuya atención no admita demora, dada su importancia y trascendencia;
 
-VIII.- Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Consejo de la Judicatura Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-IX.- Vigilar la publicación de la revista del Poder Judicial;
+VIII.- Vigilar el funcionamiento de los órganos auxiliares y de las unidades administrativas del Consejo de la Judicatura;
+
+IX.- Vigilar la publicación de la Revista del Poder Judicial;
 
 X.- Hacer del conocimiento del Tribunal en Pleno las faltas absolutas de los Jueces y demás servidores públicos del Tribunal Superior de Justicia;
 
@@ -1577,7 +1851,9 @@ XV.- Recibir, por conducto de la Dirección Administrativa o de la Unidad de Aud
 
 XVI.- Conceder licencias hasta por quince días con goce de sueldo o sin él, al personal de confianza, de base y, demás administrativo del Poder Judicial; y
 
-XVII.- Las demás que determinen las Leyes, Reglamentos y acuerdos generales.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XVII.- Presidir el Consejo de Administración del Fondo Auxiliar para la Administración de Justicia;
 
 ### CAPITULO III. DEL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA ESTATAL
 
@@ -1655,11 +1931,13 @@ VIII.- El Archivo Judicial;
 
 IX.- La Oficina Editorial; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+X.- Administración General de los Tribunales del Sistema Penal Acusatorio, y
 
-X.- Las demás unidades administrativas que se requieran para el desempeño de las funciones del Poder Judicial.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XI.- Las demás unidades administrativas que se requieran para el desempeño de las funciones del Poder Judicial.
 
 ###### ARTICULO 86.
 
@@ -1933,13 +2211,203 @@ VII.- De toda visita de inspección deberá levantarse acta circunstanciada, en 
 
 El acta levantada por el visitador será entregada al Consejo de la Judicatura, a fin de que determine lo que corresponda.
 
-### CAPITULO I. DE LAS INASISTENCIAS Y SUPLENCIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
 
-### CAPITULO II. DE LOS ORGANOS ENCARGADOS DE DECLARAR LA RESPONSABILIDAD E IMPONER SANCIONES
+### CAPÍTULO XI. DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE GUERRERO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Bis.
+
+El Instituto de la Defensoría Pública del Estado de Guerrero es el órgano adscrito y dependiente del Consejo de la Judicatura, cuya función es procurar el derecho a una defensa y asesoría integral, ininterrumpida, oportuna y especializada ante los órganos jurisdiccionales del Estado.
+
+En el ejercicio de su función deberá observar los principios de gratuidad, probidad, independencia técnica, calidad, confidencialidad, profesionalismo y obligatoriedad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Ter.
+
+El Instituto de la Defensoría Pública del Estado de Guerrero tendrá como su titular a un Defensor General y contará, además, con un Consejo Consultivo de carácter honorífico, integrado por cinco miembros, quienes serán nombrados por el Consejo de la Judicatura, de acuerdo a lo establecido en la Constitución local y a los requisitos de elegibilidad que se señalen en la Ley de la Defensoría Pública del Estado de Guerrero.
+
+El Defensor General durará en su encargo cuatro años y podrá ser ratificado por un periodo igual.
+
+Los integrantes del Consejo Consultivo durarán en su cargo dos años y podrán ser ratificados por otro periodo igual.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Quater.
+
+El Defensor General del Instituto tendrá las facultades y obligaciones siguientes:
+
+I. Administrar y representar legalmente al Instituto, dirigiendo su funcionamiento y vigilando la correcta aplicación de los planes y programas de gestión, financieros y administrativos;
+
+II. Desarrollar las líneas de acción y los acuerdos aprobados por los órganos colegiados del Instituto;
+
+III. Promover y suscribir convenios y contratos con personas físicas o morales, instituciones y organismos locales, nacionales o internacionales, de los sectores público y privado, para el desarrollo, intercambio y cooperación en programas y proyectos que coadyuven al cumplimiento de los objetivos del Instituto;
+
+IV. Implementar los sistemas, procesos, instancias y demás opciones a fin de incorporar la técnica a la defensa pública;
+
+V. Elaborar, proponer, cumplir y hacer cumplir el reglamento interior y demás normatividad aplicable al Instituto;
+
+VI. Desahogar los procedimientos de excusa del defensor público y resolver lo conducente;
+
+VII. Convocar a los directivos y defensores públicos, por lo menos cada tres meses, a reuniones de trabajo para coordinar las labores del servicio y unificar los criterios que deben sostener ante las autoridades jurisdiccionales;
+
+VIII. Presentar ante las autoridades competentes el anteproyecto de presupuesto anual de ingresos y egresos del Instituto, así como la cuenta pública del mismo en los términos establecidos en la ley de la materia;
+
+IX. Presentar a los órganos colegiados del Instituto las propuestas y consultas que prevé la ley;
+
+X. Proponer al Consejo de la Judicatura el proyecto de reglamento interior del Instituto, o sus modificaciones, considerando en su caso la opinión del Consejo Consultivo;
+
+XI. Rendir al Pleno del Consejo de la Judicatura un informe anual en el mes de diciembre sobre el desempeño de las funciones, planes y programas del Instituto;
+
+XII. Tomar las previsiones necesarias para cubrir las ausencias del personal adscrito al Instituto en términos del reglamento interior;
+
+XIII. Delegar en el personal a su cargo las facultades necesarias para la realización de actos concretos encaminados a la consecución del objeto del Instituto, y
+
+XIV. Las demás que establezcan las normas y disposiciones reglamentarias del Instituto.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Quinquies.
+
+El Consejo Consultivo será el órgano de consulta del Instituto y estará integrado de la siguiente manera:
+
+I. Un representante de las Facultades de Derecho;
+
+II. Un representante de los Colegios de Abogados;
+
+III. Un representante de organizaciones civiles dedicadas a la asesoría y patrocinio legal gratuito;
+
+IV. Un representante de la Comisión de Defensa de los Derechos Humanos, y
+
+V. Un representante del Tribunal Superior de Justicia del Estado.
+
+Las instituciones o sectores a los que se hace referencia, deberán estar radicadas en el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Sexies.
+
+Los miembros del Consejo Consultivo se designarán mediante convocatoria expedida por el Pleno del Consejo de la Judicatura, en la que se determinarán los criterios y mecanismos de selección aplicables. El proceso deberá ser transparente y público.
+
+El Presidente del Consejo Consultivo se elegirá de entre sus miembros por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Septies.
+
+El Consejo Consultivo tendrá las atribuciones siguientes:
+
+I.- Asesorar al Defensor General en la formulación y desarrollo de los planes y programas del Instituto;
+
+II.- Proponer el desarrollo de programas y proyectos para el cumplimiento de los objetivos del Instituto;
+
+III.- Formular recomendaciones para el mejoramiento de la calidad de los programas del Instituto;
+
+IV.- Fungir como instancia de recomendación y consulta a petición del Defensor General del Instituto;
+
+V.- Recomendar la elaboración de proyectos que además de fortalecer las labores propias del Instituto, representen oportunidades de obtención de fondos adicionales a los presupuestados;
+
+VI.- Opinar sobre las políticas relativas a la selección, ingreso y permanencia del personal del Instituto;
+
+VII.- Promover ante el Defensor General la vinculación del Instituto con instituciones relacionadas con su objeto en el ámbito local, nacional e internacional;
+
+VIII.- Proponer mecanismos que fortalezcan la aplicación de la técnica en los servicios de defensa pública;
+
+IX.- Recomendar la implementación de sistemas de evaluación y seguimiento de los trabajos de defensa pública, así como programas de mejora continua y sistematización de procesos, y
+
+X.- Las demás que le confiera la ley, su reglamento y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Octies.
+
+Las competencias del Defensor General, del Consejo Consultivo y demás servidores públicos serán las que establezcan la Ley de la Defensoría Pública del Estado de Guerreros (sic), su estatuto y el Reglamento Interior del mismo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Nonies.
+
+El Instituto de la Defensoría Pública del Estado de Guerrero contará con los defensores públicos, asesores jurídicos, visitadores y demás personal jurídico y administrativo que se requieran para el debido cumplimento de las funciones de dicho instituto, de acuerdo a lo establecido en la Ley de la Defensoría Pública del Estado de Guerrero y al presupuesto de egresos asignado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO XII. DE LA ADMINISTRACIÓN GENERAL DE LOS TRIBUNALES DEL SISTEMA PENAL ACUSATORIO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 106 Decies.
+
+El Administrador General de los Tribunales del Sistema Penal Acusatorio estará adscrito al Consejo de la Judicatura y tendrá las siguientes facultades y obligaciones:
+
+I.- Velar por la debida administración de los tribunales relativos al sistema de justicia penal acusatorio;
+
+II.- Planear y coordinar las acciones tendientes al correcto funcionamiento de la administración de los tribunales del sistema penal acusatorio;
+
+III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño;
+
+IV.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia y a los tribunales del sistema de justicia penal acusatorio;
+
+V.- Implementar y dar cumplimiento a las políticas y directrices generales que dicte el Presidente del Consejo de la Judicatura, en materia de selección de personal, evaluación, administración de recursos materiales y humanos, de diseño y análisis de información estadística y demás;
+
+VI.- Informar las necesidades presupuestarias anuales y turnarlas a la unidad administrativa del Consejo de la Judicatura;
+
+VII.- Dar cuenta semestralmente al Presidente del Consejo de la Judicatura, del estado que guarda la gestión administrativa del nuevo sistema de justicia penal;
+
+VIII.- Dictar las medidas para hacer más eficiente el modelo de gestión administrativa;
+
+IX.- Realizar las mejoras a los inmuebles e infraestructura que estén bajo custodia del Administrador de Tribunal, y
+
+X.- Las demás que determinen las disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTICULO 106 Undecies. El Administrador General deberá tener a su mando a los Administradores de Tribunal, quienes reunirán los mismos requisitos que se exigen para ser administrador general, y tendrán las atribuciones siguientes:
+
+I.- Dirigir las labores administrativas, para que las audiencias que presidan los jueces de control, los tribunales de enjuiciamiento y los jueces de ejecución penal se desarrollen adecuadamente;
+
+II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los jueces de control, los tribunales de enjuiciamiento y los jueces de ejecución penal;
+
+III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño;
+
+IV.- Distribuir el despacho judicial y las audiencias a los jueces de control, de los tribunales de enjuiciamiento y jueces de ejecución penal, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático;
+
+V.- Establecer el orden de guardias de los jueces de control;
+
+VI.- Verificar que se cumpla con el abastecimiento de material de trabajo a las áreas de su competencia, de conformidad a lo requerido mensualmente por el juez coordinador;
+
+VII.- Tener bajo su custodia las salas de audiencia, así como los bienes asignados a las mismas, debiendo poner de inmediato en conocimiento del Presidente del Consejo, cualquier deterioro que sufran;
+
+VIII.- Custodiar los bienes y valores que se encuentren a disposición de los jueces de control y los tribunales de enjuiciamiento con motivo de la tramitación de los asuntos sometidos a su conocimiento;
+
+IX. Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones VII y VIII de este artículo, y
+
+X. Las demás que determinen las disposiciones legales.
+
+El Consejo de la Judicatura determinará la adscripción del Administrador General y los Administradores de Tribunal.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTICULO 106 Duodecies. Para ser Administrador General se requiere:
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener edad mínima de treinta años;
+
+III.- Tener título profesional de Licenciatura en Sistemas Computacionales, Administración, Ingeniero Industrial o carrera afín;
+
+IV.- Tener experiencia profesional a nivel de dirección o gerencial en instituciones públicas o empresas privadas, y
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTICULO 106 Terdecies.- El Administrador General y los Administradores de Tribunal serán considerados para efectos laborales como trabajadores de confianza y tendrán adscrito y a su cargo el personal que les asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones.
 
 ## TITULO QUINTO. DE LA RESPONSABILIDAD, OBLIGACIONES Y DERECHOS DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL
 
-### CAPITULO III. DE LAS FALTAS
+### CAPITULO I. DE LAS INASISTENCIAS Y SUPLENCIAS
 
 ###### ARTICULO 107.
 
@@ -1957,13 +2425,13 @@ Las faltas temporales de los Secretarios y demás personal de los Juzgados de Pa
 
 Las recusaciones de los secretarios del Tribunal Superior y de los Juzgados de Primera Instancia y de Paz, se substanciarán ante las Salas o Jueces con quienes actúen.
 
-### CAPITULO IV. DE LAS QUEJAS Y DENUNCIAS
+### CAPITULO II. DE LOS ORGANOS ENCARGADOS DE DECLARAR LA RESPONSABILIDAD E IMPONER SANCIONES
 
 ###### ARTICULO 110.
 
 Son órganos encargados de declarar la responsabilidad e imponer sanciones a los servidores públicos del Poder Judicial del Estado, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura Estatal, en los ámbitos propios de sus competencias, cuando dichos servidores públicos incurran en las faltas previstas por esta ley o en el incumplimiento de las obligaciones que impone la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO V. DE LAS SANCIONES POR FALTAS ADMINISTRATIVAS
+### CAPITULO III. DE LAS FALTAS
 
 ###### ARTICULO 111.
 
@@ -2101,15 +2569,13 @@ Las faltas en que incurran los Magistrados serán sancionadas por el Tribunal en
 
 Todas las disposiciones contenidas en este capítulo, serán aplicadas a los servidores públicos del Poder Judicial que en el ejercicio de sus funciones cometan infracciones, sin perjuicio de las sanciones que previene el Código Penal y la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPITULO UNICO. DE LAS VISITAS GENERALES, ESPECIALES Y EXTRAORDINARIAS
+### CAPITULO IV. DE LAS QUEJAS Y DENUNCIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 122.
 
-Siempre que se presente una denuncia o queja en contra de algún servidor público de la Administración de Justicia, el Consejo de la Judicatura Estatal, en un término no mayor de treinta días hábiles, instrumentará el proceso respectivo y dictará resolución dentro del término de diez días hábiles. En su caso, hará la declaración de responsabilidad e impondrá la sanción que proceda. Si esta fuere de suspensión, destitución e inhabilitación, remitirá de inmediato los autos al Pleno del Tribunal para que éste la apruebe o, en caso de no encontrarla ajustada a derecho, revoque o modifique.
+Siempre que se presente una denuncia o queja en contra de algún servidor público del Poder Judicial del Estado, el Consejo de la Judicatura, en un término no mayor de treinta días hábiles, instrumentará el proceso respectivo y dictará resolución dentro del término de diez días hábiles. La queja presentada en contra de un juzgador por la omisión de un acto procesal en el proceso penal acusatorio, se tramitará y resolverá por el Consejo de la Judicatura en los términos establecidos por el Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 123.
 
@@ -2134,6 +2600,8 @@ La declaración de responsabilidad por faltas, producirá el efecto de inhibir a
 ###### ARTICULO 126.
 
 Si la falta se cometiere por alguna Sala del Tribunal, por no dictar resolución dentro del término legal, sólo será responsable el Magistrado Ponente cuando sin causa justificada no presente oportunamente el proyecto respectivo a la consideración de los demás Magistrados; y estos últimos serán responsables si, habiéndose presentado la ponencia correspondiente, no concurrieren sin causa justificada a su discusión o no la votaren dentro del plazo legal.
+
+### CAPITULO V. DE LAS SANCIONES POR FALTAS ADMINISTRATIVAS
 
 ###### ARTICULO 127.
 
@@ -2197,7 +2665,9 @@ IV.- En cualquier tiempo la autoridad podrá dictar diligencias para mejor prove
 
 V.- Abierta la audiencia se procederá a recibir, por su orden, las pruebas y los alegatos por escrito sin perjuicio de que los interesados puedan hacerlo verbalmente; y
 
-VI.- Al concluir la audiencia, dentro de los diez días hábiles siguientes, el Consejo de la Judicatura Estatal, resolverá sobre la queja, e impondrá al infractor, en su caso, la sanción administrativa correspondiente, remitiendo los autos al Pleno del Tribunal para los efectos de los artículos 116, fracción XXVIII y 121 de esta Ley. La resolución se notificará a las partes personalmente.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+VI.- Al concluir la audiencia, dentro de los diez días hábiles siguientes, el Consejo de la Judicatura resolverá sobre la queja e impondrá al infractor, en su caso, la sanción administrativa correspondiente. La resolución se notificará a las partes personalmente.
 
 ###### ARTICULO 137.
 
@@ -2235,17 +2705,13 @@ En contra de esta resolución no procede recurso alguno.
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS JUZGADOS, CENTROS DE REINSERCION SOCIAL Y CENTROS DE INTERNAMIENTO PARA ADOLESCENTES
 
+### CAPITULO UNICO. DE LAS VISITAS GENERALES, ESPECIALES Y EXTRAORDINARIAS
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 141.
 
-El Consejo de la Judicatura Estatal, mandará practicar por lo menos cada seis meses visitas generales a los Juzgados, pudiendo designar a un Juez de Primera Instancia, cuando se trate de un Juzgado de Paz y a los Visitadores Judiciales cuando se trate de un Juzgado de Primera Instancia, cuando se trate de un Juzgado de Control, de Justicia Integral para Adolescentes, de Ejecución y de Paz y a los Visitadores Judiciales cuando se trate de un Juzgado de Primera Instancia.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
-
-La visita general tendrá por objeto percatarse del despacho de los negocios radicados en el Juzgado, anotando las irregularidades que se observen y las quejas que se presenten, para lo cual se anunciará con la anticipación debida, en la puerta del Juzgado, estrados y lugares públicos que se acostumbre, indicándose que se presenten los que tengan quejas y denuncias para exponer. Cuando se trate de Juzgado Penal o Mixto, o de Ejecución de medidas para Adolescentes, se practicará además una visita en el Centro de Reinserción Social o al Centro de Internamiento para Adolescentes, según corresponda.
-
-Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado en determinados asuntos; y las extraordinarias percatarse del funcionamiento del Juzgado, las cuales se practicarán cuando el Consejo de la Judicatura lo estime conveniente, sin que para éstas se requiera anuncio previo.
+El Consejo de la Judicatura deberá practicar por lo menos una visita general cada año a los Juzgados de Primera Instancia y Juzgados de Paz, de lo cual deberán rendir informe al Pleno del Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 142.
 
@@ -2370,3 +2836,47 @@ TERCERO.- Las adiciones a los artículos 79, 85, 91 bis, 91 ter y 91 quater, en 
 CUARTO.- Los Poderes Ejecutivo y Judicial deberán realizar los ajustes necesarios al Presupuesto de Egresos del Estado para el ejercicio fiscal dos mil once, para la asignación de los recursos que se requieran para implementar las reformas contempladas en el presente Decreto.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los servidores públicos judiciales designados previamente a la vigencia del presente Decreto, mantendrán a salvo sus derechos adquiridos, de conformidad con lo dispuesto en el artículo 14, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos.
+
+(NOTA: EL 17 DE ENERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 86/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 501 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL PRIMERO DE AGOSTO DE DOS MIL CATORCE INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE ENERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+###### ARTÍCULO CUARTO.
+
+LA PRIMERA SALA CIVIL QUEDARÁ INTEGRADA CON LOS MAGISTRADOS QUE TENGAN MÁS ANTIGÜEDAD EN EL CARGO, DE LAS DOS SALAS CIVILES QUE HASTA HOY VENÍAN FUNCIONANDO, POR SU DERECHO A LA MISMA Y LA CUARTA SALA PENAL QUEDARÁ CONFORMADA CON LOS MAGISTRADOS QUE TENGAN MENOR ANTIGÜEDAD, CON EL PERSONAL JURÍDICO Y ADMINISTRATIVO QUE EN SU CASO TENGA A SU CARGO CADA MAGISTRADO Y DEMÁS QUE EL PLENO DESIGNE.
+
+###### ARTÍCULO QUINTO.
+
+Con motivo de la conversión de la Segunda Sala Civil a Cuarta Sala Penal, los asuntos en trámite y pendientes de resolver por aquélla pasarán a la Sala Civil, para su continuación y conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Durante tres meses, contados a partir de la entrada en vigor del presente Decreto, todos los asuntos que, de acuerdo con esta ley orgánica deban ser de la competencia de la Primera Sala Penal y Cuarta Sala Penal del Tribunal Superior de Justicia, se turnarán a esta última; concluido dicho periodo, ambas salas conocerán conforme al turno correspondiente.
+
+###### ARTÍCULO SÉPTIMO.
+
+La derogación de la fracción V del artículo 50 de la Ley Orgánica del Poder Judicial del Estado surtirá efectos a partir de la fecha en que se aplique el Código Nacional de Procedimientos Penales en el distrito judicial o región al que pertenezca el municipio correspondiente, de acuerdo a la declaratoria que al efecto emita el Congreso del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El actual periodo de Magistrado Presidente concluirá el 30 de abril de 2015, por lo que, por única ocasión, el Pleno del Tribunal deberá nombrar, en la última sesión del mes de abril, a un Presidente que fungirá en el cargo durante el periodo comprendido del 1º de mayo al 30 de noviembre de ese año, a fin de que en la primera sesión de noviembre del 2015, se elija al Presidente del Tribunal, conforme a lo dispuesto por la Constitución Política del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Los actuales Presidentes de las Salas colegiadas del Tribunal Superior de Justicia permanecerán en el cargo hasta el mes de mayo del 2015, por lo que, por única ocasión, los magistrados integrantes de dichas salas deberán nombrar, en ese mes y año, a un Presidente de sala que durará en el cargo hasta que sea electo el nuevo Presidente de sala en la primera semana de diciembre del próximo año, acorde con lo dispuesto en la Constitución Política del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+Con motivo de las reformas realizadas por virtud del presente decreto, a los actuales magistrados supernumerarios del Tribunal Superior de Justicia del Estado, se les denominará magistrados, que es la que les confiere la Constitución Política del Estado Libre y Soberano de Guerrero.
