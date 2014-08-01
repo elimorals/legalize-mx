@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-procedimientos-para-la-atencion-y-resolucion-3576
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION Y RESOLUCION DE QUEJAS COMISION ESTATAL DE ARBITRAJE MEDICO DE GUANAJUATO
 
-REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION Y RESOLUCION DE QUEJAS
+REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN Y RESOLUCIÓN DE QUEJAS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN Y RESOLUCIÓN DE QUEJAS DERIVADAS DE LA PRESTACIÓN DE SERVICIOS DE SALUD, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de diciembre de 2003.
 
@@ -542,3 +544,21 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO GENERAL DEL CONSEJO DIRECTIVO
 
 BENJAMÍN GALLO CHICO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de Procedimientos para la Atención y Resolución de Quejas publicado en el Periódico Oficial del Gobierno del Estado número 202, primera parte, de fecha 19 de diciembre de 2003.
+
+Los procedimientos de queja iniciados con anterioridad a la entrada en vigor del presente Reglamento continuarán tramitándose hasta su conclusión, conforme a las disposiciones vigentes a su inicio.
+
+Lineamientos para la emisión de dichas opiniones y peritajes
+
+Artículo Tercero. En tanto se emita el Reglamento de opiniones médicas y peritajes, el Consejo Directivo de la CECAMED aprobará, a propuesta del Comisionado, los lineamientos para la emisión de dichas opiniones y peritajes.
