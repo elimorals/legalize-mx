@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2012-12-07"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -111,9 +111,9 @@ XIX.- Ruta.- Recorrido realizado por vehículos de transporte público de pasaje
 
 XX.- Itinerario.- Lugares de la vía pública recorridos por los vehículos de transporte público, comprendidos dentro de una ruta.
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Sistema, a la que deberá sujetarse la prestación del Servicio Público de Transporte de pasajeros de alquiler y colectivo, así como los de grúa y carga.
+XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Ayuntamiento, a la que deberá sujetarse la prestación del servicio público de transporte de pasajeros de alquiler y colectivo, así como el de grúa.
 
 XXII.- Tarifa Fija.- Aquella que se aplica independientemente del tiempo de duración del servicio.
 
@@ -301,9 +301,17 @@ VI.- Conformar el Consejo Municipal del Transporte;
 
 VII.- Fomentar el establecimiento de nuevos sistemas de transporte en el Municipio;
 
-VIII.- Resolver sobre la necesidad de otorgar permisos y concesiones, así como la apertura de nuevas rutas y creación de nuevas modalidades de transporte público de pasajeros dentro del Municipio; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-IX.- Las demás que le confiera la Ley y el presente Reglamento.
+VIII.- Resolver sobre la necesidad de otorgar permisos y concesiones, así como la apertura de nuevas rutas y creación de nuevas modalidades de transporte público de pasajeros dentro del Municipio;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+IX.- Fijar y modificar las tarifas, atendiendo la demanda del transporte y del interés público, previa opinión que emita el Consejo; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+X.- Las demás que le confiera la Ley y el presente Reglamento.
 
 ###### ARTÍCULO 7.
 
@@ -367,7 +375,7 @@ XIII.- Autorizar los sitios, terminales y encierros para vehículos del transpor
 
 XIV.- Fijar y modificar horarios, itinerarios y especificaciones de las rutas, otorgadas en los permisos y concesiones, atendiendo las necesidades del servicio y el interés público en los casos procedentes y conforme al procedimiento establecido;
 
-XV.- Fijar y modificar las tarifas, atendiendo la demanda del transporte y del interés público, previo dictamen que emita el Consejo;
+XV.- (REFORMADA [N. DE E. DEROGADA], P.O. 1 DE AGOSTO DE 2014)
 
 XVI.- Declarar saturado el servicio de transporte público en cualquiera de sus modalidades o rutas; y
 
@@ -517,7 +525,9 @@ Si por algún motivo no se contara con la totalidad de los representantes por la
 
 IV. Una vez integrado el Consejo y si éste así lo determina, podrán integrarse al mismo, Autoridades de Transporte Estatal y Federal, quienes contarán con voz y voto.
 
-V. El Regidor que coordine la comisión del Ayuntamiento relativa a la materia, formará parte del Consejo con solo derecho a voz.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+V. Dos Regidores miembros de la Comisión de Seguridad Pública, Tránsito y Transporte del Ayuntamiento, con derecho a voz y voto.
 
 ###### ARTÍCULO 21.
 
@@ -1059,7 +1069,7 @@ I.- En el frente, dos lámparas demarcadoras, una a cada lado;
 
 II.- En la parte posterior, dos lámparas demarcadoras, una a cada lado y tres lámparas de identificación que cumplan con las especificaciones contenidas en éste reglamento;
 
-III.- A cada lado, dos lámparas demarcadoras, uno cerca del frente y otro (sic) cerca de la parte posterior;
+III.- A cada lado, dos lámparas demarcadoras, uno (sic) cerca del frente y otro (sic) cerca de la parte posterior;
 
 IV.- A cada lado, dos reflejantes, uno cerca del frente y otro cerca de la parte posterior; y
 
@@ -1259,7 +1269,7 @@ Por cada ruta o categoría de servicio autorizado, se otorgará una concesión, 
 
 ###### ARTÍCULO 109.
 
-Las concesiones sólo se otorgarán a personas morales, constituidas conforme a las Leyes del País, si llegaren a participar en ella (sic) socios extranjeros, éstos deberán hacer la manifestación formal de que se sujetan a nuestras Leyes en los términos que establece la cláusula de extranjería, y no invocar la protección de sus Gobiernos en lo relativo a las condiciones que se fijen para el otorgamiento y el aprovechamiento de dichas concesiones, bajo la pena de perder en beneficio del Municipio, las inversiones que hubieren hecho y los derechos que se deriven de los mismos.
+Las concesiones sólo se otorgarán a personas morales, constituidas conforme a las Leyes del País, si llegaren a participar en ella socios extranjeros, éstos deberán hacer la manifestación formal de que se sujetan a nuestras Leyes en los términos que establece la cláusula de extranjería, y no invocar la protección de sus Gobiernos en lo relativo a las condiciones que se fijen para el otorgamiento y el aprovechamiento de dichas concesiones, bajo la pena de perder en beneficio del Municipio, las inversiones que hubieren hecho y los derechos que se deriven de los mismos.
 
 ###### ARTÍCULO 110.
 
@@ -1677,7 +1687,7 @@ La resolución que contenga la autorización de la ampliación o modificación d
 
 I.- Nombre o razón social y datos generales del concesionario o permisionario;
 
-II.- Número o datos que identifique (sic) la concesión o permiso original;
+II.- Número o datos que identifique la concesión o permiso original;
 
 III.- Vigencia de la ampliación o modificación;
 
@@ -1789,7 +1799,7 @@ h) Asientos rotos o elementos de vestimenta interior con bordes punzo cortantes.
 
 i) Estribos dañados.
 
-j) Limpia parabrisas (sic) descompuesto.
+j) Limpia parabrisas descompuesto.
 
 k) Espejos rotos o sin ellos.
 
@@ -1983,7 +1993,7 @@ XIII.- Prohibición de transferir el permiso, sin la previa autorización del Si
 
 XIV.- Designación de un beneficiario para su transferencia en los casos de permisos para el servicio de transporte de pasajeros de alquiler, según los supuestos previstos en este Reglamento; y
 
-XV.- La mención de que será patrimonio familiar conforme a lo establecido por las Leyes Civiles del Estado; (sic)
+XV.- La mención de que será patrimonio familiar conforme a lo establecido por las Leyes Civiles del Estado;
 
 ###### ARTÍCULO 174.
 
@@ -2173,13 +2183,13 @@ Las unidades destinadas al servicio de transporte público de pasajeros deberán
 
 I.- Las unidades de transporte de pasajeros, deberán tener puerta de emergencia, que sea fácilmente accionado (sic) por cualquier persona, esta puerta no deberá estar obstruida y permitirá que los pasajeros pasen por ella libremente, facilitando la rápida evacuación de las mismas, además de contar con dispositivos de alarma correspondiente.
 
-II.- La salida de emergencia puede ser trasera, lateral izquierda o ventila de techo con apertura, todos los mecanismos de apertura deben accionarse desde el interior o del exterior, y se deben contar (sic) rótulos estratégicamente ubicados con leyendas claras de advertencias e indicaciones para abrir las salidas de emergencia.
+II.- La salida de emergencia puede ser trasera, lateral izquierda o ventila de techo con apertura, todos los mecanismos de apertura deben accionarse desde el interior o del exterior, y se deben (sic) contar rótulos estratégicamente ubicados con leyendas claras de advertencias e indicaciones para abrir las salidas de emergencia.
 
 III.- Llevar exteriormente impreso, al frente, a los costados, en la parte superior y en la parte posterior, un número económico que le asignará el Sistema, el cual tendrá un tamaño adecuado que permita la inmediata identificación por parte de los usuarios y del personal habilitado por la autoridad competente.
 
 IV.- Llevar en los costados y en la parte posterior el nombre de la empresa de transporte colectivo.
 
-V.- Contará con espejos retrovisores rectangulares de control, con un mínimo de 15 por 21 cm. colocados uno de cada lado; el del lado derecho deberá ser convexo; al interior se colocarán 2 espejos convexos uno de frente y uno en la parte posterior de (sic) puerta trasera, con enfoques en área de descenso.
+V.- Contará con espejos retrovisores rectangulares de control, con un mínimo de 15 por 21 cm. colocados uno de cada lado; el del lado derecho deberá ser convexo; al interior se colocarán 2 espejos convexos uno de frente y uno en la parte posterior de puerta trasera, con enfoques en área de descenso.
 
 VI.- Llevarán exteriormente al frente en forma legible e iluminado por la noche, un rótulo que contenga el nombre de la ruta a recorrer.
 
@@ -2193,7 +2203,7 @@ X.- Las ventanillas deben tener vidrios de seguridad traslúcidos, del lado izqu
 
 XI.- Tendrán dos puertas, una delantera de acceso y otra trasera de descenso, la cual deberá estar colocada en la parte posterior de las llantas traseras, en la puerta delantera contará con pasamanos colocados en forma diagonal para ayuda de ascensos.
 
-XII.- Tendrá cuatro barandales colocados, uno en lado (sic) izquierdo de la puerta delantera, dos en la puerta trasera colocados uno de cada lado, y otro detrás del asiento del operador; la altura de estos barandales desde el piso de la unidad deben ser aproximadamente de 68 cm., el ancho igual a la profundidad de los escalones; los barandales de la puerta deben cubrirse con plástico reforzado.
+XII.- Tendrá cuatro barandales colocados, uno en lado izquierdo de la puerta delantera, dos en la puerta trasera colocados uno de cada lado, y otro detrás del asiento del operador; la altura de estos barandales desde el piso de la unidad deben ser aproximadamente de 68 cm., el ancho igual a la profundidad de los escalones; los barandales de la puerta deben cubrirse con plástico reforzado.
 
 XIII.- Las puertas funcionarán por medio de un sistema de accionamiento neumático, plegadizas y apertura hacia el interior de la unidad.
 
@@ -2633,7 +2643,7 @@ En los casos en que por las condiciones del sentido de circulación implique un 
 
 ###### ARTÍCULO 234.
 
-Es obligación de los permisionarios del servicio de transporte escolar, estar pintado de color amarillo tráfico y deberá contar con la leyenda "Transporte Escolar" en color negro con un tamaño mínimo de 50 cm. en los costados de la unidad y tener impreso al frente y en la parte trasera el número económico con letra reflejante que le asigne el Sistema, mismo que tendrá un tamaño mínimo de 25 cm. de alto, y además deben incluir una leyenda con los números de teléfonos para recibir quejas tanto en la escuela, como ante la Autoridad Municipal del Transporte; así mismo (sic) en los casos de unidades propiedad de una institución educativa estos deberán incluir la razón social de dicha institución en ambos costados de la unidad con las mismas dimensiones. Así mismo (sic) deberá llevar el número económico en el capacete en proporción a la tercera parte de la longitud del mismo.
+Es obligación de los permisionarios del servicio de transporte escolar, estar pintado de color amarillo tráfico y deberá contar con la leyenda "Transporte Escolar" en color negro con un tamaño mínimo de 50 cm. en los costados de la unidad y tener impreso al frente y en la parte trasera el número económico con letra reflejante que le asigne el Sistema, mismo que tendrá un tamaño mínimo de 25 cm. de alto, y además deben incluir una leyenda con los números de teléfonos para recibir quejas tanto en la escuela, como ante la Autoridad Municipal del Transporte; así mismo en los casos de unidades propiedad de una institución educativa estos deberán incluir la razón social de dicha institución en ambos costados de la unidad con las mismas dimensiones. Así mismo deberá llevar el número económico en el capacete en proporción a la tercera parte de la longitud del mismo.
 
 ###### ARTÍCULO 235.
 
@@ -2947,11 +2957,11 @@ XIII.- Las demás que señale la Ley y el presente Reglamento.
 
 DE LAS TARIFAS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-###### ARTÍCULO 259.
+###### Artículo 259.
 
-Las tarifas del transporte público de pasajeros colectivo y de alquiler, así como los de grúa y carga, serán fijadas por el Sistema previa opinión del Consejo, de acuerdo a las condiciones y circunstancias de la prestación del servicio; de modo que permitan a los concesionarios y permisionarios una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones y mantener el equipo e instalaciones adecuadas para el servicio.
+Las tarifas del transporte público de pasajeros colectivo y de alquiler, así como el de grúa, serán fijadas por el Ayuntamiento previa opinión del Consejo, de acuerdo a las condiciones y circunstancias de la prestación del servicio; de modo que permitan a los concesionarios y permisionarios una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones y mantener el equipo e instalaciones adecuadas para el servicio.
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugar visibles de sus vehículos, la tarifa autorizada para cada tipo de servicio.
 
@@ -2969,9 +2979,13 @@ IV.- Para la emisión del dictamen, la comisión dispondrá de todos los datos e
 
 V.- Una vez emitido el dictamen y oyendo a los interesados, se someterá al análisis del Consejo quien emitirá su resolución evaluando el impacto de la medida y en su caso, el cumplimiento de los compromisos asumidos por los concesionarios o permisionarios en aumentos anteriores a la tarifa o la justificación del incumplimiento; y
 
-VI.- El Consejo remitirá su opinión al Sistema, para que éste resuelva en definitiva en ejercicio de sus atribuciones, la procedencia de la modificación de la tarifa.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-La revisión y en su caso modificación de la tarifa, se constreñirá a la modalidad, categoría o ruta de la cual se recibió solicitud, a menos que el Sistema considere hacerla extensiva en el acuerdo que dicte para el efecto.
+VI.- El Consejo remitirá su opinión al Ayuntamiento, para que éste resuelva en definitiva en ejercicio de sus atribuciones, la procedencia de la modificación de la tarifa.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+La revisión y, en su caso, modificación de la tarifa, se constreñirá a la modalidad, categoría o ruta de la cual se recibió solicitud, a menos que el propio Ayuntamiento considere hacerla extensiva en el acuerdo que dicte para el efecto.
 
 El Sistema, por iniciativa propia o a petición de los concesionarios o permisionarios, podrá proponer al Consejo por causas extraordinarias, la revisión de las tarifas en una fecha distinta a la indicada, observando el procedimiento previsto.
 
@@ -3029,7 +3043,9 @@ Por ningún motivo podrán considerarse para el análisis, elementos que no est�
 
 El Sistema, con el apoyo del Consejo, procederá a elaborar un modelo tarifario que identifique el grado en que inciden cada uno de los elementos en la composición de la tarifa según la modalidad de que se trate, a efecto de cuantificar los impactos en la variación de cada uno de éstos para posibles ajustes.
 
-Las tarifas y sus modificaciones después de ser aprobados por el Sistema, cobrarán vigencia cumplidos 30 días desde su publicación en el Periódico Oficial del Estado, si las cuotas se alteran en sentido de alza, y de 15 días si se modifican en sentido de baja.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+Las tarifas y sus modificaciones después de ser aprobados, cobrarán vigencia cumplidos 30 días desde su publicación en el Periódico Oficial del Estado, si las cuotas se alteran en sentido de alza, y de 15 días si se modifican en sentido de baja.
 
 ###### ARTÍCULO 264.
 
@@ -3211,7 +3227,7 @@ IX.- Firma del solicitante o del representante legal cuando se trate de persona 
 
 ###### ARTÍCULO 285.
 
-El Sistema resolverá la solicitud antes de la fecha de vencimiento de la concesión, para lo cual previamente realizará los estudios técnicos y operativos, para verificar la eficacia y seguridad del servicio que se presta, considerando el interés público. Con base en los estudios y las valoraciones del Sistema respecto a la inversión de ampliación, mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión, se determinará si la revalidación se puede autorizar con las condiciones en que fue originalmente otorgada (sic) o si es necesario (sic) su modificación.
+El Sistema resolverá la solicitud antes de la fecha de vencimiento de la concesión, para lo cual previamente realizará los estudios técnicos y operativos, para verificar la eficacia y seguridad del servicio que se presta, considerando el interés público. Con base en los estudios y las valoraciones del Sistema respecto a la inversión de ampliación, mejoramiento y las demás proyecciones financieras y operativas que consideren la rentabilidad de la concesión, se determinará si la revalidación se puede autorizar con las condiciones en que fue originalmente otorgada o si es necesario su modificación.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
@@ -3357,7 +3373,7 @@ El recurso de inconformidad deberá presentarse ante el Director del Sistema Mun
 
 ###### ARTÍCULO 298.
 
-Recibida que sea (sic) la Inconformidad, el Director del Sistema Municipal del Transporte, solicitara al responsable del acto motivador, informe sobre la existencia del mismo, debiendo remitirlo en un término de dos días contados a partir del requerimiento.
+Recibida que sea la Inconformidad, el Director del Sistema Municipal del Transporte, solicitara al responsable del acto motivador, informe sobre la existencia del mismo, debiendo remitirlo en un término de dos días contados a partir del requerimiento.
 
 Una vez transcurrido el término para que el emisor del acto rinda su informe justificado, el Director deberá resolver respecto del mismo dentro de un término de cinco días hábiles, que empezaran a contar a partir del día siguiente a aquel en que se tenga por ejercitada la Inconformidad.
 
@@ -3473,7 +3489,7 @@ IV. Por incumplimiento de las disposiciones que emite la Autoridad del Transport
 
 V. Por comportamiento indebido y falta de cortesía para con el público de parte del personal empleado en la prestación del servicio;
 
-VI. Por abastecer combustible con el motor encendido y/o con pasajeros abordo (sic);
+VI. Por abastecer combustible con el motor encendido y/o con pasajeros abordo;
 
 VII. Por tolerar que viajen personas en los estribos o en lugares no destinados para ello;
 
@@ -3750,3 +3766,7 @@ P.O. 7 DE DICIEMBRE DE 2012.
 > <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+ÚNICO: LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
