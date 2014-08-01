@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-procuraduria-general-de-justicia-del-38445"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-13"
-last_updated: "2010-12-10"
+last_updated: "2014-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 193
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 193
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NÚMERO 193
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 1 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SESENTA DÍAS NATURALES POSTERIORES A LA DECLARATORIA QUE EMITA ESTE PODER LEGISLATIVO DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE GUERRERO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en el Alcance III del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 2004.
 
@@ -1931,10 +1933,46 @@ C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los sesenta días naturales posteriores a la declaratoria que emita este Poder Legislativo de la implementación del Sistema Penal Acusatorio en el Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigencia de esta Ley, queda abrogada la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado No. 14 Alcance III, el viernes 13 de febrero de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto no entre en vigor esta Ley, continuarán aplicándose las disposiciones de la Ley Orgánica de la Procuraduría General de Justicia, de fecha 10 de febrero del 2004.
+
+###### ARTÍCULO CUARTO.
+
+En términos del artículo décimo sexto transitorio de la Constitución Política del Estado de Guerrero, el Procurador General del Estado, continuará en funciones. El Congreso del Estado, a los 30 días posteriores a la toma de protesta del Gobernador electo en al (sic) año 2015, deberá instaurar el procedimiento de designación previsto en sus numerales 1 al 6 del artículo 142.
+
+Asimismo, el Fiscal Especializado en Delitos Electorales continuará en el encargo de acuerdo al decreto de su nombramiento.
+
+###### ARTÍCULO QUINTO.
+
+En términos del artículo transitorio décimo cuarto de la Constitución Política del Estado de Guerrero, los recursos materiales y financieros y el personal adscrito de la Procuraduría de Justicia del Estado de Guerrero, se tendrán por transferidos al órgano autónomo denominado Fiscalía General del Estado de Guerrero.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, deberá expedir las disposiciones reglamentarias y normativas en la materia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cualquier mención establecida en ordenamientos legales a la Fiscalía General del Estado o a la Procuraduría General de Justicia, se entenderán hechas a la Fiscalía General del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Los Agentes del Ministerio Público, los Agentes de la Policía Ministerial y Peritos de la Fiscalía General del Estado, al momento de entrar en vigor las disposiciones reglamentarias para el Servicio Público de Carrera previsto en esta Ley, deberán dar cumplimiento a los requisitos y condiciones que establezcan para su incorporación.
