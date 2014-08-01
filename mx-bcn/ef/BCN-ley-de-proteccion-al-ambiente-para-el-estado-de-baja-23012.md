@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2014-01-24"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -71,7 +71,7 @@ VIII. Coordinar y concertar, entre las distintas dependencias y organismos de la
 
 IX. Garantizar la participación corresponsable de las personas y los grupos sociales organizados, en las materias que regula la presente Ley;
 
-X. Definir las medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y (sic)
+X. Definir las medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -89,83 +89,93 @@ XII. Establecer las bases y principios mediante los cuales se habrán de conduci
 
 Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Prevención y Gestión Integral de Residuos, Ley General de Vida Silvestre, la Ley de Aguas Nacionales, la Ley General de Desarrollo Forestal Sustentable y la Ley de Desarrollo Urbano del Estado de Baja California, y sus Reglamentos, así como las siguientes:
 
-I. AGUAS RESIDUALES: Las aguas de composición variada provenientes de las descargas de usos municipales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general cualquier otro uso, así como la mezcla de ellas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-II. AUDITORIA AMBIENTAL: Examen metodológico, de carácter voluntario de las responsables del funcionamiento y operaciones de una empresa, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente;
+I. AGUAS RESIDUALES: Las aguas de composición variada provenientes de las descargas de usos municipales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general cualquier otro uso, así como la mezcla de ellas.
 
-III. AUTORREGULACIÓN: Proceso voluntario a través del cual los particulares buscan mejorar su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, y se comprometen a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+II. ÁREAS VERDES URBANAS: Los parques, jardines, arboladas, alamedas, y demás lugares inducidos, ubicadas dentro de las áreas urbanas en el Estado.
 
-IV. CENTROS DE VERIFICACIÓN: Centros de verificación de emisiones contaminantes a la atmósfera de automotores en circulación;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+III. AUDITORÍA AMBIENTAL: Examen metodológico, de carácter voluntario de las responsables del funcionamiento y operaciones de una empresa, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente;
 
-V. COMBUSTIBLES FOSILES: Materiales comburentes de origen orgánico que incluyen los hidrocarburos, el gas natural y el carbón;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+IV. AUTORREGULACIÓN: Proceso voluntario a través del cual los particulares buscan mejorar su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, y se comprometen a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
 
-VI. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+V. CENTROS DE VERIFICACIÓN: Centros de verificación de emisiones contaminantes a la atmósfera de automotores en circulación;
 
-VII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+VI. COMBUSTIBLES FÓSILES: Materiales comburentes de origen orgánico que incluyen los hidrocarburos, el gas natural y el carbón;
 
-VIII. CONTAMINACION LUMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+VII. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
 
-IX. CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+VIII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-X. EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+IX. CONTAMINACIÓN LÚMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artifíciales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
 
-XI. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+X. CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-XII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XI. EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-XIII. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
-XIV. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XIII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-XV. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XIV. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
-XVI. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XV. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
-XVII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XVI. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
-XVIII. QUEMA: Combustión no controlada de cualquier sustancia o material;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XVII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XIX. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XVIII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
-XX. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+XIX. QUEMA: Combustión no controlada de cualquier sustancia o material;
 
-XXI. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XX. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXI. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+
+XXII. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
 
 ###### ARTÍCULO 3.
 
@@ -199,7 +209,7 @@ IX. El establecimiento y conservación de parques urbanos y áreas verdes estata
 
 La Ley General, sus reglamentos y normas oficiales mexicanas, así como las disposiciones contenidas en otras leyes relacionadas con la materia que regula este ordenamiento, que emita la Federación, serán de aplicación supletoria de la presente Ley, en los casos no previstos en la misma.
 
-De las Autoridades Ambientales (sic)
+De las Autoridades Ambientales
 
 ###### ARTÍCULO 5.
 
@@ -299,7 +309,7 @@ XXX. Integrar el padrón de las personas físicas o morales que lo soliciten en 
 
 XXXI. Promover consulta pública en materia ambiental. En el caso de plebiscitos o referéndum, se atendrá a lo establecido en la Ley y reglamentos respectivos;
 
-XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y (sic)
+XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
@@ -361,7 +371,9 @@ XVII. Otorgar y revocar los permisos, licencias, concesiones y en general las au
 
 XVIII. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas que se descarguen a los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a ésta, y otras leyes le corresponda al Estado;
 
-XIX. Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, obras o actividades que realicen las dependencias o entidades de la administración publica municipal, quemas dentro de la zona urbana, así como de emisiones de contaminantes provenientes de fuentes móviles de competencia Municipal con la participación que de acuerdo con la presente Ley, corresponda al Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+XIX.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, obras o actividades que realicen las dependencias o entidades de la administración pública municipal, quemas dentro de la zona urbana, quemas agropecuarias, así como de emisiones de contaminantes provenientes de fuentes móviles de competencia municipal con la participación que de acuerdo con la presente Ley, corresponda al Ejecutivo del Estado;
 
 XX. Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínicas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las de competencia federal y estatal;
 
@@ -405,13 +417,15 @@ XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevenció
 
 XXXVIII. Los demás asuntos que en la materia les concedan la Ley General, esta Ley, otros ordenamientos legales y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 10.
 
 A fin de garantizar un medio ambiente adecuado para el desarrollo, bienestar y elevamiento de la calidad de vida de la población, el Estado y los municipios promoverán el desarrollo ambientalmente planificado e incorporarán la dimensión ambiental en los programas y actividades de sus dependencias y organismos.
 
-De igual manera todas las dependencias y organismos de gobierno Estatales y Municipales, deberán de contar en sus oficinas con contenedores especiales para el reciclaje de las distintas clases de desperdicios. El recurso financiero que se recaude del proceso de reciclado deberá destinarse a la integración de los fondos ambientales previstos en esta Ley.
+Los Poderes Legislativo, Ejecutivo y Judicial del Estado, las dependencias y organismos de los gobiernos Municipales, y los Órganos constitucionales autónomos deberán de contar en sus oficinas e instalaciones con contenedores especiales para el reciclaje de las distintas clases de desperdicios.
+
+El recurso financiero que se recaude del proceso de reciclado se destinará a la integración de los fondos ambientales previstos en esta Ley.
 
 ###### ARTÍCULO 11.
 
@@ -427,11 +441,11 @@ II. Procurar que en los mismos se establezcan condiciones que faciliten el proce
 
 III. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
 
-### CAPÍTULO III. Política Ambiental
+### CAPÍTULO III (SIC). Política Ambiental
 
 ###### ARTÍCULO 13.
 
-Se consideran instrumentos de la política ambiental estatal: la planeación ambiental, el fondo ambiental, la evaluación del impacto ambiental, la investigación y educación ambiental, el ordenamiento ecológico, instrumentos económicos, la regulación de los asentamientos humanos, las normas ambientales estatales y la autoregulación (sic) y las auditorías ambientales.
+Se consideran instrumentos de la política ambiental estatal: la planeación ambiental, el fondo ambiental, la evaluación del impacto ambiental, la investigación y educación ambiental, el ordenamiento ecológico, instrumentos económicos, la regulación de los asentamientos humanos, las normas ambientales estatales y la autoregulación y las auditorías ambientales.
 
 ###### ARTÍCULO 14.
 
@@ -717,7 +731,9 @@ II. Los demás que al efecto propongan y desarrollen el Estado y los Municipios 
 
 Se considerarán prioritarias, para efectos de la aplicación de instrumentos económicos, las actividades relacionadas con:
 
-I. El aprovechamiento sustentable del agua y la prevención de su contaminación;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+I. El aprovechamiento sustentable del agua, y la prevención de su contaminación, en términos de lo señalado en las Normas Oficiales Mexicanas aplicables y las normas ambientales del Estado;
 
 II. La investigación, desarrollo, incorporación y utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de energía y recursos naturales;
 
@@ -761,7 +777,7 @@ II. La administración de las áreas naturales en que se generen dichos ingresos
 
 III. El desarrollo de programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley;
 
-IV. El desarrollo de programas de educación e investigación en materia ambiental; y (sic)
+IV. El desarrollo de programas de educación e investigación en materia ambiental; y
 
 V. Restauración de sitios contaminados.
 
@@ -815,11 +831,11 @@ VI.- La prestación de servicios a terceros que tengan por objeto la operación 
 
 VII. Aquellas obras y actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente;
 
-VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que se establezcan en los listados de actividades riesgosas; y (sic)
+VIII. Actividades consideradas riesgosas en los términos de esta Ley y las que se establezcan en los listados de actividades riesgosas; y
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y (sic),
+IX. La instalación y operación por parte del generador de residuos industriales de sistemas para el almacenamiento, reuso, recuperación, reciclaje, incineración, tratamiento, confinamiento, o disposición final fuera de la instalación donde se generan dichos residuos; y,
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -1425,13 +1441,47 @@ ARTÍCULO 106 BIS 2.- El aprovechamiento de los recursos naturales en áreas que
 
 La Secretaria deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
+
 #### SECCIÓN I. Criterios ambientales
 
-### CAPÍTULO I. Disposiciones generales
+### CAPÍTULO IV. Áreas Verdes Urbanas
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 106 TER.- Corresponde al Estado y a los municipios generar las acciones necesarias a fin de crear áreas verdes urbanas que permitan mejorar la calidad de vida y convivencia social de sus habitantes. Dichas áreas serán consideradas como espacios públicos de conservación, mejoramiento y crecimiento.
+
+El Estado y los municipios procurarán el incremento de áreas verdes urbanas en proporción al número de habitantes, de conformidad con las disposiciones reglamentarias aplicables. Para tal efecto, podrá tomarse como referencia parámetros internacionales.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 106 TER 1.- El Estado y los municipios podrán celebrar convenios con los vecinos de las Áreas Verdes para que participen en su mantenimiento, mejoramiento y crecimiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 106 TER 2.- Las Áreas Verdes previstas en los programas de desarrollo urbano deberán conservar su extensión y en caso de modificarse deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 106 TER 3.- La Secretaría y los municipios llevarán dentro de sus respectivos ámbitos de competencia, un inventario de Áreas Verdes con la finalidad de conocer, preservar e incrementar dichas áreas.
+
+El inventario a que se refiere el párrafo anterior, deberá contener cuando menos la siguiente información:
+
+I.- Ubicación y superficie del Área Verde,
+
+II.- Tipo de Área Verde,
+
+III.- Especies de flora y fauna que la conforman,
+
+IV.- A que ente de gobierno pertenece; y
+
+V.- Zonas en las cuales se considera próximamente establecer nuevas áreas verdes.
+
+El inventario que lleven los municipios lo harán del conocimiento de la Secretaría para su integración en un inventario general de Áreas Verdes, y además proporcionaran anualmente las actualizaciones correspondientes. Dicho inventario formará parte del sistema estatal de información ambiental.
 
 ## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
 
-### CAPÍTULO II. Prevención y control de la contaminación de la atmósfera
+### CAPÍTULO I. Disposiciones generales
 
 ###### ARTÍCULO 107.
 
@@ -1457,7 +1507,7 @@ En aquellos casos en que para la operación y funcionamiento de establecimientos
 
 La actualización de la base de datos del Registro de Emisiones y Transferencia de Contaminantes, será a través de la cédula de operación anual; instrumento mediante el cual los sujetos a que refiere el segundo párrafo del artículo 108, están obligados a proporcionar datos y documentos necesarios para integrarlo, conforme a los requisitos y tiempos que prevea el reglamento correspondiente.
 
-### CAPÍTULO III. Prevención y control de la contaminación del agua
+### CAPÍTULO II. Prevención y control de la contaminación de la atmósfera
 
 #### SECCIÓN II. Facultades
 
@@ -1503,9 +1553,9 @@ V. Requerir a los responsables de la operación de fuentes generadoras de contam
 
 VI. Integrar y mantener actualizado el inventario de fuentes de emisiones contaminantes a la atmósfera proveniente de fuentes emisoras de competencia estatal y coordinarse con la Federación y los municipios para la integración de los inventarios correspondientes;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-VII. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten para el establecimiento de sistemas de monitoreo de la calidad del aire;
+VII. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten para el establecimiento de sistemas de monitoreo de la calidad del aire, así como calendarización y control de quemas agropecuarias;
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
@@ -1553,9 +1603,9 @@ Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, l
 
 I. Aplicar los criterios generales para la protección a la atmósfera en los programas y planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de obras y actividades generadoras de emisiones;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
-II. Requerir y aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica y en su caso autorizar a los responsables de fuentes emisoras de competencia municipal, para el cumplimiento de los límites máximos permisibles de emisión de contaminantes;
+II. Requerir a los responsables de la operación de fuentes contaminantes, y quemas agropecuarias, la aplicación de la mejor tecnología disponible, con el propósito de reducir y controlar sus emisiones a la atmósfera;
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
@@ -1769,7 +1819,7 @@ IV.- Promover campañas y actividades de capacitación, difusión y sensibilizac
 
 V.- Promover convenios de colaboración con organismos e instituciones de investigación local, nacional e internacional, interesadas en la preservación de la calidad de la atmósfera.
 
-### CAPÍTULO IV. Prevención y control de la contaminación del suelo
+### CAPÍTULO III. Prevención y control de la contaminación del agua
 
 #### SECCIÓN II. Facultades
 
@@ -1869,7 +1919,7 @@ II. Dar Tratamiento a sus descargas y mantenerlas por debajo de los niveles máx
 
 III. Aplicar la mejor tecnología disponible para reducir la generación de contaminantes y el volumen de descarga, así como facilitar su reuso;
 
-IV. En el caso de fallas o descomposturas de los equipos de control de la contaminación del agua, de inmediato realizar las actividades y obras para su restauración y dar aviso a la Secretaría; y (sic)
+IV. En el caso de fallas o descomposturas de los equipos de control de la contaminación del agua, de inmediato realizar las actividades y obras para su restauración y dar aviso a la Secretaría; y
 
 V. Mantener en el predio un acceso fácil y permanente al punto de descarga de las aguas residuales para su monitoreo;
 
@@ -1885,7 +1935,7 @@ Los municipios, en los bandos de policía o reglamentos que al efecto se expidan
 
 Para conocer la calidad de las aguas, se establecerá un sistema estatal de monitoreo, que será llevado a cabo, en el ámbito de su competencia, por las dependencias estatales, municipales y los organismos públicos que tengan a su cargo la administración, distribución y operación de los sistemas de agua, drenaje y alcantarillado.
 
-### CAPÍTULO I. Participación Ciudadana
+### CAPÍTULO IV. Prevención y control de la contaminación del suelo
 
 #### SECCIÓN II. Facultades
 
@@ -1975,7 +2025,7 @@ II. Cumplir con las normas oficiales mexicanas y normas ambientales estatales qu
 
 III. Restaurar y reforestar las áreas utilizadas una vez concluidos los trabajos respectivos, de acuerdo con los principios y criterios expedidos por la Secretaría o los municipios; y
 
-IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta Ley; y (sic)
+IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta Ley; y
 
 ###### ARTÍCULO 139.
 
@@ -2105,7 +2155,7 @@ VI. Cumplir con las condiciones de operación que le establezca la Secretaría, 
 
 ## TÍTULO QUINTO. PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO II. Información Ambiental
+### CAPÍTULO I. Participación Ciudadana
 
 ###### ARTÍCULO 158.
 
@@ -2129,7 +2179,7 @@ VI. Impulsarán el fortalecimiento de la cultura ambiental, a través de la real
 
 VII. Concertarán acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales, y demás personas interesadas, en favor de la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-### CAPÍTULO III. Denuncia
+### CAPÍTULO II. Información Ambiental
 
 ###### ARTÍCULO 160.
 
@@ -2189,7 +2239,7 @@ V. Se utilice con fines de lucro o publicidad.
 
 En todo caso, la Secretaría y las autoridades municipales informarán a la población acerca de los riesgos potenciales que generen diversos establecimientos, las formas de prevenirlos y en su caso, como enfrentarlos.
 
-### CAPÍTULO I. De la inspección y vigilancia
+### CAPÍTULO III. Denuncia
 
 ###### ARTÍCULO 167.
 
@@ -2273,7 +2323,7 @@ Cuando una denuncia no implique violaciones a la normatividad ambiental, ni afec
 
 ## TÍTULO SEXTO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. Medidas de seguridad
+### CAPÍTULO I. De la inspección y vigilancia
 
 ###### ARTÍCULO 176.
 
@@ -2327,7 +2377,7 @@ Transcurrido el término a que se refiere el artículo anterior y dentro de los 
 
 Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento o resolución respectiva.
 
-### CAPÍTULO III. Sanciones administrativas
+### CAPÍTULO II. Medidas de seguridad
 
 ###### ARTÍCULO 185.
 
@@ -2345,9 +2395,7 @@ La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cua
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO IV. Del Recurso Administrativo
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. Sanciones administrativas
 
 ###### ARTÍCULO 187.
 
@@ -2365,7 +2413,17 @@ a) Cuando el infractor no hubiere cumplido en los plazos y condiciones impuestos
 
 b) En los casos de reincidencia cuando las infracciones generen efectos negativos al ambiente.
 
-V (sic). Reparar daños físicamente causados al medio ambiente en agua, aire o suelo dentro y fuera de su empresa, independientemente de las sanciones de los delitos contra el medio ambiente; y
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+
+IV. Reparar el daño causado, en los siguientes términos:
+
+a).- Restaurar el área afectada;
+
+b).- Llevar a cabo las acciones de compensación que se requieran a efecto de que se restituya un área equivalente a la afectada, en el sitio más próximo posible a ésta, y
+
+c).- En caso de que el daño realizado sea irreparable, el responsable deberá pagar una compensación económica que deberá destinarse al fondo ambiental correspondiente. La compensación económica será determinada de conformidad con las disposiciones previstas en el reglamento respectivo.
+
+V. Reparar daños físicamente causados al medio ambiente en agua, aire o suelo dentro y fuera de su empresa, independientemente de las sanciones de los delitos contra el medio ambiente; y
 
 VI. Arresto administrativo hasta por treinta y seis horas.
 
@@ -2413,57 +2471,9 @@ Antes de emitir fundada y motivadamente la resolución respectiva la Secretaría
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO V. De las Reglas de las Notificaciones
+### CAPÍTULO IV. Del Recurso Administrativo
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 204 BIS.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
-
-I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos, resoluciones administrativas y de conclusión; sin perjuicio de que la notificación de estos actos pueda realizarse en las oficinas de las unidades administrativas de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas y siempre que consienta recibirlas. En este último caso, se asentará la razón correspondiente.
-
-II.- Por estrados, colocados en las unidades administrativas del Municipio que corresponda, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente título o cuando no hubiere señalado domicilio en la población donde se encuentre ubicada la autoridad ordenadora, así como los demás casos contemplados en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California; y
-
-III.- Por edictos, cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se trate de personas inciertas, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
-
-Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las unidades administrativas, a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las Unidades Administrativas de la Secretaría
-
-Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se tendrán por hechas y surtirán sus efectos al día siguiente al de su fijación en los estrados de las oficinas de la Secretaría.
-
-De toda notificación por estrados, se agregará al expediente un tanto de aquél, asentándose la razón correspondiente.
-
-IV.- Por instructivo, solamente en el caso previsto en el cuarto párrafo del artículo 204 bis 1 de la presente Ley.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 204 BIS 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la unidad administrativa de la Secretaría, o bien, personalmente en el recinto oficial de ésta, cuando comparezcan voluntariamente a recibirlas.
-
-En los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva; así como, señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
-
-Las notificaciones personales, se entenderán con la persona que deba ser notificada, o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo o con el vecino más inmediato.
-
-Si la persona a que haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse esta a recibirla o en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
-
-Tratándose de las facultades de inspección y vigilancia, la Secretaría se encuentra facultada para proceder a efectuar la visita correspondiente, sin previo citatorio al interesado.
-
-De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 204 BIS 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos o diarios de mayor circulación en el Estado.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 204 BIS 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que haya surtido efectos la notificación.
-
-Se tendrá como fecha de notificación por correo certificado, la que conste en el acuse de recibo.
-
-En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado y en los periódicos o diarios de mayor circulación del Estado.
-
-Las notificaciones por estrados surtirán sus efectos al día siguiente al de la fijación del mismo en las oficinas de la unidad administrativa de la Secretaría.
-
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 204 BIS 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 192.
 
@@ -2573,9 +2583,59 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO VI. De los delitos ambientales
+### CAPÍTULO V. De las Reglas de las Notificaciones
 
-### CAPÍTULO VII. Responsabilidad por el daño ambiental
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
+
+I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos, resoluciones administrativas y de conclusión; sin perjuicio de que la notificación de estos actos pueda realizarse en las oficinas de las unidades administrativas de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas y siempre que consienta recibirlas. En este último caso, se asentará la razón correspondiente.
+
+II.- Por estrados, colocados en las unidades administrativas del Municipio que corresponda, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente título o cuando no hubiere señalado domicilio en la población donde se encuentre ubicada la autoridad ordenadora, así como los demás casos contemplados en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California; y
+
+III.- Por edictos, cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se trate de personas inciertas, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las unidades administrativas, a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las Unidades Administrativas de la Secretaría
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se tendrán por hechas y surtirán sus efectos al día siguiente al de su fijación en los estrados de las oficinas de la Secretaría.
+
+De toda notificación por estrados, se agregará al expediente un tanto de aquél, asentándose la razón correspondiente.
+
+IV.- Por instructivo, solamente en el caso previsto en el cuarto párrafo del artículo 204 bis 1 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la unidad administrativa de la Secretaría, o bien, personalmente en el recinto oficial de ésta, cuando comparezcan voluntariamente a recibirlas.
+
+En los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva; así como, señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada, o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo o con el vecino más inmediato.
+
+Si la persona a que haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse esta a recibirla o en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Tratándose de las facultades de inspección y vigilancia, la Secretaría se encuentra facultada para proceder a efectuar la visita correspondiente, sin previo citatorio al interesado.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos o diarios de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que haya surtido efectos la notificación.
+
+Se tendrá como fecha de notificación por correo certificado, la que conste en el acuse de recibo.
+
+En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado y en los periódicos o diarios de mayor circulación del Estado.
+
+Las notificaciones por estrados surtirán sus efectos al día siguiente al de la fijación del mismo en las oficinas de la unidad administrativa de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
+
+### CAPÍTULO VI. De los delitos ambientales
 
 ###### ARTÍCULO 205.
 
@@ -2588,6 +2648,8 @@ Toda persona podrá presentar directamente las denuncias penales que corresponda
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos en contra del ambiente.
 
 Igualmente, la autoridad ambiental proporcionará los dictámenes técnicos o periciales que le soliciten, con motivo de los juicios contencioso administrativos que se ventilen ante dicho tribunal.
+
+### CAPÍTULO VII. Responsabilidad por el daño ambiental
 
 ###### ARTÍCULO 207.
 
@@ -2804,3 +2866,17 @@ SEGUNDO.- A partir de la vigencia del presente Decreto y dentro de los 100 días
 TERCERO.- Los propietarios o poseedores de los automóviles que durante el 2012 y 2013 hubieren realizado la verificación vehicular conforme a los programas respectivos, estarán exentos de acreditar dicho requisito, para el canje de tarjeta de circulación.
 
 CUARTO.- El Ejecutivo del Estado deberá adoptar de manera inmediata las medidas necesarias para la correcta aplicación del presente Decreto, debiendo en su caso, modificar el Programa de Verificación Vehicular 2014.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 66, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2, 9, 10, 38, 112 Y 113 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 67 POR EL QUE SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO 2 Y QUE ADICIONA UN CAPÍTULO IV, AL TÍTULO TERCERO DENOMINADO DE LAS "ÁREAS VERDES URBANAS", ASÍ COMO LOS ARTÍCULOS 106 TER, 106 TER 1, 106 TER 2, 106 TER 3 Y LA MODIFICACIÓN DEL 187 FRACCIÓN IV, DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor al de seis meses contados a partir de la entrada en vigor de las presentes reformas, el Estado y los Ayuntamientos dentro de sus respectivos ámbitos de competencia, deberán emitir las disposiciones reglamentarias correspondientes.
