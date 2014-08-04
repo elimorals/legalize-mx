@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2014-03-31"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1717,7 +1717,7 @@ LVIII.- Ordenar la ejecución de las determinaciones del Ayuntamiento en materia
 
 LIX.- Integrar, coordinar y supervisar el Sistema Municipal de Protección Civil para la prevención, auxilio, recuperación y apoyo de la población en situaciones de emergencia o desastre, para lo cual deberá coordinarse con las autoridades de los Gobiernos Federal, Estatales y Municipales, así como concertar con las instituciones y organismos de los sectores privado y social, las acciones conducentes para el logro del mismo objetivo;
 
-LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren; y (sic)
+LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1861,7 +1861,15 @@ XIII.- Dar cuenta al Ayuntamiento del arreglo o la falta de él, sobre el monto 
 
 XIV.- Sustanciar y resolver el recurso de inconformidad en los términos de la presente Ley;
 
-XV.- Vigilar que en los actos del Ayuntamiento, se respeten los derechos humanos y se observen las leyes y demás ordenamientos vigentes; y (sic)
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+XV.- Vigilar que en los actos del Ayuntamiento:
+
+a) Se observen las leyes y demás ordenamientos legales.
+
+b) Se promuevan, respeten, protejan y garanticen los derechos humanos, de conformidad con los principios previstos en la Constitución Política de los Estados Unidos Mexicanos.
+
+c) Se colabore con los organismos públicos nacional y estatal encargados de la protección, respeto, vigilancia, prevención, observancia, promoción, defensa, estudio y divulgación de los derechos humanos, de conformidad con el orden jurídico mexicano.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -1913,7 +1921,7 @@ El Plan de Desarrollo Municipal establecerá los programas de la Administración
 
 ###### ARTÍCULO 106.
 
-El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistemas Nacional y Estatal de Planeación.
+El Plan de Desarrollo Municipal deberá ser elaborado y aprobado por el Ayuntamiento, dentro de los primeros tres meses de la gestión municipal, y deberá publicarse en el Periódico Oficial del Estado. Su evaluación deberá realizarse por anualidad. Su vigencia será de tres años; sin embargo, se podrán hacer proyecciones que excedan de este periodo en programas que por su trascendencia y beneficio social así lo ameriten. Para este efecto, el Ayuntamiento podrá solicitar cuando lo considere necesario, la asesoría de los Sistema Nacional y Estatal de Planeación.
 
 ###### ARTÍCULO 107.
 
@@ -3744,3 +3752,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Los Ayuntamientos deberán expedir, o en su caso, adecuar las disposiciones reglamentarias a que se refiere el artículo 225 de esta Ley, dentro del término de ocho días siguientes a la entrada en vigor del presente Decreto.
 
 Si no se expidieran o adecuaran los reglamentos, en todo caso las convocatorias emitidas para el registro de candidatos, deberán observar las disposiciones constitucionales y legales en materia electoral aplicables.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
