@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-12-30"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -173,7 +173,7 @@ XXXI. SERVICIOS PÚBLICOS: A los servicios de suministro de Agua Potable, de Agu
 
 XXXII. TOMA: Al lugar en donde se establece la conexión autorizada a la Red Secundaria para dar servicio de Agua Potable a los inmuebles autorizados de conformidad con esta Ley;
 
-XXXIII. USO: A la utilización que dan los Usuarios al Agua Potable y que es uno de los factores para determinar la aplicación de las tarifas correspondientes en términos de la Estructura Tarifaria; y (sic)
+XXXIII. USO: A la utilización que dan los Usuarios al Agua Potable y que es uno de los factores para determinar la aplicación de las tarifas correspondientes en términos de la Estructura Tarifaria; y
 
 XXXIV. USUARIO: Al propietario o poseedor del inmueble, o tratándose de condominio al propietario o poseedor de la unidad de uso exclusivo y de uso común, que lícitamente se beneficie directa o indirectamente de los Servicios Públicos o que cuente con conexión a las redes, estando por ello sujeto al cumplimiento de las obligaciones correspondientes; y
 
@@ -881,13 +881,25 @@ Procederá la terminación del contrato a solicitud del Usuario y previa investi
 
 Si de las investigaciones que se realicen resulta procedente y, previa confirmación de que el Usuario se encuentra al corriente en el cumplimiento de las obligaciones a su cargo previstas por esta Ley, la Toma o en su caso, la Descarga, serán canceladas dentro de los diez días siguientes a la fecha en que se determine la procedencia de la solicitud.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 49.
 
-Las personas que por cualquier título detenten y las que adquieran el dominio del inmueble, o en su caso la posesión del mismo serán solidariamente responsables del pago de adeudos anteriores hasta el límite de su monto, incluidos los recargos y las sanciones que procedan.
+Las personas que por cualquier título detenten y las que adquieran el dominio del inmueble, o en su caso la posesión del mismo, serán solidariamente responsables del pago de adeudos en materia de agua anteriores hasta el límite de su monto, incluidos los recargos y las sanciones que procedan.
 
-Los notarios o corredores públicos, y, en general, cualquier fedatario público que, facultado por la ley, intervenga para dar fe de actos traslativos de dominio, tendrán la obligación de verificar que los enajenantes se encuentren al corriente en el pago de los derechos inherentes a los mismos y de solicitar a las partes de dichos actos que presenten certificado de no adeudo de agua expedido por el Prestador de Servicios Públicos.
+Los notarios, y en general, cualquier fedatario público que, facultado por la ley, intervenga para dar fe de actos traslativos de dominio, tendrán la obligación de verificar que los enajenantes se encuentren al corriente en el pago de los derechos inherentes a los mismos y de solicitar a las partes de dichos actos que presenten, según el caso:
 
-De igual forma el responsable del Registro Público de la Propiedad correspondiente, no procederá a la inscripción del título de transmisión de propiedad, si en el mismo no consta la inserción del certificado de no adeudo de agua al que alude el párrafo que antecede.
+a) El certificado o constancia de no adeudo de agua expedido por el Prestador de Servicios Públicos;
+
+b) La constancia de no existir registro de servicio de agua, expedida por el Prestador de Servicios Públicos, o
+
+c) En el caso de vivienda nueva, el estudio de factibilidad para la prestación del servicio público en materia de agua.
+
+En los lugares donde no haya Organismos Operadores, será suficiente el documento que acredite el pago por este servicio y la declaración bajo protesta de decir verdad que las partes hagan al momento de hacer el traslado de dominio de que el inmueble objeto de la operación se encuentra al corriente en el pago de las contribuciones en materia del agua.
+
+En el caso extremo en que no haya Organismos Operadores y además no se presten los servicios en materia de agua, bastará la declaración bajo protesta de decir verdad que las partes hagan al momento de realizar el traslado de dominio.
+
+De igual forma el responsable del Registro Público de la Propiedad correspondiente, no procederá a la inscripción del título de transmisión de propiedad, si en el mismo no consta la inserción del certificado de no adeudo de agua o los documentos a los que se refiere este artículo, según el caso.
 
 La contravención de los fedatarios públicos y los funcionarios del Registro Público a las obligaciones a su cargo previstas en este artículo, dará lugar a que los mismos respondan solidariamente por los créditos correspondientes.
 
@@ -2128,3 +2140,11 @@ P.O. 30 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entra en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto aplicará para los trámites que se hayan presentado con anterioridad y se encuentren en curso.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
