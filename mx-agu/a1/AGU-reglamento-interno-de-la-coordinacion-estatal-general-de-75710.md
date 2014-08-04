@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-coordinacion-estatal-general-de-75710"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-19"
-last_updated: "2010-07-19"
+last_updated: "2014-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO DE LA COORDINACION ESTATAL GENERAL DE PROTECCION CIVIL
 
-REGLAMENTO INTERNO DE LA COORDINACION ESTATAL GENERAL DE PROTECCION CIVIL
+REGLAMENTO INTERNO DE LA COORDINACIÓN ESTATAL GENERAL DE PROTECCIÓN CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO, DEL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de julio de 2010.
 
@@ -328,3 +330,23 @@ Dado en Palacio de Gobierno, sede del Poder Ejecutivo, en el Municipio de Aguasc
 SUFRAGIO EFECTIVO, NO REELECCIÓN
 
 LOS INTEGRANTES DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL SEGÚN SE ACREDITA EN LA MINUTA DE LA SESIÓN ORDINARIA DE FECHA 3 DE JUNIO DEL DOSMIL (SIC) DIEZ, CUYO DOCUMENTO SE ADJUNTA AL PRESENTE PARA LA DEBIDA CONSTANCIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Coordinación deberá emitir los manuales a que estén obligados con la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Queda abrogado el Reglamento Interior del Consejo Estatal de Protección Civil, publicado el 19 de julio de 2010 en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Queda abrogado el Reglamento Interno de la Coordinación Estatal General de Protección Civil publicado el 19 de Julio de 2010, en el Periódico Oficial del Estado de Aguascalientes.
