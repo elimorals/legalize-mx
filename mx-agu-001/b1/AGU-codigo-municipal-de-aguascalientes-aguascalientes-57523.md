@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-07-14"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -8450,6 +8450,22 @@ VII. Rendir informes trimestrales al Secretario del H. Ayuntamiento y Director G
 VIII. Notificar al Sistema Nacional de Seguridad Pública, sobre las faltas graves sancionadas con remoción que resolviere respecto de los integrantes operativos de seguridad pública, en un término de tres días hábiles siguientes a su resolución; y
 
 IX. Conocer y resolver de los recursos de reconsideración y revocación que prevé este Libro.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
+ARTICULO 607 BIS.- Para el correcto desempeño de las actividades de la Comisión de Honor y Justicia, el Secretario Técnico al que se refiere el artículo 605 fracción II del presente ordenamiento legal, tendrá las siguientes facultades y obligaciones:
+
+I.- Representar legalmente ante cualquier instancia a la Comisión, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones. Rindiendo informe de ellos al Director de Asuntos Jurídicos del Municipio.
+
+II.- Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
+
+III.- Realizar y llevar a cabo las notificaciones emanadas por acuerdo de la Comisión de Honor y Justicia.
+
+IV.- Requerir a los servidores público (sic) de las unidades administrativas de la Secretaría de Seguridad Pública Municipal, por cualquier medio, la documentación e información necesarios para el cumplimiento de sus atribuciones y para realizar las diligencias solicitadas por cualquier autoridad. En caso de omisión del servidor público requerido, podrá solicitarse a través de su superior jerárquico el cumplimiento de la misma;
+
+V.- Presentar ante los miembros de la Comisión de Seguridad Pública dentro de sus sesiones ordinarias o cuando así lo requiera cualquiera de sus integrantes, un informe detallado sobre los asuntos que guarda la Coordinación de Asuntos de Honor y Justicia; y
+
+VI.- Las demás que le confiera la Comisión y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -20655,7 +20671,7 @@ IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-V. Analizar los hechos imputados y determinar sobre la procedencia o improcedencia de la infracción; (sic)
+V. Analizar los hechos imputados y determinar sobre la procedencia o improcedencia de la infracción;
 
 ###### ARTÍCULO 1556.
 
@@ -22162,3 +22178,7 @@ PRIMERO.- Se aprueba la reforma a los numerales 1,2 y 3 del inciso c) de la frac
 …
 
 SÉPTIMO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
