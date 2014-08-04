@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2014-07-11"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -235,17 +235,17 @@ XXI.- EMERGENCIA ECOLÓGICA.- Situación derivada de actividades humanas o fenó
 
 XXII.- EMISIÓN.- Es la descarga directa o indirecta a la atmósfera o al medio ambiente de toda sustancia, en cualesquiera de sus estados físicos, químicos, biológicos o de energía;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XXIII.- ESTUDIO DE IMPACTO AMBIENTAL.- El documento a través del cual la Secretaría da a conocer, con base en estudios de investigación, el impacto ambiental, significativo y potencial que genera o generaría una obra o actividad, así como la forma de evitarlo o atenuarlo, en caso de que sea negativo;
+XXIII.- ESTUDIO DE IMPACTO AMBIENTAL.- Documento a través del cual, el promovente de una obra y/o actividad da a conocer a la Secretaría con base en estudios de investigación el impacto ambiental significativo y potencial que generaría la obra y/o actividad, así como la forma de evitarlo o atenuarlo, en caso de que sea negativo.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XXIV.- ESTUDIO DE RIESGO.- El documento mediante el cual la Secretaría da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dicha obra o actividad representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+XXIV.- ESTUDIO DE RIESGO.- Documento a través del cual el promovente, presenta a la Secretaría un análisis de las acciones proyectadas para el desarrollo de una obra o actividad, que impliquen riesgos al equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate, con la finalidad de prevenir y preservar el ambiente.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XXV.- EVALUACIÓN DEL ESTUDIO DEL IMPACTO.- Es el procedimiento a través del cual la Secretaria, establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables, con el objeto de evitar o reducir al mínimo sus efectos negativos sobre el ambiente;
+XXV.- EVALUACIÓN DEL ESTUDIO DEL IMPACTO.- Es el procedimiento a través del cual la Secretaría, establece al promovente, las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables, con el objeto de evitar o reducir al mínimo sus efectos negativos sobre el ambiente, así como determinar acciones y criterios de edificación y requerimientos ambientales.
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -311,69 +311,77 @@ XL.- PRESERVACIÓN.- El conjunto de políticas y actividades preventivas para pr
 
 XLI.- PREVENCIÓN.- Es el conjunto de disposiciones y actividades anticipadas para evitar el deterioro del ambiente;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLII.- PROTECCIÓN AMBIENTAL.- Son las acciones para prevenir, preservar, restaurar y conservar los elementos del ambiente, así como minimizar, prevenir y controlar la contaminación o deterioro ambiental;
+XLII.- PROMOVENTE.- Persona física o moral responsable ante la Secretaría de la ejecución de una obra y/o actividad;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLIII.- PROTECCIÓN CIVIL.- El Sistema Estatal de Protección Civil;
+XLIII.- PROTECCIÓN AMBIENTAL.- Son las acciones para prevenir, preservar, restaurar y conservar los elementos del ambiente, así como minimizar, prevenir y controlar la contaminación o deterioro ambiental;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLIV.- RECICLAJE.- Método de tratamiento que consisten en la transformación de los residuos con fines productivos;
+XLIV.- PROTECCIÓN CIVIL.- El Sistema Estatal de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+XLIV. Bis.- (DEROGADA, P.O. 4 DE AGOSTO DE 2014)
 
-XLIV Bis.- REGISTRO ESTATAL.- El Registro Estatal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría;
+XLIV. Ter.- (DEROGADA, P.O. 4 DE AGOSTO DE 2014)
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLIV Ter.- REGISTRO MUNICIPAL.- El Registro Municipal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por el Municipio;
+XLV.- RECICLAJE.- Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLV.- REGIÓN ECOLÓGICA.- Es la unidad del territorio del Estado que comparte características ecológicas comunes;
+XLVI.- REGISTRO ESTATAL.- El Registro Estatal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLVI.- RESIDUO.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permite usarlo nuevamente en el proceso que lo generó;
+XLVII.- REGISTRO MUNICIPAL.- El Registro Municipal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por el Municipio;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLVII.- RESTAURACIÓN.- Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+XLVIII.- REGIÓN ECOLÓGICA.- Es la unidad del territorio del Estado que comparte características ecológicas comunes;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLVIII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de transformación;
+XLIX.- RESIDUO.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permite usarlo nuevamente en el proceso que lo generó;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XLIX.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
+L.- RESTAURACIÓN.- Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-L.- SECRETARÍA.- La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial del Estado de Puebla;
+LI.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de transformación;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-LI.- SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS.- Es un diagnóstico e inventario completo de las características bióticas y abióticas, así como su situación legal y socioeconómica que presenta cada área natural protegida, a través de un sistema de información geográfica;
+LII.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-LII.- SUSTANCIAS DEL GRUPO I.- El grupo de sustancias químicas compuesto por: clorofluorocarbono-11(CFC-11), CFC-12, CFC-113, CFC-114, CFC-II5, halón-1211, halón-1301, halón-2402, tetracloruro de carbono, diclorometano o cualquier mezcla que contenga uno o más de las anteriores sustancias;
+LIII.- SECRETARÍA.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-LIII.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier clorofluorohidrocarbono (HCFC) o cualquier otra sustancia que dañe o degrade la capa de ozono;
+LIV.- SUBSISTEMA DE ÁREAS NATURALES PROTEGIDAS.- Es un diagnóstico e inventario completo de las características bióticas y abióticas, así como su situación legal y socioeconómica que presenta cada área natural protegida a través de un sistema de información geográfica;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-LIV.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado; y
+LV.- SUSTANCIAS DEL GRUPO I.- El grupo de sustancias químicas compuesto por: clorofluorocarbono (CFC)-11 (CFC-11), CFC-12, CFC113, CFC114, CFC-115, halón-1211, halón-1301, halón-2402, tetracloruro de carbono, diclorometano o cualquier mezcla que contenga uno (sic) o más de las anteriores sustancias;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-LV.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes.
+LVI.- SUSTANCIAS DEL GRUPO II.- Grupo de sustancias que contenga cualquier clorofluorohidrocarbono (HCFC) o cualquier otra sustancia que dañe o degrade la capa de ozono;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+LVII.- TRATAMIENTO.- Es el proceso al que se someten los residuos, con el objeto de neutralizar, disminuir o eliminar los contaminantes que se le hayan incorporado; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+LVIII.- VERIFICACIÓN.- Es el análisis técnico para determinar las emisiones de gases o partículas sólidas o líquidas en la atmósfera, generada por contaminantes.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES, CONCURRENCIAS Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -947,7 +955,9 @@ VII.- Desarrollos turísticos estatales, municipales y privados;
 
 VIII.- Obras de infraestructura hidráulica estatal y municipal;
 
-IX.- Construcción y operación de plantas de tratamiento estatal, municipales e intermunicipales;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+IX.- Construcción y operación de plantas de tratamiento de aguas residuales estatales, municipales, intermunicipales e industriales;
 
 X.- Construcción y operación de instalaciones para el manejo, separación, tratamiento, reciclaje y disposición final de residuos sólidos no peligrosos;
 
@@ -955,7 +965,9 @@ XI.- Obras o aprovechamientos que pretendan realizarse dentro de las áreas natu
 
 XII.- Fraccionamientos, unidades habitacionales y nuevos centros de población;
 
-XIII.- Lugares destinados a la concurrencia masiva de personas, tales como centros comerciales, estadios, cines, escuelas, centros deportivos;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+XIII.- Lugares destinados a la concurrencia masiva de personas, tales como centros comerciales, estadios, cines, escuelas, centros deportivos, teatros, oficinas, estacionamientos, centros de culto, reclusorios, centrales camioneras, clubes nocturnos;
 
 XIV.- Hospitales, clínicas, centros de salud y laboratorios clínicos, públicos o privados;
 
@@ -971,9 +983,11 @@ XIX.- Las demás que no estén reservadas a la Federación por la Ley General, s
 
 XX.- Las que estando reservadas a la Federación, se descentralicen a favor del Estado o Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 39.
 
-No obstante lo establecido en el artículo anterior, previo a la elaboración del estudio de impacto ambiental, los interesados deberán exhibir ante la Autoridad competente un informe preventivo ambiental que permita establecer en forma mínima las condiciones y objetivos, así como el impacto ambiental del proyecto correspondiente. Dicho informe previo deberá ser presentado en los términos que establezca el Reglamento correspondiente.
+No obstante lo establecido en el artículo anterior, previo a la elaboración del estudio de impacto ambiental, los interesados deberán exhibir ante la autoridad competente un informe preventivo que permita establecer en forma mínima las condiciones y objetivos, así como el impacto ambiental del proyecto correspondiente. Dicho informe preventivo deberá ser presentado en los términos que establezca el Reglamento correspondiente.
 
 ###### ARTÍCULO 40.
 
@@ -991,19 +1005,19 @@ III.- Las obras o actividades de que se trate estén expresamente previstas en a
 
 IV.- Se trate de instalaciones ubicadas en parques industriales debidamente autorizados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 42.
 
-Mediante la evaluación y análisis del informe preventivo de impacto ambiental, la autoridad competente, determinará, en un plazo no mayor de treinta días hábiles, si se requiere la presentación de la manifestación de impacto ambiental y, en su caso, el estudio de riesgo ambiental y las condiciones a que deban sujetarse.
+Mediante la evaluación y análisis del informe preventivo de impacto ambiental, la autoridad competente, determinará en un plazo no mayor de veinticinco días hábiles, si se requiere la presentación de la manifestación de impacto ambiental, y en su caso, el estudio de riesgo ambiental y las condiciones a que deban sujetarse.
 
 De ser procedente la realización de una manifestación de impacto ambiental para la autorización del proyecto correspondiente, los interesados deberán exhibir ésta en los términos y condiciones a que se refiere la presente sección, para lo cual la Autoridad indicará los términos y modalidad en que deba ser presentada, de conformidad con el Reglamento aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 43.
 
-Para la evaluación del impacto ambiental de las obras o actividades a que se refiere esta Ley, los interesados presentarán a la Secretaría, un informe preventivo ambiental o una manifestación de impacto ambiental, según corresponda. Tratándose de actividades riesgosas se presentará además un estudio de riesgo.
+Para la evaluación del impacto ambiental de las obras o actividades a que se refiere esta Ley, los interesados presentarán a la Secretaría, un informe preventivo ambiental o una manifestación de impacto ambiental, según corresponda. En cualquiera de los casos, la Secretaría contará con veinticinco días hábiles para realizar dicha evaluación.
 
 ###### ARTÍCULO 44.
 
@@ -1011,13 +1025,17 @@ Una vez evaluado el impacto ambiental, la Secretaría emitirá una resolución e
 
 I.- Otorgará la autorización de la obra o actividad de que se trate en los términos solicitados;
 
-II.- Otorgará la autorización condicionada a la modificación del proyecto de la obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos, susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la Autoridad estatal, señalará los requerimientos que deban observarse para la ejecución de la obra o realización de la actividad prevista; o
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+II.- Otorgar la autorización condicionada a la modificación del proyecto de la obra y/o actividad o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten o atenúen los impactos ambientales adversos, susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorizaciones condicionadas, la autoridad estatal, señalará los requerimientos que deban observarse para la ejecución de la obra o realización de la actividad prevista; o
 
 III.- Negará la autorización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-La autorización en materia de impacto ambiental será negada cuando se pretendan realizar obras o actividades que contravengan los criterios de:
+La autorización en materia de impacto ambiental será negada cuando se pretendan realizar obras o actividades que contravengan:
 
 I.- Los programas de ordenamiento ecológico o desarrollo urbano;
 
@@ -1955,9 +1973,11 @@ Se entiende por actividades riesgosas aquéllas que en caso de producirse un eve
 
 Para efectos de esta Ley, se considerará que una persona, física o jurídica, realiza actividades riesgosas, cuando maneja sustancias peligrosas que no igualen o rebasen las cantidades de reporte a que se refieren los acuerdos por los que el Gobierno Federal emite los listados de actividades altamente riesgosas, publicados en el Diario Oficial de la Federación los días 28 de marzo de 1994, y el 4 de mayo de 1992, así como aquéllas que se sigan emitiendo en la materia.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 147.
 
-La realización de actividades consideradas como riesgosas se ejecutarán observando las Normas Oficiales Mexicanas y los criterios que emita la Secretaría.
+La realización de actividades consideradas como riesgosas se ejecutarán observando las Normas Oficiales Mexicanas aplicables, conforme al Reglamento correspondiente y los criterios que para el caso emita la Secretaría.
 
 ###### ARTÍCULO 148.
 
@@ -1969,7 +1989,9 @@ II.- Establecer condiciones de operación y requerir la instalación de equipos 
 
 III.- Promover ante los responsables de la realización de las actividades riesgosas, la utilización de tecnología para evitar y minimizar los riesgos ambientales; y
 
-IV.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+IV.- Evaluar y aprobar los Programas para la Prevención de Accidentes, así como la atención a contingencias ambientales y aplicar las medidas preventivas necesarias para evitarlas.
 
 ###### ARTÍCULO 149.
 
@@ -2514,3 +2536,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las autoridades competentes emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de noventa días.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Los asuntos que a la entrada en vigor de este Decreto se encuentren pendientes respecto de su trámite y substanciación, se sujetarán a las formas y procedimientos de los ordenamientos que les dieron origen.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
