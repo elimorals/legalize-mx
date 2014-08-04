@@ -4,7 +4,7 @@ identifier: "PUE-ley-general-de-bienes-del-estado-7707"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-12-25"
-last_updated: "2014-03-19"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GENERAL DE BIENES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 25 de diciembre de 1973.
 
@@ -325,21 +325,27 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo Local gestionará que el Gobierno Federal ceda o enajene a título gratuito los bienes propios federales que se encuentran dentro dl (sic) Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 34.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por el Instituto Registral y Catastral del Estado de Puebla.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previo avalúo de los mismos por el Instituto Registral y Catastral del Estado de Puebla, excepto en los casos en que se trate de un incentivo en términos de la Ley de la materia, siendo aplicable lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 35.
 
-Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto Registral y Catastral del Estado de Puebla.
+Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto Registral y Catastral del Estado de Puebla, excepto en los casos en que la enajenación sea como incentivo otorgado a una empresa en términos de la Ley en la materia, en cuyo caso el valor de la operación será determinado en el otorgamiento del incentivo.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 Si una vez licitados por segunda ocasión los bienes inmuebles propiedad del Gobierno del Estado, éstos no se enajenaran, se podrán adjudicar, pudiendo reducir como máximo hasta un treinta por ciento del valor previsto en el avalúo del Instituto Registral y Catastral del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+
 En caso de no lograrse la enajenación de los bienes inmuebles mediante los procedimientos señalados en el párrafo anterior, la Secretaría de Finanzas y Administración, por sí o a través de la instancia federal o estatal competente, podrá enajenarlos mediante subasta en pública almoneda en términos de la legislación aplicable y la normatividad que para tales efectos emita la Dependencia referida, o en su caso, bajo el procedimiento que la instancia federal ya tenga establecido.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
 
 El precio base de los bienes inmuebles, que se subastarán, será de por lo menos el cincuenta y uno por ciento del valor comercial que para tales efectos fije el Instituto Registral y Catastral del Estado de Puebla.
 
@@ -836,5 +842,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE MARZO DE 2014.
 
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
