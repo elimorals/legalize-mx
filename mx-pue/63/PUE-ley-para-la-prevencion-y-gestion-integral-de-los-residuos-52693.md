@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2012-03-28"
+last_updated: "2014-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-.
+...
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, y 64 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XV, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y XV del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -225,9 +225,9 @@ XXXI.- Reutilización: El empleo de un material o residuo previamente usado, sin
 
 XXXII.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
 
-XXXIII.- Secretaría: La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
+XXXIII.- Secretaría: Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -337,6 +337,10 @@ IV.- Establecer mecanismos de coordinación con los Ayuntamientos para la gesti�
 
 V.- Promover en coordinación con el Gobierno Federal y los Ayuntamientos, la creación de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial, con la participación de inversionistas y representantes de los sectores sociales interesados, previendo la instalación de contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos, en oficinas y espacios públicos, invitando al sector privado a adherirse a estas medidas;
 
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+V BIS.- Suscribir, en su caso, convenios con los Ayuntamientos, en materia de residuos de manejo especial que se generen dentro de la circunscripción territorial municipal, así como para la imposición de las sanciones respectivas, en términos de las disposiciones legales aplicables;
+
 VI.- Promover la investigación, el desarrollo y la aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos de manejo especial y sólidos urbanos;
 
 VII.- Promover la participación de los sectores privado y social para el cumplimiento del objeto de esta Ley;
@@ -401,7 +405,7 @@ Corresponde a los Ayuntamientos, en el ámbito de sus respectivas competencias y
 
 I.- Formular por sí o con el apoyo de los representantes de los distintos sectores sociales, los programas municipales para la prevención, reducción, gestión y manejo integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
 
-ll.- Expedir los Reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en la normatividad en la materia;
+II.- Expedir los Reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en la normatividad en la materia;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -795,13 +799,19 @@ V.- Obligaciones y facultades de cada una de las partes que intervienen en la ap
 
 VI.- Descripción de actividades de capacitación, educación ambiental que se implementarán y los procedimientos que informen y promuevan la prevención, minimización, y el correcto manejo de residuos que se generan para dar cumplimiento a lo establecido en la presente Ley, su Reglamento y las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
+En el caso de la evaluación de los planes de manejo de residuos de construcción, mantenimiento y demolición, de proyectos que en términos de la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, requieran de la evaluación de impacto ambiental, no podrá autorizarse el mencionado plan de manejo sin que exista el pronunciamiento previo de impacto ambiental, sin embargo, se podrán tramitar de manera simultánea.
+
 ###### ARTÍCULO 32.
 
 En ningún caso los planes de manejo podrán plantear formas de manejo contrarias a los objetivos y principios en los que se basa la normatividad aplicable a la prevención y reducción de riesgos del residuo de que se trate, ni involucrar en el proceso de instrumentación del plan a empresas que no estén autorizadas ante las Autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 33.
 
-Los planes de manejo serán presentados por los particulares a la Secretaría o al Ayuntamiento, en el ámbito de sus respectivas competencias, quienes en un plazo de sesenta días naturales contados a partir de la recepción deberán emitir su resolución.
+Los planes de manejo serán presentados por los particulares a la Secretaría o al Ayuntamiento, en el ámbito de sus respectivas competencias, quienes en un plazo de veinticinco días hábiles contados a partir de la recepción deberán emitir su resolución.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -1033,9 +1043,11 @@ VII.- La información necesaria para la formulación y el cumplimiento del Progr
 
 VIII.- Las que determine el Reglamento de la presente Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 56.
 
-Las Autoridades competentes deberán resolver las solicitudes de autorización a que se refiere este Capítulo en un plazo máximo de sesenta días naturales contado a partir de la presentación de la solicitud.
+Las autoridades competentes deberán resolver las solicitudes de autorización a que se refiere este Capítulo en un plazo máximo de veinticinco días hábiles contados a partir de la presentación de la solicitud.
 
 En el caso de que la Autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor de diez días naturales contados a partir de que se reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la Autoridad se suspenderá hasta la entrega de la información.
 
@@ -1548,3 +1560,11 @@ P.O. 28 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que a la entrada en vigor de este Decreto se encuentren pendientes respecto de su trámite y sustanciación, se sujetarán a las formas y procedimientos de los ordenamientos bajo los cuales se inició su trámite.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
