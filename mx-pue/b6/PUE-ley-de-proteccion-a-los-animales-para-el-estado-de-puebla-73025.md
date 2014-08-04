@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-animales-para-el-estado-de-puebla-73025
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-27"
-last_updated: "2010-01-27"
+last_updated: "2014-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE PUEBLA
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE PUEBLA
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de enero de 2010.
 
@@ -269,11 +269,31 @@ XI.- Vender o adiestrar animales en áreas comunes o en áreas en las que se ate
 
 XII.- Hacer ingerir al animal bebidas alcohólicas o suministrar drogas sin fines terapéuticos o de investigación científica;
 
-XIII.- Ofrecer cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+XIII.- Ofrecer cualquier clase de alimentos u objetos a los animales en los centros zoológicos o espectáculos públicos cuya ingestión pueda causarles daño físico, enfermedad o muerte;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2014)</small>
+
+XIII Bis.- Celebrar presentación de circos con animales de cualquier especie.
+
+Para efectos del párrafo anterior, se entenderá por presentación de circo, aquel donde se realiza la representación artística de malabaristas, payasos, equilibristas y otro tipo de artistas, ya sean públicos fijos o itinerantes, y
 
 XIV.- Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
 Los espectáculos de tauromaquia, charrería y peleas de gallos, no se considerarán como infracciones para la presente Ley, siempre y cuando se realicen conforme a los reglamentos y autorizaciones que al efecto emitan las autoridades correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 15 BIS.- Las autoridades estatales y municipales en el ámbito de su competencia, informarán de forma inmediata a las autoridades federales competentes, respecto de la realización de presentaciones de circos con animales.
+
+Las autoridades previstas en la presente Ley, tienen prohibido otorgar autorizaciones, licencias o permisos para la instalación de circos con animales.
 
 ###### ARTÍCULO 16.
 
@@ -433,27 +453,39 @@ Las autoridades estatales y municipales darán aviso a las instancias federales 
 
 ### CAPÍTULO VIII. DE LOS ANIMALES EN ESPECTÁCULO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 41.
 
-Los propietarios o encargados de los circos deberán contar con los permisos de las autoridades competentes para establecer su espectáculo; el otorgamiento de estos permisos estará supeditado a la presentación de un programa de bienestar animal de conformidad con la legislación de la materia.
+Los propietarios o encargados de los centros zoológicos y acuarios, deberán contar con los permisos de las autoridades competentes para establecer su espectáculo.
 
 ###### ARTÍCULO 42.
 
 En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales vivos, debe garantizarse su trato digno y respetuoso durante el tiempo en que dure su utilización, así como en su traslado y en los tiempos de espera, permitiendo la presencia de las autoridades competentes y de un representante de alguna asociación protectora de animales legalmente constituida previa solicitud y autorización, como observadores de las actividades que se realicen, así como la presencia del personal capacitado para su cuidado y atención.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 43.
 
-Las autoridades previstas en el artículo 6 de esta Ley vigilarán que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos, y durante su traslado no sean inmovilizados en una posición que les ocasione lesiones o sufrimiento.
+Las autoridades previstas en el artículo 6 de esta Ley vigilarán que los centros zoológicos y acuarios que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos, y durante su traslado no sean inmovilizados en una posición que les ocasione lesiones o sufrimiento.
 
-Además vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad tanto para la protección de ellos como del público espectador.
+Además vigilarán que los animales tengan condiciones adecuadas de higiene, y medidas de seguridad tanto para la protección de ellos como de los visitantes.
 
 ###### ARTÍCULO 44.
 
 Los animales que por su gran tamaño, no sea factible que se encuentren confinados en jaulas, lo estarán en espacios protegidos por cercas o en su defecto, sujetos con cadena, procurando que el tamaño de ésta sea proporcional a la complexión del animal a efecto de evitarle algún daño o lesión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 45.
 
-Deberá informarse al público que asiste a los zoológicos y circos, que no está permitido darles alimentos a los animales.
+Deberá informarse al público que asiste a los centros zoológicos y acuarios, que únicamente podrán darles alimento a los animales, conforme a la reglamentación interna de los centros respectivos.
 
 ### CAPÍTULO IX. DE LOS ANIMALES CALLEJEROS O ABANDONADOS
 
@@ -926,3 +958,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil nueve.- Diputado Presidente.- EUGENIO EDGARDO GONZÁLEZ ESCAMILLA.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA GARCÍA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTlEL.- Rúbrica.- Diputada Secretaria.- CAROLINA O'FARRILL TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis del mes de diciembre de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al año de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Dentro del plazo de tres meses siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado deberán adecuar la reglamentación en la materia.
