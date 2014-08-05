@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2014-04-01"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -51,7 +51,9 @@ I. Regular la coordinación del Estado con los municipios, la Federación y los 
 
 II. Regular la planeación, gestión y preservación de las aguas sujetas a las disposiciones del estado en apego al artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y
 
-III. Regular la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales por los municipios, de acuerdo con el artículo 115 de la Constitución General de la República.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+III. Regular la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; así como el uso, tratamiento, aprovechamiento, destinación y disposición de las aguas pluviales por los municipios, de acuerdo con el artículo 115 de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2012)</small>
 
@@ -3212,3 +3214,9 @@ P.O. 1 DE ABRIL DE 2014.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) al presente Decreto.
