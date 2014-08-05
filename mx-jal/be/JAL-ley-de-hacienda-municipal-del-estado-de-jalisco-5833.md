@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-07-31"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -153,9 +153,7 @@ La interpretación de las Leyes Fiscales relativas a la Hacienda Municipal, corr
 
 Los ayuntamientos, las autoridades hacendarias del Municipio, así como los particulares, cuando consideren que alguna disposición de las leyes fiscales municipales es confusa, podrán solicitar al Congreso del Estado que fije su interpretación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-La interpretación que haga el Congreso del Estado es obligatoria, en el orden administrativo, para todos los municipios del Estado, a los que deberá hacerse conocer en los términos que proceda.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE AGOSTO DE 2014)</small>
 
 ###### Art. 17.
 
@@ -3612,5 +3610,9 @@ P.O. 8 DE ABRIL DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 31 DE JULIO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
