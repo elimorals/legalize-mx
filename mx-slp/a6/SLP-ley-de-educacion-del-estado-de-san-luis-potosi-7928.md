@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-05-24"
+last_updated: "2014-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -203,7 +203,7 @@ La educación -preescolar, primaria, secundaria, media superior, normal y demás
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-II.- Será nacional, en cuanto - sin hostilidades ni exclusivismos - atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, a la continuidad y acrecentamiento de nuestra cultura; y (sic)
+II.- Será nacional, en cuanto - sin hostilidades ni exclusivismos - atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, a la continuidad y acrecentamiento de nuestra cultura; y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -327,7 +327,7 @@ II.- Autoridad educativa estatal o local al Ejecutivo del Estado, a través de l
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
-III.- Autoridad educativa municipal, al ayuntamiento de cada municipio, y (sic)
+III.- Autoridad educativa municipal, al ayuntamiento de cada municipio, y
 
 IV.- (DEROGADA, P.O. 14 DE ENERO DE 2014)
 
@@ -477,7 +477,7 @@ XXXIV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordin
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XXXV.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y (sic)
+XXXV.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -539,7 +539,7 @@ IX. Fomentar y difundir las actividades artísticas, culturales y físico-deport
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2011)</small>
 
-X. Coordinar y operar un padrón nacional y estatal de alumnos, docentes, instituciones y centros escolares; un registro nacional y estatal de emisión, validación e inscripción de documentos académicos, y establecer un sistema nacional y estatal de información educativa, y (sic)
+X. Coordinar y operar un padrón nacional y estatal de alumnos, docentes, instituciones y centros escolares; un registro nacional y estatal de emisión, validación e inscripción de documentos académicos, y establecer un sistema nacional y estatal de información educativa, y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -732,6 +732,10 @@ La educación superior universitaria de acuerdo con la legislación que la rige,
 Las universidades y demás instituciones a las que la Ley otorgue autonomía se regirán por lo dispuesto en la fracción VII del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
 
 La educación normal y demás para la formación, capacitación, actualización y superación de docentes en todos sus niveles y modalidades, está comprendida en el nivel superior y tiene como propósito formar profesores cuya capacidad profesional, conciencia, responsabilidad y actitud de servicio, responda al desarrollo educativo nacional y estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+La educación superior que se imparta en el Estado será incluyente, y garantizará que las personas con discapacidad cuenten con oportunidades de desarrollo profesional, a través de políticas de accesibilidad, ajustes razonables, programas de capacitación del personal de las instituciones de educación superior y no discriminación.
 
 ###### ARTICULO 39.
 
@@ -1223,7 +1227,7 @@ XI.- Promoverán mayor participación de la sociedad en la educación, así como
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y (sic)
+XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -1431,7 +1435,7 @@ VII.- Opinar, en los casos de la educación que impartan los particulares, en re
 
 VIII.- Actuar en forma conjunta con las asociaciones de padres de familia, en la toma de decisiones, incluyendo la determinación y destino de las aportaciones voluntarias;
 
-IX.- Ser informados por la asociación de padres de familia, de la cual formen parte, de la administración de las aportaciones, la situación financiera que guardan, así como de todas las actividades que realicen en su gestión, y (sic)
+IX.- Ser informados por la asociación de padres de familia, de la cual formen parte, de la administración de las aportaciones, la situación financiera que guardan, así como de todas las actividades que realicen en su gestión, y
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -1475,7 +1479,7 @@ I. Hacer que sus hijas, hijos o pupilos, menores de edad, reciban la educación 
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
-II. Apoyar el proceso educativo de sus hijas, hijos o pupilos, y (sic)
+II. Apoyar el proceso educativo de sus hijas, hijos o pupilos, y
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
@@ -2204,6 +2208,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 24 DE MAYO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
