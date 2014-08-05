@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-07-05"
+last_updated: "2014-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4213,7 +4213,9 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 Comete este delito, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte.
 
-Este delito será castigado con pena de tres meses a un año de prisión, y sanción pecuniaria de diez a cuarenta días de salario mínimo; e inhabilitación hasta por un año para el ejercicio de profesión si el delito lo cometiere un profesional en veterinaria o similar.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Este delito será castigado con pena de tres meses a un año de prisión, y sanción pecuniaria de diez a cuarenta días de salario mínimo; e inhabilitación hasta por un año para el ejercicio de la profesión si el delito lo cometiere un profesional en veterinaria.
 
 Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
 
@@ -4674,3 +4676,9 @@ P.O. 5 DE JULIO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
