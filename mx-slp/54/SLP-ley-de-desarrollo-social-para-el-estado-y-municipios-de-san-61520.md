@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2011-10-22"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 742 PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -479,27 +477,31 @@ El Programa Estatal deberá publicarse en el Periódico Oficial del Estado, dent
 
 Asimismo, de manera anual el Gobierno del Estado deberá hacer públicos los avances de la política social, contenida en el Programa Estatal.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
 
-ARTICULO 28 BIS. Los programas de desarrollo social deberán contar con reglas de operación que establecerán como mínimo:
+ARTICULO 28 BIS. Para certificar la aplicación eficiente, eficaz, oportuna, equitativa y transparente de los recursos públicos, los programas sociales deberán sujetarse a reglas de operación que deberán ser simples y de fácil acceso para los beneficiarios, debiendo precisar en forma clara por lo menos los siguientes aspectos:
 
-I. El diagnóstico situacional que guarda el desarrollo social;
+I. El diagnóstico situacional que guarda el Estado en el rubro o rubros de atención;
 
-II. La población objetivo;
+II. Los objetivos del programa;
 
-III. La entidad o dependencia responsable del programa;
+III. La población objetivo a la que está dirigido;
 
-IV. Las metas programadas;
+IV. La entidad o dependencia responsable del programa;
 
 V. La programación presupuestal;
 
-VI. Los procedimientos y requisitos de acceso;
+VI. Las metas programadas;
 
-VII. Los mecanismos de evaluación y los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto;
+VII. Los procedimientos y requisitos de acceso;
 
-VIII. Las formas de participación social y de corresponsabilidad social, y
+VIII. La temporalidad y la cobertura;
 
-IX. La articulación con dependencias y otros programas de desarrollo social aplicables.
+IX. Los mecanismos de evaluación y los indicadores de resultados y gestión;
+
+X. Las formas de participación y corresponsabilidad social, y
+
+XI. La articulación con dependencias y otros programas sociales aplicables.
 
 Las reglas de operación se publicarán en el Periódico Oficial del Estado, dentro de los quince días posteriores a la publicación del Programa Estatal.
 
@@ -627,21 +629,35 @@ Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y
 
 ### CAPITULO III. De la Denuncia Popular
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 47.
 
-Toda persona u organización de la sociedad civil podrá presentar ante las contralorías internas de las dependencias estatales o municipales, según corresponda, las denuncias por hechos, actos u omisiones que se produzcan por incumplimiento de los programas sociales.
+La denuncia popular es la facultad individual o colectiva de recurrir ante el órgano competente, a interponer queja o denuncia derivada de actos administrativos de gobierno que atenten en contra de los beneficiarios de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+ARTICULO 47 BIS. Toda persona u organización de la sociedad civil podrá presentar ante las contralorías internas de las dependencias estatales o municipales, según corresponda, las denuncias por hechos, actos u omisiones producidos por incumplimiento de los programas sociales, y que atenten en contra de los beneficiarios de esta Ley.
+
+Asimismo, podrán presentar denuncia ante la Contraloría General del Estado o ante la contraloría municipal, según sea el caso, sobre cualquier hecho, acto u omisión que, a su juicio, contravenga las disposiciones establecidas en este Ordenamiento.
 
 La revisión e investigación de estas denuncias se hará, preferentemente, a través de la Contraloría Social.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 48.
 
-Las denuncias deberán presentarse directamente por el interesado mediante escrito que contenga como mínimo:
+La denuncia podrá presentarse por cualquier persona u organización civil, por escrito, y deberá cumplir los requisitos siguientes:
 
-I. La descripción de los actos, hechos u omisiones denunciados;
+I. Nombre o razón social del promovente y, en su caso, el de su representante;
 
-II. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable, y
+II. Domicilio para oír y recibir notificaciones;
 
-III. Las pruebas que ofrezca el denunciante.
+III. Los actos, hechos u omisiones que denuncia;
+
+IV. La autoridad responsable, y
+
+V. Los elementos de prueba para acreditar su dicho.
 
 ###### ARTICULO 49.
 
@@ -732,5 +748,11 @@ P.O. 20 DE OCTUBRE DE 2011.
 DECRETO No. 742 POR EL QUE SE REFORMA EL ARTÍCULO, 29; Y ADICIONA EL ARTÍCULO 28 BIS, DE Y A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
