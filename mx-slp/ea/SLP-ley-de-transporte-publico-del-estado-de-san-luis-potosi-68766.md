@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2014-07-15"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -2147,7 +2147,9 @@ PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el 
 
 SEGUNDO. La Secretaría de Comunicaciones y Transportes tendrá sesenta días para insertar en su reglamento, las especificaciones que deben cumplir las unidades del transporte escolar.
 
-TERCERO. Los prestadores del servicio de transporte escolar tendrán un año a partir de la entrada vigor (sic) del presente Decreto, para llevar a cabo el cambio de unidades.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+TERCERO. Los prestadores del servicio de transporte escolar tendrán hasta el mes de agosto de 2015, para llevar a cabo el cambio de unidades.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
@@ -2210,3 +2212,9 @@ CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a
 QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
