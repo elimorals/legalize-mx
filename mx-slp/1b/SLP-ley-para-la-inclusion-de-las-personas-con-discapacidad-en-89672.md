@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2014-04-15"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -65,7 +65,7 @@ VI. Progresividad: elemento inherente a la obligación que tienen autoridades y,
 
 VII. Plena inclusión: hacer implícito que las personas con discapacidad son parte de la sociedad, así como la necesidad de su pleno desarrollo;
 
-VIII. Registro Estatal de las Personas con Discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existe en la entidad, para la creación de un padrón único de personas con discapacidad; (sic)
+VIII. Registro Estatal de las Personas con Discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existe en la entidad, para la creación de un padrón único de personas con discapacidad;
 
 ###### ARTICULO 3°.
 
@@ -379,9 +379,17 @@ XV. Garantizar la implementación e impartición de los planes y programas aprob
 
 XVI. Impulsar toda forma de comunicación que facilite a la persona con discapacidad el desarrollo y uso de su lengua en forma escrita;
 
-XVII. Garantizar la seguridad y la protección de las personas con discapacidad que se encuentren en situaciones de riesgo, así como en situaciones de conflicto armado, emergencias humanitarias y desastres naturales, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2014)</small>
 
-XVIII. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+XVII. Garantizar la seguridad y la protección de las personas con discapacidad que se encuentren en situaciones de riesgo, así como en situaciones de conflicto armado, emergencias humanitarias y desastres naturales;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+XVIII. Coordinar reuniones semestrales con todos los directivos de las instituciones de educación superior, con la finalidad de intercambiar políticas, programas, experiencias y aprendizajes que favorezcan la inclusión plena en el proceso formativo de las personas con discapacidad, para homogenizar las medidas de accesibilidad y los ajustes razonables a que se refiere el párrafo sexto del artículo 38 de la Ley de Educación del Estado. La Secretaría deberá capacitar por sí o a través de alguna otra institución especializada, al personal directivo, administrativo, y docente que en las instituciones de educación superior se encargue de la atención de las personas con discapacidad. En todas las instituciones de educación superior deberá haber por lo menos una persona capacitada, responsable de atender a las personas con discapacidad y de hacer del conocimiento de sus superiores las necesidades institucionales para cumplir con lo dispuesto en esta Ley. Las instituciones de educación superior deberán modificar sus reglamentos y normatividades internas, para garantizar que los mecanismos de evaluación académica consideren la situación particular de las personas con discapacidad, para que éstos no resulten excluyentes o discriminatorios, y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+XIX. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 14.
 
@@ -1052,5 +1060,11 @@ Lic. Cándido Ochoa Rojas
 P.O. 15 DE ABRIL DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
