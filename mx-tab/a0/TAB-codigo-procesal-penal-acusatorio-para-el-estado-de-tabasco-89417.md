@@ -4,7 +4,7 @@ identifier: "TAB-codigo-procesal-penal-acusatorio-para-el-estado-de-tabasco-8941
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-29"
-last_updated: "2013-05-25"
+last_updated: "2014-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 
 CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO 119 PUBLICADO EL 5 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA GRADUAL, POR REGIONES, POR LO QUE LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DE LA INICIACIÓN DE LOS MISMOS.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES; EN CONSECUENCIA, LA VIGENCIA Y APLICACIÓN SERÁ DE LA FORMA QUE INDICA DICHO ARTÍCULO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Código publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 29 de agosto de 2012.
 
@@ -1347,7 +1349,7 @@ Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el i
 
 Procedencia.
 
-Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; y en aquellos que tengan señalada una pena máxima no exceda (sic) de tres años de prisión.
+Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; y en aquellos que tengan señalada una pena máxima (sic) no exceda de tres años de prisión.
 
 Se exceptúan de esta disposición los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos o con motivo de la conducción de vehículo de motor de transporte público, cuando se ocasionen lesiones que pongan en peligro la vida a más de tres personas o se cause la muerte de dos o más personas.
 
@@ -4861,7 +4863,7 @@ El recurso de casación tiene como objeto anular la sentencia pronunciada en aud
 
 I. Hubiere quebrantado las formalidades esenciales del procedimiento; o
 
-II. Infrinja la legalidad en la formulación de las resoluciones aludidas; (sic)
+II. Infrinja la legalidad en la formulación de las resoluciones aludidas;
 
 ###### Artículo 451.
 
@@ -5138,3 +5140,45 @@ P.O. 25 DE MAYO DE 2013.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE TABASCO, PUBLICADA MEDIANTE DECRETO NÚMERO 119.</small>
+
+“ARTÍCULO ÚNICO.- Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014, se declara que en el Estado de Tabasco se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales que entrará en vigor de manera gradual, por regiones de conformidad con las siguientes prevenciones:
+
+Región 1. Macuspana, al día siguiente de cumplidos sesenta días naturales a partir de la vigencia del presente decreto.
+
+Región 2. El municipio de Cunduacán, el 6 de abril de 2015.
+
+Región 3. Los municipios de Jalapa, Teapa y Tacotalpa, el 6 de octubre de 2014.
+
+Región 4. Los municipios de Tenosique, Balancán, Emiliano Zapata y Jonuta, el 19 de octubre de 2015.
+
+Región 5. Los municipios de Paraíso y Centla, el 15 de diciembre de 2014.
+
+Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco, el 24 de agosto de 2015.
+
+Región 7. El municipio de Huimanguillo, el 07 de diciembre de 2015.
+
+Región 8. El municipio de Cárdenas, el 25 de abril de 2016.
+
+Región 9. El municipio de Centro, el 06 de junio de 2016.
+
+En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en el estado de Tabasco.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado, se regirán por las disposiciones vigentes al momento de su inicio.”
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. En términos de lo dispuesto en el artículo Tercero Transitorio del Código Nacional de Procedimientos Penales, se abrogan los Códigos de Procedimiento Penales para el Estado de Tabasco y Procesal Penal Acusatorio para el Estado de Tabasco.
+
+Respecto a los procedimientos penales que a la entrada en vigor del Código Nacional de Procedimientos Penales se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de la iniciación de los mismos.
+
+Toda mención en otras leyes u ordenamientos legales referentes a los Códigos de Procedimientos Penales para el Estado de Tabasco y Procesal Penal Acusatorio para el Estado de Tabasco, que por virtud del presenten (sic) Decreto se abrogan, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+CUARTO. Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como de la Entidad, para su conocimiento y efectos a que haya lugar.
