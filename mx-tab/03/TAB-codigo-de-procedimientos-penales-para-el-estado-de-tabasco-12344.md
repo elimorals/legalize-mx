@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2014-04-09"
+last_updated: "2014-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO 119 PUBLICADO EL 5 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE MANERA GRADUAL, POR REGIONES, POR LO QUE LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DE LA INICIACIÓN DE LOS MISMOS.</small>
+
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIO DEL DECRETO NÚMERO 206, PUBLICADO EN EL SUPLEMENTO 7302 C DEL P.O. DE 29 DE AGOSTO DE 2012, EL PRESENTE CÓDIGO SE SEGUIRÁ APLICANDO EN LOS MUNICIPIOS DEL ESTADO EN LOS QUE NO HAYA ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO CONFORME A LOS TIEMPOS QUE SE SEÑALAN EN EL ARTÍCULO SEGUNDO TRANSITORIO Y EN LOS MUNICIPIOS DEL ESTADO, EN LOS QUE HABIENDO ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO, SE TRATE DE HECHOS DELICTIVOS Y PROCEDIMIENTOS PENALES, COMETIDOS O INICIADOS CON ANTERIORIDAD A ESE MOMENTO. LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -44,6 +46,8 @@ DECRETO No. 204
 ###### ARTÍCULO ÚNICO
 
 Se aprueba el Código de Procedimientos Penales para el Estado de Tabasco, para quedar como sigue:
+
+> <small>N. DE E. TODA MENCIÓN EN OTRAS LEYES U ORDENAMIENTOS LEGALES REFERENTES A LOS CÓDIGOS DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO Y PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO, QUE POR VIRTUD DEL PRESENTE DECRETO SE ABROGAN, SE ENTENDERÁ QUE SE REFIERE AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
@@ -2294,3 +2298,45 @@ P.O. 9 DE ABRIL DE 2014.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 5 DE AGOSTO DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO 119 DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2014.</small>
+
+“ARTÍCULO ÚNICO.- Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014, se declara que en el Estado de Tabasco se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales que entrará en vigor de manera gradual, por regiones de conformidad con las siguientes prevenciones:
+
+Región 1. Macuspana, al día siguiente de cumplidos sesenta días naturales a partir de la vigencia del presente decreto.
+
+Región 2. El municipio de Cunduacán, el 6 de abril de 2015.
+
+Región 3. Los municipios de Jalapa, Teapa y Tacotalpa, el 6 de octubre de 2014.
+
+Región 4. Los municipios de Tenosique, Balancán, Emiliano Zapata y Jonuta, el 19 de octubre de 2015.
+
+Región 5. Los municipios de Paraíso y Centla, el 15 de diciembre de 2014.
+
+Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco, el 24 de agosto de 2015.
+
+Región 7. El municipio de Huimanguillo, el 07 de diciembre de 2015.
+
+Región 8. El municipio de Cárdenas, el 25 de abril de 2016.
+
+Región 9. El municipio de Centro, el 06 de junio de 2016.
+
+En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en el estado de Tabasco.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado, se regirán por las disposiciones vigentes al momento de su inicio.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese la presente Declaratoria en el Periódico Oficial del Estado.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. En términos de lo dispuesto en el artículo Tercero Transitorio del Código Nacional de Procedimientos Penales, se abrogan los Códigos de Procedimiento (sic) Penales para el Estado de Tabasco y Procesal Penal Acusatorio para el Estado de Tabasco.
+
+Respecto a los procedimientos penales que a la entrada en vigor del Código Nacional de Procedimientos Penales se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento de la iniciación de los mismos.
+
+Toda mención en otras leyes u ordenamientos legales referentes a los Códigos de Procedimientos Penales para el Estado de Tabasco y Procesal Penal Acusatorio para el Estado de Tabasco, que por virtud del presenten (sic) Decreto se abrogan, se entenderá que se refiere al Código Nacional de Procedimientos Penales.
+
+CUARTO. Remítase copia de la presente declaratoria al Congreso de la Unión, a las legislaturas Estatales, a la Asamblea del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como de la Entidad, para su conocimiento y efectos a que haya lugar.
