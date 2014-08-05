@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-estatal-para-prevenir-atender-82789"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-06"
-last_updated: "2011-09-06"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 6 de septiembre de 2011.
 
@@ -421,11 +421,37 @@ V. Las demás que establezcan la Ley de Acceso, el Reglamento de la Ley de Acces
 
 ### Capítulo VII. Comisiones del Consejo Estatal
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+#### Sección Primera. Comisiones Permanentes
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
 Comisiones
 
 ###### Artículo 39.
 
-Por cada uno de los ejes estratégicos el Consejo Estatal tendrá una comisión, las cuales estarán compuestas por sus integrantes, quienes podrán participar sin ninguna restricción en las cuatro comisiones.
+El Consejo Estatal tendrá, por lo menos, una comisión por cada uno de los ejes estratégicos, las cuales estarán compuestas por integrantes del Consejo Estatal, quienes podrán participar en cada una, sin restricción.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Comisiones Permanentes
+
+###### Artículo 39 Bis.
+
+Para el cumplimiento de sus atribuciones el Consejo Estatal contará con las siguientes Comisiones de carácter permanente:
+
+I. Comisión de Prevención;
+
+II. Comisión de Atención;
+
+III. Comisión de Sanción;
+
+IV. Comisión de Erradicación; y
+
+V. Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado.
+
+Lo anterior, sin menoscabo de las Comisiones Especiales o Equipos de Trabajo que pueda constituir el Consejo Estatal.
 
 Modelos
 
@@ -438,6 +464,74 @@ Actividad de las comisiones
 ###### Artículo 41.
 
 Además de la elaboración del modelo, las actividades dentro de las comisiones serán con base en el Programa Estatal.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+#### Sección Segunda. Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado
+
+###### Artículo 41 Bis.
+
+La Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado es la instancia técnica especializada del Consejo Estatal encargada de dar seguimiento a los casos de violencia feminicida en el Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Integración de la Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado
+
+###### Articulo 41 Ter.
+
+La Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado estará integrada por:
+
+I. Un representante del Poder Judicial;
+
+II. Un representante de la Procuraduría de Derechos Humanos;
+
+III. El Procurador General de Justicia;
+
+IV. El Secretario de Salud;
+
+V. El Secretario de Gobierno;
+
+VI. El Secretario de Educación;
+
+VII. El Director General del Sistema del Desarrollo Integral de la Familia del Estado de Guanajuato;
+
+VIII. La Directora General del Instituto de la Mujer Guanajuatense;
+
+IX. Dos representantes provenientes de Organismos no Gubernamentales especializados en violencia feminicida; y
+
+X. Dos representantes provenientes del Sector Académico.
+
+Los representantes señalados en las fracciones IX y X durarán en su encargo tres años y de entre ellos se elegirá al Coordinador Ejecutivo de la Comisión.
+
+La designación de los dos representantes provenientes de Organismos no Gubernamentales se ajustará a lo que dispone el Capítulo IV del presente Reglamento.
+
+La designación de los académicos se realizará por el Gobernador del Estado de entre la terna que le presente el Consejo Estatal.
+
+La Comisión de Seguimiento de Casos, de Violencia Feminicida en el Estado podrá integrar a los representantes legales de las víctimas o sus familiares, a solicitud de parte, a la celebración de las sesiones, únicamente para conocer el estudio, avance y situación de su caso.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Atribuciones de la Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado
+
+###### Artículo 41 Quater.
+
+La Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado de Casos de Violencia Feminicida (sic) tendrá las siguientes atribuciones:
+
+I. Ser la instancia técnica especializada para dar seguimiento a los casos de violencia feminicida;
+
+II. Proponer, impulsar y vigilar la atención de las acciones encaminadas a mejorar la situación de la actuación de las y los servidores públicos dedicados a la atención de los casos de violencia feminicida;
+
+III. Dar seguimiento a la actuación de las y los servidores públicos dedicados a los casos de violencia feminicida;
+
+IV. Proporcionar información a los representantes de las víctimas o sus familiares sobre la situación de sus casos, cuando así lo soliciten al exponerlos;
+
+V. Vigilar que las instituciones públicas den la información a los representantes de las víctimas o sus familiares sobre sus casos en un lenguaje claro, accesible, respetuoso y adecuado; y
+
+VI. Las demás que establezca el Consejo Estatal o su Estatuto Orgánico.
 
 Elementos de trabajo
 
@@ -455,17 +549,25 @@ Participación de invitados
 
 Por acuerdo de los integrantes de cada comisión se podrá invitar a sus sesiones a las personas que por sus conocimientos y aptitudes se considere necesarias para el mejor cumplimiento de sus actividades, quienes participarán sólo con voz.
 
-Coordinación Técnica
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2014)</small>
+
+#### Sección Tercera. Sesiones de las Comisiones
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Coordinación Ejecutivo y Secretario Técnico
 
 ###### Artículo 44.
 
-Cada comisión deberá nombrar a una dependencia o institución que fungirá como Coordinación Técnica, quien además de organizar las sesiones de su comisión respectiva, deberá informar a los integrantes del Consejo Estatal en cada sesión ordinaria sobre el seguimiento y cumplimiento de los acuerdos establecidos, independientemente de que el Presidente requiera información sobre sus acciones en cualquier momento.
+Cada comisión deberá nombrar a un Coordinador Ejecutivo de entre sus integrantes, quien presidirá y conducirá las sesiones. El Instituto de la Mujer Guanajuatense fungirá como Secretaría Técnica de las comisiones.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
 
 Sesiones de las comisiones
 
 ###### Artículo 45.
 
-Las comisiones sesionarán de manera cuatrimestral de forma ordinaria invariablemente el día hábil anterior a las sesiones ordinarias del Consejo Estatal, y de forma extraordinaria podrán reunirse cuantas veces lo consideren necesario para cumplir con sus objetivos.
+Las comisiones sesionarán de manera cuatrimestral de forma ordinaria invariablemente el día hábil anterior a las sesiones ordinarias del Consejo Estatal, y de forma extraordinaria podrán reunirse cuantas veces lo consideren necesario para cumplir con sus objetivos, a excepción de la Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado que sesionará de forma ordinaria mensualmente.
 
 Quórum para las sesiones de la comisiones
 
@@ -473,17 +575,21 @@ Quórum para las sesiones de la comisiones
 
 El quórum legal para las sesiones ordinarias y extraordinarias de las Comisiones se dará con la asistencia de al menos la mitad más uno de sus integrantes y los acuerdos serán tomados por mayoría de votos de los presentes.
 
-Asistencia de la Coordinación Técnica
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+Asistencia del Coordinador Ejecutivo
 
 ###### Artículo 47.
 
-La dependencia o institución que funja como Coordinación Técnica de cada comisión en ningún caso podrá dejar de asistir a las sesiones ordinarias y extraordinarias.
+El Coordinador Ejecutivo de cada comisión en ningún caso podrá dejar de asistir a las sesiones ordinarias y extraordinarias.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
 
 Votación en las comisiones
 
 ###### Artículo 48.
 
-La votación será nominal y en caso de empate la Coordinación Técnica tendrá voto de calidad.
+La votación será nominal y en caso de empate el Coordinador Ejecutivo tendrá voto de calidad.
 
 Contenido de las convocatorias de las comisiones
 
@@ -499,7 +605,9 @@ III. Fecha, lugar y hora donde ha de celebrarse la sesión; y
 
 IV. La información y documentación relacionada con el orden del día, la cual deberá anexarse a la convocatoria.
 
-La Coordinación Técnica deberá notificar la convocatoria a los integrantes de las comisiones cuando menos diez días naturales antes de la fecha en que se celebrará, tratándose de sesiones ordinarias; y tres días naturales antes cuando se trate de sesiones extraordinarias.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2014)</small>
+
+La Coordinación Ejecutiva deberá notificar la convocatoria a los integrantes de las comisiones cuando menos diez días naturales antes de la fecha en que se celebrará, tratándose de sesiones ordinarias; y dos días naturales antes cuando se trate de sesiones extraordinarias.
 
 Segunda convocatoria a las sesiones de las comisiones
 
@@ -525,9 +633,11 @@ La lectura y en su caso la aprobación del acta de la sesión se verificará en 
 
 Contenido del acta de las sesiones de las comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 52.
 
-De las sesiones se levantará un acta, la cual contendrá al menos los siguientes aspectos:
+De las sesiones se levantará un acta por el Secretario Técnico, la cual contendrá al menos los siguientes aspectos:
 
 l. Lugar, fecha, hora de inicio y terminación de la sesión;
 
@@ -570,3 +680,19 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2014.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Elección de los representantes de los Organismos no Gubernamentales y del Sector Académico
+
+Artículo Segundo. Por esta única ocasión, la elección de los representantes provenientes de los Organismos no Gubernamentales y del Sector Académico se realizará de manera directa por el Gobernador del Estado en un plazo no mayor de treinta días.
+
+Entrega de recursos
+
+Artículo Tercero. Los recursos, documentos y actas que tenga la Comisión de Seguimiento para los Casos de Mujeres que viven violencia y casos de Feminicidio pasarán a formar parte de la Comisión de Seguimiento de Casos de Violencia Feminicida en el Estado.
