@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-aseo-urbano-del-municipio-de-cuernavaca-62121"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-23"
-last_updated: "2008-07-23"
+last_updated: "2014-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 REGLAMENTO DE ASEO URBANO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2008.
 
@@ -46,9 +46,13 @@ Por lo anteriormente expuesto y fundado, este Cuerpo Colegiado tiene a bien apro
 
 El objetivo del presente Reglamento es regular la prestación del servicio de limpia de conformidad con el artículo 115 de la Constitución Federal, artículo 114 Bis de la Constitución del Estado y la Ley General para la Prevención y Gestión Integral de Residuos, y demás ordenamientos que de ellas emanen. Sus disposiciones son de orden público y de observancia obligatoria para los habitantes del Municipio de Cuernavaca y de los que transitan por su territorio y tiene por objeto regular todas las acciones relacionadas con la recolección, el transporte, la transferencia, el tratamiento y la disposición final de los residuos sólidos del Municipio.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 2.
 
-La prestación del servicio de limpia, y la aplicación de este Reglamento compete a la Secretaría de Servicios Públicos y Medio Ambiente, a través de sus unidades administrativas correspondientes, en coordinación con otras dependencias y entidades municipales y estatales que en su caso requieran de apoyo extraordinario.
+La prestación del servicio de limpia y la aplicación del presente Reglamento corresponde a la Secretaría de Infraestructura Urbana, Obras y Servicios Públicos, a través de las Unidades Administrativas correspondientes, en coordinación con otras Dependencias Municipales y las Estatales que en su caso requieran de apoyo extraordinario.
+
+Las Dependencias Municipales con las que se coordinará la Secretaría de Infraestructura Urbana, Obras y Servicios Públicos, para la aplicación del presente Reglamento, se señalarán específicamente; así como, las atribuciones que a éstas se les otorgue.
 
 ###### Artículo 3.
 
@@ -66,7 +70,7 @@ V.- Transporte de los residuos sólidos a las estaciones de transferencia, trata
 
 VI.- Disposición final;
 
-VII.- La organización y promoción en el ámbito municipal, de actividades de comunicación, educación, capacitación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de residuos, fomentando la participación de las diferentes dependencias y entidades municipales y estatales, asociaciones y sociedades civiles;
+VII.- (DEROGADA, P.O. 6 DE AGOSTO DE 2014)
 
 VIII.- Coadyuvar en la formulación, conducción y evaluación de la política de residuos sólidos en el ámbito municipal, e
 
@@ -108,7 +112,9 @@ XV.- Residuos sólidos de mano: todos aquellos no contemplados en las fracciones
 
 XVI.- Residuo peligroso: Todo aquel residuo en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representen un peligro para la salud humana, el equilibrio ecológico o el ambiente;
 
-XVII.- Secretaría: La Secretaría de Servicios Públicos y Medio Ambiente;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2014)</small>
+
+XVII.- Secretaría: la Secretaría de Infraestructura Urbana, Obras y Servicios Públicos;
 
 XVIII.- Servicio especial de recolección: Es la acción de recolectar residuos sólidos provenientes de grandes generadores, cuyo peso exceda de diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
@@ -130,9 +136,11 @@ El sistema de limpia se encuentra a cargo de la Secretaría a través de sus uni
 
 La Secretaría para la ejecución y cumplimiento de las labores del servicio de limpia, coordinará la colaboración de los particulares del Municipio y de las organizaciones de colonos, asociaciones de comerciantes e industriales o representativos de cualquier sector organizado de la población, pudiendo crear de entre estos la figura de Inspector Honorario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 7.
 
-Quien se desempeñe con el cargo de Inspector Honorario, deberá contar con carta credencial expedida por el Titular de la Secretaría y será nombrado a propuesta del Subsecretario del ramo y previa aprobación de tal designación por el sector social al que habrá de representar; dicho Inspector Honorario tendrá a su cargo las atribuciones que le confiere el artículo 8 de este Reglamento.
+Quien se desempeñe con el cargo de Inspector Honorario, deberá contar con carta credencial expedida por el Titular de la Secretaría y será nombrado a propuesta del Director General del ramo y previa aprobación de tal designación por el sector social al que habrá de representar; dicho Inspector Honorario tendrá a su cargo las atribuciones que le confiere el artículo 8 de éste Reglamento;
 
 El Titular de la Secretaría tendrá en todo momento, la facultad de revocar la acreditación de Inspector Honorario, previa la aprobación de cuando menos la mitad más uno de los integrantes del sector social organizado que representa, en el caso de que dicho sector sea un organismo constituido y determinado.
 
@@ -144,7 +152,9 @@ Corresponde a los Inspectores Honorarios:
 
 I.- Informar a la Secretaría, sobre la existencia de sitios no autorizados en los que se depositan residuos sólidos, debiendo tomarse las medidas pertinentes para su recolección, ya sea instalando nuevos depósitos, ampliando los existentes, colocando contenedores, modificando las fechas y horarios de recolección u orientando a la población sobre la ubicación de los sitios de depósitos autorizados;
 
-II.- Comunicar a la Secretaría, los nombres o la manera de identificar a las personas que en forma reiterada depositen residuos sólidos en sitios no autorizados, a fin de que ésta, en el ámbito de sus atribuciones y competencia, lleve a cabo la inspección correspondiente y el desahogo del procedimiento administrativo respectivo;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2014)</small>
+
+II.- Comunicar a la Secretaría de Desarrollo Sustentable del Ayuntamiento de Cuernavaca, los nombres o la manera de identificar a las personas que en forma reiterada depositen residuos sólidos en sitios no autorizados, a fin de que ésta, en el ámbito de sus atribuciones y competencia, lleve a cabo la inspección correspondiente y el desahogo del procedimiento administrativo respectivo.
 
 III.- Informar a la Secretaría de cualquier violación a este Reglamento, de las que él tenga conocimiento para que se tomen las medidas que correspondan, y IV.- Llevar bitácora de control de los días y horas en que el servicio de recolección es prestado en su colonia.
 
@@ -164,7 +174,7 @@ III.- Supervisar directa y periódicamente los programas y actividades de las á
 
 IV.- Establecer las acciones de saneamiento, incluyendo las medidas preventivas sobre la materia, a efecto de lograr el aseo de las áreas públicas del Municipio;
 
-V.- Vigilar la correcta operación de la contratación del servicio especial de recolección de residuos sólidos no peligrosos provenientes de establecimientos fabriles, industriales, comerciales, mercados, tianguis, establos, hospitales, o bien de cualquiera otro giro inminentemente comercial y/o industriales;
+V.- (DEROGADA, P.O. 6 DE AGOSTO DE 2014)
 
 VI.- Recibir del sector comercial sus residuos sólidos en los camiones de recolección del servicio de limpia municipal siempre que la generación de que no rebase los 27.39 kilogramos diarios, y previa separación y reducción de los residuos;
 
@@ -187,6 +197,20 @@ XIV.- Llevar bitácoras de mantenimiento vehicular de las unidades adscritas a l
 XV.- Solicitar al área técnica competente, los estudios y proyectos que se requieran para el mejoramiento continuo de la operatividad de la Secretaría, y
 
 XVI.- Las demás que les confieren otras disposiciones jurídicas en la materia o le delegue su jefe inmediato.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2014)</small>
+
+Artículo 10 bis.- Para efectos del presente Reglamento, la Secretaría de Desarrollo Sustentable del Ayuntamiento de Cuernavaca, tendrá las siguientes atribuciones:
+
+I.- La organización y promoción en el ámbito municipal, de actividades de comunicación, educación, capacitación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de residuos, fomentando la participación de las diferentes Dependencias y Entidades Municipales y Estatales, Asociaciones y Sociedades Civiles;
+
+II.- Llevar a cabo la inspección y el desahogo del procedimiento administrativo correspondiente, en el caso de infracciones al presente Reglamento y la aplicación de las sanciones que procedan;
+
+III.- Vigilar la correcta operación de la contratación del servicio especial de recolección de residuos sólidos no peligrosos provenientes de establecimientos fabriles, industriales, comerciales, mercados, tianguis, establos, hospitales, o bien, de cualquiera otro giro inminentemente comercial y/o industriales;
+
+IV.- Coadyuvar con la Secretaría, con la Tesorería Municipal y demás Dependencias Municipales, en los casos en que éste ordenamiento y otros de la materia, así se lo señalen, y
+
+V.- Las demás que le señale el Cabildo o el Presidente Municipal.
 
 ### CAPÍTULO III. DE LA PRESTACIÓN DEL SERVICIO DE LIMPIA
 
@@ -268,7 +292,9 @@ De acuerdo a la naturaleza de los residuos sólidos generados, la recolección e
 
 I.- A los no peligrosos considerando su fuente generadora, la Secretaría, la Dirección de Parques y Jardines y la Dirección de Servicios Urbanos, y
 
-II.- A los peligrosos, los generadores o empresas especializadas prestadoras de servicio, autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2014)</small>
+
+II.- A los peligrosos, los generadores o empresas especializadas prestadoras de servicio, autorizadas por la autoridad competente.
 
 ###### Artículo 18.
 
@@ -292,9 +318,11 @@ El servicio especial de recolección de muebles domésticos de desecho a domicil
 
 El servicio de recolección especial de residuos sólidos no peligrosos dispuestos en terrenos baldíos de propiedad privada, se ejecutará a solicitud expresa del interesado y previo pago de derechos establecido por la Tesorería Municipal, de acuerdo a la Ley de Ingresos en vigor.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 22.
 
-Los habitantes del municipio están obligados a entregar sus residuos sólidos a los servicios de recolección encargados de su disposición final, o bien trasladarlos por cuenta propia a los lugares y sitios designados para la recolección y almacenamiento temporal previamente determinados, debiendo entregarlos clasificados en orgánicos e inorgánicos. La violación a esta disposición se sanciona conforme al presente Reglamento.
+Los habitantes del Municipio están obligados a entregar sus residuos sólidos a los servicios de recolección encargados de su disposición final, o bien trasladarlos por cuenta propia a los lugares y sitios designados para la recolección y almacenamiento temporal previamente determinados, debiendo entregarlos clasificados en orgánicos e inorgánicos. La violación a esta disposición se sancionará conforme al presente Reglamento y a las demás disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -570,7 +598,9 @@ a).- Campañas de concientización.
 
 b).- Acciones para resolución del problema ocasionado por el mal manejo de los residuos sólidos.
 
-VII.- Informar a la Secretaría de Servicios Públicos y Medio Ambiente, cuando en vía pública y en los ríos se encuentren animales y/o objetos tirados que obstruyan la libre circulación de las aguas, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2014)</small>
+
+VII.- Informar a la Secretaría cuando en vía pública y en los ríos se encuentren animales y/o objetos tirados que obstruyan la libre circulación de las aguas, y
 
 VIII.- En todos los casos, los habitantes y generadores de residuos sólidos urbanos están obligados a adoptar la política de separación primaria de residuos en orgánicos e inorgánicos.
 
@@ -758,9 +788,11 @@ La Secretaría en coordinación con el Gobierno del Estado, en términos de lo d
 
 ### CAPÍTULO XIV. DE LAS SANCIONES
 
-###### Artículo 88.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2014)</small>
 
-Las infracciones o faltas a las normas contenidas en el presente Reglamento serán sancionadas con:
+###### ARTÍCULO 88.
+
+Las infracciones o faltas a las normas contenidas en el presente Reglamento, serán sancionadas por la Secretaría de Desarrollo Sustentable, previo procedimiento administrativo, de la siguiente manera:
 
 I.- La amonestación con apercibimiento;
 
@@ -800,17 +832,21 @@ H).- Los trabajos a favor de la comunidad podrán ser:
 
 5).-Cualquiera otra labor de limpieza a ejecutar en el mobiliario urbano.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 89.
 
-En caso de que el infractor sea sorprendido en flagrancia, la Secretaría, a través de los auxiliares mencionados en el artículo 85 del presente Reglamento, quedan autorizados para detener y presentar ante el Juez Cívico del Municipio al infractor, a quien en su caso le serán asegurados los instrumentos que hayan utilizado como medio para cometer la infracción, como herramientas, vehículos, etc., mismos que serán custodiados por la autoridad ejecutora, como garantía de pago de la infracción y de reparación del daño correspondiente.
+En caso de que el infractor sea sorprendido en flagrancia, la Secretaría, a través de los auxiliares mencionados en las fracciones I y II del artículo 85 del presente Reglamento, quedan autorizados para detener y presentar ante el Juez Cívico del Municipio al infractor, a quien en su caso le serán asegurados los instrumentos que hayan utilizado como medio para cometer la infracción, como herramientas, vehículos, etc., mismos que serán custodiados por la autoridad ejecutora, como garantía de pago de la infracción y de reparación del daño correspondiente.
 
 ###### Artículo 90.
 
 Se establece la responsabilidad objetiva, independiente de toda falta, de los generadores de residuos y operadores de instalaciones, por los daños y perjuicios que ocasione a los recursos naturales, a los ecosistemas y a la salud y calidad de vida de la población.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 91.
 
-Cuando el infractor se niegue reiteradamente a la reparación del daño, la Secretaría, procederá a hacerlo a costa de éste y en caso de que se niegue a cubrir el monto de la reparación, se turnará a la Tesorería Municipal a fin de que se de inicio al procedimiento administrativo de ejecución forzosa sobre los bienes asegurados. El personal administrativo de la Secretaría de Servicios Públicos y Medio Ambiente, coadyuvará con la Tesorería Municipal en todo lo que ésta requiera.
+Cuando el infractor se niegue reiteradamente a la reparación del daño, se turnará el expediente a la Tesorería Municipal a fin de que se dé inicio al procedimiento administrativo de ejecución forzosa sobre los bienes asegurados, de conformidad con lo dispuesto en el Código Fiscal para el Estado de Morelos. El personal administrativo de la Secretaría de Desarrollo sustentable, coadyuvará con la Tesorería en todo lo que ésta le requiera para dar cumplimiento a lo dispuesto en el presente artículo.
 
 ###### Artículo 92.
 
@@ -955,3 +991,11 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”; órgano de difusión oficial que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese el presente Acuerdo en la Gaceta Municipal.
