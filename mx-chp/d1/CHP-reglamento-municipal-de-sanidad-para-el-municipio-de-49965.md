@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-municipal-de-sanidad-para-el-municipio-de-49965"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-01"
-last_updated: "2006-03-01"
+last_updated: "2014-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO MUNICIPAL DE SANIDAD PARA EL MUNICIPIO DE TAPACHULA, CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE SANIDAD PARA EL MUNICIPIO DE TAPACHULA, CHIAPAS, PUBLICADO EN EL P.O. DE 6 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 1 de marzo de 2006.
 
@@ -900,3 +902,13 @@ Certificación.- El Servidor Público que suscribe, con fundamento en el artícu
 Tapachula, Chiapas; a 17 de febrero de 2006.
 
 Doy Fe.- Lic. Javier Antonio Morales Avalos, Secretario del Ayuntamiento.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2014.
+
+Primero.- Este Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Chiapas, asi mismo deberá publicarse en la Gaceta Municipal y cinco lugares de mayor afluencia vecinal.
+
+Segundo.- Se abroga cualquier Reglamento que en esta materia sean anteriores al presente y se derogan las disposiciones en los que se opongan a los preceptos establecidos en este Reglamento.
+
+Tercero.- Los aspectos no previstos por este Reglamento se resolverán en sesión de cabildo y con apego a la Ley Orgánica Municipal del Estado y la Ley de Salud del Estado.
