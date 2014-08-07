@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2013-12-26"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -317,7 +317,9 @@ VI. Efectuar los trámites necesarios para el pago de viáticos para el personal
 
 VII. Coordinar y controlar el uso de los bienes muebles y arrendamientos de inmuebles ocupados por oficinas registrales así como material y equipo asignados a las oficinas;
 
-VIII. Establecer en coordinación con la Secretaría de Administración y la Dirección General el Programa anual de capacitación y desarrollo de personal; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+VIII. Establecer en coordinación con la Secretaría de Planeación, Administración y Finanzas y la Dirección General el Programa anual de capacitación y desarrollo de personal; y
 
 IX. Las demás funciones asignadas por el Director General.
 
@@ -795,9 +797,11 @@ El registrador deberá autorizar un libro o medio especial de registro de testam
 
 De la misma forma el Registro llevará mediante índices el control de los inmuebles sujetos a la disposición que señala el artículo 1893 del Código.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-Artículo 55 bis.- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Procuraduría General de Justicia del Estado acerca de dicha circunstancia.
+Artículo 55 bis.- Dentro de los cinco días siguientes al depósito o retiro de los testamentos ológrafos en el Registro Público de la Propiedad, el encargado dará aviso por escrito al Archivo de Instrumentos y a la Fiscalía General del Estado acerca de dicha circunstancia.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
 
 Igualmente el Encargado del Registro Público de la Propiedad dentro del plazo señalado en el párrafo que antecede, remitirá vía fax o electrónica el aviso de todo testamento ológrafo que reciba a la base de datos del Registro Nacional de Avisos de Testamento, conforme a los convenios que se celebren para tal efecto, en el que se expresarán en caso de tenerlos, los datos siguientes:
 
@@ -1526,3 +1530,7 @@ OCTAVO. Cuando otros ordenamientos legales del Estado de Jalisco se refieran a l
 NOVENO. La vigencia de los certificados electrónicos a que se refiere el artículo 13 fracción VI, será de dos años hasta en tanto se cuente con las condiciones humanas, financieras y tecnológicas para que su vigencia pueda ser de cuatro años. Cuando se cuente con tales condiciones, el titular del Poder Ejecutivo deberá expedir un acuerdo que se publicará en el Periódico Oficial "El Estado de Jalisco".
 
 DÉCIMO. Los certificados electrónicos, así como los actos realizados con ellos, en los términos de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, continuarán surtiendo sus efectos legales.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
