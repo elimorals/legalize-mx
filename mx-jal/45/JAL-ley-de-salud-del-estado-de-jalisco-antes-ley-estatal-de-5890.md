@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2014-01-04"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -69,7 +69,7 @@ IV. La extensión de actitudes solidarias y responsables de la población, en la
 
 V. El acceso a los servicios de salud que satisfagan eficaz y oportunamente, las necesidades de la población;
 
-VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y (sic)
+VI. El conocimiento de los servicios de salud para su adecuado aprovechamiento y uso; y
 
 VII. El desarrollo de la enseñanza, la investigación científica y tecnológica para la salud;
 
@@ -189,11 +189,17 @@ Los giros y establecimientos no enunciados en las fracciones anteriores, quedan 
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
 
-II. La Secretaría de Salud Jalisco y el organismo público descentralizado Servicios de Salud Jalisco, y
+II. La Secretaría de Salud Jalisco y la Comisión para la Protección contra Riesgos Sanitarios del Estado de Jalisco;
 
-III. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+III. El Organismo público descentralizado Servicios de Salud Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2014)</small>
+
+IV. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -262,6 +268,52 @@ IV. Salud ambiental; y
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 V. Emergencias derivadas de efectos nocivos de sustancias tóxicas.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Art. 5 Bis.
+
+La Comisión para la Protección contra Riesgos Sanitarios ejercerá las siguientes atribuciones de control y fomento sanitarios:
+
+I. Las de salubridad general, previstas en la Ley General de Salud, sus reglamentos, normas y acuerdos de coordinación a que se refiere el artículo 18 de la Ley General de Salud;
+
+II. Las de salubridad local, contenidas en la Ley de Salud del Estado de Jalisco y sus reglamentos; y
+
+III. Las demás que se deriven de leyes, decretos y normas en materia de salud.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Art. 5 Ter.
+
+Para el cumplimiento de su objeto, la Comisión para la Protección contra Riesgos Sanitarios tendrá las siguientes facultades:
+
+I. Ejercer el control y vigilancia sanitarios de los establecimientos, actividades y productos enunciados en la Ley de Salud del Estado de Jalisco; y los de salubridad general que se prevean en la Ley General de Salud;
+
+II. Proponer al Secretario de Salud en el Estado la política estatal de protección contra riesgos sanitarios así como su instrumentación en la Entidad Federativa;
+
+III. Participar en la elaboración de proyectos de leyes, reglamentos, acuerdos gubernamentales y normas de carácter estatal que correspondan al ámbito de su competencia;
+
+IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitarios se establecen o deriven (sic) la Ley General de Salud, la Ley General para el Control del Tabaco, la Ley de Salud del Estado de Jalisco, sus reglamentos, las normas oficiales mexicanas y los demás ordenamientos aplicables;
+
+V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia, cuando hubiere sido descentralizado por la Federación al Estado;
+
+VI. Contribuir a la identificación, análisis y evaluación de riesgos a la salud humana, que se realice por la Secretaría de Salud en el Estado;
+
+VII. Ejercer, en el ámbito de su competencia, el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios sujetos a la Ley General de Salud, sus reglamentos y normas;
+
+VIII. Ejercer las atribuciones que hayan sido materia de acuerdo de coordinación de los previstos en el artículo 18 de la Ley General de Salud;
+
+IX. Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
+
+X. Ejercer las atribuciones que el presente Decreto, la Ley de Salud del Estado de Jalisco, la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud Jalisco, en materia de salud ocupacional, residuos peligrosos, saneamiento básico, accidentes y emergencias que involucren sustancias tóxicas, peligrosas o radiaciones;
+
+XI. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud Jalisco, en la instrumentación de las acciones de prevención y control de enfermedades, exclusivamente cuando éstas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia;
+
+XII. Establecer y operar los mecanismos de supervisión, dirección, coordinación y comunicación con las coordinaciones regionales de protección contra riesgos sanitarios;
+
+XIII. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros correspondientes a su presupuesto, en términos de la legislación aplicable, dirigiendo el proceso de sus adquisiciones y celebrando los actos y contratos necesarios a su objeto, y
+
+XIV. Las demás facultades que le confieran las leyes.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -449,7 +501,7 @@ V. Comisión de Arbitraje Médico del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2004)</small>
 
-Art. 18 ter.- Los profesionales, técnicos, auxiliares y prestadores de servicio social que forman parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia y excusarse de participar en todos aquellos programas, actividades, prácticas, tratamientos, métodos o investigaciones que contravengan su libertad de conciencia con base en sus valores, principios éticos o creencias religiosas.
+Art. 18 ter. Los profesionales, técnicos, auxiliares y prestadores de servicio social que forman parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia y excusarse de participar en todos aquellos programas, actividades, prácticas, tratamientos, métodos o investigaciones que contravengan su libertad de conciencia con base en sus valores, principios éticos o creencias religiosas.
 
 Cuando la negativa del objetor de conciencia implique poner en riesgo la salud o vida del paciente, sin que éste pueda ser derivado a otros integrantes del sistema de salud que lo atiendan debidamente, el objetor no podrá hacer valer su derecho y deberá aplicar las medidas médicas necesarias; en caso de no hacerlo, incurrirá en causal de responsabilidad profesional.
 
@@ -647,15 +699,13 @@ La Secretaría de Salud Jalisco, en coordinación con las autoridades federales 
 
 #### SECCION QUINTA. De la salud ocupacional
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-Art 36. La Secretaría de Salud Jalisco y el organismo público descentralizado Servicios de Salud Jalisco, ejercerán el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Art. 36.
 
-La Secretaría de Salud Jalisco ejercerá el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud Jalisco y la Comisión para la Protección contra Riesgos Sanitarios ejercerán el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+
+La Comisión para la Protección contra Riesgos Sanitarios, como órgano administrativo desconcentrado de la Secretaría de Salud Jalisco, tendrá a su cargo las atribuciones de regulación, control y fomento sanitario previstas en la presente Ley, leyes, reglamentos, acuerdos de coordinación y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -719,7 +769,7 @@ Las autoridades sanitarias estatales, en coordinación con las autoridades sanit
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
 
-Art. 39 bis.- Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia adquirida (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud Jalisco.
+Art. 39 bis. Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia adquirida (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud Jalisco.
 
 Para el apoyo directo a los municipios por parte del Estado, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COESIDA), se constituirán los Comités Municipales para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COMUSIDA), a quienes el propio Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida podrá, cuando así lo disponga su presupuesto anual, otorgar mediante los documentos jurídicos aplicables, bienes muebles para la realización de las tareas propias del programa en los municipios.
 
@@ -735,7 +785,7 @@ I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamen
 
 II. Inmediatamente, en los casos de cualquiera enfermedad que se presente en forma de brote o epidemia, intoxicaciones colectivas de cualquier etiología, epizootias, desastres y otras emergencias que afecten o sean riesgo para la salud;
 
-III. Dentro de las veinticuatro horas, en los casos de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos, y (sic)
+III. Dentro de las veinticuatro horas, en los casos de enfermedades objeto de vigilancia internacional; poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos de encefalitis equina venezolana en humanos, y
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1953,9 +2003,9 @@ I. El Gobernador del Estado, quien será el Presidente Honorario;
 
 II. El Secretario de Salud del Estado, quien fungirá como Presidente Ejecutivo;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
 
-III. El Director General de Regulación Sanitaria del Organismo Público Descentralizado Servicios de Salud Jalisco, quien fungirá como Coordinador General; y
+III. El Comisionado para la Protección contra Riesgos Sanitarios de Jalisco, quien fungirá como Coordinador General; y
 
 IV. Los siguientes participantes en calidad de vocales quienes también tendrán derecho a voz y voto:
 
@@ -2711,11 +2761,17 @@ Para los efectos del artículo anterior, se tomará en cuenta la distancia de ce
 
 Corresponde la regulación y el control sanitario de las materias a que se refiere el artículo 3, apartado B de esta Ley, al Gobierno del Estado y a los ayuntamientos, en el ámbito de sus respectivas competencias en los términos de este ordenamiento, de las disposiciones aplicables y de los convenios legales que dichos niveles de gobierno llegaran a suscribir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Art. 134 Bis.
+
+Para los efectos de este Título, se entiende por control sanitario el conjunto de acciones de: orientación, educación, autorización, muestreo y, en su caso, aplicación de medidas de seguridad y sanciones, las cuales son ejercidas por la Secretaría de Salud Jalisco, la Comisión para la Protección contra Riesgos Sanitarios del Estado de Jalisco y los ayuntamientos en el ámbito de sus respectivas competencias, con la participación de los productores, comercializadores, prestadores de servicio y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la norma jurídica aplicable.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Art. 134 bis.- Para los efectos de este Título, se entiende por "control sanitario", el conjunto de acciones de orientación educación, autorización, muestreo y, en su caso, aplicación de medidas de seguridad y sanciones que ejerce la Secretaría de Salud Jalisco y los ayuntamientos en el ámbito de sus respectivas competencias, con la participación de los productores, comercializadores, prestadores de servicio y consumidores, en base a los acuerdos de coordinación celebrados con la Federación y a lo establecido en la norma jurídica aplicable.
-
 El ejercicio del control sanitario se aplicará a todos los bienes, servicios, actividades, establecimientos y procesos que sean competencia de la autoridad sanitaria municipal o estatal, conforme a lo que dispone este ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 El muestreo que se realice deberá cumplir con los requisitos que al efecto establece la Ley General de Salud y sus reglamentos respectivos, así como las normas oficiales mexicanas aplicables, a fin de garantizar la seguridad jurídica de los particulares.
 
@@ -2730,6 +2786,10 @@ La "regulación sanitaria" comprende la autorización, vigilancia, aplicación d
 ###### Art. 136.
 
 La Secretaría de Salud Jalisco emitirá los ordenamientos, criterios y lineamientos de carácter técnico para establecer normas oficiales a las que quedarán sujetos tanto el control sanitario como la regulación sanitaria en materia de salubridad local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2014)</small>
+
+La vigilancia del cumplimiento de los ordenamientos, criterios y lineamientos dictados por la Secretaría de Salud Jalisco quedará a cargo de la Comisión para la Protección contra Riesgos Sanitarios.
 
 > <small>(DEROGADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -2877,7 +2937,7 @@ Para los efectos de esta ley, se considera:
 
 I. Cementerio: El lugar destinado a la inhumación de cadáveres o restos humanos;
 
-II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o restos humanos; y (sic)
+II. Crematorio: Las instalaciones destinadas a la incineración de cadáveres o restos humanos; y
 
 III. Funeraria: Establecimiento al que acuden los deudos, a rendir honores póstumos a un ser que ha perdido la vida.
 
@@ -3237,11 +3297,11 @@ Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo acti
 
 Las autorizaciones sanitarias podrán revalidarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Art. 205.
 
-La Secretaría de Salud Jalisco recibirá aviso de funcionamiento para la operación de establecimientos que así lo requieran.
+La Comisión para la Protección contra Riesgos Sanitarios recibirá aviso de funcionamiento para la operación de establecimientos que así lo requieran.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -4168,3 +4228,11 @@ SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por
 TERCERO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el Presupuesto de Egresos para el ejercicio anual vigente, instrumentará las acciones establecidas en la presente Ley.
 
 CUARTO. El Reglamento de esta Ley deberá contemplar lo referente a los recursos humanos para la atención en salud mental; De la evaluación y el Diagnóstico, Del Internamiento y funcionamiento de los centros de rehabilitación.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día al día (sic) siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Salud deberá someter a consideración del titular del Poder Ejecutivo del Estado, dentro de los noventa días posteriores a la entrada en vigor de este Decreto, los proyectos de adecuaciones a los reglamentos que corresponda para el debido cumplimiento del presente.
+
+TERCERO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que lleve a cabo las adecuaciones presupuestales y administrativas necesarias para el funcionamiento de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Jalisco.
