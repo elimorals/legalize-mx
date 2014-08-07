@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-la-industria-jalisciense-de-rehabilitacion-14012"
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-07"
-last_updated: "2007-01-25"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACION SOCIAL
 
-LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACION SOCIAL
+LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 7 de mayo de 1981.
 
@@ -227,15 +227,23 @@ El Consejo de Administración será el órgano supremo de la Industria Jaliscien
 
 a) El Gobernador Constitucional del Estado quien fungirá como Presidente del Consejo;
 
-b) El Secretario de Seguridad Pública, Prevención y Readaptación Social del Estado;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-c) El Secretario de Administración del Estado;
+b) El Fiscal General del Estado;
 
-d) El Secretario de Finanzas del Estado;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-e) El Secretario de Promoción Económica;
+c) El Secretario de Planeación, Administración y Finanzas;
 
-f) El Director General de Prevención y Readaptación Social.
+d) (DEROGADO, P.O. 7 DE AGOSTO DE 2014)
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+e) El Secretario de Desarrollo Económico; y
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+f) El Fiscal de Reinserción Social de la Fiscalía General del Estado.
 
 > <small>(F. DE E., P.O. 24 DE FEBRERO DE 2004)</small>
 
@@ -451,25 +459,39 @@ Artículo 31 ter. El Consejo Consultivo para la Industria Jalisciense de Rehabil
 
 a) Un presidente que será el titular del Poder Ejecutivo del Estado;
 
-b) El Secretario de Seguridad Pública, Prevención y Readaptación Social del Estado;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-c) El Secretario de Administración del Estado;
+b) El Fiscal General del Estado;
 
-d) El Secretario de Finanzas del Estado;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-e) El Secretario de Promoción Económica;
+c) El Secretario de Planeación, Administración y Finanzas;
+
+d) (DEROGADO, P.O. 7 DE AGOSTO DE 2014)
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+e) El Secretario de Desarrollo Económico;
 
 > <small>(F. DE E., P.O. 24 DE FEBRERO DE 2004)</small>
 
 f) El Secretario del Trabajo y Previsión Social;
 
-g) El Secretario de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
-h) El Director General de Prevención y Readaptación Social;
+g) El Secretario de Desarrollo e Integración Social;
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+h) El Fiscal de Reinserción Social de la Fiscalía General del Estado;
 
 i) Los directores de cada una de las instituciones penitenciarias en donde esté operando la Industria Jalisciense de Rehabilitación Social;
 
-j) Dos representantes del Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+j) Dos representantes del Consejo Ciudadano de Seguridad Pública,
+
+Prevención y Reinserción Social;
 
 k) Dos representantes de las cámaras de industriales de la entidad, y
 
@@ -528,3 +550,7 @@ P.O. 13 DE ENERO DE 2007.
 P.O. 25 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
