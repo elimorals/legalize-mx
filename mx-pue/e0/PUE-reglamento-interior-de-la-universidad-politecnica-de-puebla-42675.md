@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-politecnica-de-puebla-426
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-15"
-last_updated: "2010-10-27"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PUEBLA
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE PUEBLA, PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de diciembre de 2004.
 
@@ -191,7 +193,7 @@ XIV. Participar en los órganos colegiados o comisiones, así como en las activi
 
 XV. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VII. DE LA SECRETARÍA ACADÉMICA
 
@@ -235,7 +237,7 @@ XII. Elaborar y proponer al Rector en coordinación con la Secretaría Administr
 
 XIII. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VIII. DE LA SECRETARÍA ADMINISTRATIVA
 
@@ -313,7 +315,7 @@ IX. Proponer la remoción o rescisión del personal del área a su cargo, y
 
 X. Las demás atribuciones que le encomiende o le delegue el Rector o su superior jerárquico, así como, las demás que expresamente le confiera la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO X. DE LAS DIRECCIONES DE PROGRAMAS ACADÉMICOS
 
@@ -355,7 +357,7 @@ XII. Dirigir y evaluar las actividades del área de su competencia; y
 
 XIII. Las demás atribuciones que le encomiende su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN ADMINISTRATIVA
 
@@ -421,7 +423,7 @@ SEGUNDO.- Los acuerdos, circulares y demás disposiciones pronunciadas antes y d
 
 Dado en las instalaciones de la Universidad Politécnica de Puebla, a los treinta días del mes de noviembre del año dos mil cuatro.- Presidente Ejecutivo.- LICENCIADO CARLOS ALBERTO JULIÁN Y NACER.- Rúbrica.- Vocales: LICENCIADO ALFONSO VICENTE DÍAZ.- Rúbrica.- ARQUITECTO SUYLANWONG PÉREZ.- Rúbrica.- INGENIERO GUILLERMO GÓMEZ THEUREL.- Rúbrica.- LICENCIADA MARÍA DEL CARMEN VERA DELGADO.- Rúbrica.- INGENIERO JORGE ZARATE MONTAÑO.- Rúbrica.- INGENIERO FRANCISCO BARRERA HIDALGO.- Rúbrica.- LICENCIADO JORGE RENÉ SÁNCHEZ JUÁREZ.- Rúbrica.- Comisario Público.- LICENCIADO RAMÓN LÓPEZ RUBÍ.- Rúbrica.- Secretario Técnico.- DOCTOR MIGUEL ÁNGEL SORIANO JIMÉNEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE MAYO DE 2007.
 
@@ -434,3 +436,11 @@ P.O. 30 DE SEPTIEMBRE DE 2009.
 P.O. 27 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Universidad Politécnica de Puebla, publicado el quince de diciembre de dos mil cuatro en el Periódico Oficial del Estado.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
