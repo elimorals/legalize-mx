@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2012-09-01"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -91,9 +91,13 @@ XII. Sala: Órgano del Supremo Tribunal de Justicia del Estado, especializado, q
 
 XIII. Sistema: Sistema Estatal Integral de Justicia para Adolescentes del Estado de Jalisco;
 
-XIV. Subdirección General: Órgano Administrativo responsable de la Ejecución de Medidas de Prevención Especial y Adaptación Social, dependiente de la Secretaría de Seguridad Publica Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
 
-XV. Programa: Programa Personalizado de Aplicación de Medidas ha (sic) que se refiere el título cuarto de esta ley.
+XIV. Subdirección General: Órgano Administrativo responsable de la Ejecución de Medidas de Prevención Especial y Adaptación Social, dependiente de la Fiscalía General del Estado; y
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+XV. Programa: Programa Personalizado de Aplicación de Medidas a que se refiere el título cuarto de esta ley.
 
 ###### Artículo 4.
 
@@ -301,11 +305,11 @@ VI. Dirección del Centro de Observación, Clasificación y Diagnóstico; y
 
 VII. Dirección del Centro de Atención Integral Juvenil.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 16.
 
-Los Agentes del Ministerio Público, se encuentran adscritos a la Procuraduría General de Justicia del Estado de Jalisco. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos y regulados por lo establecido en la Ley Orgánica de la Procuraduría General de Justicia del Estado.
+Los Agentes del Ministerio Público, se encuentran adscritos a la Fiscalía General del Estado de Jalisco. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos y regulados por lo establecido en la Ley Orgánica de la Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
@@ -321,11 +325,11 @@ En relación con la Sala especializada, corresponderá la designación de los Ma
 
 Los defensores de oficio para adolescentes, se encuentran adscritos a la Procuraduría Social. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del nombramiento, serán definidos por la Procuraduría Social del Estado. Sus atribuciones y funciones serán reguladas, según corresponda, en la Ley Orgánica de la Procuraduría Social del Estado.
 
-> <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 19.
 
-La Subdirección General de Ejecución de Medidas de Prevención Especial y Adaptación Social y los Directores de los Centros Estatales de Diagnóstico y Atención para Adolescentes, se encuentran adscritos a la Secretaría de Seguridad Pública y Readaptación Social. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación, serán definidos por la Secretaría de Seguridad Pública, Prevención y Readaptación Social del Estado conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley y su reglamento correspondiente.
+La Subdirección General de Ejecución de Medidas de Prevención Especial y Adaptación Social y los Directores de los Centros Estatales de Diagnóstico y Atención para Adolescentes, se encuentran adscritos a la Fiscalía General del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación, serán definidos por la Fiscalía General del Estado conforme a la legislación aplicable. Sus funciones y atribuciones serán reguladas por esta Ley y su reglamento correspondiente.
 
 ### CAPÍTULO II. De la Actuación de la Policía Investigadora y Preventiva
 
@@ -481,7 +485,7 @@ VII. Homicidio, tipificado en los artículos 48 penúltimo párrafo, 213, 217 y 
 
 VIII. Parricidio tipificado en el artículo 223 del Código Penal del Estado de Jalisco;
 
-IX. Robo, en los casos tipificados en los artículos 234, Fracciones III, IV, V, VI y VII, 235, fracción III, 236 bis, apartado a), fracciones II y III, apartado b) en su totalidad, apartados c) y d) en su totalidad, del Código Penal del Estado de Jalisco; y (sic)
+IX. Robo, en los casos tipificados en los artículos 234, Fracciones III, IV, V, VI y VII, 235, fracción III, 236 bis, apartado a), fracciones II y III, apartado b) en su totalidad, apartados c) y d) en su totalidad, del Código Penal del Estado de Jalisco; y
 
 > <small>(F. DE E., P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -499,7 +503,7 @@ XII. Robo de infante, previsto en el artículo 179 párrafo cuarto del Código P
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
 
-XIII. Tráfico de menores, tipificado en el artículo 179 bis párrafos primero y quinto del Código Penal en el Estado de Jalisco; y (sic)
+XIII. Tráfico de menores, tipificado en el artículo 179 bis párrafos primero y quinto del Código Penal en el Estado de Jalisco; y
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
 
@@ -1580,3 +1584,7 @@ QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, pr
 SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
