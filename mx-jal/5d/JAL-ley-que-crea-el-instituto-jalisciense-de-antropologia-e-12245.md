@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-jalisciense-de-antropologia-e-12245"
 country: "mx"
 rank: "ley"
 publication_date: "1959-01-08"
-last_updated: "1992-09-03"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY QUE CREA EL INSTITUTO JALISCIENSE DE ANTROPOLOGIA E HISTORIA CON EL CARACTER DE INSTITUCION DESCENTRALIZADA
 
-LEY QUE CREA EL INSTITUTO JALISCIENSE DE ANTROPOLOGIA E HISTORIA CON EL CARACTER DE INSTITUCION DESCENTRALIZADA
+LEY QUE CREA EL INSTITUTO JALISCIENSE DE ANTROPOLOGÍA E HISTORIA CON EL CARÁCTER DE INSTITUCIÓN DESCENTRALIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 24944/LX/14, PUBLICADO EN EL P.O. EL 7 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 8 de Enero de 1959.
 
@@ -59,7 +61,7 @@ IV.- La publicación de obras sobre temas antropológicos e históricos jaliscie
 
 V.- En general, todas aquéllas actividades que contribuyan al logro de los fines para los cuales fué creado y las que expresamente le encomiende el Instituto Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO CUARTO.
 
@@ -95,7 +97,7 @@ VIII.- De relaciones, del que dependerán las secciones de: a) promoción; b) Di
 
 Además contará con los Departamentos y Unidades Administrativas que su Consejo Directivo apruebe, respetando invariablemente su presupuesto de egresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO QUINTO.
 
@@ -195,8 +197,22 @@ EL SRIO. GRAL. DE GOBIERNO
 
 LIC. ALFONSO DE ALBA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
 
 P.O. 3 DE SEPTIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley que crea el Instituto Jalisciense de Antropología e Historia con el carácter de Institución Descentralizada.
+
+TERCERO. El proceso de extinción del Instituto Jalisciense de Antropología e Historia estará a cargo de la Secretaría de Planeación, Administración y Finanzas. Dicha Secretaría deberá levantar el inventario de los bienes pertenecientes al organismo y éste deberá presentar estados financieros iniciales y finales de su gestión levantándose acta de entrega recepción de bienes.
+
+CUARTO. El Poder Ejecutivo, por conducto de la Secretaría de Cultura, promoverá ante las instancias del Gobierno Federal que corresponda, la suscripción de convenios a efecto de que los bienes que éste haya asignado al extinto Instituto Jalisciense de Antropología e Historia, permanezcan bajo resguardo estatal y sigan siendo destinados a su objeto.
+
+QUINTO. En el proceso de extinción del Instituto Jalisciense de Antropología e Historia se deberán respetar los derechos laborales adquiridos conforme lo dispuesto en la legislación aplicable.
+
+SEXTO. Se autoriza al Titular del Poder Ejecutivo para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, lleve a cabo las adecuaciones presupuestales y administrativas, así como los actos necesarios para el cumplimiento del presente Decreto.
