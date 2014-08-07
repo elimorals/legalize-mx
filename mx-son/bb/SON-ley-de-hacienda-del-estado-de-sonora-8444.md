@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2014-06-09"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2657,7 +2659,7 @@ II.- Para servicios públicos, las personas que con ellos sean beneficiados.
 
 El poseedor será sujeto de la contribución, cuando el predio no tenga propietario, cuando el propietario no este definido o cuando el propietario se obligue a transmitir el dominio del inmueble, dando desde luego su posesión.
 
-Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución (sic) la Institución Fiduciaria, con cargo al propietario del predio beneficiado.
+Si el predio esta afectado en fideicomiso, recaudará y enterará la contribución la (sic) Institución Fiduciaria, con cargo al propietario del predio beneficiado.
 
 Cuando sean personas distintas al propietario de la tierra.
 
@@ -3089,6 +3091,8 @@ De igual manera, esta Contribución se podrá afectar como garantía o en su cas
 
 ### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
@@ -3187,7 +3191,7 @@ El importe de las contribuciones que señala el Artículo anterior se entregará
 
 I.- Lo señalado en la fracción I al Centro de Investigación Pecuario del Estado de Sonora, A.C.;
 
-II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Río Mayo, del Río Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
+II.- Lo señalado en la fracción II, a la comisión Mixta de Control de Pizcadores de algodón de los distritos de Riego del Rió Mayo, del Rió Yaqui, del Valle de Guaymas, de la Costa de Hermosillo, Altar y Pitiquito-Caborca; y
 
 III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecinales a que alude el Decreto de 23 de Enero de 1975;
 
@@ -3207,11 +3211,13 @@ Para la realización del Programa de Carreteras Estatales que desarrollará el G
 
 Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre producción y sacrificio de ganado vacuno y sobre producción agrícola.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2013, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 2 DE SEPTIEMBRE DE 2013.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 ## TITULO CUARTO. De los Derechos
 
 ### Capítulo Cuarto. Servicios de Ganadería
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 ###### Artículo 297.
 
@@ -3319,6 +3325,8 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 301.
@@ -3330,6 +3338,8 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3635,11 +3645,15 @@ servicios de juegos con apuestas. $68,569.00
 
 Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 303.
 
 Las personas físicas o morales titulares de licencias o permisos para operar alguno o algunos de los establecimientos a que se refiere el Artículo 302 de este Capítulo, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes en la oficina recaudadora que corresponda a su domicilio fiscal.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3659,9 +3673,13 @@ Cuando se compruebe la transmisión del permiso sin que para ello se haya seguid
 
 Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Finanzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3735,7 +3753,11 @@ h) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3759,9 +3781,13 @@ cualquier profesión o especialidad. N$ 100.00
 
 del punto anterior, por cada prórroga. N$ 50.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -3925,9 +3951,13 @@ f).- Reposición de la constancia de revalidación trianual a petición del soli
 
 servidor público. $176.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4003,9 +4033,13 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 17.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $ 120.00 Por cada disposición testamentaria.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
@@ -4235,6 +4269,8 @@ Las placas que se expidan para la circulación de vehículos tendrán el caráct
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, revalidación, cambios o bajas de placas, deberán cerciorarse que no existan adeudos por concepto de contribuciones en materia vehicular, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 313.
@@ -4271,6 +4307,8 @@ d).- Más de nueve meses de su vencimiento, el 100% del gravamen anual.
 
 3).- Por baja. $100.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 314.
@@ -4279,6 +4317,8 @@ Las placas de demostración causarán derechos conforme a la tarifa de transport
 
 En el caso a que se refiere el párrafo anterior, se expedirá un juego de placas en el año, por cada 5 vehículos que se tengan en venta, al momento de la solicitud del servicio.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 315.
@@ -4286,6 +4326,8 @@ En el caso a que se refiere el párrafo anterior, se expedirá un juego de placa
 En caso de extravío de una o ambas placas, su reposición implicará la asignación de un juego de placas distinto, causando los derechos por concepto de baja de placas así como los de expedición de placas de acuerdo a la especificación de que se trate.
 
 Tratándose de baja de placas por robo de vehículo previa la acreditación de la presentación de la denuncia respectiva ante la autoridad competente, no se cobrará el derecho correspondiente.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4401,6 +4443,8 @@ Cuando la expedición o renovación de licencias de conducir sea solicitada con 
 
 Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 317.
@@ -4447,6 +4491,8 @@ hasta diez días. $ 70.00
 
 motocicletas y motonetas. $ 75.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 318.
@@ -4462,6 +4508,8 @@ La Secretaría de Hacienda podrá emitir normatividad simplificando los trámite
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 La Secretaría de Hacienda deberá mantener permanentemente actualizado el Registro Estatal Vehicular, así como el Registro de Licencias para conducir vehículos, para lo cual podrá celebrar convenios de colaboración administrativa con los municipios del Estado.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4497,7 +4545,11 @@ antigüedad a y más
 
 $400.00 $200.00 $100.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4753,6 +4805,8 @@ Las personas físicas o morales titulares de concesiones o permisos para operar 
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 321.
@@ -4933,9 +4987,13 @@ $5,000.00
 
 VI.- Tratándose del testamento publico simplificado o de títulos de propiedad que expidan los entes públicos facultados, derivados de programas oficiales para satisfacer necesidades de vivienda, los derechos por los servicios registrales señalados en los puntos e incisos aquí enunciados se reducirán en un 75%.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 ###### Artículo 322.
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -4958,6 +5016,8 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 ###### Artículo 324.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 ###### Artículo 325.
 
@@ -5135,6 +5195,8 @@ El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo e
 
 Dichos Servicios no causarán el pago de la Contribución para el Fortalecimiento a la Infraestructura Educativa.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 Artículo 325 Bis A.- Los servicios que presta el Archivo Estatal del Registro Civil, causarán los siguientes derechos:
@@ -5161,11 +5223,17 @@ II.- Por la búsqueda que se efectúe para la localización de un acta, de uno a
 
 1.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 Artículo 325 Bis B.- La expedición de documentos que realice la Institución del Registro Civil a otro estado causará el derecho correspondiente al servicio solicitado; independientemente de los derechos que se causen deberá pagarse el costo de envío que determine el usuario.
 
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
 Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
 ###### Artículo 326.
 
