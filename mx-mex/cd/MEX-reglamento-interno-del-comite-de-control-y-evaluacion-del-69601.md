@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-69601
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-05"
-last_updated: "2009-08-05"
+last_updated: "2014-08-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO, DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL ESTADO DE MÉXICO, PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 5 de agosto de 2009.
 
@@ -308,3 +310,15 @@ DR. FRANCISCO JOSE PLATA OLVERA
 DIRECTOR GENERAL DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el cinco de agosto de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
