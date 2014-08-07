@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-vegetal-del-46366"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-30"
-last_updated: "2005-08-30"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE COORDINACION EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-LEY DE COORDINACION EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
+LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado, el martes 30 de agosto de 2005
 
@@ -197,7 +197,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. El Ejecutivo del Estado, a través de la Secretaría;
 
-II. La Secretaría de Medio Ambiente y Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+II. La Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 III. La Secretaria de Salud Jalisco; y
 
@@ -321,7 +323,9 @@ II. Del ámbito Estatal:
 
 a) Un representante de la Secretaría;
 
-b) Un representante de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
+b) Un representante de la Secretaria de Medio Ambiente y Desarrollo Territorial;
 
 c) Un representante de la Secretaría de Salud;
 
@@ -636,3 +640,9 @@ LIC. ALFREDO ROCHA MUÑOZ
 (RÚBRICA)
 
 Por ausencia temporal del Secretario General de Gobierno conforme al artículo 32 del Reglamento Interior de la Secretaría General de Gobierno.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
