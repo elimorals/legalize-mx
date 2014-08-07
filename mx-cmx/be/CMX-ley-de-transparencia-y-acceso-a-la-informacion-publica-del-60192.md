@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2014-03-14"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -504,7 +504,7 @@ b) De las adjudicaciones directas:
 
 c) Incluir el padrón de proveedores y contratistas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 > <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -578,7 +578,9 @@ III. Orden del Día, listas de asistencia y votación de cada una de las sesione
 
 IV. Las iniciativas de ley o decretos, puntos de acuerdo, la fecha en que se recibió, las Comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
 
-V. Las leyes, decretos y acuerdos aprobados por la Asamblea Legislativa del Distrito Federal o la Diputación Permanente;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+V. Las leyes, decretos y acuerdos aprobados por la Asamblea Legislativa del Distrito Federal o la Diputación Permanente; de las leyes, su texto íntegro deberá publicarse y actualizarse dentro de los treinta días naturales siguientes a la fecha de su publicación, o de cualquier reforma, adición, derogación o abrogación a éstas, en la Gaceta Oficial del Distrito Federal, incluyendo la leyenda "La edición de los ordenamientos jurídicos del Distrito Federal en medios electrónicos no representa una versión oficial, ya que de acuerdo al artículo 3° del Código Civil para el Distrito Federal, la única publicación que da validez jurídica a una norma es aquella hecha en la Gaceta Oficial del Distrito Federal;
 
 VI. El Diario de Debates;
 
@@ -706,7 +708,7 @@ V. (DEROGADA, G.O. 29 DE AGOSTO DE 2011)
 
 VI. Sobre el ejercicio del presupuesto deberá publicarse el calendario trimestral sobre la ejecución de las aportaciones federales y locales, pudiendo identificar el programa para el cual se destinaron y, en su caso, el monto del gasto asignado;
 
-VII. En el caso de la información sobre programas de subsidio, se deberá considerar toda aquella información sobre los programas sociales; y (sic)
+VII. En el caso de la información sobre programas de subsidio, se deberá considerar toda aquella información sobre los programas sociales; y
 
 VIII. Los Programas de Desarrollo Delegacionales, vinculados con sus programas operativos anuales y sectoriales y los respectivos indicadores de gestión que permitan conocer las metas, por unidad responsable, así como los avances físico y financiero, para cada una de las metas. Sobre los indicadores de gestión se deberá difundir, además, el método de evaluación con una justificación de los resultados obtenidos y el monto de los recursos públicos asignados para su cumplimiento.
 
@@ -1260,27 +1262,33 @@ IV. El domicilio o medio señalado para recibir la información o notificaciones
 
 V. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas o cualquier otro tipo de medio electrónico.
 
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
-Si al ser presentada la solicitud no es precisa o no contiene todos los datos requeridos, en ese momento el Ente Obligado deberá ayudar al solicitante a subsanar las deficiencias. De ser solicitud realizada de forma escrita o de cualquier medio electrónico, el Ente Obligado prevendrá al solicitante por escrito, en un plazo no mayor a cinco días hábiles, para que en un término igual y en la misma forma, la complemente o la aclare. En caso de no cumplir con dicha prevención se tendrá por no presentada la solicitud.
+Si al ser presentada la solicitud, no es precisa o no contiene todos los datos requeridos, en ese momento el Ente Obligado deberá ayudar al solicitante a subsanar las deficiencias. En caso de que la solicitud haya sido hecha por escrito o a través de cualquier medio electrónico, el Ente Obligado, en un plazo de cinco días hábiles, prevendrá al solicitante por escrito para que, dentro de los cinco días hábiles siguientes al día de la notificación de la prevención, complemente o aclare la solicitud. En caso de no cumplir con dicha prevención, se tendrá por no presentada la solicitud.
 
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
-En el caso de que el solicitante no señale domicilio o algún medio de los autorizados por esta Ley para oír y recibir notificaciones, la prevención se notificará por lista que se fije en los estrados de la Oficina de Información Pública del Ente Obligado que corresponda.
+Para los casos de solicitudes realizadas por escrito o a través de cualquier medio electrónico, en los que los Entes Obligados adviertan que la prevención es necesaria únicamente respecto de uno o varios contenidos de la solicitud, pero no así de manera total, en un plazo de cinco días hábiles, prevendrán al solicitante por escrito para que, dentro de los cinco días hábiles siguientes al día de la notificación de la prevención, aclare o precise los puntos que, a consideración del Ente Obligado, así lo ameriten. La prevención interrumpirá el plazo establecido para la respuesta de la solicitud. En este supuesto, si el solicitante no desahoga la prevención en tiempo y forma, la solicitud se tendrá por presentada únicamente por lo que hace a los requerimientos que no fueron prevenidos.
 
-La oficina de información pública correspondiente está obligada a apoyar al solicitante en el llenado de la solicitud cuando lo requiera.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+En caso de que el solicitante no señale domicilio o algún medio de los autorizados por esta ley para oír y recibir notificaciones, la prevención se notificará por lista que se fije en los estrados de la Oficina de Información Pública del Ente Obligado que corresponda.
 
-Si la solicitud es presentada ante un Ente Obligado que no es competente para entregar la información; o que no la tenga por no ser de su ámbito de competencia o, teniéndola sólo tenga atribuciones sobre la misma para su resguardo en calidad de archivo de concentración o histórico, la oficina receptora orientará al solicitante, y en un plazo no mayor de cinco días hábiles, deberá canalizar la solicitud a la Oficina de Información Pública que corresponda.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+La Oficina de Información Pública correspondiente está obligada a apoyar al solicitante en el llenado de la solicitud cuando lo requiera.
 
-En caso de que el particular haya presentado vía solicitud acceso a la información una relativa al ejercicio de derechos ARCO, la oficina de información pública deberá prevenirlo sobre el alcance de la vía elegida y los requisitos exigidos por la Ley de Protección de Datos Personales del Distrito Federal.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+Si la solicitud es presentada ante un Ente Obligado que no es competente para entregar la Información Pública; o que no la tenga por no ser de su ámbito de competencia o, teniéndola sólo tenga atribuciones sobre la misma para su resguardo en calidad de archivo de concentración o histórico, la oficina receptora deberá orientar al solicitante y, en un plazo no mayor de cinco días hábiles, deberá canalizar la solicitud a la Oficina de Información Pública que corresponda.
 
-En caso de que el ente obligado sea parcialmente competente para atender la solicitud, emitirá una respuesta en lo relativo a sus atribuciones y orientará al solicitante, señalando los datos de la Oficina de Información Pública del ente competente para atender la otra parte de la solicitud.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+En caso de que el particular haya presentado vía una solicitud de Información Pública, una relativa al ejercicio de derechos ARCO, la Oficina de Información Pública deberá prevenirlo sobre el alcance de la vía elegida y los requisitos exigidos por la Ley de Protección de Datos Personales del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE AGOSTO DE 2014)</small>
+
+En caso de que el Ente Obligado sea parcialmente competente para atender la solicitud, emitirá una respuesta en lo relativo a sus atribuciones y orientará al solicitante, señalando los datos de la Oficina de Información Pública del Ente Obligado competente para atender la otra parte de la solicitud.
 
 ###### Artículo 48.
 
@@ -1302,7 +1310,7 @@ Los Entes Obligados deberán esforzarse por reducir al máximo, los costos de en
 
 > <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
-En el caso de que el solicitante requiera información pública en los términos del artículo 14 de la presente Ley y el EnteObligado no la tenga digitalizada deberá entregarla sin ningún costo al solicitante.
+En el caso de que el solicitante requiera información pública en los términos del artículo 14 de la presente Ley y el Ente Obligado no la tenga digitalizada deberá entregarla sin ningún costo al solicitante.
 
 > <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -1426,7 +1434,7 @@ VII. Efectuar las notificaciones correspondientes a los solicitantes;
 
 VIII. Habilitar a los servidores públicos de los Entes Obligados que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información;
 
-IX. Apoyar al Comité de Transparencia en el desempeño de sus funciones; y (sic)
+IX. Apoyar al Comité de Transparencia en el desempeño de sus funciones; y
 
 X. Establecer los procedimientos para asegurarse que, en el caso de información confidencial, éstos se entreguen sólo a su titular o representante.
 
@@ -2138,7 +2146,7 @@ Cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en 
 
 ###### Artículo 89.
 
-Contra los acuerdos y resoluciones no definitivas pronunciadas en la substanciación del recurso de revisión, el recurrente podrá interponer el recuso de revocación, que será sustanciado en los términos que establezca el Reglamento Interior del Instituto, y será resuelto por el Pleno del mismo.
+Contra los acuerdos y resoluciones no definitivas pronunciadas en la substanciación del recurso de revisión, el recurrente podrá interponer el recuso (sic) de revocación, que será sustanciado en los términos que establezca el Reglamento Interior del Instituto, y será resuelto por el Pleno del mismo.
 
 La tramitación del recurso se sujetará a las normas siguientes:
 
@@ -2371,3 +2379,19 @@ PRIMERO.- El presente Decreto entrará en vigor a los noventa días siguientes a
 SEGUNDO.- El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal deberá aprobar, dentro de los noventa días siguientes a la fecha de publicación del presente Decreto, los criterios de evaluación de los portales de Internet, aplicables a la reforma prevista en el presente Decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 7 DE AGOSTO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 47 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 7 DE AGOSTO DE 2014.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
