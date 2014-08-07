@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-04-01"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1773,7 +1773,7 @@ VI. El atentado contra la vida de alguno de los casados para contraer matrimonio
 
 VII. Las enfermedades crónicas e incurables que sean, además, contagiosas y que pongan en peligro la vida o hereditarias; y cualesquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes; la impotencia incurable para la cópula salvo cuando exista por causa de la edad o cuando por otra diversa causa sea conocida por ambos contrayentes;
 
-VIII. La enajenación psíquica declarada judicialmente; y (sic)
+VIII. La enajenación psíquica declarada judicialmente; y
 
 IX. La fuerza o miedo graves;
 
@@ -2749,9 +2749,11 @@ El deber y la obligación de proporcionar los alimentos son recíprocos; el que 
 
 Los cónyuges deben darse alimentos.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Art. 434.
 
-Los padres están obligados a dar alimentos a sus hijos, hasta que alcancen la mayoría de edad o llegando a ella sean incapaces. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas, que estuvieren más próximos en grado.
+Los padres están obligados a dar alimentos a sus hijos, hasta que alcancen la mayoría de edad o llegando a ella sean incapaces, la cual se extiende hasta una edad máxima de veinticinco años, cuando se encuentren estudiando en planteles del sistema educativo nacional. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas, que estuvieren más próximos en grado.
 
 ###### Art. 435.
 
@@ -3311,7 +3313,7 @@ En todos los casos de adopción, se tendrán como preferentes los intereses del 
 
 ###### Art. 523.
 
-El consentimiento, tratándose de niños cuyos padres ha (sic) fallecido, o han perdido la patria potestad; lo deben dar las personas (sic) quienes por ley corresponda el ejercicio de la patria potestad o la tutel (sic) legítima; y tratándose de niños de filiación desconocida, expósitos (sic) abandonados, el consentimiento lo dará el Consejo de familia.
+El consentimiento, tratándose de niños cuyos padres ha (sic) fallecido, o han perdido la patria potestad; lo deben dar las personas quienes por ley corresponda el ejercicio de la patria potestad o la tutel (sic) legítima; y tratándose de niños de filiación desconocida, expósitos abandonados, el consentimiento lo dará el Consejo de familia.
 
 Para las adopciones a las que se refiere la fracción III del artículo 520, (sic) consentimiento lo debe dar la persona que pretende ser adoptada.
 
@@ -3433,7 +3435,7 @@ Cuando el tutor o el Consejo de Familia no consientan en la adopción; o el Agen
 
 ###### Art. 538.
 
-Salvo que la adopción se haga por pareja (sic) unidas por vínculo matrimonial, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante o adoptantes anteriores hayan muerto o hubiera sido revocada la adopción.
+Salvo que la adopción se haga por pareja unidas por vínculo matrimonial, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante o adoptantes anteriores hayan muerto o hubiera sido revocada la adopción.
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3583,7 +3585,7 @@ Las adopciones internacionales tendrán los efectos de plena.
 
 Cuando las adopciones se realicen de conformidad a los tratados internacionales que sobre la materia se celebren por el Poder Ejecutivo Federal, se procederá en la forma siguiente:
 
-I. Corresponde al Sistema de Desarrollo Integral de la Familia Jalisco, a través de su órgano desconcentrado Consejo Estatal de Familia, desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero; y (sic)
+I. Corresponde al Sistema de Desarrollo Integral de la Familia Jalisco, a través de su órgano desconcentrado Consejo Estatal de Familia, desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero; y
 
 II. Al consentirse la adopción deberá señalarse la forma y términos como se le dará seguimiento en el extranjero;
 
@@ -6777,7 +6779,7 @@ El usufructuario de un monte disfruta de todos los productos que provengan de é
 
 ###### Art. 1057.
 
-Si el monte fuere (sic) talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes especiales o a las costumbres del lugar, sin que en ningún caso y por algún concepto le sea permitido que por estas actividades se rompa el equilibrio ecológico.
+Si el monte fuere talar o de maderas de construcción, podrá el usufructuario hacer en él las talas o cortes ordinarios que haría el dueño, acomodándose en el modo, porción o época a las leyes especiales o a las costumbres del lugar, sin que en ningún caso y por algún concepto le sea permitido que por estas actividades se rompa el equilibrio ecológico.
 
 ###### Art. 1058.
 
@@ -11715,7 +11717,7 @@ IV. Poner en conocimiento del arrendador, en el término más breve posible, tod
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-V. Recibir del arrendador, los documentos que acrediten el pago de la renta, pudiendo consignarlo, cuando el arrendador se niegue a entregarlos; y (sic)
+V. Recibir del arrendador, los documentos que acrediten el pago de la renta, pudiendo consignarlo, cuando el arrendador se niegue a entregarlos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -18248,5 +18250,9 @@ P.O. 8 DE FEBRERO DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 1 DE ABRIL DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
