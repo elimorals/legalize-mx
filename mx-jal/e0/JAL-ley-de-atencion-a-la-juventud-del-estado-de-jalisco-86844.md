@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2012-03-24"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -357,9 +357,13 @@ El Consejo Técnico de la Juventud se encuentra integrado por los representantes
 
 I. La Secretaría General de Gobierno;
 
-II. La Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
 
-III. La Secretaría de Planeación;
+II. La Secretaria de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+III. La Secretaría de Planeación, Administración y Finanzas;
 
 IV. La Comisión de Juventud y Deporte del H. Congreso del Estado de Jalisco, y
 
@@ -658,3 +662,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
