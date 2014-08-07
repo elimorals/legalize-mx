@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ciencia-tecnologia-e-innovacion-de-la-ciudad-de-91721"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-29"
-last_updated: "2013-01-29"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-01-10"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2013.
 
@@ -188,9 +188,11 @@ III. Remitir a la Asamblea el Programa de Ciencia y Tecnología del Distrito Fed
 
 IV. Fomentar e impulsar la utilización de los productos y servicios derivados de los Programas de Ciencia y Tecnología que tenga a su cargo la Secretaría en sus diferentes áreas de aplicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 7.
 
-A la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal corresponde diseñar y normar las políticas inherentes al estudio y desarrollo de la ciencia, tecnología e innovación en la ciudad, así como impulsar, desarrollar y coordinar todo tipo de actividades relacionadas con la ciencia. Las funciones y actividades de la Secretaría están orientadas a impulsar un mayor crecimiento económico y académico del Distrito Federal a través del estudio y desarrollo científico productivo.
+A la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal corresponde diseñar y normar las políticas inherentes al estudio y desarrollo de la ciencia, tecnología e innovación en la ciudad, así como impulsar, desarrollar y coordinar todo tipo de actividades relacionadas con la ciencia. Las funciones y actividades de la Secretaría están orientadas a impulsar un mayor crecimiento económico y académico, del Distrito Federal a través del estudio y desarrollo científico productivo.
 
 Específicamente tendrá las siguientes atribuciones:
 
@@ -256,7 +258,13 @@ XXVIII. Presentar anualmente un informe sobre el estado que guarda el Distrito F
 
 XXIX. Conocer y atender los recursos administrativos que se interpongan contra sus actos y resoluciones, en los términos de las normas que a efecto expida y sujetándose a lo dispuesto en Ley de Procedimiento Administrativo del Distrito Federal, y
 
-XXX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXX. Deberá propiciar el desarrollo de nuevas tecnologías que coadyuven en los procesos laborales y administrativos que comprenden las actividades de las Dependencias que conforman la Administración Pública del Distrito Federal, y
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXXI. Las Demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 8.
 
@@ -825,3 +833,13 @@ El Jefe de Gobierno contará hasta con 120 días naturales, contados a partir de
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días del mes de diciembre del año dos mil doce.- POR LA MESA DIRECTIVA.- DIP. ANTONIO PADIERNA LUNA, VICEPRESIDENTE.- DIP. LAURA IRAÍS BALLESTEROS MANCILLA, SECRETARIA.- DIP. ROCÍO SÁNCHEZ PÉREZ, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del año dos mil trece.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
