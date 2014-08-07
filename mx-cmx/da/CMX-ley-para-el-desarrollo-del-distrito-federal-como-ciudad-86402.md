@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-del-distrito-federal-como-ciudad-86402"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-29"
-last_updated: "2012-02-29"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86402&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-26"
 
 LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de febrero de 2012.
 
@@ -332,9 +332,11 @@ La Secretaria de Desarrollo Económico, promoverá el desarrollo sostenible del 
 
 ### CAPÍTULO VI. DE LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 40.
 
-Para alcanzar un desarrollo sostenible como Ciudad Digital y del Conocimiento la Administración Pública reforzará su capacidad de innovación, investigación científica, investigación aplicada y desarrollo tecnológico en materia de Tecnologías de la Información y del Conocimiento a través del Instituto de Ciencia y Tecnología.
+Para alcanzar un desarrollo sostenible como Ciudad digital y del Conocimiento la Administración Pública reforzará su capacidad de innovación, investigación científica, investigación aplicada y desarrollo tecnológico en materia de Tecnologías de la Información y del Conocimiento a través de la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
 
 La Administración Pública buscará que las Tecnologías de la Información y la Comunicación y del Conocimiento den impulso y apoyo a las tareas de innovación, investigación y desarrollo tecnológico de la Ciudad. Asimismo estimulará, de manera particular, a las propuestas que favorezcan el acceso de la población a las Tecnologías de la Información y Comunicación, con inclusión de los grupos desfavorecidos, marginados y vulnerables.
 
@@ -350,7 +352,7 @@ I. Fomentará la aplicación y el desarrollo de Tecnologías de la Información 
 
 II. Fomentará y apoyará los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y del conocimiento, con particular énfasis en los temas relativo (sic) a las Ciudades Digitales, Ciudades del Conocimiento y Ciudades de la Ciencia, así como el desarrollo de interfases humanos computadora y la investigación de temas relacionados;
 
-III. Dará apoyo a la creación y proyectos de redes y comunidades de investigación; así como apoyos para la formación de doctores y la realización estancias (sic) de investigación todos ellos para los campos de conocimiento asociados a los temas de esta Ley;
+III. Dará apoyo a la creación y proyectos de redes y comunidades de investigación; así como apoyos para la formación de doctores y la realización (sic) estancias de investigación todos ellos para los campos de conocimiento asociados a los temas de esta Ley;
 
 IV. Impulsará la creación de sociedades científicas y laboratorios de investigación en materia de esta Ley;
 
@@ -372,9 +374,11 @@ En el programa, deberá generarse sinergias entre proyectos similares y aprovech
 
 La Administración Pública buscará soportar mediante las Tecnologías de la Información y Comunicación y del Conocimiento los principales servicios públicos que ofrece en beneficio de la eficiencia en la atención ciudadana; con las consideraciones pertinentes respecto a políticas, mecanismos de seguridad y salvaguarda de privacidad de información, así como el uso de altos estándares de interoperabilidad y usabilidad.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 45.
 
-La Administración Pública debe generar y garantizar una agenda de innovación y de mejora continúa conforme a las disposiciones aplicables, gobernada por una estructura de gestión y la asignación de recursos suficientes para facilitar la modernización administrativa, al tiempo de favorecer la instrumentación de nuevas formas de relación entre gobierno y ciudadanía.
+La Administración Pública debe generar y garantizar una agenda de innovación y de mejora continua conforme a las disposiciones aplicables, gobernadas por una estructura de gestión y la asignación de recursos suficientes para facilitar la modernización administrativa, al tiempo de favorecer la instrumentación de nuevas tecnologías en los procesos administrativos y de gestión pública que (sic) su vez propicien nuevas formas de relación entre gobierno y ciudadanía.
 
 ### CAPÍTULO VIII. DE LA ADMINISTRACIÓN DEL CONOCIMIENTO
 
@@ -468,7 +472,7 @@ El Consejo deberá considerar para la elaboración de la propuesta:
 
 I. La coordinación en la implementación de los programas y proyectos de Tecnologías de la Información y Comunicaciones y del Conocimiento derivados de la Agenda, considerando adquisición, distribución, administración y uso de recursos; y
 
-II. La formulación de programas y proyectos para la promoción de la Sociedad de la Información y el Conocimiento y la evaluación de los resultados que de ellos se hagan; (sic)
+II. La formulación de programas y proyectos para la promoción de la Sociedad de la Información y el Conocimiento y la evaluación de los resultados que de ellos se hagan;
 
 ###### Artículo 56.
 
@@ -500,7 +504,7 @@ IX. Seguridad informática.
 
 ###### Artículo 58.
 
-A través de Administración (sic) Pública y de acuerdo con la normatividad aplicable se asignarán los recursos para la creación y operación de fondos destinados a financiar la realización de las actividades directamente vinculadas a la Agenda, sin perjuicio de esquemas de participación público-privada.
+A través de (sic) Administración Pública y de acuerdo con la normatividad aplicable se asignarán los recursos para la creación y operación de fondos destinados a financiar la realización de las actividades directamente vinculadas a la Agenda, sin perjuicio de esquemas de participación público-privada.
 
 ###### Artículo 59.
 
@@ -535,3 +539,13 @@ QUINTO.- La Asamblea Legislativa contemplará dentro del presupuesto de egresos 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO CARBAJAL GONZÁLEZ, PRESIDENTE.- DIP. GUILLERMO OROZCO LORETO, SECRETARIO.- DIP. GUILLERMO OCTAVIO HUERTA LING, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiséis días del mes de enero del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL DIRECTOR GENERAL DE PROGRAMAS ESTRATÉGICOS DE LA SECRETARÍA DE TURISMO, POR AUSENCIA DE SU TITULAR, RICARDO VILLALPANDO OCHOA.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
