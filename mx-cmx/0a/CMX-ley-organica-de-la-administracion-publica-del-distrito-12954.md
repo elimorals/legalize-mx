@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2014-07-14"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -442,9 +442,9 @@ XXV. Coordinar la planeación metropolitana con la participación que correspond
 
 XXVI. Impulsar la formulación de convenios, normas y reglamentos en los que se concerte la voluntad política de los gobiernos que inciden en la zona metropolitana;
 
-> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-XXVI BIS. Impulsar la participación de la comunidad científica y tecnológica en la planeación metropolitana a través del Instituto de Ciencia y Tecnología del Distrito Federal;
+XXVI BIS. Impulsar la participación de la comunidad científica y tecnológica e Innovación del Distrito Federal en la planeación metropolitana de manera coordinada con la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
 
 XXVII. Formular y coordinar la implementación de las políticas de desarrollo cívico;
 
@@ -1346,9 +1346,9 @@ A la Oficialía Mayor corresponde el despacho de las materias relativas a la adm
 
 Específicamente cuenta con las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-I. Proponer al Jefe de Gobierno medidas técnicas y políticas para la organización, simplificación, modernización de innovación de la actuación y funcionamiento de la Administración Pública del Distrito Federal;
+I. Proponer al Jefe de Gobierno medidas técnicas y políticas para la organización, simplificación, modernización de innovación de la actuación y funcionamiento de la Administración Pública del Distrito Federal; así como de manera coordinada con la Secretaría de Ciencia, Tecnología e Innovación, la conclusión permanente de nuevas tecnologías en los procesos administrativos y de gestión pública que comprenden las actividades de las Dependencias que conforman la Administración Pública del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -1438,7 +1438,7 @@ XXVIII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
 
-XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal; (sic)
+XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -2553,3 +2553,11 @@ QUINTO.- Las menciones que en otras Leyes y disposiciones se refieran a la Secre
 SEXTO.- Los logotipos, formatos, formas valoradas para trámites, leyendas, y demás insumos con el imagotipo de la Secretaría de Transportes y Vialidad, se seguirán utilizando hasta que se agoten, en todo caso, el plazo no podrá exceder del 31 de diciembre de 2014.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 7 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
