@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2014-07-08"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1113,23 +1113,23 @@ VI. Los dueños de mecanismos, instrumentos, aparatos, vehículos o sustancias p
 
 VII. Las Autoridades Estatales o Municipales, en forma directa en los términos que establece la ley estatal en materia de Responsabilidad Patrimonial del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Art. 98.
 
 En orden de preferencia, tienen derecho a exigir la reparación del daño:
 
 I. El ofendido;
 
-II. El cónyuge y sus hijos menores de edad o mayores de edad incapacitados;
+II. El cónyuge, concubina o concubinario, los hijos menores de edad y mayores incapaces;
 
 III. Los ascendientes;
 
-IV. La concubina o el concubinario;
+IV. Los que dependían económicamente de (sic) ofendido;
 
-V. Los que dependan económicamente del ofendido;
+V. Los descendientes del ofendido; y
 
-VI. Los descendientes del ofendido; y
-
-VII. La asistencia social.
+VI. La asistencia social.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -5234,3 +5234,7 @@ Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al pre
 Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
 
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
