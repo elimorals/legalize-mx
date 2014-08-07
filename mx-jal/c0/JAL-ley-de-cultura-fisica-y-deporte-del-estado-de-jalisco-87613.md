@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2012-04-19"
+last_updated: "2014-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE JALISCO
 
-LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -225,9 +225,17 @@ IV. Formación y capacitación de especialistas en cultura física y deporte;
 
 V. Infraestructura de instalaciones;
 
-VI. Investigación, e
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
 
-VII. Infraestructura de instalaciones.
+VI. Investigación;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+VII. Infraestructura de instalaciones; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+VIII. Bases generales para el otorgamiento del Premio al Mérito Deportivo, que se entregará anualmente, de acuerdo a lo que establezca el reglamento de la presente ley.
 
 ###### Artículo 20.
 
@@ -301,13 +309,17 @@ El Consejo Directivo del Code Jalisco se conformará por el Director General del
 
 I. Secretaría de Educación;
 
-II. Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+II. Secretaría de Planeación, Administración y Finanzas;
 
 III. Secretaría de Salud;
 
 IV. Instituto Estatal de la Juventud;
 
-V. Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+
+V. Secretaría de Desarrollo e Integración Social;
 
 VI. Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
@@ -782,3 +794,17 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 24916/LX/14, POR EL QUE SE REFORMA EL ARTÍCULO 24 FRACCIONES II Y IV DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 7 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 24943/LX/14 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 19 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
