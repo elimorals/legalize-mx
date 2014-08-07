@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-de-reclusion-para-el-distrito-federal-100096"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-04"
-last_updated: "2014-04-04"
+last_updated: "2014-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100096&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-03-28"
 
 LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de abril de 2014.
 
@@ -52,15 +52,17 @@ LEY DE CENTROS DE RECLUSIÓN PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Distrito Federal, y tiene por objeto establecer las disposiciones legales mínimas que regulen la operación y funcionamiento de los Centros de Reclusión del Distrito Federal e implementar programas, acciones y actividades necesarias para contribuir con la reinserción social de los sentenciados y evitar la desadaptación de indiciados y procesados, conforme a las disposiciones constitucionales, los tratados internacionales y las leyes aplicables. Su aplicación corresponde a la Administración Pública del Distrito Federal, a través de la Secretaría de Gobierno y de la Subsecretaría de Sistema Penitenciario, sin perjuicio de la intervención que en materia de servicios médicos compete a la Secretaría de Salud, en los términos de la Ley de Salud para el Distrito Federal.
+La presente Ley es de orden público, interés social y observancia general en el Distrito Federal, tiene por objeto desarrollar el contenido de los artículos 1° y 18 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos conforme a los tratados, instrumentos internacionales, así como las leyes aplicables, desarrollando las disposiciones mínimas que regulen la operación y funcionamiento de los Centros de Reclusión del Distrito Federal e implementar programas, acciones y actividades necesarias para contribuir con la reinserción social de los sentenciados, además de establecer pautas de operación para la generación de condiciones dignas de indiciados y procesados.
 
-La presente Ley se aplicará en los Centros de Reclusión dependientes de la Administración Pública del Distrito Federal, destinados a la ejecución de sanciones privativas y medidas restrictivas de la libertad, a la prisión preventiva y al arresto de personas mayores de 18 años.
+Su aplicación corresponde a la Administración Pública del Distrito Federal, a través de la Secretaría de Gobierno, de la Subsecretaría de Sistema Penitenciario, a la Secretaría de Salud en materia de servicios médicos en los términos de la Ley de Salud para el Distrito Federal y al Tribunal Superior de Justicia del Distrito Federal.
 
-Sus disposiciones son de observancia general para todo el personal, visitantes e internos del Sistema Penitenciario y se aplicarán bajo una base de igualdad y respeto a los derechos humanos, sin distingo o preferencias de grupo, religión, orientación sexual o de individuos en particular.
+Esta Ley se aplicará en los Centros de Reclusión dependientes de la Administración Pública del Distrito Federal, destinados a la ejecución de sanciones privativas y medidas restrictivas de la libertad, a la prisión preventiva y al arresto de personas mayores de 18 años.
 
-En todo lo no previsto por la presente Ley se aplicarán los principios rectores del Sistema Penitenciario como mandatos de optimización.
+En todo momento se promoverá el respeto de los derechos humanos de las personas privadas de la libertad y del personal penitenciario, tanto de la Subsecretaría como de los Centros.
 
 ###### Artículo 2.
 
@@ -78,15 +80,19 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Sistema Penitenciario. Al Conjunto de Centros de Reclusión, áreas de atención especializada; unidades administrativas y técnico operativas.
 
-II. Centros de Reclusión. Es el conjunto de establecimientos penitenciarios preventivos, de ejecución de sanciones penales, de reinserción psicosocial o de asistencia post-penitenciaria del Distrito Federal.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+II. Centros de Reclusión. Es el conjunto de establecimientos Penitenciarios Preventivos, de Ejecución de Sanciones Penales, de Reinserción Psicosocial, de asistencia post-penitenciaria y Centros de Sanciones Administrativas del Distrito Federal.
 
 III. Programa de actividades. Al conjunto de actividades que realizan los internos, directamente dirigidas a facilitar la reinserción social, establecidas y organizadas por las autoridades penitenciarias;
 
-IV. Constitución. A la Constitución Política de los Estados Unidos Mexicanos.
+IV. (DEROGADA, G.O. 7 DE AGOSTO DE 2014)
 
 V. Código Penal. Al Código Penal para el Distrito Federal;
 
-VI. Código de Procedimientos Penales. Al Código de Procedimientos Penales para el Distrito Federal.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+VI. Código de Procedimientos Penales. Al Código de Procedimientos Penales para el Distrito Federal y/o Código Nacional de Procedimientos Penales.
 
 VII. La Ley. A la Ley de Centros de Reclusión para el Distrito Federal;
 
@@ -128,13 +134,15 @@ XXV. Liberado. Al interno que fue liberado por resolución judicial;
 
 XXVI. Personal administrativo. A quienes realizan labores de carácter administrativo en las instalaciones de los Centros de Reclusión del Distrito Federal;
 
-XXVII. Personal de seguridad y custodia. A quienes realizan labores de protección, supervisión, vigilancia, contención y todas aquellas orientadas a hacer prevalecer el orden y resguardar la seguridad de las personas dentro de las instalaciones de los Centros de Reclusión;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXVII. Personal Técnico en Seguridad. A quienes realizan labores de protección, supervisión, vigilancia, contención y todas aquellas orientadas a hacer prevalecer el orden y resguardar la seguridad de las personas dentro de las instalaciones de los Centros de Reclusión;
 
 XXVIII. Personal técnico. A quienes realizan labores especializadas en el ámbito de la reinserción, y/o aquellos que además monitorean las condiciones adecuadas de Reclusión de los internos para acceder a los servicios de reinserción, y de alimentación.
 
 XXIX. Personal médico. A los responsables del otorgamiento de los servicios médicos a los Internos, dependientes de la Secretaría de Salud;
 
-XXX. Magistrados. A aquellos que integran la sala especializada en ejecución de sanciones penales;
+XXX. (DEROGADA, G.O. 7 DE AGOSTO DE 2014)
 
 XXXI. Comisión. A la Comisión de Derechos Humanos del Distrito Federal;
 
@@ -148,6 +156,34 @@ XXXV. CDUDT. Centro de Diagnóstico, Ubicación y Determinación de Tratamiento.
 
 XXXVI. Comité de Visita General. Es la instancia integrada por diversos órganos de gobierno, cuyo fin es realizar visitas a las instituciones del Sistema Penitenciario.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXXVII. Casa de Medio Camino. Institución Abierta Casa de Medio Camino Varonil y Femenil.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXXVIII. Consejo de Honor. Consejo de Honor y Justicia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XXXIX. Centro de Sanciones Administrativas. Centro de Sanciones Administrativas y de Integración Social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XL. Dirección de Adolescentes. Dirección General de Tratamiento para Adolescentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XLI. Arrestado. Persona que permanecerá en algún Centro de Sanciones Administrativas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XLII. Beneficiados. Persona que se encuentra en una "Institución Abierta Casa de Medio Camino".
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XLIII. Personal Supervisor de Aduanas. A quienes realizan labores de supervisión y cacheo en las aduanas.
+
 ###### Artículo 4.
 
 Para la administración de los Centros de Reclusión integrados al Sistema Penitenciario, consistente en la aplicación de los recursos materiales y humanos necesarios, se estará a lo dispuesto por la normatividad aplicable a la materia y su reglamento, de acuerdo con las instalaciones, personal y presupuesto que se le asigne.
@@ -156,11 +192,13 @@ Para la administración de los Centros de Reclusión integrados al Sistema Penit
 
 La Administración Pública del Distrito Federal proporcionará las instalaciones y recursos necesarios para el cabal cumplimiento de esta Ley y de los objetivos del Sistema Penitenciario. La Subsecretaría formulará anualmente los programas necesarios para el funcionamiento del Sistema Penitenciario, de acuerdo con la normatividad vigente, considerando los convenios que se suscriban con otras autoridades y de conformidad con los lineamientos que expida el Jefe de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 6.
 
-La Secretaría de Gobierno del Distrito Federal, a través de la Dirección General de Prevención y Readaptación Social y la Secretaría de Salud, en el ámbito de su respectiva competencia, elaborarán y actualizarán los reglamentos y manuales de organización, de operación y de funcionamiento del Sistema Penitenciario de conformidad con esta Ley y las demás disposiciones jurídicas y administrativas aplicables.
+La Subsecretaría y la Secretaría de Salud, en el ámbito de su respectiva competencia, elaborarán y actualizarán los reglamentos y manuales de organización, de operación y de funcionamiento del Sistema Penitenciario de conformidad con esta Ley y las demás disposiciones jurídicas y administrativas aplicables.
 
-Asimismo, establecerá mediante estos instrumentos los procedimientos para la realización de las actividades laborales, de capacitación para el trabajo, médicas, asistenciales, educativas, culturales, recreativas, deportivas, sociales y para la comunicación con el exterior y la recepción de visitantes.
+Asimismo, establecerá mediante estos instrumentos los procedimientos para la realización de las actividades laborales, de capacitación para el trabajo, médicas, asistenciales, educativas, culturales, recreativas, deportivas, sociales y para la comunicación con el exterior, así como la recepción de visitantes.
 
 ### CAPÍTULO II. Autoridades del Sistema Penitenciario
 
@@ -184,15 +222,25 @@ VII. Los Directores de las Unidades Médicas en los Centros de Reclusión, en el
 
 VIII. Las Direcciones Ejecutivas.
 
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+IX. Director General de Tratamiento para Adolescentes.
+
 La Subsecretaría tendrá el régimen y la organización interna de los Centros de Reclusión determinados por el Jefe de Gobierno, en términos de la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 8.
 
 La custodia y salvaguarda de los indiciados será responsabilidad del Ministerio Público y de la autoridad judicial hasta en tanto no ingresen formalmente a algún Centro de Reclusión.
 
+No se recibirán personas detenidas en los centros de reclusión si su remisión no va acompañada materialmente con la consignación de la averiguación previa.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 9.
 
-Son autoridades judiciales especializadas en ejecución de sanciones penales en los Centros de Reclusión, los Jueces y Magistrados.
+Son autoridades judiciales especializadas en Ejecución de Sanciones Penales en los Centros de Reclusión, los Jueces de Ejecución.
 
 ### CAPÍTULO III. Funciones, Atribuciones y Obligaciones de las Autoridades Responsables del Sistema Penitenciario
 
@@ -218,7 +266,9 @@ II. Verificar que se cumpla esta normatividad y las demás disposiciones aplicab
 
 III. Proponer al Jefe de Gobierno, las modificaciones normativas que correspondan;
 
-IV. Nombrar al Titular de la Subsecretaría de Sistema Penitenciario, y a los Directores de los Centros de Reclusión;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+IV. Nombrar al titular de la Subsecretaria de Sistema Penitenciario. A los Directores de los Centros de Reclusión, al Director General del Instituto de Reinserción y al Director General de Tratamiento para Adolescentes.
 
 V. Coordinar con la Subsecretaría el cumplimiento de las funciones que por ley debe llevar a cabo esta área de gobierno;
 
@@ -266,11 +316,19 @@ X. Organizar el Servicio Profesional Penitenciario en términos de lo establecid
 
 XI. Establecer líneas de comunicación entre el Sistema Penitenciario, y los Organismos Gubernamentales de Derechos Humanos; y
 
-XII. Las demás que le otorguen esta Ley y la normatividad aplicable.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XII. Proponer al Secretario a los candidatos(as) a ocupar puestos de estructura organizacional, de acuerdo al Servicio Profesional Penitenciario (Direcciones Ejecutivas, Direcciones de Centros de Reclusión, Coordinadores, Subdirectores de Área, Jefes de Unidad Departamental y Líderes Coordinadores).
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XIII. Las demás que le otorguen esta Ley y la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 14.
 
-Son atribuciones del Instituto:
+Son atribuciones del Instituto, además de las establecidas en la Ley de Ejecución de Sanciones Penales para el Distrito Federal, las siguientes:
 
 I. Elaborar el Programa, consistente en el conjunto de actividades para la reinserción social y de trabajo postpenitenciario;
 
@@ -280,13 +338,15 @@ III. Coordinarse con la Subsecretaría conforme a los lineamientos establecidos 
 
 IV. Realizar los vínculos institucionales y gestiones necesarias para la firma de los convenios entre la Secretaría y dependencias públicas, órganos de gobierno, organismos públicos y privados y organizaciones para el desarrollo del Programa de actividades;
 
-V. Expedir mensualmente las constancias oficiales sobre las actividades desempeñadas por los internos, mismas que serán requisitos para la solicitud de beneficios de libertad anticipada;
+V. (DEROGADA, G.O. 7 DE AGOSTO DE 2014)
 
 VI. Auxiliar a la autoridad judicial especializada en ejecución de sanciones penales en la revisión de las constancias oficiales de actividades de reinserción social;
 
 VII. Generar y administrar las bolsas de trabajo para el otorgamiento del mismo a quienes la autoridad judicial especializada en ejecución de sanciones penales otorgue la libertad;
 
-VIII. Desarrollar y actualizar una base de datos que contenga la información de las actividades realizadas por los internos y los trabajos otorgados a aquellos que obtuvieron su libertad; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+VIII. Auxiliar a la autoridad judicial especializada en ejecución de sanciones penales en la revisión de las constancias oficiales de actividades de reinserción social;
 
 IX. Las demás que le otorgue esta Ley y la normatividad aplicable.
 
@@ -298,9 +358,11 @@ I. Autorizar bajo su más estricta responsabilidad el ingreso y egreso de quiene
 
 II. Administrar el correcto funcionamiento del Centro de Reclusión y el ejercicio de los derechos de los internos;
 
-III. Tramitar, de conformidad a los lineamientos previstos en la normatividad aplicable, el procedimiento para la firma de la boleta de libertad de las personas que hayan compurgado, las sentencias que les fueron impuestas por las autoridades judiciales, una vez que haya recibido la notificación de la autoridad judicial especializada en ejecución de sanciones penales, y previa revisión de los expedientes jurídicos correspondientes. En el caso de quienes se encuentren a disposición de alguna otra autoridad, dar aviso de inmediato a la misma y a la autoridad judicial especializada en ejecución de sanciones penales, a efecto de que la primera realice los trámites correspondientes para que el interno sea trasladado al lugar que ella determine, y quede a disposición de la misma para los fines legales subsecuentes;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-IV. Poner a disposición de las autoridades migratorias de la Secretaría de Gobernación, a los internos de nacionalidad extranjera que por algún motivo obtengan su libertad. Notificará también de esta circunstancia a la autoridad judicial especializada en ejecución de sanciones penales, así como a la embajada correspondiente para los efectos legales conducentes;
+III. Tramitar de conformidad a los lineamientos previstos en la normatividad aplicable, la boleta de libertad de los internos(as) una vez que hayan recibido la notificación de la autoridad judicial, y previa revisión de los expedientes jurídicos correspondientes.
+
+IV. (DEROGADA, G.O. 7 DE AGOSTO DE 2014)
 
 V. Verificar la estricta aplicación de la normatividad expedida por las autoridades competentes en el Centro de Reclusión a su cargo;
 
@@ -320,21 +382,59 @@ XII. Dar el apoyo al Instituto a fin de que se implemente el Programa de activid
 
 XIII. Garantizar el respeto y ejercicio de los derechos humanos de los internos;
 
-XIV. Informar al Ministerio Público, a la Contraloría, a la Comisión y a la Comisión Nacional sobre los asuntos de su competencia; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-XV. Las demás que le otorguen esta Ley y la normatividad aplicable.
+XIV. Informar al Ministerio Público, a la Contraloría, a la Comisión y a la Comisión Nacional sobre los asuntos de su competencia y de igual manera al Consejo de Honor y Justicia.
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+XV. Supervisar la debida y oportuna integración del expediente técnico jurídico, así como el sistema integral de información penitenciaria y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2014)</small>
+
+XVI. Las demás que le otorguen esta Ley y la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+Son atribuciones de los Coordinadores de las Instituciones Abiertas Casa de Medio Camino, Varonil y Femenil.
+
+I. Asegurar y dirigir el buen funcionamiento de la Institución Abierta "Casa de Medio Camino" con base en la aplicación de políticas normas y reglamentos, así como la adecuada ejecución de los programas de tratamiento.
+
+II. Supervisar la debida ejecución de la normatividad para prevenir situaciones que pongan en riesgo a la Institución, la integridad del personal o de la población beneficiada.
+
+III. Emitir oportunamente informes sobre la evolución de la población beneficiada a las autoridades correspondientes.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 15 Ter.
+
+Son Atribuciones del Director del Centro de Sanciones Administrativas y de Integración Social del Distrito Federal:
+
+I. Autorizar el ingreso y egreso de arrestados al Centro de Sanciones Administrativas y de Integración Social, en cumplimiento a una resolución dictada por autoridad competente.
+
+II. Garantizar que las personas presentadas bajo arresto administrativo, reciban asistencia jurídica, médica y psicológica.
+
+III. Coordinar y determinar la adecuada realización y canalización de los arrestados hacia las actividades de prevención, recreativas, culturales y deportivas que se brindan a la institución.
+
+IV. Mantener coordinación con las diversas instancias involucradas en materia de cultura cívica, ciudadana para la realización de actividades relacionadas a la prevención de determinadas conductas infractoras.
 
 ### CAPÍTULO IV. Del Consejo Técnico Interdisciplinario
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 16.
 
-En cada uno de los Centros de Reclusión del Distrito Federal, debe instalarse y funcionar un Consejo Técnico Interdisciplinario que será el órgano colegiado encargado de determinar las políticas, acciones y estrategias para la mejor funcionalidad de dichos Centros, además de determinar los tratamientos que deben aplicarse a los internos para fomentar la reinserción social y, en su caso, lograr su readaptación de conformidad con la presente Ley, su reglamento, manuales e instructivos específicos.
+En cada uno de los Centros de Reclusión del Distrito Federal y en las Instituciones Abiertas "Casa de Medio Camino", debe instalarse y funcionar un Consejo Técnico Interdisciplinario, que será el órgano colegiado encargado de determinar las políticas, acciones y estrategias para la mejor funcionalidad de dichos Centros, además de determinar los tratamientos que deben aplicarse a los internos(as), para fomentar la reinserción social y en su caso, lograr su reinserción de conformidad con la presente Ley, su reglamento, manuales e instructivos específicos.
 
-Por lo que hace a los elementos de seguridad que infrinjan lo dispuesto por la presente Ley y otros ordenamientos aplicables, serán sancionados por el Consejo Técnico Interdisciplinario.
+Por lo que hace a los elementos de seguridad que infrinjan lo dispuesto por la presente Ley y otros ordenamientos aplicables, serán sancionados por el Consejo de Honor y Justicia.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 17.
 
-El Consejo garantizará a los internos en reclusión el derecho a ser informados del procedimiento en su contra; a ser oídos; a recibir las pruebas que presenten para su defensa; y a disponer de un traductor o intérprete en el caso que lo requieran. Las resoluciones deberán estar debidamente fundadas y motivadas, y notificarse por escrito al interno.
+El Consejo garantizará a los y las internas los presupuestos del debido proceso legal, estableciendo el derecho a ser informados del procedimiento en su contra; a ser oídos; contar con defensor, de oficio o particular, a recibir las pruebas que presenten para su defensa; disponer de un traductor o intérprete en el caso que lo requieran, entre otros.
 
 ###### Artículo 18.
 
@@ -342,33 +442,43 @@ El funcionamiento y operación del Consejo Técnico Interdisciplinario de los Ce
 
 ## TÍTULO SEGUNDO. De la Reinserción Social
 
-### CAPÍTULO I. De los Derechos de los Internos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO I. De los Derechos de las personas privadas de su Libertad
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 19.
 
-Las Autoridades del Sistema Penitenciario respetarán los derechos humanos y libertades fundamentales de los internos, garantizando su libre y pleno ejercicio, salvo los que le son suspendidos por resolución judicial y los límites estrictamente necesarios para la seguridad y disciplina interna en los Centros de Reclusión, así como los demás límites establecidos en las leyes y en los tratados internacionales.
+Las Autoridades del Sistema Penitenciario respetarán los derechos humanos y libertades fundamentales de las personas privadas de la libertad, garantizando su libre y pleno ejercicio, salvo los que le son suspendidos por resolución judicial y los límites estrictamente necesarios para la seguridad y disciplina interna en los Centros de Reclusión, así como los demás límites establecidos en las leyes y en los tratados internacionales.
 
-La Interpretación de los derechos se deberá hacer a la luz de la norma más favorable a los internos sujetos a la regulación de esta ley.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 20.
 
-Todo interno en los Centros de Reclusión tendrá acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Queda prohibida toda discriminación motivada por origen étnico o nacional, edad, discapacidad, condición social, condiciones de salud, situación jurídica, religión, opiniones, o cualquier otro tipo de discriminación que atente contra la dignidad humana.
+Todo interno e interna en los Centros de Reclusión, así como en la Institución Abierta Casa de Medio Camino gozará del mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+
+Disponiendo de un traductor o intérprete en el caso de que lo requiera, Queda prohibida toda discriminación motivada por origen étnico o nacional, edad, discapacidad, condición social, condiciones de salud, situación jurídica, religión, opiniones, o cualquier otro tipo de discriminación que atente contra la dignidad humana.
 
 ###### Artículo 21.
 
 A todo interno a su ingreso, se le debe entregar un ejemplar de esta Ley y del Reglamento correspondiente. La autoridad lo complementará con un programa obligatorio de información, a través de cursos o pláticas, a efecto de garantizar su conocimiento y la comprensión del régimen general de vida en la institución, así como sus derechos y obligaciones. En los casos de internos con discapacidad para leer o analfabetas, es responsabilidad de la autoridad administrativa hacer del conocimiento el contenido de los documentos mencionados, y en el caso de aquellos internos que desconozcan el idioma español, solicitar ante la autoridad correspondiente la asistencia de traductor o intérprete.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 22.
 
-Todo interno recibirá por parte de las autoridades y de sus compañeros un trato digno y humano en todo momento. Se prohíbe por tanto toda forma de violencia psico-emocional, física, patrimonial, económica y sexual, así como actos, decisiones o procedimientos que provoquen una lesión o tengan como finalidad anular la personalidad y menoscabar la dignidad de los internos. La autoridad no podrá realizar en ningún caso, actos que se traduzcan en tratos crueles, inhumanos o degradantes, torturas o cualquier tipo de extorsión.
+Las autoridades penitenciarias están obligadas a garantizar que todo interno e interna reciba por parte de las autoridades y de sus compañeros un trato digno y humano en todo momento.
+
+Lo mismo se aplicara a los beneficiados, que se encuentran dentro de las instituciones abiertas, Casas de Medio Camino varoniles y femeniles, así como a los arrestados en el Centro de Sanciones Administrativas y de Reinserción Social.
+
+Se prohíbe por tanto toda forma de violencia psico-emocional, física, patrimonial, económica y sexual, así como actos, decisiones o procedimientos que provoquen una lesión o tengan como finalidad anular la personalidad y menoscabar la dignidad de los internos(as). La autoridad no podrá realizar en ningún caso, actos que se traduzcan en tratos crueles, inhumanos o degradantes, torturas o cualquier tipo de extorsión.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 23.
 
-Todos los servicios que se brindan en los Centros de Reclusión a los Internos, a sus familiares, visitantes y a sus defensores serán gratuitos, salvo los casos que expresamente determine esta Ley y la normatividad aplicable.
-
-Los principios de legalidad y debido proceso regirán también en los procesos disciplinarios que al interior de los Centros de Reclusión se lleven a cabo.
-
-Los procesados que se encuentren en prisión preventiva deberán permanecer separados de los sentenciados en establecimientos diferentes.
+Todos los servicios que se brindan en los Centros de Reclusión a las personas privadas de su libertad, a sus familiares, visitantes y a sus defensores serán gratuitos, salvo los casos que expresamente determine esta Ley y la normatividad aplicable.
 
 ###### Artículo 24.
 
@@ -378,13 +488,19 @@ El sistema penitenciario no impondrá más medidas disciplinarias ni restriccion
 
 De las Comunicaciones del Interno Con su Representante Legal.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 25.
 
-Los internos en los Centros de Reclusión tendrán derecho en cualquier momento a entrar en contacto con su representante legal y en ningún caso el personal de la institución tendrá derecho a escuchar las conversaciones de éstas con sus defensores. La visita de los defensores se llevará a cabo en áreas especialmente acondicionadas para ello, mismas que contarán con la privacidad adecuada. El director del Centro de Reclusión tomará las medidas necesarias para que el acceso de los defensores autorizados por los internos quienes deberán estar acreditados ante la dirección del centro, sea inmediatamente facilitado todos los días del año.
+Los internos e internas en los Centros de Reclusión tendrán derecho en cualquier momento a entrar en contacto con su representante legal y en ningún caso el personal de la Institución tendrá derecho a escuchar las conversaciones de éstas con sus defensores
+
+La visita de los defensores(as) se llevará a cabo en áreas especialmente acondicionadas para ello, mismas que contarán con la privacidad adecuada. El Director del Centro de Reclusión tomará las medidas necesarias para que el acceso de los defensores autorizados, quienes deberán estar acreditados ante el Centro, sea inmediatamente facilitado todos los días del año, dentro de los horarios establecidos en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 26.
 
-Las autoridades de los Centros de Reclusión, otorgarán todas las facilidades a los internos desde su ingreso, para que se comuniquen telefónicamente con sus familiares y defensores con un máximo de cinco números telefónicos a los cuales se pueda comunicar. La comunicación con el exterior incluye la realización de llamadas telefónicas a través de casetas telefónicas que serán instaladas en cada uno de los dormitorios de los Centros de Reclusión. Quedarán restringidas por razones de seguridad, las llamadas realizadas a través de teléfonos celulares y cualquier otro medio de comunicación, que impida detectar el origen de una llamada.
+Las autoridades de los Centros de Reclusión, otorgarán todas las facilidades a los internos(as) desde su ingreso, para que se comuniquen telefónicamente con sus familiares y defensores. La comunicación con el exterior incluye la realización de llamadas telefónicas a través de casetas telefónicas que serán instaladas en cada uno de los dormitorios de los Centros de Reclusión.
 
 ### CAPÍTULO III. Del Derecho al Trabajo y al Culto
 
@@ -394,13 +510,13 @@ Todos los internos tendrán derecho a la profesión y al culto de su religión, 
 
 Las autoridades de los Centros de Reclusión procurarán un espacio adecuado para que tales actividades puedan llevarse a cabo, sin otorgar privilegio a culto alguno. Los directores de los Centros de Reclusión podrán autorizar el ingreso temporal a ministros de culto religioso siguiendo las normas de seguridad establecidas en esta Ley.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 28.
 
-Los procesados y sentenciados tendrán derecho a desempeñar un trabajo con una remuneración económica, la cual no será menor al salario mínimo vigente en el Distrito Federal; para ello, las autoridades tienen obligación de proveer fuentes de empleo en los Centros de Reclusión.
+Las y los internos tendrán derecho a desempeñar un trabajo productivo, para ocuparlos durante el tiempo de la jornada laboral conforme a la ley, con una remuneración económica, la cual no será menor al salario mínimo vigente en el Distrito Federal y que les permita obtener una ganancia suficiente al obtener su libertad. Para ello, las autoridades tienen obligación de proveer fuentes de empleo en algún oficio útil, de acuerdo a las características de la economía local, en los centros de reclusión.
 
-El trabajo penitenciario no debe tener carácter aflictivo, no será aplicado como medida de corrección, ni atentará contra la dignidad del interno.
-
-Queda prohibido que un interno trabaje para otro.
+La autoridad podrá proveer de oportunidades laborales a las personas internas para el propio sistema penitenciario, como para empresas privadas.
 
 ###### Artículo 29.
 
@@ -418,9 +534,11 @@ La Subsecretaría podrá contratar a los internos que así lo deseen para realiz
 
 La Subsecretaria podrá realizar convenios con empresas privadas con objeto de impulsar la actividad industrial dentro de los centros.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 32.
 
-El Gobierno del Distrito Federal podrá implementar un programa de incentivos fiscales para las personas físicas y morales, con las que se celebren convenios para la realización de actividades laborales por los internos en las instituciones del Sistema Penitenciario del Distrito Federal.
+El Gobierno del Distrito Federal podrá implementar un programa de incentivos fiscales para las personas físicas y morales, con las que se celebren convenios para la realización de actividades laborales por los internos(as) en las instituciones del Sistema Penitenciario del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -428,37 +546,65 @@ En todos los Centros de Reclusión regirá un horario, que será puntualmente cu
 
 ### CAPÍTULO IV. Educación
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 34.
 
-Todo sentenciado tendrá derecho a la educación, para lo cual la Subsecretaría desarrollará, con las autoridades competentes, los programas de estudio correspondientes a los niveles básico, medio, medio superior y superior, mismos que tendrán validez oficial.
+Todo interno(a) tendrá derecho a la educación, para lo cual la Subsecretaría garantizará que se cumplan, en coordinación con las autoridades competentes, los programas de estudio correspondientes a los niveles básico, medio, medio superior y superior, mismos que tendrán validez oficial.
 
 ### CAPÍTULO V. Actividades Deportivas y Culturales
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 35.
 
-Las actividades deportivas y culturales son aquellas que los internos llevan a cabo para su propio esparcimiento, diversión y mantenimiento de su condición física e intelectual y que no se inscriben en las categorías anteriores.
+Las actividades deportivas y culturales son aquellas que los internos(as) llevan a cabo para su propio esparcimiento, diversión y mantenimiento de su condición física e intelectual y que no se inscriben en las categorías anteriores.
 
 ### CAPÍTULO VI. De la Salud
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 36.
 
-Los Centros de Reclusión del Distrito Federal contarán permanentemente con servicios médicos-quirúrgicos generales; los especiales de psicología, de psiquiatría y odontología, y en los centros femeniles adicionalmente con servicios de ginecología, obstetricia y pediatría dependientes de la Secretaría de Salud, quienes proporcionarán dentro del ámbito de su exclusiva competencia, la atención médica que los internos requieran.
+Las personas privadas de la libertad gozarán del derecho a la salud, entendida como el disfrute del más alto nivel de bienestar físico, mental y social.
 
-La Secretaría de Salud deberá desarrollar un programa permanente de supervisión del servicio que brinda el personal médico. La Secretaría de Salud elaborará también un Manual Específico de Criterios Técnicos para la organización médica sanitaria de los Centros de Reclusión, para las medidas preventivas que garanticen el derecho a la protección de la salud de los internos e internos pacientes y establezcan las condiciones sanitarias dignas para albergar a la población penitenciaria.
+Los Centros de Reclusión del Distrito Federal contarán permanentemente con servicios médicos-quirúrgicos generales; los especiales de psicología, de psiquiatría y odontología, y en los centros femeniles con servicios de ginecología, obstetricia y pediatría y aquellos que se requieran para la atención de las enfermedades, quienes proporcionarán dentro del ámbito de su exclusiva competencia, la atención médica que los internos(as) requieran.
+
+La Secretaría de Salud diseñará un Programa permanente que asegure la atención de las personas privadas de la libertad y elaborará también un Manual Específico de Criterios Técnicos para la organización médica sanitaria de los Centros de Reclusión, para las medidas preventivas que garanticen el derecho a la protección de la salud de los internos e internas.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 37.
 
-Existirá en los Centros de Reclusión un programa para el tratamiento médico de los internos con problemas de adicción, bajo la supervisión de los responsables de los servicios de salud. Dicho programa será permanente y voluntario.
+Existirá en los Centros de Reclusión un programa para el tratamiento integral de las personas privadas de la libertad con problemas de adicción, bajo la supervisión de los responsables de los servicios de salud, de la Subsecretaría del Sistema Penitenciario y especialistas en la materia. Dicho programa será permanente y voluntario.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 38.
 
-El personal médico de los Centros de Reclusión, que detecte casos de enfermedades infectocontagiosas tomará las medidas preventivas necesarias para que no se propaguen al resto de la población penitenciaria. Las unidades médicas de los Centros de Reclusión tendrán programas permanentes de mantenimiento, higiene y limpieza.
+El personal de los Centros de Reclusión, que detecte casos de enfermedades infectocontagiosas, lo comunicará al área médica, quien tomará las medidas para su atención.
+
+Las unidades médicas de los Centros de Reclusión tendrán programas permanentes de mantenimiento, higiene y limpieza.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 39.
 
-Las personas con enfermedades crónicas, graves, incurables o terminales tendrán derecho a atención médica especializada. En caso de no ser posible hacerlo en los establecimientos del Sistema Penitenciario, será responsabilidad de las autoridades correspondientes que tal atención se les brinde en establecimientos del Sistema de Salud del Distrito Federal. En caso de enfermedades terminales, la autoridad correspondiente, en el ámbito de sus facultades, deberá proponer la posibilidad de la preliberación del interno enfermo, a fin de que permanezca con familiares o personas cercanas o en un hospital público o privado.
+Las personas con enfermedades crónicas, graves y quienes lo requieran, tendrán derecho a atención médica especializada.
 
-A solicitud escrita del interno, de sus familiares o de la persona previamente designada y autorizada por aquel y previa aprobación del Consejo Técnico Interdisciplinario, podrá permitirse a médicos ajenos al sistema de salud penitenciario que lo examinen y lo traten, previa autorización del responsable de los servicios de salud del centro del que se trate. En este caso, cualquier costo que se origine correrá por cuenta exclusiva del interno o de quien en su nombre haya solicitado el programa externo; el Centro de Reclusión y los servicios de salud del mismo se verán deslindados de toda responsabilidad profesional respecto al tratamiento aplicado, al diagnóstico emitido y a las consecuencias médicas de ambos.
+En caso de no ser posible hacerlo en los establecimientos del Sistema Penitenciario y del Sistema de Salud del Distrito Federal, será responsabilidad de las autoridades correspondientes realizar los esfuerzos necesarios para que ésta se les garantice.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+En caso de enfermedades terminales, graves, precario estado de salud y/o senilidad, la autoridad correspondiente, en el ámbito de sus facultades, deberá proponer la posibilidad de la modificación de la pena privativa de libertad de la persona, a fin de que permanezca con familiares o personas cercanas o en un hospital público o privado.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 39 Ter.
+
+Toda persona privada de la libertad, tiene derecho a una segunda opinión médica. Las bases para su ejercicio se encontrarán reguladas en el Reglamento que sobre la prestación de servicios médicos en centros de reclusión se expida.
 
 ###### Artículo 40.
 
@@ -476,9 +622,13 @@ Todo interno tendrá derecho a una alimentación sana, higiénica y balanceada, 
 
 Los internos deberán disponer de agua en cantidad suficiente y condiciones salubres, aceptables, accesibles y asequibles para el uso personal, incluida una cantidad mínima aceptable de agua caliente para la higiene personal, agua potable para beber, y en general, para cubrir sus necesidades.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 44.
 
-Para la seguridad y la salud visual de los internos, todas las instalaciones de los Centros de Reclusión deberán contar con luz natural donde sea posible ésta, así como instalaciones eléctricas. Queda prohibida la existencia de celdas, dormitorios o de áreas destinadas a la estancia de los internos, que carezcan de luz.
+Todas las instalaciones de los Centros de Reclusión deberán contar con luz natural donde sea posible ésta, así como instalaciones eléctricas. Queda prohibida la existencia de celdas, dormitorios o de áreas destinadas a la estancia de los internos e internas, que carezcan de luz.
+
+Asimismo, deberán contar con ventilación, incluyendo los pasillos, las celdas y dormitorios, así como en los espacios donde laboran los internos(as).
 
 ###### Artículo 45.
 
@@ -490,9 +640,15 @@ Todos los internos, dispondrán de una estancia digna para permanecer, pernoctar
 
 ### Capítulo VII. Visita General y Visita Íntima
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 47.
 
-Es un derecho de los internos conservar y fortalecer las relaciones familiares, de amistad y de compañerismo. El interno, como mínimo una vez a la semana, tendrá derecho a un espacio de visita íntima y a la visita general que podrá ingresar durante el día, de conformidad con el instructivo de acceso a los Centros Reclusión del Distrito Federal.
+Es un derecho de las y los internos conservar y fortalecer las relaciones familiares, de amistad y de compañerismo. Como mínimo una vez a la semana, tendrán derecho a un espacio de visita íntima y a la visita general que podrá ingresar durante el día, de conformidad con el instructivo de acceso a los Centros (sic) Reclusión del Distrito Federal.
+
+Existirán en los Centros de Reclusión áreas adecuadas, limpias y dignas para la realización de la visita general e íntima. Es una obligación de las autoridades correspondientes tomar las medidas apropiadas para ello.
+
+No podrá impedirse la visita íntima por cuestiones de enfermedad de cualquiera de las partes.
 
 ###### Artículo 48.
 
@@ -506,59 +662,83 @@ Existirán en los Centros de Reclusión áreas adecuadas y dignas para la realiz
 
 En el espacio para la visita intima queda estrictamente prohibido el ingreso a menores y deberá contar con las condiciones para respetar la intimidad de las personas.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 50.
 
 Ninguna persona que visite los Centros de reclusión podrá ingresar a ellos con objetos, vestimenta o alimentos no permitidos por el Reglamento o por los manuales correspondientes.
 
-Será obligación de las autoridades dar la máxima publicidad sobre la vestimenta, objetos, y alimentos prohibidos, con la finalidad de inhibir actos de corrupción. En los lugares de revisión deberán existir instrumentos de videograbación que permitan documentar los procesos y las revisiones. En lo conducente se deberá aplicar a dichos instrumentos lo establecido por la Ley de “videocámaras”
+Será obligación de las autoridades dar la máxima publicidad sobre la vestimenta, objetos, y alimentos prohibidos, con la finalidad de inhibir actos de corrupción. En los lugares de revisión deberán existir instrumentos tecnológicos de videograbación que permitan documentar los procesos y las revisiones.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 51.
 
-El personal de la institución, las personas visitantes y los objetos que se desee introducir del exterior serán revisados por el personal de seguridad, debiendo utilizar para ello equipos electrónicos a fin de evitar la contaminación de alimentos y daños a los objetos.
+El personal de la institución será revisado por los Supervisores de Aduanas. Las personas visitantes y los objetos que se desee introducir del exterior, serán revisados por el personal de seguridad, debiendo utilizar para ello equipos electrónicos a fin de evitar la contaminación de alimentos y daños a los objetos.
 
-Las revisiones corporales se practicarán en los lugares específicamente destinados para ello, por personas del mismo género que la persona revisada, sin vulnerar la integridad personal.
+Queda prohibido todo contacto físico entre cualquier servidor público y las o los visitantes, además de obligar a las personas visitantes a desnudarse y realizar actos que vulneren su dignidad e integridad personal, con el pretexto de buscar objetos prohibidos al interior de los Centros de Reclusión.
 
-Queda prohibido obligar a las personas visitantes a desnudarse y realizar actos que vulneren su dignidad e integridad, con el pretexto de buscar objetos prohibidos al interior de los Centros de Reclusión.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 52.
 
-Es obligación de las autoridades realizar las revisiones mediante aparatos electrónicos y en caso de que exista evidencia suficiente para presumir que porta algún tipo de objeto prohibido, sólo el personal médico de la Secretaría de Salud realizará un examen bajo estricto apego a los lineamientos establecidos para este tipo de revisiones, para lo cual se llevarán a cabo en la unidad médica, bajo estrictas condiciones de higiene y con los instrumentos adecuados.
+Es obligación de las autoridades realizar las revisiones mediante aparatos electrónicos y en caso de que exista evidencia suficiente para acreditar que porta algún tipo de objeto prohibido, se actuará de acuerdo a las disposiciones previstas en el Reglamento de la presente Ley.
 
-En el área de revisiones deberá estar presente también, personal adscrito a la Subdirección Jurídica del Centro de Reclusión, así como de la Mesa de Derechos Humanos del centro de que se trate.
+El personal que deberá de estar presente en el área de revisión, serán los Técnicos de Seguridad así como del módulo de Derechos Humanos.
 
-La visita se podrá suspender temporalmente mediante resolución fundada y motivada por parte del Consejo, misma que será notificada al interno.
+La visita se podrá suspender temporalmente mediante resolución fundada y motivada por parte del Consejo, misma que será notificada al interno(a) previo a su audiencia de Ley, en la cual manifestará lo que a su derecho convenga.
 
 ### CAPÍTULO VIII. De las Mujeres en Prisión
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 53.
 
-La Subsecretaría garantizará espacios adecuados y separados de la población general en los Centros de Reclusión femenil para las madres internas, cuyos hijos menores de edad permanezcan con ellas, y las condiciones necesarias para la estancia de los menores de edad. Cuando el Consejo determine que la permanencia de un menor de edad en el Centro de Reclusión es nociva para su desarrollo biopsicosocial, solicitará la intervención de las autoridades competentes en materia de protección al menor.
+Las mujeres deberán estar en centros diferentes a los de los hombres.
+
+La Subsecretaría también garantizará espacios adecuados y separados de la población general en los Centros de Reclusión femeniles para las madres internas, cuyos hijos menores de edad permanezcan con ellas, y las condiciones necesarias para su estancia. En toda determinación o resolución relativa a madres internas cuyos hijos permanezcan con ellas se garantizará el interés superior del niño.
+
+La Subsecretaría destinará personal técnico calificado en disciplinas para la atención y desarrollo integral de niñas y niños, el cual se encargará de dar seguimiento a los menores de edad que permanecen con sus madres internas. Se garantizará que en toda determinación que afecte o modifique la situación de un niño o niña se tome en cuenta la opinión de la madre.
+
+Cuando derivado del seguimiento y una vez agotadas medidas alternativas, se considere que la permanencia de un niño o niña en el Centro de Reclusión es nociva para su desarrollo biopsicosocial, se solicitará la intervención de las autoridades competentes en la protección a menores de edad.
+
+Cuando se separe a los niños de sus madres antes de que cumplan seis años, se adoptarán medidas encaminadas a fortalecer sus lazos afectivos brindando espacio y tiempo para ello.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 54.
 
-La Secretaría de Salud tomará las medidas necesarias para que las internas den a luz en instalaciones de segundo nivel o en instituciones médicas distintas a las localizadas en los Centros de Reclusión.
+La Secretaría de Salud adoptará las medidas necesarias para que los hijos de las internas embarazadas nazcan en instituciones hospitalarias fuera de los centros de reclusión y de segundo nivel que cuenten con especialistas en Pediatría y Ginecoobstericia (sic).
 
 ### CAPÍTULO IX. Adolescentes en Conflicto con la Ley Penal
 
 ###### Artículo 55.
 
-En términos de lo dispuesto en el artículo 18 de la Constitución, en materia de justicia para adolescentes, se deberá contar con personal e instalaciones especializadas para el internamiento y tratamiento de los mismos, que permitan su evaluación, diseño de atención y seguimiento del tratamiento, mismo que tendrá como fin primordial la reintegración social y familiar del adolescente, así como el pleno desarrollo de su personalidad.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
 ###### Artículo 56.
 
-Los servidores públicos que tengan a su cargo el tratamiento de adolescentes internos, tendrán una preparación académica, teórico-práctica especializada en el sistema integral de justicia para adolescentes, que garantice su correcto desarrollo. En este sentido, las autoridades penitenciarias deberán seleccionar al personal, capacitarlo y entrenarlo en el sistema de justicia para adolescentes.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 7 DE AGOSTO DE 2014)</small>
 
 ### CAPÍTULO X. Del Tratamiento a Inimputables y Enfermos Mentales
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 57.
 
-Los internos inimputables y aquellos que requieran tratamiento psiquiátrico especializado, previa valoración del médico psiquiatra, deberán ser remitidos al Centro de Rehabilitación Psicosocial para que reciban el tratamiento correspondiente.
+Las personas inimputables y aquellas que requieran atención psiquiátrica y/o tratamiento especializado por presentar alguna discapacidad psicosocial, deberán permanecer en el Centro de Rehabilitación Psicosocial.
+
+Las personas que estén ubicados en los Centros de Reclusión y requieran atención médica especializada en salud mental, previa valoración del médico psiquiatra, deberán ser remitidas al Centro de Rehabilitación Psicosocial para que reciban el tratamiento correspondiente.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 58.
 
-El Director del Centro de Rehabilitación Psicosocial a petición de la autoridad judicial de ejecución de sanciones penales y Juez de la causa, informará el resultado de las revisiones periódicas que se realicen a los internos, a efecto de que se resuelva sobre la aplicación de las penas y medidas de seguridad a que hace referencia el Código Penal, en su caso, considerando las necesidades o modificación de su tratamiento médico o psiquiátrico.
+El Director del Centro de Rehabilitación Psicosocial, informará a la autoridad judicial o ejecutora, así como a las autoridades sanitarias y de desarrollo social correspondientes, el resultado de la atención y tratamiento aplicado a las y los internos inimputables y personas con discapacidad psicosocial, a fin de determinar su traslado a los Centros de Reclusión en caso de personas sentenciadas que hayan sido referidas a dicha institución o la entrega del paciente a quienes legalmente corresponde hacerse cargo.
 
-Asimismo, informará a la autoridad judicial o ejecutora, así como a las autoridades sanitarias y de desarrollo social correspondientes, el resultado del tratamiento aplicado a los internos inimputables o enfermos psiquiátricos a fin de decidir la entrega del paciente a quienes legalmente corresponde hacerse cargo del interno y de que se obliguen a tomar las medidas adecuadas para el cuidado y vigilancia del mismo, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades el cumplimiento de las obligaciones contraídas.
+Las autoridades penitenciarias deberán establecer las medidas adecuadas para verificar que las condiciones para el cuidado, vigilancia y seguimiento médico de los internos(as) que se entreguen a quienes corresponde sean compatibles con su padecimiento, garantizando por cualquier medio y a satisfacción de las mencionadas autoridades el cumplimiento de las obligaciones contraídas.
 
 ## TÍTULO TERCERO. Del Programa de Actividades Penitenciarias
 
@@ -578,7 +758,7 @@ Además, de coadyuvar a facilitar la reinserción social de los internos, el pro
 
 ###### Artículo 62.
 
-El desarrollo de las actividades estará a cargo de la Secretaría de Gobierno, a través de la Subsecretaría y las Secretarías del Trabajo y Fomento del Empleo, Educación, Cultura, Desarrollo Social, Medio Ambiente y el Inmujeres, que deberán contemplar este programa como parte de sus actividades permanentes. Cualquier actividad que se desarrolle en los Centros de Reclusión se llevará a cabo respetando los derechos humanos y dando opciones a las personas con discapacidad.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
 ###### Artículo 63.
 
@@ -640,6 +820,14 @@ IV. Centros de Rehabilitación Psicosocial; y
 
 V. Centro de Sanciones Administrativas.
 
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+VI. Institución abierta "Casa de Medio Camino" Varonil y Femenil.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+VII. Los que por Acuerdo del Jefe de Gobierno se incorporen al Sistema Penitenciario del Distrito Federal.
+
 ###### Artículo 70.
 
 Los Centros de Reclusión para indiciados y procesados serán distintos a los destinados para sentenciados y de aquellos en que deban cumplirse los arrestos.
@@ -670,15 +858,19 @@ Los centros de ejecución de sanciones penales del Distrito Federal, son aquello
 
 Los centros de alta seguridad son aquellos destinados a los internos, que por su perfil de alta peligrosidad representen un alto riesgo para la seguridad y estabilidad institucional.
 
-Los internos ubicados en los módulos de alta seguridad estarán completamente separados de las demás, y sólo podrán salir del mismo por determinación del Consejo, por determinación de la, (sic) autoridad judicial especializada en la ejecución de sanciones penales por obtener su libertad o para ser trasladadas a otro centro.
+Los internos ubicados en los módulos de alta seguridad estarán completamente separados de las demás, y sólo podrán salir del mismo por determinación del Consejo, por determinación de la, autoridad judicial especializada en la ejecución de sanciones penales por obtener su libertad o para ser trasladadas a otro centro.
 
 Sin descuidar la seguridad que requieren estos Centros, se instrumentará lo necesario a fin de que los internos disfruten de los derechos que establece la presente Ley y su Reglamento.
 
 ### CAPITULO IV. De los Centros de Rehabilitación Psicosocial
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 74.
 
-Los centros de rehabilitación psicosocial son instituciones especializada para la atención y la aplicación de programas de internos, inimputables y enfermos psiquiátricos, los cuales estarán ubicados en lugar distinto de aquellos para la reclusión preventiva y la ejecución de sanciones penales.
+Los centros de rehabilitación psicosocial son instituciones especializadas en salud mental para la atención de internos e internas, inimputables y personas con discapacidad psicosocial, los cuales estarán ubicados en lugar distinto de aquellos para la reclusión preventiva y la ejecución de sanciones penales.
+
+Dichas instituciones deberán contar con personal especializado en temas de salud mental, quienes en coordinación con las autoridades penitenciarias, brindarán atención médica y farmacológica, además de diseñar programas de tratamiento y rehabilitación para la población ambulatoria y de origen del Centro.
 
 ### CAPITULO V. De los Centros de Sanciones Administrativas
 
@@ -688,25 +880,45 @@ El Centro de Sanciones Administrativas es la institución para el cumplimiento d
 
 El Director de esta Institución se apoyará en personal jurídico, técnico, administrativo y de seguridad que el presupuesto de egresos del Distrito Federal autorice. El Director no permitirá, bajo su estricta responsabilidad, el internamiento de personas que sean remitidas sin las resoluciones a que alude el párrafo anterior, debiendo verificar que se señale el tiempo exacto del arresto, computándose éste desde el momento de la detención.
 
-### CAPÍTULO I. Cómputo de la Sentencia
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-### CAPÍTULO II. Ingreso
+### CAPÍTULO VI. De las Instituciones Abiertas "Casas de Medio Camino"
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 75 Bis.
+
+Las Instituciones Abiertas "Casas de Medio Camino, Varonil y Femenil", son las instituciones destinadas a proporcionar a los beneficiados un tratamiento técnico individualizado, asegurando el buen funcionamiento con base en la aplicación de políticas, normas y reglamentos, así como la adecuada ejecución de los programas de tratamiento técnico interdisciplinario, basados en el respeto de los Derechos Humanos y coadyuvando en el proceso de reincorporación socio-familiar de la población beneficiada, procurando que no vuelva a delinquir.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPITULO VII. De la Protección Civil en los Centros de Reclusión
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 75 Ter.
+
+Al interior de cada uno de los Centros Penitenciarios, se contará con al menos una unidad de protección civil; las cuales deberán ser validadas y verificadas por la Secretaría de Protección Civil. La normatividad reglamentaria contemplará la organización y procedimientos respectivos.
+
+Las y los internos podrán formar parte del cuerpo de protección civil, para ello, deberán ser capacitados por la Secretaría de Protección Civil del Distrito Federal, quien de manera coordinada con la Secretaría de Gobierno se encargará de la actualización de los programas de capacitación y/o actividades que se realizan para el mejoramiento de dichas unidades, así como de la dotación del material adecuado y seguro para la realización de las actividades correspondientes.
 
 ## TÍTULO QUINTO. Régimen Penitenciario
 
-### CAPÍTULO III. Ubicación
+### CAPÍTULO I. Cómputo de la Sentencia
 
 ###### Artículo 76.
 
-La ejecución de las penas iniciará en el momento en que la sentencia se declare ejecutoriada por el tribunal competente.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
-Una vez declarada ejecutoriada la sentencia, el tribunal competente deberá ordenar su cumplimiento y remitirá copia certificada de la misma a la autoridad judicial especializada en la ejecución de sanciones penales y al Director del centro de reclusión donde se encuentre el sentenciado o donde deba ingresar. La autoridad judicial especializada en la ejecución de sanciones penales deberá informar de inmediato a la persona sentenciada, a su abogado defensor, a la Subsecretaría, al Instituto y a la Procuraduría.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 77.
 
-Un mes antes de que el interno vaya a salir de prisión, la autoridad judicial especializada en la ejecución de sanciones penales y la Dirección del Centro de Reclusión deberá comunicar a la Subsecretaría, quien a su vez lo hará del conocimiento del Instituto, a fin de que esta inicie las gestiones para incorporarlo a programas de reinserción social.
+Un mes antes de que el interno(a) vaya a salir de prisión, la Dirección del Centro de Reclusión deberá comunicar a la Subsecretaría, quien a su vez lo hará del conocimiento del Instituto, a fin de que esta inicie las gestiones para incorporarlo a programas de reinserción social.
 
-### CAPÍTULO IV. Traslados
+La Subsecretaria por conducto del Centro Penitenciario, deberá notificar con cuando menos cinco días hábiles previos el compurgamiento de las penas de prisión al Juez de Ejecución de Sanciones, para que a su vez emita el oficio de compurgamiento.
+
+### CAPÍTULO II. Ingreso
 
 ###### Artículo 78.
 
@@ -728,9 +940,13 @@ VI. Para el caso de arrestos por determinación de autoridad competente.
 
 Los internos sobre los cuales recayó una sentencia condenatoria ejecutoriada, tendrán derecho a que se les traslade a un Centro de Reclusión cercano a su domicilio o al de su familia, de acuerdo con los convenios nacionales e internacionales vigentes. No obstante lo anterior, los indiciados y procesados no podrán ser trasladados a los Centros de Reclusión y los sentenciados ejecutoriados que se encuentran en ellos, no podrán regresar a los mismos, aún en el caso de la comisión de un nuevo delito, excepción hecha de los casos en que así lo determine la autoridad judicial por haberse acreditado plenamente el riesgo en la seguridad institucional o de los internos. A quienes se les dicte sentencia y ésta haya causado ejecutoria, a la brevedad posible deberán ser trasladadas a los Centros de Reclusión.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 80.
 
-Al ingreso al Centro de Reclusión, el interno será inmediatamente examinado y certificado por personal médico dependiente de la Secretaría de Salud del Distrito Federal, a fin de conocer con precisión su estado de salud físico y mental.
+Al ingreso al Centro de Reclusión, la o el interno será inmediatamente certificado(a) y valorado(a) integralmente por personal médico dependiente de la Secretaría de Salud del Distrito Federal, a fin de conocer con precisión su estado de salud físico y mental.
+
+En caso que, por su estado de salud el interno(a) requiera tratamiento médico y farmacológico, este será proporcionado a partir de dicha valoración, si presenta enfermedad psiquiátrica y/o trastorno mental que requiera atención farmacológica, se garantizará el suministro de medicamentos, en tanto se realizan las valoraciones médicas pertinentes a fin de determinar el traslado al Centro de Rehabilitación Psicosocial.
 
 Cuando por la información recibida y del examen médico realizado a la persona que recién ingresa se encuentren signos o síntomas de golpes, malos tratos o torturas, el director del centro o en su caso quién en la ausencia del titular funja como autoridad, inmediatamente dará parte a la autoridad correspondiente.
 
@@ -740,51 +956,59 @@ Los objetos de valor, ropa y otros bienes que la persona posea a su ingreso o tr
 
 El Director del Centro de Reclusión en coordinación con el responsable del área médica, de conformidad con el padecimiento del interno, decidirá sobre el destino de los medicamentos que tuviere en su poder el interno, al momento de ingresar al Centro de Reclusión, disponiendo cuáles puede conservar para su persona y cuáles deben quedar depositados en enfermería, atendiendo las necesidades del enfermo, y las exigencias de seguridad.
 
-### CAPÍTULO V. Egresos
+### CAPÍTULO III. Ubicación
+
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN LA G. O. DE 7 DE AGOSTO DE 2014, MENCIONA QUE SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, PUBLICAN EL TEXTO MODIFICADO.</small>
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 82.
 
-Todo interno tiene derecho a una adecuada ubicación de acuerdo a su género, lugar de origen, edad, estado de salud, oficio o profesión, comisión o imputación de delito doloso o culposo, pertenencia a un sector de la población. Los internos en proceso deben estar separados de aquellos sentenciados.
-
-El Consejo vigilará que no existan condiciones de privilegio entre los internos, y que se asignen equitativamente los espacios disponibles, tomando en cuenta la ubicación.
-
-Con base en la ubicación se determinará un programa de actividades que coadyuve a promover la reinserción social del interno. El programa será propuesto por personal técnico de la institución y aprobado por el Consejo.
+Toda persona privada de la libertad, tiene derecho a una adecuada ubicación de acuerdo a su género, lugar de origen, edad, estado de salud, oficio o profesión, comisión o imputación de delito doloso o culposo, pertenencia a un sector de la población. El Consejo vigilará que no existan condiciones de privilegio entre los internos(as), y que se asignen equitativamente los espacios disponibles, tomando en cuenta la ubicación.
 
 ###### Artículo 83.
 
-Los internos no deberán permanecer más de cuarenta y cinco días naturales en el Centro de Diagnóstico, Ubicación y Determinación de Tratamiento (CDUDT). Los internos que se encuentren en el área de ingreso y en el CDUDT, no podrán tener acceso a la población común; de igual forma, aquellas que se les haya asignado un dormitorio no podrán acceder a las áreas antes mencionadas, salvo casos en que el Consejo autorice el acceso, bajo estricta supervisión de las áreas técnica y de seguridad del centro.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
 ###### Artículo 84.
 
-En los Centros de Reclusión existirá un programa de Rescate y Reinserción para Jóvenes Primo delincuentes, cuyo objetivo es coadyuvar a la reinserción social de los jóvenes internos primo delincuentes el cual operará de acuerdo con el Reglamento de esta Ley y los manuales y reglas de operación específicos. Los internos que cubran los requisitos normativos para participar en el Programa, serán ubicados en un área específica del centro, en donde no entrarán en contacto con la población general.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 85.
 
-Los internos con carácter de inimputables deberán permanecer en un establecimiento separado de aquellos en que se alojan los demás internos, las mujeres separadas de los hombres, y con atención médicas, psiquiátricas y psicológicas adecuadas a su condición.
+Los internos(as) con discapacidad psicosocial que se encuentren en los centros de reclusión, deberán ser ubicados(as) de manera temporal o permanente en lugares destinados para ellos(as), en las que se deberá contar con las condiciones adecuadas para garantizar atención médica, psiquiátrica y psicológica.
 
-La autoridad ubicará a los internos con capacidades diferentes de forma temporal o permanente en las instalaciones diseñadas para alojar a esta población.
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 85 Bis.
+
+La autoridad penitenciaría ubicará a las personas con discapacidad en instalaciones accesibles, ya sea de forma temporal o permanente.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 86.
 
-Los criterios técnicos para la ubicación de la población interna estarán fundamentados sobre bases clínico-criminológicas y del comportamiento humano, su identificación con grupos de pares, hábitos, costumbres e intereses. Los citados criterios serán determinados por la Subsecretaría debiéndose considerar las características del Centro que corresponda, de manera que los Centros de Reclusión Preventiva observen la misma aplicación, al igual que los Centros de Ejecución de Sanciones Penales.
+Los criterios técnicos para la ubicación de la población interna estarán fundamentados sobre bases clínico-criminológicas y del comportamiento humano, su identificación con grupos de pares, hábitos, costumbres e intereses. Los citados criterios serán determinados por la Subsecretaría, debiéndose considerar las características del Centro que corresponda, de manera que los Centros de Reclusión Preventiva observen la misma aplicación, al igual que los Centros de Ejecución de Sanciones Penales.
 
-El Centro de Diagnóstico, Ubicación y Determinación de Tratamiento, realizará los estudios técnicos de personalidad necesarios del interno y presentará el caso ante el Consejo Técnico Interdisciplinario correspondiente, en donde se analizará y decidirá su ubicación, de acuerdo con los criterios establecidos por la Dirección General.
+El Centro de Diagnóstico, Ubicación y Determinación de Tratamiento, realizará los estudios técnicos de personalidad necesarios del interno(a) y presentará el caso ante el Consejo Técnico Interdisciplinario correspondiente, en donde se analizará y decidirá su ubicación, de acuerdo con los criterios establecidos por la Subsecretaría.
 
-Aquellos internos que cubran el perfil para acceder al Programa de Rescate y Reinserción para Jóvenes Primodelincuentes, serán destinados de inmediato al espacio asignado para la instrumentación del mismo.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 87.
 
-Una vez determinada la clasificación por parte del Consejo, se procederá a ubicar al interno en el dormitorio correspondiente, de acuerdo con el Reglamento de esta Ley.
+Una vez determinada la clasificación por parte del Consejo, se procederá a ubicar al interno o interna en el dormitorio correspondiente, de acuerdo con el Reglamento de esta Ley.
 
-Los internos que se encuentren en el área de ingreso y en el Centro de Diagnóstico, Ubicación y Determinación de Tratamiento, no podrán tener acceso a la población común; de igual forma, aquellos que se les haya asignado un dormitorio no podrán acceder a las áreas antes mencionadas, salvo casos en que el Consejo Técnico Interdisciplinario autorice el acceso, bajo estricta supervisión de las áreas técnica y de seguridad del Centro de que se trate.
+Los(as) internos(as) que se encuentren en el área de ingreso y en el Centro de Diagnóstico, Ubicación y Determinación de Tratamiento, no podrán tener acceso a la población común; de igual forma, aquellos que se les haya asignado un dormitorio no podrán acceder a las áreas antes mencionadas, salvo casos en que el Consejo Técnico Interdisciplinario autorice el acceso, bajo estricta supervisión de las áreas técnica y de seguridad del Centro de que se trate.
 
-El interno que haya sido clasificado y ubicado en un área, zona o dormitorio en particular podrá impugnarla ante la autoridad judicial especializada en la ejecución de sanciones penales, conforme a lo establecido en el capítulo de recursos de impugnación.
+### CAPÍTULO IV. Traslados
 
-### CAPÍTULO VI. Seguridad
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 88.
 
-Los traslados permanentes, eventuales o transitorios a otro centro de reclusión de los internos se podrán realizar sólo por las siguientes razones:
+Los traslados permanentes, eventuales o transitorios a otro centro de reclusión de los internos(as) se podrán realizar sólo por las siguientes razones:
 
 I. Cambio de su situación jurídica;
 
@@ -792,35 +1016,47 @@ II. Cambio de dependencia de autoridad judicial;
 
 III. Para tratamiento médico;
 
-IV. Por seguridad individual o institucional fundamentada;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+
+IV. Por seguridad individual o institucional motivada y fundamentada;
 
 V. Para la observancia del régimen de visitas;
 
 VI. Por determinación de las autoridades especializadas en la ejecución de sanciones penales.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 89.
 
-Los traslados para la práctica de diligencias judiciales o para la atención médica especial deben fundamentarse en el requerimiento de la autoridad competente o en la orden o dictamen médico respectivo. Sólo procederá el traslado a hospitales particulares cuando no se pueda atender la enfermedad del interno en las unidades médicas, clínicas u hospitales de la red del Distrito Federal, y en su caso, de la Federación. En ningún caso el traslado será oneroso para el interno.
+Los traslados para la práctica de diligencias judiciales o para la atención médica especial deben fundamentarse en el requerimiento de la autoridad competente, en la orden o dictamen médico respectivo.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 90.
 
-Los traslados se llevarán a cabo con autorización del Director del Centro de Reclusión y bajo la custodia y más estricta responsabilidad del personal de seguridad designado, debiendo ser acompañado el interno trasladado al menos por una persona de custodia de su mismo género. Durante los traslados, se tratará de exponer lo menos posible al interno y se tomarán disposiciones para protegerlo de cualquier riesgo.
+Los traslados en relación al artículo que antecede, se llevarán a cabo con autorización del Director del Centro de Reclusión y bajo la custodia y más estricta responsabilidad del personal de seguridad designado, debiendo ser acompañado la o el interno trasladado al menos por una persona de custodia de su mismo género. Durante los traslados, se tratará de exponer lo menos posible al interno y se tomarán disposiciones para protegerlo de cualquier riesgo.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 91.
 
-Cuando el personal médico de los servicios de salud determine necesario trasladar a un interno a otra unidad médica, ya sea para diagnóstico, tratamiento, o en casos de urgencia, solicitará su traslado a la dirección del centro de reclusión de que se trate o al funcionario que normativamente lo supla, acompañando dicha solicitud con la hoja de referencia correspondiente.
+Cuando el personal médico de los servicios de salud determine necesario trasladar a un interno(a) a otra unidad médica, ya sea para diagnóstico, tratamiento, o en casos de urgencia, solicitará su traslado a la dirección del Centro de reclusión de que se trate o al funcionario que normativamente lo supla, acompañando dicha solicitud con la hoja de referencia correspondiente.
 
-Sólo procederá el traslado a hospitales particulares cuando no se pueda atender la enfermedad del interno en las unidades médicas oficiales.
+Sólo procederá el traslado a hospitales particulares cuando no se pueda atender la enfermedad del interno(a) en las unidades médicas oficiales.
 
-Para los efectos de la visita íntima Inter-reclusorios, los internos podrán ser trasladados, previamente realizados los estudios técnicos y la autorización correspondiente, al Centro de Reclusión respectivo. Dichos traslados se podrán realizar solamente una vez a la semana.
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+Artículo 91 bis. Para los efectos de la visita íntima Inter-reclusorios, los internos(as) podrán ser trasladados, previamente realizados los estudios técnicos y la autorización correspondiente, al Centro de Reclusión respectivo. Dichos traslados se podrán realizar solamente una vez a la semana.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 92.
 
-El interno podrá ser autorizado por el Director del Centro de Reclusión o el funcionario de guardia, previo acuerdo con el Subsecretario, a salir de la Institución en los casos de fallecimiento o enfermedad grave debidamente comprobados de los padres, hijos, hermanos o de quienes constituyeran en la vida en libertad el núcleo familiar del interno, siempre y cuando su externación no represente un riesgo para la Institución y la sociedad. En estos casos, el Director de la Institución bajo su más estricta responsabilidad, fijará las condiciones y medidas de seguridad conforme a las cuales debe realizarse la salida y el regreso.
+El traslado del interno(a) podrá ser autorizado por el Director del Centro de Reclusión o el funcionario de guardia, previo acuerdo con el Subsecretario, a salir de la Institución en los casos de fallecimiento o enfermedad grave debidamente comprobados de los padres, hijos, hermanos o de quienes constituyeran en la vida en libertad el núcleo familiar del interno(a), siempre y cuando su externación no represente un riesgo para la Institución y la sociedad. En estos casos, el Director de la Institución bajo su más estricta responsabilidad, fijará las condiciones y medidas de seguridad conforme a las cuales debe realizarse la salida y el regreso.
 
-En caso de que no se autorice la salida del interno, se podrá permitir el acceso momentáneo del cuerpo del familiar fallecido al área que el Director determine.
+En caso de que no se autorice la salida del interno(a), se podrá permitir el acceso momentáneo del cuerpo del familiar fallecido al área que el Director determine.
 
-### CAPÍTULO VII. Programa Postpenitenciario
+### CAPÍTULO V. Egresos
 
 ###### Artículo 93.
 
@@ -832,23 +1068,27 @@ El Juez y la administración del Centro de Reclusión dejarán constancia del eg
 
 ###### Artículo 95.
 
-Una vez recibida la constancia de egreso por el Director del Centro de Reclusión, tomará las medidas adecuadas para que sin mayor dilación se ponga en libertad al interno mencionado en el certificado, asegurándose fehacientemente de su identidad.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
 ###### Artículo 96.
 
 La autoridad judicial, informarán con toda claridad y por escrito al interno que va a ser egresado, las consecuencias jurídicas de su egreso, las obligaciones que aún prevalecieran y los apoyos y servicios a que tiene derecho.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 97.
 
-Una vez que el interno obtenga su libertad, si es el caso, se iniciarán inmediatamente los trámites correspondientes para que le sea devuelto el saldo de los fondos de ahorro que incluya el principal e intereses con que hubiera participado en el sistema que prevén las leyes correspondientes y el Reglamento, así como las posesiones y documentos escolares que estuviesen en custodia de las autoridades del centro de que se trate.
+Una vez que el interno(a) obtenga su libertad, si es el caso, se iniciarán inmediatamente los trámites correspondientes para que le sea devuelto el saldo de los fondos de ahorro, así como las posesiones y documentos escolares que estuviesen en custodia de las autoridades del centro de que se trate.
 
-En el momento de la excarcelación se entregará al interno liberado el saldo de su cuenta de peculio, los valores y efectos depositados a su nombre.
+En el momento de la excarcelación se entregará al interno(a) liberado el saldo de su cuenta de peculio, los valores y efectos depositados a su nombre.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. Seguridad
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 98.
 
-Queda estrictamente prohibido que el personal de custodia y seguridad haga uso de la violencia con los internos.
+Queda estrictamente prohibido que el personal técnico en seguridad haga uso de la violencia con los internos(as).
 
 ###### Artículo 99.
 
@@ -856,55 +1096,75 @@ El orden y la disciplina se mantendrán con firmeza en los Centros de Reclusión
 
 El Manual de Organización y Funciones de Seguridad para los Centros de Reclusión del Distrito Federal, determinará las medidas generales de seguridad, a fin de que se garantice la misma y se conserve el orden en los Centros. El Director de cada Centro de Reclusión con base en dicho Manual, aplicará las medidas pertinentes a cada caso.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 100.
 
-El uso de la fuerza sólo podrá emplearse por el personal de seguridad, previa acta circunstanciada (sic) los hechos que motiven esta intervención y sólo en la medida racional, proporcional y necesaria para repeler agresiones violentas que pongan en peligro la integridad física de cualquier persona dentro del Centro de Reclusión, o se altere el orden o la seguridad del mismo, como lo señalan los estándares internacionales y la Ley local sobre la materia.
+El uso de la fuerza sólo podrá emplearse por el personal técnico en seguridad, sólo en la medida racional, proporcional y necesaria para repeler agresiones violentas que pongan en peligro la integridad física de cualquier persona dentro del Centro de Reclusión, o se altere el orden o la seguridad del mismo, como lo señalan los estándares internacionales y la Ley local sobre la materia, en razón de lo anterior y una vez controlada la situación el personal técnico en seguridad, elaborará el parte informativo correspondiente tomándolo de inmediato a la Subdirección Jurídica del Centro de Reclusión, para los Efectos legales conducentes.
 
 ###### Artículo 101.
 
-Los medios de coerción tales como esposas, cadenas y camisas de fuerza no deberán aplicarse como sanciones y sólo podrán ser utilizados como medida de precaución contra una evasión, por indicación médica o por orden del director.
+(DEROGADO, G.O. 7 DE AGOSTO DE 2014)
 
 ###### Artículo 102.
 
 Las medidas de seguridad serán establecidas por la Dirección Ejecutiva de Seguridad Penitenciaria de la Subsecretaría y por el Director del Centro de que se trate, de conformidad con lo establecido en el Manual de Organización y Funciones de Seguridad para los Centros de Reclusión del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 103.
 
-La vigilancia interna en los Centros de Reclusión será desempeñada por Dirección Ejecutiva de Seguridad Penitenciaria de la Subsecretaría. La vigilancia externa la realizará la Secretaría de Seguridad Pública de la Administración Pública del Distrito Federal.
+La vigilancia interna en los Centros de Reclusión será desempeñada por la Dirección Ejecutiva de Seguridad Penitenciaria de la Subsecretaría. La vigilancia externa la realizará la Secretaría de Seguridad Pública del Distrito Federal.
 
-En caso de emergencia grave, a juicio del Director General, el Director o funcionario de guardia del Centro de Reclusión, solicitará el auxilio e intervención en el interior de las policías preventiva y judicial, así como el de otras corporaciones de seguridad.
+En caso de emergencia grave, a juicio del Subsecretario, el Director o funcionario de guardia del Centro de Reclusión, solicitará el auxilio e intervención en el interior de las policías preventivas y de investigación, así como el de otras corporaciones de seguridad.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 104.
 
-Los Centros de Reclusión materia del presente Reglamento contarán con personal de supervisión de aduanas, adscritos a la Subdirección de Derechos Humanos de la Subsecretaría y coadyuvarán en la supervisión y control en el acceso de los mismos, además de las funciones que señale ésta Ley, su Reglamento y los manuales de organización, de operación y de funcionamiento de los Centros y Direcciones de Área de los Centros de Reclusión.
+Los Centros de Reclusión materia de la presente Ley, contarán con personal de supervisión de aduanas, adscritos a la Subdirección de Derechos Humanos de la Subsecretaría y coadyuvarán en la supervisión y control en el acceso de los mismos, además de las funciones que señale ésta Ley, su Reglamento y los manuales de organización, de operación y de funcionamiento de los Centros y Direcciones de los Centros de Reclusión.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 105.
 
-En el interior de los Centros de Reclusión el personal deberá ser preferentemente del mismo género que los internos. En el caso del personal de seguridad y custodia invariablemente deberá ser del mismo género.
+En el interior de los Centros de Reclusión el personal deberá ser preferentemente del mismo género que los internos(as). En el caso del personal Técnico en Seguridad, invariablemente deberá ser del mismo género.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 106.
 
-El Director del Centro de Reclusión deberá ordenar revisiones de cualquier área del centro, las cuales serán realizadas por personal de seguridad y custodia; asimismo, el área jurídica será notificada de forma inmediata del resultado de dichas revisiones para todos los efectos a que haya lugar.
+El Director del Centro de Reclusión podrá ordenar revisiones de cualquier área del centro, las cuales serán realizadas por personal Técnico en Seguridad; asimismo, el área jurídica será notificada de forma inmediata del resultado de dichas revisiones para todos los efectos a que haya lugar.
 
-Las revisiones serán exhaustivas y sin previo aviso en cualquier área del Centro de Reclusión a fin de detectar y retener bienes u objetos prohibidos por la normatividad. Estas podrán llevarse a cabo con la frecuencia que el Director del Centro de Reclusión considere necesario, con estricto apego y respeto a los derechos humanos.
+Las revisiones serán exhaustivas y sin previo aviso en cualquier área del Centro de Reclusión a fin de detectar y retener bienes u objetos prohibidos por la normatividad. Estas podrán llevarse a cabo con la frecuencia que el Director del Centro de Reclusión considere necesario, con estricto apego y respeto a los Derechos Humanos.
 
-### CAPÍTULO II. De la Carrera Penitenciaria y Profesionalización
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO VII. Programa Post-penitenciario
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 107.
 
-El Sistema Pospenitenciario es el conjunto de elementos articulados para apoyar a los liberados en el proceso de reinserción social, mediante actividades y programas de apoyo social que presentan las instituciones públicas, privadas y sociales. Todo aquel que haya sido internado por cualquier motivo en los Centros de Reclusión, tendrá opción a que se le gestione un trabajo al exterior, siempre y cuando el interno haya participado dentro de los programas de trabajo penitenciario y el convenio al que se inscribió así lo establezca.
+El Programa Post-penitenciario es el conjunto de elementos articulados para apoyar a los liberados en el proceso de reinserción social, mediante actividades y programas de apoyo social que presentan las instituciones públicas, privadas y sociales.
+
+Aquellas personas que hayan sido internadas por cualquier motivo en los Centros de Reclusión, tendrá opción a que se le gestione un trabajo al exterior, siempre y cuando el interno(a) haya participado dentro de los programas de trabajo penitenciario y el convenio al que se inscribió así lo establezca.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 108.
 
-La Subsecretaria suscribirá convenios con todas las Secretarías y Dependencias del Gobierno del Distrito Federal, el Tribunal y la Asamblea Legislativa del Distrito Federal, fundaciones, patronatos e instituciones privadas a fin de conformar una bolsa de trabajo, para lograr tales fines.
+El Instituto suscribirá convenios con todas las Secretarías y Dependencias del Gobierno del Distrito Federal, el Tribunal y la Asamblea Legislativa del Distrito Federal, fundaciones, patronatos e instituciones privadas a fin de conformar una bolsa de trabajo, para lograr tales fines.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 109.
 
-En caso de que el interno liberado haya estado bajo tratamiento médico, psicológico o psiquiátrico, el Instituto de Reinserción Social gestionará lo necesario para que la persona pueda continuar el tratamiento y, de ser necesario, facilitar su ingreso a las instituciones pertinentes dependientes del Gobierno del Distrito Federal.
+En caso de que la persona liberada haya estado bajo tratamiento médico, psicológico o psiquiátrico, el Instituto de Reinserción Social gestionará lo necesario para que la persona pueda continuar el tratamiento y, de ser necesario, facilitar su ingreso a las instituciones pertinentes dependientes del Gobierno del Distrito Federal.
 
 ## TÍTULO SEXTO. Del servicio profesional penitenciario
 
-### CAPÍTULO III. Del Instituto de Capacitación Penitenciaria
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 110.
 
@@ -914,15 +1174,17 @@ La Subsecretaría será la responsable de organizar el Servicio Profesional Peni
 
 El Desarrollo penitenciario es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre si que comprende la carrera del sistema penitenciario del Distrito Federal, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes del sistema penitenciario del Distrito Federal y tiene por objeto garantizar y asegurar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; así como fortalecer la vocación y sentido de pertenencia.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 112.
 
 Para efectos de este Título, los derechos y obligaciones establecidos en la Ley General del Sistema Nacional de Seguridad Pública, relativos a los servidores públicos integrantes de las Instituciones Policiales se aplicarán en lo que no se oponga a la presente Ley a los servidores públicos integrantes del sistema penitenciario.
 
-El personal de seguridad y custodia se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+El personal técnico en seguridad se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
-De conformidad con el artículo 8º de la Ley Federal de Trabajadores al Servicio del Estado, al personal de seguridad le corresponde el régimen de los empleados de confianza, con las prestaciones que establece la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, y a las que la Administración Pública del Distrito Federal otorga a sus trabajadores de confianza.
+De conformidad con el artículo 8° de la Ley Federal de Trabajadores al Servicio del Estado, al personal técnico en seguridad le corresponde el régimen de los empleados de confianza, con las prestaciones que establece la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, y a las que la Administración Pública del Distrito Federal otorga a sus trabajadores de confianza.
 
-### CAPÍTULO IV. De la Certificación
+### CAPÍTULO II. De la Carrera Penitenciaria y Profesionalización
 
 ###### Artículo 113.
 
@@ -942,7 +1204,7 @@ V. Los demás que establezcan las disposiciones que deriven de la Constitución 
 
 Los aspirantes a laborar en los Centros de Reclusión del Distrito Federal deberán presentar y aprobar los exámenes de selección, que para tal efecto determine la Dirección General de Política Laboral y Servicio Público de Carrera y la Dirección General de Administración de Personal y que aplicará el Instituto de Capacitación Penitenciaria.
 
-### CAPITULO V. Del Personal de Seguridad y Custodia
+### CAPÍTULO III. Del Instituto de Capacitación Penitenciaria
 
 ###### Artículo 115.
 
@@ -956,7 +1218,7 @@ Es obligatorio para todo el personal que labore en los Centros de Reclusión, pa
 
 El personal de los Centros de Reclusión, será conformado por los egresados del Instituto de Capacitación Penitenciaria, y será seleccionado en consideración a su vocación, aptitudes físicas e intelectuales, preparación para la función penitenciaria y antecedentes personales.
 
-### CAPITULO VI. Del Técnico Penitenciario
+### CAPÍTULO IV. De la Certificación
 
 ###### Artículo 117.
 
@@ -980,7 +1242,9 @@ c) Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacie
 
 d) Ausencia de vínculos con organizaciones delictivas;
 
-e) Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público; y
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+e) Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso y no estar suspendido o inhabilitado; y
 
 f) Cumplimiento de los deberes establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la presente Ley.
 
@@ -988,51 +1252,69 @@ f) Cumplimiento de los deberes establecidos en la Constitución Política de los
 
 El personal encargado de formar, capacitar, evaluar y certificar a los elementos adscritos al sistema penitenciario del Distrito Federal será considerado trabajador de confianza y le serán aplicadas las mismas reglas previstas en esta ley.
 
-### CAPITULO VII. Del Personal Médico
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPITULO V. Del Personal Técnico en Seguridad
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 120.
 
-El personal de seguridad y custodia formará parte del Servicio Profesional Penitenciario y estará capacitado para el uso de la fuerza y el respeto a los derechos humanos conforme a lo establecido en los estándares internacionales.
+El personal Técnico en Seguridad formará parte del Servicio Profesional Penitenciario y estará capacitado para el uso de la fuerza y el respeto a los Derechos Humanos conforme a lo establecido en los estándares internacionales.
 
-El Cuerpo de Seguridad estará organizado jerárquica y disciplinariamente, de acuerdo a lo contemplado en el Manual correspondiente. Este personal en la medida de lo posible, deberá ser rotado periódicamente, tanto de un área del centro de reclusión a otra, como de un centro de reclusión a otro.
+El Cuerpo de Seguridad estará organizado jerárquica y disciplinariamente, de acuerdo a lo contemplado en el Reglamento de la presente Ley y el Manual correspondiente. Este personal en la medida de lo posible, deberá ser rotado periódicamente, tanto de un área del centro de reclusión a otra, como de un Centro de Reclusión a otro.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 121.
 
-El personal de seguridad deberá recibir por lo menos dos veces al año un uniforme reglamentario y, exceptuando el armamento, una vez al año los demás implementos inherentes a sus funciones, mismos que deberán usar exclusivamente en el ejercicio de las mismas.
+El personal técnico en seguridad deberá recibir por lo menos dos veces al año un uniforme Reglamentario y, exceptuando el armamento, una vez al año los demás implementos inherentes a sus funciones, mismos que deberán usar exclusivamente en el ejercicio de las mismas.
 
-Asimismo no deberá portar armas de fuego al interior de los Centros de Reclusión, excepto en los casos de emergencia señalados por esta Ley. El armamento utilizado por el personal de seguridad solamente podrá ser el proveído por la Subsecretaría.
+Asimismo no deberá portar armas de fuego al interior de los Centros de Reclusión, excepto en los casos de que se encuentre en riesgo la seguridad institucional. El armamento utilizado por el personal de seguridad solamente podrá ser proveído por la Subsecretaría.
 
 En el interior de los Centros de Reclusión para mujeres, el personal de seguridad que por sus funciones requiera tener contacto físico con las internas, será exclusivamente del sexo femenino. Ésta misma disposición deberá observarse en los casos de revisiones a internas y a visitantes mujeres en todos los Centros de Reclusión.
 
-### CAPITULO I. Del Régimen Disciplinario para el personal penitenciario
+### CAPITULO VI. Del Técnico Penitenciario
 
 ###### Artículo 122.
 
 En los Centros de Reclusión existirá la figura de los técnicos penitenciarios, que tendrán, de conformidad con el Reglamento y los manuales correspondientes, la función de aplicar en conjunto con las demás autoridades de los Centros de Reclusión y de la Subsecretaría el tratamiento para llevar a cabo la reinserción social de los internos. Este personal formará parte del Servicio Profesional Penitenciario.
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DEL PERSONAL DE SEGURIDAD
+### CAPITULO VII. Del Personal Médico
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 123.
 
-El personal médico que labora en los Centros de Reclusión, tendrá la obligación de brindar protección a la salud física y mental de los internos y de tratar sus enfermedades. Los centros de salud dependerán administrativamente de la Secretaría de Salud, la cual proporcionará dentro del ámbito de su competencia, la atención médica que los internos requieran.
+El personal técnico penitenciario médico que labora en los Centros de Reclusión, tendrá la obligación de brindar protección a la salud física y mental de los internos e internas y de tratar sus enfermedades.
 
-La Subsecretaría cuidará que las instalaciones de los Servicios de Salud de cada Centro de reclusión cuenten con el personal de seguridad y custodia suficiente para garantizar la seguridad y el orden de la Unidad. Los servicios médicos de los Centros de Reclusión, velarán por la salud física y mental de la población interna y salud pública de esa comunidad, así como por la higiene general dentro de la Institución.
+Su adscripción será en la Subsecretaría de Sistema Penitenciario pero se coordinarán con las áreas médicas que dependerán administrativamente de la Secretaría de Salud, la cual proporcionará dentro del ámbito de su competencia, la atención médica que los internos(as) requieran.
 
-El personal de la Secretaría de Salud adscrito a los centros de salud dependerá operativa y jerárquicamente de las autoridades penitenciarias, de acuerdo con lo que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 7 DE AGOSTO DE 2014)</small>
 
-### CAPITULO III. DE LAS CAUSAS MOTIVO DE SANCIONES DEL PERSONAL DE SEGURIDAD
+### CAPITULO VIII. Del Personal Supervisor de Aduanas
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 123 Bis.
+
+En los Centros de Reclusión existirá la figura de los supervisores de aduana, quienes coadyuvaran en la supervisión y revisión en las aduanas de personas y de vehículos en los Centros de Reclusión, así como en la revisión corporal y de pertenencias del personal que labora en los Centros, respetando en todo momento los Derechos Humanos del personal. Este personal formará parte del Servicio Profesional Penitenciario.
 
 ## TITULO SÉPTIMO
 
-### Capítulo Único. DEL COMITÉ DE VISITA GENERAL
+### CAPITULO I. Del Régimen Disciplinario para el personal penitenciario
 
 ###### Artículo 124.
 
 Sin perjuicio de sus responsabilidades y funciones, todo el personal que labore en un Centro de Reclusión queda subordinado administrativa y operativamente al Director del mismo, aunque su adscripción sea distinta; lo anterior sin perjuicio de las actividades de supervisión que deberán de ejercer las autoridades a quienes estén adscritas y obligado a desempeñar el servicio, cargo o comisión que le sea asignado, con estricto apego a los principios de honradez, honestidad, legalidad, no discriminación, profesionalismo y respeto a los derechos humanos.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 125.
 
-Las faltas cometidas por los servidores públicos del Sistema Penitenciario, serán sancionadas conforme a la Ley Federal de Responsabilidades de los Servidores Públicos; asimismo, los hechos que puedan ser constitutivos de delito se sancionarán de acuerdo a las disposiciones penales, haciéndolos del conocimiento del agente del Ministerio Público, sin perjuicio de las medidas que en materia laboral sean conducentes.
+Las faltas cometidas por los servidores públicos del Sistema Penitenciario, serán sancionadas conforme a la Ley Federal de Responsabilidades de los Servidores Públicos, con excepción al personal técnico en seguridad, el cual será sancionado conforme a la presente Ley, el Reglamento y demás disposiciones aplicables, las cuales conocerá el consejo de honor y justicia.
+
+Así mismo los hechos que puedan ser constitutivos se sancionarán de acuerdo a las disposiciones penales, haciéndolos del conocimiento del agente del Ministerio Público, sin perjuicio de las medidas que en materia laboral sean conducentes.
 
 ###### Artículo 126.
 
@@ -1040,9 +1322,15 @@ El otorgamiento de premios, estímulos y recompensas a los trabajadores de los C
 
 Independientemente de lo señalado en el párrafo anterior, la Administración Pública del Distrito Federal, podrá otorgar otros premios, estímulos y reconocimientos en numerario, especie, en ascensos y en distinciones honoríficas al personal que se hubiere distinguido en el cumplimiento de su deber, a propuesta del titular de la Subsecretaría.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO II. De las obligaciones del Personal Técnico en Seguridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 127.
 
-Todo personal de seguridad que integra la Subsecretaría, tendrá las siguientes obligaciones:
+Todo personal técnico en seguridad que integra la Subsecretaría, tendrá las siguientes obligaciones:
 
 I. Desempeñar el servicio, cargo o comisión que le sea asignado, con estricto apego a los principios de honradez, honestidad, legalidad, no discriminación, profesionalismo y respeto a los derechos humanos;
 
@@ -1071,6 +1359,10 @@ XII. Denunciar por escrito ante el Consejo, los actos u omisiones que en ejercic
 XIII. Acatar las indicaciones y disposiciones que reciba de sus superiores en el ámbito de sus funciones por motivo de su empleo, servicio o comisión;
 
 XIV. Dar buen uso y debido cuidado a todo el equipo, armamento o material que le sea asignado para el desempeño de sus funciones y actividades.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPITULO III. De las causas motivo de sanciones del personal Técnico en Seguridad
 
 ###### Artículo 128.
 
@@ -1140,17 +1432,43 @@ XXXI. No rendición de informes en tiempo y forma;
 
 XXXII. Tener tres retardos en el mes al momento del pase de lista.
 
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO IV. Del Consejo de Honor y Justicia
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 129.
 
-El Consejo Técnico Interdisciplinario de cada Centro está facultado para, previo procedimiento, imponer las sanciones administrativas a los elementos de seguridad que cometan las conductas previstas en el artículo anterior, sin perjuicio de la responsabilidad penal que pudiera resultar a quien la lleve a cabo.
+El Consejo de Honor y Justicia del Sistema Penitenciario del Distrito Federal, es el órgano colegiado competente para conocer, investigar, substanciar y resolver sobre los actos u omisiones irregulares en los que incurran el personal de seguridad y custodia de los centros de reclusión del Distrito Federal, en el cumplimiento de sus funciones, que afecten los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, independientemente de la responsabilidad penal que pudiera generar la conducta desplegada por el o la servidora pública.
 
-Las sanciones aplicables a los servidores públicos a que se refiere el presente artículo, serán impuestas mediante resolución del Consejo Técnico Interdisciplinario, quien calificará la infracción cometida y previa garantía de audiencia y desahogo de pruebas, dictará su resolución emitiendo la sanción correspondiente.
+Las sanciones aplicables a los servidores públicos a las que se refiere el presente artículo, serán impuestas mediante resolución del Consejo de Honor y Justicia del Sistema Penitenciario del Distrito Federal, con base a lo establecido en el Reglamento de dicho Consejo, quien calificará la infracción cometida y en su caso, dictará la resolución que corresponda.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2014)</small>
+
+###### Artículo 129 Bis.
+
+Son atribuciones del Consejo de Honor y Justicia:
+
+I.- Conocer y resolver sobre las faltas en que incurran el personal Técnico en Seguridad a los principios de actuación previstos en la presente ley y en las leyes reglamentarias, así como a las normas disciplinarias que al efecto se expidan.
+
+II.- Resolver sobre la suspensión temporal y la destitución de los elementos;
+
+III.- Otorgar premios y estímulos a los que se refiere esta Ley, con arreglo a la disponibilidad presupuestal.
+
+IV- Conocer y resolver los recursos previstos en esta Ley y su Reglamento.
+
+V.- Promover la capacitación y actualización de los servidores públicos adscritos al Consejo.
+
+VI.- Las demás que establezca el Reglamento de la presente Ley y el Reglamento de dicho Consejo
 
 ###### Artículo 130.
 
 En todo momento se promoverá el respeto a las garantías individuales y derechos humanos del personal, tanto de la Subsecretaría como de los Centros.
 
 ## TÍTULO OCTAVO
+
+### Capítulo Único. DEL COMITÉ DE VISITA GENERAL
 
 ###### Artículo 131.
 
@@ -1185,3 +1503,15 @@ La Subsecretaria deberá establecer las bases para la organización del Servicio
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días del mes de noviembre del año dos mil trece.- POR LA MESA DIRECTIVA.- DIP. KARLA VALERIA GÓMEZ BLANCAS, PRESIDENTA.- DIP. BERTHA ALICIA CARDONA, SECRETARIA.- DIP. RODOLFO ONDARZA ROVIRA, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de marzo del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El Jefe de Gobierno del Distrito Federal emitirá el Reglamento de la Ley de Centros de Reclusión para el Distrito Federal, así como el Reglamento del Consejo de Honor y Justicia. Los manuales operativos, organizacionales y de procedimiento respectivos, se elaborarán por conducto de la Secretaría de Gobierno. Dichos instrumentos deberán emitirse en un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto.
