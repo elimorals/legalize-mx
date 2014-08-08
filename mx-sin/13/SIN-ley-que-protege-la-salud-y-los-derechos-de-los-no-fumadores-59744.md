@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-protege-la-salud-y-los-derechos-de-los-no-fumadores-597
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-11"
-last_updated: "2008-02-11"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE PROTEGE LA SALUD Y LOS DERECHOS DE LOS NO FUMADORES PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de febrero de 2008.
 
@@ -43,9 +43,13 @@ Ley que Protege la Salud y los Derechos de los No Fumadores para el Estado de Si
 
 Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto:
 
-I. Establecer las medidas para proteger la salud de las personas no fumadoras de los efectos que causa la inhalación involuntaria de humos producidos por la combustión de tabaco en cualquiera de sus formas, en los sitios señalados en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-II. Promover la cultura de tolerancia y respeto mutuo entre fumadores y no fumadores;
+I. Establecer las medidas para proteger la salud de las personas de los efectos que causa la inhalación de humos producidos por la combustión de tabaco en cualquiera de sus formas, en los sitios señalados en el presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II. Promover la cultura de los ambientes libres de humo de tabaco;
 
 III. Fomentar la prevención, concientización y difusión de los daños en la salud que ocasiona el tabaquismo; y
 
@@ -75,115 +79,101 @@ V. Los directivos de dependencias del sector público y de organismos privados.
 
 Ningún establecimiento de cualquier giro mercantil podrá vender cigarrillos o cualquier otra presentación de tabaco a menores de edad o a personas con discapacidad mental, ya sea en cajetilla o sueltos.
 
-Los propietarios o administradores de dichos establecimientos deberán fijar en un lugar visible, del interior del local, un anuncio donde se advierta claramente al público de la prohibición de la venta de productos de tabaco a los menores, y en caso de duda, podrán solicitar que cada comprador de tabaco demuestre mediante documento fehaciente que ha alcanzado la mayoría de edad.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+Los propietarios o administradores de dichos establecimientos deberán fijar en un lugar visible, del interior del local, un anuncio donde se advierta claramente al público de la prohibición de la venta de productos de tabaco a los menores, y en caso de duda, podrán solicitar que cada comprador de tabaco demuestre mediante identificación oficial con fotografía que ha alcanzado la mayoría de edad.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 5.
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Área abierta, a los espacios que se encuentran ubicados al aire libre;
+I. Área física cerrada con acceso al público: Todo espacio cubierto por un techo o que tenga como mínimo dos paredes o muros, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;
 
-II. Área cerrada, al espacio de un establecimiento o edificio que se encuentra separado por bardas, techos o cualquier otro material, que lo aísle del exterior;
+II. Denuncia ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 
-III. Bar, al establecimiento donde se consumen preponderantemente bebidas alcohólicas y alimentos;
+III. Dueño: La persona física o moral a nombre de quien se encuentre la licencia de operación o concesión, quien asuma esa responsabilidad con motivo de la operación o explotación del establecimiento o del vehículo de transporte público o escolar, o la persona física o moral a nombre de quien se encuentre la tarjeta de circulación del vehículo de transporte público o escolar;
 
-IV. Cafetería, al establecimiento donde se sirve café y otras bebidas, así como alimentos fríos o que requieran poca preparación;
+IV. Escuelas: Los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
 
-V. Centros ge entretenimiento, a los parques, parques de diversiones, circos, quermeses, ferias y otros similares;
+V. Espacio 100% libre de humo del tabaco: Aquella área física cerrada con acceso al público o sitios de concurrencia colectiva o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
-VI. Discoteca, al local público con horario preferentemente nocturno para escuchar música, bailar y consumir bebidas;
+VI. Espacio al aire libre: Es aquél que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición el concepto de techo no incluye sombrillas, palapas, tejabanes, techos abatibles o desmontables y lonas;
 
-VII. Dueño, al propietario, la persona física o moral a nombre de quien se encuentre la licencia de operación o concesión, quien asuma esa responsabilidad con motivo de la operación o explotación del establecimiento o del vehículo de transporte público o escolar, o la persona física o moral a nombre de quien se encuentre la tarjeta de circulación del vehículo de transporte público o escolar;
+VII. Establecimientos mercantiles: A los locales que se dedican al expendio para su consumo en el lugar, de alimentos y bebidas, como los restaurantes, bares de los restaurantes, cantinas, centros nocturnos, cervecerías, discotecas, así como los realizadores de juegos con apuestas y sorteos;
 
-VIII. Escuelas, los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
+VIII. Fumador pasivo: Persona que se encuentra sometida a inhalar el humo producto de la combustión de tabaco, como consecuencia de la cercanía con alguna persona que fuma;
 
-IX. Establecimientos mercantiles, a los locales que se dedican al expendio para su consumo en el lugar, de alimentos y bebidas, como los restaurantes, bares de los restaurantes, cantinas, centros nocturnos, cervecerías y discotecas;
+IX. Fumador: Persona que consume productos de tabaco mediante la combustión por la inhalación del mismo, bajo la forma de cigarrillo, puros u otros tabacos labrados;
 
-X. Fumador pasivo, a la persona que se encuentra sometida a inhalar involuntariamente el humo producto de la combustión de tabaco, como consecuencia de la cercanía con alguna persona que fuma;
+X. Fumar: Acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión que genere emisiones;
 
-XI. Fumador, a la persona que consume productos de tabaco mediante la combustión por la inhalación del mismo, bajo la forma de cigarrillo, puros u otros tabacos labrados;
+XI. Humo de tabaco: Emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco;
 
-XII. Fumar, a la acción y efecto de consumir tabaco mediante combustión;
+XII. Ley: Ley que Protege la Salud y los Derechos de los No Fumadores para el Estado de Sinaloa;
 
-XIII. Hoteles, a todo establecimiento, casa, casa de huéspedes, motel o cualquier otro similar que tenga por objeto brindar servicios de hospedaje;
+XIII. Lugar de trabajo interior: A toda zona fija o móvil, que cuente por lo menos con un techo y dos paredes, utilizado por las personas durante su empleo o trabajo permanente o eventual, remunerado o voluntario. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de sus funciones, incluyendo aquellos contratados para la realización de eventos;
 
-XIV. Menor de edad, a toda persona que no ha cumplido dieciocho años;
+XIV. Menor de edad: A toda persona que no ha cumplido dieciocho años;
 
-XV. Reincidencia, cuando una persona cometa violaciones a las disposiciones de esta Ley, dos o más veces, dentro del período de un año calendario, contado a partir de la aplicación de la multa inmediata anterior;
+XV. Reincidencia: Cuando una persona cometa violaciones a las disposiciones de esta Ley, dos o más veces, dentro del periodo de un año calendario, contado a partir de la aplicación de la multa inmediata anterior;
 
-XVI. Restaurante, a las fondas, cafeterías, comedores, o cualquier otro establecimiento que tenga por objeto el expendio de alimentos para su consumo en el mismo local;
+XVI. Sanción: A la pena que se establece para el que viola la presente Ley;
 
-XVII. Sanción, a la pena que se establece para el que viola la presente Ley;
+XVII. Secretaría de Salud del Gobierno del Estado: Dependencia competente de vigilar el cumplimiento de la presente Ley, así como la aplicación de las sanciones que correspondan en caso de incumplimiento;
 
-XVIII. Sección de bar y de restaurantes, al área delimitada del establecimiento donde las personas consumen preponderantemente bebidas y algún alimento;
+XVIII. Sitio de concurrencia colectiva: Al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas para llevar a cabo acciones de esparcimiento, de libre asociación, prácticas o espectáculos, deportivos y similares, tales como patios escolares, balnearios, parques de diversiones y acuáticos, lagunas y reservas ecológicas, centros de espectáculos, canchas, estadios, plazas y demás;
 
-XIX. Sección, al área delimitada de un establecimiento;
+XIX. Vehículos de transporte público: Aquel individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, sea remunerado o no, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo; y
 
-XX. Secretaría de Salud del Gobierno del Estado, a la dependencia competente de vigilar el cumplimiento de la presente Ley, así como la aplicación de las sanciones que correspondan en caso de incumplimiento; y
+XX. Verificador o inspector: Persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendentes a lograr el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
 
-XXI. Terraza, área del establecimiento para que los clientes puedan sentarse al aire libre.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
 
-### Capítulo II. De las Secciones Reservadas para Fumadores y No Fumadores
+### Capítulo II. Protección Contra la Exposición al Humo de Tabaco
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 6.
 
-En los lugares, establecimientos o locales cerrados donde se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar secciones reservadas para no fumadores y para quienes fumen durante su estancia en los mismos.
+En el Estado de Sinaloa queda prohibido fumar en las áreas físicas cerradas con acceso al público, en los lugares interiores de trabajo, en los vehículos de transporte público y en los sitios de concurrencia colectiva.
 
-Dichas secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con extractores de aire y ventilación adecuada.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 7.
 
-Las personas físicas o morales propietarios, poseedores o responsables de locales y establecimientos cerrados vigilarán por sí mismos o por medio de sus empleados que en las secciones reservadas para no fumadores, no se encuentren personas fumando, de haberlas deberán exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, deberán negarse a prestar sus servicios al cliente infractor. Si el infractor persiste en su conducta deberán, a la brevedad, dar aviso a la autoridad competente para que con el auxilio de la fuerza pública, se respete el cumplimiento de esta Ley e impongan las sanciones que correspondan.
+Para asegurar el derecho a la protección de la salud de las personas, será obligación del propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, cuando una persona esté fumando en dicho lugar, en primera instancia, pedir que deje de fumar y apague su cigarro o cualquier otro producto de tabaco que haya encendido, de no hacer caso a la indicación, exigirle se retire del espacio 100% libre de humo de tabaco y se traslade a la zona exclusivamente para fumar, ubicada al aire libre; si opone resistencia, negarle el servicio y en su caso, buscar la asistencia de la autoridad correspondiente.
+
+La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que den aviso a la autoridad correspondiente, para lo cual deberá contar con la clave de reporte que para tal efecto está obligada a emitir la autoridad.
 
 ### Capítulo III. De los Espacios para No Fumar
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 8.
 
-Queda prohibido fumar en los siguientes lugares:
+En todos los accesos a los espacios 100% libres de humo de tabaco, será preciso que los propietarios, poseedores, administradores o responsables coloquen un cenicero de pie con el letrero: "Apaga tu cigarro o cualquier producto de tabaco antes de entrar".
 
-I. En las oficinas de cualquier dependencia o entidad de la Administración Pública del Estado o Municipios y de los órganos ,autónomos de éstos; oficinas, juzgados o instalaciones del Poder Judicial; y, en todos los espacios cerrados del Poder Legislativo del Estado. Lo anterior salvo que de conformidad con lo establecido en esta Ley se designen espacios para ello;
+En las entradas y en el interior de los mismos, deberán existir las señalizaciones y letreros que orienten a los trabajadores, usuarios y visitantes que se trata de un espacio 100% libre de humo de tabaco, así como letreros que contengan leyendas de advertencia sobre su incumplimiento y el número telefónico donde se puedan presentar quejas y denuncias.
 
-II. En hospitales, guarderías y asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados; con excepción de los lugares específicamente designados para ello.
-
-En el caso de las cafeterías y restaurantes pertenecientes o anexos a estas unidades, se podrán instalar secciones de fumar debidamente delimitadas y señalizadas;
-
-III. En las áreas cerradas de bibliotecas, hemerotecas, museos, casas de la cultura y centros públicos de cómputo, salvo en los respectivos vestíbulos o secciones de fumar debidamente delimitadas y señalizadas;
-
-IV. Las áreas cerradas de los cines, teatros, centros de entretenimiento y auditorios a los que tenga acceso el público en general; con excepción de los vestíbulos y secciones expresamente señaladas para fumar;
-
-V. Las áreas cerradas de oficinas bancarias, tiendas de autoservicio, conveniencia, departamentales o de servicios en los que se proporcione atención directa al público; salvo en los respectivos vestíbulos o secciones de fumar debidamente delimitadas y señalizadas;
-
-VI. En todos los espacios que ocupen los centros de educación inicial, básica, indígena, especial, media y media superior. En las escuelas de nivel superior la prohibición del consumo de tabaco estará delimitado a las aulas y baños de dichas instituciones;
-
-VII. En los vehículos de servicio de transporte de pasajeros que circulen en el Estado;
-
-VIIl. Los vehículos de transporte escolar;
-
-IX. Los elevadores de edificios públicos o particulares destinados al uso del público en general;
-
-X. En los sitios donde se almacenen o expendan gasolina, gas licuado, gas centrifugado, diesel o cualesquier otro combustible, químicos o productos catalogados como peligrosos por las normas oficiales;
-
-XI. En áreas donde se practique deporte. Salvo que se habiliten espacios para ello de acuerdo a lo establecido en esta Ley; y,
-
-XII. Las secciones en donde expresamente se prohíba fumar correspondientes a establecimientos distintos de los señalados en las fracciones anteriores, al que tenga acceso el público en general, debiendo habilitar espacios para fumadores de acuerdo a lo establecido en esta Ley.
-
-Las áreas definidas en las fracciones I, III, y IV deberán acondicionar espacios en los que se permita el consumo de productos de tabaco. Dichas áreas, deberán cumplir por lo menos uno de los siguientes requerimientos:
-
-a. Tener ventilación adecuada hacia el exterior, o estar en un área abierta.
-
-b. Contar con un sistema de extracción de aire tal que garantice que el aire no contiene humo de tabaco proveniente de la sección de fumar.
-
-c. Estar aislada de la sección de no fumadores o contar con los estudios y equipos que avalen y garanticen que el humo producido por la práctica de fumar tabaco no se filtre a las áreas reservadas para no fumadores.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 9.
 
-Los propietarios, directores, administradores, encargados o responsables de administrar las áreas cerradas, establecimientos comerciales, oficinas, edificios o vehículos automotores de servicio público de pasajeros a que se refiere el artículo 8, deberán fijar en el interior de los mismos, letreros, logotipos o emblemas alusivos o carteles que indiquen claramente la prohibición de fumar.
+Aquellos establecimientos mercantiles que deseen contar con un espacio para fumar, deberán ubicarlo al aire libre de acuerdo con las características descritas en el artículo 5, fracción VI de esta Ley, debiéndo estar físicamente separadas e incomunicadas de los espacios 100% libres de humo, no ser paso obligado para las personas o encontrarse en los accesos o salidas de los inmuebles. En estos espacios no podrán estar menores de edad y deberá advertirse a las mujeres embarazadas de los riesgos que corre ella y el producto al entrar en esta zona.
 
-En los bares, restaurantes, centros nocturnos y discotecas se podrán delimitar secciones o cuartos cerrados estrictamente exclusivos para fumadores, que comprendan cuando más el cincuenta por ciento de la superficie que ocupen.
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-En caso de que algún pasajero de un vehículo automotor de servicio público de pasajeros se niegue a cumplir con la prohibición de fumar, el conductor deberá dar aviso inmediato a la autoridad.
+###### Artículo 9 Bis.
 
-En caso de los vehículos de transporte público individual, corresponde al conductor determinar si se autoriza o no fumar a los pasajeros. Debiendo colocar en el interior del mismo, un letrero visible en uno u otro sentido.
+Los titulares y administradores de las dependencias, órganos y entidades de la Administración Pública y de los Órganos Legislativo, Judicial y Autónomos del Estado, serán los responsables de implantar, cumplir y hacer cumplir la presente Ley y su Reglamento, en sus respectivos ámbitos.
+
+Todo servidor público del Estado, que ostente un cargo de superior jerárquico, deberá requerir a toda persona que se encuentre fumando, a que se abstenga de hacerlo en la oficina o instalación asignada a su servicio y que apague inmediatamente su cigarro o cualquier producto de tabaco que haya encendido.
+
+Si continúa fumando, deberá pedirle que se traslade a un área al aire libre y si se niega, deberá pedirle que la abandone, siempre que dicha persona sea un particular, si se negase a abandonar el inmueble deberá solicitar el auxilio de la autoridad correspondiente.
+
+Si se trata de un servidor público sujeto a su dirección, deberá denunciarlo a la Contraloría Interna del órgano, dependencia o entidad a la que se encuentre adscrito.
 
 ### Capítulo IV. De la Divulgación y Concientización de los Efectos Nocivos que Causa el Tabaquismo
 
@@ -193,9 +183,13 @@ La Secretaría de Salud del Gobierno del Estado deberá expedir un programa inte
 
 El programa deberá incluir la planeación y ejecución de campañas informativas permanentes dirigidas a la población en general donde se advierta sobre los efectos nocivos del consumo de tabaco y la exposición al humo que genera, donde además se darán a conocer los beneficios que reportan el abandono de dicho consumo y los modos de vida sin tabaco.
 
-Asimismo, la Secretaría promoverá ante los titulares de las instituciones y dependencias de la Administración Pública Estatal y Municipal, así como de los organismos públicos y privados, y organizaciones de la sociedad civil, la elaboración y aplicación de programas y estrategias para el control y consumo del tabaco.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-Por igual, la Secretaría promoverá el conocimiento público y el acceso a la información sobre las consecuencias sanitarias, económicas y ambientales adversas por el consumo de tabaco, mediante jornadas de concientización, indicando además que la prohibición de fumar es permanente y se aplica sin excepción alguna, en aquellos lugares mencionados en el artículo 8 de esta Ley.
+Asimismo, la Secretaría de Salud del Gobierno del Estado promoverá ante los titulares de las instituciones y dependencias de la Administración Pública Estatal y Municipal, así como de los organismos públicos y privados, y organizaciones de la sociedad civil, la elaboración y aplicación de programas y estrategias para el control y consumo del tabaco.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+Por igual, la Secretaría de Salud del Gobierno del Estado promoverá el conocimiento público y el acceso a la información sobre las consecuencias sanitarias, económicas y ambientales adversas por el consumo de tabaco, mediante campañas de concientización, indicando además que la prohibición de fumar es permanente y se aplica sin excepción alguna, en todos los espacios 100% libres de humo de tabaco definidos en esta Ley.
 
 ###### Artículo 11.
 
@@ -219,11 +213,13 @@ VII. Empresas de transporte colectivo, sindicatos y empresas privadas.
 
 En la última semana del mes de mayo de cada año, y con motivo del Día Mundial sin Fumar, la Secretaría de Salud y la Secretaría de Educación Pública y Cultura del gobierno del Estado, así como los gobiernos municipales, actuando en coordinación, llevarán a cabo jornadas preventivas sobre el efecto nocivo del tabaquismo en la salud de los sinaloenses.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 13.
 
-Los integrantes de asociaciones de padres de familia de las escuelas e institutos públicos y privados, podrán vigilar de manera individual o colectiva que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones docentes de las respectivas instituciones educativas.
+Las dependencias de los sectores de salud y de educación, sean públicas o privadas, además de ser espacios 100% libres de humo de tabaco, no podrán contar con áreas al aire libre para fumar ni podrán comerciar, distribuir, donar, regalar, vender o suministrar productos del tabaco.
 
-Está prohibido a las autoridades de las escuelas e instituciones públicas y privadas hacer propaganda, publicitar o permitir que se haga promoción del consumo de tabaco dentro de sus instalaciones y eventos que realicen.
+Los integrantes de asociaciones de padres de familia de las escuelas e institutos públicos y privados, podrán vigilar de manera individual o colectiva que se cumpla con la prohibición de fumar en las instalaciones de las respectivas instituciones educativas.
 
 ### Capítulo V. De la Inspección y Vigilancia
 
@@ -305,9 +301,53 @@ Las corporaciones policiales municipales estarán obligadas a prestar el apoyo d
 
 Las personas físicas que no respeten las disposiciones de la presente Ley cuando se encuentren en un edificio público, que aún después de ser conminadas a modificar su conducta o abandonar el lugar no lo hicieren, podrán ser puestas de inmediato a disposición de la autoridad competente.
 
-### Capítulo VI. De las Sanciones Administrativas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2014)</small>
 
-### Capítulo VII. De los Medios de Impugnación
+### Capítulo V Bis. De la Participación y la Denuncia Ciudadana
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 23 Bis.
+
+La Secretaría de Salud del Gobierno del Estado promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
+
+I. Promoción de los espacios 100% libres de humo de tabaco;
+
+II. Promoción de la salud individual, familiar y comunitaria, incluyendo la prevención y el abandono del tabaquismo;
+
+III. Educación y organización social para la salud;
+
+IV. Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;
+
+V. Difusión de las disposiciones legales en materia del control de los productos del tabaco;
+
+VI. Coordinación con el Consejo Estatal contra las Adicciones;
+
+VII. Coordinación con el área de que realicen las visitas de verificación; y
+
+VIII. Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 23 Ter.
+
+La Secretaría de Salud del Gobierno del Estado, promoverá la participación activa de la sociedad civil que no esté afiliada o reciba apoyo de la industria tabacalera, en la aplicación y vigilancia de la Ley, así como en su colaboración en la elaboración de las campañas de información continuas, para sensibilizar a la población y a los líderes de opinión respecto a los riesgos que entraña el consumo de tabaco y la exposición al humo del mismo y los beneficios por dejar de fumar y de estar expuesto al humo de tabaco.
+
+Las campañas de educación de la población también deberán ir dirigidas a aquellos entornos que no se encuentren contemplados en la presente Ley, como es el caso de los hogares privados o vehículos particulares, para que las personas que fuman se abstengan de hacerlo en el interior de los mismos o al menos lo eviten cuando estén en presencia de menores de edad, mujeres embarazadas, personas enfermas o con discapacidad y de adultos mayores.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 23 Quáter.
+
+Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+Artículo 23 Quintus. La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
+
+La Secretaría de Salud del Gobierno del Estado pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco, así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
+
+### Capítulo VI. De las Sanciones Administrativas
 
 ###### Artículo 24.
 
@@ -319,11 +359,21 @@ Las personas físicas o morales que incumplan con las disposiciones contenidas e
 
 I. Amonestación;
 
-II. Multa de dos a cien salarios mínimos general vigente en el Estado, de acuerdo a la clasificación que se determine en el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-III. Arresto administrativo en caso de personas físicas hasta por veinticuatro horas; y
+II. Multa:
 
-IV. La clausura parcial o total del lugar, hasta por cinco días.
+A. De hasta cien veces el salario mínimo general vigente en el Estado, a quien incumpla lo dispuesto en el artículo 6 de esta Ley.
+
+B. De dos hasta cuatro mil veces el salario mínimo general vigente en el Estado, a quien incumpla las disposiciones contenidas en los artículos 4, 7, 8, 9, 13 párrafo primero, de esta Ley de acuerdo a la gradualidad que se determine en el Reglamento correspondiente;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+III. Arresto administrativo en caso de personas físicas hasta por treinta y seis horas; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+IV. La clausura temporal o permanente, que podrá ser parcial o total.
 
 Esta sanción únicamente podrá aplicarse en el supuesto indicado en el artículo 27 de esta Ley.
 
@@ -333,17 +383,27 @@ La autoridad correspondiente al imponer la sanción fundará y motivará la reso
 
 I. La gravedad de la infracción conforme a lo dispuesto a la presente Ley;
 
-II. Las condiciones socioeconómicas del infractor; y,
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-III. La calidad de reincidente del infractor.
+II. Las condiciones socioeconómicas del infractor;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+III. La calidad de reincidente del infractor;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+IV. Los daños que se hayan producido o puedan producirse en la salud de las personas; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+V. El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 27.
 
-En caso de reincidencia, se duplicará el monto de la multa, en caso de la segunda reincidencia y dependiendo de la gravedad de la falta, se procederá al arresto administrativo en caso de personas físicas hasta por veinticuatro horas y a la clausura del establecimiento tratándose de personas morales, hasta por cinco días.
-
-Para los efectos de este Capítulo, se entiende por reincidencia, que el infractor vuelva a cometer la misma violación a las disposiciones de esta Ley, dentro del período de un año calendario a partir de la aplicación de la multa a que se refiere el artículo anterior.
-
-Se entiende por segunda reincidencia, el que el infractor cometa por tercera ocasión la misma violación a las disposiciones de esta Ley, dentro del período de un año calendario a partir de la aplicación de la primera multa.
+En caso de reincidencia se duplicará el monto de la multa que corresponda. En caso de la segunda reincidencia y dependiendo de la gravedad de la falta, se procederá al arresto administrativo en caso de personas físicas hasta por treinta y seis horas y a la clausura del establecimiento tratándose de personas morales.
 
 ###### Artículo 28.
 
@@ -353,11 +413,13 @@ A juicio de la autoridad, las sanciones a que se refiere este capítulo podrán 
 
 La recaudación de las sanciones económicas, se canalizarán a la institución de prevención de adicciones que la autoridad de salud competente considere pertinente y se aplicará expresamente en programas de prevención del tabaquismo.
 
-### Capítulo VIII. De Disposiciones Diversas
+### Capítulo VII. De los Medios de Impugnación
 
 ###### Artículo 30.
 
 Las resoluciones administrativas que impongan las sanciones por violación a las disposiciones de esta Ley, serán impugnables ante el Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, en un plazo de quince días hábiles, contados a partir del día siguiente en que sean notificadas y se tramitarán conforme a lo dispuesto por la Ley de Justicia Administrativa para el Estado de Sinaloa.
+
+### Capítulo VIII. De Disposiciones Diversas
 
 ###### Artículo 31.
 
@@ -369,7 +431,7 @@ La inobservancia por parte de alguna autoridad de las disposiciones de este orde
 
 ###### Artículo 33.
 
-Se concede acción popular para denunciar las infracciones a que se refiere esta Ley.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2014)
 
 ###### Artículo 34.
 
@@ -416,3 +478,15 @@ Lic. Rafael Oceguera Ramos.
 El Secretario de Salud
 
 Dr. Héctor Ponce Ramos
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado, la Secretaría de Salud del Gobierno del Estado y las autoriadades (sic) estatales, así como los Ayuntamientos, en el ámbito de su competencia, realizarán las adecuaciones reglamentarias necesarias para el cumplimiento del presente Decreto en un plazo de noventa días posteriores al inicio de su vigencia.
+
+TERCERO. Los establecimientos contarán con un plazo de noventa días posteriores al inicio de vigencia del presente Decreto, para delimitar las secciones reservadas a los no fumadores.
+
+CUARTO. Se derogan las disposiciones que contravengan lo establecido en el presente Decreto.
