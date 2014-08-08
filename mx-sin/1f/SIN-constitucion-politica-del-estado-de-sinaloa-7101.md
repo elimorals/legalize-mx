@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2014-03-12"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1315,9 +1315,11 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será ta
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
-#### SECCION III. DE LA DEFENSORIA DE OFICIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION III. DE LA DEFENSORIA PUBLICA
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
@@ -1325,15 +1327,13 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 ###### Art. 78.
 
-Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será proporcionar el servicio de defensa a los indiciados en asuntos del orden penal, a los menores de edad sujetos a la jurisdicción del menor, y a quienes lo soliciten en las materias civil y administrativa, en los términos que establezca la Ley Orgánica respectiva.
+Habrá en el Estado un Instituto de la Defensoría Pública, mismo que en el desempeño de sus funciones gozará de independencia técnica y operativa, a fin de garantizar de manera gratuita a los imputados el derecho a una defensa adecuada y de calidad en materia penal y de justicia para adolescentes, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia civil, familiar y administrativa, a través de Defensores Públicos y de Asesores Jurídicos, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Art. 79.
 
-El Cuerpo de Defensores de Oficio dependerá del Ejecutivo del Estado. Estará a cargo de un Licenciado en Derecho que será el jefe y los defensores que lo integren, quienes serán igualmente Licenciados en Derecho.
-
-La Defensoría de Oficio contará con las unidades y dependencias necesarias sujetándose a las normas y lineamientos que señale su Ley Orgánica y el reglamento respectivo. En sus ordenamientos se precisará, entre otros requisitos, la forma y términos para el nombramiento de sus integrantes.
+El Instituto de la Defensoría Pública dependerá de (sic) Gobierno del Estado y estará constituido por un Director y la estructura orgánica que establezca la Ley y el reglamento respectivo, mismos que fijaran los requisitos, forma y términos de su integración, así como sus atribuciones.
 
 #### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
@@ -3472,3 +3472,7 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO.- El H. Congreso del Estado expedirá la reforma necesaria a la Ley de Educación para el Estado de Sinaloa, dentro de un plazo de seis meses, contados a partir de la fecha de publicación del presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
