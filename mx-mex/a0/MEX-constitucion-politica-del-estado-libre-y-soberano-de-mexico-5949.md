@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2014-06-24"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -427,17 +427,21 @@ Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios 
 
 Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de hombres y mujeres en condiciones de equidad, de conformidad con esta Constitución y la ley respectiva.
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 18.
 
-Corresponde al Estado procurar el desarrollo integral de los pueblos y personas, basado en el aprovechamiento sustentable de los recursos naturales, cuidando la integridad de los ecosistemas, fomentando un justo equilibrio de los factores sociales y económicos, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+Corresponde al Estado procurar el desarrollo integral de los pueblos y personas, garantizando que fortalezca la Soberanía del Estado y su régimen democrático y que, mediante la competitividad, el fomento del crecimiento económico, una política estatal para el desarrollo industrial que incluya vertientes sectoriales y regionales, el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución y las disposiciones legales de la Federación. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo digno y bien remunerado. El desarrollo se basará en el aprovechamiento sustentable de los recursos naturales, cuidando la integridad de los ecosistemas, fomentando un justo equilibrio de los factores sociales y económicos, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 Las autoridades ejecutarán programas para conservar, proteger y mejorar los recursos naturales del Estado y evitar su deterioro y extinción, así como para prevenir y combatir la contaminación ambiental.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales, a las medidas de adaptación y mitigación al cambio climático en el Estado y a la propagación de la flora y de la fauna existentes en el Estado. El daño y deterioro ambiental generarán responsabilidad en términos de ley.
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
@@ -589,7 +593,7 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
-4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+4°. El Instituto Electoral del Estado de México tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del Apartado 1° de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
 
 5°. La consulta popular se realizará el mismo día de la jornada electoral local;
 
@@ -813,9 +817,9 @@ La Legislatura del Estado de México se reunirá en sesiones ordinarias tres vec
 
 En el año de inicio del período constitucional del Ejecutivo Federal el primer período podrá prolongarse hasta el 31 de diciembre.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistirán al recinto de la Legislatura a la apertura de sesiones ordinarias del primer período.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia podrán asistir al recinto de la Legislatura a la apertura del primer período.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1427,9 +1431,9 @@ XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en mater
 
 XVII. Conceder el indulto necesario y por gracia y conmutar las penas privativas de libertad, con arreglo a la ley de la materia;
 
-> <small>(REFORMADA, G.G. 7 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
 
-XVIII. Rendir a la Legislatura del Estado, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación;
+XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación.
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
@@ -1701,7 +1705,7 @@ d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México,
 
 > <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
 
-IV. La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad, en los términos que señale la ley.
+IV. La Sala Constitucional conocerá de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad en los términos que señale la ley.
 
 Las resoluciones dictadas en los procesos a que se refiere este artículo, que declaren la invalidez de disposiciones generales del Poder Ejecutivo, del Poder Legislativo o de los Municipios, tendrán efectos generales cuando sean aprobados cuando menos por cuatro votos de los integrantes de la Sala Constitucional.
 
@@ -2173,9 +2177,9 @@ IV. Ser el responsable de la comunicación de los ayuntamientos que presiden, co
 
 V. Asumir la representación jurídica del Municipio, conforme a la ley respectiva;
 
-> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
 
-VI. Rendir al ayuntamiento dentro de los primeros tres días hábiles del mes de diciembre de cada año un informe acerca del estado que guarda el gobierno y la administración pública municipales;
+VI. Rendir al ayuntamiento en sesión solemne de cabildo, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
 > <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -2311,11 +2315,11 @@ Las autoridades del Estado y de los municipios, en la esfera de su competencia, 
 
 El Estado y los municipios tienen personalidad jurídica para ejercer derechos y asumir obligaciones en términos de ley.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 139.
 
-El desarrollo de la entidad se sustenta en el Sistema Estatal de Planeación Democrática, que tiene como base el Plan de Desarrollo del Estado de México:
+El desarrollo de la entidad se sustenta en el Sistema Estatal de Planeación Democrática, que imprima solidez, dinamismo, competitividad, permanencia y equidad al crecimiento de la economía para la libertad y la democratización política, social y cultural del Estado y que tiene como base el Plan de Desarrollo del Estado de México:
 
 > <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -2324,6 +2328,8 @@ I. El Sistema Estatal de Planeación Democrática se integra por los planes y pr
 Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
 Los ciudadanos del Estado, individualmente o a través de agrupaciones legalmente constituidas podrán participar en el proceso de planeación democrática en los términos establecidos por las leyes para la formulación de planes y programas estatales, municipales, regionales y metropolitanos para la integración social de sus habitantes y el desarrollo de las comunidades.
+
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 II. En materia metropolitana, el Gobierno del Estado y los Ayuntamientos de los municipios deberán en forma coordinada y en términos de la Constitución Política de los Estados Unidos Mexicanos:
 
@@ -3765,7 +3771,7 @@ G.G. 11 DE OCTUBRE DE 2012.
 
 DECRETO NÚMERO 7 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 125 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
-PRIMERO.- PublÍquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3820,3 +3826,27 @@ CUARTO.- La Legislatura Estatal deberá adecuar el marco jurídico-electoral sec
 QUINTO.- El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
 
 SEXTO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 8 DE AGOSTO DE 2014.
+
+DECRETO NO. 275 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 18 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE AGOSTO DE 2014.
+
+DECRETO NO. 276 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 46 Y LA FRACCIÓN XVIII DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE AGOSTO DE 2014.
+
+DECRETO NO. 277 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
