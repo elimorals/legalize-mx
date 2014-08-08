@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-95702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-20"
-last_updated: "2014-05-09"
+last_updated: "2014-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de agosto de 2013.
 
@@ -301,15 +301,23 @@ VIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídi
 
 La Secretaría cuenta con las Subsecretarías siguientes:
 
-I. La Subsecretaría de Promoción y Gestión de Inversiones.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+I. La Subsecretaría de Desarrollo Económico.
 
 II. La Subsecretaría de Desarrollo Económico de la Laguna.
 
-III. La Subsecretaría de PYMES y Promoción al Mercado Interno.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+III. La Subsecretaría de Vinculación, Mejora Regulatoria y Competitividad.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2014)</small>
 
 IV. La Subsecretaría de Energía y Recursos no Renovables.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+V. La Subsecretaría de Promoción e Inversión.
 
 ###### Artículo 19.
 
@@ -349,41 +357,55 @@ XIV. Certificar las copias de los documentos y constancias cuyos originales obre
 
 XV. Las demás que les confiera este reglamento, otras disposiciones aplicables, así como las que les asigne el Ejecutivo o el Titular de la Secretaría.
 
-#### SECCIÓN I. DE LA SUBSECRETARÍA DE PROMOCIÓN Y GESTIÓN DE INVERSIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN I. DE LA SUBSECRETARÍA DE DESARROLLO ECONÓMICO
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 21.
 
-Corresponden al titular de la Subsecretaría de Promoción y Gestión de Inversiones además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
+Corresponden al titular de la Subsecretaría de Desarrollo Económico además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
 
-I. Promover y fomentar el desarrollo de la actividad industrial en el estado;
+I. Proponer al Titular de la Secretaría la implementación de lineamientos y normas generales y específicas de carácter administrativo, así como de proyectos para el desarrollo económico del estado (sic) estime necesarios;
 
-II. Proponer al Titular de la Secretaría la implementación de lineamientos y normas generales y específicas de carácter administrativo, así como de proyectos de promoción y fomento que para el desarrollo económico del estado estime necesarios;
+II. Asistir en el ámbito de su competencia, a las ferias y exposiciones nacionales e internacionales a través de las cuales se promueva y fomente la inversión en el estado;
 
-III. Someter a la consideración del Titular de la Secretaría y gestionar, la celebración de convenios específicos de inversión industrial y de otorgamiento de incentivos y estímulos, así como aquellos relacionados con la promoción económica;
+III. Fomentar el desarrollo de las actividades económicas regionales a través de la integración de consejos regionales de desarrollo con la participación de los sectores social y privado;
 
-IV. Difundir a nivel nacional e internacional la infraestructura de servicios e instalaciones, así como los estímulos que ofrece el estado para el desarrollo y establecimiento de nuevos proyectos productivos, que se consideren estratégicos para el estado;
+IV. Asistir en el desarrollo integral de las empresas del estado, a través del fortalecimiento de los programas de cadenas productivas y desarrollo de proveedores, para fomentar la elevación de sus niveles de competitividad;
 
-V. Promover ante las autoridades competentes la instalación de obras de equipamiento en las áreas que se estimen necesarias para promover el establecimiento de inversiones;
+V. Obtener y mantener actualizada en el ámbito de su competencia, la información estadística sobre inversión y empleo, nacional y extranjera;
 
-VI. Difundir ante las diversas cámaras, asociaciones y organismos productivos del país, los servicios existentes en el estado para apoyar a los inversionistas nacionales y extranjeros;
+VI. Instrumentar y coordinar con las instancias correspondientes, los trabajos que en materia de micro, pequeña y mediana empresa, fomento industrial, comercial, agronegocios y de servicios se realicen en el estado;
 
-VII. Asistir en el ámbito de su competencia, a las ferias y exposiciones nacionales e internacionales a través de las cuales se promueva y fomente la inversión en el estado;
+VII. Operar programas para asistir en la formación o constitución de empresas micros, pequeñas y medianas con la promoción de incubadoras de negocios y el fomento al espíritu emprendedor, para incrementar el sector formal de la economía;
 
-VIII. Fomentar el desarrollo de las actividades económicas regionales a través de la integración de consejos regionales de desarrollo con la participación de los sectores social y privado;
+VIII. Asistir en el ámbito de su competencia, a los empresarios ya establecidos en el estado para mejorar su operación actual, conforme a las disposiciones aplicables;
 
-IX. Proporcionar información a los inversionistas nacionales y extranjeros interesados en invertir en el estado, relativa a los apoyos y ventajas que para tal propósito ofrece el estado;
+IX. Promover la modernización del sector productivo del estado principalmente entre las micro, pequeñas y medianas empresas, a través de programas de capacitación, actualización tecnológica, comercialización, profesionalización y asociatividad, con la coordinación y organización de foros, congresos y demás actividades similares y con la participación en las diversas ferias, exposiciones y convenciones;
 
-X. Asistir en el desarrollo integral de las empresas del estado, a través del fortalecimiento de los programas de cadenas productivas y desarrollo de proveedores, para fomentar la elevación de sus niveles de competitividad;
+X. Promover encuentros de proveeduría local en las distintas regiones del estado, para vincular a productores, industriales, comerciantes y consumidores; así como impulsar en el ámbito de su competencia, los programas de desarrollo de proveedores y cadenas productivas;
 
-XI. Integrar y facilitar a los inversionistas interesados información actualizada sobre las características del estado, otorgando datos oportunos y confiables como apoyo en el estudio del proyecto y materialización del mismo;
+XI. Promover en el ámbito de su competencia, la construcción de infraestructura logística para el desarrollo económico como cruces de andenes, centros de distribución, mercados de abastos y mercados públicos;
 
-XII. Obtener y mantener actualizada en el ámbito de su competencia, la información estadística sobre inversión y empleo, nacional y extranjera;
+XII. Servir como enlace y coordinar a la Secretaría con las dependencias y organismos descentralizados del gobierno federal encargados del financiamiento y promoción a las actividades productivas que involucren el desarrollo, competitividad, financiamiento y empleo del sector productivo;
 
-XIII. Vincular el desarrollo de la infraestructura productiva conforme a los fines establecidos en el Plan Estatal de Desarrollo;
+XIII. Asistir en el ámbito de su competencia, a las dependencias y organismos descentralizados del gobierno del estado que tengan una tarea específica de desarrollo económico y promoción al mercado interno de Coahuila como la comercialización de productos del sector rural y agroindustrial, el desarrollo económico de comunidades en desventaja, la capacitación para el empleo, el turismo de negocios, la producción artesanal y sus similares;
 
-XIV. Elaborar y ejecutar las acciones, proyectos, programas y estudios que fomenten la calidad competitividad, planeación, vinculación y la mejora regulatoria de las actividades productivas en el estado;
+XIV. Diseñar, proponer, operar, administrar y dar seguimiento a programas, eventos, iniciativas para el desarrollo, integración y profesionalización de las empresas familiares en el estado;
 
-XV. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
+XV. Coordinar las acciones, ante las instancias correspondientes para atender las necesidades provocadas por los fenómenos naturales que afecten a las empresas establecidas en el estado;
+
+XVI. Diseñar políticas públicas que beneficien el desarrollo y fortalecimiento del mercado interno coahuilense; así como proponer programas estatales, sus reglas de operación y sus manuales;
+
+XVII. Asistir a las áreas de promoción y desarrollo económico de los Municipios del estado para ejercer programas en común para el desarrollo y promoción de las micro, pequeñas y medianas empresas y el mercado interno; tener estrecha comunicación con las asociaciones de promoción para el desarrollo económico o su similar del estado a fin de concretar programas, actividades e iniciativas dirigidas a incentivar la demanda doméstica coahuilense;
+
+XVIII. Participar, operar y dar seguimiento a los programas de certificación estatal para el sector productivo en el ámbito de su competencia;
+
+XIX. Coordinar las acciones de los programas de apoyo a la microindustria; y
+
+XX. Revisar y autoriza-r (sic) en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
 #### SECCIÓN II. DE LA SUBSECRETARÍA DE DESARROLLO ECONÓMICO DE LA LAGUNA
 
@@ -419,39 +441,43 @@ XIII. Asistir en representación del Titular de la Secretaría a las diversas di
 
 XIV. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
-#### SECCIÓN III. DE LA SUBSECRETARÍA DE PYMES Y PROMOCIÓN AL MERCADO INTERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN III. DE LA SUBSECRETARÍA DE VINCULACIÓN, MEJORA REGULATORIA Y COMPETITIVIDAD
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 23.
 
-Corresponden al titular de la Subsecretaría de PYMES y Promoción al Mercado Interno, además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
+Corresponden al titular de la Subsecretaría de Vinculación, Mejora Regulatoria y Competitividad además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
 
-I. Instrumentar y coordinar con las instancias correspondientes, los trabajos que en materia de micro, pequeña y mediana empresa, fomento industrial, comercial, agronegocios y de servicios se realicen en el estado;
+I. Definir acciones, estrategias de apoyo en la elaboración y ejecución de programas y proyectos de promoción e inversión para el desarrollo económico armónico, integral y sustentable del estado;
 
-II. Operar programas para asistir en la formación o constitución de empresas micros, pequeñas y medianas con la promoción de incubadoras de negocios y el fomento al espíritu emprendedor, para incrementar el sector formal de la economía;
+II. Coadyuvar en la ejecución de los programas sobre promoción y desarrollo económico;
 
-III. Asistir en el ámbito de su competencia, a los empresarios ya establecidos en el estado para mejorar su operación actual, conforme a las disposiciones aplicables;
+III. Promover una vinculación profesional por desarrolladores económicos capacitados;
 
-IV. Promover la modernización del sector productivo del estado principalmente entre las micro, pequeñas y medianas empresas, a través de programas de capacitación, actualización tecnológica, comercialización, profesionalización y asociatividad, con la coordinación y organización de foros, congresos y demás actividades similares y con la participación en las diversas ferias, exposiciones y convenciones;
+IV. Recibir, analizar y dar seguimiento a proyectos y propuestas de desarrollo económico y de generación de empleos;
 
-V. Promover encuentros de proveeduría local en las distintas regiones del estado, para vincular a productores, industriales, comerciantes y consumidores; así como impulsar en el ámbito de su competencia, los programas de desarrollo de proveedores y cadenas productivas;
+V. Proponer al Ejecutivo la celebración de convenios con los sectores productivo y educativo, tendientes a incrementar e incentivar el desarrollo y la inversión en las distintas actividades económicas del estado;
 
-VI. Promover en el ámbito de su competencia, la construcción de infraestructura logística para el desarrollo económico como cruces de andenes, centros de distribución, mercados de abastos y mercados públicos;
+VI. Impulsar actividades y programas para estimular y elevar la calidad y la competitividad de las actividades productivas en el Estado;
 
-VII. Servir como enlace y coordinar a la Secretaría con las dependencias y organismos descentralizados del gobierno federal encargados del financiamiento y promoción a las actividades productivas que involucren el desarrollo, competitividad, financiamiento y empleo del sector productivo;
+VII. Coadyuvar en la identificación de las vocaciones productivas;
 
-VIII. Asistir en el ámbito de su competencia, a las dependencias y organismos descentralizados del gobierno del estado que tengan una tarea específica de desarrollo económico y promoción al mercado interno de Coahuila como la comercialización de productos del sector rural y agroindustrial, el desarrollo económico de comunidades en desventaja, la capacitación para el empleo, el turismo de negocios, la producción artesanal y sus similares;
+VIII. Impulsar en el ámbito de su competencia, la capacitación, investigación y el desarrollo tecnológico;
 
-IX. Diseñar, proponer, operar, administrar y dar seguimiento a programas, eventos, iniciativas para el desarrollo, integración y profesionalización de las empresas familiares en el estado;
+IX. Mantener un lazo de vinculación estrecho entre los sectores social, empresarial, educativo e institucional con los tres órdenes de Gobierno;
 
-X. Coordinar las acciones, ante las instancias correspondientes para atender las necesidades provocadas por los fenómenos naturales que afecten a las empresas establecidas en el estado;
+X. Vincular el desarrollo de la infraestructura productiva conforme a los fines establecidos en el Plan Estatal de Desarrollo;
 
-XI. Diseñar políticas públicas que beneficien el desarrollo y fortalecimiento del mercado interno coahuilense; así como proponer programas estatales, sus reglas de operación y sus manuales;
+XI. Proponer la elaboración de estudios y proyectos que fomenten la competitividad en el estado;
 
-XII. Asistir a las áreas de promoción y desarrollo económico de los Municipios del estado para ejercer programas en común para el desarrollo y promoción de las micro, pequeñas y medianas empresas y el mercado interno; tener estrecha comunicación con las asociaciones de promoción para el desarrollo económico o su similar del estado a fin de concretar programas, actividades e iniciativas dirigidas a incentivar la demanda doméstica coahuilense;
+XII. Impulsar las acciones necesarias para mejorar los índices de competitividad en el estado;
 
-XIII. Participar, operar y dar seguimiento a los programas de certificación estatal para el sector productivo en el ámbito de su competencia;
+XIII. Proponer la elaboración de instrumentos jurídicos con los municipios del estado y con las dependencias de la administración estatal, para establecer las bases de las acciones necesarias de mejora regulatoria, que conduzcan a la simplificación de trámites, servicios, requisitos y tiempos de respuesta, a fin de aumentar los índices de competitividad en el estado;
 
-XIV. Coordinar las acciones de los programas de apoyo a la microindustria; y
+XIV. Elaborar y ejecutar las acciones, proyectos, programas y estudios que fomenten la calidad competitividad, planeación, vinculación y la mejora regulatoria de las actividades productivas en el estado; y
 
 XV. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
@@ -489,7 +515,41 @@ XI. Acordar con el Titular de la Secretaría el despacho de los asuntos relevant
 
 XII. Coordinar las labores de las unidades encomendadas a su cargo y establecer mecanismos de integración y coordinación que propicien el trabajo en equipo para desempeñar las labores que les correspondan.
 
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE PROMOCIÓN ECONÓMICA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN V. DE LA SUBSECRETARÍA DE PROMOCIÓN E INVERSIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 23 Ter.
+
+Corresponden al titular de la Subsecretaría de Promoción e Inversión además de las establecidas en el artículo 20 del presente reglamento, las siguientes facultades y obligaciones:
+
+I. Promover y fomentar el desarrollo de la actividad industrial en el estado;
+
+II. Proponer al Titular de la Secretaría la implementación de lineamientos y normas generales y específicas de proyectos de promoción y fomento que para el desarrollo económico del estado estime necesarios;
+
+III. Promover ante las autoridades competentes la instalación de obras de equipamiento en las áreas que se estimen necesarias para promover el establecimiento de inversiones;
+
+IV. Difundir ante las diversas cámaras, asociaciones y organismos productivos del país, los servicios existentes en el estado para apoyar a los inversionistas nacionales y extranjeros;
+
+V. Proporcionar información a los inversionistas nacionales y extranjeros interesados en invertir en el estado, relativa a los apoyos y ventajas que para tal propósito ofrece el estado;
+
+VI. Integrar y facilitar a los inversionistas interesados información actualizada sobre las características del estado, otorgando datos oportunos y confiables como apoyo en el estudio del proyecto y materialización del mismo;
+
+VII. Someter a la consideración del Titular de la Secretaría y gestionar, en el ámbito de su competencia, la celebración de convenios específicos de inversión industrial y de otorgamiento de incentivos y estímulos, así como aquellos relacionados con la promoción económica;
+
+VIII. Difundir a nivel nacional e internacional la infraestructura de servicios e instalaciones, así como los estímulos que ofrece el estado para el desarrollo y establecimiento de nuevos proyectos productivos, que se consideren estratégicos para el estado;
+
+IX. Asistir en el ámbito de su competencia, a las ferias y exposiciones nacionales e internacionales a través de las cuales se promueva y fomente la inversión en el estado;
+
+X. Promover la infraestructura estatal, la oferta laboral y las ventajas competitivas de Coahuila, nacional e internacionalmente, para la atracción de nuevas inversiones;
+
+XI. Proponer en conjunto con los organismos de promoción económica, constituidos o que se constituyan en el estado, los programas de promoción de la inversión y subcontratación;
+
+XII. Coordinar la elaboración de material promocional para la difusión y posicionamiento del estado a nivel local, nacional e internacional; y
+
+XIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
 ### CAPÍTULO SEXTO. INTEGRACIÓN Y FACULTADES DE LAS DIRECCIONES
 
@@ -525,51 +585,33 @@ XI. Promover la capacitación permanente del personal a su cargo para el desarro
 
 XII. Las demás que les confiera este reglamento, otras disposiciones aplicables, así como las que les asigne el Ejecutivo, el Titular de la Secretaría y el titular del área administrativa de su adscripción.
 
-### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE PROMOCIÓN Y GESTIÓN DE INVERSIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE DESARROLLO ECONÓMICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 26.
 
-La Subsecretaría de Promoción y Gestión de Inversiones, contará con las siguientes Direcciones a su cargo:
+La Subsecretaría de Desarrollo Económico, contará con las siguientes Direcciones a su cargo:
 
-I. La Dirección General de Promoción Económica;
-
-a. La Dirección de Promoción Internacional; y
-
-b. La Dirección de Atención al Inversionista.
+I. (DEROGADA, P.O. 8 DE AGOSTO DE 2014)
 
 II. La Dirección General de Gestión; y
 
-III. La Dirección General de Vinculación y Competitividad.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE GESTIÓN
+III. La Dirección General para las Micros, Pequeñas y Medianas Empresas..
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN I
 
 ###### Artículo 27.
 
-El titular de la Dirección General de Promoción Económica tendrá, además de las consignadas en el artículo 25 de este reglamento, las facultades y obligaciones siguientes:
+(DEROGADO, P.O. 8 DE AGOSTO DE 2014)
 
-I. Promover la infraestructura estatal, la oferta laboral y las ventajas competitivas de Coahuila, nacional e internacionalmente, para la atracción de nuevas inversiones;
-
-II. Informar y orientar a los empresarios nacionales y extranjeros de los trámites y requisitos para el ejercicio de su establecimiento y operación;
-
-III. Informar a los empresarios nacionales y extranjeros la infraestructura, incentivos, programas y ventajas que ofrece el estado para el establecimiento o ampliación de proyectos;
-
-IV. Atender a los inversionistas que pretendan construir, instalar o ampliar operaciones industriales ya existentes en el estado, desde el inicio de su proyecto hasta la materialización del mismo;
-
-V. Coordinar en conjunto con los organismos de promoción económica, constituidos o que se constituyan en el estado, los programas de promoción de la inversión y subcontratación;
-
-VI. Identificar y evaluar las ferias y eventos nacionales e internacionales en los que se observen potencialidades para la promoción del estado y elaborar el programa anual de ferias y eventos nacionales e internacionales donde se pueda promover al estado, considerando las actividades económicas en las que destaque el mismo;
-
-VII. Distribuir información a organismos empresariales y empresas establecidas, con objeto de fomentar y dar a conocer las actividades que realiza el estado en materia de promoción industrial;
-
-VIII. Examinar y valorar los medios de difusión, donde se puedan dar a conocer las ventajas competitivas del estado;
-
-IX. Elaborar el programa anual de campañas de difusión con objeto de promocionar las bondades y ventajas del estado en materia industrial y económica;
-
-X. Coordinar y gestionar la elaboración de material promocional para la difusión y posicionamiento del estado a nivel local, nacional e internacional; y
-
-XI. Organizar y realizar viajes de promoción y misiones comerciales a países donde se visualice la atracción efectiva de inversión.
-
-#### SECCIÓN III. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y COMPETITIVIDAD
+#### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE GESTIÓN
 
 ###### Artículo 28.
 
@@ -601,9 +643,77 @@ XII. Apoyar a los inversionistas o directivos de empresas de nueva creación, en
 
 XIII. Diseñar, en el ámbito de su competencia, programas de identificación de necesidades y oportunidades de nuevas empresas.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROMOCIÓN INTERNACIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN III. DIRECCIÓN GENERAL PARA LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 29.
+
+El titular de la Dirección General para las Micros, Pequeñas y Medianas Empresas, tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
+
+I. Integrar información estratégica para el desarrollo de las micro, pequeñas y medianas empresas y facilitar información pertinente a niveles macro y micro económico para promover el desarrollo de las mismas, así como, generar, administrar y operar un directorio de micro, pequeños y medianos empresarios en el estado;
+
+II. Impulsar y fortalecer la comercialización de los productos y servicios de las micro, pequeñas y medianas empresas y organizar todo tipo de evento que coadyuve al desarrollo de proveedores del estado; promover la vinculación entre micro, pequeñas y medianas empresas y grandes empresas, a fin de generar cadenas productivas industriales entre ellas y operar el programa de desarrollo de proveedores del estado;
+
+III. Fomentar la competitividad de las micro, pequeñas y medianas empresas, por medio de la orientación, asistencia y capacitación en materia de tecnologías de información y comunicación;
+
+IV. Ofrecer orientación y apoyo a las micro, pequeñas y medianas empresas, en materia de propiedad industrial, que les proporcione certidumbre jurídica en la utilización de signos distintivos;
+
+V. Coordinar y preparar la logística de ferias y eventos organizados por la Secretaría, dirigidos a las micro, pequeñas y medianas empresas del estado, para otorgarles información necesaria para su desarrollo y crecimiento financiero, mediante esquemas de calidad, información, capacitación, asistencia técnica y respaldo financiero, que incrementen la productividad y competitividad en sus procesos productivos y gerenciales;
+
+VI. Fomentar y asistir en la gestión de las exportaciones de micro, pequeños y medianos empresarios del estado, para otorgarles la información y asesoría necesaria;
+
+VII. Promover y articular acciones encaminadas al desarrollo emprendedor, a mujeres empresarias y emprendedoras, así como fomentar el espíritu innovador y emprendedor de los coahuilenses en general; administrar y operar los programas de financiamiento para emprendedores;
+
+VIII. Servir como enlace de la Secretaría con las dependencias y organismos descentralizados del gobierno federal encargados del financiamiento y promoción a las micro, pequeñas y medianas empresas; coordinar y operar los programas de apoyo de las dependencias y organismos descentralizados del gobierno federal que involucren el desarrollo, competitividad, financiamiento y empleo para las micro, pequeñas y medianas empresas;
+
+IX. Asistir a las dependencias y organismos descentralizados del gobierno del estado que tengan una tarea específica de desarrollo económico y promoción a las micro, pequeñas y medianas empresas del estado como la mejora regulatoria, la comercialización de productos del sector rural y agroindustrial, el desarrollo económico de comunidades en desventaja, la capacitación para el empleo, el turismo de negocios, la producción artesanal y sus similares;
+
+X. Asistir a las áreas de promoción y desarrollo económico de los municipios del estado y ejercer programas en común para el desarrollo y promoción de las micro, pequeñas y medianas empresas; tener estrecha comunicación con las asociaciones de promoción para el desarrollo económico o su similar del estado para concretar programas, actividades e iniciativas dirigidas para acelerar el crecimiento de las micro, pequeñas y medianas empresas; y
+
+XI. Fungir como Delegado Estatal del Programa de Ventanilla de Fomento a la Microindustria y operar la ventanilla de fomento a la microindustria para coadyuvar en la formación o constitución de empresas de microindustria.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN IV
+
+###### Artículo 30.
+
+(DEROGADO, P.O. 8 DE AGOSTO DE 2014)
+
+###### Artículo 31.
+
+(DEROGADO, P.O. 8 DE AGOSTO DE 2014)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN V
+
+###### Artículo 32.
+
+(DEROGADO, P.O. 8 DE AGOSTO DE 2014)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO OCTAVO. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE VINCULACIÓN, MEJORA REGULATORIA Y COMPETITIVIDAD
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 33.
+
+La Subsecretaría de Vinculación, Mejora Regulatoria y Competitividad, contará con la siguiente Dirección a su cargo:
+
+I. La Dirección General de Vinculación y Competitividad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y COMPETITIVIDAD
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 34.
 
 El titular de la Dirección General de Vinculación y Competitividad tendrá, además de las consignadas en el artículo 25 de este reglamento, las facultades y obligaciones siguientes:
 
@@ -631,69 +741,19 @@ XI. Coordinar el proceso de recepción, revisión, trámite, operación, autoriz
 
 XII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el Titular de la Secretaría.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE ATENCIÓN AL INVERSIONISTA
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
 
-###### Artículo 30.
+### CAPÍTULO OCTAVO BIS. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE ENERGÍA Y RECURSOS NO RENOVABLES
 
-La Dirección General de Promoción Económica, contará con las siguientes Direcciones a su cargo:
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
 
-I. La Dirección de Promoción Internacional; y
+###### Artículo 34 Bis.
 
-II. La Dirección de Atención al Inversionista.
+La Subsecretaría de Energía y Recursos No Renovables contará con la siguiente Dirección a su cargo:
 
-###### Artículo 31.
+La Dirección General de Minería.
 
-El titular de la Dirección de Promoción Internacional tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
-
-I. Coordinar y preparar la logística de ferias y eventos internacionales, donde se pueda promover el estado, siguiendo el programa anual de ferias y eventos nacionales e internacionales;
-
-II. Revisar y programar los recursos materiales, financieros y humanos, necesarios en las ferias y eventos internacionales y evaluar los resultados obtenidos;
-
-III. Elaborar agenda y preparar la documentación pertinente a misiones comerciales;
-
-IV. Proponer al Director General de Promoción Económica, visitas a corporativos internacionales para localizar proyectos de inversión en el estado;
-
-V. Dar seguimiento a los contactos localizados en ferias internacionales y misiones comerciales, como proyectos potenciales de inversión;
-
-VI. Actualizar de manera periódica la página de la Secretaría, los servicios existentes en el estado, para promover el establecimiento de inversiones;
-
-VII. Elaborar directorio de contactos ubicados en ferias y exposiciones internacionales;
-
-VIII. Proporcionar información a inversionistas sobre los apoyos y ventajas que ofrece el estado; dar apoyo en el proyecto inicial de inversión y colaborar en la gestión de los convenios correspondientes; y
-
-IX. Buscar nuevos proyectos de inversión extranjera a través de las tecnologías de información.
-
-#### SECCIÓN I. DE LA DIRECCIÓN GENERAL PARA LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS
-
-###### Artículo 32.
-
-El titular de la Dirección de Atención al Inversionista tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
-
-I. Coordinar y facilitar la actividad de los inversionistas o proyectos de inversión dentro del estado;
-
-II. Proponer al Director General de Promoción Económica, la implementación de lineamientos y normas generales para la mejor atención de inversiones en el estado;
-
-III. Someter a la consideración de la Dirección General de Promoción Económica la celebración de convenios con prestadores de servicios para una mejor atención y trato a los inversionistas;
-
-IV. Difundir la infraestructura de servicios e instalaciones, así como los incentivos y estímulos que ofrece el estado, para el desarrollo y la atención profesional y personalizada que se da al realizar una visita de negocios al estado;
-
-V. Realizar encuentros ante las diversas cámaras, asociaciones y organismos productivos del país, evaluando los servicios existentes en el estado para apoyar la inversión;
-
-VI. Mantener un constante vínculo con los contactos hechos en ferias, exposiciones nacionales y misiones comerciales atendidas en el estado, a través de las cuales se promueva y fomente la inversión;
-
-VII. Explotar de manera adecuada el desarrollo y actividades económicas regionales a través de la integración de consejos regionales de desarrollo con la participación de los sectores social y privado;
-
-VIII. Proporcionar la información necesaria a los inversionistas interesados en visitar el estado, para gestionar y atender su visita, para acentuar su probable inversión; y
-
-IX. Establecer los lineamientos adecuados para recibir las misiones comerciales y visitas de inversionistas donde se contemplen los recorridos en el estado, los encuentros y citas de negocios que se requieran y demás servicios para promover en forma efectiva al estado.
-
-### CAPÍTULO OCTAVO. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE PYMES Y DE PROMOCIÓN AL MERCADO INTERNO
-
-###### Artículo 33.
-
-La Subsecretaría de PYMES y Promoción al Mercado Interno, contará con la siguiente Dirección a su cargo:
-
-La Dirección General para las Micros, Pequeñas y Medianas Empresas.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MAYO DE 2014)</small>
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL DE MINERÍA
 
@@ -727,45 +787,69 @@ XII. Crear y mantener actualizado un banco de información geológico-minera par
 
 XIII. Revisar y autorizar en el ámbito de su competencia los documentos jurídicos que deba suscribir el o la Titular de la Subsecretaría de energía.
 
-###### Artículo 34.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2014)</small>
 
-El titular de la Dirección General para las Micros, Pequeñas y Medianas Empresas, tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
+### CAPÍTULO OCTAVO TER. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE PROMOCIÓN E INVERSIÓN
 
-I. Integrar información estratégica para el desarrollo de las micro, pequeñas y medianas empresas y facilitar información pertinente a niveles macro y micro económico para promover el desarrollo de las mismas, así como, generar, administrar y operar un directorio de micro, pequeños y medianos empresarios en el estado;
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-II. Impulsar y fortalecer la comercialización de los productos y servicios de las micro, pequeñas y medianas empresas y organizar todo tipo de evento que coadyuve al desarrollo de proveedores del estado; promover la vinculación entre micro, pequeñas y medianas empresas y grandes empresas, a fin de generar cadenas productivas industriales entre ellas y operar el programa de desarrollo de proveedores del estado;
+###### Artículo 34 Ter.
 
-III. Fomentar la competitividad de las micro, pequeñas y medianas empresas, por medio de la orientación, asistencia y capacitación en materia de tecnologías de información y comunicación;
+La Subsecretaría de Promoción e Inversión, contará con las siguientes Direcciones a su cargo:
 
-IV. Ofrecer orientación y apoyo a las micro, pequeñas y medianas empresas, en materia de propiedad industrial, que les proporcione certidumbre jurídica en la utilización de signos distintivos;
+I. La Dirección General de Promoción Económica;
 
-V. Coordinar y preparar la logística de ferias y eventos organizados por la Secretaría, dirigidos a las micro, pequeñas y medianas empresas del estado, para otorgarles información necesaria para su desarrollo y crecimiento financiero, mediante esquemas de calidad, información, capacitación, asistencia técnica y respaldo financiero, que incrementen la productividad y competitividad en sus procesos productivos y gerenciales;
+a. La Dirección de Promoción Internacional; y
 
-VI. Fomentar y asistir en la gestión de las exportaciones de micro, pequeños y medianos empresarios del estado, para otorgarles la información y asesoría necesaria;
+b. La Dirección de Atención al Inversionista.
 
-VII. Promover y articular acciones encaminadas al desarrollo emprendedor, a mujeres empresarias y emprendedoras, así como fomentar el espíritu innovador y emprendedor de los coahuilenses en general; administrar y operar los programas de financiamiento para emprendedores;
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-VIII. Servir como enlace de la Secretaría con las dependencias y organismos descentralizados del gobierno federal encargados del financiamiento y promoción a las micro, pequeñas y medianas empresas; coordinar y operar los programas de apoyo de las dependencias y organismos descentralizados del gobierno federal que involucren el desarrollo, competitividad, financiamiento y empleo para las micro, pequeñas y medianas empresas;
+###### Artículo 34 Quater.
 
-IX. Asistir a las dependencias y organismos descentralizados del gobierno del estado que tengan una tarea específica de desarrollo económico y promoción a las micro, pequeñas y medianas empresas del estado como la mejora regulatoria, la comercialización de productos del sector rural y agroindustrial, el desarrollo económico de comunidades en desventaja, la capacitación para el empleo, el turismo de negocios, la producción artesanal y sus similares;
+El titular de la Dirección de Promoción Internacional tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
 
-X. Asistir a las áreas de promoción y desarrollo económico de los municipios del estado y ejercer programas en común para el desarrollo y promoción de las micro, pequeñas y medianas empresas; tener estrecha comunicación con las asociaciones de promoción para el desarrollo económico o su similar del estado para concretar programas, actividades e iniciativas dirigidas para acelerar el crecimiento de las micro, pequeñas y medianas empresas; y
+I. Coordinar y preparar la logística de ferias y eventos internacionales, donde se pueda promover el estado, siguiendo el programa anual de ferias y eventos nacionales e internacionales;
 
-XI. Fungir como Delegado Estatal del Programa de Ventanilla de Fomento a la Microindustria y operar la ventanilla de fomento a la microindustria para coadyuvar en la formación o constitución de empresas de microindustria.
+II. Revisar y programar los recursos materiales, financieros y humanos, necesarios en las ferias y eventos internacionales y evaluar los resultados obtenidos;
 
-> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2014)</small>
+III. Elaborar agenda y preparar la documentación pertinente a misiones comerciales;
 
-### CAPÍTULO OCTAVO BIS. DE LAS DIRECCIONES DE LA SUBSECRETARÍA DE ENERGÍA Y RECURSOS NO RENOVABLES
+IV. Proponer al Director General de Promoción Económica, visitas a corporativos internacionales para localizar proyectos de inversión en el estado;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2014)</small>
+V. Dar seguimiento a los contactos localizados en ferias internacionales y misiones comerciales, como proyectos potenciales de inversión;
 
-###### Artículo 34 Bis.
+VI. Actualizar de manera periódica la página de la Secretaría, los servicios existentes en el estado, para promover el establecimiento de inversiones;
 
-La Subsecretaría de Energía y Recursos No Renovables contará con la siguiente Dirección a su cargo:
+VII. Elaborar directorio de contactos ubicados en ferias y exposiciones internacionales;
 
-La Dirección General de Minería.
+VIII. Proporcionar información a inversionistas sobre los apoyos y ventajas que ofrece el estado; dar apoyo en el proyecto inicial de inversión y colaborar en la gestión de los convenios correspondientes; y
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MAYO DE 2014)</small>
+IX. Buscar nuevos proyectos de inversión extranjera a través de las tecnologías de información.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 34 Quinquies.
+
+El titular de la Dirección de Atención al Inversionista tendrá además de las consignadas en el artículo 25 de este reglamento las facultades y obligaciones siguientes:
+
+I. Coordinar y facilitar la actividad de los inversionistas o proyectos de inversión dentro del estado;
+
+II. Proponer al Director General de Promoción Económica, la implementación de lineamientos y normas generales para la mejor atención de inversiones en el estado;
+
+III. Someter a la consideración de la Dirección General de Promoción Económica la celebración de convenios con prestadores de servicios para una mejor atención y trato a los inversionistas;
+
+IV. Difundir la infraestructura de servicios e instalaciones, así como los incentivos y estímulos que ofrece el estado, para el desarrollo y la atención profesional y personalizada que se da al realizar una visita de negocios al estado;
+
+V. Realizar encuentros ante las diversas cámaras, asociaciones y organismos productivos del país, evaluando los servicios existentes en el estado para apoyar la inversión;
+
+VI. Mantener un constante vínculo con los contactos hechos en ferias, exposiciones nacionales y misiones comerciales atendidas en el estado, a través de las cuales se promueva y fomente la inversión;
+
+VII. Explotar de manera adecuada el desarrollo y actividades económicas regionales a través de la integración de consejos regionales de desarrollo con la participación de los sectores social y privado;
+
+VIII. Proporcionar la información necesaria a los inversionistas interesados en visitar el estado, para gestionar y atender su visita, para acentuar su probable inversión; y
+
+IX. Establecer los lineamientos adecuados para recibir las misiones comerciales y visitas de inversionistas donde se contemplen los recorridos en el estado, los encuentros y citas de negocios que se requieran y demás servicios para promover en forma efectiva al estado.
 
 ### CAPÍTULO NOVENO. LOS NOMBRAMIENTOS Y LAS AUSENCIAS
 
@@ -832,3 +916,9 @@ P.O. 9 DE MAYO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su Publicación en el Periódico Oficial del Gobierno del Estado.
