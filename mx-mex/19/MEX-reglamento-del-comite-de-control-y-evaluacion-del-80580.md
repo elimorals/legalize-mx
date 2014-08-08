@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-control-y-evaluacion-del-80580"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2014-08-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
-REGLAMENTO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO DEL ESTADO DE MEXICO
+REGLAMENTO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO, PUBLICADO EN LA G.G. DE 8 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 1 de abril de 2011.
 
@@ -237,7 +239,7 @@ XI. Proporcionar a los integrantes del COCOE, copia del acta de cada sesión, un
 
 XII. Elaborar y mantener actualizado el directorio de los integrantes del COCOE; e
 
-XIII. Integrar y actualizar un archivo del COCOE; (sic)
+XIII. Integrar y actualizar un archivo del COCOE;
 
 ###### Artículo 18.
 
@@ -267,7 +269,7 @@ IV. Solicitar al Presidente la celebración de las sesiones ordinarias o extraor
 
 Los integrantes del COCOE podrán solicitar la inclusión de asuntos en el orden del día, en este caso se estará a lo dispuesto por el presente Reglamento.
 
-Además, tendrán la misma responsabilidad y jerarquía para opinar, sugerir, y decidir sobre los asuntos que se trate (sic).
+Además, tendrán la misma responsabilidad y jerarquía para opinar, sugerir, y decidir sobre los asuntos (sic) que se trate.
 
 ### CAPÍTULO CUARTO. DE LAS OBLIGACIONES
 
@@ -330,3 +332,15 @@ LIC. RAFAEL ADOLFO NUÑEZ GONZALEZ
 DIRECTOR
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 19 de enero de dos mil once.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
