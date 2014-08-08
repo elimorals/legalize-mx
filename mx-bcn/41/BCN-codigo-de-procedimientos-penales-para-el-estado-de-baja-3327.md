@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2013-07-19"
+last_updated: "2014-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -227,7 +225,7 @@ IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguri
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-V.- Restituir a la víctima u ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficientes si lo estimare necesario; y (sic)
+V.- Restituir a la víctima u ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficientes si lo estimare necesario; y
 
 VI.- Determinar conforme a las disposiciones de este Código, la reserva o bien el ejercicio o no de la acción penal;
 
@@ -3779,25 +3777,31 @@ P.O. 19 DE OCTUBRE DE 2007.
 
 DECRETO NÚMERO 444
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-Artículo Primero.- El presente Código entrará en vigor a las cero horas del día tres de mayo del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
+Artículo Primero.- El presente Código entrará en vigor, exclusivamente en el Partido Judicial de Mexicali, a las cero horas del día once de agosto del año dos mil diez.
 
-I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil once.
-
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil doce.
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 Artículo Segundo.- Aplicación del Código de 1989.- El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989 se seguirá aplicando:
 
-I.- En los Municipios del Estado en los que no haya entrado en vigor el presente Código, conforme a los momentos que se señalan en el artículo transitorio anterior.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-II.- En los Municipios del Estado, en los que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+I.- En los municipios de Tecate, Ensenada, Tijuana y Playas de Rosarito del Estado.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II.- En el municipio de Mexicali, en el que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales cometidos o iniciados con anterioridad a ese momento.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III.- Como ordenamiento jurídico supletorio de la Ley contra la Delincuencia Organizada para el Estado de Baja California, hasta en tanto entra en vigor la nueva Ley especial de la materia que expida el Congreso de la Unión al ejercer la facultad que le confiere el artículo 73, fracción XXI, de la Constitución Federal. En el supuesto de que la Ley federal establezca que los Códigos de Procedimientos Penales de las Entidades Federativas serán sus leyes supletorias, se extenderá su aplicabilidad en términos de lo dispuesto por la citada Ley federal.
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 IV.- Como ordenamiento jurídico supletorio de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, hasta en tanto se reforme esta Ley y se establezca disposición expresa en la que se señale que el citado Código ha dejado de ser supletorio.
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolescentes para el Estado de Baja California publicada el día 27 de octubre de 2006 en el Periódico Oficial del Estado.
 
@@ -3940,3 +3944,9 @@ P.O. 16 DE NOVIEMBRE DE 2012.
 P.O. 19 DE JULIO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A efecto de dar continuidad a los trabajos de armonización e implementación en el Estado, del sistema procesal penal acusatorio, los servidores públicos que en la actualidad integran la Comisión Interinstitucional derivada del Código de Procedimientos Penales publicado el 19 de Octubre del 2007 y que fueron respectivamente designados para tal efecto por el Congreso del Estado y el Tribunal Superior de Justicia, serán los mismos que integren la Comisión Interinstitucional de Implementación del Código Nacional de Procedimientos Penales, hasta en tanto no sean revocadas sus designaciones.
