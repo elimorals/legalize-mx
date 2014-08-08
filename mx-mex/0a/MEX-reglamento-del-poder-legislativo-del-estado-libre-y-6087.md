@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-08-01"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1401,9 +1401,11 @@ X.- Clausura de la sesión.
 
 En las sesiones a las que asistan el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, el Presidente de la Legislatura designará comisiones protocolarias de cortesía para conducirlos al recinto y acompañarles en su salida del salón de sesiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 136.
 
-Las sesiones en las que el Gobernador del Estado rinda informe sobre el estado que guarde la administración pública, se sujetarán al siguiente procedimiento:
+Las sesiones en las que el Gobernador del Estado asista a entregar el informe sobre el estado que guarda la administración pública se sujetarán al siguiente procedimiento:
 
 I.- Lista de asistencia y declaración de quórum;
 
@@ -2412,3 +2414,9 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 G.G. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
