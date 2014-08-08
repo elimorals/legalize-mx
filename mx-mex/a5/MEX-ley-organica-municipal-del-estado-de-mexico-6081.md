@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-08-01"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE JULIO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 1 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 254 PUBLICADO EN LA G.G. DE 11 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -475,17 +473,13 @@ III. Un presidente, dos síndicos y nueve regidores, electos por planilla según
 
 IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 17.
 
-Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
+Dentro de los primeros cinco días hábiles del mes de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo, a efecto de que el presidente municipal rinda un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
-
-Dicho informe se publicará en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento.
+Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en los estrados de la Secretaría del ayuntamiento para su consulta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2012)</small>
 
@@ -1123,11 +1117,11 @@ XIII Quáter. Expedir previo acuerdo del ayuntamiento, licencias de funcionamien
 
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
-> <small>N. DE E. EN RELACIÓN CON LA APLICABILIDAD DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, G.G. 20 DE JULIO DE 2011)</small>
+XV. Entregar por escrito y en medio electrónico al ayuntamiento, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, en sesión solemne de cabildo, un informe del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
 
-XV. Informar por escrito al ayuntamiento, dentro de los primeros tres días hábiles del mes de diciembre de cada año, en sesión solemne de cabildo, del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
+Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en los estrados de la Secretaría del ayuntamiento para su consulta.
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
@@ -4100,3 +4094,9 @@ G.G. 18 DE JULIO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
