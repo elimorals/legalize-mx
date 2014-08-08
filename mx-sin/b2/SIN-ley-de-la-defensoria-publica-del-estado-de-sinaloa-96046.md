@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-defensoria-publica-del-estado-de-sinaloa-96046"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2014-05-30"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, LAS DISPOSICIONES RELATIVAS A LA PRESTACIÓN DEL SERVICIO DE DEFENSORÍA PÚBLICA EN MATERIA PENAL, CON EXCEPCIÓN DE JUSTICIA PARA ADOLESCENTES, EN TÉRMINOS DEL DECRETO NÚMERO 101, PUBLICADO EN EL P.O. DE FECHA 30 DE MAYO DE 2014, ENTRARÁN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, LAS DISPOSICIONES RELATIVAS A LA PRESTACIÓN DEL SERVICIO DE DEFENSORÍA PÚBLICA EN MATERIA PENAL, CON EXCEPCIÓN DE JUSTICIA PARA ADOLESCENTES, EN TÉRMINOS DEL DECRETO NÚMERO 149, PUBLICADO EN EL P.O. DE FECHA 8 DE AGOSTO DE 2014, ENTRARÁN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 25 de septiembre de 2013.
 
@@ -161,7 +161,11 @@ VII. Hacer valer los argumentos y datos de prueba que desvirtúen la existencia 
 
 VIII. Gestionar el trámite relativo a los indultos o cualquier beneficio de sus defendidos en los términos de las disposiciones aplicables y solicitar el no ejercicio de la acción penal, la aplicación de algún criterio de oportunidad o la suspensión condicional del proceso cuando proceda;
 
-IX. Ofrecer, en la etapa intermedia, los medios de prueba pertinentes que se desahogarán en la audiencia de juicio oral y promover la exclusión de los ofrecidos por el Ministerio Público o el acusador coadyuvante cuando no se ajusten a la Ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+IX. Ofrecer, en la etapa intermedia, los medios de prueba pertinentes que se desahogarán en la audiencia de juicio oral, así como realizar el descubrimiento probatorio de la defensa, y promover la exclusión de los ofrecidos por el Ministerio Público o el acusador coadyuvante cuando no se ajusten a la Ley.
+
+Siempre que le sea solicitado por el Ministerio Público deberá realizar la entrega material en copia de los registros con los que cuente y que pretenda ofrecerlos como medios de prueba para ser desahogados en juicio. Asimismo deberá solicitar a la representación social copia de los registros de la investigación y el acceso a las evidencias materiales recabadas;
 
 X. Procurar la justicia restaurativa y los mecanismos alternativos en la solución de controversias;
 
@@ -197,7 +201,9 @@ XXV. Hacer del conocimiento de sus superiores jerárquicos de las resoluciones d
 
 XXVI. Acatar los criterios e instrucciones que reciban de sus superiores jerárquicos para la eficacia de la defensa de los asuntos que se le hayan asignado;
 
-XXVII. Brindar asesoría legal a la víctima u ofendido del delito, conforme a lo dispuesto en el artículo 20, inciso C, fracción I de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XXVII. Brindar asesoría legal a la víctima u ofendido del delito, conforme a lo dispuesto en el artículo 20, inciso C, fracción I de la Constitución Política de los Estados Unidos Mexicanos, para canalizarlo a la Autoridad competente;
 
 XXVIII. Proporcionar obligatoria y gratuitamente defensa de los derechos de los indígenas, así como asesorarlos en todos los casos en que lo soliciten;
 
@@ -277,13 +283,17 @@ IV. Los indígenas; y
 
 V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 17.
 
-El servicio de asesoría y patrocinio en asuntos civiles, se proporcionará a personas de escasos recursos económicos, siempre y cuando la naturaleza del litigio no sea de cuantía económica.
+El servicio de asesoría y patrocinio en asuntos civiles, familiares y administrativos, se proporcionará a personas de escasos recursos económicos, siempre y cuando la naturaleza del litigio no sea de cuantía económica.
 
 En materia familiar, los servicios de asesoría y patrocinio se otorgarán obligatoria y gratuitamente, independientemente de la situación económica o edad del solicitante, cuando así lo ordene el Subdirector de Defensoría Pública y Asesoría Jurídica, así como también si la intervención es solicitada por Juez de lo Familiar, procurando que su designación no afecte los derechos de menores e incapaces.
 
-Tratándose de defensa de derechos de los indígenas, se deberá otorgar patrocinio y asesoría en todos los casos en que lo soliciten, sin importar la materia de que se trate.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+Tratándose de defensa de derechos de los indígenas, se deberá otorgar patrocinio y asesoría en todos los casos en que lo soliciten, siempre y cuando sea competencia del Instituto.
 
 Para los efectos del párrafo anterior, el Instituto de la Defensoría Pública podrá actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines.
 
@@ -331,13 +341,21 @@ III. Percibir retribución alguna de los interesados cualquiera que sea la desig
 
 IV. Desempeñar otro empleo, cargo o comisión de la Federación, del Estado o de los municipios incluyendo el ministerio de algún culto religioso, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia, así como los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de la defensoría.
 
-### CAPÍTULO V. De los Servicios Auxiliares
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO V. De los Servicios Auxiliares y Apoyo Técnico
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 22.
 
+Los Servicios Auxiliares del Defensor se integrarán por la Unidad de Servicios Periciales y de Investigadores de la Defensa quienes serán expertos en diversas artes, ciencias, profesiones u oficios, así como la Unidad de Trabajo Social y demás personal de apoyo técnico y gestión. Las atribuciones y obligaciones de las Unidades de Servicios Periciales y de Investigación de la Defensa, así como, de trabajo social serán desarrolladas en el Reglamento de esta Ley.
+
 Cuando las necesidades del servicio lo requieran y para la eficaz atención de los asuntos de su competencia, el Instituto de la Defensoría Pública podrá contratar los servicios de personas e instituciones de reconocida probidad, capacidad y experiencia, de acuerdo con los criterios siguientes:
 
-I. Para desempeñar funciones de consultoría externa en la etapa del proceso ante los tribunales y para proveer de servicios periciales para una mayor eficacia en la defensa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+I. Para desempeñar funciones de consultoría externa en la etapa del proceso ante los Tribunales y para proveer de servicios periciales para una mayor eficacia en la defensa, de manera excepcional y justificada.
 
 Los prestadores de los servicios auxiliares deberán contar con la acreditación profesional correspondiente, expedida por la autoridad o institución legalmente facultada para ello; y
 
@@ -415,7 +433,9 @@ XI. Determinar, en su caso, la circunscripción y organización de las Subdirecc
 
 XII. Designar a servidores públicos para la atención de casos específicos, cuando así sea conveniente por su naturaleza o especialización;
 
-XIII. Designar al Subdirector de Defensoría Pública y Asesoría Jurídica y al Subdirector Administrativo, así como al titular de la Visitaduría;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XIII. Designar al Subdirector de Defensoría Pública y Asesoría Jurídica y al Subdirector Administrativo, al titular de la Visitaduría, Jefes de Departamento y demás titulares de las Unidades Administrativas;
 
 XIV. Hacer del conocimiento de las autoridades competentes, las posibles violaciones a los derechos humanos detectadas por los Defensores Públicos o Asesores Jurídicos, en el ejercicio de sus funciones;
 
@@ -509,7 +529,9 @@ VI. Procurar la justicia restaurativa y la aplicación de medios alternativos de
 
 VII. Garantizar una defensa adecuada a favor de los usuarios;
 
-VIII. Coordinar la asesoría legal a la víctima u ofendido del delito, conforme a lo dispuesto en el artículo 20, inciso C, fracción I de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+VIII. Coordinar la asesoría legal a la víctima u ofendido del delito, conforme a lo dispuesto en el artículo 20, inciso C, fracción I de la Constitución Política de los Estados Unidos Mexicanos, para canalizarlo a la autoridad competente;
 
 IX. Brindar la asesoría y patrocinio jurídico a las personas que lo soliciten; y
 
@@ -633,29 +655,39 @@ Si del informe o acta circunstanciada de visita, se desprendieran irregularidade
 
 El Director propondrá para su aprobación al Secretario General de Gobierno un Programa Anual de Capacitación en los plazos marcados por la propia Secretaría.
 
-Dicho Programa se desarrollará mediante cursos, seminarios, conferencias y foros sobre aspectos técnicos, profesionales y prácticos que serán impartidos por especialistas en las diversas áreas del derecho, competencia del Instituto.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+Dicho Programa se desarrollará mediante cursos, seminarios, conferencias y foros sobre aspectos técnicos, profesionales y prácticos que serán impartidos por especialistas en diversas áreas del derecho, en servicios periciales, investigación y trabajo social, competencia del Instituto.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 44.
 
-La Dirección solicitará el apoyo y orientación necesario al Instituto Estatal de Ciencias Penales y Seguridad Pública, escuelas y facultades de derecho, asociaciones de profesionistas del derecho o al Instituto de Capacitación Judicial e instituciones similares a través de convenios de colaboración para capacitación de los Defensores Públicos, Asesores Jurídicos, Peritos, y demás personal administrativo, a fin de optimizar su preparación y el servicio que brindan.
+La dirección solicitará el apoyo y orientación necesaria al Instituto Estatal de Ciencias Penales y Seguridad Pública, escuelas y facultades de derecho y trabajo social, asociaciones de profesionistas del derecho o al Instituto de Capacitación Judicial e instituciones similares a través de convenios de colaboración para capacitación de los Defensores Públicos, Asesores Jurídicos, Peritos y demás personal administrativo, a fin de optimizar su preparación y servicio que brinda.
 
 ### CAPÍTULO VIII. Del Servicio Profesional de Carrera
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 45.
 
-El ingreso y promoción de los Defensores Públicos y Asesores Jurídicos que presten sus servicios en el Instituto de la Defensoría Pública será por concurso mediante examen de oposición, cuyos procedimientos estarán regulados en el Reglamento.
+El ingreso y promoción de los Defensores Públicos, Asesores Jurídicos, Trabajadores Sociales, Peritos e Investigadores de la Defensa que presten sus servicios en el Instituto de la Defensoría Pública será por concurso mediante examen de oposición, cuyos procedimientos estarán regulados en el Reglamento.
 
 La formación, permanencia y estímulos, se realizará en el contexto del Servicio Profesional de Carrera, bajo los principios señalados en esta Ley, y garantizará la igualdad de oportunidades laborales, así como la permanencia, remuneración adecuada, capacitación y garantías de seguridad social, en los términos que establezca el Reglamento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 46.
 
-Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, estímulos y reconocimientos de los Defensores Públicos y Asesores Jurídicos, serán regulados por el Reglamento.
+Los procedimientos para la selección, ingreso, formación, capacitación, actualización, especialización, ascenso, estímulos y reconocimientos de los Defensores Públicos, Asesores Jurídicos, Trabajadores Sociales, Peritos e Investigadores de la Defensa serán regulados por el Reglamento.
 
 ### CAPÍTULO IX. De la Responsabilidad de los Defensores Públicos y Asesores Jurídicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 47.
 
-Con independencia de las causas de responsabilidad atribuibles a los Defensores Públicos y Asesores Jurídicos establecidas en la Ley de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones legales aplicables, se prevén en esta Ley las siguientes:
+Con independencia de las causas de responsabilidad atribuibles a los Defensores Públicos, Asesores Jurídicos, Trabajadores Sociales, Peritos e Investigadores de la Defensa establecidas en la Ley de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones legales aplicables, se prevén en esta Ley las siguientes:
 
 I. Demorar, descuidar y abandonar, sin causa justificada, la atención de los asuntos y funciones a su cargo;
 
@@ -677,9 +709,11 @@ IX. Cuando haya sido corregido disciplinariamente por más de tres veces consecu
 
 Las causas de responsabilidad previstas en las fracciones I, II, III, VIII y IX serán sancionadas con destitución, y las previstas en las fracciones IV, V, VI y VII con suspensión de funciones, en ambos casos conforme a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 48.
 
-Los usuarios que se consideren afectados por incurrir los Defensores Públicos y Asesores Jurídicos en alguna de las causas de responsabilidad enunciadas en el artículo anterior, podrán interponer su queja por escrito ante el Director, el Subdirector de Defensores Públicos y de Asesores Jurídicos y el Titular de la Visitaduría.
+Los usuarios que se consideren afectados por incurrir los Defensores Públicos, Asesores Jurídicos, Trabajadores Sociales, Peritos e Investigadores de la Defensa en alguna de las causas de responsabilidad enunciadas en el artículo anterior, podrán interponer su queja por escrito ante el Director, el Subdirector de Defensores Públicos y de Asesores Jurídicos y el Titular de la Visitaduría.
 
 El procedimiento de investigación de conductas que se imputen a los Defensores Públicos y Asesores Jurídicos, y el procedimiento para la aplicación de sanciones administrativas se desarrollarán en términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos.
 
@@ -810,3 +844,15 @@ CUARTO. La reforma prevista en al artículo 21, fracción VII de la Ley Orgánic
 QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las disposiciones relativas a la prestación del servicio de Defensoría Pública en materia penal, con excepción de justicia para adolescentes, en términos del presente Decreto, entrarán en vigor en los términos que establezca la Declaratoria que para tales efectos emita el H. Congreso del Estado de Sinaloa, de conformidad con lo dispuesto en el artículo segundo transitorio, tercer párrafo, del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, así como en el artículo segundo transitorio, segundo párrafo, del Decreto por el que se expide el Código
+
+Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación de fecha 5 de marzo de 2014.
+
+TERCERO. El Ejecutivo del Estado en un plazo de 60 días, deberá realizar las adecuaciones necesarias al Reglamento de esta Ley para el cumplimiento del presente Decreto.
+
+CUARTO. La Secretaría General de Gobierno y la Secretaría de Administración y Finanzas implementarán las medidas tendientes para la nivelación de las percepciones de los Defensores Públicos del Instituto de la Defensoría Pública, con las que corresponden a los Agentes del Ministerio Público del Fuero Común.
