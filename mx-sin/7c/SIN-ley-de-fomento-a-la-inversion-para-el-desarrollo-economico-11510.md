@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "2006-08-09"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
 
-LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
+LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -367,7 +367,7 @@ Tarifas de Conexión de Agua 0
 
 Potable y Alcantarillado
 
-TABLA III: PROYECTOS INDUSTRIALES Y TURISTICOS QUE GENEREN HASTA 99 EMPLEOS PERMANENTES
+TABLA III: PROYECTOS INDUSTRIALES Y TURÍSTICOS QUE GENEREN HASTA 99 EMPLEOS PERMANENTES
 
 CONCEPTOS 1er.- 3er. 4. Año 5to. Año
 
@@ -755,61 +755,41 @@ Los programas de apoyo sectorial deberán complementar y reforzar aquellos progr
 
 En su oportunidad, los programas de apoyo sectorial deberán publicarse en el Periódico Oficial "El Estado de Sinaloa" y otros medios de difusión que se consideren necesarios.
 
-### CAPITULO III. A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+### CAPITULO III
 
 ###### ARTICULO 60.
 
-Para clasificar las empresas, se tomarán en consideración los siguientes criterios, mismos que serán actualizados de acuerdo a lo que establezca la Secretaría de Comercio y Fomento Industrial al respecto:
-
-I.- Se entiende como micro empresa, aquella unidad productiva en la que laboren más de 15 empleados y/o que tenga ventas anuales equivalentes a 79,000 salarios mínimos diarios generales de la zona;
-
-II.- La pequeña empresa, es aquella unidad productiva que cuente entre 16 y 100 trabajadores y/o con ventas anuales equivalentes a 450,000 salarios mínimos diarios generales de la zona; y
-
-III.- Se considera mediana empresa, aquella unidad productiva en la que laboren entre 101 y 250 trabajadores y/o con ventas anuales equivalentes a 1' 785,000 salarios mínimos diarios generales de la zona.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 61.
 
-Al margen de los programas de apoyo sectorial, la Secretaría buscará estimular la integración de la micro, pequeña y mediana empresa bajo esquemas de asociación interempresarial.
-
-Por esquemas de asociación se entiende la agrupación de empresas con el fin de hacer más eficiente la compra, producción y comercialización de productos y servicios.
-
-Estos esquemas deberán orientarse a elevar su competitividad, lograr economías de escala y una mayor presencia en los mercados nacional e internacional.
-
-Los programas de apoyo sectorial deberán complementar y reforzar aquellos programas de carácter federal.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 62.
 
-Los esquemas de asociación deberán incluir al menos tres de los siguientes aspectos en su operación:
-
-I.- Optimización de la Capacidad Instalada: Suma de capacidades de producción y reducción de costos para lograr mayores niveles de eficiencia;
-
-II.- Promoción y Comercialización: Realización de actividades de mercadeo y promoción en los mercados regional, nacional e internacional;
-
-III.- Diseño: Apoyo en la selección de productos y líneas, de acuerdo a información sobre las demandas del mercado;
-
-IV.- Tratamiento y/o aprovechamiento de residuos industriales: Asesoramiento para eficientar la utilización de materiales reciclables; y
-
-V.- Compras: Adquisición de materias primas, tecnología y maquinaria.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 63.
 
-Para efectos de esta Ley, se considerarán como nuevas inversiones y empleos a los resultantes de asociar micro, pequeñas y medianas empresas, según los criterios descritos en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 64.
 
-La Secretaría implementará las acciones necesarias para facilitar las gestiones administrativas de la micro, pequeña y mediana empresa a través de la Ventanilla Unica.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 65.
 
-La Secretaría promoverá ante organismos empresariales, la instalación de oficinas o la subcontratación de servicios legales, administrativos y financieros orientados a apoyar las necesidades de la micro, pequeña y mediana empresa.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 66.
 
-En igualdad de condiciones, de precio y calidad, el Gobierno del Estado, sus dependencias y los Gobiernos Municipales, deberán adquirir todos los insumos, bienes y servicios, en empresas establecidas en el Estado de Sinaloa.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ###### ARTICULO 67.
 
-El Codesin podrá recomendar al Ejecutivo Estatal o determinar, en el ámbito de su competencia, otros apoyos para las micro, pequeñas y medianas empresas.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA, P.O. 8 DE AGOSTO DE 2014)
 
 ### CAPITULO IV. PARA EL DESARROLLO DE PROVEEDORES
 
@@ -1283,7 +1263,7 @@ EL SECRETARIO DE DESARROLLO ECONOMICO
 
 Alberto López Vargas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 .
 
@@ -1314,3 +1294,21 @@ P.O. 9 DE AGOSTO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas de Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días posteriores a la entrada en vigor del presente Decreto, deberá instalarse el Consejo y la Secretaría deberá constituir el Registro Estatal de las Micro, Pequeñas y Medianas Empresas.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la Ley para el Desarrollo de la Competitividad de las Micro, Pequeñas y Medianas Empresas del Estado de Sinaloa, deberá expedirse en un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Capítulo III denominado “A la Micro, Pequeña y Mediana Empresa" del Título IV "Otros Programas de Apoyo" y sus artículos 60, 61, 62, 63, 64, 65, 66 y 67, todos de la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa.
