@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-integral-de-justicia-para-adolescentes-del-7698
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2012-09-28"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SUS REFORMAS PUBLICADAS EN EL P.O. 30 DE SEPTIEMBRE DE 2011, P.O. DEL 30 DE DICIEMBRE DE 2011 Y 28 DE SEPTIEMBRE DE 2012, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 100 PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -289,9 +289,9 @@ XIX.- Permanecer separado, cuando esté sujeto a internamiento preventivo, de aq
 
 XX.- Ser preparado psicológicamente para salir de los centros de internamiento;
 
-XXI.- Recibir visita íntima, siempre que se trate de adolescentes sujetos a medidas, que sean emancipados, o que acrediten sostener una relación de concubinato, debiendo siempre informarles sobre los métodos anticonceptivos y la paternidad responsable; y (sic)
+XXI.- Recibir visita íntima, siempre que se trate de adolescentes sujetos a medidas, que sean emancipados, o que acrediten sostener una relación de concubinato, debiendo siempre informarles sobre los métodos anticonceptivos y la paternidad responsable; y
 
-XXII.- A que la comunicación que el interno tenga con su defensor, se realice en espacios apropiados y no sea suspendida o intervenida; y (sic)
+XXII.- A que la comunicación que el interno tenga con su defensor, se realice en espacios apropiados y no sea suspendida o intervenida; y
 
 XXIII.- A ser recibidos en audiencias por los funcionarios del Centro; así como formular y entregar, o exponer personalmente, en forma pacífica y respetuosa, peticiones y quejas que se refieran al régimen interno o a su trato, ante el Director del Centro, sus superiores jerárquicos, otras autoridades del exterior o las personas que los representen, y solicitar que se tomen las medidas oportunas del caso; y
 
@@ -431,7 +431,7 @@ Suspensión del proceso a prueba.- Procederá la suspensión del proceso a prueb
 
 ###### Artículo 48.
 
-Condiciones por cumplir durante la suspensión de proceso a prueba.-EI (sic) Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a dos años y determinará imponer al adolescente, una o varias de las condiciones que deberá cumplir, de entre las previstas en el Código y las siguientes:
+Condiciones por cumplir durante la suspensión de proceso a prueba.- EI Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a dos años y determinará imponer al adolescente, una o varias de las condiciones que deberá cumplir, de entre las previstas en el Código y las siguientes:
 
 I.- Iniciar o finalizar la escolaridad básica o media, aprender un oficio o seguir cursos de capacitación en el lugar o la institución que determine.
 
@@ -471,7 +471,7 @@ Si el adolescente detenido muestra señales de maltrato físico o psicológico, 
 
 Tratándose de conductas de las que no ameritan la aplicación de medidas de internamiento o se determine que el acusado es menor de catorce años, éste será entregado en libertad a sus representantes legales o parientes más cercanos, con el compromiso de presentarlo ante las autoridades competentes una vez que les sean remitidas las diligencias y éstas lo requieran.
 
-Si el hecho ocurrió en un lugar donde no exista Ministerio Público Especializado para Adolescentes, y no sea posible la remisión inmediata a dicha autoridad, deberá conocer el Ministerio Público del lugar, quien en auxilio de aquel se abocará al conocimiento del hecho, con la intervención del Defensor Público, realizando las diligencias que sean necesarias; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente, con el fin de evitar su internamiento en áreas o establecimientos destinados para adultos. Las actuaciones ministeriales que se practiquen conforme a este párrafo, deberán enviarse al Juez de Garantía dentro de un máximo de cuarenta y ocho horas." (sic)
+Si el hecho ocurrió en un lugar donde no exista Ministerio Público Especializado para Adolescentes, y no sea posible la remisión inmediata a dicha autoridad, deberá conocer el Ministerio Público del lugar, quien en auxilio de aquel se abocará al conocimiento del hecho, con la intervención del Defensor Público, realizando las diligencias que sean necesarias; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente, con el fin de evitar su internamiento en áreas o establecimientos destinados para adultos. Las actuaciones ministeriales que se practiquen conforme a este párrafo, deberán enviarse al Juez de Garantía dentro de un máximo de cuarenta y ocho horas."
 
 ###### Artículo 52.
 
@@ -1121,7 +1121,7 @@ I.- Se deberá presentar reporte por escrito de los hechos en forma inmediata al
 
 Dicho reporte deberá contener por lo menos, la identificación de los adolescentes imputados por la comisión de alguna conducta infractora, los hechos que se les imputan y la narración detallada que describa las circunstancias de modo, tiempo y lugar en que acontecieron los hechos que pueden ser constitutivos de una infracción;
 
-II.- Una vez recibido el reporte, el titular del centro, por conducto del secretario técnico de la comisión disciplinaria deberá convocar a los demás integrantes de la comisión, a los adolescentes imputados y en su caso a quienes puedan estar relacionados con los hechos, a una audiencia en la que se determinará si a (sic) lugar o no a la imposición de medidas disciplinarias;
+II.- Una vez recibido el reporte, el titular del centro, por conducto del secretario técnico de la comisión disciplinaria deberá convocar a los demás integrantes de la comisión, a los adolescentes imputados y en su caso a quienes puedan estar relacionados con los hechos, a una audiencia en la que se determinará si a lugar o no a la imposición de medidas disciplinarias;
 
 III.- Al inicio de la audiencia, se hará saber al adolescente la conducta que se le imputa, su derecho a guardar silencio o manifestar lo que estime conveniente a sus intereses, así como su derecho a ser asistido por un perito en derecho y que en caso de no contar con uno, le asistirá un Defensor Público;
 
@@ -1135,21 +1135,19 @@ V.- La resolución que imponga una medida disciplinaria deberá recaer por escri
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día once de agosto del año dos mil catorce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
-
-I. Ensenada, a partir de las cero horas del día tres de mayo del dos mil quince.
-
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del dos mil dieciséis.
+Artículo Primero.- Vigencia.- La presente ley entrará en vigor a las cero horas del día 18 de junio de 2016.
 
 Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
 
 Artículo Tercero.- Aplicación de la Ley de Justicia para Adolescentes del Estado de Baja California 2006.- La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, se seguirá aplicando:
 
-I.- En los Municipios del Estado en los que no haya entrado en vigor la presente Ley, conforme a los momentos que se señalan en el artículo primero transitorio.
+I.- (DEROGADA, P.O. 8 DE AGOSTO DE 2014)
 
-II.- En los Municipios del Estado, en los que habiendo entrado en vigor la presente Ley, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II.- En los hechos delictivos y procedimientos penales que se hubieran cometido o se encuentren en trámite, con anterioridad a la entrada en vigor de la presente ley.
 
 III.- Siempre que no se opongan a lo previsto por esta Ley, las disposiciones relativas a la organización, funcionamiento y atribuciones de la Subsecretaría y los Centros de Ejecución de Medidas y de Diagnóstico, con excepción de lo relativo a la solicitud, elaboración y remisión del diagnostico integral de personalidad a cargo del Centro de Diagnóstico.
 
@@ -1208,3 +1206,7 @@ II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tr
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
