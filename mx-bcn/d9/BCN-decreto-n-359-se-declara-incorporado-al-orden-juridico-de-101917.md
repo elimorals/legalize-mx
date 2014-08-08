@@ -4,7 +4,7 @@ identifier: "BCN-decreto-n-359-se-declara-incorporado-al-orden-juridico-de-10191
 country: "mx"
 rank: "decreto"
 publication_date: "2010-04-23"
-last_updated: "2010-04-23"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 DECRETO N° 359 QUE DECLARA INCORPORADO AL ORDEN JURÍDICO DE BAJA CALIFORNIA, A TRAVÉS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL QUE SE CONSAGRA EN EL PRIMER PÁRRAFO DEL ARTICULO 20 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y EL CUAL ENTRARA EN VIGOR DE ACUERDO A LOS DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL CITADO CÓDIGO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Decreto publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 23 de abril de 2010.
 
@@ -33,13 +33,9 @@ LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFOR
 
 DECRETO N° 359
 
-PRIMERO.- Se declara incorporado al orden jurídico de Baja California, a través del Código de Procedimientos Penales para el Estado de Baja California, el Sistema procesal penal acusatorio y oral que se consagra en el primer párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, y el cual entrará en vigor de acuerdo a los (sic) dispuesto por el artículo primero transitorio del citado código, en las siguientes fechas: A partir de las cero horas de:
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-a.- El once de agosto del año 2010 en el Municipio de Mexicali
-
-b.- El tres de mayo del año 2012 en el Municipio de Ensenada
-
-c.- El tres de mayo del año 2013 en los Municipios de Tijuana, Playas de Rosarito y Tecate.
+PRIMERO.- Se declara incorporado al orden jurídico de Baja California, exclusivamente en el Partido Judicial de Mexicali, a través del Código de Procedimientos Penales para el Estado de Baja California, publicado en el Periódico Oficial del Estado el 19 de octubre de 2007, el sistema procesal acusatorio oral que se consagra en el primer párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, y el cual entrará en vigor de acuerdo con el artículo primero transitorio del código citado, a las cero horas del once de agosto del año 2010.
 
 SEGUNDO.- Publíquese el presente en el Periódico oficial del Estado.
 
@@ -64,3 +60,11 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A efecto de dar continuidad a los trabajos de armonización e implementación en el Estado, del sistema procesal penal acusatorio, los servidores públicos que en la actualidad integran la Comisión Interinstitucional derivada del Código de Procedimientos Penales publicado el 19 de Octubre del 2007 y que fueron respectivamente designados para tal efecto por el Congreso del Estado y el Tribunal Superior de Justicia, serán los mismos que integren la Comisión Interinstitucional de Implementación del Código Nacional de Procedimientos Penales, hasta en tanto no sean revocadas sus designaciones.
