@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2014-08-01"
+last_updated: "2014-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -293,13 +293,11 @@ Cuando exista urgencia sobre la designación o nombramiento de servidores públi
 
 Se entiende por urgencia cuando la falta del servidor público, impida, interfiera o ponga en riesgo una función pública trascendental para el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 34.
 
-La Legislatura recibirá en sesión solemne, en el mes de septiembre de cada año, previo aviso, por lo menos, con ocho días naturales de anticipación, el informe del Gobernador, sobre el estado general que guarde la administración pública estatal, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación.
+La Legislatura recibirá, dentro del mes de septiembre, un informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado, que deberá recibirse dentro de los primeros quince días del mes de septiembre. Lo anterior, en los términos y de conformidad con lo dispuesto por el artículo 77 fracción XVIII de la Constitución Política del Estado Libre y Soberano de México.
 
 > <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
 
@@ -765,7 +763,7 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
-X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
+X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se haga valer contra tales resoluciones;
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -2088,3 +2086,9 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 G.G. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
