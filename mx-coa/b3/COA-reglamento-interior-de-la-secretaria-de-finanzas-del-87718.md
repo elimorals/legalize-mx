@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-finanzas-del-87718"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2014-01-11"
+last_updated: "2014-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
@@ -63,7 +63,7 @@ VIII. Periódico Oficial: El Periódico Oficial del Gobierno del Estado;
 
 IX. Secretaría: La Secretaría de Finanzas del Gobierno del Estado;
 
-X. Secretario: El titular de la Secretaría de Finanzas del Gobierno del Estado; (sic)
+X. Secretario: El titular de la Secretaría de Finanzas del Gobierno del Estado;
 
 ###### ARTÍCULO 3.
 
@@ -83,7 +83,9 @@ Al frente de la Secretaría habrá un Secretario, quien tendrá a su cargo el de
 
 I. Subsecretaría de Egresos
 
-II. Subsecretaría de Ingresos;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II. Subsecretaría de Ingresos y Crédito;
 
 III. Subsecretaría de Administración;
 
@@ -119,19 +121,19 @@ f) Dirección General de Caja General.
 
 g) Dirección General de Control y Evaluación de Presupuesto
 
-h) (DEROGADO, P.O. 11 DE ENERO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2014)</small>
+h) Coordinación General de Inversiones
 
-II. Adscritas a la Subsecretaría de Ingresos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II. A la Subsecretaría de Ingresos y Crédito.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2013)</small>
 
 a) Dirección General de Política de Ingresos.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
-
-b) Coordinación General de Inversiones.
+b) (DEROGADO, P.O. 8 DE AGOSTO DE 2014)
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -140,6 +142,10 @@ c) Coordinación General de Evaluación y Seguimiento de Ingresos de las depende
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2014)</small>
 
 d) Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+e) Dirección General de Política de Crédito.
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -337,7 +343,7 @@ VII. Llevar registro de los ingresos que se radiquen para su integración a los 
 
 VIII. Formular los estados financieros mensuales y durante el mes de enero de cada año realizar un informe pormenorizado del ejercicio anterior sobre las finanzas públicas y la deuda pública, sin perjuicio de las obligaciones otorgadas a las entidades en las disposiciones jurídicas de rendición de cuentas.
 
-IX. Llevar el control de la deuda pública del Estado, informando al Secretario periódicamente sobre el estado de las amortizaciones de capital y pago de intereses.
+IX. (DEROGADA, P.O. 8 DE AGOSTO DE 2014)
 
 X. Examinar en el aspecto financiero, todas las operaciones en que se haga uso del crédito público del Estado, y dictaminar en relación a su procedencia, con base en los límites presupuestales.
 
@@ -349,7 +355,9 @@ XIII. Someter oportunamente a la consideración del Secretario la cuenta públic
 
 XIV. Programar y transferir los recursos correspondientes para el pago de la nómina estatal.
 
-XV. Suscribir los títulos de crédito que, conforme a derecho procedan, en representación de la Secretaría.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XV. Administrar, explotar, conservar y, en su caso participar, en la esfera de su competencia, en la planeación y proyección de las autopistas y puentes de peaje que se establezcan en el territorio del Estado, cuya ejecución se lleve a cabo con recursos públicos a través de financiamiento a las entidades paraestatales que para tal efecto se establezcan.
 
 XVI. Integrar y presentar a la consideración del Secretario, los estudios y proyectos técnicos, jurídicos y administrativos que resulten convenientes para optimizar la administración de las finanzas públicas del Estado, en el ámbito de su competencia.
 
@@ -373,57 +381,109 @@ XXV. (DEROGADA, P.O. 11 DE ENERO DE 2014)
 
 XXVI. (DEROGADA, P.O. 11 DE ENERO DE 2014)
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde al Subsecretario de Ingresos:
+Corresponde al Subsecretario de Ingresos y Crédito:
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 I. Formular y presentar oportunamente a la consideración del Secretario el anteproyecto de Ley de Ingresos para cada ejercicio fiscal.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 II. Formular y presentar oportunamente a la consideración del Secretario, el anteproyecto de reformas, modificación, adición o derogación de la ley en la que se establezca la distribución de participaciones y aportaciones federales a los municipios del Estado de Coahuila, para cada ejercicio fiscal.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 III. Formular y presentar a la consideración del Secretario, los anteproyectos de leyes, reformas o adiciones a éstas, decretos, acuerdos y demás disposiciones aplicables, relacionadas con los ingresos del Estado.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 IV. Analizar y presentar al Secretario las alternativas de política de ingresos de la Secretaría, para cada ejercicio fiscal, estimando las metas de recaudación, y señalando los objetivos que debe alcanzar, en congruencia con la política económica y social del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 V. Informar al Secretario y al Subsecretario de Egresos sobre las aportaciones federales que se reciban.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 VI. Vigilar, revisar y validar la recaudación, los ingresos del Estado por impuestos, derechos, productos, aprovechamientos y demás contribuciones que establezcan las leyes del Estado y que sean recaudados a través de la Administración Fiscal, dependencias y entidades de la administración pública estatal; así como los que se deriven de los convenios que celebre el Estado con la Federación o los municipios; y los ingresos que por otros conceptos, se señalen en los ordenamientos correspondientes.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 VII. Revisar la aplicación que realice la Administración Fiscal General de los convenios y acuerdos de coordinación fiscal con las autoridades fiscales federales y municipales, para su correcto cumplimiento.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 VIII. Determinar los ingresos federales que por participaciones o por cualquier otro concepto correspondan al Estado o a sus municipios, conforme a la Ley de Coordinación Fiscal, los convenios celebrados con el Gobierno Federal y demás disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 IX. Someter a la consideración del Secretario, la posibilidad de otorgar estímulos fiscales para fomentar determinadas áreas de las actividades económicas del Estado para promover la inversión y la creación de empleos, así como en beneficio de la población
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 X. Evaluar y supervisar los procedimientos que la Administración Fiscal realice en materia de vehículos o mercancía de procedencia extranjera, y en su caso el embargo precautorio de los mismos, en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás convenios celebrados por el Gobierno del Estado con la Federación.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XI. Revisar, vigilar y participar en los comités, asambleas o juntas de gobierno que se integren en las dependencias y entidades de la administración pública estatal, en lo que se relacionen con los ingresos del Estado, previo acuerdo con el Secretario.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 XII. Coadyuvar, con las unidades administrativas de la Secretaría, en las controversias de cualquier clase, investigaciones o procedimientos administrativos en que ella deba intervenir conforme a derecho.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XIII. Informar al Secretario de los hechos que tenga conocimiento con motivo de sus actuaciones y que puedan constituir delitos fiscales o delitos de los servidores públicos de la Secretaría y de la Administración Fiscal en el desempeño de sus funciones, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 XIV. Verificar la contabilización de los ingresos coordinados y elaborar y presentar oportunamente las cuentas e informes que se deban rendir a las autoridades federales competentes.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XV. Elaborar y presentar al Secretario para su consideración y aprobación, en su caso, el proyecto de distribución de las participaciones y aportaciones federales que correspondan a los municipios conforme a las leyes y demás disposiciones aplicables.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 XVI. Vigilar, en el ámbito de su competencia, el cumplimiento y la aplicación de las leyes, reglamentos y demás disposiciones de carácter fiscal.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XVII. Asesorar en materia fiscal a los municipios del Estado, cuando lo soliciten, en el análisis de su política fiscal, en la elaboración de anteproyectos de ordenamientos fiscales y en el establecimiento de sistemas administrativos.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 XVIII. Coadyuvar, en representación de la Secretaría y de sus unidades administrativas, en las controversias de cualquier clase, investigaciones o procedimientos administrativos en que ella deba intervenir conforme a derecho.
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XIX. Informar al Secretario la realización de foros, eventos, cursos y demás actividades destinadas a la capacitación del personal adscrito a la Subsecretaría.
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
+
 XX. Las demás funciones que en su carácter de autoridad fiscal, le atribuyan el Código Fiscal para el Estado de Coahuila, los Convenios de Coordinación y Colaboración celebrados con las autoridades fiscales federales y demás disposiciones legales, así como las que le asigne el Secretario.
 
-XXI. Administrar, explotar, conservar y, en su caso participar, en la esfera de su competencia, en la planeación y proyección de las autopistas y puentes de peaje que se establezcan en el territorio del Estado, cuya ejecución se lleve a cabo con recursos públicos a través de financiamiento a las entidades paraestatales que para tal efecto se establezcan.
+XXI. (DEROGADA, P.O. 8 DE AGOSTO DE 2014)
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
 XXII. Participar en los Comités del impuesto sobre nóminas, en el Comité para la aceptación del Pago de Contribuciones en Especie, con bienes y/o Servicios, en el Comité de Estudios Fiscales para la Condonación de Multas, en el Comité para la determinación del destino de bienes de comercio exterior y en los demás que se formen como resultado de las funciones y atribuciones delegadas.
 
-XXIII. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XXIII. Llevar el control de la deuda pública del Estado, informando al Secretario periódicamente sobre el estado de las amortizaciones de capital y pago de intereses.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XXIV. Suscribir los títulos de crédito que, conforme a derecho procedan, en representación de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+XXV. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -431,7 +491,7 @@ ARTÍCULO 13 A. Corresponde al Subsecretario de Administración:
 
 I. Administrar y operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-II. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas de conformidad con la Ley de de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, así como planear y ejecutar todas las acciones de administración y operación previstas en dichos ordenamientos en los términos de los convenios correspondientes de las entidades, dependencias y los municipios cuando así lo autoricen sus cabildos.
+II. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas de conformidad con la Ley de de (sic) Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, así como planear y ejecutar todas las acciones de administración y operación previstas en dichos ordenamientos en los términos de los convenios correspondientes de las entidades, dependencias y los municipios cuando así lo autoricen sus cabildos.
 
 III. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
 
@@ -837,45 +897,27 @@ XX. Participar en los comités, asambleas o juntas de gobierno que se integren e
 
 XXI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
 Corresponde al Director General de Política Financiera:
 
 I. Efectuar los estudios en materia financiera y económica que sean necesarios para la definición de las políticas financieras en coordinación con las dependencias y entidades de la administración pública estatal que correspondan.
 
-II. Participar en las negociaciones de los créditos con cargo al erario público que deban contratarse conforme a la ley, así como controlar y vigilar su apego a las disposiciones y políticas aplicables en materia de deuda pública.
+II. Previo acuerdo con el Subsecretario, llevar el Registro Único de Obligaciones y Empréstitos del Estado, de acuerdo a lo previsto por la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, así como mantener actualizada la información sobre la situación que guardan las obligaciones inscritas y cancelarlas en su oportunidad.
 
-III. Proponer el otorgamiento de contratos de financiamiento y la emisión de valores cuando sea necesario y lo permitan las disposiciones vigentes en la materia.
+III. Detectar áreas de oportunidad en materia de ahorro y disminución de gastos.
 
-IV. Verificar que los financiamientos que se pretendan contratar por las dependencias y entidades de la administración pública estatal estén autorizados por el Congreso del Estado, además de vigilar aquellos en los que el Estado sea avalista, deudor solidario, subsidiario o sustituto en los términos previstos por las leyes aplicables.
+IV. Analizar e interpretar la información financiera de las dependencias y entidades de la administración pública estatal.
 
-V. Realizar ante la Secretaría de Hacienda y Crédito Público, los trámites necesarios para registrar los nuevos financiamientos, en los que se establezca como garantía las participaciones que en ingresos federales correspondan al Estado o a los municipios, así como las aportaciones federales y las demás que procedan.
+V. Proponer los criterios de interpretación de análisis de estados financieros que deban ser aplicados por las dependencias y entidades de la administración pública estatal, relacionados con el análisis de flujo de efectivo, de activos, de pasivos, y los demás que conforme a las técnicas juzgue convenientes.
 
-VI. Previo acuerdo con el Subsecretario, llevar el Registro Único de Obligaciones y Empréstitos del Estado, de acuerdo a lo previsto por la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, así como mantener actualizada la información sobre la situación que guardan las obligaciones inscritas y cancelarlas en su oportunidad.
+VI. Dar seguimiento a todos los aspectos relacionados con la reestructuración de pasivos, planeación, programación y pago de flujo de efectivo.
 
-VII. Detectar áreas de oportunidad en materia de financiamiento y proponer las medidas necesarias para acceder a él cuando a su juicio proceda.
+VII. Desarrollar y proponer los lineamientos que deban aplicarse respecto de la disponibilidad de los ingresos, egresos y fondos de las dependencias y entidades de la administración pública estatal y vigilar la correcta aplicación de los autorizados conforme a derecho.
 
-VIII. Asesorar a las entidades y a los municipios cuando se gestione la obtención de créditos con instituciones bancarias y organizaciones auxiliares, en donde se comprometa el aval del gobierno estatal.
-
-IX. Analizar e interpretar la información financiera de las dependencias y entidades de la administración pública estatal.
-
-X. Proponer los criterios de interpretación de análisis de estados financieros que deban ser aplicados por las dependencias y entidades de la administración pública estatal, relacionados con el análisis de flujo de efectivo, de activos, de pasivos, y los demás que conforme a las técnicas juzgue convenientes.
-
-XI. Proponer a instituciones calificadoras de valores debidamente autorizadas en el país, a efecto de que emitan la calificación crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que se pretendan implementar en el Estado.
-
-XII. Dar seguimiento a todos los aspectos relacionados con la reestructuración de pasivos, planeación, programación y pago de flujo de efectivo.
-
-XIII. Preparar la información sobre la deuda pública para los informes necesarios que solicite el Congreso del Estado, así como la información que por las disposiciones aplicables se deba publicar.
-
-XIV. Desarrollar y proponer los lineamientos que deban aplicarse respecto de la disponibilidad de los ingresos, egresos y fondos de las dependencias y entidades de la administración pública estatal y vigilar la correcta aplicación de los autorizados conforme a derecho.
-
-XV. Analizar y calcular la información de costos, plazos y otras canalizaciones de la deuda estatal, haciendo las recomendaciones pertinentes en cuanto a la reestructuración, pagos anticipados y renegociación de tasas que a su juicio procedan.
-
-XVI. Mantener actualizado el registro de la deuda pública, en los términos de las disposiciones jurídicas de la materia; registro que contendrá información completa de las disposiciones, amortizaciones, saldos, costos y tasas de interés de cada financiamiento contratado; por las dependencias y entidades de la administración pública estatal y, en su caso, de los municipios.
-
-XVII. Vigilar el exacto cumplimiento de las disposiciones aplicables en materia de deuda pública, y;
-
-XVIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+VIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 ###### ARTÍCULO 26.
 
@@ -983,7 +1025,7 @@ VIII. Efectuar el corte diario de caja y llevar los registros necesarios para el
 
 IX. Custodiar los valores financieros de la administración pública estatal que le correspondan.
 
-X. Remitir diariamente a la Dirección General de Contabilidad la documentación comprobatoria del movimiento de ingresos y egresos, y; (sic)
+X. Remitir diariamente a la Dirección General de Contabilidad la documentación comprobatoria del movimiento de ingresos y egresos, y;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -1021,9 +1063,65 @@ XI. Coadyuvar con el área competente en el registro de los fondos descentraliza
 
 XII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 30.
 
-(DEROGADO, P.O. 11 DE ENERO DE 2014)
+Corresponde al Coordinador General de Inversiones:
+
+I. Integrar y administrar la cartera de programas y proyectos de inversión, de las dependencias y entidades de la Administración Pública y de los municipios conforme a las prioridades derivadas del Plan Estatal de Desarrollo y los programas sectoriales, regionales, especiales e institucionales, sin detrimento de las atribuciones que corresponden a las dependencias y entidades de la administración pública estatal.
+
+II. Identificar y proponer al Subsecretario de Egresos los proyectos de inversión considerados como prioritarios en el Plan Estatal de Desarrollo para su presupuestación, gestión y seguimiento, así como establecer conjuntamente con los titulares de las dependencias y entidades del Poder Ejecutivo, los objetivos, alcances, integración de documentos técnicos y los cronogramas de trabajo de los mismos.
+
+III. Analizar la actividad y las condiciones en materia de economía, política y finanzas, mediante el uso de criterios y herramientas de análisis aplicables en el ámbito de su actuación.
+
+IV. Coordinar las gestiones ante la Federación de los recursos y proyectos que realicen las dependencias y entidades del Poder Ejecutivo y dar seguimiento a la agenda de gestiones que las dependencias y entidades estatales llevan con la Federación y los municipios.
+
+V. Coordinar la integración del Banco de Proyectos de Inversión de la Administración Pública Estatal. Además de las iniciativas de proyectos que deriven de las dependencias y entidades del sector público en el estado, eventualmente se podrán incorporar propuestas e iniciativas de inversión provenientes de los grupos sociales.
+
+VI. Coordinar el proceso de evaluación socioeconómica de los proyectos de inversión presentados por las dependencias y entidades de la Administración Estatal, para determinar su viabilidad.
+
+VII. Gestionar ante la Secretaría de Hacienda y Crédito Público, el registro en la Cartera de Programas y Proyectos de Inversión para los programas y proyectos de inversión que cuenten con los elementos técnicos necesarios y cumplan con la normatividad aplicable.
+
+VIII. Llevar a cabo, en coordinación con las unidades administrativas competentes de las distintas dependencias de la Administración Pública Estatal, el seguimiento, actualización, mantenimiento, así como la vigencia del registro, de los programas y proyectos que tienen su origen en el Presupuesto de Egresos de la Federación, para apoyar y coordinar la gestión de los recursos autorizados y el cumplimiento de la normatividad aplicable.
+
+IX. Orientar y acompañar a las dependencias y entidades de la Administración Pública Estatal en la integración de la información técnica necesaria para la elaboración de los análisis costo beneficio de los proyectos de inversión, o en su caso, subrogar los servicios para la elaboración de estudios a asesores y consultores externos.
+
+X. Integrar y mantener actualizado el registro de consultores y asesores externos en materia de formulación y evaluación de proyectos de inversión.
+
+XI. Verificar en coordinación con las instancias ejecutoras y normativas competentes, la congruencia de los programas y proyectos de inversión que llevan a cabo las dependencias, con respecto a los ejes, objetivos y estrategias establecidas en el Plan Estatal de Desarrollo y con los programas sectoriales, regionales, especiales e institucionales derivados.
+
+XII. Proponer al Subsecretario de Egresos la creación, integración y funcionamiento de la Comisión Interinstitucional para la gestión de proyectos estratégicos, así como participar en los grupos de trabajo y análisis que en materia de inversión se determinen.
+
+XIII. Elaborar y emitir la metodología referente al ciclo de inversiones para la aplicación del uso sistemático de las técnicas de integración, gestión, evaluación y registro de proyectos, así como los lineamientos específicos para la formulación y preparación de proyectos.
+
+XIV. Analizar y asesorar en el cumplimiento de las disposiciones normativas que emitan las autoridades competentes en materia de presupuesto, respecto a los lineamientos y criterios que se deben observar en materia presupuestaria para la inclusión de programas y proyectos de inversión susceptibles de ser incorporados al Presupuesto de Egresos de la Federación.
+
+XV. Recomendar y proponer a las dependencias y entidades del Poder Ejecutivo modalidades de financiamiento para programas y proyectos de inversión, atendiendo a las circunstancias coyunturales y la participación de los sectores público, privado y social en los mismos.
+
+XVI. Coadyuvar con las unidades administrativas de la Secretaría de Finanzas en las tareas relacionadas con las políticas y el proceso presupuestario del gasto público de inversión.
+
+XVII. Investigar y comparar experiencia nacional e internacional en el diseño y aplicación de normas y metodologías en materia de inversión pública y privada.
+
+XVIII. Analizar y atender los requerimientos y consultas de información por parte de otras áreas de la Administración Pública Estatal sobre la distribución sectorial en materia de inversión.
+
+XIX. Realizar las gestiones correspondientes ante las instancias competentes para que se lleve a cabo la entrega en tiempo y forma de los fondos, así como otros recursos descentralizados que la Federación participe al Estado y/o a los municipios, con base en las disposiciones legales y conforme a las estimaciones autorizadas por la autoridad competente.
+
+XX. Proponer y coordinar las acciones para la realización de las tareas de planeación, análisis y evaluación de estudios, proyectos, programas especiales y estratégicos de la Secretaría.
+
+XXI. Asesorar a los municipios sobre los fondos federales que les corresponden con base en las disposiciones y conforme a las estimaciones autorizadas por la autoridad competente.
+
+XXII. Coadyuvar en el análisis y evaluación de los Convenios y Acuerdos que se promuevan entre la Federación, el Estado y los Municipios, cuando éstos se relacionen a proyectos de inversión e impliquen un impacto presupuestario para la entidad.
+
+XXIII. Identificar y gestionar fuentes de financiamiento tradicional y alternativas para los proyectos de inversión que coadyuven en el cumplimiento de los objetivos establecidos en el Plan Estatal de Desarrollo.
+
+XXIV. Proporcionar información y cooperación técnica, cuando le sea solicitada, a las dependencia, entidades y organismos de la Administración Pública Estatal, así como los municipios, en materia de gasto de inversión e inclusión de programas y proyectos de inversión susceptibles de financiarse en el proyecto de Presupuesto de Egresos de la Federación, o fuentes alternativas.
+
+XXV. Realizar actividades permanentes de análisis, evaluación y difusión en materia presupuestaria, así como promover esquemas de capacitación que permitan mejores prácticas en la formulación, administración y ejecución de proyectos.
+
+XXVI. Apoyar en el ámbito de su competencia al Consejo de Planeación del Desarrollo para el Estado de Coahuila y colaborar en los mecanismos de planeación que se definan.
+
+XXVII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -1061,63 +1159,7 @@ XII. Registrar los ingresos que recauden y obtengan la Administración Fiscal, a
 
 XIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
-
-ARTÍCULO 30 B. Corresponde al Coordinador General de Inversiones:
-
-I. Integrar y administrar la cartera de programas y proyectos de inversión, de las dependencias y entidades de la Administración Pública y de los municipios conforme a las prioridades derivadas del Plan Estatal de Desarrollo y los programas sectoriales, regionales, especiales e institucionales, sin detrimento de las atribuciones que corresponden a las dependencias y entidades de la administración pública estatal.
-
-II. Identificar y proponer al Subsecretario de Ingresos los proyectos de inversión considerados como prioritarios en el Plan Estatal de Desarrollo para su presupuestación, gestión y seguimiento, así como establecer conjuntamente con los titulares de las dependencias y entidades del Poder Ejecutivo, los objetivos, alcances, integración de documentos técnicos y los cronogramas de trabajo de los mismos.
-
-III. Analizar la actividad y las condiciones en materia de economía, política y finanzas, mediante el uso de criterios y herramientas de análisis aplicables en el ámbito de su actuación.
-
-IV. Coordinar las gestiones ante la Federación de los recursos y proyectos que realicen las dependencias y entidades del Poder Ejecutivo y dar seguimiento a la agenda de gestiones que las dependencias y entidades estatales llevan con la Federación y los municipios.
-
-V. Coordinar la integración del Banco de Proyectos de Inversión de la Administración Pública Estatal. Además de las iniciativas de proyectos que deriven de las dependencias y entidades del sector público en el estado, eventualmente se podrán incorporar propuestas e iniciativas de inversión provenientes de los grupos sociales.
-
-VI. Coordinar el proceso de evaluación socioeconómica de los proyectos de inversión presentados por las dependencias y entidades de la Administración Estatal, para determinar su viabilidad.
-
-VII. Gestionar ante la Secretaría de Hacienda y Crédito Público, el registro en la Cartera de Programas y Proyectos de Inversión para los programas y proyectos de inversión que cuenten con los elementos técnicos necesarios y cumplan con la normatividad aplicable.
-
-VIII. Llevar a cabo, en coordinación con las unidades administrativas competentes de las distintas dependencias de la Administración Pública Estatal, el seguimiento, actualización, mantenimiento, así como la vigencia del registro, de los programas y proyectos que tienen su origen en el Presupuesto de Egresos de la Federación, para apoyar y coordinar la gestión de los recursos autorizados y el cumplimiento de la normatividad aplicable.
-
-IX. Orientar y acompañar a las dependencias y entidades de la Administración Pública Estatal en la integración de la información técnica necesaria para la elaboración de los análisis costo beneficio de los proyectos de inversión, o en su caso, subrogar los servicios para la elaboración de estudios a asesores y consultores externos.
-
-X. Integrar y mantener actualizado el registro de consultores y asesores externos en materia de formulación y evaluación de proyectos de inversión.
-
-XI. Verificar en coordinación con las instancias ejecutoras y normativas competentes, la congruencia de los programas y proyectos de inversión que llevan a cabo las dependencias, con respecto a los ejes, objetivos y estrategias establecidas en el Plan Estatal de Desarrollo y con los programas sectoriales, regionales, especiales e institucionales derivados.
-
-XII. Proponer al Subsecretario de Ingresos la creación, integración y funcionamiento de la Comisión Interinstitucional para la gestión de proyectos estratégicos, así como participar en los grupos de trabajo y análisis que en materia de inversión se determinen.
-
-XIII. Elaborar y emitir la metodología referente al ciclo de inversiones para la aplicación del uso sistemático de las técnicas de integración, gestión, evaluación y registro de proyectos, así como los lineamientos específicos para la formulación y preparación de proyectos.
-
-XIV. Analizar y asesorar en el cumplimiento de las disposiciones normativas que emitan las autoridades competentes en materia de presupuesto, respecto a los lineamientos y criterios que se deben observar en materia presupuestaria para la inclusión de programas y proyectos de inversión susceptibles de ser incorporados al Presupuesto de Egresos de la Federación.
-
-XV. Recomendar y proponer a las dependencias y entidades del Poder Ejecutivo modalidades de financiamiento para programas y proyectos de inversión, atendiendo a las circunstancias coyunturales y la participación de los sectores público, privado y social en los mismos
-
-XVI. Coadyuvar con las unidades administrativas de la Secretaría de Finanzas en las tareas relacionadas con las políticas y el proceso presupuestario del gasto público de inversión.
-
-XVII. Investigar y comparar experiencia nacional e internacional en el diseño y aplicación de normas y metodologías en materia de inversión pública y privada.
-
-XVIII. Analizar y atender los requerimientos y consultas de información por parte de otras áreas de la Administración Pública Estatal sobre la distribución sectorial en materia de inversión.
-
-XIX. Realizar las gestiones correspondientes ante las instancias competentes para que se lleve a cabo la entrega en tiempo y forma de los fondos, así como otros recursos descentralizados que la Federación participe al Estado y/o a los municipios, con base en las disposiciones legales y conforme a las estimaciones autorizadas por la autoridad competente.
-
-XX. Proponer y coordinar las acciones para la realización de las tareas de planeación, análisis y evaluación de estudios, proyectos, programas especiales y estratégicos de la Secretaría.
-
-XXI. Asesorar a los municipios sobre los fondos federales que les corresponden con base en las disposiciones y conforme a las estimaciones autorizadas por la autoridad competente.
-
-XXII. Coadyuvar en el análisis y evaluación de los Convenios y Acuerdos que se promuevan entre la Federación, el Estado y los Municipios, cuando éstos se relacionen a proyectos de inversión e impliquen un impacto presupuestario para la entidad.
-
-XXIII. Identificar y gestionar fuentes de financiamiento tradicional y alternativas para los proyectos de inversión que coadyuven en el cumplimiento de los objetivos establecidos en el Plan Estatal de Desarrollo.
-
-XXIV. Proporcionar información y cooperación técnica, cuando le sea solicitada, a las dependencias, entidades y organismos de la Administración Pública Estatal, así como los municipios, en materia de gasto de inversión e inclusión de programas y proyectos de inversión susceptibles de financiarse en el proyecto de Presupuesto de Egresos de la Federación, o fuentes alternativas.
-
-XXV. Realizar actividades permanentes de análisis, evaluación y difusión en materia presupuestaria, así como promover esquemas de capacitación que permitan mejores prácticas en la formulación, administración y ejecución de proyectos.
-
-XXVI. Apoyar en el ámbito de su competencia al Consejo de Planeación del Desarrollo para el Estado de Coahuila y colaborar en los mecanismos de planeación que se definan.
-
-XXVII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+ARTÍCULO 30 B. (DEROGADO, P.O. 8 DE AGOSTO DE 2014)
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -1162,6 +1204,40 @@ IX. Coordinar la elaboración de documentos solicitados por el Subsecretario.
 X. Auxiliar al Subsecretario dentro de la esfera de su competencia, en aquellas tareas que sean encomendadas por el Secretario en relación con el sector, que estén señaladas en la Ley Orgánica de la Administración Pública del Estado y en este Reglamento.
 
 XI. Las demás que le confieran el Subsecretario de Ingresos y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 30 E. Corresponde al Director General de Política de Crédito:
+
+I. Efectuar los estudios en materia financiera y económica que sean necesarios para la definición de las políticas de deuda pública en coordinación con las dependencias y entidades de la administración pública estatal que correspondan.
+
+II. Participar en las negociaciones de los créditos con cargo al erario público que deban contratarse conforme a la ley, así como controlar y vigilar su apego a las disposiciones y políticas aplicables en materia de deuda pública.
+
+III. Proponer el otorgamiento de contratos de financiamiento y la emisión de valores cuando sea necesario y lo permitan las disposiciones vigentes en la materia.
+
+IV. Verificar que los financiamientos que se pretendan contratar por las dependencias y entidades de la administración pública estatal estén autorizados por el Congreso del Estado, además de vigilar aquellos en los que el Estado sea avalista, deudor solidario, subsidiario o sustituto en los términos previstos por las leyes aplicables.
+
+V. Realizar ante la Secretaría de Hacienda y Crédito Público, los trámites necesarios para registrar los nuevos financiamientos, en los que se establezca como garantía las participaciones que en ingresos federales correspondan al Estado o a los municipios, así como las aportaciones federales y las demás que procedan
+
+VI. Otorgar a la Subsecretaría de Egresos, la información específica de los créditos, empréstitos y obligaciones contraídas por concepto de deuda pública y/o emisión de valores, para que la Subsecretaría de Egresos pueda registrar contablemente dichas acciones, en apego a la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+
+VII. Detectar áreas de oportunidad en materia de financiamiento y proponer las medidas necesarias para acceder a él cuando a su juicio proceda.
+
+VIII. Asesorar a las entidades y a los municipios cuando se gestione la obtención de créditos con instituciones bancarias y organizaciones auxiliares, en donde se comprometa el aval del gobierno estatal.
+
+IX. Proponer a instituciones calificadoras de valores debidamente autorizadas en el país, a efecto de que emitan la calificación crediticia del Estado y las calificaciones sobre la calidad crediticia de los financiamientos bancarios, bursátiles o de cualquier otra naturaleza que se pretendan implementar en el Estado.
+
+X. Dar seguimiento a todos los aspectos relacionados con la reestructuración de pasivos y créditos.
+
+XI. Preparar la información sobre la deuda pública para los informes necesarios que solicite el Congreso del Estado, así como la información que por las disposiciones aplicables se deba publicar y otorgar a otras dependencias.
+
+XII. Analizar y calcular la información de costos, plazos y otras canalizaciones de la deuda estatal, haciendo las recomendaciones pertinentes en cuanto a la reestructuración, pagos anticipados y renegociación de tasas que a su juicio procedan.
+
+XIII. Mantener actualizado el registro de la deuda pública, en los términos de las disposiciones jurídicas de la materia; registro que contendrá información completa de las disposiciones, amortizaciones, saldos, costos y tasas de interés de cada financiamiento contratado; por las dependencias y entidades de la administración pública estatal y, en su caso, de los municipios.
+
+XIV. Vigilar el exacto cumplimiento de las disposiciones aplicables en materia de deuda pública, y;
+
+XV. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ENERO DE 2014)</small>
 
@@ -1221,7 +1297,7 @@ I. Coordinar e implementar la consolidación del Programa Anual de Adquisiciones
 
 II. Integrar y operar los programas de compras en general, derivados de la demanda existente de la Secretaría y las dependencias, de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
 
-III. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables de acuerdo a los convenios celebrados con las dependencias y entidades de la administración pública y municipios cuando así lo autoricen sus cabildos.
+III. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de de (sic) Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables de acuerdo a los convenios celebrados con las dependencias y entidades de la administración pública y municipios cuando así lo autoricen sus cabildos.
 
 IV. Presidir los actos de las licitaciones y los concursos, levantando las actas correspondientes, conforme a las leyes de la materia y a las disposiciones aplicables;
 
@@ -1595,7 +1671,7 @@ VI. Realizar la evaluación y seguimiento de las obras aprobadas en los comités
 
 VII. Elaborar los estados de cuenta mensuales de los Comités del Impuesto Sobre Nómina en el Estado, de acuerdo a los datos de recaudación de la Administración Fiscal y ponerlos a consideración del Coordinador General.
 
-VIII. Dar seguimiento a las reuniones de los Comités Técnicos del Impuesto Sobre Nómina y de los comités técnicos de los fideicomisos de los fondos metropolitanos, de acuerdo a la programación anual, y (sic);
+VIII. Dar seguimiento a las reuniones de los Comités Técnicos del Impuesto Sobre Nómina y de los comités técnicos de los fideicomisos de los fondos metropolitanos, de acuerdo a la programación anual, y;
 
 IX. Elaborar el informe de seguimiento financiero a cada una de las obras financiadas con mezcla de recursos del impuesto sobre nóminas; y ponerlos a consideración del Coordinador General.
 
@@ -1930,3 +2006,9 @@ P.O. 11 DE ENERO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente decreto de modificación entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Finanzas deberán adecuarse en un término no mayor de 30 días a partir de la entrada en vigor del presente decreto.
