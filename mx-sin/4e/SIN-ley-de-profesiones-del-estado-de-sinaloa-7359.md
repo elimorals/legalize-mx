@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "2004-03-24"
+last_updated: "2014-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -143,9 +143,11 @@ V.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
 
 Para el registro de Títulos Profesionales se crea una Oficina que se denominará Sección de Títulos Profesionales en el Estado, dependiente del Poder Ejecutivo, a través de la Secretaría de Educación Pública y Cultura, que se integrará por cinco miembros designados respectivamente, uno por el Poder Ejecutivo del Estado, que será el Secretario de Educación Pública y Cultura de la entidad, y que tendrá el carácter de Presidente; otro por el Supremo Tribunal de Justicia, nombrando a un miembro de la Judicatura; otro por el H. Congreso del Estado, cuyo representante será el Diputado presidente de la Comisión de Educación Pública y Cultura; otro de la Universidad de Occidente, los que tendrán el carácter de vocales, debiendo ser todos profesionistas legalmente titulados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 12.
 
-Una dependencia a que se refiere el Artículo anterior tendrá las siguientes facultades y obligaciones:
+La Oficina de Sección de Títulos Profesionales en el Estado, tendrá las siguientes facultades y obligaciones:
 
 a.- Registrar los títulos de profesionistas, las revalidaciones y las autorizaciones en los términos de esta Ley así como los Colegios legalmente constituídos.
 
@@ -173,7 +175,11 @@ l.- Determinar de acuerdo con los Colegios de Profesionistas el lugar y la forma
 
 m.- Publicar en el mes de Enero de cada año la lista de los Profesionistas titulados en los planteles profesionales durante el año anterior.
 
-n.- Las demás que le fijen las Leyes y Reglamentos.
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+n. Autorizar el desempeño de actividades periciales específicas que no sean propias de las profesiones reguladas en los términos y condiciones que determine esta ley; y
+
+o. Las demás que le fijen las Leyes y Reglamentos.
 
 ### CAPITULO IV.. DEL EJERCICIO PROFESIONAL
 
@@ -229,11 +235,11 @@ La representación jurídica en materia obrera, Agraria y cooperativa, se regir�
 
 La Sección de Títulos Profesionales en el Estado, podrá extender la autorización a los Pasantes de las diversas profesiones para ejercer la práctica respectiva por un término no mayor de tres años, bajo la vigilancia y responsabilidad de un profesionista titulado.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 22.
 
-En materia penal el acusado podrá ser oído en defensa por sí o por medio de persona de su confianza o por ambos, según su voluntad. Cuando las personas de su confianza designadas como defensores, no estén autorizados en los términos de esta Ley para ejercer la profesión de Abogados, se invitará al acusado para que designe además un defensor con título.
-
-En caso de que no hiciere uso de este derecho se le nombrará el defensor de oficio.
+En materia penal el imputado siempre deberá ejercer su derecho a la defensa con la asistencia de su Defensor o a través de éste, el cual deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor Público que corresponda.
 
 ###### ARTICULO 23.
 
@@ -282,6 +288,34 @@ La publicidad que un profesionista realice respecto de sus actividades, deberá 
 ###### ARTICULO 30.
 
 Las personas no tituladas y que estén autorizadas para ejercer alguna actividad de las regidas por esta Ley, deberán expresar en forma ostensible al público, que ejercen sin título, así como el número de la autorización.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+ARTICULO 30 BIS.- Para la autorización del desempeño de actividades periciales que no sean propias de las profesiones reguladas por esta ley se requerirá:
+
+I. Ser mexicano de reconocida probidad;
+
+II. Haber cursado la educación básica y media superior;
+
+III. Presentar constancias que acrediten los conocimientos en la actividad o acreditar por cualquier otro medio al menos tres años de práctica de la actividad correspondiente; y
+
+IV. Aprobar examen de conocimientos.
+
+Para la aplicación del examen de conocimientos, la Oficina de Sección de Títulos Profesionales en el Estado, procederá a evaluar los conocimientos teórico-prácticos, recibiendo la opinión de especialistas con los cuales la actividad tenga más cercanía. Siendo al menos tres designados por la referida Oficina, mismos que deberán ser de reconocido prestigio y probidad, preferentemente pertenecer a un colegio de profesionistas constituidos en los términos de esta ley, de la misma rama o alguna semejante.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+ARTICULO 30 TER.- La Oficina de Sección de Títulos Profesionales en el Estado podrá conceder autorizaciones hasta por el plazo de cuatro años, pudiendo además conceder una o varias prórrogas, cuando determine que, subsisten las condiciones que motivaron la expedición de la autorización.
+
+No se podrá ejercer legalmente la actividad pericial después de la fecha de vencimiento de su autorización, excepto cuando se haya solicitado y obtenido prórroga en los términos del primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2014)</small>
+
+ARTICULO 30 QUÁTER. Las autorizaciones de actividades periciales podrán revocarse por la Oficina de Sección de Títulos Profesionales en el Estado, por las causas siguientes:
+
+I. Cuando los autorizados sean condenados por sentencia ejecutoriada como responsable de un delito doloso; y,
+
+II. Por incompetencia comprobada en el ejercicio de la actividad.
 
 ###### ARTICULO 31.
 
@@ -607,7 +641,7 @@ Entre tanto se capacitan, podrán seguir ejerciendo mediante autorizaciones prov
 
 Si el tiempo de ejercicio fuere menor de 10 años, pero mayor de 3, se les concederá autorización de carácter provisional para el ejercicio de sus mismas actividades como "Prácticos" siempre bajo la vigilancia y responsabilidad de un profesionista titulado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1959)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 1959)</small>
 
 IV.- En todos los casos será requisito indispensable demostrar capacidad suficiente previo dictamen de la Sección de Títulos Profesionales, mediante examen y pruebas que se cumplan en un plazo máximo de 6 meses, llenándose los siguientes requisitos:
 
@@ -659,7 +693,7 @@ El Secretario Gral. de Gobierno
 
 LIC. MANUEL DIAZ Jr.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE ABRIL DE 1956.
 
@@ -702,3 +736,9 @@ P.O. 24 DE MARZO DE 2004.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE AGOSTO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
