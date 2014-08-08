@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2013-10-04"
+last_updated: "2014-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -4775,17 +4775,9 @@ Rechazo.- El rechazo de la solicitud de revisión no impedirá la interposición
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
 
-Artículo Primero.- El presente Código entrará en vigor a las cero horas del día once de agosto del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
-
-I.- Ensenada, a partir de las cero horas del día once de agosto del año dos mil catorce.
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
-
-II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día once de agosto del año dos mil quince.
+Artículo Primero.- El presente Código entrará en vigor, exclusivamente en el Partido Judicial de Mexicali, a las cero horas del día once de agosto del año dos mil diez.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4793,9 +4785,13 @@ II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día o
 
 Artículo Segundo.- Aplicación del Código de 1989.- El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989 se seguirá aplicando:
 
-I.- En los Municipios del Estado en los que no haya entrado en vigor el presente Código, conforme a los momentos que se señalan en el artículo transitorio anterior.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
 
-II.- En los Municipios del Estado, en los que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+I.- En los municipios de Tecate, Ensenada, Tijuana y Playas de Rosarito del Estado.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2014)</small>
+
+II.- En el municipio de Mexicali, en el que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
 
 III.- Como ordenamiento jurídico supletorio de la Ley contra la Delincuencia Organizada para el Estado de Baja California, hasta en tanto entra en vigor la nueva Ley especial de la materia que expida el Congreso de la Unión al ejercer la facultad que le confiere el artículo 73, fracción XXI, de la Constitución Federal. En el supuesto de que la Ley federal establezca que los Códigos de Procedimientos Penales de las Entidades Federativas serán sus leyes supletorias, se extenderá su aplicabilidad en términos de lo dispuesto por la citada Ley federal.
 
@@ -4998,3 +4994,9 @@ P.O. 4 DE OCTUBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Tratándose de las impugnaciones por la vía del control judicial que se encuentren en trámite, antes de la entrada en vigor del presente Decreto, deberán resolverse en los términos de esta reforma.
+
+P.O. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A efecto de dar continuidad a los trabajos de armonización e implementación en el Estado, del sistema procesal penal acusatorio, los servidores públicos que en la actualidad integran la Comisión Interinstitucional derivada del Código de Procedimientos Penales publicado el 19 de Octubre del 2007 y que fueron respectivamente designados para tal efecto por el Congreso del Estado y el Tribunal Superior de Justicia, serán los mismos que integren la Comisión Interinstitucional de Implementación del Código Nacional de Procedimientos Penales, hasta en tanto no sean revocadas sus designaciones.
