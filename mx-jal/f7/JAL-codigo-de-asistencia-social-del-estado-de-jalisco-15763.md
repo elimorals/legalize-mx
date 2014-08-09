@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2014-03-28"
+last_updated: "2014-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -2897,11 +2897,11 @@ El Organismo Estatal, para la debida asistencia de los adultos mayores integrar�
 
 Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adultos mayores, derivando a las instituciones del sector a quienes requieran atención médica y no cuenten con los recursos para sufragarla.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 249 Ter.
 
-Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
+Es responsabilidad de la Secretaría del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2913,11 +2913,11 @@ Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capa
 
 Serán consideradas como causas de responsabilidad y ameritarán las sanciones aplicables las establecidas por el Código Penal del Estado y demás leyes especiales.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 251.
 
-Aquellas personas físicas o jurídicas que hubieren recibido fondos o bienes destinados a la pensión o ayuda alimenticia serán sancionadas con una multa equivalente al monto de la pensión o ayuda de un mes, sin perjuicio de la responsabilidad penal o administrativa que les sea imputable, cuando los deriven a fines distintos a los establecidos sin autorización del Organismo Estatal.
+Aquellas personas físicas o jurídicas que hubieren recibido fondos o bienes destinados a la pensión o ayuda alimenticia serán sancionadas con una multa de quince a sesenta días de salario mínimo general vigente en el área metropolitana de Guadalajara, sin perjuicio de la responsabilidad penal o administrativa que les sea imputable, cuando los deriven a fines distintos a los establecidos sin autorización del Organismo Estatal.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2925,17 +2925,17 @@ Aquellas personas físicas o jurídicas que hubieren recibido fondos o bienes de
 
 Las autoridades consideradas en la presente ley serán sujetos de responsabilidad, de conformidad con lo dispuesto por la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, cuando exijan requisitos distintos o adicionales a los establecidos en la presente ley para otorgar apoyos o pensiones a los adultos mayores.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 253.
 
-Cualquier persona que tenga conocimiento de maltrato o violencia contra los adultos mayores deberá informarlo ante las autoridades competentes; de no hacerlo, se harán acreedores a una multa por el importe de hasta cinco días de salario mínimo general vigente en la zona Metropolitana de Guadalajara.
+Cualquier persona que tenga conocimiento de maltrato o violencia contra los adultos mayores deberá informarlo ante las autoridades competentes; de no hacerlo, se harán acreedores a una multa por el importe de uno a diez días de salario mínimo general vigente en el área metropolitana de Guadalajara.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
-###### Artículo 254.
+###### Articulo 254.
 
-La falta de decoro o respeto en el trato con los adultos mayores, por parte de instituciones privadas será sancionada con apercibimiento de no hacerlo, en caso de reincidencia se le aplicará multa por el importe de hasta cinco días de salario mínimo general vigente en la zona metropolitana de Guadalajara.
+La falta de decoro o respeto en el trato con los adultos mayores, por parte de instituciones privadas será sancionada con multa de uno a diez días de salario mínimo general vigente en el área metropolitana de Guadalajara.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3364,5 +3364,9 @@ P.O. 9 DE NOVIEMBRE DE 2013.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 28 DE MARZO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
