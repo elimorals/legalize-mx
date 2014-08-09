@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2008-05-27"
+last_updated: "2014-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -173,9 +173,13 @@ I. El Gobernador Constitucional del Estado, quien fungirá como Presidente Honor
 
 II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
 
-III. La Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-IV. La Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+III. La Secretaría de Desarrollo e Integración Social;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+IV. La Fiscalía General del Estado;
 
 V. La Secretaría de Educación (sic) Jalisco;
 
@@ -193,7 +197,7 @@ XI. El Instituto Jalisciense de Asistencia Social;
 
 XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XIII. La Procuraduría General de Justicia;
+XIII. (DEROGADA, P.O. 9 DE AGOSTO DE 2014)
 
 XIV. El Sistema Jalisciense de Radio y Televisión;
 
@@ -381,13 +385,15 @@ VIII. Realizar, a través del Consejo un Diagnóstico Estatal y otros estudios c
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Tercera.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
 
-De la Secretaría de Desarrollo Humano.
+#### Sección Tercera. De la Secretaría de Desarrollo e Integración Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Secretaría de Desarrollo Humano, además de lo establecido en otros ordenamientos:
+Corresponde a la Secretaría de Desarrollo e Integración Social, además de lo establecido en otros ordenamientos:
 
 I. Fomentar el desarrollo humano desde la visión de protección integral de los derechos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -403,13 +409,15 @@ VI. Promover políticas de prevención y atención de la violencia contra las mu
 
 VII. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Cuarta.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
 
-De la Secretaría de Seguridad Pública, Prevención y Readaptación Social.
+#### Sección Cuarta. De la Fiscalía General del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Secretaría de Seguridad Pública, Prevención y Readaptación Social, además de lo establecido en otros ordenamientos:
+Corresponde a la Fiscalía General del Estado, además de lo establecido en otros ordenamientos:
 
 I. Diseñar e implementar una política criminal con perspectiva de género orientada a la prevención, detección, atención, sanción y erradicación de los delitos violentos cometidos contra las mujeres;
 
@@ -421,9 +429,37 @@ IV. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia c
 
 V. Diseñar la política integral para la prevención, detección y atención de delitos violentos cometidos contra las mujeres, en los ámbitos público y privado;
 
-VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-VII. Las demás previstas para el cumplimiento de la presente ley.
+VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+VII. Promover la formación y especialización de agentes de la policía investigadora, agentes del ministerio público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+VIII. Proporcionar a las víctimas información veraz, objetiva y oportuna, así como asesoría para su eficaz atención, protección y canalización;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+IX. Dictar las medidas necesarias para que la víctima de violencia, reciba atención médica de emergencia;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+X. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el acceso a la justicia de las mujeres víctimas de violencia, el número de víctimas atendidas y el tipo de delito cometido;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XI. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XII. Celebrar con instancias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Quinta.
 
@@ -619,21 +655,7 @@ Del Sistema Jalisciense de Radio y Televisión.
 
 ###### Artículo 37.
 
-Corresponde a la Procuraduría General de Justicia del Estado, además de lo establecido en otros ordenamientos:
-
-I. Promover la formación y especialización de agentes de la policía investigadora, agentes del ministerio público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
-
-II. Proporcionar a las víctimas información veraz, objetiva y oportuna, así como asesoría para su eficaz atención, protección y canalización;
-
-III. Dictar las medidas necesarias para que la víctima de violencia, reciba atención médica de emergencia;
-
-IV. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el acceso a la justicia de las mujeres víctimas de violencia, el número de víctimas atendidas y el tipo de delito cometido;
-
-V. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
-
-VI. Celebrar con instancias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
-
-VII. Las demás previstas para el cumplimiento de la presente ley.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 #### Sección Décima Quinta.
 
@@ -918,3 +940,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
