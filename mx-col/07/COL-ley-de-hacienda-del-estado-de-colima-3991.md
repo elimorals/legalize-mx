@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2014-07-31"
+last_updated: "2014-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -5233,7 +5233,9 @@ Del 01 al 31 de octubre de 2014 50%
 
 Se condonan en un 100%, los recargos y las multas que se hayan generado por la omisión en el pago de los derechos relacionados con el canje de placas de circulación de vehículos previstos en los incisos a), c), d) e i), de la fracción IV, del artículo 50 de la Ley de Hacienda del Estado de Colima, siempre y cuando dicho pago se realice durante el periodo del 01 de agosto al 31 de octubre de 2014.
 
-Se condona en un 50%, el pago de los derechos por la expedición de licencias de conducir motocicletas, durante el periodo del 01 al 31 de agosto de 2014.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+Se condona en un 50% el pago de los derechos por la expedición de licencias de conducir motociclistas; automovilistas; choferes clase 1; automovilistas y motociclistas; choferes clase 1 y motociclistas; choferes clase 2; y conductores de servicio durante el periodo del 01 al 31 de agosto de 2014.
 
 P.O. 5 DE ABRIL DE 2014.
 
@@ -5250,3 +5252,7 @@ P.O. 12 DE JULIO DE 2014.
 P.O. 31 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial "El Estado de Colima", y entrará en vigor el día 1° de agosto de 2014.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial "El Estado de Colima" y entrará en vigor el día 7 de agosto de 2014.
