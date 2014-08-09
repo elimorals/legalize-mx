@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2014-06-14"
+last_updated: "2014-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO PENAL PARA EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -1501,235 +1503,41 @@ Se considerará como delito de falsedad y será sancionado igualmente, cuando el
 
 Igual sanción será aplicable al fedatario público que incurra en las conductas anteriormente previstas.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2014)</small>
 
 ### CAPITULO X.
 
-DE LOS DELITOS ELECTORALES.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
-
 ###### ARTICULO 135 Bis 1.
 
-Para los efectos de este Capítulo se entiende por:
-
-I.- Funcionarios electorales: quienes en los términos de la Ley Electoral del Estado integren los órganos que cumplen funciones públicas electorales;
-
-II.- Funcionarios partidistas: los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales, los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la ley de la materia, y
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-III.- Documentos públicos electorales: las boletas electorales, las actas oficiales de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, la lista nominal de electores, las boletas sobrantes inutilizadas, las que contengan votos válidos y las de los votos nulos, los escritos de protesta que se hubieren recibido, y en general, los documentos expedidos en el ejercicio de sus funciones, por las autoridades Electorales del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 2.
 
-Se impondrá prisión de seis meses a tres años y multa hasta por veinte a cincuenta unidades, a quien:
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-I.- Vote a sabiendas de que no cumple con los requisitos de la ley, o vote más de una vez en una misma elección;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
-
-II.- Vote o pretenda votar con una credencial de elector, de la que no sea titular;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-III.- Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-IV.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
-
-V.- Ofrezca o Solicite una paga, dádiva o promesa de dinero u otra recompensa, a cambio de votar a favor de determinado partido político, coalición o candidato;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VI.- Impida en forma violenta la instalación de una casilla, obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio y cómputo; o el adecuado ejercicio de las tareas de los funcionarios electorales;
-
-La pena podrá aumentarse hasta el doble cuando se ejerza violencia contra los funcionarios electorales. Si la conducta específica en el párrafo anterior es cometida por un integrante de un organismo de seguridad pública; se aumentará hasta un tercio de la pena prevista en el presente artículo;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
-
-VII.- Viole de cualquier manera el secreto del voto, o recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
-
-VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o más boletas electorales; o destruya o altere boletas o documentos públicos electorales;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-IX.- Haga proselitismo dentro de los tres días previos al de la jornada electoral;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-X.- Durante los 6 días previos al de la jornada electoral y hasta la hora del cierre oficial de las casillas, difunda o publique por cualquier medio, los resultados de encuestas, sondeos de opinión o conteos rápidos que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JUNIO DE 2014)</small>
-
-XI.- Organice la reunión o el transporte de votantes el día de la jornada electoral, con la finalidad de influir en el sentido del voto;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-XII.- Se abstenga de rendir cuentas o de realizar la comprobación o justificación de los gastos ordinarios o gastos de eventos proselitistas de campaña de algún partido político, coalición, agrupación política estatal o candidato, una vez que hubiese sido legalmente requerido;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-XIII.- Durante la etapa de preparación de la elección o en la jornada electoral, solicite votos por paga, promesa de dinero, recompensa o cualquier otra contraprestación;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-XIV.- Oculte, altere o niegue la información que le sea legalmente requerida por la autoridad electoral competente; o
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-XV.- Utilice facturas o documentos comprobatorios de gasto de partido político o candidato, alterando el costo real de los bienes o servicios prestados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 3.
 
-Se impondrá prisión de dos a seis años y multa hasta cincuenta a doscientos unidades, al funcionario electoral que:
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-I.- Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal de Electores, o Federal, cuando éstos se utilicen en procesos electorales locales;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-II.- Obstruya el desarrollo normal de la votación, o se abstenga de cumplir con sus obligaciones electorales, sin causa justificada y con perjuicio del proceso;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-III.- Altere los resultados electorales, sustraiga o destruya boletas o documentos públicos electorales;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-IV.- Retenga indebidamente o no entregue al organismo electoral correspondiente, el paquete electoral o documentos públicos electorales, sin mediar causa justificada;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-V.- Ejerza presión sobre los electores, mediante violencia o amenaza, a asistir a eventos proselitistas, o induzca a votar o abstenerse de votar por un candidato o partido político, durante la campaña electoral, el día de la jornada electoral o en los tres días previos a la misma, sea en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-VI.- Abra, instale o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley Electoral, la instale en lugar distinto al legalmente señalado, o impida su instalación;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-VII.- Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales, o
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-VIII.- Con pleno conocimiento, facilite o consienta la comisión de cualquiera de los supuestos previstos por las fracciones del artículo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 4.
 
-Se impondrá prisión de dos a seis años y multa hasta por cien a doscientos unidades, al funcionario partidista que:
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-II.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-IV.- Impida con violencia la apertura, instalación o cierre de una casilla; o interfiera u obstaculice el escrutinio o cómputo;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JUNIO DE 2014)</small>
-
-V.- Se abstenga de rendir cuentas o de realizar la comprobación o justificación de los gastos ordinarios o gastos de eventos proselitistas de campaña de algún partido político o candidato, una vez que hubiese sido legalmente requerido;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VI.- Durante la etapa de preparación de la elección o en la jornada electoral, solicite votos por paga, promesa de dinero, recompensa o cualquier otra contraprestación;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VII.- Oculte, altere o niegue la información que le sea legalmente requerida por la autoridad electoral competente; o
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VIII.- Utilice facturas o documentos comprobatorios de gasto de partido político o candidato, alterando el costo real de los bienes o servicios prestados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 5.
 
-Se impondrá prisión de dos a nueve años y multa de doscientos a cuatrocientos unidades al servidor público:
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
-
-II.- Condicione la prestación de un servicio público, al cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
-
-III.- Con excepción de los casos previstos por la ley electoral, destine, utilice o permita la utilización de fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo o en perjuicio de un candidato, partido político o coalición, o proporcione apoyo a través de sus subordinados distrayéndolo de sus labores;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-IV.- Impida indebidamente la reunión de una asamblea o manifestación pública o cualquier acto legal de propaganda política;
-
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-V.- Se niegue sin causa justificada a dar fe de hechos o certificar documentos concernientes a la elección, cuando la Ley Electora (sic) señale dicha obligación;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VI.- Realice o distribuya propaganda electoral durante la jornada electoral;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VII.- Proporcione apoyo a preste algún servicio a un candidato o partido político, sea que lo haga el mismo o a través de sus subordinados, en sus horarios de labores;
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-VIII.- Solicite a sus subordinados, por cualquier medio, aportaciones de dinero o en especie para apoyar a un candidato o partido político, o
-
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2014)</small>
-
-IX.- Se abstenga de entregar o niegue, sin causa justificada, la información que le sea solicitada por la autoridad electoral competente, relacionada con funciones de fiscalización.
-
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 6.
 
-Se impondrá prisión de dos a siete años, a quien por cualquier medio participe en la alteración del registro de electores del Padrón Electoral y los listados nominales o en la expedición ilícita de Credenciales para Votar.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 7.
 
-Se impondrá de tres días a dos años de prisión y multa hasta por 50 unidades, a los ministros de cultos de cualquier religión o secta, que en el desarrollo de actos propios de su ministerio, por cualquier medio fomenten la abstención o induzcan al electorado a votar en favor o en contra de un determinado partido político, coalición o candidato.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2014)</small>
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### ARTICULO 135 Bis 8.
 
-Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al que:
-
-I.- Se abstenga de informar o rinda información falsa de los recursos y bienes públicos remanentes de los partidos políticos o agrupaciones políticas que hayan perdido su registro, habiendo sido requerido por la autoridad;
-
-II.- Se abstenga de transmitir la propiedad o posesión de los bienes adquiridos con financiamiento público o los remanentes de dicho financiamiento, una vez que haya perdido el registro el partido político o la agrupación política del cual forme o haya formado parte, previo requerimiento de la autoridad electoral competente; o
-
-III.- Sin estar autorizado enajene, grave o done los bienes muebles o inmuebles, que integren el patrimonio del partido político o la agrupación política que haya perdido su registro.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ## TITULO SEGUNDO.
 
@@ -3069,17 +2877,27 @@ Solo se procederá contra el responsable a petición de la parte ofendida o de s
 
 ### CAPÍTULO V. PEDERASTIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+ARTICULO 216 BIS 1.- Se aplicarán de nueve a dieciocho años de prisión y multa por un importe equivalente de setecientos cincuenta a dos mil doscientos cincuenta unidades a quien aprovechándose de la confianza, subordinación o superioridad que tiene sobre una persona de entre catorce años de edad y menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole, la induzca o la convenza a ejecutar o ejecute cualquier acto sexual con su consentimiento.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+Cuando el sujeto pasivo de este delito, conforme a la hipótesis señalada en el párrafo anterior, sea menor de catorce años de edad, o sea una persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, se impondrá una pena de diez a veinte años de prisión y multa por un importe equivalente de novecientos cincuenta a dos mil quinientos cincuenta unidades
+
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
-
-ARTICULO 216 BIS 1.- Se aplicará de tres a siete años de prisión, y multa por un importe equivalente de doscientos a quinientas unidades, a quien aprovechándose de la confianza, subordinación o superioridad que tiene sobre una persona de entre catorce años de edad y menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole, la induzca o la convenza a ejecutar o ejecute cualquier acto sexual con su consentimiento.
-
-Cuando el sujeto pasivo de este delito conforme a la hipótesis señalada en el párrafo anterior sea menor de catorce años de edad, o sea una persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, se impondrá una pena de nueve a dieciocho años de prisión y multa por un importe equivalente de quinientas a mil doscientos unidades.
 
 Para efectos de este delito se entenderá por acto sexual cualquier acto de naturaleza erótica sexual diverso a la cópula.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
 El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
 Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
 
 Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado de sus derechos o funciones por un término igual al de la pena de prisión impuesta.
 
@@ -4282,3 +4100,9 @@ P.O. 12 DE ABRIL DE 2014.
 P.O. 14 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Con respecto a la descripción típica y penalidad, la investigación y persecución de los delitos se estará a lo dispuesto en la Ley General en Materia de Delitos Electorales y demás legislación federal y local aplicables.
