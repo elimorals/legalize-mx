@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2013-11-20"
+last_updated: "2014-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -507,7 +507,11 @@ IV. Transitar con más pasajeros de los permitidos de acuerdo a las característ
 
 V. Instalar claxon, bocinas, escapes y en general dispositivos que emitan sonido que provoquen contaminación auditiva, y
 
-VI. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+VI. Ingerir bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica en el interior de cualquier vehículo clasificado en la presente Ley y su reglamento; y
+
+VII. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
 
 ###### ARTÍCULO 38.
 
@@ -1474,3 +1478,19 @@ GRAL. JESÚS PINTO ORTÍZ.
 LA SECRETARIA DE AGUA Y MEDIO AMBIENTE
 
 M en I. ALMA FABIOLA RIVERA SALINAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE AGOSTO DE 2014.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+VII... (SIC)
+
+## TRANSITORIOS
+
+Artículo Primero.- El Presente Decreto en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado. (sic)
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto. (sic)
