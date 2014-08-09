@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2008-04-03"
+last_updated: "2014-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -81,9 +81,17 @@ II. La Ley la de Planeación para el Estado de Jalisco y sus Municipios;
 
 III. El Código de Asistencia Social del Estado de Jalisco;
 
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
 IV. El Código Civil para el Estado de Jalisco;
 
-V. Y Las demás leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+
+V. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios; y
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+VI. las demás leyes aplicables.
 
 ###### Artículo 4.
 
@@ -99,9 +107,19 @@ IV. Desarrollo Social: Es un proceso de crecimiento integral, para el mejoramien
 
 V. Grupos Sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
 
-VI. Secretaría: La Secretaría de Desarrollo Humano del Gobierno de (sic) Estado de Jalisco; y
+> <small>(REFORMADA [POR DECRETO 24933/LX/14], P.O. 9 DE AGOSTO DE 2014)</small>
+
+VI. Secretaría: La Secretaría de Desarrollo e Integración Social del Gobierno del Estado de Jalisco; y
 
 VII. Organizaciones: Agrupaciones civiles, sociales y asistenciales, legalmente constituidas, en las que participen personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+
+VIII. Padrón Único de Beneficiarios: Sistema de información que integra y organiza datos sobre los beneficiarios o personas que reciben apoyos de programas de desarrollo social, a cargo de las diferentes dependencias y organismos de la administración estatal o municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+
+IX. Formato de Padrón Único: Cuestionario que se utiliza como instrumento de recolección de datos de los beneficiarios de programas de desarrollo social.
 
 ###### Artículo 5.
 
@@ -219,11 +237,17 @@ XI. Vigilar que los recursos públicos que se destinan al desarrollo social se e
 
 XII. Fomentar la participación de instituciones académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
 
-XIII. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Estado, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Estatal de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-> <small>(F. DE E., P.O. 19 DE FEBRERO 2005)</small>
+XIII. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Estado, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Estatal de Desarrollo Social;
 
-XIV. La demás que señalen la ley y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+
+XIV. Integrar, supervisar y coordinar el Padrón Único de Beneficiarios; y
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XV. La (sic) demás que señalen la ley y las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -317,7 +341,7 @@ I. El diagnóstico del desarrollo social y de la situación económica así como
 
 II. Los programas de desarrollo social que se tiene planeado implementar;
 
-III. Los programas operativos anuales, en lo cuales quedarán asentados los métodos, formas y líneas de acción para la aplicación de los programas de desarrollo social;
+III. Los programas operativos anuales, en lo (sic) cuales quedarán asentados los métodos, formas y líneas de acción para la aplicación de los programas de desarrollo social;
 
 IV. Los esquemas de atención para los grupos sociales en situación de vulnerabilidad;
 
@@ -367,13 +391,49 @@ Cuando en un municipio exista población indígena, las autoridades municipales 
 
 ###### Artículo 31.
 
-La Secretaría publicará en sistema braile, los programas de desarrollo social en donde pueda ser beneficiada una persona con discapacidad visual, de igual forma, contará con personal capacitado para dar asesoría sobre estos programas a las personas con discapacidad auditiva.
+La Secretaría publicará en sistema braile (sic), los programas de desarrollo social en donde pueda ser beneficiada una persona con discapacidad visual, de igual forma, contará con personal capacitado para dar asesoría sobre estos programas a las personas con discapacidad auditiva.
 
-### Capítulo I. De los Recursos para el Desarrollo Social
+> <small>N. DE E. EN LA PUBLICACIÓN OFICIAL SE ADVIERTEN INCOMPLETOS LOS ARTÍCULOS ADICIONADOS, VER PÁGINAS 15 Y 16 DEL ACROBAT READER P.O. 9 DE AGOSTO DE 2014, NÚMERO 48, SECCIÓN II.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2014)</small>
+
+### Capitulo Segundo. Del Padrón Único de Beneficiarios de Programas Gubernamentales
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+###### Artículo 31 Bis.
+
+El Padrón Único de Beneficiarios, tiene por objeto:
+
+I. Conocer con puntualidad el destino de los apoyos de programas de desarrollo social, tanto a nivel personal, familiar y por diferentes agregados territoriales;
+
+II. Transparentar el uso de los recursos públicos;
+
+III. Evitar distorsiones y duplicidades en el otorgamiento de los apoyos gubernamentales;
+
+IV. Unificar y sistematizar la información de los beneficiaros de programas gubernamentales;
+
+V. Articular las políticas públicas bajo criterios de complementariedad, integralidad y sustentabilidad de los programas gubernamentales; y
+
+> <small>N. DE E. SE ADVIERTE QUE EN LA PUBLICACIÓN OFICIAL EN LA PÁGINA 15 CONCLUYE CON LA FRACCIÓN IV. DEL ARTÍCULO 31 BIS, Y QUE LA PÁGINA 16 INICIA CON LA FRACCIÓN II DE OTRO ARTÍCULO, CONSULTAR LA VERSIÓN ACROBAT READER DEL P.O. 9 DE AGOSTO DE 2014.</small>
+
+(SIC) II. El análisis de programas de los organismos y dependencias de gobierno, para la toma de decisiones en materia de políticas públicas para el desarrollo social.
+
+Corresponde a las dependencias y entidades de la administración pública del Estado, la actualización del Padrón Único de Beneficiarios, la cual deberá realizarse con una periodicidad mínima de dos veces por año.
+
+Los Ayuntamientos del Estado de Jalisco que implementen programas estatales o de participación estatal, deberán coadyuvar a la dependencia o entidad encargada del programa, en la práctica de la actualización del Padrón Único de Beneficiarios.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+###### Artículo 31 Quinquies.
+
+Los datos personales de los beneficiarios que se integren en la base de datos del Padrón Único de Beneficiarios, serán preservados en los términos de la ley aplicable en la materia, reservando aquellos de carácter confidencial y haciendo públicos los que constituyan información fundamental.
+
+La información del Padrón Único de Beneficiarios de Programas de Desarrollo Social no puede ser usada para fines comerciales, electorales, ni para otra de índole distinta a la consulta ciudadana y a los fines establecidos de políticas públicas; su uso indebido será sancionado en términos de este ordenamiento y de la (sic) demás normas vigentes aplicables.
 
 ## TITULO SEPTIMO. DEL FOMENTO AL DESARROLLO SOCIAL
 
-### Capítulo II. Del Fomento a las Actividades Productivas con Beneficio Social
+### Capítulo I. De los Recursos para el Desarrollo Social
 
 ###### Artículo 32.
 
@@ -399,7 +459,7 @@ Los recursos estatales y municipales presupuestados para los programas de desarr
 
 El Congreso del Estado de conformidad con sus atribuciones, procurará que se destinen los recursos suficientes para financiar los Programas de Desarrollo Social Estatales.
 
-### Capítulo I. Del Sistema Estatal de Desarrollo Social
+### Capítulo II. Del Fomento a las Actividades Productivas con Beneficio Social
 
 ###### Artículo 38.
 
@@ -435,7 +495,7 @@ VII. Apoyo para que puedan participar en ferias y eventos nacionales e internaci
 
 ## TITULO OCTAVO. DEL SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
-### Capítulo II. Del Consejo Estatal para el Desarrollo Social
+### Capítulo I. Del Sistema Estatal de Desarrollo Social
 
 ###### Artículo 40.
 
@@ -445,15 +505,19 @@ El Sistema Estatal de Desarrollo Social es un mecanismo permanente de concurrenc
 
 La Secretaría coordinará al Sistema Estatal de Desarrollo Social.
 
-### Capítulo III. De la Comisión para el Desarrollo Social
+### Capítulo II. Del Consejo Estatal para el Desarrollo Social
 
 ###### Artículo 42.
 
 El Consejo es un órgano consultivo del Gobierno del Estado, de participación ciudadana y que coadyuvará en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social, será permanente y estará integrado por los siguientes miembros:
 
-I. El Secretario de Desarrollo Humano quien lo presidirá;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-II. Un Secretario Técnico designado por el Secretario de Desarrollo Humano;
+I. El Secretario de Desarrollo e Integración Social quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+II. Un Secretario Técnico designado por el Secretario de Desarrollo e Integración Social;
 
 III. Dos consejeros ciudadanos que participen en organizaciones sociales, civiles y asistenciales que realicen actividades relacionadas con el desarrollo social;
 
@@ -519,7 +583,7 @@ Los Municipios podrán constituir Consejos Municipales de Desarrollo Social de a
 
 > <small>(F. DE E., P.O. 19 DE FEBRERO 2005)</small>
 
-### Capítulo I. Disposiciones Generales
+### Capítulo III. De la Comisión para el Desarrollo Social
 
 ###### Artículo 49.
 
@@ -539,9 +603,13 @@ c) Trabajo;
 
 d) Desarrollo Rural;
 
-e) Promoción Económica;
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
-f) Ecología, Medio Ambiente y Desarrollo Sustentable;
+e) Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+f) Medio Ambiente y Desarrollo Territorial;
 
 g) Cultura;
 
@@ -579,7 +647,7 @@ La Comisión deberá reunirse por lo menos una vez cada tres meses.
 
 ## TITULO NOVENO. DE LA PARTICIPACION SOCIAL
 
-### Capítulo II. De la Denuncia Ciudadana
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 52.
 
@@ -601,9 +669,7 @@ Las organizaciones podrán recibir y administrar recursos públicos para activid
 
 La sociedad, participará activamente en la planeación, programación, implementación y evaluación de los programas y acciones de Desarrollo Social, de acuerdo a lo establecido en esta Ley.
 
-### Capítulo I. De la Organización del Programa de Investigación e
-
-Información para el Desarrollo Social
+### Capítulo II. De la Denuncia Ciudadana
 
 ###### Artículo 55.
 
@@ -619,7 +685,9 @@ En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su
 
 PARA EL DESARROLLO SOCIAL
 
-### Capítulo II. De la Evaluación
+### Capítulo I. De la Organización del Programa de Investigación e
+
+Información para el Desarrollo Social
 
 ###### Artículo 57.
 
@@ -649,7 +717,7 @@ La información contenida en el Sistema de Investigación e Información para el
 
 La Secretaría realizará las mediciones de la evolución de la pobreza y el desarrollo social en el Estado con una periodicidad anual, con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
 
-### Capitulo Único. De las sanciones
+### Capítulo II. De la Evaluación
 
 ###### Artículo 61.
 
@@ -680,6 +748,8 @@ VIII. Los que correspondan a los criterios generales del Consejo Nacional de Eva
 Los resultados de la evaluación formarán parte del Programa de Investigación e Información para el Desarrollo Social, se harán públicos y se presentarán ante el Congreso del Estado de Jalisco y la Secretaría de Desarrollo Social del Gobierno Federal.
 
 ## TITULO DECIMO PRIMERO. DEL INCUMPLIMIENTO
+
+### Capitulo Único. De las sanciones
 
 ###### Artículo 63.
 
@@ -734,3 +804,15 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 P.O. 3 DE ABRIL DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 2915/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 4 Y 14; Y SE ADICIONA UN CAPÍTULO II AL TITULO SEXTO DENOMINADO "DEL PADRÓN ÚNICO DE BENEFICIARIOS DE PROGRAMAS GUBERNAMENTALES", CON LOS' ARTÍCULOS 31 BIS, 31 TER, 31 QUATER Y 31 QUINQUIES, TODOS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+DECRETO NÚMERO 2933/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, 42 Y 49 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
