@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2009-10-24"
+last_updated: "2014-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO -- ANTES LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO --
 
-LEY PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
+LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -71,7 +71,9 @@ Son autoridades para la aplicación y vigilancia del cumplimiento de esta ley en
 
 I. Al Ejecutivo a través de:
 
-a) La Secretaría de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
+a) La Secretaría de Desarrollo e Integración Social;
 
 b) La Secretaría General de Gobierno;
 
@@ -79,9 +81,11 @@ c) La Secretaría de Educación;
 
 d) La Secretaría de Salud;
 
-e) La Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
 
-f) La Procuraduría General de Justicia del Estado;
+e) La Fiscalía General del Estado;
+
+f) (DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 g) El Sistema para el Desarrollo Integral de la Familia;
 
@@ -137,9 +141,11 @@ Organismo Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia.
 
 El Estado coadyuvará en el resguardo de la familia como un espacio de afecto, seguridad y desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 7.
 
-Le corresponde a la Secretaría de Desarrollo Humano, además del despacho de los asuntos descritos que la Ley Orgánica del Poder Ejecutivo establece las siguientes:
+Le corresponde a la Secretaría de Desarrollo e Integración Social, además del despacho de los asuntos descritos que la Ley Orgánica del Poder Ejecutivo establece las siguientes:
 
 I. Promover acciones y programas de protección social a las víctimas de la violencia intrafamiliar;
 
@@ -195,27 +201,27 @@ V. Promover que se preste la atención a las víctimas de la violencia intrafami
 
 VI. Difusión y aplicación en todos los sectores de salud (sic) la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar.
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 11.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo, para los efectos de esta ley, tendrá las siguientes:
+La Fiscalía General del Estado, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo, para los efectos de esta ley, tendrá las siguientes:
 
-I. Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
+I. Atender los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
 
-II. instaurar cursos de formación y capacitación a los cuerpos policíacos sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; y
+II. Instaurar cursos de formación y capacitación a los cuerpos policíacos sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención;
 
-III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar.
+III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar;
+
+IV. Turnar a las instancias competentes, los casos en que de la averiguación previa se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;
+
+V. Realizar las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, una vez aplicado el tratamiento especializado por el personal capacitado; y
+
+VI. Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente algún caso.
 
 ###### Artículo 12.
 
-La Procuraduría General de Justicia del Estado, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado para los efectos de esta ley tendrá las siguientes:
-
-I. Turnar a las instancias competentes, los casos en que de la averiguación previa se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;
-
-II. La Procuraduría, una vez aplicado el tratamiento especializado por el personal capacitado, realizará las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables; y
-
-> <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
-
-III. Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente algún caso.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
 
 ###### Artículo 13.
 
@@ -253,7 +259,9 @@ III. Impulsar y apoyar los trabajos de investigación y análisis relacionados c
 
 El órgano rector del Consejo será la Junta de Gobierno, la cual se conformará por los titulares de las entidades y dependencias enumeradas a continuación, o por quienes estos designen:
 
-I. La Secretaría de Desarrollo Humano, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+I. La Secretaría de Desarrollo e Integración Social, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;
 
 II. Presidente del Organismo Estatal;
 
@@ -263,9 +271,11 @@ IV. Secretaría de Educación;
 
 V. Secretaría de Salud;
 
-VI. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-VII. Procuraduría General de Justicia;
+VI. Fiscalía General del Estado;
+
+VII. (DEROGADA, P.O. 9 DE AGOSTO DE 2014)
 
 VIII. Supremo Tribunal de Justicia del Poder Judicial del Estado;
 
@@ -717,7 +727,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE MAYO DE 2008.
 
@@ -742,3 +752,7 @@ SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, co
 TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
 
 CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
+
+P.O. 9 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
