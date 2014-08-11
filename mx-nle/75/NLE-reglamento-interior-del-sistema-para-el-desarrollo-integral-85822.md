@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-sistema-para-el-desarrollo-integral-858
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-10"
-last_updated: "2012-07-23"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2012, LAS REFERENCIAS A CUALQUIER UNIDAD ADMINISTRATIVA QUE EN VIRTUD DE LAS PRESENTES MODIFICACIONES HAYA DESAPARECIDO O CAMBIADO DE DENOMINACIÓN, CONTENIDAS EN CUALQUIER OTRO INSTRUMENTO JURÍDICO, DEBERÁN ENTENDERSE HECHAS A LA UNIDAD ADMINISTRATIVA QUE LAS SUSTITUYA O CUENTE CON LAS ATRIBUCIONES RESPECTIVAS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 10 de febrero de 2012.
 
@@ -128,6 +128,10 @@ i. Organismos Administrativos Desconcentrados:
 j. (DEROGADO, P.O. 23 DE JULIO DE 2012)
 
 k. (DEROGADO, P.O. 23 DE JULIO DE 2012)
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2014)</small>
+
+l. Subdirección del Órgano de Control Interno.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE JULIO DE 2012)</small>
 
@@ -553,6 +557,36 @@ VIII. Proponer, ejecutar y coordinar acciones y mecanismos de vinculación con e
 
 IX. Las demás que les confieran las disposiciones legales aplicables y el Director General o la Junta de Gobierno, en la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2014)</small>
+
+###### Artículo 38 Bis.
+
+Al Titular de la Subdirección del Órgano de Control Interno, le compete, además de lo establecido en el artículo 27, lo siguiente:
+
+I. Verificar los resultados financieros y dar seguimiento a las incidencias, bajo los criterios de las normas y procedimientos correspondientes;
+
+II. Comprobar que la recepción de los ingresos del Organismo cumplan con las disposiciones legales y administrativas en tiempo y forma;
+
+III. Inspeccionar que los egresos generados cuenten con la comprobación y autorización correspondiente así como el acatamiento de las disposiciones legales y administrativas aplicables;
+
+IV. Comprobar que los registros contables contemplen todas las operaciones del Organismo, y que estas correspondan a la partida para la que fueron aplicadas, conforme a la actual norma de información financiera (NIF);
+
+V. Verificar que el proceso administrativo de los activos fijos permita el control de inventarios, asignaciones y el cumplimiento de lineamientos por parte de los usuarios;
+
+VI. Comprobar que en los registros contables se contemplen todos los pasivos, los cuales deben de cumplir con las disposiciones constitucionales, legales y administrativas aplicables para su contratación;
+
+VII. Llevar el control interno de todos los procesos relacionados con las finanzas públicas tales como ingresos, pasivos, activos, sistemas, registros contables, recursos humanos, etc.;
+
+VIII. Revisar el cumplimiento de legalidad y los resultados, ya sean operativos, técnicos o financieros, de los programas;
+
+IX. Revisar todo evento que sea relevante, por su trascendencia e importancia financiera;
+
+X. Comprobar que la actualización de la información pública de oficio en internet se realice en tiempo y forma;
+
+XI. Llevar a cabo revisiones como apoyo en la atención y trámite de quejas, denuncias, inconformidades o auditorias sobre los actos de los servidores públicos como presuntos responsables adscritos al Organismo, y
+
+XII. Las demás que le confieran las disposiciones legales aplicables así como el Titular del Organismo o la Junta de Gobierno que estén dentro del ámbito de sus atribuciones.
+
 ### CAPÍTULO SÉPTIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 39.
@@ -620,3 +654,7 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán su valor y fuerza legales.
 
 TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones haya desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
+
+P.O. 11 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
