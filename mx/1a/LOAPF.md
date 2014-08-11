@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2014-07-14"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -46,9 +46,9 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
 La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-La Oficina de la Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
+La Oficina de la Presidencia de la República, las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los Órganos Reguladores Coordinados integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
@@ -58,13 +58,17 @@ Los organismos descentralizados, las empresas de participación estatal, las ins
 
 En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la Administración Pública Centralizada:
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-I.- Secretarías de Estado, y
+I.- Secretarías de Estado;
 
-II.- (DEROGADA, D.O.F. 9 DE ABRIL DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-III.- Consejería Jurídica.
+II.- Consejería Jurídica, y
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+III.- Órganos Reguladores Coordinados en Materia Energética a que hace referencia el artículo 28, párrafo octavo, de la Constitución.
 
 ###### ARTICULO 3o.
 
@@ -888,9 +892,9 @@ I.- Fomentar la protección, restauración y conservación de los ecosistemas y 
 
 II.- Formular y conducir la política nacional en materia de recursos naturales, siempre que no estén encomendados expresamente a otra dependencia; así como en materia de ecología, saneamiento ambiental, agua, regulación ambiental del desarrollo urbano y de la actividad pesquera, con la participación que corresponda a otras dependencias y entidades;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-III.- Administrar y regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción del petróleo y todos los carburos de hidrógenos líquidos, sólidos y gaseosos, así como minerales radioactivos;
+III.- Administrar y regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción de los hidrocarburos y los minerales radioactivos;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1004,11 +1008,17 @@ XXX.- Ejecutar las obras hidráulicas que deriven de tratados internacionales;
 
 XXXI.- Intervenir, en su caso, en la dotación de agua a los centros de población e industrias; fomentar y apoyar técnicamente el desarrollo de los sistemas de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales que realicen las autoridades locales; así como programar, proyectar, construir, administrar, operar y conservar por sí, o mediante el otorgamiento de la asignación o concesión que en su caso se requiera, o en los términos del convenio que se celebre, las obras y servicios de captación, potabilización, tratamiento de aguas residuales, conducción y suministro de aguas de jurisdicción federal;
 
-XXXII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XXXIII.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
+XXXII.- Establecer los mecanismos necesarios para implementar la coordinación y colaboración con la Agencia Nacional de Seguridad Industrial y de Protección al Ambiente del Sector Hidrocarburos y solicitar a dicha Agencia el apoyo técnico que requiera;
 
-XXXIV.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXIII.- Participar con la Secretaría de Hacienda y Crédito Público en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXIV.- Elaborar y aplicar en coordinación con las secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; de Desarrollo Agrario, Territorial y Urbano, y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1028,9 +1038,7 @@ XXXIX.- Otorgar contratos, concesiones, licencias, permisos, autorizaciones, asi
 
 XL.- Diseñar y operar, con la participación que corresponda a otras dependencias y entidades, la adopción de instrumentos económicos para la protección, restauración y conservación del medio ambiente;
 
-(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DE LA REFORMA DE 28 DE DICIEMBRE DE 1994, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
-
-XLI.- Elaborar y aplicar en coordinación con las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Salud; de Comunicaciones y Transportes; de Economía; de Turismo; de Desarrollo Social; de Gobernación; de Marina; de Energía; de Educación Pública; de Hacienda y Crédito Público; y de Relaciones Exteriores, las políticas públicas encaminadas al cumplimiento de las acciones de mitigación y adaptación que señala la Ley General de Cambio Climático, y
+XLI.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL 28 DE DICIEMBRE DE 1994, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 5 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XLII.</small>
 
@@ -1044,65 +1052,121 @@ XLII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 A la Secretaría de Energía corresponde el despacho de los siguientes asuntos:
 
-I. Establecer y conducir la política energética del país, así como supervisar su cumplimiento con prioridad en la seguridad y diversificación energéticas, el ahorro de energía y la protección del medio ambiente, para lo cual podrá, entre otras acciones y en términos de las disposiciones aplicables, coordinar, realizar y promover programas, proyectos, estudios e investigaciones sobre las materias de su competencia;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público;
+I. Establecer, conducir y coordinar la política energética del país, así como supervisar su cumplimiento con prioridad en la seguridad y diversificación energéticas, el ahorro de energía y la protección del medio ambiente, para lo cual podrá, entre otras acciones y en términos de las disposiciones aplicables, coordinar, realizar y promover programas, proyectos, estudios e investigaciones sobre las materias de su competencia;
 
-III. Conducir y supervisar la actividad de las entidades paraestatales sectorizadas en la Secretaría, así como la programación de la exploración, explotación y transformación de los hidrocarburos y la generación de energía eléctrica y nuclear, con apego a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+II. Ejercer los derechos de la Nación en materia de petróleo y todos los carburos de hidrógeno sólidos, líquidos y gaseosos; de minerales radioactivos; así como respecto del aprovechamiento de los bienes y recursos naturales que se requieran para generar, transmitir, distribuir, comercializar y abastecer energía eléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+III. Conducir y supervisar la generación de energía nuclear;
 
 IV. Promover que la participación de los particulares en las actividades del sector sea en los términos de la legislación y de las disposiciones aplicables;
 
-V. Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético paraestatal.
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las entidades públicas del sector energético como organismos públicos, y el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
+V. Llevar a cabo la planeación energética a mediano y largo plazos, así como fijar las directrices económicas y sociales para el sector energético nacional, conforme a las disposiciones aplicables.
 
-VI. Integrar el Consejo Nacional de Energía y expedir sus reglas de funcionamiento para realizar tareas de planeación energética. El Consejo tendrá las siguientes tareas: a) proponer a la Secretaría de Energía criterios y elementos de política energética, y b) apoyar a la Secretaría de Energía en el diseño de la planeación energética a mediano y largo plazos.
+La planeación energética deberá atender los siguientes criterios: la soberanía y la seguridad energéticas, el mejoramiento de la productividad energética, la restitución de reservas de hidrocarburos, la diversificación de las fuentes de combustibles, la reducción progresiva de impactos ambientales de la producción y consumo de energía, la mayor participación de las energías renovables en el balance energético nacional, la satisfacción de las necesidades energéticas básicas de la población, el ahorro de energía y la mayor eficiencia de su producción y uso, el fortalecimiento de las empresas productivas del Estado del sector energético, y el apoyo a la investigación y el desarrollo tecnológico nacionales en materia energética;
 
-El Consejo Nacional de Energía se constituye por el titular de la Secretaría de Energía, quien lo presidirá, por los subsecretarios y el oficial mayor de dicha dependencia, así como por los titulares de los órganos desconcentrados y organismos descentralizados del sector y de la Comisión Nacional del Agua.
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-En los casos en que las deliberaciones del Consejo se refieran de manera sustantiva a cuestiones que competan a otras dependencias del Ejecutivo Federal, su Presidente podrá invitar a participar a éstas a las reuniones que correspondan.
+VI. Elaborar y publicar anualmente un informe pormenorizado que permita conocer el desempeño y las tendencias del sector eléctrico nacional;
 
-El Consejo contará con un Foro Consultivo, en el que participarán, según los temas a considerar, representantes de los poderes legislativos federal y estatales, de autoridades locales, de instituciones públicas de educación superior e investigación científica y de los sectores social y privado, para contribuir al desempeño de las tareas de planeación que competen al Consejo y promover la participación ciudadana.
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-El Ejecutivo Federal enviará al Congreso, en el mes de febrero de cada año, para su ratificación en un plazo máximo de 30 días hábiles, la Estrategia Nacional de Energía con un horizonte de quince años, elaborada con la participación del Consejo Nacional de Energía;
+VII. En materia de la industria de hidrocarburos: otorgar y revocar asignaciones a que se refiere el artículo 27 Constitucional; establecer los lineamientos técnicos que deberán observarse en el proceso de licitación; el diseño técnico de los contratos; establecer las áreas que podrán ser objeto de asignaciones y contratos; así como adjudicar asignaciones y otorgar permisos para el tratamiento y refinación del petróleo, y procesamiento de gas natural;
 
-VII. Otorgar, y en su caso, cancelar permisos y autorizaciones en materia energética, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-VIII. Otorgar, rehusar, modificar, revocar y, en su caso, cancelar asignaciones para exploración y explotación de hidrocarburos, tomando en consideración los dictámenes técnicos que emita la Comisión Nacional de Hidrocarburos;
+VIII. Establecer mecanismos de coordinación con el Centro Nacional de Control de Energía y el Centro Nacional de Control del Gas Natural, que propicie que las acciones de estos organismos sean compatibles con los programas sectoriales;
 
-IX. Aprobar los principales proyectos de exploración y explotación de hidrocarburos que elabore Petróleos Mexicanos con base en los lineamientos de la política energética y con apoyo en los dictámenes técnicos que emita la Comisión Nacional de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+IX. Otorgar, negar, modificar y revocar asignaciones y contratos para exploración y extracción de minerales radiactivos;
 
 X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficiales mexicanas sobre eficiencia energética, así como realizar y apoyar estudios e investigaciones sobre ahorro de energía, estructuras, costos, proyectos, mercados, precios y tarifas, activos, procedimientos, reglas, normas y demás aspectos relacionados;
 
-XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como proponer, en su caso, los estímulos correspondientes;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los hidrocarburos, así como energías renovables y proponer, en su caso, los estímulos correspondientes;
 
 XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
 
-XIII. Regular y en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardas, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XIV. Llevar el catastro petrolero;
+XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento;
 
-XV. Establecer la regulación en materia de asignación de áreas para la exploración y explotación petrolera y de permisos de reconocimientos y exploración superficial, así como supervisar su debido cumplimiento;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de reservas petroleras;
+XIV. Llevar el registro geotérmico;
 
-XVII. Proponer al Titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas de Petróleos Mexicanos, con base en las reservas probadas y los recursos disponibles, dando prioridad a la seguridad energética del país en el marco de la Estrategia Nacional de Energía;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XVIII. Establecer la política de restitución de reservas de hidrocarburos;
+XV. Establecer la regulación en materia de registros de reconocimiento, permisos de exploración, o concesiones, según sea el caso para la explotación de áreas con potencial geotérmico, y supervisar su debido cumplimiento;
 
-XIX. Regular y, en su caso, expedir Normas Oficiales Mexicanas en materia de seguridad industrial del sector de hidrocarburos, así como supervisar su debido cumplimiento;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XVI. Proponer al Titular del Ejecutivo Federal el establecimiento de zonas de salvaguarda de hidrocarburos;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XVII. Proponer al Titular del Ejecutivo Federal la plataforma anual de producción de petróleo y de gas, con base en las reservas probadas y los recursos disponibles, dando prioridad a la seguridad energética del país;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XVIII. Establecer la política de restitución de reservas de hidrocarburos, así como la relativa en materia de geotermia;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XIX. Regular y, en su caso, expedir normas oficiales mexicanas a través de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, en lo correspondiente a sus facultades, así como supervisar su debido cumplimiento;
 
 XX. Registrar y dar a conocer, con base en la información proporcionada por la Comisión Nacional de Hidrocarburos, las reservas de hidrocarburos, conforme a los estudios de evaluación y de cuantificación, así como a las certificaciones correspondientes;
 
-XXI. Requerir la información necesaria para el desarrollo de sus funciones a los órganos desconcentrados, organismos descentralizados y empresas del sector y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XXII. Ordenar que se realicen visitas de inspección a las instalaciones de los órganos, organismos y empresas del sector, y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo;
+XXI. Requerir la información necesaria para el desarrollo de sus funciones, a órganos desconcentrados, órganos reguladores coordinados, entidades paraestatales y empresas del sector y, en general, a toda persona física o moral que realice cualquiera de las actividades a que se refieren la Ley de Hidrocarburos, la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear y la Ley de la Industria Eléctrica;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXII. Realizar visitas de inspección y verificación a las instalaciones de las entidades paraestatales con actividades en el sector y, en general, a toda persona física o moral que realice cualquiera de las actividades principales, auxiliares o conexas, a que se refieren las leyes señaladas en la fracción anterior;
 
 XXIII. Participar en foros internacionales respecto de las materias competencia de la Secretaría, con la intervención que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de convenios y tratados internacionales en tales materias; y, asimismo, participar en la concertación y el seguimiento de la ejecución de los acuerdos internacionales en materia de explotación de yacimientos transfronterizos de hidrocarburos de los que el Estado mexicano sea parte;
 
-XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables, y
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XXV. Los demás que le encomienden expresamente las leyes y reglamentos.
+XXIV. Iniciar, tramitar y resolver procedimientos administrativos e imponer las sanciones que correspondan, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXV. Fomentar y vigilar un adecuado suministro de los combustibles en el territorio nacional;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVI. Revisar y, en su caso, autorizar las reglas de operación del Mercado Eléctrico Mayorista y emitir disposiciones administrativas de carácter general que permitan su vigilancia;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVII. Establecer los términos de estricta separación legal que se requieren para fomentar el acceso abierto y la operación eficiente del sector eléctrico y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXVIII. Verificar el cumplimiento de la regulación que emita para la industria eléctrica y demás disposiciones administrativas aplicables, realizar visitas de verificación y requerir a las personas físicas y morales con actividades en el sector, la información que permita conocer el desempeño de la industria eléctrica y dictar las medidas que resulten aplicables, conforme a la Ley de la Industria Eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXIX. Fijar la política de eficiencia energética de la industria eléctrica y la política para establecer nuevas centrales eléctricas tendientes a satisfacer las necesidades del país y a dicha política de eficiencia energética de la industria eléctrica, así como establecer los requerimientos obligatorios en materia de energías limpias para la generación eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXX. Establecer los términos y condiciones obligatorios de cobertura para el suministro eléctrico en las comunidades rurales y zonas urbanas marginadas, y proponer los mecanismos para dirigir recursos económicos a este fin, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXXI. Los demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -1250,9 +1314,11 @@ XXX. Impulsar la reubicación de la industria de zonas urbanas con graves proble
 
 XXXI.- Determinar y operar el sistema electrónico en el que deberán realizarse las publicaciones que establezcan las leyes mercantiles;
 
-> <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-XXXII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXII.- Establecer, junto con la Secretaría de Energía, la política nacional de fomento a las compras de proveedores nacionales en los sectores de hidrocarburos y electricidad,
+
+XXXIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -1849,6 +1915,12 @@ XII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 ARTICULO 43 BIS.- Las dependencias de la Administración Pública Federal enviarán a la Consejería Jurídica del Ejecutivo Federal los proyectos de iniciativas de leyes o decretos a ser sometidos al Congreso de la Unión, a una de sus cámaras o a la Asamblea de Representantes del Distrito Federal, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo en los casos de las iniciativas de ley de ingresos y proyecto de presupuesto de egresos de la Federación, y en aquellos otros de notoria urgencia a juicio del Presidente de la República. Estos últimos serán sometidos al Titular del Poder Ejecutivo Federal por conducto de la Consejería Jurídica.
 
 Las demás dependencias y entidades de la Administración Pública Federal proporcionarán oportunamente a la Consejería Jurídica del Ejecutivo Federal la información y apoyo que requiera para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+ARTICULO 43 TER.- La Administración Pública Centralizada contará con Órganos Reguladores Coordinados en Materia Energética, con personalidad jurídica propia y autonomía técnica y de gestión. Serán creados por ley, misma que establecerá su competencia así como los mecanismos de coordinación con la Secretaría de Energía.
+
+Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2665,6 +2737,12 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
