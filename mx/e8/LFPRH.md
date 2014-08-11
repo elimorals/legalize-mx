@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2014-01-24"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -78,9 +78,9 @@ VI. Cuenta Pública: la Cuenta de la Hacienda Pública Federal;
 
 VII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-VIII. Dependencias: las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados, así como la Consejería Jurídica del Ejecutivo Federal, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo 4 de esta Ley;
+VIII. Dependencias: las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados; órganos reguladores coordinados en materia energética y la Consejería Jurídica del Ejecutivo Federal conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo 4 de esta Ley;
 
 IX. Dependencias coordinadoras de sector: las dependencias que designe el Ejecutivo Federal en los términos de la Ley Orgánica de la Administración Pública Federal, para orientar y coordinar la planeación, programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
 
@@ -112,6 +112,12 @@ XXII. Estructura Programática: el conjunto de categorías y elementos programá
 
 XXIII. Flujo de efectivo: el registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXIII BIS. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a que se refieren el artículo 28, párrafo sexto de la Constitución y los transitorios Décimo Cuarto y Décimo Quinto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013;
+
 XXIV. Función Pública: la Secretaría de la Función Pública;
 
 > <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2014)</small>
@@ -129,6 +135,12 @@ XXVIII. Gasto no programable: las erogaciones a cargo de la Federación que deri
 XXIX. Informes trimestrales: los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública que el Ejecutivo Federal presenta trimestralmente al Congreso de la Unión;
 
 XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los ingresos propios de las entidades de control indirecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XXX BIS. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el Fondo Mexicano del Petróleo que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo 16, fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo 52 de la Ley Federal de las Entidades Paraestatales;
 
@@ -174,6 +186,12 @@ XLVI. Remuneraciones: la retribución económica que constitucionalmente corresp
 
 XLVII. Requerimientos financieros del sector público: las necesidades de financiamiento del Gobierno Federal y las entidades del sector público federal, que cubre la diferencia entre los ingresos y los gastos distintos de la adquisición neta de pasivos y activos financieros, incluyendo las actividades del sector privado y social cuando actúan por cuenta del Gobierno Federal o las entidades;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+XLVII BIS. Reserva del Fondo: los activos del Fondo Mexicano del Petróleo destinados al ahorro de largo plazo en términos del Título Quinto de esta Ley;
+
 XLVIII. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso de la Unión;
 
 XLIX. Saldo histórico de los requerimientos financieros del sector público: los pasivos que integran los requerimientos financieros del sector público menos los activos financieros disponibles, en virtud de la trayectoria anual observada a lo largo del tiempo de los citados requerimientos;
@@ -187,6 +205,12 @@ LII. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, c
 LIII. Subsidios: las asignaciones de recursos federales previstas en el Presupuesto de Egresos que, a través de las dependencias y entidades, se otorgan a los diferentes sectores de la sociedad, a las entidades federativas o municipios para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
 
 LIV. Transferencias: las asignaciones de recursos federales previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial o en su caso, a los órganos administrativos desconcentrados, para sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios, así como las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados en moneda nacional o extranjera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+LIV BIS. Transferencias del Fondo Mexicano del Petróleo: aquéllas a que se refiere el artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que el Fondo Mexicano del Petróleo debe realizar en los términos del Título Quinto de la presente Ley;
 
 LV. Tribunales administrativos: Los órganos conformados con tal carácter en las leyes federales, tales como el Tribunal Federal de Justicia Fiscal y Administrativa, y los Tribunales Agrarios;
 
@@ -268,7 +292,9 @@ b) Ejercer las erogaciones que les correspondan conforme a lo aprobado en el Pre
 
 c) Ejercer las atribuciones a que se refieren los incisos d) y f) de la fracción I del presente artículo.
 
-Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes de su creación, sujetándose al margen de autonomía establecido en el presente artículo.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes de su creación, sujetándose al margen de autonomía establecido en el presente artículo. Las empresas productivas del Estado y sus empresas productivas subsidiarias se sujetarán exclusivamente a lo dispuesto en sus respectivas leyes.
 
 ###### Artículo 6.
 
@@ -432,11 +458,21 @@ El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Públic
 
 En caso de que el Congreso de la Unión modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo el Ejecutivo Federal deberá dar cumplimiento a los demás requisitos previstos en este artículo.
 
-El gasto en inversión de Petróleos Mexicanos y sus organismos subsidiarios no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-Los proyectos en que se ejerza el gasto de inversión a que se refiere el párrafo anterior se sujetarán a las disposiciones legales en materia de registro y seguimiento. Dichos proyectos deberán incrementar el valor patrimonial total de Petróleos Mexicanos y sus organismos subsidiarios. Asimismo, los proyectos de inversión de Petróleos Mexicanos y sus organismos subsidiarios cuya ejecución comprenda más de un ejercicio fiscal serán incluidos, según corresponda, en los capítulos específicos del proyecto de Presupuesto de Egresos relativos a los compromisos plurianuales y a las erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de esta Ley, y su evolución se incluirá en los informes trimestrales.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural.
+El gasto en inversión de Petróleos Mexicanos y sus empresas productivas subsidiarias no se contabilizará para efectos del equilibrio presupuestario previsto en este artículo. Lo anterior, sin perjuicio de que los requerimientos financieros del sector público deberán contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público. Asimismo, el balance financiero de las empresas productivas del Estado deberá contribuir a mantener la salud financiera de la Administración Pública Federal y a una evolución ordenada del saldo histórico de los requerimientos financieros del sector público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA II, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO NOVENO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+El gasto corriente estructural propuesto por el Ejecutivo Federal en el proyecto de Presupuesto de Egresos, aquél que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal, no podrá ser mayor al límite máximo del gasto corriente estructural. Para efectos de lo establecido en este párrafo, el gasto de las empresas productivas del Estado y sus empresas productivas subsidiarias no se contabilizará dentro del gasto corriente estructural que se utilice como base para el cálculo de dicho límite máximo, aquél que se incluya en el proyecto de Presupuesto de Egresos, así como el que apruebe la Cámara de Diputados y el que se ejerza en el ejercicio fiscal.
 
 Excepcionalmente, y debido a condiciones económicas y sociales que priven en el país, se podrá rebasar el límite máximo del gasto corriente estructural. En estos casos, el Ejecutivo Federal, por conducto de la Secretaría, al comparecer ante el Congreso de la Unión con motivo de la presentación de las iniciativas de Ley de Ingresos y de Presupuesto de Egresos, para efectos de su aprobación, deberá dar cuenta de las razones excepcionales que lo justifican, así como las acciones y el número de ejercicios fiscales que sean necesarios para mantener una trayectoria de crecimiento del gasto corriente estructural acorde con el crecimiento del Producto Interno Bruto Potencial.
 
@@ -460,9 +496,11 @@ El Ejecutivo Federal, por conducto de la Secretaría, podrá autorizar erogacion
 
 I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse en primer término a compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de participaciones; costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente; así como a la atención de desastres naturales cuando el Fondo de Desastres a que se refiere el artículo 37 de esta Ley resulte insuficiente.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA IV, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-En el caso de la Comisión Federal de Electricidad, las erogaciones adicionales necesarias para cubrir los incrementos en los costos de combustibles con respecto a las estimaciones aprobadas en la Ley de Ingresos y su propio presupuesto, procederán como ampliaciones automáticas con cargo a los ingresos excedentes a que se refiere esta fracción. Dichas ampliaciones únicamente aplicarán para compensar aquel incremento en costos que no sea posible repercutir en la correspondiente tarifa eléctrica.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Las erogaciones adicionales necesarias para cubrir los incrementos en los apoyos a tarifas eléctricas a que se refiere la Ley de la Industria Eléctrica, con respecto a las estimaciones aprobadas en el Presupuesto de Egresos, procederán como ampliaciones automáticas con cargo a los ingresos excedentes a que se refiere esta fracción. Dichas ampliaciones únicamente aplicarán por el incremento en apoyos que esté asociado a mayores costos de combustibles.
 
 El remanente de los ingresos excedentes a que se refiere la presente fracción, se destinará en los términos de la fracción IV de este artículo;
 
@@ -478,35 +516,41 @@ IV. Los ingresos excedentes a que se refiere el último párrafo de la fracción
 
 a) En un 25% al Fondo de Estabilización de los Ingresos de las Entidades Federativas;
 
-b) En un 25% al Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-c) En un 40% al Fondo de Estabilización de los Ingresos Petroleros.
+b) (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+c) En un 65% al Fondo de Estabilización de los Ingresos Presupuestarios, y
 
 d) En un 10% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-Los ingresos excedentes se destinarán a los Fondos a que se refiere esta fracción hasta alcanzar una reserva adecuada para afrontar una caída de la Recaudación Federal Participable o de los ingresos petroleros del Gobierno Federal y de Petróleos Mexicanos. El monto de dichas reservas, en pesos, será igual al producto de la plataforma de producción de hidrocarburos líquidos estimada para el año, expresada en barriles, por un factor de 3.25 para el caso de los incisos a) y b), y de 6.50 en el caso del inciso c), en todos los casos por el tipo de cambio del dólar estadounidense con respecto al peso esperado para el ejercicio. En el caso de los ingresos excedentes para el Fondo a que se refiere el inciso b) de esta fracción, estos recursos se transferirán anualmente a Petróleos Mexicanos para que éste constituya la reserva, quién podrá emplear hasta el 50% de los recursos acumulados en este fondo al cierre del ejercicio fiscal anterior para la ampliación de la infraestructura de refinación en territorio de los Estados Unidos Mexicanos.
+Los ingresos excedentes se destinarán a los Fondos a que se refieren los incisos a) y c) de esta fracción, hasta alcanzar una reserva adecuada para afrontar, respectivamente, una caída de la Recaudación Federal Participable o de los ingresos del Gobierno Federal. El monto de dichas reservas, en pesos, será igual al monto que resulte de multiplicar un factor de 0.04 para el caso del inciso a), y de 0.08 para el caso del inciso c), por la suma de las cantidades estimadas en el artículo 1 de la Ley de Ingresos en los conceptos correspondientes a impuestos totales y a las transferencias del Fondo Mexicano del Petróleo.
 
 Los Fondos de Estabilización a que se refiere esta fracción se sujetarán a reglas de operación que deberán ser publicadas en el Diario Oficial de la Federación.
 
 En el caso del Fondo de Estabilización de los Ingresos de las Entidades Federativas, los recursos serán administrados por el Banco Nacional de Obras y Servicios Públicos, S.N.C., en calidad de fiduciario del fideicomiso público sin estructura orgánica establecido para tal efecto. Dicho fideicomiso contará con un Comité Técnico conformado por tres representantes de las entidades federativas y tres representantes del Gobierno Federal; la Presidencia de dicho Comité corresponderá a uno de los representantes de las entidades federativas.
 
-La aplicación de los recursos de los Fondos se sujetará a lo dispuesto en la fracción II del artículo 21 de esta Ley, en los términos de las respectivas reglas de operación; asimismo dichos Fondos podrán recibir recursos de otras fuentes de ingresos establecidas por las disposiciones generales, sujetándose a los límites máximos para cada reserva a que se refiere el presente artículo. En este último caso, una vez que las reservas alcancen su límite máximo, las contribuciones que por disposición general distinta a esta Ley tengan como destino los Fondos a que se refieren los incisos a) y c) de esta fracción, cambiarán su destino para aplicarse a lo previsto en el inciso d) de la siguiente fracción de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+La aplicación de los recursos de los Fondos se sujetará a lo dispuesto en el artículo 21, fracción II, de esta Ley, en los términos de las respectivas reglas de operación; asimismo dichos Fondos podrán recibir recursos de otras fuentes de ingresos establecidas por las disposiciones aplicables, sujetándose a los límites máximos para cada reserva a que se refiere esta fracción. En este último caso, una vez que las reservas alcancen su límite máximo, las contribuciones que tengan como destino los Fondos a que se refieren los incisos a) y c) de esta fracción, cambiarán su destino para aplicarse a lo previsto en la siguiente fracción de este artículo.
 
 Cuando se realicen erogaciones con cargo a las reservas a que se refiere esta fracción, la restitución de las mismas tendrá prelación con respecto a los destinos previstos en la siguiente fracción;
 
-V. Una vez que los Fondos a que se refiere la fracción anterior alcancen el monto de la reserva determinado, los excedentes de ingresos, a que se refiere la fracción IV de este artículo se destinarán conforme a lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-a) En un 25% a los programas y proyectos de inversión en infraestructura que establezca el Presupuesto de Egresos, dando preferencia al gasto que atienda las prioridades en las entidades federativas;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-b) En un 25% a programas y proyectos de inversión en infraestructura y equipamiento de las entidades federativas. Dichos recursos se destinarán a las entidades federativas conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente.
-
-c) En un 25% a los programas y proyectos de inversión en infraestructura de Petróleos Mexicanos;
-
-d) En un 25% para el Fondo de Apoyo para la Reestructura de Pensiones.
+V. Una vez que las reservas del Fondo de Estabilización de los Ingresos de las Entidades Federativas alcancen su límite máximo, los recursos a que se refiere el artículo 87, fracción II, de esta Ley, así como los ingresos excedentes que tengan como destino dicho fondo serán destinados al fondeo de sistemas de pensiones de las entidades federativas. En el caso del Fondo de Estabilización de los Ingresos Presupuestarios, una vez que sus reservas alcancen su límite máximo, los recursos a que se refiere el artículo 87, fracción I, de esta Ley, se destinarán a la Reserva del Fondo, mientras que los ingresos excedentes que tengan como destino el Fondo de Estabilización de los Ingresos Presupuestarios, se podrán destinar a subsanar el déficit presupuestal del Gobierno Federal, a la amortización de pasivos del propio Gobierno Federal o al Fondo Nacional de Infraestructura, en la proporción que el Ejecutivo Federal determine.
 
 Las erogaciones adicionales a que se refiere este artículo se autorizarán en los términos del Reglamento y sólo procederán cuando éstas no afecten negativamente el equilibrio presupuestario o, en su caso, no aumenten el déficit presupuestario.
 
@@ -526,13 +570,17 @@ En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en 
 
 I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, así como tratándose de ingresos propios de las entidades de control directo. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de las siguientes fracciones;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-II. La disminución de los ingresos totales del Gobierno Federal, asociada a una menor recaudación de ingresos tributarios no petroleros, a disminuciones en el precio promedio ponderado de barril de petróleo crudo mexicano y de otros hidrocarburos o de su plataforma de producción, o a movimientos del tipo de cambio del peso respecto del dólar de los Estados Unidos de América durante el ejercicio fiscal en cuestión, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Petroleros en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo sin poder compensar dicha disminución, se procederá a compensar con los ajustes a que se refiere la fracción III del presente artículo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+II. La disminución de los ingresos del Gobierno Federal, asociada a menores ingresos petroleros, así como a una menor recaudación de impuestos, derechos, productos y aprovechamientos que no tengan fin específico, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo de Estabilización de los Ingresos Presupuestarios sin poder compensar dicha disminución, se procederá a compensar con los recursos de la Reserva del Fondo y a reasignar el gasto correspondiente a la fracción III, inciso a), subincisos i) a iii) del presente artículo, a gasto de inversión en infraestructura, programas de empleo temporal y programas de estímulo que determine el Ejecutivo Federal, el cual deberá reportar en el informe trimestral correspondiente las reasignaciones de gasto realizadas. En caso de que el uso de la Reserva del Fondo no sea suficiente, se procederá con los ajustes a que se refiere la fracción III del presente artículo.
 
 La disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas de acuerdo con sus respectivas reglas de operación.
 
-En caso de una disminución de los ingresos propios de Petróleos Mexicanos asociada a disminuciones en el precio promedio ponderado de barril de petróleo crudo mexicano y de otros hidrocarburos o a movimientos del tipo de cambio del peso respecto del dólar de los Estados Unidos de América durante el ejercicio fiscal en cuestión, por debajo de los estimados para la Ley de Ingresos, se podrá compensar, de conformidad con sus reglas de operación, con los recursos del Fondo a que se refiere el inciso b) de la fracción IV del artículo 19 de esta Ley. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo sin poder compensar dicha disminución, se procederá a compensar con cargo a su presupuesto y sujetándose en lo conducente a los incisos b) y c) de la fracción III del presente artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 III. La disminución de los ingresos distintos a los que se refiere la fracción II de este artículo se compensará, una vez efectuada en su caso la compensación a que se refiere la fracción I, con la reducción de los montos aprobados en los presupuestos de las dependencias, entidades, fondos y programas, conforme a lo siguiente:
 
@@ -555,6 +603,32 @@ c) En el caso de que la contingencia sea de tal magnitud que represente una redu
 La Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta Pública, en un plazo de 15 días hábiles a partir de la recepción de la propuesta, analizará la composición de ésta, con el fin de proponer, en su caso, modificaciones a la composición de la misma, en el marco de las disposiciones generales aplicables. El Ejecutivo Federal, con base en la opinión de la Cámara, resolverá lo conducente de acuerdo a las prioridades aprobadas en el presupuesto informando de ello a la misma. En caso de que la Cámara no emita opinión dentro de dicho plazo, procederá la propuesta enviada por el Ejecutivo Federal.
 
 Los Poderes Legislativo y Judicial y los entes autónomos deberán coadyuvar al cumplimiento de las normas de disciplina presupuestaria a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos, observando en lo conducente lo dispuesto en la fracción III. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales y la Cuenta Pública.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+###### Artículo 21 Bis.
+
+En la operación de los fondos de Estabilización de los Ingresos de las Entidades Federativas y de Estabilización de los Ingresos Presupuestarios a que se refieren los incisos a) y c) de la fracción IV del artículo 19 de esta Ley, se deberán observar, al menos, las siguientes directrices:
+
+I. El Fondo de Estabilización de los Ingresos de las Entidades Federativas tiene por finalidad lo establecido en el artículo 21, fracción II, párrafo segundo, de esta Ley;
+
+II. La finalidad del Fondo de Estabilización de los Ingresos Presupuestarios es aminorar el efecto sobre las finanzas públicas y la economía nacional cuando ocurran disminuciones de los ingresos del Gobierno Federal, con respecto a los estimados en la Ley de Ingresos, para propiciar condiciones que permitan cubrir el gasto previsto en el Presupuesto de Egresos;
+
+III. Los Fondos se constituirán como fideicomisos públicos sin estructura orgánica, en términos de la presente Ley y demás disposiciones aplicables;
+
+IV. El monto de recursos que, conforme a esta Ley, su Reglamento, las respectivas reglas de operación de los Fondos y otras disposiciones aplicables, se destinen a los fondos de estabilización referidos, se deberá calcular y depositar, conforme a los plazos determinados en dichos ordenamientos;
+
+V. Los recursos de los Fondos, en tanto no sean utilizados, deberán permanecer depositados en cuentas y, en su caso, subcuentas establecidas por la institución fiduciaria, de acuerdo con las instrucciones que para tal efecto realice la Secretaría y lo estipulado en el fideicomiso, según corresponda;
+
+VI. La política de inversión de los recursos que integran los fondos y, en su caso, los medios para la protección de los mismos, incluyendo la adquisición de coberturas, deberán determinarse por la Secretaría, de acuerdo con las reglas de operación correspondientes;
+
+VII. La Secretaría, conforme a las disposiciones aplicables, reportará al Congreso de la Unión acerca de los ingresos, egresos y reservas de los fondos, en los Informes Trimestrales, y
+
+VIII. Las reglas de operación del Fondo de Estabilización de los Ingresos de las Entidades Federativas deberán prever, al menos, lo siguiente:
+
+a) Se podrán realizar compensaciones provisionales durante el ejercicio fiscal correspondiente, con base en una proyección de las finanzas públicas que elabore la Secretaría, en la que se determine la disminución de las participaciones a las entidades federativas, y
+
+b) En el supuesto de que las cantidades entregadas mediante dichas compensaciones sean superiores a la disminución de las participaciones a las entidades federativas observada al cierre del ejercicio fiscal, las Entidades Federativas deberán realizar el reintegro de recursos que corresponda al Fondo dentro de los 10 días siguientes a que se les comunique el monto respectivo de dicho reintegro.
 
 ###### Artículo 22.
 
@@ -798,6 +872,10 @@ Las dependencias y entidades, en los términos del Reglamento, podrán solicitar
 
 Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes.
 
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Las dependencias y entidades podrán obtener la autorización a que se refiere este artículo en relación con los contratos plurianuales a que se refiere el artículo 50 de esta Ley, conforme al procedimiento que establezca el Reglamento.
+
 ###### Artículo 36.
 
 Podrán contratarse créditos externos para financiar total o parcialmente programas y proyectos cuando cuenten con la autorización de la Secretaría y los montos para ejercerlos estén previstos en el Presupuesto de Egresos en los términos del Reglamento.
@@ -864,7 +942,15 @@ d) En su caso, disposiciones generales, regímenes específicos y estímulos en 
 
 e) Disposiciones en materia de transparencia fiscal e información que se deberá incluir en los informes trimestrales,
 
-f) El aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+f) El dividendo estatal que, en su caso, deberán entregar al Gobierno Federal las empresas productivas del Estado y sus empresas productivas subsidiarias, y
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+g) La estimación de los ingresos que generen la Comisión Reguladora de Energía, la Comisión Nacional de Hidrocarburos y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, derivados de las contribuciones y aprovechamientos que cobren por la prestación de sus servicios. Dichos recursos se destinarán a financiar el presupuesto total de cada una de ellas;
 
 III. En caso de considerarse ingresos por financiamiento, se deberá incluir en la Ley de Ingresos:
 
@@ -926,9 +1012,9 @@ l) Un apartado que contenga las principales variaciones que se proponen con resp
 
 m) La información que permita distinguir el gasto regular de operación; el gasto adicional que se propone, y las propuestas de ajustes al gasto;
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-n) El destino que corresponda a los ingresos provenientes del aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal, el cual corresponderá a las entidades federativas para gasto en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente;
+n) (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
@@ -1696,13 +1782,17 @@ La Secretaría incluirá los reportes señalados en esta fracción, por entidad 
 
 Las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, publicarán los informes a que se refiere esta fracción en los órganos locales oficiales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de Internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
-## TÍTULO QUINTO. De la Contabilidad Gubernamental
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+## TÍTULO QUINTO. De las Transferencias del Fondo Mexicano del Petróleo
 
-### CAPÍTULO I. De la Valuación del Patrimonio del Estado
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO I. De las Transferencias Ordinarias del Fondo Mexicano del Petróleo
 
 > <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
@@ -1716,53 +1806,169 @@ II. Promover mecanismos de participación ciudadana en el seguimiento del gasto 
 
 III. Informar al Congreso de la Unión y a la respectiva legislatura local, sobre el ejercicio del presupuesto y de los avances de los objetivos establecidos en el Plan Nacional de Desarrollo y en los respectivos planes locales de desarrollo, en los términos de las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 87.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+Las transferencias del Fondo Mexicano del Petróleo que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios y al Fondo de Estabilización de los Ingresos de las Entidades Federativas, se sujetarán a lo siguiente:
+
+I. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos Presupuestarios serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.022, y
+
+II. Los recursos que deberán destinarse al Fondo de Estabilización de los Ingresos de las Entidades Federativas serán hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0064.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y III, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+Las transferencias del Fondo Mexicano del Petróleo que se realicen al Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, a otros fondos de investigación científica y desarrollo tecnológico de institutos que realicen investigación en materia de hidrocarburos y al Fondo Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética serán en conjunto hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0065 y se destinarán a lo siguiente:
+
+I. El 65% al Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, creado de conformidad con las disposiciones de la Ley de Ciencia y Tecnología y cuyo fin será:
+
+a) Apoyar actividades de investigación para identificar áreas con potencial de hidrocarburos que, en el ámbito de sus atribuciones, lleve a cabo la Comisión Nacional de Hidrocarburos, y
+
+b) Al financiamiento de las actividades señaladas en el artículo 25 de la Ley de Ciencia y Tecnología en temas de exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos, con especial énfasis en la formación de recursos humanos especializados;
+
+II. El 15% al Fondo de Investigación Científica y Desarrollo Tecnológico del Instituto Mexicano del Petróleo, conforme a lo establecido en la Ley de Ciencia y Tecnología, para las actividades relacionadas con:
+
+a) La investigación y desarrollo tecnológico aplicados, tanto a la exploración, extracción y refinación de hidrocarburos, como a la producción de petroquímicos, y
+
+b) La adopción, innovación y asimilación en las materias señaladas en el inciso anterior, así como los demás elementos asociados.
+
+De estos recursos, el Instituto Mexicano del Petróleo destinará un máximo de 5% a la formación de recursos humanos especializados, y
+
+III. El 20% al Fondo Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, creado de conformidad con las disposiciones de la Ley de Ciencia y Tecnología. Estos recursos se destinarán al financiamiento de las actividades señaladas en el artículo 25 de la Ley de Ciencia y Tecnología en temas de fuentes renovables de energía, eficiencia energética, uso de tecnologías limpias y diversificación de fuentes primarias de energía. Las materias de investigación serán definidas por la Secretaría de Energía.
+
+La transferencia a que se refiere este artículo se realizará sin perjuicio de otros recursos que se aprueben para los mismos fines en el Presupuesto de Egresos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y III, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 89.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+En la aplicación de los recursos asignados por las fracciones I y II del artículo anterior, se dará prioridad a las finalidades siguientes:
+
+I. Elevar el factor de recuperación y la obtención del volumen máximo de hidrocarburos de los yacimientos;
+
+II. Fomentar la exploración, especialmente en aguas profundas, para incrementar la tasa de restitución de reservas;
+
+III. Mejorar la refinación de petróleo crudo pesado, y
+
+IV. La prevención de la contaminación y la remediación ambiental relacionadas con las actividades de la industria petrolera.
+
+Los recursos de los Fondos a que se refieren las fracciones I, II y III del artículo anterior se canalizarán de conformidad con el objeto y las prioridades establecidas para cada Fondo, para atender el Programa de Investigación, Desarrollo de Tecnología y Formación de Recursos Humanos Especializados que apruebe el comité técnico y de administración del Fondo respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 90.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+La transferencia del Fondo Mexicano del Petróleo que se realice a la Tesorería de la Federación para cubrir los costos de fiscalización de la Auditoría en materia petrolera, será hasta por el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.000054. A cuenta de esta transferencia se harán transferencias provisionales trimestrales equivalentes a una cuarta parte del monto correspondiente que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I Y VI, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 91.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+La transferencia del Fondo Mexicano del Petróleo que se realice al Fondo de Extracción de Hidrocarburos será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo 4o-B de la Ley de Coordinación Fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 92.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+La transferencia del Fondo Mexicano del Petróleo que se realice para los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos, será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.00051, y se sujetará a lo establecido en el artículo 2-A, fracción II de la Ley de Coordinación Fiscal.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 93.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+La transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 16, fracción II, inciso g), de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, será la cantidad que resulte de restar al monto en pesos equivalente a 4.7% del Producto Interno Bruto nominal establecido en los Criterios Generales de Política Económica para el año de que se trate, los montos aprobados en la Ley de Ingresos correspondientes a la recaudación por el impuesto sobre la renta por los contratos y asignaciones a que se refiere el artículo 27, párrafo séptimo, de la Constitución y a las transferencias a que se refieren los incisos a) a f) de dicha fracción.
 
-### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
+En caso que, al cierre del ejercicio fiscal, los recursos del Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el párrafo anterior, ésta será igual al total de recursos del Fondo Mexicano del Petróleo que, en su caso, sean susceptibles de ser transferidos al Gobierno Federal de acuerdo con esta Ley y el Reglamento.
+
+Asimismo, en caso que los montos de ingresos correspondientes al Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el primer párrafo de este artículo, la Ley de Ingresos podrá prever un monto inferior por este concepto. Los recursos excedentes que durante el ejercicio fiscal reciba el Fondo Mexicano del Petróleo por encima del monto establecido en la Ley de Ingresos y hasta por el monto suficiente para cubrir los fines señalados en el artículo 19, fracción I, párrafos primero y segundo, de esta Ley, no podrán ser superiores a lo establecido en el primer párrafo de este artículo. Los recursos excedentes del Fondo Mexicano del Petróleo que no sean empleados para cubrir los fines señalados permanecerán en la Reserva del Fondo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO II. De las Transferencias Extraordinarias del Fondo Mexicano del Petróleo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 94.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+Únicamente cuando la Reserva del Fondo al inicio del año calendario sea mayor al 3% del Producto Interno Bruto del año previo, el Comité Técnico del Fondo Mexicano del Petróleo podrá recomendar a la Cámara de Diputados, a más tardar el 28 de febrero, la asignación del incremento observado el año anterior en la Reserva del Fondo a los siguientes rubros:
+
+I. Hasta por un monto equivalente a 10%, al fondo para el sistema de pensión universal conforme a lo que señale su ley;
+
+II. Hasta por un monto equivalente a 10%, para financiar proyectos de inversión en ciencia, tecnología e innovación, y en energías renovables;
+
+III. Hasta por un monto equivalente a 30%, para fondear un vehículo de inversión especializado en proyectos petroleros, coordinado por la Secretaría de Energía y, en su caso, en inversiones en infraestructura para el desarrollo nacional, y
+
+IV. Hasta por un monto equivalente a 10%, en becas para la formación de capital humano en universidades y posgrados; en proyectos de mejora a la conectividad; así como para el desarrollo regional de la industria. Con excepción del programa de becas, no podrán emplearse recursos para gasto corriente en lo determinado en esta fracción.
+
+Al menos un monto equivalente a 40%, permanecerá como parte del patrimonio de la Reserva del Fondo.
+
+Los montos en pesos de los porcentajes señalados en las fracciones anteriores se calcularán sobre el monto de recursos adicionales acumulados entre enero y diciembre del año previo, correspondientes a la aportación anual a la Reserva del Fondo Mexicano del Petróleo.
+
+El Comité Técnico, al determinar la recomendación de asignación de recursos que corresponda a las fracciones anteriores, deberá observar que dicha asignación no tenga como consecuencia que la Reserva del Fondo se reduzca por debajo de 3% del Producto Interno Bruto del año anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 95.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+La Cámara de Diputados aprobará, a más tardar el 30 de abril, la recomendación del Comité Técnico a que se refiere el artículo anterior con las modificaciones que, en su caso, realice en términos de este artículo. En caso de que la Cámara no se pronuncie en dicho plazo, la recomendación se considerará aprobada.
+
+La Cámara de Diputados, con la aprobación de las dos terceras partes de los miembros presentes y sujeto a lo previsto en los párrafos segundo y cuarto del artículo anterior, podrá modificar los límites o los posibles destinos mencionados en las fracciones de dicho artículo sin poder asignar recursos a proyectos o programas específicos.
+
+Con base en la asignación aprobada por la Cámara de Diputados, el Ejecutivo Federal calculará el monto que se aportará al fondo a que se refiere la fracción I del artículo anterior, así como determinará los proyectos y programas específicos a los que se asignarán los recursos en cada rubro a que se refieren las fracciones II a IV del mismo artículo, o bien, los destinos que correspondan en términos del párrafo anterior, para su inclusión en el Proyecto de Presupuesto de Egresos. En el proceso de aprobación del Presupuesto de Egresos, la Cámara de Diputados podrá reasignar los recursos destinados a los proyectos específicos dentro de cada rubro, respetando la distribución de recursos en los rubros generales ya aprobada.
+
+El Comité Técnico instruirá la transferencia del Fondo Mexicano del Petróleo a la Tesorería de la Federación de los recursos aprobados en el Presupuesto de Egresos, en los plazos que correspondan. Dichas transferencias serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 96.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+Los rendimientos financieros de la Reserva del Fondo serán parte del patrimonio del Fondo Mexicano del Petróleo y serán destinados a la Reserva del Fondo, excepto cuando la Reserva del Fondo sea igual o mayor a 10% del Producto Interno Bruto del año previo al que se trate.
+
+En caso que la Reserva del Fondo supere el 10% del Producto Interno Bruto, el Comité Técnico ordenará la transferencia de los rendimientos financieros reales anuales a la Tesorería de la Federación de acuerdo con lo establecido en el Reglamento. Estas transferencias del Fondo Mexicano del Petróleo serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 97.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
+En caso que, derivado de una reducción significativa en los ingresos públicos, asociada a una caída en el Producto Interno Bruto, a una disminución pronunciada en el precio del petróleo o a una caída en la plataforma de producción de petróleo, y una vez que se hayan agotado los recursos en el Fondo de Estabilización de los Ingresos Presupuestarios, la Cámara de Diputados podrá aprobar, mediante votación de las dos terceras partes de sus miembros presentes, las transferencias de recursos de la Reserva del Fondo a la Tesorería de la Federación para contribuir a cubrir el Presupuesto de Egresos, aun cuando el saldo de dicha reserva se redujera por debajo de 3% del Producto Interno Bruto del año anterior.
+
+Para tal efecto, el Ejecutivo Federal realizará la propuesta correspondiente, conforme a lo siguiente:
+
+I. Se entenderá que existe una reducción significativa en los ingresos públicos cuando se estime una caída de los ingresos tributarios no petroleros en términos reales con respecto al año anterior que persista por más de un ejercicio fiscal. En dicho caso, solamente se podrá utilizar la Reserva del Fondo hasta por un monto suficiente para que los ingresos tributarios no petroleros mantengan un nivel congruente con la trayectoria de ingresos de largo plazo;
+
+II. Se entenderá que existe una disminución pronunciada en el precio del petróleo o una caída en la plataforma de producción de petróleo para efectos de lo establecido en el presente artículo, cuando para un ejercicio fiscal se prevea que las transferencias del Fondo Mexicano del Petróleo no serán suficientes para mantener los ingresos petroleros aprobados en la Ley de Ingresos. En dicho caso, solamente se podrá utilizar la Reserva del Fondo hasta por un monto suficiente para que los ingresos petroleros alcancen el monto aprobado en la Ley de Ingresos, y
+
+III. La propuesta para utilizar recursos de la Reserva del Fondo sólo podrá presentarse cuando los recursos del Fondo de Estabilización de los Ingresos Presupuestarios se hayan agotado en términos de lo que establezca el Reglamento para efectos del presente artículo.
+
+En los casos señalados en las fracciones I y II, una vez que se hayan agotado los recursos del Fondo de Estabilización de Ingresos de las Entidades Federativas, la Cámara de Diputados podrá aprobar una transferencia adicional de la Reserva del Fondo por un monto suficiente para mantener un nivel por concepto de participaciones federales igual, en términos reales, al observado en el ejercicio fiscal inmediato anterior, en el entendido que dicha transferencia adicional deberá ser igual o menor al 20% del monto total que se extraiga de la Reserva del Fondo en un ejercicio fiscal.
+
+Con base en la aprobación de la Cámara de Diputados, el fideicomitente del Fondo Mexicano del Petróleo instruirá al fiduciario a transferir los recursos correspondientes a la Tesorería de la Federación.
 
 ###### Artículo 98.
 
@@ -1784,7 +1990,7 @@ III. Informar al Congreso de la Unión y a la respectiva legislatura local, sobr
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2008)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO III. De la Formulación de Estados Financieros
 
@@ -2259,3 +2465,77 @@ La Secretaría o, la unidad administrativa competente en el caso de los Poderes 
 SÉPTIMO. El Congreso de la Unión, a partir de la entrada en vigor del presente Decreto legislará en torno a las adecuaciones constitucionales y reglamentarias en torno a un Sistema Nacional de Fiscalización y un nuevo marco de combate a la corrupción en los tres niveles de gobierno.
 
 OCTAVO. El Ejecutivo Federal, para dar cumplimiento a lo establecido en el artículo 61 de esta Ley, deberá publicar la actualización de los programas vigentes expedidos con anterioridad a la entrada en vigor del presente Decreto, donde se integren las nuevas medidas de disciplina y austeridad del presente Decreto. El Ejecutivo Federal deberá hacer esta publicación a más tardar el último día hábil de abril de 2014 e informar, a partir del segundo informe trimestral, sobre los avances, resultados y cumplimiento de metas.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+###### ARTÍCULO SEGUNDO.
+
+Se establecen las siguientes disposiciones transitorias de la Ley Federal de Presupuesto y Responsabilidad Hacendaria:
+
+I. Las modificaciones a los artículos 2, fracciones XXIII-Bis, XXX-Bis, XLVII-Bis y LIV-Bis, 17, octavo y décimo párrafos, 19, con excepción de lo señalado en la fracción IV siguiente, 21, 40, fracción II, inciso f) y 41, fracción II, inciso n), así como la adición del nuevo Título Quinto denominado “De las Transferencias del Fondo Mexicano del Petróleo”, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrarán en vigor el 1 de enero de 2015.
+
+II. La derogación del párrafo noveno del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrará en vigor en la fecha en que entre en vigor el régimen especial en materia presupuestaria para Petróleos Mexicanos, conforme a su ley.
+
+III. El Ejecutivo Federal, por conducto de las dependencias y entidades competentes, realizará las modificaciones que sean necesarias a los contratos y reglas de operación de los fondos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para adecuarlos a lo previsto en dicho artículo y en el 89 de la misma Ley, a fin de que operen en términos de lo previsto en el presente Decreto a partir del 1 de enero de 2015.
+
+IV. La reforma al párrafo segundo de la fracción I del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria entrará en vigor en la fecha en que entre en operación el mercado eléctrico mayorista, conforme a las disposiciones aplicables.
+
+V. Los recursos remanentes en el Fondo de Apoyo para la Reestructura de Pensiones y el Fondo de Estabilización para la Inversión en Infraestructura de Petróleos Mexicanos, al 31 de diciembre de 2014, se destinarán a los objetivos para los cuales se crearon dichos Fondos, conforme a las disposiciones aplicables.
+
+VI. Para efectos de determinar el monto de la transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que se realice al Fondo de Extracción de Hidrocarburos conforme a lo dispuesto en el artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en lugar de aplicar el factor previsto en dicho precepto, durante los ejercicios fiscales 2015 al 2018 se aplicarán lo siguientes factores:
+
+EJERCICIO FISCAL FACTOR
+
+2015 0.0080
+
+2016 0.0082
+
+2017 0.0084
+
+2018 0.0085
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá lo necesario para que, en la elaboración de la iniciativa de Ley de Ingresos de la Federación y el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2015, se reflejen las reformas a la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se señalan en el artículo segundo, fracción I, del presente Decreto.
+
+Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones y jubilaciones en curso de pago, así como las que correspondan a los trabajadores en activo de Petróleos Mexicanos y sus organismos subsidiarios reconocidas a la entrada en vigor del presente Decreto y registradas actuarialmente en sus estados financieros, conforme a las estipulaciones contractuales vigentes en esa misma fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, Petróleos Mexicanos alcance un acuerdo para modificar el contrato colectivo de trabajo aplicable en la empresa y en los organismos subsidiarios, modifique el Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y Organismos Subsidiarios, e implemente un Programa de Austeridad en el Gasto. Dichas modificaciones, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa. Además, las modificaciones deberán contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo la edad de retiro para reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+
+La proporción de la obligación de pago que en su caso asuma el Gobierno Federal será por un monto equivalente a la reducción del pasivo laboral reconocido conforme a lo señalado en el párrafo anterior, que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Reglamento de Trabajo a que se hace referencia en el párrafo anterior.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal, una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+
+A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de Petróleos Mexicanos y sus subsidiarias con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+
+Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la Comisión Federal de Electricidad de las pensiones y jubilaciones reconocidas y registradas actuarialmente en sus estados financieros que correspondan a sus trabajadores que fueron contratados hasta el 18 de agosto de 2008, fecha en que la empresa suscribió con el sindicato un convenio para adoptar el esquema de cuentas individuales para los trabajadores de nuevo ingreso, conforme a las estipulaciones contractuales vigentes en esta última fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, la Comisión Federal de Electricidad alcance un acuerdo para modificar el contrato colectivo de trabajo y el Manual de Trabajo de los Servidores Públicos de Mando de la Comisión Federal de Electricidad, aplicables en la empresa, e implemente un Programa de Austeridad en el Gasto. Dicha modificación, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa, y contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro; que se establezcan los mecanismos necesarios para que los trabajadores en activo contratados hasta el 18 de agosto de 2008, se adhieran de manera voluntaria a dichos esquemas de cuentas individuales, y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo para la edad de retiro, con objeto de reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+
+La proporción de la obligación de pago que en su caso asuma el Gobierno Federal reconocido conforme al párrafo anterior será por un monto equivalente a la reducción del pasivo laboral que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Manual a que se hace referencia en el párrafo anterior.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+
+A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de la Comisión Federal de Electricidad con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+
+Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del vigésimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
+
+Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que tanto la Comisión Nacional de Hidrocarburos como la Comisión Reguladora de Energía cuenten con los recursos presupuestales conforme se establece en la tabla siguiente:
+
+AÑO PRESUPUESTO COMISIÓN PRESUPUESTO COMISIÓN
+
+NACIONAL DE REGULADORA DE ENERGÍA
+
+HIDROCARBUROS
+
+2015 350 millones de pesos 400 millones de pesos
+
+2016 320 millones de pesos 370 millones de pesos
+
+2017 290 millones de pesos 340 millones de pesos
+
+2018 240 millones de pesos 280 millones de pesos
+
+La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
