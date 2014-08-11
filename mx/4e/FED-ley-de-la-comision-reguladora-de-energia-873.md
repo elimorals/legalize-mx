@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-reguladora-de-energia-873"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-31"
-last_updated: "2008-11-28"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=873&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1995-10-30"
 ---
 # LEY DE LA COMISION REGULADORA DE ENERGIA
 
-LEY DE LA COMISION REGULADORA DE ENERGIA
+LEY DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA, PUBLICADA EN EL D.O.F. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 31 de octubre de 1995.
 
@@ -169,7 +171,7 @@ II. Haberse desempeñado en forma destacada en cuestiones profesionales o acadé
 
 III. No tener conflicto de interés con empresas dedicadas a las actividades reguladas o vinculadas a éstas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 6.
 
@@ -219,7 +221,7 @@ El procedimiento arbitral que propongan quienes realizan actividades reguladas, 
 
 Los usuarios o solicitantes de servicios que tengan el carácter de consumidores en los términos de la Ley Federal de Protección al Consumidor, resolverán sus controversias conforme a lo establecido en dicha Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 10.
 
@@ -255,7 +257,7 @@ México, D.F., a 26 octubre de 1995.- Dip. Adolfo R. Flores Rodríguez, Presiden
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de octubre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -268,3 +270,35 @@ Primero.- El presente Decreto iniciará su vigencia el día siguiente al de su p
 Segundo.- La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales necesarios para que la Comisión dé cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
 
 Tercero.- Respecto de los comisionados que al inicio de la vigencia de este Decreto hubiesen sido designados por el Ejecutivo Federal y cuyos nombramientos expiren los días 24 de febrero de 2009, 14 de diciembre de 2010, 31 de agosto y 31 de octubre de 2011 y 15 de noviembre de 2012, sus períodos de gestión vencerán los días 31 de diciembre de los años 2009, 2010, 2011, 2012 y 2013, por única vez, como excepción a lo establecido en el artículo 6 de esta Ley.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y, SE EXPIDE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan la Ley de la Comisión Reguladora de Energía, publicada en el Diario Oficial de la Federación el 31 de octubre de 1995 y la Ley de la Comisión Nacional de Hidrocarburos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008.
+
+Tercero.- Los Órganos Reguladores Coordinados en Materia Energética deberán expedir su Reglamento Interno dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+La normatividad y regulación emitidas por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, con anterioridad a la entrada en vigor de la presente Ley, que no se oponga a lo dispuesto en ésta, continuará vigente, sin perjuicio de que pueda ser adecuada, modificada o sustituida, en términos de las disposiciones de esta Ley y las demás aplicables.
+
+Cuarto.- Los Comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía en funciones, incluidos sus Presidentes, continuarán en su encargo hasta la conclusión del periodo para el que fueron nombrados, sin perjuicio de que puedan ser nombrados nuevamente, por única ocasión para cubrir un nuevo período.
+
+Para nombrar a los dos nuevos Comisionados por cada Comisión, el Presidente de la República deberá someter a consideración del Senado de la República las ternas correspondientes, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+A fin de alcanzar el escalonamiento al que se refiere el artículo 6 del presente ordenamiento, por lo que hace a la Comisión Reguladora de Energía, el Presidente de la República someterá al Senado una terna para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2018, otra para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2019 y una última para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2020. Respecto de la Comisión Nacional de Hidrocarburos, el Presidente de la República someterá al Senado una terna para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2019 y otra para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2020.
+
+El mecanismo para la designación del Comisionado Presidente de los Órganos Reguladores Coordinados en Materia Energética, previsto en el artículo 7 de la presente Ley, será aplicable una vez que concluyan su encargo los Comisionados Presidentes en funciones a la entrada en vigor de la presente Ley.
+
+Quinto.- Las personas que a la entrada en vigor del presente Decreto ocupen o hayan ocupado el cargo de Comisionado en cualquiera de los Órganos Reguladores Coordinados en Materia Energética, podrán ser propuestas por el Presidente de la República dentro de la terna respectiva por única ocasión para cubrir un segundo periodo.
+
+Sexto.- Los Órganos Reguladores Coordinados en Materia Energética harán las gestiones necesarias conforme a las disposiciones jurídicas aplicables para que, a más tardar el 31 de diciembre de 2014, se realice la designación de los titulares del Órgano Interno de Control respectivo o, en su caso, la unidad responsable de las funciones de auditoría interna.
+
+En tanto son nombrados dichos servidores públicos, conforme a la disponibilidad de recursos humanos y presupuestarios, el Órgano Interno de Control en la Secretaría de Energía ejercerá sus facultades en relación con los Órganos Reguladores Coordinados en Materia Energética, como lo realiza respecto de los órganos desconcentrados de dicha Dependencia.
+
+## N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y, SE EXPIDE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
