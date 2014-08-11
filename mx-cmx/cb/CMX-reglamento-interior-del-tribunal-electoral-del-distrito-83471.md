@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-02-19"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -40,9 +40,11 @@ REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
 Las disposiciones del presente ordenamiento son de observancia general en el Tribunal Electoral del Distrito Federal y tienen por objeto reglamentar su organización, funcionamiento y las atribuciones que a sus respectivos órganos confieren el Estatuto de Gobierno del Distrito Federal, el Código de Instituciones y Procedimientos Electorales del Distrito Federal, la Ley Procesal Electoral para el Distrito Federal y la Ley de Participación Ciudadana del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 2.
 
-Para los efectos del presente Reglamento se entiende:
+Para los efectos del presente Reglamento se entiende por:
 
 I. En lo que se refiere a los ordenamientos legales:
 
@@ -72,7 +74,9 @@ c) Presidente/a: La o el Magistrado Presidente del Tribunal Electoral del Distri
 
 d) Magistrados: Las y los Magistrados Electorales del Tribunal Electoral del Distrito Federal;
 
-e) Comisión de Conciliación y Arbitraje: La Comisión de Conciliación y Arbitraje del Tribunal Electoral del Distrito Federal;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+e) Comisión de Controversias Laborales y Administrativas: La Comisión de Controversias Laborales y Administrativas del Tribunal Electoral del Distrito Federal;
 
 f) Secretaría General: La Secretaría General del Tribunal Electoral del Distrito Federal;
 
@@ -126,7 +130,9 @@ II. Presidencia;
 
 III. Ponencias;
 
-IV. Comisión de Conciliación y Arbitraje;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+IV. Comisión de Controversias Laborales y Administrativas;
 
 V. Órganos ejecutivos:
 
@@ -170,7 +176,9 @@ Los órganos y áreas a que se refiere el artículo anterior, contarán con el p
 
 A excepción de la Contraloría, cuyo personal será designado en su totalidad por el Pleno en atención a lo dispuesto por el artículo 184, párrafo segundo del Código, cada titular de órgano o área nombrará a su personal, previo dictamen de la Secretaría Administrativa sobre el cumplimiento de los requisitos para ocupar el cargo, debiendo observar lo que al efecto se encuentra regulado en el Reglamento en Materia de Relaciones Laborales del Tribunal Electoral del Distrito Federal.
 
-Tratándose de la Comisión de Conciliación y Arbitraje, el personal será designado por sus integrantes a propuesta de la o del Coordinador/a.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+Tratándose de la Comisión de Controversias Laborales y Administrativas, el personal será designado por sus integrantes a propuesta de la o del Coordinador/a.
 
 > <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
@@ -388,7 +396,9 @@ III. La Magistrada o el Magistrado que se encuentre en el supuesto de la excusa,
 
 IV. Tratándose de juicios competencia del Tribunal, si la excusa fuera admitida y el asunto hubiera sido turnado para su substanciación a la Magistrada o al Magistrado impedido, la o el Presidente volverá a turnar el expediente a la o al Magistrado que corresponda, de conformidad con las reglas previstas en la Ley Procesal Electoral;
 
-V. En el caso de asuntos competencia de la Comisión de Conciliación y Arbitraje, si la excusa fuere admitida, el Pleno designará a la Magistrada o al Magistrado que hará la sustitución, únicamente para el conocimiento y la resolución del asunto que la haya motivado;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+V. En el caso de asuntos competencia de la Comisión de Controversias Laborales y Administrativas, si la excusa fuere admitida, el Pleno designará a la Magistrada o al Magistrado que hará la sustitución, únicamente para el conocimiento y la resolución del asunto que la haya motivado;
 
 VI. Cuando la excusa sea admitida, el acuerdo plenario respectivo deberá obrar en el expediente principal y ser notificado personalmente a las partes;
 
@@ -416,11 +426,15 @@ La resolución que decida una recusación es irrevocable.
 
 Si quien presenta la excusa o el recusado es la o el Presidente, éste/a podrá intervenir en el procedimiento correspondiente hasta antes de la discusión y resolución, etapas en las cuales no podrá intervenir.
 
-### CAPÍTULO V. DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO V. DE LA COMISIÓN DE CONTROVERSIAS LABORALES Y ADMINISTRATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 22.
 
-Además de las atribuciones conferidas por el Código y la Ley Procesal Electoral, la Comisión de Conciliación y Arbitraje tiene las siguientes:
+Además de las atribuciones conferidas por el Código y la Ley Procesal Electoral, la Comisión de Controversias Laborales y Administrativas tiene las siguientes:
 
 I. (DEROGADA, G.O. 9 DE MAYO DE 2013)
 
@@ -434,11 +448,15 @@ V. (DEROGADA, G.O. 9 DE MAYO DE 2013), y
 
 VI. Las demás que le confieran las disposiciones aplicables o las que le encomiende el Pleno.
 
-Previa instrucción de la Comisión de Conciliación y Arbitraje, estas atribuciones serán ejecutadas por la o el Secretario Técnico.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+Previa instrucción de la Comisión de Controversias Laborales y Administrativas, estas atribuciones serán ejecutadas por la o el Secretario Técnico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 23.
 
-Son requisitos para ocupar el cargo de Secretario/a Técnico/a de la Comisión de Conciliación y Arbitraje, los siguientes:
+Son requisitos para ocupar el cargo de Secretario/a Técnico/a de la Comisión de Controversias Laborales y Administrativas, los siguientes:
 
 I. Ser ciudadano/a del Distrito Federal, en pleno ejercicio de sus derechos;
 
@@ -448,31 +466,47 @@ III. No encontrarse impedido para ocupar el cargo, de conformidad con el artícu
 
 IV. Contar con título y cédula profesional de abogado o licenciado en derecho expedido legalmente, y con práctica profesional en la rama laboral de, por lo menos, dos años al día de la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 24.
 
-La Secretaria o el Secretario Técnico de la Comisión de Conciliación y Arbitraje deberá cumplir con las atribuciones siguientes:
+Son atribuciones de la Secretaria o el Secretario Técnico de la Comisión de Controversias Laborales y Administrativas las siguientes:
 
-I. Apoyar a la Comisión de Conciliación y Arbitraje en el estudio y análisis de los expedientes;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+I. Apoyar a la Comisión de Controversias Laborales y Administrativas en el estudio y análisis de los expedientes;
 
 II. Auxiliar en la procuración de un arreglo conciliatorio entre las partes de los conflictos de trabajo;
 
-III. Elaborar los anteproyectos de acuerdos y sentencias, conforme a las instrucciones de la Comisión de Conciliación y Arbitraje;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
 
-IV. Auxiliar en la práctica de las diligencias necesarias para la sustanciación de los procedimientos, a fin de poner los autos en estado de resolución, así como en la ejecución de las resoluciones laborales;
+III. Elaborar los anteproyectos de acuerdos y sentencias, conforme a las instrucciones de la Comisión de Controversias Laborales y Administrativas;
 
-V. Participar en las reuniones a las que sea convocado por la Comisión de Conciliación y Arbitraje, y
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
 
-VI. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno y la Comisión de Conciliación y Arbitraje.
+IV. Auxiliar en la práctica de las diligencias necesarias para la sustanciación de los procedimientos, a fin de poner los autos en estado de resolución, así como en la ejecución de las resoluciones laborales y administrativas;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+V. Participar en las reuniones a las que sea convocado por la Comisión de Controversias Laborales y Administrativas, y
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+VI. Las demás que le confieran las disposiciones aplicables o las que le encomienden el Pleno y la Comisión de Controversias Laborales y Administrativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 25.
 
-La Comisión de Conciliación y Arbitraje sesionará en forma ordinaria o extraordinaria. Las sesiones ordinarias se realizarán, cuando menos, una vez cada bimestre; y las extraordinarias, cuando resulte necesario, a juicio de la propia Comisión.
+La Comisión de Controversias Laborales y Administrativas sesionará en forma ordinaria o extraordinaria. Las sesiones ordinarias se realizarán, cuando menos, una vez cada bimestre; y las extraordinarias, cuando resulte necesario, a juicio de la propia Comisión.
 
 Durante los procesos electorales y de participación ciudadana, se estará a los acuerdos que sobre la suspensión de plazos determine el Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 26.
 
-Por instrucciones de la o del Coordinador, la o el Secretario Técnico deberá convocar a todos los integrantes de la Comisión de Conciliación y Arbitraje a la sesión correspondiente. Para que la convocatoria sea válida, es necesario que cumpla con los requisitos siguientes:
+Por instrucciones de la o del Coordinador, la o el Secretario Técnico deberá convocar a todos los integrantes de la Comisión de Controversias Laborales y Administrativas a la sesión correspondiente. Para que la convocatoria sea válida, es necesario que cumpla con los requisitos siguientes:
 
 I. Ser emitida por escrito cuando menos con dos días hábiles de anticipación;
 
@@ -482,9 +516,11 @@ III. Acompañarse con el proyecto de orden del día y la documentación que habr
 
 En cada sesión, la o el Secretario Técnico deberá rendir un informe por escrito del período correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 27.
 
-En la última sesión ordinaria del año, la o el Secretario Técnico deberá rendir un informe anual de los trabajos de la Comisión de Conciliación y Arbitraje y someterlo a la consideración de sus integrantes.
+En la última sesión ordinaria del año, la o el Secretario Técnico deberá rendir un informe anual de los trabajos de la Comisión de Controversias Laborales y Administrativas y someterlo a la consideración de sus integrantes.
 
 Aprobado que sea el informe, por conducto de la o del Coordinador, será remitido a la o al Presidente, a fin de que se considere en el informe anual de actividades del Tribunal.
 
@@ -502,7 +538,9 @@ La vacante del titular de la Secretaría General, será cubierta temporalmente p
 
 Para el ejercicio de las atribuciones que tiene conferidas en el artículo 167 del Código, a la o al Secretario General le corresponde lo siguiente:
 
-I. Certificar las actuaciones de la Comisión de Conciliación y Arbitraje en los procedimientos especiales a que se refiere el artículo 105, fracción IX de la Ley Procesal Electoral;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+I. Certificar las actuaciones de la Comisión de Controversias Laborales y Administrativas en los procedimientos especiales a que se refiere el artículo 105, fracción IX de la Ley Procesal Electoral;
 
 II. Dar cuenta con los proyectos de sentencia que no resuelvan el fondo de un asunto, así como de aquéllos en que el Pleno lo acuerde;
 
@@ -528,7 +566,7 @@ XII. Coordinar la provisión de todos los elementos necesarios para la realizaci
 
 > <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
 
-XIII. Contar con un sistema de datos administrado por la Unidad de Jurisprudencia y Estadística que contenga el registro de las tesis relevantes y de jurisprudencia adoptadas, y en donde se dé a conocer de manera puntual y oportuna, los criterios aprobados por el Pleno, y (sic)
+XIII. Contar con un sistema de datos administrado por la Unidad de Jurisprudencia y Estadística que contenga el registro de las tesis relevantes y de jurisprudencia adoptadas, y en donde se dé a conocer de manera puntual y oportuna, los criterios aprobados por el Pleno, y
 
 XIV. Supervisar los archivos de la Secretaría General, y
 
@@ -602,7 +640,9 @@ VI. Proponer a la Secretaría General, la actualización de los procedimientos d
 
 VII. Previa instrucción del Pleno, de su Presidente/a, de la Magistrada o del Magistrado Instructor, de la o del Secretario General, o bien, cuando la necesidad del área así lo amerite, podrá desahogar las diligencias por sí mismo, asentando la razón que en derecho corresponda;
 
-VIII. Recibir para su desahogo, las determinaciones que le son remitidas por la Contraloría; la Comisión de Conciliación y Arbitraje; la Secretaría Administrativa; la Dirección General Jurídica; la Oficina de Información Pública, o bien, por aquella autoridad que en el ámbito de su competencia así lo solicite, para que sean practicadas las diligencias que en ellas se determinen;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+VIII. Recibir para su desahogo, las determinaciones que le son remitidas por la Contraloría; la Comisión de Controversias Laborales y Administrativas; la Secretaría Administrativa; la Dirección General Jurídica; la Oficina de Información Pública, o bien, por aquella autoridad que en el ámbito de su competencia así lo solicite, para que sean practicadas las diligencias que en ellas se determinen;
 
 IX. Remitir al área correspondiente, copia simple de todas las determinaciones procesales, para el adecuado funcionamiento del sistema de control de los juicios interpuestos ante el Tribunal, y
 
@@ -662,7 +702,9 @@ Durante los procesos electorales y los de participación ciudadana, las actuacio
 
 Se entiende por horas hábiles para la práctica de actuaciones jurisdiccionales, las que median desde las ocho horas hasta las diecinueve horas. Iniciada una diligencia en hora hábil, podrá concluirse válidamente en horas inhábiles, sin necesidad de determinación especial del Pleno o de la Magistrada o del Magistrado Instructor.
 
-Para el desahogo de las notificaciones personales, si la o el actuario no logra cerciorarse de que la casa o domicilio señalado en autos habita la persona a (sic) buscada, hará la notificación en el lugar que habitualmente trabaje la persona a notificar sin necesidad de que el Pleno del Tribunal, la Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje dicte una determinación especial para ello, siempre y cuando la o el actuario cuente con los elementos necesarios, para ubicar el lugar de trabajo del destinatario; de lo anterior, se asentará en autos la razón de su dicho.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+Para el desahogo de las notificaciones personales, si la o el actuario no logra cerciorarse de que la casa o domicilio señalado en autos habita la persona a (sic) buscada, hará la notificación en el lugar que habitualmente trabaje la persona a notificar sin necesidad de que el Pleno del Tribunal, la Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas dicte una determinación especial para ello, siempre y cuando la o el actuario cuente con los elementos necesarios, para ubicar el lugar de trabajo del destinatario; de lo anterior, se asentará en autos la razón de su dicho.
 
 Si a pesar de no haber hecho la notificación en la forma en que la Ley Procesal Electoral y este Reglamento prevé, pero la persona que debe ser notificada se muestra sabedora de la providencia, se tendrá por perfeccionada la diligencia. Las notificaciones hechas contra lo dispuesto en los cuerpos legales antes citados serán nulas, excepto el caso a que se refiere el presente párrafo.
 
@@ -1172,7 +1214,7 @@ VI. Proporcionar a la o al Director General Jurídico la información necesaria 
 
 VII. Solicitar los servicios notariales para la expedición oportuna de poderes que otorgue o revoque la o el Presidente; así como llevar a cabo su reguardo y el control de su ejercicio;
 
-VIII. Supervisar la realización de diversos trámites relacionados con los derechos de autor, las publicaciones en la Gaceta y la solicitud de tiempos en radio y televisión ante el Instituto Federal Electoral, y (sic)
+VIII. Supervisar la realización de diversos trámites relacionados con los derechos de autor, las publicaciones en la Gaceta y la solicitud de tiempos en radio y televisión ante el Instituto Federal Electoral, y
 
 > <small>(REFORMADA, G.O. 19 DE FEBRERO DE 2014)</small>
 
@@ -1610,9 +1652,11 @@ En ningún caso, un criterio de jurisprudencia aprobado por el Pleno en término
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ESPECIALES
 
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 87.
 
-En términos de lo previsto por el artículo 149 del Código y con base en lo regulado por el Reglamento en Materia de Relaciones Laborales del Tribunal Electoral del Distrito Federal, cuando el personal del Tribunal se vea afectado en sus derechos de carácter económico, de protección al salario, en sus retribuciones, o a los beneficios de la seguridad social, podrá demandar ante la Comisión de Conciliación y Arbitraje, en términos del Código y la Ley Procesal Electoral.
+En términos de lo previsto por el artículo 149 del Código y con base en lo regulado por el Reglamento en Materia de Relaciones Laborales del Tribunal Electoral del Distrito Federal, cuando el personal del Tribunal se vea afectado en sus derechos de carácter económico, de protección al salario, en sus retribuciones, o a los beneficios de la seguridad social, podrá demandar ante la Comisión de Controversias Laborales y Administrativas, en términos del Código y la Ley Procesal Electoral.
 
 ###### Artículo 88.
 
@@ -1624,35 +1668,49 @@ En los casos de interposición de demandas de amparo en contra de autos, acuerdo
 
 Notificada la sentencia, y dentro del plazo de tres días hábiles, las partes podrán solicitar su aclaración para precisar o corregir algún punto.
 
-La o el Presidente turnará el escrito de aclaración de sentencia a la Magistrada o al Magistrado Instructor que formuló el proyecto de resolución o a la Comisión de Conciliación y Arbitraje, a efecto de que proceda a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+La o el Presidente turnará el escrito de aclaración de sentencia a la Magistrada o al Magistrado Instructor que formuló el proyecto de resolución o a la Comisión de Controversias Laborales y Administrativas, a efecto de que proceda a lo siguiente:
 
 I. Dar entrada a la solicitud, siempre y cuando la aclaración se concrete a corregir errores o precisar algún aspecto sin variar el sentido ni el fondo de la resolución; y se hubiere presentado dentro del plazo de tres días hábiles, contados a partir de aquel en que se notificó la resolución, y
 
 II. Proponer al Pleno, a la mayor brevedad posible, el proyecto de resolución respectivo, lo cual no podrá exceder del plazo de cinco días hábiles. En caso de que la aclaración sea procedente, el acuerdo aprobado por el Pleno será parte integrante de la resolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 90.
 
-Tratándose de las promociones que se presenten después de pronunciada la resolución en el juicio especial laboral, la o el Presidente instruirá a la o al Secretario General para que las turne junto con el expediente respectivo a la Magistrada o al Magistrado Instructor o a la Comisión de Conciliación y Arbitraje, según corresponda, a efecto de que éstos les den el trámite a que haya lugar y, en su momento, sometan a la consideración del Pleno la propuesta de determinación que consideren procedente.
+Tratándose de las promociones que se presenten después de pronunciada la resolución en el juicio especial laboral, la o el Presidente instruirá a la o al Secretario General para que las turne junto con el expediente respectivo a la Magistrada o al Magistrado Instructor o a la Comisión de Controversias Laborales y Administrativas, según corresponda, a efecto de que éstos les den el trámite a que haya lugar y, en su momento, sometan a la consideración del Pleno la propuesta de determinación que consideren procedente.
 
 Cuando se trate de la notificación de una ejecutoria de amparo, la o el Secretario General dará cuenta de ello en forma inmediata al Pleno y con apoyo de la Dirección General Jurídica, elaborará el Acuerdo Plenario relativo al cumplimiento de dicha ejecutoria, el cual someterá a la consideración del Pleno, por conducto de la o del Presidente, para los efectos legales atinentes.
 
-En los casos en los que se tenga que emitir un nuevo fallo en cumplimiento a una ejecutoria de amparo, se turnará el expediente a la Magistrada o al Magistrado que sustanció el procedimiento de origen, o bien, a la Comisión de Conciliación y Arbitraje, para que proceda, dentro de los plazos concedidos por la Ley de Amparo, a formular el proyecto de cumplimiento siguiendo los lineamientos emitidos por la autoridad federal.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+En los casos en los que se tenga que emitir un nuevo fallo en cumplimiento a una ejecutoria de amparo, se turnará el expediente a la Magistrada o al Magistrado que sustanció el procedimiento de origen, o bien, a la Comisión de Controversias Laborales y Administrativas, para que proceda, dentro de los plazos concedidos por la Ley de Amparo, a formular el proyecto de cumplimiento siguiendo los lineamientos emitidos por la autoridad federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 91.
 
-Cuando en la sustanciación de los procedimientos especiales laborales, alguna de las partes promoviere alguna cuestión que deba tramitarse en vía incidental, salvo lo dispuesto por el artículo 109 de la Ley Procesal Electoral, la Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje observarán el procedimiento siguiente:
+Cuando en la sustanciación de los procedimientos especiales laborales, alguna de las partes promoviere alguna cuestión que deba tramitarse en vía incidental, salvo lo dispuesto por el artículo 109 de la Ley Procesal Electoral, la Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas observarán el procedimiento siguiente:
 
 I. Se recibirá la promoción respectiva y se proveerá sobre su admisión y la apertura del procedimiento respectivo;
 
 II. Bajo ninguna circunstancia se admitirán incidentes notoriamente maliciosos, frívolos o improcedentes. Tampoco se sustanciarán en la vía incidental cuestiones que no tengan la naturaleza de incidentes, con independencia de la denominación que le den las partes;
 
-III. En caso de que se acredite alguno de los supuestos señalados en la fracción anterior, la Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje, no admitirán a trámite la cuestión incidental y propondrán al Pleno el Acuerdo de desechamiento de plano;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+III. En caso de que se acredite alguno de los supuestos señalados en la fracción anterior, la Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas, no admitirán a trámite la cuestión incidental y propondrán al Pleno el Acuerdo de desechamiento de plano;
 
 IV. Los incidentes que se promuevan respecto a las resoluciones dictadas en los expedientes que se hayan resuelto mediante engrose, se turnarán a la Magistrada o al Magistrado que se haya encargado de éste, a fin de que le dé el trámite a que haya lugar y, en su momento, someta a la consideración del Pleno la determinación que consideren pertinente;
 
-V. Cuando en un mismo expediente se planteen en forma simultánea dos o más cuestiones que se deban tramitar incidentalmente, las mismas se sustanciarán en forma conjunta y se decidirán mediante una sola resolución interlocutoria, la cual será aprobada por el Pleno a propuesta de la Magistrada o del Magistrado Instructor o de la Comisión de Conciliación y Arbitraje. Si se promueven incidentes en forma alternada, se abrirán y sustanciarán tantos procedimientos como sean necesarios;
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
 
-VI. La Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje deberán sustanciar la cuestión incidental hasta ponerla en estado de dictar resolución, debiendo formular el proyecto de sentencia interlocutoria correspondiente, y
+V. Cuando en un mismo expediente se planteen en forma simultánea dos o más cuestiones que se deban tramitar incidentalmente, las mismas se sustanciarán en forma conjunta y se decidirán mediante una sola resolución interlocutoria, la cual será aprobada por el Pleno a propuesta de la Magistrada o del Magistrado Instructor o de la Comisión de Controversias Laborales y Administrativas. Si se promueven incidentes en forma alternada, se abrirán y sustanciarán tantos procedimientos como sean necesarios;
+
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+VI. La Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas deberán sustanciar la cuestión incidental hasta ponerla en estado de dictar resolución, debiendo formular el proyecto de sentencia interlocutoria correspondiente, y
 
 VII. Todos los incidentes que se hayan tramitado en la vía correspondiente, serán resueltos mediante la emisión de una sentencia interlocutoria, la cual deberá ser aprobada por el Pleno.
 
@@ -1662,11 +1720,17 @@ El procedimiento señalado en el artículo anterior, será aplicable en lo gener
 
 I. En el supuesto de que se promueva un incidente de previo y especial pronunciamiento, en términos de lo previsto en los artículos 108 y 109 de la Ley Procesal Electoral, se estará a lo siguiente:
 
-a) La Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje deberá ordenar la suspensión del procedimiento principal y la apertura del procedimiento incidental respectivo, el cual se tramitará conforme a lo dispuesto en los artículos 107 y 111 de la Ley Procesal Electoral, aplicables a los procedimientos de esta naturaleza;
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
 
-b) Una vez sustanciado el procedimiento incidental, la Magistrada o el Magistrado Instructor o la Comisión de Conciliación y Arbitraje, formulará el proyecto de resolución interlocutoria atinente, mismo que someterá a la consideración del Pleno, a efecto de que éste resuelva lo conducente en la reunión respectiva, y
+a) La Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas deberá ordenar la suspensión del procedimiento principal y la apertura del procedimiento incidental respectivo, el cual se tramitará conforme a lo dispuesto en los artículos 107 y 111 de la Ley Procesal Electoral, aplicables a los procedimientos de esta naturaleza;
 
-c) Si en la resolución interlocutoria se determina que el incidente de previo y especial pronunciamiento es improcedente o infundado, en el mismo fallo se ordenará a la Magistrada o al Magistrado Instructor o a la Comisión de Conciliación y Arbitraje, continuar con la sustanciación del expediente principal, hasta ponerlo en estado de dictar resolución, proponiendo el proyecto correspondiente al Pleno.
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+b) Una vez sustanciado el procedimiento incidental, la Magistrada o el Magistrado Instructor o la Comisión de Controversias Laborales y Administrativas, formulará el proyecto de resolución interlocutoria atinente, mismo que someterá a la consideración del Pleno, a efecto de que éste resuelva lo conducente en la reunión respectiva, y
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+c) Si en la resolución interlocutoria se determina que el incidente de previo y especial pronunciamiento es improcedente o infundado, en el mismo fallo se ordenará a la Magistrada o al Magistrado Instructor o a la Comisión de Controversias Laborales y Administrativas, continuar con la sustanciación del expediente principal, hasta ponerlo en estado de dictar resolución, proponiendo el proyecto correspondiente al Pleno.
 
 II. Tratándose de la promoción de cuestiones incidentales que no sean de previo y especial pronunciamiento, las mismas no motivarán la suspensión del expediente principal, sino que deberán sustanciarse en forma conjunta con éste, aplicando lo dispuesto en el artículo 111 de la Ley Procesal Electoral;
 
@@ -1674,13 +1738,17 @@ III. En el caso de las cuestiones incidentales que se promuevan después de conc
 
 En este caso, la Secretaría General deberá asumir las medidas que sean necesarias, a efecto de poner a disposición de la Magistrada o del Magistrado los autos del expediente principal, así como la promoción incidental que se presente, con la finalidad de que esté en aptitud de sustanciar la cuestión incidental y poner el expediente incidental en estado de dictar resolución, misma que deberá ser aprobada por el Pleno. Para ello, se aplicará el numeral 111 de la Ley Procesal Electoral, y
 
-IV. Tratándose de los incidentes que se promuevan después de concluido el juicio, en los procedimientos entre el Tribunal y sus personas servidoras, el trámite correspondiente lo llevará a cabo la Comisión de Conciliación y Arbitraje, la cual procederá en lo conducente, conforme a lo dispuesto en la fracción anterior.
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+IV. Tratándose de los incidentes que se promuevan después de concluido el juicio, en los procedimientos entre el Tribunal y sus personas servidoras, el trámite correspondiente lo llevará a cabo la Comisión de Controversias Laborales y Administrativas, la cual procederá en lo conducente, conforme a lo dispuesto en la fracción anterior.
 
 ###### Artículo 93.
 
 En todos aquellos asuntos que por mandato de ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención del Tribunal, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas, se estará a lo dispuesto por el artículo 105 de la Ley Procesal Electoral y a lo siguiente:
 
-I. Una vez turnado el asunto a la Magistrada o al Magistrado Instructor o a la Comisión de Conciliación y Arbitraje, según correspondan, dentro de los tres días hábiles siguientes se deberá acordar lo que corresponda. En su caso, se practicarán las diligencias respectivas, y
+> <small>(REFORMADA, G.O. 11 DE AGOSTO DE 2014)</small>
+
+I. Una vez turnado el asunto a la Magistrada o al Magistrado Instructor o a la Comisión de Controversias Laborales y Administrativas, según correspondan, dentro de los tres días hábiles siguientes se deberá acordar lo que corresponda. En su caso, se practicarán las diligencias respectivas, y
 
 II. Hecho lo anterior, se informará al Pleno sobre la culminación del procedimiento y se ordenará su archivo como asunto total y definitivamente concluido.
 
@@ -1761,3 +1829,9 @@ G.O. 19 DE FEBRERO DE 2014.
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
 SEGUNDO. Publíquese esta reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 11 DE AGOSTO DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
