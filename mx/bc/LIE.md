@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2014-07-14"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSIÓN EXTRANJERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -96,11 +96,15 @@ Para efectos de determinar el porcentaje de inversión extranjera en las activid
 
 Están reservadas de manera exclusiva al Estado las funciones que determinen las leyes en las siguientes áreas estratégicas:
 
-I.- Petróleo y demás hidrocarburos;
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-II.- Petroquímica básica;
+I.- Exploración y extracción del petróleo y de los demás hidrocarburos, en términos de lo dispuesto por los artículos 27, párrafo séptimo y 28, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva;
 
-III.- Electricidad;
+II.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+III.- Planeación y control del sistema eléctrico nacional, así como el servicio público de transmisión y distribución de energía eléctrica, en términos de lo dispuesto por los artículos 27, párrafo sexto y 28, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley reglamentaria respectiva;
 
 IV.- Generación de energía nuclear;
 
@@ -130,7 +134,7 @@ Las actividades económicas y sociedades que se mencionan a continuación, está
 
 I.- Transporte terrestre nacional de pasajeros, turismo y carga, sin incluir los servicios de mensajería y paquetería;
 
-II.- Comercio al por menor de gasolina y distribución de gas licuado de petróleo;
+II.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
 
 III.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
 
@@ -234,21 +238,17 @@ IV.- Servicios privados de educación preescolar, primaria, secundaria, media su
 
 V.- Servicios legales;
 
-VI. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+VI.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-VII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+VII.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-VIII. (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
+VIII.- (DEROGADA, D.O.F. 10 DE ENERO DE 2014)
 
-IX. (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
+IX.- (DEROGADA, D.O.F. 14 DE JULIO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+X.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
 
-X.- Construcción de ductos para la transportación de petróleo y sus derivados;
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
-
-XI.- Perforación de pozos petroleros y de gas, y
+XI.- (DEROGADA, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1065,6 +1065,12 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
