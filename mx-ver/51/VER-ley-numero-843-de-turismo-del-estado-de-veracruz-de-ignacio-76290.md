@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2013-08-13"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -99,9 +99,13 @@ IV. Bis. Comunidad turística: Relaciones y manifestaciones generadas entre los 
 
 V. Consejo: El Consejo Consultivo de Turismo Estatal;
 
-VI. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-VII. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
+VI. Consejo Municipal: Cada uno de los Consejos Consultivos de los municipios con vocación turística de la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
+
+VII. Consejo Regional: El que se integre en una región turística de las que señala esta Ley o en una región geográfica específica para el desarrollo de rutas y productos turísticos;
 
 VIII. Destino turístico: El lugar que ofrece atractivos turísticos, instalaciones y servicios para atender los requerimientos de sus visitantes, y que un turista o grupo de turistas escoge para visitar o que los proveedores deciden promocionar;
 
@@ -165,7 +169,7 @@ c) Asegurar actividades económicas viables a largo plazo, que reporten a todos 
 
 XXXIII. Turista: El visitante nacional o internacional que permanece una noche, por lo menos, en un medio de alojamiento ubicado en el Estado;
 
-XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y (sic)
+XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y
 
 XXXV. Zonas de Desarrollo Turístico Sustentable: Las declaradas como tales en el Estado por el Ejecutivo Federal, las que, por sus características naturales o culturales, constituyen un atractivo turístico.
 
@@ -437,9 +441,13 @@ La forma de articulación del Consejo será la siguiente:
 
 I. El Consejo, como órgano supremo del sector, fungirá como enlace directo con la Secretaría, para efectos de planeación, dirección, ejecución y evaluación de la actividad turística;
 
-II. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-III. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
+II. Un Consejo Consultivo por cada región turística del Estado o para detonar un producto o segmento en específico; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
+
+III. Un Consejo Consultivo por cada municipio con vocación turística.
 
 ###### Artículo 16.
 
@@ -451,21 +459,49 @@ III. (DEROGADA, G.O. 13 DE AGOSTO DE 2013)
 
 ### CAPÍTULO III. De los consejos consultivos regionales y municipales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 18.
 
-(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
+Los Consejos Regionales en el Estado se integrarán por cada región turística en la Entidad, o por una región geográfica específica para el desarrollo de rutas y productos turísticos. En estos Consejos estarán representados los sectores público y privado, éste a través de cámaras, asociaciones, prestadores de servicios y operadores turísticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 19.
 
-(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
+Los Consejos Regionales tendrán las atribuciones siguientes:
+
+I. Concertar entre los miembros representativos del sector los programas y proyectos turísticos prioritarios para su región;
+
+II. Identificar los atractivos o productos específicos que puedan vincular la región a la que pertenecen;
+
+III. Coadyuvar con la Secretaría en el desarrollo de nuevas rutas, circuitos y productos turísticos para su comercialización;
+
+IV Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz; y
+
+V Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 20.
 
-(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
+Los Consejos Municipales serán encabezados por el Presidente Municipal y se integrarán, por lo menos, con cinco miembros, representantes de los sectores público y social y de cámaras y organismos empresariales con incidencia en la actividad turística de cada municipio. Todos sus integrantes tendrán derecho a voz y voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 21.
 
-(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
+Los Consejos Municipales tendrán, dentro de sus respectivos ámbitos de competencia, las atribuciones siguientes:
+
+I. Concertar entre los miembros representativos del sector los proyectos turísticos a detonar en su municipio;
+
+II. Formular el inventario de riquezas turísticas de su municipio, así como la infraestructura turística con que se cuenta, como hoteles, restaurantes, agencias de viajes y operadores turísticos, entre otros;
+
+III. Elaborar el calendario de actividades culturales y turísticas del municipio;
+
+IV Promover la inscripción de los prestadores de servicios turísticos de cada municipio en el Registro Nacional de Turismo; y
+
+V Todas aquellas actividades que propicien el desarrollo turístico sustentable de sus municipios.
 
 ## TÍTULO CUARTO. De los lineamientos para las políticas públicas en materia turística
 
@@ -506,6 +542,10 @@ La Secretaría impulsará y promoverá el turismo social, el cual comprende todo
 Las dependencias y entidades de la administración pública del Estado coordinarán y promoverán sus esfuerzos entre ellas y con los gobiernos municipales e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
 
 La Secretaría, la Secretaría de Salud, la Secretaría de Trabajo, Previsión Social y Productividad y el Instituto Veracruzano del Deporte elaborarán y ejecutarán de manera coordinada un programa de fomento al turismo social en el Estado.
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+Artículo 25 bis. La Secretaría promoverá con las dependencias y entidades de la administración pública del Estado y con los municipios que el turismo social se dirija prioritariamente a las regiones turísticas del Estado, a fin de fomentar el turismo regional y el sentido de pertenencia de los veracruzanos.
 
 ###### Artículo 26.
 
@@ -639,9 +679,7 @@ Los municipios que no aprobaren la evaluación de la Secretaría podrán solicit
 
 ### CAPÍTULO I. De las regiones turísticas
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.O. DE 13 DE AGOSTO DE 2013, SE OBSERVA QUE EL PRESENTE ARTÍCULO, EN SU TEXTO ORIGINAL CONSTABA DE 10 FRACCIONES.</small>
-
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 45.
 
@@ -697,21 +735,21 @@ El resultado de la evaluación será remitido a la Secretaría y al titular del 
 
 ###### Artículo 54.
 
-Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en 7 regiones turísticas, denominadas de la manera siguiente:
+Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en siete regiones turísticas, integradas por los municipios que se indican y denominadas de la manera siguiente:
 
-I. Región Turística Huasteca;
+I. Región Turística Huasteca: Que incluye a los municipios de Tuxpan, Pánuco, Tamiahua, Chicontepec, Castillo de Teayo, Zontecomatlán, Pueblo Viejo, Tampico Alto, El Higo, Tempoal, Álamo Temapache, Benito Juárez, Zacualpan, Huayacocotla, Ozuluama, Tantoyuca, Platón Sánchez, Chiconamel, Tamalín, Citlaltépetl, Tlachichilco, Chontla, Tantima, Ixcatepec, Cerro Azul, Chalma, Tepetzintla, Ixhuatlán de Madero, Texcatepec, Chinampa de Gorostiza, Naranjos Amatlán, Tancoco, Tihuatlán e Ilamatlán;
 
-II. Región Turística Totonaca;
+II. Región Turística Totonaca: Cuyos municipios son Nautla, Martínez de la Torre, Tlapacoyan, Tecolutla, Gutiérrez Zamora, San Rafael, Papantla, Poza Rica de Hidalgo, Misantla, Cazones de Herrera, Vega de Alatorre, Colipa, Coatzintla, Coahuitlán, Coyutla, Mecatlán, Juchique de Ferrer, Filomeno Mata, Espinal, Coxquihui, Chumatlán y Zozocolco de Hidalgo;
 
-III. Región Turística Cultura y Aventura;
+III. Región Turística Cultura y Aventura: Integrada por los municipios de Xalapa, Coatepec, Xico, Jalcomulco, Banderilla, Emiliano Zapata, Apazapan, Actopan, Naolinco, Las Vigas de Ramírez, Perote, Atzalan, Jalacingo, Las Minas, Altotonga, Tatatila, Villa Aldama, Acajete, Tlacolulan, Coacoatzintla, Tonayán, Tenochtitlan, Rafael Lucio, Ayahualulco, Ixhuacán de los Reyes, Jilotepec, Chiconquiaco, Tepetlán, Yecuatla, Teocelo, Cosautlán de Carvajal, Tlalnelhuayocan, Miahuatlán, Acatlán, Landero y Coss y Alto Lucero de Gutiérrez Barrios;
 
-IV. Región Turística Primeros Pasos de Cortés;
+IV. Región Turística Primeros Pasos de Cortés: Que comprende Veracruz, Boca del Río, La Antigua, Úrsulo Galván, Alvarado, Tlacotalpan, Paso de Ovejas, Medellín, Jamapa, Otatitlán, Acula, Cosamaloapan, Soledad de Doblado, Manlio Fabio Altamirano, Tres Valles, Tuxtilla, Chacaltianguis, Saltabarranca, Cotaxtla, Tlalixcoyan, Puente Nacional, Ignacio de la Llave, Tlacojalpan, Tierra Blanca, Carlos A. Carrillo, Amatitlán e Ixmatlahuacan;
 
-V. Región Turística Altas Montañas;
+V. Región Turística Altas Montañas: Compuesta por los municipios de Orizaba, Fortín, Coscomatepec, Huatusco, Córdoba, Yanga, Zongolica, Río Blanco, Tlaltetela, Tezonapa, Tlilapan, Ixhuatlancillo, Omealca, Amatlán de los Reyes, Cuichapa, Cuitláhuac, Tlaquilpa, Ixtaczoquitlán, Xoxocotla, Tenampa, Totutla, Sochiapa, Tlacotepec de Mejía, Comapa, Aquila, Maltrata, Acultzingo, Soledad Atzompa, Mixtla de Altamirano, Tehuipango, Astacinga, Zentla, Tepatlaxco, Ixhuatlán del Café, Tomatlán, Chocamán, Alpatláhuac, Atlahuilco, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Calcahualco, La Perla, Atzacan, Mariano Escobedo, Atoyac, Magdalena, Tequila, Los Reyes, San Andrés Tenejapan, Texhuacan, Coetzala, Naranjal, Nogales, Paso del Macho, Camarón de Tejeda, Carrillo Puerto y Rafael Delgado;
 
-VI. Región Turística Los Tuxtlas; y
+VI. Región Turística Los Tuxtlas: Que incluye los municipios de Catemaco, Santiago Tuxtla, San Andrés Tuxtla, Ángel R. Cabada, José Azueta, Lerdo de Tejada, Isla, Playa Vicente, Juan Rodríguez Clara, Santiago Sochiapan y Hueyapan de Ocampo;y
 
-VII. Región Turística Olmeca.
+VII. Región Turística Olmeca: Integrada por Acayucan, Minatitlán, Coatzacoalcos, Las Choapas, Oluta, Agua Dulce, Mecayapan, Soconusco, Sayula de Alemán, Tatahuicapan de Juárez, Soteapan, San Juan Evangelista, Hidalgotitlán, Moloacán, Jesús Carranza, Uxpanapa, Pajapan, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río, Cosoleacaque, Chinameca, Texistepec, Jáltipan, Zaragoza y Oteapan.
 
 > <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -1324,3 +1362,9 @@ G.O. 13 DE AGOSTO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
