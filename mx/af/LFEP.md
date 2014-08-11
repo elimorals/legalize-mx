@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2014-07-14"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -58,19 +58,21 @@ Las universidades y demás instituciones de educación superior a las que la Ley
 
 Las entidades de la Administración Pública Federal que sean reconocidas como Centros Públicos de Investigación en los términos de la Ley de Ciencia y Tecnología, se regirán por esa Ley y por sus respectivos instrumentos de creación. Sólo en lo no previsto se aplicará la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La Comisión Nacional de los Derechos Humanos, la Procuraduría Agraria, la Procuraduría Federal del Consumidor, la Agencia de Noticias del Estado Mexicano y el Sistema Público de Radiodifusión del Estado Mexicano, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+Las empresas productivas del Estado y sus respectivas empresas productivas subsidiarias, la Procuraduría Agraria, la Procuraduría Federal del Consumidor, la Agencia de Noticias del Estado Mexicano y el Sistema Público de Radiodifusión del Estado Mexicano, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidas de la observancia del presente ordenamiento.
 
-Petróleos Mexicanos y los organismos subsidiarios, creados por ley o decreto expedido por el Ejecutivo Federal, cualquiera que sea la estructura jurídica que adopten, se regularan por sus propias leyes o decretos de creación. Esta Ley se aplicará sólo en lo que no se oponga o en lo no previsto por aquéllas. Los decretos antes referidos que, en su caso, expida el Ejecutivo Federal, invariablemente deberán cumplir y apegarse a lo dispuesto por la Ley de Petróleos Mexicanos y la presente Ley, en lo que resulten compatibles entre sí.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 4o.
 
 El Banco de México, las sociedades nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y fianzas, los fondos y fideicomisos públicos de fomento así como las entidades paraestatales que formen parte del sistema financiero, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a su legislación específica. Les será aplicable esta Ley en las materias y asuntos que sus leyes específicas no regulen.
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 21 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 21 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 5o.
 
@@ -94,7 +96,7 @@ Las entidades paraestatales correspondientes al Distrito Federal quedarán sujet
 
 Corresponderá a los titulares de las Secretarías de Estado encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 9o.
 
@@ -248,7 +250,7 @@ SECCION B
 
 Registro Público de Organismos Descentralizados
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 24.
 
@@ -302,7 +304,7 @@ Las empresas en que participe de manera mayoritaria el Gobierno Federal o una o 
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 32.
 
@@ -602,7 +604,7 @@ En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o
 
 En aquellas empresas en las que participa la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Función Pública y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 68.
 
@@ -650,7 +652,7 @@ México, D. F., a 25 de abril de 1986.- Dip. Jesús Murillo Karam, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los veintiséis días del mes de abril de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 24 DE JULIO DE 1992.
 
@@ -951,6 +953,14 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo primero del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
+
+Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
