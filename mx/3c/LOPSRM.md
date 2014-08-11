@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2012-04-09"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPSRM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -76,9 +76,11 @@ VI. Las entidades federativas, los municipios y los entes públicos de unas y ot
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las entidades que cuenten con un régimen específico en materia de obras públicas y servicios relacionadas con las mismas, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las obras públicas y servicios relacionados con las mismas, relativos a las actividades sustantivas de carácter productivo a que se refieren los artículos 3o. y 4o. de la Ley Reglamentaría del Artículo 27 Constitucional en el Ramo del Petróleo que realicen Petróleos Mexicanos y sus organismos subsidiarios quedan excluidos de la aplicación de este ordenamiento, por lo que se regirán por lo dispuesto en su Ley, salvo en lo que expresamente ésta remita al presente ordenamiento.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Las obras públicas y servicios relacionados con las mismas que contraten las empresas productivas del Estado y sus empresas productivas subsidiarias quedan excluidos de la aplicación de este ordenamiento.
 
 Los contratos que celebren las dependencias con las entidades, o entre entidades y los actos jurídicos que se celebren entre dependencias, o bien, los que se lleven a cabo entre alguna dependencia o entidad de la Administración Pública Federal con alguna perteneciente a la administración pública de una entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley. Cuando la dependencia o entidad obligada a realizar los trabajos no tenga la capacidad para hacerlo por sí misma y contrate a un tercero para llevarlos a cabo, este acto quedará sujeto a este ordenamiento.
 
@@ -2351,3 +2353,11 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo primero del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
+
+Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
