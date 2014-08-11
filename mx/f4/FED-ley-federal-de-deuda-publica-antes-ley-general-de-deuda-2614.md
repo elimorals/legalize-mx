@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "2012-04-09"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY GENERAL DE DEUDA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -53,11 +53,17 @@ III.- Los organismos descentralizados.
 
 IV.- Las empresas de participación estatal mayoritaria.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-V.- Las Instituciones que presten el servicio público de banca y crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y las de fianzas, y
+V.- Las instituciones de banca de desarrollo, las organizaciones nacionales auxiliares de crédito, las instituciones nacionales de seguros y las de fianzas;
 
-VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II al V (sic).
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II a V y VII de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+VII.- Las empresas productivas del Estado y sus empresas productivas subsidiarias.
 
 ###### ARTICULO 2o.
 
@@ -378,3 +384,49 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá lo necesario para que, en la elaboración de la iniciativa de Ley de Ingresos de la Federación y el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2015, se reflejen las reformas a la Ley Federal de Presupuesto y Responsabilidad Hacendaria que se señalan en el artículo segundo, fracción I, del presente Decreto.
+
+Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones y jubilaciones en curso de pago, así como las que correspondan a los trabajadores en activo de Petróleos Mexicanos y sus organismos subsidiarios reconocidas a la entrada en vigor del presente Decreto y registradas actuarialmente en sus estados financieros, conforme a las estipulaciones contractuales vigentes en esa misma fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, Petróleos Mexicanos alcance un acuerdo para modificar el contrato colectivo de trabajo aplicable en la empresa y en los organismos subsidiarios, modifique el Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y Organismos Subsidiarios, e implemente un Programa de Austeridad en el Gasto. Dichas modificaciones, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa. Además, las modificaciones deberán contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo la edad de retiro para reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+
+La proporción de la obligación de pago que en su caso asuma el Gobierno Federal será por un monto equivalente a la reducción del pasivo laboral reconocido conforme a lo señalado en el párrafo anterior, que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Reglamento de Trabajo a que se hace referencia en el párrafo anterior.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal, una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+
+A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de Petróleos Mexicanos y sus subsidiarias con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+
+Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la Comisión Federal de Electricidad de las pensiones y jubilaciones reconocidas y registradas actuarialmente en sus estados financieros que correspondan a sus trabajadores que fueron contratados hasta el 18 de agosto de 2008, fecha en que la empresa suscribió con el sindicato un convenio para adoptar el esquema de cuentas individuales para los trabajadores de nuevo ingreso, conforme a las estipulaciones contractuales vigentes en esta última fecha, siempre que, dentro del año siguiente a la entrada en vigor del presente Decreto, la Comisión Federal de Electricidad alcance un acuerdo para modificar el contrato colectivo de trabajo y el Manual de Trabajo de los Servidores Públicos de Mando de la Comisión Federal de Electricidad, aplicables en la empresa, e implemente un Programa de Austeridad en el Gasto. Dicha modificación, sin considerar el reconocimiento de la obligación de pago de las pensiones y jubilaciones referidas por parte del Gobierno Federal, deberá conllevar en el mediano plazo a una reducción de las obligaciones de pago de las pensiones y jubilaciones de la empresa, y contemplar, al menos, que las pensiones o jubilaciones de los trabajadores de nuevo ingreso sean financiadas bajo esquemas de cuentas individuales que permitan la portabilidad de derechos con el Sistema de Ahorro para el Retiro; que se establezcan los mecanismos necesarios para que los trabajadores en activo contratados hasta el 18 de agosto de 2008, se adhieran de manera voluntaria a dichos esquemas de cuentas individuales, y que se contemple un ajuste gradual a los parámetros para determinar las pensiones de los trabajadores activos, incluyendo para la edad de retiro, con objeto de reflejar el cambio en la esperanza de vida, con el objeto de ajustarla a los parámetros actualmente establecidos en los demás sistemas de pensiones y jubilaciones de las instituciones del Gobierno Federal.
+
+La proporción de la obligación de pago que en su caso asuma el Gobierno Federal reconocido conforme al párrafo anterior será por un monto equivalente a la reducción del pasivo laboral que resulte del acuerdo para modificar el contrato colectivo de trabajo y el Manual a que se hace referencia en el párrafo anterior.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomando en consideración la estabilidad de las finanzas públicas y el cumplimiento de los objetivos, estrategias y líneas de acción del Programa Nacional de Financiamiento del Desarrollo, establecerá los términos, condiciones y montos, para cubrir la proporción del pasivo laboral que asuma el Gobierno Federal una vez que se cumplan las condiciones establecidas en el párrafo primero de este artículo. También determinará los mecanismos de financiamiento y esquemas de pago y emitirá las demás disposiciones de carácter general necesarias para su implementación.
+
+A efecto de lo anterior, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar en las fechas que corresponda, los actos jurídicos necesarios para financiar la proporción de las obligaciones antes referidas que asuma el Gobierno Federal, y para emitir disposiciones de carácter general para regular dichos actos. Asimismo se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación que corresponda a efecto de que se reconozca como gasto el mismo importe de las obligaciones. Los actos y ajustes anteriores no se considerarán para efectos de la meta de los requerimientos financieros del sector público y del equilibrio presupuestario a que se refiere el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Como requisito indispensable para que el Gobierno Federal pueda asumir, en los términos del presente artículo, la proporción de la obligación de pago de las pensiones y jubilaciones a que hace referencia el mismo, la Auditoría Superior de la Federación realizará una auditoría específica respecto del pasivo laboral de la Comisión Federal de Electricidad con el objeto de identificar las características de las obligaciones de pago de las pensiones y jubilaciones referidas, y los determinantes de la evolución del mismo. La auditoría señalada deberá concluir a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo, en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
+
+Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del vigésimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
+
+Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que tanto la Comisión Nacional de Hidrocarburos como la Comisión Reguladora de Energía cuenten con los recursos presupuestales conforme se establece en la tabla siguiente:
+
+AÑO PRESUPUESTO COMISIÓN PRESUPUESTO COMISIÓN
+
+NACIONAL DE REGULADORA DE ENERGÍA
+
+HIDROCARBUROS
+
+2015 350 millones de pesos 400 millones de pesos
+
+2016 320 millones de pesos 370 millones de pesos
+
+2017 290 millones de pesos 340 millones de pesos
+
+2018 240 millones de pesos 280 millones de pesos
+
+La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
