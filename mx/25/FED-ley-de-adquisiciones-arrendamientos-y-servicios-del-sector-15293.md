@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2012-01-16"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -76,9 +76,11 @@ VI. Las entidades federativas, los municipios y los entes públicos de unas y ot
 
 Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las entidades que cuenten con un régimen específico en materia de adquisiciones, arrendamientos y servicios, aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, sujetándose a sus propios órganos de control.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las adquisiciones, arrendamientos y servicios relacionados con las actividades sustantivas de carácter productivo a que se refieren los artículos 3o. y 4o. de la Ley Reglamentaría del Artículo 27 Constitucional en el Ramo del Petróleo que realicen Petróleos Mexicanos y sus organismos subsidiarios quedan excluidos de la aplicación de este ordenamiento, por lo que se regirán por lo dispuesto en su Ley, salvo en lo que expresamente ésta remita al presente ordenamiento.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Las adquisiciones, arrendamientos y servicios que contraten las empresas productivas del Estado y sus empresas productivas subsidiarias quedan excluidos de la aplicación de este ordenamiento.
 
 > <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
 
@@ -1284,7 +1286,7 @@ VIII. Las que pretendan participar en un procedimiento de contratación y previa
 
 IX. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte;
 
-X. Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad intelectual, y (sic)
+X. Las que celebren contratos sobre las materias reguladas por esta Ley sin estar facultadas para hacer uso de derechos de propiedad intelectual, y
 
 > <small>(ADICIONADA, D.O.F. 7 DE JULIO DE 2005)</small>
 
@@ -2127,3 +2129,11 @@ CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere 
 QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 
 SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo primero del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
+
+Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
