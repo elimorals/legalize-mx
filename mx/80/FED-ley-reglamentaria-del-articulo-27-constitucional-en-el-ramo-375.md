@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "2008-11-28"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,47 +19,47 @@ issue_date: "1958-11-27"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETRÓLEO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HIDROCARBUROS, PUBLICADA EN EL D.O.F. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Código publicado en la Sección Cuarta al Número 64 de la Gaceta del Gobierno del Estado de México, el viernes 7 de abril de 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADA).
 
-ALEJANDRO JAIME GÓMEZ SÁNCHEZ, FISCAL GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, CON FUNDAMENTO EN LOS ARTÍCULOS 21 Y 116, FRACCIÓN IX, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 81, 83 Y 83 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; 1, 5, 21, 22, FRACCIONES I Y XXXIII, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, Y
+Ley publicada en el Diario Oficial de la Federación, el sábado 29 de noviembre de 1958.
 
-CONSIDERANDO
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-[...]
+ADOLFO RUIZ CORTINES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que en mérito de lo anterior, he tenido a bien expedir el siguiente:
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-ACUERDO NÚMERO 02/2017, POR EL POR EL QUE SE AUTORIZA Y DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+DECRETO:
 
-PRIMERO.- Objeto del Acuerdo
+"El Congreso de los Estados Unidos Mexicanos, decreta:
 
-Se autoriza y da a conocer el Código de Conducta de la Fiscalía General de Justicia del Estado de México.
+LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-SEGUNDO.- Instrucciones a los Titulares de las Unidades Administrativas
-
-Se instruye a los Titulares de las Unidades Administrativas de la Institución, implementen las acciones necesarias con la finalidad de lograr el adecuado cumplimiento de los principios contenidos en el Código de Conducta de la Fiscalía General de Justicia del Estado de México.
-
-TERCERO.- Instrucciones a los servidores públicos
-
-Se instruye a los agentes del Ministerio Público, agentes de la Policía de Investigación, Peritos, Facilitadores, Orientadores Jurídicos y personal administrativo de la Institución, para que en el ejercicio de sus funciones y atribuciones cumplan con los principios conferidos en el Código a que se refiere el artículo PRIMERO de este Acuerdo.
-
-CUARTO.- Vigilancia y Supervisión
-
-Se instruye a la Contraloría Interna, a la Coordinación de Agentes del Ministerio Público Auxiliares del Fiscal y a la Visitaduría General, para que en las evaluaciones y visitas que realicen, supervisen la aplicación de este Acuerdo y, en caso de incumplimiento, generen las instrucciones o recomendaciones a que haya lugar, sin perjuicio de dar vista a la autoridad competente para fincar la responsabilidad penal o administrativa que, en su caso, resulte procedente.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 1o.
 
-Corresponde a la Nación el dominio directo, inalienable e imprescriptible de todos los carburos de hidrógeno que se encuentren en el territorio nacional -incluída la plataforma continental- en mantos o yacimientos, cualquiera que sea su estado físico, incluyendo los estados intermedios, y que componen el aceite mineral crudo, lo acompañan o se derivan de él.
+Corresponde a la Nación el dominio directo, inalienable e imprescriptible de todos los carburos de hidrógeno que se encuentren en el territorio nacional, incluida la plataforma continental y la zona económica exclusiva situada fuera del mar territorial y adyacente a éste, en mantos o yacimientos, cualquiera que sea su estado físico, incluyendo los estados intermedios, y que componen el aceite mineral crudo, lo acompañan o se derivan de él.
+
+Para los efectos de esta Ley, se considerarán yacimientos transfronterizos aquellos que se encuentren dentro de la jurisdicción nacional y tengan continuidad física fuera de ella.
+
+También se considerarán como transfronterizos aquellos yacimientos o mantos fuera de la jurisdicción nacional, compartidos con otros países de acuerdo con los tratados en que México sea parte o bajo lo dispuesto en la Convención sobre Derecho del Mar de las Naciones Unidas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 2o.
 
-Sólo la Nación podrá llevar a cabo las distintas explotaciones de los hidrocarburos, que constituyen la industria petrolera en los términos del artículo siguiente.
+De conformidad con lo dispuesto en los párrafos cuarto del artículo 25 y sexto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sólo la Nación podrá llevar a cabo las distintas explotaciones de los hidrocarburos, que constituyen la industria petrolera en los términos del artículo siguiente.
 
 En esta Ley se comprende con la palabra petróleo a todos los hidrocarburos naturales a que se refiere el artículo 1o.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Los yacimientos transfronterizos a que se refiere el artículo anterior podrán ser explotados en los términos de los tratados en los que México sea parte, celebrados por el Presidente de la República y aprobados por la Cámara de Senadores.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -109,25 +109,43 @@ Salvo lo dispuesto en el artículo 3o., el transporte, el almacenamiento y la di
 
 El transporte, el almacenamiento y la distribución de gas metano, queda incluida en las actividades y con el régimen a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida.
+El gas asociado a los yacimientos de carbón mineral se sujetará a las disposiciones aplicables de transporte, almacenamiento y distribución de gas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Las empresas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso, imponer las sanciones a que se refiere el artículo 15 de esta Ley.
+Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida, excepto cuando su valor comercial sea menor al veinticinco por ciento de la facturación total del particular en un año calendario.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Las personas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso imponer las sanciones a que se refiere el artículo 15 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 4o. Bis.
+
+Las actividades de Petróleos Mexicanos y su participación en el mercado mundial se orientarán de acuerdo con los intereses nacionales, incluyendo los de seguridad energética del país, sustentabilidad de la plataforma anual de extracción de hidrocarburos, diversificación de mercados, incorporación del mayor valor agregado a sus productos, desarrollo de la planta productiva nacional y protección del medio ambiente. Esos criterios se incorporarán en la Estrategia Nacional de Energía.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría de Energía asignará a Petróleos Mexicanos los terrenos que esta institución le solicite o que el Ejecutivo Federal considere conveniente asignarle para fines de exploración y explotación petroleras.
+El Ejecutivo Federal, por conducto de la Secretaría de Energía, otorgará exclusivamente a Petróleos Mexicanos y sus organismos subsidiarios las asignaciones de áreas para exploración y explotación petroleras.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
 El Reglamento de esta Ley establecerá los casos en que la Secretaría de Energía podrá rehusar o cancelar las asignaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
 ###### ARTICULO 6o.
 
-Petróleos Mexicanos podrá celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan, serán siempre en efectivo y en ningón (sic) caso concederán por los servicios que se presten o las obras que se ejecuten, porcentajes en los productos, ni participación en los resultados de las explotaciones.
+Petróleos Mexicanos y sus organismos subsidiarios podrán celebrar con personas físicas o morales los contratos de obras y de prestación de servicios que la mejor realización de sus actividades requiere. Las remuneraciones que en dichos contratos se establezcan serán siempre en efectivo y en ningún caso se concederán por los servicios que se presten y las obras que se ejecuten propiedad sobre los hidrocarburos, ni se podrán suscribir contratos de producción compartida o contrato alguno que comprometa porcentajes de la producción o del valor de las ventas de los hidrocarburos ni de sus derivados, ni de las utilidades de la entidad contratante.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Petróleos Mexicanos no se someterá, en ningún caso, a jurisdicciones extranjeras tratándose de controversias referidas a contratos de obra y prestación de servicios en territorio nacional y en las zonas donde la Nación ejerce soberanía, jurisdicción o competencia. Los contratos podrán incluir acuerdos arbitrales conforme a las leyes mexicanas y los tratados internacionales de los que México sea parte.
 
 > <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2006)</small>
 
@@ -137,15 +155,23 @@ Petróleos Mexicanos, los organismos subsidiarios y sus empresas podrán cogener
 
 En el Proyecto de Presupuesto de Egresos de la Federación, se someterán a discusión, análisis, aprobación y modificación de la Cámara de Diputados los recursos destinados a los proyectos de cogeneración de electricidad que Petróleos Mexicanos, los organismos subsidiarios y sus empresas propongan ejecutar, los recursos y esquemas de inversión pública con los que se pretendan llevar a cabo dichas obras, así como la adquisición de los excedentes por parte de las entidades.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 7o.
 
-El reconocimiento y la exploración superficial de los terrenos para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Energía. Si hubiere oposición del propietario o poseedor cuando los terrenos sean particulares, o de los representantes legales de los ejidos o comunidades, cuando los terrenos estén afectados al régimen ejidal o comunal, la Secretaría de Energía, oyendo a las partes, concederá el permiso mediante reconocimiento que haga Petróleos Mexicanos de la obligación de indemnizar a los afectados por los daños y perjuicios que pudieren causarle de acuerdo con el peritaje que la Comisión de Avalúos de Bienes Nacionales practique dentro de un plazo que no excederá de seis meses, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la propia Comisión. El resto del pago será finiquitado una vez concluido el peritaje.
+El reconocimiento y la exploración superficial de las áreas para investigar sus posibilidades petrolíferas, requerirán únicamente permiso de la Secretaría de Energía. Si hubiere oposición del propietario o poseedor cuando las áreas incluyan terrenos particulares, o de los representantes legales de los ejidos o comunidades, cuando las áreas comprendan terrenos afectados al régimen ejidal o comunal, la Secretaría de Energía, oyendo a las partes, concederá el permiso mediante reconocimiento que haga Petróleos Mexicanos de la obligación de indemnizar a los afectados por los daños y perjuicios que pudieren causarle, de acuerdo con el valor comercial que arroje el peritaje que en términos de la Ley General de Bienes Nacionales se practique, dentro de un plazo que no excederá de seis meses, pudiendo entregar Petróleos Mexicanos un anticipo, en consulta con la Secretaría de la Función Pública. El resto del pago será finiquitado una vez concluido el peritaje.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+###### ARTICULO 7o. Bis.
+
+Petróleos Mexicanos ejecutará las acciones de prevención y de reparación de daños al medio ambiente o al equilibrio ecológico a causa de las obras u operaciones de la industria petrolera y está obligado a sufragar sus costos, cuando sea declarado responsable por resolución de la autoridad competente, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 8o.
 
-El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que por sus posibilidades petrolíferas así lo ameriten, con la finalidad de garantizar el abastecimiento futuro del país. La incorporación de terrenos a las reservas y su desincorporación de las mismas, serán hechas por decreto presidencial, fundado en los dictámenes técnicos respectivos.
+El Ejecutivo Federal establecerá zonas de reservas petroleras en áreas que por sus posibilidades así lo ameriten. La incorporación de áreas a las reservas y su desincorporación de las mismas serán hechas por decreto presidencial, fundado en los dictámenes técnicos respectivos.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -153,291 +179,231 @@ El Ejecutivo Federal establecerá zonas de reservas petroleras en terrenos que p
 
 La industria petrolera y las actividades a que se refiere el artículo 4o., segundo párrafo, son de la exclusiva jurisdicción federal. En consecuencia, únicamente el Gobierno federal puede dictar las disposiciones técnicas, reglamentarias y de regulación que las rijan.
 
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Con el fin de promover el desarrollo sustentable de las actividades que se realizan en los términos de esta Ley, en todo momento deberán seguirse criterios que fomenten la protección, la restauración y la conservación de los ecosistemas, además de cumplir estrictamente con las leyes, reglamentos y demás normatividad aplicable en materia de medio ambiente, recursos naturales, aguas, bosques, flora y fauna silvestre, terrestre y acuática, así como de pesca.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
+
+Los criterios que se mencionan en el párrafo anterior serán expedidos, conjuntamente, por la Secretaría de Energía y la Secretaría de Medio Ambiente y Recursos Naturales.
+
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Solidaridad Institucional
+La industria petrolera es de utilidad pública, preferente sobre cualquier aprovechamiento de la superficie y del subsuelo de los terrenos, incluso sobre la tenencia de los ejidos o comunidades y procederá la ocupación provisional, la definitiva o la expropiación de los mismos, mediante la indemnización legal, en todos los casos en que lo requieran la Nación o su industria petrolera.
 
-Contribuir al trabajo de equipo, sumando esfuerzos de tal manera que su actuación quede supeditada al interés de la Institución. El hombre y el grupo de trabajo hacen la procuración de justicia.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-###### Artículo 11.
+Son de utilidad pública las actividades de construcción de ductos y de plantas de almacenamiento. Petróleos Mexicanos, sus organismos subsidiarios y las empresas de los sectores social y privado estarán obligados a prestar a terceros el servicio de transporte y distribución de gas por medio de ductos, en los términos y condiciones que establezcan las disposiciones reglamentarias.
 
-Compañerismo
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Conducirse con sinceridad, buena fe y lealtad para con los compañeros, generando las condiciones básicas para el ejercicio libre y honesto de la profesión y para la convivencia pacífica, amistosa y cordial.
+###### ARTICULO 11.
 
-###### Artículo 12.
+El Ejecutivo Federal, por conducto de la Secretaría de Energía, con la participación que corresponda a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía, establecerán, en el ámbito de sus respectivas atribuciones y conforme a la legislación aplicable, la regulación de la industria petrolera y de las actividades a que se refiere esta Ley.
 
-Transparencia
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Ajustar su conducta al derecho que tiene la sociedad de estar informada sobre las actividades de la institución en los términos establecidos por la normatividad aplicable. La transparencia de mi actuación propicia la confianza y credibilidad en la ley, el derecho y la justicia.
+###### ARTICULO 12.
 
-###### Artículo 13.
+En lo no previsto por esta Ley, se consideran mercantiles los actos de la industria petrolera y las actividades a las que se refieren el artículo 4o. segundo párrafo, que se regirán por el Código de Comercio y, de modo supletorio, por las disposiciones del Código Civil Federal.
 
-Dignidad
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
-Actuar con decoro y excelencia. Se deberá honrar y enaltecer la procuración de justicia y fomentar dignidad, paz, armonía y trabajo.
+###### ARTICULO 13.
 
-###### Artículo 14.
+Los interesados en obtener los permisos a que se refiere el párrafo segundo del artículo 4o. de esta Ley, deberán presentar solicitud a la Secretaría de Energía que contendrá: el nombre y domicilio del solicitante, los servicios que desea prestar, las especificaciones técnicas del proyecto, los programas y compromisos de inversión y, en su caso, la documentación que acredite su capacidad financiera.
 
-Nobleza
+La cesión de los permisos podrá realizarse, previa autorización de la Secretaría de Energía y siempre que el cesionario reúna los requisitos para ser titular y se comprometa a cumplir en sus términos las obligaciones previstas en dichos permisos. En ningún caso se podrá ceder, gravar o enajenar el permiso, los derechos en él conferidos o los bienes afectos a los mismos, a gobierno o estado extranjero.
 
-Se debe imprimir seriedad y nobleza a la función de procuración de justicia que dignamente desempeñe, para valer como servidor de la sociedad y de la ley. Así como, enarbolar la nobleza de ser servidor de la sociedad.
+Los permisos podrán revocarse por cualquiera de las causas siguientes:
 
-###### Artículo 15.
+I. No ejercer los derechos conferidos durante el plazo establecido en el permiso;
 
-Orden
+II. Interrumpir sin causa justificada y autorización de la Secretaría de Energía los servicios objeto del permiso;
 
-Propiciar concierto y armonía humana en la coordinación del trabajo y el despacho de los asuntos de procuración de justicia. Deberá subordinar lo inferior a lo superior. La jerarquía significa armonía y la armonía, orden.
+III. Realizar prácticas discriminatorias en perjuicio de los usuarios, y violar los precios y tarifas que, en su caso, llegare a fijar la autoridad competente;
 
-###### Artículo 16.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Cultura Ética
+IV. Ceder, gravar o transferir los permisos en contravención a lo dispuesto en esta Ley;
 
-Ser promotor de valores y principios ante la sociedad, partiendo de que el ejemplo personal fomenta aquellas conductas que promuevan una cultura ética y de calidad en el servicio público. Actuar siempre bajo la consideración del servicio público a la comunidad, mejorando continua y permanentemente la prestación de los servicios.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-###### Artículo 17.
+V. No cumplir con las normas oficiales mexicanas, así como con las condiciones establecidas en el permiso, y
 
-Imparcialidad
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Equidistancia entre el Juez y la sociedad; entre el imputado y la víctima u ofendido. Equidad; justicia distributiva o término medio en la actuación en la procuración de la ley, la razón y el derecho.
+VI. Se haya actualizado el supuesto previsto en la fracción VII del artículo 15 Ter de esta Ley y, en consecuencia, se hayan desmantelado las instalaciones o sistemas.
 
-###### Artículo 18.
+Los permisionarios están obligados a permitir el acceso a sus instalaciones a los verificadores de la Secretaría de Energía, así como a proporcionar a ésta toda la información que le sea requerida para comprobar el cumplimiento de las obligaciones a su cargo.
 
-Responsabilidad
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
-Dar siempre lo mejor de sí mismo en las tareas encomendadas, con la permanente disposición de rendir cuentas y de asumir las consecuencias de las decisiones. Deber de avivar un espíritu procurador de celeridad y determinar con calidad y eficiencia.
+###### ARTICULO 14.
 
-###### Artículo 19.
+La regulación de las actividades a que se refiere el artículo 4o., segundo párrafo, y de las ventas de primera mano de gas tendrá por objeto asegurar su suministro eficiente y comprenderá:
 
-Lealtad
+I. Los términos y condiciones para:
 
-Conducirse de acuerdo con las disposiciones técnicas operativas y administrativas, que emanen de los órganos competentes, con el único fin de lograr los objetivos y atribuciones que la Ley señala para la institución. Asimismo, implica actuar con escrupulosa discreción en el conocimiento de los hechos, fundamentar la acción humana en la lealtad; consagración consciente, práctica y completa de una persona a una causa superior, la procuración de justicia.
+a) El otorgamiento, la transferencia y la revocación por incumplimiento de los permisos;
 
-###### Artículo 20.
+b) Las ventas de primera mano;
 
-Certeza Jurídica
+c) La prestación de servicios de transporte, almacenamiento y distribución;
 
-Imprimir seguridad de verdad en los actos jurídicos de autoridad; colmarlos de buena fe, transparencia y actitud, credibilidad y confianza hacia la institución.
+d) El acceso no discriminatorio y en condiciones competitivas a los servicios de transporte, almacenamiento y distribución por medio de ductos, y
 
-###### Artículo 21.
+e) La presentación de información suficiente y adecuada para fines de regulación;
 
-Tolerancia
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Conducirse con aceptación y respeto a las actitudes y comportamientos personales, sociales e institucionales e ideas y opiniones distintas a las propias.
+II. La determinación de los precios y tarifas aplicables, salvo que existan condiciones de competencia efectiva, a juicio de la Comisión Federal de Competencia, o que sean establecidos por el Ejecutivo Federal mediante acuerdo. Los sectores social y privado podrán solicitar a la mencionada Comisión que se declare la existencia de condiciones competitivas;
 
-###### Artículo 22.
+III. El procedimiento de consulta pública para la definición de criterios de regulación, en su caso;
 
-Trato Digno
+IV. La inspección y vigilancia del cumplimiento de las condiciones establecidas en los permisos y de las normas oficiales mexicanas aplicables;
 
-Proporcionar un trato adecuado, y decoroso a toda persona con la que, con motivo de sus funciones, deba interactuar, independientemente de su edad, sexo, estado civil, raza, idioma, religión, ideología, orientación sexual, posición social o económica, discapacidad, condición física o estado de salud, es brindar siempre un trato de calidad, amabilidad y confiabilidad que genere satisfacción.
+V. Los procedimientos de conciliación y arbitraje para resolver las controversias sobre la interpretación y el cumplimiento de contratos, y el procedimiento para impugnar la negativa a celebrarlos, y
 
-###### Artículo 23.
+VI. Los demás instrumentos de regulación que establezcan las disposiciones aplicables.
 
-Justicia
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Actuar con apego a Derecho, otorgando a cada quien lo que en equidad y razón le corresponde, evitando actos discriminatorios o preferenciales por motivos contrarios a la ley.
+###### ARTICULO 14 Bis.
 
-###### Artículo 24.
+La gasolina y los demás combustibles líquidos producto de la refinación del petróleo que se vendan directamente al público, a través de las estaciones de servicio, deberán distribuirse y expenderse o suministrarse sin alteración, de conformidad con lo que establece esta Ley y demás disposiciones aplicables.
 
-Decoro
+El expendio de gasolinas y otros combustibles líquidos producto de la refinación del petróleo que se realice a través de estaciones de servicio con venta directa al público o de autoconsumo operarán en el marco del contrato de franquicia u otros esquemas de comercialización que al efecto suscriban los organismos subsidiarios de Petróleos Mexicanos con personas físicas o sociedades mexicanas con cláusula de exclusión de extranjeros, de conformidad con la presente Ley y lo dispuesto por la Ley de Inversión Extranjera.
 
-Observar una actitud que denote decencia, dignidad, honorabilidad y humildad, así como guardar mesura en el ejercicio del cargo, de modo que la conducta corresponda con la dignidad del cargo.
+Las especificaciones de las gasolinas y otros combustibles líquidos producto de la refinación del petróleo serán establecidas por la Secretaría de Energía, conjuntamente con la Secretaría de Medio Ambiente y Recursos Naturales.
 
-###### Artículo 25.
+Para efectos de la presente Ley, se considerará que la gasolina y otros combustibles líquidos producto de la refinación del petróleo han sido alterados cuando se modifique su composición respecto a las especificaciones establecidas en las disposiciones aplicables.
 
-Fortaleza
+Los métodos de prueba, muestreo y verificación aplicables a las características cualitativas, así como al volumen en la distribución y el despacho de gasolina y otros combustibles líquidos producto de la refinación del petróleo, se establecerán en las normas oficiales mexicanas que para tal efecto expidan las Secretarías de Energía y de Economía, en el ámbito de su competencia.
 
-Caracterizarse por la firmeza de carácter y seguridad en la toma de decisiones; para cumplir las funciones con rectitud y entereza.
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-###### Artículo 26.
+###### ARTICULO 15.
 
-Vocación de Servicio
+Las personas que realicen alguna de las actividades a que se refiere la presente Ley, deberán cumplir con las disposiciones administrativas y normas de carácter general que expidan en el ámbito de sus competencias, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en términos de la normatividad aplicable, así como entregar la información o reportes que les sean requeridos por aquellas.
 
-Estar consciente de que mi trabajo es entregarme con la institución, a fin de potenciar las capacidades para dar respuesta a las expectativas de la sociedad mexiquense. En ese sentido, no perder de vista que los objetivos del trabajo son públicos y que mi compromiso es, ante todo, con la sociedad para la cual y por la cual trabajo.
+De manera específica, se señalan las siguientes obligaciones:
 
-###### Artículo 27.
+I. Petróleos Mexicanos y sus organismos subsidiarios, tratándose de actividades que constituyen la industria petrolera, deberán:
 
-Prudencia
+a) Cumplir los términos y condiciones establecidos en las asignaciones, así como abstenerse de ceder, traspasar, enajenar o gravar, total o parcialmente, los derechos u obligaciones derivados de las mismas;
 
-La prudencia, según el filósofo Platón, es la “virtud arquitectónica” porque de ella dependen todas las demás, implica ser mesurado y discreto en mi lenguaje y actos, así como conducirme con acierto y criterio, procurando inspirar confianza a la comunidad en general.
+b) Reducir o evitar la quema o el venteo de gas;
 
-###### Artículo 28.
+c) Evitar desperdicio o derrame de hidrocarburos, en el entendido de que Petróleos Mexicanos no será responsable de los que resulten de actos ilícitos, caso fortuito o fuerza mayor;
 
-Respeto
+d) Ejecutar las acciones que, ordene la Secretaría de Energía, para evitar que las obras o sus instalaciones puedan ocasionar un daño grave en las personas o en sus bienes, y
 
-Dar a las personas un trato digno, cortés, cordial y tolerante; así como reconocer y reconsiderar en todo momento los derechos, libertades y cualidades inherentes a la condición humana.
+e) Obtener de manera previa a la realización de las obras, los permisos que requieran las distintas autoridades en el ámbito de sus respectivas competencias;
 
-###### Artículo 29.
+II. Petróleos Mexicanos y sus organismos subsidiarios, en materia de ventas de primera mano, deberán:
 
-Humanismo
+a) Cumplir con los términos y condiciones que, al efecto, se establezcan, así como abstenerse de realizar prácticas indebidas;
 
-Es mostrar sensibilidad frente al dolor ajeno y dar un rostro humano a la justicia.
+b) Entregar la cantidad y calidad de gas, de productos que se obtengan de la refinación del petróleo y de petroquímicos básicos pactadas de conformidad con las disposiciones aplicables, y
 
-###### Artículo 30.
+c) Respetar el precio que para los distintos productos se determine;
 
-Laboriosidad
+III. Los permisionarios deberán:
 
-Deber de realizar con cuidado y esmero las tareas y labores propias de mi cargo.
+a) Prestar los servicios de forma eficiente, uniforme, homogénea, regular, segura y continua, así como cumplir los términos y condiciones contenidos en los permisos;
 
-### CAPÍTULO III. PRINCIPIOS ESPECÍFICOS PARA LOS AGENTES DEL MINISTERIO PÚBLICO
+b) Contar con un servicio permanente de recepción de quejas y reportes de emergencia, que les permita atenderlas de inmediato;
 
-###### Artículo 31.
+c) Dar aviso inmediato a la Secretaría de Energía o a la Comisión Reguladora de Energía, según corresponda, y a las autoridades competentes sobre cualquier siniestro, hecho o contingencia que, como resultado de sus actividades permisionadas, ponga en peligro la vida, la salud y seguridad públicas, y presentar ante dicha dependencia, en un plazo no mayor a diez días, contados a partir de aquél en que el siniestro se encuentre controlado, un informe detallado sobre las causas que lo originaron y las medidas tomadas para su control;
 
-Principios
+d) Proporcionar el auxilio que les sea requerido por las autoridades competentes en caso de emergencia o siniestro;
 
-Además de los principios rectores, los agentes del Ministerio Público deberán sujetar su conducta ética observando los siguientes principios específicos:
+e) Presentar anualmente, en los términos de las normas oficiales mexicanas aplicables, el programa de mantenimiento del sistema y comprobar su cumplimiento con el dictamen de una unidad de verificación debidamente acreditada;
 
-a) Unidad: actuar representando en cada uno de sus actos el interés exclusivo y único de la Institución.
+f) Llevar un libro de bitácora para la operación, supervisión y mantenimiento de obras e instalaciones, así como capacitar a su personal en materias de prevención y atención de siniestros;
 
-b) Independencia: proceder en el desempeño del cargo con total independencia con respecto a las influencias o presiones ajenas al derecho. En consecuencia, es ser autónomo en la toma de decisión sobre casos concretos.
+g) Obtener autorización de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, para modificar las condiciones técnicas de los ductos, sistemas, instalaciones o equipos;
 
-c) Jerarquía: controlar el desempeño de quienes le asisten, asumiendo el compromiso de supervisión, evaluación y vigilancia de los servidores públicos bajo su dirección, para cumplir íntegramente con las normas, sin perjuicio de las responsabilidades en que cada uno de ellos pueda incurrir por sus propios actos.
+h) Dar aviso inmediato a la Secretaría de Energía o a la Comisión Reguladora de Energía, según corresponda de cualquier circunstancia que implique la modificación de los términos y condiciones en la prestación del servicio;
 
-d) Buena Fe: realizar llanamente la voluntad de la ley, absteniéndose de perseguir intereses propios o ajenos.
+i) Abstenerse de otorgar subsidios cruzados en la prestación de los servicios permisionados, así como de realizar prácticas discriminatorias;
 
-e) Irrecusabilidad: es conocer de cualquier asunto de su competencia, independientemente de cualquier circunstancia subjetiva que lo acompañe.
+j) Respetar los precios o tarifas máximas que se establezcan;
 
-f) Regularidad: velar por la regularidad en la integración de los asuntos a su cargo.
+k) Entregar la cantidad y calidad de gas, conforme se establezca en las disposiciones aplicables, y
 
-g) Armonía: es observar buen trato, solidaridad y respeto en las relaciones de trabajo, tanto con mis superiores, como con los servidores que se encuentren bajo mi conducción y mando.
+l) Obtener autorización de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, para la suspensión de los servicios, salvo que exista causa justificada, a juicio de ésta.
 
-### CAPÍTULO IV. PRINCIPIOS ESPECÍFICOS PARA LOS AGENTES DE LA POLICÍA DE INVESTIGACIÓN
+Quienes vendan gasolina y demás combustibles líquidos producto de la refinación del petróleo, directamente al público, a través de estaciones de servicio, deberán expenderlos sin alteración, en términos del artículo 14 Bis de esta Ley.
 
-###### Artículo 32.
+Adicionalmente a las obligaciones previstas en las fracciones anteriores, los permisionarios de transporte y distribución de gas que se realice por medio de ductos, así como de almacenamiento, cuando las instalaciones se encuentren interconectadas a ductos, deberán publicar oportunamente, en los términos que se establezca mediante directivas, la información referente a su capacidad disponible y aquélla no contratada.
 
-Principios
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 15], D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Además de los principios rectores, los agentes de la Policía de Investigación sujetarán su conducta ética observando los siguientes principios:
+###### ARTICULO 15 Bis.
 
-a) Uso de la Fuerza: implica hacer uso de la fuerza únicamente en la medida que se requiera, cuando estén en riesgo los derechos de las personas e instituciones, la paz pública y la seguridad ciudadana, y mediante un criterio basado en la legalidad, racionalidad, congruencia, oportunidad y proporcionalidad.
+Las infracciones a esta Ley y a sus disposiciones reglamentarias podrán ser sancionadas con multas de mil a un millón quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, a juicio de la Secretaría de Energía, la Comisión Nacional de Hidrocarburos o de la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, tomando en cuenta la importancia de la falta, de acuerdo con lo siguiente:
 
-b) Debida Diligencia: cumplir con diligencia el servicio que se ha encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido del empleo, cargo o comisión, para tal efecto deberá comunicar en forma oportuna, completa y veraz, la información que deba rendir a los superiores, como resultado de la ejecución de las diligencias encomendadas.
+I. El incumplimiento a las obligaciones contenidas en la fracción I del artículo anterior, se sancionarán con multa de cincuenta mil a setecientas mil veces el importe del salario mínimo;
 
-c) Jerarquía: observar respeto, lealtad, solidaridad y disciplina en una subordinación legítima con los superiores jerárquicos, en el cumplimiento de las encomiendas o disposiciones que se ordenen, con apego a la normatividad vigente; asimismo, tratar a las personas que estén bajo su mando con dignidad, respeto, decoro y estricto apego a los derechos humanos y a las normas disciplinarias aplicables.
+II. El incumplimiento a las obligaciones contenidas en la fracción II del artículo anterior se sancionarán con multa de veinte mil a trescientos cincuenta mil veces el importe del salario mínimo;
 
-d) Regularidad: velar por la regularidad en la integración de los asuntos a su cargo.
+III. El incumplimiento a las obligaciones contenidas en los incisos a), d), e), g), i), j) y k) de la fracción III del artículo anterior, se sancionarán con multa de diez mil a un millón de veces el importe del salario mínimo;
 
-e) Armonía: observar buen trato, solidaridad y respeto en las relaciones de trabajo, tanto con mis superiores, como con los servidores que se encuentren bajo mi conducción y mando.
+IV. El incumplimiento a las obligaciones contenidas en los incisos b), c) y f) de la fracción III del artículo anterior, se sancionarán con multa de diez mil a ochocientas mil veces el importe del salario mínimo;
 
-### CAPÍTULO V. PRINCIPIOS ESPECÍFICOS PARA LOS PERITOS
+V. El incumplimiento a las obligaciones contenidas en los incisos h) y l) de la fracción III del artículo anterior, se sancionarán con multa de cinco mil a quinientas mil veces el importe del salario mínimo;
 
-###### Artículo 33.
+VI. El incumplimiento o entorpecimiento de la obligación de informar o reportar a la Secretaría de Energía, a la Comisión Nacional de Hidrocarburos o a la Comisión Reguladora de Energía, conforme a las disposiciones jurídicas aplicables, cualquier situación relacionada con esta Ley, sus disposiciones reglamentarias o las atribuciones de aquellas, se sancionarán con multa de mil a un millón de veces el importe del salario mínimo;
 
-Principios
+VII. La realización de actividades estratégicas que constituyen la industria petrolera por toda persona distinta a Petróleos Mexicanos y sus organismos subsidiarios, se sancionará con multa de un millón a un millón quinientas mil veces el importe del salario mínimo;
 
-Además de los principios rectores, los Peritos sujetarán su conducta ética observando los siguientes principios:
+VIII. La realización de las actividades previstas en el artículo 4o., segundo párrafo de la presente Ley, sin el permiso respectivo, se sancionará con multa de cincuenta mil a quinientas mil veces el importe del salario mínimo.
 
-a) Debida Diligencia: asumir con profesionalismo, imparcialidad y honestidad el cumplimiento del encargo o de la diligencia que se me encomiende. Aplicar sus conocimientos para que la información resultante de su actuación sea un conocimiento confiable, veraz y evidente que permita dilucidar o esclarecer los hechos, objeto de la investigación. Realizar las investigaciones con estricto rigor científico, conforme al método establecido.
+IX. La venta al público, a través de estaciones de servicio, de gasolina y demás combustibles líquidos producto de la refinación del petróleo que hayan sido alterados, se sancionará con multa de diez mil a cincuenta mil veces el importe del salario mínimo.
 
-b) Objetividad: ejercer las funciones conforme a derecho y de acuerdo con su especialidad, tomando en cuenta sólo los elementos que tengan relación con el caso concreto, absteniéndose de emitir prejuicios u opiniones personales.
+En caso de reincidencia, se podrá imponer una multa hasta por el doble de la anteriormente impuesta. Se considerará reincidente, al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción.
 
-c) Secrecía: guardar el secreto profesional, no revelar por ningún motivo los hechos o circunstancias de que tenga conocimiento durante el curso de la presentación de los servicios profesionales, a menos que exista la obligación o el derecho legal o profesional para hacerlo.
+Las demás violaciones a esta Ley y a sus disposiciones reglamentarias, se sancionarán con multa de mil a un millón de veces el importe del salario mínimo, a juicio de la Secretaría de Energía o de la Comisión Reguladora de Energía, según corresponda, las que tomarán en cuenta para fijar su monto la gravedad de la infracción.
 
-d) Legalidad: formular los informes y dictámenes con estricto apego a la normatividad, aportando la información correspondiente con transparencia, imparcialidad y eficacia.
+Para efectos del presente artículo, se entiende por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 
-e) Jerarquía: observar respeto, lealtad, solidaridad y disciplina en una subordinación legítima con los superiores jerárquicos, en el cumplimiento de las encomiendas o disposiciones que se encomienden, con apego a la normatividad vigente. Tratar a las personas que estén bajo su mando con dignidad, respeto, decoro y estricto apego a los derechos humanos y a las normas disciplinarias aplicables.
+Las sanciones señaladas en este artículo se aplicarán sin perjuicio de la responsabilidad civil, penal o administrativa que resulte y, en su caso, de la revocación del permiso correspondiente. Asimismo la imposición de estas sanciones no implica por sí misma responsabilidad administrativa, civil, o penal de los servidores públicos.
 
-### CAPÍTULO VI. PRINCIPIOS ESPECÍFICOS PARA FACILITADORES Y ORIENTADORES JURÍDICOS
+En caso de infracción a lo dispuesto por los párrafos quinto y sexto del artículo 4o. de esta Ley, sin perjuicio de las sanciones previstas en los párrafos anteriores, el infractor perderá en favor de Petróleos Mexicanos los subproductos petrolíferos o petroquímicos básicos obtenidos.
 
-###### Artículo 34.
+Para la imposición de las sanciones previstas en el presente artículo se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
-Principios
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-Además de los principios rectores, los Facilitadores y Orientadores Jurídicos, sujetarán su conducta ética, observando los siguientes principios específicos:
+###### ARTICULO 15 Ter.
 
-a) Debida Diligencia: brindar los conocimientos, voluntad y disposición al ejercicio de la mediación y conciliación.
+Con base en los resultados del análisis de los documentos e información requeridos a Petróleos Mexicanos y sus organismos subsidiarios, así como a los permisionarios o como resultado de una visita de verificación, cuando alguna obra o instalación represente un peligro grave para las personas o sus bienes, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, sin perjuicio de las sanciones a que se refieren los artículos 13 y 15 Bis de esta Ley, podrán ordenar cualquiera de las siguientes medidas de seguridad:
 
-b) Buena fe: conducirse con probidad, honestidad, responsabilidad, lealtad, respeto y justicia.
+I. Suspender trabajos relacionados con la construcción de obras e instalaciones;
 
-c) Honestidad: abstenerse de intervenir en la solución de un conflicto cuando genere perturbación emocional que afecte la imparcialidad.
+II. Clausurar temporal, total o parcialmente obras, instalaciones o sistemas;
 
-d) Respeto: a la libertad y voluntad de los participantes, evitando influir en sus decisiones.
+III. Ordenar la suspensión temporal del suministro, en términos de las disposiciones reglamentarias respectivas;
 
-e) Actitud de servicio: actuar con disposición y apertura que permita adecuarse a la dinámica de cada caso dentro de la aplicación de los mecanismos alternativos de solución de controversias.
+IV. Asegurar substancias, materiales, equipo, accesorios, ductos, instalaciones de aprovechamiento, sistemas de transporte, distribución y almacenamiento, así como recipientes portátiles, auto-tanques, carro-tanques, buque-tanques, semirremolques y vehículos de reparto;
 
-### CAPÍTULO VII. PRINCIPIOS ESPECÍFICOS PARA EL PERSONAL ADMINISTRATIVO
+V. Inmovilizar auto-tanques, carro-tanques, buque-tanques, semirremolques y vehículos de reparto que no cumplan con las medidas mínimas de seguridad establecidas en las normas oficiales mexicanas aplicables;
 
-###### Artículo 35.
+VI. Inutilizar substancias, materiales, equipo o accesorios, y
 
-Principios
+VII. Ordenar el desmantelamiento de las instalaciones y sistemas destinados a la prestación de los servicios.
 
-Además de los principios rectores, el personal administrativo sujetará su conducta ética observando los siguientes principios:
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2008)</small>
 
-a) Excelencia: implica perfeccionarse de manera integral y permanente en el ejercicio de su función, con el fin de desarrollar con calidad las actividades a su cargo, cumplir sus tareas con una actitud seria, diligente y esmerada, que permita facilitar una adecuada coordinación de las actividades en conjunto, además proceder con claridad, sin ambigüedades y proyectando confianza, tanto al interior como al exterior de la institución.
+###### ARTICULO 16.
 
-b) Atención al público: proyectar en todo momento una actitud de respeto, trato digno, cortés, cordial y tolerante que merecen los usuarios del servicio de procuración de justicia. Conducirse con una actitud humanitaria y solidaria en la atención al público.
+La aplicación de esta Ley corresponde a la Secretaría de Energía, con la participación que esté a cargo de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía.
 
-c) Compañerismo: contribuir a mejorar el ambiente de trabajo, mediante una actitud de solidaridad, de tal manera que facilite el cumplimiento de las tareas y mejore el rendimiento del grupo al que pertenezco.
-
-d) Optimización: mantener una actitud de superación continua y adecuada que permita desarrollar e implantar procesos que mejoren la eficiencia, aprovechando al máximo los recursos humanos, financieros, tecnológicos, físicos y de conocimientos, entre otros, con el propósito de alcanzar las metas u objetivos de la institución.
-
-Aprobado en la Ciudad de Toluca, Estado de México, a los 27 días del mes de enero de 2017, por los integrantes del Comité de Ética y Prevención de Conflictos de Intereses:
-
-PRESIDENTE
-
-DR. GERMÁN A. CASTILLO BANUET
-
-FISCAL CENTRAL JURÍDICO
-
-EN SUPLENCIA DEL PRESIDENTE TITULAR
-
-(RÚBRICA).
-
-VOCALES
-
-LIC. FERNANDO RODRÍGUEZ ARRIAGA
-
-EN SUPLENCIA DEL VOCAL
-
-(RÚBRICA).
-
-DR. GUILLERMO EDUARDO GONZÁLEZ MEDINA
-
-DIRECTOR GENERAL DEL SERVICIO DE CARRERA
-
-(RÚBRICA).
-
-MTRO. MARCOS BERNAL MORAN
-
-DIRECTOR GENERAL DE ADMINISTRACIÓN
-
-(RÚBRICA).
-
-LIC. JUAN ANTONIO GARDUÑO FLORES
-
-EN SUPLENCIA DEL VOCAL TITULAR
-
-(RÚBRICA).
-
-LIC. JOSÉ ANTONIO SÁNCHEZ ROMERO
-
-AGENTE DEL MINISTERIO PÚBLICO
-
-(RÚBRICA).
-
-C. EDGAR ISAAC MARTÍNEZ ROMERO
-
-AGENTE DE LA POLICÍA DE INVESTIGACIÓN
-
-(RÚBRICA).
-
-LIC. JAVIER BACA MERLOS
-
-PERITO DACTILOSCOPISTA
-
-(RÚBRICA).
-
-SECRETARIO
-
-LIC. ILLY XOLALPA RAMÍREZ
-
-DIRECTOR GENERAL JURÍDICO Y CONSULTIVO
-
-EN SUPLENCIA DEL SECRETARIO TITULAR
-
-(RÚBRICA).
+TRANSITORIOS:
 
 ###### ARTICULO 1o.
 
@@ -503,120 +469,240 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 
 SEGUNDO.- Las autoridades competentes expedirán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, las disposiciones relativas a la recuperación y aprovechamiento de parte de los concesionarios, la información geológica relacionada con la recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral y la metodología relacionada con la contraprestación por el servicio de entrega a Petróleos Mexicanos del gas asociado a los yacimientos de carbón mineral que se realice al amparo de una concesión minera.
 
+D.O.F. 28 DE NOVIEMBRE DE 2008.
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las solicitudes de asignaciones y de permisos de exploración presentadas por Petróleos Mexicanos que se encuentren en trámite a la entrada en vigor de esta Ley, se resolverán conforme a las disposiciones vigentes al momento de la solicitud.
+
+Tercero.- La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente ordenamiento.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE HIDROCARBUROS Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INVERSIÓN EXTRANJERA; LEY MINERA, Y LEY DE ASOCIACIONES PÚBLICO PRIVADAS.
+
 ## TRANSITORIOS
 
-PRIMERO.- Publicación
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Publíquese este Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+Segundo.- Se abroga la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicada en el Diario Oficial de la Federación el 29 de noviembre de 1958, con las salvedades a que se refieren los Transitorios Cuarto, Quinto y Décimo Noveno de la presente Ley.
 
-SEGUNDO.- Vigencia
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
 
-Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+En tanto se emite nueva regulación o se modifica la regulación correspondiente, la normatividad y regulación emitidas con anterioridad a la entrada en vigor de la presente Ley por la Secretaría de Energía, las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, continuarán en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
 
-TERCERO.- Anexos de este Acuerdo
+Cuarto.- El Ejecutivo Federal expedirá el Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada en vigor. El reglamento de la Ley Reglamentaria a que se refiere el Segundo transitorio de la presente Ley, así como los reglamentos de Gas Natural y de Gas Licuado de Petróleo, continuarán vigentes en lo que no se opongan a la misma y hasta que entren en vigor las nuevas disposiciones reglamentarias.
 
-Forma parte integrante de este Acuerdo, el Código de Conducta de la Fiscalía General de Justicia del Estado de México.
+Quinto.- En tanto se expiden los reglamentos correspondientes, las Secretarías de Energía, de Hacienda y Crédito Público y de Economía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía están facultadas para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.
 
-CUARTO.- Derogación de disposiciones
+Las solicitudes de autorización o permisos que se hayan recibido con anterioridad a la entrada en vigor de esta Ley, se tramitarán conforme a las disposiciones jurídicas que se encuentren vigentes al momento de expedición de la presente Ley y a las disposiciones que para el efecto haya emitido el órgano regulador competente con anterioridad a la presente Ley.
 
-Se abroga el Código de Ética de la Procuraduría General de Justicia del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” en fecha diecisiete de junio de dos mil trece.
+Sexto.- Durante el proceso previsto en el Sexto Transitorio del Decreto que reforma diversas disposiciones constitucionales en Materia de Energía publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013, la Secretaría de Energía otorgará Asignaciones a Petróleos Mexicanos de conformidad con lo dispuesto en el referido transitorio. Las Asignaciones que se otorguen a Petróleos Mexicanos durante dicho proceso se regularán conforme a las disposiciones establecidas en la presente Ley.
 
-Dado en la Ciudad de Toluca, Capital del Estado de México, a los veintisiete días del mes de febrero del año dos mil diecisiete.
+Séptimo.- Los titulares de concesiones mineras que a la entrada en vigor de la presente Ley cuenten con permiso para la recuperación y aprovechamiento de Gas Natural asociado a los yacimientos de carbón mineral, podrán continuar las actividades autorizadas en dicho permiso, sin que ello implique que les son conferidos derechos adicionales para la Exploración y Extracción de Hidrocarburos.
 
-EL FISCAL GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+Sin perjuicio de lo anterior, los titulares de concesiones mineras tendrán un plazo de noventa días naturales, contados a partir de la entrada en vigor de la presente Ley, para solicitar a la Comisión Nacional de Hidrocarburos la adjudicación directa del Contrato para la Exploración y Extracción que se encuentre en la veta de carbón mineral en el área amparada en el permiso. Lo anterior, siempre y cuando se encuentre en producción la concesión minera y acrediten que cuentan con la capacidad técnica, administrativa y financiera para llevar a cabo las actividades de Exploración y Extracción de Hidrocarburos.
 
-ALEJANDRO JAIME GÓMEZ SÁNCHEZ
+El contrato deberá ser otorgado por la Comisión Nacional de Hidrocarburos en términos de esta Ley.
 
-(RÚBRICA).
+Transcurrido un plazo de 180 días naturales, contados a partir de la entrada en vigor de la presente Ley, cualquier permiso de recuperación y aprovechamiento de gas natural asociado a yacimientos de carbón mineral, quedará sin efectos.
 
-EL COMITÉ DE ÉTICA Y PREVENCIÓN DE CONFLICTOS DE INTERESES DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, CON FUNDAMENTO EN LOS ARTÍCULOS QUINTO, SÉPTIMO, FRACCIÓN IV Y OCTAVO DEL ACUERDO NÚMERO 12/2016, POR EL QUE SE CREA EL COMITÉ DE ÉTICA Y PREVENCIÓN DE CONFLICTOS DE INTERESES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+Octavo.- A partir de la entrada en vigor de la presente Ley, la Comisión Nacional de Hidrocarburos podrá adjudicar de manera directa a Petróleos Mexicanos, a alguna de sus empresas productivas subsidiarias o empresas filiales o a otra empresa productiva del Estado, un contrato para la comercialización de Hidrocarburos, el cual no podrá tener una vigencia mayor al 31 de diciembre de 2017 y no podrá ser prorrogado o renovado.
 
-CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
+Para lo anterior, las Secretarías de Energía y de Hacienda y Crédito Público determinarán la contraprestación correspondiente por los servicios de comercialización, la cual deberá estar referida a condiciones de mercado.
 
-INTRODUCCIÓN
+A partir del 1o. de enero de 2018 se estará a lo dispuesto en el artículo 28 de esta Ley y el Estado contratará los servicios de comercialización de los Hidrocarburos necesarios a través de una licitación pública que realice la Comisión Nacional de Hidrocarburos.
 
-En la actualidad, el aspecto ético moral debe tener una importancia relevante en el proceso de formación integral de las personas, ya que de ello dependerá el buen desarrollo de principios y valores, considerados como la base fundamental de la superación personal y social. Los valores deben ser la amalgama de la convivencia, ya que al no aplicarlos se dejan de crear las oportunidades que benefician a toda la sociedad, con una consecuencia última de dejar de ser competitiva e incapaz de resolver sus problemas. El reto de construir un buen gobierno implica también contar con servidores públicos con una sólida cultura ética y de servicio, que estén absolutamente convencidos de la dignidad e importancia del servicio que prestan en la Fiscalía General de Justicia del Estado de México.
+Noveno.- Para integrar el Centro Nacional de Información de Hidrocarburos, Petróleos Mexicanos, sus organismos subsidiarios y empresas filiales, así como el Instituto Mexicano del Petróleo, transferirán a la Comisión Nacional de Hidrocarburos, a título gratuito, toda la información a que se refieren los artículos 32, 33 y 35 de esta Ley, que se haya obtenido a la fecha de entrada en vigor de esta Ley.
 
-Dentro de las acciones que prevé la Fiscalía General de Justicia del Estado de México para garantizar el adecuado cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en el artículo 21, de la Constitución Política de los Estados Unidos Mexicanos, se encuentra la de contar con un Código de Conducta que contenga reglas claras para que, en la actuación de los servidores públicos, impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, con lo cual se pretende propiciar una plena vocación de servicio público en beneficio de la colectividad.
+Dicha transferencia se realizará en un plazo que no excederá de dos años a partir de la entrada en vigor de esta Ley, conforme a los lineamientos que la Comisión Nacional de Hidrocarburos emita, dentro de los cuales se instruirá, entre otros, la elaboración de un inventario de la información y activos asociados, que incluirá los contratos que tengan suscritos Petróleos Mexicanos, sus organismos subsidiarios y empresas filiales, así como el Instituto Mexicano del Petróleo.
 
-El servicio público implica responsabilidades que derivan de las funciones inherentes al cargo que se desempeña. Los servidores públicos se enfrentan día a día con la toma de decisiones a menudo complejas, en las que está en juego el bienestar de la sociedad; ellos, como individuos libres, tienen la capacidad para optar, en el ejercicio de sus funciones, entre lo que es deseable para la colectividad y aquello que puede resultar dañino para ella.
+Los contratos a los que se refiere el párrafo anterior incluyen los de servicios, de tecnologías de información y comunicaciones, de interpretación y cualquier otro relacionado con los sistemas, bases de datos e infraestructura que generan, manejan y procesan la información y que se usan en la administración de la misma.
 
-De lo anterior, se concluye que los valores éticos deben tomar una gran relevancia en el servicio público; por ello, como parte del compromiso que se tiene con la sociedad, la Fiscalía General de Justicia del Estado de México se ha dado a la tarea de emitir un Código de Conducta para los servidores públicos de la institución, orientado al rescate y preservación de los principios y valores éticos, con el propósito fundamental de normar la conducta que ha de regir en el ejercicio de sus funciones, así como, de otorgar incentivos a aquellos servidores públicos cuya conducta se ajuste de manera sobresaliente a lo establecido en el presente Código.
+De forma inmediata a la entrada en vigor del presente Decreto, Petróleos Mexicanos, sus organismos subsidiarios, sus empresas filiales y, en su caso, el Instituto Mexicano del Petróleo, llevarán a cabo las acciones y los convenios modificatorios que sean necesarios, a efecto de que se establezca que la Comisión Nacional de Hidrocarburos será beneficiaria de forma directa de los derechos contenidos en los contratos mencionados en el párrafo anterior, de manera que la Comisión Nacional de Hidrocarburos esté en posibilidad de requerir directamente a los proveedores o prestadores del servicio, la información y servicios que correspondan a cada uno de los contratos, para recopilar, descargar o transferir la información que requiera.
 
-La legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, honestidad, transparencia, dignidad, nobleza, orden, imparcialidad, responsabilidad, lealtad, certeza jurídica, tolerancia, justicia, vocación de servicio, entre otros, son los principios y valores éticos que forman parte de este Código, así como los principios específicos que deben regir el actuar de los agentes del Ministerio Público, agentes de la Policía de Investigación, Peritos, Orientadores Jurídicos, Facilitadores de la Institución y personal administrativo, valores éticos que representan el compromiso para un ejercicio público con atributos, cualidades y buenas actitudes de comportamiento humano que permitan una mejor convivencia, otorgando una imagen institucional responsable y solidaria que genere confianza y credibilidad entre los mexiquenses.
+Asimismo, de forma inmediata a la entrada en vigor del presente Decreto, la Comisión Nacional de Hidrocarburos tendrá acceso irrestricto, tanto de forma remota como dentro de las instalaciones, a la información y a los activos asociados de Petróleos Mexicanos y del Instituto Mexicano del Petróleo.
 
-### CAPÍTULO I. PROPÓSITOS Y OBJETIVOS
+En caso de incumplimiento a lo dispuesto en este transitorio por parte de Petróleos Mexicanos o de las empresas contratistas, la Comisión Nacional de Hidrocarburos sancionará conforme a lo que se establece en el artículo 85, fracción II, inciso n) de esta Ley.
 
-###### Artículo 1.
+Décimo.- Los permisos que se hubieran otorgado por la Secretaría de Energía o la Comisión Reguladora de Energía para llevar a cabo las actividades de la industria de Hidrocarburos con anterioridad a la entrada en vigor de esta Ley, mantendrán su vigencia en los términos otorgados. Lo anterior, sin perjuicio de las obligaciones en materia de acceso abierto previstas en la presente Ley.
 
-Objetivos
+Décimo Primero.- A partir del 1o. de enero de 2015, la Secretaría de Energía y la Comisión Reguladora de Energía podrán otorgar, en el ámbito de sus respectivas competencias, los Permisos y autorizaciones observando lo dispuesto en los transitorios Décimo cuarto y Vigésimo Noveno de la presente Ley.
 
-Este Código tiene como objetivos:
+Las personas que a la fecha de entrada en vigor de la presente Ley realicen actividades sujetas a permiso y no cuenten con el mismo, podrán continuar llevándolas a cabo conforme a lo siguiente:
 
-I. Establecer una serie de principios y valores que regulan la conducta de los servidores públicos de la institución, con el propósito de enaltecer los valores en el servicio, fomentar el respeto a los Derechos Humanos, estimular el desarrollo personal y profesional, así como desarrollar hábitos y actitudes que permitan el cumplimiento de los fines institucionales;
+I. Tratándose del Tratamiento, refinación y Procesamiento, siempre que soliciten y obtengan el permiso correspondiente de la Secretaría de Energía, a más tardar el 30 de junio de 2015.
 
-II. Definir los principios de actuación a los servidores públicos de la Fiscalía General de Justicia del Estado de México, tendientes a consolidarla ante la sociedad mexiquense, como una Institución humana, accesible a las necesidades sociales y en acatamiento al principio de legalidad, en donde se perciba la confianza de que se procura justicia sin distinción de ningún criterio;
+II. Tratándose de la compresión, licuefacción, descompresión y regasificación, Transporte, Almacenamiento, Distribución, Expendio al Público o comercialización, siempre que soliciten y obtengan el permiso correspondiente de la Comisión Reguladora de Energía a más tardar el 31 de diciembre de 2015.
 
-III. Garantizar la convivencia social armónica a través de una procuración de justicia eficaz, pronta, expedita, imparcial y oportuna, que asegure el cabal cumplimiento del orden jurídico, el respeto a los derechos de las personas y la integridad de las instituciones, vigilando la prevalencia del principio de legalidad, preservando el Estado de Derecho y fortaleciendo la vida democrática, y
+Durante el plazo previsto en la presente fracción, se deberá continuar observando las disposiciones jurídicas y técnicas, así como las resoluciones y actos administrativos o autorizaciones aplicables a las instalaciones y equipos de transporte que se utilicen para las actividades de carga, traslado, depósito, recepción y manejo de productos, así como para el combate al mercado ilícito, vigentes a la fecha de entrada en vigor de la presente Ley.
 
-IV. Transformar a la Fiscalía General de Justicia con servidores públicos rigurosamente seleccionados, capacitados, motivados, evaluados y altamente comprometidos con la sociedad, que contará con una institución humana, sensible, ágil, dinámica, confiable, transparente y profesionalizada, que dé respuesta inmediata a la demanda del servicio y propicie una eficaz acción de la procuración de justicia, coadyuvando a la consolidación del Sistema Penal Acusatorio, Adversarial y Oral.
+La Secretaría de Energía y la Comisión Reguladora de Energía podrán solicitar a Petróleos Mexicanos y sus subsidiarias, la información y registros que tengan en sus bases de datos respecto de las personas que realicen las actividades señaladas en las fracciones I y II anteriores.
 
-### CAPÍTULO II. PRINCIPIOS RECTORES
+La Secretaría de Energía y la Comisión Reguladora de Energía establecerán los mecanismos que faciliten y agilicen la expedición de los permisos a que se refiere este artículo transitorio.
 
-###### Artículo 2.
+Sin perjuicio de lo establecido en el presente transitorio, el otorgamiento de permisos relacionados con la importación y Expendio al Público de gasolinas y diésel se realizará de conformidad con el transitorio Décimo cuarto, fracciones II y III, de esta Ley. De la misma forma, el otorgamiento de permisos relacionados con la importación de Gas Licuado de Petróleo se realizará de conformidad con lo establecido en el transitorio Vigésimo Noveno, fracción II, de esta Ley.
 
-Legalidad
+Décimo Segundo.- A más tardar dentro de los doce meses siguientes a la entrada en vigor de la presente Ley, el Ejecutivo Federal emitirá el Decreto de creación del organismo público descentralizado denominado Centro Nacional de Control del Gas Natural, encargado de la gestión, administración y operación del Sistema de Transporte y Almacenamiento Nacional Integrado. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado organismo.
 
-Ejercer las funciones y atribuciones que expresamente asigne la ley.
+Asimismo, el Decreto deberá proveer lo necesario para que Petróleos Mexicanos y sus organismos subsidiarios, transfieran los recursos necesarios para que el Centro Nacional de Control del Gas Natural adquiera y administre la infraestructura para el Transporte por ducto y el Almacenamiento de Gas Natural que tengan en propiedad para dar el servicio a los usuarios correspondientes.
 
-###### Artículo 3.
+El Decreto también preverá los términos y condiciones para que Petróleos Mexicanos, sus organismos subsidiarios, y las empresas en las que cuenten con participación directa o indirecta realicen los actos jurídicos necesarios a efecto de que el Centro Nacional de Control del Gas Natural, administre y gestione, conforme al párrafo segundo del artículo 66 de esta Ley, los siguientes contratos de reserva de capacidad de Transporte y de Almacenamiento de Gas Natural:
 
-Reserva
+I. Los que tengan suscritos con usuarios en calidad de Permisionario de Transporte de Gas Natural;
 
-Cuidar que la información que se deba proporcionar no lesione el honor ni los derechos de las personas involucradas en los asuntos a su cargo, ni ponga en peligro las investigaciones que realice.
+II. Los que tengan suscritos con Permisionarios que a la fecha de entrada en vigor de esta Ley se encuentren operando;
 
-###### Artículo 4.
+III. Los que tengan suscritos con personas que no hayan iniciado operaciones, a la entrada en vigor de esta Ley;
 
-Objetividad
+IV. Los que tengan suscritos o suscriban en ductos de Internación, y
 
-Ejercer sus funciones conforme a derecho y tomando en cuenta única y exclusivamente los elementos que tengan relación con el caso concreto. Los prejuicios u opiniones personales carecerán de valor en este sentido.
+V. Los que suscriban en tanto entra en vigor el Decreto de creación del Centro Nacional de Control del Gas Natural.
 
-###### Artículo 5.
+Lo previsto en las fracciones II, III, IV y V también será aplicable a los contratos de reserva de capacidad de Transporte y de Almacenamiento de Gas Natural de la Comisión Federal de Electricidad conforme al párrafo segundo del artículo 66 de esta Ley.
 
-Eficacia y Eficiencia
+Los actos jurídicos que sean necesarios para que el Centro Nacional de Control del Gas Natural administre y gestione la capacidad de los contratos señalados en el presente transitorio, se realizarán sin perjuicio de que las empresas productivas del Estado, sus organismos subsidiarios y las empresas en las que los primeros cuenten con participación directa o indirecta reserven y/o mantengan los contratos de reserva de la capacidad que requieran para sus operaciones de generación eléctrica y transformación industrial de hidrocarburos, según sea el caso.
 
-Enfocar los esfuerzos en cumplir de manera óptima los objetivos y metas propios de la función que desempeña; aprovechando procesos, tiempos y recursos para la obtención de resultados.
+Para efectos de la reserva y/o ejercicio de la capacidad en exceso a la requerida para sus operaciones, las empresas productivas del Estado, sus organismos subsidiarios y las empresas en las que los primeros cuenten con participación directa o indirecta participarán en igualdad de condiciones respecto de otros usuarios, en:
 
-###### Artículo 6.
+I. La asignación de capacidad que realice el transportista, o en su caso, el Centro Nacional de Control del Gas Natural, a través de boletines electrónicos, en los términos que establezca la Comisión Reguladora de Energía, y/o
 
-Profesionalismo
+II. Los procesos de Temporada Abierta que lleve a cabo el Transportista o en su caso, el Centro Nacional de Control del Gas Natural para la expansión de sus sistemas en los términos que establezca la Comisión Reguladora de Energía.
 
-Deber de capacitarse y actualizarse de manera permanente.
+Para efecto de lo dispuesto en las fracciones anteriores, en cada caso, deberán preverse los mecanismos necesarios para el cobro y pago de la contraprestación de los servicios correspondientes a dichos contratos.
 
-###### Artículo 7.
+En los procesos previstos en el presente transitorio se establecerán los mecanismos necesarios para salvaguardar los derechos de terceros.
 
-Honradez
+La Secretaría de Hacienda y Crédito Público emitirá los lineamientos financieros y de contraprestaciones a que, en su caso, se sujetarán las transferencias y actividades señaladas en los párrafos anteriores, contando con el apoyo que al efecto requiera de la Comisión Reguladora de Energía.
 
-Actuar con rectitud legal e integridad moral, pues el personal se constituye como un garante de la confianza en la ley y en la justicia, lo cual deberá regir en su actuación.
+En tanto el Centro Nacional de Control del Gas Natural cuenta con los recursos presupuestarios y las capacidades técnicas para realizar las licitaciones de los proyectos de infraestructura del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural, lo que no podrá exceder de veinticuatro meses a partir de la emisión de su Decreto de creación, la Secretaría de Energía podrá determinar que las empresas productivas del Estado realicen dichas licitaciones, previa opinión técnica y autorización de las bases de licitación, por parte de la Comisión Reguladora de Energía, la cual deberá resolver en un plazo máximo de treinta días hábiles, o se entenderá autorizada.
 
-Asimismo, implica desempeñar el cargo con lealtad y honestidad, obteniendo únicamente la remuneración y contraprestación que el Estado otorga para el desempeño de la función.
+Petróleos Mexicanos y sus organismos subsidiarios se considerarán como usuarios del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural.
 
-###### Artículo 8.
+La Comisión Reguladora de Energía otorgará al Centro Nacional de Control del Gas Natural el Permiso como gestor independiente del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural en un plazo máximo de sesenta días naturales a partir de la emisión del Decreto de creación del referido Centro.
 
-Respeto a los Derechos Humanos
+Décimo Tercero.- La Comisión Reguladora de Energía continuará sujetando las ventas de primera mano de Hidrocarburos, Petrolíferos o Petroquímicos a principios de regulación asimétrica con objeto de limitar el poder dominante de Petróleos Mexicanos, en tanto se logra una mayor participación de agentes económicos que propicien el desarrollo eficiente y competitivo de los mercados, para lo cual tomará en cuenta, en lo que proceda, lo establecido en materia de precios en la Ley de Ingresos sobre Hidrocarburos.
 
-Deber de actuar con estricto respeto a los derechos humanos, reconociéndolos como los límites del ejercicio de la autoridad frente a los gobernados, de conformidad con los principios de:
+La venta de primera mano se entiende como la primera enajenación, en territorio nacional, que realice Petróleos Mexicanos, sus organismos subsidiarios o divisiones, y cualquier otra empresa productiva del Estado, o una Persona Moral, por cuenta y orden del Estado, a un tercero o entre ellos. Dicha venta deberá realizarse a la salida de las plantas de procesamiento, las refinerías, los puntos de inyección de producto importado, Ductos de Internación o en los puntos de inyección de los Hidrocarburos provenientes de manera directa de campos de producción. Petróleos Mexicanos o sus organismos subsidiarios, así como cualquier otra empresa productiva del Estado, o una Persona Moral, por cuenta y orden del Estado, podrán comercializar Hidrocarburos, Petrolíferos o Petroquímicos siempre que desagregue los distintos servicios que preste y el precio de venta de primera mano del producto de que se trate.
 
-I. Universalidad: que establecen que los derechos humanos corresponden a toda persona por el simple hecho de serlo;
+La comercialización que realicen personas controladas por Petróleos Mexicanos o sus organismos subsidiarios, podrá realizarse en puntos distintos a los señalados en el párrafo anterior. Esta actividad también se sujetará a regulación asimétrica con objeto de limitar el poder dominante de las citadas personas, en tanto se logra una mayor participación de agentes económicos que propicien el desarrollo eficiente y competitivo de los mercados.
 
-II. Interdependencia: que implica que los derechos humanos se encuentran vinculados íntimamente entre sí;
+La regulación de las ventas de primera mano incluirá la aprobación y expedición de los términos y condiciones generales, así como la expedición de la metodología para el cálculo de sus precios. En estas materias, se deberá observar la práctica común en mercados desarrollados de Hidrocarburos, Petrolíferos y Petroquímicos y los precios deberán reflejar, entre otros, el costo de oportunidad y las condiciones y prácticas de competitividad en el mercado internacional de dichos productos.
 
-III. Indivisibilidad: que refiere que los derechos humanos conforman una totalidad, de tal forma que son complementarios e inseparables, y
+En todo caso, se deberán observar las obligaciones de no discriminación previstas en esta Ley.
 
-IV. Progresividad: que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección.
+El incumplimiento de la regulación que la Comisión Reguladora de Energía establezca sobre los términos y condiciones de ventas de primera mano y sus precios, se sancionará por dicha Comisión con multas de ciento cincuenta mil días a setenta y cinco millones de días de salario mínimo general vigente en el Distrito Federal.
 
-###### Artículo 9.
+Décimo Cuarto.- En relación con los mercados de gasolina y diésel se observará lo siguiente:
 
-Honestidad
+I. En materia de precios:
 
-Cualidad humana que radica en conducirse y expresarse con coherencia y sinceridad, respetando los valores de la verdad y justicia.
+a) A partir de la entrada en vigor de la presente Ley y en lo que reste del año 2014, la determinación de los precios al público se realizará conforme a las disposiciones vigentes.
+
+b) A partir del 1o. de enero de 2015 y, como máximo, hasta el 31 de diciembre de 2017 la regulación sobre precios máximos al público de gasolinas y diésel será establecida por el Ejecutivo Federal mediante acuerdo. Dicho acuerdo deberá considerar las diferencias relativas por costos de transporte entre regiones y las diversas modalidades de distribución y expendio al público, en su caso.
+
+Asimismo, la política de precios máximos al público que se emita deberá prever ajustes de forma congruente con la inflación esperada de la economía y, en caso de que los precios internacionales de estos combustibles experimenten alta volatilidad, el Ejecutivo Federal preverá mecanismos de ajuste que permitan revisar al alza los incrementos de los citados precios, de manera consistente con la evolución del mercado internacional.
+
+c) A partir del 1o. de enero de 2018 los precios se determinarán bajo condiciones de mercado.
+
+II. A partir de la entrada en vigor de la presente Ley y, como máximo, hasta el 31 de diciembre de 2016, únicamente se podrán otorgar permisos para la importación de gasolinas y diésel a Petróleos Mexicanos o sus empresas productivas subsidiarias.
+
+A partir del 1o. de enero de 2017, o antes si las condiciones de mercado lo permiten, los permisos para la importación de gasolinas y diésel podrán otorgarse a cualquier interesado que cumpla con las disposiciones jurídicas aplicables.
+
+Los permisos para el Expendio al Público de gasolinas y diésel serán otorgados por la Comisión Reguladora de Energía a partir del 1° de enero de 2016.
+
+III. La vigencia de los contratos de suministro que suscriban Petróleos Mexicanos, sus empresas productivas subsidiarias o sus empresas filiales no podrá exceder del 31 de diciembre de 2016.
+
+Lo anterior, sin perjuicio de que, a partir del 1o. de enero de 2017, Petróleos Mexicanos, sus empresas productivas subsidiarias o sus empresas filiales puedan celebrar contratos de suministro bajo las nuevas condiciones de mercado.
+
+Los contratos de suministro que suscriban Petróleos Mexicanos, sus empresas productivas subsidiarias o sus empresas filiales no podrán estar condicionados a la celebración de contratos de franquicia, ni limitar a las partes del contrato de suministro a darlo por terminado de manera unilateral, en tanto que a juicio de la Comisión Federal de Competencia Económica se presenten condiciones de competencia efectiva.
+
+En todo momento, en caso de que a juicio de la Comisión Federal de Competencia Económica se presenten condiciones de competencia efectiva con anterioridad a los plazos señalados en la presente disposición transitoria, dichos plazos se reducirán hasta la fecha de la declaratoria que emita la referida Comisión, en cuyo caso los precios se determinarán bajo condiciones de mercado.
+
+Décimo Quinto.- La Comisión Reguladora de Energía deberá emitir dentro de los trescientos sesenta y cinco días naturales posteriores a la entrada en vigor de esta Ley los criterios generales de acceso abierto a que se sujetará la infraestructura de Transporte, Almacenamiento y Distribución de Petrolíferos.
+
+Décimo Sexto.- A más tardar el 31 de diciembre de 2015, la Agencia establecerá las disposiciones administrativas de carácter general para regular:
+
+I. El diseño, construcción, operación y mantenimiento de las instalaciones destinadas al Expendio al Público de Petrolíferos, y
+
+II. El diseño, construcción, operación y mantenimiento de equipos e infraestructura para realizar las actividades de Transporte, Almacenamiento y Distribución de Petrolíferos.
+
+Como parte de la regulación que emita, la Agencia podrá instruir la adopción y observancia de estándares técnicos internacionales.
+
+Décimo Séptimo.- La Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía desarrollarán el sistema de información para dar cumplimiento a los artículos 88, 89 y 90 de esta Ley, respectivamente, a más tardar doce meses después de su entrada en vigor.
+
+Décimo Octavo.- Con el fin de cumplir con las atribuciones que le establece el presente ordenamiento, la Secretaría de Economía creará una unidad especializada que se encargará de:
+
+I. Dar seguimiento a las estrategias para el fomento industrial de Cadenas Productivas locales y para el fomento de la inversión directa en la industria de Hidrocarburos y elaborar y publicar el informe sobre los avances en la implementación de las mismas;
+
+II. Proponer la metodología para medir el contenido nacional en Asignaciones y Contratos de Exploración y Extracción, así como en las otras actividades a que se refiere el artículo 2 de esta Ley, y
+
+III. Verificar el cumplimiento de las metas de contenido nacional establecidas en las Asignaciones y Contratos de Exploración y Extracción.
+
+Dicha unidad contará con las áreas y estructura necesarias para ejercer las facultades señaladas en esta Ley. La Cámara de Diputados realizará las acciones necesarias para proveer de recursos presupuestarios a la unidad especializada a que se refiere el presente transitorio, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
+
+Se realizarán las acciones necesarias para que la Secretaría de Economía emita la metodología para medir el contenido nacional a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Con base en dicha metodología, la Secretaría de Economía calculará el contenido nacional observado en las áreas en Exploración y en los campos en Extracción en el primer semestre de 2014, y lo publicará a más tardar dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley. Lo anterior con el fin de contar con la línea base para establecer los requerimientos de contenido nacional en Asignaciones y Contratos para la Exploración y Extracción según el tipo de área o campo en que se llevará a cabo dichas actividades.
+
+En tanto la Secretaría de Economía emite la metodología y efectúa los cálculos de contenido nacional a que se refiere el párrafo anterior, las Asignaciones preverán que el porcentaje mínimo de contenido nacional al que se sujetarán, se definirá posteriormente mediante una modificación a los términos y condiciones de las mismas.
+
+Décimo Noveno.- Los contratos de obras, servicios, proveeduría u operación suscritos por Petróleos Mexicanos, con fundamento en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo a que se refiere el Segundo Transitorio de esta Ley y las disposiciones a que se refiere el Tercero Transitorio de la presente Ley, continuarán en vigor bajo los términos y condiciones en que hayan sido suscritos.
+
+Vigésimo.- El Servicio Geológico Mexicano establecerá la coordinación necesaria con la Comisión Nacional de Hidrocarburos, a efecto de que, en un plazo no mayor a ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, se le transfiera a esta última toda la información sobre el potencial gasífero asociado a yacimientos de carbón mineral con que cuente hasta la fecha o cualquier otra información que le pueda ser de utilidad, conforme a sus atribuciones de Exploración y Extracción de Hidrocarburos.
+
+Vigésimo Primero.- En tanto entra en funciones la Agencia, de acuerdo con lo previsto en la Ley de la materia, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán regulando y supervisando, en el ámbito de sus atribuciones, la industria de los Hidrocarburos en materia de seguridad industrial y operativa.
+
+Vigésimo Segundo.- Durante los dos años siguientes a la entrada en vigor de esta Ley, los plazos o términos previstos en ella, que correspondan a la Secretaría de Energía, a la Comisión Nacional de Hidrocarburos y a la Comisión Reguladora de Energía, se ampliarán hasta por un tercio del tiempo previsto en esta Ley.
+
+Vigésimo Tercero.- En tanto se lleva a cabo su transición a empresas productivas del Estado, las disposiciones de esta Ley aplican a Petróleos Mexicanos y a sus organismos subsidiarios, así como a la Comisión Federal de Electricidad.
+
+Vigésimo Cuarto.- El porcentaje mínimo promedio de contenido nacional en materia de Exploración y Extracción de Hidrocarburos, a que se refiere el primer párrafo del artículo 46 de esta Ley, aumentará de forma gradual a partir de 25% en 2015 hasta llegar al menos a 35% en 2025, debiendo revisarse con posterioridad cada cinco años.
+
+Dicha meta excluirá actividades en aguas profundas y ultra profundas, para lo cual la Secretaría de Economía, con la opinión de la Secretaría de Energía, establecerá los valores para 2015 y 2025, con base en el estudio que realice del contenido nacional observado en dichas actividades al primer semestre de 2014.
+
+Vigésimo Quinto.- Dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley, se realizarán las acciones necesarias para que el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales para la Industria Petrolera Estatal, constituido en términos del Artículo Décimo Cuarto Transitorio de la Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008, se transforme en el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales de la Industria Energética a que se refiere el artículo 127 de esta Ley.
+
+Vigésimo Sexto.- Cuando los Permisionarios incrementen la capacidad de ductos de Transporte de Gas Natural objeto de permisos otorgados con anterioridad a la expedición de la presente Ley y financiados por usuarios, cuyo diseño haya sido considerado para satisfacer sus necesidades de consumo propio, así como alguna posible amplitud financiada por el mismo usuario, podrán recuperar un porcentaje de los costos invertidos en el incremento de capacidad en los términos y condiciones que establezca la Comisión Reguladora de Energía.
+
+Vigésimo Séptimo.- A partir de la entrada en vigor de esta Ley y hasta el 31 de diciembre de 2015, la regulación y permisos para el Transporte, Almacenamiento y Distribución que no se encuentren vinculados a ductos, así como para el Expendio al Público de Gas Licuado de Petróleo serán expedidos por la Secretaría de Energía. Durante este plazo, las disposiciones y metodologías para determinar las tarifas máximas aplicables a dicho Transporte, Almacenamiento y Distribución serán emitidas por la Secretaría de Energía, con el apoyo técnico de la Comisión Reguladora de Energía.
+
+Vigésimo Octavo.- Los contratos integrales de exploración y producción o contratos de obra pública financiada, que se encuentren vigentes, que hayan sido originalmente licitados y suscritos por Petróleos Mexicanos o sus organismos subsidiarios previo a la entrada en vigor de esta Ley no sufrirán modificación alguna en sus términos y condiciones como resultado de la publicación de la misma.
+
+Las partes de dichos contratos podrán solicitar conjuntamente a la Secretaría de Energía, la migración de la Asignación a un Contrato para la Exploración y Extracción sin necesidad de agotar el procedimiento de licitación previsto en la presente Ley. Esta migración se realizará con base en los lineamientos técnicos que establezca la Secretaría de Energía y las condiciones económicas relativas a los términos fiscales, que conforme a la Ley de Ingresos sobre Hidrocarburos, disponga la Secretaría de Hacienda y Crédito Público, siempre y cuando no se afecte el balance de los ingresos esperados para el Estado. En la elaboración de los lineamientos técnicos a que se refiere este artículo, la Secretaría de Energía solicitará opinión a Petróleos Mexicanos.
+
+Las Secretarías de Energía y de Hacienda y Crédito Público informarán a las partes los términos contractuales y fiscales que al efecto establezcan. En caso de que los lineamientos técnicos y los términos contractuales y fiscales propuestos no resulten aceptables a las partes una vez realizada la petición de migración, éstas tendrán el derecho a mantener su relación contractual original bajo los contratos integrales de exploración y producción o contratos de obra pública financiada según corresponda.
+
+En caso de que las partes manifiesten su conformidad a los términos contractuales y fiscales propuestos, la Secretaría de Energía aprobará la migración y procederá la formalización de un Contrato para la Exploración y Extracción que se firmará por parte de la Comisión Nacional de Hidrocarburos y la asociación o alianza que para este propósito específico constituyan la empresa productiva subsidiaria y la Persona Moral respectiva, de acuerdo con las políticas que dicte el Consejo de Administración de Petróleos Mexicanos.
+
+Previo a la firma del Contrato para la Exploración y Extracción, deberá haberse dado por terminado de manera anticipada el contrato integral de exploración y producción o el contrato de obra pública financiada, según corresponda, sin que se ocasionen daños, perjuicios, sanciones o cualquier otra consecuencia punitiva a ninguna de las partes y debiendo salvaguardarse los derechos de terceros.
+
+Las inversiones realizadas con motivo de la ejecución del correspondiente contrato, podrán ser reconocidas por las partes como aportación de capital por parte de quien sea titular de las mismas a la asociación o alianza constituida entre estas para la ejecución y administración del Contrato.
+
+Vigésimo Noveno.- En relación con el Expendio al Público de Gas Licuado de Petróleo, se observará lo siguiente:
+
+I. Hasta en tanto no se implemente un programa de apoyos focalizados a los consumidores de Gas Licuado del Petróleo, los precios máximos al público serán establecidos por el Ejecutivo Federal mediante acuerdo. Dicho acuerdo deberá considerar las diferencias relativas por costos de transporte entre regiones y las diversas modalidades de distribución y expendio al público, en su caso. Asimismo, la política de precios máximos al público que se emita deberá prever, en caso de que los precios internacionales de estos combustibles experimenten alta volatilidad, mecanismos de ajuste que permitan revisar al alza los incrementos de los citados precios, de manera consistente con la evolución del mercado internacional.
+
+El Gobierno Federal deberá instrumentar el programa de apoyos focalizados a que se refiere esta fracción a más tardar el 31 de diciembre de 2016. Dicho programa de apoyos focalizados deberá promover el aprovechamiento sustentable de la energía y la mayor generación posible de valor agregado y el uso eficiente de recursos.
+
+Los precios al público de Gas Licuado de Petróleo se determinarán bajo condiciones de mercado a partir del 1o. de enero de 2017 o antes, en la fecha en que se haya implementado el programa de apoyos focalizados a los consumidores a que se refiere el párrafo primero de esta fracción, y
+
+II. A partir de la entrada en vigor de la presente Ley y, como máximo hasta el 31 de diciembre de 2015, sólo se podrán otorgar permisos para la importación de Gas Licuado de Petróleo a Petróleos Mexicanos, sus subsidiarias y empresas filiales.
+
+A partir del 1o. de enero de 2016, o antes si las condiciones del mercado lo permiten, los permisos a que se refiere esta fracción se podrán otorgar a cualquier interesado que cumpla con las disposiciones jurídicas aplicables.
+
+Trigésimo.- A más tardar dentro de los doce meses posteriores a la entrada en vigor de la presente Ley, el Ejecutivo Federal realizará las adecuaciones que correspondan a la organización y funcionamiento del Instituto Mexicano del Petróleo, con el fin de que pueda participar de manera competitiva y eficaz en la atención de las necesidades de investigación, desarrollo tecnológico y capacitación que tengan los distintos participantes del sector Hidrocarburos.
+
+Trigésimo Primero.- Durante los primeros dos años contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Energía y la Comisión Nacional de Hidrocarburos podrán contratar las adquisiciones, arrendamientos y servicios que requieran para la construcción de cuartos de datos y del Centro Nacional de Información de Hidrocarburos, así como los servicios de asesoría legal, que sean necesarios para instrumentar los procesos de licitación de los Contratos para la Exploración y Extracción, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa, acreditando en todo momento los criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado.
+
+Trigésimo Segundo.- Los contratos, convenios o instrumentos de naturaleza jurídica análoga a que se refiere esta Ley o que estén relacionados con ella por ministerio de ley, no podrán prever cláusula o acuerdo de voluntad alguno, que otorgue exclusividad o preferencia ilícitas en beneficio de organización empresarial, social o sindical alguna.
+
+## N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE HIDROCARBUROS Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INVERSIÓN EXTRANJERA; LEY MINERA, Y LEY DE ASOCIACIONES PÚBLICO PRIVADAS.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
