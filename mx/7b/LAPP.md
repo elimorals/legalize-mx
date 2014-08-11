@@ -4,7 +4,7 @@ identifier: "LAPP"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-16"
-last_updated: "2014-07-14"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAPP"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de enero de 2012.
 
@@ -108,13 +108,11 @@ III. La Ley Federal de Procedimiento Administrativo; y
 
 IV. El Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 10.
 
-Los esquemas de asociación público-privada regulados en la presente Ley son opcionales y podrán utilizarse en relación con actividades cuya legislación específica prevea la libre participación del sector privado, o bien, mediante el otorgamiento de permisos, autorizaciones o concesiones, para la prestación de los servicios correspondientes y en ningún caso podrán referirse a:
-
-I. En las actividades sustantivas de carácter productivo a que se refieren los artículos 3o. y 4o. de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, y
-
-II. En los demás casos en los que las disposiciones aplicables señalen que no pueda intervenir el sector privado.
+Los esquemas de asociación público-privada regulados en la presente Ley son opcionales y podrán utilizarse en relación con actividades cuya legislación específica prevea la libre participación del sector privado, o bien, mediante, el otorgamiento de permisos, autorizaciones o concesiones, para la prestación de los servicios correspondientes y no podrán referirse a los casos en los que las disposiciones aplicables señalen que no pueda intervenir el sector privado.
 
 ###### Artículo 11.
 
@@ -1725,6 +1723,12 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
