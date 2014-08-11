@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "2012-04-09"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1975-12-10"
 
 LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA INDUSTRIA ELÉCTRICA, PUBLICADA EN EL D.O.F. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DEL CAPÍTULO II DE LA LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA, ASÍ COMO TODAS AQUELLAS DISPOSICIONES QUE TENGAN POR OBJETO LA ORGANIZACIÓN, VIGILANCIA Y FUNCIONAMIENTO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, SEGUIRÁN SIENDO APLICABLES HASTA EN TANTO NO ENTRE EN VIGOR LA NUEVA LEY QUE TENGA POR OBJETO REGULAR LA ORGANIZACIÓN DE LA COMISIÓN FEDERAL DE ELECTRICIDAD.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 22 de diciembre de 1975.
 
@@ -367,7 +369,7 @@ II.- Por la realización de trabajos de mantenimiento, reparaciones normales, am
 
 III.- Por defectos en las instalaciones del usuario o negligencia o culpa del mismo.
 
-(DEROGADO ULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992
+(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1992
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
@@ -503,7 +505,7 @@ En el otorgamiento de los permisos a que se refiere este artículo, deberá obse
 
 5) Serán causales de revocación de los permisos correspondientes, a juicio de la Secretaría de Energía, el incumplimiento de las disposiciones de esta Ley, o de los términos y condiciones establecidos en los permisos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 36
 
@@ -561,7 +563,7 @@ Salvo lo dispuesto en el inciso c) de la fracción IV del artículo 36, no se re
 
 ### CAPITULO VI. Sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 40.
 
@@ -585,7 +587,7 @@ VI.- A quien establezca plantas de autoabastecimiento, de cogeneración, de prod
 
 VII.- A quien incurra en cualquiera otra infracción a las disposiciones de esta ley o de su reglamento.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -695,7 +697,7 @@ México, D. F., 8 de diciembre de 1975.- Oscar Bravo Santos, D. V. P.- Emilio M.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez días del mes de diciembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Industria y Comercio, José Campillo Sáinz.- Rúbrica.- El Secretario de Patrimonio Nacional, Francisco Javier Alejo López.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de la Presidencia, Ignacio Ovalle Fernández.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
@@ -737,7 +739,7 @@ TERCERO.- Para una mayor atención y eficiente despacho de los asuntos de la com
 
 D.O.F. 22 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
 
@@ -756,3 +758,225 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE QUE EXPIDE LA LEY DE LA INDUSTRIA ELÉCTRICA, LA LEY DE ENERGÍA GEOTÉRMICA Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS NACIONALES.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los siguientes artículos.
+
+Segundo. Con la salvedad a que se refiere el párrafo siguiente, se abroga la Ley del Servicio Público de Energía Eléctrica, publicada en el Diario Oficial de la Federación el 22 de diciembre de 1975 y se derogan las demás disposiciones que se opongan al presente Decreto.
+
+El Capítulo II de la Ley del Servicio Público de Energía Eléctrica, así como todas aquellas disposiciones que tengan por objeto la organización, vigilancia y funcionamiento de la Comisión Federal de Electricidad, seguirán siendo aplicables hasta en tanto no entre en vigor la nueva Ley que tenga por objeto regular la organización de la Comisión Federal de Electricidad.
+
+Los permisos y contratos de autoabastecimiento, cogeneración, producción independiente, pequeña producción, importación, exportación y usos propios continuos otorgados o tramitados al amparo de la Ley del Servicio Público de Energía Eléctrica continuarán rigiéndose en los términos establecidos en la citada Ley y las demás disposiciones emanadas de la misma, y en lo que no se oponga a lo anterior, por lo dispuesto en la Ley de la Industria Eléctrica y sus transitorios.
+
+Tercero. Durante el periodo de reestructura de la industria eléctrica, la Comisión Federal de Electricidad y el Centro Nacional de Control de Energía (CENACE), según corresponda, continuarán prestando los servicios de generación, transmisión, distribución, comercialización y Control Operativo del Sistema Eléctrico Nacional con la finalidad de mantener la Continuidad del Suministro Eléctrico.
+
+La Secretaría de Energía coordinará la reestructura de la industria eléctrica, definirá los plazos del periodo de reestructura y establecerá las políticas y acciones que se requieran para conducir los procesos para su implementación.
+
+Por única ocasión, la Secretaría de Energía emitirá las primeras Reglas del Mercado. Dichas Reglas incluirán las Bases del Mercado Eléctrico y las Disposiciones Operativas del Mercado que la Secretaría de Energía determine. Para efectos de dicha emisión, la Secretaría de Energía deberá observar lo previsto en el Título Tercero A de la Ley Federal de Procedimiento Administrativo.
+
+La Secretaría de Energía ejercerá la vigilancia del Mercado Eléctrico Mayorista en los términos del artículo 104 de la Ley de la Industria Eléctrica, con el apoyo técnico de la Comisión Reguladora de Energía, hasta que concluya el primer año de operaciones de dicho mercado. Al final de dicho periodo, las facultades de vigilancia se ejercerán por la Comisión Reguladora de Energía, de conformidad con el artículo 12 de la Ley de la Industria Eléctrica.
+
+La Secretaría de Energía interpretará la Ley para efectos administrativos durante el periodo de reestructura de la industria eléctrica, para fomentar la eficiencia, Calidad, Confiabilidad, Continuidad, seguridad y sustentabilidad del Sistema Eléctrico Nacional durante dicho periodo y para asegurar la implementación eficiente y racional de dicha reestructura.
+
+La Secretaría de Energía declarará la entrada en operación del Mercado Eléctrico Mayorista. Las disposiciones de la Ley de la Industria Eléctrica que requieren dicho Mercado estarán vigentes a partir de dicha entrada en operación.
+
+Cuarto. La Comisión Federal de Electricidad realizará la separación contable, operativa, funcional y legal que corresponda a cada una de las actividades de generación, transmisión, distribución y comercialización. La Secretaría de Energía y la Comisión Reguladora de Energía, en el ámbito de sus atribuciones, establecerán los términos bajo los cuales la Comisión Federal de Electricidad llevará a cabo dicha separación, la cual será vertical entre las distintas líneas de negocio y horizontal entre una misma línea de negocio, conforme a lo siguiente:
+
+I. Las actividades de generación, transmisión, distribución y comercialización dentro de la Comisión Federal de Electricidad observarán una estricta separación vertical, que deberá ser legal;
+
+II. La generación deberá observar una separación legal, desde el punto de vista horizontal, en un número tal de unidades de negocio diferentes que fomente la operación eficiente del sector y se sujete a criterios de competencia y libre concurrencia en el mismo, y
+
+III. La distribución deberá observar una separación horizontal por regiones, que podrá ser contable, operativa y funcional o legal, de manera tal que permita fomentar la operación eficiente del sector y contar con información para realizar análisis comparativos de desempeño y eficiencia en las operaciones.
+
+La separación señalada en este artículo se realizará con el presupuesto autorizado de la Comisión Federal de Electricidad. El proceso se realizará con la participación que corresponda al Servicio de Administración y Enajenación de Bienes.
+
+Quinto. A más tardar dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo Federal emitirá el Decreto por el que se crea el Centro Nacional de Control de Energía (CENACE) como Organismo Público Descentralizado de la Administración Pública Federal sectorizado en la Secretaría de Energía. En dicho Decreto se establecerá la organización, funcionamiento y facultades del citado Centro, observando lo establecido en la Ley de la Industria Eléctrica.
+
+Los recursos humanos, materiales y financieros que a la entrada en vigor de este Decreto la Comisión Federal de Electricidad y el Servicio de Administración y Enajenación de Bienes destinen para el Control Operativo del Sistema Eléctrico Nacional, para la definición de especificaciones técnicas y características específicas de la infraestructura requerida para la interconexión de Centrales Eléctricas y Centros de Carga y para la planificación de la ampliación y modernización de la Red Nacional de Transmisión y de los elementos de las Redes Generales de Distribución que correspondan al Mercado Eléctrico Mayorista, se transferirán al Centro Nacional de Control de Energía (CENACE) en un periodo que no excederá de tres meses, contados a partir de la emisión del Decreto por el que se crea el Centro Nacional de Control de Energía, para constituir su patrimonio y cumplir con su objeto, de conformidad con lo que al efecto determine la Secretaría de Energía. La transferencia que se realice incluirá los recursos del Centro Nacional de Control de Energía de la Comisión Federal de Electricidad incluyendo el Centro Nacional (CENAL), el Centro Nacional Alterno (CENALTE), las áreas de control de Mexicali, Hermosillo, Gómez Palacio, Monterrey, Guadalajara, Distrito Federal, Puebla y Mérida y los centros de control de La Paz, y Santa Rosalía, así como la Coordinación de Planificación de la Subdirección de Programación y las demás que determine la Secretaría de Energía.
+
+Durante el periodo de transición del Centro Nacional de Control de Energía (CENACE), la Comisión Federal de Electricidad continuará realizando el Control Operativo del Sistema Eléctrico Nacional y las demás funciones que la Ley de la Industria Eléctrica asigna al Centro Nacional de Control de Energía. Para tales fines, continuará utilizando sus recursos humanos, materiales y financieros, centros y áreas de control, sistemas y subsistemas de dichos centros, los cuales no podrán destinarse a otros fines.
+
+Durante el período en el que se realice la transferencia de los recursos a que hacen mención los dos párrafos anteriores y para garantizar que el Centro Nacional de Control de Energía (CENACE) asuma dicho control en el periodo antes señalado, el Director General de la Comisión Federal de Electricidad realizará las acciones necesarias para que el Centro Nacional de Control de Energía de la citada Comisión mantenga el Control Operativo del Sistema Eléctrico Nacional con Continuidad y Calidad, asegurando el cumplimiento a lo previsto en el artículo Décimo Séptimo Transitorio del presente Decreto. La Secretaría de Energía estará facultada para emitir las disposiciones necesarias para ejecutar las medidas referidas en este artículo.
+
+El Centro Nacional de Control de Energía (CENACE) dará a la Comisión Federal de Electricidad el apoyo necesario, hasta por doce meses posteriores a su creación, para que continúe operando las redes del Servicio Público de Transmisión y Distribución de Energía Eléctrica en condiciones de Continuidad, eficiencia y seguridad.
+
+Respetando en todo momento los derechos de los trabajadores, durante el período comprendido entre la fecha de entrada en vigor del presente Decreto y la fecha de emisión del Decreto por el que se crea el Centro Nacional de Control de Energía (CENACE), la remoción del personal de confianza del Centro Nacional de Control de Energía de la Comisión Federal de Electricidad así como el otorgamiento o revocación de licencias de su personal, será facultad exclusiva de la Junta de Gobierno de la Comisión Federal de Electricidad. En dicho periodo, cualquier ajuste a los sueldos y prestaciones del personal en mención requerirá la autorización de la Junta de Gobierno de la Comisión Federal de Electricidad.
+
+Sexto. Sin perjuicio de los Contratos Legados para el Suministro Básico que se celebren en términos del artículo Décimo Noveno Transitorio, los contratos celebrados entre la Comisión Federal de Electricidad y terceros, vigentes o con pasivos contingentes a la separación de la Comisión Federal de Electricidad a que se refiere el artículo Cuarto Transitorio del presente Decreto, se transferirán a las empresas productivas del Estado, a las empresas productivas subsidiarias, a las empresas filiales de las anteriores o al Centro Nacional de Control de Energía (CENACE), según corresponda, en los términos que defina la Secretaría de Energía. Bajo ninguna circunstancia dicha transferencia causará la rescisión de dichos contratos o la extinción de las obligaciones contenidas en ellos. Los permisos, autorizaciones, licencias, concesiones y demás instrumentos asignados a la Comisión Federal de Electricidad a la entrada en vigor del presente Decreto se transferirán en los términos que defina la Secretaría de Energía, conservando su vigencia.
+
+Séptimo. La Comisión Reguladora de Energía expedirá o autorizará los modelos de contrato que resulten de la Ley de la Industria Eléctrica dentro de un periodo de nueve meses, contados a partir de su entrada en vigor.
+
+Octavo. El Centro Nacional de Control de Energía (CENACE) celebrará los contratos y convenios requeridos con las personas que soliciten ser Participantes del Mercado y con los Transportistas y los Distribuidores en un periodo que no excederá de tres meses contados a partir de la emisión de los contratos respectivos o de la recepción de la solicitud correspondiente.
+
+Noveno. Lo previsto en las presentes disposiciones transitorias no afectará los derechos de los trabajadores activos, jubilados y pensionados de la Comisión Federal de Electricidad, los cuales serán respetados conforme a lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
+
+Décimo. Los permisos otorgados conforme a la Ley que se abroga se respetarán en sus términos. Los permisos de autoabastecimiento, cogeneración, pequeña producción, producción independiente, importación, exportación y usos propios continuos conservarán su vigencia original, y los titulares de los mismos realizarán sus actividades en los términos establecidos en la Ley del Servicio Público de Energía Eléctrica y las demás disposiciones emanadas de la misma y, en lo que no se oponga a lo anterior, por lo dispuesto en la Ley de la Industria Eléctrica y sus transitorios.
+
+Los titulares de los permisos de autoabastecimiento, cogeneración, pequeña producción, producción independiente, exportación y usos propios continuos podrán solicitar la modificación de dichos permisos por permisos con carácter único de generación, a fin de realizar sus actividades al amparo de la Ley de la Industria Eléctrica. Las modificaciones a estos permisos serán formalizadas por voluntad de los permisionarios. Aquellos permisionarios cuyos permisos se modifiquen conforme a lo previsto en este transitorio, podrán solicitar y obtener, durante los cinco años siguientes a la modificación, el restablecimiento de las condiciones de dichos permisos y de los Contratos de Interconexión Legados celebrados al amparo de ellos, tal y como existían con anterioridad a la modificación. El restablecimiento de estas condiciones en ningún caso prorrogará la vigencia original de los Contratos de Interconexión Legados, ni podrá realizarse en más de una ocasión.
+
+A partir de la entrada en vigor de la Ley de la Industria Eléctrica y previo a la entrada en operación del Mercado Eléctrico Mayorista se podrá importar energía eléctrica y Productos Asociados en términos de las disposiciones que emita la Comisión Reguladora de Energía para reglamentar dichas transacciones. A partir de la entrada en operación del Mercado Eléctrico Mayorista, se podrá importar energía eléctrica y Productos Asociados en los términos de la Ley de la Industria Eléctrica.
+
+Los permisos de importación y exportación expedidos con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica servirán para cumplir los requisitos de autorización a que se refieren los artículos 17 y 22 de dicha Ley, para las Centrales Eléctricas y Centros de Carga incluidos en ellas.
+
+Décimo Primero. La Comisión Federal de Electricidad o sus unidades a las que se asignen Centrales Eléctricas deberán obtener los permisos de generación correspondientes.
+
+Décimo Segundo. Los Contratos de Interconexión Legados no serán prorrogados una vez terminada su vigencia. Los instrumentos vinculados a los Contratos de Interconexión Legados podrán actualizarse bajo las condiciones previstas en los propios Contratos de Interconexión Legados, siempre y cuando su vigencia no exceda el término del contrato principal.
+
+Cuando los Contratos de Interconexión Legados o sus instrumentos vinculados prevean la modificación de sus términos, dichas modificaciones se formalizarán sin afectar las fechas de vigencia de los Contratos de Interconexión Legados. Bajo los términos que se encuentren estipulados en los mismos Contratos de Interconexión Legados, las modificaciones podrán consistir en:
+
+I. Alta, baja y modificación de Centros de Carga, denominados puntos de carga en dichos contratos;
+
+II. Venta de excedentes, y
+
+III. Servicio de respaldo.
+
+Los instrumentos vinculados a los Contratos de Interconexión Legados se respetarán en los términos de la Ley del Servicio Público de Energía Eléctrica hasta la conclusión de la vigencia de los contratos respectivos, incluyendo los siguientes:
+
+I. Reconocimiento de potencia autoabastecida;
+
+II. Porteo estampilla;
+
+III. Banco de energía, y
+
+IV. Las demás condiciones otorgadas a proyectos de generación con energía renovable y cogeneración eficiente.
+
+Con respecto a los Centros de Carga y la capacidad de las Centrales Eléctricas que se mantengan incluidos en los Contratos de Interconexión Legados, los permisionarios sólo podrán realizar las transacciones permitidas por estos contratos y las demás disposiciones aplicables a ellos, por lo que no estarán obligados al cumplimiento del artículo 104 de la Ley de la Industria Eléctrica, y no podrán adquirir o enajenar energía eléctrica o Productos Asociados en el Mercado Eléctrico Mayorista o a través de los Participantes del Mercado.
+
+Con respecto a los Centros de Carga y la capacidad de las Centrales Eléctricas que se mantengan incluidos en los Contratos de Interconexión Legados:
+
+I. Los titulares sólo podrán efectuar las transacciones contenidas en sus permisos y Contratos de Interconexión Legados, por lo que no les aplicarán las reglas a que se refiere el tercer párrafo del artículo 8 de la Ley de la Industria Eléctrica;
+
+II. Las disposiciones a que se refiere el artículo 19 de la Ley de la Industria Eléctrica no limitarán las actividades contempladas en los permisos y Contratos de Interconexión Legados;
+
+III. Para efectos de los artículos 43, 64 y 98 de la Ley de la Industria Eléctrica y las contraprestaciones a que se refiere el artículo 25 de la Ley de la Industria Eléctrica, los titulares de los Contratos de Interconexión Legados se sujetarán a lo dispuesto en los permisos respectivos y en los Contratos de Interconexión Legados, y
+
+IV. El artículo 48 de la Ley de la Industria Eléctrica no será aplicable a los titulares de los Contratos de Interconexión Legados.
+
+El servicio de respaldo contemplado en los Contratos de Interconexión Legados será administrado por el Centro Nacional de Control de Energía (CENACE) sujeto a las tarifas que establezca la Comisión Reguladora de Energía. La Secretaría de Energía determinará los demás derechos y obligaciones de los Contratos de Interconexión Legados que se asumirán por la Comisión Federal de Electricidad y el Centro Nacional de Control de Energía (CENACE). La Comisión Reguladora de Energía actualizará las metodologías de cálculo correspondientes a fin de respetar los términos de los Contratos de Interconexión Legados.
+
+En los términos de las Reglas del Mercado, podrán recibir el Suministro Básico los Centros de Carga que cumplan, en su totalidad, con los siguientes requisitos:
+
+I. Se incluyan en un Contrato de Interconexión Legado;
+
+II. A la fecha de entrada en vigor de la Ley de la Industria Eléctrica cuenten con un contrato de suministro de Servicio Público de Energía Eléctrica por la demanda a incluirse en el Suministro Básico;
+
+III. No se incluyan en el registro de Usuarios Calificados, y
+
+IV. Las Centrales Eléctricas incluidas en el Contrato de Interconexión Legado no hayan sido incluidas en un contrato de interconexión celebrado en los términos de la Ley de la Industria Eléctrica.
+
+La insuficiencia o excedente financiero que, en su caso, se genere por el mantenimiento de condiciones de los Contratos de Interconexión Legados, se distribuirá entre todos los Participantes del Mercado, en los términos de las Reglas del Mercado.
+
+Décimo Tercero. Las solicitudes de permiso de autoabastecimiento, cogeneración, producción independiente, pequeña producción, importación o exportación realizadas con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica se resolverán en los términos de la Ley del Servicio Público de Energía Eléctrica. Dichos permisos se regirán por la Ley del Servicio Público de Energía Eléctrica y las demás disposiciones que emanen de la misma y, en lo que no se oponga a lo anterior, por lo dispuesto en la Ley de la Industria Eléctrica y sus transitorios.
+
+Los permisionarios que cumplan con lo establecido con alguna de las fracciones I o II siguientes y con los demás requisitos para celebrar un contrato de interconexión podrán ejercer la opción de celebrar un Contrato de Interconexión Legado con vigencia de hasta 20 años:
+
+I. Cuando se presenten las siguientes circunstancias:
+
+a) Con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica, el interesado haya solicitado permiso para el proyecto de generación y pagado los derechos correspondientes o haya obtenido dicho permiso;
+
+b) El interesado notifique a la Comisión Reguladora de Energía su intención de continuar con el proyecto, dentro de los 60 días siguientes a la entrada en vigor de la Ley de la Industria Eléctrica, y
+
+c) El interesado compruebe a la Comisión Reguladora de Energía, a más tardar el 31 de diciembre de 2016, haber pactado el financiamiento completo del proyecto, y haber comprometido la adquisición de los equipos principales y erogado para la adquisición de activos fijos por lo menos el 30% de la inversión total requerida en el proyecto; la Comisión Reguladora de Energía podrá extender este plazo en proyectos cuyos montos de inversión justifiquen un plazo mayor, o
+
+II. Cuando se haya asignado capacidad de transmisión al interesado mediante su participación en una temporada abierta organizada por la Comisión Reguladora de Energía, con anterioridad a la entrada en vigor de la Ley de la Industria Eléctrica y haya cumplido con las aportaciones y garantías requeridas.
+
+Se cancelarán los Contratos de Interconexión Legados celebrados al amparo de la fracción I anterior, así como los derechos a celebrarlos, en los siguientes casos:
+
+I. Cuando la Comisión Reguladora de Energía haya resuelto en sentido negativo la solicitud de permiso, o
+
+II. Cuando el interesado no demuestre a la Comisión Reguladora de Energía la operación comercial de la capacidad total contemplada en el Contrato de Interconexión Legado a más tardar el 31 de diciembre de 2019. En casos particulares, la Comisión Reguladora de Energía podrá extender este plazo por causas justificadas.
+
+Décimo Cuarto. Los titulares o integrantes de las sociedades titulares de Contratos de Interconexión Legados podrán celebrar contratos de Participante del Mercado en modalidad de Generador para representar en el Mercado Eléctrico Mayorista a parte o toda la capacidad de las Centrales Eléctricas incluidas en los contratos de interconexión, sujetándose a las Reglas del Mercado. Los Centros de Carga contemplados por dichos contratos de interconexión podrán incluirse en el registro de Usuarios Calificados.
+
+La capacidad de las Centrales Eléctricas que se representará en el Mercado Eléctrico Mayorista debe:
+
+I. Excluirse del Contrato de Interconexión Legado y el permiso a él asociado, y
+
+II. Incluirse en un contrato de interconexión celebrado en los términos de la Ley de la Industria Eléctrica, y en un permiso de Generación emitido en términos de la misma.
+
+Los Centros de Carga que se incluyan en el registro de Usuarios Calificados deberán:
+
+I. Excluirse del Contrato de Interconexión Legado y el permiso asociado con ello, y
+
+II. Incluirse en un contrato de conexión celebrado en los términos de la Ley de la Industria Eléctrica y en el registro de Usuarios Calificados.
+
+No se requerirán cobros o estudios de factibilidad para excluir capacidad de generación y Centros de Carga de los Contratos de Interconexión Legados y los permisos asociados e incluir los mismos en contratos de interconexión y permisos de generación en los términos de la Ley de la Industria Eléctrica, siempre y cuando dichas modificaciones a esos instrumentos no se combinen con alguna otra.
+
+Cuando los Generadores y Usuarios Calificados celebren nuevos contratos de interconexión y contratos de conexión, podrán realizar las transacciones a que se refiere la Ley de la Industria Eléctrica. Las Reglas del Mercado establecerán los procedimientos requeridos para que las Centrales Eléctricas puedan operar parte de su capacidad en el marco de un Contrato de Interconexión Legado y parte de su capacidad en el Mercado Eléctrico Mayorista.
+
+Los titulares de Contratos de Interconexión Legados o convenios de transmisión que incluyan el servicio de transmisión a la fecha de la entrada en vigor de la Ley de la Industria Eléctrica tendrán la opción de adquirir, sin costo, los Derechos Financieros de Transmisión correspondientes a los usos históricos de los Centros de Carga asociados, al celebrar nuevos contratos de conexión conforme a los modelos emitidos en los términos de dicha Ley. Los Suministradores de Servicios Básicos tendrán la opción de adquirir, sin costo, los Derechos Financieros de Transmisión que corresponden a los usos históricos de los Centros de Carga que representen, siempre y cuando dichos Centros de Carga se suministren por el Suministro Básico. La vigencia de dichos instrumentos no rebasará la vigencia del contrato o convenio respectivo o la vida útil esperada de las Centrales Eléctricas asociadas con ellas, en los términos de las Reglas del Mercado. Las Reglas del Mercado podrán prever que, en lugar de recibir los Derechos Financieros de Transmisión, su titular reciba los ingresos netos que resulten de la venta de los mismos.
+
+Si el servicio de transmisión incluido en los Contratos de Interconexión Legados y los usos históricos rebasa la capacidad física de la Red Nacional de Transmisión y las Redes Generales de Distribución a la entrada en vigor de la Ley de la Industria Eléctrica, el Centro Nacional de Control de Energía (CENACE) prorrateará el monto factible de Derechos Financieros de Transmisión entre los Participantes del Mercado correspondientes.
+
+Décimo Quinto. Podrán incluirse en el registro de Usuarios Calificados:
+
+I. Los Centros de Carga incluidos en los Contratos de Interconexión Legados a la fecha de entrada en vigor de la Ley de la Industria Eléctrica;
+
+II. Los demás Centros de Carga que reporten una demanda igual o mayor a 3 Megawatts, durante el primer año de vigencia de la Ley de la Industria Eléctrica. Este nivel se reducirá:
+
+a) Al menos a 2 Megawatts al final del primer año de vigencia de la Ley de la Industria Eléctrica, y
+
+b) Al menos a 1 Megawatts al final del segundo año de vigencia de la Ley de la Industria Eléctrica, y
+
+III. Los demás Centros de Carga que cumplan con las disposiciones respectivas que emita la Secretaría de Energía.
+
+Décimo Sexto. Los Centros de Carga que se incluyan en los Contratos de Interconexión Legados estarán exentos de los requerimientos de obtener Certificados de Energías Limpias, siempre y cuando las Centrales Eléctricas contempladas en los mismos contratos produzcan energía eléctrica a partir de Energías Limpias en cuantía suficiente para cubrir la totalidad del consumo de dichos Centros de Carga, en términos de los criterios aplicables para el otorgamiento de Certificados de Energías Limpias. No se otorgarán Certificados de Energías Limpias por la producción de dichas Centrales Eléctricas, aun cuando su producción exceda los requerimientos de los Centros de Carga asociados.
+
+Los Centros de Carga y la capacidad de las Centrales Eléctricas que se incluyan en nuevos contratos de interconexión y contratos de conexión en los términos de la Ley de la Industria Eléctrica estarán obligados al cumplimiento de los requisitos relativos a los Certificados de Energías Limpias y podrán recibir dichos certificados, en los términos de la Ley de la Industria Eléctrica.
+
+Décimo Séptimo. Las solicitudes de interconexión y de Servicio de Transmisión de las Centrales Eléctricas que se regirán por Contratos de Interconexión Legados serán evaluadas en los términos establecidos en la Ley del Servicio Público de Energía Eléctrica y las disposiciones emanadas de la misma.
+
+Hasta la entrada en vigor del Decreto de creación del Centro Nacional de Control de Energía, la Comisión Federal de Electricidad realizará las funciones inherentes a solicitudes de interconexión y de Servicio de Transmisión, incluyendo las relativas a la conexión de Centros de Carga, en forma no discriminatoria y directamente a través del Centro Nacional de Control de Energía.
+
+En un periodo que no excederá de veinte días hábiles siguientes a la entrada en vigor de la Ley de la Industria Eléctrica, la Comisión Federal de Electricidad proporcionará al Centro Nacional de Control de Energía los expedientes completos relacionados con los procesos de interconexión de Centrales Eléctricas y conexión de Centros de Carga.
+
+Las prelaciones en relación con las solicitudes de Servicio de Transmisión válidamente recibidas en los términos establecidos en la Ley del Servicio Público de Energía Eléctrica, así como las determinaciones de la Comisión Federal de Electricidad respecto a las solicitudes de interconexión y de Servicio de Transmisión, emitidas hasta la fecha de entrada en vigor del Decreto de creación del Centro Nacional de Control de Energía, se respetarán. El Centro Nacional de Control de Energía determinará el plazo para la celebración de los convenios correspondientes. En los términos de la Ley del Servicio Público de Energía Eléctrica y las disposiciones emanadas de la misma, los estudios de prefactibilidad y los permisos de generación no generan derechos de prelación u obligaciones para llevar a cabo los proyectos estudiados.
+
+El Centro Nacional de Control de Energía establecerá los criterios para evaluar las solicitudes de interconexión y de Servicio de Transmisión de las Centrales Eléctricas que se regirán por Contratos de Interconexión Legados, respetando los términos establecidos en la Ley del Servicio Público de Energía Eléctrica y las disposiciones emanadas de la misma. Dichos criterios se proporcionarán a la Comisión Reguladora de Energía, la cual estará facultada para requerir, en su caso, la modificación de los mismos.
+
+En tanto se emiten las respectivas Reglas del Mercado, el Centro Nacional de Control de Energía determinará los criterios para la definición de especificaciones técnicas y características específicas de la infraestructura requerida para la interconexión de las Centrales Eléctricas y la conexión de Centros de Carga que se regirán en los términos establecidos en la Ley de la Industria Eléctrica. Dichos criterios se proporcionarán a la Comisión Reguladora de Energía, la cual estará facultada para requerir, en su caso, la modificación de los mismos.
+
+Las bases operativas, criterios, guías, lineamientos, manuales, procedimientos y demás disposiciones aplicables a la conexión de Centros de Carga seguirán vigentes hasta que se sustituyan, en su caso, por el Centro Nacional de Control de Energía o por las Reglas del Mercado. Los procesos de conexión de Centros de Carga que se encuentren en trámite a la entrada en vigor de este Decreto y aquellos que se tramiten posteriormente se regirán por las disposiciones mencionadas hasta que sean sustituidas.
+
+Décimo Octavo. Sin perjuicio de lo dispuesto en el Décimo Noveno Transitorio del presente Decreto, los contratos de producción independiente de energía que amparan Centrales Externas Legadas, los convenios de compraventa de excedentes de energía eléctrica (energía económica), los contratos de compromiso de compraventa de energía eléctrica para pequeño productor y la parte proporcional de los contratos de la Comisión Federal de Electricidad para el transporte y suministro de combustibles asociados con lo anterior que se encuentren vigentes a la separación de la Comisión Federal de Electricidad a que se refiere el Cuarto Transitorio del presente Decreto se administrarán por las unidades de la Comisión Federal de Electricidad que la Secretaría de Energía designe.
+
+Asimismo, la Secretaría designará las unidades de la Comisión Federal de Electricidad responsables de completar los procesos de licitación, celebrar y administrar los contratos respectivos y supervisar la construcción de las Centrales Eléctricas que se hayan incluido en el Presupuesto de Egresos de la Federación para su desarrollo en modalidad de inversión condicionada a la entrada en vigor de la Ley de la Industria Eléctrica.
+
+Los procedimientos para la adición o sustitución de la capacidad de generación establecidos en la Sección duodécima del Reglamento de la Ley del Servicio Público de Energía Eléctrica se aplicarán para la ejecución de los proyectos que, a la entrada en vigor del presente Decreto, la Comisión Federal de Electricidad haya programado para su inclusión en el Presupuesto de Egresos de la Federación de 2015. La Comisión Federal de Electricidad será responsable de completar los procesos de licitación asociados con dichos proyectos. Los Programas de Obras e Inversiones del Sector Eléctrico que sean aprobados por la Secretaría en los doce meses posteriores a la entrada en vigor de la Ley de la Industria Eléctrica se utilizarán en lugar de los programas de ampliación y modernización de la Red Nacional de Transmisión y de las Redes Generales de Distribución a que se refiere dicha Ley, hasta en tanto la Secretaría de Energía autorice dichos programas.
+
+Durante el periodo comprendido entre la entrada en vigor de la Ley de la Industria Eléctrica y el inicio de operación del Mercado Eléctrico Mayorista, la Comisión Federal de Electricidad y sus Suministradores de Servicios Básicos podrán celebrar Contratos de Cobertura Eléctrica sin requerir las subastas a que se refiere el artículo 53 de este Decreto. La adjudicación de dichos contratos se determinará mediante procesos competitivos, realizados en los términos de la normatividad vigente.
+
+En ningún caso los contratos de producción independiente de energía que amparan Centrales Externas Legadas y sus garantías, celebrados con la Comisión Federal de Electricidad, se tendrán por rescindidos debido a la entrada en vigor de la Ley de la Industria Eléctrica, la Ley de la Comisión Federal de Electricidad o las disposiciones que emanen de las mismas.
+
+Las Centrales Externas Legadas serán representadas en el Mercado Eléctrico Mayorista por las unidades de la Comisión Federal de Electricidad que la Secretaría de Energía designe, por las capacidades contratadas. Dichas unidades serán titulares de la energía eléctrica y Productos Asociados que produzcan las referidas Centrales Eléctricas, en los términos de los contratos respectivos, hasta por las capacidades contratadas. Los titulares de dichas Centrales Eléctricas serán titulares de la energía eléctrica y Productos Asociados que produzcan en exceso de los montos vendidos al amparo de los contratos en mención, y podrán designar a cualquier Generador para su representación en el Mercado Eléctrico Mayorista.
+
+Los Certificados de Energías Limpias que deriven de la producción de energía eléctrica a partir de Energías Limpias en las Centrales Externas Legadas se asignarán en beneficio de los Usuarios del Suministro Básico durante la vigencia de los contratos correspondientes. Los Generadores facilitarán el acceso a la información necesaria para el otorgamiento de dichos certificados.
+
+Décimo Noveno. Los Suministradores de Servicios Básicos tendrán la opción de celebrar Contratos Legados para el Suministro Básico bajo la figura de Contratos de Cobertura Eléctrica, con precios basados en los costos y contratos respectivos, que abarcan la energía eléctrica y Productos Asociados de cada Central Eléctrica Legada y cada Central Externa Legada.
+
+Con el fin de minimizar los costos del Suministro Básico, la Secretaría de Energía, con opinión de la Comisión Reguladora de Energía, establecerá los términos, plazos, criterios, bases y metodologías de los Contratos Legados para el Suministro Básico y determinará los mecanismos de evaluación de los Contratos Legados para el Suministro Básico. Estos mecanismos podrán ejecutarse de manera coordinada o independiente de las subastas señaladas en el artículo 53 de la Ley de la Industria Eléctrica. Los Suministradores de Servicios Básicos celebrarán los Contratos Legados para el Suministro Básico que resulten de dichos mecanismos.
+
+Los Contratos de Cobertura Eléctrica a que se refiere este artículo se asignarán para la reducción de las tarifas finales del Suministro Básico.
+
+En caso de terminación anticipada de un contrato de producción independiente de energía por causas imputables a la Comisión Federal de Electricidad, ésta cubrirá la diferencia entre los precios contractuales de la Central Externa Legada y el costo para los Suministradores de Servicios Básicos de adquirir la energía eléctrica y Productos Asociados equivalentes, sin perjuicio de las responsabilidades que correspondan.
+
+Vigésimo. Las Especificaciones del Suministrador de la Comisión Federal de Electricidad preservarán su vigencia, en tanto la Comisión Reguladora de Energía emite nuevos estándares que las sustituyan.
+
+Para asegurar el funcionamiento eficiente de la industria eléctrica, la Comisión Reguladora de Energía podrá eximir a los organismos de certificación, laboratorios de pruebas, unidades de verificación y unidades de inspección de sujetarse a la estricta separación legal a que se refiere el artículo 8 de la Ley de la Industria Eléctrica, por un periodo que no rebase doce meses contado a partir de la entrada en vigor de la Ley de la Industria Eléctrica.
+
+Vigésimo Primero. En tanto se expiden las disposiciones reglamentarias y administrativas derivadas de la Ley de la Industria Eléctrica, se continuarán aplicando, en lo que no se oponga a la misma, las expedidas con anterioridad a su entrada en vigor.
+
+Vigésimo Segundo. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir con las atribuciones conferidas en esta Ley.
+
+Vigésimo Tercero.- La industria eléctrica se sujetará a la regulación relativa al control y reducción de emisiones contaminantes que establezcan las autoridades en la materia. También estará obligada a participar, junto con el resto de las industrias y actividades emisoras, en aquellos mecanismos de mercado que las autoridades ambientales establezcan con el fin de mitigar la emisión de contaminantes de carácter local, regional o global.
+
+Vigésimo Cuarto.- Los contratos, convenios o instrumentos de naturaleza jurídica análoga a que se refiere esta Ley o que estén relacionados con ella por ministerio de ley, no podrán prever cláusula o acuerdo de voluntad alguno, que otorgue exclusividad o preferencia ilícitas en beneficio de organización empresarial, social o sindical alguna.
+
+## N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE QUE EXPIDE LA LEY DE LA INDUSTRIA ELÉCTRICA, LA LEY DE ENERGÍA GEOTÉRMICA Y SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS NACIONALES.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
