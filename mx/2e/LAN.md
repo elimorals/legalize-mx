@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2013-06-07"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -142,7 +142,7 @@ XXXV. "Los Consejos": Los Consejos de Cuenca;
 
 XXXVI. "Los Organismos": Los Organismos de Cuenca;
 
-XXXVII. "Materiales Pétreos": Materiales tales como arena, grava, piedra y/o cualquier otro tipo de material utilizado en la construcción, que sea extraído de un vaso, cauce o de cualesquiera otros bienes señalados en Artículo (sic) 113 de esta Ley;
+XXXVII. "Materiales Pétreos": Materiales tales como arena, grava, piedra y/o cualquier otro tipo de material utilizado en la construcción, que sea extraído de un vaso, cauce o de cualesquiera otros bienes señalados en (sic) Artículo 113 de esta Ley;
 
 XXXVIII. "Normas Oficiales Mexicanas": Aquellas expedidas por "la Secretaría", en los términos de la Ley Federal sobre Metrología y Normalización referidas a la conservación, seguridad y calidad en la explotación, uso, aprovechamiento y administración de las aguas nacionales y de los bienes nacionales a los que se refiere el Artículo 113 de esta Ley;
 
@@ -201,6 +201,10 @@ LIX. "Uso Pecuario": La aplicación de aguas nacionales para la cría y engorda 
 LX. "Uso Público Urbano": La aplicación de agua nacional para centros de población y asentamientos humanos, a través de la red municipal;
 
 LXI. "Vaso de lago, laguna o estero": El depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+LXI BIS. “Yacimiento geotérmico hidrotermal”: Aquel definido en términos de la Ley de Energía Geotérmica;
 
 LXII. "Zona de Protección": La faja de terreno inmediata a las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad nacional, en la extensión que en cada caso fije "la Comisión" o el Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para su protección y adecuada operación, conservación y vigilancia, de acuerdo con lo dispuesto en los reglamentos de esta Ley;
 
@@ -1156,9 +1160,9 @@ No se requerirá concesión para la extracción de aguas marinas interiores y de
 
 Las aguas nacionales del subsuelo podrán ser libremente alumbradas mediante obras artificiales, salvo cuando por causas de interés o utilidad pública el Titular del Ejecutivo Federal establezca zona reglamentada, de veda o de reserva o bien suspenda o limite provisionalmente el libre alumbramiento mediante Acuerdos de carácter general.
 
-> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-Para el establecimiento de zonas reglamentadas de veda o reserva, el Ejecutivo Federal, a iniciativa de “la Comisión” que se apoyará en las propuestas que elaboren los Organismos de Cuenca, publicará la declaratoria que se expida cuando se comprueben condiciones de sobreexplotación para acuíferos y unidades hidrogeológicas específicas, cuidando de deslindar cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos superiores, en relación con otras unidades hidrogeológicas que contengan acuíferos inferiores, acuicludos y acuitardos, existentes en la misma zona geográfica a distintas profundidades, en función de sus zonas de recarga y descarga, estratos geológicos que las contengan, condiciones de flujo y almacenamiento y comportamiento en relación con su uso y aprovechamiento. Para ello, “la Comisión” deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes con el objeto de sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
+El Ejecutivo Federal, a propuesta de “la Comisión”, emitirá la declaratoria de zonas reglamentadas, de veda o de reserva, deslindando, cuando así se requiera, la aplicación de las disposiciones que se establezcan para acuíferos definidos por “la Comisión”, en relación con otros acuíferos o yacimientos geotérmicos hidrotermales que existan en la misma zona geográfica. Para ello, “la Comisión” deberá realizar, por sí o con el apoyo de terceros cuando resulte conveniente, los estudios y evaluaciones suficientes para sustentar los deslindamientos referidos y promover el mejor aprovechamiento de las fuentes de aguas del subsuelo.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -1654,7 +1658,7 @@ III. Cuando afecte el caudal mínimo ecológico, que forma parte del Uso Ambient
 
 IV. Cuando el solicitante no cumpla con los requisitos que exige la Ley;
 
-V. Cuando se trate de una transmisión de derechos en ciernes y el titular original no haya pagado oportunamente la cuota de garantía referida en el Numeral 3 de la Fracción VI del Artículo 29 BIS 3 de la presente Ley, además se cuente con elementos suficientes para determinar que existe un acaparamiento o concentración del recurso agua (sic) tendiente a prácticas monopólicas contrarias al interés social;
+V. Cuando se trate de una transmisión de derechos en ciernes y el titular original no haya pagado oportunamente la cuota de garantía referida en el Numeral 3 de la Fracción VI del Artículo 29 BIS 3 de la presente Ley, además se cuente con elementos suficientes para determinar que existe un acaparamiento o concentración del recurso (sic) agua tendiente a prácticas monopólicas contrarias al interés social;
 
 VI. Cuando se afecten aguas sujetas a convenios internacionales, cuando las solicitudes no se adecuen a dichos convenios, a lo establecido en la presente Ley y demás ordenamientos legales aplicables;
 
@@ -2404,11 +2408,27 @@ Las personas físicas o morales deberán solicitar concesión a "la Comisión" c
 
 No se requerirá concesión, en los términos de los reglamentos de la presente Ley, para la explotación, uso o aprovechamiento de aguas nacionales en pequeña escala para generación hidroeléctrica conforme a la ley aplicable en la materia.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 81.
 
-La explotación, el uso o aprovechamiento de aguas de subsuelo en estado de vapor o con temperatura superior a ochenta grados centígrados, cuando se pueda afectar un acuífero, requerirán de la concesión previa para generación geotérmica u otros usos, además de evaluar el impacto ambiental.
+Los interesados en realizar trabajos de exploración con fines geotérmicos, deberán solicitar a "la Comisión" permiso de obra para el o los pozos exploratorios, en términos de lo dispuesto por la Ley de Energía Geotérmica y su Reglamento.
+
+La explotación, uso y aprovechamiento de aguas del subsuelo, contenidas en yacimientos geotérmicos hidrotermales, requiere de concesión de agua otorgada por "la Comisión" y de autorización en materia de impacto ambiental.
+
+Las concesiones de agua a que alude el párrafo anterior serán otorgadas de conformidad con los requisitos establecidos en la Ley de Energía Geotérmica y su Reglamento. En todo caso, la dependencia ante la cual se realizarán los trámites relativos a su otorgamiento y modificación, será la que señala el artículo 2 fracción XVI de la Ley de Energía Geotérmica.
+
+Como parte de los requisitos que establece la Ley de Energía Geotérmica y su Reglamento para el otorgamiento de concesiones de agua, el interesado deberá presentar a la dependencia a que alude el párrafo anterior, los estudios del yacimiento geotérmico hidrotermal que determinen su localización, extensión, características y conexión o independencia con los acuíferos adyacentes o sobreyacentes.
+
+Los estudios y exploraciones realizados por los interesados deberán determinar la ubicación del yacimiento geotérmico hidrotermal con respecto a los acuíferos, la probable posición y configuración del límite inferior de éstos, las características de las formaciones geológicas comprendidas entre el yacimiento y los acuíferos, entre otros aspectos.
+
+Si los estudios demuestran que el yacimiento geotérmico hidrotermal y los acuíferos sobreyacentes no tienen conexión hidráulica directa, el otorgamiento de la concesión de agua por parte de "la Comisión", no estará sujeta a la disponibilidad de agua de los acuíferos ni a la normatividad relativa a las zonas reglamentadas, vedas y reservas, respectivas.
+
+"La Comisión" otorgará al solicitante, a través de la dependencia a que la alude la fracción XVI del artículo 2 de la Ley de Energía Geotérmica, la concesión de agua correspondiente sobre el volumen de agua solicitado por el interesado y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento.
+
+Se requerirá permiso de descarga y autorización en materia de impacto ambiental cuando el agua de retorno se vierta a cuerpos receptores que sean aguas nacionales y demás bienes nacionales o cuando se trate de la disposición al subsuelo de los recortes de perforación. La reincorporación del agua de retorno al yacimiento geotérmico hidrotermal, requiere permiso de obra para el pozo de inyección.
+
+Las concesiones de agua otorgadas por "la Comisión", podrán ser objeto de modificación en caso de alteración de los puntos de extracción o inyección, redistribución de volúmenes, relocalización, reposición y cierre de pozos.
 
 ### Capítulo IV. Uso en Otras Actividades Productivas
 
@@ -3477,3 +3497,9 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
