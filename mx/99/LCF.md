@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2013-12-09"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACIÓN FISCAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -60,39 +60,69 @@ La información financiera que generen las entidades federativas y los municipio
 
 El Fondo General de Participaciones se constituirá con el 20% de la recaudación federal participable que obtenga la federación en un ejercicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos de minería, disminuidos con el total de las devoluciones por dichas contribuciones y excluyendo los conceptos que a continuación se relacionan:
 
-La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre la extracción de petróleo y de minería, disminuidos con el total de las devoluciones por dichas contribuciones y excluyendo los conceptos que a continuación se relacionan:
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-I. Los derechos adicionales o extraordinarios, sobre la extracción de petróleo;
+I. El impuesto sobre la renta derivado de los contratos y asignaciones para la exploración y extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIOS PRIMERO Y NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 II. El impuesto sobre la renta por concepto de salarios y, en general, por la prestación de un servicio personal subordinado causado por los servidores públicos de la Federación, de las entidades federativas, de los municipios y las demarcaciones territoriales del Distrito Federal, así como de sus organismos autónomos y entidades paraestatales y paramunicipales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 III. La recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de la Ley Federal de Derechos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 IV. Los incentivos que se establezcan en los convenios de colaboración administrativa en materia fiscal federal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 V. El impuesto sobre automóviles nuevos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 VI. La parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades en los términos del artículo 3o.-A de esta Ley;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 VII. La recaudación obtenida en términos de lo previsto en los artículos 2o., fracción II, inciso B) y 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios;
 
-VIII. Las cantidades que se distribuyan a las entidades federativas de acuerdo con lo previsto en los artículos 4o.-A y 4o.-B de esta Ley, y
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-IX. El excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a los ingresos por la obtención de premios a que se refieren los artículos 138 y 169 de la Ley del Impuesto sobre la Renta.
+VIII. Las cantidades que se distribuyan a las entidades federativas de acuerdo con lo previsto en los artículos 4o.-A y 4o.-B de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+IX. El excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a los ingresos por la obtención de premios a que se refieren los artículos 138 y 169 de la Ley del Impuesto sobre la Renta, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+X. El impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el Título Cuarto de la Ley de Ingresos sobre Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+Adicionalmente, la recaudación federal participable estará integrada por el 80.29% de los ingresos petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO TERCER Y CUARTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -115,6 +145,8 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
+
+> <small>(DEROGADO NOVENO PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -162,13 +194,11 @@ IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municip
 
 IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el municipio i en el segundo año inmediato anterior para el cual se efectúa el cálculo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo, a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de dichos productos.
+II.- La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en términos del artículo 92 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos Mexicanos, informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
+La Comisión Nacional de Hidrocarburos informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -276,13 +306,19 @@ La Secretaría de Hacienda y Crédito Público podrá verificar el cumplimiento 
 
 La recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+I. Del total recaudado 9/11 corresponderá a las entidades federativas en función del consumo efectuado en su territorio, de acuerdo con la información que Petróleos Mexicanos y los demás permisionarios para el expendio al público y la distribución de gasolinas y diésel proporcione a la Secretaría de Hacienda y Crédito Público, complementada, en su caso, con la información del Servicio de Administración Tributaria y de la Comisión Reguladora de Energía, siempre y cuando se encuentren adheridas al Sistema Nacional de Coordinación Fiscal.
 
-I. Del total recaudado 9/11 corresponderá a las entidades federativas en función del consumo efectuado en su territorio, de acuerdo con la información que Petróleos Mexicanos proporcione a la Secretaría de Hacienda y Crédito Público, complementada, en su caso, con la información del Servicio de Administración Tributaria, siempre y cuando se encuentren adheridas al Sistema Nacional de Coordinación Fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 Los recursos que obtengan las entidades federativas, municipios y demarcaciones territoriales, de acuerdo a lo previsto en esta fracción, podrán afectarse en términos del artículo 9o. de esta Ley, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que les correspondan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
 
@@ -306,7 +342,9 @@ FCt es el Fondo de Compensación en el año t.
 
 (VÉASE ARCHIVO ANEXO)
 
-La Secretaría de Hacienda y Crédito Público enterará a las entidades las cantidades a que se refiere este artículo, dentro del mes siguiente al entero de dichas cantidades por parte de Petróleos Mexicanos.
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+La Secretaría de Hacienda y Crédito Público enterará a las entidades las cantidades a que se refiere este artículo, dentro del mes siguiente al entero de dichas cantidades por parte de Petróleos Mexicanos, de los permisionarios para actividades de tratamiento y refinación de petróleo, y por aquéllos que realicen la importación al país de gasolinas y diesel.
 
 La Comisión Permanente de Funcionarios Fiscales, en conjunto con la Secretaría de Hacienda y Crédito Público, deberá presentar al Congreso de la Unión una evaluación sobre los resultados y desempeño del Fondo a que se refiere esta fracción, así como sobre la conveniencia de conservar o modificar las reglas de su distribución. Dicha evaluación deberá presentarse en el mes de enero del año 2018 y posteriormente cada 5 años en caso de no modificarse las reglas de distribución.
 
@@ -318,11 +356,11 @@ Los municipios y demarcaciones territoriales recibirán como mínimo el 20% de l
 
 Las entidades deberán incluir en las publicaciones a que se refiere el artículo 6o., último párrafo de esta Ley, los recursos que en términos de este artículo correspondan a sus municipios, y en el caso del Distrito Federal, a sus demarcaciones territoriales, así como acreditar su cumplimiento a la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-###### ARTICULO 4o.-B.
+###### ARTICULO 4o-B.
 
-El Fondo de Extracción de Hidrocarburos estará conformado con el 0.6 por ciento del importe obtenido por el derecho ordinario sobre hidrocarburos pagado por Pemex Exploración y Producción, en términos de lo previsto en el artículo 254 de la Ley Federal de Derechos.
+El Fondo de Extracción de Hidrocarburos estará conformado por los recursos que le transfiera el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en términos del artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -332,9 +370,9 @@ El Fondo a que se refiere este artículo será distribuido entre aquellas entida
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades correspondientes, a más tardar el día 25 del mes posterior a la presentación de los pagos provisionales a que se refiere el artículo 255 de la Ley Federal de Derechos. Asimismo, dicha dependencia efectuará el ajuste que corresponda a los enteros mensuales provisionales, de acuerdo con la declaración definitiva a que se refiere el artículo 254 de dicha Ley.
+La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades correspondientes mensualmente, de forma provisional y, en su caso, efectuará el ajuste anual que corresponda, conforme a las disposiciones que al efecto emita.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2234,56 +2272,40 @@ Décimo Cuarto.- A partir de la entrada en vigor del presente Decreto queda sin 
 
 Décimo Quinto.- El artículo 33, Apartado B, fracción III de la Ley, entrará en vigor a partir del primero de enero de 2016.
 
-## TRANSITORIO
+D.O.F. 11 DE AGOSTO DE 2014.
 
-UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+###### ARTÍCULO SEXTO.
 
-D.O.F. 11 DE MAYO DE 1995.
+Se establecen las siguientes disposiciones transitorias de la Ley de Coordinación Fiscal:
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+I. Las reformas a la Ley de Coordinación Fiscal entrarán en vigor el 1 de enero de 2015;
 
-PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+II. Durante los ejercicios 2015 a 2018, la recaudación federal participable que provenga de los ingresos petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley, estará integrada por los ingresos que resulten de los derechos y de los contratos para la exploración y extracción de hidrocarburos, a que se refiere la Ley de Ingresos sobre Hidrocarburos, que se determinen conforme a las proporciones previstas en la Ley de Ingresos de la Federación del año de que se trate.
 
-TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
+Para determinar la recaudación federal participable referida en el párrafo anterior, se deberá considerar lo siguiente:
 
-D.O.F. 15 DE DICIEMBRE DE 1995.
+a) Tratándose de la proporción de ingresos por derechos a que se refiere la Ley de Ingresos sobre Hidrocarburos, en lugar de aplicar el porcentaje establecido en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, para determinar los ingresos participables, durante los ejercicios fiscales 2015 al 2018 se aplicarán los siguientes:
 
-Disposiciones Transitorias de la Ley de Coordinación Fiscal.
+Ejercicio Fiscal Porcentaje
 
-Artículo Décimo Tercero.- En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
+2015 73.00%
 
-I.- Las reformas y adiciones a la Ley de Coordinación Fiscal entrarán en vigor a partir del 1o. de enero de 1996, con excepción de la reforma al último párrafo del artículo 3o., la cual entrará en vigor a partir del 1o. de enero de 1997.
+2016 74.82%
 
-II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
+2017 76.65%
 
-a) Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia.
+2018 78.47%
 
-b) A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior; se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto Sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
+b) Tratándose de la proporción de ingresos por contratos para la exploración y extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos, se estará a lo dispuesto por el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
 
-Para los estados en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto Sobre Automóviles Nuevos, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
+## TRANSITORIOS
 
-III.- La reforma al tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal, no será aplicable a la deuda contraída por las entidades federativas y municipios al 31 de diciembre de 1995.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-T r a n s i t o r i o s
+Segundo. Durante los ejercicios 2015, 2016, 2017 y 2018 se está a lo siguiente:
 
-Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
+I. Cuando los ingresos observados totales del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo en el ejercicio correspondiente sean superiores a los ingresos estimados para el mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I del artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo, el Gobierno Federal entregará a las entidades federativas y municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente al monto que les correspondería como participaciones de considerar participable, en términos de la Ley de Ingresos del año de que se trate, el monto que resulte de descontar del excedente que se registre entre los ingresos observados y los ingresos estimados, la diferencia existente entre el monto observado correspondiente a la transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 93 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la estimación por el mismo concepto contenida en la Ley de Ingresos de la Federación del año de que se trate.
 
-Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+II. Cuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se integran a la Recaudación Federal Participable conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente a la diferencia entre el monto que les hubiera correspondido como participaciones conforme a las disposiciones citadas, y el monto efectivamente observado conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
 
-D.O.F. 30 DE DICIEMBRE DE 1996.
-
-Disposición Transitoria de la Ley de Coordinación Fiscal
-
-Artículo Décimo Primero.- En relación con las modificaciones a que se refiere el Artículo Décimo que antecede, se estará a lo siguiente:
-
-I.- Se deja sin efecto la reforma al último párrafo del artículo 3o., de la Ley de Coordinación Fiscal, que de conformidad con el Artículo Décimo Tercero, fracción I del Decreto por el que se expiden nuevas leyes fiscales y se modifican otras, publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995, entraría en vigor el 1o. de enero de 1997.
-
-II.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1995 y 1996, se determinará conforme a lo siguiente:
-
-a).- Se considerará como base la información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia, vigente hasta el 31 de diciembre de 1996.
-
-b).- A los precios de los automóviles contenidos en la información a que se refiere la fracción anterior, se aplicará la tarifa a que se refiere el artículo 3o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente al mes en que se efectuó la enajenación.
-
-Para las entidades en que se aplique lo dispuesto en la fracción II del artículo 8o. de la Ley del Impuesto sobre Automóviles Nuevos, vigente hasta el 31 de diciembre de 1996, el impuesto asignable para los años de 1995 y 1996 se determinará conforme a este artículo.
-
-III.- El impuesto asignable correspondiente al impuesto sobre automóviles nuevos a que se refiere el último párrafo del artículo 3o. de la Ley de Coordinación Fiscal, para los años de 1997 y 1998, se determinará conforme a lo establecido en la Ley Federal del Impuesto sobre Automóviles Nuevos, sin considerar las reducciones a que se refieren los artículos quinto y sexto transitorios de la citada Ley.
+Los recursos que se entreguen a las entidades federativas y municipios en términos de la fracción I de este transitorio no podrán ser mayores a 11,800 millones de pesos en el ejercicio correspondiente. El Gobierno Federal realizará la entrega de los recursos que procedan conforme a las fracciones I y II anteriores a más tardar en el mes de febrero del ejercicio siguiente al que corresponda.
