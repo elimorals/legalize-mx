@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-minera-en-materia-de-gas-asociado-a-64743"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-16"
-last_updated: "2011-06-21"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-12-13"
 ---
 # REGLAMENTO DE LA LEY MINERA EN MATERIA DE GAS ASOCIADO A LOS YACIMIENTOS DE CARBON MINERAL
 
-REGLAMENTO DE LA LEY MINERA EN MATERIA DE GAS ASOCIADO A LOS YACIMIENTOS DE CARBON MINERAL
+REGLAMENTO DE LA LEY MINERA EN MATERIA DE GAS ASOCIADO A LOS YACIMIENTOS DE CARBÓN MINERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ARTÍCULO CUARTO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE HIDROCARBUROS Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INVERSIÓN EXTRANJERA; LEY MINERA, Y LEY DE ASOCIACIONES PÚBLICO PRIVADAS, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de diciembre de 2008.
 
@@ -547,8 +549,30 @@ La SENER emitirá las disposiciones referidas en el párrafo anterior en un plaz
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 21 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+###### ARTÍCULO CUARTO.
+
+Se establecen las siguientes disposiciones transitorias de la Ley Minera:
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de la Ley Minera en materia de Gas Asociado a los Yacimientos de Carbón Mineral, publicado en el Diario Oficial de la Federación el 16 de diciembre de 2008.
+
+Tercero.- Las áreas en que hubo o haya asignaciones mineras con potencial para la extracción de gas asociado a los yacimientos de carbón, se considerarán como reservadas, para ello el Ejecutivo Federal mediante Decreto publicado en el Diario Oficial de la Federación establecerá esta Reserva conforme al procedimiento establecido en la presente Ley. Lo previsto en este transitorio no será aplicable para las concesiones mineras que se encuentren vigentes a la entrada en vigor de este Decreto.
+
+Cuarto.- Tratándose de concesiones mineras vigentes a la fecha de la entrada en vigor del presente Decreto, no se requerirá el estudio a que se refiere el artículo 6 de la Ley.
+
+La Secretaría y la Secretaría de Energía podrán elaborar reglas para que las actividades mineras vigentes a la entrada en vigor del presente Decreto coexistan con las actividades de exploración y extracción de petróleo y demás hidrocarburos.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
