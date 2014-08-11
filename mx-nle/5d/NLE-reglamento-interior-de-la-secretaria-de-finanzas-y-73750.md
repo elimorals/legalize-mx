@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-73750"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2011-09-05"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 5 DE SEPTIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -193,7 +193,7 @@ Para la mejor distribución, desempeño y eficacia de sus actividades, el Secret
 
 ### CAPÍTULO CUARTO. DE LAS FACULTADES COMUNES DE LOS SUBSECRETARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 6.
 
@@ -409,7 +409,7 @@ VI. Vigilar que las dependencias y entidades de la Administración Pública Esta
 
 VII. Previo acuerdo con el Subsecretario, autorizar las nuevas asignaciones o incrementos de recursos.
 
-(REUBICADA [N. DE E. ANTES SECCION CUARTA], P.O. 22 DE AGOSTO DE 2011)
+(REUBICADA [N. DE E. ANTES SECCIÓN CUARTA], P.O. 22 DE AGOSTO DE 2011)
 
 #### SECCION QUINTA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
@@ -471,7 +471,7 @@ XXVI. Coordinar las auditorías de recursos humanos y revisiones al sistema de p
 
 XXVII. Tramitar y desarrollar los proyectos y estudios de organización y revisión, en coordinación con las dependencias competentes, de los organigramas oficiales del Gobierno del Estado; asegurando consistencia en la nomenclatura y niveles de los puestos autorizados.
 
-(REUBICADA [N. DE E. ANTES SECCION QUINTA], P.O. 22 DE AGOSTO DE 2011)
+(REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 22 DE AGOSTO DE 2011)
 
 #### SECCION SEXTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES
 
@@ -531,7 +531,7 @@ XIV. Diseñar, administrar, operar y mantener el Sistema de Directorio y Control
 
 XV. Mantener y operar bajo normas de seguridad la infraestructura que integra la red de telecomunicaciones y telefonía del Gobierno del Estado.
 
-(REUBICADA [N. DE E. ANTES SECCION SEXTA], P.O. 22 DE AGOSTO DE 2011)
+(REUBICADA [N. DE E. ANTES SECCIÓN SEXTA], P.O. 22 DE AGOSTO DE 2011)
 
 #### SECCION SÉPTIMA. DE LA DIRECCIÓN JURÍDICA
 
@@ -757,7 +757,7 @@ XXI. Celebrar convenios de coordinación o colaboración fiscal con toda clase d
 
 XXII. Condonar los recargos, multas y demás accesorios impuestos por las unidades administrativas adscritas a la Subsecretaría.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. DE LA COORDINACIÓN GENERAL DE INGRESOS
 
@@ -1165,7 +1165,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 ALFREDO GERARDO GARZA DE LA GARZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE AGOSTO DE 2011.
 
@@ -1174,3 +1174,17 @@ PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias para dar cumplimiento a lo dispuesto en el presente Acuerdo.
 
 TERCERO.- Cuando en la Ley de Egresos del Estado se dé una nueva denominación a cualesquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, dicha unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este Acuerdo.
+
+P.O. 11 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado, publicado en el Periódico Oficial del Estado el día 26 de febrero de 2010.
+
+TERCERO. A partir de su entrada en vigor, quedan derogadas todas las disposiciones que se opongan a lo dispuesto en este Reglamento.
+
+CUARTO. Los asuntos que, a su entrada en vigor, se encuentren en trámite serán turnados a las unidades competentes conforme al presente Reglamento, para su debido trámite y resolución.
+
+QUINTO. Se autoriza al Secretario de Finanzas y Tesorero General del Estado para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias de acuerdo a lo dispuesto en el presente Reglamento.
+
+SEXTO. Cuando en la Ley de Egresos se dé una nueva denominación a cualquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, esa unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este cuerpo de atribuciones.
