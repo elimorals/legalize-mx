@@ -4,7 +4,7 @@ identifier: "FED-ley-de-petroleos-mexicanos-64079"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2008-11-28"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64079&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-11-27"
 ---
 # LEY DE PETROLEOS MEXICANOS
 
-LEY DE PETROLEOS MEXICANOS
+LEY DE PETRÓLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY DE PETRÓLEOS MEXICANOS, PUBLICADA EN EL D.O.F. DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL DÍA SIGUIENTE EN QUE QUEDE DESIGNADO EL NUEVO CONSEJO DE ADMINISTRACIÓN DE PETRÓLEOS MEXICANOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -1272,3 +1274,119 @@ Décimo Quinto. En un plazo máximo de un año, a partir de la publicación del 
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY DE PETRÓLEOS MEXICANOS Y LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS.
+
+## TRANSITORIOS
+
+Primero. La presente Ley entrará en vigor el día siguiente a que quede designado el nuevo Consejo de Administración de Petróleos Mexicanos en términos de la misma y conforme al Transitorio Quinto siguiente, salvo por lo que se señala en los Transitorios Décimo y Décimo Cuarto siguientes.
+
+Segundo. Con las salvedades a que se refiere el Transitorio Décimo siguiente, a partir de la entrada en vigor de la presente Ley se abroga la Ley de Petróleos Mexicanos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008, y se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+Tercero. A partir de la entrada en vigor de esta Ley, Petróleos Mexicanos se transforma por ministerio de ley en una empresa productiva del Estado, por lo que conserva su personalidad jurídica, así como la titularidad de todos los bienes, derechos y obligaciones que le corresponden, excepto los explícitamente señalados en la Ley de Hidrocarburos.
+
+Cuarto. Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano o unidad administrativa de Petróleos Mexicanos o de sus organismos subsidiarios continuarán en vigor en lo que no se opongan a la presente Ley, hasta en tanto los órganos o unidades administrativas competentes determinen su reforma o abrogación.
+
+Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades concedidas por Petróleos Mexicanos o sus organismos subsidiarios con anterioridad a la entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+Quinto. El Ejecutivo Federal deberá designar a los nuevos miembros del Consejo de Administración de Petróleos Mexicanos, conforme a lo dispuesto en esta Ley, dentro de los noventa días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+Por única ocasión y para respetar el escalonamiento previsto en esta Ley, los cinco primeros consejeros independientes del Consejo de Administración de Petróleos Mexicanos designados en términos de esta Ley durarán en su cargo, respectivamente, dos, tres, cuatro, cinco y seis años, según lo determine el Ejecutivo Federal en la designación correspondiente.
+
+En términos de lo dispuesto en el párrafo tercero del Vigésimo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013, en tanto se realizan las designaciones a que se refiere el primer párrafo de esta disposición transitoria, los actuales consejeros del Consejo de Administración de Petróleos Mexicanos permanecerán en sus cargos, y cesarán en sus funciones el día en que se realicen las designaciones referidas.
+
+Las personas que ocupen el cargo de consejero profesional a la entrada en vigor de la presente Ley podrán ser nombradas como consejeros independientes en términos de la misma, siempre que cumplan con los requisitos que al efecto se señalan, no obstante que, conforme a la Ley que se abroga, hayan sido considerados servidores públicos, para los efectos de lo establecido en el artículo 21, fracciones I y III, de esta Ley.
+
+Sexto. El Director General de Petróleos Mexicanos en funciones a la entrada en vigor de la presente Ley permanecerá en su cargo, sin perjuicio de las facultades previstas en la misma para el Consejo de Administración y el Ejecutivo Federal en la materia.
+
+Séptimo. El Consejo de Administración de Petróleos Mexicanos deberá designar al titular de la Auditoría Interna de la empresa dentro de los treinta días naturales siguientes a que dicho Consejo se encuentre integrado en términos de la presente Ley.
+
+Octavo. En materia de empresas productivas subsidiarias y empresas filiales, se observará lo siguiente:
+
+A. Dentro de los cuarenta y cinco días siguientes a que quede instalado el nuevo Consejo de Administración de Petróleos Mexicanos en términos del Transitorio Quinto anterior, el Director General de la empresa deberá presentar a consideración del Consejo su propuesta de esquema para la reorganización corporativa de Petróleos Mexicanos.
+
+Una vez recibida la propuesta señalada, el Consejo de Administración contará con un plazo de hasta tres meses para adecuarla y/o aprobarla, en los términos previstos en esta Ley.
+
+La reorganización corporativa que apruebe el Consejo de Administración se sujetará a lo dispuesto en la presente Ley y a lo siguiente:
+
+I. Deberá prever, al menos, que las actividades de exploración y extracción de hidrocarburos que desarrolle la empresa, sin asociación con particulares, se realicen por una o más empresas productivas subsidiarias cuyo objeto sea exclusivamente el desarrollo de dichas actividades y las demás conexas, de manera separada a las demás actividades que forman parte del objeto de Petróleos Mexicanos. Para tales efectos, los organismos subsidiarios existentes a la entrada en vigor de la presente Ley podrán mantenerse y adoptar la naturaleza de empresas productivas subsidiarias, o reorganizarse para formar una o más nuevas empresas productivas subsidiarias, según lo determine el Consejo de Administración de Petróleos Mexicanos;
+
+II. Los organismos subsidiarios de Petróleos Mexicanos existentes a la entrada en vigor de la presente Ley que realicen actividades distintas a la exploración y extracción de hidrocarburos pasarán a ser empresas filiales, siempre que se cumpla con lo dispuesto en el apartado B, fracciones I y II, de esta disposición transitoria.
+
+En tanto no se cumpla con lo dispuesto en el apartado B, fracciones I y II, siguiente, los organismos subsidiarios señalados en el párrafo anterior podrán mantenerse y adoptar la naturaleza de empresas productivas subsidiarias, o reorganizarse para formar una o más nuevas empresas productivas subsidiarias, según lo determine el Consejo de Administración de Petróleos Mexicanos;
+
+III. El Consejo de Administración de Petróleos Mexicanos deberá emitir y publicar en el Diario Oficial de la Federación, los Acuerdos de Creación de las nuevas empresas productivas subsidiarias, conforme a lo dispuesto en esta Ley;
+
+IV. Cualquier fusión o escisión que se determine en términos de las fracciones I y II, párrafo segundo anteriores, surtirá efectos a partir de la entrada en vigor del Acuerdo de Creación que al efecto emita el Consejo de Administración;
+
+V. No se considerará enajenación la transmisión de bienes, derechos y obligaciones por virtud de la reorganización corporativa a que se refiere el presente apartado A. Asimismo, dicha transmisión y las demás operaciones que deriven directamente de la reorganización corporativa no quedarán gravadas por impuesto federal alguno;
+
+VI. La transmisión de los bienes, derechos y obligaciones que se realicen por virtud de la reorganización corporativa a que se refiere el presente artículo transitorio no requerirá formalizarse en escritura pública, por lo que los Acuerdos de Creación harán las veces de título de propiedad o traslativo de dominio, para todos los efectos jurídicos a que haya lugar, incluida la inscripción en los registros públicos que corresponda;
+
+VII. Las nuevas empresas productivas subsidiarias se subrogarán en todos los derechos y obligaciones de los organismos subsidiarios, según corresponda, anteriores y posteriores a la fecha de entrada en vigor de los Acuerdos de Creación que al efecto se expidan;
+
+VIII. En tanto entren en vigor los Acuerdos de Creación señalados en la fracción III anterior, los organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán su operación y funcionamiento conforme al Decreto que tiene por objeto establecer la estructura, el funcionamiento y el control de los organismos subsidiarios de Petróleos Mexicanos, publicado en el Diario Oficial de la Federación el 21 de marzo de 2012, en lo que no se oponga a lo dispuesto en esta Ley. Dicho Decreto quedará sin efectos en la fecha en que entren en vigor los Acuerdos de Creación, y
+
+IX. A partir de la entrada en vigor de los Acuerdos de Creación señalados en la fracción III anterior, las menciones contenidas en las leyes, reglamentos y disposiciones de cualquier naturaleza respecto de los organismos subsidiarios Pemex-Exploración y Producción, Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación, se entenderán referidas a las nuevas empresas productivas subsidiarias que resulten de la reorganización corporativa a que se refiere este artículo transitorio.
+
+Lo dispuesto en las fracciones V y VI anteriores será aplicable exclusivamente para la primera reorganización corporativa que se realice en Petróleos Mexicanos a partir de la entrada en vigor de la presente Ley.
+
+La reorganización corporativa a que se refiere el presente apartado A podrá surtir efectos cuando haya entrado en vigor el régimen especial conforme al Transitorio Décimo siguiente.
+
+B. En relación con el artículo 59, párrafo tercero, de esta Ley, se estará a lo siguiente:
+
+I. Petróleos Mexicanos podrá crear o participar en empresas filiales a las que se podrá aportar bienes, derechos u obligaciones de las empresas productivas subsidiarias, así como crear o participar en empresas filiales nuevas, conforme al artículo 59, párrafo tercero, de la presente Ley. En todo caso, la creación o participación en tales filiales sólo se aprobará cuando la operación de la empresa filial respectiva sea sustentable, no represente pérdidas que deban cubrirse por los ingresos generados por otras ramas de negocio o divisiones de la empresa, no requiera de trasferencias presupuestarias para su operación, que sus pasivos laborales estén respaldados bajo esquemas sostenibles y que se prevean las acciones necesarias para que Petróleos Mexicanos pueda controlar el manejo de su endeudamiento en consistencia con las disposiciones que le son aplicables a la empresa, y
+
+II. Lo dispuesto en la fracción I anterior deberá ser aprobado por el Consejo de Administración de Petróleos Mexicanos. El Secretario de Hacienda y Crédito Público podrá solicitar que, previo a la decisión que se adopte, se cuente con un dictamen de un auditor o consultor externo independiente sobre los aspectos señalados en el párrafo anterior.
+
+Los miembros del Consejo de Administración serán responsables del cumplimiento de lo dispuesto en esta disposición transitoria.
+
+Noveno. La modificación de la naturaleza jurídica de Petróleos Mexicanos, sus organismos subsidiarios y filiales, a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013, así como la presente Ley, no deberá afectar en forma alguna los derechos de sus trabajadores en activo ni los de sus jubilados y pensionados.
+
+Décimo. El régimen especial previsto en la presente Ley para Petróleos Mexicanos y sus empresas productivas subsidiarias, en materia de presupuesto, deuda, adquisiciones, arrendamientos, servicios y obras, responsabilidades administrativas, bienes, remuneraciones y empresas productivas subsidiarias y empresas filiales, entrará en vigor hasta que se encuentre en funciones el nuevo Consejo de Administración de Petróleos Mexicanos y estén en operación los mecanismos de fiscalización, transparencia y rendición de cuentas que prevé esta Ley.
+
+Para tales efectos, el Consejo de Administración de Petróleos Mexicanos notificará a la Secretaría de Energía la actualización de los supuestos señalados en el párrafo anterior, para que la dependencia emita la declaratoria respectiva, misma que deberá publicarse en el Diario Oficial de la Federación.
+
+En tanto se emite la declaratoria señalada en el párrafo anterior, las disposiciones legales y administrativas vigentes a la entrada en vigor de esta Ley en materia de presupuesto, deuda, adquisiciones, arrendamientos, servicios y obras, responsabilidades administrativas, bienes, remuneraciones y empresas productivas subsidiarias y empresas filiales, seguirán siendo aplicables.
+
+Sin perjuicio de lo dispuesto en los párrafos anteriores, el nuevo régimen en materia de adquisiciones, arrendamientos, servicios y obras será aplicable hasta que el nuevo Consejo de Administración de Petróleos Mexicanos expida las disposiciones a que se refiere el artículo 76 de esta Ley.
+
+Décimo Primero. En tanto cobre aplicación lo señalado en el párrafo primero del Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, la Unidad de Responsabilidades a que se refiere el artículo 90 de la Ley de Petróleos Mexicanos dependerá jerárquicamente de la Secretaría de la Función Pública, su titular será nombrado por dicha dependencia y se regirá para su organización, operación y funcionamiento conforme a las disposiciones aplicables a las áreas de responsabilidades de los órganos internos de control.
+
+Al entrar en aplicación la disposición transitoria señalada en el párrafo anterior, la organización, funcionamiento y operación de la Unidad de Responsabilidades se regirá por las disposiciones jurídicas que al efecto se expidan.
+
+Décimo Segundo. Los procedimientos de contratación de Petróleos Mexicanos o sus organismos subsidiarios que hubieren iniciado conforme a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas, continuarán tramitándose hasta su conclusión conforme a las disposiciones de dichos ordenamientos, según corresponda, hasta su total conclusión.
+
+Décimo Tercero. Los contratos, convenios y otros actos jurídicos celebrados por Petróleos Mexicanos y sus organismos subsidiarios, que se encuentren vigentes a la entrada en vigor de la presente Ley, se respetarán en los términos pactados. No obstante lo anterior, Petróleos Mexicanos y sus organismos subsidiarios o las empresas productivas subsidiarias que resulten de la reorganización corporativa que determine el Consejo de Administración conforme al Transitorio Octavo anterior, podrán pactar su modificación para ajustarlos a las disposiciones de esta Ley y las demás leyes que resulten aplicables, con base en los lineamientos que emita el Consejo de Administración de Petróleos Mexicanos y sin perjuicio de lo dispuesto en la Ley de Hidrocarburos.
+
+A los contratos integrales de exploración y producción de hidrocarburos que Petróleos Mexicanos y sus organismos subsidiarios hayan celebrado con anterioridad a la entrada en vigor de la presente Ley, les será aplicable lo dispuesto en la fracción X del artículo 76 de la misma, a partir de la publicación de este ordenamiento.
+
+Décimo Cuarto. Los artículos 97 a 99 de esta Ley entrarán en vigor el 1 de enero de 2015, por lo que el dividendo estatal comenzará a cobrarse en el ejercicio fiscal 2016.
+
+Para asegurar un manejo responsable de las finanzas públicas, el dividendo estatal que el Estado determine para el ejercicio fiscal 2016 será, como mínimo, equivalente al 30% de los ingresos después de impuestos que generen Petróleos Mexicanos y sus empresas productivas subsidiarias durante el año 2015 por las actividades sujetas a la Ley de Ingresos sobre Hidrocarburos. El nivel mínimo señalado se reducirá para los siguientes ejercicios hasta alcanzar un 15% en el año 2021 y 0% en el año 2026. A partir del año 2027, se estará a lo dispuesto en la presente Ley.
+
+En tanto entran en vigor los artículos mencionados en el primer párrafo anterior, serán aplicables respecto de Petróleos Mexicanos y sus organismos subsidiarios o las empresas productivas subsidiarias, durante los ejercicios fiscales 2014 y 2015, las facultades previstas en el artículo 26, párrafos cuarto y quinto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en el artículo 6o. de la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2014 y la que corresponda al ejercicio fiscal 2015.
+
+Décimo Quinto. Las empresas de participación estatal mayoritaria Compañía Mexicana de Exploraciones, S.A. de C.V.; I.I.I. Servicios, S.A. de C.V.; Instalaciones Inmobiliarias para Industrias, S.A. de C.V., y P.M.I. Comercio Internacional, S.A. de C.V. mantendrán la naturaleza y régimen de operación a la entrada en vigor de la presente Ley, salvo por lo dispuesto en los artículos 48 y 49 de la Ley Orgánica de la Administración Pública Federal.
+
+Lo anterior, sin perjuicio de las facultades que podrá ejercer el Consejo de Administración de Petróleos Mexicanos respecto a dichas empresas, conforme a lo dispuesto en esta Ley.
+
+Décimo Sexto. Los recursos humanos, financieros y materiales que se requieran para cumplir con lo dispuesto en esta Ley serán cubiertos con el presupuesto aprobado de Petróleos Mexicanos.
+
+Décimo Séptimo. Petróleos Mexicanos, sus organismos subsidiarios y filiales, con la participación de la representación sindical, establecerán los mecanismos que resulten necesarios para la debida capacitación de sus recursos humanos, con la finalidad de garantizar su eficacia, productividad y competitividad en la industria de los hidrocarburos y en la consecución de su objeto.
+
+Décimo Octavo. Los trámites en materia de presupuesto y deuda iniciados por Petróleos Mexicanos y sus organismos subsidiarios con anterioridad a la entrada en vigor del régimen especial en dichas materias, conforme a lo señalado en el Transitorio Décimo anterior, se regirán por las disposiciones vigentes al momento de su inicio, hasta su total conclusión.
+
+## N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDEN LA LEY DE PETRÓLEOS MEXICANOS Y LA LEY DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas a que se refieren los artículos cuarto y quinto del presente Decreto, entrarán en vigor para Petróleos Mexicanos y la Comisión Federal de Electricidad y sus respectivas empresas productivas subsidiarias, conforme a la declaratoria que emita la Secretaría de Energía en términos del Décimo Transitorio de la Ley de Petróleos Mexicanos prevista en el artículo primero del presente Decreto y en el Décimo Cuarto Transitorio de la Ley de la Comisión Federal de Electricidad prevista en el artículo Segundo del presente Decreto.
+
+Tercero. La reforma al artículo 3o. de la Ley Federal de las Entidades Paraestatales entrará en vigor a los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
