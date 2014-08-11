@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-hidrocarburos-64075"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2008-11-28"
+last_updated: "2014-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64075&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-11-27"
 ---
 # LEY DE LA COMISION NACIONAL DE HIDROCARBUROS
 
-LEY DE LA COMISION NACIONAL DE HIDROCARBUROS
+LEY DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA, PUBLICADA EN EL D.O.F DE 11 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -336,3 +338,37 @@ Séptimo.- Petróleos Mexicanos y sus organismos susbsidiarios (sic) deberán pr
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+## N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y, SE EXPIDE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan la Ley de la Comisión Reguladora de Energía, publicada en el Diario Oficial de la Federación el 31 de octubre de 1995 y la Ley de la Comisión Nacional de Hidrocarburos, publicada en el Diario Oficial de la Federación el 28 de noviembre de 2008.
+
+Tercero.- Los Órganos Reguladores Coordinados en Materia Energética deberán expedir su Reglamento Interno dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+La normatividad y regulación emitidas por las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, con anterioridad a la entrada en vigor de la presente Ley, que no se oponga a lo dispuesto en ésta, continuará vigente, sin perjuicio de que pueda ser adecuada, modificada o sustituida, en términos de las disposiciones de esta Ley y las demás aplicables.
+
+Cuarto.- Los Comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora de Energía en funciones, incluidos sus Presidentes, continuarán en su encargo hasta la conclusión del periodo para el que fueron nombrados, sin perjuicio de que puedan ser nombrados nuevamente, por única ocasión para cubrir un nuevo período.
+
+Para nombrar a los dos nuevos Comisionados por cada Comisión, el Presidente de la República deberá someter a consideración del Senado de la República las ternas correspondientes, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+A fin de alcanzar el escalonamiento al que se refiere el artículo 6 del presente ordenamiento, por lo que hace a la Comisión Reguladora de Energía, el Presidente de la República someterá al Senado una terna para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2018, otra para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2019 y una última para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2020. Respecto de la Comisión Nacional de Hidrocarburos, el Presidente de la República someterá al Senado una terna para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2019 y otra para la designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2020.
+
+El mecanismo para la designación del Comisionado Presidente de los Órganos Reguladores Coordinados en Materia Energética, previsto en el artículo 7 de la presente Ley, será aplicable una vez que concluyan su encargo los Comisionados Presidentes en funciones a la entrada en vigor de la presente Ley.
+
+Quinto.- Las personas que a la entrada en vigor del presente Decreto ocupen o hayan ocupado el cargo de Comisionado en cualquiera de los Órganos Reguladores Coordinados en Materia Energética, podrán ser propuestas por el Presidente de la República dentro de la terna respectiva por única ocasión para cubrir un segundo periodo.
+
+Sexto.- Los Órganos Reguladores Coordinados en Materia Energética harán las gestiones necesarias conforme a las disposiciones jurídicas aplicables para que, a más tardar el 31 de diciembre de 2014, se realice la designación de los titulares del Órgano Interno de Control respectivo o, en su caso, la unidad responsable de las funciones de auditoría interna.
+
+En tanto son nombrados dichos servidores públicos, conforme a la disponibilidad de recursos humanos y presupuestarios, el Órgano Interno de Control en la Secretaría de Energía ejercerá sus facultades en relación con los Órganos Reguladores Coordinados en Materia Energética, como lo realiza respecto de los órganos desconcentrados de dicha Dependencia.
+
+## N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y, SE EXPIDE LA LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
