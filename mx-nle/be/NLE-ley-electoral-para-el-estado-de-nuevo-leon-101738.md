@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-para-el-estado-de-nuevo-leon-101738"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-08"
-last_updated: "2014-07-08"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY ELECTORAL PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE AGOSTO DE 2014, EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ELECTORAL PARA EL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE AGOSTO DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 8 de julio de 2014.
 
@@ -323,9 +323,11 @@ El derecho constitucional de asociarse en materia política obliga a que la afil
 
 No se permitirá la celebración de mítines, de reuniones públicas ni de cualquier acto de propaganda política durante el día de la elección y los tres que le precedan. Los partidos, sus directivos y los candidatos se abstendrán también de realizar acciones para ofrecer o expender bebidas o alimentos con fines de proselitismo o promoción del voto.
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 28.
 
-Desde las cero horas del día precedente al de la elección y hasta las veinte (sic) cuatro horas del día de la elección, queda prohibido el expendio de bebidas alcohólicas, debiendo permanecer cerradas todas las cantinas y bares, así como los restaurantes bar, por lo que hace a esta última área y en general, los comercios que expendan bebidas embriagantes como principal actividad.
+Desde las cero horas del día precedente al de la elección y hasta las veinti cuatro (sic) horas del día de la elección, queda prohibido el expendio de bebidas alcohólicas, debiendo permanecer cerradas todas las cantinas y bares, así como los restaurantes bar, por lo que hace a esta última área y en general, los comercios que expendan bebidas embriagantes como principal actividad.
 
 ###### Artículo 29.
 
@@ -1927,6 +1929,8 @@ VI. Cargo para el que se les postule; y
 
 VII. Los candidatos a Diputados que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que ha sido electo en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 Los candidatos a integrantes de los Ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta con su manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
 
 La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la Credencial para Votar con fotografía así como, la constancia de residencia de propietarios y suplentes.
@@ -2435,19 +2439,33 @@ Para Gobernador, la cédula de respaldo que presenten los aspirantes a candidato
 
 Para formula de Diputados, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al dos por ciento de la lista nominal correspondiente al distrito electoral respectivo, con corte al treinta de septiembre del año previo al de la elección, y dicho respaldo deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del citado distrito, que representen al menos el uno por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
 
-I. Para planilla de Integrantes de los Ayuntamientos, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al porcentaje que según corresponda, conforme a lo siguiente;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
-II. El veinte por ciento de la lista nominal del Municipio cuando ésta no exceda de cuatro mil electores;
+Para planilla de Integrantes de los Ayuntamientos, la cédula de respaldo que presenten los aspirantes a candidatos independientes deberá contener la firma de una cantidad de ciudadanos que representen al menos el equivalente al porcentaje que según corresponda, conforme a lo siguiente:
 
-III. El quince por ciento de la lista nominal del Municipio cuando ésta comprenda más de cuatro mil uno electores pero no exceda de diez mil;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
-IV. El diez por ciento de la lista nominal del Municipio cuando ésta comprenda más de diez mil uno electores pero no exceda de treinta mil;
+I. El veinte por ciento de la lista nominal del Municipio cuando ésta no exceda de cuatro mil electores;
 
-V. El siete por ciento de la lista nominal del Municipio cuando ésta comprenda más de treinta mil uno electores pero no exceda de cien mil;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
-VI. El cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de cien mil uno electores pero no exceda de trescientos mil; y
+II. El quince por ciento de la lista nominal del Municipio cuando ésta comprenda más de cuatro mil uno electores pero no exceda de diez mil;
 
-VII. El tres por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+III. El diez por ciento de la lista nominal del Municipio cuando ésta comprenda más de diez mil uno electores pero no exceda de treinta mil;
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+IV. El siete por ciento de la lista nominal del Municipio cuando ésta comprenda más de treinta mil uno electores pero no exceda de cien mil;
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+V. El cinco por ciento de la lista nominal del Municipio cuando ésta comprenda más de cien mil uno electores pero no exceda de trescientos mil; y
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+VI. El tres por ciento de la lista nominal del Municipio cuando ésta comprenda más de trescientos mil uno electores.
 
 En los casos de los incisos (sic) anteriores, se utilizará la lista nominal respectiva con corte al treinta de septiembre del año previo al de la elección, y el respaldo señalado deberá estar conformado por ciudadanos de por lo menos la mitad de las secciones electorales del Municipio que corresponda, que representen al menos el dos por ciento de ciudadanos que figuren en la lista nominal de cada una de ellas.
 
@@ -2537,9 +2555,11 @@ Los aspirantes que sin haber obtenido la declaratoria para registrarse como cand
 
 ### CAPÍTULO TERCERO. DEL REGISTRO DE LAS CANDIDATURAS INDEPENDIENTES
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 212.
 
-Para obtener su registro, los aspirantes a candidatos independientes que hayan obtenido la declaratoria en los términos del Capítulo anterior, de manera individual en el caso de Gobernador, mediante fórmulas o planillas para el caso de Diputados o integrantes de los Ayuntamientos de mayoría relativa, respectivamente, deberán presentar su solicitud dentro de los plazos establecidos a que haya lugar para las (sic) candidatos de los partidos políticos o coaliciones que correspondan.
+Para obtener su registro, los aspirantes a candidatos independientes que hayan obtenido la declaratoria en los términos del Capítulo anterior, de manera individual en el caso de Gobernador, mediante fórmulas o planillas para el caso de Diputados o integrantes de los Ayuntamientos de mayoría relativa, respectivamente, deberán presentar su solicitud dentro de los plazos establecidos a que haya lugar para los candidatos de los partidos políticos o coaliciones que correspondan.
 
 Los aspirantes a candidatos independientes que hayan obtenido su declaratoria en términos del capítulo anterior, no podrán ser postulados por ningún partido político o coalición en el mismo proceso electoral.
 
@@ -2599,7 +2619,9 @@ Son prerrogativas y derechos de los candidatos independientes registrados:
 
 I. Participar en la campaña electoral correspondiente y ser electos al cargo de elección popular para el que hayan sido registrados;
 
-II. Tener acceso a los tiempos de radio y televisión, de manera conjunta con todos los candidatos independientes registrados como si se tratará de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, única y exclusivamente en las compañas (sic) electorales, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, esta Ley, las demás Leyes, así como las disposiciones generales de la materia;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+II. Tener acceso a los tiempos de radio y televisión, de manera conjunta con todos los candidatos independientes registrados como si se tratará de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate, única y exclusivamente en las campañas electorales, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, esta Ley, las demás Leyes, así como las disposiciones generales de la materia;
 
 III. Obtener financiamiento público para la obtención del voto durante las campañas electorales, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León, esta Ley, las demás leyes, así como las disposiciones generales de la materia.
 
@@ -2649,7 +2671,9 @@ IX. Abstenerse de recibir apoyo del extranjero, de partidos políticos o coalici
 
 X. Abstenerse de utilizar símbolos o expresiones de carácter religioso o discriminatorio en su propaganda electoral;
 
-XI. Abstenerse de utilizar en su propagando (sic) electoral cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros candidatos, partidos políticos, instituciones públicas o privadas, y terceros;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+XI. Abstenerse de utilizar en su propaganda electoral cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros candidatos, partidos políticos, instituciones públicas o privadas, y terceros;
 
 XII. Insertar en su propaganda electoral de manera visible la leyenda: “candidato independiente”;
 
@@ -2769,7 +2793,9 @@ De no instalarse la casilla, a las ocho horas con quince minutos conforme al art
 
 I. Si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración, recorriendo, en primer término y, en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes presentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la fila;
 
-II. Si no estuviera el Presidente, pero estuviera el Secretario, éste asumirá las funciones de Presidente de la casilla y procederá a integrarla en los términos señalados en el inciso (sic ) anterior;
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+II. Si no estuviera el Presidente, pero estuviera el Secretario, éste asumirá las funciones de Presidente de la casilla y procederá a integrarla en los términos señalados en la fracción anterior;
 
 III. Si no estuvieran el Presidente ni el Secretario, pero estuviera alguno de los Escrutadores, éste asumirá las funciones de Presidente y procederá a integrar la casilla de conformidad con lo señalado en la fracción I de este artículo;
 
@@ -2783,7 +2809,11 @@ a. La presencia de un Juez o Notario Público, quien tiene la obligación de acu
 
 b. En ausencia del Juez o Notario Público, bastará que los representantes expresen su conformidad para designar, de común acuerdo, a los miembros de la mesa directiva.
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 VII. En todo caso, integrada conforme a los anteriores supuestos, la Mesa Directiva de Casilla, iniciará sus actividades, recibirá válidamente la votación y funcionará hasta su clausura.
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
 VIII. Los nombramientos que se hagan conforme a lo dispuesto en este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos o candidatos.
 
@@ -2925,7 +2955,9 @@ Ningún partido político, coalición ni candidato podrá, sobre la base de resu
 
 El Programa de Resultados Electorales Preliminares es el mecanismo de información electoral previsto en la Ley General de la materia, encargado de proveer los resultados preliminares y no definitivos, de carácter estrictamente informativo a través de la captura, digitalización y publicación de los datos plasmados en las Actas de Escrutinio y Cómputo de las casillas.
 
-En términos de la Ley General de la materia, la información oportuna, veraz y pública de los resultados preliminares es una función de carácter nacional que el Instituto Nacional Electoral tendrá bajo su responsabilidad en cuanto a su regulación, diseño, operación y publicidad regida por los principios de legalidad, certeza, objetividad, independencia y máxima publicidad
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+En términos de la Ley General de la materia, la información oportuna, veraz y pública de los resultados preliminares es una función de carácter nacional que el Instituto Nacional Electoral tendrá bajo su responsabilidad en cuanto a su regulación, diseño, operación y publicidad regida por los principios de legalidad, certeza, objetividad, independencia y máxima publicidad.
 
 El Programa de Resultados Preliminares será un programa único cuyas reglas de operación serán emitidas por el Instituto Nacional Electoral con obligatoriedad para la Comisión Estatal Electoral.
 
@@ -2935,7 +2967,9 @@ La Comisión Estatal Electoral establecerá, en su caso, las disposiciones corre
 
 ### CAPÍTULO PRIMERO. DEL CÓMPUTO Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES PARA DIPUTADOS Y GOBERNADOR
 
-#### SECCIÓN 2 (SIC). DE LA CALIFICACIÓN
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+#### SECCIÓN 1. DEL CÓMPUTO
 
 ###### Artículo 254.
 
@@ -3031,7 +3065,7 @@ X. Una vez realizado lo anterior para el cómputo distrital y terminado éste, l
 
 XI. La Comisión Estatal Electoral conservará todos los paquetes electorales de las elecciones de Diputados y Gobernador hasta que haya concluido el procedimiento contencioso electoral.
 
-#### SECCIÓN 1. DEL CÓMPUTO
+#### SECCIÓN 2. DE LA CALIFICACIÓN
 
 ###### Artículo 261.
 
@@ -3107,7 +3141,7 @@ Asignadas las Diputaciones, se extenderán las constancias a los ciudadanos que 
 
 ### CAPÍTULO SEGUNDO. DEL CÓMPUTO Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES MUNICIPALES
 
-#### SECCIÓN 2. DE LA CALIFICACIÓN
+#### SECCIÓN 1. DEL CÓMPUTO
 
 ###### Artículo 269.
 
@@ -3140,6 +3174,8 @@ IX. La Comisión Municipal Electoral computará en sesión plenaria la suma de l
 X. Terminado el cómputo por parte de la Comisión Municipal Electoral, ésta realizará la declaratoria de validez y extenderá y entregará de manera inmediata la constancia de mayoría a la planilla de candidatos que haya obtenido la mayoría de votos, y extenderá y entregará de manera inmediata también la constancia de Regidores de representación proporcional a los partidos políticos o coaliciones que correspondan; y
 
 XI. Las Comisiones Municipales Electorales conservarán todos los paquetes electorales de las elecciones de Ayuntamiento que le correspondan, hasta que haya concluido el procedimiento contencioso electoral.
+
+#### SECCIÓN 2. DE LA CALIFICACIÓN
 
 ###### Artículo 270.
 
@@ -4159,7 +4195,9 @@ El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes de
 
 Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-El (sic) Dirección Jurídica podrá admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. En cualquier caso la Dirección Jurídica, apercibirá a las autoridades, en caso de que éstas no atiendan en tiempo y forma el requerimiento de las pruebas.
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+La Dirección Jurídica podrá admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes, no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. En cualquier caso la Dirección Jurídica, apercibirá a las autoridades, en caso de que éstas no atiendan en tiempo y forma el requerimiento de las pruebas.
 
 Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
 
@@ -4269,43 +4307,37 @@ El estudio de las causas de improcedencia o sobreseimiento de la queja o denunci
 
 Cuando durante la sustanciación de una investigación la Dirección Jurídica advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 367.
-
-La queja o denuncia será improcedente cuando:
-
-I. Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, el quejoso o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico;
-
-II. El quejoso o denunciante no agote previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
-
-III. Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Tribunal Electoral del Estado respecto al fondo y ésta no se haya impugnado, o habiendo sido impugnada haya sido confirmada; y
-
-IV. Se denuncien actos de los que la Comisión Estatal Electoral resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones a la presente Ley.
-
-Procederá el sobreseimiento de la queja o denuncia, cuando:
-
-a. Habiendo sido admitida, sobrevenga alguna de las causales de improcedencia;
-
-b. El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro; y
-
-c. El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría y que a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
-
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Dirección Jurídica de la Comisión elaborará un proyecto de resolución por el que se proponga al Tribunal Electoral el desechamiento o sobreseimiento, según corresponda.
-
-Cuando durante la sustanciación de una investigación la Dirección Jurídica advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
 
 La Dirección Jurídica llevará un registro de las quejas desechadas e informará de ello al Pleno de la Comisión Estatal Electoral.
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 Admitida la queja o denuncia, la Dirección Jurídica de la Comisión emplazará al denunciado, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación al denunciado se le correrá traslado con una copia de la queja o denuncia, así como de las pruebas que, en su caso, haya aportado el denunciante o hubiera obtenido a prevención la autoridad que la recibió, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
 El escrito de contestación deberá cumplir con los siguientes requisitos:
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 1. Nombre del denunciado o su representante, con firma autógrafa o huella digital;
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
 2. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 3. Domicilio para oír y recibir notificaciones;
 
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
 4. Los documentos que sean necesarios para acreditar la personería; y
+
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
 
 5. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con los hechos o, en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá identificar con toda precisión dichas pruebas.
 
@@ -4409,7 +4441,9 @@ I. La denuncia será presentada ante la Dirección Jurídica de la Comisión Est
 
 II. La Dirección Jurídica ejercerá, en lo conducente, las facultades señaladas en los artículos precedentes, conforme al procedimiento y dentro de los plazos señalados (sic) los mismos; y
 
-III. Celebrada la audiencia, (sic) Dirección Jurídica deberá turnar al Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
+> <small>(F. DE E., P.O. 11 DE AGOSTO DE 2014)</small>
+
+III. Celebrada la audiencia, la Dirección Jurídica deberá turnar al Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
 
 ###### Artículo 375.
 
