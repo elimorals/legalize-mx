@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2014-06-13"
+last_updated: "2014-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2013.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -6035,23 +6035,11 @@ con la siguiente cuota: $2,265.07 $2,265
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 61-D.
 
-Por el análisis, evaluación de la
-
-solicitud y, en su caso, la expedición del título de
-
-permiso o autorización, de recuperación y
-
-aprovechamiento de gas asociado a los
-
-yacimientos de carbón mineral, se pagarán
-
-derechos conforme a la cuota de: $57,058.03 $55,058
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
@@ -6072,6 +6060,14 @@ se pagarán derechos, por cada uno,
 conforme a la cuota de $12,132.04 $12,132
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 61-F.
+
+Los ingresos que se obtengan por el pago de derechos por los servicios a los que se refiere este Capítulo, se destinarán a la Comisión Reguladora de Energía.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9237,7 +9233,7 @@ I.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
@@ -9259,7 +9255,7 @@ IV.- Radioclubes:
 
 a).- Expedición:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -9279,7 +9275,7 @@ de aficionados $1,313.90 $1,314
 
 b).- Revalidación:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 1. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -9301,9 +9297,9 @@ de aficionados $672.59 $673
 
 c).- Modificaciones $672.59 $673
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-V.- Constancia de registro de profesional técnico responsable y de radioperadores (sic) de estaciones radioeléctricas civiles:
+V.- Constancia de registro de profesional técnico responsable y de radioperadores de estaciones radioeléctricas civiles:
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
@@ -19259,67 +19255,51 @@ Están obligadas al pago del derecho sobre agua, las personas físicas y morales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 223.
 
-Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua y la cuenca o acuífero en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
+-BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
 
-A. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, por cada metro cúbico:
-
-(VÉASE ARCHIVO ANEXO)
-
-Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales, que cuenten con el permiso por parte de los municipios u organismos operadores para la prestación de los servicios de agua potable, cumplan con las condiciones de calidad de agua para consumo humano establecidas en las normas oficiales mexicanas y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso. Los contribuyentes podrán aplicar las cuotas preferenciales que establece el Apartado B, fracción I de este artículo, siempre y cuando cumplan con todos los requisitos previstos en este párrafo.
-
-De los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales por usuarios distintos de los municipales y organismos operadores de los mismos, 300 millones de pesos tendrán destino específico para el Fondo Forestal Mexicano para el desarrollo y operación de Programas de Pago por Servicios Ambientales. Estos recursos ampliarán el presupuesto que se asigne a la Comisión Nacional Forestal.
-
-B. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, se pagará el derecho sobre agua por cada mil metros cúbicos, destinadas a:
-
-I. Uso de agua potable:
-
-a). Asignada a Entidades Federativas, Municipios, organismos paraestatales, paramunicipales.
-
-b). Concesionadas a empresas que presten el servicio de agua potable o alcantarillado y que mediante autorización o concesión, presten el servicio en sustitución de las personas morales a que se refiere el inciso a).
-
-c). Concesionada a colonias constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
-
-Para los efectos del uso de agua potable, se considerará:
+Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
 (VÉASE ARCHIVO ANEXO)
 
-Los ingresos que se obtengan por la recaudación de los derechos por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere esta fracción, que paguen los municipios, se destinarán a la Comisión Nacional del Agua para obras de infraestructura hidráulica.
-
-Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que en las mismas se señalan cuando el consumo de agua en el periodo sea inferior o igual a un volumen equivalente a los 300 litros por habitante al día, de acuerdo con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
-
-En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
+Apartado B, fracción I del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-II. Generación Hidroeléctrica $4.7469
-
-III. Acuacultura:
+Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
 (VÉASE ARCHIVO ANEXO)
 
-IV. Balnearios y centros recreativos:
+Apartado B, fracción III del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
 (VÉASE ARCHIVO ANEXO)
 
-Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de acceso exclusivo o privado y campos de golf.
+Apartado B, fracción IV del artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
+(VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Apartado C, dei (sic) artículo 223 de esta Ley, fuente de extracción aguas superficiales
 
-Zona de disponibilidad 1 a 4 $0.1504
+(VÉASE ARCHIVO ANEXO)
 
-Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
+La cuota que resulte de las tablas anteriores, se aplicará por cada metro cúbico o mil metros cúbicos de agua que durante el trimestre trasvase directamente el contribuyente, así como por cada metro cúbico o mil metros cúbicos de los que se haya beneficiado el contribuyente derivado del trasvase indirecto, según corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El contribuyente podrá optar por adicionar a la cuota prevista en el artículo 223 de esta Ley, la cuota que se determine de acuerdo con la siguiente fórmula:
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+(VÉASE ARCHIVO ANEXO)
+
+Como facilidad administrativa, la Secretaría de Hacienda y Crédito Público, publicará en el Diario Oficial de la Federación, a más tardar el último día del segundo mes del ejercicio fiscal que corresponda, las cuotas aplicables al trasvase durante dicho ejercicio.
+
+Para los efectos de este artículo se considerará trasvase, el uso, explotación o aprovechamiento de aguas nacionales trasladadas de una cuenca a una distinta con la que no haya conexión natural, que realiza el Estado, así como los asignatarios y concesionarios, mediante obras de infraestructura hidráulica, para concesionarlas, asignarlas, usarlas, aprovecharlas y explotarlas en un lugar distinto a la cuenca de extracción, y que para los fines de la presente Ley pueden ser:
+
+a). Directo: El que realizan los asignatarios y concesionarios con autorización de la Comisión Nacional del Agua.
+
+b). Indirecto: El que efectúa el Estado en beneficio de los asignatarios o concesionarios, con inversión federal o con participación de inversión estatal, municipal, social o privada. Dicho beneficio tiene lugar cuando concesionarios y asignatarios usan, aprovechan o explotan aguas nacionales trasvasadas previamente por el Estado.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 223.
 
@@ -21787,741 +21767,149 @@ El 3.5 por ciento de los ingresos que se obtengan por la recaudación de los der
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO XII. Hidrocarburos
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+### CAPITULO XII
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 254.
 
-PEMEX Exploración y Producción estará obligado al pago anual del derecho ordinario sobre hidrocarburos, aplicando la tasa de 71.5% a la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el año y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para la determinación de la base de este derecho, serán deducibles los siguientes conceptos:
+###### ARTICULO 254 Bis.
 
-I. El 100% del monto original de las inversiones realizadas para la exploración, recuperación secundaria y el mantenimiento no capitalizable, en el ejercicio en el que se efectúen;
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-II. El 16.7% del monto original de las inversiones realizadas para el desarrollo y explotación de yacimientos de petróleo crudo o gas natural, en cada ejercicio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. El 5% del monto original de las inversiones realizadas en oleoductos, gasoductos, terminales, transporte o tanques de almacenamiento, en cada ejercicio;
+###### ARTICULO 254 Ter.
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-IV. Los costos, considerándose para tales efectos las erogaciones necesarias para la explotación de los yacimientos de petróleo crudo o gas natural determinados de conformidad con las Normas de Información Financiera mexicanas, excepto las inversiones a que se refieren las fracciones I, II y III de este artículo. Los únicos gastos que se podrán deducir serán los de exploración, transportación o entrega de los hidrocarburos. Los costos y gastos se deducirán cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. El derecho extraordinario sobre la exportación de petróleo crudo efectivamente pagado y la diferencia que efectivamente se pague por concepto del derecho sobre hidrocarburos para el fondo de estabilización una vez realizado el acreditamiento a que se refiere el séptimo párrafo del artículo 257 de esta Ley. En el caso de que la deducción por estos conceptos sea menor a la determinada en el trimestre inmediato anterior, la diferencia resultante se restará del monto a que ascienda el valor de las demás deducciones que señala este artículo;
+###### ARTICULO 254 Quáter.
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-VI. El derecho para la investigación científica y tecnológica en materia de energía a los que se refiere el artículo 254 Bis de esta Ley;
-
-VII. El derecho para la fiscalización petrolera al que se refiere el artículo 254 Ter de esta Ley, y
-
-VIII. Un monto adicional de 0.50 dólares de los Estados Unidos de América por cada millar de pie cúbico de gas natural no asociado extraído, adicional al volumen de extracción que se registre para 2006.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Las deducciones a que se refieren las fracciones II y III de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-El monto original de las inversiones a que se refieren las fracciones I a III de este artículo, comprenderá además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-La deducción del monto original de las inversiones se podrá iniciar a partir de que se realicen las erogaciones por la adquisición de las mismas o a partir de su utilización. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el tercer párrafo de este artículo, rebasarán el 100% de su monto original.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-El monto de la deducción por concepto de los costos, gastos e inversiones deducibles, relacionados con el petróleo crudo y gas asociado extraídos, sin considerar los señalados en las fracciones V, VI y VII del presente artículo, no excederá el valor de 6.50 dólares de los Estados Unidos de América por barril de petróleo crudo equivalente del volumen total del mismo en el año de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-El monto de la deducción por concepto de los costos, gastos e inversiones deducibles, relacionados con el gas natural no asociado extraído, sin considerar los señalados en las fracciones V, VI, VII y VIII de este artículo, no excederá el valor de 2.70 dólares de los Estados Unidos de América por cada mil pies cúbicos de gas natural no asociado del volumen total del mismo en el año de que se trate.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-En ningún caso serán deducibles los intereses de cualquier tipo a cargo de PEMEX Exploración y Producción, la reserva de exploración, los gastos de venta y los pagos por pensiones que se hagan con cargo a la reserva laboral. En el caso de que la reserva laboral tenga remanentes en el ejercicio, dicho remanente se reducirá de las deducciones realizadas en el mismo ejercicio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-PEMEX Exploración y Producción establecerá un registro de los costos y gastos de la exploración y explotación por cada campo de extracción de petróleo crudo y gas natural no asociado, así como de los tipos específicos de petróleo que se obtengan, y deberá enviar a la Cámara de Diputados la información periódica que se incorpore en dicho registro, poniendo a disposición de ese órgano legislativo los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo por el órgano fiscalizador de esa Soberanía, las auditorías que se consideren pertinentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-ARTICULO 254 BIS.- PEMEX Exploración y Producción estará obligado al pago anual del derecho para la investigación científica y tecnológica en materia de energía, aplicando la tasa del 0.65% al valor anual del petróleo crudo y gas natural extraídos en el año. El valor de estos productos se calculará de acuerdo con lo establecido en el artículo 258 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-A cuenta de este derecho se harán pagos provisionales trimestrales que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
-
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-El pago provisional se calculará aplicando al valor del petróleo crudo y gas natural extraídos desde el inicio del ejercicio y hasta el último día del trimestre al que corresponda el pago, la tasa de 0.65 por ciento. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados de este derecho, realizados en los trimestres anteriores correspondientes a dicho ejercicio, siendo la diferencia el pago provisional a enterar.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Se deberá presentar una declaración anual por este derecho a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales trimestrales efectivamente pagados de este derecho del ejercicio que corresponda.
-
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-La recaudación anual que genere la aplicación del derecho a que se refiere este artículo se distribuirá de la siguiente forma:
-
-I. El 63 por ciento al Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, que se creará de conformidad con las disposiciones de la Ley de Ciencia y Tecnología, cuyo objeto será:
-
-a) La investigación científica y tecnológica aplicada, tanto a la exploración, explotación y refinación de hidrocarburos, como a la producción de petroquímicos básicos.
-
-b) La adopción, innovación, asimilación y desarrollo tecnológico en las materias señaladas en el inciso anterior.
-
-II. El 2 por ciento al Fondo mencionado en la fracción anterior con el objeto de formar recursos humanos especializados en la industria petrolera, a fin de complementar la adopción, innovación, asimilación y desarrollo tecnológico que impulsará dicho Fondo.
-
-III. El 15 por ciento al Fondo de investigación científica y desarrollo tecnológico del Instituto Mexicano del Petróleo, conforme a lo establecido en la Ley de Ciencia y Tecnología, que se utilizará en las mismas actividades de las fracciones anteriores. De estos recursos, el Instituto Mexicano del Petróleo destinará un máximo de 5 por ciento a la formación de recursos humanos especializados.
-
-IV. El 20 por ciento al Fondo Sectorial CONACYT-Secretaría de Energía-Sustentabilidad Energética, que se creará de conformidad con las disposiciones de la Ley de Ciencia y Tecnología. Estos recursos se destinarán al financiamiento de proyectos, cuyo objeto será:
-
-a) La investigación científica y tecnológica aplicada, tanto a fuentes renovables de energía, eficiencia energética, uso de tecnologías limpias y diversificación de fuentes primarias de energía.
-
-b) La adopción, innovación, asimilación y desarrollo tecnológico de las materias señaladas en el inciso anterior.
-
-Las materias de investigación serán definidas por la Secretaría de Energía y los proyectos serán realizados exclusivamente por los institutos de investigación y de educación superior del país.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-En la aplicación de los recursos asignados por las fracciones I, II y III se dará prioridad a las finalidades siguientes:
-
-a) Aumentar el aprovechamiento de los yacimientos de hidrocarburos.
-
-b) La exploración, especialmente en aguas profundas, para incrementar la tasa de restitución de reservas.
-
-c) La refinación de petróleo crudo pesado.
-
-d) La prevención de la contaminación y la remediación ambiental relacionadas con las actividades de la industria petrolera.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-Petróleos Mexicanos y sus organismos subsidiarios participarán en el Comité Técnico y de Administración del Fondo a que se refieren las fracciones I y II del presente artículo. Un representante de la Secretaría de Energía presidirá este Comité y un representante de Petróleos Mexicanos será el secretario administrativo del mismo.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-Los recursos del Fondo a que se refieren las fracciones I, II y III del presente artículo se canalizarán de conformidad con el objeto y las prioridades que el mismo establece, para atender el Programa de Investigación, Desarrollo de Tecnología y Formación de Recursos Humanos Especializados que apruebe el Comité Técnico y de Administración del Fondo.
-
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
-
-Petróleos Mexicanos y sus organismos subsidiarios presentarán anualmente, para aprobación del Comité Técnico y de Administración del Fondo Sectorial CONACYT-Secretaría de Energía-Hidrocarburos, el Programa al que se refiere el párrafo anterior. De este fondo se podrán realizar asignaciones directas de recursos para los proyectos que se ajusten a lo establecido en este artículo, que se deriven de los convenios de alianzas tecnológicas celebradas por Petróleos Mexicanos o sus organismos subsidiarios, con la aprobación de sus consejos de administración e incluidos en dicho Programa.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 254 TER.- PEMEX Exploración y Producción estará obligado al pago anual del derecho para la fiscalización petrolera, aplicando la tasa de 0.003 por ciento al valor anual del petróleo crudo y gas natural extraídos en el año. El valor anual de estos productos se calculará de acuerdo con lo establecido en el artículo 258 de esta Ley.
-
-A cuenta de este derecho se harán pagos provisionales trimestrales que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
-
-El pago provisional se calculará aplicando al valor del petróleo crudo y gas natural extraídos desde el inicio del ejercicio y hasta el último día del trimestre al que corresponda el pago, la tasa de 0.003 por ciento. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados de este derecho, realizados en los trimestres anteriores correspondientes a dicho ejercicio, siendo la diferencia el pago provisional a enterar.
-
-Se deberá presentar una declaración anual por este derecho a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales trimestrales efectivamente pagados de este derecho del ejercicio que corresponda.
-
-La recaudación anual que genere la aplicación del derecho a que se refiere este artículo, se destinará a la Auditoría Superior de la Federación, de acuerdo con lo que establezca el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 254 QUATER.- Pemex Exploración y Producción estará obligado al pago anual del derecho para regular y supervisar la exploración y explotación de hidrocarburos, aplicando la tasa del 0.03 por ciento al valor anual del petróleo crudo y gas natural extraídos en el año. El valor de estos productos se calculará de acuerdo con lo establecido en el artículo 258 de esta Ley.
-
-A cuenta de este derecho se harán pagos mensuales provisionales, dentro de los siete días hábiles después de terminado el mes de calendario correspondiente.
-
-Se deberá presentar una declaración anual por este derecho, a más tardar, el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales efectivamente pagados del ejercicio que corresponda.
-
-Los ingresos que se generen por concepto del derecho a que se refiere este artículo se destinarán a cubrir el presupuesto de la Comisión Nacional de Hidrocarburos. Si al finalizar el ejercicio presupuestal, existiera saldo proveniente de dichos ingresos, el Órgano de Gobierno de la Comisión instruirá su transferencia a una reserva especial, la que será destinada a la cobertura de gastos correspondientes a posteriores ejercicios.
-
-Con la aplicación de estos derechos quedarán cubiertos los pagos por los servicios de supervisión y regulación a que se refiere el artículo 15 de la Ley de la Comisión Nacional de Hidrocarburos.
-
-El último día hábil del mes marzo de cada año la Comisión Nacional de Hidrocarburos entregará a las Cámaras del Congreso de la Unión un reporte anual del cumplimiento de las actividades y metas programadas.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 255.
 
-A cuenta del derecho a que se refiere el artículo 254, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que correspondan los pagos provisionales, aplicando la tasa establecida en el primer párrafo del artículo 254 al valor del petróleo crudo y gas natural extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-I. Los costos, gastos y la parte proporcional de las inversiones correspondientes al mismo periodo, sin que excedan de los montos máximos a que se refiere el artículo 254;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-II. La parte proporcional del monto deducible de la inversión, que se efectuará en el por ciento que represente el número de meses completos en los que el bien o bienes objeto de la inversión hayan sido utilizados por PEMEX Exploración y Producción respecto de doce meses, en la proporción que el número de meses comprendidos desde el inicio del ejercicio y hasta el último día del mes del periodo al que corresponda el pago, representen en el total de meses comprendidos en el año;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-III. El derecho extraordinario sobre la exportación de petróleo crudo efectivamente pagado, así como la diferencia que efectivamente se pague por concepto del derecho sobre hidrocarburos para el fondo de estabilización una vez realizado el acreditamiento a que se refiere el séptimo párrafo del artículo 257 de esta Ley, en el periodo de que se trate;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-IV. El derecho para el fondo de investigación científica y tecnológica en materia de energía a que se refiere el artículo 254 Bis;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-V. El derecho para la fiscalización petrolera a que se refiere el artículo 254 Ter, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-VI. La deducción a que se refiere la fracción VIII del artículo 254.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional por enterar.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-En la declaración anual por este derecho a que se refiere el primer párrafo del artículo 254, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este derecho correspondientes al ejercicio de que se trate.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, PEMEX Exploración y Producción podrá compensar dicho saldo a favor contra el derecho sobre hidrocarburos para el fondo de estabilización o contra el derecho extraordinario sobre la exportación de petróleo crudo. De subsistir saldo a favor, o en el supuesto de no haber sido compensado contra los mencionados derechos, se podrá compensar contra pagos posteriores del propio derecho o en los términos de la autorización que expida el Servicio de Administración Tributaria. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que la compensación se realice.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 256.
 
-PEMEX Exploración y Producción estará obligado al pago anual del derecho sobre hidrocarburos para el fondo de estabilización, cuando en el año el precio promedio ponderado del barril de petróleo crudo exportado exceda de 22.00 dólares de los Estados Unidos de América, conforme a la siguiente tabla:
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-TABLA
-
-Rango de precio promedio Por ciento a aplicar sobre
-
-ponderado anual del barril de el valor anual del total de
-
-petróleo crudo mexicano las extracciones de petróleo
-
-exportado. crudo en el año
-
-(dólares de los Estados
-
-Unidos de América)
-
-22.01-23.00 1%
-
-23.01-24.00 2%
-
-24.01-25.00 3%
-
-25.01-26.00 4%
-
-26.01-27.00 5%
-
-27.01-28.00 6%
-
-28.01-29.00 7%
-
-29.01-30.00 8%
-
-30.01-31.00 9%
-
-Cuando exceda de 31.00 10%
-
-Cuando el precio promedio ponderado anual del barril de petróleo crudo exportado se ubique dentro de los rangos establecidos en la tabla anterior, se aplicará el por ciento que corresponda al valor anual del petróleo crudo extraído en el año, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción. El valor anual de este producto se calculará de acuerdo con lo establecido en el artículo 258 de esta Ley.
-
-A cuenta de este derecho se harán pagos provisionales trimestrales que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
-
-El pago provisional se calculará aplicando al valor del petróleo crudo extraído desde el inicio del ejercicio y hasta el último día del trimestre al que corresponda el pago, el porcentaje que se deba aplicar conforme a la tabla prevista en este artículo, considerando para ello el precio promedio ponderado del barril de petróleo crudo exportado en el mismo periodo. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados de este derecho, realizados en los trimestres anteriores correspondientes a dicho ejercicio, siendo la diferencia el pago provisional a enterar.
-
-Se deberá presentar una declaración anual por este derecho a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales trimestrales efectivamente pagados de este derecho correspondientes al ejercicio de que se trate.
-
-Cuando en la declaración de pago resulte saldo a favor, PEMEX Exploración y Producción podrá compensar dicho saldo a favor contra el derecho extraordinario sobre la exportación de petróleo crudo, o contra el derecho ordinario sobre hidrocarburos. De subsistir saldo a favor, o en el supuesto de no haber sido compensado contra los mencionados derechos, se podrá compensar contra pagos posteriores del propio derecho o en los términos de la autorización que expida el Servicio de Administración Tributaria. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que la compensación se realice.
-
-La recaudación anual que genere la aplicación del derecho a que se refiere este artículo, se destinará al Fondo de Estabilización de los Ingresos Petroleros.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 257.
 
-PEMEX Exploración y Producción estará obligado al pago anual del derecho extraordinario sobre la exportación de petróleo crudo conforme a lo siguiente:
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-Cuando en el mercado internacional el precio promedio ponderado anual del barril de petróleo crudo mexicano exceda del precio considerado en la estimación de los ingresos contenidos en el artículo 1o. de la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate, el derecho se calculará aplicando la tasa de 13.1% sobre el valor que resulte de multiplicar la diferencia que exista entre el precio promedio ponderado anual del barril de petróleo crudo mexicano y el precio considerado en la estimación de los ingresos contenidos en el artículo 1o. de la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate, por el volumen total de exportación acumulado de petróleo crudo mexicano en el mismo ejercicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-A cuenta de este derecho se harán pagos provisionales trimestrales que se pagarán a más tardar el último día hábil de los meses de abril, julio y octubre del ejercicio de que se trate y enero del siguiente año.
+###### ARTICULO 257 Bis.
 
-El pago provisional se calculará aplicando la tasa de 13.1% al valor que resulte de multiplicar la diferencia que exista entre el precio promedio ponderado acumulado del barril de petróleo crudo mexicano del periodo de que se trate y el precio de exportación considerado en la estimación de los ingresos contenidos en el artículo 1o. de la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate por el volumen del petróleo crudo mexicano exportado desde el inicio del ejercicio y hasta el último día del periodo al que corresponda el pago. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados de este derecho, realizados en los trimestres anteriores correspondientes a dicho ejercicio, siendo la diferencia el pago provisional a enterar.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-Se deberá presentar una declaración anual por este derecho a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales trimestrales efectivamente pagados de este derecho correspondientes al ejercicio de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando en la declaración de pago resulte saldo a favor, PEMEX Exploración y Producción podrá compensar dicho saldo a favor contra el derecho sobre hidrocarburos para el fondo de estabilización o contra el derecho ordinario sobre hidrocarburos. De subsistir saldo a favor, o en el supuesto de no haber sido compensado contra los derechos mencionados, se podrá compensar contra pagos posteriores del propio derecho o en los términos de la autorización que expida el Servicio de Administración Tributaria. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que la compensación se realice.
+###### ARTICULO 257 Ter.
 
-El derecho extraordinario sobre la exportación de petróleo crudo efectivamente pagado se acreditará contra el derecho sobre hidrocarburos para el fondo de estabilización a que se refiere el artículo 256 de esta Ley.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-La recaudación anual que genere la aplicación del derecho a que se refiere este artículo, se destinará en su totalidad a las Entidades Federativas a través del Fondo de Estabilización de los Ingresos de las Entidades Federativas. En el Presupuesto de Egresos de la Federación para cada ejercicio fiscal se deberán establecer reglas claras y precisas sobre la mecánica de distribución del citado Fondo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En el marco de una política energética de largo plazo y a propuesta del Ejecutivo Federal, el Congreso de la Unión aprobará cada año en la Ley de Ingresos la estimación de las plataformas máximas de extracción y de exportación de hidrocarburos.
+###### ARTICULO 257 Quáter.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTICULO 257 BIS.- PEMEX Exploración y Producción estará obligado al pago anual de los derechos sobre extracción de hidrocarburos, especial sobre hidrocarburos y adicional sobre hidrocarburos, en los términos de los artículos 257 Ter, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, por la extracción de petróleo crudo y gas natural de los campos siguientes:
+ARTICULO 257 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-I. Como una sola unidad, la totalidad de los campos en el Paleocanal de Chicontepec como se define en el artículo 258 Bis de esta Ley, con excepción de aquéllos que hayan sido expresamente segregados como campos de extracción de petróleo crudo y gas natural de por lo menos 5 minutos de latitud por 5 minutos de longitud de superficie, mediante declaración de la Comisión Nacional de Hidrocarburos, previa autorización de la Secretaría de Hacienda y Crédito Público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Los campos en el Paleocanal de Chicontepec que hayan sido segregados conforme a lo establecido en la fracción anterior. En el caso de estos campos, para efectos de lo que se determina en el párrafo segundo del artículo 257 Quáter, la producción acumulada de dicho campo se considerará como la producción acumulada a partir del inicio de operaciones, y en ningún caso a partir de que hayan sido segregados, y (sic)
+ARTICULO 257 Sextus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-III. Los campos en aguas profundas, como se define en el artículo 258 Bis de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 257 Séptimus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Los campos marginales a que se refiere el artículo 258 Bis de esta Ley, únicamente respecto de la producción incremental anual que se obtenga una vez alcanzada la producción base anual. A la producción base anual se aplicarán los derechos previstos en los artículos 254 a 257 de esta Ley.
-
-PEMEX Exploración y Producción establecerá un registro de los costos y gastos de la exploración, desarrollo y extracción por cada uno de los campos a que se refieren las fracciones anteriores, así como de los tipos específicos de petróleo crudo y gas natural que se obtengan y deberá enviar a la Cámara de Diputados y al Servicio de Administración Tributaria la información periódica que se incorpore en dicho registro, poniendo a disposición de ambos los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo los actos de fiscalización que se consideren pertinentes a través de la Auditoría Superior de la Federación y del Servicio de Administración Tributaria.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 TER.- Por la extracción de petróleo crudo y gas natural de cada uno de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho sobre extracción de hidrocarburos.
-
-Para calcular el pago anual del derecho sobre extracción de hidrocarburos a que se refiere este artículo, se aplicará la tasa del 15% al valor anual del petróleo crudo y gas natural extraídos en cada campo, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
-
-El pago del derecho sobre extracción de hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
-
-La recaudación anual del derecho a que se refiere este artículo se destinará al Fondo de Estabilización de los Ingresos Petroleros.
-
-A cuenta del derecho sobre extracción de hidrocarburos se harán pagos provisionales mensuales que se pagarán a más tardar el último día hábil del mes posterior a aquél al que correspondan dichos pagos provisionales.
-
-El pago provisional se calculará aplicando la tasa del 15% al valor del petróleo crudo y gas natural extraídos en el campo de que se trate, desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados del derecho sobre extracción de hidrocarburos, realizados en los meses anteriores correspondientes a dicho ejercicio y la diferencia será el pago provisional a enterar.
-
-Para la determinación del monto a pagar por el derecho sobre hidrocarburos para el fondo de estabilización a que se refiere el artículo 256 de esta Ley, así como de sus pagos provisionales, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos a los que se refiere el artículo 257 Bis de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 QUÁTER.- Por la extracción de petróleo crudo y gas natural de cada uno de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho especial sobre hidrocarburos, que se calculará aplicando la tasa del 30%, a la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el campo de que se trate, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos y las deducciones permitidas en este artículo.
-
-Para los efectos del párrafo anterior, cuando la producción acumulada del campo de que se trate sea mayor a 240 millones de barriles de petróleo crudo equivalente, se aplicará la tasa de 36% al valor de la producción que exceda de dicho monto.
-
-El pago del derecho especial sobre hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
-
-La determinación del derecho especial sobre hidrocarburos, así como de los pagos provisionales a que se refiere el artículo 257 Quintus de esta Ley, se hará por cada campo de extracción de petróleo crudo y gas natural.
-
-Para la determinación de la base del derecho especial sobre hidrocarburos, serán deducibles los siguientes conceptos para cada campo:
-
-I. El 100% del monto original de las inversiones realizadas para la exploración. Esta deducción se aplicará a partir del ejercicio en que los hidrocarburos extraídos del campo de que se trate formen parte de la producción reportada por PEMEX Exploración y Producción.
-
-Las inversiones realizadas hasta la fecha del descubrimiento del primer campo productor en el área o permiso de exploración correspondiente se deducirán en el cálculo del derecho que establece este precepto correspondiente a dicho campo.
-
-Las inversiones que se realicen con posterioridad a la fecha señalada en el párrafo anterior y hasta que tenga lugar el descubrimiento del segundo campo productor se deducirán en el cálculo del derecho que establece este precepto correspondiente a este último campo. En caso de que se descubran más de dos campos productores en el área o permiso de exploración de que se trate, se aplicará la mecánica prevista en este párrafo para los campos adicionales.
-
-Si las inversiones en exploración conducen al descubrimiento simultáneo de más de un campo productor, el monto de deducción aplicable a cada campo será el que resulte de aplicar al monto original de las inversiones el por ciento que representen las reservas probadas de petróleo crudo equivalente en el campo productor de que se trate respecto del total de reservas probadas en los campos productores descubiertos simultáneamente a la fecha en que cualquiera de ellos inicie su producción;
-
-II. El 100% del monto original de las inversiones realizadas para la recuperación secundaria, la recuperación mejorada, el mantenimiento no capitalizable y las pruebas tecnológicas, en el ejercicio en el que se efectúen;
-
-III. El 16.7% del monto original de las inversiones realizadas para el desarrollo y explotación de yacimientos de petróleo crudo o gas natural, en cada ejercicio, hasta agotar el monto de la inversión;
-
-IV. El 5% del monto original de las inversiones realizadas en oleoductos, gasoductos, terminales, transporte o tanques de almacenamiento, en cada ejercicio, hasta agotar el monto de la inversión;
-
-V. Los costos y gastos, considerándose como costos las erogaciones necesarias para la explotación de los campos de extracción de petróleo crudo y/o gas natural determinados de conformidad con las Normas de Información Financiera mexicanas, excepto las inversiones a que se refieren las fracciones I a IV de este artículo y como gastos los de exploración, transportación o entrega de los hidrocarburos. Los costos y gastos se deducirán siempre y cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago;
-
-VI. La parte del derecho para la investigación científica y tecnológica en materia de energía a que se refiere el artículo 254 Bis de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate;
-
-VII. La parte del derecho para la fiscalización petrolera a que se refiere el artículo 254 Ter de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate, y
-
-VIII. La parte del derecho sobre extracción de hidrocarburos a que se refiere el artículo 257 Ter de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate.
-
-Las deducciones a que se refieren las fracciones III y IV de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
-
-El monto original de las inversiones a que se refieren las fracciones I a IV de este artículo comprenderá, además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
-
-La deducción del monto original de las inversiones, con excepción de las indicadas en la fracción I de este artículo, se podrá iniciar a partir de que PEMEX Exploración y Producción realice las erogaciones correspondientes o a partir de que utilice los bienes de que se trate. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el sexto párrafo de este artículo, rebasarán el 100% de su monto original.
-
-Cuando las inversiones, costos y gastos a que se refieren las fracciones II a V de este artículo correspondan a bienes, obras o servicios utilizados o que beneficien a dos o más campos ubicados en el Paleocanal de Chicontepec o en aguas profundas, incluso cuando los bienes, obras o servicios beneficien también a cualquier otro campo colindante con dichas zonas, el monto de la deducción aplicable a cada campo será el que resulte de aplicar a los costos, los gastos o el monto original de las inversiones, el por ciento que las reservas probadas de petróleo crudo equivalente en el campo de que se trate represente respecto del total de reservas probadas en todos los campos en los que se utilicen dichos bienes, obras o servicios, a la fecha en que cualquiera de los campos que los utilicen inicie su producción.
-
-Los montos que se deduzcan conforme al presente artículo no podrán deducirse en términos del artículo 254 de esta Ley.
-
-El monto de la deducción por concepto de los costos, gastos e inversiones, relacionados con el petróleo crudo y gas natural extraídos del campo de que se trate, sin considerar los señalados en las fracciones VI a VIII del presente artículo, no podrá ser superior al 60% del valor del petróleo crudo y gas natural extraídos en el año del campo de que se trate ni a 32.5 dólares de los Estados Unidos de América por barril de petróleo crudo equivalente extraído en el año de que se trate. El monto máximo de deducción a que se refiere este párrafo, se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América.
-
-La parte deducible de los gastos, costos e inversiones que rebase el monto máximo de deducción conforme al párrafo anterior, se podrá deducir en los 15 ejercicios inmediatos posteriores a aquél al que correspondan de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, sin que dicha deducción pueda aplicarse en la determinación de los derechos relativos a otro campo.
-
-La Secretaría de Hacienda y Crédito Público podrá, mediante disposiciones de carácter general, definir los conceptos que formarán parte de las deducciones autorizadas en las fracciones I a V de este artículo.
-
-Para la determinación del monto a pagar por el derecho ordinario sobre hidrocarburos a que se refiere el artículo 254 de esta Ley, así como de los pagos provisionales a que se refiere el artículo 255 de este ordenamiento, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos a que se refiere este artículo.
-
-En ningún caso serán deducibles los intereses de cualquier tipo a cargo de PEMEX Exploración y Producción, la reserva de exploración, los gastos de venta y los pagos por pensiones que se hagan con cargo a la reserva laboral. En el caso de que la reserva laboral tenga remanentes en el ejercicio, dicho remanente se reducirá de las deducciones realizadas en el mismo ejercicio.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 QUINTUS.- A cuenta del derecho a que se refiere el artículo 257 Quáter de esta Ley, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél al que correspondan los pagos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-El monto del pago provisional se calculará aplicando la tasa que corresponda conforme los párrafos primero y segundo del artículo 257 Quáter de esta Ley, al valor del petróleo crudo y gas natural extraídos del campo de que se trate, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. De dicho valor se podrá disminuir la parte proporcional de los conceptos deducibles en términos del artículo señalado, correspondiente al periodo de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-Tratándose de las inversiones sólo podrá aplicarse la parte proporcional del monto deducible de la inversión que corresponda al número de meses completos en los que el bien o bienes objeto de la inversión hayan sido utilizados por PEMEX Exploración y Producción respecto de 12 meses, en la proporción que el número de meses comprendidos desde el inicio del ejercicio y hasta el último día del mes del periodo al que corresponda el pago representen en el total de meses comprendidos en el año.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-Al pago provisional determinado conforme a los párrafos anteriores, se le restarán los pagos provisionales del derecho especial sobre hidrocarburos efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate y la diferencia será el pago provisional a enterar.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-En la declaración anual del derecho especial sobre hidrocarburos a que se refiere el artículo 257 Quáter de esta Ley, se podrán acreditar los pagos provisionales mensuales efectivamente pagados por concepto del derecho respectivo, correspondientes al ejercicio de que se trate.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 SEXTUS.- Para los efectos de los artículos 254, 257 Ter y 257 Quáter de esta Ley los siguientes costos y gastos no son deducibles:
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-I. Los costos en que se incurra por negligencia o fraude de PEMEX Exploración y Producción o de las personas que actúen por cuenta de éste;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-II. Las comisiones pagadas a corredores;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-III. Los costos relacionados con la comercialización o transporte de petróleo crudo o gas natural más allá de los puntos de entrega;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-IV. Las multas o sanciones económicas en que se incurra por el incumplimiento de obligaciones legales o contractuales;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-V. Los gastos relacionados con el empleo de un experto independiente con el propósito de resolver disputas;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-VI. Los donativos;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-VII. Los costos en que se incurra por servicios jurídicos, excepto aquéllos previstos en las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-VIII. Los gastos derivados del incumplimiento de las normas aplicables a la administración de riesgos;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-IX. Los gastos relacionados con la capacitación y programas de entrenamiento que no cumplan con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-X. Los gastos derivados del incumplimiento de las condiciones de garantía, así como las que resulten de la adquisición de bienes que no cuenten con una garantía del fabricante o su representante contra los defectos de fabricación de acuerdo con las prácticas generalmente utilizadas por la industria petrolera;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XI. Las disminuciones en el valor de los bienes no usados en la industria petrolera;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XII. Cualquier impuesto asociado de cualquier forma a los trabajadores de PEMEX Exploración y Producción;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XIII. Los montos registrados como provisiones y reservas de los fondos, excepto las que se señalen en las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XIV. Los créditos a favor de PEMEX Exploración y Producción cuyos deudores se encuentren en suspensión de pagos, hasta la conclusión del juicio correspondiente en el que los deudores sean declarados insolventes;
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-XV. Los costos legales por cualquier arbitraje que genere una disputa entre PEMEX Exploración y Producción, contratistas o subcontratistas, y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-XVI. Aquéllos que no sean estrictamente indispensables para las actividades por las que PEMEX Exploración y Producción está obligado al pago de los derechos establecidos en los artículos 254, 257 Quáter y 257 Séptimus de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 SEPTIMUS.- Por la extracción de petróleo crudo y gas natural de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho adicional sobre hidrocarburos cuando el valor promedio acumulado anual del petróleo crudo equivalente por barril extraído en el campo de que se trate sea mayor a 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América. Este derecho se calculará aplicando una tasa de 52% al resultado que se obtenga de realizar el siguiente procedimiento:
-
-I. Se calculará la diferencia entre el valor promedio acumulado anual del petróleo crudo equivalente por barril extraído en el campo de que se trate y 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América, y
-
-II. El resultado que se obtenga conforme a la fracción anterior se multiplicará por el volumen de petróleo crudo equivalente extraído en el campo de que se trate en el año, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
-
-El pago del derecho adicional sobre hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
-
-Cuando en la declaración anual resulte saldo a favor, PEMEX Exploración y Producción podrá compensar dicho saldo contra el derecho especial sobre hidrocarburos. Si después de aplicar dicha compensación subsiste un saldo a favor, o en caso de que dicho saldo no hubiere sido compensado contra el derecho mencionado, éste se podrá compensar contra pagos posteriores del propio derecho o en los términos que al efecto autorice el Servicio de Administración Tributaria. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que la compensación se realice.
-
-La determinación del derecho adicional sobre hidrocarburos, así como de los pagos provisionales, se hará por cada campo de extracción de petróleo crudo y/o gas natural.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 257 OCTAVUS.- A cuenta del derecho adicional sobre hidrocarburos a que se refiere el artículo 257 Séptimus de esta Ley, se harán pagos provisionales mensuales que se pagarán a más tardar el último día hábil del mes posterior a aquél al que correspondan los pagos.
-
-El pago provisional se calculará aplicando la tasa establecida en el artículo 257 Séptimus de esta Ley al resultado que se obtenga de realizar el siguiente procedimiento:
-
-I. Se calculará la diferencia entre el valor promedio acumulado del petróleo crudo equivalente por barril extraído en el campo desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción y 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de Estados Unidos de América, y
-
-II. El resultado que se obtenga conforme a la fracción anterior se multiplicará por el volumen de petróleo crudo equivalente extraído en el campo desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
-
-Al pago provisional determinado conforme al procedimiento anterior, se le restarán los pagos provisionales del derecho adicional sobre hidrocarburos efectivamente pagados, realizados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
+ARTICULO 257 Octavus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 ###### ARTICULO 257-A.
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 258.
 
-Para los efectos de los artículos a que se refiere este Capítulo, se considerará:
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+###### ARTICULO 258 Bis.
 
-I. Como valor del petróleo crudo extraído, la suma del valor de cada tipo de petróleo crudo extraído. El valor de cada tipo de petróleo crudo extraído se entenderá como el precio promedio de exportación por barril del petróleo crudo, en el periodo de que se trate, multiplicado por el volumen de barriles de petróleo crudo extraído en el mismo periodo. En el caso de que algún tipo de petróleo crudo comercializado dentro del país no haya sido exportado, el precio promedio ponderado se calculará ajustándolo por la calidad del petróleo crudo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-II. Como valor del gas natural extraído, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de gas natural enajenado por el propio contribuyente, multiplicado por el volumen de gas natural extraído en el mismo periodo por el que esté obligado al pago del derecho, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Como efectivamente pagado la suma de los montos que PEMEX Exploración y Producción aplicó para la extinción de su obligación fiscal disminuidos por los saldos a favor que hayan sido compensados contra otras contribuciones.
+###### ARTICULO 258 Ter.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los conceptos definidos en las fracciones anteriores no serán aplicables a los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley.
+###### ARTICULO 258 Quáter.
 
-Los derechos se deberán pagar sobre la totalidad del petróleo crudo y gas natural extraídos en el periodo, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-Para los efectos de este Capítulo se entenderá como gas natural extraído, la extracción de la totalidad de gas natural menos el gas natural utilizado para la producción de hidrocarburos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 258 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-ARTICULO 258 BIS.- Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley se considerará:
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-I. Campos en aguas profundas, aquellos campos de extracción de petróleo crudo y/o gas natural que, en promedio, sus pozos se encuentren ubicados en zonas con un tirante de agua superior a 500 metros, y (sic)
-
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-II. Campos en el Paleocanal de Chicontepec, aquellos campos de extracción de petróleo crudo y/o gas natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-III. Campos marginales, aquellos campos de extracción de petróleo crudo o gas natural que formen parte del inventario autorizado por la Secretaría de Hacienda y Crédito Público, acorde con lo establecido en el artículo 258 Quáter de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 258 TER.- Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus, 257 Octavus y 258 Quáter de esta Ley se considerará:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-I. Como valor del petróleo crudo extraído, la suma del valor de cada tipo de petróleo crudo extraído en el campo de que se trate. El valor de cada tipo de petróleo crudo extraído en el campo de que se trate se entenderá como el precio promedio de exportación por barril del petróleo crudo extraído en el campo de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de petróleo crudo extraído en el campo en el mismo periodo. En el caso de que algún tipo de petróleo crudo comercializado dentro del país no haya sido exportado, el precio de estos se calculará ajustándolo por la calidad del hidrocarburo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-II. Como valor del gas natural extraído en el campo, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de gas natural enajenado por el contribuyente, ajustado por la calidad relativa del gas natural extraído en el campo de que se trate, multiplicado por el volumen de gas natural extraído en dicho campo en el mismo periodo por el que esté obligado al pago del derecho;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-III. Como efectivamente pagado, la suma de los montos que PEMEX Exploración y Producción aplicó para la extinción de su obligación fiscal disminuidos por los saldos a favor que hayan sido compensados contra otras contribuciones;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-IV. Como valor anual del petróleo crudo equivalente por barril extraído en el campo de que se trate, la suma del valor anual del petróleo crudo extraído y del valor anual del gas natural extraído, dividido entre el volumen de petróleo crudo equivalente extraído en el campo, y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-V. Como volumen de petróleo crudo equivalente extraído en el campo, la suma de:
-
-a) El volumen de petróleo crudo, y
-
-b) El volumen de gas natural que resulte de aplicar el factor de conversión que publica la Comisión Reguladora de Energía para convertir el gas natural a barriles de petróleo crudo equivalente;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-VI. Como producción base anual de un campo marginal, la que se obtenga conforme a la siguiente fórmula:
-
-> <small>N. DE E. VEASE FORMULA EN LA PRIMERA SECCION DEL D.O.F. DE 18 DE NOVIEMBRE DE 2010, PAGINA 14.</small>
-
-si 0.9 * pce * 10 < reservas 1P, pbat = perfil 1Pt
-
-Donde:
-
-pbat: es la producción base anual del campo marginal.
-
-pce: es el volumen de petróleo crudo equivalente extraído durante los 12 meses inmediatos anteriores al mes en que se presente la propuesta de incorporación a que se refiere al artículo 258 Quáter de esta Ley, incluyendo el consumo de dicho producto efectuado por PEMEX Exploración y Producción.
-
-reservas 1P: es el monto de reservas probadas (1P) que PEMEX Exploración y Producción haya registrado en el ejercicio fiscal inmediato anterior a la incorporación del campo al inventario de campos marginales, en su certificación de reservas ante los mercados reconocidos a que se refiere el artículo 16-C del Código Fiscal de la Federación, en los que participe.
-
-Perfil 1Pt: es el perfil de extracción de petróleo crudo equivalente correspondiente a las reservas probadas (1P) que PEMEX Exploración y Producción haya registrado en el ejercicio fiscal inmediato anterior a la incorporación del campo al inventario de campos marginales, en su certificación de reservas ante los mercados reconocidos a que se refiere el artículo 16-C del Código Fiscal de la Federación, en los que participe.
-
-t: es el ejercicio fiscal que corresponda de manera que cuando t=1, se refiere al ejercicio fiscal en que se incorpora el campo al inventario de campos marginales;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-VII. Como producción incremental anual de un campo marginal, la que se obtenga de la siguiente fórmula:
-
-si prodt > pbat, piat = prodt - pbat
-
-si prodt < pbat, piat = 0
-
-Donde:
-
-piat: es la producción incremental del campo marginal en el periodo que corresponda.
-
-pbat: es la producción base anual del campo marginal.
-
-prodt: es el volumen efectivamente obtenido de petróleo crudo equivalente del campo marginal, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción en el ejercicio fiscal que corresponda.
-
-t: es el ejercicio fiscal que corresponda, de manera que cuando t=1, se refiere al ejercicio fiscal en que se incorpora al (sic) campo al inventario de campos marginales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 258 QUATER.- La Secretaría de Hacienda y Crédito Público autorizará el inventario de campos marginales.
-
-A más tardar el 31 de agosto de cada año, en su caso, PEMEX Exploración y Producción presentará a consideración de la Secretaría de Hacienda y Crédito Público, previa opinión favorable de la Secretaría de Energía, una propuesta de modificación al inventario de campos marginales que aplicará para el siguiente ejercicio fiscal.
-
-PEMEX Exploración y Producción, previa opinión favorable de la Secretaría de Energía, deberá anexar a la propuesta a que se refiere el párrafo anterior, un estudio que contenga para cada campo que proponga incorporar al inventario correspondiente, lo siguiente:
-
-I. En caso de que el campo no esté activo, una estimación de los costos de exploración, desarrollo y producción, así como de los montos de las reservas probadas (1P) y probadas y probables (2P) de petróleo crudo o gas natural;
-
-II. En caso de que el campo propuesto esté activo, una relación de los costos de producción y desarrollo, así como de los montos de las reservas probadas (1P) y probadas y probables (2P) de petróleo crudo o gas natural;
-
-III. Una estimación de la rentabilidad esperada de la explotación del campo, en el que se incluya, al menos, un análisis que demuestre que la explotación del campo de que se trate:
-
-a) Sea económicamente rentable, antes de aplicar lo dispuesto en los artículos 254 a 257 de esta Ley;
-
-b) No sea rentable para PEMEX Exploración y Producción una vez aplicado lo dispuesto en los artículos 254 a 257 de esta Ley, y
-
-c) Sea rentable para PEMEX Exploración y Producción en caso de que se aplique el régimen previsto en esta Ley para los campos incluidos en el inventario de campos marginales, y
-
-IV. El perfil de producción de hidrocarburos que corresponda a las reservas probadas (1P), de acuerdo con el proceso de certificación de reservas de PEMEX Exploración y Producción ante los mercados reconocidos a que se refiere al artículo 16-C del Código Fiscal de la Federación, en los que participe.
-
-La Secretaría de Hacienda y Crédito Público, habiendo analizado qué campos se deben incluir, mantener o eliminar, a más tardar el 30 de noviembre de cada año autorizará, en su caso, las modificaciones al inventario de campos marginales que aplicará para el siguiente ejercicio fiscal.
-
-PEMEX Exploración y Producción deberá notificar a la Secretaría de Hacienda y Crédito Público el cierre o abandono de un campo incluido en el inventario de campos marginales a más tardar a los 15 días naturales posteriores al cierre o abandono, a efecto de que la citada Secretaría elimine el campo de que se trate del inventario de campos marginales autorizado para el ejercicio en curso.
-
-Para emitir las opiniones a que se refiere este artículo la Secretaría de Energía solicitará la opinión técnica de la Comisión Nacional de Hidrocarburos.
-
-La Secretaría de Hacienda y Crédito Público podrá expedir los criterios generales y lineamientos a los que deberá sujetarse PEMEX Exploración y Producción para elaborar los estudios y la propuesta de modificación al inventario de campos marginales a que se refiere este artículo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-ARTICULO 258 QUINTUS.- Para los efectos de este Capítulo, PEMEX Exploración y Producción deberá contar con sistemas de medición de volúmenes extraídos de petróleo crudo y gas natural, instalados en cada pozo, campo y punto de transferencia de custodia. La Secretaría de Energía a través de la Comisión Nacional de Hidrocarburos emitirá los lineamientos para la medición de los citados volúmenes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 259.
 
-Para los efectos del presente Capítulo, cuando PEMEX Exploración y Producción enajene petróleo crudo o gas natural a partes relacionadas, estará obligado a determinar el valor del petróleo crudo y gas natural, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para ello el método de precio comparable no controlado establecido en el artículo 216, fracción I de la Ley del Impuesto sobre la Renta.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-Tratándose de costos, gastos e inversiones realizados o adquiridos con partes relacionadas, PEMEX Exploración y Producción considerará para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para esos efectos lo dispuesto en los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+###### ARTICULO 259 Bis.
 
-ARTICULO 259 BIS.- PEMEX Exploración y Producción presentará anualmente ante la Secretaría de Hacienda y Crédito Público un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este capítulo, haya deducido en el ejercicio fiscal de que se trate.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-En el reporte a que se refiere este artículo PEMEX Exploración y Producción deberá incluir las inversiones, costos y gastos que haya realizado en el ejercicio de que se trate por cada campo de extracción de hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y en caso de que las inversiones, gastos y costos en los que haya incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Junto con el reporte a que se refiere el párrafo anterior, PEMEX Exploración y Producción deberá presentar ante la Secretaría de Hacienda y Crédito Público la siguiente información:
+###### ARTICULO 259 Ter.
 
-I.- Una base de datos que contenga los proyectos de explotación de hidrocarburos en la que se incluyan, por cada campo de extracción, las reservas y la producción de petróleo crudo y/o gas natural, además de los conceptos señalados en el segundo párrafo de este artículo;
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-II.- La metodología utilizada para elaborar las proyecciones de producción de hidrocarburos, así como de las inversiones, gastos y costos a que se refiere el segundo párrafo de este artículo, y
-
-III.- Las premisas y supuestos empleados en las proyecciones a que se refiere el segundo párrafo de este artículo, entre las que se encuentran, factores de recuperación, interpretación sísmica, número y técnicas de pozos perforados, así como los criterios para la reclasificación de reservas.
-
-La Secretaría de Hacienda y Crédito Público podrá solicitar la información adicional que considere conveniente en relación con el reporte anual y la información a que se refiere este artículo, así como emitir las disposiciones de carácter general que sean necesarias para regular su presentación.
-
-El reporte anual y la información a que se refiere este artículo deberán entregarse a más tardar el 31 de marzo del ejercicio fiscal siguiente a aquél que se reporte.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 259 TER.- Los registros a que se refieren los artículos 254 último párrafo, 257 Ter último párrafo y 257 Quáter último párrafo, de esta Ley se realizarán conforme a las disposiciones de carácter general que al efecto emita el Servicio de Administración Tributaria.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 260.
 
-Para los efectos de este Capítulo, se estará a lo siguiente:
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
-I. Las declaraciones de los derechos a que se refiere el presente Capítulo, se presentarán a través de medios electrónicos ante la Tesorería de la Federación, y el entero del derecho se realizará mediante transferencia electrónica en la misma dependencia, y
-
-II. A cuenta de los pagos provisionales mensuales a que se refiere el artículo 254 de esta Ley, PEMEX Exploración y Producción efectuará pagos diarios, incluyendo los días inhábiles, así como pagos semanales, los cuales se efectuarán el primer día hábil de cada semana. Los montos y la forma de los pagos diarios y semanales a que se refiere esta fracción, serán los que se determinen anualmente en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y se enterarán ante la Tesorería de la Federación. Contra los pagos provisionales mensuales que resulten a cargo de PEMEX Exploración y Producción, éste podrá acreditar los anticipos efectuados por el mes de que se trate en los términos de esta fracción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-III. PEMEX Exploración y Producción así como PEMEX Refinación, entregarán mensualmente, dentro de los primeros cinco días hábiles de cada mes a los Gobiernos de los Estados y del Distrito Federal, un reporte respecto de las sumas y pagos realizados a la Tesorería de la Federación, efectuados en el mes de calendario inmediato anterior, en concepto de anticipos correspondientes al derecho ordinario sobre hidrocarburos, al derecho especial sobre hidrocarburos y al derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus. Dicha información será avalada por el titular de cada una de las entidades.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 261.
 
-Para los efectos del artículo 2 de la Ley de Coordinación Fiscal, a la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos y por el derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, se le aplicará la tasa de 85.31%; el monto que resulte de esta operación se considerará como recaudación federal participable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
-
-A cuenta de los pagos de las participaciones referidas en el párrafo anterior, la Secretaría de Hacienda y Crédito Público efectuará anticipos mensuales a más tardar el día 17 de cada mes. Los anticipos a que se refiere este párrafo serán los que se determinen anualmente en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y cumplirán con lo establecido para los anticipos de participaciones que se determinen en los términos de los Convenios de Colaboración Administrativa establecidos entre la Secretaría de Hacienda y Crédito Público y las Entidades Federativas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-El 3.17% de la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos y por el derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, se multiplicará por el factor de 0.0148; el monto que resulte de esta operación se destinará a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-PEMEX Exploración y Producción debe informar mensualmente a la Secretaría de Hacienda y Crédito Público los montos y los Municipios a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-El Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público publicará, en los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, la información que se derive de la presentación de las declaraciones a que se refiere esta Ley.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -22619,33 +22007,11 @@ Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales ca
 
 La cancelación de una concesión o asignación minera por el incumplimiento en el pago de los derechos sobre minería establecidos en esta Ley o por cualquier otra de las causas previstas en la Ley Minera, no libera a su titular del pago de los derechos sobre minería que haya causado durante su vigencia, así como de los demás accesorios que se hubieren originado por el incumplimiento en el pago de éstos, de acuerdo con las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 267.
 
-Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa calculada conforme el párrafo siguiente al valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
-
-La tasa aplicable al derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral será el porcentaje que resulte de multiplicar el precio del gas asociado a los yacimientos de carbón mineral por 2.5%.
-
-A cuenta del derecho a que se refiere este artículo, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que corresponda el pago, aplicando la tasa establecida en el segundo párrafo de este artículo al valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago.
-
-Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
-
-En la declaración anual a que se refiere el primer párrafo de este artículo, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de éste derecho correspondientes al ejercicio de que se trate.
-
-Para los efectos de este artículo, se considerará como valor del gas asociado a los yacimientos de carbón mineral extraído, el precio del gas asociado a los yacimientos de carbón, multiplicado por las unidades energéticas contenidas en el volumen de gas extraído medidas en millones de unidades térmicas británicas (Btu's) en el mismo periodo por el que se esté obligado al pago del derecho, convertido en pesos, considerando para tales efectos el promedio del tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate.
-
-Se considerará como precio del gas asociado a los yacimientos de carbón mineral, al promedio del precio de referencia del índice de Texas Eastern Transmission Corp., renglón South Texas Zone, publicado por el Inside FERC's Gas Market Report, o el índice que lo sustituya, correspondiente al periodo de que se trate, en dólares de los Estados Unidos de América por millón de unidades térmicas británicas (Btu's).
-
-La determinación de las unidades energéticas contenidas en el volumen del gas asociado a los yacimientos de carbón mineral extraído se realizará conforme a la Norma Oficial Mexicana de Calidad del Gas Natural (NOM-001-SECRE-2003). La medición del referido gas se determinará de acuerdo con las normas oficiales mexicanas que se emitan para dicho propósito.
-
-Los concesionarios estarán obligados a informar en las declaraciones mensuales y anuales realizadas por este concepto, el precio, el volumen y el valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo de que se trate.
-
-Para los efectos de este artículo, la Secretaría de Hacienda y Crédito Público, como facilidad administrativa, publicará mensualmente en el Diario Oficial de la Federación, la tasa aplicable para el cálculo del derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral.
-
-El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a este Capítulo.
+(DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -22667,7 +22033,9 @@ Los contribuyentes podrán acreditar contra el derecho a que se refiere este art
 
 El derecho a que se refiere el presente artículo, se calculará considerando la totalidad de las concesiones o asignaciones de las que sea titular.
 
-Los concesionarios y asignatarios mineros que paguen el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral a que se refiere el artículo 267 de esta Ley, no estarán obligados al pago del derecho a que se refiere este artículo únicamente respecto de dicho gas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
 
 El pago del derecho señalado en este artículo se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a esta Ley.
 
@@ -28646,3 +28014,31 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. La Secretaría de Economía contará con el plazo de un año contado a partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, para establecer mediante publicación en este medio de difusión, el sistema electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
 
 Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos.
+
+D.O.F. 11 DE AGOSTO DE 2014.
+
+###### ARTÍCULO CUARTO.
+
+Se establecen las siguientes disposiciones transitorias de la Ley Federal de Derechos:
+
+I. La derogación del Capítulo XII del Título Segundo que comprende los artículos 254 a 261, así como la adición del artículo 61-F de la Ley Federal de Derechos, entrarán en vigor el 1 de enero de 2015.
+
+Sin perjuicio de lo anterior, las deducciones pendientes de aplicar y los beneficios que se hayan generado conforme a lo dispuesto en el citado Capítulo XII de la Ley Federal de Derechos, se podrán seguir ejerciendo hasta agotarlos, de conformidad con las disposiciones vigentes al 31 de diciembre de 2014, y aquellas disposiciones de carácter general que, en su caso, emita la Secretaría de Hacienda y Crédito Público.
+
+II. Los artículos 61-D, 267, y el penúltimo párrafo del artículo 268, de la Ley Federal de Derechos quedarán derogados a los ciento ochenta días naturales siguientes a la entrada en vigor de la Ley de Hidrocarburos.
+
+En tanto los concesionarios mineros no obtengan los Contratos a que se refiere el séptimo transitorio de la Ley de Hidrocarburos, continuarán pagando los derechos señalados en los preceptos mencionados en el párrafo anterior, sin perjuicio de lo señalado en el último párrafo de la disposición transitoria señalada.
+
+Una vez obtenidos los Contratos, los concesionarios mineros cubrirán las Contraprestaciones que se establezcan en sus respectivos Contratos.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Durante los ejercicios 2015, 2016, 2017 y 2018 se está a lo siguiente:
+
+I. Cuando los ingresos observados totales del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo en el ejercicio correspondiente sean superiores a los ingresos estimados para el mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I del artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo, el Gobierno Federal entregará a las entidades federativas y municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente al monto que les correspondería como participaciones de considerar participable, en términos de la Ley de Ingresos del año de que se trate, el monto que resulte de descontar del excedente que se registre entre los ingresos observados y los ingresos estimados, la diferencia existente entre el monto observado correspondiente a la transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 93 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la estimación por el mismo concepto contenida en la Ley de Ingresos de la Federación del año de que se trate.
+
+II. Cuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se integran a la Recaudación Federal Participable conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente a la diferencia entre el monto que les hubiera correspondido como participaciones conforme a las disposiciones citadas, y el monto efectivamente observado conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
+
+Los recursos que se entreguen a las entidades federativas y municipios en términos de la fracción I de este transitorio no podrán ser mayores a 11,800 millones de pesos en el ejercicio correspondiente. El Gobierno Federal realizará la entrega de los recursos que procedan conforme a las fracciones I y II anteriores a más tardar en el mes de febrero del ejercicio siguiente al que corresponda.
