@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-la-comision-de-administracion-vigilancia-y-101896
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-06"
-last_updated: "2014-08-06"
+last_updated: "2014-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "TAM"
 ---
 # REGLAMENTO DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA COMISIÓN DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE AGOSTO DE 2014.]
 
 Reglamento publicado en el Número 94 del Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de agosto de 2014.
 
@@ -215,5 +215,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de la publi
 SEGUNDO.- Para los efectos del artículo 7 de este ordenamiento, por única ocasión, los integrantes de la Comisión, serán los actuales, hasta que concluya su encargo el Presidente del Tribunal Electoral en funciones.
 
 TERCERO.- En lo relativo a la elaboración de manuales, lineamientos y cualquier otro documento que sirva de base para el funcionamiento o aplicación de procedimientos internos de administración de acuerdo a lo previsto por este ordenamiento, se tendrá un término de 9 meses para su elaboración, contados a partir de su aprobación y publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 12 DE AGOSTO DE 2014)</small>
+
+Fecha de aprobación, el (09) nueve de julio del año (2014) dos mil catorce.
 
 FIRMAS.- PRESIDENTE.- MAG. JESÚS MIGUEL GRACIA RIESTRA.- Rúbrica.- INTEGRANTE.- MAG. CLAUDIO DÍAZ CASTAÑO.- Rúbrica.- INTEGRANTE.- MAG. MANUEL CEBALLOS JIMÉNEZ.- Rúbrica.- SECRETARIA TÉCNICA.- C.P. ZAIRE DANIELA URBINA MULLER.- Rúbrica.
