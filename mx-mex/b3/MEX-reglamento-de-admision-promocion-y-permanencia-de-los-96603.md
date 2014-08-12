@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-admision-promocion-y-permanencia-de-los-96603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-15"
-last_updated: "2013-11-15"
+last_updated: "2014-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE ADMISIÓN, PROMOCIÓN Y PERMANENCIA DE LOS ESTUDIANTES DEL BACHILLERATO A DISTANCIA ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 12 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Gaceta de Gobierno del Estado de México, el viernes 15 de noviembre de 2013.
 
@@ -41,9 +41,11 @@ REGLAMENTO DE ADMISIÓN, PROMOCIÓN Y PERMANENCIA DE LOS ESTUDIANTES DEL BACHILL
 
 El presente Reglamento tiene por objeto regular el ingreso, promoción y permanencia de los estudiantes del Bachillerato a Distancia Estado de México que imparte la Universidad Digital del Estado de México.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 2.
 
-La aplicación y vigilancia del presente Reglamento será a través de la Subdirección Académica, el Departamento de Control Escolar, los Centros de Atención y Evaluación, Sede Municipal y el personal de la Universidad Digital del Estado de México.
+La aplicación y vigilancia del presente Reglamento será a través de la Subdirección Académica, el Departamento de Control Escolar, los Centros de Atención y Evaluación, y el personal de la Universidad Digital del Estado de México.
 
 ###### Artículo 3.
 
@@ -141,6 +143,10 @@ e) Dos fotografías tamaño infantil recientes a color; y
 
 f) Tener una cuenta de correo electrónico personal e intransferible.
 
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2014)</small>
+
+g) Credencial de Elector (si el estudiante es mayor de edad)
+
 ###### Artículo 12.
 
 La reinscripción, es el acto a través del cual el estudiante realiza los trámites administrativos necesarios para ingresar al módulo II y subsecuentes en el Centro de Atención y Evaluación.
@@ -205,13 +211,15 @@ Los estudiantes tendrán derecho a presentar una evaluación a título de sufici
 
 El estudiante tiene derecho a cursar hasta en 2 ocasiones las asignaturas del Plan de Estudios del Bachillerato a Distancia Estado de México, para ello deberá realizar el trámite de reinscripción al módulo que corresponda.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 27.
 
-Los estudiantes que deseen reinscribirse al cuarto módulo, no deberán tener pendientes de aprobación más de tres asignaturas de los módulos cursados, en los siguientes términos: una del módulo I, una del módulo II y una del módulo III.
+Los estudiantes que deseen reinscribirse al cuarto módulo, no deberán tener pendientes de aprobación más de tres asignaturas de los módulos cursados.
 
 ###### Artículo 28.
 
-El máximo número de asignaturas que un estudiante puede recursar es de 4 y solo existe la posibilidad de cursar una asignatura durante un módulo.
+(DEROGADO, G.G. 12 DE AGOSTO DE 2014)
 
 ###### Artículo 29.
 
@@ -227,9 +235,11 @@ La permanencia en el Bachillerato a Distancia Estado de México, es el acto de c
 
 El límite de tiempo para ser considerado estudiante del Bachillerato a Distancia Estado de México no podrá exceder de 4 años, contados a partir de la primera inscripción. Para el cómputo del plazo a que se refiere este artículo, se considerará sólo el tiempo efectivo en que se esté inscrito como estudiante.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 32.
 
-El estudiante que haya interrumpido sus estudios de Bachillerato a Distancia, por un plazo menor a la duración del Plan de Estudios respectivo, tendrá la opción de adquirir por una sola ocasión la condición de estudiante, debiendo reinscribirse al módulo que le corresponda, así como sujetarse al Plan de Estudios vigente al momento de su reingreso.
+El estudiante que haya interrumpido sus estudios de Bachillerato a distancia, por un plazo menor a la duración del Plan de Estudios respectivo, tendrá la opción de adquirir nuevamente la condición de estudiante, debiendo reinscribirse al módulo que le corresponda, así como sujetarse al Plan de Estudios Vigente al momento de su reingreso.
 
 ###### Artículo 33.
 
@@ -249,7 +259,7 @@ Las asignaturas del Plan de Estudios del Bachillerato a Distancia Estado de Méx
 
 ###### Artículo 37.
 
-En todo caso cuando un estudiante acumule 15 evaluaciones reprobadas, durante o al término del Bachillerato, causará baja definitiva, perdiendo así su condición de estudiante.
+(DEROGADO, G.G. 12 DE AGOSTO DE 2014)
 
 ### CAPÍTULO SEXTO. DE LA EVALUACIÓN DEL APRENDIZAJE
 
@@ -273,7 +283,9 @@ La calificación mínima para aprobar una asignatura será de 6.0 puntos. La que
 
 Para el registro de la calificación de la evaluación ordinaria, derivada de la evaluación formativa y la calificación del examen final, deberá observarse lo siguiente:
 
-I. Cuando el estudiante no haya obtenido ninguna calificación durante la evaluación formativa, se le anotará "NP" que significa "No Presentado". Perdiendo con ello su derecho a la aplicación del examen final y deberá cursar nuevamente la asignatura;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2014)</small>
+
+I. Cuando el estudiante no haya obtenido ninguna calificación durante la evaluación formativa, se le anotará “NP” que significa “No Presentado”;
 
 II. Cuando el estudiante obtenga un promedio menor o igual a 5.0 se le anotará NA que significa "No Acreditado". Por lo cual podrá presentar la asignatura en evaluación extraordinaria;
 
@@ -282,6 +294,10 @@ III. Presentar evaluación final es indispensable para poder tener una calificac
 IV. La calificación que se obtenga de la evaluación extraordinaria se sumará con la de la evaluación formativa para determinar la calificación aprobatoria o reprobatoria de la asignatura; y
 
 V. La anotación de "NP" no se considera como calificación y no contará para efectos del número de evaluaciones reprobadas que causan la baja definitiva del estudiante.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2014)</small>
+
+VI. Para que el estudiante adquiera el derecho a presentar el examen final de la asignatura, debe cumplir con el 50% de las actividades de aprendizaje solicitadas durante el curso, es decir, habrá de realizar al menos las actividades de dos unidades completas.
 
 ###### Artículo 42.
 
@@ -301,15 +317,17 @@ Los exámenes finales, extraordinarios y a título de suficiencia se aplicarán 
 
 ###### Artículo 46.
 
-Para presentar examen final es indispensable tener una calificación aprobatoria en cualquier asignatura.
+(DEROGADO, G.G. 12 DE AGOSTO DE 2014)
 
 ###### Artículo 47.
 
 Las calificaciones de la asignatura deben ser asentadas por el asesor en el Portal del Bachillerato a Distancia Estado de México y en las actas correspondientes dentro del plazo de cinco días hábiles siguientes a la aplicación de la evaluación.
 
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 48.
 
-El acta de calificaciones deberá ser firmada por el asesor y Coordinador del Centro de Atención y Evaluación correspondiente, dentro de los tres días hábiles posteriores al reporte de las calificaciones, la cual será remitida al Departamento de Control Escolar en un plazo de 15 días hábiles posteriores al término del módulo respectivo.
+El acta de calificaciones deberá ser firmada por el asesor y Coordinador del Centro de Atención y Evaluación correspondiente, dentro de los tres días hábiles posteriores al reporte de las calificaciones.
 
 ###### Artículo 49.
 
@@ -325,11 +343,19 @@ En caso de que exista error en el registro de alguna calificación, sólo proced
 
 El estudiante deberá mostrar honestidad en todo momento. Los fraudes académicos (copia, alteración de información en exámenes o actividades de aprendizaje, ceder sus claves de acceso, ser suplantado en la aplicación de exámenes, etc.) serán sancionados de acuerdo a los siguientes criterios:
 
-I. En la primera ocasión, recibirá cero de calificación en la actividad en la que haya sido descubierto el fraude académico. Si comete el fraude en el examen final, automáticamente tendrá calificación reprobatoria en el curso o asignatura;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2014)</small>
 
-II. En la segunda ocasión recibirá las sanciones anteriores acompañadas de una amonestación por escrito; y
+I. En la primera ocasión, recibirá cero de calificación en la actividad en la que haya sido descubierto el fraude académico;
+
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2014)</small>
+
+II. En la segunda ocasión recibirá la sanción anterior acompañada de una amonestación por escrito, perdiendo con ello el derecho al examen final de la asignatura en la que se cometió el fraude;
 
 III. En la tercera ocasión causará baja definitiva.
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2014)</small>
+
+IV. Si comete fraude en el examen final, extraordinario o a título de suficiencia automáticamente obtendrá cero de calificación en la asignatura.
 
 ###### Artículo 52.
 
@@ -372,3 +398,11 @@ Rector de la Universidad Digital del Estado de México
 Y Secretario Técnico del Consejo Directivo.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE AGOSTO DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
