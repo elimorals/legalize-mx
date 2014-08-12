@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2011-04-13"
+last_updated: "2014-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -502,6 +502,14 @@ Los trabajadores disfrutarán, por cada seis días de labor, de un día de desca
 ###### ARTICULO 51.
 
 Las mujeres embarazadas disfrutarán de un período de descanso mínimo de noventa días, contados a partir de la fecha de expedición del certificado médico de incapacidad prenatal, expedido por la Institución que otorgue la seguridad social o por facultativo expresamente autorizado por la Entidad Pública, cuando la trabajadora no esté afiliada a alguna institución de seguridad social. Durante los seis meses siguientes al vencimiento de esta incapacidad, cuando menos, tendrán derecho diariamente a un descanso de una hora para alimentar a sus hijos.
+
+> <small>(ADICIONADO, G.O. 12 DE AGOSTO DE 2014)</small>
+
+En caso de adopción de un infante, las trabajadoras gozarán de seis semanas de descanso con goce de sueldo posteriores al día que lo reciban.
+
+> <small>(ADICIONADO, G.O. 12 DE AGOSTO DE 2014)</small>
+
+Los trabajadores, por concepto de paternidad, disfrutarán de un permiso de cinco días laborales con goce de sueldo, por el nacimiento de sus hijos, y de igual forma en el caso de que adopten a un menor, acreditando debidamente y de manera oportuna los respectivos eventos.
 
 ###### ARTICULO 52.
 
@@ -1705,7 +1713,7 @@ DADA en el Salón de Sesiones de la H. Legislatura del Estado, en la ciudad de X
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Estatal en la ciudad de Xalapa-Enríquez, Veracruz, a los dos días del mes de abril de mil novecientos noventa y dos.- DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- Lic. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- C. GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.- Lic. JOSE LUIS LOBATO CAMPOS.- Rúbrica.- Secretario de Educación y Cultura.- Lic. HECTOR SALMERON ROIZ.- Rúbrica.- Secretario de Desarrollo Económico.- Ing. GUSTAVO NACHON AGUIRRE.- Rúbrica.- Secretario de Comunicaciones, Lic. PORFIRIO SERRANO AMADOR.- Rúbrica.- Secretario de Desarrollo Urbano.- Lic. JOSE BECERRA O'LEARY.- Rúbrica.- Secretario de Desarrollo Agropecuario y Pesquero.- Dr. RAFAEL VELAZCO FERNANDEZ.- Rúbrica.- Secretario de Salud y Asistencia.- Lic. OSCAR AGUIRRE LOPEZ.- Rúbrica.- Procurador General de Justicia.- C.P. CARLOS M. AGUIRRE GUTIERREZ.- Rúbrica.- Contralor General.- Lic. IGNACIO OROPEZA LOPEZ.- Rúbrica.- Coordinador General de Comunicación Social.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 26 DE SEPTIEMBRE DE 2008.
 
@@ -1720,3 +1728,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decreto, las modificaciones aprobadas serán aplicables a los Códigos Hacendarios Municipales de orden específico de los diversos municipios del Estado, a pesar de las disposiciones en contrario que en éstos existan.
+
+G.O. 12 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
