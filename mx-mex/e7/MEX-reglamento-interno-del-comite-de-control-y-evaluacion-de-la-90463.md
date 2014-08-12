@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-904
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-27"
-last_updated: "2012-11-27"
+last_updated: "2014-08-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 12 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado la Sección Segunda de la Gaceta de Gobierno del Estado de México, el martes 27 de noviembre de 2012.
 
@@ -247,7 +249,7 @@ II. Opinar en materia de control y evaluación, respecto de la forma en que se c
 
 III. Proponer la mejora continua en el programa de desarrollo y calidad institucional.
 
-IV. Solicitar al Presidente la celebración de las sesiones ordinarias o extraordinarias que considere necesarias; (sic)
+IV. Solicitar al Presidente la celebración de las sesiones ordinarias o extraordinarias que considere necesarias;
 
 ###### Artículo 20.
 
@@ -314,3 +316,15 @@ LIC. BENJAMÍN VALDÉS PLATA
 PRESIDENTE DEL COMITÉ Y RECTOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE aprobado el 27 de noviembre de 2012.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
