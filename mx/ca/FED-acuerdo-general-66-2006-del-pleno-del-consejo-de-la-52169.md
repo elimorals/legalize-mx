@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2012-04-25"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -989,21 +989,31 @@ Las unidades ejecutoras de gasto serán las responsables de remitir a Programaci
 
 ### CAPITULO V. Del Archivo Contable
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 113.
 
-(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITÉ COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE REGULA EL PROCESO CONTABLE DE DICHOS ÓRGANOS, D.O.F. 26 DE MAYO DE 2011)
+Programación y Presupuesto y las Administraciones Regionales estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 114.
 
-(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITÉ COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE REGULA EL PROCESO CONTABLE DE DICHOS ÓRGANOS, D.O.F. 26 DE MAYO DE 2011)
+En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, Programación y Presupuesto, las Administraciones Regionales, según corresponda, deberán consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 115.
 
-(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITÉ COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE REGULA EL PROCESO CONTABLE DE DICHOS ÓRGANOS, D.O.F. 26 DE MAYO DE 2011)
+Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, Programación y Presupuesto, previo dictamen de la Contraloría, someterá a consideración de la Comisión, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
+
+Las Administraciones Regionales someterán previamente a visto bueno de Programación y Presupuesto, la lista de documentos justificatorios y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y posterior consideración de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 116.
 
-(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITÉ COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE REGULA EL PROCESO CONTABLE DE DICHOS ÓRGANOS, D.O.F. 26 DE MAYO DE 2011)
+La documentación contable que le sea requerida a Programación y Presupuesto y a las Administraciones Regionales, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
 
 ###### Artículo 117.
 
@@ -1302,3 +1312,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que reglamenta el proceso presupuestario en el Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Las Administraciones Regionales deberán prever los espacios físicos necesarios para la conservación de los documentos y apegarse a las normas presupuestarias, de contabilidad, y demás que resulten aplicables, así como a las disposiciones que en materia de archivos proceda.
