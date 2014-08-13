@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2013-07-05"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -139,7 +139,7 @@ Corresponde al Gobernador del Estado de Tlaxcala nombrar y remover libremente a 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 11.
 
@@ -160,8 +160,6 @@ Secretaría de Salud
 Secretaría de Comunicaciones y Transportes
 
 Secretaría de Fomento Agropecuario
-
-Secretaría de Seguridad Pública
 
 Procuraduría General de Justicia
 
@@ -281,9 +279,11 @@ DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
 SECRETARIA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 27.
 
-La Secretaría de Gobierno es la encargada, de conducir por delegación del Ejecutivo, la política interna del Estado.
+La Secretaría de Gobierno es la encargada, de conducir por delegación del Ejecutivo, la política interna del Estado; así como de ejercer las funciones de seguridad pública y ciudadana.
 
 ###### ARTICULO 28.
 
@@ -381,9 +381,73 @@ XXIII.- Suplir al Gobernador del Estado de Tlaxcala en sus ausencias conforme a 
 
 XXIV.- Recabar información, los datos indispensables del movimiento general de los asuntos del Ejecutivo que sirvan de apoyo para el informe anual que debe rendir el Gobernador del Estado de Tlaxcala ante el Congreso del Estado de Tlaxcala, y
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE AGOSTO DE 2014)</small>
 
-XXV.- Las demás que le señalen las leyes, reglamentos, decretos, convenios y acuerdos y otras disposiciones vigentes en el Estado.
+XXV.- Ejercer por delegación del Gobernador del Estado y en el ámbito de sus atribuciones, el mando sobre las instituciones policiales a su cargo para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos,
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXVI.- Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública del Estado y de sus habitantes, el tránsito en las vialidades públicas de su competencia, la protección ciudadana y la prevención del delito; y del sistema integral de justicia para adolescentes en la Entidad;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXVII.- Celebrar convenios de colaboración, en el ámbito de su competencia con el gobierno federal, los gobiernos municipales; así como con otras entidades federativas, para coordinar acciones en materia de prevención y persecución del delito, contra la delincuencia organizada y en materia de protección ciudadana;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXVIII.- Participar en la atención integral a víctimas de delito y coadyuvar en la protección de los derechos consagrados en su favor en la Constitución Federal y particular del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXIX.- Establecer un sistema destinado a obtener, analizar, estudiar y procesar información estadística de los delitos, condiciones sociales, riesgos de seguridad, identificación de delincuentes, reincidencia y otros que sean convenientes para una rápida acción de los cuerpos policiacos en la protección de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXX.- Supervisar que se dé cabal cumplimiento en el Estado de los acuerdos del Consejo Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXI.- Fomentar la participación ciudadana en la formulación de planes y programas relacionados con la seguridad pública, así como en el diseño de las políticas, medidas y acciones que en la materia procedan;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXII.- Intervenir en los procesos de ejecución de sanciones penales y medidas restrictivas de la libertad impuestas por los tribunales judiciales en términos de lo dispuesto por la Ley de Ejecución de Sanciones y Medidas Restrictivas de la Libertad para el Estado de Tlaxcala, así como en los procedimientos a cargo de los Jueces de Ejecución del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXIII.- Organizar, dirigir y supervisar bajo su adscripción a la Policía Estatal, garantizando el desempeño honesto de su personal y aplicar su régimen disciplinario;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXIV.- Administrar el sistema penitenciario y de justicia para adolescentes en el Estado, en términos de la ley de la materia y de la política especial correspondiente con estricto apego a los derechos humanos; así como tramitar, por acuerdo del Gobernador, las solicitudes de liberaciones, amnistía y traslado de sentenciados;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXV.- Asumir el mando único de la policía municipal, previa celebración de los convenios correspondientes;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXVI.- Promover, en el ámbito de su competencia, el registro, la profesionalización y modernización de las corporaciones de seguridad pública del Estado y aplicar las normas, políticas y lineamientos que procedan para establecer entre ellas mecanismos de coordinación;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXVII.- Otorgar, suspender y revocar las autorizaciones a empresas que presten servicios privados de seguridad en el Estado; así como, supervisar su debido funcionamiento y verificar que mantengan los requisitos previstos en las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXVIII.- Proponer en el seno del Consejo Estatal de Seguridad Publica, políticas, acciones y estrategias orientadas a prevenir el delito y reconstituir el tejido social;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XXXIX.- Auxiliar al Ministerio Público, a las autoridades judiciales y administrativas para el debido ejercicio de sus funciones, cuando sea requerido para ello; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2014)</small>
+
+XL.- Las demás que le señalen las leyes, reglamentos, decretos, convenios y acuerdos y otras disposiciones vigentes en el Estado.
+
+En el ejercicio de las facultades a que se refieren las fracciones XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX de este artículo, el Secretario se auxiliará del Comisionado Estatal de Seguridad, sin perjuicio de ejercer directamente dichas facultades.
+
+El Comisionado Estatal de Seguridad será nombrado y removido libremente por el Titular del Poder Ejecutivo y dependerá directamente del Secretario de Gobierno conforme lo determine el reglamento interior respectivo.
 
 ###### ARTICULO 29.
 
@@ -575,7 +639,7 @@ l) Proporcionar al turismo la información, orientación y auxilio que le asiste
 
 m) Formular y difundir la información oficial en materia de turismo;
 
-n) Llevar estadísticas de los servicios, sitios visitantes y demás relacionados con el turismo en el Estado de Tlaxcala, e (sic)
+n) Llevar estadísticas de los servicios, sitios visitantes y demás relacionados con el turismo en el Estado de Tlaxcala, e
 
 o) Las demás que le confiera el Ejecutivo del Estado.
 
@@ -609,7 +673,7 @@ m) Participar en la mejora regulatoria y la simplificación administrativa;
 
 n) Promover la definición de los estímulos y apoyos necesarios a fin de facilitar el establecimiento y operación de las empresas, atendiendo tanto a criterios de generación de empleo como de calidad estratégica y prioritaria;
 
-o) Impulsar la modernización empresarial, particularmente a las micros, pequeñas y medianas empresas, a fin de mejorar sus procesos productivos, comerciales y de servicios con el propósito de coadyuvar a la penetración y permanencia de más y mejores productos tlaxcaltecas en el mercado Estatal, Nacional e Internacional, e (sic)
+o) Impulsar la modernización empresarial, particularmente a las micros, pequeñas y medianas empresas, a fin de mejorar sus procesos productivos, comerciales y de servicios con el propósito de coadyuvar a la penetración y permanencia de más y mejores productos tlaxcaltecas en el mercado Estatal, Nacional e Internacional, e
 
 p) Las demás que le señalen las disposiciones legales aplicables.
 
@@ -759,7 +823,7 @@ X.- Establecer las bases para la promoción e impulso del modelo de atención co
 
 XI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud.
 
-XII.- Ejercer y realizar todas aquellas acciones que le correspondan en materia de salubridad general local y, en su caso, expedir la normatividad correspondiente, en términos de las disposiciones aplicables; y (sic)
+XII.- Ejercer y realizar todas aquellas acciones que le correspondan en materia de salubridad general local y, en su caso, expedir la normatividad correspondiente, en términos de las disposiciones aplicables; y
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -875,89 +939,9 @@ SECRETARIA DE LA FUNCION PUBLICA
 
 SECRETARIA DE SEGURIDAD PUBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2011)</small>
-
 ###### ARTICULO 47.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, el tránsito en las vialidades públicas de su competencia, la protección ciudadana, la prevención del delito y reinserción social en el Estado, y le corresponde el despacho de los asuntos siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
-
-I. Proponer al Gobernador del Estado, los programas relativos a la seguridad de los habitantes; al orden público que asegure las libertades; a la prevención de delitos y a la reinserción social de los sentenciados; así como de las unidades encargadas de la prevención en la comisión del delito y del sistema integral de justicia para adolescentes en la entidad.
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-II. Proteger la seguridad de las personas, previniendo conductas delictivas en todo el Estado, fortaleciendo la vigilancia de las zonas vulnerables;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-III. Investigar a los inculpados para evitar la impunidad y reincidencia delictiva; celebrando convenios que fortalezcan las relaciones con los gobiernos federal, municipales, y con otros Estados, para coordinar esfuerzos en materia de prevención, contra la delincuencia organizada, en protección ciudadana y en la persecución de delitos;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-IV. Proteger las garantías de las víctimas de delito consagradas en la Constitución Federal y particular del Estado;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-V. Establecer el sistema de información destinado a obtener, analizar, estudiar y procesar información de los delitos mediante instrumentos que garanticen el respeto a los derechos fundamentales;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-VI. Elaborar estudios multidisciplinarios y estadísticos sobre el fenómeno delictivo; estableciendo el sistema de información destinado a obtener, analizar, estudiar y procesar información de los delitos, condiciones sociales, riesgos de seguridad, identificación de delincuentes, reincidentes y otras que sean convenientes para una rápida acción de los cuerpos policíacos en la protección de la ciudadanía;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-VII. Fomentar la participación ciudadana en la formulación de planes y programas relacionados con la seguridad pública, así como en el diseño de las políticas, medidas y acciones que en la materia procedan;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
-
-VIII. Intervenir en los procesos de ejecución de sanciones penales y medidas restrictivas de la libertad impuestas por los tribunales judiciales en términos de lo dispuesto por la Ley de Ejecución de Sanciones y Medidas Restrictivas de la Libertad para el Estado de Tlaxcala, así como en los procedimientos a cargo de los Jueces de Ejecución del Poder Judicial del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
-
-IX. Administrar los Centros de Internamiento Penal del Estado y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de liberaciones, amnistía y traslado de sentenciados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
-
-X. Administrar, asegurar y vigilar los Centros de Internamiento Penal del Estado; así como el Centro de Internamiento de Instrucción de medidas para adolescentes en el Estado.
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XI. Promover, en el ámbito de su competencia, el registro, la profesionalización y modernización de las corporaciones de seguridad pública del Estado;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XII. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre las corporaciones de seguridad pública que existan en el Estado;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XIII. Proponer en el seno del Consejo Consultivo Estatal de Seguridad Pública, políticas, acciones y estrategias en política criminal;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XIV. Coordinarse con las instancias federales, estatales y municipales, dentro del Sistema Nacional de Seguridad Pública, a efecto de cumplir con los objetivos y fines en la materia, conforme a la legislación correspondiente;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XV. Autorizar y en su caso suspender los permisos para la prestación de los servicios privados de seguridad en el Estado; así mismo supervisar y verificar que mantengan los requisitos exigidos para su funcionamiento previsto en las leyes;
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XVI. Auxiliar al Ministerio Público, autoridades judiciales y administrativas cuando sea requerida para ello, y
-
-> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-XVII. Las demás que le señalen las leyes, reglamentos, convenios federales y estatales, así como las que le atribuyan otras disposiciones jurídicas vigentes en la materia.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2014)
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1355,7 +1339,7 @@ En cumplimiento a las medidas de racionalidad y austeridad presupuestaria para e
 
 ###### ARTÍCULO OCTAVO.
 
-Los derechos y obligaciones contractuales contraídos por el Comité de Planeación para el Desarrollo del Estado de Tlaxcala y de la Secretaría de Turismo, serán atribuidos a la Secretaría de Planeación y Finanzas y a la Secretaría Turismo (sic) y Desarrollo Económico, respectivamente.
+Los derechos y obligaciones contractuales contraídos por el Comité de Planeación para el Desarrollo del Estado de Tlaxcala y de la Secretaría de Turismo, serán atribuidos a la Secretaría de Planeación y Finanzas y a la Secretaría (sic) Turismo y Desarrollo Económico, respectivamente.
 
 ###### ARTÍCULO NOVENO.
 
@@ -1394,3 +1378,47 @@ Las menciones contenidas en otras leyes, reglamentos y en general en cualquier d
 ###### ARTÍCULO DÉCIMO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 13 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto el Gobernador del Estado a través de las instancias competentes reorganizará la estructura de las Dependencias, a través de la creación, fusión o disolución de las unidades administrativas que sean necesarias.
+
+###### ARTÍCULO TERCERO.
+
+Las unidades administrativas de la Secretaría de Seguridad Pública del Estado de Tlaxcala que pasen a la Secretaría de Gobierno, con motivo de lo establecido en el presente Decreto, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia o Entidad a otra, continuarán tramitándose por las unidades administrativas de la Dependencia o Instancia que la sustituya.
+
+###### ARTÍCULO QUINTO.
+
+Todo instrumento legal, jurídico o administrativo en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a Secretaría de Seguridad Pública del Estado de Tlaxcala, por virtud del mismo, se entenderá asignado a la Secretaría de Gobierno o al Comisionado Estatal de Seguridad.
+
+###### ARTÍCULO SEXTO.
+
+En cumplimiento a las medidas de racionalidad y austeridad presupuestaria para el ejercicio fiscal que corresponda, se seguirán utilizando hasta que se agoten, los formatos, placas, insignias, emblemas y demás papelería existente en los que consten la denominación de las Dependencias que como consecuencia de esta reforma desaparecen o cambian su denominación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos y obligaciones contractuales contraídos por la Secretaría de Seguridad Pública del Estado de Tlaxcala, serán atribuidos a la Secretaría de Gobierno.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado de Tlaxcala expedirá los reglamentos y acuerdos administrativos para mejor proveer el presente Decreto, dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los Reglamentos vigentes en todo aquello que no lo contravenga.
+
+###### ARTÍCULO NOVENO.
+
+Las obligaciones laborales de cada Dependencia que se extinga o desaparezca, serán asumidas por los respectivos órganos o unidades administrativas de readscripción, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
