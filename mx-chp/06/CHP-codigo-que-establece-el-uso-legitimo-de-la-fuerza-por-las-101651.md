@@ -4,7 +4,7 @@ identifier: "CHP-codigo-que-establece-el-uso-legitimo-de-la-fuerza-por-las-10165
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-04"
-last_updated: "2014-06-04"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CÓDIGO QUE ESTABLECE EL USO LEGÍTIMO DE LA FUERZA POR LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 538 QUE ABROGA EL CÓDIGO QUE ESTABLECE EL USO LEGÍTIMO DE LA FUERZA POR LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014 (ABROGADO).
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 4 de junio de 2014.
 
@@ -193,7 +195,7 @@ La actuación de los integrantes o funcionarios de las Instituciones de Segurida
 
 I. No usar la fuerza con fines punitivos, venganza o intimidación.
 
-II. No infligir, instigar o tolerar acto alguno de tortura u otros tratos o penas crueles, inhumanos (sic) o degradantes.
+II. No infligir, instigar o tolerar acto alguno de tortura u otros tratos o penas crueles, inhumanos o degradantes.
 
 ###### Artículo 11.
 
@@ -504,3 +506,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 15 días del mes de mayo del año dos mil catorce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
