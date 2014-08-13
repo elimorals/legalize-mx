@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2013-11-20"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -495,7 +495,7 @@ b) Órganos Sustantivos Técnicos:
 
 15. Una Unidad de Control y Seguimiento Documental.
 
-( ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 16. Un Instituto de Investigación y Profesionalización.
 
@@ -1057,13 +1057,49 @@ XI. Supervisar personalmente que los Fiscales del Ministerio Público que le est
 
 XII. Las demás que establezca la presente Ley, su Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 33.
 
-Además de las Fiscalías Especializadas, establecidas en la Constitución Política del Estado de Chiapas, la Procuraduría contará con las Fiscalías Especializadas de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; para la Atención de los Delitos Ambientales; y en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+Tomando en cuenta las previstas en la Constitución Política del Estado de Chiapas, la Procuraduría contará con las Fiscalías Especializadas siguientes:
 
-El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención de los Delitos Relacionados con Servidores Públicos; contra la Delincuencia Organizada; en Secuestro; en Asuntos Especiales y Relevantes; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; para la Atención de los Delitos Ambientales; y en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
+I. Fiscalía Especializada de Visitaduría.
+
+II. Fiscalía Especializada en Asuntos Especiales y Relevantes.
+
+III. Fiscalía Especializada en Atención a los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+IV. Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación.
+
+V. Fiscalía Especializada en Atención de los Delitos Relacionados con Servidores Públicos.
+
+VI. Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión.
+
+VII. Fiscalía Especializada en Contra de la Delincuencia Organizada.
+
+VIII. Fiscalía Especializada en Delitos Cometidos en Contra de Inmigrantes.
+
+IX. Fiscalía Especializada en Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad.
+
+X. Fiscalía Especializada en Justicia Indígena.
+
+XI. Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio.
+
+XII. Fiscalía Especializada en Procedimientos Penales.
+
+XIII. Fiscalía Especializada en Protección a los Derechos de las Mujeres.
+
+XIV. Fiscalía Especializada en Protección y Atención a los Organismos No Gubernamentales Defensores de los Derechos Humanos.
+
+XV. Fiscalía Especializada en Secuestro.
+
+XVI. Fiscalía Especializada Jurídica, Consultiva y de Legislación.
+
+XVII. Fiscalía Especializada para la Atención de los Delitos Ambientales.
+
+XVIII. Fiscalía Especializada para la Atención e Investigación de los Delitos Cometidos por Adolescentes.
+
+El funcionamiento y atribuciones específicas de las Fiscalías Especializadas, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
 
 ### Capítulo V. De la Fiscalía Electoral y Atribuciones de su Titular
 
@@ -1251,11 +1287,7 @@ Las atribuciones específicas de la Coordinación de Administración y Finanzas,
 
 ###### Artículo 51.
 
-La Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, funge como órgano de consulta del Procurador, en el estudio, análisis y reflexión de propuestas en materia de procuración de justicia, y auxilia a la Institución del Ministerio Público para que perfeccione la investigación y la persecución de los delitos, a través de proyectos de reformas e iniciativas de ley, así como acuerdos y circulares.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
-
-Las atribuciones específicas de la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, se establecen en el Reglamento de esta Ley.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2014)
 
 ###### Artículo 52.
 
@@ -2340,3 +2372,15 @@ Artículo Séptimo.- El personal de la Dirección de Ciudadano Vigilante, se som
 Artículo Octavo.- El Titular de la Procuraduría General de Justicia del Estado de Chiapas, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
 
 Artículo Noveno.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 13 DE AGOSTO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que a la entrada en vigor del presente Decreto, se encontraban asignados a la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, pasarán a formar parte de la Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio.
+
+Artículo Cuarto.- Los asuntos que se encuentren en trámite en la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, exclusivamente por lo que hace a las funciones relacionadas con la Implementación del Sistema de Justicia Penal, seguirán su trámite y serán atendidos por la Fiscalía Especializada en la Implementación y Evaluación del Sistema Penal Acusatorio; y por lo que respecta a las funciones de proyectos estratégicos, consultivas, de legislación, transparencia y de enlace interinstitucional, seguirán su trámite ante la Fiscalía Especializada Jurídica, Consultiva y de Legislación.
+
+Artículo Quinto.- El Titular de la Procuraduría, en un término no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
