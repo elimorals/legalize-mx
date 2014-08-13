@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-288-del-juicio-de-proteccion-de-derechos-humanos-252
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-05"
-last_updated: "2006-08-28"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 288 DEL JUICIO DE PROTECCION DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DEL JUICIO DE PROTECCION DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DEL JUICIO DE PROTECCIÓN DE DERECHOS HUMANOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 5 de julio de 2002.
 
@@ -273,9 +273,11 @@ Toda recusación será desechada de plano y a quien la promueva se le impondrá 
 
 ### Capítulo VIII. De las Causas de Improcedencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 30.
 
-El juicio será improcedente en los siguientes casos:
+El juicio será improcedente y deberá decretarse su inmediato sobreseimiento en los casos siguientes:
 
 I. Contra actos u omisiones que emanen de autoridades distintas a las mencionadas en el inciso f) del artículo 2, de esta Ley;
 
@@ -287,13 +289,17 @@ IV. Contra actos que no afecten los derechos humanos reconocidos en la Constituc
 
 V. Contra actos violatorios de las garantías individuales contenidas en la Constitución Federal;
 
-VI. Contra actos de naturaleza fiscal;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2014)</small>
+
+VI. Contra actos de naturaleza fiscal, administrativa o de los emitidos en procedimientos en materia laboral y de seguridad social, así como contra actos de nombramiento o remoción de servidores públicos estatales o municipales;
 
 VII. Contra las resoluciones del Congreso del Estado, en los casos en que la Constitución lo faculte para resolver soberana o discrecionalmente;
 
 VIII. Contra actos consumados de modo irreparable;
 
-IX. Contra actos que sean materia de otro juicio de protección de derechos humanos que se halle pendiente de resolución, promovido por el mismo actor, contra la misma autoridad y por el mismo acto reclamado, aunque las violaciones a la constitución sean distintas;
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2014)</small>
+
+IX. Contra actos que sean materia de cualquier otro juicio o procedimiento que se encuentre pendiente de resolución, promovido por el mismo actor, contra la misma autoridad y por el mismo acto, aun en el caso de que las presuntas violaciones a la Constitución sean distintas;
 
 X. Contra actos consentidos expresamente por manifestaciones de voluntad que entrañen ese consentimiento;
 
@@ -302,6 +308,10 @@ XI. Contra actos consentidos tácitamente, entendiéndose por tales, aquellos co
 XII. Cuando hayan cesado los efectos del acto reclamado; y
 
 XIII. En los demás casos en que la improcedencia resulte de alguna disposición expresa de la Ley.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2014)</small>
+
+Será causa de responsabilidad, sancionable conforme a la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades de los Servidores Públicos del Estado, la admisión y trámite de demandas improcedentes en los términos de este precepto.
 
 ###### Artículo 31.
 
@@ -622,3 +632,9 @@ G.O. 28 DE AGOSTO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 13 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
