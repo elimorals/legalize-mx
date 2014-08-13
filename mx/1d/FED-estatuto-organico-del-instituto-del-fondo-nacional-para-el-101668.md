@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-1016
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-04"
-last_updated: "2014-07-04"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101668&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-06-25"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR AL DÍA SIGUIENTE EN QUE SE APRUEBE Y REGISTRE LA ESTRUCTURA ORGÁNICA DEL INSTITUTO FONACOT POR LA SECRETARÍA DE LA FUNCIÓN PÚBLICA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 13 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL DÍA LUNES 7 DE JULIO DE 2014.</small>
 
 TEXTO ORIGINAL.
 
@@ -1534,3 +1536,13 @@ SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Públ
 TERCERO.- Se abroga el Estatuto Orgánico del Instituto del Fondo Nacional para el Consumo de los Trabajadores, publicado en el Diario Oficial de la Federación el 16 de julio del 2012 y se derogan las disposiciones que se opongan a este Estatuto.
 
 México, D.F., a 25 de junio de 2014.- El Director General del Instituto del Fondo Nacional para el Consumo de los Trabajadores, César Alberto Martínez Baranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 13 DE AGOSTO DE 2014.</small>
+
+...
+
+“Por lo anterior, se hace del conocimiento que la Secretaría de la Función Pública, mediante Oficio No. SSFP/408/0537/2014 y Oficio No. SSFO/408/DGOR/0796/2014, de fecha 23 de julio de 2014, el Titular de la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Subsecretaría de la función Pública, aprobó la estructura orgánica y ocupacional del Instituto FONACOT y el Director General de Organización y Remuneraciones de la Administración Pública Federal, registró la estructura orgánica y ocupacional del Instituto FONACOT, respectivamente, con vigencia a partir del 4 de julio de 2014, por lo que la vigencia del citado Estatuto inició a partir del día lunes 7 de julio de 2014.”
