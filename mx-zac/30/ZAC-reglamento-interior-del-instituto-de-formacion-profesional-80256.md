@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-instituto-de-formacion-profesional-8025
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-12"
-last_updated: "2011-02-12"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACION PROFESIONAL DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACION PROFESIONAL DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN PROFESIONAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN PROFESIONAL, PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento al Periódico Oficial del estado de Zacatecas, el sábado 12 de febrero de 2011.
 
@@ -65,7 +67,7 @@ IV. Instituto: Al Instituto de Formación Profesional del Estado;
 
 V. Director: Al Titular del Instituto;
 
-Vl. Consejo Consultivo: Al Consultivo del Instituto;
+VI. Consejo Consultivo: Al Consultivo del Instituto;
 
 VII. Comités: a los Comités del Servicio Profesional;
 
@@ -259,7 +261,7 @@ XVI. Atender las peticiones de investigación, estudios, análisis, diagnóstico
 
 XVII. Proporcionar a las autoridades competentes la información contenida en los expedientes de los Integrantes de las Instituciones de Seguridad Pública, que le requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
 
-XVlIl. Aplicar la sanción denominada Baja a que se hagan acreedores los alumnos del Instituto; y
+XVIII. Aplicar la sanción denominada Baja a que se hagan acreedores los alumnos del Instituto; y
 
 XIX. Las demás que le sean consecuencia natural de los objetivos y funciones del Instituto y en su calidad de Director.
 
@@ -457,7 +459,7 @@ VII. Proponer, en coordinación con las áreas operativas, un sistema de rotaci�
 
 VIII. Proponer, en coordinación con el Consejo de Honor y Justicia correspondiente, los procedimientos disciplinarios aplicables a los Elementos de las Corporaciones, sustentados en principios de justicia y con pleno respeto a los derechos humanos;
 
-IX. Establecer un sistema de evaluación de impacto de los programas de. profesionalización; y
+IX. Establecer un sistema de evaluación de impacto de los programas de profesionalización; y
 
 X. Las demás que le asigne el Director del Servicio Profesional de Carrera.
 
@@ -948,3 +950,13 @@ ESAÚ HERNÁNDEZ HERRERA.
 EL DIRECTOR DEL INSTITUTO DE FORMACIÓN PROFESIONAL
 
 BENITO JUÁREZ TREJO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2014.
+
+Primero.- El presente Reglamento Interior del Instituto de Formación Profesional, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se Abroga el Reglamento Interior del Instituto de Formación Profesional del Estado de Fecha 12 de febrero del 2011, publicado en el Periódico Oficial Órgano del Gobierno del Estado, en el Suplemento 2 al Número 13.
+
+Tercero.- El Manual de Organización deberá expedirse dentro del término de treinta días naturales y el de Procedimientos ciento ochenta días siguientes a la entrada en vigor del presente Reglamento.
