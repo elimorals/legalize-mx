@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-06-05"
+last_updated: "2014-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -3845,9 +3845,13 @@ I. Ejercer los recursos financieros, conforme a los techos financieros y el cale
 
 II. Controlar el adecuado ejercicio del gasto de las Unidades Foráneas;
 
-III. Remitir a la Dirección General normativa correspondiente el original de la documentación comprobatoria y justificatoria de las operaciones financieras y resguardar copia de la misma;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
 
-IV. Recibir, verificar y autorizar la documentación comprobatoria y justificatoria de las Unidades Foráneas, relativa al compromiso y ejercicio del gasto; revisar que se cumpla con los requisitos administrativos y fiscales; y liberar los pagos correspondientes;
+III. Conservar, custodiar y, en su caso, expedir copias certificadas de la documentación comprobatoria y justificatoria de las operaciones financieras y resguardarla por el tiempo previsto conforme a la normatividad aplicable y conforme a las instrucciones o directivas que dé a conocer la Dirección General de Programación y Presupuesto;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DE LOS SIMILARES QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, Y 66/2006 QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE AGOSTO DE 2014)</small>
+
+IV. Recibir, verificar, autorizar, conservar, custodiar y, en su caso, expedir copias certificadas de la documentación comprobatoria y justificatoria de las Unidades Foráneas, relativa al compromiso y ejercicio del gasto; así como revisar que se cumpla con los requisitos administrativos y fiscales; y liberar los pagos correspondientes;
 
 V. Informar mensualmente del ejercicio del gasto de la Administración Regional, con base en los lineamientos establecidos por la Oficialía Mayor;
 
@@ -4584,3 +4588,13 @@ D.O.F. 5 DE JUNIO DE 2014.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Las Administraciones Regionales deberán prever los espacios físicos necesarios para la conservación de los documentos y apegarse a las normas presupuestarias, de contabilidad, y demás que resulten aplicables, así como a las disposiciones que en materia de archivos proceda.
