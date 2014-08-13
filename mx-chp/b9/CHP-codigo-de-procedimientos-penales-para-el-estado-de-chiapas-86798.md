@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2014-05-30"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
 N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -2453,51 +2453,55 @@ a) El Código Penal para el Estado de Chiapas:
 
 10) Violación, previsto en los artículos 233, 234 y 235.
 
-11) Robo, previsto en los artículos 270, con relación al 274, 275 y 276, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XVI y XVII, 277, 278, 279, 281, 287 y 290.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2014)</small>
 
-12) Delitos previstos y sancionados en los artículos 277, 278, 279, 281, 287 y 290.
+11) Abuso Sexual, previsto en el último párrafo del artículo 242.
 
-13) Abigeato, previsto y sancionado en los artículos 291 y 295.
+12) Robo, previsto en los artículos 270, con relación al 274, 275 y 276, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XVI y XVII, 277, 278, 279, 281, 287 y 290.
 
-14) Extorsión, previsto y sancionado en los artículos 300 y 301.
+13) Delitos previstos y sancionados en los artículos 277, 278, 279, 281, 287 y 290.
 
-15) Fraude, previsto y sancionado en el artículo 304, fracción XVII, con excepción de su último párrafo y de las fracciones XXIII y XXIV.
+14) Abigeato, previsto y sancionado en los artículos 291 y 295.
 
-16) Despojo, previsto y sancionado en el artículo 305, fracción IV, y penúltimo y último párrafos de dicho numeral, 306, 307, 308 y 309.
+15) Extorsión, previsto y sancionado en los artículos 300 y 301.
 
-17) Delito contra la seguridad en la adquisición de inmuebles y en el ejercicio de derechos reales sobre los mismos, previsto en el artículo 317.
+16) Fraude, previsto y sancionado en el artículo 304, fracción XVII, con excepción de su último párrafo y de las fracciones XXIII y XXIV.
 
-18) Corrupción de menores e incapaces, previsto y sancionado en el artículo 327.
+17) Despojo, previsto y sancionado en el artículo 305, fracción IV, y penúltimo y último párrafos de dicho numeral, 306, 307, 308 y 309.
 
-19) Pornografía infantil, previsto y sancionado por los artículos 333, 334 y 337.
+18) Delito contra la seguridad en la adquisición de inmuebles y en el ejercicio de derechos reales sobre los mismos, previsto en el artículo 317.
 
-20) Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343.
+19) Corrupción de menores e incapaces, previsto y sancionado en el artículo 327.
 
-21) Delitos contra el orden constitucional y la seguridad del Estado, previstos en los artículos 344, 346, 347, 348 y 349.
+20) Pornografía infantil, previsto y sancionado por los artículos 333, 334 y 337.
 
-22) Sedición, motín y conspiración, previstos en los artículos 352, 353 y 354.
+21) Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343.
 
-23) Evasión de presos, previsto y sancionado en el artículo 357, segunda parte del primer párrafo y segundo párrafo.
+22) Delitos contra el orden constitucional y la seguridad del Estado, previstos en los artículos 344, 346, 347, 348 y 349.
 
-24) Atentados contra la paz y la integridad corporal y patrimonial de la colectividad y del Estado, previsto en el artículo 369, párrafo primero.
+23) Sedición, motín y conspiración, previstos en los artículos 352, 353 y 354.
 
-25) Asociación delictuosa y pandillerismo, previstos y sancionados en los artículos 370, 371, 372, 373, 374, 375, 376 y 377.
+24) Evasión de presos, previsto y sancionado en el artículo 357, segunda parte del primer párrafo y segundo párrafo.
 
-26) Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383.
+25) Atentados contra la paz y la integridad corporal y patrimonial de la colectividad y del Estado, previsto en el artículo 369, párrafo primero.
 
-27) Abuso de autoridad y delitos cometidos en la procuración y administración de justicia previstos y sancionados en los artículos 420, fracciones VIII, IX y XI, 423, fracciones I y III, 424, fracciones VII y IX y 425.
+26) Asociación delictuosa y pandillerismo, previstos y sancionados en los artículos 370, 371, 372, 373, 374, 375, 376 y 377.
 
-28) Intimidación, previsto y sancionado en el artículo 427.
+27) Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383.
 
-29) Revelación de secretos, previsto y sancionado en el artículo 437.
+28) Abuso de autoridad y delitos cometidos en la procuración y administración de justicia previstos y sancionados en los artículos 420, fracciones VIII, IX y XI, 423, fracciones I y III, 424, fracciones VII y IX y 425.
 
-30) Delitos en materia sanitaria, previstos y sancionados en los artículos 447 y 448, tercer párrafo.
+29) Intimidación, previsto y sancionado en el artículo 427.
 
-31) Delitos Contra el Saneamiento del Ambiente y la Ecología del Estado previstos y sancionados en los artículos 456, 457, fracción I, II, III, IV, VI, VIII, X y XI, 458, fracciones I, X y XI, y 459.
+30) Revelación de secretos, previsto y sancionado en el artículo 437.
 
-32) Operaciones con recursos de procedencia ilícita, previsto y sancionado por el artículo 478.
+31) Delitos en materia sanitaria, previstos y sancionados en los artículos 447 y 448, tercer párrafo.
 
-33) Usura, previsto y sancionado en los artículos 320 Bis, 320 Ter, 320 Quáter y 320 Quintus.
+32) Delitos Contra el Saneamiento del Ambiente y la Ecología del Estado previstos y sancionados en los artículos 456, 457, fracción I, II, III, IV, VI, VIII, X y XI, 458, fracciones I, X y XI, y 459.
+
+33) Operaciones con recursos de procedencia ilícita, previsto y sancionado por el artículo 478.
+
+34) Usura, previsto y sancionado en los artículos 320 Bis, 320 Ter, 320 Quáter y 320 Quintus.
 
 b) El Código Penal para el Estado de Chiapas y otras disposiciones legales:
 
@@ -6194,3 +6198,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 P.O. 30 DE MAYO DE 2014.
 
 Artículo Único.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
