@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-que-regula-la-venta-distribucion-y-33815"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-09"
-last_updated: "2007-02-10"
+last_updated: "2014-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY QUE REGULA LA VENTA, DISTRIBUCION, Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY QUE REGULA LA VENTA, DISTRIBUCION Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY QUE REGULA LA VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de julio de 2003.
 
@@ -297,7 +299,7 @@ La inconformidad de algún vecino será analizada por la Secretaría al momento 
 
 ###### ARTÍCULO 36.
 
-La Secretarla, por conducto de la Subsecretaría, discrecionalmente cuando así lo requiera el interés público podrá reubicar algún establecimiento, previa comunicación y por escrito que se haga al Iicenciatario y al Presidente Municipal o Primer Concejal, para que en un término de diez días naturales, manifiesten lo que a sus derechos convenga.
+La Secretarla, por conducto de la Subsecretaría, discrecionalmente cuando así lo requiera el interés público podrá reubicar algún establecimiento, previa comunicación y por escrito que se haga al licenciatario y al Presidente Municipal o Primer Concejal, para que en un término de diez días naturales, manifiesten lo que a sus derechos convenga.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2007)</small>
 
@@ -359,7 +361,7 @@ Las infracciones a la Ley, se harán constar en actas administrativas, las cuale
 
 Para los efectos de lo estipulado en el inciso d) de la fracción III, del artículo 37 de la Ley, los licenciatarios están obligados a solicitar se compruebe la mayoría de edad de las personas que concurran a los establecimientos, con documento oficial que contenga fotografía.
 
-En los casos de establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, los Iicenciatarios deberán de igual manera cerciorarse mediante documento idóneo de la mayoría de edad del consumidor.
+En los casos de establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, los licenciatarios deberán de igual manera cerciorarse mediante documento idóneo de la mayoría de edad del consumidor.
 
 ### CAPÍTULO IX. DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES, REVOCACIÓN DE LICENCIA Y CLAUSURA
 
@@ -369,7 +371,7 @@ Para iniciar el procedimiento a que se refiere el artículo 39 de la Ley, la Sec
 
 ###### ARTÍCULO 48.
 
-Iniciado el procedimiento para la aplicación de la sanción respectiva o la revocación de una licencia o permiso, se deberá notificar personalmente al Iicenciatario o permisionario en el domicilio del establecimiento o en el domicilio que haya señalado para recibir citas y notificaciones con las formalidades establecidas en las fracciones VI y VII del artículo 39 de la Ley, así como las establecidas en el capítulo XI del presente Reglamento.
+Iniciado el procedimiento para la aplicación de la sanción respectiva o la revocación de una licencia o permiso, se deberá notificar personalmente al licenciatario o permisionario en el domicilio del establecimiento o en el domicilio que haya señalado para recibir citas y notificaciones con las formalidades establecidas en las fracciones VI y VII del artículo 39 de la Ley, así como las establecidas en el capítulo XI del presente Reglamento.
 
 ###### ARTÍCULO 49.
 
@@ -517,7 +519,7 @@ LIC. FERNANDO CALZADA FALCÓN
 
 SECRETARIO DE FINANZAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 10 DE FEBRERO DE 2007.
 
@@ -526,3 +528,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los asuntos pendientes al entrar en vigor este acuerdo, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente Acuerdo.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente acuerdo.
+
+P.O. 13 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley que Regula la Venta, Distribución, y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, publicado en el suplemento “D” al Periódico Oficial del Estado de Tabasco número 6348 de fecha 9 de julio de 2003.
+
+TERCERO.- Los procedimientos para la aplicación de sanciones y/o de revocación de licencias o permisos, así como los recursos de reconsideración que se encuentren pendientes de resolución al entrar en vigor el presente Reglamento, se tramitarán y resolverán con apego a las disposiciones vigentes en la fecha en que se interpusieron y en lo que favorezca a los recurrentes, se aplicarán las de este Reglamento.
