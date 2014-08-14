@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-08-05"
+last_updated: "2014-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -415,7 +415,7 @@ Las autoridades competentes procederán de inmediato al aseguramiento de los bie
 
 ###### ARTICULO 35.
 
-Los objetos de uso lícito con que se cometa el delito y que sean propiedad del imputado o presunto responsable, se asegurarán de oficio por la autoridad competente o a petición del ofendido para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará al (sic) cabo si se otorga caución bastante para responder del mismo.
+Los objetos de uso lícito con que se cometa el delito y que sean propiedad del imputado o presunto responsable, se asegurarán de oficio por la autoridad competente o a petición del ofendido para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará al cabo si se otorga caución bastante para responder del mismo.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
@@ -539,7 +539,7 @@ Cuando, transcurrido el término de la pena sustituida, sea notoria la convenien
 
 ###### ARTICULO 50.
 
-El trabajo en favor de la comunidad es una medida sustitutiva de la prisión o de la sanción pecuniaria y consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social. Este trabajo se llevará al (sic) cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+El trabajo en favor de la comunidad es una medida sustitutiva de la prisión o de la sanción pecuniaria y consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social. Este trabajo se llevará al cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
 Cada día de prisión o de día sanción pecuniaria será sustituido por una jornada de trabajo en favor de la comunidad.
 
@@ -727,7 +727,9 @@ La sanción de los delincuentes habituales no podrá bajar de la que se les impo
 
 A todos los que intervengan en el caso de la fracción VIII del artículo 8° de este Código se les impondrá como pena hasta tres cuartas partes de la correspondiente al delito de que se trate.
 
-### CAPITULO VIII. PUNIBILIDAD DE LOS DELITOS COMETIDOS EN AGRAVIO DE MENORES Y ANCIANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO VIII. PUNIBILIDAD DE LOS DELITOS COMETIDOS EN AGRAVIO DE MENORES Y PERSONAS ADULTAS MAYORES
 
 ###### ARTICULO 76.
 
@@ -1149,9 +1151,11 @@ Cuando se infieran lesiones bajo las circunstancias de las calificativas a que s
 
 Si las lesiones son inferidas en riña, la pena se podrá disminuir hasta la mitad tomando en consideración quién fue el provocado, quién el provocador y el grado de provocación.
 
-###### ARTICULO 120.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2014)</small>
 
-A quien ocasional o habitualmente ejecute actos de violencia física, psíquica o ambas, ya sea por acción u omisión y de manera dolosa a menores de edad, ancianos o personas con discapacidad, se le impondrá una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo, sin perjuicio de la que corresponda por las lesiones causadas en los términos de este Capítulo.
+###### ARTÍCULO 120.
+
+A quien ocasional o habitualmente ejecute actos de violencia física, psíquica o ambas, ya sea por acción u omisión y de manera dolosa a menores de edad, adultos mayores, o personas con discapacidad, se le impondrá una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo, sin perjuicio de la que corresponda por las lesiones causadas en los términos de este capítulo.
 
 ###### ARTICULO 121.
 
@@ -1981,11 +1985,11 @@ Cuando los actos de corrupción señalados en el artículo que antecede, tengan 
 
 Queda prohibido emplear a personas menores de dieciocho años de edad, o a quien no tenga capacidad para comprender el significado del hecho, en bares, centros nocturnos, cervecerías y pulquerías, o cualquier otro lugar en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
 
-La contravención a esta disposición se castigará con prisión de uno a tres años de prisión (sic) y sanción pecuniaria de cincuenta a cien días de salario mínimo.
+La contravención a esta disposición se castigará con prisión de uno a tres años de prisión y sanción pecuniaria de cincuenta a cien días de salario mínimo.
 
 La misma pena se aplicará a quien siendo padre, madre, tutor o curador de un menor de dieciocho años o persona que no tengan la capacidad para comprender el significado del hecho, bajo su guarda, custodia o tutela, acepte que sean empleados en los establecimientos referidos en el párrafo anterior.
 
-Se considerará como empleado en cualquiera de los establecimientos mencionados en el primer párrafo de este articulo, y para los efectos del mismo, a la persona menor de dieciocho años que por cualquier estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+Se considerará como empleado en cualquiera de los establecimientos mencionados en el primer párrafo de este artículo, y para los efectos del mismo, a la persona menor de dieciocho años que por cualquier estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2014)</small>
 
@@ -4682,3 +4686,9 @@ P.O. 5 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2014
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
