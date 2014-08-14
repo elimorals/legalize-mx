@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2014-08-05"
+last_updated: "2014-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2233,7 +2233,7 @@ El prestador de los servicios no podrá emitir la carta de factibilidad si previ
 
 ###### ARTICULO 160.
 
-La carta de factibilidad no podrá ser transferida a persona alguna sin el previo consentimiento del prestador de servicios; su vigencia será por un plazo igual al de programación y construcción de las obras que le autorice el prestador de servicios; y será prórrogable a solicitud del fraccionador, hasta por un plazo igual al autorizado originalmente, debiendo actualizar las cuotas vigentes al momento de emitir la prórroga.
+La carta de factibilidad no podrá ser transferida a persona alguna sin el previo consentimiento del prestador de servicios; su vigencia será por un plazo igual al de programación y construcción de las obras que le autorice el prestador de servicios; y será prorrogable a solicitud del fraccionador, hasta por un plazo igual al autorizado originalmente, debiendo actualizar las cuotas vigentes al momento de emitir la prórroga.
 
 Procederá la cancelación de la factibilidad, en caso de incumplimiento a los compromisos contenidos en el convenio respectivo, en su caso, y/o por contravenir las disposiciones de la presente Ley y sus reglamentos.
 
@@ -2384,6 +2384,14 @@ III. Cuotas fijas; se aplicarán de manera extraordinaria y exclusivamente en lo
 ###### ARTICULO 171.
 
 El prestador de los servicios podrá determinar una estructura tarifaria, que tome en cuenta el tipo y nivel socioeconómico o la capacidad de pago de los diferentes estratos de usuarios. De tal forma que permita establecer criterios de equidad en el costo de dichos servicios. La estructura tarifaria deberá diseñarse de manera que de su aplicación resulten los mismos ingresos, que si se aplicaran las tarifas medias.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2014)</small>
+
+ARTICULO 171 BIS. Los ayuntamientos y los organismos operadores establecerán anualmente estímulos fiscales en beneficio de las personas con discapacidad, así como de las personas adultas mayores, de los que disfrutarán; según corresponda, y hasta por el cincuenta por ciento de los derechos causados.
+
+Para el acceso a los estímulos fiscales a que se refiere este artículo, los contribuyentes deberán acreditar su condición de acuerdo al mecanismo que establezca el ayuntamiento u organismo operador, siempre que se cuente con medidor y no se tengan adeudos.
+
+La deducción que resulte de la aplicación del estímulo fiscal en relación con el valor total de los derechos generados por la prestación del servicio público, se indicará en los recibos de pago en forma separada a la cantidad total a pagar por los usuarios.
 
 ###### ARTICULO 172.
 
@@ -3220,3 +3228,9 @@ P.O. 5 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto
