@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2013-07-20"
+last_updated: "2014-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -305,7 +305,7 @@ El pago de los derechos mencionados se podrá efectuar en las oficinas referidas
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
 
-Los Ayuntamientos del Estado, que adopten el sistema de expedición y cobro electrónico en línea, deberán establecer los mecanismos necesarios para tal fin y elaborar los procesos que dicha actividad requiera, posibilitando que se obtenga una mejor y más fácil recaudación, de manera ágil y eficiente y una expedición de avalúos expedita, que posibilite el pago del Impuesto Sobre Adquisición de inmueble y otros Derechos Reales, en los mismos términos, pudiendo efectuarse incluso de inmediato., (sic) A este efecto, le son aplicables las disposiciones relativas a los avalúos.
+Los Ayuntamientos del Estado, que adopten el sistema de expedición y cobro electrónico en línea, deberán establecer los mecanismos necesarios para tal fin y elaborar los procesos que dicha actividad requiera, posibilitando que se obtenga una mejor y más fácil recaudación, de manera ágil y eficiente y una expedición de avalúos expedita, que posibilite el pago del Impuesto Sobre Adquisición de inmueble y otros Derechos Reales, en los mismos términos, pudiendo efectuarse incluso de inmediato., A este efecto, le son aplicables las disposiciones relativas a los avalúos.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
 
@@ -487,11 +487,17 @@ Los municipios podrán prestar algunos de estos servicios directamente, o bien, 
 
 Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para ventas de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; servicios catastrales; supervisión de alumbrado público; y ocupación de la vía pública. Asimismo, cualquier otro servicio que lleve a cabo el municipio y por el cual no esté expresamente prohibido su cobro.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 57.
 
-El servicio de agua potable consiste en la extracción, tratamiento, conducción, suministro, uso o explotación de agua potable, conexión a la red, así como los servicios de drenaje, alcantarillado y saneamiento que proporcionen los municipios.
+El servicio de agua potable consiste en la extracción, tratamiento, conducción, suministro, uso o explotación de agua potable, conexión a la red, así como los servicios de drenaje, alcantarillado y saneamiento que proporcionen los municipios o los organismos.
 
-Las tarifas correspondientes a estos derechos serán determinadas por la Legislatura estatal, a propuesta de los ayuntamientos, en sus leyes de ingresos en aquellos casos en que el servicio sea prestado directamente por los municipios.
+Las tarifas correspondientes a estos derechos serán determinadas por la Legislatura Estatal, a propuesta de los ayuntamientos en sus leyes de ingresos en aquellos casos en que el servicio sea prestado por los municipios, o por las juntas de gobierno para el caso de organismos.
+
+Los ayuntamientos y los organismos operadores de agua establecerán anualmente estímulos fiscales en beneficio de las personas con discapacidad y personas adultas mayores, de los que disfrutarán, según corresponda, y hasta por el cincuenta por ciento de los derechos causados.
+
+Para el acceso a los estímulos fiscales señalados en el párrafo anterior, los contribuyentes deberán acreditar su condición de acuerdo al mecanismo que establezca el ayuntamiento u organismo respectivo.
 
 ###### ARTICULO 58.
 
@@ -966,3 +972,9 @@ P.O. 20 DE JULIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto
