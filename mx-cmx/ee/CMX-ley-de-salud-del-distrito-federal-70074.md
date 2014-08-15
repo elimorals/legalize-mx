@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2014-03-14"
+last_updated: "2014-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -150,9 +150,11 @@ XII. La atención integral del consumo de sustancias psicoactivas, particularmen
 
 XIII. La protección contra los riesgos sanitarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 6.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta Ley, se entiende por:
 
 I. Ley General: a la Ley General de Salud;
 
@@ -183,6 +185,26 @@ XI. Regulación y control sanitario: a los actos que lleve a cabo el Gobierno pa
 XII. Fomento sanitario: al conjunto de acciones tendientes a promover la mejora continua de las condiciones sanitarias de los procesos, productos, métodos, instalaciones, servicios o actividades que puedan provocar un riesgo a la salud de la población, mediante esquemas de comunicación, capacitación, coordinación y concertación con los sectores público, privado y social, así como otras medidas no regulatorias, y
 
 XIII. Agencia de Protección Sanitaria del Distrito Federal: al órgano desconcentrado del Gobierno del Distrito Federal, sectorizado a la Secretaría de Salud del Distrito Federal, responsable de la protección sanitaria del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XIV. Documento electrónico.- Archivo de formato digital que puede contener información de naturaleza variada. Que ha pasado por un proceso para su elaboración mediante algún sistema informático o computacional.
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XV. Expediente Clínico Electrónico.- Sistema Informático que almacena los datos del paciente en formato digital, que se intercambian de manera segura y puede ser accesado por múltiples usuarios autorizados.
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XVI. Interoperabilidad.- Capacidad de los sistemas de información y por ende a los procedimientos a que éstos dan soporte, de compartir y posibilitar el intercambio de información y conocimiento entre ellos.
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XVII. Firma Grafométrica.- Entiéndase ésta como la digitalización del gesto manual análogo a la firma manuscrita en papel, que se obtiene mediante un dispositivo de aplicación portátil y que tiene validez jurídica equivalente al de la firma autógrafa.
+
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XVIII. Digitalizador de firmas.- Dispositivo que registra el trazo de la firma autógrafa de una persona, las firmas registradas se almacenan en un repositorio central para integrarse con el Expediente Clínico Electrónico
 
 ###### Artículo 7.
 
@@ -246,13 +268,21 @@ XI. Acudir ante las instancias correspondientes, para presentar y recibir respue
 
 XII. Negarse a participar en la investigación o enseñanza de la medicina;
 
-XIII. Otorgar o no su consentimiento informado;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XIII. Otorgar o no su consentimiento informado.
+
+En caso de otorgarlo, el consentimiento deberá ser expresado en documento escrito o electrónico que formará parte del expediente clínico, en el que constará la firma autógrafa o grafométrica del paciente o en su caso de su representante legal o pariente por consanguinidad o afinidad más cercana en vínculo.
+
+La firma grafométrica se obtendrá mediante un digitalizador de firmas que se pondrá a disposición del interesado pata (sic) tales efectos.
 
 XIV. Contar con facilidades para obtener una segunda opinión;
 
 XV. Recibir atención médica en caso de urgencia;
 
-XVI. Contar con un expediente clínico y tener acceso a éste, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XVI. Contar con un expediente clínico, que puede ser digital y al que podrá tener acceso, en los términos de las disposiciones legales aplicables.
 
 XVII. Solicitar la expedición de un certificado médico;
 
@@ -411,6 +441,12 @@ XXII. Impulsar y apoyar la constitución de grupos, asociaciones y demás instit
 XXIII. Promover la participación, en el sistema local de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, del personal de salud y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas y de otros grupos sociales, en los términos de las disposiciones aplicables. Asimismo, fomentar la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos, y
 
 XXIV. Ejercer las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Distrito Federal y las que determinen los instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 15 DE AGOSTO DE 2014)</small>
+
+###### Artículo 16 Bis.
+
+En el Sistema de Salud del Distrito Federal se podrán utilizar herramientas y/o tecnologías de información en salud que posibiliten la administración eficaz de los aspectos financieros, clínicos y operativos de una organización de salud que permitan la interoperabilidad con las ya existentes o con las que pudieran surgir y que garanticen la interpretación, confidencialidad y seguridad de la información que contengan, de conformidad con las Normas Oficiales Mexicanas que se apliquen al caso y con estricto apego a la normatividad en materia de protección de datos personales.
 
 ###### Artículo 17.
 
@@ -610,7 +646,11 @@ XXX. Planear, operar, controlar y evaluar el sistema de información en salud de
 
 XXXI. Formular y organizar, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal, programas para la prevención, atención y control de los efectos nocivos del ambiente en la salud que consideren, entre otros, aspectos medidas de adaptación al cambio climático; y
 
-XXXII. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
+> <small>(ADICIONADA, G.O. 15 DE AGOSTO DE 2014)</small>
+
+XXXII. Diseñar, planear, operar, controlar y evaluar aquellas tecnologías de información en salud, que en su caso sean implementadas, con el objeto de mejorar la calidad en los servicios de salud que presta el Gobierno del Distrito Federal.
+
+XXXIII. Las demás que señale esta Ley y los instrumentos jurídicos aplicables.
 
 ### Capítulo VI. De los Servicios de Salud Pública del Distrito Federal
 
@@ -754,7 +794,7 @@ II. Proponer la suscripción de convenios para ofrecer cobertura necesaria y suf
 
 III. Diseñar mecanismos para disminuir e identificar las llamadas de emergencias falsas, así como la intervención de las frecuencias de radio por personas no autorizadas en los ordenamientos aplicables;
 
-IV. Proponer el establecimiento geográfico de zonas de atención prehospitalaria, con el objetivo de agilizar los traslados y eficientar la prestación servicios (sic) de atención prehospitalaria;
+IV. Proponer el establecimiento geográfico de zonas de atención prehospitalaria, con el objetivo de agilizar los traslados y eficientar la prestación (sic) servicios de atención prehospitalaria;
 
 V. Buscar medios para incentivar y capacitar a personal voluntario para que preste servicios de atención médica prehospitalaria en las instituciones públicas;
 
@@ -998,7 +1038,7 @@ IV. Establecer los servicios de odontología, periodoncia, endodoncia, odontoped
 
 V. Promover de forma permanente, la capacitación de los profesionistas de la salud buco-dental;
 
-VI. Implementar acciones programáticas de atención buco-dental los (sic) grupos vulnerables;
+VI. Implementar acciones programáticas de atención buco-dental (sic) los grupos vulnerables;
 
 VII. Realizar, en coordinación con las autoridades competentes, jornadas especiales de educación y atención a la salud buco-dental, especialmente dirigidas al sector preescolar y escolar del Distrito Federal, y
 
@@ -1378,7 +1418,7 @@ La donación se realizará mediante consentimiento expreso y consentimiento tác
 
 La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
 
-El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.. (sic)
+El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas..
 
 El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
 
@@ -1654,7 +1694,7 @@ XII. Centro de reunión: las instalaciones destinadas al agrupamiento de persona
 
 XIII. Gimnasios: el establecimiento dedicado a la práctica deportiva, físico constructivismo y a ejercicios aeróbicos realizados en sitios cubiertos, descubiertos u otros de esta misma índole;
 
-XIV. Espectáculos públicos: las representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedades, los espectáculos con animales, carreras automóviles (sic), bicicletas, etcétera, las exhibiciones aeronáuticas, los circos, los frontones, los juegos de pelota, las luchas y en general, todos aquellos en los que el público paga el derecho por entrar y a los que acude con el objeto de distraerse, incluyendo su publicidad y los medios de su promoción;
+XIV. Espectáculos públicos: las representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedades, los espectáculos con animales, carreras (sic) automóviles, bicicletas, etcétera, las exhibiciones aeronáuticas, los circos, los frontones, los juegos de pelota, las luchas y en general, todos aquellos en los que el público paga el derecho por entrar y a los que acude con el objeto de distraerse, incluyendo su publicidad y los medios de su promoción;
 
 XV. Peluquerías, salones de belleza y masaje, estéticas y similares: los establecimientos dedicados a rasurar, teñir, decolorar, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; al arreglo estético de uñas de manos y pies o la aplicación de tratamientos capilares, faciales y corporales de belleza al público, que no requieran de intervención médica en cualquiera de sus prácticas;
 
@@ -2624,7 +2664,7 @@ Sin perjuicio de la imposición de las sanciones procedentes, cuando del conteni
 
 Procede el recurso de inconformidad contra actos y resoluciones de la Secretaría de Salud con motivo de la aplicación de la presente Ley, sea para resolver una instancia o para poner fin a un expediente, mismo que se tramitará ante la propia Secretaría, o bien, mediante la interposición de recurso de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
-La Secretaría resolverá los recursos de inconformidad que se interpongan con base en la presente Ley, pudiendo confirmar, modificar o revocar el acto o resolución que se combate. Asimismo, la Secretaría está obligada a orientar a los interesados sobre el derecho que tienen de recurrir la (sic) resolución o acto de que se trate.
+La Secretaría resolverá los recursos de inconformidad que se interpongan con base en la presente Ley, pudiendo confirmar, modificar o revocar el acto o resolución que se combate. Asimismo, la Secretaría está obligada a orientar a los interesados sobre el derecho que tienen de recurrir (sic) la resolución o acto de que se trate.
 
 ###### Artículo 214.
 
@@ -2925,3 +2965,9 @@ G.O. 14 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 15 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor a los 30 días naturales siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. La Secretaría de Salud, en un plazo no mayor de 60 días realizará las adecuaciones correspondientes en las disposiciones reglamentarias.
