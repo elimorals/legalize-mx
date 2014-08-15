@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2014-06-29"
+last_updated: "2014-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY ELECTORAL DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
@@ -887,13 +887,21 @@ El Consejo General es el órgano superior de dirección del Instituto y responsa
 
 El Consejo General se integra de la siguiente manera:
 
-Un consejero Presidente y seis consejeros electorales, designados por el Consejo General del Instituto Nacional Electoral;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2014)</small>
 
-I. Un Secretario Ejecutivo que durará en su encargo tres años, pudiendo ser ratificado;
+I. Un consejero Presidente y seis consejeros electorales, designados por el Consejo General del Instituto Nacional Electoral;
 
-II. Un representante de cada uno de los partidos políticos, que por lo menos hayan obtenido el tres por ciento de la votación válida emitida en la elección inmediata anterior, para diputados de mayoría relativa; y
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2014)</small>
 
-III. Un representante propietario y un suplente de cada candidato independiente que contienda al cargo de Gobernador, una vez aprobado el registro para contender en el proceso electoral correspondiente; concluido éste, la representación del candidato dejará de formar parte del Consejo.
+II. Un Secretario Ejecutivo que durará en su encargo tres años, pudiendo ser ratificado;
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2014)</small>
+
+III. Un representante de cada uno de los partidos políticos, que por lo menos hayan obtenido el tres por ciento de la votación válida emitida en la elección inmediata anterior, para diputados de mayoría relativa; y
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2014)</small>
+
+IV. Un representante propietario y un suplente de cada candidato independiente que contienda al cargo de Gobernador, una vez aprobado el registro para contender en el proceso electoral correspondiente; concluido éste, la representación del candidato dejará de formar parte del Consejo.
 
 Sólo los consejeros electorales tendrán derecho a voto, los demás integrantes sólo tendrán derecho a voz. El Secretario Ejecutivo concurrirá a las sesiones de Consejo General sólo con voz informativa.
 
@@ -941,7 +949,9 @@ VI. Expedir los reglamentos interiores necesarios para el buen funcionamiento de
 
 VII. Vigilar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto y conocer de los informes específicos que estime necesario solicitarles;
 
-VIII. Designar al Secretario Ejecutivo del Consejo General del Instituto Electoral de Querétaro por el voto favorable de las dos terceras partes de sus miembros con derecho a voto, de la propuesta formulada por el Presidente del Consejo;
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2014)</small>
+
+VIII. Designar al Secretario Ejecutivo del Consejo General del Instituto Electoral del Estado de Querétaro por el voto favorable de las dos terceras partes de sus miembros con derecho a voto, de la propuesta formulada por el Presidente del Consejo;
 
 IX. Designar, a propuesta del Secretario Ejecutivo y por el voto mayoritario de sus miembros presentes con derecho a voto, a los consejeros electorales de los consejos distritales y municipales;
 
