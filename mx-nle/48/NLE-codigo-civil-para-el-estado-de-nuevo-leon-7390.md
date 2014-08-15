@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2014-02-05"
+last_updated: "2014-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3443,6 +3443,14 @@ Art. 410 Bis VII.- En igualdad de circunstancias se dará preferencia en la adop
 
 Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes. Entre ascendientes y descendientes debe imperar mutuo respeto y consideración.
 
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2014)</small>
+
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes. El Ejercicio de este derecho queda supeditado a que no represente riesgo para el menor de edad y a la acreditación del cumplimiento de la obligación alimenticia.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2014)</small>
+
+Quien ejerza la custodia, debe procurar el respeto y el acercamiento constante de los menores de edad con el otro ascendiente que también ejerza la patria potestad. En consecuencia, quien ejerza la patria potestad, debe evitar en todo momento generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores.
+
 ###### Art. 412.
 
 Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
@@ -4156,6 +4164,10 @@ IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averig
 V.- El tutor que se encuentre en el caso previsto en el artículo 159;
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2014)</small>
+
+VII.- Al que genere sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores.
 
 ###### Art. 505.
 
@@ -17064,3 +17076,7 @@ P.O. 5 DE FEBRERO DE 2014.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Para efectos de lo dispuesto en la fracción III del artículo 1149 del presente Decreto, se respetara la fecha que se acredite en Juicio de la causa generadora de la posesión.
+
+P.O. 15 DE AGOSTO DE 2014.
+
+Único: El presente Decreto entrará en vigor al día siguiente al de su publicación.
