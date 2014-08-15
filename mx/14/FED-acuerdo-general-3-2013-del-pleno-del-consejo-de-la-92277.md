@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-05-02"
+last_updated: "2014-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -187,7 +187,7 @@ VII. SEPTIMO CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO 37/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2013)</small>
 
-3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba".
+3. Dieciséis juzgados de Distrito en el Estado de Veracruz, dos especializados en Procesos Penales Federales, con residencia en Villa Aldama; cuatro con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba”.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -227,7 +227,9 @@ XI. DECIMOPRIMER CIRCUITO:
 
 XII. DECIMOSEGUNDO CIRCUITO:
 
-1. Cuatro tribunales colegiados con residencia en Mazatlán.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 19/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2014)</small>
+
+1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
 
 2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
 
@@ -1100,3 +1102,13 @@ SEGUNDO. La integración de los Plenos especializados del Cuarto Circuito, se re
 TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 15 DE AGOSTO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que se especializan y cambian de denominación, motivo del presente acuerdo, de los recursos materiales necesarios (sello oficial, directorios, placas de identificación, papelería, etc.), para que a la brevedad posible cuenten con ellos.
