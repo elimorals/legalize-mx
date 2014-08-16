@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2013-03-23"
+last_updated: "2014-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 378 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012, Y CON RELACIÓN A LO DISPUESTO POR EL ARTÍCULO CUARTO TRANSITORIO; NO ES POSIBLE APLICAR CON EXACTITUD LA DEROGACIÓN AL CAPÍTULO TERCERO, TODA VEZ QUE NO ES PRECISO EN SEÑALAR A QUE TÍTULO CORRESPONDE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -99,9 +97,13 @@ LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAP
 
 La presente ley es de orden público e interés social y su finalidad primordial es establecer las bases que permitan la plena incursión de las personas con discapacidad a la vida social, a efecto de contribuir al ejercicio de sus capacidades, mejorando su nivel de vida y facilitando, de manera igualitaria y en equiparación de oportunidades, el disfrute de bienes y servicios a que tienen derecho, bajo los siguientes objetivos:
 
-I. Impulsar actitudes solidarias para la preservación, conservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-II. Coordinar las actividades tendientes a apoyar a las personas con discapacidad, creando y preservando las condiciones que favorezcan su incorporación al desarrollo social; y
+I. Impulsar una cultura, política y práctica inclusiva encaminadas a mejorar la calidad de vida de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+II. Coordinar las actividades tendientes a apoyar a las personas con discapacidad, creando y preservando las condiciones que favorezcan su inclusión al desarrollo; y
 
 III. Crear un sistema integral de servicios para lograr el ejercicio pleno de los derechos de las personas con discapacidad que reconoce esta ley.
 
@@ -113,23 +115,43 @@ I. La equidad;
 
 II. La justicia social;
 
-III. La equiparación de oportunidades;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-IV. El reconocimiento de las diferencias;
+III. La igualdad de oportunidades;
 
-V. La dignidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-VI. La integración;
+IV. El respeto por las diferencias y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas;
 
-VII. El respeto; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VI. La inclusión;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VII. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
 
 VIII. La accesibilidad.
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+IX. La no discriminación; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+X. El diseño universal.
+
 ### CAPÍTULO II. Definiciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 3.
 
-Persona con discapacidad es aquélla que padece alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que puede ser agravada por el entorno económico y social, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
+Persona con discapacidad es aquella que presenta alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que puede ser agravada por el entorno económico y social, que limita la capacidad de realizar una o más actividades esenciales de la vida diaria.
 
 Se aceptan las tres clases de afectación o alteración que clasifica la Organización Mundial de la Salud como causantes de la discapacidad:
 
@@ -145,7 +167,7 @@ Para los efectos de esta ley, se entenderá por:
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-l. Subsecretaría: La Subsecretaría de las Personas con Discapacidad;
+I. Subsecretaría: La Subsecretaría de las Personas con Discapacidad;
 
 II. Discapacidad Física: la que manifiesta alguna deficiencia que obstaculiza o impide realizar diferentes acciones o actividades habituales;
 
@@ -163,7 +185,9 @@ VIII. Estimulación Temprana: atención brindada al niño de entre 0 y 7 años, 
 
 IX. Asistencia Social: conjunto de acciones encaminadas a atender y mejorar las circunstancias de carácter social que impiden a las personas con discapacidad su desarrollo integral;
 
-X. Ayudas Técnicas: dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+X. Ayudas Técnicas: dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades y mejorar su desempeño en la vida social;
 
 XI. Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve a través del tacto;
 
@@ -171,7 +195,9 @@ XII. Lenguaje de Señas: Forma de comunicación de una comunidad de sordos, mudo
 
 XIII. Barreras Arquitectónicas: obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento tanto en lugares públicos o privados, como en exteriores o interiores;
 
-XIV. Educación Especial: conjunto de servicios, programas, orientación y recursos educativos especializados, que están a disposición de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIV. Educación Especial: conjunto de servicios, programas, orientación y recursos educativos especializados que con equidad social incluyente y con perspectiva de género estarán a disposición de las personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -181,11 +207,53 @@ XVI. Convención Interamericana: La Convención Interamericana para la eliminaci
 
 XVII. Convenio 159: Tratado sobre la readaptación profesional y el empleo de personas inválidas de la Organización Internacional del Trabajo.
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XVIII. Ajustes Razonables: se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIX. Convención: Convención sobre los Derechos de las Personas con Discapacidad;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XX. Diseño universal: se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXI. Educación Inclusiva: es la educación que propicia la permanencia, el aprendizaje y la participación de personas con discapacidad en el sistema de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos e incluye los ajustes razonables;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXII. Estenografía Proyectada: es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXIII. Accesibilidad: las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXIV. Comunicación: se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXV. Habilitación: se entiende por habilitación, el proceso formativo con inicio a temprana edad, el cual busca proporcionar herramientas que permitan adquirir capacidades y destrezas a personas que desde el nacimiento presentan alguna discapacidad, apoyándose en procesos terapéuticos, en sus ámbitos médico, social y educativo;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXVI. Enlace Municipal: unidad administrativa creada dentro de la estructura orgánica de los ayuntamientos, para atender y canalizar las necesidades y solicitudes de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XXVII. Competencia: conocimientos, habilidades, actitudes, valores, que se ponen en juego para resolver los problemas que enfrenta el individuo cotidianamente.
+
 ### CAPÍTULO III. De los Derechos de las Personas con Discapacidad
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 5.
 
-Las personas con discapacidad gozarán de todos los derechos que establecen la Constitución General de la República, la propia del Estado y la presente ley, sin distinción por origen étnico, nacional, género, edad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra su dignidad o de su familia.
+Las personas con discapacidad gozarán de todos los derechos que establecen la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los Derechos de las Personas con Discapacidad, la Constitución Política del Estado y la presente ley, sin distinción por origen étnico, nacional, género, edad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra su dignidad o de su familia.
 
 ###### Artículo 6.
 
@@ -201,13 +269,53 @@ IV. El acceso y conservación en igualdad de circunstancias, al trabajo remunera
 
 V. A ser incluidos en los planes, proyectos y programas del gobierno estatal;
 
-VI. A recibir el servicio de transporte público de manera preferencial;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-VII. A la comunicación, facilitando el acceso y uso de los medios a las personas con discapacidad;
+VI. A recibir el servicio de transporte público de manera accesible;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VII. A la comunicación, facilitando el acceso y uso de todos los medios disponibles para expresarse libremente;
 
 VIII. A las actividades recreativas, culturales y deportivas; y
 
 IX. Al respeto y la convivencia, eliminando los prejuicios, estereotipos y otras actitudes discriminatorias.
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+X. Derecho a la vida;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XI. Acceso a la justicia;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XII. Libertad y seguridad de la persona;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIII. Protección contra la tortura y otros tratos inhumanos o degradantes;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIV. Protección contra la explotación, la violencia y el abuso;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XV. Derecho a vivir de manera independiente y a ser incluido en la sociedad;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XVI. Respeto a la privacidad, mantener su fertilidad, a formar una familia, a decidir sobre su sexualidad y el número de hijos;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XVII. Derecho a una familia, a un nivel adecuado de vida y protección social; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XVIII. Participación en la vida política, pública, cultural y el esparcimiento.
 
 ###### Artículo 7.
 
@@ -217,21 +325,29 @@ La prevención de las discapacidades constituye un derecho y un deber de toda ci
 
 La persona con discapacidad tiene derecho a contar con asistencia jurídica competente. Si fuese sometido a procedimiento penal, civil, familiar o de cualquier otra índole, deberán tomarse en consideración sus condiciones físicas y mentales, brindándole los apoyos personales y materiales de acuerdo a su discapacidad.
 
-## TÍTULO SEGUNDO. Del Consejo Estatal para las Personas con Discapacidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2014)</small>
+
+## TÍTULO SEGUNDO. Del Consejo Estatal de y para Personas con Discapacidad
 
 ### CAPÍTULO ÚNICO. De su Integración y Atribuciones
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 9.
 
-El Consejo Estatal para las personas con Discapacidad, es un órgano de carácter honorífico de asesoría, consulta y promoción de los programas y políticas destinados a la protección, bienestar y desarrollo de las personas con discapacidad en el Estado.
+El Consejo Estatal de y para Personas con Discapacidad, es un órgano de carácter honorífico de asesoría, consulta y promoción de los programas y políticas de la Subsecretaría de Personas con Discapacidad destinados a la protección, bienestar y desarrollo de las personas con discapacidad en el Estado.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 10.
 
-El Consejo Estatal para las Personas con Discapacidad, se integrará por representantes de organismos no gubernamentales que participarán en calidad de consejeros, de acuerdo con la convocatoria pública que para su conformación emita el Ejecutivo del Estado.
+El Consejo Estatal de y para Personas con Discapacidad, se integrará por representantes de organizaciones de la sociedad civil que participarán en calidad de consejeros, de acuerdo con la convocatoria pública que para su conformación emita la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 11.
 
-El Consejo Estatal para las Personas con Discapacidad, tendrá las siguientes atribuciones:
+El Consejo Estatal de y para Personas con Discapacidad, tendrá las siguientes atribuciones:
 
 I. Colaborar y servir de órgano de consulta permanente para el establecimiento de las políticas sociales en materia de discapacidad en el Estado;
 
@@ -239,17 +355,25 @@ II. Contribuir a que las personas con discapacidad, participen de manera activa 
 
 III. Elaborar estudios e investigaciones en la materia;
 
-IV. Participar en la evaluación de políticas públicas relacionadas con las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+IV. Participar en la evaluación y aplicación de políticas públicas relacionadas con las personas con discapacidad;
 
-V. Proponer a la Secretaría a través de la Subsecretaría, planes, programas y proyectos para el cumplimiento de su objeto; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-VI. Las demás que la presente ley y su reglamento le confieran.
+V. Proponer al Subsecretario planes, programas y proyectos para el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VI. Nombrar al representante ante la asamblea consultiva del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad (CONADIS); y
+
+VII. Las demás que la presente ley y su reglamento le confieran.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 12.
 
-El Consejo Estatal para las Personas con Discapacidad, sesionará con la periodicidad y formalidades que señale el reglamento.
+El Consejo Estatal de y para Personas con Discapacidad, sesionará con la periodicidad y formalidades que señale el reglamento.
 
 ## TÍTULO TERCERO. De las Atribuciones del Estado
 
@@ -261,19 +385,29 @@ Son atribuciones y obligaciones del Ejecutivo del Estado, en materia de protecci
 
 I. Establecer políticas e impulsar acciones para dar cumplimiento en la Entidad a los programas nacionales, regionales, estatales y municipales, cuyo objeto sea el desarrollo integral de las personas con discapacidad;
 
-II. Definir las políticas que garanticen la equiparación de oportunidades de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-III. Planear, elaborar y operar programas en materia de prevención, rehabilitación, equiparación de oportunidades y orientación para las personas con discapacidad, así como emitir las normas técnicas para la prestación de dichos servicios;
+II. Definir las políticas que garanticen la igualdad de oportunidades de las personas con discapacidad;
 
-IV. Promover que en las zonas urbanas de nueva creación, se tomen en cuenta las necesidades de desplazamiento, la construcción de aceras, intersecciones, estacionamientos, escaleras, coladeras y rampas que, cumpliendo con lo especificado en el presente ordenamiento, faciliten el desplazamiento de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+III. Planear, elaborar y operar programas en materia de prevención, habilitación, rehabilitación, igualdad de oportunidades y orientación para las personas con discapacidad, así como emitir las normas técnicas para la prestación de dichos servicios;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+IV. Promover que en las zonas urbanas de nueva creación, se tomen en cuenta las necesidades de accesibilidad para personas con discapacidad tomando en cuenta los principios del diseño universal;
 
 V. Impulsar que las nuevas construcciones realizadas por los sectores público, privado y social, con fines de uso comunitario, no tengan barreras arquitectónicas de las referidas en esta ley, observando las especificaciones que en la misma se contienen, a efecto de beneficiar a las personas con discapacidad;
 
 VI. Apoyar a las autoridades federales, estatales y municipales que así lo soliciten, para la eliminación de barreras arquitectónicas en los diversos espacios urbanos de la Entidad;
 
-VII. Auxiliar a los organismos de las diferentes instancias de gobierno que trabajen para la integración social de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-VIII. Otorgar las facilidades necesarias a las organizaciones no gubernamentales cuya finalidad sea lograr una mayor integración, en todos los ámbitos del desarrollo, de las personas con discapacidad;
+VII. Auxiliar a los organismos de las diferentes instancias de gobierno que trabajen para la inclusión social de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VIII. Otorgar las facilidades necesarias a las organizaciones de la sociedad civil cuya finalidad sea lograr una mayor inclusión, en todos los ámbitos del desarrollo, de las personas con discapacidad;
 
 IX. Promover la celebración de convenios en la materia, con los gobiernos federal, estatales y municipales; así como con los sectores social y privado, nacionales y extranjeros;
 
@@ -285,7 +419,9 @@ XII. Difundir programas que contribuyan al desarrollo integral de las personas c
 
 XIII. Concertar y coordinar la participación de los sectores públicos y sociales en la planeación, programación, ejecución, supervisión y evaluación de las acciones que se emprendan a favor de las personas con discapacidad;
 
-XIV. Fomentar en el proyecto de presupuesto de egresos del Estado, las partidas correspondientes para la ejecución de los programas dirigidos a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIV. Asignar en el proyecto de presupuesto de egresos del Estado, las partidas correspondientes para la ejecución de los programas dirigidos a las personas con discapacidad;
 
 XV. Propiciar el otorgamiento de estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad;
 
@@ -293,9 +429,13 @@ XVI. Fomentar la captación de recursos que sean destinados al desarrollo de act
 
 XVII. Promover la difusión y defensa de los derechos de las personas con discapacidad, así como de las disposiciones legales que los regulan;
 
-XVIII. Impulsar y participar, con pleno respeto a la libertad de expresión, en la unificación de criterios de difusión en los medios masivos de comunicación, respecto de la dignificación y respeto a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-XIX. Proporcionar orientación y asistencia jurídica a las personas con discapacidad, en los juicios de interdicción y demás acciones legales en que sean parte;
+XVIII. Impulsar y participar, con pleno respeto a la libertad de expresión, en la unificación de criterios de difusión en los medios masivos de comunicación, eliminando estereotipos, prejuicios y prácticas nocivas; promoviendo la toma de conciencia respecto de las capacidades y aportaciones de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XIX. Proporcionar orientación y asistencia jurídica a las personas con discapacidad, reconociendo, cuando proceda, su personalidad jurídica en las acciones legales en que sean parte realizando los ajustes razonables que sean necesarios;
 
 XX. Constituir el Padrón Estatal de Personas con Discapacidad y vigilar su permanente actualización, así como el de las organizaciones e instituciones dedicadas a la habilitación o rehabilitación de personas con discapacidad;
 
@@ -315,11 +455,55 @@ Las bases y modalidades del ejercicio coordinado de las atribuciones de los gobi
 
 El Ejecutivo del Estado, podrá celebrar convenios de coordinación y colaboración con los Gobiernos Federal, Estatales y con organizaciones sociales, públicas o privadas, en materia de asistencia para las personas con discapacidad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO II BIS. De la Subsecretaría de Personas con Discapacidad
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+La Subsecretaría de las Personas con Discapacidad, tendrá las siguientes facultades:
+
+I. Planear y ejecutar programas de prevención, habilitación, rehabilitación e inclusión social de las personas con discapacidad, en coordinación con los sectores público, social y privado;
+
+II. Programar acciones de difusión masiva sobre la cultura, política, práctica inclusiva, dignidad y respeto a los derechos de las personas con discapacidad;
+
+III. Promover actividades técnicas y científicas relacionadas con la promoción, prevención, habilitación, rehabilitación e inclusión social de las personas con discapacidad;
+
+IV. Constituir el Padrón Estatal de las Personas con Discapacidad y vigilar su permanente actualización, así como el de las organizaciones e instituciones dedicadas a la educación, habilitación y rehabilitación de personas con discapacidad;
+
+V. Evaluar la calidad de los servicios que se prestan en el Estado, a través de otras instituciones, proporcionando el informe al titular de la Secretaría de Desarrollo Social;
+
+VI. Coadyuvar en el diseño de las políticas públicas que en materia de discapacidad se deberán implementar en el Estado, celebrando consultas frecuentes con las personas con discapacidad y las organizaciones que las representan;
+
+VII. Opinar sobre la viabilidad de colocación de rampas y cajones de estacionamiento para personas con discapacidad, apoyándose para ello en estándares internacionales;
+
+VIII. Vigilar las condiciones de accesibilidad en los espacios públicos y privados, promoviendo la eliminación de barreras arquitectónicas;
+
+IX. Proponer al Secretario de Desarrollo Social la celebración de convenios para la atención, promoción y defensa de los derechos de las personas con discapacidad, en concordancia con organismos internacionales, federales, estatales y municipales, así como con los sectores social y privado;
+
+X. Identificar oportunidades de inversión y realizar las gestiones necesarias para que se instalen en el Estado empresas que generen empleo con enfoque social, así como gestionar recursos nacionales e internacionales para la ejecución de programas y proyectos en beneficio de las personas con discapacidad;
+
+XI. Promover y fortalecer los vínculos de colaboración y trabajo armónico entre instituciones y organizaciones de la sociedad civil, que realicen acciones de fortalecimiento en materia de inclusión al desarrollo de las personas con discapacidad en sus distintos ámbitos;
+
+XII. Promover acciones en materia de habilitación y rehabilitación de personas con discapacidad en los municipios, orientadas al desarrollo de su potencial productivo y su incorporación al desarrollo social;
+
+XIII. Promover la inclusión, permanencia, aprendizaje y participación de las personas con discapacidad en todas las actividades educativas regulares y especiales;
+
+XIV. Establecer los mecanismos que promuevan la incorporación de las personas con discapacidad en la administración pública, procurando en todo momento se consideren los ajustes razonables que generen las condiciones de accesibilidad e igualdad de oportunidades;
+
+XV. Incidir para que las políticas públicas creadas en materia de arte, cultura, recreación y deporte, sean consideradas con enfoque inclusivo, tomando en cuenta los principios internacionales de accesibilidad;
+
+XVI. Generar programas que contemplen la implementación de medidas compensatorias con el propósito de lograr la inclusión de las personas con discapacidad en todos los ámbitos;
+
+XVII. Apoyar las acciones que favorezcan la eliminación de toda forma de discriminación por motivos de discapacidad, debiendo garantizar a este sector de la población la protección legal y efectiva contra estas prácticas; y
+
+XVIII. Las demás que la presente ley y su reglamento le confieran.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO III. De la Comisión Estatal para la Integración Social de las Personas con Discapacidad
-
-### CAPÍTULO IV. Del Patrimonio de la Comisión
 
 ###### Artículo 16.
 
@@ -367,7 +551,7 @@ El Ejecutivo del Estado, podrá celebrar convenios de coordinación y colaboraci
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE MARZO DE 2013)</small>
 
-### CAPÍTULO I. De las Áreas de Atención
+### CAPÍTULO IV. Del Patrimonio de la Comisión
 
 ###### Artículo 27.
 
@@ -375,13 +559,13 @@ El Ejecutivo del Estado, podrá celebrar convenios de coordinación y colaboraci
 
 ## TÍTULO CUARTO. Del Sistema Estatal de Prestación de Servicios
 
-### CAPÍTULO II. De los Ayuntamientos y Unidades Administrativas Municipales
+### CAPÍTULO I. De las Áreas de Atención
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 28.
 
-El Ejecutivo del Estado, a través de los organismos de la administración centralizada, descentralizada, municipal y paramunicipal, operará un sistema Estatal de Prestación de Servicios destinado a las personas con discapacidad, que comprenderá los siguientes rubros:
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, los organismos de la administración centralizada, descentralizada, municipal y paramunicipal, operará un Sistema Estatal de Prestación de Servicios destinado a las personas con discapacidad, que comprenderá los siguientes rubros:
 
 I. Salud, bienestar y seguridad social;
 
@@ -399,25 +583,31 @@ VII. Desarrollo y asistencia social; y
 
 VIII. Seguridad Jurídica.
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+IX. Difusión e implementación transversal de la Convención sobre los Derechos de las Personas con Discapacidad.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
 
-### CAPÍTULO III. Del Plan Estatal de Prevención
+### CAPÍTULO II. De los Ayuntamientos y Unidades Administrativas Municipales
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 29.
 
-Los Ayuntamientos de los Municipios del Estado, procurarán la creación de una Unidad Administrativa encargada de la atención de las personas con discapacidad. El titular de dicha Unidad deberá ser preferentemente una persona con discapacidad.
+Los Ayuntamientos de los Municipios del Estado, procurarán la creación de una Unidad Administrativa encargada de la atención de las personas con discapacidad. El titular de dicha Unidad deberá ser preferentemente una persona con discapacidad. Los Ayuntamientos privilegiarán la designación de un enlace Municipal ante la Subsecretaría, quien preferentemente será una persona con discapacidad o, en su caso, una persona con experiencia en el tema de discapacidad.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 30.
 
-La Unidad Administrativa Municipal, deberá mantener vinculación directa con la Subsecretaría con la finalidad de acercar los servicios y beneficios de los programas para la integración de las personas con discapacidad en su Municipio.
+El enlace Municipal, deberá mantener vinculación directa con la Subsecretaría, con la finalidad de acercar los servicios y beneficios de los programas para la inclusión de las personas con discapacidad en su Municipio.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 31.
 
-La Unidad Administrativa Municipal, tendrá a su cargo la operación de las estrategias y acciones específicas que dicte la Subsecretaria, para dar atención a las necesidades identificadas de una manera adecuada y oportuna.
+El enlace Municipal, tendrá a su cargo la operación de las estrategias y acciones específicas que dicte la Subsecretaría para dar atención a las necesidades identificadas de una manera adecuada y oportuna.
 
 ###### Artículo 32.
 
@@ -431,19 +621,31 @@ III. Celebrar convenios de colaboración en la materia, con los gobiernos federa
 
 IV. Conservar en buen estado y libres de todo material que entorpezca el acceso a las personas con discapacidad, las rampas construidas en aceras, intersecciones o escaleras de la vía publica;
 
-V. Promover que en los estacionamientos públicos, existan los espacios necesarios para el ascenso o descenso de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-VI. Gestionar ante las autoridades y empresas respectivas, la colocación de teléfonos públicos, protectores para tensores de postes y de cubiertas para coladeras, utilizados y para el desplazamiento de las Personas con Discapacidad;
+V. Promover que en los estacionamientos públicos, existan los espacios necesarios para el ascenso o descenso de las personas con discapacidad, de acuerdo con las normas nacionales e internacionales vigentes;
 
-VII. Planear, elaborar y operar programas en materia de prevención, rehabilitación, equiparación de oportunidades y orientación para las personas con discapacidad, así como proponer las normas técnicas para la prestación de dichos servicios;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VI. Gestionar ante las autoridades y empresas respectivas, la colocación de sistemas de comunicación accesibles, señalización de protectores para tensores de postes, cubiertas para coladeras y alertas en la construcción de obras en la vía pública y privada que faciliten el desplazamiento de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VII. Planear, elaborar y operar programas en materia de prevención, habilitación y rehabilitación, en igualdad de oportunidades y orientación para las personas con discapacidad, así como adoptar las normas técnicas vigentes para la prestación de dichos servicios;
 
 VIII. Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad en el Municipio;
 
 IX. Proporcionar asistencia psicológica y asesoría jurídica, a través de los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-X. Integrar, actualizar y enviar los censos municipales de las personas con discapacidad a la Secretaría a través de la Subsecretaría y otros organismos que lo soliciten;
+X. Integrar, actualizar y enviar los censos municipales de las personas con discapacidad a la Subsecretaría y otros organismos que lo soliciten;
+
+En el proceso de integración de esta información se deberá:
+
+a) Respetar las garantías legales establecidas, incluida la legislación sobre la protección de datos, a fin de asegurar la confidencialidad y el respeto de la privacidad de las personas con discapacidad;
+
+b) Cumplir con las normas aceptadas internacionalmente para proteger los derechos humanos y las libertades fundamentales, así como los principios éticos en la recopilación y el uso de estadísticas.
 
 XI. Recibir y transmitir capacitación sobre los diversos temas relativos a la discapacidad;
 
@@ -457,19 +659,17 @@ XIII. Operar los programas de atención y apoyo de conformidad con los lineamien
 
 XIV. Las demás que determine esta ley y otras disposiciones aplicables.
 
-### CAPÍTULO IV. Del Sistema Estatal para el Desarrollo Integral de la Familia
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+### CAPÍTULO III. Del Plan Estatal de Prevención
 
 ###### Artículo 33.
 
 Para los efectos de esta ley, la prevención comprende tanto las medidas tendientes a evitar las causas de las deficiencias que pueden ocasionar discapacidad, como las destinadas a evitar su progresión o derivación en otras discapacidades.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 34.
 
-El Ejecutivo del Estado, a través de los Servicios de Salud, la Unidad de Planeación del Titular del Poder Ejecutivo, la Subsecretaría y los organismos no gubernamentales, elaborará el Plan Estatal de Prevención de las Discapacidades, en el que deberán participar las dependencias y organismos de los gobiernos Estatal y Municipales.
+El Ejecutivo del Estado, a través de los Servicios de Salud, la Unidad de Planeación del Titular del Poder Ejecutivo del Estado, la Subsecretaría y las organizaciones de la sociedad civil de y para personas con discapacidad, elaborarán el Plan Estatal de Prevención de las Discapacidades, en el que deberán participar las dependencias y organismos de los gobiernos Estatal y Municipales.
 
 ###### Artículo 35.
 
@@ -491,17 +691,21 @@ VII. El control higiénico y sanitario de los alimentos y de la contaminación a
 
 VIII. Se contemplarán de modo específico las acciones destinadas a las zonas rurales.
 
-### CAPÍTULO V. De los Servicios de Salud
+### CAPÍTULO IV. Del Sistema Estatal para el Desarrollo Integral de la Familia
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 36.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con la Subsecretaría pondrá a disposición de las personas con discapacidad los servicios de asistencia social alimentaria, educativa, de apoyo especial, de rehabilitación, social, cultural y todos aquellos que favorezcan a su desarrollo pleno.
+El Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con la Subsecretaría pondrá a disposición de las personas con discapacidad los servicios de asistencia social alimentaria, educativa, de apoyo especial, de habilitación, de rehabilitación, social, cultural y todos aquellos que favorezcan a su desarrollo pleno.
 
 ###### Artículo 37.
 
 Será responsabilidad del Sistema Estatal para el Desarrollo Integral de la Familia otorgar los siguientes servicios:
 
-I. A través del Centro de Rehabilitación y Educación Especial (CREE) y las Unidades Básicas de Rehabilitación (UBR), generar las condiciones oportunas para proporcionar la rehabilitación física, que requieran las personas con discapacidad en el Estado;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+I. A través del Centro de Rehabilitación y Educación Especial (CREE) y las Unidades Básicas de Rehabilitación (UBR), generar las condiciones oportunas para proporcionar orientación, prevención, detección, estimulación temprana, atención integral o especializada, habilitación y rehabilitación para las diferentes discapacidades;
 
 II. Promover la generación de recursos financieros que contribuyan a la creación y consolidación de las UBR, en cada uno de los municipios del Estado;
 
@@ -515,7 +719,9 @@ b) Psicológico.- Que determinará un estudio de personalidad, del entorno famil
 
 c) Educativo.- En el que se determinará el nivel de estudios alcanzados y los niveles opcionales a los que podrá aspirar; y
 
-d) Socioeconómico.- Para determinar las condiciones sociales y económicas, en que se encuentra la persona con discapacidad y el grado de apoyo que requiera para su rehabilitación e integración social.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+d) Socioeconómico.- Para determinar las condiciones sociales y económicas, en que se encuentra la persona con discapacidad y el grado de apoyo que requiera para su rehabilitación e inclusión social.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -529,13 +735,15 @@ La Subsecretaría, con base en el diagnóstico emitido por el Centro de Rehabili
 
 La calificación y certificación de discapacidad que realice la Subsecretaría, tendrá validez ante cualquier organismo público o privado del Estado de Zacatecas.
 
-### CAPÍTULO VI. De las Unidades Básicas de Rehabilitación
+### CAPÍTULO V. De los Servicios de Salud
 
 ###### Artículo 40.
 
 Será responsabilidad de los Servicios de Salud del Estado, proporcionar la atención adecuada a las personas con discapacidad, en los siguientes aspectos:
 
-I. Desarrollo del Programa Estatal de prevención, la detección temprana, atención adecuada y rehabilitación de las diferentes discapacidades;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+I. Desarrollo del Programa Estatal de prevención, la detección temprana, oportuna, atención adecuada y rehabilitación de las diferentes discapacidades;
 
 II. Programas especializados de capacitación, orientación y rehabilitación para las personas con discapacidad;
 
@@ -545,9 +753,21 @@ IV. Orientación y gestión para la obtención de prótesis, órtesis y ayudas t
 
 V. Orientación y capacitación a las familias o a terceras personas que apoyan a la población con discapacidad; y
 
-VI. Las demás que le asigne el titular o la titular del Ejecutivo del Estado.
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-### CAPÍTULO VII. De la Rehabilitación de las Personas con Discapacidad
+VI. Proporcionar a las personas con discapacidad, programas y atención a la salud gratuitos o a precios asequibles, de la misma diversidad y calidad que a las demás personas, considerando el ámbito de la salud sexual y reproductiva, así como programas de salud pública dirigidos a la población;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VII. Proporcionar los servicios de salud que necesiten las personas con discapacidad, específicamente como consecuencia de su discapacidad, incluidas la pronta detección e intervención, cuando proceda y servicios destinados a prevenir y reducir al máximo la aparición de nuevas discapacidades;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VIII. Brindar servicios de salud a las personas con discapacidad, procurando el consentimiento libre e informado entre otras formas, mediante la sensibilización respecto de los derechos humanos, la dignidad, la autonomía y las necesidades de las personas con discapacidad a través de la capacitación y la emisión de normas éticas para la atención de la salud en los ámbitos público y privado; y
+
+IX. Las demás que le asigne el titular o la titular del Ejecutivo del Estado.
+
+### CAPÍTULO VI. De las Unidades Básicas de Rehabilitación
 
 ###### Artículo 41.
 
@@ -561,7 +781,11 @@ III. Implementar programas de rehabilitación en las comunidades de extrema pobr
 
 IV. Canalización hacia organismos especializados, ya sea públicos o privados, de aquellos casos que por características específicas de discapacidad, así lo requieran; y
 
-V. Las demás que les otorgue esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+V. Dar atención en zonas rurales y de difícil acceso, así como diseñar, ejecutar e implementar un programa de rehabilitación basado en la participación comunitaria, con el apoyo y asesoría técnica de personal especializado; y
+
+VI. Las demás que les otorgue esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -569,63 +793,91 @@ V. Las demás que les otorgue esta ley y otras disposiciones aplicables.
 
 Cada Unidad Básica de Rehabilitación (UBR), elaborará un programa de prestación de servicios de acuerdo con las condiciones y necesidades de su región, el cual se hará del conocimiento de la Subsecretaría, la que deberá vigilar su cumplimiento.
 
-### CAPÍTULO VIII. De la Orientación y Tratamiento Psicológico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO VII. De la Habilitación y Rehabilitación de las Personas con Discapacidad
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 43.
 
+Se entiende por habilitación, el proceso formativo con inicio a temprana edad, el cual busca proporcionar herramientas que permitan adquirir capacidades y destrezas a personas que desde el nacimiento presentan alguna discapacidad, apoyándose en procesos terapéuticos, en sus ámbitos médico, social y educativo.
+
+(REUBICADO [N. DE E. ANTES PRIMER PÁRRAFO], P.O. 16 DE AGOSTO DE 2014)
+
 Se entiende por rehabilitación, al conjunto de acciones médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que las personas con discapacidad, puedan obtener su máximo grado de recuperación funcional, a fin de realizar actividades que les permitan ser útiles a sí mismas y a su familia e integrarse a la vida social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 44.
 
-Los procesos de rehabilitación de las personas con discapacidad, podrán comprender:
+Los procesos de habilitación o rehabilitación de las personas con discapacidad, podrán comprender:
 
-I. Tratamiento de rehabilitación a su discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-II. Orientación y tratamiento psicológico;
+I. Tratamiento de habilitación o rehabilitación oportuno y adecuado a su discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+II. Orientación y tratamiento psicológico, individual y familiar;
 
 III. Educación general y especial; y
 
 IV. Rehabilitación socioeconómica y laboral.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 45.
 
-El tratamiento de rehabilitación, estará dirigido a dotar a aquellas personas que presenten una disminución de capacidad física, psicológica o social, de las condiciones precisas para su recuperación, comenzará de forma inmediata a la detección y diagnóstico de la anomalía o deficiencia, hasta desarrollar y mantener el máximo de funcionalidad posible.
+El tratamiento de rehabilitación o habilitación, comenzará en la etapa más temprana posible, y se basará en una evaluación multidisciplinar de las necesidades y capacidades de las personas, apoyando la participación e inclusión en la comunidad, considerando todos los aspectos de la sociedad.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 46.
 
-Para los efectos de lo previsto en el artículo anterior, toda persona que presente alguna disminución funcional calificada, tendrá derecho a beneficiarse con la rehabilitación médica necesaria para corregir o mejorar su estado físico o mental, cuando éste constituya un obstáculo para su integración educativa, laboral o social.
+Para los efectos de lo previsto en el artículo anterior, toda persona que presente alguna disminución funcional calificada, tendrá derecho a beneficiarse con la habilitación o rehabilitación médica necesaria para corregir o mejorar su estado físico o mental, cuando éste constituya un obstáculo para su integración educativa, laboral o social.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 47.
 
-Los procesos de rehabilitación, se complementarán con la prescripción y la adaptación de prótesis, órtesis y otros elementos auxiliares para las personas con discapacidad cuya condición lo amerite.
+Los procesos de habilitación o rehabilitación, se complementarán con la prescripción y la adaptación de prótesis, órtesis y otros elementos auxiliares de calidad para las personas con discapacidad cuya condición lo amerite.
 
-### CAPÍTULO IX. De la Educación General y Especial
+### CAPÍTULO VIII. De la Orientación y Tratamiento Psicológico
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 48.
 
-La orientación y tratamiento psicológico, se emplearán durante las distintas fases del proceso de rehabilitación, iniciarán en el seno familiar e irán encaminados a lograr que la persona con discapacidad supere su situación, logre el desarrollo de su personalidad e integración social.
+La orientación y tratamiento psicológico, se emplearán durante las distintas fases del proceso de habilitación o rehabilitación, iniciarán en el seno familiar e irán encaminados a lograr que la persona con discapacidad supere su situación, logre el desarrollo de su personalidad e inclusión social.
 
 ###### Artículo 49.
 
 El apoyo y orientación psicológica, tendrán en cuenta las características de cada persona con discapacidad, sus motivaciones e intereses, los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades.
 
-### CAPÍTULO X. De la Cultura, Recreación y el Deporte
+### CAPÍTULO IX. De la Educación General y Especial
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 50.
 
-La educación que imparta y regule el Estado deberá incluir a las personas con discapacidad, contribuyendo a su desarrollo integral y a potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
+La educación que imparta y regule el Estado deberá considerarse con un enfoque inclusivo, contribuyendo al desarrollo de competencias para la vida:
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+a) Desarrollar plenamente el potencial humano, el sentido de la dignidad, la autoestima, reforzar el respeto por los derechos humanos, las libertades fundamentales y la diversidad humana; y
+
+b) Desarrollar al máximo la personalidad, los talentos y la creatividad de las personas con discapacidad, así como sus habilidades y competencias tanto físicas como mentales.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 51.
 
-Con el fin de contribuir al desarrollo integral de las personas con discapacidad, en un adecuado ámbito educativo, la Secretaría de Educación, deberá facilitar las condiciones necesarias para adecuar los espacios físicos de acceso y recreativos en las escuelas.
+Con el fin de contribuir al desarrollo del potencial humano de las personas con discapacidad en el ámbito educativo, la Secretaría de Educación, deberá facilitar las condiciones necesarias para adecuar todos los espacios físicos en las escuelas.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 52.
 
-La Secretaría de Educación deberá atender a menores con discapacidad en los centros de desarrollo infantil y guarderías públicas y promover su inclusión en las privadas.
+La Secretaría de Educación deberá atender a menores con discapacidad, sin discriminación alguna, en los centros de desarrollo infantil y guarderías públicas, promoviendo además su inclusión en las privadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -635,13 +887,23 @@ Serán responsabilidades de la Secretaría de Educación, en materia de apoyo a 
 
 I. Brindar educación básica para las personas con discapacidad, a través de la educación regular y especial;
 
-II. Facilitar los apoyos necesarios a la persona con discapacidad en su proceso de escolarización, asegurando su permanencia y egreso;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+II. Facilitar los apoyos necesarios a las personas con discapacidad y realizar los ajustes razonables, en su proceso de escolarización, asegurando su ingreso, permanencia, participación, aprendizaje y egreso de las escuelas regulares;
 
 III. Promover la inclusión de asignaturas en materia de discapacidad, en los contenidos curriculares de la formación básica, media y superior;
 
 IV. Diseñar y ejecutar programas de estímulos a las o los docentes que destaquen en la atención a personas con discapacidad;
 
-V. Garantizar el acceso al lenguaje de señas y sistema braille, así como la edición, producción y existencia de libros, audio libros y videos con ambos sistemas en todas las bibliotecas;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+V. Garantizar que se tomen las medidas necesarias a fin de propiciar su participación plena y en igualdad de condiciones en la educación regular adoptando las medidas pertinentes, entre ellas:
+
+a) Facilitar el aprendizaje del Braille, la escritura alternativa, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo entre pares;
+
+b) Facilitar el aprendizaje de la lengua de señas mexicano y la promoción de la identidad lingüística de las personas sordas; y
+
+c) Asegurar que la educación de las personas, y en particular los niños y las niñas ciegos, sordos o sordociegos se imparta en los lenguajes y los modos y medios de comunicación más apropiados para cada persona y en entornos que permitan alcanzar su máximo desarrollo académico y social;
 
 VI. Apoyar los proyectos innovadores que incorporen conocimientos, métodos y técnicas vanguardistas, que generen resultados exitosos tendientes a lograr que las niñas y niños y jóvenes no sean discapacitados ni física ni mentalmente;
 
@@ -649,17 +911,27 @@ VII. Fomentar la educación a distancia, aprovechando los avances tecnológicos 
 
 VIII. Establecer en el Programa Estatal de Becas, en las instituciones públicas y privadas, que se destinen por lo menos el 10% de ellas a alumnos con discapacidad, emitiendo normas especiales para su otorgamiento, en las que se tome en cuenta el nivel de discapacidad y el esfuerzo del alumno y no el aprovechamiento académico.
 
-IX. Incorporar planes educativos que faciliten al sordo hablante, al sordo señante o semilingüe el desarrollo y uso de la legua escrita;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+IX. Incorporar planes educativos que faciliten al sordo hablante, al sordo señante o semilingüe el desarrollo y uso de la legua (sic) oral y escrita;
 
 X. Elaborar programas educativos que permitan a las personas ciegas y débiles visuales Integrarse al sistema estatal educativo, público o privado, creando de manera progresiva las condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarias para su aprendizaje;
 
-XI. Favorecer la integración educativa y asegurar que los planes de estudio sean flexibles y adaptables; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+XI. Favorecer la inclusión educativa y asegurar que los planes de estudio sean flexibles y adaptables; y
 
 XII. Las demás que sean necesarias para asegurar la educación básica en las personas con discapacidad, ya sea especial o regular.
 
-###### Articulo 54.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
-De acuerdo a la decisión de la persona con discapacidad, sus padres o tutores, se podrá elegir la alternativa educativa para su escolarización, ya sea regular o especial; en caso de su integración al sistema educativo general, se deberán otorgar los programas de apoyo y recursos correspondientes.
+###### Artículo 54.
+
+De acuerdo a la decisión de la persona con discapacidad, sus padres o tutores, se podrá elegir la alternativa educativa para su escolarización, ya sea regular o especial; en caso de su integración al sistema educativo general, se deberán otorgar los programas de apoyo y recursos correspondientes, salvo lo establecido en el párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+Tratándose de personas con discapacidad de entre uno y seis años de edad los padres de familia o tutores podrán inscribirlos a los Centros de Atención Multidisciplinarios y a partir de su ingreso a los niveles posteriores de primaria, secundaria, preparatoria y profesional, deberán inscribirse en escuelas regulares para el acceso pleno a la educación. La cual no deberá quedar supeditada a un diagnóstico profesional, debiendo realizar en ambas modalidades los ajustes razonables y otorgar los apoyos necesarios.
 
 ###### Artículo 55.
 
@@ -689,37 +961,47 @@ La educación media superior y superior, garantizarán la accesibilidad de las p
 
 En el Sistema Estatal de Bibliotecas, salas de lectura y servicios de acceso a la información de la administración pública estatal, deberán incluirse, entre otros, los equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permitan su uso a las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 60.
 
-El Sistema Estatal de Bibliotecas deberá contar con el porcentaje de acervo en escritura Braille y en audio, señalado por el Sistema Nacional.
+El Sistema Estatal de Bibliotecas deberá contar con el porcentaje de acervo en escritura Braille, en audio, y estenógrafos de español para la comprensión de lenguaje para personas sordas, señalado por el Sistema Nacional.
 
 ###### Artículo 61.
 
 Las bibliotecas de estantería abierta deberán facilitar su uso a personas con discapacidad, principalmente a aquellos que requieran movilizarse en silla de ruedas, aparatos ortopédicos, muletas u otros.
 
-Asimismo, se deberá contar con un área determinada específicamente para personas con discapacidad visual, en donde se instalen casetas que permitan hacer uso de grabadoras o lectura en voz alta.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
-### CAPÍTULO XI. De la Rehabilitación Laboral
+Asimismo, se deberá contar con un área determinada específicamente para personas con discapacidad visual, en donde se instalen cabinas que permitan hacer uso de grabadoras o lectura en voz alta.
+
+### CAPÍTULO X. De la Cultura, Recreación y el Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 62.
 
-El Estado impulsará y fortalecerá entre las personas con discapacidad, la ocupación del tiempo libre a través de las actividades deportivas, recreativas y culturales, como medio para su desarrollo e integración a la sociedad.
+El Estado reconoce el derecho de las personas con discapacidad a participar en igualdad de condiciones con las demás en la vida cultural, deportiva y de recreación, adoptando todas las medidas pertinentes para asegurar que tengan acceso a material cultural, deportivo y recreativo en formatos accesibles.
 
 De igual forma, el Estado difundirá entre las empresas o instituciones que empleen a personas con discapacidad, sus programas de ocupación del tiempo libre.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 63.
 
-El Estado y los ayuntamientos promoverán que a las personas con discapacidad, se les brinden facilidades de acceso a museos, teatros, cines, bibliotecas públicas, instalaciones deportivas y de recreación, entre otras.
+El Estado y los ayuntamientos promoverán que a las personas con discapacidad, se les brinden facilidades para desarrollar y utilizar su potencial creativo, artístico e intelectual, no sólo en su propio beneficio, sino también para el enriquecimiento de la sociedad en museos, teatros, cines, bibliotecas públicas, instalaciones deportivas y de recreación, entre otras.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 64.
 
-El Estado y los ayuntamientos, a través de sus instituciones culturales, artísticas, deportivas y de recreación, elaborarán programas específicos que fomenten la participación de las personas con discapacidad. Estos programas deberán incluir la realización de encuentros deportivos, visitas guiadas, campamentos, talleres y cursos artísticos; así como el uso de lenguaje braille, lenguaje de señas y otros semejantes.
+El Estado y los ayuntamientos, a través de sus instituciones culturales, artísticas, deportivas y de recreación, elaborarán programas específicos que fomenten la participación de las personas con discapacidad. Estos programas deberán incluir la realización de encuentros deportivos, visitas guiadas, campamentos, talleres y cursos artísticos; así como el uso de lenguaje braille, lenguaje de señas y sistemas aumentativos y alternativos.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 65.
 
-La Secretaría de Educación, el Instituto Zacatecano de Cultura “Ramón López Velarde”, la Secretaría de Desarrollo Social, el Instituto de Cultura Física y Deporte del Estado de Zacatecas, en coordinación con la Subsecretaría, serán los organismos encargados de crear y promover los programas específicos a que se refiere el presente capítulo.
+La Secretaría de Educación, la Subsecretaría de la Juventud, el Instituto Zacatecano de Cultura "Ramón López Velarde" y el Instituto de Cultura Física y Deporte, en coordinación con la Subsecretaría, serán los organismos encargados de crear y promover los programas específicos a que se refiere el presente capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -733,17 +1015,27 @@ II. Fortalecimiento de las actividades artísticas vinculadas con las personas c
 
 III. Promoción del uso de las tecnologías en cinematografía y teatro que faciliten la adecuada comunicación de su contenido a personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 67.
 
-El Instituto de Cultura Física y Deporte del Estado de Zacatecas en coordinación con la Subsecretaría, la Unidad de Planeación del Titular del Poder Ejecutivo y los gobiernos municipales deberán elaborar el Programa Estatal del Deporte Paraolímpico.
+El Instituto de Cultura Física y Deporte del Estado de Zacatecas en coordinación con la Subsecretaría, la Unidad de Planeación del Titular del Poder Ejecutivo y los gobiernos municipales, elaborarán el Programa Estatal de Deporte Adaptado y Paralímpico, debiendo considerar:
 
-### CAPÍTULO XII. De la Rehabilitación Socioeconómica
+a) La participación en la mayor medida posible de las personas con discapacidad en las actividades deportivas generales a todos los niveles;
+
+b) Que las personas con discapacidad tengan la oportunidad de organizar y desarrollar actividades deportivas y recreativas específicas a su condición, alentando a que se ofrezca en igualdad de condiciones la instrucción, formación y recursos adecuados;
+
+c) Que las personas con discapacidad tengan acceso en igualdad de oportunidades a instalaciones deportivas y recreativas; y
+
+d) Las instituciones y organismos involucrados reconocerán en ceremonia pública el esfuerzo de las personas con discapacidad en el ámbito deportivo, en igualdad de circunstancias y sin discriminación alguna.
+
+### CAPÍTULO XI. De la Rehabilitación Laboral
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 68.
 
-Con fundamento en la legislación laboral vigente, en la Convención Interamericana y en el Convenio 159, las personas con discapacidad tendrán derecho al empleo y la capacitación, en términos de igualdad, equidad y remuneración que les otorguen la certeza a su desarrollo personal y social. Para tales efectos, la Dirección del Trabajo y Previsión Social, realizará las siguientes acciones:
+Con fundamento en la legislación laboral vigente, en la Convención Interamericana, la Convención 159 y la Convención, las personas con discapacidad tendrán derecho al empleo y la capacitación, en términos de igualdad, equidad y remuneración que les otorguen la certeza a su desarrollo personal y social. Para tales efectos, la Secretaría de Economía, en coordinación con la Dirección de Trabajo y Previsión Social, realizará las siguientes acciones:
 
 I. Promover el establecimiento de políticas, en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad;
 
@@ -751,13 +1043,33 @@ I. Promover el establecimiento de políticas, en materia de trabajo encaminadas 
 
 II. Fomentar con el apoyo de la Secretaría a través de la Subsecretaría la firma de convenios y acuerdos de cooperación e información sobre generación de empleo, capacitación, adiestramiento y financiamiento para las personas con discapacidad, ante otras instancias del gobierno y organizaciones de la sociedad civil;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
-III. Impulsar en coordinación con la Secretaría a través de la Subsecretaría el empleo, capacitación y adiestramiento de las personas con discapacidad, a través de:
+III. Impulsar en coordinación con la Subsecretaría el empleo, capacitación y adiestramiento de las personas con discapacidad, a través de:
 
 a) La elaboración de programas estatales de empleo y capacitación para la población con discapacidad; y
 
 b) La implementación de programas para la incorporación de personas con discapacidad a las fuentes de trabajo;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+c) Promover oportunidades empresariales, de empleo por cuenta propia, de constitución de cooperativas y de inicio de empresas propias;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+d) Alentar las oportunidades de empleo y la promoción profesional de las personas con discapacidad en el mercado laboral, apoyando la búsqueda, obtención, mantenimiento del empleo y retorno al mismo;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+e) Promover el empleo de personas con discapacidad en el sector privado mediante políticas y medidas pertinentes, que puedan incluir programas de acción afirmativa, incentivos y otras medidas;
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+f) Asegurar que las personas con discapacidad puedan ejercer sus derechos laborales y sindicales, en igualdad de condiciones con las demás; y
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+g) Garantizar a través de las Secretaría de Economía y la Subsecretaría, que las empresas realicen los ajustes razonables para asegurar la contratación y permanencia en el empleo de las personas con discapacidad.
 
 IV. Celebrar convenios de colaboración con los Ayuntamientos y con organismos de los sectores público, social y privado;
 
@@ -765,13 +1077,17 @@ V. Realizar acciones permanentes orientadas a la incorporación de personas con 
 
 VI. Capacitar en materia de discapacidad, a los sectores empresarial y comercial;
 
-VII. Promover la incorporación de las personas con discapacidad en igualdad de circunstancias, conocimiento y experiencia, en las instancias de la administración pública estatal y municipal, hasta alcanzar por lo menos el 5% de la planta laboral;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+VII. Promover la inclusión de las personas con discapacidad en igualdad de circunstancias, conocimiento y experiencia, realizando los ajustes razonables para asegurar su desarrollo y permanencia en las instancias de la administración pública estatal y municipal, hasta alcanzar por lo menos el 5% de la planta laboral;
 
-VIII. Establecer en coordinación con la Secretaría a través de la Subsecretaría, la Secretaría, la Secretaría de Finanzas y la Secretaría de Economía, así como con la colaboración de las Secretarías Federales de Desarrollo Social, Del Trabajo y de Previsión Social y de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación, mecanismos de financiamiento, subsidio o inversión, para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones civiles para las personas con discapacidad;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
 
-IX. Vigilar y sancionar en su caso, que las condiciones en que las personas con discapacidad desempeñan su trabajo, no sean discriminatorias;
+VIII. Establecer en coordinación con la Subsecretaría, la Secretaría y las Secretarías de Finanzas, de Economía y de Campo, así como con la colaboración de las Secretarías Federales de Desarrollo Social, Del Trabajo y Previsión Social y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, mecanismos de financiamiento, subsidio o inversión, para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones civiles de y para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+IX. La Subsecretaría vigilará que las condiciones en que las personas con discapacidad desempeñan su trabajo, no sean discriminatorias, en caso de ser necesario canalizará las quejas a las instancias correspondientes;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -779,21 +1095,25 @@ X. Gestionar en colaboración con la Subsecretaría, el otorgamiento de incentiv
 
 XI. Las demás que le confieran esta ley y otros ordenamientos legales sobre la materia.
 
-### CAPÍTULO XIII. De los Servicios Sociales
+### CAPÍTULO XII. De la Rehabilitación Socioeconómica
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 69.
 
-La finalidad primordial de la política de empleo a trabajadores con alguna discapacidad, será su integración en el sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo mediante una forma de trabajo adecuada.
+La finalidad primordial de la política de empleo a trabajadores con alguna discapacidad, será su inclusión en el sistema ordinario de trabajo, empleo protegido o, en su caso, el autoempleo, promoviendo su incorporación al sistema productivo de forma adecuada.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 70.
 
-Se fomentará el empleo de las personas con alguna discapacidad, mediante el establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de accesos o barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
+Se fomentará el empleo de las personas con alguna discapacidad, mediante el establecimiento de sistemas que faciliten su inclusión laboral; éstos podrán consistir en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 71.
 
-La Dirección de Trabajo y Previsión Social y la Subsecretaría, así como los Municipios, a través de los Sistemas para el Desarrollo Integral de la Familia, diseñarán y ejecutarán programas de promoción de empleo, a través de una bolsa de trabajo.
+La Secretaría de Economía y la Subsecretaría, así como los Municipios, a través de los Sistemas para el Desarrollo Integral de la Familia, en coordinación con la Red de Vinculación Laboral, diseñarán y ejecutarán programas de promoción de empleo, a través de una bolsa de trabajo que procure la colocación selectiva de personas con discapacidad, realizando análisis de puestos.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -801,27 +1121,33 @@ La Dirección de Trabajo y Previsión Social y la Subsecretaría, así como los 
 
 Se crearán centros especiales de ocupación, cuyo objetivo principal será asegurar un empleo remunerado al garantizar trabajo productivo al personal con alguna discapacidad, cuya promoción y apoyo técnico dependerá de la Subsecretaría.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 73.
 
-La totalidad de la plantilla de los centros especiales de empleo, estará constituida por trabajadoras y trabajadores con discapacidad, a excepción de las plazas del personal no discapacitado imprescindible para el desarrollo de la actividad.
+La totalidad de la plantilla de los centros especiales de empleo, estará constituida por trabajadores con discapacidad, a excepción de las plazas del personal sin discapacidad imprescindible para el desarrollo de la actividad.
 
 ###### Artículo 74.
 
 Sin prejuicio de la función social que los centros especiales de empleo han de cumplir, su estructura y organización se ajustarán a las empresas ordinarias.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 75.
 
-Los centros especiales de empleo, podrán ser creados por la autoridad pública, o bien, por organismos o personas físicas interesadas en respaldar estos programas.
+Los centros especiales de empleo, podrán ser creados por la autoridad pública, o bien, por organismos de la sociedad civil o personas físicas interesadas en respaldar estos programas.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 76.
 
-Las personas con discapacidad que deseen ingresar a un centro especial de empleo, deberán inscribirse en las oficinas que para tal efecto señalen la Subsecretaría y la Dirección de Trabajo y Previsión Social, las que clasificarán a los demandantes de empleo en razón al grado y tipo de discapacidad.
+Las personas con discapacidad que deseen ingresar a un centro especial de empleo, deberán inscribirse en las oficinas que para tal efecto señalen la Subsecretaría y la Secretaría de Economía, las que seleccionarán a los solicitantes considerando el grado y tipo de discapacidad.
 
-###### Artículo 77
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
-El trabajo que realice la persona con discapacidad en los centros especiales de empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, a fin de favorecer su adaptación personal y social y facilitar su posterior integración laboral en el mercado ordinario de trabajo.
+###### Artículo 77.
+
+El trabajo que realice la persona con discapacidad en los centros especiales de empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, a fin de favorecer su adaptación personal y social y facilitar su posterior inclusión laboral en el mercado ordinario de trabajo.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -829,11 +1155,13 @@ El trabajo que realice la persona con discapacidad en los centros especiales de 
 
 La Subsecretaría promoverá acuerdos y convenios con posibles empleadores tendientes a facilitar la oferta de empleos.
 
-### CAPÍTULO XIV. Movilidad y Barreras Arquitectónicas
+### CAPÍTULO XIII. De los Servicios Sociales
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 79.
 
-Los servicios sociales para las personas con discapacidad, tienen como objetivo garantizar el logro adecuado a niveles de desarrollo personal y de su integración a la comunidad.
+Los servicios sociales para las personas con discapacidad, tienen como objetivo garantizar el logro adecuado a niveles de desarrollo personal y de su inclusión a la comunidad.
 
 ###### Artículo 80.
 
@@ -853,23 +1181,23 @@ V. Se procurará, hasta el límite que impongan los distintos tipos de discapaci
 
 Además de las medidas específicas previstas en esta Ley, se deberán otorgar servicios y prestaciones económicas a las personas con discapacidad que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a la misma.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 82.
 
-Los servicios de información pública, deberán facilitar a las personas con discapacidad, el conocimiento de las prestaciones a su alcance, así como las condiciones de acceso a las mismas.
+Los servicios de información pública, deberán facilitar a las personas con discapacidad, el conocimiento de las prestaciones a su alcance, así como las condiciones de acceso a las mismas, haciendo uso de sistemas alternativos y aumentativos de comunicación.
 
 ###### Artículo 83.
 
 Sin perjuicio de la aplicación de las medidas previstas con carácter general en la presente Ley, y cuando la gravedad de la afección lo hiciera necesario, las personas con discapacidad tendrán derecho a residir y ser asistidas en un centro especializado.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 84.
 
-Los servicios de albergues y centros comunitarios, tienen como objeto atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia, o con graves problemas de integración familiar. Estos albergues y centros comunitarios, deberán ser promovidos por la administración pública estatal, organizaciones privadas o por las propias personas con discapacidad y sus familias. En este último caso, recibirán apoyo especial de la Subsecretaría.
+Los servicios de albergues y centros comunitarios, tienen como objeto atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia, o con graves problemas de integración familiar. Estos albergues y centros comunitarios, deberán ser promovidos por la administración pública estatal, organizaciones de la sociedad civil o por las propias personas con discapacidad y sus familias. En este último caso, recibirán apoyo especial de la Subsecretaría.
 
-### CAPÍTULO XV. Del Servicio Público de Transporte y de los Programas de Educación Vial
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+### CAPÍTULO XIV. Movilidad y Barreras Arquitectónicas
 
 ###### Articulo 85.
 
@@ -883,7 +1211,9 @@ I. Desplazarse libremente en los espacios públicos;
 
 II. Disfrutar de los servicios públicos en igualdad de circunstancias que cualquier otro ciudadano; y
 
-III. Tener acceso y facilidades para el desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, educativos y culturales mediante la construcción de las instalaciones arquitectónicas apropiadas.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+III. Tener acceso y facilidades para el desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, educativos y culturales mediante la construcción de las instalaciones arquitectónicas apropiadas, de acuerdo con las recomendaciones del diseño universal.
 
 ###### Artículo 87.
 
@@ -897,15 +1227,17 @@ III. Proteger y facilitar de manera solidaria, el disfrute de bienes y servicios
 
 a) Las concesiones del auto transporte de pasajeros del Estado, prevendrán la reserva de un lugar, que será distinguido con el logotipo universal de las personas con discapacidad, mismo que tendrá preferencia sobre los demás usuarios de este servicio;
 
-b) Las instalaciones para espectáculos públicos tales como teatros, cines, lienzos charros, plazas de toros o instalaciones provisionales que se usen con fines similares, reservarán en áreas preferentes y populares, espacios para dar preferencia a personas con discapacidad sobre otros espectadores. A estos lugares se les distinguirá igualmente con el logotipo universal de la discapacidad. Los ayuntamientos garantizarán y vigilarán el cumplimiento de esta disposición; y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
+
+b) Las instalaciones para espectáculos públicos tales como teatros, cines, lienzos charros, plazas de toros o instalaciones provisionales que se usen con fines similares, reservarán en áreas preferentes y populares, espacios adecuados y accesibles para personas con discapacidad. A estos lugares se les distinguirá igualmente con el logotipo universal. Los ayuntamientos garantizarán y vigilarán el cumplimiento de esta disposición; y
 
 c) Los estacionamientos tendrán zonas preferentes para vehículos en los que viajen personas con discapacidad, tanto en la vía pública como en lugares de acceso público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 88.
 
-Para los efectos de los artículos anteriores, la Secretaría de Infraestructura y los ayuntamientos, en el ámbito de su competencia, establecerá las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
+Para los efectos de los artículos anteriores, la Secretaría de Infraestructura y los ayuntamientos, en el ámbito de su competencia, deberán apegarse a las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
 
 I. Urbanización, fraccionamiento y construcción que se sometan a su aprobación;
 
@@ -933,23 +1265,25 @@ El Ejecutivo del Estado, a través de la Dependencia correspondiente, instrument
 
 Los ayuntamientos deberán prever en sus planes de desarrollo municipal, la adaptación progresiva de las vías públicas, parques y jardines.
 
-### CAPÍTULO I. Estímulos
+### CAPÍTULO XV. Del Servicio Público de Transporte y de los Programas de Educación Vial
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 93.
 
 La Dirección de Transporte, Tránsito y Vialidad, será la encargada de promover entre las y los concesionarios de transporte público, la utilización de unidades adaptadas para personas con discapacidad, en cada una de las rutas de transporte urbano y suburbano.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 94.
 
-La Secretaría a través de la Subsecretaría es la única instancia facultada para dotar de calcomanía, con el símbolo universal de discapacidad, a los vehículos que sean conducidos por personas con discapacidad o que les den servicio, a fin de que puedan hacer uso de los estacionamientos a ellos reservados.
+La Subsecretaría es la única instancia facultada para dotar de distintivo de identificación con el símbolo universal de discapacidad, a los vehículos que sean conducidos por personas con discapacidad o que les den servicio, a fin de que puedan hacer uso de los estacionamientos a ellos reservados.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 95.
 
-El Ejecutivo del Estado, a través de la Dirección de Transporte, Tránsito y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar hasta un 50% de descuento en el pago del pasaje que del transporte público realicen las personas con discapacidad, identificándose para ello, con la credencial que para este fin expida la Secretaría a través de la Subsecretaría y de acuerdo al grado de incapacidad que en ésta se señale.
+El Ejecutivo del Estado, a través de la Dirección de Transporte, Tránsito y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar un 50% de descuento en el pago de pasaje que del transporte público realicen las personas con discapacidad evidente o que presenten la credencial que para fines de identificación expida la autoridad competente.
 
 ###### Artículo 96.
 
@@ -963,11 +1297,11 @@ II. Se deberá facilitar el acceso a las personas invidentes con sus perros guí
 
 III. Se realizarán programas de difusión y capacitación a conductoras o conductores sensibilizándolos en la atención a personas con discapacidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 97.
 
-El Ejecutivo del Estado, a través de la Subsecretaría y la Dirección de Transporte, Tránsito y Vialidad promoverá, diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general, acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación y discriminación.
+El Ejecutivo del Estado, a través de la Subsecretaría, la Dirección de Transporte, Tránsito y Vialidad, así como la Comisión de Derechos Humanos del Estado de Zacatecas, promoverán, diseñarán e instrumentarán programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general, acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación y discriminación.
 
 Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la entidad.
 
@@ -989,9 +1323,7 @@ El Ejecutivo del Estado, implementará un programa de estímulos fiscales a las 
 
 ## TÍTULO QUINTO. De los Estímulos y Sanciones
 
-### CAPÍTULO II. Sanciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+### CAPÍTULO I. Estímulos
 
 ###### Artículo 100.
 
@@ -1003,7 +1335,9 @@ El Gobierno del Estado otorgará estímulos, beneficios y reconocimientos a aque
 
 El Gobierno del Estado a través del Sistema Estatal para el Desarrollo Integral de la Familia y la Subsecretaría creará estímulos, premios y reconocimientos, a favor de aquellas personas con discapacidad, que se distingan en cualquier noble actividad, con el propósito que la sociedad les reconozca sus hechos y aptitudes, ya sea en la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la ciencia o en el arte.
 
-### CAPÍTULO III. Del Recurso de Reconsideración
+### CAPÍTULO II. Sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 102.
 
@@ -1029,7 +1363,7 @@ V. Clausura definitiva, parcial o total, del establecimiento o edificio.
 
 ###### Artículo 104.
 
-Las sanciones administrativas consignadas en este capítulo, se impondrán si perjuicio de la responsabilidad civil o penal a que hubiere lugar.
+Las sanciones administrativas consignadas en este capítulo, se impondrán si (sic) perjuicio de la responsabilidad civil o penal a que hubiere lugar.
 
 ###### Artículo 105.
 
@@ -1055,11 +1389,17 @@ III. Transcurrido el plazo antes señalado, si la o el presunto infractor hubies
 
 IV. Concluido el período probatorio o vencido el plazo indicado en la fracción II de este artículo, en el supuesto de que la o el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución en un plazo no mayor de diez días, determinando si se aplica o no la sanción.
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+V. El Consejo Estatal de y para Personas con Discapacidad, recibirá copia de las resoluciones emitidas por las instancias correspondientes.
+
 En los plazos a que se alude en este numeral, sólo se computarán los días hábiles.
 
 ###### Artículo 107.
 
 El cobro de las multas que impongan las autoridades competentes corresponderá a Secretaría de Finanzas y a las Tesorerías Municipales, respectivamente, mediante el procedimiento económico-coactivo previsto en la legislación fiscal que resulte aplicable.
+
+### CAPÍTULO III. Del Recurso de Reconsideración
 
 ###### Artículo 108.
 
@@ -1111,7 +1451,7 @@ Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, m
 
 DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticinco del mes de Octubre del año dos mil cinco.- Atentamente Sufragio Efectivo. No Reelección.- LA GOBERNADORA DEL ESTADO DE ZACATECAS.- AMALIA D. GARCIA MEDINA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. TOMAS TORRES MERCADO. Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+N. DE EL A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 3 DE JUNIO DE 2006.
 
@@ -1194,3 +1534,13 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 16 DE AGOSTO DE 2014.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Titular del Ejecutivo o su representante, tomará la protesta a los integrantes del Consejo Estatal de y para Personas con Discapacidad.
+
+Artículo cuarto. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el Programa Estatal de Deporte Adaptado y Paralímpico.
