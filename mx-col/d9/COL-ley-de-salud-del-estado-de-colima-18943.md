@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2014-06-14"
+last_updated: "2014-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -221,13 +221,19 @@ c) Recursos físicos, humanos y financieros disponibles para la protección de l
 
 V.- Supervisará, en coordinación con la Secretaría de Educación, el establecimiento de estrategias y mecanismos con el fin de prohibir la venta y consumo de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del sistema educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
 
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VI. Vigilará, en coordinación con las autoridades competentes de los Ayuntamientos, que los establecimientos destinados a la venta y consumo de alimentos, establezcan en sus cartas de menú, las calorías por platillo que contienen los alimentos que ofrezcan al público, así como las calorías promedio a consumir diarias;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2014)</small>
+
+VII. Implementar, operar, actualizar, supervisar y evaluar el Sistema de Expediente Clínico Electrónico, basándose en las necesidades y expectativas de los trabajadores y usuarios del sector salud.
+
+Para efectos de su actualización tendrá la obligación de observar las disposiciones que se establezcan en las Normas Oficiales Mexicanas que se encuentren vigentes y demás normatividad aplicable al sistema de información de registro electrónico para salud y proporcionar la información que requieran las autoridades federales competentes; y
+
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-VI.- Vigilara, en coordinación con las autoridades competentes de los Ayuntamientos, que los establecimientos destinados a la venta y consumo de alimentos, establezcan en sus cartas de menú, las calorías por platillo que contienen los alimentos que ofrezcan al público, así como las calorías promedio a consumir diarias; y
-
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
-
-VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
+VIII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
 
 ###### ARTICULO 6°.
 
@@ -1904,3 +1910,7 @@ P.O. 14 DE JUNIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los Ayuntamientos que cuenten con reglamentos en materia de salud, contarán con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para adecuarlos al mismo.
+
+P.O. 16 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
