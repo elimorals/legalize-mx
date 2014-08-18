@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transito-y-transporte-del-estado-de-nayarit-11597"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-17"
-last_updated: "2013-12-21"
+last_updated: "2014-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 1997.
 
@@ -251,9 +251,13 @@ a).- Otorgamiento, modificación, revocación o transmisión de permisos para el
 
 b).- Otorgamiento, modificación o revocación respecto a autorizaciones de ruta, itinerarios, horarios, paraderos, sitios, bases de operación, terminales, y estacionamientos públicos o pensión de vehículos;
 
-c).- Fijación de tarifas para el servicio público de transporte urbano, estacionamiento y pensión de vehículos, y
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2014)</small>
 
-d).- Las demás que le encomiende el Titular del Poder Ejecutivo.
+c).- Suspensión temporal de expedición de nuevos permisos para el servicio de transporte público;
+
+d).- Fijación de tarifas para el servicio público de transporte urbano, estacionamiento y pensión de vehículos, y
+
+e).- Las demás que le encomiende el Titular del Poder Ejecutivo.
 
 ###### ARTICULO 15.
 
@@ -1291,7 +1295,19 @@ Las personas físicas y morales como permisionarios, se obligarán a presentar l
 
 Los permisos para prestar el servicio público de transporte serán siempre temporales, durarán hasta 10 años y serán renovables siempre y cuando prevalezcan las condiciones que determinaron su otorgamiento, se esté al corriente en el pago de las contribuciones y derechos fiscales respectivos y las demás obligaciones inherentes.
 
-ARTICULO 140 A.- (DEROGADO, P.O. 18 DE AGOSTO DE 2007)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE AGOSTO DE 2014)</small>
+
+ARTICULO 140 A.- El Titular del Poder Ejecutivo, previo Dictamen emitido por la Comisión, podrá decretar la suspensión temporal hasta por diez años, respecto a la expedición de nuevos permisos para el servicio público de transporte de los tipos y modalidades a que refiere el artículo 124. El decreto administrativo que al efecto se expida deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Una vez emitido el decreto, se suspenderá por un término igual la recepción de nuevas solicitudes, asimismo, se suspenderá el trámite de las que hasta la fecha de su publicación se hubieren presentado.
+
+Concluida la vigencia del decreto emitido, se estará a lo siguiente:
+
+I. Respecto a las solicitudes de permiso que se hubieren presentado hasta antes de su entrada en vigencia, se resolverán las mismas siempre y cuando el solicitante manifieste por escrito su interés, dentro del plazo de diez días hábiles contados a partir del cese de la suspensión, en caso contrario, se le tendrá por desistido;
+
+II. Transcurrido el término a que refiere el artículo anterior, se podrá proceder a recibir nuevas solicitudes, y
+
+III. En orden preferente, deberán resolverse las solicitudes a que refiere la fracción I del presente artículo.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2001)</small>
 
@@ -2118,3 +2134,9 @@ P.O. 21 DE DICIEMBRE DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- El Titular del Poder Ejecutivo del Estado y los Ayuntamientos en el ámbito de su competencia, deberán emitir la reglamentación conducente, dentro de los 180 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 18 DE AGOSTO DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Dentro de los 45 días posteriores a la entrada en vigor del presente Decreto, la Comisión Técnica del Transporte deberá presentar al Gobernador del Estado, el Dictamen a que refiere el artículo 14, fracción II, inciso c) que se adiciona, para los efectos conducentes.
