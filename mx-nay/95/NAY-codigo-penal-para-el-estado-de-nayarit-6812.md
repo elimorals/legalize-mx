@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2014-03-15"
+last_updated: "2014-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2014.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO PUBLICADOS EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2861,7 +2863,7 @@ I.- Al particular que ilegítimamente prive a otro de su libertad personal;
 
 II.- Al que obligue a otro a prestarle trabajo o servicios personales sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño o de cualquier otro medio semejante;
 
-III.- Al particular que por medio de la violencia obligue ilegítimamente a una persona a tolerar, hacer u omitir alguna cosa; y (sic),
+III.- Al particular que por medio de la violencia obligue ilegítimamente a una persona a tolerar, hacer u omitir alguna cosa; y,
 
 IV.- (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2013)
 
@@ -3421,7 +3423,7 @@ V.- Se cometa aprovechando la falta de vigilancia, el desorden o confusión que 
 
 VI.- Se roben tubos, conexiones, tapas de registro o cualesquier otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad;
 
-VII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios públicos o suponiendo una orden de alguna autoridad; y, (sic)
+VII.- Se cometa de noche, llevando armas, con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, o sean los ladrones dos o más o fingiéndose funcionarios públicos o suponiendo una orden de alguna autoridad; y,
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2012)</small>
 
@@ -3623,7 +3625,7 @@ XII.- Al que explote la superstición o la ignorancia de una persona por medio d
 
 XIII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, la distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos por el subsidio o la franquicia;
 
-XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribución, multa o cualquier otra prestación fiscal, legalmente decretada, emplee simulaciones, engaños o cualquier otro procedimiento que tienda a ocultar, variar o desnaturalizar la causa o sujeto del impuesto, multa o prestación o a inducir a error en alguna forma a las autoridades fiscales; y, (sic)
+XIV.- Al que para eludir todo o parcialmente el pago de un impuesto, contribución, multa o cualquier otra prestación fiscal, legalmente decretada, emplee simulaciones, engaños o cualquier otro procedimiento que tienda a ocultar, variar o desnaturalizar la causa o sujeto del impuesto, multa o prestación o a inducir a error en alguna forma a las autoridades fiscales; y,
 
 XV.- Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidas por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
 
@@ -4478,3 +4480,43 @@ Artículo único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 15 DE MARZO DE 2014.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, PUBLICADA MEDIANTE DECRETO SIN NÚMERO.</small>
+
+Artículo Primero. El Honorable Congreso del Estado de Nayarit representado por su Trigésima Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 5 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit a partir del día 15 de diciembre de 2014 en los siguientes términos:
+
+a) Los efectos de la presente declaratoria aplicarán únicamente en los Municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, respecto de los delitos de violencia familiar; abandono de familiares; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito previstos en el Libro Segundo, Título Segundo, Capítulo Quinto; daño en las cosas; y robo simple, tipificados en el Código a que se refiere el inciso c) del presente artículo;
+
+b) Con esta fecha entra en vigor la reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicada el día 13 de octubre de 2012, en materia de Sistema de Justicia Penal Acusatorio, y supeditadas a su vigencia en los artículos segundo y tercero transitorios de dichas reformas a la presente declaración;
+
+c) Previamente a su publicación en el Periódico Oficial, con esta fecha surte efectos la vigencia del Nuevo Código Penal para el Estado de Nayarit, aprobado por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014, cuya aplicación operará en los municipios y delitos descritos en el inciso a) del artículo primero del presente Decreto, hasta en tanto no se emita una nueva declaratoria, respecto de los demás delitos del citado Código;
+
+d) Para los efectos previstos en los incisos a), b) y c) del presente Decreto, el Estado Libre y Soberano de Nayarit, con esta fecha adopta el Código Nacional de Procedimientos Penales, y
+
+e) Respecto al Código Penal para el Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 29 de noviembre de 1986, dicho instrumento seguirá vigente en todo el territorio estatal, con la salvedad prevista en los incisos a) y c) del artículo primero del presente Decreto.
+
+Artículo Segundo.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor en la parte conducente, los siguientes ordenamientos legales:
+
+a) Ley Orgánica de la Fiscalía General, publicada en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 15 de mayo del 2014, y
+
+b) Reformas a la Ley Orgánica del Poder Judicial del Estado de Nayarit, publicadas en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 28 de mayo del 2014.
+
+Artículo Tercero.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor previa publicación oficial, los siguientes ordenamientos legales, aprobados por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014:
+
+a) Ley de Víctimas para el Estado de Nayarit, y
+
+b) Ley de Defensoría Pública y Asistencia Jurídica para el Estado de Nayarit.
+
+Artículo Cuarto.- Para continuar con la aplicación gradual y en su caso la implementación total del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, la Comisión de Coordinación Interinstitucional deberá solicitar por escrito al Poder Legislativo del Estado que en ejercicio de sus facultades emita la Declaratoria respectiva.
+
+## TRANSITORIOS
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
