@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2014-05-15"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO PUBLICADOS EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -1272,3 +1274,45 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Carlos Alberto Saldate Castillón, Presidente.- Rúbrica.- Dip. Leonor Naya Mercado, Secretaria.- Rúbrica.- Dip. Sergio Eduardo Hinojosa Castañeda, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo la presente Ley en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los quince días del mes de Mayo del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, PUBLICADA MEDIANTE DECRETO SIN NÚMERO.</small>
+
+Artículo Primero. El Honorable Congreso del Estado de Nayarit representado por su Trigésima Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 5 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit a partir del día 15 de diciembre de 2014 en los siguientes términos:
+
+a) Los efectos de la presente declaratoria aplicarán únicamente en los Municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, respecto de los delitos de violencia familiar; abandono de familiares; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito previstos en el Libro Segundo, Título Segundo, Capítulo Quinto; daño en las cosas; y robo simple, tipificados en el Código a que se refiere el inciso c) del presente artículo;
+
+b) Con esta fecha entra en vigor la reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicada el día 13 de octubre de 2012, en materia de Sistema de Justicia Penal Acusatorio, y supeditadas a su vigencia en los artículos segundo y tercero transitorios de dichas reformas a la presente declaración;
+
+c) Previamente a su publicación en el Periódico Oficial, con esta fecha surte efectos la vigencia del Nuevo Código Penal para el Estado de Nayarit, aprobado por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014, cuya aplicación operará en los municipios y delitos descritos en el inciso a) del artículo primero del presente Decreto, hasta en tanto no se emita una nueva declaratoria, respecto de los demás delitos del citado Código;
+
+d) Para los efectos previstos en los incisos a), b) y c) del presente Decreto, el Estado Libre y Soberano de Nayarit, con esta fecha adopta el Código Nacional de Procedimientos Penales, y
+
+e) Respecto al Código Penal para el Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 29 de noviembre de 1986, dicho instrumento seguirá vigente en todo el territorio estatal, con la salvedad prevista en los incisos a) y c) del artículo primero del presente Decreto.
+
+Artículo Segundo.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor en la parte conducente, los siguientes ordenamientos legales:
+
+a) Ley Orgánica de la Fiscalía General, publicada en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 15 de mayo del 2014, y
+
+b) Reformas a la Ley Orgánica del Poder Judicial del Estado de Nayarit, publicadas en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 28 de mayo del 2014.
+
+Artículo Tercero.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor previa publicación oficial, los siguientes ordenamientos legales, aprobados por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014:
+
+a) Ley de Víctimas para el Estado de Nayarit, y
+
+b) Ley de Defensoría Pública y Asistencia Jurídica para el Estado de Nayarit.
+
+Artículo Cuarto.- Para continuar con la aplicación gradual y en su caso la implementación total del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, la Comisión de Coordinación Interinstitucional deberá solicitar por escrito al Poder Legislativo del Estado que en ejercicio de sus facultades emita la Declaratoria respectiva.
+
+## TRANSITORIOS
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
