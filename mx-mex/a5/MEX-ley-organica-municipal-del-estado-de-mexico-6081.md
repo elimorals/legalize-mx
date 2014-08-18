@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2014-08-08"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -547,9 +547,9 @@ Los ayuntamientos provisionales, las juntas y consejos municipales, se instalar�
 
 El ayuntamiento funcionará y residirá en la cabecera municipal, y solamente con aprobación del Congreso del Estado, podrá ubicar su residencia en forma permanente o temporal en otro lugar comprendido dentro de los límites territoriales de su municipio. En los casos de cambio temporal de residencia y funcionamiento del ayuntamiento, la Diputación Permanente, en receso de la Legislatura, podrá acordar lo que corresponda.
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
-Los ayuntamientos podrán celebrar sesión preferentemente una vez al año fuera de la cabecera municipal en localidades del interior del municipio, para lo cual existirá acuerdo de cabildo.
+Los ayuntamientos podrán celebrar sesión por lo menos dos veces al año fuera de la cabecera municipal en localidades del interior del municipio, para lo cual existirá acuerdo de cabildo.
 
 ### CAPITULO SEGUNDO. Funcionamiento de los Ayuntamientos
 
@@ -2235,7 +2235,7 @@ Los ayuntamientos podrán crear organismos públicos descentralizados para:
 
 a) La atención del desarrollo de la mujer; mediante la creación de albergues para tal objeto;
 
-b) De (sic) la cultura física y deporte;
+b) De la cultura física y deporte;
 
 > <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -4096,6 +4096,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE AGOSTO DE 2014.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
