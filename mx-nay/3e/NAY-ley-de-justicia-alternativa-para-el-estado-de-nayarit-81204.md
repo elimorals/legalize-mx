@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-alternativa-para-el-estado-de-nayarit-81204"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2012-11-14"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -55,15 +55,19 @@ II. Conciliación: El procedimiento voluntario en el cual un especialista imparc
 
 III. Especialista: El profesional capacitado y certificado por el Centro Estatal, cualificado para la aplicación de los medios alternativos;
 
-IV. Mediación: El procedimiento voluntario en el cual un especialista imparcial y sin facultad para sustituir las decisiones de las partes, asiste a las personas involucradas en un conflicto con la finalidad de facilitar las vías de diálogo y la búsqueda de un acuerdo en común;
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2014)</small>
 
-V. Medios alternativos: Los medios alternativos de solución de conflictos previstos en esta ley;
+IV. Instancias de Justicia Alternativa: Las Unidades de Salidas Alternas a Juicio estatales o municipales;
 
-VI. Parte complementaria: Persona física o moral señalada por la parte solicitante como elemento personal del conflicto susceptible de atención por alguno de los medios alternativos y con quien puede participar a efecto de resolverlo mediante mutua colaboración;
+V. Mediación: El procedimiento voluntario en el cual un especialista imparcial y sin facultad para sustituir las decisiones de las partes, asiste a las personas involucradas en un conflicto con la finalidad de facilitar las vías de diálogo y la búsqueda de un acuerdo en común;
 
-VII. Parte solicitante: Persona física o moral que acude a los Centros de Justicia Alternativa, por propia iniciativa o por recomendación de algún órgano jurisdiccional u otra institución, con la finalidad de buscar la solución de un conflicto, y
+VI. Medios alternativos: Los medios alternativos de solución de conflictos previstos en esta ley;
 
-VIII. Procedimiento restaurativo: El mecanismo mediante el cual el imputado, la víctima y la comunidad implicada trabajan en la solución de cuestiones derivadas del delito, en busca de un acuerdo que atienda las necesidades y responsabilidades individuales y colectivas de las partes permitiendo la reintegración de la víctima y el infractor a la sociedad.
+VII. Parte complementaria: Persona física o moral señalada por la parte solicitante como elemento personal del conflicto susceptible de atención por alguno de los medios alternativos y con quien puede participar a efecto de resolverlo mediante mutua colaboración;
+
+VIII. Parte solicitante: Persona física o moral que acude a los Centros de Justicia Alternativa, por propia iniciativa o por recomendación de algún órgano jurisdiccional u otra institución, con la finalidad de buscar la solución de un conflicto, y
+
+IX. Procedimiento restaurativo: El mecanismo mediante el cual el imputado, la víctima y la comunidad implicada trabajan en la solución de cuestiones derivadas del delito, en busca de un acuerdo que atienda las necesidades y responsabilidades individuales y colectivas de las partes permitiendo la reintegración de la víctima y el infractor a la sociedad.
 
 ###### Artículo 3.
 
@@ -125,7 +129,9 @@ Si el trámite del medio alternativo se deriva de un juicio civil, familiar o me
 
 Cuando el trámite del medio alternativo derive de un proceso penal o de un proceso de justicia para adolescentes, la suspensión del proceso y de la prescripción de la acción penal no podrá extenderse más de treinta días hábiles, a partir del día en que el Centro de Justicia Alternativa señale fecha para la sesión inicial, lo cual deberá informarse al Juez o Ministerio Público que conozca del asunto para los efectos legales a que haya lugar. Si a juicio del Juez o del Ministerio Público existen actuaciones urgentes o inaplazables, éstas se realizarán.
 
-De no lograrse la conciliación en los asuntos planteados en los párrafos anteriores, el Director del Centro Estatal o del Centro Regional según corresponda, informará dentro del término de tres días hábiles al juez de la causa.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
+De no lograrse la conciliación en los asuntos planteados en los párrafos anteriores, el Director del Centro Estatal, de las Instancias de Justicia Alternativa o del Centro Regional según corresponda, informará dentro del término de tres días hábiles al juez de la causa.
 
 ###### Artículo 8.
 
@@ -135,9 +141,11 @@ En los conflictos del orden penal que puedan someterse a algún medio alternativ
 
 En caso de que las partes manifiesten su conformidad en someterse a algún medio alternativo, se procederá en términos del artículo anterior. Si nada manifestaran al respecto, continuará el proceso, sin perjuicio de que manifiesten posteriormente, por escrito, su voluntad de someterse a un procedimiento no jurisdiccional para resolver el conflicto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 9.
 
-La información, los documentos, las conversaciones y demás datos aportados por las partes dentro de un medio alternativo, no podrán aportarse como prueba dentro del procedimiento, salvo la remisión al órgano jurisdiccional del que derivó el caso, de copias certificadas del acta en que conste el convenio definitivo celebrado por los interesados, para los efectos legales correspondientes.
+La información, los documentos, las conversaciones y demás datos aportados por las partes dentro de un medio alternativo, no podrán aportarse como prueba dentro del procedimiento, salvo la remisión al órgano jurisdiccional o al Agente del Ministerio Público del que derivó el caso, de copias certificadas del acta en que conste el convenio definitivo celebrado por los interesados, para los efectos legales correspondientes.
 
 Los especialistas que conduzcan un medio alternativo en los términos de esta ley, no podrán revelar a una de las partes la información relativa al conflicto que la otra les haya proporcionado en razón de sus encargos, sin autorización de ésta última.
 
@@ -475,23 +483,31 @@ V. Contener la firma de quienes lo suscriben; en caso de que alguna de las parte
 
 VI. Nombre y firma del especialista que intervino.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 46.
 
-Inmediatamente después de que se haya suscrito el acta de terminación del conflicto o el convenio ante el Centro de Justicia Alternativa, las partes y el especialista que intervino en el caso, comparecerán ante el Director del Centro de su adscripción, para que en su presencia se ratifique su contenido y se reconozcan las firmas, levantando constancia de ello.
+Inmediatamente después de que se haya suscrito el acta de terminación del conflicto o el convenio ante el Centro de Justicia Alternativa o Instancia de Justicia Alternativa, las partes y el especialista que intervino en el caso, comparecerán ante el Director del Centro de su adscripción, para que en su presencia se ratifique su contenido y se reconozcan las firmas, levantando constancia de ello.
 
-Los convenios derivados de medios alternativos realizados por especialistas independientes o ante Instancias de Justicia Alternativa podrán ser ratificados ante el Director General del Centro Estatal o ante el Director del Centro Regional.
+Los convenios derivados de medios alternativos realizados por especialistas independientes o ante Instancias de Justicia Alternativa podrán ser ratificados ante el Director General del Centro Estatal, Director o Coordinador de la Instancia de Justicia Alternativa o ante el Director del Centro Regional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 47.
 
-Los convenios celebrados serán definitivos y tendrán la categoría de cosa juzgada una vez que sean ratificados ante el Director del Centro de Justicia Alternativa ante el que se celebró, y sean autorizados por éste de acuerdo a lo previsto en esta ley.
+Los convenios celebrados serán definitivos y tendrán la categoría de cosa juzgada una vez que sean ratificados ante el Director del Centro de Justicia Alternativa o Director o Coordinador de la Instancia de Justicia Alternativa ante el que se celebró, y sean autorizados por éste de acuerdo a lo previsto en esta ley.
 
-El Centro Estatal o el Centro Regional que en los términos de esta ley hubieren solucionado una controversia a través del proceso de mediación o de conciliación deberán hacerlo del conocimiento del juez competente, en su caso, para que declare formalmente concluido el procedimiento y como consecuencia, se ordene el archivo definitivo del expediente como asunto totalmente terminado.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
+El Centro Estatal, La Instancia de Justicia Alternativa o el Centro Regional que en los términos de esta ley hubieren solucionado una controversia a través del proceso de mediación o de conciliación, deberán hacerlo del conocimiento del juez competente, en su caso, para que declare formalmente concluido el procedimiento y como consecuencia, se ordene el archivo definitivo del expediente como asunto totalmente terminado.
 
 El cumplimiento forzoso del convenio se solicitará al juez competente en vía de ejecución de sentencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 48.
 
-Una vez satisfecho en sus términos, el convenio a que se refiere el artículo 45, las partes podrán solicitar la celebración de una audiencia ante el Director General o Regional en cuya jurisdicción se hubiera celebrado, para efectos de hacer constar su cumplimiento voluntario.
+Una vez satisfecho en sus términos, el convenio a que se refiere el artículo 45, las partes podrán solicitar la celebración de una audiencia ante el Director General, Director o Coordinador de la Instancia de Justicia Alternativa o Regional en cuya jurisdicción se hubiera celebrado, para efectos de hacer constar su cumplimiento voluntario.
 
 En materia civil, familiar o mercantil, si alguna de las partes incumple las obligaciones que contrajo en el acuerdo o convenio aprobado judicialmente, procederá la vía de apremio y serán aplicables las reglas para la ejecución de sentencia previstas en la legislación de la materia de que se trate.
 
@@ -577,9 +593,11 @@ IV. La restitución, que puede ser económica o proporcionando servicios en espe
 
 Las partes de un juicio penal pueden solicitar la remisión del asunto a un proceso restaurativo, para lo cual el Juez o Ministerio Público deberán cerciorarse de que no se haya coaccionado la voluntad de las partes para ello e informarles de sus derechos, de la naturaleza del proceso y de las posibles consecuencias de su decisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 60.
 
-Recibido el asunto para ser sometido a un proceso restaurativo, el especialista realizará una invitación al ofensor y a la víctima para que asistan al Centro de Justicia Alternativa y reciban información amplia acerca de este proceso alternativo de justicia, en términos de los artículos 33, 34 y 35.
+Recibido el asunto para ser sometido a un proceso restaurativo, el especialista realizará una invitación al ofensor y a la víctima para que asistan al Centro de Justicia Alternativa o Instancia de Justicia Alternativa y reciban información amplia acerca de este proceso alternativo de justicia, en términos de los artículos 33, 34 y 35.
 
 Previo a la reunión restaurativa, deberán practicarse reuniones previas y por separado con la víctima y con el ofensor a fin de que el especialista les informe, con base en las herramientas de comunicación establecidas, la importancia y ventajas de este sistema y para valorar las posibilidades y condiciones de llevar a cabo la reunión conjunta, lo cual permitirá conocer sus necesidades y su decisión de participar en el procedimiento restaurativo.
 
@@ -611,9 +629,11 @@ Si el imputado contraviene sin justa causa las obligaciones pactadas podrá opta
 
 ### Capítulo VI. De las responsabilidades
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 64.
 
-Los especialistas adscritos al Centro Estatal o a los Centros Regionales, por sus faltas u omisiones, estarán sujetos a responsabilidad en los términos de la Constitución Política del Estado y la ley de la materia, y en su caso, a las medidas disciplinarias a que haya lugar de conformidad con la Ley Orgánica del Poder Judicial del Estado de Nayarit.
+Los especialistas adscritos al Centro Estatal, a las Instancias de Justicia Alternativa o a los Centros Regionales, por sus faltas u omisiones, estarán sujetos a responsabilidad en los términos de la Constitución Política del Estado y la ley de la materia, y en su caso, a las medidas disciplinarias a que haya lugar de conformidad con la Ley Orgánica del Poder Judicial del Estado de Nayarit.
 
 ###### Artículo 65.
 
@@ -644,3 +664,7 @@ P.O. 14 DE NOVIEMBRE DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Para los efectos de concientización y difusión del nuevo protocolo procedimental en materia de justicia restaurativa a que aluden las disposiciones anteriores, el Consejo de la Judicatura del Poder Judicial Local, difundirá entre todos los especialistas y servidores públicos encargados de operar y aplicar los medios alternativos de justicia en la entidad, el contenido, sentido y alcances de la presente reforma.
+
+P.O. 18 DE AGOSTO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
