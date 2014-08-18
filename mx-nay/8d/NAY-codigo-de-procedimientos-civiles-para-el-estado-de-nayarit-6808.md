@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2013-11-06"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3535,19 +3535,11 @@ Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verifi
 
 El Juez tendrá en los procedimientos a que se refiere este libro, amplias facultades para investigar la verdad real y podrá ordenar la recepción de cualquier prueba aunque no la ofrezcan las partes.
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
+ARTICULO 468 "A".- (DEROGADO, P.O. 18 DE AGOSTO DE 2014)
 
-ARTICULO 468 "A".- En los juicios de patria potestad, custodia o convivencia, se deberá recabar la opinión del menor de edad, siempre que de acuerdo a su edad y circunstancias personales sea factible escucharlo.
+ARTICULO 468 "B".- (DEROGADO, P.O. 18 DE AGOSTO DE 2014)
 
-La diligencia en la que se escuche la opinión del menor deberá de practicarse en audiencia especial ante el personal del Juzgado, debiendo concurrir el representante de la Procuraduría de la Defensa del Menor y la Familia y el Agente del Ministerio Público.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
-
-ARTICULO 468 "B".- El Juez en el auto de admisión de demanda ordenará una valoración psicológica a los menores así como una investigación de trabajo social en los domicilios habitual y laboral de las partes, independientemente de la que soliciten los interesados.
-
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
-
-ARTICULO 468 "C".- En el caso de menores que cuenten con la edad de entre cinco a diez años, la diligencia se llevará a cabo con la intervención necesaria de un perito en psicología o de pedagogía infantil a efecto de que asista al Juez en dicha diligencia; tratándose de menores de entre diez y diecisiete años, la diligencia podrá llevarse a cabo sin la asistencia de perito referido, salvo que del dictamen de valoración psicológica se evidencie la necesidad de su intervención.
+ARTICULO 468 "C".- (DEROGADO, P.O. 18 DE AGOSTO DE 2014)
 
 ###### ARTICULO 469.
 
@@ -3822,6 +3814,18 @@ CUESTIONES SOBRE PATRIA POTESTAD.
 ###### ARTICULO 506.
 
 La pérdida de la patria potestad se decretará en juicio de acuerdo con las disposiciones de este capítulo, salvo cuando esa pérdida sea consecuencia de divorcio, de nulidad de matrimonio o de una sanción de carácter penal.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
+ARTICULO 506 BIS.- Podrá ordenarse si se estima prudente para el juicio, una valoración psicológica a los menores, así como una investigación de trabajo social en el domicilio habitual y laboral de las partes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2014)</small>
+
+ARTICULO 506 TER.- Se deberá recabar la opinión del menor de edad, siempre que de acuerdo a su edad y circunstancias personales sea factible escucharlo.
+
+La diligencia en la que se escuche la opinión del menor deberá de practicarse en audiencia especial ante el personal del juzgado, el representante de la Procuraduría de la Defensa del Menor y la Familia y el Agente del Ministerio Público.
+
+En el caso de menores que cuenten con la edad de entre cinco a diez años, la diligencia se llevará a cabo con la intervención necesaria de un perito en psicología o de pedagogía infantil, a efecto de que asista al juez en dicha diligencia; tratándose de menores de entre diez y dieciséis años, la diligencia podrá llevarse a cabo sin la asistencia de perito referido, salvo que del dictamen de valoración psicológica se evidencie la necesidad de su intervención.
 
 ###### ARTICULO 507.
 
@@ -4113,7 +4117,7 @@ II.- Recibida la solicitud, el Juez mandará dar vista a quien procediere según
 
 III.- En la resolución, el Juez, si concede la autorización determinará la forma y modalidades del acto para el que haya sido solicitada y dictará las medidas que estime necesarias, procurando en todo el mayor beneficio y protección patrimonial del incapaz o ausente y que el autorizado justifique haber alcanzado el objeto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2010)</small>
 
 ### CAPITULO XVII. DE LA RECTIFICACIÓN Y MODIFICACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -5280,3 +5284,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 6 DE NOVIEMBRE DE 2013.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE AGOSTO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
