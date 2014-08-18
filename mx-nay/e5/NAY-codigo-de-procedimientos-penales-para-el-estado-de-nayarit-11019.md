@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2013-10-04"
+last_updated: "2014-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, EL HONORABLE CONGRESO DEL ESTADO DE NAYARIT REPRESENTADO POR SU TRIGÉSIMA LEGISLATURA, DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA REFORMA A LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADOS CON FECHA 18 DE JUNIO DE 2008 Y 5 DE MARZO DE 2014, RESPECTIVAMENTE, EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EMITE LA PRESENTE DECLARATORIA DE ENTRADA EN VIGOR DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT A PARTIR DEL DÍA 15 DE DICIEMBRE DE 2014, PUBLICADA EN EL P.O. 18 DE AGOSTO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1673,7 +1675,7 @@ En el auto de formal prisión o de sujeción a proceso, el juez dará vista al p
 
 Se admitirá como prueba en los términos del artículo 20 fracción V de la Constitución Política de los Estados Unidos Mexicanos, todo aquello que se ofrezca como tal, siempre que pueda ser conducente, y no vaya contra el derecho, a juicio del Juez o Tribunal. Cuando la autoridad Judicial lo estime necesario, podrá por algún otro medio de prueba establecer su autenticidad.
 
-### CAPITULO III. INSPECCION Y RECONSTRUCCION DE HECHOS
+### CAPITULO III. INSPECCION Y RECONSTRUCCIÓN DE HECHOS
 
 ###### ARTICULO 191.
 
@@ -3023,7 +3025,7 @@ Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos sigu
 
 I.- Cuando el responsable se hubiere substraído a la acción de la justicia;
 
-II.- Cuando pierda la razón el procesado, cualquiera que sea el estado del proceso; y, (sic)
+II.- Cuando pierda la razón el procesado, cualquiera que sea el estado del proceso; y,
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3770,3 +3772,43 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE OCTUBRE DE 2013.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE EXPIDE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT.</small>
+
+Artículo Primero. El Honorable Congreso del Estado de Nayarit representado por su Trigésima Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 5 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit a partir del día 15 de diciembre de 2014 en los siguientes términos:
+
+a) Los efectos de la presente declaratoria aplicarán únicamente en los Municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, respecto de los delitos de violencia familiar; abandono de familiares; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito previstos en el Libro Segundo, Título Segundo, Capítulo Quinto; daño en las cosas; y robo simple, tipificados en el Código a que se refiere el inciso c) del presente artículo;
+
+b) Con esta fecha entra en vigor la reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicada el día 13 de octubre de 2012, en materia de Sistema de Justicia Penal Acusatorio, y supeditadas a su vigencia en los artículos segundo y tercero transitorios de dichas reformas a la presente declaración;
+
+c) Previamente a su publicación en el Periódico Oficial, con esta fecha surte efectos la vigencia del Nuevo Código Penal para el Estado de Nayarit, aprobado por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014, cuya aplicación operará en los municipios y delitos descritos en el inciso a) del artículo primero del presente Decreto, hasta en tanto no se emita una nueva declaratoria, respecto de los demás delitos del citado Código;
+
+d) Para los efectos previstos en los incisos a), b) y c) del presente Decreto, el Estado Libre y Soberano de Nayarit, con esta fecha adopta el Código Nacional de Procedimientos Penales, y
+
+e) Respecto al Código Penal para el Estado de Nayarit, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 29 de noviembre de 1986, dicho instrumento seguirá vigente en todo el territorio estatal, con la salvedad prevista en los incisos a) y c) del artículo primero del presente Decreto.
+
+Artículo Segundo.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor en la parte conducente, los siguientes ordenamientos legales:
+
+a) Ley Orgánica de la Fiscalía General, publicada en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 15 de mayo del 2014, y
+
+b) Reformas a la Ley Orgánica del Poder Judicial del Estado de Nayarit, publicadas en el Periódico Oficial, Órgano del Gobierno del Estado con fecha 28 de mayo del 2014.
+
+Artículo Tercero.- Para los efectos de su aplicación armónica y sistemática, con fecha 15 de diciembre del 2014, entrarán en vigor previa publicación oficial, los siguientes ordenamientos legales, aprobados por la Trigésima Legislatura al H. Congreso del Estado de Nayarit, en sesión pública extraordinaria de fecha 5 de agosto del año 2014:
+
+a) Ley de Víctimas para el Estado de Nayarit, y
+
+b) Ley de Defensoría Pública y Asistencia Jurídica para el Estado de Nayarit.
+
+Artículo Cuarto.- Para continuar con la aplicación gradual y en su caso la implementación total del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, la Comisión de Coordinación Interinstitucional deberá solicitar por escrito al Poder Legislativo del Estado que en ejercicio de sus facultades emita la Declaratoria respectiva.
+
+## TRANSITORIOS
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
