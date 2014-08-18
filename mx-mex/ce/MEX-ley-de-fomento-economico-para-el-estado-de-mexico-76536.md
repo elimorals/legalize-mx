@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2012-08-30"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
 
-LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MEXICO
+LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -329,17 +329,23 @@ VI. El Vocal Ejecutivo del Consejo Estatal para el Desarrollo Integral de los Pu
 
 VII. Doce presidentes municipales, cuya incorporación al Consejo se definirá en el Reglamento;
 
-VIII. Representantes de los organismos empresariales formalmente constituidos con alcance estatal, agrupados en las principales ramas de actividad económica, así como de los organismos patronales. Dicha representación estará definida en el Reglamento;
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-IX. Un representante de la Universidad Autónoma del Estado de México;
+VIII. Tres Diputados representantes del Poder Legislativo;
 
-X. Un representante del Colegio de Notarios del Estado de México;
+IX. Representantes de los organismos empresariales formalmente constituidos con alcance estatal, agrupados en las principales ramas de actividad económica, así como de los organismos patronales. Dicha representación estará definida en el Reglamento;
 
-XI. Un representante del Congreso del Trabajo en el Estado de México; y
+X. Un representante de la Universidad Autónoma del Estado de México;
 
-XII. Un representante de las incubadoras del Sistema Estatal.
+XI. Un representante del Colegio de Notarios del Estado de México;
 
-Los cargos dentro del Consejo son honoríficos. Los integrantes señalados en las fracciones VIII a la XII, tendrán derecho a voz, pero no a voto.
+XII. Un representante del Congreso del Trabajo en el Estado de México; y
+
+XIII. Un representante de las incubadoras del Sistema Estatal.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+Los cargos dentro del Consejo son honoríficos. Los integrantes señalados en las fracciones VIII a la XIII, tendrán derecho a voz, pero no a voto.
 
 Podrán concurrir al Consejo, los titulares de las dependencias que determine el Presidente del Consejo, quien podrá invitar, además, a las personas u organizaciones que considere pertinente cuando deban discutirse asuntos que eventualmente los involucren, mismos que tendrán derecho a voz.
 
@@ -1165,7 +1171,7 @@ Los contralores internos de las dependencias integrantes de la Comisión, vigila
 
 La Dirección General de Atención Empresarial promoverá el establecimiento de módulos de atención empresarial en las instalaciones de las dependencias que integran la Comisión, así como en los municipios para atender las solicitudes que deban atenderse al amparo del SUGE.
 
-### CAPÍTULO PRIMERO (SIC). De las Verificaciones
+### CAPÍTULO PRIMERO. De las Verificaciones
 
 ## TÍTULO CUARTO. De las Verificaciones, Infracciones y Sanciones
 
@@ -1310,3 +1316,9 @@ G.G. 30 DE AGOSTO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente, contravengan las disposiciones del mismo.
+
+G.G. 18 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
