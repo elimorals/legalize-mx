@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-70077
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2014-08-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE) DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 18 DE AGOSTO DE 2014, EL PRESENTE REGLAMENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2009.
 
@@ -308,3 +310,15 @@ Quinto.- La interpretación del presente Reglamento y lo no previsto en el mismo
 El presente Reglamento fue aprobado en la LI Sesión Ordinaria de la H. Junta Directiva del Tecnológico de Estudios Superiores de Valle de Bravo, de fecha 13 de julio del 2009, mediante acuerdo TESVB/051/005.
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se deja sin efectos el Reglamento Interno del COCOE aprobado el 13 de julio de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
