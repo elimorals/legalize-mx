@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-participacion-social-en-la-educacion-29742"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-14"
-last_updated: "2010-10-01"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-REGLAMENTO DE LA PARTICIPACION SOCIAL EN LA EDUCACION
+REGLAMENTO DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2003.
 
@@ -37,27 +37,35 @@ REGLAMENTO DE LA PARTICIPACION SOCIAL EN LA EDUCACION.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto regular el Capítulo Quinto del Título Segundo del libro Tercero del Código Administrativo del Estado de México, relativo a la participación social en la educación.
+El presente reglamento tiene por objeto regular el Capítulo Noveno de la Ley de Educación del Estado de México, relativo a la participación social en la educación.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 2.
 
-Las disposiciones contenidas en el presente reglamento son de orden público e interés social y regulan la integración y funcionamiento de las asociaciones de padres de familia y de los consejos de participación social en educación básica, del Sistema Educativo Estatal, conforme a los lineamientos de la Ley General de Educación.
+Las disposiciones contenidas en el presente reglamento son de orden público e interés social y regulan la integración y funcionamiento de las asociaciones de padres de familia y de los consejos de participación social en educación básica, del Sistema Educativo Estatal, conforme a los lineamientos de la Ley General de Educación y demás disposiciones aplicables.
 
 ###### Artículo 3.
 
 Este reglamento es de carácter obligatorio para las autoridades educativas estatales, municipales y escolares, asociaciones de padres de familia y consejos de participación social.
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 4.
 
-Corresponde a la Secretaría de Educación, Cultura y Bienestar Social y a los organismos públicos descentralizados de carácter estatal que presten servicios educativos, la aplicación y cumplimiento del presente reglamento, en sus respectivos ámbitos de competencia.
+Corresponde a la Secretaría de Educación y a los organismos públicos descentralizados de carácter estatal que presten servicios educativos, la aplicación y cumplimiento del presente reglamento, en sus respectivos ámbitos de competencia.
 
 ###### Artículo 5.
 
 Para efectos del presente reglamento, se entiende por:
 
-I. Secretaría, a la Secretaría de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+I. Secretaría, a la Secretaría de Educación.
 
 II. Autoridades educativas estatales, a las instancias educativas jerárquicas superiores a los directores de las instituciones educativas del Sistema Educativo Estatal;
 
@@ -67,7 +75,9 @@ IV. Instituciones educativas, a los establecimientos educativos oficiales e inco
 
 V. Ley General, a la ley General de Educación;
 
-VI. Código Administrativo, al Código Administrativo del Estado de México;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+VI. Ley de Educación, a la Ley de Educación del Estado de México.
 
 VII. Asociación Estatal, a la Asociación Estatal de Padres de Familia;
 
@@ -103,15 +113,17 @@ I. Representar ante las autoridades escolares y estatales los intereses que en m
 
 II. Colaborar para una mejor integración de la comunidad escolar, así como para el mejoramiento de las instituciones educativas;
 
-III. Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer a la institución educativa;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+III. Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones a la institución educativa. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto en el artículo 6 de la Ley General y 9 de la Ley de Educación, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
 IV. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
 V. Informar a las autoridades educativas escolares o estatales, sobre cualquier acto o hecho que afecte la actividad y formación de los educandos;
 
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-VI. Elegir en asamblea general a cuatro representantes de esta asociación para integrar el Consejo Escolar.
+VI. Elegir en asamblea general a los representantes de esta asociación para integrar el Consejo Escolar.
 
 ###### Artículo 9.
 
@@ -149,9 +161,17 @@ III. Los ingresos que se obtengan por eventos organizados por éstas;
 
 IV. Los productos financieros que, en su caso, genere la administración del patrimonio de la asociación escolar.
 
-En ningún caso se podrá condicionar el ingreso, la entrega de documentos oficiales, la promoción de los alumnos u otro trámite escolar, a la entrega de cooperaciones o aportaciones voluntarias.
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 Se prohíbe a las autoridades escolares la administración directa o indirecta de estos recursos económicos.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los alumnos.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
 #### SECCION SEGUNDA. DE SU ORGANIZACION
 
@@ -215,11 +235,17 @@ V. Conocer y, en su caso, aprobar los informes que rinda la mesa directiva;
 
 VI. Decidir sobre la incorporación, suspensión y restablecimiento de los derechos de los asociados;
 
-VII Establecer las comisiones necesarias para el cumplimiento de su objeto;
+VII. Establecer las comisiones necesarias para el cumplimiento de su objeto;
 
 VIII. Conocer y, en su caso, aprobar los informes financieros que rinda la mesa directiva, tomando las medidas pertinentes a fin de garantizar la correcta administración de los recursos;
 
-IX. Resolver los demás asuntos que, de acuerdo con sus estatutos, sometan a su consideración sus integrantes.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+IX. Designar a los representantes de la asociación de padres de familia para integrar los comités a que se refiere el artículo 96 Bis de este reglamento.
+
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+X. Resolver los demás asuntos que, de acuerdo con sus estatutos, sometan a su consideración sus integrantes.
 
 ###### Artículo 20.
 
@@ -303,7 +329,7 @@ La mesa directiva es el órgano ejecutor de la asociación escolar, la cual se r
 
 En la reunión de la asamblea general que se celebre para elegir a la mesa directiva, se designará una mesa de debates provisional integrada por un presidente, un secretario y tres escrutadores de entre quienes concurran; declarándose electos quienes obtengan cuando menos, el cincuenta por ciento más uno de votos de los asociados presentes. La mesa de debates provisional concluye sus funciones al término de dicha reunión y de la elaboración del acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 30.
 
@@ -385,9 +411,9 @@ X. Expedir documentos que acrediten como tales a los integrantes de la mesa dire
 
 XI. Analizar las necesidades de la institución educativa, y participar en su solución;
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-XII. Designar a los representantes de la asociación de padres de familia para integrar los comités a que se refiere el apartado A, fracción IV del artículo 96 Bis de este reglamento;
+XII. Elaborar y someter a consideración de la asamblea el informe que se deberá presentar al director de la escuela y al Consejo Escolar de Participación Social, después de cada ciclo escolar, sobre el uso que se le dio al conjunto de recursos que hubiera recabado conforme a derecho.
 
 > <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
@@ -541,7 +567,9 @@ Los registros serán tramitados por las autoridades educativas escolares y estat
 
 Las autoridades educativas estatales podrán negar o cancelar el registro, por cualquiera de las causas siguientes:
 
-I. Incumplimiento de las disposiciones establecidas en el Código Administrativo y en el presente Título;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+I. Incumplimiento de las disposiciones establecidas en la Ley de Educación del Estado de México, en el presente Título y demás disposiciones aplicables.
 
 II. Falta de requisitos en la documentación que se presente;
 
@@ -801,25 +829,69 @@ III. A los mandatarios que para efectos específicos designe la asociación esta
 
 Las autoridades educativas estatales promoverán la participación de la Sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 81.
 
-En el Estado de México habrá un consejo estatal de participación social; en cada municipio de la entidad operará un consejo municipal de participación social; y en cada escuela pública de educación básica funcionará un consejo escolar de participación social.
+Los consejos son instancias de participación social en la educación, de consulta, orientación, colaboración, apoyo e información según corresponda, con el propósito de participar en actividades tendientes a fortalecer, ampliar la cobertura y elevar la calidad y la equidad en la educación básica.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 82.
 
-Los consejos de participación social serán órganos de consulta, orientación y apoyo de las autoridades educativas, que tienen por objeto coadyuvar al fortalecimiento de la educación pública.
+En el Estado de México habrá un consejo estatal de participación social; en cada municipio de la entidad operará un consejo municipal de participación social y en cada escuela pública de educación básica funcionará un consejo escolar de participación social.
+
+Con el propósito de fomentar la participación organizada de la sociedad, cada consejo elaborará un proyecto de participación social en la educación, en el que se fijarán las estrategias, acciones y metas acordes a las necesidades y competencias de cada uno de ellos.
+
+De manera enunciativa, más no limitativa, entre otras líneas de participación social, se considerarán las siguientes:
+
+I. De fomento y motivación a la participación social.
+
+II. De opiniones y propuestas pedagógicas.
+
+III. De atención a necesidades de infraestructura.
+
+IV. De reconocimiento social a alumnos, maestros, directivos, empleados escolares y padres de familia.
+
+V. De desarrollo social, cultural y deportivo.
+
+VI. De autonomía de gestión escolar.
+
+VII. De seguimiento a la normalidad mínima y otras condiciones favorables al funcionamiento educativo.
+
+VIII. De desarrollo de la cultura de la transparencia y la rendición de cuentas.
+
+El Consejo Estatal hará del conocimiento del Consejo Nacional de Participación Social en la Educación, su proyecto de participación social. De igual manera los Consejos Municipales harán lo conducente al Consejo Estatal y los Consejos Escolares harán lo propio al municipal, estatal y nacional.
 
 ### CAPITULO SEGUNDO. DEL CONSEJO ESTATAL
 
 #### SECCION PRIMERA. DE SU INTEGRACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 83.
+
+El Consejo Estatal funcionará como un órgano de consulta, orientación y apoyo.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo del Estado especialmente interesados en la educación.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+El Consejo Estatal se constituirá en cuanto al número de sus integrantes tomando en consideración las características del Estado y procurando que todas las regiones estén representadas, en todo caso, el número mínimo de miembros será de quince consejeros y el máximo de treinta y uno.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 El Consejo Estatal, se integrará por:
 
-I. Un presidente, que será el Secretario de Educación, Cultura y Bienestar Social;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-II. Los vocales que serán:
+I. Un consejero presidente, que será un padre de familia elegido de entre una terna que proponga el Secretario de Educación y que deberá contar con un hijo inscrito en escuela pública de educación básica del Estado de México en el ciclo escolar de que se trate, lo que acreditará con la certificación que expida el director correspondiente o con la constancia de inscripción de su hijo, en caso de que quien presida deje de reunir este requisito los consejeros designarán a nuevo presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+II. Los consejeros que serán:
 
 a) El Subsecretario de Educación Básica y Normal;
 
@@ -843,13 +915,19 @@ a) Un director de una institución educativa por cada uno de los niveles de pree
 
 b) Un director de una institución de educación superior formadora de docentes.
 
-VI. Dos representantes del Sindicato de Maestros al Servicio del Estado de México, designados por su secretario general;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-VII. Un representante de la Sección 17 del Sindicato Nacional de Trabajadores de la Educación, designado por su secretario general.
+VI. Dos representantes del Sindicato de Maestros al Servicio del Estado de México, designados por su secretario general, quienes acudirán como representantes de los intereses laborales de sus trabajadores.
 
-VIII. Un representante de la Sección 36 del Sindicato Nacional de Trabajadores de la Educación, designado por su secretario general.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-IX A invitación del presidente del consejo:
+VII. Un representante de la Sección 17 del Sindicato Nacional de Trabajadores de la Educación, designado por su secretario general, quien acudirá como representante de los intereses laborales de sus trabajadores.
+
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+VIII. Un representante de la Sección 36 del Sindicato Nacional de Trabajadores de la Educación, designado por su secretario general, quien acudirá como representante de los intereses laborales de sus trabajadores.
+
+IX. A invitación del presidente del consejo:
 
 a) El presidente de una asociación escolar:
 
@@ -859,43 +937,81 @@ c) Dos profesores distinguidos, uno del Subsistema Estatal y otro del Subsistema
 
 d) Seis ciudadanos del Estado de México interesados en los asuntos educativos: Dos integrantes de colegios profesionales, dos representantes de organizaciones sociales y dos representantes de sectores productivos.
 
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+El Consejo Estatal acreditará a su representante ante el Consejo Nacional de Participación Social en la Educación, de conformidad con los lineamientos expedidos por la Autoridad Educativa Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 84.
 
-El Consejo Estatal contará con un Secretario Técnico que nombrará y removerá libremente el presidente, el cual tendrá las funciones siguientes:
+El Consejo Estatal contará con un Secretario Técnico que nombrará y removerá libremente el Secretario de Educación, el cual tendrá las funciones siguientes:
 
-I. Coordinar las sesiones del Consejo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE AGOSTO DE 2014)</small>
 
-II. Registrar los acuerdos en el libro de actas correspondiente;
+I. Fungir como instancia de coordinación y enlaces con las autoridades educativas estatales y municipales y con los Consejos Nacional y Escolares de Participación Social en la Educación.
 
-III. Auxiliar al presidente en las actividades administrativas para el desarrollo y buen funcionamiento del Consejo Estatal;
+II. Coordinar las sesiones del Consejo.
 
-IV. Coordinar los grupos de trabajo;
+III. Registrar los acuerdos en el libro de actas correspondiente.
 
-V. Las que determine el propio Consejo Estatal.
+IV. Auxiliar al presidente en las actividades administrativas para el desarrollo y buen funcionamiento del Consejo Estatal.
+
+V. Coordinar los grupos de trabajo.
+
+VI. Las que determine el propio Consejo Estatal.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 85.
 
-El Consejo Estatal deberá constituirse dentro de los sesenta días siguientes al inicio del ciclo escolar correspondiente; sus integrantes desempeñarán funciones por dos ciclos escolares a partir de la fecha de su Instalación.
+El Consejo Estatal deberá constituirse dentro de los sesenta días siguientes al inicio del ciclo escolar correspondiente. Los integrantes del Consejo Estatal durarán en su encargo dos años, a partir de la fecha de su instalación, pudiendo reelegirse por un sólo periodo más.
 
 #### SECCION SEGUNDA. DE SUS FUNCIONES
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 86.
 
 El Consejo Estatal, tendrá las funciones siguientes:
 
-I. Promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo, de protección al ambiente y de bienestar social;
+I. Promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social.
 
-II. Coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar;
+II. Coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar.
 
-III. Contribuir a la identificación de la problemática de la entidad y sugerir contenidos para la formulación de los planes y programas de estudio;
+III. Opinar en asuntos pedagógicos.
 
-IV. Opinar sobre asuntos pedagógicos;
+IV. Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo.
 
-V. Conocer las demandas y necesidades de la participación social en la educación, a través de los consejos escolares y municipales, y gestionar los requerimientos ante los órganos competentes su apoyo y resolución;
+V. Tomar nota de los resultados de las evaluaciones que realicen las autoridades educativas para, en su caso, proponer las acciones que permitan mejorar la educación.
 
-VI. Recibir los resultados de las evaluaciones que efectúen las autoridades y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación; y
+VI. Colaborar con las autoridades educativas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
-VII. Las demás que establezcan otras disposiciones legales.
+VII. Conocer el desarrollo y evolución del Sistema Educativo Nacional y Estatal para, en su caso, realizar propuestas al Consejo Nacional y a la Autoridad Educativa Estatal, en su caso, así como difundirlas socialmente.
+
+VIII. Proponer políticas para elevar la calidad, su equidad y la cobertura de la educación en la entidad federativa.
+
+IX. Establecer coordinación con los Consejos Nacional, Municipales y Escolares de la entidad, para el mejor logro de sus objetivos, e intercambiar información relativa a sus actividades y difundirla a la sociedad.
+
+X. Formular propuestas que tiendan a fortalecer y alentar el debido funcionamiento y operación de los centros educativos, considerando para ello la participación de la sociedad y de los sectores interesados en la educación.
+
+XI. Conocer y difundir de manera periódica, en un marco de respeto a la pluralidad, las diversas opiniones y sugerencias de la sociedad, sobre la participación social en la educación tendientes a elevar la calidad de la educación y su equidad.
+
+XII. Solicitar información a la Autoridad Educativa Federal, Estatal y Municipal para conocer logros, avances, retos y perspectivas de la educación básica.
+
+XIII. Inscribir en el Registro Público de Consejos de Participación Social en la Educación, su constitución, modificación y actividades.
+
+XIV. Colaborar y apoyar a las autoridades municipales y autoridades de las escuelas, en la constitución, registro y operación de los Consejos Municipales y Escolares.
+
+XV. Participar, previo cumplimiento de los requisitos correspondientes, como observador en los diferentes procesos de evaluación en términos de las disposiciones aplicables.
+
+XVI. Hacer del conocimiento del Consejo Nacional de Participación Social en la Educación, su proyecto de participación social en la educación.
+
+XVII. Promover actividades y estrategias para fomentar la autonomía de gestión escolar.
+
+XVIII. Promover y difundir prácticas exitosas de participación social en la educación que se lleven a cabo en la educación básica.
+
+XIX. Las demás que señala el presente Reglamento o le confiera la normatividad emitida por la Autoridad Educativa Federal o Estatal.
 
 #### SECCION TERCERA. DEL FUNCIONAMIENTO
 
@@ -903,19 +1019,23 @@ VII. Las demás que establezcan otras disposiciones legales.
 
 Para el ejercicio de sus funciones el Consejo Estatal realizará las siguientes acciones:
 
-I. Proponer al Consejo Técnico de Educación del Estado de México mecanismos de comunicación, para hacer eficiente la participación de la comunidad en beneficio del servicio educativo;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+I. Proponer mecanismos de comunicación, para hacer eficiente la participación de la comunidad en beneficio del servicio educativo.
 
 II. Proponer a la Secretaría convenios con dependencias e instituciones no gubernamentales;
 
 III. Promover acciones para fortalecer la actividad de los Consejos Municipales y Escolares;
 
-IV. Sugerir a la Secretaría programas para el otorgamiento de estímulos y reconocimientos a municipios, escuelas, directivos, maestros, alumnos, padres de familia y otros integrantes de la comunidad;
+IV. (DEROGADA, G.G. 18 DE AGOSTO DE 2014)
 
 V. Promover ante los Consejos Municipales y Escolares, actividades en el ámbito de protección civil, que involucren a docentes, alumnos, padres de familia y a la comunidad;
 
 VI. Fomentar ante los Consejos Municipales y Escolares, campañas y eventos culturales, en los que se destaquen las tradiciones y costumbres de la comunidad y se fortalezca el sentido de pertenencia e identidad mexiquenses;
 
-VII. Enviar al Consejo Técnico de Educación del Estado de México opiniones de carácter pedagógico;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+VII. Enviar opiniones de carácter pedagógico.
 
 VIII. Las demás que sean consecuentes con sus funciones.
 
@@ -923,15 +1043,23 @@ VIII. Las demás que sean consecuentes con sus funciones.
 
 #### SECCION PRIMERA. DE SU INTEGRACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 88.
 
-Los Consejos Municipales se integran por:
+En cada municipio operara un Consejo Municipal que estará integrado por:
 
-I. Un presidente, que será el presidente municipal que corresponda;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-II. Tres representantes del Sindicato de Maestros al Servicio del Estado de México: uno del nivel preescolar, uno de primaria y uno de secundaria, designados por su secretario general;
+I. Un presidente, elegido por mayoría de votos de los consejeros de una terna propuesta por el regidor comisionado de educación, el cual deberá ser padre de familia y deberá contar por lo menos con un hijo inscrito en una escuela de educación básica del municipio en el ciclo escolar de que se trate, lo que acreditará con certificación que expida el director correspondiente o la constancia de inscripción de su hijo. En caso de que quien presida deje de reunir este requisito, los consejeros designarán un nuevo presidente.
 
-III. Tres representantes del Sindicato Nacional de Trabajadores de la Educación; uno del nivel preescolar, uno de primaria y uno de secundaria, designados por su secretario general;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+II. Tres representantes del Sindicato de Maestros al Servicio del Estado de México: uno del nivel preescolar, uno de primaria y uno de secundaria, designados por su secretario general, quienes acudirán como representantes de los intereses laborales de sus trabajadores.
+
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+III. Tres representantes del Sindicato Nacional de Trabajadores de la Educación; uno del nivel preescolar, uno de primaria y uno de secundaria, designados por su secretario general, quienes acudirán como representantes de los intereses laborales de sus trabajadores.
 
 IV. A invitación del Director General de Educación Básica:
 
@@ -941,7 +1069,7 @@ V. A invitación del Director General de los Servicios Educativos Integrados al 
 
 a) Tres supervisores escolares, uno por cada nivel educativo del tipo básico, que realicen sus funciones en el municipio correspondiente;
 
-VI A invitación del presidente del Consejo Municipal:
+VI. A invitación del presidente del Consejo Municipal:
 
 a) Un servidor público municipal, responsable de la atención de los asuntos educativos;
 
@@ -951,43 +1079,61 @@ c) Tres padres de familia, representantes de los Consejos Escolares;
 
 d) Tres representantes de organizaciones interesadas en el mejoramiento de la educación.
 
-VII. Un Secretario, designado por el Presidente del Consejo.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+VII. Un Secretario Técnico, nombrado y removido por el Presidente Municipal.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 89.
 
-Los Consejos Municipales deberán constituirse dentro de los cuarenta y cinco días siguientes al inicio del ciclo escolar correspondiente; sus integrantes desempeñarán sus funciones por el periodo que dure la gestión municipal, y los invitados desempeñarán funciones por un ciclo escolar.
+Los Consejos Municipales deberán constituirse dentro de los cuarenta y cinco días siguientes al inicio del ciclo escolar correspondiente; tomado (sic) en consideración las características del municipio, con un mínimo de cinco consejeros y un máximo de veinticinco, quienes durarán en su encargo dos años pudiendo ser reelectos para un periodo igual. Los invitados desempeñarán funciones por un ciclo escolar.
 
 #### SECCION SEGUNDA. DE SUS FUNCIONES
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 90.
 
 Los Consejos Municipales tendrán las funciones siguientes:
 
-I. Gestionar ante el ayuntamiento el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+I. Gestionar, ante el ayuntamiento y la Autoridad Educativa Estatal, el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio.
 
-II. Conocer los resultados de las evaluaciones que realicen las autoridades educativas relativas a su municipio;
+II. Conocer de los resultados de las evaluaciones que realicen las autoridades educativas.
 
-III. Establecer la coordinación con las autoridades escolares para implementar programas de bienestar comunitario;
+III. Llevar a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio.
 
-IV Contribuir a la Identificación de la problemática educativa del municipio y sugerir contenidos para la formulación de los planes y programas de estudio;
+IV. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales.
 
-V. Opinar en asuntos pedagógicos;
+V. Establecer la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes.
 
-VI Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar;
+VI. Hacer aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio.
 
-VII. Promover la superación educativa en el ámbito municipal, mediante certámenes interescolares;
+VII. Opinar en asuntos pedagógicos.
 
-VIII. Promover actividades de orientación, capacitación y difusión, dirigidas a los padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+VIII. Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar.
 
-IX Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
+IX. Promover la superación educativa en el ámbito municipal mediante certámenes interescolares.
 
-X Procurar la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico cada escuela pública;
+X. Promover actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa.
 
-XI. Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+XI. Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares.
 
-XII. Realizar, en general, actividades para apoyar y fortalecer la educación en el municipio;
+XII. Procurar la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública.
 
-XIII. Las demás que establezcan otras disposiciones legales.
+XIII. Conocer el desarrollo y evolución del sistema educativo en su municipio para, en su caso, realizar propuestas al Consejo Estatal y darlos a conocer a la sociedad.
+
+XIV. Proponer políticas para elevar la calidad y la equidad de la educación en su municipio.
+
+XV. En general, realizar actividades para apoyar y fortalecer la educación en su municipio.
+
+XVI. Difundir programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
+
+XVII. Proponer mecanismos de reconocimiento social, para maestros que más se distingan, los que deberán otorgarse anualmente, a un docente por escuela.
+
+XVIII. Vigilar el cumplimiento de las disposiciones que en materia de alimentos emita la autoridad competente.
+
+XIX. Las demás que le confiera la normatividad aplicable.
 
 Los presidentes municipales vigilarán que en los Consejos Municipales se alcance una efectiva y eficaz participación social, que contribuya a elevar la calidad y cobertura de la educación.
 
@@ -1025,17 +1171,23 @@ XII. Las demás que sean consecuentes con sus funciones.
 
 #### SECCION PRIMERA. DE SU INTEGRACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 92.
 
-El Consejo Escolar se integrará por:
+La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica se constituya y opere un Consejo Escolar de Participación Social, que se conformará hasta por quince consejeros y que estará integrado por:
 
-I. El director de la escuela, quien fungirá como presidente;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+I. Un presidente, que sólo podrá ser una madre o un padre de familia electo por el Consejo y que deberá contar por lo menos con un hijo inscrito en la escuela durante el ciclo escolar de que se trate, lo que acreditará con la certificación que expida el director correspondiente o con la constancia de inscripción de su hijo. Los consejeros designarán a nuevo presidente en caso de que quien presida el consejo deje de reunir este requisito.
 
-II. Cuatro representantes de la asociación de padres de familia, elegidos por éstos;
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-III. Un representante de la organización sindical de maestros del personal adscrito en la escuela, designado por el sindicato correspondiente;
+II. Seis padres de familia, elegidos por la asociación de padres de familia.
+
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+III. Un representante de la organización sindical de maestros del personal adscrito en la escuela, designado por el sindicato correspondiente, quien acudirá como representante de los intereses laborales de los trabajadores.
 
 IV. Un profesor elegido de entre la plantilla de docentes de la institución educativa, electo por éstos;
 
@@ -1049,101 +1201,89 @@ b) El presidente de la asociación de padres de familia;
 
 c) Un representante de la comunidad donde se encuentra establecida la institución educativa, que se haya destacado por su Interés en asuntos educativos;
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-VI. Un secretario técnico, elegido por los miembros del Consejo Escolar.
+VI. En escuelas con más de tres grupos, podrán designar a un secretario técnico, nombrado por mayoría de votos de entre los integrantes de cada consejo escolar.
 
-> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-El secretario técnico convocará a los integrantes del Consejo Escolar para la celebración de las sesiones y a toda la comunidad educativa para la realización de las asambleas.
-
-> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 Los integrantes del Consejo Escolar tendrán derecho a voz y voto con excepción de los invitados y del secretario técnico, que sólo tendrán voz.
 
-> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+En la conformación del Consejo Escolar, se promoverá la participación equitativa de género.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 93.
 
-Para la constitución del Consejo Escolar, el director de la escuela convocará a la comunidad educativa en la tercera semana de septiembre. La convocatoria deberá difundirse a través de carteles colocados en la escuela y avisos a los estudiantes, así como por otros medios cuando se estime necesario.
+Para la constitución del Consejo Escolar, el director de la escuela convocará a la comunidad educativa en la primera semana del ciclo escolar. La convocatoria deberá difundirse a través de carteles colocados en la escuela y avisos a los estudiantes, así como por otros medios cuando se estime necesario.
 
-Como resultado de la asamblea de la comunidad educativa, el Consejo Escolar deberá estar constituido en la última semana de septiembre del ciclo escolar del (sic) que se trate, debiendo levantarse el acta correspondiente para su inscripción en el Registro Público de los Consejos Escolares de Participación Social en la Educación.
+Como resultado de la asamblea de la comunidad educativa, el Consejo Escolar deberá estar constituido en la segunda semana del ciclo escolar del que se trate. El presidente o el secretario técnico levantará el acta correspondiente, misma que inscribirá en el Registro Público de los Consejos de Participación Social en la Educación.
 
-Los miembros del Consejo Escolar durarán en su cargo dos años, pudiendo reelegirse por un periodo más. El cargo de consejero será honorífico.
+Si el Consejo Escolar maneja recursos económicos deberá proceder a abrir una cuenta bancaria específica en aquellas comunidades en que esto sea posible.
 
-En caso de que algún integrante se separe de su función antes de que concluya el periodo será sustituido en los mismos términos en que fue designado.
+Los miembros del Consejo Escolar durarán en su cargo dos años, con la posibilidad de reelegirse por un periodo adicional.
 
-En el caso de las escuelas de organización incompleta o de nueva creación, el Consejo Escolar se constituirá con el mínimo de integrantes que permitan las condiciones del servicio educativo, el cual en ningún caso será menor de cuatro y siempre y cuando el cincuenta por ciento más uno sean padres de familia.
+En caso de que algún miembro se separe del Consejo Escolar su ausencia será cubierta mediante el procedimiento original de elección.
+
+En el caso de las escuelas de integración incompleta, unitarios o bidocentes, el Consejo Escolar se conformará por un padre de familia y el maestro.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 94.
 
-En las escuelas particulares de educación básica, podrá operar un consejo análogo, con la finalidad de propiciar una eficaz colaboración e integración social y vincular a los padres de familia, alumnos e integrantes de la comunidad interesados en el desarrollo de la propia escuela, para fortalecer y elevar la calidad educativa.
+En las escuelas particulares de educación básica, deberá operar un consejo análogo, con la finalidad de propiciar una eficaz colaboración e integración social y vincular a los padres de familia, alumnos e integrantes de la comunidad interesados en el desarrollo de la propia escuela, para fortalecer y elevar la calidad educativa.
 
 #### SECCION SEGUNDA. DE SUS FUNCIONES
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 95.
 
 El Consejo Escolar tendrá las funciones siguientes:
 
-I. Conocer el calendario escolar, metas educativas y avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+I. Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización.
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+II. Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la Ley General de Educación.
 
-II. Tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, exhortar al personal directivo y docente para establecer metas y acciones complementarias que permitan obtener mejores resultados en la evaluación del ciclo escolar en curso;
+III. Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicarlos.
 
-III. Propiciar la colaboración de maestros y padres de familia;
+IV. Sensibilizará a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de las y los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos.
 
-IV. Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela;
+V. Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas.
 
-V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
+VI. Propiciará la colaboración de maestros y padres de familia en los programas relativos a salvaguardar la integridad y educación plena de las y los educandos.
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+VII. Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, para ser considerados por los programas de reconocimiento que establece la Ley General del Servicio Profesional Docente y demás programas que al efecto determine la Secretaría de Educación Pública y las autoridades competentes.
 
-VI. Propiciar, coordinar y difundir las acciones necesarias para la protección civil, emergencia escolar y seguridad en los planteles educativos;
+VIII. Estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos.
 
-VII. Alentar el interés familiar y comunitario por el mejor desempeño del educando;
+IX. Llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar.
 
-VIII. Opinar en asuntos de orden pedagógico;
+X. Alentará el interés familiar y comunitario por el desempeño del educando.
 
-IX. Contribuir a reducir las condiciones sociales adversas que influyan en la educación;
+XI. Opinará en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de las y los educandos.
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+XII. Contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para lograr la participación voluntaria en trabajos específicos de mejoramiento de las instalaciones escolares.
 
-X. Coadyuvar para trabajos específicos de mejoramiento de la infraestructura física educativa;
+XIII. Respaldará las labores cotidianas de la escuela.
 
-XI. Proponer las medidas que garanticen la continuidad del servicio educativo y el cumplimiento del calendario escolar;
+XIV. Apoyará el funcionamiento del Consejo Técnico Escolar.
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+XV. Vigilará el cumplimiento de la normalidad mínima en el funcionamiento del centro escolar.
 
-XII. Dar a conocer a la comunidad educativa el monto de los recursos que, en su caso, sean otorgados a la escuela a través de programas federales, estatales o municipales y de aquellos obtenidos por otras fuentes;
+XVI. Vigilará el cumplimiento de la normatividad que en materia de alimentos expida la autoridad competente.
 
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+XVII. Elaborará y presentará a la comunidad educativa un informe anual de sus actividades, destacando los ingresos que por cualquier medio hubiera obtenido y su aplicación, incluyendo el reporte que le rinda la cooperativa escolar o equivalente.
 
-XIII. Invitar a la asociación de padres de familia para que informe a la comunidad educativa del monto y destino de los recursos que hubiera obtenido;
+XVIII. Registrará y apoyará el funcionamiento de los Comités que se establezcan para la promoción de programas específicos.
 
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+XIX. Fomentará el respeto entre los miembros de la comunidad educativa con especial énfasis en evitar conductas y agresión entre los alumnos y desalentará entre ellos prácticas que generen violencia.
 
-XIV. Incorporar a la escuela en los programas de lectura existentes, promover el uso y mejora de la biblioteca escolar y crear círculos de lectura;
+XX. Las demás que establezcan otras disposiciones legales.
 
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-XV. Impulsar la activación física y promover el consumo de alimentos saludables;
-
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-XVI. Generar la cultura de la no violencia y el cuidado al medio ambiente;
-
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-XVII. Promover eventos deportivos y actividades recreativas, artísticas o culturales;
-
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-XVIII. Desarrollar actividades en beneficio de la escuela; y
-
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-XIX. Las demás que establezcan otras disposiciones legales.
+XXI. En general, podrá realizar actividades en beneficio de la propia escuela.
 
 #### SECCION TERCERA. DEL FUNCIONAMIENTO
 
@@ -1157,13 +1297,13 @@ II. Proponer al director de la escuela, programas orientados a fomentar en los p
 
 III. Proponer al Consejo Municipal, programas de difusión de los servicios que la institución educativa ofrece;
 
-IV Sugerir al director de la escuela, programas de consulta, orientación y apoyo a la comunidad escolar, con el objeto de mejorar el servicio educativo que brinda la institución;
+IV. Sugerir al director de la escuela, programas de consulta, orientación y apoyo a la comunidad escolar, con el objeto de mejorar el servicio educativo que brinda la institución;
 
-V Promover ante las autoridades educativas estímulos y reconocimientos al personal directivo, docente y demás sectores sociales que participen en favor de la educación;
+V. (DEROGADA, G.G. 18 DE AGOSTO DE 2014)
 
-VI Proponer al Consejo Municipal, programas de actividades socioculturales que fortalezcan el vínculo escuela-comunidad;
+VI. Proponer al Consejo Municipal, programas de actividades socioculturales que fortalezcan el vínculo escuela-comunidad;
 
-VII Propiciar la permanencia e incorporación de jóvenes y adultos a los servicios educativos que brinda la institución;
+VII. Propiciar la permanencia e incorporación de jóvenes y adultos a los servicios educativos que brinda la institución;
 
 VIII. Recomendar a las autoridades educativas programas que promuevan la riqueza cultural de la comunidad, de modo tal, que se difunda el sentido de pertenencia de sus habitantes, a fin de fortalecer la identidad mexiquense;
 
@@ -1175,77 +1315,111 @@ X. Las demás que establezcan otras disposiciones.
 
 #### SECCIÓN CUARTA. DE LAS SESIONES
 
-> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 96 Bis.
 
-Las sesiones del Consejo Escolar tendrán por objeto:
+El presidente o el secretario técnico convocará a los integrantes del Consejo Escolar de Participación Social para realizar las sesiones del consejo y a toda la comunidad educativa para la celebración de asambleas.
 
-A. En la primera semana de octubre:
+Para que sesione válidamente un Consejo Escolar se requerirá la presencia de la mitad más uno de los consejeros. Los acuerdos se tomarán por mayoría de votos de los consejeros presentes. En caso de empate el presidente tendrá voto de calidad.
 
-I. Conocer las gestiones que haya realizado la escuela para su incorporación a programas federales, estatales o municipales;
+El funcionamiento del Consejo Escolar se hará conforme a lo siguiente:
 
-II. Solicitar al personal directivo y docente que expongan los trabajos específicos que se requieran para el mejoramiento de las instalaciones escolares;
+En la primera quincena del segundo mes del ciclo escolar:
 
-III. Promover el conocimiento del monto y destino de los recursos provenientes de cualquier fuente distinta a los programas federales, estatales o municipales y sean recabados por el Consejo Escolar;
+Se celebrará una sesión del Consejo Escolar de Participación Social, con el objeto de conocer la incorporación, en su caso, de la escuela a los programas federales, estatales, municipales y de organizaciones de la sociedad civil.
 
-IV. Acordar la integración de los comités en temas que tengan por objeto incorporar a la escuela en los programas de:
+El director de la escuela o su equivalente, durante la misma sesión, dará a conocer al Consejo Escolar la planeación anual de su centro escolar para el ciclo escolar, el calendario escolar y en su caso, las recomendaciones que el Consejo Técnico haya emitido para el cumplimiento del programa.
 
-a) Lectura y biblioteca escolar;
+En dicha sesión también se abordarán cuando menos tres temas prioritarios, de entre los siguientes:
 
-b) Mejoramiento de la infraestructura física educativa;
+I. Fomento de actividades relacionadas con la lectura y aprovechamiento de la infraestructura con que para ello se cuente.
 
-c) Protección civil y seguridad de las escuelas;
+II. Mejoramiento de la infraestructura educativa.
 
-d) Impulso a la activación física;
+III. De protección civil y de seguridad en las escuelas.
 
-e) Actividades recreativas, artísticas o culturales;
+IV. De impulso a la activación física.
 
-f) Cultura de la no violencia;
+V. De actividades recreativas, artísticas o culturales.
 
-g) Establecimiento de consumo escolar;
+VI. De desaliento de las prácticas que generen violencia.
 
-h) Cuidado al medio ambiente y limpieza del entorno escolar; y
+VII. De establecimientos de consumo escolar.
 
-i) Los demás que el Consejo Escolar estime convenientes.
+VIII. De cuidado al medioambiente y limpieza del entorno escolar.
 
-Los comités se integrarán hasta por siete miembros los cuales podrán ser docentes y administrativos de la escuela, siempre y cuando la mitad más uno sean padres de familia o tutores. Los integrantes de los comités elegirán a su presidente, con excepción del Comité del Establecimiento de Consumo Escolar, que será presidido por el director o un maestro, según lo acuerde el personal docente del plantel educativo.
+IX. De alimentación saludable.
 
-Los comités sesionarán con la frecuencia que ellos mismos determinen.
+X. De integración educativa.
 
-B. En la segunda semana de noviembre: Invitar a directivos, docentes y personal de apoyo de la escuela para tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, exhortar al personal directivo y docente para que establezca metas y acciones complementarias que permitan obtener mejores resultados en la evaluación del ciclo escolar en curso.
+XI. De nuevas tecnologías.
 
-C. En la cuarta semana de noviembre:
+XII. De otras materias que el Consejo Escolar juzgue pertinentes.
 
-I. Informar a la comunidad educativa de las gestiones que haya realizado la escuela para incorporarse a programas federales, estatales o municipales, la integración de los comités y el registro de los resultados de las evaluaciones;
+En caso de que lo disponga el Consejo, podrán constituirse Comités para la atención y seguimiento de estos temas o de programas específicos.
 
-II. Establecer metas y acciones complementarias; y
+En las escuelas de educación básica se deberá constituir el Comité de Establecimientos de Consumo Escolar el cual desarrollará las acciones relacionadas con la preparación, expendio y distribución de alimentos y bebidas en la escuela, de acuerdo a los criterios de una alimentación correcta. Los directivos docentes y personal administrativo y de apoyo a los servicios educativos de las escuelas públicas de educación básica no podrán participar en estas acciones.
 
-III. Presentar los proyectos anuales de trabajo del Consejo y los comités.
+A fin de generar entornos saludables en la escuela, el Comité de Establecimientos de Consumo Escolar promoverá la realización de las siguientes acciones:
 
-D. En la tercera semana de febrero:
+I. Convocar a madres y padres de familia de la comunidad educativa a participar en las acciones relacionadas con el expendio y distribución de alimentos y bebidas de acuerdo a los criterios nutrimentales establecidos en el Anexo Único del Acuerdo mediante el cual se establecen los Lineamientos Generales para el Expendio y Distribución de Alimentos y Bebidas Preparados y procesados en las Escuelas del Sistema Educativo Nacional.
 
-l. Conocer el monto y destino de los recursos asignados a la escuela a través de programas federales, estatales o municipales; y
+II. Establecer alianzas entre la escuela y la familia para adoptar una alimentación correcta.
 
-II. Acordar la realización de eventos deportivos, recreativos, artísticos y culturales que promuevan la convivencia de la comunidad educativa.
+III. Gestionar la capacitación y orientación alimentaria dirigida a las personas directamente involucradas en la preparación, el expendio y la distribución de los alimentos y bebidas.
 
-E. En la primera semana de junio:
+IV. Difundir entre la comunidad educativa el tipo de alimentos y bebidas que se expenden y distribuyen en la escuela, basados en las recomendaciones y prohibiciones contenidas en el Anexo Único del Acuerdo mediante el cual se establecen los Lineamientos Generales para el Expendio y Distribución de Alimentos y Bebidas Preparados y procesados en las Escuelas del Sistema Educativo Nacional.
 
-I. Cuantificar el monto y destino de los recursos obtenidos durante su gestión y elaborar el informe de transparencia;
+V. Supervisar y vigilar de manera permanente la calidad y el tipo de productos que pueden expenderse y distribuirse, verificando que los alimentos y bebidas señalen la fecha de caducidad o consumo preferente, la información nutrimental del producto y que cumplan con las disposiciones establecidas en el Anexo Único del Acuerdo mediante el cual se establecen los Lineamientos Generales para el Expendio y Distribución de Alimentos y Bebidas Preparados y procesados en las Escuelas del Sistema Educativo Nacional.
 
-II. Exhortar a la asociación de padres de familia para que informe a la comunidad educativa del monto y destino de los recursos que hubiera obtenido; esta información será integrada al informe de transparencia;
+VI. Verificar el cumplimiento de las medidas de seguridad e higiene para la preparación, expendio y distribución de alimentos y bebidas en la escuela.
 
-III. Elaborar el informe de resultados de las acciones desarrolladas por el Consejo Escolar y los comités durante el ciclo escolar.
+VII. Las demás que le encomiende el Consejo Escolar de Participación Social.
 
-F. En la tercera semana de junio: Convocar a la comunidad educativa para presentar los informes correspondientes a la obtención de recursos y acciones realizadas.
+El Comité de Establecimientos de Consumo Escolar dará cuenta al Consejo Escolar de Participación Social de las acciones desarrolladas y, en su caso, de las irregularidades detectadas en la preparación, expendio y distribución de alimentos y bebidas en la escuela.
 
-Los informes serán públicos, se realizarán en la escuela y se pondrán a disposición de las autoridades educativas, estatales o municipales, procurando, en la medida de lo posible, inscribirlos en el Registro Público de los Consejos Escolares de Participación Social en la Educación.
+Las autoridades educativas de las escuelas de los tipos medio superior y superior establecerán los mecanismos conforme a los cuales se desarrollarán las acciones relacionadas con la preparación, expendio y distribución de alimentos y bebidas.
 
-> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+En la primera quincena del tercer mes de cada ciclo escolar:
+
+El Consejo Escolar de Participación Social tendrá una sesión de seguimiento del programa de trabajo, conocerá de sus avances y formulará, de ser el caso, las recomendaciones para su cumplimiento.
+
+Tomará nota de los comunicados e información que provenga de las autoridades educativas y las municipales y estatales.
+
+Asimismo, el Consejo Escolar podrá proponer al director los días y horas sobre la realización de eventos deportivos, recreativos, artísticos y culturales que promuevan la convivencia de las madres y padres de familia o tutores, con los alumnos de la escuela, así como la participación de estos últimos con alumnos de otras escuelas en la zona escolar o en el municipio que corresponda.
+
+También podrá proponer estímulos y reconocimientos de carácter social a maestros, directivos y trabajadores de apoyo y asistencia a la educación adscritos al centro educativo.
+
+Durante este periodo, el Consejo Escolar llevará a cabo el registro de las actividades establecidas en el párrafo anterior en el Registro Público de Consejos de Participación Social.
+
+Durante la última quincena del ciclo lectivo:
+
+Cada Consejo Escolar de Participación Social rendirá por escrito a la Asamblea de la comunidad educativa, un informe amplio y detallado sobre todos los recursos que haya recibido durante el ciclo escolar, especificando la fuente u origen de éstos, su naturaleza y monto, el destino que se les haya dado, de los resultados de las acciones desarrolladas durante el ciclo escolar, de las actividades de los Comités que en su caso se hayan constituido y la demás información exigida por las disposiciones jurídicas aplicables en la materia.
+
+Después de cada ciclo escolar:
+
+El director del plantel educativo, rendirá ante toda la comunidad un informe de sus actividades y rendición de cuentas, apegado a la normatividad en la materia, sobre las gestiones realizadas y los recursos obtenidos de cualquier fuente, su destino y los resultados de la aplicación de los recursos allegados conforme a derecho.
+
+Adicionalmente el Consejo Escolar de Participación Social y el director de la escuela requerirán a la Asociación de Padres de Familia, en su caso, o agrupación equivalente, que informe a la comunidad escolar el uso que dio al conjunto de los recursos que hubiera recabado conforme a derecho. Dicha información será integrada al informe referido en el párrafo anterior.
+
+Las sesiones de los Consejos Escolares se llevarán a cabo fuera de días y horas escolares, salvo en las que se presente el informe sobre rendición de cuentas, las cuales se efectuarán en el cierre de actividades del ciclo lectivo.
+
+Para dar cumplimiento a la trasparencia en el manejo de los recursos públicos, federales, estatales o municipales, o aquellos provenientes de las aportaciones voluntarias de padres de familia y demás integrantes de la comunidad, los gastos serán autorizados por escrito de manera conjunta por el director de la escuela o su equivalente y el Presidente del Consejo.
+
+Para el manejo de los recursos financieros, se deberá abrir una cuenta bancaria específica en una institución de crédito lo más próxima a la escuela, en la cual deberán firmar de forma mancomunada el Presidente del Consejo Escolar de Participación Social y el director de la escuela o su equivalente.
+
+En los casos en que no se cuente con institución bancaria en la comunidad, los recursos serán administrados por el director de la escuela o su equivalente y por el Presidente del Consejo Escolar con la aprobación y firma de por lo menos dos integrantes del mismo y deberán rendir cuentas a la comunidad cada tres meses sobre el origen y destino de todos los recursos de que disponga el Consejo.
+
+Los informes se harán públicos en la escuela mediante la exhibición de un cartel que contendrá un resumen del origen y destino de los gastos, y se pondrán a disposición de la autoridad educativa y el Consejo Municipal, de la Autoridad Educativa Estatal y el Consejo Estatal de Participación Social en la Educación y se inscribirán en el Registro Público de Consejos de Participación Social.
+
+En caso de presentarse alguna irregularidad, se podrá presentar una queja ante la Autoridad Educativa Estatal y el Consejo Estatal de Participación Social en la Educación.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 96 Ter.
 
-El Consejo Escolar podrá sesionar de forma extraordinaria cuando así lo determine.
+El Consejo Escolar podrá sesionar de forma extraordinaria cuando así lo determine, para analizar y acordar otras acciones en beneficio de la escuela, así como para elaborar proyectos específicos de participación social.
 
 ### CAPITULO QUINTO. DISPOSICIONES COMUNES
 
@@ -1263,9 +1437,15 @@ IV. Orientar y vigilar el trabajo de su consejo;
 
 V. Emitir voto de calidad;
 
-VI. Los demás asuntos que sean de su competencia.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
+VI. Registrar y actualizar la información que se le requiera en el Registro Público de los Consejos de Participación Social en la Educación, en un plazo no mayor a un mes después de finalizada cada sesión o asamblea, según corresponda.
+
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+VII. Los demás asuntos que sean de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 98.
 
@@ -1277,7 +1457,13 @@ II. Levantar las actas de las sesiones de los consejos y someterlas a la aprobac
 
 III. Llevar el registro y seguimiento de los acuerdos adoptados;
 
-IV. Los demás asuntos que les encomiende el presidente del consejo.
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+IV. Registrar y actualizar la información que se le requiera en el Registro Público de los Consejos de Participación Social en la Educación, cuando así lo determinen los presidentes de los consejos;
+
+> <small>(ADICIONADA, G.G. 18 DE AGOSTO DE 2014)</small>
+
+V. Los demás asuntos que les encomiende el presidente del consejo.
 
 ###### Artículo 99.
 
@@ -1289,9 +1475,11 @@ II. Votar en los asuntos que se sometan a su consideración;
 
 III. Los demás asuntos que les encomiende el propio consejo.
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 100.
 
-Los cargos de los integrantes de los consejos de participación social, serán honoríficos.
+Los cargos de los integrantes de los consejos de participación social, serán honoríficos, por lo que no recibirán retribución o emolumento alguno.
 
 > <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2010)</small>
 
@@ -1319,9 +1507,11 @@ La renovación de integrantes de los consejos de participación social designado
 
 El presidente del consejo, nombrará a los sustitutos de los vocales que hayan sido invitados por él, cuando éstos dejen de concurrir.
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 107.
 
-Los consejos se abstendrán de intervenir en asuntos laborales de los establecimientos educativos y en cuestiones políticas y religiosas.
+Los consejos de participación social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
 
 ## TRANSITORIOS
 
@@ -1357,7 +1547,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 1 DE OCTUBRE DE 2010.
 
@@ -1366,3 +1556,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 18 DE AGOSTO DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
