@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2014-07-16"
+last_updated: "2014-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1339,9 +1339,11 @@ XIX. Ser informado sobre los resultados del proceso de certificación y acredita
 
 XX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 86.
 
-El Consejo Ciudadano estará integrado por diecinueve Consejeros Ciudadanos, representantes de la sociedad civil organizada, organismos empresariales, instituciones académicas, colegios y asociaciones de profesionistas, así como de los medios de comunicación; de los cuales la mitad serán mujeres, de entre quienes se elegirá al Presidente y Secretario en términos del Estatuto Orgánico.
+El Consejo Ciudadano estará integrado por diecinueve Consejeras y Consejeros Ciudadanos, representantes de la sociedad civil organizada, organismos empresariales, instituciones académicas, colegios y asociaciones de profesionistas, así como de los medios de comunicación; de entre quienes se elegirá al Presidente y Secretario en términos del Estatuto Orgánico. El Consejo deberá integrarse al menos con el cuarenta por ciento de los representantes de un mismo género garantizando la igualdad de oportunidades y procurando llegar a la paridad.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
@@ -2828,3 +2830,9 @@ TERCERO. El Secretario de Seguridad Ciudadana del Estado de México, el Procurad
 CUARTO. El Ejecutivo del Estado y los ayuntamientos proveerán lo necesario, para la exacta observancia del presente Decreto, en la esfera administrativa que les corresponda.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 18 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
