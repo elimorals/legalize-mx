@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-la-seleccion-integracion-y-funcionamiento-94707
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-13"
-last_updated: "2013-06-13"
+last_updated: "2014-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO PARA LA SELECCIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DEL PARLAMENTO JUVENIL DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 13 de junio de 2013.
 
@@ -173,7 +173,9 @@ El Comité será instalado por el Presidente de la Junta de Coordinación Polít
 
 El Comité se conformará con:
 
-I. Un integrante de la Mesa Directiva del Congreso del Estado que para tal fin será designado, por la Junta de Coordinación Política, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+I. Un integrante de la Mesa Directiva del Congreso del Estado que para tal fin será designado, por la Junta de Coordinación Política, quien fungirá como Presidente. Para garantizar la pluralidad del Poder Legislativo, de manera extraordinaria la Junta de Coordinación Política podrá designar un integrante más al Comité Organizador;
 
 II. Dos integrantes de la Comisión de Jóvenes y Deporte;
 
@@ -669,6 +671,12 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su Public
 
 SEGUNDO. La instalación del Parlamento Juvenil para el año 2013 será en el mes de octubre del mismo año.
 
+TERCERO. ... (SIC)
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2014)</small>
+
+CUARTO. La instalación del Parlamento Juvenil para el año 2014, se efectuará en el mes de noviembre de la citada anualidad
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 23 veintitrés días del mes de mayo de 2013 dos mil trece.
@@ -678,3 +686,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".-PRESIDENTE DE LA MESA DIRECTI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 30 treinta días del mes de mayo del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR INTERINO DEL ESTADO.- LIC. JOSÉ JESÚS REYNA GARCÍA.- EL SUBSECRETARIO DE GOBERNACIÓN ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE GOBIERNO.- FERNANDO CANO OCHOA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
