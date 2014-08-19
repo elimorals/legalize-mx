@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2013-01-22"
+last_updated: "2014-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2014.
 
 Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -137,13 +137,15 @@ IV. Agricultura orgánica. El sistema integral de gestión de la producción que
 
 V. Autogestión: Capacidad de las personas en lo individual y en forma organizada de elegir y ejercer plenamente sus derechos sociales para planear y actuar en la construcción de su propio desarrollo;
 
-VI. Autoridad coadyuvante: Organismos que inciden en el sector rural en apoyo a las autoridades competentes y concurrentes, emanados de un ordenamiento legal;
+VI. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
-VII. Autoridad competente: el Titular del Poder Ejecutivo del Estado, La Secretaría de Desarrollo Rural y los Municipios;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
-VIII. Autoridad concurrente: las dependencias y entidades que inciden en el sector rural en el ámbito de sus competencias;
+VII. Autoridades competente (sic): El Titular del Poder Ejecutivo del Estado, la Secretaría de Desarrollo Rural; y los Ayuntamientos de los Municipios.
 
-IX. Bienestar Social: Satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras la seguridad social, vivienda, educación, salud, empleo e infraestructura de servicios básicos;
+VIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+
+IX. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 X. Comercio justo: La representación más directa y solidaria entre el consumidor y el productor, al eliminar la intermediación excesiva, procurando un trato comercial más justo tanto para el productor como para el consumidor;
 
@@ -157,7 +159,9 @@ XIV. Comité Técnico: El órgano de apoyo al Consejo Estatal de Desarrollo Rura
 
 XV. Consejo Distrital: El Consejo para el Desarrollo Rural Sustentable del Distrito de Desarrollo Rural;
 
-XVI. Consejo Estatal: El Consejo Estatal para el Desarrollo Rural Integral Sustentable; para los efectos de esta Ley, el Consejo Estatal es el establecido en la legislación federal de la materia y se inscribirá en el Consejo de Planeación Estatal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+XVI. Consejo Estatal. El Consejo Estatal para el Desarrollo Integral, Sustentable del Estado de Michoacán de Ocampo.
 
 XVII. Consejo Local: El Consejo que en cada localidad se constituye para el desarrollo rural sustentable;
 
@@ -169,7 +173,9 @@ XX. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre
 
 XXI. Cuenca hidrográfica. Unidad natural de espacio físico básica para la planeación y el desarrollo, definida por la existencia de la divisioria (sic) de las aguas en un territorio dado;
 
-XXII. Denuncia ciudadana: La presentación verbal o escrita que una persona física o moral, presenta ante cualquier autoridad, dependencia e institución, para denunciar hechos u omisiones que se encuentren establecidos en la legislación federal, estatal y municipal;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+XXII. Denuncia Popular. La presentación verbal o escrita de una persona física o moral, presentada ante cualquier autoridad, dependencia o institución para denunciar hechos u omisiones que se encuentren establecidos en la legislación federal, estatal o municipal;
 
 XXIII. Desarrollo Rural Integral y Sustentable: El mejoramiento integral de las condiciones de vida de la población, mediante la realización de las actividades productivas y sociales en el territorio comprendido fuera de los núcleos considerados urbanos, con base en las disposiciones aplicables, con el cuidado del entorno en que viven y la participación activa y organizada de los diversos agentes económicos y sociales del medio rural;
 
@@ -189,27 +195,29 @@ XXVIII. Investigación y transferencia de tecnología: La investigación y la mo
 
 XXIX. Ley: La Ley de Desarrollo Rural Integral Sustentable del Estado de Michoacán de Ocampo;
 
-XXX. Marginalidad: La definida de acuerdo con los criterios establecidos por el Instituto Nacional de Estadística, Geografía e Informática;
+XXX. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XXXI. Órdenes de Gobierno: Los gobiernos Federal, Estatal y Municipal;
 
-XXXII. Ordenamiento ecológico del territorio: Es el instrumento de política cuyo objeto es regular o inducir el uso del suelo y las actividades productivas con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales a partir del análisis de las tendencias de deterioro y revisión de potenciales de aprovechamiento de los recursos del territorio donde la nación ejerce su soberanía y jurisdicción;
+XXXII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
-XXXIII. Organismos Genéticamente Modificados: Cualquier organismo vivo, con excepción de los seres humanos, que ha adquirido una combinación genética novedosa, generada a través del uso específico de técnicas de la biotecnología moderna que se define en la Ley de Bioseguridad siempre que se utilicen técnicas que se deriven de esta Ley o en las normas oficiales mexicanas que deriven de la misma;
+XXXIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
-XXXIV. Participación ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
+XXXIV. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XXXV. Poblador rural: Toda persona física o moral que, siendo propietario o usufructuario de tierra o no, realice acciones económicas y/o sociales en el medio rural;
 
-XXXVI. Poder Ejecutivo Estatal: El Gobierno del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
-XXXVII. Productos y servicios: Son los resultados de la producción primaria, de la transformación y la prestación de los diferentes servicios que se realizan en el medio rural;
+XXXVI. Poder Ejecutivo Estatal. Es el órgano estatal que por disposición de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se deposita en un solo hombre denominado Gobernador con atribuciones y limitaciones para gobernar, vinculado con los otros dos poderes;
 
-XXXVIII. Productos básicos y estratégicos: Aquellos que forman parte de la dieta básica de la alimentación y/ o son relevantes para el desarrollo estatal, definidos por la ley o por considerarlos así por el Consejo Estatal;
+XXXVII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+
+XXXVIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XXXIX. Recursos naturales: Los elementos naturales renovables y no renovables potencialmente aprovechables, y que proporcionan servicios ambientales a la sociedad;
 
-XL. Red o cadena de valor: La colaboración estratégica de empresas con el propósito de satisfacer objetivos específicos de mercado en el largo plazo, y lograr beneficios mutuos para todos los eslabones de la cadena. El término de cadena de valor se refiere a una red de alianzas verticales o estratégicas entre varias empresas de negocios independientes dentro de una categoría de productos o servicios;
+XL. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XLI. Rural: la definición territorial aplicada a poblaciones con actividades económicas preponderantemente primarias, hasta de 2,500 habitantes; áreas conurbadas y áreas urbanas que realicen actividades agropecuarias, pesqueras, forestales o de transformación agroindustrial;
 
@@ -217,7 +225,7 @@ XLII. Secretaría: La Secretaría de Desarrollo Rural;
 
 XLIII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de los alimentos a la población, sin importar el origen de los bienes que proveen dicho abasto;
 
-XLIV. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, generación de oxígeno, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros; estipulados en las leyes específicas de la materia;
+XLIV. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XLV. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Gobierno del Estado de Michoacán;
 
@@ -225,13 +233,13 @@ XLV. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económi
 
 XLV Bis. Series de mineralización: Registro en el tiempo sobre las tasas de cambio de la fracción orgánica convertida a formas inorgánicas.
 
-XLVI. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento, y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+XLVI. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
-XLVII. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; para fines de esta Ley es sinónimo de cadena productiva;
+XLVII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 XLVIII. Sistema Financiero: El Sistema Estatal de Financiamiento Rural;
 
-XLIX. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, garantía de tener los alimentos que la población requiere mediante su propia producción; y,
+XLIX. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 L. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
 
@@ -247,15 +255,21 @@ II. La Secretaría de Desarrollo Rural; y,
 
 III. Los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 8.
 
-Son autoridades concurrentes para efectos de esta Ley y su Reglamento, en el ámbito de sus respectivas competencias:
+Son autoridades concurrentes para efectos de esta Ley y su Reglamento, en el ámbito de sus respectivas competencias.
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Planeación y Desarrollo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
-III. Tesorería General;
+II. Coordinación de Planeación para el Desarrollo;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+III. Secretaría de Finanzas y Administración;
 
 IV. Procuraduría General de Justicia;
 
@@ -265,17 +279,35 @@ VI. Secretaría de Desarrollo Social;
 
 VII. Secretaría de Salud;
 
-VIII. Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+VIII. Secretaría de Educación;
 
 IX. Secretaría de Urbanismo y Medio Ambiente;
 
-XV. (sic) Secretaría de Desarrollo Económico;
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
-XVI. (sic) La Comisión Forestal del Estado de Michoacán;
+X. Secretaría de Desarrollo Económico;
 
-XVII. (sic) La Comisión de Pesca del Estado de Michoacán; y,
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2014)</small>
 
-XVIII. (sic) La Comisión Estatal del Agua y Gestión de Cuencas del Estado de Michoacán.
+XI. La Comisión Forestal del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+XII. La Comisión de Pesca del Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+XIII. La Comisión Estatal del Agua y Gestión de Cuencas del Estado de Michoacán de Ocampo.
+
+XV (SIC). (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+
+XVI. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+
+XVII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
+
+XVIII. (DEROGADA, P.O. 19 DE AGOSTO DE 2014)
 
 Asimismo son organizaciones coadyuvantes en el desarrollo rural, las emanadas de sus respectivos ordenamientos legales:
 
@@ -293,9 +325,11 @@ VI. Consejo Estatal de Ecología; y,
 
 VII. Las que acrediten y autorice el Consejo Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 9.
 
-Son atribuciones del Titular del Poder Ejecutivo del Estado, entre otras:
+Son atribuciones del Titular del Poder Ejecutivo entre otras:
 
 I. Fortalecer el bienestar social y económico de los productores, de las comunidades, de los trabajadores y jornaleros del campo y en general de los agentes de la sociedad rural;
 
@@ -311,7 +345,9 @@ IV. Fomentar el desarrollo del sector rural mediante convenios de coordinación 
 
 V. Coadyuvar con los habitantes rurales, productores, industriales y comercializadores que concurren en el sector, en la programación y ejecución de acciones que contribuyan a la modernización de todas las actividades productivas que se realizan en el medio rural, conforme a las previsiones del Plan Estatal de Desarrollo y las leyes vigentes;
 
-VI. Celebrar convenios con organizaciones rurales, organismos auxiliares de cooperación a nivel local, estatal, regional, nacional e internacional, para el establecimiento de programas y acciones específicas que impulsen y fortalezcan el desarrollo rural;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2014)</small>
+
+VI. Celebrar convenios con organizaciones rurales, organismos auxiliares de cooperación a nivel local, estatal, regional, nacional y promover convenios internacionales, para el establecimiento de programas y acciones específicas que impulsen y fortalezcan el desarrollo rural;
 
 VII. Expedir los reglamentos que se deriven de esta Ley, para el logro de los objetivos que se establezcan en los planes y programas, sobre las actividades en el medio rural del Estado;
 
@@ -351,7 +387,7 @@ IX. Aprobar los proyectos y asignación de apoyos que establezcan las reglas de 
 
 X. Opinar sobre controversias y actuar como instancia recursiva entre particulares y entre éstos y la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -639,13 +675,21 @@ El Gobierno Estatal mantendrá la coordinación con el Gobierno Federal para amp
 
 ###### Artículo 38.
 
-Se fomentará la participación de los municipios en el desarrollo rural, y el papel de los distritos de Desarrollo Rural, impulsando la simplificación administrativa de la Secretaría y la delegación de funciones para la atención expedita a productores rurales, mediante la creación de la ventanilla única de atención municipal.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2014)
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 39.
 
-Los distritos de Desarrollo Rural, serán la base de la organización territorial y administrativa de la Administración Pública Estatal y Municipal en el sector rural, así como para la concertación con las organizaciones de productores y los sectores social y privado, para la gestión de Programas Especiales Concurrentes y los Programas que se deriven.
+Las Delegaciones regionales de Desarrollo Rural, serán la base de la organización territorial y administrativa de la Administración Pública Estatal y Municipal en el sector rural, así como para la concertación con las organizaciones de productores y los sectores social y privado, para la gestión de Programas Especiales Concurrentes y los Programas que se deriven.
 
-Los distritos de Desarrollo Rural, coadyuvarán en el fortalecimiento de la gestión municipal del desarrollo rural, impulsarán la creación de ventanillas únicas de atención municipal; asimismo promoverán la creación y el fortalecimiento de los Consejos Municipales, en su caso locales en el área de su circunscripción y apoyarán la formulación del programa municipal de desarrollo rural.
+Las Delegaciones regionales de Desarrollo Rural, coadyuvarán en el fortalecimiento de la gestión municipal del desarrollo rural, impulsarán la creación de ventanillas únicas de atención municipal; asimismo promoverán la creación y el fortalecimiento de los Consejos Municipales, en su caso locales en el área de su circunscripción y apoyarán la formulación del programa municipal de desarrollo rural.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+Las Delegaciones Regionales, darán atención expedita en los municipios a los productores, demarcando el territorio en regiones del Estado, procurando la coincidencia con las cuencas hídricas y en las regiones con población indígena se considerará esta composición respetando los usos y costumbres.
 
 ###### Artículo 40.
 
@@ -731,9 +775,11 @@ VII. Los demás necesarios.
 
 La responsabilidad operativa del Sistema Estatal de Financiamiento Rural, podrá ser delegada a una institución bancaria y de servicios financieros, autorizada legalmente, con estructura que garantice su funcionamiento y la adecuada administración de los recursos, en concordancia con el artículo 21 de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 47.
 
-La responsabilidad administrativa del Sistema Estatal de Financiamiento Rural funcionará de manera autónoma, con la vigilancia de la Secretaría, el Consejo Estatal y asesoría de la Tesorería General del Estado, Secretaría de Planeación y Desarrollo Estatal y Secretaría de la Contraloría y Desarrollo Administrativo.
+La responsabilidad administrativa del Sistema Estatal de Financiamiento Rural funcionará de manera autónoma con la vigilancia de la Secretaría, el Consejo Estatal y asesoría de la Secretaría de Finanzas y administración; y la Coordinación de Planeación para el Desarrollo y la Coordinación de Contraloría.
 
 ###### Artículo 48.
 
@@ -877,9 +923,11 @@ La Secretaría, en términos de lo dispuesto en el artículo 2° de la Ley de Ga
 
 De igual forma procurará el fomento de la investigación pecuaria y la divulgación de los resultados que se obtengan.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 71.
 
-Para efectos del artículo anterior, corresponde al Ejecutivo Estatal, planear, fomentar, promover y coordinar las actividades pecuarias, así como las relacionadas con sus productos y subproductos, considerados como básicos y estratégicos.
+Para efectos del artículo anterior, corresponde al Ejecutivo del Estado, a través de la Secretaría, planear, fomentar, promover y coordinar las actividades pecuarias, así como las relacionadas con productos y subproductos, considerados como básicos y estratégicos.
 
 ###### Artículo 72.
 
@@ -1305,6 +1353,8 @@ La Secretaría promoverá mecanismos e instrumentos de protección en la segurid
 
 ### Capítulo Único. De la Denuncia Popular
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 131.
 
 El Desarrollo Rural en su aspecto social, tiene como principio la protección de los trabajadores rurales, en general, y a los jornaleros agrícolas y migratorios, en particular, bajo los principios de salvaguardar su integridad, el combate a la pobreza y el desarrollo de esquemas socioproductivos para la generación del empleo.
@@ -1333,7 +1383,7 @@ Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, c
 
 ###### Artículo 137.
 
-Toda persona podrá denunciar ante las siguientes instancias: Secretaría de la Contraloría y Desarrollo Administrativo, Procuraduría General de Justicia del Estado, Comisión Forestal del Estado, Procuraduría General de la República, Procuraduría Federal de Protección al Ambiente, Secretaría de Salud, Comisiones Nacional y Estatal de Derechos Humanos y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
+Toda persona podrá denunciar ante las siguientes instancias: Coordinación de Contraloría, Procuraduría General de Justicia del Estado, Comisión Forestal del Estado, Procuraduría General de la República, Procuraduría Federal de Protección al Ambiente, Secretaría de Salud, Comisiones Nacional y Estatal de Derechos Humanos y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
 
 I. Viole o infrinja la normatividad federal, estatal y municipal, en materia de sanidad vegetal y animal, y que esa acción ponga en peligro la salud humana;
 
@@ -1391,7 +1441,7 @@ En cumplimiento a lo dispuesto por la fracción I, el (sic) artículo 60 de la C
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE MAYO DE 2010.
 
@@ -1404,3 +1454,7 @@ P.O. 29 DE DICIEMBRE DE 2010.
 P.O. 22 DE ENERO DE 2013.
 
 ÚNICO. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+P.O. 19 DE AGOSTO DE 2014.
+
+ÚNICO. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
