@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2013-07-01"
+last_updated: "2014-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -149,7 +149,7 @@ Los Oficiales del Registro Civil asentarán en formas especiales que se denomina
 
 Los registros se harán mecanográficamente, por medios electrónicos o electromecánicos por triplicado, con tinta indeleble y sin raspaduras ni abreviaturas, se numerarán progresivamente y antes de firmar se harán las salvaduras correspondientes, debiendo resguardar y respaldar debidamente los archivos.
 
-Los registros de defunción se harán por quintuplicado en los mismos términos: (sic)
+Los registros de defunción se harán por quintuplicado en los mismos términos:
 
 ###### Artículo 17.
 
@@ -4205,11 +4205,11 @@ Las disposiciones del artículo anterior no pueden ser renunciadas.
 
 ###### Artículo 728.
 
-Pueden embargar el bien de familia o sus frutos, no obstante lo dispuesto en el artículo 726 los siguientes acreedores; (sic)
+Pueden embargar el bien de familia o sus frutos, no obstante lo dispuesto en el artículo 726 los siguientes acreedores;
 
 I. Los que tengan créditos por mejoras hechas en la finca sea por venta de materiales, sea por servicios personales; y,
 
-II. Las sociedades cooperativas, si satisfacen las siguientes condiciones: a) que sean de responsabilidad ilimitada; b) que funcionen sólo en una circunscripción corta; c) que los dividendos que se distribuyan, nunca excedan del seis por ciento del importe de las acciones; d) que los socios no puedan tener más de una acción y el valor de ésta no exceda de diez pesos; e) que la administración de la sociedad sea gratuita; y f) que los préstamos se hagan para fines productivos y sólo a los socios; (sic)
+II. Las sociedades cooperativas, si satisfacen las siguientes condiciones: a) que sean de responsabilidad ilimitada; b) que funcionen sólo en una circunscripción corta; c) que los dividendos que se distribuyan, nunca excedan del seis por ciento del importe de las acciones; d) que los socios no puedan tener más de una acción y el valor de ésta no exceda de diez pesos; e) que la administración de la sociedad sea gratuita; y f) que los préstamos se hagan para fines productivos y sólo a los socios;
 
 ###### Artículo 729.
 
@@ -4563,9 +4563,15 @@ Las diligencias que no puedan practicarse en el distrito o municipio en que se s
 
 Los medios de comunicación procesal admitidos por este Código son: la requisitoria; el exhorto; los oficios y las cartas rogatorias.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 780.
 
-En todos los casos, correrá a cargo del interesado la recepción del medio de comunicación procesal por parte del órgano judicial que encomiende la práctica de la diligencia; el hacerlo llegar a su destinatario y el devolverlo al mismo.
+Los medios de comunicación procesal deben remitirse directamente por parte del órgano jurisdiccional que los ordene mediante los mecanismos establecidos para ello, su personal adscrito, correo certificado con acuse de recibo o, en casos de extrema urgencia, a través de mensajería privada.
+
+Si la parte interesada lo solicita, se le puede entregar el medio de comunicación procesal para que, bajo su responsabilidad, lo presente ante la autoridad correspondiente, en cuyo caso tendrá la obligación de apresurar su diligenciación por el juez exhortado y devolverlo con lo que se practicare, si por su conducto se hiciere la devolución.
+
+En todo caso, el medio de comunicación procesal debe expresar el nombre de la persona o personas encargadas de su gestión.
 
 ###### Artículo 781.
 
@@ -6374,3 +6380,9 @@ Se autoriza al Titular del Ejecutivo realizar las adecuaciones presupuestales es
 ###### ARTÍCULO CUARTO.
 
 Se derogan del Libro Primero los capítulos IV «De las Actas de Adopción» contenido en el Título Segundo «Del Registro Civil», V «De la Adopción» contenido en el Título Octavo «De la Paternidad y la filiación», y del Libro Segundo el Capítulo X «De la Adopción» contenido en el Título Décimo Primero «De la Jurisdicción Voluntaria Familiar», todos del Código Familiar para el Estado de Michoacán de Ocampo.
+
+P.O. 19 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La presente reforma será aplicable a las comunicaciones procesales en los juicios y procedimientos familiares que se encuentren sustanciándose al momento de entrar y no se hallan aún girado o entregado a las partes conforme al anterior artículo 780.
