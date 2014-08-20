@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-monterrey-antes-41904"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-27"
-last_updated: "1999-11-03"
+last_updated: "2014-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY -ANTES REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY- NUEVO LEON
 
-REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
+REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de octubre de 1997
 
@@ -33,21 +33,29 @@ EL CIUDADANO JESUS HINOJOSA TIJERINA, PRESIDENTE MUNICIPAL DE LA CIUDAD DE MONTE
 
 QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESION ORDINARIA CELEBRADA EL DIA 21 DE OCTUBRE DE 1997, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO 26, INCISO "A", FRACCION VII DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON, APROBO EL REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY, N. L.- ENSEGUIDA SE TRANSCRIBE EL REGLAMENTO APROBADO.
 
-REGLAMENTO DE CEMENTERIOS EN EL MUNICIPIO DE MONTERREY
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2014)</small>
+
+REGLAMENTO DE PANTEONES DEL MUNICIPIO DE MONTERREY
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto regular el establecimiento, funcionamiento, conservación y vigilancia de los Cementerios Oficiales o Privados y sus disposiciones son de orden público y de observancia general en el Municipio de Monterrey, Nuevo León.
+El presente Reglamento tiene por objeto regular el establecimiento, funcionamiento, conservación y vigilancia de los panteones o cementerios oficiales o privados y sus disposiciones son de orden público y de observancia general en el Municipio de Monterrey, Nuevo León.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 2.
 
-La prestación del Servicio Público de Cementerios puede hacerse por el Municipio o por particulares a través de la licencia que para tal efecto otorgue el R. Ayuntamiento y comprende los actos de inhumación, exhumación, reinhumación, cremación de cadáveres, de restos humanos, esqueletos y traslados.
+La prestación del Servicio Público de Panteones puede hacerse por el Municipio o por particulares a través de la licencia que para tal efecto otorgue el Ayuntamiento y comprende los actos de inhumación, exhumación, reinhumación, cremación de cadáveres, de restos humanos, esqueletos y traslados.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 3.
 
-El Servicio Público de Cementerios se prestará por el Municipio en los Cementerios Municipales y el de particulares por licencia que le otorgue el R. Ayuntamiento de Monterrey, para lo cual deberá cumplirse con los requisitos y formalidades que señalen las Leyes, este Reglamento y demás disposiciones aplicables.
+El Servicio Público de Panteones se prestará por el Municipio en los panteones municipales y el de particulares por licencia que le otorgue el Ayuntamiento de Monterrey, para lo cual deberá cumplirse con los requisitos y formalidades que señalen las leyes, este Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 4.
 
@@ -177,9 +185,11 @@ En los Cementerios Municipales, la limpieza, mantenimiento y conservación de la
 
 Cuando por causa de utilidad pública se afecte total o parcialmente un cementerio, monumentos, hornos crematorios, criptas, nichos y osarios, deberán reponerse o bien trasladarse en la forma y términos que disponga la autoridad expropiante.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 11.
 
-Cuando exista la ocupación total de las áreas destinadas a inhumaciones de los Cementerios Municipales, la Administración Municipal elaborará un censo actualizado de la ocupación de tumbas, para conocer su estado. Si lo amerita deberá procederse conforme a lo dispuesto en el artículo 26 de este Reglamento.
+La Administración Municipal mantendrá un censo actualizado de la ocupación de tumbas de los panteones municipales, para conocer su estado. Si lo amerita, deberá procederse conforme a lo dispuesto en el artículo 34 BIS-1 de este Reglamento.
 
 ###### ARTÍCULO 12.
 
@@ -243,17 +253,23 @@ La inhumación, cremación de cadáveres, esqueletos y restos óseos sólo podr�
 
 ### CAPÍTULO SEGUNDO. DE LAS INHUMACIONES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 16.
 
-Los Cementerios Municipales prestarán el servicio de inhumación que se solicite, previo pago a la Tesorería Municipal de las contribuciones consignadas en las leyes fiscales aplicables.
+Los panteones municipales prestarán los servicios que le soliciten para inhumación o depósito de urnas, previo pago a la Tesorería Municipal de las contribuciones consignadas en las leyes fiscales aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 17.
 
-Las inhumaciones podrán realizarse de las 8:00 a las 17:00 salvo disposición en contrario de las Autoridades Sanitarias, Ministerio Público o de la Autoridad Judicial.
+Los servicios en los panteones municipales podrán realizarse de las 8:00 a las 17:00 horas salvo disposición en contrario de las autoridades sanitarias, Ministerio Público o de la autoridad judicial y la autoridad municipal prevista en el artículo 44 de este reglamento.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 18.
 
-Los cadáveres o restos orgánicos de personas no reclamadas que sean remitidos por las autoridades competentes o por las instituciones hospitalarias públicas o privadas, serán inhumados en la fosa común o cremados.
+Los cadáveres o restos orgánicos de personas no reclamadas que sean remitidos por las autoridades competentes o por las instituciones hospitalarias públicas o privadas, serán inhumados en la fosa común o cremados previo pago de los derechos correspondientes.
 
 ### CAPÍTULO TERCERO. DE LAS CREMACIONES
 
@@ -265,25 +281,31 @@ Queda prohibido cremar cadáveres o partes de seres humanos sin cumplir con los 
 
 El personal encargado de realizar las cremaciones utilizará el vestuario y equipo especial, que para el caso señalen las Autoridades Sanitarias.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-El servicio de cremación se prestará por los Cementerios Municipales a las funerarias privadas cuando éstas así lo soliciten, y previo pago de la tarifa autorizada.
+El servicio de cremación se prestará por los Panteones Municipales directamente a los particulares o a las funerarias privadas cuando éstas así lo soliciten, previo pago de la tarifa autorizada.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 22.
 
-Se dará servicio de cremación a las personas de escasos recursos económicos, cuando así lo ordene la Autoridad.
+Se dará servicio de cremación sin costo a las personas de escasos recursos económicos cuando así lo solicite la autoridad denominada Desarrollo Integral de la Familia del Municipio de Monterrey, quien realizará la valoración mediante el estudio socioeconómico correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 23.
 
-Las cremaciones deberán realizarse dentro del horario comprendido de las 8:00 a las 17:00 horas salvo disposición en contrario de las Autoridades a que se refiere el artículo 19 de este Reglamento.
+Las cremaciones deberán realizarse dentro del horario comprendido de las 8:00 a las 17:00 horas salvo disposición en contrario de las autoridades sanitarias, Ministerio Público o de la autoridad judicial y la autoridad municipal prevista en el artículo 44 de este reglamento.
 
 ### CAPÍTULO CUARTO. EXHUMACIONES, REINHUMACIONES Y TRASLADOS
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 24.
 
-Si la exhumación se hace a virtud de haber transcurrido el plazo de seis y/o doce años, los restos serán depositados en el osario común o cremados.
+Si la exhumación se hace en virtud de haber transcurrido el plazo de seis y/o doce años, los restos serán depositados en el osario común por un periodo máximo de tres años y se estará a lo dispuesto por el artículo 34 BIS-1.
 
 ###### ARTÍCULO 25.
 
@@ -298,6 +320,10 @@ III.- Presentar el acta de defunción de la persona fallecida, cuyos restos se v
 IV.- Presentar identificación del solicitante, quien deberá acreditar su interés jurídico.
 
 V.- Presentar comprobante del lugar en que se encuentra inhumado el cadáver.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2014)</small>
+
+VI.- El familiar o la persona autorizada por la autoridad que reclame los restos deberá haber cumplido con el pago a la Tesorería Municipal de acuerdo a las tarifas establecidas para tal efecto.
 
 ###### ARTÍCULO 26.
 
@@ -321,15 +347,23 @@ El traslado de cadáveres, de sus restos o cenizas, de un cementerio a otro se a
 
 En los cementerios Municipales, el derecho de uso sobre fosas se proporcionará mediante convenio por temporalidad mínima de seis años y máxima de doce años.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2014)</small>
 
-ARTÍCULO 29 BIS.- Los derechos de uso sobre fosas en los Cementerios Municipales, se extinguirán cuando concurran cualquiera de los siguientes casos:
+ARTÍCULO 29 BIS.- Los derechos de uso sobre fosas en los panteones municipales, se cancelarán en los siguientes casos:
 
 I.- Transcurridos los primeros seis años, siempre y cuando el titular o custudio desatienda los pagos por el derecho de uso.
 
-II.- Cuando haya transcurrido la temporalidad máxima, establecida en este Reglamento.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
 
-III.- Cuando el titular de los derechos de uso, transfiera éstos a terceros sin la aprobación de la Autoridad Municipal.
+II.- Cuando el titular de los derechos de uso, cualquiera que sea el título que le dé origen, transfiera éstos a terceros, sin la aprobación de la autoridad municipal.
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+III.- Cuando no se conserven las tumbas o gavetas en buen estado y representen un riesgo para los visitantes de los panteones.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
+Los derechos de uso sobre fosas se extinguirán cuando haya transcurrido la temporalidad máxima establecida en este Reglamento.
 
 ###### ARTÍCULO 30.
 
@@ -347,31 +381,33 @@ La temporalidad máxima confiere el derecho de uso sobre una fosa durante seis a
 
 Durante la vigencia del convenio de uso, el titular del derecho sobre una fosa, bajo el régimen de temporalidad máxima, podrá solicitar la inhumación de los restos de su cónyuge o de un familiar en línea directa en los siguientes casos:
 
-I.- Cuando hubiere transcurrido el plazo de seis años.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+I. Cuando hubiere transcurrido el plazo de seis años contados a partir de la última inhumación en un terreno sin gavetas.
 
 II.- Que esté al corriente en los pagos correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 34.
 
-La Autoridad Municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, las cuales deberán ser valoradas mediante estudio socioeconómico que emita la institución denominada Desarrollo Integral de la Familia o por alguna Dependencia de asistencia social, y consistirá en:
+La autoridad municipal, podrá prestar servicio funerario gratuito a las personas de escasos recursos económicos, cuando así lo solicite la autoridad denominada Desarrollo Integral de la Familia del Municipio de Monterrey, quien realizará la valoración mediante el estudio socioeconómico correspondiente y de acuerdo a las necesidades podrá consistir en:
 
 I.- Ataúd.
 
 II.- Traslado del ataúd al cementerio en vehículo apropiado.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
 
-III.- Fosa gratuita bajo régimen de temporalidad mínima, y una vez transcurrida, se exhumarán los restos para ser depositados en el osario común.
+III. Fosa gratuita bajo régimen de temporalidad mínima, y una vez transcurrida, se exhumarán los restos para ser depositados en el Osario Común por un período máximo de tres años de conformidad con lo dispuesto por el artículo 34 BIS-1.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
 
 ARTÍCULO 34 BIS.- En todo Cementerio, los lotes destinados a una fosa o cripta, tendrán como mínimo, las siguientes medidas: 1.20 metros de ancho y 2.50 metros de largo; en los cementerios municipales bajo ningún concepto se aprobarán lotes con medidas diferentes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
 
-ARTÍCULO 34 BIS 1.- Transcurridos los términos a que se refiere el artículo 29 de este Reglamento, la Autoridad Municipal ordenará la exhumación de los restos áridos cumplidos, para ser depositados en el osario común, en espera de que el custodio o titular determine el destino de los mismos.
+ARTÍCULO 34 BIS 1.- Transcurridos los términos a que se refiere el artículo 29 de este Reglamento, la autoridad municipal ordenará la exhumación de los restos áridos cumplidos para ser depositados en el osario común por un período máximo de tres años, en espera de que el custodio o titular determine el destino de los mismos, de no ser reclamados serán enviados a una fosa común extinguiéndose en este acto la posibilidad de ser reclamados.
 
 ###### ARTÍCULO 35.
 
@@ -401,7 +437,13 @@ IV.- Solicitar a la Autoridad correspondiente el permiso de construcción.
 
 V.- Retirar de inmediato los escombros que se ocasionan por la construcción de gavetas, criptas o monumentos.
 
-VI.- Las demás que se establezcan en este ordenamiento.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+VI. Solicitar a la Secretaría de Servicios Públicos autorización para realizar mejoras en las tumbas de los panteones municipales, así como cubrir las tarifas correspondientes antes de realizar las mejoras; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2014)</small>
+
+VII. Las demás que se establezcan en este ordenamiento.
 
 ## TITULO QUINTO
 
@@ -427,6 +469,10 @@ VI.- La introducción de alimentos y bebidas alcohólicas a los Cementerios.
 
 VII.- Construir en los cementerios municipales cualquier tipo de obras sobre las fosas asignadas, con una altura superior a un metro del nivel del suelo.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2014)</small>
+
+VIII. Construir gavetas en las fosas de los panteones municipales, sin el permiso de la autoridad municipal.
+
 ## TITULO SEXTO. DE LAS AUTORIDADES
 
 ### CAPÍTULO PRIMERO
@@ -441,7 +487,9 @@ II.- Presidente Municipal.
 
 III.- Secretario del R. Ayuntamiento.
 
-IV.- Director de Organismos Municipales.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+IV.- Secretario de Servicios Públicos.
 
 ###### ARTÍCULO 41.
 
@@ -471,9 +519,11 @@ I.- Participar o dar fe de los acuerdos y convenios que se realicen en relación
 
 II.- Las demás que le correspondan de acuerdo a lo preceptuado por la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 44.
 
-Corresponde al C. Director de Organismos Municipales:
+Corresponde al C. Secretario de Servicios Públicos:
 
 I.- Elaborar dictamen técnico sobre áreas que se pretenden destinar a Cementerios, apoyado por la Secretaría correspondiente.
 
@@ -484,6 +534,10 @@ III.- Analizar los proyectos y solicitudes para la construcción de un Cementeri
 IV.- Solicitar la elaboración de planos necesarios de los Panteones Municipales para su buen funcionamiento.
 
 V.- Informar al que solicite de las medidas preventivas y sus ventajas del cuidado del ambiente y de los ecosistemas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2014)</small>
+
+VI. Vigilar el buen cumplimiento de este ordenamiento y en su caso imponer las sanciones correspondientes.
 
 ###### ARTÍCULO 45.
 
@@ -505,6 +559,10 @@ II.- Multa de 10 a 200 veces el salario mínimo general diario vigente en el Mun
 
 III.- Clausura temporal o definitiva, que podrá ser total o parcial.
 
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+IV.- Cancelación de los derechos de uso en los panteones municipales, cualquiera que sea el título que les de origen.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 1999)</small>
 
 ARTÍCULO 46 BIS.- Procede la clausura temporal:
@@ -522,6 +580,18 @@ ARTÍCULO 46 BIS 1.- Procede la clausura definitiva:
 I.- Cuando el cementerio carezca de la licencia municipal
 
 II.- Cuando constituya un grave peligro para la salud pública.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 46 BIS 2.- Procede la cancelación de los derechos de uso en los panteones municipales, cualquiera que sea el título que les de origen, cuando:
+
+I. Se omitan cumplir con las obligaciones de pago de mantenimiento anual por un período de 6 años;
+
+II. Cuando no se conserven las tumbas o gavetas en buen estado y representen un riesgo para los visitantes de los panteones; y,
+
+III. Cuando el titular de los derechos de uso, transfiera éstos a terceros.
+
+Cuando proceda esta sanción, las mejoras realizadas por el titular quedarán en el inmueble y el terreno se integrará al inventario de tumbas disponibles. Si la tumba estuviere ocupada, los restos serán exhumados para ser enviados al osario común y se estará a lo dispuesto por el artículo 34 Bis 1.
 
 ###### ARTÍCULO 47.
 
@@ -572,3 +642,7 @@ PRIMERO.- Las reformas al presente reglamento entrarán en vigor al día siguien
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo establecido en las presentes reformas.
 
 TERCERO.- Los títulos de uso a perpetuidad de los panteones Municipales, expedidos con anterioridad a la vigencia de estas reformas, serán respetados en sus términos, pero no serán objeto de traspaso o cesión, y se darán por terminados al fallecer el titular de los mismos.
+
+P.O. 20 DE AGOSTO DE 2014.
+
+Artículo Único. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
