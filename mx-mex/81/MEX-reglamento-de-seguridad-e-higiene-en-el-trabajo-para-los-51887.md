@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-seguridad-e-higiene-en-el-trabajo-para-los-51887"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-14"
-last_updated: "2006-09-14"
+last_updated: "2014-08-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO PARA LOS SERVIDORES PUBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO PARA LOS SERVIDORES PUBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
+REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO PARA LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 20 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el jueves 14 de septiembre de 2006.
 
@@ -575,3 +577,15 @@ M. C. MA. TERESA GABRIELA LUA ACEVEDO
 SECRETARIA TÉCNICA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 20 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interno en el Periódico Oficial del Gobierno del Estado de México denominado "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" y estará vigente hasta en tanto no se emitan modificaciones al mismo.
+
+TERCERO.- El presente ordenamiento deja sin efectos al publicado en el periódico oficial "Gaceta del Gobierno" del 14 de septiembre de 2006 y a cualquier otro documento que se hubiese aplicado con relación a la Seguridad e Higiene en el Trabajo.
+
+CUARTO.- Todo lo no previsto en el presente Reglamento Interno será resuelto por la Comisión de Seguridad e Higiene en el Trabajo del Sistema para el Desarrollo Integral de la Familia del Estado de México.
