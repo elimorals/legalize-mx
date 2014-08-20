@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2013-10-23"
+last_updated: "2014-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -225,7 +225,7 @@ XXXIV. Densificación interna de los centros de población.- La acción de ocupa
 
 XXXV. Desarrollo sostenible.- El proceso evaluable mediante criterios e indicadores de carácter urbano, ambiental, económico y social que mejora la calidad de vida de la población rural y urbana en las regiones y centros de población, sin comprometer la capacidad de que las generaciones futuras satisfagan sus propias necesidades;
 
-XXXVI. Desarrollo limpio.- Acciones encaminadas a cumplir con metas de reducción de gases de efecto invernadero (GEl), por medio de la inversión en proyectos de reducción de emisiones e introduciendo tecnologías limpias con el propósito de lograr un desarrollo sostenible;
+XXXVI. Desarrollo limpio.- Acciones encaminadas a cumplir con metas de reducción de gases de efecto invernadero (GEI), por medio de la inversión en proyectos de reducción de emisiones e introduciendo tecnologías limpias con el propósito de lograr un desarrollo sostenible;
 
 XXXVII. Desarrollo urbano sostenible.- Provisión, aprovechamiento y conservación óptimos de la infraestructura, los servicios y el equipamiento urbano, así como del medio natural, para satisfacción de las necesidades de los asentamientos humanos. Se logra por medio de las acciones para la reducción del déficit en los índices prioritarios del desarrollo sostenible, con la participación coordinada de los tres órdenes de gobierno, en los ámbitos de sus competencias, y con la participación de las organizaciones de la sociedad civil, las redes sociales, las organizaciones políticas, los empresarios y los individuos, sin comprometer la capacidad de que las generaciones futuras puedan satisfacer sus necesidades. Mejora en la competitividad, entendida como la capacidad de la región para producir más eficientemente en relación a otras;
 
@@ -547,7 +547,9 @@ XXX. Vigilar que en los planes o programas y acciones de desarrollo urbano soste
 
 XXXI. Estimular el rescate, conservación y respeto a la imagen urbana y el patrimonio cultural de las poblaciones del Estado;
 
-XXXII. Promover la construcción y adecuación de la infraestructura, el equipamiento, los servicios urbanos e implementar acciones que garanticen la seguridad, libre tránsito y fácil acceso a las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XXXII. Promover la construcción y adecuación de la infraestructura, el equipamiento, los servicios urbanos e implementar acciones que garanticen la seguridad, libre tránsito y fácil acceso a las personas con discapacidad;
 
 XXXIII. Coordinarse con las autoridades federales y municipales de otras Entidades Federativas, en materia de desarrollo urbano sostenible en infraestructura, servicios y equipamiento;
 
@@ -617,7 +619,7 @@ XII. Realizar, promover y concertar acciones e inversiones con los sectores soci
 
 XIII. Ejecutar por sí o en coordinación con las autoridades estatales, acciones para la prevención de riesgos y contingencias ambientales, naturales y urbanas en los centros de población;
 
-XlV. Promover la organización y recibir las opiniones de los grupos sociales que integren la comunidad, en la formulación, ejecución, evaluación y actualización de los instrumentos aplicables al desarrollo urbano sostenible, así como en sus modificaciones;
+XIV. Promover la organización y recibir las opiniones de los grupos sociales que integren la comunidad, en la formulación, ejecución, evaluación y actualización de los instrumentos aplicables al desarrollo urbano sostenible, así como en sus modificaciones;
 
 XV. Participar en la constitución, manejo y administración de las reservas territoriales de los centros de población, en los términos de esta Ley y de los convenios de coordinación que se suscriban;
 
@@ -645,7 +647,9 @@ XXI. Diseñar y ejecutar planes, programas y acciones para:
 
 a. Proteger el patrimonio histórico, artístico, arquitectónico y cultural;
 
-b. Garantizar la seguridad, libre tránsito y fácil acceso a las personas con capacidades diferentes, y
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
+b) Garantizar la seguridad, libre tránsito y fácil acceso a las personas con discapacidad.
 
 c. Evitar el establecimiento de asentamientos humanos irregulares.
 
@@ -887,7 +891,9 @@ X. Supervisar la aplicación de las disposiciones generales de ordenamiento terr
 
 XI. Formular lineamientos encaminados a la protección de la imagen urbana, los cuales deberán sujetarse a la reglamentación que corresponda;
 
-XII. Formular los lineamientos para la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridos por las personas con capacidades diferentes, estableciendo los procedimientos de consulta a éstos sobre las características técnicas de los proyectos, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XII. Formular los lineamientos para la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridos por las personas con discapacidad, estableciendo los procedimientos de consulta a estos sobre las características técnicas de los proyectos.
 
 XIII. Las demás que le otorguen esta Ley y otros ordenamientos jurídicos aplicables.
 
@@ -1101,7 +1107,9 @@ Para la consulta pública se convocará y facilitará la participación, utiliza
 
 Los procedimientos de consulta pública deberán asegurar la participación de todos los interesados, sus aportaciones se recibirán por región, municipio, sector o colonia, de acuerdo al alcance geográfico y repercusiones en la población de la materia consultada.
 
-Dichas aportaciones deberán presentarse por escrito y archivo electrónico en formato de uso generalizado modificable, para los casos de los tres órdenes de gobierno, los órganos consultivos y las organizaciones de la sociedad civil; para las redes sociales y los individuos que por su condición de capacidades diferentes, pobreza patrimonial, conocimiento insuficiente del idioma español, adultos mayores o limitaciones culturales para comunicarse, el orden de gobierno convocante pondrá a su disposición los medios para que sus aportaciones se asienten por escrito.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
+Dichas aportaciones deberán presentarse por escrito y archivo electrónico en formato de uso generalizado modificable, para los casos de los tres órdenes de gobierno, los órganos consultivos y las organizaciones de la sociedad civil; para las redes sociales y personas que por su condición de discapacidad, pobreza patrimonial, conocimiento insuficiente del idioma español, adultos mayores o limitaciones culturales para comunicarse, el orden de gobierno convocante pondrá a su disposición los medios para que sus aportaciones se asienten por escrito.
 
 ### CAPÍTULO II. DE LA ZONIFICACIÓN
 
@@ -1999,7 +2007,7 @@ I. Los fraccionamientos de urbanización inmediata podrán realizar la entrega-r
 
 II. Los fraccionamientos de urbanización inmediata por etapas, podrán realizar la entrega-recepción, de forma anticipada, por cada etapa, cuando se tenga un avance de las obras de urbanización no menor al 50% en cada una de las que se pretenda efectuar la entrega-recepción.
 
-IlI. En todos los fraccionamientos, la municipalización deberá realizarse cuando se encuentren registrados al menos el 50% de las unidades vendibles del fraccionamiento o etapa, según corresponda, en el padrón del catastro municipal correspondiente.
+III. En todos los fraccionamientos, la municipalización deberá realizarse cuando se encuentren registrados al menos el 50% de las unidades vendibles del fraccionamiento o etapa, según corresponda, en el padrón del catastro municipal correspondiente.
 
 IV. En todas las tipologías de fraccionamientos, la entrega-recepción podrá realizarse por etapas de acuerdo a las licencias y autorizaciones correspondientes.
 
@@ -2027,7 +2035,9 @@ IV. De autoconstrucción y económica.- Destinados para la construcción de vivi
 
 En cualquier tipo de fraccionamiento, el frente de lote no podrá ser menor de seis metros.
 
-En los fraccionamientos habitacionales se garantizará un porcentaje de viviendas con características para personas con capacidades diferentes, adultos mayores, grupos vulnerables y grupos minoritarios. El porcentaje se determinará en función de los índices del sector o colonia donde se realice el fraccionamiento.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
+En los fraccionamientos habitacionales se garantizará un porcentaje de viviendas con características para personas con discapacidad, adultos mayores, grupos vulnerables y grupos minoritarios. El porcentaje se determinará en función de los índices del sector o colonia donde se realice el fraccionamiento.
 
 #### SECCIÓN II. HABITACIONAL RURAL O CAMPESTRE
 
@@ -2487,9 +2497,11 @@ Las terracerías se formarán con material producto del lugar, si éste cumple c
 
 Previo a los trabajos del párrafo anterior, se deberán instalar todos los servicios municipales, en cuyas zanjas se debe obtener una compactación adecuada a las condiciones de circulación y tráfico planteadas para esas vialidades.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 126.
 
-Para delimitar las calles, se construirán guarniciones de concreto hidráulico, cuyas esquinas deberán ser acondicionadas de tal forma que permitan el uso adecuado por parte de personas con capacidades físicas diferentes.
+Para delimitar las calles, se construirán guarniciones de concreto hidráulico, cuyas esquinas deberán ser acondicionadas de tal forma que permitan el uso y libre tránsito a las personas con discapacidad.
 
 ###### ARTÍCULO 127.
 
@@ -2761,7 +2773,7 @@ I. Cuando la totalidad del predio no pueda ser aprovechada al existir limitantes
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
-II. Cuando en el predio o su contexto existan zonas o inmuebles declarados como patrimonio arqueológico, artístico, histórico o cultural por el Instituto Nacional de Antropología e Historia (INAH), el Instituto Nacional de Bellas Artes (INBA) o declarados Patrimonio Cultural del Estado de Chihuahua, en cuyo caso estos predios no cambiarán su uso de suelo, pero serán considerados como predios emisores de potencial urbano, y (sic)
+II. Cuando en el predio o su contexto existan zonas o inmuebles declarados como patrimonio arqueológico, artístico, histórico o cultural por el Instituto Nacional de Antropología e Historia (INAH), el Instituto Nacional de Bellas Artes (INBA) o declarados Patrimonio Cultural del Estado de Chihuahua, en cuyo caso estos predios no cambiarán su uso de suelo, pero serán considerados como predios emisores de potencial urbano, y
 
 III. Cuando se soliciten cambios de uso de suelo o usos mixtos que combinen habitación con comercio o servicios de bajo impacto urbano, bajo las siguientes condiciones:
 
@@ -2955,7 +2967,7 @@ XII. Los depósitos y plantas de tratamiento de basura y de aguas residuales;
 
 XIII. Los cuerpos receptores de escombro;
 
-XlV. La industria mediana, grande o que por su naturaleza produzca desechos contaminantes, conforme a la ley en la materia, excepto cuando se ubiquen en parques industriales autorizados;
+XIV. La industria mediana, grande o que por su naturaleza produzca desechos contaminantes, conforme a la ley en la materia, excepto cuando se ubiquen en parques industriales autorizados;
 
 XV. La explotación de bancos de materiales para la construcción u otros fines;
 
@@ -3119,9 +3131,11 @@ En el Reglamento de esta Ley, serán establecidos los procedimientos para aplica
 
 Son predios y edificaciones subutilizados, aquellos municipalizados que no utilizan en forma óptima el potencial urbano establecido en el Plan o Programa de Desarrollo Urbano y Ordenamiento Territorial Sostenible, y que están servidos parcial o totalmente por infraestructura, servicios o equipamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 182.
 
-No se consideran como predios subutilizados los derechos de vía, cauces de ríos y arroyos, el derecho federal, los taludes naturales inestables, los predios dedicados a infraestructura o equipamiento; los predios ocupados por grupos vulnerables, adultos mayores, personas con capacidades diferentes, organizaciones de la sociedad civil que presten un servicio complementario a los servicios públicos, los que se aprovechen temporalmente en obras y servicios públicos, los que presten servicios ambientales y aquellos inmuebles que sean considerados como reservas por sus propietarios y registrados ante el Instituto de Planeación Urbana o municipio correspondiente.
+No se consideran como predios subutilizados los derechos de vía, cauces de ríos y arroyos, el derecho federal, los taludes naturales inestables, los predios dedicados a infraestructura o equipamiento; los predios ocupados por grupos vulnerables, adultos mayores, personas con discapacidad, organizaciones de la sociedad civil que presten un servicio complementario a los servicios públicos, los que se aprovechen temporalmente en obras y servicios públicos, los que presten servicios ambientales y aquellos inmuebles que sean considerados como reservas por sus propietarios y registrados ante el Instituto de Planeación Urbana o municipio correspondiente.
 
 En el reglamento de esta Ley se definirán las características de estas reservas.
 
@@ -3894,3 +3908,9 @@ Los Ayuntamientos deberán ajustar, en su caso, los reglamentos de la materia, t
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado expedirá las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
