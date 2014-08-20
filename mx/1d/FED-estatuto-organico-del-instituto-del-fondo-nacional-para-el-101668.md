@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-1016
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-04"
-last_updated: "2014-08-13"
+last_updated: "2014-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101668&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2014-06-25"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 13 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL DÍA LUNES 7 DE JULIO DE 2014.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 13 DE AGOSTO DE 2014 Y MODIFICADO MEDIANTE ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 20 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL MIÉRCOLES 20 DE AGOSTO DE 2014.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE AGOSTO DE 2014.</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 4 de julio de 2014.
 
@@ -487,21 +487,23 @@ XI. Las demás que le señalen otras disposiciones legales, reglamentarias o adm
 
 #### Sección Quinta Subdirector General de Recuperación y Cartera
 
+> <small>(F. DE E., D.O.F. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 25.
 
-El SUBDIRECTOR GENERAL DE RECUPERACIÓN Y CARTERA, tendrá las siguientes atribuciones y facultades:
+EL SUBDIRECTOR GENERAL DE RECUPERACIÓN Y CARTERA, tendrá las siguientes atribuciones y facultades:
 
-I. Difundir la normatividad interna y su alineación a los organismos reguladores de la operación financiera y el proceso de crédito;
+I. Coordinar el desarrollo de la normatividad y políticas de recuperación de crédito así como, la generación de mecanismos y estrategias que permitan planear, administrar, analizar y evaluar el proceso de recuperación de la institución;
 
-II. Coordinar la generación de estrategias relacionadas con las subdirecciones generales de finanzas, y de recuperación y cartera, que apoyen la automatización de la operación financiera y del proceso de crédito, y la viabilidad económica del Instituto a fin de buscar la sustentabilidad y optimización de las operaciones a mediano y largo plazo;
+II. Coordinar el diseño de las estrategias de cobranza de la cartera a través de Centros de Trabajo y la recuperación de cartera vencida a nivel nacional;
 
 III. Presentar y dirigir el desarrollo de proyectos de mejora operativa y nuevos productos de cada una de las direcciones a su cargo, para llevar a cabo una planeación razonable de las actividades que se deben realizar para el logro de éstos;
 
-IV. Promover y proponer opciones de diversificación de las fuentes de fondeo que contribuyan a la viabilidad financiera del Instituto y con ello estar en posibilidad de disponer de la mayor cantidad de líneas de crédito posibles para su correcto funcionamiento;
+IV. Coordinar el diseño y establecimiento de indicadores de productividad en la recuperación del crédito de las direcciones regionales;
 
-V. Diseñar la planeación de estrategias financieras y crediticias que respondan al plan estratégico y a los retos de crecimiento institucionales;
+V. Coordinar la generación de reportes de recuperación de la cartera que permitan su control, clasificación y calificación, estableciendo mecanismos de medición y propuesta de castigos y quebrantos;
 
-VI. Dirigir la generación de informes para la atención de auditorías que se realicen a la Dirección General Adjunta de Crédito y Finanzas, así como las respuestas a las solicitudes de información en el ámbito de su competencia;
+VI. Coordinar la aplicación de estrategias de recuperación de crédito a través de los despachos externos de cobranza, procurando establecer indicadores de productividad para los mismos;
 
 VII. Fomentar el desarrollo del personal del área de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y
 
@@ -1085,9 +1087,11 @@ VIII. Director General Adjunto Comercial;
 
 IX. El Subdirector General de Crédito;
 
-X. El Director de Crédito, y
+> <small>(F. DE E., D.O.F. 20 DE AGOSTO DE 2014)</small>
 
-XI. El Director de Cobranza.
+X. El Subdirector General de Recuperación y Cartera.
+
+XI. (F. DE E., D.O.F. 20 DE AGOSTO DE 2014)
 
 El servidor público del Instituto que designe el Director General fungirá como Secretario del Comité y tendrá voz pero no voto.
 
@@ -1479,9 +1483,11 @@ X. Opinar sobre la metodología aplicable para la determinación de las tasas de
 
 XI. Las demás que le señale el Consejo.
 
+> <small>(F. DE E., D.O.F. 20 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 92.
 
-Además de los Comités de Apoyo previstos en la Ley y los señalados en el artículo 102 de este Estatuto, el Instituto contará con los Comités y Subcomités a que esté obligado conforme a las disposiciones legales y administrativas aplicables, debiendo al efecto elaborar la normatividad que las mismas le señalen.
+Además de los Comités de Apoyo previstos en la Ley, el Instituto contará con los Comités y Subcomités a que esté obligado conforme a las disposiciones legales y administrativas aplicables, debiendo al efecto elaborar la normatividad que las mismas le señalen.
 
 ## Título VII Del Control, Vigilancia y Evaluación
 
@@ -1545,4 +1551,6 @@ D.O.F. 13 DE AGOSTO DE 2014.
 
 ...
 
-“Por lo anterior, se hace del conocimiento que la Secretaría de la Función Pública, mediante Oficio No. SSFP/408/0537/2014 y Oficio No. SSFO/408/DGOR/0796/2014, de fecha 23 de julio de 2014, el Titular de la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Subsecretaría de la función Pública, aprobó la estructura orgánica y ocupacional del Instituto FONACOT y el Director General de Organización y Remuneraciones de la Administración Pública Federal, registró la estructura orgánica y ocupacional del Instituto FONACOT, respectivamente, con vigencia a partir del 4 de julio de 2014, por lo que la vigencia del citado Estatuto inició a partir del día lunes 7 de julio de 2014.”
+> <small>(F. DE E., D.O.F. 20 DE AGOSTO DE 2014)</small>
+
+“Por lo anterior, se hace del conocimiento que la Secretaría de la Función Pública, mediante Oficio No. SSFP/408/0537/2014 y Oficio No. SSFO/408/DGOR/0796/2014, de fecha 23 de julio de 2014, el Titular de la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Subsecretaría de la función Pública, aprobó la estructura orgánica y ocupacional del Instituto FONACOT y el Director General de Organización y Remuneraciones de la Administración Pública Federal, registró la estructura orgánica y ocupacional del Instituto FONACOT, respectivamente, con vigencia a partir del 4 de julio de 2014, por lo que la vigencia del citado Estatuto iniciará a partir del miércoles 20 de agosto de 2014, abrogándose con esta misma fecha el Estatuto publicado en el Diario Oficial de la Federación el 16 de julio del 2012.”
