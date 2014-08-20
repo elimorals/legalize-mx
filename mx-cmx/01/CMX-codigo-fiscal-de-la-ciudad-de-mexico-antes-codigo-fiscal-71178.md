@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2014-06-26"
+last_updated: "2014-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -1218,7 +1218,7 @@ II. Ordenar y practicar visitas domiciliarias para verificar el estado y condici
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-III. Suspender o restringir, en su caso, el suministro de agua y restablecer el servicio; ello de conformidad con lo establecido la (sic) Ley de Aguas del Distrito Federal;
+III. Suspender o restringir, en su caso, el suministro de agua y restablecer el servicio; ello de conformidad con lo establecido (sic) la Ley de Aguas del Distrito Federal;
 
 IV. Verificar los diámetros y usos de las tomas de agua;
 
@@ -5198,11 +5198,9 @@ a). Para soportes de antenas:
 
 b). Por cada antena de radio frecuencia o de microondas - $1,546.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO VIGÉSIMO QUINTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2014)</small>
 
-> <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
-
-III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro $93.50
+III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro $93.50 m3
 
 IV. Para tapiales que invadan la acera en una medida superior a 50 cm:
 
@@ -7644,7 +7642,7 @@ I. Del 10%, cuando se efectúe el pago del primer semestre del año, durante los
 
 > <small>(REFORMADA, G. O. 31 DE DICIEMBRE DE 2013)</small>
 
-II. Del 10%, cuando se efectúe el pago del segundo semestre del año, a más tardar en el mes de agosto del mismo ejercicio, y (sic)
+II. Del 10%, cuando se efectúe el pago del segundo semestre del año, a más tardar en el mes de agosto del mismo ejercicio, y
 
 III. (DEROGADA, G. O. 31 DE DICIEMBRE DE 2013)
 
@@ -11344,7 +11342,7 @@ I. Falsifique matrices, punzones, dados, clichés o negativos, que usa la Secret
 
 II. Falsifique calcomanías, formas valoradas o numeradas, placas, tarjetones, órdenes de cobro o recibos de pago que usa la Secretaría;
 
-III. Altere en su valor, en el año de emisión, en el resello, leyenda, tipo, a las calcomanías, permisos, autorizaciones, formas valoradas o numeradas, placas o tarjetones emitidos conforme a este Código, o (sic)
+III. Altere en su valor, en el año de emisión, en el resello, leyenda, tipo, a las calcomanías, permisos, autorizaciones, formas valoradas o numeradas, placas o tarjetones emitidos conforme a este Código, o
 
 IV. Utilice máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, que usa la Secretaría, para imprimir o asentar como ciertos hechos o actos falsos en documentos.
 
@@ -14885,3 +14883,13 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia
 ###### ARTÍCULO TERCERO.
 
 Tratándose de inmuebles en proceso de construcción el impuesto correspondiente se causará conforme se realice (sic) las situaciones jurídicas o de hecho previstas por las disposiciones fiscales vigentes al momento de su nacimiento a menos que el contribuyente manifieste su voluntad expresa de acogerse a las disposiciones en vigor contenidas en este Código al momento por estimarlas más favorables.
+
+G.O. 20 DE AGOSTO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
