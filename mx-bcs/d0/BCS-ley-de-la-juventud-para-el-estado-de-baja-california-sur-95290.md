@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-juventud-para-el-estado-de-baja-california-sur-95290"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2014-06-30"
+last_updated: "2014-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2014 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE AGOSTO DE 2014.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de julio de 2013.
 
@@ -398,6 +398,10 @@ El Gobierno del Estado, en conjunto con los ayuntamientos, implementarán progra
 ###### ARTÍCULO 38.
 
 Los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, en el ámbito de su competencia, así como el sector social y privado, deberán impulsar el servicio social y las prácticas profesionales del sector educativo, como vínculo para generar el desarrollo profesional y laboral de los jóvenes, acercándolos a la oportunidad de conseguir su primer empleo.
+
+(ADICIONADO, B.O. 20 DE AGOSTO DE 2014) (F. DE E., B.O. 20 DE AGOSTO DE 2014)
+
+El Ejecutivo del Estado, a través de la Secretaría del Trabajo y Previsión Social y los ayuntamientos, planearán y aplicarán los programas, acciones e instrumentos necesarios, para la capacitación adecuada, así como para la inserción laboral, acordes a las necesidades de las y los jóvenes residentes en la entidad, así mismo, establecerán acuerdos con organismos públicos, empresas privadas y organizaciones de la sociedad civil, a fin de crear más y mejores espacios para la realización de su servicio social y prácticas profesionales.
 
 #### SECCIÓN CUARTA. DERECHO A LA CULTURA Y AL ARTE
 
@@ -1287,4 +1291,6 @@ ARMANDO MARTÍNEZ VEGA
 
 B.O. 30 DE JUNIO DE 2014.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+> <small>(F. DE E., B.O. 20 DE AGOSTO DE 2014)</small>
+
+ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
