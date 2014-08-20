@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-94490"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-30"
-last_updated: "2013-05-30"
+last_updated: "2014-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el jueves 30 de mayo de 2013.
 
@@ -411,9 +411,13 @@ XIV. Proponer mecanismos de coordinación y vinculación que promuevan la partic
 
 XV. Instrumentar las estrategias que impulsen el desarrollo de nuevos productos turísticos;
 
-XVI. Fomentar el desarrollo y la consolidación del turismo alternativo, de aventura y ecoturismo en el Estado, en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
 
-XVII. Coordinar y gestionar programas de consultoría y capacitación para el desarrollo de productos de turismo alternativo, de aventura y ecoturismo, y
+XVI. Fomentar el desarrollo y la consolidación del turismo de naturaleza, conforme a lo dispuesto en la Ley de Turismo del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XVII. Coordinar y gestionar programas de consultoría y capacitación para el desarrollo de productos de turismo de naturaleza, conforme a lo dispuesto en la Ley de Turismo del Estado de Morelos, y
 
 XVIII. Fomentar y propiciar en coordinación con los sectores público y privado el desarrollo del turismo sustentable, a través de la conservación y el aprovechamiento racional de los recursos turísticos, así como del patrimonio cultural e histórico del Estado.
 
@@ -455,7 +459,9 @@ XVI. Proponer el establecimiento de paradores turísticos en sitios estratégico
 
 XVII. Coordinar las acciones con autoridades Federales, Estatales y Municipales para proponer, ordenar, actualizar y mantener la vigencia de la señalización y paradores turísticos en sus respectivos ámbitos de competencia;
 
-XVIII. Formular y promover proyectos para el desarrollo de turismo alternativo para propiciar una mayor oferta y competitividad de los atractivos estatales, promoviendo el desarrollo local y regional con un enfoque de respeto al entorno natural, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XVIII. Formular y promover proyectos para el desarrollo de turismo de naturaleza, conforme a lo dispuesto en la Ley de Turismo del Estado de Morelos, para propiciar una mayor oferta y competitividad de los atractivos estatales, promoviendo el desarrollo local y regional con un enfoque de respeto al entorno natural, y
 
 XIX. Fomentar el desarrollo del turismo sustentable, congruentemente con la conservación y el aprovechamiento racional de los recursos, atractivos turísticos y el patrimonio cultural e histórico del Estado, en coordinación con las Secretarías, Dependencias y Entidades correspondientes de la Administración Pública Estatal.
 
@@ -483,9 +489,17 @@ IX. Desarrollar políticas tendientes a incrementar la competitividad de los pre
 
 X. Fomentar las actividades emprendedoras a través de procesos de incubación de nuevas empresas en el sector;
 
-XI. Proponer a las autoridades competentes, nuevos lineamientos o regulaciones que permitan elevar la calidad de las empresas turísticas, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
 
-XII. Emitir, ante las autoridades competentes, opinión técnica sobre la solicitud de instituciones de enseñanza turística para obtener el reconocimiento de validez oficial de estudios, de conformidad con las disposiciones legales aplicables.
+XI. Proponer a las autoridades competentes, nuevos lineamientos o regulaciones que permitan elevar la calidad de las empresas turísticas;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XII. Emitir, ante las autoridades competentes, opinión técnica sobre la solicitud de instituciones de enseñanza turística para obtener el reconocimiento de validez oficial de estudios, de conformidad con las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2014)</small>
+
+XIII. Observar que los proyectos de turismo de naturaleza, cumplan con los criterios que para tal efecto determina la Ley de Turismo del Estado de Morelos.
 
 ###### Artículo 20.
 
@@ -614,3 +628,13 @@ EL SECRETARIO DE TURISMO
 JAIME ÁLVAREZ CISNEROS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE AGOSTO DE 2014.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
+
+TERCERA. La Secretaría de Turismo del Poder Ejecutivo Estatal tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para emitir o realizar las actualizaciones a sus Manuales de Organización, y de Políticas y Procedimientos; en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente Decreto. La persona titular de la Secretaría resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación del presente Decreto.
