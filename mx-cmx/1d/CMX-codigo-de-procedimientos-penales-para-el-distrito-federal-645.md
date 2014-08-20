@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2014-01-10"
+last_updated: "2014-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,15 @@ issue_date: "1931-08-26"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL -ANTES CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE AGOSTO DE 2014 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DE LA DECLARATORIA, PUBLICADA EN LA G.O. DE 20 DE AGOSTO DE 2014, EL DISTRITO FEDERAL INCORPORA A SU RÉGIMEN JURÍDICO PENAL EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, INSTRUMENTO JURÍDICO QUE REGULARÁ LA FORMA Y TÉRMINOS EN QUE SE SUBSTANCIARÁN LOS PROCEDIMIENTOS PENALES.</small>
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1 DE ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2014.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -220,7 +224,7 @@ XVIII.- A quejarse ante la Contraloría Interna de la Procuraduría General de J
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y (sic)
+XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -228,7 +232,7 @@ XX.- En caso de que deseen otorgar el perdón, a ser informadas claramente del s
 
 > <small>(REFORMADA, G.O. 12 DE JULIO DE 2011)</small>
 
-XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves y en aquellos delitos cometidos en contra menores (sic) de edad, e igualmente en caso de delitos no graves cuando así lo solicite.
+XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves y en aquellos delitos cometidos en contra (sic) menores de edad, e igualmente en caso de delitos no graves cuando así lo solicite.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 18 DE MARZO DE 2011)</small>
 
@@ -308,7 +312,7 @@ XIII.- Expedir y fechar de inmediato los citatorios o comparecencias ulteriores,
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-XIV.- Solicitar la reparación del daño en los términos de este Código; e (sic)
+XIV.- Solicitar la reparación del daño en los términos de este Código; e
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -348,7 +352,7 @@ VII. Ordenar vigilancia por parte de la Secretaria de Seguridad Publica del Dist
 
 VIII. Ordenar la custodia por parte de la Procuraduría General de Justicia del Distrito Federal, de la víctima o víctimas indirectas, en los casos en que las circunstancias de riesgo lo ameriten, por el tiempo que determine el juzgador.
 
-El incumplimiento, desobediencia o resistencia a estas medidas será sancionado (sic) conforme a la fracción III del artículo 33 del Código de Procedimientos Penales; en caso de volver a incumplir, desobedecer o resistirse a esas medidas, se sancionará en los términos del artículo 283 del Código Penal.
+El incumplimiento, desobediencia o resistencia a estas medidas será sancionado conforme a la fracción III del artículo 33 del Código de Procedimientos Penales; en caso de volver a incumplir, desobedecer o resistirse a esas medidas, se sancionará en los términos del artículo 283 del Código Penal.
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -500,7 +504,7 @@ Los peritos, intérpretes o personal especializado y demás personas que interve
 
 ###### ARTICULO 25.
 
-Cuando los peritos o personal especializado que gocen sueldo (sic) del erario emitan un dictamen, sobre puntos decretados de oficio o a petición del Ministerio Público, no podrán cobrar honorarios.
+Cuando los peritos o personal especializado que gocen sueldo del erario emitan un dictamen, sobre puntos decretados de oficio o a petición del Ministerio Público, no podrán cobrar honorarios.
 
 ###### ARTICULO 26.
 
@@ -858,7 +862,7 @@ Si algún inculpado tuviere varios defensores, no se oirá más que a uno en la 
 
 ###### ARTICULO 70.
 
-La víctima o el ofendido o su representante pueden comparecer en la audiencia y alegar lo que a su derecho convenga, en las mismas condiciones que los defensores. En caso de la (sic) víctima o testigo sea un menor de edad se tomaran en cuenta las provisiones a las que se refiere el presente Código.
+La víctima o el ofendido o su representante pueden comparecer en la audiencia y alegar lo que a su derecho convenga, en las mismas condiciones que los defensores. En caso de (sic) la víctima o testigo sea un menor de edad se tomaran en cuenta las provisiones a las que se refiere el presente Código.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -2446,7 +2450,7 @@ La violación de esta disposición hará penalmente responsable a quien decrete 
 
 Habrá caso urgente cuando concurran las siguientes circunstancias:
 
-I.- Se trate de delito grave así calificado por la ley; y (sic)
+I.- Se trate de delito grave así calificado por la ley; y
 
 II.- Exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, y
 
@@ -2520,7 +2524,7 @@ Cuando no sea posible el desahogo de pruebas, ofrecidas por el inculpado y su de
 
 g) Que se le conceda, inmediatamente que lo solicite, su libertad provisional bajo caución conforme a lo dispuesto por la fracción I del artículo 20 de la Constitución Federal, y en los términos de los artículos 556 y 556 Bis de este Código.
 
-Para los efectos de los incisos b), c) y d) se le permitirá al indiciado comunicarse con las personas que solicite, utilizando el teléfono o cualquier otro medio de que se disponga, o personalmente si se hallaren presentes; y (sic)
+Para los efectos de los incisos b), c) y d) se le permitirá al indiciado comunicarse con las personas que solicite, utilizando el teléfono o cualquier otro medio de que se disponga, o personalmente si se hallaren presentes; y
 
 IV.- Cuando el indiciado fuere un indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere este artículo. Si se tratare de un extranjero la detención se comunicará de inmediato a la representación diplomática o consular que corresponda;
 
@@ -4880,7 +4884,7 @@ d) El inculpado deberá obligarse a efectuar las exhibiciones por los montos y e
 
 II.- En hipoteca otorgada por el inculpado o por terceras personas, sobre inmuebles cuyo valor fiscal no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 570 del presente código;
 
-III.- En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos dos veces el monto de la suma fijada como caución; y (sic)
+III.- En prenda, en cuyo caso el bien mueble deberá tener un valor de mercado de cuando menos dos veces el monto de la suma fijada como caución; y
 
 IV.- En fianza personal bastante, que podrá constituirse en el expediente;
 
@@ -5194,7 +5198,7 @@ I.- Cuando la sentencia se funde en documentos o declaraciones de testigos que d
 
 II.- Cuando después de la sentencia aparecieren documentos que invaliden la prueba en que descanse aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto;
 
-III.- Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y (sic)
+III.- Cuando condenada alguna persona por homicidio de otro que hubiere desaparecido, se presentare éste o alguna prueba irrefutable de que vive, y
 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
@@ -5574,7 +5578,7 @@ IV.- Cuando habiéndose decretado la libertad por desvanecimiento de datos, est�
 
 V.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
 
-VI.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y (sic)
+VI.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado, y
 
 (REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002
 
@@ -5962,7 +5966,7 @@ UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de
 
 D.O.F. 21 DE ENERO DE 1991.
 
-UNICO.- El Presente decreto entrará en vigor al día siguiente de la fecha su (sic) publicación en el Diario Oficial de la Federación.
+UNICO.- El Presente decreto entrará en vigor al día siguiente de la fecha (sic) su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
@@ -6287,3 +6291,45 @@ Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
 Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Artículo Tercero. Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+G.O. 20 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO POR EL QUE SE DECLARA LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL DISTRITO FEDERAL.</small>
+
+RESOLUTIVOS:
+
+DECLARATORIA
+
+PRIMERA.- La Asamblea Legislativa del Distrito Federal, VI Legislatura, aprueba el presente Decreto por el que se establece la incorporación del Sistema Procesal Penal Acusatorio al orden jurídico del Distrito Federal.
+
+En consecuencia, las garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, contenidas en los artículos 16, párrafos segundo y decimoquinto; 17 párrafos tercero, cuarto y sexto; 19, 20 y 21 párrafo séptimo, adquieren vigencia en los plazos establecidos en la declaratoria segunda del presente decreto.
+
+SEGUNDA.- En atención a lo dispuesto en los Artículos Segundo y Tercero Transitorios del Decreto que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Seguridad Pública y Justicia Penal, publicado en el Diario Oficial de la Federación el día 18 de junio de 2008.
+
+Así como, con fundamento en los Artículos Primero y Segundo Transitorios del Código Nacional de Procedimientos Penales, se declara que el Distrito Federal incorpora a su régimen jurídico penal el Código Nacional de Procedimientos Penales, instrumento jurídico que regulará la forma y términos en que se substanciarán los procedimientos penales, en los hechos que ocurran a partir de:
+
+1. Las cero horas del día dieciséis de enero de 2015 para los delitos culposos y aquellos que se persiguen por querella o acto equivalente de parte ofendida, así como los actos de investigación que requieran autorización previa del Juez de Control, inherentes a estos delitos.
+
+2. Las cero horas del día dieciséis de junio de 2016 para todos los demás delitos que son competencia de los Jueces del Distrito Federal, así como la aplicación de los actos de investigación que requieran autorización previa del Juez.
+
+En ese sentido, los procedimientos penales iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales se substanciarán de acuerdo al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de 1931, si se cometieron al momento de inicio de los mismos, como lo establece el Artículo Transitorio Tercero de dicho ordenamiento.
+
+No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando el procedimiento ya esté iniciado o se esté tramitando un juicio conforme al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de 1931, y con posterioridad se denuncien hechos que deban ser investigados bajo la vigencia del Código Nacional de Procedimientos Penales, atendiendo a lo expuesto en el Artículo Sexto Transitorio del Código Nacional de Procedimientos Penales.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente DECLARATORIA, entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Hasta antes de que concluya la implementación del Sistema Procesal Penal Acusatorio en todo el Distrito Federal, las Instituciones encargadas del mismo, deberán proponer al Órgano Legislativo las modificaciones y reformas a los ordenamientos secundarios y administrativos de acuerdo a su competencia, así como las adaptaciones de infraestructura y equipamiento necesario para la correcta operación del nuevo Sistema Procesal Penal Acusatorio en el Distrito Federal.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas del Distrito Federal deberá contemplar en el Presupuesto de Egresos del ejercicio fiscal 2015 y subsecuentes, con base en los recursos solicitados por los operadores del Sistema, las previsiones de gasto y partidas presupuestales respectivas para la ejecución de los programas y acciones dirigidas a implementar y operar el nuevo Sistema Procesal Penal Acusatorio en la Ciudad de México.
