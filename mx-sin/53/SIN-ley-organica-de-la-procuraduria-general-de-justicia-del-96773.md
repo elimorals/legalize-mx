@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-procuraduria-general-de-justicia-del-96773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-11-29"
-last_updated: "2014-07-30"
+last_updated: "2014-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 159, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, LAS REFORMAS Y ADICIONES EN EL CONTENIDAS ENTRARÁ EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2014.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, viernes 29 de noviembre de 2013.
 
@@ -1453,17 +1451,9 @@ e. La cantidad de resoluciones tomadas por dicha entidad denegando las solicitud
 
 XIII. Las demás que les confieran otras disposiciones legales, el Procurador General de Justicia, el Subprocurador General de Justicia y el Director General Jurídico Consultivo por conducto de aquél.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
-
 ###### Artículo 51 Bis.
 
-Los medios de comunicación tendrán acceso a la información de las investigaciones a través de los boletines de prensa que emita la unidad de acceso a la información pública, siempre que se cumplan con los requisitos marcados por las leyes en materia de transparencia.
-
-En ningún caso se podrá autorizar a los medios de comunicación el ingreso a los lugares de los hechos, la toma de audio, video o fotografía a las personas involucradas en un evento delictivo, ni al manejo de información relacionada con la seguridad pública o la procuración de justicia.
-
-Ningún funcionario de la Procuraduría General de Justicia podrá dar informes respecto de algún asunto a los medios de comunicación sin autorización expresa del Procurador General de Justicia o de la unidad de acceso.
-
-Sólo la víctima u ofendido a través de su asesor jurídico y el imputado a través de su defensor son las únicas personas que podrán tener acceso a los registros de la investigación inicial; siempre que no se afecte el desarrollo de la misma.
+(DEROGADO, P.O. 21 DE AGOSTO DE 2014)
 
 #### Sección Segunda. Subprocuradurías Regionales
 
@@ -3008,3 +2998,7 @@ El Ejecutivo Estatal realizará las previsiones administrativas y presupuestaria
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 21 DE AGOSTO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
