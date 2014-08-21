@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2013-05-23"
+last_updated: "2014-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -235,7 +235,7 @@ XII. Formular, difundir e impulsar acciones de transparencia, rendición de cuen
 
 > <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
-XIII.- Promover la integración y desarrollo de programas de difusión y de comunicación social para dar a conocer a la sociedad los objetivos y programas de la Dependencia: (sic)
+XIII.- Promover la integración y desarrollo de programas de difusión y de comunicación social para dar a conocer a la sociedad los objetivos y programas de la Dependencia:
 
 > <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
@@ -287,9 +287,17 @@ XV.- Custodiar y garantizar el cuidado, conservación y buen uso de los recursos
 
 XVI.- Elaborar el Programa Operativo Anual de acuerdo con las responsabilidades de su encargo y los lineamientos que al respecto emita el Titular de la Secretaría;
 
-XVII.- Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le están adscritas; y
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2014)</small>
 
-XVIII.- Las demás que le señale el Titular de la Secretaría o le confieran otras disposiciones legales.
+XVII.- Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le estén adscritas;
+
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2014)</small>
+
+XVIII.- Expedir, cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos; y
+
+> <small>(ADICIONADA, B.O. 21 DE AGOSTO DE 2014)</small>
+
+XIX.- Las demás que le señale el Titular de la Secretaría o le confieran otras disposiciones legales.
 
 > <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
 
@@ -323,7 +331,9 @@ XIII.- Brindar soporte y mantenimiento a los sistemas y herramientas desarrollad
 
 XIV.- Expedir las normas, políticas y estándares de materia de equipamiento de bienes tecnológicos de las dependencias y entidades de la Administración Pública Estatal, basados en los lineamientos y normatividad de esta Subsecretaría, mediante la elaboración de dictámenes técnicos de tecnologías de la información y comunicación para su selección, adquisición, arrendamiento y contratación, según sea el caso;
 
-XV.- Participar, de conformidad con las normas aplicables, en la vigilancia de que el Comité de Desarrollo Tecnológico cumpla con su función de dar a conocer las nuevas tendencias tecnológicas y los lineamientos tendientes a unificar esfuerzos en la labor informática;
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2014)</small>
+
+XV.- Presidir y representar el Comité de Desarrollo Tecnológico de la Administración Pública Estatal, y vigilar, de conformidad con las normas aplicables, que dicho órgano cumpla con su función de dar a conocer las nuevas tendencias tecnológicas y los lineamientos tendientes a unificar esfuerzos en la labor informática con las dependencias y entidades de la Administración Pública Estatal;
 
 XVI.- Diseñar la arquitectura de las aplicaciones informáticas y coordinar los esfuerzos tecnológicos en la estandarización de aplicaciones utilitarias;
 
@@ -893,13 +903,17 @@ XIV. Fungir como Unidad de Enlace de la Secretaría conforme a lo previsto en la
 
 XV. Formular propuestas, programas y acciones en materia de transparencia y acceso a la información;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2014)</small>
 
-XVI. Evaluar trimestralmente a los portales de transparencia de los Sujetos Obligados del Poder Ejecutivo en cuanto al cumplimiento de tener a disposición del público la información pública básica, a que se refiere la Ley de la materia; y
+XVI. Evaluar trimestralmente los portales de transparencia de los sujetos obligados del Poder Ejecutivo en cuanto al cumplimiento de tener a disposición del público la información pública básica a que se refiere la Ley de la materia;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, B.O. 21 DE AGOSTO DE 2014)</small>
 
-XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+XVII. Atender y resolver los procedimientos a que se sujetarán los licitantes y contratistas por presuntas infracciones y actos a la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora y su Reglamento, de conformidad con lo dispuesto en dichos ordenamientos; y
+
+> <small>(ADICIONADA, B.O. 21 DE AGOSTO DE 2014)</small>
+
+XVIII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS DE CONTROL DE LA SECRETARÍA
 
@@ -1148,3 +1162,9 @@ B.O. 23 DE MAYO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 Artículo Segundo.- Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de la Contraloría General que deban efectuarse con motivo de la presente reforma al Reglamento Interior deberán expedirse dentro de los sesenta días posteriores a su publicación en el mencionado órgano oficial de difusión. El titular de esta Secretaría queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
+
+B.O. 21 DE AGOSTO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
