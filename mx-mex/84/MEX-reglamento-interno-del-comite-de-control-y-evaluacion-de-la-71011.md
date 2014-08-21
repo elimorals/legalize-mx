@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2014-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE), PUBLICADO EN LA G.G. DE 21 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE AGOSTO DE 2014 (DEROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de noviembre de 2009.
 
@@ -308,3 +310,15 @@ M. EN C. E. JOSÉ ÁNGEL FERNÁNDEZ GARCÍA
 RECTOR
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 21 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El presente Reglamento deroga y deja sin efectos al anterior Reglamento Interior del COCOE aprobado y publicado en Gaceta del Gobierno el 4 de noviembre de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
