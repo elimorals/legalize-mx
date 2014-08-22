@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-29"
-last_updated: "2009-10-29"
+last_updated: "2014-08-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD TECNOLOGICA FIDEL VELAZQUEZ
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA UNIVERSIDAD TECNOLOGICA FIDEL VELAZQUEZ
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD TECNOLÓGICA FIDEL VELÁZQUEZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA UNIVERSIDAD TECNOLÓGICA FIDEL VELÁZQUEZ, PUBLICADO EN LA G.G. DE 22 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 29 de octubre de 2009.
 
@@ -314,3 +316,15 @@ SECRETARIO DEL CONSEJO DIRECTIVO
 ING. ENRIQUE RIVA PALACIO GALICIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se deja sin efectos el Reglamento Interno del COCOE, publicado en “Gaceta del Gobierno” el 29 de octubre de 2009.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
