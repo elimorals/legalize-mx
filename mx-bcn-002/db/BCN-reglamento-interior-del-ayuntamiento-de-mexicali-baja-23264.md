@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2014-03-21"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -955,9 +955,13 @@ XII.- Educación, Cultura y Asuntos Indígenas; y,
 
 XIII.- Asuntos Fronterizos.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-XIV. Equidad de Género.
+XIV. Equidad de Género y;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+XV.- De la familia y juventud
 
 ###### ARTICULO 78.
 
@@ -1216,6 +1220,26 @@ IX.- Impulsar mecanismos para la armonización de las leyes con los reglamentos 
 X.- Estrechar la vinculación con las diversas dependencias de la Administración Pública Federal y Local, con los Congresos Locales y con la Sociedad Civil, con la finalidad de trabajar en los temas que son de agenda común y avanzar en materia de equidad de género.
 
 XI.- Así como las necesarias para el cumplimiento puntual de la Comisión.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2014)</small>
+
+###### ARTICULO 91 Quáter.
+
+Comisión de la Familia y Juventud.- La Comisión de la Familia y Juventud tendrá las siguientes atribuciones:
+
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley, disposiciones normativas de observancia general en materia de familia y juventud.
+
+II.- Proponer al Cabildo la adopción de políticas, encaminadas a fortalecer el desarrollo de la familia y juventud, así como vigilar el cumplimiento de los programas correspondientes que sean aprobados en esta materia.
+
+III.- Apoyar los programas del Sistema Municipal para el Desarrollo Integral de la Familia.
+
+IV.- Proponer el fortalecimiento y recuperación de los valores de la familia.
+
+V.- Apoyar todos los programas del municipio encaminados al fortalecimiento de la juventud.
+
+VI.- Fomentar el desarrollo y trabajo del Instituto Municipal de la Juventud.
+
+VII.- En general, aquellas que el Cabildo le encomiende.
 
 #### SECCION IV. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1538,3 +1562,7 @@ P.O. 21 DE FEBRERO DE 2014.
 P.O. 21 DE MARZO DE 2014.
 
 ÚNICO: LAS PRESENTES MODIFICACIONES ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 22 DE AGOSTO DE 2014.
+
+ÚNICO: EL SIGUIENTE ACUERDO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
