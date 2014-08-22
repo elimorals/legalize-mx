@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2012-03-07"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -91,7 +91,9 @@ VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
 IX. La educación para la salud;
 
-X. La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+X. La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria;
 
 XI. La orientación, previsión, vigilancia y tratamiento en materia de adicciones;
 
@@ -155,7 +157,7 @@ XVII. Las demás materias que determine esta ley y otras disposiciones legales a
 
 El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución de programas y acciones contra el alcoholismo, el tabaquismo, la farmacodependencia, conforme a las leyes de la materia y en forma particular con la Ley que Regula la Prestación de los Servicios de Prevención y Tratamiento de las Adicciones en Sinaloa.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -181,7 +183,7 @@ VIII. Fomentar la participación comunitaria y la coordinación con las autorida
 
 Todos los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y a la libre voluntad del farmacodependiente.
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -327,9 +329,21 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que 
 
 VI. Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
+VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta y su relación con los beneficios a la salud; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+X. Diseñar y ejecutar políticas públicas que propicien la alimentación correcta, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad, y otros trastornos de la conducta alimentaria.
 
 ###### Artículo 18.
 
@@ -367,9 +381,13 @@ XIV. Coadyuvar a que la formación y distribución de los recursos humanos para 
 
 XV. Promover e impulsar la participación de la población del Estado, en el cuidado de su salud;
 
-XVI. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
+XVI. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+
+XVII. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+
+XVIII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
 ###### Artículo 19.
 
@@ -439,11 +457,17 @@ VII. Prevención y control de las enfermedades bucodentales;
 
 VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX. La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-X. La asistencia social a los grupos vulnerables; y
+IX. La promoción del mejoramiento de la nutrición, la prevención y atención del sobrepeso y la obesidad y la promoción de una alimentación adecuada;
 
-XI. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+X. La promoción de un estilo de vida saludable;
+
+XI. La asistencia social a los grupos vulnerables; y
+
+XII. Las demás que establezcan esta ley y otras disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -473,7 +497,9 @@ La promoción de la salud comprende:
 
 I. La educación para la salud;
 
-II. La nutrición;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+II. Nutrición, orientación alimentaria y activación física;
 
 III. Los efectos del ambiente en la salud; y
 
@@ -489,13 +515,21 @@ I. Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud; y
 
-III. Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la fármaco dependencia, alcoholismo, tabaquismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención de rehabilitación de la invalidez y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación correcta, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 34.
 
-Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
+Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, entre otros, aquellos orientados a la alimentación correcta y a la activación física, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+
+Así como, llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
 
 El Gobierno del Estado, por conducto de la Secretaría de Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+
+Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior deberán difundirse en la lengua indígena que corresponda.
 
 ### CAPÍTULO IV. DE LA NUTRICIÓN
 
@@ -511,7 +545,9 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 Las autoridades sanitarias tendrán a su cargo:
 
-I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+I. Establecer un sistema permanente de vigilancia epidemiológica de sobrepeso, obesidad, desnutrición y los trastornos de la conducta alimentaria;
 
 II. Normar el desarrollo de los programas de actividades de educación en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
 
@@ -521,9 +557,21 @@ IV. Normar el valor nutritivo y características de la alimentación en establec
 
 V. Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
 
-VI. Recomendar las dietas y los procedimientos, que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
-VII. Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos.
+VI. Recomendar las dietas y los procedimientos, que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+VII. Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+VIII. Impulsar, en coordinación con los municipios, la prevención y el control del sobrepeso, obesidad y otros trastornos de la conducta alimentaria y, en coordinación con la Secretaría de Educación Pública, la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
+
+IX. Difundir en los entornos familiar, escolar, laboral y comunitario la alimentación correcta.
 
 ### CAPÍTULO V. DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -2203,7 +2251,7 @@ VIII. Dar la notificación inmediata, en casos sospechosos y confirmados de rabi
 
 Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campañas permanentes de orientación a la población respecto a la vacunación y control de los animales domésticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2008)</small>
 
 ### CAPÍTULO V. PRESCRIPCIÓN
 
@@ -2849,7 +2897,7 @@ El Secretario de Salud
 
 Víctor Manuel Díaz Simental.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE FEBRERO DE 2008.
 
@@ -2878,3 +2926,7 @@ El Ejecutivo del Estado en la esfera de su competencia realizará las transferen
 ###### ARTICULO TERCERO.
 
 Asimismo, la Secretaría de Salud, dentro de los treinta días posteriores a la publicación de este Decreto, deberá remitir a este Congreso del Estado, los programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino a ejecutar en el presente año.
+
+P.O. 22 DE AGOSTO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
