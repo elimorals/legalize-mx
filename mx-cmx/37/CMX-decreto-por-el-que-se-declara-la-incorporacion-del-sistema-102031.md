@@ -4,7 +4,7 @@ identifier: "CMX-decreto-por-el-que-se-declara-la-incorporacion-del-sistema-1020
 country: "mx"
 rank: "decreto"
 publication_date: "2014-08-20"
-last_updated: "2014-08-21"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102031&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "2014-08-13"
 ---
 # DECRETO POR EL QUE SE DECLARA LA INCORPORACION DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURIDICO DEL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2014, EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 DECRETO POR EL QUE SE DECLARA LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 21 DE AGOSTO DE 2014.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 22 DE AGOSTO DE 2014.</small>
 
 Decreto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de agosto de 2014.
 
@@ -42,9 +40,9 @@ DECLARATORIA
 
 PRIMERA.- La Asamblea Legislativa del Distrito Federal, VI Legislatura, aprueba el presente Decreto por el que se establece la incorporación del Sistema Procesal Penal Acusatorio al orden jurídico del Distrito Federal.
 
-> <small>(F. DE E., G.O. 21 DE AGOSTO DE 2014)</small>
+(F. DE E., G.O. 21 DE AGOSTO DE 2014) (F. DE E., G.O. 22 DE AGOSTO DE 2014)
 
-En consecuencia, las garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, contenidas en los artículos 16, párrafos tercero y decimocuarto; 17 párrafos tercero, cuarto y sexto; 19, 20 y 21 párrafo séptimo, adquieren vigencia en los plazos establecidos en la declaratoria segunda del presente decreto.
+En consecuencia, las garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, contenidas en los artículos 16, párrafos tercero y decimocuarto; 17 párrafos cuarto, quinto y séptimo; 19, 20 y 21 párrafo séptimo, adquieren vigencia en los plazos establecidos en la declaratoria segunda del presente decreto.
 
 SEGUNDA.- En atención a lo dispuesto en los Artículos Segundo y Tercero Transitorios del Decreto que reforma y adiciona diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Seguridad Pública y Justicia Penal, publicado en el Diario Oficial de la Federación el día 18 de junio de 2008.
 
