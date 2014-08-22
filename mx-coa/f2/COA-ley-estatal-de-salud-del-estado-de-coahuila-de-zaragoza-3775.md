@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2013-12-27"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -269,7 +269,7 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XVI. Impulsar la mejora de los procesos de atención a la salud mediante la implementación de sistemas de gestión de calidad en las dependencias públicas y privadas, para alcanzar la certificación de las mismas, y (sic)
+XVI. Impulsar la mejora de los procesos de atención a la salud mediante la implementación de sistemas de gestión de calidad en las dependencias públicas y privadas, para alcanzar la certificación de las mismas, y
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
 
@@ -559,7 +559,7 @@ Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que preveng
 
 ###### Artículo 38.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos,se (sic) regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos,se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -591,13 +591,13 @@ El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ám
 
 ###### Artículo 42.
 
-La Secretaría de Salud del Estado coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios,asociaciones (sic) y organizaciones de profesionales, técnicos y auxiliares de la salud, así mismo (sic) estimulará su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, sí como consultoras de las autoridades sanitarias cuanto éstas lo requieran.
+La Secretaría de Salud del Estado coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios,asociaciones (sic) y organizaciones de profesionales, técnicos y auxiliares de la salud, así mismo estimulará su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, sí como consultoras de las autoridades sanitarias cuanto éstas lo requieran.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
 
 ###### Artículo 43.
 
-Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público,social (sic) y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+Para los efectos de esta Ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores público,social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 44.
 
@@ -711,7 +711,7 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y (sic)
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años;
 
@@ -859,9 +859,11 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 72.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas,y (sic) las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje,prótesis (sic) y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística,codificación (sic) clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1505,7 +1507,7 @@ III. La identificación temprana y la atención oportuna de procesos físicos, m
 
 IV. La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido promoviendo al efecto la solidaridad social;
 
-V. La atención integral de los inválidos, incluyendo la adaptación de la (sic) prótesis, órtesis y ayudas funcionales que requieran;
+V. La atención integral de los inválidos, incluyendo la adaptación de la prótesis, órtesis y ayudas funcionales que requieran;
 
 VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
 
@@ -1571,7 +1573,7 @@ X. Tabaco: La planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o
 
 XI. Tabaquismo: La dependencia o adicción al tabaco;
 
-XII. Tabla: La relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista (sic) en el artículo 479 de la Ley General de Salud;
+XII. Tabla: La relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista en el artículo 479 de la Ley General de Salud;
 
 XIII. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de las sustancias psicoactivas, reducir los riesgos y daños que implican el uso o abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de sustancias psicoactivas, como de su familia.
 
@@ -1589,7 +1591,7 @@ IV. Establecer las medidas necesarias para lograr la reinserción social de las 
 
 V. Implementar las bases mínimas para diseñar el contenido de políticas, programas y acciones de sensibilización, prevención, atención, tratamiento y erradicación de las adicciones;
 
-VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, recuperación y reinserción social de las personas dependientes de sustancias psicoactivas y fomenten el desarrollo del sentido social en esta materia, y (sic)
+VI. Promover y difundir acciones que ayuden a la sensibilización, prevención, recuperación y reinserción social de las personas dependientes de sustancias psicoactivas y fomenten el desarrollo del sentido social en esta materia, y
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1657,7 +1659,7 @@ V. El diseño de campañas de difusión que promuevan la cesación y disminuyan 
 
 Para poner en práctica las acciones contra el tabaquismo, se tendrá en cuenta los siguientes aspectos:
 
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas, y (sic)
+I. La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
 
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
@@ -1777,7 +1779,7 @@ IV. Reconocer la importancia de los diversos grupos de ayuda mutua, integrados p
 
 Artículo 154 bis 6. La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Estado, así como las autoridades municipales competentes participarán en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, y actuarán conforme a las atribuciones que les otorgan las disposiciones aplicables.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades estatales de Seguridad Pública, Procuración de Justicia y Educación y Cultura realizarán (sic) programas y campañas permanentes para prevenir el consumo de substancias con efectos psicotrópicos.
+La Secretaría de Salud del Estado, en coordinación con las autoridades estatales de Seguridad Pública, Procuración de Justicia y Educación y Cultura realizarán programas y campañas permanentes para prevenir el consumo de substancias con efectos psicotrópicos.
 
 (NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2077,7 +2079,7 @@ Las autoridades municipales, fijarán lugares especiales para depositar la basur
 
 ###### Artículo 189.
 
-El Gobierno del Estado, por conducto de los municipios, proveerá de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares en la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica en los mismos; así mismo (sic), fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
+El Gobierno del Estado, por conducto de los municipios, proveerá de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares en la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica en los mismos; así mismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
 ###### Artículo 190.
 
@@ -2149,7 +2151,7 @@ La autoridad sanitaria competente realizará periódicamente análisis de la pot
 
 ###### Artículo 202.
 
-En los municipios que carezcan del sistema de agua potable y alcantarillado, deberán proteger las fuentes de abastecimiento para prevenir Su (sic) contaminación, conforme a las normas oficiales mexicanas correspondientes.
+En los municipios que carezcan del sistema de agua potable y alcantarillado, deberán proteger las fuentes de abastecimiento para prevenir Su contaminación, conforme a las normas oficiales mexicanas correspondientes.
 
 Queda prohibido utilizar para el consumo humano, el agua de pozo o aljibe que no se encuentre situado a una distancia mínima de 15 metros considerando la corriente o flujo subterráneo de éstos de: retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
 
@@ -2209,7 +2211,7 @@ Para los efectos de esta Ley se entiende por prostitución la actividad que real
 
 ###### Artículo 212.
 
-Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio y la transmisión de enfermedades a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos y de laboratorio periódicos, con inclusión del VIH. Al igual que a (sic) los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
+Toda persona que se dedique a la prostitución, deberá conocer y utilizar medidas preventivas para evitar el contagio y la transmisión de enfermedades a través del contacto sexual. Asimismo, se sujetarán a exámenes médicos y de laboratorio periódicos, con inclusión del VIH. Al igual que a los demás requisitos que se establezcan en las disposiciones reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -2935,7 +2937,7 @@ El recurso se interpondrá ante la unidad administrativa que hubiere dictado la 
 
 ###### Artículo 311.
 
-En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objetos (sic) del recurso, la fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución o acto impugnado, los agravios que, a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
+En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objetos del recurso, la fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución o acto impugnado, los agravios que, a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
 
 Al escrito deberán acompañarse los siguientes documentos:
 
@@ -3138,3 +3140,7 @@ El Ejecutivo del Estado, a través de las Secretarías correspondientes, deberá
 ###### ARTÍCULO TERCERO.
 
 Los sujetos obligados deberán dar cumplimiento a lo dispuesto en el presente decreto, a más tardar el 1 de enero de 2014. Las instituciones de educación lo harán a partir del inicio del siguiente ciclo escolar.
+
+P.O. 22 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
