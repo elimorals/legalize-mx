@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2014-06-27"
+last_updated: "2014-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -2199,15 +2199,15 @@ Cualquier otra infracción a las disposiciones de este Reglamento, que no esté 
 
 ## TITULO DECIMO. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2014)</small>
 
 ###### ARTICULO 244.
 
-El Presidente Municipal, el Secretario de Seguridad Pública Municipal, los Jueces Calificadores y, los Delegados Municipales en su respectiva Jurisdicción, calificarán las infracciones a este Reglamento y aplicarán las multas que resulten conforme al siguiente tabulador.
+El Presidente Municipal, el Director de Seguridad Pública Municipal, los Jueces Calificadores y, los Delegados Municipales en su respectiva Jurisdicción, calificarán las infracciones a este Reglamento y aplicarán las multas que resulten conforme al siguiente tabulador.
 
 El infractor que cubra el importe de las multas que establece este Reglamento dentro de los Quince Días Naturales de haber sido impuesta, tiene derecho a que se le descuente un 50% del monto de la misma.
 
-La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando se trate de primo-infractores y lo solicite antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna.
+La autoridad podrá conmutar la multa por trabajo comunitario o por asistir y acreditar el curso de manejo, siempre y cuando lo solicite el infractor, se trate de primo-infractores y sea antes de los quince días de haber sido impuesta. Vencido este plazo no procederá descuento o conmutación alguna; tratándose de la violación al artículo 150 relativo a tirar basura en la vía pública el juez por única ocasión optará preferentemente por conmutar la multa por trabajo comunitario en días y horarios que afecten lo menos posible las actividades del infractor, en caso del rechazo de este último se procederá a la sanción económica.
 
 La conmutación y el descuento de la multa no aplican si fue impuesta por conducir en estado de ebriedad o bajo el influjo de sustancias psicotrópicas, estacionarse en lugares exclusivos para personas con discapacidad sin el distintivo correspondiente, participar en competencias de velocidad, resultar responsable del accidente de tránsito, conforme a lo dispuesto en los artículos 40, 41, 73 fracción IV, 94, 200 y 205.
 
@@ -2298,3 +2298,7 @@ P.O. 17 DE MAYO DE 2013.
 P.O. 27 DE JUNIO DE 2014.
 
 UNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 22 DE AGOSTO DE 2014.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
