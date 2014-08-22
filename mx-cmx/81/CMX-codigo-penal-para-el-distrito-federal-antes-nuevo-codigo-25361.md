@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2014-04-11"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-07-11"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2014 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE AGOSTO DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -274,7 +276,7 @@ I. Supervisión de la autoridad;
 
 II. Prohibición de ir a un lugar determinado u obligación de residir en él;
 
-III. Tratamiento de inimputables o imputables disminuidos; y (sic)
+III. Tratamiento de inimputables o imputables disminuidos; y
 
 IV. Tratamiento de deshabituación o desintoxicación;
 
@@ -898,7 +900,7 @@ II. El momento en que cesó la consumación, si el delito es permanente;
 
 III. El día en que se realizó la última conducta, si el delito es continuado;
 
-IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y (sic)
+IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa; y
 
 V. El día en que el Ministerio Público de la adscripción haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia;
 
@@ -1110,7 +1112,7 @@ a) Cuando el agente es superior en fuerza física al ofendido y éste no se hall
 
 b) Cuando es superior por las armas que emplea, por su mayor destreza en el manejo de ellas o por el número de los que intervengan con él;
 
-c) Cuando el agente se vale de algún medio que debilita la defensa del ofendido; o (sic)
+c) Cuando el agente se vale de algún medio que debilita la defensa del ofendido; o
 
 d) Cuando éste se halla inerme o caído y aquél armado o de pie;
 
@@ -1682,7 +1684,7 @@ III. Por quien valiéndose de medios o circunstancias que le proporcionen su emp
 
 IV. Por la persona que tenga al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
 
-V. Fuere cometido al encontrarse la víctima a bordo de un vehículo particular o de servicio público; o (sic)
+V. Fuere cometido al encontrarse la víctima a bordo de un vehículo particular o de servicio público; o
 
 VI. Fuere cometido en despoblado o lugar solitario;
 
@@ -2040,7 +2042,7 @@ II. El pariente consanguíneo en línea recta ascendente o descendente sin lími
 
 > <small>(REFORMADA, G.O. 17 DE ENERO DE 2007)</small>
 
-III. El adoptante o adoptado, y (sic)
+III. El adoptante o adoptado, y
 
 > <small>(REFORMADA, G.O. 17 DE ENERO DE 2007)</small>
 
@@ -2245,6 +2247,14 @@ b) El cónyuge, la concubina, el concubinario, pareja permanente y parientes col
 c) Los que estén ligados con las personas por amor, respeto, gratitud o estrecha amistad.
 
 Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 22 DE AGOSTO DE 2014)</small>
+
+DELITO DE COBRANZA ILEGITIMA
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2014)</small>
+
+ARTÍCULO 209 BIS. Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, utilice medios ilícitos e ilegítimos, se valga del engaño, o efectúe actos de hostigamiento, e intimidación, se le impondrá prisión de seis meses a dos años y una multa de ciento cincuenta a trescientos días de salario mínimo, además de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión. Para la reparación del daño cometido se estará a lo dispuesto en el artículo 46 de este Código.
 
 ### CAPÍTULO IV. ADMINISTRACIÓN FRAUDULENTA
 
@@ -2556,7 +2566,7 @@ Las instituciones y organismos auxiliares de crédito, las de fianzas y las de s
 
 XIII. Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o por carecer éste de fondos suficientes para su pago de conformidad con la legislación aplicable. La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate;
 
-XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, independientemente de que los recursos no salgan de la Institución; o (sic)
+XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores, independientemente de que los recursos no salgan de la Institución; o
 
 XV. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
 
@@ -2984,7 +2994,7 @@ b) Otorgue permisos, licencias o autorizaciones de contenido económico;
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; o (sic)
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Distrito Federal; o
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2014)</small>
 
@@ -4831,3 +4841,11 @@ G.O. 11 DE ABRIL DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 22 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
