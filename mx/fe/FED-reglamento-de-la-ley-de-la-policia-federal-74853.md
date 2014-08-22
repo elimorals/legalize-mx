@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-policia-federal-74853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-17"
-last_updated: "2010-05-17"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-05-13"
 ---
 # REGLAMENTO DE LA LEY DE LA POLICIA FEDERAL
 
-REGLAMENTO DE LA LEY DE LA POLICIA FEDERAL
+REGLAMENTO DE LA LEY DE LA POLICÍA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 17 de mayo de 2010.
 
@@ -35,9 +35,11 @@ REGLAMENTO DE LA LEY DE LA POLICÍA FEDERAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer las relaciones jerárquicas de la Policía Federal, Órgano Administrativo Desconcentrado de la Secretaría de Seguridad Pública, sus estructuras normativas y operativas, su organización territorial, las atribuciones de mando, dirección y disciplina, así como los componentes de su régimen interno, las funciones y atribuciones de las unidades operativas y administrativas, prestaciones, estímulos y recompensas, al igual que regular las funciones del Consejo Federal de Desarrollo Policial de la Policía Federal.
+El presente Reglamento tiene por objeto establecer la organización, estructura y funcionamiento de la Policía Federal, órgano administrativo desconcentrado de la Secretaría de Gobernación, así como regular el servicio profesional de carrera policial, el régimen disciplinario aplicable a los integrantes de la Policía Federal, al igual que regular las funciones del Consejo Federal de Desarrollo Policial de la Policía Federal.
 
 La Policía Federal tiene a su cargo el ejercicio de las atribuciones, obligaciones, facultades y el despacho de los asuntos que le encomiendan su Ley y demás ordenamientos jurídicos aplicables.
 
@@ -73,9 +75,15 @@ XI. Manual del Consejo, al Manual del Consejo Federal;
 
 XII. Ministerio Público, al Ministerio Público de la Federación;
 
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+XII Bis. Proximidad Social, a la vinculación de las Instituciones de Seguridad Pública con la sociedad, generando confianza y cercanía, obteniendo de esta relación información relevante para la prevención e investigación de los delitos y protección de esa sociedad;
+
 XIII. Reglamento, al presente ordenamiento;
 
-XIV. Secretaría, a la Secretaría de Seguridad Pública del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+XIV. Secretaría, a la Secretaría de Gobernación;
 
 XV. Secretaría General, a la Secretaría General de la Policía Federal;
 
@@ -83,15 +91,13 @@ XVI. Secretario, al Titular de la Secretaría, y
 
 XVII. Sistema, al Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 3.
 
-Los colores oficiales de la Institución son:
+Los colores oficiales de la Institución son el blanco, el azul, el oro y el negro.
 
-I. El blanco y el azul para usarse en cualquiera de sus combinaciones en los inmuebles, vehículos aéreos, marítimos y terrestres, y
-
-II. El blanco, el azul y el negro, en los uniformes que portará el personal de la Institución.
-
-La utilización de los colores, sus combinaciones, características y uso de los uniformes, insignias, medallas, divisas, gafetes y escudos que los distingan se especificarán en el Manual de Uniformes.
+La utilización de los colores oficiales, sus combinaciones, características y uso en los inmuebles, vehículos aéreos, marítimos y terrestres y uniformes, así como las insignias, medallas, divisas, gafetes y escudos que los distingan se especificarán en el Manual de Uniformes y demás manuales que para tal efecto se emitan.
 
 ###### Artículo 4.
 
@@ -115,9 +121,17 @@ c) Seguridad Regional;
 
 d) Científica;
 
-e) Antidrogas, y
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
 
-f) Fuerzas Federales;
+e) Antidrogas;
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+f) Fuerzas Federales, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+g) Gendarmería;
 
 III. SECRETARÍA GENERAL;
 
@@ -159,9 +173,17 @@ p) Servicios Generales;
 
 q) Operaciones Aéreas;
 
-r) Soporte Técnico, y
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
 
-s) Sistema de Desarrollo Policial;
+r) Soporte Técnico;
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+s) Sistema de Desarrollo Policial, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+t) Gendarmería;
 
 VI. COORDINACIONES ESTATALES;
 
@@ -289,9 +311,25 @@ VII. DIRECCIONES GENERALES:
 
 61) Vigilancia y Supervisión Interna;
 
-62) Investigación Interna, y
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
 
-63) Responsabilidades.
+62) Investigación Interna;
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+63) Responsabilidades;
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+64) Planeación y Logística de la Gendarmería;
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+65) Operaciones Estratégicas y Unidades Especiales de la Gendarmería, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+66) Proximidad Social de la Gendarmería.
 
 Las áreas de investigación y servicios técnicos especializados a que se refiere el artículo 54 de la Ley, serán:
 
@@ -1034,6 +1072,40 @@ XXIV. Aprobar las políticas y los programas de adiestramiento y capacitación d
 XXV. Establecer acuerdos interinstitucionales, de conformidad con las disposiciones aplicables, para la cooperación en planes y programas de crianza, selección, adiestramiento, capacitación, evaluación de semovientes caninos y manejadores, instructores y capacitadores para la integración de las unidades de búsqueda de personas y restos humanos, localización de artefactos explosivos, armamento, papel moneda y estupefacientes e intervención en operaciones, y
 
 XXVI. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+###### Artículo 17 Bis.
+
+Corresponde a la División de Gendarmería:
+
+I. Generar condiciones de seguridad pública, mediante el despliegue operativo que realice en cumplimiento de las atribuciones previstas en el artículo 8, fracciones I, II, III o XXX de la Ley, en las situaciones siguientes:
+
+a) Ante la presencia de la delincuencia organizada o al alto índice delictivo, que amenacen la vida, la libertad, la integridad o el patrimonio de los ciudadanos;
+
+b) Ante la amenaza contra las fuentes de ingresos de las personas, relacionadas con los ciclos productivos, o
+
+c) Ante eventos en los que, por su trascendencia el Comisionado General determine que se requiera de la presencia de esta División para prevenir la comisión de delitos.
+
+Para determinar la existencia de las situaciones a que se refiere esta fracción, se tomará como base, entre otros elementos, el análisis de la información a que hace referencia el artículo 106 Bis, fracción I del presente Reglamento;
+
+II. Implementar, de conformidad con las disposiciones jurídicas aplicables, estrategias integrales para fortalecer la seguridad pública de las personas ante las situaciones a que se refiere la fracción I de este artículo, basadas en el análisis del comportamiento de la criminalidad, considerando las características sociodemográficas, económicas y culturales de las instalaciones, eventos, comunidades, regiones, zonas y rutas en los que se encuentren desplegados sus Integrantes;
+
+III. Proponer programas de vinculación social y de participación ciudadana que permitan llevar a cabo actividades de apoyo a las comunidades en que se encuentren desplegados sus Integrantes;
+
+IV. Proponer y, en su caso, ejecutar acciones táctico operativas de disuasión, reacción, contención y restablecimiento del orden público en las instalaciones, eventos, comunidades, regiones, zonas y rutas en las que se encuentren desplegados sus Integrantes;
+
+V. Supervisar que se realicen las gestiones necesarias ante la Secretaría General para disponer de la infraestructura y el equipamiento que permitan el despliegue operativo itinerante de sus Integrantes y el cumplimiento de sus atribuciones;
+
+VI. Proponer y, en su caso, implementar acciones para brindar seguridad al tránsito de las personas, bienes y servicios en las instalaciones, eventos, comunidades, rutas, regiones o zonas en las que estén desplegados sus Integrantes, en coordinación con las instancias competentes;
+
+VII. Participar, en coordinación con la División de Inteligencia, en la elaboración de métodos de inteligencia que permitan generar estrategias para la prevención e investigación de los delitos;
+
+VIII. Proponer al Comisionado General los protocolos de operación que permitan el desarrollo de sus atribuciones en comunidades indígenas, poblaciones de alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
+
+IX. Participar en auxilio a la población en acciones de protección civil en coordinación con las autoridades competentes.
+
+La División de Gendarmería y las unidades administrativas adscritas a ésta, no se sujetarán a lo dispuesto en el artículo 14 de este Reglamento.
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA GENERAL
 
@@ -1960,6 +2032,42 @@ XVI. Implementar los mecanismos para la homologación, validación y actualizaci
 XVII. Poner a consideración de su superior jerárquico las propuestas relativas al Desarrollo Policial, en el marco del Sistema, de conformidad con las disposiciones aplicables, y
 
 XVIII. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+###### Artículo 39 Bis.
+
+Corresponde a la Coordinación de la Gendarmería:
+
+I. Coordinar y supervisar la implementación de las acciones necesarias para instrumentar el despliegue operativo de los Integrantes de la División de Gendarmería, conforme a los análisis del comportamiento de la criminalidad a que se refiere la fracción II del artículo 17 Bis del presente Reglamento, atendiendo a las prioridades que determinen el Jefe de la División de Gendarmería o el Comisionado General;
+
+II. Desarrollar estrategias que permitan la movilidad de los agrupamientos de la División de Gendarmería, así como su permanencia en las instalaciones, eventos, comunidades, regiones, zonas y rutas en las que se encuentren desplegados, durante el tiempo necesario;
+
+III. Proponer al Jefe de la División de Gendarmería y, en su caso, coordinar operativos y mecanismos de disuasión y de prevención del delito con las autoridades de los tres órdenes de gobierno, en los términos que establece la Ley General, para fortalecer el control territorial en las instalaciones, eventos, comunidades, zonas, rutas y regiones en las que se encuentren desplegados los Integrantes de la División de Gendarmería;
+
+IV. Coordinar las gestiones necesarias ante la Secretaría General para dotar a las unidades operativas de la División de Gendarmería de los recursos humanos, materiales, financieros y tecnológicos necesarios para el cumplimiento de sus atribuciones, en coordinación con las unidades administrativas correspondientes de la Institución;
+
+V. Supervisar que los recursos técnicos y tecnológicos permitan la operación y el desarrollo de las actividades de las unidades administrativas de la División de Gendarmería;
+
+VI. Coordinar la logística de las operaciones de la División de Gendarmería;
+
+VII. Proponer al Jefe de la División de Gendarmería los programas y lineamientos en materia de vinculación y proximidad social de los Integrantes de la División de Gendarmería;
+
+VIII. Participar en la implementación de mecanismos de colaboración con la población y acciones de coordinación con la sociedad civil para la prevención de los delitos;
+
+IX. Implementar mecanismos que permitan generar información para la prevención e investigación de los delitos en las instalaciones, eventos, comunidades, regiones, zonas o rutas a (sic) en las que se encuentren desplegados los Integrantes de la División de Gendarmería;
+
+X. Elaborar los protocolos de operación que permitan el desarrollo de las atribuciones de las unidades administrativas de la División de Gendarmería en comunidades indígenas, poblaciones con alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos;
+
+XI. Brindar seguridad al tránsito de las personas, bienes y servicios en las instalaciones, eventos, comunidades, rutas, regiones y zonas en las que se encuentren desplegados los Integrantes de la División de Gendarmería por el tiempo que se determine, y en coordinación con las instancias competentes;
+
+XII. Coadyuvar, a solicitud de las autoridades competentes, en la implementación de acciones de protección civil y auxilio a la población;
+
+XIII. Coordinar las operaciones de las unidades especiales de la División de Gendarmería;
+
+XIV. Desarrollar acciones que permitan la igualdad sustantiva entre mujeres y hombres de la División de Gendarmería, y
+
+XV. Las demás que le confiera este Reglamento y otras disposiciones jurídicas aplicables, así como aquellas funciones que le encomiende el Jefe de la División de Gendarmería.
 
 APARTADO B
 
@@ -4123,6 +4231,64 @@ XIII. Llevar los registros de los asuntos de su competencia y expedir las copias
 
 XIV. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
 
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+###### Artículo 106 Bis.
+
+Corresponde a la Dirección General de Planeación y Logística de la Gendarmería:
+
+I. Realizar el calendario anual de operaciones de la División de Gendarmería con base en el análisis de la información derivada de las bases de datos de la Institución y el análisis criminológico y sociodemográfico a que se refiere la fracción II del artículo 17 Bis del presente Reglamento;
+
+II. Realizar las gestiones necesarias con la Secretaría General, para dotar a las unidades operativas de la División de Gendarmería los recursos humanos, materiales y financieros necesarios para el cumplimiento de sus atribuciones;
+
+III. Gestionar los recursos técnicos y tecnológicos que permitan la operación y el desarrollo de las actividades de la División de Gendarmería;
+
+IV. Realizar las gestiones necesarias para instrumentar el despliegue de los agrupamientos de la División de Gendarmería, y
+
+V. Las demás que le confieran este Reglamento y otras disposiciones jurídicas aplicables, así como aquellas funciones que le encomiende el inmediato superior de quien dependa.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+###### Artículo 106 Ter.
+
+Corresponde a la Dirección General de Operaciones Estratégicas y Unidades Especiales de la Gendarmería:
+
+I. Dirigir las operaciones a cargo de las unidades especiales de la División de Gendarmería;
+
+II. Colaborar, de conformidad con las disposiciones jurídicas aplicables, con las unidades administrativas competentes de la Institución y otras instituciones policiales de los tres órdenes de gobierno, en las tareas de restablecimiento de la paz y el orden públicos;
+
+III. Verificar que los Integrantes de las unidades especiales de la División de Gendarmería cuenten con los equipos y la tecnología necesaria para el desarrollo de las misiones que le son asignadas, en coordinación con las unidades administrativas correspondientes de la Institución;
+
+IV. Llevar a cabo las políticas, planes y estrategias para la crianza, selección, adiestramiento, capacitación, atención veterinaria, supervisión y baja de los semovientes equinos;
+
+V. Cumplir con los mecanismos de evaluación, certificación y registro de los semovientes equinos, conforme a las disposiciones jurídicas aplicables;
+
+VI. Elaborar los programas de capacitación y profesionalización, en coordinación con la Coordinación del Sistema de Desarrollo Policial, de los Integrantes de las unidades especiales de la División de Gendarmería;
+
+VII. Establecer de conformidad con las disposiciones jurídicas aplicables, vínculos de cooperación e intercambio de información con instituciones homólogas nacionales y extranjeras, y
+
+VIII. Las demás que le confieran este Reglamento y otras disposiciones jurídicas aplicables, así como aquellas funciones que le encomiende el inmediato superior de quien dependa.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+###### Artículo 106 Quáter.
+
+Corresponde a la Dirección General de Proximidad Social de la Gendarmería:
+
+I. Implementar la participación de los Integrantes de la División de Gendarmería en programas, estrategias y acciones en materia de proximidad social;
+
+II. Instrumentar actividades permanentes de apoyo a las comunidades, instalaciones, eventos, rutas, regiones y zonas en las que se encuentren desplegados los Integrantes de la División de Gendarmería;
+
+III. Dirigir, en el ámbito de competencia de la Institución, la participación de los Integrantes de la División de Gendarmería en acciones de coordinación con la sociedad civil para la prevención del delito;
+
+IV. Dar seguimiento a los planteamientos de los distintos actores sociales con los que interactúa la División de Gendarmería;
+
+V. Recabar información de la sociedad civil que permita generar estrategias para la prevención de los delitos;
+
+VI. Verificar que las actividades de los Integrantes de la División de Gendarmería se lleven a cabo mediante protocolos de operación en comunidades indígenas, población con alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
+
+VII. Las demás que le confieran este Reglamento y otras disposiciones jurídicas aplicables, así como aquellas funciones que le encomiende el inmediato superior de quien dependa.
+
 #### SECCIÓN OCTAVA. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 107.
@@ -4193,7 +4359,9 @@ A todo aspirante que ingrese a la Institución, se le asignará un grado jerárq
 
 Los Integrantes de la Institución, para efectos escalafonarios, por la naturaleza de su desarrollo profesional, se agrupan en unidades operativas y de servicios, y se someterán a los programas de capacitación y promociones que señala la Ley, el presente Reglamento y demás disposiciones aplicables.
 
-Se consideran unidades operativas, las previstas en el artículo 5, fracciones II, V, incisos a) al o), IV, VI y VII, incisos 3 al 47 y 61 a 63.
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+Se consideran unidades operativas, las previstas en el artículo 5, fracciones II, IV, V, incisos a) al o) y t), VI y VII, incisos 3 al 47 y 61 al 66.
 
 Se consideran unidades de servicios, las previstas en el artículo 5, fracciones III, V, incisos p) al s), VII, incisos 1, 2 y del 48 al 63.
 
@@ -4229,7 +4397,9 @@ El Comisionado General ejercerá el Alto Mando, entendido éste como la autorida
 
 El Mando Superior en Jefe lo ejercerán los Jefes de División, el Secretario General, quienes ostentarán el grado de Comisario General, y el Titular de la Unidad de Asuntos Internos en el ámbito de su competencia.
 
-El Mando Superior será ejercido por los titulares de las unidades previstas en el artículo 5, fracciones V, VI y VIII, inciso 1, del Reglamento.
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+El Mando Superior será ejercido por los titulares de las unidades administrativas previstas en el artículo 5, fracciones V, VI y VII, inciso 1) del presente Reglamento.
 
 Los Mandos Operativos serán ejercidos por los Directores Generales de la Institución, con la excepción de lo previsto en el párrafo que antecede.
 
@@ -4259,7 +4429,9 @@ En cualquier caso, sólo los Integrantes de la Institución en servicio activo p
 
 En los casos de ausencia temporal o incidental del mando a que se refiere el artículo anterior, la sucesión del mismo se sujetará a las reglas siguientes:
 
-I. En las ausencias del Comisionado General, el despacho y resolución de los asuntos correspondientes a la Institución, estarán a cargo de los Jefes de la División de Inteligencia, de la División de Investigación, de la División de Seguridad Regional, de la División de Fuerzas Federales, de la División Antidrogas, División Científica, Secretario General y Dirección General de Asuntos Jurídicos en el orden mencionado;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+I. En las ausencias del Comisionado General, el despacho y resolución de los asuntos correspondientes a la Institución, estarán a cargo de los Jefes de las Divisiones de Inteligencia, de Investigación, de Seguridad Regional, de Fuerzas Federales, Antidrogas, Científica, de Gendarmería, del Secretario General y del Director General de Asuntos Jurídicos en el orden mencionado;
 
 II. En ausencia del Jefe de la División de Seguridad Regional, el mando lo desempeñará el titular de las áreas de Personal, de Información, de Operaciones, de Logística y Adiestramiento, de Planes y Supervisión, en el orden mencionado;
 
@@ -4869,9 +5041,13 @@ I. Un Presidente, que será el Comisionado General;
 
 II. Un Secretario General, que será el titular de la Secretaría General de la Institución;
 
-III. Un Consejero, que será el titular del Órgano Interno de Control;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
 
-IV. Un Consejero que será el titular de la Unidad Jurídica de la Secretaría;
+III. El titular del Órgano Interno de Control en la Institución;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+IV. El titular de la Dirección General de Apoyo Jurídico adscrito al Comisionado Nacional de Seguridad;
 
 V. Un Consejero, que será el titular de la División de Seguridad Regional;
 
@@ -4883,9 +5059,17 @@ VIII. Un Consejero que será el titular de la División Científica;
 
 IX. Un Consejero que será el titular de la División Antidrogas;
 
-X. Un Consejero que será el titular de la División de Fuerzas Federales, y
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
 
-XI. Un Consejero que será el titular de la Dirección General de Asuntos Jurídicos.
+X. Un Consejero que será el titular de la División de Fuerzas Federales;
+
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+XI. Un Consejero que será el Titular de la División de Gendarmería, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 2014)</small>
+
+XII. Un Consejero que será el titular de la Dirección General de Asuntos Jurídicos.
 
 Los integrantes del Consejo Federal serán de carácter permanente y se podrá designar un suplente permanente que deberá tener, al menos, el cargo de Director General Adjunto y el grado de Inspector General.
 
@@ -5230,3 +5414,13 @@ SÉPTIMO.- Se abroga el Reglamento de la Policía Federal Preventiva publicado e
 OCTAVO.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto de la Secretaría de Seguridad Pública. En tal virtud, no se requerirán recursos adicionales para tales efectos en el presente ejercicio, ni se incrementará su presupuesto regularizable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a trece de mayo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Gobernación deberá llevar a cabo los ajustes correspondientes, a efecto de prever las erogaciones que correspondan al funcionamiento y operación de la División de Gendarmería.
+
+TERCERO.- El órgano administrativo desconcentrado Policía Federal realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable para el presente ejercicio fiscal.
