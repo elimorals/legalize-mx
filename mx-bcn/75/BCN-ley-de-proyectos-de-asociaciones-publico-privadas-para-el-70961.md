@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proyectos-de-asociaciones-publico-privadas-para-el-70961
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-30"
-last_updated: "2013-02-15"
+last_updated: "2014-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PROYECTOS DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 22 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de octubre de 2009.
 
@@ -53,7 +55,7 @@ II.- Asociación Público-Privada: a cualquier forma de participación del secto
 
 III.- Comisión: la Comisión Interinstitucional para las Asociaciones Público- Privadas;
 
-IV.- Entidad Contratante: al Ejecutivo del Estado, Entídades Paraestatales, Municipios del Estado y a las Entidades Paramunicipales, en los términos de la presente Ley;
+IV.- Entidad Contratante: al Ejecutivo del Estado, Entidades Paraestatales, Municipios del Estado y a las Entidades Paramunicipales, en los términos de la presente Ley;
 
 V.- Inversionista Proveedor: la persona física o moral que con base en esta ley celebre un contrato con una Entidad Contratante con el objeto (sic) diseñar, financiar, construir, equipar, operar y/o explotar infraestructura pública o privada o prestar servicios públicos, para el cumplimiento de los fines que sean competencia del Estado o de sus Municipios;
 
@@ -254,3 +256,13 @@ JOSÉ FRANCISCO BLAKE MORA.
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Proyectos de Asociaciones Público Privadas para el Estado de Baja California, publicada en el Periódico Oficial del Estado No. 48, de fecha 30 de octubre de 2009, Tomo CXVI, Sección II.
+
+TERCERO.- Los Proyectos de Asociación Público Privadas que estén en operación a la fecha de la entrada en vigor del presente Decreto, serán substanciados conforme a las disposiciones de la Ley anterior.
+
+CUARTO.- El Ejecutivo del Estado deberá emitir el reglamento respectivo dentro de un plazo de noventa días a partir de la vigencia del presente Decreto.
