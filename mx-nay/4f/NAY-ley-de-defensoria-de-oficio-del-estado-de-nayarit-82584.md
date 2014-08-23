@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-defensoria-de-oficio-del-estado-de-nayarit-82584"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-13"
-last_updated: "2011-08-13"
+last_updated: "2014-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE DEFENSORIA DE OFICIO DEL ESTADO DE NAYARIT
 
-LEY DE DEFENSORIA DE OFICIO DEL ESTADO DE NAYARIT
+LEY DE DEFENSORÍA DE OFICIO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y CUARTO DE LA LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LA ENTRADA EN VIGOR CONDICIONADA A LA IMPLEMENTACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DEL ESTADO PREVIA SOLICITUD CONJUNTA DE LAS AUTORIDADES ENCARGADAS DE LA IMPLEMENTACIÓN DE DICHO SISTEMA, SALVO LO DISPUESTO EN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Cuarta, del Periódico Oficial del Estado de Nayarit, el sábado 13 de agosto de 2011.
 
@@ -424,3 +426,23 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Ho
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Sucio, Secretaria.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario. Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los doce días del mes de agosto del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno.- Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2014.
+
+Primero.- La presente ley deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y su entrada en vigor estará condicionada a la implementación del Sistema Procesal Penal Acusatorio, en los términos que establezca la declaratoria que al efecto emita el Congreso del Estado previa solicitud conjunta de las autoridades encargadas de la implementación de dicho sistema, salvo lo dispuesto en los artículos segundo y tercero transitorios.
+
+Segundo.- En tratándose de los servicios de asesoría y representación jurídica en materia de jurisdicción administrativa que conforme a esta ley debe proporcionar el Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Nayarit, ésta entrará en vigor a partir del 19 de Diciembre de 2014, en tanto, el Tribunal de Justicia Administrativa del Estado de Nayarit seguirá proporcionando los servicios de defensoría en la materia.
+
+Una vez consumada la extinción del Tribunal de Justicia Administrativa del Estado de Nayarit, conforme a la fracción I del Artículo Segundo Transitorio del Decreto que Reforma Diversas Disposiciones de la Constitución Política del Estado Libre y Soberano de Nayarit en materia de jurisdicción administrativa, publicado el día 05 de Abril del 2014 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Nayarit asumirá la continuidad de los asuntos que hasta la fecha estuvieren en trámite ante los Defensores de lo Administrativo. Para los efectos conducentes el Director General del Instituto y el encargado de la Unidad de Defensores de lo Administrativo deberán realizar las acciones necesarias para garantizar la continuidad en la asistencia jurídica de los asuntos en trámite.
+
+Tercero.- El Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Nayarit deberá poner en operación el Servicio Profesional de Carrera a que refiere el Título Quinto de la presente ley, en un plazo no mayor a un año, contado a partir de su entrada en vigor.
+
+Cuarto.- A la entrada en vigor del presente ordenamiento, se abroga la Ley de Defensoría de Oficio del Estado de Nayarit publicada el 13 de agosto del 2011 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Quinto.- El reglamento de esta ley deberá ser expedido en un plazo no mayor de 180 días naturales contados a partir de su entrada en vigor.
+
+Sexto.- El Instituto de Defensoría Pública y Asistencia Jurídica del Estado de Nayarit seguirá ejerciendo los recursos financieros y materiales asignados a la Dirección General de Defensoría de Oficio; asimismo quedan a salvo los derechos laborales adquiridos por los servidores públicos de dicha institución.
+
+Para el caso de los trabajadores sindicalizados que estuvieren laborando a la entrada en vigor de la presente ley, la relación laboral y demás temas relacionados con la permanencia, cambio de adscripción y terminación de los efectos del nombramiento, se estará a lo dispuesto por la legislación de la materia.
