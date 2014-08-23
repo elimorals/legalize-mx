@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2014-07-26"
+last_updated: "2014-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2405,6 +2405,10 @@ VI. Las leyes determinarán la manera en que los sujetos obligados deberán hace
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos que establezcan las leyes, el cual estará constituido como un organismo autónomo, especializado, imparcial y colegiado, que estará integrado y tendrá las atribuciones señaladas en la ley de la materia.
+
 ###### Artículo 2°.
 
 El Estado es libre y soberano en su régimen interior, pero unido a las demás partes integrantes de la federación establecida en la Constitución General de la República.
@@ -3270,6 +3274,12 @@ Por lo que respecta al inicio de vigencia de las normas jurídicas relativas al 
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la reforma del sistema de justicia penal y de seguridad pública del Estado, a través de las erogaciones plurianuales que deberán señalarse en forma expresa en el Presupuesto General de Egresos del Estado del ejercicio presupuestal inmediato siguiente a la entrada en vigor del presente Decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones plurianuales deberán aplicarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura y la capacitación necesarias.
+
+P.O. 23 DE AGOSTO DE 2014.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 371 ES DE APROBARSE Y SE APRUEBA ADICIONAR UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1° BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
