@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2014-06-21"
+last_updated: "2014-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -247,9 +247,11 @@ IV. Tratándose de parcelas ejidales, se causará un impuesto anual por derecho 
 
 En los casos de las parcelas afectadas por el levantamiento de predios efectuada por el INEGI, las diferentes fracciones de un contribuyente se sumarán generando el impuesto equivalente a una parcela ejidal. Este impuesto deberá cubrirse durante el primer bimestre del año.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
 ###### ARTICULO 14.
 
-Tratándose de cementerios privados, el impuesto a pagar durante el año, se liquidará sobre el valor catastral el día primero de enero del ejercicio de que se trate. A este efecto durante el primer mes de cada año los sujetos del impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior. El pago así realizado no libera de obligaciones fiscales anteriores.
+Tratándose de cementerios privados, el impuesto a pagar durante el año, se liquidará conforme al valor catastral que ostente al día primero de enero del ejercicio fiscal de que se trate. A este efecto durante el primer mes de cada año los sujetos del impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior. El pago así realizado no libera de obligaciones fiscales anteriores.
 
 #### SECCION SEXTA. DEL PAGO
 
@@ -3409,6 +3411,10 @@ VI. Las personas físicas o morales que instalen o tengan instalados aparatos de
 
 VII. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+Las personas que acrediten ser discapacitados permanentes estarán exentas del pago de este derecho; previa solicitud a la Tesorería Municipal; siempre que se cuente con la viabilidad de la dirección de tránsito municipal.
+
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2013)</small>
 
 VIII. Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 0.50 a 1.00
@@ -4426,3 +4432,7 @@ P.O. 5 DE ABRIL DE 2014.
 P.O. 21 DE JUNIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
