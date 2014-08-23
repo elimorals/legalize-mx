@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-07-12"
+last_updated: "2014-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3069,6 +3069,422 @@ ART. 427.- En los casos a que se refiere la Fracción I del Artículo anterior, 
 
 ART. 428.- El auto en que se declara que una sentencia ha causado o no ejecutoria es apelable en el efecto devolutivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE TÍTULO, VÉASE TERCERO TRANSITORIO DEL DECRETO NÚMERO 368, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2014 REFERENTE A LA ENTRADA EN VIGOR DE LAS DISPOSICIONES RELATIVAS AL PROCEDIMIENTO ORAL FAMILIAR EN EL PRIMER PARTIDO JUDICIAL, ÚNICAMENTE POR LO QUE VE A ASUNTOS NO CONTROVERTIDOS; Y AL PONER EN PRÁCTICA TALES DISPOSICIONES, DEBERÁ EMITIR PREVIAMENTE UNA DECLARATORIA QUE SE PUBLICARÁ EN EL PERIÓDICO OFICIAL DEL ESTADO, EN UNO DE LOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD Y EN LOS DEMÁS ÓRGANOS DE DIFUSIÓN QUE SE CONSIDEREN NECESARIOS, EN LA QUE SE SEÑALE EXPRESAMENTE LA FECHA CORRESPONDIENTE.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+### CAPITULO I. Del procedimiento oral
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS.- Se tramitarán a través del procedimiento oral, las siguientes cuestiones familiares:
+
+I. El divorcio por mutuo consentimiento;
+
+II. Jurisdicción Voluntaria excepto tratándose de Información Ad Perpetuam, Diligencias de Apeo y Deslinde, Adopciones, Consignaciones de Pago y la declaración de estado de interdicción; y
+
+III. Rectificación y Nulidad de actas del Registro Civil;
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 1.- El procedimiento oral en general se realizará fundamentalmente con base en los principios de inmediación, abreviación, publicidad, contradicción, concentración y continuidad. En lo no previsto en este Título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones generales de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 2.- La demanda y/o solicitud de cualquier prestación que se tramite por la vía del procedimiento oral deberán presentarse por escrito y reunirán los requisitos siguientes:
+
+I. El juez ante el que se promueve;
+
+II. El nombre y apellidos del actor o solicitante, así como el domicilio que señale para oír y recibir notificaciones;
+
+III. El nombre y apellidos del demandado o interesado llamado al procedimiento, así como su domicilio;
+
+IV. Acreditará la relación causal de la o las prestaciones que reclama, así como los hechos en que funde su petición exponiéndolos con claridad en los cuales precisará los documentos públicos o privados que tengan relación con cada hecho, así como si los tiene a su disposición. De igual manera proporcionará los nombres, apellidos y el domicilio de los testigos que hayan presenciado los hechos relativos;
+
+V. Los fundamentos de derecho y la clase de acción procurando citar los preceptos legales o principios jurídicos aplicables;
+
+VI. El ofrecimiento de las pruebas que el actor o solicitante pretenda rendir en el juicio; y
+
+VII. La firma del promovente o de su representante legítimo. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando éstas circunstancias.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 3.- Si la demanda o solicitud fueren obscura o irregular, o no cumplieran con alguno de los requisitos que señala el artículo anterior, el juez señalará, con toda precisión, en qué consisten los defectos de la misma, en el proveído que al efecto se dicte, lo que se hará por una sola ocasión.
+
+El actor o solicitante deberán cumplir con la prevención que haga el juez, en un plazo máximo de tres días y, en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda o solicitud con la que se haya formado el expediente respectivo.
+
+En tratándose de asuntos que involucren menores, dichas omisiones serán subsanadas de manera oficiosa.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 4.- En los escritos de demanda o solicitud y contestación, y en su caso de reconvención y contestación a ésta, las partes ofrecerán sus pruebas expresando el hecho o hechos que se tratan de demostrar, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este párrafo, así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del artículo 95 de este Código.
+
+El juez no admitirá pruebas que sean contrarias al derecho o la moral; que se hayan ofrecido extemporáneamente; las que se refieran a hechos no controvertidos o ajenos a la litis, o bien sobre hechos imposibles o notoriamente inverosímiles. Si las partes incumplen los requisitos anteriores, el juez desechará las pruebas.
+
+Las pruebas documentales que se presenten fuera de término serán admitidas en cualquier estado del juicio hasta antes de concluir la audiencia de juicio oral, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria en ese momento para que manifieste lo que a su derecho convenga, resolviéndose de forma inmediata.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 5.- Admitida la demanda o solicitud, así como las pruebas ofertadas por la parte actora o solicitante, en el caso que proceda, el juez ordenará el emplazamiento correspondiente a la parte contraria conforme a las reglas establecidas en el artículo 116 BIS del presente Código, lo que deberá efectuarse a la brevedad, corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que dentro del plazo de cinco días entregue su contestación y ofrezca sus pruebas por escrito.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 6.- El escrito de contestación se formulará ajustándose a los términos previstos para la demanda o solicitud. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 7.- El demandado o interesado llamado al procedimiento al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, ésta se notificará personalmente a la parte contraria para que la conteste en un plazo de cinco días. Si no se admite, el juez pronunciará únicamente un acuerdo para enterar a la parte que la solicitó sobre la reserva del derecho.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 8.- El demandado o interesado llamado al procedimiento podrá allanarse a la demanda; en este caso el juez citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de cinco días, en la que se dictará la sentencia respectiva.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 9.-Transcurrido el plazo fijado para contestar la demanda o solicitud y, en su caso, la reconvención, sin que lo hubiere hecho y sin que medie petición de parte, de ser procedente se declarara la rebeldía a la parte demandada o interesado llamado a juicio.
+
+El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al interesado llamado al procedimiento en forma legal. Si el juez encontrara que el emplazamiento no se hizo conforme a la ley, mandará reponerlo.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 10.- Contestada la demanda o solicitud, en su caso, la reconvención, o transcurridos los plazos para ello, el juez, al admitir las pruebas, de ser necesario solicitará los informes y enviará los exhortos para el desahogo de aquellas probanzas que lo requieran, dejará a disposición de las partes las citaciones, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
+
+En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, el juez fijará en el auto correspondiente, fecha y hora a fin de que dentro de los tres días siguientes al de la admisión de la prueba, se constituyan en el local del tribunal la persona y/o personas que deberán estampar la firma, así como los peritos nombrados, a fin de determinar mediante la pericial los rasgos caligráficos o cuerpo de escritura, debiendo exhibir su dictamen y estar presentes en la audiencia de juicio.
+
+Si no compareció quien debe firmar o escribir, o el oferente de la prueba, o el perito de alguna de las partes, sin causa justificada, se les impondrá una medida de apremio consiste (sic) en una multa hasta por cuarenta días de salario mínimo vigente en la entidad al momento de la comparecencia, señalando por una sola ocasión nueva fecha para el desahogo de ésta, en el entendido que de no comparecer el oferente o el perito ofrecido de sus (sic) parte, dicha probanza será declarada desierta por falta de interés jurídico, pero en caso de que no comparezca la contraparte, ésta quedará supeditada al dictamen que emita el perito de la oferente.
+
+Finalmente, de inmediato se señalará la fecha y hora para la celebración de la audiencia correspondiente, la que deberá fijarse dentro de los quince días siguientes.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+## TITULO SEXTO BIS. Del procedimiento oral familiar
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+### CAPITULO II. De las audiencias
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+### CAPITULO III. De los incidentes
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 55.- Los incidentes que no tengan tramitación especial podrán promoverse oralmente hasta antes que se declare visto para sentencia el asunto y de no hacerlo, se tendrá por precluido su derecho.
+
+Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en la misma audiencia, de considerar que se encuentran preparadas, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución incidental.
+
+Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente.
+
+Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
+
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 11.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 112 bis de este código.
+
+Se exceptúa de lo anterior, el divorcio por mutuo consentimiento, en el cual, las partes deberán comparecer personalmente a la audiencia de juicio.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual (sic) el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 13.- Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, las propuestas que en su momento se hubieran formulado con motivo de un método alterno hecho valer.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 14.- Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, videograbadas por personal técnico adscrito al Poder Judicial del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 15.- La nulidad de una actuación deberá reclamarse en la audiencia de juicio, antes de que el juez pronuncie su sentencia, de no hacerlo así, quedará validada de pleno derecho.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 16.- La resolución judicial pronunciada en la audiencia se tendrá por notificada en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron estarlo.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 17.- Las audiencias serán presididas por el juez con intervención del Agente del Ministerio Público Adscrito y en su caso del personal especializado que corresponda, en aquellos casos en los que sea necesaria su presencia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 18.- El juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en cada una de ellas.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del juez en materia de conciliación y/o mediación.
+
+Una vez que los testigos, peritos o partes concluyan su intervención, a petición de ellos podrán ausentarse del recinto oficial cuando el juez lo autorice.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 19.- Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos.
+
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el juez podrá suspenderla o diferirla, y deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible, y ordenar su reanudación cuando resulte pertinente.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 20.- Para producir fe, las audiencias se registrarán por medios electrónicos, o cualquier otro idóneo a juicio del juez, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley, tuvieren derecho a ella.
+
+Al inicio de las audiencias, el secretario del juzgado hará constar oralmente en el registro a que se hace referencia en el párrafo anterior la fecha, hora y lugar de realización, el nombre de los servidores públicos del juzgado, y demás personas que intervendrán.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán ante el juez rendir protesta de que se conducirán con verdad, misma que será tomada por el juzgador competente; siendo apercibidas las partes por el secretario de acuerdos de las penas en que incurren quienes declaran con falsedad, de conformidad con lo establecido en el Código Penal vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 21.- Al terminar las audiencias, se levantará acta que deberá contener, cuando menos:
+
+I.- El lugar, la fecha y el expediente al que corresponde;
+
+II.- El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III.- Una relación sucinta del desarrollo de la audiencia, y
+
+IV.- La firma del juez y secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 22.- El secretario del juzgado deberá certificar el medio en donde se encuentre registrada la audiencia respectiva, identificarlo con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 23.- Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior, debiendo el litigante cubrir solamente el costo que origine el material en el cual se reproducirá.
+
+Tratándose de copias simples, el juzgado debe expedir sin demora alguna aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente y se asiente constancia de ello. Lo anterior con excepción de los casos señalados en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 24.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del artículo 428 bis 22 de este código. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 25.- En el tribunal estarán disponibles los instrumentos y el personal necesarios para que las partes tengan acceso a los registros del procedimiento, a fin de conocer su contenido.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION SEGUNDA. De la audiencia de procedimiento no controvertido
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 26.- La audiencia de trámite tiene por objeto:
+
+I.- La conciliación y/o convenio de las partes;
+
+II.- La depuración del procedimiento;
+
+III.- La fijación de acuerdos probatorios;
+
+IV.- La fijación de acuerdos sobre hechos no controvertidos;
+
+V.- Desahogo de pruebas;
+
+VI.- Formulación de alegatos;
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 27.- La audiencia de trámite se llevará a cabo con o sin la asistencia de las partes en los casos de la fracción III del artículo 428 BIS.
+
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 28.- El juez incitará a las partes o los interesados a través de los medios alternos a llegar a un convenio, de no lograrlo, examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 29.- El juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
+
+En caso de que las partes no lleguen a un acuerdo probatorio, el juez determinará la forma en que deberán prepararse las pruebas para su desahogo, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente, excepto en los casos previstos en el último párrafo del artículo 428 BIS 3. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este Código.
+
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones al momento de tener por admitidas las pruebas, quedando supeditadas las partes a fin de que alleguen al juzgado competente cuando menos con cinco días de anticipación a la celebración de la audiencia de juicio, los dictámenes de sus correspondientes expertos, ello con la finalidad de que en caso de ser necesario, el juzgador realice el nombramiento del perito tercero en discordia, para presentar su dictamen antes del dictado de la sentencia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 30.- Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 31.- Se procederá al desahogo de las pruebas que se encuentren debidamente admitidas y preparadas en el orden que el juez estime pertinente. Al efecto, contará con las más amplias facultades de dirección procesal; dejando de recibir las que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación de las pruebas admitidas, salvo aquellos casos previstos en el artículo 305 de este Código.
+
+El juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan, y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio a que se refiere el artículo 73 de este Código.
+
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos, pudiendo limitar el juez atento a las circunstancias del asunto el tiempo a cada una de las partes.
+
+Enseguida, se declarara el asunto visto, dictado (sic) en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o, en su defecto, si se señala fecha para la continuación de la audiencia dentro del término de tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 32.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos, estando o no presentes las partes o interesados.
+
+Acto seguido quedará a disposición de las partes copia simple de la sentencia que se pronuncie.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 33.- En el procedimiento oral solo será apelable la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento, con independencia de su naturaleza, el cual deberá admitirse en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 34.- La ejecución de la sentencia o convenios se tramitará conforme a las reglas establecidas en este código.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION TERCERA. Del divorcio por mutuo consentimiento en materia de oralidad
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 35.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta (sic) matrimonio o en su defecto de la relación conyugal que los une, así como las correspondientes actas de nacimiento de los hijos menores, el juez al considerar que la solicitud de divorcio satisface los requisitos, señalará fecha para el desahogo de la audiencia de juicio dentro de los siguientes diez días de su radicación. Dando vista al agente del ministerio público adscrito a fin de que dentro del término de tres días manifieste lo que a su representación social corresponda en lo relacionado con los derechos de los menores.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 36.- Al inicio de la audiencia, el Juez exhortará a los interesados para procurar su reconciliación. Si se logró el avenimiento, el Juez archivará el asunto como concluido; en caso contrario, oyendo al representante del Ministerio Público, se analizarán los puntos del convenio relativos a la situación de los hijos menores, a los alimentos de aquellos y de los que en su caso un cónyuge deba dar a otro mientras dure el procedimiento o después de concluido.
+
+Acto continuo se procederá a la aprobación del convenio, pronunciando la resolución correspondiente en la audiencia.
+
+Si cualquiera de los cónyuges no asisten a la audiencia sin causa justificada antes de su inicio, se dará por terminada la instancia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 37.- Si el convenio no contiene todos los puntos enumerados en el artículo 273 del Código Civil o no están expresados claramente, al admitir la solicitud el juez prevendrá a los solicitantes para que en el plazo de tres días precisen y aclaren, apercibiéndolos de que si no lo hacen de común acuerdo, se les tendrá por desistidos de su solicitud de divorcio.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 38.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 39.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio o, en su defecto la relación conyugal, para proceder conforme a lo (sic) establecen los artículos 114 y 291 del Código Civil del Estado.
+
+Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modificación del convenio se plantearán ante el juzgador competente de conformidad a lo establecido en el título décimo sexto de este código.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION CUARTA. De la jurisdicción voluntaria en materia de oralidad
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ARTICULO 428 BIS 40.- Presentada la solicitud el juez de oralidad competente, señalará dentro de los diez días siguientes fecha para el desahogo de la audiencia en la cual, examinará las cuestiones relativas a la legitimación procesal y con la intervención del representante del Ministerio Público, en los casos que corresponda, procederá al desahogo de las pruebas o diligencias.
+
+Enseguida, se declarara el asunto visto, dictado en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o en su defecto, si señala fecha para la continuación de la audiencia dentro del término de cinco días siguientes.
+
+Si los promoventes no asisten a la audiencia sin causa justificada, antes de su inicio, se dará por terminada la instancia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION QUINTA. De las audiencias del procedimiento controvertido
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 41.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 112 bis de este código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 42.- La primera de las audiencias denominada conciliatoria será desahogada por el secretario de acuerdos, en tanto que las audiencias preliminar y de juicio serán presididas por el juez.
+
+Previo a que se efectúe la audiencia conciliatoria, en los asuntos donde se involucren menores, el juez llevará a cabo una plática con éstos, en la que intervendrá el agente del ministerio público y un experto en psicología, quienes fungirán como representantes del o los menores. Una vez concluida dicha plática, el secretario de acuerdos iniciará la audiencia conciliatoria únicamente con las partes, sin intervención de menores y sin la asistencia de sus asesores legales, estando presente únicamente el agente del ministerio público adscrito, debiendo levantar al finalizar en cada una de las audiencias las actas correspondientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION SEXTA. De la audiencia conciliatoria
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 43.- La audiencia conciliatoria tiene por objeto:
+
+I.- La presencia del menor y/o menores involucrados con el juez, quien en dicho acto se hará acompañar del ministerio público y psicólogo experto, quienes escucharán al o los menores, con el fin de obtener una valoración real, certera y propicia de su estado psico-emocional respecto del conflicto que sustentan sus padres, resultado que coadyuvará al momento en que el juzgador emita su sentencia correspondiente.
+
+II.- Las partes involucradas en el asunto, serán escuchadas por el secretario de acuerdos, quien en compañía del ministerio público, a través de los medios alternos buscarán la mejor solución para el conflicto, de lograrlo, en el acto se elaborará el convenio, dándole intervención a los representantes legales de las partes, solo para su conocimiento y perfeccionamiento de algunos puntos, para posteriormente ser ratificado ante la presencia judicial, elevándose a la categoría de sentencia ejecutoriada, archivándose el asunto.
+
+De no lograr la solución al conflicto, en el acto, el secretario de acuerdos fijará fecha dentro de los diez a quince días siguientes para el desahogo de la audiencia preliminar, quedando debidamente notificadas las partes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION SEPTIMA. De la audiencia preliminar
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 44.- La audiencia preliminar tiene por objeto:
+
+I.- La depuración del procedimiento;
+
+II.- La conciliación y/o mediación de las partes por conducto del juez;
+
+III.- La fijación de acuerdos probatorios;
+
+IV.- La fijación de acuerdos sobre hechos no controvertidos;
+
+V.- La calificación sobre la admisibilidad de las pruebas, y
+
+VI.- La citación para audiencia de juicio.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 45.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
+
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 46.- El juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 47.- En caso de que resulten improcedentes las excepciones procesales, o si no se opone alguna, el juez procurará la conciliación entre las partes, haciéndoles saber los beneficios de llegar a un convenio proponiéndoles soluciones. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada. En caso de desacuerdo, el juez proseguirá con la audiencia.
+
+Las partes no podrán invocar, en ninguna etapa procesal, antecedente alguno relacionado con la proposición, discusión, aceptación, ni rechazo de las propuestas de conciliación y/o mediación.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 48.- El juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
+
+En caso de que las partes no lleguen a un acuerdo probatorio, el juez determinará la forma en que deberán prepararse las pruebas para su desahogo, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente, excepto en los casos previstos en el último párrafo del artículo 428 BIS 3. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este Código.
+
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones al momento de tener por admitidas las pruebas, quedando supeditadas las partes a fin de que alleguen al juzgado competente cuando menos con cinco días de anticipación a la celebración de la audiencia de juicio, los dictámenes de sus correspondientes expertos, ello con la finalidad de que en caso de ser necesario, el juzgador realice el nombramiento del perito tercero en discordia, para presentar su dictamen antes del dictado de la sentencia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 49.- Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 50.- En el mismo proveído, el juez fijará fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del lapso de diez a veinte días.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
+
+#### SECCION OCTAVA. De la audiencia de juicio
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 51.- Abierta la audiencia el juez por última ocasión incitará a las partes a fin de que resuelvan su controversia mediante un convenio judicial, de no lograrlo, se procederá al desahogo de las pruebas que se encuentren debidamente preparadas en el orden que el juez estime pertinente. Al efecto, contará con las más amplias facultades de dirección procesal; dejando de recibir las que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas, salvo en aquellos casos expresamente determinados en este Código, por caso fortuito o de fuerza mayor.
+
+El juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio a que se refiere el artículo 73 de este Código.
+
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos.
+
+Enseguida, se declarara el asunto visto, dictado en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o en su defecto, si señala fecha para la continuación de la audiencia dentro del término de cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 52.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos.
+
+Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito.
+
+En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado persona alguna, se dispensará la lectura de la misma.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 53.- En el procedimiento oral solo será apelable la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento, con independencia de su naturaleza, el cual deberá admitirse en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ART. 428 BIS 54.- La ejecución de la sentencia o convenios se tramitará conforme a las reglas establecidas en este código.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE AGOSTO DE 2014)</small>
+
 ### CAPITULO I
 
 De los juicios sumarios.
@@ -3167,6 +3583,106 @@ ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
 
+## TITULO OCTAVO. Del Juicio Arbitral
+
+Reglas Generales
+
+ART. 608.- Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
+
+ART. 609.- El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
+
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
+
+ART. 610.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
+
+ART. 611.- Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
+
+ART. 612.- Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
+
+ART. 613.- Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
+
+ART. 614.- No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos;
+
+II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
+
+III.- Las acciones de nulidad de relaciones conyugales
+
+IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
+
+V.- Los demás en que lo prohíba expresamente la ley.
+
+ART. 615.- El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial, como se previene en los medios preparatorios.
+
+ART. 616.- El compromiso será válido aunque no se fije el término del juicio arbitral, y, en este caso, la misión de los árbitros durará cien días, si se tratare de juicio ordinario y sesenta días si el negocio fuere sumario. El plazo se cuenta desde que se acepte el nombramiento.
+
+ART. 617.- Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
+
+ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
+
+Las partes podrán renunciar a la apelación.
+
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
+
+ART. 619.- El compromiso produce las excepciones de competencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
+
+ART. 620.- Cuando hay árbitro único, las partes son libres de nombrarle un secretario, y si dentro del tercer día, empezando desde aquél en que deba de actuar, no se han puesto de acuerdo, el árbitro los designará y a costa de los mismos interesados desempeñará sus funciones.
+
+Cuando fueren varios los árbitros, entre ellos mismos elegirán el que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
+
+ART. 621.- El compromiso termina:
+
+I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro, sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
+
+II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
+
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 616.
+
+ART. 622.- Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
+
+ART. 623.- Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
+
+ART. 624.- El laudo será firmado por cada uno de los árbitros, y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
+
+ART. 625.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de primera instancia.
+
+ART. 626.- Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
+
+ART. 627.- Los árbitros decidirán según las reglas del derecho, a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
+
+ART. 628.- De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
+
+ART. 629.- Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
+
+ART. 630.- Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aún imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+
+ART. 631.- Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+
+Para la ejecución de autos y decretos se acudirá también al juez de Primera Instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Supremo Tribunal, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
+
+ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo que se refiera a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje; y si hubiere varios jueces, el de número más bajo.
+
+ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
+ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+
 ### CAPITULO II. De los juicios por alimentos
 
 ART. 439 A.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
@@ -3186,6 +3702,306 @@ ART. 439 G.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 ART. 439 H.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+### CAPITULO VII (SIC). De los interdictos
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440.- Los juicios que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el Artículo 353 del Código Civil, de retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrezca riesgo, las medidas conducentes a precaver el daño, se tramitarán con sujeción a las reglas generales de los juicios sumarios y a las especiales siguientes:
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 A.- Los jueces deberán tramitar los juicios a que se refiere el Artículo anterior con preferencia a todos los demás sumarios, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 B.- Los interdictos no pueden acumularse al juicio de propiedad y deberán decidirse previamente.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 C.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre el derecho de la posesión.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 D.- Los interdictos no se ocuparán de las cuestiones de propiedad y de posesión definitivas.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 E.- El que ha sido vencido en el juicio de propiedad plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 F.- El vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 G.- No procede el interdicto de obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 H.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+(ADICIONADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
+
+ART. 440 I.- Cuando al promover el incidente de obra nueva se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante, ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo apercibimiento de que será demolida en caso de desobediencia, a costa del propietario.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 J.- La suspensión a que se refiere el Artículo anterior podrá levantarse a solicitud del demandado, sin perjuicio de lo que se resuelva en la sentencia, si da fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 K.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 L.- Los incidentes a que se refieren los dos artículos anteriores, se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán otro recurso que el de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 LL.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se impida el curso o disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 M.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba del mal olor o por causa de los materiales que se arrojen en su finca o en la calle. En los casos a que este Artículo se refiere, se procederá como determinen los reglamentes administrativos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 N.- En el caso del Artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 Ñ.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito, dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aún al inquilino por cuenta de renta; en defecto de esto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar al dueño los gastos que se ocasionen.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 O.- Una vez resuelto sobre las peticiones a que se refieren el Artículo 440 Ñ no habrá más recurso que el de responsabilidad; contra la que las nieguen procederá el de queja.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 P.- En los interdictos la sentencia deberá precisar sus efectos para el mejor éxito de la protección posesoria.
+
+Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo la suspensión de las obras, así lo determinará.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 Q.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 440 R.- Cuando se sentencie la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 441.- Las reglas del juicio ordinario y en especial las del capítulo VI del título sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente capítulo.
+
+No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 429. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
+
+No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
+
+Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 429 son inapelables.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
+### CAPITULO III. Del juicio ejecutivo
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
+### CAPITULO IV. Del juicio hipotecario
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 467.- Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado, según corresponda en los términos de la legislación común, e inscrito en el Registro Público de la Propiedad y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 468.- Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
+
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen a favor de tercero, inscrito cuando menos noventa días anteriores al de la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 469.- Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, la admitirá y mandará anotarla en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para que dentro del término de cinco días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+III.- Nulidad del contrato;
+
+IV.- Pago o compensación;
+
+V.- Remisión o quita;
+
+VI.- Oferta de no cobrar o espera;
+
+VII.- Novación de contrato;
+
+VIII.- Litispendencia y conexidad; y
+
+IX.- Cosa juzgada.
+
+Las excepciones comprendidas en las fracciones de la IV a la VII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhiben con la contestación las copias selladas de la demanda y contestación de ésta o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral; tratándose de la cosa juzgada se deberá acompañar como prueba, copia de la sentencia y del auto que la declaró ejecutoriada.
+
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquéllas en que sea necesario exhibir documento y el mismo no se acompañe, salvo los casos a que se refieren los Artículos 96 y 98 de este Código.
+
+La reconvención sólo será procedente cuando se funde en el documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, y resolverá de acuerdo a las proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 470.- Tanto en la demanda como en la contestación a la misma, y en su caso en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretenden probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga a las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva.
+
+Una vez que haya sido contestada la demanda o transcurrido el plazo para ello, se señalará fecha para la celebración de la audiencia que deberá fijarse dentro de los veinticinco días siguientes.
+
+En el caso de allanamiento total a la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza el pago de la cantidad reclamada, dentro del plazo que se haya fijado conforme a lo dispuesto en el último párrafo del artículo anterior, se pronunciará inmediatamente sentencia definitiva.
+
+Si hubiere reconvención se correrá traslado de ésta a la actora para que la conteste dentro de los cinco días siguientes.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 471.- Si en el título con base en el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 472.- Para el efecto de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el registro.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 473.- Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 474.- Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 475.- Desde el día del emplazamiento, contra el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará (sic) por los medios de apremio que le autoriza la ley.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 476.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 600, PUBLICADO EN EL P.O. 8 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos físicos o electrónicos, que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de éste ordenamiento.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento de imponerles una multa de uno a cien días de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, o un arresto hasta de treinta y seis horas, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 478.- El juez debe presidir la audiencia, que se iniciará resolviendo todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no fuera posible desahogarlas por causas no imputables al oferente, se diferirá la audiencia por una sola vez y bajo su más estricta responsabilidad, atenderá que se preparen las pruebas para desahogarse en la fecha que se señale, que no excederá de los diez días siguientes; si la falta de preparación fuere imputable al oferente, se celebrará la audiencia desahogándose únicamente las pruebas debidamente preparadas, y desechándose las que no lo fueron.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 479.- Desahogadas las pruebas que hubiere (sic) sido posible, las partes alegarán lo que a su derecho convenga y el juez citará para sentencia, la que se dictará dentro de los cinco días siguientes, a menos que existan pruebas documentales voluminosas, en cuyo caso se duplicará dicho plazo.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 480.- Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca; o, en su caso, de no haberse acordado, se procederá de la forma siguiente:
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por una institución de crédito o por perito valuador que sea miembro de la Comisión de Peritos Valuadores del Estado, los cuales en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo referido en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por perito miembro de la Comisión de Peritos Valuadores del Estado o la Institución Bancaria que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores;
+
+VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la Sección III del Capítulo VI del Título Séptimo de este ordenamiento; y
+
+VII.- La resolución que recaiga al remate podrá ser apelable en el efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 481.- En el caso de la adjudicación prevista en el segundo párrafo del artículo 2805 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 480 de este ordenamiento. El deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la adjudicación los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+
+ART. 482.- Las resoluciones que se dicten en esta vía especial hipotecaria podrán ser apelables sólo en el efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
+
+ART. 483.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
+
+ART. 484.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
+
+ART. 485.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
+
+ART. 486.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
+
+ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
+
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
+### CAPITULO V. Del juicio de desocupación
+
+ART. 488.- La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
+
+ART. 489.- Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y, no haciéndolo, se le prevenga que dentro de veinte días, si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, procede a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+
+ART. 490.- Si en el acto de la diligencia justificare el arrendatario, con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite, y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y, si no objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 493, y en caso de no objetarlo, se da por concluída la instancia.
+
+ART. 491.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
+
+Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+
+ART. 492.- Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+
+ART. 493.- En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2,321 a 2,324 y 2,335, concede al inquilino para no pagar la renta, siendo estas inadmisibles si no se ofrecen con sus pruebas.
+
+Son improcedentes la reconvención y la compensación.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+
+ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en efecto suspensivo.
+
+ART. 495.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 489.
+
+ART. 496.- La diligencia de lanzamiento se entenderá con el ejecutado, o, en su defecto, con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+
+ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
+
+ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
+
+ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte sentencia, se informe que el bien mueble o inmueble materia de la litis, fue abandonado por el arrendatario, el juez que conozca de los autos, ordenará la inspección de la cosa arrendada en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los autos, de acuerdo a lo siguiente:
+
+I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
+
+II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
+
+III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
+
+IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
+
+Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
+
+Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 #### SECCION I. Reglas generales
 
@@ -3328,6 +4144,68 @@ ART. 465.- Procede también la acción sumaria ejecutiva para recuperar, bajo la
 ART. 466.- Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
+
+### CAPITULO VI. De la vía de apremio
+
+### CAPITULO I. De los juicios en rebeldía
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación en el Estado.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 639.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto estime necesarios para asegurar lo que sea objeto del juicio.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 640.- El depósito de lo retenido o embargo (sic) se dejará en poder de la persona que tengan (sic) a su disposición o bajo su custodia los bienes muebles, concediendo al juez un término prudente para que garantice su manejo como depositario.
+
+Si extinguido ese término no ofrece garantía suficiente a juicio del juez, se constituirán los muebles en depósito de persona que designe el actor y que tenga bienes raíces o afiance su manejo a satisfacción del juez.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 641.- El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que inscriba el secuestro.- Una de esas copias, después de cumplimentado el registro, se unirá a los autos. El depósito de los inmuebles se hará en la misma forma establecida por el Artículo anterior, procediendo el depositario, en su caso, de acuerdo con lo dispuesto por los Artículos 552 y 554.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 642.- La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
+
+### CAPITULO II. Procedimiento estando presente el rebelde
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
+
+ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
+
+ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -3791,471 +4669,11 @@ ART. 606.- Traducida la ejecutoria en la forma prevista en el artículo 329, se 
 
 ART. 607.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
 
-### CAPITULO VII (SIC). De los interdictos
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440.- Los juicios que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el Artículo 353 del Código Civil, de retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrezca riesgo, las medidas conducentes a precaver el daño, se tramitarán con sujeción a las reglas generales de los juicios sumarios y a las especiales siguientes:
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 A.- Los jueces deberán tramitar los juicios a que se refiere el Artículo anterior con preferencia a todos los demás sumarios, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 B.- Los interdictos no pueden acumularse al juicio de propiedad y deberán decidirse previamente.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 C.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre el derecho de la posesión.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 D.- Los interdictos no se ocuparán de las cuestiones de propiedad y de posesión definitivas.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 E.- El que ha sido vencido en el juicio de propiedad plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 F.- El vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 G.- No procede el interdicto de obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 H.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-(ADICIONADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
-
-ART. 440 I.- Cuando al promover el incidente de obra nueva se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante, ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo apercibimiento de que será demolida en caso de desobediencia, a costa del propietario.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 J.- La suspensión a que se refiere el Artículo anterior podrá levantarse a solicitud del demandado, sin perjuicio de lo que se resuelva en la sentencia, si da fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 K.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 L.- Los incidentes a que se refieren los dos artículos anteriores, se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán otro recurso que el de responsabilidad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 LL.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se impida el curso o disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 M.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba del mal olor o por causa de los materiales que se arrojen en su finca o en la calle. En los casos a que este Artículo se refiere, se procederá como determinen los reglamentes administrativos.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 N.- En el caso del Artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 Ñ.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito, dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aún al inquilino por cuenta de renta; en defecto de esto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar al dueño los gastos que se ocasionen.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 O.- Una vez resuelto sobre las peticiones a que se refieren el Artículo 440 Ñ no habrá más recurso que el de responsabilidad; contra la que las nieguen procederá el de queja.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 P.- En los interdictos la sentencia deberá precisar sus efectos para el mejor éxito de la protección posesoria.
-
-Cuando en el interdicto de obra nueva la protección eficaz se realice con sólo la suspensión de las obras, así lo determinará.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 Q.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 440 R.- Cuando se sentencie la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 441.- Las reglas del juicio ordinario y en especial las del capítulo VI del título sexto, se aplicarán al juicio sumario en lo que no se opongan a lo dispuesto en el presente capítulo.
-
-No puede concederse término extraordinario de prueba en los negocios a que se refiere el artículo 429. Tampoco proceden términos de gracia en ellos, a no ser en los juicios ejecutivos e hipotecarios que tengan por objeto pago de dinero.
-
-No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio sumario.
-
-Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 429 son inapelables.
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
-## TITULO OCTAVO. Del Juicio Arbitral
-
-Reglas Generales
-
-ART. 608.- Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
-
-ART. 609.- El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
-
-El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
-
-ART. 610.- El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
-
-ART. 611.- Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
-
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con intervención judicial, como se previno en los medios preparatorios a juicio arbitral.
-
-ART. 612.- Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
-
-ART. 613.- Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
-
-ART. 614.- No se pueden comprometer en árbitros los siguientes negocios:
-
-I.- El derecho de recibir alimentos;
-
-II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2013)</small>
-
-III.- Las acciones de nulidad de relaciones conyugales
-
-IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
-
-V.- Los demás en que lo prohíba expresamente la ley.
-
-ART. 615.- El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial, como se previene en los medios preparatorios.
-
-ART. 616.- El compromiso será válido aunque no se fije el término del juicio arbitral, y, en este caso, la misión de los árbitros durará cien días, si se tratare de juicio ordinario y sesenta días si el negocio fuere sumario. El plazo se cuenta desde que se acepte el nombramiento.
-
-ART. 617.- Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
-
-ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
-
-Las partes podrán renunciar a la apelación.
-
-Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
-
-ART. 619.- El compromiso produce las excepciones de competencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
-
-ART. 620.- Cuando hay árbitro único, las partes son libres de nombrarle un secretario, y si dentro del tercer día, empezando desde aquél en que deba de actuar, no se han puesto de acuerdo, el árbitro los designará y a costa de los mismos interesados desempeñará sus funciones.
-
-Cuando fueren varios los árbitros, entre ellos mismos elegirán el que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
-
-ART. 621.- El compromiso termina:
-
-I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro, sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
-
-II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
-
-III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
-
-V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 616.
-
-ART. 622.- Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
-
-ART. 623.- Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
-
-ART. 624.- El laudo será firmado por cada uno de los árbitros, y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
-
-ART. 625.- En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de primera instancia.
-
-ART. 626.- Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
-
-ART. 627.- Los árbitros decidirán según las reglas del derecho, a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
-
-ART. 628.- De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
-
-ART. 629.- Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
-
-ART. 630.- Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aún imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
-
-ART. 631.- Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
-
-Para la ejecución de autos y decretos se acudirá también al juez de Primera Instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Supremo Tribunal, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
-
-ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo que se refiera a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje; y si hubiere varios jueces, el de número más bajo.
-
-ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
-
-ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
-
-ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
-
-### CAPITULO III. Del juicio ejecutivo
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
 ## TITULO NOVENO. De los juicios de rebeldía
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
-### CAPITULO IV. Del juicio hipotecario
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 467.- Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
-
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado, según corresponda en los términos de la legislación común, e inscrito en el Registro Público de la Propiedad y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 468.- Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
-
-I.- El documento base de la acción tenga carácter de título ejecutivo;
-
-II.- El bien se encuentre inscrito a favor del demandado; y
-
-III.- No exista embargo o gravamen a favor de tercero, inscrito cuando menos noventa días anteriores al de la presentación de la demanda.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 469.- Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, la admitirá y mandará anotarla en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para que dentro del término de cinco días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
-
-I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
-
-II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
-
-III.- Nulidad del contrato;
-
-IV.- Pago o compensación;
-
-V.- Remisión o quita;
-
-VI.- Oferta de no cobrar o espera;
-
-VII.- Novación de contrato;
-
-VIII.- Litispendencia y conexidad; y
-
-IX.- Cosa juzgada.
-
-Las excepciones comprendidas en las fracciones de la IV a la VII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhiben con la contestación las copias selladas de la demanda y contestación de ésta o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral; tratándose de la cosa juzgada se deberá acompañar como prueba, copia de la sentencia y del auto que la declaró ejecutoriada.
-
-El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquéllas en que sea necesario exhibir documento y el mismo no se acompañe, salvo los casos a que se refieren los Artículos 96 y 98 de este Código.
-
-La reconvención sólo será procedente cuando se funde en el documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
-
-Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, y resolverá de acuerdo a las proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 470.- Tanto en la demanda como en la contestación a la misma, y en su caso en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretenden probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga a las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva.
-
-Una vez que haya sido contestada la demanda o transcurrido el plazo para ello, se señalará fecha para la celebración de la audiencia que deberá fijarse dentro de los veinticinco días siguientes.
-
-En el caso de allanamiento total a la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza el pago de la cantidad reclamada, dentro del plazo que se haya fijado conforme a lo dispuesto en el último párrafo del artículo anterior, se pronunciará inmediatamente sentencia definitiva.
-
-Si hubiere reconvención se correrá traslado de ésta a la actora para que la conteste dentro de los cinco días siguientes.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 471.- Si en el título con base en el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 472.- Para el efecto de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el registro.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 473.- Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 474.- Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 475.- Desde el día del emplazamiento, contra el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
-
-Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará (sic) por los medios de apremio que le autoriza la ley.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 476.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
-
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 600, PUBLICADO EN EL P.O. 8 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos físicos o electrónicos, que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de éste ordenamiento.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento de imponerles una multa de uno a cien días de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, o un arresto hasta de treinta y seis horas, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 478.- El juez debe presidir la audiencia, que se iniciará resolviendo todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no fuera posible desahogarlas por causas no imputables al oferente, se diferirá la audiencia por una sola vez y bajo su más estricta responsabilidad, atenderá que se preparen las pruebas para desahogarse en la fecha que se señale, que no excederá de los diez días siguientes; si la falta de preparación fuere imputable al oferente, se celebrará la audiencia desahogándose únicamente las pruebas debidamente preparadas, y desechándose las que no lo fueron.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 479.- Desahogadas las pruebas que hubiere (sic) sido posible, las partes alegarán lo que a su derecho convenga y el juez citará para sentencia, la que se dictará dentro de los cinco días siguientes, a menos que existan pruebas documentales voluminosas, en cuyo caso se duplicará dicho plazo.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 480.- Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca; o, en su caso, de no haberse acordado, se procederá de la forma siguiente:
-
-I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por una institución de crédito o por perito valuador que sea miembro de la Comisión de Peritos Valuadores del Estado, los cuales en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
-
-II.- En el caso de que alguna de las partes deje de exhibir el avalúo referido en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
-
-III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
-
-IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por perito miembro de la Comisión de Peritos Valuadores del Estado o la Institución Bancaria que al efecto señale;
-
-V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores;
-
-VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la Sección III del Capítulo VI del Título Séptimo de este ordenamiento; y
-
-VII.- La resolución que recaiga al remate podrá ser apelable en el efecto devolutivo.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 481.- En el caso de la adjudicación prevista en el segundo párrafo del artículo 2805 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 480 de este ordenamiento. El deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
-
-También pueden oponerse a la adjudicación los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
-
-ART. 482.- Las resoluciones que se dicten en esta vía especial hipotecaria podrán ser apelables sólo en el efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
-
-ART. 483.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
-
-ART. 484.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
-
-ART. 485.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
-
-ART. 486.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
-
-ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
-
-> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
-### CAPITULO V. Del juicio de desocupación
-
-ART. 488.- La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental, o cualquiera otra bastante como medio preparatorio del juicio.
-
-ART. 489.- Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas y, no haciéndolo, se le prevenga que dentro de veinte días, si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, procede a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
-
-ART. 490.- Si en el acto de la diligencia justificare el arrendatario, con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite, y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y, si no objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 493, y en caso de no objetarlo, se da por concluída la instancia.
-
-ART. 491.- Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento, sin condenación en costas.
-
-Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
-
-ART. 492.- Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
-
-ART. 493.- En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
-
-El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2,321 a 2,324 y 2,335, concede al inquilino para no pagar la renta, siendo estas inadmisibles si no se ofrecen con sus pruebas.
-
-Son improcedentes la reconvención y la compensación.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 494.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en efecto suspensivo.
-
-ART. 495.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 489.
-
-ART. 496.- La diligencia de lanzamiento se entenderá con el ejecutado, o, en su defecto, con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
-
-ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se embargarán y depositarán bienes bastantes para cubrir las pensiones reclamadas, si así se hubiere decretado. Lo mismo se observará al ejecutarse el lanzamiento.
-
-ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
-
-ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte sentencia, se informe que el bien mueble o inmueble materia de la litis, fue abandonado por el arrendatario, el juez que conozca de los autos, ordenará la inspección de la cosa arrendada en la que se cumplan los requisitos aplicables al cateo, para constatar tal hecho en los autos, de acuerdo a lo siguiente:
-
-I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
-
-II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
-
-III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
-
-IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
-
-Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
-
-Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
-
-### CAPITULO VI. De la vía de apremio
-
-### CAPITULO I. De los juicios en rebeldía
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-ART. 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación en el Estado.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 639.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto estime necesarios para asegurar lo que sea objeto del juicio.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 640.- El depósito de lo retenido o embargo (sic) se dejará en poder de la persona que tengan (sic) a su disposición o bajo su custodia los bienes muebles, concediendo al juez un término prudente para que garantice su manejo como depositario.
-
-Si extinguido ese término no ofrece garantía suficiente a juicio del juez, se constituirán los muebles en depósito de persona que designe el actor y que tenga bienes raíces o afiance su manejo a satisfacción del juez.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 641.- El embargo de los inmuebles se hará expidiendo mandamiento por duplicado al registrador de la propiedad que corresponda para que inscriba el secuestro.- Una de esas copias, después de cumplimentado el registro, se unirá a los autos. El depósito de los inmuebles se hará en la misma forma establecida por el Artículo anterior, procediendo el depositario, en su caso, de acuerdo con lo dispuesto por los Artículos 552 y 554.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 642.- La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
-
-ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
-
-### CAPITULO II. Procedimiento estando presente el rebelde
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
-
-ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
-
-ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
+## TITULO DECIMO. De las tercerías
 
 ### CAPITULO UNICO
 
@@ -4319,6 +4737,28 @@ ART. 668.- Cuando se presenten tres o más acreedores que hicieren oposición, s
 
 ### CAPITULO II (SIC). Del juicio arbitral
 
+## TITULO DECIMO (SIC). De las tercerías
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
+
+ART. 669.- Si fueren varios los opositores reclamando el dominio, se procederá en cualquier caso que sea, a decidir incidentalmente la controversia en unión del ejecutante y del ejecutado.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 670.- La interposición de una tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 671.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
+
+(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
+
+ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+
+TITULO DECIMOPRIMERO
+
+Divorcio por mutuo consentimiento
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
@@ -4378,30 +4818,6 @@ Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modifi
 TITULO DECIMOSEGUNDO
 
 De los recursos
-
-## TITULO DECIMO. De las tercerías
-
-## TITULO DECIMO (SIC). De las tercerías
-
-> <small>(REFORMADO Y REUBICADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 669.- Si fueren varios los opositores reclamando el dominio, se procederá en cualquier caso que sea, a decidir incidentalmente la controversia en unión del ejecutante y del ejecutado.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 670.- La interposición de una tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 671.- Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
-
-(REUBICADO, P.O. 10 DE AGOSTO DE 1985)
-
-ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de estos jueces, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
-
-TITULO DECIMOPRIMERO
-
-Divorcio por mutuo consentimiento
 
 ### CAPITULO I. De las revocaciones y apelaciones
 
@@ -6460,3 +6876,19 @@ P.O. 21 DE JUNIO DE 2014.
 P.O. 12 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El Congreso del Estado y, en su caso, el Poder Ejecutivo, en coordinación con el Poder Judicial, deberán resolver sobre las previsiones presupuestales para la infraestructura, recurso humano y la capacitación necesaria tendiente a la creación de dos Juzgados en Procedimiento Oral Familiar en el Primer Partido Judicial, a fin de garantizar el inicio y su correcta implementación, en los términos que el propio Poder Judicial establezca mediante acuerdos generales.
+
+TERCERO.- Una vez resueltas las previsiones a que se refiere el transitorio segundo que antecede, el Poder Judicial del Estado, dentro de los sesenta días siguientes, deberá hacer efectiva la entrada en vigor de las disposiciones relativas al procedimiento oral familiar en el primer partido judicial, únicamente por lo que ve a asuntos no controvertidos; y al poner en práctica tales disposiciones, deberá emitir previamente una declaratoria que se publicará en el Periódico Oficial del Estado, en uno de los de mayor circulación en la entidad y en los demás órganos de difusión que se consideren necesarios, en la que se señale expresamente la fecha correspondiente.
+
+CUARTO.- Se fija como plazo máximo hasta el 02 de marzo del año 2015, para que la implementación del procedimiento oral familiar controvertido se incorpore al primer partido judicial, en tanto que dentro del mismo plazo deberá realizarse la implementación del procedimiento oral familiar no controvertido en los partidos judiciales segundo y tercero de la entidad, debiéndose previamente emitir la declaratoria respectiva a que se hace referencia en el transitorio tercero; y una vez implementado este dentro de un plazo similar deberá incorporarse el procedimiento oral familiar controvertido.
+
+QUINTO.- Atendiendo a la estadística judicial, así como a los criterios de selección que expida el Supremo Tribunal de Justicia y, en su caso, los órganos facultados para iniciar leyes, en forma progresiva deberán incluirse para su tramitación en la vía oral familiar las demás prestaciones que hasta la fecha se ventilan en forma tradicional, haciéndose las adecuaciones que correspondan al marco normativo.
+
+SEXTO.- En tanto se haga efectiva la entrada en vigor de la presente reforma en los partidos judiciales segundo y tercero, los procedimientos a que se refiere el artículo 428 BIS del presente decreto, continuarán tramitándose en la misma forma y términos como se vienen ventilando a la fecha.
+
+SÉPTIMO.- Una vez designado el juzgado que dejará de tramitar los procesos tradicionales para incorporarse a la materia oral familiar, la reasignación de los expedientes que conoce, se distribuirán de manera equitativa entre los cuatro juzgados tradicionales familiares restantes, los cuales culminarán con el juicio.
