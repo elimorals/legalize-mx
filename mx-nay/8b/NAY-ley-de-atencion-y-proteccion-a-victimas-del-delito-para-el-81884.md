@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-atencion-y-proteccion-a-victimas-del-delito-para-el-8188
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-04"
-last_updated: "2011-06-04"
+last_updated: "2014-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ATENCION Y PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE NAYARIT
 
-LEY DE ATENCION Y PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE NAYARIT.
+LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL DELITO PARA EL ESTADO DE NAYARIT.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SÉPTIMO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LA ENTRADA EN VIGOR CONDICIONADA A LA IMPLEMENTACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DEL ESTADO PREVIA SOLICITUD CONJUNTA DE LAS AUTORIDADES ENCARGADAS DE LA IMPLEMENTACIÓN DE DICHO SISTEMA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Vigésima Cuarta del Periódico Oficial del estado de Nayarit, el sábado 4 de junio de 2011.
 
@@ -534,3 +536,21 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los cuatro días del mes de junio del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno.- Lic. Angélica Patricia Sánchez Medina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2014.
+
+Primero.- La presente Ley deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y su entrada en vigor estará condicionada a la implementación del Sistema Procesal Penal Acusatorio, en los términos que establezca la Declaratoria que al efecto emita el Congreso del Estado previa solicitud conjunta de las autoridades encargadas de la implementación de dicho sistema.
+
+Segundo.- El Sistema Estatal de Atención a Víctimas deberá crearse dentro de los ciento ochenta días hábiles a partir de la entrada en vigor de esta Ley.
+
+Tercero.- Tanto la Comisión Estatal de Atención Integral a Víctimas como el Consejo Ejecutivo deberán instaurarse dentro de los noventa días hábiles a partir de (sic) configuración del Sistema Estatal.
+
+Cuarto.- Los servicios de asesoría y representación de las víctimas u ofendidos, deberán constituirse en un plazo no mayor de ciento ochenta días hábiles, a partir de la entrada en vigor de la norma.
+
+Quinto.- El titular del Poder Ejecutivo del Estado, en un plazo no mayor de ciento ochenta días hábiles, a partir de la entrada en vigor de la norma emitirá el Reglamento de la presente Ley.
+
+Sexto.- El Gobierno Estatal deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos.
+
+Séptimo.- A la entrada en vigor del presente ordenamiento, se abroga la Ley de Atención y Protección a Víctimas del Delito para el Estado de Nayarit, publicada el 4 de Junio de 2011 en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
