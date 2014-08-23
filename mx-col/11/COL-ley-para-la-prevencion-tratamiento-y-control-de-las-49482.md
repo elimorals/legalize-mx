@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2011-11-07"
+last_updated: "2014-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
+LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -465,13 +465,25 @@ I.- Rehabilitación que incluya psicoterapia, asistencia médica y social y, de 
 
 II.- Orientación y capacitación ocupacional del adicto;
 
-III.- Orientación y capacitación a la familia o a terceros que convivan con el usuario de drogas; y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
 
-IV.- Reinserción familiar, educativa, laboral y social.
+III.- Orientación y capacitación a la familia o a terceros que convivan con el usuario de drogas;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+IV.- Reinserción familiar, educativa, laboral y social, y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+V.- Tratamiento médico y psicológico por parte de personal especializado en atención a niñas, niños y jóvenes.
 
 ###### ARTICULO 65.
 
 Los programas de tratamiento y rehabilitación de adicciones deberán ser dinámicos, no basarse solo en la sustracción del medio ambiente del adicto y en su desintoxicación, sino en acciones profesionales de tratamiento terapéutico, atención clínica, de orientación e información, y de ayuda mutua, de tal forma que permita que las personas recuperen el pleno ejercicio de sus derechos y libertades individuales.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+Cuando se brinde tratamiento a menores de edad, deberán considerarse, además, los derechos y prerrogativas que les son reconocidos por el orden jurídico local y Federal, así como la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales suscritos por el Estado Mexicano.
 
 ###### ARTICULO 66.
 
@@ -482,6 +494,26 @@ El tratamiento para la rehabilitación que realicen los Gobiernos Estatal y Muni
 ###### ARTICULO 67.
 
 Los programas de rehabilitación para los adictos serán con internamiento o de manera externa o mixta, considerando el nivel de atención, tipo de servicio, y la disposición de infraestructura con que cuente dicho centro de tratamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+Tratándose de menores de edad, los programas de rehabilitación serán obligatorios, siempre atendiendo a su condición de personas en desarrollo y, asimismo, podrán ser con internamiento o de manera externa o mixta.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ARTICULO 67 BIS.- Por resolución de una autoridad judicial, el ingreso y la permanencia del usuario en un centro de rehabilitación, tendrá el carácter de obligatorio.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
+
+ARTICULO 67 BIS 1.- A sugerencia del Ministerio Público, al haberse resuelto el no ejercicio de la acción penal contra el indiciado en una averiguación previa, se podrá remitir a dicho indiciado a un centro de rehabilitación cuando se reúnan los siguientes requisitos:
+
+I. Que el indiciado sea adicto a alguna sustancia prohibida, de acuerdo con el correspondiente examen médico, y
+
+II. Que el uso o abuso de drogas o alcohol haya sido la causa determinante de la conducta delictiva.
+
+Para tales efectos, el Ministerio Público emitirá un reporte a las autoridades sanitarias competentes, a fin de que procedan a brindar el tratamiento que corresponda.
+
+Al tercer reporte del Ministerio Público en este sentido, el adicto estará obligado a recibir el tratamiento, hasta su conclusión.
 
 ###### ARTICULO 68.
 
@@ -585,7 +617,7 @@ Dado en Palacio de Gobierno, a los 28 días del mes de enero del año dos mil se
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. JOSÉ SALAZAR AVIÑA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MAYO DE 2007.
 
@@ -602,3 +634,7 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 23 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
