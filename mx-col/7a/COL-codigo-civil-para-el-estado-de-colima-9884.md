@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-07-12"
+last_updated: "2014-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -805,7 +805,7 @@ ART. 40.- Cuando en cualquiera de sus formas, ya sea física o electrónicamente
 
 ART. 41.- Todos los libros físicos o electrónicos del Registro Civil serán visados en su primera y última hoja por el Director General del Registro Civil, y autorizados por el mismo con su rúbrica o firma electrónica certificada, según sea el caso, en todas las demás se renovarán cada año, y un ejemplar quedará en el archivo físico y electrónico del Registro Civil, así como los documentos físicos y electrónicos que le correspondan remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado. Sin perjuicio de lo establecido en el artículo anterior.
 
-Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario y deberán ser certificados anualmente por la Dirección General para la Innovación Gubernamental, dependiente de la Secretaría de Administración del Ejecutivo Estatal.
+Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario y deberán ser certificados anualmente por la Dirección General para la Innovación Gubernamental, dependiente de la Secretaria de Administración del Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -2723,11 +2723,9 @@ ART. 390 B.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 390 C.- En toda adopción se deberá asegurar:
 
-I. Que el consentimiento, de quien pueda otorgarlo conforme a la ley, se otorgue libremente y por escrito, sin que haya mediado pago o compensación alguna, el cual deberá ser ratificado, ante el Juez de Primera Instancia, y en los lugares donde no exista éste, ante el Juez Mixto de Paz o en su caso ante Notario Público de la demarcación del Estado. El otorgante en éste último caso deberá estar asistido por cuando menos cuatro testigos.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
 
-Las personas e instituciones, cuyo consentimiento se requiera para la adopción, deberán ser asesoradas previamente e informadas sobre las consecuencias legales que el seguimiento de la misma implica, así como los alcances del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre el sujeto de la adopción y su familia de origen.
-
-El seguimiento de la adopción a que se refiere el párrafo anterior, será en la forma y términos que determine la ley, y en caso de incumplimiento, será causa de revocación de la misma;
+I. Que el consentimiento, de quien pueda otorgarlo conforme a la ley, se otorgue libremente y por escrito, sin que haya mediado pago o compensación alguna, el cual deberá ser ratificado, ante el Juez de primera instancia, y en los lugares donde no exista éste, ante el Juez Mixto de Paz o en su caso ante Notario Público de la demarcación del Estado. El otorgante en éste último caso deberá estar asistido por cuando menos cuatro testigos. Cuando se trate de adopciones internacionales el consentimiento únicamente podrá ser ratificado ante Juez de primera instancia.
 
 II. Que el o los adoptantes tienen medios bastantes para proveer a la subsistencia, educación y cuidado de la persona que pretende adoptar como hijo propio;
 
@@ -2735,9 +2733,17 @@ III. Que la adopción es benéfica para la persona que pretende adoptarse, atend
 
 IV Que el o los que pretendan adoptar gocen de buena salud física y mental, libre de cualquier enfermedad grave que pueda poner en riesgo la salud, la estabilidad emocional o la vida del adoptado, acreditada mediante estudios realizados por una institución pública, los que se agregarán a su escrito inicial;
 
-V. Que el o los adoptantes sean de buenas costumbres y no hayan sido condenados por delitos sexuales, contra la integridad corporal, libertad personal, o el libre desarrollo de la personalidad; y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
 
-VI Que con motivo de dicho procedimiento no se produzcan beneficios económicos o financieros, a persona, autoridad o institución alguna, que haya participado o participe en el mismo.
+V. Que el o los adoptantes sean de buenas costumbres y no hayan sido condenados por delitos sexuales, contra la integridad corporal, libertad personal, o el libre desarrollo de la personalidad;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+VI. Que con motivo de dicho procedimiento no se produzcan beneficios económicos o financieros, a persona, autoridad o institución alguna, que haya participado o participe en el mismo; y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2014)</small>
+
+VII. Que la persona que pretenda adoptar, el menor sujeto a adopción y, en su caso, quien ejerza la patria potestad o tutoría, residan en el Estado de Colima durante el procedimiento respectivo.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -11342,3 +11348,19 @@ P.O. 21 DE JUNIO DE 2014.
 P.O. 12 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Congreso del Estado y, en su caso, el Poder Ejecutivo, en coordinación con el Poder Judicial, deberán resolver sobre las previsiones presupuestales para la infraestructura, recurso humano y la capacitación necesaria tendiente a la creación de dos Juzgados en Procedimiento Oral Familiar en el Primer Partido Judicial, a fin de garantizar el inicio y su correcta implementación, en los términos que el propio Poder Judicial establezca mediante acuerdos generales.
+
+TERCERO.- Una vez resueltas las previsiones a que se refiere el transitorio segundo que antecede, el Poder Judicial del Estado, dentro de los sesenta días siguientes, deberá hacer efectiva la entrada en vigor de las disposiciones relativas al procedimiento oral familiar en el primer partido judicial, únicamente por lo que ve a asuntos no controvertidos; y al poner en práctica tales disposiciones, deberá emitir previamente una declaratoria que se publicará en el Periódico Oficial del Estado, en uno de los de mayor circulación en la entidad y en los demás órganos de difusión que se consideren necesarios, en la que se señale expresamente la fecha correspondiente.
+
+CUARTO.- Se fija como plazo máximo hasta el 02 de marzo del año 2015, para que la implementación del procedimiento oral familiar controvertido se incorpore al primer partido judicial, en tanto que dentro del mismo plazo deberá realizarse la implementación del procedimiento oral familiar no controvertido en los partidos judiciales segundo y tercero de la entidad, debiéndose previamente emitir la declaratoria respectiva a que se hace referencia en el transitorio tercero; y una vez implementado este dentro de un plazo similar deberá incorporarse el procedimiento oral familiar controvertido.
+
+QUINTO.- Atendiendo a la estadística judicial, así como a los criterios de selección que expida el Supremo Tribunal de Justicia y, en su caso, los órganos facultados para iniciar leyes, en forma progresiva deberán incluirse para su tramitación en la vía oral familiar las demás prestaciones que hasta la fecha se ventilan en forma tradicional, haciéndose las adecuaciones que correspondan al marco normativo.
+
+SEXTO.- En tanto se haga efectiva la entrada en vigor de la presente reforma en los partidos judiciales segundo y tercero, los procedimientos a que se refiere el artículo 428 BIS del presente decreto, continuarán tramitándose en la misma forma y términos como se vienen ventilando a la fecha.
+
+SÉPTIMO.- Una vez designado el juzgado que dejará de tramitar los procesos tradicionales para incorporarse a la materia oral familiar, la reasignación de los expedientes que conoce, se distribuirán de manera equitativa entre los cuatro juzgados tradicionales familiares restantes, los cuales culminarán con el juicio.
