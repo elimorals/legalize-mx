@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2014-07-17"
+last_updated: "2014-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSI
 
 NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TRANSITORIO PRIMERO DEL DECRETO NÚMERO 139 DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2014, SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR EL PRESENTE ORDENAMIENTO, MISMO QUE SURTE SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -3891,7 +3891,15 @@ Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescie
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO I BIS. PRESTACIÓN INDEBIDA DE SERVICIOS EDUCATIVOS
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2014)</small>
+
+Artículo 349 bis. A quién con o sin ánimo de lucro constituya, fomente o administre centros donde se presten servicios educativos, que no cuenten con la debida autorización expedida por autoridad competente o que omita cumplir con los requisitos establecidos en la normatividad aplicable, se le impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2014)</small>
+
+Artículo 349 bis 1. A quien ejerza funciones de docente en los centros educativos a que hace referencia el artículo anterior, se le impondrán hasta un tercio de las sanciones referidas en el mismo numeral.
 
 ###### Artículo 334.
 
@@ -3921,7 +3929,7 @@ Cuando no sea posible cuantificar el monto de las operaciones, se aplicará una 
 
 Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, concubina o concubinario, adoptante o adoptado o cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se le aumentarán las penas en una tercera parte.
 
-### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
+### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 336.
 
@@ -3931,7 +3939,7 @@ I. Niegue o retarde a los particulares la protección, el auxilio o el servicio 
 
 II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste el auxilio, se niegue indebidamente a proporcionarlo.
 
-### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PÚBLICOS
 
 ###### Artículo 337.
 
@@ -3939,7 +3947,7 @@ El servidor público que por sí o por interpósita persona, influyere en otro s
 
 Si la conducta produce un beneficio económico que exceda de quinientas veces el salario mínimo diario general vigente en el Estado, se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario.
 
-### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
 ###### Artículo 338.
 
@@ -3949,9 +3957,9 @@ I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalen
 
 II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de noventa veces el salario mínimo diario vigente en el estado en el momento de cometerse el delito, se impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
 
-### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
-### CAPÍTULO VII. COACCIÓN
+### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### Artículo 339.
 
@@ -3965,9 +3973,7 @@ Cuando el monto o valor del objeto del delito exceda de quinientas veces el sala
 
 Cuando no sea posible valuar el monto del objeto se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario.
 
-### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2011)</small>
+### CAPÍTULO VII. COACCIÓN
 
 ###### Artículo 340.
 
@@ -3979,9 +3985,11 @@ I. De tres meses a tres años de prisión o multa de dieciocho a doscientos diec
 
 II. Si el valor de lo exigido o la cantidad exceden de quinientas veces el salario mínimo, se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario.
 
-### CAPÍTULO IX. REGLAS COMUNES PARA LOS DELITOS EN CONTRA DEL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
+### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
-### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2011)</small>
+
+### CAPÍTULO IX. REGLAS COMUNES PARA LOS DELITOS EN CONTRA DEL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
 ###### Artículo 341.
 
@@ -4011,7 +4019,7 @@ SUBTÍTULO CUARTO
 
 DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
 
-### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+### CAPÍTULO I. DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
 ###### Artículo 345.
 
@@ -4041,11 +4049,11 @@ Al particular que estando obligado legalmente a la custodia, deposito, administr
 
 Se le impondrán la mitad de las penas previstas para el delito de enriquecimiento ilícito, al que haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO II. DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA
+
 ### CAPÍTULO III. TORTURA
-
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO No. 415, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR CONFORMADO POR SIETE FRACCIONES.</small>
 
 ###### Artículo 350.
 
@@ -4067,7 +4075,9 @@ Las penas serán de uno a cinco años de prisión y multa de setenta y dos a tre
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medios de apremio.
 
-### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
+### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO No. 415, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR CONFORMADO POR SIETE FRACCIONES.</small>
 
 ###### Artículo 355.
 
@@ -4077,7 +4087,7 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 Se impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, a los autores intelectuales, a quiénes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de oposición a la ejecución de obras o trabajos públicos.
 
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
+### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
 
 ###### Artículo 356.
 
@@ -4085,25 +4095,25 @@ Al que quebrante, los sellos puestos por orden de la autoridad competente, se le
 
 Se sancionará con las mismas penas, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan intactos.
 
-### CAPÍTULO VII. EVASIÓN DE PRESOS
+### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
 
 ###### Artículo 357.
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días salario.
 
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO VII. EVASIÓN DE PRESOS
 
 ###### Artículo 358.
 
 Al que para hacer efectivo un: derecho o pretendido derecho, que deba ejercitar, empleare violencia, se le impondrá de tres meses a un año de prisión o multa de dieciocho a setenta y dos días de salario.
 
-### CAPÍTULO I. FRAUDE PROCESAL
+### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 359.
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, a quien coaccione a la autoridad por medio de la violencia, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+### CAPÍTULO I. FRAUDE PROCESAL
 
 ###### Artículo 360.
 
@@ -4121,7 +4131,7 @@ Quien conduzca un vehículo que preste servicio público de transporte con una s
 
 Las penas aplicables a que se refiere el artículo anterior, se aumentarán de una a dos terceras partes a quien obtenga y/o utilice indebidamente cualquier documento, tarjeta o placa de circulación y engomado que corresponda al que identifique las unidades que presten el servicio público de transporte.
 
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
+### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
 ###### Artículo 362.
 
@@ -4131,9 +4141,9 @@ SUBTÍTULO QUINTO
 
 DELITOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
-### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
+### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
 
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
 
 ###### Artículo 363.
 
@@ -4179,7 +4189,7 @@ Se impondrá de tres meses a tres años de prisión y multa de dieciocho a dosci
 
 Se impondrá de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientos treinta y dos días de salario, destitución e inhabilitación de seis meses a seis años para desempeñar empleo, cargo o comisión públicos, a los imputados de los delitos previstos en las fracciones VIII a la XVII de este artículo.
 
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### Artículo 364.
 
@@ -4201,7 +4211,7 @@ VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por
 
 VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
 
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### Artículo 365.
 
@@ -4229,7 +4239,7 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No se considerarán como causas excluyentes de responsabilidad penal del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 ###### Artículo 369.
 
@@ -4269,7 +4279,7 @@ VII. Inicie un proceso penal contra un servidor público con fuero.
 
 Se impondrán de tres meses e tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN O ALTERACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ###### Artículo 371.
 
@@ -4307,7 +4317,7 @@ Las mismas penas que señala el artículo 369 se aplicarán al profesional en me
 
 Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, al profesional en medicina, técnico o práctico que con motivo de su profesión o actividad, tenga conocimiento del estado de abandono de un recién nacido persona menor de edad o que no tenga la capacidad de comprender los hechos o adulto mayor y omita dar aviso inmediato a la Procuraduría de la Defensa del Menor, la Mujer y la Familia del DIF Estatal o a la autoridad que exista en el lugar, quedando bajo la responsabilidad de esta última el informar a la autoridad competente.
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 ###### Artículo 375.
 
@@ -4321,7 +4331,7 @@ III. Permita ilegalmente la salida de personas privadas de su libertad como proc
 
 IV. Permita o introduzca objetos de los prohibidos en el reglamento interior de los centros de reclusión o internamiento.
 
-### CAPÍTULO V. USO INDEBIDO DE LLAMADAS TELEFONICAS
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### Artículo 376.
 
@@ -4351,9 +4361,7 @@ Al sujeto activo no se le impondrá pena o medida de seguridad alguna, salvo que
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este capítulo, se le impondrá la mitad de las penas establecidas.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+### CAPÍTULO V. USO INDEBIDO DE LLAMADAS TELEFONICAS
 
 ###### Artículo 381.
 
@@ -4376,6 +4384,10 @@ Se impondrá de dieciocho a cuatrocientos treinta días de salario al condenado 
 SUBTÍTULO SEXTO
 
 DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
+
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
 
 ###### Artículo 384.
 
@@ -4968,3 +4980,9 @@ P.O. 17 DE JULIO DE 2014.
 Primero. Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
