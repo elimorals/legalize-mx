@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-869-de-fomento-a-la-investigacion-cientifica-y-41612
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-08"
-last_updated: "2007-06-06"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 869 DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 6 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 8 de noviembre de 2004.
 
@@ -51,9 +51,11 @@ La presente Ley es de orden público e interés general y tiene por objeto fijar
 
 La investigación científica y tecnológica, el desarrollo tecnológico y la transferencia y aplicación del conocimiento son actividades prioritarias del Gobierno del Estado y los Gobiernos Municipales, correspondiendo también a los centros e instituciones de educación superior, de investigación y desarrollo tecnológico no gubernamentales, así como a los sectores académico, social y privado, participar en el fomento a la generación y aplicación del conocimiento científico y tecnológico en beneficio de la sociedad veracruzana.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 3.
 
-El Gobierno del Estado promoverá la investigación, el desarrollo tecnológico y la innovación para asegurar, mediante el fortalecimiento y promoción de las capacidades científicas y tecnológicas en general, el efectivo desarrollo económico, social, educativo y cultural de la Entidad veracruzana.
+El Gobierno del Estado promoverá en la población, priorizando en la niñez y la juventud, la investigación, el desarrollo tecnológico y la innovación para asegurar, mediante el fortalecimiento y promoción de las capacidades científicas y tecnológicas en general, el efectivo desarrollo económico, social, educativo y cultural con el objeto de consolidar el progreso de la Entidad Veracruzana.
 
 ###### Artículo 4.
 
@@ -877,7 +879,7 @@ Gobernador del Estado
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 6 DE JUNIO DE 2007.
 
@@ -894,3 +896,9 @@ DECRETO NUMERO 868
 Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 25 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
