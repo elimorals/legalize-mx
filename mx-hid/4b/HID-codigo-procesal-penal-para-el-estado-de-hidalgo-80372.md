@@ -4,7 +4,7 @@ identifier: "HID-codigo-procesal-penal-para-el-estado-de-hidalgo-80372"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-03-14"
-last_updated: "2011-03-14"
+last_updated: "2014-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO
 
-CODIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO
+CÓDIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULOS CUARTO Y QUINTO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2011, LOS CUALES SEÑALAN QUE ENTRARA EN VIGOR PAULATINAMENTE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚM. 208, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, SALVO EN LO RELATIVO A LA EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES EN TÉRMINOS DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO REFORMADA, ASÍ COMO LA LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO, HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA, EN EL PRIMER CIRCUITO JUDICIAL, CON CABECERA EN PACHUCA DE SOTO, ÚNICAMENTE EN EL DISTRITO JUDICIAL DE PACHUCA DE SOTO, A PARTIR DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de marzo de 2011.
 
@@ -777,7 +777,7 @@ Los jueces están obligados a fundar y motivar sus decisiones.
 
 Las pruebas serán valoradas por los jueces según la sana crítica, observando las reglas de la lógica, los conocimientos, científicos y las máximas de la experiencia.
 
-La motivación se considera indebida cuando se hayan (sic) inobservado las reglas de la sana crítica con respecto a medios o elementos probatorios de valor decisivo.
+La motivación se considera indebida cuando se hayan inobservado las reglas de la sana crítica con respecto a medios o elementos probatorios de valor decisivo.
 
 ###### Artículo 83.
 
@@ -1195,7 +1195,7 @@ X.- Que no se utilicen, en su contra, medios que impidan su libre movimiento en 
 
 XI.- Solicitar, desde el momento de su detención, asistencia social para los menores de edad o personas con discapacidad cuyo cuidado personal tenga a cargo. El Sistema Estatal para el Desarrollo Integral de la Familia estará obligado a colaborar con esta función, de conformidad con los acuerdos que al efecto se expidan.
 
-Los integrantes de los cuerpos de seguridad pública, al detener a una persona o antes de entrevistarla en calidad de imputada, le hará saber de manera inmediata y comprensible los derechos contemplados en las fracciones I, II, III, IV, V, VI, VIII, IX y XI de este Artículo. El Ministerio Público debe dar a conocer al imputado sus derechos fundamentales desde el primer acto en que aquel participe. El Juez, desde el primer acto procesal, verificará que se le hayan (sic) dado a conocer al imputado sus derechos fundamentales y, en caso contrario, se los dará a conocer en forma clara y comprensible.
+Los integrantes de los cuerpos de seguridad pública, al detener a una persona o antes de entrevistarla en calidad de imputada, le hará saber de manera inmediata y comprensible los derechos contemplados en las fracciones I, II, III, IV, V, VI, VIII, IX y XI de este Artículo. El Ministerio Público debe dar a conocer al imputado sus derechos fundamentales desde el primer acto en que aquel participe. El Juez, desde el primer acto procesal, verificará que se le hayan dado a conocer al imputado sus derechos fundamentales y, en caso contrario, se los dará a conocer en forma clara y comprensible.
 
 Cuando el imputado esté privado de su libertad, el encargado de custodiarlo tendrá la obligación de comunicar al Juez o al Tribunal, en forma inmediata, las peticiones u observaciones que aquel formule y le asegurará la comunicación con su defensor.
 
@@ -2511,7 +2511,7 @@ VII.- Solicitar y proporcionar información a las oficinas con funciones similar
 
 Incumplimiento de obligaciones.
 
-Cuando el incumplimiento o la violación a las medidas impuestas pueda implicar que se deba librar una orden de aprehensión o de cateo, los servicios auxiliares de medidas cautelares procederán de inmediato a comunicarle la situación al Juez y al Ministerio Público, para que éstos dispongan lo que corresponda; (sic)
+Cuando el incumplimiento o la violación a las medidas impuestas pueda implicar que se deba librar una orden de aprehensión o de cateo, los servicios auxiliares de medidas cautelares procederán de inmediato a comunicarle la situación al Juez y al Ministerio Público, para que éstos dispongan lo que corresponda;
 
 #### SECCIÓN II. NORMAS GENERALES SOBRE MEDIDAS CAUTELARES
 
@@ -3635,7 +3635,7 @@ Si el infractor fuere el Ministerio Público, defensor, la víctima u ofendido o
 
 Si el infractor fuere el imputado, será trasladado bajo custodia a una sala próxima en la que pueda escuchar el desarrollo de la audiencia y representado para todos los efectos por su defensor. Cuando sea necesario para el desarrollo de la audiencia se le hará comparecer para la realización de actos particulares en los cuales su presencia resulte imprescindible.
 
-En caso de que, a pesar de las medidas adoptadas, no pueda restablecerse (sic) el orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal, sin que se puedan sobrepasar diez días.
+En caso de que, a pesar de las medidas adoptadas, no pueda restablecerse el orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal, sin que se puedan sobrepasar diez días.
 
 #### SECCIÓN IV. DISPOSICIONES GENERALES SOBRE LA PRUEBA
 
@@ -3883,7 +3883,7 @@ La declaración de los testigos y peritos se sujetará al interrogatorio de las 
 
 Finalmente, los miembros del Tribunal podrán formular preguntas al testigo o perito con el fin de aclarar sus dichos.
 
-Antes de rendir su declaración en juicio, los testigos no podrán comentar entre sí, ni con terceros, las incidencias del caso, ni, (sic) ver, oír o ser informados de lo que ocurriere en la audiencia.
+Antes de rendir su declaración en juicio, los testigos no podrán comentar entre sí, ni con terceros, las incidencias del caso, ni, ver, oír o ser informados de lo que ocurriere en la audiencia.
 
 ###### Artículo 396.
 
@@ -4760,3 +4760,39 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE AGOSTO DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚM. 208 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚM. 208
+
+QUE EMITE LA DECLARATORIA DE ENTRADA EN VIGOR, A PARTIR DE LAS CERO HORAS DEL 18 DE NOVIEMBRE DEL 2014, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO EN EL PRIMER CIRCUITO JUDICIAL DE PACHUCA DE SOTO, CON CABECERA EN ESTA CIUDAD CAPITAL, ÚNICAMENTE EN EL DISTRITO JUDICIAL DE PACHUCA, POR TODOS LOS DELITOS ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE HIDALGO Y EN LAS LEYES APLICABLES EN LA ENTIDAD U OTROS ORDENAMIENTOS, EN LOS TÉRMINOS DE LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 5 DE MARZO DE 2014 Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008 QUE CONTIENE LA REFORMA CONSTITUCIONAL EN MATERIA PENAL Y SEGURIDAD PÚBLICA.
+
+###### ARTÍCULO ÚNICO.
+
+Se declara que en el Estado de Hidalgo se incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales e inicia el Sistema Procesal Acusatorio, de acuerdo con las siguientes prevenciones:
+
+I.- Sus disposiciones empezarán a regir a partir de las cero horas del 18 de noviembre de 2014, en la circunscripción territorial que comprende el Primer Circuito Judicial, con cabecera en Pachuca de Soto, únicamente en el Distrito Judicial de Pachuca de Soto, por todos los delitos establecidos en el Código Penal del Estado de Hidalgo y en las leyes aplicables en la entidad u otros ordenamientos;
+
+II.- En el resto de los Circuitos Judiciales o Distritos Judiciales, sus disposiciones se aplicarán en la fecha que contengan los Decretos de las Declaratorias respectivas que deberán ser emitidos por el Congreso del Estado o la Diputación Permanente, en su caso. Los Decretos deberán ser publicados en el Periódico Oficial del Estado; y
+
+III.- De contar con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Circuitos Judiciales o Distritos Judiciales.
+
+Las averiguaciones previas, procesos penales, recursos y demás procedimientos iniciados con motivo de hechos ocurridos con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta entidad federativa, se regirán por las disposiciones vigentes al momento de acontecidos los hechos.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Hidalgo; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Hidalgo, para los efectos legales que procedan.
+
+TERCERO.- Se abrogan los Códigos de Procedimientos Penales para el Estado de Hidalgo publicado en el Periódico Oficial el 9 de junio de 1990; y el Procesal Penal para el Estado de Hidalgo publicado en el Periódico Oficial el 14 de marzo de 2011, salvo en lo relativo a la ejecución de sanciones penales y medidas para adolescentes en términos de la Ley de Justicia para Adolescentes del Estado de Hidalgo reformada, así como la Ley Procesal de Sanciones Penales y medidas para adolescentes del Estado de Hidalgo, hasta en tanto entre en vigor la nueva legislación nacional en esta materia, en el Primer Circuito Judicial, con cabecera en Pachuca de Soto, únicamente en el Distrito Judicial de Pachuca de Soto, a partir de la entrada en vigor del Código Nacional de Procedimientos Penales e inicio del Sistema Procesal Acusatorio.
+
+CUARTO.- En relación a los hechos ocurridos, procedimientos penales iniciados, con fecha anterior a la incorporación del Sistema Procesal Acusatorio, así como a la entrada en vigor de la normatividad nacional de mérito, iniciarán, continuarán y serán concluidos respectivamente en su substanciación de conformidad con la legislación aplicable al momento de la comisión del hecho delictivo o del inicio de la substanciación de los mismos, siendo éstos plenamente válidos en las actuaciones que se hubieren practicado.
+
+QUINTO.- Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
+
+SEXTO.- Las disposiciones del nuevo Sistema Procesal Acusatorio se aplicarán de manera gradual en el resto de los Circuitos Judiciales y Distritos Judiciales, atendiendo a la fecha en que se expidan los Decretos que contengan las Declaratorias del Congreso del Estado.
