@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-08-04"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1187,7 +1187,7 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2014)</small>
 
 IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
@@ -1195,7 +1195,7 @@ Asistente Administrativo
 
 Departamento de la Junta Municipal de Reclutamiento.
 
-Departamento Administrativo de Regidores.
+Coordinación Administrativa de Regidores y Síndicos.
 
 Coordinación de Asuntos de Cabildo.
 
@@ -10519,7 +10519,7 @@ Salas de lectura 2.5 m2/per ---- 2.50
 
 Acervos 150 ---- 2.50
 
-Iibros/m2
+libros/m2
 
 2.6.- Instalaciones Religiosas
 
@@ -13723,7 +13723,7 @@ II. De Servicio: Movimientos verticales y horizontales, inmediatos o diferidos, 
 
 El análisis de estabilidad del sitio de la excavación se deberá llevar a cabo con base en las acciones especificadas en el capítulo de acciones, considerándose además las sobrecargas que puedan actuar en la vía pública y otras zonas aledañas a la excavación.
 
-###### ARTICULO 947.
+###### ARTÍCULO 947.
 
 Se podrán acondicionar pozos de bombeo con el objeto de reducir las filtraciones de aguas freáticas en las paredes y fondo de las excavaciones y mejorar además su estabilidad.
 
@@ -22147,7 +22147,7 @@ P.O. 13 DE ENERO DE 2014.
 
 Primero.- Las modificaciones al presente código entraran en vigor el día siguiente al de su publicación.
 
-Segundo.- Se concede un plazo de 90 días hábiles después de la publicación del las presentes reformas, modificaciones y adiciones al Instituto Municipal de Planeación a efecto de que las dependencias, entidades y organismos desconcentrados de la Administración Pública Municipal en coordinación con el H. Ayuntamiento de Aguascalientes adecuen su normatividad de conformidad con las presentes reformas, respetando las políticas de austeridad, especialización y eficiencia técnica de su estructura organizacional.
+Segundo.- Se concede un plazo de 90 días hábiles después de la publicación del (sic) las presentes reformas, modificaciones y adiciones al Instituto Municipal de Planeación a efecto de que las dependencias, entidades y organismos desconcentrados de la Administración Pública Municipal en coordinación con el H. Ayuntamiento de Aguascalientes adecuen su normatividad de conformidad con las presentes reformas, respetando las políticas de austeridad, especialización y eficiencia técnica de su estructura organizacional.
 
 Tercero.- La Coordinación General de Verificación Única Administrativa deberá una vez aprobadas por el H. Cabildo las presentes reformas, modificaciones y adiciones poner a disposición de la Secretaría de Administración a los Servidores Públicos que ejercen actualmente funciones de verificación, la que llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
@@ -22182,3 +22182,11 @@ SÉPTIMO.- Las anteriores disposiciones jurídicas entrarán en vigor al día si
 P.O. 4 DE AGOSTO DE 2014.
 
 UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+I.- Con fundamento en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 66 de la Constitución Política del Estado de Aguascalientes; 16, 36 fracciones I y XXXIX, 47, 91 fracciones II y III de la Ley Municipal para el Estado de Aguascalientes; 71 fracción I y demás relativos y aplicables del Código Municipal de Aguascalientes; se aprueba el presente Dictamen relativo a la iniciativa de reforma al Artículo 98 fracción IX del Código Municipal de Aguascalientes, en los términos propuestos.
+
+II.- La presente reforma entrará en vigor el día hábil siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
