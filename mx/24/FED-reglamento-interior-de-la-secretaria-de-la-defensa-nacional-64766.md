@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2011-10-17"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-12-22"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -255,7 +255,7 @@ III. Ejercer el control de los órganos administrativos que le asigne el General
 
 IV. Acordar con el General Secretario el despacho de los asuntos de los órganos administrativos adscritos a su responsabilidad, y formular informes periódicos sobre la actuación de los mismos;
 
-V. Supervisar que se cumplan las disposiciones jurídicas y evaluar la actuación los (sic) órganos administrativos que tenga adscritos, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
+V. Supervisar que se cumplan las disposiciones jurídicas y evaluar la actuación (sic) los órganos administrativos que tenga adscritos, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
 
 VI. Recibir en acuerdo ordinario a los titulares de los órganos administrativos adscritos a su responsabilidad, y en acuerdo extraordinario a otros servidores públicos de la Secretaría;
 
@@ -307,7 +307,9 @@ VI. Coordinar sus actividades con el Subsecretario y con el Jefe del Estado Mayo
 
 VII. Intervenir en la formulación de los proyectos de iniciativas de ley o decreto legislativo, reglamentos, decretos, acuerdos, órdenes y demás instrumentos jurídicos sobre los asuntos de su competencia ordenados por la superioridad;
 
-VIII. Intervenir en la elaboración de los anteproyectos de presupuestos de egresos de la Secretaría;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+VIII. Dirigir los procesos de planeación, programación, presupuestación, ejercicio, control y evaluación del gasto público de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
 IX. Supervisar el cumplimiento de la normatividad para el mantenimiento de la disciplina, el orden y la seguridad en los edificios de la Secretaría y sus inmediaciones; para el adiestramiento; para la atención ciudadana, y en materia de responsabilidades de los servidores públicos, en particular, sobre la obligación de presentación de la declaración patrimonial;
 
@@ -367,9 +369,13 @@ XXIX. Coordinar la participación de la Secretaría en la colecta anual de la Cr
 
 XXX. Atender el portal de Internet de atención ciudadana de la Secretaría;
 
-XXXI. Firmar los documentos relativos al ejercicio de sus facultades y aquéllos que le sean señalados por delegación o le correspondan por suplencia, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
-XXXII. Las demás que le confieran las disposiciones legales y reglamentarias, así como aquéllas que le asigne el General Secretario.
+XXXI. Suscribir previa autorización del General Secretario, los convenios, contratos y demás documentos análogos relacionados con el ámbito de su competencia, y aquéllos relativos al ejercicio de sus atribuciones o que le corresponda por delegación o suplencia, así como suscribir los actos que se deriven de dichos instrumentos jurídicos, inclusive rescindirlos administrativamente o darlos por terminados anticipadamente; asimismo, determinar, aplicar y requerir el pago de penas convencionales por incumplimiento y hacer efectivas fianzas u otras garantías que se deriven de los citados instrumentos jurídicos, en los términos de las disposiciones jurídicas aplicables, y
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+XXXII. Las demás que le confieran las disposiciones jurídicas aplicables, así como aquéllas que le asigne el General Secretario.
 
 ### CAPÍTULO IV. De la Inspección y Contraloría General
 
@@ -691,7 +697,9 @@ Corresponden a las Direcciones Generales, en lo conducente, las atribuciones gen
 
 I. Acordar con el funcionario de quien dependan el despacho de los asuntos a su cargo;
 
-II. Satisfacer las necesidades de vida y operación de las unidades, dependencias e instalaciones de la Secretaría por medio del apoyo técnico, administrativo y logístico, en asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+II. Satisfacer las necesidades materiales y de operación de los organismos del Ejército y Fuerza Aérea Mexicanos por medio del apoyo técnico, administrativo y logístico, en asuntos de su competencia, para lo cual propondrán los bienes y servicios requeridos a la Dirección General de Administración de esta Secretaría, con excepción de las Direcciones Generales de Industria Militar y de Fábricas de Vestuario y Equipo;
 
 III. Planear, programar, coordinar, controlar, evaluar y supervisar el desempeño de las actividades encomendadas;
 
@@ -711,7 +719,9 @@ X. Participar en la elaboración de anteproyectos de instrumentos jurídicos en 
 
 XI. Participar en la elaboración de los anteproyectos de presupuesto y de programas diversos en las áreas de su competencia;
 
-XII. Supervisar que el ejercicio presupuestal se ajuste a las normas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+XII. Supervisar, al interior de la Dirección General de que se trate, que el ejercicio presupuestal se ajuste a las disposiciones jurídicas aplicables;
 
 XIII. Administrar, ejercer y controlar los recursos que se obtengan por concepto de derechos, productos y aprovechamientos, por servicios que preste la Secretaría, cuando actúen como unidades responsables de gasto, de conformidad con la normatividad;
 
@@ -753,7 +763,9 @@ XXXI. Expedir planes y programas de mantenimiento preventivo y/o correctivo de m
 
 XXXII. Establecer coordinación con órganos administrativos públicos y privados en asuntos relacionados con la investigación técnica y científica de su competencia, conforme a las órdenes que reciban de la Secretaría;
 
-XXXIII. Suscribir, con autorización del General Secretario, los convenios, contratos y otros documentos relativos al ejercicio de sus atribuciones, y aquéllos que por delegación o suplencia les correspondan;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+XXXIII. Suscribir previa autorización del General Secretario, los convenios, contratos y otros documentos análogos relacionados con el ámbito de sus competencias, y aquéllos relativos al ejercicio de sus atribuciones o que les corresponda por delegación o suplencia, así como suscribir los actos que se deriven de dichos instrumentos jurídicos, inclusive rescindirlos administrativamente o darlos por terminados anticipadamente; asimismo, determinar, aplicar y requerir el pago de penas convencionales por incumplimiento y hacer efectivas fianzas u otras garantías que se deriven de los citados instrumentos jurídicos, en los términos de las disposiciones jurídicas aplicables;
 
 XXXIV. Proponer la aplicación de acciones legales en asuntos de su competencia, cuando proceda;
 
@@ -1099,7 +1111,7 @@ X. Promover la celebración de convenios con instituciones educativas, consejos,
 
 XI. Proponer acciones de asistencia social en asuntos de su competencia;
 
-XII. Adquirir, almacenar, controlar, abastecer mantener y evacuar el equipo, medicamentos y material diverso, incluyendo el de tipo veterinario;
+XII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2014)
 
 XIII. Intervenir y dictaminar técnicamente en la cría, remonta, adquisición y desecho de ganado caballar, mular y de otras especies, formulando las estadísticas médico-zootécnicas, así como las cartas epizoóticas y bromatológicas;
 
@@ -1109,9 +1121,11 @@ XV. Proporcionar, previa autorización del General Secretario, la información y
 
 XVI. Coordinar y supervisar las actividades para la certificación de los escalones del servicio, por el Consejo de Salubridad General, conforme a las normas oficiales mexicanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
 ###### ARTÍCULO 49.
 
-La Dirección General de Administración es el órgano administrativo encargado de planear, programar, presupuestar, coordinar y controlar el gasto público de la Secretaría.
+La Dirección General de Administración es la unidad administrativa encargada de realizar la programación, presupuestación, ejercicio y control del gasto público de la Secretaría, bajo la dirección de la Oficialía Mayor.
 
 El Director General de Administración será un General en el activo.
 
@@ -1119,19 +1133,29 @@ El Director General de Administración será un General en el activo.
 
 Corresponden a la Dirección General de Administración las atribuciones siguientes:
 
-I. Coordinar los trabajos técnicos del anteproyecto de presupuesto, así como ejercer, controlar y evaluar el gasto público aprobado para la Secretaría, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+I. Coordinar los trabajos técnicos para la elaboración del anteproyecto de presupuesto anual de egresos de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
 II. Controlar y aplicar los procedimientos para el pago de haberes y demás emolumentos, de acuerdo con las normas legales;
 
-III. Adquirir los requerimientos de bienes y servicios para satisfacer las necesidades de vida y operación de la Secretaría, de conformidad con la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
-IV. Supervisar el correcto ejercicio del presupuesto de egresos aprobado para la Secretaría;
+III. Integrar los requerimientos de bienes y servicios solicitados por las Direcciones Generales para satisfacer las necesidades materiales y de operación de los organismos del Ejército y Fuerza Aérea Mexicanos, con excepción de las Direcciones Generales de Industria Militar y de Fábricas de Vestuario y Equipo, así como realizar las adquisiciones, arrendamientos y servicios que deriven de dichos requerimientos, conforme a las directivas que reciba de la Oficialía Mayor y demás disposiciones jurídicas aplicables;
 
-V. Llevar a cabo la contabilidad y glosa del presupuesto anual de la Secretaría y ejecutar la auditoría en asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+IV. Supervisar el correcto ejercicio del presupuesto de egresos aprobado para la Secretaría, proponiendo a la Oficialía Mayor las medidas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+V. Llevar a cabo la contabilidad del presupuesto de egresos de la Secretaría, en términos de las disposiciones jurídicas aplicables;
 
 VI. Controlar administrativamente los bienes muebles del activo fijo de la Secretaría, para los efectos legales que correspondan;
 
-VII. Coordinar el entero a la Tesorería de la Federación, y recuperación vía presupuesto, de los recursos que se obtengan por concepto de derechos, productos y aprovechamientos, por servicios que preste la Secretaría;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+VII. Realizar el entero a la Tesorería de la Federación y gestionar la recuperación, vía presupuesto, de los recursos que obtenga la Secretaría por concepto de derechos, productos y aprovechamientos;
 
 VIII. Coordinar la elaboración de programas diversos para el logro de los objetivos de la Secretaría, y
 
@@ -1147,7 +1171,9 @@ El Director General de Justicia Militar será un General del Servicio en el acti
 
 Corresponden a la Dirección General de Justicia Militar las atribuciones siguientes:
 
-I. Sustanciar el procedimiento administrativo de retiro del personal militar y notificar a los interesados las declaraciones provisional y definitiva de procedencia de retiro, así como desahogar las inconformidades que se le presenten, de reconocimiento de la personalidad militar de reservistas y de los militares extintos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+I. Sustanciar en la parte que corresponda a esta Secretaría, el procedimiento administrativo de retiro del personal militar; de reconocimiento de personalidad militar de reservistas y de militares fallecidos; desahogar las inconformidades que se le presenten, así como emitir y notificar las declaraciones provisional y definitiva de procedencia de retiro, conforme a lo establecido en la ley de la materia y su Reglamento;
 
 II. Asesorar al militar o a sus deudos en la gestión de beneficios con motivo del retiro o fallecimiento del militar, conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
@@ -1157,7 +1183,9 @@ IV. Emitir las determinaciones jurídicas relativas al otorgamiento de condecora
 
 V. Organizar, dirigir y supervisar el funcionamiento de las prisiones militares;
 
-VI. Intervenir en los cambios de prisión y en la prórroga de jurisdicción;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+VI. Intervenir en los cambios de prisión y en la prórroga de jurisdicción, así como coordinar el traslado del personal procesado o sentenciado, de una prisión a otra, militar o civil;
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2011)</small>
 
@@ -1453,7 +1481,9 @@ III. Elaborar artículos y derivados conexos a la producción militar y, en su c
 
 IV. Realizar la investigación y procesamiento de las materias primas e insumos en general, utilizados en la fabricación de los materiales de guerra y demás implementos necesarios para las tropas;
 
-V. Realizar la adquisición de maquinaria, equipo industrial y militar, y toda clase de materiales y elementos destinados a sus programas de producción;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+V. Realizar la adquisición de maquinaria, equipo industrial y militar, y toda clase de materia prima, materiales y elementos destinados a sus procesos productivos y programas de producción, conforme a las directivas que reciba de la Oficialía Mayor y demás disposiciones jurídicas aplicables;
 
 VI. Producir y adquirir armas, municiones, explosivos, artificios, material y equipo conexo, regulados por la Ley Federal de Armas de Fuego y Explosivos, para su enajenación;
 
@@ -1463,7 +1493,9 @@ VIII. Proporcionar servicios de asesoría técnica, ensamble, reparación y mant
 
 IX. Integrar los subcomités de adquisiciones y de bienes muebles de la propia Dirección General;
 
-X. Elaborar el anteproyecto de presupuesto de egresos para el desarrollo de sus programas, y ejercerlo y controlarlo, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+X. Elaborar el anteproyecto de presupuesto de egresos para el desarrollo de sus programas y previa autorización de la Oficialía Mayor, ejercer y controlar su presupuesto asignado, y
 
 XI. Concebir, ejecutar y supervisar las actividades de producción para el cumplimiento de los objetivos de la industria militar, en atención a parámetros de eficiencia y productividad.
 
@@ -1479,7 +1511,9 @@ Corresponden a la Dirección General de Fábricas de Vestuario y Equipo las atri
 
 I. Diseñar, fabricar y, en su caso, dar mantenimiento al vestuario, equipo militar y mobiliario conforme a las necesidades de la Secretaría;
 
-II. Proponer la adquisición de materias primas, materiales, maquinaria y equipo, para sus procesos productivos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+II. Realizar la adquisición de maquinaria, equipo industrial y militar, materias primas, materiales y elementos, para sus procesos productivos y programas de producción, conforme a las directivas que reciba de la Oficialía Mayor y demás disposiciones jurídicas aplicables;
 
 III. Fabricar vestuario y equipo para otras dependencias y entidades, en actividades de apoyo interinstitucional;
 
@@ -1495,7 +1529,9 @@ VIII. Ordenar y supervisar que se lleve a cabo el mantenimiento a la maquinaria,
 
 IX. Integrar los subcomités de adquisiciones y de bienes muebles de la propia Dirección General;
 
-X. Elaborar el anteproyecto de presupuesto de egresos para el desarrollo de sus programas, y ejercerlo y controlarlo, y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+X. Elaborar el anteproyecto de presupuesto de egresos para el desarrollo de sus programas y previa autorización de la Oficialía Mayor, ejercer y controlar su presupuesto asignado, y
 
 XI. Concebir, ejecutar y supervisar las actividades de producción para el cumplimiento de los objetivos de la industria militar, en atención a parámetros de eficiencia y productividad.
 
@@ -1575,7 +1611,9 @@ VII. Someter a consideración de la superioridad los anteproyectos de disposicio
 
 VIII. Proponer los procedimientos para que la Secretaría intervenga en actividades y operaciones relacionadas con las materias primas y los artículos que puedan tener uso bélico;
 
-IX. Sustanciar el procedimiento para la aplicación de sanciones administrativas de conformidad con lo establecido en la Ley Federal de Armas de Fuego y Explosivos;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+IX. Sustanciar el procedimiento para determinar e imponer sanciones administrativas por infracciones a la Ley Federal de Armas de Fuego y Explosivos, su Reglamento o a las condiciones establecidas en los permisos generales y licencias previstos en dicha Ley, así como valorar las pruebas y desahogar las inconformidades que se le presenten, en términos de las disposiciones jurídicas aplicables;
 
 X. Promover campañas de comunicación orientadas a la reducción de la posesión, portación y uso de armas de fuego, además de las tendientes a evitar su introducción a instalaciones educativas, en coordinación con las Secretarías de Gobernación y de Educación Pública;
 
@@ -1709,7 +1747,7 @@ X. Promover e instrumentar la formación integral de los miembros del Ejército 
 
 La organización y funcionamiento de los Órganos del Fuero de Guerra se establecen en el Código de Justicia Militar, además de los reglamentos y manuales respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1723,9 +1761,9 @@ III. Someter a consideración del General Secretario las alternativas jurídicas
 
 IV. Coadyuvar con las autoridades correspondientes en los asuntos de orden jurídico de la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
-IV bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de la Defensa Nacional representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+IV bis. Representar al Presidente de la República en los juicios de amparo respecto de aquellos asuntos que correspondan a la Secretaría, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2009)</small>
 
@@ -1781,7 +1819,7 @@ TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al p
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 22 DE JULIO DE 2009.
 
@@ -1794,3 +1832,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a este Decreto.
 
 TERCERO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán mediante movimientos compensados, por lo que, la Secretaría de la Defensa Nacional debe sujetarse al presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y no incrementar su presupuesto regularizable.
+
+D.O.F. 25 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
