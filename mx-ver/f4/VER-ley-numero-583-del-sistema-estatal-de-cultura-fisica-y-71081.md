@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2014-07-21"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE AGOSTO DE 2014.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -385,7 +385,13 @@ VI. Organizar y coordinar las actividades deportivas en las colonias, barrios, z
 
 VII. Llevar el registro de las instalaciones deportivas en su municipio, dotando a éstas, del personal adecuado para su conservación, utilización y mantenimiento; y
 
-VIII. Las demás que conforme a esta ley, reglamento y acuerdos le correspondan.
+> <small>(ADICIONADA, G.O. 25 DE AGOSTO DE 2014)</small>
+
+VIII. Integrar en sus Planes Municipales de Desarrollo a las actividades deportivas como parte de los objetivos, estrategias y prioridades para el desarrollo municipal;
+
+> <small>(REFORMADA, G.O. 25 DE AGOSTO DE 2014)</small>
+
+IX. Las demás que conforme a esta Ley, Reglamento y Acuerdos le correspondan.
 
 ###### Artículo 28.
 
@@ -884,3 +890,9 @@ G.O. 21 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
