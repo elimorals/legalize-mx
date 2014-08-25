@@ -4,7 +4,7 @@ identifier: "HID-ley-procesal-de-sanciones-penales-y-medidas-para-81806"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY PROCESAL DE SANCIONES PENALES Y MEDIDAS PARA ADOLESCENTES DEL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES E INICIO DEL SISTEMA PROCESAL ACUSATORIO, PUBLICADO EN EL P.O. DE 25 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADA HASTA EN TANTO ENTRE EN VIGOR LA NUEVA LEGISLACIÓN NACIONAL EN ESTA MATERIA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
 
 Ley publicada en el número 24 Bis del Periódico Oficial del Estado de Hidalgo, el viernes 17 de junio de 2011.
 
@@ -672,3 +674,19 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto deberá ser notificado a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Hidalgo; Legislativo, Ejecutivo y Judicial de las entidades federativas y el Distrito Federal, así como a los Ayuntamientos del Estado de Hidalgo, para los efectos legales que procedan.
+
+TERCERO.- Se abrogan los Códigos de Procedimientos Penales para el Estado de Hidalgo publicado en el Periódico Oficial el 9 de junio de 1990; y el Procesal Penal para el Estado de Hidalgo publicado en el Periódico Oficial el 14 de marzo de 2011, salvo en lo relativo a la ejecución de sanciones penales y medidas para adolescentes en términos de la Ley de Justicia para Adolescentes del Estado de Hidalgo reformada, así como la Ley Procesal de Sanciones Penales y medidas para adolescentes del Estado de Hidalgo, hasta en tanto entre en vigor la nueva legislación nacional en esta materia, en el Primer Circuito Judicial, con cabecera en Pachuca de Soto, únicamente en el Distrito Judicial de Pachuca de Soto, a partir de la entrada en vigor del Código Nacional de Procedimientos Penales e inicio del Sistema Procesal Acusatorio.
+
+CUARTO.- En relación a los hechos ocurridos, procedimientos penales iniciados, con fecha anterior a la incorporación del Sistema Procesal Acusatorio, así como a la entrada en vigor de la normatividad nacional de mérito, iniciarán, continuarán y serán concluidos respectivamente en su substanciación de conformidad con la legislación aplicable al momento de la comisión del hecho delictivo o del inicio de la substanciación de los mismos, siendo éstos plenamente válidos en las actuaciones que se hubieren practicado.
+
+QUINTO.- Las leyes reglamentarias así como las diversas leyes del Estado de Hidalgo, relativas a la organización y funcionamiento de las Instituciones involucradas en la seguridad pública, procuración e impartición de justicia y todas aquellas en las que se establecen los diversos dispositivos que inciden en la aplicación del Sistema Procesal Acusatorio, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales, en las fechas de incorporación al Sistema Procesal Penal acusatorio señaladas en el presente decreto y a partir de que el Código Nacional de Procedimientos Penales entre en vigor en los términos y modalidades enunciadas en la presente declaratoria.
+
+SEXTO.- Las disposiciones del nuevo Sistema Procesal Acusatorio se aplicarán de manera gradual en el resto de los Circuitos Judiciales y Distritos Judiciales, atendiendo a la fecha en que se expidan los Decretos que contengan las Declaratorias del Congreso del Estado.
