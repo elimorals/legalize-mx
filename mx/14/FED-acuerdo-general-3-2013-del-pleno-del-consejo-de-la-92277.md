@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-08-15"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -305,7 +305,9 @@ XIX. DECIMONOVENO CIRCUITO:
 
 2. Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-3. Doce juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, dos con residencia en Reynosa y tres con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y dos de Procesos Penales Federales.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO 21/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+3. Trece juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Tampico, dos con residencia en Reynosa y cuatro con sede en Matamoros, uno de ellos en materias de amparo y juicios federales y tres de Procesos Penales Federales.
 
 XX. VIGESIMO CIRCUITO:
 
@@ -1112,3 +1114,13 @@ SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que se especializan y cambian de denominación, motivo del presente acuerdo, de los recursos materiales necesarios (sello oficial, directorios, placas de identificación, papelería, etc.), para que a la brevedad posible cuenten con ellos.
+
+D.O.F. 25 DE AGOSTO DE 2014.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+CUARTO. La jueza o juez que tenga a su cargo la Coordinación de los Juzgados de Procesos Penales Federales en el Estado de Tamaulipas, enviará a la Secretaría Ejecutiva del Pleno y de la Presidencia el rol de guardias de dichos órganos jurisdiccionales para su inmediata publicación en las páginas de Intranet e Internet del Consejo de la Judicatura Federal, de conformidad con lo dispuesto en el punto SEXTO del presente Acuerdo General.
