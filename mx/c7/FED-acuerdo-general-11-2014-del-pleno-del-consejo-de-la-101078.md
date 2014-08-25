@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2014-del-pleno-del-consejo-de-la-101078"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-05-30"
-last_updated: "2014-05-30"
+last_updated: "2014-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101078&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-23"
 
 ACUERDO GENERAL 11/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2014.
 
@@ -147,9 +147,11 @@ En los circuitos en los que únicamente haya dos tribunales, los Plenos respecti
 
 En aquellos circuitos donde existan más de 2 tribunales colegiados se integrarán por sus respectivos presidentes.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 6.
 
-Los tribunales colegiados auxiliares no integrarán plenos; tampoco lo integrarán aquellos tribunales colegiados con una especialización determinada, cuya competencia abarque toda la República Mexicana.
+Los tribunales colegiados de circuito en materia administrativa, especializados en competencia económica, radiodifusión y telecomunicaciones integrarán un pleno de circuito. Los tribunales colegiados auxiliares no conformarán ningún pleno.
 
 ###### Artículo 7.
 
@@ -169,9 +171,15 @@ La Secretaría Ejecutiva someterá a la Comisión, la conformación y naturaleza
 
 ### CAPÍTULO PRIMERO. Del presidente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 11.
 
-Cada Pleno tendrá un presidente que será seleccionado de la lista anual del decanato, por su mayor antigüedad reciente y continua como magistrado en el Circuito respectivo; durará un año en su cargo y no podrá ser reelecto para los dos periodos inmediatos posteriores, independientemente del tribunal colegiado al que se encuentre adscrito.
+Cada Pleno tendrá un presidente que será seleccionado de la lista anual del decanato, por su mayor antigüedad reciente y continua como magistrado en el Circuito respectivo. En el caso del Pleno de Circuito en Materia Administrativa, Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones será la antigüedad como magistrado, con independencia de su adscripción y de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 20/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+En todos los casos, durarán un año en su cargo y no podrán ser reelectos para los dos periodos inmediatos posteriores, independientemente del tribunal colegiado al que se encuentre adscrito.
 
 La designación anual de los magistrados decanos se realizará de la siguiente forma:
 
@@ -504,3 +512,15 @@ NOVENO. La Dirección General de Tecnologías de la información en forma conjun
 DÉCIMO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 11/2014, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de mayo de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veintitrés de mayo de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE AGOSTO DE 2014.
+
+PRIMERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO. El presente acuerdo general entrará en vigor el día siguiente de su aprobación.
+
+El Pleno de Circuito en Materia Administrativa Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones iniciará funciones el 16 de agosto de 2014.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales deberá integrar de inmediato el texto de la reforma al Acuerdo General 11/2014 del Pleno del Consejo de la Judicatura Federal.
