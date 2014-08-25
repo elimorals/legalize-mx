@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aguas-nacionales-4"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-12"
-last_updated: "2011-05-24"
+last_updated: "2014-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-11"
 
 REGLAMENTO DE LA LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 12 de enero de 1994.
 
@@ -197,7 +197,9 @@ Asimismo, promoverá o en su caso expedirá y certificará el cumplimiento de la
 
 Para efectos de la fracción XIII, del artículo 9o., de la "Ley", "La Comisión" podrá:
 
-I. Efectuar visitas de inspección observando el procedimiento previsto en el artículo 183 de este "Reglamento", y
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+I. Efectuar visitas de inspección observando el procedimiento que al efecto prevé la Ley Federal de Procedimiento Administrativo, y
 
 II. Realizar, entre otras, las funciones de inspección y vigilancia necesarias para la protección y seguridad hidráulica, para lo cual cuidará la conservación e integridad de la infraestructura hidráulica federal a su cargo y la debida prestación de los servicios hidráulicos federales respectivos, asimismo participará en el Sistema Nacional de Protección Civil.
 
@@ -1575,7 +1577,9 @@ Para efectos del artículo 92 de la "Ley", para poder ordenar la suspensión de 
 
 I. Se realizará visita de inspección a las instalaciones de la persona, cuando considere que les son aplicables la "Ley" y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de conformidad con lo que señalan las mismas;
 
-II. Se levantará acta circunstanciada de la visita de inspección, aplicando en lo conducente lo dispuesto en el artículo 122 de la "Ley" y en los artículos 184 y 185 de este "Reglamento", precisando las actividades que den origen a la descarga;
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+II. Se levantará acta circunstanciada de la visita de inspección, aplicando en lo conducente lo dispuesto en el artículo 122 de la “Ley” y en la Ley Federal de Procedimiento Administrativo, precisando las actividades que den origen a la descarga.
 
 III. En el caso de infracción a las fracciones II, III y IV, del artículo 92 de la "Ley", se otorgará un plazo de quince días hábiles para corregir su situación, que se podrá ampliar por la autoridad en casos justificados, bajo el apercibimiento de que en caso de incumplimiento y previa resolución, se procederá a la suspensión o clausura de las actividades que den origen a las descargas de aguas residuales;
 
@@ -1767,7 +1771,7 @@ Para efectos de los artículos 97 y 98 de la "Ley":
 
 I. Sólo podrán ejecutarse obras para encauzamiento, dragado, limitación o desecación parcial o total de corrientes y depósitos de agua de propiedad nacional, previo permiso de "La Comisión", la que determinará la forma y términos para ejecutar dichas obras, y
 
-II. "La Comisión", en el ámbito de su competencia, podrá permitir la construcción de canales y dársenas (sic) en la ribera o zona federal de corrientes, lagos o lagunas a su cargo.
+II. "La Comisión", en el ámbito de su competencia, podrá permitir la construcción de canales y dársenas en la ribera o zona federal de corrientes, lagos o lagunas a su cargo.
 
 El permiso a que se refiere el presente artículo se podrá tramitar conjuntamente con la concesión de la zona federal a cargo de "La Comisión", cuando ésta se requiera para el proyecto aprobado o con motivo de la actividad a realizar.
 
@@ -1915,53 +1919,17 @@ VI. Las demás disposiciones legales y reglamentarias aplicables.
 
 "La Comisión" podrá solicitar la documentación e información necesaria o efectuar visitas de inspección para vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables.
 
-"La Comisión" podrá igualmente realizar visitas de verificación del cumplimiento de la ley y de las normas oficiales mexicanas del ámbito de su competencia, en los términos del Título Quinto de la Ley Federal sobre Metrología y Normalización, aplicándose en lo que no se oponga a dichas disposiciones legales lo previsto en los artículos siguientes para las visitas de inspección.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
+“La Comisión” podrá igualmente realizar visitas de verificación sobre el cumplimiento de la “Ley” y de las normas oficiales mexicanas del ámbito de su competencia, en los términos del Título Quinto de la Ley Federal sobre Metrología y Normalización. “La Comisión” para efectuar los actos de inspección, verificación y vigilancia a que se refiere este artículo deberá observar el procedimiento previsto en los artículos 62 a 69 y demás aplicables de la Ley Federal de Procedimiento Administrativo, salvo cuando se trate de actos regulados en disposiciones jurídicas de carácter fiscal aplicables a la materia de aguas nacionales.
 
 ###### ARTICULO 183.
 
-Las visitas de inspección que se efectúen por "La Comisión" para verificar el cumplimiento de lo dispuesto en el artículo anterior, se efectuarán conforme a lo siguiente:
-
-I. El personal autorizado, al realizar las visitas de inspección, deberá presentar la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y alcance de ésta;
-
-II. El personal autorizado, al iniciar la inspección se identificará debidamente con el visitado con el documento oficial que lo acredite como inspector o auditor, exhibirá la orden respectiva y le entregará copia de la misma, requiriéndolo para que en el acto designe dos testigos. En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección;
-
-III. El visitado con quien se entiende la diligencia estará obligado a permitir al personal autorizado el acceso al lugar o lugares sujetos a la inspección, en los términos previstos en la orden escrita a que se hace referencia en la fracción I, de este artículo, así como a proporcionar toda clase de información y documentación que conduzca a la verificación del cumplimiento de la "Ley", este "Reglamento" y demás disposiciones legales y jurídicas, competencia de "La Comisión";
-
-IV. "La Comisión" podrá solicitar conforme a la ley el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar;
-
-V. En toda visita de inspección se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia;
-
-VI. Al concluirse la inspección, se dará oportunidad al visitado para manifestar lo que a su derecho convenga, en relación con los hechos asentados en el acta. A continuación se procederá a firmar el acta por el visitado, por los testigos y por el personal autorizado, quien entregará copia del acta a los interesados. Si el visitado o los testigos, se negaren a firmar el acta, o se negaren a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio; una vez concluida la diligencia, el visitado tendrá un término de 15 días hábiles para que manifieste por escrito lo que a su derecho convenga respecto de dicha acta y ofrezca pruebas en relación con los hechos y omisiones que en la misma se asientan;
-
-VII. En caso de que se requieran la adopción de medidas correctivas de urgente aplicación, "La Comisión" notificará al visitado mediante requerimiento debidamente fundado y motivado para que las realice, otorgando un término de 10 días hábiles para que manifieste lo que a su derecho convenga;
-
-VIII. Se tendrán por consentidos los hechos y omisiones consignados en las actas de inspección, si transcurrido el plazo a que se refiere la fracción anterior, el visitado no presenta documentos o pruebas que desvirtúen los hechos u omisiones que se asientan en el acta de inspección;
-
-IX. Una vez escuchado al visitado, recibidas y desahogadas las pruebas que ofreció, o en caso de que no haya hecho dentro del plazo mencionado uso del derecho que le conceden las fracciones VI y VII de este artículo, "La Comisión" dictará la resolución administrativa que corresponda, debidamente fundada y motivada, misma que se notificará al interesado, y
-
-X. Las notificaciones para estos fines serán personales y cumplirán con lo que establece el presente "Reglamento".
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2014)
 
 ###### ARTICULO 184.
 
-En las actas se hará constar:
-
-I. Nombre, denominación o razón social del visitado;
-
-II. Hora, día, mes y año en que inicie y en que concluya la diligencia;
-
-III. Calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la visita; en caso de que el lugar no se pudiera precisar conforme a lo anterior, se deberá señalar en el acta la información que permita precisar la localización del lugar en el que se practique la visita;
-
-IV. Número y fecha del oficio de comisión que la motivó;
-
-V. Nombre, y en su caso, cargo de la persona con quien se entendió la diligencia;
-
-VI. Nombre y domicilio de las personas que fungieron como testigos;
-
-VII. Datos relativos a la actuación;
-
-VIII. Declaración del visitado bajo protesta de decir verdad, si quisiera hacerla, y
-
-IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo el de quien la llevó a cabo.
+(DEROGADO, D.O.F. 25 DE AGOSTO DE 2014)
 
 ### Capítulo II. Infracciones y Sanciones Administrativas
 
@@ -2252,3 +2220,7 @@ D.O.F. 24 DE MAYO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Quedan sin efecto, en la parte conducente, aquellas disposiciones administrativas que impidan o limiten lo previsto en el presente Decreto.
+
+D.O.F. 25 DE AGOSTO DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
