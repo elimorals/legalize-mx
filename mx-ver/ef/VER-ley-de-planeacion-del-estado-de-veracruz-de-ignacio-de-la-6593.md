@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2014-07-18"
+last_updated: "2014-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -325,7 +325,9 @@ PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS.
 
 Los Planes Municipales de Desarrollo de cada uno de los municipios del Estado deberán elaborarse, aprobarse y publicarse dentro de un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos, y su vigencia no excederá del período que les corresponda. Antes de publicarse en la Gaceta Oficial del estado, los Ayuntamientos remitirán su Plan Municipal de Desarrollo al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI inciso b) de esta Ley.
 
-El Plan, precisará los objetivos, estrategias y prioridades del desarrollo municipal. Contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los órganos responsables de su ejecución; sus previsiones se referirán al conjunto de las actividades económicas, sociales y culturales y regirá el contenido de los programas que se deriven del Plan.
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2014)</small>
+
+El Plan precisará los objetivos, estrategias y prioridades del desarrollo municipal, debiendo contener las previsiones sobre los recursos que serán asignados a tales fines, determinando los órganos responsables de su ejecución y el conjunto de las actividades económicas, sociales, deportivas y culturales a desarrollarse, las cuales deberán ser diseñadas conforme a las leyes y reglamentos de la materia, en congruencia con el presupuesto de egresos del ejercicio fiscal correspondiente. Los programas que se deriven del plan deberán realizarse conforme a lo anterior.
 
 > <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
 
@@ -498,3 +500,9 @@ G.O. 18 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 25 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
