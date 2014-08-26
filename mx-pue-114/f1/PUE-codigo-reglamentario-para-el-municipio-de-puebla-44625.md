@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-04-04"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -361,7 +361,7 @@ IV. Solicitar al Presidente le conceda el uso de la palabra para expresar su cri
 
 V. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento;
 
-VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y (sic)
+VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y
 
 VII. Proporcionar la información requerida por los miembros del Ayuntamiento;
 
@@ -393,7 +393,7 @@ IX. Facilitar a los miembros del Ayuntamiento, el asesoramiento necesario para e
 
 X. Llevar un archivo sobre citatorios, ordenes del día y cualquier material informativo que ayude para aclaraciones futuras;
 
-XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y (sic)
+XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y
 
 XII. Cuidar de la publicación de los dispositivos jurídicos y/o acuerdos del pleno del Cabildo en su caso;
 
@@ -661,7 +661,7 @@ Si algún miembro del Cabildo sé inconforma con el trámite que el Presidente M
 
 Sólo se suspenderá la discusión de un asunto por las causas siguientes:
 
-I. Por que (sic) el pleno del cabildo acuerde dar preferencia a otro asunto de mayor importancia o urgencia;
+I. Por que el pleno del cabildo acuerde dar preferencia a otro asunto de mayor importancia o urgencia;
 
 II. Por propuesta de suspensión que realice algún Regidor quien deberá expresar lo motivos fundados de su solicitud y ésta sea aprobada por la mayoría del Cabildo; y
 
@@ -1311,7 +1311,7 @@ VI. El día y la hora en que se llevará a cabo la entrega de la constancia de r
 
 VII. Las bases y términos en que deberá de llevarse a cabo la elección de la Mesa Directiva de Vecinos, a la cual se está convocando;
 
-VIII. El día, hora y lugar en que se llevará a cabo la elección; y (sic)
+VIII. El día, hora y lugar en que se llevará a cabo la elección; y
 
 IX. (DEROGADA, P.O. 10 DE AGOSTO DE 2012)
 
@@ -2519,7 +2519,7 @@ n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad 
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
-ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros, como responsables solidarios, independientemente de la sanción que se le imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y (sic)
+ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros, como responsables solidarios, independientemente de la sanción que se le imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -3079,7 +3079,7 @@ V. Dirigir administrativamente las labores del Juzgado Calificador e informar de
 
 VI. Solicitar el auxilio de la fuerza pública en caso de que así se requiera, para el adecuado funcionamiento del Juzgado Calificador;
 
-VII. El Juez Calificador deberá firmar los recibos de multas impuestas; y (sic)
+VII. El Juez Calificador deberá firmar los recibos de multas impuestas; y
 
 VIII. El Juez Calificador deberá establecer estrecha coordinación con los titulares del Ministerio Público;
 
@@ -3713,7 +3713,7 @@ III. Se recibirán las pruebas que aporte el inculpado en su defensa incluyendo 
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor, a su defensor y al denunciante si lo hubiere; (sic)
+IV. Emitida la resolución, el Juez Calificador notificará personalmente al infractor, a su defensor y al denunciante si lo hubiere;
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4769,7 +4769,7 @@ IX. Conducir vehículos que contaminen ostensiblemente el ambiente;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
 
-X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación, dentro de una ciclo vía o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal, (sic)
+X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación, dentro de una ciclo vía o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal,
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -5349,7 +5349,7 @@ VII. Al levantar el acta de infracción, el agente de seguridad vial debe dar op
 
 VIII. Cumplido lo anterior, se procederá a la firma del acta por quienes en ella hayan intervenido, se entregará el original de la misma al interesado y otro tanto se remitirá a la Dirección de Tránsito Municipal;
 
-IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y (sic)
+IX. Si el conductor o la persona con quien se entendió la diligencia se negaré a firmar, o a aceptar el original del acta levantada, ello no afectará el valor jurídico de la misma ni su eficacia, siempre y cuando el agente de seguridad vial haga constar dichas circunstancias y asiente las razones relativas; y
 
 X. En caso de que el infractor no esté presente en el momento en que se levante el acta de infracción o se niegue a recibirla, el original de ésta se dejara en lugar visible del vehículo;
 
@@ -5505,7 +5505,7 @@ I. Retención de licencia de conducir, tarjetas de circulación, placas de vehí
 
 II. La inmovilización de vehículos, en los supuestos a que se refiere el artículo 329 del presente Capítulo;
 
-III. El retiro de la circulación y aseguramiento de vehículos, el cual será procedente sólo en los supuestos de los artículos 270, 300, 304 fracción VI y 324 de este Capítulo, o si una de las multas a imponer, de acuerdo con el tabulador de infracciones viales, pude ser superior al importe de diez días de salario mínimo; y (sic)
+III. El retiro de la circulación y aseguramiento de vehículos, el cual será procedente sólo en los supuestos de los artículos 270, 300, 304 fracción VI y 324 de este Capítulo, o si una de las multas a imponer, de acuerdo con el tabulador de infracciones viales, pude ser superior al importe de diez días de salario mínimo; y
 
 IV. La inhabilitación del infractor para conducir en el Municipio de Puebla, por un término determinado, no menor de quince días ni mayor de un año;
 
@@ -6829,13 +6829,15 @@ DISPOSICIONES GENERALES
 
 El presente Capítulo tiene por objeto regular los espectáculos públicos que se presenten en el Municipio de Puebla, a través de la Coordinación de Fiscalización de Espectáculos Públicos dependiente de la Unidad de Normatividad y Regulación Comercial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 475.
 
-Por diversión o espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, deportiva, o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión. Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad.
+Por diversión o espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, circense, deportiva o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión. Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Se consideran incluidos dentro de este Capítulo la realización de actos públicos o concentraciones masivas.
+Por espectáculo circense se entenderá toda aquella representación artística que se realiza en un inmueble o al aire libre o en carpa, público o privado, que cuenta con la participación de acróbatas, malabaristas, payasos o magos y demás artistas que realicen expresiones humanas relacionadas con las técnicas circenses.
 
 ###### Artículo 476.
 
@@ -6880,6 +6882,12 @@ c) Correo electrónico, fax y teléfono donde se le pueda localizar;
 d) Dirección del lugar donde se llevará a cabo el espectáculo;
 
 e) Descripción del espectáculo que se va a presentar, señalando el tiempo de duración del mismo y la(s) fecha(s) en que se desea realizar;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2014)</small>
+
+Tratándose de espectáculos circenses, el promotor deberá declarar bajo protesta que éste se realizará sin ningún tipo de animales.
 
 f) Fecha de instalación y en su caso retiro de las estructuras que se pretendan montar;
 
@@ -7161,13 +7169,29 @@ XXV. Evitar que la publicidad obstaculice la visibilidad del espectador y ocasio
 
 XXVI. Elaborar un registro del personal que participe en cualquier tipo de espectáculo público, incluyendo al de seguridad privada o auxiliar y al equipo de apoyo técnico de los artistas que se presenten, debiendo presentarlo a la Autoridad en el momento en que ésta lo requiera;
 
-XXVII. Verificar que el personal de seguridad privada o auxiliar cuente con carta de antecedentes no penales; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXVII. Verificar que el personal de seguridad privada o auxiliar cuente con carta de antecedentes no penales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REPUBLICADA, P.O. 26 DE AGOSTO DE 2014)
 
 XXVIII. Colocar contenedores para el depósito de los residuos que se generen en el espectáculo;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXX. Tratándose de espectáculo circenses, no utilizar ningún tipo de animales para llevar a cabo su espectáculo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -7205,17 +7229,29 @@ VI. Vender bebidas alcohólicas y/o cigarros a menores de edad, así como permit
 
 VII. Vender estupefacientes, incluyendo a los menores de edad;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Realizar actos que impliquen reventa de boletos a precios superiores a los autorizados; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+VIII. Realizar actos que impliquen reventa de boletos a precios superiores a los autorizados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REPUBLICADA, P.O. 26 DE AGOSTO DE 2014)
 
 IX. Anunciar o presentar un espectáculo distinto al autorizado;
 
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Impedir el acceso en razón a ser persona con discapacidad.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+X. Impedir el acceso en razón a ser persona con discapacidad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XI. Utilizar animales durante la promoción en vía pública, en las instalaciones y celebración de los espectáculos circenses.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8923,7 +8959,7 @@ X. Permitir los juegos de azar y juegos de apuestas dentro del establecimiento, 
 
 XI. La venta o enajenación de bebidas alcohólicas en la vía pública; preparar para comercializar y consumir, fuera del establecimiento, bebidas alcohólicas. En general permitir que se consuman en el exterior del establecimiento o en su estacionamiento, las bebidas reguladas por este ordenamiento;
 
-XII. Permitir que las emisiones de contaminación por ruido generadas dentro del establecimiento rebasen en el exterior del mismo, los límites máximos contenidos en las Normas Oficiales Mexicanas aplicables, y (sic)
+XII. Permitir que las emisiones de contaminación por ruido generadas dentro del establecimiento rebasen en el exterior del mismo, los límites máximos contenidos en las Normas Oficiales Mexicanas aplicables, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -8983,7 +9019,7 @@ VII. VINATERÍA.24:00 horas para venta;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y (sic)
+VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -9025,7 +9061,7 @@ VI. BAR;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-VII. DISCOTECA; y (sic)
+VII. DISCOTECA; y
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10687,9 +10723,9 @@ V. Exhibir la documentación comprobatoria de la sanidad y legal procedencia de 
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS MUNICIPALES Y/O DE APOYO
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10749,9 +10785,9 @@ V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatori
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS MUNICIPALES Y/O DE APOYO
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10775,9 +10811,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10785,7 +10821,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -10967,7 +11003,7 @@ VI. Cumplir con todas las leyes y disposiciones Municipales aplicables;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-VII. Cumplir con las leyes y disposiciones sanitarias y de seguridad aplicables; y (sic)
+VII. Cumplir con las leyes y disposiciones sanitarias y de seguridad aplicables; y
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -10995,7 +11031,7 @@ c) Copia de identificación oficial vigente con fotografía;
 
 d) Croquis de la ubicación en vía pública, de donde desea ejercer la actividad;
 
-e) Señalar los días en los que se ejercerá la actividad en vía pública; y (sic)
+e) Señalar los días en los que se ejercerá la actividad en vía pública; y
 
 f) Relacionar el mobiliario que será utilizado de conformidad a lo establecido por el artículo 643 del Código Reglamentario.
 
@@ -11105,7 +11141,7 @@ II. Portar permanentemente su credencial a la vista;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-III. Portar el permiso; y (sic)
+III. Portar el permiso; y
 
 IV. Respetar los horarios y días de trabajo que se hayan establecido previamente según el caso.
 
@@ -14543,7 +14579,7 @@ La profundidad a que se instala una tubería se sujetará a las siguientes condi
 
 a). El colchón mínimo para evitar rupturas del conducto ocasionadas por cargas vivas será de un metro para tuberías de 30 cm. de diámetro y para diámetros mayores a 1.0 a 1.5 m.
 
-b). Permitir la correcta conexión de las descargas domiciliarias residuales al alcantarillado municipal en la inteligencia de que el albañal exterior tendrá como mínimo una pendiente de 1% y que el registro inmediato al parámetro del predio, tenga una profundidad mínima de 90 cm.
+b). Permitir la correcta conexión de las descargas domiciliarias residuales al alcantarillado municipal. en la inteligencia de que el albañal exterior tendrá como mínimo una pendiente de 1% y que el registro inmediato al parámetro del predio, tenga una profundidad mínima de 90 cm.
 
 Toda construcción contará con sistemas separados.
 
@@ -17381,7 +17417,7 @@ II. La prueba de hidroestática de la red contra incendio será de 10.5 Kg/cm2. 
 
 III. Funcionamiento de la red contra incendio durante una hora al 100% de las condiciones de diseño; y
 
-V. (sic) La bitácora de red contra incendio tendrá al menos la siguiente información:
+V (SIC). La bitácora de red contra incendio tendrá al menos la siguiente información:
 
 a). Número progresivo del hidrante, monitor o rociador.
 
@@ -17971,11 +18007,11 @@ IV. Regular las obras de construcción, conservación, restauración, adecuació
 
 V. Regular y especificar el contenido de el Programa de Desarrollo Urbano aplicables en la zona, para determinar adecuadamente los usos del suelo en la misma, señalándolos en las licencias correspondientes;
 
+VI. Regular conjuntamente con el Capítulo correspondiente de este Código Reglamentario, la colocación, fijación y diseño de anuncios y mobiliario urbano, así como su mantenimiento y conservación a fin de preservar la fisonomía e imagen urbana de la zona, preservándola de la contaminación visual, auditiva y ambiental;
+
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales (Unidad Operativa Municipal de Protección Civil), así como los organismos sociales y académicos competentes en la materia;
-
-VII. Establecer las normas y principios básicos conforme a los cuales se llevarán a cabo las acciones de protección civil en la zona, a través de los organismos federales, estatales y municipales, así como los organismos sociales y académicos competentes en la materia;
 
 VIII. Normar la ubicación y prestación de los servicios urbanos y de equipamiento en la zona;
 
@@ -19435,7 +19471,7 @@ III. La caja o gabinete del anuncio;
 
 IV. La carátula vista o pantalla;
 
-V. Los elementos de iluminación; y (sic)
+V. Los elementos de iluminación; y
 
 VI. El vehículo o medio de transporte en caso de anuncio móvil;
 
@@ -19781,7 +19817,7 @@ IV. No se permitirá que los anuncios o sus estructuras invadan físicamente o e
 
 V. La distancia mínima entre un anuncio autosoportado de propaganda respecto de otro semejante, valla publicitaria, tótem, espectacular o anuncio electrónico de publicidad, deberá ser de 200 metros;
 
-VI. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción; y (sic)
+VI. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción; y
 
 VII. No se permitirá ningún anuncio con doble área de exhibición sobre el mismo soporte, ni en un mismo plano;
 
@@ -19823,7 +19859,7 @@ Para la ubicación o modificación de los anuncios en muros de colindancia se de
 
 I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siempre y cuando sean estéticos, decorativos y la mención de la firma o razón social que lo patrocine no exceda del cinco por ciento de la superficie del anuncio. Para el otorgamiento de la Licencia correspondiente, el Ayuntamiento, a través de la Agencia, valorará y determinará sobre el carácter estético o decorativo del anuncio;
 
-II. No se permitirá la instalación o fijación de mantas y lonas; y (sic)
+II. No se permitirá la instalación o fijación de mantas y lonas; y
 
 III. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
@@ -19959,7 +19995,7 @@ VI. Las fuentes luminosas no deberán rebasar los 75 luxes;
 
 VII. No estará permitido este tipo de anuncios cuando se realicen cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
 
-VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y (sic)
+VIII. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y
 
 IX. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública y/o los predios colindantes;
 
@@ -19969,7 +20005,7 @@ X. La altura máxima en el caso de que este tipo de anuncio sea autosoportado se
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XI. Los anuncios electrónicos deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión; (sic)
+XI. Los anuncios electrónicos deberán situarse a una distancia mínima de 5.00 metros de los cables de alta tensión;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20045,7 +20081,7 @@ VI. Obtener la Licencia correspondiente de la Agencia;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
-VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y (sic)
+VII. Queda estrictamente prohibido instalar en el Municipio de Puebla, anuncios cuyas dimensiones excedan de las medidas establecidas en la fracción I de este artículo; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20413,7 +20449,7 @@ V. No se autorizará la instalación parcial o total del anuncio sobre las venta
 
 VI. Deberán tener una vida útil mínima de un año y soportar las condiciones climatológicas del ambiente;
 
-VII. No deberán invadir, parcial o totalmente, los marcos de la ventanería, rozaderas, vueltas de salpicaderas, defensas, caras de llantas y rines, ni molduras; (sic)
+VII. No deberán invadir, parcial o totalmente, los marcos de la ventanería, rozaderas, vueltas de salpicaderas, defensas, caras de llantas y rines, ni molduras;
 
 ###### Artículo 1290.
 
@@ -20513,7 +20549,7 @@ VIII. Todos aquellos que vayan a instalarse en inmuebles considerados como monum
 
 IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-X. Instalados en tapiales; y (sic)
+X. Instalados en tapiales; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20719,7 +20755,7 @@ VI. Mantener vigente la póliza del seguro de responsabilidad civil y daños a t
 
 VII. Colocar en lugar visible del anuncio, la placa que contendrá el número de la Licencia, cuando se trate de los anuncios señalados en las fracciones I, III, VI, VII, VIII, X, XI y XII del Artículo 1299 del presente ordenamiento, dicho lugar será determinado por la Agencia;
 
-VIII. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio; y (sic)
+VIII. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20763,7 +20799,7 @@ V. En objetos inflables;
 
 VI. En saliente, volados o colgantes, siempre que la altura de su estructura de soporte sea de hasta 2.50 metros del nivel de banqueta a su parte inferior y su carátula no exceda de 45 centímetros de longitud por 45 centímetros de altura y un espesor de 20 centímetros;
 
-VII. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a su parte inferior; en estos casos la carátula no debe exceder de 90 centímetros de longitud por 1.20 metros de altura y un espesor de 20 centímetros; y (sic)
+VII. Autosoportados, con una altura de hasta 2.50 metros del nivel de banqueta a su parte inferior; en estos casos la carátula no debe exceder de 90 centímetros de longitud por 1.20 metros de altura y un espesor de 20 centímetros; y
 
 VIII. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 centímetros de altura y un espesor de 20 centímetros y cuyo peso sea de hasta 50 Kg;
 
@@ -21111,7 +21147,7 @@ VII. Enajenar en cualquier forma los derechos en ellos conferidos;
 
 VIII. No contar con póliza de seguro vigente, para indemnizar los daños motivo de la instalación de anuncios que causen a los usuarios, peatones o terceros en su persona y/o propiedad;
 
-IX. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, en su persona y/o propiedades con motivo de la fracción anterior; y (sic)
+IX. No cubrir las indemnizaciones por daños causados a los peatones, conductores y terceros, en su persona y/o propiedades con motivo de la fracción anterior; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -22305,7 +22341,7 @@ b) 1,000 a 1,100 (DSM).- En caso de Relleno Sanitario, por modificar sin autoriz
 
 c) 2,000 a 2,500 (DSM).- En caso de Relleno Sanitario, por permitir el escurrimiento de lixiviados fuera de las celdas y los cárcamos de rebombeo y por incumplimiento de los parámetros de medición de gases a la atmósfera, en caso de incineradores.
 
-d) 4,000 4,500 (sic) (DSM).- Por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente, para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
+d) 4,000 4,500 (DSM).- Por permitir la disposición de los residuos sólidos en vehículos que no sean propiedad de los concesionarios autorizados por el Organismo, o del mismo Organismo, o que estén al servicio de éste o por vehículos no autorizados por la autoridad competente, para el transporte de residuos sólidos peligrosos en caso de instalaciones de valorización.
 
 e) 5,000 a 5,500 (DSM).- No cumplir con los requisitos solicitados en el Manifiesto de Impacto Ambiental aprobado por la autoridad competente, en todos los casos o por permitir la disposición final de residuos sólidos peligrosos en caso de Relleno Sanitario.
 
@@ -22437,7 +22473,7 @@ III. COMERCIANTE: A la persona física o moral que dentro de los mercados públi
 
 IV. PRESTADOR DE SERVICIO: A la persona que dentro de los mercados públicos, directamente o mediante contrato celebrado con el Ayuntamiento, presta servicios complementarios al público en general;
 
-V. ZONA DE MERCADO: La zona adyacente a los propios edificios, así como los interiores y exteriores, comprendiendo en ésta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Dirección de Servicios Públicos del H. Ayuntamiento de Puebla, a través de la Unidad Administrativa que estime conveniente; y (sic)
+V. ZONA DE MERCADO: La zona adyacente a los propios edificios, así como los interiores y exteriores, comprendiendo en ésta consideración las banquetas circundantes que delimitan el edificio sobre las cuales ejercerá jurisdicción la Dirección de Servicios Públicos del H. Ayuntamiento de Puebla, a través de la Unidad Administrativa que estime conveniente; y
 
 VI. LOCAL: Puestos fijos ubicados en el interior de los mercados en los cuales se ejercen actividades de comercio.
 
@@ -22455,7 +22491,7 @@ Los mercados se clasifican en:
 
 I. Municipales: Cuando sean propiedad del Ayuntamiento y su administrador esté a cargo del mismo;
 
-II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio y cuya organización, vigilancia y administración está a cargo del Municipio; y (sic)
+II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio y cuya organización, vigilancia y administración está a cargo del Municipio; y
 
 III. Temporales: Los autorizados por el Cabildo Municipal, autoridad ésta que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
 
@@ -23937,7 +23973,7 @@ XIX. Panteón o Cementerio: Al lugar destinado a recibir y alojar los cadáveres
 
 XX. Panteón Horizontal: Al lugar donde los cadáveres, restos humanos y restos humanos áridos o cremados, se depositan bajo tierra;
 
-XXII (sic). Panteón Vertical: A la edificación constituida por uno o más edificios con gavetas superpuestas e instalaciones para el depósito de cadáveres, restos humanos y restos humanos áridos o cremados;
+XXII (SIC). Panteón Vertical: A la edificación constituida por uno o más edificios con gavetas superpuestas e instalaciones para el depósito de cadáveres, restos humanos y restos humanos áridos o cremados;
 
 XXII. Reinhumar: A la acción y efecto de volver a sepultar restos exhumados prematuramente o restos humanos áridos;
 
@@ -25335,7 +25371,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -28641,9 +28677,11 @@ Son objeto de tutela y protección del presente Capítulo, en el ámbito de comp
 
 Para los efectos del presente Capítulo, además de los conceptos definidos en la Legislación vigente y las Normas Oficiales Mexicanas, se entenderá por:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Secretaría: Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+I. Secretaría: Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28751,9 +28789,11 @@ XXIII. Criadero: Área de cohabitación de dos ejemplares de la misma raza y dif
 
 XXIV. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal.; (sic)
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXV. Departamento: El Departamento de Protección y Control Animal de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXV. Departamento.- El Departamento de Protección Animal de la Subdirección de Alumbrado Público y Servicios Municipales de la Dirección de Servicios Públicos de la Secretaría de Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -28897,7 +28937,11 @@ XV. Atender los reportes de la ciudadanía o de otra área de la Administración
 
 XVI. Practicar visitas domiciliarias con el objeto de verificar las condiciones sanitarias en las que se encuentren las mascotas que vivan en el inmueble, y emitir las observaciones pertinentes con el objeto de corregir las omisiones hechas a la Ley de Protección a los Animales, al Código Reglamentario para el Municipio de Puebla, al Reglamento de la Secretaría, cuando la posesión o custodia de los animales de compañía ocasiona problemas, emite ruidos excesivos, malos olores por acumulación de excretas o proliferación de insectos y estas condiciones causen daños a la salud pública; y
 
-XVII. Las demás que le confiera el Ayuntamiento, el Titular de la Secretaría, este Capítulo, el Reglamento Interior de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, y demás ordenamientos jurídicos aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XVII. Las demás que le confiera el Ayuntamiento, el Titular de la Secretaría, este Capítulo, el Reglamento Interior de la Secretaría del (sic) Infraestructura y Servicios Públicos del Honorable Ayuntamiento del Municipio de Puebla y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 1839.
 
@@ -29075,13 +29119,23 @@ XVII. Arrojar animales sacrificados en barrancas, lotes baldíos con los residuo
 
 XVIII. No proporcionar agua y alimento diariamente a los animales que por su naturaleza así lo requieran;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX. Molestar o azuzar a un animal en cautiverio o domesticado en exhibición, ya sea en eventos o lugares públicos; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+XIX. Molestar o azuzar a un animal en cautiverio o domesticado en exhibición, ya sea en eventos o lugares públicos;
 
-XX. Realizar actos dolosos, ilegales e injustos que ocasionen la muerte o mutilación de animales no nocivos, considerando para tal efecto que la intervención quirúrgica, la vivisección y el sacrificio de animales, sólo podrán ser realizados, en los términos de este Capítulo, de las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional o por personas distintas previamente autorizadas por el Departamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XX. Realizar actos dolosos, ilegales e injustos que ocasionen la muerte o mutilación de animales no nocivos, considerando para tal efecto que la intervención quirúrgica, la vivisección y el sacrificio de animales, sólo podrán ser realizados, en los términos de este Capítulo, de las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional o por personas distintas previamente autorizadas por el Departamento; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXI. Utilizar animales durante la promoción en vía pública, en las instalaciones y celebración de los espectáculos circenses.
 
 ###### Artículo 1847.
 
@@ -29107,23 +29161,37 @@ En caso de que el propietario del animal por algún motivo tenga que dejarlo sol
 
 Las personas que sean propietarias de peces, así como los establecimientos donde se comercialicen los mismos, deberán mantener las condiciones adecuadas dentro de las peceras, vidrieras o tanques que determine la autoridad competente.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 1850.
 
-En todo lugar de estancia o cautiverio como circos, ferias, zoológicos, parques de diversiones, criaderos, centros de adiestramiento, tiendas de mascotas, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones adecuadas según su especie, así como instalaciones apropiadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario Zootecnista responsable del establecimiento con cédula profesional, con el objeto de garantizar la salud y bienestar de los animales y de salvaguardar las demás condiciones naturales para su desarrollo y subsistencia.
+En todo lugar de estancia o cautiverio como ferias, zoológicos, parques de diversiones, criaderos, centros de adiestramiento, tiendas de mascotas, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones adecuadas según su especie, así como instalaciones apropiadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario responsable del establecimiento con cédula profesional, con el objeto de garantizar la salud y bienestar de los animales y de salvaguardar, las demás condiciones naturales para su desarrollo y subsistencia.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 1851.
 
-Los circos, ferias, zoológicos, parques de diversiones, acuarios y bioparques, deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo, protección, trato digno y respetuoso de los animales con los que trabajen.
+Las ferias, zoológicos, parques de diversiones, acuarios y bioparques deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo, protección, trato digno y respetuoso de los animales.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1852.
 
 Para la celebración de espectáculos públicos con animales, la autorización correspondiente estará sujeta al cumplimiento de la Norma Oficial Mexicana NOM-135-SEMARNAT-2004 o la que resulte aplicable a este Capítulo y demás ordenamientos legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2014)</small>
+
+###### Artículo 1852 Bis.
+
+Queda prohibida la celebración y realización de espectáculos circenses en los cuales se utilicen animales. Se exceptúan zoológicos, acuarios y centros de conservación con fines de educación ambiental, conservación e investigación, que otorguen trato digno y respetuoso a los animales, y que garanticen las condiciones y los cuidados adecuados, y cumplan con la legislación aplicable.
+
+La Autoridad Municipal competente deberá iniciar el procedimiento administrativo correspondiente cuando en espectáculos circenses se utilicen animales, informando a la Delegación Estatal de la Procuraduría Federal de Protección al Ambiente para los efectos correspondientes.
 
 ###### Artículo 1853.
 
@@ -29461,7 +29529,7 @@ II. Ejecutar las acciones de los programas de control y vigilancia epidemiológi
 
 III. Recibir e investigar todo reporte de animal agresor, realizando el diagnóstico etológico, a fin de determinar las causas de la agresión y determinar si es un perro agresivo, territorial o mal manejado, para dar soluciones a cada tipo de problema de acuerdo a la respuesta conductual del perro;
 
-IV. Instruir las capturas a los perros, en términos de lo dispuesto en el artículo 1887 del presente Código Reglamentario; y (sic)
+IV. Instruir las capturas a los perros, en términos de lo dispuesto en el artículo 1887 del presente Código Reglamentario; y
 
 V. Instruir el aseguramiento de los animales que se encuentren en cualquiera de los casos señalados en el artículo 1887 de este ordenamiento.
 
@@ -30001,9 +30069,11 @@ Las sanciones administrativas por violaciones a las disposiciones legales de est
 
 I. Apercibimiento por escrito de la autoridad municipal competente o amonestación;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Multa por un importe de 2 a 100 días de salario mínimo vigente en la Ciudad de Puebla, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+II. Multa por un importe de 1 a 5000 días de salario mínimo vigente en la Ciudad de Puebla, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
 
 III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por este Capítulo; y
 
@@ -30025,9 +30095,13 @@ VI. Trabajo a favor de la comunidad.
 
 Procederá el apercibimiento o amonestación por el Juez Calificador, en su caso, en aquellos supuestos en los que por primera vez se moleste a algún animal o se le dé un golpe que no deje huella o secuela y en aquellos casos que contemple el Capítulo de Policía y Gobierno del presente Código Reglamentario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 1920.
 
-Las multas causarán un importe de 1 a 100 días de salario mínimo vigente en el Estado, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
+Las multas causarán un importe de 1 a 5000 días de salario mínimo vigente en el Estado, dependiendo de la falta cometida y de conformidad con el tabulador de infracciones y los siguientes criterios:
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
@@ -33617,7 +33691,7 @@ El peso de los guantes que regirá las diferentes divisiones, en peleas de box, 
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-I. De paja a wélter 8 onzas; y (sic)
+I. De paja a wélter 8 onzas; y
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2013)</small>
 
@@ -36052,3 +36126,11 @@ P.O. 4 DE ABRIL DE 2014.
 ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 927 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
 
 ÚNICO.- La presente reforma y adición del artículo 927 del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Dictamen entrará en vigor al año de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO.- Se instruye a las Dependencias competentes a realizar las adecuaciones materiales y normativas necesarias para la aplicación de las disposiciones.
