@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2014-08-07"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014, EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -63,7 +65,7 @@ Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimien
 
 ###### Artículo 4.
 
-EI servicio registral se presentará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a legislación en materia de firma electrónica en el Estado de Jalisco.
+El servicio registral se presentará a través de la estructura orgánica prevista en esta Ley, y en su caso, de conformidad a las disposiciones jurídicas aplicables relativas a legislación en materia de firma electrónica en el Estado de Jalisco.
 
 Cada acto deberá estar firmado por un funcionario con fe pública registral que se responsabilizará del mismo.
 
@@ -333,7 +335,7 @@ Le corresponde a la Dirección de Informática la organización y administració
 
 El Director de Informática será responsable de las áreas de Desarrollo e Ingeniería y Soporte Técnico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 18.
 
@@ -383,7 +385,7 @@ Cada Oficina Registral operará trescientos mil folios como máximo. Para la ape
 
 La demarcación territorial de las oficinas registrales será establecida en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 22.
 
@@ -611,9 +613,17 @@ XXIX. Las afectaciones agrarias a que se refiere la Ley de la materia;
 
 XXX. Los contratos de explotación forestal;
 
-XXXI. La disposición contenida en el artículo 1893 del Código y la consolidación del usufructo; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-XXXII. Las demás resoluciones administrativas, hechos, actos, títulos y contratos que las leyes o decretos ordenen expresamente que sean registrados.
+XXXI. La disposición contenida en el artículo 1893 del Código y la consolidación de usufructo;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXXII. Las declaratorias de bienes inmuebles Patrimonio Cultural del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXXIII. Las demás resoluciones administrativas, hechos, actos, títulos y contratos que las leyes o decretos ordenen expresamente que sean registrados.
 
 ###### Artículo 39.
 
@@ -727,9 +737,17 @@ II. El contrato de compraventa de bienes muebles que sean susceptibles de identi
 
 III. Los contratos de compraventa de bienes muebles, por los cuales el vendedor se reserva el dominio de los mismos;
 
-IV. Los contratos de prenda, conforme en lo dispuesto por el Código, así como su extinción; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-V. Los demás documentos y actos jurídicos relacionados con bienes muebles y que la Ley ordene expresamente que sean registrados.
+IV. Los contratos de prenda, conforme en lo dispuesto por el Código, así como su extinción;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+V. Las declaratorias de bienes muebles Patrimonio Cultural del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+VI. Los demás documentos y actos jurídicos relacionados con bienes muebles y que la Ley ordene expresamente que sean registrados.
 
 ###### Artículo 48.
 
@@ -915,7 +933,7 @@ La institución dentro de un plazo no mayor a 10 días hábiles deberá elaborar
 
 ### CAPITULO II. DE LA SUSPENSION Y DENEGACION DEL REGISTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 68.
 
@@ -1105,7 +1123,7 @@ En caso de bienes que hayan sido objeto de subdivisión deberá estarse a los (s
 
 ### CAPITULO VII. DEL REGISTRO Y REVOCACION DE MANDATOS Y PODERES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 93.
 
@@ -1131,7 +1149,7 @@ La Institución expedirá a cualquier persona que lo solicite, un certificado qu
 
 Para que sea oponible a terceros, la revocación de mandatos y poderes deberá ser registrada en la oficina registral que corresponda a la adscripción territorial del Notario, ante quien fue otorgado el mandato o poder, no obstante lo anterior, sus efectos de publicidad se extenderán a la competencia territorial de todas las oficinas registrales, a través de la integración de una base única de datos, por lo que deberán extender la certificación respectiva del registro de poderes y su revocación, de manera indistinta al lugar en donde fueron otorgados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 98.
 
@@ -1463,7 +1481,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE JULIO DE 2002.
 
@@ -1534,3 +1552,17 @@ DÉCIMO. Los certificados electrónicos, así como los actos realizados con ello
 P.O. 7 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
