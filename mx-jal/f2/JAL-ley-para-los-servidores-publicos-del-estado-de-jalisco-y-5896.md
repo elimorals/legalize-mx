@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2014-03-13"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MARZO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 24830/LX/14 PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -413,7 +411,7 @@ k) Por falta comprobada al cumplimiento de las condiciones generales de trabajo 
 
 l) Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la Entidad Pública.
 
-ll) Las análogas a las establecidas en los incisos anteriores. (sic)
+ll) Las análogas a las establecidas en los incisos anteriores.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -571,7 +569,7 @@ El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo
 
 ###### Art. 26 Bis 1.
 
-Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá (sic) las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
+Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -974,6 +972,12 @@ Las licencias para separarse del cargo de manera voluntaria y temporal deberán 
 No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
 
 Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2014)</small>
+
+###### Art. 54 Bis 8.
+
+A los servidores públicos se les otorgará apoyo para que sus hijos desde los 43 días de nacido hasta tres años de edad puedan acceder a los centros de atención, cuidado y desarrollo integral infantil en el Estado, de conformidad con las disposiciones presupuestarias de cada dependencia o entidad.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
 
@@ -1975,7 +1979,7 @@ d) El pleno del Tribunal deberá llevar a cabo el recuento de los servidores pú
 
 1. Si la entidad pública patronal no remitió la documentación completa, en los términos del inciso a) de esta fracción;
 
-2. Se acredite, mediante documento formulado bajo protesta de decir verdad por los servidores públicos interesados, que la entidad pública patronal se negó a recibirles la solicitud de cambio de sindicato al que se entregará su cuota sindical, debiendo ser a cualquiera de algunos (sic) de los sindicatos en conflicto.
+2. Se acredite, mediante documento formulado bajo protesta de decir verdad por los servidores públicos interesados, que la entidad pública patronal se negó a recibirles la solicitud de cambio de sindicato al que se entregará su cuota sindical, debiendo ser a cualquiera de algunos de los sindicatos en conflicto.
 
 Esta causal procederá únicamente cuando dichos movimientos sindicales, en conjunto, hayan sido solicitados cuando menos por 5% de los servidores públicos afiliados a los sindicatos en conflicto y que los mismos pudieran implicar una modificación en la situación jurídica de cualquiera de los sindicatos litigantes, para efectos de la controversia;
 
@@ -2187,7 +2191,7 @@ La Comisión sesionará ordinariamente por lo menos cada dos meses y extraordina
 
 Para que las sesiones de la Comisión tengan validez, se requiere que exista "quórum" con la asistencia de la mitad más uno de sus miembros, y sus acuerdos serán tomados por mayoría de votos de los asistentes.
 
-> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2001, SE SUPRIME LA FRACCIÓN VI Y SE RECORRERÉ LA SUBSECUENTE FRACCIÓN]</small>
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2001, SE SUPRIME LA FRACCIÓN VI Y SE RECORRE LA SUBSECUENTE FRACCIÓN]</small>
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2527,7 +2531,7 @@ SEGUNDO. Las disposiciones contenidas en el Título Sexto que se adiciona a esta
 
 TERCERO. Los Poderes del Estado, Ayuntamientos, así como sus organismos descentralizados y desconcentrados, empresas paraestatales o asociaciones de participación estatal o municipal mayoritaria, deberán definir el área que se encargue de administrar el Sistema Administrativo del Servicio Civil de Carrera e integrar las respectivas Comisiones de Evaluación dentro del término de 120 días naturales contados a partir de que entre en vigor el Título Sexto de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
 CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos de reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
 
@@ -2716,3 +2720,9 @@ SEGUNDO. En el caso de los magistrados y los jueces se atenderá a lo dispuesto 
 P.O. 11 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el día 1.° de enero del 2015, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las dependencias y entidades deberán prever en su proyecto de presupuesto las erogaciones necesarias para el apoyo a que se refiere el presente decreto.
