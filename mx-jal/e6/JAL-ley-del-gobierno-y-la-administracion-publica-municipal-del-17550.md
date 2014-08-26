@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2014-07-31"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -773,17 +775,17 @@ XIII. REGULAR LOS PROCEDIMIENTOS INTERNOS, PARA LA ADQUISICIÓN DE BIENES O LA C
 
 XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de centros de población, en los términos de las disposiciones legales y reglamentarias aplicables. Los citados instrumentos deben observarse en la zonificación, el otorgamiento de licencias y permisos de construcción y en el ejercicio de las demás atribuciones que en materia de desarrollo urbano detenta la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+(REFORMADA, P.O. 31 DE JULIO DE 2014) (REPUBLICADA, P.O. 26 DE AGOSTO DE 2014)
 
 XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-XVI Establecer los mecanismos para el debido cumplimiento de las disposiciones en materia de transparencia gubernamental; y
+XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios; y
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-XVI (SIC). Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XVII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 ###### Artículo 38.
 
@@ -2914,3 +2916,17 @@ P.O. 8 DE ABRIL DE 2014.
 P.O. 31 DE JULIO DE 2014.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
