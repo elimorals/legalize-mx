@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-63593"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-02"
-last_updated: "2012-09-14"
+last_updated: "2014-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 26 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2008.
 
@@ -167,7 +169,7 @@ XXIV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulg
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-XXV. Redes sociales: Formas de comunicación electrónica por medio de comunidades virtuales con objeto de compartir información, ideas, mensajes personales, fotografía, videos y diversos contenidos; y (sic)
+XXV. Redes sociales: Formas de comunicación electrónica por medio de comunidades virtuales con objeto de compartir información, ideas, mensajes personales, fotografía, videos y diversos contenidos; y
 
 #### SECCIÓN TERCERA. LOS SUJETOS OBLIGADOS
 
@@ -475,7 +477,7 @@ Tratándose de concesiones de transporte público, se deberá de publicar ademá
 
 XXIII. La entrega de recursos públicos, cualquiera que sea su destino.
 
-XXIV. El informe anual de actividades, y (sic)
+XXIV. El informe anual de actividades, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -531,7 +533,7 @@ c) La lista de útiles escolares básicos por nivel educativo;
 
 d) El Directorio de bibliotecas públicas incluyendo horarios, el domicilio, teléfonos, correo electrónico, requisitos de consulta, reglamento y página web, en su caso;
 
-e) El número y tipo de las plazas docentes, administrativas y directivas existentes, el nombre, así como número de horas de nivel básico, normal, de educación tecnológica y de adultos, por centros de trabajo, el pago que reciben por concepto de servicios y los movimientos que se realicen a dichas plazas: (sic)
+e) El número y tipo de las plazas docentes, administrativas y directivas existentes, el nombre, así como número de horas de nivel básico, normal, de educación tecnológica y de adultos, por centros de trabajo, el pago que reciben por concepto de servicios y los movimientos que se realicen a dichas plazas:
 
 f) Relación de trabajadores comisionados por centro de trabajo, identificando sus claves de pago, el centro de trabajo de origen y destino, así como el inicio y la conclusión de la comisión, el pago que en su caso reciben por concepto de servicios personales, y el objeto de la comisión otorgada al trabajador para desempeñar temporalmente funciones distintas para las que fue contratado;
 
@@ -937,7 +939,7 @@ La reserva de información no necesariamente abarca la totalidad de un registro 
 
 ###### Artículo 37.
 
-La información reservada dejará de tener dicho carácter y será de acceso a las personas cuando ocurran (sic) cualquiera de las siguientes causas:
+La información reservada dejará de tener dicho carácter y será de acceso a las personas cuando ocurran cualquiera de las siguientes causas:
 
 l. Venza el plazo de reserva;
 
@@ -1335,7 +1337,7 @@ Las entidades públicas deberán elaborar y poner a disposición del público un
 
 Los sujetos obligados deberán adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados como reservados o confidenciales.
 
-Tratándose de información reservada, no podrá determinarse su baja documental hasta su descIasificación, y que transcurra un plazo mínimo de dos años, a efecto de garantizar el derecho de acceso a la información pública.
+Tratándose de información reservada, no podrá determinarse su baja documental hasta su desclasificación, y que transcurra un plazo mínimo de dos años, a efecto de garantizar el derecho de acceso a la información pública.
 
 ###### Artículo 92.
 
@@ -1956,3 +1958,51 @@ PRIMERO.- El presente decreto entrará en vigor a los ciento ochenta días sigui
 SEGUNDO.- Las obligaciones previstas en la fracción XXII del artículo 19, en la fracción XIII del artículo 23, 24, en el artículo 29 bis, entrarán en vigor dentro de los trescientos sesenta y cinco días naturales posteriores a la publicación del presente decreto.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado, el 2 de septiembre de 2008 y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones contenidas en las fracciones IV y XXVI del artículo 21 y en las fracciones II y IV del artículo 28, serán aplicables 10 días naturales después de la entrada en vigor del presente Decreto.
+
+CUARTO. Las disposiciones contenidas en las fracciones XXIX, XXX y XLIII, del artículo 21, fracciones IV, V, VI, VII, IX y XIII del artículo 25, fracciones IX, XII, XIV y XV del artículo 26, fracciones, XVII, XVIII, XIX y XX del artículo 28, fracciones I y II del artículo 32, fracciones VI y VII del artículo 36, y en los artículos 40, 41, 42 y 53 de esta ley, serán aplicables 30 días naturales después de la entrada en vigor del presente Decreto.
+
+QUINTO. Las disposiciones contenidas en las fracciones V, XII, XIII, XIV, XIX, XXXII y XLII del artículo 21, artículo 24, fracciones XI y XII del artículo 25, fracciones III, IV y V del artículo 30, y en el artículo 45, de esta ley, serán aplicables 60 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las disposiciones contenidas en la fracción XXXIX, del artículo 21, fracciones, I y III del artículo 28, la fracción XII del artículo 35 y el artículo 50, serán aplicables 90 días naturales después de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Las disposiciones contenidas en las fracciones, XVI, XVII, XVIII, XXXIII, XXXV y XXXVII del artículo 21, la fracción X del artículo 25, los artículos 22, 37, 38, 44, 46, 47 y 48 así como las contenidas en las fracciones V, XI y XII del artículo 122 de esta ley, serán aplicables 180 días naturales después de la entrada en vigor del presente Decreto.
+
+OCTAVO. Las disposiciones contenidas en las fracciones VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XXII, y XXIII, del artículo 27, y en los artículos 43 y 52, serán aplicables 12 meses después de la entrada en vigor del presente Decreto.
+
+NOVENO. La obligación de las entidades públicas de difundir a través de medios electrónicos la versión pública de la declaración patrimonial de los servidores públicos de acuerdo al artículo 21 fracción VI, de la Ley, entrará en vigor hasta que haya vencido el plazo legal para presentar las declaraciones patrimoniales del año inmediato siguiente a que entre en vigor el presente Decreto.
+
+DÉCIMO. Los Sindicatos a los que se refiere el artículo 37 de esta Ley deberán contar con su propia unidad de atención, en un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. Los Sujetos Obligados deberán avisar al Instituto, cuáles son los rubros del artículo 21 que no les sean aplicables a sus páginas de internet, en un plazo de 10 días naturales contados a partir de la fecha en que les sean aplicables.
+
+DÉCIMO SEGUNDO. Los Sujetos Obligados deberán de tomar las medidas pertinentes o adoptar las herramientas tecnológicas temporales que sean necesarias para difundir la información pública de oficio, en tanto se crean las bases para homologar sus sitios o portales de internet.
+
+DÉCIMO TERCERO. El Instituto deberá emitir el Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor de la Ley.
+
+DÉCIMO CUARTO. El Instituto contará con un plazo de 10 días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir el Programa de Capacitación y Actualización de los Servidores Púbicos en Materia de Transparencia y Acceso a la Información Pública, así como de Datos Personales, y el Programa de la Cultura de la Transparencia y de Protección de Datos Personales.
+
+DÉCIMO QUINTO. El Instituto emitirá en un plazo no mayor a 15 días naturales, los lineamientos que deberán seguir las páginas electrónicas de los Sujetos Obligados, de conformidad con lo dispuesto por el artículo 18 de esta ley, así como los que definan los requisitos y características de los formatos que se utilicen para publicar la información pública de oficio.
+
+DÉCIMO SEXTO. El Instituto emitirá los lineamientos que deberán seguir los Sujetos Obligados, para llevar a cabo la traducción de la información pública de oficio a lenguas indígenas en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Los Sujetos Obligados contarán con un plazo de 45 días naturales contados a partir de la publicación de dichos lineamientos para traducir esta información.
+
+DÉCIMO SÉPTIMO. El Instituto emitirá las bases para la integración y funcionamiento del Consejo Consultivo de Gobierno Abierto y de los Comités Internos de Revisión de la Información, con los que deba contar cada sujeto obligado, en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO OCTAVO. El Instituto deberá, dentro de los 180 días naturales posteriores a la entrada en vigor de esta Ley, crear y publicar las reglas de operación a las que se refiere el artículo 57, para certificar a las empresas como Empresas Transparentes.
+
+DÉCIMO NOVENO. El Instituto emitirá en un plazo no mayor a 30 días naturales, los instructivos y manuales para la elaboración y uso de las versiones públicas de los documentos enunciados en esta ley.
+
+VIGÉSIMO. El Instituto emitirá, en un plazo no mayor a 30 días naturales, los lineamientos en los que determine las características con las que deberán contar los formatos útiles y reutilizables a los que se refiere el artículo 50 de esta ley.
+
+VIGÉSIMO PRIMERO. Las disposiciones relativas a los Procedimientos de Acceso a la Información Pública y a los recursos de revisión que se tramiten por el medio electrónico validado para tal efecto, serán aplicables 90 días naturales después de la entrada en vigor del presente Decreto. Los Procedimientos de Acceso a la Información y los recursos de revisión que se hayan iniciado con anterioridad, se substanciarán de acuerdo a lo previsto en la Ley de Acceso a la Información Pública y Protección de Datos Personales, vigente en el momento en que se hubieren iniciado.
+
+VIGÉSIMO SEGUNDO. Cuando en otras disposiciones se haga referencia a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila, por ésta se entenderá, la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.
