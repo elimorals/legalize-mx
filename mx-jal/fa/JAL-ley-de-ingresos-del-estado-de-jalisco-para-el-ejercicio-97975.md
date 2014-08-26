@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-97975"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-14"
-last_updated: "2014-07-17"
+last_updated: "2014-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2014
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 14 de diciembre de 2013.
 
@@ -99,9 +99,13 @@ Impuestos 16,910,000
 
 1) Accesorios 16,910,000
 
-II. Derechos 2,209,868,000
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
 
-a) Derechos por la Prestación de Servicios 2,156,301,000
+II. Derechos 2,222,521,151
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+
+a) Derechos por la Prestación de Servicios 2,168,954,151
 
 1) Registro Público de la Propiedad y de
 
@@ -115,9 +119,11 @@ General del Estado 18,162,000
 
 y Notarial 6,975,000
 
-4) Servicios en los ramos de Movilidad y
+(REFORMADO, P.O. 26 DE AGOSTO DE 2014
 
-Transporte, y su Registro 1,685,574,000
+4) Servicios en los ramos de Vialidad, Tránsito,
+
+Transporte y su Registro 1,698,227,151
 
 5) Certificaciones, Expediciones de Constancias
 
@@ -305,9 +311,9 @@ a) Financiamiento para el Abastecimiento de Agua
 
 para la Zona Conurbada de Guadalajara 253,217,000
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
 
-TOTAL GENERAL 84,222,493,000.00
+I, II, II (SIC), IV, V, VI, VII y VIII TOTAL GENERAL 84,235,146,151
 
 ###### Artículo 2°.
 
@@ -2727,7 +2733,7 @@ Los ingresos por créditos otorgados al Estado se obtendrán:
 
 I. Por financiamientos contratados previa autorización del Congreso del Estado; y
 
-II. Por las obligaciones directas y contingentes a que se refiere Ley (sic) de Deuda Pública del Estado de Jalisco y sus Municipios.
+II. Por las obligaciones directas y contingentes a que se refiere (sic) Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
 
 ## TÍTULO DÉCIMO. De los ingresos de las entidades de la administración pública paraestatal
 
@@ -2812,3 +2818,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación, Administración y Finanzas a modificar los volúmenes correspondientes al Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2014 y su plantilla de personal anexa, para ser publicados en el Periódico Oficial El Estado de Jalisco, en los términos del presente Decreto, los cuales deberá formular dentro de los 10 días hábiles posteriores a su aprobación.
 
 Tercero. Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Planeación, Administración y Finanzas a efectuar las adecuaciones presupuestales y administrativas que se requieran, incluidas las ampliaciones y transferencias entre partidas que por la implementación de la presente autorización o que por el reajuste presupuestal, reporten variación tanto en incremento, como por insuficiencia presupuestal, aun en aquellas partidas que no sean consideradas de ampliación automática, el ejercicio de esta facultad deberá ser notificado al Congreso dentro de los treinta días siguientes a que se haga uso de la misma.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° del mes siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación, Administración y Finanzas, a modificar los volúmenes correspondientes al Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2014 y su plantilla de personal anexa, Reclusorio Metropolitano para ser publicados en el Periódico Oficial "El Estado de Jalisco", en los términos del presente Decreto, los cuales deberá formular dentro de los 10 días hábiles posteriores a su aprobación.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo, por conducto de la Secretaria de Planeación, Administración y Finanzas, a efectuar las adecuaciones presupuestales y administrativas que se requieran en virtud de la presente autorización.
