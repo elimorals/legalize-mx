@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patrimonio-cultural-y-natural-del-estado-de-jalisco-546
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-13"
-last_updated: "2014-02-08"
+last_updated: "2014-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 26 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 13 de febrero de 2007.
 
@@ -183,7 +185,7 @@ V. Los valores artísticos que conforman la cultura popular, folclore, festivida
 
 Bajo los términos del artículo que precede, se implementará un Programa Estatal de Turismo Cultural. Entendiendo por Turismo Cultural aquel viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social de un destino específico.
 
-### CAPÍTULO TERCERO (SIC). De la competencia y coordinación entre las autoridades
+### CAPÍTULO TERCERO. De la competencia y coordinación entre las autoridades
 
 ###### Artículo 9.
 
@@ -223,7 +225,7 @@ VI. Expedir y publicar los reglamentos y demás disposiciones normativas tendien
 
 VII. Expedir y publicar el reglamento del Consejo;
 
-VIII. Preservar y promover las manifestaciones de la cultura local y la de los grupos indígenas asentados en territorio del Estado; y (sic)
+VIII. Preservar y promover las manifestaciones de la cultura local y la de los grupos indígenas asentados en territorio del Estado; y
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2008)</small>
 
@@ -379,7 +381,7 @@ Los ayuntamientos deberán expedir su reglamentación y normatividad relativa al
 
 Las entidades estatales y municipales, en el ámbito de su respectiva competencia, se coordinarán entre sí, a efecto de lograr el cumplimiento de los planes y programas de protección al patrimonio cultural y natural expedidos conforme a las disposiciones de esta Ley.
 
-### CAPÍTULO III. De la coordinación y colaboración con las Entidades federales
+### CAPÍTULO III (SIC). De la coordinación y colaboración con las Entidades federales
 
 ###### Artículo 20.
 
@@ -939,7 +941,7 @@ II. Nombre y domicilio del propietario o poseedor del bien o área de protecció
 
 III. Planos, especificaciones y características de la obra;
 
-IV. Plano, descripción y fotografías del estado en que se encuentra el bien o área de protección, antes de las obras o acciones de intervención; y (sic)
+IV. Plano, descripción y fotografías del estado en que se encuentra el bien o área de protección, antes de las obras o acciones de intervención; y
 
 V. Número de inscripción en el Registro.
 
@@ -1116,3 +1118,17 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 8 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
