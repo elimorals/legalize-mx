@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2014-07-18"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -515,7 +515,7 @@ XLVI. Aprobar el Programa Municipal de Protección Civil, con base en los lineam
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE ENERO DE 2007)</small>
 
-XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y (sic)
+XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y
 
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -738,6 +738,10 @@ XXI. Ciencia y Tecnología.
 > <small>(ADICIONADA, G.O. 18 DE JULIO DE 2014)</small>
 
 XXII. Impulso a la Juventud.
+
+> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2014)</small>
+
+XXIII. De Protección Civil.
 
 ###### Artículo 41.
 
@@ -1177,9 +1181,7 @@ VII. Promover entre los servidores públicos municipales, por medio de la depend
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2013)</small>
 
-###### Artículo 60 Sexies.
-
-Son atribuciones de la Comisión de Ciencia y Tecnología:
+Artículo 60 sexies. Son atribuciones de la Comisión de Ciencia y Tecnología:
 
 I. Desarrollar actividades con el objeto de fortalecer el fomento de la investigación científica y el desarrollo tecnológico en el ámbito municipal.
 
@@ -1193,9 +1195,7 @@ V. Las demás que expresamente le señalen otras disposiciones normativas.
 
 > <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
 
-###### Artículo 60 Septies.
-
-Son atribuciones de la Comisión de Impulso a la Juventud:
+Artículo 60 septies. Son atribuciones de la Comisión de Impulso a la Juventud:
 
 I. Proponer al Ayuntamiento la implementación de programas enfocados a la participación activa de los jóvenes;
 
@@ -1206,6 +1206,22 @@ III. Realizar periódicamente actividades dirigidas a la inclusión de los jóve
 IV. Emprender las gestiones que sean necesarias ante las autoridades competentes, a efecto de impulsar los proyectos que presenten los jóvenes al Ayuntamiento; y
 
 V. Lo que para tal efecto señale la Ley de Desarrollo Integral de la Juventud para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2014)</small>
+
+Artículo 60 octies. Son atribuciones de la Comisión de Protección Civil:
+
+I. Coadyuvar con el Presidente Municipal en la integración del Sistema Municipal de Protección Civil;
+
+II. Cuidar que los Sistemas Municipales se vinculen con los programas y políticas del Sistema Estatal;
+
+III. Dar seguimiento y evaluar las atribuciones del Consejo y de la Unidad Municipal de Protección Civil;
+
+IV. Canalizar al Órgano de Control Interno las quejas y denuncias que se presenten en contra de los servidores públicos municipales del Sistema de Protección Civil;
+
+V. Contribuir al cumplimiento de las disposiciones legales en materia de Protección Civil; y
+
+VI. Las demás señaladas en esta Ley y otras disposiciones legales aplicables.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -3478,3 +3494,9 @@ G.O. 18 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
