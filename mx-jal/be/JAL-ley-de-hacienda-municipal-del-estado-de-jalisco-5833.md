@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-08-05"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1153,13 +1155,13 @@ En las leyes de ingresos de cada municipio, el ayuntamiento correspondiente podr
 
 Quedan exentos del pago de este impuesto los bienes del dominio público de la Federación, del Estado y de sus municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos de los de su objeto público.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
 
 ###### Art. 105.
 
-Tratándose de bienes inmuebles afectos al Patrimonio Cultural del Estado, sus titulares pagarán el impuesto predial multiplicando el monto del mismo por la tarifa aplicable que desde el .4 y hasta el .05 establezcan las leyes de ingresos municipales.
+Tratándose de bienes inmuebles afectos al Patrimonio Cultural, sus titulares pagarán el impuesto predial multiplicando el monto del mismo por la tarifa aplicable que desde el .4 y hasta el .05 establezcan las leyes de ingresos municipales.
 
-Para los efectos de esta ley y de las leyes de ingresos municipales, se considerarán bienes inmuebles afectos al Patrimonio Cultural del Estado o del Municipio, aquellos predios o fincas que sean catalogados en los planes o programas de desarrollo urbano municipal atendiendo a su valor histórico o artístico, mediante dictamen del Instituto Nacional de Antropología e Historia o, en su caso, de la autoridad competente.
+Para los efectos de esta ley y de las leyes de ingresos municipales, se considerarán bienes inmuebles afectos al Patrimonio Cultural, aquellos predios o fincas que se encuentren inscritos en el Inventario del Patrimonio Cultural del Estado de Jalisco o cuenten con Declaratoria.
 
 A los predios propiedad de las asociaciones religiosas legalmente constituidas, se les aplicará una tarifa de factor .5 sobre la base que resulte al aplicar la ley de ingresos municipal que corresponda.
 
@@ -3587,7 +3589,7 @@ TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para
 
 CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados (sic) partir del día siguiente de la entrada en vigor del presente decreto.
 
-Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2013 a más tardar el 30 de septiembre de 2012. En caso de que no se haya realizado en dicha fecha, se actualizaran las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
+Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2013 a más tardar el 30 de septiembre de 2012. En caso de que no se haya realizado en dicha fecha, se actualizarán las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
 
 QUINTO. Los Ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente Ley, será necesario hayan cumplido con:
 
@@ -3616,3 +3618,17 @@ P.O. 31 DE JULIO DE 2014.
 P.O. 5 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
