@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2014-04-08"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -203,7 +205,9 @@ XXXVIII. Índice de edificación: La unidad de medida que sirve para conocer cua
 
 XXXIX. Integración urbanística: Conjunto de elementos que permiten establecer la congruencia e integración funcional de las obras de urbanización o edificación de un predio, en relación con los usos o destinos y su estructura urbana, que se determinan para el mismo en el plan o programa de desarrollo urbano y se certificaron en el dictamen de trazo, usos y destinos específicos;
 
-XL. (DEROGADA, P.O. 8 DE ABRIL DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+XL. La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco;
 
 XLI. Licencia: El acto administrativo mediante el cual se precisan los derechos y obligaciones específicos para ejecutar obras o realizar acciones determinadas, en relación con una persona física o jurídica determinada, que deberán cumplirse en el plazo o término que se establezca. Cuando una licencia se emita en forma simultánea con una autorización, para su vigencia o efectos indefinidos o limitados, se entenderán como dos actos administrativos diversos;
 
@@ -363,7 +367,9 @@ XVII. Promover la participación ciudadana y vecinal en la elaboración, ejecuci
 
 XVIII. Promover la participación ciudadana y vecinal en la atención de los problemas generados en los centros de población, integrando asociaciones con particulares, para concertar la realización de obras de utilidad pública;
 
-XIX. En coordinación con los gobiernos municipales, promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al Patrimonio Cultural del Estado y apoyarlas en sus actividades;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XIX. En coordinación con los gobiernos municipales, promover la constitución de asociaciones que tengan como objeto la salvaguarda y difusión de bienes y zonas de protección afectos al Patrimonio Cultural del Estado y apoyarlas en sus actividades;
 
 XX. Aplicar las sanciones administrativas previstas en este Código, respecto de los actos u omisiones de los notarios y servidores públicos que violen las disposiciones legales relativas al registro, control y ejecución de los programas y planes de desarrollo urbano en el Estado y la zonificación;
 
@@ -377,11 +383,21 @@ XXIII. Las demás que le atribuya este Código y otros ordenamientos legales.
 
 #### Sección Segunda. De las Atribuciones
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>N. DE E. VÉASE LA HISTORIA LEGISLATIVA DEL ARTÍCULO, PUBLICADA EN EL P.O. DE 8 DE ABRIL Y 26 DE AGOSTO DE 2014.</small>
 
-###### Artículo 9°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
 
-El Poder Ejecutivo del Estado tiene a su cargo la ejecución de la política del Gobierno del Estado en los sectores de desarrollo urbano y ordenamiento territorial, a través de las Secretarías de Infraestructura y Obra Pública, y de Medio Ambiente y Desarrollo Territorial, en el ámbito de sus competencias.
+###### Articulo 9°.
+
+La Secretaría es la dependencia de la Administración Pública Estatal que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano. Sus atribuciones son las siguientes:
+
+I. a XXXIII. […] (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXXIV. En coordinación con los Ayuntamientos, emprender acciones para promover la constitución de asociaciones para la conservación y mejoramiento de zonas y bienes afectos al patrimonio cultural del Estado y apoyarlas en sus actividades;
+
+XXXV. a XXXVIII. [ ... ] (sic)
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -573,7 +589,9 @@ XXXV. Promover y participar en la constitución y funcionamiento del Consejo Mun
 
 XXXVI. Promover la constitución de las asociaciones de vecinos, autorizar sus reglamentos y apoyarlas en sus actividades;
 
-XXXVII. Promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al Patrimonio Cultural del Estado, autorizar sus reglamentos y apoyarlas en sus actividades;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXXVII. Promover la constitución de asociaciones para la conservación y mejoramiento de zonas y bienes afectos al patrimonio cultural del Estado, autorizar sus reglamentos y apoyarlas en sus actividades;
 
 XXXVIII. Promover la participación ciudadana y vecinal y recibir las opiniones de los grupos de personas que integran su comunidad, respecto a la formulación, ejecución, evaluación y revisión de los programas y planes municipales;
 
@@ -709,11 +727,15 @@ XI. Recibir y encauzar debidamente las peticiones relacionadas con la promoción
 
 XII. Emitir dictamen, cuando así le sea solicitado por una de las partes, respecto de la aplicación de las normas que ordenen y regulen los asentamientos humanos en la entidad, con el propósito de aclarar las controversias que se presenten;
 
-XIII. Vigilar los acuerdos y convenios que celebren las dependencias y organismos federales, estatales y municipales que tengan por objeto ejecutar acciones de conservación y mejoramiento en sitios, predios y fincas afectos al Patrimonio Cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XIII. Vigilar los acuerdos y convenios que celebren las dependencias y organismos federales, estatales y municipales que tengan por objeto ejecutar acciones de conservación y mejoramiento de bienes inmuebles afectos al patrimonio cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
 
 XIV. Representar cuando así se le solicite, a los habitantes, asociaciones de vecinos o propietarios de predios y fincas, en el ejercicio del derecho a exigir a la autoridad se lleven a cabo las suspensiones o demoliciones que sean necesarias, cuando las edificaciones y urbanizaciones, cambios de uso del suelo u otros aprovechamientos de fincas contravengan la normatividad en materia de desarrollo urbano, originen un deterioro a la calidad de la vida de los asentamientos humanos y en general en la gestión de asuntos relacionados con la materia;
 
-XV. Ejercer de oficio las acciones en defensa de la integridad de sitios, predios y fincas afectos al Patrimonio Cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XV. Ejercer de oficio las acciones en defensa de la integridad del Patrimonio Cultural inmueble del Estado, para que estos se realicen con apego a la normatividad aplicable;
 
 XVI. Representar, cuando así se le solicite, a quienes interpongan el recurso de revisión.
 
@@ -731,13 +753,17 @@ XXII. Presentar al Titular del Poder Ejecutivo Estatal un informe anual de sus a
 
 XXIII. Recibir las denuncias de los particulares en materia de desarrollo urbano;
 
-XXIV. Requerir a la autoridad competente para la aplicación de medidas de seguridad a efecto de que cese el riesgo inminente de afectación al Patrimonio Histórico, Cultural, Edificación de Carácter Vernáculo y de Imagen Urbana en el Estado;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXIV. Requerir a la autoridad competente para la aplicación de medidas de seguridad a efecto de que cese el riesgo inminente de afectación al Patrimonio Cultural inmueble el (sic) Estado;
 
 XXV. Informar a la autoridad federal que corresponda, según el caso detectado, cuando sea de su competencia;
 
 XXVI. Solicitar la intervención de la autoridad municipal o estatal que corresponda a efecto de que inicie procedimiento administrativo de aplicación y ejecución de sanciones;
 
-XXVII. Ejecutar las acciones preventivas necesarias para la preservación, conservación y ampliación del patrimonio histórico cultural edificado de carácter vernáculo y de imagen urbana en el estado;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+XXVII. Ejecutar las acciones preventivas necesarias para la preservación, conservación y ampliación del patrimonio cultural inmueble del Estado;
 
 XXVIII. Solicitar la intervención de la Procuraduría Estatal de Protección al Ambiente, cuando se presuman violaciones a la legislación ambiental.
 
@@ -1007,7 +1033,9 @@ III. Los Consejos Municipales de Desarrollo Urbano;
 
 IV. Las asociaciones de vecinos constituidas conforme a las disposiciones de la ley en materia de administración pública municipal;
 
-V. Las asociaciones que se constituyan para la conservación y mejoramiento de sitios y fincas afectos al Patrimonio Cultural del Estado, conforme las disposiciones del presente Código; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+V. Las asociaciones que se constituyan para la conservación y mejoramiento del Patrimonio Cultural inmueble del Estado, conforme las disposiciones del presente Código; y
 
 VI. Los Consejos Metropolitanos de Participación Ciudadana.
 
@@ -1199,9 +1227,11 @@ IV. Coadyuvar con el ayuntamiento en la vigilancia del cumplimiento de los plane
 
 V. Representar a los vecinos de su zona, colonia o barrio, en la defensa de sus legítimos intereses, cuando estos resulten afectados por actos de autoridades o particulares, en las materias que regula el presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 49.
 
-Las asociaciones para la conservación y mejoramiento de sitios, zonas y fincas afectos al Patrimonio Cultural del Estado, para los efectos del presente ordenamiento, se integrarán conforme a las siguientes bases:
+Las asociaciones para la conservación y mejoramiento del Patrimonio Cultural inmueble del Estado, para los efectos del presente ordenamiento, se integrarán conforme a las siguientes bases:
 
 I. Se constituirán como asociaciones con participación y reconocimiento del ayuntamiento;
 
@@ -1347,7 +1377,7 @@ La Junta de Coordinación Metropolitana es el órgano intermunicipal de coordina
 
 ###### Artículo 68.
 
-El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio (sic) propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
+El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
@@ -1531,13 +1561,17 @@ VIII. Las estrategias, los planteamientos de las mismas, así como todos los dem
 
 IX. Los convenios y acciones de inversión pública federal, estatal y municipal;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa estatal, y
+X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa estatal;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-XI. La implementación de infraestructura para espacios destinados a ciclovías.
+XI. La implementación de infraestructura para espacios destinados a ciclovías; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+XII. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1623,13 +1657,17 @@ VI. El estudio de los sistemas de comunicaciones y transporte;
 
 VII. Los programas, estrategias y proyectos de inversión y ejecución;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan, y
+VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
 
-IX. La implementación de infraestructura para espacios destinados a ciclovías.
+IX. La implementación de infraestructura para espacios destinados a ciclovías; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+
+X. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado.
 
 ###### Artículo 98.
 
@@ -1989,7 +2027,9 @@ Los planes parciales de desarrollo urbano aplicables en centros históricos, con
 
 I. La referencia al carácter histórico y artístico que se otorga a la zona de su aplicación;
 
-II. La identificación de los sitios, fincas, monumentos y en general, los elementos que se declaren afectos al Patrimonio Cultural del Estado, precisando el régimen de propiedad que les corresponda;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+
+II. La identificación de los sitios, fincas, monumentos y en general, los elementos que en términos de la ley en materia de patrimonio cultural, se consideren afectos al Patrimonio Cultural del Estado, precisando el régimen de propiedad que les corresponda;
 
 III. Las normas y criterios técnicos aplicables a la acción de conservación o mejoramiento, conforme la legislación federal y estatal aplicable;
 
@@ -2061,7 +2101,7 @@ La autoridad que expida o niegue las certificaciones, dictámenes, autorizacione
 
 Los programas de desarrollo urbano serán el sustento territorial para la formulación de la planeación regional económica y social en el Estado.
 
-La planeación social y económica, así como la programación y la presupuestación públicas (sic) del Gobierno del Estado y de los municipios, para concretar los objetivos, estrategias, metas y prioridades del desarrollo, deberán ajustarse a las disposiciones de ubicación espacial y las prioridades definidas en los programas de desarrollo urbano.
+La planeación social y económica, así como la programación y la presupuestación públicas del Gobierno del Estado y de los municipios, para concretar los objetivos, estrategias, metas y prioridades del desarrollo, deberán ajustarse a las disposiciones de ubicación espacial y las prioridades definidas en los programas de desarrollo urbano.
 
 ###### Artículo 136.
 
@@ -2139,11 +2179,11 @@ V. Las áreas cuyo uso pueda afectar el paisaje urbano o resulte inconveniente s
 
 La urbanización de estos espacios será restringida por los planes y programas de desarrollo urbano, conforme las normas que se indican en el artículo 150 de este Código.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 144.
 
-La promoción del desarrollo urbano atenderá en forma prioritaria a la conservación y acrecentamiento del Patrimonio Cultural de la Entidad.
-
-Forman parte de dicho patrimonio los edificios, monumentos, plazas públicas, parques, elementos naturales, y en general, todo aquello que identifica y define la fisonomía de los centros de población.
+La promoción del desarrollo urbano atenderá en forma prioritaria a la conservación y acrecentamiento del patrimonio cultural de la entidad.
 
 ###### Artículo 145.
 
@@ -2177,7 +2217,7 @@ I. El ordenamiento ecológico, de conformidad con la legislación respectiva;
 
 II. El reordenamiento, la renovación o la densificación de áreas deterioradas, aprovechando adecuadamente sus componentes sociales y materiales;
 
-III. La dotación y rehabilitación de los servicios del equipamiento y la infraestructura urbanas (sic), en áreas que carecen de ellas;
+III. La dotación y rehabilitación de los servicios del equipamiento y la infraestructura urbanas, en áreas que carecen de ellas;
 
 IV. La acción integrada del Estado, donde se articule la regularización de la tenencia del suelo urbano con la dotación de servicios y satisfactores básicos que tiendan a mejorar los niveles de vida de la comunidad urbana;
 
@@ -4183,7 +4223,7 @@ b) Queda prohibida su colocación a una distancia de 170.00 metros medida a part
 
 II. Se prohíben los engomados en postes, árboles y demás mobiliario urbano de la vía pública;
 
-III. Se prohíbe la colocación de propaganda política de un extremo a otro de la vía pública, y (sic)
+III. Se prohíbe la colocación de propaganda política de un extremo a otro de la vía pública, y
 
 ###### Artículo 344.
 
@@ -4199,7 +4239,7 @@ IV. Cuando el bien o servicio de que se anuncie, pueda poner en riesgo los inter
 
 V. Cuando se anuncien las actividades de un establecimiento mercantil o espectáculo público, sin que estos previamente hayan obtenido su licencia de funcionamiento respectivo, y
 
-VI. En inmuebles que por sus características arquitectónicas se encuentren o puedan encontrarse inventariados como monumentos históricos, según la Ley Federal sobre Monumentos y Zonas Arqueológicos (sic), Artísticos e Históricos y su Reglamento.
+VI. En inmuebles que por sus características arquitectónicas se encuentren o puedan encontrarse inventariados como monumentos históricos, según la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento.
 
 ###### Artículo 345.
 
@@ -4745,7 +4785,7 @@ I Separarse de sus funciones sin haber obtenido la licencia correspondiente, por
 
 II. Reincidir en faltas de probidad en el ejercicio de sus funciones, y
 
-III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y de desarrollo urbano, o en los reglamentos municipales reglamento de construcción del Municipio que correspondientes (sic).
+III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y de desarrollo urbano, o en los reglamentos municipales reglamento de construcción del Municipio que (sic) correspondientes.
 
 ###### Artículo 388.
 
@@ -4966,3 +5006,17 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto
 TERCERO. El Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones reglamentarias necesarias para el debido cumplimiento del (sic) este Decreto.
 
 CUARTO. El Consejo Estatal de Desarrollo Urbano, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones necesarias a su normatividad interna, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2014.
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+
+TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
+
+CUARTO. La Secretaría contará con un terminó de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
+
+QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
+
+SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
