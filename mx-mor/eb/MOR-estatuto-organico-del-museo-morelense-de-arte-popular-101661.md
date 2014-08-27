@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-museo-morelense-de-arte-popular-101661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-02"
-last_updated: "2014-07-02"
+last_updated: "2014-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 27 DE AGOSTO Y 24 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ESTATUTO ORGÁNICO DEL MUSEO MORELENSE DE ARTE POPULAR
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2014.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de julio de 2014.
 
@@ -379,7 +381,11 @@ Lo que también resultará aplicable a la persona que designe el Gobernador, en 
 
 ### CAPÍTULO IX. DEL SUBCOMITÉ DE ADQUISICIONES
 
-Artículo 29 (Sic). El Subcomité de Adquisiciones se integra de acuerdo a lo dispuesto por el artículo 20, del Reglamento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, de la siguiente manera:
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2014)</small>
+
+###### Artículo 27.
+
+El Subcomité de Adquisiciones se integra de acuerdo a lo dispuesto por el artículo 20, del Reglamento de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, de la siguiente manera:
 
 I. El Coordinador, quien lo presidirá;
 
@@ -391,13 +397,25 @@ IV. Dos vocales, que serán las personas titulares de las Unidades Administrativ
 
 Además, formará parte del Subcomité de Adquisiciones, la persona titular de la Comisaría Pública del MMAPO, como invitado permanente.
 
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2014)</small>
+
+###### Artículo 28.
+
+Las funciones, forma de sesionar, y demás operatividad del Subcomité de Adquisiciones se realizará de conformidad con lo dispuesto en la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
+
 ### CAPÍTULO X. DE LAS RESPONSABILIDADES
 
-Artículo 32 (Sic). Los servidores públicos del MMAPO, serán responsables del desempeño de sus funciones, en términos de lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones jurídicas aplicables en la materia.
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2014)</small>
+
+###### Artículo 29.
+
+Los servidores públicos del MMAPO, serán responsables del desempeño de sus funciones, en términos de lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones jurídicas aplicables en la materia.
 
 ### CAPÍTULO XI. DEL RÉGIMEN LABORAL
 
-###### Artículo 33.
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2014)</small>
+
+###### Artículo 30.
 
 Las relaciones laborales entre el MMAPO y sus trabajadores se regirán por lo dispuesto en la Legislación aplicable, los Lineamientos y Condiciones Generales de Trabajo, que establezca el MMAPO y demás disposiciones jurídicas.
 
@@ -456,7 +474,3 @@ EL DIRECTOR GENERAL DE MUSEOS Y EXPOSICIONES DE LA SECRETARÍA DE CULTURA, EN SU
 JOSÉ GUADALUPE GARCÍA VALTIERRA
 
 RÚBRICAS.
-
-###### Artículo 30.
-
-Las funciones, forma de sesionar, y demás operatividad del Subcomité de Adquisiciones se realizará de conformidad con lo dispuesto en la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
