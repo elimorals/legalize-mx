@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-intercultural-del-43232"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-19"
-last_updated: "2013-12-18"
+last_updated: "2014-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2013
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2014.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 19 de enero de 2005.
 
@@ -126,33 +126,37 @@ II. Dirección de División de Desarrollo Sustentable.
 
 III. Dirección de División de Comunicación Intercultural.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-IV. Dirección de División de Salud Intercultural
+IV. Dirección de División de Salud Intercultural.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-V. Dirección de Vinculación y Extensión Universitaria
+V. Dirección de la Clínica de Salud Intercultural
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-Vi. Dirección de Administración y Finanzas.
+VI. Dirección de Vinculación y Extensión Universitaria
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-VII. Departamento de Investigación.
+VII. Dirección de Administración y Finanzas.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-VIII. Departamento de Planeación, Programación y Evaluación.
+VIII. Departamento de Investigación.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-IX. Departamento de Control Escolar.
+IX. Departamento de Planeación, Programación y Evaluación.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE AGOSTO DE 2014)</small>
 
-X. Abogado General.
+X. Departamento de Control Escolar.
+
+> <small>(ADICIONADA, G.G. 27 DE AGOSTO DE 2014)</small>
+
+XI. Abogado General.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la estructura orgánica y presupuesto autorizados a la Universidad.
 
@@ -250,7 +254,7 @@ Corresponde a la Dirección de Vinculación y Extensión Universitaria las atrib
 
 l. Celebrar convenios con los sectores público, privado y social para que coadyuven con los objetivos de la Universidad.
 
-II. Elaborar proyectos de vinculación que permitan ofrecer servicios de educación continúa (sic) y el desarrollo académico.
+II. Elaborar proyectos de vinculación que permitan ofrecer servicios de educación continúa y el desarrollo académico.
 
 III. Coordinar las comisiones académicas y de vinculación para la actualización de planes y programas de estudio de la Universidad
 
@@ -259,6 +263,30 @@ IV. Proponer al Rector programas que permitan una mayor vinculación con los sec
 V. Someter a la consideración del Rector acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo, y llevar a cabo su ejecución y cumplimiento, y
 
 VI Las demás que le confieran otras disposiciones aplicables y aquellas que le encomiende el Rector.
+
+> <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2014)</small>
+
+###### Artículo 14 Ter.
+
+Corresponde a la Dirección de la Clínica de Salud Intercultural las atribuciones siguientes:
+
+I. Planear, coordinar, dirigir y controlar los servicios que ofrece la Clínica de Salud Intercultural.
+
+II. Proponer a la Dirección de División de Salud Intercultural de la Universidad, las actividades docentes a desarrollarse en la Clínica de Salud Intercultural, así como en la integración de grupos de prestadores de servicios.
+
+III. Coordinar sus actividades con la Dirección de División de Salud Intercultural para que los estudiantes realicen sus prácticas clínicas y sociales.
+
+IV. Promover mecanismos de apoyo didáctico y pedagógico a personal docente y estudiantes de la Universidad, que contribuyan a su formación y actualización profesional.
+
+V. Proponer acciones de mejora en los programas académicos y de investigación que lleve a cabo la Dirección de División de Salud Intercultural.
+
+VI. Establecer lineamientos y mecanismos para la coordinación y evaluación de los servicios de la Clínica de Salud Intercultural, tendientes a elevar la eficiencia y eficacia, así como la productividad y calidad de los mismos.
+
+VII. Promover y supervisar que las instalaciones y equipo de la Clínica se (sic) Salud Intercultural cumpla con los requerimientos del servicio.
+
+VIII. Proponer estrategias y acciones para la actualización y mejoramiento de la presentación de los servicios de la Clínica de Salud Intercultural y llevar a cabo su implementación.
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Rector.
 
 ###### Artículo 15.
 
@@ -427,3 +455,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía jurídica que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 27 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a las establecidas en el presente Acuerdo.
