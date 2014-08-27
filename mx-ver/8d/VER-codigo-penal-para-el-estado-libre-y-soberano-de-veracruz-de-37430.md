@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2014-07-21"
+last_updated: "2014-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2014.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3431,6 +3431,10 @@ Si la reaprehensión del evadido se lograre por informes proporcionados por el r
 
 Se impondrán de seis meses a tres años de prisión y multa hasta de cuarenta días de salario a quien, después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2014)</small>
+
+Esta sanción se aplicará, de igual forma, a aquellas personas que prestan un servicio de transporte público concesionado, en cualquiera de sus modalidades, que no reporten la comisión de un delito a las autoridades competentes, cuando la unidad destinada a la prestación del servicio sea utilizada para la comisión del mismo o que éste se perpetre dentro de aquélla.
+
 ###### Artículo 345.
 
 No se sancionará a quien oculte al responsable de un delito o los efectos, objetos o instrumentos del mismo o impida que se averigüe, cuando se haga por un interés legítimo y no se emplee algún medio delictuoso, siempre que se trate de:
@@ -4164,3 +4168,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 21 DE JULIO DE 2014.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 27 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La Secretaría de Seguridad Pública contará con un plazo de seis meses, a partir de la entrada en vigor del presente Decreto, para integrar el padrón de choferes de transporte público del Estado de Veracruz.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
