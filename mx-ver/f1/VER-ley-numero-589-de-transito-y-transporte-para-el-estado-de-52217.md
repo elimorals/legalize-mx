@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2014-07-16"
+last_updated: "2014-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -215,7 +215,7 @@ V. El Director de Transporte; y
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Los servidores públicos dependientes de las Direcciones de Tránsito o de Transporte, que con fundamento en la Ley ordenan la ejecución, ejecutan o emiten actos administrativos susceptibles de exigirse mediante el uso de la fuerza pública; (sic)
+VI. Los servidores públicos dependientes de las Direcciones de Tránsito o de Transporte, que con fundamento en la Ley ordenan la ejecución, ejecutan o emiten actos administrativos susceptibles de exigirse mediante el uso de la fuerza pública;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -895,6 +895,10 @@ Para el otorgamiento de licencias a personas residentes en municipios que preste
 
 Para obtener la licencia de conducir en la categoría de chofer tipo "A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad y aprobar los exámenes toxicológicos que aplique la Dirección de Transporte conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada dos años el curso que en materia vial imparta la Dirección de Transporte.
 
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2014)</small>
+
+De igual forma, deberá certificarse e inscribirse en el padrón de choferes de transporte público de la Secretaría de Seguridad Pública del Estado, para que cada dos años sea certificado ante esta dependencia.
+
 ###### Artículo 57.
 
 El titular de la licencia informará a las autoridades de tránsito y transporte del Estado cualquier modificación que implique cambios a los datos e informes proporcionados para la obtención de la licencia, en los términos previstos por esta Ley y su Reglamento.
@@ -957,11 +961,13 @@ II. Cuando se ha dejado de tener la aptitud física o mental necesaria para cond
 
 III. Cuando se haya suspendido la licencia dos o más veces en el periodo de dos años;
 
-IV. Por actualizar alguna hipótesis prevista en el Código Penal para el Estado, durante la prestación del servicio público de transporte;
+> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2014)</small>
+
+IV. Cuando se actualice alguna hipótesis prevista en el Código Penal para el Estado, durante la prestación del servicio público de transporte. En caso de que se demuestre la participación del operario en la comisión de delitos contra la salud o delincuencia organizada, ya sea de carácter intencional o por encubrimiento, además de cancelársele la licencia, no volverá a otorgársele otra en la categoría de chofer;
 
 V. Por ser el responsable, en segunda ocasión, de accidentes con saldos de lesionados;
 
-VI. Por alterar los datos contenidos en la licencia; y (sic)
+VI. Por alterar los datos contenidos en la licencia; y
 
 > <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1783,6 +1789,10 @@ XII. En la prestación del servicio, el vehículo sea conducido por quien carezc
 
 XIII. Que el conductor de la unidad opere la misma en estado de ebriedad, bajo el influjo de sustancias toxicas o psicotrópicas o con temeridad. Se entiende que el conductor opera con temeridad cuando circula o conduce la unidad vehicular del servicio de transporte público, sin tomar las medidas mínimas de seguridad que marcan esta Ley y su Reglamento, y pone en peligro la vida, la integridad de cualquier persona o pone en riesgo los bienes de las mismas e incluso los propios.
 
+> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2014)</small>
+
+XIV. En la prestación del servicio de transporte público, el vehículo autorizado sea utilizado en la comisión de delitos contra la salud o delincuencia organizada, una vez acreditada la responsabilidad penal del concesionario, ya sea ésta de carácter intencional o por encubrimiento.
+
 ###### Artículo 135.
 
 El procedimiento para la suspensión o revocación de una concesión para prestar el servicio de transporte público, en todas sus modalidades, se sujetará a lo previsto por el Reglamento, respetando la garantía de audiencia del interesado.
@@ -2264,3 +2274,11 @@ CUARTO. Se derogan todas las disposiciones legales y administrativas que contrav
 QUINTO. La Secretaría, a efecto de dar cumplimiento a lo establecido por el artículo 146 Bis de la Ley Estatal de Protección Ambiental, convocará a los concursos públicos para el otorgamiento de las concesiones dentro de un plazo que no excederá de cuarenta y cinco días hábiles siguientes a la fecha de entrada en vigor del presente Decreto, con el objeto de que los concesionarios comiencen a prestar el servicio público de verificación vehicular a la brevedad.
 
 SEXTO. La Secretaría deberá poner en funcionamiento el registro que agrupe a los verificentros concesionados a que se refiere la fracción VIII del Artículo 143 de la Ley Estatal de Protección Ambiental, dentro de los noventa días hábiles siguientes a la publicación del presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La Secretaría de Seguridad Pública contará con un plazo de seis meses, a partir de la entrada en vigor del presente Decreto, para integrar el padrón de choferes de transporte público del Estado de Veracruz.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
