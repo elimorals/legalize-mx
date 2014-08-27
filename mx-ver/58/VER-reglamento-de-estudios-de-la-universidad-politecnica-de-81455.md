@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-estudios-de-la-universidad-politecnica-de-81455"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-28"
-last_updated: "2011-04-28"
+last_updated: "2014-08-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITECNICA DE HUATUSCO, VERACRUZ
 
-REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITECNICA DE HUATUSCO DEL ESTADO DE VERACRUZ
+REGLAMENTO DE ESTUDIOS DE LA UNIVERSIDAD POLITÉCNICA DE HUATUSCO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE ESTUDIOS DE PROFESIONAL ASOCIADO Y LICENCIATURA DE LA UNIVERSIDAD POLITÉCNICA DE HUATUSCO, PUBLICADO EN EL P.O. DE 27 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 28 de abril de 2011.
 
@@ -589,10 +591,24 @@ Secretario Técnico
 
 Rúbrica.
 
-Licenciado AbeIardo González Quiroz
+Licenciado Abelardo González Quiroz
 
 Comisario Público
 
 Rúbrica.
 
 Nota: Las presentes firmas corresponden al Reglamento Interior de Trabajo de la Universidad Politécnica de Huatusco, autorizado mediante Acuerdo No. 04. 07. 10. 11. 19 de la 4a Sección Ordinaria 2010, de la H. Junta Directiva de la Universidad Politécnica de Huatusco, celebrada el 19 de noviembre de 2010.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por la Junta Directiva, e inicia su vigencia y surte efectos al día siguiente de su publicación en la Gaceta Oficial del Estado y/o en el portal de transparencia de la Universidad.
+
+SEGUNDO. El presente reglamento aplica para todos los programas educativos y cursos que se imparten en la Universidad Politécnica de Huatusco.
+
+TERCERO. Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este ordenamiento, que se opongan o contravengan al presente carecerán de validez.
+
+CUARTO. Con la entrada en vigor del presente ordenamiento, se deja sin efectos el Reglamento de Estudios de la Universidad Politécnica de Huatusco, publicado en Gaceta Oficial del Estado el 28 de abril de 2011, Núm. Ext. 124, tomo CLXXXIII.
+
+QUINTO. El presente Reglamento podrá ser modificado a solicitud debidamente fundada y motivada del consejo de calidad con autorización de la H. Junta Directiva de la Universidad.
