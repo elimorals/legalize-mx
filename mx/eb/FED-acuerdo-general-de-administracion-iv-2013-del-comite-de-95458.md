@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2013-del-comite-de-95458"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-08-15"
-last_updated: "2013-08-15"
+last_updated: "2014-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-08-08"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN IV/2013, DE DOS DE JULIO DE DOS MIL TRECE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN, POR EL QUE SE REGULA EL USO DE LA FIRMA ELECTRÓNICA CERTIFICADA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN II/2014, DE DIECINUEVE DE AGOSTO DE DOS MIL CATORCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN, POR EL QUE SE REGULA EL USO DE LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL), EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de agosto de 2013.
 
@@ -420,3 +422,17 @@ QUINTO. Publíquese el presente Acuerdo General de Administración en el Diario 
 El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- Los Ministros: Luis María Aguilar Morales y Arturo Zaldívar Lelo de Larrea.- Rúbricas.
 
 EL LICENCIADO ALFREDO FARID BARQUET RODRÍGUEZ, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 11, FRACCIÓN X; Y 27, FRACCIÓN III, DEL REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACIÓN IV/2013, DE DOS DE JULIO DE DOS MIL TRECE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN, POR EL QUE SE REGULA EL USO DE LA FIRMA ELECTRÓNICA CERTIFICADA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN", constante de treinta y siete fojas útiles debidamente cotejadas, foliadas, rubricadas y entreselladas, concuerda fielmente, con su original, que obra en esta Dirección General de Asuntos Jurídicos se certifica para la difusión correspondiente. Las presentes copias certificadas se expiden en México, Distrito Federal a los ocho días del mes de agosto de dos mil trece.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el 1° de septiembre de 2014.
+
+SEGUNDO. Se deroga el Acuerdo General de Administración IV/2013, de dos de julio de dos mil trece, del Comité de Gobierno y Administración, por el que se regula el uso de la Firma Electrónica Certificada en la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Los certificados digitales de la FEC emitidos a los servidores públicos de la SCJN en términos de lo previsto en el citado Acuerdo General de Administración IV/2013, seguirán utilizándose hasta en tanto sean revocados y sustituidos por los certificados digitales de la FIREL regulados en este instrumento normativo, procedimiento que deberá concluirse antes del treinta y uno de octubre de dos mil catorce.
+
+CUARTO. Si en virtud del número de solicitudes recibidas se advierte que las citas para concluir con el trámite de obtención de un Certificado Digital de la FIREL se otorgan con un plazo mayor a treinta días hábiles, deberá someterse a la consideración del Comité de Gobierno y Administración de la SCJN la posibilidad de adquirir un mayor número de lectores biométricos para hacer frente a la demanda presentada.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
