@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-57338"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-11-06"
-last_updated: "2014-04-10"
+last_updated: "2014-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57338&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,11 +19,11 @@ scjn_last_update: "2024-09-17"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2014, EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ABRIL DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 27 DE AGOSTO DE 2014.</small>
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 6 de noviembre de 2007.
 
@@ -191,11 +191,11 @@ Los miembros del Consejo de Administración durarán en sus cargos por todo el t
 
 En ningún caso podrán ser miembros del Consejo de Administración las personas a que se refiere el artículo 51 de la Ley.
 
-> <small>(REFORMADO, G.O. 10 DE ABRIL DE 2014)</small>
+(REFORMADO, G.O. 10 DE ABRIL DE 2014) (F. DE E., G.O. 27 DE AGOSTO DE 2014)
 
 ###### ARTÍCULO 9º.
 
-El Consejo de Administración sesionará en reuniones ordinarias como mínimo, cuatro veces al año y se reunirá en sesiones extraordinarias y emergentes a convocatoria del Presidente del Órgano de Gobierno, cuando así lo considere necesario.
+El Consejo de Administración sesionará en reuniones ordinarias como mínimo, cuatro veces al año y se reunirá en sesiones extraordinarias y emergentes a convocatoria del Presidente del Órgano de Gobierno, cuando así lo considere necesario. El propio Órgano de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal. Los acuerdos se tomarán por mayoría de votos de los miembros presentes, en caso de empate, el presidente del Consejo de Administración tendrá voto de calidad, conforme a lo señalado por el artículo 52 de la Ley.
 
 > <small>(ADICIONADO, G.O. 10 DE ABRIL DE 2014)</small>
 
@@ -253,9 +253,9 @@ El Presidente del Consejo de Administración tendrá las siguientes atribuciones
 
 I.- Autorizar el orden del día a propuesta del Secretario del Consejo de Administración;
 
-> <small>(REFORMADA, G.O. 10 DE ABRIL DE 2014)</small>
+(REFORMADA, G.O. 10 DE ABRIL DE 2014) (F. DE E., G.O. 27 DE AGOSTO DE 2014)
 
-II.- Convocar a sesiones extraordinarias cuando lo considere necesario, así como a sesiones emergentes en casos excepcionales y debidamente justificados, en los términos establecidos en el presente Estatuto;
+II.- Convocar a sesiones ordinarias, extraordinarias y emergentes;
 
 III.- Programar y organizar las sesiones del Consejo de Administración y actuar como moderador de las mismas, así como anualmente proponer al Consejo de Administración el calendario de sesiones ordinarias;
 
