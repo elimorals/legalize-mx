@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-universidad-politecnica-de-huatusco-814
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-28"
-last_updated: "2011-04-28"
+last_updated: "2014-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD POLITECNICA DE HUATUSCO, VERACRUZ
 
-ESTATUTO ORGANICO DE LA UNIVERSIDAD POLITECNICA DE HUATUSCO
+ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE HUATUSCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2014.
 
 Estatuto publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 28 de abril de 2011.
 
@@ -897,85 +897,327 @@ XII. Difundir entre los servidores públicos los beneficios que conlleva divulga
 
 XIII. Las demás necesarias para garantizar y agilizar el flujo de información entre los sujetos obligados y los particulares.
 
-### CAPÍTULO XII. DEL ABOGADO GENERAL
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
+
+### CAPÍTULO XII. DE LA UNIDAD DE EQUIDAD DE GÉNERO
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 40.
 
-El abogado general de la universidad es la instancia que proporciona los servicios de consultoría legal y asesoría jurídica que requiera la institución, en el cumplimiento de ellas fungirá como representante de la misma en los asuntos legales en que deba de intervenir.
+La Unidad de Genero de la Universidad Politécnica de Huatusco, en lo sucesivo la Unidad de Genero, es una instancia colegiada dirigida a mantener el respeto a la diversidad de la comunidad universitaria, articulando procedimientos de atención, prevención y erradicación de todo tipo de violencia con normas jurídicas estatales, federales e internacionales; así como también apegada a un Modelo de Equidad de Género, el cual establece la Política de Equidad de Género de la Institución; la cual será coordinada por el Titular de la Oficina de Desarrollo Académico, el coordinador de esta Unidad será nombrado o removido por el Rector.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 41.
 
-El abogado general será nombrado o removido por el Rector. Deberá poseer, al menos, el grado académico de Licenciatura y preferentemente el de maestría, experiencia en el puesto y tendrá además de las funciones, las atribuciones siguientes:
+La Unidad de Genero deberá mantener una política incluyente y libre de estereotipos de género, por lo que al referirse a una persona como "el" puede significar "el o la".
 
-l. Elaborar, compilar y/o divulgar leyes, decretos, reglamentos y acuerdos que se relacionen con las competencias de la universidad;
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2014)</small>
 
-II. Representar a la universidad en los asuntos contenciosos en los que sea parte, en los juicios laborales que se tramiten ante los tribunales del trabajo, en los amparos interpuestos en contra de actos de la universidad y en general, intervenir en las reclamaciones que puedan afectar su interés jurídico en diversas materias, así mismo, formular ante el ministerio público querellas, denuncias, otorgamientos de perdón y desistimientos que procedan;
+DE LA INTEGRACIÓN DE LA UNIDAD DE EQUIDAD DE GENERO
 
-III. Dictaminar las sanciones administrativas a que se haga acreedor el personal de la universidad;
-
-IV. Formular los proyectos de convenios, contratos y demás actos consénsuales en los que intervenga la universidad, de acuerdo con los requerimientos de las unidades orgánicas correspondientes. Así como llevar el registro de los actos aludidos, una vez formalizados;
-
-V. Proponer al personal directivo de la universidad las disposiciones jurídicas que deban regir la vida de la propia institución, con base en la legalidad que regula su funcionamiento;
-
-VI. Tramitar lo conducente, ante la secretaría de gobierno para que las disposiciones de la universidad, se remitan a la gaceta oficial del estado, cuando éstas deban ser publicadas, así como difundir los acuerdos del rector que no se divulguen por este medio;
-
-VII. Tramitar ante las autoridades competentes, la expedición de las resoluciones necesarias para la incorporación al patrimonio de la universidad de los bienes inmuebles que ocupe, así como realizar las gestiones necesarias para regularizar la situación jurídica de los inmuebles que posea o administren sus unidades administrativas;
-
-VIII. Intervenir en la elaboración de proyectos e instrumentos jurídicos relativos a la adquisición, enajenación, destino o afectación de los bienes inmuebles de la universidad;
-
-IX. Realizar los trámites que sean necesarios para el registro legal de patentes y derechos de autor que tenga la universidad;
-
-X. Coadyuvar a la tramitación de la situación legal del personal extranjero que labore en la universidad o de alumnos extranjeros que estudien en la misma;
-
-XI. Intervenir en los actos de entrega recepción de las distintas unidades orgánicas de la universidad;
-
-XII. Analizar los asuntos jurídicos que someta a su consideración la junta, la rectoría y las unidades orgánicas de la universidad, emitir opinión de los mismos y efectuar, en su caso, los trámites que se deriven ante las instancias judiciales que procedan;
-
-XIII. Instrumentar y operar los procedimientos para una gestión universitaria por procesos;
-
-XIV. Colaborar con la subdirección de planeación y evaluación en la integración del programa operativo anual;
-
-XV. Participar en las acciones de evaluación programática y presupuestal que se realicen en la universidad;
-
-XVI. Elaborar los contratos individuales que regulen las relaciones laborales de la universidad con sus trabajadores;
-
-Las demás que le otorgue el presente Estatuto, las Leyes y disposiciones jurídico-administrativas aplicables.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 42.
 
-Para el cumplimiento de su objetivo la universidad contará con el siguiente personal: personal directivo, académico, técnico de apoyo y de servicios administrativos.
+"El Comité", se estructurará para su funcionamiento conforme a lo siguiente:
+
+I. Una Alta Dirección que recae en la Rectoría;
+
+II. Un Coordinador
+
+III. Un Secretario
+
+IV. Un Ombudsperson
+
+V. Un Encargado de Recursos Humanos
+
+VI. Una Auditoria Interna y al menos
+
+VII. Tres Vocales con derecho a voz y voto.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2014)</small>
+
+DE LAS ATRIBUCIONES Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 43.
 
-El personal académico será el contratado para llevar a cabo las funciones sustantivas de docencia, investigación y desarrollo tecnológico, en los términos de las disposiciones que al respecto se expidan y de los planes y programas que se aprueben.
+Para el cumplimiento de sus objetivos, la Unidad de Género, tendrá las siguientes atribuciones y obligaciones.
+
+I. Realizar periódicamente el Diagnóstico Organizacional con Perspectiva de Género.
+
+II. Establecer, redactar, aprobar, comunicar y difundir la política de Equidad de Género.
+
+III. Evaluar periódicamente el impacto, la difusión, conocimiento y entendimiento de la política de Equidad de género.
+
+IV. Desarrollar y operar la planeación general, objetivos y metas del sistema de Equidad de Género.
+
+V. Definir documentar y apoyar el cumplimiento de objetivos y metas del sistema de Equidad de Género.
+
+VI. Establecer, implementar y verificar las acciones afirmativas y a favor del personal con relación directa entre cada una de las acciones propuestas y el diagnóstico organizacional con perspectiva de género y que estas se distingan o diferencien de los requisitos del MEG.
+
+VII. Difundir al personal de todas las áreas y localidades de la organización el nombramiento, funciones y responsabilidades del comité y de la coordinación del sistema.
+
+VIII. Desarrollo y operatividad del Manual del sistema de gestión de equidad de género de la universidad.
+
+IX. Establecer y operar los procedimientos del control de documentación del sistema de equidad de género.
+
+X. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+XI. Establecer y garantizar la igualdad de oportunidades y compensaciones.
+
+XII. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+XIII. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+XIV. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+XV. Combatir todo tipo de violencia en la organización.
+
+XVI. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+XVII. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+XVIII. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+XIX. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+XX. Las demás necesarias para garantizar el cumplimiento de la Política de Equidad de Género de la Institución.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 44.
 
-El personal técnico de apoyo será el contratado para realizar funciones que faciliten y complementen el desarrollo de las labores académicas.
+Para el cumplimiento de sus objetivos, la Alta Dirección de la Unidad de Genero, tendrá las siguientes atribuciones y obligaciones.
+
+I. Asegurar que la política de equidad de género esté alineada o conciliada con la cultura y la planeación estratégica de la organización o, en su caso, con la misión, visión, valores, normas, códigos de conducta o ética de la organización.
+
+II. Valorar y autorizar las acciones afirmativas y a favor del personal establecidas con base en las propuestas y diagnóstico organizacional con perspectiva de género.
+
+III. Nombrar y documentar el nombramiento del Comité de Equidad de Género Organizacional.
+
+IV. Facilitar o dotar al Comité de los recursos espacios y/o materiales necesarios y suficientes para la administración del sistema de gestión.
+
+V. Definir y documentar las responsabilidades, autoridad y compromisos de cada persona que lo integra el Comité de Equidad de Género.
+
+VI. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+VII. Valorar y operar los procedimientos de reclutamiento y selección de personal garantizando su alineación con los requisitos establecidos por el MEG.
+
+VIII. Asegurar que la descripción y perfil del puesto se encuentra alineado a los requisitos establecidos por el MEG.
+
+IX. Establecer y garantizar la igualdad de oportunidades y compensaciones.
+
+X. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+XI. Proporcionar apoyo para la conciliación y balance del Trabajo con la Familia o la vida privada.
+
+XII. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+XIII. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+XIV. Combatir todo tipo de violencia en la organización.
+
+XV. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+XVI. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+XVII. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+XVIII. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 45.
 
-Serán considerados trabajadores de confianza: el Rector; el secretario académico, el secretario administrativo, los directores académicos, jefes de departamento y demás personal que desempeñe funciones de coordinación, dirección, inspección, vigilancia y fiscalización, independientemente de la denominación del puesto, cuando tengan carácter general y los que se relacionen con trabajos personales de los titulares.
+Para el cumplimiento de sus objetivos, la Coordinación de la Unidad de Genero, tendrá las siguientes atribuciones y obligaciones.
+
+I. Realizar periódicamente el Diagnóstico Organizacional con Perspectiva de Género.
+
+II. Establecer, redactar, aprobar, comunicar y difundir la política de Equidad de Género.
+
+III. Evaluar periódicamente el impacto, la difusión, conocimiento y entendimiento de la política de Equidad de género.
+
+IV. Desarrollar y operar la planeación general, objetivos y metas del sistema de Equidad de Género.
+
+V. Definir documentar y apoyar el cumplimiento de objetivos y metas del sistema de Equidad de Género.
+
+VI. Establecer, implementar y verificar las acciones afirmativas y a favor del personal con relación directa entre cada una de las acciones propuestas y el diagnóstico organizacional con perspectiva de género y que estas se distingan o diferencien de los requisitos del MEG.
+
+VII. Difundir al personal de todas las áreas y localidades de la organización el nombramiento, funciones y responsabilidades del comité y de la coordinación del sistema.
+
+VIII. Desarrollo y operatividad del Manual del sistema de gestión de equidad de género de la universidad.
+
+IX. Establecer y operar los procedimientos del control de documentación del sistema de equidad de género.
+
+X. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+XI. Establecer y garantizar la igualdad de oportunidades y compensaciones.
+
+XII. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+XIII. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+XIV. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+XV. Combatir todo tipo de violencia en la organización.
+
+XVI. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+XVII. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+XVIII. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+XIX. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 46.
 
-El personal de servicios administrativos será el contratado para realizar labores distintas a las del personal académico y técnico de apoyo.
+Para el cumplimiento de sus objetivos, el Secretario de la Unidad de Genero tendrá las siguientes atribuciones y obligaciones.
+
+I. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+II. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+III. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+IV. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+V. Combatir todo tipo de violencia en la organización.
+
+VI. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+VII. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+VIII. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+IX. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 47.
 
-El personal de la universidad, ejercerá sus funciones de acuerdo con los reglamentos aprobados por la junta directiva.
+Para el cumplimiento de sus objetivos, el Ombudsperson de la Unidad de Genero, tendrá las siguientes atribuciones y obligaciones.
+
+I. Establecer, implementar y verificar las acciones afirmativas y a favor del personal con relación directa entre cada una de las acciones propuestas y el diagnóstico organizacional con perspectiva de género y que estas se distingan o diferencien de los requisitos del MEG.
+
+II. Establecer y operar los procedimientos del control de documentación del sistema de equidad de género.
+
+III. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+IV. Establecer y garantizar la igualdad de oportunidades y compensaciones.
+
+V. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+VI. Proporcionar apoyo para la conciliación y balance del Trabajo con la Familia o la vida privada.
+
+VII. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+VIII. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+IX. Combatir todo tipo de violencia en la organización.
+
+X. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+XI. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+XII. Defensa organizacional de los derechos fundamentales.
+
+XIII. Establecer y operar procedimientos de atención de quejas y peticiones relativas a toda forma de hostigamiento, discriminación, trato inequitativo e incumplimiento del Sistema de Gestión de Equidad de Género.
+
+XIV. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+XV. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 48.
 
-La estructura y tabuladores para las remuneraciones del personal se fijarán dentro de los límites que determine el Estado y de acuerdo con la disponibilidad de recursos.
+Para el cumplimiento de sus objetivos, Recursos Humanos de la Unidad de Genero, tendrá las siguientes atribuciones y obligaciones.
+
+I. Definir documentar y apoyar el cumplimiento de objetivos y metas del sistema de Equidad de Género.
+
+II. Desarrollo y operatividad del Manual del sistema de gestión de equidad de género de la universidad.
+
+III. Establecer y operar los procedimientos del control de documentación del sistema de equidad de género.
+
+IV. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+V. Valorar y operar los procedimientos de reclutamiento y selección de personal garantizando su alineación con los requisitos establecidos por el MEG.
+
+VI. Asegurar que la descripción y perfil del puesto se encuentra alineado a los requisitos establecidos por el MEG.
+
+VII. Detectar y dar soluciones a necesidades de capacitación del personal.
+
+VIII. Establecer y operar procedimientos con criterios de promoción y desarrollo profesional.
+
+IX. Establecer y operar procedimientos de evaluación de desempeño.
+
+X. Establecer y garantizar la igualdad de oportunidades y compensaciones.
+
+XI. Asegurar las retribuciones, sueldos y salarios sin presentar índices de discriminación o desigualdad entre el personal.
+
+XII. Establecer mecanismos que permitan la compatibilidad entre el trabajo y la vida personal en el hombre y la mujer.
+
+XIII. Proporcionar apoyo para la conciliación y balance del Trabajo con la Familia o la vida privada.
+
+XIV. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+XV. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+XVI. Combatir todo tipo de violencia en la organización.
+
+XVII. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+XVIII. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+XIX. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+XX. Establecer indicadores de equidad de género dentro de la organización con el fin de obtener información para evaluar el cumplimiento de los objetivos y metas de la organización.
+
+XXI. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 49.
 
-El personal académico de la universidad ingresará mediante concurso de oposición o por procedimientos igualmente idóneos para comprobar la capacidad e idoneidad de los candidatos.
+Para el cumplimiento de sus objetivos, la Auditora Interna de la Unidad de Genero, tendrá las siguientes atribuciones y obligaciones.
+
+I. Evaluar la operatividad del sistema de Equidad de Género y elaborar un reporte ejecutivo periódicamente.
+
+II. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+III. Evaluación y seguimiento de mejoras del sistema de equidad de género de la universidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 50.
 
-El personal académico de carrera contará al menos con el grado académico de maestría.
+Para el cumplimiento de sus objetivos, los Vocales de la Unidad de Genero, tendrán las siguientes atribuciones y obligaciones.
+
+I. Verificar que el lenguaje utilizado en los documentos del sistema: manuales, procedimientos, formatos, instructivos y guías sea inclusivo del género. Por ejemplo: el/la director/a, el/la gerente, el/la jefe/a, el/la supervisor/a, el/la trabajador/a, los trabajadores dela (sic) empresa / el personal de la empresa, etc.
+
+II. Realizar eventos de recreación que permitan contar con un adecuado ambiente laboral y una calidad de vida en la organización.
+
+III. Cuidar que la institución cuente y opere un sistema de prevención e intervención en el cuidado de la salud.
+
+IV. Combatir todo tipo de violencia en la organización.
+
+V. Sensibilizar y comunicar a todo el personal en equidad de género.
+
+VI. Fomentar, apoyar y cooperar en programas con responsabilidad social.
+
+VII. Establecer y operar medidas de prevención en contra del hostigamiento, acoso y discriminación.
+
+VIII. Establecer propuestas de mejora para el sistema de equidad de género de la universidad.
+
+IX. Apoyar en la operatividad de cada uno de los procedimientos establecidos para la óptima implementación del sistema de equidad de género de la universidad.
+
+N. DE. MEDIANTE ACTUALIZACIÓN DE REFORMA Y/O ADICIÓN AL PRESENTE SE REESTRUCTURÓ EL CONTENIDO DEL CAPÍTULO XII, SIN PRECISARSE INDICACIÓN ALGUNA DEL TÍTULO TERCERO Y SUS DOS CAPÍTULOS, POR LO QUE SÓLO SE POSICIONARON ARRIBA DEL ARTÍCULO 51, P.O. 27 DE AGOSTO DE 2014.
 
 ## TÍTULO TERCERO. DE LA COMUNIDAD UNIVERSITARIA
 
@@ -1134,3 +1376,9 @@ Licenciado Abelardo González Quiroz
 Comisario Público
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS O ACTUALIZACIONES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2014.
+
+LA ACTUALIZACIÓN DE REFORMA Y/O ADICIÓN CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
