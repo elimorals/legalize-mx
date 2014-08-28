@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-97997"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-12-16"
-last_updated: "2013-12-16"
+last_updated: "2014-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2014
 
-TEXTO ORIGINAL
+TEXTO ORIGINAL.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el lunes 16 de diciembre de 2013.
 
@@ -46,6 +46,8 @@ LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2014
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO
+
+> <small>[N. DE E. PARA CONSULTAR LOS CONCEPTOS Y LOS MONTOS, APLICABLES DURANTE EL EJERCICIO FISCAL 2014, VÉASE LA INFORMACIÓN FINANCIERA ADICIONAL EMITIDA POR EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 28 DE AGOSTO DE 2014, PÁGINAS DE LA 3 A LA 5.]</small>
 
 ###### ARTÍCULO 1.
 
