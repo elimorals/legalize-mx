@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-salud-92353"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-07"
-last_updated: "2013-02-07"
+last_updated: "2014-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 29 DE AGOSTO DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 7 de febrero de 2013.
 
@@ -53,7 +53,17 @@ II. Subsecretaría de Salud;
 
 III. Órganos Desconcentrados.- Red de Centros de Atención a Mujeres Embarazadas en situación vulnerable;
 
-IV. Organismos Públicos Descentralizados, sectorizados a la Secretaría de Salud.- Servicios de Salud de Veracruz, Sistema para el Desarrollo Integral de la Familia, Comisión de Espacios de Salud del Estado de Veracruz, Régimen Estatal de Protección Social en Salud; y la Comisión de Arbitraje Médico del Estado de Veracruz;
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2014)</small>
+
+IV. Los Organismos Públicos Descentralizados que estarán sectorizados a la Secretaría de Salud son los siguientes:
+
+a) Servicios de Salud de Veracruz;
+
+b) Sistema para el Desarrollo Integral de la Familia;
+
+c) Régimen Estatal de Protección Social en Salud; y
+
+d) Comisión de Arbitraje Médico del Estado de Veracruz
 
 V. Enlace Administrativo.
 
@@ -237,7 +247,9 @@ l. Trabajo social,
 
 6. Administrativa.
 
-IV. El Órgano de Vigilancia. Contraloría Interna de la Secretaría de Salud y de los Servicios de Salud de Veracruz.
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2014)</small>
+
+IV. Órgano de Vigilancia. Órgano Interno de Control en la Secretaría de Salud y en el Organismo Público Descentraliado Servicios de salud de Veracruz.
 
 ### CAPÍTULO VI. Organismos Públicos Descentralizados, Sectorizados a la Secretaría de Salud
 
@@ -249,15 +261,7 @@ SESVER: Servicios de Salud de Veracruz, el cual fue creado en términos de la Le
 
 REPSS: Régimen Estatal de Protección Social en Salud de Veracruz, el cual fue creado en términos del Decreto el cual fue publicado en la Gaceta Oficial del estado, bajo el número extraordinario 041 de fecha seis de febrero de dos mil ocho, el cual tiene por objeto garantizar las acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud.
 
-ESPACIOS DE SALUD: Anteriormente denominada “COCOSA”, Comisión Constructora de Salud. la cual fue creada a través de Decreto publicado en la Gaceta Oficial del estado, bajo el N° 229 de fecha veintiocho de diciembre de 2005, posteriormente reformado mediante el Decreto de fecha doce de julio de dos mil once, bajo el numeral 211, que reforma el artículo 1° del Instrumento que crea a la Comisión Constructora de Salud del Estado de Veracruz de Ignacio de la Llave, actualizándose como la Comisión de Espacios de Salud del Estado de Veracruz de Ignacio de la Llave, en adelante “Espacios de Salud”; siendo los objetivos del Organismo Espacios de Salud:
-
-I. Administrar la construcción, diseño, rehabilitación, mantenimiento y equipamiento de los hospitales, clínicas, laboratorios y centros de salud, y demás inmuebles y sus anexos que requiere el Sector Salud en los distintos niveles y modalidades de atención a la salud a cargo del Estado;
-
-II. Elaborar normas y dictámenes técnicos;
-
-III. Supervisar y asesorar en la materia; y
-
-IV. Establecer criterios sobre los conceptos citados.
+(DEROGADO CUARTO PÁRRAFO N. DE. E. ESPACIOS DE SALUD] G.O. 29 DE AGOSTO DE 2014
 
 SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA: Su misión es brindar servicios de asistencia social oportunos, eficaces, equitativos, humanitarios y de calidad que coadyuven efectivamente al mejoramiento de las condiciones adversas de la población desprotegida, teniendo como objetivo rector, el mejorar las circunstancias de carácter social necesarias para el desarrollo integral de la familia, así como la protección física y mental de las personas desprotegidas, hasta lograr su incorporación a una vida plena y productiva.
 
@@ -302,3 +306,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.O. 29 DE AGOSTO DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
