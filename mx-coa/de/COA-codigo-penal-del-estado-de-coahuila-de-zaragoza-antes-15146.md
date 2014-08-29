@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2014-05-20"
+last_updated: "2014-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -6035,7 +6035,9 @@ XI. VALES O DISPOSITIVOS ELECTRÓNICOS. Cuando el objeto del robo sean vales de 
 
 MODALIDADES ESPECIALMENTE AGRAVANTES DEL ROBO. Se aplicará de tres a doce años de prisión y multa, con independencia del valor de lo robado, cuando concurra cualquiera de las circunstancias siguientes:
 
-I. VIOLENCIA O INTIMIDACIÓN EN LAS PERSONAS. Se cometa empleando violencia o intimidación en las personas; o cuando una vez consumado se utilice alguno de estos medios para conservar la cosa robada, procurar la fuga o lograr la impunidad del hecho.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2014)</small>
+
+I. VIOLENCIA O INTIMIDACION EN LAS PERSONAS. Se cometa empleando violencia o intimidación en las personas; o cuando se hayan empleado armas de fuego o utilizado cualquier instrumento u objeto con apariencia, forma o configuración de éstas; o cuando una vez consumado se utilice alguno de estos medios para conservar la cosa robada, procurar la fuga o lograr la impunidad del hecho.
 
 II. VIVIENDA, APOSENTO O CUARTO QUE ESTÉN HABITADOS O DESTINADOS A HABITACIÓN. El hecho se ejecute en vivienda, aposento o cuarto que estén habitados o destinados para habitación; comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
 
@@ -6758,3 +6760,7 @@ P.O. 20 DE MAYO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Ministerio Público y los jueces penales del Estado de Coahuila de Zaragoza, deberán capacitarse conforme a los estándares internacionales del delito de persona desaparecida, para garantizar de manera adecuada una búsqueda, persecución y sanción del delito.
+
+P.O. 29 DE AGOSTO DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
