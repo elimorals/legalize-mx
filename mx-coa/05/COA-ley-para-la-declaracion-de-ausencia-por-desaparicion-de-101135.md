@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-declaracion-de-ausencia-por-desaparicion-de-101135"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-20"
-last_updated: "2014-05-20"
+last_updated: "2014-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA DECLARACION DE AUSENCIA POR DESAPARICION DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE AGOSTO DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA DECLARACIÓN DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE AGOSTO DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de mayo de 2014.
 
@@ -79,9 +79,11 @@ El Ministerio Público encargado de la carpeta de investigación dirigirá la av
 
 En caso de que como resultado de la búsqueda e investigación se descubriera un fraude a la ley, la Declaración de Ausencia por Desaparición de Personas quedará sin efecto.
 
+> <small>(F. DE E., P.O. 29 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 4.
 
-Una vez concluido el plazo señalado en el artículo anterior, si el Ministerio Público no hubiere presentado dicha solicitud, cualquiera de las personas e instituciones señaladas en el artículo 3° de esta Ley, podrán hacerlo.
+Una vez concluido el plazo señalado en el artículo anterior, si el Ministerio Público no hubiere presentado dicha solicitud, cualquiera de las personas e instituciones señaladas en el artículo 2 de esta Ley, podrán hacerlo.
 
 ###### Artículo 5.
 
