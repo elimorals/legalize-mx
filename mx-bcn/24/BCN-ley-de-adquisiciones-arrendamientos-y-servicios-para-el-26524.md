@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2013-09-20"
+last_updated: "2014-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -81,9 +81,9 @@ b) Los órganos constitucionales autónomos;
 
 c) Los municipios de la entidad, según lo dispuesto en el Capítulo Octavo de la Ley.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2014)</small>
 
-VIII.- El Comité.- El órgano de cada uno de los sujetos obligados, quienes además de lo establecido en el artículo 18 de esta Ley, deberán estar integrados por un representante designado de común acuerdo por las Asociaciones de las MIPYMES a nivel Estatal, con atribuciones para conocer de las adquisiciones, arrendamientos y servicios que deban adjudicarse o contratarse en los términos de la Ley;
+VIII.- El Comité.- El órgano de cada uno de los sujetos obligados, con atribuciones para conocer de las adquisiciones, arrendamientos y servicios que deban adjudicarse o contratarse en los términos de la Ley;
 
 IX.- Proveedor.- Persona que celebre contrato de adquisiciones, arrendamientos o servicios;
 
@@ -95,7 +95,7 @@ XII.- Productos o mercancías regionales.- Son los bienes y servicios desarrolla
 
 > <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
 
-XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo, siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal al menos con un año de antigüedad en el Estado; y (sic)
+XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo, siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal al menos con un año de antigüedad en el Estado; y
 
 XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determine y autorice la unidad administrativa o la contraloría, en su ámbito de competencia, en los casos previstos por esta Ley;
 
@@ -143,11 +143,11 @@ El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su ca
 
 La unidad administrativa, la tesorería y la contraloría, en las materias de su competencia, estarán facultadas para interpretar la Ley y su Reglamento, así como para dictar las normas y políticas que sean necesarias para su adecuado cumplimiento, dichas normas y políticas deberán publicarse en el Periódico Oficial del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 8.
 
-En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del quince por ciento.
+En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento.
 
 Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
 
@@ -165,17 +165,17 @@ En la selección, adquisición y arrendamiento de los equipos de computación, r
 
 En lo no previsto por la Ley y las disposiciones que de ella deriven, serán aplicables supletoriamente el Código Civil y de Procedimientos Civiles, ambos para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 11.
 
-No se podrá financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación, salvo a los proveedores que se encuentren en la categoría de MIPYMES. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales en todo caso, deberán garantizarse en los términos del artículo 47 de esta Ley.
+No se podrá financiar a proveedores la adquisición o arrendamiento de bienes o la prestación de servicios, cuando éstos vayan a ser objeto de contratación. No se considerará como operación de financiamiento, el otorgamiento de anticipos, los cuales en todo caso, deberán garantizarse en los términos del artículo 47 de esta Ley.
 
 La tesorería podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2014)</small>
 
-No procederá el pago de anticipos, con excepción a los proveedores que se encuentren en la categoría de MIPYMES, a quienes se les podrá otorgar un anticipo de hasta el cincuenta por ciento y, por ello, no deberá realizarse pago alguno antes de recibir los servicios derivados de los proyectos de Asociación Público-Privada a que se refiere la ley de la materia.
+No procederá el pago de anticipos y, por ello, no deberá realizarse pago alguno antes de recibir los servicios derivados de los proyectos de Asociación Público-Privada a que se refiere la ley de la materia.
 
 ###### ARTÍCULO 12.
 
@@ -201,7 +201,7 @@ II.- Los objetivos, metas y previsiones de recursos establecidos en los presupue
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
-III.- A las disposiciones establecidas sobre la materia la (sic) Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
+III.- A las disposiciones establecidas sobre la materia (sic) la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -237,19 +237,19 @@ VI.- Los requerimientos de mantenimiento de los bienes muebles a su cargo;
 
 VII.- Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la adquisición, arrendamiento o servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 17.
 
-La unidad administrativa, a más tardar el treinta y uno de enero de cada año, pondrá a disposición de los interesados los programas anuales de adquisiciones, arrendamientos y servicios de las dependencias o entidades, con excepción de aquella información que se considere de naturaleza confidencial.
+La unidad administrativa, a más tardar el treinta y uno de marzo de cada año, pondrá a disposición de los interesados los programas anuales de adquisiciones, arrendamientos y servicios de las dependencias o entidades, con excepción de aquella información que se considere de naturaleza confidencial.
 
 Los programas serán de carácter informativo, no implicarán compromiso de contratación y podrán ser adicionados, modificados, suspendidos o cancelados por las dependencias o entidades, sin responsabilidad alguna para la unidad administrativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2014)</small>
 
 ###### ARTÍCULO 18.
 
-La unidad administrativa establecerá y presidirá el Comité, el cual se integrará además por la tesorería, la contraloría, los órganos solicitantes y un representante designado de común acuerdo por las Asociaciones de las MIPYMES a nivel Estatal en los términos que señale el Reglamento y tendrá las siguientes funciones:
+La unidad administrativa establecerá y presidirá el Comité, el cual se integrará además por la tesorería, la contraloría y los órganos solicitantes en los términos que señale el Reglamento y tendrá las siguientes funciones:
 
 I.- Convocar y adjudicar las adquisiciones, arrendamientos y servicios;
 
@@ -363,9 +363,9 @@ Las convocatorias podrán referirse a uno o más bienes y servicios, y contendr�
 
 I.- El nombre, denominación o razón social de la convocante;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2014)</small>
 
-II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación, en su caso, el costo y forma de pago de las mismas. En licitaciones menores a 5 millones de pesos, las bases no tendrán costo alguno para los participantes, cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que autorice la unidad administrativa;
+II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que autorice la unidad administrativa;
 
 III.- La indicación de sí la proposición podrá ser presentada a través de medios electrónicos;
 
@@ -387,7 +387,7 @@ XI.- La indicación de que no podrán participar las personas que se encuentren 
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
 
-XII. En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso, de que éste es con o sin opción a compra.
+XII.- En el caso de arrendamiento y en los proyectos de Asociación Público-Privada, la indicación en su caso, de que éste es con o sin opción a compra.
 
 ###### ARTÍCULO 27.
 
@@ -839,9 +839,9 @@ III.- Los proveedores que no cumplan con sus obligaciones contractuales por caus
 
 IV.- Los licitantes o proveedores que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo del recurso de inconformidad.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2014)</small>
 
-La inhabilitación que se imponga no será menor de seis meses ni mayor de un año, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la contraloría lo haga del conocimiento del órgano mediante publicación en el Periódico Oficial del Estado.
+La inhabilitación que se imponga no será menor de seis meses ni mayor de tres años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la contraloría lo haga del conocimiento del órgano mediante publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 60.
 
@@ -931,11 +931,11 @@ IV.- No se ocasionen daños o perjuicios a terceros, a menos que se garanticen �
 
 La contraloría deberá acordar, en su caso, la suspensión o la denegación de la suspensión, dentro de los cinco días hábiles siguientes a la interposición del recurso. En caso de que la contraloría acuerde procedente la suspensión, el recurrente deberá garantizarla mediante una fianza expedida por una institución autorizada.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2014)</small>
 
-###### Artículo 71.
+###### ARTÍCULO 71.
 
-La fianza mencionada en el artículo anterior, tiene por objeto garantizar los daños y perjuicios que pudieran ocasionarse con motivo de la suspensión del acto impugnado, por lo que al momento de proceder dicha suspensión, el recurrente deberá presentar la fianza por el monto que fije la contraloría, que no podrá exceder del treinta por ciento de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá otorgar contrafianza por el mismo monto afianzado, dejando sin efectos la suspensión concedida.
+La fianza mencionada en el artículo anterior, tiene por objeto garantizar los daños y perjuicios que pudieran ocasionarse con motivo de la suspensión del acto impugnado, por lo que al momento de proceder dicha suspensión, el recurrente deberá presentar la fianza por el monto que fije la contraloría, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá otorgar contrafianza por el mismo monto afianzado, dejando sin efectos la suspensión concedida.
 
 ###### ARTÍCULO 72.
 
@@ -1148,3 +1148,7 @@ P.O. 20 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE AGOSTO DE 2014.
+
+ÚNICO: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
