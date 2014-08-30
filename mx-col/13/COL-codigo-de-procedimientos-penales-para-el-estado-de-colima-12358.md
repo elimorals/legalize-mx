@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2013-06-22"
+last_updated: "2014-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO No. 372 DE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ DEROGADO, DE MANERA PROGRESIVA Y GRADUAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -227,7 +229,7 @@ VIII.- Proveer regularmente a las victimas sobre los avances en la investigació
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
-IX.- Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor; y (sic)
+IX.- Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor; y
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2011)</small>
 
@@ -419,7 +421,7 @@ VI.- No ser objeto de información por los medios de comunicación o presentado 
 
 Inmediatamente que la víctima o el ofendido por el delito se presente o comparezca ante el agente del ministerio público, éste deberá practicar las diligencias siguientes:
 
-Tomar el nombre, domicilio, lugar y fecha de nacimiento, así como los demás datos generales de la víctima u ofendido, cuidando en todo caso su seguridad; (sic)
+Tomar el nombre, domicilio, lugar y fecha de nacimiento, así como los demás datos generales de la víctima u ofendido, cuidando en todo caso su seguridad;
 
 Explicar a la víctima u ofendido las etapas y desarrollo del procedimiento penal, atendiendo a las características y peculiaridades del delito materia de la investigación, así como el contenido y alcance de los derechos que la Constitución y demás leyes le otorgan.
 
@@ -3744,3 +3746,53 @@ P.O. 6 DE ABRIL DE 2013.
 P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE AGOSTO DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO No. 372 POR EL QUE SE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO.</small>
+
+###### ARTÍCULO PRIMERO.
+
+La Quincuagésima Séptima Legislatura del Congreso del Estado Libre y Soberano de Colima, de conformidad con el segundo transitorio del Decreto por el que se reformaron diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos publicado el 18 de junio de 2008 en el Diario Oficial de la Federación, declara que se incorpora el sistema procesal penal acusatorio al régimen jurídico del Estado y en sus ordenamientos legales, por lo que su sustanciación será de conformidad con las disposiciones contenidas por el Código Nacional de Procedimientos Penales, el cual regulará la forma y términos en que se sustanciarán los procedimientos penales en el Estado.
+
+En cumplimiento a lo previsto en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día cinco de marzo del dos mil catorce, y para efectos la Declaratoria de inicio de vigencia del referido Código Nacional y el nuevo sistema, se declara que en el Estado de Colima, se incorpora a su régimen jurídico y entra en vigor el Código Nacional de Procedimientos Penales de manera gradual, por región o partido judicial, de acuerdo con las prevenciones del artículo segundo.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con la Constitución Política para el Estado de Colima y el Código Nacional de Procedimientos Penales, vigente para el Estado de Colima, en los términos del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, el sistema procesal penal acusatorio entrará en vigencia para todos los delitos previstos y sancionados en el Código Penal en vigor para el Estado, así como el Código Nacional de Procedimientos Penales, en la fecha, en las regiones y mediante las modalidades siguientes:
+
+I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+
+II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+
+III. El 5 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+IV. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+
+En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
+
+Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta Entidad Federativa, se regirán por las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Que de conformidad a lo establecido en el artículo cuarto transitorio del Decreto publicado en el Diario Oficial de la Federación de fecha 18 de junio de 2008, mediante el cual se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los procedimientos penales iniciados en los diversos Partidos Judiciales del Estado, con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad al inicio de la vigencia del Código Nacional de Procedimientos Penales.
+
+Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Colima, contenido en el Decreto Número 308 publicado en el Periódico Oficial "El Estado de Colima" el 2 de agosto de 1997, así como sus reformas, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos de este Decreto, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO CUARTO.
+
+Que el Sistema Procesal Penal Acusatorio se adoptará en la Ley de Justicia Penal para Adolecentes y se incorporará a los ordenamientos enunciados, mismas que entrarán en vigor a las cero horas del día 01 de abril del 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
+
+###### ARTÍCULO QUINTO.
+
+Hasta antes de que concluya la implementación del Sistema Procesal Penal Acusatorio en todo el Estado, las instituciones operadoras y encargadas del mismo, deberán de expedir los ordenamientos secundarios y administrativos de su competencia que posibiliten su aplicación.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase copia de la Declaratoria a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado, para su conocimiento y efectos a que haya lugar.
