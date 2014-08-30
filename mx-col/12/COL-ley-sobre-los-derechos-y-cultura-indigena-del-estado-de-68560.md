@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-y-cultura-indigena-del-estado-de-68560"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2013-10-12"
+last_updated: "2014-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY SOBRE LOS DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY SOBRE LOS DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -81,7 +83,7 @@ III.- Constitución Local: A la Constitución Política del Estado Libre y Sober
 
 IV.- Autonomía: La expresión en la libre determinación de los pueblos y comunidades indígenas asentados en territorio del Estado, en concordancia con el orden jurídico vigente;
 
-V.- Territorio Indígena: Porción del territorio Estatal, constituida por espacios continuos ocupados y poseídos por las comunidades indígenas, en cuyo ámbito se manifiesta su vida comunitaria;
+V.- Territorio Indígena: Porción del territorio Estatal, constituida (sic) por espacios continuos ocupados y poseídos por las comunidades indígenas, en cuyo ámbito se manifiesta su vida comunitaria;
 
 VI.- Autoridades Tradicionales: Aquellos que los pueblos indígenas reconocen de acuerdo a sus sistemas normativos internos derivado de sus usos y costumbres;
 
@@ -402,3 +404,13 @@ SEGUNDO.- Con el objetivo de hacer efectivo lo dispuesto por la fracción VIII, 
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE AGOSTO DE 2014.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley sobre los Derechos y Cultura Indígena del Estado de Colima, publicada mediante Decreto número 520, de fecha 09 de mayo de 2009, en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- El Consejo Estatal Indígena deberá estar creado en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+CUARTO.- El Poder Ejecutivo del Estado deberá elaborar el Reglamento de la presente Ley en un término no mayor a 120 días naturales contados a partir de la entrada en vigor de la misma.
