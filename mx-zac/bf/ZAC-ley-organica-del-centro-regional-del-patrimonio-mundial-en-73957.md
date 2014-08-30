@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-centro-regional-del-patrimonio-mundial-en-7395
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-02-24"
-last_updated: "2010-02-24"
+last_updated: "2014-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL CENTRO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS
 
-LEY ORGANICA DEL CENTRO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS
+LEY ORGÁNICA DEL CENTRO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de febrero de 2010.
 
@@ -430,3 +432,19 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2014.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se abroga la Ley Orgánica del Centro Regional del Patrimonio Mundial en Zacatecas, contenida en el Decreto Número 453, publicado en Suplemento 2 al número 16 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 24 de febrero de 2010 y se derogan las disposiciones legales y administrativas que contravengan el presente ordenamiento.
+
+Tercero.- Para el inicio de las actividades del Instituto, el Consejo de Administración deberá quedar integrado a más tardar dentro de los treinta días siguientes a la publicación del presente Decreto.
+
+Cuarto.- El Comité Ejecutivo y el Comité Consultivo deberán quedar integrados a más tardar dentro de los noventa días siguientes a la publicación del presente Decreto.
+
+Quinto.- Los recursos humanos, financieros y materiales que actualmente conforman el Centro Regional del Patrimonio Mundial en Zacatecas, pasarán a formar parte del Instituto Regional del Patrimonio Mundial en Zacatecas.
+
+Sexto.- Dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley, el Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley.
