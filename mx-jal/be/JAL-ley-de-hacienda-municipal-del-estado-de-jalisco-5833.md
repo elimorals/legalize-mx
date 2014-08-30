@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-08-26"
+last_updated: "2014-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24952/LX/14 PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
