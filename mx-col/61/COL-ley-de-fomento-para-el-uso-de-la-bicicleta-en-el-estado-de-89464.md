@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-para-el-uso-de-la-bicicleta-en-el-estado-de-8946
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2012-09-15"
+last_updated: "2014-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE FOMENTO PARA EL USO DE LA BICICLETA EN EL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE FOMENTO PARA EL USO DE LA BICICLETA EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de septiembre de 2012.
 
@@ -39,7 +41,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -99,11 +101,19 @@ IV. Ciclista: A la persona que conduce una bicicleta;
 
 V. Ciclovía: pueden ser urbanas, interurbanas, bidireccionales o unidireccionales, según se permita en ellas la circulación;
 
-VI. Ciclopista A la vía pública destinada exclusivamente para la circulación de bicicletas (de una comunidad a otra); y
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2014)</small>
 
-VII. Ley: A la Ley de Fomento y Promoción del Uso de la Bicicleta para el Estado de Colima.
+VI. Ciclovía Articulada: A aquellas ciclovías que están intercomunicadas y permiten a los conductores de bicicletas se trasladen de un punto a otro en la ciudad o zona conurbada en cualquier momento;
 
-VIII. Bici estacionamientos
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+
+VIII (SIC). Ciclopista: A la vía pública destinada exclusivamente para la circulación de bicicletas (de una comunidad a otra);
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+
+IX. Ley: A la Ley de Fomento y Promoción del Uso de la Bicicleta para el Estado de Colima; y
+
+X. Bici estacionamientos.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -137,9 +147,17 @@ VIII. Promover incentivos para que las instituciones públicas y las empresas de
 
 IX. Implementar campañas dirigidas a los ciclistas para un comportamiento responsable y respetuoso de la normatividad que rige el tránsito en la vialidad urbana y en las vías destinadas al tránsito de bicicletas;
 
-X. Implementar un programa de difusión por medios electrónicos, respecto a la infraestructura ciclística de movilidad en el Estado; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
 
-XI. Coordinarse en la generación de condiciones que incluyan a la bicicleta como medio de transporte dirigido a mejorar las condiciones ambientales y de circulación vial, así como la salud y la calidad de vida de los ciudadanos colimenses.
+X. Implementar un programa de difusión por medios electrónicos, respecto a la infraestructura ciclística de movilidad en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+
+XI. Coordinarse en la generación de condiciones que incluyan a la bicicleta como medio de transporte dirigido a mejorar las condiciones ambientales y de circulación vial, así como la salud y la calidad de vida de los ciudadanos colimenses; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2014)</small>
+
+XII. Diseñar y ejecutar de manera coordinada estrategias que permitan la articulación de las ciclovías existentes.
 
 ###### Artículo 9°.
 
@@ -151,9 +169,11 @@ II. Promover y difundir el uso de la bicicleta como medio de transporte alternat
 
 III. Proveer, en el ámbito de sus atribuciones, las condiciones de seguridad vial para el uso de la bicicleta.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 10.
 
-Los ayuntamientos deberán incluir la promoción del uso de la bicicleta en sus Planes de Desarrollo Municipal.
+Los ayuntamientos deberán incluir la promoción del uso de la bicicleta en sus Planes de Desarrollo Municipal, en términos de lo dispuesto en la presente Ley.
 
 ###### Artículo 11.
 
@@ -219,9 +239,11 @@ Los ayuntamientos del Estado deberán implementar programas y campañas de difus
 
 La Secretaría de Educación del Gobierno del Estado promoverá de igual manera, entre la comunidad estudiantil de los niveles básico, como una cultura el uso de la bicicleta.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2014)</small>
+
 ###### Artículo 17.
 
-A fin de contribuir al uso más seguro de la bicicleta en la entidad, las vialidades que se construyan deberán incluir carriles preferentes o ciclopistas, así como instalar los señalamientos necesarios e indicar en el pavimento el área de espera para los ciclistas junto a los cruces peatonales.
+A fin de contribuir al uso más seguro de la bicicleta en la entidad, las vialidades que se construyan deberán incluir ciclovías o ciclopistas, las cuales deberán estar articuladas, con la instalación de los señalamientos necesarios e indicar en el pavimento el área de espera para los ciclistas junto a los cruces peatonales.
 
 ## TRANSITORIOS
 
@@ -246,3 +268,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 15 quince del mes de septiembre del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO.-Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ.-Rúbrica.- EL SECRETARIO DE DESARROLLO URBANO, ARQ. OSCAR ALEJANDRO TORRES CONTRERAS.-Rúbrica.- EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA.-Rúbrica.- LA ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE EDUCACIÓN, MTRA. NORMA LIDIA PONCE DE LEÓN AMADOR.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Estado y los Ayuntamientos de la entidad, de conformidad a los planes Estatal y Municipal de Desarrollo respectivos, así como de la disponibilidad presupuestal, procurarán que de manera gradual se lleven a cabo las acciones relativas a la articulación de las ciclovías y ciclopistas existentes en la Entidad, así como las de nueva creación.
