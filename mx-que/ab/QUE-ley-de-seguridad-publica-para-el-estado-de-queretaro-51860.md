@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-publica-para-el-estado-de-queretaro-51860"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-15"
-last_updated: "2012-06-22"
+last_updated: "2014-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 30 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 15 de septiembre de 2006.
 
@@ -203,7 +205,7 @@ XVII. Determinar las acciones tendientes a mejorar la vigilancia en las vías de
 
 XVIII. Convenir con los Ayuntamientos las condiciones para la coordinación intermunicipal de la seguridad pública;
 
-XIX. Apoyar a las Corporaciones de Policía para que operen sus respectivos consejos de honor y justicia, con estricto respeto a las atribuciones de los titulares de las instituciones a que pertenezca dicho personal; y (sic)
+XIX. Apoyar a las Corporaciones de Policía para que operen sus respectivos consejos de honor y justicia, con estricto respeto a las atribuciones de los titulares de las instituciones a que pertenezca dicho personal; y
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -639,7 +641,7 @@ XXII. Desarrollar e impulsar la implementación de procedimientos, mecanismos e 
 
 XXIII. Formular a los encargados de la seguridad pública en el Estado y Municipios, las recomendaciones que estime pertinentes para el mejoramiento de la función;
 
-XXIV. Proponer, coordinar e implementar el Programa de Emergencias en el Estado; y (sic)
+XXIV. Proponer, coordinar e implementar el Programa de Emergencias en el Estado; y
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1413,7 +1415,7 @@ XI. Utilizar los medios disuasivos a su alcance, antes de recurrir al uso de la 
 
 XII. Someterse, en el momento en que sean requeridos, a los exámenes médico (sic), psicológicos, poligráficos y sobre consumo de bebidas embriagantes, enervantes, estupefacientes o sustancias psicotrópicas que determine cada Corporación o el Consejo Estatal de Seguridad Pública;
 
-XIII. Formular en forma veraz, completa y oportuna, los (sic) partes informativos, informes, remisiones, bitácoras y demás documentos relacionados con el servicio;
+XIII. Formular en forma veraz, completa y oportuna, los partes informativos, informes, remisiones, bitácoras y demás documentos relacionados con el servicio;
 
 XIV. Usar en forma debida y cuidar el equipo que le sea proporcionado para el correcto desempeño de su servicio, destinándolo exclusivamente al cumplimiento de sus funciones y hacer entrega inmediata de él al separarse del servicio;
 
@@ -1613,7 +1615,7 @@ La Comisión de Carrera Policial deberá integrar un expediente u hoja de servic
 
 ###### ARTÍCULO 127.
 
-La Comisión de Carrera Policial determinará, de manera obligatoria, exámenes toxicológicos, médicos, evaluación del servicio, estudio de personalidad, habilidades psicomotrices de la función policial y los además que determine de acuerdo a la disponibilidad presupuestal.
+La Comisión de Carrera Policial determinará, de manera obligatoria, exámenes toxicológicos, médicos, evaluación del servicio, estudio de personalidad, habilidades psicomotrices de la función policial y los además (sic) que determine de acuerdo a la disponibilidad presupuestal.
 
 #### SECCIÓN SEGUNDA. DEL CONSEJO DE HONOR Y JUSTICIA
 
@@ -2269,7 +2271,7 @@ VIII. Utilizar para la prestación de sus servicios vehículos que no cuenten co
 
 IX. Utilizar en su razón social, papelería, documentos de identificación, instalaciones, insignias, colores, vehículos, vestimenta y demás bienes del prestador de servicio, las palabras "Policía", "Agente", "Investigador" o cualquier otro vocablo, abreviatura, imagen o logotipo, que pueda provocar confusión o establecer relación con las autoridades Federales, Estatales o Municipales o con los Cuerpos Preventivos de Seguridad Pública Estatal o Municipal. El término "seguridad" solamente podrán utilizarlo acompañado del adjetivo "privada";
 
-X. Asignar a la prestación de servicios de seguridad privada a personas que no cuenten con la credencial de habilitación vigente; y (sic)
+X. Asignar a la prestación de servicios de seguridad privada a personas que no cuenten con la credencial de habilitación vigente; y
 
 XI. Establecer o fijar oficinas y centros de operación en casas habitación.
 
@@ -2528,3 +2530,29 @@ P.O. 22 DE JUNIO DE 2012.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2014.
+
+Artículo Primero. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Seguridad Pública del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" de fecha 15 de septiembre de 2006 y sus reformas.
+
+Artículo Tercero. Se abroga el Acuerdo que crea el Centro Estatal de Prevención Social, publicado el 28 de junio de 2013, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a esta Ley.
+
+Artículo Quinto. El Gobernador del Estado deberá expedir, en el ámbito de su competencia y dentro del plazo de 90 días naturales, contados a partir de la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", las disposiciones reglamentarias de la misma, entre tanto, seguirán vigentes los anteriores reglamentos en lo que no se opongan a esta Ley.
+
+Artículo Sexto. Los Ayuntamientos del Estado de Querétaro, en un plazo no mayor de 90 días naturales, contados a partir del inicio de vigencia de esta Ley, deberán expedir los reglamentos municipales que se deriven de la misma, entre tanto, seguirán vigentes los anteriores en lo que no se opongan a esta Ley.
+
+Artículo Séptimo. El Consejo Estatal de Seguridad y los Consejos Municipales de Seguridad, deberán quedar integrados en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Octavo. La integración del Consejo de Honor y Justicia de la Policía Estatal prevista en el artículo 172 y sus similares en los municipios, deberá operar en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del reglamento correspondiente, entre tanto, continuará vigente y en funciones la integración de dichos órganos con arreglo a la legislación anterior.
+
+Artículo Noveno. La independencia de la Unidad de Asuntos Internos de la Policía Estatal prevista en el artículo 183, deberá operar a más tardar dentro del segundo año de la entrada en vigor de la presente Ley.
+
+Artículo Décimo. El sistema de jubilación, separación y retiro por vejez previsto en el artículo 186, entrará en vigor el primero de enero de 2015 para las corporaciones estatales y, para las municipales, cuando lo determine el Ayuntamiento respectivo, sin exceder el plazo de cinco años, contado a partir del día siguiente de la publicación de esta Ley.
+
+Artículo Decimoprimero. Los Poderes Ejecutivo y Legislativo del Estado de Querétaro, al proponer, discutir y, en su caso, aprobar el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2015 y los subsecuentes, considerarán las medidas y ajustes necesarios a efecto de que los fondos federales que se reciban para la gestión de la seguridad pública y sean transmisibles a los municipios, se redistribuyan proporcionalmente a los 18 municipios de la Entidad, en condiciones de equidad, conforme a reglas de carácter general que formarán parte del propio decreto de Presupuesto de Egresos y de conformidad con la legislación fiscal y presupuestal federal que resulte aplicable.
