@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2014-08-26"
+last_updated: "2014-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2014 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -2167,7 +2167,7 @@ Los programas municipales de desarrollo urbano, señalarán las acciones especí
 
 Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación:
 
-I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro (sic) ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
+I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
 
 II. Las que se encuentren dedicadas a las actividades forestales, en especial aquellas que por las características del suelo y obras de infraestructura productiva, se consideren de buena calidad;
 
@@ -2263,7 +2263,7 @@ El establecimiento de destinos del suelo en los planes y programas de desarrollo
 
 I. La determinación de los destinos del suelo será de interés público y su establecimiento deberá fundamentarse exclusivamente en consideraciones técnicas y sociales que los justifiquen;
 
-II. Los programas de desarrollo urbano precisarán las zonas o predios afectadas (sic) por destinos del suelo, así como la descripción del fin o aprovechamiento público a que éstos prevean dedicarse;
+II. Los programas de desarrollo urbano precisarán las zonas o predios afectadas por destinos del suelo, así como la descripción del fin o aprovechamiento público a que éstos prevean dedicarse;
 
 III. Los propietarios o poseedores de inmuebles, públicos o privados, que queden afectados por destinos, sólo utilizarán los predios en forma que no presenten obstáculos al futuro aprovechamiento previsto, por lo que no podrán cambiar el uso del suelo, ni aumentar el volumen de las construcciones existentes;
 
