@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-convivencia-familiar-del-poder-685
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-08"
-last_updated: "2011-10-31"
+last_updated: "2014-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MEXICO
+REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 8 de mayo de 2009.
 
@@ -294,3 +296,13 @@ TERCERO. Se abroga el Reglamento Interior del Consejo de la Judicatura del Estad
 CUARTO. Se derogan las disposiciones que de igual o menor jerarquía se opongan a este Acuerdo.
 
 QUINTO. En tanto se expiden los instrumentos normativos complementarios, se seguirán aplicando las disposiciones jurídicas vigentes, en lo que no contradigan este Acuerdo.
+
+G.G. 1 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno" y en el Boletín Judicial.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de los Centros de Convivencia Familiar del Poder Judicial del Estado de México, publicado el ocho de mayo del dos mil nueve, en la Gaceta del Gobierno del Estado.
+
+CUARTO. Los asuntos en trámite en los Centros de Convivencia, deberán ajustarse a lo dispuesto en el presente ordenamiento.
