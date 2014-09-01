@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-nacional-de-pensiones-de-los-8158
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-07"
-last_updated: "2011-06-07"
+last_updated: "2014-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-REGLAMENTO ORGANICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
+REGLAMENTO ORGÁNICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 7 de junio de 2011.
 
@@ -135,13 +135,21 @@ XXXVIII. Sistemas de Ahorro para el Retiro. Aquéllos regulados por las leyes de
 
 XXXIX. Sociedades de Inversión. Las sociedades de inversión especializadas de fondos para el retiro administradas por el PENSIONISSSTE, básicas y adicionales;
 
-XL. Trabajador. Los afiliados, así como cualquier otra persona que tenga derecho a la apertura de una Cuenta Individual, en los términos de la Ley del (sic) los Sistemas de Ahorro para el Retiro;
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
 
-XLI. Unidades de Inversión. Las obligaciones de pago denominadas en una Unidad de Cuenta, de sumas en moneda nacional convenidas en las operaciones financieras que celebren los correspondientes intermediarios, los contenidos en títulos de crédito, salvo cheques, y en general, los pactados en contratos mercantiles o en otros actos de comercio, así como aquellas que determine el Banco de México, y cuyo valor en pesos, para cada día se publica periódicamente por el Banco de México en el Diario Oficial de la Federación;
+XL. Sociedades de Inversión Básicas. Las sociedades de inversión especializadas de fondos para el retiro básicas administradas por el PENSIONISSSTE;
 
-XLII. Valor en Riesgo. La minusvalía que pueden tener los activos netos de una Sociedad de Inversión, dado un determinado nivel de confianza, en un periodo determinado, y
+> <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
 
-XLIII. Vocal Ejecutivo. El Vocal Ejecutivo del PENSIONISSSTE.
+XLI. Sociedades de Inversión Adicionales. Las sociedades de inversión especializadas de fondos para el retiro adicionales que tengan por objeto la inversión exclusiva de aportaciones voluntarias, de aportaciones complementarias de retiro, de aportaciones de ahorro a largo plazo, o de fondos de previsión social, administradas por el PENSIONISSSTE;
+
+XLII. Trabajador. Los afiliados, así como cualquier otra persona que tenga derecho a la apertura de una Cuenta Individual, en los términos de la Ley del los Sistemas de Ahorro para el Retiro;
+
+XLIII. Unidades de Inversión. Las obligaciones de pago denominadas en una Unidad de Cuenta, de sumas en moneda nacional convenidas en las operaciones financieras que celebren los correspondientes intermediarios, los contenidos en títulos de crédito, salvo cheques, y en general, los pactados en contratos mercantiles o en otros actos de comercio, así como aquellas que determine el Banco de México, y cuyo valor en pesos, para cada día se publica periódicamente por el Banco de México en el Diario Oficial de la Federación;
+
+XLIV. Valor en Riesgo. La minusvalía que pueden tener los activos netos de una Sociedad de Inversión, dado un determinado nivel de confianza, en un periodo determinado, y
+
+XLV. Vocal Ejecutivo. El Vocal Ejecutivo del PENSIONISSSTE.
 
 ###### Artículo 4.
 
@@ -2477,7 +2485,7 @@ El titular de la Jefatura de Departamento de Mercadotecnia y Publicidad, tendrá
 
 I. Coordinar la elaboración de estudios e informes sobre el comportamiento de los participantes en el Sistema de Ahorro para el Retiro, que contribuyan al diseño de campañas de publicidad en favor de la estrategia de retención, registro y traspaso de Trabajadores;
 
-II. Coordinar la elaboración estudios (sic) del comportamiento, perfil, percepción y necesidades de los Trabajadores;
+II. Coordinar la elaboración (sic) estudios del comportamiento, perfil, percepción y necesidades de los Trabajadores;
 
 III. Definir los medios de difusión y desarrollar las campañas de publicidad del PENSIONISSSTE en los medios seleccionados;
 
@@ -2763,7 +2771,7 @@ VII. Realizar las demás funciones inherentes al cargo que le señale su superio
 
 ###### Artículo 146.
 
-Para el cumplimiento de sus funciones el titular de la Jefatura de Servicios de lo Contencioso se auxiliará las (sic) siguientes Jefaturas de Departamento:
+Para el cumplimiento de sus funciones el titular de la Jefatura de Servicios de lo Contencioso se auxiliará (sic) las siguientes Jefaturas de Departamento:
 
 I. Jefatura de Departamento de lo Contencioso, y
 
@@ -3389,13 +3397,15 @@ El PENSIONISSSTE en la integración del Consejo de Administración, del Comité 
 
 La participación de los Consejeros Técnicos en los Comités de Inversión y de Riesgo Financiero de las Sociedades de Inversión y en el de Riesgo Operativo del PENSIONISSSTE, será conforme al procedimiento que al efecto apruebe el Consejo de Administración de las Sociedades de Inversión, a propuesta del Vocal Ejecutivo, los que podrán acordar la creación de órganos auxiliares que los apoyen en el cumplimiento de sus funciones, de acuerdo con los lineamientos que al efecto apruebe la Comisión Ejecutiva y expida el Director General, sin perjuicio de las obligaciones que en su caso determine la normatividad aplicable.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 181.
 
-El PENSIONISSSTE en relación con las Sociedades de Inversión, vigilará que el Consejo de Administración de cada una de ellas, esté integrado por diez miembros con voz y voto considerando la participación siguiente:
+El PENSIONISSSTE, en relación con las Sociedades de Inversión Básicas, vigilará que el Consejo de Administración de cada una de ellas, esté integrado por diez miembros con voz y voto considerando la participación siguiente:
 
 I. El Director General, quien lo presidirá;
 
-II. El Vocal Ejecutivo del PENSIONISSSTE, quien lo presidirá;
+II. El Vocal Ejecutivo del PENSIONISSSTE, quien lo presidirá en ausencia del primero;
 
 III. Tres Consejeros Técnicos que cumplan con los requisitos y formalidades establecidos por la CONSAR; y
 
@@ -3407,11 +3417,35 @@ b) Un representante del Banco de México, y
 
 c) Tres representantes provenientes de las organizaciones de trabajadores.
 
-Para efecto de los Consejos de Administración de las Sociedades de Inversión, los miembros señalados en la fracción IV, tendrán un suplente que podrá cubrir sus ausencias y que deberá ser el mismo que tengan ante la Comisión Ejecutiva.
+Para efecto de los Consejos de Administración de las Sociedades de Inversión Básicas, los miembros señalados en la fracción IV, tendrán un suplente que podrá cubrir sus ausencias y que deberá ser el mismo que tengan ante la Comisión Ejecutiva.
 
 El procedimiento para designar a los Consejeros Técnicos y a los Consejeros Miembros a los que hace referencia el presente artículo será aprobado por la Comisión Ejecutiva a propuesta del Vocal Ejecutivo.
 
-El Contralor Normativo y el o los Comisarios nombrados de conformidad con la Ley General de Sociedades Mercantiles, deberán ser convocados a todas las sesiones del Consejo de Administración de las Sociedades de Inversión en las cuales participarán con voz, pero sin voto.
+El Contralor Normativo y el o los Comisarios nombrados de conformidad con la Ley General de Sociedades Mercantiles, deberán ser convocados a todas las sesiones del Consejo de Administración de las Sociedades de Inversión Básicas en las cuales participarán con voz, pero sin voto.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2014)</small>
+
+Artículo 181 bis. El PENSIONISSSTE, en relación con las Sociedades de Inversión Adicionales que constituya y opere, vigilará que el Consejo de Administración de cada una de ellas esté integrado por un mínimo de 8 miembros con voz y voto, considerando la participación siguiente:
+
+I. El Vocal Ejecutivo quien lo presidirá;
+
+II. El Subdirector de Inversiones, quien lo presidirá en ausencia del Vocal Ejecutivo;
+
+III. Un Consejero de la Comisión Ejecutiva, el cual será un representante de la Secretaría de Hacienda y Crédito Público;
+
+IV. El Secretario de Finanzas o su equivalente en la Entidad u organización del cual se administren los recursos correspondientes, o bien, el Director General del Instituto de Seguridad Social estatal respectivo, y
+
+V. Cuatro Consejeros Técnicos, de los cuales uno será designado directamente por el PENSIONISSSTE, pudiendo ser los tres restantes, representantes designados por las organizaciones de trabajadores de la Entidad de la que se administren los recursos correspondientes.
+
+Para efecto de los Consejos de Administración de las Sociedades de Inversión Adicionales, el miembro designado en la fracción III, tendrá un suplente que podrá cubrir sus ausencias, debiendo ser el mismo que tenga ante la Comisión Ejecutiva.
+
+Para efecto del integrante designado en la fracción IV, el nombramiento podrá recaer en un suplente que designe el Consejero titular.
+
+Para ocupar el cargo de Consejero Técnico a que se refiere la fracción V se requiere ser mexicano residente en territorio nacional, estar en pleno goce y ejercicio de sus derechos civiles y políticos, así como contar con experiencia técnica y administrativa.
+
+Los Consejeros Técnicos no deberán ser servidores públicos y deberán acreditar los demás requisitos que al efecto establezca la Ley del SAR, su Reglamento o las disposiciones de carácter general emitidas por CONSAR.
+
+El Contralor Normativo y el o los Comisarios nombrados de conformidad con la Ley General de Sociedades Mercantiles, deberán ser convocados a todas las sesiones del Consejo de Administración de las Sociedades de Inversión Adicionales en las cuales participarán con voz, pero sin voto.
 
 ###### Artículo 182.
 
@@ -3561,7 +3595,7 @@ XV. Realizar las demás funciones inherentes al cargo que le señale su superior
 
 El titular de la Subcontraloría Comercial tendrá las funciones siguientes:
 
-I. Proponer al Contralor Normativo el programa de trabajo en materia vigilancia (sic) de los procesos de registro, traspaso, administración de agentes promotores, servicios y difusión de los mismos, para integrarlo al plan de funciones que éste someta a la aprobación de la Comisión Ejecutiva;
+I. Proponer al Contralor Normativo el programa de trabajo en materia (sic) vigilancia de los procesos de registro, traspaso, administración de agentes promotores, servicios y difusión de los mismos, para integrarlo al plan de funciones que éste someta a la aprobación de la Comisión Ejecutiva;
 
 II. Aplicar el programa de trabajo, en materia de registro, traspaso, administración de agentes promotores, servicios y difusión de los mismos, contenido en el plan de funciones aprobado por la Comisión Ejecutiva para verificar el apego del PENSIONISSSTE a la normatividad aplicable;
 
@@ -3634,3 +3668,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
