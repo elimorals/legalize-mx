@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-educacion-publica-81475
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2013-09-04"
+last_updated: "2014-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Duodécima Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -2968,3 +2970,15 @@ P.O. 4 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO.- Quedan sin efecto las disposiciones que contravengan lo dispuesto en este Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Educación Pública del Estado, que se publicó en el Periódico Oficial del Estado, el once de mayo de dos mil once y su correspondiente reforma de fecha cuatro de septiembre de dos mil trece.
+
+TERCERO. Los decretos, acuerdos, circulares, instructivos y demás disposiciones pronunciadas bajo la vigencia del Reglamento que se abroga, tendrán plena validez en todo lo que no se opongan al presente Reglamento.
+
+CUARTO. Cuando las atribuciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie su adscripción, pasarán, a la unidad que se determine, el personal, el mobiliario, el archivo y en general el equipo que aquella haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
+
+QUINTO. Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
