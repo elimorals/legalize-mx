@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-participacion-ciudadana-para-el-34873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2003-10-24"
+last_updated: "2014-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de octubre de 2003.
 
@@ -57,7 +57,7 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I.- Centros Municipales: son los órganos encargados de la preparación, desarrollo y vigilancia de los mecanismos de participación ciudadana dentro de sus respectivas circunscripciones; son dependientes de la Comisión y funcionan durante el desarrollo de los mecanismos con residencia en la cabecera de cada municipio;
 
-II.- Código: Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
+II.- (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2014)
 
 III.- Comisión: Comisión de Participación Ciudadana del Consejo General del Instituto Electoral del Estado de Guanajuato;
 
@@ -65,13 +65,17 @@ IV.- Consejo: Consejo General del Instituto Electoral del Estado de Guanajuato;
 
 V.- Instituto: Instituto Electoral del Estado de Guanajuato;
 
-VI.- Integrantes de la Comisión: El Presidente del Consejo, quien la presidirá, dos de sus Consejeros Ciudadanos y el Secretario del Consejo quien fungirá como Secretario de la Comisión;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+VI.- Integrantes de la Comisión: El Presidente del Consejo, quien la presidirá, dos Consejeros Electorales y el Secretario Ejecutivo quien fungirá como Secretario de la Comisión;
 
 VII.- Mesas Receptoras: Autoridades integradas por ciudadanos designados por sorteo y debidamente capacitados para recibir la votación y realizar el escrutinio y cómputo;
 
 VIII.- Ley: Ley de Participación Ciudadana para el Estado de Guanajuato; y
 
-IX.- Secretario Ejecutivo: El Secretario Ejecutivo de la Comisión Ejecutiva del Instituto.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto.
 
 ###### Artículo 4.
 
@@ -107,9 +111,11 @@ Tratándose de solicitudes sobre un mismo tema o relacionados en forma lógica, 
 
 ### CAPÍTULO III. DE LA DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-Toda solicitud deberá remitirse en horas y días hábiles a la Secretaría del Consejo con los requisitos señalados en los artículos 26, 27, 44 y 45 de la Ley. El Secretario del Consejo informará al Presidente de la Comisión a efecto de que este convoque en un término de cuarenta y ocho horas a los integrantes de la misma a una sesión con el propósito de dar cuenta sobre la solicitud presentada.
+Toda solicitud deberá remitirse en horas y días hábiles a la Secretaría Ejecutiva con los requisitos señalados en los artículos 26, 27, 44 y 45 de la Ley. El Secretario Ejecutivo informará al Presidente de la Comisión a efecto de que este convoque en un término de cuarenta y ocho horas a los integrantes de la misma a una sesión con el propósito de dar cuenta sobre la solicitud presentada.
 
 ###### Artículo 9.
 
@@ -189,9 +195,11 @@ La jornada de votación se verificará en día domingo, iniciará a las ocho hor
 
 ### CAPÍTULO V. DE LAS MESAS RECEPTORAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-Las mesas receptoras de conformidad con lo establecido en los artículos 20 y 62 de la Ley, se integrarán por un presidente, un secretario y un escrutador y sus respectivos suplentes y tendrán las atribuciones que a los miembros de las mesas directivas de casilla les otorga el Código.
+Las mesas receptoras de conformidad con lo establecido en los artículos 20 y 62 de la Ley, se integrarán por un presidente, un secretario y un escrutador y sus respectivos suplentes y tendrán las atribuciones que a los miembros de las mesas directivas de casilla les otorga la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 Según las necesidades particulares de cada proceso, la Comisión dentro de los quince días posteriores a la declaratoria de procedencia y de conformidad con los artículos 13, fracción IX y 19 de la Ley, determinará el número de mesas receptoras o centros de votación que se instalarán; pudiendo tomar como base para la distribución las secciones electorales.
 
@@ -203,9 +211,11 @@ Dentro de los quince días siguientes al término señalado en el artículo ante
 
 La capacitación que se imparta a los ciudadanos que habrán de integrar las mesas receptoras, iniciará sesenta días después de emitida la declaratoria de procedencia, se realizará en una sola etapa que comprenderá la entrega de la notificación a los ciudadanos sorteados y el curso de capacitación específico sobre el desarrollo de la jornada, mismo que se extenderá hasta un día antes de la jornada de votación.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Durante los cuarenta y cinco días posteriores a la declaratoria de procedencia, los Coordinadores de los Centros Municipales recorrerán las secciones de los municipios correspondientes, con el objeto de elaborar una lista con los lugares que cumplan con los requisitos fijados por el Código para la ubicación de mesas receptoras; privilegiando para tal efecto, los lugares de ubicación de casillas de las elecciones anteriores.
+Durante los cuarenta y cinco días posteriores a la declaratoria de procedencia, los Coordinadores de los Centros Municipales recorrerán las secciones de los municipios correspondientes, con el objeto de elaborar una lista con los lugares que cumplan con los requisitos fijados por la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato para la ubicación de mesas receptoras; privilegiando para tal efecto, los lugares de ubicación de casillas de las elecciones anteriores.
 
 ###### Artículo 24.
 
@@ -213,9 +223,11 @@ La Comisión decidirá la integración y ubicación de las mesas receptoras, deb
 
 ### CAPÍTULO VI. DE LAS BOLETAS, MATERIAL Y EQUIPO A UTILIZARSE EN EL PROCESO
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-La votación podrá recogerse por medio de nuevas tecnologías, cuyo modelo sea aprobado por el Consejo, siempre y cuando se garantice la efectividad y el secreto del sufragio conforme a lo dispuesto por el Código.
+La votación podrá recogerse por medio de nuevas tecnologías, cuyo modelo sea aprobado por el Consejo, siempre y cuando se garantice la efectividad y el secreto del sufragio conforme a lo dispuesto por la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
 
 ###### Artículo 26.
 
@@ -295,7 +307,9 @@ a).- Los datos de identificación personal, anexando copia simple de su credenci
 
 b).- Una fotografía reciente tamaño infantil, con el nombre del solicitante escrito al reverso;
 
-c).- La manifestación expresa de que si obtienen el registro, se conducirán conforme a los principios de objetividad, imparcialidad y legalidad; así como no tener antecedentes de militancia partidaria activa y pública, en los términos definidos en el artículo 57 del Código, en los tres años anteriores a la fecha de la jornada de votación; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+c) La manifestación expresa de que si obtienen el registro, se conducirán conforme a los principios de objetividad, imparcialidad y legalidad; así como no haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular ni cargo de dirección nacional, estatal o municipal en algún partido político, en los tres años anteriores a la fecha de la jornada de votación; y
 
 III.- La solicitud de registro a que se refiere este artículo, deberá presentarse en forma individual o colectiva, a través de la organización a la que pertenezcan ante el Consejo, a partir de que se inicie cada proceso y hasta veinte días antes de la jornada de votación.
 
@@ -339,17 +353,23 @@ Los Centros Municipales capacitarán a los funcionarios de las mesas receptoras,
 
 En caso de que cualquier observador o grupo de ellos, entorpezca el desarrollo de la jornada de votación, el presidente de la mesa receptora mantendrá el orden de la misma y en sus inmediaciones, con el auxilio de la fuerza pública si fuere necesario.
 
-### CAPÍTULO X. DEL APOYO DE LA COMISIÓN EJECUTIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO X. DEL APOYO DE LA JUNTA ESTATAL EJECUTIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 46.
 
-En el desarrollo de los procesos de plebiscito, referéndum y referéndum constitucional, así como en el procedimiento de iniciativa popular, los integrantes de la Comisión Ejecutiva del Instituto, además de ejercer las atribuciones que les confiere el Código, apoyarán a la Comisión en las siguientes actividades:
+En el desarrollo de los procesos de plebiscito, referéndum y referéndum constitucional, así como en el procedimiento de iniciativa popular, los integrantes de la Junta Estatal Ejecutiva del Instituto, además de ejercer las atribuciones que les confiere la Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, apoyarán a la Comisión en las siguientes actividades:
 
 I.- Por conducto del Secretario Ejecutivo elaborará el anteproyecto de presupuesto de egresos que contenga los recursos necesarios para llevar a cabo el desarrollo de los mecanismos de participación ciudadana solicitados por los ciudadanos y declarados procedentes en los términos de la Ley;
 
 II.- Apoyar a la Comisión en la determinación del costo de los procesos en los términos a que se refiere el artículo 32 de este reglamento;
 
-III.- El Secretario Ejecutivo a través de la Dirección del Registro Estatal de Electores auxiliará a la Comisión en la verificación de los datos a que se refieren los artículos 27 y 49 de la Ley;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+III.- El Secretario Ejecutivo a través de la Dirección de Organización Electoral auxiliará a la Comisión en la verificación de los datos a que se refieren los artículos 27 y 49 de la Ley;
 
 IV.- Proponer el procedimiento para llevar a cabo el sorteo de los ciudadanos que integrarán las mesas receptoras, así como ejecutarlo;
 
@@ -373,7 +393,7 @@ XII.- Las demás que les confieran la Comisión y el presente reglamento.
 
 ÚNICO.- El presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO (SIC).- COMUNIQUESE ESTE ACUERDO AL H. CONGRESO DEL ESTADO.
+SEGUNDO.- COMUNIQUESE ESTE ACUERDO AL H. CONGRESO DEL ESTADO.
 
 TERCERO.- NOTIFIQUESE POR ESTRADOS.
 
@@ -390,3 +410,13 @@ PRESIDENTE DEL CONSEJO
 C. LIC. JESÚS BADILLO LARA
 
 SECRETARIO DEL CONSEJO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. Las modificaciones al Reglamento de la Ley de Participación Ciudadana para el Estado de Guanajuato, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
