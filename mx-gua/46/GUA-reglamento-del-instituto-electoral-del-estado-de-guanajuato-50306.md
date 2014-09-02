@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-instituto-electoral-del-estado-de-guanajuato-503
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-07"
-last_updated: "2006-04-07"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS
 
-NUEVO REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS
+NUEVO REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 7 de abril de 2006.
 
@@ -111,7 +111,9 @@ El presente Reglamento es de orden público y tiene por objeto regular la aplica
 
 Para los efectos de este reglamento, se entenderá por:
 
-l. Comisión Ejecutiva: La Comisión Ejecutiva del Instituto Electoral del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+I. Junta Estatal: La Junta Estatal Ejecutiva del Instituto Electoral del Estado de Guanajuato;
 
 II. Comité: El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Guanajuato;
 
@@ -133,7 +135,9 @@ X. Proveedor: La persona que por virtud de un contrato transmita la propiedad o 
 
 XI. Reglamento: El Reglamento del Instituto Electoral del Estado de Guanajuato en materia de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios, y
 
-XII. Secretario Ejecutivo: El Secretario Ejecutivo de la Comisión Ejecutiva del Instituto Electoral del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto.
 
 ###### Artículo 3.
 
@@ -199,9 +203,11 @@ La Contraloría vigilará y comprobará la aplicación de los criterios a que se
 
 El Instituto, por medio del Secretario Ejecutivo, podrá celebrar convenios de colaboración administrativa con otros sujetos de la Ley, con el objeto de realizar la compra consolidada de los bienes y servicios de uso generalizado que requiera.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-Las controversias que se susciten con motivo de los actos, contratos y convenios celebrados con base en la Ley y el Reglamento, serán resueltas de común acuerdo por las partes en conflicto o por la Contraloría, en la forma prevista en el Reglamento para el funcionamiento de la Contraloría del Instituto Electoral del Estado de Guanajuato.
+Las controversias que se susciten con motivo de los actos, contratos y convenios celebrados con base en la Ley y el Reglamento, serán resueltas de común acuerdo por las partes en conflicto o por la Controlaría.
 
 ### CAPÍTULO SEGUNDO. Del Comité
 
@@ -213,9 +219,13 @@ I. El Secretario Ejecutivo, quien fungirá como Presidente;
 
 II. El Coordinador Administrativo, quien actuará como Secretario;
 
-III. El Secretario del Consejo General, quien actuará como Primer Vocal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-IV. El Director del Servicio Profesional Electoral, quien actuará como Segundo Vocal, y
+III. El Director de la Unidad Técnica Jurídica y de lo Contencioso Electoral, quien actuará como Primer Vocal;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+IV. El Director de Desarrollo Institucional y Servicio Profesional Electoral, quien actuará como Segundo Vocal, y
 
 V. El Jefe del Departamento de Adquisiciones y Servicios Generales de la Coordinación Administrativa, quien actuará como Tercer Vocal.
 
@@ -225,13 +235,21 @@ A las reuniones del Comité asistirán un representante de la Contraloría y un 
 
 Las ausencias temporales de los integrantes del Comité serán suplidas de la siguiente manera:
 
-l. Las del Presidente, por el Director de Procedimientos Electorales de la Comisión Ejecutiva;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-II. Las del Secretario, por el Director de Capacitación Ciudadana de la Comisión Ejecutiva;
+I. Las del Presidente, por el Director de Organización Electoral de la Junta Estatal;
 
-III. Las del Primer Vocal, por el Secretario Asistente de la Secretaría del Consejo General;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Las del Segundo Vocal, por el Director del Registro Estatal de Electores de la Comisión Ejecutiva, y
+II. Las del Secretario, por el Director de Cultura Política y Electoral de la Junta Estatal;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+III. Las del Primer Vocal, por el Secretario Asistente de la Unidad Técnica Jurídica y de lo Contencioso Electoral;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Las del Segundo Vocal, por el Director de la Unidad Técnica de Sistemas de Información y Telecomunicaciones, y
 
 V. Las del Tercer Vocal, por el Jefe del Departamento de Administración Presupuestal y Control Patrimonial de la Coordinación Administrativa.
 
@@ -311,9 +329,11 @@ Si transcurrido el término que se señala en el párrafo primero de este artíc
 
 La Coordinación Administrativa expedirá constancias del registro en el padrón a los proveedores que reúnan los requisitos establecidos en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-Procederá la suspensión del registro del padrón de proveedores por parte de la Coordinación Administrativa, en los casos y bajo el procedimiento establecido en el artículo 36 de la Ley. En los casos en que el proveedor ofrezca pruebas que por su naturaleza requieran ser desahogadas en forma especial, la Coordinación Administrativa lo notificará al Secretario del Consejo, quien sustanciará el procedimiento relativo a su admisión y desahogo, remitiendo a la Coordinación Administrativa las constancias que de ello resulten, para que ésta emita la resolución correspondiente.
+Procederá la suspensión del registro del padrón de proveedores por parte de la Coordinación Administrativa, en los casos y bajo el procedimiento establecido en el artículo 36 de la Ley. En los casos en que el proveedor ofrezca pruebas que por su naturaleza requieran ser desahogadas en forma especial, la Coordinación Administrativa lo notificará al Director de la Unidad Técnica Jurídica y de lo Contencioso Electoral, quien sustanciará el procedimiento relativo a su admisión y desahogo, remitiendo a la Coordinación Administrativa las constancias que de ello resulten, para que esta emita la resolución correspondiente.
 
 ###### Artículo 19.
 
@@ -437,9 +457,11 @@ V. Cuando el destino de los bienes muebles propiedad del Instituto sea la donaci
 
 En los supuestos señalados, se podrán enajenar directamente los bienes, siempre y cuando, tratándose de enajenación a título oneroso, el interesado pague el precio mínimo determinado para esos efectos por el Comité.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 33.
 
-Los recursos que se generen por la enajenación de bienes muebles serán entregados a la Secretaría de Finanzas y Administración de Gobierno del Estado, por conducto del Secretario Ejecutivo.
+Los recursos que se generen por la enajenación de bienes muebles serán entregados a la Secretaría de Finanzas, Inversión y Administración de Gobierno del Estado, por conducto del Secretario Ejecutivo.
 
 ###### Artículo 34.
 
@@ -539,13 +561,11 @@ La Contraloría podrá verificar que las adquisiciones, arrendamientos y servici
 
 Para los efectos de lo dispuesto en este artículo, la Coordinación Administrativa proporcionará todas las facilidades necesarias a fin de que la Contraloría pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y contratación de servicios.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 49.
 
-Las inspecciones que practique la Contraloría se llevarán a cabo en días y horas hábiles por el personal autorizado por ésta, mediante oficio de comisión fundado y motivado, suscrito por el Presidente de la Contraloría. El oficio de comisión señalará el periodo, el objetivo de la inspección y las personas que la practicarán, quienes se identificarán al momento de la revisión o verificación.
-
-El resultado de la inspección se hará constar en acta circunstanciada que será firmada por la persona que la practicó, por quien atendió la diligencia y por dos testigos propuestos por ésta; en caso de que no haya propuesto testigos, por los que designe quien realizó la diligencia.
-
-Del acta se dejará copia a la persona con quien se entendió la diligencia, aún cuando se hubiese negado a firmarla, lo que no afectará su validez.
+Las inspecciones que practique la Contraloría se llevarán a cabo en días y horas hábiles por el personal autorizado por esta, mediante oficio fundado y motivado, suscrito por el Titular de la Contraloría. El oficio señalará el periodo, el objetivo de la inspección y las personas que la practicarán, quienes se identificarán al momento de la revisión o verificación.
 
 ###### Artículo 50.
 
@@ -563,9 +583,11 @@ La Contraloría realizará las investigaciones para la comprobación de la calid
 
 El Secretario Ejecutivo estará facultado para cuantificar, imponer y hacer efectivas las sanciones a que se refiere el Título Noveno de la Ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 53.
 
-El Secretario del Consejo, previa solicitud del Secretario Ejecutivo, sustanciará el procedimiento a que se refiere el artículo 121 de la Ley. Asimismo, elaborará el proyecto de resolución y realizará, por conducto del personal a su cargo, las notificaciones correspondientes.
+El Director de la Unidad Técnica Jurídica y de lo Contencioso Electoral, previa solicitud del Secretario Ejecutivo, sustanciará el procedimiento a que se refiere el artículo 121 de la Ley. Asimismo, elaborará el proyecto de resolución y realizará, por conducto del personal a su cargo, las notificaciones correspondientes.
 
 ###### Artículo 54.
 
@@ -573,9 +595,11 @@ La Coordinación Administrativa integrará y mantendrá actualizado el registro 
 
 ### CAPÍTULO NOVENO. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-El recurso de inconformidad se tramitará de acuerdo a lo establecido en el Título Décimo de la Ley y en el Reglamento para el funcionamiento de la Contraloría del Instituto Electoral del Estado de Guanajuato.
+El recurso de inconformidad se tramitará de acuerdo a lo establecido en el Título Décimo de la Ley.
 
 ### CAPÍTULO DÉCIMO. De los Bienes Inmuebles
 
@@ -600,3 +624,13 @@ El monto de la renta a pagar no podrá ser superior al señalado por el Secretar
 Sólo se autorizará el arrendamiento de bienes inmuebles cuando no sea posible o conveniente su adquisición. El Secretario Ejecutivo otorgará la autorización solicitada con base en los argumentos y justificación que exponga el área solicitante.
 
 Previamente al arrendamiento de bienes inmuebles, la Coordinación Administrativa realizará los estudios de costo beneficio, considerando la posible adquisición mediante arrendamiento con opción a compra.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. Las modificaciones al Reglamento del Instituto Electoral del Estado de Guanajuato, en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
