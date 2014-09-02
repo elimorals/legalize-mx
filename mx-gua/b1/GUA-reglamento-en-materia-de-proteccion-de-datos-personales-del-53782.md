@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-en-materia-de-proteccion-de-datos-personales-del-537
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-26"
-last_updated: "2006-12-26"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de diciembre de 2006.
 
@@ -97,7 +97,7 @@ La Unidad de Acceso tendrá a su cargo los procedimientos para el trámite de la
 
 Para efectos de este Reglamento, se entenderá por:
 
-l. Instituto: Instituto Electoral del Estado de Guanajuato;
+l.- Instituto: Instituto Electoral del Estado de Guanajuato;
 
 II.- Ley: Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato;
 
@@ -107,7 +107,9 @@ IV.- Solicitante: Toda persona física a la que conciernen los datos personales 
 
 V.- Unidad de Acceso: La Unidad de Acceso a la Información Pública del Instituto; y
 
-VI.- Unidad Administrativa: Cada una de las Secretarías, Direcciones, Coordinaciones y Oficinas Regionales del Instituto, así como la Presidencia, la Contraloría y la Comisión de Fiscalización del propio Instituto, que en cumplimiento de sus atribuciones puedan tener información sobre datos personales bajo su resguardo.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+VI.- Unidad Administrativa: El Consejo General, la Presidencia del Consejo, la Secretaría Ejecutiva, las Direcciones, las Unidades, las Juntas Ejecutivas Regionales, las Coordinaciones, la Contraloría y las Comisiones del Consejo General, que en cumplimiento de sus atribuciones puedan tener información sobre datos personales bajo su resguardo.
 
 ###### Artículo 4.
 
@@ -119,7 +121,7 @@ El uso de medios electrónicos se limitará a la impresión del formato correspo
 
 ###### Artículo 6.
 
-Los plazos previstos por este reglamento para el trámite de solicitudes de informes, corrección y cancelación de datos personales serán ampliados cinco días hábiles en el año en que se realice un proceso electoral, respetando en lodo caso los términos de la Ley.
+Los plazos previstos por este reglamento para el trámite de solicitudes de informes, corrección y cancelación de datos personales serán ampliados cinco días hábiles en el año en que se realice un proceso electoral, respetando en todo caso los términos de la Ley.
 
 ## TITULO SEGUNDO. DE LOS DATOS PERSONALES
 
@@ -258,3 +260,13 @@ En caso de que la persona con quien se entiende la diligencia se niegue a recibi
 PRIMERO.- El presente reglamento entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 SEGUNDO.- Se derogan los artículos 26, 27 y 28, y del artículo 41 al 46, del Reglamento de la Unidad de Acceso a la información Pública del Instituto Electoral del Estado de Guanajuato.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO. La modificación al Reglamento en materia de protección de datos personales del Instituto Electoral del Estado de Guanajuato, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
