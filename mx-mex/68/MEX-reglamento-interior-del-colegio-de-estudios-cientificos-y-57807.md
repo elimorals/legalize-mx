@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-estudios-cientificos-y-57807
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-03-14"
-last_updated: "2007-11-26"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO CECYTEM
+REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO CECYTEM
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 14 de marzo de 1996.
 
@@ -62,7 +64,7 @@ El Colegio estará sectorizado a la Secretaría de Educación, la que vigilará 
 
 El Colegio conducirá sus actividades en forma programada con base en las políticas que determine la Junta Directiva.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL COLEGIO Y DE SUS UNIDADES ADMINISTRATIVAS
 
@@ -670,10 +672,20 @@ Comisario del Sector Educación, Salud y Trabajo de la Secretaría de la Contral
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 26 DE NOVIEMBRE DE 2007.
 
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 2 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 14 de marzo de 1996; así como sus diversas reformas y adiciones.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
