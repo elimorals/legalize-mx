@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2010-08-13"
+last_updated: "2014-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 427 DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE GUERRERO
 
-LEY NUMERO 427 DEL SISTEMA DE COORDINACION HACENDARIA DEL ESTADO DE GUERRERO
+LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -367,7 +367,13 @@ El monto de las Participaciones Federales a favor de los Municipios se determina
 
 I.- 20% de los ingresos que perciba el Estado provenientes del Fondo General de Participaciones.
 
-II.- 100% de los ingresos que perciba el Estado correspondientes al Fondo de Fomento Municipal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+II.- 100% de los ingresos que perciba el Estado correspondientes al Fondo de Fomento Municipal, que será distribuido de la manera siguiente:
+
+a) Se garantiza que los Municipios reciban el monto total del recurso del Fondo de Fomento Municipal que recibieron en el ejercicio fiscal 2013, más el 70% del excedente del Fondo en comento; ponderado con la población; y
+
+b) Sólo para aquellos Municipios que hayan convenido la coordinación de la administración y cobro del Impuesto Predial, tendrán acceso al 30% restante, del excedente del Fondo de Fomento Municipal, en proporción directa a la recaudación respectiva 2013.
 
 III.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal Sobre Tenencia o Uso de Vehículos.
 
@@ -380,6 +386,10 @@ VI.- 20% del Fondo de Fiscalización.
 VII.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
 VIII.- 20% del Fondo de Compensación previsto en el artículo 4-A fracción II de la Ley de Coordinación Fiscal y de la recaudación estatal de las Cuotas a la Venta Final de Gasolinas y Diesel a que se refiere el artículo 4-A de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Tratándose de la fracción II del presente artículo, el Estado, deberá informar oportunamente a los Municipios sobre los recursos recaudados por el impuesto predial, así como entregar las cantidades que les correspondan en los plazos y términos que se establezcan en los Convenios que celebren y de acuerdo a lo establecido en la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 28.
 
@@ -395,7 +405,7 @@ Con las proporciones correspondientes al Fondo General de Participaciones, al Im
 
 El Fondo Común de Participaciones a Municipios se distribuirá conforme a la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La fórmula anterior no será aplicable en el evento de que en el año de cálculo la recaudación federal participable sea menor a la observada en el año 2007. En dicho supuesto la distribución se realizará en función de la cantidad efectivamente generada en el año del cálculo y de acuerdo al coeficiente que cada municipio haya recibido de dicho fondo en el año 2007. Los Municipios deberán rendir cuenta comprobada mensual de la totalidad de la recaudación que efectúe de cada uno de sus ingresos propios. La Secretaría de Finanzas y Administración podrá solicitar a los Municipios la información que estime necesaria para verificar las cifras recaudadas por estos en términos de la Ley de Ingresos Municipal del ejercicio que corresponda.
 
@@ -409,31 +419,17 @@ Con el 20 por ciento del Fondo de Compensación previsto en el artículo 4-A fra
 
 El Fondo para la Infraestructura a Municipios se distribuirá conforme a la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La Secretaría, enterará a los Municipios las cantidades a que se refiere esta fracción, dentro de los primeros cinco días del mes siguiente en que se recauden o se reciban.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 31.
 
-El Fondo de Fomento Municipal se distribuirá conforme a los siguientes:
+El Fondo de Fomento Municipal se distribuirá conforme a la fórmula siguiente:
 
-a).- 40% en proporción directa a la captación de ingresos propios, aplicando la fórmula:
-
-(VEASE ARCHIVO ANEXO)
-
-b).- 60% en proporción directa al número de habitantes de cada Municipio, aplicando la fórmula:
-
-(PMI / PE) X 0.6 X FFM
-
-Donde:
-
-PMI = Población del iesimo Municipio.
-
-PE = Población estatal.
-
-0.6 = Porcentaje a distribuir del Fondo de Fomento Municipal.
-
-FFM = Monto en pesos del Fondo de Fomento Municipal.
+> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, PÁGINAS DE LA 10 A LA 11.</small>
 
 ###### ARTÍCULO 32.
 
@@ -577,7 +573,7 @@ Con el 30 por ciento del Fondo de Compensación y de la recaudación Estatal de 
 
 Los recursos del Fondo de Aportaciones Estatales para la Infraestructura Social Municipal se distribuirán entre los Municipios conforme a la fórmula siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para efectuar el cálculo de los coeficientes para la distribución del Fondo de Aportaciones Estatales para la Infraestructura Municipal, las fuentes de información de las variables serán las definidas en el artículo 32, incisos a) y b), de esta Ley.
 
@@ -922,3 +918,11 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 L.A.E. RICARDO ERNESTO CABRERA MORÍN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para los efectos legales a que haya lugar.
