@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2014-01-17"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-05-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE SEPTIEMBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
@@ -39,35 +39,35 @@ Tercero. Que el 12 de junio de 2009 se publicó en el Diario Oficial de la Feder
 
 Con fundamento en lo dispuesto por los artículos 1, 2, 6, fracciones XV y XVIII y 9, fracciones I, XIII y XVII de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, el CONACYT a través de su Junta de Gobierno ha tenido a bien expedir el siguiente:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO DE LA JUNTA DE GOBIERNO DEL CONACYT, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 10 DE JUNIO DE 2010, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DEL 17 DE ENERO DE 2014.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO DE LA JUNTA DE GOBIERNO DEL CONACYT, PUBLICADO EN EL D.O.F. DE 2 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
 El Consejo Nacional de Ciencia y Tecnología es un organismo descentralizado del Estado, no sectorizado, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, operativa y administrativa; tiene por objeto ser la entidad asesora del Ejecutivo Federal y especializada para articular las políticas públicas del gobierno federal y promover el desarrollo de la investigación científica, el desarrollo tecnológico y la innovación a fin de impulsar la modernización tecnológica del país, lo cual realizará a través de los órganos establecidos en la LCYT, LOCNCYT, LBOGM, el presente Estatuto y demás disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
 Los servidores públicos del CONACYT, los miembros de la Junta de Gobierno y todas aquellas personas que por el desarrollo de la función que les sea encomendada, manejen documentación o información de carácter confidencial o reservada, estarán obligados a conservarla bajo su cuidado, impidiendo su uso, divulgación, sustracción, destrucción, ocultamiento o utilización indebida. El no acatamiento de lo dispuesto por el presente artículo, dará lugar a las sanciones administrativas contenidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de las demás sanciones que al efecto se establezcan en otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
 El presente Estatuto Orgánico establece las atribuciones que corresponden a los órganos y unidades que conforman al CONACYT.
 
-Los Órganos Colegiados creados y operados por el CONACYT para la ejecución de sus diversos programas, podrán sesionar de manera no presencial, a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas correspondientes que permitan identificar el quórum requerido.
+Los Organos Colegiados creados y operados por el CONACYT para la ejecución de sus diversos programas, podrán sesionar de manera no presencial, a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas correspondientes que permitan identificar el quórum requerido.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
@@ -135,7 +135,7 @@ UNIDADES, a las unidades administrativas sustantivas o adjetivas que integran al
 
 UNIDADES DE VINCULACION Y TRANSFERENCIA DE CONOCIMIENTO, a las unidades creadas por las universidades e instituciones de educación superior o los centros públicos de investigación, que tienen como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivo y de servicios.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
@@ -209,7 +209,7 @@ XXIII. Coordinar y operar el RENIECYT, actualizando y publicando la información
 
 XXIV. Realizar las demás actividades inherentes al cumplimiento de su objeto, de conformidad con la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -217,7 +217,7 @@ El Director General fungirá como Secretario Ejecutivo del Consejo General y ten
 
 I. Ejecutar y dar seguimiento a los acuerdos del Consejo General.
 
-II. Formular y presentar al Consejo General:
+II. Formular y presentar al Consejo General.
 
 a) El Proyecto del PECITI, para su aprobación.
 
@@ -231,11 +231,11 @@ IV. Representar al Consejo General en los órganos en que deba participar.
 
 V. Realizar las actividades que le encomiende el Consejo General, así como las que deriven de la LCYT y demás disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO SEGUNDO. Coordinación Sectorial
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -327,11 +327,11 @@ h) Dar a conocer a la SHCP las responsabilidades que afecten a la hacienda públ
 
 V. Las demás que correspondan a las coordinadoras sectoriales.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO TERCERO. Estructura Orgánica
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
@@ -341,13 +341,13 @@ I. Junta de Gobierno.
 
 II. Dirección General.
 
-III. Órganos Colegiados:
+III. Organos Colegiados:
 
 a) Comisión Asesora.
 
 b) Foro Consultivo Científico y Tecnológico.
 
-IV. Oficialía Mayor y Direcciones Adjuntas de:
+IV. Oficialía Mayor, Direcciones Adjuntas y Unidad de:
 
 a) Desarrollo Científico.
 
@@ -359,27 +359,27 @@ d) Centros de Investigación.
 
 e) Desarrollo Regional.
 
-f) Planeación y Cooperación Internacional.
+f) Planeación y Cooperación Internacional, y
 
-g) Asuntos Jurídicos.
+g) Unidad de Asuntos Jurídicos.
 
 V. Secretaría Ejecutiva de la CIBIOGEM.
 
-VI. Unidad Técnica de Proyectos, Comunicación e Información Estratégica.
+VI. Coordinación de Proyectos, Comunicación e Información Estratégica.
 
 VII. Organo Interno de Control.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO CUARTO. Junta de Gobierno
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
 La administración del CONACYT estará encomendada a una Junta de Gobierno y a un Director General, en sus respectivas esferas de competencia, de conformidad con la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 10.
 
@@ -413,17 +413,17 @@ Los representantes propietarios de las dependencias y entidades de la administra
 
 A las sesiones de la Junta de Gobierno se podrá invitar con voz pero sin voto a servidores públicos y a científicos, especialistas o empresarios, según acuerden la Junta de Gobierno o el Director General.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 11.
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces por año y las extraordinarias que proponga el Director General o cuando menos seis de sus miembros por conducto del Secretario del propio Órgano de Gobierno.
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces por año y las extraordinarias que proponga el Director General o cuando menos seis de sus miembros por conducto del Secretario del propio Organo de Gobierno.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la administración pública federal. Las resoluciones se tomarán por mayoría de votos de los miembros presentes.
 
 Las sesiones de la Junta de Gobierno o de la Comisión Asesora podrán llevarse a cabo de manera no presencial, a través de medios remotos de comunicación, los cuales pueden ser en forma enunciativa mas no limitativa, videoconferencia, audioconferencia o cualquier otro medio conocido o por conocerse que permita una presencia virtual, en la inteligencia de que el procedimiento de convocatoria, la lista de asistencia y el acta respectiva, deberán contener las firmas autógrafas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
@@ -451,7 +451,7 @@ X. Establecer y delegar facultades específicas al Director General y a los órg
 
 XI. Las demás que establezcan las disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
@@ -461,13 +461,13 @@ I. El Secretario:
 
 a) Convocar a sesiones ordinarias y extraordinarias de la Junta de Gobierno y de su Comisión Asesora.
 
-b) Llevar el seguimiento de acuerdos del Órgano de Gobierno y proponer al Director General la agenda de trabajo correspondiente, a fin de que éste la apruebe, y en su caso, valide con el Secretario de Estado que presida las sesiones de la Junta de Gobierno.
+b) Llevar el seguimiento de acuerdos del Organo de Gobierno y proponer al Director General la agenda de trabajo correspondiente, a fin de que éste la apruebe, y en su caso, valide con el Secretario de Estado que presida las sesiones de la Junta de Gobierno.
 
 c) Brindar asesoría, información y seguimiento a la Junta de Gobierno y a los consejeros o invitados, sobre los procesos judiciales o administrativos que se lleguen a instaurar en su contra, en términos de la legislación aplicable.
 
 d) Expedir las certificaciones de los acuerdos y actas de la Junta de Gobierno, una vez adoptados los mismos sin que sea necesario para ello la suscripción del acta respectiva.
 
-e) Comunicar a los titulares de las unidades competentes del CONACYT, los acuerdos adoptados en las sesiones del Órgano de Gobierno.
+e) Comunicar a los titulares de las unidades competentes del CONACYT, los acuerdos adoptados en las sesiones del Organo de Gobierno.
 
 f) Presentar a la Junta de Gobierno, a propuesta del Director General, los asuntos materia de la sesión.
 
@@ -493,47 +493,47 @@ g) Suscribir, conjunta o separadamente con el Secretario, las certificaciones de
 
 h) Fungir como Prosecretario de la Comisión Asesora de la Junta de Gobierno, con las mismas facultades reguladas en el presente artículo y suplir al Secretario en su ausencia.
 
-i) Fungir como enlace entre los integrantes del Órgano de Gobierno, los Comisarios Públicos y las unidades del CONACYT, para propiciar el seguimiento y cumplimiento de los acuerdos, canalizar las solicitudes de los miembros de la Junta y demás actividades necesarias para el cumplimiento de sus funciones.
+i) Fungir como enlace entre los integrantes del Organo de Gobierno, los Comisarios Públicos y las unidades del CONACYT, para propiciar el seguimiento y cumplimiento de los acuerdos, canalizar las solicitudes de los miembros de la Junta y demás actividades necesarias para el cumplimiento de sus funciones.
 
 j) Resguardar los documentos e información de las sesiones de la Junta de Gobierno.
 
 k) Las demás que le encomienden el Presidente o el Secretario de la Junta de Gobierno, así como el Director General.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
 Los acuerdos tomados en las sesiones de la Junta de Gobierno serán asentados en las actas respectivas, que firmarán el Presidente y el Secretario, firmando en ausencia del Presidente su suplente debidamente acreditado y del Secretario, el Prosecretario.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-Dentro de su Junta de Gobierno, el CONACYT contará con un Órgano de Vigilancia integrado por un Comisario Público Propietario y un Suplente, designados por la SFP, los cuales contarán con voz pero sin voto en las sesiones.
+Dentro de su Junta de Gobierno, el CONACYT contará con un Organo de Vigilancia integrado por un Comisario Público Propietario y un Suplente, designados por la SFP, los cuales contarán con voz pero sin voto en las sesiones.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
 Los Comisarios Públicos vigilarán y evaluarán las operaciones del CONACYT, de conformidad con la Ley Federal de las Entidades Paraestatales y su reglamento, además de las atribuciones que les asigne la SFP en la esfera de su competencia.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 17.
 
 El Director General, a través del Secretario o Prosecretario de la Junta de Gobierno, deberá proporcionar a los Comisarios Públicos la información y documentación que requieran y darles las facilidades necesarias para el debido cumplimiento de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO QUINTO. Dirección General
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 18.
 
 El Director General será designado y removido libremente por el Presidente de la República, de quien dependerá directamente, debiendo reunir los requisitos previstos en la LOCNCYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 19.
 
@@ -567,7 +567,7 @@ Conducir la política y acciones de cooperación internacional en materia de cie
 
 VI. Expedir los ordenamientos internos que los procesos administrativos del CONACYT requieran.
 
-Expedir los ordenamientos internos necesarios que los programas y proyectos requieran, así como interpretar y resolver cualquier circunstancia no prevista en los mismos y delegar esa función en los Directores Adjuntos o en el Oficial Mayor, en el ámbito de su competencia.
+Expedir los ordenamientos internos necesarios que los programas y proyectos requieran, así como interpretar y resolver cualquier circunstancia no prevista en los mismos y delegar esa función en los Titulares de las Direcciones Adjuntas, el de la Unidad de Asuntos Jurídicos o en el Oficial Mayor, en el ámbito de su competencia.
 
 Fijar las condiciones generales de trabajo del CONACYT.
 
@@ -625,7 +625,7 @@ XV. Proveer las acciones correspondientes en cumplimiento a lo establecido en la
 
 XVI. Promover e instrumentar con las autoridades competentes, toda clase de actos en materia de comercio exterior y de propiedad intelectual que beneficien a la comunidad científica y tecnológica, en el marco de las disposiciones legales aplicables.
 
-XVII. Delegar en la Oficialía Mayor, los actos necesarios para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores, en coordinación con la Dirección Adjunta de Asuntos Jurídicos.
+XVII. Delegar en la Oficialía Mayor, los actos necesarios para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores, en coordinación con la Unidad de Asuntos Jurídicos.
 
 XVIII. Interpretar la LCYT para efectos administrativos y resolver las dudas que se susciten con motivo de la interpretación y la aplicación de este ordenamiento.
 
@@ -633,21 +633,21 @@ XIX. Delegar en los servidores públicos del CONACYT las atribuciones que expres
 
 XX. Las demás que establezcan las disposiciones legales y administrativas aplicables y las que señale el presente Estatuto.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO SEXTO. ORGANOS COLEGIADOS
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 Comisión Asesora
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
 La Comisión Asesora tiene por objeto auxiliar a la Junta de Gobierno y a los miembros de la misma, así como analizar y, en su caso, emitir recomendaciones respecto de los asuntos materia de sus sesiones.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
@@ -675,17 +675,17 @@ g) Un Representante de la Secretaría de Salud.
 
 h) El Secretario Técnico de la Mesa Directiva del Foro.
 
-i) El Director Adjunto de Planeación y Cooperación Internacional.
+i) El Titular de la Dirección Adjunta de Planeación y Cooperación Internacional.
 
-j) El Director Adjunto de Desarrollo Científico.
+j) El Titular de la Dirección Adjunta de Desarrollo Científico.
 
-k) El Director Adjunto de Innovación Tecnológica.
+k) El Titular de la Dirección Adjunta de Innovación Tecnológica.
 
-l) El Director Adjunto de Posgrado y Becas.
+l) El Titular de la Dirección Adjunta de Posgrado y Becas.
 
-m) El Director Adjunto de Desarrollo Regional.
+m) El Titular de la Dirección Adjunta de Desarrollo Regional.
 
-n) El Director Adjunto de Centros de Investigación.
+n) El Titular de la Dirección Adjunta de Centros de Investigación.
 
 o) El Oficial Mayor.
 
@@ -693,15 +693,15 @@ IV. Serán invitados permanentes:
 
 a) Los Comisarios correspondientes de la Secretaría de la Función Pública.
 
-b) El Titular del Órgano Interno de Control en el CONACYT.
+b) El Titular del Organo Interno de Control en el CONACYT.
 
 c) El Secretario Ejecutivo de la CIBIOGEM.
 
-d) El Titular de la Unidad Técnica de Proyectos, Comunicación e Información Estratégica del CONACYT.
+d) El Coordinador de Proyectos, Comunicación e Información Estratégica del CONACYT.
 
 e) Los servidores públicos, científicos, especialistas o empresarios que determine el Director General.
 
-V. Los representantes suplentes de las dependencias ante la Junta de Gobierno fungirán como representantes propietarios en la Comisión Asesora. Los suplentes en dicha Comisión deberán tener como mínimo el nivel jerárquico de Director de Área o equivalente.
+V. Los representantes suplentes de las dependencias ante la Junta de Gobierno fungirán como representantes propietarios en la Comisión Asesora. Los suplentes en dicha Comisión deberán tener como mínimo el nivel jerárquico de Director de Area o equivalente.
 
 VI. Las recomendaciones de la Comisión Asesora serán tomadas por mayoría de sus vocales, que cuentan con voz y voto. Los invitados permanentes contarán únicamente con voz.
 
@@ -711,11 +711,11 @@ VIII. La convocatoria para la celebración de las sesiones de la Comisión Aseso
 
 IX. La Comisión Asesora, sesionará válidamente con la mitad más uno de sus miembros.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 Foro Consultivo Científico y Tecnológico
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
@@ -731,7 +731,7 @@ El Foro propondrá las bases de su integración, funcionamiento y organización,
 
 El Coordinador General del Foro será miembro de la Junta de Gobierno del CONACYT y el Secretario Técnico de la mesa directiva del mismo, participará como vocal de la Comisión Asesora del CONACYT, teniendo las facultades que establece la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto, las Bases de Funcionamiento del Foro y los demás ordenamientos aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
@@ -763,21 +763,21 @@ XII. Proponer a las autoridades administrativas o judiciales, así como a las in
 
 XIII. Las demás funciones que se establezcan en la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto y las que le sean encomendadas por el Director General en el ámbito de su competencia.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
 El CONACYT de conformidad con lo dispuesto por la LCYT, otorgará los apoyos necesarios para garantizar el adecuado funcionamiento del Foro.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
-### CAPITULO SEPTIMO. Oficialía Mayor y Direcciones Adjuntas
+### CAPITULO SEPTIMO. Oficialía Mayor, Direcciones Adjuntas y Unidad de Asuntos Jurídicos y Coordinación
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
-Corresponde a los directores adjuntos y al Oficial Mayor, acorde a los principios de legalidad, eficiencia, planeación, presupuestación, evaluación integral, transversalidad, descentralización y rendición de cuentas, las siguientes facultades:
+Corresponde a los titulares de Direcciones Adjuntas y Unidad de Asuntos Jurídicos, al Oficial Mayor y Coordinador, acorde a los principios de legalidad, eficiencia, planeación, presupuestación, evaluación integral, transversalidad, descentralización y rendición de cuentas, las siguientes facultades:
 
 I. Auxiliar al Director General, en la esfera de su competencia.
 
@@ -787,11 +787,11 @@ Asistir y participar en las reuniones de órganos de gobierno o cuerpos colegiad
 
 Integrar el Comité Directivo de Cátedras CONACYT.
 
-III. Celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de su Dirección Adjunta.
+III. Celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de la Oficialía Mayor.
 
 Delegar las facultades que tienen atribuidas, sin perjuicio de conservar su ejercicio directo.
 
-IV. Someter a la aprobación del Director General los estudios y proyectos que elaboren las unidades a su cargo.
+IV. Someter a la aprobación del Director General los estudios y proyectos que elaboren las Direcciones Adjuntas y Unidad de Asuntos Jurídicos a su cargo.
 
 V. Formular los proyectos de programas y de presupuesto que les correspondan.
 
@@ -819,15 +819,15 @@ XIV. Coadyuvar en el ámbito de su competencia en la actualización de los diver
 
 Proporcionar la información y documentación que le sea requerida por las instancias, dependencias o instituciones, de acuerdo con las disposiciones legales aplicables, así como proporcionar al Director General la información respecto de los apoyos autorizados por éste.
 
-Colaborar, con la Dirección Adjunta de Asuntos Jurídicos, en el establecimiento y cumplimiento de los mecanismos e instrumentos establecidos en la Ley de Transparencia y Acceso a la Información Pública Gubernamental, en la Ley Federal de Procedimiento Administrativo y demás disposiciones legales y administrativas aplicables.
+Colaborar, con la Unidad de Asuntos Jurídicos, en el establecimiento y cumplimiento de los mecanismos e instrumentos establecidos en la Ley de Transparencia y Acceso a la Información Pública Gubernamental, en la Ley Federal de Procedimiento Administrativo y demás disposiciones legales y administrativas aplicables.
 
-XV. Remitir a la Dirección Adjunta de Asuntos Jurídicos, previo a la contestación correspondiente, cualquier requerimiento, instancia, petición, recurso o inconformidad, proveniente de particulares o autoridades que pueda tener una repercusión legal administrativa o jurisdiccional para el CONACYT o los servidores públicos del mismo, relacionado con el desempeño de sus funciones.
+XV. Remitir a la Unidad de Asuntos Jurídicos, previo a la contestación correspondiente, cualquier requerimiento, instancia, petición, recurso o inconformidad, proveniente de particulares o autoridades que pueda tener una repercusión legal administrativa o jurisdiccional para el CONACYT o los servidores públicos del mismo, relacionado con el desempeño de sus funciones.
 
 XVI. En el ámbito de sus respectivas competencias, promover y fortalecer el Sistema Nacional de Ciencia, Tecnología e Innovación, instrumentando las políticas de descentralización del CONACYT, con la participación de los sectores público, social, académico y empresarial.
 
 XVII. Las demás que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto y las que le sean encomendadas por el Director General en el ámbito de su competencia.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 26.
 
@@ -853,7 +853,7 @@ IV. Apoyar la planeación, constitución, operación, control, seguimiento y eva
 
 Verificar el cumplimiento de las condiciones establecidas en las convocatorias, convenios y programas, mediante los que se apoyen proyectos de ciencia básica e investigación aplicada.
 
-Apoyar a los comités y comisiones de evaluación de los fondos establecidos en la LCYT, para la selección y coordinación de los grupos de expertos que se requieran en términos la naturaleza (sic) y enfoque de las propuestas presentadas en las convocatorias que para el efecto se emitan.
+Apoyar a los comités y comisiones de evaluación de los fondos establecidos en la LCYT, para la selección y coordinación de los grupos de expertos que se requieran en términos (sic) la naturaleza y enfoque de las propuestas presentadas en las convocatorias que para el efecto se emitan.
 
 Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, la evaluación de impacto de sus programas.
 
@@ -873,7 +873,7 @@ IX. Apoyar en la integración y la coordinación de los comités intersectoriale
 
 X. Opinar, cuando así le sea requerido, a la Dirección Adjunta de Centros de Investigación, respecto de la pertinencia para la creación de centros de investigación en materia de ciencia.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
@@ -885,7 +885,7 @@ Diseñar y operar programas y apoyos que propicien la articulación entre la ind
 
 Fomentar actividades y acciones en materia de desarrollo tecnológico e innovación con las dependencias y entidades de la administración pública federal, estatal y municipal, en el ámbito regional. Promover en colaboración con la Dirección Adjunta de Desarrollo Regional, la descentralización y fortalecimiento de las capacidades de desarrollo tecnológico e innovación a través de convenios y programas tecnológicos regionales y locales.
 
-Promover que en los instrumentos y programas del CONACYT se contemplen apoyos a mecanismos de transferencia de tecnología a los sectores productivo y de servicios, así como promover y apoyar en colaboración con la Dirección Adjunta de Posgrado y Becas, los mecanismos para la incorporación de recursos humanos especializados a éstos sectores.
+Promover que en los instrumentos y programas del CONACYT se contemplen apoyos a mecanismos de transferencia de tecnología a los sectores productivo y de servicios, así como promover y apoyar en colaboración con la Dirección Adjunta de Posgrado y Becas, los mecanismos para la incorporación de recursos humanos especializados a estos sectores.
 
 II. Coadyuvar a la creación y fortalecimiento de la infraestructura de investigación y desarrollo tecnológico de los sectores productivo y de servicios del país, a través del apoyo a proyectos de investigación, desarrollo tecnológico e innovación que propicien la competitividad de las empresas en este ámbito.
 
@@ -895,7 +895,7 @@ Promover, asesorar, apoyar o participar en la creación de empresas de base tecn
 
 III. Apoyar la planeación, constitución, operación, control, seguimiento y evaluación, de los fondos bajo su responsabilidad, conforme a la LCYT.
 
-Apoyar a los comités y comisiones de evaluación de los fondos establecidos en la LCYT, para la selección y coordinación de los grupos de expertos que se requieran en términos la naturaleza (sic) y enfoque de las propuestas presentadas en las convocatorias que para el efecto se emitan.
+Apoyar a los comités y comisiones de evaluación de los fondos establecidos en la LCYT, para la selección y coordinación de los grupos de expertos que se requieran en términos (sic) la naturaleza y enfoque de las propuestas presentadas en las convocatorias que para el efecto se emitan.
 
 IV. Promover la creación de modelos replicables de negocios basados en la innovación y el desarrollo tecnológico, con la participación de empresas y otras instancias de colaboración.
 
@@ -921,7 +921,7 @@ IX. Participar de manera coordinada con las unidades del CONACYT, en el diseño 
 
 X. Apoyar en la integración y la coordinación de los comités intersectoriales y de vinculación que, en materia de tecnología e innovación, se requieran en cumplimiento a la LCYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
@@ -961,65 +961,53 @@ X. Coadyuvar en la formulación y modificación de la normatividad interna en lo
 
 XI. Participar en la planeación programática y presupuestal de los programas o subprogramas de recursos humanos de alto nivel de CONACYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
 Corresponde a la Dirección Adjunta de Centros de Investigación:
 
-I. Establecer, coordinar y ejecutar la política científica, tecnológica y de innovación, para la coordinación sectorial de los centros públicos de investigación CONACYT, de conformidad con lo establecido en la LCYT, el PECITI y demás disposiciones legales y administrativas aplicables.
+I. Establecer, coordinar y ejecutar la política científica, tecnológica y de innovación, para la coordinación sectorial de los Centros Públicos de Investigación CONACYT, de conformidad con lo establecido en la LCYT, el PECITI y demás disposiciones legales y administrativas aplicables.
 
 Coordinar las actividades de las entidades paraestatales bajo su coordinación sectorial, para asegurar su participación y la presentación de sus propuestas para la elaboración, revisión, adecuación y ejecución del PECITI.
 
-Coordinar y evaluar a los centros públicos de investigación CONACYT, a fin de promover, fortalecer y optimizar su actividad científica, tecnológica, de innovación y de formación de capital humano de alto nivel, apoyar su contribución e impacto en la solución de problemas asociados a los sectores social, público y privado; así como impulsar el desarrollo y la implantación de las mejores prácticas organizacionales.
+Coordinar y evaluar a los Centros Públicos de Investigación CONACYT, a fin de promover, fortalecer y optimizar su actividad científica, tecnológica, de innovación y de formación de capital humano de alto nivel, apoyar su contribución e impacto en la solución de problemas asociados a los sectores social, público y privado; así como impulsar el desarrollo y la implantación de las mejores prácticas organizacionales.
 
-II. Emitir y ejecutar las disposiciones y acciones necesarias para la instrumentación de las auscultaciones interna y externa que permitan al Director General la designación, el nombramiento o la remoción de los titulares de los centros públicos de investigación CONACYT, en los términos de las disposiciones legales y administrativas aplicables.
+II. Emitir y ejecutar las disposiciones y acciones necesarias para la instrumentación de las auscultaciones interna y externa que permitan al Director General la designación, el nombramiento o la remoción de los titulares de los Centros Públicos de Investigación CONACYT, en los términos de las disposiciones legales y administrativas aplicables.
 
-III. Coordinar el desarrollo de las sesiones ordinarias y extraordinarias de las asambleas generales, así como de los órganos de gobierno de los centros públicos de investigación CONACYT, participando en los mismos como presidente suplente y secretario, de acuerdo con las designaciones y directrices del Director General.
+III. Coordinar el desarrollo de las sesiones ordinarias y extraordinarias de las asambleas generales, así como de los órganos de gobierno de los Centros Públicos de Investigación CONACYT, participando en los mismos como presidente suplente y secretario, de acuerdo con las designaciones y directrices del Director General.
 
-Coordinar y participar como secretario en las sesiones ordinarias o extraordinarias de las comisiones dictaminadoras externas para el ingreso, la promoción y la permanencia del personal científico y tecnológico de los centros públicos de investigación CONACYT, así como en los comités externos de evaluación cuando se determine.
+Coordinar y participar como secretario en las sesiones ordinarias o extraordinarias de las comisiones dictaminadoras externas para el ingreso, la promoción y la permanencia del personal científico y tecnológico de los Centros Públicos de Investigación CONACYT, así como en los comités externos de evaluación cuando se determine.
 
-IV. Realizar las acciones necesarias ante la SHCP y la SFP, para realizar sus funciones de coordinador sectorial de los centros públicos de investigación CONACYT.
+IV. Contribuir, en el ámbito de su competencia, a administrar y operar la Red Nacional de Grupos y Centros de Investigación, estableciendo sus lineamientos y promoviendo que los centros integren redes de cooperación e intercambio académico con las instituciones de educación superior, así como apoyar la consolidación de grupos de investigación y de especialistas en áreas estratégicas del conocimiento que tengan por objeto actividades de investigación científica, desarrollo tecnológico, innovación y formación de capital humano de alto nivel.
 
-V. Contribuir, en el ámbito de su competencia, a administrar y operar la Red Nacional de Grupos y Centros de Investigación, estableciendo sus lineamientos y promoviendo que los centros integren redes de cooperación e intercambio académico con las instituciones de educación superior, así como apoyar la consolidación de grupos de investigación y de especialistas en áreas estratégicas del conocimiento que tengan por objeto actividades de investigación científica, desarrollo tecnológico, innovación y formación de capital humano de alto nivel.
+Fortalecer la vinculación de los Centros Públicos de Investigación CONACYT con su entorno y promover la transferencia de conocimiento a los distintos sectores de la sociedad, a través de la comercialización de productos, servicios y tecnologías, así como asesorías y otras actividades derivadas de sus funciones sustantivas.
 
-Fortalecer la vinculación de los centros públicos de investigación CONACYT con su entorno y promover la transferencia de conocimiento a los distintos sectores de la sociedad, a través de la comercialización de productos, servicios y tecnologías, así como asesorías y otras actividades derivadas de sus funciones sustantivas.
+V. Proponer políticas y lineamientos en materia de investigación científica, desarrollo tecnológico, innovación, formación de capital humano de alto nivel, aspectos académicos, así como promover la elaboración de los convenios de administración por resultados establecidos en la LCYT, respecto de los Centros Públicos de Investigación y realizar las acciones para la formalización de dichos instrumentos, en los términos de las disposiciones legales y administrativas aplicables.
 
-VI. Proponer políticas y lineamientos en materia de investigación científica, desarrollo tecnológico, innovación, formación de capital humano de alto nivel, aspectos académicos, laborales y administrativos, criterios comunes de fiscalización o de rendición de cuentas, así como promover la elaboración de los convenios de administración por resultados establecidos en la LCYT, respecto de los centros públicos de investigación y realizar las acciones para la formalización de dichos instrumentos, en los términos de las disposiciones legales y administrativas aplicables.
+Coordinar acciones para que, a través de sus órganos de gobierno, se lleve a cabo el proceso de evaluación de la gestión de los Centros Públicos de Investigación CONACYT.
 
-Establecer y promover las políticas y los lineamientos para que los centros públicos de investigación CONACYT cumplan su objeto, bajo un esquema de rendición de cuentas.
+VI. Impulsar y desarrollar la descentralización de la actividad científica, tecnológica, de innovación y de formación de capital humano de alto nivel de los centros públicos de investigación, potenciando el impacto de sus resultados y el efecto multiplicador del gasto público en las distintas regiones del país.
 
-Coordinar acciones para que, a través de sus órganos de gobierno, se lleve a cabo el proceso de evaluación de la gestión de los centros públicos de investigación CONACYT.
+Coadyuvar con la Unidad de Asuntos Jurídicos respecto de la normativa de los centros públicos de investigación.
 
-VII. Impulsar y desarrollar la descentralización de la actividad científica, tecnológica, de innovación y de formación de capital humano de alto nivel de los centros públicos de investigación, potenciando el impacto de sus resultados y el efecto multiplicador del gasto público en las distintas regiones del país.
+VII. Coadyuvar en los términos de su competencia, al logro de los objetivos del Comité Intersectorial para la Innovación, las unidades de vinculación y transferencia del conocimiento, el SINACPYS, las redes regionales para la Innovación y las instancias establecidas en la LCYT y otras disposiciones legales y administrativas aplicables.
 
-Coadyuvar con la Dirección Adjunta de Asuntos Jurídicos respecto de la normatividad de los centros públicos de investigación.
+Participar en las propuestas de gasto público que realicen los Centros Públicos de Investigación CONACYT, para elaborar el anteproyecto de presupuesto y sus modificaciones.
 
-VIII. Coadyuvar en los términos de su competencia, al logro de los objetivos del Comité Intersectorial para la Innovación, las unidades de vinculación y transferencia del conocimiento, el Sistema Nacional de Centros Públicos de Investigación, las redes regionales para la Innovación y las instancias establecidas en la LCYT y otras disposiciones legales y administrativas aplicables.
+Promover, dentro de los Centros Públicos de Investigación CONACYT, un sistema de estímulos, regalías e incentivos al personal científico y tecnológico, conforme a la normativa aplicable.
 
-IX. Coordinar y orientar las políticas de planeación, programación, presupuestación, ejercicio, control, seguimiento y evaluación del gasto de las entidades paraestatales bajo su coordinación sectorial, así como vigilar que se realicen con transparencia y cumplan con las normas y medidas de austeridad en la elaboración, revisión, evaluación y adecuación de los programas y presupuestos anuales.
+VIII. Proponer indicadores para evaluar y dictaminar el desempeño, los objetivos y las metas de los centros públicos de investigación, en los términos establecidos en los convenios de administración por resultados aprobados por los respectivos órganos de gobierno, así como los resultados, el impacto y la calidad de los productos científicos, tecnológicos, de innovación, de vinculación y de capital humano, desarrollados por los mismos. La evaluación deberá contar con un sistema uniforme de indicadores que se instrumentará anualmente.
 
-Emitir, en su caso, la conformidad por parte del CONACYT sobre las propuestas de gasto público que realicen los centros públicos de investigación CONACYT, para elaborar el anteproyecto de presupuesto y sus modificaciones.
-
-Ministrar los recursos que otorga el gobierno federal para el desarrollo de las actividades de los centros públicos de investigación CONACYT.
-
-Determinar la transferencia y/o asignación de recursos a los centros públicos de investigación CONACYT, para el fomento y realización de investigaciones, desarrollos tecnológicos e innovación, vinculación, formación de capital humano de alto nivel, entre otros.
-
-Determinar, en coordinación con la SHCP y la SFP, los requerimientos de información financiera y presupuestaria a los centros públicos de investigación CONACYT, analizando, integrando, validando y remitiendo la citada información a las mismas, a través de las instancias que determine el CONACYT.
-
-Promover, dentro de los centros públicos de investigación CONACYT, un sistema de estímulos, regalías e incentivos al personal científico y tecnológico, conforme a la normatividad aplicable.
-
-X. Proponer indicadores para evaluar y dictaminar el desempeño, los objetivos y las metas de los centros públicos de investigación, en los términos establecidos en los convenios de administración por resultados aprobados por los respectivos órganos de gobierno, así como los resultados, el impacto y la calidad de los productos científicos, tecnológicos, de innovación, de vinculación y de capital humano, desarrollados por los mismos. La evaluación deberá contar con un sistema uniforme de indicadores que se instrumentará anualmente.
-
-XI. Analizar y proponer, la creación, transformación, transferencia, enajenación, fusión, extinción, liquidación, disolución o desincorporación de entidades paraestatales, acorde a la LCYT y demás disposiciones legales y administrativas aplicables.
+IX. Analizar y proponer, la creación, transformación, transferencia, enajenación, fusión, extinción, liquidación, disolución o desincorporación de entidades paraestatales, acorde a la LCYT y demás disposiciones legales y administrativas aplicables.
 
 Promover la creación de centros públicos de investigación, así como de centros privados de interés público y privados de investigación científica, tecnológica, de innovación y formación de capital humano de alto nivel, particularmente en áreas del conocimiento y regiones geográficas no cubiertas, fortalecer los existentes y reforzar su capacidad para incrementar la competitividad, la innovación tecnológica y la transferencia de tecnología al sector productivo y de servicios.
 
 Promover y participar en la gestión para que las entidades paraestatales que realizan actividades de investigación científica, tecnológica, innovación y formación de capital humano de alto nivel sean reconocidas como centros públicos de investigación.
 
-XII. Ejercer en los órganos de gobierno de los centros públicos de investigación CONACYT, previa designación o aprobación del Director General, la representación de la titularidad de las acciones o partes sociales del gobierno federal, que integren el capital social de las empresas de participación estatal mayoritaria en las que, de conformidad con los estatutos sociales, CONACYT sea coordinador de sector.
+X. Ejercer en los órganos de gobierno de los Centros Públicos de Investigación CONACYT, previa designación o aprobación del Director General, la representación de la titularidad de las acciones o partes sociales del gobierno federal, que integren el capital social de las empresas de participación estatal mayoritaria en las que, de conformidad con los estatutos sociales, CONACYT sea coordinador de sector.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
@@ -1053,9 +1041,9 @@ IX. Coadyuvar con la Dirección Adjunta de Planeación y Cooperación Internacio
 
 X. Coordinar la operación, funcionamiento y seguimiento de las Direcciones Regionales.
 
-El CONACYT con el objeto de fortalecer el Sistema Nacional de Ciencia y Tecnología a través de la desconcentración y regionalización, contará con Direcciones Regionales. Al frente de cada una de éstas, estará un Director Regional quien tendrá un nivel de Director de Área, propuesto por el Director General; dichas contarán con los recursos humanos y materiales necesarios para el desarrollo de sus actividades de conformidad con las disponibilidades presupuestarias del CONACYT.
+El CONACYT con el objeto de fortalecer el Sistema Nacional de Ciencia y Tecnología a través de la desconcentración y regionalización, contará con Direcciones Regionales. Al frente de cada una de éstas, estará un Director Regional quien tendrá un nivel de Director de Area, propuesto por el Director General; dichas contarán con los recursos humanos y materiales necesarios para el desarrollo de sus actividades de conformidad con las disponibilidades presupuestarias del CONACYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
@@ -1101,7 +1089,7 @@ Participar, en coordinación con la Oficialía Mayor, en la integración de la p
 
 X. Administrar el SIICYT, así como coordinar el establecimiento de convenios de colaboración entre el CONACYT y diferentes instancias para el desarrollo de sistemas de información a fin de que sean incorporados al mismo.
 
-XI. Coadyuvar con la Dirección Adjunta de Asuntos Jurídicos en la elaboración de las reglas de operación de los programas del CONACYT.
+XI. Coadyuvar con la Unidad de Asuntos Jurídicos en la elaboración de las reglas de operación de los programas del CONACYT.
 
 XII. Apoyar al Director General en el diseño y ejecución de las políticas de cooperación internacional en materia de ciencia, tecnología e innovación, en coordinación con las unidades del CONACYT, brindando el seguimiento, respecto de la ejecución de convenios concertados por el CONACYT con agencias internacionales y otros países.
 
@@ -1111,13 +1099,13 @@ Representar al CONACYT en las reuniones internacionales cuando así lo determine
 
 Apoyar al Director General en coordinación con las Unidades del Consejo en la concertación de acuerdos y acciones de carácter internacional que permitan el apoyo a los programas de formación de recursos humanos de alto nivel y de intercambio de personas que realicen actividades de investigación científica, desarrollo tecnológico o innovación.
 
-En coordinación con las Unidades del CONACYT, fungir como enlace entre la comunidad científica internacional y el Consejo, para la concertación o ejecución de acuerdos o convenios que involucren la realización de proyectos conjuntos en materia de investigación científica, desarrollo tecnológico e innovación, así como coadyuvar, en el ámbito de su competencia, en la constitución, funcionamiento, evaluación y control de los Fondos de Cooperación Internacional a que se refiere la Ley de Ciencia y Tecnología, pudiendo operar el Fondo Sectorial con la SER, de conformidad con lo que determine el Director General.
+En coordinación con las Unidades del CONACYT, fungir como enlace entre la comunidad científica internacional y el Consejo, para la concertación o ejecución de acuerdos o convenios que involucren la realización de proyectos conjuntos en materia de investigación científica, desarrollo tecnológico e innovación, así como coadyuvar, en el ámbito de su competencia, en la constitución, funcionamiento, evaluación y control de los Fondos de Cooperación Internacional a que se refiere la Ley de Ciencia y Tecnología, pudiendo operar el Fondo Sectorial con la SRE, de conformidad con lo que determine el Director General.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-Corresponde a la Dirección Adjunta de Asuntos Jurídicos:
+Corresponde a la Unidad de Asuntos Jurídicos:
 
 I. Asesorar y apoyar jurídicamente al Director General, a las unidades y a los centros públicos de investigación CONACYT, asegurando el cumplimiento de la normatividad aplicable a las acciones y programas del CONACYT.
 
@@ -1181,7 +1169,7 @@ XIII. Dirigir la prestación de los servicios de comercio exterior y de despacho
 
 XIV. Instrumentar, en coordinación con la Dirección Adjunta de Desarrollo Científico, los actos jurídicos y administrativos que correspondan para la contratación y comisión del personal académico del CONACYT (Cátedras CONACYT), así como atender los recursos administrativos o contenciosos que se interpongan contra el CONACYT relacionados a las Cátedras CONACYT. Apoyar, cuando lo requieran, a las instituciones y entidades de investigación donde se comisione el personal académico del CONACYT en los asuntos legales y contenciosos que interpongan contra estas por dicho personal académico comisionado.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
@@ -1189,57 +1177,63 @@ Corresponde a la Oficialía Mayor:
 
 I. Administrar el patrimonio general y los recursos financieros, materiales, humanos e informáticos del CONACYT, con el objeto de propiciar el cumplimiento de sus tareas.
 
-II. Participar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal, así como coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto del ramo presupuestal del CONACYT.
+II. Coordinar y orientar las políticas de planeación, programación, presupuesto, ejercicio, control, seguimiento y evaluación del gasto de las entidades paraestatales bajo su coordinación sectorial, así como vigilar que se realicen con transparencia y cumplan con las normas y medidas de austeridad en la elaboración, revisión, evaluación y adecuación de los programas y presupuestos anuales.
 
-III. Coordinar el proceso programático presupuestal del Ramo, fungiendo como ventanilla ante la SHCP, para la gestión de los asuntos relacionados con su administración.
+III. Participar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal, así como coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto del ramo presupuestal del CONACYT.
+
+IV. Coordinar el proceso programático presupuestal del Ramo, fungiendo como ventanilla ante la SHCP, para la gestión de los asuntos relacionados con su administración, así como realizar las acciones necesarias ante las instancias correspondientes para la coordinación de las entidades paraestatales bajo su coordinación sectorial.
 
 Proponer, aplicar y vigilar el cumplimiento de la política financiera interna para la integración y el ejercicio del presupuesto del CONACYT.
 
-Dirigir el ejercicio y control presupuestario del gasto por capítulo y partida del CONACYT, así como administrar sus recursos financieros y mantener el registro de su patrimonio.
-
-Atender las necesidades administrativas relacionadas con los recursos presupuestarios, financieros, informáticos, tecnologías de información, materiales y humanos de las áreas que integran la estructura orgánica del CONACYT.
+Atender las necesidades administrativas relacionadas con los recursos presupuestarios, financieros, informáticos, tecnologías de información, materiales y humanos de las unidades administrativas que integran la estructura orgánica del CONACYT.
 
 Llevar el registro presupuestal y contable del ejercicio de las transferencias autorizadas y elaborar los informes para la Cuenta Pública del CONACYT y de las entidades paraestatales bajo su coordinación sectorial.
 
+Ministrar los recursos que otorga el gobierno federal para el desarrollo de las actividades de los Centros Públicos de Investigación CONACYT.
+
 Elaborar la información contable, presupuestal y los estados financieros que deban presentarse ante la Junta de Gobierno del CONACYT y las dependencias globalizadoras.
 
-IV. Planear, coordinar y mantener el funcionamiento de los procesos de administración de recursos humanos, observando las políticas, normas y procedimientos que se dicten en la materia, así como promover el desarrollo del personal adscrito al CONACYT.
+V. Planear, coordinar y mantener el funcionamiento de los procesos de administración de recursos humanos, observando las políticas, normas y procedimientos que se dicten en la materia, así como promover el desarrollo del personal adscrito al CONACYT.
 
 Administrar, acorde a las disposiciones legales y administrativas aplicables la expedición de nombramientos, remociones y demás movimientos del personal del CONACYT, así como lo relativo a sus remuneraciones.
 
-V. Registrar y actualizar la estructura orgánica de acuerdo a las necesidades de operación del CONACYT y conforme a la normatividad aplicable.
+VI. Registrar y actualizar la estructura orgánica de acuerdo a las necesidades de operación del CONACYT y conforme a la normativa aplicable.
 
-Integrar y expedir, en coordinación con la Dirección Adjunta de Asuntos Jurídicos, previa aprobación del Director General, el Manual de Organización del CONACYT, así como integrar y expedir, los demás manuales necesarios para la operación y funcionamiento del CONACYT.
+Integrar y expedir, en coordinación con la Unidad de Asuntos Jurídicos, previa aprobación del Director General, el Manual de Organización del CONACYT, así como integrar y expedir, los demás manuales necesarios para la operación y funcionamiento del CONACYT.
 
-VI. Vigilar el debido cumplimiento de las Condiciones Generales de Trabajo, así como el otorgamiento de las prestaciones y adoptar las medidas conducentes que para tal efecto se requieran, así como dictaminar la procedencia para transigir los asuntos laborales relacionados con el CONACYT.
+VII. Vigilar el debido cumplimiento de las Condiciones Generales de Trabajo, así como el otorgamiento de las prestaciones y adoptar las medidas conducentes que para tal efecto se requieran, así como dictaminar la procedencia para transigir los asuntos laborales relacionados con el CONACYT.
 
-Otorgar licencias, en los casos y por los periodos que para el efecto autorice el Director General, tratándose de empleados de confianza en términos de la normatividad aplicable, y conforme a las Condiciones Generales de Trabajo en el caso del personal de base.
+Otorgar licencias, en los casos y por los periodos que para el efecto autorice el Director General, tratándose de empleados de confianza en términos de la normativa aplicable, y conforme a las Condiciones Generales de Trabajo en el caso del personal de base.
 
-VII. Dirigir las acciones que en materia de adquisiciones y servicios requieran las unidades, acorde a las disposiciones legales y administrativas aplicables; asimismo, administrar el ejercicio del presupuesto anual en materia de adquisiciones y servicios apegándose a los lineamientos y normatividad vigente.
+VIII. Dirigir las acciones que en materia de adquisiciones y servicios requieran las unidades, acorde a las disposiciones legales y administrativas aplicables; asimismo, administrar el ejercicio del presupuesto anual en materia de adquisiciones y servicios apegándose a los lineamientos y normativa vigente.
 
-Planear, organizar, dirigir y controlar los acervos documentales que conforman los archivos institucionales, estableciendo mecanismos para su organización y conservación, así como la valoración, destino final de la documentación y el uso de la información de las unidades, con base en la normatividad aplicable en la materia.
+Planear, organizar, dirigir y controlar los acervos documentales que conforman los archivos institucionales, estableciendo mecanismos para su organización y conservación, así como la valoración, destino final de la documentación y el uso de la información de las unidades, con base en la normativa aplicable en la materia.
 
-VIII. Coordinar la integración de la información financiera de los fondos CONACYT para efectos de rendición de cuentas y entrega de informes a las dependencias globalizadoras y fiscalizadoras de la administración pública federal.
+IX. Coordinar la integración de la información financiera de los fondos CONACYT para efectos de rendición de cuentas y entrega de informes a las dependencias globalizadoras y fiscalizadoras de la Administración Pública Federal.
 
 Brindar el apoyo y soporte técnico a los fondos CONACYT previstos en la LCYT, para su adecuada administración financiera y registro contable.
 
 Administrar los fondos institucionales a que se refiere la LCYT, a través de las acciones de coordinación, autorización, ejecución, registro contable, información y demás que resulten necesarias para la operación de los instrumentos de apoyo establecidos en la LCYT, salvo en aquellos en que se faculte a otra unidad administrativa.
 
-Coordinar, en colaboración con la Dirección Adjunta de Asuntos Jurídicos, la modificación o extinción de los fondos que opera el CONACYT, con carácter o no de fideicomitente, en términos de lo dispuesto por la LCYT.
+Coordinar, en colaboración con la Unidad de Asuntos Jurídicos, la modificación o extinción de los fondos que opera el CONACYT, con carácter o no de fideicomitente, en términos de lo dispuesto por la LCYT.
 
-IX. Administrar la operación de sistemas y aplicaciones, así como la infraestructura de tecnologías de información y comunicaciones, para el aprovechamiento de los recursos informáticos, así como garantizar niveles de calidad de los mismos y de los servicios que en la materia se proporcionen.
+X. Administrar la operación de sistemas y aplicaciones, así como la infraestructura de tecnologías de información y comunicaciones, para el aprovechamiento de los recursos informáticos, así como garantizar niveles de calidad de los mismos y de los servicios que en la materia se proporcionen.
 
 Diseñar, desarrollar y mantener los sistemas de cómputo del CONACYT, acorde a las políticas de información.
 
-X. Planear y vigilar el cumplimiento del Programa de Seguridad y Vigilancia en las instalaciones del CONACYT, así como el Programa de Protección Civil, de conformidad con la normatividad y lineamientos aplicables.
+XI. Planear y vigilar el cumplimiento del Programa de Seguridad y Vigilancia en las instalaciones del CONACYT, así como el Programa de Protección Civil, de conformidad con la normativa y lineamientos aplicables.
 
-XI. Coordinar e instrumentar, en coordinación con la Dirección Adjunta de Asuntos Jurídicos, los actos jurídicos y administrativos que en su caso correspondan al Director General para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores.
+XII. Coordinar e instrumentar, en coordinación con la Unidad de Asuntos Jurídicos, los actos jurídicos y administrativos que en su caso correspondan al Director General para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+Establecer y promover las políticas y los lineamientos para que los Centros Públicos de Investigación CONACYT cumplan su objeto, bajo un esquema de rendición de cuentas.
+
+Determinar, en coordinación con la SHCP y la SFP, los requerimientos de información financiera y presupuestaria a los Centros Públicos de Investigación CONACYT, analizando, integrando, validando y remitiendo la citada información a las mismas, a través de las instancias que determine el CONACYT.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-La Secretaría Ejecutiva de la CIBIOGEM, será una Dirección Adjunta adscrita a la Dirección General. En los términos de la LBOGM y demás disposiciones aplicables, le corresponde:
+La Secretaría Ejecutiva de la CIBIOGEM, será una Unidad adscrita a la Dirección General. En los términos de la LBOGM y demás disposiciones aplicables, le corresponde:
 
 I. Apoyar a la CIBIOGEM en la formulación y propuesta de las políticas de la administración pública federal relativas a la bioseguridad de los organismos genéticamente modificados, así como en la coordinación de la ejecución de dichas políticas, en los términos de las disposiciones legales y administrativas aplicables, y en especial, en los siguientes aspectos específicos:
 
@@ -1283,25 +1277,25 @@ VIII. Elaborar y publicar anualmente el informe de la situación general existen
 
 IX. Fungir como Centro Focal Nacional ante el secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica.
 
-X. Ejercer las facultades que se requieran para su adecuado funcionamiento, y que dentro del presente Estatuto se establecen para los directores adjuntos.
+X. Ejercer las facultades que se requieran para su adecuado funcionamiento, y que dentro del presente Estatuto se establecen para los titulares de las unidades.
 
 XI. Desempeñar las demás funciones que se establezcan en las disposiciones legales y administrativas correspondientes, en el presente Estatuto y las que le encomiende la CIBIOGEM por conducto de su Presidente y Vicepresidente. Los actos que emita la Secretaría Ejecutiva de la CIBIOGEM, en los términos de los ordenamientos que le resultan aplicables y que deriven de la LBOGM, serán de su responsabilidad, sin que ello afecte las actividades que realiza como unidad administrativa del CONACYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
-### CAPITULO OCTAVO. Unidad Adscrita a la Dirección General
+### CAPITULO OCTAVO. Coordinación adscrita a la Dirección General
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
-La Dirección General contará con una unidad adscrita a la misma, que será la Unidad Técnica de Proyectos, Comunicación e Información Estratégica.
+La Dirección General contará con la Coordinación de Proyectos, Comunicación e Información Estratégica.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-Corresponde a la Unidad Técnica de Proyectos, Comunicación e Información Estratégica:
+Corresponde a la Coordinación de Proyectos, Comunicación e Información Estratégica:
 
 I. Colaborar transversalmente con las unidades y con la Secretaría Ejecutiva de la CIBIOGEM, para la ejecución de proyectos institucionales o estratégicos que determine la Dirección General.
 
@@ -1319,59 +1313,59 @@ VII. Dirigir la política de comunicación social del CONACYT, que incluye la di
 
 VIII. Desempeñar las demás funciones que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto y las que le sean encomendadas por el Director General en la esfera de su competencia.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
-### CAPITULO NOVENO. Órgano Interno de Control
+### CAPITULO NOVENO. Organo Interno de Control
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-El CONACYT contará con un Órgano Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Órgano, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, nombrados para el efecto.
+El CONACYT contará con un Organo Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Organo, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, nombrados para el efecto.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO DECIMO. Suplencia de los Servidores Públicos del CONACYT
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-El Titular del Órgano Interno de Control y los Titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
+El Titular del Organo Interno de Control y los Titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-El Titular del Órgano Interno de Control, será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y presupuesto del CONACYT.
+El Titular del Organo Interno de Control, será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y presupuesto del CONACYT.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 40.
 
-El Titular del Órgano Interno de Control, deberá reunir los requisitos que para el desempeño de este cargo, establezca la SFP y no deberá contar con ningún impedimento que para ser miembro del Órgano de Gobierno establezca la Ley Federal de las Entidades Paraestatales.
+El Titular del Organo Interno de Control, deberá reunir los requisitos que para el desempeño de este cargo, establezca la SFP y no deberá contar con ningún impedimento que para ser miembro del Organo de Gobierno establezca la Ley Federal de las Entidades Paraestatales.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-En los órganos colegiados que se considere la participación del Órgano Interno de Control, éste tomará parte en los mismos en calidad de invitado permanente con voz pero sin voto, salvo las excepciones que las leyes y ordenamientos administrativos determinen.
+En los órganos colegiados que se considere la participación del Organo Interno de Control, éste tomará parte en los mismos en calidad de invitado permanente con voz pero sin voto, salvo las excepciones que las leyes y ordenamientos administrativos determinen.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Director Adjunto que el mismo designe, o en su caso en el Oficial mayor.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Oficial Mayor o Titular de Dirección Adjunta o Unidad de Asuntos Jurídicos que el mismo designe.
 
-Los Directores Adjuntos, el Oficial Mayor, el Titular de la Unidad Técnica de Proyectos, Comunicación e Información Estratégica y los Directores de Área, serán suplidos en sus ausencias por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
+Los Titulares de las Direcciones Adjuntas, Unidad de Asuntos Jurídicos, el Oficial Mayor, el Coordinador de Proyectos, Comunicación e Información Estratégica y los Directores de Area, serán suplidos en sus ausencias por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
 
-Las ausencias del Titular del Órgano Interno de Control, así como la de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, serán suplidas de conformidad con lo dispuesto en el Reglamento Interior de la SFP.
+Las ausencias del Titular del Organo Interno de Control, así como la de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, serán suplidas de conformidad con lo dispuesto en el Reglamento Interior de la SFP.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-En materia de amparo y procedimientos administrativos el Director General será suplido en sus ausencias por el Director Adjunto de Asuntos Jurídicos.
+En materia de amparo y procedimientos administrativos el Director General será suplido en sus ausencias por el Titular de la Unidad de Asuntos Jurídicos.
 
 ## TRANSITORIOS
 
@@ -1392,3 +1386,7 @@ El presente Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, fu
 D.O.F. 17 DE ENERO DE 2014.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE SEPTIEMBRE DE 2014.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
