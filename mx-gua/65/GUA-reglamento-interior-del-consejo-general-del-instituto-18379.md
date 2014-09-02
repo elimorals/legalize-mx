@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-general-del-instituto-18379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-07"
-last_updated: "2010-04-16"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 7 de marzo de 2000.
 
@@ -275,13 +277,13 @@ C. LIC. J. JESÚS BADILLO LARA
 
 SECRETARIO DEL CONSEJO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE ENERO DE 2005.
 
 ÚNICO.- LA PRESENTE ADICIÓN ENTRARÁ EN VIGOR AL CUARTO DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
 
 SEGUNDO.- NOTIFÍQUESE POR ESTRADOS:
 
@@ -290,3 +292,15 @@ TERCERO.- PUBLÍQUESE EL PRESENTE ACUERDO EN EL PERIÓDICO OFICIAL DEL GOBIERNO 
 P.O. 16 DE ABRIL DE 2010.
 
 Único.- Las adiciones al presente reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. Se expide el Reglamento de Sesiones del Consejo General del Instituto Electoral del Estado de Guanajuato, en los términos del anexo único de este acuerdo.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo General del Instituto Electoral del Estado de Guanajuato, aprobado por el Consejo General del Instituto Electoral del Estado de Guanajuato, en la sesión ordinaria del veintiocho de febrero de dos mil, y publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 19, segunda parte, de fecha siete de marzo de dos mil, así como sus adiciones.
+
+TERCERO. El Reglamento de Sesiones del Consejo General del Instituto Electoral del Estado de Guanajuato, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+CUARTO. Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
