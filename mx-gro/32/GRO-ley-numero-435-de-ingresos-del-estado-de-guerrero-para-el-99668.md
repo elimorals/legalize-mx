@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-435-de-ingresos-del-estado-de-guerrero-para-el-99668
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 435 DE INGRESOS DEL ESTADO DE GUERRERO PARA EL EJERCICIO FISCAL 2014.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 27 de diciembre de 2013.
 
@@ -48,6 +48,46 @@ En el período que corresponde al Ejercicio Fiscal 2014, el Estado a través de 
 ###### ARTÍCULO 2.
 
 El Estado a través de la Secretaría de Finanzas y Administración ingresará por concepto de Participaciones y Aportaciones provenientes del Gobierno Federal, de conformidad con lo que establece la Ley de Coordinación Fiscal, y de los Convenios suscritos con el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público. En función de lo anterior, las cantidades estimadas en esta Ley son susceptibles de sufrir modificaciones en sus montos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+El Gobierno del Estado, a través de la Secretaría de Finanzas y Administración, previa acreditación del incumplimiento del pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, retendrá la cantidad que cubra el pago incumplido generado a partir del año 2014, con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, que correspondan al municipio de que se trate, a solicitud de la Comisión Nacional del Agua, en términos de lo previsto en el artículo 51 de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+La Comisión Nacional del Agua sólo podrá solicitar al Gobierno del Estado la retención y pago a que se hace referencia en el párrafo anterior en aquellos casos en que los adeudos generados a partir del año 2014, por el incumplimiento tengan una antigüedad mayor a 90 días naturales.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Para acreditar el incumplimiento, la Comisión Nacional del Agua informará al municipio dentro del plazo citado en el párrafo anterior, que no ha cubierto la totalidad del pago del trimestre o periodo de que se trate, y en su caso, a su organismo operador de agua, a efecto de que en un plazo máximo de diez días hábiles, presente los comprobantes de pago o las aclaraciones a que haya lugar. En caso de que no se acredite el pago total, la Comisión Nacional del Agua le comunicará al municipio que procederá en términos del artículo 51 de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Hecho lo anterior, la Comisión Nacional del Agua solicitará por escrito al Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, la retención correspondiente. Para tales efectos enviará la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de las obligaciones incumplidas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+El Gobierno del Estado en su carácter de retenedor en un término de tres días hábiles contados a partir de la fecha de recepción del escrito de solicitud de la Comisión Nacional del Agua, por conducto de la Secretaría de Finanzas y Administración, realizará la retención correspondiente y efectuará el pago a dicha Comisión.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+En caso de que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, no sean suficientes para cubrir las obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua solicitará al Gobierno del Estado que a través de la Secretaría de Finanzas y Administración, efectúe la retención y pago hasta donde alcancen los recursos de dicho Fondo. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras en dicho Fondo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Todos los recursos retenidos por conceptos de pago de derechos por aprovechamientos de agua (sic) nacionales y descargas de aguas residuales que corresponda pagar a los Municipios, que previa solicitud de la Comisión Nacional de Agua realice la Secretaría de Finanzas y Administración y las transfiera a la Comisión Nacional del Agua, esta última estará obligada a transferir dichos recursos directamente a los Municipios cuando así proceda, de acuerdo a la normatividad aplicable, dentro de los treinta días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, se entenderá por:
+
+I. Obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: las generadas por los adeudos que los municipios, incluyendo sus organismos operadores de agua, tengan con la Comisión Nacional del Agua por el derecho por uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación; e
+
+II. Incumplimiento: la falta de pago total o parcial de las obligaciones a que se refiere la fracción anterior, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, sólo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del 1 de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el 100% de la facturación o causación de los conceptos citados, con base en, al menos, los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 9 de diciembre de 2013.
 
 ###### ARTÍCULO 3.
 
@@ -218,3 +258,29 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 C.P. JORGE SILVERIO SALGADO LEYVA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. La Comisión Nacional del Agua sólo podrá solicitar la retención a que se refiere el artículo 2 de esta Ley para el cobro de adeudos que se generen a partir del uno de enero de 2014, por concepto de derechos y aprovechamientos de agua y descargas de aguas residuales.
+
+TERCERO. Las retenciones y pagos que se realicen con cargo a los recursos del Fondo para el Fortalecimiento de los Municipios por adeudos que correspondan al Municipio, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en, al menos, los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada Municipio por concepto del citado Fondo, considerando el 100% de la facturación de los conceptos referidos:
+
+Ejercicio Porcentaje
+
+Fiscal de Retención
+
+2014 50%
+
+2015 60%
+
+2016 75%
+
+2017 85%
+
+2018 100%
+
+CUARTO.- Los Municipios gozarán de los estímulos fiscales, en términos del Artículo Décimo Tercero Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado el 9 de diciembre del 2013.
