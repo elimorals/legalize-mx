@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2013-11-29"
+last_updated: "2014-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -825,6 +825,10 @@ Mientras no se instalen los medidores a que se refiere este Artículo las cantid
 
 En caso de mora por parte de los usuarios en el pago de dos meses de cuota o tarifa establecida para los servicios de agua potable, podrá limitárseles el suministro a la cantidad de agua equivalente a la cuota mínima establecida en la tarifa respectiva; si la mora en el pago es de tres meses, se suspenderá totalmente el suministro de agua, sin perjuicio de que el organismo operador efectúe el cobro de los adeudos, a través del procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+No obstante lo previsto en el párrafo primero del presente artículo, no podrá suspenderse el suministro de agua en los casos que se trate de edificios destinados a la prestación de servicios asistenciales, o en los que por razones de salud pública o seguridad no sea conveniente proceder a la suspensión, sin que lo anterior signifique que la obligación de realizar el pago del servicio de agua no sea exigible.
+
 El cargo por reconexión, tratándose de servicio doméstico, no podrá exceder de cinco veces el salario mínimo diario vigente en el Estado y sólo podrá aplicarse si en el domicilio se ha cortado físicamente el servicio. Lo recaudado por estos cargos se aplicará en el área administrativa de cultura del agua del organismo operador.
 
 ### CAPITULO SEPTIMO. DE LA INSPECCION
@@ -1090,3 +1094,13 @@ PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Go
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En caso de que los organismos creados al amparo de la Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza, tengan créditos autorizados por legislaturas anteriores y que aun no hayan sido contratados; deberán presentar nuevamente ante esta legislatura las solicitudes correspondientes de conformidad a lo establecido por la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
