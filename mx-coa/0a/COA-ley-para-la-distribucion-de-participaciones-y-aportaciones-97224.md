@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-distribucion-de-participaciones-y-aportaciones-9722
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2013-12-20"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY PARA LA DISTRIBUCIÓN DE PARTICIPACIONES Y APORTACIONES FEDERALES A LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑO 2014.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 20 de diciembre de 2013.
 
@@ -477,7 +475,9 @@ El Ejecutivo del Estado tendrá a su cargo emitir la normatividad aplicable a lo
 
 Las aportaciones que con cargo a los Fondos de Aportaciones para la Infraestructura Social y para el Fortalecimiento de los Municipios y sus accesorios, no serán embargables, ni los gobiernos municipales podrán, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos para ellos en los artículos 15, 17 y 19 de esta Ley.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua y consumo de energía eléctrica cuando así lo determine la legislación correspondiente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios, podrá afectarse como garantía del cumplimiento de obligaciones de pago de derechos y aprovechamientos por concepto de agua, descarga de aguas residuales y consumo de energía eléctrica cuando así lo determine la legislación correspondiente.
 
 ###### ARTÍCULO 23.
 
@@ -542,3 +542,11 @@ EL SECRETARIO DE FINANZAS
 JESÚS JUAN OCHOA GALINDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
