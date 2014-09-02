@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-archivos-del-instituto-electoral-del-estado-64485
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-04"
-last_updated: "2008-11-04"
+last_updated: "2014-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE ARCHIVOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de noviembre de 2008.
 
@@ -115,13 +115,17 @@ IX. Transferencia primaria: Traslado controlado y sistemático de documentos y e
 
 X. Transferencia secundaria: Traslado controlado y sistemático de documentos y expedientes del archivo de concentración al archivo histórico, que deben conservarse de manera permanente;
 
-XI. Unidades administrativas: Presidencia del Consejo General, Secretaría Ejecutiva, Secretaría del Consejo General, Direcciones de la Comisión Ejecutiva, Coordinación Administrativa, Coordinación de Comunicación y Difusión, Unidad de Acceso a la Información Pública, Comisión de Fiscalización, y Contraloría; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Unidades administrativas: Consejo General, Presidencia del Consejo General, Secretaría Ejecutiva, Direcciones y Unidades de la Junta Estatal Ejecutiva, Juntas Ejecutivas Regionales, Coordinación Administrativa, Coordinación de Comunicación y Difusión, Unidad de Acceso a la Información Pública, Comisiones del Consejo General, y. Contraloría; y
 
 XII. Valoración documental: Procedimiento que permite determinar el periodo de conservación de los documentos de archivo para establecer acciones de transferencia y criterios de disposición, mediante el análisis e identificación del valor primario o valor secundario.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
-El Consejo General designará al Responsable del AGIE.
+El Secretario Ejecutivo designará al Responsable del AGIE.
 
 ###### Artículo 4.
 
@@ -469,13 +473,17 @@ l. El Secretario Ejecutivo, quien fungirá como Presidente;
 
 II. El Responsable del AGIE, quien fungirá como Secretario Técnico;
 
-III. El Secretario del Consejo General;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+III. El Director de la Unidad Técnica Jurídica y de lo Contencioso Electoral;
 
 IV. El Coordinador Administrativo;
 
 V. El titular de la Unidad de Acceso a la Información Pública del Instituto; y
 
-VI. Un representante de la Contraloría del Instituto.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+VI. El titular de la Contraloría del Instituto.
 
 Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto.
 
@@ -483,13 +491,21 @@ Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto.
 
 Las ausencias temporales de los integrantes del Comité serán suplidas de la siguiente manera:
 
-I. Las del Presidente, por el Director de Procedimientos Electorales;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-II. Las del Secretario del Consejo General, por el Secretario Asistente;
+I. Las del Presidente, por el Director de Organización Electoral;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+II. Las del Director de la Unidad Técnica Jurídica y de lo Contencioso Electoral, por el Secretario Asistente;
 
 III. Las del Coordinador Administrativo, por el Jefe del Departamento de Administración Presupuestal y Control Patrimonial; y
 
 IV. Las del titular de la Unidad de Acceso a la Información Pública, por el especialista en sistemas de información de dicha unidad.
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+V. Las del titular de la Contraloría, por el Auditor de la Contraloría.
 
 ###### Artículo 34.
 
@@ -534,3 +550,13 @@ Dependiendo del asunto o tema enlistado en el orden del día de la sesión, y co
 ## TRANSITORIOS
 
 Único.- El presente reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. Las modificaciones al Reglamento de Archivos del Instituto Electoral del Estado de Guanajuato, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
