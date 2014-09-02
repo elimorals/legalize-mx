@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-contraloria-del-46550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-04"
-last_updated: "2010-04-16"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORIA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LA CONTRALORÍA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE EXPIDEN LAS DISPOSICIONES APLICABLES A LA CONTRALORÍA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 4 de octubre del 2005.
 
@@ -35,7 +37,7 @@ CG/030/2005
 
 Acuerdo mediante el cual se expide el nuevo Reglamento para el funcionamiento de la Contraloría del Instituto Electoral del Estado de Guanajuato.
 
-.
+...
 
 Por lo anterior, y con fundamento en lo dispuesto por los artículos 31, párrafos segundo y tercero, de la Constitución Política del Estado de Guanajuato; 51, 63, fracción II, y 67, del Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, se somete a la consideración del Consejo General, el siguiente:
 
@@ -255,7 +257,7 @@ XV.- Habilitar días y horas para la recepción de información y documentación
 
 ###### Artículo 14.
 
-la (sic) Contraloría contará con un Contador Público, el cual tendrá las siguientes atribuciones:
+la Contraloría contará con un Contador Público, el cual tendrá las siguientes atribuciones:
 
 I.- Auxiliar a la Contraloría y a su Presidente, en el ejercicio de sus atribuciones;
 
@@ -523,7 +525,7 @@ Segundo.- Los Consejeros Ciudadanos y los demás Servidores Públicos que determ
 
 Tercero.- Lo dispuesto en el artículo 28 de este reglamento se aplicará una vez que la Unidad de Defensoría Administrativa del Servidor Público entre en funciones.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 7 DE ABRIL DE 2006.
 
@@ -548,3 +550,17 @@ P.O. 18 DE SEPTIEMBRE DE 2007.
 P.O. 16 DE ABRIL DE 2010.
 
 Único.- Las reformas y adiciones al presente reglamento entrarán en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO MEDIANTE EL CUAL SE EXPIDEN LAS DISPOSICIONES APLICABLES A LA CONTRALORÍA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se expiden las Disposiciones aplicables a la Contraloría del Instituto Electoral del Estado de Guanajuato, en los términos del anexo único de este acuerdo.
+
+SEGUNDO. Se abroga el Reglamento para el funcionamiento de la Contraloría del Instituto Electoral del Estado de Guanajuato, aprobado por el Consejo General del Instituto Electoral del Estado de Guanajuato, en la sesión ordinaria del veintidós de agosto de dos mil cinco, y publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 158, segunda parte, de fecha cuatro de octubre de dos mil cinco, así como sus reformas y adiciones.
+
+TERCERO. Las Disposiciones aplicables a la Contraloría del Instituto Electoral del Estado de Guanajuato entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+CUARTO. Los procedimientos que a la fecha de aprobación de este acuerdo se encuentren en trámite por parte de la Contraloría del Instituto, se continuarán hasta su conclusión de acuerdo con las normas establecidas en el Reglamento para el funcionamiento de la Contraloría del Instituto Electoral del Estado de Guanajuato.
+
+QUINTO. Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
