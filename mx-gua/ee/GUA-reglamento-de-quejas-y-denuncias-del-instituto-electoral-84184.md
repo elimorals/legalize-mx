@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-quejas-y-denuncias-del-instituto-electoral-84184"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-20"
-last_updated: "2011-12-20"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2011.
 
@@ -37,7 +39,7 @@ RESULTANDO:
 
 ÚNICO. Que en la sesión extraordinaria de fecha diecisiete de mayo de dos mil nueve, mediante acuerdo CG/076/2009, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, segunda parte, de fecha dos de junio del mismo año, el Consejo General estableció las reglas procedimentales para dictar medidas preventivas con motivo de las quejas que se presenten ante el Consejo General y los consejos distritales y municipales por probables infracciones electorales.
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Por lo anterior, y con fundamento en lo dispuesto por los artículos 31, párrafos segundo y tercero, de la Constitución Política del Estado de Guanajuato; 51 y 63, fracción II, del Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, se somete a la consideración del Consejo General, el siguiente:
 
@@ -484,3 +486,17 @@ Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, l
 ###### Artículo 47.
 
 Transcurrido el plazo a que se refiere el artículo anterior se elaborará el proyecto de resolución correspondiente para que sea sometido a la aprobación de la Comisión de Fiscalización y remitido al Consejo General para los efectos conducentes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se expide el Reglamento de Quejas y Denuncias del Instituto Electoral del Estado de Guanajuato, en los términos del anexo único de este acuerdo.
+
+SEGUNDO. Se abroga el Reglamento de Quejas y Denuncias del Instituto Electoral del Estado de Guanajuato, aprobado por el Consejo General del Instituto Electoral del Estado de Guanajuato, en la sesión ordinaria del treinta de noviembre de dos mil once, y publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 202, segunda parte, de fecha veinte de diciembre de dos mil once,
+
+TERCERO. El Reglamento de Quejas y Denuncias del Instituto Electoral del Estado de Guanajuato, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+CUARTO. Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
