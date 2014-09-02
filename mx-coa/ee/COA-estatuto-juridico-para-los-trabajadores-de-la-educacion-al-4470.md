@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "2014-03-21"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 21 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -45,7 +45,7 @@ Disposiciones Generales.
 
 ###### ARTICULO 1o.
 
-La presente Ley (sic) es de observancia general para todas las Autoridades y Funcionarios integrantes del Poder Ejecutivo del Estado de Coahuila y para todos los trabajadores de la Educación al servicio del mismo y de los Municipios.
+La presente Ley es de observancia general para todas las Autoridades y Funcionarios integrantes del Poder Ejecutivo del Estado de Coahuila y para todos los trabajadores de la Educación al servicio del mismo y de los Municipios.
 
 ###### ARTICULO 2o.
 
@@ -59,13 +59,13 @@ Queda prohibido restringir las oportunidades de acceso, permanencia y ascenso de
 
 ###### ARTICULO 3o.
 
-La relación jurídica de trabajo reconocida por esta Ley (sic) se entiende establecida para todos los efectos legales, entre los trabajadores de la Educación al Servicio del Poder Ejecutivo y de los Municipios.
+La relación jurídica de trabajo reconocida por esta Ley se entiende establecida para todos los efectos legales, entre los trabajadores de la Educación al Servicio del Poder Ejecutivo y de los Municipios.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1963)</small>
 
 ###### ARTICULO 4o.
 
-Para los efectos de esta Ley (sic), los Trabajadores de la Educación al Servicio del Estado y de los Municipios, se dividirán en dos clases:
+Para los efectos de esta Ley, los Trabajadores de la Educación al Servicio del Estado y de los Municipios, se dividirán en dos clases:
 
 I.- Trabajadores de base y
 
@@ -85,7 +85,7 @@ Son trabajadores de base todos los que señala actualmente el Artículo 2o. del 
 
 ###### ARTICULO 5o.
 
-Esta Ley (sic) sólo regirá las relaciones entre el Gobierno del Estado y de los Municipios y los trabajadores de Base.
+Esta Ley sólo regirá las relaciones entre el Gobierno del Estado y de los Municipios y los trabajadores de Base.
 
 ###### ARTICULO 6o.
 
@@ -95,7 +95,7 @@ La substitución será decidida por el C. Gobernador del Estado, oyendo antes a 
 
 ###### ARTICULO 7o.
 
-En ningún caso serán renunciables las disposiciones de esta Ley (sic) que favorezcan a los trabajadores.
+En ningún caso serán renunciables las disposiciones de esta Ley que favorezcan a los trabajadores.
 
 ###### ARTICULO 8o.
 
@@ -115,19 +115,19 @@ Los Trabajadores de la Educación al Servicio del Estado y de los Municipios pre
 
 ###### ARTICULO 10o.
 
-Tendrán capacidad legal para aceptar un nombramiento de trabajadores de la Educación al Servicio del Estado y de los Municipios, para percibir el sueldo correspondiente, para ejercitar las acciones derivadas de la presente Ley (sic), los menores de edad, de uno u otro sexo, que tengan más de 16 años, así como la preparación profesional indispensable para el efecto.
+Tendrán capacidad legal para aceptar un nombramiento de trabajadores de la Educación al Servicio del Estado y de los Municipios, para percibir el sueldo correspondiente, para ejercitar las acciones derivadas de la presente Ley, los menores de edad, de uno u otro sexo, que tengan más de 16 años, así como la preparación profesional indispensable para el efecto.
 
 ###### ARTICULO 11o.
 
 Serán condiciones nulas y no obligarán a los trabajadores de la Educación al servicio del Estado y de los Municipios, aún cuando las admitieran expresamente:
 
-I.- Las que estipulen una jornada mayor de la permitida por esta Ley (sic).
+I.- Las que estipulen una jornada mayor de la permitida por esta Ley.
 
 II.- Las que fijen labores peligrosas o insalubres para mujeres y los menores de 18 años o establezcan para unos u otros el trabajo nocturno.
 
 III.- Las que estipulen una jornada inhumana por lo notoriamente excesiva o peligrosa para la vida del trabajador.
 
-IV.- Las que fijen un sueldo inferior al señalado en el Tabulador formulado y aprobado en los términos del Artículo 29 de esta Ley (sic).
+IV.- Las que fijen un sueldo inferior al señalado en el Tabulador formulado y aprobado en los términos del Artículo 29 de esta Ley.
 
 V.- Las que estipulen un plazo mayor de 15 días para el pago de sueldos.
 
@@ -155,7 +155,7 @@ En el primer caso si el traslado fuere por tiempo largo o indefinido el trabajad
 
 ###### ARTICULO 14o.
 
-Las actuaciones o certificaciones que hubieren de hacerse con motivo de la aplicación de la presente Ley (sic), no causarán impuesto alguno.
+Las actuaciones o certificaciones que hubieren de hacerse con motivo de la aplicación de la presente Ley, no causarán impuesto alguno.
 
 ###### ARTICULO 15o.
 
@@ -171,7 +171,7 @@ De las Horas de Trabajo y Descanso Legales.
 
 ###### ARTICULO 17o.
 
-Para los efectos de la presente Ley (sic), se considera trabajo diurno aquel comprendido entre las seis y las veinte horas y nocturno, el comprendido entre las veinte y las seis horas.
+Para los efectos de la presente Ley, se considera trabajo diurno aquel comprendido entre las seis y las veinte horas y nocturno, el comprendido entre las veinte y las seis horas.
 
 ###### ARTICULO 18o.
 
@@ -229,7 +229,7 @@ El salario es la retribución que debe pagarse al trabajador a cambio de los ser
 
 ###### ARTICULO 29o.
 
-El salario será uniforme para cada una de las categorías de trabajadores de base, señaladas en esta Ley (sic) y será fijado de común acuerdo por los trabajadores, por el Estado y los Municipios en los Presupuestos de Egresos respectivos. Cuando se hagan en dichos presupuestos modificaciones que afectan los salarios mínimos, se escuchará la opinión de la Sección respectiva y cuando se reduzca el número de empleados, la propia Sección resolverá cuál es el grupo de trabajadores agremiados que personalmente deban resultar afectados, haciendo al efecto los cambios y nombramientos que fueren necesarios.
+El salario será uniforme para cada una de las categorías de trabajadores de base, señaladas en esta Ley y será fijado de común acuerdo por los trabajadores, por el Estado y los Municipios en los Presupuestos de Egresos respectivos. Cuando se hagan en dichos presupuestos modificaciones que afectan los salarios mínimos, se escuchará la opinión de la Sección respectiva y cuando se reduzca el número de empleados, la propia Sección resolverá cuál es el grupo de trabajadores agremiados que personalmente deban resultar afectados, haciendo al efecto los cambios y nombramientos que fueren necesarios.
 
 ###### ARTICULO 30o.
 
@@ -321,9 +321,9 @@ d).- Las vacantes que ocurran dentro de las Dependencias de Educación en el Est
 
 e).- Los puestos disponibles en cada clase, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertos libremente por las Autoridades Educativas.
 
-Cuando se trate de vacantes temporales que no podrán exceder de seis meses, salvo los casos en que la presente Ley (sic) autorice mayor tiempo, no se moverá el escalafón y las Autoridades Educativas nombrarán y renovarán libremente al empleado profesional que deba cubrirla.
+Cuando se trate de vacantes temporales que no podrán exceder de seis meses, salvo los casos en que la presente Ley autorice mayor tiempo, no se moverá el escalafón y las Autoridades Educativas nombrarán y renovarán libremente al empleado profesional que deba cubrirla.
 
-f).- Un trabajador de base podrá ser ascendido a un puesto de confianza; pero en ese caso y mientras conserve esa categoría quedarán en suspenso todos los derechos y prerrogativas que tuviera conforme a esta Ley (sic), así como los vínculos con el Sindicato al cual perteneciera. El individuo que como consecuencia de un ascenso de esta naturaleza sea designado para ocupar la vacante correspondiente, una vez corrido el escalafón respectivo, tendrá en todo caso el carácter de trabajador provisional, de tal modo que si el trabajador ascendido a un puesto de confianza, vuelve a ocupar el de base del que hubiere sido removido, lo que constituirá un derecho para él, automáticamente se correrá en forma inversa el escalafón y el trabajador provisional dejará de prestar sus servicios al Estado o a los Municipios sin responsabilidad para éstos.
+f).- Un trabajador de base podrá ser ascendido a un puesto de confianza; pero en ese caso y mientras conserve esa categoría quedarán en suspenso todos los derechos y prerrogativas que tuviera conforme a esta Ley, así como los vínculos con el Sindicato al cual perteneciera. El individuo que como consecuencia de un ascenso de esta naturaleza sea designado para ocupar la vacante correspondiente, una vez corrido el escalafón respectivo, tendrá en todo caso el carácter de trabajador provisional, de tal modo que si el trabajador ascendido a un puesto de confianza, vuelve a ocupar el de base del que hubiere sido removido, lo que constituirá un derecho para él, automáticamente se correrá en forma inversa el escalafón y el trabajador provisional dejará de prestar sus servicios al Estado o a los Municipios sin responsabilidad para éstos.
 
 g).- El escalafón así normado y sus rectificaciones tendrán la publicidad necesaria.
 
@@ -343,7 +343,7 @@ VIII.- Conceder licencia a sus trabajadores, para el desempeño de las comisione
 
 Las licencias abarcarán todo el período para que hayan sido electos y éste se computará como efectivo dentro del escalafón.
 
-IX.- Hacer las deducciones que solicite la Sección Sindical siempre que se ajusten a los términos de esta Ley (sic).
+IX.- Hacer las deducciones que solicite la Sección Sindical siempre que se ajusten a los términos de esta Ley.
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -483,7 +483,7 @@ El registro de la Sección Sindical se cancelará en caso de disolución de la m
 
 ###### ARTICULO 51o.
 
-Los trabajadores de la Educación que por su conducto o falta de solidaridad fueren expulsados de la Sección Sindical, perderán por ese sólo hecho todas las garantías sindicales que esta Ley (sic) concede. La expulsión sólo podrá dictarse con la mayoría de los socios de la Sección y previa defensa del acusado o con la aprobación de dos terceras partes de las Delegaciones de la propia Sección Sindical.
+Los trabajadores de la Educación que por su conducto o falta de solidaridad fueren expulsados de la Sección Sindical, perderán por ese sólo hecho todas las garantías sindicales que esta Ley concede. La expulsión sólo podrá dictarse con la mayoría de los socios de la Sección y previa defensa del acusado o con la aprobación de dos terceras partes de las Delegaciones de la propia Sección Sindical.
 
 ###### ARTICULO 52o.
 
@@ -493,7 +493,7 @@ El Estado no podrá aceptar en ningún caso, la cláusula de exclusión.
 
 Son obligaciones de la Sección Sindical:
 
-I.- Proporcionar los informes que en cumplimiento de esta Ley (sic) solicite el Tribunal de Arbitraje.
+I.- Proporcionar los informes que en cumplimiento de esta Ley solicite el Tribunal de Arbitraje.
 
 II.- Comunicar al Tribunal de Arbitraje, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su Directiva o en su Comité Ejecutivo, las altas y bajas de sus miembros y las modificaciones que sufran los Estatutos del Sindicato.
 
@@ -541,7 +541,7 @@ De las Condiciones Generales de Trabajo.
 
 ###### ARTICULO 59o.
 
-Las condiciones generales de trabajo se fijarán al entrar en vigor la presente Ley (sic), oyendo a la Sección Sindical.
+Las condiciones generales de trabajo se fijarán al entrar en vigor la presente Ley, oyendo a la Sección Sindical.
 
 ###### ARTICULO 60o.
 
@@ -565,11 +565,11 @@ De las Huelgas.
 
 ###### ARTICULO 62o.
 
-Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta Ley (sic) establece.
+Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta Ley establece.
 
 ###### ARTICULO 63o.
 
-Declaración de huelga es la manifestación de la voluntad de la mayoría de los trabajadores de la Educación al servicio del Estado y de los Municipios, de suspender las labores de acuerdo con los requisitos que establece esta Ley (sic) si el Gobierno del Estado o las Autoridades Municipales o algunos de sus representantes no acceden a sus demandas.
+Declaración de huelga es la manifestación de la voluntad de la mayoría de los trabajadores de la Educación al servicio del Estado y de los Municipios, de suspender las labores de acuerdo con los requisitos que establece esta Ley si el Gobierno del Estado o las Autoridades Municipales o algunos de sus representantes no acceden a sus demandas.
 
 ###### ARTICULO 64o.
 
@@ -581,7 +581,7 @@ La huelga general es la que se endereza en contra del Gobierno del Estado y de t
 
 a).- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo en caso de fuerza mayor que calificará el Tribunal de Arbitraje.
 
-b).- Porque la política general del Gobierno del Estado y de las Autoridades Municipales, comprobada con hechos sea contraria a los derechos fundamentales que esta Ley (sic) concede a los trabajadores de la Educación, debiendo en tal caso hacer la comprobación respectiva el propio Tribunal.
+b).- Porque la política general del Gobierno del Estado y de las Autoridades Municipales, comprobada con hechos sea contraria a los derechos fundamentales que esta Ley concede a los trabajadores de la Educación, debiendo en tal caso hacer la comprobación respectiva el propio Tribunal.
 
 c).- Por desconocimiento oficial del Tribunal de Arbitraje o porque el Gobierno del Estado y las Autoridades Municipales pongan graves obstáculos para el ejercicio de sus atribuciones.
 
@@ -697,17 +697,17 @@ De las Prescripciones.
 
 ###### ARTICULO 82o.
 
-Las sanciones que nazcan de esta Ley (sic), del nombramiento otorgado en favor de los trabajadores de la Educación al Servicio del Estado y de los Municipios y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en los Artículos siguientes:
+Las sanciones que nazcan de esta Ley, del nombramiento otorgado en favor de los trabajadores de la Educación al Servicio del Estado y de los Municipios y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en los Artículos siguientes:
 
 ###### ARTICULO 83o.
 
 Prescribirán en un mes:
 
-I.- Las acciones para pedir la nulidad de la aceptación de un nombramiento hecho por error y la nulidad de un nombramiento expedido en contra de lo dispuesto en esta Ley (sic), contando el término a partir del momento en que el error sea conocido.
+I.- Las acciones para pedir la nulidad de la aceptación de un nombramiento hecho por error y la nulidad de un nombramiento expedido en contra de lo dispuesto en esta Ley, contando el término a partir del momento en que el error sea conocido.
 
 II.- Las acciones de los trabajadores para volver a ocupar el puesto que hayan dejado por accidente o enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo.
 
-III.- las acciones para exigir la indemnización que esta Ley (sic) concede por despido injustificado, a partir del momento de la separación.
+III.- Las acciones para exigir la indemnización que esta Ley concede por despido injustificado, a partir del momento de la separación.
 
 IV.- Las acciones de los funcionarios para suspender a los trabajadores por causa justificada y para disciplinar las faltas de éstos, contando el plazo desde el momento en que se dé causa para la separación o de que sean conocidas las faltas.
 
@@ -729,7 +729,7 @@ La prescripción no puede comenzar ni correr:
 
 I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley, a menos que la prescripción hubiere comenzado contra sus causantes, y
 
-II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley (sic) se hayan hecho acreedores a indemnización.
+II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización.
 
 ###### ARTICULO 86o.
 
@@ -783,7 +783,7 @@ Los miembros del Tribunal de Arbitraje sólo podrán ser removidos antes de la f
 
 Los miembros del Tribunal contarán con los Secretarios que fueren necesarios y con el personal inferior indispensable, teniendo los primeros el carácter de actuarios para evacuar todas las diligencias que les fueren encomendadas por los Árbitros.
 
-Los Secretarios y los empleados del Tribunal estarán sujetos a la presente Ley (sic), pero los conflictos que se suscitaren con motivo de la aplicación de la misma, serán resueltos por las Autoridades del Trabajo del Estado.
+Los Secretarios y los empleados del Tribunal estarán sujetos a la presente Ley, pero los conflictos que se suscitaren con motivo de la aplicación de la misma, serán resueltos por las Autoridades del Trabajo del Estado.
 
 ###### ARTICULO 94o.
 
@@ -885,11 +885,11 @@ Las autoridades civiles y militares estarán obligadas a prestar auxilio al Trib
 
 ## TITULO SEPTIMO.
 
-De las sanciones por infracciones a esta Ley (sic) y por desobediencia a las resoluciones del Tribunal de Arbitraje.
+De las sanciones por infracciones a esta Ley y por desobediencia a las resoluciones del Tribunal de Arbitraje.
 
 ###### ARTICULO 111o.
 
-Las infracciones a la presente Ley (sic) que no tengan establecida otra sanción y la desobediencia a las resoluciones del Tribunal de Arbitraje se castigarán:
+Las infracciones a la presente Ley que no tengan establecida otra sanción y la desobediencia a las resoluciones del Tribunal de Arbitraje se castigarán:
 
 I.- Con multa hasta de $1,000.00 y
 
@@ -901,11 +901,11 @@ TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
 
-Esta Ley (sic) entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+Esta Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-La formación de los escalafones para ajustarlos a las disposiciones de esta Ley (sic), se hará desde luego y de común acuerdo, por las Autoridades Educativas y la Sección Sindical, comprobando en cada caso la competencia del trabajador. Si surgiere divergencia de pareceres, resolverán en ultima instancia, el C. Gobernador del Estado, si se tratare de un trabajador de la Educación a su servicio o el Tribunal de Arbitraje si fuese trabajador de los Municipios.
+La formación de los escalafones para ajustarlos a las disposiciones de esta Ley, se hará desde luego y de común acuerdo, por las Autoridades Educativas y la Sección Sindical, comprobando en cada caso la competencia del trabajador. Si surgiere divergencia de pareceres, resolverán en ultima instancia, el C. Gobernador del Estado, si se tratare de un trabajador de la Educación a su servicio o el Tribunal de Arbitraje si fuese trabajador de los Municipios.
 
 ###### ARTICULO TERCERO.
 
@@ -913,7 +913,7 @@ El Tribunal de Arbitraje se organizará y funcionará de conformidad con su regl
 
 ###### ARTICULO CUARTO.
 
-La designación de Árbitros del Tribunal de Arbitraje se hará dentro de un término de treinta días a contar de la publicación de ésta Ley (sic), y entre tanto tomando posesión los que se nombran, de acuerdo con las organizaciones de dicho personal, seguirán actuando los órganod legalex (sic) que sobre el particular existen".
+La designación de Árbitros del Tribunal de Arbitraje se hará dentro de un término de treinta días a contar de la publicación de ésta Ley, y entre tanto tomando posesión los que se nombran, de acuerdo con las organizaciones de dicho personal, seguirán actuando los órganod legalex (sic) que sobre el particular existen".
 
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, a los veinticinco días del mes de Marzo de mil novecientos sesenta y uno.
 
@@ -951,21 +951,21 @@ LIC. JOSE SAUCEDO SILLER.
 
 (Rúbrica.)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE ENERO DE 1963.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CÓDIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 31 DE MAYO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE JULIO DE 2007.
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 31 DE MAYO DE 2011.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE MARZO DE 2014.
 
@@ -978,3 +978,47 @@ TERCERO.- Las autoridades escolares de las instituciones educativas establecidas
 CUARTO.- Las instituciones educativas, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios que a la entrada en vigor de la presente Ley se encuentren con permiso de suspensión deberán realizar las acciones conducentes a fin de reanudar sus labores educativas y en su caso atender lo dispuesto por el artículo 80 Bis de la presente Ley.
 
 QUINTO.- El Estatuto deberá armonizar sus términos a lo establecido por la Ley General del Servicio Profesional Docente, dentro de los seis meses siguientes a la entrada en vigor de la presente reforma.
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Este Estatuto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+De conformidad con lo establecido en el artículo octavo Transitorio de la Ley General del Servicio Profesional Docente, el personal que a la entrada en vigor del referido ordenamiento se encuentre en servicio y cuente con Nombramiento Definitivo, con funciones de docencia, de dirección o de supervisión en la Educación Básica o Media Superior impartida por el Gobierno del Estado y sus Organismos Descentralizados, se ajustará a los procesos de evaluación y a los programas de regularización a que se refiere el Capítulo VIII de dicha ley. El personal que no alcance un resultado suficiente en la tercera evaluación a que se refiere el artículo 53 de la Ley General del Servicio Profesional Docente, no será separado de la función pública y será readscrito para continuar en otras tareas dentro de dicho servicio, conforme a lo que determine la Autoridad Educativa o el Organismo Descentralizado correspondiente, o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización a que se refiere el Capítulo VIII de la Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la Autoridad Educativa o el Organismo Descentralizado, según corresponda.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido en el décimo transitorio, de la Ley General del Servicio Profesional Docente, dentro de los dieciocho meses siguientes a la entrada en vigor de la misma, la Secretaría de Educación y los Organismos Descentralizados deberán cumplir con la obligación prevista en el párrafo tercero del artículo 18 de la referida ley.
+
+Para dichos efectos, la Secretaría de Educación y los Organismos Descentralizados deberán implementar un programa integral que organice y estructure debidamente las funciones y la adscripción del Personal con Funciones de Asesoría Técnica Pedagógica en servicio.
+
+Dicho programa deberá contemplar como primera acción prioritaria que el personal en servicio que, a la entrada en vigor de esta Ley, desempeñe funciones de Asesoría Técnica Pedagógica, se reintegre a la función docente.
+
+Una acción subsecuente del programa integral será que sólo el personal que cumpla con los requisitos que la Secretaría de Educación u Organismos Descentralizados determinen expresamente podrá continuar temporalmente con las funciones de Asesoría Técnica Pedagógica, sujetándose a los procedimientos que establece la presente Ley. En ningún caso podrán desempeñar funciones administrativas.
+
+En la implementación del programa integral, la Secretaría de Educación Pública Federal propiciará la coordinación necesaria con la Secretaría de Educación y los Organismos Descentralizados.
+
+###### ARTÍCULO CUARTO.
+
+Respecto al Reglamento de Licencias previsto en el artículo 37 fracción VI del presente Estatuto éste deberá de ser publicado dentro de los seis meses siguientes a la fecha de publicación de este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Respecto al Reglamento de Escalafón señalado en el artículo 38 inciso C éste deberá de ser publicado dentro de los seis meses siguientes a la fecha de publicación del presente Estatuto.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga el Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y sus Municipios publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza el día 29 de marzo de 1961.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos que se encuentren en trámite al momento de la entrada en vigor del presente Estatuto, se substanciarán conforme a las disposiciones legales vigentes al momento en que hayan iniciado.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan al presente.
