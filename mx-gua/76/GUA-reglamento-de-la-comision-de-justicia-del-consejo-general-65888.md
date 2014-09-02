@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-comision-de-justicia-del-consejo-general-65888
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-13"
-last_updated: "2009-01-13"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA COMISION DE JUSTICIA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA COMISION DE JUSTICIA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA COMISIÓN DE JUSTICIA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CG/031/2014, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de enero de 2009.
 
@@ -33,7 +35,7 @@ CG/050/2008
 
 Acuerdo mediante el cual se aprueba el Reglamento de la Comisión de Justicia del Consejo General del Instituto Electoral del Estado de Guanajuato.
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Por lo anterior, y con fundamento en lo dispuesto por los artículos 31, párrafos segundo y tercero, de la Constitución Política del Estado de Guanajuato; 51 y 63, fracción II, del Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato, se somete a la consideración del Consejo General, el siguiente:
 
@@ -404,3 +406,25 @@ Concluido el desahogo de pruebas, el Consejero sujeto al procedimiento de remoci
 Cuando la solicitud de remoción se refiera al supuesto de la fracción IV del artículo 376 del Código, se procederá de la siguiente forma:
 
 Se dará vista al Consejero con la copia de la solicitud y sus anexos si los hubiere, para que dentro de los tres días siguientes manifieste lo que a su interés convenga. Dentro de los cinco días siguientes al vencimiento de dicho término, la Comisión emitirá la resolución correspondiente.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO NÚMERO CG/050/2008 POR EL QUE SE EMITE EL REGLAMENTO DE LA COMISIÓN DE JUSTICIA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO.</small>
+
+PRIMERO.- Se expide el Reglamento de la Comisión de Justicia del Consejo General del Instituto Electoral del Estado de Guanajuato, en los términos del anexo único de este acuerdo.
+
+SEGUNDO.- El Reglamento de la Comisión de Justicia del Consejo General del Instituto Electoral del Estado de Guanajuato, entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO.- Notifíquese por estrados.
+
+CUARTO.- Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDOS NÚMERO CG/031/2014 POR EL QUE SE ABROGA EL REGLAMENTO DE LA COMISIÓN DE JUSTICIA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO.</small>
+
+PRIMERO. Se abroga el Reglamento de la Comisión de Justicia del Consejo General del Instituto Electoral del Estado de Guanajuato, aprobado por el Consejo General del Instituto Electoral del Estado de Guanajuato, en la sesión extraordinaria del once de diciembre de dos mil ocho, y publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 8, segunda parte, de fecha trece de enero de dos mil nueve.
+
+SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
