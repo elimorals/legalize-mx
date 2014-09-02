@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4570
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-22"
-last_updated: "2009-01-27"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 22 de julio del 2005.
 
@@ -105,7 +105,9 @@ II.- Desclasificación: Acto por el cual se determina la publicidad de informaci
 
 III.- Instituto: El Instituto Electoral del Estado de Guanajuato;
 
-IV.- Ley: La Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+IV.- Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato;
 
 V.- Reglamento: El Reglamento de la Unidad de Acceso a la Información Pública del Instituto;
 
@@ -115,7 +117,7 @@ VII.- Solicitante: La persona física o moral que, por sí o por medio de su rep
 
 VIII.- Titular: El titular de la Unidad de Acceso a la Información Pública.
 
-IX.- Unidad de Acceso: La Unidad de Acceso ala Información Pública del Instituto; y,
+IX.- Unidad de Acceso: La Unidad de Acceso a la Información Pública del Instituto; y,
 
 X.- Unidad Administrativa: Cada una de las Secretarías, Direcciones y Coordinaciones del Instituto, así como la Contraloría y la Comisión de Fiscalización del propio Instituto.
 
@@ -123,7 +125,9 @@ X.- Unidad Administrativa: Cada una de las Secretarías, Direcciones y Coordinac
 
 Para los efectos del presente Reglamento, son días hábiles todos los días del año a excepción de los sábados, domingos y días de descanso obligatorio en los términos de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, así como aquellos en los que no se labore en el Instituto.
 
-Las solicitudes de acceso a la información se recibirán los días hábiles en la oficina de la Unidad de Acceso, en el horario comprendido de las 9:00 a las 17:00 horas.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Las solicitudes de acceso a la información se recibirán los días hábiles en la oficina de la Unidad de Acceso, en el horario comprendido de las 8:30 a las 16:00 horas.
 
 ###### Artículo 4.
 
@@ -137,9 +141,9 @@ El acceso a la información pública es gratuito: sin embargo, cuando la entrega
 
 La Unidad de Acceso deberá comunicar al Solicitante la disponibilidad de la información.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-Si en el plazo de sesenta días naturales, contados a partir del día hábil siguiente al de la notificación del oficio de respuesta por el que se le comunica al Solicitante que la información ya se encuentra a su disposición, éste no acude a la oficina de la Unidad de Acceso a recogerla, el medio en el que se haya reproducido podrá ser destruido sin responsabilidad para el Instituto.
+El Solicitante contará con un plazo de quince días hábiles, contados a partir del día hábil siguiente al de la notificación del oficio de respuesta, para acudir por la información puesta a su disposición. Cuando el Solicitante no acuda por la información, el medio en el que se haya reproducido será archivado de conformidad con la Ley de Archivos Generales del Estado y los Municipios de Guanajuato.
 
 ###### Artículo 5.
 
@@ -175,11 +179,19 @@ Asimismo, se otorgará información en forma verbal cuando sea con fines de orie
 
 La información se entregará en el estado en que se encuentre. La obligación de proporcionar acceso a la información no incluye su procesamiento ni su presentación conforme al interés del Solicitante.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-En los rubros que sean de su competencia, las Unidades Administrativas del Instituto deberán proporcionar a la Unidad de Acceso la información a que se refiere el artículo 10 de la Ley, la cual se publicará de oficio en la página de Internet institucional y deberá actualizarse al menos cada tres meses.
+En los rubros que sean de su competencia, las Unidades Administrativas del Instituto deberán proporcionar a la Unidad de Acceso la información a que se refiere el artículo 12 de la Ley, la cual se publicará de oficio en la página de internet institucional por conducto de la Coordinación de Comunicación y Difusión.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+La información que los partidos políticos proporcionen al Instituto o que este genere respecto a los mismos, por regla general deberá ser pública y sólo se podrá reservar por excepción, en los términos que disponga la Ley, y deberá estar a disposición de toda persona a través de la página electrónica del Instituto.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Para su publicación, la Unidad de Acceso requerirá mensualmente la información a las distintas Unidades Administrativas del Instituto.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -217,9 +229,9 @@ VII.- No tener antecedentes de militancia partidaria activa y pública, en los t
 
 La Unidad de Acceso, además de las atribuciones previstas en la Ley, tendrá las siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-I.- Recibir las solicitudes de información y revisar de oficio los requisitos que deben contener, de conformidad con lo establecido por el artículo 39 de la Ley;
+I.- Recibir las solicitudes de información y revisar de oficio los requisitos que deben contener, de conformidad con lo establecido por el artículo 40 de la Ley;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -259,13 +271,13 @@ d) El resultado de las solicitudes; y,
 
 e) El tiempo de respuesta de las mismas.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-IX.- Elaborar semestralmente, en coordinación con las Unidades Administrativas, un índice por rubros temáticos de la información clasificada como reservada;
+IX.- Elaborar y mantener la actualización del índice de clasificación del Instituto de conformidad con el artículo 19 de la Ley;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-X.- Solicitar a las Unidades Administrativas la remisión de información a que se refiere el artículo 10 de la Ley, debiendo actualizarla trimestralmente; y,
+X.- Solicitar a las Unidades Administrativas la remisión de información a que se refiere el artículo 12 de la Ley, debiendo actualizarla mensualmente; y,
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -281,19 +293,25 @@ El Titular hará la clasificación de la información en pública, reservada y c
 
 Los Responsables deberán proporcionar al Titular la información necesaria para que éste cumpla lo dispuesto en el artículo anterior, debiendo dar su opinión acerca del carácter que debe tener la información.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-En caso de que el Titular no esté de acuerdo con el carácter propuesto para la información por parte del Responsable, deberá hacerlo de su conocimiento, para que éste, con base en los argumentos expresados por el Titular, reconsidere su propuesta. De persistir el desacuerdo, el Titular lo informará al Consejo General del Instituto para que se acuerde el carácter que debe tener la información, debiéndose cumplir en todo caso los plazos legales.
+En caso de que el Titular no esté de acuerdo con el carácter propuesto para la información por parte del Responsable, deberá hacerlo de su conocimiento por escrito, para que reconsidere su propuesta, misma que deberá remitir a más tardar el día hábil siguiente al de la fecha de recepción del oficio por el cual se le solicite la reconsideración. Tomando en cuenta los argumentos presentados por el Responsable, el Titular realizará la clasificación, sujetándose a las disposiciones de la Ley.
 
-###### Artículo 14
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-De conformidad con lo dispuesto por el artículo 41 de la Ley, en los expedientes y documentos que contengan partes o secciones reservadas o confidenciales, los Responsables deberán señalar aquellas a efecto de identificarlas y omitir su publicación.
+###### Artículo 14.
 
-###### Artículo 15
+De conformidad con lo dispuesto por el artículo 42 de la Ley, en los expedientes y documentos que contengan partes o secciones reservadas o confidenciales, los Responsables deberán señalarlas a efecto de identificarlas y omitir su publicación.
 
-Al clasificar la información con fundamento en alguna de las fracciones establecidas en el artículo 14 de la Ley, deberá considerarse la existencia de elementos objetivos que permitan determinar si la difusión de la información causaría un daño presente o futuro a los intereses jurídicos tutelados por dicho precepto.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-Al clasificar la información con fundamento en alguna de las fracciones establecidas en el artículo 18 de la Ley, bastará con que la misma encuadre en alguno de los supuestos a que se refiere dicho artículo.
+###### Artículo 15.
+
+Al clasificar la información con fundamento en alguna de las fracciones establecidas en el artículo 16 de la Ley, deberá considerarse la existencia de elementos objetivos que permitan determinar si la difusión de la información causaría un daño presente o futuro a los intereses jurídicos tutelados por dicho precepto.
+
+Al clasificar la información con fundamento en alguna de las fracciones establecidas en el artículo 20 de la Ley, bastará con que la misma encuadre en alguno de los supuestos a que se refiere dicho artículo.
 
 ###### Artículo 16.
 
@@ -309,9 +327,11 @@ Los expedientes y documentos clasificados como reservados deberán llevar una le
 
 Cuando un expediente contenga documentos públicos y reservados, se deberán entregar aquellos que estén clasificados como públicos. Tratándose de un documento que contenga información tanto pública como reservada, se deberá entregar una versión en la que se omita esta última; en tales casos, deberán señalarse las partes o secciones que fueron eliminadas. Las reproducciones de los expedientes o documentos que se entreguen constituirán las versiones públicas correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 18.
 
-La Unidad de Acceso elaborará semestralmente y por rubros temáticos, los índices de información o de los expedientes clasificados como reservados a que se refiere el artículo 17 de la Ley, a partir de catálogos de información que le remitan las Unidades Administrativas. Dichos índices deberán contener:
+La Unidad de Acceso elaborará y mantendrá la actualización del índice de información de expedientes clasificados como reservados a que se refiere el artículo 19 de la Ley, dicho índice deberá contener:
 
 a) La Unidad Administrativa que genere la información;
 
@@ -321,7 +341,9 @@ c) El fundamento legal; y,
 
 d) El plazo de reserva.
 
-Para facilitar lo anterior, la información que genere cada Unidad Administrativa, y que sea clasificada con el carácter de reservada, será inscrita en el índice en un plazo de cinco días hábiles. En ningún caso el índice será considerado como información reservada. La actualización de dicho índice será en los meses de enero y julio de cada año.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Para facilitar lo anterior, los acuerdos de clasificación de información reservada, serán inscritos en el índice en un plazo de quince días hábiles, contados a partir de su emisión. En ningún caso el índice será considerado como información reservada.
 
 Para los mismos efectos, la información clasificada como reservada, y que deje de serlo, se pondrá a disposición del público a partir del momento en que se venza el plazo para su desclasificación o cese la causa que originó la clasificación como reservada.
 
@@ -331,11 +353,13 @@ Para los mismos efectos, la información clasificada como reservada, y que deje 
 
 Los expedientes y documentos clasificados como reservados serán debidamente custodiados y conservados por las Unidades Administrativas, conforme a los lineamientos que expida la Unidad de Acceso y a lo dispuesto por el Reglamento de Archivos del Instituto Electoral del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 20.
 
-El periodo máximo de reserva será de diez años. Los Responsables propondrán al Titular el periodo de reserva en cada caso, procurando que sea el estrictamente necesario, siempre que subsistan las causas que dieron origen a la clasificación. Para establecer dicho periodo, el Titular tomará en cuenta las circunstancias de modo y lugar relacionadas con la información al momento de su clasificación.
+El periodo máximo de reserva será de cinco años. Los Responsables propondrán al Titular el periodo de reserva en cada caso, procurando que sea el estrictamente necesario, siempre que subsistan las causas que dieron origen a la clasificación. Para establecer dicho periodo, el Titular tomará en cuenta las circunstancias de modo y lugar relacionadas con la información al momento de su clasificación.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 El periodo de reserva se contará a partir de la generación del documento, expediente o información de que se trate.
 
@@ -353,9 +377,11 @@ II.- No habiendo transcurrido el periodo de reserva, ya no subsistan las causas 
 
 III.- Cuando así lo determine el Instituto de Acceso a la Información Pública en la resolución de los medios de impugnación a que se refiere el Título Tercero de la Ley.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Para la tramitación de la ampliación del periodo de reserva, el Titular lo comunicará al Consejo General, y de conformidad con lo dispuesto por el artículo 15 de la Ley, éste podrá solicitar al Instituto de Acceso a la Información Pública del Estado de Guanajuato dicha ampliación, tres meses antes de que concluya el mismo.
+Para el trámite de ampliación del periodo de reserva, el Titular lo comunicará al Consejo General, y de conformidad con lo dispuesto en el artículo 17 de la Ley, este solicitará al Instituto de Acceso a la Información Pública del Estado de Guanajuato dicha ampliación, antes de que concluya el periodo en cuestión.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -371,37 +397,45 @@ La información confidencial no estará sujeta a plazos de vencimiento y tendrá
 
 ###### Artículo 26.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 27.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 28.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-Las solicitudes de información se harán por escrito y podrán realizarse en forma personal, por oficio, fax, correo certificado, mensajería, telegrama o vía Internet, y deberán contener los requisitos que establece el artículo 39 de la Ley.
+Las solicitudes de información se harán por escrito y podrán realizarse en forma personal, por oficio, fax, correo certificado, mensajería, telegrama o vía internet, y deberán contener los requisitos que establece el artículo 40 de la Ley.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés jurídico alguno.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+
 La respuesta a las solicitudes de información por parte de la Unidad de Acceso, se proporcionará por escrito en cualquiera de las formas establecidas en el primer párrafo de este artículo, o bien, se hará la notificación de entrega de la información en el domicilio o en la dirección electrónica que haya proporcionado el Solicitante para oír y recibir notificaciones.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
 En el caso de que el domicilio señalado se encuentre fuera de la ciudad de residencia de la Unidad de Acceso, el Solicitante deberá cubrir los gastos de envío correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 30.
 
 Una vez recibida la solicitud respectiva en la Unidad de Acceso, ésta deberá:
 
-I.- Verificar que la solicitud cumpla los requisitos del artículo 39 de la Ley;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+I.- Verificar que la solicitud cumpla los requisitos del artículo 40 de la Ley;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -409,41 +443,43 @@ II.- Determinar si la Unidad Administrativa cuenta con la información; y
 
 III.- Revisar el carácter de la información solicitada y, en su caso, clasificarla o desclasificarla.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Si del análisis de la solicitud se determina qua los datos proporcionados en la misma no son suficientes para localizar los documentos, o son erróneos; dentro de los dos días hábiles siguientes al de la recepción de la solicitud, la Unidad de Acceso procederá de acuerdo a lo dispuesto en el último párrafo del artículo 39 de la Ley.
+Si del análisis de la solicitud se determina que los datos proporcionados son insuficientes para localizar la información o existen omisiones que deban ser subsanadas, la Unidad de Acceso a más tardar el día hábil siguiente procederá a realizar un requerimiento de aclaración.
 
-Mediante el requerimiento, la Unidad de Acceso informará al Solicitante las omisiones o errores que deben ser subsanados, notificándole que cuenta con un plazo de diez días hábiles contados a partir del día siguiente al de la notificación, para que aclare, corrija o complete su solicitud, apercibiéndole que de no hacerlo, ésta será desechada.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-El término de quince días hábiles contemplado en la Ley para proporcionar la información, se interrumpe hasta en tanto el Solicitante satisfaga el requerimiento. En caso de que éste no sea cumplido, se desechará de plano la solicitud.
+El requerimiento indicará al Solicitante que cuenta con un plazo de tres días hábiles contados a partir del día siguiente al de la notificación, para que aclare, corrija o complete su solicitud, apercibiéndole que de no hacerlo, su solicitud será desechada.
 
-En caso de modificación sustancial de la solicitud de información en virtud de la respuesta al requerimiento, comenzara a correr un nuevo plazo de quince días hábiles, de conformidad con lo previsto en el artículo 42 de la Ley.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+El plazo de cinco días hábiles contemplado en el artículo 43 de la Ley, se suspende hasta en tanto el Solicitante satisfaga el requerimiento.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-Cuando la solicitud de información contenga los datos necesarios para darle trámite, se requerirá la información respectiva al Responsable que corresponda dentro de los dos días hábiles siguientes a aquel en que se haya recibido la solicitud.
+Cuando la solicitud de información contenga los datos necesarios para darle trámite, se requerirá la información respectiva al Responsable que corresponda a más tardar el día hábil siguiente a aquel en que se haya recibido la solicitud.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-El Responsable contará con un plazo de dos días hábiles para revisar la petición de la Unidad de Acceso, a efecto de determinar:
+El Responsable contará con un plazo de tres días hábiles, contados a partir del día siguiente al de la recepción del oficio de solicitud, para remitir a la Unidad de Acceso la información solicitada.
 
-I.- Si se cuenta con la información;
+Si el Responsable considera que no le son suficientes los datos proporcionados por el solicitante para localizar la información, de conformidad con lo estipulado en el artículo 31 de este ordenamiento, a más tardar el día hábil siguiente a aquel en que haya recibido la solicitud, pedirá a la Unidad de Acceso se proceda a emitir requerimiento de aclaración.
 
-II.- Si le son suficientes los datos que proporcionó el Solicitante, a efecto de dar respuesta a la solicitud remitida. En caso de que considere que no le son suficientes dichos datos, pedirá al Titular que requiera al Solicitante de conformidad con lo estipulado en el artículo 31 de este ordenamiento; y
+Si la información solicitada no se encuentra en los archivos de la Unidad Administrativa requerida, a más tardar el día hábil siguiente lo deberá notificar a la Unidad de Acceso. La Unidad de Acceso turnará la solicitud a otra Unidad Administrativa, o en su caso, notificará la inexistencia de la información.
 
-III.- El soporte material que deberá recuperarse, con la finalidad de que la Unidad de Acceso lo comunique al Solicitante.
-
-Si la información es pública, el Responsable deberá remitirla a la Unidad de Acceso dentro de los seis días hábiles siguientes al de la recepción de la solicitud en la Unidad Administrativa, a fin de que se le dé el trámite correspondiente.
-
-Si en el plazo señalado no existe respuesta de la Unidad Administrativa o ésta no ha llevado a cabo las actividades que le corresponden, el Titular la requerirá a fin de que, de inmediato, dé contestación a la petición; en caso de ignorar dicho requerimiento, tal circunstancia se hará del conocimiento del Consejo General.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 34.
 
-Si la información solicitada no se encuentra en los archivos de la Unidad Administrativa, ésta deberá notificar a la Unidad de Acceso dentro de los dos días hábiles siguientes a aquel en que haya recibido la solicitud, a fin de que se apliquen las medidas pertinentes para localizar la información solicitada y se culmine el trámite correspondiente.
+De no acatar los plazos señalados en el artículo anterior, el Titular requerirá al Responsable la inmediata contestación a la solicitud; la desatención al requerimiento se hará del conocimiento del Consejo General para los efectos legales conducentes.
 
 ###### Artículo 35.
 
@@ -459,65 +495,65 @@ Si dentro del término de dos días hábiles, el titular de los datos personales
 
 ### CAPÍTULO QUINTO. DE LA AMPLIACIÓN DEL PLAZO PARA LA ENTREGA DE INFORMACIÓN
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-En caso de requerimiento de información a alguna Unidad Administrativa, ésta podrá solicitar a la Unidad de Acceso, dentro de los tres días hábiles siguientes a aquel en que haya recibido la solicitud, la ampliación del plazo para la entrega, exponiendo los motivos para dicha ampliación, la cual no excederá de diez días hábiles.
+En caso de requerimiento de información a alguna Unidad Administrativa, esta podrá solicitar a la Unidad de Acceso, dentro de los tres días hábiles siguientes a aquel en que haya recibido la solicitud, la ampliación del plazo para su entrega, exponiendo las razones que la fundan y motivan. La ampliación no excederá de tres días hábiles.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-La Unidad de Acceso resolverá dentro de los dos días hábiles siguientes a la presentación de la solicitud de ampliación del plazo, si procede o no, informando de ello a la Unidad Administrativa solicitante, señalando el plazo de ampliación, el cual no excederá de diez días hábiles.
+La Unidad de Acceso resolverá en el mismo día de la presentación de la solicitud de ampliación de plazo, si procede o no, informando de ello a la Unidad Administrativa solicitante.
 
 ###### Artículo 39.
 
 No podrán invocarse como causales de ampliación del plazo los motivos que supongan negligencia o descuido de la Unidad Administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2009)</small>
 
 ###### Artículo 40.
 
 Podrán ser causas de ampliación del plazo para la entrega de información:
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-I.- Que el Instituto posea la información solicitada, pero sea materialmente imposible entregarla en el plazo previsto por el artículo 42 de la Ley;
+I.- Que el Instituto posea la información solicitada, pero sea materialmente imposible entregarla en el plazo previsto por el artículo 43 de la Ley;
 
 II.- Que el volumen de la información solicitada sea muy extenso; y,
 
 III.- Por causa de fuerza mayor ocaso fortuito, a juicio de la Unidad de Acceso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
-La Unidad de Acceso notificará al Solicitante la ampliación del plazo para la entrega de la información, dentro de los dos días hábiles siguientes a aquel en que se autorice la ampliación.
+La Unidad de Acceso notificará al Solicitante la ampliación del plazo para la entrega de la información, dentro del plazo de cinco días hábiles siguientes a la presentación de su solicitud.
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA LA CORRECCIÓN DE DATOS
 
 ###### Artículo 41.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 42.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 43.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 44.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 45.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### Artículo 46.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCION DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ### CAPÍTULO SÉPTIMO. DE LAS NOTIFICACIONES
 
@@ -561,9 +597,11 @@ En caso de que la persona con quien se entiende la diligencia se niegue a recibi
 
 ### CAPÍTULO OCTAVO. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Son causas de responsabilidad administrativa de los servidores públicos del Instituto, el incurrir en alguno de los supuestos previstos en el artículo 54 de la Ley o demás ordenamientos legales aplicables.
+Son causas de responsabilidad administrativa de los servidores públicos del Instituto, el incurrir en alguno de los supuestos previstos en el artículo 89 de la Ley o demás ordenamientos legales aplicables.
 
 ###### Artículo 52.
 
@@ -571,7 +609,7 @@ A los servidores públicos del Instituto que incurran en las responsabilidades a
 
 Las medidas de corrección y las sanciones que se apliquen al servidor público, se impondrán respetando siempre el derecho de audiencia, debiendo, en ambos casos, comunicárselo por escrito, precisando los motivos y fundamentos en que se base.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 26 DE DICIEMBRE DE 2006.
 
@@ -590,3 +628,13 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL REGLA
 SEGUNDO.- Notifíquese por estrados.
 
 TERCERO.- Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+...
+
+SEGUNDO. Las modificaciones al Reglamento de la Unidad de Acceso a la Información Pública del Instituto Electoral del Estado de Guanajuato, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
