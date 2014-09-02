@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-medio-ambiente-51934"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-22"
-last_updated: "2007-06-19"
+last_updated: "2014-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL MEDIO AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL MEDIO AMBIENTE, PUBLICADO EN LA G.G. DE 2 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de septiembre de 2006.
 
@@ -43,7 +45,7 @@ El presente Reglamento tiene por objeto regular la organización y el funcionami
 
 Cuando en el presente ordenamiento jurídico se haga referencia a la Secretaría, se entenderá a la Secretaría del Medio Ambiente; Secretario, al Secretario del Medio Ambiente y Dirección, a la Dirección de Concertación y Participación Ciudadana.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE JUNIO DE 2007)</small>
 
 ###### Artículo 2.
 
@@ -95,7 +97,7 @@ La Secretaría contará con las demás unidades administrativas que le sean auto
 
 La Secretaría, Subsecretaría, Direcciones Generales, Dirección, Coordinaciones, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma programada con base en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE JUNIO DE 2007)</small>
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO Y DEL SUBSECRETARIO
 
@@ -555,7 +557,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 19 DE JUNIO DE 2007.
 
@@ -564,3 +566,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 2 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el periódico oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría del Medio Ambiente de fecha 22 de septiembre de 2006 publicado en el periódico oficial “Gaceta del Gobierno”.
+
+CUARTO. Cuando otros ordenamientos jurídicos, administrativos y cualquier otro documento o papelería hagan referencia a la Dirección General de Concertación y Participación Ciudadana, se entenderá a la Dirección de Concertación y Participación Ciudadana.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las contenidas en el presente Reglamento.
