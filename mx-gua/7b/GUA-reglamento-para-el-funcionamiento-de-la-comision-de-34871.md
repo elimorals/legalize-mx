@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-el-funcionamiento-de-la-comision-de-34871"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2003-10-24"
+last_updated: "2014-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE LA COMISION DE PARTICIPACION CIUDADANA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DE LOS CENTROS MUNICIPALES
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DE LA COMISION DE PARTICIPACION CIUDADANA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DE LOS CENTROS MUNICIPALES
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DE LOS CENTROS MUNICIPALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de octubre de 2003.
 
@@ -59,7 +59,7 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I.- Centros Municipales: son los órganos encargados de la preparación, desarrollo y vigilancia de los mecanismos de participación ciudadana dentro de sus respectivas circunscripciones; son dependientes de la Comisión y funcionan durante el desarrollo de los mecanismos con residencia en la cabecera de cada municipio;
 
-II.- Código: Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
+II. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2014)
 
 III.- Comisión: Comisión de Participación Ciudadana del Consejo General del Instituto Electoral del Estado de Guanajuato;
 
@@ -69,7 +69,9 @@ V.- Instituto: Instituto Electoral del Estado de Guanajuato;
 
 VI.- Ley: Ley de Participación Ciudadana para el Estado de Guanajuato; y
 
-VII.- Secretario Ejecutivo: El Secretario Ejecutivo de la Comisión Ejecutiva del Instituto.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto.
 
 ###### Artículo 4.
 
@@ -107,21 +109,29 @@ XII.- Proponer al Consejo las modificaciones al presente Reglamento que se requi
 
 XIII.- Las demás que le confieran el Código y el Consejo.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-La Comisión para el mejor desempeño de sus atribuciones contará con el apoyo de la Comisión Ejecutiva del Instituto, así como con el personal técnico y administrativo que estime necesario el Consejo.
+La Comisión para el mejor desempeño de sus atribuciones contará con el apoyo de la Junta Estatal Ejecutiva del Instituto, así como con el personal técnico y administrativo que estime necesario el Consejo.
 
 ### CAPÍTULO III. FUNCIONAMIENTO DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-La Comisión tendrá el carácter de permanente y entrará en funciones cuando se solicite llevar a cabo alguno de los mecanismos de Participación Ciudadana. Se integrará con el Presidente del Consejo, dos Consejeros Ciudadanos y el Secretario del Consejo quien fungirá como Secretario de la Comisión.
+La Comisión tendrá el carácter de permanente y entrará en funciones cuando se solicite llevar a cabo alguno de los mecanismos de Participación Ciudadana. Se integrará con el Presidente del Consejo, dos Consejeros Electorales y el Secretario Ejecutivo quien fungirá como Secretario de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-El Presidente del Consejo presidirá la Comisión, los dos Consejeros Ciudadanos serán designados de entre los cuatro Consejeros Propietarios mediante sorteo en la Sesión que para tal efecto lleve a cabo el Consejo.
+El Presidente del Consejo presidirá la Comisión, los dos Consejeros Electorales serán designados de entre los seis Consejeros Electorales mediante sorteo en la Sesión que para tal efecto lleve a cabo el Consejo.
 
-Los primeros Consejeros Ciudadanos que resulten sorteados serán Integrantes de la Comisión y los dos últimos entrarán en funciones según el orden en que fueron sorteados, en caso de ausencia temporal o definitiva de aquellos.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
+Los primeros Consejeros Electorales que resulten sorteados serán Integrantes de la Comisión y los cuatro restantes entrarán en funciones según el orden en que fueron sorteados, en caso de ausencia temporal o definitiva de aquellos.
 
 Los integrantes de la Comisión tendrán derecho a voz y voto, con excepción del Secretario quien tendrá sólo derecho a voz.
 
@@ -259,35 +269,33 @@ Los Centros Municipales se integrarán con un Coordinador, un Secretario y el pe
 
 El personal del Instituto podrá fungir como integrante de los Centros Municipales, previo acuerdo de la Comisión.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
 Los integrantes de los Centros Municipales además de lo que señale la convocatoria correspondiente, deberán reunir los siguientes requisitos:
 
-I.- Ser ciudadanos guanajuatenses en pleno ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
 
-II.- Estar inscritos en el padrón electoral y contar con credencial para votar con fotografía;
+II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
 
-III.- No tener antecedentes de militancia partidaria activa y pública;
+III. Tener más de 30 años de edad al día de la designación;
 
-IV.- No haber sido sentenciados ni estar sujetos a proceso por la comisión de un delito doloso;
+IV. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura;
 
-V.- Gozar de buena reputación y prestigio; y
+V. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-VI.- Preferentemente deberán contar con una formación o experiencia y disposición para garantizar la legalidad, imparcialidad y objetividad de su actuación.
+VI. Ser guanajuatense o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
 
-Para los efectos de la fracción III de este dispositivo, se entiende por militancia partidaria activa y pública:
+VII. No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
 
-a) Desempeñar o haber desempeñado cualquier cargo de dirigencia dentro de un partido político nacional o estatal;
+VIII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
 
-b) Ser o haber sido candidato a puesto de elección popular representando a un partido político nacional o estatal;
+IX. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local, y
 
-c) Ser o haber sido representante de candidato o de partido en el ámbito estatal o federal, ante organismos electorales;
+X. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado (sic) tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Jefe de Gobierno del Distrito Federal, ni Gobernador, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos.
 
-d) Ser o haber sido coordinador de campaña política de candidato a puesto de elección popular, en comicios federales, estatales o municipales; y
-
-e) Manifestarse o haberse manifestado públicamente a través de medios de comunicación social extranjeros, nacionales o estatales, en favor de un candidato o de un partido.
-
-El Secretario preferentemente será licenciado en derecho.
+El Secretario preferentemente será Licenciado en Derecho.
 
 Artículo 27 (sic).- Además de las atribuciones señaladas en la Ley, los Centros Municipales tendrán las siguientes:
 
@@ -363,7 +371,7 @@ VI.- Las que expresamente les confiera la Comisión, conforme a las disposicione
 
 ÚNICO.- El presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- COMUNÍQUESE ESTE ACUERDO AL H. CONGRESO DEL ESTADO. (SIC)
+SEGUNDO.- COMUNÍQUESE ESTE ACUERDO AL H. CONGRESO DEL ESTADO.
 
 TERCERO.- NOTIFÍQUESE POR ESTRADOS.
 
@@ -380,3 +388,13 @@ PRESIDENTE DEL CONSEJO
 C. LIC. JESÚS BADILLO LARA
 
 SECRETARIO DEL CONSEJO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL ACUERDO CG/036/2014 POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO PARA EL FUNCIONAMIENTO DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DE LOS CENTROS MUNICIPALES.</small>
+
+SEGUNDO. Las modificaciones al Reglamento para el funcionamiento de la Comisión de Participación Ciudadana del Consejo General del Instituto Electoral del Estado de Guanajuato y de los centros municipales, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
