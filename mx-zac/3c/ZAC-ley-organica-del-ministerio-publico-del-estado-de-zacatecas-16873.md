@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2014-07-05"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
@@ -1418,3 +1420,23 @@ P.O. 5 DE JULIO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Ministerio Público del Estado de Zacatecas, publicada en Suplemento número 1 al 65 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 12 de agosto de 2000.
+
+Artículo Tercero.- Se deroga el artículo 58 Fracción VIII de la Ley del Sistema Estatal de Seguridad Pública de Zacatecas.
+
+Artículo Cuarto.- En los distritos judiciales donde aún no entre en vigor el Nuevo Sistema de Justicia Penal Acusatorio y por ende el Código Nacional de Procedimientos Penales, deberán observarse las disposiciones relativas y aplicables del Código de Procedimientos Penales y el Código Procesal Penal del Estado de Zacatecas, según el caso.
+
+En los mencionados distritos, la función de investigación será coordinada por la Subprocuraduría de Investigaciones y Procesos Penales, mientras que el seguimiento de los Procedimientos Jurisdiccionales estará a cargo de la Subprocuraduría de Control, Justicia Alternativa y Capacitación.
+
+Artículo Quinto.- Los procedimientos de responsabilidad administrativa, seguidos a servidores públicos que se encuentran en trámite o pendientes de resolución, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
+
+Artículo Sexto.- Las conductas u omisiones de los servidores públicos de la Procuraduría General, no sancionados en esta ley, pero si previstas y sancionadas en otros ordenamientos, se sujetarán a lo establecido por los mismos.
+
+Artículo Séptimo.- El Reglamento de la presente Ley, deberá expedirse dentro de los noventa días siguientes a la publicación del presente decreto.
+
+Artículo Octavo.- Los Agentes del Ministerio Público, Agentes de la Policía Ministerial, Oficiales Secretarios, y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General, deberán someterse a las disposiciones reglamentarias del Servicio Profesional de Carrera para su permanencia en la dependencia.
