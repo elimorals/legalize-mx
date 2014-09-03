@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-instituto-estatal-de-ciencias-95336"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, PUBLICADO EN EL P.O. 3 DE SEPTIEMBRE DE 2014, A PARTIR DE LA PUBLICACIÓN DE LA PRESENTE REFORMA, TODAS LAS REFERENCIAS QUE EN LAS LEYES, DECRETOS, REGLAMENTOS, CONVENIOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE HAGAN AL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA, SE ENTENDERÁN TAMBIÉN COMO HECHAS AL INECIPE, COMO UNA FORMA DE IDENTIDAD INSTITUCIONAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 31 de julio de 2013.
 
@@ -39,9 +41,11 @@ Reglamento Interior del Instituto Estatal de Ciencias Penales y Seguridad Públi
 
 ### CAPÍTULO I. DE LA NATURALEZA
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública de Sinaloa, es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propio, el cual gozará de autonomía técnica, de gestión y presupuestal.
+El Instituto Estatal de Ciencias Penales y Seguridad Pública, es un Organismo Público Descentralizado del Gobierno del Estado sectorizado en el Sistema Estatal de Seguridad Pública, de conformidad con el artículo 239 de la Ley de Seguridad Pública del Estado de Sinaloa y cuenta con personalidad jurídica y patrimonio propio, el cual gozará de autonomía técnica, de gestión y presupuestal.
 
 ###### Artículo 2.
 
@@ -65,7 +69,9 @@ V. Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procura
 
 VI. Instituciones Policiales: Los Cuerpos de policía estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios y de justicia para adolescentes, de detención preventiva, de tribunales de barandilla; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
-VII. Instituto: El Instituto Estatal de Ciencias Penales y Seguridad Pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Instituto y/o INECIPE: el Instituto Estatal de Ciencias Penales y Seguridad Pública;
 
 VIII. Junta de Gobierno: La Junta de Gobierno del Instituto Estatal de Ciencias Penales y Seguridad Pública;
 
@@ -73,9 +79,11 @@ IX. Ley de Seguridad: La Ley de Seguridad Pública del Estado de Sinaloa;
 
 X. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
-XI. Ley Orgánica: La Ley Orgánica del Instituto Estatal de Ciencias Penales y Seguridad Pública del Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
-XII. Patronato: El Patronato del Instituto Estatal de Ciencias Penales y Seguridad Pública;
+XI. Ley Orgánica: La Ley Orgánica del Instituto Estatal de Ciencias Penales y Seguridad Pública;
+
+XII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 XIII. Personal Administrativo: Los Servidores públicos del Instituto que desempeñen tareas en virtud de un nombramiento oficial o que figuren en las nóminas de pago;
 
@@ -225,7 +233,7 @@ II. El Consejo Académico;
 
 III. El Consejo de Honor y Justicia;
 
-IV. El Patronato.
+IV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 #### SECCIÓN I. DE LA JUNTA DE GOBIERNO
 
@@ -241,7 +249,7 @@ III. Vocal, que será el Secretario de Seguridad Pública del Estado;
 
 IV. Vocal, que será el Secretario de Educación Pública y Cultura del Estado;
 
-V. Vocal, que será el Jefe de la Unidad de Transparencia y Rendición de Cuentas del Estado; y, (sic)
+V. Vocal, que será el Jefe de la Unidad de Transparencia y Rendición de Cuentas del Estado; y,
 
 VI. Un Secretario Técnico, que será el Director General; y,
 
@@ -259,15 +267,17 @@ La Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Aprobar el calendario anual de sesiones y el orden del día para cada sesión;
 
-II. Considerar las recomendaciones, sugerencias y propuestas que le hagan el Consejo Académico, el Consejo de Honor y Justicia y el Patronato;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+II. Considerar las recomendaciones, sugerencias y propuestas que le hagan el Consejo Académico y el Consejo de Honor y Justicia;
 
 III. Conocer y aprobar los estados financieros, los balances ordinarios y extraordinarios, y los informes de auditoría del Instituto;
 
 IV. Proponer al Titular del Poder Ejecutivo del Estado, por conducto del Director General el presupuesto anual de ingresos y egresos del Instituto y vigilar su ejercicio así como las ampliaciones al mismo y las transferencias de partidas que se requieran;
 
-V. Aprobar el programa operativo anual así como el programa anual de actividades del Instituto;
+V. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
-VI. Autorizar planes, programas de estudio y modalidades educativas propuestas por el Director General;
+VI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 VII. Resolver previo diagnóstico, la conveniencia de establecer extensiones destinadas a impartir la oferta educativa vigente en el Instituto;
 
@@ -281,13 +291,15 @@ XI. Designar a un auditor externo que supervise la administración del presupues
 
 XII. Resolver las controversias que se susciten entre los órganos generales de la Institución;
 
-XIII. Ejercer el derecho de iniciativa ante el Consejo Académico Universitario en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Ejercer el derecho de iniciativa ante el Consejo Académico en el ámbito de su competencia;
 
 XIV. Conocer y resolver los asuntos que no sean de la competencia de otro órgano colegiado del Instituto;
 
 XV. Dictar las políticas, lineamientos, acuerdos y resoluciones que coadyuven en el cumplimiento de los fines del Instituto y de sus órganos generales de gobierno;
 
-XVI. Aprobar en su caso, los proyectos de iniciativas y reformas de la normativa jurídica, administrativa y académica que sean fundamentales y de trascendencia para el Instituto, previa propuesta por su Director General;
+XVI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 XVII. Recibir y aprobar el dictamen de los estados financieros que someta a su consideración el Director General;
 
@@ -295,13 +307,13 @@ XVIII. Analizar y en su caso aprobar los informes que rinda el Director General;
 
 XIX. Autorizar la gestión y la constitución de fideicomisos, para cumplir con los fines y atribuciones del Instituto;
 
-XX. Recibir, evaluar y en su caso aprobar, los planes de trabajo, así como el calendario escolar, que formule el Consejo Académico;
+XX. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 XXI. Vigilar la aplicación de la normativa que rige al Instituto;
 
 XXII. Autorizar a propuesta del Director General, la transmisión, venta, arrendamiento o uso de bienes muebles o inmuebles propios del Instituto a terceros, cuyos recursos se destinarán para el cumplimiento de los fines del mismo;
 
-XXIII. Designar y remover a los miembros del Patronato del Instituto;
+XXIII. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 XXIV. Las demás facultades que le confiera el presente Reglamento y otras disposiciones normativas aplicables.
 
@@ -345,13 +357,17 @@ II. Aprobar, a propuesta del Director General, el calendario escolar;
 
 III. Expedir normas y disposiciones reglamentarias de aplicación general para la adecuada regulación de las actividades inherentes a la organización y funcionamiento académico y administrativo del Instituto, e informar sobre ello a la Junta de Gobierno;
 
-IV. Proponer la creación de Unidades, Divisiones, Departamentos Académicos y áreas de Investigación;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Proponer la creación de unidades, divisiones y departamentos académicos, así como academias del conocimiento para la consolidación de los planes y programas de estudio y demás áreas de investigación;
 
 V. Determinar los asuntos académicos, los procedimientos de ingreso, promoción y permanencia del personal docente en atención a las características especiales del trabajo y de investigación.
 
 VI. Aprobar los programas de créditos educativos para estudiantes y profesores;
 
 VII. Coadyuvar con la Junta de Gobierno en la resolución de los asuntos que no se encuentren expresamente encomendados a otros órganos y que por su trascendencia y generalidad incidan en la existencia o afecten el funcionamiento del Instituto; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
 VIII. Las demás que le señalen otras disposiciones normativas y reglamentarias del Instituto.
 
@@ -361,19 +377,23 @@ El Consejo Académico estará integrado por:
 
 I. El Director General, quien será su presidente;
 
-II. Un representante de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+II. Un representante del Secretariado Ejecutivo;
 
 III. Los Directores de Área del Instituto;
 
 IV. Un representante del personal docente; y
 
-V. Un representante de la sociedad de alumnos.
+V. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 El Director Jurídico y de Control Interno del Instituto, fungirá como Secretario Técnico, los miembros del Consejo Académico, tendrán voz y voto.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 21.
 
-El representante del personal docente ante el Consejo Académico podrá desempeñar su cargo hasta por un año, para el caso del representante de la sociedad de alumnos, lo que dure su formación siempre que no exceda de un año y no podrán ser reelectos para el periodo inmediato.
+El representante del personal docente ante el Consejo Académico podrá desempeñar su cargo hasta por un año y no podrá ser reelecto para el período inmediato.
 
 ###### Artículo 22.
 
@@ -381,9 +401,11 @@ Para el adecuado ejercicio de sus atribuciones el Consejo Académico sesionará 
 
 Podrán integrarse comisiones de carácter transitorio o permanente para el cumplimiento de los acuerdos tomados por el Consejo Académico.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-El Instituto en el ámbito académico se organizará como lo considere más conveniente o mediante el sistema de extensiones académicas, establecidas por áreas de conocimiento y coordinaciones de carrera que se integrarán por profesores que impartan las asignaturas de cada área.
+El Instituto en el ámbito académico se organizará mediante el sistema de extensiones académicas, unidades académicas, academias establecidas por áreas de conocimiento, coordinaciones de carrera, así como la creación de áreas que se consideren necesarias para el buen funcionamiento académico.
 
 ###### Artículo 24.
 
@@ -425,33 +447,21 @@ Podrán integrarse comisiones de carácter transitorio o permanente para el cump
 
 Para la determinación de las sanciones a los alumnos, se atenderá lo dispuesto en el Reglamento Disciplinario del Instituto que para tal efecto expida el Consejo Académico.
 
-#### SECCIÓN IV. EL PATRONATO
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+#### SECCIÓN IV
 
 ###### Artículo 27.
 
-La Junta de Gobierno podrá aprobar si así lo considera conveniente, la creación de un Patronato, el cual estará integrado por:
-
-I. El Presidente de la Junta de Gobierno;
-
-II. El Vicepresidente de la Junta de Gobierno;
-
-III. El Director General; y,
-
-IV. Cinco miembros representativos de los sectores productivo, público, privado y social, que gocen de reconocimiento general como personas honorables e interesadas en el fortalecimiento de la seguridad pública y la procuración de justicia en el estado, los cuales serán designados por la Junta de Gobierno.
-
-Un representante de alguno de estos sectores presidirá el Patronato.
-
-El Patronato tendrá como finalidad apoyar al Instituto mediante acciones para incrementar su infraestructura, equipamiento, el fortalecimiento académico y en general su patrimonio.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 28.
 
-Los miembros del Patronato durarán en su cargo hasta tres años, pudiendo ser reelectos para el periodo inmediato.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 29.
 
-Para el adecuado ejercicio de sus atribuciones, el Patronato sesionará periódicamente, de forma ordinaria o extraordinaria, conforme al procedimiento establecido para la Junta de Gobierno en el artículo 18 del presente Reglamento.
-
-Podrán integrarse comisiones de carácter transitorio o permanente para el cumplimiento de los acuerdos tomados por el Patronato.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 ## TÍTULO IV. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
@@ -489,11 +499,15 @@ Al frente de la Dirección General del Instituto, habrá un Titular al que se le
 
 El Director General será designado por el Gobernador Constitucional del Estado, de una terna que le sea propuesta por el Secretario Ejecutivo, pudiendo ser removido libremente de su cargo por el propio Titular del Poder Ejecutivo Estatal.
 
-El Director General deberá de cumplir con los requisitos establecidos en el artículo 5 de su Ley Orgánica, así como presentar y aprobar el proceso de evaluación y control de confianza ante el Centro de Evaluación correspondiente. Durará en el cargo hasta seis años y podrá ser reelecto, siempre y cuando cumpla con los requisitos a que se refiere la Ley Orgánica.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+El Director General deberá de cumplir con los requisitos establecidos en el artículo 5 de la Ley Orgánica, así como aprobar el proceso de evaluación y control de confianza. Durará en el cargo hasta seis años y podrá ser reelecto, siempre y cuando cumpla con los requisitos referidos en la Ley Orgánica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-El Director General será el representante legal del Instituto, con todas las facultades de un apoderado legal, en los términos de los artículos 2436 y 2469 del Código Civil para el Estado de Sinaloa y de manera supletoria con lo previsto en el Código Civil para el Distrito Federal, así como el mandato que en su caso le otorgue la Junta de Gobierno.
+El Director General será el representante legal del Instituto, con todas las facultades de un apoderado legal, en los términos que dispone el Código Civil para el Estado de Sinaloa y de manera supletoria con lo previsto por el Código Civil para el Distrito Federal, así como el mandato que le otorgue la Junta de Gobierno.
 
 Asimismo, podrá otorgar y revocar en su caso, poderes generales y especiales, cuando sean a favor de servidores públicos del Instituto o de personas ajenas a éste.
 
@@ -505,15 +519,19 @@ El Director General tendrá la administración y operación de los recursos huma
 
 El Director General formulará, expedirá y publicará de manera conjunta con los Titulares de las Instituciones Policiales del Estado y los Municipios, así como de Procuración de Justicia, las convocatorias donde se establezcan las bases para el reclutamiento, selección, ingreso, formación Inicial, capacitación, actualización, desarrollo, profesionalización y especialización del servicio policial del personal de seguridad pública, procuración de justicia, de administración de justicia en su caso, para personal de los tres órdenes de gobierno, de los sectores público, privado y social.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-El Director General será suplido en sus ausencias temporales no mayores de tres meses, por los servidores públicos del Instituto que se indican en el orden siguiente: el Director Técnico; el Director Académico; el Director de Servicios Generales; el Director Administrativo; y en ausencia de éstos por el Director Jurídico y de Control Interno.
+El Director General será suplido en sus ausencias temporales no mayores de tres meses, por los servidores públicos del Instituto que se indican en el orden siguiente: el Director Técnico, el Director Académico, el Director de Servicios Generales, el Director Administrativo, y en ausencia de éstos por el Director Jurídico y de Control Interno.
+
+Para tales efectos, los servidores públicos antes precisados podrán ejercer todas y cada una de las facultades inherentes al Director General.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-Cuando la ausencia del Director General se prolongue por más de tres meses, la Junta de Gobierno deberá analizar en sesión ordinaria según su proximidad, o en su caso extraordinaria, los motivos de la misma, calificándola como temporal o definitiva, en el primero de los casos, nombrará un Director General Interino; si la ausencia es de carácter definitiva, el Secretario Ejecutivo procederá a proponer una nueva terna al Gobernador Constitucional del Estado para que designe al Director General que concluirá el periodo respectivo.
-
-La Junta de Gobierno, deberá informar a la comunidad estudiantil, académica y personal administrativo, a la brevedad posible sobre ambas decisiones.
+Cuando el Director General del Instituto sea removido de su cargo o renuncie por cualquier motivo, el Secretario Ejecutivo de conformidad con las facultades que le otorgan los artículos 68 y 239 de la Ley de Seguridad, podrá designar a un Director General Interino, el cual cumplirá y ejercerá las atribuciones del Instituto y de su Director General previstas en la Ley de Seguridad, en la Ley Orgánica, en el Reglamento y demás normativa relativa al caso, quien ocupará el cargo hasta por seis meses, en tanto el Titular del Poder Ejecutivo Estatal designe al Director General.
 
 ###### Artículo 38.
 
@@ -521,7 +539,7 @@ Corresponde al Director General el ejercicio de las siguientes facultades genér
 
 I. Planear, formular, programar, organizar, dirigir, ejecutar, controlar y evaluar en el ámbito de su competencia, el funcionamiento de la entidad administrativa a su cargo así como el desarrollo de los programas y acciones necesarias para el cumplimiento de sus funciones;
 
-II. Someter a la aprobación de Junta de Gobierno las normas, políticas, procedimientos y protocolos que se emitan;
+II. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 III. Informar periódicamente a la Junta de Gobierno de los programas bajo su responsabilidad;
 
@@ -529,7 +547,9 @@ IV. Elaborar y actualizar los manuales de organización, procedimientos y servic
 
 V. Apoyar en la formulación, revisión, actualización, seguimiento y evaluación de los programas operativos anuales y proyectos estratégicos;
 
-VI. Proponer a la Junta de Gobierno el ingreso, promociones, licencias y remociones del personal de mandos superiores adscritos a la entidad administrativa a su cargo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Informar a la Junta de Gobierno el ingreso, promociones, licencias, y remociones del personal de mandos superiores adscritos a la entidad administrativa a su cargo;
 
 VII. Desempeñar las representaciones que por acuerdo expreso se le encomienden, por parte de la Junta de Gobierno y del Ejecutivo Estatal;
 
@@ -573,9 +593,13 @@ VII. Presentar a la Junta de Gobierno, un informe al final del primer semestre d
 
 VIII. Rendir un informe anual de actividades, incluyendo el ejercicio de los presupuestos de ingresos y egresos, así como de los estados financieros correspondientes, con el cual, se pueda cotejar las metas propuestas y los compromisos asumidos por la Dirección General del Instituto, con relación a las metas alcanzadas;
 
-IX. Poner a consideración de la Junta de Gobierno, el proyecto de calendario escolar anual;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
-X. Proponer a la Junta de Gobierno, los proyectos de iniciativas, reformas, adiciones a la legislación, reglamentación que regule al Instituto;
+IX. Notificar a la Junta de Gobierno, sobre el proyecto de calendario escolar anual;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+X. Informar a la Junta de Gobierno, los proyectos de iniciativas, reformas, adiciones a la legislación, reglamentación y demás normativa que jurídica y administrativamente regule al Instituto; en coordinación con la Dirección de Asuntos Jurídicos de la Secretaría General de Gobierno.
 
 XI. Verificar la aplicación de contenidos de los planes y programas para la formación de los servidores públicos referidos en la Ley de Seguridad, así como del Programa Rector de Profesionalización aprobado por el Consejo Nacional de Seguridad Pública;
 
@@ -599,7 +623,9 @@ XX. Promover los programas de educación abierta en coordinación con las instit
 
 XXI. Dirigir y supervisar el control del presupuesto del Instituto así como la administración de los bienes muebles, inmuebles y de consumo del mismo a través del Director Administrativo;
 
-XXII. Instruir la elaboración, adición o reforma en su caso, de los proyectos de leyes, reglamentos, estatutos, proyectos, lineamientos, manuales de organización y de procedimientos del Instituto, en coordinación con la Dirección de Asuntos Jurídicos de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XXII. Instruir al área correspondiente la elaboración, adición o reforma en su caso, de los proyectos de leyes, reglamentos, estatutos, proyectos, lineamientos, manuales de organización y de procedimientos del Instituto y demás normativa; en coordinación con la Dirección de Asuntos Jurídicos de la Secretaría General de Gobierno.
 
 XXIII. Intervenir en los términos de la legislación aplicable, en los juicios y asuntos en que se tenga interés jurídico;
 
@@ -631,9 +657,11 @@ XXXVI. Proponer la creación de áreas administrativas necesarias para el cumpli
 
 XXXVII. Las demás que le atribuyan las leyes, reglamentos, decretos, acuerdos y disposiciones aplicables al Instituto o que expresamente le encomiende el Gobernador Constitucional del Estado ó la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 40.
 
-El Director General estará auxiliado de manera directa por las áreas administrativas siguientes:
+El Director General para el ejercicio, atención, estudio, planeación, programación y despacho de los asuntos que le competen, contará de manera directa con las áreas administrativas siguientes:
 
 I. Dirección Técnica;
 
@@ -659,7 +687,9 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Ser mayor de 30 años;
 
-III. Poseer título a nivel de licenciatura o cédula profesional expedida y debidamente registrada por la autoridad competente;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+III. Contar con título de licenciatura expedido por autoridad legalmente facultada para ello.
 
 IV. Ser de notoria buena conducta;
 
@@ -667,7 +697,9 @@ V. Contar con una experiencia de cuando menos tres años en el desempeño de las
 
 VI. No haber sido sentenciado por delito doloso o inhabilitado como servidor público; y,
 
-VII. Haber aprobado el proceso de evaluación y control de confianza ante el Centro de Evaluación y Control de Confianza correspondiente.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Aprobar en su caso, el proceso de evaluación y control de confianza.
 
 ### CAPÍTULO IV. DE LAS FACULTADES GENÉRICAS DE LOS DIRECTORES DE ÁREA
 
@@ -827,7 +859,9 @@ X. Asegurar la integridad de los documentos, archivos y bases de datos de la Dir
 
 XI. Promover, coordinar y gestionar becas para los alumnos;
 
-XII. Aplicar la normativa relativa al proceso de selección de aspirantes a ingresar a los distintos programas académicos, así como de Licenciatura y posgrado, así como de los programas de formación inicial, actualización, capacitación y especialización de las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Promover la eficiencia terminal académica a través de las diferentes opciones de titulación profesional, o en su caso de las diversas modalidades de estudio;
 
 XIII. Proporcionar los servicios médicos a los alumnos y personal del Instituto y establecer un registro y control;
 
@@ -875,7 +909,9 @@ VI. Elaborar, controlar y mantener permanentemente actualizado el inventario de 
 
 VII. Planear y dar seguimiento a los presupuestos que le asigne el Gobierno del Estado, Gobierno Federal y de Instituciones públicas, privadas, fideicomisos y demás aportaciones que generen ingresos para el Instituto;
 
-VIII. Administrar, controlar, adquirir o contratar los recursos humanos, financieros y materiales, previa autorización del Director General;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Administrar, adquirir y/o contratar los recursos humanos, financieros, materiales y de servicios generales, así como presidir el Comité de Adquisiciones del Instituto;
 
 IX. Aplicar las políticas y programas sobre selección, contratación, evaluación, remuneración y capacitación del personal del Instituto, en base a los lineamientos que se den en materia de administración y desarrollo de recursos humanos;
 
@@ -889,7 +925,9 @@ XIII. Administrar la operación de los almacenes de mobiliario, equipo y materia
 
 XIV. Proponer los lineamientos generales para la regulación de los ingresos propios;
 
-XV. Promover y realizar las adquisiciones para el Instituto, así como de manera conjunta con Gobierno del Estado participar en las licitaciones y procedimientos para la contratación de obras y servicios, en la venta de bienes y desechos sin utilidad para el Instituto; esto, con sujeción en la normativa vigente;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XV. Promover y realizar las adquisiciones para el Instituto, de conformidad con las disposiciones legales aplicables a la contratación de obras, bienes y servicios, así como para enajenar los bienes y desechos sin utilidad;
 
 XVI. Integrar y controlar el ejercicio presupuestal del gasto corriente de cada uno de los programas y subprogramas;
 
@@ -947,11 +985,15 @@ II. Departamento de Instrucción Policial.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN JURÍDICA Y DE CONTROL INTERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Al frente de la Dirección Jurídica y de Control Interno, habrá un Titular al que se le denominará Director Jurídico y de Control Interno, quien además de las facultades genéricas de los Directores señaladas en el artículo 44 del presente Reglamento, tendrá las atribuciones siguientes:
+Al frente de la Dirección Jurídica y Control Interno, habrá un Titular al que se le denominará Director Jurídico y de Control Interno, quien además de las facultades genéricas señaladas en el artículo 44 del presente Reglamento, tendrá las siguientes atribuciones:
 
-I. Intervenir previa instrucción del Director General y en coordinación con la Dirección de Asuntos Jurídicos de la Secretaria General de Gobierno, en la defensa de los intereses del Instituto así como en los juicios que hubiera iniciado la institución o que se interpongan en su contra;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+I. Ejercer la representación jurídica del Instituto, así como intervenir en la defensa de sus intereses en toda clase de asuntos litigiosos o de carácter legal que hubiera iniciado el propio Instituto o en aquellos que se interpongan en su contra; así como representar en los términos de las disposiciones aplicables, a los servidores públicos del Instituto, cuando éstos sean señalados como autoridades responsables;
 
 II. Procurar por parte de las áreas administrativas el cumplimiento del orden jurídico del Instituto;
 
@@ -961,13 +1003,19 @@ IV. Intervenir y coordinar la entrega y recepción del patrimonio del Instituto;
 
 V. Supervisar el cumplimiento de la normativa en las licitaciones que se realicen para las adquisiciones de bienes y servicios, así como en la venta de bienes sin utilidad y desechos del Instituto, dejando constancia mediante acta administrativa;
 
-VI. Proponer al Director General, en coordinación con la Dirección de Asuntos Jurídicos de la Secretaria General de Gobierno, la formulación y revisión de los proyectos de reglamentos, demás instrumentos jurídicos y administrativos que requiera el Instituto;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Asistir al Director General, en coordinación con la Dirección de Asuntos Jurídicos de la Secretaria General de Gobierno, en la celebración de convenios, contratos y actos multilaterales en los que participe el Instituto;
+VI. Elaborar propuestas al marco legal, proyectos y demás instrumentos jurídicos, legales o administrativos que le encomiende el Director General o que se requieran en el Instituto;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Asistir al Director General, en la celebración de convenios, contratos, actos multilaterales y demás instrumentos jurídicos en los que participe el Instituto;
 
 VIII. Asesorar jurídicamente en el ámbito de su competencia al Director General y a las áreas administrativas, así como actuar como órgano de consulta y realizar los estudios e investigaciones jurídicas para el desarrollo de las atribuciones del Instituto;
 
-IX. Recibir, dar seguimiento y respuesta a las solicitudes de información que le sean formuladas al Instituto, conforme a la Ley de Acceso a la Información Pública del Estado de Sinaloa y su Reglamento;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Recibir, dar seguimiento y respuesta a las solicitudes de información pública que le sean formuladas al Instituto, atender el portal web o página oficial, dar seguimiento al cumplimiento de las declaraciones patrimoniales que anualmente presentan los servidores públicos e impulsar la cultura institucional, así como todo lo relativo a la transparencia y la rendición de cuentas conforme a la normativa jurídica y administrativa en vigor así como fungir como enlace ante las áreas de Transparencia y de Rendición de Cuentas y de la Comisión Estatal para el Acceso a la Información Pública;
 
 X. Fungir como órgano interno de control del Instituto, ejerciendo las facultades que en la materia le otorgan la Ley de Responsabilidades Administrativas de los Servidores Públicos y la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos, ambas del Estado de Sinaloa;
 
@@ -975,17 +1023,29 @@ XI. Revisar la información financiera y los eventos en que incidan las finanzas
 
 XII. Coordinarse con las dependencias del Ejecutivo del Estado en asuntos que por su trascendencia así lo requieran;
 
-XIII. Planear, organizar y supervisar el sistema de control, evaluación y auditoría que deban de observar las unidades administrativas adscritas al Instituto;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
 
-XIV. Practicar con apoyo de las dependencias e instancias competentes, las auditorías integrales y mecanismos de control interno a las unidades administrativas del Instituto;
+XIII. Implementar y supervisar el sistema de control, evaluación y auditoría establecidas por la normativa gubernamental y que deban observar las unidades administrativas adscritas al Instituto;
 
-XV. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión que ordenen las autoridades en la materia;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Practicar y/o coordinarse con las dependencias e instancias competentes para la realización de auditorías integrales, así como de la implementación de los mecanismos de control interno a las unidades administrativas del Instituto;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XV. Coordinar, atender, apoyar y dar seguimiento a los programas de revisión administrativa que sean necesarios, así como los que ordenen las autoridades en la materia;
 
 XVI. Proporcionar en caso de ser requerida, la información necesaria a las dependencias públicas normativas en la materia;
 
 XVII. Impulsar la socialización de la normativa en el uso de los recursos patrimoniales del Instituto, así como en los deberes que les corresponden realizar a los servidores públicos del Instituto;
 
-XVIII. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables o que expresamente le encomiende el Director General.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XVIII. Formular y proponer proyectos de iniciativas de leyes, decretos, reglamentos, y demás ordenamientos jurídicos y administrativos así como sus reformas; y,
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XIX. Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables o que expresamente le encomiende el Director General.
 
 ###### Artículo 56.
 
@@ -1210,3 +1270,11 @@ C. JUAN PABLO YAMUNI ROBLES
 EL ENCARGADO DE DESPACHO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 C. GENARO GARCÍA CASTRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. A partir de la publicación de la presente reforma, todas las referencias que en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas se hagan al Instituto Estatal de Ciencias Penales y Seguridad Pública, se entenderán también como hechas al INECIPE, como una forma de identidad institucional.
