@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2014-04-16"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -515,6 +515,14 @@ IV. Representar legalmente a PEMEX, en los asuntos relacionados con su subdirecc
 
 V. Suscribir convenios y contratos y, en su caso, iniciar, notificar y sustanciar el procedimiento de rescisión, terminación anticipada o suspensión de los mismos, conforme a lo previsto en la Ley y, cuando sea aplicable, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás disposiciones legales y reglamentarias;
 
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+V-A. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+V-B. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios;
+
 VI. Asignar y delegar asuntos al personal de su subdirección, en el ámbito de las respectivas funciones de estos últimos;
 
 VII. Certificar, conforme a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, las copias de los documentos originales que obren en los archivos de su subdirección;
@@ -552,6 +560,14 @@ II. Elaborar, en el ámbito de sus funciones, los proyectos de normatividad, té
 III. Representar legalmente a PEMEX, en los asuntos relacionados con su gerencia, así como en aquellos que le asignen o deleguen expresamente sus superiores jerárquicos, para lo cual contará con las facultades para pleitos y cobranzas, así como para actos de administración, previstas en los poderes que para tales efectos se les otorguen;
 
 IV. Suscribir convenios y contratos y, en su caso, iniciar, notificar y sustanciar el procedimiento de rescisión, terminación anticipada o suspensión de los mismos, conforme a lo previsto en la Ley y, cuando sea aplicable, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás disposiciones legales y reglamentarias;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+IV-A. Emitir y suscribir, en su carácter de área usuaria, evaluaciones técnicas, dictámenes técnicos, contratos y convenios;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+IV-B. Atender, en el ámbito de su competencia, los reclamos, controversias y conciliaciones que deriven de los procedimientos de contratación de Adquisiciones, Arrendamientos, Obras y Servicios;
 
 V. Asignar y delegar asuntos y tareas en los titulares y demás personal de las unidades administrativas adscritas a su gerencia, en el ámbito de las funciones de estos últimos;
 
@@ -699,9 +715,7 @@ c) Subdirección de Servicios de Salud
 
 d) Subdirección de Servicios Corporativos
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
-
-1. Gerencia de Abastecimiento de Bienes y Servicios
+1. (DEROGADO, D.O.F. 3 DE SEPTIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -988,6 +1002,10 @@ c) Subdirección de Procura y Abastecimiento
 7. Gerencia de Contrataciones para Procesos de Gas y Petroquímica Básica
 
 8. Gerencia de Contrataciones para Procesos de Petroquímica
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+9. Gerencia de Contrataciones para Procesos de Soporte y Servicios de Salud
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -1683,13 +1701,17 @@ V. Establecer los mecanismos de supervisión, evaluación y control técnico, m�
 
 VI. Administrar los bienes y equipos de PEMEX utilizados para prestar servicios de salud, verificar la disponibilidad de los insumos y equipos específicos;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Representar a PEMEX y Organismos Subsidiarios ante las dependencias y entidades del sector salud y organismos nacionales e internacionales en el ámbito de su competencia, y
+VII. Representar a PEMEX y Organismos Subsidiarios ante las dependencias y entidades del sector salud y organismos nacionales e internacionales en el ámbito de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Diseñar acciones institucionales para la planeación, ejecución y control de las intervenciones de salud en el trabajo en PEMEX y Organismos Subsidiarios.
+VIII. Diseñar acciones institucionales para la planeación, ejecución y control de las intervenciones de salud en el trabajo en PEMEX y Organismos Subsidiarios, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia o cuando por la naturaleza del servicio ameriten inmediatez.
 
 ###### Artículo 51.
 
@@ -1751,9 +1773,9 @@ La Gerencia de Administración y Finanzas tendrá las funciones siguientes:
 
 I. Evaluar y controlar el cumplimiento de los planes y programas de la Subdirección de Servicios de Salud en materia de suministros, mantenimiento, servicios generales y administración patrimonial, así como su impacto en la prestación de los servicios médicos;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-II. Coordinar y ejecutar los procesos de adquisiciones, arrendamientos, mantenimientos y servicios en las unidades médicas;
+II. Celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia o cuando por la naturaleza del servicio ameriten inmediatez;
 
 III. Dar seguimiento a los programas de mantenimiento preventivo y correctivo que garanticen la óptima operación de las unidades médicas;
 
@@ -1777,9 +1799,9 @@ III. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
 IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-V. Coordinar, supervisar y vigilar el proceso de adquisición y suministro de bienes, y la contratación de obra pública, servicios y arrendamientos que sean materia de la competencia de la Dirección Corporativa de Administración;
+V. Asesorar y gestionar el proceso de planeación de adquisición, arrendamiento, obras públicas y servicios relacionadas con las mismas, y servicios técnicos especializados de la Dirección Corporativa de Administración;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -1795,33 +1817,29 @@ VIII. Establecer las metodologías para determinar el costo de los servicios cor
 
 IX. Proponer y aplicar la metodología para el cálculo de los precios por los servicios corporativos, que presta la Dirección Corporativa de Administración;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales, y
+X. Coordinar y administrar las oficinas foráneas de representación aduanal para la prestación de los servicios aduanales;
 
-> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
 
-XI. Coordinar el uso del acrónimo “Pemex” y de las marcas respectivas, así como suscribir los convenios que se requieran para ello, en representación de PEMEX.
+XI. Coordinar el uso del acrónimo “Pemex” y de las marcas respectivas, así como suscribir los convenios que se requieran para ello, en representación de PEMEX;
 
-> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Coordinar el funcionamiento de las unidades administrativas regionales, en materia administrativa, obras públicas y servicios relacionados con las mismas, servicios generales y servicios financieros en los centros de trabajo foráneos de PEMEX;
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Celebrar los actos jurídicos en materia de Procura y Abastecimiento que se requieran ante situaciones de emergencia o cuando por la naturaleza del servicio ameriten inmediatez, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Administrar la operación del sistema transaccional que soporta el subproceso de administración de almacenes.
 
 ###### Artículo 55.
 
-La Gerencia de Abastecimiento de Bienes y Servicios tendrá las funciones siguientes:
-
-I. Coordinar y ejecutar los procesos de adquisiciones, arrendamientos, servicios y obra pública de PEMEX y centros de trabajo foráneos;
-
-II. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
-
-III. Coordinar el funcionamiento de las unidades administrativas regionales de enlace administrativo que presten servicio a las áreas de PEMEX en los centros de trabajo foráneos;
-
-IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
-
-V. Administrar la operación del sistema transaccional que soporta los subprocesos de abastecimiento, administración de almacenes y el registro de compromisos de servicio;
-
-VI. Coordinar los comités de Adquisiciones, Arrendamientos y Servicios, y de Obra Pública, así como los demás subcomités y grupos de trabajo que se deriven, y dar seguimiento a los acuerdos y dictámenes que emanen de los mismos, y
-
-VII. Consolidar y coordinar la integración de los programas de adquisiciones, obras y servicios de PEMEX.
+(DEROGADO, D.O.F. 3 DE SEPTIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -5067,7 +5085,9 @@ IV. Integrar y dar seguimiento al programa anual de abastecimiento estratégico 
 
 V. Dar seguimiento a las propuestas de estrategia de procura y abastecimiento de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como emitir las recomendaciones correspondientes;
 
-VI. Ejecutar las estrategias de contratación en materia de agregación de demanda para PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Diseñar y ejecutar las estrategias de contratación en materia de agregación de demanda para PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como suscribir los acuerdos de voluntades que de éstas deriven;
 
 VII. Elaborar las directrices en materia de inteligencia de mercado relativas a la gestión de categorías y evaluar su aplicación;
 
@@ -5317,7 +5337,7 @@ VIII. Identificar las necesidades de contrataciones en materia de procura y abas
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
-Artículo 136 Q. La Gerencia Contrataciones (sic) de Exploración y Producción para las Regiones Marinas y Mantenimiento y Logística tendrá las funciones siguientes:
+Artículo 136 Q. La Gerencia (sic) Contrataciones de Exploración y Producción para las Regiones Marinas y Mantenimiento y Logística tendrá las funciones siguientes:
 
 I. Realizar las evaluaciones económicas y los estudios de costo en materia de procura y abastecimiento para regiones marinas y mantenimiento y logística;
 
@@ -5462,6 +5482,32 @@ VIII. Proponer mecanismos relacionados con la detección de necesidades de procu
 IX. Elaborar los estudios de mercado para la procura y abastecimiento de bienes, arrendamientos, obra y servicios para procesos de petroquímica, y
 
 X. Identificar las necesidades de contrataciones en materia de procura y abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado.
+
+> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 2014)</small>
+
+Artículo 136 W. La Gerencia de Contrataciones para Procesos de Soporte y Servicios de Salud tendrá las funciones siguientes:
+
+I. Evaluar las estrategias para la planeación, administración y control de Procura y Abastecimiento de los procesos de soporte y servicios de salud;
+
+II. Planear, programar y controlar el funcionamiento y la resolución de asuntos en materia de adquisiciones, arrendamientos, obra y servicios de los procesos de soporte y servicios de salud;
+
+III. Realizar las evaluaciones económicas y los estudios de costo de los procesos de soporte y servicios de salud, en materia de Procura y Abastecimiento;
+
+IV. Emitir y suscribir convocatorias, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios de adquisiciones, arrendamientos, obra y servicios; así como iniciar, notificar, sustanciar y resolver los procedimientos de terminación anticipada o rescisión administrativa de los mismos, con independencia del régimen legal que les aplique, para los procesos de soporte y servicios de salud;
+
+V. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios, así como participar en la elaboración de modelos económicos y bases técnicas para las licitaciones de los procesos de soporte y servicios de salud;
+
+VI. Integrar los programas anuales de adquisiciones, arrendamientos, obra y servicios, así como coordinar y dar seguimiento a los procedimientos, contrataciones, convenios y modificaciones que deriven de dichos programas para los procesos de soporte y servicios de salud;
+
+VII. Atender, en el ámbito de su competencia, los reclamos, controversias técnicas o administrativas y conciliaciones que deriven de los procedimientos de contratación de adquisiciones, arrendamientos, obra y servicios de los procesos de soporte y servicios de salud;
+
+VIII. Proponer mecanismos relacionados con la detección de necesidades de Procura y Abastecimiento de los procesos de soporte y servicios de salud;
+
+IX. Elaborar los estudios de mercado para la Procura y Abastecimiento de bienes, arrendamientos, obra y servicios de los procesos de soporte y servicios de salud;
+
+X. Identificar las necesidades de contrataciones en materia de Procura y Abastecimiento durante la integración, ejecución y seguimiento de la cartera de proyectos y del presupuesto asociado, y
+
+XI. Coordinar, en materia de Procura y Abastecimiento, el funcionamiento de las unidades administrativas regionales de enlace administrativo que presten servicio a las áreas de PEMEX en los centros de trabajo foráneos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
@@ -6544,3 +6590,27 @@ PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexica
 SEGUNDO. Las referencias que se hagan a la Gerencia de Servicios de Seguridad Física que cambia de denominación por virtud de las presentes modificaciones, así como las atribuciones que se le otorgan en otros instrumentos, se entenderán hechas o conferidas a la Subdirección de Salvaguardia Estratégica y a sus unidades administrativas que correspondan, conforme a las presentes modificaciones.
 
 TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos y Organismos Subsidiarios.
+
+D.O.F. 3 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Las modificaciones al Estatuto Orgánico de Petróleos Mexicanos entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Las funciones que actualmente le corresponden a las unidades administrativas de la Dirección Corporativa de Administración, que se transferirán a la Dirección Corporativa de Procura y Abastecimiento y a sus unidades administrativas, en virtud de las presentes modificaciones, entrarán en vigor una vez que formalmente hayan sido transferidos los recursos a que refiere el artículo Quinto Transitorio.
+
+TERCERO. En tanto se expiden los acuerdos y demás disposiciones administrativas que deriven de las presentes modificaciones continuarán siendo aplicables, en lo conducente, los acuerdos y las disposiciones expedidos con anterioridad a la entrada en vigor de dichas modificaciones, en lo que no se oponga a las mismas.
+
+CUARTO. Las instancias y servidores públicos deberán emitir o adecuar la normatividad interna y demás instrumentos respectivos para que sean acordes con las presentes modificaciones.
+
+QUINTO. La Dirección Corporativa de Procura y Abastecimiento y la Dirección Corporativa de Administración, dentro de los 90 días siguientes a la entrada en vigor de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, deberán realizar todas las gestiones administrativas para formalizar la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como los recursos financieros asociados con dicha transferencia, derivadas de las presentes modificaciones.
+
+SEXTO. Las unidades administrativas cuyas funciones se modifican o se crean en virtud de las presentes reformas, adiciones o derogaciones al Estatuto Orgánico de Petróleos Mexicanos, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento, incluyendo actas de entrega-recepción, que sean necesarios para los traspasos, transferencias, sustituciones y demás que correspondan, de acuerdo con las funciones y estructura de este Estatuto.
+
+SÉPTIMO. Los convenios y contratos en ejecución, así como los procedimientos de contratación en trámite, deberán formar parte de las actas de entrega-recepción, a fin de no afectar la operación y el ejercicio de las funciones de las unidades administrativas de la Dirección Corporativa de Administración de Petróleos Mexicanos.
+
+OCTAVO. La Dirección Corporativa de Procura y Abastecimiento deberá realizar las gestiones necesarias ante la Dirección Jurídica, para que se otorguen y revoquen los poderes que resulten necesarios para el cumplimiento de las funciones contenidas en las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos.
+
+NOVENO. Las referencias que se hagan a las unidades administrativas que cambian de denominación y/o adscripción por virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, así como las atribuciones que se les otorgan en otros instrumentos, se entenderán hechas o conferidas a las unidades administrativas que corresponda conforme a las presentes modificaciones.
+
+DÉCIMO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos.
+
+DÉCIMO PRIMERO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
