@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2012-05-05"
+last_updated: "2014-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -991,7 +991,7 @@ VI. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pú
 
 VII. Capacitar en materia de investigación científica y técnica a los integrantes de las Instituciones de Seguridad Pública;
 
-VIII. Proponer y desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+VIII. (DEROGADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, P.O. 3 DE SEPTIEMBRE DE 2014)
 
 IX. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización;
 
@@ -1453,7 +1453,7 @@ I. Levantar y certificar los acuerdos que se tomen en este Consejo y llevar el c
 
 II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
 
-III. Informar periódicamente al Consejo de sus actividades, de conformidad con lo establezca (sic) el Reglamento correspondiente;
+III. Informar periódicamente al Consejo de sus actividades, de conformidad con lo (sic) establezca el Reglamento correspondiente;
 
 IV. Coordinar la realización de estudios especializados sobre seguridad pública, y
 
@@ -1858,3 +1858,25 @@ ESAÚ HERNÁNDEZ HERRERA.
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 GRAL. JESÚS PINTO ORTIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Articulo Segundo.- Se abroga la Ley Orgánica del Ministerio Público del Estado de Zacatecas, publicada en Suplemento número 1 al 65 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 12 de agosto de 2000.
+
+Artículo Tercero.- Se deroga el artículo 58 Fracción VIII de la Ley del Sistema Estatal de Seguridad Pública de Zacatecas.
+
+Artículo Cuarto.- En los distritos judiciales donde aún no entre en vigor el Nuevo Sistema de Justicia Penal Acusatorio y por ende el Código Nacional de Procedimientos Penales, deberán observarse las disposiciones relativas y aplicables del Código de Procedimientos Penales y el Código Procesal Penal del Estado de Zacatecas, según el caso.
+
+En los mencionados distritos, la función de investigación será coordinada por la Subprocuraduría de Investigaciones y Procesos Penales, mientras que el seguimiento de los Procedimientos Jurisdiccionales estará a cargo de la Subprocuraduría de Control, Justicia Alternativa y Capacitación.
+
+Artículo Quinto.- Los procedimientos de responsabilidad administrativa, seguidos a servidores públicos que se encuentran en trámite o pendientes de resolución, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
+
+Artículo Sexto.- Las conductas u omisiones de los servidores públicos de la Procuraduría General, no sancionados en esta ley, pero si previstas y sancionadas en otros ordenamientos, se sujetarán a lo establecido por los mismos.
+
+Artículo Séptimo.- El Reglamento de la presente Ley, deberá expedirse dentro de los noventa días siguientes a la publicación del presente decreto.
+
+Artículo Octavo.- Los Agentes del Ministerio Público, Agentes de la Policía Ministerial, Oficiales Secretarios, y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General, deberán someterse a las disposiciones reglamentarias del Servicio Profesional de Carrera para su permanencia en la dependencia.
