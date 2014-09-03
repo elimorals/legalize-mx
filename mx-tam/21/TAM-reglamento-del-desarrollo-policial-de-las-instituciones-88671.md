@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-desarrollo-policial-de-las-instituciones-88671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-19"
-last_updated: "2012-07-24"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "TAM"
 
 REGLAMENTO DEL DESARROLLO POLICIAL DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA PRESENTE FE DE ERRATAS QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de julio de 2012.
 
@@ -231,7 +229,7 @@ I. Emitirá la convocatoria pública y abierta dirigida a todo aspirante que des
 
 II. Señalará en forma precisa los puestos sujetos a reclutamiento y el perfil del puesto por competencia que deberán cubrir los aspirantes;
 
-III. Precisará los requisitos que deberán cumplir los aspirantes; y (sic)
+III. Precisará los requisitos que deberán cumplir los aspirantes; y
 
 IV. Señalará lugar, fecha y hora de la recepción de documentos requeridos;
 
@@ -1908,3 +1906,27 @@ Lo no previsto en el presente Reglamento, será resuelto en única instancia por
 Dado en la sede el Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el dieciocho de julio de dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.-Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.- EL SECRETARIO DE SEGURIDAD PÚBLICA.- RAFAEL LOMELÍ MARTÍNEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos iniciados con las disposiciones anteriores al presente Reglamento, deberán concluirse con el procedimiento mediante el cual fueron iniciados.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado de Tamaulipas número 87, de fecha 19 de Julio de 2012.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Lo no previsto en el presente Reglamento, será resuelto en única instancia por el Secretario de Seguridad Pública del Estado.
