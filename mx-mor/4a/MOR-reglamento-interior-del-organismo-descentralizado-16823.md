@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2013-08-28"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL ESTATUTO ORGÁNICO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -881,9 +883,9 @@ XII. Una Jefatura de Administración y Sistemas;
 
 XIII. Una Jefatura de Autorización Sanitaria;
 
-XIV. Una Coordinación de Protección Sanitaria en la Región l;
+XIV. Una Coordinación de Protección Sanitaria en la Región I;
 
-XV. Una Coordinación de Protección Sanitaria en la Región ll, y
+XV. Una Coordinación de Protección Sanitaria en la Región II, y
 
 XVI. Una Coordinación de Protección Sanitaria en la Región III.
 
@@ -891,13 +893,13 @@ Las unidades administrativas en referencia tendrán a su cargo el ejercicio de l
 
 Para efectos del presente acuerdo el Estado se sectoriza de la siguiente forma:
 
-Región l: Coatlán del Río, Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Mazatepec, Miacatlán, Temixco, Tepoztlán, Tetecala y Xochitepec, con sede en Cuernavaca.
+Región I: Coatlán del Río, Cuernavaca, Emiliano Zapata, Huitzilac, Jiutepec, Mazatepec, Miacatlán, Temixco, Tepoztlán, Tetecala y Xochitepec, con sede en Cuernavaca.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
-Región ll: Amacuzac, Jojutla, Puente de Ixtla, Tlaquiltenango, Tlaltizapán de Zapata y Zacatepec, con sede en Jojutla.
+Región II: Amacuzac, Jojutla, Puente de Ixtla, Tlaquiltenango, Tlaltizapán de Zapata y Zacatepec, con sede en Jojutla.
 
-Región lll: Cuautla, Ocuituco, Yautepec, Tlalneplantla, Tetela del Volcán, Yecapixtla, Axochiapan, Ayala, Atlatlahucan, Jantetelco, Jonacatepec, Temoac, Tepalcingo, Tlayacapan, Totolapan, y Zacualpan, con sede en Cuautla.
+Región III: Cuautla, Ocuituco, Yautepec, Tlalneplantla, Tetela del Volcán, Yecapixtla, Axochiapan, Ayala, Atlatlahucan, Jantetelco, Jonacatepec, Temoac, Tepalcingo, Tlayacapan, Totolapan, y Zacualpan, con sede en Cuautla.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2013)</small>
 
@@ -1479,7 +1481,7 @@ VI. Evaluar y elaborar las autorizaciones o permisos, así como recibir los avis
 
 VII. Elaborar certificados oficiales de la condición sanitaria de los sistemas de abastecimiento de agua;
 
-VIII. Supervisar que en las Coordinaciones de Protección Sanitarias Regionales se apliquen los procedimientos, políticas y lineamientos establecidos por la COFEPRIS, y (sic)
+VIII. Supervisar que en las Coordinaciones de Protección Sanitarias Regionales se apliquen los procedimientos, políticas y lineamientos establecidos por la COFEPRIS, y
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2013)</small>
 
@@ -2137,7 +2139,7 @@ DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE MORELOS
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE FEBRERO DE 2002.
 
@@ -2206,3 +2208,17 @@ PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDA. Se derogan las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Decreto.
 
 TERCERA. Los Manuales de Organización, y de Políticas y Procedimientos del Organismo Público Descentralizado denominado "Servicios de Salud de Morelos", deberán ser modificados, actualizados y aprobados por su Junta de Gobierno, en plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+PRIMERA. El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+TERCERA. Se abroga el Reglamento Interior del Organismo Público Descentralizado denominado Servicios de Salud de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 3987, el día 30 de junio de 1999, y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Estatuto Orgánico.
+
+CUARTA. Los Reglamentos, los Manuales Administrativos del Organismo Público Descentralizado denominado “Servicios de Salud de Morelos”, deberán ser creados, modificados, actualizados y aprobados por su Junta de Gobierno, en plazo no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa según su ámbito de competencia.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Organismo Público Descentralizado denominado Servicios de Salud de Morelos, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Organismo, deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
