@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-reconocer-el-merito-ciudadano-13237"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-04"
-last_updated: "2012-09-22"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY PARA RECONOCER EL MÉRITO CIUDADANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE PREMIOS AL MÉRITO CIUDADANO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de diciembre de 1991
 
@@ -89,9 +91,9 @@ III. Premio Estatal de Ciencia, Tecnología e Innovación y Premio Estatal “Jo
 
 IV. Premio Estatal de Artes;
 
-V. Premio Estatal a la Solidaridad Social; y (sic)
+V. Premio Estatal a la Solidaridad Social; y
 
-VI. Premio Estatal al Trabajo y Servicio Civil; y (sic)
+VI. Premio Estatal al Trabajo y Servicio Civil; y
 
 VII. Premio Estatal del Deporte;
 
@@ -432,3 +434,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente 
 TERCERO.- Dentro de los treinta días naturales posteriores el inicio de vigencia del presente Decreto, el Consejo de Premiación deberá emitir el Reglamento a que se refiere el artículo 80 de este instrumento normativo.
 
 CUARTO.- La Legislatura del Estado deberá realizar las previsiones correspondientes, en los Presupuestos de Egresos del Estado, para el otorgamiento de los premios a que se refiere este Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- En el término de setenta días, contados a partir de la entrada en vigor de la presente Ley, deberán integrarse los Consejos de Premiación.
+
+TERCERO.- En el término de treinta días, contados a partir de la integración de los Consejos de Premiación, se deberá expedir el Reglamento de la Ley de Premios al Mérito Ciudadano del Estado de Zacatecas.
+
+CUARTO.- Se abroga la Ley para Reconocer el Mérito Ciudadano, publicada en el Número 97 del Periódico Oficial, Órgano de Gobierno del Estado de fecha 04 de Diciembre del año 1991, mediante Decreto número 178.
