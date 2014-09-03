@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-299-de-proteccion-de-derechos-de-ninas-ninos-y-64580
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-25"
-last_updated: "2008-11-25"
+last_updated: "2014-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PROTECCION DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario 390 a la Gaceta Oficial del Estado de Veracruz, el 25 de noviembre de 2008.
 
@@ -979,6 +979,154 @@ VIII. Solicitar la cooperación de las autoridades correspondientes para el cump
 
 IX. Las demás que determinen las leyes aplicables.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+## TÍTULO QUINTO. ATENCIÓN INTEGRAL PARA EL DESARROLLO DE LAS NIÑAS Y LOS NIÑOS EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO PRIMERO. ATENCIÓN INTEGRAL DE LAS NIÑAS Y LOS NIÑOS EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 128.
+
+La Administración Pública Estatal, a través de las acciones institucionales, promoverá, respetará, protegerá y garantizará la atención integral de las niñas y los niños en primera infancia, realizando acciones, programas y estrategias que comprendan el conjunto de actividades planificadas, continuas y permanentes de carácter público, programático y social encaminadas a asegurarles que el entorno en el que transcurre su vida sea el adecuado.
+
+La atención integral deberá incluir los ejes siguientes: desarrollo físico, salud, nutrición, desarrollo cognitivo psicosocial, protección y cuidado, los cuales tendrán como objetivo promover el desarrollo de las niñas y los niños durante la primera infancia y se articulará por medio de políticas públicas.
+
+Para efectos del presente ordenamiento primera infancia se entenderá como la etapa de la niñez que va desde el nacimiento hasta que se cumplen seis años de edad.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 129.
+
+Las acciones y programas que se realicen para la atención de la primera infancia por medio de los diversos órganos de gobierno, tendrán por objeto proteger, reconocer y garantizar el desarrollo físico, mental, emocional y social de las niñas y niños en esta etapa, a fin de propiciar su pleno e integral desarrollo, que les permita una mayor movilidad en el aspecto social, económico, político y cultural, contribuyendo a una mejor calidad de vida.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 130.
+
+Las niñas y los niños en primera infancia gozarán de todos los derechos derivados del sistema jurídico internacional, nacional y local y de los siguientes derechos:
+
+I. A ser derechohabientes de políticas, programas y servicios que mediante acciones institucionales otorguen los órganos de Gobierno del Estado con el objeto de promover, respetar, proteger y garantizar el desarrollo integral de las niñas y los niños;
+
+II. Recibir estimulación para un desarrollo integral en la primera infancia, que les permita conformar de manera óptima su sistema nervioso, para desarrollar al máximo las capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas de las niñas y los niños;
+
+III. A la movilidad social e intergeneracional, siendo sujetos de programas y servicios a fin de generar condiciones adecuadas que les permitan la igualdad de oportunidades para el desarrollo de sus capacidades;
+
+IV. Al descanso, al juego y al esparcimiento, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento, así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad;
+
+V. A participar, ser consultados, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y a que dichas opiniones sean tomadas en cuenta;
+
+VI. A crecer y desarrollarse en un entorno saludable, seguro, afectivo y libre de violencia o conductas nocivas;
+
+VII. A no ser sometidos a castigo corporal, tratos crueles, inhumanos o degradantes observando especialmente su desarrollo emocional o psicológico, en todos los entornos, incluso en el seno familiar o las escuelas;
+
+VIII. Al pleno desarrollo psicosocial;
+
+IX. A la salud;
+
+X. Al desarrollo físico;
+
+XI. Protección y cuidado;
+
+XII. A la integridad física, mental y emocional; y
+
+XIII. A una nutrición adecuada.
+
+Los órganos de Gobierno del Estado deberán promover, respetar, proteger y garantizar la aplicación e interpretación del orden jurídico que fortalezca los derechos descritos en la presente ley.
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 131.
+
+Los padres, ascendientes, tutores y toda persona que tenga bajo su cuidado o resguardo a las niñas y los niños en primera infancia, podrán exigir el cumplimiento de los principios y derechos reconocidos en la presente ley, recibir asistencia, capacitación, educación, asesoría y acompañamiento en la tarea de procurar su desarrollo integral y ser objeto de acciones institucionales por parte de la Administración Pública Estatal.
+
+Lo anterior sin perjuicio de la creación, reconocimiento o extinción de derechos, situaciones jurídicas o acciones relacionadas con la patria potestad, guardia y custodia previstas en la legislación aplicable.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO TERCERO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ÓRGANOS DE GOBIERNO DEL ESTADO
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 132.
+
+La Administración Pública Estatal, dentro del ámbito de sus competencias, otorgará la atención integral a la primera infancia prevista en la presente ley, implementando las acciones siguientes:
+
+I. Acciones institucionales que promuevan, respeten, protejan y garanticen el desarrollo integral de las niñas y los niños en primera infancia, que en igualdad de condiciones, promuevan oportunidades de desarrollo que generen movilidad social e intergeneracional en los aspectos social y económico;
+
+II. Promover y garantizar el reconocimiento de las niñas y los niños en primera infancia como agentes sociales dotados de intereses, capacidades y reconocimiento de vulnerabilidades particulares, así como de sus necesidades de protección, orientación y apoyo en el ejercicio de sus derechos; y
+
+III. Llevar a cabo acciones de gobierno que faciliten, promuevan, flexibilicen el procedimiento de registro civil, a efecto de garantizar su derecho a gozar de identidad y personalidad jurídica, para ser sujetos de los derechos reconocidos por nuestro sistema jurídico.
+
+La Administración Pública Estatal podrá convocar a los sectores público, académico, social y privado, a colaborar en el cumplimiento de la presente ley mediante convenios o acuerdos de colaboración que permitan un enfoque de atención integral a la primera infancia en los diferentes escenarios donde se desarrollan las niñas y los niños.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO CUARTO. DE LA POLÍTICA DE ATENCIÓN INTEGRAL PARA EL DESARROLLO DE LAS NIÑAS Y LOS NIÑOS EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 133.
+
+La política integral de atención a la primera infancia deberá promover el desarrollo integral de las niñas y niños en primera infancia, tomando en cuenta sus necesidades y características específicas, sentando con ello las bases para la movilidad social de este sector.
+
+El Gobernador del Estado por conducto de la Secretaría de Salud, la Secretaría de Desarrollo Social y el Sistema para el Desarrollo Integral de la Familia (DIF), establecerá y ejecutará la política de atención integral a la primera infancia, la cual deberá desarrollar de manera enunciativa más no limitativa, los siguientes ejes:
+
+I. Desarrollo físico y salud:
+
+a) Salud y lactancia materna;
+
+b) Promoción de cuidados neonatales;
+
+c) Esquema de vacunación completo;
+
+d) Prevención de accidentes;
+
+e) Desparasitación;
+
+f) Detección precoz de alteraciones de crecimiento y desarrollo;
+
+g) Control de la niña y el niño sano en primera infancia;
+
+h) Detección de malformaciones congénitas;
+
+i) Detección precoz de alteraciones auditivas; y
+
+j) Fomento de actividad física.
+
+II. Nutrición:
+
+a) Orientación alimentaria y nutrición; y
+
+b) Promoción de estilos de vida saludables.
+
+III. Desarrollo cognitivo psicosocial:
+
+a) Creación de espacios significativos que propicien el desarrollo cognitivo y que potencien la capacidad de aprendizaje;
+
+b) Orientación a las familias acerca del desarrollo integral y los derechos de las niñas y los niños;
+
+c) Formación de grupos de estimulación temprana, y
+
+d) Capacitación a los ascendientes de niñas y niños en primera infancia en la identificación de signos y síntomas de alarma.
+
+IV. Protección y cuidado:
+
+a) Identificación a través del Registro Civil;
+
+b) Promover la convivencia pacífica y buen trato en el núcleo familiar;
+
+c) Prevención del maltrato, el abuso y la explotación sexual; y
+
+d) Atención especializada a los niños y niñas de padres separados o en proceso de separación.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
@@ -1014,3 +1162,13 @@ Lic. Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE SEPTIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267 QUE ADICIONA EL TÍTULO QUINTO A LA LEY DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
