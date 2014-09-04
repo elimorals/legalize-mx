@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-acceso-a-la-64765"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-26"
-last_updated: "2014-06-19"
+last_updated: "2014-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64765&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-12-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial de la Federación, el viernes 26 de diciembre de 2008.
 
@@ -122,9 +122,9 @@ María Elena Pérez-Jaén Zermeño
 
 Comisionada Ciudadana
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO 0347/SO/30-03/2011 APROBADO POR EL PLENO DE INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO 0347/SO/30-03/2011 APROBADO POR EL PLENO DE INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, MODIFICO DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE OCTUBRE DE 2011)</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
@@ -340,7 +340,7 @@ XXIII. Emitir observaciones y recomendaciones a los Entes Obligados que incumpla
 
 > <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2011)</small>
 
-XXIV. Resolver los recursos de revisión, revocación y denuncias previstos en la Ley de Transparencia y la Ley de Datos Personales; y (sic)
+XXIV. Resolver los recursos de revisión, revocación y denuncias previstos en la Ley de Transparencia y la Ley de Datos Personales; y
 
 > <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
@@ -402,7 +402,9 @@ XIX. Designar a los integrantes del Comité de Transparencia del Instituto, así
 
 XX. Suscribir contratos en materia de adquisiciones, arrendamientos, prestación de servicios y obra pública;
 
-XXI. Autorizar el nombramiento de los servidores públicos del Instituto, así como designar a los encargados de despacho de las unidades administrativas del Instituto;
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
+
+XXI. Autorizar el nombramiento de los servidores públicos del Instituto y suscribir sus bajas, así como designar y remover a los encargados de despacho de las unidades administrativas del Instituto;
 
 XXII. Designar o remover al Secretario Técnico en términos de lo dispuesto en el artículo 69 de la Ley de Transparencia;
 
@@ -506,15 +508,15 @@ XIV. Proponer al Pleno, a través del Presidente, la creación, modificación o 
 
 XV. Designar al encargo del tratamiento de los sistemas de datos personales en posesión de su unidad administrativa;
 
-XVI. Vigilar el cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y (sic)
+XVI. Vigilar el cumplimiento de la Ley de Transparencia, la Ley de Datos Personales, el presente Reglamento y demás disposiciones aplicables; y
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
 XVII. Informar a los Comisionados Ciudadanos sobre los recursos de revisión y las denuncias en materia de su competencia que ingresan semanalmente ante la Unidad de Correspondencia de este Instituto.
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
-XVIII. En ausencia del Comisionado Presidente, autorizar el nombramiento de los encargados de despacho de las unidades administrativas, previa consulta con los Comisionados Ciudadanos;
+XVIII. En ausencia del Comisionado Presidente, designar y remover a los encargados de despacho de las unidades administrativas, previa consulta con los Comisionados Ciudadanos;
 
 > <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
 
@@ -816,7 +818,7 @@ XXV. Contribuir al buen desarrollo de los eventos organizados por el Instituto
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Apoyar en la elaboración del Informe Anual de Actividades y Resultados del Instituto; y (sic)
+XXVI. Apoyar en la elaboración del Informe Anual de Actividades y Resultados del Instituto; y
 
 > <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
@@ -1240,15 +1242,17 @@ XV. Coordinar los trabajos necesarios para el cumplimiento de las obligaciones d
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2012)</small>
 
-XVI. Presidir el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia; y (sic)
+XVI. Presidir el Comité de Bienes Muebles del Instituto en los términos establecidos en la normatividad en la materia; y
 
 > <small>(REFORMADA, G.O. 19 DE JUNIO DE 2014)</small>
 
 XVII. En ausencia del Comisionado Presidente, autorizar el nombramiento de los servidores públicos del Instituto, a excepción de los titulares o encargados de despacho de las unidades administrativas, a propuesta de los titulares de las unidades administrativas que integran el Instituto; y
 
-> <small>(ADICIONADA, G.O. 19 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, G.O. 4 DE SEPTIEMBRE DE 2014)</small>
 
-XVIII. Las demás que se deriven de la Ley de Transparencia y la Ley de Datos Personales y de otras disposiciones aplicables.
+XVIII. En ausencia del Comisionado Presidente, suscribir la baja de los servidores públicos del Instituto, a propuesta de los titulares de las unidades administrativas que integran el Instituto; y
+
+XIX. Las demás que se deriven de la Ley de Transparencia y la Ley de Datos Personales y de otras disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1385,3 +1389,7 @@ G.O. 19 DE JUNIO DE 2014.
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL FEDERAL.
 
 Transitorio Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
+
+G.O. 4 DE SEPTIEMBRE DE 2014.
+
+Único: Publíquese en la Gaceta Oficial de (sic) Distrito Federal.
