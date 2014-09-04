@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-95948"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-09-23"
-last_updated: "2014-07-11"
+last_updated: "2014-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-09-20"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES, PUBLICADO EN EL D.O.F. DE 4 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS QUINCE DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de septiembre de 2013.
 
@@ -1641,7 +1643,7 @@ Los días y horas hábiles del Instituto se fijarán en el calendario anual de l
 
 Los días en que el Instituto suspenda sus labores, o cuando sus oficinas permanezcan cerradas, serán considerados como inhábiles para todos los efectos legales ante terceros, salvo en los casos que se habiliten expresamente para la realización de trámites o práctica de diligencias.
 
-TRANSITORIOS (SIC)
+## TRANSITORIOS
 
 PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1662,3 +1664,25 @@ SEGUNDO.- Para efectos del "Acuerdo mediante el cual el Pleno del Instituto Fede
 TERCERO.- En tanto se designa al primer titular de la Autoridad Investigadora, la facultad prevista en el artículo 33 Bis, fracción XXVI, será ejercida por el Presidente del Instituto.
 
 CUARTO.- En tanto se emitan los lineamientos relativos al sistema de servicio profesional del Instituto, los nombramientos que se hagan de Directores Generales y Titulares de Unidad, deberán de recaer en personas con experiencia mínima de tres años relacionados con el ejercicio de sus funciones y título profesional con antigüedad mínima de cinco años.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor a los quince días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto Federal de Telecomunicaciones publicado en el Diario Oficial de la Federación el veintitrés de septiembre de dos mil trece.
+
+TERCERO. El Instituto deberá adecuar su estructura orgánica, así como las normas administrativas, a lo dispuesto en el presente Estatuto Orgánico. En tanto no se efectúe la adecuación normativa a que se refiere este precepto, se continuarán aplicando aquéllas vigentes antes de la entrada en vigor del presente Estatuto Orgánico en lo que no se opongan a éste.
+
+CUARTO. Los asuntos y procedimientos que se estén sustanciando ante las unidades administrativas previstas en el Estatuto Orgánico que se abroga, continuarán su trámite ante las unidades administrativas u órganos competentes previstos en el presente Estatuto Orgánico, a partir de su entrada en vigor.
+
+QUINTO. Los servidores públicos del Instituto que, por virtud de la reestructuración orgánica y redistribución de funciones previstas en el presente Estatuto Orgánico, deban entregar a otros servidores públicos expedientes, asuntos, trámites o procedimientos para su recepción y continuación, documentarán la entrega-recepción de los mismos en términos del numeral CUARTO y demás aplicables del “Acuerdo por el que se establecen los lineamientos específicos para la entrega-recepción del informe de los asuntos a su cargo y de los recursos que tengan asignados los servidores públicos adscritos al Instituto Federal de Telecomunicaciones, al momento de separarse de su empleo, cargo o comisión”. A partir de la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación, las unidades administrativas y órganos del Instituto deberán coordinarse para preparar la entrega-recepción prevista en este artículo.
+
+SEXTO. Las referencias hechas en otros ordenamientos, lineamientos o resoluciones a las unidades administrativas establecidas en el Estatuto Orgánico que se abroga en términos del artículo segundo transitorio, se entenderán hechas a las unidades administrativas que se establecen en el presente Estatuto Orgánico, en el ámbito de las atribuciones previstas en el mismo.
+
+SÉPTIMO. En tanto se designe al primer Titular de la Autoridad Investigadora, la facultad prevista en el artículo 62, fracción XXXIII, del presente Estatuto Orgánico del Instituto Federal de Telecomunicaciones será ejercida por el Presidente.
+
+OCTAVO. En tanto se emitan los lineamientos relativos al sistema de servicio profesional del Instituto, los nombramientos que se hagan de Directores Generales Adjuntos, Directores Generales y Titulares de Unidad, deberán de recaer en personas con experiencia mínima de tres años en materias relacionadas con el ejercicio de sus funciones y título profesional con antigüedad mínima de cinco años.
+
+NOVENO. En tanto se designe al primer Contralor Interno del Instituto, el Director de Responsabilidades y Quejas ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General de Responsabilidades y Quejas; el Director de Auditoría ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General de Auditoría, y el Director de Control, Evaluación y Desarrollo Administrativo ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General de Control, Evaluación y Desarrollo Administrativo, todas adscritas a la Contraloría Interna.
+
+DÉCIMO. El Acuerdo mediante el cual el Pleno del Instituto Federal de Telecomunicaciones aprueba su calendario anual de sesiones ordinarias y el calendario anual de labores para el año dos mil catorce, publicado en el Diario Oficial de la Federación el cinco de febrero de dos mil catorce, continuará siendo aplicable después de la entrada en vigor de este Estatuto Orgánico. Para efectos de dicho Acuerdo, la Autoridad Investigadora, para el ejercicio de sus atribuciones, podrá habilitar días y horas inhábiles, cuando hubiere causa que lo exija.
