@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2014-08-01"
+last_updated: "2014-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -375,13 +375,17 @@ XXV.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones 
 
 Asimismo, participar en la actualización e integración permanente del Sistema de Información y Gestión Educativa, el cual debe proporcionar información para satisfacer las necesidades de operación de los sistemas educativos locales, de conformidad con la Ley General de Educación;
 
-(REFORMADA, P.O. 13 DE MARZO DE 2014) (F. DE E., P.O. 28 DE MARZO DE 2014)
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
 
-XXVI.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar y
+XXVI.- Participar con la Autoridad Educativa Federal en la operación de los mecanismos de ingreso y promoción en el servicio docente y de administración escolar.
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2012) (F. DE E., P.O. 28 DE MARZO DE 2014)
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
 
-XXVII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXVII.- Elaborar e implementar por conducto de la Secretaría de Educación y Bienestar Social y la Secretaría de Desarrollo Social del Estado, programas contra la deserción escolar, principalmente contra la que se da en la educación de carácter obligatoria, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+XXVIII.- Las demás atribuciones que emanen del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1191,7 +1195,7 @@ II.- Reunir fondos con participaciones voluntarias o actividades de sus miembros
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
 
-Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota o cooperación que se solicite, son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda (sic) los trámites de solicitudes recepción y devolución de documentos, así como inscripción, preinscripción, reinscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
+Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota o cooperación que se solicite, son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda los trámites de solicitudes recepción y devolución de documentos, así como inscripción, preinscripción, reinscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2007)</small>
 
@@ -1972,3 +1976,7 @@ CUARTO.- El Ejecutivo del Estado deberá establecer dentro de sus Proyectos de P
 P.O. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 5 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
