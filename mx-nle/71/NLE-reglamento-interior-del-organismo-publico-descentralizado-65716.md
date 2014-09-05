@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organismo-publico-descentralizado-65716
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2014-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUE FUNDIDORA
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUE FUNDIDORA
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PARQUE FUNDIDORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -55,7 +55,9 @@ III. Ley: La Ley que crea al Organismo Público Descentralizado denominado Parqu
 
 IV. Organismo o Parque Fundidora: El Organismo Público Descentralizado denominado Parque Fundidora.
 
-V. Unidades Administrativas: Las Direcciones y la Coordinación del Organismo adscritas en forma directa al Director General que se establecen en este Reglamento Interior y las demás creadas por el Consejo de Administración con tal carácter.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+V. Unidades Administrativas: Las Direcciones del Organismo adscritas en forma directa al Director General que se establecen en este Reglamento Interior y las demás creadas por el Consejo de Administración con tal carácter.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL
 
@@ -69,15 +71,29 @@ Para el ejercicio de las funciones, atribuciones y despacho de los asuntos de su
 
 I. Oficina del Director General;
 
-II. Coordinación de Proyectos Internacionales y Eventos Especiales;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+II. Dirección de Contraloría;
 
 III. Dirección de Administración y Finanzas;
 
 IV. Dirección de Desarrollo y Control Arquitectónico;
 
-V. Dirección de Operaciones, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Dirección Jurídica.
+V. Dirección de Operaciones;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Dirección Jurídica;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Dirección de Planeación y Vinculación Social; y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Dirección de Promoción y Desarrollo.
 
 ###### Artículo 6.
 
@@ -129,31 +145,55 @@ IX. Desempeñar las funciones y comisiones que el Director General le encomiende
 
 X. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Además de las señaladas en el Artículo 11 de este Reglamento Interior, el Coordinador de Proyectos Internacionales y Eventos Especiales contará con las siguientes atribuciones:
+Además de las señaladas en el Artículo 11 de este Reglamento Interior, el Director de Contraloría contará con las siguientes atribuciones:
 
-I. Elaborar, dirigir, coordinar y supervisar los planes y programas de los proyectos y eventos de su área y acordarlos con el Director General;
+I. Prevenir, vigilar, verificar y evaluar el uso de los recursos obtenidos y asignados al Organismo, estableciendo mecanismos de control en el desarrollo de las funciones;
 
-II. Promover la participación de las dependencias y entidades del sector público y de la iniciativa privada para el desarrollo de eventos especiales e internacionales, así como en acciones que apoyen el cumplimiento del objeto y atribuciones del Organismo;
+II. Elaborar el Programa Operativo Anual de las actividades de la Dirección de la Contraloría, presentarlo al Director General para su autorización e informar al Titular de la Contraloría y Transparencia Gubernamental;
 
-III. Impulsar, coordinar y supervisar la participación de asociaciones, clubes, cámaras y demás instituciones de la sociedad que apoyen la realización de eventos de recreación, esparcimiento, culturales, deportivos, artísticos, de fomento comercial, industriales, de servicios, turísticos y sociales, procurando el rescate de las raíces y tradiciones culturales de Nuevo León;
+III. Fijar y dirigir las políticas de control interno del Organismo para el uso de los recursos públicos asignados al mismo;
 
-IV. Participar en la planeación, ejecución y seguimiento de proyectos que realice el Organismo, orientados al desarrollo sustentable del Estado;
+IV. Participar en colaboración con la Dirección de Administración y Finanzas en los trabajos internos para la elaboración y seguimiento del anteproyecto de presupuesto anual de ingresos, egresos e inversiones del Organismo;
 
-V. Promover la participación del Parque Fundidora en los programas intergubernamentales, de la iniciativa privada y de representación nacional e internacional;
+V. Verificar que la asignación y ejercicio del presupuesto se lleve a cabo en cumplimiento a los programas de trabajo de las Unidades Administrativas del Organismo, aprobados por el Director General;
 
-VI. Ejecutar y coordinar programas de relaciones públicas para la atención de medios, asociaciones, instituciones, iniciativa privada y dependencias gubernamentales;
+VI. Emitir opinión cuando sea requerida por la Dirección de Administración y Finanzas sobre los proyectos de normas de contabilidad y control en materia de programación, presupuesto, administración de recursos humanos, materiales y financieros que pretendan emitir para las Unidades Administrativas del Organismo;
 
-VII. Dirigir, coordinar y supervisar programas de visitas al Parque Fundidora que se realicen con el propósito de fortalecer su identidad como un lugar de tradición histórica, museo de sitio de arqueología industrial y patrimonio ecológico de Nuevo León;
+VII. Vigilar el correcto ejercicio del gasto público por parte de las diversas Unidades Administrativas del Organismo;
 
-VIII. Dirigir y coordinar las acciones de comercialización relacionadas con las instalaciones y servicios del Parque Fundidora;
+VIII. Establecer y dictar las bases generales para la realización de auditorías, inspecciones y evaluaciones a las diversas áreas que integran la estructura del Organismo e informar al Director General del resultado de las mismas;
 
-IX. Dirigir y coordinar programas de difusión y comunicación relacionados con proyectos internacionales y eventos especiales del Organismo;
+IX. Elaborar un informe bimestral de las actividades realizadas, presentarlo al Director General y enviarlo al Titular de la Contraloría y Transparencia Gubernamental;
 
-X. Establecer sinergias con instituciones educativas para realizar los estudios de mercado para conocer el grado de satisfacción y posicionamiento del Parque Fundidora, y
+X. Verificar la correcta elaboración de las actas de entrega-recepción, intermedia y final de los Servidores Públicos señalados en la normatividad aplicable;
 
-XI. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
+XI. Vigilar que las Unidades Administrativas del Organismo cumplan con la normatividad, disposiciones jurídicas y administrativas que rigen el ámbito de actuación;
+
+XII. Implementar herramientas preventivas de detección y corrección de áreas de oportunidad para el mejoramiento de los Servicios Públicos del Organismo;
+
+XIII. Coordinar y difundir los programas y procesos que proponga la Unidad de Mejora Regulatoria;
+
+XIV. Supervisar el cumplimiento en la presentación de la declaración patrimonial de aquellos Servidores Públicos del Organismo que se encuentren obligados en los términos legales aplicables;
+
+XV. Verificar la existencia y actualización de los registros de los padrones de proveedores y de contratistas del Organismo;
+
+XVI. Atender y dar seguimiento a las quejas y denuncias que se presenten con motivo de irregularidades en acuerdos, convenios o contratos celebrados entre los particulares y el Organismo, así como las de la ciudadanía en general por la prestación de un servicio;
+
+XVII. Inspeccionar y vigilar que las Unidades Administrativas del Organismo cumplan con las normas y disposiciones en materia de sistema y registro de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes y demás activos y recursos materiales del Organismo;
+
+XVIII. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nuevo León por parte de los Servidores Públicos del Organismo;
+
+XIX. Formular e implantar por sí o a través de terceros, acciones de mejoramiento encaminadas a realizar de manera eficiente los procedimientos de trabajo y la normatividad en el Organismo;
+
+XX. Vigilar en los términos de la legislación y con los objetivos, criterios y políticas que determine el Organismo, la aplicación de los manuales de organización, manuales de procedimientos y los manuales de servicios al público;
+
+XXI. Informar permanentemente al Director General de las acciones programadas, en proceso y las concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos; y
+
+XXII. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
 
 ###### Artículo 13.
 
@@ -265,13 +305,61 @@ X. Certificar las constancias que obren en los archivos del Organismo para ser e
 
 XI. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 17.
+
+Además de las señaladas en el Artículo 11 de este Reglamento Interior, el Director de Planeación y Vinculación Social contará con las siguientes atribuciones;
+
+I. Elaborar y presentar anualmente a la Dirección General un Plan Estratégico de Planeación y Vinculación Social para el Organismo, el cual deberá ser aprobado por el Director General;
+
+II. Realizar las acciones necesarias para dar cumplimiento al Plan Estratégico de Planeación y Vinculación Social para el Organismo;
+
+III. Buscar, identificar y gestionar alianzas y/o sinergias con otras Dependencias, Organismos, Personas Físicas o Morales para que colaboren en los proyectos de esta Dirección;
+
+IV. Definir e implementar en el Parque Fundidora, las estrategias que vinculen e incentiven la participación ciudadana con y/o mediante el Organismo;
+
+V. Buscar, identificar y gestionar fondos económicos estatales, nacionales e internacionales a los que el Organismo pueda tener acceso;
+
+VI. Buscar, identificar y gestionar reconocimientos estatales, nacionales e internacionales en los que pueda participar el Organismo;
+
+VII Buscar e implantar de manera continua en el Organismo, prácticas exitosas de Planeación y Vinculación Social en otros Parques de Clase Mundial; y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 18.
+
+Además de las señaladas en el Artículo 11 de este Reglamento Interior, el Director de Promoción y Desarrollo contará con las siguientes atribuciones:
+
+I. Dar seguimiento al debido cumplimiento de los proyectos y concesiones existentes en el Organismo;
+
+II. Coordinar, evaluar y dar seguimiento a la promoción y comercialización de espacios para eventos y actividades con fines de lucro dentro del Organismo;
+
+III. Identificar y evaluar áreas de oportunidades relacionadas con la comercialización y renta de espacios dentro del Organismo;
+
+IV. Definir e implementar estrategias para la adecuada difusión de las actividades dentro del Organismo;
+
+V. Organizar, realizar y coordinar los eventos de temporada dentro del Organismo;
+
+VI. Evaluar, y en su caso otorgar los permisos especiales para el uso de las instalaciones del Organismo, siempre y cuando cuente con la autorización precisa de la Dirección General; y
+
+VII. Las demás que le confieran las disposiciones legales aplicables, y el Director General en la esfera de sus atribuciones.
+
+### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 19.
 
 Las ausencias temporales del Director General, serán suplidas por el Titular de la Unidad Administrativa que el mismo Director General designe.
 
 Cuando la ausencia sea definitiva, el Gobernador del Estado designará al servidor público que lo suplirá de forma interina hasta una nueva designación conforme a la Ley.
 
-###### Artículo 18.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 20.
 
 Las ausencias temporales de los demás Titulares de las Unidades Administrativas señaladas en este Reglamento Interior, serán suplidas por el servidor público que designe el Director General.
 
@@ -301,4 +389,8 @@ ERIK C. JURGENSEN BELL IRVING
 
 La presente hoja de firmas corresponde al Reglamento Interior del Organismo Público Descentralizado denominado Parque Fundidora, dado en Monterrey, Nuevo León, el día 25 de Noviembre de 2008.
 
-### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2014.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
