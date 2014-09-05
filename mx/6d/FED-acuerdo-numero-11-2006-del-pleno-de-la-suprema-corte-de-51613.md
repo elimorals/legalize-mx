@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-11-2006-del-pleno-de-la-suprema-corte-de-51613"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2014-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-08-28"
 ---
 # ACUERDO NUMERO 11/2006 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA CREACION DEL INSTITUTO DE INVESTIGACIONES JURISPRUDENCIALES Y DE PROMOCION Y DIFUSION DE LA ETICA JUDICIAL]
 
-ACUERDO NUMERO 11/2006, DEL DOCE DE AGOSTO DE DOS MIL SEIS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA CREACION DEL INSTITUTO DE INVESTIGACIONES JURISPRUDENCIALES Y DE PROMOCION Y DIFUSION DE LA ETICA JUDICIAL
+ACUERDO NÚMERO 11/2006, DEL DOCE DE AGOSTO DE DOS MIL SEIS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA CREACIÓN DEL INSTITUTO DE INVESTIGACIONES JURISPRUDENCIALES Y DE PROMOCIÓN Y DIFUSIÓN DE LA ÉTICA JUDICIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 19/2014, DE VEINTISÉIS DE AGOSTO DE DOS MIL CATORCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE EL ESTATUTO DEL CENTRO DE ESTUDIOS CONSTITUCIONALES DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 5 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de septiembre de 2006.
 
@@ -140,3 +142,17 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Mariano Az
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en su Sesión Privada celebrada hoy, veintiocho de agosto de dos mil seis, y por unanimidad de once votos de los señores Ministros Presidente Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, y Juan N. Silva Meza, emitió el Acuerdo General número 11/2006, RELATIVO A LA CREACION DEL INSTITUTO DE INVESTIGACIONES JURISPRUDENCIALES Y DE PROMOCION Y DIFUSION DE LA Etica Judicial, que antecede.- México, Distrito Federal, veintiocho de agosto de dos mil seis.- Conste Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo Número 11/2006, constante de catorce fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en el Punto Cuarto Transitorio.- México, Distrito Federal, a veintiocho de agosto de dos mil seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo General entrará en vigor el primero de septiembre de dos mil catorce.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 11/2006, de doce de agosto de dos mil seis, relativo a la creación del Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de la Ética Judicial.
+
+TERCERO. El personal que actualmente labora en el Instituto de Investigaciones Jurisprudenciales y de Promoción y Difusión de la Ética Judicial, queda readscrito al CECSCJ, en la inteligencia de que no se afectarán los derechos laborales que les asistan conforme a la normativa aplicable.
+
+CUARTO. El Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación aprobará la estructura de plazas y espacios que resulten necesarios para el adecuado funcionamiento del CECSCJN.
+
+QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
