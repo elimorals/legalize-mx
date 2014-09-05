@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2013-07-24"
+last_updated: "2014-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -817,7 +817,7 @@ L) Integrar el Padrón Municipal de Beneficiarios de los Programas Sociales, el 
 
 M) Auxiliar a las Dependencias del Gobierno Municipal en la elaboración de programas y acciones que contribuyan al desarrollo social y humano de la población;
 
-N) Recopilar datos y elaborar informes acerca del nivel de Desarrollo Social y Humano de la Comunidad, que sirvan de referencia para la elaboración de la política de Desarrollo Social del municipio; así como también integrar registros de voluntarios o promotores de programas sociales; y (sic)
+N) Recopilar datos y elaborar informes acerca del nivel de Desarrollo Social y Humano de la Comunidad, que sirvan de referencia para la elaboración de la política de Desarrollo Social del municipio; así como también integrar registros de voluntarios o promotores de programas sociales; y
 
 O) Organizar, convocar y constituir entre los habitantes, los Comités de Acción Comunitaria en las colonias, barrios o comunidades del territorio municipal.
 
@@ -991,7 +991,7 @@ C) Elaborar y actualizar en coordinación con la Contraloría Municipal, los pro
 
 D) Tramitar, controlar y ejercer con estricto apego a los programas autorizados, el presupuesto anual asignado a la dependencia, satisfaciendo las necesidades y requerimientos de la misma;
 
-E) Llevar el control y dar el mantenimiento necesario a los bienes muebles e inmuebles de la Secretaría; y (sic)
+E) Llevar el control y dar el mantenimiento necesario a los bienes muebles e inmuebles de la Secretaría; y
 
 F) Establecer coordinación y relación con las unidades administrativas de la Secretaría, así como con otras dependencias municipales afines, para la realización de los trámites administrativos correspondientes.
 
@@ -1011,7 +1011,7 @@ C) Sistematizar los procesos de atención para que sean eficaces y aseguren la c
 
 D) Instalar áreas de atención que proporcionen información y orientación a la ciudadanía sobre el trámite de servicios, quejas y demás asuntos relacionados con las dependencias del Gobierno Municipal;
 
-E) Organizar y coordinar programas de gobierno que fomenten la participación de la comunidad mediante audiencias públicas como un medio de comunicación entre los ciudadanos y el Presidente Municipal y sus funcionarios con objeto de atender las solicitudes de servicios públicos municipales; y (sic)
+E) Organizar y coordinar programas de gobierno que fomenten la participación de la comunidad mediante audiencias públicas como un medio de comunicación entre los ciudadanos y el Presidente Municipal y sus funcionarios con objeto de atender las solicitudes de servicios públicos municipales;
 
 F) Diseñar y coordinar los mecanismos necesarios para promover la difusión a la ciudadanía de las actividades relacionadas con los servicios y funciones del Gobierno Municipal.
 
@@ -1717,13 +1717,13 @@ XIII. Impulsar el sano crecimiento físico, mental y social de la niñez, median
 
 XIV. Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
 
-XV. Prestar servicios de orientación jurídica, psicológica y social a menores, ancianos, mujeres, minusválidos y en general a las personas de escasos recursos;
+XV. Prestar servicios de orientación jurídica, psicológica y social a menores, adultos mayores, mujeres, personas con discapacidad y en general a las personas de escasos recursos.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2014)</small>
 
-XVI. Operar establecimientos que presten servicios de asistencia social en beneficio de menores en estado de abandono, ancianos desamparados, minusválidos sin recursos y en general a personas con cualquier tipo de incapacidad;
+XVI. Operar establecimientos que presten servicios de asistencia social en beneficio de menores, personas adultas mayores y en general a cualquier persona con discapacidad.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
@@ -1896,3 +1896,7 @@ Las presentes reformas por modificación, adición y derogación al Reglamento O
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 5 DE SEPTIEMBRE DE 2014.
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
