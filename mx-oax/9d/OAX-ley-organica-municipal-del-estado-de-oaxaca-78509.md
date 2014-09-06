@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2014-07-26"
+last_updated: "2014-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -281,7 +281,7 @@ V.- Son visitantes quienes se encuentra temporalmente en el territorio por algú
 
 La calidad de vecino se pierde:
 
-I.- Por dejar de residir en el territorio del Municipio por más de seis meses, excepto cuando se desempeñen algún (sic) servicio público a la Federación, al Estado o al Municipio, fuera del territorio municipal, o se ausenten por motivos de estudios.
+I.- Por dejar de residir en el territorio del Municipio por más de seis meses, excepto cuando se desempeñen (sic) algún servicio público a la Federación, al Estado o al Municipio, fuera del territorio municipal, o se ausenten por motivos de estudios.
 
 II.- Por renuncia expresa ante la autoridad municipal.
 
@@ -565,7 +565,11 @@ La Remuneración de los Concejales y demás servidores públicos municipales, se
 
 XLV (SIC).- Presupuestar de forma inmediata y transparente, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos; y
 
-LXVI.- Las demás que les señalen las leyes y reglamentos municipales.
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+
+LXVI.- Crear el Instituto Municipal de la Juventud, a fin de promover el desarrollo y fortalecer los valores de los adolescentes y los jóvenes, y considerar en su caso, por lo menos, el diez por ciento de la plantilla de personal a la población joven.
+
+LXVII.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -869,7 +873,7 @@ B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunc
 
 Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
 
-C) Concluido el plazo para de (sic) la contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+C) Concluido el plazo para de la (sic) contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
@@ -987,7 +991,11 @@ XXVII.- Ejercer las facultades que le confiere el artículo 12 de la Ley General
 
 XXVIII.- Autorizar los documentos de compraventa de ganado y los permisos para degüello; y
 
-XXIX.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+
+XXIX.- Nombrar al del (sic) Director del Instituto Municipal de la Juventud.
+
+XXX.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 ###### ARTÍCULO 69.
 
@@ -1149,7 +1157,7 @@ VI.- Informar anualmente a la asamblea general de la población, sobre el monto,
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-VII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste, y remitirle en forma mensual la documentación comprobatoria respectiva; así informar al Ayuntamiento la recaudación por concepto agua (sic) que hayan realizado, por sí o a través de sus comités.
+VII.- Informar al Ayuntamiento sobre el destino y aplicación de los recursos ministrados por éste, y remitirle en forma mensual la documentación comprobatoria respectiva; así informar al Ayuntamiento la recaudación por concepto (sic) agua que hayan realizado, por sí o a través de sus comités.
 
 VIII.- Cuidar y proteger los recursos ecológicos con sujeción a la ley aplicable;
 
@@ -2116,3 +2124,11 @@ DECRETO NÚMERO 22, POR EL QUE SE REFORMAN LOS ARTÍCULOS 47 FRACCIÓN XVIII; 80
 P.O. 26 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca; sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Se adiciona una fracción al artículo 43 de la Ley Orgánica Municipal del Estado de Oaxaca; recorriéndose la fracción LXVI a la fracción LXVII.
+
+TERCERO. Se adiciona una fracción al artículo 68 de la Ley Orgánica Municipal del Estado de Oaxaca; recorriéndose la fracción XXIX a la fracción XXX.
