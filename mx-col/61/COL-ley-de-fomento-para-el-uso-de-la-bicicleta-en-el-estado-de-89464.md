@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-para-el-uso-de-la-bicicleta-en-el-estado-de-8946
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2014-08-30"
+last_updated: "2014-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE FOMENTO PARA EL USO DE LA BICICLETA EN EL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FOMENTO PARA EL USO DE LA BICICLETA EN EL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2014.</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de septiembre de 2012.
 
@@ -105,15 +105,17 @@ V. Ciclovía: pueden ser urbanas, interurbanas, bidireccionales o unidireccional
 
 VI. Ciclovía Articulada: A aquellas ciclovías que están intercomunicadas y permiten a los conductores de bicicletas se trasladen de un punto a otro en la ciudad o zona conurbada en cualquier momento;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 2014) (F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)
 
-VIII (SIC). Ciclopista: A la vía pública destinada exclusivamente para la circulación de bicicletas (de una comunidad a otra);
+VII. Ciclopista: A la vía pública destinada exclusivamente para la circulación de bicicletas (de una comunidad a otra);
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 2014) (F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)
 
-IX. Ley: A la Ley de Fomento y Promoción del Uso de la Bicicleta para el Estado de Colima; y
+VIII. Ley: A la Ley de Fomento y Promoción del Uso de la Bicicleta para el Estado de Colima; y
 
-X. Bici estacionamientos.
+> <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Bici estacionamientos.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -147,15 +149,15 @@ VIII. Promover incentivos para que las instituciones públicas y las empresas de
 
 IX. Implementar campañas dirigidas a los ciclistas para un comportamiento responsable y respetuoso de la normatividad que rige el tránsito en la vialidad urbana y en las vías destinadas al tránsito de bicicletas;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 2014) (F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)
 
 X. Implementar un programa de difusión por medios electrónicos, respecto a la infraestructura ciclística de movilidad en el Estado;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2014)</small>
+(REFORMADA, P.O. 30 DE AGOSTO DE 2014) (F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)
 
 XI. Coordinarse en la generación de condiciones que incluyan a la bicicleta como medio de transporte dirigido a mejorar las condiciones ambientales y de circulación vial, así como la salud y la calidad de vida de los ciudadanos colimenses; y
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2014)</small>
+(ADICIONADA, P.O. 30 DE AGOSTO DE 2014) (F. DE E., P.O. 6 DE SEPTIEMBRE DE 2014)
 
 XII. Diseñar y ejecutar de manera coordinada estrategias que permitan la articulación de las ciclovías existentes.
 
