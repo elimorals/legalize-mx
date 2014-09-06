@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-07-12"
+last_updated: "2014-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -479,9 +479,13 @@ ARTÍCULO 15 BIS.- Las unidades vehiculares automotores de cualquier tipo o clas
 
 En lo que respecta a las motocicletas, los ocupantes deberán portar cada uno de ellos casco de protección, y chaleco donde se observe el número de matrícula que corresponda a su placa de circulación, en la parte anterior y posterior conforme a las especificaciones que determine para este caso el Reglamento.
 
-La falta de cumplimiento de las disposiciones señaladas en el primer párrafo de este artículo será motivo de infracción vial, en caso de reincidencia, se procederá al aseguramiento del medio de transporte, hasta que sea cumplida dicha omisión, independientemente de las sanciones aplicables.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
 
-El aseguramiento a que se refiere el párrafo anterior lo podrán llevar a cabo las Direcciones del Transporte y de la Seguridad Vial del Estado y de Tránsito y vialidad de cada Municipio, así como las autoridades de Seguridad Pública y Procuración de Justicia y, en su caso, deberán ponerlo a disposición de la autoridad competente.
+La falta de cumplimiento de las disposiciones señaladas en el primer párrafo de este artículo será motivo de infracción vial. En caso de la falta de portación de placas de circulación vigentes al frente y en la parte posterior del vehículo, tener polarizados los cristales en los grados no permitidos en el Reglamento y sin contar con el permiso correspondiente o cuando la tarjeta de circulación no coincida con las placas de circulación respectivas, se procederá al aseguramiento del medio de transporte, hasta que sea cumplida dicha omisión, independientemente de las sanciones aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+
+El aseguramiento a que se refiere el párrafo anterior lo podrán llevar a cabo las Direcciones del Transporte y de la Seguridad Vial del Estado y de Tránsito y Vialidad de cada Municipio y, en su caso, deberán ponerlo a disposición de la autoridad competente.
 
 El Reglamento determinará las condiciones y características que deberán reunir cada uno de estos vehículos.
 
@@ -2638,3 +2642,7 @@ P.O. 12 DE JULIO DE 2014.
 DECRETO NO. 345 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN X DEL ARTÍCULO 10 Y LA FRACCIÓN I DEL ARTICULO 182 Y, ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 Y LA FRACCIÓN VII DEL 41 BIS 1, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS FRACCIONES SUBSECUENTES, TODOS DE LA LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
