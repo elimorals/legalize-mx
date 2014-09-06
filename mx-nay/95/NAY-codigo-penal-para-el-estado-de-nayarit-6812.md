@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2014-08-18"
+last_updated: "2014-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO SIN NÚMERO DE LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT, VÉASE LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO PUBLICADOS EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE DEROGARÁ DE MANERA GRADUAL HASTA SU ABROGACIÓN EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -4520,3 +4520,35 @@ Artículo Segundo.- La presente Declaratoria deberá difundirse mediante Bando S
 Artículo Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
 
 Artículo Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+P.O. 6 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Declaratoria
+
+Para los efectos señalados en el artículo segundo transitorio del Decreto de reforma a la Constitución Política del Estado Libre y Soberano de Nayarit, publicado en el Periódico Oficial del Estado con fecha 13 de octubre del año 2012, se declara que la presente legislación recoge los principios del nuevo sistema de justicia penal acusatorio en México, y entrará en vigor de acuerdo con los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Vigencia
+
+Este Código entrará en vigor gradualmente en los términos previstos en la Declaratoria que mediante Bando Solemne emita el Congreso del Estado de Nayarit, previa solicitud de la Secretaría Técnica de la Comisión de Coordinación Interinstitucional para la Implementación del Sistema de Justicia Penal Acusatorio; la vigencia total del presente Código no podrá exceder del 18 de junio de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Abrogación
+
+El Código Penal vigente promulgado mediante Decreto número 7009, publicado en el Periódico Oficial con fecha veintinueve de noviembre de mil novecientos ochenta y seis, así como todas sus reformas, se derogará de manera gradual hasta su abrogación en la medida en que avance la vigencia del presente Código, en los términos de la Declaratoria referida en el artículo transitorio primero.
+
+###### ARTÍCULO CUARTO.
+
+Ultractividad.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Código, así como los recursos de apelación serán concluidos conforme a las disposiciones vigentes al momento en que se cometió el delito.
+
+###### ARTÍCULO QUINTO.
+
+Efectos reincidencia-habitualidad.
+
+Las declaratorias de delincuentes reincidentes y/o habituales realizadas en el sistema penal tradicional, no surtirán ningún tipo de efecto jurídico en el sistema penal acusatorio.
