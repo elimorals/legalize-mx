@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2012-07-24"
+last_updated: "2014-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -78,9 +78,7 @@ V. Biogás: El conjunto de gases generados por la descomposición microbiológic
 
 VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables y por regla general son fácilmente biodegradables, pero pueden no serlo;
 
-> <small>(REFORMADA [N. DE E. ESTA DUPLICADA CON LA FRACCIÓN V], G.O. 26 DE NOVIEMBRE DE 2010)</small>
-
-VII. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
+VII. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -102,6 +100,10 @@ XI. Contenedor: El recipiente destinado al depósito temporal de los residuos s�
 
 XII. Criterios: Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de gestión integral de los residuos sólidos, que tendrán el carácter de instrumentos de política ambiental;
 
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XII Bis. Daño al ambiente: Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mesurables de los hábitats, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas y biológicas, de las relaciones e interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan.
+
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XIII. Delegaciones: Los órganos político administrativos de cada demarcación territorial en las que se divide el Distrito Federal;
@@ -113,6 +115,10 @@ XIV. Disposición final: La acción de depositar o confinar permanentemente resi
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XV. Estaciones de transferencia: Las instalaciones para el trasbordo de los residuos sólidos de los vehículos de recolección a los vehículos de transferencia;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XV Bis. Certificado de Empresas Ambientalmente Responsables: El certificado otorgado por la Secretaría, a empresas y prestadores de servicio en cuya actividad aplica métodos, prácticas, técnicas y procesos que ayudan a reutilizar, reusar, reciclar, tratar y minimizar los residuos sólidos, donde todas estas actividades son compatibles y aceptadas como amigables para el medio ambiente, son seguras, de bajo riesgo para la población en general y beneficio de la misma, en términos de la Ley Ambiental del Distrito Federal, su Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -280,7 +286,9 @@ VI. Integrar a la política de información y difusión en materia ambiental los
 
 VII. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo de los residuos sólidos;
 
-VIII. Emitir las normas ambientales para el Distrito Federal con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para el Distrito Federal con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -290,17 +298,19 @@ IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de o
 
 X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XI. Establecer, los criterios y normas para la producción y el consumo sustentable de productos plásticos incluyendo el poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
+XI. Establecer, los criterios, lineamientos y normas ambientales para el Distrito Federal referentes a la producción y el consumo sustentable de productos plásticos incluyendo el poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
 
 Los criterios y normas que emita la Secretaría deberán considerar los principios de reducción, reciclaje y reutilización en el manejo de las bolsas de plástico.
 
-Dichos criterios y normas garantizarán que el ciclo de vida de las bolsas de plástico no sea mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico, que garanticen su reutilización y reciclaje no estarán sujetas a este plazo. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años;
+Dichos criterios, lineamientos y normas ambientales para el Distrito Federal deberán garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de éstos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables, por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, minimizando la disposición final.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+Dichos criterios y normas garantizarán que el ciclo de vida de las bolsas de plástico no sea mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico, que garanticen su reutilización y reciclaje no estarán sujetas a este plazo. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años.
 
-XII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación por el uso de bolsas de plástico así como del poliestireno expandido; además deberá fomentar la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación causada por la generación de residuos sólidos, incluyendo el causado por el uso de bolsas de plástico y de productos plásticos de poliestireno expandido; se deberá fomentar la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -308,13 +318,27 @@ XIII. Llevar un registro actualizado de los planes de manejo a los que esta Ley 
 
 XIV. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
 
-XV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia; y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XVI. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación.
+XV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVI. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. Promover la certificación de empresas ambientalmente responsables para aquellas que por su convicción, autorregulación, mejora continua en sus procesos productivos, comercialización y venta de servicios, minimicen o reduzcan la generación de residuos. Esta certificación también deberá ser atribuible a los recolectores, acopiadores y comercializadores de residuos, que promuevan un manejo ambientalmente adecuado de los residuos y que no representen riesgos a la población; y
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 7°.
 
-Corresponde a la Secretaría de Obras y Servicios el ejercicio de las siguientes facultades:
+Corresponde a la Secretaría de Obras y Servicios el ejercicio de las siguientes:
 
 I. Planear, organizar, normar, controlar y vigilar la prestación del servicio público de limpia en sus etapas de barrido y recolección en vías primarias, transferencia, tratamiento y disposición final de los residuos sólidos;
 
@@ -324,7 +348,7 @@ III. Planear y ejecutar las obras y prestación del servicio público de limpia 
 
 IV. Establecer los criterios y normas técnicas para la construcción, conservación y mantenimiento de la infraestructura y equipamiento para el manejo, tratamiento y disposición final de los residuos sólidos;
 
-V. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento;
+V. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
 
 VI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones para la prestación del servicio público de limpia y, en los casos viables otorgar la concesión correspondiente con base en las disposiciones jurídicas aplicables;
 
@@ -334,7 +358,7 @@ VII. Realizar los estudios y proyectos de obras de infraestructura para el manej
 
 VIII. Diseñar, construir, organizar, operar y mantener las estaciones de transferencia, plantas de selección y tratamiento, y sitios para la disposición final de los residuos sólidos, con base en el Programa de Gestión Integral de los Residuos Sólidos;
 
-IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas,así como la inspección y vigilancia de dicho traslado;
+IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas, así como la inspección y vigilancia de dicho traslado;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -374,7 +398,9 @@ IV. Orientar a la población sobre las prácticas de reducción, reutilización 
 
 V. Promover programas de capacitación a los servidores públicos, así como de fomento y orientación a la población sobre la gestión integral de los residuos sólidos;
 
-VI. Instalar el equipamiento para el depósito separado de los residuos sólidos en la vía pública y áreas comunes y supervisar periódicamente su buen estado y funcionamiento;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Instalar el equipamiento para el depósito separado y selectivo de los residuos sólidos en áreas públicas, áreas comunes y espacios públicos, así como en lugares donde técnicamente se determine viable o necesario la instalación de los mismos y garantizar periódicamente su buen estado y funcionamiento;
 
 VII. Organizar administrativamente el servicio público de limpia de su competencia, el nombramiento del personal necesario y proporcionar los elementos, equipos, útiles y, en general, todo el material indispensable para la prestación de dicho servicio;
 
@@ -398,9 +424,83 @@ XV. Integrar a la política delegacional de información y difusión en materia 
 
 XVI. Atender los demás asuntos que en materia de los residuos sólidos le conceda esta ley y otros ordenamientos jurídicos aplicables.
 
-### CAPÍTULO II. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA POLÍTICA AMBIENTAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO I BIS. DE LA COMISIÓN PARA LA GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS DE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis.
+
+El Jefe de Gobierno creará la Comisión para la Gestión Integral de Residuos Sólidos de la Ciudad de México, como órgano interinstitucional de coordinación, monitoreo, seguimiento y evaluación de las políticas, acciones y programas instrumentados por la Administración Pública del Distrito Federal en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis 1.
+
+La Comisión será presidida por el Jefe de Gobierno y estará integrada por los titulares de:
+
+I. La Secretaría del Medio Ambiente;
+
+II. La Secretaría de Obras y Servicios;
+
+III. La Secretaría de Salud;
+
+IV. La Secretaría de Finanzas;
+
+V. La Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
+
+VI. La Procuraduría Ambiental y del Ordenamiento Territorial;
+
+VII. El Jefe de Gobierno del Distrito Federal podrá invitar a dos integrantes de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático de la Asamblea Legislativa del Distrito Federal, quienes participarán únicamente con derecho a voz.
+
+Los integrantes de la Comisión, deberán designar a un representante con cargo mínimo en la Administración Pública del Distrito Federal de Director General o su homólogo, quien participará en sus sesiones de manera permanente, con derecho de voz y voto.
+
+Cuando a juicio de la Comisión resulte conveniente contar con la opinión o asesoría de las dependencias y entidades federales, estatales o municipales, así como de especialistas, instituciones educativas y de investigación, organizaciones sociales e internacionales, este órgano colegiado podrá invitarlas a participar en sus sesiones y actividades de forma permanente o temporal, únicamente con derecho de voz.
+
+En ausencia del Jefe de Gobierno del Distrito Federal fungirá como Presidente quien determine. Los representantes de los titulares de las Dependencias y Entidades serán el enlace entre éstas y la Comisión, a efecto de lograr una mayor eficiencia y eficacia en el cumplimiento de los acuerdos asumidos.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis 2.
+
+Corresponde a la Comisión para la Gestión Integral de los Residuos Sólidos de la Ciudad de México entre otras el ejercicio de las siguientes facultades:
+
+I. Proponer y, en su caso, definir los mecanismos y criterios de coordinación y transversalidad de los programas y acciones de la administración pública del Distrito Federal que se vinculen con la generación, manejo, tratamiento, minimización, aprovechamiento y disposición final de residuos, así como revisar y dar seguimiento al cumplimiento de los objetivos y metas establecidos en ellos;
+
+II. Proponer a las instancias federales y estatales la adopción de estrategias y políticas metropolitanas enfocadas a atender de manera integral el tema de los residuos;
+
+III. Presentar al Jefe de Gobierno los resultados de las investigaciones, estudios y diagnósticos elaborados por los integrantes o invitados de la Comisión, cuyo objeto consista en mejorar el diseño, planeación y generación de proyectos, programas y acciones gubernamentales en materia de generación, manejo, tratamiento, aprovechamiento y disposición final de residuos;
+
+IV. Proponer a las dependencias y entidades de la administración pública del Distrito Federal, la suscripción de convenios, contratos o cualquier instrumento jurídico con los sectores público, privado y social, que contribuyan a la solución de los problemas creados por los residuos sólidos, desde su generación hasta su disposición final;
+
+V. Proponer y, en su caso, presentar a las autoridades competentes los proyectos de modificaciones legislativas, reglamentarias y administrativas que actualicen y hagan más eficiente el marco normativo aplicable en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+
+VI. Fomentar la participación de los sectores público, privado y social en la instrumentación de los programas, proyectos y acciones gubernamentales en materia de generación, encierro, acopio, transferencia, selección, tratamiento, manejo, aprovechamiento, valorización y disposición final de residuos.
+
+VII. Diseñar estrategias financieras que generen recursos al Gobierno del Distrito Federal, a través de los mecanismos económicos previstos en los instrumentos nacionales e internacionales y, en su caso, proponer su ejecución a las autoridades competentes;
+
+VIII. Informar periódicamente al Jefe de Gobierno del Distrito Federal y a la Asamblea Legislativa del Distrito Federal, los avances de los programas, acciones y resultados de la Comisión;
+
+IX. Aprobar la creación, modificación o cancelación de las subcomisiones que considere necesarias para el mejor cumplimiento de sus atribuciones;
+
+X. Conocer, revisar y, en su caso, dar seguimiento a las acciones y programas de gestión integral de los residuos que diseñen o ejecuten las dependencias y entidades de la administración pública del Distrito Federal;
+
+XI. Acordar la planeación y ejecución de programas o proyectos que por su grado de especificidad técnica requieran ser atendidos por la Comisión y sus integrantes;
+
+XII. Fomentar la participación ciudadana mediante campañas educativas, informativas y de manejo responsable de los residuos sólidos;
+
+XIII. Aprobar su Reglamento Interno; y
+
+XIV. Las demás que el Jefe de Gobierno le asigne.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10 Bis 3.
+
+La Comisión se reunirá en sesiones ordinarias bimestrales y en sesiones extraordinarias cuando las circunstancias así lo ameriten. La convocatoria de la sesión respectiva deberá ser notificada a los miembros de la Comisión por su Presidente o Secretario Técnico, a más tardar cinco días hábiles antes de la celebración de la misma.
+
+### CAPÍTULO II. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA POLÍTICA AMBIENTAL
 
 ###### Artículo 11.
 
@@ -532,29 +632,33 @@ La Secretaría solicitará periódicamente a la autoridad federal toda la inform
 
 ## TÍTULO TERCERO. DE LA PREVENCIÓN Y MINIMIZACIÓN DE LA GENERACIÓN DE LOS RESIDUOS SÓLIDOS
 
-### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 21.
 
-Toda persona que genere residuos sólidos tiene la propiedad y responsabilidad de su manejo hasta el momento en que son entregados al servicio de recolección, o depositados en los contenedores o sitios autorizados para tal efecto por la autoridad competente.
+Toda persona que genere residuos sólidos tiene la propiedad y responsabilidad del manejo integral de estos, así como de los perjuicios y daños que puedan ocasionar, hasta el momento en que son entregados al servicio de recolección, o depositados en los contenedores o sitios autorizados para tal efecto por la autoridad competente.
 
 ###### Artículo 22.
 
 Para la prevención de la generación, valorización y manejo de los residuos sólidos, se incluirá en el reglamento las disposiciones para formular planes de manejo, guías y lineamientos para generadores de alto volumen de los residuos sólidos.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil, originen residuos sólidos en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en el Reglamento, con las siguientes:
+Las personas físicas o morales responsables de la producción, recolección, manejo, tratamiento, reciclaje, reutilización, distribución o comercialización de bienes que, una vez terminada su vida útil, originen residuos sólidos en alto volumen, de manejo especial o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en el Reglamento, con las siguientes disposiciones:
 
 I. Instrumentar planes de manejo de los residuos sólidos en sus procesos de producción, prestación de servicios o en la utilización de envases y embalajes, así como su fabricación o diseño, comercialización o utilización que contribuyan a la minimización de los residuos sólidos y promuevan la reducción de la generación en la fuente, su valorización o disposición final, que ocasionen el menor impacto ambiental posible;
 
-II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales; y
+II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+III. Privilegiar el uso de envases y embalajes para que una vez utilizados sean susceptibles de valorización mediante procesos de reutilización y reciclaje.
 
-III. Privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reutilización y reciclaje.
+El Reglamento determinará los bienes a los que se refiere este artículo; y
 
-El Reglamento determinará los bienes a los que se refiere este artículo.
+IV. Cumplir con lo establecido (sic) las normas ambientales emitidas por la Secretaría.
 
 ###### Artículo 24.
 
@@ -570,7 +674,17 @@ IV. Cumplir con las disposiciones específicas, criterios, normas y recomendacio
 
 V. Almacenar los residuos sólidos con sujeción a las normas sanitarias y ambientales para evitar daño a terceros y facilitar la recolección;
 
-VI. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos sólidos, y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos sólidos;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI Bis. Informar de los tipos y cantidades de residuos sólidos generados en los formatos que la autoridad determine;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI Ter. Disponer de información probatoria e informar a la autoridad competente sobre el manejo adecuado de sus residuos en los casos que la recolección de estos sea realizado por un establecimiento mercantil privado relacionado con la recolección, manejo, tratamiento reutilización, reciclaje y disposición final de los residuos sólidos; y
 
 VII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
@@ -634,9 +748,9 @@ Productores, distribuidores, y usuarios de las bolsas a las que se refiere este 
 
 (REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
 
-### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
+### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
 
-###### Articulo 27.
+###### Artículo 27.
 
 La Secretaria elaborará y mantendrá actualizado, en los términos del reglamento, un inventario que contenga la clasificación de los residuos sólidos y sus tipos de fuentes generadoras, con la finalidad de:
 
@@ -648,7 +762,7 @@ III. Dar a conocer la relación existente entre las características físicas, q
 
 IV. Identificar las fuentes generadoras, los diferentes tipos de los residuos sólidos, los distintos materiales que los constituyen y los aspectos relacionados con su valorización.
 
-###### Articulo 28.
+###### Artículo 28.
 
 Para los efectos del artículo anterior, la categorización de los residuos sólidos que deberá contener dicho inventario podrá considerar las características físicas, químicas o biológicas que los hacen:
 
@@ -670,7 +784,7 @@ VIII. Persistentes; y
 
 IX. Bioacumulables.
 
-### CAPÍTULO IV. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
+### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
 
 ###### Artículo 29.
 
@@ -714,29 +828,31 @@ Los residuos de manejo especial estarán sujetos a planes de manejo conforme a l
 
 Los generadores de residuos de manejo especial deberán instrumentar planes de manejo, mismos que deberán ser autorizados por la Secretaría.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-Todo generador de residuos sólidos debe separarlos en orgánicos e inorgánicos, dentro de sus domicilios, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares.
+Todo generador de residuos sólidos debe separarlos en orgánicos e inorgánicos, dentro de sus domicilios, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, para ello deberán separar sus residuos sólidos de manera diferenciada y selectiva, de acuerdo a la subclasificación de residuos que establece el reglamento de la presente Ley.
 
 Estos residuos sólidos, deben depositarse en contenedores separados para su recolección por el servicio público de limpia, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos sólidos valorizables directamente a los establecimientos de reutilización y reciclaje.
 
 El Reglamento definirá la subclasificación que deberá aplicar para la separación obligatoria de residuos sólidos, con base a las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33 Bis.
 
-La Secretaría y las delegaciones deberán aplicar el método de separación de residuos en orgánicos e inorgánicos para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
+La Secretaría y las delegaciones deberán aplicar el método de separación de residuos en orgánicos e inorgánicos y de manera selectiva para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
 
 La Administración Pública del Distrito Federal establecerá campañas de difusión sobre los métodos de separación y recolección de residuos aplicables en cada una de las delegaciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33 Bis 1.
 
-La Secretaría y la Secretaría de Obras, en conjunto con las delegaciones, fomentaran que las instituciones educativas, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, lleven a cabo la separación de residuos, mediante el sistema de recolección diferenciada.
+La Secretaría y la Secretaría de Obras y Servicios, en conjunto con las delegaciones, fomentarán que las instituciones educativas, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, lleven a cabo la separación de residuos, mediante el sistema de recolección diferenciada y selectiva.
 
 ###### Artículo 34.
 
@@ -750,7 +866,7 @@ Los residuos de manejo especial, deberán separarse conforme a la clasificación
 
 ## TÍTULO CUARTO. DEL SERVICIO PÚBLICO DE LIMPIA
 
-### CAPÍTULO II. DEL BARRIDO Y LA RECOLECCIÓN DE RESIDUOS SÓLIDOS
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 36.
 
@@ -762,11 +878,45 @@ I. El barrido de vías públicas, áreas comunes y vialidades, así como la reco
 
 II. La transferencia, aprovechamiento, tratamiento y disposición final de los residuos sólidos.
 
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 36 Bis.
+
+En lo que refiere al servicio público de limpia a cargo de las Delegaciones, particularmente en el barrido manual y recolección domiciliaria y en el entendido de lo dispuesto en el artículo 36 de esta Ley, queda absolutamente prohibido a terceros bajo cualquier figura, agrupación, organización, razón social o a título individual y que no estén debidamente registrados y autorizados ante la Secretaría que presten, ofrezcan y ejecuten cualquier acción o actividad relacionada con el servicio público de limpia, toda vez que este, corresponde única y exclusivamente a las autoridades competentes de la Administración Pública del Distrito Federal, a través de los lineamientos y organización que se tiene para el manejo integral de los residuos sólidos urbanos, la recolección selectiva y todas aquellas medidas y coordinación que sostienen los trabajadores de limpia con las autoridades. La contravención a este artículo será sancionada conforme a lo previsto en esta Ley, y en los ordenamientos aplicables vigentes.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 36 Ter.
+
+Quedan exceptuados de la disposición contenida en el Artículo 36 Bis las empresas que hayan obtenido su registro, actualización y vigencia en el padrón autorizado por la Secretaría y que se dediquen a servicios relacionados con la recolección a grandes generadores, recolección especializada y recolección de residuos de la construcción, en cuyo caso es indispensable, comprobar mensualmente, los controles inherentes a la recolección, manejo, transferencia, tratamiento y disposición final, a efecto de validar que su operación se enmarque en las disposiciones ambientales adecuadas y establecidas para tal propósito.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 36 Quater.
+
+Los grandes generadores de residuos sólidos urbanos están obligados a:
+
+I. Contratar los servicios de recolección con las empresas autorizadas para tal efecto, a las cuales se hace mención en el artículo 36 Ter; mismas que a su vez deberán cubrir el pago de derechos establecidos en el Código Fiscal para el Distrito Federal, si hacen uso de la infraestructura del Gobierno del Distrito Federal;
+
+II. Cubrir el pago de derechos establecidos en el Código Fiscal para el Distrito Federal y cumplir con los lineamientos de traslado de residuos sólidos urbanos si es que lo hacen mediante sus propios medios; y
+
+III. Solicitar a la Delegación correspondiente o a la Secretaría de Obras y Servicios, la recolección respectiva, cubriendo en todo momento el pago de derechos establecidos en el Código Fiscal para el Distrito Federal.
+
+Lo anterior, en términos de lo dispuesto en el artículo 243 y demás disposiciones aplicables del Código Fiscal del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Artículo 36 Quintus. La Secretaría de Obras y Servicios respecto de su ámbito de competencia en el servicio público de limpia, particularmente en las etapas de barrido manual y mecánico, recolección de residuos sólidos urbanos y limpieza de vialidades primarias, operación de estaciones de transferencia, sistema de acarreos y operación de la disposición final, en cuanto a su quehacer cotidiano, mantenimiento y proyectos específicos, podrá ejecutarlo con recursos propios en cuanto a personal, maquinaria y equipo o a través de contratos con empresas especializadas en la materia.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Artículo 36 Sextus. Cualquier otra problemática o particularidad que se presente de manera emergente, no prevista en la ley y relacionada con el servicio público de limpia que sea necesario resolver y determinar, será facultad de las autoridades competentes y de la Comisión según sea el caso.
+
 ###### Artículo 37.
 
 En la prestación del servicio público de limpia se deberán cumplir las disposiciones de esta Ley, su reglamento, los programas correspondientes y demás disposiciones jurídicas aplicables, haciéndolas del conocimiento de su personal de servicio y a quienes se lo presten. Asimismo, se deberán establecer medidas preventivas para atender emergencias en caso de riesgos de acuerdo con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO III. DE LA TRANSFERENCIA Y TRATAMIENTO DE RESIDUOS SÓLIDOS
+### CAPÍTULO II. DEL BARRIDO Y LA RECOLECCIÓN DE RESIDUOS SÓLIDOS
 
 ###### Artículo 38.
 
@@ -796,7 +946,19 @@ Las delegaciones deberán colocar en las vías y áreas públicas los contenedor
 
 Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la persona que lo habita o del establecimiento de que se trate y sólo se sacarán a la vía pública o áreas comunes el tiempo necesario para su recolección el día y hora señalados por el servicio público de limpia. Dichos contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley de Salud para el Distrito Federal y demás ordenamientos aplicables.
 
-### CAPÍTULO IV. DE LA DISPOSICIÓN FINAL
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+Los prestadores de servicio de recolección privada y los centros de acopio para su operación en el Distrito Federal, deberán de contar con la Licencia Ambiental Única del Distrito Federal y deberán presentar su plan de manejo ante la Secretaría en los formatos que esta autoridad determine. La contravención a lo dispuesto en el presente artículo será motivo de las medidas de seguridad y/o sanciones que resulten aplicables.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 42 Ter.
+
+Los prestadores de servicio de recolección privada de otros Estados que operen en el Distrito Federal, deberán registrarse ante la Secretaría y deberán presentar su plan de manejo en los formatos que esta autoridad determine.
+
+### CAPÍTULO III. DE LA TRANSFERENCIA Y TRATAMIENTO DE RESIDUOS SÓLIDOS
 
 ###### Artículo 43.
 
@@ -846,9 +1008,7 @@ La Secretaría emitirá norma ambiental para el Distrito Federal en los término
 
 Cualquier persona puede denunciar ante la autoridad correspondiente cuando se trate de violaciones a las disposiciones del presente artículo en los términos del Capítulo IV del Título Séptimo de esta Ley.
 
-### CAPÍTULO I. DEL RECICLAJE
-
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+### CAPÍTULO IV. DE LA DISPOSICIÓN FINAL
 
 ###### Artículo 49.
 
@@ -882,7 +1042,9 @@ Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicame
 
 ## TÍTULO QUINTO. DE LA VALORIZACIÓN Y COMPOSTEO DE LOS RESIDUOS SÓLIDOS
 
-### CAPÍTULO II. DEL COMPOSTEO
+### CAPÍTULO I. DEL RECICLAJE
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 55.
 
@@ -922,7 +1084,7 @@ VI. Contar con garantías financieras para asegurar que al cierre de las operaci
 
 Los residuos sólidos que hayan sido seleccionados y remitidos a los mercados de valorización y que por sus características no puedan ser procesados, deberán enviarse para su disposición final.
 
-### CAPÍTULO ÚNICO. DE LA CONTAMINACIÓN DEL SUELO POR RESIDUOS SÓLIDOS
+### CAPÍTULO II. DEL COMPOSTEO
 
 ###### Artículo 61.
 
@@ -946,7 +1108,7 @@ Toda persona que lleve a cabo procesos de tratamiento de residuos urbanos orgán
 
 ## TÍTULO SEXTO. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA RESTAURACIÓN, PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
-### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO. DE LA CONTAMINACIÓN DEL SUELO POR RESIDUOS SÓLIDOS
 
 ###### Artículo 65.
 
@@ -960,7 +1122,7 @@ II. En caso de que la recuperación o restauración no fueran factibles, a indem
 
 ## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES, RECURSO DE INCONFORMIDAD Y DENUNCIA CIUDADANA
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 66.
 
@@ -974,11 +1136,15 @@ III. Clausurar temporal, parcial o totalmente las instalaciones en que se maneje
 
 IV. Suspender las actividades, en tanto no se mitiguen los daños causados.
 
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Imponer el monto de la garantía en lo referente a los residuos de la construcción, su manejo se apegue a lo establecido en la Ley Ambiental, la presente Ley y los ordenamientos aplicables.
+
 La autoridad correspondiente podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
 
 Las medidas de seguridad previstas en este capítulo, se sujetarán a lo dispuesto en la Ley del Procedimiento Administrativo del Distrito Federal y demás ordenamientos aplicables.
 
-### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 67.
 
@@ -1010,17 +1176,19 @@ Las sanciones cometidas por la violación de las disposiciones de la presente Le
 
 I. Amonestación cuando por primera vez se incumplan con las disposiciones contenidas en los artículos 25 fracción V y 33 de esta Ley;
 
-II. Multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafo segundo y tercer párrafos; y 42 de la presente Ley;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-III. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la Ley Federal de Responsabilidades de los Servidores Públicos; y (sic)
+II. Multa de 20 a 200 días de salario mínimo vigente en el Distrito Federal contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
+
+III. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la Ley Federal de Responsabilidades de los Servidores Públicos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 III Bis. Multa de 500 a dos mil días de salario mínimo vigente en el Distrito Federal por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Multa por mil a veinte mil días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por el artículo 25 fracciones IX, X, XI, XII y XIII de la presente ley.
+IV. Multa de mil a veinte mil días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por los artículos 25 fracciones IX, X, XI, XII y XIII; 36 Bis, 36 Ter y 36 Quater de la presente ley.
 
 ###### Artículo 70.
 
@@ -1030,9 +1198,17 @@ I. La trascendencia social, sanitaria o ambiental y el perjuicio cansado por la 
 
 II. El ánimo de lucro ilícito y la cuantía del beneficio obtenido en la comisión de la infracción;
 
-III. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción; y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta y la intención con la cual fin cometida.
+III. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta y la intención con la cual fue cometida; y
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Los casos en que el monto de la multa impuesta será conmutada por medidas de compensación las cuales serán destinadas al Fondo Ambiental Público del Distrito Federal.
 
 ###### Artículo 71.
 
@@ -1048,15 +1224,19 @@ En los casos en que se imponga como sanción la clausura temporal, la autoridad 
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación de la materia.
 
-### CAPÍTULO IV. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 74.
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Procedimiento Administrativo del Distrito Federal.
 
+### CAPÍTULO IV. DE LA DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 75.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría y autoridades competentes todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
 
 ###### Artículo 76.
 
@@ -1167,3 +1347,19 @@ G.O. 24 DE JULIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 8 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Secretaría del Medio Ambiente del Distrito Federal contará con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto para llevar a cabo la implementación del Registro de establecimientos mercantiles y de servicios que se refiere la fracción XVIII del artículo 6º del presente Decreto.
+
+CUARTO.- Una vez transcurridos los 60 días hábiles señalados en el artículo TERCERO transitorio del presente Decreto; los titulares de establecimientos mercantiles y de servicios contarán con un plazo de 90 días para efectuar ante la Secretaría del Medio Ambiente del Distrito Federal su registro.
+
+QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios y las Delegaciones iniciarán en el ámbito de su respectiva competencia y de manera coordinada la implementación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para el cumplimiento a estas disposiciones e iniciarán una campaña para difundirlas entre la población.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
