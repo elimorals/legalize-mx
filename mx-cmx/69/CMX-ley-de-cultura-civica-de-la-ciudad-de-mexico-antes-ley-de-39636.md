@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2014-06-06"
+last_updated: "2014-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -50,7 +50,7 @@ La presente Ley es de orden público e interés social, regirá en el Distrito F
 
 a) Establecer reglas mínimas de comportamiento cívico;
 
-b) Garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Distrito Federal en su preservación, y (sic)
+b) Garantizar el respeto a las personas, los bienes públicos y privados y regular el funcionamiento de la Administración Pública del Distrito Federal en su preservación, y
 
 c) Determinar las acciones para su cumplimento.
 
@@ -70,7 +70,7 @@ III. La prevalencia del diálogo y la conciliación como medios de solución de 
 
 IV. El respeto por la diferencia y la diversidad de la población de la Ciudad de México;
 
-V. El sentido de pertenencia a la comunidad y a la Ciudad de México, y (sic)
+V. El sentido de pertenencia a la comunidad y a la Ciudad de México, y
 
 > <small>(REFORMADA, G.O. 6 DE JUNIO DE 2014)</small>
 
@@ -116,7 +116,7 @@ XV. Secretaría; a la Secretaría de Seguridad Pública del Distrito Federal;
 
 XVI. Secretaría de Salud; a la Secretaría de Salud del Distrito Federal;
 
-XVII. Secretario; al Secretario del Juzgado, y (sic)
+XVII. Secretario; al Secretario del Juzgado, y
 
 XVIII. Médico, al médico o médico legista;
 
@@ -142,7 +142,7 @@ I. Lugares o espacios públicos de uso común o libre tránsito, como plazas, ca
 
 II. Inmuebles públicos o privados de acceso público, como mercados, templos, cementerios, centros de recreo, de reunión, deportivos, de espectáculos o cualquier otro análogo;
 
-III. Inmuebles públicos destinados la (sic) prestación de servicios públicos;
+III. Inmuebles públicos destinados (sic) la prestación de servicios públicos;
 
 IV. Inmuebles, espacios y vehículos destinados al servicio público de transporte;
 
@@ -278,7 +278,7 @@ Corresponde a la Secretaría de Salud planear, dirigir, controlar y evaluar los 
 
 A los Jefes Delegacionales corresponde:
 
-I. Dotar de espacios físicos, de recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte la Consejería, y (sic)
+I. Dotar de espacios físicos, de recursos materiales y financieros para la eficaz operación de los Juzgados, de acuerdo a los lineamientos que al efecto dicte la Consejería, y
 
 II. Conservar los Juzgados en óptimas condiciones de uso.
 
@@ -448,7 +448,7 @@ A la Administración Pública del Distrito Federal le corresponde diseñar y pro
 
 I. Procurar el acercamiento entre los Jueces y la comunidad de la circunscripción territorial que les corresponda, a fin de propiciar una mayor comprensión y participación en las funciones que desarrollan;
 
-II. Establecer vínculos permanentes con los grupos organizados y los habitantes en general, para la identificación de los problemas y fenómenos sociales que los aquejan, relacionados con esta Ley, y (sic)
+II. Establecer vínculos permanentes con los grupos organizados y los habitantes en general, para la identificación de los problemas y fenómenos sociales que los aquejan, relacionados con esta Ley, y
 
 III. Organizar la participación vecinal para la prevención de infracciones.
 
@@ -482,7 +482,7 @@ Corresponde a los Colaboradores Comunitarios realizar visitas a las diversas ár
 
 ###### Artículo 22.
 
-Los Jueces y Secretarios otorgarán las facilidades necesarias para que los Cola-boradores (sic) Comunitarios debidamente acreditados realicen sus visitas, proporcionándoles acceso a las diversas áreas así como la información que requieran, siempre que sea procedente de acuerdo a la Ley de Transparencia y Acceso la (sic) información Pública del Distrito Federal.
+Los Jueces y Secretarios otorgarán las facilidades necesarias para que los Cola-boradores (sic) Comunitarios debidamente acreditados realicen sus visitas, proporcionándoles acceso a las diversas áreas así como la información que requieran, siempre que sea procedente de acuerdo a la Ley de Transparencia y Acceso (sic) la información Pública del Distrito Federal.
 
 ## TÍTULO TERCERO. INFRACCIONES Y SANCIONES
 
@@ -690,7 +690,13 @@ XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos de
 
 XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
 
-Las infracciones establecidas en las fracciones I a VII se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Las infracciones establecidas en las fracciones I, II, V, VI y VII se sancionarán con multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Las infracciones establecidas en las fracciones III y IV se sancionarán con multa por el equivalente de 20 a 200 días de salario mínimo o con arresto de 25 a 36 horas, así como por lo dispuesto en el artículo 69 de la Ley de Residuos Sólidos del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 29 DE JULIO DE 2010)</small>
 
@@ -1633,3 +1639,19 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 G.O. 6 DE JUNIO DE 2014.
 
 ÚNICO-. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Secretaría del Medio Ambiente del Distrito Federal contará con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto para llevar a cabo la implementación del Registro de establecimientos mercantiles y de servicios que se refiere la fracción XVIII del artículo 6º del presente Decreto.
+
+CUARTO.- Una vez transcurridos los 60 días hábiles señalados en el artículo TERCERO transitorio del presente Decreto; los titulares de establecimientos mercantiles y de servicios contarán con un plazo de 90 días para efectuar ante la Secretaría del Medio Ambiente del Distrito Federal su registro.
+
+QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de Obras y Servicios y las Delegaciones iniciarán en el ámbito de su respectiva competencia y de manera coordinada la implementación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para el cumplimiento a estas disposiciones e iniciarán una campaña para difundirlas entre la población.
+
+SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
