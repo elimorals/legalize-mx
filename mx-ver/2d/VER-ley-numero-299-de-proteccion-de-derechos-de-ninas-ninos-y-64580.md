@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-299-de-proteccion-de-derechos-de-ninas-ninos-y-64580
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-25"
-last_updated: "2014-09-03"
+last_updated: "2014-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 299 DE PROTECCION DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE PROTECCION DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario 390 a la Gaceta Oficial del Estado de Veracruz, el 25 de noviembre de 2008.
 
@@ -379,7 +379,9 @@ V. Colaborar con las autoridades federales de la materia en los programas dirigi
 
 VI. Proporcionar y asegurar, de manera oportuna, la atención integral prenatal, perinatal y postnatal a madres adolescentes;
 
-VII. Establecer programas de lactancia materna;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Establecer programas de lactancia materna, a fin de capacitar en la materia y fomentar el amamantamiento, incentivando que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad;
 
 VIII. Fortalecer prácticas alternativas de la medicina tradicional de los distintos grupos étnicos del Estado, que coadyuven a la salud, así como proporcionar la capacitación necesaria a quienes, en zonas rurales, asistan los alumbramientos, para que brinden servicios de mejoramiento a la salud;
 
@@ -1172,3 +1174,9 @@ G.O. 3 DE SEPTIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE SEPTIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
