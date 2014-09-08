@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2008-02-28"
+last_updated: "2014-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -197,7 +197,9 @@ II. La Violencia en el ámbito familiar y la violencia en el ámbito familiar Eq
 
 III. La violencia laboral y/o escolar:
 
-a) Violencia Laboral: Acto u omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad; se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+a) Violencia Laboral: Acto u omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad; constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación de trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley y todo tipo de discriminación por condición de género; se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y
 
 b) Violencia Escolar: Conductas que dañan la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, condición étnica, condición académica, limitaciones y/o características físicas, que les infligen maestras o maestros, personal directivo, administrativo, técnico, de intendencia, o cualquier persona prestadora de servicios en las instituciones educativas. Lo es también las imágenes de la mujer con contenidos sexistas en los libros de texto, y el hostigamiento sexual.
 
@@ -874,3 +876,11 @@ Sufragio efectivo. No reelección.
 Licenciado Fidel Herrera Beltrán.
 
 Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
