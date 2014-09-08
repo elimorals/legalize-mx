@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2011-02-24"
+last_updated: "2014-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-02-23"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION EN LA CIUDAD DE MEXICO -- ANTES LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL DISTRITO FEDERAL --
 
-LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL DISTRITO FEDERAL
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -56,9 +56,11 @@ Las disposiciones de esta ley son de orden público, interés social y observanc
 
 Los beneficios que se deriven de esta Ley, serán aplicables a todas las personas que habitan o transitan en el Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 2.
 
-Es obligación de todas las autoridades del Gobierno del Distrito Federal, en colaboración con los demás entes públicos, garantizar que todas las personas gocen, sin discriminación alguna, de todos los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en la presente y demás leyes y en general los derechos fundamentales del ser humano.
+Es obligación de las autoridades del Distrito Federal, en colaboración con los demás entes públicos, garantizar que todas (sic) los individuos gocen, sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en la presente y demás leyes, y en los derechos fundamentales del ser humano.
 
 Se obligan a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho humano a la igualdad y a la no discriminación e impidan su pleno desarrollo, así como su efectiva participación en la vida civil, política, económica, cultural y social del Distrito Federal. Asimismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
 
@@ -68,7 +70,9 @@ La presente ley tiene por objeto:
 
 I. Establecer los principios y criterios que orienten las políticas públicas para reconocer, promover y proteger el derecho a la igualdad y a la no discriminación, así como establecer la coordinación interinstitucional para prevenir, atender, eliminar y sancionar la discriminación;
 
-II. Coadyuvar a la eliminación de las circunstancias sociales, educativas, económicas, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas o de hechos, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos humanos de las personas, grupos o comunidades en situación de discriminación, por cualquiera de los motivos relacionados en el tercer párrafo del artículo 1 constitucional en los tratados internacionales firmados y ratificados por los Estados Unidos Mexicanos, en el artículo 5 de la presente ley, o en cualquiera otra;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+II. Coadyuvar a la eliminación de las circunstancias sociales, educativas, económicas, de salud, trabajo, culturales o políticas; disposiciones legales, figuras o instituciones jurídicas o de hechos, acciones, omisiones o prácticas que tengan por objeto o produzcan el efecto de negar, excluir, distinguir, menoscabar, impedir o restringir ilícitamente alguno o algunos de los derechos humanos de las personas, grupos o comunidades en situación de discriminación, por cualquiera de los motivos relacionados en el párrafo quinto del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales firmados y ratificados por el Estado Mexicano, en el artículo 5 de la presente ley, o en cualquier otro ordenamiento aplicable;
 
 III. Fijar los lineamientos y establecer los indicadores para el diseño, la instrumentación y la evaluación de las políticas públicas, así como de las medidas positivas y compensatorias a aplicarse; y
 
@@ -82,51 +86,123 @@ I. Accesibilidad: Combinación de elementos constructivos y operativos que permi
 
 II. Accesibilidad administrativa: Son los que garantizan el acceso a los servicios públicos respectivos a cualquier persona con discapacidad, como solución alterna a la falta de accesibilidad estructural, congruentes con la ley de la materia;
 
-III. Asamblea Consultiva: El órgano de consulta a que se refiere el artículo 46 de la presente Ley;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Consejo: Consejo para Prevenir y Eliminar la Discriminación de La Ciudad de México;
+III. Acciones afirmativas: Son aquellas mediante las que se busca beneficiar a los miembros de grupos que sufren exclusión o discriminación, otorgando algún tipo de ventaja en el otorgamiento de bienes escasos y, al hacerlo, se perjudica a ciertas personas que hubieran gozado éstos de seguir las cosas su curso normal;
 
-V. Debida diligencia: La obligación de los entes públicos del Distrito Federal, de dar respuesta eficiente, oportuna y responsable a las personas en situación de discriminación;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Ente público: Las autoridades locales de Gobierno del Distrito Federal; los órganos que conforman la Administración Pública; los órganos autónomos por ley, aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y las personas jurídicas que auxilien a los órganos antes citados o ejerzan gasto público;
+IV. Antisemitismo: Fenómeno específico que incorpora diversas formas de rechazo y discriminación hacia las personas de origen israelí, así como a las personas de religión judía;
 
-VII. Equidad: Principio conforme al cual toda persona accede con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como en la participación en todos los ámbitos de la vida social, económica, política cultural y familiar;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Equidad de género: concepto que se refiere al principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+V. Asamblea Consultiva: El órgano de consulta a que se refiere el artículo 46 :de la presente Ley;
 
-IX. Fenómeno discriminatorio: Es la concurrencia permanente o temporal de actitudes discriminatorias que impidan el libre ejercicio del derecho humano a la no discriminación de las personas, grupos y comunidades en situación de discriminación;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-X. Igualdad: Acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+VI. Bifobia: Miedo irracional a la bisexualidad o a las personas con orientación o preferencia bisexual que se expresa en rechazo, discriminación, ridiculización y otras formas de violencia.
 
-XI. Ley: La presente Ley para Prevenir y Eliminar la Discriminación en el Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XII. LGBTTTI: Lesbianas, Gays, Bisexuales, Transgéneros, Transexuales, Travestís e Intersexuales;
+VII. Consejo: Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
-XIII. Medidas positivas y compensatorias: Aquellas de carácter temporal que se implementan para lograr la disponibilidad, accesibilidad, aceptabilidad y calidad en los servicios de salud, educación, trabajo, justicia o cualquier otro a favor de las personas, grupos y comunidades en situación de discriminación, a fin de alcanzar, en condiciones de igualdad, su participación en la vida pública, y eliminar prácticas discriminatorias;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XIV. Necesidades educativas especiales: Aquellas que permiten a las personas incorporarse a la educación en condiciones adecuadas a sus requerimientos y a su desarrollo integral a través del apoyo psicopedagógico y de la capacidad laboral de las y los alumnos con algún tipo de discapacidad o en situación de discriminación;
+VIII. Debida diligencia: La obligación de los entes públicos del Distrito Federal, de dar respuesta eficiente, oportuna y responsable a las personas en situación de discriminación;
 
-XV. Medidas de política pública: Conjunto de acciones que formulan e implementan las instituciones de gobierno encaminadas o dirigidas a atender las demandas o necesidades económicas, políticas, sociales, culturales, entre otros de las personas, grupos o comunidades en situación de discriminación;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XVI. Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación o el menoscabo de alguno o algunos de sus derechos humanos por los motivos prohibidos en el tercer párrafo del artículo 1 constitucional, los tratados internacionales de los que México sea parte, la presente ley o cualquiera otra;
+IX. Ente público: Las autoridades locales de Gobierno del Distrito Federal; los órganos que conforman la Administración Pública; los órganos autónomos por ley, aquellos que la legislación local reconozca como de interés público y ejerzan gasto público; y las personas jurídicas que auxilien a los órganos antes citados o ejerzan gasto público;
 
-XVII. Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las personas, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XVIII. Principios del Diseño Universal: Se consideran como tales el uso equitativo, el uso flexible, el uso simple e intuitivo, la información perceptible, la tolerancia al error, el mínimo esfuerzo físico y el adecuado tamaño de aproximación;
+X. Equidad: Principio conforme al cual toda persona accede con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como en la participación en todos los ámbitos de la vida social, económica, política cultural y familiar;
 
-XIX. Respeto: Actitud que nace con el reconocimiento del valor de una persona o grupo, ya sea inherente o también relacionado con una habilidad o comportamiento; y (sic)
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XX. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación;
+XI. Equidad de género: Principio conforme al cual mujeres y hombres acceden con justicia e igualdad al uso, control y beneficio de los bienes, servicios, recursos y oportunidades de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-XXI. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en la (sic) diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XXII. Transversalidad: Herramienta metodológica para garantizar la inclusión de la perspectiva de derechos humanos, igualdad y no discriminación y de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendientes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad;
+XII. Fenómeno discriminatorio: Es la concurrencia permanente o temporal de actitudes discriminatorias que impidan el libre ejercicio del derecho humano a la no discriminación de las personas, grupos y comunidades en situación de discriminación;
 
-XXIII. Violencia Institucional: Son los actos u omisiones de las personas con calidad de servidor público que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Homofobia: Es toda aversión manifiesta en contra (sic) las orientaciones, preferencias sexuales e identidades o expresiones de género contrarias al arquetipo de los heterosexuales;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Igualdad: Acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XV. Lesbofobia: Es el rechazo, odio, aversión, temor, repudio, discriminación, ridiculización, prejuicio y/o violencia hacia las personas que son o parecen ser lesbianas, a partir de un prejuicio;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVI. Ley: Ley para Prevenir y Eliminar la Discriminación del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. LGBTTTI: Lesbianas, Gays, Bisexuales, Transgéneros, Transexuales, Travestís e Intersexuales;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVIII. Medidas positivas y compensatorias: Aquellas de carácter temporal que se implementan para lograr la disponibilidad, accesibilidad, aceptabilidad y calidad en los servicios de salud, educación, trabajo, justicia o cualquier otro a favor de las personas, grupos y comunidades en situación de discriminación, a fin de alcanzar, en condiciones de igualdad, su participación en la vida pública, y eliminar prácticas discriminatorias;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIX. Misoginia: Odio hacia las mujeres y puede manifestarse a partir de burlas, chistes, prácticas de subordinación, sometimiento, rechazo, prejuicio y/o violencia;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XX. Medidas de política pública: Conjunto de acciones que formulan e implementan las instituciones de gobierno encaminadas o dirigidas a atender las demandas o necesidades económicas, políticas, sociales, culturales, entre otros de las personas, grupos o comunidades en situación de discriminación;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXII (Sic). Personas, grupos o comunidades en situación de discriminación: Las personas físicas, grupos, comunidades, colectivos o análogos que sufran la violación, negación o el menoscabo de alguno o algunos de sus derechos humanos por los motivos prohibidos en el quinto párrafo del artículo 1 constitucional, los tratados internacionales de los que México sea parte, la presente ley o cualquiera otra;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXIII. Persona servidora pública: Son las personas representantes de elección popular, integrantes del Tribunal Superior de Justicia del Distrito Federal, las y los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Asamblea Legislativa del Distrito Federal o en la Administración Pública del Distrito Federal, así como en los organismos del Distrito Federal a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXIV. Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las personas, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXV. Principios del Diseño Universal: Se consideran como tales el uso equitativo, el uso flexible, el uso simple e intuitivo, la información perceptible, la tolerancia al error, el mínimo esfuerzo físico y el adecuado tamaño de aproximación;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXVI. Respeto: Actitud que nace con el reconocimiento del valor de una persona o grupo, ya sea inherente o también relacionado con una habilidad o comportamiento;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXVII. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXVIII. Transfobia: Es el rechazo, odio, aversión, temor, repudio, discriminación, ridiculización, prejuicio y/o violencia hacia las personas que son o parecen transexuales, transgénero o travestis.
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXIX. Transversalidad: Herramienta metodológica para garantizar la inclusión de la perspectiva de derechos humanos, igualdad y no discriminación y de género como eje integrador, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendientes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXX. Violencia Institucional: Son los actos u omisiones de las personas servidoras públicas que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, y
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXI. Xenofobia. Hostilidad hacia las personas de nacionalidad distinta a la mexicana.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-Queda prohibida cualquier forma de discriminación, entendiéndose por esta la negación, exclusión, distinción, menoscabo, impedimento o restricción de alguno o algunos de los derechos humanos de las personas, grupos y comunidades en situación de discriminación imputables a personas físicas o morales o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, por razón de su origen étnico, nacional, lengua, sexo, género, identidad indígena, de género, expresión de rol de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación o preferencia sexual, estado civil, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos y libertades fundamentales, así como la igualdad de las personas.
+Queda prohibida cualquier forma de discriminación, entendiéndose por ésta la negación, exclusión, distinción, menoscabo, impedimento o restricción de alguno o algunos de los derechos humanos de las personas, grupos y/o comunidades, estén o no en situación de discriminación imputables a personas físicas o morales o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, por razón de su origen étnico, nacional, raza, lengua, sexo, género, identidad indígena, identidad de género, expresión de rol de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual o preferencia sexual, estado civil, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, por consumir sustancias psicoactivas o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos y libertades fundamentales, así como la igualdad de las personas frente al ejercicio de derechos. También será considerada como discriminación la bifobia, homofobia, lesbofobia, transfobia, misoginia, xenofobia, la segregación racial y otras formas conexas de intolerancia, el antisemitismo en cualquiera de sus manifestaciones.
 
 ###### Artículo 6.
 
@@ -158,9 +234,13 @@ XII. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defens
 
 XIII. Aplicar o permitir usos o costumbres que atenten contra el derecho fundamental a la no discriminación, la dignidad e integridad humana;
 
-XIV. Obstaculizar, restringir o impedir la libre elección de cónyuges, convivientes, concubinas o concubinos;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XV. Ofender o ridiculizar a las personas o promover la violencia en su contra a través de mensaje o imágenes en cualquier medio de comunicación;
+XIV. Obstaculizar, restringir o impedir la libre elección de cónyuge, conviviente, concubina o concubinario;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XV. Ofender o ridiculizar a las personas o promover la violencia en su contra a través de mensajes o imágenes en cualquier medio de comunicación, material de divulgación o entretenimiento.
 
 XVI. Limitar o impedir el ejercicio de las libertades de expresión de ideas, conciencia o religiosa;
 
@@ -200,9 +280,17 @@ XXXIII. Condicionar, limitar o restringir las oportunidades de empleo, permanenc
 
 XXXIV. Condicionar, impedir o negar la accesibilidad a la información, comunicación y atención a las personas con discapacidad en instancias y servicios públicos;
 
-XXXV. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de los mismos motivos que se relacionan en el artículo 5 de la presente ley; y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XXXVI. En general cualquier otra conducta discriminatoria en los términos del artículo 5 de esta ley.
+XXXV. Criminalizar a cualquier persona, grupo o comunidad.
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXVI Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de los mismos motivos que se relacionan en el artículo 5 de la presente ley; y
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXVII. En general cualquier otra conducta discriminatoria en los términos del artículo 5 de esta ley.
 
 ###### Artículo 7.
 
@@ -210,13 +298,17 @@ No se considerarán hechos, acciones, omisiones o prácticas discriminatorias il
 
 I. El ejercicio de un derecho humano;
 
-II. Las acciones legislativas, o de políticas públicas y las medidas positivas o compensatorias del Distrito Federal que establezcan tratos diferenciados con el objeto de lograr la igualdad sustantiva de oportunidades y de trato;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+II. Las acciones legislativas, o de políticas públicas, las acciones afirmativas, las medidas positivas o compensatorias del Distrito Federal que establezcan tratos diferenciados con el objeto de lograr la igualdad sustantiva de oportunidades y de trato;
 
 III. Los requerimientos basados en calificaciones, habilidades o conocimientos especializados exigidos para desempeñar una actividad determinada;
 
 IV. La distinción establecida por las instituciones públicas de seguridad social del Distrito Federal entre las personas aseguradas y la población en general;
 
-V. En el ámbito educativo, los requisitos académicos y de evaluación acordes con el nivel al que se vaya a ingresar;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. En el ámbito educativo, los requisitos académicos pedagógicos y de evaluación acordes con el nivel al que se vaya a ingresar;
 
 VI. Los requisitos académicos que fomenten la inclusión y permanencia de toda persona en el sistema educativo regular de todo tipo;
 
@@ -280,9 +372,11 @@ III. Proporcionar de manera ágil y suficiente la información que le sea solici
 
 IV. Las demás que determine la presente ley.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Todo ente público y persona servidora pública del Distrito Federal deberá abstenerse de discriminar en los términos de la presente ley y demás leyes aplicables.
+Todo ente público y persona servidora pública del Distrito Federal no discriminaran a persona alguna en los términos de la presente ley y demás leyes aplicables.
 
 ### CAPÍTULO II. Medidas generales a favor de la igualdad de oportunidades
 
@@ -412,7 +506,9 @@ IV. Promover la accesibilidad de información y comunicación con los formatos q
 
 Las medidas positivas y compensatorias a favor de las personas, grupos y comunidades en situación de discriminación tendrán como objetivo, entre otros, los siguientes:
 
-I. Eliminar obstáculos institucionales que impidan a (sic) el acceso al ejercicio de sus derechos en condiciones de igualdad con el resto de las personas; y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+I. Eliminar obstáculos institucionales que impidan el acceso al ejercicio de sus derechos en condiciones de igualdad con el resto de las personas; y
 
 II. Combatir y eliminar la discriminación de la que han sido objeto.
 
@@ -440,7 +536,9 @@ V. Información sobre los mecanismos legales de exigencia y efectividad del dere
 
 VI. Crear y difundir programas de educación abierta, básica y superior libres de estereotipos, prejuicios o estigmas, propiciando el intercambio generacional, la participación en la comunidad y el conocimiento de nuevas tecnologías, incluyendo la alfabetización, la educación normal, tecnológica, universitaria, carreras profesionales cortas y estudios encaminados a obtener los grados de especialistas técnicos, licenciatura, maestría y doctorado, así como cursos de actualización y especialización;
 
-VII. Diseñar campañas educativas y de sensibilización en los medios de comunicación masiva sobre el derecho a la no discriminación en la educación, salud, trabajo, accesibilidad, justicia, vivienda y participación política y social, el respeto a la dignidad, respeto a los Pueblos Indígenas y Originarios, a la diversidad cultural y sexual, así como de condena a la violencia para prevenir y eliminar la homofobia, la lesbofobia, la bisexofobia y la transfobia, entre otras;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Diseñar campañas educativas y de sensibilización en los medios de comunicación masiva sobre el derecho a la no discriminación en la educación, salud, trabajo, accesibilidad, justicia, vivienda y participación política y social, el respeto a la dignidad, respeto a las personas, pueblos y comunidades indígenas y originarios, a la diversidad cultural y sexual, así como de condena a la violencia para prevenir y eliminar la homofobia, la lesbofobia, la bisexofobia y la transfobia, así como todo tipo de discriminación;
 
 VIII. Implementar un sistema de becas que fomente la alfabetización, el acceso, permanencia y conclusión de la educación pública y privada para el intercambio académico y cultural; así como la conclusión de la educación en todos los niveles;
 
@@ -452,9 +550,11 @@ XI. Difusión del contenido de esta Ley en lenguaje en formato accesible incluye
 
 XII. En el ámbito de sus respectivas competencias, fomentar la adopción de medidas para la conciliación en la vida familiar y laboral, como una acción a favor de la equidad de género y en contra de la imposición de roles y estereotipos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 23.
 
-Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las mujeres, las siguientes:
+Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las mujeres, las siguientes
 
 I. Armonizar las leyes locales, de modo que los lineamientos de los tratados internacionales aprobados por los Estados Unidos Mexicanos, en materia de violencia y discriminación en contra de las mujeres se integren en los códigos civil, penal y demás legislación existente;
 
@@ -466,7 +566,9 @@ IV. Dar atención, asistencia, información, educación y asesoría en la salud,
 
 V. Incentivar la educación mixta y otorgar becas y apoyos económicos para fomentar la inscripción, permanencia y conclusión de la educación de las niñas y las mujeres en todos los niveles escolares;
 
-VI. Establecer contenidos, métodos o instrumentos pedagógicos que difundsan (sic) la igualdad esencial entre hombres y mujeres;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Establecer contenidos, métodos o instrumentos pedagógicos que difundan la igualdad esencial entre mujeres y hombres;
 
 VII. Fomentar la libre elección del empleo e incentivar las oportunidades de acceso, permanencia y ascenso en el mismo, sin condicionarlo a pruebas de gravidez, maternidad, responsabilidades familiares, estado civil, o cualquier otro;
 
@@ -478,7 +580,7 @@ X. Auspiciar la participación política de la mujer y el derecho al sufragio ac
 
 XI. Que se capacite, en materia de equidad de género, al personal de procuración de justicia, seguridad pública, salud y demás personas que atiendan a víctimas de violencia familiar, hostigamiento, acoso o abuso sexual, violación, estupro, incesto o cualquiera otra situación de violencia dirigida en contra de las mujeres;
 
-XII. Coadyuvar con las autoridades respectivas a la creación de un marco normativo que promueva el goce y ejercicio de derechos laborales y seguridad social para las trabajadoras del hogar en el Distrito Federal; y (sic)
+XII. Coadyuvar con las autoridades respectivas a la creación de un marco normativo que promueva el goce y ejercicio de derechos laborales y seguridad social para las trabajadoras del hogar en el Distrito Federal; y
 
 XIII. Dar atención preferente, en materia de vivienda y la asignación de propiedades inmuebles en los programas de desarrollo social, a mujeres en situación de discriminación, fomentando programas que les faciliten la inscripción de inmuebles en el Registro Público de la Propiedad;
 
@@ -512,6 +614,10 @@ X. Implementar nuevos programas integrales diseñados desde un enfoque de derech
 
 XI. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita, así como intérprete en todos los procedimientos jurisdiccionales o administrativos, en que las niñas y niños sean parte.
 
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Promover, diseñar y aplicar, en el ámbito de sus respectivas competencias, acciones para la prevención, atención y erradicación de la violencia escolar para el sano desarrollo de las niñas y los niños en los centros de educación.
+
 ###### Artículo 25.
 
 Los entes públicos, en el ámbito de su respectiva competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades de las y los jóvenes, las siguientes:
@@ -524,7 +630,9 @@ III. Eliminar la violencia laboral y discriminación ejercida hacia la població
 
 IV. Fomentar las actividades deportivas y crear espacios accesibles y públicos para la realización de dichas actividades;
 
-V. Ofrecer información completa y actualizada, así como asesoramiento personalizado y educación sobre salud, salud sexual y reproductiva, incluyendo VIH, Sida e infecciones de transmisión sexual, , (sic) con respeto a la identidad, intimidad, libertad y seguridad personal de las y los jóvenes;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Ofrecer información completa y actualizada, libre de prejuicios y estereotipos, así como asesoramiento personalizado y educación sobre salud, salud sexual y reproductiva, incluyendo VIH-Sida y enfermedades de transmisión sexual y adicciones; con respeto a la identidad, intimidad, libertad y seguridad personal de las y los jóvenes; a fin de alcanzar una salud integral.
 
 VI. Fortalecer los servicios médicos de salud sexual y salud reproductiva, considerando la accesibilidad, calidad y disponibilidad de una amplia gama de métodos anticonceptivos para las y los jóvenes;
 
@@ -532,7 +640,9 @@ VII. Dar atención prioritaria a jóvenes embarazadas en todo lo relacionado con
 
 VIII. Generar programas y acciones de información, educación y asesoría relativa al derecho a la libre elección de cónyuges, concubinas, concubinos o convivientes, la igualdad de sus integrantes, así como a la prevención y atención de la violencia en la pareja;
 
-IX. Garantizar el acceso a programas para la detección temprana y el tratamiento de las adicciones causadas por el consumo de estupefacientes, sustancias psicotrópicas y otras susceptibles de producir dependencia;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Garantizar el acceso a la información y programas para la detección temprana y el tratamiento de las adicciones causadas por el consumo de estupefacientes, sustancias psicotrópicas y otras susceptibles de producir dependencia.
 
 X. Promover y difundir su participación informada en los asuntos públicos;
 
@@ -564,19 +674,33 @@ B) Capacitación para el trabajo y de fomento a la creación de empleos aprovech
 
 Esto a fin de garantizar un ingreso digno, decoroso y suficiente para la manutención del propio hogar y la permanencia en la comunidad, el cual no podrá ser inferior al salario mínimo vigente;
 
-II (SIC). Generar programas de créditos y subsidios para la adquisición, restauración o mejora de una vivienda accesible y adecuada;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-III. Ofrecer medios de transporte adecuados en sus comunidades, para garantizar la movilidad y la comunicación;
+V. Generar programas de créditos y subsidios para la adquisición, restauración o mejora de una vivienda accesible y adecuada;
 
-IV. Garantizar el derecho a la permanencia en su propio hogar;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-V. Dar a conocer y promover el establecimiento de instituciones o estancias temporales, a favor de las personas privadas o excluidas de su hogar, medio familiar o comunidad, en los que se garantice el acceso a la información, a los servicios generales y especializados de atención de la salud, así como a los programas de rehabilitación y capacitación que permitan la reintegración y plena participación en la vida pública, privada, social y cultural;
+VI. Ofrecer medios de transporte adecuados en sus comunidades, para garantizar la movilidad y la comunicación,
 
-VI. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Fomentar en las universidades y los centros de educación superior la investigación y el estudio en gerontología, geriatría, psicología y psiquiatría geriátricas; y
+VII. Garantizar el derecho a la permanencia en su propio hogar;
 
-VIII. Promover y garantizar conforme a la legislación aplicable, asesoría jurídica gratuita así como asistencia de una o un representante legal cuando así lo requiera.
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Dar a conocer y promover el establecimiento de instituciones o estancias temporales, a favor de las personas privadas o excluidas de su hogar, medio familiar o comunidad, en los que se garantice el acceso a la información, a los servicios generales y especializados de atención de la salud, así como a los programas de rehabilitación y capacitación que permitan la reintegración y plena participación en la vida pública, privada, social y cultural;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+X. Fomentar en las universidades y los centros de educación superior la investigación y el estudio en gerontología, geriatría, psicología y psiquiatría geriátricas; y
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Promover y garantizar conforme a la legislación aplicable, asesoría jurídica gratuita así como asistencia de una o un representante legal cuando así lo requiera.
 
 ###### Artículo 27.
 
@@ -592,15 +716,17 @@ IV. Vigilar, gestionar e impulsar que las personas con discapacidad, no sean suj
 
 V. Promover, que los edificios y demás inmuebles de la Administración Pública del Distrito Federal cuenten, por lo menos, con rampas de acceso, guías táctiles, programas de evacuación accesibles para personas con discapacidad o servicios de accesibilidad administrativa, entendiendo como tal, aquellos medios administrativos que garanticen el acceso a los servicios públicos respectivos a cualquier persona con discapacidad como solución alterna a la falta de accesibilidad estructural, congruentes con la ley de la materia;
 
-VI. Promover que en las unidades del sistema de salud y de seguridad social del Distrito Federal reciban regularmente el tratamiento, orientación, prevención, detección, estimulación temprana, atención integral y medicamentos para las diferentes discapacidades, a fin de mantener y aumentar su capacidad funcional y su calidad de vida; y (sic)
+VI. Promover que en las unidades del sistema de salud y de seguridad social del Distrito Federal reciban regularmente el tratamiento, orientación, prevención, detección, estimulación temprana, atención integral y medicamentos para las diferentes discapacidades, a fin de mantener y aumentar su capacidad funcional y su calidad de vida; y
 
 VII. Promover el otorgamiento de beneficios y descuentos especiales para el acceso a centros turísticos, de entretenimiento, recreación, cultura y deporte; así como a los servicios de transporte aéreo, terrestre y marítimo;
 
 VIII. Eliminar los obstáculos que impiden el goce y ejercicio plenos de la capacidad jurídica por todas las personas con discapacidad en igualdad de condiciones con el resto de las personas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 28.
 
-Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad real de oportunidades para los pueblos indígenas y originarios y sus integrantes, las siguientes:
+Los entes públicos, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad real de oportunidades para las personas, pueblos y comunidades indígenas, las siguientes:
 
 I. Hacer difusión entre los pueblos indígenas y originarios sobre sus derechos humanos, con perspectiva de género y de los programas sociales existentes que se han creado en su beneficio, en la diversidad de idiomas indígenas que se hablen en la Ciudad de México, a través de medios que garanticen accesibilidad a tal información;
 
@@ -652,7 +778,9 @@ III. Diseñar, implementar y evaluar un mecanismo eficiente de canalización ins
 
 IV. Identificar las prácticas discriminatorias y evitar los retiros forzados de las vías públicas que violenten los derechos humanos de las poblaciones callejeras;
 
-V. Evaluar los mecanismos de investigación y sanción de maltrato y abuso contra las poblaciones callejeras durante desalojos y operativos, que ejecutan y/o instiguen los servidores públicos;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Evaluar los mecanismos de investigación y sanción de maltrato y abuso contra las poblaciones callejeras durante desalojos y operativos, que ejecutan y/o instiguen las personas servidoras públicas; y
 
 VI. Diseñar e implementar programas de prevención y atención para las poblaciones callejeras desde un enfoque de derechos humanos y de género.
 
@@ -676,7 +804,7 @@ VII. Diseñar y actualizar un diagnostico socio-demográfico respecto de las ten
 
 VIII. Revisar y en su caso reformar los requisitos que se exigen en los establecimientos públicos de salud, para que las personas migrantes, refugiadas y solicitantes de asilo puedan acceder a los servicios de salud y adquirir medicamentos de manera gratuita, a través del programa de acceso gratuito a servicios médicos y medicamentos;
 
-IX. Incluir dentro del programa de acceso gratuito servicios médicos y medicamentos, los tratamientos y medicamentos necesarios para curar las enfermedades que con mayor frecuencia contraen las personas migrantes, refugiadas y solicitantes de asilo, con especial atención a las enfermedades relacionadas con la salud mental; y (sic)
+IX. Incluir dentro del programa de acceso gratuito servicios médicos y medicamentos, los tratamientos y medicamentos necesarios para curar las enfermedades que con mayor frecuencia contraen las personas migrantes, refugiadas y solicitantes de asilo, con especial atención a las enfermedades relacionadas con la salud mental; y
 
 X. Revisar las reglas de operación y funcionamiento para asegurar que estén incluidos como beneficiarios de los programas de apoyo alimentario, a las personas migrantes, refugiadas y solicitantes de asilo que requieran dicho apoyo, sin distinción alguna entre aquellos que están en una situación migratoria regular o irregular;
 
@@ -718,9 +846,11 @@ El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, 
 
 En el marco de sus atribuciones, el Consejo se regirá por los principios de austeridad, racionalidad y transparencia en el ejercicio de su presupuesto.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-El Consejo podrá establecer oficinas en las demarcaciones territoriales del Distrito Federal que estime pertinente de acuerdo a su disponibilidad presupuestal.
+El Consejo podrá establecer oficinas y realizar inspecciones en las demarcaciones territoriales del Distrito Federal que estime pertinente de acuerdo a su disponibilidad presupuestal.
 
 ###### Artículo 35.
 
@@ -732,9 +862,17 @@ II. Diseñar, implementar y promover políticas públicas para prevenir, y elimi
 
 III. Coordinar, dar seguimiento y evaluar las acciones de los entes públicos en materia de prevención y erradicación de la discriminación;
 
-IV. Llevar a cabo asesoría técnica y legislativa en materia de derecho a la no discriminación; y
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-V. Dar trámite a los procedimientos de reclamación y quejas previstos en la presente Ley.
+IV. Brindar asesoría técnica y legislativa en materia de derecho a la no discriminación;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Dar trámite a los procedimientos de reclamación y quejas previstos en la presente Ley, y
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI. El Consejo podrá proceder de oficio, cuando detecte o tenga conocimiento de casos en los que se viole el derecho a la igualdad y no discriminación y sin que medie una solicitud para tal efecto.
 
 ###### Artículo 36.
 
@@ -756,23 +894,33 @@ V. Las aportaciones, donaciones, legados y demás liberalidades que reciba de pe
 
 Son atribuciones del Consejo:
 
-I. Diseñar, emitir y difundir el Programa anual para Prevenir y Eliminar la Discriminación para el Distrito Federal, así como verificar y evaluar su cumplimiento;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+I. Diseñar, emitir y difundir el Programa Anual para Prevenir y Eliminar la Discriminación en el Distrito Federal, así como verificar y evaluar su cumplimiento;
 
 II. Elaborar y emitir anualmente los lineamientos generales para el diseño de estrategias, programas, políticas, proyectos y acciones para prevenir y eliminar la discriminación en el Distrito Federal;
 
 III. Actuar como órgano conductor de aplicación de la presente Ley, velando por su cumplimiento y la consecución de sus objetivos;
 
-IV. Formular observaciones, sugerencias y directrices a quien omita el cumplimiento o desvíe la ejecución del Programa a que se refiere la fracción anterior, sin perjuicio del ejercicio de las acciones que esta ley confiere a las personas, grupos y comunidades en situación de discriminación y organizaciones de la sociedad civil;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Formular observaciones, sugerencias y directrices a quien omita el cumplimiento o desvíe la ejecución del Programa a que se refiere la fracción I, sin perjuicio del ejercicio de las acciones que esta ley confiere a las personas, grupos y comunidades en situación de discriminación y organizaciones de la sociedad civil;
 
 V. Solicitar a los entes públicos la información que juzgue pertinente en materia de combate a la discriminación;
 
-VI. Participar en el diseño del Plan general de Desarrollo del Gobierno del Distrito Federal, verificando que en el contenido y en la asignación presupuestal de los programas se incorporen los lineamientos del Programa anual para Prevenir y Eliminar la discriminación;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Elaborar y aprobar el su (sic) Estatuto Orgánico y el Reglamento de sesiones;
+VI. Participar en el diseño del Programa General de Desarrollo del Distrito Federal, verificando que en el contenido y en la asignación presupuestal de los programas se incorporen los lineamientos del Programa Anual para Prevenir y Eliminar la Discriminación;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Elaborar y aprobar su Estatuto Orgánico y el Reglamento de sesiones;
 
 VIII. Aprobar el Reglamento de la Asamblea Consultiva;
 
-IX. Las demás que establezca la presente Ley, así como las contenidas en su Reglamento;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Proceder de oficio, cuando se detecte o tenga conocimiento de casos en los que se viole el derecho a la igualdad y no discriminación y sin que medie una solicitud para tal efecto.
 
 X. Promover el derecho humano a la no discriminación de las personas, grupos y comunidades en situación de discriminación, mediante campañas de difusión y divulgación;
 
@@ -796,7 +944,7 @@ XIX. Actuar como órgano de consulta, asesoría, capacitación y formación en m
 
 XX. Elaborar programas de capacitación para las y los ciudadanos y organizaciones de la sociedad civil a fin de que conozcan los procedimientos e instancias para la presentación de denuncias y quejas;
 
-XXI. Proponer a las instituciones de educación pública y privadas del Distrito Federal de todos los niveles, lineamientos y criterios para el diseño, elaboración y/o aplicación de contenidos, materiales pedagógicos y procesos de formación en materia de igualdad y no discriminación; e (sic)
+XXI. Proponer a las instituciones de educación pública y privadas del Distrito Federal de todos los niveles, lineamientos y criterios para el diseño, elaboración y/o aplicación de contenidos, materiales pedagógicos y procesos de formación en materia de igualdad y no discriminación; e
 
 XXII. Impulsar, realizar, coordinar y difundir estudios e investigaciones sobre el derecho a la igualdad y a la no discriminación así como diagnósticos sobre la situación de discriminación que se presentan en el Distrito Federal; de derechos humanos que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los entes públicos del Distrito Federal;
 
@@ -808,11 +956,15 @@ XXV. Orientar y canalizar a las personas, grupos y comunidades en situación de 
 
 XXVI. Establecer vinculación permanente con la Comisión de Derechos Humanos del Distrito Federal y el Consejo Nacional para Prevenir y Eliminar la Discriminación para conocer los casos de discriminación que llegan a estas instituciones;
 
-XXVII. Celebrar convenios de colaboración con dependencias de la administración pública del Distrito Federal, de los Estados de la República, entidades federales, o con los órganos de, (sic) con organismos internacionales, organizaciones de la sociedad civil e Instituciones académicas; y (sic)
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXVII. Celebrar convenios de colaboración con dependencias de la administración pública del Distrito Federal, de los Estados de la República, dependencias federales, con organismos internacionales, organizaciones de la sociedad civil e Instituciones académicas;
 
 XXVIII. Asistir a las reuniones nacionales e internacionales en materia de prevención y eliminación de la discriminación, además de establecer relaciones con organismos similares en las entidades de la República y con el Consejo Nacional para Prevenir la Discriminación, así como con organismos multilaterales relacionados con los derechos humanos y con aquellos similares al Consejo en otras entidades;
 
-XXIX. Efectuar, fomentar, coordinar y difundir estudios e investigaciones sobre el derecho a la no discriminación y con relación al fenómeno discriminatorio;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXIX. Emitir opinión jurídica pública respecto a los hechos de discriminación relacionados con las quejas y reclamaciones que conozca y formular observaciones, sugerencias y/o directrices a quien omita el cumplimiento de la presente Ley.
 
 XXX. Realizar de manera permanente estudios sobre los ordenamientos jurídicos vigentes, a fin de detectar disposiciones discriminatorias y proponer, en su caso, las modificaciones que correspondan;
 
@@ -830,6 +982,10 @@ XXXVI. Dar seguimiento a medidas instrumentadas por los órganos de gobierno loc
 
 XXXVII. Elaborar un informe anual de sus actividades para presentar ante la Asamblea Legislativa del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXVIII. Las demás que establezca la presente Ley, así como las contenidas en el Estatuto Orgánico del Consejo.
+
 #### Sección Tercera. De los órganos de administración
 
 ###### Artículo 38.
@@ -840,9 +996,13 @@ I. La Junta de Gobierno; y
 
 II. La Presidencia del Consejo;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 39.
 
-La Junta de Gobierno estará integrada por la o el titular de la Presidencia del Consejo, quien además presidirá dicha Junta de Gobierno, cinco representantes de la Administración Pública del Distrito Federal y cinco integrantes designados por la Asamblea Consultiva.
+La Junta de Gobierno estará integrada por la o el titular de la Presidencia del Consejo, quien además presidirá dicha Junta de Gobierno, seis representantes de la Administración Pública del Distrito Federal y seis integrantes designados por la Asamblea Consultiva.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 Los representantes de la Administración Pública del Distrito Federal son los siguientes:
 
@@ -850,17 +1010,23 @@ I. Uno de la Secretaría de Gobierno;
 
 II. Uno de la Secretaría de Desarrollo Social;
 
-III. Uno de la Secretaría de Salud;
+III. Uno de la Secretaria de Desarrollo Rural y Equidad para las Comunidades;
 
-IV. Uno de la Secretaría de Educación;
+IV. Uno de la Secretaría de Salud;
 
-V. Uno de la Secretaría del Trabajo y Fomento al Empleo
+V. Uno de la Secretaría de Educación;
 
-Las y los representantes del (sic) la Administración Pública del Distrito Federal deberán tener nivel de Subsecretario o Director General, según lo permita la estructura autorizada y sus respectivos suplentes el nivel inferior jerárquico inmediato.
+VI. Uno de la Secretaría del Trabajo y Fomento al Empleo
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Asimismo, serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, un o una representante de cada uno de los siguientes órganos públicos: Instituto de las Mujeres de la Ciudad de México, Instituto de la Juventud de la Ciudad de México, Consejo para la Prevención y la Atención Integral del VIH/Sida en el Distrito Federal, Instituto de Atención al Adulto Mayor del Distrito Federal, el Instituto para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, y el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
 Las y los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico, y su designación se hará conforme al procedimiento establecido en el Reglamento de la propia Asamblea Consultiva.
 
-Asimismo, serán invitados permanentes a la Junta de Gobierno con derecho a voz, pero no a voto, un o una representante de cada uno de los siguientes órganos públicos: Instituto de las Mujeres de la Ciudad de México, Instituto de la Juventud de la Ciudad de México, Consejo para la Prevención y la Atención Integral del VIH/Sida en el Distrito Federal, Instituto de Atención al Adulto mayor del Distrito Federal y el Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Además, será invitado permanente a la Junta de Gobierno, con derecho solo a voz, la o el Presidente de la Comisión de Atención a Grupos Vulnerables de la Asamblea legislativa del Distrito Federal.
 
 ###### Artículo 40.
 
@@ -900,9 +1066,11 @@ La o el Presidente del Consejo, será designada por la o el Jefe de Gobierno del
 
 Durante su encargo la o el Presidente del Consejo no podrá desempeñar algún otro empleo, cargo o comisión distinto, que sea remunerado, con excepción de los de carácter docente o científico.
 
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-La o el Presidente del Consejo durará en su cargo tres años, y podrá ser ratificada(o) hasta por un periodo igual.
+La o el Presidente del Consejo durará en su cargo cuatro años, y podrá ser ratificada(o) hasta por un periodo igual.
 
 ###### Artículo 45.
 
@@ -984,31 +1152,263 @@ El Consejo se regirá por lo dispuesto en esta ley, su Estatuto Orgánico, en lo
 
 Para tal efecto, ejercerá las atribuciones generales que correspondan a su naturaleza y objeto.
 
-### CAPÍTULO V. De las acciones para dar trámite a las reclamaciones y quejas presentadas por presuntas conductas discriminatorias
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
-#### Sección Única
+### CAPÍTULO V. Del procedimiento para dar trámite a las reclamaciones y quejas presentadas por presuntas conductas discriminatorias
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección primera. Disposiciones Generales
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 54.
 
-El Consejo conocerá de las solicitudes de defensa por los hechos, acciones, omisiones o prácticas discriminatorias a que se refiere esta ley o que se presuman como tales, con el objeto de asistir a las personas que así lo soliciten ante las instancias civiles, penales y administrativas que en su caso correspondan, haciendo un puntual seguimiento a los procesos que se inicien para tal efecto.
+El Consejo conocerá de las solicitudes de defensa por los hechos, acciones, omisiones o prácticas discriminatorias a que se refiere esta ley o que se presuman como tales, con el objeto de tramitar quejas y reclamaciones de las personas, grupos o comunidades que así lo soliciten, además de orientar y canalizar, ante las instancias civiles, penales y administrativas que en su caso correspondan, haciendo un puntual seguimiento a los procesos que se inicien para tal efecto.
 
-Si las acciones, omisiones prácticas discriminatorias a las que se refiere el presente artículo han sido objeto de queja ante la Comisión de Derechos Humanos del Distrito Federal y esta la admitió, el Consejo dejará de conocer los hechos que dieron fundamento a la queja.
+Si las acciones, omisiones o prácticas discriminatorias a las que se refiere el presente artículo han sido materia de queja ante la Comisión de Derechos Humanos del Distrito Federal y ésta la admitió, el Consejo dejará de conocer los hechos que dieron fundamento a la queja.
+
+En caso de concurrencia de actuaciones con el Consejo Nacional para Prevenir la Discriminación (CONAPRED), a partir del ámbito de competencia y de la naturaleza de la queja o reclamación, el Consejo solicitará a la instancia nacional la derivación del mismo para su tramitación a nivel local.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-Podrán presentar una solicitud de asistencia las personas físicas, grupos, colectivos, organización de la sociedad civil, u otras análogas en contra de personas físicas o morales, personas servidoras públicas, autoridades, dependencias o entidades de los órganos de gobierno del Distrito Federal que hayan incurrido en actos discriminatorios contenidos en el artículo 6 de la presente ley u otros actos considerados discriminatorios en la ley aplicable en la materia.
+La o el Presidente del Consejo, así como las personas servidoras públicas que ocupen la Dirección de Cultura por la No Discriminación, la Subdirección de Atención Ciudadana y las y los responsables de los procedimientos de quejas y reclamaciones, tendrán en sus actuaciones fe pública para certificar la veracidad de los hechos de los que tomen conocimiento en relación con las peticiones formuladas por la ciudadanía ante el Consejo.
+
+Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto elaborará la persona servidora pública correspondiente.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Los entes públicos en el ámbito de sus atribuciones están obligados a proporcionar información al Consejo, sobre las solicitudes de asistencia en los términos de esta ley y demás disposiciones aplicables.
+El Consejo por conducto de la persona titular de la presidencia podrá solicitar a personas físicas o morales, así como a los entes públicos, información relacionada con la tramitación de las quejas y reclamaciones.
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-Con independencia de los procesos civiles, penales o administrativas (sic) a que se lleven a cabo por presuntas violaciones al derecho humano de igualdad y no discriminación, el Consejo podrán (sic) sugerir las siguientes medidas:
+El Consejo estará facultado para realizar visitas para conocer y verificar la accesibilidad y no discriminación de espacios públicos que tengan relación con las reclamaciones que se tramiten.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 58.
+
+Toda persona, grupo social, organización no gubernamental, asociación o sociedad podrá presentar queja o reclamación ante el Consejo en contra de personas físicas o morales, personas servidoras públicas de un ente público que hayan incurrido en cualquier hecho, acto, omisión u otras análogas prácticas discriminatorias, que contravenga lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales firmados y ratificados por el Estado mexicano y lo previsto en la presente Ley.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 59.
+
+Las reclamaciones y quejas que se presenten por presuntas conductas discriminatorias, sólo podrán admitirse dentro del plazo de un año, contado a partir de que la persona peticionaria tenga conocimiento de dichas conductas. Dicho requisito no será considerado en los supuestos en los que el acto discriminatorio subsista o en casos de excepción por su relevancia o gravedad a juicio del Consejo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 60.
+
+La queja o reclamación podrá iniciarse de oficio o a petición de parte de forma escrita, personal, o mediante persona de su confianza o representante legal, por vía telefónica o correo electrónico dirigidos al Consejo, debiendo contener como mínimo los siguientes datos de identificación:
+
+I. Nombre del peticionario;
+
+II. Domicilio para recibir notificaciones; y
+
+III. Descripción clara y sucinta de los hechos, modo y tiempo del presunto acto discriminatorio.
+
+El Consejo en caso de considerar necesario subsanará las deficiencias de la queja o reclamación.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 61.
+
+La persona servidora pública del Consejo que reciba una queja o reclamación por vía telefónica o correo electrónico, deberá iniciar el trámite dando cumplimiento a los requisitos referidos en el artículo anterior.
+
+La parte peticionaria que inicie su queja o reclamación a través de los medios señalados en el presente artículo deberá ratificar su queja o reclamación ante el Consejo en el término no mayor de cinco días hábiles, contados a partir del requerimiento, y de no ser así se tendrá por no presentada. En todos los casos deberá informarse al peticionario éste requisito, señalándole de forma clara el día de su vencimiento.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 62.
+
+La representación en la queja o reclamación de las personas morales se acreditará mediante instrumento público y en el caso de las personas físicas se acreditará por medio de carta poder en la forma prevista en la Ley de Procedimiento Administrativo del Distrito Federal y en caso que se encuentre impedida la o el peticionario para acudir al Consejo, éste establecerá la forma idónea para contactarlo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 63.
+
+El Consejo registrará las quejas que se reciban, expidiendo un acuse de recibo de las mismas, procediendo a su admisión y atención correspondiente. Las quejas o reclamaciones deberán ingresarse debidamente identificadas, ya que no podrá iniciarse el trámite en carácter anónimo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 64.
+
+Cuando el contenido de la queja no sea claro, no pudiendo deducirse los elementos que permitan la intervención del Consejo o cuando no cumpla con los requisitos establecidos en el artículo 60 de la presente Ley, se procederá a prevenir por una sola vez a la persona peticionaria para que subsane el contenido de la misma en un plazo de cinco días hábiles contados a partir de la notificación de la prevención, en el cual no correrá el término para la admisión correspondiente. De no desahogar la persona peticionaria la prevención, se le tendrá como no presentada la queja o reclamación.
+
+El Consejo no admitirá, aquellas quejas o reclamaciones que resulten notoriamente improcedentes o cuando se advierta que carecen de motivación, así como las que expongan hechos que no describan actos de discriminación, o éstos consistan en la reproducción de un acto discriminatorio ya examinado y resuelto.
+
+En los asuntos que se expongan hechos que no se describan actos de discriminación, el Consejo proporcionará una orientación y canalizará a la persona peticionaria a la instancia correspondiente para la atención del asunto expuesto.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 65.
+
+Los entes públicos en el ámbito de sus atribuciones deberán proporcionar información u opiniones al Consejo, sobre las solicitudes de queja, reclamación y asistencia en los términos de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 66.
+
+El Consejo, dentro del ámbito de su competencia, iniciará sus actuaciones a petición de parte; también podrá actuar de oficio en aquellos casos en que la Presidencia así lo determine.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 67.
+
+Con independencia de los procesos civiles, penales o administrativos que se lleven a cabo por presuntas violaciones al derecho humano de igualdad y no discriminación, el Consejo podrá disponer la adopción de una o más de cualquiera de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
 
 I. La impartición de cursos, talleres o seminarios que promuevan la igualdad de oportunidades;
 
 II. La fijación de carteles en los que se promueva la modificación de conductas discriminatorias;
+
+III. Implementación de acciones afirmativas,
+
+IV. La publicación o difusión de una síntesis de la resolución en los medios impresos o electrónicos de comunicación y;
+
+V. Acciones de reparación del daño acorde a los principios internacionales de derechos humanos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección Segunda. De la Reclamación
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 68.
+
+La reclamación es el procedimiento que se sigue contra personas servidoras públicas de los entes públicos del Distrito Federal que en el ejercicio de sus funciones o con motivo de ellas, presuntamente cometan una conducta discriminatoria.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 69.
+
+El Consejo una vez que conozca la reclamación, dentro del término de los cinco días siguientes a su presentación, resolverá si la admite.
+
+Una vez admitida y debidamente registrada la reclamación, dentro de los siguientes cinco días hábiles el Consejo requerirá un informe institucional a la persona titular del ente público del que dependa la persona servidora pública señalada como presunta responsable, quien en un término de diez días deberá rendirlo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 70.
+
+El informe solicitado a las personas servidoras públicas presuntamente responsables, deberá rendirse en un plazo no mayor a diez días hábiles, contados a partir de la fecha en que surta efectos la notificación. En el cual la persona servidora pública señalada como presunta responsable, deberá hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, así como las pruebas que considere pertinentes.
+
+En el procedimiento de reclamación se propondrá la conciliación entre la parte peticionaria y las personas servidoras públicas presuntamente responsables cuando la naturaleza del caso lo permita.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 71.
+
+En caso de no haber respuesta por parte de la o el titular del ente público o de la persona servidora pública requeridos, dentro del plazo señalado para tal efecto, se tendrán por ciertos los hechos mencionados en la reclamación, salvo prueba en contrario.
+
+El Consejo podrá, si lo estima necesario, realizar las investigaciones procedentes en el ámbito de su competencia, ejerciendo las acciones pertinentes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección Tercera. De la Queja
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 72.
+
+El procedimiento de queja se inicia por denuncia formulada por cualquier persona ante el Consejo de presuntas conductas discriminatorias atribuidas a personas físicas o morales.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 73.
+
+En el procedimiento de queja se podrán avenir los intereses a solicitud de la parte peticionaria y la parte presuntamente responsable de prácticas discriminatorias, mediante una audiencia de conciliación, misma que se celebrará en las instalaciones del Consejo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 74.
+
+Para iniciar con el procedimiento de conciliación, dicha propuesta se deberá hacer del conocimiento de las partes, citándoles para que concurran a una audiencia de conciliación, la cual deberá llevarse a cabo dentro de los quince días hábiles siguientes a aquél en que se les notificó su celebración. La audiencia se celebrará en las instalaciones y con el personal del Consejo.
+
+En caso de no comparecer la parte responsable de las presuntas conductas discriminatorias, a la audiencia de conciliación a que se refiere el párrafo anterior, se tendrán por ciertos los hechos discriminatorios imputados en su contra, salvo prueba en contrario.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 75.
+
+La persona servidora pública que actúe como conciliador, en la audiencia de conciliación, expondrá a las partes un resumen de la queja y de los elementos de juicio que se hayan integrado y les exhortará a resolver sus diferencias, para cuyo efecto propondrá opciones de solución.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 76.
+
+La audiencia de conciliación podrá ser suspendida por la persona servidora pública que funja como conciliador o por las partes de común acuerdo hasta en una ocasión, debiéndose reanudar, en su caso, dentro de los cinco días hábiles siguientes.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 77.
+
+Cuando las partes lleguen a un acuerdo, se celebrará el convenio respectivo, que será revisado por el Consejo; si está apegado a derecho, lo aprobará y, en su caso, dictará el acuerdo correspondiente sin que sea admisible recurso alguno.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 78.
+
+El convenio suscrito por las partes y aprobado por el Consejo tiene fuerza de cosa juzgada y trae aparejada ejecución, la que podrá promoverse ante los tribunales competentes en la vía de apremio o en juicio ejecutivo, a elección de la parte peticionaria.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección Cuarta. De la Investigación
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 79.
+
+Cuando la reclamación o queja no se resuelva en la etapa de conciliación, el Consejo iniciará las investigaciones del caso, para lo cual tendrá las siguientes facultades:
+
+I. Solicitar a las autoridades o personas servidoras públicas a quienes se imputen conductas discriminatorias, la presentación de informes o documentos complementarios;
+
+II. Solicitar de otros particulares, autoridades y/o personas servidoras públicas documentos e informes relacionados con el asunto materia de la investigación;
+
+III. Practicar inspecciones a las autoridades a las que se imputen conductas discriminatorias, mediante personal técnico o profesional;
+
+IV. Citar a las personas que deben comparecer como testigos o peritos, y
+
+V. Efectuar todas las demás acciones que se consideren convenientes para el mejor conocimiento del asunto.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 80.
+
+Para documentar debidamente las evidencias, el Consejo podrá solicitar la rendición y proveer el desahogo de todas aquellas pruebas que estime necesarias, con la única condición de que éstas se encuentren previstas como tales por el orden jurídico mexicano.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 81.
+
+Las pruebas que se presenten por la parte interesada, así como las que de oficio se allegue el Consejo, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos denunciados.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 82.
+
+Derivado del trámite de las Quejas y Reclamaciones, en caso de acreditarse el acto o actos discriminatorios y no se llegue a una solución a favor de la parte peticionaria, se emitirá una resolución la cual estará basada en las constancias que integren el expediente respectivo.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 83.
+
+La resolución contendrá una síntesis de los puntos controvertidos, las motivaciones y los fundamentos de derecho interno e internacional que correspondan y los resolutivos en los que con toda claridad se precisará su alcance y las medidas administrativas que en su caso procedan conforme a esta ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección Quinta. Del Recurso de Revisión
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 84.
+
+Contra las resoluciones y actos del Consejo los interesados podrán interponer el recurso de inconformidad, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -1033,3 +1433,13 @@ OCTAVO.- Publíquese en la Gaceta oficial del Distrito Federal y para su mayor d
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintitrés días del mes de febrero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.-LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 8 DE SEPTIEMBRE DE 2014.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente en (sic) su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Los procedimientos de reclamación y queja iniciados con anterioridad a la presente publicación, continuaran su proceso con base en la normatividad que les dio inicio.
