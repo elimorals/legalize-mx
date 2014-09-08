@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2013-12-23"
+last_updated: "2014-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -2998,11 +2998,11 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 1. Es facultad exclusiva de la Comisión de Presupuesto y Cuenta Pública la elaboración del dictamen de la Cuenta Pública de cada ejercicio fiscal. Para ello, deberá considerar el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública; el análisis que la Comisión de Vigilancia de la Auditoría Superior de la Federación entregue en términos del artículo 224, numeral 2 de este Reglamento; así como el contenido de la Cuenta Pública.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 228.
 
-1. La revisión de la Cuenta Pública deberá concluir a más tardar, el 30 de septiembre del año siguiente a su presentación, por lo que la Comisión de Presupuesto y Cuenta Pública deberá aprobar el proyecto de dictamen y presentarlo al Pleno, para su votación y aprobación, a más tardar en esta fecha.
+1. La revisión de la Cuenta Pública deberá concluir a más tardar, el 31 de octubre del año siguiente a su presentación, por lo que la Comisión de Presupuesto y Cuenta Pública deberá aprobar el proyecto de dictamen y presentarlo al Pleno, para su votación y aprobación, a más tardar en esta fecha.
 
 ###### Artículo 229.
 
@@ -3707,3 +3707,9 @@ D.O.F. 23 DE DICIEMBRE DE 2013.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las comisiones ordinarias tendrán un plazo de seis meses a partir de la fecha de la entrada en vigor del presente Decreto, para definir y consensar sus variables de desempeño.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
