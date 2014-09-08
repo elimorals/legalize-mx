@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-89130
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-24"
-last_updated: "2013-07-15"
+last_updated: "2014-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-08-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de agosto de 2012.
 
@@ -51,7 +51,9 @@ I. Subsecretarías de:
 
 2. Desarrollo Comunitario y Participación Social, y
 
-3. Prospectiva, Planeación y Evaluación.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+3. Planeación, Evaluación y Desarrollo Regional.
 
 II. Oficialía Mayor.
 
@@ -87,6 +89,10 @@ V. Direcciones Generales de:
 
 5. Seguimiento;
 
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+5 Bis. Seguro de Vida para Jefas de Familia;
+
 6. Programación y Presupuesto;
 
 7. Recursos Materiales;
@@ -109,19 +115,29 @@ V. Direcciones Generales de:
 
 14. Geoestadística y Padrones de Beneficiarios;
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-15. Desarrollo Comunitario, y
+14 Bis. Desarrollo Regional;
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-16. Participación Social.
+15. Desarrollo Comunitario;
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+16. Participación Social, y
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+17. Cohesión e Inclusión Social.
 
 B. ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS:
 
 1. Instituto Nacional de Desarrollo Social;
 
-2. Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, y
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+2. Coordinación Nacional de PROSPERA Programa de Inclusión Social, y
 
 3. Delegaciones de la Secretaría en las entidades federativas.
 
@@ -277,9 +293,11 @@ VII. Fomentar acciones de desarrollo comunitario, inclusión y cohesión social 
 
 VIII. Asignar los programas, proyectos y acciones de su competencia, a las unidades administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE 2014)</small>
+
 ###### Artículo 9.
 
-Corresponde a la Subsecretaría de Prospectiva, Planeación y Evaluación:
+Corresponde a la Subsecretaría de Planeación, Evaluación y Desarrollo Regional:
 
 I. Planear, diseñar y evaluar las estrategias, programas, proyectos y acciones en materia de desarrollo social y proponer las políticas, criterios y lineamientos generales para el cumplimiento de los objetivos de los programas y acciones de la Secretaría;
 
@@ -289,13 +307,25 @@ II. Formular los lineamientos generales para el diseño de las reglas de operaci
 
 III. Proponer a las instancias correspondientes, los criterios para la distribución de los recursos para el desarrollo social, así como evaluar el uso de las transferencias de fondos a las entidades federativas y los municipios, y a los sectores social y privado para la realización de acciones en materia de desarrollo social;
 
-IV. Establecer los lineamientos para la elaboración y la actualización de los padrones de personas beneficiarias de los programas sociales e integrarlos al padrón de programas federales de desarrollo social, así como para la recolección de información socioeconómica, identificación de hogares e información social, estadística y georreferenciada;
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+III Bis. Promover e impulsar acciones de capacitación, dirigidas al fortalecimiento institucional de las entidades federativas, delegaciones de la Secretaría, municipios y demarcaciones territoriales del Distrito Federal para la aplicación de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social, de conformidad con lo que establece la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Establecer los lineamientos para la elaboración y la actualización de los padrones de personas beneficiarias de los programas sociales e integrarlos al padrón de programas federales de desarrollo social, así como para la recolección de información socioeconómica, identificación de hogares, información social, regional, estadística y georreferenciada;
 
 V. Proponer al o a la Titular de la Secretaría la política para coordinar la contratación, operación y supervisión de la evaluación y monitoreo de los programas sociales a cargo de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como de las entidades del Sector;
 
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V Bis. Proponer al Secretario las políticas para coordinar la contratación, operación y supervisión de la evaluación y monitoreo de las acciones en materia de desarrollo social derivadas de la aplicación de los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social en los términos de la Ley de Coordinación Fiscal;
+
 VI. Proponer al o a la Titular de la Secretaría estrategias, acciones y mecanismos para promover con los gobiernos de las entidades federativas, la conjunción de esfuerzos y recursos institucionales y sociales para impulsar el desarrollo social;
 
-VII. Integrar, con la participación que corresponda a las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector, la información relativa a las actividades de la Secretaría para los informes que el Ejecutivo Federal deba presentar de conformidad con la Ley de Planeación y las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Integrar, con la participación que corresponda a las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector, entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, la información relativa a las actividades de la Secretaría para los informes que el Titular del Ejecutivo Federal deba presentar de conformidad con la Ley de Planeación y demás disposiciones jurídicas aplicables; en el caso de los municipios y demarcaciones territoriales del Distrito Federal se hará por conducto de las entidades federativas;
 
 VIII. Atender los asuntos internacionales de la Secretaría;
 
@@ -373,13 +403,21 @@ XXIX. Autorizar los dictámenes de modificaciones de las estructuras orgánicas 
 
 XXX. Conducir las políticas y acciones institucionales relacionadas con los programas que contribuyan al desarrollo organizacional de la Dependencia;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XXXI. Coordinar el proceso de gasto y concentración de la información de consultorías, asesorías, estudios e investigaciones contratados por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, y
+XXXI. Coordinar el proceso de gasto y concentración de la información de consultorías, asesorías, estudios e investigaciones contratados por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XXXII. Expedir los nombramientos de los Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría.
+XXXII. Expedir los nombramientos de los Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXIII. Promover la incorporación de la perspectiva de género y el enfoque de igualdad en la cultura organizacional de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XXXIV. Coordinar el proceso de implantación e institucionalización de la perspectiva de género de forma transversal en el diseño, planeación, presupuestación, ejecución y evaluación de los proyectos, programas y acciones de la Dependencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -603,11 +641,15 @@ La Unidad de Planeación y Relaciones Internacionales tendrá las siguientes atr
 
 I. Realizar la planeación necesaria para configurar estrategias, programas, proyectos y acciones para el desarrollo social;
 
-II. Establecer los criterios y lineamientos para el diseño y la elaboración de las reglas de operación de los programas sociales, y emitir opiniones técnicas en la materia;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+II. Dirigir el proceso, así como establecer los criterios y lineamientos, para el diseño y elaboración de las reglas de operación de los programas sociales, y emitir opiniones técnicas en la materia;
 
 III. Proponer adecuaciones y reformas a los programas, proyectos y acciones de la Secretaría;
 
-IV. Diseñar propuestas de programas, proyectos y acciones para el desarrollo social;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Diseñar propuestas de programas, proyectos y acciones para el desarrollo social, proponiendo, en su caso, mecanismos de vinculación entre los programas sociales y los fondos en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
 
 V. Proponer a su superior jerárquico proyectos y modificaciones de las reglas de operación de los programas sociales a cargo de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, así como de las entidades del Sector;
 
@@ -615,9 +657,7 @@ VI. Apoyar técnicamente a las entidades federativas que lo soliciten en la plan
 
 VII. Proponer a su superior jerárquico, en materia de desarrollo social, estrategias, políticas, criterios, objetivos y metas para la Secretaría en el ámbito internacional;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
-
-VIII. Establecer la metodología, las fuentes de información, así como los mecanismos de distribución para la asignación y evaluación de la aplicación de los recursos del Ramo General de Aportaciones Federales para entidades federativas, relativos a la materia de desarrollo social y convenir con los gobiernos de las entidades federativas, la metodología y los mecanismos correspondientes para las asignaciones municipales, en la distribución y seguimiento de los recursos a que se refiere esta fracción, de acuerdo con la legislación vigente en la materia, en el ámbito de su competencia;
+VIII. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 IX. Proponer y, en su caso, negociar y dar seguimiento a los acuerdos, convenios de colaboración y declaraciones conjuntas que el o la Titular de la Secretaría, así como los y las responsables de las unidades administrativas promuevan ante sus contrapartes de otros países y organismos internacionales, en coordinación con las dependencias competentes;
 
@@ -739,6 +779,20 @@ IV. Elaborar los estudios, informes y reportes que le solicite su superior jerá
 
 V. Proponer a las áreas responsables, con base en los resultados del seguimiento, las mejoras a la operación de los programas dentro del ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 24 Bis.
+
+La Dirección General de Seguro de Vida para Jefas de Familia tendrá las siguientes atribuciones:
+
+I. Proponer a su superior jerárquico políticas, estrategias y acciones que contribuyan a la incorporación al seguro de vida para jefas de familia;
+
+II. Articular programas, proyectos y acciones con los sectores social y privado, las organizaciones de la sociedad civil, instituciones académicas, así como organismos internacionales para que contribuyan a la ejecución del programa a su cargo;
+
+III. Dar a conocer las disposiciones normativas y presupuestarias a quienes operen el programa a su cargo, y
+
+IV. Capacitar y asesorar a quienes operen el programa en la materia cuando así lo requieran y verificar que hagan lo propio entre las autoridades locales y las instancias ejecutoras.
+
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2013)</small>
 
 ###### Artículo 25.
@@ -793,9 +847,25 @@ VIII. Capacitar y asesorar a los operadores de los programas de participación s
 
 IX. Promover la participación de los beneficiarios en los programas de participación social, en la planeación, ejecución y vigilancia de las actividades de los mismos.
 
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
+La Dirección General de Cohesión e Inclusión Social tendrá las siguientes atribuciones:
+
+I. Conducir los proyectos de políticas, lineamientos y mecanismos de instrumentación, operación y evaluación de las acciones de cohesión e inclusión social, para el desarrollo comunitario en áreas marginadas de zonas rurales y urbanas, para el cumplimiento de los objetivos institucionales de la Secretaría;
+
+II. Diseñar e implementar los mecanismos de articulación y control de acciones de cohesión e inclusión social de los sectores sociales más desprotegidos que fortalezcan la capacidad de la sociedad de conocer y canalizar la problemática comunitaria;
+
+III. Instrumentar, acciones de vinculación que fortalezcan la cohesión e inclusión social, en coordinación con otras dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y municipios;
+
+IV. Establecer mecanismos y acciones para desarrollar modelos de cohesión e inclusión social comunitaria, orientados a fortalecer las estrategias de desarrollo social impulsadas por la Secretaría;
+
+V. Establecer estrategias para diagnosticar, revisar y determinar la política de cohesión e inclusión social que articule esfuerzos para su atención;
+
+VI. Diseñar e implementar sistemas para la identificación y articulación de los programas de desarrollo social a cargo de las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios y de la sociedad civil en materia de prevención social de la violencia y del fortalecimiento del tejido social, y
+
+VII. Implementar acciones que permitan que los sectores público, privado y social reconozcan y garanticen los derechos sociales de la población en áreas marginadas de las zonas rurales y urbanas, en sus componentes de identidad, legitimidad, habilidades sociales y la participación de la comunidad.
 
 ###### Artículo 28.
 
@@ -957,7 +1027,9 @@ V. Supervisar, coordinar y dictaminar la procedencia técnica en la adquisición
 
 VI. Promover el desarrollo tecnológico y apoyar los programas de modernización administrativa en materia de tecnologías de la información y comunicaciones en la Secretaría a partir de las directrices que le marque el o la Titular de la Oficialía Mayor;
 
-VII. Apoyar a la Subsecretaría de Prospectiva, Planeación y Evaluación, a partir de las directrices que le marque el o la Titular de la Oficialía Mayor, en las actividades de integración, consolidación y administración de la estadística en materia de desarrollo social;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Apoyar a la Subsecretaría de Planeación, Evaluación y Desarrollo Regional, a partir de las directrices que le marque el Titular de la Oficialía Mayor, en las actividades de integración, consolidación y administración de la estadística en materia de desarrollo social;
 
 VIII. Otorgar servicios de procesamiento de datos a las unidades administrativas de la Secretaría, y
 
@@ -1059,21 +1131,49 @@ Las Direcciones Generales Adjuntas Consultiva y de Asuntos Contenciosos y de Nor
 
 La Dirección General de Evaluación y Monitoreo de los Programas Sociales tendrá las siguientes atribuciones:
 
-I. Planear, en congruencia con la normatividad vigente, los mecanismos de evaluación externa de políticas, acciones y programas sociales operados por las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como por las entidades del Sector;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-II. Coordinar el diseño de los indicadores de desempeño de los programas sociales, conforme a la (sic) disposiciones jurídicas aplicables;
+I. Planear, en congruencia con la normatividad vigente, los mecanismos de monitoreo y evaluación externa de políticas, acciones y programas sociales operados por las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, las entidades del sector coordinado por ésta, así como de las acciones realizadas por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, con la aplicación de los recursos en materia de desarrollo social de conformidad con la Ley de Coordinación Fiscal;
 
-III. Coordinar, en congruencia con las disposiciones jurídicas aplicables, el proceso para la contratación, operación y supervisión, de las evaluaciones externas de los programas sociales y acciones que realicen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Promover y realizar estudios relativos a los resultados e impacto de los programas y acciones sociales que realicen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
+I Bis. Definir las metodologías para el seguimiento físico y operativo de los programas sociales operados por los órganos administrativos desconcentrados de la Secretaría y las entidades del sector coordinado por ésta, así como analizar los resultados del seguimiento que, con base en dichas metodologías, realicen los órganos administrativos desconcentrados de la Secretaría y las entidades del sector coordinado por ésta;
 
-V. Promover la realización de cursos, seminarios y programas en los que se difunda el conocimiento sobre la evaluación y monitoreo de programas sociales;
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Fungir como enlace ante el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en la evaluación y monitoreo de los programas sociales de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
+I Ter. Proponer a su superior jerárquico la política de evaluación y monitoreo de las acciones realizadas por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, con la aplicación de los recursos en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
 
-VII. Difundir la información sobre indicadores y resultados de las evaluaciones externas de los programas sociales de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector, y
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Promover la suscripción de convenios y acuerdos con dependencias, organismos públicos, sociales y privados, tanto nacionales como internacionales, para el desarrollo de procesos y actividades de evaluación de programas sociales a cargo de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría.
+II. Coordinar el diseño de los indicadores de desempeño de los programas sociales, así como los indicadores de desarrollo regional, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+III. Coordinar, en congruencia con las disposiciones jurídicas aplicables, el proceso para la contratación, operación y supervisión, de las evaluaciones externas de los programas sociales y acciones que realicen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las acciones realizadas por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, con la aplicación de los recursos en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Promover y realizar estudios relativos a los resultados e impacto de los programas y acciones sociales que realicen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, las entidades del sector, así como de las acciones realizadas por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, con la aplicación de los recursos en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IV Bis. Emitir los informes y reportes sobre los resultados del desempeño en la aplicación de los recursos destinados a las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social de conformidad con la Ley de Coordinación Fiscal, para proponer acciones a las instancias ejecutoras que permitan mejorar el uso de las transferencias de fondos a las entidades federativas y los municipios;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Promover la realización de cursos, seminarios y programas en los que se difunda el conocimiento sobre la evaluación y monitoreo de programas sociales y de las acciones relativas a las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social de conformidad con la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Fungir como enlace ante el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en la evaluación y monitoreo de los programas sociales de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, entidades del sector, así como de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Difundir la información sobre indicadores y resultados de las evaluaciones externas de los programas sociales de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, las entidades del sector, así como de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal, y
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Promover la suscripción de convenios y acuerdos con dependencias, organismos públicos, sociales y privados, tanto nacionales como internacionales, para el desarrollo de procesos y actividades de evaluación de programas sociales a cargo de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría y de las acciones realizadas con la aplicación de los recursos en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal.
 
 ###### Artículo 35.
 
@@ -1081,13 +1181,17 @@ La Dirección General de Análisis y Prospectiva tendrá las siguientes atribuci
 
 I. Realizar el análisis prospectivo necesario para configurar estrategias, programas, proyectos y acciones para el desarrollo social;
 
-II. Llevar a cabo estudios de investigación cuantitativos y cualitativos, y la elaboración de diagnósticos referentes a las necesidades, carencias, situación socioeconómica y otras características de la población en condiciones de pobreza y marginación;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+II. Llevar a cabo estudios de investigación cuantitativos y cualitativos, y la elaboración de diagnósticos referentes a las necesidades, carencias, situación socioeconómica y otras características de la población en condiciones de pobreza, marginación y rezago social;
 
 III. Realizar análisis sobre tendencias socioeconómicas y demográficas, que inciden sobre el desarrollo social y humano de la población a mediano y largo plazo;
 
 IV. Apoyar los trabajos de análisis de impacto y efectividad de las acciones de los programas sociales que llevan a cabo las distintas unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
 
-V. Elaborar indicadores y realizar mediciones relacionadas con la pobreza, la marginación y la desigualdad que permitan identificar carencias y analizar la evolución de la calidad de vida de la población y los hogares a nivel nacional y por zonas rurales y urbanas, y
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+V. Elaborar indicadores y realizar mediciones relacionadas con la pobreza, la marginación, el rezago social y la desigualdad que permitan identificar carencias y analizar la evolución de la calidad de vida de la población y los hogares a nivel nacional y por zonas rurales y urbanas, y
 
 VI. Coordinar los estudios de carácter científico y técnico en materia de desarrollo social que difunda o publique la Secretaría con la participación que corresponda a otras unidades administrativas de la propia Dependencia.
 
@@ -1112,6 +1216,30 @@ VII. Desarrollar y mantener una plataforma informática que permita a las unidad
 VIII. Proponer a su superior jerárquico las normas para la construcción, uso y aplicación de los desarrollos geoestadísticos que generen las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector, y administrar la información geográfica disponible, y
 
 IX. Establecer los mecanismos para la identificación de los hogares en condición de pobreza por ingresos y por carencias sociales, para la determinación de la población objetivo de los programas sociales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 36 Bis.
+
+La Dirección General de Desarrollo Regional tendrá las siguientes atribuciones:
+
+I. Diseñar e implementar los criterios y lineamientos para la regulación y operación de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social conforme a la legislación vigente en la materia, en el ámbito de su competencia;
+
+II. Aplicar la metodología de distribución para la asignación de los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social a las entidades federativas, así como otorgar apoyo a éstas para el cálculo de la distribución a los municipios y demarcaciones territoriales del Distrito Federal;
+
+III. Coordinar y concertar con las entidades federativas, municipios, demarcaciones territoriales del Distrito Federal y delegaciones de la Secretaría, acciones de capacitación en materia de la aplicación de los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social;
+
+IV. Diseñar, implementar y coordinar el cumplimiento de los mecanismos de seguimiento de las obras y acciones realizadas con los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social de conformidad con lo establecido en la Ley de Coordinación Fiscal;
+
+V. Desarrollar la metodología para consolidar y analizar, en coordinación con la Dirección General de Evaluación y Monitoreo de los Programas Sociales, los resultados del seguimiento de las obras y acciones realizadas con los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social, con la finalidad de proponer a las áreas ejecutoras mejoras en la operación y uso de las transferencias de los fondos a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal;
+
+VI. Establecer, en coordinación con las instancias fiscalizadoras, federales y estatales, los mecanismos para el intercambio de información relacionada con el seguimiento y supervisión de las obras y acciones realizadas con los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social;
+
+VII. Diseñar, desarrollar, administrar y mantener actualizado un sistema de información que fortalezca la transparencia y rendición de cuentas de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social y que apoye a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal en la planeación para la inversión en proyectos que disminuyan la pobreza y el rezago social;
+
+VIII. Coordinar y dar seguimiento a la elaboración de informes y reportes administrativos relativos a las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social, conforme a la legislación vigente y en el ámbito de su competencia, y
+
+IX. Coordinar y dar seguimiento al proceso de firma de acuerdos de la Secretaría con las entidades federativas, sus municipios o las demarcaciones territoriales del Distrito Federal relacionados con las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social.
 
 ### CAPÍTULO X. DE LOS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -1165,35 +1293,59 @@ I. Coordinar la ejecución de los programas y acciones que competan a la Secreta
 
 II. Coadyuvar con el Titular de la Secretaría en la coordinación de las entidades del Sector;
 
-III. Proporcionar la asesoría y el apoyo técnico que le soliciten las autoridades de las entidades federativas y de los municipios, en relación a los programas que opere la Secretaría;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+III. Proporcionar la asesoría y el apoyo técnico que le soliciten las autoridades de las entidades federativas, de los municipios y demarcaciones territoriales del Distrito Federal, en relación a los programas y acciones que opere o coordine la Secretaría;
 
 IV. Asesorar a los grupos sociales en su organización y a las organizaciones constituidas, a efecto de promover su participación en los programas del Sector;
 
-V. Intervenir en la celebración, ejecución y supervisión de las obras públicas a cargo de la Secretaría, con apego a las normas, políticas, procedimientos y acuerdos aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Integrar y mantener actualizado el inventario de obras de infraestructura y equipamiento para el desarrollo social realizadas en la entidad federativa con la participación del Gobierno Federal;
+V. Intervenir en la celebración, ejecución y supervisión de las obras públicas a cargo de la Secretaría y de aquéllas derivadas de la aplicación de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social, con apego a las normas, políticas, procedimientos y acuerdos aplicables;
 
-VII. (DEROGADA, D.O.F. 2 DE ABRIL DE 2013)
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Dar seguimiento a la aplicación de los apoyos financieros federales de los programas sociales, transferidos a la entidad federativa, a los municipios o a los sectores social y privado;
+VI. Integrar y mantener actualizado el inventario de obras de infraestructura y equipamiento para el desarrollo social realizadas en las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal con la participación del Gobierno Federal;
 
-IX. Auxiliar a las unidades administrativas centrales de la Secretaría en la formulación y seguimiento de los convenios de coordinación para el desarrollo social y humano y otros instrumentos de coordinación que suscriban los gobiernos federal y de las entidades federativas, con la participación que corresponda a los municipios, así como de los instrumentos de concertación que se celebren con los sectores social y privado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-X. Apoyar a las autoridades federales, de las entidades federativas y de los municipios que lo soliciten, en la elaboración de los programas y proyectos que deriven de los convenios que suscriban los gobiernos federal y de las entidades federativas;
+VII. Informar, por conducto de la Unidad de Coordinación de Delegaciones, sobre el cumplimiento en la aplicación de los recursos de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Dar seguimiento a la aplicación de los apoyos financieros federales de los programas sociales y de las Aportaciones Federales para Entidades y Municipios en materia de desarrollo social transferidos a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal o a los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Auxiliar a las unidades administrativas centrales de la Secretaría en la formulación y seguimiento de los convenios de coordinación para el desarrollo social y humano, y otros instrumentos de coordinación que suscriban los gobiernos federal y de las entidades federativas, con la participación que corresponda a los municipios y demarcaciones territoriales del Distrito Federal, así como de los instrumentos de concertación que se celebren con los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+X. Apoyar a las autoridades federales, de las entidades federativas y de los municipios que lo soliciten, en la planeación y elaboración de los programas, proyectos y acciones que deriven de los convenios que suscriban los gobiernos federal y de las entidades federativas y municipios o demarcaciones territoriales del Distrito Federal;
 
 XI. Analizar y tramitar las solicitudes de recursos destinados a los programas y proyectos derivados de los convenios que suscriban los gobiernos federal y de las entidades federativas;
 
 XII. Dar seguimiento a los compromisos contraídos en los convenios que suscriban los gobiernos federal y de las entidades federativas, así como en los acuerdos de coordinación y en los anexos de ejecución, informando a la Unidad de Coordinación de Delegaciones;
 
-XIII. Verificar el avance en la ejecución de los programas y proyectos derivados de los Convenios de Desarrollo Social y Humano que suscriban los gobiernos federal y de las entidades federativas, y participar en el proceso de liberación de los recursos federales autorizados;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Verificar el avance en la ejecución de los programas y proyectos derivados de los convenios de desarrollo social y humano que suscriban los gobiernos federal y de las entidades federativas, y participar en el proceso de liberación de los recursos federales autorizados;
 
 XIV. Dar seguimiento físico a las obras y servicios de los programas derivados de los convenios de desarrollo social y humano que suscriban los gobiernos federal y de las entidades federativas, así como evaluar sus efectos socioeconómicos, en coordinación con la Dirección General de Evaluación y Monitoreo de los Programas Sociales;
 
-XV. Apoyar y supervisar, de conformidad con las disposiciones aplicables, la oportuna administración de los recursos federales autorizados para los distintos programas y proyectos derivados de los convenios de Desarrollo Social y Humano que suscriban los gobiernos federal y de las entidades federativas, y dar seguimiento al ejercicio presupuestal de dichos programas, así como el cumplimiento de la normatividad establecida en las reglas de operación de los programas relativos a los fondos para atender desastres naturales y demás ordenamientos aplicables;
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIV Bis. Coadyuvar con las instancias fiscalizadoras en la vigilancia del cumplimiento de las obligaciones contraídas por las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal relativas a la realización de obras y acciones para el desarrollo social;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XV. Apoyar y supervisar, de conformidad con las disposiciones aplicables, la oportuna administración de los recursos federales autorizados para los distintos programas, proyectos y acciones derivadas de los convenios de desarrollo social y humano que suscriban los gobiernos federal y de las entidades federativas, y dar seguimiento al ejercicio presupuestal de dichos programas, así como el cumplimiento de la normatividad establecida en las reglas de operación de los programas relativos a los fondos para atender desastres naturales y demás ordenamientos aplicables;
 
 XVI. Llevar el registro presupuestal de las aportaciones federales, locales y de las y los beneficiarios respectivos, en los casos de los programas de construcción de obras, derivados de los convenios de Desarrollo Social y Humano que suscriban los gobiernos federal y de las entidades federativas, conforme a la estructura financiera de cada programa;
 
-XVII. Vigilar la exacta observancia de la normatividad que rige el ejercicio de los recursos federales asignados, en los Convenios de Desarrollo Social y Humano que suscriban los gobiernos federal y de las entidades federativas, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. Vigilar la exacta observancia de la normatividad que rige el ejercicio de los recursos federales asignados, en los convenios de desarrollo social y humano que suscriban los gobiernos federal y de las entidades federativas, de conformidad con las disposiciones aplicables;
 
 XVIII. Coadyuvar con la Dirección General de Evaluación y Monitoreo de los Programas Sociales en la evaluación y el cumplimiento de los Programas de la Secretaría en su entidad federativa;
 
@@ -1223,7 +1375,9 @@ XXVIII. Formular, presentar y ratificar denuncias o querellas de carácter penal
 
 XXIX. Iniciar, substanciar y resolver los procedimientos administrativos que se instrumenten derivado de la operación de los programas sociales a cargo de la Secretaría y tendientes a resolver sobre la baja definitiva de los beneficiarios, al colocarse en alguno de los supuestos previstos para ello en las respectivas reglas de operación.
 
-Lo anterior con excepción de los procedimientos administrativos derivados de la operación de los programas a cargo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, y
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+Lo anterior con excepción de los procedimientos administrativos derivados de la operación de los programas a cargo de la Coordinación Nacional de PROSPERA Programa de Inclusión Social, y
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -1269,9 +1423,9 @@ XV. Promover, coordinar, realizar, publicar y difundir estudios, investigaciones
 
 XVI. Formular e impulsar proyectos de investigación, información, asesoría, apoyo técnico, comunicación y difusión en materia de desarrollo, participación y gestión social con instituciones académicas, de educación superior y de investigación, así como con organizaciones de la sociedad civil;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XVII. Promover la integración de la perspectiva de género en los programas de desarrollo social;
+XVII. Impulsar la integración de la perspectiva de género de manera transversal en sus programas y cultura institucional, y
 
 > <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -1289,21 +1443,29 @@ XX. Fomentar el desarrollo social desde la visión de protección integral de lo
 
 Al frente del Instituto Nacional de Desarrollo Social habrá una o un Titular, designado por el o por la Titular de la Presidencia de la República, a propuesta del o de la Titular de la Secretaría, quien realizará sus funciones de acuerdo con las políticas que le señale la o el Secretario, por sí o por conducto de la Oficialía Mayor.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 43.
 
-La Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, como órgano administrativo desconcentrado de la Secretaría, tendrá las atribuciones que le confiere el artículo 3º. del Decreto publicado en el Diario Oficial de la Federación el 6 de marzo de 2002, por el que se reformó el diverso por el que se crea la Coordinación Nacional del Programa de Educación, Salud y Alimentación como órgano desconcentrado de la Secretaría de Desarrollo Social, publicado el 8 de agosto de 1997.
+La Coordinación Nacional de PROSPERA Programa de Inclusión Social, como órgano administrativo desconcentrado de la Secretaría, tendrá las atribuciones que le confiere el artículo 4o. del Decreto por el que se crea la Coordinación Nacional de PROSPERA Programa de Inclusión Social.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-La Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, de conformidad con su decreto de creación, contará para el ejercicio de sus atribuciones con un Consejo, una o un Coordinador Nacional designado por el o por la Titular de la Presidencia de la República, un Comité Técnico y con las Direcciones Generales y demás unidades administrativas necesarias para cumplir con su objeto y que sean aprobadas en su presupuesto, cuyo titular tendrá las atribuciones que le confiere el artículo 9º. del Decreto referido en el artículo anterior.
+La Coordinación Nacional de PROSPERA Programa de Inclusión Social, de conformidad con su Decreto de creación, contará para el ejercicio de sus atribuciones con un Consejo y un Comité Técnico, así como con las direcciones generales, delegaciones estatales y demás unidades administrativas necesarias para cumplir con su objeto, de conformidad con su presupuesto aprobado. El Titular de la Coordinación Nacional, será nombrado por el Presidente de la República, a propuesta del Titular de la Secretaría de Desarrollo Social y tendrá las facultades previstas en el artículo 10 del Decreto referido en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-Las Delegaciones de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, tendrán las siguientes atribuciones:
+Las Delegaciones de la Coordinación Nacional de PROSPERA Programa de Inclusión Social, tendrán las siguientes atribuciones:
 
 I. Dirigir las acciones del programa para proporcionar la atención, orientación y capacitación a las familias y a las figuras que participan en el programa;
 
-II. Proponer al o a la Titular de la Coordinación Nacional y a la unidad administrativa correspondiente de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, las acciones de mejora y medidas correctivas que permitan optimizar el funcionamiento del programa y cumplir los objetivos planteados;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+II. Proponer al Titular de la Coordinación Nacional, las acciones de mejora y medidas correctivas que permitan optimizar el funcionamiento del programa y cumplir los objetivos planteados;
 
 III. Aplicar y coordinar los sistemas de recolección, procesamiento, análisis, supervisión y evaluación de información de las familias beneficiarias;
 
@@ -1329,9 +1491,9 @@ XIII. Participar en la selección y valoración del personal que estará a su ca
 
 XIV. Dirigir, capacitar, coordinar y supervisar el personal a su cargo para cumplir con los objetivos del área;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XV. Mantener permanentemente informado al Titular de la Coordinación Nacional y a la unidad administrativa correspondiente de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, de todos los asuntos inherentes a la Delegación Estatal;
+XV. Mantener permanentemente informado al Titular de la Coordinación Nacional y a las unidades administrativas de ésta, de todos los asuntos inherentes a la Delegación Estatal;
 
 > <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
@@ -1363,15 +1525,21 @@ Las unidades administrativas y los órganos administrativos desconcentrados de l
 
 ### CAPÍTULO XII. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 49.
 
-Durante las ausencias del Titular de la Secretaría, el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de los Subsecretarios de Desarrollo Social y Humano; de Desarrollo Comunitario y Participación Social; de Prospectiva, Planeación y Evaluación; del Titular de la Oficialía Mayor, o de la Unidad del Abogado General y Comisionado para la Transparencia, en el orden mencionado.
+Durante las ausencias del Titular de la Secretaría, el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de los Titulares de las Subsecretarías de Desarrollo Social y Humano; de Desarrollo Comunitario y Participación Social; de Planeación, Evaluación y Desarrollo Regional; de la Oficialía Mayor y de la Unidad del Abogado General y Comisionado para la Transparencia, en el orden mencionado.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 Las ausencias de los Titulares de las Subsecretarías, la Oficialía Mayor, la Unidad del Abogado General y Comisionado para la Transparencia y Jefaturas de Unidad, serán suplidas para el despacho de los asuntos de su correspondiente competencia, en su caso, por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
 Las ausencias de los titulares de los órganos administrativos desconcentrados, serán suplidas por los servidores públicos de nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 Las ausencias de los Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
 
@@ -1410,5 +1578,13 @@ D.O.F. 15 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las erogaciones que se efectúen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Desarrollo Social en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las erogaciones que se efectúen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Desarrollo Social en el Presupuesto de Egresos de la Federación, por lo que no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal y subsecuentes y cualquier modificación al mismo deberá realizarse mediante movimientos compensados conforme a las disposiciones aplicables.
