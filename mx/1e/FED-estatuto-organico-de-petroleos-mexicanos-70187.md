@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2014-09-03"
+last_updated: "2014-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-24"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2014.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -1059,9 +1059,7 @@ VII. A.- Unidad de Control Interno Institucional
 
 3. Gerencia de Promoción y Evaluación del Control Interno
 
-> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
-
-4. Gerencia de Enlace y Control de Auditorías y Fiscalización
+4. (DEROGADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2014)</small>
 
@@ -6107,17 +6105,23 @@ VII. Coordinar las acciones institucionales en materia de control normativo, sim
 
 VIII. Proponer y coordinar el establecimiento de medidas y controles para apoyar la eficiencia operativa institucional, conforme a los procedimientos y sistemas establecidos;
 
-IX. Coordinar la atención de requerimientos en materia de control interno que realicen los órganos de administración y vigilancia, atender las auditorias, visitas e inspecciones realizadas por órganos fiscalizadores, así como supervisar y asesorar a las unidades administrativas en la atención de recomendaciones;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Coordinar la atención de requerimientos en materia de control interno que realicen los órganos de administración y vigilancia. Al efecto, participará en el Comité de Auditoría y Evaluación del Desempeño, a fin de informar periódicamente el estado que guarda el Sistema de Control Interno Institucional;
 
 X. Proponer y acordar con el Director General de PEMEX y los directores generales de los Organismos Subsidiarios las medidas para la instrumentación y mejora del Sistema de Control Interno Institucional;
 
 XI. Desarrollar y coordinar la instrumentación del programa de capacitación y desarrollo de competencias en materia de control interno;
 
-XII. Promover el desarrollo administrativo integral y la mejora de la gestión en PEMEX y Organismos Subsidiarios;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-XIII. Informar al Director General de PEMEX y al Comité de Auditoría y Evaluación del Desempeño sobre su gestión, y
+XII. Promover el desarrollo administrativo integral y la mejora de la gestión en PEMEX y Organismos Subsidiarios, y
 
-XIV. Coordinar el seguimiento de los asuntos derivados de la participación en el Comité de Auditoría y Evaluación del Desempeño, relacionados con los órganos internos de control de PEMEX y Organismos Subsidiarios.
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Informar al Director General de PEMEX y al Comité de Auditoría y Evaluación del Desempeño sobre su gestión.
+
+XIV. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 > <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -6135,7 +6139,7 @@ V. Capacitar a los servidores públicos encargados de aplicar la metodología pa
 
 VI. Documentar el funcionamiento de los controles internos de los procesos y unidades administrativas competentes a evaluar, en el ámbito financiero y presupuestal;
 
-VII. Evaluar el diseño de los controles internos que conforman el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
+VII. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 VIII. Monitorear la efectividad operativa de los controles internos que conforman el Sistema de Control Interno Institucional, en el ámbito financiero y presupuestal;
 
@@ -6159,7 +6163,7 @@ III. Proponer los mecanismos de control interno que permitan mejorar la calidad 
 
 IV. Determinar el alcance, documentar y evaluar el diseño del control interno institucional en el ámbito operacional, para cumplir con estándares y la regulación nacional e internacional;
 
-V. Evaluar la efectividad del control interno operacional, identificar posibles deficiencias, proponer acciones de mejora, y dar seguimiento a su instrumentación;
+V. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 VI. Integrar el informe del estado que guarda el Sistema de Control Interno Institucional en el ámbito operacional y de administración de riesgos institucionales;
 
@@ -6179,7 +6183,7 @@ Artículo 147 D.- La Gerencia de Promoción y Evaluación del Control Interno te
 
 I. Elaborar, proponer y modificar la normativa en materia de control interno y supervisar su cumplimiento;
 
-II. Generar y coordinar la aplicación de la metodología para la evaluación del sistema de control interno institucional, así como de otras herramientas de revisión de control interno;
+II. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 III. Instrumentar las acciones institucionales en materia de control normativo, simplificación y mejora regulatoria en coordinación con las unidades administrativas competentes;
 
@@ -6189,35 +6193,15 @@ V. Participar en el proceso de revisión y modificación de los códigos de éti
 
 VI. Coordinar la elaboración del informe del estado que guarda el Sistema de Control Interno Institucional, a partir de la información proporcionada por las unidades administrativas correspondientes;
 
-VII. Proponer los mecanismos para la autoevaluación de los controles internos y las acciones que fomenten el desarrollo de una cultura de prevención y autocontrol;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Establecer los mecanismos para verificar la efectividad de los controles internos propuestos e instrumentados, y
+VII. Proponer los mecanismos para la autoevaluación de los controles internos y las acciones que fomenten el desarrollo de una cultura de prevención y autocontrol, y
+
+VIII. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 IX. Proponer los programas de capacitación en materia de control interno institucional y su metodología, así como ejecutar los programas de difusión de logros.
 
-> <small>(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2013)</small>
-
-Artículo 147 E.- La Gerencia de Enlace y Control de Auditorías y Fiscalización tendrá las funciones siguientes:
-
-I. Dirigir la participación de PEMEX con la Auditoría Superior de la Federación durante el proceso de planeación, revisión, atención de requerimientos y solventación de observaciones, derivadas de la ejecución del programa anual de auditorías;
-
-II. Proponer al Titular de la Unidad de Control Interno Institucional, los asuntos que sean objeto de revisión en las unidades administrativas de PEMEX y Organismos Subsidiarios, con el fin de promover su consideración en los programas anuales de auditoría institucionales;
-
-III. Coordinar y asesorar normativamente a las unidades administrativas de PEMEX y Organismos Subsidiarios en la apertura, desarrollo y cierre de las auditorías realizadas por los órganos fiscalizadores;
-
-IV. Participar, atender y actuar como enlace con los servidores públicos designados por la Auditoría Superior de la Federación, para la ejecución de auditorías y otros actos de fiscalización;
-
-V. Apoyar a las unidades administrativas de PEMEX y Organismos Subsidiarios en la identificación de las causas de las observaciones y las recomendaciones efectuadas por los órganos fiscalizadores en relación con el control interno, para facilitar su solventación;
-
-VI. Integrar el informe del estado que guarda el Sistema de Control Interno Institucional en el ámbito de su competencia;
-
-VII. Generar reportes estadísticos de los resultados que deriven de los procesos de fiscalización, auditorías y revisiones de control;
-
-VIII. Identificar en los procesos, así como en los resultados de la fiscalización de la cuenta pública y de las auditorías internas, la normativa y controles que deben ser eliminados, homologados o modificados;
-
-IX. Atender las acciones formuladas por la Auditoría Superior de la Federación donde se solicite intervención de la instancia de control competente, y
-
-X. Asesorar a las unidades administrativas de PEMEX y Organismos Subsidiarios involucradas en las promociones de responsabilidad administrativa sancionatoria y en pliegos de observaciones emitidos por la Auditoría Superior de la Federación.
+Artículo 147 E.- (DEROGADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2014)</small>
 
@@ -6429,11 +6413,37 @@ PEMEX contará con un Organo Interno de Control, al frente del cual habrá un Ti
 
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-Las ausencias del Titular del Organo Interno de Control, así como de los de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Organo Interno de Control, así como los Titulares de las áreas de auditoría, quejas y responsabilidades se auxiliarán del personal adscrito al propio Organo Interno de Control, en términos de lo dispuesto por el Reglamento Interior de la Secretaría de la Función Pública y conforme a su estructura autorizada.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
 
-La Secretaría de la Función Pública y el órgano interno de control no podrán ejercer las funciones que tienen encomendadas de manera exclusiva el Comité de Auditoría y Evaluación del Desempeño y el Comisario.
+Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Órgano Interno de Control, así como los Titulares de las áreas de auditoría, auditoría para el desarrollo y mejora de la gestión pública, quejas y responsabilidades se auxiliarán del personal adscrito al propio Órgano Interno de Control, en términos de lo dispuesto por el Reglamento Interior de la Secretaría de la Función Pública y conforme a su estructura autorizada.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 168 Bis.
+
+Además de las funciones a que se refiere el artículo 168 anterior, el Órgano Interno de Control tendrá las funciones siguientes:
+
+I. Dirigir la participación de PEMEX con la Auditoría Superior de la Federación durante el proceso de planeación, revisión, atención de requerimientos y solventación de observaciones, derivadas de la ejecución del programa anual de auditorías;
+
+II. Coordinar a las unidades administrativas de PEMEX y Organismos Subsidiarios en la apertura, desarrollo y cierre de las auditorías realizadas por la Auditoría Superior de la Federación;
+
+III. Participar, atender y actuar como enlace con los servidores públicos designados por la Auditoría Superior de la Federación, para la ejecución de auditorías y otros actos de fiscalización;
+
+IV. Informar a las unidades administrativas de PEMEX y Organismos Subsidiarios de la identificación de las causas de las observaciones y las recomendaciones efectuadas por la Auditoría Superior de la Federación, para facilitar su solventación;
+
+V. Generar reportes estadísticos de los resultados que deriven de los procesos de fiscalización, auditorías y revisiones de control;
+
+VI. Identificar en los procesos, así como en los resultados de la fiscalización de la cuenta pública y de las auditorías internas, la normativa y controles que deben ser eliminados, homologados o modificados, y
+
+VII. Atender las acciones formuladas por la Auditoría Superior de la Federación donde se solicite intervención de la instancia de control competente.
+
+Las ausencias del Titular del Órgano Interno de Control, así como de los de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+
+La Secretaría de la Función Pública y el Órgano Interno de Control no podrán ejercer las funciones que tienen encomendadas de manera exclusiva el Comité de Auditoría y Evaluación del Desempeño y el Comisario.
 
 ## TRANSITORIOS
 
@@ -6614,3 +6624,11 @@ NOVENO. Las referencias que se hagan a las unidades administrativas que cambian 
 DÉCIMO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos.
 
 DÉCIMO PRIMERO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor al día siguiente al de su publicación (sic) el Diario Oficial de la Federación.
+
+SEGUNDO. Las unidades administrativas cuyas funciones se modifican o se crean en virtud de las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos, deberán realizar lo necesario para que se lleve a cabo la transferencia de los recursos humanos, materiales y financieros que correspondan.
+
+TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de Petróleos Mexicanos.
