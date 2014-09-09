@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2014-03-18"
+last_updated: "2014-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -133,7 +133,9 @@ I. Agentes de policía: las personas físicas al servicio de las fuerzas de segu
 
 II. Centro de Evaluación: Centro de Evaluación y Control de Confianza;
 
-III. Centro de Prevención: El Centro Estatal de Prevención Social de la Violencia y la Delincuencia;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+III. Centro de Prevención: El Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
 
 IV. Centro de Profesionalización: El Centro de Profesionalización, Acreditación, Certificación y Carrera;
 
@@ -559,15 +561,19 @@ La Secretaría de Seguridad, la Procuraduría y los municipios tienen la obligac
 
 Subsistema Estatal de Prevención Social de la Delincuencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
-Dentro del Sistema Estatal de Seguridad Pública se establecerá el subsistema de prevención social de la delincuencia. El Centro Estatal de Prevención, es la autoridad competente para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
+Dentro del Sistema Estatal de Seguridad Pública se establecerá el subsistema de prevención social de la delincuencia. El Centro de Prevención, en coordinación con el Secretariado Ejecutivo, son las autoridades competentes para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
 
 La Secretaría de Seguridad, la Procuraduría, la Procuraduría para Niños, Niñas y la Familia y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+Los municipios aprobarán e implementarán los Programas Municipales para la Prevención de la Violencia y la Delincuencia, de acuerdo a lo establecido en la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Coahuila de Zaragoza.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -689,9 +695,9 @@ X. El titular de la Administración Fiscal General;
 
 XI. Un representante del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
-XII. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
+XII. El Secretario Ejecutivo será nombrado por el Titular del Poder Ejecutivo, a propuesta del Secretario de Gobierno. Dicho nombramiento deberá contar con la ratificación del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -1147,7 +1153,7 @@ VII. Establecer mecanismos que garanticen la atención integral a las víctimas 
 
 VIII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre procuración de justicia, utilizando los resultados para implementar las medidas y acciones que procedan; y
 
-IX. Las demás que le confieran las demás (sic) disposiciones legales aplicables.
+IX. Las demás que le confieran las demás disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -1893,7 +1899,7 @@ I. Ministerio Público.
 
 6. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
-7. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia en la Federación o en las entidades federativas que correspondan, y (sic)
+7. Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia en la Federación o en las entidades federativas que correspondan, y
 
 8. Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables;
 
@@ -1917,7 +1923,7 @@ II. Peritos.
 
 7. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
 
-8. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y (sic)
+8. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
 
 9. Presentar y aprobar las evaluaciones de control de confianza.
 
@@ -3093,7 +3099,7 @@ Registro de personas
 
 ###### ARTÍCULO 222.
 
-En el Registro se inscribirán todas las personas físicas que presten sus servicios en cualesquiera de las áreas de las fuerzas de seguridad estatal, municipal yen la seguridad privada.
+En el Registro se inscribirán todas las personas físicas que presten sus servicios en cualesquiera de las áreas de las fuerzas de seguridad estatal, municipal y en la seguridad privada.
 
 Contenido del Registro
 
@@ -3913,9 +3919,17 @@ I. El Consejo Estatal (sic) Participación Social en Seguridad Pública y Procur
 
 II. Los Consejos Regionales de Participación Social;
 
-III. Los Consejos Consultivos Municipales; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Los Comités de Seguridad Pública de colonias, barrios y comunidades rurales de los municipios.
+III. Los Consejos Consultivos Municipales;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Los Comités de Seguridad Pública de colonias, barrios y comunidades rurales de los municipios;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+V. El Centro de Prevención.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -4061,9 +4075,9 @@ TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las l
 
 Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Ministerial.
 
-Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad: (sic)
+Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad:
 
-Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos:
 
 CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado. publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas:
 
@@ -4090,5 +4104,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 18 DE MARZO 2014.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
