@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-sustanciacion-y-resolucion-de-80860"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-11-22"
+last_updated: "2014-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80860&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-28"
 ---
 # REGLAMENTO PARA EL TRAMITE, SUSTANCIACION Y RESOLUCION DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-REGLAMENTO PARA EL TRAMITE, SUSTANCIACION Y RESOLUCION DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
+REGLAMENTO PARA EL TRAMITE, SUSTANCIACIÓN Y RESOLUCIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 9 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -832,8 +834,18 @@ TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 22 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. DE 9 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el Reglamento para el Trámite, Sustanciación y Resolución de los Procedimientos Administrativos Sancionadores del Instituto Electoral del Distrito Federal, aprobado por el Consejo General, el veintiocho de marzo de dos mil once.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Remítase para su publicación a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
