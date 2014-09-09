@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-social-de-la-violencia-y-la-87236"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-08"
-last_updated: "2012-04-08"
+last_updated: "2014-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACION CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES LEY PARA LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, DEL ESTADO DE COAHUILA DE ZARAGOZA-
 
-LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el domingo 8 de abril de 2012.
 
@@ -35,7 +35,9 @@ DECRETA:
 
 NÚMERO 12.-
 
-LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, DEL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -81,7 +83,9 @@ Para efectos de la presente ley se entenderá por:
 
 I. Autoprotección: Conjunto sistemático de prevenciones y de actuaciones aplicables y encaminadas a evitar riesgos y garantizar su propia seguridad.
 
-II. Centro Estatal: El Centro Estatal de Prevención Social de la Violencia y la Delincuencia;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+II. Centro Estatal: El Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
 
 III. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
@@ -94,6 +98,10 @@ VI. Participación ciudadana y comunitaria: La participación de los diferentes 
 VII. Programa Estatal: El Programa Estatal para la Prevención Social de la Violencia y la Delincuencia;
 
 VIII. Violencia: El uso deliberado del poder o de la fuerza física, ya sea en grado de amenaza o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones. Quedan incluidas las diversas manifestaciones que tiene la violencia como la de género, la juvenil, la delictiva, la institucional y la social, entre otras.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+IX.- Subsecretaría.- La Subsecretaría de Prevención y Participación Ciudadana de la Secretaría de Gobierno.
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCION SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
@@ -179,9 +187,13 @@ V. La reparación integral del daño que incluye el reconocimiento público, la 
 
 #### Sección Primera. Del Consejo Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-El Consejo Estatal de Seguridad Pública, será la máxima instancia para la coordinación y definición de la política pública en materia de prevención social de la violencia y la delincuencia.
+El Consejo Estatal de Seguridad Pública, será la máxima instancia para la definición de la política pública en materia de prevención social de la violencia y la delincuencia.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO PRIMERO DEL DECRETO NÚMERO 545, PUBLICADO EN EL P.O. 9 DE SEPTIEMBRE DE 2014, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 13.
 
@@ -191,55 +203,81 @@ I. Elaborar y aprobar el Programa Estatal de Prevención Social de la Violencia 
 
 II. Constituir el Subsistema Estatal de Prevención Social de la Delincuencia, para definir estrategias de colaboración interinstitucional que faciliten la cooperación, contactos e intercambio de información y experiencias entre el estado y los municipios; así como con organizaciones de la sociedad civil, centros educativos o de investigación, o cualquier otro grupo de expertos o redes especializadas en prevención;
 
-III. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la prevención social de la violencia y la delincuencia, análisis de las mejores prácticas, su evaluación, así como su evolución, entre los integrantes del Sistema Estatal de Seguridad Pública, con el objeto de contribuir a la toma de decisiones;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Informar a la sociedad anualmente sobre sus actividades a través de los órganos competentes, e indicar los ámbitos de acción prioritarios de su programa de trabajo para el año siguiente;
+III. Informar a la sociedad anualmente sobre sus actividades a través de los órganos competentes, e indicar los ámbitos de acción prioritarios de su programa de trabajo para el año siguiente; y
 
-V. Promover la generación de indicadores estandarizados para los integrantes del Sistema Estatal de Seguridad Pública en materia de prevención de la violencia y la delincuencia, los que al menos serán desagregados por edad, sexo, ubicación geográfica y pertenencia étnica cuando se refieran a personas; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Las demás establecidas en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza.
+IV. Las demás establecidas en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 14.
 
-Para la elaboración, aprobación e implementación del Programa Estatal de Prevención Social de la Violencia y la Delincuencia, el Consejo Estatal, en términos de lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, convocará para integrar el Subsistema de Prevención Social de la Violencia y la Delincuencia a los titulares de:
+Para la elaboración, aprobación e implementación del Programa Estatal de Prevención Social de la Violencia y la Delincuencia, el Consejo Estatal a través del Secretariado Ejecutivo, en términos de lo dispuesto en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza, convocará para integrar el Subsistema de Prevención Social de la Violencia y la Delincuencia a las personas que sean titulares de:
 
-1.- La Secretaría de Desarrollo Social;
+I. La Secretaría de Desarrollo Social;
 
-2.- La Secretaría de Educación;
+II. La Secretaría de Educación;
 
-3.- La Secretaría de Cultura;
+III. La Secretaría de Cultura;
 
-4.- La Secretaría de Salud;
+IV. La Secretaría de Salud;
 
-5.- El Sistema para el Desarrollo Integral de la Familia;
+V. La Secretaría de las Mujeres;
 
-6.- El Instituto Coahuilense de las Mujeres;
+VI. La Secretaría de la Juventud;
 
-7.- El Instituto Coahuilense de la Juventud;
+VII. La Procuraduría General de Justicia del Estado;
 
-8.- El Instituto Coahuilense de los adultos Mayores; y
+VIII. La Procuraduría para Niños, Niñas y la Familia;
 
-9.- Las demás que el Consejo Estatal considere pertinente.
+IX. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos;
+
+X. El Instituto Coahuilense de los Adultos Mayores;
+
+XI. El Centro Estatal; y
+
+XII. Las demás que el Consejo Estatal considere pertinente.
 
 #### Sección Segunda. Del Secretariado Ejecutivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 15.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en materia de prevención social de la violencia y la delincuencia tendrá las siguientes atribuciones:
+El Secretariado Ejecutivo y la Subsecretaría de Prevención y Participación Ciudadana de la Secretaría de Gobierno coordinarán la política de prevención social de la violencia y la delincuencia. El Secretariado Ejecutivo, en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
 
 I. Proponer al Consejo Estatal de Seguridad Pública, políticas públicas, programas y acciones en materia de prevención social de la violencia y la delincuencia;
 
 II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del propio Consejo Estatal y de su Presidente sobre la materia:
 
-III. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y la delincuencia; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley General del Sistema de Seguridad Pública del Estado y demás disposiciones legales aplicables.
+III. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la prevención social de la violencia y la delincuencia, análisis de las mejores prácticas, su evaluación, así como su evolución, entre los integrantes del Sistema Estatal de Seguridad Pública, con el objeto de contribuir a la toma de decisiones;
 
-#### Sección Tercera. Del Centro Estatal de Prevención Social de la Violencia y la Delincuencia
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Difundir la información estadística en materia de incidencia delictiva y de prevención social de la violencia y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+V. Promover la generación de indicadores estandarizados para los integrantes del Sistema Estatal de Seguridad Pública, en materia de prevención de la violencia y la delincuencia, los que al menos serán desagregados por edad, sexo, ubicación geográfica y pertenencia étnica cuando se refieran a personas; y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+#### Sección Tercera. Del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-El Centro Estatal de Prevención Social de la Violencia y la Delincuencia es un órgano interno del Sistema de Seguridad Pública del Estado, que además de las atribuciones y deberes que le impone la ley del sistema, es el responsable de implementar, supervisar y evaluar la política estatal y municipal en materia de prevención social de la violencia y la delincuencia.
+El Centro Estatal, es la unidad administrativa de la Subsecretaría de Prevención y Participación Ciudadana responsable de implementar, supervisar y evaluar la política estatal en materia de prevención social de la violencia y la delincuencia, en coordinación con el Secretariado Ejecutivo.
 
 ###### Artículo 17.
 
@@ -393,6 +431,60 @@ La participación ciudadana y comunitaria, organizada o no organizada, en materi
 
 La participación ciudadana y comunitaria, organizada o no organizada, se hace efectiva a través de la actuación de las personas en las comunidades, en las redes vecinales, las organizaciones para la prevención social de la violencia y la delincuencia, en los consejos de Participación Ciudadana, en el Centro Estatal o a través de cualquier otro mecanismo local o legal, creado en virtud de sus necesidades.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 26 Bis.
+
+La Subsecretaría promoverá la creación de Comités y Consejos de Participación Ciudadana Municipales para la Prevención Social de la Violencia y la Delincuencia, conforme a lo siguiente:
+
+I. Los ciudadanos coahuilenses, por sí o a través de alguna asociación civil, podrán constituir los Comités o Consejos de Participación Ciudadana Municipales;
+
+II. Los Comités se constituirán con 3 o más personas pero no más de 50;
+
+III. Los Consejos de Participación Ciudadana Municipales se constituirán con más de 50 personas;
+
+IV. Para constituirse, deberán presentar una solicitud ante la Subsecretaría con los siguientes requisitos:
+
+a. Debe ser firmada por el o los solicitantes;
+
+b. Presentar la relación de los ciudadanos coahuilenses integrantes del Comité o Consejo, que contenga nombres, firmas y domicilio de residencia;
+
+c. Señalar un representante y domicilio para oír y recibir toda clase de documentos o notificaciones. El representante designado podrá realizar todos los actos necesarios para tramitar el procedimiento de conformación del Comité o Consejo de Participación Ciudadana Municipal;
+
+d. Identificar y determinar, en su caso, las organizaciones u asociaciones y sus representantes que formarán parte del Comité o Consejo de Participación Ciudadana Municipal;
+
+e. Presentar la propuesta de su órgano de dirección e integrantes;
+
+f. Presentar la propuesta de estatuto o reglamento que garantizará la renovación periódica del órgano de dirección y los requisitos para que los ciudadanos coahuilenses puedan integrarse al Consejo.
+
+V. La Subsecretaría verificará los requisitos de la solicitud, bajo las reglas siguientes:
+
+a. Establecerá los mecanismos confiables para corroborar, autentificar y validar el número de integrantes del Comité o Consejo de Participación Ciudadana;
+
+b. Verificará el cumplimiento de los demás requisitos;
+
+c. Si no se reúnen los requisitos, requerirá a los solicitantes para que dentro de los quince días hábiles siguientes cumplan con el requisito o requisitos omitidos;
+
+d. Si se reúnen todos los requisitos, la Subdirección expedirá la constancia de constitución del Comité o Consejo de Participación Ciudadana Municipal y de conformación del órgano de dirección;
+
+e. Constituido el Consejo de Participación Ciudadana Municipal, la Subsecretaría notificará al Ayuntamiento correspondiente y acompañará la documentación que sea necesaria para que proceda a su adscripción en los términos del artículo 26 ter.
+
+VI. La Subsecretaría llevará un registro de los Comités y Consejos de Participación Ciudadana Municipales y de sus miembros, que deberá actualizarse en forma permanente y será público.
+
+VII. La Subsecretaría se encargará en forma permanente de vigilar, evaluar y certificar la integración y el funcionamiento de los Comités y de los Consejos de Participación Ciudadana Municipales.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 26 Ter.
+
+Los Consejos de Participación Ciudadana Municipales elaborarán los proyectos de los Programas Municipales para la Prevención Social de la Violencia y la Delincuencia, y los presentarán oportunamente a sus Ayuntamientos para su aprobación dentro de los primeros dos meses del año de ejercicio. A más tardar en el tercer mes, los Ayuntamientos deberán discutir y votar los proyectos presentados.
+
+Los Comités y Consejos de Participación Ciudadana Municipales quedarán adscritos a los Ayuntamientos, o en su caso, al Concejo Municipal y a las dependencias o entidades que sean competentes en la materia, para lograr la coordinación eficaz con las autoridades municipales.
+
+El Centro Estatal, en coordinación con el Secretariado Ejecutivo, supervisará y evaluará la política municipal aprobada por los Ayuntamientos y emitirá un informe que será entregado al Consejo Estatal.
+
+El incumplimiento en la elaboración, presentación, votación y ejecución de los programas dará lugar a la imposición de las sanciones que determine el Consejo Estatal.
+
 ###### Artículo 27.
 
 La coordinación entre los diferentes mecanismos y espacios de participación ciudadana comunitaria, será un objetivo fundamental del Centro Estatal, para lo cual desarrollará lineamientos claros de participación y consulta.
@@ -446,3 +538,11 @@ EL SECRETARIO DE GOBIERNO
 MIGUEL ÁNGEL RIQUELME SOLÍS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
