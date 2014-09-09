@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-08-11"
+last_updated: "2014-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -464,7 +464,9 @@ II. Gozar de buena reputación;
 
 III. No encontrarse impedido para ocupar el cargo, de conformidad con el artículo 148 del Código, y
 
-IV. Contar con título y cédula profesional de abogado o licenciado en derecho expedido legalmente, y con práctica profesional en la rama laboral de, por lo menos, dos años al día de la designación.
+> <small>(REFORMADA, G.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Contar con título y cédula profesional de abogado o licenciado en Derecho expedido legalmente, y con práctica profesional en la rama laboral al día de la designación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE AGOSTO DE 2014)</small>
 
@@ -582,7 +584,9 @@ I. Ser ciudadano/a del Distrito Federal en pleno ejercicio de sus derechos;
 
 II. Gozar de buena reputación;
 
-III. Contar con título de abogado/a o licenciado/a en derecho expedido, por lo menos, con dos años de antigüedad al día de la designación;
+> <small>(REFORMADA, G.O. 9 DE SEPTIEMBRE DE 2014)</small>
+
+III. Contar con título de abogado/a o licenciado/a en Derecho al día de la designación;
 
 IV. No encontrarse impedido para ocupar el cargo, de conformidad con el artículo 148 del Código, y
 
@@ -1831,6 +1835,12 @@ PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su ap
 SEGUNDO. Publíquese esta reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
 
 G.O. 11 DE AGOSTO DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 9 DE SEPTIEMBRE DE 2014.
 
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
