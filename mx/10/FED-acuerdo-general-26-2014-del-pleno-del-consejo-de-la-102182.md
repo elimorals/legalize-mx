@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2014-del-pleno-del-consejo-de-la-102182"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-08-29"
-last_updated: "2014-08-29"
+last_updated: "2014-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-08-21"
 ---
 # ACUERDO GENERAL 26/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA CONCLUSION DE FUNCIONES DE LOS JUZGADOS SEPTIMO Y OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2014 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 26/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SÉPTIMO Y OCTAVO DE DISTRITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2014.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de agosto de 2014.
 
@@ -73,7 +73,9 @@ SEGUNDO. Se modifica el Acuerdo General 3/2013 del Pleno del Consejo de la Judic
 
 1. …
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cinco juzgados de Distrito Auxiliares, cinco con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
+> <small>(F. DE E., D.O.F. 10 DE SEPTIEMBRE DE 2014)</small>
+
+2. El Centro Auxiliar de la Segunda Región, se integrará por tres tribunales colegiados de Circuito Auxiliares con residencia en San Andrés Cholula, Puebla y cinco juzgados de Distrito Auxiliares, cuatro con residencia en San Andrés Cholula, Puebla y uno con residencia en Puebla, Puebla.
 
 3. a 11. …”.
 
