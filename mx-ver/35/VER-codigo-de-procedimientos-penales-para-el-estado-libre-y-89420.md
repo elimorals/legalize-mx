@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2014-07-18"
+last_updated: "2014-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 
 CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 297, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN TODO EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES QUE A LA ENTRADA EN VIGOR DE DICHO ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUBSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, REFORMADO POR DECRETO NÚMERO 252, PUBLICADO EN LA G.O. DE 8 DE MAYO DE 2014, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO CON CABECERAS EN LOS MUNICIPIOS DE XALAPA Y CÓRDOBA, RESPECTIVAMENTE, Y EL DÍA 11 DE NOVIEMBRE DEL AÑO 2013 EN LOS DISTRITOS JUDICIALES DÉCIMO Y DÉCIMO SEGUNDO, CON CABECERAS EN LOS MUNICIPIOS DE JALACINGO Y COATEPEC. EN LOS DEMÁS DISTRITOS JUDICIALES DEL ESTADO SE SEGUIRÁ APLICANDO EL CÓDIGO DE PROCEDIMIENTOS PENALES QUE HA REGIDO EN ELLOS HASTA EN TANTO ENTRE EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS TÉRMINOS DE SU ARTÍCULO SEGUNDO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2014.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -6554,3 +6556,37 @@ G.O. 18 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 297 QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y ESTABLECE LOS TÉRMINOS DE SU APLICACIÓN GRADUAL EN LOS DISTRITOS JUDICIALES DEL ESTADO.</small>
+
+“ARTÍCULO PRIMERO.- Se declara la entrada en vigor del Código Nacional de Procedimientos Penales en el Estado de Veracruz de Ignacio de la Llave, de acuerdo a los términos que se indican en el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+El Código Nacional de Procedimientos Penales entrará en vigor en los términos que continuación se indican:
+
+En los distritos judiciales Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Décimo, Decimoprimero, Decimosegundo y Decimocuarto, con cabeceras en los municipios de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Jalacingo, Xalapa, Coatepec y Córdoba, entrará en vigor el día 11 de noviembre de 2014.
+
+En los Distritos Judiciales Séptimo, Octavo, Noveno, Decimotercero, Decimoquinto, y Decimosexto, con cabeceras en los municipios de Poza Rica, Papantla, Misantla, Huatusco, Orizaba y Zongolica el día 12 de mayo de 2015.
+
+En los Distritos Judiciales Decimonoveno, Vigésimo y Vigesimoprimero, con cabeceras en los municipios de San Andrés Tuxtla, Acayucan y Coatzacoalcos, el día 10 de noviembre de 2015.
+
+En los Distritos Judiciales Decimoséptimo y Decimoctavo, con cabeceras en los municipios de Veracruz y Cosamaloapan el día 11 de mayo de 2016.
+
+En la medida en que en cada distrito entre en vigor el Código Nacional de Procedimientos Penales, cesará la vigencia del Código de Procedimientos Penales que se venía aplicando previamente y se observará lo dispuesto en el artículo cuarto del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En los Distritos Judiciales del Estado en donde aún no entre en vigor el Código Nacional de Procedimientos Penales en los términos de la presente declaratoria, se seguirá aplicando el Código Procesal que ha regido en ellos.
+
+###### ARTÍCULO CUARTO.
+
+Iniciada la vigencia del Código Nacional de Procedimientos Penales en todo el Estado de Veracruz de Ignacio de la Llave, quedarán abrogados los Códigos de Procedimientos Penales anteriores, sin embargo, respecto de los procedimientos penales que a la entrada en vigor de dicho ordenamiento se encuentre en trámite, continuarán su substanciación de conformidad con la legislación aplicable en el momento de inicio de los mismos.”
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 297 QUE DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y ESTABLECE LOS TÉRMINOS DE SU APLICACIÓN GRADUAL EN LOS DISTRITO JUDICIALES DEL ESTADO.</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente decreto.
