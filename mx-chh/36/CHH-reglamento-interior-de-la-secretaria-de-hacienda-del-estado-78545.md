@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-785
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-29"
-last_updated: "2013-12-21"
+last_updated: "2014-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2010.
 
@@ -791,7 +793,7 @@ XVI. Expedir las constancias de identificación y los oficios de habilitación d
 
 XVII. Fincar la responsabilidad solidaria con el contribuyente, en lo (sic) términos de las disposiciones fiscales aplicables; y
 
-XVIII. Aplicar el Plan Anual Estratégico de Ingresos y los programas anuales de operación autorizados por la Dirección General de Ingresos, cumplir con los indicadores de gestión, así como supervisar el cumplimiento de los indicadores de productividad y desempeño del personal a su cargo; (sic)
+XVIII. Aplicar el Plan Anual Estratégico de Ingresos y los programas anuales de operación autorizados por la Dirección General de Ingresos, cumplir con los indicadores de gestión, así como supervisar el cumplimiento de los indicadores de productividad y desempeño del personal a su cargo;
 
 ## TÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE EGRESOS
 
@@ -1019,7 +1021,7 @@ XVIII. Elaborar un informe de las Dependencias, respecto de los recursos no comp
 
 XIX. Establecer y supervisar los sistemas de control de la disponibilidad de saldos de las partidas presupuestales;
 
-XX. Vigilar que los convenios financieros que obliguen económicamente al Estado, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario; y (sic)
+XX. Vigilar que los convenios financieros que obliguen económicamente al Estado, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario; y
 
 XXI. Vigilar la operación, dar seguimiento y controlar el ejercicio del Presupuesto de Egresos.
 
@@ -1599,7 +1601,7 @@ XIII. Establecer políticas para custodiar, controlar y mantener actualizado el 
 
 XIV. Coadyuvar con el Departamento de Presupuesto, en la elaboración del anteproyecto de presupuesto de egresos relativo a los servicios personales de las Dependencias y Entidades, así como del magisterio estatal; y
 
-XV. Efectuar los trámites relativos a los nombramientos del personal de las Dependencias; (sic)
+XV. Efectuar los trámites relativos a los nombramientos del personal de las Dependencias;
 
 APARTADO ÚNICO
 
@@ -1641,7 +1643,7 @@ XV. Expedir las credenciales de identificación de los servidores públicos adsc
 
 XVI. Aplicar los criterios y normas establecidas por la Secretaría respecto a la contratación de servicios personales en las Dependencias y entidades; y
 
-XVII. Custodiar, controlar y mantener actualizado el archivo de los expedientes personales de los servidores públicos de las Dependencias del Poder Ejecutivo; (sic)
+XVII. Custodiar, controlar y mantener actualizado el archivo de los expedientes personales de los servidores públicos de las Dependencias del Poder Ejecutivo;
 
 ###### ARTÍCULO 44.
 
@@ -1797,7 +1799,7 @@ VII. Evaluar el estado físico y funcional de los bienes concentrados a los alma
 
 VIII. Organizar previa autorización del Director, procesos de subasta para la enajenación de bienes muebles desechados por las Dependencias; coordinando en su caso su desarrollo; y
 
-IX. Realizar los trámites necesarios para asegurar la circulación legal de los vehículos terrestres consignados en las Dependencias; (sic)
+IX. Realizar los trámites necesarios para asegurar la circulación legal de los vehículos terrestres consignados en las Dependencias;
 
 ###### ARTÍCULO 49.
 
@@ -1839,7 +1841,7 @@ IX. Administrar los almacenes de materiales, herramienta y equipo a cargo del De
 
 X. Proporcionar el servicio de correspondencia y archivo general a las Dependencias, procurando su permanente depuración con apego a la normatividad vigente; y
 
-XI. Promover con apego a las disposiciones legales y reglamentarias aplicables, la contratación consolidada de los servicios, necesarios para la adecuada operación de las Dependencias, supervisando en su caso su cumplimiento; (sic)
+XI. Promover con apego a las disposiciones legales y reglamentarias aplicables, la contratación consolidada de los servicios, necesarios para la adecuada operación de las Dependencias, supervisando en su caso su cumplimiento;
 
 #### SECCIÓN TERCERA. DE LA DIRECCION DE ANALISIS DE PROCESOS Y DESARROLLO INFORMATICO
 
@@ -1889,7 +1891,7 @@ V. Participar, en coordinación con la oficina de Desarrollo Informático, en lo
 
 VI. Apoyar en el establecimiento, análisis y seguimiento de indicadores que permitan la evaluación del desempeño de las unidades orgánicas en coordinación con los titulares; y
 
-VII. Formular y/o mantener actualizados los manuales de operación y de usuario, relativos a los sistemas de información; (sic)
+VII. Formular y/o mantener actualizados los manuales de operación y de usuario, relativos a los sistemas de información;
 
 ###### ARTÍCULO 53.
 
@@ -1909,7 +1911,7 @@ VI. Emitir los lineamientos internos que regulen la operación de los sistemas y
 
 VII. Establecer las políticas internas de seguridad de equipos de cómputo, accesos de información, sistemas de almacenamiento y recuperación de información, así como las relativas a cualquier otro concepto relacionado con los sistemas de información, de acuerdo a la normatividad establecida; y
 
-VIII. Establecer indicadores y mecanismos de seguimiento que permitan evaluar la eficiencia en la operación de los sistemas, garantizar la integridad de la información almacenada en los equipos e implementar los planes de contingencia necesarios en coordinación con la oficina de Soporte Técnico; (sic)
+VIII. Establecer indicadores y mecanismos de seguimiento que permitan evaluar la eficiencia en la operación de los sistemas, garantizar la integridad de la información almacenada en los equipos e implementar los planes de contingencia necesarios en coordinación con la oficina de Soporte Técnico;
 
 ###### ARTÍCULO 54.
 
@@ -1969,7 +1971,7 @@ IV. Vigilar que el servicio de transportación aérea se preste por personal esp
 
 V. Mantener actualizada la documentación para la operación de las unidades de transporte aéreo y la del hangar, de conformidad con la reglamentación en la materia; y
 
-VI. Supervisar el mantenimiento y las condiciones generales del hangar; (sic)
+VI. Supervisar el mantenimiento y las condiciones generales del hangar;
 
 ###### ARTÍCULO 57.
 
@@ -2051,7 +2053,7 @@ XXII. Participar en representación de la Secretaria en foros nacionales y estat
 
 XXIII. Elaborar el anteproyecto de presupuesto de egresos de la Dirección; y
 
-XXIV. Vigilar que los manuales de organización de las Dependencias del poder Ejecutivo, se apeguen a las disposiciones legales aplicables, y en su caso, realizar las correcciones que resulten necesarias; (sic)
+XXIV. Vigilar que los manuales de organización de las Dependencias del poder Ejecutivo, se apeguen a las disposiciones legales aplicables, y en su caso, realizar las correcciones que resulten necesarias;
 
 APARTADO ÚNICO
 
@@ -2081,7 +2083,7 @@ IX. Analizar la procedencia de las solicitudes de devolución y compensación qu
 
 X. Revisar los procedimientos de remate y elaborar cuando proceda, los acuerdos de procedencia y de adjudicación de los bienes muebles e inmuebles a favor del fisco estatal; y
 
-XI. Participar en los remates de bienes embargados convocados por cualquier autoridad; (sic)
+XI. Participar en los remates de bienes embargados convocados por cualquier autoridad;
 
 ###### ARTÍCULO 62.
 
@@ -2107,7 +2109,7 @@ IX. Participar en los procesos de disolución y liquidación de organismos públ
 
 X. Intervenir en los procedimientos de subasta o donación de los bienes muebles propiedad del Estado, de conformidad con las disposiciones legales aplicables; y
 
-XI. Elaborar los nombramientos de los servidores públicos, cuando corresponda expedirlos al Director General de Administración; (sic)
+XI. Elaborar los nombramientos de los servidores públicos, cuando corresponda expedirlos al Director General de Administración;
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FISCALIZACIÓN
 
@@ -2157,7 +2159,7 @@ XX. Solicitar de los contribuyentes, responsables solidarios o terceros con ello
 
 XXI. Continuar con la práctica de los actos de fiscalización que hayan iniciado otras autoridades, siempre que se cumplan con las disposiciones fiscales aplicables y con la normatividad que al efecto se emita; y
 
-XXXII. Reponer de oficio el procedimiento fiscalizador a partir de la violación formal cometida, de conformidad con la legislación fiscal aplicable; (sic)
+XXXII. Reponer de oficio el procedimiento fiscalizador a partir de la violación formal cometida, de conformidad con la legislación fiscal aplicable;
 
 APARTADO ÚNICO
 
@@ -2189,7 +2191,7 @@ X. Valorar los asuntos en los que se presuma que se ha cometido un delito fiscal
 
 XI. Controlar y dar seguimiento a las cumplimentaciones de resoluciones y sentencias dictadas en los medios de impugnación, promovidos por los contribuyentes en contra de los actos emitidos por la Dirección; y
 
-XII. Proporcionar apoyo y asesoría legal al personal de la Dirección, en el desarrollo de las diligencias procedimientos y audiencias, así como los demás asuntos relacionados con el desempeño de sus funciones; (sic)
+XII. Proporcionar apoyo y asesoría legal al personal de la Dirección, en el desarrollo de las diligencias procedimientos y audiencias, así como los demás asuntos relacionados con el desempeño de sus funciones;
 
 ###### ARTÍCULO 65.
 
@@ -2494,3 +2496,15 @@ QUINTO.- La referencia que en cualquier disposición se haga al Departamento de 
 P.O. 21 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día primero de enero de dos mil catorce.
+
+P.O. 10 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría (sic) Hacienda, publicado en el Periódico Oficial del Estado No. 104 del 29 de diciembre de 2010; así como los acuerdos números 019 y 091 publicados en el Periódico Oficial del Estado el día 04 de abril de 2012 y 21 de diciembre de 2013, y se derogan todas las demás disposiciones administrativas que se opongan al presente Acuerdo.
+
+TERCERO. Para el cumplimiento del presente Acuerdo, se faculta al Secretario de Hacienda para organizar la estructura administrativa de esa Dependencia y redistribuir las partidas del Presupuesto de Egresos para tal efecto, en los términos de las normas jurídicas aplicables.
+
+CUARTO. La referencia que en cualquier disposición se haga a los reglamentos abrogados se entenderá hecha, en lo conducente y cuando no se le oponga, al que hace referencia este Acuerdo.
+
+QUINTO. Los procedimientos o actos iniciados antes de la entrada en vigor del presente Reglamento, serán continuados conforme al mismo, independientemente del estado en que se encuentren.
