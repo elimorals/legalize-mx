@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-prestamos-para-vivienda-del-instituto-de-84128"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-25"
-last_updated: "2011-11-25"
+last_updated: "2014-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PRÉSTAMOS PARA VIVIENDA DEL ISSSTELEON DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de noviembre de 2011.
 
@@ -87,7 +87,7 @@ II. El monto de las aportaciones entregadas al Instituto por las diferentes Depe
 
 III. El número de servidores públicos de las diferentes dependencias y entidades públicas de la Administración Pública Estatal;
 
-IV. Los años de cotización del servidor público, dándole preferencia en el otorgamiento de créditos para adquisición de vivienda a los que carecen de ella; (sic)
+IV. Los años de cotización del servidor público, dándole preferencia en el otorgamiento de créditos para adquisición de vivienda a los que carecen de ella;
 
 MONTO DE LOS PRÉSTAMOS PARA VIVIENDA
 
@@ -131,7 +131,9 @@ El servidor público tendrá el derecho de elegir la vivienda nueva, o usada, a 
 
 a) Edad y salario, determinándose la puntuación conforme a la tabla “Edad-Salario” que forma parte integrante del presente reglamento, tomando el salario base de cotización en número de veces el salario mínimo vigente en el Distrito Federal;
 
-b) Años cotizados y número de dependientes económicos, conforme a la tabla “Años cotizados-Dependientes económicos” que forma parte integrante de este reglamento, asignando dos puntos por cada año de cotización del servidor público y cinco puntos por cada dependiente económico del servidor público, hasta dos dependientes. Para estos efectos únicamente se tomarán los descendientes en primer grado así como la cónyuge o concubina. El esposo o concubinario será tomado en cuenta si reúne los requisitos del artículo 5, fracción VI, inciso g) de la Ley. Todos los servidores públicos tendrán acreditados los diez puntos correspondientes a los dependientes económicos.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+
+b) Años cotizados y número de dependientes económicos, conforme a la tabla "Años cotizados-Dependientes económicos" que forma parte integrante de este reglamento, asignando dos puntos por cada año de cotización del servidor público y cinco puntos por cada dependiente económico del servidor público, hasta dos dependientes. Para estos efectos únicamente se tomarán los descendientes en primer grado así como la cónyuge o concubina. El esposo o concubinario será tomado en cuenta si reúne los requisitos del artículo 5, fracción VI, inciso g) de la Ley. Todos los servidores públicos tendrán acreditados los treinta y cuatro puntos correspondientes a los dependientes económicos.
 
 c) Una vez obtenidos los puntos totales se procederá a obtener el Monto Máximo de Préstamo, conforme a la tabla de Montos Máximos de préstamo que señala el Artículo 6 del presente Reglamento y expresando el valor del préstamo en veces el salario mínimo general vigente en el Distrito Federal.
 
@@ -185,15 +187,25 @@ b) Al vencimiento de la prórroga y que no esté sujeto a una relación laboral;
 
 Cuando un servidor público sea dado de baja por cese, renuncia, terminación de la obra, o del tiempo para los cuales hubiera sido contratado y por tanto deje de cotizar al Instituto, deberá continuar al corriente en los pagos de amortización que tenga que hacer por concepto de capital e intereses, independientemente de que exista litigio en trámite sobre la subsistencia de la relación de trabajo. La existencia de los supuestos a que se refiere este artículo y el anterior, deberá comprobarse ante el Instituto.
 
-Los intereses normales se calcularán a la tasa anual más alta de entre las que se indican:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
 
-a) La Estimación del Costo Porcentual Promedio de Captación CPP +8 puntos porcentuales;
+Los intereses normales se calcularan a la tasa anual más alta de entre las que se indican.
 
-b) La Tasa de Interés Interbancaria de Equilibrio TIIE + 8 puntos porcentuales; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
 
-c) Certificados de la Tesorería de la Federación CETES + 8 puntos porcentuales.
+a) La Estimación Porcentual Promedio de Captación CPP + 4.5 puntos porcentuales.
 
-En caso de que algún mes no se determine cualesquiera de las tasas citadas, la Secretaría de Finanzas y Tesorería General del Estado determinará aquella que le sustituya. En ningún caso la tasa anual para el cálculo de los intereses normales será superior a 20%.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+
+b) La Tasa de Interés Interbancaria de Equilibrio TIIe + 4.5 puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+
+c) Certificados de la Tesorería de Federación CETES +4.5 puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2014)</small>
+
+Este interés comenzará a aplicarse a partir del séptimo mes en que el servidor público sea dado de baja. Esto con el objetivo de dar oportunidad a conseguir un nuevo empleo.
 
 El incumplimiento en el pago causará un interés moratorio por abono vencido, que se calculará a una tasa anual que será 50% mayor a la tasa más alta de entre las que se indican:
 
@@ -536,3 +548,9 @@ En Representación del Poder Legislativo.
 Lic. Luis Gerardo Treviño Leal.
 
 Director General y Secretario del Consejo Directivo del ISSSTELEON
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2014.
+
+Único.- La presente Reforma al Reglamento de Préstamos para Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León. A treinta de julio del dos mil catorce, así lo acuerdan y firman los integrantes del H. Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
