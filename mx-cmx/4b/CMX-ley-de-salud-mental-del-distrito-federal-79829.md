@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-mental-del-distrito-federal-79829"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-23"
-last_updated: "2012-05-16"
+last_updated: "2014-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79829&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-18"
 
 LEY DE SALUD MENTAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 23 de febrero de 2011.
 
@@ -66,6 +66,12 @@ Los residentes, gozarán de los beneficios que otorga la Ley que Establece el De
 
 La salud mental, se define como el bienestar psíquico que experimenta de manera consciente una persona como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
 
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 2° Bis.
+
+Emoción es una reacción psicofisiológica que representa modos de adaptación a ciertos estímulos que son relevantes para el individuo, esto es: un sentimiento que se puede manifestar con cambios físicos, como la expresión de la cara, aumento de la frecuencia cardiaca y otros regulados por el sistema nervioso autónomo, y la salud emocional se refiere al equilibrio entre los sentimientos y sus repercusiones físicas.
+
 ###### Artículo 3°.
 
 Toda persona que habite o transite en el Distrito Federal, independientemente de su edad, género, condición social, condiciones de salud, religión, identidad étnica, orientación sexual o cualquiera otro, tienen derecho a la salud mental.
@@ -98,7 +104,7 @@ II. Consejo: Consejo de Salud Mental del Distrito Federal;
 
 III. Delegación: órgano político-administrativo de las demarcaciones territoriales;
 
-IV. Derecho a la salud mental: derecho de toda persona al bienestar psíquico, identidad, dignidad, respeto y un tratamiento integral con el propósito de una óptima integración social, para lo cual el Gobierno tiene la obligación de planear, organizar, operar y supervisar el funcionamiento de los servicios a los que se refiere la presente Ley;. (sic)
+IV. Derecho a la salud mental: derecho de toda persona al bienestar psíquico, identidad, dignidad, respeto y un tratamiento integral con el propósito de una óptima integración social, para lo cual el Gobierno tiene la obligación de planear, organizar, operar y supervisar el funcionamiento de los servicios a los que se refiere la presente Ley;.
 
 V. Diagnóstico psicológico: informe que resulta del análisis e interpretación de los datos obtenidos en las distintas medidas de evaluación que se aplican a una persona o grupo, con el objetivo de detectar los síntomas que interfieren en su adaptación o que podrían desencadenar algún tipo de alteración, detectar disfunciones mentales, conocer el perfil de habilidades, aptitudes o personalidad, así como ubicar la evolución y constitución de grupos que alteran la estabilidad social, de tal manera que además, puede ser útil en el diagnóstico diferencial de distintos padecimientos, en la selección de personal y en la orientación vocacional;
 
@@ -721,3 +727,13 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda
 G.O. 16 DE MAYO DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+SEGUNDO.- La Secretaría de Salud del Distrito Federal en coordinación con la sociedad civil organizada dentro de los canales respectivos y cumpliendo con la normatividad aplicable, deberá proponer un programa piloto de las demás técnicas de medicina integrativa que no se encuentran contempladas dentro del artículo 24 de la Ley de Salud del Distrito Federal, dentro de los 15 días hábiles posteriores a la publicación del presente decreto.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2015 los recursos presupuestales necesarios para que la Secretaría de Salud del Distrito Federal pueda cumplir con lo dispuesto en el ARTÍCULO SEGUNDO TRANSITORIO del presente Decreto.
+
+CUARTO.- Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
