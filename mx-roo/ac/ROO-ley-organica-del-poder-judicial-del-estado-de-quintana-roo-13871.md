@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-07-25"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -2355,6 +2355,16 @@ VI.- Las constancias que demuestren la preparación y actualización de sus cono
 
 Durante la substanciación del procedimiento de evaluación, se deberá garantizar al juez su derecho de audiencia, respecto de los elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 114
+
+Ter.- Los Consejeros Ciudadanos del Consejo de la Judicatura, durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado o la Diputación Permanente, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+El procedimiento de reelección dará inicio cuando el Consejero mediante escrito, por lo menos con sesenta días de anticipación a la fecha de la conclusión del encargo, solicite a la Legislatura del Estado o a la Diputación Permanente continuar con el mismo, remitiendo para tal efecto un expediente para acreditar que aún satisface los requisitos establecidos en el Artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para apoyar que se ha desempeñado con independencia, imparcialidad, excelencia, objetividad, profesionalismo, honestidad y eficiencia. Esta solicitud, será turnada a la Comisión de Justicia que dictaminará el cumplimiento de dichos requisitos y el desempeño integral del Consejero.
+
+La reelección será determinada por el voto de las dos terceras partes de la Legislatura del Estado o de la Diputación Permanente, en su caso.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 115.
@@ -3392,3 +3402,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a las contenidas en el pres
 P.O. 25 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa publicación en dicho órgano de difusión oficial, del Decreto por el que se reforma el párrafo primero del Artículo 99 y se adiciona un párrafo sexto al Artículo 98, ambos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman los Artículos 75 fracción XX, 76 fracción VIII, 110 párrafos primero, cuarto y quinto de la Constitución Política del Estado libre y Soberano de Quintana Roo.
