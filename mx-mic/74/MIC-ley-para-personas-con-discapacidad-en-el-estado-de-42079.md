@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-personas-con-discapacidad-en-el-estado-de-42079"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-24"
-last_updated: "2013-10-29"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEXTO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 24 de diciembre de 2004.
 
@@ -183,7 +185,7 @@ XIII. Programas y campañas de cultura sobre respeto y auxilio a las personas co
 
 XIV. Establecimiento de mecanismos de información sobre salud reproductiva y ejercicio de la sexualidad de las personas con discapacidad; y,
 
-XV. Las (sic) demás que sean necesarios para el cumplimiento de los fines de la presente Ley.
+XV. Las demás que sean necesarios (sic) para el cumplimiento de los fines de la presente Ley.
 
 ###### Artículo 12.
 
@@ -285,7 +287,7 @@ La rehabilitación a través de la orientación y tratamiento psicológico, esta
 
 Las personas con discapacidad tendrán acceso al Sistema Educativo Estatal en los términos establecidos en la Constitución y en la Ley General de Educación, además de lo señalado por la Ley Estatal de Educación sobre la construcción de una sociedad, más equitativa, plural y democrática, tomando en cuenta el respeto y la atención a la diversidad.
 
-Las instituciones educativas estatales y privadas, aceptarán en igualdad de condiciones que el resto de sus educandos a personas con discapacidad (sic), propiciando su integración mediante la aplicación de métodos, técnicas y materiales específicos de acuerdo a lo establecido en el Programa Nacional de fortalecimiento de la Educación Especial y la Integración Educativa.
+Las instituciones educativas estatales y privadas, aceptarán en igualdad de condiciones que el resto de sus educandos a personas con discapacidad, propiciando su integración mediante la aplicación de métodos, técnicas y materiales específicos de acuerdo a lo establecido en el Programa Nacional de fortalecimiento de la Educación Especial y la Integración Educativa.
 
 El Ejecutivo del Estado, tendrá la obligación de adecuar las instalaciones y espacios necesarios para los educandos con requerimientos especiales.
 
@@ -654,3 +656,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la inclusión de los estímulos y beneficios fiscales derivados del presente Decreto, el Congreso del Estado dispondrá lo conducente en sus leyes de ingresos para el ejercicio 2014.
 
 TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación así como las acciones afirmativas en el rubro, se ejecutarán de acuerdo a la programación presupuestal del próximo año a la fecha de la publicación del presente Decreto, de igual manera los estímulos fiscales, acciones afirmativas y gastos de adecuación física deberán de contemplarse en las respectivas leyes y presupuestos de ingresos y egresos de los tres Poderes del Estado, los gobiernos municipales, sus organismos descentralizados y sus organismos autónomos en el ejercicio del próximo año fiscal inmediato a la publicación del presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en lo relativo a la creación del Consejo Michoacano para la Inclusión de Personas con Discapacidad suplirá al Consejo Michoacano para la Atención e Integración Social de las Personas con Discapacidad, sin embargo, dará continuidad a los trabajos realizados por éste.
+
+SEGUNDO. El Consejo dará seguimiento a las personas con discapacidad que están siendo beneficiadas con algún apoyo, servicio o trámite, así como a los asuntos pendientes o en proceso por parte del Consejo Michoacano para la Atención e Integración Social de las Personas con Discapacidad.
+
+TERCERO. Las entidades y dependencias del Poder Ejecutivo del Estado y los gobiernos municipales contarán con 180 días a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para crear o adecuar sus reglamentos conforme a lo establecido en la presente ley y deberán definir la instancia responsable de su aplicación.
+
+CUARTO. Para dotar a los edificios públicos, las instalaciones abiertas al público, los Poderes Ejecutivo, Legislativo y Judicial del Estado, los organismos autónomos y los municipios tendrán dos años a partir de la publicación de la presente ley.
+
+En los municipios del Estado en los que se indicará en el Sistema Braille la nomenclatura de las calles del primer cuadro de las cabeceras municipales, así como las plazas, jardines, paseos públicos e inmuebles destinados a un servicio público, tendrán dos años con seis meses a partir de la entrada en vigor de esta ley, a través de un plan de trabajo que considere una partida para que durante el plazo señalado exista una avance anual en la nomenclatura.
+
+QUINTO. Para efectos del cumplimiento de las fracciones I y II del artículo 60 su observancia será de forma progresiva, por lo que las disposiciones serán únicamente aplicables para otorgar concesiones y permisos a nuevas unidades. Para ello la Comisión Coordinador del Transporte público de Michoacán deberá, además de los requisitos señalados por la normatividad aplicable, requerir lo dispuesto (sic) las fracciones referidas del artículo 59 para el otorgamiento de concesiones.
+
+Asimismo solo podrán ser sancionadas como lo establece la fracción II del artículo 97 aquellas unidades del servicio público de transporte colectivo de pasajeros que no cuenten con los implementos y requerimientos necesarios para su uso por las personas con discapacidad cuya concesión haya sido otorgada con fecha posterior a la entrada en vigencia de la presente ley.
+
+SEXTO. Se abroga la Ley para Personas con Discapacidad en el Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 24 veinticuatro de diciembre de 2004 dos mil cuatro.
