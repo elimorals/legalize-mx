@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-del-agua-del-estado-de-mexico-22139"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-04"
-last_updated: "2001-09-04"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY DEL AGUA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY DEL AGUA DEL ESTADO DE MEXICO
+REGLAMENTO DE LA LEY DEL AGUA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 12 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 12 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 4 de septiembre de 2001.
 
@@ -242,3 +244,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de la Ley del Agua del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" el 4 de septiembre de 2001.
+
+CUARTO. Para el efecto de elegir a las vocalías de presidentes municipales y de organizaciones sociales al Consejo Directivo de la Comisión Técnica que haya de integrarse por primera vez, el Comisionado Presidente convocará a sus integrantesa (sic) una sesión preparatoria en la que presentará a su consideración las propuestas respectivas.
+
+Tratándose de las vocalías correspondientes a los presidentes municipales, el Comisionado Presidente hará la propuesta, tratándose de los representantes del sector social, durante los quince días previos a dicha sesión preparatoria, el Comisionado Presidente solicitará a los organismos operadores que le envíen las propuestas correspondientes. En caso de que no se reciban propuestas o estas sean insuficientes para completar el número de representantes de este sector,el (sic) Comisionado Presidente propondrá a los faltantes.
+
+QUINTO. Los usuarios que a la fecha de entrada en vigor del presente Reglamento no cuenten con los sistemas para el tratamiento de sus aguas residuales tendrán un año para su instalación, debiendo dar aviso de lo anterior a la autoridad competente. Mientras tanto, cubrirán lo correspondiente al servicio de tratamiento de aguas residuales.
+
+SEXTO. Los usuarios realizarán el estudio respectivo para determinar si es viable la instalación de sistemas para la captación y aprovechamiento de agua pluvial y su costo, dentro de los seis meses siguientes a la entrada en vigor. De resultar viable el costo de la instalación de dichos sistemas, así como lo correspondiente a su operación y mantenimiento, será incluido en el proyecto de presupuesto de la dependencia de que se trate y sometido a la consideración de la Secretaría de Finanzas, la cual determinará lo conducente.
+
+SÉPTIMO. Las obras de defensa o rectificación en construcción a partir de la entrada en vigor, los particulares deberán dar aviso a más tardar dentro de los treinta días hábiles siguientes, a fin de que la Comisión tenga conocimiento de ellas y, en su caso, realizar las visitas de verificación que resulten necesarias.
+
+OCTAVO. Los convenios de asignación respecto de las explotaciones, usos o aprovechamientos de aguas de jurisdicción estatal o municipal que ya se estén llevando a cabo al iniciar su vigencia, deberán quedar formalmente suscritos dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento.
+
+NOVENO. Los particulares que previo a la entrada en vigor del presente Reglamento descarguen aguas residuales, deberán dar el aviso correspondiente dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Reglamento.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Reglamento.
