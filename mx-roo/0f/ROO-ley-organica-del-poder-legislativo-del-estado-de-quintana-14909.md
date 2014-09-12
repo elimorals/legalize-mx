@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2014-04-21"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -147,7 +147,7 @@ Cada período de sesiones ordinarias durará el tiempo necesario para tratar tod
 
 ###### ARTICULO 12.
 
-La Legislatura, a convocatoria de la Diputación Permanente, por si o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
+La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
 
 ###### ARTICULO 13.
 
@@ -933,11 +933,17 @@ II.- Asistir con puntualidad a las reuniones de las Comisiones a que pertenezcan
 
 III.- Cumplir con las comisiones que la Presidencia de la Legislatura les encomiende y con los trabajos que les asignen las Comisiones a las que pertenezcan.
 
-IV.- Visitar periódicamente el Distrito en el que hayan sido electos, e informar a sus habitantes de sus labores legislativas y de gestión del año anterior, en el primer receso de cada año, en actos públicos o por los medios de comunicación más idóneos.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-Los Diputados de representación proporcional cumplirán con esta misma obligación en la circunscripción en que fueron electos, sin perjuicio de hacerlo en forma conjunta y atendiendo a su filiación partidista.
+IV.- Visitar periódicamente el Distrito en el que hayan sido electos e informar a los habitantes de sus labores legislativas y de gestión del año de ejercicio constitucional anterior, dentro del periodo comprendido entre el 15 de septiembre al 15 de octubre del año que corresponda, ya sea en actos públicos o por los medios de comunicación más idóneos, El informe correspondiente al tercer año de ejercicio constitucional, se llevará a cabo en el mes de agosto del año que corresponda.
 
-V.- Presentar un informe anual a la Legislatura de los trabajos realizados dentro y fuera de sus Distritos durante los recesos respectivos dentro de las tres primeras sesiones siguientes a la apertura del segundo período ordinario de sesiones de cada año.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+V.- Presentar un informe anual a la Legislatura de los trabajos realizados dentro y fuera de sus Distritos durante los recesos respectivos, en las tres primeras sesiones siguientes a la apertura del primer periodo ordinario del año siguiente de ejercicio constitucional. El informe correspondiente al tercer año de ejercicio constitucional, se rendirá ante la Diputación Permanente en el mes de agosto del año que corresponda.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+Los Diputados de la Legislatura que fueron electos por el principio de representación proporcional deberán rendir los informes a que hacen alusión las fracciones IV y V de este artículo, con la salvedad que el informe que se rinda a la ciudadanía podrá llevarse a cabo en el lugar que éstos designen, así como el informe que rindan a la Legislatura deberá versar sobre los trabajos que realicen durante los recesos respectivos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1749,7 +1755,7 @@ Cuando a algún Diputado se le instruya Juicio Político, no ejercerá sus funci
 
 ### CAPITULO I. DEL DIARIO DE LOS DEBATES
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 155.
 
@@ -1817,7 +1823,7 @@ Las sesiones solemnes en las que asistan el Gobernador del Estado y el President
 
 En las sesiones a las que asista el Presidente de la República, con el mismo procedimiento de recepción previsto en el párrafo que antecede, éste tomará asiento entre el Presidente de la Legislatura y el Gobernador del Estado; y el Presidente del Tribunal Superior de Justicia a la derecha del Presidente de la Legislatura. En las sesiones a las que asista el representante del Presidente de la República, éste tomará asiento a la izquierda del Gobernador del Estado; el Gobernador del Estado a la izquierda del Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia a la derecha del Presidente de la Legislatura.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+(REUBICADO, P.O. 10 DE FEBRERO DE 2011)
 
 ###### ARTICULO 160
 
@@ -2040,3 +2046,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los diputados que hayan rendido el informe a que se refiere el artículo 71 fracción IV de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo, correspondiente al primer año de ejercicio constitucional de la XIV Legislatura del Estado, antes de la entrada en vigor del presente decreto, o que hayan agendado la presentación de dicho informe antes del 15 de septiembre del año que transcurre, no estarán obligados a cumplir nuevamente con lo establecido en este decreto.
+
+TERCERO. El informe a que se refiere el artículo 71 fracción V de la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo contenido en este decreto, deberá ser rendido por única ocasión durante el mes de septiembre del presente año.
