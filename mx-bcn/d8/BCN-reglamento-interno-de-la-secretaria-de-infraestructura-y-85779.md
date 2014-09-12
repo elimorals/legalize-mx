@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-infraestructura-y-85779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-06"
-last_updated: "2012-01-06"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -65,7 +65,9 @@ VII. Ejecutivo Estatal: El Gobernador del Estado de Baja California;
 
 VIII. Ley Orgánica: La Ley Orgánica de la Administración Pública del Estado de Baja California;
 
-IX. Unidad Administrativa: La Oficina del Titular, Subsecretaría, Direcciones, Departamentos, Unidad de Atención Sectorial, Delegaciones y Subdelegación, según corresponda;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Unidad Administrativa: La Oficina del Titular, Subsecretaría, Direcciones, Subdirecciónes, Departamentos, Unidad de Atención Sectorial, Delegaciones y Subdelegación, según corresponda;
 
 X. Reglamento: El Reglamento Interno de la Secretaría de Infraestructura y Desarrollo Urbano.
 
@@ -99,7 +101,15 @@ b) Dirección de Vivienda y Reservas Territoriales.
 
 c) Dirección de Contratación y Costos;
 
-1.- Departamento de Costos; y,
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+1.- Subdirección de Contratación y Costos;
+
+1.1.- Departamento de Contratación de Obra;
+
+1.2.- Departamento de Costos; y
+
+1.3.- Departamento de Licitación de Obras.
 
 2.- Departamento de Contratación de Obra.
 
@@ -643,15 +653,21 @@ XV. Proponer al Subsecretario la delegación de las facultades de su competencia
 
 XVI. Las demás relativas a la competencia de su Unidad Administrativa y que sean indispensables para su buen funcionamiento, así como aquellas que les confieran otros ordenamientos, o les encomiende el Subsecretario o el Secretario.
 
-### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES GENÉRICAS DE LOS DELEGADOS, SUBDELEGADO Y JEFES DE DEPARTAMENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES GENÉRICAS DE LOS DELEGADOS, SUBDELEGADO, SUBDIRECTORES Y JEFES DE DEPARTAMENTO
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 27.
 
-Al frente de cada Delegación, Subdelegación y Departamento habrá un Delegado Subdelegado o Jefe de Departamento, quienes se auxiliarán del personal que tengan adscrito.
+Al frente de cada Delegación, Subdelegación, Subdirección y Departamento habrá un Delegado, Subdelegado, Subdirector o Jefe de Departamento, quienes se auxiliarán del personal que tengan adscrito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-Compete a los Delegados, Subdelegado o Jefes de Departamento el ejercicio de las siguientes facultades:
+Compete a los Delegados, Subdelegado, Subdirectores o Jefes de Departamento el ejercicio de las siguientes facultades:
 
 I. Acordar con el superior inmediato, el seguimiento de los asuntos encomendados a su responsabilidad, e informar oportunamente sobre los mismos;
 
@@ -1029,19 +1045,29 @@ I. Elaborar el manual de bases de contratación de acuerdo a la legislación en 
 
 II. Elaborar los contratos, convenios y demás documentación establecida en la normatividad en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
 
-III. Coordinar los procesos de contratación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma con las Unidades Administrativas y Delegaciones de la Secretaría;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+III. Supervisar los procesos de contratación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría;
 
 IV. Fomentar la difusión y aplicación de la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma al personal de las Unidades Administrativas, Entidades del Sector y Dependencias que así lo soliciten;
 
-V. Coordinar el registro anual del padrón de contratistas y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma; analizando las solicitudes para su inscripción y revalidación, y en su caso, ordenar la suspensión o cancelación del mismo, por infracciones a la normatividad vigente;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+V. Supervisar el registro anual del padrón de contratistas y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma; analizando las solicitudes para su inscripción y revalidación y, en su caso, ordenar la suspensión o cancelación del mismo, por infracciones a la normatividad vigente;
 
 VI. Asesorar a las Dependencias y a las Entidades del Sector en los procesos de contratación de la obra pública, equipamientos, suministros y servicios relacionados con la misma;
 
-VII. Coordinar la elaboración y actualización de los tabuladores de precios unitarios en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Coordinar la elaboración de los relativos de precios de insumos para la construcción de la obra pública, que sirvan de base para los ajustes de costos; mediante su publicación en el Periódico Oficial del Estado;
+VII. Supervisar la elaboración y actualización de los tabuladores de precios unitarios en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
 
-IX. Coordinar la revisión de ajustes de costos, para su aprobación y aplicación; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Supervisar la elaboración de los relativos de precios de insumos para la construcción de la obra pública, que sirvan de base para los ajustes de costos; mediante su publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Supervisar la revisión de ajustes de costos, para su aprobación y aplicación; y
 
 X. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
 
@@ -1049,45 +1075,97 @@ X. Las demás relativas a la competencia de su Unidad Administrativa y que sean 
 
 Quedan adscritas a la Dirección de Contratación y Costos, las siguientes unidades administrativas:
 
-I. Departamento de Contratación de Obra; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+I.- Subdirección de Contratación y Costos;
+
+1.1.- Departamento de Contratación de Obra;
+
+1.2.- Departamento de Costos; y
+
+1.3.- Departamento de Licitación de Obras.
 
 II. Departamento de Costos.
 
 Las unidades administrativas tendrán a su cargo los asuntos relativos a su competencia y que sean necesarias para su buen funcionamiento, así como aquellos que le confieran otros ordenamientos, o les instruya el titular de la Dirección.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 41 Bis.
+
+Corresponde a la Subdirección de Contratación y Costos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I. Coordinar los procesos de contratación y adjudicación que en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, hasta la revisión del dictamen correspondiente, lleven a cabo las unidades administrativas de la Secretaría;
+
+II. Coordinar la elaboración de los contratos, convenios y demás documentación establecida en la normatividad en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, para lograr los objetivos establecidos;
+
+III. Coordinar el registro anual del padrón de contratistas y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma; analizando las solicitudes para su inscripción y revalidación y, en su caso, ordenar la suspensión o cancelación del mismo, por infracciones a la normatividad vigente;
+
+IV. Coordinar la elaboración y actualización de los tabuladores de precios unitarios en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, manteniendo informado sobre el desarrollo y ejecución de las mismas;
+
+V. Coordinar la elaboración de los relativos de precios de insumos para la construcción de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que sirvan de base a los ajustes de costos, mediante su publicación en el Periódico Oficial del Estado;
+
+VI. Coordinar la revisión de ajustes de costos, para su aprobación y aplicación; y
+
+VII. Las demás relativas a la competencia de su unidad administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
+
+> <small>N. DE E. VÉASE EL CONSIDERANDO 8 DEL DECRETO PUBLICADO EN EL P.O. 12 DE SEPTIEMBRE DE 2014.</small>
+
 ###### Artículo 42.
 
 Corresponde al Departamento de Contratación de Obra, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Dar seguimiento a los concursos y llevar el registro anual del padrón de contratistas, prestadores de servicios y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-II. Elaborar el proyecto del manual de bases de licitación de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+I. Elaborar los proyectos de contratos, convenios y demás documentación establecida en la normatividad para la contratación de obras, equipamientos, suministros y servicios relacionados con las mismas;
 
-III. Elaborar los proyectos de contratos, convenios y demás documentación establecida en la normatividad para la contratación de estudios y proyectos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Llevar el registro anual del padrón de contratistas y proveedores de servicios en materia de obra pública, analizando las solicitudes de inscripción y revalidación, y en su caso, ordenar la suspensión o cancelación del mismo, por infracciones de la obra pública;
+II. Llevar el registro anual del padrón de contratistas, prestadores de servicios y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con las mismas; y
 
-V. Llevar a cabo la revisión de los procesos de adjudicación para la contratación de obra pública, equipamientos, suministros y servicios relacionados con la misma y emitir el dictamen que sirve de base para el fallo correspondiente; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
+III. Las demás relativas a la competencia de su unidad administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
 
 ###### Artículo 43.
 
 Corresponde al Departamento de Costos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Elaborar, actualizar y fomentar los lineamientos para la presupuestación de la obra pública que realicen las Dependencias y las Entidades del Sector en el Estado;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-II. Elaborar y actualizar los tabuladores de precios unitarios referentes a los rendimientos y costos de insumos de mano de obra, materiales y máquinas, de acuerdo a las condiciones de mercado para las diferentes localidades en el Es ado (sic), que deberán aplicarse a la presupuestación, ejecución y pago de las obras públicas a cargo de la Secretaría y Entidades del Sector;
+I. Elaborar, actualizar y fomentar los lineamientos para la presupuestación de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que realicen las Dependencias y las Entidades del Sector en el Estado;
 
-III. Elaborar los relativos de precios de insumas para la construcción de la obra pública, que sirvan de base para los ajustes de costos mediante grupos de obra tipificados, para su aprobación y aplicación;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+II. Elaborar y actualizar los tabuladores de precios unitarios referentes a los rendimientos de costos de insumos de mano de obra, materiales y maquinaria, de acuerdo a las condiciones de mercado para las diferentes localidades en el Estado, que deberán aplicarse a la presupuestación, ejecución y pago de las obras públicas, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría y Entidades del Sector;
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+III. Elaborar los relativos de precios de insumos para la construcción de la obra pública, equipamiento, suministros y servicios relacionados con la misma, que sirvan de base para los ajustes de costos, mediante grupos de obra tipificados, para su aprobación y aplicación;
 
 IV. Revisar las solicitudes de ajustes de costos, para su aprobación y aplicación;
 
 V. Elaborar y actualizar los presupuestos base de las obras públicas que llevan a cabo las diferentes Unidades Administrativas de la Secretaría;
 
-VI. Participar en la revisión de las licitaciones que lleve a cabo la Secretaría; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Participar en los procedimientos de contratación y adjudicación de contratos que lleve a cabo la Secretaría, en las actividades concernientes a sus funciones; y
 
 VII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 43 Bis.
+
+Corresponde al Departamento de Licitación de Obras, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I. Dar seguimiento a los procedimientos de contratación y adjudicación de obra pública que lleve a cabo la Secretaría;
+
+II. Elaborar el proyecto del manual de bases de licitación, de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+III. Llevar a cabo la revisión de los procesos de contratación y adjudicación de los contratos de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría, y elaborar el dictamen que sirve de base para el fallo correspondiente; y
+
+IV. Las demás relativas a la competencia de su unidad administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el superior inmediato.
 
 ###### Artículo 44.
 
@@ -1396,3 +1474,11 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
