@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-para-el-estado-de-chiapas-44554"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2013-07-31"
+last_updated: "2014-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de Marzo de 2005.
 
@@ -41,109 +41,103 @@ Decreto de Ley de Planeación para el Estado de Chiapas
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(F. DE E., P.O. 27 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley, son de orden público y de interés general y, tienen por objeto establecer:
+Las disposiciones de la presente Ley, son de orden público, de interés general y tienen por objeto establecer:
 
-I. Las normas y procedimientos, conforme a los cuales se llevará a cabo la planeación del desarrollo integral del Estado y, se encauzarán las actividades de la Administración Pública;
+I. Los procedimientos y principios conforme a los cuales se llevará a cabo la planeación del desarrollo del Estado.
 
-II. Las bases para la integración y funcionamiento del sistema Estatal de Planeación Democrática;
+II. Las bases para la integración y funcionamiento del Sistema Estatal de Planeación Democrática.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+III. Las bases para que el Ejecutivo del Estado coordine la planeación del desarrollo del Estado con la federación, los Ayuntamientos y el Congreso del Estado.
 
-III. Las bases para que el Ejecutivo del Estado, coordine las actividades de planeación con la Federación y los municipios;
+IV. Las bases y mecanismos que promuevan y garanticen la participación social y ciudadana en la planeación del desarrollo del Estado.
 
-IV. Las bases y mecanismos que promuevan y garanticen la participación social y ciudadana, en el proceso de planeación, y
+V. Las bases de coordinación, entre los tres órdenes de gobierno y la sociedad, que contribuyan a alcanzar conjuntamente las políticas públicas y objetivos contenidos en los planes de desarrollo nacional, estatal y municipales.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+VI. El ámbito de competencia de las dependencias y entidades de la Administración Pública Estatal, el Congreso del Estado y los Ayuntamientos, con relación al Sistema Estatal de Planeación Democrática.
 
-V. Las bases, para que las acciones conjuntas entre los tres órdenes de gobierno y la sociedad contribuyan para alcanzar los objetivos y prioridades contenidos en los Planes de Desarrollo Nacional, Estatal y Municipal, considerando para la política social los Objetivos de Desarrollo del Milenio.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
 Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+I. Congreso.- Al Congreso del Estado.
 
-I.- Congreso.- Al Congreso del Estado.
+II. Ejecutivo.- Al Titular del Poder Ejecutivo del Estado.
 
-II.- Ejecutivo.- Al Titular del Poder Ejecutivo del Estado.
+III. Secretaría.- A la Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+IV. Sistema.- Al Sistema Estatal de Planeación Democrática.
 
-III. Secretaría: A la Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
+V. Planeación.- Al conjunto ordenado, lógico y racional de acciones destinadas a formular, instrumentar, controlar y evaluar los planes y programas para el desarrollo del Estado.
 
-IV.- Sistema.- El Sistema Estatal de Planeación Democrática.
+VI. COPLADE.- Al Comité de Planeación para el Desarrollo.
 
-V.- COPLADE.- Al Comité de Planeación para el Desarrollo.
+VII. COPLADER.- A los Comités de Planeación para el Desarrollo Regional.
 
-VI.- COPLADER.- A los Comités de Planeación para el Desarrollo Regional.
+VIII. COPLADEM.- A los Comités de Planeación para el Desarrollo Municipal.
 
-VII.- COPLADEM.- A los Comités de Planeación para el Desarrollo Municipal.
+IX. Plan Nacional.- Al Plan Nacional de Desarrollo que elabora el Ejecutivo Federal.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+X. Plan Estatal.- Al Plan Estatal de Desarrollo que elabora el Ejecutivo del Estado, de conformidad con la presente Ley.
 
-VIII.- Plan Nacional.- Al Plan Nacional de Desarrollo que elabora el Ejecutivo Federal de conformidad con la Ley de Planeación.
+XI. Planes Municipales.- A los Planes de Desarrollo elaborados por los Ayuntamientos en su municipio, conforme a la presente ley.
 
-IX.- Plan Estatal.- Al Plan Estatal de Desarrollo que elabora el Ejecutivo, de conformidad con la presente Ley.
+XII. Programa.- Al instrumento que establece el orden de acción lógico de proyectos y acciones para el cumplimiento de las políticas públicas y los objetivos de los planes nacional, estatal y municipales. Se compone de un diagnóstico situacional que define objetivos, estrategias, indicadores de medición y metas. Estos podrán ser sectoriales, regionales, especiales e institucionales.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XIII. Proyecto.- Al conjunto de obras o acciones que se encuentran interrelacionadas y coordinadas entre sí, a efecto de alcanzar objetivos específicos dentro de un lapso de tiempo determinado, con un presupuesto establecido. Un conjunto de proyectos conformará un subprograma o programa.
 
-X.- Planes Municipales.- A los Planes de Desarrollo elaborados por los Ayuntamientos en su Municipio, conforme a la presente Ley.
+XIV. Sector Social.- A todos aquellos ciudadanos que actúan de manera individual o colectiva, con el objetivo de participar en los procesos de toma de decisiones establecidos en el Sistema Estatal de Planeación Democrática.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XV. Sector Público.- A las dependencias u organismos de los gobiernos federal, estatal y municipal que intervienen en alguna etapa de la planeación para el desarrollo del Estado. Se conforma también por los organismos públicos autónomos, empresas paraestatales, así como por los Poderes Legislativo y Judicial del Estado.
 
-XI.- Programa. Al instrumento que establece el orden de acción lógico de proyectos y acciones para el cumplimiento de los objetivos de los Planes Nacional, Estatal y Municipal, derivados de un diagnóstico situacional. Identifica y define objetivos, metas e indicadores de medición, atribuyendo responsabilidades para su cumplimiento.
+XVI. Sector Privado.- A la forma de organización que adopta el sector productivo, que tiene por objeto la vigilancia y cumplimiento de los intereses de este sector.
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XVII. Largo Plazo.- Al periodo de tiempo mayor a seis años.
 
-XII.- Proyecto. Al conjunto de obras o acciones que se encuentran interrelacionadas y coordinadas entre sí, a efecto de alcanzar objetivos específicos dentro de un lapso de tiempo determinado, con un presupuesto establecido. Un conjunto de proyectos conformará un subprograma o programa.
+XVIII. Mediano Plazo.- Al periodo de tiempo comprendido de uno a seis años.
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XIX. Corto Plazo.- Al periodo de un año.
 
-XIII.- Sector Social. A todos aquellos individuos con la calidad de ciudadanos que actúan de manera colectiva, con el objetivo de tomar decisiones en lo concerniente al ámbito público, por fuera de cualquier tipo de estructura gubernamental.
+XX. Sistema de Seguimiento.- Al Sistema Estatal del Seguimiento y Evaluación.
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-XIV.- Sector Público. Al conjunto de organismos de los tres órdenes de gobierno, mediante las cuales el Estado cumple o hace cumplir las políticas públicas establecidas, para incentivar y normar el desarrollo social y económico del territorio. Consideran al Poder Legislativo, Poder Ejecutivo, Poder Judicial y organismos públicos autónomos, instituciones, empresas y personas que realizan alguna actividad en nombre del Estado.
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-XV.- Sector Privado. A la forma de organización que adopta el sector productivo, que tiene por objeto la vigilancia y cumplimiento de los intereses de este Sector.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
-La planeación territorial y democrática, será integral y permanente y se llevará a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado y, será el instrumento mediante el cual los Gobiernos Federal, Estatal y Municipal fomentarán el desarrollo de la Entidad, acorde a los principios y objetivos enmarcados en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Chiapas.
+La Planeación para el Desarrollo del Estado será sectorial, territorial, democrática, integral y permanente; es un medio para realizar un eficaz desempeño de la responsabilidad del Estado y será el instrumento a través del cual, el gobierno federal, estatal y municipal, desarrollarán y ejecutarán en forma conjunta sus políticas públicas.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-Es responsabilidad del Ejecutivo a través de la Secretaría y de los Ayuntamientos Municipales, aplicar las disposiciones de la presente Ley, en el ámbito de sus respectivas competencias.
+Mediante la Planeación se determinarán las políticas públicas, objetivos, estrategias, indicadores y metas de planes y programas; de igual forma se asignarán recursos, responsabilidades y tiempos para su ejecución.
 
-> <small>(F. DE E., P.O. 27 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
 
-Corresponderá al Ejecutivo, a través de las dependencias normativas, resolver cualquier duda sobre la interpretación y aplicación de la presente Ley, en el ámbito de sus respectivas competencias.
+Es responsabilidad del Ejecutivo, a través de la Secretaría, del Congreso y los Ayuntamientos, aplicar las disposiciones de la presente Ley en el ámbito de sus respectivas competencias.
+
+La Secretaría resolverá cualquier duda sobre la interpretación y aplicación de la presente Ley.
 
 ### Capítulo II. Sistema Estatal de Planeación Democrática
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
-Se denominará Sistema Estatal de Planeación Democrática, al conjunto articulado de relaciones funcionales, que establezcan las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal entre sí y con la sociedad, a fin de efectuar acciones encaminadas al desarrollo de la entidad.
+El Sistema es el conjunto articulado de relaciones funcionales, que establezcan las dependencias y entidades de la administración pública federal, estatal y municipal entre sí y con la sociedad, a fin de efectuar acciones encaminadas al desarrollo de la Entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
-El Sistema estará conformado por las Dependencias y Entidades de la Administración Pública Federal, Estatal, Municipal y la sociedad a través de sus diferentes formas de organización y, para su operación, se organizará a nivel estatal por el COPLADE, a nivel regional por los COPLADER y a nivel municipal por los COPLADEM, entendiéndose por:
+El Sistema estará conformado por los sectores público, privado y social; para su operación se organizará a nivel estatal por el COPLADE; a nivel regional por los COPLADER y a nivel municipal por los COPLADEM, entendiéndose por:
 
 I.- COPLADE, como el órgano colegiado responsable de llevar a cabo la consulta y concertación de los sectores público, social y privado, promoviendo la participación de estos en el desarrollo del Estado;
 
@@ -163,19 +157,21 @@ I. Efectuar la Planeación del Desarrollo del Estado y de los Municipios a efect
 
 II. Establecer la congruencia entre los planes, programas y proyectos nacionales, estatales y municipales, para el desarrollo.
 
-III. Coordinar las acciones del Poder Ejecutivo del Estado, los municipios y la sociedad, en la formulación, ejecución, control y evaluación de los planes y programas a que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Promover y fomentar la participación de las Dependencias y Entidades de la Administración Pública Federal y Estatal, los municipios y la sociedad, en los procesos de planeación en el ámbito estatal, regional y municipal.
+III. Coordinar las acciones de los sectores público, privado y social en la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Promover y fomentar la participación de las dependencias y entidades de la administración pública federal y estatal, los Ayuntamientos, así como del sector social y privado, en los procesos de planeación.
 
 ### Capítulo III. Del Proceso de Planeación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 9.
 
-Se entenderá por planeación, al conjunto ordenado, lógico y racional de acciones destinadas a formular, ejecutar, controlar y evaluar los planes y programas que de ella se deriven, optimizando el uso de los recursos y con ello mejorar la calidad de vida de la población.
-
-La planeación se instrumentará a través de planes y programas, mismos que señalarán las prioridades a atender, los objetivos y metas a alcanzar y las estrategias a seguir; así como los recursos, responsabilidades, tiempos de ejecución y evaluación de resultados.
+La planeación se formalizará a través de los planes y programas estatales y municipales. Los cuales deberán ser producto de un proceso participativo del Sistema a través de su estructura de planeación estatal, regional y municipal.
 
 ###### Artículo 10.
 
@@ -215,23 +211,23 @@ III. De los anteriores, tendrán prioridad los que beneficien a un mayor número
 
 IV. Considerar en la definición de sus objetivos, metas e indicadores, la transversalidad de temas como la equidad de género y el medio ambiente.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 12.
 
-El proceso de planeación se integrará por cuatro etapas: Formulación, Ejecución, Control y Evaluación.
+El proceso de Planeación se integrará por cuatro etapas: Formulación, Instrumentación, Control y Evaluación. Debiéndose entender para tal efecto:
 
-I. La Formulación, será el conjunto de actividades que se desarrollarán para elaborar los planes y programas.
+I. La formulación, será el conjunto de actividades que se desarrollarán para elaborar los planes y programas.
 
-II. La Ejecución, será la puesta en marcha de lo que se ha establecido en la fase de formulación.
+II. La Instrumentación, será la puesta en marcha y operación de lo que se ha formulado dentro de los planes y programas, mediante la asignación de recursos, responsabilidades y tiempos de ejecución.
 
-III. El Control, se constituirá por las actividades dirigidas a vigilar que la ejecución de acciones corresponda a la normatividad que las rige, para lo cual se requiere contar con información sobre el avance operativo, es decir sobre el avance físico y financiero de las obras y acciones, los programas estatales y los compromisos establecidos en el Plan Estatal, en relación con las metas y los recursos utilizados, con el objeto de corregir oportunamente desviaciones, insuficiencias en las etapas de formulación, ejecución y evaluación y poder ejecutar planes de acción que permitan eliminar o minimizar estas variaciones.
+III. El Control, se constituirá por las actividades dirigidas a vigilar que la ejecución de acciones corresponda a la normatividad que las rigen, con el objeto de prevenir y corregir oportunamente desviaciones e insuficiencias en las etapas de formulación, instrumentación y evaluación, así como ejecutar planes de acción que permitan eliminar o minimizar estas variaciones.
 
-IV. La Evaluación, será el análisis sistemático de los planes, programas y proyectos que tienen como finalidad determinar la pertinencia y los niveles de logro de sus objetivos y metas, en términos de eficiencia, eficacia y economía.
+IV. La Evaluación, será el análisis sistemático de los planes y programas de desarrollo, con la finalidad de reportar el nivel de cumplimiento de las políticas públicas y objetivos, en relación con las metas programadas, en términos de eficiencia, eficacia y economía.
 
 ### Capítulo IV. Instrumentos del Sistema Estatal de Planeación Democrática
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 13.
 
@@ -253,7 +249,7 @@ f) Programas que se deriven del Plan Estatal.
 
 g) Programas que se deriven de los Planes Municipales.
 
-II. Ejecución:
+II. Instrumentación:
 
 a) Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
@@ -273,13 +269,13 @@ h) Convenios de Concertación.
 
 i) Lineamientos del Programa de Inversión Estatal.
 
-j) Manual de Operación del Fondo III y IV, del Ramo 33.
+j) Guía correspondiente al Ramo 33.
 
 k) Lineamientos Generales de Operación para la Entrega de los Recursos del Ramo General 33 Aportaciones Federales para Entidades Federativas y municipios.
 
-j) (sic) Lineamientos para Informar sobre el Ejercicio, Destino y Resultados de los Recursos Federales Transferidos a las Entidades Federativas.
+l) Lineamientos para Informar sobre el Ejercicio, Destino y Resultados de los Recursos Federales Transferidos a las Entidades Federativas.
 
-k) (sic) Lineamientos sobre los Indicadores para medir los Avances Físicos y Financieros relacionados con los Recursos Públicos Federales.
+m) Lineamientos sobre los Indicadores para medir los Avances Físicos y Financieros relacionados con los Recursos Públicos Federales.
 
 III. Control:
 
@@ -303,7 +299,7 @@ a) Informes de los Gobiernos Estatal y Municipal.
 
 b) Informes de la Cuenta Pública Estatal y Municipales.
 
-La clasificación y desagregación anterior, no es limitativa.
+c) Informe de evaluación de cumplimiento de los planes y programas.
 
 #### Sección Primera. Instrumentos de la Administración Pública Estatal
 
@@ -343,19 +339,29 @@ XI. La Cuenta Pública Estatal.
 
 XII. La línea basal de los Objetivos de Desarrollo del Milenio.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 15.
 
-El Plan Estatal, será el documento rector del Sistema, cuya función será diagnosticar la situación socioeconómica estatal, precisando las políticas públicas, prioridades de atención, misión, visión, los objetivos y las estrategias; además de indicar los programas que deban elaborarse para atender la problemática estatal.
+El Plan Estatal, será el documento rector del Sistema, cuya función será diagnosticar la situación socioeconómica y ambiental del Estado, además de formalizar la misión, visión, políticas públicas, y objetivos para el desarrollo sustentable de la Entidad. Además de sujetarse y cumplir con las adecuaciones dispuestas en el marco legal vigente.
 
-Las políticas públicas en materia de desarrollo social contenidas en el Plan Estatal deberán estar alineadas al cumplimiento de los Objetivos de Desarrollo del Milenio y recuperar sus metas e indicadores de medición, dando cumplimiento a las adecuaciones del marco jurídico vigente.
+Las políticas públicas en materia de desarrollo social contenidas en el plan estatal deberán estar orientadas a mejorar el índice de desarrollo humano, los resultados de la medición multidimensional de la pobreza y contribuir al alcance de los Objetivos de Desarrollo del Milenio en la Entidad. Para medir los avances en dichos casos, se deberán retomar los indicadores y metas previamente establecidos.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 16.
 
-El Plan Estatal deberá elaborarse por el Ejecutivo, aprobarse por el Congreso del Estado y publicarse en un plazo no mayor de seis meses, contados a partir del inicio de la gestión gubernamental del Ejecutivo. Este deberá ser evaluado y en su caso podrá ser actualizado conforme demande el entorno político, social y económico del Estado, y los resultados alcanzados durante su ejecución.
+El Plan Estatal deberá elaborarse por el Ejecutivo, aprobarse por el Congreso y publicarse en un plazo no mayor de seis meses, contados a partir del inicio de la gestión gubernamental del Ejecutivo.
+
+Para dar cumplimiento a esta disposición, el Ejecutivo remitirá el Plan Estatal al Congreso en un plazo no mayor a 4 meses; el Congreso lo recibirá y analizará para su aprobación en un plazo de 30 días naturales contados a partir de la recepción del mismo. En caso de que el Congreso no se pronuncie en dicho plazo, el Plan Estatal se entenderá aprobado.
+
+En caso de que el Congreso formule observaciones, estas deberán ser atendidas por el Ejecutivo en un término de 15 días naturales y concluido este periodo se pondrán a consideración del Congreso para la aprobación respectiva.
+
+Una vez aprobado el Plan Estatal, deberá publicarse en el Periódico Oficial del Estado en un plazo no mayor a 15 días naturales.
+
+El Plan Estatal podrá ser evaluado y actualizado conforme demande el entorno político, social y económico.
+
+La Secretaría deberá emitir los lineamientos y metodología a seguir para la formulación y evaluación del Plan Estatal, los cuales hará del conocimiento al Congreso.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -391,7 +397,9 @@ Los Programas Sectoriales deberán presentarse al Ejecutivo, en un periodo no ma
 
 Los Programas Institucionales, se sujetarán al cumplimiento de las políticas públicas, los objetivos del Plan Estatal, los Programas Sectoriales y a los Especiales, y deberán tomar en cuenta a los Planes Municipales. Se considerarán de mediano plazo y serán elaborados por todos los organismos de la administración pública estatal. Estos deberán contener la misión fundamental del organismo público de que se trate, los programas y proyectos institucionales, las acciones operativas que se clasificarán en función al tiempo de ejecución, a su naturaleza y a su impacto. Así también, deberán contener los resultados esperados con la ejecución de estos proyectos o acciones.
 
-Cuando se trate del inicio del período de administración, los Programas Institucionales deberán elaborarse y presentarse al Ejecutivo, en un periodo no mayor a seis meses a partir de la publicación del Plan Estatal. En caso de modificación, fusión, reestructuración, creación de un organismo público o si así se requiera, se deberán elaborar a más tardar al tercer mes posterior al Decreto y publicación oficial, debiendo en ambos casos publicarse mediante Decreto.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+Cuando se trate del inicio del periodo de administración, los Programas Institucionales deberán elaborarse y presentarse al Ejecutivo, en un periodo no mayor a tres meses a partir de la publicación de los programas sectoriales. En caso de modificación, fusión, reestructuración y creación de un organismo público o si así se requiera, se deberán elaborar a más tardar al tercer mes posterior al decreto y publicación oficial, debiendo en ambos casos publicarse el programa mediante Decreto.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -399,11 +407,13 @@ Cuando se trate del inicio del período de administración, los Programas Instit
 
 Los Programas Especiales, se considerarán de mediano plazo, contendrán acciones interinstitucionales coordinadas en atención a las políticas transversales y prioridades establecidas en el Plan Estatal. Impulsarán en el ámbito territorial el desarrollo integral y sustentable y pugnarán por elevar el nivel socioeconómico de vida de población en condición de pobreza. Serán elaborados por las dependencias o entidades que designe el Ejecutivo, presentados al mismo y publicados en el Periódico Oficial durante el periodo constitucional de la gestión gubernamental que le corresponda.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 22.
 
-Los programas regionales deberán apegarse al Plan Estatal y a los Planes Municipales, serán multisectoriales, conllevarán la participación coordinada de los tres órdenes de gobierno, precisarán los objetivos, estrategias y prioridades del desarrollo integral y sustentable de las 15 regiones socioeconómicas que conforman a la entidad establecidas en el artículo 46 de la Constitución Política del Estado de Chiapas o zonas específicas que se consideren prioritarias y estratégicas en función de la interrelación de sus componentes políticos, sociales, económicos y ambientales y podrán ser considerados de corto o mediano plazo, éstos serán formulados de manera colegiada dentro de la estructura del COPLADE, en su nivel regional y deberán ser presentados para su examen y aprobación al H. Congreso del Estado durante el período constitucional de la gestión gubernamental que corresponda.
+Los Programas Regionales deberán apegarse al Plan Estatal y a los Planes Municipales, serán multisectoriales, conllevarán la participación coordinada de los tres órdenes de gobierno, precisarán los objetivos, estrategias y prioridades del desarrollo integral y sustentable de las 15 regiones socioeconómicas o zonas específicas que se consideren prioritarias y estratégicas en función de la interrelación de sus componentes políticos, sociales, económicos y ambientales; serán considerados de mediano plazo y formulados de manera colegiada en el COPLADER.
+
+Los Programas Regionales deberán ser presentados al Congreso, para su examen y aprobación, en un plazo no mayor de un año a partir de la publicación del Plan Estatal que corresponda.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -421,9 +431,17 @@ Las comisiones, consejos, comités, fideicomisos y unidades económicas subsidia
 
 El Ejecutivo, en la Iniciativa de Ley de Ingresos y en el Decreto de Presupuesto de Egresos, para el ejercicio fiscal correspondiente, señalará la relación que guardan éstos instrumentos con el Plan Estatal y Programas a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 26.
 
-En el Informe de Gobierno, el Ejecutivo dará cuenta al Congreso, de las acciones ejecutadas que se derivan del Plan Estatal y los programas.
+En el informe que el Ejecutivo rinda ante el Congreso sobre el estado general que guarda la Administración Pública Estatal, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Estatal y Los Programas Sectoriales.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 26 Bis.
+
+El Informe de Evaluación de cumplimiento del Plan Estatal deberá ser presentado al Congreso anualmente, a partir del segundo año de cada administración. Respecto a la evaluación de los Programas Sectoriales, Especiales y Regionales, estos deberán presentarse cada dos años.
 
 #### Sección Segunda. Instrumentos de la Administración Pública Municipal
 
@@ -457,39 +475,61 @@ X. La Cuenta Pública Municipal.
 
 XI. La línea basal de los Objetivos de Desarrollo del Milenio para los municipios del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Informe de evaluación de nivel de cumplimiento de los planes municipales.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Información estadística y geográfica oficial publicada y los indicadores que de ella se deriven.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 28.
 
-Los Planes Municipales diagnosticarán la situación socioeconómica y ambiental en el ámbito municipal y sectorial, precisando las prioridades, políticas públicas, objetivos y estrategias para su desarrollo, aplicando durante su vigencia el contenido de los Programas Operativos Anuales correspondientes, procurando su concordancia con los Objetivos de Desarrollo del Milenio, el Plan Nacional y Plan Estatal.
+Los Planes Municipales diagnosticarán la situación socioeconómica y ambiental en el ámbito-municipal y sectorial, precisando las políticas públicas, objetivos y estrategias para su desarrollo, aplicando durante su vigencia el contenido de los programas operativos anuales correspondientes, procurando su concordancia con el Plan Nacional y Plan Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+Los Planes Municipales deberán alinear sus políticas públicas hacia la consecución del Desarrollo Social, Desarrollo Humano y Objetivos de Desarrollo del Milenio.
+
+De igual forma deberán considerar políticas públicas transversales con enfoques de igualdad de género, respeto a los derechos humanos y sustentabilidad.
+
+Para la elaboración de sus Planes Municipales los Ayuntamientos deberán observar la metodología del marco lógico.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 29.
 
-Los Planes Municipales serán elaborados por cada uno de los Ayuntamientos que conforman al Estado de Chiapas, quienes deberán remitirlos al H. Congreso del Estado para su examen y aprobación correspondiente, dentro de los cuatro meses a partir del inicio de la administración municipal. Posteriormente serán publicados en la gaceta municipal por los respectivos ayuntamientos, y su vigencia no excederá del período constitucional.
+Los Planes Municipales serán elaborados por cada uno de los Ayuntamientos que conforman al Estado de Chiapas, quienes deberán remitirlos al Congreso para su examen y aprobación correspondiente, dentro de los seis meses contados a partir del inicio de la administración municipal, siempre y cuando los periodos constitucionales de la gestión estatal y municipal coincidan en su renovación. Para el caso de aquellos Ayuntamientos cuyo periodo constitucional no sea coincidente con la renovación de la gestión estatal, el plazo será de cuatro meses a partir del inicio de dicha administración. En caso de que el Congreso no se pronuncie en dicho plazo, los planes municipales que hayan sido presentados se entenderán aprobados.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+Para el examen y aprobación correspondiente, el Congreso deberá conocer previamente la metodología adoptada por cada Ayuntamiento en un término no mayor a 30 días naturales contados a partir del inicio de la administración municipal. Por su parte el Congreso dispondrá de 60 días naturales a partir de la recepción de los Planes Municipales para examinarlos y aprobarlos.
 
-Los Ayuntamientos deberán en sus Planes Municipales, alinear las políticas públicas en materia de desarrollo social a los objetivos de desarrollo del milenio para incrementar el índice de desarrollo humano de su población.
+Aquellos Ayuntamientos cuyos Planes Municipales no resulten aprobados, contarán con un término de quince días naturales para atender las observaciones que les hayan sido formuladas por el Congreso, mismo que deberá pronunciarse sobre el cumplimiento de las observaciones dentro de los quince días naturales siguientes. Posteriormente los planes municipales aprobados por el Congreso serán publicados en la gaceta municipal por los respectivos ayuntamientos, y su vigencia no excederá del periodo constitucional.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+Los ayuntamientos que no hayan presentado sus Planes Municipales o que no fueron aprobados, ni solventaron las observaciones emitidas por el Congreso, estarán sujetos a la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-Los Programas Municipales, detallarán al Plan Municipal, identificando y estableciendo un orden lógico de proyectos que respondan a objetivos y estrategias del Plan Municipal, con metas, responsables e indicadores objetivamente verificables. Tendrán una visión de mediano plazo y contribuirán al cumplimiento del Plan Municipal.
+Los Programas Municipales, detallarán al Plan Municipal, identificando y estableciendo un orden lógico de proyectos que respondan a objetivos y estrategias del Plan Municipal, con metas responsables e indicadores objetivamente verificables. Tendrán una visión de mediano plazo y contribuirán al cumplimiento del Plan Municipal. Dichos Programas deberán observar la metodología del marco lógico.
 
 ###### Artículo 31.
 
 Los Programas Municipales, en cuyas acciones participe de manera directa la administración pública estatal, serán elaborados conjuntamente con las dependencias y organismos involucrados.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 32.
 
-El Programa Operativo Anual que elabore la administración pública municipal, deberá especificar y detallar objetivos, acciones, metas y beneficiarios expresados en unidades de medida; indicadores, costos, ubicación geográfica de la aplicación, y períodos de ejecución; se elaborarán para cada ejercicio fiscal y su propósito será cumplir la etapa de ejecución del Plan Municipal y sus programas de mediano plazo.
+El Programa Operativo Anual que elabore la Administración Pública Municipal, deberá guardar congruencia y alinearse con los Planes Municipales y Programas que de ellos deriven.
 
-Los Planes Municipales, deberán considerar las políticas transversales del desarrollo, incluyendo las de equidad de género y medio ambiente.
+Se elaborarán en cada ejercicio fiscal, con la finalidad de instrumentar los planes y programas municipales, así como de permitir el seguimiento de las acciones, indicadores y metas mediante el detalle de beneficiarios, costos, tiempos de ejecución y ubicación geográfica de las obras o acciones ejecutadas.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 32 Bis.
+
+Los informes de evaluación de cumplimiento de los planes municipales, deberán ser presentados al Congreso, dentro de los primeros tres meses del último año de calendario del periodo constitucional del ayuntamiento.
 
 ### Capítulo V. Vertientes de la planeación
 
@@ -597,17 +637,15 @@ VII. Operar y coordinar las acciones del COPLADE;
 
 VIII. Promover y coordinar la investigación y capacitación para la planeación;
 
-> <small>(F. DE E., P.O. 27 DE ABRIL DE 2005)</small>
+IX. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2014)
 
-IX. Definir las políticas financieras, fiscales y crediticias para la ejecución del Plan Estatal y los Programas que de este se deriven;
+X. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2014)
 
-X. Definir la captación de recursos del Estado y las participaciones municipales, necesarias para la ejecución del Plan Estatal, los Planes Municipales y los Programas que de estos se deriven;
+XI. (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2014)
 
-XI. Supervisar que las operaciones en que se haga uso del crédito público, se cumpla con el Plan Estatal, los Planes Municipales y los Programas que de estos se deriven;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
-
-XII. Evaluar anualmente el Plan Estatal, así como los planes regionales y sectoriales para el desarrollo del Estado. Dicha evaluación deberá ser presentada al H. Congreso del Estado en el mes de mayo y deberá ser utilizada como insumo para la adecuación y perfeccionamiento de dichos planes y podrá ser utilizada como insumo para la formulación del nuevo Plan Estatal.
+XII. Evaluar el nivel de cumplimiento del Plan Estatal, los Programas Regionales y Especiales.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -617,17 +655,39 @@ XIII. Promover y vigilar el debido cumplimiento de la presente ley.
 
 XIV. Vigilar que las actividades y funciones de las dependencias y entidades de la Administración Pública Estatal, se apeguen y cumplan con los objetivos y estrategias establecidos en el Plan Estatal.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-XV. Modernizar la administración pública para garantizar el cumplimiento del Plan Estatal y un mejor ejercicio del proceso de planeación para el desarrollo; y,
+XV. Coadyuvar en la modernización de la Administración Pública para garantizar el cumplimiento del Plan Estatal y un mejor ejercicio del proceso de planeación para el desarrollo.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
 XVI. Las que señale la Ley Orgánica de la Administración Pública del Estado de Chiapas y demás ordenamientos e instrumentos normativos en la materia.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 42 Bis.
+
+A la Secretaría de Hacienda le corresponden las siguientes atribuciones:
+
+I. Definir las políticas financieras, fiscales y crediticias para la ejecución del Plan Estatal y los Programas que de estos se deriven.
+
+II. Definir la captación de recursos del Estado y las participaciones municipales, necesarias para la ejecución del Plan Estatal, los Planes Municipales y los Programas que de estos se deriven.
+
+III. Supervisar que en las operaciones en que se haga uso del crédito público, se cumpla con el Plan Estatal, los Planes Municipales y los Programas que de estos se deriven.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 43.
 
-(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2010)
+Al Congreso le corresponde:
+
+I. Contribuir en la construcción del Sistema Estatal de Planeación Democrática.
+
+II. Promover la participación de los sectores social y privado, en el proceso de Planeación Democrática del Estado.
+
+III. Examinar y aprobar el Plan Estatal y los Programas Sectoriales, Especiales y Regionales, así como los Planes Municipales, acorde a la metodología, lineamientos y herramientas que sean útiles para tales efectos y acordadas previamente con la Secretaría.
+
+IV. Emitir opinión de la evaluación del nivel de cumplimiento del Plan Estatal y los Programas Sectoriales, Especiales y Regionales, así como de los Planes Municipales, acorde a la metodología, lineamientos y herramientas que sean útiles para tales efectos y acordadas previamente con la Secretaría.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -693,6 +753,14 @@ II. Formular, ejecutar, controlar y evaluar el Plan Municipal y los Programas qu
 
 III. Fortalecer la participación de los sectores social y privado, en el proceso de planeación municipal.
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Remitir los Planes Municipales de Desarrollo al Congreso, para su aprobación.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+V. Enviar la evaluación sobre el nivel de cumplimiento del Plan Municipal de Desarrollo, al Congreso para que emita la opinión correspondiente.
+
 ### Capítulo VII
 
 De la Participación Social.
@@ -715,9 +783,11 @@ IV. Participe en la vigilancia y control en la ejecución de las obras y accione
 
 V. Participe en la evaluación de los resultados de la planeación, en el ámbito local.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 50.
 
-A convocatoria del Ejecutivo, que emita a través de sus dependencias y entidades, podrán, participar como órganos de consulta especializada y permanente en el proceso de planeación, en aspectos relacionados con su actividad, las organizaciones representativas, grupos populares, instituciones académicas y de investigación, organismos empresariales y demás agrupaciones sociales y privadas.
+Mediante convocatoria del sector público, podrán participar en los procesos de planeación de la Entidad, las instituciones académicas y de investigación a nivel local, nacional e internacional, quienes figurarán como órganos de consulta técnica especializada.
 
 ###### Artículo 51.
 
@@ -759,9 +829,9 @@ I. Proporcionar insumos de información, que apoyen el proceso de planeación;
 
 II. Facilitar las tareas de dicho proceso en sus diferentes etapas, apoyando acciones y decisiones;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-III. Establecer y actualizar de manera colegiada los valores estadísticos para los indicadores de los Objetivos de Desarrollo del Milenio, a nivel Estatal y Municipal.
+III. Establecer y actualizar de manera colegiada los valores estadísticos para los indicadores de interés estatal y para el seguimiento del Plan Estatal de Desarrollo y de los Planes Sectoriales a nivel estatal y municipal.
 
 IV. Actualizar y enriquecer los métodos y técnicas aplicadas en la formulación, instrumentación, control y evaluación de planes y programas;
 
@@ -782,6 +852,52 @@ VIII. Identificar y analizar las características en materia de ocupación y apr
 IX. Formular el diagnóstico territorial y diseñar los escenarios de uso y aprovechamiento del territorio.
 
 X. (F. DE E., P.O. 27 DE ABRIL DE 2005)
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Compilar y difundir la información estadística y geográfica oficial a los sectores público, social y privado para enriquecer los procesos de planeación y toma de decisiones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+### Capítulo IX. Del Sistema Estatal de Seguimiento y Evaluación
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 54.
+
+El Sistema Estatal de Seguimiento y Evaluación es un mecanismo de coordinación institucional en el que participan los organismos públicos que intervienen en el Sistema, a través del cual se genera información cuantitativa y cualitativa para retroalimentar el proceso de planeación e incidir en la toma de decisiones para corregir, fortalecer y mejorar en la práctica, la implementación de las políticas públicas del Plan Estatal para lograr su cumplimiento.
+
+En su funcionamiento podrán participar las representaciones de las delegaciones federales y de los Ayuntamientos, así como los sectores social y privado, bajo el esquema de organización que marca el Sistema.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 55.
+
+El seguimiento en la Administración Pública Estatal es la acción y efecto que permitirá lograr el cumplimiento de los objetivos en cada uno de los niveles de la gestión pública.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 56.
+
+La evaluación es un análisis oportuno de los resultados obtenidos en la gestión gubernamental, que permite orientar y sustentar la toma de decisiones para el correcto ejercicio del gasto público.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 57.
+
+Corresponderá a la Secretaría, la coordinación y operación del Sistema Estatal de Seguimiento y Evaluación.
+
+Para su funcionamiento se apoyará en sistemas administrativos e informáticos para la integración, administración, análisis y evaluación efectiva de:
+
+a) Acciones del gasto de inversión pública de los tres órdenes de gobierno.
+
+b) Indicadores de la gestión gubernamental.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 58.
+
+Para los efectos de esta Ley, en lo general, en las etapas del proceso de planeación, en el Sistema se implementarán mecanismos de seguimiento y evaluación, a nivel institucional, sectorial, regional y estatal, observando como mínimo los instrumentos establecidos en el artículo 13 de esta Ley.
 
 T r a n s i t o r i o
 
@@ -832,3 +948,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las Dependencias facultadas en la materia, realizarán las adecuaciones correspondientes a la normatividad reglamentaria, en un término no mayor a treinta días contados a partir de la publicación del presente Decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que el presente Decreto y que se opongan al contenido del mismo.
