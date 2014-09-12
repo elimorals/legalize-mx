@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-la-venta-y-consumo-de-bebidas-57675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-23"
-last_updated: "2007-11-23"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMER TRANSITORIO DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de noviembre 2007.
 
@@ -1282,3 +1284,15 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Se abroga el Reglamento que regula la venta y/o consumo de bebidas alcohólicas en el municipio de San Pedro Garza García, Nuevo León aprobado en la Sesión Ordinaria del Republicano Ayuntamiento el dia 20 de noviembre de 2007 y publicado el 23 de noviembre del año 2007 en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se aprueba el REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en los términos que se exponen en el contenido del presente escrito.
+
+TERCERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Se abrogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
