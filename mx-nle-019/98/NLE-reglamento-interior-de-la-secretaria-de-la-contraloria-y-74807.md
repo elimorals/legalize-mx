@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2014-04-02"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 12 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -185,15 +185,9 @@ IV.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
 Son indelegables las atribuciones señaladas en el artículo 32 del Reglamento Orgánico.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-CAPIÍTULO (SIC) V
-
-DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE AUDITORÍA Y CONTROL INTERNO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
-
-### CAPITULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE PROCEDIMIENTOS DE RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO V. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE AUDITORÍA Y CONTROL INTERNO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -227,7 +221,7 @@ IX.- Requerir a los titulares de las entidades fiscalizadas la información y do
 
 IX (SIC).- Las demás atribuciones que le asigne el Contralor.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 11.
 
@@ -235,7 +229,7 @@ La Dirección de Auditoría y Control Interno contará con la siguiente estructu
 
 I.- Director
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 II.- Supervisor de Auditoría y Supervisor de Obra Pública;
 
@@ -243,21 +237,21 @@ III.- Auditores;
 
 IV.- Auditor de Obra Pública; y,
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 V.- Jefe de Control Interno y Auxiliares Administrativos de Control Interno; y el demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE NORMATIVIDAD, TRANSPARENCIA Y CUENTA PÚBLICA
 
-### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE CONTROL Y SEGUIMIENTO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
-
 ###### Artículo 12.
 
-La Dirección de Procedimientos de Responsabilidades Administrativas tendrá a su cargo el ejercicio de las siguientes atribuciones:
+La Dirección de Procedimientos de Responsabilidad Administrativa tendrá a su cargo el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -265,7 +259,7 @@ I.- Previa instrucción del Contralor, deberá instrumentar las investigaciones 
 
 II.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
-III.- Dar atención y seguimiento a las quejas y denuncias recibidas en contra de los servidores públicos.
+III.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2014)
 
 IV.- (DEROGADA, P.O. 2 DE ABRIL DE 2014)
 
@@ -281,21 +275,25 @@ VIII.- Recibir y tramitar los recursos que sean competencia de la Contraloría, 
 
 IX.- Las demás atribuciones que le asigne el Contralor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-La Dirección Jurídica contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
+La Dirección de Procedimientos de Responsabilidad Administrativa contará con la siguiente estructura jerarquizada para el desempeño de sus funciones:
 
 I.- Director;
 
 II.- Coordinador;
 
-III.- Asistentes jurídicos; y,
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+III.- Jefe Jurídico y;
 
 IV.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-### CAPÍTULO VIII BIS. DEL ÓRGANO SANCIONADOR
+### CAPÍTULO VIII. DE LAS ATRIBUCIONES DE LA COORDINACIÓN DE CONTROL Y SEGUIMIENTO
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 14.
 
@@ -349,7 +347,9 @@ V.- El demás personal administrativo necesario para su funcionamiento, de acuer
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2014)</small>
 
-### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA CONTRALORÍA
+### CAPÍTULO VIII BIS. DEL ÓRGANO SANCIONADOR
+
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -373,7 +373,7 @@ VIII. Las demás atribuciones que le asigne el Contralor.
 
 > <small>(ADICIONADO CON LOS TÍTULOS, DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
-### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA CONTRALORÍA
 
 ## TÍTULO PRIMERO. DE LA COMISIÓN DE HONOR Y JUSTICIA EN MATERIA DE SEGURIDAD MUNICIPAL
 
@@ -555,11 +555,11 @@ Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrit
 
 El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia y se substanciará en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
 
-### CAPÍTULO XI. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 17.
 
-Durante la ausencia temporal del Contralor, la cual no deberá exceder de 8-ocho días hábiles, los asuntos de trámite quedarán a cargo del Director que para tal efecto designe, en caso de ausencia definitiva los asuntos quedarán a cargo del Director que para tal efecto designe el Republicano Ayuntamiento; y (sic)
+Durante la ausencia temporal del Contralor, la cual no deberá exceder de 8-ocho días hábiles, los asuntos de trámite quedarán a cargo del Director que para tal efecto designe, en caso de ausencia definitiva los asuntos quedarán a cargo del Director que para tal efecto designe el Republicano Ayuntamiento; y
 
 ###### Artículo 18.
 
@@ -682,3 +682,13 @@ Artículo Segundo.-...
 Artículo Tercero.-...
 
 Artículo Cuarto.-... "
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- Las reformas al presente Reglamento entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- …..
+
+Artículo Tercero.- ….
+
+Artículo Cuarto.- ….
