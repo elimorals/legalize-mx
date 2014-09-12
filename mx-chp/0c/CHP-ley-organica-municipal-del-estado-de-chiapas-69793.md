@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2014-05-07"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -33,7 +33,7 @@ Decreto Número 185
 
 La Honorable Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o...
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -349,15 +349,25 @@ Las actas de cabildo debidamente firmadas por el Presidente Municipal y los mun�
 
 ### Capítulo V. De las Atribuciones de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 36.
 
-Son atribuciones de los ayuntamientos:
+Son atribuciones de los Ayuntamientos:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-I.- Formular y aprobar el programa general de Gobierno y administración correspondiente a su período, especificando sus objetivos generales y particulares; señalando la medida en que contribuirá al desarrollo integral y armónico de la comunidad; jerarquizando y calendarizando su ejecución en períodos anuales; cuantificando su monto y expresando su forma de financiamiento y pago.
+I.- Validar el proyecto del Plan Municipal de Desarrollo correspondiente a su período y enviarlo para su aprobación al H. Congreso del Estado en los términos y plazos que señala la Ley de Planeación para el Estado de Chiapas; el cual deberá especificar las políticas públicas y objetivos que contribuirán al desarrollo integral y armónico de la comunidad.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+Además aprobar el informe de evaluación de nivel de cumplimiento de su Plan Municipal de Desarrollo para su remisión al H. Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Dentro del presupuesto de egresos deberán considerar acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades mas necesitados, los cuales estarán alineados a los Objetivos de Desarrollo del Milenio.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Asimismo deberán contemplar un fondo que permita la reparación del daño a las víctimas de violación de sus derechos humanos, que se deriven de resoluciones vinculatorias de la Corte Interamericana de los Derechos Humanos o de instrumentos internacionales vinculantes de las recomendaciones aceptadas por sus autoridades, o de aquellas derivadas de procedimientos de amigable composición que impliquen la reparación del daño. En caso de que estos recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente;
 
@@ -449,9 +459,9 @@ XXXIII.- Rendir, a través del Presidente Municipal, un informe anual del Estado
 
 XXXIV.- Ordenar las mejoras que sean necesarias para las Dependencias y organismos municipales, derivado de los resultados presentados por el Presidente Municipal en las visitas que realice a aquéllas;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al titular de la Contraloría Municipal y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la oficialidad, la Gendarmería y demás Empleados de Confianza de la Policía Municipal. De igual manera procederá, en lo que hace a los responsables de la Administración Municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua;
+XXXV.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamiento, al Tesorero Municipal, al Comandante de la Policía o su equivalente, al Titular de la Contraloría Municipal; al Secretario de Planeación Municipal o su equivalente y al Cronista Municipal, concediéndoles licencias, permisos y en su caso, suspenderlos y/o removerlos por causa justificada; así como designar a la Oficialidad, la Gendarmería, y demás Empleados de Confianza de la Policía Municipal. De igual manera procederá, en lo que hace a los responsables de la Administración Municipal que se requieran incluyendo al Delegado Técnico Municipal del Agua;
 
 XXXVI.- Registrar las cauciones que otorguen el tesorero y los demás servidores públicos que manejen fondos y valores municipales;
 
@@ -539,11 +549,11 @@ LXX.- Nombrar e integrar con los munícipes, comisiones permanentes o transitori
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2011)</small>
 
-LXXI. Promover acciones que permitan evitar la emisión de gases de efecto invernadero; tales como los procesos de reconversión productiva, producción de biodiesel, implementación del plan de tratamiento de aguas residuales y relleno sanitario, programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
+LXXI.- Promover acciones que permitan evitar la emisión de gases de efecto invernadero; tales como los procesos de reconversión productiva, producción de biodiesel, implementación del plan de tratamiento de aguas residuales y relleno sanitario, programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE AGOSTO DE 2011)</small>
 
-LXXII. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+LXXII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 37.
 
@@ -633,7 +643,9 @@ Tratándose de los actos alusivos a las gestas heroicas que se conmemoran durant
 
 XIII.- Hacer del conocimiento de la población las leyes, decretos, ordenes y circulares que le remita el Gobierno del Estado y los reglamentos y demás disposiciones de observancia general del municipio, para su debida observancia y cumplimiento;
 
-XIV.- Someter a la aprobación del ayuntamiento los nombramientos del Secretario, del Tesorero, del Director de Obras, del Director de la Policía, del Titular de la Contraloría Municipal y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XIV.- Someter a la aprobación del ayuntamiento los nombramientos del Secretario, del Tesorero, del Director de Obras, del Director de la Policía, del Titular de la Contraloría Municipal, al Secretario de Planeación Municipal o su equivalente y del Cronista Municipal, así como el de los jefes de las unidades administrativas establecidas en el presupuesto de egresos;
 
 XV.- Someter a la aprobación del ayuntamiento el nombramiento y remoción de los empleados de confianza del municipio, y de acuerdo a la Ley que regule la relación laboral, a los de base;
 
@@ -669,7 +681,9 @@ XXIX.- Coadyuvar en la vigilancia de los templos, cultos y actividades religiosa
 
 XXX.- Solicitar autorización del ayuntamiento y del Congreso del Estado, o de la Comisión Permanente para ausentarse del municipio por más de quince días;
 
-XXXI.- Rendir a la población del municipio en sesión solemne de cabildo un informe pormenorizado de su gestión administrativa anual, a más tardar el último día del mes de septiembre;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XXXI.- Rendir a la población del municipio en sesión solemne de cabildo un informe pormenorizado de su gestión administrativa anual, a más tardar el último día del mes de septiembre y remitirlo al Congreso del Estado para su conocimiento.
 
 XXXII.- Vigilar la conducta oficial de los servidores públicos del municipio y corregir oportunamente las faltas que observe así como hacer del conocimiento de la autoridad competente las que a su juicio pudieren ser constitutivas de un delito;
 
@@ -689,11 +703,21 @@ XXXVIII.- Coadyuvar en la vigilancia para evitar la tala ilegal de los bosques y
 
 XXXIX.- Vigilar y coadyuvar con las autoridades competentes en la preservación, conservación y restauración de los bosques, ríos, lagos, lagunas, riberas, esteros y fauna y en general los sistemas ecológicos en sus municipios;
 
-XL. Celebrar, previa autorización del ayuntamiento, los contratos y convenios para la obtención de empréstitos, créditos, emisión de valores y demás operaciones financieras previstas en las leyes hacendarias, suscribiendo los documentos o títulos de crédito requeridos para tales efectos, así como los contratos o actos jurídicos necesarios para constituir u operar los instrumentos y mecanismos a que se refiere el artículo 36, fracción LXV, de esta Ley;
+XL.- Celebrar, previa autorización del ayuntamiento, los contratos y convenios para la obtención de empréstitos, créditos, emisión de valores y demás operaciones financieras previstas en las leyes hacendarias, suscribiendo los documentos o títulos de crédito requeridos para tales efectos, así como los contratos o actos jurídicos necesarios para constituir u operar los instrumentos y mecanismos a que se refiere el artículo 36, fracción LXV, de esta Ley;
 
 Para la formalización de dichas operaciones, los contratos, documentos y actos respectivos deberán estar suscritos, adicionalmente por el tesorero y el síndico municipal;
 
-XLI. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XLI.- Someter a la validación del ayuntamiento el proyecto de Plan Municipal de Desarrollo realizado por el Secretario de Planeación Municipal o su equivalente; para efecto de que se remita al Congreso del Estado para su aprobación.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XLII.- Presentar al Cabildo para su aprobación el informe de evaluación de nivel de cumplimiento de su Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XLIII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 41.
 
@@ -803,9 +827,13 @@ XI.- De Contratación de Obras, Adquisiciones, Arrendamientos y Servicios;
 
 XII.- De Agricultura, Ganadería y Silvicultura;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-XIII.- De equidad de género.
+XIII.- De equidad de género; y,
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+XIV.- De Planeación para el Desarrollo.
 
 ###### Artículo 47.
 
@@ -1051,17 +1079,23 @@ V.- Contraloría Municipal;
 
 VI.- Oficial Mayor;
 
-VII.- Cronista Municipal;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+VII.- Secretaría de Planeación Municipal o su equivalente;
 
-VIII.- Delegado Técnico Municipal del Agua
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+VIII.- Cronista Municipal; y,
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+IX.- Delegación Técnica Municipal del Agua.
 
 Además, contará con el personal de base y de confianza necesario, de acuerdo con el presupuesto de egresos correspondiente.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2009)</small>
 
-Asimismo, el Presidente y el Ayuntamiento se deberán auxiliar para realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado, en un organismo público que será el encargado de cumplir con los servicios de regulación y prestación de agua potable y alcantarillado en el municipio, así como de organizar y reglamentar, en su caso, la prestación de dichos servicios.
+Asimismo, el Presidente; y, el Ayuntamiento se deberán auxiliar para realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado, en un organismo público que será el encargado de cumplir con los servicios de regulación y prestación de agua potable y alcantarillado en el municipio, así como de organizar y reglamentar, en su caso, la prestación de dichos servicios.
 
 ### Capítulo II. De la Secretaría del Ayuntamiento
 
@@ -1097,7 +1131,7 @@ I.- Vigilar el adecuado despacho de los asuntos del Presidente Municipal, dictan
 
 II.- Comunicar por escrito y con la debida anticipación a los munícipes las convocatorias para las sesiones ordinarias y extraordinarias de cabildo;
 
-III.- Asistir a las sesiones del Ayuntamiento con voz y levantar las actas de las sesiones de cabildo. (sic) asentándolas en el libro autorizado para ese efecto y que estará bajo su custodia y responsabilidad;
+III.- Asistir a las sesiones del Ayuntamiento con voz y levantar las actas de las sesiones de cabildo. asentándolas en el libro autorizado para ese efecto y que estará bajo su custodia y responsabilidad;
 
 IV.- Firmar con el Presidente Municipal, los documentos y comunicaciones oficiales; así como suscribir junto con éste, previa autorización del Ayuntamiento, los convenios y contratos necesarios para el beneficio del Municipio;
 
@@ -1173,7 +1207,9 @@ Para ser Director de Obras Públicas Municipales de un ayuntamiento se requiere 
 
 Son atribuciones del Director de Obras Públicas Municipal:
 
-I.- Elaborar y proponer al Honorable Ayuntamiento el Plan de Desarrollo Municipal, proyectos productivos, presupuestos de obras, y/o proyectos, reglamentos de construcción, y demás disposiciones relacionadas con la obra pública municipal;
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+I.- Elaborar y proponer al Honorable Ayuntamiento los proyectos productivos, presupuestos de obras, y/o proyectos, reglamentos de construcción, y demás disposiciones relacionadas con la obra pública municipal;
 
 II.- La elaboración, dirección y ejecución de los programas destinados a la construcción de obras públicas y de proyectos productivos, así como el estudio y aplicación de las técnicas necesarias para la planeación, regulación y ordenación de los asentamientos humanos en el municipio, en apego a las leyes vigentes, una vez aprobado por el Ayuntamiento.
 
@@ -1189,7 +1225,7 @@ VII.- Rendir en tiempo y forma al ayuntamiento, los informes de avances físicos
 
 VIII.- Al término de cada obra y/o acción, elaborar los finiquitos y expedientes unitarios con forme (sic) a la documentación comprobatoria, según corresponda el origen del recurso. De acuerdo a la Ley de Presupuesto, Contabilidad y Gasto Público Municipal y Ley de Fiscalización Superior del Congreso del Estado;
 
-IX.- Al término de cada ejercicio fiscal presentar el cierre de ejercicio- físico financiero de las obras ejecutadas y en proceso de ejecución o trasferidas (sic) al ejercicio siguiente;
+IX.- Al término de cada ejercicio fiscal presentar el cierre de ejercicio- físico financiero de las obras ejecutadas y en proceso de ejecución o trasferidas al ejercicio siguiente;
 
 X.- Asistir a las visitas de inspección y auditorías que se practiquen a las obras y/o acciones ejecutadas o en proceso;
 
@@ -1267,11 +1303,37 @@ III.- Vigilar la correcta aplicación de los recursos financieros, conforme al p
 
 El titular de la Contraloría Municipal, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, quien ejercerá el mando directo sobre dicho titular.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+### Capítulo VI Bis. De la Secretaría de Planeación Municipal o su Equivalente
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 72 Bis.
+
+Los Ayuntamientos contarán con una Secretaría de Planeación Municipal o su equivalente; la que tendrá las siguientes atribuciones:
+
+I.- Elaborar el proyecto del Plan Municipal de Desarrollo; así como solventar las observaciones que se deriven del proceso de validación realizado por el Ayuntamiento o de aprobación por parte del Congreso del Estado;
+
+II.- Elaborar el informe de evaluación al Plan Municipal de Desarrollo que deberá presentar el Ayuntamiento al Congreso;
+
+III.- Integrar la información para elaborar el Informe de Gobierno que presentará el Presidente Municipal al Cabildo;
+
+IV.- Implementar mecanismos de monitoreo y evaluación a los programas de la administración pública municipal;
+
+V.- Auxiliar al Presidente Municipal en el cumplimiento de los objetivos plasmados en el COPLADEM así como los que se deriven del Sistema Estatal de Planeación Democrática; y,
+
+VI.- Las demás que dispongan las leyes de la materia y el Ayuntamiento a través de su normatividad interior.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 72 Ter.
+
+El titular de la Secretaría de Planeación Municipal o su equivalente, será nombrado por el Ayuntamiento a propuesta del Presidente Municipal, quien ejercerá el mando directo sobre dicho titular.
+
+Para ser Secretario de Planeación Municipal o su equivalente deberá contar con carrera universitaria terminada preferentemente en las ramas de administración, administración pública, economía, sociología o afín, preferentemente con especialidad en planeación estratégica o tener dos años comprobables de haber trabajado en materia de planeación gubernamental o municipal.
+
 ### Capítulo VII. Del Cronista Municipal
-
-### Capítulo VII Bis. Del Delegado Técnico Municipal del Agua
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 73.
 
@@ -1329,7 +1391,9 @@ XIV. Las demás que le confieran esta ley, reglamentos, el ayuntamiento o demás
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
-### Capítulo VIII. De la Hacienda Municipal
+### Capítulo VII Bis. Del Delegado Técnico Municipal del Agua
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 75 Bis.
 
@@ -1367,7 +1431,7 @@ IX.- 'Comunicar a las Autoridades Municipales y Organismos Públicos normativos 
 
 X.- Hacer del conocimiento de las autoridades locales las acciones realizadas para procurar agua de calidad.
 
-### Capítulo IX. De los Servicios Públicos
+### Capítulo VIII. De la Hacienda Municipal
 
 ###### Artículo 76.
 
@@ -1459,9 +1523,7 @@ II.- Detectar cualquier irregularidad en perjuicio del fisco municipal o los con
 
 III.- Investigar si tanto el Tesorero como sus empleados cumplen con sus obligaciones y atienden al público con la debida diligencia.
 
-### Capítulo X. De la Administración Pública Paramunicipal
-
-> <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 2010)</small>
+### Capítulo IX. De los Servicios Públicos
 
 ###### Artículo 85.
 
@@ -1497,7 +1559,9 @@ IX. Los demás que determine el Congreso del Estado, tomando en cuenta las condi
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2010)</small>
 
-### Capítulo Único. De los Contratos Administrativos
+### Capítulo X. De la Administración Pública Paramunicipal
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 2010)</small>
 
 ###### Artículo 87.
 
@@ -1569,7 +1633,7 @@ En lo no previsto, le serán aplicables las disposiciones señaladas en esta ley
 
 ## Título IV. De los Actos Administrativos Municipales
 
-### Capítulo I. Del Patrimonio del Municipio
+### Capítulo Único. De los Contratos Administrativos
 
 ###### Artículo 88.
 
@@ -1581,7 +1645,7 @@ Los Ayuntamientos tendrán derecho de preferencia para adquirir los inmuebles qu
 
 ## Título V. De los Bienes del Municipio
 
-### Capítulo II. De los Bienes del Dominio Público
+### Capítulo I. Del Patrimonio del Municipio
 
 ###### Artículo 90.
 
@@ -1591,7 +1655,7 @@ I.- Bienes del dominio público; y,
 
 II.- Bienes del dominio privado.
 
-### Capítulo III. De los Bienes de Dominio Privado
+### Capítulo II. De los Bienes del Dominio Público
 
 ###### Artículo 91.
 
@@ -1611,7 +1675,7 @@ V.- Los muebles propiedad del municipio que por su naturaleza, no sean normalmen
 
 Los bienes inmuebles de dominio público, son inalienables e imprescriptibles, solo podrán ser enajenados conforme a las disposiciones jurídicas aplicables, y previo decreto de desincorporación dictado por el Congreso del Estado, cuando dejen de servir para el fin al que hayan sido destinados.
 
-### Capítulo I. De los Asentamientos Humanos
+### Capítulo III. De los Bienes de Dominio Privado
 
 ###### Artículo 93.
 
@@ -1633,7 +1697,7 @@ Corresponde al Ayuntamiento, previo acuerdo del Congreso del Estado, administrar
 
 ## Título VI. De los Asentamientos Humanos
 
-### Capítulo II. De las Obras Públicas
+### Capítulo I. De los Asentamientos Humanos
 
 ###### Artículo 95.
 
@@ -1765,7 +1829,7 @@ III.- La Comisión Consultiva de Desarrollo Urbano del Estado; y,
 
 IV.- Los Consejos de Participación y Colaboración Vecinal Municipal.
 
-### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
+### Capítulo II. De las Obras Públicas
 
 ###### Artículo 104.
 
@@ -1805,7 +1869,7 @@ El Órgano de Fiscalización Superior del Congreso del Estado, en ejercicio de l
 
 ## Título VII. De los Consejos de Participación y Colaboración Vecinal
 
-### Capítulo Único. De la Justicia Municipal
+### Capítulo Único. De los Consejos de Participación y Colaboración Vecinal
 
 ###### Artículo 107.
 
@@ -2039,7 +2103,7 @@ XX.- Las demás que le confieran la presente ley los reglamentos y bandos munici
 
 ## Título VIII. De la Justicia Municipal
 
-### Capítulo I. De la Reglamentación de la Administración Pública Municipal
+### Capítulo Único. De la Justicia Municipal
 
 ###### Artículo 130.
 
@@ -2055,7 +2119,7 @@ Los Jueces Municipales durarán en su encargo el tiempo para el que haya sido el
 
 ## Título IX. De la Legislación Municipal
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De la Reglamentación de la Administración Pública Municipal
 
 ###### Artículo 133.
 
@@ -2215,7 +2279,7 @@ I.- Ser de naturaleza legislativa autónoma;
 
 II.- Desvirtuar, modificar o alterar el contenido de una disposición de observancia general.
 
-### Capítulo I. De las Suplencias
+### Capítulo II. De las Sanciones
 
 ###### Artículo 151.
 
@@ -2243,7 +2307,7 @@ b).- Revocación de la concesión, licencia o permiso.
 
 ## Título X. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
-### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
+### Capítulo I. De las Suplencias
 
 ###### Artículo 152.
 
@@ -2267,7 +2331,7 @@ Las faltas temporales de los agentes y subagentes municipales serán suplidas po
 
 Los titulares de las dependencias serán suplidos por quien designe el Presidente Municipal.
 
-### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
+### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
 
 ###### Artículo 155.
 
@@ -2289,7 +2353,7 @@ En los recesos del Congreso del Estado, la Comisión Permanente, con la aprobaci
 
 Si el Congreso del Estado declara que ha desaparecido un ayuntamiento, instalará de inmediato un Consejo Municipal con el número de integrantes que la Constitución del Estado señala, de entre los miembros del consejo que se designen, en el momento de su instalación, se elegirán a las personas que habrán de desempeñar las funciones de Presidente del Consejo, Síndico y Regidores. Los Consejos Municipales tendrán las mismas atribuciones que esta ley confiere a los Ayuntamientos y concluirá el período correspondiente.
 
-### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
+### Capítulo III. De la Suspensión Definitiva de los Integrantes de los Ayuntamientos
 
 ###### Artículo 160.
 
@@ -2319,7 +2383,7 @@ En el caso de que la totalidad de los integrantes del ayuntamiento se encuentren
 
 Cuando por cualesquier otras causas no comprendidas en esta Ley, el Ayuntamiento dejare de funcionar normalmente, desacate reiteradamente la Legislación Estatal o Federal, o quebrante los principios del régimen federal o de la Constitución Política del Estado, el Congreso del Estado lo suspenderá definitivamente, nombrara un consejo municipal en los términos de la presente ley, y demás disposiciones aplicables.
 
-### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
+### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
 ###### Artículo 162.
 
@@ -2327,7 +2391,7 @@ El cargo conferido a alguno de los integrantes del Ayuntamiento solo podrá ser 
 
 En caso de que el encargo del integrante del Ayuntamiento fuere revocado, el Congreso designará dentro de los integrantes que quedaren las sustituciones procedentes.
 
-### Capítulo Único. De la Readaptación Social
+### Capítulo V. Responsabilidad de los Servidores Públicos Municipales
 
 ###### Artículo 163.
 
@@ -2343,7 +2407,7 @@ Se concede acción popular, sin necesidad de constituirse en parte, para denunci
 
 ## Título XI. De la Readaptación Social
 
-### Capítulo Único. De los Recursos Administrativos
+### Capítulo Único. De la Readaptación Social
 
 ###### Artículo 166.
 
@@ -2386,6 +2450,8 @@ VI.- Poner en libertad a la persona aprehendida, una vez transcurridas 36 horas 
 VII.- Las demás que le confieran esta ley, sus reglamentos y demás disposiciones legales aplicables.
 
 ## Título XII. De los Recursos Administrativos
+
+### Capítulo Único. De los Recursos Administrativos
 
 ###### Artículo 170.
 
@@ -2498,3 +2564,11 @@ P.O. 7 DE MAYO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero.- Los Ayuntamientos llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, con plena observancia a las disposiciones aplicables.
