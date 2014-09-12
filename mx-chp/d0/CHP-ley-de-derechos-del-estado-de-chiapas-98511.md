@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-98511"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2013-12-31"
+last_updated: "2014-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2013.
 
@@ -1530,6 +1530,18 @@ IV. Revalidación del permiso para la apertura,
 instalación y funcionamiento de establecimientos
 
 mutuantes. 550.0
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+
+El pago de derechos a que se refiere
+
+esta fracción, se realizará en dos exhibiciones,
+
+la primera a más tardar el 30 de mayo
+
+y la segunda a más tardar el 30 de septiembre
+
+de cada ejercicio fiscal.
 
 V. Modificación del permiso para la apertura,
 
@@ -3816,3 +3828,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta y un días del mes de diciembre del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
