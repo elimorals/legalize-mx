@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-los-procesos-internos-de-seleccion-de-75066"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2010-05-06"
+last_updated: "2014-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCION DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCION DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -93,135 +93,63 @@ Lic. Griselda Beatriz Rangel Juárez
 
 Secretario Técnico
 
+> <small>N. DE E. EL ACUERDO NÚMERO IEPC-ACG-017/2014, EXPEDIDO POR EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO, CAMBIANDO DE DIECISÉIS A NUEVE ARTÍCULOS.</small>
+
 REGLAMENTO DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS Y PRECAMPAÑAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
 1. Las disposiciones de este Reglamento son de orden público y de observancia general en el territorio del Estado de Jalisco y tienen por objeto regular el procedimiento mediante el cual los institutos políticos informarán al Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y reglamentar los preceptos del Código Electoral y de Participación Ciudadana del Estado de Jalisco, respecto de:
 
-a) Las actividades de los aspirantes a candidatos a cargos de elección popular o precandidatos,
+a). Las actividades de los aspirantes a candidatos a cargos de elección popular o precandidatos de los partidos políticos;
 
-b) Los procesos internos de selección de candidatos; y
+b) Los procesos internos de selección de candidatos; de los partidos políticos y;
 
 c) Las precampañas electorales.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
 1. La interpretación del presente reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el Código.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
-
-1. En los actos de precampaña electoral que realicen los partidos políticos o coaliciones a través de sus aspirantes a candidatos, militantes o simpatizantes, deberá observarse lo previsto por la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, así como las disposiciones aplicables del Código.
-
-### CAPÍTULO II. DEL REGISTRO DE PRECANDIDATOS
-
-###### Artículo 4.
 
 1. Para los efectos del presente Reglamento se entenderá por:
 
-I. Actos de precampaña: Las reuniones públicas, asambleas, marchas y en general aquellos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener, su respaldo para ser postulados como candidato a un cargo de elección popular. Se considerarán actos de precampaña de los partidos políticos, aquéllos que tengan como objetivo fundamental la presentación de su plataforma electoral y en el que se realice la promoción de algún precandidato inscrito en el proceso interno de selección de candidatos;
+I. Código: El Código Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-II. Código: El Código Electoral y de Participación Ciudadana del Estado de Jalisco;
+II. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-III. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+III. Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-IV. Informe de gastos de precampaña: Aquellos informes financieros que deberán rendir los partidos políticos, al Consejo General, a través de la Unidad de Fiscalización, especificando el origen, destino y monto de los recursos utilizados por los precandidatos y los mismos institutos políticos, en términos de lo establecido por el Código;
+IV. Reglamento: El Reglamento de los Procesos Internos de Selección de Candidatos y Precampañas; y,
 
-V. Instituto: El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Precampaña: El conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido o coalición;
+### CAPÍTULO II. DEL REGISTRO DE PRECANDIDATOS
 
-VII. Precandidato: Ciudadano que pretende ser postulado por un partido político o coalición como candidato a cargo de elección popular, conforme al Código Electoral y a los estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular;
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Proceso de selección interna de candidatos: Conjunto de etapas y actos realizados por los partidos políticos al interior de su organización cuyo fin primordial es la determinación de los candidatos que serán registrados para contender en las elecciones respectivas de acuerdo a lo previsto por sus estatutos y su normatividad interna;
+###### Artículo 4.
 
-IX. Propaganda política: Medio a través del cual los partidos políticos difunden su ideología, programas y acciones con el fin de influir en los ciudadanos para que adopten determinadas conductas sobre temas de interés social, y que no se encuentran necesariamente vinculadas a una contienda electoral;
+1. Recibida la determinación a que se refiere el artículo 229, párrafo 2 del Código el Secretario Ejecutivo procederá a su análisis para verificar si cumple con los extremos señalados en dicho precepto legal.
 
-X. Reglamento: El Reglamento de los Procesos Internos de Selección de Candidatos y Precampañas; y,
+En caso de incumplir con alguno de ellos, dictará un acuerdo en el que prevenga al partido político promovente para que, dentro del términos (sic) de cuarenta y ocho horas siguientes a que se practique la notificación respectiva, subsane la irregularidad u omisión detectada, bajo el apercibimiento que en caso de no hacerlo, se le iniciará el procedimiento sancionador correspondiente por incumplimiento a las obligaciones del Código.
 
-XI. Unidad de Fiscalización: Unidad de Fiscalización de los Recursos de los Partidos Políticos.
+2. Una vez que se tengan por cumplidos los requisitos de ley el Secretario Ejecutivo dictará acuerdo haciendo constar dicho cumplimiento, e informará al Consejo General dicha circunstancia.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
-
-1. Cada partido político conforme a sus estatutos determinará, con al menos treinta días de anticipación al inicio formal de los procesos internos para la selección de candidatos a cargos de elección popular, el procedimiento aplicable para los mismos.
-
-2. Quienes participen en el proceso interno de algún partido político, no podrán ser postulados como candidatos por otro instituto político, durante el mismo proceso electoral de que se trate.
-
-### CAPÍTULO III. DE LAS PRECAMPAÑAS
-
-###### Artículo 10.
-
-1. El periodo de precampaña de cada partido político dará inicio en la fecha que para tal efecto se establezca en el informe que cada instituto político haya presentado ante la autoridad electoral, y concluirá a más tardar en la fecha límite que para tal efecto señala el Código, tratándose de proceso electoral ordinario o de conformidad con el acuerdo que emita el Consejo General en proceso extraordinario, según corresponda a la elección a desarrollarse.
-
-###### Artículo 11.
-
-1. El Instituto podrá reconocer el inicio de una precampaña, aún cuando el aspirante a candidato no informe el inicio de la misma y sean públicos y notorios los actos y gastos de precampaña.
-
-2. Una vez que se haya informado o, en su caso, reconocido el inicio de una precampaña, el aspirante a candidato quedará sujeto ante el Instituto, a las obligaciones previstas por el Código, los estatutos de su partido y este Reglamento, para lo cual se deberá considerar la totalidad de los actos realizados desde el inicio y hasta la conclusión de la precampaña.
-
-###### Artículo 12.
-
-1. Los ciudadanos que participen en procesos de selección interna de candidatos de los partidos políticos, deberán informar de manera clara en la emisión y difusión de su propaganda, que ésta, es emitida dentro de un proceso interno de selección de candidatos del partido político por el cual pretenda ser postulado.
-
-###### Artículo 13.
-
-1. Los partidos políticos deberán retirar la propaganda política que sus precandidatos hubieran colocado en espacios públicos o vialidades, a más tardar a los quince días naturales posteriores a la conclusión del periodo de precampaña.
-
-En caso de que dicha propaganda no sea retirada por los partidos políticos, el Instituto se encargará de su retiro, directamente o a través de terceros y descantará las erogaciones que se hayan efectuado con tal motivo, de la prerrogativa de financiamiento público al desarrollo de sus actividades ordinarias que le corresponda para el partido político infractor, para el mes siguiente de aquél en que se debió retirar la propaganda.
-
-###### Artículo 14.
-
-1. Una vez concluido el proceso de selección interna de candidatos, y dentro de los tres días siguientes, los partidos políticos presentarán al Instituto, una lista que contenga el nombre de cada uno de los precandidatos ganadores a los cargos de Gobernador, Diputados y Presidentes Municipales, debiendo anexar las constancias que acrediten a éstos como los electos en el proceso interno.
-
-### CAPÍTULO IV. DE LOS TOPES DE GASTOS DE PRECAMPAÑA
-
-###### Artículo 15.
-
-1. Los topes de gastos de las precampañas de cada elección, se determinarán por el Consejo General para el cargo de elección popular a seleccionarse. El tope de cada elección deberá considerarse como una unidad para cada partido político, quien deberá de distribuirlo conforme a sus estatutos, documentos internos o convocatoria, entre todos los precandidatos que participen en el proceso de selección interna de candidatos.
-
-###### Artículo 16.
-
-1. El origen, monto y aplicación de los recursos de precampaña, así como el procedimiento para la revisión, fiscalización, dictamen y resolución de los informes de gastos de precampaña se realizará conforme a lo establecido por el Código y el reglamento aplicable en materia de fiscalización de precampañas electorales.
-
-T R A N S I T O R I O:
-
-ÚNICO.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-###### Artículo 6.
-
-1. Los partidos políticos deberán informar por escrito al Instituto de manera completa, clara y precisa, el procedimiento aplicable para la selección de sus candidatos, dicho ocurso lo presentará a través de sus representantes, dentro de las setenta y dos horas siguientes de haber sido aprobado, según la elección de que se trate, señalando:
-
-a) La fecha del inicio del proceso interno;
-
-b) El método o métodos que serán utilizados, debiendo explicar en qué consistirán éstos;
-
-c) El método que se va utilizar para el caso de que haya sustitución de candidatos;
-
-d) La fecha para la expedición de la convocatoria;
-
-e) Los plazos que comprenderá cada fase del proceso interno;
-
-f) Los órganos de dirección responsables de su conducción y vigilancia; y,
-
-g) En su caso la fecha de celebración de la asamblea electoral Estatal, Distrital, Municipal o de realización de la jornada comicial interna o directa a la ciudadanía.
-
-###### Articulo 7.
-
-1. Recibido el informe señalado en el artículo anterior, en la Oficialía de Partes del Instituto, el Secretario Ejecutivo lo remitirá a la Comisión de Prerrogativas, la que procederá a su análisis para verificar si cumple con los extremos señalados en dicho precepto reglamentario.
-
-En caso de incumplir con alguno de ellos, el Secretario Ejecutivo dictará un acuerdo administrativo en el que prevenga al partido político promovente para que, dentro del términos de cuarenta y ocho horas siguientes a que se practique la notificación respectiva, subsane la irregularidad u omisión detectada, bajo el apercibimiento que en caso de no hacerlo, se le iniciará el Procedimiento Sancionador Ordinario correspondiente por incumplimiento a las obligaciones del Código.
-
-2. Una vez que se tengan por cumplidos los requisitos señalados en el artículo 6 del presente reglamento, la Comisión de Prerrogativas lo comunicará al Secretario Ejecutivo quien dictará acuerdo administrativo haciendo constar dicho cumplimiento, e informará al Consejo General dicha circunstancia.
-
-###### Artículo 8.
-
-1. Los partidos políticos harán uso del tiempo en radio y televisión que les asigne el Comité de Radio y Televisión que conforme a la normatividad aplicable les corresponda, para la difusión de sus procesos de selección interna de candidatos, debiendo identificar en ella, que se trata de propaganda emitida dentro de un proceso interno de selección de candidatos.
-
-2. Los partidos políticos podrán difundir en cualquier momento propaganda política conforme a los limites fijados en el Código, siempre y cuando no promueva candidaturas, solicite el voto a su favor para la jornada electoral o incluya de manera expresa mensajes alusivos al proceso electoral local correspondiente.
-
-###### Artículo 9.
 
 1. Cada partido político, dentro de las setenta y dos horas siguientes de haber aprobado el registro de precandidatos, presentará por escrito al Instituto la relación del o los aspirantes que hayan obtenido su registro para contender en el proceso interno, misma que contendrá:
 
@@ -231,6 +159,46 @@ b) Nombre completo de los precandidatos;
 
 c) Cargo para el que contienden;
 
-d) Firma del representante del partido político ante el Instituto; y,
+d) Nombre y Firma del representante del partido político ante el Instituto y;
 
-e) Copia de la constancia expedida por el partido político que acredite a sus precandidatos.
+e) Copia certificada de la constancia expedida por el partido político que acredite a sus precandidatos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO III. DE LAS PRECAMPAÑAS
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 6.
+
+1. El periodo de precampaña de cada partido político dará inicio en la fecha que para tal efecto se establezca en la determinación que cada instituto político haya presentado ante la autoridad electoral el que nunca podrá iniciar antes de las fechas señaladas en el artículo 229, párrafo 2 del Código, y concluirá a más tardar en la fecha límite que para tal efecto señala dicho ordenamiento tratándose de proceso electoral ordinario; o de conformidad con el acuerdo que emita el Consejo General en proceso extraordinario, según corresponda a la elección a desarrollarse.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 7.
+
+1. El Instituto podrá reconocer el inicio de una precampaña, aun cuando el aspirante a candidato no informe el inicio de la misma y sean públicos y notorios los actos y gastos de precampaña.
+
+2. Una vez que se haya informado o, en su caso, reconocido el inicio de una precampaña, el aspirante a candidato quedará sujeto ante el Instituto, a las obligaciones previstas por el Código, los estatutos de su partido y este Reglamento, para lo cual se deberá considerar la totalidad de los actos realizados desde el inicio y hasta la conclusión de la precampaña.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 8.
+
+1. Una vez concluido el proceso de selección interna de candidatos, y dentro de los tres días siguientes, los partidos políticos presentarán al Instituto, una lista que contenga el nombre de cada uno de los precandidatos ganadores a los cargos de Gobernador, Diputados y Presidentes Municipales, Síndicos y Regidores debiendo anexar las constancias que acrediten a éstos como los electos en el proceso interno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 9.
+
+1. La propaganda gráfica de precampaña deberá señalar de manera expresa la calidad de precandidato de quien es promovido, así como indicar de manera fehaciente que ésta va dirigida a la militancia de su partido político, en términos de lo previsto en los artículos 211, párrafo 3 de la Ley General de Instituciones Procedimientos Electorales y 229, párrafo 3 del Código.
+
+T R A N S I T O R I O :
+
+ÚNICO.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
