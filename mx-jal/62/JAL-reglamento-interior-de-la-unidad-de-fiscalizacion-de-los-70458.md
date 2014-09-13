@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-unidad-de-fiscalizacion-de-los-70458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-03"
-last_updated: "2009-10-03"
+last_updated: "2014-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA UNIDAD DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DE LA UNIDAD DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA UNIDAD DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO VIII INCISO B. Y EL PUNTO SEGUNDO DEL ACUERDO NO. IEPC-ACG-017/2014 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, MEDIANTE EL CUAL SE REFORMAN, ABROGAN Y EXPIDEN DIVERSOS REGLAMENTOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 3 de octubre de 2009.
 
@@ -119,7 +121,7 @@ I. La Dirección General de la Unidad de Fiscalización;
 
 II. Dos Jefaturas de Departamento de Fiscalización; y (sic)
 
-lII. La Jefatura de Departamento Jurídico;
+III. La Jefatura de Departamento Jurídico;
 
 IV. El personal que se asigne en el presupuesto del Instituto.
 
@@ -316,3 +318,35 @@ El suscrito Secretario Ejecutivo del Instituto Electoral y de Participación Ciu
 Carlos Oscar Trejo Herrera
 
 Secretario Ejecutivo
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS CONSIDERANDOS Y LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+“VIII. DE LA ABROGACIÓN DE REGLAMENTOS. De igual forma, la comisión de reglamentos, en el dictamen de referencia y el cual se acompaña, como ANEXO 2 al presente acuerdo, aprobó abrogar los instrumentos legales siguientes:
+
+a. Reglamento General de Fiscalización en Materia Electoral del Estado de Jalisco;
+
+b. Reglamento Interior de la Unidad de Fiscalización de los Recursos de los Partidos Políticos del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco; y
+
+c. Reglamento, de Transparencia e Información Pública del Instituto Electoral y de Participación Ciudadana del Estado De Jalisco.
+
+X. ENTRADA EN VIGOR DE LAS REFORMAS, EXPEDICIÓN Y ABROGACIÓN DE LOS REGLAMENTOS. Al respecto, este Consejo General, considera dable, establecer que las reformas abrogación y expedición de los reglamentos referidos en los considerandos VII, VIII Y IX del presente acuerdo, surtirá sus efectos al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", en términos del artículo 558, párrafo 1, fracción I del Código Electoral y de Participación Ciudadana del Estado de Jalisco.
+
+Así mismo, los asuntos que se encuentren en trámite a la entrada en vigor del presente acuerdo y los reglamentos antes detallados, serán resueltos conforme a las normas reglamentarias vigentes al momento de su inicio.
+
+Ante lo cual se proponen los siguientes puntos de:
+
+A C U E R D O
+
+PRIMERO. Se aprueban las reformas a los reglamentos mencionados en el considerando VII y en términos del Anexo 1 que se acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se aprueba la abrogación de los reglamentos relacionados en el considerando VIII, en términos del Anexo 2, el cual se acompaña al presente acuerdo y forma parte integral del mismo.
+
+TERCERO. Se aprueba la expedición de los reglamentos mencionados en el considerando IX, en términos del Anexo 3 que se acompaña al presente acuerdo y forma parte integral del mismo.
+
+CUARTO. Notifíquese con copia simple del presente acuerdo y sus Anexos a los partidos políticos acreditados ante este organismo electoral.
+
+QUINTO. Publíquese el presente acuerdo y sus anexos en el Periódico Oficial "El Estado de Jalisco", así como en la página oficial de Internet de este organismo electoral."
