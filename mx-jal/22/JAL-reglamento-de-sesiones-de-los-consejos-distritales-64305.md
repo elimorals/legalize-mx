@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-sesiones-de-los-consejos-distritales-64305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-25"
-last_updated: "2008-10-25"
+last_updated: "2014-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2008.
 
@@ -49,11 +49,15 @@ LICENCIADO CARLOS OSCAR TREJO HERRERA
 
 ENCARGADO DEL DESPACHO DE LA SECRETARÍA EJECUTIVA
 
+> <small>N. DE E. EL ACUERDO IEPC-ACG-017/2014 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES ELECTORALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-### CAPITULO PRIMERO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DISPOSICIONES GENERALES.
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 1.
 
@@ -61,7 +65,9 @@ DISPOSICIONES GENERALES.
 
 1. El presente Reglamento tiene por objeto regular la celebración y desarrollo de las sesiones de los Consejos Distritales Electorales y Municipales Electorales del Instituto Electoral y de Participación Ciudadana y la actuación de los integrantes de dichos Consejos.
 
-2. Las sesiones que celebren los Consejos Distritales Electorales y Municipales Electorales, con motivo de la realización de cómputos distritales y municipales, se regirán por lo dispuesto en los Capítulos Décimo Cuarto y Décimo Quinto del Título Sexto del Libro Cuarto del Código Electoral y de Participación Ciudadana del Estado de Jalisco, por las normas establecidas en el presente Reglamento, así como en los lineamientos específicos que para tal efecto apruebe el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
+2. Las sesiones que celebren los Consejos Distritales Electorales y Municipales Electorales, con motivo de la realización de cómputos distritales y municipales, se regirán por lo dispuesto en los Capítulos Décimo Cuarto y Décimo Quinto del Título Sexto del Libro Cuarto del Código Electoral y de Participación Ciudadana del Estado de Jalisco, por las normas establecidas en el presente Reglamento, los lineamientos específicos que para tal efecto apruebe el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, así como las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
@@ -69,11 +75,15 @@ Criterios de interpretación.
 
 1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2 del artículo 4 del Código Electoral y de Participación Ciudadana del Estado de Jalisco, o las prácticas que mejor garanticen y reflejen la libre expresión, la participación, así como la eficacia de los acuerdos o resoluciones que los integrantes de los Consejos Distritales y Municipales tomen en ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 3.
 
 Cómputo de plazos.
 
 1. Para efectos del presente Reglamento, el cómputo de los plazos se hará tomando en cuenta los días hábiles, entre los que no se comprenden los sábados, los domingos, los no laborables en términos de ley y aquéllos en los que no haya actividades en el Instituto. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Durante los procesos electorales locales ordinarios y extraordinarios, todos los días y horas se considerarán hábiles.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 4.
 
@@ -93,7 +103,7 @@ V. Presidente: El Presidente del Consejo Distrital Electoral o Consejo Municipal
 
 VI. Consejeros: Los Consejeros Electorales del Consejo Distrital Electoral o Consejo Municipal Electoral;
 
-VII. Consejeros Representantes: Los Consejeros Representantes de los Partidos Políticos registrados o acreditados ante el Consejo;
+VII. Consejeros Representantes: Los Consejeros Representantes de los Partidos Políticos, y en su caso, los Consejeros Representantes de los Candidatos Independientes debidamente registrados o acreditados ante el Consejo;
 
 VIII. Secretario: El Secretario del Consejo Distrital Electoral o Consejo Municipal Electoral;
 
@@ -101,11 +111,67 @@ IX. Consejo General: El Consejo General del Instituto Electoral y de Participaci
 
 X. Reglamento Interior: El Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
 
-### CAPITULO SEGUNDO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL CONSEJO.
+### CAPITULO SEGUNDO. DE LA INTEGRACION DE LOS CONSEJOS
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5.
+
+1. Los Consejos Distritales se integran:
+
+a) Con siete Consejeros Distritales con derecho a voz y voto;
+
+b) Un secretario con derecho a voz; y
+
+c) Un Consejero representante de cada uno de los partidos políticos acreditados o registrados y de los candidatos independientes, conforme al Código y a este Reglamento, con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 6.
+
+1. Los Consejos Municipales se integran:
+
+a) Con cinco Consejeros Municipales con derecho a voz y voto;
+
+b) Un secretario con derecho a voz; y
+
+c) Un Consejero representante de cada uno de los partidos políticos acreditados o registrados y de los candidatos independientes, conforme al Código y a este Reglamento, con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 7.
+
+1. En los municipios cuyo territorio comprenda más de un distrito electoral, el Consejo Municipal Electoral se integrará:
+
+a) Con siete Consejeros Municipales con derecho a voz y voto;
+
+b) Un secretario con derecho a voz; y
+
+c) Un Consejero representante de cada uno de los partidos políticos acreditados o registrados y de los candidatos independientes, conforme al Código y a este Reglamento, con derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 8.
+
+1. En cada uno de los Consejos Distritales y Municipales Electorales se designarán tres Consejeros generales suplentes con un orden de prelación.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 9.
+
+1. Los Consejeros Distritales y Municipales están impedidos de intervenir en el proceso electoral de su competencia, cuando participe con el carácter de candidato su cónyuge o algún pariente consanguíneo hasta el cuarto grado en línea colateral.
+
+2. En este supuesto, el Consejero cesará en su función y se llamará al suplente general, en atención al orden de prelación.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO TERCERO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10.
 
 Atribuciones del Presidente.
 
@@ -127,7 +193,7 @@ VII. Consultar a los integrantes del Consejo, si los temas de la orden del día 
 
 VIII. Ordenar al Secretario que someta a votación los proyectos de acuerdos y resoluciones del Consejo;
 
-IX. Garantizar el orden de las sesiones, ejerciendo las atribuciones que le confieren los artículos 174, párrafo 3 del Código y 12, numerales 4 de este Reglamento;
+IX. Garantizar el orden de las sesiones, ejerciendo las atribuciones que le confieren los artículos 174, párrafo 3 del Código y;
 
 X. Vigilar la correcta aplicación de este Reglamento;
 
@@ -135,13 +201,15 @@ XI. Rendir los informes y comunicados que deban ser del conocimiento de los inte
 
 XII. Instruir al Secretario, conforme las reglas establecidas en este Reglamento, la inclusión de asuntos en la orden del día;
 
-XIII. Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, ciudadanos y autoridades competentes;
+XIII. Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, candidatos independientes, ciudadanos y autoridades competentes;
 
 XIV. Proponer la creación de grupos de trabajo para que realice alguna función específica; y
 
 XV. Las demás que le otorguen el Consejo General, el Código y este Reglamento.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 11.
 
 Atribuciones de los Consejeros.
 
@@ -161,7 +229,9 @@ VI. Por mayoría, solicitar se convoque a sesión extraordinaria; y
 
 VII. Las demás que les sean conferidas por el Consejo General, el Código y este Reglamento.
 
-###### Artículo 7.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 12.
 
 Atribuciones de los Consejeros Representantes.
 
@@ -181,7 +251,9 @@ VI. Por mayoría, solicitar se convoque a sesión extraordinaria; y
 
 VII. Las demás que les otorguen el Código y este Reglamento.
 
-###### Artículo 8.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 13.
 
 Atribuciones del Secretario.
 
@@ -213,7 +285,13 @@ XII. Entregar a la Unidad de Transparencia del Instituto copias de las actas, ac
 
 XIII. Las demás que le sean conferidas por el Consejo General, el Código, este Reglamento, el Consejo o el Presidente.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO CUARTO. DE LOS TIPOS DE SESIONES, SU DURACION Y LUGAR
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 14.
 
 Tipos de sesiones.
 
@@ -225,45 +303,53 @@ II. Son extraordinarias aquellas convocadas por el Presidente cuando lo estime n
 
 III. Son especiales las que se convoquen en los términos de lo establecido en el artículo 172, párrafo 1, fracción III del Código.
 
-### CAPITULO TERCERO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LOS TIPOS DE SESIONES, SU DURACION Y LUGAR.
-
-###### Artículo 10.
+###### Artículo 15.
 
 Duración de las sesiones.
 
 1. Las sesiones tendrán una duración máxima de ocho horas, cuando transcurrido dicho tiempo no se hayan agotado los puntos de la orden del día, con el acuerdo de la mayoría de los integrantes con derecho a voto se podrán prolongar hasta por tres horas, y si aún hubiera asuntos a tratar, mediante el mismo procedimiento el Consejo podrá decidir la suspensión o la continuación. Toda sesión que sea suspendida deberá ser continuada dentro de las siguientes veinticuatro horas, salvo que por causa justificada se acuerde otro plazo para reanudarla.
 
-###### Artículo 11.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 16.
 
 Sesión especial permanente.
 
 1. Cuando el Consejo se haya declarado en sesión especial permanente no operará el límite de tiempo establecido en el párrafo anterior. El Presidente previo acuerdo de la mayoría de los integrantes con derecho a voto, decretará los recesos que se consideren necesarios.
 
-###### Artículo 12.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 17.
 
 Lugar en que se celebrarán las sesiones.
 
 1. Las sesiones se llevarán a cabo en la sala del Consejo, salvo que por causas justificadas, en la convocatoria se señale un lugar distinto para su celebración.
 
-###### Artículo 13.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO QUINTO. DE LA CONVOCATORIA DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 18.
 
 Convocatoria a sesión ordinaria o especial.
 
 1. Para la celebración de las sesiones ordinarias o especiales del Consejo, el Presidente deberá convocar por escrito a cada uno de los Consejeros y Representantes que formen parte del cuerpo colegiado, por lo menos con veinticuatro horas de anticipación.
 
-### CAPITULO CUARTO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LA CONVOCATORIA DE LAS SESIONES.
-
-###### Artículo 14.
+###### Artículo 19.
 
 Convocatoria a sesión extraordinaria.
 
 1. La convocatoria para sesiones extraordinarias deberá realizarse por lo menos en el plazo que se señala en el párrafo anterior.
 
-###### Artículo 15.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 20.
 
 Notificación de la convocatoria.
 
@@ -271,11 +357,13 @@ Notificación de la convocatoria.
 
 2. La notificación de la convocatoria se realizará en el domicilio señalado y, adicionalmente, se publicará en los estrados de la sede del Consejo.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 21.
 
 Contenido de la convocatoria y del proyecto de la orden del día.
 
-1. La convocatoria a sesión deberá indicar: el día, la hora y lugar en que se deba celebrar, tipo de sesión, así como el proyecto de la orden del día formulado por el Secretario y el apercibimiento referido en el párrafo 3 del artículo 176, asimismo le serán anexados los documentos necesarios para el análisis de los puntos a tratar.
+1. La convocatoria a sesión deberá indicar: el día, la hora y lugar en que se deba celebrar, tipo de sesión, así como el proyecto de la orden del día formulado por el Secretario y el apercibimiento referido en el párrafo 3 del artículo 176 del Código, asimismo le serán anexados los documentos necesarios para el análisis de los puntos a tratar.
 
 2. Los anexos se entregarán preferentemente en medios ópticos, electrónicos o magnéticos, conforme a los acuerdos específicos que emita el Consejo, o bien, en forma impresa cuando previamente así le haya sido solicitado al Secretario mediante escrito.
 
@@ -283,7 +371,9 @@ Contenido de la convocatoria y del proyecto de la orden del día.
 
 4. Las áreas y órganos del Instituto remitirán al Secretario por lo menos con veinticuatro horas de anticipación a la expedición de la convocatoria, los documentos y anexos necesarios para el análisis de los puntos a tratar.
 
-###### Artículo 17.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 22.
 
 Disponibilidad de la documentación relacionada.
 
@@ -291,11 +381,9 @@ Disponibilidad de la documentación relacionada.
 
 2. Todo asunto de la orden del día identificará al órgano del Instituto o integrante del Consejo del cual provenga.
 
-### CAPITULO QUINTO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LA INSTALACION Y DESARROLLO DE LA SESION.
-
-###### Artículo 18.
+###### Artículo 23.
 
 Inclusión de asuntos al proyecto de la orden del día.
 
@@ -303,19 +391,29 @@ Inclusión de asuntos al proyecto de la orden del día.
 
 2. En las sesiones extraordinarias y especiales, solamente se ventilarán los asuntos para las que fueron convocadas.
 
-###### Artículo 19.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 24.
 
 Asuntos generales.
 
 1. En las sesiones ordinarias, en el punto de asuntos generales, se podrán someter a discusión, los que no requieran examen previo de documentos o que se consideren de urgente resolución y así sea solicitado por cualquiera de los integrantes del Consejo.
 
-###### Artículo 20.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO SEXTO. DE LA INSTALACION Y DESARROLLO DE LA SESION
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 25.
 
 Reglas para la instalación de las sesiones.
 
 1. En el día y lugar fijado para la sesión se reunirán los integrantes del Consejo. El Presidente, previa verificación de asistencia y certificación del quórum por el Secretario, declarará instalada la sesión.
 
-###### Artículo 21.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 26.
 
 Publicidad y orden de las sesiones.
 
@@ -323,11 +421,9 @@ Publicidad y orden de las sesiones.
 
 2. En las sesiones sólo podrán participar y hacer uso de la palabra el Presidente, los Consejeros, el Secretario y los Consejeros Representantes, así como los funcionarios electorales que se convoquen.
 
-3. El Presidente podrá requerir la comparecencia de los responsables de las áreas de capacitación y organización electoral del Consejo, y les otorgará el uso de la palabra exclusivamente para que aclaren, informen o ilustren al Consejo sobre cuestiones relacionadas con su responsabilidad.
+3. El Presidente podrá requerir la comparecencia de los responsables de las áreas del Consejo, y les otorgará el uso de la palabra exclusivamente para que aclaren, informen o ilustren al Consejo sobre cuestiones relacionadas con su responsabilidad.
 
-4. El público asistente deberá guardar orden en el recinto donde se celebren las sesiones, permanecer en silencio y abstenerse de cualquier manifestación.
-
-5. Para garantizar el orden, el Presidente podrá tomar las siguientes medidas:
+4. El público asistente deberá guardar orden en el recinto donde se celebren las sesiones, permanecer en silencio y abstenerse de cualquier manifestación. 5. Para garantizar el orden, el Presidente podrá tomar las siguientes medidas:
 
 I. Exhortar a guardar el orden;
 
@@ -335,31 +431,35 @@ II. Conminar a abandonar el local, y
 
 III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-6. El Presidente podrá suspender la sesión por grave alteración del orden en el salón de sesiones, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Consejo acuerde otro plazo para su continuación.
+5 (SIC). El Presidente podrá suspender la sesión por grave alteración del orden en el salón de sesiones, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Consejo acuerde otro plazo para su continuación.
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 27.
 
 Aprobación de la orden del día.
 
 1. Instalada la sesión, se pondrá a consideración del Consejo el contenido de la orden del día. El Consejo, a solicitud de alguno de sus integrantes, podrá modificar el orden de los asuntos y sólo por causa justificada podrá retirarse un punto de la orden del día.
 
-###### Artículo 23.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 28.
 
 Orden de discusión de los asuntos.
 
 1. Los asuntos contenidos en la orden del día serán discutidos y, en su caso, votados, salvo cuando con base en consideraciones fundadas, el Consejo acuerde posponer la discusión o votación de algún asunto en particular, en cuyo caso deberá incluirse en la orden del día de la siguiente sesión.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 29.
 
 Dispensa de lectura de documentos.
 
 1. Al aprobarse la orden del día, se consultará en votación económica si se dispensa la lectura de los documentos que hayan sido previamente circulados. Sin embargo, el Consejo podrá decidir, sin debate y a petición de alguno de sus integrantes, darles lectura en forma completa o particular, para ilustrar mejor sus argumentos.
 
-### CAPITULO SEXTO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LAS MOCIONES.
-
-###### Artículo 25.
+###### Artículo 30.
 
 Observaciones, sugerencias o propuestas.
 
@@ -367,31 +467,41 @@ Observaciones, sugerencias o propuestas.
 
 2. Cuando en el transcurso de la sesión, se presenten propuestas, cuya complejidad haga difícil su redacción inmediata, el Presidente podrá declarar un receso para efectuar el engrose o bien mediante acuerdo del Consejo, el Secretario lo haga con posterioridad apegándose a la versión estenográfica.
 
-###### Artículo 26.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 31.
 
 Uso de la palabra.
 
 1. Los integrantes del Consejo sólo podrán hacer uso de la palabra con la autorización previa del Presidente.
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 32.
 
 Conducción provisional de las sesiones por un Consejero Electoral.
 
 1. En caso de que el Presidente se ausente momentáneamente de la mesa de deliberaciones, designará a un Consejero Electoral para que lo auxilie en la conducción de la sesión.
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 33.
 
 Inasistencia o ausencia definitiva del Presidente a la sesión.
 
-1. En el supuesto de que el Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los Consejeros presentes para que la presida y ejerza las atribuciones a que se refiere el presente Reglamento.
+1. En el supuesto de que el Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo designará a uno de los Consejeros presentes para que la presida y una vez aprobada la propuesta, éste ejerza las atribuciones a que se refiere el presente Reglamento.
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 34.
 
 Inasistencia o ausencia del Secretario a la sesión.
 
-1. En caso de ausencia del Secretario a la sesión, sus atribuciones en ésta, serán realizadas por la persona que a propuesta del Presidente designe el Consejo para esa sesión.
+1. En caso de ausencia del Secretario a la sesión, sus atribuciones en ésta, serán realizadas por la persona que a propuesta del Presidente designe y apruebe el Consejo para esa sesión.
 
-###### Artículo 30.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 35.
 
 Forma de discusión de los asuntos en la primera ronda.
 
@@ -399,43 +509,61 @@ Forma de discusión de los asuntos en la primera ronda.
 
 2. En la primera ronda los oradores podrán hacer uso de la palabra por diez minutos como máximo.
 
-###### Artículo 31.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 36.
 
 Forma de discusión de los asuntos en la segunda y tercera ronda.
 
 1. Después de haber intervenido todos los oradores inscritos en la primera ronda, el Presidente preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda o tercera ronda de debates. Bastará que un integrante del Consejo pida la palabra, para que la segunda o tercera ronda se lleve a efecto. En la segunda o tercera ronda, los oradores participarán de acuerdo con las reglas para la primera, pero sus intervenciones no podrán exceder de cinco minutos en la segunda y de tres en la tercera.
 
-###### Artículo 32.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 37.
 
 Intervención en el debate del Secretario.
 
 1. El Secretario podrá solicitar el uso de la palabra en cada uno de los puntos a tratar, sus intervenciones se ajustarán a los tiempos fijados para cada ronda, sin perjuicio de que en el transcurso del debate el Presidente o alguno de los Consejeros solicite que informe o aclare alguna cuestión.
 
-###### Artículo 33.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 38.
 
 Procedimiento cuando nadie pida uso de la palabra.
 
-1. Los asuntos en los que nadie solicite el uso de la palabra, se someterán a votación de inmediato, de ser el caso se darán por concluidos.
+1. Los asuntos en los que nadie solicite el uso de la palabra, se tendrán por vistos y se darán por concluidos; y en su caso, los que así lo ameriten, se someterán a votación de inmediato.
 
-###### Artículo 34.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 39.
 
 Prohibición de diálogos y alusiones personales.
 
 1. Los integrantes del Consejo se abstendrán de entablar polémicas o debates en forma de diálogo durante el curso de las deliberaciones, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos agendados en la orden del día. El Presidente podrá interrumpir las manifestaciones de quien cometa las referidas conductas conminándolo a que se conduzca en los términos previstos en este Reglamento.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 40.
 
 Prohibición de interrumpir oradores.
 
-1. Los oradores no serán interrumpidos, salvo por una moción acorde a las reglas establecidas en los artículos 37 al 40 de este Reglamento, o por la intervención del Presidente para conminarlo a que se conduzca conforme a los supuestos previstos por el presente ordenamiento.
+1. Los oradores no serán interrumpidos, salvo por una moción acorde a las reglas establecidas en los artículos 42 al 50 de este Reglamento, o por la intervención del Presidente para conminarlo a que se conduzca conforme a los supuestos previstos por el presente ordenamiento.
 
-###### Artículo 36.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 41.
 
 Desvío del asunto en debate por parte del orador.
 
 1. Si el orador se aparta de la cuestión a debate o hace referencia que ofenda a cualquiera de los integrantes del Consejo, el Presidente le prevendrá sobre el retiro del uso de la palabra. Si persiste en su conducta, podrá formularle una segunda prevención o retirarle el uso de la palabra en el punto a discusión.
 
-###### Artículo 37.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO SEPTIMO. DE LAS MOCIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 42.
 
 Moción de orden.
 
@@ -457,47 +585,61 @@ VII. Solicitar la aclaración del procedimiento especifico de votación de un pu
 
 VIII. Pedir la aplicación del Reglamento.
 
-###### Artículo 38.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 43.
 
 Procedimiento.
 
 1. Toda moción de orden deberá dirigirse al Presidente, quien la aceptará o la negará. Cuando la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de algún integrante del Consejo distinto de aquél a quien se dirige la moción, el Presidente deberá someter a votación la moción de orden solicitada, para que se decida su admisión o rechazo.
 
-###### Artículo 39.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 44.
 
 Moción al orador.
 
 1. Cualquier miembro del Consejo podrá realizar mociones al orador que esté haciendo uso de la palabra, con objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
 
-###### Artículo 40.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 45.
 
 Procedimiento.
 
 1. Las mociones al orador deberán dirigirse al Presidente y contar con la anuencia de aquél a quien se hacen. En caso de ser aceptadas, la intervención del promovente no podrá durar más de dos minutos.
 
-###### Artículo 41.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO OCTAVO. DE LAS VOTACIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 46.
 
 Obligación de votar.
 
 1. El Presidente y los Consejeros deberán votar todo proyecto de acuerdo, programa, dictamen o resolución que se ponga a su consideración, las abstenciones se computarán en el sentido de la mayoría, excepto cuando medie algún impedimento en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco o de cualquiera otra disposición legal.
 
-### CAPITULO SEPTIMO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LAS VOTACIONES.
-
-###### Artículo 42.
+###### Artículo 47.
 
 Forma de tomar acuerdos y resoluciones.
 
 1. Los acuerdos y resoluciones del Consejo se tomarán por mayoría simple. Salvo los casos en que el Código exija una mayoría calificada.
 
-###### Artículo 43.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 48.
 
 Voto de Calidad.
 
 1. En caso de empate el Presidente tendrá voto de calidad.
 
-###### Artículo 44.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 49.
 
 Votación en lo general y en lo particular.
 
@@ -505,23 +647,25 @@ Votación en lo general y en lo particular.
 
 2. Toda propuesta que implique modificación o adición a los proyectos de acuerdo o resolución deberá someterse a votación del Consejo.
 
-###### Artículo 45.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 50.
 
 Votación Económica.
 
 1. La votación se tomará contando en primer término el número de votos a favor y, en su caso, el número de votos en contra. El sentido de la votación quedará asentado en el acta.
 
-### CAPITULO OCTAVO
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-NOTIFICACIONES.
-
-###### Artículo 46.
+###### Artículo 51.
 
 Votación Nominal.
 
 1. Los Consejeros Electorales votarán manifestando el sentido de su voto a pregunta del Secretario.
 
-###### Artículo 47.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 52.
 
 De los impedimentos, excusa y recusación.
 
@@ -537,7 +681,9 @@ I. El Presidente o el Consejero que se considere impedido deberá manifestarlo a
 
 5. El Consejo resolverá la procedencia de la excusa o recusación antes de iniciar la discusión del asunto con el que tenga relación.
 
-###### Artículo 48.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 53.
 
 Engrose, Voto particular y Devolución.
 
@@ -545,21 +691,35 @@ Engrose, Voto particular y Devolución.
 
 2. El Consejero que disienta de la mayoría podrá formular voto particular, el que será insertado al acuerdo o resolución siempre y cuando lo remita al Secretario dentro de las siguientes cuatro horas a la conclusión de la sesión.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO NOVENO. NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 54.
 
 Notificaciones.
 
-1. Cuando los partidos políticos deban ser notificados de un acuerdo o resolución del Consejo, será dentro de las setenta y dos horas posteriores a la conclusión de la sesión.
+1. Cuando los partidos políticos y en su caso, los candidatos independientes deban ser notificados de un acuerdo o resolución del Consejo, será dentro de las setenta y dos horas posteriores a la conclusión de la sesión.
 
 2. El Consejo podrá determinar, cuando así lo estime necesario, que la Secretaría realice la notificación de los acuerdos y resoluciones en un plazo más breve.
 
-###### Artículo 50.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO DÉCIMO. DE LAS ACTAS DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 55.
 
 Versión estenográfica de la sesión.
 
 1. De toda sesión se elaborará versión estenográfica, la que deberá indicar: tipo de sesión, fecha, lista de asistencia, puntos de la orden del día, intervenciones de los integrantes del Consejo, sentido individual del voto, así como los acuerdos y resoluciones aprobados.
 
-###### Artículo 51.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 56.
 
 Integración del acta de la sesión.
 
@@ -569,7 +729,13 @@ Integración del acta de la sesión.
 
 3. El Secretario pondrá a disposición de los integrantes, en la sede del Consejo, el proyecto de acta dentro de las setenta y dos horas posteriores a la sesión.
 
-###### Artículo 52.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO DÉCIMO PRIMERO. DE LAS COMISIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 57.
 
 Nombramiento de comisiones.
 
@@ -577,23 +743,27 @@ Nombramiento de comisiones.
 
 2. El número de integrantes de las comisiones será determinado por el Consejo, y en ningún caso será inferior a tres.
 
-###### Artículo 53.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-Participación de Representantes en comisiones.
+###### Artículo 58.
 
-1. En los trabajos de las comisiones, los Representantes podrán participar de conformidad a lo establecido en el Código, el Reglamento Interior y el presente Reglamento.
+Participación de Consejeros Representantes en comisiones.
 
-2. Los Representantes en ningún caso tendrán derecho a voto en la toma de decisiones de las comisiones.
+1. En los trabajos de las comisiones, los Consejeros Representantes podrán participar de conformidad a lo establecido en el Código, el Reglamento Interior, el presente Reglamento y las leyes aplicables.
 
-### CAPITULO NOVENO
+2. Los Consejeros Representantes en ningún caso tendrán derecho a voto en la toma de decisiones de las comisiones.
 
-DE LAS ACTAS DE LAS SESIONES.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-###### Artículo 54.
+### CAPITULO DÉCIMO SEGUNDO. DE LAS SESIONES DE CÓMPUTO
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 59.
 
 Mecanismos de deliberación en la sesión de Cómputo.
 
-1. Para la discusión de los asuntos en la sesión de Cómputo, serán aplicables las reglas de participación previstas por el artículo 16 del presente Reglamento.
+1. Para la discusión de los asuntos en la sesión de Cómputo, serán aplicables las reglas de participación previstas por el artículo 21 del presente Reglamento.
 
 2. Tratándose de debate sobre el contenido específico del acta de escrutinio y cómputo de casilla, las reglas aplicables serán las siguientes:
 
@@ -605,11 +775,9 @@ III. En la segunda o tercera ronda los oradores participaran de acuerdo con las 
 
 IV. Agotadas las intervenciones de los oradores el asunto se considerará suficientemente discutido y se someterá a votación.
 
-### CAPITULO DECIMO
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-DE LAS COMISIONES.
-
-###### Artículo 55.
+###### Artículo 60.
 
 Del procedimiento de Cómputo.
 
@@ -631,10 +799,6 @@ V. El escrutinio y cómputo de los paquetes electorales se hará de conformidad 
 
 VI. Concluidas las operaciones de escrutinio y cómputo de la totalidad de los paquetes electorales, se levantará acta de cómputo distrital o municipal de recuento de votación.
 
-### CAPITULO DECIMO PRIMERO
-
-DE LAS SESIONES DE COMPUTO.
-
 ## TRANSITORIO.
 
 Único. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -646,3 +810,9 @@ Guadalajara, Jalisco a 23 veintitrés de Octubre de 2008 dos mil ocho.
 Lic. Carlos Oscar Trejo Herrera.
 
 Encargado del Despacho de la Secretaría Ejecutiva.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2014.
+
+Único. El presente acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
