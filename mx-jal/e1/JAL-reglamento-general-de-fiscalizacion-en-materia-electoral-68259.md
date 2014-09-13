@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-fiscalizacion-en-materia-electoral-68259"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-09"
-last_updated: "2011-11-19"
+last_updated: "2014-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO GENERAL DE FISCALIZACIÓN EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, MEDIANTE EL CUAL SE REFORMAN, ABROGAN Y EXPIDEN DIVERSOS REGLAMENTOS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 9 de abril de 2009.
 
@@ -1145,7 +1147,7 @@ a) El producto de la impresión, en el cual, invariablemente aparecerán los sig
 
 5) Número de ejemplares impresos, excepto en los casos de las publicaciones periódicas.
 
-b) Los requisitos previstos en la fracción anterior, no se exigirán para aquellas publicaciones que tengan el carácter de "divulgación", en los términos del artículo 32.5, fracción V de este Reglamento. Para los efectos de la salvedad a que se refiere esta fracci6n, no se considerarán como publicaciones de divulgación las revistas, diarios, semanarios o cualquier otra edición de naturaleza periódica;
+b) Los requisitos previstos en la fracción anterior, no se exigirán para aquellas publicaciones que tengan el carácter de "divulgación", en los términos del artículo 32.5, fracción V de este Reglamento. Para los efectos de la salvedad a que se refiere esta fracción, no se considerarán como publicaciones de divulgación las revistas, diarios, semanarios o cualquier otra edición de naturaleza periódica;
 
 c) En todos los casos en los que la edición impresa o su comprensión tenga un costo mayor de un mil doscientos cincuenta días de salario mínimo vigente en la zona metropolitana de Guadalajara, un funcionario designado por la Unidad de Fiscalización corroborará la existencia del tiraje. Para ello, el partido político avisará a la Unidad de Fiscalización, con: un mínimo de cinco días hábiles de anticipación, el lugar, fecha y hora, para poder verificar el mencionado tiraje;
 
@@ -1285,7 +1287,7 @@ V. Transporte de material o personal y viáticos, que hayan de aplicarse en fech
 
 VI. Cualquiera otro similar, análogo a los conceptos establecidos por el artículo 256 del Código.
 
-6. Para los efectos de lo establecido por el artículo 256, párrafo 2, fracción lII, inciso a) del Código, se considera que se dirigen a la obtención del voto, la publicidad en diarios, revistas y otros medios impresos, los anuncios espectaculares en la vía pública y la propaganda en salas de cine y páginas de Internet transmitidos, publicados o colocados durante las campañas electorales, independientemente de la fecha de contratación y pago, que presenten cuando menos una de las siguientes características:
+6. Para los efectos de lo establecido por el artículo 256, párrafo 2, fracción III, inciso a) del Código, se considera que se dirigen a la obtención del voto, la publicidad en diarios, revistas y otros medios impresos, los anuncios espectaculares en la vía pública y la propaganda en salas de cine y páginas de Internet transmitidos, publicados o colocados durante las campañas electorales, independientemente de la fecha de contratación y pago, que presenten cuando menos una de las siguientes características:
 
 I. Las palabras "voto" o "votar", "sufragio" o "sufragar", "elección" o "elegir" y sus sinónimos, en cualquiera de sus derivados y conjugaciones, ya sea verbalmente o por escrito;
 
@@ -1945,7 +1947,7 @@ Actuación del interventor
 
 5. El interventor informará a la Unidad de Fiscalización, de las irregularidades que encuentre en el desempeño de sus funciones.
 
-6. El interventor deberá confrontar el inventario de los bienes del partido político y en su caso hacer los ajustes correspondientes, siguiendo las reglas de inventario, registro y contabilidad establecidas en los artículos 41 y 42.de este Reglamento. El inventario deberá estar elaborado de conformidad con el formato correspondiente, incluido en este Reglamento y tomar en cuenta lo reportado en el ejercicio anterior, así como las adquisiciones del ejercicio vigente.
+6. El interventor deberá confrontar el inventario de los bienes del partido político y en su caso hacer los ajustes correspondientes, siguiendo las reglas de inventario, registro y contabilidad establecidas en los artículos 41 y 42. de este Reglamento. El inventario deberá estar elaborado de conformidad con el formato correspondiente, incluido en este Reglamento y tomar en cuenta lo reportado en el ejercicio anterior, así como las adquisiciones del ejercicio vigente.
 
 7. Al finalizar su inventario, y dentro de un plazo improrrogable de treinta días hábiles contado a partir de la aceptación de su nombramiento, el interventor deberá entregar a la Unidad de Fiscalización un dictamen señalando la totalidad de los activos y pasivos del partido político, incluyendo una relación de las cuentas por cobrar en la que se indique el nombre de cada deudor y el monto de cada adeudo. Asimismo, presentará una relación de las cuentas por pagar, indicando el nombre de cada acreedor, el monto correspondiente y la fecha de pago, así como una relación actualizada de todos los bienes del partido político, incluyendo un detalle de las operaciones realizadas por el partido en los últimos treinta días previos a la sesión de cómputos distritales del Instituto.
 
@@ -2593,7 +2595,7 @@ Séptimo. Respecto de las cantidades e información a que se refieren los artíc
 
 Octavo. Publíquese este Reglamento en el portal de internet del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
 
-> <small>N. DE E. VEANSE FORMATOS EN LA SECCION VII DEL P.O. DE 9 DE ABRIL DE 2009, PAGINAS DE LA 176 A LA 325.</small>
+> <small>N. DE E. VÉANSE FORMATOS EN LA SECCIÓN VII DEL P.O. DE 9 DE ABRIL DE 2009, PÁGINAS DE LA 176 A LA 325.</small>
 
 El suscrito Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, CERTIFICA que las presentes copias que constan de 224 doscientas veinticuatro fojas, concuerdan fielmente con el acuerdo original identificado con la clave IEPC-ACG-067/09 y su respectivo anexo, aprobado por el Consejo General de este organismo electoral, que tuve a la vista. Doy Fe-------------Guadalajara, Jalisco a 07 siete de abril de 2009 dos mil nueve.--------------------------
 
@@ -2601,13 +2603,13 @@ Carlos Oscar Trejo Herrera
 
 Secretario Ejecutivo
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE ABRIL DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO. Se aprueban las modificaciones al Reglamento General de Fiscalización en Materia Electoral del Estado de Jalisco, en los términos del ANEXO que se acompaña al presente acuerdo como parte integral del mismo.
 
@@ -2617,9 +2619,9 @@ TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El
 
 P.O. 7 DE JULIO DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO. Se aprueban las modificaciones al Reglamento General de Fiscalización en Materia Electoral del Estado de Jalisco, en los términos del ANEXO que se acompaña al presente acuerdo como parte integral del mismo.
 
@@ -2630,3 +2632,17 @@ TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El
 P.O. 19 DE NOVIEMBRE DE 2011.
 
 Único. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE SEPTIEMBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. Se aprueban las reformas a los reglamentos mencionados en el considerando VII y en términos del Anexo 1 que se acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se aprueba la abrogación de los reglamentos relacionados en el considerando VIII, en términos del Anexo 2, el cual se acompaña al presente acuerdo y forma parte integral del mismo.
+
+TERCERO. Se aprueba la expedición de los reglamentos mencionados en el considerando IX, en términos del Anexo 3 que se acompaña al presente acuerdo y forma parte integral del mismo.
+
+CUARTO. Notifíquese con copia simple del presente acuerdo y sus Anexos a los partidos políticos acreditados ante este organismo electoral.
+
+QUINTO. Publíquese el presente acuerdo y sus anexos en el Periódico Oficial "El Estado de Jalisco", así como en la página oficial de Internet de este organismo electoral.
