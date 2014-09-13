@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2013-12-04"
+last_updated: "2014-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -223,7 +223,7 @@ XVI.- En caso de duda respecto algún trámite, consultar con el Presidente, y d
 
 XVII.- Anotar en las sesiones los trámites que se deberán dar a cada asunto, debiendo realizar esta obligación el Secretario que señale el Presidente;
 
-XVIII.- Las demás que les imponga este Reglamento y acuerdos de la Cámara; (sic)
+XVIII.- Las demás que les imponga este Reglamento y acuerdos de la Cámara;
 
 ###### ARTICULO 23.
 
@@ -253,7 +253,7 @@ III.- Los que estén a discusión;
 
 IV.- Las proposiciones de los miembros de la Legislatura;
 
-V.- Los suscritos por particulares;(sic)
+V.- Los suscritos por particulares;
 
 ### CAPITULO IV. DE LAS COMISIONES
 
@@ -531,9 +531,15 @@ c) Contribuirá conjuntamente con otras dependencias y entidades de gobierno par
 
 d) Las demás que le otorguen las leyes de la materia, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso del Estado de Oaxaca.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2014)</small>
 
-X. La Comisión de Cultura tendrá a su cargo el análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición;
+X. La Comisión de Cultura ejercerá las siguientes atribuciones:
+
+a) El análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición.
+
+b) Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible o intangible de nuestro Estado.
+
+c) Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -815,7 +821,7 @@ V.- Secretas;
 
 VI.- Permanentes;
 
-VII.- Especiales; (sic)
+VII.- Especiales;
 
 ###### ARTICULO 50.
 
@@ -973,7 +979,7 @@ En los casos de notoria urgencia, calificada por el voto de dos tercios de los D
 
 ###### ARTICULO 76.
 
-Cuando se pida dispensa de trámite, puede hacerse verbalmente; pero si se encuentra oposición, la petición se formulará por escrito y se discutirá como se expresa en el artículo siguiente: (sic)
+Cuando se pida dispensa de trámite, puede hacerse verbalmente; pero si se encuentra oposición, la petición se formulará por escrito y se discutirá como se expresa en el artículo siguiente:
 
 ###### ARTICULO 77.
 
@@ -1323,7 +1329,7 @@ Antes de remitir una Ley o decreto al Ejecutivo para su promulgación, deberá a
 
 ###### ARTICULO 150.
 
-Los actos Legislativos que el Congreso expida en ejercicio de sus facultades exclusivas, serán bajo la siguiente fórmula: "La (Aqui el número de Legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, DECRETA" (Texto del cuerpo legal y firmará el Presidente y los dos Secretarios. (sic)
+Los actos Legislativos que el Congreso expida en ejercicio de sus facultades exclusivas, serán bajo la siguiente fórmula: "La (Aqui el número de Legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, DECRETA" (Texto del cuerpo legal y firmará el Presidente y los dos Secretarios.
 
 ###### ARTICULO 151.
 
@@ -1513,15 +1519,15 @@ Cuando el expediente estuviere suficientemente instruido en el grado que se nece
 
 ###### ARTICULO 189.
 
-Cuando el expediente estuviere suficientemente instruido en el grado que se necesita según los artículos precedentes, la Comisión presentará dictamen, no sobre la declaración de culpabilidad o de haber lugar a formación de causa, sino sobre el estado de ésta, y concluirá con la siguiente fórmula: "Esta causa se halla (sic) en estado de verse". Si la Cámara resuelve por la negativa, volverá a la Comisión para que practique aquéllas diligencias que según lo expuesto en la discusión, faltaren para el cumplimiento del expediente. Luego que las practique volverá a dar cuenta a la Cámara para que examine de nuevo si ya se halla (sic) la causa en estado de verse. Esto mismo se hará cuantas veces declare la Cámara por la negativa.
+Cuando el expediente estuviere suficientemente instruido en el grado que se necesita según los artículos precedentes, la Comisión presentará dictamen, no sobre la declaración de culpabilidad o de haber lugar a formación de causa, sino sobre el estado de ésta, y concluirá con la siguiente fórmula: "Esta causa se halla en estado de verse". Si la Cámara resuelve por la negativa, volverá a la Comisión para que practique aquéllas diligencias que según lo expuesto en la discusión, faltaren para el cumplimiento del expediente. Luego que las practique volverá a dar cuenta a la Cámara para que examine de nuevo si ya se halla la causa en estado de verse. Esto mismo se hará cuantas veces declare la Cámara por la negativa.
 
 ###### ARTICULO 190.
 
-Luego que la Cámara declare que la causa se halla (sic) en estado de verse, volverá a la Comisión para que dentro de tres días presente el dictamen, que concluirá precisamente con esta fórmula: "Ha (o no ha) lugar a procederse contra el ciudadano (nombre de la persona), por tal delito, si lo hay, y al acusado para que respectivamente preparen la acusación y la defensa, advirtiéndoles que al efecto pueden tomar apuntes de la causa.
+Luego que la Cámara declare que la causa se halla en estado de verse, volverá a la Comisión para que dentro de tres días presente el dictamen, que concluirá precisamente con esta fórmula: "Ha (o no ha) lugar a procederse contra el ciudadano (nombre de la persona), por tal delito, si lo hay, y al acusado para que respectivamente preparen la acusación y la defensa, advirtiéndoles que al efecto pueden tomar apuntes de la causa.
 
 ###### ARTICULO 191.
 
-presentado (sic) el dictamen al dársele lectura, el Presidente anunciará que el día siguiente la Cámara se erigirá en Gran Jurado, haciéndose saber esto por la Secretaría al acusador, si lo hay, y al acusado, para que se presenten a alegar por sí o por apoderado. A la siguiente sesión, aprobada el acta de la sesión anterior se erigirá la Cámara en Gran Jurado leyéndose en sesión pública todo el expediente y alegarán por su orden el acusador y el acusado. Concluido éste y retirados ambos, se procederá en el acto de discusión y votación final del dictamen.
+presentado el dictamen al dársele lectura, el Presidente anunciará que el día siguiente la Cámara se erigirá en Gran Jurado, haciéndose saber esto por la Secretaría al acusador, si lo hay, y al acusado, para que se presenten a alegar por sí o por apoderado. A la siguiente sesión, aprobada el acta de la sesión anterior se erigirá la Cámara en Gran Jurado leyéndose en sesión pública todo el expediente y alegarán por su orden el acusador y el acusado. Concluido éste y retirados ambos, se procederá en el acto de discusión y votación final del dictamen.
 
 ###### ARTICULO 192.
 
@@ -1674,3 +1680,7 @@ PRIMERO.- El presente Decreto, entrará en vigor el día 13 de noviembre de 2013
 P.O. 4 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
