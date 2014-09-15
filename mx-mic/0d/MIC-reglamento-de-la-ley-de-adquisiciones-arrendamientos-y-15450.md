@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-15450"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-11"
-last_updated: "2013-08-12"
+last_updated: "2014-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE SEPTIEMBRE DE 2014, EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de noviembre de 1999.
 
@@ -277,7 +279,7 @@ I. Los licitantes entregarán sus proposiciones en sobres cerrados; se proceder�
 
 II. Inmediatamente después de lo anterior, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos. Los participantes rubricarán todas las propuestas presentadas;
 
-III. En caso de que el fallo de la licitación no se realice en la misma fecha, el Director General del Comité de Adquisiciones señalará fecha y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los quince días naturales contados a partir de la fecha entrega (sic) y apertura de las proposiciones, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de siete días naturales contados a partir del plazo establecido originalmente. En su caso, durante este periodo, el Comité y la dependencia o entidad de que se trate, harán el análisis detallado de las propuestas aceptadas;
+III. En caso de que el fallo de la licitación no se realice en la misma fecha, el Director General del Comité de Adquisiciones señalará fecha y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los quince días naturales contados a partir de la fecha (sic) entrega y apertura de las proposiciones, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de siete días naturales contados a partir del plazo establecido originalmente. En su caso, durante este periodo, el Comité y la dependencia o entidad de que se trate, harán el análisis detallado de las propuestas aceptadas;
 
 IV. El Comité emitirá el fallo de adjudicación, que se dará a conocer en junta pública, a la que libremente podrán asistir los licitantes que hubieran participado en la presentación y apertura de proposiciones. En sustitución de esta junta, el Comité podrá acordar que el Director General del Comité de Adquisiciones comunique por escrito el fallo de la licitación a cada uno de los licitantes;
 
@@ -355,7 +357,7 @@ l. Plazo para efectuarlo a partir de la fecha en que sea exigible la obligación
 
 II. Tasa de descuento que en su caso se pacte por pronto pago; y,
 
-III. Tasa de gastos financieros que en su caso se pacte por inclumplimiento (sic) al pago en el plazo que se establezca conforme a la fracción I, que en ningún caso podrá ser mayor a la establecida en la Ley de Ingresos del Estado, tratándose de prórroga para pago de créditos fiscales, especificando que dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días de calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
+III. Tasa de gastos financieros que en su caso se pacte por (sic) inclumplimiento al pago en el plazo que se establezca conforme a la fracción I, que en ningún caso podrá ser mayor a la establecida en la Ley de Ingresos del Estado, tratándose de prórroga para pago de créditos fiscales, especificando que dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días de calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
 
 ###### ARTICULO 27.
 
@@ -383,7 +385,7 @@ Los proveedores cubrirán las cuotas compensatorias a que, conforme a la ley de 
 
 Las dependencias, entidades y en su caso los ayuntamiantos (sic) estarán obligadas a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
 
-Para los efectos del párrafo anterior, las dependencias, entidades y en su caso los ayuntamientos, en los actos o contratos de adquisiciones, arrendamientos o servcios, (sic) deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en su caso de ser necesario, la capacitación del personal que operará los equipos.
+Para los efectos del párrafo anterior, las dependencias, entidades y en su caso los ayuntamientos, en los actos o contratos de adquisiciones, arrendamientos o servcios (sic), deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en su caso de ser necesario, la capacitación del personal que operará los equipos.
 
 ### Capítulo IV. De las Excepciones a la Licitación Pública
 
@@ -397,7 +399,7 @@ Las dependencias, entidades y la Dirección, podrán contratar adquisiciones, ar
 
 Para los efectos de lo señalado en el párrafo anterior, excepto en lo relativo a la publicación de la convocatoria, las dependencias, entidades y el Comité, se sujetarán a las disposiciones relativas al procedimiento de adquisición mediante licitación pública, contenidas en este Reglamento. Las dependencias y entidades, así como el Comité, deberán difundir en medios electrónicos la invitación simplificada para aquellos casos en que se emplee el procedimiento por invitación restringida, en lo que deberán participar al menos tres y hasta un número indeterminado de proveedores.
 
-En todo caso, se convocará a los proveedores que cuenten con capacidad de respuesta inmedianta, (sic) así como con los recursos técnicos, financieros y demás que sean necesarios.
+En todo caso, se convocará a los proveedores que cuenten con capacidad de respuesta inmedianta (sic), así como con los recursos técnicos, financieros y demás que sean necesarios.
 
 ###### ARTICULO 31.
 
@@ -471,6 +473,38 @@ Las disposiciones de este Reglamento, en lo conducente, serán aplicables para e
 
 Tratándose de adquisiciones y contrataciones de servicios para la ejecución del programa de Seguridad Pública y acciones conexas, se autoriza la constitución de un Subcomité de Adquisiciones del Fondo de Seguridad Pública, el cual tendrá las mismas atribuciones que el Comité para efectuar los procedimientos, en esta materia, a que se refiere el artículo 5º de este Reglamento. En cuanto a la constitución de este Subcomité, el Comité Técnico de este Fideicomiso de Seguridad Pública determinará la integración del mismo.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
+
+Asimismo, para los programas de Seguridad Pública y de Procuración de Justicia, se autoriza la constitución del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, que de igual forma tendrá las atribuciones que tiene conferidas el Comité para efectuar los procedimientos a los que se refiere el artículo 5° de este Reglamento, en los rubros de Seguridad Pública y Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
+
+El Subcomité estará integrado por la Presidencia, tres vocales y un Secretario Técnico:
+
+Presidencia.
+
+l. El Titular de la dependencia encargada de la Seguridad Pública del Estado;
+
+Tres vocales.
+
+l. Un representante de la dependencia a cargo de la Procuración de Justicia del Estado;
+
+2. Un representante de la Secretaría de Finanzas y Administración;
+
+3. Un representante del Centro Estatal de Certificación, Acreditación y Control de Confianza;
+
+Secretaría Técnica.
+
+l. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
+
+La Coordinación de Contraloría y la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, tendrán representantes permanentes en el Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, con derecho a voz pero sin derecho a voto.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2014)</small>
+
+Las facultades y atribuciones del Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo y de sus integrantes se establecerán en el Reglamento Interno que apruebe el mismo órgano colegiado en su primera sesión ordinaria.
+
 ### Capítulo VI. De la Información y Verificación
 
 ###### ARTICULO 39.
@@ -511,7 +545,7 @@ Se derogan aquellas disposiciones en lo que se opongan el presente Reglamento.
 
 Morelia, Michoacán, 20 de Octubre de 1999.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.-SECRETARIO DE GOBIERNO.-C.P. GABRIEL PEREZ GIL HINOJOSA.- TESORERO GENERAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.-OFICIAL MAYOR.-C.P. OSCAR AHUMADA MENDOZA.-ENCARGADO DEL DESPACHO DE LA COORDINACION DE CONTROL Y DESARROLLO ADMINISTRATIVO. (Firmados).
+SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- C.P. GABRIEL PEREZ GIL HINOJOSA.- TESORERO GENERAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- OFICIAL MAYOR.- C.P. OSCAR AHUMADA MENDOZA.- ENCARGADO DEL DESPACHO DE LA COORDINACION DE CONTROL Y DESARROLLO ADMINISTRATIVO. (Firmados).
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -522,3 +556,17 @@ Artículo primero. El Decreto entrará en vigor el día siguiente al de su publi
 Artículo segundo. Se derogan todas las disposiciones legales y administrativas en lo que se opongan al Decreto.
 
 Artículo tercero. Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios que se encuentren en proceso al momento de publicación del presente decreto continuarán substanciándose conforme a la norma vigente al momento de la publicación de la convocatoria respectiva.
+
+P.O. 15 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, deberá ser instalado dentro de los 15 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Comité de Adquisiciones del Poder Ejecutivo, tendrá 15 días a partir de la publicación del presente Decreto para compartir al El Subcomité de Adquisiciones del Sistema de Seguridad Pública y Procuración de Justicia del Estado de Michoacán de Ocampo, el Padrón de Proveedores de la Administración Pública Estatal y todo lo relacionado con los procesos para llevar a cabo las licitaciones y adjudicaciones de contratos de adquisiciones y servicios relacionados.
