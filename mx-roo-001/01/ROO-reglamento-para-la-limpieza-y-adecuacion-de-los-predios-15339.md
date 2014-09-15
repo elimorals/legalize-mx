@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-limpieza-y-adecuacion-de-los-predios-15339"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-30"
-last_updated: "1999-07-30"
+last_updated: "2014-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,10 @@ state: "ROO"
 # REGLAMENTO PARA LA LIMPIEZA Y ADECUACION DE LOS PREDIOS UBICADOS EN EL MUNICIPIO DE COZUMEL, QUINTANA ROO
 
 REGLAMENTO PARA LA LIMPIEZA Y ADECUACIÓN DE LOS PREDIOS UBICADOS EN EL MUNICIPIO DE COZUMEL
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA LIMPIEZA, SANIDAD Y CONSERVACIÓN DE BIENES INMUEBLES EN EL MUNICIPIO DE COZUMEL, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Tomo II del Periódico Oficial del Estado de Quintana Roo, el viernes 30 de julio de 1999.
 
@@ -127,7 +131,7 @@ Las cercas de los predios ubicados en zona urbana deberán tener una altura mín
 
 ###### Artículo 12.
 
-Las cercas de los predios ubicados en zona turística deberán cumplir las especificaciones y lineamientos municipales, establecidos por la Dirección de Obras Públicas, Desarrollo Urbano y Ecología de conformidad con lo dispuesto en el Reglamento de Construcciones del Municipio de Cozumel, Q.Roo, o, en su caso, las dependencias municipales que deban conocer sobre la materia.
+Las cercas de los predios ubicados en zona turística deberán cumplir las especificaciones y lineamientos municipales, establecidos por la Dirección de Obras Públicas, Desarrollo Urbano y Ecología de conformidad con lo dispuesto en el Reglamento de Construcciones del Municipio de Cozumel, Q. Roo, o, en su caso, las dependencias municipales que deban conocer sobre la materia.
 
 ###### Artículo 13.
 
@@ -141,7 +145,7 @@ Los usuarios de los predios ubicados en el municipio se considerarán de acuerdo
 
 ###### Artículo 15.
 
-Las aceras de los predios ubicados en el municipio de Cozumel, se construirá de acuerdo con los lineamientos municipales que para tal efecto establezca la Dirección de Obras Públicas, Urbanismo y Ecología, de conformidad con lo dispuesto en el Reglamento de Construcciones del Municipio de Cozumel, Q.Roo, o en su caso las dependencias municipales que deban conocer sobre la materia, considerando la zona donde se encuentre el inmueble.
+Las aceras de los predios ubicados en el municipio de Cozumel, se construirá de acuerdo con los lineamientos municipales que para tal efecto establezca la Dirección de Obras Públicas, Urbanismo y Ecología, de conformidad con lo dispuesto en el Reglamento de Construcciones del Municipio de Cozumel, Q. Roo, o en su caso las dependencias municipales que deban conocer sobre la materia, considerando la zona donde se encuentre el inmueble.
 
 ### CAPÍTULO VII. NORMAS GENERALES DEL PROCEDIMIENTO
 
@@ -173,7 +177,7 @@ Dentro de los términos a que se refiere el artículo anterior, los propietarios
 
 ###### Artículo 21.
 
-Vencido el término a que se refiere el artículo 19 del presente ordenamiento, y en caso de omisión del propietario, el Ayuntamiento tendrá la obligación de realizar los trabajos de limpieza y adecuación de predios que se estipulan en este Reglamento, correspondiendo a los propietarios la obligación de cubrir ante la Tesorería Municipal el costo total de los trabajos realizados en su propiedad dentro de un plazo improrrogable de seis días hábiles, posteriores a la fecha de terminación de los trabajos y de conformidad con el tabulador de precios a que se refiere (sic) los artículos 31 y 32 de éste ordenamiento.
+Vencido el término a que se refiere el artículo 19 del presente ordenamiento, y en caso de omisión del propietario, el Ayuntamiento tendrá la obligación de realizar los trabajos de limpieza y adecuación de predios que se estipulan en este Reglamento, correspondiendo a los propietarios la obligación de cubrir ante la Tesorería Municipal el costo total de los trabajos realizados en su propiedad dentro de un plazo improrrogable de seis días hábiles, posteriores a la fecha de terminación de los trabajos y de conformidad con el tabulador de precios a que se refiere los artículos 31 y 32 de éste ordenamiento.
 
 ### CAPÍTULO VIII. DE LAS NOTIFICACIONES
 
@@ -195,7 +199,7 @@ Para los efectos de este apartado se aplicará en cuanto a sus formalidades, las
 
 ###### Artículo 25.
 
-A los propietarios de los predios que no cumplan con las disposiciones de este Reglamento, se les impondrá multa de 10 a 30 días de salario mínimo general vigente en el municipio de Cozumel, Q.Roo.
+A los propietarios de los predios que no cumplan con las disposiciones de este Reglamento, se les impondrá multa de 10 a 30 días de salario mínimo general vigente en el municipio de Cozumel, Q. Roo.
 
 ###### Artículo 26.
 
@@ -274,3 +278,15 @@ Tercero.- Se concede el término de 30 días hábiles, contados a partir del dí
 Y como está ordenado en el referido acuerdo del Ayuntamiento, publíquese el presente Reglamento para el conocimiento y debida observancia de sus disposiciones.
 
 Dado en la Sala de Juntas del Cabildo del Palacio Municipal en la Ciudad de Cozumel, Municipio del Estado de Quintana Roo, a los treinta y un días del mes de Mayo del año de mil novecientos noventa y nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento para la Limpieza y Adecuación de los Predios ubicados en el Municipio de Cozumel, aprobado en fecha treinta y uno de mayo de mil novecientos noventa y nueve.
+
+TERCERO.- Los procedimientos administrativos relativos a la limpieza, sanidad y conservación de inmuebles que estuvieran pendientes de resolver a la fecha en que entre en vigor este Reglamento, se seguirán tramitando y se concluirán conforme a las disposiciones anteriores al presente ordenamiento.
+
+CUARTO.- Se deroga cualquier disposición reglamentaria municipal contraria al presente ordenamiento.
