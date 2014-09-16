@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2014-07-29"
+last_updated: "2014-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1217,9 +1217,11 @@ Las sesiones de las comisiones no podrán ser públicas.
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; y la de planeación, urbanismo y obras públicas.
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; y la de transparencia y acceso a la información.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -1248,6 +1250,32 @@ III. Censar anualmente las necesidades de educación, empleo, vivienda, áreas s
 IV. Tramitar la construcción de jardines de niños y de escuelas primarias, secundarias y técnicas, que sean necesarias en las diversas partes del Municipio.
 
 V. Coordinar a los vecinos en programas de embellecimiento y mejoramiento de casas, banquetas, calles, edificios y paseos públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+ARTÍCULO 113 BIS. La Comisión de Transparencia y Acceso a la Información, tendrá, además de las que se les señalen en el Reglamento Interior, las siguientes facultades y obligaciones:
+
+I. Coordinar y supervisar las acciones de las Unidades de Atención y la entrega de la información requerida;
+
+II. Supervisar dentro del Ayuntamiento que corresponda, la aplicación de las disposiciones emitidas por las autoridades correspondientes en la materia, con el objeto de hacer cumplir la presente Ley;
+
+III. Conocer en todo momento la información clasificada como reservada o la confidencial;
+
+IV. Confirmar, modificar o revocar la clasificación de la información hecha por las unidades administrativas del sujeto obligado;
+
+V. Vigilar que el sistema de información se ajuste a la normatividad aplicable;
+
+VI. Proponer las acciones necesarias para garantizar la protección de los datos personales;
+
+VII. Proponer la política del sujeto obligado en materia de transparencia, acceso a la información y datos personales;
+
+VIII. Supervisar el registro y actualización de las solicitudes de acceso a la información, así como sus trámites, costos y resultados.
+
+IX. Instruir a los servidores públicos del sujeto obligado, que generen y documenten la información conforme a sus atribuciones y facultades; y
+
+X. Declarar la inexistencia de la información.
+
+XI. Las demás que le confieran las disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -2442,6 +2470,12 @@ Los cargos del Consejo serán honoríficos, por lo que sus miembros no percibir�
 ###### ARTÍCULO 229.
 
 Las atribuciones y obligaciones de los Consejos Municipales de Protección Civil, en el ámbito de sus respectivas competencias, serán aquellas que se encuentren determinadas en la Ley Estatal de Protección Civil para el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 229-A.
+
+Las unidades municipales de protección civil, vigilarán y supervisarán, que cumplan con las medidas de prevención y de protección civil, las minas y cualquier instalación, construcción, actividad, servicio u obra y otros establecimientos en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo, para en su caso, aplicar en el ámbito de su competencia, las medidas correctivas y sanciones que, por infracciones a la ley de la materia y demás disposiciones aplicables, correspondan, o bien, promover ante la autoridad competente la ejecución de medidas de seguridad que establezcan las normas aplicables.
 
 ### CAPÍTULO VI. DE LA CONCURRENCIA DEL ESTADO EN LA PRESTACIÓN DE LOS SERVICIOS
 
@@ -4166,3 +4200,21 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- Los procedimientos administrativos que actualmente se encuentren en trámite, se regirán conforme a las disposiciones procesales aplicables anteriores al presente decreto, hasta resolver en definitiva según corresponda.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+DECRETO NÚMERO 533 POR EL QUE SE ADICIONA EL ARTÍCULO 229-A, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+DECRETO NÚMERO 535 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 111 Y SE ADICIONA EL ARTÍCULO 113 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Comisión de Transparencia y Acceso a la Información deberán (sic) quedar instalada en un plazo no mayor de 30 días naturales contados a partir de la entrada en vigor del presente Decreto.
