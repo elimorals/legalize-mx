@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2014-07-11"
+last_updated: "2014-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -747,7 +747,7 @@ III. En las diligencias de mera ejecución; entendidas como aquellas en las que 
 
 IV. Cuando se basen en opiniones expresadas por el juzgador al intentar la conciliación de las partes.
 
-V. En los demás actos que no importen conocimiento de causa, ni radiquen (sic) jurisdicción.
+V. En los demás actos que no importen conocimiento de causa, ni radiquen jurisdicción.
 
 ###### ARTÍCULO 73.
 
@@ -1017,7 +1017,7 @@ Si de las pruebas no resulta la legitimación activa o pasiva, la sentencia rech
 
 Substitución procesal.
 
-Nadie puede hacer valer en juicio en nombre propio, un derecho ajeno excepto en los casos previstos por la ley, Sin (sic) embargo, es dable ejercer por un interés propio un derecho ajeno en los siguientes casos:
+Nadie puede hacer valer en juicio en nombre propio, un derecho ajeno excepto en los casos previstos por la ley, Sin embargo, es dable ejercer por un interés propio un derecho ajeno en los siguientes casos:
 
 I. El acreedor podrá hacer efectivo el derecho que compete a su deudor, cuando conste el crédito en título ejecutivo y excitado éste para que lo haga efectivo descuide o rechace hacerlo. En este caso, el tercero demandado puede paralizar la pretensión pagando al demandante el monto de su crédito.
 
@@ -2085,7 +2085,7 @@ d) La fecha y hora en que se deja.
 
 e) El nombre y apellido de la persona a quien se entrega.
 
-f) el (sic) nombre, apellido y cargo de la persona que practique la notificación.
+f) el nombre, apellido y cargo de la persona que practique la notificación.
 
 La persona que recoja la cédula, deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo.
 
@@ -2349,9 +2349,9 @@ Los tribunales requeridos sólo podrán denegar la diligenciación de exhortos, 
 
 I. Cuando la resolución cuya ejecución se requiera afecte bienes inmuebles o derechos reales constituidos sobre los mismos, que se ubiquen en la jurisdicción del requerido, y sea contraria a las leyes del lugar de ejecución.
 
-II. Cuando se trate de derechos personales o del estado civil y la persona obligada no se haya sometido expresamente o por razón de domicilio, a la jurisdicción del tribunal requiriente (sic), y si se trata de sentencia, cuando aparezca que no fue citada personalmente para ocurrir al juicio.
+II. Cuando se trate de derechos personales o del estado civil y la persona obligada no se haya sometido expresamente o por razón de domicilio, a la jurisdicción del tribunal requiriente, y si se trata de sentencia, cuando aparezca que no fue citada personalmente para ocurrir al juicio.
 
-III. Cuando no proceda la ejecución de la sentencia pronunciada por el tribunal requeriente (sic) en los términos de lo dispuesto por la fracción III del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
+III. Cuando no proceda la ejecución de la sentencia pronunciada por el tribunal requeriente en los términos de lo dispuesto por la fracción III del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 237.
 
@@ -5891,7 +5891,7 @@ IV. Si el Ministerio Público o cualquier interesado se oponen a la inscripción
 
 V. Desahogadas las pruebas se dictará sentencia aprobando la inscripción si reúnen los siguientes requisitos:
 
-a) Que se apruebe (sic) fehacientemente que no existe inscripción anterior.
+a) Que se apruebe fehacientemente que no existe inscripción anterior.
 
 b) Que se pruebe el nacimiento de la persona a quien se refiere la inscripción que se pide autorizar.
 
@@ -5945,7 +5945,9 @@ En los casos en que el tutor solicite dispensa para contraer matrimonio con la p
 
 Diferencias conyugales.
 
-Se tramitarán conforme a las reglas de este Capítulo, las diferencias que surjan entre marido y mujer:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+Se tramitarán conforme a las reglas de este Capítulo, las diferencias que surjan entre los cónyuges:
 
 I. Sobre el establecimiento y modificación del domicilio conyugal.
 
@@ -6035,7 +6037,9 @@ V. Las precauciones que deberán adoptarse respecto de la mujer que quede en cin
 
 Situación de los hijos menores de edad una vez anulado el matrimonio.
 
-Luego que la sentencia sobre nulidad del matrimonio cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos menores y el juzgador resolverá a su criterio de acuerdo con las circunstancias del caso y atentos los intereses superiores de los menores.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+Luego que la sentencia sobre nulidad del matrimonio cause ejecutoria, los padres propondrán la forma y términos del cuidado y la custodia de los hijos menores y el juzgador resolverá a su criterio de acuerdo con las circunstancias del caso y atentos los intereses superiores de los menores.
 
 El juzgador en todo tiempo podrá modificar la determinación sobre la custodia de los hijos, atento al cumplimiento de las obligaciones que a los padres les impone el desempeño de la patria potestad, previsto por el Código Civil.
 
@@ -6093,7 +6097,7 @@ II. Actas de nacimientos del solicitante y de los hijos menores.
 
 III. Las pruebas que sean necesarias para justificar la solicitud de medidas provisionales o urgentes.
 
-IV. La Propuesta de convenio de divorcio, que debe contener, por lo menos, los requisitos previstos en el artículo 363 del Código Civil: (sic)
+IV. La Propuesta de convenio de divorcio, que debe contener, por lo menos, los requisitos previstos en el artículo 363 del Código Civil:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6453,11 +6457,11 @@ La sentencia que se dicte es apelable en el efecto suspensivo.
 
 En cualquier estado del juicio, el juzgador podrá ordenar, de oficio o a petición de parte, que la custodia del hijo quede al cuidado de uno de los padres o de tercera persona y podrá además acordar las medidas cautelares que juzgue adecuadas.
 
-(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
 ARTÍCULO 605 BIS.
 
-El Juez de la causa deberá, en beneficio de los menores internos en una institución de asistencia social pública o privada, decretar dentro de un mismo juicio la pérdida de la patria potestad tanto a los padres como a los abuelos paternos y maternos, cuando estos últimos no evitaron los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor, así como también cuando quede acreditada alguna de las causas señaladas en el artículo 545 del Código Civil Vigente en el Estado, lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad, bastando con que los padres se encuentren impedidos para ejercerlos, ya sea física, mental o moralmente con independencia de que exista una resolución judicial que así lo haya determinado.
+El Juez de la causa deberá en beneficio de los menores internos en una institución de asistencia social pública o privada, decretar dentro de un mismo juicio la pérdida de la patria potestad tanto a los padres como a los abuelos, cuando estos últimos no evitaron los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor, así como también cuando quede acreditada alguna de las causas señaladas en el artículo 545 del Código Civil Vigente en el Estado, lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad, bastando con que los padres se encuentren impedidos para ejercerlos, ya sea física, mental o moralmente con independencia de que exista una resolución judicial que así lo haya determinado.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
@@ -6499,9 +6503,9 @@ Requisitos para que se autorice judicialmente la adopción. Para que se autorice
 
 I. Ser mayor de 25 años, tener 17 años más que el adoptado, el Juez lo puede dispensar en beneficio del adoptado, y a solicitud de los promoventes de forma personal y directa, atendiendo al interés superior del menor.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
-II. Que existe común acuerdo entre la pareja para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
+II. Que existe común acuerdo entre los cónyuges para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
 
 III. Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijos propios, según las circunstancias de la persona que trate de adoptarse.
 
@@ -6627,7 +6631,7 @@ En los casos de extrema urgencia, se estará a lo dispuesto en el artículo 550.
 
 En todo lo no previsto y en cuanto no se oponga a lo ordenado en el presente Capítulo, se aplicarán las reglas generales de este código.
 
-### CAPÍTULO DUODÉCIMO (SIC). Interdicción
+### CAPÍTULO DUODÉCIMO. Interdicción
 
 ###### ARTÍCULO 618.
 
@@ -6837,7 +6841,9 @@ I. Los tutores testamentarios cuando expresamente los haya relevado de esta obli
 
 II. El tutor que no administre bienes.
 
-III. El padre, la madre y los abuelos del menor o incapacitado, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo que el juzgador, lo crea conveniente.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+III. Los padres y los abuelos del menor o incapacitado, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo que el juzgador, lo crea conveniente.
 
 IV. Los que acojan a un expósito, lo alimenten y eduquen, de manera eficiente y apropiada por más de cinco años, a no ser que hubieren recibido pensión para cuidar de él.
 
@@ -7139,7 +7145,9 @@ Legitimación para solicitar la constitución del patrimonio de familia.
 
 El patrimonio de familia podrá constituirse:
 
-I. Por el padre o por la madre, y en su defecto por el ascendiente que ejerza la patria potestad.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+I. Por alguno de los padres, o ambos, cualquiera de los cónyuges o ambos, cualquiera de los concubinos o ambos, la madre soltera o el padre soltero, las abuelas, los abuelos, las hijas y los hijos y en su defecto por el ascendiente que ejerza la patria potestad.
 
 II. Por los cónyuges sobre sus bienes respectivos, sin que tratándose de la mujer, necesite autorización de su marido.
 
@@ -12783,7 +12791,7 @@ Los gastos y costas en los procedimientos sin litigio serán a cargo del promove
 
 ###### ARTÍCULO 1149.
 
-Carácter supletorio de las normas de este CAPÍTULO (sic) respecto a todos los procedimientos sin litigio.
+Carácter supletorio de las normas de este CAPÍTULO respecto a todos los procedimientos sin litigio.
 
 Son extensivas a los procedimientos sin litigio que se regulan en este código, las disposiciones contenidas en los artículos precedentes en cuanto no se opongan a lo que se ordena respecto a cada uno de ellos.
 
@@ -13492,3 +13500,7 @@ P.O. 11 DE JULIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
