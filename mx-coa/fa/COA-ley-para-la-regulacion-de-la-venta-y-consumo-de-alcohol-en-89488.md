@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2012-09-18"
+last_updated: "2014-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -57,7 +57,7 @@ III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso 
 
 ###### ARTÍCULO 2.
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarías de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Seguridad Pública, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Seguridad Pública, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
 
 Supletoriedad
 
@@ -309,9 +309,11 @@ V. En los centros de espectáculos, deportivos o recreativos se podrá expender 
 
 Días Domingo
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 15.
 
-La venta de bebidas alcohólicas en envase cerrado en los establecimientos a que se refiere la fracción I del artículo anterior, con excepción de las distribuidoras y depósitos de cerveza, estará permitido los días domingo, de las 10:00 a las 14:00 horas.
+La venta de bebidas alcohólicas en envase cerrado en los establecimientos a que se refiere la fracción I del artículo anterior, estará permitido los días domingo, de las 10:00 a las 14:00 horas.
 
 Excepción
 
@@ -1015,7 +1017,7 @@ XII. Anunciarse al público por cualquier medio, con un giro de los previstos en
 
 XIII. Expender o vender bebidas alcohólicas en instituciones educativas, centros de reinserción social, instalaciones de gobierno, instituciones de beneficencia, hospitales, sanatorios y similares;
 
-XIV. Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a los inspectores o cualquier otro servidor público del estado y los municipios, y (sic)
+XIV. Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a los inspectores o cualquier otro servidor público del estado y los municipios, y
 
 XV. Permitir que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar; y
 
@@ -1330,3 +1332,11 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
