@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2013-12-27"
+last_updated: "2014-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -263,7 +263,7 @@ XVIII Bis.- El establecimiento y respeto de zonas intermedias de salvaguardia, c
 
 XIX.- La estricta aplicación de las leyes, normas, reglamentos, planes y programas en materia de desarrollo urbano y vivienda;
 
-XX.- La conservación y mejoramiento del ambiente que conforma (sic) los asentamientos humanos; y
+XX.- La conservación y mejoramiento del ambiente que conforma los asentamientos humanos; y
 
 XXI.- Impedir el establecimiento de asentamientos humanos irregulares y fraccionamientos, condominios o conjuntos habitaciones (sic) al margen de lo dispuesto por esta ley y demás disposiciones aplicables.
 
@@ -293,6 +293,14 @@ IV.- La documentación que acredite que el solicitante está al corriente en el 
 
 V.- Si el solicitante actúa a nombre y representación de un tercero, deberá acreditar su mandato en los términos de las leyes aplicables. Sin esta circunstancia se tendrá por no presentada la solicitud.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+VI.- Presentar el proyecto de programa de prevención de accidentes internos y externos cuando las actividades impliquen un riesgo a las personas, sus bienes o al medio ambiente, en los términos de la Ley de Protección Civil para el Estado de Coahuila de Zaragoza;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+VII.- Cuando sean solicitadas con la finalidad de establecer instalaciones, realizar construcciones u obras destinadas a la producción minera, presentar copia de los documentos que acrediten el otorgamiento de concesión minera.
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
 Las autorizaciones, permisos, licencias, constancias y documentos a que se refiere este artículo, deberán estar vigentes conforme a las normas que regulan su expedición a la fecha de presentación de la solicitud. Tratándose de aquellos referidos en las fracciones III y V, la fecha de expedición de los mismos no deberá ser mayor de 90 días.
@@ -300,6 +308,10 @@ Las autorizaciones, permisos, licencias, constancias y documentos a que se refie
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2011)</small>
 
 La autorización a que se refiere la fracción III Bis de este artículo no será exigible tratándose de solicitudes de constancias de uso del suelo.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+No se otorgará constancia de uso de suelo o licencia de funcionamiento sin cubrir los requisitos a que se refieren las fracciones VI y VII, para los solicitantes que ejerzan o pretendan ejercer actividad minera.
 
 ###### ARTICULO 8.
 
@@ -374,6 +386,10 @@ XVIII.- La racionalidad en el aprovechamiento de las fuentes de abastecimiento d
 XIX.- El contexto urbano, la proyección de sombras y las características de las fachadas y alturas de las construcciones;
 
 XX.- La prevención y atención de las emergencias urbanas;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+XX Bis.- Las prevenciones que se deben observar en atención a lo dispuesto en la Ley de Protección Civil para el Estado de Coahuila de Zaragoza;
 
 XXI.- Las especificaciones en la construcción que garanticen la seguridad de las obras contra los efectos de los fenómenos naturales, tales como sismos, inundaciones y otros análogos;
 
@@ -672,6 +688,10 @@ XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 XLI.- Expedir las constancias de usos del suelo y las licencias de funcionamiento de los establecimientos industriales, comerciales y de servicios en el municipio. En ningún caso podrán otorgar constancias de uso de suelo para casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+No se otorgará constancia de uso de suelo o licencia de funcionamiento a quienes ejerzan o pretendan ejercer actividad minera y no presenten el proyecto de programa de prevención de accidentes internos y externos, así como los documentos que acrediten el otorgamiento de concesión minera;
 
 XLII.- Vigilar que las acciones, obras y servicios que se ejecuten en el municipio sean compatibles con la legislación, programas y declaratorias aplicables;
 
@@ -1369,6 +1389,10 @@ La constancia de uso del suelo es independiente y condiciona la expedición por 
 
 ARTICULO 84 BIS.- En ningún caso se expedirán constancias de uso de suelo, ya sea municipal o estatal, para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
 
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+
+No se otorgará constancia de uso de suelo a quienes ejerzan o pretendan ejercer actividad minera y no presenten el proyecto de programa de prevención de accidentes internos y externos, así como los documentos que acrediten el otorgamiento de concesión minera.
+
 ###### ARTICULO 85.
 
 Las áreas de desarrollo urbano y de preservación ecológica; los usos, reservas o destinos asignados a las zonas en que se clasifique el territorio de los municipios; los límites de los centro (sic) de población y las normas de planificación urbana que regulan los predios y construcciones, determinadas en los programas y declaratorias, sólo podrán ser modificados, de acuerdo con los cambios que se incorporen a los programas de desarrollo urbano, con base en esta ley.
@@ -2007,7 +2031,7 @@ El fraccionador deberá adquirir la superficie necesaria para infraestructura y 
 
 ###### ARTICULO 162.
 
-Los proyectos y cálculos relativos a redes y sistemas de agua potable y alcantarillado, así como la perforación de pozos para agua potable y las descargas de aguas residuales, se regirán por las normas federales y estatales aplicables en la materia. La Secretaría y los municipios verificarán su cumplimiento previamente al otorgamiento de las autorizaciones, permisos y licencias a que se refiere esta ley; garantizando que en todo momento, se cumplan (sic) con lo dispuesto en el artículo 61 de la Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza.
+Los proyectos y cálculos relativos a redes y sistemas de agua potable y alcantarillado, así como la perforación de pozos para agua potable y las descargas de aguas residuales, se regirán por las normas federales y estatales aplicables en la materia. La Secretaría y los municipios verificarán su cumplimiento previamente al otorgamiento de las autorizaciones, permisos y licencias a que se refiere esta ley; garantizando que en todo momento, se cumplan con lo dispuesto en el artículo 61 de la Ley de Aguas para los Municipios del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 163.
 
@@ -3113,7 +3137,7 @@ IX.- A quienes no realicen las obras dentro de los plazos señalados en el progr
 
 X.- Al propietario de un fraccionamiento que sin contar con la autorización correspondiente, celebre cualquier acto jurídico o incurra en acciones u omisiones que mediata o inmediatamente, tengan la finalidad de transmitir la propiedad o posesión de lotes de terreno, se les aplicará una sanción equivalente al monto total de las operaciones efectuadas y de no existir otras de urbanización, además se hará acreedor a una sanción equivalente a cinco mil veces el salario mínimo general vigente, sin perjuicio de la responsabilidad penal que le resulte;
 
-XI.- Al fraccionador que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a setecientas veces el salario mínimo general vigente; y (sic)
+XI.- Al fraccionador que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a setecientas veces el salario mínimo general vigente; y
 
 XII.- A quienes no respeten la cesión a favor del municipio correspondiente del total del porcentaje de la superficie destinada al ayuntamiento para el equipamiento urbano en los términos de esta ley, se les aplicará una sanción equivalente al costo del 15% de la superficie lotificada vendible, de acuerdo con el precio por metro cuadrado promedio al que se hayan enajenado los lotes, sin perjuicio de ceder la parte faltante al municipio.
 
@@ -3430,3 +3454,9 @@ El Ejecutivo del Estado, a través de las Secretarías correspondientes, deberá
 ###### ARTÍCULO TERCERO.
 
 Los sujetos obligados deberán dar cumplimiento a lo dispuesto en el presente decreto, a más tardar el 1 de enero de 2014. Las instituciones de educación lo harán a partir del inicio del siguiente ciclo escolar.
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
