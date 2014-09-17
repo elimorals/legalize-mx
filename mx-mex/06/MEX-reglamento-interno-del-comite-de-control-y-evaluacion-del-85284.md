@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-85284
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-17"
-last_updated: "2012-01-17"
+last_updated: "2014-09-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, PUBLICADO EN LA G.G. DE 17 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 17 de enero de 2012.
 
@@ -318,3 +320,15 @@ MTRO. ARMANDO MÉNDEZ GUTIÉRREZ
 DIRECTOR GENERAL DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE publicado en "Gaceta de Gobierno" el 17 de enero de 2012.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
