@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-educacion-cultura-y-190
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-11"
-last_updated: "2001-01-11"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 11 de enero de 2001.
 
@@ -31,21 +31,27 @@ ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCIC
 
 C O N S I D E R A N D O.
 
-En mérito del lo expuesto, he tenido a bien expedir el siguiente:
+En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN
 
 ### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARIA
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Educación, Cultura y Bienestar Social.
+El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Educación.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-La Secretaría de Educación, Cultura y Bienestar Social, como dependencia del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, la Ley de Educación del Estado de México y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado de México.
+La Secretaría de Educación, como dependencia del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, la Ley de Educación del Estado de México y otras leyes, así como los reglamentos, decretos, acuerdos y órdenes que expida el Gobernador del Estado de México.
 
-Cuando en este ordenamiento se haga referencia a la Secretaría, se entenderá a la Secretaría de Educación, Cultura y Bienestar Social y Secretario, al Secretario de Educación, Cultura y Bienestar Social.
+Cuando este ordenamiento haga referencia a la Secretaría, se entenderá a la Secretaría de Educación y Secretario, al Secretario de Educación.
 
 ###### Artículo 3.
 
@@ -91,21 +97,31 @@ El Secretario tendrá las siguientes atribuciones no delegables:
 
 I. Fijar, dirigir y controlar la política general de la Secretaría;
 
-II. Planear, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de los organismos auxiliares y fideicomisos del Poder Ejecutivo del Estado que se le adscriban sectorialmente; para tal efecto, aprobará sus programas de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+II. Planear, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de los organismos auxiliares adscritos sectorialmente a la Secretaría. Para tal efecto, aprobará sus programas de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado.
 
 III. Desempeñar las comisiones y funciones especiales que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas;
 
-IV. Proponer al Ejecutivo del Estado los proyectos de leyes, reglamentos, decretos, acuerdos y convenios, sobre los asuntos de la competencia de la Secretaría, así como de los organismos auxiliares y fideicomisos de su sector;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Proponer al Ejecutivo del Estado los proyectos de leyes, reglamentos, decretos, acuerdos y convenios, sobre los asuntos de la competencia de la Secretaría, así como de los organismos auxiliares de su sector.
 
 V. Comparecer ante la Legislatura del Estado, en los términos de los artículos 52 y 77 fracción XXII de la Constitución Política del Estado, para informar de la situación que guarda su ramo o sector correspondiente, o bien cuando se discuta una ley o se estudie un asunto relacionado con sus actividades;
 
-VI. Aprobar la organización de la Secretaría y de los organismos auxiliares y fideicomisos que le sean asignados sectorialmente, así como los manuales de organización, de procedimientos y de servicios al público, en coordinación con la Secretaría de Administración;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Aprobar la organización de la Secretaría y de los organismos auxiliares que le sean asignados sectorialmente, así como los manuales de organización, de procedimientos y de servicios al público, en coordinación con la Secretaría de Finanzas.
 
 VII. Acordar con el Gobernador del Estado, los nombramientos de los titulares de las unidades administrativas que integran la Secretaría;
 
-VIII. Aprobar los planes y programas de estudios para diferentes tipos, medios y modalidades, así como sus contenidos regionales, en términos de la legislación aplicable en la materia;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-IX. Celebrar, previo acuerdo del Ejecutivo del Estado, convenios de coordinación en materia educativa, cultural, deportiva y de juventud, con los gobiernos federal y municipales de la entidad, o bien con otras entidades públicas o privadas;
+VIII. Aprobar los planes y programas de estudios para los diferentes tipos y niveles educativos, así como sus contenidos regionales, en términos de la legislación aplicable.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Celebrar, previo acuerdo del Ejecutivo del Estado, convenios de coordinación en materia educativa, cultural y deportiva con los gobiernos federal, estatales o municipales de la Entidad, o bien, con otras entidades públicas o privadas.
 
 X. Definir la participación y corresponsabilidad de la sociedad en el proceso educativo en el nivel y modalidad que le compete;
 
@@ -113,17 +129,25 @@ XI. Dictar las políticas y lineamientos generales para normar y coordinar la ac
 
 XII. Aprobar, en su caso, los ajustes al calendario escolar para cada ciclo lectivo de educación básica y normal, con respecto del establecido por la autoridad educativa federal, y publicarlo en el periódico oficial "Gaceta del Gobierno";
 
-XIII. Establecer los lineamientos y políticas para el funcionamiento de los órganos de participación, coordinación o consulta del sector educación, cultura, deporte y juventud, y vigilar el cumplimiento de las obligaciones que le impongan los ordenamientos legales que lo rigen;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Establecer los lineamientos y políticas para el funcionamiento de los órganos de participación, coordinación o consulta del sector educación, cultura y deporte y vigilar el cumplimiento de las obligaciones que le impongan los ordenamientos legales correspondientes.
 
 XIV. Proponer al Gobernador del Estado el sistema de estímulos y recompensas a la labor docente;
 
 XV. Definir las normas y políticas para el otorgamiento de becas y la prestación del servicio social en la entidad;
 
-XVI. Resolver los recursos administrativos que se interpongan en contra de actos emitidos por servidores públicos de la Secretaría;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-XVII. Aprobar el anteproyecto del presupuesto anual de egresos de la Secretaría y de las comisiones que presida, remitiéndolo a la Secretaría de Finanzas y Planeación para su revisión correspondiente, así como sancionar el de los organismos auxiliares y fideicomisos bajo su coordinación;
+XVI. Certificar los documentos que correspondan al ejercicio de sus funciones.
 
-XVIII. Presidir la Comisión Interna de Modernización y Mejoramiento Integral de la Administración Pública de la Secretaría, así como crear e integrar las demás comisiones que sean necesarias para su buen funcionamiento;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. Aprobar el anteproyecto de presupuesto anual de egresos de la Secretaría y de las comisiones que presida, remitiéndolo a la Secretaría de Finanzas para su revisión, así como sancionar el de los organismos auxiliares bajo su coordinación.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XVIII. Crear, integrar y presidir las comisiones que sean necesarias para el buen funcionamiento de la Secretaría.
 
 XIX. Determinar, con la Coordinación General de Comunicación Social, los lineamientos que habrán de regir la difusión de las actividades y funciones propias de las Secretaría;
 
@@ -161,13 +185,21 @@ X. Desempeñar las comisiones que el Secretario le encomiende, e informarle resp
 
 XI. Rendir por escrito los informes diario, semanal, mensual y anual de las actividades realizadas por la subsecretaría a su cargo, así como los que le sean requeridos eventualmente; y
 
-XII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el titular de la Secretaría.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el titular de la Secretaría.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS SUBSECRETARIAS Y DE LA ADSCRIPCION DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 8.
 
-A la Subsecretaría de Educación Básica y Normal le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación básica y normal de los subsistemas estatal y federalizado; propiciar el desarrollo del magisterio que atiende a estos niveles, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares y fideicomisos que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables;
+A la Subsecretaría de Educación Básica y Normal le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación básica y normal de los subsistemas estatal y federalizado, propiciar el desarrollo del magisterio que atiende a estos tipos educativos, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
 
 Quedan adscritas a la Subsecretaría de Educación Básica y Normal:
 
@@ -175,9 +207,11 @@ I. Dirección General de Educación Básica; y
 
 II. Dirección General de Educación Normal y Desarrollo Docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 9.
 
-A la Subsecretaría de Educación Media Superior y Superior le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación media superior y superior, propiciar el desarrollo del magisterio que atiende a estos niveles, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares y fideicomisos que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+A la Subsecretaría de Educación Media Superior y Superior le corresponde planear, programar, dirigir, controlar y evaluar las funciones de educación media superior y superior, propiciar el desarrollo del magisterio que atiende a estos tipos educativos, organizar y controlar la prestación del servicio social, así como coadyuvar con la Secretaría en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
 
 Quedan adscritas a la Subsecretaría de Educación Media Superior y Superior:
 
@@ -185,9 +219,11 @@ I. Dirección general de Educación Media Superior; y
 
 II. Dirección General de Educación Superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-A la Subsecretaría de Planeación y Administración le corresponde proponer, coordinar y evaluar los planes, programas y proyectos del sector; atender a la administración de los recursos humanos, financieros y materiales de la Secretaría, así como coadyuvar con ésta en coordinación de los organismos auxiliares y fideicomisos que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
+A la Subsecretaría de Planeación y Administración le corresponde proponer, coordinar y evaluar los planes, programas y proyectos del sector; coordinar y evaluar acciones en materia de equidad de género, seguro escolar, tecnologías de la información, desarrollo administrativo; atender a la administración de los recursos humanos, financieros y materiales de la Secretaría, así como coadyuvar con esta en la coordinación de los organismos auxiliares que le correspondan, con apego a las leyes, reglamentos y demás ordenamientos aplicables.
 
 Quedan suscritas a la Subsecretaría de planeación y Administración:
 
@@ -221,13 +257,17 @@ III. Emitir los dictámenes, opiniones e informes que les sean solicitados por s
 
 IV. Formular y proponer a su superior inmediato los anteproyectos de programas anuales de actividades y de presupuesto que les corresponda, así como gestionar los recursos que les sean necesarios para el eficaz desarrollo de sus funciones;
 
-V. Someter a la consideración de su superior inmediato el ingreso, licencias, promociones, remoción y cese del personal de la dirección general a su cargo, conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. Someter a la consideración de su superior inmediato el ingreso, licencias, promociones, remociones y cese del personal administrativo de la dirección general a su cargo, conforme a las disposiciones legales aplicables.
 
 VI. Proponer a su superior inmediato las modificaciones administrativas que tiendan a lograr el mejor funcionamiento de la dirección general a su cargo;
 
 VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten;
 
-VIII. Colaborar con el subsecretario correspondiente en el desempeño de las funciones que el titular de la Secretaría tenga encomendadas como coordinador del sector, respecto a los organismos auxiliares y fideicomisos del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Colaborar con el Subsecretario correspondiente en el desempeño de las funciones que el titular de la Secretaría tenga encomendadas como coordinador de sector, respecto a los organismos auxiliares del Poder Ejecutivo.
 
 IX. Tramitar y resolver, en su caso, los recursos administrativos que se les presenten;
 
@@ -235,7 +275,17 @@ X. Proporcionar, previo acuerdo del Secretario o del subsecretario que correspon
 
 XI. Rendir por escrito a su superior inmediato los informes diario, semanal, mensual y anual de las actividades realizadas por la dirección general a su cargo, así como los requeridos eventualmente; y
 
-XII. Las demás que les confieran las disposiciones legales aplicables y aquellas que les encomiende el titular de la Secretaría o de la subsecretaria correspondiente.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Participar, en su caso, en los actos y procedimientos relacionados con el ingreso, promoción, permanencia y reconocimiento del personal docente conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Las demás que les confieran las disposiciones legales aplicables y aquellas que les encomiende el titular de la Secretaría o de la Subsecretaría correspondiente.
 
 ### CAPITULO VI. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES GENERALES Y DEMAS UNIDADES ADMINISTRATIVAS
 
@@ -247,11 +297,15 @@ I. Organizar, operar, desarrollar y supervisar los servicios de educación bási
 
 II. Participar en la formulación, actualización y difusión de los planes y programas de estudio en educación básica, de acuerdo con las normas institucionales vigentes;
 
-III. Aplicar las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del nivel básico;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo de tipo básico.
 
 IV. Promover y apoyar el establecimiento de instituciones de educación especial, destinadas a niños y jóvenes con requerimientos en esta modalidad educativa;
 
-V. Desarrollar los contenidos programáticos de educación física, artística y de salud, así como de computación y de un idioma extranjero, e impartirlos en instituciones educativas del nivel básico;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. Desarrollar los contenidos programáticos de educación física, artística y de salud, así como de computación y de idioma extranjero, e impartirlos en instituciones educativas de educación básica.
 
 VI. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de planteles de educación básica en la entidad;
 
@@ -271,13 +325,19 @@ Corresponde a la dirección General de Educación Normal y Desarrollo Docente, e
 
 I. Organizar, operar, desarrollar, y supervisar los servicios de educación normal en el subsistema educativo estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
 
-II. Participar en la formulación, actualización y difusión de los planes y programas de estudio educativo normal, de acuerdo con las normas institucionales vigentes;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-III. Aplicar las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del nivel normal;
+II. Participar en la elaboración, actualización y difusión de los planes y programas de educación normal, de acuerdo con la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como los instrumentos de evaluación del aprendizaje que se requieran en la educación normal.
 
 IV. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de planteles de educación normal en la entidad;
 
-V. Diseñar y desarrollar programas de actualización permanente y de superación y certificación académica, para los docentes que laboren en el subsistema educativo estatal;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. Diseñar y desarrollar programas de actualización permanente, de superación y certificación académica para los docentes que laboren en el subsistema educativo estatal, de conformidad con las disposiciones legales aplicables.
 
 VI. Organizar la elaboración y adecuación de publicaciones y otros materiales de apoyo didáctico, para la impartición de educación normal en la entidad, de conformidad con los planes y programas de estudio autorizados;
 
@@ -287,7 +347,7 @@ VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposic
 
 IX. Desarrollar y operar el programa de carrera magisterial en el subsistema educativo estatal;
 
-X. Coordinar la participación gubernamental en los procedimientos de ingreso, promoción y permanencia de los integrantes del magisterio estatal; y
+X. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
 
 XI. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Básica y Normal.
 
@@ -297,13 +357,19 @@ Corresponde a la Dirección General de Educación Media Superior, el ejercicio d
 
 I. Organizar, operar, desarrollar y supervisar los servicios de educación media superior, en el subsistema estatal, conforme a las políticas, lineamientos y disposiciones aplicables;
 
-II. Participar en la formulación, actualización y difusión de los planes y programas de estudio en el nivel medio superior, de acuerdo con las normas institucionales vigentes;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-III. Aplicar las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del nivel medio superior;
+II. Participar en la formulación, actualización y difusión de los planes y programas de estudio en el tipo medio superior, de acuerdo con la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Aplicar las normas pedagógicas, métodos, materiales didácticos, así como instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del tipo medio superior.
 
 IV. Formular y proponer a su superior inmediato los estudios y proyectos de creación, expansión, fusión, suspensión o cancelación de instituciones o planteles de educación media superior en la entidad;
 
-V. Diseñar, desarrollar y ejecutar programas de actualización permanente y de superación y de certificación académica para los docentes que laboren en los planteles de educación media superior;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. Diseñar, desarrollar y ejecutar programas de actualización permanente y de superación y certificación académica para los docentes que laboren en los planteles de educación media superior de conformidad con las disposiciones legales aplicables.
 
 VI. Coadyuvar en el fortalecimiento de la participación y corresponsabilidad de la sociedad y del sector productivo en el proceso educativo en el nivel medio superior;
 
@@ -311,7 +377,9 @@ VII. Llevar a cabo la acreditación, registro y certificación de los conocimien
 
 VIII. Coadyuvar en la supervisión y la vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación media superior, con autorización o reconocimiento de validez oficial;
 
-IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación media superior en la entidad y el país, para concertar la planeación, evaluación y mejoramiento de este nivel educativo; y
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación media superior en la Entidad y el país para concertar la planeación y mejoramiento de este tipo educativo.
 
 X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
 
@@ -321,9 +389,13 @@ Corresponde a la Dirección General de Educación Superior, el ejercicio de las 
 
 I. Coordinar, desarrollar y apoyar los servicios de educación superior, conforme a las políticas, lineamientos y disposiciones aplicables;
 
-II. Participar en la formulación, actualización y difusión de los planes y programas de estudio, así como de programas de investigación en el nivel superior, de acuerdo con las normas institucionales vigentes;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-III. Diseñar y proponer las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo del nivel superior;
+II. Participar en la elaboración, actualización y difusión de los planes y programas de estudio, así como de programas de investigación en el tipo superior, de acuerdo con las normas institucionales vigentes.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Diseñar y proponer las normas pedagógicas, métodos, materiales y auxiliares didácticos, así como los instrumentos de evaluación del aprendizaje, que se requieran en el proceso educativo de tipo superior.
 
 IV. Desarrollar sistemas y procedimientos para normar la planeación, administración y evaluación de las instituciones de educación superior y de aquéllas orientadas a la investigación de la ciencia y la tecnología del sector;
 
@@ -335,7 +407,9 @@ VII. Coadyuvar en el fortalecimiento de la participación y corresponsabilidad d
 
 VIII. Coadyuvar en la supervisión y vigilancia del cumplimiento de las disposiciones y criterios que regulan las relaciones entre la Secretaría y los planteles particulares que impartan educación superior, con autorización o reconocimiento de validez oficial;
 
-IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación superior en la entidad y el país, para concertar la planeación, evaluación y el mejoramiento de este nivel educativo; y
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Promover mecanismos y procedimientos de coordinación con instituciones que impartan la educación superior en la Entidad y el país, para concertar la planeación, evaluación y el mejoramiento de este tipo educativo.
 
 X. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Educación Media Superior y Superior.
 
@@ -345,17 +419,25 @@ Corresponde a la Dirección General de Planeación y Proyectos, el ejercicio de 
 
 I. Coordinar y apoyar la elaboración de los planes y programas del sector educativo;
 
-II. Participar, en forma sistemática y permanente, en la evaluación de los planes y programas a cargo de la Secretaría y de sus organismos auxiliares y fideicomisos;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+II. Verificar y evaluar el cumplimiento de los planes, programas, objetivos y metas de la Secretaría y de sus organismos auxiliares, informando al Subsecretario.
 
 III. Dirigir y desarrollar el sistema de información relacionado con la planeación del sector educativo, así como elaborar y publicar las estadísticas del mismo;
 
 IV. Formular los estudios y proyectos especiales que requiera el sector y proponer los mecanismos para su instrumentación;
 
-V. Proporcionar la información sobre planes, programas y proyectos de la Secretaría, que le requieran sus diversas unidades administrativas, organismos auxiliares y fideicomisos;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Emitir los dictámenes y opiniones que le solicite el Secretario y las unidades administrativas, organismos auxiliares y fideicomisos;
+V. Vincular los planes y programas del sector con el Plan de Desarrollo del Estado de México.
 
-VII. Establecer mecanismos de comunicación con otras dependencias, organismos auxiliares y fideicomisos del Poder Ejecutivo del Estado, para el análisis de asuntos vinculados con el desarrollo de las funciones del sector; y
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Emitir los dictámenes y opiniones que le solicite el Secretario y las unidades administrativas y organismos auxiliares sectorizados a la Secretaría.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Proponer al Subsecretario los proyectos de acuerdos interinstitucionales, de coordinación con los municipios, así como de convenios con los sectores social y privado en los asuntos de su competencia y vigilar el cumplimiento de las obligaciones asumidas por la Secretaría en los convenios o acuerdos que suscriba.
 
 VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
 
@@ -371,11 +453,13 @@ III. Llevar el control de los bienes muebles e inmuebles adscritos al sector;
 
 IV. Promover la capacitación y adiestramiento del personal administrativo de la Secretaría;
 
-V. Participar en el diseño de mecanismos y alternativas de eficiencia en los procesos y sistemas de trabajo del sector;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. Participar en el desarrollo de mecanismos y alternativas de eficiencia en los procesos y sistemas administrativos de trabajo.
 
 VI. Instrumentar la operación de los programas de becas para los alumnos, en los diversos niveles educativos en la entidad;
 
-VII. Organizar y controlar la prestación del servicio social; y
+VII. (DEROGADA, G.G. 17 DE SEPTIEMBRE DE 2014)
 
 VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario o el Subsecretario de Planeación y Administración.
 
@@ -383,21 +467,39 @@ VIII. Las demás que le señalen otros ordenamientos aplicables y las que le enc
 
 Corresponde a la Coordinación Jurídica y de Legislación, el ejercicio de las siguientes atribuciones:
 
-I. Atender los asuntos de carácter jurídico que le correspondan a la Secretaría;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-II. Emitir opiniones respecto de las consultas que le formulen las unidades administrativas, organismos auxiliares y fideicomisos del sector;
+I. Atender e intervenir en los asuntos de carácter jurídico que le correspondan a la Secretaría.
 
-III. Intervenir en los juicios en que la Secretaría o sus unidades administrativas sean parte;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Estudiar y formular anteproyectos de ordenamientos legales, decretos, acuerdos, contratos y convenios, relativos a los asuntos de la competencia de la Secretaría, así como revisar los que se relacionen con el sector;
+II. Emitir opiniones respecto de las consultas jurídicas del Secretario, de las unidades administrativas de la Secretaría y de los organismos auxiliares sectorizados.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Atender las quejas y las recomendaciones de la Comisión de Derechos Humanos del Estado de México o de las instancias protectoras de derechos humanos, así como gestionar el cumplimiento de los requerimientos de la Comisión de Derechos Humanos del Estado de México o de las instancias protectoras de derechos humanos, al personal docente y administrativo de la Secretaría.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Elaborar y revisar los ordenamientos legales, decretos, acuerdos, reglamentos, contratos, convenios, lineamientos, relativos a los asuntos de la competencia de la Secretaría, así como revisar los que se relacionen con los organismos sectorizados.
 
 V. Preparar los proyectos de resolución de los recursos administrativos que se interpongan en contra de actos emitidos por servidores públicos de la Secretaría;
 
-VI. Participar en el procedimiento de cumplimiento de resoluciones de autoridades jurisdiccionales, así como de las recomendaciones en materia de derechos humanos, en asuntos de la competencia de la Secretaría;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Realizar las gestiones necesarias para regularizar la situación jurídica de los bienes inmuebles en posesión del sector; y
+VI. Atender el cumplimiento de las resoluciones y requerimientos de las autoridades judiciales, administrativas o del Tribunal de lo Contencioso Administrativo que hagan a la Secretaría.
 
-VIII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Participar en la realización de los actos necesarios para regularizar los bienes inmuebles destinados a la prestación de servicios educativos o administrativos de la Secretaría.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Certificar los documentos que correspondan al ejercicio de sus funciones.
+
+> <small>(ADICIONADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Secretario.
 
 ###### Artículo 22.
 
@@ -405,17 +507,27 @@ Corresponde a la Contraloría Interna, el ejercicio de las siguientes atribucion
 
 I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Secretaría y elaborar los reportes correspondientes;
 
-II. Realizar revisiones administrativas, contables, operacionales, técnicas y jurídicas a las unidades administrativas de la Secretaría, tendientes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados a la dependencia;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-III. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a los principios de racionalidad, austeridad y disciplina, que establece la normatividad en la materia;
+II. Realizar las acciones de control y evaluación en el ámbito de su competencia, a fin de constatar que los servidores públicos, unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría observen las disposiciones aplicables en el ámbito de su actuación, así como en el ingreso, gasto y ejercicio de los recursos federales y estatales.
 
-IV. Participar en los procesos de entrega y recepción de las unidades administrativas de la Secretaría, verificando su apego a la normatividad correspondiente;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a las medidas de austeridad y disciplina presupuestal que establece la normatividad en la materia.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Participar en los procesos de entrega y recepción de las unidades administrativas, de los planteles educativos y de los órganos desconcentrados de la Secretaría, verificando su apego a la normatividad aplicable.
 
 V. Recibir, tramitar y dar seguimiento a las quejas y denuncias por responsabilidad administrativa, que se interpongan en contra de los servidores públicos de la Secretaría;
 
-VI. Aplicar los procedimientos administrativos disciplinarios y resarcitorios, e imponer, en su caso, previo acuerdo del secretario, las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
-VII. Instruir y resolver los recursos o medio de impugnación presentados en contra de las resoluciones del órgano de control interno;
+VI. Instruir, substanciar y resolver los procedimientos administrativos disciplinarios y resarcitorios que le correspondan de acuerdo con las disposiciones aplicables.
+
+> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Instruir y resolver los recursos o medios de impugnación presentados en contra de las resoluciones del órgano de control interno y realizar, ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que se emitan.
 
 VIII. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Secretaría;
 
@@ -463,17 +575,23 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 El Secretario será suplido en sus ausencias temporales menores de 15 días, por el Subsecretario que el designe. En las mayores de 15 días, por el Subsecretario que designe el Gobernador del Estado.
 
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 29.
 
-Los Subsecretarios serán suplidos en sus ausencias temporales menores de 15 días, por el director general que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el Secretario.
+Los subsecretarios serán suplidos en sus ausencias hasta por quince días, por el Director General que ellos designen. En las mayores de quince días por el servidor público que designe el Secretario.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
-Los directores generales serán suplidos en sus ausencias temporales menores de 15 días por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el subsecretario del ramo.
+Los directores generales o equivalentes serán suplidos en sus ausencias hasta por quince días por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de quince días por el servidor público que designe el Secretario.
+
+> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Los directores de área, subdirectores y jefes de departamento serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el director general o coordinador del área de su adscripción.
+Los directores de área, subdirectores, jefes de departamento o equivalentes serán suplidos en sus ausencias hasta por quince días por el servidor público que ellos designen. En las mayores de quince días por el servidor público que designe su superior jerárquico.
 
 T R A N S I T O R I O S
 
@@ -498,3 +616,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente acuerdo.
+
+CUARTO. Cuando en los ordenamientos jurídicos estatales se haga referencia al Reglamento Interior de la Secretaría de Educación, Cultura y Bienestar Social se entenderá al Reglamento Interior de la Secretaría de Educación.
