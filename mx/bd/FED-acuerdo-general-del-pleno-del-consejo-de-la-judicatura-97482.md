@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2014-01-17"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1811,21 +1811,11 @@ II. Supervisar la conducta de los servidores públicos de los órganos jurisdicc
 
 III. Auxiliar al Pleno, a las Comisiones o al Presidente en las tareas que le encomienden, inherentes a su función.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 221.
 
-La Visitaduría Judicial realizará, en su ámbito de competencia, las acciones de inspección de la función judicial y de supervisión de la conducta de los servidores públicos de los órganos jurisdiccionales, mediante los siguientes instrumentos:
-
-I. Visitas ordinarias;
-
-II. Inspecciones a distancia;
-
-III. Visitas extraordinarias inmediatas;
-
-IV. Visitas extraordinarias programadas;
-
-V. Informes de conducta; y
-
-VI. Los demás que determinen el Pleno o las Comisiones.
+La Visitaduría Judicial realizará, en su ámbito de competencia, las acciones de inspección de la función judicial y de supervisión de la conducta de los servidores públicos de los órganos jurisdiccionales, mediante visitas de inspección y demás mecanismos que determine el Pleno o las Comisiones.
 
 ###### Artículo 222.
 
@@ -1883,9 +1873,11 @@ Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces
 
 La inspección ordinaria a los Plenos de Circuito se llevará a cabo a distancia, una vez al año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 232.
 
-Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales de Circuito y unidades de notificadores comunes; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de procesos penales federales, en cuyo caso la duración de la visita no excederá de cuatro días. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
+Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales de Circuito y unidades de notificadores comunes; y tres días para la inspección de los juzgados de Distrito. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
 
 La inspección ordinaria a los Plenos de Circuito durará hasta dos días.
 
@@ -1895,9 +1887,9 @@ El Visitador General podrá autorizar la modificación de los plazos señalados,
 
 Las visitas ordinarias se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida. Así también, para tal caso, a propuesta del Visitador Judicial "B" el titular del órgano jurisdiccional designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano.
 
-Para los efectos del párrafo anterior, se entenderán como días hábiles todos los del año, excepto los sábados y domingos y los previstos en la Ley de Amparo, reglamentaria de los
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Orgánica, así como en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo. Como horas hábiles se entenderán las comprendidas entre las nueve y las veinte horas.
+Para los efectos del párrafo anterior, se entenderán como días hábiles todos los del año, con excepción de aquellos que establece el artículo 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo, salvo el cinco de febrero, el veintiuno de marzo y el veinte de noviembre. Como horas hábiles se entenderán las comprendidas entre las nueve y las veinte horas.
 
 ###### Artículo 234.
 
@@ -1957,13 +1949,25 @@ El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional visi
 
 El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional para comprobar su asistencia.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 248.
 
-El Visitador Judicial "B" solicitará los libros de gobierno que se lleven en el órgano jurisdiccional e imprimirá el sello correspondiente, el cual contendrá la fecha de inicio de la visita.
+Las visitas ordinarias, en cualquiera de sus modalidades, se sujetarán a las siguientes reglas:
 
-La temporalidad de las inspecciones ordinarias inicia al día siguiente de aquél en que se cerró el lapso que abarcó el anterior informe circunstanciado y concluye cinco días hábiles previos al en que comenzará a verificarse materialmente la citada inspección. Por lo tanto, la fecha límite del cierre de los datos que se proporcionarán en la revisión que deba practicarse, necesariamente deberá atender a esa temporalidad previa a su verificación.
+I. El periodo sujeto a revisión iniciará al día natural siguiente de aquel en que se haya cerrado el lapso que abarcó la inspección inmediata anterior, física o a distancia, según corresponda en cada caso;
 
-Como consecuencia de lo anterior, el sello que debe imprimirse por parte del Visitador Judicial “B” en los libros de gobierno del órgano visitado, se estampará inmediatamente después del último registro o de la última anotación que se haya hecho cinco días hábiles previos al del inicio de la inspección.
+II. En los órganos jurisdiccionales de nueva creación, el inicio del primer periodo de inspección será el de la fecha en que comenzó a funcionar;
+
+III. En visita ordinaria física, el periodo a inspeccionar cerrará datos el último día del mes previo al del inicio de la inspección;
+
+IV. En visita ordinaria a distancia, el periodo que comprenda el informe circunstanciado concluirá el día último del mes previo al de la rendición del propio informe;
+
+V. Las visitas físicas iniciarán a partir del sexto día hábil o laborable de cada mes. En los primeros cinco días es admisible la conclusión de las empezadas a finales del mes precedente, y
+
+VI. Los informes circunstanciados se rendirán dentro del plazo de quince días naturales posteriores al día de cierre de datos. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
+
+En las visitas ordinarias físicas, el Visitador Judicial “B” estampará en los libros de gobierno revisados su sello, que colocará inmediatamente después del último registro o de la última anotación que se haya hecho en el periodo de inspección.
 
 ###### Artículo 249.
 
@@ -1979,9 +1983,11 @@ De toda visita ordinaria de inspección se levantará acta circunstanciada, de a
 
 El acta se levantará en dos tantos, uno de ellos quedará en el órgano jurisdiccional y el otro se entregará a la Visitaduría Judicial, para los efectos conducentes. Asimismo, el acta se capturará y guardará en archivo informático y se enviará por medios electrónicos y otros que defina la Comisión, a la Visitaduría Judicial y a la Secretaría, a fin de que esta última determine lo que corresponda.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 252.
 
-Las visitas ordinarias anuales que deben realizarse a los órganos jurisdiccionales, podrán efectuarse a través de medios electrónicos, a distancia. El titular del órgano jurisdiccional, presidente en el caso de tribunal Colegiado, o secretario encargado del despacho, en colaboración de la visita, proporcionará información veraz al Visitador Judicial “B” que designe el Visitador General, sobre aspectos relativos al funcionamiento del órgano jurisdiccional, así como de la conducta de sus integrantes, misma que será verificada y complementada por el Visitador Judicial “B” designado.
+Las visitas ordinarias que deben realizarse a los órganos jurisdiccionales, podrán efectuarse a través de medios electrónicos, a distancia. El titular del órgano jurisdiccional, presidente en el caso de tribunal Colegiado, o secretario encargado del despacho, en colaboración de la visita, proporcionará información veraz al Visitador Judicial “B” que designe el Visitador General, sobre aspectos relativos al funcionamiento del órgano jurisdiccional, así como de la conducta de sus integrantes, misma que será verificada y complementada por el Visitador Judicial “B” designado.
 
 ###### Artículo 253.
 
@@ -2027,9 +2033,11 @@ Las cuestiones relativas a las inspecciones ordinarias a distancia, que no se en
 
 #### SECCIÓN TERCERA. DE LAS VISITAS EXTRAORDINARIAS
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 258.
 
-Las visitas extraordinarias serán inmediatas y programadas.
+Las visitas extraordinarias se llevarán a cabo en aquellos casos en que lo ordene el Pleno, las Comisiones o el Secretario Ejecutivo de Disciplina, cuando a su juicio haya elementos que hagan presumir irregularidades cometidas por un magistrado de Circuito o juez de Distrito.
 
 ###### Artículo 259.
 
@@ -2071,99 +2079,75 @@ V. La firma de quienes hayan comparecido en ella.
 
 La citada comparecencia no deberá interrumpirse, sino sólo en caso fortuito o fuerza mayor, debiendo expresarse el motivo de la interrupción y asentarse en el propio documento. Superado dicho motivo, la grabación deberá reanudarse.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 265.
 
-El Pleno o las Comisiones podrán ordenar la práctica de visitas extraordinarias inmediatas, cuando consideren que existen elementos que hagan presumir irregularidades cometidas por servidores públicos de los órganos jurisdiccionales, que puedan ser causa de responsabilidad.
-
-Sólo excepcionalmente cuando existan elementos que hagan presumible el comportamiento indebido o el mal desempeño de un magistrado de Circuito o juez de Distrito durante los primeros seis años de su encargo, la Comisión de Carrera Judicial, para los efectos de ratificación del funcionario, podrá solicitar la práctica de una visita extraordinaria.
+Excepcionalmente, cuando existan elementos que hagan presumible el comportamiento indebido o el mal desempeño de un magistrado de Circuito o juez de Distrito durante los primeros seis años de su encargo, la Comisión de Carrera Judicial, para los efectos de ratificación del servidor público, podrá solicitar la práctica de una visita extraordinaria.
 
 Para los efectos del párrafo anterior, el Consejero ponente a quien se le haya turnado el expediente de ratificación, presentará un dictamen a la Comisión de Carrera Judicial, exponiendo las razones por las que, a su juicio, se está en el caso de excepción que amerita la práctica de una visita extraordinaria.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 266.
 
-Las visitas extraordinarias inmediatas tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente disciplinarios.
+Las visitas extraordinarias tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente disciplinarios.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 267.
 
-Las visitas extraordinarias inmediatas comprenderán únicamente los aspectos encomendados a investigar por el Pleno o las Comisiones. No obstante, si durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad relacionado con la materia de la inspección, el Visitador Judicial “A” asentará en el acta lo correspondiente.
+Las visitas extraordinarias comprenderán únicamente los aspectos encomendados a investigar por el Pleno o las Comisiones. No obstante, si durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad relacionado con la materia de la inspección, el Visitador Judicial “A” asentará en el acta lo correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 268.
 
-Para la práctica de visitas extraordinarias inmediatas no se requerirá de previa comunicación de su inicio al titular del órgano jurisdiccional visitado. Podrán llevarse a cabo aún en días y horas inhábiles. Durarán el tiempo necesario para cumplir su encomienda.
+Para la práctica de visitas extraordinarias no se requerirá de previa comunicación de su inicio al titular del órgano jurisdiccional visitado. Podrán llevarse a cabo aún en días y horas inhábiles. Durarán el tiempo necesario para cumplir su encomienda.
 
 ###### Artículo 269.
 
-El Visitador General propondrá al Pleno el programa semestral de visitas extraordinarias a órganos jurisdiccionales, respecto de los que existan indicadores que infieran probables irregularidades funcionales o de conducta de sus integrantes. El Pleno lo revisará y acordará oportunamente su aprobación, desechamiento o modificación, según considere.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 270.
 
-Las visitas extraordinarias programadas tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente de control, preventivos, correctivos y excepcionalmente disciplinarios.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 271.
 
-Las visitas extraordinarias programadas se efectuarán de conformidad con los formatos aprobados por la Comisión. No obstante, la materia de la inspección podrá abarcar otros tópicos, relativos al funcionamiento de los órganos jurisdiccionales y a la conducta de sus integrantes, que observe particularmente relevantes el Visitador Judicial “A” que efectúe la inspección.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 272.
 
-El programa semestral de visitas extraordinarias que acuerde el Pleno contendrá, entre otros datos:
-
-I. Denominación de los órganos jurisdiccionales a inspeccionar;
-
-II. Titulares de los órganos jurisdiccionales o encargados del despacho;
-
-III. Visitadores Judiciales “A” que efectuarán las respectivas visitas extraordinarias;
-
-IV. Calendarización de las inspecciones;
-
-V. Fuentes e indicadores por los que fueron seleccionados los órganos jurisdiccionales; y
-
-VI. Observaciones.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 273.
 
-Para la práctica de visitas extraordinarias programadas, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente en los tribunales Colegiados, o al encargado del despacho, la fecha en que se iniciará, para que proceda a fijar el aviso correspondiente en los estrados y lugares más visibles del órgano jurisdiccional, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial “A” que la practicará, así como que dicho visitador recibirá las quejas que se presenten contra los servidores públicos del órgano jurisdiccional visitado. Podrán llevarse a cabo aún en días y horas inhábiles. El Visitador Judicial “A” procurará que la inspección no exceda de cinco días.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 274.
 
-El ciclo de visitas extraordinarias programadas será semestral. El Visitador General cuidará que la propuesta del programa se presente oportunamente al Pleno.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 275.
 
-La selección de los órganos jurisdiccionales a inspeccionar en forma programada se efectuará mediante un procedimiento ágil y objetivo que implementará el Visitador General. Las etapas de este procedimiento podrán ser:
-
-I. La obtención de información;
-
-II. Clasificación y análisis de la información;
-
-III. Evaluación de los órganos jurisdiccionales y servidores públicos;
-
-IV. Selección de órganos a visitar;
-
-V. Propuesta de acuerdo del Visitador General al Pleno; y
-
-VI. El acuerdo del Pleno.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 276.
 
-La selección de órganos jurisdiccionales a visitar extraordinariamente en forma programada, se hará con base en indicadores provenientes de información diversa, sistemáticamente obtenida, clasificada, analizada, comparada y evaluada.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 277.
 
-Los indicadores para la selección de órganos jurisdiccionales a visitar en el programa semestral de visitas extraordinarias serán, entre otros:
-
-I. Las probables disfunciones jurisdiccionales, administrativas o laborales como: el rezago; alto índice de demandas desechadas, no interpuestas, incompetencias, sobreseimientos, sentencias revocadas; dilación en el pronunciamiento de acuerdos y resoluciones; considerable retardo en el cumplimiento de ejecutorias; incumplimiento de acuerdos laborales del Consejo;
-
-II. Las probables irregularidades de conducta de los servidores públicos, reflejadas en: mayor índice o gravedad de quejas, denuncias, investigaciones; inusual movimiento de plazas; alto índice o gravedad de demandas laborales presentadas por subalternos contra el servidor público; y
-
-III. La fecha próxima del acuerdo de ratificación de magistrados de Circuito y jueces de Distrito.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 278.
 
-Las fuentes para obtener la información necesaria para seleccionar los órganos jurisdiccionales a visitar en forma extraordinaria en el programa semestral, serán entre otras: los dictámenes de la Comisión; las actas de visita y de inspecciones a distancia; los resultados de la supervisión de conducta; los informes de labores de los visitadores de la Visitaduría Judicial; los registros del Sistema Integral de Seguimiento de Expedientes; la información que en formato específico se obtenga del Instituto de la Defensoría Pública, de la Secretaría, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, de las Direcciones Generales de Recursos Humanos y de Comunicación Social, de la Comisión Substanciadora Única del Poder Judicial de la Federación, de los servidores públicos de los órganos jurisdiccionales, y del público en general.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 279.
 
-La Comisión acordará la aprobación de formatos para la práctica de visitas extraordinarias programadas. Estos tendrán especial énfasis en la inspección de los indicadores por los que se seleccionó al órgano jurisdiccional a visitar extraordinariamente. Las visitas programadas se efectuarán conforme a dichos formatos, sin menoscabo de las atribuciones de inspección y supervisión del Visitador Judicial “A”, de complementar la inspección.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ### CAPÍTULO TERCERO. DE LOS INFORMES
 
@@ -2171,55 +2155,45 @@ La Comisión acordará la aprobación de formatos para la práctica de visitas e
 
 ###### Artículo 280.
 
-El Consejo, a través de la Visitaduría Judicial, contará además, con los informes, como instrumentos para supervisar el comportamiento de los servidores públicos de los órganos jurisdiccionales.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 281.
 
-El Visitador General someterá a la aprobación del Pleno los formatos impresos y electrónicos de los informes, así como los manuales e instructivos respectivos; los revisará periódicamente, y podrá proponer su modificación o sustitución.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 282.
 
-Los informes se llevarán a cabo, cuando menos, una vez al año cada uno.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 283.
 
-Los informes serán operados por la Visitaduría Judicial, a través de los visitadores judiciales o secretarios técnicos que designe el Visitador General.
-
-Podrán efectuarse en forma manuscrita o electrónica.
-
-Los datos que de los informes deriven, serán compilados en el sistema que al efecto implemente el Visitador General.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 284.
 
-Los reactivos que se contengan en los informes deberán tener su fundamento en las disposiciones vigentes, relativas a la conducta de los servidores públicos. Tales instrumentos deberán abarcar, en lo posible, aspectos similares, que refieran a los comportamientos jurisdiccional, administrativo, laboral y personal de los servidores públicos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 285.
 
-La información contenida y que se derive de los informes, será manejada con absoluta confidencialidad, hasta en tanto el Pleno o la Comisión dispongan lo contrario.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 286.
 
-El Consejo, a través de la Visitaduría Judicial, tendrá facultad para constatar la veracidad de la información recabada en los informes.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 #### SECCIÓN SEGUNDA. DEL INFORME DE CONDUCTA
 
 ###### Artículo 287.
 
-El informe de conducta es el documento a través del cual, los servidores públicos de los órganos jurisdiccionales manifestarán hechos u omisiones relacionados con el comportamiento efectuado durante su cargo. Su finalidad es esencialmente preventiva.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 288.
 
-El informe de conducta deberá rendirse en el mes de enero de cada año. Los formatos relativos serán distribuidos con oportunidad.
-
-Su presentación será a través de formatos impresos o de medios remotos de comunicación electrónica, empleándose en este último caso medios de identificación electrónica.
-
-El Visitador General tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos y llevará el control de ellos.
-
-Su presentación será a través de la vía postal o por medios electrónicos, según acuerde la Comisión.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 289.
 
-La falta de rendición del informe de conducta, total o parcial, en el plazo otorgado, se comunicará a la Dirección General de Recursos Humanos, a fin de que se haga constar en el expediente personal del servidor público omiso, y será tomado en cuenta para su reingreso, capacitación, ascenso, promoción, adscripción, ratificación, reconocimiento, estímulo, premiación, remoción y otros casos análogos, sin perjuicio de que, a juicio de la Comisión, sea motivo para la orden de práctica de visita extraordinaria de inspección.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 ### CAPÍTULO CUARTO. DE LA EVALUACION
 
@@ -2708,3 +2682,15 @@ b) Acta y copia de los anexos: al servidor público que realiza la entrega y al 
 c) Acta sin anexos: a la Contraloría.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de octubre de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a nueve de enero de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Comisión de Disciplina acordará la fecha de inicio de las inspecciones a distancia a los órganos jurisdiccionales, previa implementación de las pruebas piloto respectivas. En tanto acuerde el inicio del sistema de inspección a distancia, continuará vigente el de informe circunstanciado que regula el Acuerdo General 28/2003 del Pleno del Consejo. Para los informes de terminación o de conclusión de funciones regirá igual disposición.
+
+Las actas de visita ordinaria junto con los informes circunstanciados se dictaminarán en la forma, períodos y oportunidad con que se ha venido haciendo, aunque se hayan rendido dos informes circunstanciados o practicado dos visitas ordinarias de manera consecutiva, con motivo del calendario de inspecciones del año dos mil catorce. En ambos casos el dictamen respectivo se emitirá inmediatamente después de que se practique la última visita ordinaria.
