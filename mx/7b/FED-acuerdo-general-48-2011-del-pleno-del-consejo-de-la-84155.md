@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2011-del-pleno-del-consejo-de-la-84155"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-15"
-last_updated: "2013-10-16"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84155&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-12-08"
 
 ACUERDO GENERAL 48/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA JORNADA Y EL HORARIO DE TRABAJO DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de diciembre de 2011.
 
@@ -75,9 +75,17 @@ c) Coordinador Técnico de SPS;
 
 d) Auditor;
 
-e) Coordinador de Ayuda y Seguridad; y
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 28/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-f) Chofer de Funcionario.
+e) Coordinador de Ayuda y Seguridad;
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 28/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+f) Chofer de Funcionario; y
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 28/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+g) Auxiliar de Actuario, siempre y cuando realice sus funciones fuera de su centro de trabajo.
 
 II. Quienes no estando previstos en la fracción anterior, sean excepcionados por necesidades del servicio por el titular de la unidad administrativa u órgano auxiliar de su adscripción.
 
@@ -108,3 +116,9 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo G
 CUARTO. La Oficialía Mayor, por conducto de las unidades administrativas competentes que le están adscritas, implementará el registro automatizado a que se refiere el presente Acuerdo.
 
 QUINTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar inmediatamente el texto de este instrumento, al Acuerdo General 48/2011, que establece la jornada y el horario de trabajo de los servidores públicos adscritos a las áreas administrativas del propio Consejo.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
