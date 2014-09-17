@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-9007
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2014-02-28"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL TREINTA DE SEPTIEMBRE DEL AÑO MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO Y SEGUNDO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 17 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de octubre de 2012.
 
@@ -968,3 +968,17 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Esta Ley entrará en vigor el treinta de septiembre del dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abroga la Ley de Defensoría Pública del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el seis de octubre del año dos mil doce. Asimismo, se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. La Defensoría Pública contará con los bienes muebles e inmuebles, así como los recursos materiales y financieros con los que actualmente cuenta o tenga asignados la Coordinación General de la Defensoría Social y de Oficio; además de los que adicionalmente le sean transmitidos por el Ejecutivo del Estado. La transmisión de dichos bienes y recursos se hará de conformidad con lo dispuesto en la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, con la intervención que corresponda a la Contraloría General del Estado.
+
+Por lo anterior, los bienes muebles e inmuebles, así como los recursos administrativos y financieros afectados al funcionamiento de la Coordinación General de la Defensoría Social y de Oficio, serán transferidos a la Defensoría Pública del Estado, quedando facultado el Ejecutivo para modificar y redistribuir las partidas del Presupuesto de Egresos que correspondan al ejercicio fiscal 2014 en que entra en vigor esta Ley, sin exceder los montos autorizados para la referida dependencia.
+
+CUARTO. La Coordinación General de la Defensoría Pública elaborará los reglamentos que esta Ley establece, dentro del plazo de noventa días posteriores a su publicación en el Periódico Oficial del Estado, para su aprobación y publicación por el titular del Poder Ejecutivo de Estado.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
