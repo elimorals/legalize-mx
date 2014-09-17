@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-6-2009-del-pleno-del-consejo-de-la-67773"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-30"
-last_updated: "2014-08-01"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-18"
 
 ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2009.
 
@@ -76,6 +76,10 @@ V. Asuntos Jurídicos: La Dirección General de Asuntos Jurídicos del Consejo d
 VI. Comisión: La Comisión de Administración del Consejo de la Judicatura Federal;
 
 VII. Comité: El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VII. BIS. CompraNet: La plataforma informática del sistema electrónico de información pública gubernamental, a que hacen alusión los artículos 2, fracciones II, de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de Obras Públicas y Servicios Relacionados con las Mismas;
 
 VIII. Consejo: El Consejo de la Judicatura Federal;
 
@@ -152,6 +156,12 @@ La celebración será en forma directa siempre que de la investigación de merca
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 18/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE AGOSTO DE 2014)</small>
 
 Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente que se suscriba, sin perjuicio de salvaguardar los intereses del Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+ARTICULO 3 BIS. COMPRANET. Los procedimientos de contratación del Consejo, que se sigan a través de CompraNet, se sujetarán exclusivamente a las disposiciones de este Acuerdo, sin perjuicio de observar las especificaciones técnicas para la implementación del sistema que al efecto se pacten con la Secretaría de la Función Pública.
+
+El Consejo deberá difundir en CompraNet, además de la información a que se refiere este Acuerdo, los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; y las resoluciones de las inconformidades que hayan causado estado.
 
 ###### ARTICULO 4.
 
@@ -295,6 +305,10 @@ VI. Presentar currículum en el que se acrediten grados académicos y especialid
 
 VII. Presentar manifestación escrita bajo protesta de decir verdad, que se abstendrá de participar en procedimientos de contratación en las que puedan existir conflictos de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tengan vinculación familiar, de negocios o académica; o bien porque pudiera obtener un beneficio directo o indirecto derivado de dicho procedimiento.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+El padrón de testigos sociales debe difundirse en la página de Internet del Consejo y en CompraNet.
+
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ARTICULO 12 QUINTUS. DE LA INTEGRACION DEL PADRON. La Contraloría, para integrar el padrón de testigos sociales, emitirá convocatoria a través del portal del Consejo, con la finalidad de que los interesados acrediten los requisitos previstos en el artículo que antecede, para lo cual deberán presentar la documentación siguiente:
@@ -395,7 +409,7 @@ c) Los procedimientos de licitación pública.
 
 III. Las adjudicaciones de los contratos, cuando por el monto de la operación deba seguirse el procedimiento de adjudicación por invitación a cuando menos tres, competerá a los directores generales de adquisiciones o de obras.
 
-IV. Los directores generales de adquisiciones, de obras o los titulares de las Administraciones Regionales, según corresponda, podrán autorizar la adjudicación en los procedimientos del concurso Público Sumario por monto, previa aprobación de la Secretaría Administración (sic) y de la Coordinación de Administración Regional.
+IV. Los directores generales de adquisiciones, de obras o los titulares de las Administraciones Regionales, según corresponda, podrán autorizar la adjudicación en los procedimientos del concurso Público Sumario por monto, previa aprobación de la Secretaría (sic) Administración y de la Coordinación de Administración Regional.
 
 V. En las adjudicaciones de los contratos, cuando por el monto de la operación deba seguirse el procedimiento de adjudicación directa, competerá a los siguientes servidores públicos:
 
@@ -633,9 +647,17 @@ SISTEMATIZACION Y CALENDARIZACION DE LOS PROGRAMAS ANUALES DE EJECUCION. El Prog
 
 El Consejo anualmente autorizará en el primer mes del ejercicio fiscal correspondiente el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como el Programa Anual de Ejecución de Obra Publica, con base en los recursos asignados en el Presupuesto de Egresos aprobado para el Consejo y los lineamientos establecidos en el presente capítulo.
 
-El Consejo publicará en su página de Internet los Programas Anuales estimados de adquisiciones, arrendamientos, servicios y obra pública del siguiente ejercicio, así como sus modificaciones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-El Consejo tomará las medidas necesarias para que en el mediano y largo plazo los Programas de Ejecución se conviertan en un instrumento de Planeación Estratégica de Suministro.
+El Consejo tomará las medidas necesarias para que en el mediano y largo plazo los Programas de Ejecución se conviertan en un instrumento de planeación estratégica de suministro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+El Consejo pondrá a disposición del público en general, a través de CompraNet y de su página de Internet, a más tardar el 31 de enero de cada año, los Programas a que se refiere este artículo, correspondientes al ejercicio fiscal de que se trate, con excepción de aquella información que de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+En caso de que el Consejo haga modificaciones a los programas, deberá actualizar la información mensualmente en CompraNet y en su página de internet.
 
 ###### ARTICULO 33.
 
@@ -821,9 +843,17 @@ b) La obtenida de organismos especializados; de cámaras, colegios de profesiona
 
 c) Consultas vía Internet a los proveedores, prestadores de servicios y contratistas dejando constancia en el expediente de las búsquedas y en su caso de los correos electrónicos donde se haya solicitado la información, dejando constancias de las mismas, los acuses de recibo electrónico y otros relacionados;
 
-d) Vía telefónica, mediante llamada a proveedores, contratistas o prestadores de servicios, para tal efecto el servidor público, deberá dejar constancia escrita en el expediente de por lo menos los datos siguientes: número telefónico, fecha, hora, asunto, nombre del proveedor, de la persona que atendió la llamada, y del resultado obtenido de la misma, y;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-e) Histórico de procedimientos de adjudicación realizados con anterioridad.
+d) Vía telefónica, mediante llamada a proveedores, contratistas o prestadores de servicios, para tal efecto el servidor público, deberá dejar constancia escrita en el expediente de por lo menos los datos siguientes: número telefónico, fecha, hora, asunto, nombre del proveedor, de la persona que atendió la llamada, y del resultado obtenido de la misma;
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+e) Histórico de procedimientos de adjudicación realizados con anterioridad; y
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+f) Información disponible en CompraNet.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1005,13 +1035,17 @@ g. Los proveedores o contratistas que se encuentren en situación de retraso en 
 
 h. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado; e
 
-i. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, plazo que comenzará a correr a partir del día siguiente a la fecha de la notificación de la resolución respectiva;
+i. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables; y
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-j. Se haya rescindido contrato celebrado con la Corte, el Tribunal Electoral o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios;
+j. Se haya rescindido contrato celebrado con la Corte, el Tribunal Electoral o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, y comenzará a contarse a partir del día siguiente a la fecha en que el Consejo la haga pública en el Diario Oficial de la Federación y en CompraNet;
 
 VI. Las que pretendan participar en un procedimiento adjudicatorio y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación, supervisión o control, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o elaboración de cualquier otro documento, así como asesorías, para la licitación de la adjudicación del contrato de la misma adquisición, arrendamiento, servicio u obra pública;
 
@@ -1067,7 +1101,9 @@ b) Del representante legal del licitante que suscribe la propuesta: datos de las
 
 En el caso de licitaciones públicas internacionales, el escrito a que se refiere esta fracción deberá incorporar los datos mencionados en los incisos anteriores o los datos equivalentes, considerando las disposiciones aplicables en el país de que se trate; manifestando por escrito, bajo protesta de decir verdad, que los documentos cumplen con los requisitos necesarios para acreditar la existencia de la persona moral y del tipo o alcances jurídicos de las facultades otorgadas a sus representantes legales.
 
-Los documentos deberán presentarse en original y copia para su cotejo al área operativa que lleve a cabo el procedimiento, para que sean remitidos a Asuntos Jurídicos para su verificación y únicamente por el o los adjudicados, una vez notificados del fallo y en el término de tres días previos para estar en condiciones de celebrar el contrato.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Los documentos deberán presentarse en original y copia para su cotejo al área operativa que lleve a cabo el procedimiento, para que sean remitidos a Asuntos Jurídicos para su verificación y únicamente por el o los adjudicados, una vez notificados del fallo y en el término de tres días previos para estar en condiciones de celebrar el contrato. En el supuesto de las licitaciones electrónicas y, en su caso, mixtas, la presentación deberá hacerse sin perjuicio de la remisión de la información por CompraNet.
 
 En el caso de contratistas extranjeros, dicha información deberá contar con la legalización o apostillado correspondiente de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español, o acompañada de la traducción correspondiente.
 
@@ -1197,7 +1233,9 @@ LICITACION PUBLICA
 
 DEFINICION. La licitación pública es el procedimiento a través del cual el Consejo elige a la persona física o moral que le ofrece las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes para celebrar un contrato objeto del presente Acuerdo, y para ello hace un llamado a las personas interesadas, mediante convocatoria pública, para que formulen sus propuestas a fin de llevar a cabo la contratación.
 
-La licitación inicia con la publicación de la convocatoria en el Diario Oficial de la Federación, así como en los medios de difusión electrónicos que determine el Consejo y concluye con la firma del contrato.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+La licitación pública inicia con la publicación de la convocatoria y concluye con la emisión del fallo o, en su caso, con la cancelación del procedimiento.
 
 Licitación pública nacional es aquella en la que sólo pueden participar personas de nacionalidad mexicana.
 
@@ -1216,6 +1254,20 @@ II. Cuando de la investigación de mercado resulte conveniente para el Consejo;
 III. Cuando, habiéndose realizado una de carácter nacional, no se presenten proposiciones; y
 
 IV. En los demás casos en que así lo determine el Comité.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+ARTÍCULO 60 BIS. TIPOS DE LICITACIÓN. La licitación pública conforme a los medios que se utilicen, podrá ser:
+
+I. Presencial, en la cual los licitantes exclusivamente podrán presentar sus propuestas en forma documental y por escrito, en sobre cerrado, durante el acto de presentación y apertura de proposiciones, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio postal o de mensajería.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, se realizarán de manera presencial, a los cuales podrán asistir los licitantes, sin perjuicio de que el fallo pueda notificarse por escrito, sin perjuicio de lo dispuesto en el artículo 79 de este Acuerdo;
+
+II. Electrónica, en la cual exclusivamente se permitirá la participación de los licitantes a través de CompraNet, se utilizarán medios de identificación electrónica, las comunicaciones producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, sólo se realizarán a través de CompraNet y sin la presencia de los licitantes en dichos actos, y
+
+III. Mixta, en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
 
@@ -1261,19 +1313,31 @@ CONVOCATORIA. La convocatoria de la licitación pública será elaborada y firma
 
 I. Estar redactada en idioma español;
 
-II. Contener la indicación de quien convoca;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán consultar y adquirir las bases y especificaciones de la licitación, su costo y forma de pago;
+II. Contener la indicación de quien convoca, y el tipo de licitación conforme a los medios que se utilicen;
+
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 IV. La descripción general, normas de calidad, cantidad y unidad de medida de los bienes o servicios cuya adquisición o prestación se requiere. En el caso de arrendamiento, la indicación de si es con opción a compra. Adicionalmente, en el caso de obra pública, la descripción general de la obra o del servicio relacionado con ella y el lugar donde se llevará a cabo; y
 
 V. La indicación de la fecha, hora y lugar del acto de apertura de propuestas y, en su caso, del acto de aclaraciones y de la visita al lugar en que se prestarán los servicios o se realizará la obra.
 
-Las convocatorias se publicarán en la sección especializada del Diario Oficial de la Federación, así como en la página de Internet del Consejo y podrán referirse a una o más licitaciones.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-###### ARTICULO 65.
+La publicación de la convocatoria a la licitación pública se realizará a través de CompraNet y su obtención será gratuita. Además, simultáneamente se enviará para su publicación en el Diario Oficial de la Federación, un resumen de la convocatoria a la licitación que deberá contener, entre otros elementos, el objeto de la licitación, el volumen de obra o a adquirir, el número de licitación, las fechas previstas para llevar a cabo el procedimiento de contratación y cuando se publicó en CompraNet y, asimismo, el Consejo pondrá a disposición de los licitantes copia del texto de la convocatoria, en su página de internet.
 
-MODIFICACIONES A LA CONVOCATORIA. Antes de concluir la venta de las bases y siempre que ello no tenga por objeto limitar el número de licitantes, se podrán modificar los plazos u otros aspectos establecidos en la convocatoria, haciéndolo del conocimiento de los interesados a través de los mismos medios utilizados para su publicación original.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 65.
+
+MODIFICACIONES A LA CONVOCATORIA. El Consejo, siempre que ello no tenga por objeto limitar el número de licitantes, podrá modificar aspectos establecidos en la convocatoria, a más tardar el séptimo día natural previo al acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones en CompraNet, a más tardar el día hábil siguiente a aquél en que se efectúen.
+
+Las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, ni en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
+
+En todo caso se deberá realizar al menos una junta de aclaraciones a la convocatoria de la licitación, siendo optativa para los licitantes la asistencia a la misma.
+
+Cualquier modificación a la convocatoria o a las bases de la licitación, incluyendo las que resulten de la o las juntas de aclaraciones, formará parte de la convocatoria y deberá ser considerada por los licitantes en la elaboración de su propuesta.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1281,11 +1345,17 @@ MODIFICACIONES A LA CONVOCATORIA. Antes de concluir la venta de las bases y siem
 
 REQUISITOS MINIMOS DE LAS BASES EN MATERIA DE OBRAS PUBLICAS. Las bases que se emitan para las licitaciones públicas en materia de obras públicas y servicios relacionados con ellas, deberán contener, cuando menos, la siguiente información:
 
-I. La indicación de que es el Consejo quien convoca a la licitación pública;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
 
 II. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos;
 
 III. La forma en que los licitantes deberán acreditar su existencia legal, la personería de su representante, la experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos. Asimismo, la indicación de que el licitante podrá proporcionar una dirección de correo electrónico;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. BIS. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
 
 IV. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar de celebración del acto de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
 
@@ -1351,11 +1421,17 @@ Las bases que se emitan para las licitaciones públicas en materia de servicios 
 
 REQUISITOS MINIMOS DE LAS BASES EN MATERIA DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS. Las bases que se emitan para las licitaciones públicas en materia de adquisiciones, arrendamientos y servicios, deberán contener, cuando menos, la siguiente información:
 
-I. La indicación de que es el Consejo quien convoca a la licitación pública;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+I. La indicación de que es el Consejo quien convoca a la licitación pública, y el tipo de licitación conforme a los medios que se utilicen;
 
 II. La forma en que los licitantes deberán acreditar su personalidad, para lo cual podrán exhibir los documentos mencionados en el artículo 55 del presente Acuerdo General. Asimismo deberán acreditar su capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
 III. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen; fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+III. BIS. Atendiendo al tipo de contrato, la información necesaria para que los licitantes integren sus propuestas técnica y económica. En caso de que exista información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale el Consejo;
 
 IV. La indicación de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecte la solvencia de la propuesta, así como la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
@@ -1417,41 +1493,53 @@ XXVIII. Las causas por las que podrá ser declarada desierta o cancelada la lici
 
 XXIX. El tipo y modelo de contrato.
 
-###### ARTICULO 68.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-CONSULTA DE LAS BASES. Las bases se pondrán a disposición de cualquier interesado para su consulta y revisión, proporcionándose igual información a todos los participantes.
+###### ARTÍCULO 68.
 
-Cuando las bases impliquen un costo, éste será fijado solo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen. Los interesados podrán revisarlas previamente a su pago.
+CONSULTA DE LAS BASES. Las bases se pondrán a disposición, de forma gratuita, de cualquier interesado en CompraNet y en la página de Internet del Consejo, para su consulta y revisión, proporcionándose igual información a todos los participantes.
 
 ###### ARTICULO 69.
 
 ACLARACION DE LAS BASES. En caso de resultar necesario, previo al acto de apertura de propuestas, se celebrará una junta de aclaración de las bases, en la cual se dará respuesta a las dudas que llegaren a tener los concursantes respecto del procedimiento licitatorio en general. De la junta de aclaraciones se levantará un acta circunstanciada en la que se harán constar todos los aspectos que se trataron en ella y se entregará copia a los concursantes que participen en la licitación. Las aclaraciones que se formulen en dicho acto, formarán parte de las bases y por tanto su observancia será obligatoria.
 
-La asistencia a la junta de aclaraciones no será requisito indispensable para presentar propuestas; por tanto, no será motivo para desechar las propuestas la inasistencia de algún proveedor, así como el hecho de que los participantes no presenten copia de los documentos que el Consejo emita con motivo de cualquier aclaración de las bases o del procedimiento de adjudicación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-Sólo se realizarán aclaraciones fuera de la indicada junta, en caso de que, a juicio del Area de Adquisiciones o de Obras, según corresponda, sea en beneficio del procedimiento licitatorio y se haga del conocimiento por escrito de todos los participantes.
+También podrán enviarse solicitudes de aclaración, a través de CompraNet dependiendo del tipo de licitación de que se trate, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+La asistencia a la junta de aclaraciones no será requisito indispensable para presentar propuestas; por tanto, no será motivo para desecharlas, la inasistencia de algún proveedor, así como el hecho de que los participantes no presenten copia de los documentos que el Consejo emita con motivo de cualquier aclaración de las bases o del procedimiento de adjudicación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Sólo se realizarán aclaraciones fuera de la indicada junta, en caso de que, a juicio del Área de Adquisiciones o de Obras, según corresponda, sea en beneficio del procedimiento licitatorio y se haga del conocimiento por escrito de todos los participantes.
 
 ###### ARTICULO 70.
 
 MODIFICACION DE LAS BASES. Sólo con el conocimiento de todos los participantes y por causa fundada podrán modificarse las condiciones y plazos establecidos en las bases, debiendo haber por lo menos cinco días hábiles entre la notificación y la fecha señalada para la entrega de las propuestas. Si las modificaciones derivan de la junta de aclaraciones, a más tardar en el plazo señalado en este artículo, se entregará copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 71.
 
-COSTO, INSCRIPCION Y REVISION PRELIMINAR. En caso de que las bases impliquen un costo, deberá ser cubierto directamente por los interesados en la Tesorería General del Consejo o mediante depósito en la cuenta bancaria que ésta determine. Dicho pago deberá cubrirse previamente a su inscripción.
+INSCRIPCIÓN Y REVISIÓN PRELIMINAR. La adquisición de las bases no tendrá ningún costo.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-Para tener derecho a presentar propuestas, los interesados deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo, para lo cual deberá presentar el recibo oficial que haya expedido la Tesorería General del Consejo. En el caso de encontrarse previsto en las bases, el interesado podrá utilizar los medios electrónicos autorizados por el Consejo.
+En el supuesto de las licitaciones presenciales y, en su caso, mixtas para tener derecho a presentar propuestas, los interesados en participar deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo. En el caso de encontrarse previsto en las bases, los interesados podrán utilizar los medios electrónicos autorizados por el Consejo. Tratándose de las electrónicas deberán manifestar su interés en participar a través de CompraNet, así como en aquellos casos en que los licitantes decidan participar por este medio.
 
 En caso de que la licitación pública se realice en alguno de los Estados de la Federación, en las bases se indicará el lugar en que deberán inscribirse los interesados.
 
-Con independencia del recibo oficial, el cual puede ser emitido con posterioridad, la exhibición del comprobante expedido por la institución bancaria será suficiente para adquirir las bases, siempre y cuando, de la revisión que se efectúe, se pueda verificar que el pago que ampara se hubiere cubierto al número de cuenta establecido para el depósito, con el monto, en las fechas, horarios y condiciones indicados en la convocatoria; en caso contrario, es decir, cuando no se acredite el debido pago de las bases, no procederá la expedición del recibo, ni el trámite de inscripción del interesado.
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-Cuando se considere conveniente, de manera previa a la venta de bases o a la fecha de presentación y apertura de propuestas, se realizará una revisión preliminar de la documentación solicitada, excepto de la relativa a las propuestas técnica y económica, a fin de verificar que los interesados cumplan con los requisitos de la convocatoria o bases y que, por tanto, se encuentren en aptitud de adquirir dichas bases o presentar sus propuestas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-Lo anterior será optativo para los licitantes y no será impedimento para los que hayan cubierto el costo de las bases y decidan presentar su documentación y proposiciones durante el propio acto.
+Cuando se considere conveniente, de manera previa a la fecha de presentación y apertura de propuestas, se realizará una revisión preliminar de la documentación solicitada, excepto de la relativa a las propuestas técnica y económica, a fin de verificar que los interesados cumplan con los requisitos de la convocatoria o bases y que, por tanto, se encuentren en aptitud de adquirir dichas bases o presentar sus propuestas.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Lo anterior será optativo para los licitantes y no será impedimento para los que decidan presentar su documentación y proposiciones en el propio acto.
 
 ###### ARTICULO 72.
 
@@ -1463,21 +1551,33 @@ VISITA. En caso de prestación de servicios y de obra pública podrá realizarse
 
 Por lo anterior, el Area de Adquisiciones, de Obras o la Administración Regional, según corresponda, expedirá a los participantes una constancia de asistencia a la visita, la cual podrá ser requisito para tener derecho a presentar propuestas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+###### ARTÍCULO 74.
+
+ENTREGA DE LAS PROPUESTAS. La entrega de las propuestas se efectuará en el acto de apertura y se presentarán en sobre cerrado. En el caso de las presentadas a través de CompraNet, serán generadas mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las especificaciones técnicas que al efecto se determinen. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
-
-###### ARTICULO 74.
-
-ENTREGA DE LAS PROPUESTAS. La entrega de las propuestas se efectuará en el acto de apertura y se presentarán en sobre cerrado. La documentación distinta a la propuesta técnica y económica podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
 Las propuestas deberán presentarse mediante escrito original, en papelería membretada del licitante y debidamente firmadas y rubricadas en todas y cada una de sus hojas.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 El licitante a quien se le haya adjudicado el contrato, previo a su formalización, deberá firmar la totalidad de la documentación que integre su propuesta.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 Los documentos de la propuesta no deberán contener tachaduras o enmendaduras y estar foliados.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 Salvo la firma del representante legal o persona legalmente autorizada, en los términos indicados, la omisión de los otros requisitos de forma no será motivo de descalificación, pero toda circunstancia deberá asentarse en el acta correspondiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 De detectarse deficiencias en el foliado de las propuestas técnica y económica, el servidor público que presida el acto procederá a subsanarlas en presencia de los participantes en el procedimiento, lo cual asentará en el acta.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 En caso de que el licitante entregue información de naturaleza confidencial, deberá señalarlo expresamente por escrito, para los efectos de la normatividad aplicable en materia de Transparencia y Acceso a la Información Pública Gubernamental.
 
@@ -1559,11 +1659,15 @@ III. La propuesta de adjudicación que ofrezca las mejores condiciones para el C
 
 El dictamen deberá someterse a la consideración del titular de las Areas de Adquisiciones o de Obras, según corresponda, a fin de que realice su valoración formal y, con base en ello, emita el fallo respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 79.
 
-NOTIFICACION DEL FALLO. Una vez autorizada la adjudicación se comunicará el fallo a los participantes en sesión pública.
+NOTIFICACIÓN DEL FALLO. Una vez autorizada la adjudicación se comunicará el fallo a los participantes en sesión pública. El fallo, para efectos de su notificación, se dará a conocer a través de CompraNet el mismo día en que se celebre la referida sesión, tratándose de licitaciones electrónicas y, en su caso, mixtas. A los licitantes se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
 
-En caso de que no sea posible celebrar sesión pública para dar a conocer el fallo de adjudicación, se deberá notificar por escrito a los participantes.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Tratándose de licitaciones presenciales o mixtas, se dará a conocer el fallo de la misma en la sesión pública a la que libremente podrán asistir los licitantes que hubieran presentado propuesta, entregándoseles copia del mismo y levantándose el acta respectiva. Asimismo, el contenido del fallo se difundirá a través de CompraNet el mismo día en que se emita. A los licitantes que no hayan asistido a la sesión, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en CompraNet.
 
 El fallo deberá contemplar, como mínimo, lo siguiente:
 
@@ -1574,6 +1678,12 @@ b. Nombre de los licitantes cuyas propuestas económicas fueron determinadas com
 c. Nombre del licitante a quien se adjudique el contrato y, en su caso, identificación de cada una de las partidas o conceptos y montos asignados; y
 
 d. Información para firma del contrato, presentación de garantías y, en su caso, entrega de anticipos, conforme a las bases de licitación o de invitación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+ARTÍCULO 79 BIS. ACTAS. Las actas de las juntas de aclaraciones, del acto de presentación y apertura de propuestas, y de la sesión pública en la que se dé a conocer el fallo serán firmadas por los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichos asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en un lugar visible, al que tenga acceso el público, en el domicilio del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles. El titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+
+Asimismo, se difundirá un ejemplar de dichas actas en CompraNet para efectos de su notificación a los licitantes que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1623,7 +1733,7 @@ c) Por causas de interés general.
 
 Dicha determinación se hará del conocimiento de los licitantes.
 
-En tal caso, a solicitud escrita de los interesados, se efectuará el reembolso de costo de las bases de licitación.
+> <small>(DEROGADO TERCER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
 En caso fortuito o fuerza mayor, el Consejo no realizará pago alguno de gastos no recuperables.
 
@@ -1635,15 +1745,21 @@ Las reglas aquí previstas aplicarán para la cancelación de la invitación a c
 
 PLAZOS PARA LICITACIONES PUBLICAS. Las licitaciones públicas se realizarán en los plazos siguientes:
 
-I. La consulta y, en su caso, venta de bases se realizará durante un plazo de tres a siete días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-II. Entre el último día de venta de bases y el acto de apertura de propuestas, deberá mediar un plazo mínimo de cinco a diez días hábiles. En caso de que las bases sean modificadas se podrá prorrogar por cinco días hábiles más la entrega de propuestas;
+I. La consulta de las bases y la inscripción se realizará durante un plazo de tres a siete días hábiles, contados a partir de la fecha de publicación de la convocatoria;
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+II. Entre el último día del plazo anterior y el acto de apertura de propuestas, deberá mediar un plazo mínimo de cinco a diez días hábiles¸ con excepción de las licitaciones internacionales que no será inferior a veintitrés días naturales, contados a partir de la fecha de publicación de la convocatoria en CompraNet. En caso de que las bases sean modificadas se podrá prorrogar por cinco días hábiles más la entrega de propuestas;
 
 III. Para la emisión del dictamen de adjudicación deberá mediar un plazo de cinco a diez días hábiles, contados a partir de la fecha en que tenga verificativo el acto de apertura de propuestas;
 
 IV. Entre la presentación del dictamen de adjudicación y la emisión del fallo mediará un plazo máximo de tres días hábiles; y
 
-V. En caso de que se requiera la visita al lugar donde se prestarán los servicios o se ejecutarán los trabajos de obra, será celebrada, a partir del tercer día hábil dentro del período de venta de bases y hasta cinco días hábiles anteriores del acto de apertura de propuestas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+V. En caso de que se requiera la visita al lugar donde se prestarán los servicios o se ejecutarán los trabajos de obra, será celebrada, a partir del tercer día hábil dentro del período de consulta de bases y hasta cinco días hábiles anteriores del acto de apertura de propuestas.
 
 En casos excepcionales y por la complejidad de la licitación, el Secretario de Administración podrá solicitar al Comité la ampliación de los plazos previstos en el presente, justificando tal circunstancia.
 
@@ -1659,7 +1775,9 @@ DEFINICION. La invitación a cuando menos tres proveedores o contratistas es el 
 
 PROCEDIMIENTO. El procedimiento de invitación a cuando menos tres proveedores o contratistas iniciará con la invitación que realice el Area de Adquisiciones o de Obras, según corresponda, y concluirá con la firma del contrato.
 
-La convocatoria se podrá publicar en la página de Internet del Consejo, a efecto de que otros interesados presenten sus propuestas.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Se difundirá la invitación en CompraNet y en la página de Internet del Consejo.
 
 De estimarlo conveniente, la Contraloría y Asuntos Jurídicos podrán intervenir en los actos de apertura de estos procedimientos, los que actuarán en el ámbito de su respectiva competencia.
 
@@ -1801,7 +1919,7 @@ I. Estar redactada en idioma español;
 
 II. Indicar el área convocante;
 
-III. Precisar los lugares, fechas y horarios en que los interesados podrán consultar y adquirir las bases y especificaciones de la licitación, su costo y forma de pago;
+III. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 24/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 IV. Señalar que se trata de “subasta inversa presencial” o “por subasta a la inversa electrónica”;
 
@@ -3234,3 +3352,13 @@ D.O.F. 1 DE AGOSTO DE 2014.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo.
+
+TERCERO. La Oficialía Mayor llevará a cabo las gestiones necesarias para la suscripción de los instrumentos convencionales necesarios para la implementación del presente Acuerdo.
+
+Dichos instrumentos convencionales deberán prever los aspectos técnicos y operativos necesarios para llevar a cabo la referida implementación.
