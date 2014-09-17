@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2014-08-13"
+last_updated: "2014-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -555,11 +555,13 @@ I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidad
 
 II. Con sujeción al Clasificador por Objeto del Gasto del propio Consejo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 51.
 
-Cuando los capítulos, partidas o conceptos del Clasificador por objeto del gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría a través de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+Cuando los capítulos, partidas o conceptos del Clasificador por objeto del gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Oficialía Mayor a través de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
 
-Las partidas del Clasificador por Objeto del Gasto podrán desagregarse en subpartidas, que correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo, previa autorización del Pleno.
+Las partidas del Clasificador por Objeto del Gasto podrán desagregarse en subpartidas, que correspondan con la estructura y contenido genérico de los capítulos y conceptos de gasto del mismo, previa autorización de la Comisión.
 
 ###### Artículo 52.
 
@@ -1149,7 +1151,7 @@ El procedimiento para fincar las responsabilidades en relación con la materia d
 
 ###### Artículo 137.
 
-Los órganos competentes del Consejo fincarán las responsabilidades que procedan. con (sic) base en las disposiciones legales aplicables y en los términos de los acuerdos que para tal efecto emita el Pleno, cuando se conozcan irregularidades a través de:
+Los órganos competentes del Consejo fincarán las responsabilidades que procedan. con base en las disposiciones legales aplicables y en los términos de los acuerdos que para tal efecto emita el Pleno, cuando se conozcan irregularidades a través de:
 
 I. Las visitas, auditorías o investigaciones realizadas;
 
@@ -1322,3 +1324,9 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 CUARTO. Las Administraciones Regionales deberán prever los espacios físicos necesarios para la conservación de los documentos y apegarse a las normas presupuestarias, de contabilidad, y demás que resulten aplicables, así como a las disposiciones que en materia de archivos proceda.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
