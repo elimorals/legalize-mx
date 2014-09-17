@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-eventos-publicos-del-estado-de-mexico-102049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-18"
-last_updated: "2014-08-18"
+last_updated: "2014-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE EVENTOS PUBLICOS DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2014, EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL GACETA DEL GOBIERNO DEL 17 DE SEPTIEMBRE DE 2014.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de agosto de 2014.
 
@@ -137,7 +137,9 @@ Tratándose de una situación de riesgo, la Secretaría de Seguridad Ciudadana d
 
 La Secretaria de Salud deberá verificar que los eventos públicos reúnan los requisitos y condiciones técnicas en lo referente a bebidas, alimentos, instalaciones sanitarias y demás relacionadas con el ámbito de la salud y la higiene.
 
-Expedir a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México (COPRISEM), el Dictamen de Factibilidad de Impacto Sanitario, cuando se trate de eventos públicos con venta de bebidas alcohólicas.
+> <small>(F. DE E., G.G. 17 DE SEPTIEMBRE DE 2014)</small>
+
+Expedir a través del Consejo Rector de Impacto Sanitario del Estado de México (CRISEM), el Dictamen de Factibilidad de Impacto Sanitario, cuando se trate de eventos públicos con venta de bebidas alcohólicas.
 
 ###### Artículo 9.
 
