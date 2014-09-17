@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-08-13"
+last_updated: "2014-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2085,9 +2085,11 @@ III. Auxiliar al Pleno, a las Comisiones o al Presidente en las tareas que le en
 
 La Visitaduría Judicial se regirá por lo dispuesto en la Ley, el presente Acuerdo y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 116.
 
-La Visitaduría Judicial la integran el Visitador General, los visitadores "A" o "B", el director general, los secretarios técnicos y demás servidores públicos que el Pleno determine.
+La Visitaduría Judicial la integran el Visitador General, los visitadores “A” y “B”, el director general, los secretarios técnicos y demás servidores públicos que el Pleno determine.
 
 ###### Artículo 117.
 
@@ -2163,17 +2165,25 @@ Los secretarios técnicos de la Visitaduría Judicial serán designados por el V
 
 Corresponde al Visitador General:
 
-I. Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección y de las inspecciones ordinarias a distancia. Enviar al Secretario Ejecutivo de Disciplina la documentación relativa al plan de visitas ordinarias de inspección para que éste realice el sorteo de los órganos jurisdiccionales a inspeccionar entre los visitadores judiciales "B";
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-II. Elaborar el programa de visitas ordinarias e inspecciones ordinarias a distancia;
+I. Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección. Enviar al Secretario Ejecutivo de Disciplina la documentación relativa al plan de visitas ordinarias de inspección para que éste realice el sorteo de los órganos jurisdiccionales a inspeccionar entre los visitadores judiciales "B";
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+II. Elaborar el programa de visitas ordinarias;
 
 III. Enviar con la oportunidad debida los oficios de aviso a los titulares de los distintos órganos jurisdiccionales para que comuniquen al público lo concerniente a la visita, conforme a lo previsto por el artículo 100 de la Ley;
 
 IV. Calificar los impedimentos de los visitadores judiciales "B";
 
-V. Cambiar al visitador judicial "B" que deba practicar la visita ordinaria o la inspección ordinaria a distancia, cuando a su juicio, exista causa fundada para ello;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
-VI. Cambiar la fecha de inicio o conclusión de cualquier visita ordinaria o de la inspección ordinaria a distancia, cuando a su juicio, exista causa fundada para ello;
+V. Cambiar al visitador judicial "B" que deba practicar la visita ordinaria, cuando a su juicio, exista causa fundada para ello;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Cambiar la fecha de inicio o conclusión de cualquier visita ordinaria, cuando a su juicio, exista causa fundada para ello;
 
 VII. Solicitar a la Comisión de Disciplina que se emitan las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita de inspección, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
 
@@ -2183,11 +2193,13 @@ IX. Expresar ante la Comisión de Disciplina el impedimento que tenga para reali
 
 X. Implementar las visitas extraordinarias de inspección que el Pleno o la Comisión de Disciplina ordenen. Designar al visitador judicial "A" para la práctica de visitas extraordinarias, en caso de que no se asigne uno en especial;
 
-XI. Proponer al Pleno, con la debida fundamentación y motivación, los programas semestrales de visitas extraordinarias programadas; la selección de órganos jurisdiccionales a visitar, la calendarización de las visitas, el visitador judicial "A" designado, los aspectos en los que se deba poner mayor énfasis en la visita extraordinaria, así como otras circunstancias relevantes;
+XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
-XII. Implementar las visitas extraordinarias programadas que el Pleno acuerde. De no hacerse especial designación, el Visitador General señalará al visitador judicial "A" que se encargará de practicarla;
+XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
-XIII. Remitir al Secretario Ejecutivo de Disciplina las correspondientes actas de visita y de inspección a distancia que se levanten, e informarle al (sic) los resultados de las supervisiones de conducta de los servidores públicos de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Remitir al Secretario Ejecutivo de Disciplina las correspondientes actas de visita;
 
 XIV. Planear, programar, implementar, coordinar y practicar los informes;
 
@@ -2259,7 +2271,9 @@ XII. Las que señale la Ley, este Acuerdo y demás disposiciones aplicables.
 
 Los visitadores judiciales "B" tendrán las siguientes funciones y obligaciones:
 
-I. Practicar visitas ordinarias e inspecciones ordinarias a distancia a los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+I. Practicar visitas ordinarias a los órganos jurisdiccionales;
 
 II. Expresar ante el Visitador General, el impedimento que tengan para realizar visitas de inspección o inspecciones ordinarias a distancia;
 
@@ -2793,7 +2807,7 @@ XVII. Emitir opinión respecto de las inconformidades que se presenten en el des
 
 XVIII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas incumplan sus propuestas o las obligaciones que asumieron;
 
-XIX. Emitir dictamen en relación con las personas interesadas en ser inscritas en los catálogos de proveedores y contratistas;
+XIX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
@@ -4257,7 +4271,9 @@ X. Orientar a los trabajadores que hayan sufrido un accidente o enfermedad de tr
 
 XI. Las demás que le señale la Comisión de Seguridad y Salud en el Trabajo, que sean afines a las anteriores.
 
-## TÍTULO NOVENO (SIC). DEL REGISTRO ÚNICO DE PROFESIONALES DEL DERECHO
+> <small>(REFORMADO EN SU NUMERACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+## TÍTULO OCTAVO. DEL REGISTRO ÚNICO DE PROFESIONALES DEL DERECHO
 
 ###### Artículo 261.
 
@@ -4315,7 +4331,9 @@ Las áreas administrativas brindarán el apoyo que les sea requerido por la Secr
 
 Cualquier consulta o situación no prevista suscitada con motivo de la aplicación de este Título, será competencia de la Comisión de Vigilancia, Información y Evaluación.
 
-## TÍTULO DÉCIMO. DEL REGISTRO DE LAS ASOCIACIONES CIVILES
+> <small>(REFORMADO EN SU NUMERACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+## TÍTULO NOVENO. DEL REGISTRO DE LAS ASOCIACIONES CIVILES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -4365,7 +4383,9 @@ II. Inscribir en el Registro a las asociaciones civiles, cuya solicitud resulte 
 
 III. Tramitar y resolver los procedimientos de revocación de la inscripción en el Registro, en aquellos casos en que las asociaciones civiles incumplan con las obligaciones a que alude el artículo 623 del Código Federal de Procedimientos Civiles;
 
-IV. Expedir constancias de la inscripción en el Registro, de las asociaciones civiles a que se refiere la fracción II del artículo 585 del Código Federal de Procedimientos Civiles, así como de modificación o cancelación o revocación del mismo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Expedir constancias de la inscripción en el Registro, de las asociaciones civiles a que se refiere la fracción III del artículo 585 del Código Federal de Procedimientos Civiles, así como de modificación o cancelación o revocación del mismo;
 
 V. Mantener actualizada la base de datos del Registro;
 
@@ -4521,7 +4541,9 @@ En todo lo no previsto en este Capítulo se aplicará supletoriamente el Código
 
 Las circunstancias no previstas en este Título serán resueltas por el Pleno.
 
-## TÍTULO DÉCIMO PRIMERO. DE LAS REFORMAS A LOS ACUERDOS GENERALES DEL PLENO
+> <small>(REFORMADO EN SU NUMERACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+
+## TÍTULO DÉCIMO. DE LAS REFORMAS A LOS ACUERDOS GENERALES DEL PLENO
 
 ###### Artículo 290.
 
@@ -4598,3 +4620,13 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 CUARTO. Las Administraciones Regionales deberán prever los espacios físicos necesarios para la conservación de los documentos y apegarse a las normas presupuestarias, de contabilidad, y demás que resulten aplicables, así como a las disposiciones que en materia de archivos proceda.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Comisión de Disciplina acordará la fecha de inicio de las inspecciones a distancia a los órganos jurisdiccionales, previa implementación de las pruebas piloto respectivas. En tanto acuerde el inicio del sistema de inspección a distancia, continuará vigente el de informe circunstanciado que regula el Acuerdo General 28/2003 del Pleno del Consejo. Para los informes de terminación o de conclusión de funciones regirá igual disposición.
+
+Las actas de visita ordinaria junto con los informes circunstanciados se dictaminarán en la forma, períodos y oportunidad con que se ha venido haciendo, aunque se hayan rendido dos informes circunstanciados o practicado dos visitas ordinarias de manera consecutiva, con motivo del calendario de inspecciones del año dos mil catorce. En ambos casos el dictamen respectivo se emitirá inmediatamente después de que se practique la última visita ordinaria.
