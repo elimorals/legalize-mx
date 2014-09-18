@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-para-el-manejo-integral-de-riesgos-8307
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2011-03-30"
+last_updated: "2014-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PROTECCION CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
 
-LEY DE PROTECCION CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
+LEY DE PROTECCIÓN CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 30 de marzo de 2011.
 
@@ -475,7 +477,7 @@ I. Elaborar con el enfoque del manejo integral de riesgos, el proyecto de Progra
 
 II. Elaborar el proyecto del Programa Operativo Anual y presentarlo al Consejo Estatal para su autorización.
 
-III. Gestionar en representación del titular del Ejecutivo del Estado, la solicitud de declaratoria de Emergencia o Desastres Federal (sic) y la corroboración de fenómeno perturbador ante dependencia o instancia federal normativa; lo anterior para el acceso a los fondos y programas federales aplicables en materia de protección civil, en cuya normatividad se establezca como facultad delegable.
+III. Gestionar en representación del titular del Ejecutivo del Estado, la solicitud de declaratoria de Emergencia o Desastres Federal y la corroboración de fenómeno perturbador ante dependencia o instancia federal normativa; lo anterior para el acceso a los fondos y programas federales aplicables en materia de protección civil, en cuya normatividad se establezca como facultad delegable.
 
 IV. Identificar los riesgos que se presentan en la entidad integrando el atlas de peligros.
 
@@ -591,7 +593,7 @@ El Instituto y las Unidades Municipales, derivado de un dictamen de riesgo que e
 
 Corresponde al Gobierno del Estado y a los Ayuntamientos del Estado reglamentar, planear, ejecutar y aplicar las disposiciones en materia de protección civil, en los asuntos de su jurisdicción, conforme a la distribución de competencias que establecen la Ley Ambiental para el Estado de Chiapas, así como la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas.
 
-El Ejecutivo Estatal, promoverá la celebración de convenios de coordinación con la Federación y los municipios, a fin de precisar la participación y responsabilidad que corresponda a cada nivel de Gobierno, en las acciones de identificación y reducción de riesgos, atención de emergencias y recuperación, ante las condiciones especificas de riesgo que (sic) presenten en la Entidad; para asegurar la congruencia de los programas, criterios y acciones; evitar conflictos al aplicar las normas en materia de protección civil para el manejo integral de riesgos; así como coordinar los actos de inspección y vigilancia.
+El Ejecutivo Estatal, promoverá la celebración de convenios de coordinación con la Federación y los municipios, a fin de precisar la participación y responsabilidad que corresponda a cada nivel de Gobierno, en las acciones de identificación y reducción de riesgos, atención de emergencias y recuperación, ante las condiciones especificas de riesgo que presenten en la Entidad; para asegurar la congruencia de los programas, criterios y acciones; evitar conflictos al aplicar las normas en materia de protección civil para el manejo integral de riesgos; así como coordinar los actos de inspección y vigilancia.
 
 ###### Artículo 42.
 
@@ -1340,3 +1342,17 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de marzo del año dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero.- Se Abroga la Ley de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, publicada en el Periódico Oficial número 292, tercera sección, mediante Decreto número 184, de fecha 30 de marzo de 2011.
+
+Artículo Cuarto.- Los Ayuntamientos dispondrán de un plazo de seis meses, a partir de la entrada en vigencia de esta Ley, para adecuar la normatividad correspondiente para el debido cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Quinto.- La Secretaría de Protección Civil, deberá someter a consideración y aprobación del Ejecutivo del Estado el proyecto del reglamento de la presente Ley en un plazo no mayor a noventa días hábiles siguientes a la publicación de la misma.
