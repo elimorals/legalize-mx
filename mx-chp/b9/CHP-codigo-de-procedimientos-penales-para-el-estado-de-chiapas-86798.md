@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-para-el-estado-de-chiapas-8679
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-09"
-last_updated: "2014-08-13"
+last_updated: "2014-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS
 
-N. DE E EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO NÚMERO 147 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, Y P.O. DE 17 DE MAYO DE 2012, QUE ESTABLECE EL INICIO DE VIGENCIA EN FORMA GRADUAL Y PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 9 de febrero de 2012.
 
@@ -2039,7 +2039,9 @@ Cuando el Estado sea víctima, para estos efectos, será representada por el min
 
 Improcedencia oficiosa
 
-En los delitos de carácter sexual; los cometidos en perjuicio de menores de edad; los de violencia familiar; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas, el juez de control no procurará el uso de los mecanismos alternativos para facilitar la justicia restaurativa entre las partes, salvo cuando lo solicite en forma expresa la víctima o su representante legal.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2014)</small>
+
+En los delitos de carácter sexual; los cometidos en perjuicio de menores de edad; los de violencia familiar; los de violencia de género; los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas, el juez de control no procurará el uso de los mecanismos alternativos para facilitar la justicia restaurativa entre las partes, salvo cuando lo solicite en forma expresa la víctima o su representante legal.
 
 No procederá el uso de los mecanismos de justicia restaurativa en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza. Tampoco en los casos en que existe un interés público prevalente y así lo determine el ministerio público y lo solicite, en su caso, ante el juez de control.
 
@@ -6204,3 +6206,7 @@ P.O. 13 DE AGOSTO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+P.O. 18 DE SEPTIEMBRE DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
