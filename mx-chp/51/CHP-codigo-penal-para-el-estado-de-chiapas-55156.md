@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2014-08-13"
+last_updated: "2014-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -189,7 +189,7 @@ Principio de Legalidad.- No podrá imponerse pena o medida de seguridad sino por
 
 ###### Artículo 18.
 
-Responsabilidad de Personas jurídicas.- Para los efectos de este Código únicamente pueden (sic) ser penal mente responsables las personas físicas. Cuando algún o algunos miembros o representantes de una persona jurídica, cualquiera que sea su naturaleza, con excepción de las dependencias e instituciones del Estado, cometa un delito con los medios que para tal objeto le proporciona la persona jurídica, de manera que el delito resulte cometido a su nombre, bajo el amparo o en beneficio de dicha entidad, independientemente de la responsabilidad que recaiga sobre cada uno de los que tomen parte en el hecho delictuoso, la autoridad judicial podrá decretar en la sentencia, las punibilidades previstas por este Código para las personas jurídicas.
+Responsabilidad de Personas jurídicas.- Para los efectos de este Código únicamente pueden ser penalmente responsables las personas físicas. Cuando algún o algunos miembros o representantes de una persona jurídica, cualquiera que sea su naturaleza, con excepción de las dependencias e instituciones del Estado, cometa un delito con los medios que para tal objeto le proporciona la persona jurídica, de manera que el delito resulte cometido a su nombre, bajo el amparo o en beneficio de dicha entidad, independientemente de la responsabilidad que recaiga sobre cada uno de los que tomen parte en el hecho delictuoso, la autoridad judicial podrá decretar en la sentencia, las punibilidades previstas por este Código para las personas jurídicas.
 
 ### Capítulo IV. Tentativa
 
@@ -795,7 +795,7 @@ Cuando el delito de que se trate tenga prevista pena alternativa, en la que se c
 
 ###### Artículo 71 Bis.
 
-Cuando los sujetos pasivos del delito sean menores de edad, mujeres, personas con discapacidad y adultos mayores de sesenta y cuatro años, y en la ejecución del delito se emplee (sic) violencia moral, psicológica, verbal, económica o cualquier otro tipo de violencia, la pena establecida deberá aumentarse en una tercera parte de la que le corresponda del delito que se trate; y en una mitad más, cuando en la ejecución del delito se emplee (sic) violencia física.
+Cuando los sujetos pasivos del delito sean menores de edad, mujeres, personas con discapacidad y adultos mayores de sesenta y cuatro años, y en la ejecución del delito se emplee violencia moral, psicológica, verbal, económica o cualquier otro tipo de violencia, la pena establecida deberá aumentarse en una tercera parte de la que le corresponda del delito que se trate; y en una mitad más, cuando en la ejecución del delito se emplee violencia física.
 
 ###### Artículo 72.
 
@@ -1965,9 +1965,11 @@ En cualquier caso el Juez ordenará la sujeción obligatoria del sujeto activo d
 
 Además, será obligatorio para la parte agresora, realizar trabajo comunitario por un período de veinte a ciento ochenta días, tomando en cuenta para ello las circunstancias del caso concreto.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 200.
 
-El delito de violencia familiar se perseguirá por querella, con excepción del que se cometa en contra de menores de edad, personas incapaces o personas mayores de sesenta años.
+El delito de violencia familiar se perseguirá por querella, con excepción del que se cometa en contra de menores de edad, personas incapaces o personas mayores de sesenta años. En ningún caso se deberá aleccionar a la víctima, ni obligarla a participar en mecanismos de conciliación con su agresor.
 
 ###### Artículo 201.
 
@@ -3037,7 +3039,7 @@ A quienes cometan en forma reiterada despojo de inmuebles, se les impondrán de 
 
 Se entiende que el sujeto activo comete en forma reiterada despojo de inmuebles, cuando existan una o más sentencias ejecutoriadas previas dictadas en contra del sujeto activo, por su participación en cualquier grado en la comisión del ilícito, o bien cuando el sujeto activo haya sido sorprendido en dos o más ocasiones en el delito flagrante de despojo cualquiera que sea su grado de participación.
 
-Si el despojo se lleva a cabo por invasión a las áreas naturales protegidas, zonas sujetas a conservación ecológica, parques locales establecidos para la preservación, restauración y mejoramiento (sic), ambiental, las sanciones se incrementarán en un tercio.
+Si el despojo se lleva a cabo por invasión a las áreas naturales protegidas, zonas sujetas a conservación ecológica, parques locales establecidos para la preservación, restauración y mejoramiento, ambiental, las sanciones se incrementarán en un tercio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3529,7 +3531,7 @@ Se impondrá de uno a seis meses de prisión:
 
 I.- Al sentenciado sometido a vigilancia de la autoridad que no proporcione a ésta dos o más informes que se le pidan sobre su conducta.
 
-II.- A quien se hubiese prohibido ir a (sic) determinado lugar o residir en él, si violare la prohibición.
+II.- A quien se hubiese prohibido ir a determinado lugar o residir en él, si violare la prohibición.
 
 ###### Artículo 365.
 
@@ -4241,7 +4243,7 @@ Al responsable de cualquiera de las conductas antes señaladas, se aplicará san
 
 Comete el delito de tortura, el servidor público que en el ejercicio de sus funciones o con motivo de ellas, incurra en alguna de las siguientes conductas:
 
-I.- Infrinja dolores o sufrimientos físicos o psicológicos a una persona para obtener de ella o de un tercero (sic) información o una confesión; o para castigarla por un acto que haya cometido o se sospeche que ha cometido o para coaccionarla para que realice o deje de realizar una conducta determinada.
+I.- Infrinja dolores o sufrimientos físicos o psicológicos a una persona para obtener de ella o de un tercero información o una confesión; o para castigarla por un acto que haya cometido o se sospeche que ha cometido o para coaccionarla para que realice o deje de realizar una conducta determinada.
 
 II.- Detengan a una persona utilizando innecesariamente brutalidad o exceso de violencia para lograr su detención. Se entenderá por brutalidad, la conducta cruel y despiadada que por medio de métodos corporales, mecánicos o de cualquier otra naturaleza, provoquen sufrimiento físico o psicológico, o deje cicatrices visibles o lesiones internas o afecten centros nerviosos, órganos o funciones orgánicas.
 
@@ -4279,7 +4281,7 @@ Cuando la cantidad o el valor de la dádiva, promesa o prestación no exceda de 
 
 Iguales sanciones se impondrán al particular que espontáneamente dé u ofrezca dinero o cualquiera otra dádiva u otorgue promesa a un servidor público o interpósita persona para lograr los fines señalados en el párrafo anterior.
 
-En ningún caso se devolverá a los sujetos activos, el dinero o dádivas entregados (sic), el importe de los cuales se aplicará al Fondo Auxiliar para la Administración de Justicia.
+En ningún caso se devolverá a los sujetos activos, el dinero o dádivas entregados, el importe de los cuales se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
 ### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
 
@@ -4619,7 +4621,7 @@ VI.- Emita gases, humos, vapores o polvos de origen antropogénico, que dañen o
 
 VII.- Descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos, descargue o deposite desechos u otras sustancias, o materiales contaminantes, residuos sólidos no peligrosos o industriales no peligrosos y peligrosos, en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano, manantiales, canales, vasos de presas, humedales o aguas que dañen o puedan dañar a la salud humana, la flora, la fauna, los recursos naturales o los ecosistemas.
 
-Cuando se trate de agua para ser entregada en bloque a centros de población, la pena se podrá elevar hasta tres años más de prisión y hasta trescientos días multa adicionales (sic).
+Cuando se trate de agua para ser entregada en bloque a centros de población, la pena se podrá elevar hasta tres años más de prisión y hasta trescientos días multa adicionales.
 
 VIII.- Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones que dañen la salud pública, la flora, la fauna o los ecosistemas, o generen contaminación visual por encima de lo establecido por las Normas Oficiales Mexicanas o, en su caso, por las disposiciones reguladoras de publicidad, comercio o cualquier otra naturaleza que regule la exposición visual de que se trate.
 
@@ -5302,3 +5304,7 @@ P.O. 13 DE AGOSTO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+P.O. 18 DE SEPTIEMBRE DE 2014.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
