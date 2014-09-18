@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-92367
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2013-02-14"
+last_updated: "2014-09-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 18 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE SEPTIEMBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 14 de febrero de 2013.
 
@@ -245,7 +247,7 @@ III. La convocatoria a invitados se efectuará con la misma forma y anticipació
 
 IV. Para que las sesiones ordinarias y extraordinarias del COCOE sean válidas, se deberá contaron la asistencia del Presidente, del Secretario Técnico y de por lo menos la mitad mas uno de los vocales del COCOE.
 
-V. En caso de no reunirse el quórum requerido, el Secretario Ejecutivo levantará un acta en laque se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia en un plazo no mayor de cinco días hábiles tratándose de sesiones ordinarias y tres días hábiles para sesiones extraordinarias.
+V. En caso de no reunirse el quórum requerido, el Secretario Ejecutivo levantará un acta en la que se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia en un plazo no mayor de cinco días hábiles tratándose de sesiones ordinarias y tres días hábiles para sesiones extraordinarias.
 
 VI. En el caso de que la segunda reunión no cumpla con el quórum fijado en la fracción V, el Secretario Ejecutivo levantará un acta haciendo constar esta circunstancia, remitiéndola al Presidente del COCOE para los efectos a que haya lugar. La reunión se celebrará con los asistentes de la misma, requiriendo a los servidores públicos que no asistieron para que expliquen los motivos de su ausencia.
 
@@ -299,7 +301,7 @@ IX. Firma de los participantes.
 
 El Secretario Técnico deberá conservar por lo menos cinco años las actas de cada sesión y sus anexos. La documentación que soporta la información relacionada con los diferentes asuntos tratados en el COCOE deberá quedar en posesión del área responsable, por lo menos durante los cinco años posteriores a la fecha en que se resolvió el asunto en el COCOE.
 
-Cuando algún miembro del COCOE requiera la documentación señalada en el párrafo anterior, deberá solicitarla a través del Secretario Técnico, quien turnará el requerimiento al área respectiva yal recibir la respuesta, la turnará al miembro solicitante.
+Cuando algún miembro del COCOE requiera la documentación señalada en el párrafo anterior, deberá solicitarla a través del Secretario Técnico, quien turnará el requerimiento al área respectiva y al recibir la respuesta, la turnará al miembro solicitante.
 
 ###### Artículo 24.
 
@@ -366,3 +368,15 @@ Mtra. Reyna Ma. del Carmen Ávila Vázquez
 Coordinadora de Operación Regional y Vocal del COCOE
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interno en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se deja sin efectos el Reglamento Interno del COCOE aprobado el catorce de febrero de dos mil trece.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
