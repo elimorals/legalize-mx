@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-cultura-de-baja-96505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-27"
-last_updated: "2013-09-27"
+last_updated: "2014-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de septiembre de 2013.
 
@@ -281,11 +281,11 @@ El ICBC contará con el personal académico, técnico, de apoyo administrativo y
 
 #### SECCIÓN I. DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 21.
 
-El Director General tendrá las facultades y obligaciones establecidas en la Ley, así como en las demás disposiciones aplicables.
-
-El Director General, para la mejor distribución y despacho de los asuntos de su competencia, podrá delegar sus facultades a servidores públicos subalternos, sin perjuicio de su ejercicio directo.
+El Director General además de contar con las facultades y obligaciones establecidas en la Ley, así como las que le confiera la Junta de Gobierno y la normatividad aplicable, estará facultado para expedir la certificación de documentos que obren en sus archivos, que se hayan emitido por virtud de las funciones de su encargo,
 
 #### SECCIÓN II. DE LOS DIRECTORES DE ÁREA
 
@@ -387,21 +387,41 @@ V. Asistir al Director General en los eventos que le sean solicitados por éste;
 
 VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 29.
 
 Corresponde a la Unidad de Contraloría Interna, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Vigilar y cumplir las disposiciones, políticas, programas y leyes, que expresamente le competan en materia de control y evaluación gubernamental;
+I. Efectuar revisiones directas y selectivas a las unidades administrativas del ICBC, tendientes a comprobar la razonabilidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
 
-II. Formular un informe mensual de las acciones desempeñadas, intervenciones en la contabilidad, gasto, inversión pública, obligaciones administrativas y demás establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+II. Verificar el correcto funcionamiento de las unidades administrativas del ICBC, respecto del manejo, custodia y administración de los recursos humanos materiales y financieros;
 
-III. Sugerir áreas y acciones prioritarias para una mayor eficiencia de las relaciones de coordinación entre los sectores de la Administración Pública y mejoramiento del control de la gestión gubernamental;
+III. Informar al Director General sobre los resultados de las revisiones practicadas y, dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-IV. Apoyar a la Dirección General, revisando que las operaciones del ICBC se realicen de acuerdo a la normatividad vigente, verificando que sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
+IV. Vigilar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el ICBC y, las demás disposiciones vigentes en la materia;
 
-V. Presentar a los titulares de las unidades administrativas del ICBC, los resultados de las revisiones y evaluaciones practicadas, así como dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas; y
+V. Vigilar que se acaten las disposiciones legales y reglamentarias en vigor según corresponda a la operatividad de las unidades administrativas del ICBC;
 
-VI. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
+VI. Controlar y vigilar el ejercicio de los recursos de inversión pública y fiscalización de las adquisiciones, arrendamientos, servicios y, de obra pública, que atiendan el cumplimiento de los programas con recursos estatales o federales por parte de las unidades administrativas del ICBC;
+
+VII. Asistir a reuniones del Subcomité de Adquisiciones, Arrendamientos y Servicios del ICBC y vigilar que los procedimientos de contratación de Adquisiciones, Arrendamientos, Servicios y Obra Pública del ICBC, se realicen en apego a la normatividad vigente aplicable en la materia;
+
+VIII. Revisar la suficiencia y efectividad del control interno inherente a los sistemas y procedimientos existentes en el ICBC;
+
+IX. Rendir informe mensual al Contralor General del Estado respecto de las revisiones efectuadas, así como del seguimiento a las observaciones y recomendaciones resultantes de éstas;
+
+X. Proporcionar, para la aplicación de la Ley de Responsabilidades de los Servidores públicos del Estado y demás ordenamientos aplicables, a las autoridades que así lo requieran, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos al ICBC, por incumplimiento de las obligaciones previstas en los ordenamientos legales aplicables;
+
+XI. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos adscritos al ICBC, que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California le competan;
+
+XII. Requerir de acuerdo a la naturaleza de sus funciones información y documentación a los servidores públicos adscritos al ICBC cuando se estime conveniente;
+
+XIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, que se hayan emitido por virtud de las funciones de su encargo;
+
+XIV. Verificar que las unidades administrativas del ICBC den cumplimiento a las observaciones y recomendaciones que dicten los Órganos de Fiscalización; y
+
+XV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, y todas aquellas que le sean encomendadas por el superior inmediato.
 
 #### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN Y DIFUSIÓN
 
@@ -431,7 +451,7 @@ II. Departamento de Artes Escénicas y Eventos Especiales;
 
 III. Departamento de Artes Plásticas y Visuales;
 
-IV. Coordinación del Teatro del Estado; y (sic)
+IV. Coordinación del Teatro del Estado; y
 
 ###### ARTÍCULO 32.
 
@@ -1104,3 +1124,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
