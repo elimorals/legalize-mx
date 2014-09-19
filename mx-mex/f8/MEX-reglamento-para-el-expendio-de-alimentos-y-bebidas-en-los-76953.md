@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-expendio-de-alimentos-y-bebidas-en-los-76953
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-14"
-last_updated: "2010-09-14"
+last_updated: "2014-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO PARA EL EXPENDIO DE ALIMENTOS Y BEBIDAS EN LOS ESTABLECIMIENTOS DE CONSUMO ESCOLAR DE LOS PLANTELES DE EDUCACION BASICA DEL SUBSISTEMA EDUCATIVO FEDERALIZADO, DEL ESTADO DE MEXICO
 
-REGLAMENTO PARA EL EXPENDIO DE ALIMENTOS Y BEBIDAS EN LOS ESTABLECIMIENTOS DE CONSUMO ESCOLAR DE LOS PLANTELES DE EDUCACION BASICA DEL SUBSISTEMA EDUCATIVO FEDERALIZADO
+REGLAMENTO PARA EL EXPENDIO DE ALIMENTOS Y BEBIDAS EN LOS ESTABLECIMIENTOS DE CONSUMO ESCOLAR DE LOS PLANTELES DE EDUCACIÓN BÁSICA DEL SUBSISTEMA EDUCATIVO FEDERALIZADO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 19 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el martes 14 de septiembre de 2010.
 
@@ -37,49 +37,99 @@ REGLAMENTO PARA EL EXPENDIO DE ALIMENTOS Y BEBIDAS EN LOS ESTABLECIMIENTOS DE CO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en el presente Reglamento son de carácter obligatorio; tienen por objeto regular el expendio de alimentos, bebidas, productos y servicios, así como la organización y el funcionamiento de los establecimientos de consumo escolar en los planteles oficiales e incorporados de educación básica, dependientes de Servicios Educativos Integrados al Estado de México.
+Las disposiciones contenidas en el presente Reglamento son de carácter obligatorio; tienen por objeto regular el expendio de alimentos y bebidas preparados y procesados, productos y servicios, así como la organización y el funcionamiento de los respectivos comités de los establecimientos de consumo escolar, así como éstos, en los planteles educativos oficiales e incorporados de educación básica, dependientes de Servicios Educativos Integrados al Estado de México.
 
-Para el caso de las escuelas particulares incorporadas al Subsistema Educativo Federalizado, únicamente les obligarán las disposiciones relativas a la calidad de los alimentos, bebidas; y productos a que se refieren los artículos 4, 7 fracción IV, 9 fracciones I, II, V y VI, 10, 11, 12 y 22 del Reglamento. El supervisor escolar correspondiente, informará a la autoridad educativa de las irregularidades que se adviertan en el funcionamiento del establecimiento de consumo escolar, a efecto de que se tomen las medidas pertinentes.
+En los planteles incorporados al Subsistema Educativo Federalizado, no serán aplicables los artículos 9, fracción III; 13, fracciones III y IV, en ésta última, en lo relativo al contralor; 18 y 19, así como los capítulos Décimo, Décimo Primero y Décimo Segundo del presente Reglamento.
+
+En lo no previsto por este Reglamento, se estará a lo dispuesto por los Lineamientos generales para el expendio y distribución de alimentos y bebidaspreparados (sic) y procesados en las escuelas del Sistema Educativo Nacional, contenidos en el Acuerdo Intersecretarial de los secretarios de Educación Pública y Salud, publicado en el Diario Oficial de la Federación de fecha 16 de mayo de 2014.
+
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-Para efectos del presente Reglamento se entenderá por:
+Para efectos de este Reglamento, se entenderá por:
 
-I. Anexo 1: El Anexo Único del Acuerdo mediante el cual se establecen los lineamientos generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica, emitido por los secretarios de Educación Pública y de Salud del Gobierno Federal;
+I.- Agua simple potable: al líquido que no contiene contaminantes físicos, químicos ni biológicos; es incoloro, insípido e inoloro y no causa efectos nocivos al ser humano. Es el líquido más recomendable para una hidratación adecuada porque no se le ha adicionado; nutrimento o ingrediente alguno;
 
-II. Anexo 2: El Acuerdo por el que se establece el Listado básico de alimentos y bebidas recomendables para su consumo en los planteles de educación básica, emitido por la Secretaría de Salud del Gobierno del Estado de México;
+II.- Alimentación correcta: a los hábitos alimentarios que de acuerdo con los conocimientos aceptados en la materia, cumplen con las necesidades específicas en las diferentes etapas de la vida, promueven en los niños y las niñas el crecimiento y desarrollo adecuados y en los adultos permite conservar o alcanzar el peso esperado para la talla y previene el desarrollo de enfermedades;
 
-III. Autoridad educativa: el Director General, el Coordinador Académico y de Operación Educativa, el Jefe de la Unidad de Asuntos Jurídicos, el Director de Educación Secundaria y Servicios de Apoyo, y el Director de Educación Elemental, así como sus respectivos subdirectores, jefes de departamento, jefes de sector y supervisores escolares de estos dos últimos, cada uno en el ámbito de su respectiva competencia;
+III.- Alimento: cualquier substancia o producto, sólido o semisólido, natural o transformado, que proporciona al organismo elementos para su nutrición;
 
-IV. Comité: el Comité del Establecimiento de Consumo Escolar;
+IV.- Alimentos y bebidas naturales: a aquéllos cultivados, empaquetados y almacenados que no contienen aditivos químicos;
 
-V. Comunidad escolar: el grupo de personas integrado por directivos escolares, docentes, personal de servicios de asistencia educativa y apoyo, alumnos, padres de familia y demás agentes que intervienen en el proceso de enseñanza y aprendizaje en el plantel educativo;
+V.- Alimentos y bebidas preparados: a los que se someten a un procedimiento mecánico como picado, mezclado, entre otros; físico químico como calor húmedo o seco, de fritura, enfriamiento o congelación para su consumo;
 
-VI. Establecimiento de consumo escolar: el espacio físico en el interior del plantel educativo en el que se realiza la comercialización de productos alimenticios, bebidas, artículos y servicios necesarios para la realización de las actividades de la comunidad escolar;
+VI.- Alimentos y bebidas procesados: a aquéllos que son sometidos a un proceso de modificación de su estado original respecto de sus componentes, fáciles de consumir y de conservar en envases mediante conservadores;
 
-VII. Plantel educativo: el inmueble oficial en donde se imparte educación básica, perteneciente a SEIEM; en el caso de las escuelas incorporadas, el inmueble autorizado para impartir educación;
+VII.- Anexo Único: el Anexo Único del Acuerdo Intersecretarial de los titulares de las secretarías de Educación Pública y de Salud, publicado en el Diario Oficial de la Federación el 16 de mayo de 2014, que establece los Lineamientos generales para el expendio y distribución de alimentos y bebidas preparados y procesados en las escuelas del Sistema Educativo Nacional, los cuales disponen que, para una efectiva orientación alimentaria, en el Anexo Único, de dicho Acuerdo, se describen las características nutrimentales de alimentos y bebidas que facilitan una alimentación correcta y se recomiendan para su expendio y distribución en las escuelas;
 
-VIII. Reglamento: el Reglamento para el Expendio de Alimentos y Bebidas en los Establecimientos de Consumo Escolar de los Planteles de Educación Básica del Subsistema Educativo Federalizado; y
+VIII.- Autoridad Educativa: el Director General, el Coordinador Académico y de Operación Educativa, el Jefe de la Unidad de Asuntos Jurídicos, el Director de Educación Secundaria y Servicios de Apoyo, y el Director de Educación Elemental, así como sus respectivos subdirectores, jefes de departamento, jefes de sector y supervisores escolares de estos dos últimos, cada uno, en el ámbito de su respectiva competencia;
 
-IX. SEIEM: el organismo público descentralizado de carácter estatal denominado Servicios Educativos Integrados al Estado de México.
+IX.- Autoridades Sanitarias: al Presidente de la República, al Consejo de Salubridad General, a la Secretaría de Salud de la Administración Pública Federal y la del Gobierno del Estado de México;
+
+X.- Colación o refrigerio: a la porción de alimento consumida entre las comidas principales (desayuno, comida y cena), y sirve para cumplir las características de una dieta correcta;
+
+XI.- Comité: el Comité del Establecimiento de Consumo Escolar, integrado por el grupo de personas (especialmente madres y padres de familia) que se compromete y responsabiliza de la organización y el desarrollo de acciones en torno al expendio y distribución de alimentos y bebidas preparados y procesados, de conformidad con lo establecido en el presente Reglamento;
+
+XII.- Comunidad escolar: a las madres y los padres de familia o tutores, los representantes de sus asociaciones, las y los directivos de la escuela y, en la medida de lo posible, los ex alumnos y otros miembros de la comunidad interesados en el desarrollo de la propia escuela;
+
+XIII.- Distribución: al conjunto de estrategias y acciones dirigidas a abastecer de alimentos y bebidas preparados y procesados a las escuelas conforme a los criterios nutrimentales definidos en el Anexo Único del presente Reglamento;
+
+XIV.- Establecimientos de Consumo Escolar: a los espacios asignados en las escuelas, públicas y particulares del Subsistema Educativo Federalizado, para ofrecer a los estudiantes alimentos y bebidas preparados y procesados dentro de sus instalaciones. Incluye todo expendio de alimentos y bebidas que opere al interior de las escuelas, cualquiera que sea la denominación o naturaleza jurídica que adopte;
+
+XV.- Expendio: a la actividad de vender alimentos y bebidas preparados y procesados en el Establecimiento de Consumo Escolar;
+
+XVI.- Hábitos alimentarios: al conjunto de conductas adquiridas por un individuo, por la repetición de actos en cuanto a la selección, la preparación y el consumo de alimentos. Los hábitos alimentarios se relacionan principalmente con las características sociales, económicas y culturales de una población o región determinada. Los hábitos generalizados de una comunidad suelen llamarse costumbres;
+
+XVII.- Orientación alimentaria: al conjunto de acciones que proporcionan información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta correcta en el ámbito individual, familiar o colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales;
+
+XVIII.- Personal calificado: a los nutriólogos y dietistas con certificación vigente expedida por un órgano legalmente constituido y/o reconocido por la autoridad competente, que cuente con tres años de experiencia en el campo de la orientación alimentaria;
+
+XIX.- Personal capacitado: al que fue preparado por personal calificado y que cuenta con los conocimientos y habilidades para la orientación alimentaria;
+
+XX.- Plato del Bien Comer: a la herramienta gráfica que representa y resume los criterios generales que unifican y dan congruencia a la orientación alimentaria dirigida a brindar a la población opciones prácticas, con respaldo científico, para la integración de una alimentación correcta que pueda adecuarse a sus necesidades y posibilidades, señalada en la Norma Oficial Mexicana NOM-043-SSA2-2012, "Servicios básicos de salud. Promoción y educación para la salud en materia alimentaria. Criterios para brindar orientación";
+
+XXI.- Proveedor: a la persona física, microempresa, institución pública o privada que abastece a las escuelas, de manera regular, de los insumos para la preparación, expendio y distribución de alimentos, con base en lo establecido en el presente Acuerdo y su Anexo Único, o presta servicios relacionados con los mismos;
+
+XXII.- Reglamento: el Reglamento para el Expendio de Alimentos y Bebidas en los Establecimientos de Consumo Escolar de los Planteles de Educación Básica del Subsistema Educativo Federalizado; y
+
+XXIII.- SEIEM: Servicios Educativos Integrados al Estado de México.
 
 ###### Artículo 3.
 
 La ubicación del establecimiento de consumo escolar será en el interior del plantel educativo, en el espacio físico que determine el director escolar o responsable de la escuela, procurando que el lugar sea seguro e higiénico y que no interfiera en la prestación del servicio educativo. En ningún caso podrán expenderse alimentos, bebidas y productos fuera del establecimiento de consumo escolar.
 
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 4.
 
-Las autoridades escolares deberán fomentar el consumo de alimentos saludables que propicie en los educandos y demás miembros de la comunidad escolar, una alimentación correcta, así como el desarrollo de un entorno saludable.
+En las escuelas del Subsistema Educativo Federalizado se fomentará el consumo de alimentos y bebidas que favorezcan la salud de los estudiantes, considerando las siguientes características de una dieta correcta:
+
+I. Completa: que contenga todos los nutrimentos. Se recomienda incluir en cada comida alimentos de los tres grupos expresados en El Plato del Bien Comer;
+
+II. Equilibrada: que los nutrimentos guarden las proporciones apropiadas entre sí;
+
+III. Inocua: que su consumo habitual no implique riesgos para la salud porque está exenta de microorganismos patógenos, toxinas, contaminantes, que se consuma con mesura y que no aporte cantidades excesivas de ningún componente o nutrimento;
+
+IV. Suficiente: que cubra las necesidades de todos los nutrimentos, de tal manera que el sujeto adulto tenga una buena nutrición y un peso saludable y en el caso de los niños o niñas, que crezcan y se desarrollen de manera correcta;
+
+V. Variada: que de una comida a otra, incluya alimentos diferentes de cada grupo, y
+
+VI. Adecuada: que esté acorde con los gustos y la cultura de quien la consume y ajustada a sus recursos económicos, sin que ello signifique que se deban sacrificar sus otras características.
 
 ###### Artículo 5.
 
 El registro, fomento, supervisión y control de los establecimientos de consumo escolar estarán a cargo de la Coordinación Académica y de Operación Educativa, a través de las direcciones de Educación Elemental y de Educación Secundaria y Servicios de Apoyo de SEIEM.
 
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 6.
 
-Estarán sujetos al presente Reglamento, las autoridades educativas, los padres de familia y docentes integrantes del Comité, el personal de servicios de asistencia educativa y apoyo, los alumnos, y los particulares que hayan asumido legalmente la responsabilidad del funcionamiento de los establecimientos de consumo escolar.
+Estarán sujetos al presente Reglamento, las autoridades educativas, los padres de familia, tutores y docentes integrantes del Comité, el personal de servicios de asistencia educativa y apoyo, los alumnos, y los particulares que hayan asumido legalmente la responsabilidad del funcionamiento de los establecimientos de consumo escolar.
 
 ### CAPÍTULO SEGUNDO. DE LA AUTORIDAD EDUCATIVA
 
@@ -107,7 +157,9 @@ Los padres de familia colaborarán, de manera activa, con las autoridades escola
 
 Los establecimientos de consumo escolar tendrán como objeto:
 
-I. Vender a la comunidad escolar de los planteles educativos, productos alimenticios y bebidas de calidad, higiénicos y con valor nutritivo, recomendados por las autoridades de salud, contenidos en los anexos 1 y 2, así como materiales y servicios que requiera la propia comunidad, a precios accesibles, en horarios de actividad oficial;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+I.- Llevar a cabo la distribución y venta de alimentos y bebidas higiénicos y con valor nutritivo, recomendados por las autoridades de salud, contenidos en el Anexo Único, así como materiales y servicios que requiera la comunidad escolar, a precios accesibles, en horarios de actividad oficial;
 
 II. Proteger la salud y la economía de la comunidad escolar;
 
@@ -121,11 +173,15 @@ VI. Las demás que sean consecuentes para el cumplimiento de su objeto.
 
 ### CAPÍTULO CUARTO. DE LOS ALIMENTOS Y BEBIDAS RECOMENDABLES PARA SU EXPENDIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Los alimentos y bebidas que podrán expender los establecimientos de consumo escolar serán los recomendados por las autoridades de salud, contenidos en los anexos 1 y 2.
+Los alimentos y bebidas que podrán expender los establecimientos de consumo escolar serán los recomendados por las autoridades de salud, contenidos en el Anexo Único.
 
-La lista de alimentos y bebidas contenidos (sic) en los anexos 1 y 2 del presente Reglamento, podrá ampliarse con aquellos que vayan incorporándose a la actualización permanente de la página de internet www.insp.mx/alimentosescolares/alimentos_permitidos.php, autorizada por las secretarías de Salud y de Educación Pública del Gobierno Federal.
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+La lista de alimentos y bebidas contenidos en el Anexo Único del presente Reglamento, podrá ampliarse con aquellos que vayan incorporándose a la actualización permanente autorizada por las secretarías de Salud y de Educación Pública del Gobierno Federal.
 
 A fin de mejorar la preparación de alimentos y bebidas, tanto en los planteles educativos, como los elaborados por los padres de familia, podrán consultarse los manuales que para tal efecto expidan las autoridades de salud federal o estatal.
 
@@ -133,9 +189,11 @@ El supervisor de la zona escolar será el responsable, dentro de su circunscripc
 
 ### CAPÍTULO QUINTO. DE LAS CONDICIONES HIGIÉNICAS DE LOS LUGARES DE PREPARACIÓN DE ALIMENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 11.
 
-Los espacios que se utilicen en la preparación de alimentos y bebidas, deberán satisfacer las siguientes condiciones higiénicas:
+Los espacios que se utilicen en la preparación de alimentos y bebidas, deberán funcionar conforme lo establece la Norma Oficial Mexicana NOM-251-SSA1-2009, "Prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios" y demás disposiciones jurídicas que resulten aplicables en la materia y satisfacer las siguientes condiciones higiénicas:
 
 I. Estar alejadas de fuentes de contaminación como: basura, canales de aguas negras y drenajes abiertos;
 
@@ -163,9 +221,11 @@ XII. Las demás que determinen las autoridades de salud.
 
 ### CAPÍTULO SEXTO. DE LA LIMPIEZA EN LA PREPARACIÓN DE ALIMENTOS Y BEBIDAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 12.
 
-Las personas encargadas de preparar alimentos y bebidas para su expendio en los establecimientos de consumo escolar deberán observar las siguientes medidas de higiene:
+Los propietarios o responsables del establecimiento de consumo escolar, verificarán que las personas encargadas de preparar alimentos y bebidas para su expendio en el mismo, lo hagan conforme a la Norma Oficial Mexicana NOM-043-SSA2-2012, "Servicios básicos de salud. Promoción y educación para la salud en materia alimentaria. Criterios para brindar orientación", y demás disposiciones jurídicas que resulten aplicables en la materia; asimismo, deberán observar las siguientes medidas de higiene:
 
 I. Lavar y desinfectar las verduras, frutas y utensilios de cocina;
 
@@ -193,19 +253,21 @@ XII. Las demás que determinen las autoridades de salud.
 
 ### CAPÍTULO SÉPTIMO. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL COMITÉ
 
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 13.
 
-En cada una de las escuelas de educación básica habrá un Comité, que será el órgano encargado de vigilar el funcionamiento del establecimiento de consumo escolar y de la administración de los recursos provenientes de éste.
+En cada una de las escuelas de educación básica habrá un Comité, que será el órgano encargado de vigilar el funcionamiento del establecimiento de consumo escolar y de la administración de los recursos provenientes de éste. En su conformación participarán exclusivamente padres de familia que cuenten con al menos un hijo inscrito en la escuela correspondiente y sus funciones las desempeñarán de manera honoraria.
 
-El Comité será integrado por el Consejo Escolar de Participación Social dentro de la primera semana del mes de octubre del ciclo escolar correspondiente y estará conformado por:
+El Comité será integrado por el Consejo Escolar de Participación Social, dentro de la primera semana del mes de octubre del ciclo escolar correspondiente y estará conformado por:
 
-I. Un Presidente, que podrá ser el director escolar o un maestro, según lo acuerde el personal docente del centro educativo;
+I. Un Presidente;
 
-II. Un Secretario, que será un padre de familia, designado por la asamblea general de la respectiva asociación;
+II. Un Secretario;
 
-III. Un Tesorero, que será un maestro, designado por el personal docente del centro educativo; y
+III. Un Tesorero;
 
-IV. Un Contralor y tres vocales que serán padres de familia, designados por la asamblea general de la asociación respectiva.
+IV. Un Contralor y tres vocales.
 
 Los integrantes del Comité tendrán voz y voto, excepto el Secretario, quien sólo tendrá voz. El Presidente tendrá el voto de calidad en caso de empate.
 
@@ -231,7 +293,9 @@ V. Fijar el monto y la periodicidad con que lo deba cubrir el particular al Comi
 
 VI. Aplicar con transparencia los rendimientos económicos que se generen por el funcionamiento del establecimiento de consumo escolar, así como el cumplimiento de las responsabilidades derivadas de la suscripción del contrato;
 
-VII. Vigilar y verificar, que los alimentos y bebidas que expenda el establecimiento de consumo escolar, sean los recomendados por las autoridades de salud, contenidos en los anexos 1 y 2;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Vigilar y verificar, que los alimentos y bebidas que expenda el establecimiento de consumo escolar, sean los recomendados por las autoridades de salud, contenidos en el Anexo Único;
 
 VIII. Promover el consumo de agua simple potable;
 
@@ -254,6 +318,26 @@ XVI. Coordinar sus actividades con la mesa directiva de la asociación de padres
 XVII. Rendir a las direcciones de Educación Elemental y de Educación Secundaria y Servicios de Apoyo, según corresponda, un informe durante los meses de enero y junio, sobre el ingreso, manejo y destino de los recursos derivados de la prestación del servicio del establecimiento de consumo escolar; y
 
 XVIII. Las demás que sean necesarias para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 15 Bis.
+
+A fin de generar entornos saludables en la escuela, el Comité del Establecimiento de Consumo Escolar promoverá la realización de las siguientes acciones:
+
+I. Convocar a madres y padres de familia de la comunidad escolar a participar en las acciones relacionadas con el expendio y distribución de alimentos y bebidas de acuerdo a los criterios nutrimentales establecidos en el Anexo Único del presente Reglamento;
+
+II. Establecer alianzas entre la escuela y la familia para adoptar una alimentación correcta;
+
+III. Gestionar la capacitación y orientación alimentaria dirigida a las personas directamente involucradas en la preparación, el expendio y la distribución de los alimentos y bebidas;
+
+IV. Difundir entre la comunidad escolar el tipo de alimentos y bebidas que se expenden y distribuyen en la escuela, basados en las recomendaciones y prohibiciones contenidas en el Anexo Único del presente Reglamento;
+
+V. Supervisar y vigilar de manera permanente la calidad y el tipo de productos que pueden expenderse y distribuirse, verificando que los alimentos y bebidas señalen la fecha de caducidad o consumo preferente, la información nutrimental del producto y que cumplan con las disposiciones establecidas en el Anexo Único del presente Reglamento;
+
+VI. Verificar el cumplimiento de las medidas de seguridad e higiene para la preparación, expendio y distribución de alimentos y bebidas en la escuela, y
+
+VII. Las demás que le encomiende el Consejo Escolar de Participación Social.
 
 ### CAPÍTULO OCTAVO. DE LAS FUNCIONES DE LOS MIEMBROS DEL COMITÉ
 
@@ -345,17 +429,19 @@ Los acuerdos del Comité serán tomados por mayoría de votos.
 
 ### CAPÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS DE LOS ESTABLECIMIENTOS DE CONSUMO ESCOLAR
 
+> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-Los prestadores del servicio de los establecimientos de consumo escolar deberán:
+Los aspirantes a proveedores, prestadores de servicios de alimentos y bebidas para su preparación, expendio y distribución en el establecimiento de consumo escolar, deberán:
 
-I. Conocer y cumplir con las disposiciones de este Reglamento y las demás aplicables en la materia;
+I. Conocer y dar cabal cumplimiento a las disposiciones contenidas en este Reglamento y su Anexo Único, así como a las demás disposiciones jurídicas aplicables en la materia;
 
-II. Ofrecer sus productos con calidad e higiene;
+II. Contar con personal calificado y/o capacitado;
 
-III. Evitar prácticas o conductas de intermediación que encarezcan los productos; y
+III. Recibir orientación y asesoría acerca de cómo ofrecer alimentos y bebidas recomendables y el tipo de medidas higiénicas que es necesario observar para su preparación, expendio y distribución, para lo cual podrán apoyarse en los servicios estatales de salud de su respectiva localidad, cuando así se haya convenido con estos últimos, y
 
-IV. Recibir orientación y asesoría acerca de cómo ofrecer alimentos y bebidas recomendables y el tipo de medidas higiénicas que es necesario observar para su elaboración y distribución.
+IV. Evitar prácticas o conductas de intermediación que encarezcan los productos.
 
 ### CAPÍTULO DÉCIMO. DE LA CONVOCATORIA
 
@@ -371,7 +457,9 @@ I. Nombre, ubicación, turno y clave del centro educativo;
 
 II. Número de alumnos inscritos en el centro escolar de que se trate;
 
-III. La lista de alimentos y bebidas recomendados por las autoridades de salud, contenidos en los anexos 1 y 2, así como los demás productos y servicios para su expendio en el establecimiento de consumo escolar;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+III. La lista de alimentos y bebidas recomendados por las autoridades de salud, contenidos en el Anexo Único, así como los demás productos y servicios para su expendio en el establecimiento de consumo escolar;
 
 IV. Espacio y dimensiones destinados al establecimiento de consumo escolar;
 
@@ -421,7 +509,9 @@ El contrato de prestación del servicio del establecimiento de consumo escolar, 
 
 I. El señalamiento expreso, que los alimentos y bebidas que se expendan sean vigentes, nutritivos e higiénicos;
 
-II. Los alimentos y bebidas recomendados por las autoridades de salud, contenidos en los anexos 1 y 2, así como los productos y servicios que podrá ofrecer el particular;
+> <small>(REFORMADA, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+II. Los alimentos y bebidas recomendados por las autoridades de salud, contenidos en el Anexo Único, así como los productos y servicios que podrá ofrecer el particular;
 
 III. El compromiso del particular de cumplir con las disposiciones dictadas por las autoridades en materia de salud, educación y protección civil;
 
@@ -479,15 +569,31 @@ Queda prohibido utilizar los recursos provenientes por la contraprestación del 
 
 En caso de incumplimiento a esta disposición, la persona que haya autorizado la erogación deberá restituir el importe de la cantidad de que se dispuso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LAS PROHIBICIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 37.
+
+Queda prohibida la preparación, expendio y distribución de alimentos y bebidas en las escuelas del Subsistema Educativo Federalizado, que por representar una fuente de azúcares simples, harinas refinadas, grasas o sodio, no cumplan con los criterios nutrimentales del Anexo Único del presente Reglamento, y, en consecuencia, no favorezcan la salud de los educandos y la pongan en riesgo.
+
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 38.
+
+Los prestadores de servicios educativos que promuevan o propicien la preparación, expendio y distribución de alimentos en contravención a lo señalado en el lineamiento anterior, incurrirán en las infracciones previstas en el artículo 75, fracciones IX y XIII de la Ley General de Educación y se harán acreedores a las sanciones establecidas en el artículo 76 de dicho ordenamiento legal. Lo anterior, sin perjuicio de que se impongan las sanciones administrativas que correspondan, tratándose de servidores públicos.
+
 ## TRANSITORIOS
 
 PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
 
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
 
-TERCERO.- Las disposiciones de este Reglamento relativas a los alimentos y bebidas recomendados por las autoridades de salud, contenidos en los anexos 1 y 2, serán obligatorias para los prestadores del servicio de los establecimientos de consumo escolar, a partir del primero de enero de 2011.
+TERCERO.- (DEROGADO, G.G. 19 DE SEPTIEMBRE DE 2014)
 
-CUARTO.- Los establecimientos de consumo escolar, actualmente tiendas escolares que funcionen, tendrán, a partir de la fecha de publicación del presente Reglamento y hasta el 31 de diciembre de 2010, para que los alimentos y bebidas que expendan se ajusten a las disposiciones contenidas en los anexos 1 y 2.
+CUARTO.- (DEROGADO, G.G. 19 DE SEPTIEMBRE DE 2014)
 
 QUINTO.- El Comité, en su respectivo plantel educativo, a partir de la segunda semana de octubre de 2010, informará al prestador del servicio del establecimiento de consumo escolar, sobre la expedición y aplicación del presente Reglamento.
 
@@ -504,3 +610,19 @@ DIRECTOR GENERAL DE SEIEM Y SECRETARIO DEL CONSEJO DIRECTIVO
 (RÚBRICA)
 
 > <small>N. DE E. VEASE ANEXOS 1 Y 2 EN LA SECCION SEPTIMA DEL P.O. DE 14 DE SEPTIEMBRE DE 2010, PAGS. 14-28.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 19 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Se deja sin efecto el Anexo Único de los Lineamientos generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica, publicados en el Diario Oficial de la Federación de fecha 23 de agosto de 2010, incorporado como Anexo 1, al Reglamento para el expendio de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica del Subsistema Educativo Federalizado, publicado en la Gaceta del Gobierno el 14 de septiembre de 2010.
+
+CUARTO.- Se incorpora como Anexo Único al Reglamento para el expendio de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica del Subsistema Educativo Federalizado, publicado en la Gaceta del Gobierno el 14 de septiembre de 2010, el contenido del Anexo Único, del Acuerdo Intersecretarial de los titulares de las secretarías de Educación Pública y de Salud, publicado en el Diario Oficial de la Federación el 16 de mayo de 2014, que establece los Lineamientos generales para el expendio y distribución de alimentos y bebidas preparados y procesados en las escuelas del Sistema Educativo Nacional.
+
+> <small>N. DE E. VÉASE ANEXO ÚNICO EN LA G.G. 19 DE SEPTIEMBRE DE 2014, PÁGINAS DE LA 7 A LA 19.</small>
+
+QUINTO.- Distribúyanse ejemplares del Reglamento a que se refiere este Acuerdo, en todas las escuelas de educación básica dependientes de este Organismo.
