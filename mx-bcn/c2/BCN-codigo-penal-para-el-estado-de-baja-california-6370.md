@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2013-09-13"
+last_updated: "2014-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -619,6 +619,10 @@ Una vez que cause ejecutoria la sentencia, el órgano jurisdiccional comunicará
 
 La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+Cuando se decrete el reconocimiento de inocencia del sentenciado, se notificará de la resolución al Registro Nacional de Electores para que cese la suspensión de sus derechos.
+
 ###### Artículo 53.
 
 Efectos de la privación de derechos, funciones o empleos.- La privación surtirá sus efectos desde el momento en que cause ejecutoria la sentencia.
@@ -981,7 +985,7 @@ II.- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin 
 
 III.- Asegurar que desarrollará una ocupación lícita dentro del plazo que se le fije, y que se abstendrá de causar molestias al ofendido o a sus familiares;
 
-IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y (sic)
+IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -1091,9 +1095,17 @@ II.- Cuando después de la sentencia aparecieren documentos públicos que invali
 
 III.- Cuando condenada alguna persona por homicidio de otra que hubiere desaparecido, se presente ésta o alguna prueba indubitable de que vive;
 
-IV.- Cuando se demuestre la imposibilidad de que el condenado lo hubiere cometido; o
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
 
-V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios distintos, en cuyo caso el reconocimiento de la inocencia procederá respecto de la segunda sentencia.
+IV.- Cuando se demuestre la imposibilidad de que el condenado lo hubiere cometido;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios distintos, en cuyo caso el reconocimiento de la inocencia procederá respecto de la segunda sentencia, o
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Cuando aparecieren pruebas supervinientes, o pruebas periciales que por el avance de la ciencia y la tecnología en el pasado no hubiera sido posible desahogar, que invaliden las pruebas en que se haya fundado el juzgador para dictar su sentencia.
 
 ### CAPITULO VI. PERDON DEL OFENDIDO EN LOS DELITOS DE QUERELLA NECESARIA
 
@@ -1859,13 +1871,17 @@ QUERELLA: El delito de revelación de secreto se perseguirá por querella de la 
 
 ### CAPITULO I. DIFAMACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ### CAPITULO II. CALUMNIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL DE LAS PERSONAS
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 176.
 
@@ -2009,39 +2025,37 @@ Artículo 184 TER.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
 ###### Artículo 185.
 
-Tipo y punibilidad.- El delito de difamación se castigará con prisión de tres días hasta de dos años o hasta cien días multa, o ambas sanciones, a juicio del Juez.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral en los casos previstos por la Ley, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle, descrédito, perjuicio o exponerlo al desprecio de alguien.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 186.
 
-(DEROGADO, P.O. 12 DE JUNIO DE 1998)
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 187.
 
-Casos en que no hay difamación.- No se aplicará sanción alguna como reo de difamación:
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubiesen pedido, si no lo hiciere a sabiendas calumniosamente; y
-
-III.- Al autor de un escrito presentado o de un discurso pronunciado en los Tribunales, ya que de hacer uso de alguna expresión difamatoria, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 188.
 
-Casos de excepción.- Lo prevenido en la fracción última del artículo anterior no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 189.
 
-Derecho del difamado.- El difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de difamación o de calumnia, según le conviniere.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-Cuando el delito sea de los que se persiguen de oficio, solamente podrá acusarse por calumnia.
-
-Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputación, y si ésta quedase probada, se librará de toda sanción excepto en el caso del artículo 193.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 190.
 
-Inexcusabilidad.- No servirá de excusa de la difamación ni de la calumnia, que el hecho imputado sea notorio o que el reo no haya hecho más que reproducir lo ya publicado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO VI. USURA
 
@@ -2049,31 +2063,25 @@ Inexcusabilidad.- No servirá de excusa de la difamación ni de la calumnia, que
 
 ###### Artículo 191.
 
-Tipo y punibilidad.- El delito de calumnia se castigará con prisión de seis meses a dos años o hasta cien días multa, o ambas sanciones, a juicio del Juez:
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-I.- Al que impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso, o es inocente la persona a quien se imputa;
-
-II.- Al que presente denuncias, quejas o acusaciones calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquel no se ha cometido; y
-
-III.- Al que, para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-En los casos de las dos últimas fracciones, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que aquel.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 192.
 
-Exclusión de sanción.- Aunque se acredite la inocencia del calumniado, o que son falsos los hechos en que se apoya la denuncia, la queja o la acusación, no se castigará como calumniador al que las hizo si probare plenamente haber tenido causas bastantes para incurrir en error.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-Tampoco se aplicará sanción alguna al autor de esa denuncia, queja o acusación, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito, y el, errónea o falsamente les haya atribuido ese carácter.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 193.
 
-Responsabilidad por resolución judicial.- No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquel le impute.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 194.
 
-Suspensión de la acción.- Cuando haya pendiente un juicio en averiguación o investigación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. Para los efectos de la prescripción, en este caso se estará a lo dispuesto por el artículo 112 de este Código.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
@@ -2081,37 +2089,23 @@ Suspensión de la acción.- Cuando haya pendiente un juicio en averiguación o i
 
 ###### Artículo 195.
 
-Querella necesaria para proceder en los delitos de difamación o calumnia.- No se podrá proceder contra el autor de una difamación o calumnia, sino por queja de la persona ofendida, excepto en el caso siguiente:
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-Si el ofendido ha muerto y la difamación o calumnia fueron posteriores a su fallecimiento, sólo se podrá proceder en virtud de queja del cónyuge, de los ascendientes, de los descendientes o de los hermanos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
-Cuando la difamación o la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá a la queja de las personas mencionadas, si aquel hubiere permitido la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieren sus herederos.
+Artículo 195 BIS.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2007)</small>
-
-Artículo 195 BIS.- EXCLUSIÓN DE LAS PENAS.- No se aplicarán las penas previstas en los delitos de difamación y de calumnia de este Código, al autor de alguna de las conductas descritas en los artículos 185 y 191 fracción I, cuando:
-
-I.- El calumniado o difamado sea servidor público y se trate de actos que se ejecuten con tal carácter.
-
-II.- El calumniado o difamado sea un particular que intervenga en algún asunto de interés público, siempre y cuando la expresión difamante o calumniosa se relacione con dicho asunto.
-
-Se entenderá que un particular interviene en un asunto de interés público, cuando:
-
-a).- Preste un servicio público que haya sido concesionado por los Poderes Públicos Estatales o Municipales o, haya obtenido de estos entes, permiso o autorización para el desarrollo de una actividad.
-
-b).- Celebre con los Poderes Públicos Estatales o Municipales u Órganos Públicos Autónomos, contrato de obra pública, equipamiento, suministro y servicios relacionados con la misma, en los términos de la Ley estatal de la materia.
-
-c).- Haya sido declarado por sentencia firme miembro de la delincuencia organizada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 196.
 
-Destino de los objetos empleados para cometer los delitos.- Los escritos, estampas, pinturas o cualquier otra cosa que hubiere servido de medio para la difamación o la calumnia, se recogerán y destruirán, a menos de que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derechos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
-En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 19 DE SEPTIEMBRE DE 2014.</small>
 
 ###### Artículo 197.
 
-Publicación de sentencia.- Siempre que sea condenado el responsable de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en alguno de los periódicos de mayor circulación a costa de aquel. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, si tienen responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles un día multa por cada día que pase sin hacerlo, después de aquel en que se le notifique la sentencia. El importe de la multa no podrá exceder de quinientos días multa.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ## TITULO SEXTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -2223,7 +2217,7 @@ IV.- Cuando el huésped o comenzal (sic) o alguna de su familia o de los criados
 
 V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquiera otra persona;
 
-VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y, (sic)
+VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y,
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2639,11 +2633,13 @@ b) Copia de una documental pública con fotografía que acredite los datos de id
 
 En los casos a que se refiere la fracción II, de este artículo se llevará un registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables; y
 
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
 III. Se trate de cualquier clase de metal fundido o alterado de su forma comercial, salvo cuando la adquisición, recepción o guarda de los referidos metales se respalde con:
 
-a) Copia de una documental pública con fotografía que acrediten los datos de identificación personal de quien los ofrece, o la de dos personas que atestigüen que el oferente dispuso de la cosa;
+a) Copia de la documental que acredite la propiedad o el derecho para disponer de ellos.
 
-b) Copia de un comprobante de domicilio de quien los ofrece, y
+b) Copia de una documental pública con fotografía que acrediten los datos de identificación personal de quien los ofrece, o la de dos personas que atestigüen que el oferente dispuso de la cosa, así como copia de un comprobante de domicilio de quien los ofrece, y
 
 c) Registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables.
 
@@ -2657,11 +2653,9 @@ Tipo y punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquier
 
 Para los efectos del párrafo anterior, se presume que el sujeto activo no se cercioró de la procedencia legítima del objeto, sino cumple con cualquiera de los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
 
-I.- La adquisición, recepción o guarda de los bienes no se respalde con copia documental pública con fotografía que acrediten los datos de identificación personal del que le ofreció la cosa; o con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
-
-No se aplicará lo dispuesto en el párrafo anterior, cuando el sujeto activo se encuentre en posesión de dos o más bienes de procedencia ilícita.
+I.- Cuando la adquisición, recepción o guarda de los bienes no se respalde con copia de documental pública con fotografía que acrediten los datos de identificación personal del que le ofreció la cosa; o con copia de la documental que acredite la propiedad o el derecho para disponer de ellos, o con el dicho de dos personas debidamente identificadas que atestigüen que el oferente dispuso de la cosa.
 
 II.- No exija un documento idóneo para constatar la legítima propiedad, tratándose de bienes que contengan datos propios de identificación.
 
@@ -2693,7 +2687,9 @@ Para efectos de este delito la violencia física o moral se ejerce cuando el suj
 
 Cuando exista reincidencia por parte del activo, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, a quien tenga el ejercicio de ésta, por resolución judicial.
 
-Este delito se perseguirá por querella de la víctima, salvo que la víctima sea persona menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, en cuyo caso la denuncia correspondiente también podrá ser presentada por el ofendido o cualquiera de las instituciones públicas encargadas de atender asuntos en materia de protección y defensa de personas menores de dieciocho años de edad o la familia.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+Este delito se perseguirá por querella de la víctima, salvo que la víctima sea persona menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, en cuyo caso la denuncia correspondiente también podrá ser presentada por el ofendido o cualquiera de las instituciones públicas encargadas de atender asuntos en materia de protección y defensa de personas menores de dieciocho años de edad o la familia, o en su caso por cualquier persona que tenga conocimiento de los hechos de violencia. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -3551,7 +3547,7 @@ IV.- Al servidor público que suponga tener alguna otra comisión, empleo o carg
 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
 
-Artículo 307 QUATER (SIC).- Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de las leyes de la materia.
+Artículo 307 QUATER.- Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de las leyes de la materia.
 
 Asimismo incurre en responsabilidad penal y le aplicarán las mismas penas señaladas en el presente artículo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto por las leyes de la materia, a sabiendas de esta circunstancia.
 
@@ -5074,3 +5070,29 @@ P.O. 19 DE JULIO DE 2013.
 P.O. 13 DE SEPTIEMBRE DE 2013.
 
 Único.- Las presentes reformas entrarán en vigor a los noventa días posteriores a la publicación del presente decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+DECRETO No. 86, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 BIS, 196 Y 197 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobado el presente Dictamen publíquese en el Periódico del Estado de Baja California.
+
+SEGUNDO.- Las reformas que aquí se indican entrarán en vigor una vez que sean aprobadas y publicadas las correspondientes adecuaciones al Código Civil para el Estado de Baja California, respecto a las conductas que aquí se abrogan.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+DECRETO No. 106, POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 242 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+DECRETO No. 108, POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 232 Y LA FRACCIÓN I DEL ARTÍCULO 233 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+DECRETO No. 109, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 52, REFORMA FRACCIONES IV Y V Y ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 105 DEL CÓDIGO PENAL DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
