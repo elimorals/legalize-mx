@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2014-03-13"
+last_updated: "2014-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -419,7 +419,13 @@ Artículo 25 BIS.- Corresponde a la Academia de Seguridad Pública del Estado de
 
 El Programa Estatal de Seguridad Escolar es el documento emitido por la Secretaría que contiene el conjunto de acciones preventivas, de seguimiento y de atención de la Comunidad Escolar y de su infraestructura educativa, con el objeto de detectar y minimizar los factores de riesgo delictivo, adictivo y de cualquier otra circunstancia que la ponga en peligro.
 
-Las autoridades señaladas en el Artículo 7 de esta Ley se sujetarán a las disposiciones establecidas en el Programa Estatal de Seguridad Escolar.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+Asimismo, en el Programa se deben incluir acciones para prevenir, detectar, atender y erradicar el acoso escolar. Del Programa se deriva el Protocolo para Prevenir, Detectar, Atender y Erradicar el acoso escolar, previsto en el artículo 16 de la Ley para Prevenir y Erradicar el Acoso Escolar para el Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+Las autoridades señaladas en el artículo 7 de esta Ley y los centros escolares se sujetarán a las disposiciones establecidas en el Programa.
 
 ###### Artículo 27.
 
@@ -435,7 +441,9 @@ El Programa Estatal de Seguridad Escolar deberá atender, por lo menos, los rubr
 
 I. La prevención y tratamiento de adicciones;
 
-II. La prevención de conductas parasociales, antisociales y cualquier otra situación de riesgo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+II. La prevención de conductas parasociales, antisociales y cualquier otra situación de riesgo, con particular énfasis en el acoso escolar;
 
 III. La vinculación de los integrantes de la comunidad escolar en la implementación del presente programa;
 
@@ -750,3 +758,7 @@ P.O. 18 DE OCTUBRE DE 2013.
 P.O. 13 DE MARZO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor a los 30 días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
