@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2014-06-13"
+last_updated: "2014-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1061,39 +1061,31 @@ ARTICULO 135 BIS 4.- (DEROGADO, P.O. 10 DE MAYO DE 1983)
 
 ###### ARTICULO 136.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 137.
 
-Solo pueden celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 138.
 
-Cuando los prometidos son personas menores de dieciocho años de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 139.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 140.
 
-El que sin causa grave, a juicio del Juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el Juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 141.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contando desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 142.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año contado desde el rompimiento de los esponsales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
@@ -16272,3 +16264,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las Instituciones de salud pública y privadas del Estado contarán con un término de noventa días para entregar el Certificado de Nacimiento de los menores, que con anterioridad a esta reforma no se hayan expedido por dichas instituciones, a quien lo solicite y conforme a la legislación aplicable tenga derecho a recibirlo. La Secretaría de Salud hará del conocimiento a dichas instituciones de la presente reforma, así como de las sanciones previstas en ella.
 
 TERCERO.- Una vez aprobado, túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
