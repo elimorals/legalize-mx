@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2014-08-01"
+last_updated: "2014-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -309,9 +309,9 @@ V.- En su condición de padres, deben ser asistidos en la forma que la Legislaci
 
 VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
 
-a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
+a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
 b) Que el Estado les garantice de manera subsidiaria la protección nutricional, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
 
@@ -1779,7 +1779,7 @@ II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que s
 
 III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
 
-IV.- Solicitar la opinión de los yuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
+IV.- Solicitar la opinión de los ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
 
 V.- Los demás requisitos que determine la Ley.
 
@@ -3069,7 +3069,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
-P.O. 6 DE OCTUBRE DE 2000.
+P.O. 6 DE DICIEMBRE DE 2000.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3726,3 +3726,11 @@ SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayorí
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 CUARTO.- Las autoridades públicas señaladas en la presente reforma, contarán con un plazo de tres meses a partir de la publicación del presente Decreto en el Periódico Oficial del Estado, para crear dentro de sus estructuras internas los órganos de coordinación
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
