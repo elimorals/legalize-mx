@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-administracion-publica-del-55022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-28"
-last_updated: "2008-04-16"
+last_updated: "2014-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE ALLENDE, NUEVO LEON
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE ALLENDE, NUEVO LEON
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 19 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 2007.
 
@@ -941,7 +943,7 @@ k) Centrales y delegaciones de policía, penitenciarías y demás edificios e in
 
 l) Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a mil metros cuadrados;
 
-m) Destino final de deshechos sólidos;
+m) Destino final de deshechos (sic) sólidos;
 
 n) Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
 
@@ -949,7 +951,7 @@ o) Centrales de correos, de teléfonos, de telégrafos, estaciones y torres de r
 
 p) Terminales y estaciones de ferrocarriles, de transporte de carga, de transporte de pasajeros urbanos y foráneos, aeropuertos;
 
-q) Edificios para estacionamiento de vehículos; y (sic)
+q) Edificios para estacionamiento de vehículos; y
 
 r) Otros establecimientos que por sus características y magnitud sean similares a los mencionados a los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados;
 
@@ -1439,10 +1441,16 @@ C. OSCAR SALAZAR CAVAZOS
 
 SINDICO SEGUNDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE ABRIL DE 2008.
 
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 Cabe señalar que las modificaciones aprobadas a este Reglamento Interior de la Administración Pública Municipal de Allende, N.L. entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+
+P.O. 19 DE SEPTIEMBRE DE 2014.
+
+PRIMERO: El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Este Reglamento abroga y deja sin efecto legal alguno al anterior, de conformidad a lo establecido por los Artículos 26 inciso a) Fracción VII y 166 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
