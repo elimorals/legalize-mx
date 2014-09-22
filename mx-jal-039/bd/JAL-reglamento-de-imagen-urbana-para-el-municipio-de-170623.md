@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2013-07-08"
+last_updated: "2014-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 8 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 22 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -423,9 +423,11 @@ VII. Que los comerciantes obstruyan la vía pública, ya sea con los bienes que 
 
 ## TÍTULO UNDÉCIMO. De la Ciclovía
 
+> <small>(REFORMADO, G.M. 22 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 39.
 
-La ciclovía es la infraestructura señalizada y destinada al uso preferente de la bicicleta.
+La Ciclovía es todo espacio físico destinado al tránsito de vehículos no motorizados de propulsión humana.
 
 ###### Artículo 40.
 
@@ -480,3 +482,15 @@ Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Tercero. Se faculta a los ciudadanos Presidente Municipal, Secretario General y Síndico, todos de este Ayuntamiento, a suscribir la documentación necesaria al cumplimiento del presente.
+
+G.M. 22 DE SEPTIEMBRE DE 2014.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
+
+Segundo. La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Quedan derogadas las disposiciones de orden municipal que se oponga (sic) a lo establecido en el anterior precepto.
+
+Cuarto. Una vez publicada la presente disposición, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
