@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-de-fomento-al-turismo-41894"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-22"
-last_updated: "2004-11-22"
+last_updated: "2014-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO AL TURISMO DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA COMISION DE FOMENTO AL TURISMO DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA COMISIÓN DE FOMENTO AL TURISMO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE FOMENTO AL TURISMO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 22 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 22 de noviembre de 2004.
 
@@ -548,3 +550,19 @@ Dirección de Asuntos
 Capacitación y Jurídicos y
 
 Cultura Turística Normatividad
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 22 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión de Fomento al Turismo del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Número 42, Sección I de fecha 22 de noviembre de 2004 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Comisión deberán expedirse dentro de los sesenta días posteriores a la publicación de este Reglamento Interior. En tanto se expiden los mencionados manuales administrativos, el Coordinador General de la Comisión queda facultado para resolver las cuestiones que se presenten en relación con los mismos.
