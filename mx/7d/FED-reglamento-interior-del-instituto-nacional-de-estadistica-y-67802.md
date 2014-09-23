@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2013-05-23"
+last_updated: "2014-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -2129,13 +2129,13 @@ XII. Coordinar la atención de requerimientos de información, asistencia técni
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XIII. Coordinar la aplicación de políticas de comunicación interna y externa, para desarrollar y coordinar el Sistema en el ámbito regional y estatal, y en general de la normatividad emitida por el Instituto, y (sic)
+XIII. Coordinar la aplicación de políticas de comunicación interna y externa, para desarrollar y coordinar el Sistema en el ámbito regional y estatal, y en general de la normatividad emitida por el Instituto, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-XIV. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos, y (sic)
+XIV. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos, y
 
 > <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
@@ -2829,7 +2829,9 @@ XX. Integrar los informes y demás requerimientos que deban rendirse ante la Com
 
 XXI. Representar jurídicamente al Instituto y gestionar los asuntos relacionados con la propiedad industrial y los derechos de autor, ante las autoridades competentes. Resguardar los títulos y demás documentos en los que se consignen los derechos del Instituto en ambas materias, y en su caso, ejercer los medios de defensa previstos en la legislación para la protección de los derechos del Instituto;
 
-XXII. Imponer las sanciones a que haya lugar en términos de lo dispuesto por los artículos 103, 106, 110 y 111 de la Ley y demás disposiciones administrativas aplicables, a partir de la determinación de faltas administrativas por la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XXII. Imponer las sanciones a que haya lugar en términos de lo dispuesto por los artículos 103 y 106 en el caso de los Informantes, 104, 105, 107 y 109 para el caso de los servidores públicos y auxiliares adscritos a las Unidades del Estado distintas del Instituto, así como 110 y 111 de la Ley y demás disposiciones administrativas aplicables, a partir de la determinación de faltas administrativas dictaminada por la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
 XXIII. Llevar a cabo las notificaciones derivadas del ejercicio de las atribuciones a que hace referencia este artículo, así como, ejecutar los acuerdos, proveídos y demás resoluciones dictadas en ejercicio de las referidas atribuciones;
 
@@ -3198,3 +3200,7 @@ TERCERO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por
 D.O.F. 23 DE MAYO DE 2013.
 
 ÚNICO.- La reforma al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobada por el presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- La reforma al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
