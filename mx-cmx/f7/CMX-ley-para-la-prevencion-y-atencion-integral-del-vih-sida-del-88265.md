@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-prevencion-y-atencion-integral-del-vih-sida-del-882
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2014-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-06-18"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN INTEGRAL DEL VIH/SIDA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 20 de junio de 2012.
 
@@ -104,11 +104,15 @@ X. Medidas positivas y compensatorias: aquellas de carácter temporal que se imp
 
 XI. Perspectiva de género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las personas, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
-XII. SIDA: Síndrome de Inmunodeficiencia Adquirida;
+> <small>(ADICIONADA, G.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
-XIII. Transversalidad: herramienta metodológica para garantizar la inclusión de las perspectivas de derechos humanos, igualdad y no discriminación y de género como ejes integradores, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendientes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad; y
+XII. Pruebas rápidas de detección del VIH/SIDA; Pruebas de detección del virus que ofrecen un resultado efectivo en minutos.
 
-XIV. VIH: Virus de la Inmunodeficiencia Humana.
+XIII. SIDA: Síndrome de Inmunodeficiencia Adquirida;
+
+XIV. Transversalidad: herramienta metodológica para garantizar la inclusión de las perspectivas de derechos humanos, igualdad y no discriminación y de género como ejes integradores, en la gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria, tendientes a la homogeneización de principios, conceptos y acciones a implementar, para garantizar la concreción del principio de igualdad; y
+
+XV. VIH: Virus de la Inmunodeficiencia Humana.
 
 ###### Artículo 4.
 
@@ -156,6 +160,14 @@ Los servicios que se presten para la prevención y atención integral del VIH/SI
 
 La prevención del VIH/SIDA debe considerarse en el marco de la promoción de la salud como un proceso para evitar su transmisión en la población, mediante el fortalecimiento de conocimientos, aptitudes, actitudes y hábitos de las personas y la comunidad para participar corresponsablemente en el autocuidado, el cuidado colectivo y la construcción de una sociedad saludable y libre del VIH/SIDA.
 
+> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+En la búsqueda por disminuir la incidencia de transmisión del VIH entre la población se aplicarán las pruebas rápidas.
+
+> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+La prueba debe realizarse previa consejería y atendiendo la Norma Oficial Mexicana al respecto. En su aplicación debe atenderse de manera prioritaria a las poblaciones más afectadas: hombres que tienen sexo con hombres (HSH), población trans, personas dedicadas al trabajo sexual, personas usuarias de drogas inyectables, personas privadas de la libertad, víctimas de violencia sexual, personas en situación de calle, mujeres embarazadas y parejas serodiscordantes.
+
 ###### Artículo 14.
 
 En materia de promoción de la salud, las acciones deben estar orientadas a:
@@ -195,6 +207,10 @@ VIII. Conocer sus derechos, los servicios y alternativas gubernamentales y no gu
 ###### Artículo 16.
 
 Los servicios de salud públicos están obligados a ofertar la prueba de VIH de manera voluntaria, gratuita y conforme a las disposiciones legales aplicables, a toda mujer embarazada, grupos afectados por el VIH/SIDA y a las poblaciones en situación de vulnerabilidad.
+
+> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+Las pruebas rápidas de detección del VIH se promoverán como parte de la prevención primaria que incluye campañas de la promoción de la salud sexual dirigidas a las poblaciones más afectadas señaladas por esta ley.
 
 ###### Artículo 17.
 
@@ -481,3 +497,11 @@ DÉCIMO.- Para la designación de las personas titulares de las unidades médica
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticuatro días del mes de abril del año dos mil doce.- POR LA MESA DIRECTIVA.- DIP. JULIO CESAR MORENO RIVERA, PRESIDENTE.- DIP. JORGE PALACIOS ARROYO, SECRETARIO.- DIP. ERASTO ENSÁSTIGA SANTIAGO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de junio del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, SALVADOR MARTÍNEZ DELLA ROCCA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 23 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días naturales siguientes de su publicación en la Gaceta Oficial Distrito Federal.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
