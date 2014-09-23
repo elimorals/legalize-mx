@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2013-11-29"
+last_updated: "2014-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PROTECCION Y TRATO DIGNO A LOS SERES SINTIENTES PARA EL ESTADO DE COAHUILA DE ZARAGOZA --ANTES: LEY DE PROTECCION Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA--
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE NOVIEMBRE DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -237,7 +239,7 @@ IV.- La promoción y difusión que genere una cultura cívica de protección, re
 
 V.- Celebrar convenios con la Secretaría de Salud y la Secretaría del Medio Ambiente en el Estado, para llevar a cabo las acciones necesarias para la protección a los animales.
 
-VI.- Establecer y aplicar las medidas correctivas e imponer sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y (sic)
+VI.- Establecer y aplicar las medidas correctivas e imponer sanciones correspondientes por infracciones a la presente ley, sus reglamentos y demás disposiciones en el ámbito de sus respectivas competencias; y
 
 VII.- Integrar, clasificar y mantener actualizado el padrón municipal de animales.
 
@@ -259,7 +261,7 @@ V.- Los establecimientos para la venta de animales;
 
 VI.- Los sitios para cría, cuidado y resguardo de animales como son: Ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues, escuelas de entrenamiento canino o similar;
 
-VII.- Los certificados que se otorguen; y (sic)
+VII.- Los certificados que se otorguen; y
 
 VIII.- Las demás que establezca el reglamento de la presente Ley y;
 
@@ -315,7 +317,17 @@ X.- Entrenar animales con fines ilícitos;
 
 XI.- El uso de animales vivos, como instrumento de entrenamiento en animales de guardia, ataque, o como medio para verificar su agresividad; y
 
-XII.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XII.- La celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XIII.- Los desfiles de animales por las vialidades del Estado, con fines circenses
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XIV.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
 
 Se excepcionan de las prohibiciones en el presente artículo, las corridas de toros, rodeos, carreras de caballos, charrería, novilladas y las peleas y casteo de gallos.
 
@@ -333,7 +345,7 @@ II.- Dar atención médica cuando así lo requiera, además de cumplir con un ca
 
 III.- Identificar a los animales que andan en la calle por medio de un collar con placa o cualquier otro medio de identificación que determine el Reglamento y que contenga los datos para su identificación;
 
-IV.- Informar al área técnica municipal de la muerte de los animales que determine el Reglamento; y (sic)
+IV.- Informar al área técnica municipal de la muerte de los animales que determine el Reglamento; y
 
 V.- Registrar al animal ante el padrón municipal de animales.
 
@@ -433,23 +445,7 @@ Por lo que corresponde a la transportación de animales de ganado para el consum
 
 ###### Artículo 40.
 
-Los circos y demás espectáculos que traigan consigo animales, deberán apegarse a lo siguiente:
-
-I.- Los propietarios o encargados de los circos deberán contar con los permisos de las autoridades competentes para establecer su espectáculo, debiendo acreditar que sus animales reciben la protección y cuidados que marca la presente Ley y las demás normas legales;
-
-II.- Tendrán que presentar los permisos emitidos por las Autoridades correspondientes, para la posesión de fauna exótica y silvestre;
-
-III.- Deberán comprobar que sus animales se encuentran en perfecto estado de salud, o en tratamiento médico en su defecto, debiendo destinarlos a lugares adecuados para ellos, con espacio suficiente para su movilidad, además de tener una alimentación apropiada según la especie de que se trate;
-
-IV.- Se obligarán a demostrar que la vida del animal o su integridad física, no esta en riesgo al realizar su espectáculo;
-
-V.- Deberán evitar que sus animales sean perturbados por las personas, manteniéndolos aislados de éstas, antes de su espectáculo. O en su defecto deben supervisar su exhibición;
-
-VI.- En todos los casos se emplearán medios humanitarios en el trato de los animales;
-
-VII.- Deberán cooperar con las autoridades estatales y municipales para las revisiones, llevadas a cabo por el médico veterinario zootecnista de los centros de control animal de cada municipio; y
-
-VIII.- Se prohíben los desfiles en las vialidades de transito con exhibición de animales.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 41.
 
@@ -671,7 +667,7 @@ VI.- Escuelas de entrenamiento;
 
 VII.- Domicilios particulares, con la autorización de los propietarios o poseedores;
 
-VIII.- Establecimientos para la venta de animales; y (sic)
+VIII.- Establecimientos para la venta de animales; y
 
 IX.- Criaderos.
 
@@ -866,3 +862,9 @@ LA SECRETARIA DE MEDIO AMBIENTE
 EGLANTINA CANALES GUTIÉRREZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado y quienes deban de observar lo dispuesto en el mismo contaran con un plazo de 60 días naturales a partir de la publicación.
