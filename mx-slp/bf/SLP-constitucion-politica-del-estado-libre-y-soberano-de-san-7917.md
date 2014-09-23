@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2014-07-26"
+last_updated: "2014-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2067,7 +2067,7 @@ DE LA JUSTICIA ADMINISTRATIVA
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -2095,7 +2095,9 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO, Y
 
 ###### ARTÍCULO 124.
 
-Se entiende por servidores públicos: Los representantes de elección popular, los miembros del Supremo Tribunal de Justicia y demás Tribunales del Estado, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración estatal o municipal, incluyendo sus entidades; y serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Se entiende por servidores públicos: los representantes de elección popular; los titulares del Supremo Tribunal de Justicia, y demás tribunales del Estado; los titulares de los organismos autónomos reconocidos por esta Constitución; los funcionarios y empleados, y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, incluyendo sus entidades; quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 El Gobernador del Estado, mientras permanezca en el desempeño de su encargo, sólo podrá ser acusado por violaciones graves a la Constitución Política del Estado; por oponerse a la libertad electoral; por la comisión de delitos graves del orden común y por el manejo indebido de fondos y recursos públicos.
 
@@ -2902,6 +2904,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE JULIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
