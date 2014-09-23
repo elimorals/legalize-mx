@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2012-10-16"
+last_updated: "2014-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -33,7 +33,7 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 
 D E C R E T A :
 
-N U M E R O .- 214
+N U M E R O.- 214
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -413,7 +413,7 @@ IX.- Servicio de grúas o remolques, el servicio que tiene por finalidad transpo
 
 X.- Servicio de carga especializada, aquel que se presta en vehículos que, por las características o condiciones de la carga que transportan, deben contar con el equipo adicional que a juicio de la Secretaría se requiera para garantizar la seguridad de las personas y sus bienes, no estando sujeto a itinerario, horario ni tarifa.
 
-Quedan incluidos en este servicio el transporte de materiales a granel, explosivos, materiales inflamables, productos químicos, elementos radioactivos y otros de semejante naturaleza; y (sic)
+Quedan incluidos en este servicio el transporte de materiales a granel, explosivos, materiales inflamables, productos químicos, elementos radioactivos y otros de semejante naturaleza; y
 
 XI.- Servicio de transporte mixto, el que se presta para transportar personas o pequeña carga en el mismo vehículo, el cual debe acondicionarse con compartimiento para los pasajeros, para el equipaje y la carga; este servicio deberá tener itinerario y horario determinado, pero tarifa únicamente para el transporte de pasajeros.
 
@@ -541,9 +541,35 @@ III.- La clase de servicio que desee prestar y la localidad donde pretenda hacer
 
 IV.- Especificación del equipo de transporte con el que pretende prestar el servicio;
 
-V.- Lugar, fecha y firma del solicitante o de su representante legalmente acreditado;
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
-VI.- Los demás que, a juicio de la Secretaría y de los Ayuntamientos, se estimen necesarios.
+V.- La factura y fotografía del vehículo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+VI.- En los casos que sea persona moral, constancia de inscripción como patrón ante el Instituto Mexicano del Seguro Social, poder general del representante y su identificación oficial con fotografía;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+VII.- El documento que acredite el importe pagado de tenencias y derechos de control vehicular;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+VIII.- Documento que acredite la verificación ecológica;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+IX.- El nombre y fotografía del o los conductores del vehículo;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+X.- El tipo de seguridad social al que estarán inscritos los operadores del servicio de transporte;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XI.- Lugar, fecha y firma del solicitante o de su representante legalmente acreditado; y
+
+XII.- Los demás que, a juicio de la Secretaría y de los Ayuntamientos, se estimen necesarios.
 
 Las personas físicas deberán acompañar a la solicitud copias del acta de nacimiento y, en su caso, de matrimonio; tratándose de personas morales deberán acompañar copia certificada de los instrumentos de constitución, modificación y estatutos; en ambos casos, copias del régimen fiscal a que esté sujeto el peticionario debiendo acompañar sus comprobantes.
 
@@ -583,7 +609,7 @@ c).- Fecha de iniciación de servicios;
 
 d).- Plazo de presentación de las propuestas;
 
-e).- Fecha, hora y lugar de celebración del acto de apertura de proposiciones; y (sic)
+e).- Fecha, hora y lugar de celebración del acto de apertura de proposiciones; y
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
@@ -659,7 +685,7 @@ El monto de la caución será fijado por las autoridades competentes de conformi
 
 ###### ARTICULO 66.
 
-Los concesionarios del transporte público de pasajeros deberán, dentro del plazo a que se refiere el artículo anterior, contratar seguros de viajero con compañía autorizadas (sic) legalmente para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios o permisionarios, conforme a lo establecido por esta ley, su reglamento y demás disposiciones aplicables.
+Los concesionarios del transporte público de pasajeros deberán, dentro del plazo a que se refiere el artículo anterior, contratar seguros de viajero con compañía autorizadas legalmente para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios o permisionarios, conforme a lo establecido por esta ley, su reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
@@ -876,6 +902,28 @@ XIII.- Proporcionar a la autoridad que corresponda la información técnica que 
 XIV.- Observar las condiciones y características que para la operación de terminales señalen las autoridades en la esfera de su competencia; y
 
 XV.- Las demás que les señale esta Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+###### ARTICULO 82 Bis.
+
+Las y los concesionarios o permisionarios deberán remitir anualmente al Registro una relación de las y los conductores a su cargo, la que deberá contener los siguientes datos:
+
+I.- Nombre completo y domicilio;
+
+II.- Lugar y fecha de nacimiento;
+
+III.- Registro federal de contribuyentes;
+
+IV.- Número de registro del Instituto Mexicano del Seguro Social;
+
+V.- Número de licencia del servicio público;
+
+VI.- Antigüedad como conductor;
+
+VII.- La última declaración del impuesto sobre nómina de cada uno de los conductores, en su caso.
+
+Asimismo, están obligados a informar al Registro del personal que haya causado alta o baja, señalando el motivo de la última, en un término que no exceda a 15 días hábiles a partir de la fecha del movimiento respectivo.
 
 ###### ARTICULO 83.
 
@@ -1325,7 +1373,7 @@ VI.- Llevar a cabo bloques, paros y, en general, cualquier acto que obstruya o a
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Las agresiones físicas y verbales y cualquier otro acto que atente con la integridad de los usuarios y de las autoridades del transporte público, y (sic)
+VII.- Las agresiones físicas y verbales y cualquier otro acto que atente con la integridad de los usuarios y de las autoridades del transporte público, y
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1339,21 +1387,31 @@ IX.- Ejecutar servicios distintos a los autorizados en los permisos de transport
 
 X.- Conducir un vehículo de servicio público de transporte sin la licencia respectiva, permiso de circulación provisional y/o tarjeta de circulación; o bien, que éstos muestren un grado de deterioro tal, que los haga ilegibles;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
-XI.- Circular en condiciones mecánicas que constituyan un peligro tanto para las personas como para la vía pública; y
+XI.- Circular en condiciones mecánicas que constituyan un peligro tanto para las personas como para la vía pública;
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 XII.- Impedir el acceso sin costo al servicio público de transporte a los servidores públicos descritos en el artículo 102 de la presente Ley.
 
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XIII.- No remitir al Registro la relación o información en los términos del artículo 82 Bis de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+XIV.- Cuando sin causa justificada, la relación o información entregada al Registro por los concesionarios o permisionarios, en los términos del artículo 82 Bis de ésta Ley, no corresponda con lo derivado de las inspecciones.
+
 ###### ARTICULO 127.
 
 El infractor, en el supuesto a que se refiere la fracción I del artículo que antecede, perderá en beneficio del Estado las obras ejecutadas y los bienes afectos a la prestación del servicio, y además se le impondrá una multa de hasta 250 veces el salario mínimo diario vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 128.
 
-En los casos a que se refieren las fracciones II y III del artículo 126 de esta Ley, se aplicará multa de entre 150 y 300 veces el salario mínimo diario vigente en la entidad y se impedirá que se continúe prestando el servicio.
+En los casos a que se refieren las fracciones II, III y XIII del artículo 126 de esta Ley, se aplicará multa de entre 150 y 300 veces el salario mínimo diario vigente en la entidad y se impedirá que se continúe prestando el servicio.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1361,7 +1419,9 @@ En los casos a que se refieren las fracciones II y III del artículo 126 de esta
 
 Los supuestos previstos en las fracciones IV, V, VI y VII del artículo 126 de esta Ley, se sancionarán con multas de hasta 300 veces el salario mínimo diario vigente en el Estado, independiente de las sanciones que correspondan conforme a la legislación penal.
 
-En el caso de la fracción V y VI además de la multa a que se refiere el párrafo anterior, se procederá a la cancelación definitiva de la concesión o permiso correspondiente.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
+
+En el caso de las fracciones V, VI y XIV además de la multa a que se refiere el párrafo anterior, se procederá a la cancelación definitiva de la concesión o permiso correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
@@ -1558,3 +1618,13 @@ P.O. 16 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
