@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-seguridad-publica-24765
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-10"
-last_updated: "2002-04-10"
+last_updated: "2014-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de abril de 2002.
 
@@ -856,3 +858,23 @@ QUINTO.- El SECRETARIO DE SEGURIDAD PUBLICA PODRA ORDENAR UNO O VARIOS ASUNTOS E
 DADO EN LA RESIDENCIA DEL POOER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTlERREZ, CHIAPAS; A LOS VEINTE DlAS DEL MES DE FEBRERO DELAÑO DOS MIL DOS.
 
 PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO DE CHIAPAS.- EMILIO ZEBADUA GONZALEZ, SECRETARIO DE GOBIERNO. - MAURICIO GANDARA GALLARDO, SECRETARIO DE SEGURIDAD PUBLICA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial número 102, Tomo II, Publicación No. 596-A-2002, de fecha 10 de abril del año 2002, así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, contados a partir de la Publicación del presente Reglamento.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por efecto de la aplicación de este ordenamiento.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para los integrantes, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca el Sistema Estatal de Protección Civil.
+
+Artículo Octavo.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
