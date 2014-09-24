@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-del-agua-del-estado-de-67978
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-20"
-last_updated: "2009-02-20"
+last_updated: "2014-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISION DEL AGUA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 20 de febrero de 2009.
 
@@ -33,7 +33,7 @@ EL CONSEJO DE ADMINISTRACIÓN DE LA COMISIÓN DEL AGUA DEL ESTADO DE VERACRUZ:
 
 En uso de las atribuciones que le otorgan los artículos 3, 5, 38, 40, 44, 45 fracción VI y 46 de la Ley Orgánica del Poder Ejecutivo y los artículos 15, 17, 19 fracción XII y 21 fracción XII de la Ley Número 21 de Aguas del Estado de Veracruz- Llave; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O ...
 
 Por lo que, ha tenido a bien expedir el siguiente:
 
@@ -337,7 +337,9 @@ XV. Implantar y vigilar el control del archivo documental de los expedientes de 
 
 XVI. Implementar, vigilar que la ejecución de estudios, proyectos y obra pública se realice de acuerdo a las leyes, reglamentos, normas y especificaciones establecidas en las bases de concurso y convenidas en el contrato;
 
-XVII. Revisar, autorizar y tramitar la documentación de pagos de los trabajos ejecutados de estudios, proyectos y obras públicas contratadas;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. Elaborar, revisar, autorizar y tramitar las estimaciones ordinarias y extraordinarias, finiquitos conciliados y unilaterales, en general cualquier documentación de pagos de los trabajos ejecutados de estudios, proyectos y obras públicas contratadas, federales y o (sic) estatales;
 
 XVIII. Formular y mantener actualizado el catálogo de aranceles aplicables para el cobro de los servicios técnicos, profesionales, de equipos y maquinaria proporcionados por la Comisión;
 
@@ -539,7 +541,7 @@ XXXVIII. Realizar el cobro de los estudios de factibilidades para el derecho de 
 
 XXXIX. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Director.
 
-La Subdirección de (sic) Administrativa para el desarrollo de sus funciones, contará con las siguientes Unidades Administrativas: Departamento de Administración, Departamento de Finanzas, Departamento Comercial, Oficina de Tecnologías de la Información y cada uno de los departamentos con las oficinas y secciones que señale el Organigrama y Presupuesto autorizado por el Consejo.
+La Subdirección de Administrativa para el desarrollo de sus funciones, contará con las siguientes Unidades Administrativas: Departamento de Administración, Departamento de Finanzas, Departamento Comercial, Oficina de Tecnologías de la Información y cada uno de los departamentos con las oficinas y secciones que señale el Organigrama y Presupuesto autorizado por el Consejo.
 
 ###### Artículo 30.
 
@@ -994,3 +996,9 @@ EL DIRECTOR GENERAL
 LIC. ANTONIO BENITEZ LUCHO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 24 DE SEPTIEMBRE DE 2014.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 2° DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
