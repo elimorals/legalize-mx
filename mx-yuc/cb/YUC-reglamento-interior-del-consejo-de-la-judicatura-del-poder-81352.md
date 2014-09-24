@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-consejo-de-la-judicatura-del-poder-8135
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-18"
-last_updated: "2011-05-18"
+last_updated: "2014-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
+REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 18 de mayo de 2011.
 
@@ -527,7 +527,9 @@ e) Las demás que mediante acuerdos generales determine con ese carácter el Ple
 
 II. Especiales:
 
-a) Comisión Especial del Tribunal de Justicia Electoral y Administrativa y
+> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
+a) Comisión Especial del Tribunal de Justicia Fiscal y Administrativa y
 
 b) Comisión Especial del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
@@ -893,9 +895,11 @@ X. Las demás que le sean encomendadas por el Pleno del Consejo dentro de su ám
 
 Competencia e Integración de la Comisión Especial del Tribunal de Justicia Electoral y Administrativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 67.
 
-De acuerdo a lo dispuesto en el artículo 71 de la Ley Orgánica, la Comisión Especial del Tribunal de Justicia Electoral y Administrativa conocerá de la administración, vigilancia y disciplina de dicho Tribunal.
+De acuerdo a lo dispuesto en el artículo 71 de la Ley Orgánica, la Comisión Especial del Tribunal de Justicia Fiscal y Administrativa conocerá de la administración, vigilancia y disciplina de dicho Tribunal.
 
 Esta Comisión se integrará por el Presidente de dicho Tribunal y dos miembros del Consejo de la Judicatura.
 
@@ -909,9 +913,11 @@ Esta Comisión se integrará por el Presidente de dicho Tribunal, quien la presi
 
 Funcionamiento de las Comisiones
 
+> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 69.
 
-El funcionamiento de las Comisiones Especiales se regirá de conformidad con los lineamientos que al efecto emitan los Plenos del Tribunal de Justicia Electoral y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, respectivamente.
+El funcionamiento de las Comisiones Especiales se regirá de conformidad con los lineamientos que al efecto emitan los Plenos del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, respectivamente.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
@@ -2405,9 +2411,11 @@ V. Las demás expresamente determinadas en la Ley Orgánica y en los acuerdos ge
 
 Del Trámite de la Queja
 
+> <small>(REFORMADO, D.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 177.
 
-La Contraloría del Consejo, coordinará la recepción y registro de todas las quejas y los escritos que pudieran dar origen a la apertura del procedimiento administrativo de responsabilidad, en los casos en que se trate de actos u omisiones imputables a los servidores públicos del Poder Judicial, con excepción del personal del Tribunal, del personal del Tribunal de Justicia Electoral y Administrativa y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
+La Contraloría del Consejo, coordinará la recepción y registro de todas las quejas y los escritos que pudieran dar origen a la apertura del procedimiento administrativo de responsabilidad, en los casos en que se trate de actos u omisiones imputables a los servidores públicos del Poder Judicial, con excepción del personal del Tribunal Superior de Justicia del Estado, del personal del Tribunal de Justicia Fiscal y Administrativa y del personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, todos del Estado de Yucatán.
 
 Del Contenido de la Queja
 
@@ -2540,3 +2548,19 @@ ASÍ LO APROBÓ EL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL EST
 DR. MARCOS ALEJANDRO CELIS QUINTAL
 
 PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 24 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO
+
+El presente acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO
+
+Con fundamento en el artículo 115 fracción XXIII de la Ley Orgánica del Poder Judicial del Estado de Yucatán, el Secretario Ejecutivo será el encargado de realizar las gestiones para la publicación del presente Acuerdo General en el Diario Oficial del Gobierno del Estado de Yucatán y en la página electrónica del Poder Judicial del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO
+
+Se derogan las disposiciones de igual o menor rango que contravengan lo dispuesto en este Acuerdo.
