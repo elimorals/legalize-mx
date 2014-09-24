@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2014-06-21"
+last_updated: "2014-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -291,7 +291,7 @@ III.- Asistir con voz y voto a las sesiones del pleno del Congreso, así como a 
 
 IV.- Gestionar ante las autoridades la atención de los asuntos que les planteen sus representados;
 
-V.- Formular preguntas por escrito al Secretario de Gobierno, Procurador General de Justicia o a cualquiera de los Directores Generales de la Administración Pública Estatal, y (sic)
+V.- Formular preguntas por escrito al Secretario de Gobierno, Procurador General de Justicia o a cualquiera de los Directores Generales de la Administración Pública Estatal, y
 
 VI.- Representar al Congreso en los foros, audiencias públicas y reuniones nacionales o internacionales para los que sean designados por el Pleno, el Presidente del Congreso o de la Diputación Permanente en su caso;
 
@@ -321,7 +321,7 @@ VI.- Elaborar un informe anual sobre las actividades desempeñadas relativas a s
 
 El informe deberá ser rendido en el período comprendido del 1o. al 31 de octubre del año legislativo siguiente a aquel que se informa. El informe respecto del último año de ejercicio legislativo se rendirá en el período comprendido del 1o. al 30 de septiembre del año en que concluye la Legislatura;
 
-VII.- Acatar las disposiciones del Pleno y de la Mesa Directiva del Congreso, y (sic)
+VII.- Acatar las disposiciones del Pleno y de la Mesa Directiva del Congreso, y
 
 VIII.- Presentar su declaración de situación patrimonial en los términos de la presente ley y demás disposiciones previstas en otros ordenamientos;
 
@@ -627,7 +627,7 @@ IX.- Designar, a más tardar el día último de diciembre, al auditor externo qu
 
 > <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2001)</small>
 
-X.- Conocer el resultado de la auditoría externa anual que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes; y (sic),
+X.- Conocer el resultado de la auditoría externa anual que sobre el ejercicio del Presupuesto del Congreso le presente el Comité de Administración, y formular las observaciones que respecto de aquél estime pertinentes; y,
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2007)</small>
 
@@ -907,9 +907,11 @@ XIX. De Salud;
 
 XX. ón (sic) de Economía, Turismo y Servicios;
 
-XXI. De Juventud y Deporte, y (sic)
+XXI. De Juventud y Deporte, y
 
-XXII. De Equidad, Género y Familia.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
+XXII. De Igualdad, Género y Familia;
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
@@ -1085,9 +1087,11 @@ VIII.- Presentar ante la Junta de Coordinación Parlamentaria, un dictamen respe
 
 IX.- Ejercer la (sic) demás que esta ley y otras disposiciones legales le asignen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Art. 71.
 
-Corresponde al Comité de Biblioteca y Asuntos Editoriales:
+Corresponde al Comité de Biblioteca, Asuntos Editoriales e Informática:
 
 I.- Promover la formación de un acervo bibliográfico del Congreso;
 
@@ -1097,7 +1101,9 @@ III.- Celebrar convenios interbibliotecarios con instituciones especializadas;
 
 IV.- Dirigir y publicar el órgano informativo del Congreso, así como cuidar de su circulación, y
 
-V.- Promover la edición de publicaciones que se consideren de interés para el desarrollo cultural del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
+V.- Promover la edición de publicaciones que se consideren de interés para el desarrollo cultural del Estado, para lo cual podrá contar con un consejo editorial de carácter honorario sin remuneración alguna, con el objeto de evaluar y vigilar la calidad de los textos considerados para su publicación. El funcionamiento del consejo editorial estará sujeto a lo que acuerde el Comité.
 
 > <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1998)</small>
 
@@ -1155,7 +1161,7 @@ X.- Designado por la Junta de Coordinación Parlamentaria, el auditor externo qu
 
 XI.- Proporcionar toda información que le solicite el auditor a que se refiere la fracción anterior, así como la documentación comprobatoria y justificatoria del ingreso y gasto públicos del Congreso;
 
-XII.- Recibir y presentar al Comité de Administración, sin modificación alguna, el resultado de la auditoría que se practique a la Cuenta Pública Anual de la Legislatura; y (sic)
+XII.- Recibir y presentar al Comité de Administración, sin modificación alguna, el resultado de la auditoría que se practique a la Cuenta Pública Anual de la Legislatura; y
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2013)</small>
 
@@ -1267,7 +1273,11 @@ IX.- Nombrar y remover al personal de la Secretaría de Servicios Parlamentarios
 
 X.- Realizar el análisis y verificación de la viabilidad social y económica de los proyectos legislativos; y
 
-XI.- Las demás que le confieran otras disposiciones legales.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
+XI.- El ejercicio de las atribuciones que le confiere la Ley de Imagen Institucional del Poder Legislativo del Estado de Chihuahua, en la materia.
+
+XII.- Las demás que le confieran otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)</small>
 
@@ -2410,3 +2420,27 @@ P.O. 21 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2014.
+
+DECRETO NÚMERO 561/2014 V P.E. POR EL QUE SE REFORMA LA FRACCIÓN XI, PASANDO SU CONTENIDO ACTUAL A UNA NUEVA FRACCIÓN XII, DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día en que lo haga el Decreto No. 560/2014 V P.E., por el que se expide la Ley de Imagen Institucional del Poder Legislativo del Estado de Chihuahua.
+
+P.O. 24 DE SEPTIEMBRE DE 2014.
+
+DECRETO NÚMERO 564/2014 V P.E. POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2014.
+
+DECRETO NÚMERO 565/2014 V P.E. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTICULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
