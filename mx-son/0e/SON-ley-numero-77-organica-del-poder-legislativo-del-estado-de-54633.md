@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2013-11-04"
+last_updated: "2014-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -461,9 +461,13 @@ La Mesa Directiva se integrará con un Presidente, un Vicepresidente, dos Secret
 
 La Mesa Directiva será electa por mayoría del pleno del Congreso del Estado; tendrá una duración de acuerdo al mes correspondiente para el que fuera designada; y se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
 
+> <small>(REFORMADO, B.O. 24 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 58.
 
-En la última sesión de cada mes de ejercicio, el pleno del Congreso del Estado elegirá para el siguiente mes a su Mesa Directiva, cuyos miembros asumirán sus cargos en el primer día del mes correspondiente. Cuando se trate del inicio de los periodos ordinarios, la elección se hará en el primer día hábil del periodo de que se trate.
+La Mesa Directiva será electa por mayoría por el Pleno del Congreso del Estado mediante acuerdo del propio Pleno determinando la integración de la Mesa Directiva para varios meses, al inicio del periodo ordinario de sesiones. En este último caso, cualquier modificación al orden de asignación de la Presidencia acordado, requerirá del voto de las dos terceras partes de los diputados presentes en la sesión en que se resuelva la propuesta respectiva.
+
+Los diputados electos para integrar la Mesa Directiva asumirán sus cargos en el primer día del mes correspondiente sin necesidad de declaratoria alguna. La integración de la Mesa Directiva del mes de septiembre, los diputados que hayan sido electos asumirán sus cargos el día 16 de dicho mes. Si algún grupo parlamentario decide modificar la asignación de alguno de sus miembros en la integración de la Mesa Directiva aprobada por el Pleno, bastará que lo informe por escrito, previamente al inicio del ejercicio de sus funciones y se dé cuenta con el mismo en sesión del Pleno sin que tal derecho pueda modificar la asignación realizada por los otros grupos parlamentarios.
 
 ###### ARTÍCULO 59.
 
@@ -1862,3 +1866,63 @@ B.O. 4 DE NOVIEMBRE DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Sonora, por única ocasión, resuelve que la integración de las Mesas Directivas que ejercerán funciones durante el primer periodo de sesiones correspondiente al tercer año de ejercicio constitucional de la LX Legislatura, bajo la siguiente integración:
+
+I.- Septiembre de 2014:
+
+PRESIDENTE: Diputado Luis Alfredo Carrazco Agramón
+
+VICEPRESIDENTE: Diputado del Grupo Parlamentario del Partido Acción Nacional.
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Verde Ecologista de México
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Nueva Alianza
+
+SUPLENTE: Diputado del Partido de la Revolución Democrática
+
+II.- Octubre de 2014:
+
+PRESIDENTE: Diputado José Lorenzo Villegas Vázquez
+
+VICEPRESIDENTE: Diputado del Grupo Parlamentario del Partido Revolucionario Institucional.
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Acción Nacional
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Verde Ecologista de México
+
+SUPLENTE: Diputado del Partido de la Revolución Democrática
+
+III.- Noviembre de 2014:
+
+PRESIDENTE: Diputado Luis Alejandro García Rosas
+
+VICEPRESIDENTE: Diputado del Grupo Parlamentario del Partido Acción Nacional
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Verde Ecologista de México
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Nueva Alianza
+
+SUPLENTE: Diputado del Partido de la Revolución Democrática
+
+IV.- Diciembre de 2014:
+
+PRESIDENTE: Diputado Juan Manuel Armenta Montaño
+
+VICEPRESIDENTE: Diputado del Grupo Parlamentario del Partido Revolucionario Institucional
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Nueva Alianza
+
+SECRETARIO: Diputado del Grupo Parlamentario del Partido Verde Ecologista de México
+
+SUPLENTE: Diputado del Partido de la Revolución Democrática
+
+Para los efectos del presente artículo, los Coordinadores de los Grupos Parlamentarios y los diputados del Partido de la Revolución Democrática, informarán a la Comisión de Régimen Interno y Concertación Política, con la debida anticipación, los nombres de los diputados que integrarán cada una de las mesas directivas señaladas en este artículo.
