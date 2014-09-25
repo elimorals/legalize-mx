@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-al-valor-agregado-52343"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-04"
-last_updated: "2006-12-04"
+last_updated: "2014-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52343&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-30"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de diciembre de 2006.
 
@@ -41,13 +41,17 @@ I. Ley: La Ley del Impuesto al Valor Agregado;
 
 II. Impuesto: El impuesto al valor agregado;
 
-III. Actos o actividades por los que se deba pagar el impuesto: Aquéllos a los que se les apliquen las tasas del 15%, 10% y 0% a las que se refiere la Ley, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Disposiciones que establece la Ley en materia de acreditamiento: Los artículos 4o., 5o., 5o.-A, 5o.-B, 5o.-C y 5o.-D de la Ley.
+III. Actos o Actividades por los que se deba pagar el Impuesto: Aquéllos a los que se les apliquen las tasas del 16% y 0% a las que se refiere la Ley, y
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Disposiciones que establece la Ley en materia de acreditamiento: Los artículos 4o., 5o., 5o.-A, 5o.-B, 5o.-C, 5o.-D, 5o.-E y 5o.-F de la Ley.
 
 ###### Artículo 2.
 
-Para los efectos del artículo 1o.-A, fracción II, inciso b) de la Ley, la retención del impuesto por la enajenación de desperdicios adquiridos por personas morales para ser utilizados como insumos en actividades industriales o para su comercialización, se deberá efectuar independientemente de la forma en que se presenten los desperdicios, ya sea en pacas, placas o cualquier otra forma o que se trate de productos que conlleven un proceso de selección, limpieza, compactación, trituración o cualquier tratamiento que permita su reutilización o reciclaje.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 3.
 
@@ -71,11 +75,7 @@ Para los efectos del artículo 1o.-A, último párrafo de la Ley, la Federación
 
 ###### Artículo 5.
 
-Para los efectos del artículo 2o. de la Ley, se consideran residentes en la región fronteriza:
-
-I. Los contribuyentes con uno o varios locales o establecimientos en dicha región, por las actividades que realicen en dichos lugares, y
-
-II. Los comitentes y las demás personas que realicen las actividades gravadas por la Ley en la región fronteriza, por conducto de comisionistas o personas que actúen por cuenta de terceros con uno o varios locales o con establecimientos en dicha región, por las actividades que realicen en dichos lugares.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 6.
 
@@ -99,9 +99,29 @@ Asimismo, para los efectos del artículo 25, fracción III de la Ley, tratándos
 
 Para los efectos del artículo 2o.-A, fracción I, inciso e) de la Ley, se aplicará la tasa del 0% a la enajenación de la maquinaria y del equipo que tengan una denominación distinta a la mencionada en el citado precepto, siempre que su función cumpla exclusivamente con los supuestos previstos en dicho artículo, conserven su carácter esencial y no puedan ser destinados a otros fines.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 10.
 
-Para los efectos de los artículos 2o.-A, fracción I, inciso h) y 25, fracción VII de la Ley, se considera que el 80% de oro, incluye a los materiales con los que se procesa la conformación de ese metal.
+Para efectos de los artículos 2o.-A, fracción I, inciso h) y 25, fracción VII de la Ley, se considera que el 80% de oro, incluye a los materiales con los que se procesa la conformación de ese metal, siempre y cuando dichos bienes tengan una calidad mínima de 10 quilates.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 10-A.
+
+Para efectos del artículo 2o.-A, fracción I, último párrafo de la Ley, se considera que no son alimentos preparados para su consumo en el lugar o establecimiento en que se enajenen, los siguientes:
+
+I. Alimentos envasados al vacío o congelados;
+
+II. Alimentos que requieran ser sometidos a un proceso de cocción o fritura para su consumo, por parte del adquirente, con posterioridad a su adquisición;
+
+III. Preparaciones compuestas de carne o despojos, incluidos tripas y estómagos, cortados en trocitos o picados, o de sangre, introducidos en tripas, estómagos, vejigas, piel o envolturas similares, naturales o artificiales, así como productos cárnicos crudos sujetos a procesos de curación y maduración;
+
+IV. Tortillas de maíz o de trigo, y
+
+V. Productos de panificación elaborados en panaderías resultado de un proceso de horneado, cocción o fritura, inclusive pasteles y galletas, aun cuando estos últimos productos no sean elaborados en una panadería.
+
+No será aplicable lo previsto en el presente artículo, cuando la enajenación de los bienes mencionados en las fracciones anteriores, se realice en restaurantes, fondas, cafeterías y demás establecimientos similares, por lo que en estos casos la tasa aplicable será la del 16% a que se refiere el artículo 2o.-A, fracción I, último párrafo de la Ley.
 
 ###### Artículo 11.
 
@@ -155,9 +175,13 @@ I. Que los gastos de conservación y mantenimiento sean realizados en nombre y r
 
 II. Que el pago de las cuotas de conservación y mantenimiento las realicen los condóminos mediante depósito en la cuenta bancaria que haya constituido la asamblea general de condóminos para tal efecto;
 
-III. Que los comprobantes que amparen los gastos comunes de conservación y mantenimiento estén a nombre de la asamblea general de condóminos o del administrador;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
-IV. Que el administrador recabe los comprobantes relativos a los gastos comunes que reúnan los requisitos que establece el artículo 29-A del Código Fiscal de la Federación y entregue a cada condómino una constancia por periodos mensuales en la que se especifique:
+III. Que los comprobantes fiscales que amparen los gastos comunes de conservación y mantenimiento se expidan a nombre de la asamblea general de condóminos o del administrador;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Que el administrador recabe los comprobantes fiscales relativos a los gastos comunes y entregue a cada condómino una constancia por periodos mensuales en la que se especifique:
 
 a) Los números correspondientes a los comprobantes mencionados y el concepto que ampara cada comprobante, el monto total de dichos comprobantes y el impuesto respectivo, y
 
@@ -165,7 +189,9 @@ b) La parte proporcional que corresponde al condómino, tanto del gasto total co
 
 Igualmente, el administrador deberá entregar a cada condómino una copia de los comprobantes.
 
-V. En el caso de que el administrador reciba contraprestaciones por sus servicios de administración deberá expedir un comprobante que reúna los requisitos previstos en el artículo 29-A del Código Fiscal de la Federación, que deberá expedir a nombre de la asamblea general de condóminos, el cual servirá de base para elaborar las constancias en los términos establecidos en la fracción IV de este artículo, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+V. En el caso de que el administrador reciba contraprestaciones por sus servicios de administración deberá expedir un comprobante fiscal a nombre de la asamblea general de condóminos, el cual servirá de base para elaborar las constancias en los términos establecidos en la fracción IV de este artículo, y
 
 VI. La documentación y registros contables deberán conservarse por la asamblea de condóminos o, en su defecto, por los condóminos que opten por el acreditamiento de los gastos comunes en los términos del presente artículo.
 
@@ -177,27 +203,43 @@ Para los efectos de las disposiciones que establece la Ley en materia de acredit
 
 ###### Artículo 22.
 
-Para los efectos del artículo 5o., fracción II de la Ley, cuando la enajenación de inmuebles se haga constar en escritura pública, en ella se señalará el valor del suelo, el de las construcciones por las que se esté obligado al pago del impuesto y, en su caso, el de aquéllas por las que no se esté obligado a dicho pago. Asimismo, deberá señalarse el monto del impuesto trasladado expresamente y por separado del valor del bien.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
-Tratándose de adjudicación administrativa, judicial o fiduciaria, en la escritura que consigne la adjudicación deberán señalarse los valores a que se refiere el párrafo anterior, en la proporción que el avalúo les atribuya.
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 22-A.
+
+Para efectos de los artículos 5o., fracción V, incisos c) y d), numeral 3 y 5o.-A de la Ley, los contribuyentes que hayan aplicado lo dispuesto en dichos artículos, podrán optar por el tratamiento previsto en el artículo 5o.-B de la Ley, en cuyo caso deberán presentar las declaraciones complementarias correspondientes y pagar, en su caso, las diferencias del Impuesto a su cargo, así como las actualizaciones y recargos que resulten de aplicar el tratamiento establecido en el mencionado artículo 5o.-B.
+
+Las declaraciones complementarias que se presenten como consecuencia del ejercicio de la opción a que se refiere este artículo, no se computarán dentro del límite de declaraciones establecido en el artículo 32, primer párrafo del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 22-B.
+
+Para efectos de lo dispuesto por los artículos 5o., fracción IV y 5o.-E de la Ley, el Impuesto trasladado a los contribuyentes y que hubiesen retenido conforme al artículo 1o.-A de la Ley, podrá ser acreditado en la declaración de pago bimestral siguiente a la declaración en la que se haya efectuado el entero de la retención, siempre y cuando se cumplan los requisitos que establece la Ley para la procedencia del acreditamiento.
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
 
-Para los efectos del artículo 6o. de la Ley, cuando se presenten declaraciones complementarias substituyendo los datos de la original, en virtud de las cuales resulten saldos a favor o se incrementen los que habían sido declarados, el contribuyente podrá optar por solicitar su devolución, llevar a cabo su compensación conforme a lo dispuesto en dicho artículo o por continuar el acreditamiento en la siguiente declaración de pago al día en que se presente la declaración complementaria.
+Para efectos del artículo 6o. de la Ley, cuando se presenten declaraciones complementarias, en virtud de las cuales resulten saldos a favor o se incrementen los que habían sido declarados, el contribuyente podrá optar por solicitar su devolución, llevar a cabo su compensación conforme a lo dispuesto en dicho artículo o continuar el acreditamiento en la siguiente declaración de pago al día en que se presente la declaración complementaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-Para los efectos del artículo 7o., primer párrafo de la Ley, los contribuyentes que reciban la devolución de bienes enajenados u otorguen descuentos o bonificaciones, o devuelvan los anticipos o depósitos recibidos con motivo de la realización de actividades gravadas por la Ley, sólo podrán deducir el monto de dichos conceptos hasta por el valor de las actividades por las que se deba pagar el impuesto. En el caso de resultar remanentes se deducirán en las siguientes declaraciones de pagos mensuales hasta agotarlos. Sólo se podrá efectuar la deducción a que se refiere este párrafo hasta que la contraprestación, anticipo o depósito correspondiente, se haya restituido efectivamente al adquirente, o bien, cuando la obligación de hacerlo se extinga.
+Para efectos del artículo 7o., primer párrafo de la Ley, los contribuyentes que reciban la devolución de bienes enajenados, otorguen descuentos o bonificaciones, o devuelvan los anticipos o depósitos recibidos con motivo de la realización de actividades gravadas por la Ley, sólo podrán deducir el monto de dichos conceptos hasta por el valor de las actividades por las que se deba pagar el Impuesto. En el caso de resultar remanentes se deducirán en las siguientes declaraciones de pagos mensuales hasta agotarlos. Sólo se podrá efectuar la deducción a que se refiere este párrafo hasta que la contraprestación, anticipo o depósito correspondiente, se haya restituido efectivamente al adquirente y se haga constar en los términos establecidos en el segundo párrafo del referido artículo 7o., o bien, cuando la obligación de hacerlo se extinga.
 
 Tratándose de descuentos y bonificaciones, la deducción procederá cuando aquéllos efectivamente se apliquen.
 
 ### Capítulo II. De la enajenación
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 25.
 
-Para los efectos del artículo 8o., primer párrafo de la Ley, no se consideran faltantes de bienes en los inventarios de las empresas, aquéllos que se originen por caso fortuito o fuerza mayor, las mermas ni la destrucción autorizada de mercancías, cuando sean deducibles para los efectos de la Ley del Impuesto sobre la Renta.
-
-Tratándose de faltantes de inventarios se considera realizada la enajenación en el mes en que se levantó el inventario, debiéndose pagar el impuesto en la declaración correspondiente a dicho mes.
+Para efectos del artículo 8o., primer párrafo de la Ley, no se consideran faltantes de bienes en los inventarios de las empresas, aquéllos que se originen por caso fortuito o fuerza mayor, así como las mermas y la destrucción de mercancías, cuando sean deducibles para los efectos de la Ley del Impuesto sobre la Renta.
 
 ###### Artículo 26.
 
@@ -271,13 +313,27 @@ Para los efectos del artículo 15, fracción X, inciso b), primer párrafo de la
 
 También quedan comprendidas en las operaciones de financiamiento de carácter activo, los créditos otorgados por los fondos o fideicomisos que únicamente operen con recursos proporcionados por las personas señaladas en el párrafo anterior o por ellas conjuntamente con los gobiernos de las Entidades Federativas.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 39.
 
-Para los efectos del artículo 15, fracción X, inciso b), segundo párrafo de la Ley, se consideran bienes de inversión, aquéllos que integran el activo fijo en los términos del segundo párrafo del artículo 38 de la Ley del Impuesto sobre la Renta.
+Para efectos del artículo 15, fracción X, inciso b), segundo párrafo de la Ley, se consideran bienes de inversión, aquéllos que integran el activo fijo en los términos del segundo párrafo del artículo 32 de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 39-A.
+
+Para efectos del artículo 15, fracción X, inciso d) de la Ley, se entenderán comprendidos los servicios por los que deriven intereses que provengan de créditos hipotecarios para el pago de pasivos contraídos para la adquisición, la ampliación, la construcción o la reparación de bienes inmuebles destinados a casa habitación.
 
 ###### Artículo 40.
 
 Para los efectos del artículo 15, fracción X, inciso i) de la Ley, se consideran colocados entre el gran público inversionista, los títulos de crédito que conforme a la Ley del Impuesto sobre la Renta sean considerados como tales.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 40-A.
+
+Para efectos del artículo 15, fracción XII, inciso c) de la Ley, se considera que quedan comprendidas en el supuesto que dicha disposición prevé, las asociaciones civiles que de conformidad con sus estatutos tengan el mismo objeto social que las cámaras de comercio e industria, en los términos de la Ley de Cámaras Empresariales y sus Confederaciones, por los servicios proporcionados a sus miembros como contraprestación normal por sus cuotas anuales ordinarias o extraordinarias y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios.
 
 ###### Artículo 41.
 
@@ -305,17 +361,23 @@ No se considera amueblada la casa habitación cuando se proporcione con bienes a
 
 ### Capítulo V. De la importación de bienes y servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 46.
 
-Para los efectos de lo dispuesto por el artículo 24, fracción I de la Ley, también se considera introducción al país de bienes:
+Para efectos del artículo 24, fracción I de la Ley, se considera introducción al país de bienes:
 
 I. El retorno a México de bienes tangibles exportados definitivamente, cuando se efectúe en los términos de la legislación aduanera, y
 
-II. La reincorporación al mercado nacional de mercancías que se extraigan del régimen del depósito fiscal o del régimen de recinto fiscalizado estratégico, en los términos de la legislación aduanera.
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+II. La reincorporación al mercado nacional de mercancías que se extraigan del régimen del depósito fiscal o del régimen de recinto fiscalizado estratégico, en los términos de la legislación aduanera, salvo que ya se hubiera pagado el Impuesto al destinarse las mercancías a los mencionados regímenes.
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 47.
 
-Para los efectos de los artículos 24, fracción I y 26, fracción II de la Ley, cuando en el proceso de transformación, elaboración o reparación de bienes importados temporalmente a que se refiere la legislación aduanera, resulten desperdicios que se destinen a la importación definitiva, se estará obligado al pago del impuesto.
+Para efectos de los artículos 24, fracción I y 26, fracción II de la Ley, cuando en el proceso de transformación, elaboración o reparación de bienes importados temporalmente a que se refiere la legislación aduanera, resulten desperdicios que se destinen a la importación definitiva, se estará obligado al pago del Impuesto, salvo cuando los desperdicios deriven de bienes por los que ya se hubiera pagado el Impuesto al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
 
 ###### Artículo 48.
 
@@ -335,11 +397,13 @@ Para los efectos del artículo 25 de la Ley, no pagarán el impuesto por la impo
 
 ###### Artículo 52.
 
-Para los efectos del artículo 27, primer párrafo de la Ley, se considera que las cuotas compensatorias son gravámenes.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
+
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 53.
 
-Para los efectos del artículo 27 de la Ley, cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el impuesto se calculará tomando en cuenta el monto del impuesto general de importación y el de los demás gravámenes que se obtenga de los datos suministrados por el propio contribuyente, y la diferencia de impuesto que en su caso resulte, la podrá pagar hasta que se resuelva en definitiva la controversia, con la actualización y los recargos correspondientes al periodo comprendido desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, debiendo en este caso garantizarse el interés fiscal en los términos del Código Fiscal de la Federación y su Reglamento.
+Para efectos del artículo 27 de la Ley, cuando el contribuyente haga valer algún medio de defensa en contra de las resoluciones que dicten las autoridades aduaneras, el Impuesto se calculará tomando en cuenta el monto del impuesto general de importación y el monto de las demás contribuciones y aprovechamientos que se obtenga de los datos suministrados por el propio contribuyente, y la diferencia de Impuesto que en su caso resulte, la podrá pagar hasta que se resuelva en definitiva la controversia, con la actualización y los recargos correspondientes al periodo comprendido desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, debiendo en este caso garantizarse el interés fiscal en los términos del Código Fiscal de la Federación y su Reglamento.
 
 ###### Artículo 54.
 
@@ -349,9 +413,11 @@ Para determinar el incremento de valor a que se refiere el artículo 27, último
 
 Para los efectos de lo dispuesto en el artículo 28 de la Ley, el impuesto que se pague en la importación de bienes tangibles, se enterará utilizando la forma por medio de la cual se efectúe el pago del impuesto general de importación, aun cuando no se deba pagar este último gravamen.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-Para los efectos de lo dispuesto por el artículo 28, tercer párrafo de la Ley, los contribuyentes que hayan optado por pagar, entre otros, el impuesto mediante depósito en las cuentas aduaneras, de conformidad con la legislación de la materia, será acreditable hasta el momento en el que éste sea transferido a la Tesorería de la Federación por la institución de crédito o casa de bolsa de que se trate.
+Para efectos del artículo 28, cuarto párrafo de la Ley, los contribuyentes que hayan optado por pagar el Impuesto mediante depósito en las cuentas aduaneras, de conformidad con la legislación de la materia, será acreditable hasta el momento en el que éste sea transferido a la Tesorería de la Federación por la institución de crédito o casa de bolsa de que se trate.
 
 ### Capítulo VI. De la exportación de bienes y servicios
 
@@ -371,9 +437,11 @@ Asimismo, se entiende, entre otros supuestos, que los servicios a que se refiere
 
 Para los efectos del artículo 29, fracción IV, inciso c) de la Ley, se considera que son exportados los servicios de publicidad, en la proporción en que dichos servicios sean aprovechados en el extranjero.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 60.
 
-Para los efectos del artículo 29, fracción V de la Ley, quedan comprendidos en la transportación internacional de bienes, la que se efectúe por la vía marítima, férrea, por carretera y aérea, cuando se inicie en el territorio nacional y concluya en el extranjero.
+Para efectos del artículo 29, segundo párrafo, fracción V de la Ley, quedan comprendidos en la transportación internacional de bienes, la que se efectúe por las vías marítima, férrea y por carretera cuando se inicie en el territorio nacional y concluya en el extranjero.
 
 ###### Artículo 61.
 
@@ -381,9 +449,11 @@ Para los efectos del artículo 29, último párrafo de la Ley, se considera que 
 
 #### Sección II. De los servicios de filmación o grabación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 62.
 
-Para los efectos del artículo 29, fracción IV, inciso g) de la Ley, se consideran servicios de filmación o grabación aquéllos en los que la filmación o grabación se destinará a fines de proyección en salas cinematográficas o en sistemas de televisión, o a su venta o renta con fines comerciales. Los servicios mencionados podrán incluir cualquiera de los siguientes: vestuario; maquillaje; locaciones; bienes muebles; servicios personales de extras; transporte de personas en el interior del país desde y hacia los lugares de filmación o grabación; hospedaje en los lugares de filmación o grabación; grabación visual o sonora, iluminación y montaje; alimentos en los lugares de filmación o grabación; utilización de animales; o, transporte en el interior del país de equipo de filmación o grabación.
+Para efectos del artículo 29, segundo párrafo, fracción IV, inciso g) de la Ley, se consideran servicios de filmación o grabación, aquéllos en los que la filmación o grabación se destinará a fines de proyección en salas cinematográficas o en sistemas de televisión, o a su venta o renta con fines comerciales. Los servicios mencionados podrán incluir cualquiera de los siguientes: vestuario; maquillaje; locaciones; bienes muebles; servicios personales de extras; transporte de personas en el interior del país desde y hacia los lugares de filmación o grabación; hospedaje en los lugares de filmación o grabación; grabación visual o sonora en cualquier forma o medio conocido o por conocer; iluminación y montaje; alimentos en los lugares de filmación o grabación; utilización de animales; o, transporte en el interior del país de equipo de filmación o grabación.
 
 Se considera que los servicios de filmación o grabación se exportan, cuando sean prestados por residentes en el país a personas residentes en el extranjero sin establecimiento en el país.
 
@@ -397,107 +467,55 @@ II. Presentar un aviso de exportación de servicios de filmación o grabación a
 
 No tendrá efecto alguno la presentación extemporánea del aviso a que se refiere esta fracción;
 
-III. Dictaminar para los efectos fiscales sus estados financieros por contador público registrado en los términos del artículo 52 del Código Fiscal de la Federación, correspondientes al año de calendario en el que hayan prestado los servicios de filmación o grabación, y
+III. (DEROGADA, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 IV. Recibir el pago de los servicios de filmación o grabación mediante cheque nominativo de quien reciba los servicios o mediante transferencia de fondos en cuentas de instituciones de crédito o casas de bolsa, hechos a nombre del contribuyente.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
 #### Sección III. De los servicios de hotelería y conexos para congresos, convenciones, exposiciones o ferias
 
 ###### Artículo 64.
 
-Para los efectos del artículo 29, fracción VII de la Ley, se entiende por:
-
-I. Congreso: Toda reunión profesional que tiene por objeto realizar una discusión y un intercambio profesional, cultural, deportivo, religioso, social, de gobierno o académico, en torno a un tema de interés;
-
-II. Convención: Toda reunión gremial o empresarial cuyo objetivo es tratar asuntos comerciales entre los participantes en torno a un mercado, producto o marca;
-
-III. Exposición: Evento comercial o cultural que reúne a miembros de un sector empresarial, profesional o social, organizado con el propósito de presentar productos o servicios;
-
-IV. Feria: Exhibición de productos o servicios que concurren en un área específica con el objeto de comercializarlos y promover los negocios, y
-
-V. Organizador del evento: La institución, asociación, organismo o empresa, a cuyo nombre se efectúa la convención, congreso, exposición o feria, sin menoscabo de que dichas personas se auxilien de prestadores de servicios de organización para llevar a cabo los eventos.
-
-No quedan comprendidos en lo dispuesto en este artículo, los denominados “viajes de incentivos” que se otorgan como premio a las personas por el desempeño en su trabajo o por cualquier otro motivo, con independencia de la designación o nombre que se les otorgue.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 65.
 
-Para los efectos de lo dispuesto por el artículo 29, fracción VII de la Ley, se consideran comprendidos dentro de los servicios de hotelería y conexos, aquéllos proporcionados a los turistas extranjeros, durante el periodo comprendido desde dos noches anteriores a la fecha de inicio del evento de que se trate, hasta dos noches posteriores a su conclusión.
-
-También quedan comprendidos en los servicios mencionados, los de alimentos y bebidas, cuando éstos se contraten por el organizador del evento, siempre que sea residente en el extranjero y dichos servicios sean proporcionados dentro del hotel a los asistentes al congreso o convención de que se trate, en forma grupal.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 66.
 
-Para los efectos de lo dispuesto por el artículo 29, fracción VII, último párrafo de la Ley, los contribuyentes que proporcionen los servicios de hotelería y conexos, deberán cumplir con los requisitos siguientes:
-
-I. Inscribirse como empresa exportadora de servicios de hotelería ante el Servicio de Administración Tributaria, y
-
-II. Conservar los documentos siguientes:
-
-a) El contrato de los servicios de hotelería y conexos celebrado con el organizador del evento, en el que se deberá especificar el domicilio del lugar donde éste se llevará a cabo, así como la duración del mismo.
-
-Cuando el comprobante de los servicios proporcionados se expida a nombre del organizador del evento, deberá consignarse en el mismo el nombre de los turistas extranjeros que recibieron los servicios de hotelería y conexos;
-
-b) Copia del pasaporte y del documento migratorio que los turistas extranjeros hayan obtenido al internarse al país para participar en el congreso, convención, exposición o feria de que se trate, debidamente sellado por las autoridades migratorias y vigente durante el periodo del evento;
-
-c) Registro de huéspedes en donde haya quedado inscrito el nombre del turista extranjero y su firma, y
-
-d) Copia del pagaré que ampare el pago de los servicios prestados, mediante tarjeta de crédito expedida en el extranjero.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 67.
 
-Para los efectos de lo dispuesto por el artículo 29, fracción VII, último párrafo de la Ley, los contribuyentes podrán recibir el pago de los servicios de hotelería y conexos, mediante la transferencia de fondos a sus cuentas en instituciones de crédito o casas de bolsa, provenientes de cuentas de instituciones financieras ubicadas en el extranjero. Cuando el pago se efectúe mediante transferencia de fondos, los contribuyentes deberán conservar el estado de cuenta que contenga el movimiento correspondiente.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 68.
 
-Para los efectos de lo dispuesto por el artículo 29, fracción VII, último párrafo de la Ley, cuando los servicios de hotelería y conexos se contraten con la intermediación de agencias de viajes, dichos servicios deberán ser pagados por éstas a nombre de los turistas extranjeros, ya sea mediante cheque nominativo que contenga en su anverso la expresión “para abono en cuenta del beneficiario”, o mediante transferencia de fondos en cuentas de instituciones de crédito o casas de bolsa. En estos casos, los contribuyentes deberán conservar el estado de cuenta que contenga el movimiento correspondiente y cumplir con los requisitos establecidos en el artículo 66 de este Reglamento.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 69.
 
-Para los efectos del artículo 29, fracción VII de la Ley, quedan comprendidos dentro de los servicios a que se refiere dicha fracción, el uso temporal de los centros de convenciones y de exposiciones, así como los servicios complementarios que se proporcionen dentro de las instalaciones de dichos lugares para realizar convenciones, congresos, exposiciones o ferias, a los organizadores de eventos que sean residentes en el extranjero, siempre que el comprobante correspondiente al uso temporal y los servicios complementarios, se expida a nombre del organizador.
-
-Se entiende por servicios complementarios, los de montaje, registro de asistentes, maestros de ceremonias, traductores, edecanes, proyección audiovisual, comunicación por teléfono o radio y conexión a Internet, grabación visual o sonora, fotografía, uso de equipo de cómputo, música grabada y en vivo, decoración, seguridad y limpieza, que se proporcionen para el desarrollo del evento de que se trate. Tratándose de congresos y convenciones quedan comprendidos en los servicios complementarios los de alimentos y bebidas que sean proporcionados a los asistentes al congreso o convención de que se trate, en forma grupal.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 70.
 
-Para los efectos del artículo anterior, los contribuyentes deberán cumplir con los siguientes requisitos:
-
-I. Estar inscritos como empresa exportadora de servicios de convenciones y exposiciones ante el Servicio de Administración Tributaria;
-
-II. Celebrar por escrito un contrato de prestación de servicios, en el que se especifique el evento de que se trate y los servicios que se proporcionarán al organizador del evento, así como el periodo en que dichos servicios serán proporcionados, y
-
-III. Recibir el pago de los servicios a que se refiere la fracción anterior, mediante tarjeta de crédito del organizador del evento expedida en el extranjero, o mediante transferencia de fondos de una cuenta de instituciones financieras ubicadas en el extranjero del organizador a una cuenta en instituciones de crédito o casas de bolsa en México a nombre del contribuyente. En los supuestos anteriores, los contribuyentes deberán conservar copia del pagaré o el estado de cuenta que contenga la transferencia de fondos, según se trate.
-
-Cuando el uso temporal de los centros de convenciones y de exposiciones, así como los servicios complementarios a que se refiere el presente artículo, se contraten con la intermediación de prestadores de servicios de organización para llevar a cabo los eventos, los mismos podrán ser pagados por los prestadores mencionados, siempre que el pago se realice a nombre del organizador residente en el extranjero, se utilicen los medios de pago que prevé el artículo 68 de este Reglamento y se cumplan las obligaciones que el mismo establece. En todo caso, el comprobante correspondiente al uso temporal y los servicios complementarios, se deberá expedir a nombre del organizador residente en el extranjero.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ### Capítulo VII. De las obligaciones de los contribuyentes
 
 ###### Artículo 71.
 
-Para los efectos del artículo 32, fracción I de la Ley, los contribuyentes registrarán el impuesto que les hubiera sido trasladado y el que hayan pagado en la importación, correspondiente a la parte de sus gastos e inversiones, conforme a los supuestos siguientes:
-
-I. La adquisición de bienes, de servicios y el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar sus actividades por las que deban pagar el impuesto;
-
-II. La adquisición de bienes, de servicios y el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar sus actividades por las que no deban pagar el impuesto, y
-
-III. La adquisición de bienes, de servicios y el uso o goce temporal de bienes, que se utilicen indistintamente para realizar tanto actividades por las que se deba pagar el impuesto, como aquéllas por las que no se está obligado al pago del mismo.
-
-Cuando el destino de los bienes o servicios varíe y se deba efectuar el ajuste del acreditamiento previsto en el artículo 5o.-A de la Ley, se deberá registrar su efecto en la contabilidad.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 72.
 
-De conformidad a lo establecido en el artículo 32, fracción III, quinto párrafo de la Ley, se entenderá que se realizan actos o actividades con el público en general cuando se trate de operaciones efectuadas por contribuyentes dedicados a actividades comerciales, en los términos del artículo 16, fracción I del Código Fiscal de la Federación, excepto cuando se trate de mayoristas, medio mayoristas o envasadores.
-
-Tratándose de la prestación de servicios, en todo caso se considerará que los actos o actividades se realizan con el público en general.
-
-En los servicios de teléfono, energía eléctrica, hotelería incluyendo los servicios complementarios, restaurantes, suministro de gas y aerotransporte, así como en el arrendamiento de vehículos, invariablemente el impuesto se incluirá en el precio en el que los bienes y servicios se ofrezcan, pero en el comprobante que se expida con motivo de estas operaciones el contribuyente podrá trasladar el impuesto en forma expresa y por separado, inclusive en servicios que preste al público en general.
-
-El precio que se cobre al cliente deberá ser siempre el mismo, independientemente de que el impuesto se traslade dentro del precio o en forma expresa y por separado de él.
-
-Los contribuyentes que realizan actos o actividades con el público en general que deban trasladar el impuesto, para determinar el valor de la contraprestación pactada dividirán el precio incluyendo el impuesto, entre 1.10 ó 1.15, según se trate de operaciones afectas a la tasa del 10% ó 15%, el cociente que se obtenga de esta división deberá calcularse hasta el centésimo. El resultado obtenido se restará al monto total de la operación y la diferencia será el impuesto. Esta misma operación se asentará en los libros de contabilidad.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 73.
 
-Para los efectos del artículo 32, fracción III de la Ley, tratándose de los servicios personales independientes, de los contratos de suministro de bienes o de servicios, así como de recolección de basura, en cada pago que perciban los contribuyentes por dichos servicios se expedirá el comprobante como si fuera una sola exhibición y no como una parcialidad.
+(DEROGADO, D.O.F. 25 DE SEPTIEMBRE DE 2014)
 
 ###### Artículo 74.
 
@@ -552,3 +570,11 @@ A partir de la entrada en vigor de este Reglamento quedan sin efecto las disposi
 Artículo Tercero. Para el efecto de las obligaciones previstas en el artículo 74, fracción I, primer párrafo del presente Reglamento, tratándose de fideicomisos inscritos en el Registro Federal de Contribuyentes con anterioridad a la fecha de su entrada en vigor, éstas se tendrán por cumplidas, cuando al momento de su inscripción en dicho Registro se hayan realizado las manifestaciones a que se refiere dicha fracción, de conformidad con lo dispuesto en las reglas de carácter general emitidas por el Servicio de Administración Tributaria.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE SEPTIEMBRE DE 2014.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Lo dispuesto por los artículos 46, fracción II, 47 y 56 del presente Decreto, entrará en vigor en la fecha en que entren en vigor las disposiciones a que se refiere el Artículo Segundo, fracción III de las Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; de la Ley Federal de Derechos, se expide la Ley del Impuesto sobre la Renta, y se abrogan la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo, publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013.
