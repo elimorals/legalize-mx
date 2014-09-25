@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-08-14"
+last_updated: "2014-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1107,7 +1107,7 @@ I. Exista o haya existido una relación de parentesco; afecto; docente; o labora
 
 II. Existan en la víctima signos de violencia sexual de cualquier tipo;
 
-II.(SIC) Se haya infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia, y
+II (SIC). Se haya infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia, y
 
 III. Existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar; laboral; o escolar, del sujeto activo en contra de la víctima.
 
@@ -1141,7 +1141,7 @@ En los casos a que se refieren las fracciones II y III, además de las sanciones
 
 ###### ARTICULO 117.
 
-Al que infiera lesiones que pongan en peligro la vida se le impondrá una pena de uno a seis años de prisión y sanción pecuniaria de veinte a ciento veinte días de salario mínimo,, (sic) sin perjuicio de las sanciones que le correspondan, de acuerdo al artículo anterior.
+Al que infiera lesiones que pongan en peligro la vida se le impondrá una pena de uno a seis años de prisión y sanción pecuniaria de veinte a ciento veinte días de salario mínimo,, sin perjuicio de las sanciones que le correspondan, de acuerdo al artículo anterior.
 
 ###### ARTICULO 118.
 
@@ -1299,21 +1299,13 @@ Este delito se sancionará con una pena de tres meses a un año de prisión y sa
 
 ### CAPITULO III. PRIVACION ILEGAL DE LA LIBERTAD
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 134.
 
-Comete el delito de privación ilegal de la libertad quien:
+Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días de sanción pecuniaria, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro.
 
-I. Sin derecho priva a una persona de su libertad;
-
-II. Por medio de la violencia física o moral, impide a otro la ejecución u omisión de un acto lícito;
-
-III. Obliga a una persona a prestarle trabajos o servicios personales sin la debida retribución, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio, o
-
-IV. Celebra un contrato que imponga a otro condiciones que lo constituyan en una especie de servidumbre o que se apodera de alguna persona y la entrega a otro con el objeto de que ésta celebre dicho contrato.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
-
-Este delito se sancionará con una pena de diez a treinta años de prisión y sanción pecuniaria de mil a tres mil días de salario mínimo.
+La pena de prisión se aumentará hasta en una mitad cuando: la privación de la libertad exceda de veinticuatro horas; se realice con violencia; la víctima sea menor de dieciocho, o mayor de sesenta años de edad; o cuando por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
 ### CAPITULO IV. SECUESTRO
 
@@ -1537,21 +1529,17 @@ En los casos a que se refiere este artículo, el delito se perseguirá a petici�
 
 Si el menor es restituido espontáneamente al seno familiar o a la autoridad antes de tres días de ocurrido el hecho y sin que se le cause perjuicio, se impondrá hasta una tercera parte de la pena que corresponda.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE SEPTIEMBRE DE 2014)</small>
+
 ### CAPITULO VII. RAPTO
 
 ###### ARTICULO 142.
 
-Comete el delito de rapto quien se apodera de una persona por medio de la violencia física o moral o del engaño, para satisfacer algún deseo erótico sexual o para casarse.
-
-Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de diez a sesenta días de salario mínimo.
-
-Cuando el raptor no emplee la violencia ni el engaño y la persona consienta en el rapto, se le impondrá la misma pena; si la víctima es menor de dieciséis años, ya que por este solo hecho se presume que el raptor empleó el engaño.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 143.
 
-No se procederá contra el raptor ni sus cómplices cuando aquél se case con la mujer ofendida, salvo que se declare nulo el matrimonio.
-
-El delito a que se refiere al artículo anterior se perseguirá por querella necesaria.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO VIII. ASALTO
 
@@ -2349,7 +2337,7 @@ Para los efectos de esta fracción se entiende por violencia física en el robo,
 
 Hay violencia moral cuando el o los ladrones amagan o amenazan a una persona con un mal grave, presente e inminente, capaz de intimidarla. Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquéllas que arrojen proyectiles a través de aire o gas comprimido.
 
-Para la imposición de la sanción, se tendrá también el robo como hecho con violencia, cuando ésta se haga a una persona distinta a la robada, que se encuentre en compañía de ella, y cuando el ladrón la ejercite después de consumado el robo para darse la (sic) fuga o retener lo robado;
+Para la imposición de la sanción, se tendrá también el robo como hecho con violencia, cuando ésta se haga a una persona distinta a la robada, que se encuentre en compañía de ella, y cuando el ladrón la ejercite después de consumado el robo para darse (sic) la fuga o retener lo robado;
 
 II. Se cometa quebrantando la confianza o la seguridad que deriva de alguna relación o servicio, trabajo u hospitalidad;
 
@@ -4688,6 +4676,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE AGOSTO DE 2014
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
