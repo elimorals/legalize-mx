@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-80232"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-03-10"
-last_updated: "2014-06-06"
+last_updated: "2014-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80232&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-02-18"
 ---
 # ESTATUTO ORGANICO DE PROMEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2014, EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DE PROMÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2014.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE SEPTIEMBRE DE 2014.</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 10 de marzo de 2011.
 
@@ -915,10 +915,18 @@ México, D.F., a 18 de febrero de 2011.- El Coordinador General de Asuntos Jurí
 
 D.O.F. 6 DE JUNIO DE 2014.
 
-PRIMERO.- Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+> <small>(F. DE E., D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
-SEGUNDO.- Del Estatuto Orgánico del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, publicado en el Diario Oficial de la Federación el día 11 (sic) de marzo de 2011 se actualiza el CONSIDERANDO, se modifica el último párrafo del artículo 15, se deroga la fracción III del artículo 16, se modifican las fracciones I y II del artículo 17, se agrega el artículo 17BIS (sic) y se modifica el numeral 2 del artículo 36.
+PRIMERO.- Estas modificaciones al Estatuto Orgánico entrará (sic) en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en el presente Estatuto.
+> <small>(F. DE E., D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
 
-CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
+SEGUNDO.- Del Estatuto Orgánico del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, publicado en el Diario Oficial de la Federación el día 10 de marzo de 2011 se actualiza el CONSIDERANDO, se modifica el último párrafo del artículo 15, se deroga la fracción III del artículo 16, se modifican las fracciones I y II del artículo 17, se agrega el artículo 17BIS (sic) y se modifica el numeral 2 del artículo 36.
+
+> <small>(F. DE E., D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+TERCERO.- Los asuntos en trámite a la entrada en vigor de estas modificaciones al Estatuto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en el presente Estatuto.
+
+> <small>(F. DE E., D.O.F. 25 DE SEPTIEMBRE DE 2014)</small>
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en las presentes modificaciones al Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
