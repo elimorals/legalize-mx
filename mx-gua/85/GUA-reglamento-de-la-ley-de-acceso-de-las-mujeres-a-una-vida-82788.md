@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-82788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-06"
-last_updated: "2011-09-06"
+last_updated: "2014-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2014.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 6 de septiembre de 2011.
 
@@ -307,29 +307,53 @@ IV. Impacto en la ejecución del modelo de erradicación.
 
 ### Capítulo IV. Banco Estatal
 
-Custodia de la información
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+Administración y resguardo de la información
 
 ###### Artículo 25.
 
-La Procuraduría General de Justicia del Estado tendrá bajo su custodia la información que integrará el Banco Estatal; los encargados, enlaces responsables y usuarios del Banco Estatal deberán conducirse con toda veracidad y secrecía en su manejo.
+La Procuraduría General de Justicia del Estado tendrá a su cargo la administración y resguardo de la información que integrará el Banco Estatal. Las personas encargadas, enlaces responsables y las usuarias y usuarios del Banco Estatal deberán conducirse con toda veracidad y confidencialidad en su manejo y garantizar el uso adecuado de la misma.
 
-Prohibición de divulgar información
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+Naturaleza pública de la información y casos de excepción para divulgación
 
 ###### Artículo 26.
 
-La información contenida en el Banco Estatal es pública. No podrá divulgarse, ni publicarse o hacerse del dominio público la información nominativa o individualizada.
+La información contenida en el Banco Estatal es pública. No podrá divulgarse, proporcionarse ni publicarse o hacerse del dominio público la información nominativa o individualizada, o aquella que posibilite la identificación de las mujeres víctimas.
 
-Medidas de seguridad para la información
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+Medidas de seguridad y confiabilidad de la información
 
 ###### Artículo 27.
 
 Con la finalidad de garantizar la integridad, disponibilidad y confidencialidad de los datos personales recopilados por las instancias involucradas, la Procuraduría General de Justicia del Estado deberá implementar medidas de seguridad de esta información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+El personal designado como enlaces responsables, las usuarias y usuarios, así como cualquiera de las instituciones que integran el Consejo Estatal, en todo momento, deberán observar tales medidas, además de garantizar que los datos e información recabada se destinen y utilicen únicamente para los fines para los cuales fueron obtenidos.
 
 Integración de estadísticas
 
 ###### Artículo 28.
 
 El Banco Estatal integrará información y estadísticas desagregadas por sexo, sobre los casos de violencia contra las mujeres que atiendan las dependencias, entidades y organismos dedicados a la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+La Procuraduría General de Justicia del Estado, para los efectos de la información estadística que se publicará semestralmente, de los datos del Apartado Público y de los reportes que emita de conformidad a lo establecido en la Ley de Acceso y en el presente Reglamento, integrará y procesará a través del Banco Estatal, los datos e información en él contenidos, bajo el procedimiento de disociación, por virtud del cual los datos personales no pueden asociarse a su titular, ni permitir por su estructura, contenido o grado de desagregación, la identificación individual del mismo.
 
 Objetivos de la información
 
@@ -353,13 +377,15 @@ Condiciones de seguridad de la información
 
 La Procuraduría General de Justicia del Estado garantizará las condiciones de seguridad necesarias para el adecuado tratamiento de la información contenida en el Banco Estatal, de conformidad con la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, la Ley de Protección de Datos Personales y demás ordenamientos aplicables.
 
-Consentimiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO, DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+Deber de registro e información a la mujer víctima
 
 ###### Artículo 32.
 
-Se debe contar con el consentimiento previo, libre e informado de la víctima a la que se le recabarán sus datos, mencionando el manejo que tendrá dicha información.
-
-El consentimiento deberá constar por escrito, incluyendo la firma autógrafa o en caso de no saber escribir, la huella digital impresa y la copia de identificación oficial.
+Las instancias públicas y privadas, estatales y municipales, que en virtud de su competencia conozcan o atiendan casos de violencia contra las mujeres, en su carácter de usuarias del Banco Estatal, deberán registrar la totalidad de casos atendidos en su respectivo ámbito de actuación, conforme a los parámetros y regulación de aquél. Asimismo, se informará a la mujer víctima a la que se le recaben sus datos, que éstos se integrarán en el Banco Estatal. Y se le hará saber, de conformidad con lo establecido en la Ley de Acceso, en el presente Reglamento y en la demás normatividad de la materia, sobre la confidencialidad y el manejo exclusivamente estadístico, institucional y de prevención que se otorgará a dicha información.
 
 Contratación de terceros para el manejo de la información
 
@@ -532,3 +558,19 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2014.
+
+Vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día 1 de noviembre de 2014, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Acciones para la adecuada implementación del nuevo esquema de captura
+
+Artículo Segundo. El Consejo Estatal y la Procuraduría General de Justicia del Estado, previamente a la entrada en vigencia del presente Decreto, deberán realizar las acciones conducentes, así como los ajustes técnicos y operativos que posibiliten la adecuada implementación del esquema de captura, administración y operación del Banco Estatal, conforme lo previsto en el presente Decreto.
+
+Ajuste en períodos de informes
+
+Artículo Tercero. La información general y estadística sobre los casos de violencia contra las mujeres en el Estado, correspondiente al segundo semestre del año 2014, por única ocasión, será publicada por la Procuraduría General de Justicia del Estado en dos bloques. El primero, relativo al período del 1 de julio al 31 de octubre, se reportará bajo las disposiciones reglamentarias vigentes hasta antes de la entrada en vigencia del presente Decreto. En tanto que el segundo de ellos, correspondiente del 1 de noviembre al 31 de diciembre, se integrará con base en lo dispuesto en el presente Decreto.
