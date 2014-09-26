@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2014-06-28"
+last_updated: "2014-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE JUNIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -2873,9 +2871,13 @@ Segundo.- La operación de lo dispuesto en el artículo 102, relativo a la imple
 
 I. A partir de los 90 días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre:
 
-1. Fracción V del Artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
 
-2. Fracción VIII del Artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+1. Sanciones no corporales por infracción a Leyes y Reglamentos Estatales y Municipales en materia de: Ecología y protección al medio ambiente; de servicios públicos de limpia, recolección y traslado de residuos sólidos; protección civil; prevención, combate, abuso, consumo y comercialización de bebidas alcohólicas; espectáculos; anuncios; comercio y de vialidad y tránsito.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+2. Asuntos relativos a la separación, remoción, baja, cese o cualquier otra forma de terminación de funciones, de los servidores públicos, para los cuales sea competente este Tribunal; se exceptúa de lo anterior, aquellos asuntos en que la separación, remoción, baja, cese o cualquier otra forma de terminación de funciones de los servidores públicos haya sido impuesta como una sanción por responsabilidad administrativa, en cuyo caso el juicio seguirá las reglas establecidas en el Título Segundo de la presente ley.
 
 II. A partir de los noventa días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre los asuntos que se refieren en el artículo 17, fracción III de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
@@ -2891,7 +2893,9 @@ CUARTA ETAPA: A partir del primero de marzo del 2017, iniciará la operación de
 
 QUINTA ETAPA: A partir del primero de Junio del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en las fracciones X, XIII y XIV del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
-Tercero.- La Sala Superior del Tribunal de Justicia Administrativa deberá emitir la declaratoria de inicio de operaciones de cada una de las etapas antes referidas. La declaratoria surtirá sus efectos legales al día siguiente de la publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
+
+Tercero.- La Sala Superior del Tribunal de Justicia Administrativa deberá emitir la declaratoria de inicio de operaciones de cada una de las etapas antes referidas, debiendo tomar en cuenta la suficiencia presupuestal con motivo de requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. La declaratoria surtirá sus efectos legales al día siguiente de la publicación en el Periódico Oficial del Estado.
 
 Cuarto.- Para los juicios contenciosos administrativos que versen sobre actos que de acuerdo con las reglas anteriores aún no les fuera aplicable la vía oral prevista en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se seguirá aplicando lo previsto en el título Segundo, titulado "DEL PROCEDIMIENTO ORDINARIO" de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
@@ -2902,3 +2906,7 @@ Sexto.- El Titular del Poder Ejecutivo del Estado al presentar la iniciativa de 
 Séptimo.- Los procedimientos en trámite en el Tribunal de Justica Administrativa del Estado, seguirán su procedimiento hasta su sentencia conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 
 Octavo.- Los procedimientos bajo el sistema de oralidad ante el Tribunal de Justica Administrativa del Estado, o Municipales en su caso, deberán operar a más tardar el 31 de diciembre de 2017.
+
+P.O. 26 DE SEPTIEMBRE DE 2014.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
