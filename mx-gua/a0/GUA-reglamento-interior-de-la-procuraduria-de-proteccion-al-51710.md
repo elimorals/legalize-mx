@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-procuraduria-de-proteccion-al-51710"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-08"
-last_updated: "2010-09-14"
+last_updated: "2014-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA AMBIENTAL Y DE ORDENAMIENTO TERRITORIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de septiembre de 2006.
 
@@ -323,7 +325,7 @@ X.- Representar al Procurador en las reuniones, actos o comisiones que le sean a
 
 XI.- Las demás que les confiera el Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO SEXTO. DE LA DIRECCIÓN DE GESTIÓN AMBIENTAL
 
@@ -339,7 +341,7 @@ II.- Coordinación de Visitas; y
 
 III.- Coordinación de Dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -603,7 +605,7 @@ X.- Integrar los expedientes de los procedimientos jurídico-administrativos y p
 
 XI.- Las demás que le confiera el Director Jurídico.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO OCTAVO. DE LAS COORDINACIONES ADSCRITAS AL PROCURADOR
 
@@ -771,7 +773,7 @@ XVII.- Las demás que le confiera el Procurador.
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE DIFUSIÓN, EDUCACIÓN Y COMUNICACIÓN AMBIENTAL
 
@@ -787,7 +789,7 @@ XVII.- Las demás que le confiera el Procurador.
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA DIRECCIÓN DE PLANEACIÓN Y POLÍTICA AMBIENTAL
 
@@ -803,7 +805,7 @@ XVII.- Las demás que le confiera el Procurador.
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL ÓRGANO DE VIGILANCIA
 
@@ -893,7 +895,7 @@ En funciones de Secretario de Desarrollo Económico Sustentable, con fundamento 
 
 BERNARDO LÓPEZ ROSAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
 
@@ -902,3 +904,21 @@ Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto
 P.O. 14 DE SEPTIEMBRE DE 2010.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2014.
+
+Vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 284 mediante el cual se expidió el Reglamento Interior de la Procuraduría de Protección al Ambiente de (sic) Estado publicado en el Periódico Oficial del Gobierno del Estado número 144, Segunda Parte, de fecha 8 de septiembre de 2006.
+
+Derogación de otras disposiciones
+
+Artículo Tercero. Se derogan a todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
+
+Publicación de acuerdo
+
+Artículo Cuarto. El acuerdo al que se refiere el artículo 28 del Reglamento contenido en el presente Decreto Gubernativo se publicará en el Periódico Oficial del Gobierno del Estado, dentro de los 60 días contados a partir de su entrada en vigencia.
