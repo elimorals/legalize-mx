@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2013-10-15"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -73,23 +75,27 @@ VI. Procurar la seguridad pública mediante la prevención, investigación, pers
 
 VII. Detectar y combatir los factores que genere la comisión de delitos y conductas antisociales, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 3.
 
 ° Para los efectos de esta ley, se debe entender por:
 
-I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de Procuración de Justicia;
+I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de
 
-II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses;
+Procuración de Justicia;
+
+II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de
+
+Ciencias Forenses;
 
 III. Carrera policial: al servicio profesional de carrera policial;
 
 IV. Centro: el Centro Estatal de Evaluación y Control de Confianza;
 
-V. Centros de control de confianza fedérales: los centros con que, en la materia, cuentan tanto la Procuraduría General de la RePública (sic) como la Secretaría de Seguridad Pública Federal;
+V. Centros de control de confianza federales: los centros con que en la materia cuentan tanto la Procuraduría General de la República como la Secretaria de Seguridad Pública Federal;
 
-VI. Comisaría: la Comisaría General de Seguridad Pública del Estado;
+VI. Comisaria: la Comisaría General de Seguridad Pública del Estado;
 
 VII. Comisario General: el titular de la Comisaría General de Seguridad Pública del Estado;
 
@@ -99,31 +105,27 @@ IX. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública, Prevención y
 
 X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
-XI. Elementos operativos: los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5.° de esta ley;
+XI. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
-XII. Instituciones de seguridad pública: instituciones policiales, de procuración de justicia, del sistema penitenciario y peritos del Instituto Jalisciense de Ciencias Forenses, encargadas de la seguridad Pública a nivel estatal y municipal;
+XII. Fiscal General: el titular de la Fiscalía General del Estado;
 
-XIII. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
+XIII. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
 
-XIV. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+XIV. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
 
-XV. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
+XV. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
-XVI. Procuraduría: la Procuraduría General de Justicia del Estado;
+XVI. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
 
-XVII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
+XVII. Nombramiento: el acto condición, también definido como acto administrativo condicionado, que no se considera como contrato de trabajo ni un acto expedido con fundamento en las leyes que rigen la relación laboral del Estado con sus empleados servidores públicos, en virtud de la excepción constitucional establecida en la fracción XIII del apartado B del artículo 123 constitucional, que establece que los grupos ahí señalados se rigen por sus propias leyes;
 
-XVIII. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
+XVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
 
-XIX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
+XIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
 
-XX. Secretaría: la Secretaría de Seguridad Pública, Prevención y Reinserción Social;
+XX. Registro: el Registro Estatal de Información sobre Seguridad Pública; y
 
-XXI. Secretario: el titular de la Secretaría de Seguridad Pública, Prevención y Reinserción Social;
-
-XXII. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública, y
-
-XXIII. Nombramiento: el acto condición, también definido como acto administrativo condicionado, que no se considera como contrato de trabajo ni un acto expedido con fundamento en las leyes que rigen la relación laboral del Estado con sus empleados servidores públicos, en virtud de la excepción constitucional establecida en la fracción XIII del apartado B del artículo 123 constitucional, que establece que los grupos ahí señalados se rigen por sus propias leyes.
+XXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública.
 
 ###### Artículo 4.
 
@@ -145,19 +147,25 @@ Para efectos del cumplimiento del presente artículo, las instituciones de segur
 
 Lo anterior, sin perjuicio de las unidades que en materia de investigación científica establezcan las instituciones de seguridad pública en el ámbito de sus respectivas competencias, las cuales tendrán como función principal la búsqueda, preservación y obtención de indicios y pruebas en general, en los términos de esta ley.
 
-La unidad correspondiente de la Secretaría o la Procuraduría respectivamente, utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias de los actos dirigidos contra la confidencialidad, la integridad y la disponibilidad de los sistemas, redes y datos informáticos, y para tal fin los particulares, prestadores de servicios de información y en general todas aquellas personas físicas o morales de carácter privado que procesen, traten o tengan en su poder bases de datos personales de terceros, estarán obligados a otorgar o transferir la información en los términos que se les solicite, para el caso concreto de la investigación.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+La unidad correspondiente de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias de los actos dirigidos contra la confidencialidad, la integridad y la disponibilidad de los sistemas, redes y datos informáticos, y para tal fin los particulares, prestadores de servicios de información y, en general, todas aquellas personas físicas o jurídicas de carácter privado que procesen, traten o tengan en su poder bases de datos personales de terceros, estarán obligados a otorgar o transferir la información en los términos que se les solicite, para el caso concreto de la investigación.
 
 ###### Artículo 6.
 
 ° Ninguna persona de las obligadas por esta ley podrá ingresar ni permanecer en las instituciones de seguridad pública si no ha sido debidamente certificada, ya sea por los centros de control de confianza federales, por el Centro o por las unidades de control de confianza respectivamente de conformidad con las disposiciones legales aplicables en la materia, y así mismo deberá registrarse en las bases de datos de personal de seguridad pública administrados por la plataforma tecnológica nacional que se establezca para tal fin.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-° Las facultades que este ordenamiento otorga a la Secretaría serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
+° Las facultades que este ordenamiento otorga a la Fiscalía General serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-° La Procuraduría en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo a sus capacidades de operatividad.
+° La Fiscalía General en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo a sus capacidades de operatividad.
 
 ###### Artículo 9.
 
@@ -231,7 +239,9 @@ VII. Integrar programas, estructuras o acciones operativas conjuntas en los tér
 
 VIII. Relación con la comunidad y fomento de la cultura de prevención de infracciones, delitos y conductas antisociales;
 
-IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Dirección General del Sistema Pospenitenciario y Atención a Liberados de la Secretaría, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IX. El control del cumplimiento de las condicionantes y supervisión de los liberados en su reinserción social, a través de la Comisaria de Atención a Preliberados y Liberados de la Fiscalía General; y
 
 X. Las relacionadas con las anteriores, que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
@@ -255,11 +265,15 @@ II. Los titulares de las siguientes dependencias, entidades y unidades administr
 
 a) Secretaría General de Gobierno;
 
-b) Secretaría de Vialidad y Transporte;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-c) Secretaría de Seguridad Pública, Prevención y Reinserción Social;
+b) Secretaría de Movilidad;
 
-d) Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+c) Fiscalía General;
+
+d) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
 e) Instituto Jalisciense de Ciencias Forenses, y
 
@@ -289,9 +303,9 @@ VII. El Delegado Estatal de la Procuraduría General de la República;
 
 VIII. El Delegado Estatal del Centro de Investigación y Seguridad Nacional;
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-IX. El coordinador de la Policía Federal en el estado;
+IX. El representante de la Policía Federal en el Estado;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -427,13 +441,17 @@ Para el cumplimiento de los objetivos de esta ley, el mando de los cuerpos estat
 
 I. El Gobernador del Estado;
 
-II. El Secretario:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+II. El Fiscal General;
 
 a) Comisario, y
 
-b) Comisario General de Prevención y Reinserción Social, y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-III. El Procurador General de Justicia del Estado;
+b) El Fiscal de Reinserción Social.
+
+III) (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014).
 
 Se exceptúa de lo dispuesto en este artículo a los cuerpos municipales de seguridad pública, que estarán bajo el mando del Presidente Municipal en los términos del reglamento correspondiente, quienes de conformidad con lo dispuesto en la Constitución Política del Estado deberán acatar las órdenes que el Gobernador les transmita en aquellos casos que éste juzgue como de fuerza mayor o de alteración grave del orden público, previo acuerdo que publique en el Periódico Oficial el Gobernador del Estado.
 
@@ -441,15 +459,23 @@ Se exceptúa de lo dispuesto en este artículo a los cuerpos municipales de segu
 
 Los cuerpos de seguridad pública de Jalisco son:
 
-I. La Secretaría:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+I. La Fiscalía General:
 
 a) La Policía Estatal, adscrita a la Comisaría, con todas las unidades y agrupamientos que prevea su reglamento, y
 
-b) Los cuerpos operativos adscritos a la Comisaría General de Prevención y Reinserción Social, con todas las unidades y agrupamientos que prevea su reglamento;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-II. Los cuerpos operativos de la Procuraduría, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
+b) Los cuerpos operativos adscritos a la Fiscalía de Reinserción Social, con todas las unidades y agrupamientos que prevea su reglamento;
 
-III. Los cuerpos operativos de la Secretaría de Vialidad y Transporte del Estado de conformidad con su ley y su reglamento;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+II. Los cuerpos operativos de la Fiscalía General, con todas las unidades, divisiones y agrupamientos que prevean la ley orgánica de la institución, su reglamento y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+III. Los cuerpos operativos de la Secretaría de Movilidad de conformidad con su ley y su reglamento;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -835,39 +861,67 @@ g) Lugar en el que fue puesto a disposición.
 
 El informe debe ser completo, y los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 64 Bis.
 
-El Ejecutivo del Estado expedirá el reglamento conforme al cual deberán sujetarse quienes ejerzan funciones de seguridad pública o servicios de seguridad privada, para establecer el procedimiento de detención de cualquier persona, en el que deberá contemplarse como mínimo:
+El Ejecutivo del Estado expedirá el reglamento conforme al cual deberán sujetarse quienes ejerzan funciones de seguridad pública o servicios de seguridad privada, para establecer el procedimiento de detención de cualquier persona en un documento denominado cartilla de derechos que asiste a las personas en detención con el propósito de garantizar a la ciudadanía que los elementos operativos ajusten su proceder a lo que establece la Constitución Política de los Estados Unidos Mexicanos y con pleno respeto a los derechos humanos de conformidad a:
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 I. El procedimiento para hacer constar y registrar la comunicación inmediata de cualquier detención de una persona o de auxilio a una posible víctima de delito, así como las causas de ésta ante la autoridad superior;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 II. Las medidas y procedimientos que se adoptarán para llevar a cabo la detención;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 III. Los procedimientos a adoptar si la persona detenida no habla español o es extranjero;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 IV. La forma de llevar a cabo su traslado al lugar de custodia y registro de la duración de traslado;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 V. Hacer constar la identidad de quienes hayan intervenido en la detención o prestado auxilio para lograrla;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 VI. Hacer constar el estado de salud de la persona sujeta a detención en forma inmediata;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 VII. Hacer del conocimiento de la persona detenida:
 
 a) Los hechos o causas que motivan su detención y la autoridad que la practica;
 
-b) El derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio;
+b) Que se presume su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
 
-c) Que tiene derecho a una defensa adecuada por abogado de su elección, y en caso de no querer o no designarlo, se le designará un defensor público;
+c) El derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. En caso de decidir declarar, tiene derecho a no inculparse;
 
-d) El derecho a denunciar en cualquier momento los malos tratos a que sea sujeto; y
+d) Que tiene derecho a una defensa adecuada por abogado de su elección y en caso de no querer o no designarlo, se le designará un defensor público;
 
-e) Que tiene el derecho a comunicarse con algún familiar, abogado o cualquier otra persona de su elección y a recibir su visita;
+e) Tiene derecho a un traductor e intérprete;
+
+f) El derecho a denunciar en cualquier momento los malos tratos a que sea sujeto; y
+
+g) Que tiene el derecho a comunicarse con algún familiar, abogado o cualquier otra persona de su elección y a recibir su visita;
+
+h) Tiene derecho a que se le ponga, sin demora, a disposición de la autoridad competente; y
+
+i) En caso de ser extranjero, tiene derecho a que el consulado de su país sea notificado de su detención;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 VIII. Establecer un registro en el que conste la fecha, hora y lugar de custodia en que se halle en cada momento;
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
+
 IX. Las sanciones a que serán sujetos quienes incumplan con las obligaciones establecidas en el reglamento; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 X. La obligación de la autoridad de proporcionar información sobre la detención de una persona a quien lo solicite, además de proporcionar el nombre de la autoridad que llevó a cabo la detención, el lugar donde se realizó, el lugar donde se encuentra en custodia, y la autoridad ante la cual se encuentra a disposición, reservando la causa o motivo de ella, la cual se hará saber a quien autorice la persona detenida.
 
@@ -954,6 +1008,8 @@ Las academias y los institutos antes referidos tendrán la atribución de emitir
 ### Capítulo II. Del servicio profesional de carrera policial en las instituciones de seguridad pública
 
 ### Capítulo III. Del ingreso y permanencia
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
 
@@ -1059,7 +1115,7 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 ###### Artículo 77.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación Profesional de la Procuraduría o el Instituto Jalisciense de Ciencias Forenses, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias, en el Instituto de Formación y Profesionalización de la Fiscalía General o el Instituto Jalisciense de Ciencias Forenses; el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
 
 ###### Artículo 78.
 
@@ -1883,7 +1939,9 @@ Las órdenes de detención o aprehensión se agregarán al registro cuando no po
 
 El Centro Integral de Información sobre Seguridad Pública ordenará y vigilará la integración de una base estatal de datos sobre personas probables responsables de delitos, indiciadas, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde solamente se incluyan sus características criminales, medios de identificación, recursos y modos de operación.
 
-La base estatal de datos se actualizará permanentemente y se integrará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación y reinserción social, así como en general, todas las instituciones que deben contribuir a la seguridad pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias, ejecución de penas, medidas de seguridad y cautelares.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+La base estatal de datos se actualizará permanentemente y se integrará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación y reinserción social, así como en general, todas las instituciones que deben contribuir a la seguridad pública, relativa a las investigaciones, órdenes de detención y aprehensión, sentencias, ejecución de penas, medidas de seguridad y cautelares.
 
 Las personas encargadas de las instituciones antes señaladas deberán remitir dicha información al Centro Integral de Información sobre Seguridad Pública en los términos que éste establezca, atendiendo a los tiempos de procesamiento de la información para las dependencias encargadas del suministro de información.
 
@@ -1949,11 +2007,15 @@ I. Un Presidente, que será el Gobernador del Estado o la persona que éste desi
 
 II. Consejeros nombrados por el titular del Poder Ejecutivo estatal, de las siguientes dependencias;
 
-a) Secretaría de Vialidad y Transporte;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-b) Secretaría de Seguridad Pública, Prevención y Reinserción Social;
+a) Secretaría de Movilidad;
 
-c) Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+b) Fiscalía General;
+
+c) (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014);
 
 d) Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
 
@@ -2049,17 +2111,21 @@ El Centro Integral de Comunicaciones establecerá sistemas tecnológicos de info
 
 La ciudadanía cuando lo solicite, podrá conocer sobre las personas que detienen las instituciones de seguridad pública, y estas últimas tendrán la obligación, conforme al reglamento, de aportar la información que lo permita.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 168.
 
-En cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
+En la Fiscalía General y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
 
-Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Secretaría o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
+Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía General o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 169.
 
-Corresponderá a la Secretaría la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
+Corresponderá a la Fiscalía General la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
 
-La respectiva unidad de la Secretaría, utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
+La respectiva unidad de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
 
 ###### Artículo 170.
 
@@ -2077,7 +2143,9 @@ a) De bienes muebles o inmuebles, y
 
 b) De personas físicas.
 
-La protección de las personas físicas no se refiere por ningún motivo a escoltas personales, sin embargo se podrán autorizar éstas a criterio de la Secretaría conforme al reglamento.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+La protección de las personas físicas no se refiere por ningún motivo a escoltas personales, sin embargo se podrán autorizar éstas a criterio de la Fiscalía General conforme al reglamento;
 
 II. Custodia y vigilancia de bienes o valores;
 
@@ -2109,11 +2177,15 @@ I. Queda estrictamente prohibida la realización de actividades que sean compete
 
 II. No deberán utilizar las denominaciones de "policía", "agentes", o "investigadores" en su publicidad, documentos o bienes, debiendo identificarse como elementos de seguridad privada. También queda prohibido a estos elementos usar el escudo nacional, del Estado o municipios, logotipos, lemas o uso de claves operativas para la comunicación de las instituciones de seguridad pública;
 
-III. Tendrán obligación de informar a la Secretaría de los movimientos administrativos de sus elementos;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+III. Tendrán obligación de informar a la Fiscalía General de los movimientos administrativos de sus elementos;
 
 IV. Deberán denunciar de inmediato al Ministerio Público cuando tengan conocimiento de la comisión de un delito;
 
-V. Para acreditar ante la Secretaria los elementos que integren los servicios de seguridad privada, deberán cumplir los requisitos que se establezcan para el ingreso a las instituciones de seguridad pública, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+V. Para acreditar ante la Fiscalía General los elementos que integren los servicios de seguridad privada, deberán cumplir los requisitos que se establezcan para el ingreso a las instituciones de seguridad pública; y
 
 VI. Los demás que señalen otras disposiciones legales aplicables.
 
@@ -2228,6 +2300,12 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales para emitir el reglamento a que hace referencia el artículo 64 Bis de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Decreto.
 
 ## Título Noveno. De los servicios de seguridad privada
 
