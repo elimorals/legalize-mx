@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-administracion-de-bienes-asegurados-o-89624"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-27"
-last_updated: "2012-09-27"
+last_updated: "2014-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS O ABANDONADOS PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y CUARTO TRANSITORIOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 27 de septiembre de 2012.
 
@@ -528,3 +530,17 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZALES ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá expedir el reglamento de la presente Ley y demás disposiciones administrativas e internas en un término no mayor de treinta días, a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Se abroga la Ley para la Administración de Bienes Asegurados o Abandonados para el Estado de Jalisco y sus Municipios, en los términos del artículo primero transitorio.
+
+QUINTO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto que se encuentren en trámite, continuarán su sustanciación, de conformidad con la legislación aplicable al momento de iniciados los mismos.
