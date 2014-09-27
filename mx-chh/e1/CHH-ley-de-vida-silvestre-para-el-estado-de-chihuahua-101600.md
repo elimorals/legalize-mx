@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vida-silvestre-para-el-estado-de-chihuahua-101600"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2014-06-21"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE VIDA SILVESTRE PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE VIDA SILVESTRE PARA EL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE SEPTIEMBRE DE 2014.]</small>
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -189,7 +189,9 @@ XIX. Biotopo: Territorio o espacio vital cuyas condiciones ambientales son las a
 
 XX. Caza: Dar muerte a un animal de fauna silvestre a través de medios permitidos.
 
-XI (SIC). Caza furtiva: La acción con cualquier fin que consiste en dar muerte a uno o varios ejemplares de fauna silvestre y a través de cualquier medio no permitido y sin permisos o licencias emitidos por la autoridad correspondiente.
+> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XXI. Caza furtiva: La acción con cualquier fin que consiste en dar muerte a uno o varios ejemplares de fauna silvestre y a través de cualquier medio no permitido y sin permisos o licencias emitidos por la autoridad correspondiente.
 
 XXII. Caza deportiva o actividad cinegética: La actividad que consiste en la búsqueda, persecución o acecho para dar muerte, a través de medios permitidos, a un ejemplar de fauna silvestre cuyo aprovechamiento haya sido autorizado con el propósito de obtener una pieza o trofeo.
 
@@ -535,9 +537,11 @@ En caso de empate en las votaciones, el Presidente tendrá voto de calidad para 
 
 El Ejecutivo del Estado expedirá el reglamento para la conformación y funcionamiento del Consejo, con base en lo dispuesto en este Capítulo.
 
+> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 44.
 
-El Consejo de (sic) renovará en su totalidad cada dos años; en caso de ausencia justificada o no justificada de sus miembros, entrarán en funciones los suplentes que correspondan.
+El Consejo se renovará en su totalidad cada dos años; en caso de ausencia justificada o no justificada de sus miembros, entrarán en funciones los suplentes que correspondan.
 
 Todos los cargos y posiciones dentro del Consejo serán de carácter estrictamente honorario.
 
@@ -705,9 +709,11 @@ I. Material biológico de vida silvestre de colecciones científicas o museográ
 
 II. Los artículos de uso personal, siempre y cuando no excedan de dos piezas del mismo producto.
 
+> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 75.
 
-La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la Ley General de Vida Silvestre, en el (sic) presente Ley y las disposiciones que de ellas se deriven.
+La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la Ley General de Vida Silvestre, en la presente Ley y las disposiciones que de ellas se deriven.
 
 #### Sección Única. Transporte y Comercio de Animales
 
@@ -997,7 +1003,9 @@ De igual forma, involucrará a los habitantes locales en la ejecución del progr
 
 La Secretaría identificará, a través de listas y catálogos, las especies o poblaciones en riesgo de conformidad con lo establecido en las normas oficiales mexicanas y las normas técnicas estatales correspondientes, señalando el nombre científico y el nombre común más utilizado de las especies, la información relativa a las poblaciones, tendencias y factores de riesgo, la justificación técnica-científica de la propuesta y la metodología empleada para obtener la información, para lo cual se tomará en consideración la información presentada por el Consejo que para tal efecto se expida.
 
-Las listas y catálogos respectivos serán revisados y, de ser necesario, actualizados cada tres años o antes si se presenta información suficiente para la inclusión, exclusión o cambio de categoría de alguna especie o población. Las listas y catálogos y sus actualizaciones indicarán el género, la familia, la especie y, en su caso, la subespecie y serán publicadas en la (sic) Periódico Oficial del Estado y en la Gaceta Ambiental del Estado que se elabore.
+> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Las listas y catálogos respectivos serán revisados y, de ser necesario, actualizados cada tres años o antes si se presenta información suficiente para la inclusión, exclusión o cambio de categoría de alguna especie o población. Las listas y catálogos y sus actualizaciones indicarán el género, la familia, la especie y, en su caso, la subespecie y serán publicadas en el Periódico Oficial del Estado y en la Gaceta Ambiental del Estado que se elabore.
 
 ###### Artículo 109.
 
@@ -1665,9 +1673,11 @@ En los casos en que no se pudiera identificar a los presuntos infractores de est
 
 ### Capítulo III. De la Denuncia Popular
 
+> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 192.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar, ante la Secretaría o ante la autoridad municipal competen, te (sic) todo acto u omisión que produzca o pueda producir daños a la vida silvestre.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar, ante la Secretaría o ante la autoridad municipal competente, todo acto u omisión que produzca o pueda producir daños a la vida silvestre.
 
 Si la denuncia fuera presentada ante la autoridad estatal o municipal y resulta del orden federal, deberá ser remitida de manera inmediata para su atención y trámite a la Procuraduría Federal de Protección al Ambiente.
 
