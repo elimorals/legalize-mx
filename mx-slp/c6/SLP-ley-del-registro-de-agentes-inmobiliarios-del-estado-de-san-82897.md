@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2011-08-06"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSI
+LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -47,9 +47,13 @@ LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público y de interés social; tienen por objeto la creación y el establecimiento de las normas y principios del Registro Estatal de Agentes Inmobiliarios.
+Las disposiciones de esta Ley son de orden público y de interés social y su observancia es obligatoria para todas las personas que obtengan la licencia para ejercer operaciones inmobiliarias; tiene por objeto regular las función (sic) de los agentes y asesores inmobiliarios dentro del Estado de San Luis Potosí, así como la creación y establecimiento de las normas y principios del Registro Estatal de Agentes Inmobiliarios.
+
+Las personas físicas que realicen operaciones inmobiliarias en bienes que sean de su propiedad, no estarán obligadas en los términos de la presente Ley. Esta exención aplica también a las personas morales cuya actividad comercial preponderante no sean operaciones inmobiliarias.
 
 ###### ARTICULO 2°.
 
@@ -57,13 +61,19 @@ Para los efectos de esta Ley se entiende por:
 
 I. Agentes Inmobiliarios: las personas físicas que realicen actividades de intermediación o corretaje de operaciones inmobiliarias, con licencia expedida por la Secretaría; así como las personas morales que lleven a cabo dichas actividades y que se encuentren inscritas en el Registro;
 
-II. Licencia: la autorización otorgada por la Secretaría a las personas físicas para realizar operaciones inmobiliarias en el Estado;
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-III. Operaciones inmobiliarias: las relacionadas con la compraventa, arrendamiento, fideicomiso o cualquier otro contrato traslativo de dominio, o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
+II. Asesor Inmobiliario: la persona física autorizada por una organización, empresa, asociación, sociedad mercantil o análoga debidamente constituida, y cuyo objeto social estipule la ejecución de operaciones de índole inmobiliaria y que ésta a su vez se encuentre inscrita en el apartado correspondiente a personas morales del Registro Estatal de Agentes Inmobiliarios;
 
-IV. Registro: el Registro Estatal de Agentes Inmobiliarios, y
+III. Licencia: la autorización otorgada por la Secretaría a las personas físicas para realizar operaciones inmobiliarias en el Estado;
 
-V. Secretaría: la Secretaría de Desarrollo Económico.
+IV. Operaciones inmobiliarias: las relacionadas con la compraventa, arrendamiento, fideicomiso o cualquier otro contrato traslativo de dominio, o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos;
+
+V. Registro: el Registro Estatal de Agentes Inmobiliarios, y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Secretaría: la Secretaría de Desarrollo Económico de Gobierno del Estado.
 
 ###### ARTICULO 3°.
 
@@ -95,9 +105,11 @@ VII. Establecer y operar un sistema de quejas o denuncias para usuarios respecto
 
 VIII. Vigilar también los derechos de los agentes inmobiliarios.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 5°.
 
-Cualquier persona podrá solicitar constancias e información contenidas en el Registro, previo pago de los derechos correspondientes.
+Cualquier persona podrá solicitar constancias e información contenidas en el Registro, el cual deberá estar disponible para su consulta pública en las oficinas de la Secretaría, y por internet.
 
 ### Capítulo II. De la Inscripción en el Registro, y la Obtención de la Licencia de los Agentes Inmobiliarios
 
@@ -133,11 +145,15 @@ f) Acreditar no contar con antecedes (sic) penales con motivo de la comisión de
 
 La inscripción en el Registro, y la licencia, tendrán una vigencia de tres años, contados a partir de la fecha en que se otorguen. En el caso de las personas físicas, una vez inscritas en el Registro, la Secretaría expedirá en forma simultánea la licencia respectiva. Sólo las personas físicas con la licencia emitida por la Secretaría para realizar operaciones inmobiliarias podrán ostentarse y anunciarse como “Agentes Inmobiliarios con Licencia Estatal”; en el caso de las personas morales se les denomina “Agentes Inmobiliarios con Registro”.
 
-### Capítulo III. De las Obligaciones de los Agentes Inmobiliarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+### Capítulo III. De las Obligaciones de los Agentes y Asesores Inmobiliarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 8°.
 
-Los agentes inmobiliarios tendrán las siguientes obligaciones:
+Tanto los agentes, como los asesores inmobiliarios, tendrán las siguientes obligaciones:
 
 I. Tramitar ante la Secretaría su inscripción en el Registro;
 
@@ -294,3 +310,15 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los agentes inmobiliarios que a la entrada en vigor del presente Decreto lleven a cabo operaciones inmobiliarias, deberán comparecer dentro de un plazo de ciento veinte días contados a partir de su vigencia, ante la Secretaría, para presentar solicitud de inscripción en el Registro.
+
+A partir del vencimiento del plazo señalado en el párrafo anterior, la Secretaría podrá llevar a cabo las sanciones conforme a lo dispuesto por la ley.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
