@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-extincion-de-dominio-para-el-estado-de-san-luis-69893"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-27"
-last_updated: "2012-04-21"
+last_updated: "2014-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2009.
 
@@ -57,9 +57,13 @@ II. Afectado: persona titular de los derechos de propiedad o posesión del bien 
 
 III. Bienes: todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles, y todo aquel derecho real o personal, sus objetos, frutos y productos, susceptibles de apropiación, que se encuentren en los supuestos señalados en el artículo 5° de esta Ley;
 
-IV. Delito(s): de conformidad con lo dispuesto en la fracción II del artículo 22 de la Constitución Federal, los delitos de, secuestro contemplado en los artículos, 135, 135 Bis, 135 Ter, 136, 137 Y 140; el de trata de personas contemplado en los artículos, 182, 182 Bis, 183, 184, 184 Bis, 187, 188, 188 Bis y 188 Ter; de robo de vehículos señalado en los artículos, 194 en relación con el 195 Bis y 200 fracción XVII, del Código Penal para el Estado de San Luis Potosí, aun cuando no se haya determinado quién o quiénes fueron sus autores, participaron en el o el grado de su intervención;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-V. Hecho ilícito: la acción u omisión que se adecue a las hipótesis descritas en los tipos penales señalados en la fracción anterior, de conformidad con lo dispuesto en la fracción II del artículo 22 de la Constitución Federal, en relación con el párrafo segundo del artículo 107 del Código de Procedimientos Penales para el Estado de San Luis Potosí. Para efectos de lo dispuesto por el artículo 8° fracción III, el cuerpo del delito deberá acreditarse en términos de lo establecido por el artículo 45 fracción III, de esta Ley;
+IV. Delito(s): de conformidad con lo dispuesto en la fracción II del artículo 22 de la Constitución Federal, en los delitos de, secuestro; trata de personas; robo de vehículos; y narcomenudeo, aun cuando no se haya determinado quién o quiénes fueron sus autores, participaron en él o el grado de su intervención;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+V. Hecho ilícito: la acción u omisión que se adecue a las hipótesis descritas en los tipos penales señalados en la fracción anterior;
 
 VI. Juez: órgano jurisdiccional competente;
 
@@ -75,19 +79,23 @@ XI. Secretaría de Finanzas: Secretaría de Finanzas del Gobierno del Estado;
 
 XII. Tercero: persona que, sin ser afectado en el procedimiento de extinción de dominio, comparece en el para deducir un derecho propio sobre los bienes materia de la acción, y
 
-XIII. Víctima u ofendido: aquéllos que tienen la pretensión de que se les reparare el daño, en los términos de los artículos 22 y 23 del Código Penal para el Estado, dentro del procedimiento de extinción de dominio y por los delitos que señala la fracción IV de este artículo.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Víctima u ofendido: aquéllos que tienen la pretensión de que se les reparare el daño, en los términos establecidos en el Código Penal para el Estado, dentro del procedimiento de extinción de dominio y por los delitos que señala la fracción IV de este artículo.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 3º.
 
-En los casos no previstos en esta Ley se estará a las siguientes reglas de supletoriedad:
+En los casos no previstos en esta Ley se atenderán las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código de Procedimientos Penales para el Estado de San Luis Potosí;
+I. En la preparación del ejercicio de la acción de extinción de dominio, a lo previsto en el Código Nacional de Procedimientos Penales;
 
-II. En el Procedimiento de extinción de dominio y medidas cautelares, a lo previsto en el Código de Procedimientos Civiles para el Estado de San Luis Potosí;
+II. En el procedimiento de extinción de dominio y medidas cautelares, a lo que dispone el Código de Procedimientos Civiles para el Estado de San Luis Potosí;
 
-III. En cuanto a los delitos y medidas cautelares, a lo previsto en los códigos, Penal, y de Procedimientos Penales para el Estado de San Luis Potosí, y
+III. En cuanto a los delitos y medidas cautelares, a lo previsto en los códigos, Penal del Estado de San Luis Potosí; y Nacional de Procedimientos Penales, y
 
-IV. En los aspectos relativos a la regulación de bienes u obligaciones, a lo previsto en el Código Civil para el Estado de San Luis Potosí.
+IV. En los aspectos relativos a la regulación de bienes u obligaciones, a lo que previene el Código Civil para el Estado de San Luis Potosí.
 
 ### Capítulo II. De la Acción de Extinción de Dominio
 
@@ -99,9 +107,13 @@ La acción de extinción de dominio es de naturaleza jurisdiccional, de carácte
 
 La acción es autónoma, distinta e independiente de cualquier otra de naturaleza penal que se haya iniciado simultáneamente, de la que se haya desprendido, o en la que tuviera origen, sin perjuicio de los terceros de buena fe.
 
-El ejercicio de la acción de extinción de dominio corresponde al agente del Ministerio Público, quien podrá desistirse de ésta en cualquier momento, hasta antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de Justicia del Estado. En los mismos términos podrá desistirse de la pretensión, respecto de ciertos bienes objeto de la acción de extinción de dominio.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los hechos ilícitos señalados en el artículo 5° de esta Ley, de conformidad con lo establecido en la sección primera y sección segunda del capítulo VII de la Parte General del Código Penal para el Estado de San Luis Potosí, excepto en el caso de los bienes que sean producto del delito, que será imprescriptible.
+El ejercicio de la acción de extinción de dominio corresponde al agente del Ministerio Público, quien podrá desistirse de ésta en cualquier momento, hasta antes de que se dicte sentencia definitiva, previo acuerdo del Fiscal General del Estado. En los mismos términos podrá desistirse de la pretensión, respecto de ciertos bienes objeto de la acción de extinción de dominio.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+A la acción de extinción de dominio se aplicarán las reglas de prescripción previstas para los hechos ilícitos señalados en el artículo 5º de esta Ley, de conformidad con lo establecido en la Parte General del Código Penal para el Estado de San Luis Potosí, excepto en el caso de los bienes que sean producto del delito, que será imprescriptible.
 
 La extinción de dominio no procederá sobre bienes decomisados por la autoridad judicial, en sentencia ejecutoriada.
 
@@ -121,15 +133,17 @@ El ejercicio de la acción de extinción de dominio se sustentará en la informa
 
 La muerte del o los probables responsables, no cancela la acción de extinción de dominio.
 
-###### ARTICULO 6°.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Los bienes sobre los que se declare la extinción de dominio mediante sentencia ejecutoriada, se aplicarán a favor del Gobierno del Estado de San Luis Potosí, y serán destinados, hasta donde alcancen, mediante acuerdo del Procurador con el titular del Ejecutivo del Estado, que se publique en el Periódico Oficial del Estado, conforme al orden de prelación siguiente:
+###### ARTICULO 6º.
 
-I. Para la reparación del daño causado a las víctimas u ofendidos por los delitos de secuestro, robo de vehículos, y trata de personas;
+Los bienes sobre los que se declare la extinción de dominio mediante sentencia ejecutoriada, se aplicarán a favor del Gobierno del Estado de San Luis Potosí, y serán destinados, hasta donde alcancen, mediante acuerdo del Fiscal General con el titular del Ejecutivo del Estado, que se publique en el Periódico Oficial del Estado, conforme al orden de prelación siguiente:
 
-II. Para el tratamiento médico-psicológico a las víctimas u ofendidos y familiares, y
+I. Para la reparación del daño causado a las víctimas u ofendidos por los delitos de, secuestro; trata de personas; robo de vehículos, y narcomenudeo;
 
-III. Para acciones de bienestar social.
+II. Para la asistencia y atención a las víctimas u ofendidos, y
+
+III. Para acciones de beneficio social.
 
 ###### ARTICULO 7°.
 
@@ -323,15 +337,19 @@ Recibidas las copias certificadas de las constancias ministeriales, los autos de
 
 Si los bienes se encuentran a disposición de alguna otra autoridad, le informará al respecto. Efectuará el inventario de los bienes cuando no exista constancia de su realización, y solicitará las medidas cautelares necesarias previstas en el capítulo III de esta Ley.
 
-Para la etapa de preparación de la acción, el agente del Ministerio Público tiene un plazo de sesenta días hábiles, contados a partir de la recepción de las constancias. Este plazo se podrá ampliar por el tiempo estrictamente necesario para la preparación de la acción, por acuerdo debidamente fundado y motivado del Procurador General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Para la etapa de preparación de la acción, el agente del Ministerio Público tiene un plazo de sesenta días hábiles, contados a partir de la recepción de las constancias. Este plazo se podrá ampliar por el tiempo estrictamente necesario para la preparación de la acción, por acuerdo debidamente fundado y motivado del Fiscal General del Estado.
 
 ###### ARTICULO 31.
 
 Si requiere información o documentos que obren en las instituciones a que hace referencia el artículo 22 de esta Ley, el agente del Ministerio Público solicitará al juez, por cualquier medio, que haga el pedimento correspondiente. El juez desahogará de inmediato la solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 32.
 
-En caso de que el agente del Ministerio Público determine ejercitar la acción, previo acuerdo con el Procurador General de Justicia o subprocurador en quien delegue dicha facultad, formulará la demanda dentro de las veinticuatro horas siguientes, que deberá contener cuando menos:
+En caso de que el agente del Ministerio Público determine ejercitar la acción, previo acuerdo con el Fiscal General del Estado, o subprocurador en quien delegue dicha facultad, formulará la demanda dentro de las veinticuatro horas siguientes, que deberá contener cuando menos:
 
 I. El juez competente ante quien promueve;
 
@@ -369,13 +387,15 @@ X. La petición para que se declare en la sentencia correspondiente, la extinci�
 
 XI. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 33.
 
-En los casos en que el agente del Ministerio Público determine la improcedencia de la acción. Deberá someter su resolución a la revisión del Procurador General de Justicia del Estado, o del subprocurador en quien delegue esa facultad.
+En los casos en que el agente del Ministerio Público determine la improcedencia de la acción, deberá someter su resolución a la revisión del Fiscal General del Estado, o del funcionario en quien delegue esa facultad.
 
-El Procurador General de Justicia del Estado, o el subprocurador en quien delegue esa facultad, analizará los argumentos de la resolución de improcedencia, y decidirá en definitiva si debe ejercitarse la acción ante el juez.
+El Fiscal General del Estado, o el funcionario en quien delegue esa facultad, analizará los argumentos de la resolución de improcedencia, y decidirá en definitiva si debe ejercitarse la acción ante el juez.
 
-El agente del Ministerio Público podrá desistirse de la acción en cualquier momento, hasta antes del cierre de la instrucción, cuando lo acuerde con el visto bueno del Procurador General de Justicia del Estado, o del subprocurador en quien delegue esa facultad. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción. En ambos casos pagará costas, en los términos del artículo 34 del Código de Procedimientos Civiles para el Estado de San Luis Potosí.
+El agente del Ministerio Público podrá desistirse de la acción en cualquier momento, hasta antes del cierre de la instrucción, cuando lo acuerde con el visto bueno del Fiscal General del Estado, o del funcionario en quien delegue esa facultad. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción. En ambos casos pagará costas, en los términos del artículo 34 del Código de Procedimientos Civiles para el Estado de San Luis Potosí.
 
 ### Capítulo IX. De las Notificaciones
 
@@ -455,7 +475,9 @@ El escrito de contestación de demanda deberá contener las excepciones y defens
 
 En el escrito de contestación se deberán ofrecer las pruebas, debiendo exhibir las que estén a su disposición o señalar el archivo donde se encuentren. En todo caso, las pruebas deberán ser desahogadas en la audiencia a que se refiere el artículo 51 de esta Ley.
 
-El demandado o los terceros que lo requieran, en su caso, podrán ser asesorados y representados por asesores jurídicos de la Coordinación General de la Defensoría Social y de Oficio, en los términos que establezca la Ley de Defensoría Social del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+El demandado o los terceros que lo requieran, en su caso, podrán ser asesorados y representados por asesores jurídicos de la Coordinación General de la Defensoría Pública, en los términos que establezca la Ley de Defensoría Pública del Estado de San Luis Potosí.
 
 ###### ARTICULO 41.
 
@@ -617,11 +639,11 @@ Para efectos de la actuación de la Secretaría de Finanzas, y de la Oficialía 
 
 Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, el juez ordenará su ejecución. El valor de realización de los bienes y sus frutos, cuyo dominio haya sido declarado extinto, mediante sentencia ejecutoriada se destinará, hasta donde alcance, conforme al orden de prelación a que se refiere el artículo 6° de esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Los recursos correspondientes se depositarán por la Secretaría de Finanzas, en el Fondo de Apoyo a Víctimas Directas y Colaterales, para su aplicación en términos del artículo 6° de este Ordenamiento.
+Los recursos correspondientes se depositarán por la Secretaría de Finanzas, en el Fondo de Ayuda, Asistencia y Reparación Integral, para su aplicación en términos del artículo 6º de este Ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 El destino del valor de realización de los bienes y sus frutos a que se refiere este artículo, se sujetará a reglas de transparencia y, con independencia de su revisión por los órganos de control del Poder Ejecutivo Estatal, será fiscalizado por la Auditoría Superior del Estado.
 
@@ -635,15 +657,15 @@ Cuando la sentencia de extinción de dominio se emita de manera previa a la del 
 
 El agente del Ministerio Público deberá, en su caso, representar los intereses de quien se conduzca como víctima u ofendido, por los hechos ilícitos y respecto de los bienes a que se refieren, respectivamente, los artículos 5° y 7° de esta Ley, y por los que se ejercitó la acción de extinción de dominio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-### Capítulo XIII. Del Fondo de Apoyo a Víctimas Directas y Colaterales
+### Capítulo XIII. Del Fondo de Apoyo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 69.
 
-Con los recursos a que se refiere el artículo 67 de esta Ley, se constituirá el Fondo de Apoyo a Víctimas Directas y Colaterales, cuya operación será coordinada por la Procuraduría General de Justicia del Estado, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el artículo 6° de este Ordenamiento, en los términos del artículo siguiente.
+Con los recursos a que se refiere el artículo 67 de esta Ley, se constituirá el Fondo de Apoyo, cuya operación será coordinada por la Fiscalía General del Estado, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el artículo 6º de este Ordenamiento, en los términos del artículo siguiente.
 
 En ningún caso los recursos a que se refiere el párrafo anterior podrán ser utilizados en gasto corriente o pago de salarios.
 
@@ -764,3 +786,11 @@ P.O. 21 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En tanto se reforman las leyes respectivas, se entenderá que la referencia hecha en esta Ley al Fiscal General del Estado, es el equivalente a la de Procurador General de Justicia del Estado; así mismo, la referencia a la Defensoría Pública del Estado que en la misma se establece, será equivalente a la Coordinación General de la Defensoría Social y de Oficio.
