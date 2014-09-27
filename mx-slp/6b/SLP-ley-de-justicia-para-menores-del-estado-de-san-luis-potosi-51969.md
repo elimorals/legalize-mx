@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2013-06-18"
+last_updated: "2014-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -55,17 +55,61 @@ II. Las personas a quienes se atribuya o compruebe la realización de una conduc
 
 III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 2°.
 
-Esta Ley tiene por objeto:
+Son objetivos específicos de esta Ley:
 
-I. Establecer las atribuciones y facultades de las autoridades y órganos encargados de su aplicación;
+I. Establecer los principios rectores del sistema integral de justicia para menores, y garantizar su plena observancia;
 
-II. Establecer los procedimientos y mecanismos para determinar la participación del menor, en la comisión de conductas tipificadas como delitos;
+II. Reconocer los derechos y garantías de las personas sujetas al sistema y garantizar su efectivo respeto;
 
-III. Regular la aplicación de medidas para la incorporación a la sociedad, de las y los menores sujetos a las mismas, y
+III. Establecer las atribuciones y facultades de las autoridades y órganos encargados de su aplicación;
 
-IV. Proteger y salvaguardar los derechos de las y los menores imputados, así como de las víctimas u ofendidos por la conducta atribuida al menor.
+IV. Establecer los procedimientos y mecanismos para determinar la participación del menor, en la comisión de conductas tipificadas como delitos;
+
+V. Regular la aplicación de medidas para la incorporación a la sociedad, de las y los menores sujetos a las mismas, y
+
+VI. Proteger y salvaguardar los derechos de las y los menores imputados, así como de las víctimas u ofendidos por la conducta atribuida al menor.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+ARTICULO 2° BIS. Son principios rectores del Sistema, en forma enunciativa, más no limitativa, los siguientes:
+
+I. Interés superior de la, o el menor: se funda en la dignidad misma del ser humano, en las características propias de las y los menores, y en la necesidad de propiciar el desarrollo de éstos, con pleno aprovechamiento de sus potencialidades así como en la naturaleza y alcances previstos en los instrumentos internacionales, garantizando que toda medida que el Estado tome frente a ellos, cuando realizan conductas tipificadas como delito en el Código Penal del Estado, o en otros ordenamientos que así las contemplen, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de las o los menores y de restringir los efectos negativos de su sujeción a un sistema que en esencia tiene un carácter sancionatorio.
+
+Para determinar el interés superior en una situación concreta se deberá valorar, la opinión de la o el menor; la necesidad de equilibrio entre los derechos y garantías de éste con sus deberes; las exigencias del bien común; y los derechos de la víctima u ofendido;
+
+II. Presunción de inocencia: se sustenta en la consideración elemental de que toda persona tiene derecho a ser estimada como no responsable de la conducta que se le atribuye en tanto no se le pruebe lo contrario, según lo establece la Constitución;
+
+III. Transversalidad: establece que en la interpretación y aplicación de la ley, se tomará en cuenta la totalidad de los derechos que concurren en la, o el menor, ya sea por ser indígena; mujer; con discapacidad; trabajador, o cualquiera otra condición que resulte contingente en el momento en el que sucedieron los hechos imputados o aquél en el que se aplica el sistema integral de justicia para menores en cualquiera de sus fases, de conformidad con lo que establecen la Constitución y las leyes;
+
+IV. Certeza jurídica: determina que las conductas atribuidas a los adolescentes deben encontrarse previstas en el Código Penal del Estado, o en las leyes;
+
+V. Mínima intervención: consiste en la adopción de medidas para tratar a las o los menores sin recurrir a procedimientos judiciales, en el entendido de que se respetarán plenamente sus derechos humanos y garantías legales. En los casos en que sea inevitable que se sujeten a un procedimiento judicial y se proceda a imponer las medidas que se prevén en esta Ley, se procurará que las o los menores, sean expuestos lo menos posible y sólo de ser necesario, a ambientes hostiles, cuando deban comparecer frente a autoridades o deban estar en los lugares de detención;
+
+VI. Subsidiariedad: establece que previo al sometimiento de la o el menor al sistema integral de justicia para menores, deberá privilegiarse la aplicación de medidas preventivas o alternativas;
+
+VII. Especialización: se refiere a que desde el inicio del proceso, todas las actuaciones y diligencias estarán a cargo de órganos especializados en materia de justicia para menores;
+
+VIII. Inmediatez y celeridad procesal: garantiza que los procesos en los que están involucrados menores, se realicen sin demora y con la menor duración posible;
+
+IX. Flexibilidad: consiste en que la autoridad tiene la posibilidad de suspender el proceso en cualquier momento en beneficio de la, o el menor;
+
+X. Protección integral de los derechos de la, o el menor: señala que en todo momento las autoridades del sistema deberán respetar y garantizar la protección de los derechos de la, o el menor, sujetos al mismo;
+
+XI. Reintegración social y familiar de la o el menor: consiste en que las medidas que se tomen al sancionar a un menor deben estar dirigidas a que se reintegre lo antes posible al núcleo familiar y social en el que se desarrollaba, en consecuencia, la duración de la sanción debe ser determinada por la autoridad competente sin excluir la posibilidad de que la, o el menor, sea puesto en libertad antes de ese tiempo, cuando se decida como último recurso su internamiento. Asimismo debe promoverse en la, o el menor, su sentido de responsabilidad e infundirle actitudes y conocimientos que le ayuden a desarrollar sus posibilidades como miembro de la sociedad;
+
+XII. Justicia restaurativa: comprende a la víctima u ofendido, a la, o el menor, y a la comunidad con el objetivo de buscar soluciones a las consecuencias del conflicto generado por la conducta prevista como delito, con el fin de promover la reparación del daño, la conciliación entre las partes y el fortalecimiento del sentido colectivo de seguridad;
+
+XIII. Proporcionalidad: establece que al momento de determinarse las medidas que habrán de imponerse a las, o los menores, deberán aplicarse aquéllas que sean acordes con la reintegración social y familiar de los mismos, lo que se logrará a través del establecimiento de medidas de distinta naturaleza cuya imposición y ejecución debe ser por el tiempo más breve que proceda para alcanzar el fin pretendido, y
+
+XIV. Inmediación: establece que las audiencias en el procedimiento deberán ser presididas por el Juez o Magistrado para Menores, sin que en modo alguno pueda delegarse esta función.
+
+Los derechos y garantías reconocidos en esta Ley, se aplicarán a todos los sujetos de la misma, sin discriminación alguna por razones de origen étnico o nacional, género, edad, capacidades diferentes, condición social o de salud, religión, opinión, preferencia sexual, estado civil o por cualquier otro motivo análogo ya sea propio o de sus padres, familiares u otras personas responsables o que los tengan bajo su cuidado.
+
+Se respetará en todas las etapas del proceso el derecho de las, o los menores a la intimidad.
 
 ###### ARTICULO 3°.
 
@@ -109,11 +153,13 @@ XV. Sala Competente: a la designada competente por el Consejo de la Judicatura, 
 
 XVI. Sistema: al Sistema Integral de Justicia para Menores, aplicable a las personas entre doce años cumplidos y menos de dieciocho años de edad, responsables de la comisión de conductas tipificadas como delito, en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 4º.
 
-Esta Ley debe aplicarse e interpretarse atendiendo a que el procedimiento favorezca los intereses del menor.
+Esta Ley debe aplicarse e interpretarse atendiendo a que el procedimiento favorezca los intereses de la, o el menor.
 
-Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente el Código Penal del Estado de San Luis Potosí, y el Código de Procedimientos Penales para el Estado de San Luis Potosí, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los menores.
+Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente el Código Penal del Estado de San Luis Potosí, y el Código Nacional de Procedimientos Penales; siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de las, o los menores.
 
 ###### ARTICULO 5º.
 
@@ -147,7 +193,9 @@ V. Que la carga de la prueba la tenga su acusador;
 
 VI. Ser defendidos en igualdad de circunstancias respecto de quien se constituya como víctima u ofendido;
 
-VII. Hacerse representar preferentemente por un defensor de oficio o particular que posea cédula profesional que lo acredite como abogado o licenciado en derecho, o por persona de su confianza;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Hacerse representar por un defensor de oficio para menores, o particular que posea cédula profesional que lo acredite como abogado o licenciado en derecho;
 
 VIII. Ser informados, en un lenguaje claro y accesible, sin demora y personalmente, o a través de sus padres, tutores, quienes ejerzan la patria potestad o la custodia, o representantes legales, sobre las razones por las que se les detiene, juzga o impone una medida; la persona o autoridad que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento; que podrán disponer de defensa jurídica gratuita y todo aquello que interese respecto de su sujeción al Sistema;
 
@@ -295,11 +343,15 @@ Para el logro de los objetivos de esta Ley, las autoridades locales colaborarán
 
 La violación de derechos y garantías de los menores es causa de nulidad del acto en el que ocurra, y determinará la responsabilidad del o los funcionarios públicos y servidores implicados, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás disposiciones aplicables.
 
-### CAPITULO II. De la Policía Ministerial y de las Preventivas Estatal y Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO II. De los Cuerpos de Seguridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 21.
 
-Los agentes de la policía ministerial y de las preventivas estatal y municipal, que en el ejercicio de sus funciones tengan contacto con niñas, niños o menores presuntamente involucrados en conductas tipificadas como delito, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
+Los elementos de seguridad, que en el ejercicio de sus funciones tengan contacto con niñas, niños o menores presuntamente involucrados en conductas tipificadas como delito, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
 
 I. Apegarse a los principios, derechos y garantías previstos en esta Ley, en la Constitución Federal, en los tratados internacionales aplicables en la materia, en la Constitución Estatal, en la Ley sobre los Derechos de Niñas, Niños y Adolescentes, y demás ordenamientos aplicables;
 
@@ -317,9 +369,11 @@ VI. Salvaguardar la vida, la dignidad e integridad física de niñas, niños y m
 
 VII. Guardar secrecía de todo asunto relacionado con niñas, niños y menores, impidiendo su publicidad y exhibición pública.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 22.
 
-La contravención a los deberes de los agentes de las policías ministerial, y preventivas estatal y municipales, será sancionada en los términos de las disposiciones aplicables.
+La contravención a los deberes de los cuerpos de seguridad, será sancionada en los términos de las disposiciones aplicables.
 
 ### CAPITULO III. Atribuciones de la Dirección General de Ejecución de Medidas para Menores, y de los Directores de los Centros de Internamiento y de Reeducación
 
@@ -439,9 +493,13 @@ IX. Las demás que determinen las disposiciones legales aplicables en la materia
 
 El proceso para menores tiene como objetivo establecer la existencia jurídica de una conducta tipificada como delito en el Código Penal del Estado de San Luis Potosí y en las leyes estatales; determinar la autoría o participación de una conducta tipificada como delito en las leyes, el grado de responsabilidad y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 27.
 
-La detención provisional e internamiento de menores deberá evitarse y limitarse a circunstancias excepcionales, debiéndose aplicar medidas cautelares y definitivas menos gravosas siempre que sea posible. Las medidas de internamiento serán aplicadas cuando se trate de la comisión de conductas consideradas como graves en esta Ley.
+La detención provisional e internamiento de menores deberá evitarse y limitarse a circunstancias excepcionales, debiéndose aplicar medidas cautelares y definitivas menos gravosas siempre que sea posible.
+
+Las medidas de internamiento serán aplicadas cuando se trate de la comisión de conductas tipificadas como delito, a las que alude el artículo 167 del Código Nacional de Procedimientos Penales.
 
 ###### ARTICULO 28.
 
@@ -475,13 +533,31 @@ Si en el transcurso del proceso se comprueba que la persona a quien se le imputa
 
 Si en un hecho intervienen uno o varios menores con uno o varios adultos, las causas se separarán y las autoridades especializadas para menores conocerán de lo que corresponda, con plena autonomía de jurisdicción.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 33.
 
-La prescripción opera en siete años para el caso de conductas que constituyan delitos perseguibles de oficio, y en un año para el caso de aquéllos de querella necesaria.
+La prescripción opera en siete años para el caso de conductas que constituyan delitos que se persigan de oficio, y en un año para el caso de aquéllos de querella necesaria.
+
+Los términos para la prescripción de la acción serán continuos y empezarán a correr:
+
+I. En la conducta tipificada como delito instantáneo, a partir del momento en que se consumó;
+
+II. En la conducta tipificada como delito en grado de tentativa, a partir del día en que se realizó el último acto de ejecución o se omitió la conducta debida;
+
+III. En la conducta tipificada como delito continuado, desde el día en que se realizó la última conducta, y
+
+IV. En la conducta tipificada como delito permanente, cuando cese su consumación.
+
+La prescripción correrá, se suspenderá o se interrumpirá, en forma individual, para cada uno de los sujetos que intervinieron en la conducta tipificada como delito.
+
+En caso de que la, o el menor esté sujeto a proceso por la comisión de varias conductas típicas, las sanciones que resulten prescribirán separadamente en el término señalado para cada una.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 34.
 
-Cuando el menor sujeto a una medida de internamiento se sustraiga de la propia medida, se necesitará para la prescripción, el mismo tiempo que faltaba para cumplirla, más la mitad. En este caso el plazo para la prescripción no podrá ser inferior de un año.
+Cuando la, o el menor que esté sujeto a una medida de internamiento se sustraiga de la propia medida, se necesitará para la prescripción, el mismo tiempo que faltaba para cumplirla, más la mitad. En este caso el plazo para la prescripción no podrá ser menor de un año.
 
 ### CAPITULO II. Investigación y Formulación de la Remisión
 
@@ -657,9 +733,11 @@ El incumplimiento de lo prescrito en este artículo dará lugar a las responsabi
 
 #### Sección II. Del Juicio
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 52.
 
-Por regla general, el juicio se desahogará de manera escrita y formal, atendiendo a la supletoriedad del Código de Procedimientos Penales para el Estado de San Luis Potosí.
+El juicio se desahogará de manera oral y formal, privilegiando en todo momento la inmediación, inmediatez y celeridad procesal del juzgador en las actuaciones, atendiendo a la supletoriedad del Código Nacional de Procedimientos Penales; y el Código de Procedimientos Penales para el Estado de San Luis Potosí.
 
 ###### ARTICULO 53.
 
@@ -729,63 +807,51 @@ Los procedimientos alternativos al juzgamiento responden a los principios de sub
 
 #### Sección I. Conciliación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 60.
 
-La conciliación como acto jurídico voluntario realizado entre el menor y la víctima u ofendido, consiste en un acuerdo de voluntades que deberá ser aprobado por el Ministerio Público para Menores o por el Juez Especializado correspondiente, según la etapa procesal en que se encuentre el asunto.
+La conciliación es el procedimiento mediante el cual un tercero imparcial, denominado conciliador, facilita la comunicación entre las partes que se encuentran involucradas en un conflicto, que sin emitir juicio o resolución con respecto al fondo del asunto, elabora propuestas o presenta diversas alternativas de solución, para que éstas, por sí mismas, a través de la autocomposición identifiquen opciones reales de alternativas viables para dirimir su controversia y así, lleguen a un acuerdo justo, razonable y que ofrezca soluciones de mutua satisfacción.
 
-Durante todo el desarrollo de la conciliación, el menor y la víctima u ofendido deberán ser asistidos por su defensor y el Ministerio Público para Menores, respectivamente.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-La conciliación se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+La mediación es el procedimiento mediante el cual un tercero imparcial, denominado mediador, facilita la comunicación entre las partes que se encuentran involucradas en un conflicto, para que éstas, por sí mismas, a través de la autocomposición, identifiquen opciones reales de alternativas viables para dirimir su controversia y así, lleguen a un acuerdo justo, razonable y que ofrezca soluciones de mutua satisfacción
 
-###### ARTICULO 60.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-La conciliación como acto jurídico voluntario realizado entre el menor y la víctima u ofendido, consiste en un acuerdo de voluntades que deberá ser aprobado por el Juez Especializado correspondiente.
+Los mecanismos de medicación y conciliación se desarrollarán en los términos de la Ley de Solución de Controversias en Materia Penal para el Estado de San Luis Potosí.
 
-Durante todo el desarrollo de la conciliación, el menor y la víctima u ofendido deberán ser asistidos por su defensor y el Ministerio Público para Menores, respectivamente.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-La conciliación se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Para conciliar se podrá recurrir al asesoramiento y al auxilio de personas o entidades especializadas, en la procuración de acuerdos entre las partes en conflicto.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Los conciliadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes.
-
-El Juez Especializado no aprobará la conciliación cuando tenga fundados motivos para estimar que alguno de los participantes, no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
-
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2011)</small>
-
-La conciliación puede realizarse en cualquier momento, desde que el menor es puesto a disposición del Ministerio Público para Menores y hasta antes de que el Juez Especializado dicte sentencia.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 61.
 
-Sólo procederá la conciliación cuando se trate de conductas tipificadas en las leyes como delito, que se persigan a petición de parte, o bien, en las que persiguiéndose de oficio, sean de carácter patrimonial y no ameriten medidas de internamiento, siempre que se garantice la reparación del daño.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 62.
 
-En los casos de conductas tipificadas en la ley como delito, perseguibles por querella, o en los que persiguiéndose de oficio sean de carácter patrimonial y no ameriten medidas de internamiento, es obligación del Ministerio Público para Menores proponer y, en su caso, realizar la conciliación. En los demás casos, esta alternativa al juzgamiento se realizará ante el Juez Especializado que corresponda y siempre a petición de parte.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 63.
 
-La conciliación puede realizarse en cualquier momento, desde que el menor es puesto a disposición del Ministerio Público para Menores y hasta antes de que se dicte sentencia de primera instancia.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 64.
 
-En apego estricto a los plazos acordados por las partes y los determinados por la autoridad frente a la que se comprometió el acuerdo conciliatorio, debe suspenderse el procedimiento mientras esté pendiente su cumplimiento.
-
-El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá la prescripción de la remisión.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 65.
 
-El acuerdo conciliatorio no implica ni requiere el reconocimiento por parte del menor, de haber realizado la conducta que se le atribuye.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ###### ARTICULO 66.
 
-Si el menor cumpliera con todas las obligaciones contenidas en el acuerdo conciliatorio, la autoridad correspondiente debe resolver la terminación del procedimiento y ordenará su archivo definitivo o el sobreseimiento. En caso de incumplimiento de dichas obligaciones, el procedimiento ordinario continuará a partir de la última actuación que conste en el registro.
-
-El acuerdo conciliatorio tendrá el carácter de título ejecutivo únicamente en lo relativo a la reparación del daño, dejándose a salvo los derechos de la víctima o del ofendido para hacerlo valer ante los tribunales competentes, en cuyo caso el procedimiento relativo ya no incluiría lo relativo a la reparación del daño.
-
-No se podrá invocar, dar lectura, ni incorporar como medio de prueba, ningún antecedente que tenga relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de un procedimiento de conciliación.
+(DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 #### Sección II. Suspensión del Proceso a Prueba
 
@@ -1203,139 +1269,77 @@ Los espacios destinados al cumplimiento de esta medida deben estar totalmente se
 
 #### Sección III. Internamiento Definitivo
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 117.
 
-La medida de internamiento definitivo es la más severa prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los menores sólo mediante orden escrita de autoridad judicial competente. Esta medida sólo se puede imponer a quienes tengan, o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años de edad; y hayan cometido alguna de las siguientes conductas tipificadas como delitos en el Código Penal del Estado:
+La medida de internamiento definitivo es la más severa prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir las, o los menores sólo mediante orden escrita de autoridad judicial competente. Esta medida sólo se puede imponer a quienes tengan, o hayan tenido, al momento de realizar la conducta, una edad de entre catorce años cumplidos y menos de dieciocho años de edad; y hayan cometido alguna de las conductas tipificadas como delito, a las que alude el artículo 167 del Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+I. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-I. Homicidio por culpa previsto en el artículo 64;
+II. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+III. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-II. Homicidio simple intencional, al que se refiere el artículo 107;
+IV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+V. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-III. Feminicidio que prevé el artículo 114 Bis;
+VI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+VII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-IV. Homicidio calificado, a que se refiere el artículo 123;
+VIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+IX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-V. Parricidio, previsto por el artículo 127;
+X. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-VI. Aborto, a que se refiere el artículo 128;
+XII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-VII. Ataque peligroso, que prevé el artículo 131;
+XIV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-VIII. Privación ilegal de la libertad, a que se refiere el artículo 134;
+XVI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XVII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-IX. Secuestro, previsto por los artículos, 135, 135 Bis, 135 Ter y 136;
+XVIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XIX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-X. Desaparición forzada de personas, previsto en el párrafo tercero del artículo 136 Quinque;
+XX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XI. Robo de Infante, previsto por el artículo 137;
+XXII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XII. Tráfico de menores, a que se refiere el artículo 140;
+XXIV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XIII. Asalto, previsto por los artículos 144 y 145;
+XXVI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXVII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XIV. Exposición al peligro, que señala el artículo 147 Bis;
+XXVIII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXIX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XV. Uso ilícito de equipos de radiocomunicación, previsto en el artículo 147 Ter;
+XXX. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+XXXI. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-XVI. Abuso sexual calificado, a que se refiere el artículo 148;
+XXXII. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XVII. Violación, a que se refiere los artículos, 150, 152, 153 y 154;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XVIII. Corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previstas en los artículos, 179 Bis, 180 y 180 Bis;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XIX. Pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, a que se refieren los artículos, 182 y 182 Bis;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XX. Turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previsto en el artículo 183;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXI. Lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, a que se refieren los artículos 184 y 184 Bis;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXII. Trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo, previsto en los artículos, 187 y 188;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXIII. Lenocinio y trata de personas, previstos en los artículos, 188 Bis, 188 Ter y 188 Quáter;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXIV. Robo equiparado, a que se refiere el artículo 195 Bis;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXV. Robo calificado, que señala el artículo 200, excepto en los casos de las fracciones, II (cuando se cometa en casa habitación y el valor de lo robado exceda de cien veces el salario mínimo vigente) y XII;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXVI. Extorsión, previsto en los artículos, 212, y 212 Bis en el párrafo segundo;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXVII. Abigeato, a que se refieren los artículos, 216, 219 y 221;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXVIII. Motín, previsto en los artículos, 249 y 250;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXIX. Asociación delictuosa, previsto en los artículos, 265 y 266;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXX. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299;
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXXI. Narcomenudeo, previsto en los artículos, 325 y 326, y
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-XXXII. Las demás conductas tipificadas como delitos graves por la legislación penal del Estado.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 El plazo de internamiento que podrá aplicarse a los menores será desde seis meses, hasta el equivalente al tiempo de la pena mínima de prisión que señale el Código Penal del Estado, para cada uno de los delitos enunciados. En ningún caso, la medida de internamiento excederá de dieciocho años.
 
@@ -1343,7 +1347,11 @@ El plazo de internamiento que podrá aplicarse a los menores será desde seis me
 
 La medida de internamiento definitivo deberá cumplirse en el Centro de Internamiento o en el Anexo del Centro de Reinserción, según corresponda. Los mayores de dieciocho años deberán cumplir la medida de internamiento en lugar separado de los menores.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
+
 En caso de que el menor durante el cumplimiento de la medida que le haya sido impuesta o hasta dos años posteriores a la conclusión del mismo, cometiere una nueva conducta tipificada como delito en las leyes, no será sujeto de los beneficios, adecuaciones, o cumplimientos anticipados que eventualmente pudieran actualizarse.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2011)</small>
 
 La tentativa punible de las conductas que señalan las fracciones anteriores, no será considerada como conducta grave.
 
@@ -1860,3 +1868,11 @@ P.O. 18 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este decreto entrará en vigor el treinta de septiembre de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Respecto a la supletoriedad del Código de Procedimientos Penales para el Estado de San Luis Potosí, los procesos iniciados con anterioridad a la entrada en vigor de este Decreto que se encuentren en trámite, deberán ser desahogados y concluidos de acuerdo a las normas y procedimientos establecidos en el Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, como Decreto Legislativo 572, el treinta de septiembre del año dos mil.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
