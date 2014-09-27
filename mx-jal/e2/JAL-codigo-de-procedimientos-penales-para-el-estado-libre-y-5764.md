@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2014-04-11"
+last_updated: "2014-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -4179,9 +4179,11 @@ P.O. 11 DE ABRIL DE 2014.
 
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
 
-###### ARTICULO PRIMERO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Se declara incorporado al orden jurídico del Estado de Jalisco, el Sistema Penal Acusatorio consagrado en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el cual entrará en vigor para todos los delitos previstos por el Código Penal para el Estado Libre y Soberano de Jalisco y la Ley Estatal para Prevenir y Sancionar la Tortura, en los municipios del Estado de conformidad con lo dispuesto en este artículo, y en consecuencia, los derechos y las garantías que consagra dicha Constitución empezarán a regular la forma y términos en que se substanciarán los procedimientos penales:
+###### ARTÍCULO PRIMERO.
+
+Se declara incorporado al orden jurídico del Estado de Jalisco, el Sistema Penal Acusatorio consagrado en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, el cual entrará en vigor para los delitos previstos por el Código Penal para el Estado Libre y Soberano de Jalisco, la Ley Estatal para Prevenir y Sancionar la Tortura, y los señalados en las leyes generales de conformidad con el artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, en los municipios del Estado en los términos establecidos en este artículo, y en consecuencia, los derechos y las garantías que consagra dicha Constitución empezarán a regular la forma y términos en que se substanciarán los procedimientos penales:
 
 I. 1 de octubre de 2014: Amacueca, Atemajac de Brizuela, Jilotlán de Dolores, Gómez Farías, San Gabriel, Sayula, Tapalpa, Techaluta de Montenegro, Tecalitlán, Tamazula de Gordiano, Tonila, Tuxpan, Zacoalco de Torres, Zapotiltic, Zapotitlán de Vadillo, Zapotlán el Grande, Pihuamo, Santa María del Oro, Quitupan, Atoyac.
 
@@ -4218,3 +4220,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Antes del 1 de octubre de 2014 se deberán publicar las reformas a las leyes y demás normatividad complementaria que resulten necesarias para la implementación del Sistema Penal Acusatorio.
 
 TERCERO. Remítase copia de la presente declaratoria al H. Congreso de la Unión, a las legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, a los Poderes Ejecutivo y Judicial de la Federación, así como a los del Estado de Jalisco.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
