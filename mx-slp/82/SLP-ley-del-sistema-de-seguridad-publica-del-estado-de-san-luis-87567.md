@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2013-10-15"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -87,6 +87,14 @@ VIII. Elemento de seguridad pública: Los integrantes de los cuerpos de segurida
 
 IX. Instituciones de seguridad pública: instituciones policiales, de procuración de justicia, del sistema penitenciario, y dependencias encargadas de la seguridad pública a nivel local y municipal;
 
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IX. BIS Policía Investigadora: es el cuerpo de seguridad integrado por elementos de seguridad pública facultados para la investigación de delitos que, en el ámbito de su competencia, actúan bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, y el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IX. TER. Policía Procesal: son los elementos de seguridad al mando de la Secretaría o de la Dirección; los que estarán, en todos los casos, facultados para la atención de requerimientos del Ministerio Público, o del Poder Judicial, en el desahogo de investigación de delitos y de cualquier acción relacionada con el proceso penal acusatorio adversarial, de conformidad con lo que establece el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables al caso;
+
 X. Presidente: presidente municipal en los ayuntamientos de la Entidad;
 
 XI. Registro Estatal: banco de datos del personal de las instituciones de seguridad publica;
@@ -137,7 +145,9 @@ IV. El Director General de Seguridad Pública del Estado;
 
 V. El Director General de Prevención y Reinserción Social;
 
-VI. El Director General de la Policía Ministerial, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VI. El Director General de la Policía Investigadora, y
 
 VII. Los directores de los centros de reclusión estatal, y alcaides de los centros de reclusión distrital.
 
@@ -215,17 +225,49 @@ V. Proponer y celebrar convenios, con particulares e instituciones públicas o p
 
 VI. Vigilar que sean puestas a disposición de las autoridades competentes, las personas, armas y objetos asegurados por los cuerpos de seguridad pública, procediendo a su registro conforme a la Ley General del Sistema Nacional de Seguridad Pública;
 
-VII. Delegar las atribuciones cuya naturaleza así lo permita, en los servidores públicos que determine esta Ley y sus reglamentos, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-VIII. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+VII. Delegar las atribuciones cuya naturaleza así lo permita, en los servidores públicos que determine esta Ley y sus reglamentos;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Vigilar, conforme lo establece el Código Nacional de Procedimientos Penales, se dé cumplimiento por parte de la policía procesal a lo establecido en el mismo, coordinándose en todo momento con el Ministerio Público para la investigación de los delitos;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Formar la Unidad de Servicios Previos al Juicio, la que tendrá como fin dar cabal cumplimiento a las medidas cautelares previstas en el Código Nacional de Procedimientos Penales, que dicten los jueces de Control, a través de la Policía Procesal;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+X. Prestar el auxilio a las autoridades competentes que soliciten protección para personas que se encuentren en riesgo con motivo de su participación, con cualquier carácter, en los procedimientos penales;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Establecer las medidas de seguridad que considere necesarias para el traslado del imputado, del Centro de Reinserción Social a los centros de justicia y dentro del mismo, cuando sea necesaria la presencia de éste para el desahogo de la audiencia, y en los demás casos en que corresponda;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Dictar los criterios para la regulación e instrumentación de la cadena de custodia de los indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito;
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal, y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 15.
 
-Las atribuciones del Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Ministerial, estarán previstas en su propia ley o reglamentos.
+Las atribuciones del Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 16.
 
-El Secretario; el Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Ministerial, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
+El Secretario; el Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
 
 ###### ARTICULO 17.
 
@@ -293,7 +335,9 @@ I. En el ámbito estatal:
 
 a) La Dirección General de Seguridad Pública del Estado; y la policía urbana, bancaria e industrial, en coordinación con aquélla.
 
-b) La policía ministerial del Estado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+b) La policía investigadora.
 
 c) Los agentes del Ministerio Público.
 
@@ -301,7 +345,13 @@ d) Los peritos.
 
 e) Los cuerpos de seguridad y custodia de los centros estatales y distritales de reclusión y de menores infractores del Estado.
 
-Los señalados en los incisos b), c), d) y e) se regirán por su propia ley o reglamento, y
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+f) La policía procesal.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Los señalados en los incisos b), c), d), e), y f) se regirán por su propia ley o reglamento, y
 
 II. En el ámbito municipal:
 
@@ -443,9 +493,11 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Procurador General de Justicia; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado, y de los municipios; Director General de Prevención y Reinserción Social; Director General de la Academia; y el Director General de la Policía Ministerial del Estado; asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Procurador General de Justicia; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado, y de los municipios; Director General de Prevención y Reinserción Social; Director General de la Academia; y el Director General de la Policía Investigadora del Estado; asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
 
 Los servidores públicos a que se hace referencia en el párrafo anterior, tendrán derecho a que los cuerpos de seguridad pública otorguen protección a su integridad física y a la de sus familias durante el ejercicio de su encargo, y hasta un año siguiente a la conclusión del mismo; término que será prorrogable a juicio de la autoridad competente, tomando en consideración las circunstancias particulares del caso.
 
@@ -459,7 +511,9 @@ Las armas de fuego propiedad o en posesión de los cuerpos de seguridad pública
 
 Los cuerpos de seguridad pública estarán sujetos a la licencia oficial colectiva que expide la Secretaría de la Defensa Nacional, a efecto de permitir la portación de armas de fuego a los miembros de las mismas; siendo obligación de las autoridades señaladas en esta Ley, cuidar que la licencia oficial colectiva se mantenga vigente.
 
-Tratándose de la licencia oficial colectiva concedida a la Dirección General de la Policía Ministerial del Estado, ésta permanece bajo la titularidad del Procurador General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Tratándose de la licencia oficial colectiva concedida a la Dirección General de la Policía Investigadora del Estado, ésta permanece bajo la titularidad del Procurador General de Justicia del Estado.
 
 ## TITULO QUINTO. DEL USO DE LA FUERZA PUBLICA
 
@@ -523,7 +577,9 @@ VI. El Director General de Seguridad Pública del Estado;
 
 VII. El Director General de Prevención y Reinserción Social;
 
-VIII. El Director General de la Policía Ministerial;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. El Director General de la Policía Investigadora;
 
 IX. Los funcionarios, representantes o delegados en la Entidad, de las autoridades federales que formen parte del Consejo Nacional;
 
@@ -619,7 +675,9 @@ VI. Un representante de la Procuraduría General de Justicia del Estado;
 
 VII. Un representante de la Dirección General de Seguridad Pública del Estado;
 
-VIII. Un representante de la Dirección General de la Policía Ministerial del Estado;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VIII. Un representante de la Dirección General de la Policía Investigadora;
 
 IX. Un representante de la Secretaría de Seguridad Pública del Estado, que a su vez representará al Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
@@ -837,6 +895,48 @@ XLVIII. Entregar inmediatamente al causar baja del servicio, el arma de fuego, c
 
 XLIX. Las demás que señalen las leyes y reglamentos respectivos.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+ARTICULO 56 BIS. En el caso de los elementos de seguridad pública que sean habilitados como Policía Investigadora, o como Policía Procesal, además de las obligaciones contenidas en el artículo 56 de esta Ley, tendrán, en su caso, las siguientes:
+
+I. Atender en todos los casos las disposiciones contenidas en el Código Nacional de Procedimientos Penales, relacionadas con declaraciones por parte de los imputados;
+
+II. Cuidar en todo momento que sus actuaciones se lleven a cabo conforme a los principios de legalidad, pertinencia, suficiencia, y contundencia, a que se refiere el Código Nacional de Procedimientos Penales;
+
+III. Prestar auxilio a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, policías, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
+
+IV. Ejecutar las medidas de protección que dicte la autoridad competente, a que se refiere el Código Nacional de Procedimientos Penales;
+
+V. Ejecutar las órdenes de comparecencia y aprehensión en los términos del Código Nacional de Procedimientos Penales;
+
+VI. Llevar a cabo los registros de sus actuaciones en los términos del Código Nacional de Procedimientos Penales;
+
+VII. Dar inicio a las investigaciones de hechos delictivos de los que tengan noticia, en los términos del Código Nacional de Procedimientos Penales;
+
+VIII. Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial, y remitirlos de inmediato al Ministerio Público encargado del asunto, para que éste acuerde lo conducente;
+
+IX. Recibir todos los indicios y elementos de prueba que la víctima u ofendido aporten en ejercicio de su derecho de coadyuvancia, para acreditar que se ha cometido un hecho que la ley señala como delito, y que existe la probabilidad de que el imputado lo cometió o participó en su comisión, informando de inmediato al Ministerio Público a cargo del asunto, para que éste acuerde lo conducente;
+
+X. Otorgar las facilidades que las leyes establezcan para identificar al imputado, especialmente en los casos de delitos contra la vida y la integridad corporal, la libertad y la seguridad sexuales y el normal desarrollo psicosexual, así como los que atentan contra la libertad personal;
+
+XI. Auxiliar, en el ámbito de su competencia, al Ministerio Público en la recepción de denuncias sobre acciones u omisiones que puedan constituir delito. En el ejercicio de esta obligación deberán informar de inmediato y bajo su más estricta responsabilidad, al Ministerio Público, para que éste ordene lo conducente;
+
+XII. Practicar detenciones o aseguramientos en los casos de flagrancia, en los términos de ley y poner a disposición de las autoridades ministeriales competentes, a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, con estricto cumplimiento de los plazos constitucional y legalmente establecidos;
+
+XIII. Recabar los datos que sirvan para la identificación de los involucrados en la investigación del delito;
+
+XIV. Informar al imputado al momento de su detención, sobre los derechos que, en su favor, establecen las leyes;
+
+XV. Cuidar que los rastros, objetos, instrumentos o productos del delito sean conservados, observando al efecto las reglas establecidas por la ley para la cadena de custodia;
+
+XVI. Entrevistar a los testigos presumiblemente útiles para descubrir la verdad, dejando constancia de las entrevistas que se practiquen, que se utilizarán como un registro de la investigación; en todo caso llenarán correctamente el formato de acta de entrevistas, informando de manera inmediata al Ministerio Público, sobre las entrevistas realizadas, para la integración de la carpeta de investigación;
+
+XVII. Solicitar a las autoridades competentes, a través del Ministerio Público, informes, documentos, opiniones y elementos de prueba en general, que requiera para la investigación;
+
+XVIII. Incorporar a las bases de datos criminalísticos, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, y
+
+XIX. Las demás que se deriven del Código Nacional de Procedimientos Penales y cualquier otra disposición relacionada.
+
 ### CAPITULO III. De sus Derechos
 
 ###### ARTICULO 57.
@@ -1029,7 +1129,9 @@ III. Oficiales, y
 
 IV. Escala básica.
 
-En las policías ministeriales y cuerpos de seguridad y custodia, se establecerán al menos los niveles jerárquicos de las fracciones II a la IV del presente artículo.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+En la policía investigadora y en los demás cuerpos especializados de seguridad que se formen, se establecerán al menos, los niveles jerárquicos de las fracciones II a la IV del presente artículo.
 
 ###### ARTICULO 69.
 
@@ -1221,9 +1323,47 @@ El sistema de información sobre seguridad pública se integrará entre otros, c
 
 ### Capítulo II. Del Informe Policial Homologado
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 94.
 
-Las instituciones de seguridad pública que realicen detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, de la detención, a través de la captura del Informe Policial Homologado.
+Los elementos de seguridad pública que realicen detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, de la detención, a través de la captura del Informe Policial Homologado, de conformidad con lo dispuesto por la Ley General del Sistema de Seguridad Pública; informe que debe contener de acuerdo con dicho ordenamiento los siguientes datos:
+
+I. El área que lo emite;
+
+II. El usuario capturista;
+
+III. Los datos generales de registro;
+
+IV. Motivo, que se clasifica en:
+
+a) Tipo de evento.
+
+b) Subtipo de evento;
+
+V. La ubicación del evento y, en su caso, los caminos;
+
+VI. La descripción de hechos que deberá detallar, modo, tiempo, y lugar, entre otros datos;
+
+VII. Entrevistas realizadas, y
+
+VIII. En caso de detenciones:
+
+a) Señalar los motivos de la detención.
+
+b) Descripción de la persona.
+
+c) El nombre del detenido y apodo, en su caso.
+
+d) Descripción del estado físico aparente.
+
+e) Objetos que le fueron encontrados.
+
+f) Autoridad a la que fue puesto a disposición.
+
+g) Lugar en el que fue puesto a disposición.
+
+El informe debe ser completo; los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
 
 ###### ARTICULO 95.
 
@@ -1866,3 +2006,19 @@ P.O. 15 DE OCTUBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el treinta de septiembre del año dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Toda referencia que se haga en el presente Decreto a la Fiscalía General del Estado, se entenderá hecha a la Procuraduría General de Justicia del Estado, en tanto se reforma dicha denominación en las leyes orgánicas y demás ordenamientos correspondientes.
+
+TERCERO. Toda referencia que se haga en este Decreto a la Policía Investigadora, se entenderá hecha a la Policía Ministerial, en tanto se modifica dicha denominación en las leyes orgánicas y reglamentos correspondientes.
+
+CUARTO. El Director General de la Policía Investigadora deberá expedir el reglamento interno, en un plazo que no exceda de treinta días contados a partir de la vigencia del presente Decreto.
+
+QUINTO. El Secretario de Seguridad Pública del Estado deberá formar la Unidad de Servicios Previos al Juicio, en un plazo que no exceda de treinta días contados a partir de la vigencia del presente Decreto.
+
+SEXTO. El Secretario de Seguridad Pública del Estado deberá expedir el reglamento interno en el que se incluya a la Policía Procesal, en un plazo que no exceda de treinta días contados a partir de la vigencia del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan a este Decreto.
