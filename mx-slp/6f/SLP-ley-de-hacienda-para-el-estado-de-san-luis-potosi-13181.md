@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-07-15"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -331,7 +331,7 @@ En ningún caso se entenderán exentos del pago del impuesto, los ingresos o pre
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
+ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio éfiscal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -633,463 +633,43 @@ IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas d
 
 Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO VI. IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+ARTICULO 36 BIS. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-ARTICULO 36 BIS. Es objeto de este impuesto la tenencia o uso de vehículos, cuando se dé cualquiera de los siguientes supuestos en el territorio del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Se inscriban en el Registro Estatal Vehicular o se obtengan placas de circulación del Estado, de conformidad con las disposiciones aplicables;
+ARTICULO 36 TER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-II. El domicilio fiscal del tenedor o usuario del vehículo se ubique en el territorio del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. En el Estado se expida el permiso provisional para circulación en traslado del vehículo;
+ARTICULO 36 QUATER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-IV. Se hayan tramitado placas de transporte público federal ante las autoridades federales competentes radicadas en el Estado, tratándose de vehículos destinados a dicho servicio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Se realice la inspección de seguridad marítima por las autoridades federales competentes, con circunscripción territorial en el Estado, y
+ARTICULO 36 QUINQUE. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-VI. Se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes, con circunscripción territorial en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para efectos de este impuesto, se entiende por vehículos, entre otros, los siguientes: automóviles, camiones, vehículos pick-up, minibuses, midibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, tricimotos, cuatrimotos, motonetas y triciclos con motor, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, aeronaves y, en general, cualquier vehículo impulsado por motores eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno, así como los blindados.
+ARTICULO 36 SEXTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+ARTICULO 36 SEPTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-ARTICULO 36 TER. Son sujetos de este impuesto, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Federación, el Estado y sus municipios, así como sus organismos y entidades, deberán pagar el Impuesto Sobre Tenencia o Uso de Vehículos que establece este capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos locales o estén exentos de ellos.
+ARTICULO 36 OCTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-Para efectos de este impuesto se presume que el propietario es tenedor o usuario del vehículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 QUATER. El impuesto se causa anualmente a partir del primer día de cada año, debiéndose pagar mediante declaración ante las oficinas y en las formas autorizadas para tal efecto por la Secretaría de Finanzas del Estado, dentro de los tres primeros meses de cada año; salvo tratándose de la adquisición de vehículos nuevos, de vehículos que se importen en definitiva, o de vehículos procedentes de otras entidades federativas que se internen en el territorio del Estado, para circular en éste de manera permanente, supuestos en los que el impuesto se causará a partir de que se dé cualquiera de los hechos señalados, casos en los que el impuesto deberá pagarse dentro de los quince días siguientes a que se materialice el referido supuesto.
-
-En la enajenación o importación de vehículos nuevos de año-modelo posterior al de aplicación de la ley, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo usado, considerando el año de adquisición o importación como primer año de antigüedad.
-
-En el caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo se pagará como si éste fuese nuevo.
-
-Cuando en los casos de vehículos nuevos, vehículos importados definitivamente o de vehículos procedentes de otras entidades federativas que se internen para circular de manera permanente en el territorio del Estado, el impuesto se cause después del primer mes del año de calendario, éste se pagará en la proporción que resulte de aplicar al equivalente del impuesto causado anualmente, el factor que corresponda de acuerdo al mes en que se cause, de conformidad con la siguiente tabla:
-
-Mes en que se causó Factor aplicable al impuesto anual
-
-febrero 0.92
-
-marzo 0.84
-
-abril 0.75
-
-mayo 0.67
-
-junio 0.58
-
-julio 0.50
-
-agosto 0.42
-
-septiembre 0.33
-
-octubre 0.25
-
-noviembre 0.17
-
-diciembre 0.08
-
-Tratándose de tenedores o usuarios de vehículos, cuando tramiten la baja en el Registro Estatal Vehicular, con motivo de robo, siniestro o sea declarado pérdida total, deberán cubrir la parte proporcional del impuesto correspondiente al ejercicio fiscal en que ocurra la baja, de acuerdo con el siguiente procedimiento:
-
-El impuesto causado en el ejercicio fiscal se multiplicará por el factor que corresponda al mes en que se obtenga la baja en el Registro Estatal Vehicular, de acuerdo con la siguiente tabla, el resultado será el impuesto a pagar.
-
-Mes en que se obtuvo la baja Factor aplicable al impuesto anual
-
-enero 0.08
-
-febrero 0.17
-
-marzo 0.25
-
-abril 0.33
-
-mayo 0.42
-
-junio 0.50
-
-julio 0.58
-
-agosto 0.67
-
-septiembre 0.75
-
-octubre 0.84
-
-noviembre 0.92
-
-diciembre 1.00
-
-Tratándose de los vehículos a que se hace referencia en el penúltimo párrafo anterior, por los que previamente a la obtención de la baja en el Registro Estatal Vehicular se hubiere pagado el impuesto del ejercicio, los sujetos, previo cumplimiento de los requisitos que al efecto establezca la Secretaría de Finanzas del Estado, podrán solicitar la devolución del impuesto pagado en la proporción que corresponda a los meses restantes del año, a partir del mes en que se obtuvo la baja y hasta el término del mismo año, conforme a la siguiente tabla:
-
-Mes en que se obtuvo la baja Factor a aplicarse al impuesto pagado
-
-enero 0.92
-
-febrero 0.84
-
-marzo 0.75
-
-abril 0.67
-
-mayo 0.58
-
-junio 0.50
-
-julio 0.42
-
-agosto 0.33
-
-septiembre 0.25
-
-octubre 0.17
-
-noviembre 0.08
-
-diciembre 0.00
-
-En los casos de vehículos por los que se hubiere obtenido devolución del impuesto conforme al párrafo anterior, sean recuperados o queden en condiciones de circular normalmente en el territorio del Estado, pagarán el impuesto correspondiente al resto del año, dentro de los quince días siguientes a partir de que sean recuperados, queden en condiciones de circular, o sean dados de alta nuevamente en el Registro Estatal Vehicular, lo que ocurra primero.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 QUINQUE. Son responsables solidarios del pago del impuesto establecido en este capítulo:
-
-I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, hasta por el monto del adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no estén obligadas al pago del mismo;
-
-II. Quienes reciban vehículos en consignación o comisión para su enajenación, por el monto del adeudo del impuesto que en su caso existiera;
-
-III. Las autoridades federales, estatales o municipales competentes, que autoricen el registro de vehículos, matrículas, altas, cambios o bajas de placas o que efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación, y
-
-IV. Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos, el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
-
-Las autoridades federales, estatales o municipales competentes, no autorizarán registros de vehículos, matrículas, certificados, altas o bajas, cambio de placas, o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación. Asimismo, dichas autoridades solamente registrarán vehículos cuyos propietarios comprueben estar domiciliados en el territorio del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 SEXTIES. El Impuesto Sobre Tenencia o Uso de Vehículos se calculará conforme a lo siguiente:
-
-I. Vehículos nuevos:
-
-a) En el caso de automóviles destinados al transporte hasta de quince pasajeros, así como vehículos pick ups, cuyo valor total exceda de 5,000 salarios mínimos diarios vigentes en el Estado, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-TARIFA
-
-Límite inferior Límite superior Cuota fija Tasa para aplicarse
-
-$ $ $ sobre el excedente
-
-del límite inferior
-
-%
-
-0.01 526,657.78 0.00 3.1
-
-526,657.79 1'013,523.64 16,326.39 9.0
-
-1'013,523.65 1'362,288.13 60,144.31 13.8
-
-1'362,288.14 1'711,052.62 108,273.81 17.4
-
-1'711,052.63 En adelante 168,958.82 19.8
-
-La tarifa de la tabla anterior se actualizará anualmente a partir del ejercicio fiscal 2012, con el factor que resulte de dividir el Indice Nacional de Precios al Consumidor de noviembre del ejercicio actual, entre el Indice Nacional de Precios al Consumidor de noviembre del ejercicio inmediato anterior.
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para éste último será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
-
-b) Para automóviles destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas, se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos del párrafo anterior, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
-
-Asimismo, para los efectos de este artículo se entiende por vehículos destinados al transporte de más de quince pasajeros, o para el transporte de efectos, los camiones, sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, midibuses, microbuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular, y los vehículos pick ups cuyo valor total no exceda lo equivalente a 5,000 salarios mínimos diarios vigentes en el Estado.
-
-c) Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresada en toneladas por la cantidad de $9,557.39, para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $10,294.49, para aeronaves de reacción.
-
-d) Tratándose de motocicletas, bicimotos, tricimotos, cuatrimotos, motonetas y triciclos con motor, el impuesto se calculará aplicándole al valor total la siguiente:
-
-TARIFA
-
-Límite inferior Límite superior Cuota fija Tasa para aplicarse
-
-$ $ $ sobre el excedente
-
-del límite inferior
-
-%
-
-0.01 220,660.00 0.00 3.0
-
-220,660.01 303,459.28 6,619.80 8.7
-
-303,459.29 407,882.92 13,823.33 13.3
-
-407,882.93 En adelante 27,711.67 16.8
-
-e)Tratándose (sic) de vehículos eléctricos, así como de aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
-
-f) Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate, el 1.5%;
-
-II. Vehículos usados: con antigüedad de hasta nueve años-modelo anterior al de aplicación de este capítulo, el impuesto se determinará conforme a lo siguiente:
-
-a) Vehículos destinados al transporte de más de quince pasajeros o de carga, vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", así como las aeronaves, el impuesto será el resultado de:
-
-1. Multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
-
-TABLA
-
-Años de Factor
-
-Antigüedad
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-2. El resultado obtenido del procedimiento anterior, se multiplicará por el factor de actualización a que se refiere la fracción VI del artículo 36 Nonies de esta Ley.
-
-b) Vehículos destinados al transporte de hasta quince pasajeros, incluyendo los vehículos pick ups, cuyo valor exceda lo equivalente a 5,000 salarios mínimos diarios vigentes en el Estado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-1. El valor total del vehículo se multiplicará por el factor correspondiente a los años de antigüedad, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor
-
-Antigüedad
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-2. El resultado obtenido conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere la fracción VI del artículo 36 Nonies de esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2012)</small>
-
-3. A este resultado a su vez, se le aplicará la tarifa siguiente al inciso a) de la fracción I de este artículo.
-
-c) Tratándose de vehículos que siendo de servicio particular, durante un ejercicio fiscal pasen a ser de servicio público para transporte de pasajeros denominados “taxis”, para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, el impuesto se calculará conforme al procedimiento previsto en el inciso a) de la fracción II de este artículo.
-
-d) Tratándose de vehículos que siendo de servicio de transporte de pasajeros denominados “taxis” o de transporte de carga pasen a ser de servicio particular, para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, el impuesto se calculará conforme al procedimiento previsto en el inciso b) de la fracción II de este artículo.
-
-e) Tratándose de motocicletas, bicimotos, tricimotos, cuatrimotos, motonetas y triciclos con motor de fabricación nacional o importadas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-1. El valor total se multiplicará por el factor que corresponda de acuerdo al año de antigüedad, de conformidad con la siguiente:
-
-TABLA
-
-Años de Antigüedad Factor
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-2. A la cantidad obtenida conforme al inciso anterior, se le aplicará la tarifa a que se hace referencia en el inciso d) de la fracción I de este artículo.
-
-f) Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-1. El valor total del vehículo de que se trate, se multiplicará por el factor que corresponda al año de antigüedad, de conformidad con la siguiente:
-
-Años de Antigüedad Factor
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 y siguientes 0.0375
-
-2. La cantidad obtenida conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere la fracción VI del artículo 36 Nonies de esta Ley.
-
-Para los efectos de la aplicación de las tablas de años de antigüedad y factores a que se hace referencia en los incisos a), b), e) y f) de esta fracción, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año-modelo al que corresponda el vehículo.
-
-g) Tratándose de vehículos eléctricos, así como de aquellos eléctricos que además cuenten con motor de combustión interna, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0 %, y
-
-III. Vehículos de más de nueve años-modelo anteriores al de aplicación de este capítulo:
-
-Tratándose de vehículos de más de nueve años-modelo anteriores al de aplicación de este capítulo, el impuesto se determinará conforme a lo siguiente:
-
-a) En el caso de aeronaves, el impuesto se pagará conforme a la siguiente:
-
-TABLA
-
-TIPO DE VEHICULOS CUOTA $
-
-AERONAVES:
-
-Pistón (hélice) 2,115.74
-
-Turbohélice 11,710.12
-
-Reacción 16,918.38
-
-HELICOPTEROS 2,600.99
-
-El monto de las cuotas contenidas en la tabla anterior, las tarifas establecidas en los incisos a) y d), así como las cantidades contenidas en el inciso c) de la fracción I de este artículo, se actualizarán anualmente con el factor a que se refiere la fracción VI del artículo 36 Nonies de esta Ley.
-
-b) Tratándose de los siguientes vehículos, el impuesto se pagará aplicando la tasa del 0%, siempre y cuando cubran oportunamente los derechos de control vehicular en el ejercicio fiscal correspondiente:
-
-1. Motocicletas, bicimotos, tricimotos, cuatrimotos, motonetas y triciclos con motor.
-
-2. Automóviles, camiones, vehículos pick-ups, minibuses, midibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda y, en general, cualquier vehículo impulsado por motores eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno, y vehículos blindados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 SEPTIES. No se pagará el impuesto, en los términos de este capítulo, por la tenencia o uso de los siguientes vehículos:
-
-I. Los eléctricos utilizados para el transporte público de personas;
-
-II. Los importados temporalmente en los términos de la legislación aduanera;
-
-III. Los vehículos de la Federación, del Estado y de los municipios del Estado de San Luis Potosí, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia, y los destinados a los cuerpos de bomberos;
-
-IV. Los que tengan para su venta los fabricantes, las plantas ensambladoras y sus distribuidores, siempre que carezcan de placas de circulación, y
-
-V. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 OCTIES. Son obligaciones de los sujetos de este impuesto, de los fabricantes, ensambladores y distribuidores autorizados, que tengan establecimiento en el Estado, las siguientes:
-
-I. De los sujetos:
-
-a) Solicitar ante las autoridades fiscales competentes, la inscripción al Registro Estatal Vehicular que corresponda, dentro de los plazos y los lugares establecidos para tal efecto por la Secretaría de Finanzas del Estado.
-
-b) Conservar la documentación comprobatoria relacionada con el objeto de este impuesto, durante el plazo que establezcan las disposiciones fiscales del Estado.
-
-c) Acreditar y exhibir cuando lo soliciten las autoridades fiscales del Estado, la documentación comprobatoria del pago del impuesto que corresponda, y
-
-II. De los fabricantes, ensambladores y distribuidores autorizados:
-
-Proporcionar a la Secretaría de Finanzas, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal, en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información por cada uno de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-ARTICULO 36 NONIES. Para efectos de este impuesto se entiende por:
-
-I. Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, y distribuidor.
-
-b) El importado definitivamente al país, que corresponda al año-modelo posterior al de aplicación de este capítulo, al año-modelo en que se efectúe la importación, o a los nueve años-modelo inmediatos anteriores al año de la importación definitiva;
-
-II. Valor total del vehículo:
-
-El precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía, como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo;
-
-III. Año-modelo:
-
-El periodo anual en el que los fabricantes de vehículos dividen la referencia a sus modelos, el cual se consignará en la factura, carta-factura o documento similar que se expida al consumidor;
-
-IV. Comerciantes en el ramo de vehículos:
-
-Las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
-
-V. Indice Nacional de Precios al Consumidor:
-
-El publicado por la autoridad federal competente, en los términos de los artículos, 20 párrafo segundo, y 20 Bis, del Código Fiscal de la Federación, y
-
-VI. Factor de actualización:
-
-El que determine anualmente la Secretaría de Finanzas del Estado, como resultado de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre del año en curso, entre el Indice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior, mismo que se deberá publicar en el Periódico Oficial del Estado a más tardar en el mes de diciembre de cada año, para entrar en vigor a partir del día uno de enero del siguiente año.
+ARTICULO 36 NONIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
@@ -2107,6 +1687,322 @@ En el caso de análisis físico-químico de los productos citados en el párrafo
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuota estatal que forman parte de los bienes del dominio público del Estado, cubrirán los derechos establecidos en el presente artículo.
+
+I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+a) Caseta "Calderón":
+
+Tramo San Luis Potosí - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 84.00
+
+B2 Autobús de pasajeros. 2 ejes 150.00
+
+B3 Autobús de pasajeros. 3 ejes 150.00
+
+B4 Autobús de pasajeros. 4 ejes 150.00
+
+C2 Camión de carga. 2 ejes 150.00
+
+C3 Camión de carga. 3 ejes 150.00
+
+C4 Camión de carga. 4 ejes 150.00
+
+C5 Camión de carga. 5 ejes 162.00
+
+C6 Camión de carga. 6 ejes 162.00
+
+C7 Camión de carga. 7 ejes 162.00
+
+C8 Camión de carga. 8 ejes 162.00
+
+C9 Camión de carga. 9 ejes 162.00
+
+Eje excedente 42.00
+
+Tramo San Luis Potosí - Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 28.00
+
+B2 Autobús de pasajeros. 2 ejes 58.00
+
+B3 Autobús de pasajeros. 3 ejes 58.00
+
+B4 Autobús de pasajeros. 4 ejes 58.00
+
+C2 Camión de carga. 2 ejes 58.00
+
+C3 Camión de carga. 3 ejes 58.00
+
+C4 Camión de carga. 4 ejes 58.00
+
+C5 Camión de carga. 5 ejes 63.00
+
+C6 Camión de carga. 6 ejes 63.00
+
+C7 Camión de carga. 7 ejes 63.00
+
+C8 Camión de carga. 8 ejes 63.00
+
+C9 Camión de carga. 9 ejes 63.00
+
+Eje excedente 42.00
+
+Tramo San Luis Potosí - Bledos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 49.00
+
+B2 Autobús de pasajeros. 2 ejes 89.00
+
+B3 Autobús de pasajeros. 3 ejes 89.00
+
+B4 Autobús de pasajeros. 4 ejes 89.00
+
+C2 Camión de carga. 2 ejes 89.00
+
+C3 Camión de carga. 3 ejes 89.00
+
+C4 Camión de carga. 4 ejes 75.00
+
+C5 Camión de carga. 5 ejes 95.00
+
+C6 Camión de carga. 6 ejes 95.00
+
+C7 Camión de carga. 7 ejes 95.00
+
+C8 Camión de carga. 8 ejes 95.00
+
+Camión de carga. 9 ejes 95.00
+
+Eje excedente 42.00
+
+Tramo Villa de Reyes - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 50.00
+
+B2 Autobús de pasajeros. 2 ejes 92.00
+
+B3 Autobús de pasajeros. 3 ejes 92.00
+
+B4 Autobús de pasajeros. 4 ejes 92.00
+
+C2 Camión de carga. 2 ejes 92.00
+
+C3 Camión de carga. 3 ejes 92.00
+
+C4 Camión de carga. 4 ejes 92.00
+
+C5 Camión de carga. 5 ejes 99.00
+
+C6 Camión de carga. 6 ejes 99.00
+
+C7 Camión de carga. 7 ejes 99.00
+
+C8 Camión de carga. 8 ejes 99.00
+
+C9 Camión de carga. 9 ejes 99.00
+
+Eje excedente 42.00
+
+Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 16.00
+
+B2 Autobús de pasajeros. 2 ejes 25.00
+
+B3 Autobús de pasajeros. 3 ejes 30.00
+
+B4 Autobús de pasajeros. 4 ejes 30.00
+
+C2 Camión de carga. 2 ejes 30.00
+
+C3 Camión de carga. 3 ejes 30.00
+
+C4 Camión de carga. 4 ejes 30.00
+
+C5 Camión de carga. 5 ejes 30.00
+
+C6 Camión de carga. 6 ejes 30.00
+
+C7 Camión de carga. 7 ejes 30.00
+
+C8 Camión de carga. 8 ejes 30.00
+
+C9 Camión de carga. 9 ejes 30.00
+
+Eje excedente 42.00
+
+II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+a) Caseta "Cerritos":
+
+Tramo San Luis Potosí - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 85.00
+
+B2 Autobús de pasajeros. 2 ejes 147.00
+
+B3 Autobús de pasajeros. 3 ejes 190.00
+
+B4 Autobús de pasajeros. 4 ejes 190.00
+
+C2 Camión de carga. 2 ejes 147.00
+
+C3 Camión de carga. 3 ejes 190.00
+
+C4 Camión de carga. 4 ejes 190.00
+
+C5 Camión de carga. 5 ejes 190.00
+
+C6 Camión de carga. 6 ejes 190.00
+
+C7 Camión de carga. 7 ejes 336.00
+
+C8 Camión de carga. 8 ejes 336.00
+
+C9 Camión de carga. 9 ejes 336.00
+
+Eje excedente 31.00
+
+Tramo San Luis Potosí - Cerritos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 28.00
+
+B2 Autobús de pasajeros. 2 ejes 47.00
+
+B3 Autobús de pasajeros. 3 ejes 61.00
+
+B4 Autobús de pasajeros. 4 ejes 61.00
+
+C2 Camión de carga. 2 ejes 47.00
+
+C3 Camión de carga. 3 ejes 61.00
+
+C4 Camión de carga. 4 ejes 61.00
+
+C5 Camión de carga. 5 ejes 61.00
+
+C6 Camión de carga. 6 ejes 61.00
+
+C7 Camión de carga. 7 ejes 107.00
+
+C8 Camión de carga. 8 ejes 107.00
+
+C9 Camión de carga. 9 ejes 107.00
+
+Eje excedente 31.00
+
+Tramo Cerritos - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 57.00
+
+B2 Autobús de pasajeros. 2 ejes 100.00
+
+B3 Autobús de pasajeros. 3 ejes 129.00
+
+B4 Autobús de pasajeros. 4 ejes 129.00
+
+C2 Camión de carga. 2 ejes 100.00
+
+C3 Camión de carga. 3 ejes 129.00
+
+C4 Camión de carga. 4 ejes 129.00
+
+C5 Camión de carga. 5 ejes 129.00
+
+C6 Camión de carga. 6 ejes 129.00
+
+C7 Camión de carga. 7 ejes 229.00
+
+C8 Camión de carga. 8 ejes 229.00
+
+C9 Camión de carga. 9 ejes 229.00
+
+Eje excedente 31.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+b) Caseta auxiliar "Villa Juárez":
+
+Tramo Cerritos - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 42.00
+
+B2 Autobús de pasajeros. 2 ejes 73.00
+
+B3 Autobús de pasajeros. 3 ejes 95.00
+
+B4 Autobús de pasajeros. 4 ejes 95.00
+
+C2 Camión de carga. 2 ejes 73.00
+
+C3 Camión de carga. 3 ejes 95.00
+
+C4 Camión de carga. 4 ejes 95.00
+
+C5 Camión de carga. 5 ejes 95.00
+
+C6 Camión de carga. 6 ejes 95.00
+
+C7 Camión de carga. 7 ejes 168.00
+
+C8 Camión de carga. 8 ejes 168.00
+
+C9 Camión de carga. 9 ejes 168.00
+
+Eje excedente 31.00
+
+Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
+
+Los derechos anteriores se cubrirán al cruzar las casetas establecidas y las que en un futuro se puedan constituir en razón de los flujos vehiculares y por el establecimiento y cruce de nuevos tramos carreteros y no estarán sujetos a lo dispuesto por el artículo 93 de la Ley de Hacienda para el Estado de San Luis Potosí.
+
+Los comprobantes de pago que se expidan en dichas casetas serán idóneos para acreditar el pago de los derechos.
+
+La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
@@ -2996,3 +2892,11 @@ CUARTO. Los ayuntamientos de la Entidad, contarán con treinta días naturales a
 QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Decreto, continuarán surtiendo sus efectos jurídicos en términos de las condiciones en que fueron expedidas.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil quince.
+
+SEGUNDO. Se derogan todas las disposiciones que sean contrarias a lo dispuesto por el presente Decreto.
+
+TERCERO. La derogación del impuesto estatal sobre tenencia o uso de vehículos, no exime el cumplimiento de las obligaciones fiscales de ejercicios anteriores respecto de la contribución derogada, debiendo estar al corriente en el pago de los derechos de control vehicular los sujetos obligados.
