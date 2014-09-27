@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2014-07-08"
+last_updated: "2014-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -119,9 +119,13 @@ XIII. La Auditoría Superior, y
 
 XIV. Los demás órganos que determinen las leyes.
 
-###### Artículo 4º.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Cuando los actos y omisiones materia de las acusaciones queden comprendidos en más de uno de los casos de responsabilidad política, penal, administrativa o civil previstos en la Constitución del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades competentes a que alude el artículo anterior, turnar las denuncias a quien debe conocer de ellas.
+###### Artículo 4°.
+
+Cuando los actos y omisiones materia de las acusaciones queden comprendidos en más de uno de los casos de responsabilidad política, penal, administrativa o civil previstos en la Constitución del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades competentes a que alude el artículo anterior; turnar las denuncias a quien debe conocer de ellas.
+
+En la integración de los procedimientos respectivos, deberá prevalecer el principio de presunción de inocencia a favor del servidor público presunto responsable.
 
 No podrán imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
@@ -129,11 +133,11 @@ No podrán imponerse dos veces, por una sola conducta, sanciones de la misma nat
 
 ### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 5°.
 
-Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los magistrados del Tribual Electoral del Estado; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los magistrados del Tribunal Electoral del Estado; los titulares de las secretarias dependientes del Ejecutivo del Estado, el Fiscal General, el Procurador Social y el Contralor del Estado; los integrantes del Consejo de la Judicatura, los consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
 
 ###### Artículo 6º.
 
@@ -149,7 +153,7 @@ I. El ataque que perturbe la vida jurídica y el buen funcionamiento de las inst
 
 II. Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado de Jalisco;
 
-III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes; y (sic)
+III. Las violaciones graves o sistemáticas a las garantías individuales o sociales, siempre y cuando estén fundadas en sentencias firmes emanadas de los tribunales competentes; y
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -157,7 +161,7 @@ IV. Los actos u omisiones que contravengan la Constitución local o las leyes qu
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
-V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor; y (sic)
+V. Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor; y
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -421,39 +425,43 @@ IV. El grado de intervención por parte del servidor público en el acto u omisi
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2014, PÁGINA 117.</small>
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
-Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; los magistrados del Tribunal Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarias del Poder Ejecutivo, el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; los magistrados del Tribunal Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Instituto Electoral y de Participación Ciudadana del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+
+Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo de la Judicatura del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 32.
 
 No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos, a que se refiere el artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá la declaración de procedencia en caso de que el servidor público tenga el carácter de suplente y no se encuentre en el ejercicio del cargo.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 33.
 
-Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan elementos suficientes para comprobar el cuerpo del delito y que estos hagan probable la responsabilidad del servidor público.
+Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan elementos suficientes para comprobar que existen datos que establezcan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión y que éstos hagan probable la responsabilidad del servidor público.
 
 ### Capítulo II. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 34.
 
-Cuando el ministerio público concluya una averiguación previa y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el procurador general de justicia del Estado deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
+Cuando el ministerio público concluya la carpeta de investigación y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el Fiscal General deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 35.
 
 El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Secretaría General del Congreso del Estado y deberá reunir los siguientes requisitos:
 
-I. Deberá estar firmado por el procurador general de justicia en el Estado; y
+I. Deberá estar firmado por el Fiscal General; y
 
-II. Deberá estar acompañado con copias certificadas del expediente completo que contenga la averiguación previa, incluyendo la determinación del ejercicio de la acción penal.
+II. Deberá estar acompañado con copias certificadas del expediente completo que contenga la formulación de la imputación, incluyendo la determinación del ejercicio de la acción penal.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
 
@@ -467,7 +475,9 @@ La Comisión de Responsabilidades, dentro de los tres días hábiles siguientes 
 
 I. La notificación se realizará en el domicilio de la dependencia en la que el servidor público preste sus servicios o realice sus funciones o en su defecto, el lugar donde se le encuentre;
 
-II. Se le extenderá un juego de copias del escrito de solicitud presentado por el procurador general de justicia del estado y del expediente que contenga la averiguación previa;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+II. Se le extenderá un juego de copias del escrito de solicitud presentado por el Fiscal General y del expediente que contenga la formulación de la imputación;
 
 III. Se le hará saber que puede comparecer o presentar sus alegatos por escrito, dentro de los siguientes cinco días hábiles a aquel en que surta efectos la notificación;
 
@@ -477,17 +487,19 @@ V. Se le prevendrá para que señale domicilio para oír todo tipo de notificaci
 
 Una vez que se tenga la certeza de que se han cumplido todas y cada una de las prevenciones contempladas en el presente artículo y transcurridos los cinco días de plazo, independientemente de que el denunciado comparezca o no, se continuará con el procedimiento.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 38.
 
-La Comisión de Responsabilidades analizará la averiguación previa y la determinación que le haga llegar el procurador general de justicia del Estado, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la procedencia del juicio penal en contra del servidor público denunciado.
+La Comisión de Responsabilidades analizará la formulación de la imputación y la determinación que le haga llegar el Fiscal General, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la procedencia del juicio penal en contra del servidor público denunciado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Procurador General de Justicia, al servidor público denunciado y a su defensor.
+Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Fiscal General, al servidor público denunciado y a su defensor.
 
-Si el Procurador General de Justicia lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del servidor público que llevó a cabo la averiguación previa.
+Si el Fiscal General lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del servidor público que llevó a cabo la formulación de la imputación.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
@@ -497,17 +509,25 @@ El día designado para la audiencia, se observará el siguiente desarrollo:
 
 I. La Secretaría dará lectura a las constancias procesales, las cuales se integran por:
 
-a) Las conclusiones de la averiguación previa y la determinación del ejercicio de la acción penal presentadas por el procurador general de justicia en el Estado; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+a) Las conclusiones de la formulación de la imputación y la determinación del ejercicio de la acción penal presentadas por el Fiscal General; y
 
 b) Los alegatos presentados por el servidor público denunciado o por su defensor;
 
-II. Se otorgará el uso de la palabra en primer término al Procurador General de Justicia o en su caso, al servidor público que le acompañe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+II. Se otorgará el uso de la palabra en primer término al Fiscal General o en su caso, al servidor público que le acompañe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
 
 III. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos vertidos y la existencia de la probable responsabilidad del servidor público denunciado;
 
-IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Procurador General de Justicia en el Estado o al servidor público que le acompañe, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el procurador de justicia así como el servidor público que le acompañe. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
+IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Fiscal General o al servidor público que le acompañe, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el Fiscal General así como el servidor público que le acompañe. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
 
 ###### Artículo 41.
 
@@ -659,9 +679,9 @@ En todos los casos no previstos en el presente ordenamiento, para las discusione
 
 Las declaraciones de procedencia o las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes; y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-En todos los casos relativos a la materia sustantiva o adjetiva no previstos en los Títulos Segundo, Tercero y Cuarto de la presente ley, se aplicarán, en lo conducente, las disposiciones aplicables del Código Penal y del Código de Procedimientos Penales del Estado.
+En todos los casos relativos a la materia sustantiva o adjetiva no previstos en los Títulos Segundo, Tercero y Cuarto de la presente ley, se aplicarán, en lo conducente, las disposiciones aplicables del Código Penal para el Estado Libre y Soberano de Jalisco y del Código Nacional de Procedimientos Penales.
 
 ## TÍTULO QUINTO. RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -811,7 +831,7 @@ XXXIII. Respetar y hacer respetar el derecho a la formulación de quejas y denun
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2012)</small>
 
-XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de las autoridades descritas en el articulo 3.° de esta ley, el cambio de domicilio particular, y (sic)
+XXXIV. Informar al área de recursos humanos o quien haga sus veces, dentro de las autoridades descritas en el articulo 3.° de esta ley, el cambio de domicilio particular, y
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -899,7 +919,7 @@ II. En el Poder Ejecutivo y la administración pública estatal, el Gobernador d
 
 III. En el Poder Judicial:
 
-a) En el Supremo Tribunal de Justicia, el pleno, representado por el Magistrado Presidente, y (sic)
+a) En el Supremo Tribunal de Justicia, el pleno, representado por el Magistrado Presidente, y
 
 b) En el Tribunal de lo Administrativo, su respectivo pleno, representado por su Presidente.
 
@@ -1132,6 +1152,10 @@ Si el servidor público reubicado provisionalmente no resultare responsable de l
 ###### Artículo 82.
 
 El órgano de control disciplinario podrá integrar el procedimiento de investigación administrativa para allegarse de elementos suficientes para la instauración del procedimiento sancionatorio en contra del servidor público presunto responsable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+En la integración de dicho procedimiento, deberá prevalecer el principio de presunción de inocencia a favor del servidor público presunto responsable.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1756,3 +1780,7 @@ Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al pre
 Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
 
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
