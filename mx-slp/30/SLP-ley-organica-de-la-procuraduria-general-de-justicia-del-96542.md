@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-96542"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-10-24"
-last_updated: "2014-02-28"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96542&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POT
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -53,7 +53,9 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POT
 
 Esta Ley tiene por objeto regular la organización y funcionamiento de la Procuraduría General de Justicia del Estado; así como el ejercicio de las atribuciones que corresponden a la institución del Ministerio Público y a su titular, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, y la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
-En lo no previsto en este Ordenamiento, se aplicará supletoriamente, en cuanto resulten conducentes y no se le opongan, las disposiciones contenidas en el Código Penal del Estado de San Luis Potosí; en adelante, Código Penal; y el Código Procesal para el Estado de San Luis Potosí, en adelante, Código Procesal; y, en su caso, las demás leyes aplicables del Estado.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+En lo no previsto en este Ordenamiento, se aplicará supletoriamente, en cuanto resulten conducentes y no se le opongan, las disposiciones contenidas en el Código Penal del Estado de San Luis Potosí; en adelante, Código Penal; y el Código Nacional de Procedimientos Penales, en adelante Código Nacional; y, en su caso, las demás leyes aplicables del Estado.
 
 ###### ARTÍCULO 2°.
 
@@ -125,15 +127,23 @@ X. Participar en el Sistema Nacional de Seguridad Pública, de acuerdo con la le
 
 XI. Ejercitar la acción de extinción de dominio y las atribuciones que le corresponden en el procedimiento respectivo, de conformidad con la Ley de Extinción de Dominio del Estado, y demás disposiciones aplicables;
 
-XII. Intervenir en la disposición de órganos, tejidos, componentes y cadáveres en los términos que prevé, la Ley General de Salud; la Ley de Salud del Estado, y sus Reglamentos; así como la Ley de Donación y Trasplantes de Órganos, Tejidos y componentes para el Estado de San Luis Potosí, y demás disposiciones legales aplicables en los términos que se dispongan en la presente Ley y su Reglamento, cuando se trate:
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Intervenir en la disposición de órganos, tejidos, componentes y cadáveres en los términos que prevé, la Ley General de Salud; la Ley de Salud del Estado, y sus Reglamentos; así como la Ley de Donación y Trasplantes de Órganos, Tejidos y Componentes para el Estado de San Luis Potosí, y demás disposiciones legales aplicables en los términos que se dispongan en la presente Ley y su Reglamento, cuando se trate:
 
 a) Para fines de (sic) terapéuticos.
 
 b) Para la investigación o docencia en el caso de cadáveres desconocidos.
 
-c) Para investigación o docencia cuando haya manifestación expresa por el disponente primario o secundario, según sea el caso, y
+c) Para investigación o docencia cuando haya manifestación expresa por el disponente primario o secundario, según sea el caso;
 
-XIII. Las demás que determinen la presente Ley y otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Prestar los servicios de protección de personas que intervienen en el procedimiento penal, a través del Centro de Protección de Personas que Intervienen en el Procedimiento Penal de conformidad con la ley de la materia, y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Las demás que determinen la presente Ley y otros ordenamientos legales.
 
 ###### ARTÍCULO 9°.
 
@@ -183,7 +193,9 @@ VIII. Requerir informes, documentación a otras autoridades y a particulares, as
 
 IX. Solicitar a la autoridad jurisdiccional la autorización de técnicas de investigación y demás actuaciones que las requieran y que resulten indispensables para la investigación;
 
-X. Solicitar a la autoridad jurisdiccional la autorización de providencias precautorias y medidas cautelares en los términos del Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+X. Solicitar a la autoridad jurisdiccional competente, la autorización de providencias precautorias y medidas cautelares en los términos del Código Nacional;
 
 XI. Ordenar la detención de los imputados cuando proceda;
 
@@ -191,7 +203,7 @@ XII. Promover la aplicación de los mecanismos alternativos de solución de cont
 
 XIII. Decidir la terminación anticipada del procedimiento penal en los casos que la ley establezca;
 
-XIV. Solicitar a los órganos jurisdiccionales las órdenes de cateo, la prohibición de abandonar una demarcación geográfica, el aseguramiento o embargo precautorio de bienes que resulten indispensables para los fines de la investigación y debido cumplimiento de sentencia, así como de aquéllas medidas que fueren legalmente procedentes, en los términos de la Constitución Federal, el Código Procesal, y demás ordenamientos legales aplicables;
+XIV. (DEROGADA, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 XV. Poner a disposición de las autoridades y órganos competentes, a los menores de edad a quienes se atribuya la realización de conductas tipificadas como delitos en el Código Penal para el Estado, o en otros ordenamientos que así las contemplen;
 
@@ -209,7 +221,9 @@ Una vez expedida la autorización a que se refiere el párrafo anterior, el Mini
 
 En las actividades que desarrollen el o los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior;
 
-XXI. Aplicar los criterios de oportunidad establecidos en el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XXI. Aplicar los criterios de oportunidad establecidos en el Código Nacional;
 
 XXII. Solicitar al Procurador General de Justicia, autorice a elementos de la Policía Ministerial para que acudan a determinados lugares; se introduzcan entre grupos de personas o actividades;
 
@@ -217,9 +231,13 @@ En las actividades que desarrollen él, o los elementos de Policía Ministerial 
 
 Para el cumplimiento de lo señalado en el párrafo anterior, el Procurador General de Justicia, deberá expedir los lineamientos generales que correspondan;
 
-XXIII. Promover, en su caso, los procedimientos especiales establecidos en el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-XXIV. Ordenar o realizar los actos urgentes previos a la querella, en los términos del Código Procesal;
+XXIII. Promover, en su caso, los procedimientos especiales establecidos en el Código Nacional;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XXIV. Ordenar o realizar los actos urgentes previos a la querella, en los términos del Código Nacional;
 
 XXV. Dictar el no ejercicio de la acción penal;
 
@@ -237,19 +255,25 @@ En los casos de no ejercicio de la acción penal, tratándose del delito de narc
 
 En la promoción de diligencias para la consecución de la justicia penal, el Ministerio Público deberá:
 
-I. Ejercitar la acción penal, o acción de remisión tratándose de menores, ante el órgano jurisdiccional distinto al del lugar de la comisión del delito, en los términos señalados en el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+I. Ejercitar la acción penal, o acción de remisión tratándose de menores, ante el órgano jurisdiccional distinto al del lugar de la comisión del delito, en los términos señalados en el Código Nacional;
 
 II. Solicitar al órgano jurisdiccional las órdenes de aprehensión, de reaprehensión, de comparecencia, o citación, que en el caso particular procedan.
 
 Tratándose de delitos graves, podrá solicitar las órdenes de aprehensión por cualquier medio;
 
-III. Solicitar a los órganos jurisdiccionales las órdenes de cateo, constitución de garantías, el aseguramiento o el embargo precautorio de bienes que resulten indispensables para los fines de la reparación del daño y perjuicios, así como del debido cumplimiento de sentencia, y de aquéllas que fueren legalmente procedentes, en los términos de la Constitución Federal, el Código Penal, y el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+III. Solicitar a los órganos jurisdiccionales las órdenes de cateo, constitución de garantías, el aseguramiento o el embargo precautorio de bienes que resulten indispensables para los fines de la reparación del daño y perjuicios, así como del debido cumplimiento de sentencia, y de aquéllas que fueren legalmente procedentes, en los términos de la Constitución Federal, el Código Penal, y el Código Nacional;
 
 IV. Poner a disposición de la autoridad judicial a las personas detenidas y aprehendidas, dentro de los plazos establecidos por la ley, así como los instrumentos, huellas, objetos y productos del delito;
 
 V. Aportar datos de prueba y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, de la plena responsabilidad penal, de la existencia de daños y perjuicios para la fijación del monto de su reparación;
 
-VI. Formular la imputación en los términos que señale el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Formular la imputación en los términos que señale el Código Nacional;
 
 VII. Promover la mediación o conciliación en los casos en que procedan, salvaguardando el interés de las partes;
 
@@ -265,7 +289,9 @@ XII. Vigilar el adecuado desarrollo de los procesos;
 
 XIII. Solicitar la detención provisional, e internamiento cuando proceda, en los casos de menores;
 
-XIV. Promover los recursos establecidos en, el Código Procesal Penal; y la Ley de Justicia para Menores del Estado de San Luis Potosí, según sea el caso, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Promover los recursos establecidos en el Código Nacional; y la Ley de Justicia para Menores del Estado de San Luis Potosí, según sea el caso, y
 
 XV. Las demás atribuciones que le confieran las leyes.
 
@@ -291,7 +317,9 @@ En la atención a las víctimas u ofendidos por delitos, el Ministerio Público 
 
 I. Informar de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos, esta Ley, y demás ordenamientos aplicables en la materia;
 
-II. Recibir todos los elementos de prueba que la víctima u ofendido le aporte en ejercicio de su derecho de coadyuvancia, para acreditar los extremos de los artículos, 16 y 19 de la Constitución Política de los Estados Unidos Mexicanos, del Código Procesal y, demás ordenamientos aplicables en la materia, así como para determinar, en su caso, la procedencia y monto de la reparación de los daños y perjuicios;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+II. Recibir todos los elementos de prueba que la víctima u ofendido le aporte en ejercicio de su derecho de coadyuvancia, para acreditar los extremos de los artículos, 16 y 19 de la Constitución Política de los Estados Unidos Mexicanos, del Código Nacional y, demás ordenamientos aplicables en la materia, así como para determinar, en su caso, la procedencia y monto de la reparación de los daños y perjuicios;
 
 III. Fundar y motivar la negativa cuando considere que no es necesario incorporar los datos de prueba que haya aportado la víctima, por estimar que no son pertinentes, suficientes o idóneos para demostrar el hecho delictivo, la responsabilidad penal o la reparación del daño;
 
@@ -315,7 +343,9 @@ XII. Tener como coadyuvante a la víctima, ofendido o a quien éstos designen;
 
 XIII. Recibir todos los datos o elementos de prueba con los que cuente, siempre que sean pertinentes, tanto en la investigación, como en el proceso;
 
-XIV. Recibir los recursos que interponga de conformidad con el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Recibir los recursos que interponga de conformidad con el Código Nacional;
 
 XV. Solicitar el desahogo de las diligencias de investigación que le proponga, salvo que considere que no es necesario el desahogo de determinada actuación, debiendo fundar y motivar su negativa;
 
@@ -423,7 +453,9 @@ e) Toda otra policía estatal, o municipal; o privada.
 
 f) Los funcionarios de las dependencias de la administración pública estatal y municipal, en términos de las disposiciones aplicables.
 
-g) Los consultores técnicos, cuyas funciones se establecen en el Código Procesal.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+g) Los consultores técnicos, cuyas funciones se establecen en el Código Nacional.
 
 h) Los demás que señalen otras leyes.
 
@@ -495,9 +527,13 @@ XVI. Las demás disposiciones aplicables.
 
 La policía actuará conforme a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-La policía no podrá recibir declaración del imputado. En caso de que el imputado manifieste su deseo de declarar, se deberá comunicar ese hecho al Ministerio Público para que tome las medidas necesarias, y declare inmediatamente ante éste, o se inicien los trámites para la realización de la audiencia en la que se le formule la imputación y se reciban sus manifestaciones con las formalidades previstas en el Código Procesal.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-Para lo relativo a las restricciones, y deberes policiales de observación de formalidades, se estará a lo dispuesto en el Código Procesal.
+La policía no podrá recibir declaración del imputado. En caso de que el imputado manifieste su deseo de declarar, se deberá comunicar ese hecho al Ministerio Público para que tome las medidas necesarias, y declare inmediatamente ante éste, o se inicien los trámites para la realización de la audiencia en la que se le formule la imputación y se reciban sus manifestaciones con las formalidades previstas en el Código Nacional.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Para lo relativo a las restricciones, y deberes policiales de observación de formalidades, se estará a lo dispuesto en el Código Nacional.
 
 Conforme a las instrucciones que dicte el Ministerio Público, la Policía Ministerial del Estado ejecutará las diligencias que deban practicarse durante la investigación de los delitos y, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen, y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial, así como las órdenes de detención que, en los casos dispuestos en la ley, dicte el propio Ministerio Público.
 
@@ -698,6 +734,10 @@ LI. Consejo de Carrera de Procuración de Justicia y Policial, en adelante Conse
 LII. Comisión de Honor y Justicia, y
 
 LIII. Consejo Consultivo de Procuración de Justicia,
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+Asimismo contará como órgano desconcentrado con el Centro de Protección de Personas que intervienen en el Proceso Penal, el cual tendrá las atribuciones que establece la Ley de la materia.
 
 ###### ARTÍCULO 37.
 
@@ -977,7 +1017,9 @@ II. Coordinar las acciones de las agencias del Ministerio Público de su adscrip
 
 III. Iniciar, integrar y resolver con agilidad y pertinencia, las carpetas de investigación que se registran en las unidades a su cargo;
 
-IV. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores del Estado, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores del Estado, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal, o provisional en los casos de menores, de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuarlas a fin de ejercitar la acción penal , o acción de remisión tratándose de menores.
 
@@ -1003,7 +1045,9 @@ IX. Establecer, en coordinación con las demás subprocuradurías de la instituc
 
 X. Promover y fomentar entre los servidores públicos de la subprocuraduría, una cultura de respeto, preservación y cuidado de las garantías individuales, y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada en Delitos Sexuales; Contra la Familia, y Grupos Vulnerables;
 
-XI. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado, y en los códigos, Penal; y Procesal Penal para el Estado, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado; el Código Penal para el Estado, y el Código Nacional, y
 
 XII. Las demás que establezca la presente Ley, su Reglamento, y el Procurador mediante acuerdo.
 
@@ -1017,7 +1061,9 @@ II. Intervenir en los procesos, por sí o por conducto de los agentes del Minist
 
 III. Coordinar las acciones de los agentes del Ministerio Público adscritos a los órganos jurisdiccionales, en materia de persecución de delitos, civil, y de lo familiar, bajo una estrategia integral de actuación de la Procuraduría, con base en las normas aplicables y criterios institucionales que establezca el presente Ordenamiento, su Reglamento, el programa sectorial de procuración de justicia, y los demás instrumentos normativos y de planeación que determine el Procurador;
 
-IV. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) La no acusación, cuando estime que no cuenta con elementos suficientes para fundar.
 
@@ -1031,7 +1077,9 @@ VII. Establecer mecanismos de coordinación con las demás subprocuradurías, as
 
 VIII. Promover y fomentar entre los servidores públicos de la subprocuraduría a su cargo, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada en Delitos Sexuales; Contra la Familia, y Grupos Vulnerables.
 
-IX. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado, y en los códigos, Penal; y Procesal Penal para el Estado, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IX. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado; el Código Penal para el Estado, y Código Nacional, y
 
 X. Las demás que establezcan la presente Ley, su Reglamento, y el Procurador.
 
@@ -1045,7 +1093,9 @@ II. Coordinar y supervisar en la región correspondiente, las actividades y func
 
 III. Iniciar, integrar y resolver con agilidad y pertinencia las carpetas de investigación que se registran en las unidades a su cargo;
 
-IV. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal, o provisional en los casos de menores, de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuarlas a fin de ejercitar la acción penal, o acción de remisión.
 
@@ -1071,7 +1121,9 @@ IX. Establecer, en coordinación con las demás subprocuradurías de la instituc
 
 X. Promover y fomentar entre los servidores públicos de la subprocuraduría a su cargo, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada en Delitos Sexuales; Contra la Familia, y Grupos Vulnerables;
 
-XI. Promover y fomentar entre los servidores públicos de la subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado, y en los códigos, Penal, y Procesal Penal para el Estado, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XI. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado; el Código Penal del Estado, y el Código Nacional, y
 
 XII. Las demás que establezca la presente Ley, su Reglamento, y el Procurador.
 
@@ -1113,7 +1165,9 @@ XVI. Coordinar y supervisar las actividades y funcionamiento de las agencias del
 
 XVII. Iniciar, realizar y resolver con agilidad y pertinencia las carpetas de investigación que se registran en las unidades a su cargo;
 
-XVIII. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores, el proyecto, el proyecto, (sic) por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XVIII. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores, el proyecto, el proyecto (sic), por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal, o provisional en los casos de menores, de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuarlas a fin de ejercitar la acción penal, o acción de remisión.
 
@@ -1143,7 +1197,9 @@ XXV. Proponer e instrumentar las políticas institucionales para la capacitació
 
 XXVI. Promover y fomentar entre los servidores públicos, una cultura de respeto a las garantías individuales, y a los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte;
 
-XXVII. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado, y en los, códigos; Penal, y Procesal Penal del Estado;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XXVII. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado; el Código Penal del Estado, y en el Código Nacional;
 
 XXVIII. Atender las visitas, quejas, propuestas de conciliación, medidas precautorias, cautelares y recomendaciones de la Comisión Nacional; y de la Comisión Estatal, de Derechos Humanos;
 
@@ -1169,7 +1225,9 @@ II. Coordinar y supervisar las actividades y funcionamiento de las agencias del 
 
 III. Iniciar, realizar y resolver con agilidad y pertinencia, las carpetas de investigación que se registran en las unidades a su cargo;
 
-IV. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+IV. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal; o provisional en los casos de menores de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuarlas a fin de ejercitar la acción penal, o acción de remisión.
 
@@ -1197,7 +1255,9 @@ X. Promover la capacitación y conocimiento de las lenguas indígenas del person
 
 XI. Promover y fomentar entre los servidores públicos de la Subprocuraduría a su cargo, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada en Delitos Sexuales; Contra la Familia, y Grupos Vulnerables;
 
-XII. Garantizar que las personas indígenas que intervienen en una investigación penal, cuenten en todo momento con un traductor que hable y entienda su lengua indígena, en términos de lo dispuesto por el Código Procesal Penal para el Estado;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XII. Garantizar que las personas indígenas que intervienen en una investigación penal, cuenten en todo momento con un traductor que hable y entienda su lengua indígena, en términos de lo dispuesto por el Código Nacional;
 
 XIII. Solicitar el auxilio de las instituciones especializadas en la materia, tales como la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, Instituto de Desarrollo Humano y Social de Pueblos y Comunidades Indígenas en el Estado, o instituciones académicas, para la elaboración de los estudios sociológicos y antropológicos conducentes y, celebrar con las mismas, los convenios que fueran necesarios;
 
@@ -1207,7 +1267,9 @@ XV. Proporcionar la protección a las personas indígenas víctimas del delito, 
 
 XVI. Organizar, controlar y vigilar la actuación de los agentes del Ministerio Público Especializado en Asuntos Indígenas, y de los agentes de la Policía Ministerial de su adscripción; y elegir para esos cargos, a quienes hablen la lengua de la zona indígena a la que sean asignados;
 
-XVII. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal, en la Constitución del Estado, y en los códigos, Penal; y Procesal Penal para el Estado, y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XVII. Promover y fomentar entre los servidores públicos de la Subprocuraduría, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad y auxilio; que se recaben las pruebas conducentes para solicitar la reparación del daño; así como todas las medidas cautelares necesarias para la realización de las diligencias de careos y toma de declaraciones tratándose de delitos de violación, secuestro u otros que comprometan su integridad física y emocional, conforme a las reglas señaladas en la Constitución Federal; la Constitución del Estado; el Código Penal del Estado; y el Código Nacional, y
 
 XVIII. Las demás que establezcan la presente Ley, su Reglamento, y el Procurador mediante acuerdo.
 
@@ -1239,7 +1301,9 @@ VIII. Conocer de los delitos electorales previstos en el Código Penal del Estad
 
 IX. Ejercer las atribuciones que en materia de investigación y persecución de los delitos de su competencia, le confiere al Ministerio Público esta Ley;
 
-X. Autorizar, en su caso, en los términos del Código Procesal, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+X. Autorizar, en su caso, en los términos del Código Nacional, y la Ley de Justicia para Menores, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal, o provisional en los casos de menores, de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuarlas a fin de ejercitar la acción penal; o acción de remisión.
 
@@ -1259,7 +1323,9 @@ XII. Ordenar la detención y, en su caso, la retención de los probables respons
 
 XIII. Participar en coordinación con las instancias competentes, en la elaboración y ejecución del programa de prevención de los delitos electorales;
 
-XIV. Promover y fomentar entre los servidores públicos de la Agencia Especializada a su cargo, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con las áreas competentes;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Coordinar el registro de la información y, en su caso, de las actividades relacionadas con la detención en flagrancia de personas, de conformidad con lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; y por las disposiciones del Código Nacional;
 
 XV. Promover y fomentar entre los servidores públicos de la Agencia Especializada, la preservación de los bienes, derechos y garantías de las víctimas u ofendidos del delito, cuidando que se dicten todas las medidas y providencias necesarias para proporcionarles seguridad, y auxilio, y
 
@@ -1363,7 +1429,9 @@ XII. Preservar el lugar y la escena de los hechos probablemente constitutivos de
 
 XIII. Poner inmediatamente a disposición de la autoridad competente, a las personas aprehendidas, y a las que deban ser presentadas por órdenes de comparecencia;
 
-XIV. Coordinar el registro de la información y, en su caso, de las actividades relacionadas con la detención en flagrancia de personas, de conformidad con lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; y por las disposiciones del Código Procesal Penal para el Estado;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Coordinar el registro de la información y, en su caso, de las actividades relacionadas con la detención en flagrancia de personas, de conformidad con lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; y por las disposiciones del Código Nacional;
 
 XV. Coordinar las actividades tendientes a otorgar protección a las víctimas u ofendidos por el delito, así como a sus familiares o personas relacionadas con el hecho, y a los testigos del mismo;
 
@@ -1389,7 +1457,9 @@ XXIV. Entrevistar a las personas que pudieran aportar algún dato o elemento par
 
 XXV. Solicitar a las autoridades competentes, y a las personas físicas o morales, informes y documentos para fines de la investigación, en caso de negativa, informarán al Ministerio Publico para que éste los requiera;
 
-XXVI. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas de acuerdo con lo previsto en el Código Procesal;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XXVI. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas de acuerdo con lo previsto en el Código Nacional;
 
 XXVII. Emitir los informes; partes policiales; y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
 
@@ -1587,7 +1657,9 @@ XI. Iniciar e integrar las carpetas de investigación por las conductas probable
 
 XII. Dirigir y supervisar las funciones de investigación y seguimiento en la persecución de delitos cometidos por servidores públicos de la institución, con las atribuciones previstas en los artículos, 8°, 9°, 10, 11 y 12 de esta Ley; y ejercer la facultad de atracción para la investigación de delitos cometidos por servidores públicos de la institución, en cualquier circunscripción territorial, competencia de las subprocuradurías;
 
-XIII. Autorizar, en su caso, en los términos del Código Procesal, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Autorizar, en su caso, en los términos del Código Nacional, el proyecto, por conducto de sus respectivas áreas, de los expedientes que remitan a consulta los agentes del Ministerio Público de su adscripción, en los que propongan:
 
 a) El archivo temporal de aquellas investigaciones en las que no se encuentren antecedentes suficientes que permitan desarrollar actividades conducentes al esclarecimiento de los hechos, en tanto se obtengan datos que permitan continuar a fin de ejercitar la acción penal.
 
@@ -2825,31 +2897,27 @@ La Dirección de Administración de la Procuraduría rendirá mensualmente a la 
 
 ### Capítulo II. De su Integración y Destino
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 165.
 
 El Fondo de Apoyo se integrará con:
 
-I. El importe de las cauciones otorgadas para garantizar la libertad provisional, en administración; y en propiedad las que se hagan efectivas;
+I. Las multas impuestas por los agentes del Ministerio Público, o por los funcionarios de la Procuraduría que en el ejercicio de sus funciones tengan ese carácter;
 
-II. El monto de la reparación del daño, cuando la parte ofendida o la víctima, renuncie a el, o no lo reclame dentro del plazo de treinta días hábiles, contados a partir de la notificación de que quedó a su disposición;
+II. Los bienes y valores depositados por cualquier motivo ante el Ministerio Público cuando no fueren reclamados por el depositante o por quien tenga derecho a ellos, dentro del plazo de noventa días hábiles, observándose, en su caso, lo dispuesto en el Código Penal del Estado sobre objetos puestos a su disposición que no hayan sido, ni puedan ser decomisados;
 
-III. Las multas impuestas por los agentes del Ministerio Público, o por los funcionarios de la Procuraduría que en el ejercicio de sus funciones tengan ese carácter;
+III. Los intereses o rendimientos provenientes de cantidades consignadas ante el Ministerio Público por los particulares, cualquiera que sea la causa;
 
-IV. Los bienes y valores depositados por cualquier motivo ante el Ministerio Público cuando no fueren reclamados por el depositante o por quien tenga derecho a ellos, dentro del plazo de noventa días hábiles, observándose, en su caso, lo dispuesto en el Código Penal del Estado sobre objetos puestos a su disposición que no hayan sido, ni puedan ser decomisados;
+IV. Las sanciones económicas que se impongan al personal de la Fiscalía con motivo de procedimientos administrativos disciplinarios o resarcitorios que hayan quedado firmes;
 
-V. Los intereses o rendimientos provenientes de cantidades consignadas ante el Ministerio Público por los particulares, cualquiera que sea la causa;
+V. Los ingresos que generen los bienes o valores del Fondo de Apoyo;
 
-VI. El numerario, o los bienes asegurados incautados o decomisados, siguiendo la regla de la fracción I; con excepción de aquéllos a que se refiere la Ley de Extinción de Dominio para el Estado;
+VI. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
 
-VII. Las sanciones económicas que se impongan al personal de la Procuraduría con motivo de procedimientos administrativos disciplinarios o resarcitorios que hayan quedado firmes;
+VII. Las donaciones, herencias o legados, así como las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas físicas o morales, y
 
-VIII. Los ingresos que generen los bienes o valores del Fondo de Apoyo;
-
-IX. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
-
-X. Las donaciones, herencias o legados, así como las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas físicas o morales, y
-
-XI. Todas aquéllas aportaciones o transferencias provenientes de instituciones u organismos nacionales o internacionales.
+VIII. Todas aquéllas aportaciones o transferencias provenientes de instituciones u organismos nacionales o internacionales.
 
 ###### ARTÍCULO 166.
 
@@ -2936,3 +3004,11 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el treinta de septiembre del dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Procuraduría General de Justicia contará con un plazo máximo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para crear el organismo desconcentrado denominado Centro de Protección de Personas que Intervienen en el Proceso Penal, conforme lo dispone la ley de la materia y para emitir el Reglamento Interior del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
