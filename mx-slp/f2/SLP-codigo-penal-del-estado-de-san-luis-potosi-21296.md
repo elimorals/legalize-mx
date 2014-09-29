@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-09-25"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, Y CON REFORMA DEL 28 DE FEBRERO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL TREINTA DE SEPTIEMBRE DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2014.
+> <small>N. DE E. CON RELACIÓN A LA APLICACIÓN DEL PRESENTE CÓDIGO PARA LOS HECHOS U OMISIONES EJECUTADOS DURANTE SU VIGENCIA, VÉASE ARTÍCULOS PRIMERO Y SEXTO TRANSITORIOS PUBLICADOS EN EL P. O. DE 29 DE SEPTIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -833,7 +835,7 @@ IV. A los delincuentes a quienes se haya suspendido la ejecución de la sentenci
 
 V. Los sentenciados que disfruten de los beneficios de la suspensión condicional quedarán sujetos al cuidado y vigilancia de la autoridad ejecutora;
 
-VI. En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurrido el término a que se refiere la fracción VII de este artículo, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que prudentemente le fije, apercibido de que se hará efectiva la sanción si no lo hace. En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento antes expresados;
+VI. En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurrido el término a que se refiere la fracción VII de este artículo, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que prudentemente le fije, apercibido de que se hará efectiva la sanción si no lo hace. En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento antes expresados (sic);
 
 VII. Si durante el término de duración de la pena, contado desde la fecha de la sentencia que cause ejecutoria, el condenado no diere lugar a nuevo proceso por delito doloso que concluya con una sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en la que el reo será considerado como reincidente, sin perjuicio de lo establecido en el artículo 18 de este Código. Tratándose de delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse o no la sanción suspendida;
 
@@ -4675,7 +4677,7 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
-P.O. 14 DE AGOSTO DE 2014
+P.O. 14 DE AGOSTO DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4686,3 +4688,21 @@ P.O. 25 DE SEPTIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el treinta de septiembre de dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al entrar en vigor el presente ordenamiento, se abroga el Código Penal del Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, el dieciséis de octubre de dos mil doce, mediante Decreto Legislativo 1155, que se (sic) cuya entrada en vigor se estableció para el treinta de septiembre de dos mil catorce.
+
+TERCERO. El Código que se publicó en el Periódico Oficial del Estado, mediante Decreto 571 del treinta de septiembre de dos mil, y que se abroga con la expedición del Decreto Legislativo 1155, seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que, conforme al presente Código, hayan dejado de considerarse como delitos o que este ordenamiento resulte más favorable. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+CUARTO. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo que no esté previsto en este Código.
+
+QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado del (sic) dieciocho de junio de dos mil ocho, se aplicarán las reglas previstas para la investigación de los delitos objeto de la (sic) presente Código.
+
+SEXTO. Tratándose del delito de secuestro, se seguirá aplicando el Código expedido con el Decreto Legislativo número 571 abrogado, para aquellos casos iniciados durante su vigencia y antes de la expedición de la Ley General para Prevenir y Sancionar este delito, debiéndose aplicar ésta a partir de su entrada en vigor.
+
+Por lo que se refiere a los delitos de trata de personas y narcomenudeo, se estará a lo señalado en las Leyes Generales Respectivas.
+
+SÉPTIMO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
