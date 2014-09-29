@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2014-01-20"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -519,7 +519,9 @@ XXXV. Formular y presentar al Gobernador del Estado, en coordinación con la Sec
 
 XXXVI. Tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
 
-XXXVII. Supervisar los trabajos del Centro de Control y Evaluación de la Actividad Policial, cuyos dictámenes se turnarán a las Dependencias competentes para el análisis y sanción que corresponda, según el caso;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+XXXVII. Dirigir y coordinar los trabajos del Centro de Evaluación y Control de Confianza del Estado de Aguascalientes, cuyos dictámenes se turnarán a las Dependencias competentes para el análisis y sanción que corresponda, según el caso, asimismo informar y responder ante el Consejo Estatal de Seguridad Pública en las sesiones ordinarias de éste;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
@@ -1884,3 +1886,21 @@ P.O. 20 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal y el presupuesto con el que actualmente cuenta y opera el Centro de Evaluación y Control de Confianza del Estado de Aguascalientes se transfieren a partir de la entrada en vigencia del presente Decreto a la Secretaría de Gobierno del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el Artículo 24 Fracción V de la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, se entenderá hecha al Procurador General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones contrarias al contenido del presente decreto.
