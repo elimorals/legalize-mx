@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-penitenciario-del-estado-de-san-luis-potosi-818
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-18"
-last_updated: "2012-09-13"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DEL SISTEMA PENITENCIARIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES; PENAS, Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Ley publicada en la edición extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 18 de junio de 2011.
 
@@ -584,3 +586,13 @@ P.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. Esta Ley entrará en vigor el treinta de septiembre de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de esta Ley, se abroga la Ley del Sistema Penitenciario del Estado de San Luis Potosí, publicada como Decreto Legislativo número 572, edición extraordinaria del Periódico Oficial del Estado, del dieciocho de junio del dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado, dentro del término de noventa días a la entrada en vigor del presente Decreto, deberá emitir el Reglamento de la Unidad de Servicios Previos al Juicio a que se refiere el artículo 16 de esta Ley.
