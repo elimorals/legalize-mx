@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2014-01-10"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -71,6 +71,10 @@ IV. Estatuto Orgánico: El Estatuto Orgánico del Instituto;
 V. Instituto: El Instituto de Verificación Administrativa del Distrito Federal; y
 
 VI. Ley: La Ley del Instituto de Verificación Administrativa del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+VII. Coordinador: Al Coordinador General
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -164,6 +168,10 @@ IV. Velar, en la esfera de su competencia, por el cumplimiento de las leyes, reg
 
 V. El Instituto no podrá ordenar la práctica de visitas de verificación en materias que sean de competencia exclusiva de las Delegaciones, se exceptúan las ordenadas y practicadas a establecimientos mercantiles de impacto zonal cuyo giro principal es la realización de juegos con apuestas y sorteos; y salvo situaciones de emergencia o extraordinarias, que son aquellas producidas por un desastre fuera de control y que sucedan inesperadamente, y en coordinación con las Delegaciones, en cualquiera de la (sic) materias que se establecen en el apartado B, fracción I del presente artículo.
 
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+VI. El Instituto ejecutara las suspensiones otorgadas por el Tribunal de lo Contenciosos (sic) Administrativo del Distrito Federal, dictadas en los juicios de lesividad promovidos por la Administración Pública Del Distrito Federal.
+
 B. Las Delegaciones tendrán las atribuciones siguientes:
 
 I. Ordenar, a los verificadores del Instituto, la práctica de visitas de verificación administrativa en las siguientes materias:
@@ -206,6 +214,10 @@ III. Contraloría Interna, y
 
 IV. Comisario Público.
 
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+V. Coordinador General
+
 ### Capítulo II. Del Consejo General
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
@@ -238,9 +250,17 @@ XI. El Titular de la Secretaría de Turismo del Distrito Federal;
 
 XII. El Titular de la Secretaría del Medio Ambiente del Distrito Federal;
 
-XIII. Los Titulares de los Órganos Político Administrativos del Distrito Federal que serán invitados permanentes.
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-Cada miembro propietario podrá designar un representante, con jerarquía no menor a director de área.
+XIII. El Titular de la Coordinación General de Control, Verificación y Evaluación, en su calidad de invitado permanente; y
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Los Titulares de los Órganos Político Administrativos del Distrito Federal que serán invitados permanentes.
+
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Cada miembro propietario podrá designar un representante, con jerarquía no menos a director de área.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -330,7 +350,9 @@ III. Aprobar el programa anual de trabajo y las políticas de actuación del Ins
 
 IV. Aprobar el programa anual de promoción y asesoría para el adecuado cumplimiento de la normativa aplicable en las materias de su competencia, que le someta a su consideración el Director General;
 
-V. Aprobar los programas anuales y trimestrales de verificaciones, de coordinación, supervisión y, en su caso, de auditoría que le someta a su consideración el Director General;
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+V. Aprobar los programas anuales y trimestrales de verificaciones, de coordinación, supervisión y, en su caso, de auditoria que le sometan a su consideración el Director General y/o el Coordinador General;
 
 VI. Conocer los informes de los resultados de las visitas de verificación y asistir sus integrantes, en calidad de observadores a las diligencias que practique el personal especializado en funciones de verificación;
 
@@ -340,13 +362,15 @@ VIII. Aprobar el establecimiento de un sistema interno de rendición de cuentas 
 
 IX. Emitir las convocatorias para la selección y admisión del personal especializado en las funciones de verificación;
 
-X. Aprobar, en su caso, las propuestas de nombramiento o remoción que le formule el Director General respecto de los servidores públicos que ocupen cargos en los dos niveles administrativos inferiores siguientes;
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+X. Aprobar, en su caso, las propuestas de nombramiento o remoción que le formule el Director General respecto de los servidores públicos que ocupen cargos en los dos niveles administrativos inferiores siguientes, así como de aquellas propuestas de remoción que formule el Coordinador General respecto a los servidores públicos mencionados;
 
 XI. Emitir los lineamientos de actuación del personal especializado en las funciones de verificación;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-XII. Proponer reformas al reglamento que establezca el procedimiento de verificación administrativa, contando con la opinión de los titulares de los Órganos Político Administrativo del Distrito Federal;
+XII. Proponer reformas al reglamento que establezca el procedimiento de verificación administrativa, contando con la opinión de los titulares de los Órganos Político Administrativos del Distrito Federal y del Titular de la Coordinación General de Control, Verificación y Evaluación;
 
 XIII. Aprobar los tabuladores para el pago de los servidores públicos del Instituto, así como la normatividad y la política de remuneración del personal y determinar las políticas y lineamientos administrativos respecto a la contratación de servicios profesionales;
 
@@ -360,7 +384,7 @@ XVI. Crear, alimentar y tener actualizada la base de datos de la actividad verif
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-XVII. Cuidar la congruencia global de las funciones paraestatales del Instituto con el sistema de planeación del Distrito Federal y con los lineamientos generales en materia de gasto, financiamiento, control, evaluación y transparencia; y (sic)
+XVII. Cuidar la congruencia global de las funciones paraestatales del Instituto con el sistema de planeación del Distrito Federal y con los lineamientos generales en materia de gasto, financiamiento, control, evaluación y transparencia; y
 
 XVIII. Hacer la adscripción de los verificadores atendiendo las necesidades de las dependencias de la Administración Pública Centralizada y de los Órganos Político Administrativos;
 
@@ -390,9 +414,11 @@ El Director General podrá ser removido por acuerdo del Consejo General a propue
 
 Para el ejercicio de las atribuciones que le confiere la Ley, el titular de la Dirección General se auxiliará de las unidades administrativas y órganos que establezca el Estatuto Orgánico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Son atribuciones del titular de la Dirección General:
+Son atribuciones del Titular de la Dirección General:
 
 I. Dirigir y representar legalmente al Instituto;
 
@@ -418,7 +444,7 @@ X. Formular el programa anual de trabajo del Instituto, los proyectos de program
 
 XI. Publicar en la página web del Instituto, la relación de las verificaciones realizadas y el resultado de las mismas y mantener actualizada dicha información;
 
-XII. Diseñar y aplicar indicadores para evaluar el desempeño del personal y en general del Instituto, así como la observancia del programa de trabajo;
+XII. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2014)
 
 XIII. Someter a la consideración del Consejo General el programa de estímulos al personal especializado en funciones de verificación;
 
@@ -446,11 +472,77 @@ XXII. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
 XXIII. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+### Capítulo III Bis. De la Coordinación General
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 19 Bis.
+
+El titular de la Coordinación General de Control, Verificación y Evaluación será designado y removido por el Jefe de Gobierno del Distrito Federal y tendrá a su cargo las actividades relativas a la verificación y vigilancia preventivas de los procedimientos que realiza el Instituto, además de determinar posibles deficiencias en los procesos de las áreas, recomendando acciones de mejora en los mismos, a efecto de garantizar el cumplimiento a la normatividad aplicable a la materia. El Coordinador General, deberá satisfacer los siguientes requisitos:
+
+I. Residir en el Distrito Federal cuando menos seis meses antes de la designación;
+
+II. No haber sido condenado por la comisión de algún delito doloso;
+
+III. Acreditar estudios terminados de licenciatura, cuando menos; y
+
+IV. No encontrarse destituido ni inhabilitado para el desempeño de empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 19 Ter.
+
+Para el ejercicio de las atribuciones que le confiere la Ley, el titular de la Coordinación General se auxiliara de las unidades administrativas y órganos que establezca el Estatuto Orgánico.
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 19 Quater.
+
+Son atribuciones del Titular de la Coordinación General:
+
+I. Diseñar y aplicar indicadores para evaluar el desempeño del personal y en general del Instituto, así como la observancia del programa de trabajo;
+
+II. Realizar propuestas de creación de los instrumentos normativos internos, así como de iniciativas de reforma, adición o modificación al Estatuto Orgánico para su análisis, discusión y en su caso aprobación;
+
+III. Verificar el correcto cumplimiento de los instrumentos normativos internos;
+
+IV. Llevar a cabo programas preventivos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos que forman parte del Instituto, garantizando la mejora continua en los procesos;
+
+V. Dar seguimiento a las acciones que se implementen en las diversas áreas del Instituto para la mejora en sus procesos, a fin de apoyarlas en el cumplimiento de sus objetivos estratégicos;
+
+VI. Efectuar la evaluación de riesgos que puedan obstaculizar el cumplimiento de las metas y objetivos del Instituto;
+
+VII. Promover y fomentar dentro del Instituto el establecimiento de pronunciamientos de carácter ético, así como de programas orientados a la transparencia y el combate a la corrupción;
+
+VIII. Proponer al Consejo General acciones, programas y proyectos, encaminados al desarrollo, modernización y mejora de la gestión pública dentro del Instituto;
+
+IX. Proponer al Consejo General las intervenciones que en materia de evaluación, verificación preventiva y de control se deben de integrar al programa anual de trabajo;
+
+X. Establecer acciones preventivas y de transformación institucional a partir de los resultados de las distintas evaluaciones a los modelos, programas y de estrategias establecidas en el Instituto;
+
+XI. Proponer ante el Consejo General, para su aprobación, la remoción de los servidores públicos que integren el Instituto;
+
+XII. Solicitar cualquier tipo de documentación, información o datos estadísticos que le permitan determinar los indicadores de gestión e impacto del Instituto, así como aquella que le sea necesaria para el ejercicio de sus funciones;
+
+XIII. Verificar la aplicación de los programas de modernización, simplificación, desarrollo y mejoramiento administrativo del Instituto;
+
+XIV. Instrumentar y coordinar de manera trimestral y anualmente un programa de inspección de la actividad del Personal Especializado asignado a las Delegaciones y al Instituto, en el ámbito de su competencia;
+
+XV. Verificar el correcto desarrollo del proceso de selección de personal del Instituto, en su ingreso, permanencia y evaluación, de conformidad con ,os (sic) instrumentos, disposiciones jurídicas y administrativas aplicables;
+
+XVI. Proponer los lineamientos con un enfoque preventivo, analizar y mejorar los registros que al efecto se requiera;
+
+XVII. Las demás que le atribuya esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Artículo 19 Quintus.- El Coordinador General podrá delegar cualquiera de sus facultades en otros servidores públicos del Instituto que le estén jerárquicamente subordinados, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o por determinación del Consejo General le corresponda exclusivamente.
+
 ### Capítulo IV. De la Organización del Instituto
 
 > <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
-
-### Capítulo V. Del Control y Vigilancia del Instituto
 
 ###### Artículo 20.
 
@@ -464,15 +556,17 @@ La Unidad del Instituto de Verificación Administrativa que se ubique en las dem
 
 El área encargada de ordenar las visitas de verificación a que se refiere el artículo 7 apartado A de esta Ley será diferente de la encargada de calificar las actas que se levanten y emitir las resoluciones correspondientes.
 
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 22.
 
-Los titulares de las Direcciones Ejecutivas territoriales así como el personal adscrito a las mismas, no podrán permanecer más de un año en la misma demarcación, por lo que el Director General implementará el sistema de rotación correspondiente.
+Los titulares de las Direcciones Ejecutivas territoriales así como el personal adscrito a las mismas, no podrán permanecer más de un año en la misma demarcación, por lo que el Director General implementara el sistema de rotación correspondiente, previa aprobación del Consejo General, así como del seguimiento y vigilancia de la Coordinación General.
 
 ###### Artículo 23.
 
 El personal especializado en funciones de verificación estará adscrito a las Direcciones Ejecutivas a que se refiere el artículo 20 de esta Ley y practicarán las visitas que fueren ordenadas conforme al sistema de turnos que implemente el Director General.
 
-### Capítulo VI. De las Responsabilidades, Régimen Laboral y Bases para la Incorporación de Personal Especializado y La Adopción de Nuevas Tecnologías
+### Capítulo V. Del Control y Vigilancia del Instituto
 
 ###### Artículo 24.
 
@@ -544,6 +638,8 @@ XI. Rendir anualmente al Órgano de Gobierno y a la Contraloría General un info
 
 XII. Las demás que le atribuyan esta ley y demás ordenamientos aplicables.
 
+### Capítulo VI. De las Responsabilidades, Régimen Laboral y Bases para la Incorporación de Personal Especializado y La Adopción de Nuevas Tecnologías
+
 ###### Artículo 28.
 
 Para ingresar al Instituto como personal especializado en las funciones de verificación, se requiere:
@@ -612,13 +708,13 @@ III. El diseño y ejecución permanente de programas de formación y actualizaci
 
 Para permanecer en el Instituto como personal especializado en las funciones de verificación, se requiere:
 
-> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-I. Participar en los programas de formación y actualización a que sean convocados, y aprobar los procesos de evaluación y cursos respectivos, que a solicitud del Director General determine el Consejo General;
+I. Participar en los programas de formación y actualización a que sean convocados, y aprobar los procesos de evaluación y cursos respectivos, que a solicitud del Director General y/o del Coordinador General determine el Consejo General;
 
-> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-II. Someterse y aprobar las evaluaciones del desempeño, que a solicitud del Director General determine el Consejo General;
+II. Someterse y aprobar las evaluaciones del desempeño, que a solicitud del Director General y/o del Coordinador General determine el Consejo General;
 
 III. Someterse y aprobar las evaluaciones que se realicen para comprobar la conservación de los requisitos de ingreso.
 
@@ -705,3 +801,15 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Jefe de Gobierno realizará las adecuaciones necesarias al Estatuto Orgánico del Instituto de Verificación Administrativa del Distrito Federal, Organismo Público Descentralizado.
+
+QUINTO.- La implementación de la Coordinación General, debe ejecutarse bajo los criterios de costos compensados.
