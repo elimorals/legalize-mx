@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-ministerio-publico-del-estado-de-89069"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-20"
-last_updated: "2013-02-18"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2012.
 
@@ -511,11 +511,11 @@ VI. Directores, subdirectores, jefes de departamento y demás servidores públic
 
 ###### ARTÍCULO 38.
 
-El desarrollo de las funciones de investigación y persecución de los delitos a cargo de la Procuraduría General de Justicia se realizará bajo los principios de de especialización y de organización territorial.
+El desarrollo de las funciones de investigación y persecución de los delitos a cargo de la Procuraduría General de Justicia se realizará bajo los principios de de (sic) especialización y de organización territorial.
 
 De conformidad con el principio de especialización, la Procuraduría General de Justicia contará con unidades administrativas especializadas en la investigación y persecución de géneros de delitos, atendiendo a la naturaleza, complejidad e incidencia de los ilícitos. Las unidades administrativas especializadas contarán con las atribuciones y estructura administrativa que establezcan las disposiciones aplicables.
 
-De conformidad con el principio de organización territorial, la Procuraduría General de Justicia actuará por conducto de unidades administrativas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables; (sic)
+De conformidad con el principio de organización territorial, la Procuraduría General de Justicia actuará por conducto de unidades administrativas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables;
 
 ###### ARTÍCULO 39.
 
@@ -1115,9 +1115,7 @@ Los demás servidores públicos de la Procuraduría General de Justicia que no a
 
 ###### ARTÍCULO 85.
 
-La Procuraduría General de Justicia contará con un centro de evaluación y control de confianza que tendrá a su cargo la aplicación, calificación y valoración de los procesos de evaluación de control de confianza y de competencias profesionales y ejercerá las facultades que determinen las normas aplicables.
-
-En el ejercicio de sus funciones, el centro de evaluación y control de confianza de la Procuraduría General de Justicia podrá auxiliarse de las distintas unidades administrativas de la Procuraduría y se sujetará a los criterios, normas, procedimientos técnicos y protocolos que se establezcan para tales efectos en el marco del Sistema Nacional de Seguridad Pública.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2014)
 
 ###### ARTÍCULO 86.
 
@@ -1476,3 +1474,21 @@ P.O. 18 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal y el presupuesto con el que actualmente cuenta y opera el Centro de Evaluación y Control de Confianza del Estado de Aguascalientes se transfieren a partir de la entrada en vigencia del presente Decreto a la Secretaría de Gobierno del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el Artículo 24 Fracción V de la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, se entenderá hecha al Procurador General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones contrarias al contenido del presente decreto.
