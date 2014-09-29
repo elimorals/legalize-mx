@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-89855"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-10-16"
-last_updated: "2014-02-28"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre del 2012.
 
@@ -2291,7 +2293,7 @@ Así como a quien regentea, administra, sostenga, o se encarga, directa o indire
 
 Cuando el beneficio se obtenga a través de la prostitución o turismo sexual de personas menores de edad, o personas que no tiene (sic) la capacidad para comprender el significado del hecho, o que no tienen capacidad para resistirlo, la pena de prisión y la sanción pecuniaria señalada en el párrafo primero de este artículo, aumentarán hasta en la mitad.
 
-Tratándose de personas menores de edad, o personas que no tiene (sic) la capacidad para comprender el significado del hecho, o que no tienen capacidad para resistirlo, no se requerirá la comprobación de los medios a los que las fracciones I a VI del presente artículo. (sic)
+Tratándose de personas menores de edad, o personas que no tiene (sic) la capacidad para comprender el significado del hecho, o que no tienen capacidad para resistirlo, no se requerirá la comprobación de los medios a los que las fracciones I a VI del presente artículo.
 
 ###### ARTICULO 199.
 
@@ -3543,7 +3545,7 @@ Por ser competencia del ámbito federal, se exceptúan de lo señalado en el pá
 
 I. En los casos de delincuencia organizada;
 
-II. La cantidad del narcótico sea igual o mayor a la referida en el primer párrafo de este artículo; III. El narcótico no esté contemplado en la tabla, y (sic)
+II. La cantidad del narcótico sea igual o mayor a la referida en el primer párrafo de este artículo; III. El narcótico no esté contemplado en la tabla, y
 
 IV. Que independientemente de la cantidad del narcótico, el Ministerio Público de la Federación:
 
@@ -4450,3 +4452,21 @@ P.O. 28 DE FEBRERO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el uno de marzo de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el treinta de septiembre de dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al entrar en vigor el presente ordenamiento, se abroga el Código Penal del Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, el dieciséis de octubre de dos mil doce, mediante Decreto Legislativo 1155, que se (sic) cuya entrada en vigor se estableció para el treinta de septiembre de dos mil catorce.
+
+TERCERO. El Código que se publicó en el Periódico Oficial del Estado, mediante Decreto 571 del treinta de septiembre de dos mil, y que se abroga con la expedición del Decreto Legislativo 1155, seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que, conforme al presente Código, hayan dejado de considerarse como delitos o que este ordenamiento resulte más favorable. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+CUARTO. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo que no esté previsto en este Código.
+
+QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado del dieciocho de junio de dos mil ocho, se aplicarán las reglas previstas para la investigación de los delitos objeto de la (sic) presente Código.
+
+SEXTO. Tratándose del delito de secuestro, se seguirá aplicando el Código expedido con el Decreto Legislativo número 571 abrogado, para aquellos casos iniciados durante su vigencia y antes de la expedición de la Ley General para Prevenir y Sancionar este delito, debiéndose aplicar ésta a partir de su entrada en vigor.
+
+Por lo que se refiere a los delitos de trata de personas y narcomenudeo, se estará a lo señalado en las Leyes Generales respectivas.
+
+SÉPTIMO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
