@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2011-10-31"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -69,21 +67,123 @@ V.- El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos
 
 VI.- Los gobiernos y organismos que menciona esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta Ley se entenderá por:
 
-I.- Servidor público: A toda persona que preste sus servicios en los Gobiernos del Estado o de los Municipios de Aguascalientes y organismos descentralizados de la Administración Pública Estatal y Municipal, mediante designación legal en virtud de nombramiento o elección popular, y que aporte al instituto las cuotas que en este ordenamiento se estipulan;
+I. Activo Administrado por el Instituto: Al valor de mercado de los Activos Objeto de Inversión del Instituto directamente gestionado en materia de inversiones por éste;
 
-II.- Pensionistas: A toda persona a la que se le haya reconocido tal carácter con anterioridad a la vigencia de esta Ley, así como a las que se les otorgue la misma condición con apoyo en este ordenamiento legal;
+II. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Mercancías y operaciones con Derivados, reportos y préstamos de valores;
 
-III.- Familiares beneficiarios: A toda persona a quien esta Ley le conceda tal carácter;
+III. Bancos: A las Instituciones de Crédito, así como a las entidades extranjeras que realicen las mismas operaciones que las Instituciones de Crédito;
 
-IV.- Derechohabientes: Al servidor público, al pensionista y a los familiares beneficiarios de ambos;
+IV. Componentes de Renta Variable: A los Instrumentos de Renta Variable y Valores Extranjeros de Renta Variable con los que se obtenga exposición a activos accionarios autorizados a través de Vehículos que confieran derechos sobre los mismos, acciones o Derivados;
 
-V.- Entidades: A los Gobiernos del Estado y de los Municipios, así como a los organismos públicos incorporados a los beneficios de esta Ley; y
+V. Derechohabientes: Al Servidor Público, al Pensionista y a los Familiares Beneficiarios de ambos;
 
-VI.- Instituto: Al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+VI. Derivados: A las operaciones a futuro, de Opción o de Swap, a que se refieren las Disposiciones del Banco de México;
+
+VII. Disposiciones del Banco de México: A las disposiciones dirigidas al Instituto, especializadas en fondos para el retiro en materia de operaciones financieras conocidas como derivadas, de reporto y de préstamo de valores, expedidas por el Banco Central;
+
+VIII. Divisas: A los dólares de los Estados Unidos de América, euros, yenes y las monedas de los Países Elegibles para Inversiones que el Comité de Riesgos determine, considerando la seguridad de las inversiones y el desarrollo de los mercados, así como otros elementos que dicho cuerpo colegiado juzgue que es necesario analizar;
+
+IX. Emisores Nacionales: Al Gobierno Federal, al Banco de México, empresas privadas, entidades federativas, municipios, Gobierno del Distrito Federal y entidades paraestatales, que emitan instrumentos, así como las Entidades Financieras, que emitan, acepten o avalen instrumentos;
+
+X. Emisores Extranjeros: A los gobiernos, bancos centrales y agencias gubernamentales de Países Elegibles para Inversiones, así como las entidades que emitan valores bajo la regulación y supervisión de éstos y los organismos multilaterales de carácter internacional de los que los Estados Unidos Mexicanos no sea parte;
+
+XI. Entidades: A los gobiernos de los Estados y de los municipios, así como a los organismos públicos incorporados a los beneficios de esta Ley;
+
+XII. Entidades Financieras: A las autorizadas conforme a la legislación financiera mexicana para actuar como almacenes generales de depósito, arrendadoras financieras, casas de bolsa, empresas de factoraje financiero, Instituciones de Crédito, instituciones de fianzas, instituciones de seguros y sociedades financieras de objeto limitado o múltiple;
+
+XIII. Estructuras Vinculadas a Subyacentes: A los activos que cumplan con las siguientes características:
+
+a) Ser ofertados mediante un mecanismo de oferta pública en algún país elegible para inversiones;
+
+b) Tener una estructura de pago de flujos a los inversionistas integrada por los siguientes dos componentes:
+
+1. Un bono cupón cero no subordinado, o en su caso un pago con estructura financiera similar a éste, a través del cual se devuelve al inversionista en la fecha de vencimiento del título el monto invertido. Este componente puede estar denominado en pesos, Unidades de Inversión o Divisas y puede ser emitido por Emisores Nacionales o Emisores Extranjeros.
+
+2. El pago de cupones, cuyo valor esté vinculado a Divisas, Unidades de Inversión, pesos, tasas de interés reales o nominales, el índice nacional de precios al consumidor, Mercancías o una combinación de las anteriores. El valor de los cupones en ningún caso podrá ser negativo. Dicho valor podrá determinarse a través de Derivados autorizados.
+
+c) Contar con las calificaciones crediticias previstas en las presentes disposiciones; y
+
+d) El instrumento podrá requerir al inversionista únicamente la aportación del monto de inversión inicial y no deberá requerir a éste la administración ni la aportación de garantías.
+
+XIV. Familiares Beneficiarios: A toda persona a quien esta Ley le conceda tal carácter;
+
+XV. Fideicomiso Maestro: Al Fideicomiso Maestro para la inversión y manejo de las reservas financieras del Instituto, en virtud del cual el Instituto, en calidad de fideicomitente, transmite bienes, cantidades de dinero o derechos, presentes o futuros, a una entidad financiera que haga las funciones de fiduciaria, para que ésta administre o invierta los bienes, en beneficio del propio fideicomitente o en beneficio de terceros, llamados fideicomisarios;
+
+XVI. Fondos Mutuos: A las entidades nacionales o extranjeras, que se encuentren registradas, reguladas y supervisadas por alguna autoridad perteneciente a los Países Elegibles para Inversiones que cumplan con la regulación de su país de origen, así como con las siguientes características:
+
+a) El valor neto de sus activos se debe conocer diariamente a través de los mecanismos que para tales efectos establezcan las autoridades de los Países Elegibles para Inversiones que regulen el fondo de que se trate;
+
+b) La liquidez y redención de las acciones o títulos debe ser diaria, o bien conforme a la periodicidad que determine la Junta Directiva del Instituto;
+
+c) Sus administradores y/o asesores de inversión deben estar registrados, regulados y supervisados por alguna autoridad perteneciente a los Países Elegibles para Inversiones;
+
+d) Deben contar con un prospecto de inversión en el que hagan pública su política de inversión y deben publicar periódicamente su situación financiera; y
+
+e) Los instrumentos en los que inviertan deben ser emitidos mediante oferta pública y observar los criterios aplicables a Activos Objeto de Inversión determinados en las presentes disposiciones.
+
+XVII. Grado de Inversión: Al obtenido por los Instrumentos de Deuda y Valores Extranjeros de Deuda denominados en moneda nacional, Unidades de Inversión o Divisas que ostenten las calificaciones establecidas en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+
+XVIII. Grupos Financieros: A los constituidos en términos de la Ley para Regular las Agrupaciones Financieras;
+
+XIX. Instituto: Al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+
+XX. Instituciones de Crédito: A las instituciones de banca múltiple y banca de desarrollo nacionales;
+
+XXI. Instrumentos Bursatilizados: A los títulos o valores que representen derechos de crédito emitidos a través de Vehículos y cuyos activos subyacentes sean dichos derechos de crédito, no quedando incluido cualquier otro instrumento diferente a los antes mencionados, tales como los conocidos como Instrumentos Estructurados o cualesquiera otros que no reúnan los requisitos establecidos en las disposiciones de carácter general en materia financiera de los sistemas de ahorro para el retiro.
+
+XXII. Instrumentos de Deuda: A los siguientes:
+
+a) Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, colocados en mercados nacionales o extranjeros, emitidos por Emisores Nacionales, así como a los Instrumentos Bursatilizados y los depósitos en el Banco de México;
+
+b) Las obligaciones subordinadas no convertibles emitidas por Instituciones de Crédito a que se refiere el Artículo 64 de la Ley de Instituciones de Crédito;
+
+c) Las obligaciones subordinadas no convertibles que cumplan con los siguientes requisitos:
+
+1. Que tengan por objeto financiar proyectos de infraestructura en territorio nacional;
+
+2. Que en ninguno de los tramos o series en que se estructuren se establezcan aportaciones adicionales con cargo a los tenedores;
+
+3. Que sin perjuicio del orden de prelación establecido entre dichos tramos o series, en ningún caso se libere al emisor de la obligación de pago del principal, aun cuando dicho principal pueda ser diferido o amortizado anticipadamente; y
+
+4. Que en el caso de que sean emitidas a través de un Vehículo, éste no confiera derechos directa o indirectamente, respecto de Derivados o implique estructuras sujetas a financiamiento.
+
+d) Obligaciones subordinadas no convertibles en acciones.
+
+XXIII. Instrumentos Estructurados: A los títulos fiduciarios que se destinen a la inversión o al financiamiento de las actividades o proyectos dentro del territorio nacional, de una o varias sociedades, emitidos al amparo de las disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores expedidas por la Comisión Nacional Bancaria y de Valores, incluidos aquéllos que inviertan o financien la adquisición de capital social de sociedades mexicanas cuyas acciones se encuentren cotizadas en la Bolsa Mexicana de Valores, excepto las reguladas por la Ley de Sociedades de Inversión;
+
+XXIV. Instrumentos de Renta Variable, a los siguientes:
+
+a) Acciones destinadas a la inversión individual o a través de índices accionarios previstos en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, de Emisores Nacionales listadas en la Bolsa Mexicana de Valores;
+
+b) Las acciones de Emisores Nacionales, o los títulos que las representen, que sean objeto de oferta pública inicial, total o parcial, en la Bolsa Mexicana de Valores, o en ésta en conjunto con otras bolsas de valores; y
+
+c) Obligaciones forzosamente convertibles en acciones de sociedades anónimas bursátiles de emisores nacionales.
+
+XXV. Ley: Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+
+XXVI. Mercancías: A los subyacentes enunciados en las Disposiciones del Banco de México en materia de operaciones derivadas, que tengan el carácter de bienes fungibles diferentes a las acciones, índices, tasas, derivados, moneda nacional, Divisas, Unidades de Inversión, préstamos y créditos, en los que el Instituto tenga la posición de acreedora;
+
+XXVII. Países Elegibles para Inversiones: A los países cuyas autoridades reguladoras y supervisoras de mercados financieros pertenezcan al Comité Técnico de la Organización Internacional de Comisiones de Valores (IOSCO), a la Unión Europea o bien a los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE), con los que México tenga tratados de libre comercio vigentes;
+
+XXVIII. Pensionistas: A toda persona a la que se le haya reconocido tal carácter con anterioridad a la vigencia de esta Ley, así como a las que se les otorgue la misma condición con apoyo en este ordenamiento legal;
+
+XXIX. Servidor Público: A toda persona que preste sus servicios en los gobiernos del Estado o de los municipios de Aguascalientes y organismos descentralizados de la administración pública estatal y municipal, mediante designación legal en virtud de nombramiento o elección popular, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan;
+
+XXX. Unidades de Inversión: A las unidades de cuenta cuyo valor publica el Banco de México en el Diario Oficial de la Federación, conforme a los artículos tercero del Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta, publicado en el Diario Oficial de la Federación el 1° de abril de 1995 y 20 ter del Código Fiscal de la Federación.
+
+XXXI. Valores Extranjeros: A todos los Valores Extranjeros de Deuda y Valores Extranjeros de Renta Variable, las Estructuras Vinculadas a Subyacentes, los componentes de éstas referidos en la Fracción XIII, Inciso b), Numeral 1 o bien la estructura de pagos referida en la Fracción XIII, Inciso c) de este Artículo, emitidos por Emisores Extranjeros, así como a los depósitos bancarios de dinero a la vista realizados en entidades financieras extranjeras autorizadas para tales fines y a los Derivados cuyo subyacente sean Valores Extranjeros de Renta Variable;
+
+XXXII. Valores Extranjeros de Deuda: A los Activos Objeto de Inversión, cuya naturaleza corresponda a valores, títulos o documentos representativos de una deuda a cargo de un tercero, así como a los Instrumentos Bursatilizados, emitidos por Emisores Extranjeros.
+
+XXXIII. Valores Extranjeros de Renta Variable: A los Activos Objeto de Inversión listados en algún mercado accionario supervisado por una autoridad de los Países Elegibles para Inversiones cuya naturaleza corresponda a capital, emitidos por Emisores Extranjeros; y
+
+XXXIV. Vehículos: A las sociedades de inversión, Fondos Mutuos, fideicomisos de inversión u otros análogos a los anteriores que, cualquiera que sea su denominación, confieran derechos, directa o indirectamente, respecto de los Activos Objeto de Inversión.
 
 ## TITULO SEGUNDO. DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES
 
@@ -163,19 +263,39 @@ Los recursos para los gastos de administración del Instituto y los otros que re
 
 El método de valuación para el seguro de defunción será el de proyecciones demográfico-financieras. Las primas de los seguros derivadas de dicha valuación, así como la determinación de las reservas para el seguro de defunción y gastos funerarios se cuantificarán en el análisis financiero y actuarial de cada ejercicio.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 15.
 
 La constitución de las reservas actuariales, será prioritaria sobre las financieras y se dará preferencia a aquéllas que sirvan para garantizar el pago de las pensiones.
 
-(REFORMADO, P.O. 17 DE OCTUBRE DE 2011) (F. DE E., P.O. 31 DE OCTUBRE DE 2011)
+Todas las reservas financieras del Instituto, serán administradas a través de un Fideicomiso Maestro, cuyo fin será la inversión y manejo de las mismas, de acuerdo a los fines del Instituto marcados en esta Ley.
 
-La inversión de las reservas financieras del Instituto deberá hacerse preferentemente a través de fideicomisos, en instrumentos de deuda, específicamente en valores gubernamentales, bancarios, y/o instrumentos de deuda corporativa con calificación AA+, y excepcionalmente, en inversiones propias del Instituto que incrementen el patrimonio de los servidores públicos, siempre que se realicen bajo un rígido estudio de prefactibilidad financiera.
+El Fideicomiso Maestro deberá contar con las subcuentas necesarias, dependiendo del número de fondos que administre, las cuales deberán ser manejadas con total independencia cada uno (sic) de ellas y serán identificadas o se denominarán de acuerdo a su naturaleza específica.
 
-Toda inversión deberá asegurar las mejores condiciones posibles de seguridad, rendimiento y liquidez, vigilando el Comité Técnico de Fideicomisos e Inversiones en todo momento, que la tasa promedio del interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario del mismo período.
+Las reservas financieras solo podrán ser invertidas de acuerdo a las políticas y estrategias de inversión y manejo de las mismas previamente aprobadas por la Junta Directiva y de conformidad con lo establecido en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, en los siguientes instrumentos:
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+I. En Instrumentos de Deuda emitidos o avalados por el Gobierno Federal, o en Instrumentos de Deuda emitidos por el Banco de México. La inversión a que se refiere el presente párrafo, no incluye a los Instrumentos de Deuda emitidos, avalados o aceptados por las instituciones de banca de desarrollo, salvo cuando en éstos conste en forma expresa el aval del Gobierno Federal;
 
-En lo que se refiere a los instrumentos de deuda corporativa solo se podrán realizar inversiones hasta el veinte por ciento de las reservas financieras y con las calificaciones que establece el reglamento para la administración de recursos del Instituto.
+II. En Instrumentos de Deuda que tengan Grado de Inversión;
+
+III. En depósitos de dinero a la vista en Bancos;
+
+IV. En las operaciones autorizadas para garantizar Derivados a que se refieren las Disposiciones del Banco de México;
+
+V. En Valores Extranjeros;
+
+VI. En Valores Extranjeros de Deuda que tengan Grado de Inversión;
+
+VII. En Instrumentos Bursatilizados;
+
+VIII. En Componentes de Renta Variable con límite máximo del doce por ciento;
+
+IX. En Instrumentos Estructurados; y
+
+X. En Mercancías.
+
+Los Comités de Inversiones y de Riesgos del Instituto establecidos en el Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberán vigilar que toda inversión de las reservas financieras del Instituto se realice en las mejores condiciones posibles de seguridad, rendimiento y liquidez, procurando que la tasa promedio de interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario aplicable al horizonte de inversión del instrumento de que se trate.
 
 ###### ARTICULO 16.
 
@@ -439,9 +559,17 @@ X.- Servicios de Estancia de Bienestar Infantil;
 
 XI.- Fondo de ahorro;
 
-XII.- Servicios sociales; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-XIII.- Servicios que mejoren el nivel de vida del servidor público y de su familia.
+XII. Servicios sociales;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+XIII. Servicios que mejoren el nivel de vida del servidor público y de su familia; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+XIV. Otorgar apoyos para Pensionistas en Situación Extraordinaria.
 
 ###### ARTICULO 35.
 
@@ -1397,9 +1525,11 @@ Tanto el seguro de vida como el de daños a que se contraen los dos párrafos pr
 
 Si por la separación del servidor público se hace necesaria una prórroga, previa solicitud y a juicio del Instituto podrá concederse un plazo máximo de espera de seis meses, al término del cual deberá reanudar sus pagos bajo las condiciones que en cada caso se establezcan.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 151.
 
-Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Promedio Porcentual vigente fijada por el Banco de México en la fecha en que se incurra en mora, multiplicada por dos y dividida entre doce.
+Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Porcentual Promedio vigente fijada por el Banco de México en la fecha en que se incurra en mora, sumando los puntos base adicionales que la Junta Directiva autorice cada año, multiplicado (sic) la tasa que resulte por uno punto cinco.
 
 ###### ARTICULO 152.
 
@@ -1593,11 +1723,29 @@ El Instituto considerará en su presupuesto anual y de acuerdo con los recursos 
 
 Los servicios señalados en este capítulo deberán ser autofinanciados y de ninguna manera con cargo al patrimonio de los fondos fideicomitidos.
 
-### CAPITULO I. De la Continuación Voluntaria en el Régimen de Seguridad y Servicios Sociales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO XIII. Apoyos para Pensionistas en Situación Extraordinaria
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+ARTICULO 181 BIS.- El Instituto en cumplimiento de la Fracción XIV del Artículo 34 de esta Ley, creará un fondo para apoyar a los Pensionistas en Situación Extraordinaria, el cual tendrá los siguientes objetivos particulares:
+
+I. Mejorar el nivel de vida de los pensionistas en situación extraordinaria;
+
+II. Fomentar la cultura de solidaridad y subsidiariedad;
+
+III. Apoyar el desarrollo armónico socio económico de la familia de los pensionistas en situación extraordinaria; y
+
+IV. Brindar a los pensionistas en situación extraordinaria mejores posibilidades de desarrollo personal.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+ARTÍCULO 181 TER.- Se considerarán Pensionistas en Situación Extraordinaria a aquellos Pensionistas que califiquen como tal por estar en una situación de extrema necesidad, de acuerdo al Reglamento que para tal efecto emita la Junta Directiva del Instituto.
 
 ## TITULO CUARTO. DISPOSICIONES VARIAS
 
-### CAPITULO II. Responsabilidades y Sanciones
+### CAPITULO I. De la Continuación Voluntaria en el Régimen de Seguridad y Servicios Sociales
 
 ###### ARTICULO 182.
 
@@ -1617,7 +1765,7 @@ VI.- El Instituto comunicará por escrito al servidor público la autorización 
 
 VII.- Al término del permiso o licencia y al reintegrarse al servicio, el servidor público lo hará del conocimiento, por escrito, a la Dirección del Instituto, con lo que se suspenderá la continuación voluntaria y seguirá en el régimen normal que establece esta Ley.
 
-### CAPITULO III. De la Prescripción
+### CAPITULO II. Responsabilidades y Sanciones
 
 ###### ARTICULO 183.
 
@@ -1650,6 +1798,8 @@ Los servidores públicos del Instituto estarán obligados a cuidar la informaci�
 ###### ARTICULO 190.
 
 Cuando se finque una responsabilidad pecuniaria a un servidor público en favor del Instituto, la entidad de su adscripción hará los descuentos correspondientes hasta por el importe de dicha responsabilidad, sin más limitaciones que las establecidas en esta Ley.
+
+### CAPITULO III. De la Prescripción
 
 ###### ARTICULO 191.
 
@@ -1765,7 +1915,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
@@ -1790,3 +1940,17 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá aprobar las reformas correspondientes a los Reglamentos del Instituto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá expedir el Reglamento del Fondo Asistencial para Pensionistas en Situación Extraordinaria.
