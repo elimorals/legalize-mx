@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-y-fomento-del-patrimonio-cultural-del-21708"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-02"
-last_updated: "2005-08-08"
+last_updated: "2014-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
+LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de julio de 2001.
 
@@ -177,7 +177,7 @@ II. Promover fideicomisos y Patronatos pro conservación de bienes declarados co
 
 III. Presidir el Consejo Consultivo;
 
-IV. Nombrar a los Secretarios Técnico y Ejecutivo del Consejo que se encargarán de proponer la integración del patrimonio cultural en el Estado en la esfera de su competencia;
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2014)
 
 V. Celebrar convenios y acuerdos de coordinación con la Federación y los Municipios de la zona conurbada y de concertación con los sectores social y privado con el fin de apoyar los objetivos que se definan en los diversos planes y programas de salvaguarda del patrimonio cultural en el Estado; y
 
@@ -207,7 +207,7 @@ IX. Conformar el Consejo Cultural Honorífico, con la participación de conocedo
 
 X. Las demás que señale esta Ley, su Reglamento y otras disposiciones jurídicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 12.
 
@@ -299,7 +299,9 @@ El Consejo Consultivo de Protección y Fomento del Patrimonio Cultural del Estad
 
 I. Un Presidente, que será el Gobernador Constitucional del Estado;
 
-II. Un Secretario Técnico quien será auxiliado por un Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+II. Un Secretario Técnico que será el Secretario de Gobierno;
 
 III. Los Presidentes Municipales cuando se traten asuntos relacionados con sus Municipios;
 
@@ -339,9 +341,11 @@ VII. Asimismo, participará un representante de las organizaciones civiles y cul
 
 VIII. Un representante de cada uno de los Comités Municipales de Desarrollo Urbano y Rural, cuando se traten asuntos relacionados con sus Municipios.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 18.
 
-Por cada representante se designará un suplente que lo sustituirá en sus faltas, con excepción del Secretario Ejecutivo. El Secretario Técnico suplirá las faltas del Presidente del Consejo.
+Por cada representante se designará un suplente que lo sustituirá en sus faltas. El Secretario Técnico suplirá las faltas del Presidente del Consejo.
 
 ###### ARTICULO 19.
 
@@ -493,7 +497,7 @@ El centro de información a que se refiere el artículo anterior, se coordinará
 
 A los bienes declarados como patrimonio cultural, el Registro Público les expedirá un título oficial que los identifique, en el que se reflejarán los actos jurídicos e intervenciones de obra que sobre los mismos se realicen; su forma y contenido se establecerá en el reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 37.
 
@@ -693,7 +697,7 @@ Es obligación de los propietarios o legítimos poseedores de los bienes del pat
 
 Las personas a que se refiere el artículo anterior, que mantengan conservados y restaurados los bienes inmuebles, zonas y espacios que formen parte del patrimonio cultural del Estado, en los términos de la presente Ley, Ley Federal y el Código Urbano del Estado, podrán solicitar los estímulos en materia del impuesto predial, con base en el dictamen técnico que expida el Consejo Consultivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 68.
 
@@ -849,6 +853,10 @@ VI. Acreditar conocimientos en algunas de las siguientes ramas: historia, arquit
 
 VII. No ser dirigente de partido político ni ocupar un cargo de elección popular.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+El Consejo contará con un Secretario Ejecutivo, el cual deberá auxiliar al Coordinador del Consejo en las tareas a su cargo. Este servidor público será designado y/o removido libremente por el Secretario de Gobierno.
+
 ###### ARTICULO 89.
 
 Los nombramientos de los Cronistas los hará el titular del Poder Ejecutivo, a propuesta de:
@@ -963,7 +971,7 @@ I. Multa equivalente de 5 a 10,000 días de salario mínimo general diario vigen
 
 II. Multa equivalente de 16,000 a 25,000 días de salario mínimo general diario vigente en el Estado a quienes incurran en los supuestos mencionados en las Fracciones I, II, V, VI, VII, VIII y X.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 100.
 
@@ -1027,7 +1035,7 @@ DIPUTADO SECRETARIO,
 
 Laura Patricia Romo Castorena.
 
-DIPUTADO PRESIDENTE (SIC),
+DIPUTADO PRESIDENTE,
 
 Humberto Godínez Pazarán.
 
@@ -1041,7 +1049,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE AGOSTO DE 2005.
 
@@ -1052,3 +1060,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
