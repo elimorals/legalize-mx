@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2014-07-02"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -571,6 +571,10 @@ Los jueces del Ramo Civil conocerán, tramitarán y resolverán todos los negoci
 
 Además de lo señalado en el párrafo anterior, los jueces del Ramo Civil conocerán, tramitarán y resolverán, los procedimientos de extinción de dominio.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+En materia de extinción de dominio, los jueces civiles conocerán de las medidas cautelares; diligenciación de los exhortos; y rogatorias, en la materia; así como todas aquellas diligencias, acuerdos y actividades que les encomiende la Ley de Extinción de dominio para el Estado de San Luis Potosí, y demás disposiciones aplicables.
+
 ###### ARTICULO 53.
 
 Los jueces de lo Familiar conocerán, tramitarán y resolverán:
@@ -1071,6 +1075,8 @@ V. Las demás que les señalen las leyes, reglamentos y acuerdos generales.
 
 #### Sección Cuarta. De los Actuarios
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 78.
 
 En cada una de las salas del Supremo Tribunal de Justicia, y en los juzgados, habrá los secretarios de estudio y cuenta autorizados y nombrados por el Consejo de la Judicatura.
@@ -1102,8 +1108,6 @@ I. Practicar con estricto apego a la ley, las notificaciones y diligencias que l
 II. Devolver los expedientes o actuaciones, previas las anotaciones correspondientes, a más tardar al día siguiente de haber practicado las notificaciones o diligencias ordenadas, y
 
 III. Las demás que en forma expresa les sean encomendadas por las leyes, reglamentos o acuerdos generales.
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 83.
 
@@ -2081,21 +2085,21 @@ En todo lo relativo al procedimiento no previsto en esta Ley, así como en la ap
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTICULO 190.
 
-El Fondo de Apoyo para la Administración de Justicia se integrará con:
+El Fondo de Apoyo para la Administración de Justicia se integra con:
 
-I. El importe de las cauciones otorgadas para garantizar la libertad provisional o la condena condicional, que se hagan efectivas a su favor;
+I. El importe de las cauciones otorgadas para garantizar la libertad provisional, o la condena condicional, que se hagan efectivas a su favor;
 
-II. Las multas impuestas por los órganos jurisdiccionales estatales;
+II. Las multas que imponen los órganos jurisdiccionales estatales;
 
-III. Los intereses que generen los bienes y valores del propio fondo; además de los intereses provenientes de cantidades consignadas por los particulares, por cualquier causa, ante los tribunales;
+III. Los intereses que generen los bienes y valores del propio fondo; además de los que provengan de cantidades consignadas por los particulares, por cualquier causa, ante los tribunales;
 
-IV. El monto de la reparación del daño cuando la parte ofendida renuncie a él, o no lo reclame dentro del plazo de un año a partir de la notificación de que queda a su disposición;
+IV. Donaciones, herencias y legados, y
 
-V. Donaciones, herencias y legados, y
-
-VI. Los bienes y valores depositados por cualquier motivo ante los tribunales cuando no fueren reclamados por el depositante o por quien tenga derecho a ellos, dentro del plazo a que se refiere la fracción IV de este artículo, observándose en su caso lo dispuesto en el Código Penal del Estado.
+V. Los bienes y valores depositados por cualquier motivo ante los tribunales cuando no fueren reclamados por el depositante o por quien tenga derecho a ellos, dentro del plazo dentro del plazo (sic) de un año a partir de la notificación de que queda a su disposición; observándose en su caso lo dispuesto en el Código Penal del Estado.
 
 ###### ARTICULO 191.
 
@@ -2331,7 +2335,7 @@ CUARTO. Una vez que sean nombrados los magistrados electorales por el Senado de 
 
 Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales, de fecha veintidós de mayo del presente año, expedido por el Congreso de la Unión, seguirán bajo la competencia del actual Tribunal Electoral del Poder Judicial del Estado hasta su conclusión.
 
-Los medios de impugnación en materia electoral que a la fecha de inicio de vigencia del presente Decreto se hayan promovido en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, seguirán tramitándose bajo esa Ley; y hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado del Poder Judicial del Estado, el que deberá entregar, a través del proceso de entrega-recepción, los asuntos en trámite y el estado que guardan los mismos al órgano de nueva creación.
+Los medios de impugnación en materia electoral que a la fecha de inicio de vigencia del presente Decreto se hayan promovido en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, seguirán tramitándose bajo esa Ley; y hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado del Poder Judicial del Estado, el que deberá entregar, a través del proceso de entrega -recepción, los asuntos en trámite y el estado que guardan los mismos al órgano de nueva creación.
 
 Los procedimientos jurisdiccionales que se están tramitando ante el actual Tribunal Electoral del Poder Judicial del Estado en su carácter de sala auxiliar en razón de las competencias designadas por el Pleno del Supremo Tribunal de Justicia del Estado, continuarán recibiéndose y substanciándose por la misma, hasta en tanto se cumplan las disposiciones a que se refiere el párrafo Segundo de este Transitorio; cumplido el supuesto, deberá iniciarse y ejecutarse el proceso de entrega-recepción de los asuntos en trámite de acuerdo con la asignación que para este efecto determine el Poder Judicial del Estado.
 
@@ -2352,3 +2356,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los poderes, Ejecutivo; Legislativo; y Judicial; los ayuntamientos; los organismos descentralizados; los organismos constitucionales autónomos, y los fideicomisos públicos, a través del órgano de control interno que les corresponda, deberán remitir a la Auditoría Superior del Estado, la información que obre en sus registros y archivos, de un periodo que deberá comprender de diez años anteriores a la fecha de publicación de este Decreto, relativa a las sanciones e inhabilitaciones dictadas en contra de todos y cada uno de los servidores públicos sujetos de responsabilidad, por los actos u omisiones que hayan realizado derivados de sus funciones, dentro del servicio público estatal y municipal; que deberán entregar sin exceder el plazo de ciento veinte días, contados a partir de la vigencia de este Decreto.
 
 CUARTO. La Auditoría Superior del Estado deberá recabar toda la información para la correcta integración del Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, para lo cual, además de la recepción de toda la documentación a que refiere el transitorio tercero de este Decreto, deberá agregar todas las sanciones e inhabilitaciones que consten en los archivos de la propia Auditoría, así como revisar todas las actas de cabildo que se encuentren a su disposición de los 58 ayuntamientos de la Entidad, donde consten sanciones a servidores públicos, incluyendo las inhabilitaciones de diez años anteriores a la fecha de vigencia de este Decreto, a fin de que sean incorporadas al Registro Estatal de Servidores Públicos sancionados e Inhabilitados, para lo cual dispondrá de un termino de ciento cincuenta días contados a partir de la vigencia del presente Decreto, a efecto de poner en operación el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el treinta de septiembre de dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todos los productos relacionados con procesos penales, iniciados hasta el veintinueve de septiembre de dos mil catorce, en el Segundo Distrito Judicial, perteneciente a la Segunda Región Judicial, continuarán ingresándose al Fondo de Apoyo para la Administración de Justicia, que prevén los artículos 190 al 194 de la Ley Orgánica del Poder Judicial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
