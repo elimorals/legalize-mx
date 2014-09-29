@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2014-07-28"
+last_updated: "2014-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2221,11 +2221,25 @@ II. Despedir o descargar en la atmósfera, gases, humos y polvos que ocasionen o
 
 III. Descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
 
-IV. Generar emisiones de ruido, vibraciones, energía térmica o lumínica que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
-V. Generar o causar por cualquier medio o forma, alteraciones, destrucción, daños o enfermedades graves a las áreas verdes, flora, fauna, salud pública o a los ecosistemas del Estado.
+IV. Generar emisiones de ruido, vibraciones, energía térmica o lumínica que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes;
 
-Al responsable de Atentados al Equilibrio Ecológico Dolosos se le aplicarán de 1 a 10 años de prisión y de 20 a 200 días multa, reparación total de los daños y perjuicios causados y suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones de 6 meses a 2 años.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+V. Generar o causar por cualquier medio o forma, alteraciones, destrucción, daños o enfermedades graves a las áreas verdes, flora, fauna, salud pública o a los ecosistemas del Estado; o
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+VI. Causar la muerte o lesiones que afecten la salud de animales domésticos, sin justificación o autorización legal. Para los efectos de la presente Fracción, los animales domésticos serán aquellos que habiten con un ser humano con la finalidad de convivir y dependan de éste para subsistir, así como los que deambulen libremente por la vía pública sin que habiten con un ser humano.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Al responsable de Atentados al Equilibrio Ecológico Dolosos previstos en las Fracciones I a la V se le aplicarán de 1 a 10 años de prisión y de 20 a 200 días multa, reparación total de los daños y perjuicios causados y suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones de 6 meses a 2 años.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Al responsable de Atentados al Equilibrio Ecológico Doloso previsto en la Fracción VI, se le impondrá de 1 a 3 meses de prisión, de 10 a 50 días multa, el pago de la reparación de daños y perjuicios ocasionados así como de 1 a 6 meses de inhabilitación para poder realizar cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales. Si esta conducta la perpetra una persona que realice cualquier actividad relacionada con la salud, cuidado, resguardo o comercio de animales, también se le aplicará de 1 a 6 meses de suspensión de su cargo, función, empleo, comisión o profesión.
 
 ### CAPÍTULO XX. Tipos Penales Protectores de la Salud Pública
 
@@ -2460,6 +2474,12 @@ P.O. 19 DE FEBRERO DE 2014.
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
