@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-archivos-de-aguascalientes-18051"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-12"
-last_updated: "1992-07-12"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Suplemento al Número 28 del Periódico Oficial del Estado de Aguascalientes, el domingo 12 de julio de 1992.
 
@@ -130,3 +132,31 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Ing. José de Jesús Infante de Alba.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Archivos de Aguascalientes, contenida en el Decreto Número 186 publicado en el Periódico Oficial del Estado el 12 de julio de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Los miembros del Consejo deberán llevar a cabo su primera reunión dentro de los sesenta días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo contará con un plazo de ciento ochenta días naturales contados a partir de su primera reunión, para expedir el Reglamento de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Sujetos Obligados que conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes se hayan sujetado a los lineamientos que sobre clasificación, catalogación y conservación de archivos haya emitido el Instituto de Transparencia del Estado de Aguascalientes, seguirán observándolos en lo que no sea contrario a la presente Ley y hasta en tanto el Consejo expida el Reglamento.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
