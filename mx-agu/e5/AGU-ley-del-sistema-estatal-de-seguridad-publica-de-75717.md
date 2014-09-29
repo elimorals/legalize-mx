@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2013-09-23"
+last_updated: "2014-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -387,17 +387,23 @@ El Sistema podrá celebrar convenios de colaboración con la Federación, las en
 
 La coordinación de las Instituciones Policiales del Estado y de los municipios en los casos de siniestros y accidentes, se sujetará a lo dispuesto en la Ley y en los programas de protección civil.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 24.
 
 Son autoridades en materia de Seguridad Pública en el ámbito Estatal las siguientes:
 
-I. El Titular del Poder Ejecutivo;
+I. El titular del Poder Ejecutivo;
 
-II. El Secretario de Seguridad Pública;
+II. El Secretario de Gobierno;
 
-III. El Procurador General de Justicia; y
+III. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-IV. Las demás que determine la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables.
+IV. El Secretario de Seguridad Pública;
+
+V. El Fiscal General del Estado; y
+
+VI. Las demás que determine la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables.
 
 ###### Artículo 25.
 
@@ -503,9 +509,11 @@ La Secretaría, a través de la instancia que determine, será la titular de la 
 
 El Consejo tendrá un Secretario Ejecutivo, quien será designado por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-. El Secretario Ejecutivo, para el cumplimiento de sus funciones, contará con instancias relativas a la prevención del delito y participación ciudadana, el Sistema Estatal de Estadística Criminológica y fungirá como presidente del Consejo Directivo del Centro de Evaluación y Control de Confianza del Estado.
+El Secretario Ejecutivo, para el cumplimiento de sus funciones, contará con instancias relativas a la prevención del delito y participación ciudadana, el Sistema Estatal de Estadística Criminológica y coadyuvará en acatamiento a los lineamientos e instrucciones giradas por el Secretario de Gobierno, en las actividades del Centro de Evaluación y Control de Confianza del Estado.
 
 ###### Artículo 38.
 
@@ -807,11 +815,15 @@ La regulación de sus estructuras, facultades, autoridades y funcionamiento, se 
 
 ### CAPÍTULO V. Centro de Evaluación y Control de Confianza del Estado
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
 ###### Artículo 56.
 
-El Centro de Evaluación y Control de Confianza del Estado de Aguascalientes es la unidad rectora en la materia y establece los mecanismos y modelos de actuación que corresponda, en apego a la normativa aplicable, para coordinar, asesorar, apoyar o colaborar en la práctica de evaluaciones a los integrantes y aspirantes de las Instituciones de Seguridad Pública y de Procuración de Justicia.
+El Centro de Evaluación y Control de Confianza del Estado de Aguascalientes es el Organismo Desconcentrado de la Secretaría de Gobierno que se constituye como la unidad rectora en la materia y establece los mecanismos y modelos de actuación que corresponda, en apego a la normativa aplicable, para coordinar, asesorar, apoyar o colaborar en la práctica de evaluaciones a los integrantes y aspirantes de las Instituciones de Seguridad Pública y de Procuración de Justicia.
 
-Su función se desarrolla con apego a los lineamientos y directrices que en materia de evaluación y control de confianza para los integrantes y aspirantes de las Instituciones de Seguridad Pública y Procuración de Justicia se establezcan en la normativa aplicable.
+Su función se desarrolla con apego a las leyes estatales y a los lineamientos y directrices que en materia de evaluación y control de confianza para los integrantes y aspirantes de las Instituciones de Seguridad Pública y Procuración de Justicia se establezcan en la normativa aplicable.
+
+El titular del Centro de Evaluación y Control de Confianza del Estado de Aguascalientes, será designado por el Gobernador del Estado de Aguascalientes.
 
 ###### Artículo 57.
 
@@ -1331,11 +1343,11 @@ III. El Director General de Reinserción Social de la Secretaría;
 
 IV. El Director General de Policial Estatal de la Secretaría;
 
-V. Un representante de la unidad correspondiente de la Institución Policial; y (sic)
+V. Un representante de la unidad correspondiente de la Institución Policial; y
 
 VI. El Secretario Técnico del Consejo de Honor y Justicia; y
 
-VII. El Director General de Administración de la Secretaría, quien fungirá como secretario técnico; (sic)
+VII. El Director General de Administración de la Secretaría, quien fungirá como secretario técnico;
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -1778,3 +1790,21 @@ P.O. 23 DE SEPTIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal y el presupuesto con el que actualmente cuenta y opera el Centro de Evaluación y Control de Confianza del Estado de Aguascalientes se transfieren a partir de la entrada en vigencia del presente Decreto a la Secretaría de Gobierno del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el Artículo 24 Fracción V de la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, se entenderá hecha al Procurador General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones contrarias al contenido del presente decreto.
