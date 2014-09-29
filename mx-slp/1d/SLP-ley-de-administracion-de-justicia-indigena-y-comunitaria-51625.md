@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-administracion-de-justicia-indigena-y-comunitaria-51625"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2010-07-08"
+last_updated: "2014-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ADMINISTRACION DE JUSTICIA INDIGENA Y COMUNITARIA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE ADMINISTRACION DE JUSTICIA INDIGENA Y COMUNITARIA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE ADMINISTRACIÓN DE JUSTICIA INDÍGENA Y COMUNITARIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA INDÍGENA Y COMUNITARIA PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 1 de junio de 2006.
 
@@ -109,7 +111,7 @@ Se reconoce a la Asamblea General de ciudadanos, como la máxima autoridad en ma
 
 La jurisdicción ordinaria en materia de justicia indígena y comunitaria, se ejercerá en las comunidades a través de los jueces auxiliares, menores y de primera instancia, validando éstos últimos a petición de la parte inconforme, las resoluciones que en esta materia dicten los jueces auxiliares, cuando se argumente violación a garantías individuales o a derechos humanos.
 
-El inconforme podrá ocurrir a los jueces menores o de primera instancia que correspondan a su comunidad, para hacer del conocimiento su inconformidad respecto de la resolución de que se trate, sea que haya sido dictada de manera oral u (sic) escrita.
+El inconforme podrá ocurrir a los jueces menores o de primera instancia que correspondan a su comunidad, para hacer del conocimiento su inconformidad respecto de la resolución de que se trate, sea que haya sido dictada de manera oral u escrita.
 
 El juez dará audiencia al inconforme, levantando al efecto una minuta que contenga el sentido de la resolución que haya sido dictada por la autoridad indígena, pudiendo aplazar la audiencia para oír, si lo considera necesario, a la autoridad indígena correspondiente.
 
@@ -337,10 +339,18 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE JULIO DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor el treinta de septiembre de dos mil catorce, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de esta Ley, se abroga la Ley de Administración de Justicia Indígena y Comunitaria del Estado de San Luis Potosí publicada en el Periódico Oficial del Estado bajo el Decreto 501, el primero de junio del dos mil seis.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor de esta Ley se concluirán en los términos de la Ley que se abroga, por las autoridades que, conforme las disposiciones de la misma estén conociendo de los asuntos.
