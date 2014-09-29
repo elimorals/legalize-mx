@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2013-11-20"
+last_updated: "2014-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -367,7 +367,7 @@ XII. Fomentar e impulsar la industria, agricultura, minería, comercio y demás 
 
 XIII. Tomar las medidas necesarias para dar cumplimiento a lo dispuesto en el Artículo 4º de la Constitución Local;
 
-XIV. Promover por todos los medios posibles, la asistencia a las escuelas preescolar, primarias y secundarias del Municipio;
+XIV. Promover por todos los medios posibles, la asistencia a las escuelas preescolar (sic), primarias y secundarias del Municipio;
 
 XV. Cuidar el aseo de las poblaciones y hacer que se observe en el ramo de higiene todo lo que consideren conveniente de acuerdo con las autoridades en Salud Pública;
 
@@ -655,6 +655,10 @@ XVII. Coadyuvar con el Presidente Municipal en la substanciación de los recurso
 
 XVIII. Las demás que les confieran o impongan las leyes, los reglamentos o el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Los ayuntamientos podrán contar con un fondo de gestión social, para que los síndicos atiendan de necesidades de personas o grupos en situaciones de vulnerabilidad o rezago social, esto conforme a las reglas de operación que cada Ayuntamiento establezca y a su disponibilidad presupuestaria.
+
 ### CAPITULO SEXTO. Facultades y Obligaciones de los Regidores
 
 ###### Artículo 43.
@@ -678,6 +682,10 @@ VII. Proponer al Ayuntamiento los reglamentos y tarifas correspondientes al ramo
 VIII. Pedir al Ayuntamiento la remoción de los empleados que estén a su cargo, cuando para ello existan causas justificadas y proponer el nuevo nombramiento; y
 
 IX. Las demás que les otorguen esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+
+Los ayuntamientos podrán contar con un fondo de gestión social, para que los regidores atiendan las necesidades de personas o grupos en situaciones de vulnerabilidad o rezago social, esto conforme a las reglas de operación que cada Ayuntamiento establezca y a su disponibilidad presupuestaria.
 
 ### CAPITULO SEPTIMO. De las Licencias y Suplencia de los Miembros del Ayuntamiento
 
@@ -2172,6 +2180,12 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 20 DE NOVIEMBRE DE 2013.
 
 DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL ARTÍCULO 74 UBICADO EN EL TÍTULO QUINTO, CAPÍTULO PRIMERO "DE LOS SERVICIOS Y FUNCIONES PÚBLICAS MUNICIPALES", PARA QUEDAR COMO ARTÍCULO 74 BIS; SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 77; SE REFORMAN LOS INCISOS F) Y H) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 78; SE REFORMA EL ARTÍCULO 79; LOS ARTÍCULOS 147 Y 148; LA FRACCIÓN IV DEL ARTÍCULO 150; SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 151; SE REFORMAN LOS ARTÍCULOS 152 Y 156 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
