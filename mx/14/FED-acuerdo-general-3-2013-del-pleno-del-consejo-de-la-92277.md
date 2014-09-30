@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2014-09-10"
+last_updated: "2014-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE SEPTIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2014.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -139,7 +137,9 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-1. Dieciséis tribunales colegiados especializados: tres en materia penal, cuatro en materia administrativa, cinco en materia civil y cuatro en materia de trabajo, todos con residencia en Zapopan.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 33/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+1. Diecisiete tribunales colegiados especializados: tres en materia penal, cinco en materia administrativa, cinco en materia civil y cuatro en materia de trabajo, todos con residencia en Zapopan.
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
@@ -259,7 +259,9 @@ XIV. DECIMOCUARTO CIRCUITO:
 
 XV. DECIMOQUINTO CIRCUITO:
 
-1. Cinco tribunales colegiados con residencia en Mexicali.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 31/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+1. Seis tribunales colegiados con residencia en Mexicali.
 
 > <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 50/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2014)</small>
 
@@ -301,7 +303,9 @@ XVIII. DECIMOCTAVO CIRCUITO:
 
 2. Un tribunal unitario con sede en Cuernavaca.
 
-3. Siete juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 32/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+3. Ocho juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
 XIX. DECIMONOVENO CIRCUITO:
 
@@ -333,11 +337,15 @@ XXI. VIGESIMO PRIMER CIRCUITO:
 
 XXII. VIGESIMO SEGUNDO CIRCUITO:
 
-1. Tres tribunales colegiados con residencia en Querétaro.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 29/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+1. Cuatro tribunales colegiados con residencia en Querétaro.
 
 2. Un tribunal unitario con sede en Querétaro.
 
-3. Cinco juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO NOVENO DEL ACUERDO GENERAL 30/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
+
+3. Siete juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de procesos penales federales y cinco de Amparo y Juicios Federales.
 
 XXIII. VIGESIMO TERCER CIRCUITO:
 
@@ -1160,3 +1168,63 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito. Asimismo, la reforma al Acuerdo General 51/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2014.
+
+ACUERDO GENERAL 29/2014 QUE MODIFICA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO XXII, NUMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2014.
+
+ACUERDO GENERAL 30/2014 QUE MODIFICA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO XXII, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Oficialía Mayor, a través de las áreas correspondientes, dotará a los órganos jurisdiccionales materia del presente acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+CUARTO. Al finalizar el reparto de asuntos previsto en este Acuerdo, se deberán informar los resultados obtenidos a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, así como a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, con motivo del reparto de expedientes, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación, deberán colocar letreros en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, en los que se informe que: en atención al presente Acuerdo General del Pleno del Consejo de la Judicatura Federal, se instruyó el cambio de denominación y competencia de los Juzgados de Distrito en el Estado de Querétaro, a partir del uno de octubre de dos mil catorce, a dos Juzgados de Distrito de Procesos Penales Federales, y tres de Amparo y Juicios Federales, así como la instalación de dos nuevos juzgados de Distrito de Amparo y Juicios Federales, todos en la entidad federativa de referencia, por lo que cada órgano jurisdiccional especificará su nueva denominación y si conserva o cambia su domicilio, caso en el cual deberá señalar el mismo. La colocación de avisos se hará también en las oficinas de correspondencia común correspondientes.
+
+SEXTO. Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal, que se opongan al presente Acuerdo.
+
+SÉPTIMO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+OCTAVO. La Secretaría Ejecutiva de Administración, así como las Direcciones Generales de Tecnologías de la Información y, de Estadística Judicial, y la Coordinación de Administración Regional, se coordinarán a efecto de realizar oportunamente el cambio de domicilio de los órganos jurisdiccionales que se transforman, cuando así sea el caso.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2014.
+
+ACUERDO GENERAL 31/2014 QUE MODIFICA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, INCISO XV, PUNTO 1.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2014.
+
+ACUERDO GENERAL 32/2014 QUE MODIFICA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO XVIII, NUMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2014.
+
+ACUERDO GENERAL 33/2014 QUE MODIFICA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, FRACCIÓN III. TERCER CIRCUITO, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
