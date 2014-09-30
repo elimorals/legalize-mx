@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-junta-local-de-conciliacion-y-arbitraje-44017"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-20"
-last_updated: "2005-03-07"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de septiembre de 2004.
 
@@ -555,7 +557,7 @@ La central de actuarios estará a cargo de un actuario coordinador quien adminis
 
 El actuario coordinador estará bajo la supervisión del Secretario General de la Junta, a quien deberá rendir un informe mensual de sus actividades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2005)</small>
 
 ###### Artículo 41.
 
@@ -625,7 +627,7 @@ XIII. Integrar la carpeta falsa correspondiente, conteniendo la minuta del ofici
 
 XIV. Integrar, con las listas de publicaciones de las áreas de la Junta, la edición diaria del boletín laboral;
 
-XV. Integrar dos legajos con un ejemplar de la publicación diaria para la consulta del público en general; remitiendo uno de ellos al Archivo de la Junta; (sic)
+XV. Integrar dos legajos con un ejemplar de la publicación diaria para la consulta del público en general; remitiendo uno de ellos al Archivo de la Junta;
 
 ###### Artículo 45.
 
@@ -861,8 +863,18 @@ Eliseo Hernández Charqueño,
 
 REPRESENTANTE OBRERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 7 DE MARZO DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Estado de Aguascalientes publicado en el Periódico Oficial del Estado en fecha 20 de septiembre de 2004, así como las reformas al mismo.
+
+SEGUNDO.- El presente Reglamento Interior iniciará su vigencia a los quince días posteriores a su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Atendiendo al principio de estabilidad en el empleo, el personal que se encuentre laborando en la Junta Local de Conciliación y Arbitraje, así como el que se encuentre en proceso de incorporación a la fecha de entrada en vigencia del presente, mantendrá el puesto que desempeña, independientemente de que con posterioridad pueda ser promovido conforme a lo que disponga el Reglamento del Servicio Profesional que se llegue a expedir. A partir de la entrada en vigencia sólo se podrá contratar y promover a quienes cumplan con las disposiciones de la Ley y de los Reglamentos que sean aplicables.
+
+CUARTO.- La emisión y publicación de los Lineamientos de Capacitación y los Reglamentos a que se refiere este ordenamiento, deberá realizarse en un plazo no mayor a tres meses a partir de la entrada en vigencia del presente.
