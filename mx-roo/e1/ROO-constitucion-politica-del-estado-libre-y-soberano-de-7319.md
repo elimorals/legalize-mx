@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-07-18"
+last_updated: "2014-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -59,7 +59,7 @@ El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultad
 
 ###### ARTICULO 4o.
 
-La soberanía del Estado reside originariamente en el pueblo quintanarroense, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley Fundamental.
+La soberanía del Estado reside y originariamente en el pueblo quintanarroense, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley Fundamental.
 
 ###### ARTICULO 5o.
 
@@ -391,7 +391,7 @@ X.- Los principios previstos en este artículo, se observarán también en las a
 
 B.- De los derechos de toda persona imputada:
 
-l.- A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+I.- A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
 
 II.- A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor o ante autoridad distinta a la judicial, carecerá de todo valor probatorio;
 
@@ -417,7 +417,7 @@ Toda pena de prisión que imponga una sentencia, se computará el tiempo de la d
 
 C.- De la víctima o del ofendido:
 
-l.- Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+I.- Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
 II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley;
 
@@ -591,7 +591,7 @@ b).- Acentuar la formación y capacitación para el trabajo orientada hacia la p
 
 c).- Promover y apoyar la investigación científica y tecnológica y alentar el fortalecimiento y difusión de nuestra cultura, la educación física y la práctica del deporte.
 
-Todos los servicios de educación obligatoria que el Estado ofrece serán gratuitos y de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
+Todos los servicios de educación obligatoria que el Estado ofrece serán gratuitos de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
 Los beneficiarios del servicio podrán contribuir solidariamente a su mantenimiento, conservación, ampliación y cobertura.
 
@@ -999,7 +999,7 @@ La Ley de la materia reglamentará las fórmulas electorales y los procedimiento
 
 Para ser Diputado a la Legislatura, se requiere:
 
-I.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado, y
+I.- Ser ciudadano Quintanarroense, en ejercicio de sus derechos políticos, con 6 años de residencia en el Estado, y
 
 II.- Tener 18 años cumplidos el día de la elección.
 
@@ -1267,7 +1267,7 @@ XXIX.- Examinar, aprobar y sancionar, en su caso, la Cuenta Pública de las enti
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-Para la revisión de la cuenta pública, la legislatura se apoyará en el Órgano de Fiscalización Superior del Estado. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondiente a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
+Para la revisión de la cuenta pública, la legislatura se apoyará en el Órgano de Fiscalización Superior del Estado. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1315,7 +1315,7 @@ XLI.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en l
 
 XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable e ingravable.
 
-XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y (sic)
+XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1383,7 +1383,7 @@ XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a 
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Controlar Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Controlar Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
 XIII.- Las demás que le confiera expresamente esta Constitución.
 
@@ -1811,11 +1811,15 @@ Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o 
 
 El Pleno del Tribunal Superior de Justicia de oficio o a petición fundada por parte de la Sala correspondiente podrá conocer de los asuntos que por su interés o trascendencia así lo ameriten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2014)</small>
+
+Cuando las necesidades del servicio de administración de justicia lo amerite, en el Sistema Penal Acusatorio, excepcionalmente el Magistrado Presidente y/o el Magistrado Consejero, podrán integrar Sala, para la resolución de los recursos de su competencia, conforme a la legislación de la materia. En tales casos, el Magistrado Presidente y/o el Magistrado Consejero dirigirán petición al Pleno del Tribunal Superior de Justicia, para que se apruebe su integración a Sala Colegiada o Unitaria, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2014)</small>
 
 ###### ARTICULO 99.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto por una sola vez, para un período de igual duración. A la sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del Artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto por una sola vez, para un período de igual duración. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3591,7 +3595,7 @@ en sesión solemne, el 5 de abril de 1975, el Gobernador Electo rendirá la prot
 
 ###### ARTICULO NOVENO.
 
-Cada ayuntamiento calificará la elección de sus miembros y resolverá las dudas que se susciten. Al efecto los integrantes de la planilla a quien el comité distrital electoral hubiere expedido constancia de mayoría sin necesidad de citación previa, se reunirán el 20 de marzo en el recinto señalado en la convocatoria respectiva, para celebrar junta previa, y nombrará de entre sus miembros, en escrutinio secreto y a mayoría de voto (sic), un Presidente, un Vicepresidente y un Secretario, quienes procederán al estudio y dictamen de la elección, que presentarán en junta a la cual citarán a los demás miembros para hacer la declaratoria correspondiente, debiendo comunicarlo, antes del 30 de marzo a la Legislatura y al Gobernador Provisional, quien publicará en el periódico oficial, a más tardar el 5 de abril, la forma como quedó integrado cada ayuntamiento.
+Cada ayuntamiento calificará la elección de sus miembros y resolverá las dudas que se susciten. Al efecto los integrantes de la planilla a quien el comité distrital electoral hubiere expedido constancia de mayoría sin necesidad de citación previa, se reunirán el 20 de marzo en el recinto señalado en la convocatoria respectiva, para celebrar junta previa, y nombrará de entre sus miembros, en escrutinio secreto y a mayoría de voto, un Presidente, un Vicepresidente y un Secretario, quienes procederán al estudio y dictamen de la elección, que presentarán en junta a la cual citarán a los demás miembros para hacer la declaratoria correspondiente, debiendo comunicarlo, antes del 30 de marzo a la Legislatura y al Gobernador Provisional, quien publicará en el periódico oficial, a más tardar el 5 de abril, la forma como quedó integrado cada ayuntamiento.
 
 ###### ARTICULO DECIMO.
 
@@ -4490,3 +4494,7 @@ P.O. 18 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2014.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
