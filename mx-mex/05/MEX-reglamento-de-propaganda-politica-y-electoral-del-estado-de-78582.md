@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-propaganda-politica-y-electoral-del-estado-de-785
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-04"
-last_updated: "2011-01-04"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE PROPAGANDA POLITICA Y ELECTORAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE PROPAGANDA POLITICA Y ELECTORAL DEL ESTADO DE MEXICO
+REGLAMENTO DE PROPAGANDA POLÍTICA Y ELECTORAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS DE PROPAGANDA DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADOS EN LA G.G. DE 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 4 de enero de 2011.
 
@@ -35,7 +37,7 @@ Reglamento de Propaganda Política y Electoral, del Instituto Electoral del Esta
 
 Visto, por los integrantes del Consejo General del Instituto Electoral del Estado de México, el proyecto de Acuerdo presentado por el Secretario del Consejo General, y
 
-R E S U L T A N D O.
+R E S U L T A N D O...
 
 En mérito de lo expuesto, fundado y con base además en lo dispuesto por los artículos 3, párrafo primero, 85, 92 párrafos cuarto y séptimo y 94 del Código Electoral del Estado de México y 6 incisos a) y e), 49, 52 párrafo primero, 56 y 57 del Reglamento de Sesiones del Consejo General del Instituto Electoral del Estado de México, se expiden los siguientes Puntos de:
 
@@ -217,7 +219,7 @@ La propaganda electoral podrá fijarse en lugares de uso común que determinen l
 
 No se podrá colocar, colgar, fijar, distribuir, proyectar o pintar imágenes en edificios públicos, adherir o pintar propaganda electoral en plazas públicas de los municipios del Estado de México; a excepción del día de mitin o cierre de campaña, en las que únicamente se podrá colgar o fijar propaganda, misma que terminado el evento será retirada por el partido político o coalición de que se trate.
 
-Los partidos políticos, precandidatos o candidatos, no podrán hacer uso de propaganda electoral para el desprestigio de cualquier otro. Así mismo (sic), no se podrá destruir o inutilizar propaganda electoral de otra fuerza política.
+Los partidos políticos, precandidatos o candidatos, no podrán hacer uso de propaganda electoral para el desprestigio de cualquier otro. Así mismo, no se podrá destruir o inutilizar propaganda electoral de otra fuerza política.
 
 ###### Artículo 23.
 
@@ -373,7 +375,7 @@ VII. Vigilar que la propaganda política y la propaganda gubernamental de los go
 
 VIII. Vigilar que al interior de las oficinas, edificios y locales ocupados por los poderes públicos o los edificios escolares no se fije o distribuya propaganda electoral de ningún tipo.
 
-IX. Las quejas o denuncias por la violación a las disposiciones mencionadas en las fracciones VI y VIl, que se reciban en los órganos desconcentrados por parte de ciudadanos, partidos políticos, candidatos, funcionarios electorales, se remitirán a la Secretaría Ejecutiva para su tramitación mediante el procedimiento administrativo sancionador previsto en el artículo 356 del Código.
+IX. Las quejas o denuncias por la violación a las disposiciones mencionadas en las fracciones VI y VII, que se reciban en los órganos desconcentrados por parte de ciudadanos, partidos políticos, candidatos, funcionarios electorales, se remitirán a la Secretaría Ejecutiva para su tramitación mediante el procedimiento administrativo sancionador previsto en el artículo 356 del Código.
 
 X. Supervisar y vigilar, que una vez concluidas las precampañas y campañas electorales, los partidos políticos y coaliciones retiren, en los plazos establecidos en el Código, la propaganda que en apoyo a sus precandidatos y candidatos hubiesen colgado, colocado, adherido, fijado, pintado o proyectado; en caso contrario, se dará aviso a la Secretaría Ejecutiva para que se tomen las medidas correspondientes.
 
@@ -513,7 +515,7 @@ f) Cuando no existan los hechos denunciados como irregulares.
 
 Procede el sobreseimiento en los escritos de controversia en los siguientes casos:
 
-a) Cuando el promovente se desista expresamente; y (sic)
+a) Cuando el promovente se desista expresamente; y
 
 b) Cuando deje de existir la irregularidad denunciada.
 
@@ -655,7 +657,7 @@ El cumplimiento del acuerdo extinguirá el procedimiento, por lo que la Secretar
 
 A falta de acuerdo o incumplimiento de éste, se continuará con el procedimiento establecido en los artículos del 56 al 70 del presente Reglamento.
 
-### Capítulo VIl. Del Trámite ante la Secretaría Ejecutiva
+### Capítulo VII. Del Trámite ante la Secretaría Ejecutiva
 
 ###### Artículo 79.
 
@@ -818,3 +820,13 @@ En caso de que se denuncien actos anticipados de campaña, se tramitarán median
 ###### Artículo 110.
 
 Una vez instaladas las Comisiones de Propaganda de los Consejos, los escritos de controversia deberán presentarse ante estos órganos para su atención, siendo aplicable el Libro Cuarto del presente Reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- Los Lineamientos expedidos por el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento de Propaganda Política y Electoral del Instituto Electoral del Estado de México, expedido mediante Acuerdo número IEEM/CG/64/2010, de fecha treinta de diciembre de dos mil diez.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
