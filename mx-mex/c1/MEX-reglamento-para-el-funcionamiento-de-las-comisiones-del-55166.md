@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2013-05-07"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO NO. IEEM/CG/36/2014 POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -753,7 +755,7 @@ IX. Vigilar las acciones, manuales, materiales e instrumentos que se utilizan pa
 
 X. Realizar monitoreos, en los medios de comunicación social, respecto de la propaganda gubernamental, tanto de las autoridades federales, estatales, como municipales y cualquier otro ente público; desde el inicio de las campañas electorales y hasta la conclusión de la jornada electoral;
 
-Xl. Aprobar lineamientos y manuales específicos para la realización de monitoreos cuantitativos y cualitativos a los medios de comunicación impresos, electrónicos y alternos, tanto públicos como privados, debiendo rendir informes quincenales al Consejo General sobre tales monitoreos para coadyuvar con el Órgano Técnico de Fiscalización, en la revisión de gastos de precampaña y campaña electoral;
+XI. Aprobar lineamientos y manuales específicos para la realización de monitoreos cuantitativos y cualitativos a los medios de comunicación impresos, electrónicos y alternos, tanto públicos como privados, debiendo rendir informes quincenales al Consejo General sobre tales monitoreos para coadyuvar con el Órgano Técnico de Fiscalización, en la revisión de gastos de precampaña y campaña electoral;
 
 XII. Remitir los informes finales del monitoreo a medios de comunicación, al Consejo General a través de Secretaría Ejecutiva General de este Instituto, para efecto de dar cumplimiento a lo dispuesto por el artículo 162 del Código;
 
@@ -1161,11 +1163,11 @@ X. Elaborar el proyecto de demarcación territorial de los cuarenta y cinco dist
 
 XI. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 # LIBRO SEGUNDO. LINEAMIENTOS TÉCNICOS EN MATERIA DE PROPAGANDA ELECTORAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -1263,7 +1265,7 @@ q) Conciliación, al acuerdo celebrado entre quienes se encuentran ante un confl
 
 10. Los Consejos, dentro del ámbito de su competencia, velarán por la observancia de las disposiciones establecidas en el Código, los presentes Lineamientos y demás disposiciones legales aplicables; asimismo, adoptarán las medidas que en dichos ordenamientos se precisen para asegurar a partidos políticos y coaliciones el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO II. Actos de Campaña
 
@@ -1297,7 +1299,7 @@ q) Conciliación, al acuerdo celebrado entre quienes se encuentran ante un confl
 
 15. Los partidos políticos y coaliciones informarán a la Comisión de Propaganda, de sus programas para la utilización de las plazas públicas de las cabeceras municipales, particularmente para los cierres de campaña.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO III. De la Propaganda Electoral
 
@@ -1405,7 +1407,7 @@ Se levantará un acta circunstanciada en la que consten los pormenores del recor
 
 En caso de encontrarse propaganda electoral en los lugares y términos contrarios a lo establecido por el Código y los presentes lineamientos, se exhortará a los representantes de los partidos políticos y coaliciones, a que la retiren en un plazo no mayor a 48 horas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO IV. De los Lugares de Uso Común
 
@@ -1465,11 +1467,11 @@ Los propios Consejos harán la investigación e inventario de los bienes de uso 
 
 40. Cuando los representantes de los partidos políticos y coaliciones consideren que existieron irregularidades en el resultado del sorteo, contarán con el término de veinticuatro horas a partir de la fecha en que se les notifique el resultado, siendo aplicables las reglas de notificación mencionadas en el Código para que mediante escrito, y con las pruebas que sean procedentes, presenten su inconformidad ante los Consejos respectivos, quienes a la recepción del mencionado escrito analizarán si existen elementos para considerar procedente la inconformidad para que se revise el sorteo y la distribución de los mismos. En caso de que el inconforme sustente debidamente las irregularidades, se procederá a la anulación del sorteo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO V. Candidaturas Comunes
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
@@ -1497,7 +1499,7 @@ Los propios Consejos harán la investigación e inventario de los bienes de uso 
 
 44. Los partidos políticos que postulen candidatura común no podrán ostentarse como una coalición.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. De las controversias
 
@@ -1513,11 +1515,11 @@ Los propios Consejos harán la investigación e inventario de los bienes de uso 
 
 46. En el caso de violaciones al Código o a los presentes lineamientos, por parte de los partidos políticos que hayan postulado una candidatura común, se procederá a aplicar las sanciones previstas en el Código y en los presentes lineamientos, en su caso, a cada uno de los partidos políticos.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO VI. Organización y Procedimiento de la Comisión de Propaganda en los Consejos
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. De la Integración
 
@@ -1557,7 +1559,7 @@ Los propios Consejos harán la investigación e inventario de los bienes de uso 
 
 52. Para que exista el quórum legal en las sesiones de la Comisión de Propaganda será necesario que asistan por lo menos dos de los consejeros electorales; debiendo estar siempre presente el Presidente de la misma.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. De sus Atribuciones
 
@@ -1597,7 +1599,7 @@ XIV. Elaborar conjuntamente con los partidos políticos y coaliciones las reglas
 
 XV. Las demás que le encomiende el Consejo General; así como la Comisión de Radiodifusión y Propaganda.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN TERCERA. De las Atribuciones del Presidente y del Secretario Técnico de la Comisión de Propaganda
 
@@ -1659,11 +1661,11 @@ XII. Levantar las Actas relativas a las diligencias que se practiquen en cumplim
 
 XIII. Llevar a cabo a petición de parte y cuando sea procedente, la audiencia de conciliación en las controversias que se susciten.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO VII. Del Procedimiento
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. Del escrito de inconformidad
 
@@ -1733,7 +1735,7 @@ II. Cuando deje de existir la irregularidad denunciada.
 
 No procederá el sobreseimiento si del escrito de inconformidad se desprenden cuestiones de orden público.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. Del Desahogo de la Controversia
 
@@ -1759,7 +1761,7 @@ II. De no darse los supuestos anteriores abordará las causas o motivos que dier
 
 III. Formulará un proyecto de resolución en el que determinará, si es competente para resolver la controversia, y de resultar procedente, resolverá en cuanto al fondo de la misma. Posteriormente abordará las causas y motivos que dieron lugar a la controversia, se examinarán las pruebas aportadas por las partes, y se concluirá en el establecimiento de una medida para recuperar el orden jurídico electoral, valorando, en su caso, la propuesta de sanción.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN TERCERA. Del Proyecto de Resolución
 
@@ -1801,7 +1803,7 @@ IV. Un apartado de RESOLUTIVOS, donde se indique el sentido del proyecto de reso
 
 67. El proyecto de resolución contendrá el sentido de la votación de los Integrantes de la Comisión.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN CUARTA. Del Proyecto de Resolución de la Comisión de Propaganda
 
@@ -1823,7 +1825,7 @@ IV. Un apartado de RESOLUTIVOS, donde se indique el sentido del proyecto de reso
 
 70. El Secretario Técnico tomará la votación y asentará en el acta el sentido de la misma, remitiéndose en un plazo de 72 horas el proyecto de resolución a los Consejos respectivos para su discusión y, en su caso, aprobación.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN QUINTA. Del Proyecto de Resolución de los Consejos
 
@@ -1845,7 +1847,7 @@ IV. Un apartado de RESOLUTIVOS, donde se indique el sentido del proyecto de reso
 
 73. El Secretario Técnico tomará la votación y asentará en el acta el sentido de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEXTA. Del Trámite ante la Comisión de Radiodifusión y Propaganda
 
@@ -1897,11 +1899,11 @@ Tratándose de las elecciones de diputados y ayuntamientos, las controversias de
 
 Los órganos desconcentrados del Instituto, distritales y municipales, deberán resolver en forma definitiva las controversias que tengan bajo su responsabilidad teniendo como plazo máximo 30 días después de la jornada electoral.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO VIII. De las Medidas, Sanciones y Conciliación
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. De las medidas
 
@@ -1937,7 +1939,7 @@ IV Las demás que contemple el Código.
 
 84. Estas medidas se aplicarán sin perjuicio de las sanciones que regula la siguiente Sección.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. De las sanciones
 
@@ -1993,7 +1995,7 @@ XI. Cuando se cuelgue, fije, pinte o distribuya propaganda electoral al interior
 
 89. Todas estas sanciones se aplicarán independientemente de las demás responsabilidades que se deriven, previstas en otros ordenamientos legales. La Comisión de Propaganda, cuando tenga conocimiento de una conducta que pueda ser constitutiva de un delito electoral, podrá instruir al Secretario Técnico para que acuda a la autoridad correspondiente a formular la denuncia, informando de este hecho al Consejo General a través de la Comisión de Radiodifusión y Propaganda.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN TERCERA. De la conciliación
 
@@ -2055,11 +2057,11 @@ IV. Se elabore propaganda electoral que contenga sustancias tóxicas y materiale
 
 97. La Comisión de Propaganda podrá actuar como órgano conciliador cuando dos o más partidos políticos o coaliciones tengan la intención de llevar a cabo reuniones públicas coincidentes en un mismo lugar.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO IX. De la Propaganda en Precampañas
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -2081,7 +2083,7 @@ IV. Se elabore propaganda electoral que contenga sustancias tóxicas y materiale
 
 100. La Comisión de Radiodifusión y Propaganda, velará por la observancia de las disposiciones establecidas en el Código, los presentes Lineamientos y demás disposiciones legales aplicables; asimismo, adoptarán las medidas que en dichos ordenamientos se precisen para asegurar a los partidos políticos el pleno ejercicio de sus derechos y el cumplimiento de sus obligaciones, hasta en tanto no se instalen las Comisiones de Propaganda en los respectivos Consejos Distritales y Municipales.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN SEGUNDA. De la propaganda de las precampañas
 
@@ -2143,7 +2145,7 @@ Las disposiciones contenidas en el presente apartado, sólo se aplicarán en las
 
 Sólo en caso de controversia se deberá exhibir y entregar a la Comisión de Radiodifusión y Propaganda copia del permiso correspondiente. En este supuesto la Comisión de Radiodifusión y Propaganda podrá solicitar al propietario del inmueble, exhiba el titulo que acredite el dominio del bien, y, en su caso, ratifique el permiso correspondiente otorgado a favor de los partidos políticos o a los aspirantes a candidatos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 #### SECCIÓN TERCERA. De las inconformidades previo a la integración de las comisiones de propaganda en los órganos desconcentrados
 
@@ -2379,11 +2381,11 @@ V
 
 Vehículo Oficial: Cualquier tipo de transporte automotor que sea propiedad o del dominio de autoridades Municipales, Estatales o Federales, en cualquier modalidad centralizada o paraestatal que sirva a las funciones internas o externas de las mismas.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 # LIBRO TERCERO. LINEAMIENTOS TECNICOS PARA EL ACCESO DE LOS PARTIDOS POLITICOS Y COALICIONES A LOS MEDIOS DE COMUNICACIÓN SOCIAL PROPIEDAD DEL ESTADO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO I. DE LAS DEFINICIONES
 
@@ -2407,7 +2409,7 @@ g) Sistema, al Sistema de Radio y Televisión Mexiquense.
 
 h) Dirección, a la Dirección de Partidos Políticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO II. Disposiciones Generales
 
@@ -2451,7 +2453,7 @@ II. El uso de símbolos de carácter religioso.
 
 7. Los programas a que tienen derecho los partidos políticos y coaliciones tanto para radio y televisión contendrán al inicio la identificación del partido y coalición de que se trate, así como la identificación auditiva o visual de los participantes.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO III. Sobre los Programas Semanales
 
@@ -2479,7 +2481,7 @@ II. El uso de símbolos de carácter religioso.
 
 11. La Dirección será la única responsable de llevar a cabo los trámites necesarios para que los partidos políticos y coaliciones puedan disponer y hacer efectiva esta prerrogativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su producción
 
@@ -2495,7 +2497,7 @@ De su producción
 
 13. Los partidos políticos y coaliciones serán los responsables del contenido de los programas en bloques con la duración exacta señalada en los artículos 3.8 y 3.9 de este ordenamiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su transmisión
 
@@ -2553,7 +2555,7 @@ De su transmisión
 
 22. Cuando se incumplan las disposiciones establecidas en los presentes Lineamientos, la Dirección solicitará al Sistema se continúe retransmitiendo el programa entregado con anterioridad y en su caso, disponga la utilización de los tiempos programados para la difusión de cápsulas institucionales relativas a la cultura político-democrática, notificando oportunamente al partido político y coalición afectado, así como a la Dirección.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO IV. Sobre los Programas Especiales Conjuntos
 
@@ -2587,7 +2589,7 @@ De su transmisión
 
 27. La Dirección será la única responsable de llevar a cabo los trámites necesarios para que los partidos políticos y coaliciones puedan disponer y hacer efectiva esta prerrogativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su producción
 
@@ -2629,7 +2631,7 @@ En el caso de que haya cambios de último momento, éstos deberán ser notificad
 
 33. Los representantes de los partidos políticos y coaliciones en cada programa, deberán presentarse a la hora en que sean citados, de no hacerlo, el equipo de producción podrá tomar la determinación de cancelar el tiempo que le corresponda y distribuirlo entre quienes estén a tiempo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su transmisión
 
@@ -2651,7 +2653,7 @@ De su transmisión
 
 36. El Instituto organizará dos programas mensuales de 30 minutos, en los que los partidos políticos y coaliciones participarán de manera igualitaria, con la finalidad de dar difusión y promoción de sus actividades.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO V. Sobre los Programas Mensuales
 
@@ -2679,7 +2681,7 @@ De su transmisión
 
 40. La Dirección será la única responsable de llevar a cabo los trámites necesarios para que los partidos políticos y coaliciones puedan disponer y hacer efectiva esta prerrogativa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su producción
 
@@ -2707,7 +2709,7 @@ De su producción
 
 44. El tema que propongan los representantes de los partidos políticos y coaliciones y que apruebe la Comisión, será el mismo que se trate en el programa mensual de 30 minutos, así como en el especial conjunto.
 
-> <small>(ADICIONADO CON LOS ARTICULO QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULO QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De su transmisión
 
@@ -2775,11 +2777,11 @@ I. Su transmisión deberá confirmarse con 24 horas de anticipación al Sistema.
 
 II Los Partidos Políticos y Coaliciones proporcionarán los nombres de los participantes para el programa, con 48 horas de anticipación.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 # LIBRO CUARTO. LINEAMIENTOS DE MONITOREO A MEDIOS DE COMUNICACIÓN IMPRESOS, ELECTRÓNICOS Y ALTERNOS PARA EL PERIODO DE PRECAMPAÑAS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -2819,7 +2821,7 @@ II Los Partidos Políticos y Coaliciones proporcionarán los nombres de los part
 
 6. La implementación de los monitoreos se ajustará a los documentos técnicos que para tal efecto apruebe la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO II. Monitoreo a Medios de Comunicación Impresos y Electrónicos
 
@@ -2913,7 +2915,7 @@ II Los Partidos Políticos y Coaliciones proporcionarán los nombres de los part
 
 21. El monitoreo comprenderá también el registro de la transmisión de los programas de los partidos políticos, producto de las prerrogativas de acceso a los medios de comunicación propiedad del Gobierno del Estado, a efecto de que éstos se transmitan en tiempo y forma en las estaciones del Sistema de Radio y Televisión Mexiquense.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 Del Monitoreo Cuantitativo
 
@@ -2941,7 +2943,7 @@ Del Monitoreo Cuantitativo
 
 25. Se hará del conocimiento de la empresa y personal responsable sobre los horarios y fechas otorgados a los partidos políticos, en el que se especifican los tiempos concedidos por el Sistema de Radio y Televisión Mexiquense, producto de sus prerrogativas, con el propósito de que no sean considerados como publicidad pagada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 Del Monitoreo Cualitativo
 
@@ -2981,7 +2983,7 @@ Del Monitoreo Cualitativo
 
 31. La Comisión informará periódicamente al Consejo General, y cuando así lo requiera a la Comisión de Fiscalización, sobre los reportes semanales, quincenales, extraordinarios y resultados de los monitoreos, mismos que contendrán una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
 
-> <small>(ADICIONADO CON EL APARTADO Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL APARTADO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO III. Monitoreo a Medios de Comunicación Alternos
 
@@ -3069,7 +3071,7 @@ Del Monitoreo Cualitativo
 
 45. La Unidad de Información y Estadística coadyuvará con la Dirección de Partidos Políticos en el seguimiento de la captura de los datos, su sistematización y en la elaboración de los reportes de los resultados arrojados por el monitoreo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 De los Informes
 
@@ -3105,11 +3107,11 @@ c) Medio.
 
 49. Los informes deberán entregarse en forma impresa, en medio magnético y fotografías, además de ser firmados por los responsables del levantamiento de información, así como del Vocal de Organización.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 # LIBRO QUINTO. LINEAMIENTOS PARA LA ORGANIZACIÓN Y REALIZACIÓN DE DEBATES PÚBLICOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO ÚNICO. Bases de Organización
 
@@ -3255,181 +3257,181 @@ II. En su caso, podrá enviar al término del evento un reporte pormenorizado de
 
 III. La Comisión proveerá lo necesario para la transmisión de los debates realizados, en el Sistema de Radio y Televisión Mexiquense.
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 # LIBRO SEXTO. DE LA FISCALIZACIÓN
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 6.
 
-1. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+1. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-2. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+2. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-3. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+3. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-4. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+4. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-5. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+5. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-6. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+6. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-7. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+7. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Articulo 6.
 
-8. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+8. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. Del Órgano Interno
 
 ###### Artículo 6.
 
-9. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+9. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-10. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+10. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-11. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+11. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-12. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+12. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-13. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+13. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-14. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+14. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO III. Del Registro Contable
 
-> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. De la contabilidad, del catálogo de cuentas y guía contabilizadora
 
 ###### Artículo 6.
 
-15. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+15. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-16. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+16. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-17. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+17. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-18. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+18. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-19. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+19. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-20. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+20. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-21. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+21. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-22. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+22. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-23. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+23. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-24. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+24. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN SEGUNDA. De los estados financieros
 
 ###### Artículo 6.
 
-25. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+25. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-26. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+26. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
-> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 #### SECCIÓN TERCERA. De los ingresos
 
 ###### Artículo 6.
 
-27. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+27. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-28. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+28. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-29. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+29. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-30. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+30. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-31. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+31. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-32. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+32. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-33. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+33. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Articulo 6.
 
-34. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+34. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-35. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+35. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-36. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+36. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 ###### Artículo 6.
 
-37. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)
+37. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)
 
 > <small>(DEROGADA POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
 
@@ -4475,15 +4477,15 @@ De los formatos y anexos
 
 61. (DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN A LAS ACTIVIDADES DE LOS PARTIDOS POLÍTICOS Y COALICIONES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, G.G. 8 DE ENERO DE 2009)</small>
 
 ANEXO DEL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
 
-> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA CONSTITUCIÓN, REGISTRO Y LIQUIDACIÓN DE LOS PARTIDOS POLITICOS LOCALES, G.G. 8 DE ENERO DE 2009)</small>
 
 ANEXO DEL LIBRO SÉPTIMO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 3 DE JULIO DE 2007.
 
@@ -4503,7 +4505,7 @@ SEGUNDO.- Se abroga el Libro Primero del Reglamento aprobado por el Consejo Gene
 
 G.G. 8 DE ENERO DE 2009.
 
-ACUERDO CG/61/2008, POR EL QUE SE DEROGA EL LIBRO SEPTIMO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+ACUERDO CG/61/2008, POR EL QUE SE DEROGA EL LIBRO SÉPTIMO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
@@ -4511,7 +4513,7 @@ SEGUNDO.- Se deroga el Libro Séptimo "Constitución y Registro de Partidos Pol�
 
 G.G. 8 DE ENERO DE 2009.
 
-ACUERDO CG/67/2008, POR EL QUE SE DEROGA EL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO.
+ACUERDO CG/67/2008, POR EL QUE SE DEROGA EL LIBRO SEXTO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
@@ -4558,3 +4560,11 @@ TERCERO.- Se instruye al Secretario de este Consejo General, haga del conocimien
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
 
 SEGUNDO.- La reforma aprobada por el presente Acuerdo surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+G.G. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El Reglamento expedido por el presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, expedido mediante Acuerdo número CG/62/2010, de fecha treinta de diciembre de dos mil diez, así como todas aquellas disposiciones normativas internas que se contrapongan a las adecuaciones aprobadas por el presente Acuerdo.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
