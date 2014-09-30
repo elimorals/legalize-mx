@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transparencia-y-acceso-a-la-informacion-64303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-23"
-last_updated: "2008-10-23"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. EL 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el jueves 23 de octubre de 2008.
 
@@ -934,3 +936,13 @@ De la responsabilidad administrativa
 ###### Artículo 64.
 
 La responsabilidad administrativa que derive del incumplimiento de las disposiciones establecidas en la Ley y el presente reglamento, se sujetará a lo establecido en el Título Séptimo de la Ley y demás disposiciones aplicables, en términos del artículo 103 fracción XVII del Código así como en lo establecido en la Normatividad de las Responsabilidades de los Servidores Electorales del Estado de México.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El Reglamento expedido por el presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral del Estado de México, expedido mediante Acuerdo número CG/41/2008, de fecha veinte de octubre de dos mil ocho.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
