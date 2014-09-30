@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2014-08-29"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1591,7 +1591,7 @@ La duración de la pena de prisión que se imponga por uno o más delitos nunca 
 
 4) Cualquiera de los delitos previstos en los artículos 280 BIS, 280 BIS 3, 280 BIS 4, 280 BIS 5, 280 BIS 6, 280 BIS 7 y 280 BIS 8.
 
-5) Homicidio doloso, simple o calificado, consumado o en grado de tentativa, en este último caso solo si se ocasionaron lesiones de las clasificadas en este código como graves o de mayor gravedad, o se hayan empleado arma de fuego (sic).
+5) Homicidio doloso, simple o calificado, consumado o en grado de tentativa, en este último caso solo si se ocasionaron lesiones de las clasificadas en este código como graves o de mayor gravedad, o se hayan empleado arma (sic) de fuego.
 
 6) Homicidio en riña con carácter de provocador, de los artículos 329 y 349.
 
@@ -3007,7 +3007,7 @@ B. (Prescripción de la acción penal según el tipo de pena)
 
 La acción penal prescribirá:
 
-I. En un término igual al término medio aritmético de la pena de prisión, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años, (sic)
+I. En un término igual al término medio aritmético de la pena de prisión, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años,
 
 Esta regla se aplicará cuando la pena de prisión esté señalada en forma aislada, conjunta o alterna con otra diversa.
 
@@ -4389,17 +4389,17 @@ I. Con violación a lo establecido en las disposiciones legales aplicables, emit
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
-II. Al que no obstante haber sido sancionado administrativamente por la autoridad competente, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, o para la extracción de alguno de sus compontes, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas.
+II. Al que no obstante haber sido sancionado administrativamente por la autoridad competente, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, o para la extracción de alguno de sus compontes (sic), provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas.
 
 III. En contravención a las disposiciones legales aplicables, genere emisiones de olores, ruidos, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
 
-IV. Sin la autorización que, en su caso, se requiera o en contravención a las disposiciones legales aplicables descargue, deposite o infiltre, lo autorice u ordene, aguas residual es sin su previo tratamiento, líquidos químicos o bioquímicos, desechos o contaminantes, en los suelos, depósitos o corrientes de agua de jurisdicción estatal o federal concesionadas al Estado o a los municipios, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a los cauces y vasos, a la calidad del agua o a los ecosistemas.
+IV. Sin la autorización que, en su caso, se requiera o en contravención a las disposiciones legales aplicables descargue, deposite o infiltre, lo autorice u ordene, aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos, desechos o contaminantes, en los suelos, depósitos o corrientes de agua de jurisdicción estatal o federal concesionadas al Estado o a los municipios, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a los cauces y vasos, a la calidad del agua o a los ecosistemas.
 
 Cuando se trate de aguas aprovechables por el Estado, que deban ser entregadas en bloque a centros de población, la pena se elevará hasta en una mitad de la señalada para este delito.
 
 V. Sin observar los ordenamientos legales aplicables, realice actividades de separación, utilización, acopio, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de manejo especial, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos que resulten sobrantes de actividades domésticas, industriales, agrícolas o comerciales, que causen o puedan causar daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
 
-VI. Sin justificación legal alguna, provoque la contaminación, degradación, esterilización o envenenamiento de las tierras yaguas de jurisdicción estatal o municipal, en sus respectivas competencias.
+VI. Sin justificación legal alguna, provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción estatal o municipal, en sus respectivas competencias.
 
 VII. Sin contar con el permiso de la autoridad competente, dolosamente derribe, tale u ocasione la muerte de uno o más árboles que se encuentren en banquetas, parques, jardines, plazas o áreas verdes de uso común, propiedad del Estado o de los Municipios.
 
@@ -4617,6 +4617,10 @@ ARTÍCULO 294 BIS. SANCIONES Y TIPOS DE ELABORACIÓN Y USO INDEBIDO DE PLACAS, E
 
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2014)</small>
+
+Se aplicará prisión de seis meses a cuatro años y multa, al que fabrique, elabore o suministre placas de lámina, plástico, papel o de cualquier otro material, engomados, tarjeta de circulación, o cualquier otro documento no oficial, o no permitidos por la autoridad competente que sirvan para identificar vehículos automotores.
+
 ### CAPÍTULO SEGUNDO. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
 
 ###### ARTÍCULO 295.
@@ -4713,7 +4717,7 @@ No se entenderá por corrupción de menores o incapaces los programas preventivo
 
 ###### ARTÍCULO 301.
 
-SANCIONES Y FIGURA TÍPICA DE PORNOGRAFIA INFANTIL DE MENORES E INCAPACES. Se aplicará prisión de siete a once años y multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos o grabados, a quien procure, obligue, facilite o induzca por cualquier medio o utilice a un menor de dieciocho años de edad, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o que por cualquier circunstancia personal no pueda resistirlo; para realizar actos de exhibicionismo corporal, o sexuales, lascivos o pornográficos, con el propósito de video grabarlo, filmarlo, fotografiarlo o exhibirlo, por cualquier medio, con o sin fin de obtener un lucro. La misma sanción se impondrá a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga o publicite el material a que se refieren las conductas descritas.
+SANCIONES Y FIGURA TÍPICA DE PORNOGRAFIA INFANTIL DE MENORES E INCAPACES. Se aplicará prisión de siete a once años y multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos o grabados, a quien procure, obligue, facilite o induzca por cualquier medio o utilice a un menor de dieciocho años de edad, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o que por cualquier circunstancia personal no pueda resistirlo; para realizar actos de exhibicionismo corporal, o sexuales, lascivos o pornográficos, con el propósito de videograbarlo, filmarlo, fotografiarlo o exhibirlo, por cualquier medio, con o sin fin de obtener un lucro. La misma sanción se impondrá a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga o publicite el material a que se refieren las conductas descritas.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -6659,9 +6663,9 @@ Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Minis
 
 Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad:
 
-Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos:
 
-CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado, publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas: (sic)
+CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado, publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas:
 
 QUINTO.- Todos los procedimientos y asuntos pendientes de la Fiscalía en materia de procuración de justicia, serán tramitados y resueltos por la Procuraduría General de Justicia del Estado de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
 
@@ -6764,3 +6768,9 @@ SEGUNDO.- El Ministerio Público y los jueces penales del Estado de Coahuila de 
 P.O. 29 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
