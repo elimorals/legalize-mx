@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-centro-de-formacion-y-documentacion-electoral-65
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-11"
-last_updated: "2014-03-18"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO DEL CENTRO DE FORMACIÓN Y DOCUMENTACIÓN ELECTORAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO DE FORMACIÓN Y DOCUMENTACIÓN ELECTORAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el jueves 11 de diciembre de 2008.
 
@@ -1823,3 +1825,11 @@ PRIMERO. Se modifica el Reglamento del Centro de Formación y Documentación Ele
 SEGUNDO. A partir de su aprobación por el Consejo General, el Comité Académico tendrá un plazo de cuarenta y cinco días hábiles para aprobar el Manual de Graduación que regirá los procedimientos a que se refiere el artículo 75 del presente Reglamento, así como la integración del Comité Disciplinario y sus Lineamientos. Dichos ordenamientos serán sometidos al conocimiento del Consejo General para su aprobación definitiva.
 
 TERCERO. Los alumnos de Postgrado que hayan iniciado sus estudios antes de la presente modificación, podrán optar por acogerse a las nuevas disposiciones y a las que de ellas deriven, para lo cual deberán manifestar expresa e indubitablemente su interés dentro del plazo de cuarenta y cinco días hábiles, contados a partir de la expedición del Manual de Graduación.
+
+G.G. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El Reglamento expedido por el presente Acuerdo, entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, “Gaceta del Gobierno”.
+
+SEGUNDO.- Se abroga el Reglamento del Centro de Formación y Documentación Electoral del Instituto Electoral del Estado de México, expedido mediante Acuerdo número CG/59/2008, de fecha ocho de diciembre de dos mil ocho.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, “Gaceta del Gobierno”, así como en la página electrónica del Instituto Electoral del Estado de México.
