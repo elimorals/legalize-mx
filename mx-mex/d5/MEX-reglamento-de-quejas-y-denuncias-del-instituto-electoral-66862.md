@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-quejas-y-denuncias-del-instituto-electoral-66862"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2011-01-04"
+last_updated: "2014-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA SUSTANCIACIÓN DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 8 de enero de 2009.
 
@@ -297,7 +299,7 @@ IX. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 
 Para el caso de que se imponga una sanción a una coalición, en la resolución correspondiente deberán quedar claramente expresadas, cuando el caso lo permita, las circunstancias particulares en las que cada uno de los partidos políticos participó u omitió los hechos constitutivos de la falta, ya sea por participación directa o por corresponsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -553,7 +555,7 @@ Las multas que se apliquen en los términos del Código y el presente Reglamento
 
 Único. Todo lo no previsto será resuelto en términos del Código Electoral y del artículo cuarto del presente Reglamento, por el Consejo General.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 4 DE ENERO DE 2011.
 
@@ -566,3 +568,11 @@ T R A N S I T O R I O S
 PRIMERO.- La reforma aprobada por el Punto Único, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
 SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 30 DE SEPTIEMBRE DE 2014.
+
+PRIMERO.- El Reglamento expedido por el presente Acuerdo, entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento de Quejas y Denuncias del Instituto Electoral del Estado de México, expedido mediante Acuerdo número CG/70/2008, de fecha veintitrés de diciembre de dos mil ocho.
+
+TERCERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
