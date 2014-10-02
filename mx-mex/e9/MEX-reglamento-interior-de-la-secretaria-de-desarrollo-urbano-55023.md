@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-55023
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-22"
-last_updated: "2009-09-02"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 22 de marzo de 2007.
 
@@ -109,13 +109,19 @@ XII. Establecer políticas, criterios, sistemas y procedimientos de carácter t�
 
 XIII. Acordar con el Gobernador del Estado el nombramiento, licencia y remoción de los servidores públicos de mando superior de la Secretaría.
 
-XIV. Proponer al titular del Ejecutivo del Estado, a través de la Secretaría General de Gobierno, iniciativas de ley o decreto, así como proyectos de reglamentos, decretos, acuerdos y convenios sobre los asuntos competencia de la Secretaría o, en su caso, de los organismos auxiliares bajo su coordinación sectorial.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XIV. Proponer al titular del Ejecutivo del Estado, a través de la Consejería Jurídica del Ejecutivo Estatal, iniciativas de ley o decreto, así como proyectos de reglamentos, decretos, acuerdos y convenios sobre los asuntos competencia de la Secretaría o, en su caso, de los organismos auxiliares bajo su coordinación sectorial.
 
 XV. Suscribir acuerdos, convenios y contratos en las materias competencia de la Secretaría, de conformidad con las disposiciones legales aplicables.
 
-XVI. Establecer lineamientos para la regularización de la tenencia de la tierra en el Estado.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XVII. Autorizar conjuntos urbanos habitacionales de más de mil viviendas; industriales; de abasto, comercio y servicios, y mixtos, de más de diez hectáreas de terreno, así como su modificación, subrogación, cambio de tipo, revocación o extinción por renuncia.
+XVI. Emitir licencias de uso del suelo, de cambio de uso del suelo, de densidad e intensidad y de altura de edificaciones, para conjuntos urbanos que se ubiquen en territorio de municipios a los que aún no se les haya transferido formalmente dichas funciones.
+
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XVII. Autorizar conjuntos urbanos habitacionales de más de mil viviendas; industriales; de abasto, comercio y servicios, científicos y tecnológicos y mixtos, de más de diez hectáreas de terreno, así como su modificación, subrogación, cambio de tipo, revocación o extinción por renuncia.
 
 XVIII. Comparecer ante la Legislatura del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de México, para informar de la situación que guarda su ramo o sector correspondiente o bien, cuando se discuta una iniciativa de ley o se estudie un asunto competencia del sector a su cargo.
 
@@ -217,15 +223,21 @@ IV. Dictaminar la congruencia de los planes de desarrollo urbano de competencia 
 
 V. Asesorar a las autoridades municipales que lo soliciten, en la elaboración o modificación de planes municipales de desarrollo urbano y de centros de población, así como de los planes parciales que de ellos deriven, debiendo informar lo conducente al Secretario.
 
-VI. Gestionar la publicación e inscripción de los planes de desarrollo urbano y de sus modificaciones en el periódico oficial "Gaceta del Gobierno" y en el Registro Público de la Propiedad, respectivamente, así como inscribirlos en el Registro Estatal de Desarrollo Urbano.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+VI. Gestionar la publicación de los planes de desarrollo urbano y de sus modificaciones en el periódico oficial "Gaceta del Gobierno"; así como su inscripción en el Instituto de la Función Registral y en el Sistema Estatal de Información del Desarrollo Urbano.
 
 VII. Recopilar y formular los instrumentos técnicos y legales que sustenten la aprobación y aplicación de los planes de desarrollo urbano de competencia estatal.
 
-VIII. Participar en el Comité de Planeación para el Desarrollo del Estado de México y realizar las actividades que se encomienden a la Secretaría, relacionadas con el sector desarrollo urbano y vivienda.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+VIII. Participar en reuniones intergubernamentales, institucionales, en comisiones y órganos de coordinación y realizar las actividades que se encomienden a la Secretaría, relacionadas con el sector.
 
 IX. Formular e instrumentar, en coordinación con las demás autoridades vinculadas con el desarrollo urbano, programas y proyectos especiales de ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población.
 
-X. Integrar y mantener actualizado el Registro Estatal de Desarrollo Urbano.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+X. Integrar y mantener actualizado el Sistema Estatal de Información del Desarrollo Urbano.
 
 XI. Suscribir convenios urbanísticos con municipios y particulares, previo acuerdo con el Secretario.
 
@@ -247,17 +259,27 @@ XV. Establecer la congruencia del Plan Estatal de Desarrollo Urbano con el Plan 
 
 XVI. Emitir licencias de uso de suelo, así como autorizar cambios de uso de suelo, de densidad, intensidad o de altura de edificaciones, para la integración de conjuntos urbanos que se ubiquen en el territorio de municipios a los que aún no se les han transferido dichas funciones.
 
-XVII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XVII. Emitir opiniones y dictámenes técnicos en materia de planeación y desarrollo urbano que coadyuven a la toma de decisiones.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XVIII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 10.
 
 Corresponde a la Dirección General de Operación Urbana:
 
-I. Autorizar conjuntos urbanos habitacionales de hasta mil viviendas; industriales; de abasto, comercio y servicios, y mixtos, de hasta diez hectáreas de terreno; así como su modificación, subrogación, cambio de tipo, revocación o extinción por renuncia.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+I. Autorizar conjuntos urbanos habitacionales de hasta mil viviendas; industriales; de abasto, comercio y servicios, científicos, tecnológicos y mixtos de hasta diez hectáreas de terreno; así como, su modificación, subrogación, cambio de modalidad, revocación o extinción por renuncia.
 
 II. Elaborar los acuerdos de autorización de conjuntos urbanos, subrogación del titular, cambio de tipo, revocación, extinción por renuncia o cualquier otro que corresponda expedir al Secretario.
 
-III. Autorizar las relotificaciones; el inicio de obras de urbanización, de infraestructura y de equipamiento urbano, así como prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes y la liberación o sustitución de garantías, en los conjuntos urbanos autorizados.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+III. Autorizar el inicio de ejecución de obras; la enajenación de lotes y la promoción del desarrollo; fideicomitir, gravar o afectar lotes; prórroga para ejecución de obras; aprobación de proyectos arquitectónicos de equipamiento urbano, relotificaciones; la sustitución, liberación o cancelación de garantías; condominios; proyectos arquitectónicos de equipamiento urbano; localización de áreas de donación fuera del desarrollo; sustitución de obras de equipamiento urbano y su ubicación fuera; respecto de los fraccionamientos y conjuntos urbanos autorizados.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
@@ -267,7 +289,9 @@ IV. Aprobar el proyecto de lotificación de conjuntos urbanos.
 
 V. Emitir dictámenes de impacto regional.
 
-VI. Emitir constancias de viabilidad para conjuntos urbanos y lotificaciones en condominio.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+VI. Emitir constancias de viabilidad para conjuntos urbanos; subdivisiones y condominios habitacionales de diez o más viviendas; así como, en otros tipos con un coeficiente de utilización de tres mil metros cuadrados o más; situados en áreas urbanas o urbanizables; para la aprobación del plano de localización, deslinde y fraccionamiento de las zonas de urbanización ejidal o comunal y su área de crecimiento y para proyectos de diez o más viviendas en un predio o lote.
 
 VII. Expedir dictámenes técnicos en los procedimientos de expropiación de inmuebles.
 
@@ -283,7 +307,7 @@ X. Emitir cédulas informativas de zonificación para la autorización de conjun
 
 XI. Ejercer directamente, cuando la atención de los asuntos así lo requiera, las atribuciones asignadas a las Direcciones Regionales y Residencias Locales.
 
-XII. Expedir autorizaciones y refrendos de peritos, así como ordenar su inscripción en el Registro Estatal de Desarrollo Urbano.
+XII. (DEROGADA, G.G. 2 DE OCTUBRE DE 2014)
 
 XIII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
@@ -303,9 +327,9 @@ XVIII. Coordinarse con las autoridades federales, estatales y municipales para l
 
 XIX. Planear, programar, supervisar, controlar y evaluar el funcionamiento de las Direcciones Regionales y Residencias Locales, de acuerdo con las disposiciones legales que regulan su actuación.
 
-> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XX. Determinar la ubicación de las áreas de donación estatal que se localicen fuera de los conjuntos urbanos, subdivisiones y lotificaciones para condominio y coordinar su recepción, entrega y transmisión de propiedad con las unidades administrativas encargadas de su incorporación al patrimonio inmobiliario del Estado.
+XX. Determinar la ubicación de las áreas de donación estatal que se localicen fuera de los conjuntos urbanos, subdivisiones y condominios.
 
 > <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
@@ -319,47 +343,67 @@ XXII. Verificar que las acciones de suelo y vivienda cumplan con las disposicion
 
 XXIII. Establecer y vigilar el cumplimiento de programas de adquisición de reservas territoriales para el equipamiento urbano del Estado, con la participación que corresponda a otras autoridades.
 
-XXIV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXIV. Coordinar la recepción, entrega y transmisión de propiedad de las áreas de donación estatal que se localicen fuera de los conjuntos urbanos, subdivisiones y lotificaciones para condominio con las unidades administrativas encargadas de su incorporación al patrimonio inmobiliario del Estado.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXV. Autorizar el cumplimiento de la obligación de ceder áreas de donación, mediante la aportación de numerario al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXVI. Autorizar el cumplimiento de la obligación de ejecutar obras de equipamiento urbano regional, mediante aportación de obras o en numerario en la proporción que resulte para el equipamiento urbano regional; la aportación en numerario se integrará al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXVII. Participar y dar seguimiento en el ámbito de su competencia al Fideicomiso de Reserva Territorial para el Desarrollo de Equipamiento Urbano Regional.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ###### Artículo 11.
 
 Corresponde a la Dirección General de Control Urbano:
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-I. Supervisar, conjuntamente con las autoridades estatales y municipales competentes, la ejecución de las obras de infraestructura, urbanización y equipamiento urbano, derivadas de las autorizaciones de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+I. Supervisar, conjuntamente con las autoridades estatales y municipales competentes, la ejecución de las obras de infraestructura, urbanización y equipamiento urbano, derivadas de las autorizaciones de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
 II. Coordinar con los municipios y las autoridades estatales que correspondan, la entrega y recepción de las obras de infraestructura, urbanización y equipamiento urbano que establezcan los acuerdos de autorización de los fraccionamientos, conjuntos urbanos y subdivisiones de predios autorizados.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-III. Coordinar con los municipios la entrega, recepción y transmición de la propiedad de las áreas de donación que establezcan los acuerdos de autorización de fraccionamientos, conjuntos urbanos, lotificaciones para condominio y subdivisiones, con excepción de las de carácter estal que se ubiquen fuera de los conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+III. Coordinar con los municipios la entrega, recepción y transmisión de la propiedad de las áreas de donación que establezcan los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
 
-IV. Solicitar la reclamación o requerimiento de pago de las pólizas de fianzas que garanticen, a favor del Gobierno del Estado de México, la construcción de las obras de infraestructura, urbanización y equipamiento urbano que establezcan los acuerdos de autorización de fraccionamientos, conjuntos urbanos, lotificaciones para condominio y subdivisiones de predios.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+IV. Solicitar y entregar la información y documentación que se requiera, a la autoridad correspondiente de la Secretaría de Finanzas, para que se lleve a cabo la reclamación o el requerimiento de pago de las pólizas de fianzas que garanticen, a favor del Gobierno del Estado de México, la construcción de las obras de urbanización, equipamiento urbano, y en su caso de infraestructura primaria; derivado del incumplimiento de las obligaciones establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, condominios y subdivisiones de predios.
 
 V. Coordinar con las dependencias u organismos auxiliares estatales, la entrega y recepción de las obras de equipamiento urbano regional.
 
 VI. Coordinarse con las dependencias federales, estatales y municipales para el ejercicio de sus funciones y, en su caso, solicitar el auxilio de la fuerza pública.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-VII. Determinar el incumplimiento de las obligaciones prevista en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio, en materia de áreas de donación y ejecución de las obras de infraestructura, urbanización y equipamiento urbano e informar lo conducente a la Dirección General de Operación Urbana.
+VII. Determinar el incumplimiento de las obligaciones previstas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios, en materia de áreas de donación y ejecución de las obras de infraestructura, urbanización y equipamiento urbano e informar lo conducente a la Dirección General de Operación Urbana.
 
 VIII. (DEROGADA, G.G. 2 DE SEPTIEMBRE DE 2009)
 
-> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-IX. Autorizar los proyectos ejecutivos y memoria de cálculo de las obras de urbanización, infraestructura y equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+IX. Autorizar los proyectos ejecutivos y memoria de cálculo de las obras de equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
 
-> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-X. Realizar la apertura y autorizar el cierre de la bitácora de supervisión de las obras de urbanización, infraestructura y equipamiento urbano, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y lotificaciones para condominio.
+X. Realizar la apertura y autorizar el cierre de la bitácora de supervisión de las obras de urbanización, equipamiento urbano e infraestructura primaria, establecidas en los acuerdos de autorización de fraccionamientos, conjuntos urbanos, subdivisiones y condominios.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
-XI. Las demás que le confieren otras ordenamientos legales y aquellas que le encomiende el Secretario.
+XI. Las demás que le confieren otras (sic) ordenamientos legales y aquellas que le encomiende el Secretario.
 
 #### SECCIÓN II. DE LAS DIRECCIONES REGIONALES
 
@@ -369,29 +413,33 @@ Corresponde a las Direcciones Regionales:
 
 I. Coordinar, supervisar, controlar y evaluar el desempeño de las Residencias Locales bajo su adscripción, de acuerdo con las disposiciones legales que regulan su funcionamiento.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-II. Autorizar, previo acuerdo con el Director General de Operación Urbana, las fusiones, subdivisiones y relotificaciones de predios de superficie mayor a tres mil metros cuadrados, cualquiera que sea el número de lotes resultantes.
+II. Autorizar, previo acuerdo con el Director General de Operación Urbana, las fusiones, subdivisiones, condominios y relotificaciones de predios de superficie mayor a tres mil metros cuadrados, cualquiera que sea el número de lotes resultantes.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-III. Autorizar, previo acuerdo con el Director General de Operación Urbana, la lotificación para condominios horizontales o mixtos.
+III. Autorizar, previo acuerdo con el Director General de Operación Urbana, los condominios horizontales, verticales o mixtos.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
 IV. Emitir constancias de aprovechamiento inmobiliario.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-V. Autorizar el inicio de obras de urbanización, infraestructura y equipamiento urbano, así como las prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes, la liberación o sustitución de garantías y la subrogación de derechos y obligaciones que deriven de las autorizaciones de subdivisión de predios y lotificación para condominio.
+V. Autorizar el inicio de obras de urbanización, infraestructura y equipamiento urbano, así como las prórrogas para su ejecución; la promoción y publicidad; la enajenación o gravamen de lotes, la liberación o sustitución de garantías y la subrogación de derechos y obligaciones que deriven de las autorizaciones de subdivisión de predios y condominios.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
 VI. Expedir licencias de uso del suelo que requieran dictamen de impacto regional, respecto de predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
 
-VII. Autorizar, previo acuerdo con el Director General de Operación Urbana, vías públicas locales y subdivisiones de áreas remanentes; así como fusiones, subdivisiones y relotificaciones para la ejecución de los programas federales o estatales de regularización de la tenencia de la tierra.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-VIII. Autorizar, previo acuerdo con el Director General de Operación Urbana, cambios de uso de suelo, de densidad e intensidad de su aprovechamiento y de altura de edificaciones, en predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
+VII. Autorizar, previo acuerdo con el Director General de Operación Urbana, vías públicas locales existentes de hecho y subdivisiones de áreas remanentes; así como fusiones, subdivisiones y relotificaciones, para la ejecución de los programas federales o estatales de regularización de la tenencia de la tierra.
+
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+VIII. Autorizar, previo acuerdo con el Director General de Operación Urbana, cambios de uso de suelo, densidad, del coeficiente de ocupación del suelo, del coeficiente de utilización del suelo y de altura de edificaciones, en predios o inmuebles que se ubiquen en municipios a los que no se les haya transferido dicha función.
 
 > <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
@@ -421,15 +469,25 @@ XVIII. Verificar el cumplimiento de las obligaciones que deriven de las licencia
 
 XIX. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con el ejercicio de sus atribuciones.
 
-XX. Emitir mandamientos de visita de verificación; tramitar y resolver procedimientos administrativos; emitir y notificar citatorios; otorgar y resolver garantías de audiencia; determinar infracciones a las leyes de desarrollo urbano e imponer medidas de seguridad y/o sanciones; formular denuncias penales, así como tramitar y resolver los recursos de inconformidad que los particulares interpongan en contra de sus actos.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XX. Emitir mandamientos de visita de verificación; tramitar y resolver procedimientos administrativos; emitir y notificar citatorios; otorgar y resolver garantías de audiencias; determinar infracciones a las leyes de desarrollo urbano e imponer medidas de seguridad y/o sanciones; formular denuncias penales, de acuerdo a su jurisdicción territorial así como tramitar y resolver los recursos de inconformidad que los particulares interpongan en contra de sus actos.
 
 > <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
 
 XXI. Delegar en servidores públicos subalternos el ejercicio de sus atribuciones, previa autorización del Director General de Operación Urbana, sin perjuicio de su ejercicio directo.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XXII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Secretario.
+XXII. Autorizar prórrogas para el cumplimiento de las obligaciones establecidas en los acuerdos de autorización, de conformidad con las disposiciones jurídicas vigentes en la materia.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXIII. Verificar el cumplimiento de las obligaciones establecidas en los acuerdos de autorización y/o licencias que emitan; así como de las que expida la Dirección General de Operación Urbana que incidan en su circunscripción territorial, y en su caso imponer las medidas de seguridad y/o las sanciones que prevén las disposiciones legales de la materia.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 Las Direcciones Regionales estarán adscritas a la Dirección General de Operación Urbana.
 
@@ -465,9 +523,9 @@ V. Expedir constancias o copias certificadas de los documentos existentes en sus
 
 VI. Participar en el desalojo de asentamientos humanos irregulares en coordinación con la Secretaría General de Gobierno y demás autoridades federales, estatales y municipales competentes.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-VII. Integrar las solicitudes de fusión, subdivisión y relotificación de predios o inmuebles con superficie mayor a tres mil metros cuadrados, así como las relativas a la lotificación para condominio que se ubiquen dentro de su adscripción territorial y someterlas a la autorización del Director Regional.
+VII. Integrar las solicitudes de fusión, subdivisión y relotificación de predios o inmuebles con superficie mayor a tres mil metros cuadrados, así como las relativas a los condominios que se ubiquen dentro de su adscripción territorial y someterlas a la autorización del Director Regional.
 
 VIII. Atender, en su ámbito de competencia, las denuncias ciudadanas de hechos o actos que constituyan infracciones a las disposiciones legales que regulan el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población.
 
@@ -613,19 +671,33 @@ IX. Coordinar y verificar la realización de los registros contables, estados fi
 
 X. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría.
 
-XI. Presidir el Comité de Adquisiciones y Servicios de la Secretaría, coordinar y ejecutar los procedimientos de adquisición de bienes y servicios, y emitir los fallos de adjudicación de dichos procedimientos, con base en el dictamen del Comité.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XII. Coordinar y, en su caso, ejecutar los procedimientos de adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable.
+XI. Intervenir como Vocal en el Comité de Adquisiciones y Servicios, cuando la Secretaría de Desarrollo Urbano, sea la interesada en la adquisición de bienes o en la contratación de servicios.
 
-XIII. Suscribir convenios y contratos derivados de los procedimientos adquisitivos de bienes y contratación de servicios, con base en la normatividad aplicable.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XIV. Instrumentar y resolver los procedimientos administrativos de garantía de audiencia; expedir citatorios y notificar resoluciones relacionadas con el incumplimiento de contratos de adquisiciones de bienes y servicios por parte de los proveedores.
+XII. Participar como Vocal en el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenación, cuando la Secretaría de Desarrollo Urbano, sea la interesada, en el arrendamiento, adquisición o enajenación.
 
-XV. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios que haya celebrado la Secretaría e imponer las sanciones que prevé la legislación de la materia a los proveedores que incurran en incumplimiento de dichos contratos.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
 
-XVI. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con los procedimientos administrativos de su competencia.
+XIII. Intervenir como Secretario Ejecutivo en el Comité Interno de Obra Pública de la Secretaría de Desarrollo Urbano, de conformidad con lo previsto por el Libro Décimo Segundo del Código Administrativo del Estado de México y su Reglamento.
 
-XVII. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas a los servidores públicos de la Secretaría.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XIV. Suscribir contratos pedido para la adquisición de bienes o para la prestación de servicios, así como contratos de obra pública y de servicios relacionados con la misma y, en su caso convenios que de ellos deriven, de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XV. Representar a la Secretaría de Desarrollo Urbano, en los procedimientos de obra pública o de servicios relacionados con la misma, en materia de adjudicación directa, de invitación restringida o de licitación pública de conformidad con lo previsto en la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XVI. Instrumentar y resolver los procedimientos administrativos de garantía de audiencia; expedir citatorios y notificar resoluciones relacionadas con el incumplimiento a los contratos pedido, así como de contratos de obra pública y de servicios relacionados con la misma, por parte de los proveedores o contratistas.
+
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XVII. Rescindir administrativamente los contratos pedido, así como los contratos de obra pública y de servicios relacionados con la misma, imponiendo las sanciones que prevé la legislación de la materia a los proveedores o contratistas que incurran en incumplimiento de los mismos.
 
 XVIII. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a la Secretaría.
 
@@ -637,11 +709,21 @@ XX. Integrar y mantener actualizados los manuales administrativos de la Secretar
 
 XXI. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se traten de asuntos relacionados con sus atribuciones.
 
-XXII. Establecer las acciones y medidas necesarias para que las unidades administrativas de la Secretaría que cuenten con procesos certificados, mantengan la certificación de su Sistema de Gestión de Calidad.
+XXII. (DEROGADA, G.G. 2 DE OCTUBRE DE 2014)
 
 XXIII. Coordinar las acciones de protección civil de la Secretaría, con base en las normas y políticas aplicables.
 
-XXIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXIV. Habilitar a servidores públicos, así como días y horas inhábiles, para la práctica de diligencias relacionadas con los procedimientos administrativos de su competencia.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXV. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas a los servidores públicos de la Secretaría.
+
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 2014)</small>
+
+XXVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 #### SECCIÓN V. DE LA CONTRALORÍA INTERNA
 
@@ -788,3 +870,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a este Acuerdo.
+
+G.G. 2 DE OCTUBRE DE 2014.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a este Acuerdo.
