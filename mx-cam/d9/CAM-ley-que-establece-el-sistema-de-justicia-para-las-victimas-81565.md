@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-sistema-de-justicia-para-las-victimas-8156
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-25"
-last_updated: "2011-02-25"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VICTIMAS Y OFENDIDOS DEL DELITO EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL DÍA 3 DE DICIEMBRE DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 25 de febrero de 2011.
 
@@ -280,3 +282,21 @@ C. José Benedicto Barony Blanquet Diputado Presidente.- C. Gloria del C. Gutié
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los diecisiete días del mes de diciembre del año dos mil diez.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+Primero.- El presente decreto entrará en vigor el día 3 de diciembre de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+Los procedimientos penales se sujetarán a las disposiciones, etapas y plazos que establezca la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e inicio de vigencia del Código Nacional de Procedimientos Penales.
+
+Segundo.- Se abroga la Ley que establece el Sistema de Justicia para las Víctimas y Ofendidos del Delito en el Estado de Campeche expedida por Decreto número 71 publicado en el Periódico Oficial del Estado, número 4705, segunda sección de fecha 25 de febrero de 2011.
+
+Tercero.- Las modificaciones a la Ley que establece el Instituto de Acceso a la Justicia del Estado de Campeche serán decretadas antes de la entrada en vigor de esta Ley.
+
+Cuarto.- El Ejecutivo Estatal deberá publicar el Reglamento de la presente Ley en un plazo no mayor a 60 días posteriores a la entrada en vigor del presente decreto.
+
+Quinto.- Los Poderes Ejecutivo, Legislativo y Judicial y los organismos autónomos estatales tomarán todas las medidas necesarias para la implementación de la presente Ley.
+
+Sexto.- El H. Congreso del Estado deberá prever en el Presupuesto de Egresos del Estado las partidas presupuestales correspondientes para el adecuado ejercicio de las funciones de las autoridades creadas en el presente decreto y para la debida integración y conformación del Fondo de Justicia para las Víctimas.
+
+Séptimo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
