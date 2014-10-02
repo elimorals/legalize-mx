@@ -4,7 +4,7 @@ identifier: "SON-reglamento-que-regula-el-funcionamiento-del-consejo-estatal-517
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-11"
-last_updated: "2012-03-20"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 11 de septiembre de 2006.
 
@@ -33,9 +35,7 @@ ACUERDO NÚMERO 411
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES.
 
-CONSIDERANDO
-
-.
+CONSIDERANDO...
 
 Por todo lo anteriormente expuesto y con fundamento en los artículos 22, 64, 143, 144 y 146 de la Constitución Política del Estado Libre y Soberano de Sonora, en relación con los artículos 3, 94, 95, 98, fracciones XLIV, XLV del Código Electoral para el Estado de Sonora, este Consejo, tiene a bien, emitir el siguiente:
 
@@ -1099,7 +1099,7 @@ XVIII.- Controlar los movimientos necesarios con las instituciones bancarias rel
 
 XIX.- Autorizar la elaboración y entrega de cheques a proveedores, acreedores y prestadores de servicios del Consejo; así como los correspondientes a las nominas de sueldo del personal que labora en el Consejo;
 
-XX.- Coadyuvar en la instrumentación de esquemas de desarrollo administrativo al interior de las unidades administrativas del Consejo, tales como la implementación de sistemas de calidad, de certificación entre otros; y (sic)
+XX.- Coadyuvar en la instrumentación de esquemas de desarrollo administrativo al interior de las unidades administrativas del Consejo, tales como la implementación de sistemas de calidad, de certificación entre otros; y
 
 XXI.- Fungir como Unidad de Enlace para los efectos de la Ley de Acceso a la Información Publica del Estado de Sonora; y
 
@@ -1796,3 +1796,13 @@ TERCERO.- Publíquese este Acuerdo en el Boletín Oficial del Gobierno del Estad
 CUARTO.- Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial Federal de la emisión del presente Acuerdo.
 
 QUINTO.- Se comisiona al personal de la Unidad de Oficiales Notificadores del Consejo Estatal Electoral, para que realice las notificaciones ordenadas en el presente Acuerdo.
+
+B.O. 2 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento que Regula el Funcionamiento del Consejo Estatal Electoral, sus Comisiones y los Consejos Distritales Electorales y los Consejos Municipales Electorales.
