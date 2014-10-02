@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-servicio-publico-de-asistencia-juridica-gratuita-32299"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-03"
-last_updated: "2011-02-25"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SERVICIO PÚBLICO DE ASISTENCIA JURÍDICA GRATUITA PARA EL ESTADO DE CAM
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 25 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A LOS SEIS MESES DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2011. (ABROGADA)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014 ABROGADA. (REPUBLICADA SU ABROGACIÓN EN EL P.O. DE 2 DE OCTUBRE DE 2014).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 3 de julio de 2003.
 
@@ -612,3 +612,13 @@ Cuarto.- Se faculta al Gobernador del Estado para expedir el Reglamento de la Le
 Quinto.- La Junta de Gobierno del Instituto se instalará en la fecha, hora y lugar que en su oportunidad determine el Gobernador del Estado y deberá expedir el Reglamento Interior del Instituto en un lapso no mayor de sesenta días hábiles siguientes a la fecha de su instalación.
 
 Sexto.- Para los efectos de este decreto, deberán tomarse las previsiones presupuestales necesarias en la Ley de Presupuesto de Egresos del Estado.
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día 3 de diciembre de 2014, previa su publicación en el Periódico Oficial del Estado.
+
+Los procedimientos penales se sujetarán a las disposiciones, etapas y plazos que establezca la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e inicio de vigencia del Código Nacional de Procedimientos Penales.
+
+SEGUNDO.- Las modificaciones a la Ley que establece el Instituto de Acceso a la Justicia del Estado de Campeche serán decretadas antes de la entrada en vigor de esta Ley.
+
+TERCERO.- Se abroga la Ley de Servicio de Asistencia Jurídica Gratuita para el Estado de Campeche y se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
