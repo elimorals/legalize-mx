@@ -4,7 +4,7 @@ identifier: "SON-reglamento-del-consejo-estatal-electoral-en-materia-de-67478"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-19"
-last_updated: "2009-02-19"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL EN MATERIA DE DENUNCIAS POR ACTOS VIOLATORIOS AL CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL EN MATERIA DE DENUNCIAS POR ACTOS VIOLATORIOS AL CODIGO ELECTORAL PARA EL ESTADO DE SONORA
+REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL EN MATERIA DE DENUNCIAS POR ACTOS VIOLATORIOS AL CÓDIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO EN MATERIA DE DENUNCIAS POR ACTOS VIOLATORIOS A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 19 de febrero de 2009.
 
@@ -31,7 +33,7 @@ ACUERDO NÚMERO 37
 
 MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL EN MATERIA DE DENUNCIAS POR ACTOS VIOLATORIOS AL CÓDIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por todo lo anteriormente expuesto y con fundamento 22, 64, 143, 144 Y 146 de la Constitución Política del Estado Libre y Soberano de Sonora, en relación con el artículo 98, fracciones XLIV y XLV del Código Electoral para el Estado de Sonora, este Consejo, tiene a bien, emitir el siguiente:
 
@@ -323,7 +325,7 @@ Una vez que sea recibida la denuncia, la Secretaría procederá a:
 
 a).Su registro, debiendo informar de su presentación a los Consejeros Propietarios del Consejo;
 
-b) Su revisión para determinar si debe prevenir al denunciante en términos de lo señalado en el artículo 15 del presente reglamento; y (sic)
+b) Su revisión para determinar si debe prevenir al denunciante en términos de lo señalado en el artículo 15 del presente reglamento; y
 
 c) Proponer el proyecto de admisión o desechamiento de la misma;
 
@@ -483,7 +485,7 @@ El proyecto de resolución deberá contener:
 
 I. Lugar y fecha;
 
-II. Órgano que emite la resolución, y (sic)
+II. Órgano que emite la resolución, y
 
 III. Datos que identifiquen al expediente y a las partes;
 
@@ -624,3 +626,15 @@ Consejero
 Lic. Ramiro Ruiz Molina
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 2 DE OCTUBRE DE 2014.
+
+PRIMERO.- Los procedimientos sancionadores iniciados a partir de la entrada en vigor de las presentes reformas, serán tramitados, sustanciados y resueltos conforme al presente Reglamento.
+
+SEGUNDO.- Los procedimientos que al día de la entrada en vigor del presente Reglamento se encuentren en trámite, serán sustanciados de conformidad con los criterios establecidos en los autos de apertura del período de instrucción.
+
+TERCERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previa aprobación por el Consejo General del Instituto Electoral y de Participación ciudadana del Estado de Sonora.
+
+CUARTO.- Con la entrada en vigor del presente Reglamento, se abroga el Reglamento de Denuncias por Actos Violatorios al Código Electoral para el Estado de Sonora.
