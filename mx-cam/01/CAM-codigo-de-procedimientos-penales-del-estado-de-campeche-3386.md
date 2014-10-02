@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "2013-11-08"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO Y QUEDARÁ ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 172 DE LA DECLARATORIA DE INCORPORACIÓN DEL ESTADO DE CAMPECHE AL SISTEMA PROCESAL ACUSATORIO E INICIO DE VIGENCIA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL ENTRAR EN VIGOR EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014 (ABROGADO).
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -917,7 +917,7 @@ XV.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la
 
 XVI.- Abigeato previsto en los artículos 349 y 350, cuando las sanciones aplicables correspondan a las previstas en los segundos párrafos de las fracciones I, II y III del mencionado artículo 349; 352, 353 y 354, en los casos de reincidencia; y 351 y 355;
 
-XVII.- Despojo de Cosas Inmuebles o Aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371; y (sic)
+XVII.- Despojo de Cosas Inmuebles o Aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371; y
 
 XVIII.- Pornografía Infantil prevista en el artículo 175 Bis;
 
@@ -3205,7 +3205,7 @@ Si en los casos a que este Título se refiere sobreviniere la curación del reo,
 
 La vigilancia del incapacitado estará a cargo de la autoridad administrativa, salvo los casos en que conforme al Código Penal, aquél fuere entregado a las personas que corresponda para hacerse cargo de él.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE JULIO DE 2010)</small>
 
 ### CAPITULO II. Tratamiento a Farmacodependientes
 
@@ -3490,3 +3490,33 @@ SEXTO.- El Presupuesto de Egresos del Estado para el ejercicio fiscal de 2015 de
 SÉPTIMO.- Todo lo dispuesto en el presente decreto relativo al uso de medios electrónicos, entrará en vigor el mismo día que entre en vigor la Ley en la materia.
 
 OCTAVO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 172 QUE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL ESTADO DE CAMPECHE AL SISTEMA PROCESAL ACUSATORIO E INICIO DE VIGENCIA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+"ARTÍCULO PRIMERO.- Se declara que el Sistema Procesal Penal Acusatorio, previsto en el decreto publicado en el Diario Oficial de la Federación el 18 de junio de 2008, mediante el cual se reformaron los artículos 16 párrafo segundo y décimo tercero; 17 párrafos tercero, cuarto y sexto; 19; 20 y 21 párrafo séptimo de la Constitución Política de los Estados Unidos Mexicanos, ha sido incorporado al marco jurídico del Estado de Campeche y, en consecuencia, los derechos y garantías que consagra la invocada Constitución Política de los Estados Unidos Mexicanos, empezarán a regular la forma y términos en que se sustanciarán los procedimientos penales, de conformidad con lo que establece el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se declara que el Código Nacional de Procedimientos Penales entrará en vigor en el Estado de Campeche, de manera gradual, para todos los delitos tipificados en el Código Penal del Estado y los delitos previstos en leyes especiales, de conformidad con el siguiente orden:
+
+1.- PRIMERA ETAPA O FASE: A partir de las cero horas del día 3 de diciembre de 2014 en los Municipios de Campeche, Champotón y Escárcega.
+
+2.- SEGUNDA ETAPA O FASE: A partir de las cero horas del día 4 de agosto de 2015 en los Municipios de Calkiní, Hecelchakán, Tenabo, Hopelchén, Candelaria, Palizada y Calakmul.
+
+3.- TERCERA ETAPA O FASE: A partir de las cero horas del día 18 de mayo de 2016 en el Municipio de Carmen."
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 172 QUE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL ESTADO DE CAMPECHE AL SISTEMA PROCESAL ACUSATORIO E INICIO DE VIGENCIA GRADUAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+Primero.- Publíquese la presente Declaratoria en el Periódico Oficial del Estado, para que surta sus efectos a partir del día 3 de diciembre de 2014.
+
+Segundo.- Al entrar en vigor el Código Nacional de Procedimientos Penales quedarán abrogados el Código de Procedimientos Penales del Estado de Campeche expedido por decreto número 66 de 3 de diciembre de 1975 de la XLVIII Legislatura, que entró en vigor el día 2 de enero de 1976, según Acuerdo del Ejecutivo del Estado de 12 de diciembre de 1975, publicado en el Periódico Oficial del Gobierno del Estado de 16 de diciembre de 1975, con todas sus posteriores reformas, adiciones y derogaciones; así como el Código de Procedimientos Penales del Estado de Campeche, expedido por decreto número 75 de la LXI Legislatura publicado en el Periódico Oficial del Estado el 8 de noviembre de 2013.
+
+Tercero.- Los procedimientos iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados antes de la entrada en vigor del Código Nacional de Procedimientos Penales, continuarán su sustanciación hasta su resolución firme de conformidad con las disposiciones vigentes en el momento de su inicio.
+
+Cuarto.- Remítase copia de este decreto para su conocimiento a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Campeche; Legislativo, Ejecutivo y Judicial de las entidades federativas y del Distrito Federal; así como a los Ayuntamientos del Estado; y a todas aquellas autoridades que les resulte de observancia obligatoria.
+
+Quinto.- Difúndase esta declaratoria para su conocimiento general a través de los medios de comunicación masiva.
+
+Sexto.- Los Poderes Ejecutivo, Legislativo y Judicial del Estado, tomarán oportunamente todas las previsiones administrativas y presupuestales necesarias para el cumplimiento de los efectos que se deriven de la presente Declaratoria.
