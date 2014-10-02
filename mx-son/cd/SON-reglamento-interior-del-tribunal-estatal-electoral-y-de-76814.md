@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-tribunal-estatal-electoral-y-de-76814"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-27"
-last_updated: "2010-09-27"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL Y DE TRANSPARENCIA INFORMATIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL DE SONORA, PUBLICADO EN EL B.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Sonora, el lunes 27 de septiembre de 2010.
 
@@ -145,7 +147,7 @@ XXI.- Aprobar el proyecto de presupuesto del Tribunal y ordenar remitirlo al Pod
 
 XXII.- Emitir las bases y lineamientos para el ejercicio del presupuesto;
 
-XXlll.- Autorizar las modificaciones presupuestales y los montos originalmente asignados a las metas que requieran recursos adicionales, para permitir un mejor cumplimiento de las mismas;
+XXIII.- Autorizar las modificaciones presupuestales y los montos originalmente asignados a las metas que requieran recursos adicionales, para permitir un mejor cumplimiento de las mismas;
 
 XXIV.- Establecer los lineamientos para el otorgamiento de estímulos al desempeño y compensaciones al personal del Tribunal que se distinga en la productividad y eficiencia, en el ejercicio de sus funciones;
 
@@ -946,3 +948,15 @@ MAGISTRADO
 LIC. SONIA QUINTANA TINOCO
 
 SECRETARIA GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Pleno del Tribunal Estatal Electoral.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal Estatal Electoral y de Transparencia Informativa, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, el 27 de septiembre de 2010.
