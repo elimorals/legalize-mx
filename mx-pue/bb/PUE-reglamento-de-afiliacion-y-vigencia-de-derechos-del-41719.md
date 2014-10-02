@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-afiliacion-y-vigencia-de-derechos-del-41719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-15"
-last_updated: "2004-11-15"
+last_updated: "2014-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO DE AFILIACION Y VIGENCIA DE DERECHOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-REGLAMENTO DE AFILIACION Y VIGENCIA DE DERECHOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
+REGLAMENTO DE AFILIACIÓN Y VIGENCIA DE DERECHOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 15 de noviembre de 2004.
 
@@ -595,9 +595,11 @@ V.- Los procedimientos de inscripción y los de cobro de la cotización, y
 
 VI.- Las demás modalidades que se requieran conforme a la Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 66.
 
-Sólo el Director General, podrá autorizar la celebración de Convenio de incorporación al Instituto, de Dependencias y Entidades de la Administración Pública Estatal, así como de otras agrupaciones de interés público, una vez que la parte interesada haya presentado la solicitud por escrito, acompañada del Decreto o instrumento de su creación correspondiente, del nombramiento del titular y la plantilla del personal que deberá constar cuando menos de veinticinco trabajadores.
+El Director General, podrá autorizar la celebración de Convenio de Incorporación al Instituto, de Dependencias y Entidades de la Administración Pública Estatal, así como de otras agrupaciones de interés público, una vez que la parte interesada haya presentado la solicitud por escrito, acompañada del Decreto o instrumento de su creación correspondiente, del nombramiento del titular y la plantilla del personal; debiendo informar al pleno de la Junta Directiva del Instituto en forma subsecuente.
 
 ###### ARTÍCULO 67.
 
@@ -726,3 +728,11 @@ Se derogan todas las disposiciones emanadas emitidas con anterioridad y que se o
 Los procedimientos o instancias iniciados con anterioridad a la vigencia del presente Reglamento, seguirán tramitándose hasta la conclusión del término o cumplimiento de las condiciones en que se hayan celebrado.
 
 H. Puebla de Z., a 24 de septiembre de 2004 - La Junta Directiva autoriza favorablemente por unanimidad, con el Acuerdo número 74/04, la aplicación operativa del Reglamento de Afiliación y Vigencia de Derechos del Instituto.- Miembros de la H. Junta Directiva.- Secretario de Salud y Presidente.- DOCTOR JESÚS LORENZO AARUN RAMÉ.- Rúbrica.- Director General: DOCTOR MIGUEL MARTÍNEZ VILLALPANDO.- Rúbrica.- Representantes Gobierno del Estado: PROFESOR ÁLVARO RUBÉN HERNÁNDEZ Y CAMPOS.- Rúbrica.- PROFESOR HUGO ELOY MELÉNDEZ AGUILAR.- Rúbrica- DOCTOR JOSÉ ARMANDO CARRASCO MALPICA.- Rúbrica.- LICENCIADO VÍCTOR MANUEL CORTÉS LEYVA.- Rúbrica.- Representantes Sección 51 del SNTE: PROFESOR JORGE LUÍS CORICHE AVILES.- Rúbrica.- DOCTOR AMANDO RENDÓN VÁRGAS.- Rúbrica.- Representantes Sindicato Servidores Públicos: CIUDADANO FRANCISCO CASTRO GUILLEN.- Rúbrica.- CIUDADANO ÁLVARO C. SÁNCHEZ SANTIAGO.- Rúbrica.- Comisarios: Representante Sección 51 del SNTE.- PROFESORA OLGA BAUTISTA SALAZAR.- Rúbrica.- Representante Sindicato Servidores Públicos.- CIUDADANO RAFAEL PATIÑO LEMUS.- Rúbrica.- Representante Gobierno del Estado.- LICENCIADO JORGE GALINDO OREA.- Rúbrica.- Secretario de Actas.- CONTADOR PÚBLICO JAIME I. ROSAS CARRILLO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Quedan sin efecto las disposiciones que se opongan al presente Reglamento.
