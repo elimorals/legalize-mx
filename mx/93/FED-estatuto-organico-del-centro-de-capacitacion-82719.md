@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-de-capacitacion-82719"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-09-02"
-last_updated: "2011-09-02"
+last_updated: "2014-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82719&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,7 +19,9 @@ issue_date: "2011-05-31"
 ---
 # ESTATUTO ORGANICO DEL CENTRO DE CAPACITACION CINEMATOGRAFICA, A.C
 
-ESTATUTO ORGANICO DEL CENTRO DE CAPACITACION CINEMATOGRAFICA, A.C.
+ESTATUTO ORGÁNICO DEL CENTRO DE CAPACITACIÓN CINEMATOGRÁFICA, A.C.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO Y TERCERO DEL ACUERDO PUBLICADO EN EL D.O.F. DE 2 DE OCTUBRE DE 2014, SE REFORMÓ EL ESTATUTO ORGÁNICO DEL CENTRO DE CAPACITACIÓN CINEMATOGRÁFICA, A.C., MEDIANTE LA MODIFICACIÓN DEL ARTÍCULO 5 Y LA ADICIÓN DE LOS ARTÍCULOS 18 BIS Y 18 TER CON EL FIN DE LLEVAR A CABO LA INCORPORACIÓN APROBADA POR EL CONSEJO DIRECTIVO EN SU TERCERA SESIÓN ORDINARIA DEL 2014, CELEBRADA EL 17 DE SEPTIEMBRE DEL 2014, MISMO QUE SE DIFUNDIRÁ EN EL PORTAL DE INTERNET www.elccc.com.mx Y EN SU PORTAL DE OBLIGACIONES.</small>
 
 TEXTO ORIGINAL.
 
@@ -213,7 +215,7 @@ Todos los acuerdos tomados en las sesiones de que se trate, serán enumerados y 
 
 ###### Artículo 13.
 
-El Director General de El Centro, además de las atribuciones señaladas en el Artículo 59 de la Ley Federal de las Entidades Paraestatales, y demás disposiciones legales aplicables, las (sic) siguientes:
+El Director General de El Centro, además de las atribuciones señaladas en el Artículo 59 de la Ley Federal de las Entidades Paraestatales, y demás disposiciones legales aplicables, las siguientes:
 
 I. Representar legalmente a El Centro, con todas las facultades de un apoderado general, sin más limitaciones que las establecidas en la Ley Federal de las Entidades Paraestatales, y estará facultado para otorgar poderes generales y especiales en términos de las disposiciones aplicables;
 
@@ -265,7 +267,7 @@ XXIV. Convocar a asamblea general de asociados, cuando se trate de uno o varios 
 
 XXV. Establecer en conjunto con el Subdirector Académico las sanciones que ameriten los alumnos para que lleven a cabo actividades de apoyo escolar que se determinen a favor de El Centro.
 
-XXVI. Autorizar con su firma las credenciales que acrediten a los alumnos como tales dentro de la comunidad estudiantil de El Centro; y (sic)
+XXVI. Autorizar con su firma las credenciales que acrediten a los alumnos como tales dentro de la comunidad estudiantil de El Centro; y
 
 XXVII. Cualquier otro asunto que por su trascendencia le encomiende opinar el Consejo Directivo.
 
@@ -796,3 +798,29 @@ Tercero.- Para la publicación de El Estatuto, se considerará lo dispuesto por 
 Atentamente
 
 México, Distrito Federal, a 31 de mayo de 2011.- El Director General del Centro de Capacitación Cinematográfica, Gösta Henner Hofmann Domengue.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO
+
+PRIMERO.- El acuerdo aprobado por el Consejo Directivo del Centro de Capacitación Cinematográfica, A.C. en su Tercera Sesión Ordinaria del 2014 es el siguiente:
+
+Acuerdo
+
+SO/III-14/08 De conformidad con lo dispuesto por el artículo 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, el Consejo Directivo aprueba incorporar a la Estructura Orgánica del Estatuto Orgánico del Centro de Capacitación Cinematográfica, A.C. El Departamento de Extensión Académica y el Departamento de Titulación y evaluación, debiendo observar en todo momento la legislación aplicable.
+
+SEGUNDO.- Se reformó el Estatuto Orgánico del Centro de Capacitación Cinematográfica, A.C., mediante la modificación del artículo 5 y la adición de los artículos 18 Bis y 18 Ter con el fin de llevar a cabo la incorporación aprobada por el Consejo Directivo en su Tercera Sesión Ordinaria del 2014, celebrada el 17 de septiembre del 2014.
+
+TERCERO.- El Estatuto Orgánico del Centro de Capacitación Cinematográfica así como sus modificaciones y adiciones forman parte de la normatividad vigente por lo que se difundirá en el portal de Internet www.elccc.com.mx y en su portal de obligaciones.
+
+CUARTO.- Para efectos de consulta física del Estatuto Orgánico del Centro de Capacitación Cinematográfica, A.C., la Subdirección de Administración y Finanzas lo pone a disposición en formato impreso en sus instalaciones ubicadas en Calzada de Tlalpan, No. 1670, Colonia Country Club, Código Postal 04220, Delegación Coyoacán, México, Distrito Federal.
+
+## TRANSITORIOS
+
+PRIMERO.- La subdirección de Administración y Finanzas, realizará las acciones necesarias para la difusión del Estatuto Orgánico del Centro de Capacitación Cinematográfica, A.C. a que hace referencia el presente Acuerdo, entre los servidores públicos del Centro de Capacitación Cinematográfica, A.C., a fin de garantizar su debida aplicación y cumplimiento.
+
+SEGUNDO.- Las modificaciones y adiciones realizadas al Estatuto Orgánico del Centro de capacitación Cinematográfica, A.C. surtirán efectos un día hábil después de su publicación en el Diario Oficial de la Federación.
