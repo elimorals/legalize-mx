@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-06-30"
+last_updated: "2014-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2014.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1791,7 +1791,9 @@ VIII. El Centro Estatal de Justicia Alternativa.
 
 IX. El Instituto de Defensoría Social.
 
-El Tribunal Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno, en sesiones públicas y tomará resoluciones por mayoría de votos.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+El Tribunal Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno y en Sala, en sesiones públicas y por excepción secretas en los casos en que así lo exijan la moral y el interés público y tomarán resoluciones por mayoría de votos.
 
 Se integra por cinco magistrados que durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
 
@@ -1800,6 +1802,18 @@ El Presidente del Tribunal Constitucional lo será también del Tribunal Superio
 El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial. De manera anual enviará al Congreso un informe escrito sobre el estado que guarda la impartición y administración de justicia en la entidad.
 
 Los magistrados del Tribunal Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+La competencia del Tribunal Constitucional en Pleno y en Sala, se regirán por lo que dispongan las leyes de conformidad con las bases que esta constitución establece.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+El Tribunal Constitucional en Pleno, se integrará por los cinco magistrados, con excepción de la fracción VIII del artículo 63 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+Para efectos de la atribución establecida en la fracción VIII del artículo 63 de esta Constitución, el Tribunal Constitucional se constituirá en Sala, la cual estará integrada por cuatro de sus magistrados, designando de entre ellos a su presidente y en caso de empate, tendrá voto de calidad. El Presidente del Tribunal Constitucional, no integrará Sala.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1957,7 +1971,7 @@ Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura no podr
 
 La remuneración de los jueces, magistrados del Poder Judicial y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 63.
 
@@ -1973,11 +1987,15 @@ IV. Conocer de oficio, los casos de contradicción de criterios que se susciten 
 
 V. Resolver los conflictos de competencia que se susciten entre salas regionales o entre juzgados de primera instancia.
 
-VI. Designar a los miembros del Consejo de la Judicatura que correspondan al Poder Judicial.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+VI. Designar al miembro del Consejo de la Judicatura y al magistrado del Tribunal del Trabajo Burocrático que correspondan al Poder Judicial.
 
 VII. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Procurador General de Justicia del Estado.
 
-VIII. Conocer y resolver las controversias en materia administrativa de conformidad con las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2014)</small>
+
+VIII. Conocer y resolver, en segunda instancia, del recurso de revisión en materia administrativa y demás casos que establezcan las leyes aplicables de la materia.
 
 IX. Las demás atribuciones que les confieran esta Constitución y la ley.
 
@@ -2139,7 +2157,7 @@ El Congreso del Estado designará de entre los vecinos que gocen de buena reputa
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VII. DEL CONTROL CONSTITUCIONAL Y ADMINISTRATIVO
+### CAPÍTULO VII. DEL CONTROL CONSTITUCIONAL
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -4402,3 +4420,19 @@ Artículo Tercero.- Los plazos relativos a la presentación de los Planes y Prog
 Sin perjuicio de la implementación de la presente reforma, las evaluaciones de nivel de cumplimiento de los primeros dos años de la actual administración, se realizarán en el año 2015.
 
 Artículo Cuarto.- Se realizarán las adecuaciones que sean necesarias a las normas secundarias en materia de Planeación para el Desarrollo, dentro de un plazo de 90 días naturales siguientes a la publicación del presente Decreto en el Periódico oficial.
+
+P.O. 2 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Dentro del plazo de treinta días contados a partir de la publicación del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales aplicables, a fin de adecuarlas a lo previsto en este Decreto.
+
+Artículo Cuarto.- A partir de que se realice la reforma al Código de Organización del Poder Judicial del Estado, los expedientes o asuntos administrativos en segunda instancia que se encuentren en trámite o bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa y que no estén totalmente concluidos, deberán remitirse al Tribunal Constitucional, a efecto de que éste continúe con su substanciación, en términos del artículo 63 fracción VIII de esta Constitución.
+
+Los asuntos serán tramitados y resueltos conforme a las normas aplicables vigentes al momento de su interposición y con las mismas competencias y funciones asignadas originalmente y las que resulten de acuerdo a este Decreto.
+
+Artículo Quinto.- A partir de que se realice la reforma al Código de Organización del Poder Judicial del Estado, los expedientes o asuntos administrativos en primera instancia, así como los de segunda instancia totalmente concluidos, que se encuentren en trámite o bajo cualquier concepto en el Tribunal de Justicia Electoral y Administrativa, se transferirán a las Salas Regionales Colegiadas Civiles o Mixtas, según corresponda conforme a sus jurisdicciones, para que continúen con su substanciación.
+
+Artículo Sexto.- La Secretaría de Hacienda proveerá los recursos presupuestales y financieros para el buen funcionamiento del Tribunal Constitucional.
