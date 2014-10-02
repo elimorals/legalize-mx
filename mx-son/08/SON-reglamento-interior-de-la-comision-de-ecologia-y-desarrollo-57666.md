@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-de-ecologia-y-desarrollo-576
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-26"
-last_updated: "2009-08-17"
+last_updated: "2014-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA COMISION DE ECOLOGIA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 2 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el lunes 26 de noviembre de 2007.
 
@@ -163,11 +165,11 @@ En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha prev
 
 El acta de cada sesión deberá ser aprobada y suscrita por el Presidente de la Junta Directiva y todos los integrantes presentes en la sesión, sujetándose al contenido del artículo 11 de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO III. DEL COMISIONADO EJECUTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
@@ -273,7 +275,7 @@ XLVII.- Coordinar las acciones necesarias para la implementación del Sistema In
 
 > <small>(REFORMADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
-XLVIII.- Llevar a cabo actos jurídicos, mecanismos o convenios con las dependencias y entidades de los Gobiernos Federal y Estatal, de las demás Entidades Federativas y de los Municipios del Estado, así como con los sectores social y privado y organizaciones nacionales e internacionales que sean necesarios para la realización conjunta y coordinada de acciones para mejorar y proteger al medio ambiente; y (sic)
+XLVIII.- Llevar a cabo actos jurídicos, mecanismos o convenios con las dependencias y entidades de los Gobiernos Federal y Estatal, de las demás Entidades Federativas y de los Municipios del Estado, así como con los sectores social y privado y organizaciones nacionales e internacionales que sean necesarios para la realización conjunta y coordinada de acciones para mejorar y proteger al medio ambiente; y
 
 > <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 2009)</small>
 
@@ -285,13 +287,13 @@ XL.- Las demás que le confieran las disposiciones legales aplicables o las que 
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GÉNERICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 15.
 
 Los Directores Generales de las Unidades Administrativas que constituyen la Comisión tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante el Comisionado Ejecutivo de la Comisión de su correcto funcionamiento; auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 Los Directores Generales de las unidades administrativas tendrán las siguientes atribuciones:
 
@@ -357,7 +359,7 @@ XX.- Proponer de acuerdo a los mecanismos y normas vigentes, las promociones, li
 
 XXI.- Proponer al Comisionado Ejecutivo la actualización de tarifas por concepto de los servicios que otorga la Comisión, así como los derechos, sanciones y multas, derivado del incumplimiento a la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Sonora, sus reglamentos y demás disposiciones;
 
-XXII.- Elaborar las estadísticas relativas a los asuntos, competencia de la unidad a su cargo y; (sic)
+XXII.- Elaborar las estadísticas relativas a los asuntos, competencia de la unidad a su cargo y;
 
 XXIII.- Acordar con la Coordinación Técnica, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro del ámbito de competencia, y mantenerlo informado con relación a los actos de autoridad que emita;
 
@@ -501,7 +503,7 @@ XLIII.- Notificar las diversas resoluciones administrativas derivadas de los pro
 
 XLIV.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro del ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 17.
 
@@ -569,7 +571,7 @@ XXVI.- Emitir dictamen de congruencia con las políticas y aptitud del suelo del
 
 XXVII.- Las demás que le confieran las disposiciones legales aplicables, y el Comisionado Ejecutivo de la Comisión en su ámbito de competencia y la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
@@ -649,7 +651,7 @@ XXXI.- Solicitar al Director General de Gestión Ambiental la revocación, modif
 
 XXXII.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
@@ -749,7 +751,7 @@ XIV.- Acordar con la Comisión Ejecutiva y la Dirección de Administración y Fi
 
 XV.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
@@ -829,7 +831,7 @@ XXVI.- Proponer y conducir los programas de educación ambiental, que de las dis
 
 XXVII.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
@@ -883,7 +885,7 @@ XVII.- Asegurar que el establecimiento y desarrollo de exhibición de especies, 
 
 XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
@@ -959,7 +961,7 @@ XXIV.- Evaluar y proponer en forma periódica la actualización de precios y tar
 
 XXV.- Las demás que le confieran las disposiciones legales aplicables o le señale el Comisionado Ejecutivo dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
@@ -1047,7 +1049,7 @@ XXVI.- Las demás que le confieran las disposiciones legales aplicables y el Com
 
 ### CAPÍTULO VI. DEL CONTROL, EVALUACIÓN Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 24.
 
@@ -1177,10 +1179,20 @@ Gestión
 
 Ambiental
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 17 DE AGOSTO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado de Sonora el 26 de Noviembre del 2007 y el Acuerdo que reforma, deroga y adiciona diversas disposiciones del Reglamento Interior de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, publicado en el boletín oficial el 17 de Agosto de 2009
