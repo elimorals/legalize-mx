@@ -4,7 +4,7 @@ identifier: "COA-reglamento-del-servicio-policial-de-carrera-del-estado-de-16871
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-08"
-last_updated: "2007-05-29"
+last_updated: "2014-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 8 de octubre de 1999.
 
@@ -491,10 +493,26 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIÉN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 29 DE MAYO DE 2007.
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente reglamento, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento del Servicio Policial de Carrera del Estado de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado, el 08 de Octubre de 1999.
+
+TERCERO. El Servicio Profesional de Carrera, irá migrando gradualmente así como los órganos para su operación, a que se refiere este Reglamento de conformidad con las disposiciones presupuestales y el PRP.
+
+CUARTO. Hasta en tanto no se constituya el Órgano de Control Interno de la Comisión Estatal de Seguridad, la Dirección General Jurídica será la encargada de atender las atribuciones y asuntos que se le establecen en el presente reglamento.
+
+QUINTO. Hasta en tanto no se constituya el Centro de Profesionalización, Acreditación, Certificación y Carrera de la Comisión Estatal de Seguridad, la Dirección General de los Institutos Superiores de Estudios de Seguridad Pública del Estado será la encargada de atender las atribuciones y asuntos que se le establecen en el presente reglamento.
+
+SEXTO. Los órganos a que se refiere el presente reglamento, se integrarán en un término no mayor de 365 días a la publicación del mismo.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente reglamento.
