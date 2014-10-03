@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2013-12-20"
+last_updated: "2014-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,11 +771,11 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 70.
 
-Serán Comisiones Permanentes:
+Serán comisiones permanentes las siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -824,6 +824,10 @@ XI. Turismo.
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 XII. De la Familia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2014)</small>
+
+XIII. Por los Derechos de las Personas con Discapacidad, Adultos Mayores y Niñez
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1143,6 +1147,28 @@ V.- Formar parte (sic) la Junta de Gobierno del Sistema Municipal para el Desarr
 
 VI.- En general aquellas que el Cabildo le encomiende.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2014)</small>
+
+COMISIÓN POR LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, ADULTOS MAYORES Y NIÑEZ.
+
+ARTICULO 82 SEPTEM.- La Comisión de los Derechos de las Personas con Discapacidad, Adultos Mayores y Niñez tendrá las siguientes atribuciones:
+
+I. Dictaminar respecto a los asuntos relativos a proyectos de reglamentos, disposiciones normativas de observancia general referente a personas con discapacidad, personas adultas mayores y niñez.
+
+II. Asegurar y promover el pleno ejercicio y goce de todos los derechos humanos y las garantías fundamentales de las personas con discapacidad, personas adultas mayores.
+
+III. Impulsar programas en coordinación con unidades administrativas municipales para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de las personas con discapacidad, tercera edad y niñez, en el municipio.
+
+IV. Proporcionar al Ayuntamiento (sic) establecer una partida asignada en su presupuesto de egresos anual, en la que se destinen recursos que garanticen la contratación de un mínimo del 4% de personas con discapacidad del total del personal que elabore (sic) en la administración municipal o paramunicipal.
+
+V. Proponer al Cabildo en su proyecto de Ley de ingresos, beneficios adicionales para quienes en virtud de la contratación de personas con discapacidad y tercera edad realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo.
+
+VI. Proponer al Ayuntamiento el promover políticas públicas cuyo objetivo sea la equiparación de oportunidades para el desarrollo integral de las personas con discapacidad, tercera edad y niñez, además del cabal cumplimiento del Reglamento de la materia.
+
+VII. Ser integrante del consejo municipal por los derechos de personas con discapacidad.
+
+VIII. Y en general aquellas que el Cabildo le encomiende.
+
 REMISION A COMISIONES
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
@@ -1330,3 +1356,7 @@ TERCERO.- La presente Reforma, entrará en vigor al día siguiente de su publica
 P.O. 20 DE DICIEMBRE DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2014.
+
+ÚNICO.- La presente Reforma y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
