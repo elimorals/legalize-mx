@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2014-01-24"
+last_updated: "2014-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -343,7 +343,7 @@ I.- Las ausencias temporales del Presidente Municipal serán suplidas por un Reg
 
 (REFORMADA, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
-II.- Las ausencias temporales del Síndico Procurador y del Síndico Social, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y (sic)
+II.- Las ausencias temporales del Síndico Procurador y del Síndico Social, no serán suplidas. En el caso de ausencias definitivas las cubrirá su suplente; y
 
 III.- Las ausencias temporales de los Regidores no se suplirán, a menos que sea necesario para garantizar el quórum en las sesiones de cabildo. En ese caso y en las ausencias definitivas, será llamado su suplente para cubrirlas;
 
@@ -671,7 +671,7 @@ DE LA SUSPENSION.
 
 Una vez iniciada la sesión no puede suspenderse, salvo en los siguientes casos:
 
-I.- Cuando se retire alguno o algunos de los miembros del Ayuntamiento, de manera que se disuelva el quórum legal para sesionar; y (sic)
+I.- Cuando se retire alguno o algunos de los miembros del Ayuntamiento, de manera que se disuelva el quórum legal para sesionar; y
 
 II.- Cuando el Presidente Municipal estime imposible continuar con el desarrollo de la sesión por alteración del orden o causas de fuerza mayor, tales como cualquier siniestro o se encuentre en peligro la integridad física de los integrantes del Ayuntamiento.
 
@@ -1293,9 +1293,9 @@ Son comisiones permanentes las siguientes:
 
 I.- Gobernación y Legislación;
 
-II.- Hacienda y patrimonio Municipal;
+II.- Hacienda y Patrimonio Municipal;
 
-III.- Administración Pública y fortalecimiento Municipal;
+III.- Administración Pública y Fortalecimiento Municipal;
 
 IV.- Equidad y Género;
 
@@ -1311,7 +1311,7 @@ VIII.- Planeación y Desarrollo Económico;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
-IX.- Salud y Asistencia Social
+IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
@@ -1335,15 +1335,15 @@ XV.- Pesca y Acuacultura Sustentables.
 
 (ADICIONADA, P.O. 2 DE JULIO DE 2010) (ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE OCTUBRE DE 2010)
 
-XVI.- Comisión del agua
+XVI.- Comisión del Agua.
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-XVII.- Comisión de Juventud
+XVII.- Comisión de Juventud.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
 
-XVIII.- Comisión de Deporte
+XVIII.- Comisión del Deporte.
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
 
@@ -1356,6 +1356,10 @@ XX.- Comisión de Transparencia y Rendición de Cuentas.
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 XXI.- Comisión de la Familia.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2014)</small>
+
+XXII.- Protección Civil.
 
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
@@ -1477,17 +1481,21 @@ IV.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con la nome
 
 V.- Dictaminar sobre los cambios de uso de suelo y autorización de fraccionamientos.
 
-COMISION DE SEGURIDAD, TRANSITO Y TRANSPORTE.
+COMISIÓN DE SEGURIDAD, TRANSITO Y TRANSPORTE.
 
 ###### ARTÍCULO 120.
 
 Atribuciones;
 
-I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de seguridad, prevención de la delincuencia, tránsito, transporte público, bomberos y protección civil.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2014)</small>
 
-II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar el servicio de seguridad pública y protección civil y para regular el funcionamiento de los sistemas de tránsito y transporte; y
+I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de seguridad, prevención de la delincuencia, tránsito, transporte público y bomberos.
 
-III.- Dictaminar respecto de los proyectos de convenios por los que el Ayuntamiento deba participar institucionalmente con otros ordenes de gobierno en asuntos de seguridad pública.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2014)</small>
+
+II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar el servicio de seguridad pública para regular el funcionamiento de los sistemas de tránsito y transporte; y
+
+III.- Dictaminar respecto de los proyectos de convenios por los que el Ayuntamiento deba participar institucionalmente con otros órdenes de gobierno en asuntos de seguridad pública.
 
 COMISION DE PLANEACION Y DESARROLLO ECONOMICO.
 
@@ -1497,7 +1505,7 @@ Atribuciones:
 
 I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley y disposiciones normativas de observancia general, en materia económica y de planeación a corto, mediano y largo plazo para el desarrollo integral del Municipio.
 
-II.- Proponer al Ayuntamiento los mecanismos e instrumentos de investigación, planeación, y participación social, que resulten necesarios para promover el equilibrio en las políticas de desarrollo del Municipio, que garanticen la continuidad de los procesos de planeación del desarrollo municipal; y (sic)
+II.- Proponer al Ayuntamiento los mecanismos e instrumentos de investigación, planeación, y participación social, que resulten necesarios para promover el equilibrio en las políticas de desarrollo del Municipio, que garanticen la continuidad de los procesos de planeación del desarrollo municipal; y
 
 III.- Vigilar la elaboración y actualización del Plan Municipal de Desarrollo y los programas de la Administración Pública Municipal que se derivan del mismo, y llevar a cabo acciones de evaluación y seguimiento respecto de su cumplimiento, de conformidad con los procesos establecidos en la Ley y el Reglamento de la materia;
 
@@ -1751,6 +1759,24 @@ V.- Supervisar el correcto funcionamiento de los servicios que preste (sic) DIF 
 
 VI.- En general, aquellas que el Ayuntamiento le encomiende.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 127 DECIES.- Atribuciones:
+
+I.- Analizar y dictaminar de manera individual o conjunta los proyectos de Reglamentos y disposiciones normativas de observancia general, así como cualquier asunto que requiera de la autorización del Ayuntamiento relacionada con la materia de Protección Civil.
+
+II.- Vigilar el correcto funcionamiento del Sistema Municipal de Protección Civil del Municipio de Ensenada, B.C., antes, durante y después de una emergencia o accidente.
+
+III.- Colaborar conjuntamente con el Presidente Municipal y el área de comunicación social, para brindar información a la población de los conocimientos necesarios en materia de Protección Civil, tales como técnicas y maniobras que se realizan en una emergencia para reducir o reparar el daño ocasionado por un siniestro, (Sanitaria, Extinción de Incendio, Programas de prevención, acción y atención).
+
+IV.- Inspeccionar la aplicación de los estudios de riesgos conforme a la normatividad en la materia, preferentemente orientados a edificios, locales y establecimientos públicos de alta concurrencia, emitiendo las recomendaciones que considere necesarias.
+
+V.- Opinar y dictaminar en su caso, en las campañas constantes de información y divulgación a la población afectada por los distintos riesgos, cumpliendo con las directrices dadas por el Ayuntamiento.
+
+VI.- Vigilar el funcionamiento de los servicios públicos y los sistemas estratégicos en caso de riesgo, catástrofe o accidente, en coordinación con las dependencias de los tres órdenes de gobierno.
+
+VII.- Las demás atribuciones afines a estas, que establezcan las leyes y reglamentos de la materia.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -1996,3 +2022,9 @@ ACUERDO POR EL QUE APRUEBA EL H. XX AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, L
 P.O. 24 DE ENERO DE 2014.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 3 DE OCTUBRE DE 2014.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial del Gobierno del Estado de Baja California, el Presidente Municipal de Ensenada, Baja California, en la siguiente Sesión de Cabildo deberá someter a la aprobación del Ayuntamiento la propuesta para la designación del Regidor Coordinador y Regidores Vocales que integrarán la Comisión de Protección Civil, en los términos del Reglamento Interior para el Ayuntamiento de Ensenada, B.C.
