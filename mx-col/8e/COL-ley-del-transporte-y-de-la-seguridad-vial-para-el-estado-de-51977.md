@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2014-09-06"
+last_updated: "2014-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -291,9 +291,9 @@ VIII. Sancionar las infracciones en que incurran los concesionarios, permisionar
 
 IX. Normar el control del parque vehicular para la substitución y renovación de unidades, con la finalidad de reducir el impacto ambiental;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2014)</small>
 
-X. Autorizar y expedir, previo pago de derechos, las placas y tarjetas de circulación provisionales por 30 días improrrogables, de acuerdo a lo que señale esta Ley y su Reglamento;
+X. Autorizar y expedir, previo pago de derechos, las placas y tarjetas de circulación provisionales por 90 días, de acuerdo a lo que señale esta Ley y su Reglamento;
 
 XI. Vigilar la aplicación de sanciones, detención, retiro y depósito vehicular del transporte, por violación de las disposiciones de esta Ley y su Reglamento, en que incurran los concesionarios, permisionarios y operarios del servicio de transporte;
 
@@ -2646,3 +2646,9 @@ DECRETO NO. 345 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN X DEL ARTÍCULO 10 Y
 P.O. 6 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los automóviles que cuenten con permisos provisionales, cuya vigencia concluya en el mes de septiembre de 2014, la misma se entenderá prorrogada por 15 días naturales adicionales para efectos de regularizar la situación vehicular.
