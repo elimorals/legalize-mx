@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2014-08-07"
+last_updated: "2014-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 4 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -1495,7 +1497,7 @@ OCTAVO. Los órganos del Poder Judicial encargados de aplicar la Ley de Justicia
 
 NOVENO. Los municipios que hubieren recibido expedientes relativos a hechos delictivos cometidos previo a la entrada en vigor de la Ley de Justicia Integral para Adolescentes del estado de Jalisco, deberán remitirlos de forma inmediata a los órganos del Poder Judicial encargados de aplicar la Ley de Justicia Integral para Adolescentes del estado de Jalisco, para su conocimiento y resolución en los términos de lo dispuesto por el articulo octavo transitorio de la presente ley.
 
-En los mismos términos se procederá respecto de los procedimientos que se lleven actualmente ante los consejos paternales, los cuales deberán suspenderlos y remitir las actuaciones de forma inmediata a los órganos del Poder Judicial encargados de aplicar la Ley de de Justicia Integral para Adolescentes del estado de Jalisco.
+En los mismos términos se procederá respecto de los procedimientos que se lleven actualmente ante los consejos paternales, los cuales deberán suspenderlos y remitir las actuaciones de forma inmediata a los órganos del Poder Judicial encargados de aplicar la Ley de de (sic) Justicia Integral para Adolescentes del estado de Jalisco.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1588,3 +1590,13 @@ La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta d
 P.O. 7 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Justicia Integral para Adolescentes del Estado de Jalisco, de conformidad con el artículo anterior del presente decreto.
+
+TERCERO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto que se encuentren en trámite, continuarán su sustanciación, de conformidad con la legislación aplicable al momento de iniciados los mismos.
+
+CUARTO. El titular del Poder Ejecutivo emitirá el reglamento interno en materia de ejecución de sanciones privativas de libertad en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente decreto, de conformidad con el artículo primero transitorio.
