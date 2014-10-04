@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-coordinacion-general-de-seguridad-publica-3989
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-29"
-last_updated: "2004-05-29"
+last_updated: "2014-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "OAX"
 ---
 # REGLAMENTO DE LA COORDINACION GENERAL DE SEGURIDAD PUBLICA, TRANSITO, TRANSPORTE Y PROTECCION CIVIL DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-REGLAMENTO DE LA COORDINACION GENERAL DE SEGURIDAD PUBLICA, TRANSITO, TRANSPORTE Y PROTECCION CIVIL DEL MUNICIPIO DE OAXACA DE JUAREZ
+REGLAMENTO DE LA COORDINACIÓN GENERAL DE SEGURIDAD PÚBLICA, TRÁNSITO, TRANSPORTE Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 29 de mayo de 2004.
 
@@ -36,179 +36,53 @@ REGLAMENTO DE LA COORDINACIÓN GENERAL DE SEGURIDAD PÚBLICA, TRÁNSITO, TRANSPO
 
 ###### ARTICULO 1.
 
-El presente Reglamento es de orden público, interés general y observancia obligatoria para la Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil y sus órganos auxiliares, cuyo objeto es regular las bases de coordinación de las dependencias que conforman el Sistema Municipal de Seguridad Pública, como responsables de la prestación de la Seguridad Pública, su organización y funcionamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 2.
 
-La aplicación de este reglamento corresponderá, en sus respectivos ámbitos de competencia a las Autoridades siguientes:
-
-I. Al H. Ayuntamiento;
-
-II. Al Presidente Municipal Constitucional;
-
-III. Al Coordinador General de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-IV. Al Director General de Seguridad Pública Municipal;
-
-V. Al Director General de Tránsito y Transporte;
-
-VI. Al Director General de Planeación Vial y Seguridad;
-
-VII. Al Director de Administración; y
-
-VIII. Al Director Jurídico.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 3.
 
-Para los efectos de este Reglamento se entenderá por:
-
-I. Cabildo: La reunión de los integrantes del H. Ayuntamiento del Municipio de Oaxaca;
-
-II. Presidente Municipal: El Presidente Municipal Constitucional;
-
-III. Coordinador: El Coordinador General de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-IV. Director General: El Director General de Seguridad Pública, de Tránsito y Transporte o el de Planeación Vial y Seguridad; y
-
-V. Director: El Director de Administración o el Director Jurídico
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN GENERAL
 
 ###### ARTICULO 4.
 
-La Coordinación General de Seguridad Publica, Tránsito, Transporte y Protección Civil del Municipio de Oaxaca de Juárez creada por acuerdo de cabildo de fecha dos de enero del dos mil dos, es una dependencia de la administración pública Municipal, a quien le corresponde:
-
-I. Garantizar y mantener en el territorio del Municipio de Oaxaca de Juárez, la seguridad, el orden público; otorgar la protección necesaria a la población en casos de siniestros o accidentes; para asegurar a los habitantes el pleno goce de su integridad física y de sus bienes a través de la Dirección General de Seguridad Publica;
-
-II. Garantizar los servicios en materia de tránsito vehicular, peatonal, mejora de las vialidades y regular el transporte público a través de la Dirección General de Tránsito y Transporte;
-
-III. Garantizar la atención con motivo de las contingencias naturales o provocadas por la mano del hombre, a través de la Dirección General de Planeación Vial y Seguridad;
-
-IV. Coordinar las acciones entre las dependencias que la conforman para formular el Programa de Seguridad Pública del Municipio, el cual deberá guardar congruencia con el Sistema Nacional de Seguridad Pública, previstas por el artículo 9° de la Ley General que Establece las Bases de Coordinación de dicho Sistema implementado por el Ejecutivo Federal; que comprende las medidas, objetivos y metas para el mantenimiento del orden público, la paz social y en general, la salvaguarda de las personas, de los bienes, así como el auxilio a la población en los casos de siniestros y desastres en coordinación con las Autoridades Federales y Estatales, y
-
-V. Cuidar y velar la correcta aplicación de las normas legales en materia de Seguridad Publica, Tránsito, Transporte y Protección Civil
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 5.
 
-La Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil estará a cargo de un Coordinador General quien será designado por el Presidente Municipal en términos del artículo 45 fracción XLI de la Ley Municipal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 6.
 
-Para desempeñar el cargo de Coordinador General de Seguridad Publica Tránsito, Transporte y Protección Civil deberán reunirse los siguientes requisitos
-
-I. Tener como mínimo 28 años cumplidos el día del nombramiento;
-
-II. Ser Ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos;
-
-III. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del Artículo 8° de las Ordenanzas Municipales de Oaxaca de Juárez;
-
-IV. Ser de notoria buena conducta y no haber sido condenado por delito intencional;
-
-V. Tener capacidad y experiencia probada en materia de Seguridad Publica; y
-
-VI. No ser cónyuge o pariente consanguíneo en línea recta, sin limitación de grado o por afinidad dentro del segundo grado del Presidente Municipal, Síndicos o Regidores.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 7.
 
-La Coordinación General de Seguridad Publica, Tránsito, Transporte y Protección Civil, esta integrada por las dependencias y unidades administrativas siguientes
-
-1. La Dirección General de Planeación Vial y seguridad.
-
-2. La Dirección General de Seguridad Pública.
-
-3. La Dirección General de Tránsito y Transporte.
-
-4. La Dirección de Administración y
-
-5. La Dirección Jurídica.
-
-Quienes tendrán a su cargo el estudio, planeación, coordinación y ejercicio de las funciones y despacho de los asuntos que se consignan en el presente Reglamento y el particular de las Direcciones Generales de Seguridad Publica y de Tránsito y Transporte.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 8.
 
-La Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil del Municipio de Oaxaca de Juárez para el cumplimiento de sus objetivos tendrá el personal administrativo acorde a sus necesidades y posibilidades presupuestales del H. Ayuntamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 9.
 
-Se considera como miembro de la Coordinación General y dependencias auxiliares, a quien ostente un nombramiento o condición jurídica equivalente, otorgada por el H. Ayuntamiento Constitucional de esta Ciudad, quienes serán considerados como trabajadores de confianza.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES
 
 ###### ARTICULO 10.
 
-Son Autoridades Municipales en materia de Seguridad Publica, Tránsito, Transporte y Protección Civil en sus respectivos ámbitos de competencia, las siguientes:
-
-1. El H. Ayuntamiento
-
-2. El Presidente Municipal Constitucional
-
-3. El Regidor de Seguridad Pública, Tránsito, Transporte y Protección Civil
-
-4. El Coordinador de Seguridad Pública, Tránsito, Transporte y Protección Civil
-
-5. El Director General de Seguridad Pública
-
-6. El Director General de Tránsito y Transporte
-
-7. El Director de Planeación Vial y Seguridad
-
-8. Los Mandos Operativos de la Dirección General de Seguridad Pública
-
-9. Los Mandos Operativos de la Dirección General de Tránsito y Transporte
-
-10. Los Mandos Operativos de la Dirección General de Planeación Vial y Seguridad, y (sic)
-
-11. El Director Jurídico de Seguridad Pública, Tránsito, Transpone y Protección Civil
-
-12. Los Jueces Calificadores adscritos a la Dirección General de Seguridad Pública y de Tránsito y Transporte respectivamente
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO CUARTO. FACULTADES Y OBLIGACIONES DE LA COORDINACIÓN GENERAL
 
 ###### ARTICULO 11.
 
-Para el despacho de los asuntos de la Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil, el Titular tiene las facultades y obligaciones siguientes:
-
-I. Ejercer el mando de la fuerza pública dentro de Municipio sin perjuicio de lo que establece la fracción VII del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Conducir la política del Municipio en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil con estricto apego a las leyes y reglamentos aplicables;
-
-III. Dictar medidas necesarias para la observancia y cumplimiento de las disposiciones legales en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-IV. Establecer y ejercer programas de supervisión a las Direcciones Generales que conforman el Sistema de Seguridad Pública Municipal;
-
-V. Capacitar a los integrantes de los Cuerpos de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-VI. Diseñar y proponer programas en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil ante las autoridades Estatales, y cuando proceda velar por el cumplimiento de los mismos;
-
-VII. Supervisar las acciones que las Direcciones Generales a su cargo implementen en materia de prevención del delito, mejoras viales, y preventivos en Protección Civil;
-
-VIII. Coordinar, planear y supervisar las acciones de auxilio en situaciones de contingencias naturales o provocadas a través de los Cuerpos de Seguridad Pública Municipal haciendo uso de los recursos disponibles para ello;
-
-IX. Participar en el diseño del Programa Estatal de Seguridad Pública en representación del H. Ayuntamiento; supervisar su cumplimiento y establecer los mecanismos aplicación, control, evaluación y actualización;
-
-X. Vigilar el estricto cumplimiento a las disposiciones relacionadas con el registro, control y actualización del personal de los Cuerpos de Seguridad Municipal ante el Registro Estatal del Personal de Seguridad Pública de la Dirección General de Seguridad Pública del Estado;
-
-XI. Constituir y estructurar, según las necesidades del servicio, Cuerpos de Seguridad Auxiliar Municipal a fin de ejercer funciones de Seguridad Pública especializada;
-
-XII. Autorizar, controlar y vigilar el funcionamiento de los servicios de seguridad privada y aplicar en su caso las sanciones correspondientes, previo trámite de los procedimientos administrativos correspondientes;
-
-XIII. Establecer la normatividad y vigilar el uso de los sistemas de comunicación de que disponen las Corporaciones de Seguridad Pública Municipal con el fin de procurar su buen uso y optimizar los recursos;
-
-XIV. Formular los programas y necesidades presupuéstales de las Corporaciones de Seguridad Pública Municipal, así como ejercer los mismos con apego a las normas generalmente aplicables en la administración pública;
-
-XV. Ejercer el presupuesto autorizado para los Cuerpos de Seguridad Municipal, así como celebrar los actos civiles o mercantiles que se requieran para la ejecución del mismo;
-
-XVI. Establecer los planes, programas, proyectos y acciones municipales en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil; fijando los objetivos y metas que sirvan de apoyo a los programas estatales y regionales en la materia;
-
-XVII. Supervisar el correcto desempeño de las funciones de los Cuerpos de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-XVIII. Hacer cumplir los Bandos de Policía y Buen Gobierno, circulares, reglamentos y demás disposiciones legales y administrativas de observancia general en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil expedidas por el H. Ayuntamiento;
-
-XIX. Promover la participación de los sectores públicos, sociales y privados del Municipio en la búsqueda de soluciones a los problemas de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-XX. Proponer al Presidente Municipal el nombramiento de los Directores Generales de Seguridad Pública, de Tránsito y Transporte y de Planeación Vial y Seguridad, por lo que se refiere a los titulares de la Dirección de Administración y de la Dirección Jurídica le corresponde designarlos; y
-
-XXI. Ejercer las facultades que le confieran los demás ordenamientos aplicables en materia de seguridad pública equiparables a su investidura.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO QUINTO. DEL SISTEMA MUNICIPAL DE SEGURIDAD PUBLICA
 
@@ -362,7 +236,7 @@ II. Tener como mínimo 28 años de edad;
 
 III. Ser de reconocida capacidad, probidad y contar con experiencia en materia de Seguridad Pública; y
 
-IV. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del Artículo 8° de las Ordenanzas Municipales de Oaxaca de Juárez; (sic)
+IV. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del Artículo 8° de las Ordenanzas Municipales de Oaxaca de Juárez;
 
 ### CAPÍTULO OCTAVO. DEL SISTEMA DE INFORMACIÓN MUNICIPAL SOBRE SEGURIDAD PÚBLICA
 
@@ -616,487 +490,197 @@ IV. Cancelación del registro y suspensión definitiva de actividades, con publi
 
 ###### ARTICULO 61.
 
-La Dirección General de Planeación Vial y Seguridad es un órgano de la Administración Pública Municipal, integrante y dependiente de la Coordinación General de Seguridad Publica, Tránsito, Transporte y Protección Civil, cuyo objeto es diseñar, planear, estudiar y proponer los aspectos técnicos para la mejora en la prestación de las funciones de seguridad pública, tránsito, transporte y protección civil, así como diseñar y coordinar las acciones de apoyo y auxilio a la Ciudadanía, prevención de riesgos y atención de contingencias naturales o provocadas.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 62.
 
-La Seguridad Pública también en su ámbito contempla el tránsito peatonal y de vehículos, las vialidades, regular el transporte, la prevención y atención de siniestros naturales y provocados, cuyos aspectos técnicos de estudio y análisis serán de la competencia de la Dirección General de Planeación Vial y Seguridad para salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz pública.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 63.
 
-La Dirección General de Planeación Vial y Seguridad constituye una entidad técnica-operativa y será dotada del personal y equipo acorde a sus necesidades y posibilidades presupuéstales del H. Ayuntamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 64.
 
-La Dirección General de Planeación Vial y Seguridad es el órgano municipal responsable de cumplir y hacer cumplir las normas y lineamientos en materia de protección civil de carácter Municipal, Estatal y Federal, así como destinada para atender, implementar y coordinar las acciones necesarias, en situaciones de emergencia por desastres naturales o provocados.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 65.
 
-Para el alcance de sus objetivos en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil, el titular de la Dirección General de Planeación se podrá auxiliar de las siguientes áreas:
-
-I. La Unidad de Capacitación y Desarrollo;
-
-II. El Departamento de Educación Vial;
-
-III. El Departamento de Desarrollo Integral;
-
-IV. La Unidad de Protección Civil;
-
-V. Red de Información y Auxilio Ciudadano;
-
-VI. El Departamento de Capacitación y Difusión;
-
-VII. El Departamento de Prevención;
-
-VIII. El Departamento de Difusión y Logística;
-
-IX. El Departamento de Estudios y Proyectos;
-
-X. El Departamento de Servicios Periciales;
-
-XI. El Departamento de Señalización;
-
-XII. El Departamento de Semaforización; y
-
-XIII. El Departamento de Informática.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 66.
 
-La Dirección General de Planeación Vial y Seguridad Pública estará a cargo de un Director General quien será designado por el Presidente Municipal Constitucional en los términos del artículo 46 fracción XLI de la Ley Municipal a propuesta del Coordinador General.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 67.
 
-Para Desempeñar el cargo de Director General de Planeación Vial y Seguridad se deberá reunir los siguientes requisitos:
-
-I. Tener como mínimo 28 años cumplidos el día del nombramiento;
-
-II. Ser Ciudadano Mexicano por nacimiento en pleno ejercicio de sus derechos;
-
-III. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del artículo 8º de las Ordenanzas Municipales de Oaxaca de Juárez;
-
-IV. Ser de notoria buena conducta y no haber sido condenado por delito intencional;
-
-V. Tener capacidad y experiencia probada en materia de seguridad publica;
-
-VI. No ser cónyuge o pariente consanguíneo en línea recta, sin limitación de grado o por afinidad dentro del segundo grado del Presidente Municipal, Síndicos o Regidores; (sic)
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 68.
 
-El personal de la Dirección de Planeación Vial y Seguridad tiene la obligación de portar los uniformes y equipo reglamentarios que se les asigne en todos los actos y situaciones de servicio a excepción de los casos que prevé la ley. Queda estrictamente prohibido portarlos o usarlos fuera del servicio
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 69.
 
-Compete a la Dirección General de Planeación Vial y Seguridad:
-
-I. Ejercer la dirección, control y vigilancia del personal que la conformar, para que estos se conduzcan con estricto apego al orden jurídico y respeto a los derechos humanos;
-
-II. La investigación, análisis y proyecto de los aspectos técnicos en materia de seguridad pública, tránsito peatonal y vehicular, vialidad, transporte y protección civil;
-
-III. En coordinación con la Dirección General de Seguridad Pública diseñar programas para prevenir la comisión de delitos y de infracciones a los reglamentos gubernativos y de policía;
-
-IV. En coordinación con la Dirección General de Seguridad Pública diseñar los programas de capacitación a los elementos de dicha Corporación;
-
-V. En coordinación con la Dirección General de Seguridad Pública diseñar la convocatoria para el reclutamiento e ingreso de personal;
-
-VI. En Coordinación con la Dirección General de Tránsito y Transporte diseñar los programas en materia de tránsito de vehículos y peatonal, de mejoras a la vialidad y para regular el transporte público;
-
-VII. En Coordinación con la Dirección General de Tránsito y Transporte diseñar los programas de capacitación para el personal de dicha dirección;
-
-VIII. La investigación, estudio y análisis de los acontecimientos de mayor incidencia en materia de protección civil, desastres naturales y provocados por el hombre, diseñar, difundir, coordinar y ejecutar los planes preventivos correspondientes;
-
-IX. Dictar las medidas necesarias para la observancia, aplicación y cumplimiento del Reglamento del Sistema de Protección Civil Municipal y demás ordenamientos aplicables a la materia;
-
-X. Implementar y coordinar las acciones necesarias en casos de emergencias por desastres naturales o provocados en el ámbito municipal, así como con las autoridades Estatales y Federales;
-
-XI. Diseñar y difundir los programas de prevención en casos de contingencias naturales o provocadas;
-
-XII. Ser el responsable de la operación de los servicios auxiliares en materia de Tránsito, como son los servicios periciales, señalización y semaforización;
-
-XIII. Promover la difusión los programas de prevención y participación de los diversos sectores sociales en casos de continencias (sic) naturales o provocadas;
-
-XIV. Evaluar y dictaminar sobre condiciones de riesgo y vulnerabilidad en la jurisdicción municipal;
-
-XV. Formular el programa de necesidades para la mejora en la señalización y semaforización de la vialidad en la jurisdicción;
-
-XVI. Diseñar el programa general de mantenimiento y verificación a la señalización y semaforización vial de la jurisdicción;
-
-XVII. Proponer proyectos geométricos para la mejora de la vialidad;
-
-XVIII. Diseñar y coordinar los programas en materia de educación vial;
-
-XIX. Analizar, proyectar, regular y asignar lugares para estacionamiento en la vía pública, tanto para el transporte público, privado y comercial;
-
-XX. Establecer y regular los horarios para el uso de la vía pública por toda clase de vehículos, principalmente en el Centro Histórico de la Ciudad;
-
-XXI. Formular dictamen en materia de Tránsito, Transporte y Seguridad en el caso de construcción de nuevos giros comerciales, en construcciones existentes y apertura de los mismos;
-
-XXII. Proponer al Coordinador General a los titulares de las áreas que conforman la Dirección General a su cargo;
-
-XXIII. Proponer reformas, adiciones o actualizaciones a los Ordenamientos Municipales en materia de Protección Civil;
-
-XXIV. Aplicar los correctivos disciplinarios y sanciones al personal integrante de la dirección a su cargo en los términos de este reglamento, a excepción de los peritos quienes como auxiliares de Tránsito quedan sujetos a las disposiciones en dicha materia;
-
-XXV. Operar la Red de Información y auxilio ciudadano;
-
-XXVI. Auxiliar dentro del marco legal al Ministerio Público, a las Autoridades Judiciales y Administrativas cuando sea requerido para ello; y
-
-XXVII. Las demás que señalen las leyes y reglamentos en el ámbito Municipal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA DIRECCIÓN DE ADMINISTRACION
 
 ###### ARTICULO 70.
 
-La Dirección de Administración de Seguridad Pública, Tránsito, Transporte y Protección Civil es una Unidad Administrativa dependiente de la Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil, cuyo objeto es velar por la correcta administración de los recursos humanos, materiales y financieros de la Coordinación con estricto apego a las normas aplicables a la Administración Pública Municipal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 71.
 
-La Dirección de Administración de Seguridad Pública, Tránsito, Transporte y Protección Civil constituye una entidad administrativa y será dotada del personal y equipo acorde a sus necesidades y posibilidades presupuestales del H. Ayuntamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 72.
 
-La Dirección de Administración es una dependencia auxiliar de la Coordinación General responsable de cumplir y hacer cumplir las normas y lineamientos aplicables en materia de recursos humanos, materiales y financieros que establezca el H. Ayuntamiento, destinados para las diversas áreas que conforman el Sistema de Seguridad Pública Municipal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 73.
 
-Para el alcance de sus objetivos y atención de los asuntos de su competencia, el titular de la dirección de Administración se podrá auxiliar de las siguientes áreas:
-
-I. Un Jefe de Unidad;
-
-II. Un Jefe del Departamento Presupuestal;
-
-III. Un Jefe del Departamento de Mantenimiento;
-
-IV. Un Jefe del Departamento de Recursos Materiales;
-
-V. Un Jefe del Departamento de Recursos Humanos; y
-
-VI. Personal Administrativo.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 74.
 
-La Dirección de Administración estará a cargo de un Director quien será designado por el Coordinador General en términos de este Reglamento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 75.
 
-Para Desempeñar el cargo de Director de Administración se deberá reunir los siguientes requisitos.
-
-I. Tener como mínimo 28 años cumplidos el día del nombramiento;
-
-II. Ser Ciudadano Mexicano por nacimiento en pleno ejercicio de sus derechos;
-
-III. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del Artículo 8º de las Ordenanzas Municipales de Oaxaca de Juárez;
-
-IV. Ser de notoria buena conducta y no haber sido condenado por delito intencional;
-
-V. Tener capacidad y experiencia probada en materia de administración pública; y
-
-VI. No ser cónyuge o pariente consanguíneo en línea recta, sin limitación de grado o por afinidad dentro del segundo grado del Presidente Municipal, Síndicos o Regidores.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS FACULTADES DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
 ###### ARTICULO 76.
 
-Para el despacho de los asuntos competencia de la Dirección de Administración tiene las facultades y obligaciones siguientes:
-
-I. Ejercer la dirección, control y vigilancia en la correcta aplicación de los recursos financieros, materiales y humanos de las áreas que conforman la Coordinación General, para que estos se ejerzan con estricto apego a las normas y procedimientos aplicables en la Administración Pública Municipal;
-
-II. Cumplir y hacer cumplir las disposiciones que para el ejercicio de los recursos humanos, financieros y materiales establezca el Presidente Municipal;
-
-III. Proponer y aplicar las políticas, normas, sistemas y procedimientos para mejorar la organización y administración de los recursos financieros, materiales y humanos de la Coordinación General;
-
-IV. Vigilar el cumplimiento de las disposiciones que para el ejercicio de los recursos humanos, financieros y materiales establezca el Presidente Municipal;
-
-V. Conducir la correcta administración y aplicación de los recursos humanos, materiales y financieros asignados a la Coordinación para su ejercicio en las diversas áreas que integran el Sistema de Seguridad Pública Municipal con apego a las normas y procedimientos de administración pública;
-
-VI. Formular el presupuesto anual de ingresos y egresos de las áreas que conforman la Coordinación General;
-
-VII. Llevar los registros contables de los recursos financieros asignados a la Coordinación con apego a las normas y procedimientos de contabilidad aplicables en la Administración Pública Municipal;
-
-VIII. Tramitar y coordinar con las áreas del H. Ayuntamiento los asuntos relacionados con los de la Dirección a su cargo;
-
-IX. Conciliar los saldos disponibles de los recursos asignados a la Coordinación General, de acuerdo a cada programa, proyecto o rubro presupuestal;
-
-X. Recibir, controlar y aplicar los recursos asignados de acuerdos a programas y proyectos, en su caso tramitar las modificaciones y transferencias necesarias con apego a las disposiciones legales aplicables;
-
-XI. Conducir las políticas en materia de recursos humanos como son de selección, contratación, salario, prestaciones, estímulos, licencias, destituciones bajas del personal integrante de las diversas áreas de la Coordinación General y dependencias auxiliares, así como las relativas al mejoramiento de las condiciones de trabajo;
-
-XII. Tramitar antes (sic) las instancias correspondientes del H. Ayuntamiento la asignación de recursos para la compra de material, equipo o consumibles, así como vigilar su correcta aplicación;
-
-XIII. Cumplir y vigilar que las adquisiciones requeridas se sujeten a las normas y procedimientos aplicables a la Administración Pública Municipal o que establezca el Presidente Municipal;
-
-XIV. Administrar, controlar y vigilar lo relacionado con recursos materiales, mobiliario y equipo a cargo de las áreas que conforman la Coordinación General; así como lo relativo a adquisiciones, arrendamientos, prestación de servicios y actos de administración;
-
-XV. Llevar la contabilidad y estados financieros de los recursos asignados a la Coordinación General;
-
-XVI. Informar al Coordinador General el estado que guarda la administración de las diversas áreas a su cargo;
-
-XVII. Instrumentar y mantener actualizado el inventario de los bienes a cargo de las áreas que conformen la Coordinación General y dependencias auxiliares; así como implementar mecanismos para su resguardo y de conservación;
-
-XVIII. Las demás que le señalen las leyes y reglamentos en el ámbito Municipal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO SEXTO. DE LA DIRECCIÓN JURÍDICA
 
 ###### ARTICULO 77.
 
-La Dirección Jurídica de Seguridad Publica, Tránsito, Transporte y Protección Civil es un órgano administrativo y de consulta integrante y dependiente de la Coordinación General de Seguridad Publica, Tránsito, Transporte y Protección Civil, cuyo objeto es asesorar a las áreas que conforman la Coordinación General, así como la atención de los asuntos de carácter legal que requieran de su intervención y propone las adecuaciones a las leyes reglamentos para la mejora en la prestación de las funciones de Seguridad Publica, Tránsito, Transporte y Protección Civil.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 78.
 
-La Dirección Jurídica de Seguridad Publica, Tránsito, Transporte y Protección Civil constituye una entidad administrativa y será dotada del personal y equipo acorde a sus necesidades y posibilidades presupuéstales asignadas por el H. Ayuntamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 79.
 
-La Dirección Jurídica de Seguridad Pública, Tránsito, Transporte y Protección Civil es el órgano Municipal responsable de velar por el cumplimiento exacto de las leyes y reglamentos en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 80.
 
-Para el alcance de sus objetivos y atención de los asuntos de su competencia, el Titular le la Dirección Jurídica se podrá auxiliar de las siguientes áreas:
-
-I. Un Jefe de Unidad;
-
-II. Un Jefe de Departamento adscrito a la Dirección General de Tránsito y Transporte;
-
-III. Un Juez Calificador del Primer Turno adscrito a la Dirección General de Seguridad Pública Municipal;
-
-IV. Un Juez Calificador del Segundo Turno adscrito a la Dirección General de Seguridad Pública Municipal;
-
-V. Un Juez Calificador del Tercer Turno adscrito a la Dirección General de Seguridad Pública Municipal;
-
-VI. Un Juez Calificador del Primer Turno adscrito a la Dirección General de Tránsito y Transporte Municipal;
-
-VII. Un Juez Calificador del Segundo Turno adscrito a la Dirección General de Tránsito y Transporte Municipal;
-
-VIII. Un Juez Calificador del Tercer Turno adscrito a la Dirección General de Tránsito y Transporte Municipal;
-
-IX. Abogados Internos; y
-
-X. Personal Administrativo.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 81.
 
-La Dirección Jurídica de Seguridad Publica, Tránsito, Transporte y Protección Civil estará a cargo de un Director quien será designado por el Coordinador General en términos de este reglamento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 82.
 
-Para Desempeñar el cargo de Director Jurídico de Seguridad Pública, Tránsito, Transporte y Protección Civil se deberá reunir los siguientes requisitos:
-
-I. Tener como mínimo 28 años cumplidos el día del nombramiento,
-
-II. Ser Ciudadano Mexicano por nacimiento en pleno ejercicio de sus derechos,
-
-III. Ser vecino del Municipio de Oaxaca de Juárez, en los términos del Artículo 8º de las Ordenanzas Municipales de Oaxaca de Juárez,
-
-IV. Ser de notoria buena conducta y no haber sido condenado por delito intencional,
-
-V. Tener capacidad y experiencia probada en materia de Seguridad Pública,
-
-VI. No ser cónyuge o pariente consanguíneo en línea recta, sin limitación de grado o por afinidad dentro del segundo grado del Presidente Municipal, Síndicos o Regidores.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 83.
 
-Son Atribuciones de los Jueces Calificadores adscritos a:
-
-a) La Dirección General de Seguridad Pública Municipal;
-
-I. Cumplir y hacer cumplir las disposiciones legales en materia de Seguridad Pública;
-
-II. Aplicar el Reglamento de Justicia Administrativa del Municipio de Oaxaca de Juárez;
-
-III. Aplicar el Reglamento de Faltas de Policía del Municipio de Oaxaca de Juárez;
-
-IV. En caso de que se traten de hechos delictuosos, deberá calificar el delito y turnar sin demora al Ministerio Público a las personas presentadas y objetos afectos;
-
-V. A petición de las partes que se presenten ante su autoridad, podrá autorizar convenios siempre y cuando no se traten de delitos perseguibles de oficio, ni sean contrarios a la moral, al derecho, ni a las buenas costumbres;
-
-VI. Llevar un libro de gobierno en el cual registre mediante numero consecutivo, los expedientes administrativos relativos a los hechos, personas involucradas y objetos afectos; y
-
-VII. Recibir en su carácter de autoridad en materia de Seguridad Pública a las Autoridades que se lo requieran;
-
-VIII. Las demás facultades o atribuciones que de su función se deriven.
-
-b) La Dirección General de Tránsito y Transporte Municipal;
-
-I. Los Jueces Calificadores adscritos a la Dirección General de Tránsito y Transporte Municipal, deberán cumplir con lo previsto en el artículo 12 del Reglamento de Tránsito y Transporte del Municipio de Oaxaca de Juárez;
-
-II. Conocer en la fase conciliatoria de todo hecho relacionado con accidentes de tránsito y violaciones al Reglamento de Tránsito y Transporte Municipal, procurando siempre que las partes involucradas concilien sus intereses;
-
-III. Para dar cumplimiento al artículo anterior, los Jueces Calificadores tendrán las facultades siguientes;
-
-IV. Autorizar convenios que suscriban las partes involucradas en hechos de tránsito, siempre y cuando se realicen de su libre y espontánea voluntad y que no sean contrarios a la ley, la moral y las buenas costumbres;
-
-V. En el caso de resultar de los hechos de tránsito, únicamente vehículos afectos, estos quedarán retenidos en tanto las partes se presentan, una vez conciliado intereses por las partes efectuar la devolución previa justificación de su propiedad, en caso contrario, de ser presentada querella ante el Ministerio Público turnar los hechos y los vehículos afectos; y
-
-VI. Turnar al Ministerio Público los hechos que resulten materia y competencia de dicha autoridad, presentando a los involucrados y vehículos participantes.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO SÉPTIMO. DE LAS FACULTADES DE LA DIRECCIÓN JURÍDICA
 
 ###### ARTICULO 84.
 
-Para el despacho de los asuntos competencia de la Dirección Jurídica tiene las facultades y obligaciones siguientes:
-
-I. Intervenir en los asuntos de carácter legal en que tenga injerencia el Coordinador General, la Dirección General de Planeación, de Seguridad Pública, de Tránsito y Transporte y la Dirección de Administración;
-
-II. Asesorar jurídicamente a las diversas áreas que conforman la Coordinación General y dependencias auxiliares;
-
-III. Vigilar el estricto cumplimiento a las leyes y reglamentos en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-IV. Representar, tramitar y vigilar los procedimientos judiciales, civiles, penales, administrativos, laborales o de cualquier otra naturaleza en los cuales intervenga cualquier área integrante de la Coordinación General o le resulte interés jurídico, inclusive presentar querella necesaria por delitos que afecten el patrimonio a cargo de la (sic) cualquiera de las áreas que integran la Coordinación General;
-
-V. Actuar como órgano de asesoría, consulta e investigación jurídica en los asuntos que le sean encomendados por el Coordinador General o cualquier otra área;
-
-VI. Intervenir en los juicios de garantías en los cuales el Coordinador General o cualquier otra dependencia de la Coordinación resulte señalados (sic) como Autoridad responsable;
-
-VII. Formular y proponer al Coordinador General proyectos para la mejora de la función de Seguridad Pública, Tránsito, Transporte y Protección Civil;
-
-VIII. Auxiliar al Coordinador General en el cumplimiento de las resoluciones que en el ámbito de su competencia emita;
-
-IX. Sistematizar, compilar y difundir las normas jurídicas que regulan el funcionamiento de la Coordinación General y en materia de Seguridad Pública, Tránsito, Transporte y Protección Civil, así como fijar los criterios de interpretación y aplicación de los mismos;
-
-X. Practicar acciones de investigación administrativa relacionados con la responsabilidad del personal administrativo o de operación de cualquier dependencia de la Coordinación General por posibles faltas a la disciplina que deban observar, por lo que están obligadas a proporcionar la documentación o información necesaria a efecto de resolver lo procedente;
-
-XI. Atender y dar seguimiento a las quejas presentadas ante la Comisión Estatal de Derechos Humanos en contra de cualquier Servidor Público adscrito a las dependencias que conforman la Coordinación General y en su caso las recomendaciones que al respecto se emitan; y
-
-XII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios le atribuyan, así como aquellas que le asigne el Coordinador General.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO OCTAVO. DEL PERSONAL ADMINISTRATIVO DE LA COORDINACIÓN GENERAL
 
 ###### ARTICULO 85.
 
-Se entiende como personal de servicios administrativos, a aquellas personas que ostente instrumento jurídico o equivalente que los acredite como tal y desempeñen sus funciones en las áreas administrativas de la Coordinación General y dependencias auxiliares.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 86.
 
-El personal civil administrativo no será considerado como integrante de los Cuerpos de Seguridad, en el caso de los destinados a la Dirección General de Seguridad Pública y a la Dirección General de Tránsito y Transporte, de conformidad con el artículo 9º Tercer Párrafo de la Ley de Seguridad Pública para el Estado.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 87.
 
-Son derechos del personal administrativo de la Coordinación General y dependencias auxiliares:
-
-I. Recibir el salario que fije el Ayuntamiento en la partida de egresos correspondiente a la Dirección;
-
-II. Gozar de un trato digno y decoroso por parte de sus Superiores Jerárquicos;
-
-III. Recibir la capacitación y adiestramiento necesarios para el debido desempeño de sus funciones;
-
-IV. Tener jornadas de trabajo acordes con las necesidades del servicio, así como disfrutar de aguinaldo, vacaciones, licencias y descansos;
-
-V. Recibir atención médica a través de las Instituciones con las cuales el H. Ayuntamiento tenga convenida dicha prestación;
-
-VI. Recibir gratuitamente los uniformes que los identifique y distinga del personal de línea destinado a funciones propias de la Seguridad Pública, y acorde a las posibilidades presupuéstales del H. Ayuntamiento;
-
-VII. Ser sujeto de un seguro de vida en caso de muerte, cuyo monto fijará el H. Ayuntamiento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO DÉCIMO NOVENO. DEBERES, OBLIGACIONES Y PROHIBICIONES DEL PERSONAL ADMINISTRATIVO DE LA COORDINACIÓN GENERAL
 
 ###### ARTICULO 88.
 
-El personal integrante la Coordinación General y dependencias deben observar invariablemente como principios normativos en su actuación y conducta los de legalidad, honradez, lealtad, imparcialidad, eficiencia, profesionalismo, servicio a la comunidad y respeto a los derechos humanos.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 89.
 
-En su carácter de Servidores Públicos Municipales, el personal administrativo de la Coordinación General y dependencias que la integran, deberán observar en el desempeño de sus funciones las obligaciones de carácter general, previstas por el artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, cuyo incumplimiento genera que se incurra en responsabilidad administrativa, dando lugar a la instrucción del procedimiento respectivo ante la Contraloría Interna del H. Ayuntamiento y a la aplicación de las sanciones que consigna dicha ley.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 90.
 
-Queda Estrictamente prohibido al personal administrativo de la Coordinación General y dependencias que la integran:
-
-I. Participar en actos públicos o privados en los que se denigre a la Institución o en el ejercicio de sus funciones desempeñarse como ministro de cualquier culto religioso, sin que por ello pierda los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Pedir o recibir dinero, regalos o dadivas de cualquier especie así como aceptar ofrecimientos o promesas por cualquier acto u omisión, con coacción o sin ella, en relación al servicio y en ejercicio o con motivos de sus funciones;
-
-III. Separarse de sus funciones, servicio o comisión ordenada por sus Superiores, sin la autorización correspondiente;
-
-IV. Presentarse al desempeño de sus funciones en estado de ebriedad o bajo el influjo de alguna droga o enervante, así como ingerir bebidas embriagantes o consumir cualquier clase de droga encontrándose de servicio o comisión o resultar adicto a las mismas;
-
-V. Usar el uniforme que los identifique fuera de sus horarios de labores;
-
-VI. Cometer actos de indisciplina o abuso durante el desempeño de sus funciones o con motivo de ellas;
-
-VII. Elevar quejas infundadas, hacer publicas falsas imputaciones o revelar información confidencial a que tenga acceso con motivo de sus funciones;
-
-VIII. Hacer mal uso de los bienes del Patrimonio Municipal que le sean proporcionados para el desempeño de sus funciones;
-
-IX. Violar las disposiciones correspondientes a su cargo, establecidas en el Artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
-
-X. Faltar a sus labores injustificadamente por mas de tres días en un periodo de 30 días; y
-
-XI. Hacer uso indebido del sistema y equipo de radio comunicación.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO VIGÉSIMO. DE LA RELACION LABORAL DEL PERSONAL ADMINISTRATIVO DE LA COORDINACIÓN GENERAL
 
 ###### ARTICULO 91.
 
-El personal integrante de la Coordinación General y dependencias que la integran, es considerado como personal de confianza, sujetos a los términos del contrato, nombramiento o instrumento jurídico que al efecto les sea expedido, y en su defecto al régimen laboral común a los Servidores Públicos del H. Ayuntamiento y a la Ley Federal de Trabajo.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 92.
 
-El personal integrante de esta Coordinación General no cuenta con el derecho de reinstalarse al ser considerados de confianza por estar relacionadas sus funciones con la prestación del servicio de Seguridad Pública, únicamente se podrán dirimir controversias que no vayan en contraposición a los términos de su contratación.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 93.
 
-Será sujeto de destitución y como consecuencia baja inmediata, sin responsabilidad alguna para el H. Ayuntamiento y/o Coordinación General; el personal administrativo y dependencias que lo integran que incurran en las causales siguientes:
-
-I. Por sentencia condenatoria por delito intencional que haya causado ejecutoria;
-
-II. Por incurrir en actos de corrupción en el desempeño del servicio, como fuera de este;
-
-III. Por asistir a su servicio en estado de ebriedad o bajo el influjo de substancias psicotrópicas o estupefacientes, o consumirlas durante el servicio o resultar adictos las mismas;
-
-IV. Por desacato injustificado a las órdenes de sus superiores;
-
-V. Por presentar documentación alterada para su ingreso a la Corporación;
-
-VI. Por abandonar el servicio para manifestarse individual o colectivamente, en contra de sus superiores, tomar instalaciones del gobierno, bloquear vías de comunicación detener injustificadamente a cualquier autoridad de los cuerpos de Seguridad Pública; y
-
-VII. Dejar de cumplir con cualquiera de los requisitos de ingreso o de permanencia para formar parte de la Coordinación General.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 94.
 
-Es facultad única y exclusiva del Coordinador General, de los Directores Generales y Directores decretar y aplicar la destitución y baja a que refiere el artículo 94 sin perjuicio o responsabilidad alguna para el H. Ayuntamiento, en el caso del personal administrativo adscrito a su área de responsabilidad.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 95.
 
-Dada la naturaleza de la función que se desempeña en materia de Seguridad Pública, el personal administrativo de la Coordinación General y sus dependencias que la integran no entran en las jornadas establecidas tanto en la ley del Servicio Civil para los empleados del Ayuntamiento de Oaxaca de Juárez como de la Ley Federal del Trabajo, por lo que este personal carece de derecho de ejercitar acción alguna por la jornada desempeñada.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 96.
 
-En caso de existir la creación o vacante de una plaza administrativa, el Coordinador General a través del área responsable cuenta con la facultad de hacer la designación directa.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 97.
 
-Por ningún motivo el personal administrativo adscrito a esta Coordinación General y dependencias que la integran podrá suspender labores alegando mejoras saláriales o cualquier otra causa, quedando sujeto a las sanciones de este reglamento.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 98.
 
-A falta de disposición expresa en este reglamento respecto al personal administrativo se aplicará la Ley del Servicio Civil para los empleados del Ayuntamiento de Oaxaca de Juárez y la Ley Federal de Trabajo.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 99.
 
-En caso de necesidad en el servicio, podrá cancelarse o negarse cualquier tipo de permiso o vacaciones al personal administrativo de la Coordinación General y dependencias auxiliares, confiriéndose posteriormente las prestaciones.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 100.
 
-Los Servidores Públicos pertenecientes a la Coordinación General y dependencias que la integran, no cuentan con el derecho de crear sindicato alguno, en virtud que sus funciones se relacionan con la Seguridad Pública.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO VIGÉSIMO PRIMERO. DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA DE OAXACA DE JUÁREZ
 
 ###### ARTICULO 101.
 
-La Dirección General de Seguridad Publica es un órgano de la Administración Pública Municipal, integrante y dependiente de la Coordinación General de Seguridad Pública, Tránsito, Transpone y Protección Civil, y sus funciones primordiales serán las de garantizar mantener en el territorio del Municipio de Oaxaca de Juárez, la seguridad, el orden publico, otorga la protección necesaria a la población en casos de siniestros o accidentes, para garantizar a los habitantes el pleno goce de su vida y de sus bienes.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 102.
 
-Las disposiciones relativas a la organización y funcionamiento de la Dirección General de Seguridad Publica de Oaxaca de Juárez, se rigen por su propia y especial naturaleza por las disposiciones señaladas en el Reglamento de Seguridad Publica Municipal de Oaxaca de Juárez.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO VIGESIMO SEGUNDO. DE LA DIRECCIÓN GENERAL DE TRÁNSITO Y TRANSPORTE DEL MUNICIPIO DE OAXACA DE JUÁREZ
 
 ###### ARTICULO 103.
 
-La Dirección General de Tránsito y Transporte es un órgano de la Administración Pública del Municipio de Oaxaca de Juárez, dependiente de la Coordinación General de Seguridad Publica Tránsito, Transporte y Protección Civil a quien corresponde la atención de los asuntos relativos al tránsito de vehículos, peatonal, la vialidad y el transporte público, así como auxiliar de la Seguridad Pública.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 ###### ARTICULO 104.
 
-Las disposiciones relativas a la organización y funcionamiento de la Dirección General de Tránsito y Transporte del municipio de Oaxaca de Juárez, se rigen por su propia y especial naturaleza por las disposiciones señaladas en el Reglamento de Tránsito y Transporte del Municipio de Oaxaca de Juárez y el Reglamento Orgánico de la Dirección General de Tránsito y Transporte del Municipio de Oaxaca de Juárez.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA COMISIÓN DE SEGURIDAD PÚBLICA, VIALIDAD Y PROTECCIÓN CIVIL DEL MUNICIPIO DE OAXACA DE JUÁREZ, P.O. 4 DE OCTUBRE DE 2014)
 
 En cumplimiento a lo dispuesto por el artículo 248 de las Ordenanzas de la Municipalidad de Oaxaca de Juárez y para su debida publicación y observancia, se promulga el anterior ordenamiento para el Palacio Municipal de la ciudad de Oaxaca de Juárez y observancia en lugares públicos de esta municipalidad.
 
@@ -1113,3 +697,11 @@ ENCARGADA DEL DESPACHO DE LA PRESIDENCIA MUNICIPAL DEL MUNICIPIO DE OAXACA DE JU
 LIC. CARLOS ALDECO REYES
 
 SECRETARIO MUNICIPAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE OCTUBRE DE 2014.
+
+PRIMERO: El presente Reglamento deroga los artículos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103 y 104 del Reglamento de la Coordinación General de Seguridad Pública, Tránsito, Transporte y Protección Civil del Municipio de Oaxaca de Juárez; así como todas las disposiciones legales que contravengan el presente ordenamiento jurídico; así mismo, se abroga el Reglamento Orgánico de la Dirección de Tránsito y Transporte del Municipio de Oaxaca de Juárez, publicado en el Periódico Oficial del Gobierno del Estado número 22 de fecha 29 de Mayo del año 2004
+
+SEGUNDO: Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado o en la Gaceta del Municipio de Oaxaca de Juárez, de acuerdo a lo previsto en el artículo 139 de la Ley Orgánica Municipal del Estado de Oaxaca.
