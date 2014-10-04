@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2013-12-18"
+last_updated: "2014-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2014.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2023,9 +2023,7 @@ El divorcio disuelve el vínculo del matrimonio y deja a quienes fueron cónyuge
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 256 Bis.
-
-Terminación del concubinato
+ARTICULO 256 BIS.- Terminación del concubinato
 
 La relación del concubinato termina por las siguientes causas:
 
@@ -3349,7 +3347,7 @@ VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dig
 
 ARTICULO 403 TER.-
 
-En atención a lo dispuesto en el artículo anterior las disposiciones de este capítulo (sic) son de orden público e interés social.
+En atención a lo dispuesto en el artículo anterior las disposiciones de este capítulo son de orden público e interés social.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -15905,11 +15903,29 @@ Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio, por la r
 
 Se reputa perjuicio la privación de cualquier ganancia lícita que se habría obtenido, de no haberse realizado el hecho considerado por la ley como fuente de la responsabilidad.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 2051.
 
 Daño moral
 
-El daño puede ser también de carácter moral, cuando el hecho ilícito que lo produzca afecte a una persona en sus sentimientos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de ella misma tienen los demás.
+El daño puede ser también de carácter moral, cuando el hecho ilícito que lo produzca afecte a una persona en sus sentimientos, creencias, afectos, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de ella misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 2051 BIS.- Reparación de Daño Moral por Hecho Ilícito.
+
+Estarán sujetas a la reparación del daño moral y, por tanto, se considerarán como hechos ilícitos, las siguientes conductas:
+
+I. La divulgación de la imputación que se hace a otra persona física o jurídica colectiva, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio o exponerlo al desprecio de alguien;
+
+II. La imputación a otro de un hecho determinado y calificado como delito por la ley, si el hecho es falso o inocente la persona a quien se le imputa;
+
+III. La presentación de denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no sea cometido; y
+
+IV. La ofensa al honor, o el ataque a la vida privada o la imagen propia de una persona.
+
+La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
 
 ###### ARTICULO 2052.
 
@@ -15980,6 +15996,10 @@ En los casos en que el daño derive de un acto que haya tenido difusión en los 
 Cuándo no existe obligación de reparación del daño moral
 
 No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6 y 7 de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2014)</small>
+
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables de la crítica literaria, artística, histórica, científica, deportiva o profesional, ni las que versen sobre acontecimientos privados divulgados públicamente por el propio afectado. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
 
 En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual, deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
@@ -21469,7 +21489,7 @@ Lo dispuesto en los artículos 2767 y 2768 es aplicable a los aperos de la finca
 
 Concepto
 
-Por el contrato de habitación en tiempo compartido, el compartidor se obliga a conceder al compartidario el uso de un inmueble amueblado por un determinado plazo; y el compartidiario (sic) se obliga a pagar por ese uso un precio cierto y en dinero, así como una cantidad adicional de dinero, que puede ser variable, para gastos que se causen por el servicio de mantenimiento.
+Por el contrato de habitación en tiempo compartido, el compartidor se obliga a conceder al compartidario el uso de un inmueble amueblado por un determinado plazo; y el compartidiario se obliga a pagar por ese uso un precio cierto y en dinero, así como una cantidad adicional de dinero, que puede ser variable, para gastos que se causen por el servicio de mantenimiento.
 
 El compartidario podrá pagar al compartidor el precio del uso en una sola exhibición o en abonos.
 
@@ -25544,3 +25564,9 @@ El correspondiente decreto entrará en vigor al día siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
