@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2014-09-17"
+last_updated: "2014-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2014.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1483,7 +1483,9 @@ XIII. Asegurar el otorgamiento de los servicios administrativos que en materia d
 
 XIV. Avalar las propuestas de movimientos e incidencias del personal a cargo del Consejo, conforme a las disposiciones legales y la normatividad aplicable;
 
-XV. Suscribir los nombramientos y credenciales de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 8 a 33 del Catálogo General de Puestos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 6 DE OCTUBRE DE 2014)</small>
+
+XV. Suscribir los nombramientos de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 10 al 24 de la Tabla de Puestos contemplada en el Catálogo General de Puestos del Consejo de la Judicatura Federal, así como, las credenciales del personal de órganos jurisdiccionales y áreas administrativas entre los niveles 8 a 24;
 
 XVI. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, con el auxilio de la Coordinación de Administración Regional;
 
@@ -3021,7 +3023,9 @@ IV. Realizar conforme a los lineamientos y procedimientos establecidos el reclut
 
 V. Realizar el trámite de los nombramientos, prórrogas de nombramientos, contrataciones, promociones, transferencias, reubicaciones, cambios de adscripción, comisiones, suspensiones, permisos y bajas del personal administrativo y sustantivo del Consejo y, en su caso, someterlo a consideración de las instancias competentes y registrarlos;
 
-VI. Elaborar y emitir los nombramientos del personal operativo adscrito a las áreas administrativas, así como las credenciales del personal, y suscribir aquellos que le competan;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 6 DE OCTUBRE DE 2014)</small>
+
+VI. Suscribir los nombramientos de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 25 al 33 de la Tabla de Puestos contemplada en el Catálogo General de Puestos del Consejo de la Judicatura Federal, y las credenciales del personal de los órganos jurisdiccionales y áreas administrativas de los niveles mencionados; así como, los avisos de baja, de licencia, de reanudación de labores, de suspensión y reinstalación de servidores públicos adscritos a áreas administrativas de los niveles 10 al 33 de la referida Tabla de Puestos;
 
 VII. Realizar los trámites de solicitudes de licencias y someterlos a consideración de las instancias competentes para su aprobación y resolver aquellos que conforme a sus facultades corresponda;
 
@@ -4630,3 +4634,9 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. La Comisión de Disciplina acordará la fecha de inicio de las inspecciones a distancia a los órganos jurisdiccionales, previa implementación de las pruebas piloto respectivas. En tanto acuerde el inicio del sistema de inspección a distancia, continuará vigente el de informe circunstanciado que regula el Acuerdo General 28/2003 del Pleno del Consejo. Para los informes de terminación o de conclusión de funciones regirá igual disposición.
 
 Las actas de visita ordinaria junto con los informes circunstanciados se dictaminarán en la forma, períodos y oportunidad con que se ha venido haciendo, aunque se hayan rendido dos informes circunstanciados o practicado dos visitas ordinarias de manera consecutiva, con motivo del calendario de inspecciones del año dos mil catorce. En ambos casos el dictamen respectivo se emitirá inmediatamente después de que se practique la última visita ordinaria.
+
+D.O.F. 6 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
