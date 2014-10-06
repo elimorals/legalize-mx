@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-comunicaciones-90627"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-08"
-last_updated: "2012-10-08"
+last_updated: "2014-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y OBRAS PÚBLICAS, PUBLICADO EN EL P.O. 6 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO ES ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de octubre de 2012.
 
@@ -1040,3 +1042,17 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2014.
+
+TRANSITORIOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y OBRAS PÚBLICAS
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Comunicaciones publicado en la Gaceta Oficial del Estado con número extraordinario 345, folio 1117, de fecha 8 de octubre de 2012; y se derogan las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, serán resueltos de conformidad a la distribución de competencias y atribuciones que en el presente se determinan.
+
+CUARTO. Se establece un plazo de noventa días hábiles para que la Secretaría expida sus Manuales de Organización y Procedimientos.
