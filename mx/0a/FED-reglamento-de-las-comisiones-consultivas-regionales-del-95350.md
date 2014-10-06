@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-comisiones-consultivas-regionales-del-95350"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-12"
-last_updated: "2013-08-12"
+last_updated: "2014-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95350&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-07-15"
 
 REGLAMENTO DE LAS COMISIONES CONSULTIVAS REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LAS COMISIONES CONSULTIVAS REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de agosto de 2013.
 
@@ -338,3 +340,15 @@ Este Reglamento entrará en vigor al día siguiente de su publicación en el Dia
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de julio de dos mil trece, en cumplimiento al Acuerdo número 1627, tomado en la sesión ordinaria número 105 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General, Alejandro Lozano Botello.- Rúbrica.- El Secretario Técnico de Órganos Colegiados, Javier Delgado Parra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento abroga el aprobado mediante Acuerdo número 1627, tomado en la sesión ordinaria número 105 de la H. Asamblea General del Infonavit, celebrada los días 25 y 30 de abril de 2013, las cuales fueron publicadas en el Diario Oficial de la Federación el 12 de agosto de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
