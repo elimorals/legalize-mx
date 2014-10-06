@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2014-08-25"
+last_updated: "2014-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -15321,7 +15321,7 @@ III. En el caso de vialidades colectoras, secundarias, primarias y regionales, u
 
 Tratándose de fraccionamientos habitacionales urbanos de tipo popular, en cuanto al uso del suelo se establece lo siguiente:
 
-I. Se permitirá predominantemente el uso habitacional, restringiéndose el uso comercial y de servicios a la ubicación de éstos.
+I.Se permitirá predominantemente el uso habitacional, restringiéndose el uso comercial y de servicios a la ubicación de éstos.
 
 II. Toda actividad comercial y de servicios deberá estar comprendida dentro del 20% de la superficie destinada para ello, conforme al proyecto autorizado el cual se indicará en el plano de factibilidad de usos del suelo previamente autorizado por la Comisión Estatal de Desarrollo Urbano o en su caso la SEPLADE; pudiendo incrementar dicho porcentaje hasta en un 5% más, siempre y cuando sea justificable, no altere el entorno inmediato a él, no modifique la estructura urbana y vial, y no represente riesgo alguno para los habitantes de la zona.
 
@@ -15689,7 +15689,7 @@ El texto de los anuncios deberá redactarse en idioma español con sujeción a l
 
 La Secretaría requerirá al solicitante que presente el registro o autorización que previamente le hubieran expedido la Autoridad Federal, Estatal o Municipal competente o entidad correspondiente, que permitan la difusión al público del bien o servicio de que se trate, para los efectos de otorgar la licencia o permiso respectivo, particularmente en los siguientes casos:
 
-I. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
+l. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
 
 II. Cuando se trate de la venta de terrenos, casas, departamentos, locales comerciales y de servicios, ubicados en fraccionamientos, condominios o desarrollos habitacionales, que hubieran requerido obras de urbanización e introducción de infraestructura urbana, y
 
@@ -19293,6 +19293,8 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1401.
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
@@ -19309,81 +19311,117 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-# LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS
+# LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-## TÍTULO ÚNICO. DE LOS FESTEJOS TAURINOS
+## TÍTULO PRIMERO. DE LOS FESTEJOS TAURINOS
 
 ### CAPITULO II. De la Autoridad
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1405.
 
-El presente Título es de orden e interés público y tiene por objeto de determinar reglas y mecanismos claros que fomenten la celebración de espectáculos taurinos y que permitan garantizar que con motivo de su desarrollo no se altere la seguridad u orden públicos, ni se ponga en riesgo innecesario la integridad de los participantes y de los asistentes.
+El presente Título es de orden e interés público y tiene por objeto regular la realización de espectáculos taurinos, así como determinar las reglas y mecanismos para su celebración, garantizando que en su desarrollo no se altere la seguridad y orden públicos, así como defender y proteger los intereses y la integridad de los asistentes.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1406.
 
-Para efectos del presente ordenamiento se entenderá por:
+Para efectos del presente Título se entenderá por:
 
-I. Ayuntamiento: El H. Ayuntamiento del Municipio de Aguascalientes.
+I. Abono: La venta anticipada de localidades para una serie de espectáculos organizados por la misma empresa en una temporada determinada.
 
-II. Municipio: Las dependencias de la administración pública municipal de Aguascalientes.
+II. Aficionado Práctico: El lidiador no profesional que lidia reses a pie y/o a caballo.
 
-III. Dirección: La Dirección General de Gobierno.
+III. Astas: Los cuernos de una res de lidia.
 
-IV. Espectadores: Los asistentes a los espectáculos taurinos.
+IV. Avíos: Conjunto de utensilios, instrumentos y equipamiento pertenecientes al lidiador y necesarios para la lidia y muerte de una res.
 
-V. Empresa: La persona física o moral que obtenga permiso del Municipio y la que presente aviso para celebración de espectáculos públicos en los términos del presente Libro.
+V. Ayuntamiento: El H. Ayuntamiento del Municipio de Aguascalientes.
 
-VI. Ganadero: El criador de las reses de lidia registrado ante la Asociación Nacional de Criadores de Toros de Lidia.
+VI. Becerrista y/o niño torero: El lidiador de becerros y/o erales que lidia las reses a pie.
 
-VII. Matador: El lidiador de toros que lidia las reses a pie.
+VII. Cabo: El representante o jefe de los forcados.
 
-VIII. Novillero: El lidiador de novillos que lidia a las reses a pie.
+VIII. Cabestros: Reses que no sean de raza de lidia, adiestradas para facilitar las maniobras de traslado de las de lidia de un corral a otro y de retiro de las reses del ruedo a los corrales.
 
-IX. Rejoneadores: Los matadores de toros o novilleros que lidian las reses a caballo.
+IX. Cajón de curas: espacio de los corrales de la plaza destinado para la curación de las reses lidiadas o por lidiarse.
 
-X. Forcados: Tipo de lidiadores que, a la usanza portuguesa, reciben al toro y lo dominan con sus propios cuerpos.
+X. Cuadra: El conjunto de caballos destinados para la suerte de varas en un festejo taurino.
 
-XI. Cabo: El representante o jefe de los forcados.
+XI. Derecho de apartado: El pago que una persona hace a la empresa por la preferencia en la adquisición de localidad.
 
-XII. Subalternos: Tipo de lidiador que auxilia a los matadores y novilleros durante el desempeño de la lidia, denominados picadores, banderilleros, y puntilleros.
+XII. Empresa: La persona física o moral que obtenga permiso del Municipio y la que presente aviso para celebración de espectáculos públicos en los términos del presente Libro.
 
-XIII. Monosabios: Los dependientes de la empresa encargados de auxiliar con el aseo y acondicionamiento del redondel.
+XIII. Espectadores: Los asistentes a los espectáculos taurinos.
 
-XIV. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
+XIV. Forcados: Tipo de lidiadores que, a la usanza portuguesa, reciben al toro y lo dominan con sus propios cuerpos.
 
-XV. Cuadra: El conjunto de caballos destinados para la suerte de varas en un festejo taurino.
+XV. Ganadero: El criador de las reses de lidia registrado ante la Asociación Nacional de Criadores de Toros de Lidia.
 
-XVI. Avíos: Conjunto de utensilios, instrumentos y equipamiento pertenecientes al lidiador y necesarios para la lidia y muerte de una res.
+XVI. Indulto: Beneficio otorgado por el Juez de Plaza a una res, debido a su extraordinario desempeño dentro de la lidia, por medio del cual se le concede librarle de la muerte.
 
-XVII. Redondel o Ruedo: El área destinada para el desarrollo de la lidia.
+XVII. Inspector Autoridad: Persona designada por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno para cumplir con las facultades y obligaciones que este Código establece.
 
-XVIII. Toriles o Chiqueros: Las áreas destinadas para la estancia de las reses por separado y en el orden que saldrán a lidiarse.
+XVIII. Lidiador: Persona que lidia y da muerte a pie y/o a caballo a una res.
 
-XIX. Cajón de curas: espacio de los corrales de la plaza destinado para la curación de las reses lidiadas o por lidiarse.
+XIX. Matador: El lidiador de toros que lidia las reses a pie.
 
-XX. Astas: Los cuernos de una res de lidia.
+XX. Monosabios: Los dependientes de la empresa encargados de auxiliar con el aseo y acondicionamiento del redondel.
 
-XXI. Trapío: La estampa, integridad, salud y condiciones generales de la res de lidia.
+XXI. Municipio: Las dependencias de la administración pública municipal de Aguascalientes.
 
-XXII. Cabrestos: Reses que no sean de raza de lidia, adiestradas para facilitar las maniobras de traslado de las de lidia de un corral a otro y de retiro de las reses del ruedo a los corrales.
+XXII. Novillero: El lidiador de novillos que lidia las reses a pie.
 
-XXIII. Reservas: Reses destinadas a lidiarse en caso de que por alguna razón de fuerza mayor no pueda lidiarse alguna de las anunciadas.
+XXIII. Redondel o Ruedo: El área destinada para el desarrollo de la lidia.
 
-XXIV. Indulto: Beneficio otorgado por el Juez de Plaza a una res, debido a su extraordinario desempeño dentro de la lidia, por medio del cual se le concede librarle de la muerte.
+XXIV. Regalo: Res que después de la lidia ordinaria ofrece lidiar uno o varios de los alternantes.
 
-XXV. Derecho de apartado: la venta anticipada de localidades para una serie de espectáculos organizados por la misma empresa en una temporada determinada.
+XXV. Rejoneador: El lidiador a caballo de toros o novillos.
 
-XXVI. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
+XXVI. Reservas: Reses destinadas a lidiarse en caso de que por alguna razón de fuerza mayor no pueda lidiarse alguna de las anunciadas o sea lidiada por regalo de los actuantes.
+
+XXVII. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
+
+XXVIII. Secretaría: Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+XXIX. Subalternos: Los que auxilian durante el desempeño de la lidia, denominados peones de brega, picadores, banderilleros y puntilleros.
+
+XXX. Torero cómico: El lidiador de becerros y/o erales que a través de la lidia de las reses a pie divierte y hace reír al público.
+
+XXXI. Torilero: Persona del servicio de plaza encargada del manejo, seguridad y buenas condiciones generales de las reses en los toriles.
+
+XXXII. Toriles o Chiqueros: Las áreas destinadas para la estancia de las reses por separado y en el orden que saldrán a lidiarse.
+
+XXXIII. Trapío: La estampa, integridad, salud y condiciones generales de la res de lidia de acuerdo a su encaste.
 
 ### CAPÍTULO III. De las Características de las Plazas de Toros
 
 ###### ARTÍCULO 1407.
 
-La aplicación de este capítulo corresponde a la Dirección General de Gobierno Municipal, de conformidad con las atribuciones otorgadas por el mismo ordenamiento y por el Código Municipal y contará con las autoridades en la plaza que se describen en los artículos subsecuentes.
+La aplicación de este Título corresponde a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno Municipal, de conformidad con las atribuciones otorgadas por el mismo ordenamiento y por el Código Municipal y contará con las autoridades en la plaza que se describen en los artículos subsecuentes.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 1407 bis.- Son requisitos para ser Juez de Plaza:
+
+I. Tener como mínimo 35 años de edad cumplidos al momento de su nombramiento.
+
+II. Tener los conocimientos suficientes en la materia y/o ser matador de toros en retiro.
+
+III. No tener relación laboral con cualquier empresa taurina.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 1407 ter.- Son requisitos para ser Asesor Técnico y Cambiador de Suertes:
+
+I. Tener los conocimientos suficientes en la materia y/o matador de toros en retiro.
+
+II. No tener relación laboral con cualquier empresa taurina.
 
 ###### ARTÍCULO 1408.
 
@@ -19391,21 +19429,31 @@ El Juez de Plaza será la autoridad superior en cada espectáculo taurino y ser�
 
 I. Verificar la exactitud de la báscula, de conformidad con las normas establecidas por la Procuraduría Federal del Consumidor.
 
-II. Asistir a la maniobra de pesar los toros.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-III. Aprobar junto con los veterinarios, en acta que se levante, las reses que deban lidiarse.
+II. Asistir a la maniobra de pesar las reses.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+III. Recibir, aprobar y reseñar junto con los veterinarios, en acta que se levante, las reses que deban lidiarse que a su juicio reúnan las características y condiciones correspondientes establecidas en el presente Código, y en su caso rechazar las que no las reúnan, oyendo la opinión del Asesor Técnico y el Jefe de Veterinarios.
 
 IV. Presenciar el sorteo y enchiqueramiento, resolviendo cualquier incidente que se presente, aplicando este Código en las disposiciones que le sean afines.
 
-V. Recibir las partes de empresa, ganaderos, matadores y subalternos, y en su caso resolver lo conducente.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+V. Recibir el parte de la empresa, ganaderos, lidiadores o sus representantes y subalternos, y en su caso resolver lo conducente.
 
 VI. Estar en la plaza con media hora de anticipación, para resolver cualquier problema imprevisto y cerciorarse que todos los servicios estén al corriente.
 
-VII. Dar las órdenes necesarias para el cumplimiento del programa anunciado.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VII. Presidir el festejo, dando la señal para que el espectáculo comience puntualmente a la hora anunciada y dar las órdenes necesarias para el cumplimiento del programa anunciado sin que se altere el orden del mismo y que sean protegidos los intereses de los espectadores, de acuerdo a las disposiciones del presente Código;
 
 VIII. Imponer las sanciones a que se hagan acreedores los que infrinjan este Código, haciendo las consignaciones respectivas y comunicando sus determinaciones al Municipio.
 
-IX. Ordenar la suspensión de la corrida, en los casos en que proceda, debiendo preferentemente cuidar los intereses del público.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IX. Ordenar la suspensión del festejo, en los casos en que proceda, debiendo preferentemente cuidar los intereses del público.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -19415,7 +19463,9 @@ XI. Ordenar que se haga saber a los espectadores, las alteraciones que hubiere e
 
 XII. Informar por escrito al Municipio del festejo que hubiere presidido.
 
-XIII. las que específicamente se señalan en este Código.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+XIII. Las que específicamente se señalan en este Código.
 
 ###### ARTÍCULO 1409.
 
@@ -19423,15 +19473,57 @@ Son obligaciones y facultades del asesor técnico:
 
 I. Asistir al peso y reconocimiento de las reses.
 
-II. Asistir al sorteo y enchiqueramiento.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-III. Llegar a la plaza de toros con media hora de anticipación.
+II. Asistir al sorteo y enchiqueramiento de las reses.
 
-IV. Dirigir, junto con el Juez de Plaza, la parte técnica de la lidia, indicando los cambios de suerte y llamadas de atención.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-V. Computar el tiempo para los efectos de la muerte del astado.
+III. Llegar a la plaza de toros con al menos media hora de anticipación de la hora de inicio del festejo.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IV. Vigilar, junto con el Juez de Plaza, el desarrollo del festejo.
+
+V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2014)
 
 VI. En general de cuidar que en los espectáculos se respeten los principios técnicos del toreo.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 1409 Bis.
+
+Son obligaciones y facultades del Cambiador de Suertes:
+
+I. Asistir al peso y reconocimiento de las reses.
+
+II. Asistir al sorteo y enchiqueramiento de las reses.
+
+III. Llegar a la Plaza de Toros con al menos media hora de anticipación de la hora de inicio del festejo.
+
+IV. Indicar los cambios de suerte y llamadas de atención previa autorización del Juez de Plaza
+
+V. Solicitar a la Banda de Música que ejecute un pasodoble con el consentimiento del Juez de Plaza en los casos siguientes:
+
+a) Si el lidiador en turno coloca banderillas,
+
+b) Si la faena del lidiador adquiere relevancia,
+
+c) Autorizar la ejecución de otra pieza musical que no sea un pasodoble, previamente determinada,
+
+d) Autorizar la ejecución de Dianas cuando así lo amerite la actuación del lidiador.
+
+VI. Solicitar a la Banda de Música previa autorización del Juez de Plaza que finalice la ejecución de cualquier pieza musical en los siguientes casos:
+
+a) Cuando el lidiador en turno así lo solicite,
+
+b) Cuando la faena pierda relevancia a criterio del Juez de Plaza.
+
+c) Cuando el lidiador en turno se perfile para la suerte suprema.
+
+VII. Computar el tiempo para los efectos de la muerte del astado.
+
+VIII. En general, cuidar que en los espectáculos se respeten los principios técnicos del toreo.
 
 ###### ARTÍCULO 1410.
 
@@ -19475,15 +19567,19 @@ II. Presenciar la prueba de caballos, dictando informe al Juez de Plaza.
 
 III. Asistir al enchiqueramiento para verificar si hasta ese momento las reses se encuentran en condiciones de lidiarse.
 
-IV. Practicar después de muertas, el examen de las reses lidiadas, para verificar la edad de las mismas, y si no fueron objeto de alguna alteración artificial en su defensa, o de cualquier tratamiento o maniobra que pudiera haber disminuido su poder o vigor, haciendo constar su opinión por escrito, y en su caso, anexando las astas de los toros despuntados.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IV. Practicar después de muertas, el examen de las reses lidiadas, para verificar la edad de las mismas, y si no fueron objeto de alguna alteración artificial en su defensa, o de cualquier tratamiento o maniobra que pudiera haber disminuido su poder o vigor, haciendo constar su opinión por escrito, y en su caso, anexando las astas de las reses despuntadas.
 
 V. Informar al Juez de Plaza de cualquier deficiencia que advierta, tanto en las reses como en los caballos que deben examinarse.
 
 VI. Las demás que se mencionan en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1413.
 
-El químico bacteriólogo ayudará a los médicos veterinarios en los exámenes que deben practicarse en los caballos y reses a que se refiere el inciso anterior.
+El químico bacteriólogo deberá asistir a los médicos veterinarios en los exámenes que deben practicarse a los caballos y a las reses, que por su especialización requieran de su intervención.
 
 ###### ARTÍCULO 1414.
 
@@ -19495,21 +19591,27 @@ El Presidente Municipal dictará las medidas y disposiciones necesarias para el 
 
 Asimismo, promoverá a la unificación, coordinación y cooperación de las diferentes asociaciones, agrupaciones o uniones taurinas.
 
-El Municipio nombrará a los Jueces de Plaza y éstos a su vez a los asesores técnicos, estos últimos no necesariamente serán matadores de toros en retiro, pero deberán contar con el conocimiento suficiente a juicio del Juez de Plaza.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-El Municipio, nombrará al inspector autoridad, jefe de callejón, médicos veterinarios, químicos bacteriólogos e inspectores autoridad auxiliares.
+El Presidente Municipal a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno nombrará al Juez de Plaza, Asesor Técnico y Cambiador de Suertes, quienes no necesariamente serán matadores de toros en retiro, pero deberán contar con el conocimiento suficiente en la materia.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+El Presidente Municipal a través de la Secretaria del H. Ayuntamiento y Dirección General de Gobierno nombrará al inspector autoridad, jefe de callejón, jefe de veterinarios y médicos veterinarios, químicos bacteriólogos e inspectores autoridad auxiliares.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1416.
 
-El jefe del servicio médico de la plaza, será designado a propuesta de la Asociación de Matadores de Toros, Novillos y similares, y de la Unión de Picadores y Banderilleros por la Empresa, previa aprobación del Municipio. El jefe del servicio médico de la plaza, dará parte al Juez de Plaza, de las lesiones que sufra durante el festejo, de cualquier elemento del personal de cuadrilla, empleados de plaza o espectadores, extendiendo el certificado médico relativo, sin perjuicio de dar el aviso que corresponda a otras autoridades.
+El jefe del servicio médico de la plaza, será designado por la Empresa, a propuesta de la Asociación de Matadores de Toros, Novillos y similares, la Unión Mexicana de Toreros A.C, y de la Unión de Picadores y Banderilleros, previa aprobación del Municipio. El jefe del servicio médico de la plaza, dará parte al Juez de Plaza, de las lesiones que sufra cualquier lidiador, elemento de las cuadrillas, empleados de plaza o espectadores, durante el festejo, extendiendo el certificado médico relativo, sin perjuicio de dar el aviso que corresponda a otras autoridades.
 
-El jefe del servicio médico, proveerá lo necesario para prestar este servicio, durante el entorilamiento.
+El jefe del servicio médico, está obligado a prestar sus servicios a los asistentes y participantes durante el entorilamiento, por lo que deberá proveer lo necesario para que se realice adecuadamente.
 
-El jefe del servicio médico, en caso de lidiadores lesionados será el único facultado para dictaminar si pueden o no continuar en la lidia; asimismo, dictaminará antes y durante la corrida, acerca del estado físico y mental de los lidiadores y cuadrillas, debiendo en todo caso, notificar al Juez de Plaza, sobre la conveniencia de que tome parte o continúe en la lidia.
+El jefe del servicio médico dictaminará antes de la corrida, acerca del estado físico y mental de los lidiadores y las cuadrillas, notificando al Juez de Plaza sobre la conveniencia o no, de que participen en la lidia. También verificará que puedan continuar en condiciones de intervenir en el desarrollo del festejo.
 
-En las plazas de segunda categoría, que no cuenten con un local adecuado para enfermería, además de la ambulancia contarán con un mínimo de dos médicos.
+En las plazas de segunda categoría o portátiles, que no cuenten con un local adecuado para enfermería, deberán contar con una ambulancia equipada y con un mínimo de dos médicos con experiencia.
 
-La empresa proveerá de todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
+Es obligación de la empresa proveer todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
 
 ### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
 
@@ -19539,7 +19641,9 @@ V. Antes de empezar la función, será regado el redondel de la plaza, haciendo 
 
 VI. El callejón tendrá un metro con cincuenta centímetros de ancho como mínimo y dos metros como máximo; estará provisto de burladeros en número suficiente para alojar a las personas autorizadas que tengan acceso al mismo. Contará con tomas de agua para facilitar el riego del redondel.
 
-VII. Los corrales para los toros serán suficientemente amplios, seguros, con dotación de burladeros y un buen desagüe para evitar el encharcamiento del agua en perjuicio de los toros. Los corrales tendrán comunicación con la vía pública, para la fácil introducción de las animales y, además, comunicación directa con la corraleta de los chiqueros para la faena de enchiqueramientos. Los corrales deberán contar con mirillas, para que el público pueda observar las condiciones de los toros. Asimismo deberán contar con cobertizos, comederos y abrevaderos. En toda plaza de toros que esté catalogada como de primera, deberá contar dentro de sus instalaciones, con una báscula para verificar el peso de los toros en pie.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VII. Los corrales para las reses serán suficientemente amplios, seguros, con dotación de burladeros y un buen desagüe para evitar el encharcamiento del agua en perjuicio de los toros. Los corrales tendrán comunicación con la vía pública, para la fácil introducción de las (sic) animales y, además, comunicación directa con la corraleta de los chiqueros para la faena de enchiqueramientos. Los corrales deberán contar con mirillas, para que el público pueda observar las condiciones de los toros. Asimismo deberán contar con cobertizos, comederos y abrevaderos. En toda plaza de toros que esté catalogada como de primera, deberá contar dentro de sus instalaciones, con una báscula para verificar el peso de las reses en pie la cual deberá ser calibrada y verificada por la Autoridad competente.
 
 En las plazas de toros, habrá un lugar preferente, destinado a las autoridades y éstas tendrán a su disposición un equipo de sonido de calidad adecuada. En las plazas de primera categoría, el palco de la autoridad deberá estar comunicado con un teléfono al callejón, con el inspector autoridad.
 
@@ -19551,37 +19655,45 @@ I. El toril tendrá las dimensiones convenientes para que el toro pueda moverse.
 
 II. En las plazas de primera, los toriles tendrán dos puertas hacia el ruedo, una que comunique con el callejón y otro con el corral de cabestros.
 
-III. El sistema de puertas, callejones y corraletas, deberán llenar dos fines primordiales; seguridad absoluta para los que realizan esa faena y facilidad para su ejecución, con el menor número de molestias para los toros; con tal fin, las puertas de los chiqueros corresponderán en sus dimensiones a la anchura del pasillo, con el objeto de que al abrirse comunique con el lugar que sea necesario.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+III. El sistema de puertas, callejones y corraletas, deberán llenar dos fines primordiales; seguridad absoluta para los que realizan esa faena y facilidad para su ejecución, con el menor número de molestias para las reses; con tal fin, las puertas de los chiqueros corresponderán en sus dimensiones a la anchura del pasillo, con el objeto de que al abrirse comunique con el lugar que sea necesario.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1420.
 
-Toda plaza de toros, tendrá un lugar destinado a enfermería:
+Toda plaza de toros, tendrá un lugar destinado a enfermería que deberá cumplir con las especificaciones siguientes:
 
-I. Constará de instalaciones que garanticen las mejores condiciones de amplitud e higiene.
+I. Contar con instalaciones que garanticen las mejores condiciones de amplitud e higiene para que los médicos realicen adecuadamente su función.
 
-II. Su lugar de instalación será el más apropiado para el objeto.
+II. Estar ubicada en lugar apropiado que facilite el acceso y traslado de los lesionados en casos de emergencia.
 
-III. Estarán amuebladas, equipadas y provistas de todo lo necesario para proporcionar los primeros auxilios médicos.
+III. Estar equipada y provista de todo lo necesario para proporcionar los primeros auxilios médicos.
 
-IV. Contará con los servicios de una ambulancia, bajo las órdenes del Jefe del Servicio Médico, debiendo estar ésta con media hora de anticipación al inicio de la corrida.
+IV. Contar con los servicios de mínimo una ambulancia debidamente equipada a juicio del Jefe de Servicio Médico bajo las órdenes del mismo, debiendo estar ésta con al menos media hora de anticipación al inicio de la corrida.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1421.
 
-En todas las plazas de toros, habrá un lugar exclusivamente destinado a destazar, sangrar, eviscerar y extraer la sangre residual a los animales muertos en la corrida. Será un área amplia, bien ventilada, que reúna todas las condiciones de higiene, con agua en abundancia, drenaje y con el conveniente equipo para manejo de la carne. Asimismo, deberá contar con un depósito de aserrín y arenero.
+En todas las plazas de toros, habrá un lugar exclusivamente destinado a destazar, sangrar, eviscerar y extraer la sangre residual a los animales muertos en los festejos.
 
 ###### ARTÍCULO 1422.
 
 Las plazas de toros, deberán tener instalaciones sanitarias separadas y en número suficiente para damas y caballeros claramente marcadas, de conformidad con lo establecido en este Código.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1423.
 
-Habrá suficiente número de taquillas o expendios de boletos, en donde en letreros bien visibles, se indicará qué clase de localidades se expenden.
+Habrá suficiente número de taquillas o expendios de boletos, en donde en letreros visibles se indicará el tipo de localidades existentes y los precios de las mismas.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1424.
 
-Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano y Servicios Públicos.
+Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano, Servicios Públicos y a la Dirección de Protección Civil Municipal.
 
 ### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
@@ -19595,25 +19707,61 @@ II. Novilladas.
 
 III. Festivales taurinos.
 
-Las corridas podrán ser formales o mixtas. Las novilladas con picadores o sin ellos. Las empresas tendrán obligación de anunciar con toda claridad diez días antes de la corrida, nombre de la empresa, divisa, peso y edad de los animales, así como la categoría a que cada espectáculo pertenezca.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+Las corridas podrán ser formales o mixtas. Las novilladas con picadores o sin ellos. Las empresas tendrán obligación de anunciar con toda claridad diez días antes de los festejos, nombre de la empresa, divisa, peso y edad de los animales, así como la categoría a que cada espectáculo pertenezca.
 
 ###### ARTÍCULO 1426.
 
 Los actuantes en las diferentes categorías serán las siguientes calidades:
 
-I. Matador de toros, de a pie o de a caballo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-II. Matador de novillos de a pie o de a caballo.
+I. Matador de toros a pie.
 
-III. Picadores.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-IV. Banderilleros.
+II. Matador de novillos a pie.
 
-V. Puntilleros.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-VI. Forcados.
+III. Rejoneador;
 
-VII. Toreros cómicos.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IV. Aspirantes a Novilleros
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+V. Becerristas y/o niños toreros
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VI. Aficionados Prácticos
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VII. Forcados.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VIII. Picadores.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IX. Banderilleros.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+X. Puntilleros.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+XI. Aspirantes a Picadores, Banderilleros y/o Puntilleros
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+XII. Toreros cómicos.
 
 ###### ARTÍCULO 1427.
 
@@ -19631,7 +19779,9 @@ V. Sólo en los festivales se permitirá que se alteren las reglas de antigüeda
 
 VI. En las plazas de primera categoría y tratándose de corridas de toros y novilladas, el despeje lo hará por lo menos un alguacil, que vestirá a la usanza tradicional española o charra mexicana.
 
-VII. En toda corrida, novillada o festival taurino la empresa a su costa pondrá una banda de música que amenice el espectáculo, debiendo iniciar sus audiciones cuando menos una hora antes de principiar el festejo. Las intervenciones de la Banda Sinfónica Municipal, serán a juicio del Juez de Plaza, y de acuerdo con la calidad de la faena podrá autorizar al director de la Banda, la ejecución musical, debiendo cesar en forma definitiva cuando el matador se perfile para la suerte suprema. Queda terminantemente prohibido a los diestros actuantes pedir de mutuo propio, el que la banda municipal acompañe con música sus actuaciones en el ruedo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+VII. En toda corrida, novillada o festival taurino, la empresa a su costa pondrá una banda sinfónica que amenice el espectáculo, debiendo iniciar sus audiciones cuando menos una hora antes de iniciar el festejo. Las intervenciones de la Banda Sinfónica durante la lidia de los astados, serán a juicio del Juez de Plaza, y de acuerdo con la calidad de la faena, podrá autorizar al Director de la Banda Sinfónica, por sí o a través del Cambiador de Suertes, la ejecución musical exclusivamente de pasodobles a excepción de faenas que extraordinariamente y a criterio del Juez de Plaza merezcan otra pieza musical. La interpretación deberá cesar de forma definitiva cuando el lidiador se perfile para la suerte suprema. Queda prohibido a los diestros actuantes pedir de mutuo propio, el que la banda sinfónica acompañe con música sus actuaciones en el ruedo. En los festejos que por su naturaleza se requiera, la empresa además de la banda sinfónica, podrá contar con otro acompañamiento musical.
 
 Al diestro que no respete la prohibición señalada en el párrafo que antecede, se le aplicará, a juicio del Juez de Plaza las sanciones previstas en el presente Código.
 
@@ -19655,17 +19805,23 @@ V. Copias autorizadas por las respectivas agrupaciones o sindicatos taurinos de 
 
 VI. Autorizaciones oficiales de la Secretaría de Gobernación, tratándose de actuantes extranjeros, de cualquier calidad que vayan a participar. Todo cartel deberá estar integrado como mínimo por el cincuenta por ciento de toreros mexicanos.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1430.
 
-La empresa llevará a recontar y resellar el boletaje de cada corrida, a la Secretaría de Finanzas Públicas Municipales. La empresa será responsable de la existencia de boletos sin sellar. Queda igualmente bajo su responsabilidad que todo el boletaje autorizado se ponga a la venta del público, existirá en taquilla el día de la lidia, el veinte por ciento de boletos numerados y el cuarenta por ciento de entradas generales la recaudación de taquilla se estimará en depósito a favor de la Secretaría de Finanzas Públicas Municipales, con un interventor que designará ésta última, hasta en tanto se cubran los impuestos municipales, que se hubieran causado, y multas en que hubieren incurrido, la empresa, matadores, personal de cuadrilla y de plaza. A menos que otorguen fianza previa para garantizar las obligaciones a que se refiere este código. Realizados estos pagos, la Secretaría de Finanzas Públicas Municipales, hará entrega del resto de lo recaudado a las empresas.
+La empresa llevará a recontar y resellar el boletaje de cada festejo, a la Secretaría de Finanzas Públicas Municipales. La empresa será responsable de la existencia de boletos sin sellar. Queda igualmente bajo su responsabilidad que todo el boletaje autorizado se ponga a la venta del público, existirá en taquilla el día de la lidia, el veinte por ciento de boletos numerados y el cuarenta por ciento de entradas generales.
+
+La recaudación de taquilla se estimará en depósito a favor de la Secretaría de Finanzas Públicas Municipales, con un interventor que designará ésta última, hasta en tanto se cubran los impuestos municipales, que se hubieran causado, y multas en que hubieren incurrido, la empresa, lidiadores, personal de cuadrilla y de plaza. A menos que otorguen fianza previa para garantizar las obligaciones a que se refiere este código. Realizados estos pagos, la Secretaría de Finanzas Públicas Municipales, hará entrega del resto de lo recaudado a las empresas.
 
 ###### ARTÍCULO 1431.
 
 No podrán las empresas emitir mayor número de boletaje que el que señala el cupo oficial de la plaza. La infracción a este artículo, será sancionado con cancelación de la licencia concedida a las empresas, sin perjuicio de la multa correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1432.
 
-En las novilladas o corridas de aficionados, y aún en corridas formales, cuyos productos se destinen a beneficencia pública, mejoras materiales o algún fin que no sea lucrativo, regirá el presente Código pudiendo hacer el Municipio las concesiones que estime prudentes.
+En las corridas, novilladas o festivales, cuyos productos se destinen a beneficencia pública, mejoras materiales o algún fin que no sea lucrativo, regirá el presente Código pudiendo hacer el Municipio las concesiones que estime prudentes sin alterar la esencia intrínseca del espectáculo.
 
 ###### ARTÍCULO 1433.
 
@@ -19673,9 +19829,13 @@ Las empresas tendrán la obligación, tanto en festejos comprendidos en una temp
 
 I. Declaración escrita del ganadero.
 
-II. Reseña de las reses a lidiarse, autorizada por el Juez de Plaza y por el Médico Veterinario.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-III. Programa de festejos, con el elenco completo de matadores y subalternos.
+II. Reseña de las reses a lidiarse, autorizada por el Juez de Plaza y por el Jefe de Veterinarios.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+III. Programa de festejos, con el elenco completo de lidiadores y subalternos
 
 IV. Contratos respectivos de toreros y ganaderos.
 
@@ -19705,7 +19865,9 @@ I. Recibir el espectáculo en su integridad y en los términos que resulten del 
 
 II. Ocupar la localidad que les corresponda. A tal fin, por los empleados de la plaza se facilitará el acomodo correcto.
 
-III. En caso de suspensión total o parcial de una temporada o corrida, el espectador tiene derecho a la devolución, por parte de la empresa, de la cantidad que señale el municipio, presentando su derecho de apartado, abonos y boletos respectivos. La que en ningún caso será inferior al costo de la erogación más un veinte por ciento de indemnización. En caso de incumplimiento de los compromisos contraídos al anunciar el elenco del derecho de apartado o abono, la empresa con aprobación del Municipio, devolverá la parte proporcional incumplida.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+III. En caso de suspensión total o parcial de una temporada o festejo, el espectador tiene derecho a la devolución, por parte de la empresa, de la cantidad que señale el municipio, presentando su derecho de apartado, abonos y boletos respectivos. La que en ningún caso será inferior al costo de la erogación más un veinte por ciento de indemnización. En caso de incumplimiento de los compromisos contraídos al anunciar el elenco del derecho de apartado o abono, la empresa con aprobación del Municipio, devolverá la parte proporcional incumplida.
 
 IV. Igualmente tendrán derecho a la devolución del importe íntegro del boleto y la indemnización a que se refiere la fracción anterior, cuando alguna persona no está conforme con la alteración que sufre un cartel determinado. La devolución se hará a más tardar a partir del día siguiente a la celebración del festejo, entregando el boleto entero sin ninguna mutilación.
 
@@ -19725,7 +19887,9 @@ Todos los espectadores permanecerán sentados durante la lidia en sus correspond
 
 Los espectadores no podrán acceder a sus localidades ni abandonarlas durante la lidia de cada res.
 
-Queda terminantemente prohibido el lanzamiento de almohadillas o cualquier clase de objetos. Los espectadores que incumplan esta prohibición durante la lidia serán expulsados de las plazas sin perjuicio de la sanción a que hubiere lugar.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+Queda prohibido el lanzamiento de almohadillas o cualquier clase de objetos al ruedo antes, durante o al finalizar el festejo, salvo en las vueltas al ruedo de alguno de los lidiadores siempre y cuando los objetos no atenten ni agredan a ninguna de las personas que acompañen el recorrido. Los espectadores que incumplan esta prohibición durante la lidia serán expulsados de las plazas, además de las sanciones a que hubiere lugar conforme a las leyes vigentes en el Estado.
 
 Los espectadores que perturben gravemente el desarrollo del espectáculo o causen molestias u ofensas a otros espectadores, autoridades o lidiadores, serán advertidos de su expulsión de la plaza, que se llevará a cabo si persisten en su actitud, o se procederá a la misma si los hechos fuesen graves, sin perjuicio de la sanción a que en su caso fuesen acreedores.
 
@@ -19743,6 +19907,8 @@ III. Para garantizar las obligaciones que se contraigan con motivo de la celebra
 
 ### CAPÍTULO VII. De la Cuadra de Caballos
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1439.
 
 Toda res de lidia deberá presentar las condiciones de trapío, salud y sanidad necesarios para la lidia. Asimismo, tener sus astas íntegras sin ostentar defectos de encornadura que resten peligro o trapío.
@@ -19755,7 +19921,9 @@ Las reses que se lidien en las corridas de toros, deberán reunir los siguientes
 
 I. Haber cumplido cuatro años de edad y no pasar de seis.
 
-II. Pesar como mínimo cuatrocientos treinta y cinco kilos en pie, a su llegada a la plaza.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+II. Pesar como mínimo cuatrocientos cuarenta y cinco kilos en pie, a su llegada a la plaza.
 
 III. Proceder de ganaderías que pertenezcan a la Asociación Nacional de Criadores de Toros de Lidia.
 
@@ -19773,7 +19941,9 @@ Para las novilladas sin picadores deberán observarse los siguientes requisitos:
 
 I. Las reses podrán ser menores de tres años.
 
-II. Podrán cerrar las puntas de las reses.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+II. Podrán serrar las puntas de las reses.
 
 III. El límite de peso será abajo del establecido en las novilladas reglamentadas y el mínimo será de doscientos cincuenta kilogramos.
 
@@ -19781,9 +19951,11 @@ IV. Los arpones de las banderillas podrán ser hasta de ocho centímetros de lon
 
 También a las reses que se utilicen en la suerte de rejonear, podrán serle serradas las puntas de las astas y deberá anunciarse que se trata de reses sin puntas. En los casos en que la autoridad lo permita y previo anuncio, podrá embolarse o enfundarse las astas de las reses.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1443.
 
-En las becerradas, festivales en que los diestros actuén con traje corto y en charloteadas, puede ordenarse que le sean serradas las puntas de las astas a las reses que ofrezcan condiciones de peligro, a juicio del director de la lidia del espectáculo, y previa aprobación de la autoridad.
+En las becerradas, festivales en que los diestros actúen con traje corto y en charloteadas, puede ordenarse que le sean serradas las puntas de las astas a las reses que ofrezcan condiciones de peligro, a juicio del director de la lidia del espectáculo, y previa aprobación de la autoridad.
 
 En ellas no existirán las condiciones que se precisan para ganado de lidia en este Código, pero se cuidará que dichas reses ofrezcan un mínimo de garantía de lucimiento, no permitiendo, por tanto, que se jueguen aquellas que por su insignificancia no lo garanticen.
 
@@ -19803,13 +19975,15 @@ IV. Además de los requisitos señalados en el presente artículo, el ganadero d
 
 Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuando menos con cinco días de anticipación a la celebración del espectáculo, y el ganadero y el empresario o empleado de éstos, serán corresponsables de su integridad y sanidad.
 
-La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de corridas no existan corrales suficientes.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de festejos no existan corrales suficientes.
 
 ### CAPÍTULO VIII. De los Actos Previos a la Lidia
 
 ###### ARTÍCULO 1446.
 
-La cuadra, que será de seis caballos, estará compuesta, en plazas de primera categoría, cuando menos por un caballo por cada toro, cuya lidia se haya anunciado, los que deberán estar en la plaza con una anticipación de treinta horas a la celebración del festejo, no pudiendo ser retirados sino hasta haber terminado éste.
+La cuadra, que será de seis caballos, estará compuesta, en plazas de primera categoría, cuando menos por un caballo por cada res, cuya lidia se haya anunciado, los que deberán estar en la plaza con una anticipación de treinta horas a la celebración del festejo, no pudiendo ser retirados sino hasta haber terminado éste.
 
 ###### ARTÍCULO 1447.
 
@@ -19831,29 +20005,43 @@ Al terminar el festejo, el representante de los picadores, previa unanimidad de 
 
 Los caballos que se utilicen en la suerte de varas deberán ser protegidos con un peto, sin que sea permitida otra defensa accesoria.
 
-El peto tendrá un peso máximo de treinta y cinco kilogramos y en su manufactura se usarán materiales penetrables que no sean perjudiciales para el toro, como; el yute, la borra de algodón, la lana, el hule espuma u otras materias similares, autorizados para tal uso, por el Municipio.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+El peto tendrá un peso máximo de treinta y cinco kilogramos y en su manufactura se usarán materiales penetrables que no sean perjudiciales para la res, como; el yute, la borra de algodón, la lana, el hule espuma u otras materias similares, autorizados para tal uso, por el Municipio.
 
 El material del peto, además de los requisitos del párrafo anterior, deberá ser resistente para que no penetre el pitón y lesione al caballo.
 
-El estribo derecho de la montadura, deberá estar siempre debidamente forrado a juicio del Juez de Plaza, médico veterinario o autoridad de callejón.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+El estribo derecho de la montadura, deberá estar siempre debidamente forrado a juicio del Juez de Plaza, jefe de veterinarios o autoridad de callejón.
 
 Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el curso de la lidia, no podrán continuar participando en ella, atendiéndolos de emergencia los veterinarios de plaza, dependientes del Municipio, cuyos emolumentos dependen de ésta misma, acordes a su nombramiento; la empresa proporcionará los materiales de curación para emergencias, los que estarán disponibles desde veinticuatro horas antes del espectáculo, conforme a la solicitud de los veterinarios. La subsecuente atención será por cuenta del propietario de estos animales, y estarán en libertad de asignar quien los atienda. Los que presenten heridas penetrantes de vientre serán inmediatamente apuntillados por orden de los veterinarios.
 
 ### CAPÍTULO IX. Del Desarrollo de la Lidia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1450.
 
 Cuatro horas antes de celebrarse el festejo, el Juez de Plaza procederá a realizar el sorteo de las reses, observando las reglas siguientes:
 
-I. Se formarán los lotes según el número de matadores que actúen.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-II. En caso de no ponerse de acuerdo los matadores o sus representantes sobre la formación de los lotes, se sortearán las reses separadamente.
+I. Se formarán los lotes según el número de lidiadores que actúen.
 
-III. Si algún matador o su representante no sorteara por cualquier causa, el lote será el que dejen los otros y si varios están en ese caso, sorteará, por ellos el Juez de Plaza.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+II. En caso de no ponerse de acuerdo los lidiadores o sus representantes sobre la formación de los lotes, se sortearán las reses separadamente.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+III. Si algún lidiador o su representante no sorteara por cualquier causa, el lote será el que dejen los otros y si varios están en ese caso, sorteará, por ellos el Juez de Plaza.
 
 IV. La autoridad deberá convocar a la realización de un sorteo en todos los festejos, con excepción de los festivales de aficionados y de los espectáculos cómicos. Cuando se trate de festejos mixtos, se procederá en los términos más semejantes las reglas anteriores.
 
-V. Los matadores indicarán el orden en que quieran que se corran sus reses, pero una vez acordado, este orden no podrá alterarse.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+V. Los lidiadores o sus representantes indicarán el orden en que quieran que se corran sus reses, pero una vez acordado, este orden no podrá alterarse.
 
 VI. Las reservas serán sorteadas igualmente a fin de que la suerte decida el orden de su salida a la plaza, el primer espada será el encargado de sacar el papel correspondiente, si la res es de la misma ganadería que se vaya a lidiar, ésta irá en primer lugar.
 
@@ -19887,7 +20075,9 @@ Durante la faena de entorilamiento no se permitirán personas ajenas a la misma,
 
 En caso de que por fuerza mayor comprobada no pueda actuar uno de los diestros anunciados, la empresa dará inmediatamente aviso a la autoridad, al conocer el hecho, para que resuelva lo conducente, de acuerdo a lo establecido en este Código.
 
-Si la causa de fuerza mayor se presentase el mismo día de la corrida, deberá hacerse del conocimiento del Juez de Plaza, quien resolverá lo conducente. En cualquier caso, se usarán los medios de publicidad que señale la autoridad, para dar a conocer al público el cambio que tenga que hacerse con motivo de la no actuación de uno de los diestros anunciados; pero siempre se avisará por medio de pizarrones que se colocarán sobre la taquilla de plaza y de las que existan fuera y pertenezcan a la empresa. La falta de aviso inmediato a que se refiere este artículo o de comprobación de la fuerza mayor o la justificación para no actuar, originará la sanción correspondiente.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+Si la causa de fuerza mayor se presentase el mismo día del festejo, deberá hacerse del conocimiento del Juez de Plaza, quien resolverá lo conducente. En cualquier caso, se usarán los medios de publicidad que señale la autoridad, para dar a conocer al público el cambio que tenga que hacerse con motivo de la no actuación de uno de los diestros anunciados; pero siempre se avisará por medio de pizarrones que se colocarán sobre la taquilla de plaza y de las que existan fuera y pertenezcan a la empresa. La falta de aviso inmediato a que se refiere este artículo o de comprobación de la fuerza mayor o la justificación para no actuar, originará la sanción correspondiente.
 
 ###### ARTÍCULO 1456.
 
@@ -19897,11 +20087,17 @@ Para novillada serán veintiséis milímetros de extensión por quince milímetr
 
 La cruceta medirá seis centímetros por lado. Se podrá autorizar el uso de puyas de veintinueve milímetros en novilladas cuando el tamaño y fuerza del ganado que haya de lidiarse así lo amerite. A juicio del Juez de Plaza. Los topes podrán ser de madera, hierro o aluminio en su base y estarán cubiertos con cordel de cáñamo fuertemente enredado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1457.
 
-A más tardar, treinta minutos antes de la hora anunciada para el inicio del festejo, las puyas serán presentadas al jefe de callejón para ser aprobadas. Una vez ensambladas las puyas a las garrochas, las revisará con un escantillón, les pondrá enseguida un sello engomado y firmará sobre el mismo. Acto seguido, se colocarán dichas garrochas en el callejón, a la vista del público en el porta-varas que para el efecto la empresa tendrá la obligación de acondicionar.
+A más tardar, treinta minutos antes de la hora anunciada para el inicio del festejo, las puyas serán presentadas al Juez de Plaza y al Jefe de Callejón para ser aprobadas. Una vez ensambladas las puyas a las garrochas, las revisará con un escantillón, les pondrá enseguida un sello engomado y firmará sobre el mismo. Acto seguido, se colocarán dichas garrochas en el callejón, a la vista del público en el porta-varas que para el efecto la empresa tendrá la obligación de acondicionar.
 
 Las garrochas en las que se fije el casquillo de la puya serán redondas, de madera y con una longitud máxima de dos metros sesenta centímetros por treinta y cinco milímetros de diámetro.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+La autoridad retendrá hasta el final del festejo, las puyas que no sean aprobadas de acuerdo al presente artículo.
 
 ###### ARTÍCULO 1458.
 
@@ -19921,9 +20117,11 @@ Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el ado
 
 ### CAPÍTULO X. Del Rejoneo y los Forcados
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1460.
 
-En punto de la hora anunciada para el inicio del festejo en los programas, el Juez de Plaza dará la orden de que suenen los clarines y timbales y dé principio el festejo. En ese momento suspenderán sus actividades los vendedores en los tendidos, y los alquiladores de cojines, y ni unos ni otros podrán ejercer su comercio sino en el lapso que va del apuntillamiento de un toro al toque que ordene la salida del siguiente.
+En punto de la hora anunciada para el inicio del festejo en los programas, el Juez de Plaza dará la orden de que suenen los clarines y timbales y dé principio el festejo. En ese momento suspenderán sus actividades los vendedores en los tendidos, y los alquiladores de cojines, y ni unos ni otros podrán ejercer su comercio sino en el lapso que va del apuntillamiento de una res al toque que ordene la salida del siguiente.
 
 La empresa y los concesionarios serán directamente responsables del cumplimiento de este artículo.
 
@@ -19931,9 +20129,11 @@ La empresa y los concesionarios serán directamente responsables del cumplimient
 
 Al salir la res del toril, no deberá haber subalterno alguno en el ruedo, ni se llamará su atención, hasta que se haya "enterado". Queda prohibido hacerla rematar en tablas. Cuando un diestro se vea precisado a saltar la barrera o a ocultarse en el burladero, procurará hacer desaparecer el engaño con toda rapidez, impidiendo en todo momento que el animal se estrelle contra el burladero o la barrera.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1462.
 
-Una vez que el matador haya fijado a la res, a juicio del Juez de Plaza, dará la indicación de que entren al ruedo dos picadores como máximo. La lidia se llevará a cabo siempre de izquierda a derecha, evitando el cruzamiento de los picadores.
+Una vez que el lidiador haya fijado a la res, a juicio del Juez de Plaza, dará la indicación de que entren al ruedo dos picadores como máximo. La lidia se llevará a cabo siempre de izquierda a derecha, evitando el cruzamiento de los picadores.
 
 ###### ARTÍCULO 1463.
 
@@ -19949,19 +20149,23 @@ El picador insistirá en realizar la suerte tantas veces como sea necesario, per
 
 Cuando el astado acuda al cite del picador, se ejecutará la suerte en la forma que aconseja el arte de picar, queda prohibido tapar la salida, insistir en el castigo en los bajos o cualquier otro procedimiento similar. Si el astado deshace la reunión queda prohibido terminantemente y el picador tiene la obligación de echar el caballo atrás, para colocarse nuevamente en suerte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1466.
 
-Realizado el puyazo, el matador en turno estará inmediatamente al quite, para evitar que el castigo se prolongue innecesariamente al impedir el romaneo; queda igualmente prohibido a los matadores y peones, retener al astado usando el capote, para alargar la duración del puyazo.
+Realizado el puyazo, el lidiador en turno o un integrante de su cuadrilla estará inmediatamente al quite, para evitar que el castigo se prolongue innecesariamente al impedir el romaneo; queda igualmente prohibido a los picadores retener al astado tapando la salida para alargar la duración del puyazo.
 
 Queda prohibido picar después de ordenado el cambio de suerte, debiendo los picadores abandonar el ruedo de la manera más rápida posible.
 
 Queda prohibido a los picadores desmontar en el ruedo por su propia voluntad.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1467.
 
-La res deberá tomar tres puyazos como mínimo y cinco como máximo en caso necesario a petición del matador y a criterio del Juez de Plaza. Si el astado vuelve la cara a los caballos por dos veces y en terrenos distintos, se ordenará que sea sustituido por uno de los de reserva. Si salida la última reserva, ésta y las reses siguientes no cumplen en varas, se les colocarán en número de pares de banderillas negras que ordene el Juez de Plaza.
+La res deberá tomar la cantidad de puyazos que considere necesario el lidiador en turno, teniendo cinco como máximo en caso necesario a petición del matador y a criterio del Juez de Plaza. Si el astado vuelve la cara a los caballos en terrenos distintos, se ordenará a consideración del Juez de Plaza que sea sustituido por uno de los de reserva. Si salida la última reserva, ésta y las reses siguientes no cumplen en varas, se les colocarán en número de pares de banderillas negras que ordene el Juez de Plaza.
 
-El Juez de Plaza puede cambiar el tercio de un astado que no haya recibido los tres puyazos cuando considere que con menos ha sido suficientemente castigado los matadores en turno pueden pedir del Juez de Plaza que se adelante el cambio de suerte, cuando así lo estime conveniente.
+El Juez de Plaza por sí o a través del Cambiador de Suertes podrá cambiar el tercio cuando considere que el astado ha sido suficientemente castigado. Los lidiadores en turno pueden pedir al Juez de Plaza que se adelante el cambio de suerte y/o que se le dé un puyazo adicional si así lo estima conveniente.
 
 ###### ARTÍCULO 1468.
 
@@ -19971,49 +20175,71 @@ Después del tercio de varas, queda prohibido a los monosabios entrar al ruedo, 
 
 Los banderilleros tomarán el turno que entre ellos se haya acordado, y entrarán a la suerte procurando alternar el lado para clavar banderillas. El que hubiere hecho dos salidas en falso, perderá el turno, sustituyéndolo su compañero.
 
-Podrán banderillar los matadores, si así lo desean; y cuando se hagan acompañar de sus alternantes, acordarán entre ellos el turno en que deban hacerla.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-Se colocarán obligatoriamente, tres pares de banderillas. Cuando sea el matador quien las clave, se podrá ampliar el número, previo permiso que recabe del Juez de Plaza. También podrá ampliarse cuando el Juez considere que el astado las requiere y en el caso de las banderillas negras.
+Podrán banderillear los lidiadores, si así lo desean; y cuando se hagan acompañar de sus alternantes, acordarán entre ellos el turno en que deban hacerlo. Si el lidiador utiliza su propio zarzo de banderillas deberá solicitar permiso al Juez de Plaza.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+Se ejecutará la suerte de banderillas en tres ocasiones, debiendo quedar colocado el par o por lo menos una banderilla en cada ejecución. Cuando sea el lidiador quien las clave, se podrá ampliar el número, previo permiso que recabe del Juez de Plaza. También podrá ampliarse cuando el Juez considere que el astado las requiere y en el caso de las banderillas negras.
 
 ###### ARTÍCULO 1470.
 
 Durante el tercio de banderillas, se permitirá la actuación de dos peones que auxiliarán a los banderilleros de turno.
 
-En este tercio, la colocación de los matadores deberá ser la siguiente: El matador más antiguo en el ruedo, se colocará atrás del banderillero, y el que siga en antigüedad, detrás del toro. El matador en turno estará en la barrera, para recoger los avíos de matar.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+En este tercio, la colocación de los lidiadores deberá ser la siguiente: El lidiador más antiguo en el ruedo, se colocará atrás del banderillero, y el que siga en antigüedad, detrás del toro. El lidiador en turno estará en la barrera, para recoger los avíos de matar.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1471.
 
-Queda prohibido quitar las banderillas al toro desde el burladero o callejón, así como a los lidiadores quitar coleando, salvo caso de fuerza mayor.
+Queda prohibido quitar las banderillas a la res desde el burladero o callejón, así como a los lidiadores quitar coleando, salvo caso de fuerza mayor.
 
 ###### ARTÍCULO 1472.
 
 Todo animal que se inutilice después de cambiado el tercio de banderillas ya no podrá ser substituido.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1473.
 
-En su primer toro, los matadores tienen la obligación de pedir la venia a la autoridad y de saludarla después de muerto el astado.
+En su primera res, los lidiadores tienen la obligación de pedir la venia a la autoridad y de saludarla después de muerto el astado.
 
-Después de la faena de muletas, los diestros estoquearán según lo aconseje el arte de torear y sólo en caso de excepción se permitirá entrar a la media vuelta.
+Después de la faena de muleta, los diestros estoquearán según lo aconseje el arte de torear y sólo en caso de excepción se permitirá entrar a la media vuelta.
 
 ###### ARTÍCULO 1474.
 
 Queda prohibido a cualquier lidiador, herir a la res a mansalva, en los hijares o en cualquier otra parte, así como ahondar el estoque.
 
-Queda prohibido recurrir al descabello si el toro no está mortalmente herido. A los peones les está prohibido abusar del capote, después de que el matador haya herido al astado.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-No se permitirá de ninguna manera la intervención de más de dos peones para auxiliar al matador.
+Queda prohibido recurrir al descabello si la res no está mortalmente herida. A los peones les está prohibido abusar del capote, después de que el lidiador haya herido al astado.
 
-###### ARTÍCULO 1475.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-En caso de que el diestro hiera a la res, antes de los nueve minutos siguientes a la orden de cambio al último tercio se ordenará que se toque el primer aviso, tres minutos después que el matador haya herido por primera vez al astado; el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso para que salgan los cabestros y sea retirado al astado a los corrales.
+No se permitirá de ninguna manera la intervención de más de dos peones para auxiliar al lidiador.
 
-En el entendido que las mulas y los cabestros deberán estar adiestrados, requiriéndose la verificación y aprobación de la autoridad previa a la corrida.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO. 1475.- Se computará el tiempo de duración de la faena de muleta a partir de la orden de cambio al tercer tercio.
+
+La faena no deberá exceder de los doce minutos tiempo en que el lidiador deberá lidiar y dar muerte a la res antes de que suene el primer aviso, el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso para que salgan los cabestros y sea retirado el astado a los corrales.
+
+En caso de que el diestro hiera a la res, antes de los nueve minutos siguientes a la orden de cambio al último tercio se ordenará que se toque el primer aviso, tres minutos después que el matador haya herido por primera vez al astado; el segundo aviso se tocará dos minutos después y transcurridos los dos minutos de éste, se tocará el tercer aviso para que salgan los cabestros y sea retirado al astado a los corrales. En el entendido que las mulas y los cabestros deberán estar adiestrados, requiriéndose la verificación y aprobación de la autoridad previa a la corrida.
+
+En caso de que la faena mantenga el interés del espectador, el tiempo podrá alargarse a criterio del Juez de Plaza.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1476.
 
-Cuando la labor del matador provoque la petición de apéndices por parte del público, el Juez de Plaza, para concederlos, se sujetará a las siguientes reglas:
+Cuando la labor del lidiador provoque la petición de apéndices por parte del público, el Juez de Plaza, para concederlos, se sujetará a las siguientes reglas:
 
-I. Se otorgará una oreja cuando tras de una labor meritoria del matador, una notoria mayoría de los espectadores así lo solicite, ondeando sus pañuelos.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+I. Se otorgará una oreja cuando tras de una labor meritoria del lidiador, una notoria mayoría de los espectadores así lo solicite, ondeando sus pañuelos.
 
 II. Para otorgar la segunda oreja, el Juez tomará en cuenta la calidad de la res lidiada, la buena dirección de la lidia y la brillantez de la faena realizada, tanto con el capote, como con la muleta y estocada.
 
@@ -20035,9 +20261,11 @@ III. Que se le indulte.
 
 Queda a cargo del Juez de Plaza el acordar, en cada caso cuál de estos tres homenajes debe llevarse a cabo, manifestando su decisión por medio de un toque de clarín, dos toques de clarín o un pañuelo blanco respectivamente.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1478.
 
-Queda prohibido al puntillero saltar al ruedo antes de que doble la res, así como apuntillarlo sin que esté debidamente echada. El puntillero es el único autorizado para el corte de apéndices, previa orden del Juez, siendo responsable de cualquier mutilación indebida. En las plazas de primera categoría, el puntillero entregará al alguacil el o los apéndices, quien representando al Juez de Plaza, los pondrá en manos del matador.
+Queda prohibido al puntillero saltar al ruedo antes de que doble la res, así como apuntillarlo sin que esté debidamente echada. El puntillero es el único autorizado para el corte de apéndices, previa orden del Juez, siendo responsable de cualquier mutilación indebida. En las plazas de primera categoría, el puntillero entregará al alguacil el o los apéndices, quien representando al Juez de Plaza, los pondrá en manos del lidiador.
 
 ###### ARTÍCULO 1479.
 
@@ -20047,9 +20275,13 @@ I. Un inspector autoridad y el jefe de callejón, cuatro inspectores auxiliares 
 
 II. Los diestros alternantes, los sobresalientes, los subalternos y los puntilleros que actúen en el festejo.
 
-III. Los apoderados de los diestros actuantes, que permanecerán dentro del burladero de callejón.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-IV. Dos mozos de espadas por cada diestro en turno.
+III. Los apoderados de los diestros actuantes, que permanecerán dentro del burladero de callejón asignado para tal efecto, cuando su poderdante se encuentre en turno de lidia podrá acompañar al mozo de espadas en el callejón.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+IV. Un mozo de espadas y un ayudante por cada diestro actuante.
 
 V. Tres delegados, uno de la Asociación Nacional de Matadores de Toros y Novillos, otro de la Unión Mexicana de Picadores y Banderilleros y un tercero de la Asociación Nacional de Criadores de Toros de Lidia.
 
@@ -20057,23 +20289,37 @@ VI. Los monosabios actuantes y encargados de puertas de la barrera.
 
 VII. Los monosabios encargados del zarzo de banderillas.
 
-VIII. Los encargados de los caballos.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-IX. Los alguaciles.
+VIII. Los encargados de los caballos que permanecerán en el callejón únicamente durante la suerte de varas.
 
-X. Los médicos cirujanos a cuyo cargo esté el Servicio Médico de Plaza.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-XI. Los fotógrafos y camarógrafos, previa lista que autorizará la empresa y el Municipio.
+IX. Los alguaciles, que no excederán de dos.
 
-El jefe del callejón, será directamente responsable del cumplimiento de este artículo. No permitir circular por el callejón, ni recargarse sobre la barrera a personas ajenas a la lidia, durante el tiempo de la misma.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+X. Ayuda de capotes y de varas que no excederán de dos por cada uno.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+XI. Los médicos a cuyo cargo esté el Servicio Médico de Plaza.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+XII. Los fotógrafos, camarógrafos y cronistas previa autorización de las Secretaría del H. Ayuntamiento y Dirección General de Gobierno. Los cronistas que tengan en su actividad transmisiones en vivo, por radio y/o televisión o que por su labor informativa tengan que realizar entrevistas a los diestros actuantes, solo lo podrán hacer antes de iniciar el festejo y una vez concluida la faena.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+La autorización referida en la fracción XII del presente artículo, será a través de acreditación ante la Secretaria del H. Ayuntamiento y Dirección General de Gobierno. El Jefe de Callejón será el responsable de situar y vigilar su estancia en el callejón permitiendo su trabajo sin interrumpir en ningún momento la lidia en el ruedo y sin entorpecer la función de los subalternos y monosabios en el callejón. Asimismo los fotógrafos, camarógrafos y cronistas en ningún momento podrán entrar al ruedo una vez iniciado el festejo y hasta que el último miembro de las cuadrillas haya salido del mismo.
 
 ###### ARTÍCULO 1480.
 
 En las corridas de toros y novilladas con picadores, los lidiadores vestirán el traje de luces. Para la lidia se usarán los avíos que los mismos toreros proporcionen y que deberán ser del uso corriente y admitido por la tradición, sin que se toleren modificaciones, ni en el vestir, no en los utensilios para la lidia, sin previo permiso de la autoridad.
 
-###### ARTÍCULO 1481.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-El matador más antiguo, es el jefe de las cuadrillas, y a su cargo están el orden y la dirección de la lidia. La dirección general de la lidia, encomendada al primer matador, es sin perjuicio de la particular que cada diestro corresponde en su toro.
+ARTÍCULO. 1481.- El lidiador más antiguo, es el jefe de las cuadrillas, y a su cargo están el orden y la dirección de la lidia. La dirección general de la lidia, encomendada al primer lidiador, es sin perjuicio de la particular que cada diestro corresponde en su toro.
 
 ###### ARTÍCULO 1482.
 
@@ -20085,45 +20331,55 @@ Queda prohibido participar en la lidia a cualquier persona no anunciada, sancion
 
 Cualquier espontáneo será acreedor a las multas que señala este Código, independientemente de las infracciones o ilícitos cometidos.
 
-###### ARTÍCULO 1484.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
-En plazas de primera categoría, la cuadrilla de cada matador estará compuesta, por lo menos de tres picadores, dos titulares y un suplente, este último saldrá únicamente en caso de urgencia, y tres banderilleros, excepto en el caso de que el matador no mate más de una res, pues entonces no serán menos de dos y dos.
+ARTÍCULO. 1484.- En plazas de primera categoría, la cuadrilla de cada lidiador estará compuesta, por lo menos de tres picadores, dos titulares y un suplente, este último saldrá únicamente en caso de urgencia, y tres banderilleros, excepto en el caso de que el lidiador no mate más de una res, pues entonces no serán menos de dos y dos.
 
-El personal de cuadrilla no podrá abandonar la plaza, sino hasta que haya sido apuntillada la última res, comprendiéndose en este caso, a los matadores o novilleros, salvo caso de fuerza mayor.
+Los lidiadores y personal de cuadrilla no podrán abandonar la plaza, sino hasta que haya sido apuntillada la última res, salvo caso de fuerza mayor.
 
-La cuadrilla del matador en turno podrá permanecer en el callejón. Las demás deberán estar en los burladeros del callejón.
+La cuadrilla del lidiador en turno podrá permanecer en el callejón. Las demás deberán estar en los burladeros del callejón.
 
-A ninguna persona le será permitido sacar el estoque, ahondarlo y herir o molestar al toro, desde el callejón o burladero.
+A ninguna persona le será permitido sacar el estoque, ahondarlo y herir o molestar a la res, desde el callejón o burladero.
 
 ###### ARTÍCULO 1485.
 
 Previo permiso del Juez de Plaza, podrá obsequiarse una o más reses, las que siempre deberán ser de las reservas de este festejo. Si éstas han salido, sólo se permitirá la lidia de las que llenen los requisitos de este Código, jugándose al final de la lidia ordinaria y respetándose en su lidia los artículos respectivos del mismo.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+El anuncio de una res de regalo por parte de un lidiador, previa autorización del Juez de Plaza, deberá hacerse al finalizar el segundo tercio de la última res de la lidia ordinaria.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1486.
 
-Cuando una plaza de primera categoría, anuncie un festejo en el que deba participar un solo matador, será obligatorio que figuren dos sobresalientes. En caso de tratarse de corrida de toros, uno de ellos deberá ser matador de alternativa; en todo caso los novilleros que actúen como sobresalientes, deberán haber actuado en una plaza de primera categoría.
+Cuando una plaza de primera categoría, anuncie un festejo en el que deba participar un solo lidiador, será obligatorio que figuren dos sobresalientes. En caso de tratarse de corrida de toros, uno de ellos deberá ser matador de alternativa; en todo caso los novilleros que actúen como sobresalientes, deberán haber actuado en una plaza de primera categoría.
 
-Cuando en el festejo actúen sólo dos matadores, figurará un sobresaliente, que será novillero y que ha de reunir las características señaladas en el párrafo anterior.
+Cuando en el festejo actúen sólo dos lidiadores, figurará un sobresaliente. En caso de corrida de toros será matador de toros con alternativa y/o a falta de este será un novillero que ha de reunir las características señaladas en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1487.
 
-El Juez de Plaza para decidir sobre la suspensión de una corrida por lluvia, deberá oír la opinión del matador más antiguo, quien a su vez consultará el caso con sus alternantes; si los lidiadores no se ponen de acuerdo, será el Juez de Plaza quien resuelva lo conducente.
+El Juez de Plaza para decidir sobre la suspensión de un festejo por lluvia, deberá oír la opinión del lidiador más antiguo, quien a su vez consultará el caso con sus alternantes; si los lidiadores no se ponen de acuerdo, será el Juez de Plaza quien resuelva lo conducente.
 
-Si la corrida se suspendiera por cualquier causa, muerto el primer toro, se devolverá la mitad del importe de la entrada; una vez muerto el segundo toro, no habrá lugar a devolución alguna.
+Si el festejo se suspendiera por cualquier causa, muerta la primera res, se devolverá la mitad del importe de la entrada; una vez muerta la segunda res no habrá lugar a devolución alguna.
 
 ###### ARTÍCULO 1488.
 
 Se prohíbe la realización de colectas en cualquier lugar de la plaza durante la realización de la faena.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1489.
 
-Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una res y otra, será permitida la venta de golosinas y refrescos, los cuales serán servidos en envases reciclables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los compradores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. Queda prohibido el acceso y venta de periódicos, así como la distribución de volantes y cualquier tipo de propaganda no autorizada.
+Durante la lidia estará prohibida la venta y/o distribución de cualquier mercancía. Entre una res y otra, será permitida la venta de alimentos, golosinas, refrescos, bebidas, hielo, artículos taurinos y otros, así como bebidas alcohólicas previa autorización de la Autoridad Municipal. Toda bebida y alimento deberán ser servidos en envases desechables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los consumidores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. El acceso, distribución y venta de periódicos, revistas y/o folletos, así como la distribución de volantes y cualquier tipo de propaganda deberá ser autorizada por la empresa sujetándose a lo estipulado por la reglamentación municipal.
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1490.
 
-La suerte de rejones seguirá las formas y modalidades que se establecen en este Código, ya sea en la actuación de uno o más rejoneadores en una corrida o novillada o en la celebración de corridas exclusivamente con rejoneadores.
+La suerte de rejones seguirá las formas y modalidades que se establecen en este Código, ya sea en la actuación de uno o más rejoneadores en un festejo en los que también actúan lidiadores a pie o en la celebración de festejos exclusivos con rejoneadores.
 
 ###### ARTÍCULO 1491.
 
@@ -20135,11 +20391,15 @@ II. Banderillas.
 
 III. Rejones de muerte.
 
-A cada toro podrán ponerle tres rejones de castigo, como máximo.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
+A cada res podrán ponerle tres rejones de castigo, como máximo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1492.
 
-Los rejoneadores no podrán clavar a cada toro más de tres rejones de castigo, y tres o cuatro farpas o pares de banderillas, a juicio del Juez de Plaza, el cual hará el cambio de tercio para que el caballista emplee los rejones de muerte, de los que necesariamente habrá de clavar dos, antes de echar pie a tierra. Si a los cinco minutos de hecho el cambio no hubiera muerto la res, se tocará el primer aviso y dos minutos después el segundo, en cuyo momento habrá de retirarse a echar pie a tierra, si hubiere de matarla, en cuyo cometido no empleará más de cinco minutos; pasado este tiempo se le dará el tercer aviso y será de vuelta la res a los corrales.
+Los rejoneadores no podrán clavar a cada res más de tres rejones de castigo, y tres o cuatro farpas o pares de banderillas, a juicio del Juez de Plaza, el cual hará el cambio de tercio para que el caballista emplee los rejones de muerte, de los que necesariamente habrá de clavar dos, antes de echar pie a tierra. Si a los cinco minutos de hecho el cambio no hubiera muerto la res, se tocará el primer aviso y dos minutos después el segundo, en cuyo momento habrá de retirarse a echar pie a tierra, si hubiere de matarla, en cuyo cometido no empleará más de cinco minutos; pasado este tiempo se le dará el tercer aviso y será devuelta la res a los corrales.
 
 Cuando la muerte corra a cargo del sobresaliente, éste contará con los cinco minutos mencionados para el rejoneador en el párrafo anterior, con los efectos subsecuentes.
 
@@ -20163,23 +20423,27 @@ Los rejoneadores estarán obligados a presentar tantos caballos más uno como re
 
 Para cualquier suerte extra, el rejoneador deberá pedir expresamente, permiso al Juez de Plaza.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1496.
 
-Harán el toreo a caballo y las demostraciones ecuestres del lucimiento que deseen.
-
-El tiempo máximo, que en este caso preciso, podrá actuar el o los caballistas, en cada toro, no podrá exceder de diez minutos, de la salida del toro.
+Harán el toreo a caballo y las demostraciones ecuestres del lucimiento que deseen. El tiempo máximo, que en este caso preciso, podrá actuar el o los caballistas, en cada toro, no podrá exceder de diez minutos, de la salida de la res.
 
 ###### ARTÍCULO 1497.
 
 La autoridad señalará con un toque del clarín, el momento en el cual debe terminar la actuación del rejoneador, pero éste podrá solicitar el cambio de tercio si así lo desea, antes de tal orden, descubriéndose precisamente ante el Juez de Plaza.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1498.
 
-La cuadrilla de un rejoneador, constará de dos peones de brega y de un sobresaliente novillero. Cuando el rejoneador en una corrida mate dos toros, deberá incluir en su cuadrilla tres banderilleros.
+La cuadrilla de un rejoneador, constará de dos peones de brega y de un sobresaliente novillero. Cuando el rejoneador en un festejo mate dos reses, deberá incluir en su cuadrilla tres peones de brega.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1499.
 
-Los peones de brega que asistan a los caballistas y forcados serán los mismos en cada toro para los de a caballo y para los pegadores, pero no podrán actuar estos mismos peones con otro caballista en la misma corrida.
+Los peones de brega que asistan a los caballistas y forcados serán las mismos en cada res para los de a caballo y para los pegadores, pero no podrán actuar estos mismos peones con otro caballista en el mismo festejo.
 
 ###### ARTÍCULO 1500.
 
@@ -20199,9 +20463,11 @@ Podrá otorgar la alternativa un rejoneador a otro, que no la tenga, sólo si ac
 
 Los grupos de forcados, deberán actuar como tales respetando la usanza portuguesa, tanto en el desarrollo del acto tauromáquico como en los trajes con los que se presenten; por ningún motivo podrá variarse su atuendo si anuncia el espectáculo a esta usanza.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1504.
 
-Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos con fundas, lo cual decidirá "El Cabo" del acto al Municipio, en los programas se anunciará esta característica.
+Las reses para forcados podrán estar sin puntas, embolados o cubrir los cuernos con fundas, lo cual decidirá "El Cabo" e informará del acto al Municipio, en los programas se anunciará esta característica.
 
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -22190,3 +22456,7 @@ P.O. 25 DE AGOSTO DE 2014.
 I.- Con fundamento en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos; 66 de la Constitución Política del Estado de Aguascalientes; 16, 36 fracciones I y XXXIX, 47, 91 fracciones II y III de la Ley Municipal para el Estado de Aguascalientes; 71 fracción I y demás relativos y aplicables del Código Municipal de Aguascalientes; se aprueba el presente Dictamen relativo a la iniciativa de reforma al Artículo 98 fracción IX del Código Municipal de Aguascalientes, en los términos propuestos.
 
 II.- La presente reforma entrará en vigor el día hábil siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE OCTUBRE DE 2014.
+
+Primero (sic).- Las modificaciones al presente Código entrarán en vigor el día siguiente al de su publicación.
