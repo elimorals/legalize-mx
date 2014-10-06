@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-contraloria-y-88546"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-02"
-last_updated: "2012-07-02"
+last_updated: "2014-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DE 6 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de julio de 2012.
 
@@ -850,3 +852,15 @@ Dado en la Residencia oficial del Poder Ejecutivo del Estado de Hidalgo, en la c
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO.
 
 LICENCIADO JOSE FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Decreto Gubernamental publicado en el Periódico Oficial del Estado de Hidalgo el 2 de julio del 2012, que contiene el Reglamento Interior de la Secretaría de Contraloría y Transparencia Gubernamental.
+
+TERCERO. Cuando el presente Reglamento confiera atribuciones a unidades administrativas con funciones equivalentes que se encuentren señaladas en otras disposiciones, con distintas denominaciones, se entenderá que corresponden a las unidades previstas en este Reglamento.
+
+CUARTO. En tanto se expidan los Manuales de Organización, de Procedimientos y de Servicios al Público, el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
