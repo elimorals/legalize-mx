@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-95349"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-08-12"
-last_updated: "2013-08-12"
+last_updated: "2014-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95349&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-07-15"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 6 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 12 de agosto de 2013.
 
@@ -865,7 +867,7 @@ Las Delegaciones Regionales se apoyarán en las Comisiones Consultivas Regionale
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo número 1577, tomado en la sesión ordinaria número 102 de la H. Asamblea General, celebrada el 27 de abril de 2012, publicado en el Diario Oficial de la Federación los días 14 de agosto y 23 de noviembre 2012 (sic).
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo número 1577, tomado en la sesión ordinaria número 102 de la H. Asamblea General, celebrada el 27 de abril de 2012, publicado en el Diario Oficial de la Federación los días 14 de agosto y 23 de noviembre (sic) 2012.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -878,3 +880,15 @@ Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación e
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de julio del año dos mil trece, en cumplimiento al Acuerdo número 1625, tomado en la sesión ordinaria número 105 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General, Alejandro Lozano Botello.- Rúbrica.- El Secretario Técnico de Órganos Colegiados, Javier Delgado Parra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo número 1625, tomado en la sesión ordinaria número 105 de la H. Asamblea General, celebrada los días 25 y 30 de abril de 2013, el cual fue publicado en el Diario Oficial de la Federación el 12 de agosto de 2013.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
