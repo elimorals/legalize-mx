@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-89444"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-09-20"
-last_updated: "2012-09-20"
+last_updated: "2014-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-09-10"
 
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN, PUBLICADO EN EL D.O.F. 6 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2014 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de septiembre de 2012.
 
@@ -628,3 +630,21 @@ CUARTO. El Director General del Archivo General de la Nación, en representació
 QUINTO. El presente Estatuto fue aprobado por Acuerdo No. (S) OG-O-I-12-5 en la Primera Sesión del Organo de Gobierno del Archivo General de la Nación, celebrada el 22 de mayo de dos mil doce.- Presidente, Alejandro Poiré Romero, Secretario de Gobernación; Secretario, Ernesto González Cancino, Oficial Mayor de la Secretaría de Gobernación; Miembros, Julian Luviano Chávez, Director General de Recursos Materiales y Servicios Generales de la Secretaría de Hacienda y Crédito Público, Guillermo Edmundo Bernal Miranda, Oficial Mayor de la Secretaría de Educación Pública.
 
 México, D.F., a 10 de septiembre de 2012.- Hace constar lo anterior el Oficial Mayor de la Secretaría de Gobernación, Ernesto González Cancino, en ejercicio de la atribución que le confiere lo dispuesto por el Acuerdo (R) OG-O-I-12-3 de la Primera Sesión del Organo de Gobierno del Archivo General de la Nación, celebrada el 22 de mayo de dos mil doce.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Estatuto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Organismo, publicado en el Diario Oficial de la Federación el 20 de septiembre de 2012.
+
+TERCERO. Quedan sin efecto las disposiciones anteriores que contravengan lo dispuesto en este Estatuto.
+
+CUARTO. Las Reglas de Operación de los programas sustantivos y demás disposiciones administrativas vigentes a la entrada en vigor de este Estatuto, se continuarán aplicando, en lo que no se opongan al presente Instrumento, y en tanto se expiden las nuevas disposiciones.
+
+QUINTO. El presente Estatuto deberá ser inscrito en el Registro Público de Organismos Descentralizados.
+
+SEXTO. Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las áreas o áreas que cambian de denominación o desaparecen por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas o áreas que correspondan conforme a lo establecido en el presente Acuerdo
+
+SÉPTIMO. El presente Estatuto fue aprobado por Acuerdo No. (R) OG-O-2-14-6.- en la Segunda Sesión Ordinaria del Órgano de Gobierno del Organismo, celebrada el 15 de julio de dos mil catorce.- Presidente Suplente, Lic. Faride Rodríguez Velasco, Titular de la Unidad para el Desarrollo Político y Fomento Cívico; Prosecretaria, Lic. Alba Alicia Mora Castellanos, Directora General Adjunta del Archivo General de la Nación; Miembros, Lic. Martín Hernández Roa, Director General de Programación y Presupuesto de la Secretaría de Gobernación; Lic. Gerardo Moreno Resendiz, Director General Adjunto de Adquisiciones y Contratación de Servicios, de la Secretaría de Hacienda y Crédito Público; Dr. Francisco Burgoa Perea, Director General Adjunto de Promoción a la Historia del INEHRM, de la Secretaría de Educación Pública.
