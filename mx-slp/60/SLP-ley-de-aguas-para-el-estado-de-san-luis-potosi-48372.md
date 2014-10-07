@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2014-08-14"
+last_updated: "2014-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2227,13 +2227,23 @@ Si en el lapso que ocurre entre la expiración del estudio de factibilidad y el 
 
 Una vez recibido el proyecto de urbanización autorizado por el ayuntamiento, el prestador de los servicios procederá a revisar y en su caso aprobar el proyecto hidráulico, notificando al interesado en un plazo no mayor de quince días hábiles.
 
-A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la forma de pago. En este último caso, el fraccionador o urbanizador garantizará el pago de las cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado. Hecho lo anterior, el prestador de los servicios expedirá la carta de factibilidad correspondiente.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+A partir de la notificación de la aprobación del proyecto hidráulico por parte del prestador de los servicios, el fraccionador o urbanizador contará con quince días hábiles para realizar el pago de las cuotas de conexión, o convenir con el prestador de los servicios la factibilidad. Independientemente de lo establecido en el párrafo último del artículo 157, y del artículo 162 de esta Ley, el prestador de servicios tiene la facultad exclusiva para aceptar el pago en contraprestación, mediante convenio de cesión de derechos de aguas nacionales y entrega de obras de la fuente de extracción de agua, con su respectivo equipamiento electromecánico, así como la obra extraordinaria que de común acuerdo se pacte y autorice por el organismo operador o ayuntamiento respectivo, construido por el fraccionador o desarrollador a favor del prestador de los servicios, con base en tabulador de precios unitarios de obra para los conceptos antes mencionados. En este último caso, el fraccionador o urbanizador garantizará el pago de los (sic) cuotas de conexión mediante póliza de fianza u otro medio legalmente aceptado; hecho lo anterior el prestador de los servicios expedirá la carta de factibilidad correspondiente, previa entrega de los planos autorizados por el prestador de los servicios.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+En municipios que tengan registros mayores a cuarenta mil tomas, o donde se encuentre constituido (sic) organismos operadores intermunicipales, la contraprestación a que se refiere el párrafo anterior, sólo aplicará en fraccionamientos o desarrollos urbanos para tomas de agua de cualquier tipo (sic) vivienda.
 
 El prestador de los servicios no podrá emitir la carta de factibilidad si previamente el interesado no ha realizado el pago de las cuotas de conexión, o no ha celebrado el convenio precisado en el párrafo que antecede.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 159 BIS. En caso de que las solicitudes de factibilidad no excedan de nueve tomas por inmueble, el desarrollador deberá celebrar contrato de prestación de servicios ante el ayuntamiento u organismo operador, que equivale a la carta de factibilidad, para cuyo caso le aplicarán las cuotas y tarifas vigentes para la incorporación de nuevos fraccionamientos o desarrollos urbanos, debiendo cumplir con los requisitos que al efecto se le fijen por los ordenamientos correspondientes para la contratación.
+
 ###### ARTICULO 160.
 
-La carta de factibilidad no podrá ser transferida a persona alguna sin el previo consentimiento del prestador de servicios; su vigencia será por un plazo igual al de programación y construcción de las obras que le autorice el prestador de servicios; y será prorrogable a solicitud del fraccionador, hasta por un plazo igual al autorizado originalmente, debiendo actualizar las cuotas vigentes al momento de emitir la prórroga.
+La carta de factibilidad no podrá ser transferida a persona alguna sin el previo consentimiento del prestador de servicios; su vigencia será por un plazo igual al de programación y construcción de las obras que le autorice el prestador de servicios; y será prórrogable a solicitud del fraccionador, hasta por un plazo igual al autorizado originalmente, debiendo actualizar las cuotas vigentes al momento de emitir la prórroga.
 
 Procederá la cancelación de la factibilidad, en caso de incumplimiento a los compromisos contenidos en el convenio respectivo, en su caso, y/o por contravenir las disposiciones de la presente Ley y sus reglamentos.
 
@@ -2719,7 +2729,9 @@ XVI. Emplear mecanismos para succionar agua sin la autorización correspondiente
 
 XVII. Las demás que se deriven de la presente Ley y sus reglamentos.
 
-ARTCULO (SIC) 207. Por violación a lo dispuesto en las fracciones del artículo 206 de esta Ley, procederá la aplicación de las siguientes sanciones:
+###### ARTICULO 207.
+
+Por violación a lo dispuesto en las fracciones del artículo 206 de esta Ley, procederá la aplicación de las siguientes sanciones:
 
 I. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se aplicarán multas por un monto entre cien a doscientos días de salario mínimo general vigente en el Estado;
 
@@ -3234,3 +3246,11 @@ P.O. 14 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto
+
+P.O. 7 DE OCTUBRE DE 2014.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el (sic) Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Respecto de aquellas solicitudes de factibilidad que se encuentren en trámite al inicio de la vigencia de este Decreto, les serán aplicables estas disposiciones siempre y cuando no se haya suscrito el convenio de incorporación a los sistemas de agua potable de los ayuntamientos u organismos operadores, pudiendo celebrar nuevo convenio en el que se podrán modificar o ratificar los compromisos establecidos, incluyendo lo correspondiente al pago de cuotas y tarifas.
