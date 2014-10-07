@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5707
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2012-10-06"
+last_updated: "2014-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -223,9 +223,17 @@ VIII. Secretaría de Salud;
 
 IX. Secretaría del Trabajo y Previsión Social;
 
-X. Secretaría de Cultura, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2014)</small>
 
-XI. Los representantes de las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
+X. Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+XI. Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+XII. Los representantes de las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
 
 ###### ARTICULO 14.
 
@@ -567,9 +575,33 @@ IV. Apoyar a través de acciones, programas y proyectos culturales, a las vícti
 
 V. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPITULO XI. Atribución de los Municipios
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO XI. Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 25 BIS. Corresponde al Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas:
+
+I. Incorporar la perspectiva de género en todos los programas y acciones que despliegue en las comunidades indígenas, poniendo énfasis en la no discriminación y la prevención de la violencia contra las mujeres;
+
+II. Compartir la información cuantitativa y cualitativa lo más actualizada posible de las comunidades indígenas de la Entidad para alimentar el Banco Estatal de Datos e Información sobre la Violencia contra las Mujeres, y contribuir a la elaboración del diagnóstico que sirva de base al Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+III. Implementar la coordinación con las entidades y organizaciones que formen parte del Sistema, acciones conjuntas en las comunidades indígenas a favor de la equidad de género y la prevención de la violencia contra las mujeres;
+
+IV. Coadyuvar en la promoción de los derechos humanos de las mujeres indígenas;
+
+V. Orientar y canalizar ante las autoridades competentes a las mujeres indígenas víctimas de violencia;
+
+VI. Coordinar a las entidades y organizaciones que formen parte del sistema, la implementación de talleres de sensibilización, capacitación y formación sobre la complejidad de la problemática y la prevención de la violencia hacia las mujeres indígenas, a funcionarios que integren dichas entidades y organizaciones;
+
+VII. Coordinar a las entidades y organizaciones que formen parte del sistema para acercar los servicios de información, a capacitación para la prevención del delito y, en particular, la prevención de la violencia intrafamiliar dirigida a mujeres indígenas, y
+
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 7 DE OCTUBRE DE 2014)
+
+### CAPÍTULO XII. Atribución de los Municipios
 
 ###### ARTICULO 26.
 
@@ -599,7 +631,7 @@ XI. La atención de los demás asuntos que en materia de violencia contra las mu
 
 ## TITULO QUINTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPITULO I. Ordenes de Protección
+### CAPITULO UNICO
 
 ###### ARTICULO 27.
 
@@ -633,7 +665,7 @@ XIII. Diseñar un modelo integral de atención a los derechos de las mujeres, qu
 
 ## TITULO SEXTO. MEDIDAS DE PROTECCION
 
-### CAPITULO II. Alerta de Violencia de Género contra las Mujeres
+### CAPITULO I. Ordenes de Protección
 
 ###### ARTICULO 28.
 
@@ -735,7 +767,7 @@ Las personas menores de dieciocho años de edad podrán solicitar a las autorida
 
 Atendiendo al interés superior del menor, las órdenes de protección preventivas podrán ser solicitadas por cualquier persona que tenga conocimiento del riesgo en que éste se encuentre.
 
-### CAPITULO I. Atención a las Víctimas
+### CAPITULO II. Alerta de Violencia de Género contra las Mujeres
 
 ###### ARTICULO 36.
 
@@ -781,7 +813,7 @@ d) La verificación de los hechos y la publicidad de la verdad.
 
 ## TITULO SEPTIMO. ATENCION A LAS VICTIMAS Y DE LOS REFUGIOS
 
-### CAPITULO II. Refugios para las Víctimas de Violencia
+### CAPITULO I. Atención a las Víctimas
 
 ###### ARTICULO 39.
 
@@ -822,6 +854,8 @@ IX. En los casos de violencia familiar, las mujeres que tengan hijas o hijos pod
 ###### ARTICULO 41.
 
 Quien haya ejercido violencia contra las mujeres deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente. En todos los demás casos en que no exista mandato de autoridad, se procurará sensibilizar y orientar al agresor, para que acuda a instituciones que presten servicios reeducativos en la materia.
+
+### CAPITULO II. Refugios para las Víctimas de Violencia
 
 ###### ARTICULO 42.
 
@@ -950,6 +984,12 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
