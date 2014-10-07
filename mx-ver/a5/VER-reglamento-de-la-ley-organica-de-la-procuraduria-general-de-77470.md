@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-774
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-17"
-last_updated: "2010-11-17"
+last_updated: "2014-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de noviembre de 2010.
 
@@ -465,7 +465,7 @@ XVII. Ordenar a sus Auxiliares para que tomen las medidas necesarias en la prese
 
 XVIII. Solicitar al Procurador, previo acuerdo con el Subprocurador Regional, la intervención de comunicaciones privadas, en términos de lo previsto en el Código de Procedimientos.
 
-XIX. Solicitar al Juez competente con acuerdo fundado y motivado, las órdenes de aprehensión, comparecencia y de cateo, contra los indiciados, así mismo (sic) deberá solicitarse en iguales términos, la práctica de diligencias en Las Notarías Públicas y en sus protocolos, corredurías públicas y en sus respectivos archivos, cuando resulte necesario intervenir, inspeccionar y dar fe de los elementos de algún instrumento, que permita el esclarecimiento de los hechos denunciados, y donde pudiera resultar la probable responsabilidad de dichos fedatarios.
+XIX. Solicitar al Juez competente con acuerdo fundado y motivado, las órdenes de aprehensión, comparecencia y de cateo, contra los indiciados, así mismo deberá solicitarse en iguales términos, la práctica de diligencias en Las Notarías Públicas y en sus protocolos, corredurías públicas y en sus respectivos archivos, cuando resulte necesario intervenir, inspeccionar y dar fe de los elementos de algún instrumento, que permita el esclarecimiento de los hechos denunciados, y donde pudiera resultar la probable responsabilidad de dichos fedatarios.
 
 XX. Dictar, a solicitud del ofendido o de su representante legítimo, las providencias necesarias para restituirlo en el goce de sus derechos, siempre que estén legalmente acreditados, observando en todo caso lo dispuesto en el artículo 51 del Código de Procedimientos.
 
@@ -567,7 +567,7 @@ II. Dictar el acuerdo de inicio que proceda, disponiendo de las pruebas que requ
 
 III. Disponer del apoyo de los Policías Ministeriales de la AVI o cualquier otra corporación policial para el ejercicio de su función; así como de la orientación pericial que en el caso se requiera.
 
-IV. Dictar el acuerdo de envío a la Agencia del Ministerio Público Investigador, que por demarcación territorial o por la índole de la materia corresponda seguir conocimiento (sic) de los hechos, una vez recepcionadas, la denuncia, la querella y en su caso, el material de prueba, cuyo desahogo sea emergente, dando aviso a la Subprocuraduría Regional de la Zona.
+IV. Dictar el acuerdo de envío a la Agencia del Ministerio Público Investigador, que por demarcación territorial o por la índole de la materia corresponda seguir conocimiento de los hechos, una vez recepcionadas, la denuncia, la querella y en su caso, el material de prueba, cuyo desahogo sea emergente, dando aviso a la Subprocuraduría Regional de la Zona.
 
 Sólo por acuerdo discrecional del Procurador o del Subprocurador Regional, el Agente del Ministerio Público Investigador Móvil podrá continuar conociendo de la indagatoria, hasta estar en condiciones de ejercer la acción penal correspondiente; caso en el que dictará acuerdo de envío a la Agencia del Ministerio Público Investigador que deba conocer en razón de la circunscripción territorial asignada, quien emitirá el acuerdo de determinación que en estricto derecho corresponda.
 
@@ -967,7 +967,7 @@ IX. Llevar el control de los libros de Gobierno de registro cronológico de las 
 
 X. Certificar, previo acuerdo con el Agente del Ministerio Público a cargo, las copias autorizadas que deban proporcionarse a los interesados en virtud de mandamiento dictado por aquél.
 
-XI. Cuidar que en el archivo de la Agencia del Ministerio Público o del área la (sic) que se encuentren adscritos, se conserven los expedientes en buen estado, los que deberán estar inventariados y en orden numérico consecutivo, autorizando su consulta a quien tenga la personalidad jurídica reconocida; igualmente y por instrucciones del Agente del Ministerio Publico, remitir las Investigaciones Ministeriales a la Superioridad, debiendo entregarlas con la formalidad de Ley, así como las investigaciones ministeriales que se encuentren concluidas serán enviadas de inmediato al Archivo Central de la Procuraduría.
+XI. Cuidar que en el archivo de la Agencia del Ministerio Público o del área (sic) la que se encuentren adscritos, se conserven los expedientes en buen estado, los que deberán estar inventariados y en orden numérico consecutivo, autorizando su consulta a quien tenga la personalidad jurídica reconocida; igualmente y por instrucciones del Agente del Ministerio Publico, remitir las Investigaciones Ministeriales a la Superioridad, debiendo entregarlas con la formalidad de Ley, así como las investigaciones ministeriales que se encuentren concluidas serán enviadas de inmediato al Archivo Central de la Procuraduría.
 
 XII. Coadyuvar y vigilar que se desahoguen y despachen los asuntos, exhortos, requisitorias y correspondencia del Agente del Ministerio Publico, dentro del menor tiempo posible, así como llevar estricta vigilancia de la secuela de las indagatorias que se ventilen ante esa Autoridad.
 
@@ -1329,7 +1329,7 @@ XXIX. Proponer al Procurador, en coordinación con el Director General de Admini
 
 XXX. Previo acuerdo del Procurador, autorizar a los Agentes del Ministerio Público, cuando así se requiera por las necesidades del servicio, la habilitación de un miembro del personal para que desempeñe la función de Oficial Secretario, informando al respecto a la Dirección General de Administración.
 
-XXXI. Solicitar a la Procuraduría General de la República y/o de las entidades federativas, el auxilio o colaboración para la práctica en las diligencias de investigaciones ministeriales y cumplimiento de órdenes de aprehensión, en términos del artículo 119 de la Constitución General y de acuerdo con los convenios de colaboración, suscritos con la Procuraduría General de la República, la Procuraduría de Justicia Militar, la Procuraduría General de Justicia del Distrito Federal y las procuradurías generales de justicia de los estados cuidando el respeto los (sic) derechos humanos.
+XXXI. Solicitar a la Procuraduría General de la República y/o de las entidades federativas, el auxilio o colaboración para la práctica en las diligencias de investigaciones ministeriales y cumplimiento de órdenes de aprehensión, en términos del artículo 119 de la Constitución General y de acuerdo con los convenios de colaboración, suscritos con la Procuraduría General de la República, la Procuraduría de Justicia Militar, la Procuraduría General de Justicia del Distrito Federal y las procuradurías generales de justicia de los estados cuidando el respeto (sic) los derechos humanos.
 
 XXXII. Solicitar a la Procuraduría General de la República y/o de las entidades federativas, el auxilio o colaboración para la práctica de diligencias de investigación ministerial, y cumplimiento de extradición internacional, en términos de los artículos 21 y 119 de la Constitución General; 3, 4, 9, 10, 11 y 13 de la Ley General del Sistema Nacional de Seguridad Pública, de acuerdo con los convenios de colaboración celebrados, con total respeto a los derechos humanos, conforme a la Ley de Extradición Internacional y Tratados Internacionales.
 
@@ -1399,7 +1399,7 @@ VI. Instituir los mecanismos y políticas necesarias para el desarrollo de las a
 
 VII. Coordinarse con las Procuradurías de las entidades federativas y del Distrito Federal, en términos de los Convenios de Colaboración celebrados con la Institución, a fin de coadyuvar en la investigación de los ilícitos competencia de las agencias especializadas a que se ha hecho referencia.
 
-VIII. Coordinar a las (sic) Agentes del Ministerio Público Investigador Especializadas en Delitos contra la Libertad y la Seguridad Sexual y contra la Familia.
+VIII. Coordinar a las Agentes del Ministerio Público Investigador Especializadas en Delitos contra la Libertad y la Seguridad Sexual y contra la Familia.
 
 IX. Solicitar al Ministerio Público la práctica de las diligencias necesarias para el debido ejercicio de las atribuciones que tienen asignadas.
 
@@ -2789,7 +2789,9 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 La consulta a la base de datos del Centro de Evaluación y Control de Confianza que se establezca en su momento, sólo podrá realizarse por conducto de la oficina del procurador.
 
-## TÍTULO SEGUNDO. DE LA AGENCIA VERACRUZANA DE INVESTIGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+## TÍTULO SEGUNDO. DE LA POLICÍA MINISTERIAL
 
 ### CAPÍTULO I. DE LA AGENCIA VERACRUZANA DE INVESTIGACIONES
 
@@ -3041,61 +3043,101 @@ XII. Las demás que les confieran otras disposiciones legales y la Superioridad.
 
 Las funciones, atribuciones y obligaciones que compete desempeñar a los Jefes de Departamento y demás áreas deberán contemplarse en los manuales de organización, procedimientos y servicios que emita la AVI, precisándose la categoría de los titulares de esas áreas y el personal de apoyo con que deban contar para el ejercicio de sus funciones.
 
-### CAPÍTULO II. DE LA UNIDAD ESPECIALIZADA EN COMBATE AL SECUESTRO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II. DE LA COORDINACIÓN Y SUBCOORDINACIONES DE LA UNIDAD ESPECIALIZADA EN COMBATE AL SECUESTRO
 
 ###### Artículo 159.
 
 La Unidad Especializada en Combate al Secuestro estará a cargo de un titular que será un Agente del Ministerio Público Investigador Especializado y tendrá el carácter de Coordinador, será designado y removido por el Procurador.
 
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+La Unidad Especializada tendrá su sede en la ciudad de Xalapa, y su Coordinador tendrá competencia en todo el territorio del Estado.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 160.
 
-La Unidad Especializada en Combate al Secuestro tendrá las siguientes atribuciones:
+El Coordinador, en materia de investigación, y los Subcoordinadores de la Unidad Especializada en Combate al Secuestro, tendrán las facultades señaladas en el artículo 43 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro; a las que se suman las siguientes:
 
-I. Prevenir, investigar y perseguir, en todo el territorio del Estado, los delitos a que hacen referencia los artículos del 163 al 167 del Código Penal, en términos de las disposiciones legales que regulan la función del Ministerio Público.
+I. Investigar y perseguir, en todo el territorio del Estado, los delitos a que hace referencia la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en términos de las disposiciones legales que regulan la función del Ministerio Público.
 
-II. Iniciar la investigación ministerial, sobre las denuncias presentadas con motivo de los delitos señalados en la fracción anterior y de los hechos de los que tenga noticia y, que sin ser denunciados, puedan ser constitutivos de dicho ilícito.
+II. Iniciar la investigación sobre las denuncias que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan ser constitutivos de dicho ilícito;
 
-III. Las demás que le señalen otras disposiciones legales o reglamentarias, el Director General de la AVI o el Procurador.
+III. Vigilar que durante la investigación del delito se cumpla estrictamente con los derechos humanos reconocidos en la Constitución y en los Tratados Internacionales de los que México es parte.
+
+IV. Resguardar la identidad de la víctima u ofendido, y demás datos personales para su protección, salvaguardando en todo caso los derechos de la defensa. De igual manera tratándose de personas menores de edad o de víctimas u ofendidos, que deban participar en el reconocimiento de personas, dispondrá de medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional, para ello deberá contar, en su caso, con el auxilio de peritos y con la asistencia del representante del menor de edad, de conformidad con la legislación aplicable.
+
+V. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los datos de prueba que configuren los indicios del posible delito, así como cerciorarse de que se han seguido las reglas y protocolos para la preservación y procesamiento de éstas.
+
+VI. Cumplir y vigilar que se cumpla con las disposiciones normativas aplicables en materia de cadena de custodia, en acatamiento de las funciones propias de su encargo o actividad, y que tengan contacto con los indicios, vestigios, evidencias, objetos, instrumentos o productos del hecho delictivo.
+
+VII. Solicitar, cuando estime necesario por cualquier medio, la autorización judicial para la práctica de un cateo, en razón de que el lugar a inspeccionar sea un domicilio o una propiedad privada; expresando el lugar que ha de inspeccionarse, la persona o personas que han de aprehenderse y los objetos que se buscan, señalando los motivos e indicios que sustentan la necesidad de la orden, así como los servidores públicos que podrán practicar o intervenir en dicho acto de investigación.
+
+VIII. En el caso de los Subcoordinadores, solicitar al Coordinador, las peticiones que en términos de la fracción XIII del artículo 161 del presente Reglamento, autorizan la intervención de comunicaciones privadas conforme a la normatividad aplicable.
+
+IX. Coordinar el apoyo con las autoridades competentes, tanto federales como de las entidades federativas en los términos de los convenios de coordinación vigentes, bases e instrumentos jurídicos suscritos para tal efecto.
+
+X. Coordinar las campañas de prevención del delito en materia de secuestro.
+
+XI. Las demás que señalen otras disposiciones legales o reglamentarias.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 161.
 
 El Coordinador de la Unidad Especializada en Combate al Secuestro ejercerá las facultades siguientes:
 
-I. Acordar con el Director General de la AVI el despacho de los asuntos de su competencia y de las áreas administrativas y operativas a su cargo.
+I. Diseñar, proponer e impulsar políticas de apoyo, protección y respaldo a las víctimas y sus familiares;
 
-II. Desempeñar las funciones y comisiones que el Procurador o el Director de la AVI le encomienden e informarles sobre el desarrollo de las mismas.
+II. Formular políticas integrales sistemáticas, continuas y evaluables, así como programas y estrategias para el combate de las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro;
 
-III. Planear, coordinar y evaluar las actividades de la Unidad de su adscripción, de conformidad con los lineamientos que determine el Director de la AVI.
+III. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones contra las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro y en el presente Reglamento;
 
-IV. Someter a la consideración del Director General de la AVI la organización interna de las áreas de la Unidad de su adscripción y las normas de coordinación y de operación con otras dependencias y entidades.
+IV. Distribuir, a los Subcoordinadores, actividades específicas para el cumplimiento de los fines de prevención, investigación y persecución de las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro;
 
-V. Proponer al Director General de la AVI la delegación de facultades en servidores públicos subalternos, que se estimen necesarias para el óptimo desarrollo de las mismas.
+V. Determinar criterios para la organización, operación y aplicación tecnológica de la Unidad Especializada de su adscripción como de las Subcoordinaciones, para la aplicación de una investigación eficiente y eficaz;
 
-VI. Integrar por sí o a través de los Agentes del Ministerio Público que le sean adscritos o los comisionados a determinado asunto, las investigaciones ministeriales relacionadas con los delitos de su competencia y conexos, así también, intervenir en los procesos penales que acuerde el Procurador o el Director General de la AVI, relacionados con dichas investigaciones;
+VI. Proponer, al Procurador, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de la misma;
 
-VII. Atraer, en el caso de las agencias del Ministerio Público investigador, previo acuerdo del Procurador, los asuntos que conozcan en materia de secuestro.
+VII. Acordar con el Director de la Policía Ministerial el despacho de los asuntos de su competencia, de las áreas administrativas y operativas a su cargo, así como de las Subcoordinaciones;
 
-Cuando existan delitos conexos, indiciados comunes o relacionados, la Unidad tendrá la facultad especial, más no exclusiva, para conocer de la materia.
+VIII. Planear, coordinar y evaluar las actividades de la Unidad Especializada de su adscripción, así como de las Subcoordinaciones;
 
-VIII. Rendir al Procurador y al Director de la AVI, los informes que le ordenen, así como cualquier otro que estime conveniente.
+IX. Acordar con el Procurador y el Director de la Policía Ministerial, la organización interna de las Subcoordinaciones;
 
-IX. Implementar un sistema de información estadística, respecto de los delitos que le competen.
+X. Acordar con el Procurador y el Director de la Policía Ministerial, las acciones de coordinación y de operación a efectuar con otras dependencias, públicas o privadas, o entidades federativas;
 
-X. Supervisar que el personal a su cargo cumpla debidamente y en los términos de las disposiciones aplicables, con las actividades que le sean asignadas.
+XI. Integrar por sí o a través de los agentes del Ministerio Público adscritos a la Unidad Especializada, las investigaciones relacionadas con los delitos de su competencia y conexos; e intervenir en los procesos penales que acuerde el Procurador o el Director de la Policía Ministerial, relacionados con dichas investigaciones;
 
-XI. Las demás que le señalen otras disposiciones legales o reglamentarias, el Director General de la AVI o el Procurador.
+Cuando existan delitos conexos, indiciados comunes o relacionados, tendrá facultad especial, más no exclusiva, para conocer de la materia;
+
+XII. Atraer, previo Acuerdo con el Procurador y el Director de la Policía Ministerial, los asuntos que conozca en materia de secuestro, y determinar si los conocerá por sí o a través de los Subcoordinadores;
+
+XIII. Solicitar al Procurador, por conducto del Director de la Policía Ministerial, de manera fundada y motivada, expresando el objeto y necesidad de la misma, autorización para pedir al Juez federal de control competente la autorización para practicar la intervención de comunicaciones privadas.
+
+XIV. Rendir un informe estadístico mensual, respecto de los delitos que le competen;
+
+XV. Vigilar que el personal a su cargo, incluyendo el de las Subcoordinaciones, cumpla debidamente, en términos de las disposiciones legales aplicables, con las actividades encomendadas, y
+
+XVI. Las demás que le señalen otras disposiciones legales o reglamentarias, conforme a su naturaleza, o le sean encomendadas por el Procurador.
 
 ###### Artículo 162.
 
 Para el ejercicio de sus funciones la Unidad Especializada contará con los Agentes del Ministerio Público Investigador Especializados, Policías Ministeriales de la AVI, Peritos y demás personal que resulte necesario; así como, con las áreas siguientes:
 
-I. Un Consultor en Seguridad.
+> <small>(ADICIONADA, G.O. 7 DE OCTUBRE DE 2014)</small>
 
-II. Departamento de Investigaciones Ministeriales.
+I. Subcoordinaciones
+
+II. Un Consultor en Seguridad.
+
+III. Departamento de Investigaciones Ministeriales.
 
 a) Agentes del Ministerio Público Especializados.
 
-III. Departamento de Análisis de Información y Contrainteligencia.
+IV. Departamento de Análisis de Información y Contrainteligencia.
 
 a) Plataforma México.
 
@@ -3105,21 +3147,69 @@ c) Oficina de Análisis Táctico.
 
 d) Oficina de Delitos Cibernéticos.
 
-IV. Departamento de Gestión de Crisis y Negociación.
+V. Departamento de Gestión de Crisis y Negociación.
 
 a) Oficina de Operaciones Especiales.
 
-b) Grupos de Negociadores.
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2014)</small>
 
-V. Policías Cibernéticos.
+b) Grupo de Negociadores
+
+VI. Policías Cibernéticos.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 162 Bis.
+
+Los Subcoordinadores, serán Agentes del Ministerio Público Investigadores Especializados, designados y removidos por el Procurador; mismos que tendrán su sede en los Distritos Judiciales de Tuxpan, Córdoba y Coatzacoalcos.
+
+El Procurador podrá, dentro de la jurisdicción territorial de las sedes antes mencionadas, designar a los Agentes del Ministerio Público Especializados que se requieran por las necesidades del servicio.
+
+Los Subcoordinadores que determinen el ejercicio de la acción penal, deberán informarlo, además de la Coordinación y de la Dirección de la Policía Ministerial, a la Dirección General de Control de Procesos y Litigación, para que ésta intervenga en ejercicio de sus atribuciones establecidas en el presente Reglamento.
+
+Asimismo, deberán llevar la información estadística permanente y actualizada de todas aquellas investigaciones que inicien, debiendo informar inmediatamente a la Coordinación, y a su vez reportarla a los titulares de la Dirección del Centro de Información y de la Dirección General de Investigaciones Ministeriales, para un correcto seguimiento y sistematización de la información, así como para mantener permanentemente actualizada la página electrónica de la Institución.
+
+Cada Subcoordinación, para el debido ejercicio de sus funciones, se integrará por un Subcoordinador, Policías Ministeriales, Peritos y demás personal que resulte necesario; así como con las áreas siguientes:
+
+I. Consultor en Seguridad;
+
+II. Agentes del Ministerio Público Investigadores;
+
+III. Enlace de Análisis de Información y Contrainteligencia;
+
+IV. Unidad de Operaciones Especiales;
+
+V. Unidad Negociadora;
+
+VI. Policía Cibernético, y
+
+VII. Enlace Administrativo
+
+El Enlace de Análisis de Información y Contrainteligencia tendrá la obligación de mantener una coordinación con el Departamento de Análisis de Información y Contrainteligencia para el correcto desempeño de sus funciones; y de enviar la información estadística a la Coordinación, respecto de los delitos que le competen a la Subcoordinación a la que esté adscrito.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 162 Ter.
+
+Para efecto de ejercer las atribuciones establecidas en el artículo que antecede, la competencia territorial de la Unidad Especializada y de las Subcoordinaciones, quedará de la manera siguiente:
+
+I. La Unidad Especializada en Combate al Secuestro, con sede en Xalapa, Veracruz, tendrá competencia en los Distritos Judiciales Noveno, Décimo, Décimo Primero, Décimo Segundo y Décimo Séptimo, señalados en las fracciones III y V, respectivamente, del artículo 64 del presente Reglamento.
+
+II. La Subcoordinación Especializada en Combate al Secuestro, con sede en Tuxpan, Veracruz, tendrá competencia en los Distritos Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo y Octavo, señalados en las fracciones I y II del artículo 64 del presente Reglamento.
+
+III. La Subcoordinación Especializada en Combate al Secuestro, con sede en Córdoba, Veracruz, tendrá competencia en los Distritos Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Octavo y Décimo Noveno, señalados en las fracciones IV y VI del artículo 64 del presente Reglamento.
+
+IV. La Subcoordinación Especializada en Combate al Secuestro, con sede en Coatzacoalcos, Veracruz, tendrá competencia en los Distritos Vigésimo y Vigésimo Primero, señalados en la fracción VII del artículo 64 del presente Reglamento.
 
 ###### Artículo 163.
 
 Las funciones que corresponde desempeñar a cada una de las áreas señaladas en el artículo anterior, deberán especificarse en los manuales de organización y procedimientos correspondientes a la Unidad Especializada en Combate al Secuestro.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 164.
 
-El personal adscrito a la Unidad deberá contar con capacitación especial en materia de secuestro y haber aprobado, satisfactoriamente, los exámenes de evaluación y de control de confianza que ordene el Procurador.
+El personal adscrito a la Coordinación y Subcoordinaciones de la Unidad Especializada en Combate al Secuestro, para su ingreso y permanencia, además de contar con capacitación especial en materia de secuestro, deberá cumplir con los requisitos señalados en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro.
 
 DE LOS POLICÍAS CIBERNÉTICOS
 
@@ -4254,3 +4344,15 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 FIDEL HERRERA BELTRÁN
 
 GOBERNADOR DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE OCTUBRE DE 2014.
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+Cuarto. La Procuraduría General de Justicia, deberá actualizar su Manual de Organización y de Procedimientos.
