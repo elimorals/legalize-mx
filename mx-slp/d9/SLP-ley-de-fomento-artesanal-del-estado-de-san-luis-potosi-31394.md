@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2011-04-05"
+last_updated: "2014-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSI
+LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -235,9 +235,11 @@ Las relaciones laborales entre la Casa y sus trabajadores, se regirán por lo di
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 17.
 
-La Casa contará con un Consejo Consultivo para el Desarrollo Artesanal del Estado, integrado por representantes de organizaciones de artesanos de la Entidad y demás miembros de las comunidades académica, cultural y artística vinculadas con la actividad artesanal.
+La Casa contará con un Consejo Consultivo para el Desarrollo Artesanal del Estado, integrado por representantes de artesanos de comunidades indígenas, organizaciones de artesanos de la Entidad y demás miembros de las comunidades académica, cultural y artística vinculadas con la actividad artesanal.
 
 Los integrantes del Consejo no tendrán el carácter de servidores públicos. Además, sus cargos serán honoríficos.
 
@@ -291,7 +293,9 @@ El Consejo, a través de su Presidente, podrá invitar a participar en sus sesio
 
 La Casa levantará y mantendrá actualizado el Registro. Este Registro será operado por la propia Casa y deberá contener como mínimo la siguiente información:
 
-I. Datos generales del artesano como son: nombre, fecha de nacimiento, domicilio, artesanía que fabrica, mercado en el que comercializa sus productos, temporada alta de ventas, entre otros que se consideren necesarios para completar dicho registro;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2014)</small>
+
+I. Datos generales del artesano como son: nombre, fecha de nacimiento, domicilio, artesanía que fabrica, mercado en el que comercializa sus productos, temporada alta de ventas y, en su caso, comunidad y grupo étnico al que pertenece, entre otros que se consideren necesarios para completar dicho registro;
 
 II. Las ramas artesanales que se practican;
 
@@ -569,10 +573,16 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE ABRIL DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
