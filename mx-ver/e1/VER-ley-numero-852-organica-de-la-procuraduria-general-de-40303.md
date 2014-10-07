@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2014-04-25"
+last_updated: "2014-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 852 ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -234,6 +234,12 @@ XII. Elaborar y aplicar de manera inmediata protocolos especializados con perspe
 > <small>(ADICIONADA, G.O. 29 DE AGOSTO DE 2011)</small>
 
 XIII. Realizar y mantener actualizada una página de internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas.
+
+> <small>(ADICIONADA, G.O. 7 DE OCTUBRE DE 2014)</small>
+
+XIV. Ofrecer y entregar recompensas en numerario, en un sólo pago o en exhibiciones periódicas, a personas que aporten información útil relacionada con las investigaciones y averiguaciones que realice, así como aquellas que colaboren en la localización y detención de probables responsables de la Comisión de Delitos, en los términos y condiciones que mediante acuerdo determine el procurador.
+
+Las recompensas deberán contar con la suficiencia presupuestal destinada por el Ejecutivo para tal efecto.
 
 ###### Artículo 9.
 
@@ -874,3 +880,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Todas las disposiciones normativas que hagan referencia a la Agencia Veracruzana de Investigaciones, se entenderán que aluden a la Policía Ministerial.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
