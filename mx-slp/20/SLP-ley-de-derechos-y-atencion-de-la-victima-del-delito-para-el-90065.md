@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-derechos-y-atencion-de-la-victima-del-delito-para-el-900
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2012-10-06"
+last_updated: "2014-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY DE DERECHOS Y ATENCIÓN DE LA VÍCTIMA DEL DELITO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL UNO DE MARZO DEL AÑO DOS MIL CATORCE, PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 06 de octubre de 2012.
 
@@ -161,7 +161,7 @@ I. Prestar en forma integral, auxilio a las víctimas de delitos conforme al pro
 
 II. Prestar ayuda de emergencia en los casos en que sea necesario;
 
-III. Elaborar programas generales y específicos de atención y auxilio para la víctima: (sic)
+III. Elaborar programas generales y específicos de atención y auxilio para la víctima:
 
 IV. Realizar estudios socioeconómicos con la finalidad de exigir a favor de la víctima, la reparación del daño conforme lo establecen las leyes respectivas;
 
@@ -297,7 +297,7 @@ XV. Tramitar la obtención de recursos, aportaciones y donaciones ante organismo
 
 XII (SIC). Subrogar mediante convenio, la administración de los servicios de albergue, comedor y estancia infantil que debe prestar el Centro, a organizaciones no gubernamentales de asistencia social, cuando sea conveniente para la mejor operación de los mismos y el debido cumplimiento de las funciones del organismo, y
 
-XIII (SIC). Las demás que establezca el Reglamento de la presente Ley y que sean necesarias para el cabal cumplimiento de sus funciones.
+XIII. Las demás que establezca el Reglamento de la presente Ley y que sean necesarias para el cabal cumplimiento de sus funciones.
 
 ###### Artículo 22.
 
@@ -325,9 +325,9 @@ III. La Secretaría de Educación;
 
 II (SIC). La Secretaría de Salud;
 
-III (SIC). El Sistema Estatal para el Desarrollo Integral de la Familia; y
+III. El Sistema Estatal para el Desarrollo Integral de la Familia; y
 
-IV (SIC). Los organismos públicos que presten servicios médicos y de salud.
+IV. Los organismos públicos que presten servicios médicos y de salud.
 
 ###### Artículo 26.
 
@@ -762,3 +762,45 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE OCTUBRE DE 2014.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Derechos y Atención de la Víctima del Delito para el Estado de San Luis Potosí, publicada como Decreto Legislativo No. 1159, en el Periódico Oficial del Estado el seis de octubre del dos mil doce.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+CUARTO. El Gobierno del Estado, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como redistribuir los recursos materiales, económicos y humanos previamente existentes para la atención de víctimas para realizar lo previsto en esta Ley a partir del año de ejercicio fiscal posterior al de su publicación.
+
+QUINTO. El Gobierno del Estado deberá emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia estatal, que se deriven de la presente Ley de conformidad al presupuesto aprobado, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley.
+
+El Reglamento que para el efecto emita el Ejecutivo Estatal habrá de precisar con sencillez y claridad cuáles serán los procedimientos y modalidades para garantizar el acceso efectivo de las víctimas a los derechos reconocidos por la Ley General de Víctimas, y esta Ley.
+
+SEXTO. Los municipios del Estado de San Luis Potosí, sus dependencias y entidades deberán adecuar la normatividad que les resulte aplicable, así como emitir la reglamentación, los acuerdos, circulares, instructivos, bases, manuales de organización, protocolos, procedimientos y/o lineamientos que resulten necesarios para dar cumplimiento a las obligaciones que sean competencia municipal, que se deriven de la presente Ley, en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la Ley.
+
+SÉPTIMO. La Comisión Ejecutiva Estatal deberá elegirse conforme a las disposiciones de esta Ley, dentro de los noventa días naturales posteriores a la entrada en vigor de la misma.
+
+OCTAVO. La Comisión Ejecutiva Estatal se instalará con la designación de tres comisionados. La o el designado de los propuestos por el Supremo Tribunal de Justicia durará en su encargo un año; la o el designado de los propuestos por el titular del Poder Ejecutivo durará tres años; y la o el designado por el Congreso del Estado durará cinco años.
+
+NOVENO. El Congreso del Estado deberá legislar en materia del procedimiento de declaración de ausencia por desaparición previsto en esta Ley, conforme a lo dispuesto en el transitorio segundo de la reforma a la Ley General de Víctimas, publicada en el Diario Oficial de la Federación de tres de mayo de dos mil trece
+
+DÉCIMO. La Fiscalía General del Estado deberá diseñar e implementar los protocolos necesarios en materia pericial, a que se refiere la presente Ley en un plazo de ciento ochenta días naturales a partir de la publicación de esta Ley.
+
+DÉCIMO PRIMERO. Las instituciones del Estado y de los Municipios deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado "De la Capacitación, Formación, Actualización y Especialización", en la presente Ley.
+
+DÉCIMO SEGUNDO. El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal a su entrada en vigor.
+
+DÉCIMO TERCERO. Las funciones de la defensa en materia de víctimas que le han sido asignadas a la Defensoría Pública del Estado serán asumidas por la Asesoría Jurídica que se establece en este ordenamiento, a partir de la entrada en vigor de la presente Ley. Los expedientes iniciados antes de la entrada en vigor de esta Ley continuarán con el procedimiento previo, pero deberán sujetarse a las disposiciones contenidas en esta normatividad en beneficio de la víctima.
+
+DÉCIMO CUARTO. El personal adscrito a las diversas instancias de procuración de justicia y atención a víctimas que, por sus funciones deban ser incorporados a las instituciones que crea esta Ley, recibirán una capacitación por parte de la Asesoría Jurídica Federal a efecto de que puedan concursar para ser ratificados en sus cargos como personal de las nuevas instituciones. El Gobierno del Estado hará lo conducente en el marco del Sistema Nacional de Víctimas para cumplir con esta previsión.
+
+DÉCIMO QUINTO. El Centro Integral de Atención a Víctimas del Estado de San Luis Potosí, se integrará en los términos y bajo las características que se precisan en esta Ley en un período no mayor a treinta días a partir de la entrada en vigor del presente Decreto.
+
+El Centro Integral de Atención contará con los bienes muebles e inmuebles, así como los recursos materiales y financieros con los que cuente, o tenga asignados el Centro de Atención a las Víctimas del Delito del Estado; además de los que adicionalmente le sean transmitidos por el Ejecutivo del Estado.
+
+Por lo anterior, los bienes muebles e inmuebles así como los recursos administrativos y financieros afectados al funcionamiento del Centro de Atención a Víctimas del Delito, serán transferidos al Centro Integral de Atención a Víctimas del Estado, quedando facultado el Ejecutivo para modificar y redistribuir las partidas del Presupuesto de Egresos que correspondan al ejercicio fiscal en que entre en vigor esta Ley, sin exceder los montos autorizados para la referida entidad, transfiriéndose al efecto a esta última los recursos humanos, materiales, financieros y presupuestales en términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, con la intervención que corresponda a la Contraloría General del Estado.
+
+DÉCIMO SEXTO. En tanto se reforman las leyes respectivas, se entenderá que la referencia hecha en esta Ley a la Fiscalía General del Estado, se entiende equivalente a la de Procuraduría General de Justicia del Estado; así mismo la referencia a la Defensoría Pública del Estado que en la misma se establece, se entiende equivalente a la Defensoría Social y de Oficio.
