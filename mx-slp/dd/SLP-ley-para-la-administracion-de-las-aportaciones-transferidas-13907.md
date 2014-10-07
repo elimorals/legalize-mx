@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2014-04-12"
+last_updated: "2014-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2014.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -499,11 +499,25 @@ La validación de los expedientes técnicos a que se hace referencia en el prese
 
 ### CAPITULO IX. Del Fondo para el Fortalecimiento de los Municipios
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 50.
 
-Las aportaciones que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios, a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras; al pago de derechos y aprovechamientos por concepto de agua; y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+Las aportaciones que con cargo al Fondo para el Fortalecimiento de los Municipios reciban los municipios, a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras; al pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales; y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+
+La Comisión Nacional del Agua sólo podrá solicitar al Gobierno del Estado la retención y el pago a que se hace referencia en el párrafo anterior, en aquellos casos en que los adeudos generados por el incumplimiento tengan una antigüedad mayor a noventa días naturales.
+
+Para acreditar el incumplimiento, la Comisión Nacional del Agua informará al municipio dentro del plazo citado en el párrafo anterior, que no se ha cubierto la totalidad del pago del trimestre o periodo de que se trate, que corresponda al municipio y, en su caso, a su organismo operador de agua, a efecto de que un plazo máximo de diez días hábiles, presente los comprobantes de pago o las aclaraciones a que haya lugar. En caso de que no se acredite el pago total, la Comisión Nacional del Agua deberá informar al municipio que procederá en términos del artículo 51 de la Ley de Coordinación Fiscal Federal.
+
+Vencido el plazo a que se refiere el párrafo anterior, la Comisión Nacional del Agua solicitará por escrito al Gobierno del Estado, por conducto de la Secretaría, la retención correspondiente. Para tales efectos enviará la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de las obligaciones incumplidas.
+
+El Gobierno del Estado en su carácter de retenedor, en un término de tres días hábiles contados a partir de la fecha de recepción del escrito de solicitud de la Comisión Nacional del Agua, por conducto de la Secretaría, realizará la retención correspondiente y efectuará el pago a dicha Comisión
+
+En caso de que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, no sean suficientes para cubrir la (sic) obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, la Comisión Nacional del Agua solicitará al Gobierno del Estado que, a través de la Secretaría, efectúe la retención y pago hasta donde alcancen los recursos de dicho Fondo. Sin perjuicio de lo anterior, los saldos pendientes deberán cubrirse conforme se reciban las aportaciones futuras en dicho fondo.
+
+Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal Federal, se entenderá por obligaciones de pago de los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: las generadas por los adeudos que los municipios, incluyendo sus organismos operadores de agua, tengan con la Comisión Nacional del Agua por el derecho por uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, de conformidad con la Ley Federal de Derechos, y por el aprovechamiento por el suministro de agua en bloque en términos de la Ley de Ingresos de la Federación, y por incumplimiento; la falta de pago total o parcial de las obligaciones a que se refiere la fracción anterior, que deban realizar los municipios, incluyendo sus organismos operadores de agua.
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, sólo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del uno de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el cien por ciento de la facturación o causación de los conceptos citados, con base en, al menos, los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal, y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 9 de diciembre de 2013.
 
 ###### ARTICULO 51.
 
@@ -954,6 +968,12 @@ PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 12 DE ABRIL DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE OCTUBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
