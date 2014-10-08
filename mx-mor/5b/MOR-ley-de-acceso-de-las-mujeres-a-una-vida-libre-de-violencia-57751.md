@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2014-03-26"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -33,9 +33,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO.
-
-.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -117,7 +115,7 @@ XXV.- Daño: Es la afectación o menoscabo que sufre una persona en su integrida
 
 XXVI.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño; y (sic)
+XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño; y
 
 XXVIII.- Alerta de violencia contra las mujeres: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
 
@@ -243,9 +241,11 @@ V.- La precaución razonable de seguridad que requieren las mujeres, que debe re
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 19.
 
-Violencia feminicida es la forma extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
+Violencia feminicida es la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos, en los ámbitos públicos y privado (sic) conformada por el conjunto de conductas misóginas que pueden culminar en Feminicidio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -427,6 +427,10 @@ VII.- Cubrir los aspectos de protección y atención de las mujeres y sus hijos 
 
 Los refugios deberán ser lugares seguros para las mujeres por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos; los servicios especializados que presten serán de forma gratuita con programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada, con capacitación, para adquirir conocimientos en el desempeño de una actividad laboral y bolsa de trabajo, con la finalidad de obtener una actividad laboral remunerada en caso de que lo soliciten.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Dichos refugios quedaran a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
+
 ###### Artículo 32.
 
 La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
@@ -587,6 +591,10 @@ VIII.- El o la Directora General del Sistema Estatal para el Desarrollo Integral
 
 IX.- Instituto de Desarrollo y Fortalecimiento Municipal.
 
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+X.- La Presidenta de la Comisión de Equidad y Género del Congreso del Estado de Morelos.
+
 Dicho Sistema Estatal será presidido por el Secretario de Gobierno, recayendo la Secretaría Ejecutiva del mismo, en la titular del Instituto de la Mujer para el Estado de Morelos, el cual sesionará de forma ordinaria cuando menos tres veces al año, sin perjuicio de que celebre sesiones extraordinarias de acuerdo a lo que señale el reglamento de la presente ley.
 
 ###### Artículo 47.
@@ -621,7 +629,7 @@ VIII.- El subprograma de capacitación.
 
 ###### Artículo 50.
 
-Las acciones del Programa Estatal se articularán en los ejes de acción respectivos, tomado en consideración:
+Las acciones del Programa Estatal se articularan en los ejes de acción respectivos, tomado en consideración:
 
 I.- Las modalidades y tipos de violencia contra las mujeres;
 
@@ -640,6 +648,10 @@ VII.- Las estadísticas existentes en el Estado sobre la violencia contra las mu
 VIII.- Los avances en materia de armonización normativa y judicial, y
 
 IX.- La operación de las dependencias e instituciones encargadas de la atención de la violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que se fomenten (sic) la violencia de género, estos deberán promover la erradicación de todo tipo de violencia, fortaleciendo el respeto a los derechos humanos y la dignidad de las mujeres.
 
 ### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
@@ -676,6 +688,8 @@ XI.- Incluir en el Informe Anual de Gobierno, la situación, avances y resultado
 Las facultades antes señaladas serán desempeñadas a través de las dependencias de la Administración Pública Estatal, en el ámbito de sus respectivas competencias, debiendo en todo momento ser supervisadas por el Titular del Ejecutivo del Estado.
 
 #### SECCIÓN QUINTA. DE LA SECRETARIA DE SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 52.
 
@@ -759,7 +773,7 @@ X.- Las demás previstas para el cumplimiento de la presente ley.
 
 ###### Artículo 55.
 
-Corresponde a la Secretaría de Salud, las siguientes funciones:
+Corresponde a la Secretaria de Salud, las Siguientes funciones:
 
 I.- Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres en el marco de la política integral con perspectiva de género;
 
@@ -771,9 +785,11 @@ IV.- Proporcionar atención médica con perspectiva de género a las víctimas, 
 
 V.- Canalizar a las mujeres víctimas de violencia a las instituciones que prestan atención y protección a las mujeres;
 
-VI.- Establecer programas de capacitación anual para el personal del sector salud, respecto de la detección de la violencia contra las mujeres, garantizando la atención a las víctimas;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-VII.- Aplicar las normas oficiales mexicanas vigentes en materia de prestación de servicios de salud y criterios para la atención médica de la violencia en el ámbito familiar;
+VI.- Establecer programas de capacitación anual para el personal del sector salud respecto a la detección de la violencia contra las mujeres, garantizando la atención a las víctimas, de conformidad con los Reglamentos, Normas Oficiales Mexicanas y otros Actos Administrativos de carácter general que se emitan en la materia.
+
+VII.- (DEROGADA, P.O. 8 DE OCTUBRE DE 2014)
 
 VIII.- Difundir en las instituciones del sector salud, material referente a la prevención, atención y sanción de la violencia contra las mujeres.
 
@@ -907,7 +923,27 @@ XII.- Impulsar la creación de refugios así como de instancias especializadas e
 
 XIII.- Formular las normas bajo las cuales deben operar los refugios de mujeres que sufren violencia y centros de atención; y
 
-XIV.- Las demás que se señalen en la normatividad aplicable.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XIV.- Difundir a través de los medios de comunicación, el derecho que tienen las mujeres de vivir una vida libre de violencia, así como las medidas de prevención tendientes a erradicar la violencia de género contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XV.- Difundir y promover en los medios de comunicación el procedimiento de denuncia y los espacios de atención para las víctimas de violencia de género, así como las instituciones públicas y privadas que prestan esos servicios.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XVI.- Las demás que señalen en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 58 Bis.
+
+Corresponde a la Comisión de Equidad de Género del Congreso del Estado:
+
+1.- La vinculación permanente con cada una de las autoridades que integran el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres.
+
+2.- Promover la actualización del marco normativo vigente en el Estado; en relación a erradicar la discriminación y la violencia contra las mujeres;
 
 ###### Artículo 59.
 
@@ -1114,3 +1150,9 @@ TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respe
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
 QUINTA. Con la finalidad de dar cumplimiento a lo dispuesto por los artículos Décimo Transitorio y 132, ambos del Código Nacional de Procedimientos Penales, el Secretario de Gobierno del Estado de Morelos, deberá de ejecutar todas y cada una de las acciones tendientes a la capacitación, adiestramiento y profesionalización de los elementos que integran la fuerza pública Estatal, debiendo de garantizar en dichas acciones los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los Derechos Humanos reconocidos en la Constitución Política de los Estado Unidos Mexicanos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión de Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
