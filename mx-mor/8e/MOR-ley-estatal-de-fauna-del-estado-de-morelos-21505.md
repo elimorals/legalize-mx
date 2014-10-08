@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2014-03-19"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-LEY ESTATAL DE FAUNA
+LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -81,11 +79,11 @@ Para efectos de esta Ley la fauna silvestre es aquella que vive libremente en lo
 
 La fauna doméstica está constituida por los animales que viven bajo el cuidado y control del hombre. Quedan encuadrados dentro de esta clasificación aquellos que por abandono sean susceptibles de captura y apropiación por los medios autorizados en este Ordenamiento y su Reglamento.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 4.
 
-La autoridad encargada de aplicar las disposiciones establecidas en esta Ley, así como de vigilar el cumplimiento de las mismas, será la dependencia u organismo de la Administración Pública Estatal encargada de atender el ramo del agua y el medio ambiente; para los efectos de esta Ley se le denominará dependencia u organismo.
+La Secretaría de Desarrollo Sustentable, será la encargada de aplicar las disposiciones establecidas en esta Ley, así como de vigilar el cumplimiento de las mismas, y para los efectos de esta Ley se le denominará Secretaría.
 
 ###### Artículo 5.
 
@@ -109,11 +107,11 @@ d).- Conservar y propagar los recursos que sirven de alimentación y abrigo a la
 
 La protección de la fauna migratoria se ejerce de acuerdo con la normatividad federal vigente y los preceptos de esta Ley, su Reglamento y los Tratados Internacionales celebrados y los que en el futuro se celebren.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 8.
 
-Las Autoridades Federales, Locales y Municipales, los clubes de cazadores y todos los habitantes del Estado de Morelos, son corresponsables con la dependencia u organismo estatal en el logro de las finalidades señaladas en esta Ley.
+Las Autoridades Federal, Local y Municipal, los clubes de cazadores y todos los habitantes del Estado de Morelos, son corresponsables con la Secretaría, en el logro de las finalidades señaladas en esta Ley.
 
 ###### Artículo 9.
 
@@ -161,17 +159,17 @@ La autoridad ante quien se ponga a disposición animales que hayan sido víctima
 
 Cuando el responsable de la falta sea el propietario del animal, bien por dolo o negligencia y en forma directa o indirecta, además de la sanción que se le imponga, no recuperará el animal si no queda plenamente acreditado su compromiso de darle en lo sucesivo trato humanitario; en el caso de especie silvestre se informará además a la Procuraduría Federal de Protección al Ambiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 18.
 
-Ante denuncias de maltrato en domicilio determinado, la dependencia u organismo estatal ordenará por escrito la práctica de una visita, misma que se sujetará a las siguientes reglas:
+Ante denuncias de maltrato en domicilio determinado, la Secretaría ordenará por escrito la práctica de una visita, misma que se sujetará a las siguientes reglas:
 
 a).- El Visitador se constituirá en el domicilio señalado, cerciorándose que sea el domicilio buscado.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-b).- Se identificará ante el ocupante mediante carta credencial vigente, expedida por la dependencia u organismo estatal, en la que debe constar nombre y cargo del funcionario que autoriza, sello oficial, nombre del visitador, cargo, firma, fotografía y fecha de vigencia.
+b).- Se identificará ante el ocupante mediante carta credencial vigente, expedida por la Secretaría en la que debe constar nombre y cargo del funcionario que autoriza, sello oficial, nombre del visitador, cargo, firma, fotografía y fecha de vigencia.
 
 c).- Hará saber el motivo de la visita y mostrará el oficio de comisión respectivo.
 
@@ -381,17 +379,17 @@ REFUGIOS PARA ANIMALES, ZONAS DE VEDA Y PROPAGACION
 
 La captura de animales silvestres con fines de propagación, obliga al permisionario a observar la normatividad federal, la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 56.
 
-Los permisionarios entregarán a la dependencia u organismo estatal los ejemplares enfermos que ocasionalmente capturen, a fin de que se investiguen las causas de la enfermedad, se combatan y controlen las epizootias con eficacia.
+Los permisionarios entregarán a la Secretaría los ejemplares enfermos que ocasionalmente capturen, a fin de que se investiguen las causas de la enfermedad, se combatan y controlen las epizootias con eficacia.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-El ejercicio de la caza en el Estado de Morelos, tiene las limitaciones establecidas en la Ley Federal de Caza y en las disposiciones que mediante esta Ley dicte la dependencia u organismo estatal con el fin de contribuir a la conservación de la fauna y el equilibrio ecológico ambiental.
+El ejercicio de la caza en el Estado de Morelos, tiene las limitaciones establecidas en la Ley General de Vida Silvestre y en las disposiciones que mediante esta Ley dicte la Secretaría con el fin de contribuir a la conservación de la fauna y el equilibrio ecológico ambiental.
 
 ###### Artículo 58.
 
@@ -435,11 +433,13 @@ IV.- Inspeccionar los centros de cautiverio y matanza de animales en el Estado, 
 
 La Comisión Estatal de Protección a los Animales se integrará por representantes propietario y suplente de las siguientes Entidades:
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-I.- Un representante de la dependencia u organismo estatal.
+I.- Un representante de la Secretaría.
 
-II.- Un representante de la Dirección General de Protección Civil.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+II.- Un representante del Instituto Estatal de Protección Civil.
 
 III.- Un representante del Colegio de Médicos Veterinarios.
 
@@ -495,13 +495,11 @@ VIII.- Las demás que determine la presente Ley o su Reglamento. Salvaguardando 
 
 De las faltas cometidas por los cazadores o capturadores clandestinos, también se considera responsable a los remitentes, consignatarios y porteadores de los productos de la caza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 71.
 
-Las infracciones a lo dispuesto en esta Ley, se sancionarán por el titular de la dependencia u organismo estatal con multas de hasta sesenta salarios mínimos vigentes en el Estado de Morelos o bien con arrestos hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
-
-Las sanciones anteriores se aplicarán sin perjuicio de las demás que procedan conforme a otros ordenamientos.
+Las infracciones a lo dispuesto en esta Ley, se sancionarán por la Procuraduría de Protección al Ambiente del Estado de Morelos, con multas de hasta sesenta Salarios Mínimos Vigentes en el Estado de Morelos o bien con arresto hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -517,13 +515,11 @@ Los responsables de los rastros que no cumplan con las disposiciones señaladas 
 
 Son reincidentes las personas que hayan sido sancionadas por dos o más faltas relacionadas con la presente Ley en un lapso de 5 años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 74.
 
-Cuando los infractores abandonen los implementos utilizados en la captura o sacrificio de animales, procede su decomiso y remate por la dependencia u organismo estatal, siguiendo las reglas establecidas en el Código Procesal Civil vigente en el Estado.
-
-El producto de los remates se entregará invariablemente a la Secretaría de Hacienda, en un plazo no mayor de treinta días contados a partir de la fecha de su venta.
+Cuando los infractores abandonen los implementos utilizados en la captura o sacrificio de animales, procede su decomiso y remate por la Secretaría, siguiendo las reglas establecidas en el Código Procesal Civil vigente en el Estado.
 
 ###### Artículo 75.
 
@@ -614,3 +610,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
