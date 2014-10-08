@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-atender-la-obesidad-y-los-trastornos-63824"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-23"
-last_updated: "2011-09-06"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-09-18"
 ---
 # LEY PARA PREVENIR Y ATENDER LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
-LEY PARA LA PREVENCION Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
+LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -46,9 +46,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PREVENCIÓN Y EL TRATAMIENTO DE LA O
 
 ÚNICO.- Se expide la Ley para Prevenir y Atender la Obesidad y los Trastornos Alimenticios en el Distrito Federal, para quedar como sigue:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE MAYO DE 2010)</small>
 
 LEY PARA LA PREVENCION Y EL TRATAMIENTO DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS EN EL DISTRITO FEDERAL
 
@@ -80,7 +80,7 @@ IV. Fijar las medidas generales de carácter administrativo para la prevención 
 
 El Gobierno del Distrito Federal, en el marco del Sistema de Salud del Distrito Federal, está obligado a propiciar, coordinar y supervisar la participación de los sectores privado, público y social en el diseño, ejecución y evaluación del Programa del Distrito Federal para la Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 4.
 
@@ -88,7 +88,7 @@ El Programa del Distrito Federal para la prevención y combate de la obesidad, s
 
 El Programa deberá ser incluido como un apartado específico en los Programas e Informes del Gobierno del Distrito Federal, entre ellos, el Programa General de Desarrollo del Distrito Federal, los Informes Anuales y de Gasto; así como en el Proyecto de Presupuesto de Egresos de cada año y en el Decreto respectivo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo II. DISPOSICIONES GENERALES PARA LA PREVENCIÓN Y COMBATE DE LA OBESIDAD, SOBREPESO Y TRASTORNOS DE LA CONDUCTA ALIMENTARIA
 
@@ -100,29 +100,39 @@ Corresponde al Gobierno del Distrito Federal:
 
 I. Formular el Programa del Distrito Federal para la Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimentaria.
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-II. Garantizar la disponibilidad de servicios de salud para la prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria en el Distrito Federal, por conducto de la Secretaría de Salud.
+II. Garantizar la disponibilidad de servicios de salud de calidad para la prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria en el Distrito Federal, por conducto de la Secretaría de Salud.
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-III. Promover, amplia y permanentemente, la adopción social de hábitos de alimentación y nutricionales correctos, en colaboración con las autoridades educativas del Distrito Federal.
+III. Promover, amplia y permanentemente, la adopción social de hábitos de alimentación y nutricionales correctos, integrando la lactancia materna como el primer derecho humano a una alimentación nutritiva suficiente y de calidad, en colaboración con las autoridades educativas del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-IV. Motivar y apoyar la participación social, pública y privada en la prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria.
+IV. Motivar y apoyar la participación social, pública y privada en la prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria, salvaguardando en todo momento el interés público, promoviendo los elementos necesarios para hacer accesible a la población alimentos naturales y frescos, dando preferencia a los pequeños y medianos productores de la localidad.
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria.
+V. Garantizar el conocimiento, difusión y acceso a la información de la sociedad en general, en materia de prevención y combate de la obesidad, sobrepeso y trastornos de la conducta alimentaria, teniendo como prioridad el interés superior del niño y la niña sobre cualquier otro.
 
 > <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Estimular las tareas de investigación y divulgación en materia de obesidad, sobrepeso y trastornos de la conducta alimentaria.
 
-VII. Las demás que le reconozcan esta Ley y otras normas aplicables.
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+VII. Promover las políticas necesarias en materia de alimentación para la protección y prevención de sobrepeso y obesidad y trastornos de la conducta alimentaria en la infancia.
+
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+VIII. Realizar durante la segunda semana del mes de octubre de cada año, la Semana de la Sana Alimentación, a fin de dar cumplimiento a lo establecido en la presente ley.
+
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+IX. Las demás que le reconozcan esta Ley y otras normas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo III. CONSEJO PARA LA PREVENCIÓN Y LA ATENCIÓN INTEGRAL DE LA OBESIDAD Y LOS TRASTORNOS DE LA CONDUCTA ALIMENTARIA EN EL DISTRITO FEDERAL
 
@@ -198,17 +208,17 @@ V. Expedir su reglamento interno, y
 
 VI. Las demás que le reconozca el Jefe de Gobierno del Distrito Federal, en los términos de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo IV. DISTRIBUCIÓN DE COMPETENCIAS PARA LA PREVENCIÓN Y ATENCIÓN DE LA OBESIDAD Y LOS TRASTORNOS DE LA CONDUCTA ALIMENTARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
 La prevención y atención del sobrepeso, la obesidad y los trastornos de la conducta alimentaria, especialmente la anorexia y la bulimia nerviosas, como problema de salud pública, son un asunto prioritario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
 
@@ -224,7 +234,11 @@ En su publicidad, como instrumento de difusión de acciones o servicios que prop
 
 Las instancias señaladas en el artículo anterior, sin menoscabo de las atribuciones que les confiere el marco jurídico del Distrito Federal, y con independencia de las que le señale la presente Ley, instrumentarán las políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos de la conducta alimentaria que para tal efecto diseñe el Consejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Para ello durante la segunda semana del mes de octubre, deberán realizar la Semana de la Sana Alimentación, en donde dichas instancias deberán dar a conocer a la población en general en el ámbito de su competencia, las acciones y políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos de la conducta alimentaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
 
@@ -234,7 +248,7 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integra
 
 Para el desarrollo de estas acciones, deberán coordinarse con la Secretaría de Salud del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
@@ -242,7 +256,7 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integra
 
 Los órganos de gobierno y autónomos harán lo conducente, de acuerdo a los lineamientos del ejercicio presupuestal que determinen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
 
@@ -250,11 +264,13 @@ Los órganos de gobierno y autónomos harán lo conducente, de acuerdo a los lin
 
 Corresponde a la Secretaría de Salud del Distrito Federal, además de lo que señala la presente Ley:
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-I. Diseñar, realizar y coordinar, campañas de prevención sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, así como las formas de prevenir y atender estos problemas;
+I. Diseñar, realizar y coordinar, campañas de promoción, protección y respeto a la lactancia materna como primer derecho humano de los niños y las niñas a la salud y a una alimentación nutritiva suficiente y de calidad con respeto a la libertad de la madre; así como campañas de prevención sobre nutrición y alimentación sana, difundiendo en los centros de salud, hospitales, planteles escolares y espacios públicos, las causas que provocan el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, así como las formas de prevenir y atender estos problemas;
 
-II. Aplicar un programa masivo para incentivar una alimentación saludable entre la población del Distrito Federal, y
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+II. Aplicar un programa masivo para incentivar una alimentación saludable entre la población del Distrito Federal, resaltando los riesgos a la salud que se generan mediante los ambientes que promueven la obesidad;
 
 > <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -276,9 +292,11 @@ VI. Elaborar una guía para la población en general y, de manera particular par
 
 VII. Generar y difundir bases de datos, desagregadas por grupos de edad, sexo y ubicación geográfica que registren la incidencia de trastornos de la conducta alimentaria en la población, indicando peso, talla y masa corporal, poniendo especial énfasis en los planteles de educación básica.
 
-En la realización de las acciones a las que se refieren las fracciones I y II de este artículo, se invitará a participar a organizaciones de la sociedad civil que trabajen en la materia.
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En la realización de las acciones a las que se refieren las fracciones I y II de este artículo, se invitará a participar a organizaciones de la sociedad civil para el interés público que trabajen en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2010)</small>
 
@@ -288,9 +306,9 @@ Corresponde a la Secretaría de Educación del Distrito Federal, además de lo q
 
 I. Fomentar el consumo de comida saludable en los planteles educativos a cargo del Gobierno del Distrito Federal y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas con bajo valor nutricional que contengan altos contenidos de azúcares refinados, sal, colesterol, ácidos grasos saturados y transaturados, así como colaborar y gestionar ante las autoridades federales para que apliquen esta misma medida en los planteles escolares bajo su competencia y que se encuentren ubicados en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-II. Realizar campañas de difusión en los planteles escolares del Distrito Federal, tanto de educación pública como privada, previa celebración de los convenios respectivos, sobre el mejoramiento de los hábitos de alimentación de las y los estudiantes de todos los niveles educativos, respecto a la prevención de la obesidad, el sobrepeso y los trastornos de la conducta alimentaria, con énfasis en la anorexia y la bulimia nerviosas;
+II. Realizar campañas de difusión en los planteles escolares del Distrito Federal, tanto de educación pública como privada, previa celebración de los convenios respectivos, sobre el mejoramiento de los hábitos de alimentación de las y los estudiantes de todos los niveles educativos, respecto a la prevención de la obesidad, el sobrepeso y los trastornos de la conducta alimentaria, con énfasis en la anorexia y la bulimia nerviosas; así como evitar la colocación de todo tipo de publicidad de cualquier producto o marca de comida con una densidad calórica considerable al interior de los planteles escolares.
 
 III. Facilitar el acceso libre y gratuito para niñas, niños y adolescentes en los lugares públicos para el deporte o la recreación ubicados en la Ciudad de México, a cargo del Gobierno del Distrito Federal;
 
@@ -299,6 +317,10 @@ IV. Coadyuvar con las Delegaciones para aplicar una medida similar a la señalad
 > <small>(REFORMADA, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 V. Incentivar la práctica del ejercicio y el deporte a través de la realización de campañas de promoción, como una medida para prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, poniendo énfasis en la población infantil y adolescente.
+
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+VI. Coordinar y coadyuvar con la Secretaría de Salud en la organización de clubes o redes de padres, niños y maestros para fomentar la salud y estilos de sana alimentación como forma de vida.
 
 > <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -313,6 +335,10 @@ II. Crear una página de Internet y diversos espacios virtuales, donde se brinde
 III. Instrumentar acciones de participación en las redes sociales de Internet, con la finalidad de brindar información precisa, objetiva y con base en criterios científicos de los trastornos de la conducta alimentaria, especialmente de la anorexia y bulimia nerviosas.
 
 Para la realización de las acciones a las que se refiere el presente artículo, se establecerá coordinación con la Secretaría de Salud, en cuanto elaboración de contenidos, y con la Secretaría de Educación, para la difusión de las acciones, ambas del Distrito Federal, además se invitará a participar a organizaciones de la sociedad civil, instituciones académicas y especialistas que trabajen en la materia.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Igualmente, dichas acciones se deberán dar a conocer durante la segunda semana de octubre con motivo de la celebración de la Semana de la Sana Alimentación del Distrito Federal y en ella también se realizarán acciones de fortalecimiento en la materia.
 
 > <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -334,13 +360,17 @@ La Secretaría de Cultura del Distrito Federal fomentará actividades artística
 
 Las Delegaciones, en el ámbito de sus competencias, desarrollarán acciones de difusión, instrumentarán acciones de acceso libre y gratuito en instalaciones deportivas, recreativas y culturales a su cargo, además fomentarán actividades dirigidas a prevenir y atender el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, de manera especial en la población infantil y adolescente.
 
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Asimismo incentivarán y generarán medios para hacer accesible a la población alimentos nutritivos y frescos, preferentemente provenientes de pequeños o medianos productores de la localidad.
+
 > <small>(REFORMADO Y REUBICADO, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
 La Asamblea Legislativa del Distrito Federal, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal para dar cumplimiento a lo establecido en la presente Ley, debiendo asignar los recursos respectivos para la prevención y atención del sobrepeso, la obesidad y los trastornos de la conducta alimentaria.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo V. EVALUACIÓN DE LAS ACCIONES PARA LA PREVENCIÓN Y ATENCIÓN DE LA OBESIDAD Y LOS TRASTORNOS DE LA CONDUCTA ALIMENTARIA
 
@@ -366,7 +396,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 3 DE MAYO DE 2010.
 
@@ -381,3 +411,11 @@ G.O. 6 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Las Dependencias que integran la Administración Pública del Distrito Federal a las que se refiere el presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones contenidas en el mismo, de conformidad con sus atribuciones.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal, en el ámbito de su competencia, realizará las adecuaciones necesarias a los diversos ordenamientos para sustituir la denominación que se refiere como trastornos alimenticios por trastornos de la conducta alimentaria.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Las disposiciones contenidas en el presente Decreto que tengan un impacto presupuestal estarán sujetas a la suficiencia que al efecto se determine en el presupuesto de egresos correspondiente a cada uno de los ejercicios fiscales aprobados por la Asamblea Legislativa del Distrito Federal.
