@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2014-06-11"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -36,8 +36,6 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
 
 CONSIDERANDOS.
-
-.
 
 Motivados en los antecedentes y razonamientos expuestos, consideramos procedente la iniciativa que plantea el iniciador. En este contexto y con fundamento en los preceptos de derecho invocados en el proemio del presente, los diputados integrantes de ésta Comisión dictaminadora, coincidimos en someter a la consideración del pleno del pleno (sic) de éste Congreso la aprobación de (sic) presente Dictamen con proyecto de decreto del:
 
@@ -331,7 +329,7 @@ Se entiende por resultado restaurativo, el acuerdo encaminado a atender las nece
 
 ## TÍTULO II. ACTIVIDAD PROCESAL
 
-### CAPÍTULO PRIMERO (SIC). FORMALIDADES
+### CAPÍTULO PRIMERO. FORMALIDADES
 
 ###### Artículo 29.
 
@@ -2153,7 +2151,7 @@ VII. Secuestro previstos (sic) en los artículos 140 y 142;
 
 VIII. Extorsión prevista en el artículo 146;
 
-IX. Trata de personas a que se refiere el artículo 148 bis y 148 ter: (sic)
+IX. Trata de personas a que se refiere el artículo 148 bis y 148 ter:
 
 X. Violación previsto en los artículos 152, 153, 154, 155 y 156;
 
@@ -2177,13 +2175,17 @@ XVIII. Corrupción de menores e incapaces previsto en los párrafos segundo y te
 
 XIX. Rebelión cuando se realice en las circunstancias previstas en el artículo 259;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XX. Terrorismo previsto en el artículo 263, y
+XX. Terrorismo previsto en el artículo 263;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXI. Asalto, previsto en el artículo 148.
+XXI. Asalto, previsto en el artículo 148, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXII. Evasión de preso, cuando se actualice cualquiera de las hipótesis previstas en el párrafo segundo del artículo 304.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2012)</small>
 
@@ -4525,7 +4527,7 @@ V. La exposición clara, lógica y completa de cada uno de los hechos y circunst
 
 VI. Las razones que sirvieren para calificar jurídicamente cada uno de los hechos y sus circunstancias, así como para fundar el fallo;
 
-VII. La resolución que condenare o absolviere a cada uno de los imputados por cada uno de los delitos que la acusación les hubiere atribuido; la que se pronunciare sobre la reparación del daño y fijare el monto de las indemnizaciones a que hubiere lugar, y (sic)
+VII. La resolución que condenare o absolviere a cada uno de los imputados por cada uno de los delitos que la acusación les hubiere atribuido; la que se pronunciare sobre la reparación del daño y fijare el monto de las indemnizaciones a que hubiere lugar, y
 
 VIII. En su caso las razones por las que se concede o niega al sentenciado la condena condicional o substitutivos de las sanciones impuestas;
 
@@ -4629,7 +4631,7 @@ En los asuntos sujetos a procedimientos especiales se aplicarán las disposicion
 
 En lo no previsto y siempre que no se opongan a las primeras, se aplicarán las reglas del procedimiento ordinario.
 
-### Capítulo Segundo. PROCEDIMIENTO ABREVIADO (SIC)
+### Capítulo Segundo. PROCEDIMIENTO ABREVIADO
 
 ###### Artículo 388.
 
@@ -4741,7 +4743,7 @@ Incumplimiento de la pena conmutada de trabajo en favor de la comunidad.
 
 Si el sentenciado no cumpliere la pena de trabajo a favor de la comunidad, a petición del Ministerio Público, el juez de ejecución de sanciones ordenará la ejecución de la pena privativa de libertad señalada en la sentencia, descontando por cada tres jornadas de trabajo, un día de prisión. Para tal efecto, ordenará la aprehensión del sentenciado.
 
-### Capítulo Tercero. PROCEDIMIENTO PARA INIMPUTABLES (SIC)
+### Capítulo Tercero. PROCEDIMIENTO PARA INIMPUTABLES
 
 ###### Artículo 394.
 
@@ -5440,3 +5442,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
