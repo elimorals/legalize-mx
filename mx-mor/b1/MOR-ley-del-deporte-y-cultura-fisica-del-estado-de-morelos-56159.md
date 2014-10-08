@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-04-09"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -67,9 +67,13 @@ Corresponde al Ejecutivo Estatal, ser el órgano rector de la política deportiv
 
 El Gobierno Estatal y los Gobiernos Municipales, fomentarán y promoverán el adecuado ejercicio del derecho de todos los morelenses, a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, de conformidad con las bases de coordinación previstas en esta Ley y demás ordenamientos normativos aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 6.
 
-Para efectos de la presente Ley y su reglamento, se entiende por:
+Para efectos de la presente Ley y su Reglamento, se entiende por:
 
 I. Sistema: Al Sistema del Deporte y Cultura Física del Estado de Morelos;
 
@@ -143,6 +147,18 @@ XIX. Fondo: El Fondo para el Desarrollo del Deporte y la Cultura Física del Est
 
 XX. Evento o Competencia Oficial: El avalado por el Instituto del Deporte y Cultura Física del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXI. Museo: Museo del Deporte y Cultura Física del Estado de Morelos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXII. Patronato: Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
+
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
 
 ### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN
@@ -202,6 +218,18 @@ VI. El Registro Estatal del Deporte;
 VII. El Comité Antidopaje; y
 
 VIII. La Comisión de Apelación y Arbitraje del Deporte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+IX. El Museo del Deporte y Cultura Física del Estado de Morelos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+X. El Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
 
 ###### ARTÍCULO 11.
 
@@ -455,7 +483,7 @@ El Instituto contará para el cumplimiento de sus atribuciones con:
 
 I. Una Junta de Gobierno;
 
-II. Un Director General; y (sic)
+II. Un Director General; y
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 2014)</small>
 
@@ -1037,11 +1065,121 @@ El Instituto y la dependencia municipal respectiva procurarán que las instalaci
 
 En la construcción de instalaciones deportivas deberán de tomarse en cuenta las que sean necesarias para el deporte infantil, mismas que contarán con las especificaciones técnicas y arquitectónicas para su desarrollo.
 
-### CAPÍTULO PRIMERO. DE LAS ACTIVIDADES DEPORTIVAS REMUNERADAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO SÉPTIMO. DEL MUSEO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS; DEL SALÓN DE LA FAMA DEL MORELENSE Y DEL PATRONATO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 BIS.- Se crea el Museo del Deporte y Cultura Física del Estado de Morelos, como un espacio perteneciente al Instituto, el cual incluirá dentro de su estructura el “Salón de la Fama del Morelense”.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 TER.- El Museo del Deporte y Cultura Física del Estado de Morelos, es la Institución que con el propósito de estudio, divulgación, educación y reconocimiento, se encargará de conservar, exponer y exhibir los reconocimientos y triunfos, así como, fotografías, videos, objetos y pertenencias de los deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades y de las personas que han fomentado el impulso, desarrollo y crecimiento del deporte y la cultura física en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 QUATER.- "El Salón de la Fama del Morelense", será un espacio incluido dentro del Museo, con el fin de ser un espacio de reconocimiento permanente al esfuerzo, mérito y trayectoria de aquellos deportistas, jueces, árbitros, entrenadores o instructores morelensesdestacados (sic) en diversas disciplinas y modalidades, así como, a las personas que han fomentado el impulso, desarrollo o crecimiento del deporte y la cultura física en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 83 QUINQUIES.- Corresponderá al Consejo Consultivo Estatal del Deporte y Cultura Física, seleccionar a quienes ingresarán al Museo y al Salón de la Fama, para cuyo efecto habrá de emitir las convocatorias respectivas y verificará la integración de los expedientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 83 SEXIES.- Los requisitos de las personas que quieran ser consideradas como aspirantes, para la elección de ingreso al Museo y al Salón de la Fama son:
+
+I.- Ser Morelenses por nacimiento o por residencia ininterrumpida en el Estado, mínima de cinco años;
+
+II.- Tener una reconocida honorabilidad;
+
+III.- Contar con una trayectoria ejemplar, en el ámbito del deporte y cultura física;
+
+IV.- Que sus méritos deportivos nacionales o internacionales, hayan sido obtenidos representando al Estado de Morelos en alguna de las diferentes disciplinas del deporte de alto rendimiento, convencional o adaptado a nivel profesional o amateurs o bien en ámbito de la cultura física;
+
+V.- Estar en activo o retirados; y
+
+VI.- Podrán ser considerados en vida o post mortem.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 SEPTIES.- El ingreso al Museo o al Salón de la Fama se hará mediante ceremonia oficial, en la que se coloque en su caso, la correspondiente placa conmemorativa y también podrá incluirse un testimonio con los logros deportivos, así como, fotografías, videos, objetos y pertenencias, entre otros.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 OCTIES.- El Museo contará con un Patronato denominado Patronato del Museo del Deporte y Cultura Física del Estado de Morelos, que estará integrado por el Secretario de Desarrollo Social y el Director del Instituto del Deporte en el Estado, quienes representarán a la Junta de Gobierno y por cinco miembros designados y removidos libremente por el Titular del Instituto del Deporte.
+
+El Secretario de Desarrollo Social, presidirá el Patronato y se designarán de entre los integrantes de éste a un Vicepresidente, un Secretario de Sesiones, un Tesorero y Vocales.
+
+Los cargos de los miembros del Patronato serán honoríficos y se seleccionarán de entre los sectores público, social y privado con prestigio, honorabilidad y valores altruistas que hayan tenido experiencia en actividades en materia deportiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 NOVIES.- El Patronato del Museo, celebrará Sesiones Ordinarias cada tres meses y las Extraordinarias que se requieran, a citación expresa del Secretario de Desarrollo Social o a petición de la mayoría de sus miembros.
+
+Las Asambleas deberán contar con la asistencia de cuando menos la mitad más uno de los miembros del Patronato y las resoluciones que se tomen deberán ser por mayoría de votos de los asistentes, teniendo el Secretario de Desarrollo social el voto de calidad, en caso de empate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 83 DECIES.- El Patronato del Museo del Deporte tendrá las siguientes facultades:
+
+I. Coadyuvar y organizar planes para la obtención de recursos del Museo que por cualquier concepto pudiera allegarse;
+
+II. Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Museo;
+
+III. Apoyar las actividades del Museo y formular sugerencias tendientes a su mejor desempeño;
+
+IV. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Museo y el cumplimiento de sus objetivos;
+
+V. Designar al Vicepresidente y al Secretario de Sesiones;
+
+VI. Designar al Tesorero;
+
+VII. Presentar a la Junta de Gobierno un informe anual de las actividades realizadas;
+
+VIII. Acordar con la Junta de Gobierno, las acciones necesarias para apoyar al Museo en las funciones que éste realice;
+
+IX. Aprobar en su caso los lineamientos de operación del propio Patronato;
+
+X. Promover y fomentar la participación de las instituciones deportivas en el ámbito social y privado para fortalecer e impulsar los proyectos y programas institucionales del Museo;
+
+XI. Establecer coordinación con las instituciones deportivas estatales, nacionales e internacionales con el propósito de brindar el apoyo institucional al desempeño de su función;
+
+XII. Programar eventos con el propósito de valorar el avance de los programas;
+
+XIII. Conservar y mantener el patrimonio deportivo a través de mecanismos de financiamiento con la participación del sector privado y público; y,
+
+XIV. Las demás que sean necesarias para el ejercicio de sus facultades
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTICULO 83 UNDECIES.- El Reglamento de esta Ley determinará lo relativo al procedimiento de selección, requisitos para ser aspirante, convocatorias, integración de expedientes y, en general, todo lo referente a la organización y el funcionamiento del Museo del Deporte y Cultura Física del Estado de Morelos, al Salón de la Fama y el Patronato del Museo del Deporte y Cultura Física del Estado de Morelos.
 
 ## TÍTULO SEXTO. ACTIVIDADES DEPORTIVAS ESPECIALES
 
-### CAPÍTULO SEGUNDO. DEL DEPORTE DE ALTO RENDIMIENTO
+### CAPÍTULO PRIMERO. DE LAS ACTIVIDADES DEPORTIVAS REMUNERADAS
 
 ###### ARTÍCULO 84.
 
@@ -1059,7 +1197,7 @@ Conforme al artículo 1º de esta Ley y demás disposiciones aplicables derivada
 
 El Reglamento de esta Ley especificará las normas aplicables al deporte remunerado Estatal.
 
-### CAPÍTULO TERCERO. DEL DEPORTE ADAPTADO
+### CAPÍTULO SEGUNDO. DEL DEPORTE DE ALTO RENDIMIENTO
 
 ###### ARTÍCULO 88.
 
@@ -1081,7 +1219,7 @@ El Instituto proporcionará o gestionará los recursos económicos para la prepa
 
 El Instituto proporcionará y/o gestionará el uso de instalaciones públicas o privadas para entrenamiento de los deportistas de alto rendimiento.
 
-### CAPÍTULO CUARTO. DE LOS DEPORTES EXTREMOS O DE ALTO RIESGO
+### CAPÍTULO TERCERO. DEL DEPORTE ADAPTADO
 
 ###### ARTÍCULO 93.
 
@@ -1125,7 +1263,7 @@ El Instituto y con el apoyo de los integrantes del Sistema, promoverá la captac
 
 Se establece un Programa de Becas para los deportistas con discapacidad: sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores, mismos que serán proporcionados de acuerdo a la disponibilidad presupuestal del Fondo.
 
-### CAPÍTULO PRIMERO. DEL SERVICIO MÉDICO EN EL DEPORTE
+### CAPÍTULO CUARTO. DE LOS DEPORTES EXTREMOS O DE ALTO RIESGO
 
 ###### ARTÍCULO 103.
 
@@ -1163,7 +1301,7 @@ XI. Los demás que se establezcan en el reglamento o representen peligro directo
 
 ## TÍTULO SÉPTIMO. DE LA PREVENCIÓN, ATENCIÓN Y VIGILANCIA DEL DEPORTE EN MATERIA DE SALUD Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO SEGUNDO. DEL ANTIDOPAJE
+### CAPÍTULO PRIMERO. DEL SERVICIO MÉDICO EN EL DEPORTE
 
 ###### ARTÍCULO 105.
 
@@ -1183,7 +1321,7 @@ Las instituciones del sector público estatal, promoverán programas de atenció
 
 Las asociaciones, organismos o ligas, procurarán contar con un fondo para sufragar parte o la totalidad de los gastos médicos que el deportista erogue con motivo de una lesión producida en la práctica del deporte correspondiente y dentro de la competición sancionada, avalada u organizada por aquellas.
 
-### CAPÍTULO TERCERO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO SEGUNDO. DEL ANTIDOPAJE
 
 ###### ARTÍCULO 109.
 
@@ -1307,7 +1445,7 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo dopaje.
 
-### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO TERCERO. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 129.
 
@@ -1317,11 +1455,11 @@ Corresponde a las autoridades en materia de seguridad pública, tránsito y prot
 
 Los deportistas, integrantes del cuerpo técnico de los equipos o deportistas y en su caso los organizadores, serán sancionados conforme a la presente Ley y su Reglamento, sin perjuicio de las sanciones a que se hagan acreedores conforme a otras disposiciones reglamentarias municipales o estatales, así como por la responsabilidad civil, administrativa o penal en que incurran de acuerdo a la legislación aplicable.
 
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS EN EL DEPORTE
+### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS RECURSOS EN EL DEPORTE
 
 ###### ARTÍCULO 130.
 
@@ -1377,7 +1515,7 @@ Celebrada la audiencia, en un lapso que no deberá excederse de diez días hábi
 
 Las infracciones a lo dispuesto por la presente Ley las determinará el Ejecutivo Estatal en el Reglamento que normará la aplicación y procedimientos de las violaciones a la misma.
 
-### CAPÍTULO XII. DEL PROCEDIMIENTO DE LIQUIDACIÓN DEL PATRIMONIO
+### CAPÍTULO ÚNICO
 
 ### CAPÍTULO XIII. DE LA SUBASTA PÚBLICA DE LOS BIENES
 
@@ -1566,3 +1704,17 @@ Remítase el presente Decreto al Gobernador Constitucional del Estado, para efec
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1° de enero de 2015.
+
+TERCERO.- El Ejecutivo del Estado deberá asignar una partida presupuestal debidamente etiquetada, para el cumplimiento del presente Decreto a partir del 1° de enero de 2015.
+
+CUARTO.- El Instituto del Deporte y Cultura Física, deberá prever los mecanismos necesarios, a fin de que sea inaugurado el Museo del Deporte y Cultura Física del Estado de Morelos, inicie operaciones y sea abierto al público a más tardar en un plazo de tres meses, a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Patronato deberá constituirse en un plazo máximo de sesenta días, a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado contará con un plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones correspondientes al Reglamento de la Ley del Deporte y Cultura Física, así como la publicación de los Reglamentos del Museo y del Patronato.
