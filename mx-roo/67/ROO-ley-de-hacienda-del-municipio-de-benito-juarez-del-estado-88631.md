@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2012-12-21"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -657,7 +657,7 @@ a) Si la pavimentación cubre la totalidad del ancho, cubrirán los derechos los
 
 b) Si la pavimentación cubre únicamente una faja cuyo ancho sea igualo menor a la mitad del ancho del arroyo, sólo cubrirán estos derechos los propietarios o poseedores de los predios situados frente a la acera más cercana a la parte del arroyo que se haya pavimentado. El monto de los derechos se determinará multiplicando la cuota unitaria en metros cuadrados que corresponda, atendiendo al costo del pavimento construido, por el ancho de metros lineales de la faja pavimentada, y el producto, por el número de metros lineales del frente del predio;
 
-c) Si la obra de pavimentación cubre la faja que comprenda ambos lados del eje de este arroyo, pero sin que abarque todo el ancho de éste, los propietarios o poseedores de los predios situados en ambas aceras cubrirán los derechos, proporcionalmente al ancho de la faja pavimentada, comprendida dentro de cada una de las mitades del arroyo. Los derechos que correspondan por cada predio se determinarán de acuerdo con la regla que establece el inciso anterior, aplicada separadamente a cada una de las fajas comprendidas a uno y otro lado del eje del arroyo; y (sic)
+c) Si la obra de pavimentación cubre la faja que comprenda ambos lados del eje de este arroyo, pero sin que abarque todo el ancho de éste, los propietarios o poseedores de los predios situados en ambas aceras cubrirán los derechos, proporcionalmente al ancho de la faja pavimentada, comprendida dentro de cada una de las mitades del arroyo. Los derechos que correspondan por cada predio se determinarán de acuerdo con la regla que establece el inciso anterior, aplicada separadamente a cada una de las fajas comprendidas a uno y otro lado del eje del arroyo; y
 
 IV. Los derechos para obras del alumbrado público serán pagados por los propietarios o Poseedores de los predios ubicados en ambas aceras y se determinara la cuota unitaria en metros cuadrados que corresponda, atendiendo al costo de la obra de iluminación por el número de metros lineales del frente de cada predio; y
 
@@ -893,19 +893,7 @@ Los derechos por los servicios que presta el Registro Civil, se pagarán de acue
 
 TARIFA
 
-I. Nacimientos:
-
-a) En las oficinas del Registro
-
-Civil en días y horas hábiles con 2.0 S.M.G.
-
-entrega de copia certificada del
-
-acta respectiva.
-
-b) En las oficinas del registro
-
-civil en días y horas Inhábiles 2.0 S.M.G.
+l. (DEROGADA, P.O. 8 DE OCTUBRE DE 2014)
 
 II. Matrimonios
 
@@ -981,7 +969,11 @@ a) Divorcios voluntarios
 
 3. Por acta de audiencia 5.0 S.M.G.
 
-b) Por cada acta de divorcio decretada por las autoridades judiciales que se inscriba en el
+b) Por cada acta de divorcio
+
+decretada por las autoridades judiciales
+
+que se inscriba en el
 
 Registro Civil 5.5 S.M.G.
 
@@ -1015,9 +1007,19 @@ b) Asentamientos de actas de defunción 1.0 S.M.G.
 
 c) Anotaciones marginales 0.5 S.M.G.
 
-d) Expedición de copias certificadas
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-de actas de nacimiento, por cada una 1.0 S.M.G.
+d) Expedición de certificaciones de
+
+actas de nacimiento, por cada una 1.0 S.M.G.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Por la expedición de la primera
+
+copia certificada del acta de nacimiento,
+
+procederá la exención de su cobro.
 
 e) Expedición de copias certificadas
 
@@ -1059,9 +1061,11 @@ No causarán los derechos a que se refiere este artículo, cuando sean soldadas 
 
 En los casos de desastres naturales, campañas de regularización, matrimonios colectivos o solicitudes por oficio de las autoridades, podrán subsidiarse hasta el 100% de los Derechos que cause la prestación de los servicios del Registro Civil, siempre que tal subsidio sea autorizado en los términos previstos por el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 65.
 
-Los Oficiales del Registro Civil y sus secretarias cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción I, incisos b); fracción II, incisos b), c), d), h) y j), y la fracción IV, inciso b) del artículo 63 de la presente Ley.
+Los oficiales del Registro Civil y su auxiliar cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción II, incisos b), c), d), h) y j), y la fracción IV, inciso b) del Artículo 63 de la presente ley.
 
 ###### Artículo 66.
 
@@ -3802,3 +3806,9 @@ P.O. 21 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en el presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
