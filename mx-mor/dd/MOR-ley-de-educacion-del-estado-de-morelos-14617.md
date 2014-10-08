@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2014-04-02"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -69,7 +69,7 @@ Los Capítulos Octavo y Noveno se refieren a la Educación Media Superior y Supe
 
 En el Décimo Capítulo, se determinan las reglas generales que rigen la educación para los adultos y en el Capítulo Décimo Primero se hace referencia a la Educación Informal, destacando la importancia de los medios de comunicación y la necesidad de utilizar en el cumplimiento de la tarea educativa los medios que proporciona el avance tecnológico.
 
-En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá (sic) mejorar los contenidos y los programas educativos.
+En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá mejorar los contenidos y los programas educativos.
 
 El Título Cuarto está dedicado a la participación social en la educación y contiene las normas que especifican los derechos y obligaciones de los padres de familia y de quienes, en su caso, ejercen la patria potestad sobre los educandos y las relativas a la integración y funcionamiento de los Consejos de Participación Social que deben operar, tanto a nivel estatal como municipal y en el marco de cada una de las instituciones educativas, con el objeto de propiciar la mayor atención de la comunidad en el correcto funcionamiento de la escuela, sus instalaciones, su mobiliario, el material didáctico de que disponen los maestros y el cumplimiento de los planes y programas de estudio.
 
@@ -173,9 +173,11 @@ En ningún caso, se podrá condicionar la inscripción, el acceso a la escuela, 
 
 El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 9.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2011)
+Las autoridades educativas, directivos y docentes, facilitarán el ingreso y permanencia a las instituciones públicas y privadas, de cualquier nivel educativo de las alumnas en estado de gravidez; la estudiante embarazada que como resultado de su estado, incumpla las metas establecidas en cuanto a actividades académicas, podrá cumplimentarlas para acreditar el período correspondiente y bajo ninguna circunstancia su condición de embarazo, será impedimento para la conclusión de sus estudios.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -229,9 +231,9 @@ XII.- Impulsar la creación artística y propiciar el enriquecimiento y la difus
 
 XIII.- Estimular y propiciar las condiciones indispensables para el impulso de la nutrición, de la educación física y la práctica del deporte, la recreación artística y la difusión de la cultura;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, el fomento de los valores, la prevención de las adicciones, la institución y planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos;
+XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, el fomento de los valores, la prevención de las adiciones, la institución y planeación familiar y la paternidad responsable, así como los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y los embarazos no planeados, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -257,13 +259,21 @@ XIX.- Fomentar la cultura de la transparencia y la rendición de cuentas, así c
 
 XX.- Promover y fomentar la lectura y el libro;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXI.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos, y
+XXI.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXII.- Fomentar la cultura vial dentro de las instituciones educativas, públicas y privadas, con la finalidad de inculcar entre los estudiantes hábitos y medidas preventivas tendientes a evitar accidentes en la vía pública;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXIII.- Promover una cultura de igualdad de género desde la infancia, a través de literatura didáctica, actividades lúdicas, talleres escolares y otro tipo de actividades que permitan cambiar actitudes estereotipadas sobre los roles de género, y
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-XXII.- Las demás que no se contrapongan a la Ley General de Educación, a la normativa federal, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXIV.- Las demás que no se contrapongan a la Ley General de Educación, a la normativa federal, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -345,9 +355,17 @@ XXVI.- Aplicar los ordenamientos contenidos en esta Ley y vigilar su cumplimient
 
 XXVII.- Establecer el Sistema Estatal de Información Educativa para coordinarse en el marco del Sistema de Información y Gestión Educativa de la autoridad educativa federal;
 
-XXVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXIX.- Las que ésta u otra Ley le señalen.
+XXVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXIX.- Establecer un Programa para prevenir y atender las causas de la ausencia y deserción escolar, cuando estas rebasen un período mayor a quince días en alguno de los educandos, que permitan conocer las razones de la ausencia y adoptar las medidas necesarias, para su reintegración al sistema estatal de educación básica.
+
+Las autoridades brindaran toda la asistencia y asesoría profesional a su alcance, para reincorporar a los alumnos a la asistencia regular al salón de clases, y
+
+XXX.- Las que ésta u otra Ley le señalen.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -717,9 +735,11 @@ La educación secundaria contribuirá al desarrollo integral del educando, favor
 
 Las instituciones que ofrezcan este servicio podrán ser secundarias generales, técnicas y telesecundarias.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 35.
 
-Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuestas por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
+Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado, de una terna de hombres ilustres, fechas históricas o conceptos e instituciones coincidentes con los fines educativos, propuestas por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
 
 ### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
 
@@ -1143,7 +1163,7 @@ VI.- Notificar por escrito a las autoridades escolares y educativas, las irregul
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-VII.- Opinar en relación con las contraprestaciones que las escuelas particulares fijen, y (sic)
+VII.- Opinar en relación con las contraprestaciones que las escuelas particulares fijen, y
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -1173,7 +1193,7 @@ III.- Colaborar con las instituciones educativas en las que estén inscritos sus
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2014)</small>
 
-IV.- Coadyuvar de manera voluntaria en la medida de sus posibilidades con las autoridades educativas en la construcción, mantenimiento y mejoramiento de los planteles educativos, y (sic)
+IV.- Coadyuvar de manera voluntaria en la medida de sus posibilidades con las autoridades educativas en la construcción, mantenimiento y mejoramiento de los planteles educativos, y
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -1191,19 +1211,35 @@ VII.- Hacer del conocimiento de la autoridad educativa del plantel, las irregula
 
 ### CAPITULO II. DE LA ESCUELA DE PADRES Y TUTORES
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar con un programa de escuela de padres y tutores;
+ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar de manera obligatoria con un programa de escuela de padres y tutores;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
 I.- La escuela de padres y tutores tiene por objeto, el desarrollo personal de los hijos o pupilos ofreciéndole a los padres o tutores la información y conocimientos básicos sobre diferentes temas con el objetivo de proporcionarles capacitación profesional para ejercer correctamente su función.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
 II.- La escuela de padres y tutores propiciará entre otros, facilitar recursos educativos y formativos a los padres o tutores, para promover en sus hijos o pupilos valores, actitudes, habilidades personales, hábitos y conductas sociales sanas que les permitan interactuar de mejor manera con su entorno y propiciar en ellos un mejor desarrollo educativo, comunitario y personal.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
 III.- La duración de la escuela de padres y tutores en ningún caso, podrá ser menor a 10 sesiones por ciclo escolar, y cada sesión no podrá durar menos de 90 minutos efectivos en su desarrollo.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
 IV.- Los temas a desarrollar en la escuela de padres y tutores deberán ser incluidos en un manual didáctico en el Reglamento que para tal efecto expida el Titular del Ejecutivo del Estado.
 
-Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la tolerancia y el respeto en general a la dignidad humana como valores primordiales.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la equidad de género, el respeto por las personas con discapacidad, la tolerancia y el respeto en general, a la dignidad humana como valores primordiales.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Asimismo, se incluirán temas como la prevención, detección y atención de la violencia escolar.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
 V.- Los comités de padres de familia en conjunto con los educadores elaboraran al inicio de cada ciclo escolar el cronograma de actividades en el que se incluyan los siguientes aspectos:
 
@@ -1229,7 +1265,7 @@ III.- Participar en la aplicación de cooperaciones en numerario, bienes y servi
 
 IV.- Propiciar el mejoramiento social y cultural de sus miembros;
 
-V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y (sic)
+V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y
 
 VI.- La organización y el funcionamiento de las asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades escolares municipales y estatales se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
@@ -1299,7 +1335,7 @@ I.- Tratar ante las autoridades educativas los intereses que en materia educativ
 
 II.- Colaborar con las Asociaciones de Padres de Familia de las escuelas del Estado, para una mejor integración de la comunidad escolar y el mejoramiento de los planteles educativos;
 
-III.- Proponer las medidas que estimen pertinentes para alcanzar los objetivos señalados en las fracciones anteriores; (sic)
+III.- Proponer las medidas que estimen pertinentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1826,3 +1862,15 @@ III.- SERÁ READSCRITO PARA CONTINUAR DENTRO DEL SERVICIO EDUCATIVO, CONFORME A 
 IV.- SERÁ CON PLENO RESPETO A LOS DERECHOS CONSTITUCIONALES Y LABORALES DE LOS TRABAJADORES DE LA EDUCACIÓN, SIN MODIFICAR SUS CONDICIONES CONTRACTUALES NI OCASIONAR PERJUICIO ALGUNO A OTROS DERECHOS LABORALES.
 
 SÉPTIMA. Se conservan los derechos adquiridos por los maestros jubilados y pensionados, en términos de la seguridad social que les corresponda y prestaciones del Estado.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO. Para dar cumplimiento al presente Decreto, el Titular del Ejecutivo Estatal, en un término de 90 días naturales realizará las modificaciones correspondientes al Programa de Escuela de Padres y Tutores.
+
+CUARTO. Para el cumplimiento de (sic) presente Decreto, el Titular del Ejecutivo Estatal en un término de 90 días hábiles siguientes a su entrada en vigor, expedirá el Reglamento de Alumnas en Situación de Embarazo.
+
+QUINTO. En un término de 120 días hábiles, el Titular del Ejecutivo del Estado, elaborará el Programa para Prevenir y Atender las causas de Ausencia y Deserción Escolar.
