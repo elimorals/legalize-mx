@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2014-06-11"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -581,7 +581,7 @@ En caso de disolución de concubinato o matrimonio, los alimentos se otorgarán 
 
 ###### ARTÍCULO 38.
 
-OBLIGACIÓN ALIMENTARlA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+OBLIGACIÓN ALIMENTARIA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1597,7 +1597,7 @@ XVIII.- La separación del hogar conyugal por una causa que sea bastante para so
 
 XIX.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
 
-XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y (sic)
+XX.- Cuando uno de los cónyuges, por tratamiento médico o quirúrgico, intente cambiar o cambie de sexo; y
 
 XXI.- Cuando uno de los cónyuges cometa un delito intencional en agravio de sus hijos;
 
@@ -1636,6 +1636,10 @@ III.- Durante el matrimonio el demandante no haya adquirido bienes propios.
 ###### ARTÍCULO 179.
 
 PENSIÓN ALIMENTICIA DERIVADA DEL DIVORCIO. En los casos de divorcio necesario, el Juez tomando en cuenta las circunstancias del caso, entre ellas la capacidad para trabajar de los cónyuges, y su situación económica, sentenciará al culpable al pago de los alimentos en favor del inocente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Tratándose de demandas de divorcio necesario y patria potestad, dentro del auto de admisión el juez podrá decretar las convivencias de los menores con el progenitor que no ejerza la guarda y custodia al momento de presentarse la demanda.
 
 En los casos de divorcio por mutuo consentimiento se respetará la voluntad de las partes expresada en el convenio, salvo que el mismo sea lesivo a alguno de ellos, en cuyo caso se oirá la opinión del Ministerio Público.
 
@@ -2097,7 +2101,7 @@ I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese dere
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 439, del Código Procesal Familiar;
 
-III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y (sic)
+III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, comprometiendo la salud, la seguridad o la moralidad de los sujetos a patria potestad, sin perjuicio de las sanciones penales que procedan; y
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -6154,3 +6158,13 @@ DECRETO NÚMERO MIL CUATROCIENTOS CUARENTA Y UNO POR EL QUE SE REFORMA LA FRACCI
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, y la fracción XVII, inciso a) del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
