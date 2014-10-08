@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-firma-electronica-de-la-ciudad-de-mexico-antes-ley-70690
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-04"
-last_updated: "2011-08-16"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70690&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-10-30"
 ---
 # LEY DE FIRMA ELECTRONICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE FIRMA ELECTRONICA DEL DISTRITO FEDERAL --
 
-LEY DE FIRMA ELECTRONICA DEL DISTRITO FEDERAL
+LEY DE FIRMA ELECTRÓNICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de noviembre de 2009.
 
@@ -50,9 +50,15 @@ Ley de Firma Electrónica del Distrito Federal
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular y promover el uso de la firma electrónica por parte de los órganos Ejecutivo, Legislativo, Judicial y Autónomos, así como de los particulares; para agilizar, simplificar y hacer más accesibles todas (sic) los actos y trámites en que intervengan.
+La presente ley es de orden público e interés general y tiene por objeto regular y promover el uso y la aplicación de la firma electrónica y la firma electrónica avanzada, de los medios electrónicos por parte de los órganos ejecutivo, Legislativo, Judicial y Autónomos, así como de los particulares; para agilizar, simplificar y hacer más accesibles todas (sic) los actos y trámites en que intervengan.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+El uso de la firma electrónica y de la firma electrónica avanzada tiene como finalidad fomentar la incorporación de nuevas tecnologías de seguridad, para agilizar y simplificar actos, trámites, servicios, comunicaciones y procedimientos en la Administración Pública del Distrito Federal.
 
 A falta de disposición expresa de esta Ley será de aplicación supletoria la normatividad de la materia, aplicable al acto o trámite a realizarse.
 
@@ -60,7 +66,9 @@ A falta de disposición expresa de esta Ley será de aplicación supletoria la n
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Certificado Electrónico: El documento firmado electrónicamente por un prestador de servicios de certificación que vincula los datos de firma a su autor y confirma su identidad;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+I. Certificado Electrónico: El documento firmado por un prestador de servicios de certificación, mediante el cual se confirma el vínculo informático existente entre el firmante y la firma electrónica.
 
 II. Contraloría: La Contraloría General del Distrito Federal;
 
@@ -76,17 +84,23 @@ VII. Entes Públicos: Los órganos Ejecutivo, Legislativo, Judicial y Autónomos
 
 VIII. Fecha electrónica: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
 
-IX. Firma Electrónica: La firma electrónica avanzada que es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-X. Ley: La Ley de Firma Electrónica del Distrito Federal;
+IX. Firma Electrónica: Al conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o emisor.
 
-XI. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+> <small>(ADICIONADA, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-XII. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide certificados electrónicos;
+X. Firma Electrónica Avanzada: A la firma electrónica que permite la identificación del signatario y ha sido creada por medios que éste mantiene bajo su exclusivo control, de manera que está vinculada al mismo. Es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa.
 
-XIII. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privados y servidores públicos que posean un certificado electrónico con validez jurídica;
+XI. Ley: La Ley de Firma Electrónica del Distrito Federal.
 
-XIV. Unidad de Firma Electrónica: La Unidad administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 5 de esta Ley. En el caso de la Administración Pública del Distrito Federal estará adscrita a la Contraloría General.
+XII. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+
+XIII. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide certificados electrónicos.
+
+XIV. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privados y servidores públicos que posean un certificado electrónico con validez jurídica.
+
+XV. Unidad de Firma Electrónica: La Unidad administrativa adscrita a los entes públicos, responsable de ejercer las atribuciones establecidas en el artículo 5 de esta Ley. En el caso de la Administración Pública del Distrito Federal estará adscrita la Oficialía Mayor.
 
 ###### Artículo 3.
 
@@ -473,3 +487,9 @@ TERCERO.- Cada uno de los Entes Públicos habilitará los portales de internet, 
 CUARTO.- La Contraloría General del Distrito Federal deberá habilitar el portal de Internet denominado "Gobierno en línea 2.0", en un plazo máximo de doce meses a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- El Instituto de Ciencia y Tecnología del Distrito Federal deberá elaborar, en un plazo máximo de tres meses a partir de la entrada en vigor del presente Decreto, un estudio con recomendaciones sobre el uso de redes sociales en el Distrito Federal.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de sui (sic) publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
