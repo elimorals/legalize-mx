@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2014-07-23"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -47,13 +47,17 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden e interés públicos y tienen por objeto establecer la organización de la Administración Pública del Estado de Morelos, definir las atribuciones y asignar las facultades para el despacho de las mismas a cargo del Gobernador Constitucional del Estado, de los órganos centrales y descentralizados, desconcentrados y paraestatales, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
+Las disposiciones contenidas en la presente Ley son de orden e interés públicos y tienen por objeto establecer la organización de la Administración Pública del Estado de Morelos, definir las atribuciones y asignar las facultades para el despacho de las mismas a cargo del Gobernador Constitucional del Estado, de los órganos centrales y paraestatales, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2.
 
-La Administración Pública del Estado de Morelos será central y descentralizada, desconcentrada y paraestatal.
+La Administración Pública del Estado de Morelos será central y paraestatal.
 
 La Gubernatura del Estado, las secretarías, la Procuraduría General de Justicia y la Consejería Jurídica, son las unidades que integran la administración pública centralizada.
 
@@ -65,11 +69,17 @@ Los organismos descentralizados, las empresas de participación estatal mayorita
 
 Para los efectos de esta Ley se entiende por:
 
-I. Administración pública. El conjunto de órganos que componen la administración central y descentralizada, desconcentrada y paraestatal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-II. Administración pública centralizada. Las secretarías y las dependencias, entendiéndose por estas a todas las unidades auxiliares del Gobernador Constitucional del Estado;
+I. Administración Pública. El conjunto de órganos que componen la Administración Central y Paraestatal;
 
-III. Administración pública desconcentrada. Los órganos administrativos constituidos por el Gobernador Constitucional del Estado, jerárquicamente subordinados al propio Gobernador, a la secretaría o a la dependencia que éste determine;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+II. Administración Pública Centralizada. Las secretarías y las dependencias, entendiéndose por estas a todas las unidades auxiliares del Gobernador Constitucional del Estado; y los órganos administrativos desconcentrados;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+III. Órgano Desconcentrado. Los órganos Administrativos constituidos por el Gobernador Constitucional del Estado, jerárquicamente subordinados al propio Gobernador, a la secretaría o a la dependencia que éste determine;
 
 IV. Administración pública paraestatal. El conjunto de entidades siguientes: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
@@ -87,9 +97,13 @@ X. Reglamentos. Los reglamentos interiores de todas y cada una de las secretarí
 
 XI. Servicio público. La actividad organizada que realice o concesione la administración pública conforme a las disposiciones jurídicas vigentes en el Estado de Morelos, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo;
 
-XII. Servidor público. Toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la administración pública estatal o paraestatal, central, desconcentrada o descentralizada; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XIII. Unidades. Las secretarías, dependencias y entidades que conforman la administración pública estatal.
+XII. Servidor público. Toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Central y Paraestatal;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XIII. Unidades. Las secretarías, dependencias, entidades y órganos administrativos desconcentrados que conforman la Administración Pública Central.
 
 ###### Artículo 4.
 
@@ -259,9 +273,11 @@ Los nombramientos de los servidores públicos considerados de confianza, expedid
 
 Dentro de los reglamentos interiores se establecerán las suplencias de los servidores públicos en casos de ausencia temporal o absoluta del titular de la secretaría o dependencia, suplencia que no durará más de noventa días naturales.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Los titulares de las secretarías, dependencias y entidades de la administración pública, así como todos aquellos servidores públicos del Estado, que ocupen cargos considerados de confianza, sean de mando superior o medio, deberán atender de tiempo completo las funciones de su encargo, sin poder desempeñar otro empleo, cargo o comisión, en los términos que determine la ley y sus excepciones.
+Los titulares de las secretarías, dependencias, órganos administrativos desconcentrados y entidades de la administración pública, así como todos aquellos servidores públicos del Estado, que ocupen cargos considerados de confianza, sean de mando superior o medio, deberán atender de tiempo completo las funciones de su encargo, sin poder desempeñar otro empleo, cargo o comisión, en los términos que determine la Ley y sus excepciones.
 
 ###### Artículo 17.
 
@@ -675,9 +691,9 @@ XVIII. Promover la participación de la sociedad a través del Consejo Estatal p
 
 XIX. Realizar la planeación estratégica para la protección del ambiente y el desarrollo sustentable de Morelos, a través de la colaboración intersectorial y de las instituciones académicas.
 
-> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XX. Expedir, previo acuerdo con el Gobernador, las Políticas y Programas en materia de Vivienda, así como proponer, dirigir, coordinar y controlar la ejecución de Programas de Vivienda, en armonía con el Plan Estatal de Desarrollo vigente y el Sistema Estatal de Planeación Democrática.
+XX. Proponer, instrumentar y aplicar las políticas y planes para la protección de los animales domésticos y coadyuvar en la protección de las especies silvestres que se encuentren dentro del Estado de Morelos.
 
 ###### Artículo 28.
 
@@ -1922,3 +1938,23 @@ DECRETO NÚMERO 1492, POR EL QUE SE ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 27 Y 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1639, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, 3 Y 16 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1667, POR EL QUE SE ADICIONA LA FRACCIÓN XX, AL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
