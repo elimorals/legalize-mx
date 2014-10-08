@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2013-04-15"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -1241,47 +1241,17 @@ TARIFA:
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-ZONA “A” ZONA “B” ZONA”C”
+ZONA "A" ZONA "B" ZONA"C"
 
 I.- Nacimientos:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+a).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-a).- En las oficinas del
+b).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-Registro Civil en días
+c).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-y horas hábiles con
-
-entrega de copia
-
-certificada del acta
-
-respectiva 1.0 S.M.G. 1.0 S.M.G. 2.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
-b).- En las Oficinas del
-
-registro civil en días y
-
-horas inhábiles 1.0 S.M.G. 1.5 S.M.G. 2.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
-c).- Fuera de las oficinas
-
-del registro civil en horas
-
-hábiles 4.0 S.M.G. 4.5 S.M.G. 5.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
-
-d).- Fuera de las oficinas
-
-del registro civil en horas
-
-inhábiles 6.5 S.M.G. 7.5 S.M.G. 8.5 S.M.G.
+d).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1453,7 +1423,7 @@ de muerte o que ha
 
 perdido la capacidad
 
-de administrar bienes 6.5 S.M.G. 7.0 S.M.G. 7.5 S.M.G.
+de administrar bienes. 6.5 S.M.G. 7.0 S.M.G. 7.5 S.M.G.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1467,13 +1437,15 @@ c).- Anotaciones
 
 marginales 0.5 S.M.G. 0.5 S.M.G. 0.5 S.M.G.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 d).- Expedición de
 
-certificados de actas
+certificaciones de
 
-de nacimiento 0.5 S.M.G. 0.5 S.M.G. 0.5 S.M.G.
+actas de nacimiento. 0.5 S.M.G. 0.5 S.M.G. 0.5 S.M.G.
+
+Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -1549,11 +1521,11 @@ Las oficinas del Registro Civil deberán mantener a la vista de los usuarios una
 
 En los casos de desastres, ciclones, sismos o campañas de regularización como matrimonios colectivos o solicitudes de oficios de las autoridades, los Ayuntamientos respectivos, a través de sus autoridades fiscales enunciadas en el capítulo de Disposiciones Generales de esta Ley, podrán subsidiar hasta el 100% de los derechos que causen las actas del Registro Civil.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 69.
 
-Los Oficiales del Registro Civil y sus Secretarías cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción l, incisos B), C), D); fracción ll, incisos B), C), D), H) y J), y fracción IV, inciso B) del artículo 67.
+Los oficiales del Registro Civil y su auxiliar cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción II, incisos b), c), d), h) y j), y la fracción IV, inciso b) del Artículo 67.
 
 ###### ARTÍCULO 70.
 
@@ -5304,3 +5276,9 @@ CUARTO.- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintan
 P.O. 15 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
