@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2013-08-19"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -129,29 +129,37 @@ Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuiculto
 
 XXV. Plan. El Plan Estatal de Desarrollo Vigente;
 
-XXVI. Programa Económico.- Paquete de estímulos aprobado conforme a los procedimientos de esta Ley cuyo objetivo primordial es reactivar o apoyar algún sector ó actividad económica de una región definida de la entidad;
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXVII. Proyectos de Inversión.- Para efectos de la presente ley se consideran todos aquellos proyectos que impliquen alto impacto para el desarrollo económico en razón de la cuantía de las inversiones, la vinculación con agrupamientos empresariales regionales, utilización de tecnología de punta, la generación de empleos y su orientación al mercado local, nacional e internacional;
+XXVI. Primer Negocio. Funcionamiento de una Micro, Pequeña o Mediana Empresa de nueva creación y desarrollada por un emprendedor;
 
-XXVIII. Reglamento.- El Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXIX. SECDE.- El Sistema Estatal de Capacitación para el Desarrollo Económico;
+XXVII. Programa Económico. Paquete de estímulos aprobado conforme a los procedimientos de esta Ley cuyo objetivo primordial es reactivar o apoyar algún sector o actividad económica de una región definida de la entidad;
 
-XXX. Secretaría.- La Secretaría de Desarrollo Económico del Estado;
+XXVIII. Proyectos de Inversión.- Para efectos de la presente ley se consideran todos aquellos proyectos que impliquen alto impacto para el desarrollo económico en razón de la cuantía de las inversiones, la vinculación con agrupamientos empresariales regionales, utilización de tecnología de punta, la generación de empleos y su orientación al mercado local, nacional e internacional;
 
-XXXI. Sector motor.- Sector económico en el que se concentran las empresas de los agrupamientos empresariales que mueven la economía del Estado;
+XXIX. Reglamento.- El Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo;
 
-XXXII. SINACE.- Sistema de Incubación y Aceleración de Empresas de Quintana Roo;
+XXX. SECDE.- El Sistema Estatal de Capacitación para el Desarrollo Económico;
 
-XXXIII. SIEMQROO.- El Sistema de Información Económica y de Mercado de Quintana Roo;
+XXXI. Secretaría.- La Secretaría de Desarrollo Económico del Estado;
 
-XXXIV. Trabajo Decente.- Es aquél trabajo en el que se respeta plenamente la dignidad de la empleada o el empleado, otorgándole un salario adecuado, seguridad en el lugar de trabajo y protección social para ella o él y su familia, mejores perspectivas de desarrollo personal e integración a la sociedad, libertad para que exprese sus opiniones, organización y participación en las decisiones que afectan su vida, e igualdad de oportunidades y trato, y que no admite discriminación por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opinión, preferencia sexual, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de la empleada o el empleado;
+XXXII. Sector motor.- Sector económico en el que se concentran las empresas de los agrupamientos empresariales que mueven la economía del Estado;
 
-XXXV. Trabajador de Primer Empleo.- Trabajador, mujer o hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado de forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXXVI. Ventaja Competitiva.- Características que posee un producto o un servicio, que derivado de los procesos de innovación y mejoras, obtienen una mejor calidad en relación a los que presenta la competencia; y
+XXXIII. Simplificación Administrativa. Proceso que consiste en eliminar o compactar fases del proceso administrativo, así como requisitos y trámites a fin de ganar agilidad y oportunidad en la prestación de servicios públicos o trámites administrativos;
 
-XXXVII. Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tienen cada región del Estado.
+XXXIV. SIEMQROO.- El Sistema de Información Económica y de Mercado de Quintana Roo;
+
+XXXV. Trabajo Decente.- Es aquél trabajo en el que se respeta plenamente la dignidad de la empleada o el empleado, otorgándole un salario adecuado, seguridad en el lugar de trabajo y protección social para ella o él y su familia, mejores perspectivas de desarrollo personal e integración a la sociedad, libertad para que exprese sus opiniones, organización y participación en las decisiones que afectan su vida, e igualdad de oportunidades y trato, y que no admite discriminación por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opinión, preferencia sexual, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de la empleada o el empleado;
+
+XXXVI. Trabajador de Primer Empleo.- Trabajador, mujer o hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado de forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
+
+XXXVII. Ventaja Competitiva.- Características que posee un producto o un servicio, que derivado de los procesos de innovación y mejoras, obtienen una mejor calidad en relación a los que presenta la competencia; y
+
+XXXVIII. Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tienen cada región del Estado.
 
 ### CAPÍTULO IV. DE LAS ACTIVIDADES ECONOMICAS PRIORITARIAS
 
@@ -276,6 +284,10 @@ IV.- Integrar de manera regional los programas de crecimiento económico y produ
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 2012)</small>
 
 V.- Promover y estimular el acceso al primer empleo de las y los jóvenes quintanarroenses.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+VI.- Promover y estimular el acceso al empleo de las y los jóvenes que sean egresados de Instituciones de educación superior en el Estado y de las jóvenes en condición de madres solteras.
 
 ###### Artículo 10.
 
@@ -505,9 +517,9 @@ II.- Prevenir las repercusiones de los procesos de reconversión productiva sobr
 
 III.- Inducir la transferencia de las personas ocupadas en actividades urbanas o rurales de baja productividad e ingresos, a otras actividades de mayor productividad;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-IV.- Fomentar las oportunidades de trabajo decente para los grupos que enfrentan mayores dificultades de inserción laboral, como lo son, las personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo;
+IV.- Fomentar las oportunidades de trabajo decente para los grupos que enfrentan mayores dificultades de inserción laboral, como lo son, las personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo, sean egresados de Instituciones de educación superior en el Estado o tengan condición de madres solteras;
 
 V.- Incorporar la formación profesional y la certificación de competencias laborales como componente básico de las políticas y programas de empleo;
 
@@ -695,11 +707,15 @@ La Comisión de Energía contará con un Director Operativo que será el respons
 
 ## TÍTULO III. DEL FOMENTO AL DESARROLLO ECONÓMICO
 
-### CAPÍTULO I. APOYOS A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO I. DEL EMPRENDIMIENTO Y DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 44.
 
-La Secretaría, en apoyo a las micro, pequeñas y medianas empresas, tendrá entre otros, los siguientes objetivos:
+La Secretaría, en apoyo a los emprendedores, a las Micro, Pequeñas y Medianas Empresas, tendrá los siguientes objetivos:
 
 I.- Fomentar la creación de incubadoras y aceleradoras de empresas, gestionándoles espacio físico, tecnología, capacitación y asesoría para su adecuada operación;
 
@@ -737,21 +753,89 @@ XVII.- Promover la reducción de trámites y requisitos para su apertura;
 
 XVIII.- Realizar gestiones y organizar ferias, foros y reuniones de todo tipo para incorporarlas a las cadenas productivas y vincularlas con los principales centros de consumo;
 
-XIX.- Llevar a cabo ferias, foros y exposiciones para promover los productos, servicios y atractivos quintanarroenses.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XIX.- Llevar a cabo ferias, foros y exposiciones para promover los productos, servicios y atractivos quintanarroenses;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XX.- Planear y coordinar las políticas y acciones de fomento para el emprendimiento de los jóvenes para la creación de Micro, Pequeñas y Medianas Empresas;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXI.- Fomentar la creación y el desarrollo de las Micro, Pequeñas y Medianas Empresas, en favor de los emprendedores, mediante instrumentos de financiamiento y gestión de apoyos municipales, estatales y federales, con la finalidad del establecimiento del primer negocio;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXII.- Fortalecer la competitividad de las Micro, Pequeñas y Medianas Empresas instaladas;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXIII.- Proponer, en coordinación con la Secretaría de Finanzas y Planeación del Gobierno del Estado, incentivos fiscales que otorguen seguridad a los emprendedores para la creación de las Micro, Pequeñas y Medianas Empresas. Estos incentivos se brindarán de forma especial para quienes establezcan su primer negocio;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXIV.- Promover la simplificación administrativa en el Estado, a través de las distintas dependencias y organismos estatales y municipales, con especial énfasis en lo relativo a los trámites que impactan la creación de las Micro, Pequeñas y Medianas Empresas, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXV.- Establecer mecanismos suficientes de simplificación administrativa para que los emprendedores consoliden la creación de las Micro, Pequeñas y Medianas Empresas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 44
+
+Bis.- Para el logro de los fines previstos en las fracciones XXI a XXV del artículo anterior, la Secretaría a través de la Dirección del Emprendedor, podrá celebrar convenios de coordinación con autoridades federales, estatales y municipales, así como con el sector privado y social.
+
+La Dirección del Emprendedor, tiene por objeto instrumentar, ejecutar y coordinar la política Estatal de apoyo a emprendedores y a las Micro, Pequeñas y Medianas Empresas, y estará a cargo de un Director General, quien será designado por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 44
+
+Ter.- La Dirección del Emprendedor tendrá las siguientes atribuciones:
+
+I. Proponer al Gobernador del Estado un programa anual de incentivos a los emprendedores, a la inversión y al primer negocio, en donde se contemplen las políticas públicas necesarias para elevar la competitividad del Estado;
+
+II. Planear y desarrollar, en coordinación con autoridades estatales y municipales, un programa de simplificación administrativa que incentive y facilite a los emprendedores, la creación de Micro, Pequeñas y Medianas Empresas;
+
+III. Proponer, desarrollar y ejecutar los programas, estrategias y acciones que se brinden para el apoyo, atención, creación y competitividad de los emprendedores y de las Micro, Pequeñas y Medianas Empresas;
+
+IV. Dar seguimiento a los apoyos económicos que sean canalizados a los emprendedores, derivado de recursos federales, o esquemas de recursos compartidos o mixtos con los gobiernos, el sector privado y el sector académico;
+
+V. Brindar asesoría, capacitación y consultoría, en materia de formación emprendedora, incubación, aceleración, innovación, financiamiento e implementación y mejora de procesos de administración, gestión, producción y comercialización a los emprendedores, a las Micro, Pequeñas y Medianas empresas, así como su implementación y desarrollo;
+
+VI. Desarrollar sistemas de información integrales que permitan contar con información detallada de los esquemas de financiamiento, obtención de capital y de los procesos de acceso y otorgamiento de los créditos en el sistema financiero relacionados con emprendedores y las Micro, Pequeñas y Medianas Empresas;
+
+VII. Promover y difundir la importancia de la cultura empresarial con la finalidad de fortalecer un Estado emprendedor;
+
+VIII. Diseñar y coordinar mecanismos de apoyo a las Micro, Pequeñas y Medianas Empresas para su integración a la cadena productiva como proveedores o distribuidores;
+
+IX. Ejecutar las políticas y acciones de fomento para el emprendimiento de los jóvenes para la creación de Micro, Pequeñas y Medianas Empresas;
+
+X. Promover el desarrollo e instrumentación de proyectos de innovación entre los jóvenes, atendiendo a las actividades económicas del Estado, preponderantemente a la artesanal;
+
+XI. Coordinarse con las autoridades educativas correspondientes, a efecto de impulsar la cultura del emprendimiento entre los jóvenes quintanarroenses, tanto en las escuelas de niveles medio superior y superior para lograr una visión empresarial;
+
+XII. Organizar concursos entre los jóvenes emprendedores que hayan elaborado proyectos de innovación y de desarrollo tecnológico, para fomentar la iniciativa y creatividad entre este sector;
+
+XIII. Celebrar convenios con las instituciones educativas del nivel medio superior y superior, a efecto de elaborar bases de datos de los egresados que cuenten con un proyecto empresarial que permita encaminar de manera congruente y efectiva las acciones y políticas públicas del Estado, y
+
+XIV. Las demás que le confieran otras disposiciones legales o administrativas, así como las que le encomiende el Gobernador del Estado.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO AL DESARROLLO EMPRESARIAL
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 45.
 
-En apoyo a las micro, pequeñas y medianas empresas, se crea la unidad administrativa denominada Fondo para el Desarrollo Económico de Quintana Roo (FODEQROO), para la coordinación y fomento de los apoyos económicos, crédito y garantía, misma que formará parte de la estructura de la Secretaría.
+En apoyo a los emprendedores, a las Micro, Pequeñas y Medianas Empresas, se crea la unidad administrativa denominada Fondo para el Desarrollo Económico de Quintana Roo (FODEQROO), para la coordinación y fomento de los apoyos económicos, crédito y garantía, como un órgano desconcentrado del Poder Ejecutivo, adscrito a la Secretaría de Desarrollo Económico cuyo domicilio estará en la Ciudad de Chetumal, Capital del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-###### Artículo 46.
+###### Articulo 46.
 
-El FODEQROO tendrá por objeto la coordinación administrativa, la gestión y la vinculación para el fortalecimiento de los fondos, fideicomisos y otras fuentes financieras que fortalezcan a la entidad en materia de crédito y garantía, en beneficio de las Micro, Pequeñas y Medianas Empresas establecidas en el Estado, cuyas actividades incidan en: la competitividad empresarial, la generación de empleos, la articulación de cadenas productivas apegados a los sectores motrices del Plan Estatal de Desarrollo vigente, así como en el desarrollo de proveedores del sector empresarial.
+El FODEQROO tendrá por objeto y fines la coordinación administrativa, la gestión, la vinculación y el coadyuvar recursos para el fortalecimiento de los fondos, fideicomisos y otras fuentes financieras que fortalezcan a la entidad en materia de crédito y garantía, en beneficio de los emprendedores, de las Micro, Pequeñas y Medianas Empresas establecidas en el Estado, cuyas actividades incidan en la competitividad empresarial, la generación de empleos, la articulación de cadenas productivas apegados a los sectores motrices del Plan Estatal de Desarrollo vigente, así como en el desarrollo de proveedores del sector empresarial.
 
 ###### Artículo 47.
 
@@ -901,47 +985,59 @@ El Presidente del Comité Técnico presidirá las sesiones ordinarias y extraord
 
 Las sesiones del Comité Técnico serán ordinarias y extraordinarias, debiendo celebrarse las primeras cuando menos tres veces por año y la segunda, cuando exista algún asunto que así lo amerite y que hayan sido convocadas con tal carácter. Las sesiones sólo podrán celebrarse válidamente cuando exista quórum legal, mismo que se conforma por la asistencia de la mitad más uno de los integrantes del Comité Técnico.
 
-### CAPÍTULO III. DEL SISTEMA ESTATAL DE INCUBACIÓN Y ACELERACIÓN DE EMPRESAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+### CAPITULO III. DEL SISTEMA ESTATAL DEL EMPRENDEDOR
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 57.
 
-El Sistema Estatal de Incubación y Aceleración de Empresas, tiene por objeto, coordinar y armonizar el ejercicio de las incubadoras y aceleradoras de negocios establecidas en el Estado, para generar sinergias orientadas a la creación de empresas de base tecnológica competitivas, basadas en la capacidad de emprender y en la disponibilidad de capital intelectual y de innovación.
+El Sistema Estatal del Emprendedor tiene por objeto establecer las políticas públicas que generen la creación y establecimiento de Micro, Pequeñas y Medianas Empresas, y es el órgano rector de operación de incubadoras y aceleradoras de negocios en el Estado. La coordinación de la operación del Sistema Estatal del Emprendedor, estará a cargo de la Secretaría.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 58.
 
-El Sistema, es el órgano responsable de las políticas para la creación de nuevas empresas por sector y es también el foro para el establecimiento de lineamientos de operación de las incubadoras y aceleradoras existentes en el Estado, a fin de fomentar el desarrollo competitivo de éstas, en base a su perfil técnico, a sus recursos humanos y a la más apropiada cobertura geográfica.
+El Sistema Estatal del Emprendedor sustenta su operación en un esquema consultivo para la toma de decisiones consensuadas, que faciliten la construcción de cadenas de valor para los sectores estratégicos de la economía del Estado. Sus funciones son:
+
+I. Potenciar la creación de Micro, Pequeñas y Medianas Empresas para favorecer el desarrollo de un primer negocio;
+
+II. Definir los parámetros para la operación coordinada y eficiente de las incubadoras y aceleradoras de negocios, y
+
+III. Coordinar la revisión y evaluación periódica de los planes, programas, metas y avances de cada incubadora y aceleradora de negocios.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 59.
 
-El Sistema es el instrumento rector del proceso de incubación y aceleración de empresas preferentemente de base tecnológica. Sustenta su operación en un esquema consultivo para la toma de decisiones consensuadas, que faciliten la construcción de cadenas de valor para los sectores estratégicos de la economía del Estado. Sus funciones son:
+El Sistema estará integrado por:
 
-I.- Ayudar a potenciar el ejercicio de las incubadoras y aceleradoras de acuerdo a sus fortalezas y retos competitivos para favorecer el desarrollo de empresas y negocios de base tecnológica que fundamenten su competitividad en procesos y servicios de alto valor agregado;
+I. Un Presidente, que será el Gobernador del Estado;
 
-II.- Vincular el ejercicio de incubación y aceleración a los trabajos de los Centros de Articulación Productiva, para cimentar la identificación y desarrollo de perfiles de negocios;
+II. Un Secretario Técnico, que será el Titular de la Dirección del Emprendedor;
 
-III.- Definir los parámetros para la operación coordinada y eficiente de las incubadoras y aceleradoras;
+III. El Titular de la Secretaría de Desarrollo Económico;
 
-IV.- Planear y prever la asignación anual de recursos para la operación de las incubadoras y aceleradoras, así como facilitar el acceso al financiamiento para las empresas que de ahí se deriven; y
+IV. El Titular de la Secretaría de Finanzas y Planeación del Gobierno del Estado;
 
-V.- Coordinar la revisión y evaluación periódica de los planes, programas, metas y avances de cada incubadora y aceleradora.
+V. El Titular de la Secretaría de Trabajo y Previsión Social del Gobierno del Estado;
+
+VI. El Titular del Instituto de Capacitación para el Trabajo del Estado de Quintana Roo;
+
+VII. El Presidente de la Comisión de Hacienda, Presupuesto y Cuenta del Congreso del Estado de Quintana Roo;
+
+VIII. El Presidente de la Comisión de Planeación y Desarrollo Económico del Congreso del Estado de Quintana Roo, y
+
+IX. Un representante de la Red de las incubadoras y aceleradoras de negocios que operen en el Estado.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 60.
 
-El Sistema estará integrado por:
+El Sistema Estatal del Emprendedor establecerá la Red Estatal de Incubadoras para la creación de nuevas empresas, con el fin de apoyar el desarrollo económico. Para el establecimiento de esta red, se podrá suscribir convenios entre entidades de la Administración Pública Federal, Estatal o Municipal, Instituciones de educación superior, y del sector privado o social que sean necesarios.
 
-I.- Un Presidente: que será el Secretario de Desarrollo Económico;
-
-II.- Un Secretario Técnico: que será el Subsecretario de Desarrollo Económico; y
-
-III.- Los Vocales con derecho a voz y voto que representen a:
-
-a) Las Instituciones, que cuenten con incubadoras de empresas;
-
-b) Las Instituciones, que cuenten con aceleradoras de empresas;
-
-c) El Consejo Quintanarroense de Ciencia y Tecnología; y
-
-d) Dos representantes del sector empresarial.
+La Dirección del Emprendedor, será el órgano rector de esta Red Estatal de Incubadoras.
 
 ### CAPÍTULO IV. DEL SISTEMA ESTATAL DE CAPACITACIÓN PARA EL DESARROLLO ECONÓMICO
 
@@ -1047,9 +1143,9 @@ V.- Su grado de integración a las cadenas productivas del Estado y su aportaci�
 
 VI.- Inviertan en proyectos resultados de innovación que genere alto valor agregado con enfoque de transferencia;
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-VII.- Contraten personas adultas mayores, personas productivas con alguna discapacidad, jóvenes en edad productiva y/o jóvenes en situación de primer empleo;
+VII.- Contratación de personas adultas mayores, personas productivas con alguna discapacidad, jóvenes en edad productiva, jóvenes en situación de primer empleo, egresados de instituciones de educación superior en el Estado o tengan condición de madres solteras;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2012)</small>
 
@@ -1127,11 +1223,25 @@ Las Empresas estarán obligadas a presentar la información que le sea requerida
 
 La Secretaría podrá establecer convenios con los municipios del Estado para efecto del cumplimiento del presente artículo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II BIS. DE LOS INCENTIVOS AL ESTABLECIMIENTO DEL PRIMER NEGOCIO
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 74
+
+Bis.- Los incentivos que se podrán otorgar por tiempo determinado a las Micro, Pequeñas y Medianas Empresas que desarrollan un primer negocio, consistirán en:
+
+I. Implementación de un programa de simplificación administrativa y gestión de trámites ante autoridades federales, estatales y municipales, para el establecimiento de un primer negocio;
+
+II. Reducción de hasta el 50% del pago de derechos estatales, de acuerdo al programa anual de incentivos a los emprendedores, a la inversión y al primer negocio que para el efecto apruebe el Gobernador del Estado;
+
+III. Apoyo por parte del Instituto de Capacitación para el Trabajo del Estado de Quintana Roo para la capacitación y adiestramiento al público en general y a los trabajadores que estén orientados a la productividad y competitividad en el empleo, y
+
+IV. Reducción de hasta el 50% del pago del Impuesto Sobre Nóminas en proporción al número de empleos generados y su nivel de remuneración, de acuerdo al programa anual de incentivos a los emprendedores, a la inversión y al primer negocio que para el efecto apruebe el Gobernador del Estado.
+
 ### CAPÍTULO III. COMERCIO EXTERIOR
-
-### CAPÍTULO IV. DEL REGISTRO DE EMPRESA QUINTANARROENSE
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 75.
 
@@ -1153,9 +1263,9 @@ V.- Promover la realización de estudios prospectivos y de impacto regional en m
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
-### CAPÍTULO I
+### CAPÍTULO IV. DEL REGISTRO DE EMPRESA QUINTANARROENSE
 
-DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -1281,11 +1391,13 @@ VI.- Estímulos fiscales para casos específicos; y
 
 VII.- Los demás que anualmente apruebe el Consejo.
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I
+
+DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
 
 ## TÍTULO V. DE LA COORDINACIÓN Y CONCERTACIÓN SECTORIAL
 
-### CAPÍTULO II. DE RECURSO DE REVISIÓN
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 77.
 
@@ -1401,7 +1513,7 @@ XVIII.- Las demás que se deriven de esta ley.
 
 ## TÍTULO VI. DEL INCUMPLIMIENTO
 
-### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
+### CAPÍTULO II. DE RECURSO DE REVISIÓN
 
 ###### Artículo 82.
 
@@ -1456,6 +1568,8 @@ III.- Transcurrido dicho plazo, la autoridad que otorgó el estímulo resolverá
 ###### Artículo 86.
 
 El beneficiario a quien se le hayan cancelado los estímulos otorgados de un programa económico, no se le otorgarán los beneficios de nuevos programas económicos hasta que se subsane el daño ocasionado por el otorgamiento de estímulos anteriores.
+
+### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
 
 ###### Artículo 87.
 
@@ -1549,7 +1663,7 @@ CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN I Y 93, AMBOS DE
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
-LIC. FÉLlX ARTURO GONZÁLEZ CANTO
+LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
@@ -1682,3 +1796,13 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un término menor a treinta días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones normativas y complementarias al Reglamento respectivo, para la aplicabilidad integral del presente Decreto.
+
+TERCERO. La Secretaría de Desarrollo Económico del Estado, dentro del término de noventa días contados a partir de la entrada en vigor del presente Decreto, deberá establecer la Dirección del Emprendedor, la cual dependerá orgánicamente de la Subsecretaría de Desarrollo Económico.
+
+CUARTO. La Secretaría de Desarrollo Económico del Estado, dentro del término previsto en el artículo anterior, realizará los ajustes presupuestales y administrativos correspondientes para el cumplimiento del presente Decreto.
