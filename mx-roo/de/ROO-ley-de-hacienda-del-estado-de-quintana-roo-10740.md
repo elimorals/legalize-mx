@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-12-04"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,65 +21,35 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DEL PROCEDIMIENTO DE PLEBISCITO Y DE REFERENDO
+LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
-Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 17 de diciembre de 2002.
+Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
-SESIÓN ORDINARIA DE FECHA
+DECRETO NUMERO 78:
 
-11 DE NOVIEMBRE DE 2002
+POR EL QUE SE APRUEBA LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
-ACUERDO NÚMERO 121/2002
+LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, por unanimidad de votos de los Consejeros Electorales, en presencia de los representantes de los Partidos Políticos asistentes a la sesión, con fundamento en lo dispuesto por los artículos 127 y Segundo Transitorio de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, ACUERDA: aprobar en sus términos el Reglamento del Procedimiento de Plebiscito y Referendo y el Reglamento de los Consejos de Participación Ciudadana en los términos que establece la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
+D E C R E T A:
 
-Instrumentos que se anexan al cuerpo de la presente acta para todos los efectos legales a que haya lugar.
+LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
-Acuerdo que en esta misma fecha se notifica fijándose cédula en los estrados de este Instituto, en los términos del artículo 34 de la Ley de Medios de Impugnación en Materia Político Electoral y de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
+## TITULO I. GENERALIDADES
 
-Se certifica según lo estipulado en el artículo 93, fracciones VII y XV de la Ley del Instituto Electoral y de Participación Ciudadana para el Estado de Coahuila.
+### CAPITULO UNICO. PRINCIPIOS GENERALES
 
-LIC. HOMERO RAMOS GLORIA
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-PRESIDENTE
+###### ARTICULO 1o.
 
-LIC. MA. GUADALUPE HERNÁNDEZ B.
+La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones federales y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
 
-SECRETARIA TÉCNICA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-REGLAMENTO DEL PROCEDIMIENTO DE PLEBISCITO Y DE REFERENDO
-
-## TITULO PRIMERO
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-###### ARTÍCULO 1º.
-
-El presente reglamento es de orden público y de aplicación general y tiene por objeto regular los procedimientos de plebiscito y de referendo, el cual se expide conforme a lo dispuesto por el artículo 127 de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
-
-###### ARTÍCULO 2°.
-
-Para los efectos de este reglamento se entiende por:
-
-I. Ley del Instituto: La Ley del Instituto Electoral y de Participación Ciudadana para el Estado de Coahuila.
-
-II. Ley de Participación Ciudadana: La Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
-
-III. Ley de Instituciones: La Ley de Instituciones Políticas y Procedimientos Electorales para el Estado de Coahuila.
-
-IV. Instituto: El Instituto Electoral y de Participación Ciudadana de Coahuila.
-
-V. Consejo General: El Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila.
-
-VI. Comisión: Comisión de Participación Ciudadana del Consejo General del Instituto Electoral y de Participación Ciudadana de Coahuila.
-
-###### ARTÍCULO 3°.
-
-La interpretación de las disposiciones de este reglamento se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo en todo momento a los principios de constitucionalidad, legalidad, imparcialidad, objetividad, certeza e independencia.
-
-Las situaciones no previstas en este reglamento serán resueltos por el Consejo General.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 2o.
 
@@ -89,59 +59,35 @@ Los ingresos fiscales y los no tributarios que se establecen en este ordenamient
 
 La Ley de ingresos que anualmente expide el Congreso Local, como ordenamiento especial, priva sobre el contenido de esta ley.
 
-###### ARTÍCULO 4º.
+###### ARTICULO 4o.
 
-Los integrantes del Consejo General vigilarán la aplicación y la observancia de este reglamento que contiene las bases para el procedimiento del plebiscito y de referendo, el cual tenderá a promover la consulta para la toma de decisiones de los ciudadanos electores coahuilenses.
+Cuando en esta ley se tomen como base para el pago de los créditos fiscales a cargo de los sujetos pasivos, los ingresos, se entenderá que quedan comprendidos tanto los que se perciban en efectivo como en especie.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Cuando en esta ley se haga mención a las siglas S.M.G., se entenderá que se refiere al salario mínimo general vigente en la entidad; y por Secretaría, se entenderá a la Secretaría de Finanzas y Planeación.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+La recaudación y administración de las contribuciones establecidas en esta ley, es de la competencia de la Secretaría, sus dependencias, órganos auxiliares y las que autorice el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+Las percepciones derivadas de las funciones del Poder Judicial y de las Entidades de la Administración Pública Paraestatal, comprendidas en la legislación aplicable, serán recaudadas y administradas por la Secretaría conforme a las disposiciones de carácter general que al efecto emita.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 4-A.
 
 Las violaciones a las disposiciones expresas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código Fiscal del Estado.
 
-## TITULO SEGUNDO
+## TITULO II. DE LOS IMPUESTOS
 
-### CAPÍTULO PRIMERO. GENERALIDADES DEL PLEBISCITO
-
-###### ARTÍCULO 5°.
-
-El plebiscito es la consulta mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan las decisiones del Ejecutivo del Estado o de los Ayuntamientos.
-
-El plebiscito estatal se circunscribirá a las decisiones del Ejecutivo del Estado que sean trascendentales para la vida pública de la entidad.
-
-El plebiscito municipal se circunscribirá a las decisiones de los ayuntamientos del Estado que sean trascendentales para la vida pública del municipio de que se trate.
-
-El plebiscito procederá cuando se den las condiciones a que se refiere este reglamento y cuando se refiera a hechos de las autoridades y no a actos normativos.
-
-###### ARTÍCULO 6°.
-
-Los sujetos facultados para solicitar el plebiscito estatal son:
-
-I. El tres por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado, quienes deberán anexar a su solicitud una relación con sus nombres, firmas y claves de sus credenciales de elector.
-
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
-
-II. El titular del Poder Ejecutivo del Estado.
-
-III. El cincuenta por ciento de los miembros del Congreso del Estado.
-
-IV. La mitad más uno de los Ayuntamientos del Estado. En este caso, se requerirá que cada Ayuntamiento apruebe la solicitud con la mitad más uno de sus miembros.
-
-###### ARTÍCULO 7°.
-
-Los sujetos facultados para solicitar el plebiscito municipal son:
-
-I. En los municipios cuyo número de electores sea de hasta diez mil, el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. En los municipios que tengan más de diez mil y hasta veinte mil electores, el treinta por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. Los municipios que tengan más de veinte mil y hasta cincuenta mil electores, el veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate En los municipios que tengan más de cincuenta mil y hasta cien mil, el diez por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate. En los municipios cuyo número de electores sea mayor a cien mil el cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del municipio de que se trate.
-
-El Instituto realizará el cotejo respectivo con la lista nominal utilizada en el último proceso electoral estatal.
-
-II. El titular del Poder Ejecutivo del Estado.
-
-III. Las dos terceras partes de los miembros del Congreso del Estado.
-
-IV. El Presidente municipal o la mitad más uno de los miembros del Ayuntamiento respectivo.
+### CAPITULO I. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR Y BIENES MUEBLES USADOS ENTRE PARTICULARES
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 5o.
 
@@ -167,7 +113,7 @@ d).- La aportación a una sociedad o asociación.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-e).- La dación en pago, y (sic)
+e).- La dación en pago, y
 
 f).- La permuta.
 
@@ -253,15 +199,13 @@ III.- Los consignatarios o comisionistas en cualquier operación de vehículos a
 
 La base para el pago del impuesto que regula este Capítulo, será:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-I.- El valor de operación fijado por los contratantes o el del avalúo que se determine conforme al tabulador que para el efecto elabore la Secretaría de Hacienda del Estado.
+I.- El valor de operación fijado por los contratantes o el del avalúo que se determine conforme al tabulador que para el efecto elabore la Secretaría.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- A falta de precio de la operación se tomará como base el valor del avalúo a que se refiere la fracción anterior, tratándose de bienes muebles se tomará el avalúo que se determine conforme a lo establecido en el reglamento del código fiscal del Estado.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -289,401 +233,521 @@ TITULO TECERO (SIC)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTÍCULO 10°.
+###### ARTICULO 10.
 
-El procedimiento del plebiscito o del referendo, se sujetará a las bases siguientes:
+Los sujetos del impuesto que regula este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del Artículo 7º de esta ley, además de las obligaciones establecidas en el Código Fiscal del Estado, tendrán las siguientes:
 
-I. El Instituto se encargará de preparar, organizar, vigilar, computar y declarar los efectos del plebiscito o del referendo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-En todo caso, el Instituto estará facultado para emitir los acuerdos que estime necesarios para el desarrollo del procedimiento correspondiente.
+a).- Exhibir el original del documento que ampare la propiedad del vehículo objeto de la enajenación, debidamente endosado especificando la fecha de enajenación, nombre, Registro Federal de Contribuyentes y domicilio del adquiriente; además deberá proporcionar copias simples del mismo por ambos lados, dentro de los treinta días siguientes a la fecha del endoso o a la de adquisición.
 
-II. El Instituto podrá auxiliarse de las autoridades estatales y/o municipales, de los consejos de participación, de las instituciones de educación superior, de investigación, de organismos, asociaciones u organizaciones públicas, sociales o civiles.
+> <small>(REFORMADO, P.O. 04 DE DICIEMBRE DE 2013)</small>
 
-El Ejecutivo del Estado y los Ayuntamientos deberán prestar al Instituto el apoyo y auxilio necesarios para llevar a cabo la consulta respectiva.
+b).- Presentar el comprobante de domicilio del adquirente, que a criterio de la Secretaría se solicite.
 
-###### ARTÍCULO 11.
+Para los efectos de este impuesto, se considera domicilio fiscal el manifestado ante la Secretaría, al realizar los trámites establecidos en los artículos 176 y 179 de esta ley.
 
-Todo procedimiento del plebiscito o del referendo, se sujetará a los límites y condiciones siguientes:
+###### ARTICULO 11.
 
-I. En ningún caso, el procedimiento procederá noventa días naturales antes del inicio del proceso electoral local o noventa días después de su terminación, conforme a los plazos que establezca la ley de la materia.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-II. Los procedimientos se programarán en la medida en que exista la capacidad real y presupuestal del Instituto para organizarlos, de acuerdo a su naturaleza, complejidad, plazos y etapas previstas en este reglamento; pero en todo caso, no podrán exceder de dos procedimientos por año sean plebiscitos y/o referendos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### ARTÍCULO 12.
+###### ARTICULO 12.
 
-No podrán realizarse en un en un solo procedimiento dos o más consultas, salvo que el Instituto autorice llevar a cabo los plebiscitos y/o referendos en un solo procedimiento bajo las modalidades que juzgue pertinentes, según su naturaleza, complejidad y economía procesal.
+Los vehículos de motor y bienes muebles usados quedan afectos preferentemente al pago del Impuesto que regula este capítulo.
 
-Tratándose de solicitudes sobre un mismo tema o relacionados en forma lógica, el Instituto podrá acumularlos en un solo procedimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### ARTÍCULO 13.
+###### ARTICULO 13.
 
-Para llevar a cabo los procedimientos de plebiscito y referendo el Instituto contará con diez Comités Regionales en Consulta, mismos que estarán divididos en:
-
-1. Región Norte: Piedras Negras (Cabecera), Acuña, Jiménez, Guerrero e Hidalgo.
-
-2. Región 5 Manantiales: Allende (Cabecera), Morelos, Nava, Villa Unión y Zaragoza.
-
-3. Región Carbonífera: Sabinas (Cabecera), Múzquiz, San Juan de Sabinas, Juárez y Progreso.
-
-4. Región Centro 1: Monclova (Cabecera), Candela, Castaños, Escobedo.
-
-5. Región Centro 2: Frontera (Cabecera), Nadadores, San Buenaventura y Abasolo.
-
-6. Región Desierto: Cuatrociénegas (Cabecera), Ocampo, Sacramento y Lamadrid.
-
-7. Región Laguna 1: Torreón (Cabecera), Matamoros y Viesca.
-
-8. Región Laguna 2: San Pedro (Cabecera), Francisco I. Madero y Sierra Mojada.
-
-9. Región Sureste 1: Saltillo (Cabecera), Arteaga y Ramos Arizpe.
-
-10. Región Sureste 2: Parras (Cabecera) y General Cepeda.
+Las dependencias oficiales competentes y sus oficinas foráneas, no tramitarán solicitud de alta, baja o traspaso de vehículos de motor usados, por los cuales no se hubiese pagado el impuesto cuando éste se cause en los términos prescritos por este capítulo.
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-###### ARTÍCULO 14.
+###### ARTICULO 14.
 
-Los Comités Regionales de Participación Ciudadana son los órganos del Instituto encargados de la organización, preparación, desarrollo y vigilancia, dentro de su circunscripción, de los procedimientos de plebiscito y referendo.
+Quedan exentos de este impuesto la enajenación, cesión o transmisión de derechos de vehículos de motor y de bienes muebles usados, que realicen los Gobiernos Federal, Estatal o Municipales.
 
-###### ARTÍCULO 15.
+Asimismo no estarán obligados al pago de este impuesto las personas físicas o morales que adquieran vehículos automotores y bienes muebles usados como consecuencia de la constitución o disolución de la sociedad conyugal, el cambio de las capitulaciones, matriculaciones o la constitución de la copropiedad.
 
-Cada uno de los Comités Regionales de Consulta estará integrado por un Presidente, un Secretario y un Auxiliar, quienes a su vez contarán con el apoyo de una coordinación municipal que estará integrada por un coordinador y por la cantidad de capacitadores que se requiera en atención al número de ciudadanos electores coahuilenses de cada municipio.
+###### ARTICULO 15.
 
-Para efectos de procedimientos de plebiscito y/o referendo que se realicen exclusivamente en el ámbito municipal, se establecerán y entrarán en funciones Comités Municipales de Consulta que estarán integrados de igual manera que los Comités Regionales de Consulta.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 #### SECCION SEXTA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTÍCULO 16.
+###### ARTICULO 16.
 
-Los miembros de cada Comité Regional y Municipal de Consulta serán designados por el Consejo General a propuesta de la Comisión de Participación Ciudadana, considerando preferentemente a los integrantes de los Comités Municipales y Distritales Electorales.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO SEGUNDO. GENERALIDADES DEL REFERENDO
-
-###### ARTÍCULO 8°.
-
-El referendo es la consulta mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan una iniciativa de ley o decreto o, en su caso, una ley o decreto del Poder Legislativo del Estado.
-
-El objeto del referendo será:
-
-I. Determinar la creación, modificación, adición, derogación o abrogación de la norma o normas de la ley o decreto materia del referendo.
-
-II. Determinar la observancia o inobservancia de la norma o normas de la ley o decreto aprobado por el poder Legislativo del Estado.
+### CAPITULO II. DEL IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITAL
 
 #### SECCION PRIMERA. DEL OBJETO
 
-###### ARTÍCULO 17.
+###### ARTICULO 17.
 
-Los Comités Regionales y Municipales de Consulta tendrán las atribuciones siguientes:
+Es objeto de este impuesto la percepción de ingresos o el derecho a obtenerlos dentro del territorio del Estado, o de fuentes de riqueza en el mismo por concepto de:
 
-I. Observar la ley y los acuerdos que dicte el Consejo General en el ámbito de su competencia.
+I.- Intereses simples o capitalizados sobre préstamos en general y de adeudos que sean reconocidos;
 
-II. Intervenir, dentro de su jurisdicción, en la preparación, organización, desarrollo y vigilancia de los procedimientos de plebiscito y de referendo.
+II.- Intereses por cantidades que se adeuden sobre el precio en contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos;
 
-III. Ejecutar el programa de capacitación electoral a ciudadanos que integren las mesas receptoras de consulta ciudadana.
+III.- Intereses sobre las cantidades anticipadas a cuenta de precio de toda clase de bienes o derechos;
 
-IV. Seleccionar los lugares en que habrán de ubicarse las mesas receptoras de consulta ciudadana en cada una de las secciones de su municipio.
+IV.- Intereses provenientes del contrato de cuenta corriente;
 
-V. Entregar a los presidentes de las mesas receptoras de consulta ciudadana, el equipo, material y la documentación necesaria para el debido cumplimiento de sus funciones.
+V.- Otorgamiento de fianzas;
 
-VI. Las demás que les confiera este reglamento u otras disposiciones aplicables, o el Consejo General.
+VI.- Descuentos o anticipos sobre títulos o documentos;
+
+VII.- Usufructo de capitales impuestos a rédito;
+
+VIII.- Premios, primas, regalías o retribuciones de toda clase, provenientes de la explotación de patentes de invención y de marcas comerciales e industriales.
+
+También se considerarán como percepciones de las enumeradas en esta fracción, las que obtengan los Titulares de patentes o marcas mediante la fijación de un sobre-precio a las mercancías amparadas con dichas patentes o marcas;
+
+IX.- El arrendamiento o subarrendamiento de inmuebles destinados a casa habitación que no se proporcionen amueblados ni destinen o utilicen como hoteles o casas de hospedaje, así mismo los destinados a la Industria y al Comercio.
+
+En el caso de subarrendamiento de bienes inmuebles, para determinar la base gravable se observarán las siguientes reglas:
+
+a).- Cuando se subarriende en su totalidad el bien arrendado, el impuesto se causará sobre la diferencia que resulte entre la cantidad que el arrendatario pague al arrendador y lo que reciba por el subarrendamiento y
+
+b).- Cuando el arrendatario tenga en arrendamiento la totalidad del inmueble y solo subarriende parte, o tenga en arrendamiento parte del predio y subarrendé solo una fracción de esa parte, se obtendrán los siguientes datos:
+
+1.- Importe de la renta que pague el arrendatario;
+
+2.- Importe de lo que perciba el arrendatario por el subarrendamiento;
+
+3.- Superficie total rentada, y
+
+4.- Superficie subarrendada.
+
+El importe de la renta se dividirá entre el número de metros cuadrados que el arrendatario tenga en arrendamiento, y el cociente se multiplica por el número de metros cuadrados que tenga la superficie subarrendada; el producto se restará de lo que perciba por el subarrendamiento y será la base gravable;
+
+X.- De operaciones en las que el precio a plazos sea mayor que el precio de contado, caso en el cual la diferencia entre uno y otro será objeto del impuesto;
+
+XI.- De intereses y demás percepciones a que se refiere este capítulo, en los casos de fideicomiso o de cualquiera otras operaciones de inversión, aún cuando el pago se haga por conducto de instituciones de crédito, siempre y cuando esos intereses y percepciones no sean a cargo del patrimonio de dichas instituciones, y
+
+XII.- De cualesquiera otras operaciones o inversiones de capital, sin importar el nombre con que se les designe, siempre que los ingresos que se obtengan de las mismas, no sea objeto de algún otro impuesto del Estado, ni estén expresamente exceptuados por la Ley.
+
+Para los efectos de este artículo se presumirá, salvo prueba en contrario, que existe derecho a percibir los intereses a que se refieren las fracciones l, II, III, IV, y XI de este artículo, no obstante que en los documentos en que se hubieran hecho constar las operaciones relativas no aparezca estipulado ningún interés o cuando se determine que no causaron intereses, y en estos casos el ingreso gravable será el que resulte de aplicar al capital el interés legal que establece el Código Civil del Estado de Quintana Roo por falta de pago oportuno.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-###### ARTÍCULO 18.
+###### ARTICULO 18.
 
-Toda solicitud de plebiscito o referendo que se presente ante el Instituto en los términos previstos en este reglamento y demás disposiciones aplicables, deberán reunir los siguientes requisitos:
+Es sujeto de este impuesto, el acreedor, vendedor, cuentacorrentista, inversionista, usufructuario, propietario, arrendador o subarrendador, según el caso. En consecuencia, es nulo todo pacto o convenio en contrario, cualquiera que sea la fecha y forma en que se hubiera hecho o se hiciere.
 
-I. Presentarse por escrito, en los formatos que al efecto autorice el Instituto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-II. Precisar la decisión de gobierno materia del plebiscito, y en el caso del referendo precisar la iniciativa de ley o decreto o, en su caso, la ley o decreto o el artículo o artículos que sean materia del mismo.
+###### ARTICULO 19.
 
-III. Para el caso del plebiscito se deberán exponer los motivos, razones y fundamentos por los cuales, la decisión se considera trascendental para la vida pública del Estado o del Municipio de que se trate.
+Los deudores, sean empresarios, explotadores, arrendatarios o subarrendatarios que paguen los intereses, rentas y demás percepciones gravadas por este impuesto, tendrán la obligación de exigir al acreedor, como requisito previo para cubrir las prestaciones mencionadas, que les compruebe con los recibos oficiales expedidos por la Secretaría, encontrarse al corriente en el pago de este impuesto y, en caso de que no se haga tal comprobación, estarán obligados a retener el impuesto correspondiente y a enterarlo en la oficina Recaudadora de Rentas de su jurisdicción, dentro del plazo establecido para el cumplimiento de la prestación.
 
-IV. Para el caso del referendo señalar las razones, motivos y fundamentos por los cuales la iniciativa correspondiente, la ley o el decreto o parte de su articulado deben someterse a referendo, así como explicar cuáles serán las implicaciones de la ley, cómo funcionará y a quiénes afectará y el texto oficial de la iniciativa, creación, modificación, adición, derogación o abrogación de la norma o normas de la ley o decreto, objeto del procedimiento de referendo.
+En todos los casos, los mencionados deudores serán solidariamente responsables del pago de este impuesto.
 
-V. Autoridad o autoridades de las que emana la materia del plebiscito o de referendo.
+###### ARTICULO 20.
 
-VI. Cuando se presente por los ciudadanos, incluir en los formatos aprobados por la Comisión, la relación que contenga el nombre completo, el número de folio de la credencial para votar con fotografía, la clave de elector, la sección electoral a la que pertenecen y la firma de cada elector solicitante que concuerde con la que aparece en la credencial para votar. En este caso los solicitantes deberán señalar un representante y domicilio para oír o recibir toda clase de documentos y/o notificaciones.
+Para los efectos de este impuesto se considerará:
 
-Para los efectos legales a que haya lugar, se entenderá que el representante podrá realizar todos los actos necesarios para tramitar el procedimiento correspondiente.
+I.- Que obtienen ingresos gravables las personas que celebren alguno de los actos o contratos a que se refiere el artículo 17, aún cuando por no haberse vencido el plazo convenido o por cualquier otra causa, el pago de la prestación gravable no sea exigible;
 
-###### ARTÍCULO 19.
+II.- Que se obtienen ingresos gravables en el Estado, por alguno de los conceptos previstos en el artículo 17 cuando el acreedor tenga su residencia en el mismo Estado, aún cuando el pago se obtenga fuera de él o en el contrato respectivo se estipule que el pago se haga fuera del propio Estado, y
 
-La solicitud para promover los procedimientos de referendo y plebiscito, presentados ante el Instituto por el titular del Poder Ejecutivo del Estado, el Congreso del Estado, los Presidentes Municipales, y los Ayuntamientos, deberá contener cuando menos:
+III.- Que se obtienen ingresos gravables de fuentes de riqueza en el Estado:
 
-I. Presentarse por escrito en los formatos que al efecto autorice el Instituto.
+a).- Cuando el deudor resida en él.
 
-II. Datos de la autoridad que lo promueve. En el caso de tratarse del Congreso del Estado o de los Ayuntamientos, debe agregarse además el acuerdo que apruebe la promoción del procedimiento respectivo.
+b).- Cuando el pago de los intereses gravables esté garantizado con bienes ubicados en el Estado, y
 
-III. El precepto legal en el que se fundamente su solicitud.
-
-IV. Los temas de votación, los cuales deben incluir materias, actividades, acciones, proyectos y los demás datos que sirvan para identificar la materia del plebiscito o del referendo.
-
-V. Especificación precisa y detallada de la ley, reglamento o decreto que será objeto de referendo o en su caso, el acto de autoridad concreto a realizarse, que será objeto del plebiscito.
-
-VI. Autoridad o autoridades de las que emana la materia del referendo o del plebiscito.
-
-VII. Exposición de motivos, la cual debe contener en forma precisa y detallada las razones por las cuales se considera necesario realizar el procedimiento ya sea de referendo o de plebiscito.
-
-VIII. Nombre y firma del titular del Ejecutivo, del Presidente y de los Secretarios del Congreso del Estado o del Presidente Municipal, de los integrantes del Ayuntamiento y del servidor público encargado de la Secretaría del Ayuntamiento, según sea el caso.
-
-###### ARTÍCULO 20.
-
-Una vez presentada la solicitud, ya sea del plebiscito o del referendo, podrá operar el desistimiento para lo cual el solicitante debe necesariamente motivar tal decisión. El desistimiento podrá hacerse valer hasta diez días naturales antes de la fecha del procedimiento.
+c).- Cuando el capital de que provengan esté invertido en el Estado.
 
 #### SECCION TERCERA. DE LA BASE
 
-###### ARTÍCULO 21.
+###### ARTICULO 21.
 
-El Instituto acordará el procedimiento que deba seguirse para la verificación de la autenticidad de las firmas de los ciudadanos que respaldan y apoyan la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y podrá adoptar técnicas de muestreo científicamente sustentadas.
+La base gravable de este impuesto será el importe de los ingresos obtenidos por cualquiera de los conceptos a que se refiere el artículo 17.
 
-###### ARTÍCULO 22.
+Tratándose de los casos señalados en la fracción IX del artículo 17, la base gravable será el valor de la renta mensual estipulada en el contrato respectivo.
 
-Cuando se presenten dos o más solicitudes de plebiscito y/o de referendo, el Instituto las tramitará de la siguiente manera:
+Se estimarán como intereses las indemnizaciones o penas convencionales que pacten los contratantes, sin que importe el nombre con el que se le designe.
 
-I. La preferencia del procedimiento se regirá por su oportunidad en la presentación.
+En este último caso la base gravable se determinará en la forma siguiente:
 
-II. Si se trata de solicitudes ciudadanas y/o gubernamentales presentadas al mismo tiempo, se dará preferencia a la instancia ciudadana siempre que se cumpla en tiempo y forma el porcentaje ciudadano requerido por este reglamento.
+I.- Cuando el deudor se obligue a devolver una cantidad mayor a la recibida, la diferencia se considerará como el interés del capital, y sobre esa diferencia se causará el impuesto, y
 
-III. Si se trata de dos solicitudes ciudadanas presentas al mismo tiempo, se preferirá aquella que tenga mayor apoyo ciudadano.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-IV. Por excepción en todos los casos previstos en las fracciones que anteceden, el Instituto podrá declarar el trámite preferente del plebiscito y/o referendo basado en el criterio más trascendental para el interés público, según los lineamientos siguientes:
+II.- En los casos de remate judicial o administrativo, por el que se adjudiquen bienes inmuebles y sirva de base como precio del remate un valor inferior a la suerte principal, la Secretaría estimará como base para el cobro de este impuesto, la diferencia que exista entre el capital invertido y el valor comercial del inmueble.
 
-1. La naturaleza del tema o problema comunitario.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-2. Su impacto en el desarrollo comunitario sustentable.
+###### ARTICULO 22.
 
-3. La premura o urgencia de resolver el asunto.
-
-4. El ámbito de comprensión dentro de la comunidad.
+La Secretaría llevará un padrón en el que registren los nombres de los contribuyentes y todos los datos necesarios para la determinación del nacimiento, modificación y extinción de los créditos fiscales, por concepto del impuesto a que este capítulo se refiere, así como las bases para su recaudación y los demás datos que se estimen necesarios para la eficaz administración del citado impuesto.
 
 #### SECCION CUARTA. DE LA TASA
 
-###### ARTÍCULO 23.
+###### ARTICULO 23.
 
-El Instituto por conducto de sus órganos internos, procederá a registrar el texto, asegurándose de que la proposición no sea confusa y asegurando, con las medidas pertinentes, que el mismo no sea alterado o modificado una vez que se ha registrado, así mismo se le asignará un número consecutivo de registro a la solicitud, el cual indicará el orden en que estos han sido presentados y la fecha de su inscripción.
+Este impuesto se determinará aplicando a la base gravable, señalada en el artículo 21, la tasa del 1.5%.
 
 #### SECCION QUINTA. DEL PAGO
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
-Una vez presentada la solicitud, el Instituto a través de la Comisión determinará si es trascendental para el orden público o de interés social:
+Este impuesto deberá pagarse mensualmente, dentro de los días primero al veinte del mes siguiente al en que se hubiere causado.
 
-I. La ley, el reglamento o decreto en el caso del referendo; y
+Cuando de acuerdo con lo convenido en el contrato, el acreedor obtenga intereses por períodos mayores a un mes, se hará el cálculo de las percepciones que correspondan a un mes, a fin de que el pago del impuesto se haga mensualmente en los términos que señala el párrafo anterior.
 
-II. Las propuestas de decisión o actos del Ejecutivo del Estado y los actos o disposiciones de carácter administrativo, en el ámbito municipal, en el caso del plebiscito.
+En los casos de contratos de cuenta corriente o de cualesquiera otros en que no sea posible determinar anticipadamente, ni el monto de los ingresos, ni quien sea el contribuyente, el pago se hará dentro de los treinta días naturales siguientes al corte de la cuenta o a la fecha en que deba definirse quien es el acreedor y el importe de los ingresos.
 
-###### ARTÍCULO 25.
+###### ARTICULO 25.
 
-Dentro de los veinte días siguientes de presentada la solicitud del plebiscito o del referendo, el Instituto decidirá la procedencia del plebiscito o del referendo, bajo las siguientes reglas:
+Salvo pacto expreso en contrario, toda percepción obtenida por el acreedor se considerará aplicada preferentemente a intereses vencidos.
 
-I. Pondrá sin demora a la vista la solicitud en un lugar de su oficina visible al público, para que cualquier ciudadano y/o autoridad estatal o municipal manifieste lo que a su juicio proceda, en un término que no excederá de tres días hábiles contado (sic) a partir de la fecha de la colocación de la solicitud.
+Cuando los pagos efectuados deban aplicarse de acuerdo con el documento constitutivo de la operación, parte al capital y parte a intereses, el impuesto sólo se causará sobre estos últimos, observándose, en su caso, lo dispuesto por el artículo 23.
 
-En el caso de las autoridades estatales o municipales cuyos actos o decisiones se propongan someter al plebiscito o referendo, el Instituto deberá enviarles una copia de la solicitud de que se trate dentro de los tres días hábiles siguiente de haberla recibido, para que manifieste lo que a su derecho convenga dentro de los tres días hábiles siguientes al de la notificación.
+Las remisiones de acuerdos que comprenden la totalidad o parte de los intereses vencidos, no surtirán efectos fiscales y, por lo mismo, se estimará en todo caso que la cancelación de un crédito implica el pago total de los intereses vencidos, sobre cuyo monto deberá pagarse el impuesto correspondiente.
 
-II. En caso de que la solicitud sea vaga, obscura o incompleta, el Instituto requerirá a los solicitantes para que subsanen la irregularidad dentro de los tres días hábiles siguientes. Hecho lo cual, el Instituto resolverá lo que conforme a derecho proceda.
+Cuando se revoque o rescinda un contrato a plazo fijo, del que se deriven ingresos de los gravados por este capítulo, el impuesto sólo se causará sobre los ingresos que realmente se perciban de acuerdo con el convenio que extinguió la obligación.
 
-###### ARTÍCULO 26.
+###### ARTICULO 26.
 
-La procedencia del plebiscito suspenderá la ejecución y/o la implementación de la decisión de gobierno del Ejecutivo del Estado o del Ayuntamiento hasta en tanto se conozca los resultados del mismo. El plebiscito no procederá contra decisiones ejecutadas y/o implementadas.
+El pago de este impuesto sólo se suspenderá a solicitud del contribuyente, cuando por falta de pago de las cantidades que tenga derecho a obtener, haya demandado judicialmente al deudor el cumplimiento de su obligación.
 
-###### ARTÍCULO 27.
+Al solicitar el contribuyente la suspensión, deberá:
 
-La procedencia del referendo para los efectos previstos en la fracción I del artículo 8 del presente reglamento, no suspenderá el trámite legislativo de la iniciativa de ley o decreto hasta en tanto se conozcan los resultados del mismo. En el caso previsto en la fracción II del artículo 8 de este reglamento, el Congreso del Estado deberá legislar las disposiciones transitorias conducentes en la ley o decreto aprobado materia del referendo.
+I.- Comprobar, por medio de la copia de la demanda sellada por el juzgado respectivo, haber promovido el juicio correspondiente;
 
-###### ARTÍCULO 28.
+II.- Acreditar estar al corriente en el pago de este impuesto hasta el mes en que se presente la solicitud de suspensión, y
 
-El Instituto decretará de oficio o a petición de parte, la improcedencia del procedimiento del plebiscito o del referendo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+III.- Garantizar el interés fiscal, cuyo monto fijará la Secretaría, mientras obtiene el pago de los ingresos sobre los que se causa el impuesto y se cubra éste o se cancele la cuenta respectiva por acuerdo de la misma Secretaría, a petición del contribuyente, por la imposibilidad debidamente comprobada de hacer efectivo el cobro.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+También podrá suspenderse el pago de este impuesto a solicitud del contribuyente, cuando ante la Secretaría se compruebe que no se han recibido ingresos gravables por causas no imputables al mismo contribuyente. En este caso la suspensión se concederá previo el cumplimiento de las condiciones establecidas en las fracciones II y III anteriores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 27.
+
+Si después de suspenderse el cobro de este impuesto en los términos del artículo anterior, el contribuyente percibe alguna cantidad en pago total del adeudo, quedará sin efecto la suspensión acordada a partir de la fecha del pago. Al efecto, el mismo contribuyente estará obligado a dar aviso de ello a la Secretaría y a cubrir el impuesto dentro del término de quince días hábiles siguientes a la fecha en que reciba el pago.
+
+Igual aviso al señalado en el párrafo anterior deberá dar el contribuyente si recibe algún pago parcial en cuyo caso cubrirá el impuesto correspondiente dentro del mismo término. En este caso, la suspensión subsistirá por lo que hace al adeudo insoluto.
+
+###### ARTICULO 28.
+
+Cuando se haya suspendido el cobro de este impuesto, de acuerdo con lo establecido en el artículo 26, y el actor se desiste de la demanda o haya omitido hacer en tiempo las promociones procedentes, y como consecuencia de ello se haya perjudicado su acción, quedará sin efecto la suspensión y será exigible el pago del impuesto correspondiente sobre la totalidad de los ingresos que el contribuyente haya tendido (sic) derecho a percibir de acuerdo con las estipulaciones del contrato.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
-###### ARTÍCULO 29.
+###### ARTICULO 29.
 
-Las causas de improcedencia del plebiscito son:
+Los contribuyentes de este impuesto están obligados:
 
-I. Cuando la decisión no sea trascendental para el orden público o interés social del estado o del municipio.
+I.- A presentar una manifestación por escrito de la celebración del acto o contrato por el que se derive el derecho a obtener ingresos por cualquiera de los conceptos referidos en el artículo 17. Dicha manifestación deberá contener los siguiente (sic) datos:
 
-II. Cuando, en los casos en que la solicitud fuere realizada por ciudadanos, las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en el listado nominal de electores o los datos vaciados en el escrito no concuerden con los datos registrados en la lista nominal de que se trate.
+a).- Nombre y domicilio del acreedor y del deudor;
 
-III. Cuando el objeto del plebiscito se haya consumado por haberse ejecutado el acto o decisión por la autoridad competente y, por tanto, no puedan restituirse las circunstancias a la situación que guardaban con anterioridad.
+b).- Nombre y número del Notario ante quien se haya otorgado la escritura, en su caso;
 
-IV. Cuando la solicitud no cumpla con los requisitos para ejercer el derecho de petición.
+c).- Naturaleza de la operación o del contrato de que se trate y fecha de su celebración o, en su caso, fecha de la autorización definitiva de la escritura respectiva;
 
-V. Cuando la solicitud no cumpla con los requisitos que establece el presente reglamento.
+d).- Importe del capital invertido y monto de los ingresos que el acreedor tenga derecho a percibir y sobre los cuales deba causarse el impuesto;
 
-VI. Cuando se trate de las materias siguientes:
+e).- Tasa de los intereses adicionales o moratorios, indemnizaciones o penas convencionales estipuladas, en su caso;
 
-1. Régimen interno de la administración pública estatal o municipal.
+f).- Plazo señalado para el pago de las prestaciones sobre las cuales se causa el impuesto;
 
-2. Los actos cuya realización sea obligatoria en los términos de las leyes aplicables.
+g).- Plazo o fecha fijados para la extinción del acto o contrato o indicación de que se celebró por tiempo indefinido;
 
-3. Los nombramientos o destituciones de funcionarios públicos del gobierno del estado o del municipio.
+h).- Especificación en su caso, de los bienes que constituyan la garantía del acto o contrato;
 
-VII. Cuando en el año en que se presente la solicitud tengan verificativo elecciones para renovación de cargos de elección popular del estado o del municipio, durante el término a que se refiere el artículo 10, fracción I, del presente reglamento.
+i).- Tratándose de contratos de arrendamiento o subarrendamiento de inmuebles destinados a fines habitacionales de los señalados en la fracción IX del artículo 17, en la manifestación se expresará lo siguiente:
 
-VIII. En los demás casos en que la improcedencia resulte por analogía o por disposición legal aplicable.
+1.- Importe mensual de la renta estipulada en el contrato respectivo;
 
-###### ARTÍCULO 30.
+2.- Ubicación del inmueble arrendado o subarrendado;
 
-Las causas de improcedencia del referendo son:
+3.- Clave catastral, número de cuenta o número de predio, en su caso, del inmueble dado en arrendamiento o subarrendamiento, y
 
-I. En los casos en que la solicitud fuere realizada por ciudadanos, cuando las firmas de apoyo no sean auténticas, los ciudadanos firmantes no estén inscritos en la lista nominal de electores o los datos vaciados en el escrito no concuerden con los datos registrados en la lista nominal de que se trate.
+4.- Nombre y domicilio del arrendador o subarrendador.
 
-II. Cuando la solicitud no cumpla con los requisitos para ejercer el derecho de petición.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-III. Cuando la solicitud no cumpla con los requisitos que establece el presente reglamento.
+A la manifestación se acompañará el original y una copia del contrato de arrendamiento celebrado con el propietario del inmueble, así como el original y copia del contrato o contratos de subarrendamiento en su caso. La copia del contrato de arrendamiento y la copia o copias de los subarrendamientos se agregarán a su expediente, devolviéndose los originales al interesado con el sello de la Secretaría, que acredite su presentación;
 
-IV. Cuando se trate de las materias siguientes:
+j).- Cuando se trate de créditos otorgados en el extranjero o en la República, pero fuera del Estado, la manifestación a que se refiere esta fracción deberá hacerse por los representantes de los acreedores en la Entidad. A falta de estos representantes, la manifestación se hará por los deudores;
 
-1. Financieras, tributarias, fiscales, presupuestales, de ingresos o similares.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-2. Régimen interno de la administración pública estatal o municipal.
+Quienes deban cubrir intereses a empresas o personas domiciliadas fuera del Estado, que no tengan representantes en el mismo, deberán empadronarse y presentar dicha declaración en la oficina Recaudadora de Rentas de su jurisdicción.
 
-3. Regulación interna del Congreso del Estado y de la Contaduría Mayor de Hacienda.
+II.- A dar aviso por escrito, de las modificaciones que se hagan a los contratos, expresando los mismos datos que exige la fracción anterior;
 
-4. Regulación interna de los órganos de la función jurisdiccional del Estado.
+III.- Tratándose de contratos de cuenta corriente, a manifestar por escrito, dentro de los sesenta días naturales siguientes al corte o clausura de la cuenta, el monto de los intereses pagados.
 
-5. Reformas a la Constitución Política del Estado o a las leyes locales que deriven necesariamente de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos.
+Esta obligación deberá ser cumplida por el propietario de la cuenta corriente que resulte acreedor de los intereses.
 
-6. Los actos cuya realización sea obligatoria en los términos de las leyes aplicables.
+Si se trata de contratos en virtud de los cuales se tenga derecho a obtener las percepciones a que se refiere la fracción VII del artículo 17, la manifestación deberá presentarse dentro de los sesenta días naturales siguientes a la fecha del balance respectivo, tanto por el que tenga derecho a obtener esas percepciones, como por el que las pague. Si quienes tengan derecho a obtener las mismas percepciones, o quienes paguen éstas, no están obligados a llevar un libro de contabilidad conforme a la Legislación deberá hacerse por su representante en el Estado y, en defecto de éste dicha manifestación se hará por el mismo deudor;
 
-V. Cuando en el año en que se presente la solicitud tengan verificativo elecciones para la renovación de los cargos de elección popular del estado o del municipio, durante el término a que se refiere el artículo 10 fracción I, del presente reglamento.
+IV.- Tratándose de personas que habitualmente hagan préstamos cuyo importe individual no exceda de cinco mil pesos y a plazo no mayor de noventa días, a manifestar por escrito, dentro de los primeros quince días de cada mes, el importe total del capital invertido y el monto global de los intereses percibidos en el mes inmediato anterior;
 
-VI. En los demás casos en que la improcedencia resulte por analogía o por disposición legal aplicable.
+V.- A dar aviso por escrito, de los cambios de su domicilio, dentro de los quince días hábiles siguientes a la fecha en que ocurra;
 
-###### ARTÍCULO 31.
+VI.- A dar aviso por escrito, de la terminación del acto o contrato, expresando:
 
-Si se declara procedente la solicitud, el Instituto iniciará el plebiscito o referendo mediante convocatoria que deberá expedir cuando menos treinta días naturales antes de la fecha de realización de la consulta de que se trate.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 32.
+a).- Número de la cuenta abierta por la Secretaría para el cobro del impuesto; si aún no se ha señalado número de cuenta bastará expresar la fecha y el número de registro del aviso de constitución del crédito;
 
-La convocatoria deberá publicarse en el Periódico Oficial del Gobierno del Estado. Para mayor divulgación la convocatoria podrá publicarse o difundiese en los principales medios de comunicación o en los lugares de mayor afluencia al público, que se estimen convenientes por el Instituto.
+b).- Nombre y domicilio del acreedor y del deudor;
 
-###### ARTÍCULO 33.
+c).- Nombre y número del Notario, ante quien se haya otorgado la escritura de cancelación, y
 
-Toda convocatoria de plebiscito y/o de referendo que sea emitida por el Instituto deberá contener los siguientes requisitos:
+d).- Importe de los intereses adicionales o moratorios, de las indemnizaciones o penas convencionales que, en su caso, se hayan obtenido al extinguirse la obligación.
 
-I. Especificación precisa y detallada de la ley, o decreto que será objeto de referendo, o en su caso el acto de autoridad concreto a realizarse que será objeto del plebiscito, así como la autoridad o autoridades de las que emana el acto administrativo objeto del plebiscito o, en su caso, la ley; el reglamento o el decreto sujeto a referendo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-II. Una síntesis de los motivos, razones y fundamentos por los cuales la decisión de gobierno debe someterse al plebiscito, o en el caso del referendo las razones, motivos y fundamentos por los cuales la iniciativa correspondiente, la ley, el decreto o bien parte de su articulado deben someterse al mismo.
+VII.- A presentar en la Secretaría, cuando ésta lo estime necesario, el original de los contratos privados, a efecto de comprobar la veracidad de los datos contenidos en las manifestaciones previstas en las fracciones I, II, III, IV y VI de este artículo. Esta obligación debe cumplirse por los contribuyentes dentro del plazo fijado en cada caso, el que no será mayor de diez ni menor de cinco días hábiles siguientes a la fecha en que reciban la notificación de presentar los contratos originales referidos en esta fracción;
 
-III. Señalar la fecha, el lugar, la hora y el formato mediante el cual se consultará a los ciudadanos electores coahuilenses.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-IV. El porcentaje mínimo de electores requeridos para que la decisión ciudadana sea vinculatoria.
+VIII.- En los casos de inversiones de procedencia extranjera en las que el inversionista no tenga representante en el Estado, los deudores deberán retener el impuesto y pagarlo en la oficina Recaudadora de Rentas correspondiente, mediante la presentación de una manifestación en la que se expresará:
 
-V. Los cuestionamientos conforme a las que los electores expresarán su aprobación o rechazo.
+a).- El nombre y el domicilio del acreedor y del deudor,
 
-VI. Los demás elementos de información que estime señalar el Instituto, a través de la Comisión.
+b).- El monto de los intereses pagados y la fecha de vencimiento, y
 
-###### ARTÍCULO 34.
+c).- El importe del impuesto retenido.
 
-El Instituto, conforme a su disponibilidad presupuestal, instrumentará una campaña de información, bajo las reglas siguientes:
+Si los acreedores o inversionistas tienen representantes en el Estado, a éste corresponderá presentar la declaración y hacer el pago del impuesto respectivo.
 
-I. El objeto consistirá en que los ciudadanos conozcan los argumentos a favor y en contra del objeto de la consulta, argumentos que serán proporcionados por los solicitantes del procedimiento, así como de los grupos que tengan interés en el tema a consultarse.
+En todos los casos, el impuesto deberá ser pagado dentro de los treinta días hábiles siguientes al mes en que se hubiera causado.
 
-II. La campaña se difundirá en los medios de comunicación oficiales. Se podrán utilizar medios de comunicación, debates, foros o cualquier otra forma de comunicación confiable, objetiva, transparente e ilustrativa.
+Si el pago de las percepciones se hace al acreedor con anterioridad a la fecha de la formalización del contrato, por haberse así estipulado en éste, el plazo de treinta días hábiles empezará a correr a partir del día primero del mes siguiente al de la fecha del primer pago que haga el deudor en el Estado, y
 
-III. Cualquiera de las personas que soliciten el plebiscito o referendo, podrán participar directamente en la campaña de información, conforme a las reglas siguientes:
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-a) Presentarán ante el Instituto una solicitud de registro de campaña, a la que anexarán una relación con sus nombres, firmas y claves de su credencial de elector.
+IX.- Tratándose de contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos, que celebren particulares o empresas fraccionadoras de terrenos, éstos deberán presentar mensualmente una relación en las formas que apruebe la Secretaría, en que se indique el nombre de los adquirentes de terrenos, el saldo inicial que corresponda al mes de que se trate, el saldo final, el tipo de interés pactado, el tipo de interés moratorio y el monto total de los intereses correspondientes al mismo mes. Asimismo, en dichas relaciones deberán hacerse las observaciones que procedan por cuanto se refiere a la modificación de los mencionados contratos. Dichas relaciones deberán presentarse en la Secretaría, dentro de los días primero al veinte del mes siguiente al que corresponda a las operaciones declaradas. Los contribuyentes de este impuesto están obligados a proporcionar a la Secretaría los datos y documentos que ésta solicite, en relación con los actos, contratos y operaciones a que este capítulo se refiere.
 
-b) Se inscribirán como partidarios a favor o en contra del objeto de consulta, según su posición.
+###### ARTICULO 30.
 
-c) Presentarán la metodología, formato, objeto y participantes de su campaña de información.
+Las manifestaciones y avisos deberán firmarse:
 
-d) El Instituto deberá garantizar la participación en la campaña de información registrada por los ciudadanos. Para tal efecto podrá auxiliarse de las autoridades estatales y/o municipales correspondientes, de los consejos de participación, de las instituciones de educación superior, de investigación, de organismos, asociaciones u organizaciones públicas, sociales o civiles.
+I.- Por los sujetos del impuesto o por sus representantes legales que en ningún caso podrán ser los Notarios que hubiesen intervenido en las operaciones, o
 
-El Instituto, una vez que reciba la solicitud de registro de campaña, resolverá sobre su procedencia y notificará a los solicitantes dentro de los diez días hábiles siguientes al en que se presentó la solicitud su resolución al respecto, así como la duración de la campaña, en caso de ser procedente la petición.
+II.- Los deudores, como responsables solidarios, cuando los acreedores residan fuera del Estado y no tengan representante en el mismo.
 
-###### ARTÍCULO 35.
+Salvo disposición expresa en contrario, los avisos y manifestaciones deberán presentarse dentro de los primeros quince días hábiles siguientes a:
 
-El Instituto determinará el número de opciones y sus variantes que se consultarán a los ciudadanos electores coahuilenses en el plebiscito en el referendo, con base en la solicitud del procedimiento de que se trate, la opinión de las autoridades o el debate público que se genere.
+a).- La realización del acto o la celebración del contrato si éste se hace constar en documento privado, o
+
+b).- La autorización definitiva de la escritura respectiva, si se otorga ante Notario Público.
+
+En todos los casos, cuando en el contrato se estipule que las percepciones gravadas deben pagarse en fecha anterior a la formalización de dicho contrato, el término de quince días hábiles empezará a contarse a partir del día primero del mes siguiente al en que el deudor en el Estado efectúe el primer pago.
+
+En los casos de instituciones de crédito que intervengan invirtiendo capitales propiedad de terceros, las manifestaciones o avisos a que este mismo artículo se refiere deberán hacerse por las propias instituciones.
+
+###### ARTICULO 31.
+
+Los Notarios ante quienes se efectúen operaciones o contratos de los que se derive el derecho a obtener ingresos por los conceptos a que se refiere el artículo 17 de esta Ley, están obligados a:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+I.- Dar aviso a la Secretaría de la realización de dichos actos o contratos, dentro de los quince días hábiles siguientes:
+
+a).- La autorización definitiva de la escritura correspondiente;
+
+b).- Las modificaciones que sufra dicha escritura;
+
+c).- La extinción de las obligaciones contractuales.
+
+II.- No autorizar escrituras en las que se haga constar la extinción de las obligaciones contractuales, si los interesados no comprueban estar al corriente en el pago de este impuesto.
+
+Tratándose de contratos de promesa de venta, compraventa con reserva de dominio o compraventa a plazos, que celebren particulares o empresas fraccionadoras de terrenos, los Notarios deberán hacer constar en las escrituras correspondientes que el vendedor les presentó el duplicado de la última declaración general para el pago del impuesto a que se refiere el artículo 24.
+
+Para que se acepte este duplicado, será necesario presentar el recibo oficial de pago del impuesto. Sin este requisito, el Notario no podrá autorizar definitivamente la escritura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 32.
+
+Las obligaciones que el artículo anterior señala a los notarios y las que el artículo 29 fija a los contribuyentes, podrán cumplirse presentando en la oficina Recaudadora de Rentas un solo escrito firmado por aquéllos y por éstos.
+
+La falta de firma de dicha (sic) escrito por parte del Notario o bien del contribuyente, no relevará al omiso de las responsabilidades fiscales que resulten conforme a las disposiciones de este capítulo.
+
+###### ARTICULO 33.
+
+Los jueces durante los procedimientos por los que se demande el cumplimiento de las obligaciones contractuales, en relación a los ingresos que se tiene derecho a percibir por cualquiera de los conceptos a que se refiere el artículo 17, podrán exigir que se compruebe, con la constancia de las autoridades fiscales haber presentado las manifestaciones a que refieren las fracciones I y II del artículo 29.
+
+###### ARTICULO 34.
+
+Las autoridades judiciales, para los efectos de este impuesto, además de las obligaciones a que se refiere este capítulo, tienen las siguientes:
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+I.- Exigir a quien demande ante ellas el cumplimiento de las obligaciones, nacidas de los actos o contratos que den derecho a la percepción de ingresos por alguno de los conceptos a que se refiere el artículo 17, que compruebe que los documentos en que se funda su acción o que presente como pruebas, fueron registrados en la Secretaría.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+II.- Dar aviso a la Secretaría de la presentación de las demandas, contrademandas y excepciones, así como de cualquier promoción posterior, cuando ésta implique desistimiento de alguna de las partes y de las transacciones o convenios a que éstas pudieran llegar, si esos hechos ocurren dentro de un procedimiento fundado en actos o contratos de los que se derive el derecho a obtener ingresos por cualquiera de los conceptos señalados en el artículo 17, y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+III.- Dar a conocer a la Secretaría las resoluciones que se dicten en los casos a que se refiere la fracción anterior.
+
+###### ARTICULO 35.
+
+Los encargados del Registro Público de la Propiedad y del Comercio del Estado, no podrán inscribir títulos, contratos o documentos en que se hagan constar operaciones de las que se derive el derecho a obtener ingresos por alguno de los conceptos mencionados en el artículo 17 si no se les acredita previamente, con la copia sellada por las autoridades fiscales u otra constancia expedida por las mismas, haber presentado las declaraciones que previenen las fracciones I y II del artículo 29.
+
+Tampoco podrán los encargados del Registro Público cancelar las inscripciones relativas a las operaciones contratos o documentos a que se refiere el párrafo anterior, si no se les acredita, con la documentación respectiva, estar al corriente en el pago de impuestos a que se refiere este capítulo.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
-###### ARTÍCULO 36.
+###### ARTICULO 36.
 
-Para el efecto de lograr la neutralidad en el desarrollo de estos procesos, y cuando los sujetos que soliciten el plebiscito o el referendo sean los miembros del Congreso del Estado, el Poder Ejecutivo del Estado, los miembros de los Ayuntamientos del Estado, estos se abstendrán de realizar campaña oficial a favor o en contra del objeto de la consulta.
+Quedan exentos del pago de este impuesto, los ingresos que se obtengan por los siguientes conceptos:
 
-###### ARTÍCULO 37.
+I.- Operaciones celebradas con los Gobiernos Federal, Estatal o Municipales;
 
-Para iniciar la preparación, de los procedimientos del plebiscito y del referendo se requiere previamente la publicación del acuerdo del Instituto donde se declare la procedencia del procedimiento de referendo o plebiscito, en su caso u una vez hecho lo anterior el Instituto procederá conforme a lo siguiente:
+II.- Intereses de bonos obligaciones o cédulas hipotecarias;
 
-I. La aprobación de la circunscripción territorial donde se aplicará el procedimiento y las secciones electorales que lo componen;
+III.- Intereses y percepciones que obtengan las instituciones, organizaciones y empresas exceptuadas de impuestos locales por las leyes especiales de la Federación que rigen su funcionamiento;
 
-II. La integración, ubicación y publicación de las mesas directivas de casilla; y
+IV.- Ingresos sobre los cuales se pague el Impuesto al Valor Agregado;
 
-III. La elaboración y entrega de la documentación y material electoral que se empleará en este procedimiento.
+V.- Intereses y demás percepciones a que se refiere este capítulo, cuando el responsable del pago sea institución de seguros o fianzas, siempre y cuando dichos intereses y percepciones sean a cargo de su patrimonio, y
+
+VI.- Dividendos.
+
+###### ARTICULO 37.
+
+En los casos de adjudicación de bienes, en pago de créditos que incluyan ingresos por alguno de los conceptos a que se refiere el artículo 17 se observarán las siguientes reglas:
+
+I.- Si la adjudicación se hace al acreedor o a un tercero, previos los trámites Judiciales respectivos, se considerará que aquél percibió la totalidad de los intereses vencidos hasta la fecha de la adjudicación y el impuesto se cobrará sobre el monto total de ellos, siempre que el valor del bien adjudicado alcance a cubrir la suerte principal y los créditos devengados;
+
+II.- Si en el caso de la fracción anterior, el bien adjudicado sólo bastare para cubrir el importe principal del adeudo, no se causará el impuesto cuando el acreedor declare en el acto de la adjudicación, no reservarse derecho alguno contra el deudor, pues si se lo reserva causará el impuesto sobre los intereses cubiertos cuando el acreedor obtenga el pago de los mismos;
+
+III.- Si en el caso de la fracción l, del presente artículo, el valor del bien adjudicado alcanza para cubrir el monto de la suerte principal y una parte de los intereses, solo sobre el monto de éstos, que resulte cubierto, se causará el impuesto si el acreedor no se reserva ningún derecho contra el deudor, pues si se los reserva se causará el impuesto también sobre los intereses no cubiertos, cuando el acreedor obtenga el pago de éstos;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+IV.- Si en los casos de las fracciones II y III, que anteceden, el bien adjudicado no cubre el monto total de los intereses, conforme el valor que a los bienes se haya dado en la adjudicación, la Secretaría tendrá facultad para mandar valuar dichos bienes, a fin de conocer el monto real de las percepciones obtenidas, de acuerdo con ellas, hacer el cobro del impuesto correspondiente, y
+
+V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerarse, en todo caso, que percibió la totalidad de los intereses causándose el impuesto sobre los mismos.
 
 #### SECCION OCTAVA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTÍCULO 38.
+###### ARTICULO 38.
 
-El Consejo General acordará, a propuesta de la Comisión de Participación Ciudadana, el procedimiento que habrá de observarse en el desarrollo de los trabajos el día en que tenga verificativo el procedimiento de plebiscito y/o referendo, así como de los trabajos previos y posteriores a él.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO ÚNICO. REGLAS COMUNES PARA EL EL (SIC) PROCEDIMIENTO DEL PLEBISCITO Y DE REFERENDO
+### CAPITULO III. DEL IMPUESTO SOBRE NOMINAS
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 39.
 
-Las mesas receptoras de consulta ciudadana se integrarán por un presidente, un secretario y un escrutador, salvo que el Consejo General determine una integración diferente, y tendrán, en su caso, las atribuciones que les otorga la Ley de Instituciones y Procedimientos Electorales para el Estado de Coahuila en las mesas directivas de casilla.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
 
-El Instituto según las necesidades del procedimiento, su naturaleza y el ámbito territorial de aplicación, establecerá la estructura para realizar el plebiscito o el referendo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-En todo caso, se podrán establecer las instancias que se requieran, mismas que tendrán las atribuciones que les confiere el propio Instituto.
+Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles, así como los rendimientos y anticipos que obtengan los miembros de sociedades cooperativas de productores de bienes y/o servicios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Son también objeto de este impuesto las erogaciones hechas de manera ocasional en contratos por eventos o servicios determinados.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 39-A.
 
-En caso de que los sujetos de este impuesto realicen pagos a trabajadores por concepto de construcciones, edificaciones de obra, acabados, modificaciones y/o remodelaciones, e incumplan con la obligación puntual del pago, deberán proporcionar a la autoridad recaudadora que corresponda al domicilio donde se realizaron las obras, la base para determinar la cantidad a pagar y los accesorios legales generados. Si después de requerido el contribuyente por la autoridad fiscal competente, no aporta dentro del término de 6 días los datos y/o documentos necesarios para la determinación del impuesto, o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
+En caso de que los sujetos de este impuesto realicen pagos a trabajadores por concepto de construcciones, edificaciones de obra, acabados, modificaciones y/o remodelaciones, e incumplan con la obligación puntual del pago, deberán proporcionar a la autoridad exactora que corresponda al domicilio donde se realizaron las obras, la base para determinar la cantidad a pagar y los accesorios legales generados. Si después de requerido el contribuyente por la autoridad exactora competente, no aporta dentro del término de 6 días los datos y/o documentos necesarios para la determinación del impuesto, o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad exactora. La base sobre la cual se aplicará la tasa será el importe del resultado de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado vigente al momento de la determinación de la autoridad exactora.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 Para asegurar el cumplimiento de esta obligación se deberá garantizar el pago del impuesto mediante póliza de fianza de institución debidamente autorizada, depósito en efectivo o cheque cruzado, considerando el tiempo de duración de la obra y el número promedio de empleados que estime el contribuyente.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
 Los propietarios que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,450 salarios mínimo (sic) diarios vigentes en el Estado, no causará este impuesto, tampoco lo causarán los propietarios que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 805 salarios mínimos diarios vigentes en el Estado. El documento con el que se acreditarán los supuestos antes referidos, lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
 
-Para determinar la base sobre la cual se aplicará la tasa en el caso de la construcción, habrá que obtener el importe como resultado de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
 Para los efectos de este impuesto, la prestación del servicio personal debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 40.
+###### ARTICULO 40.
 
-Los procedimientos de plebiscito o de referendo, se verificarán en día domingo, en una jornada que iniciará a las diez horas y concluirá a las dieciocho horas en que se cerrará la casilla. En el caso de que haya electores presentes se continuará recibiendo la votación hasta que los electores hayan sufragado.
+Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo 39 de esta Ley, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando éstos sujetos tengan su domicilio fuera del Estado.
+
+Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso por cada uno de los establecimientos en donde contraten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Secretaría dentro de los siguientes cinco días posteriores a la fecha de la firma del contrato suscrito o inicio de la prestación de los servicios o bien, de la fecha de su modificación, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada, la vigencia del contrato, los establecimientos y las actividades por las que se contrata el servicio.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 41.
+###### ARTICULO 41.
 
-Según las necesidades particulares de cada plebiscito o referendo, el Instituto decidirá el número y ubicación de las mesas receptoras de consulta ciudadana, debiendo establecerse cuando menos una por cada cinco secciones contenidas en el área territorial donde se aplicará el procedimiento, en el caso del área urbana y de una para el caso del área rural.
+Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de ésta ley.
 
-De acuerdo al tema de la consulta se establecerán los lugares en donde se recibirá la votación. En todo caso las mesas receptoras de votación se instalarán, preferentemente en locales públicos.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
-###### ARTÍCULO 42.
+###### ARTICULO 42.
 
-Los ciudadanos mexicanos podrán observar individualmente o en forma colectiva el desarrollo de la consulta ciudadana ya sea de plebiscito o de referendo, sin embargo, los organismos del Instituto no avalarán ni el trabajo de ellos ni sus conclusiones.
+El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
 
-###### ARTÍCULO 43.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
-Se entiende por observador al ciudadano mexicano, que acreditado por el Instituto, participe con ese carácter en los procedimientos de plebiscito y de referendo.
+###### ARTICULO 43.
+
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente (sic) aquél en el que se causó utilizando las formas autorizadas por la Secretaria, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general, debiéndose efectuar en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto emita la Secretaría.
+
+Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
+
+Serán considerados patrones, las empresas que presten servicios a otras, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
+
+Para el legal funcionamiento de estas personas, deberán aperturar una cuenta en institución bancaria debidamente autorizada, domiciliada en la circunscripción territorial donde se preste el servicio, y hacerlo del conocimiento de la autoridad recaudadora de rentas.
+
+El incumplimiento a esta disposición, hará responsable directo a quien reciba el servicio.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+La obligación de presentar declaraciones de pagos provisionales subsistirá aun cuando no hubiese cantidad a cubrir.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 43-A.
 
 El pago provisional será la cantidad que resulte de aplicar a los conceptos a que se refiere el artículo 39 de esta ley por cada período, por el que se efectúa el pago, la tasa señalada en el artículo 42 de esta ley.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 43-B.
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al efecto apruebe la Secretaría de Hacienda del Estado.
+El impuesto del ejercicio, deducidos de los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al afecto apruebe la Secretaría.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -697,7 +761,7 @@ I.- Cuando los contribuyentes inicien actividades a partir del 1° de enero, pre
 
 II.- Cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 43-C.
 
@@ -751,59 +815,69 @@ Cuando el contribuyente realice la erogación a que se refiere el párrafo anter
 
 #### SECCION TERCERA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTÍCULO 44.
+###### ARTICULO 44.
 
-Es derecho exclusivo de los ciudadanos mexicanos participar como observadores en actividades de consulta de participación ciudadana de la entidad, de acuerdo con las siguientes bases:
+Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
 
-I. Podrán participar sólo cuando hayan obtenido su registro ante el Instituto.
+I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-II. Los ciudadanos que pretendan participar como observadores en los procedimientos de Plebiscito y de Referendo, deberán señalar en el escrito de solicitud lo siguiente:
+II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-1. Los datos de identificación personal, anexando fotocopia de su credencial de elector con fotografía.
+III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-2. Una fotografía reciente tamaño infantil, con el nombre del solicitante escrito al reverso.
+IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
 
-3. La manifestación expresa de que si obtienen el registro, se conducirán conforme a los principios de imparcialidad, certeza, objetividad, legalidad y profesionalismo, así como no haber sido dirigente de partido político o haber ocupado un puesto de elección popular en los últimos tres años.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-III. La solicitud de registro a que se refiere este artículo, deberá presentarse en forma personal o a través de la agrupación a que pertenezca directamente al Instituto, a más tardar diez días de que se vaya a verificar el procedimiento de plebiscito o de referendo que se pretende observar. Dicha solicitud deberá resolverse a más tardar faltando cinco días para que se celebre el procedimiento del que se trate. Una vez resueltas sus acreditaciones se entregarán los registros correspondientes.
+V.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto dicte la Secretaría;
 
-###### ARTÍCULO 45.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-El Instituto en caso de que otorgue el registro correspondiente, deberá informar a los Comités Regionales y Municipales de Consulta y expedir los documentos pertinentes que otorgan el carácter de observador al solicitante.
+VI.- Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años contados, a partir de la fecha en que se presentaron o debieron haberse presentando las declaraciones con ellas relacionadas.
 
-###### ARTÍCULO 46.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
-Los observadores electorales debidamente acreditados por el Instituto, el día de la Consulta, ante una mesa receptora de Consulta Ciudadana tendrán derecho a observar los siguientes actos:
+VII.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efecto de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionada con las contribuciones estatales, en la sucursal que corresponda en el Estado.
 
-I. Instalación de la Mesa Receptora de Consulta Ciudadana.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II. Desarrollo de la consulta.
+VIII.- Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los períodos omitidos.
 
-III. Escrutinio y cómputo de la consulta en la casilla.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-IV. Fijación de resultados de la consulta en el exterior de la mesa receptora de consulta ciudadana.
+IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
-V. Clausura de la mesa receptora de consulta ciudadana.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-Por lo que respecta a la fracción II de este artículo, durante el período de duración del desarrollo de la consulta ciudadana, los observadores no podrán estar de manera permanente en el lugar.
+###### ARTICULO 45.
 
-###### ARTÍCULO 47.
+Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Finanzas y Planeación, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
 
-Son obligaciones de los observadores:
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-I. Abstenerse de actos que estorben a las autoridades electorales en el ejercicio de sus funciones.
+En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
-II. No realizar actos de proselitismo ni manifestaciones a favor o en contra del tema de la consulta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. No incurrir en la ofensa, difamación, calumnia o injuria, en contra de las instituciones, autoridades electorales, asociaciones, organizaciones y ciudadanos en general.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-IV. Portar en lugar visible sus acreditaciones o gafetes durante el desempeño como observador. La omisión a lo establecido en esta fracción impedirá al observador cumplir con su función hasta en tanto satisfaga este requisito.
+Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
 
-V. Abstenerse de proclamar el triunfo o derrota del tema de consulta.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VI. Cumplir los ordenamientos legales vigentes.
+###### ARTICULO 46.
+
+Quienes realicen pagos y erogaciones por cuentas de terceros gravados por este impuesto, a personas que presten servicios en el estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la Oficina Recaudadora de Rentas que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 43 de esta ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE 1995)</small>
+
+###### ARTICULO 47.
+
+Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 47
 
@@ -821,255 +895,393 @@ El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
-###### ARTÍCULO 48.
+###### ARTICULO 48.
 
-Los Comités Regionales y/o Municipales de Consulta Ciudadana capacitarán a los funcionarios de las mesas receptoras de consulta ciudadana, en cuanto a la presencia de los observadores así como los derechos y obligaciones inherentes a su actuación.
+No se consideran gravadas por este impuesto, las erogaciones que se cubran por concepto de:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+I.- Las indemnizaciones por terminación de relaciones laborales y por riesgo o enfermedades profesionales que sean otorgadas conforme a las leyes o contratos de trabajo respectivo. Salvo las otorgadas por diferencia y ajustes de sueldos.
+
+II.- Jubilaciones y pensiones en caso de invalidez, vejez, cesantía y muerte.
+
+III.- Pagos por gastos funerarios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
+
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004) (F. DE E., P.O. 10 DE ENERO DE 2005)
+
+V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Estatal y Municipal.
+
+VI.- Remuneraciones cubiertas por los Ejidos y Comunidades, las uniones de ejidos y comunidades, las empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, las asociaciones rurales de interés colectivo, las sociedades de producción rural y las unidades agrícolas industriales de la mujer campesina.
+
+VII.- Remuneraciones cubiertas por las personas morales con fines no lucrativos siguientes:
+
+a) Sindicatos obreros y los organismos que los agrupen.
+
+b) Asociaciones patronales.
+
+c) Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que los agrupen.
+
+d) Colegios de profesionales y los organismos que los agrupen.
+
+e) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia.
+
+f) Sociedades cooperativas de consumo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+g) Las asociaciones civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
+
+No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII.- El ahorro cuando se integre por un depósito igual del trabajador y de la empresa, siempre y cuando éste se realice con la misma periodicidad al pago de las remuneraciones del trabajador;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+IX.- Remuneraciones cubiertas a trabajadores domésticos en términos de la Ley Federal del Trabajo.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+X.- Remuneraciones a cónyuges y/o familiares hasta el primer grado en línea recta.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XI.- Cuotas obrero patronales efectuadas por el patrón al INFONAVIT, SAR, IMSS, ISSSTE.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XII.- La alimentación, la habitación y las despensas cuando se cobren al trabajador.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
+XIII.- Las remuneraciones cubiertas a trabajadores con capacidades diferentes, siempre que acrediten esta calidad mediante certificado expedido por un Organismo de Salud Pública competente y credencial del DIF correspondiente. Los certificados emitidos por particulares se considerarán improcedentes.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTÍCULO 49.
+###### ARTICULO 49.
 
-En caso de que cualquier observador o grupo de ellos, entorpezca el desarrollo de la Consulta, podrá el presidente de la mesa receptora de consulta ciudadana, utilizar los medios legales respectivos para retirarlos del lugar.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO PRIMERO. DE LOS COMITÉS REGIONALES DE PARTICIPACIÓN CIUDADANA
+### CAPITULO IV. DEL IMPUESTO AL COMERCIO Y LA INDUSTRIA
 
 #### SECCION PRIMERA. DEL OBJETO
 
-###### ARTÍCULO 50.
+###### ARTICULO 50.
 
-La votación podrá recogerse por medio de instrumentos electrónicos y/o máquinas, cuyo modelo sea aprobado por el Consejo General, siempre que se garantice la efectividad y el secreto del sufragio.
+Son objeto de este impuesto los ingresos en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquiera otra forma que se obtenga por:
 
-###### ARTÍCULO 51.
+I.- La enajenación de bienes, incluyendo las ventas con reserva de dominio;
 
-El Instituto, a propuesta del Secretario Técnico, decidirá sobre los formatos de boletas que habrán de utilizarse en los procesos de plebiscito y referendo. De igual forma decidirán sobre el resto del material y equipo.
+II.- El arrendamiento de bienes por empresas mercantiles;
+
+III.- La prestación de servicios, y
+
+IV.- Las comisiones y mediaciones mercantiles.
+
+###### ARTICULO 51.
+
+Para los efectos de este impuesto se considera por:
+
+I.- Enajenación, toda transmisión de dominio de carácter mercantil por la cual se perciba un ingreso;
+
+II.- Arrendamiento, la concesión del uso o goce temporal de un bien que produzca un ingreso al arrendador;
+
+III.- Prestación de servicios, aquellas que sean de índole mercantil, y
+
+IV.- Comisión Mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comité, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+V.- Mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes;
+
+VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+
+Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-###### ARTÍCULO 52.
+###### ARTICULO 52.
 
-Para los efectos del artículo anterior, el Instituto, realizará el procedimiento de adquisición más conveniente, conforme a las disposiciones legales aplicables en la materia, a efecto de adquirir la documentación, material y equipo necesario para el desarrollo de los procedimientos de plebiscito y de referendo.
+Son sujetos de este impuesto las personas físicas o morales que obtengan habitual u ocasionalmente los ingresos gravados por este capítulo, cuyas operaciones sean realizadas o que surtan sus efectos en el territorio del Estado.
 
-###### ARTÍCULO 53.
+###### ARTICULO 53.
 
-Para la emisión del voto, se elaborarán las boletas correspondientes, conforme al modelo que apruebe el Instituto debiendo contener cuando menos los siguientes datos:
+Para los efectos de este impuesto se considerará percibido ingreso:
 
-I. Entidad o municipio, de conformidad con la naturaleza del procedimiento a celebrarse.
+I.- En el lugar donde el contribuyente establezca su negocio, industria o comercio;
 
-II. La pregunta o preguntas relativas al procedimiento de que se trate.
+II.- En el domicilio del comisionista cuando su comitente se encuentre establecido fuera del Estado;
 
-III. Cuadros o círculos para las respuestas.
+III.- En el domicilio de sus dependencias, cuando la matriz se encuentre ubicada fuera del Estado;
 
-IV. El emblema del Instituto; y
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-V. Las medidas de seguridad que garanticen la dificultad de su falsificación.
+V.- En el Estado, cuando una empresa domiciliada en éste realice sus operaciones gravadas fuera del mismo aún cuando sea por conducto de sus dependencias ubicadas fuera del Estado, y
+
+VI.- Cuando se obtengan ingresos, objeto de este impuesto, provenientes de bienes que en el momento de efectuarse la operación se encuentren dentro del territorio del Estado, cualquiera que sea el domicilio de las partes y el destino de la mercancía.
 
 #### SECCION TERCERA. DE LOS RESPONSABLES SOLIDARIOS
 
-###### ARTÍCULO 54.
+###### ARTICULO 54.
 
-La declaración de los efectos del procedimiento del plebiscito o del referendo, la realizará el Instituto conforme a lo dispuesto por la Ley de Participación Ciudadana.
+Responden solidariamente del pago de este impuesto:
 
-Tratándose de plebiscitos o referendos estatales, el Consejo General realizará, a más tardar el siguiente martes del día de la celebración del procedimiento, el cómputo estatal y declarará los efectos legales del mismo.
+I.- Los representantes legales de los sujetos del gravamen, excepto los apoderados para pleitos y cobranzas;
 
-En el caso de plebiscito o de referendo municipal el órgano municipal encargado de la organización y desarrollo del procedimiento, realizará el cómputo respectivo a más tardar el siguiente martes del día de la celebración del procedimiento, haciendo la declaración de los efectos legales del mismo, informando al Instituto de inmediato de tal circunstancia, para todos los efectos conducentes.
+II.- Los comisionistas respecto del impuesto a cargo del comitente cuando la entrega de la (sic) mercancías enajenadas se haga en los establecimientos de aquéllos; en este caso, el establecimiento del comisionista se estimará como una dependencia del comitente y el ingreso se considerará percibido en el mismo;
+
+III.- Los comitentes, por los créditos fiscales derivados de las operaciones gravadas por este impuesto a cargo de sus comisionistas, y
+
+IV.- Quienes adquieran por cualquier título establecimientos comerciales o industriales en los que se perciban ingresos gravados por este impuesto. Los establecimientos referidos quedarán afectos preferentemente al pago de este impuesto.
 
 #### SECCION CUARTA. DE LA BASE
 
-###### ARTÍCULO 55.
+###### ARTICULO 55.
 
-El Instituto remitirá la resolución correspondiente al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado.
+Es base para el pago de este impuesto, el ingreso y total derivado de las operaciones gravadas, aún cuando sea a plazo o a crédito sujetas a condición, o con reserva del dominio, incluyendo el sobreprecio, los intereses o cualquiera otra prestación que lo aumente.
 
-###### ARTÍCULO 56.
+###### ARTICULO 56.
 
-Los resultados del plebiscito serán obligatorios para el Ejecutivo del Estado o para los Ayuntamientos, siempre y cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o del Municipio, según se trate.
+El ingreso gravable de los comisionistas estará formado por la cantidad que perciban de acuerdo con lo pactado, por concepto de remuneración por la comisión desempeñada y en su caso, por los ingresos percibidos como rembolso (sic) por concepto de viáticos, gastos de viaje o de oficina y demás erogaciones que por cualquier concepto cargue o cobre a su comitente o representado, siempre que se satisfagan los requisitos siguiente (sic):
 
-En caso contrario, el plebiscito y el referendo tendrán únicamente el carácter de recomendación.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-En todo caso, el Instituto deberá comunicar al Ejecutivo del Estado o al Ayuntamiento correspondiente, los resultados del plebiscito dentro de los tres días siguientes al en que se verificó el procedimiento.
+I.- Que exista contrato escrito en el que se estipule la remuneración, ya sea en una cantidad fijada o en un porcentaje determinado sobre el precio de la operación, y que se envíe para su registro una copia firmada y certificada de él y de sus modificaciones a la Oficina Recaudadora de Rentas correspondiente, durante los quince días siguientes a la celebración de aquél o a que éstas se acuerden;
 
-Toda omisión, acto o resolución del Poder Ejecutivo o de los Ayuntamientos que violen los resultados vinculatorios del plebiscito podrán ser impugnadas en los términos de la ley de la materia.
+II.- Que el comisionista no haga descuentos o bonificaciones a los clientes en el precio de las operaciones, con cargo a su comisión;
 
-###### ARTÍCULO 57.
+III.- Que el comisionista no se obligue a anticipar al comitente el precio total o parcial de las operaciones, ni lo garantice en efectivo o en títulos de crédito;
 
-Los resultados del referendo serán obligatorios para el Poder Legislativo del Estado cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado.
+IV.- Que el comisionista cubra el comitente el importe de las operaciones que realice a crédito, hasta el vencimiento de los plazos concedidos, y
 
-En caso contrario, el referendo tendrá únicamente el carácter de recomendación.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-En todo caso, el Instituto deberá comunicar al Congreso del Estado los resultados del referendo, dentro de los tres días siguientes al en que se verificó el procedimiento.
+V.- Que el comisionista ponga a disposición de las autoridades fiscales, cuando éstas lo soliciten, los comprobantes de las cuentas rendidas a su comitente y de las comisiones percibidas.
+
+De no satisfacer los requisitos anteriores, se estimará que el comisionista ha obrado en su nombre y por cuenta propia, y el impuesto se causará sobre el importe total de la operación.
+
+###### ARTICULO 57.
+
+El ingreso gravable del propietario de las mercancías, estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, representante, corredor o distribuidor, sin que sea deducible, para este efecto, la retribución estipulada.
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
-###### ARTÍCULO 58.
+###### ARTICULO 58.
 
-Una vez que el Instituto notifique al Congreso del Estado o en su caso a la Diputación Permanente los efectos obligatorios del referendo se turnará a la Comisión correspondiente para que ésta sin demora, presente el dictamen en el sentido del referendo al Congreso del Estado, para su discusión y aprobación.
+Para los efectos de este impuesto, no se consideran ingresos gravables:
 
-Toda omisión, acto o resolución del Congreso del Estado o de la Diputación Permanente que viole los resultados vinculatorios del referendo, podrá ser impugnada en los términos de la ley de la materia.
+I.- Los reembolsos de pagos hechos a terceros por concepto de gastos de seguro, acarreos, fletes, empaques, envolturas, envases exteriores, impuesto, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que estos se carguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de venta que se expidan, a condición de que el precio no se pacte libre de gastos para el comprador;
+
+II.- Los descuentos y bonificaciones hechos por el vendedor al comprador;
+
+III.- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente;
+
+IV.- Los que provengan de reintegros o anticipos hechos por la persona que reciba el servicio, de los gastos que sean ocasionados por servicios complementarios del principal, siempre que se hagan por cuenta del cliente, se señalen específicamente en la factura o nota de venta que expida y reúnan los requisitos siguientes;
+
+a).- Que el prestador del servicio principal no pueda proporcionar directamente los servicios complementarios, y
+
+b).- Que el prestador del servicio principal no altere los precios de los servicios complementarios al cargarlos en cuenta al cliente.
+
+Tampoco se consideran gravables los descuentos y bonificaciones que haga el prestador del servicio a quien lo recibe y los que se reintegran con motivo de la rescisión total o parcial de los contratos, y
+
+V.- En el caso de los comisionistas, las comisiones cedidas a otros agentes o subagentes, siempre que sobre ellas se cause el impuesto.
 
 #### SECCION SEXTA. DE LAS DECLARACIONES Y PAGO
 
-###### ARTÍCULO 59.
+###### ARTICULO 59.
 
-Los resultados del plebiscito o del referendo se publicarán en el Periódico Oficial del Gobierno del Estado. Para mayor difusión, los resultados se podrán publicar o difundir en los medios de comunicación o en los lugares de mayor afluencia al público.
+Este impuesto se causará a razón del 2% cuando se trata de las actividades señaladas en las fracciones l, II y IV del artículo 50 y del 1.5% cuando se trate de las actividades señaladas en la fracción III del mencionado artículo 50 de esta ley.
 
-###### ARTÍCULO 60.
+###### ARTICULO 60.
 
-En los procedimientos de plebiscito y de referendo los plazos son improrrogables.
+El pago de este impuesto se hará en la oficina recaudadora de rentas que corresponda a la jurisdicción del establecimiento del contribuyente, dentro de los días primero al veinte del mes siguiente, al en que se hubiere percibido el ingreso, mediante la prestación de una declaración en las formas aprobadas, consignando todos los datos requeridos en las mismas.
 
-###### ARTÍCULO 61.
+En los casos de enajenaciones de inmuebles cuando el precio se estipule a plazo, el impuesto se pagará sobre el monto de los ingresos mensuales que efectivamente se perciban, con motivo de las exhibiciones pactadas.
 
-Los plazos se contarán por días hábiles, salvo que el presente reglamento establezca días naturales.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 62.
+Quienes tengan señalada cuota fija para el pago del impuesto, no presentarán la declaración a que se refiere el primer párrafo, pero deberán cubrirlo dentro del plazo señalado en el mismo, salvo que la Secretaría mediante disposiciones generales fije un plazo diferente.
 
-Cuando estas disposiciones no fijen plazo especial, el término será de tres días hábiles.
+Los contribuyentes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello dentro el plazo establecido en este artículo.
 
-###### ARTÍCULO 63.
+###### ARTICULO 61.
 
-Las notificaciones durante los procedimientos del plebiscito o referendo, se realizarán por aquella persona que designe el Instituto.
+No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto y, en su caso, los accesorios legales causados, excepto en el caso previsto en el párrafo final del artículo anterior. Tampoco se admitirán cuando no se presenten en las formas aprobadas.
 
-###### ARTÍCULO 64.
+###### ARTICULO 62.
 
-Los ciudadanos que intervengan en el procedimiento de plebiscito o referendo señalarán en su solicitud, su domicilio y designarán a un representante para oír y recibir toda clase de notificaciones y/o documentos, en la ciudad donde resida el Instituto.
+Las declaraciones deberán ser firmadas:
 
-Si por cualquier circunstancia no hacen la designación, cambian su domicilio sin dar aviso o señalan uno de manera incorrecta o falsa, todas las notificaciones se harán en los estrados del Instituto, para todos los efectos a que haya lugar.
+I.- Por el propietario o su apoderado y por el contador si lo hubiere, cuando se trate de negociaciones propiedad de personas físicas;
+
+II.- Por el contador de la empresa y por el gerente, o por el director o administrador, cuando se trate de sociedades; en defecto de éstos al funcionario de la empresa autorizado por el Consejo de Administración, o si no existe Consejo, por el Administrador único, y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+III.- Por el gerente o encargado de la sucursal o por el contador si lo hubiere, cuando se trate de sucursales ubicadas en jurisdicción de la Oficina Recaudadora de Rentas distinta a la de la matriz; las declaraciones serán firmadas, en su caso, por las personas a que se refieren las dos fracciones anteriores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 63.
+
+Las sociedades no podrán presentar sus declaraciones mensuales sin que sean aprobadas expresamente por la persona a quien corresponda la representación de la sociedad. En el documento en que se apruebe la presentación de las declaraciones se hará constar el monto de los ingresos que deberán declararse.
+
+Cuando el administrador único o los administradores de las sociedades autoricen, al gerente, al director o al apoderado de la empresa para que presenten las declaraciones mensuales sin previa aprobación expresa asumirán, para todos los efectos legales, las responsabilidades que pueden derivarse de la falsedad o inexactitud de dichas declaraciones.
+
+###### ARTICULO 64.
+
+Los contribuyentes menores podrán cubrir sus impuestos a cuota predeterminada, pero estarán obligados a presentar una declaración complementaria al finalizar cada ejercicio, en el caso de que los ingresos reales percibidos hayan excedido en más de un 20% a los que hubiesen servido de base para la determinación de la cuota. Para presentar tal declaración, se establece como plazo los meses de enero y febrero siguientes al término del ejercicio y con ella se cubrirán las diferencias del impuesto a que haya lugar.
 
 #### SECCION SEPTIMA
 
 DE LAS RECTIFICACIONES.
 
-###### ARTÍCULO 65.
+###### ARTICULO 65.
 
-Las notificaciones se harán en el lugar que señalaron los solicitantes o en el local del Instituto o de la autoridad competente, según se trate.
+Los contribuyentes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados asientos que comprueben aumentos o disminuciones de los ingresos declarados y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor, del impuesto rectificado, en la declaración del mes siguiente al en que efectivamente hayan registrado dichos asientos.
 
-###### ARTÍCULO 66.
+También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
 
-Toda resolución se notificará por vía de oficio que se entregará en el lugar señalado por los solicitantes, en forma personal o por estrados.
+Cumpliéndose con los requisitos establecidos, no se cobrarán recargos, no se impondrán sanciones por los impuestos omitidos declarados.
 
-###### ARTÍCULO 67.
+###### ARTICULO 66.
 
-El Instituto publicará una lista de acuerdos. En ella expresará el número del expediente que se le asigne a la solicitud de plebiscito o de referendo, según el caso, los interesados y el rubro del asunto acordado.
+Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el artículo anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuestos pagados tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ella resulta diferencia a su cargo, la cubrirán mediante declaración complementaria con los recargos de ley, dentro de los tres meses siguientes al cierre de ejercicio; si por el contrario, la diferencia fuese a su favor, podrán solicitar su devolución.
 
-La lista se publicará el día laborable siguiente al día de la resolución, a más tardar a la última hora laborable.
+Fuera del plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso, los contribuyentes deberán pagar las omisiones y recargos y pedir por separado la devolución del impuesto cubierto en exceso.
+
+###### ARTICULO 67.
+
+Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones referidas en los artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierto de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una inspección, investigación, revisión o auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada en este gravamen.
 
 #### SECCION OCTAVA
 
 DE LAS OBLIGACIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTÍCULO 68.
+###### ARTICULO 68.
 
-Las notificaciones surten efecto el mismo día que se hagan o el día que se recibieron en el domicilio señalado.
+Los contribuyentes de este impuesto están obligados a registrarse o empadronarse en las Oficinas Recaudadoras de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas aprobadas y proporcionando todos los datos y documentos exigidos en las mismas.
 
-Las notificaciones por lista surten efectos al día siguiente laborable de su publicación, a menos que la resolución respectiva se hubiere notificado antes, en forma personal.
+Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá registrar o empadronar cada una de ellas por separado.
 
-###### ARTÍCULO 69.
+Para los efectos de éste artículo, se considera como fecha de iniciación de operaciones, aquélla en que se efectúe la apertura o en la que el contribuyente obtenga el primer ingreso.
 
-El Instituto tendrá facultades para ampliar o modificar los plazos y términos establecidos en este reglamento, siempre y cuando a su juicio exista imposibilidad material o presupuestal para realizar dentro de los mismos los actos para los cuales se prevén, o así resulte conveniente para un mejor y debido cumplimiento de las diversas etapas del procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-El acuerdo a que se refiere el párrafo que antecede, se publicará en el Periódico Oficial y en los medios de comunicación de mayor circulación del Estado o del Municipio según sea el caso, dentro de los tres días siguientes a la fecha de su aprobación.
+Quienes en la solicitud de inscripción o en los avisos de modificación o baja al padrón, hayan incurrido en errores u omisiones o empleado de manera equivocada las formas oficiales, darán a conocer los datos correctos a la Oficina Recaudadora de Rentas correspondiente, utilizando la forma oficial respectiva, e indicando en ella que se presenta para corrección de errores u omisiones, con el original del que se dejará copia, se devolverá para su reposición, en su caso, el documento erróneo que se hubiere expedido.
 
-###### ARTÍCULO 70.
+###### ARTICULO 69.
 
-Toda controversia del procedimiento de plebiscito y del referendo, será resuelto por el Tribunal Electoral de conformidad con la ley de la materia.
+Los contribuyentes de este impuesto deberán conservar y colocar en lugar visible de sus establecimientos, la copia debidamente requisitada de su solicitud de empadronamiento o registro.
 
-###### ARTÍCULO 71.
+###### ARTICULO 70.
 
-A falta de norma expresa, en el procedimiento del plebiscito y del referendo se aplicarán en lo conducente las disposiciones relativas a las leyes electorales o de participación ciudadana en el Estado.
+Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
 
-###### ARTÍCULO 72.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-Para fijar el porcentaje ciudadano de plebiscito y de referendo se tomará en cuenta la lista nominal utilizada en el último proceso electoral estatal.
+I.- Empadronarse dentro del mes siguiente a la fecha de iniciación de sus operaciones.
 
-El Instituto establecerá los mecanismos que estime conducentes para realizar el cotejo respectivo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 73.
+II.- Solicitar por escrito la confirmación de su exención ante la Secretaría, la cual resolverá su procedencia si reúne los requisitos correspondientes, y
 
-Si durante el desarrollo del procedimiento, existen datos fundados que revelen que la consulta pudiere generar desorden público o un ambiente de intimidación para los ciudadanos, el Instituto, previa consulta con los solicitantes, suspenderá temporal o definitivamente la realización del plebiscito o del referendo hasta que existan condiciones para la consulta de que se trate.
+III.- Declarar en el mes de enero de cada año, el importe de los ingresos que hayan percibido durante el año anterior, o en su caso dentro de los quince días siguientes a la fecha de clausura, traspaso o cambio de giro.
 
-Para tal efecto, el Instituto deberá emitir un informe fundado o motivado a la ciudadanía.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
-###### ARTÍCULO 74.
+###### ARTICULO 71.
 
-En el plebiscito o el referendo, los ciudadanos tendrán derecho a las siguientes opciones:
+En los casos de cambio de nombre, denominación o de razón social, domicilio, actividad, aumento o disminución del capital social, traspaso de la negociación y suspensión de actividades, los contribuyentes deberán dar aviso, en las formas aprobadas a través de la oficina Recaudadora de Rentas correspondiente, dentro del mes siguiente a la fecha en que hubiera ocurrido cualquiera de tales hechos, consignando todos los datos que en la misma se requieran.
 
-I. El procedimiento preparatorio de firmas.
+###### ARTICULO 72.
 
-II. La suscripción directa de las autoridades.
+Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-III. La comisión ciudadana y/o interinstitucional.
+###### ARTICULO 73.
 
-IV. La consulta ciudadana.
+Además de las ya establecidas, son obligaciones de los contribuyentes de este impuesto:
 
-###### ARTÍCULO 75.
+I.- Pagar el impuesto en la forma y términos establecidos en este capítulo;
 
-El procedimiento preparatorio de firmas, se sujetará a las bases siguientes:
+II.- Llevar como mínimo tres libros principales: libro diario, libro mayor, libro de inventarios y balances y además el libro de actas, cuando se trate de personas morales.
 
-I. Podrá solicitarlo, en el caso del plebiscito estatal y del referendo, el uno punto cinco por ciento de los ciudadanos inscritos en la lista nominal de electores del estado.
+En las sucursales, dependencias o agencias de los contribuyentes, deberá llevarse un libro especial de ingresos, salvo que en los libros o registros auxiliares que lleven se cumpla con la obligación de registrar los ingresos dentro del plazo que establezcan las disposiciones fiscales.
 
-II. La solicitud deberá cumplir con los requisitos que establece este reglamento para el plebiscito o el referendo, respectivamente.
+Quedan exceptuados del cumplimiento de las obligaciones referidas en esta fracción, los sujetos de este impuesto clasificados como menores, quienes llevarán para el control de sus operaciones un libro de ingresos y egresos;
 
-III. El Instituto dentro de los diez días siguientes calificara la procedencia del procedimiento, conforme a las bases siguientes:
+III.- Expedir facturas, notas de venta o documentos que amparen los ingresos que perciban, así como recabarlos por las compras y otros egresos que efectúen;
 
-1. En caso de que la solicitud no cumpla con los requisitos que establece esta ley, el Instituto requerirá al representante de los solicitantes para que subsane la irregularidad dentro de los cinco días siguientes. Hecho lo cual, el Instituto resolverá sobre su procedencia.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-2. En caso de que la solicitud cumpla con los requisitos que establece esta ley el Instituto, conforme a su disponibilidad de recursos humanos y financieros, iniciará el procedimiento preparatorio de firmas de la manera siguiente:
+IV.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones contables efectuadas, contados a partir de la fecha en que se presentaron o debieron haberse presentado;
 
-a) Instrumentará una campaña de difusión para recabar las firmas ciudadanas necesarias, para que en su caso, proceda el plebiscito o el referendo, según se trate.
+V.- Proporcionar a las autoridades fiscales los datos, informes o documentos que le soliciten dentro del plazo fijado para ello;
 
-b) Establecerá el lugar o lugares donde los ciudadanos podrán adherirse a la solicitud de que se trate. En este caso, el Instituto recabará las firmas ciudadanas, previa consulta y/o cotejo respectivo.
+VI.- Recibir las visitas de investigación y proporcionar a los auditores, inspectores o a los investigadores los libros, datos, informes, documentos y demás registros que le soliciten para el desempeño de sus funciones;
 
-c) El plazo para que los ciudadanos manifiesten su adhesión a la solicitud, no podrá exceder de quince días naturales contados a partir de la fecha en que se instalen los lugares autorizados para recibir las firmas. El Instituto se encargará de computar este plazo y hacerlo saber a la ciudadanía en general.
+VII.- Practicar balance al cierre de cada ejercicio fiscal, tratándose de contribuyentes mayores, y
 
-IV. Para la instrumentación de la campaña de difusión, el Instituto podrá auxiliarse de las siguientes alternativas:
+VIII.- Los contribuyentes que expendan alcohol, bebidas alcohólicas al copeo o en botella cerrada, adicionalmente deberán cumplir con las siguientes obligaciones:
 
-1. Expedir una convocatoria abierta para que la ciudadanía conozca el objeto de la solicitud del plebiscito o referendo. En este caso, los solicitantes podrán anexar un proyecto de convocatoria.
+a).- Llevar un libro de ventas, en el que se hará constar de manera inalterable, el movimiento pormenorizado de las ventas diariamente realizadas, independientemente de los libros que por ley deben llevar;
 
-2. Organizar foros de información, de análisis y de discusión sobre el objeto de la solicitud del plebiscito o referendo.
+b).- Verificar, al recibir mercancía materia de las operaciones gravadas, que se encuentran legalmente amparadas con la documentación correspondiente y que los marbetes comprobatorios del pago del impuesto federal respectivo, estén debidamente adheridos;
 
-3. Establecer mecanismos confiables, objetivos y expeditos para recabar las firmas ciudadanas.
+c).- Abstenerse de introducir y de permitir la introducción en sus establecimientos, de bebidas alcohólicas que no forman parte de sus existencias legalmente adquiridas. Las que se introduzcan se considerarán para todos los efectos legales, como parte integrante de las existencias del establecimiento;
 
-En la instrumentación de la campaña de difusión, podrán participar los ciudadanos solicitantes y la comunidad en general, en los términos previstos por este reglamento y la ley de la materia.
+d).- No tener en expendios al copeo, más envases abiertos de cada clase específica de bebidas alcohólicas, que las que sean necesarias en relación con la intensidad de sus operaciones, ni cambiar las bebidas alcohólicas de los envases abiertos a otros aún cuando sean de la misma clase específica de bebida, así como raspar las etiquetas de los envases terminados;
 
-V. Transcurrido el plazo para recibir las firmas ciudadanas, el Instituto declarará si procede o no el plebiscito o referendo.
+e).- Otorgar garantía para asegurar el pago de este impuesto, equivalente al monto probable de tres meses cuando se haga mediante depósito en efectivo y de seis meses si se otorga fianza, cuando la Secretaría lo considera conveniente;
+
+f).- En los establecimientos donde se expendan bebidas alcohólicas, no deberán tener existencia de las mismas (sic) envases de capacidad superior a cinco litros, ni existencia de alcohol en los expendios de bebidas alcohólicas al copeo;
+
+g).- En los expendios de bebidas alcohólicas al copeo, queda prohibida la práctica de llenar o rellenar botellas o envases; en consecuencia, únicamente podrán tener botellas o envases de origen y abiertos, los que estén en uso. Toda botella o envase de bebida alcohólica vacía, deberá ser inmediatamente inutilizada.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 74.
+
+Los fabricantes, envasadores, rectificadores, ampliadores y mezcladores, no podrán establecer expendios de bebidas alcohólicas al copeo, en el mismo local o dependencia de sus fábricas, almacenes o bodegas. La Secretaría, por conducto de las oficinas Recaudadoras de Rentas, negará el empadronamiento de tales expendios y procederá a su clausura definitiva.
+
+###### ARTICULO 75.
+
+Los locales de los expendios de bebidas alcohólicas no podrán ser utilizados para fines distintos a dicho expendio; en consecuencia, se prohibe que estos locales sean utilizados como habitación y que constituyan la única entrada para la habitación.
 
 #### SECCION NOVENA. DE LAS OBLIGACIONES DE TERCEROS
 
-###### ARTÍCULO 76.
+###### ARTICULO 76.
 
-Para las formas alternativas de acceso al ciudadano previstas en las fracciones II, III y IV del artículo anterior, se estará a lo dispuesto por la ley de la materia.
+Están obligados a retener y enterar el impuesto en los términos del artículo 60:
 
-###### ARTÍCULO 77.
+I.- Los usuarios de servicios técnicos y los arrendatarios de maquinaria y equipo, cuando los ingresos se perciban por contribuyentes residentes fuera del Estado y provengan de operaciones realizadas o que surtan sus efectos en territorio del mismo;
 
-El Instituto, y los Comités Regionales y Municipales de Consulta, en los ámbitos de sus competencias, conocerán y resolverán de las infracciones a las disposiciones de este reglamento por su incumplimiento, aplicando las sanciones que correspondan en los términos establecidos por el mismo.
+II.- Las personas residentes en el Estado que paguen comisiones o remuneraciones por servicios prestados por comisionistas, agentes o representantes radicados fuera del Estado, excepto cuando se trate de comisiones pagadas por exportaciones o para que empresas residentes en el Estado, presten servicios fuera del mismo. La retención se hará calculando el impuesto, sobre el monto total de las cantidades que se cubran a los comisionistas, agentes o representantes;
 
-###### ARTÍCULO 78.
+III.- Los comitentes, sobre las remuneraciones que cubran a sus comisionistas, cuando éstos no realicen sus operaciones en establecimientos fijos, y
 
-Para los efectos del artículo anterior, el Instituto conocerá de las irregularidades en que hayan incurridos (sic) los solicitantes del Plebiscito y de Referendo.
+IV.- Los retenedores a que se refieren las fracciones I y II; de este artículo, enterarán el impuesto mediante una declaración adicional, con su mismo número de cuenta, en la que se manifestarán los ingresos pagados, el monto del impuesto retenido, el nombre o razón social y domicilio de los sujetos a quienes se practicó la retención.
 
-Una vez que tenga conocimiento de la irregularidad, la Comisión de Participación Ciudadana emplazará al presunto infractor, para que en el plazo de tres días hábiles conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes, las que en su caso serán a su cargo.
+###### ARTICULO 77.
 
-Concluido el plazo a que se refiere el segundo párrafo de este artículo, se abrirá una fase probatoria de dos días hábiles y concluida ésta, se formulará el dictamen correspondiente, el cual se presentará por la Comisión de Participación Ciudadana al Consejo General, para su discusión, y, en su caso, aprobación.
+En los contratos de comisión y representación, serán responsables del pago del impuesto que se deje de cubrir, los comisionistas y los representantes, respectivamente.
 
-El Instituto, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa.
+###### ARTICULO 78.
 
-Las multas que imponga el Instituto deberán ser pagadas en la Dirección Ejecutiva del Instituto en un plazo improrrogable de diez días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el mismo se hubiere efectuado, el Instituto, lo turnará para todos los efectos legales como Crédito Fiscal a las autoridades competentes para su ejecución.
+Los contadores al firmar o rendir dictamen sobre balance de los contribuyentes, harán constar si el ingreso ha sido declarado en los términos de este capítulo. En caso de falsedad, serán acreedores a las sanciones correspondientes.
 
-###### ARTÍCULO 79.
+###### ARTICULO 79.
 
-Las sanciones se impondrán con sujeción a las siguientes disposiciones y podrán consistir en:
-
-I. Multa de doscientas a quinientas veces el salario mínimo vigente en la capital del Estado, a los que soliciten firmas tergiversando el contenido de la iniciativa.
-
-II. Multa de doscientas cincuenta a quinientas veces el salario mínimo vigente en la capital del Estado a los que realicen actividades que contravengan las disposiciones de este reglamento.
-
-III. Multa de doscientas a mil veces el salario mínimo vigente en la capital del Estado, a quienes impidan a los votantes leer el contenido completo de la propuesta o soliciten firmas falsas.
-
-Las multas que se apliquen serán destinadas a la promoción del voto y a la difusión de la cultura democrática.
-
-T R A N S I T O R I O
-
-ÚNICO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+Quienes tenga (sic) o hayan tenido relaciones comerciales o industriales con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Secretaría y a sus dependencias, suministrándoles los informes, datos y documentos que le sean solicitados.
 
 #### SECCION DECIMA. DE LAS EXENCIONES
 
@@ -1115,7 +1327,9 @@ Las personas morales cualesquiera que sea el monto de sus ingresos, se clasifica
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO SEGUNDO. DE LA SOLICITUD DEL PLEBISCITO Y DEL REFERENDO
+### CAPITULO V. DEL IMPUESTO SOBRE PRODUCCION DE AZUCAR, PILONCILLO, MIELES CRISTALIZABLES E INCRISTALIZABLES
+
+PRIMERA PARTE
 
 #### SECCION PRIMERA
 
@@ -1195,11 +1409,11 @@ El impuesto se causará en el momento en que se enajenen, por cualquier título,
 
 Para los efectos de este impuesto se considerará que existe enajenación por el solo hecho de que los productos salgan del lugar en que se produzcan o encuentren almacenados.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 90.
 
-El pago de este impuesto se hará dentro (sic) los veinte días del mes siguiente en que se hubiera causado, en las Oficinas Recaudadoras de Rentas de la jurisdicción del contribuyente o en el lugar que al efecto señale la Secretaría de Hacienda del Estado, haciendo uso de las formas oficiales aprobadas.
+El pago de este impuesto se hará dentro de los veinte días del mes siguiente en que se hubiere causado, en la (sic) Oficinas Recaudadoras de Rentas de la jurisdicción del contribuyente o en el lugar que al efecto señale la Secretaría, haciendo uso de las formas oficiales aprobadas.
 
 #### SECCION QUINTA. DE LAS OBLIGACIONES
 
@@ -1213,9 +1427,9 @@ I.- Pagar el impuesto en la forma y términos previstos en este capítulo;
 
 II.- Registrarse o empadronarse en la Oficina Recaudadora de Rentas que corresponda al lugar de la ubicación de las fabricas, bodegas o almacenes, previamente al inicio de sus actividades, haciendo la solicitud respectiva en las formas oficiales aprobadas para este efecto y proporcionando todos los datos que en ella se requieran;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-III.- Tener la cédula o constancia de empadronamiento que expida la Secretaría de Hacienda del Estado, en lugar visible de su establecimiento;
+III.- Tener la cédula o constancia de empadronamiento que expida la Secretaría, en lugar visible de su establecimiento;
 
 IV.- Dar aviso a la oficina recaudadora de rentas respectivamente del cambio de nombre o razón social, así como de traspaso, dentro de los quince días hábiles siguientes a la fecha en que ocurra cualquiera de estos hechos, haciendo uso de las formas oficiales aprobadas;
 
@@ -1233,7 +1447,7 @@ VII.- Llevar libros talonarios de facturas o de notas de remisión, autorizados 
 
 VIII.- Expedir factura o nota de remisión, por cada operación de enajenación de productos materia del gravamen que celebren en la misma fecha en que la efectúen;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IX.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente, a más tardar el mismo día en que ocurra:
 
@@ -1245,7 +1459,7 @@ c).- La terminación de cada molienda o corrida en su caso, indicando la fecha p
 
 d).- La terminación de la zafra;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 X.- Manifestar a la Oficina Recaudadora de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha en que se celebren los contratos de maquila que haga.
 
@@ -1253,23 +1467,23 @@ Con la manifestación se presentará copia certificada del contrato de maquila.
 
 XI.- Permitir sin demora a los auditores, inspectores o personal designado al efecto, practicar cualquier día y a cualquier hora las visitas de inspección que las autoridades fiscales estatales ordenen a las fábricas, almacenes o bodegas de productos cuya elaboración se grava con este impuesto;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XII.- Adoptar en sus fábricas, almacenes o bodegas, los sistemas que para el control de la fabricación y enajenación de los productos materia del gravamen, le señale la Secretaría de Hacienda del Estado, la que en todo tiempo y cuando lo considere necesario, podrá establecer inspección permanente en cualquiera de estos establecimientos, por el tiempo que juzgue necesario cuando existan indicios de que se evade el pago del impuesto;
+XII.- Adoptar en sus fábricas, almacenes o bodegas, los sistemas que para el control de la fabricación y enajenación de los productos materia del gravamen, le señale la Secretaría, la que en todo tiempo y cuando lo considere necesario, podrá establecer inspección permanente en cualquiera de estos establecimientos, por el tiempo que juzgue necesario cuando existan indicios de que se evade el pago del impuesto;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XIII.- Proporcionar a la Secretaría de Hacienda del Estado o a sus dependencias, los avisos de iniciación y terminación de los ciclos de las actividades gravadas, así como los informes que le sean solicitados con relación a los mismos. Junto con tales avisos, se proporcionarán copias de las actas correspondientes levantadas por la autoridad fiscal respectiva, y
+XIII.- Proporcionar a la Secretaría, los avisos de iniciación y terminación de los ciclos de las actividades gravadas, así como los informes que le sean solicitados con relación a los mismos. Junto con tales avisos, se proporcionarán copias de las actas correspondientes levantadas por la autoridad fiscal respectiva, y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-XIV.- En general, sujetarse a las medidas de control que para la verificación del correcto pago de este gravamen, establezca la Secretaría de Hacienda del Estado.
+XIV.- En general, sujetarse a las medidas de control que para la verificación del correcto pago de este gravamen, establezca la Secretaría.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 92.
 
-El Secretario de Hacienda del Estado podrá autorizar a los contribuyentes de este impuesto, que cumplan con la obligación de llevar los libros que le señale este capítulo, con los que lleven conforme a otras leyes, cuando en los mismos se consignen datos que se consideren suficientes para el control del gravamen.
+El Secretario de Finanzas y Planeación podrá autorizar a los contribuyentes de este impuesto, que cumplan con la obligación de llevar los libros que le señale este Capítulo, con los que lleven conforme a otras leyes, cuando en los mismos se consignen datos que se consideren suficientes para el control del gravamen.
 
 #### SECCION SEXTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1349,9 +1563,9 @@ Los sujetos del impuesto, independientemente de la documentación y demás eleme
 
 Para los efectos del párrafo anterior, el libro especial de almacén deberá presentarse simultáneamente con la solicitud de registro o empadronamiento.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-Los elementos contables y toda documentación comprobatoria inherente a este gravamen, deberán estar siempre en los locales que ocupen las negociaciones o despachos de los sujetos del impuesto. Para que tales elementos y documentación puedan salir de dichos locales, será necesario que la Secretaría de Hacienda del Estado lo autorice previamente en forma expresa.
+Los elementos contables y toda documentación comprobatoria inherente a este gravamen, deberán estar siempre en los locales que ocupen las negociaciones o despachos de los sujetos del impuesto. Para que tales elementos y documentación puedan salir de dichos locales, será necesario que la Secretaría lo autorice previamente en forma expresa.
 
 ###### ARTICULO 102.
 
@@ -1359,9 +1573,9 @@ Los contribuyentes de este impuesto, además de las obligaciones ya establecidas
 
 I.- Pagar el Impuesto en la forma y términos establecidos en esta parte;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-II.- Empadronarse o registrarse en la Secretaría de Hacienda del Estado, por conducto de la oficina recaudadora de rentas correspondiente, dentro de los quince días siguientes al de inicio de operaciones, utilizando las formas oficiales aprobadas. Esta obligación deberá cumplirse separadamente, por cada uno de los establecimientos, sucursales, bodegas o dependencias que tenga el contribuyente;
+II.- Empadronarse o registrarse en la Secretaría, por conducto de la oficina Recaudadora de rentas correspondiente, dentro de los quince días siguientes al de inicio de operaciones, utilizando las formas oficiales aprobadas. Esta obligación deberá cumplirse separadamente, por cada uno de los establecimientos, sucursales, bodegas o dependencias que tenga el contribuyente;
 
 III.- Presentar separadamente los avisos de cambio de domicilio, traspaso o clausura, por cada local, bodega o dependencia, previamente a la realización de tales hechos o actos;
 
@@ -1381,7 +1595,7 @@ Los fabricantes de azúcar, piloncillo, mieles cristalizables e incristalizables
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO TERCERO. DE LA PROCEDENCIA DEL PLEBISCITO Y DEL REFERENDO
+### CAPITULO VI. DEL IMPUESTO SOBRE COMPRAVENTA DE PRIMERA MANO DE PRODUCTOS AGRICOLAS
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1467,7 +1681,7 @@ Las personas que se dediquen a la explotación agrícola están obligadas a:
 
 I.- Empadronarse en la oficina recaudadora de rentas en cuya jurisdicción esté ubicado el predio objeto de la explotación, dentro del término de los quince días hábiles siguientes a la fecha en que inicie sus actividades;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- Dar aviso de los siguientes datos a la oficina recaudadora de rentas en cuya jurisdicción esté ubicado el predio objeto de la explotación agrícola, dentro del término de quince días siguientes a la fecha de iniciación de cultivos de:
 
@@ -1499,7 +1713,7 @@ III.- Permitir las visitas de inspección a los locales destinados al almacenami
 
 Las personas que habitual u ocasionalmente transporten en territorio del Estado los productos referidos en el artículo 105, están obligados a permitir a los inspectores o empleados fiscales, cuando sean requeridos, la inspección de sus vehículos y a proporcionarles los datos que le soliciten en relación con los productos que transporte, así como comprobar el pago del impuesto respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 116.
 
@@ -1521,7 +1735,7 @@ Para hacer el pago del impuesto, el comprador deberá presentar a la oficina rec
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO CUARTO. IMPROCEDENCIA DEL PLEBISCITO Y DEL REFERENDO
+### CAPITULO VII. DEL IMPUESTO SOBRE COMPRAVENTA O PERMUTA DE GANADO Y SUS ESQUILMOS
 
 #### SECCION PRIMERA
 
@@ -1593,7 +1807,7 @@ Están exentas de este impuesto, las operaciones de compraventa sobre sementales
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO QUINTO. DE LA CONVOCATORIA
+### CAPITULO VIII. IMPUESTO SOBRE LA CRIA DE GANADO
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
@@ -1655,9 +1869,9 @@ d) Dibujo de las marcas, fierros, aretes, tatuajes o señales que ostente.
 
 II.- Pagar oportunamente el presente impuesto.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-III.- Permitir las visitas al personal autorizado por la Secretaría de Hacienda y proporcionar la información que requiera.
+III.- Permitir las visitas al personal autorizado por la Secretaría y proporcionar la información que requieran.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -1669,11 +1883,11 @@ El impuesto se pagará al presentarse la declaración anual dentro del primer me
 
 El impuesto correspondiente al ganado que haya nacido durante el ejercicio anterior al en que se cause el impuesto, que se venda antes de presentarse la declaración anual correspondiente, se pagará al efectuarse la operación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 139.
 
-La Secretaría de Hacienda del Estado reglamentará el uso de aretes, amarres, remaches, o cualesquiera otras señales para que se adhieran permanentemente a cada animal como comprobante del pago del impuesto.
+La Secretaría reglamentará el uso de aretes, amarres, remaches, o cualesquiera otras señales para que se adhieran permanentemente a cada animal como comprobante del pago del impuesto.
 
 Asimismo las oficinas recaudadoras de rentas llevarán un registro del número y tipo de contraseñas que proporcionen a cada contribuyente.
 
@@ -1699,7 +1913,7 @@ III.- Quienes trasladen ganado que carezca de la contraseña que acredite que se
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO SEXTO. DE LA CAMPAÑA DE INFORMACIÓN
+### CAPITULO IX. IMPUESTO AL LIBRE EJERCICIO DE PROFESIONES Y ACTIVIDADES LUCRATIVAS
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1793,7 +2007,7 @@ IV.- Presentar a más tardar el último día hábil del mes de abril, en las for
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO SÉPTIMO. DE LA PREPARACIÓN DE LOS PROCEDIMIENTOS DEL PLEBISCITO Y DEL REFERENDO
+### CAPITULO X. DEL IMPUESTO SOBRE EXPLOTACION Y VENTA DE PRIMERA MANO DE DIVERSOS MATERIALES PARA CONSTRUCCION
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -1827,11 +2041,11 @@ El presente impuesto se determinará, liquidará y cobrará aplicando a la base 
 
 El pago de este impuesto deberá hacerse en la oficina recaudadora de rentas de la jurisdicción en que se encuentre el predio, dentro de los días primero al veinte del mes siguiente al en que se hubiera causado el impuesto, mediante la presentación de una declaración en la forma oficialmente aprobada al efecto, en la que se consignará el monto total de los ingresos obtenidos en el mes inmediato anterior, cubriéndose el impuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 156.
 
-Los porteadores habituales de los materiales a que se refiere este capítulo, deberán registrarse como tales ante la Secretaría de Hacienda del Estado, asimismo, cada uno de los vehículos que utilicen en tal actividad.
+Los porteadores habituales de los materiales a que se refiere este Capítulo, deberán registrarse como tales ante la Secretaría, asimismo, cada uno de los vehículos que utilicen en tal actividad.
 
 #### SECCION QUINTA. DE LAS OBLIGACIONES
 
@@ -1843,9 +2057,9 @@ I.- Empadronarse y solicitar su cédula o documento de empadronamiento ante la o
 
 II.- Presentar ante la oficina recaudadora de rentas de la jurisdicción, el aviso respectivo en los casos de cambio de nombre o razón social, traspaso o clausura dentro del mismo término señalado en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-III.- Colocar en lugar visible de sus establecimientos la licencia de funcionamiento y/o cédula o documento de empadronamiento, expedido por la Secretaría de Hacienda del Estado;
+III.- Colocar en lugar visible de sus establecimientos la licencia de funcionamiento expedido (sic) por la Secretaría;
 
 IV.- Presentar los avisos, documentos, datos e informes que le sean solicitados por las autoridades fiscales en relación con este impuesto, dentro de los plazos y lugares señalados al efecto;
 
@@ -1865,7 +2079,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-### CAPÍTULO OCTAVO. DE LAS MESAS RECEPTORAS DE CONSULTA CIUDADANA
+### CAPITULO XI. DEL IMPUESTO SOBRE LA EXPLOTACION DE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
@@ -1909,7 +2123,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPÍTULO NOVENO. DE LOS OBSERVADORES
+### CAPITULO XII. DEL IMPUESTO ADICIONAL
 
 #### SECCION UNICA
 
@@ -1921,15 +2135,17 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
-### CAPÍTULO DÉCIMO. DE LAS BOLETAS, MATERIAL Y EQUIPO A UTILIZARSE EN LOS PROCEDIMIENTOS DE PLEBISCITO Y REFERENDO
+### CAPITULO XII-A. IMPUESTO AL HOSPEDAJE
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 168-A.
 
@@ -1939,9 +2155,9 @@ Es objeto del Impuesto el pago por servicios de hospedaje que se otorguen en hot
 
 Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-Los retenedores del impuesto al hospedaje, cuando presten servicios bajo el sistema denominado “todo incluido”, por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. Considerando que el servicio preponderante del retenedor, es el servicio de hospedaje, podrán estimar el importe relativo al servicio de hospedaje dentro del sistema “todo incluido”, sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+Los retenedores que presten servicios de hospedaje por el cual el pago de la contraprestación contemple servicios adicionales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al servicio de hospedaje, de tal forma que el comprobante fiscal respectivo exprese el importe correspondiente al servicio de hospedaje y el desglose de los servicios prestados. Cuando no se exprese el importe correspondiente al servicio de hospedaje conforme a este párrafo, se deberá tener como base gravable el monto total de la contraprestación efectuada, salvo que se pruebe lo contrario previo a la fecha correspondiente al pago provisional inmediato.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -1961,7 +2177,7 @@ Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tom
 
 El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, intereses normales y moratorios, y penas convencionales, relacionadas con los mismos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -1971,11 +2187,11 @@ El impuesto a que se refiere este capítulo se causará al momento en que se per
 
 Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta Ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -1995,13 +2211,11 @@ Los prestadores de servicios cobrarán el impuesto, en forma expresa y por separ
 
 Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 168-I.
 
-Los prestadores de servicios deberán enterar las retenciones efectuadas mediante pagos provisionales mensuales, a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría de Hacienda a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general.
+Los prestadores de servicios deberán enterar las retenciones efectuadas mediante pagos provisionales mensuales, a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2039,7 +2253,7 @@ I.- Cuando los retenedores inicien actividades a partir del 1° de enero, presen
 
 II.- Cuando los retenedores inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES
 
@@ -2049,7 +2263,7 @@ II.- Cuando los retenedores inicien actividades con posterioridad al 1° de ener
 
 El retenedor que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones por los servicios a que se refiere este capítulo, deducirá en las siguientes declaraciones de pagos provisionales el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al hospedaje que se hubiere trasladado se cancele o se restituya, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 168-L.
 
@@ -2085,7 +2299,7 @@ II.- Cuando se modifique una declaración del ejercicio, el retenedor podrá opt
 
 Cuando el valor neto de los ingresos por las que se deba pagar el impuesto del ejercicio, sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias, por el período o períodos por los que se efectúan los pagos provisionales a que correspondan las diferencias, debiendo cubrir los recargos y actualizaciones que se señalan en los artículos 20 y 22 del Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 168-M.
 
@@ -2105,9 +2319,11 @@ Los retenedores que tengan varios establecimientos en el Estado, deberán conser
 
 Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS EFECTOS DEL PLEBISCITO O DE REFERENDO Y ADOPCIÓN DE LA DECISIÓN
+### CAPITULO XIII. DEL IMPUESTO SOBRE LA EXTRACCION DE MATERIALES DEL SUELO Y SUBSUELO
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION PRIMERA. OBJETO DEL IMPUESTO
 
@@ -2117,7 +2333,7 @@ Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas 
 
 BIS.- Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de Igual naturaleza a los componentes de los terrenos, tales como: rocas, piedras, sustrato o capa fértil y sascab.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION SEGUNDA. SUJETOS DEL IMPUESTO
 
@@ -2127,7 +2343,7 @@ BIS.- Es objeto de este impuesto la extracción del suelo y subsuelo de material
 
 BIS-A.- Son sujetos del pago de este impuesto las, personas físicas y morales o unidades económicas que dentro del Territorio del Estado de Quintana Roo extraigan del suelo y subsuelo materiales que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno, tales como: rocas, piedras, sustrato o capa fértil y sascab.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION TERCERA. BASE Y TASA
 
@@ -2139,17 +2355,17 @@ BIS-B.- La base para el cálculo de este impuesto será el volumen de metros cú
 
 El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces el salario mínimo general vigente para el Estado de Quintana Roo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION CUARTA. EPOCA DE PAGO
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 168
 
-BIS-C.- Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 17 del mes siguiente a que ocurran las actividades a que se refiere el artículo 168 BIS-B, mediante declaración que presentarán en las formas autorizadas por la Secretaría de Hacienda a través de los medios electrónicos dispuestos por ésta mediante reglas de carácter general.
+BIS-C.- Los contribuyentes sujetos de este impuesto efectuarán sus pagos, a más tardar el día 17 del mes siguiente al en que ocurran las actividades a que se refiere el artículo 168-BIS-B, mediante declaración que presentarán en las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general.
 
-Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría de Hacienda del Estado.
+Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2161,7 +2377,7 @@ a) Cuando sólo incremente el total de los metros cúbicos extraídos a que se r
 
 b) Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION QUINTA. OBLIGACIONES DE LOS SUJETOS
 
@@ -2179,15 +2395,17 @@ III - Registrarse o empadronarse en la oficina de la recaudadora de rentas que c
 
 IV.- Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 V.- Presentar a más tardar el último día hábil del mes de febrero, a través de las formas aprobadas por la Secretaría, la declaración informativa en la que conste de manera clara, el Registro Federal de Contribuyentes, domicilio, nombre, denominación o razón social de las personas físicas, morales o unidades económicas a quienes, en el ejercicio anterior le hubiese suministrado cualquier material de los referidos en el artículo 168-BIS; así como el volúmen del material proveído.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO ÚNICO. DE LOS PLAZOS Y DE LAS NOTIFICACIONES
+### CAPITULO XIV. DEL IMPUESTO CEDULAR POR LA ENAJENACION DE BIENES INMUEBLES
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION PRIMERA. OBJETOS DEL IMPUESTO
 
@@ -2221,7 +2439,7 @@ En las permutas se considerará que se efectúan dos enajenaciones.
 
 Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, o crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION SEGUNDA. SUJETOS DEL IMPUESTO
 
@@ -2231,7 +2449,7 @@ Se considerará como ingreso el monto de la contraprestación obtenida en efecti
 
 TER-A.- Son sujetos de este impuesto las personas físicas que perciban ingresos por la enajenación de inmuebles que se ubiquen en el territorio del Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION TERCERA. BASE Y TASA DEL IMPUESTO
 
@@ -2245,17 +2463,21 @@ Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles
 
 En el caso de operaciones consignadas en escritura pública, los Notarios Públicos o Fedatarios, bajo su responsabilidad calcularán y retendrán el Impuesto referido y lo enterarán dentro de los 10 días siguientes a la fecha en que se firme la escritura; quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 168
 
-TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o perito valuador. La Secretaría de Hacienda estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
+TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o perito valuador. La Secretaría estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS, Y ARTÍCULOS, QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES COMPLEMENTARIAS DEL PLEBISCITO Y DEL REFERENDO
+### CAPITULO XV. DEL IMPUESTO SOBRE USO O TENENCIA VEHICULAR
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -2745,17 +2967,19 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 QUATER-P.- Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
 
-## TITULO CUARTO. DEL PROCEDIMIENTO DEL PLEBISCITO Y DE REFERENDO
+## TITULO III. DE LOS DERECHOS
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS ALTERNATIVAS DE ACCESO CIUDADANO
+### CAPITULO I. DEL CONCEPTO
 
 ###### ARTICULO 169.
 
 El Gobierno del Estado, percibirá derechos por los servicios que preste en el ejercicio de sus funciones de derecho público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPÍTULO ÚNICO. DE LAS SANCIONES
+### CAPITULO II. DE LA EXPEDICION DE LICENCIAS DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170.
 
@@ -2765,13 +2989,13 @@ Las licencias de bebidas alcohólicas se concederán de conformidad con lo estab
 
 Estas licencias de bebidas alcohólicas se deberán presentar a refrendar cada año en la Secretaría de Hacienda del Estado dentro de los primeros dos meses del año.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría de Hacienda del Estado aplicará las disposiciones relativas a clausuras contenidas en esta Ley. Cuando no se afecte lo anteriormente expuesto, causará derechos de acuerdo con la siguiente:
+La Secretaría aplicará las disposiciones relativas a clausuras contenidas en esta Ley. Cuando no se efectúe lo anteriormente expuesto, se causarán derechos de acuerdo con la siguiente:
 
 TARIFA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 I.- Por la expedición de licencias de bebidas alcohólicas en el Municipio de Felipe Carrillo Puerto, para la:
 
@@ -2933,7 +3157,7 @@ De primera hasta 2,298 S.M.G. 1,641 S.M.G.
 
 De segunda hasta 1,969 S.M.G. 985 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 II.- Por la expedición de licencias de bebidas alcohólicas en los Municipios de José María Morelos y Lázaro Cárdenas, para la:
 
@@ -3243,9 +3467,9 @@ De primera hasta 4,096 S.M.G. 3,466 S.M.G.
 
 De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IV.- Por la expedición de bebidas alcohólicas en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, para la:
 
@@ -3693,7 +3917,7 @@ De primera hasta 630 S.M.G. 378 S.M.G.
 
 De segunda hasta 526 S.M.G. 316 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 VI.- Por cada cambio de licencias de bebidas alcohólicas en los municipios de José María Morelos y Lázaro Cárdenas para la:
 
@@ -3979,7 +4203,7 @@ De primera hasta 578 S.M.G. 347 S.M.G.
 
 De segunda hasta 526 S.M.G. 316 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 VII.- Por cada cambio de licencias de bebidas alcohólicas en el municipio de Isla Mujeres:
 
@@ -4257,7 +4481,7 @@ De primera hasta 1,470 S.M.G. 882 S.M.G.
 
 De segunda hasta 1,050 S.M.G. 630 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Por cada cambio que se solicite para licencia de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, del Estado de Quintana Roo, por la:
 
@@ -4373,7 +4597,7 @@ De segunda hasta 630 316 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4389,7 +4613,7 @@ De primera hasta 1,890 S.M.G. 1,134 S.M.G.
 
 De segunda hasta 1,576 S.M.G. 946 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4543,7 +4767,7 @@ IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Ot
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4555,7 +4779,7 @@ De Primera hasta 905 S.M.G
 
 De segunda hasta 893 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4727,7 +4951,7 @@ De Primera hasta 1,851 S.M.G
 
 De segunda hasta 1,838 S.M.G.
 
-(ADICIONDO, P.O. 17 DE DICIEMBRE DE 2007)
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -4831,7 +5055,7 @@ De segunda hasta 787 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4843,7 +5067,7 @@ De Primera hasta 1,825 S.M.G.
 
 De segunda hasta 1,811 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -4951,7 +5175,7 @@ De primera hasta 1,825 S.M.G. 1,798 S.M.G.
 
 De segunda hasta 1,811 S.M.G. 1,785 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad, Cozumel y Tulum, para la:
 
@@ -5151,7 +5375,7 @@ De primera hasta 2,962 S.M.G. 2,836 S.M.G.
 
 De segunda hasta 2,834 S.M.G. 2,520 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 XII.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Isla Mujeres, para la:
 
@@ -5159,7 +5383,7 @@ XII.- Por los cambios de municipio de las licencias de bebidas alcohólicas de J
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -5171,7 +5395,7 @@ De Primera hasta 316 S.M.G.
 
 De segunda hasta 126 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -5247,7 +5471,7 @@ De segunda hasta 882 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -5259,7 +5483,7 @@ De Primera hasta 2,332 S.M.G.
 
 De segunda hasta 2,204 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -5383,7 +5607,7 @@ II.- Por la realización eventual de alguna actividad pública de carácter art�
 
 III.- Cuando se preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas, se cobrará por año de 50 S.M.G. a 110 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-B.
 
@@ -5403,7 +5627,7 @@ En caso de prorroga, pagará la parte proporcional que corresponda de acuerdo a 
 
 Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170-D.
 
@@ -5413,7 +5637,7 @@ La Secretaría cobrará y expedirá de conformidad con lo establecido en el art�
 
 Por expedición de licencias únicas se cobrará por cada giro o establecimiento, que incluya cada licencia, las siguientes.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6177,7 +6401,7 @@ en envase cerrado para distribución
 
 al mayoreo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 II. Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
 
@@ -6233,7 +6457,7 @@ en envase cerrado para distribución
 
 al mayoreo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
 
@@ -6285,9 +6509,9 @@ en envase cerrado para distribución
 
 al mayoreo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IV. Para los establecimientos domiciliados en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum para la:
 
@@ -6347,11 +6571,11 @@ En el caso de las licencias únicas se cobrará un derecho equivalente a cada gi
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 175.
+###### ARTICULO 175.
 
-Las licencias a que se refiere el Artículo 170-A y 170-D de esta Ley, deberán refrendarse dentro de los primeros dos meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
+Las licencias a que se refieren los artículos 170-A y 170-D de esta Ley, deberán refrendarse dentro de los primeros dos meses de cada año; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría, a la que acompañarán los siguientes documentos:
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
 
@@ -6365,9 +6589,9 @@ II.- Copia de su último pago de impuesto sobre nóminas, impuesto por hospedaje
 
 III.- Licencia de bebidas alcohólicas original para cotejo y copia.
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+IV.- Y demás documentos que a juicio de la Secretaría juzgue necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6375,61 +6599,39 @@ Las licencias deberán de exhibirse en lugar visible y a la vista del público e
 
 ### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 176.
 
-Todos los servicios que proporcione la Dirección de Tránsito o la Secretaría de Hacienda del Estado, causarán los derechos con arreglo a la siguiente:
+Todos los servicios que proporcionen la Dirección de Tránsito o la Secretaría, causarán los derechos de conformidad a la siguiente:
 
-TARIFA:
+T A R I F A
 
 I.- Vehículos que se matriculen y registren en el Estado
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a) Automóviles y camiones 2.3 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+a) Automóviles y Camiones 2.3 S.M.G.
 
 b) Motocicletas 1.15 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 c) Bicicletas 0.58 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 d) Carros y carretas de tracción animal 0.58 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 e) Carros de mano 0.58 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-f).- Remolques:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+f) Remolques:
 
 hasta de 15 toneladas 1.15 S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+De más de 15 a 20 toneladas 1.73 S.M.G.
 
-De mas de 15 a 20 toneladas 1.73 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-De mas de 20 2.88 S.M.G.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+De más de 20 toneladas 2.88 S.M.G.
 
 g) Embarcaciones particulares:
 
-De 5 a 10 metros 4.30 S.M.G.
+de 5 a 10 metros 4.30 S.M.G.
 
 De más de 10 metros 5.18 S.M.G.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
 h) Embarcaciones para servicio público:
 
@@ -6439,263 +6641,167 @@ De más de 5 hasta 10 metros 22.43 S.M.G.
 
 De más de 10 metros 51.75 S.M.G.
 
-II.- Derechos por control vehícular
+II.- Derechos por control vehicular por dotación y canje de placas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+a) Para automóviles, camionetas, camiones y autobuses 13.50 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+b) Para remolques 6.25 veces el S.M.G.
 
-a) Para automóviles, camionetas, camiones y autobuses particulares y del servicio público 13.50 veces el S.M.G. vigente en el Estado.
+c) Para motocicletas 4.50 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+d) Para bicicletas por cada año, de servicio particular 1.15 veces S.M.G. y servicio público 1.7 veces S.M.G.
 
-b) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+e) Para triciclos por cada año, de servicio particular 1.15 veces S.M.G. y servicio público 3.45 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+f) Para carros de tracción animal 1.15 veces el S.M.G.
 
-c) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+g) Para carros de mano 1.15 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+h) Para automóviles utilizados para demostración 17.25 veces S.M.G.
 
-d) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo a la alta correspondiente en el padrón vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+Tratándose de los incisos a), b), c), f), g) y h), los derechos por canje de placas deberán pagarse los primeros seis meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado de Quintana Roo; en el caso de los incisos d) y e) los derechos por canje de placas deberán pagarse los primeros seis meses de cada año, contados a partir del último canje.
 
-e) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+III.- Derechos por control vehicular por revalidación y refrendo:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+a) Para los incisos a) y b) de la fracción anterior por el servicio de revalidación de placas vehiculares 3.45 veces el S.M.G.
 
-f) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+b) Para el inciso c) de la fracción anterior por el servicio de revalidación de placas vehiculares para el servicio particular 1.15 veces S.M.G. y para el servicio público 2.00 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+El plazo del pago de los derechos a que se refiere esta fracción será los primeros tres meses de cada año.
 
-g) Para remolques 6.25.veces el S.M.G. vigente en el Estado.
+IV.- Por permisos provisionales para circulación de vehículos por:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+a) 15 días sin placas, 3.45 veces el S.M.G
 
-h) Para motocicletas:
+b) 30 días sin placas, 6.90 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 0.75 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 veces el S.M.G.
 
-1.- particulares y del servicio público 4.50 veces el S.M.G. vigente en el Estado.
+a) Dos años
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+1. Licencia de servicio público estatal 4.60 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+2. Licencia de chofer 5.75 veces el S.M.G.
 
-2.- Por su refrendo:
+3. Licencia de automovilista 5.18 veces el S.M.G.
 
-A. Servicio particular 1.15 S.M.G.
+4. Licencia de motociclista 2.30 veces el S.M.G.
 
-B. Servicio Público 2.00 S.M.G.
+b) Tres años
 
-i) Para bicicletas cada año.
+1. Licencia de servicio público estatal 6.90 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+2. Licencia de chofer 8.62 veces el S.M.G.
 
-1.- Particulares 1.15 veces el S.M.G. vigente en el estado.
+3. Licencia de automovilista 7.77 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+4. Licencia de motociclista 3.45 veces el S.M.G.
 
-2.- Servicio público 1.7 veces el S.M.G, vigente en el estado.
+c) Cuatro años
 
-j) Para triciclos cada año
+1. Licencia de servicio público estatal 9.20 veces el S.M.G
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+2. Licencia de chofer 11.49 veces el S.M.G.
 
-1.- Particulares 1.15 veces el S.M.G. vigente en el estado.
+3. Licencia de automovilista 10.36 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+4. Licencia de motociclista 4.6 veces el S.M.G.
 
-2.- Servicio público 3.45 veces el S.M.G. vigente en el estado.
+d) Cinco años
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1. Licencia de servicio público estatal 11.50 veces el S.M.G.
 
-k) Para carros de tracción animal 1.15 veces el S.M.G. vigente en el estado.
+2. Licencia de chofer 14.36 veces el S.M.G.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+3. Licencia de automovilista 12.95 veces el S.M.G.
 
-l) Para carros de mano 1.15 veces el S.M.G. vigente en el estado.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-m) Por permisos provisionales para circulación de vehículos por:
-
-1.- 15 días sin placas, 3.45 veces el S.M.G. vigente en el Estado.
-
-2.- 30 días sin placas, 6.90 veces el S.M.G. vigente en el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-n) Por expedición y reposición de tarjetas de circulación por:
-
-1.- Un año 0.75 veces el S.M.G.
-
-2.- Dos años 1.50 veces el S.M.G.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-ñ) Por revalidar la calcomanía vehicular 3.45 veces el S.M.G. vigente en el Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-El plazo del pago será los primeros tres meses de cada año.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-o) Por placas de demostración 17.25 S.M.G. y por su refrendo anual 4.60 S.M.G
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Estas placas deberán presentarse para su refrendo en el mismo plazo a que se refiere el último párrafo del inciso ñ.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-Tratándose de los incisos de la a), g), h), i), j), k), l), m) y n) deberán pagarse en un plazo de quince días hábiles siguientes a la causación del supuesto.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-p) Los propietarios de embarcaciones que no se hayan inscrito en el padrón vehicular estatal o que no hubieren solicitado su constancia de inscripción, serán requeridos por la autoridad fiscal para que en un plazo de 6 días hábiles dé cumplimiento a la obligación omitida.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-q) Por el refrendo de la constancia de inscripción de embarcaciones, 3 veces el S.M.G. vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-El plazo para la inscripción de embarcaciones nuevas será de quince días a partir de la fecha de adquisición y para el refrendo los primeros tres meses de cada año.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
-
-a).- dos años:
-
-1.- Licencia de servicio público estatal 4.60 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 5.75 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 5.18 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 2.30 veces el S.M.G. vigente en el Estado.
-
-b).- tres años:
-
-1.- Licencia de servicio público estatal 6.90 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 8.62 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 7.77 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 3.45 veces el S.M.G. vigente en el Estado.
-
-c).- cuatro años:
-
-1.- Licencia de servicio público estatal 9.20 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 11.49 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 10.36 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 4.6 veces el S.M.G. vigente en el Estado.
-
-d).- cinco años:
-
-1.- Licencia de servicio público estatal 11.50 veces el S.M.G. vigente en el Estado.
-
-2.- Licencia de chofer 14.36 veces el S.M.G. vigente en el Estado.
-
-3.- Licencia de automovilista 12.95 veces el S.M.G. vigente en el Estado.
-
-4.- Licencia de motociclista 5.75 veces el S.M.G. vigente en el Estado.
+4. Licencia de motociclista 5.75 veces el S.M.G.
 
 Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El plazo para la inscripción de embarcaciones será de treinta días hábiles a partir de la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de embarcaciones usadas de importación o inmediatamente previo a la inscripción correspondiente en el padrón estatal de embarcaciones cuando se trate de embarcaciones inscritas en otras entidades federativas; para el refrendo, los primeros tres meses de cada año contados a partir de la inscripción.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+VII.- Por la expedición, renovación y reposición de licencias para conducir vehículos de motor, cada:
 
-IV.- Permiso provisional para manejar sin licencia por:
+a) Dos años
 
-a).- 30 días 1.15 veces el S.M.G. vigente en el Estado.
+1 Licencia de servicio público estatal 4.60 veces el S.M.G
 
-b).- 90 días 3.44 veces el S.M.G. vigente en el Estado.
+2 Licencia de chofer 5.75 veces el S.M.G.
 
-c).- 180 días 6.87 veces el S.M.G. vigente en el Estado.
+3 Licencia de automovilista 5.18 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+4 Licencia de motociclista 2.30 veces el S.M.G.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+b) Tres años
 
-V.- Por arrastre de grúa 9.57 veces el S.M.G. vigente en el Estado.
+1 Licencia de servicio público estatal 6.90 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2 Licencia de chofer 8.62 veces el S.M.G.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+3 Licencia de automovilista 7.77 veces el S.M.G.
 
-VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Estado.
+4 Licencia de motociclista 3.45 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c) Cuatro años
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+1 Licencia de servicio público estatal 9.20 veces el S.M.G
 
-VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
+2 Licencia de chofer 11.49 veces el S.M.G.
 
-a).- De un humo para• servicio público 4.03 veces el S.M.G. vigente en el Estado.
+3 Licencia de automovilista 10.36 veces el S.M.G.
 
-b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
+4 Licencia de motociclista 4.6 veces el S.M.G.
 
-c).- De dos humos para servicio particular 12.09 veces el S.M.G. vigente en el Estado.
+d) Cinco años
 
-d).- Hasta de tres humos para servicio oficial 12.09veces el S.M.G. vigente en el Estado.
+1 Licencia de servicio público estatal 11.50 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+2 Licencia de chofer 14.36 veces el S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+3 Licencia de automovilista 12.95 veces el S.M.G.
 
-VIII.- Examen médico y de competencia para licencia de conducir vehículos de motor 2.10 S.M.G.
+4 Licencia de motociclista 5.75 veces el S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+VIII.- Permiso provisional para manejar sin licencia por:
 
-IX.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 veces el S.M.G. vigente en el Estado.
+a) 30 días 1.15 veces el S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) 90 días 3.44 veces el S.M.G.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+c) 180 días 6.87 veces el S.M.G.
 
-X.- Por la expedición de constancias de no infracción 1 S.M.G. vigente en el Estado.
+IX.- Por arrastre de grúa 9.57 veces el S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X.- Por día de estancia en el corralón 0.46 veces el S.M.G.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+XI.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-XI.- Por la inscripción al curso de vialidad a servicio público 1 S.M.G. vigente en el Estado.
+a) De un humo para servicio público 5.50 veces el S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) De un humo para servicio particular 6.50 veces el S.M.G.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+c) Hasta de tres humos para el servicio oficial 12.09 veces el S.M.G.
 
-XII.- Por examen práctico de conducción 2 S.M.G. vigente en el Estado.
+XII.- Examen médico y de competencia para la licencia de conducir vehículos de motor 2.10 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 S.M.G.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+XIV.- Por la expedición de constancias de no infracción 1.00 S.M.G.
 
-XIII.- Por el registro y refrendo anual de escuelas de manejo 20 S.M.G. vigente en el Estado.
+XV.- Por la inscripción al curso de vialidad del servicio público 1.00 S.M.G.
+
+XVI.- Por examen práctico de conducción 2.00 veces el S.M.G.
+
+XVII.- Por el registro y refrendo anual de escuelas de manejo 20.00 veces el S.M.G.
 
 ###### ARTICULO 177.
 
@@ -6939,29 +7045,27 @@ e) Vehículos para otros servicios que requieren otorgamiento de concesión, has
 
 Los derechos por los servicios de tránsito que preste el Gobierno del Estado, que no sean pagados dentro de los plazos a que se refiere el artículo 176 de esta Ley, causarán recargos conforme a lo establecido por el Código Fiscal del Estado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-La Secretaría de Hacienda del Estado, solicitará el apoyo de la Dirección de Vialidad en el Estado, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 179 de esta ley.
+La Secretaría, solicitará el apoyo de la Dirección de Vialidad en el Estado, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 179 de esta Ley.
 
 Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Quintana Roo.
 
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 179.
 
-La Secretaría de Hacienda del Estado, simultáneamente a la recaudación de los derechos comprendidos en el capítulo IV de este título, excepto por los servicios a que se refiere la fracción III del artículo 176, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema de Información Integral Tributaria" mediante la realización de las siguientes funciones:
+La Secretaría, simultáneamente a la recaudación de los derechos comprendidos en el capítulo IV de este título, excepto por los servicios a que se refiere la fracción VII del Artículo 176 de esta Ley, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el “Registro Estatal Vehicular” para su integración a la “Red Nacional del Sistema de Información Integral Tributaria” mediante la realización de las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 I.- Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el reglamento del Código Fiscal del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-II.- Realizar actos de verificación y comprobación para mantener actualizado el registro del estado, conforme a los lineamientos y normatividad correspondientes. Para estos efectos la Secretaría de Hacienda del Estado solicitará el apoyo de la Dirección de Vialidad, así como para retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de tránsito a que se refiere este capítulo, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
+II.- Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes. Para estos efectos la Secretaría solicitará el apoyo de la Secretaría de Seguridad Pública o a las Corporaciones de Tránsito Municipal, así como para retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de tránsito a que se refiere este capítulo, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6969,11 +7073,13 @@ III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documen
 
 IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular' y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el “Registro Estatal Vehicular” y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca la misma.
 
 VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -7067,13 +7173,13 @@ b).- Predios urbanos
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-2. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
+2. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-3. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
+3. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -7099,17 +7205,17 @@ XII.- Trámite de titulación 2.00 S.M.G.
 
 XIII.- Por dictámenes técnicos en agrimensura o planimetría, se aplicarán las tarifas establecidas en las fracciones VII y IX de este capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 181.
 
-Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Contraloría y al Órgano Superior de Fiscalización del Estado, los contratistas con quienes se celebren los contratos de obra pública estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Gestión Pública y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-Las dependencias y organismos auxiliares de la administración pública estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría de Hacienda del Estado, quien a su vez registrará el 50% de todo lo recaudado por ese concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la obra pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría de Hacienda al Órgano Superior de Fiscalización del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
+Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Gestión Pública y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7237,7 +7343,7 @@ QUATER.- Por reposición de la constancia de compatibilidad urbanística, se cob
 
 Los servicios que se presten en los hospitales de Gobierno del Estado, causaran los derechos de acuerdo con el estudio socio-económico que se le practique al paciente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7247,7 +7353,7 @@ El pago de los derechos por este concepto, se hará en la caja de los propios ho
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7255,15 +7361,15 @@ La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a 
 
 BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los siguientes derechos, salvo los diagnósticos considerados dentro del Sistema de Protección Social en Salud, para su población afiliada, de acuerdo a la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 184.
 
@@ -7271,7 +7377,7 @@ Los servicios que presten, las autoridades de los Servicios Estatales de Salud, 
 
 I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7285,9 +7391,9 @@ a).- En los municipios de Othón P. Blanco y Bacalar 1.83 S.M.G.
 
 b).- En los Municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 S.M.G.
 
-c).- en (sic) los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
+c).- en los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7815,7 +7921,7 @@ III.- Análisis de laboratorio:
 
 101. Determinación de Brucella por PCR $ 625.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7831,19 +7937,19 @@ b).- Con cupo de más de 10 y hasta 100 pasajeros 20 S.M.G.
 
 c).- Con cupo de más de 100 pasajeros 80 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 V.- Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga 20 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VI.- Guía sanitaria por embarque 2 al millar ad valoren.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7859,13 +7965,13 @@ b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro C
 
 c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 12.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VIII.- Por desinfección desinfectación 8.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7881,67 +7987,67 @@ b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro C
 
 c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 4.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 X.- Por verificación de productos del mar 12.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XI.- Autorización y verificación de planos por metro cuadrado 0.13 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XII.- Por expedición de certificado médico sin tipo de sangre 0.76 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XIII.- Por expedición de certificado médico con tipo de sangre 1.34 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XIV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL 1.82 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH 3.94 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XVI.- Oxigenación hiperbárica por servicio 6.92 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XVII.- Hemodiálisis con equipo para residentes nacionales 28.87 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XVIII.- Hemodiálisis con equipo para residentes extranjeros 92.39 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XIX.- Descompresión por hora 21.17 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7983,7 +8089,7 @@ V.- Por certificación de otros actos 1.15 S.M.G.
 
 ### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 188.
 
@@ -7999,9 +8105,9 @@ I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2012)
 
 II.- Por certificados de valor catastral fiscal. 3.45 S.M.G.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-III.- Por la expedición de certificados que consten en la oficialía central del Registro Civil, causarán derechos conforme a la siguiente:
+III.- Por la expedición de certificaciones que consten en la Oficialía Central del Registro Civil, causarán derechos conforme a la siguiente:
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -8010,6 +8116,10 @@ TARIFA
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 a).- Por Acta de Nacimiento. 0.5 S.M.G.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8069,7 +8179,7 @@ b).- Por cada hoja excedente 0.06 S.M.G.
 
 VIII.- Por apostillamiento de documentos diversos. 4 veces el S.M.G.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XIII-A. DEL REGISTRO CIVIL
 
@@ -8089,13 +8199,13 @@ TARIFA
 
 I.- Nacimientos:
 
-a).- En las Oficinas del Registro Civil en horas hábiles. exento.
+a).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-b).- En las Oficinas del Registro Civil en horas inhábiles. 1.0 S.M.G.
+b).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-c).- Fuera de las Oficinas del Registro Civil en horas hábiles. 4.5 S.M.G.
+c).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-d).- Fuera de las Oficinas del registro Civil en horas inhábiles. 6.5 S.M.G.
+d).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8189,17 +8299,17 @@ Los actos de Registro Civil se efectuarán previo aviso y pago de los derechos e
 
 Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 188-D.
 
-El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del artículo 188-B.
+El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a la fracción II incisos b), c) y d) del artículo 188-B.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 188-E.
 
-En los casos de desastres, ciclones, sismos o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades o instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaría de Hacienda, podrán subsidiar hasta el 100% de los derechos que causen las actas del Registro Civil.
+En los casos de desastres naturales o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades ó instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaria, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8401,7 +8511,7 @@ IX.- Inscripción de la disolución y liquidación de sociedades mercantiles cua
 
 X.- Por la Inscripción de actas de nombramiento de liquidadores......................... 11.50 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XI.- Cancelación del contrato de sociedades, a las que no se refiere la fracción IX de este artículo............. 5.75 S.M.G.
 
@@ -8465,7 +8575,7 @@ a) Si la cuantía no excede de $ 10,000.00........ 6.90 S.M.G.
 
 b) Si excede de $ 10,000.00........................... 11.50 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 XXII.- Búsqueda en el Programa Informático para informes de constancias comerciales o sociedades mercantiles inscritas, por cada nombre o razón social 5.75 S.M.G.
 
@@ -8473,7 +8583,7 @@ XXII.- Búsqueda en el Programa Informático para informes de constancias comerc
 
 Expedición de certificados de libertad o de existencia de gravamen 5.75 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 XXIII.- Expedición de copias certificadas relativas a las inscripciones que obren en el Programa Informático.
 
@@ -8489,7 +8599,7 @@ b) Por cada hoja excedente.......................... 1.73 S.M.G.
 
 XXIV.- Por los demás servicios no previstos en este artículo, 9.2 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 205.
 
@@ -8529,9 +8639,13 @@ Por cada verificación vehicular, que deberá efectuarse sobre la emisión de co
 
 I.- Por verificación anual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
 
-a) Holograma Cero “0” 4 S.M.G.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-b) Holograma dos “2” 4 S.M.G.
+a) Holograma Cero “0” 8 S.M.G.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+b) Holograma dos “2” 8 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8539,7 +8653,9 @@ b) Holograma dos “2” 4 S.M.G.
 
 II.- Por verificación bianual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
 
-a) Holograma doble cero “00” 10 S.M.G.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+a) Holograma doble cero “00” 16 S.M.G.
 
 III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 S.M.G.
 
@@ -8735,97 +8851,69 @@ V.- Por análisis y resolución de los proyectos ejecutivos para sitios de dispo
 
 VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
 
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
 ### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 207.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2012)</small>
+### CAPITULO XVIII-A. DE LA PRESTACIÓN DE SERVICIOS DE SEGURIDAD Y VIGILANCIA
 
-### CAPITULO XVIII-A. DE LA PRESTACION DE SERVICIOS DE SEGURIDAD Y VIGILANCIA
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2012)</small>
-
-#### SECCION PRIMERA. DE LA SEGURIDAD PRIVADA
+#### SECCIÓN PRIMERA. DE LA SEGURIDAD PRIVADA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 207-A.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012) (REPUBLICADO, P.O. 4 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 207-B.
 
-Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos:
-
-a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G.; y
-
-b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 207-C.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2012) (REPUBLICADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION SEGUNDA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA QUE PRESTA LA SECRETARIA DE GOBIERNO
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA QUE PRESTA LA SECRETARIA DE GOBIERNO
 
 ###### ARTICULO 207-D.
 
-Es objeto de este derecho, el servicio especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia dependiente de la Secretaría de Gobierno.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 207-E.
 
-Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia descrita en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 207-F.
 
-Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría de Hacienda del Estado de Quintana Roo, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos de acuerdo a la siguiente tarifa:
-
-a) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, de doce horas diarias de vigilancia especial de instalaciones por periodos de quince días, por cada elemento, se causará la cantidad de 186 (ciento ochenta y seis) Salarios Mínimos Generales vigente en el Estado, pagaderos de manera quincenal.
-
-b) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por doce horas diarias de protección de personas por periodos de quince días se causará por cada elemento, la cantidad de 371 (trescientos setenta y un) Salarios Mínimos Generales vigente en el Estado, pagaderos de manera quincenal.
-
-c) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por la custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1 (un) Salario Mínimo General vigente en el Estado, por cada 3 (tres), kilómetros de recorrido.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
 ###### ARTICULO 207-G.
 
-Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del servicio especial de vigilancia requerido, domicilio en el cual se llevará a cabo la ejecución del servicio y nombre, razón social y domicilio del contratante beneficiario del servicio especial de vigilancia.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA] SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que prestan la Secretaría de Educación, se pagarán conforme a la siguiente:
+Los derechos por los servicios que prestan la Secretaría de Educación y Cultura, se pagarán conforme a los apartados siguientes:
+
+A. Los derechos por los servicios que presta en materia de educación se pagarán conforme la siguiente:
 
 TARIFA
 
@@ -8849,13 +8937,133 @@ VII.- Exámenes profesionales o de grado de bachillerato bivalente, licenciatura
 
 VIII.- Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00 S.M.G.
 
-IX.- Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 S.M.G.
+IX.- Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 S.M.G
 
 X.- Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo 300 S.M.G.
 
 XI.- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno 1.20 S.M.G.
 
 XII.- Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación. 11 S.M.G.
+
+B.- Los derechos por los servicios que presta en materia de cultura se pagarán conforme la siguiente:
+
+TARIFA
+
+I.- Por la renta de espacios pertenecientes a la Secretaría de Educación y Cultura se cobrará de acuerdo a la siguiente tarifa:
+
+En la Zona Sur:
+
+> <small>N. DE E. VÉASE TARIFAS EN EL P.O. DEL 4 DE DICIEMBRE DE 2013, PÁGINAS 35 A LA 36.</small>
+
+Cuando los espacios contemplados en la tabla antes citada, sean requeridos para eventos de carácter oficial por el Gobierno del Estado o Municipios, no se causará derecho alguno.
+
+II.- Por el uso de la casa internacional del escritor. 6.00 S.M.G. por persona.
+
+III.- Por cada función en cine café 0.32 S.M.G. por persona.
+
+IV.- Por cada función en el Teatro Constituyentes del 74 0.4 S.M.G. a 2.00 S.M.G.
+
+V.- Por cada función en la Plaza Central de la Casa de la Cultura de Cancún 0.20 S.M.G. a 2.00 S.M.G.
+
+VI.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
+
+Museos Niños Adultos Extranjeros
+
+a).- Cultura Maya 0.21 S.M.G 0.42 S.M.G. 1.00 S.M.G.
+
+b).- San Felipe
+
+de Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
+
+c).- Guerra de Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+
+d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+
+Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
+
+VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
+
+Por inscripción Por mensualidad
+
+a).- De música Carrera: 2.60 S.M.G. Carrera 2.60 S.M.G.
+
+Taller: 0.57 S.M.G. Taller 1.44 S.M.G.
+
+hasta 3.0 S.M.G. hasta 5.00 S.M.G.
+
+b).- De danza De 0.87 S.M.G. hasta De 1.44 S.M.G. hasta
+
+3.00 S.M.G. 5.00
+
+c).- De artes
+
+plásticas 1.00 S.M.G. Taller de dibujo y pintura
+
+1.00 S.M.G.
+
+2.00 S.M.G. Artes plásticas 2.00
+
+S.M.G.
+
+1.00 S.M.G. Taller juvenil de teatro
+
+1.00 S.M.G.
+
+EXENTO Curso avanzado de
+
+artes plásticas 1.73
+
+S.M.G. hasta 6.00
+
+S.M.G por trimestre.
+
+VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
+
+ZONA NORTE
+
+Por inscripción Por mensualidad
+
+a).- En Cancún De 0.92 hasta 3.00 De 1.27 S.M.G. hasta
+
+S.M.G. 13.00 S.MG.
+
+b).- En Cozumel De 0.87 hasta 3.00 De 1.58 S.M.G. hasta
+
+S.M.G. 7.00 S.MG.
+
+c).- En Tulum De 0.28 hasta 3.00 De 0.28 S.M.G. hasta
+
+S.M.G. 7.00 S.MG.
+
+d).- En Kantunilkin EXENTO EXENTO
+
+e).- En Holbox EXENTO EXENTO
+
+En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+
+ZONA SUR
+
+Por inscripción Por mensualidad
+
+a).- En Chetumal De 0.45 hasta De 0.90 hasta 3.00
+
+2.00 S.M.G. S.M.G.
+
+b).- En Calderitas EXENTO EXENTO
+
+c).- En Bacalar EXENTO EXENTO
+
+d).- En Felipe C. Puerto EXENTO EXENTO
+
+e).- En Chunhuhub EXENTO EXENTO
+
+f).- En Sabán EXENTO EXENTO
+
+g).- Nicolás Bravo EXENTO EXENTO
+
+Con respecto a las tarifas de la tabla anterior, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+
+IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 S.M.G. hasta 26.64 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8911,7 +9119,7 @@ XII.- Reposición de Cartillas de Educación Básica. 1.00 S.M.G.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
 
@@ -8967,7 +9175,7 @@ IV. Por la reposición de sello de las Notarías Públicas 6 S.M.G.
 
 Por registro de patente de notario público pagará 75 S.M.G.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
@@ -9013,239 +9221,15 @@ En la expedición de copias certificadas, independientemente del número de foto
 
 Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago del derecho a que se refieren las fracciones I, II, III, IV y V, el solicitante deberá cubrir el costo del servicio respectivo, según la tarifa que corresponda.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+### CAPÍTULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
 
 ###### ARTICULO 207-N.
 
-Los derechos por los servicios que prestan la Secretaría de la Cultura, se pagarán conforme a la siguiente:
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-TARIFA
-
-I.- Por la renta de espacios pertenecientes a la Secretaría de Cultura se cobrará de acuerdo a la siguiente tarifa:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-En la Zona Sur:
-
-a).- Teatro Constituyentes De 105 S.M.G Por día
-
-del 74. hasta 420 S.M.G.
-
-b).- Teatro Minerva. 50 S.M.G Por día
-
-c).- Salón Latinoamericano. 75 S.M.G. Por día
-
-d).- Auditorio de la casa
-
-de la Cultura en Cancún. 65 S.M.G. Por día
-
-f) (sic).- Salón de
-
-Conferencias de la Cultura
-
-en Cancún. 50 S.M.G. Por día
-
-g).- Cafetería de la Cultura
-
-en Cancún. 30 S.M.G. Por mes
-
-h).- Salón de danzas de la
-
-Cultura en Cancún. 10 S.M.G. 30 horas
-
-i).- Jardín del Arte. 40 S.M.G. Por evento
-
-j).- Auditorio del Museo de
-
-la Cultura Maya. 50 S.M.G. Por evento
-
-k).- Poliforum. 50 S.M.G. Por evento
-
-l).- Galería de la Casa de
-
-la Cultura de Cozumel. 30 S.M.G. Por evento
-
-m).- Auditorio del Fuerte
-
-de San Felipe de Bacalar. 20 S.M.G. Por evento
-
-n).- Cafetería de Jardín
-
-del Arte. 30 S.M.G. Por mes
-
-o).- Plazoleta al aire libre
-
-de la Casa de la Cultura
-
-de Chetumal. 20 S.M.G, Por evento
-
-p).- Foro de la Casa de la
-
-Cultura de Chetumal. 10 S.M.G. Por evento.
-
-q).- Cafetería de la Casa
-
-de la Cultura ce Chetumal. 30 S.M.G. Por mes
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-Cuando los espacios contemplados en la tabla antes citada, sean requeridos para eventos de carácter oficial por el Gobierno del Estado o Municipios, no se causará derecho alguno.
-
-II.- Por el uso de la casa
-
-Internacional del escritor 6 S.M.G. por persona
-
-III.- Por cada función
-
-en cine café 0.32 S.M.G. por persona
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-IV.- Por cada función en el Teatro Constituyentes del 74 0.4 S.M.G. a 2.00 S.M.G.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-V.- Por cada función en la Plaza Central de la Casa de lo Cultura de Cancún 0.20 S.M.G. a 2.00 S.M.G.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-VI.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
-
-Museos Niños Adultos Extranjeros
-
-a).- Cultura Maya. 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
-
-b).- San Felipe Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
-
-c).- Guerra de Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
-
-d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
-
-Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de, pago los visitantes que residan en el Estado.
-
-VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
-
-Por inscripción Por mensualidad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-a).- De música Carrera: 2.60 S.M.G. Carrera: 2.60 S.M.G.
-
-Taller: de 0.57 S.M.G. taller de 1.44 S.M.G.
-
-Hasta 3.0 S.M.G. hasta 5.00 S.M.G.
-
-b).- De danza De 0.87 S.M.G hasta De 1.44 S.M.G.
-
-3.00 S.M.G. hasta 5.00 S.M.G.
-
-c).- De artes 1.00 S.M.G. Taller de dibujo y
-
-plásticas pintura
-
-1.00 S.M.G.
-
-2.00 S.M.G. Artes plásticas
-
-2.00 S.M.G.
-
-1.00 S.M.G. Taller juvenil de
-
-Teatro
-
-1.00 S.M.G.
-
-exento Curso avanzado
-
-de artes plásticas
-
-de 1.73 S.M.G.
-
-hasta 6.00 S.M.G.
-
-por trimestre
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
-
-ZONA NORTE
-
-Por inscripción Por mensualidad
-
-a).-En Cancún De 0.92 hasta De 1.27 S.M.G.
-
-3.00 S.M.G. hasta 13.00 S.M.G.
-
-b).-En Cozumel De 0.87 hasta De 1.58 S.M.G.
-
-hasta 3.00 S.M.G. hasta 7.00 S.M.G.
-
-c).- En Tulum De 0.28 hasta De 0.28 hasta
-
-3.00 S.M.G. hasta 7.00 S.M.G.
-
-d).- En Kantunilkin EXENTO EXENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-e).- En Holbox EXENTO EXENTO
-
-En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-ZONA SUR
-
-Por inscripción Por mensualidad
-
-a).- en Chetumal. De 0.45 hasta De 0.90 hasta
-
-2.00 S.M.G. hasta 3.00
-
-S.M.G.
-
-b).- en Calderitas. EXENTO EXENTO
-
-c).- en Bacalar. EXENTO EXENTO
-
-d).- Felipe C. Puerto. EXENTO EXENTO
-
-e).- En Chunhuhub. EXENTO EXENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-f).- Sabán. EXENTO EXENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-g).- Nicolás Bravo. EXENTO EXENTO
-
-Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita a favor de personas mexicanas que residan en el Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 S.M.G. hasta 26.64 S.M.G.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
 
@@ -9261,13 +9245,13 @@ I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana 
 
 II.- Por concepto de renovación de la inscripción: 10 S.M.G.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
@@ -9281,17 +9265,17 @@ I.- Constancia de permiso para trabajar a menores de edad 1 S.M.G
 
 II.- Por la expedición de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
 
-En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda (sic) diez fotocopias.
+En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
 
 III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -9305,29 +9289,37 @@ a).- Por inscripción y refrendo
 
 en el registro 25.00 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACIÓN
 
-### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE HACIENDA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 207-Q.
 
-Por los servicios que presta La Secretaría de Hacienda, se causarán los siguientes derechos:
+Por los servicios que presta la Secretaría de Finanzas y Planeación, se causarán los siguientes derechos:
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 a) Por expedición de historial de pagos 2 veces el S.M.G.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 b) Por el registro de autorización para la apertura de casa de empeño o préstamo 130 S.M.G
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 c) Por la renovación anual del registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 d) Por modificaciones al registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 e) Por la búsqueda de registro vehicular en otras Entidades Federativas 2 S.M.G
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 S.M.G.
 
@@ -9347,25 +9339,159 @@ por los servicios que otorga el Centro Estatal de Evaluación y Control de Confi
 
 a) Por la aplicación de evaluaciones integrales que incluyen la psicológica, médica, poligráfica, de entorno social, y toxicológica 26.70 veces el S.M.G. por persona.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO XXIX. POR SERVICIOS QUE PRESTA LA PROCURADURIA GENERAL DE JUSTICIA
 
-### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-S.
+
+Por los servicios que presta la Procuraduría General de Justicia del Estado de Quintana Roo, se causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Expedición de certificados de antecedentes penales 2.44 S.M.G.
+
+II.- Acta Certificada de extravío de bienes muebles 10 S.M.G
+
+III.- Examen antidoping 2.50 S.M.G
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO XXX. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-T.
+
+Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos:
+
+a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 260 S.M.G.;
+
+b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G; y
+
+c) La expedición de certificados de antecedentes penales 2.44 S.M.G.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-U.
+
+Es objeto de este derecho, el servicio especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia dependiente de la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-V.
+
+Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia descrita en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-W.
+
+Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos de acuerdo a la siguiente tarifa:
+
+I. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, de doce horas diarias de vigilancia especial de instalaciones, por cada elemento, se causará la cantidad de 12.4 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
+
+II. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por doce horas diarias de protección de personas, se causará por cada elemento, la cantidad de 25.0 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
+
+III. Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por la custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 SMG, por cada 3 kilómetros de recorrido.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-X.
+
+Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del servicio especial de vigilancia requerido, domicilio en el cual se llevará a cabo la ejecución del servicio y nombre, denominación o razón social y domicilio del contratante beneficiario del servicio especial de vigilancia.
+
+Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO XXXI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+#### SECCION UNICA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 #### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
+### CAPITULO XXXII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-Y.
+
+Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda, causarán derechos con base a la siguiente:
+
+TARIFA
+
+I. Por elaboración de dictamen de procedencia para cesión de derechos o reconocimiento de titularidad 8.47 S.M.G;
+
+II. Por expedición de constancia de situación administrativa, financiera y jurídica 4.59 S.M.G;
+
+III. Por deslinde de terrenos 0.052 S.M.G por metro cuadrado;
+
+IV. Por reposición de tarjetones 1.84 S.M.G, y
+
+V. Por elaboración de croquis 2.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-Y
+
+BIS.- Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda en materia de operaciones inmobiliarias, se causarán derechos en base a la siguiente tarifa:
+
+I. Por el análisis y resolución para la expedición de la Acreditación de Profesional Inmobiliario 130 S.M.G.
+
+II. Por el análisis y resolución para la inscripción a la matrícula de profesionales Inmobiliarios 25 S.M.G.
+
+III. Por el análisis y resolución de la renovación anual de la Acreditación de profesional inmobiliario 25 S.M.G.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+### CAPITULO XXXIII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE TURISMO
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 207-Z.
+
+Por el uso de las Unidades de Servicio establecidas por la Secretaría de Turismo, en sitios inmediatos a las zonas arqueológicas, causarán derechos con base en la siguiente:
+
+TARIFA
+
+I. En Cobá. 0.47 S.M.G.
+
+II. En Chacchoben. 0.37 S.M.G.
+
+III. En Dzibanché – Kinichná. 0.37 S.M.G.
+
+IV. En El Meco. 0.34 S.M.G.
+
+V. En El Rey. 0.34 S.M.G.
+
+VI. En Kohunlich. 0.45 S.M.G.
+
+VII. En Muyil. 0.29 S.M.G.
+
+VIII. En Oxtankah. 0.34 S.M.G.
+
+IX. En San Gervasio. 0.37 S.M.G.
+
+X. En San Miguelito. 0.47 S.M.G.
+
+XI. En Tulum. 0.47 S.M.G.
+
+XII. En Xelhá. 0.34 S.M.G.
+
+No pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a las zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en los Estados Unidos Mexicanos, los domingos.
+
+## TITULO IV. DE LOS PRODUCTOS
+
+### CAPITULO UNICO
+
 #### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
-
-### CAPITULO III. MULTAS
-
-### CAPITULO IV. CAUCIONES JUDICIALES
-
-## TITULO QUINTO
-
-### CAPITULO V. DONACIONES DE PARTICULARES
-
-#### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
 
 ###### ARTICULO 208.
 
@@ -9379,15 +9505,31 @@ El producto de los bienes muebles e inmuebles que se exploten por licencia, conc
 
 Cuando el Gobierno del Estado sea poseedor de un derecho de explotación del Servicio Público de Transporte y lo otorgue a terceros para su explotación directa, estos pagarán la cuota que se establezca de manera mensual a más tardar cada día diez del mes siguiente a aquel en que se efectuó el usufructo.
 
-Dichas cuotas se enterarán por los usufructuarios directamente ante las Oficinas Recaudadoras de Rentas de la Secretaría de Hacienda del Estado.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION CUARTA. TALLERES DE GOBIERNO
+Dichas cuotas se enterarán por los usufructuarios directamente ante las Oficinas Recaudadoras de Rentas de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 209
+
+BIS.- Por la venta de lotes, no sujetas a lo dispuesto en los artículos 208 y 209 de esta Ley, a través de la Secretaría de Desarrollo Urbano y Vivienda, se pagarán, de acuerdo a su uso o destino, de conformidad a la siguiente clasificación:
+
+I. Lote habitacional
+
+II. Lote Comercial
+
+III. Lote de Reserva territorial
+
+El titular del Poder Ejecutivo emitirá mediante acuerdo o decreto los lineamientos para determinar las condiciones de venta, costo, incluyendo el pago en parcialidades de los bienes previstos en este artículo.
+
+#### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
 
 ###### ARTICULO 210.
 
 Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le venda un lote de terreno del fundo legal de las poblaciones del Estado. El título definitivo se expedirá por el Gobierno del Estado una vez que el interesado haya llenado los requisitos que señalen las disposiciones reglamentarias respectivas y previo pago del valor que determine el avalúo que practique la Dirección de Catastro.
 
-#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
+#### SECCION CUARTA. TALLERES DE GOBIERNO
 
 ###### ARTICULO 211.
 
@@ -9395,89 +9537,89 @@ La venta del Periódico Oficial y los avisos que se inserten en el mismo, se suj
 
 TARIFA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 I.- Periódico hasta 5 hojas 1 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 II.- Periódico de 6 hasta 100 hojas 1.50 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IV.- Suscripción Anual: 24 números ordinarios 20 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 V.- Suscripción Semestral: 12 números ordinarios 13 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VI.- Periódico hasta 5 hojas vía internet 0.98 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VII. Periódico de 6 hasta 100 hojas vía internet 0.96 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VIII. Suscripción anual: 24 números ordinarios, vía internet 9.62 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IX. Suscripción semestral: 12 números ordinarios, vía internet 6.73 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 X. Periódico de más de 100 hojas, vía internet 0.50 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XI. Publicaciones por renglón 0.50 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 XII. Periódico de más de 100 hojas 4.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 XIII. Búsqueda de publicación 1.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 XIV. Publicaciones extraordinarias menor de 5 hojas 119.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -9513,29 +9655,27 @@ XVIII. Certificación de inexistencia de periódicos 1.00 S.M.G.
 
 El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
 
-#### SECCION SEXTA. IMPRENTA DE GOBIERNO
+#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
 ###### ARTICULO 212.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+#### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 ###### ARTICULO 213.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-#### SECCION OCTAVA
-
-POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
+#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
 
 ###### ARTICULO 214.
 
 Los trabajos realizados en la imprenta de Gobierno del Estado se cobrarán de acuerdo con las cuotas que fije la tarifa que expedira dicho Gobierno, la que surtira sus efectos lo mismo que las reformas que se hagan, 30 días después de su publicación en el Periódico Oficial de Estado.
 
-#### SECCION NOVENA. PRODUCTOS DIVERSOS
+#### SECCION OCTAVA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
 
 ###### ARTICULO 215.
 
@@ -9543,19 +9683,23 @@ Las publicaciones editadas por el Gobierno del Estado se cobrarán de acuerdo a 
 
 Cada ejemplar que se edite deberá contener el precio de venta.
 
-#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+#### SECCION NOVENA. PRODUCTOS DIVERSOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 216.
 
 El Gobierno del Estado, percibirá los productos derivados por el acceso, uso o goce de los bienes y servicios que generen los museos, balnearios y zonas arqueológicas, ya sean de su propiedad o tenga bajo su administración.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 217.
 
-Las cuotas o tarifas aplicables al artículo anterior, serán las que autoricen, la Secretaría de Hacienda del Estado, de conformidad con la normatividad que establezcan las autoridades respectivas, en materia turística y de desarrollo urbano y ecología.
+Las cuotas o tarifas aplicables al artículo anterior, serán las que autorice la Secretaría, de conformidad con la normatividad que establezcan las autoridades respectivas en materia turística y de desarrollo urbano y ecología.
+
+#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 218.
 
@@ -9611,17 +9755,17 @@ f).- Por formas impresas de:
 
 BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda perciba el Gobierno del Estado por las cuentas bancarias perteneciente a este.
 
-## TITULO SEXTO
+## TITULO V. APROVECHAMIENTOS
 
-### CAPITULO VI. INGRESOS POR COORDINACION
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ###### ARTICULO 219.
 
 Los contribuyentes que no cumplan con las obligaciones fiscales establecidas por esta ley en materia de impuestos y derechos causarán una cuota por concepto de recargos que será de acuerdo a lo establecido en el Código Fiscal del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ###### ARTICULO 220.
 
@@ -9631,39 +9775,35 @@ Son rezagos los adeudos de impuestos, derechos y productos que pasen a nuevo añ
 
 Los rezagos serán cubiertos en las oficinas que debieron pagarse los impuestos, derechos y/o productos de los cuales provengan.
 
-### CAPITULO UNICO
+### CAPITULO III. MULTAS
 
 ###### ARTICULO 222.
 
 Las multas se harán efectivas en los términos de las disposiciones legales que las establezcan.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO IV. CAUCIONES JUDICIALES
 
 ###### ARTICULO 223.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO V. DONACIONES DE PARTICULARES
 
 ###### ARTICULO 224.
 
 Las donaciones que los particulares hagan al Gobierno del Estado se harán efectivas en los términos fijados por el donante.
 
-> <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO VI. INGRESOS POR COORDINACION
 
 ###### ARTICULO 225.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 226.
 
@@ -9673,13 +9813,21 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será como mínimo un 20% del valor de este, y se exigirá independientemente del monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 227-A.
 
-Los Notarios Públicos titulares y suplentes en funciones deberán otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 S.M.G. vigente en la entidad. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique el citado Salario Mínimo, dentro de los treinta días siguientes a la fecha en que se publique la modificación del Salario en el Diario Oficial de la Federación.
+El notario público titular, auxiliar o suplente en funciones deberá otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 S.M.G. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique el citado Salario Mínimo, dentro de los treinta días siguientes a la fecha en que se publique la modificación del Salario en el Diario Oficial de la Federación.
 
-## TITULO SEPTIMO
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
+###### ARTICULO 227-B.
+
+Por la expedición de títulos derivados de la venta de lotes establecida en el artículo 209 Bis, se pagarán aprovechamientos conforme a las tarifas que mediante acuerdo o decreto expida el titular del Poder Ejecutivo.
+
+## TITULO VI. INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 228.
 
@@ -9693,25 +9841,39 @@ III.- Empréstitos.
 
 IV.- Aportaciones especiales.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-## TITULO OCTAVO
+## TITULO VII. INGRESOS POR COORDINACION
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 229.
 
 El Gobierno del Estado percibirá las participaciones establecidas en las leyes Federales, Estatales y convenios que celebre con el Gobierno Federal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 230.
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
@@ -9815,7 +9977,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE DICIEMBRE DE 1995.
 
@@ -9855,7 +10017,7 @@ Durante los años de 1996 y 1997, el Impuesto al Hospedaje se calculará aplican
 
 P.O. 9 DE ABRIL DE 1996.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE QUINTANA ROO.
 
 P.O. 30 DE AGOSTO DE 1996.
 
@@ -10800,3 +10962,81 @@ P.O. 19 DE AGOSTO DE 2013.
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2013.
+
+PRIMERO.- En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+2 (SIC). Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a).- Licencias de construcción.
+
+b).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c).- Licencias para fraccionar o lotificar terrenos.
+
+d).- Licencias para conducir vehículos.
+
+e).- Expedición de placas y tarjeta para la circulación de vehículos.
+
+f).- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g).- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II.- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a).- Registro civil.
+
+b).- Registro de la Propiedad y del Comercio.
+
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV.- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia.
+
+Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1° de enero de 2014, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO.- El cobro de los derechos establecidos en el artículo 207-Y-BIS se mantendrá en suspenso hasta en tanto entre en vigor el ordenamiento que regule las operaciones inmobiliarias en el Estado.
+
+CUARTO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
