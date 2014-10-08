@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2013-06-27"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -356,7 +356,7 @@ Son autoridades encargadas de la aplicación de la presente Ley:
 
 I. El Jefe de Gobierno de la Ciudad de México;
 
-II. La Secretaría de Cultura; y (sic)
+II. La Secretaría de Cultura; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -624,19 +624,15 @@ El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria,
 
 ### Capítulo IV. De los Consejos Delegacionales de Fomento y Desarrollo Cultural del Distrito Federal
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
 
 Los Consejos Delegacionales serán el órgano asesor de los Jefes Delegacionales para dar cabal cumplimiento a la política cultural planteada en el Programa Delegacional de Fomento y Desarrollo Cultural.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
+Los Consejos Delegacionales se deberán constituir dentro de los 45 días hábiles posteriores a que el Jefe Delegacional entrante tome posesión de su administración, de la misma manera se deberá informar ante las instancias correspondientes sobre los integrantes de dichos consejos.
 
-Los Consejos Delgacionales (sic) se deberán constituir dentro de los primeros 45 días hábiles a partir de que el Jefe Delegacional entrante tome posesión de su administración, de la misma manera se deberá de informar ante las instancias correspondientes los integrantes de dichos consejos.
-
-> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2013)</small>
-
-En caso de no constituirse dentro del tiempo señalado, la Secretaría de Cultura a través del Consejo de Fomento y Desarrollo Cultural del Distrito Federal convocará a su constitución en un plazo no mayor a 15 días hábiles después de vencido el plazo previsto en el párrafo anterior.
+En caso de no constituirse dentro del plazo señalado, la Secretaría de Cultura a través del Consejo de Fomento y Desarrollo Cultural del Distrito Federal convocará a su constitución en un plazo no mayor a 15 días hábiles después de vencido el plazo previsto en el párrafo anterior.
 
 > <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
 
@@ -1167,3 +1163,9 @@ G.O. 27 DE JUNIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
