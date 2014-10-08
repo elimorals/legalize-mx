@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "2013-11-20"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
 
@@ -353,7 +353,9 @@ Las infracciones a esta Ley serán sancionadas en la siguiente forma:
 
 I.- Apercibimiento, con retiro de los puestos, locales, marquesinas, toldos, rótulos, cajones, canastas, huacales, jaulas, etc.;
 
-II.- Multa de cinco pesos a mil pesos;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+II.- Multa de 1 a 17 días de Salario Mínimo General Vigente en Morelos;
 
 III.- Suspensión al infractor del ejercicio del comercio en el puesto o local hasta por quince días;
 
@@ -609,13 +611,13 @@ Lic. Fausto Galván Campos
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE JUNIO DE 1975.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo:- Remítase al Ejecutivo para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+Segundo.- Remítase al Ejecutivo para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
 
 P.O. 8 DE NOVIEMBRE DE 1978.
 
@@ -644,3 +646,17 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO CUARTO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
