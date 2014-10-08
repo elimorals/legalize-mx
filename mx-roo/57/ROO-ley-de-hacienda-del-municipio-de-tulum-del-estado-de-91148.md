@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-tulum-del-estado-de-91148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-30"
-last_updated: "2012-11-30"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de noviembre de 2012.
 
@@ -933,23 +933,13 @@ TARIFA
 
 I. Nacimientos:
 
-a) En las oficinas del Registro Civil Municipal 2.00 S.M.G.
+a) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-en días y horas hábiles, con entrega de copia
+b) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-certificada del acta de nacimiento que se emita:
+c) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-b) En las oficinas del Registro Civil Municipal 2.0 S.M.G.
-
-en días y horas Inhábiles:
-
-c) Fuera de las oficinas del Registro Civil 5.0 S.M.G.
-
-Municipal en horas hábiles:
-
-d) Fuera de las oficinas del Registro Civil 8.5 S.M.G.
-
-Municipal en horas inhábiles:
+d) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
 e) Rectificación de las Actas de Nacimiento: 0.5 S.M.G.
 
@@ -1039,9 +1029,15 @@ b) Asentamientos de actas de defunción: 1.0 S.M.G.
 
 c) Anotaciones marginales: 0.5 S.M.G.
 
-d) Expedición de copias certificadas de 1.0 S.M.G
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-actas de nacimiento, por cada una:
+d) Expedición de certificaciones de actas
+
+de nacimiento, por cada una 3.5 S.M.G.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
 
 e) Expedición de copias certificadas 5 S.M.G
 
@@ -1083,9 +1079,11 @@ Las oficinas del Registro Civil Municipal, deberán tener a la vista de los usua
 
 En los casos de desastres naturales, campañas de regularización, matrimonios colectivos o solicitudes de oficio de las autoridades, se podrá subsidiar hasta 100% de los derechos que causan los servicios del Registro Civil Municipal, siempre que sea autorizado en los términos previstos por el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 65.
 
-Los Oficiales del Registro Civil Municipal y sus secretarias cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción I, inciso b); fracción II, incisos b), c), d), h) y j), y fracción IV, inciso b) del artículo 63 de la presente Ley.
+Los oficiales del Registro Civil Municipal y su auxiliar cobrarán el 20% y 10% respectivamente, de los derechos cobrados conforme a la fracción II, incisos b), c), d), h) y j), y la fracción IV, inciso b) del Artículo 63 de la presente ley.
 
 ###### Artículo 66.
 
@@ -2824,3 +2822,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C. JOSE MAURICIO GONGORA ESCALANTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
