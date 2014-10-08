@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2014-04-16"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -349,7 +349,9 @@ I.- CIUDAD: Centro de población que tenga censo no menor de setenta y cinco mil
 
 II.- PUEBLO: Centro de población que tenga más de veinticinco mil habitantes pero menos de setenta y cinco mil habitantes, que preste los servicios públicos indispensables a su población, edificios adecuados para los servicios municipales; hospital, y escuelas de enseñanza primaria, secundaria y de ser posible escuela de enseñanza media superior;
 
-III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos más indispensables, edificios para las oficinas de las autoridades del lugar, cárcel, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+III.- COLONIA: Centro de población que tenga un censo menor de veinticinco mil habitantes pero más de cinco mil, y que cuente con los servicios públicos más indispensables, edificios para las oficinas de las autoridades del lugar, establecimiento penitenciario, panteón y escuelas de enseñanza que sean acordes a las demandas de este centro de población;
 
 IV.- COMUNIDAD: Centro de población que tenga censo menor a cinco mil habitantes, locales adecuados para la prestación de los servicios públicos mas indispensables así como instalaciones adecuadas para la impartición de la enseñanza preescolar y primaria cuando menos.
 
@@ -369,21 +371,17 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa,
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
-ARTÍCULO 15 BIS.- Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a su dignidad, así como la incorporación de la perspectiva de género en sus políticas públicas, por lo que para tales fines deberá contar con una dirección denominada Instancia Municipal de la Mujer.
+###### ARTÍCULO 15 Bis.
+
+Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a su dignidad, así como la incorporación de la perspectiva de género en sus políticas públicas, por lo que para tales fines deberá contar con una dirección denominada Instancia Municipal de la Mujer.
 
 Todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 15 Bis.
-
-Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a la dignidad de las mujeres, así como la incorporación de la perspectiva de género en sus políticas públicas, todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 15 Ter.
 
-Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
+Los servidores públicos que presten sus servicios para los Municipios, deberán abstenerse de cualquier práctica discriminatoria en el ejercicio de su cargo o comisión pudiendo incurrir en alguno de los supuestos que señala la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de los procedimientos que se les pudiera instaurar con motivo de dicha discriminación, por la autoridad competente.
 
 ###### Artículo 16.
 
@@ -675,11 +673,17 @@ Los Ayuntamientos no podrán revocar sus acuerdos, sino en aquellos casos en que
 
 Las sesiones serán siempre presididas por el Presidente Municipal o por quien lo sustituya legalmente; de ésta se levantará acta circunstanciada que constará en un libro de actas, en el cual deberán de asentarse los extractos de los acuerdos y asuntos tratados y el resultado de las votaciones. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal, estos constarán íntegramente en el libro debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, ante el Secretario del Ayuntamiento, que asistirá a las sesiones de Cabildo con voz informativa, pero sin voto, dando fe de todo lo actuado en ellas.
 
-De las actas levantadas por el Secretario del Ayuntamiento se les entregará copia certificada, en un plazo no mayor de ocho días, a los integrantes del Ayuntamiento. En caso de no cumplir con esta disposición, el Secretario del Ayuntamiento será sancionado conforme a lo establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+De las actas levantadas por el Secretario del Ayuntamiento se les entregará copia certificada, en un plazo no mayor a ocho días, a los integrantes del Ayuntamiento. En caso de no cumplir con esta disposición, el Secretario del Ayuntamiento será sancionado conforme a lo establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 34.
 
 Cuando el Presidente Municipal no pudiere asistir a las sesiones de Cabildo, estas se llevarán a cabo con la asistencia de los demás integrantes del Ayuntamiento y serán presididas por el Síndico.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+En estos casos se tratarán única y exclusivamente los asuntos que la hayan motivado, dando aviso por escrito con dos días hábiles de anticipación de los temas a tratar al Presidente Municipal y serán válidos y legales los acuerdos que en ésta se tomen.
 
 ###### Artículo 35.
 
@@ -875,7 +879,7 @@ LVII. Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos
 
 LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el fin de que se mantengan aptos en el ejercicio de sus derechos cívico políticos;
 
-LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y (sic)
+LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -955,7 +959,7 @@ VII. Con excepción de los casos expresamente previstos en las leyes, enajenar o
 
 VIII. Retener o invertir, para fines distintos, la cooperación, que en numerario o especie, aporten los particulares para la realización de obras de utilidad pública;
 
-IX. Ejecutar planes y programas distintos a los aprobados; y (sic)
+IX. Ejecutar planes y programas distintos a los aprobados; y
 
 X. Conceder empleos en la administración municipal o tener como proveedores a cualesquiera de sus miembros o a los cónyuges, parientes consanguíneos en línea recta y parientes colaterales o por afinidad hasta el segundo grado de éstos, exceptuando aquellas funciones de carácter honorífico;
 
@@ -1215,11 +1219,11 @@ Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrat
 
 ###### Artículo 51.
 
-Los Planes de Desarrollo Municipal, en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
+Los Planes de Desarrollo Municipal en municipios que cuenten con población indígena, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas, respetando sus formas de producción y comercio.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
+Así mismo, los Planes de Desarrollo Municipal en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1613,7 +1617,7 @@ Los Tesoreros serán responsables de las erogaciones que efectúen y que no est�
 
 ### CAPÍTULO III. DEL CONTRALOR
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
 
@@ -1621,7 +1625,7 @@ Los Tesoreros serán responsables de las erogaciones que efectúen y que no est�
 
 ###### Artículo 84.
 
-La Contraloría Municipal es el órgano encargado del control, inspección, supervisión y evaluación del desempeño de las distintas áreas de la Administración Pública Municipal, con el objeto de promover la productividad, eficiencia, a través de la implantación de sistemas de control interno, siendo el órgano encargado de aplicar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+La Contraloría Municipal, es el órgano encargado del control, inspección, supervisión y evaluación del desempeño de las distintas áreas de la Administración Pública Municipal, con el objeto de promover la productividad, eficiencia, a través de la implantación de sistemas de control interno, siendo el órgano encargado de aplicar el cumplimiento de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 85.
 
@@ -1653,13 +1657,21 @@ III. De la misma manera, queda facultado para solicitar información o documenta
 
 IV. Participar, cuando así se lo requieran los miembros del Cabildo, en las sesiones ordinarias o extraordinarias de éstos, para tratar algún tema o asunto en los que se le solicite su opinión;
 
-V. Recibir quejas o denuncias en contra de los servidores públicos municipales y substanciar las investigaciones respectivas; vigilando en todo momento el cumplimiento de las obligaciones que impone la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO MIL SEISCIENTOS SESENTA Y OCHO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, Y DE SU PROCESO LEGISLATIVO, SE ADVIERTE QUE SE ACTUALIZA LA DENOMINACIÓN DEL ORDENAMIENTO QUE SEÑALA ESTA FRACCIÓN.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2014)</small>
+
+V. Recibir quejas o denuncias en contra de los Servidores Públicos Municipales y substanciar las investigaciones respectivas, vigilando en todo momento el cumplimiento de las obligaciones que impone la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 En el caso en que el servidor público denunciado o del que verse la queja sea de elección popular, el Contralor Municipal turnará la queja o denuncia al Pleno del Ayuntamiento, a fin de que éste la resuelva. En el procedimiento que se lleve, no participará el funcionario denunciado;
 
-VI. Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionadoras a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos; siempre que se trate de servidores públicos que no sean de elección popular y cuando ello no corresponda a los superiores jerárquicos.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO MIL SEISCIENTOS SESENTA Y OCHO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, Y DE SU PROCESO LEGISLATIVO, SE ADVIERTE QUE SE ACTUALIZA LA DENOMINACIÓN DEL ORDENAMIENTO QUE SEÑALA ESTA FRACCIÓN.]</small>
 
-Las sanciones que imponga en los términos de esta fracción, deberá hacerlas de conocimiento de los órganos de control de los Poderes Ejecutivo y Legislativo del Estado de Morelos;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+VII (SIC). Para hacer cumplir sus determinaciones, podrá imponer las sanciones disciplinarias que correspondan; iniciará y desahogará el procedimiento administrativo de fincamiento de responsabilidades; emitirá las resoluciones administrativas absolutorias o sancionadoras a que se refiere la Ley Estatal de Responsabilidades de los Servidores Públicos; siempre que se trate de servidores públicos que no sean de elección popular y cuando ello no corresponda a los superiores jerárquicos.
+
+Las sanciones que imponga en los términos de esta fracción, deberá hacerlas del conocimiento de los órganos de control de los Poderes Ejecutivo y Legislativo del Estado de Morelos;
 
 VII. Coadyuvar con las labores de seguimiento, control y evaluación de la Secretaría de la Contraloría del Poder Ejecutivo y del órgano constitucional de fiscalización del Poder Legislativo, ambos del Estado de Morelos, así como la Secretaría de la Función Pública del Gobierno Federal;
 
@@ -1845,7 +1857,9 @@ V. Mantener en existencia las formas necesarias para el asentamiento de las acta
 
 VI. Recibir la capacitación y mantener la coordinación debida con la dependencia de la administración pública estatal encargada de la materia; y
 
-VII. Dar por escrito el aviso a que se refiere el artículo 464 del Código Civil para el Estado Libre y Soberano de Morelos.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Familiar para el Estado Libre y Soberano de Morelos.
 
 Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
 
@@ -1869,7 +1883,7 @@ El Presidente Municipal podrá delegar en los Jueces Cívicos las facultades par
 
 Para ser Juez Cívico, se requiere:
 
-I. Ser ciudadano morelense, en ejercicio de sus derechos, y; (sic)
+I. Ser ciudadano morelense, en ejercicio de sus derechos, y;
 
 II. Tener veintiún años de edad, cumplidos a la fecha de designación;
 
@@ -1885,9 +1899,11 @@ Corresponde al Juez Cívico determinar y sancionar las infracciones al Bando de 
 
 Cada delegación o ayudantía municipal contará con elementos del cuerpo de seguridad pública, de acuerdo a su extensión, número de pobladores e importancia, pudiéndose integrar cuerpos auxiliares, en términos de lo previsto en la legislación de la materia, para el auxilio de las labores de vigilancia y seguridad pública.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 99.
 
-En los Municipios que no correspondan con las cabeceras de los distritos judiciales del Estado, los alcaldes dependerán, exclusivamente en lo administrativo, del Presidente Municipal, y tendrán a su cargo la custodia de los detenidos, el cuidado de su alimentación y disciplina, la limpieza e higiene de las cárceles y el proporcionar ocupación diaria remunerada a los correccionales.
+En los Municipios que no correspondan con las cabeceras de los distritos judiciales del Estado, los Alcaldes dependerán, exclusivamente en lo administrativo, del Presidente Municipal, y tendrán a su cargo la custodia de los detenidos, el cuidado de su alimentación y disciplina, la limpieza e higiene de los establecimientos penitenciarios y el proporcionar ocupación diaria remunerada en los centros especializados para ejecución de medidas privativas de libertad para adolescentes.
 
 ### CAPÍTULO VIII. DE LA COMPETENCIA DE LAS AUTORIDADES AUXILIARES
 
@@ -2179,7 +2195,7 @@ V. Cambiar de destino los bienes inmuebles destinados a un servicio público o d
 
 VI. Desincorporar del dominio público los Bienes Municipales;
 
-VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y (sic)
+VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2323,7 +2339,9 @@ III. Proponer, formular e integrar con la participación del Coplademun, al Cabi
 
 IV. Observar cuando el Ayuntamiento realice obras públicas con recursos federales cualquiera que sea su origen, se cumpla con la normatividad aplicable, el incumplimiento a la misma, será responsabilidad de la autoridad que la autoriza y el Titular de la dependencia en comento que la ejecute;
 
-V. Integrar el expediente técnico de la obra, sin importar el origen de los recursos con los que se ejecute la obra pública, el cual contendrá la documentación técnica y financiera generada por la obra que ayuden a comprobar el gasto, y deberá contener como mínimo lo siguiente: oficio de autorización y/o acuerdo de Cabildo, carátula de datos generales, validación o dictamen de factibilidad ante las instancias correspondientes, croquis de localización, presupuesto inicial, descripción detallada del proyecto, planos aprobados y/o croquis de obra, números generadores, análisis de precios unitarios, estimaciones, resúmenes de costos de obra, calendario de obra, bitácora fotográfica y de obra, acta de comité de obra de la comunidad, contratos de arrendamiento y acta de entrega recepción de la obra, el incumplimiento a la presente disposición, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+V. Integrar el expediente técnico de la obra, sin importar el origen de los recursos con los que se ejecute la obra pública, el cual contendrá la documentación técnica y financiera generada por la obra que ayuden a comprobar el gasto, y deberá contener como mínimo lo siguiente: oficio de autorización y/o acuerdo de Cabildo, carátula de datos generales, validación o dictamen de factibilidad ante las instancias correspondientes, croquis de localización, presupuesto inicial, descripción detallada del proyecto, planos aprobados y/o croquis de obra, números generadores, análisis de precios unitarios, estimaciones, resúmenes de costos de obra, calendario de obra, bitácora fotográfica y de obra, acta de comité de obra de la comunidad, contratos de arrendamiento y acta de entrega recepción de la obra, el incumplimiento a la presente disposición, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 VI. Resolver y contestar oportunamente las observaciones que haga el Órgano de Fiscalización perteneciente al Congreso del Estado, derivado de la Cuenta Pública Municipal;
 
@@ -2393,7 +2411,7 @@ V. Vigilar la correcta vialidad de personas y vehicular en las calles y caminos;
 
 VI. Auxiliar en los programas de salud, dotación de servicios públicos municipales y vigilancia del correcto mantenimiento de los mismos;
 
-VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas; y (sic)
+VII. Efectuar programas que tiendan a prevenir el delito y las faltas administrativas; y
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2797,7 +2815,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2805,17 +2823,17 @@ Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros li
 
 Los servidores públicos de los Municipios son responsables de los delitos y faltas oficiales que cometan durante su encargo.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 175.
 
-Para los efectos de la responsabilidad de que se trata este capítulo, se considera como servidores públicos municipales, a los miembros del Ayuntamiento o del Concejo Municipal, en su caso, y en general, a toda persona que desempeñe cargo, comisión o empleo de cualquier naturaleza, en la administración pública municipal.
+Para los efectos de la responsabilidad de que se trata este Capítulo, se considera como Servidores Públicos Municipales, a los miembros del Ayuntamiento o del Concejo Municipal, en su caso, y en general, a toda persona que desempeñe cargo, comisión o empleo de cualquier naturaleza, en la Administración Pública Municipal.
 
-La declaración de procedencia, para determinar si se procede penalmente en contra de los Presidentes Municipales, será hecha en términos de lo que establece el artículo 136 de la Constitución Política del Estado de Morelos.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 176.
 
-Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos se estará a lo dispuesto en el título séptimo de la Constitución Política Local y la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
+Para la determinación de las responsabilidades, procedimientos, sanciones y recursos administrativos, se estará a lo dispuesto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Morelos y la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 177.
 
@@ -3046,6 +3064,30 @@ Remítase el presente Decreto al Titular del poder Ejecutivo del Estado, para ef
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+ARTÍCULO CUARTO (SIC). Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2005.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+P.O. 2 DE AGOSTO DE 2006.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 16 DE JULIO DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3364,6 +3406,38 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NO. 1664 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, DEL ARTÍCULO 34, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, lo anterior, con fundamento en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NO. 1668 POR EL QUE SE REFORMAN LA FRACCIÓN VII, DEL ARTÍCULO 92, LA FRACCIÓN III, DEL ARTÍCULO 13 Y EL ARTÍCULO 99; EL ARTÍCULO 175; EL ARTÍCULO 15 TER, EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 33, EL ARTÍCULO 84, FRACCIONES V Y VII, DEL ARTÍCULO 86; LA FRACCIÓN V, DEL ARTÍCULO 127 TER Y EL ARTÍCULO 176; TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el Decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
 
 ###### ARTÍCULO TERCERO.
 
