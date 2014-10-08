@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2014.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -547,7 +547,9 @@ IV. Mantener el mínimo de afiliados en los municipios o distritos electorales, 
 
 V. Ostentarse con la denominación, emblema y color o colores que tengan registrados, los que no podrán ser iguales o semejantes a los utilizados por partidos políticos ya existentes;
 
-(SIC) normas de afiliación y observar los procedimientos que señalen sus estatutos ulación (sic) de candidatos;
+> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2014)</small>
+
+VI. Cumplir sus normas de afiliación y observar los procedimientos que señalen sus estatutos para la postulación de candidatos;
 
 VII. Mantener en funcionamiento efectivo a sus órganos estatutarios;
 
