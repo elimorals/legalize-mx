@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-registro-de-candidatos-a-cargos-de-65045"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCION POPULAR
 
-REGLAMENTO PARA EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCION POPULAR
+REGLAMENTO PARA EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre del 2008.
 
@@ -273,7 +275,7 @@ De conformidad a lo establecido en el artículo 117 de la Constitución Polític
 
 I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del Estado;
 
-II.- Tener cinco años de residencia en el municipio o en la población en la que deban ejercer su cargo, respectivamente; y (sic)
+II.- Tener cinco años de residencia en el municipio o en la población en la que deban ejercer su cargo, respectivamente; y
 
 III.- Saber leer y escribir;
 
@@ -482,3 +484,19 @@ C. MAURICIO ARZAMENDI GORDERO
 PARTIDO NUEVA ALIANZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente reglamento para el registro de candidatos a cargos de elección popular entrará en vigor al día siguiente de su aprobación por el Consejo Estatal Electoral.
+
+Segundo. Se abroga el Reglamento para el registro de candidatos a cargos de elección popular del Instituto Estatal Electoral, aprobado el día veintisiete de noviembre del año dos mil ocho.
+
+Tercero. Todas las referencias al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se entenderán como propias del Instituto Estatal Electoral hasta el cumplimiento de la disposición transitoria quinta del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+Cuarto. Una vez aprobado el presente Reglamento deberá publicarse en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+Quinto. Lo establecido en el artículo 25 último párrafo del presente Reglamento será, aplicable a los integrantes de los Ayuntamientos que sean electos a partir del proceso electoral del año 2015. El derecho de reelección de Presidentes Municipales, Síndicos y Regidores no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Reglamento.
+
+Sexto. Lo establecido en el artículo 27, último párrafo del presente Reglamento será aplicable a los Diputados Locales que sean electos a partir del proceso electoral del año 2015. El derecho de reelección de Diputados Locales no será aplicable a los que hayan protestado el cargo en la Legislatura que se encuentre en funciones a la entrada en vigor del presente Reglamento.
