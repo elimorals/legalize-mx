@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-sesiones-de-los-consejos-distritales-y-65050"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -31,7 +33,7 @@ Al margen izquierdo un emblema que dice: Instituto Estatal Electoral.- IEE.-More
 
 REUNIDOS EN EL SALÓN DE SESIONES LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTORAL, CON LA FINALIDAD DE APROBAR EL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES.
 
-RESULTADO.
+RESULTANDO...
 
 Así por unanimidad, lo resolvieron y firman los integrantes del Consejo Estatal Electoral, siendo las once horas con dieciséis minutos del día veintisiete de noviembre del año 2008.
 
@@ -410,3 +412,15 @@ C. MAURICIO ARZAMENDI GORDERO
 PARTIDO NUEVA ALIANZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El Reglamento de sesiones de los Consejos Distritales y Municipales Electorales entrará en vigor al día siguiente de su aprobación por el Consejo Estatal Electoral.
+
+Segundo. Se abroga el Reglamento de sesiones de los Consejos Distritales y Municipales Electorales del Instituto Estatal Electoral, aprobado el día veintisiete de noviembre del año dos mil ocho.
+
+Tercero. Todas las referencias al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se entenderán como propias del Instituto Estatal Electoral hasta el cumplimiento de la disposición transitoria quinta del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+Cuarto. Una vez aprobado el presente Reglamento deberá publicarse en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos.
