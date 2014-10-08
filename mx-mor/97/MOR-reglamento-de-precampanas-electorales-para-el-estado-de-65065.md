@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-precampanas-electorales-para-el-estado-de-65065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2009-02-04"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2009. (REPUBLICADO, P.O. 4 DE FEBRERO DE 2009)
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -498,3 +500,13 @@ P.O. 4 DE FEBRERO DE 2009.
 PRIMERO.- Las modificaciones a los artículos 35 y 37 segundo párrafo del presente reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esta fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
 
 SEGUNDO.- Publíquense las modificaciones a los artículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno el Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El Reglamento de Precampañas Electorales para el Estado de Morelos entrará en vigor al día siguiente de su aprobación por el Consejo Estatal Electoral.
+
+Segundo. Se abroga el Reglamento de Precampañas Electorales para el Estado de Morelos del Instituto Estatal Electoral, aprobado el día veintisiete de noviembre del año dos mil ocho.
+
+Tercero. Todas las referencias al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se entenderán como propias del Instituto Estatal Electoral hasta el cumplimiento de la disposición transitoria quinta del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+Cuarto. Una vez aprobado el presente Reglamento deberá publicarse en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
