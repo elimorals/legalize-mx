@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-obras-publicas-de-la-ciudad-de-mexico-antes-ley-de-12824
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-29"
-last_updated: "2008-09-15"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1998-11-18"
 ---
 # LEY DE OBRAS PUBLICAS DE LA CIUDAD DE MEXICO --ANTES LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL--
 
-LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL
+LEY DE OBRAS PÚBLICAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -54,9 +54,9 @@ LEY DE OBRAS PÚBLICAS DEL DISTRITO FEDERAL
 
 La presente Ley es de orden público e interés general, y tiene por objeto normar las acciones referentes a la planeación, presupuestación, gasto, ejecución, conservación, mantenimiento y control de la obra pública y de los servicios relacionados con ésta, que realicen las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal.
 
-El Jefe de Gobierno del Distrito Federal emitirá las políticas administrativas, bases y lineamientos para las materias que (sic) se refiere esta Ley y su Reglamento, así como los acuerdos que se referirán a la creación del Comité Central de Obras del Distrito Federal, los Subcomités de Obras de las áreas del Sector Obras, sus funciones, responsabilidades e integración de sus elementos.
+El Jefe de Gobierno del Distrito Federal emitirá las políticas administrativas, bases y lineamientos para las materias (sic) que se refiere esta Ley y su Reglamento, así como los acuerdos que se referirán a la creación del Comité Central de Obras del Distrito Federal, los Subcomités de Obras de las áreas del Sector Obras, sus funciones, responsabilidades e integración de sus elementos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 I. El Jefe de Gobierno del Distrito Federal establecerá un Comité Central de Obras con representantes de las dependencias de la Administración Pública Centralizada del Distrito Federal que ejecuten obra pública, cuya integración será conforme lo establece el Reglamento.
 
@@ -128,7 +128,7 @@ XVIII. Análisis Económico de Obra Pública: el estudio técnico financiero que
 
 XIX. Normatividad de la Administración Pública del Distrito Federal: el conjunto de disposiciones internas cuyo objeto es definir el marco de referencia para la elaboración de precios unitarios y otros conceptos relacionados con las obras públicas;
 
-XX. Arrendamiento: Acto jurídico por el cual se obtiene el uso y goce temporal de bienes muebles a plazo forzoso, mediante el pago de un precio cierto y determinado; y (sic)
+XX. Arrendamiento: Acto jurídico por el cual se obtiene el uso y goce temporal de bienes muebles a plazo forzoso, mediante el pago de un precio cierto y determinado; y
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -312,7 +312,7 @@ De la Planeación, Programación y Presupuestación.
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 16.
 
@@ -330,7 +330,7 @@ V. Otros planes y programas que señalen las disposiciones legales aplicables.
 
 Asimismo, se escuchará y evaluará la opinión de los órganos de participación ciudadana a través de sus representantes, dentro del contexto correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 17.
 
@@ -366,7 +366,7 @@ XIII. Tratándose de obra pública financiada, total o parcialmente por los cont
 
 XIV. Las demás previsiones que deban tomarse en cuenta, de acuerdo con la naturaleza y características de la obra.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 18.
 
@@ -416,7 +416,7 @@ Para efectos de este artículo, las dependencias, órganos desconcentrados, dele
 
 ### Capítulo I. Aspectos Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -438,11 +438,17 @@ a) Los casos en los que de acuerdo con la obra a realizar, técnicamente sólo s
 
 b) Las obras para mantenimiento preventivo o correctivo en infraestructura que pueden ejecutarse sin necesidad de alguno de los elementos citados en el inciso anterior, como pueden ser el caso del bacheo, reparación de fuga en instalaciones hidráulicas y otras en las que tan sólo será necesaria su presupuestación.
 
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+c) Los proyectos integrales a precio alzado en los que el contratista se obliga a realizar las obras desde el diseño incluyendo el proyecto ejecutivo hasta su terminación.
+
+Concluido el proyecto ejecutivo, el contratista deberá realizar el catálogo de conceptos, el cual debe contener la descripción de todos y cada uno de los conceptos a ejecutar para la realización de la construcción, clasificados en partidas por especialidad de trabajo, con unidad de medida, así como las cantidades de obra a ejecutarse en apego a las Normas de Construcción de la Administración Pública del Distrito Federal.
+
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, serán responsables en términos de lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 24.
 
@@ -518,7 +524,7 @@ En los casos de suspensión, rescisión y terminación anticipada por causas imp
 
 ### Capítulo II. De las Convocatorias y las Bases para Licitación de Obras Públicas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 28.
 
@@ -544,7 +550,7 @@ VIII. La información sobre los porcentajes a otorgar por concepto de anticipos,
 
 IX. Los criterios generales conforme los cuales se adjudicará el contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -571,6 +577,30 @@ a) En el caso de obra, los proyectos urbano, arquitectónico y de ingeniería qu
 b) En el caso de servicios relacionados con la obra pública, las leyes, normas, reglas, términos de referencia; en el caso de proyectos, el programa de necesidades, los ordenamientos aplicables sobre la materia, en particular el Reglamento de Construcciones para el Distrito Federal y sus Normas Técnicas Complementarias, para el diseño seguro y estable de las obras y la Ley de Protección Civil, para prevención de siniestros, entre otros, y demás condiciones aplicables en la realización del servicio; cantidades y unidades de medición de los conceptos del servicio, y la relación de salarios de profesionales, de materiales a utilizar y de quipos de apoyo;
 
 c) En el caso del proyecto integral, el programa de necesidades, las referencias por lo que hace a la legislación general que se debe cumplir en la realización del proyecto ejecutivo de la obra y la obra misma, normas de construcción y especificaciones, reglamento de construcciones y normas técnicas complementarias, con el señalamiento de los procedimientos constructivos, las especificaciones particulares del proyecto ejecutivo de la obra, y todo lo necesario según el proyecto integral de que se trate, será responsabilidad del proponente realizarlo.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+d) En el caso de obras cuyas condiciones de pago sean a precio alzado:
+
+1. La explosión de insumos que intervienen en la integración de la proposición, agrupado por materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción de cada uno de ellos. Tratándose de proyectos integrales el licitante señalará las normas de calidad y especificaciones técnicas a que se sujetará, las cuales deberán apegarse a las establecidas por la convocante en las bases de licitación;
+
+2. Red de actividades, calendarizada e indicando la duración de cada actividad a ejecutar o bien, la ruta crítica, en base a lo dispuesto en el Libro 2, Tomo IV de las Normas de Construcción de la Administración Pública del Distrito Federal;
+
+3. Cédula de avances y pagos programados, calendarizados y cuantificados por actividades a ejecutar, conforme a los periodos determinados por la convocante;
+
+4. Programa de ejecución general de los trabajos conforme al presupuesto total con sus erogaciones, calendarizado y cuantificado, conforme a los periodos determinados por la convocante, dividido en actividades y, en su caso, subactividades, debiendo existir congruencia con los programas que se mencionan en el numeral siguiente. Éste deberá considerarse dentro del contrato respectivo, como el programa de ejecución de los trabajos;
+
+5. Programas cuantificados y calendarizados de erogaciones, describiendo las actividades y, en su caso, subactividades de la obra, así como la cuantificación del suministro o utilización, conforme a los periodos determinados por la convocante, de los siguientes rubros:
+
+a. De la mano de obra;
+
+b. De la maquinaria y equipo de construcción, identificando su tipo y características;
+
+c. De los materiales más significativos y equipos de instalación permanente, expresados en unidades convencionales y volúmenes requeridos, y
+
+d. De utilización del personal profesional técnico, administrativo y de servicio encargado de la dirección, administración y ejecución de los trabajos, y
+
+6. Presupuesto total de los trabajos, el cual deberá dividirse en actividades de obra, indicando con número y letra sus importes, así como el monto total de la proposición.
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
@@ -602,7 +632,9 @@ XIII. Las fechas programadas de inicio y de terminación de los trabajos;
 
 XIV. El modelo de contrato;
 
-XV. Las condiciones de precio y, tratándose de contratos celebrados a precio alzado, las condiciones de pago;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+XV. Las condiciones de precio y, tratándose de contratos celebrados a precio alzado, las condiciones de pago; en este supuesto sólo se pagarán por actividades o subactividades terminadas.
 
 XVI. Otros requisitos:
 
@@ -634,7 +666,7 @@ Todo interesado que satisfaga los requisitos de la convocatoria y las bases del 
 
 Las dependencias, órganos desconcentrados, delegaciones y entidades podrán continuar con el proceso de licitación, aún cuando se haya registrado la participación de un sólo concursante, siempre que éste satisfaga los requisitos de la convocatoria y de las bases del concurso, previo pago de las mismas, y no se encuentre en los supuestos que establece el artículo 37 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 31.
 
@@ -656,7 +688,7 @@ La Contraloría deberá intervenir en cualquier acto que contravenga las disposi
 
 ### Capítulo III. De la Presentación, Apertura y Evaluación de Propuestas de Obras Públicas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 33.
 
@@ -792,7 +824,7 @@ Las garantías previstas en las Fracciones II y III de este Artículo, deberán 
 
 Las garantías que deban otorgarse conforme la presente Ley, se constituirán a favor de la Secretaría de Finanzas en el caso de las dependencias, órganos desconcentrados, y delegaciones, y en el caso de las entidades, a favor de éstas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 37.
 
@@ -882,7 +914,7 @@ I. En el caso de obra, que la misma incluya la información, documentos y requis
 
 En este caso, no será factible introducir precalificación alguna ni cambio del procedimiento señalado en los Artículos 33 y 39 de la presente Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO 2003)</small>
 
 II. En el caso de servicios relacionados con la obra pública, se incluya la información, documentos y demás requisitos solicitados en las bases del concurso, en la que se tomarán fundamentalmente en cuenta la presentación técnica de su propuesta y su experiencia. Verificarán que el programa de realización del servicio sea factible de realizar con los recursos considerados por el concursante, que la propuesta del servicio garantice el cumplimiento de los términos de referencia, normas para la realización de estudios o proyectos, Leyes, Normas y Reglamentos aplicables, programas delegacionales, limitantes establecidas y de desarrollo del trabajo, usos del suelo, y demás referencias establecidas por la dependencia, órgano desconcentrado, delegación o entidad.
 
@@ -894,7 +926,7 @@ También verificarán que la integración, análisis y cálculo de los precios u
 
 Para estos casos será factible si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, órgano desconcentrado, delegación o entidad, y lo establecerá desde las bases, y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 III. En el caso de proyecto integral, que las proposiciones incluyan la información, documentos y demás requisitos solicitados en las bases del concurso; que el anteproyecto cumpla con las especificaciones, legislación existente, restricciones establecidas, programa de necesidades planteado por la dependencia, órgano desconcentrado, delegación o entidad convocante y demás condiciones aplicables, que los precios considerados para los insumos, tanto para la ejecución de la obra correspondiente al anteproyecto, como de aquéllos empleados para la realización de los estudios e investigaciones sean de acuerdo con el mercado, que el programa de ejecución sea factible de realizar dentro del plazo solicitado según los recursos considerados por el concursante; que exista congruencia entre el programa y los rendimientos considerados, los recursos técnicos, conocimientos científicos, procedimientos constructivos, equipos, fuerza de trabajo y actividades a desarrollar.
 
@@ -904,7 +936,7 @@ Asimismo, se verificará que los estudios, las memorias de cálculo, el anteproy
 
 Para estos casos será factible, si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, órgano desconcentrado, delegación o entidad, y lo establecerá desde las bases.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 41.
 
@@ -914,7 +946,7 @@ Las dependencias, órganos desconcentrados, delegaciones o entidades también ve
 
 Hecha la evaluación de las propuestas, se elegirá como ganadora aquélla que reúna las condiciones legales, técnicas, económicas, financieras y administrativas requeridas por la dependencia, órgano desconcentrado, delegación o entidad convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 Si resultare que dos o más propuestas reúnen las condiciones legales, técnicas, económicas, financieras y administrativas y, por tanto, satisfacen la totalidad de los requerimientos de la dependencia, órgano desconcentrado, delegación o entidad convocante, se elegirá como ganadora aquella que:
 
@@ -928,13 +960,13 @@ III. En el caso de proyecto integral, presente el índice más conveniente produ
 
 La dependencia, órgano desconcentrado, delegación o entidad emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de las desechadas.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 42.
 
 (DEROGADO, G.O. 15 DE SEPTIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 43.
 
@@ -962,7 +994,9 @@ a) En el caso de obra, por unidad de concepto de trabajo terminado;
 
 b) En el caso de servicios relacionados con la obra pública, por unidad de concepto de servicio realizado;
 
-II. A precio alzado, en cuyo caso el importe del pago total fijo que deba cubrirse al contratista será por ministraciones que se establecerán en el contrato, en función de avances o actividades terminadas. Las propuestas que presenten los contratistas en este caso, tanto en los aspectos técnicos como económicos, deberán estar desglosados por actividades principales.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+II. A precio alzado, en cuyo caso el importe del pago total fijo que deba cubrirse al contratista será por ministraciones que se establecerán en el contrato, en función de avances de trabajos realizados o de actividades o subactividades terminadas. Las propuestas que presenten los contratistas en este caso, tanto en los aspectos técnicos como económicos, deberán estar desglosados por actividades principales y subactividades.
 
 Los contratos a precio alzado no podrán ser modificados en monto o plazo, ni estarán sujetos a ajustes de costos.
 
@@ -992,7 +1026,9 @@ IV. El porcentaje del, o de los anticipos, que en su caso se otorguen para inici
 
 V. La forma y términos de garantizar la correcta inversión del, o de los anticipos, y el cumplimiento del contrato;
 
-VI. Los plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados, así como de los ajustes de costos, en su caso;
+> <small>(REFORMADA, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+VI. Los plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados o ministraciones para el supuesto de los contratos a precio alzado, así como de los ajustes de costos, en su caso;
 
 VII. El establecimiento de penas convencionales;
 
@@ -1044,11 +1080,11 @@ Los concursantes con los cuales se contrate la ejecución de la obra pública po
 
 Los contratistas están obligados a presentar la póliza y el contrato de seguro de responsabilidad civil por daños a terceros, dentro de los cinco días hábiles siguientes a la fecha de la firma del contrato, por el monto que se establezca en las bases correspondientes.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 48.
 
-Los derechos y obligaciones que se deriven de los contratos de obra no podrán cederse en forma parcial o total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia, órgano desconcentrado, delegación o entidad de que se trate.
+Los derechos y obligaciones que se deriven de los contratos de obra no podrán cederse en forma parcial o total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados o ministraciones para el caso de los contratos a precio alzado, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia, órgano desconcentrado, delegación o entidad de que se trate.
 
 ### Capítulo V. De la Ejecución de los Contratos de Obras Públicas
 
@@ -1074,7 +1110,7 @@ Los concursantes deberán considerar en su propuesta, la repercusión que tienen
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-II. Se otorgarán anticipos para los convenios que se celebren en términos del artículo 56 hasta por el veinte por ciento para compra o adquisición de materiales en caso de obra o proyecto, excepto para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate. En casos especiales, y después de la justificación adecuada por parte de la contratante, este porcentaje podrá ser mayor, siempre que el Jefe de Gobierno lo autorice específicamente, y (sic)
+II. Se otorgarán anticipos para los convenios que se celebren en términos del artículo 56 hasta por el veinte por ciento para compra o adquisición de materiales en caso de obra o proyecto, excepto para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate. En casos especiales, y después de la justificación adecuada por parte de la contratante, este porcentaje podrá ser mayor, siempre que el Jefe de Gobierno lo autorice específicamente, y
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1092,7 +1128,7 @@ En el caso de contratos en que se pacte la entrega de los anticipos en varias ex
 
 Los trabajos podrán iniciarse antes de la entrega de los anticipo (sic), si así lo acuerda la contratante con la contratista.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 50.
 
@@ -1114,7 +1150,15 @@ Cuando la contratista varíe en cantidad sus recursos programados, será bajo su
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones presentadas por la supervisora para trámite de pago, deberá ser autorizada por la residencia de la obra de la dependencia, órgano desconcentrado, delegación o entidad, previa verificación de la existencia física de la obra o de los servicios contratados, así como de la presentación de la documentación que acredite la procedencia del pago. Lo anterior sin perjuicio de las demás funciones que para la residencia de la obra se establezcan en el Reglamento de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Quienes celebren contratos de supervisión de obra pública con la Administración Pública del Distrito Federal, por el incumplimiento de sus obligaciones contractuales, serán responsables con los contratistas supervisados, de los daños que se ocasionen al Distrito Federal, en los términos que se pacten en los Contratos, y con base en lo dispuesto en esta Ley, su reglamento y las Normas de Construcción de la Administración Pública del Distrito Federal, hasta por un monto igual al de su contrato de supervisión, lo anterior, con independencia de las penas convencionales, garantías que deban hacerse efectivas y otro tipo de responsabilidades en que puedan incurrir.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+La Secretaría de Obras y Servicios, verificará que las personas físicas o morales de supervisión de obra pública, cumplan con los requisitos exigidos para su registro, entre los cuales se exigirá que: cuenten con experiencia comprobable en términos de esta ley y su reglamento, no se encuentre en los supuestos del artículo 37 de esta Ley; y, estar certificadas por el organismo o colegio de profesionales legalmente acreditados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 51.
 
@@ -1126,17 +1170,35 @@ II. En caso de servicios relacionados con la obra pública, si es un inmueble do
 
 III. En el caso de proyecto integral, se aplicará lo señalado en la Fracción I de este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 52.
 
-Las estimaciones de trabajos ejecutados se presentarán por el contratista a la dependencia, órgano desconcentrado, delegación o entidad por períodos máximos mensuales, acompañadas de la documentación que acredite la procedencia de su pago. Para este efecto, las dependencias, órganos desconcentrados, delegaciones o entidades deberán fijar la fecha de corte.
+Las estimaciones de trabajos ejecutados, ministraciones de avances de trabajos realizados, o bien de actividades o subactividades terminadas en el supuesto de los contratos a precio alzado, se presentarán por el contratista a la dependencia, órgano desconcentrado, delegación o entidad por periodos máximos mensuales, acompañadas de la documentación que acredite la procedencia de su pago. Para este efecto, las dependencias, órganos desconcentrados, delegaciones o entidades deberán fijar la fecha de corte.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-Las estimaciones de los trabajos ejecutados deberán pagarse por parte de la dependencia, órgano desconcentrado, delegación o entidad, bajo su responsabilidad, dentro de un plazo no mayor de veinte días hábiles, contados a partir de la fecha en que las hubiere autorizado la residencia de supervisión de la obra pública de que se trate.
+Las estimaciones de los trabajos ejecutados o ministraciones para el supuesto de los contratos a precio alzado deberán iniciarse para su pago por parte de la dependencia, órgano desconcentrado, delegación o entidad, bajo su responsabilidad, dentro de un plazo no mayor de veinte días hábiles, contados a partir de la fecha en que las hubiere autorizado la residencia de la obra pública de que se trate.
 
 Las diferencias técnicas o numéricas surgidas en la revisión de una estimación, no resueltas, se incorporarán una vez conciliadas en el periodo de la estimación siguiente o siguientes, haciendo referencia al periodo de su ejecución. Entre tanto, quedará pendiente el pago de los valores en proceso de conciliación.
+
+> <small>(ADICIONADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Los documentos que deberán acompañarse a cada estimación o ministración serán determinados por cada dependencia, órgano desconcentrado, delegación o entidad, atendiendo a las características, complejidad y magnitud de los trabajos, los cuales serán, como mínimo, los siguientes:
+
+I. Números generadores;
+
+II. Notas de Bitácora;
+
+III. Croquis;
+
+IV. Controles de calidad, pruebas de laboratorio y fotografías;
+
+V. Análisis, cálculo e integración de los importes correspondientes a cada estimación;
+
+VI. Avances de obra, y
+
+VII. Informe del cumplimiento de la operación y mantenimiento conforme al programa de ejecución convenido, tratándose de amortizaciones programadas.
 
 ###### Artículo 53.
 
@@ -1170,11 +1232,11 @@ El ajuste de costos que corresponda a los trabajos ejecutados conforme las estim
 
 Los ajustes de costos podrán presentarse una vez que se cuente con todos los precios unitarios o al momento de liquidar los contratos.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 55.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, órgano desconcentrado, delegación o entidad, a solicitud del contratista, deberá pagar gastos financieros de acuerdo con una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas, y se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
+En caso de incumplimiento en los pagos de estimaciones o ministraciones, la dependencia, órgano desconcentrado, delegación o entidad, a solicitud del contratista, deberá pagar gastos financieros de acuerdo con una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas, y se computarán por días de calendario desde que se venció el plazo, hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1252,7 +1314,7 @@ Quedarán a salvo los derechos de las dependencias órganos desconcentrados, del
 
 El contratista será el único responsable de la ejecución de los trabajos en los términos del contrato respectivo, y deberá sujetarse a todos los reglamentos, normas técnicas y ordenamientos de las autoridades competentes en materia de construcción, seguridad y uso de la vía pública, así como a las disposiciones establecidas al efecto por la dependencia, órgano desconcentrado, delegación o entidad contratante. Las responsabilidades y los daños y perjuicios que resulten a terceros por su inobservancia, serán a cargo del contratista.
 
-> <small>(REFORMADO, PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 60.
 
@@ -1276,7 +1338,7 @@ En la ejecución de la obra pública con personal de la estructura de su organiz
 
 ### Capítulo Único
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 61.
 
@@ -1284,7 +1346,7 @@ En los supuestos y con sujeción a las formalidades que prevén los artículos 6
 
 En estos casos se deberá dar aviso a la Contraloría para su intervención.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 La preferencia que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de eficacia, eficiencia, economía, imparcialidad y honradez, de manera que aseguren las mejores condiciones para la Administración Pública del Distrito Federal. En el dictamen a que se refiere el artículo 41 se deberá acreditar, de entre los criterios mencionados, aquéllos en que se funda la preferencia, y contendrá además:
 
@@ -1302,7 +1364,7 @@ IV. En forma explícita, las razones sociales, técnicas, legales, económicas, 
 
 De las operaciones que se realicen conforme lo señalado en el Artículo 63, los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades, a más tardar el último día hábil de cada mes, enviarán a la Secretaría de Finanzas y a la Contraloría el informe de las operaciones autorizadas en el mes calendario inmediato anterior, acompañando copia de su dictamen correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 62.
 
@@ -1318,7 +1380,7 @@ La suma de las operaciones que se realicen al amparo de este Articulo, y por con
 
 En casos excepcionales se podrá exceder el porcentaje señalado en el párrafo anterior, siempre que las operaciones sean aprobadas previamente y de manera indelegable por los titulares de las dependencias órganos desconcentrados, delegaciones y entidades y que sean reportados detalladamente en el informe a que se refiere el Artículo 61. La aprobación del titular será específica para cada caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 63.
 
@@ -1364,7 +1426,7 @@ XII. Se trate de proyectos urbanos, arquitectónicos, estructurales o artístico
 
 XIII. Se trate de obra pública o servicios relacionados con la misma, cuya ejecución deba ir acompañada de medidas de seguridad especiales;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 XIV. Se trate de investigaciones, consultorías, proyectos u otro tipo de apoyos técnicos que por su elevado nivel de especialidad y grado de complejidad, el proceso de licitación pública, a juicio de la dependencia, órgano desconcentrado, delegación o entidad no sea idóneo para garantizar a la Administración Pública del Distrito Federal las mejores condiciones.
 
@@ -1506,7 +1568,7 @@ La responsabilidad administrativa en que se incurra con motivo del incumplimient
 
 ### Capítulo I. De las Aclaraciones de los Actos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 72.
 
@@ -1566,7 +1628,7 @@ El órgano interno de control correspondiente, de oficio o en atención a las so
 
 La dependencia, órgano desconcentrado, delegación o entidad y los terceros perjudicados en su caso, proporcionarán al órgano interno de control correspondiente la información requerida para sus investigaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 En el caso de investigaciones iniciadas de oficio, el órgano interno de control, bajo su responsabilidad, podrá suspender los procedimientos cuando:
 
@@ -1586,7 +1648,7 @@ II. La nulidad total del procedimiento, o
 
 III. La declaración de improcedencia de la aclaración.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ### Capítulo II. Del Procedimiento de Conciliación
 
@@ -1668,7 +1730,7 @@ Salón de Sesiones de la Asamblea Legislativa del Distrito Federal, I Legislatur
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de noviembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SÓLORZANO.- RÚBRICA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RÚBRICA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- RÚBRICA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- RÚBRICA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- RÚBRICA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- RÚBRICA.- LA SECRETARIA DE EDUCACIÓN, SALUD Y DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- RÚBRICA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTÍZ SALINAS.- RÚBRICA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, JORGE MARTÍNEZ Y ALMARAZ.- RÚBRICA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ALEJANDRO GERTZ MANERO.- RÚBRICA.- EL SECRETARIO DE TURISMO, AGUSTÍN ARROYO LEGASPI.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 11 DE MARZO DE 2003.
 
@@ -1683,3 +1745,9 @@ CUARTO.- El titular del órgano ejecutivo local, deberá realizar las modificaci
 G.O. 15 DE SEPTIEMBRE DE 2008.
 
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
