@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-sobre-adquisiciones-enajenaciones-arrendamientos-650
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2013-11-13"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIONES DE SERVICIOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre del 2008.
 
@@ -885,7 +887,7 @@ IV. Las personas físicas o morales que deseen adquirir los bienes sujetos a la 
 
 V. Las posturas iniciales que presenten los participantes, deberán garantizarse mediante depósito constituido en la Dirección Ejecutiva de Administración y Financiamiento del IEE, que ampare el 10% del importe total del valor mínimo establecido, depósitos que serán devueltos al concluir la subasta, con excepción de los que correspondan a los postores favorecidos por la adjudicación, los que se conservarán como garantía para el cumplimiento de la obligación y, en su caso, como parte del precio de venta;
 
-VI. El Comité dictaminará la adjudicación definitiva para lo que tomarán como base el resultado de la subasta; y (sic)
+VI. El Comité dictaminará la adjudicación definitiva para lo que tomarán como base el resultado de la subasta; y
 
 VII. El monto de la enajenación no podrá ser inferior a los precios mínimos fijados por el perito valuador.
 
@@ -1048,3 +1050,13 @@ P.O. 13 DE NOVIEMBRE DE 2013.
 PRIMERO: Las modificaciones a los artículos 3, 4, primer párrafo, 5, primer párrafo, 10, 13, 14, primer párrafo, 20, primer párrafo, 21, fracciones I, VI, del primer párrafo, y último párrafo, 22, párrafos primero y último, 24, fracción II, 29, 30, primer párrafo, 32, tercer párrafo, fracción X, 33, primer párrafo, 45, primer párrafo, 57, segundo párrafo, 58, segundo párrafo, 59, primer párrafo, fracción V y adición de la fracción IX, incisos a), b), c) y d), 62, primer párrafo, 65, 66 y 68, primer y último párrafo, del presente Reglamento, entrarán en vigor a partir de la fecha de su aprobación por el Consejo Estatal Electoral, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
 
 SEGUNDO: Publíquese las modificaciones a los artículos antes citados, en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente Reglamento sobre adquisiciones, enajenaciones, arrendamientos y prestación de servicios del Instituto Morelense de Procesos Electorales y Participación Ciudadana entrará en vigor al día siguiente de su aprobación por el Consejo Estatal Electoral.
+
+Segundo. Se abroga el Reglamento sobre adquisiciones, enajenaciones, arrendamientos y prestación de servicios del Instituto Estatal Electoral, aprobado el día veintisiete de noviembre del año dos mil ocho.
+
+Tercero. Todas las referencias al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se entenderán como propias del Instituto Estatal Electoral hasta el cumplimiento de la disposición transitoria quinta del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+Cuarto. Una vez aprobado el presente Reglamento deberá publicarse en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
