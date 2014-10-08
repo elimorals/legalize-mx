@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2014-06-16"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -699,7 +699,9 @@ XII. En coordinación con los organismos competentes, promover la innovación, d
 
 XIII. Coordinar y armonizar el ejercicio de las incubadoras y aceleradoras de negocios establecidas en el Estado, para generar sinergias orientadas a la creación de empresas de base tecnológica competitivas, basadas en la capacidad de emprender y en la disponibilidad de capital intelectual y de innovación;
 
-XIV. Establecer y coordinar la operación del Sistema Estatal de Incubación de Empresas;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XIV. Coordinar la operación del Sistema Estatal del Emprendedor;
 
 XV. Fomentar y coordinar el funcionamiento de la Comisión Estatal de Competitividad, entre los Gobiernos Federal, Estatal y Municipales, así como promover e incentivar la cooperación de los sectores públicos y privados para la planeación, control y evaluación de los programas y proyectos relacionados con la competitividad;
 
@@ -749,9 +751,17 @@ XXXV. Presidir los comités técnicos, comisiones y órganos de fomento establec
 
 XXXVI. Proponer y establecer el marco de actuación y normatividad de los centros de atención al sector productivo y en coordinación con la Secretaría de Finanzas y Planeación y la Oficialía Mayor del Estado, la creación o modificación de las unidades administrativas, organismos auxiliares del sector que se consideren necesarios para el incremento de las actividades que contribuyan al desarrollo económico del Estado;
 
-XXXVII. Establecer y atender ventanillas y centros de gestión, fomento económico y de competitividad, que se instalen en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XXXVIII. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
+XXXVII. Establecer y atender ventanillas y centros de gestión, fomento económico y de competitividad, que se instalen en las distintas Cámaras, Asociaciones, Colegios y Banca de Desarrollo;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXXVIII. Instrumentar, ejecutar y coordinar la política estatal de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su innovación, competitividad y proyección en los mercados estatal, nacional e internacional, para aumentar su contribución al desarrollo económico y bienestar social, así como coadyuvar al desarrollo de políticas que fomenten la cultura y productividad empresarial en el Estado de Quintana Roo, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXXIX. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
 
 ###### ARTÍCULO 38.
 
@@ -1448,3 +1458,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor a 90 días hábiles el Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la instancia competente, deberá realizar las previsiones y adecuaciones administrativas necesarias, para el debido ejercicio y cumplimiento de la facultad establecida en el Artículo 37 fracción XXXVIII de esta ley.
