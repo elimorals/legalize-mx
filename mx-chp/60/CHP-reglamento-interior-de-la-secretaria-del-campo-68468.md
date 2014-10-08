@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-del-campo-68468"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL CAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL CAMPO, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2008.
 
@@ -1416,3 +1418,19 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veinticinco días del mes de noviembre de dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario de Gobierno, Sergio Ernesto Gutiérrez Villanueva, Secretario del Campo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El Presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría del Campo, Publicación número 1015-A-2008-C, del Periódico Oficial número 135, 2ª. Sección-2ª. Parte, Tomo III, de fecha 31 de diciembre de 2008, así como las disposiciones que del mismo emanen; y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto de las funciones de los diversos Órganos Administrativos y demás actividades del personal, se estará a lo dispuesto por el Manual de Organización, el cual, deberá expedirse en un plazo no mayor de noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Quinto.- La Secretaría deberá controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Sexto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior, en el Periódico Oficial.
