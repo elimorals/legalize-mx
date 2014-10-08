@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2013-12-18"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -33,7 +33,7 @@ MTRO. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y
 
 Que el Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, .
+LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, ...
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -703,7 +703,11 @@ XXV. Apoyar las actividades del Consejo Estatal y promover la formación y conso
 
 XXVI. Para efecto de los Programas para el Desarrollo Rural Sustentable, actualizar periódicamente la estratificación de marginalidad de las comunidades en coordinación con el Consejo Estatal de Población.
 
-XXVII. Las demás que le confieran las leyes.
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXVII. Habilitar laboratorios al servicio de productores agrícolas de Morelos, para análisis de fertilidad del suelo, de diagnósticos bacteriológicos, diagnóstico nutrimental, microbiológico y de residuos de plaguicidas, bajo los lineamientos que establece la Ley Federal de Sanidad Vegetal.
+
+XXVIII. Las demás que le confieran las leyes.
 
 ###### Artículo 41.
 
@@ -817,9 +821,11 @@ Para incentivar productores en zonas marginadas y/o de bajos ingresos se impulsa
 
 La Secretaría fortalecerá, con apoyo de las instituciones de investigación y del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la legislación federal, promoverá el uso de la información técnica que permita la formación, actualización y adopción por parte de los productores.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Con la intención de disminuir los niveles de contaminación a productos agrícolas y al ambiente, se impulsará un esquema de concesiones y estímulos en apoyo al uso racional y tratamiento de agua, agroquímicos, manejo de suelos y de desechos en áreas rurales productivas, bajo la coordinación de las autoridades ambientales y sanitarias competentes.
+Con la intención de disminuir los niveles de contaminación a productos agrícolas y al ambiente, se impulsará un esquema de concesiones y estímulos en apoyo al uso racional y tratamiento de agua, agroquímicos, manejo de suelos y de desechos en áreas rurales productivas, así como módulos especializados para brindar el servicio de diagnóstico nutrimental, microbiológico y de residuos de plaguicidas, bajo la coordinación de las autoridades ambientales y sanitarias competentes.
 
 ### CAPÍTULO II. DEL DESARROLLO GANADERO
 
@@ -1483,7 +1489,7 @@ JORGE MORALES BARUD
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
@@ -1520,3 +1526,11 @@ PRIMERO.- Remítase el presente Decreto al Titular del Ejecutivo del Estado, par
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial, “Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- En un plazo no mayor de 90 días, el Ejecutivo del Estado deberá realizar las reformas pertinentes al Reglamento de la Ley de Desarrollo Rural Sustentable del Estado de Morelos, en relación a las modificaciones realizadas.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
