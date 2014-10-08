@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-09-30"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -791,9 +791,9 @@ El Instituto Electoral de Quintana Roo, contará en su estructura con órganos d
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-El Tribunal Electoral del (sic) Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, unos (sic) de los cuales fungirá como Presidente. Así mismo habrá dos Magistrados Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. El Tribunal contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo.
+El Tribunal Electoral del (sic) Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Tendrá a su cargo actividades relacionadas con la capacitación e investigación jurídico-electoral, promoción de la cultura política y democrática, las cuales deberá realizar a través de la Unidad de Capacitación e Investigación, en los términos que disponga la ley de la materia. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, unos (sic) de los cuales fungirá como Presidente. Así mismo habrá dos Magistrados Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. El Tribunal contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo;
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -4498,3 +4498,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en 
 P.O. 30 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
