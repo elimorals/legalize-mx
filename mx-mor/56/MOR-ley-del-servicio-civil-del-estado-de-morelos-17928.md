@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2014-07-23"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -33,7 +33,7 @@ JORGE ARTURO GARCÍA RUBÍ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERAN
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 40 FRACCIÓNES II Y XX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
+LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 40 FRACCIONES II Y XX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
 
 C O N S I D E R A N D O.
 
@@ -65,7 +65,7 @@ Con esta última reseña histórica nos trasladamos al ámbito local, y así ten
 
 El ordenamiento que rige la relación laboral entre Gobierno y sus trabajadores en el Estado, sin duda constituyó un paso firme en su época y rompió con la incertidumbre de si al servidor público debía protegérseles sus derechos como trabajador; sin embargo debe tomarse muy en cuenta que esta Ley se expide antes que la reforma constitucional de 1960, 10 años antes; en consecuencia y ante la necesidad de proporcionar seguridad jurídica a los derechos y obligaciones de trabajadores al servicio de los poderes estatal y municipal y sus relaciones entre éstos y para dar congruencia a la norma y sus sujetos con la realidad laboral que se vive en el Estado, se requiere ajustar la Ley que rige a los servidores públicos en el Estado, a los principios consagrados en la reforma federal de 1960.
 
-REFLEXION CONSTITUCIONAL
+REFLEXIÓN CONSTITUCIONAL
 
 Los actores políticos reconocemos que la declaración de los derechos individuales del hombre, heredados en nuestras luchas del siglo XIX por la libertad, y la declaración de los derechos sociales del trabajo y del campesino, integran los derechos humanos reconocidos y garantizados por el pueblo en su Constitución, derechos intocables por los gobiernos, no sólo por su origen, sino porque los poderes ejecutivo, legislativo y judicial nos debemos y somos obra del mismo pueblo, quien nos encomendó velar por la efectividad de esos derechos.
 
@@ -361,7 +361,7 @@ XII.- Por falta comprobada de cumplimiento al servicio;
 
 XIII.- Por prisión que sea resultado de una sentencia ejecutoriada;
 
-XIV.- Por pérdida de la confianza; y (sic)
+XIV.- Por pérdida de la confianza; y
 
 (NOTA 1: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO, SEGÚN CORRESPONDA, DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 89/2008, 90/2008, 91/2008 Y 92/2008, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE DICIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHAS SENTENCIAS PUEDEN SER CONSULTADAS EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -411,15 +411,17 @@ Cuando por circunstancias especiales se aumenten las horas de jornada máxima, e
 
 Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario integro.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 32.
 
 Serán días de descanso obligatorio los siguientes:
 
 1 enero;
 
-5 febrero;
+El primer lunes de febrero, en conmemoración del 5 de febrero;
 
-21 marzo;
+El tercer lunes de marzo, en conmemoración del 21 de marzo;
 
 10 abril;
 
@@ -429,7 +431,7 @@ Serán días de descanso obligatorio los siguientes:
 
 1 y 2 noviembre;
 
-25 diciembre y los que determinen las Leyes federales y locales, así como en los casos de elecciones ordinarias federales y locales para participar en la jornada electoral.
+25 diciembre y los que determinen las Leyes Federales y Locales, así como en los casos de elecciones ordinarias federales y locales para participar en la jornada electoral.
 
 ###### Artículo 33.
 
@@ -445,13 +447,17 @@ Los trabajadores tienen derecho a una prima no menor del veinticinco por ciento 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 35.
 
-El salario o sueldo es la retribución pecuniaria que se paga al trabajador a cambio de los servicios prestados. Se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por su trabajo, siempre y cuando sean permanentes.
+El salario o sueldo es la retribución pecuniaria que se paga al trabajador a cambio de los servicios prestados, debiendo garantizar la igualdad entre mujeres y hombres. Se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad o prestación que se entregue al trabajador por su trabajo, siempre y cuando sean permanentes.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 36.
 
-El salario será fijado libremente por el Gobierno del Estado o los Municipios en el presupuesto de egresos. Será uniforme para los trabajadores de una misma categoría.
+El salario, será fijado libremente por el Gobierno del Estado o los Municipios, en el presupuesto de egresos. Será uniforme para los trabajadores de una misma categoría, sin distinción de género.
 
 ###### Artículo 37.
 
@@ -507,47 +513,89 @@ Dado que por la naturaleza de su función, al ser depositarios de un poder u ost
 
 ### CAPÍTULO I. DE LOS DERECHOS DE LOS TRABAJADORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 43.
 
-Los trabajadores de base del Gobierno del Estado y de los Municipios tendrán derecho a:
+Los trabajadores del Gobierno del Estado y de los Municipios tendrán derecho a:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 I.- Percibir el salario asignado en el presupuesto anual de egresos para el cargo que desempeñan;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
 II.- Conservar el empleo, el cargo o comisión de los que sean titulares, mientras no incurran en algunas de las causas de separación que señala la presente Ley;
 
-III.- Ser ascendido en los términos del escalafón;
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-IV.- Disfrutar de licencias y vacaciones;
+III.- Disfrutar de un buen entorno laboral, con independencia de la relación de las personas involucradas, sin que se atente en contra de la autoestima, salud, integridad, libertad, seguridad y desempeño en el trabajo.
 
-V.- Disfrutar de los beneficios de la seguridad social que otorgue la Institución con la que el Gobierno o los Municipios hayan celebrado convenio;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-VI.- Disfrutar de los beneficios que otorgue el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado, en su caso;
+IV.- Ser ascendido en los términos del escalafón;
 
-VII.- La evaluación de su desempeño laboral y el otorgamiento de estímulos y recompensas que se otorguen conforme a lo dispuesto en el reglamento que los rige;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-VIII.- La capacitación permanente para elevar sus condiciones de vida y eficiencia en la prestación del servicio;
+V.- Disfrutar de licencias y vacaciones;
 
-IX.- La justificación de sus faltas de asistencia dentro de los plazos y conforme a los procedimientos establecidos en el reglamento que rige;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-X.- Obtener traslado, permuta, reubicación, reasignación o cambio de adscripción, mediante solicitud por escrito y previa verificación de su viabilidad, justificación y autorización, por problemas de salud o cuestiones personales que lo justifiquen;
+VI.- Disfrutar de los beneficios de la seguridad social que otorgue la Institución con la que el Gobierno o los Municipios hayan celebrado Convenio;
 
-XI.- Tener conocimiento de las causas de traslado, comisión o remoción;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XII.- La reinstalación en su puesto o algún otro equivalente, en los casos de ausencia por enfermedad, licencia sin goce de salario o comisiones sindicales;
+VII.- Disfrutar de los beneficios que otorgue el Instituto de Crédito para los (sic)
 
-XIII.- Pensión por jubilación, por cesantía en edad avanzada y por invalidez;
+Trabajadores al Servicio del Gobierno del Estado, en su caso;
 
-XIV.- Pensión a los beneficiarios del trabajador fallecido;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-XV.- Seguro de vida;
+VIII.- La evaluación de su desempeño laboral y el otorgamiento de estímulos y recompensas que se otorguen conforme a lo dispuesto en el Reglamento que los rige;
 
-XVI.- La percepción hasta por el importe de doce meses de salario mínimo general, a los familiares del trabajador fallecido por concepto de apoyo para gastos funerales;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-XVII.- Los útiles, instrumentos y materiales necesarios para la realización del trabajo; y
+IX.- La capacitación permanente para elevar sus condiciones de vida y eficiencia en la prestación del servicio;
 
-XVIII.- Las demás que les confieran otras Leyes.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+X.- La justificación de sus faltas de asistencia dentro de los plazos y conforme a los procedimientos establecidos en el reglamento que rige;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XI.- Obtener traslado, permuta, reubicación, reasignación o cambio de adscripción, mediante solicitud por escrito y previa verificación de su viabilidad, justificación y autorización, por problemas de salud o cuestiones personales que lo justifiquen;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XII.- Tener conocimiento de las causas de traslado, comisión o remoción;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XIII.- La reinstalación en su puesto o algún otro equivalente, en los casos de ausencia por enfermedad, licencia sin goce de salario o comisiones sindicales;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XIV.- Pensión por Jubilación, por Cesantía en Edad Avanzada y por Invalidez;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XV.- Pensión a los beneficiarios del trabajador fallecido;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XVI.- Seguro de vida;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XVII.- La percepción hasta por el importe de doce meses de salario mínimo general, a los familiares del trabajador fallecido por concepto de apoyo para gastos funerales;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XVIII.- Los útiles, instrumentos y materiales necesarios para la realización del trabajo; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+
+XIX.- Las demás que les confieran otras Leyes.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -561,7 +609,13 @@ Son obligaciones de los trabajadores del Estado y de los Municipios:
 
 I.- Desempeñar sus labores con el cuidado y esmero apropiados, sujetándose a la dirección de sus jefes y a las Leyes y reglamentos respectivos;
 
-II.- Conducirse con amabilidad, rectitud, respeto e imparcialidad con sus superiores, compañeros y subordinados;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+II.- Conducirse con amabilidad, rectitud, respeto e imparcialidad sin intimidación o acoso laboral, que pueda ser de manera verbal, no verbal y/o físico, que tenga como propósito el atentar contra la dignidad, capacidad y desempeño profesional de sus superiores, compañeros y subordinados, en el ámbito laboral.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Entendiéndose como agresión verbal a la tendencia o conducta hostil o destructiva, utilizándose para intimidar o coaccionar, el resultado a esta agresión es el daño a la persona a la que se dirige.
 
 III.- En caso de enfermedad, dar el aviso correspondiente a la dependencia de su adscripción, en los términos que señale su reglamento;
 
@@ -593,9 +647,11 @@ XV.- Las demás que le señalen otras disposiciones legales aplicables.
 
 LOS MUNICIPIOS CON SUS TRABAJADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 45.
 
-Los Poderes del Estado y los Municipios están obligados con sus trabajadores a:
+Los Poderes del Estado y los Municipios, están obligados con sus trabajadores a:
 
 I.- Cumplir con las disposiciones de la presente Ley;
 
@@ -619,7 +675,9 @@ X.- Hacer los descuentos que soliciten los sindicatos siempre que se ajusten a l
 
 XI.- Dar a conocer a la comisión mixta de escalafón, las vacantes definitivas que se presenten dentro de los diez días siguientes en que surta efectos legales la baja o se apruebe oficialmente la creación de plazas de base;
 
-XII.- Preferir en igualdad de condiciones a los trabajadores sindicalizados, respecto de los que no lo estuvieran, así como los que con anterioridad hubieran prestado satisfactoriamente servicios al Gobierno del Estado o a los Municipios;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XII.- Preferir en igualdad de condiciones y de género a los trabajadores sindicalizados, respecto de los que no lo estuvieran, así como los que con anterioridad hubieran prestado satisfactoriamente servicios al Gobierno del Estado o a los Municipios;
 
 XIII.- Aceptar los laudos que dicte la autoridad competente. En los casos de supresión de plazas o reestructuración de la dependencia, los trabajadores afectados tendrán derecho a que se les otorgue una indemnización por el importe de 90 días de salario, siempre y cuando no se utilicen sus servicios en la nueva estructura.
 
@@ -1389,6 +1447,12 @@ El Tribunal Estatal de Conciliación y Arbitraje será competente para conocer d
 
 El procedimiento ante el Tribunal Estatal de Conciliación y Arbitraje se iniciará con la demanda, que podrá ser escrita o verbal, la contestación se hará en igual forma y en una sola audiencia, previa conciliación, se dará contestación a la demanda, se desahogarán las pruebas, formularán alegatos y se dictará el laudo, salvo el caso en que sean necesarias diligencias posteriores.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 115 Bis.
+
+Las partes, en su escrito inicial o primera comparecencia, deberán señalar domicilio para oír y recibir notificaciones, dentro del lugar de residencia del Tribunal Estatal de Conciliación y Arbitraje; en caso de no hacerlo, las notificaciones aun las de carácter personal, se harán por boletín o por estrados, en tanto no se señale nuevo domicilio procesal.
+
 ###### Artículo 116.
 
 A la demanda y a la contestación se acompañarán las pruebas en que se funden y los documentos que acrediten la personalidad.
@@ -1400,6 +1464,10 @@ El Tribunal Estatal de Conciliación y Arbitraje, dentro de las veinticuatro hor
 ###### Artículo 118.
 
 Los servidores públicos del Gobierno del Estado o de los Municipios podrán hacerse representar por apoderados que acreditarán ese carácter mediante simple oficio.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Los apoderados legales de las partes, deberán acreditar ser Licenciados en Derecho, con cédula profesional o carta de pasante vigente, expedida por la autoridad competente.
 
 ###### Artículo 119.
 
@@ -1654,3 +1722,43 @@ P.O. 23 DE JULIO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1548 POR EL QUE SE ADICIONA UN ARTICULO 115 BIS, A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, “Tierra y Libertad”, Órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1649 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 40 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1650 POR EL QUE SE REFORMA EL ARTÍCULO 32, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1651 POR EL QUE SE REFORMAN LOS ARTÍCULOS 35, 36 Y LA FRACCIÓN XII DEL ARTICULO 45 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS.
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 1652 POR EL QUE SE ADICIONAN UNA FRACCIÓN III AL ARTICULO 43, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, SE REFORMA LA FRACCIÓN II, Y SE ADICIONA UN PÁRRAFO A LA MISMA DEL ARTÍCULO 44, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS.
+
+Primero.- Remítase al Titular del Poder Ejecutivo para los efectos legales que se refieren los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
