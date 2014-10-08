@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2014-07-23"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -4029,9 +4029,9 @@ Al que para hacer efectivo su derecho empleare violencia, se le aplicará de tre
 
 Se aplicarán de tres a seis años de prisión al que favoreciere la evasión de algún detenido, procesado o sentenciado.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-Si quien incurre en este delito es el encargado de conducir o custodiar al prófugo, las sanciones serán de seis a quince años de prisión, destitución del encargo, así como la inhabilitación para desempeñar otro empleo, cargo o comisión públicos por el mismo tiempo señalado como pena privativa de libertad.
+Si quien incurre en este delito es el encargado de conducir o custodiar al prófugo o es servidor público que se desempeñe en cualquier establecimiento penitenciario o que por razones de su función pública se encuentra en el interior del mismo cualquiera que sea la circunstancia de su estancia, o no siendo servidor público tenga ingreso a un establecimiento penitenciario para la prestación de un servicio relacionado con el funcionamiento del mismo; sea por acción o por omisión, las sanciones serán de seis a quince años de prisión, destitución del cargo, en su caso, así como la inhabilitación para desempeñar otro empleo, cargo o comisión públicos por el mismo tiempo señalado como pena privativa de libertad.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -4660,3 +4660,9 @@ P.O. 23 DE JULIO DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
