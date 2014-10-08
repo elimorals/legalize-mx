@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-procedimiento-administrativo-para-el-estado-de-17530"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2013-06-26"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda al Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -43,9 +43,11 @@ LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden e interés público y de observancia general en el Estado de Morelos y tienen por objeto, establecer un procedimiento común para substanciar las impugnaciones de los particulares contra actos administrativos dictados o ejecutados por los Servidores Públicos de la Administración Pública Estatal o Municipal.
+Las disposiciones de esta Ley son de orden e interés público y de observancia general en el Estado de Morelos y tienen por objeto, regular los actos administrativos, así como establecer un procedimiento común para substanciar las impugnaciones de los particulares contra actos administrativos dictados o ejecutados por los Servidores Públicos de la Administración Pública Estatal o Municipal.
 
 En el caso de la Administración Pública Paraestatal o Paramunicipal, sólo podrá ser aplicada la presente Ley cuando se trate de actos de autoridad provenientes de organismos descentralizados que afecten la esfera jurídica de los particulares.
 
@@ -217,11 +219,15 @@ En caso de duda sobre la autenticidad de la firma, la autoridad administrativa p
 
 Las Autoridades Administrativas Estatales o Municipales tienen la obligación de dar contestación o de resolver las promociones presentadas por los interesados dentro de los plazos establecidos por esta Ley.
 
-A falta de plazo específico y siempre que la naturaleza del acto lo permita, la providencia deberá dictarse y notificarse dentro de los cinco días naturales siguientes a la fecha en que se haya presentado la promoción. Si las autoridades no notifican su decisión dentro de los plazos citados, se tendrán por contestadas en sentido afirmativo las pretensiones de los promoventes, sin perjuicio de la responsabilidad en que pudieran incurrir los servidores públicos por su inactividad.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+A falta de plazo específico en la ley o reglamento que regule el acto, y siempre que la naturaleza del acto lo permita, la providencia deberá dictarse y notificarse dentro de los cinco días naturales siguientes a la fecha en que se haya presentado la promoción. Si las autoridades no notifican su decisión dentro de los plazos citados, se tendrán por contestadas en sentido afirmativo las pretensiones de los promoventes, sin perjuicio de la responsabilidad en que pudieran incurrir los servidores públicos por su inactividad.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 17.
 
-Salvo que en las disposiciones específicas se establezca otro plazo, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad que deba resolver; igual constancia deberá expedirse cuando las disposiciones específicas prevean que, transcurrido el plazo aplicable, la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará la responsabilidad que resulte aplicable.
+Salvo que en las disposiciones específicas que rijan el acto se establezca un plazo, no podrá exceder de cuatro meses el tiempo para que la autoridad administrativa resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad que deba resolver; igual constancia deberá expedirse cuando las disposiciones específicas prevean que, transcurrido el plazo aplicable, la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará la responsabilidad que resulte aplicable.
 
 ###### ARTÍCULO 18.
 
@@ -968,3 +974,9 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
