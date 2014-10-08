@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-regimen-sancionador-electoral-del-estado-de-6505
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DEL REGIMEN SANCIONADOR ELECTORAL DEL ESTADO DE MORELOS
 
-REGLAMENTO DEL REGIMEN SANCIONADOR ELECTORAL DEL ESTADO DE MORELOS
+REGLAMENTO DEL RÉGIMEN SANCIONADOR ELECTORAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL RÉGIMEN SANCIONADOR ELECTORAL, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -461,7 +463,7 @@ a) No se hubiesen ofrecido o aportado pruebas ni indicios en términos del incis
 
 b) Tratándose de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político;
 
-c) Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo respecto al fondo y ésta no se haya impugnado ante la autoridad jurisdiccional correspondiente, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y (sic)
+c) Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo respecto al fondo y ésta no se haya impugnado ante la autoridad jurisdiccional correspondiente, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y
 
 d) Se denuncien actos de los que el Instituto resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones al Código;
 
@@ -479,7 +481,7 @@ Procederá el sobreseimiento de la queja o denuncia, cuando:
 
 a) Habiendo sido admitida la queja, sobrevenga alguna de las causales de improcedencia en términos del artículo 30 del presente Reglamento;
 
-b) El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro; y (sic)
+b) El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro; y
 
 c) El denunciante presente escrito de desistimiento que sea ratificado ante el Secretario Ejecutivo, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte del Consejo.
 
@@ -707,7 +709,7 @@ d) Con la orden del retiro inmediato de la propaganda gubernamental que se publi
 
 Cuando las autoridades Estatales o Municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto Estatal Electoral, se estará a lo siguiente:
 
-I. Conocida la infracción, el Instituto Estatal Electoral integrará un expediente que será remitido al superior jerárquico o a la instancia competente de la autoridad infractora, para que se proceda en los términos de las leyes aplicables. El superior jerárquico o la instancia a la que se refiere el párrafo anterior deberá comunicar al instituto las medidas que haya adoptado en el caso; y (sic)
+I. Conocida la infracción, el Instituto Estatal Electoral integrará un expediente que será remitido al superior jerárquico o a la instancia competente de la autoridad infractora, para que se proceda en los términos de las leyes aplicables. El superior jerárquico o la instancia a la que se refiere el párrafo anterior deberá comunicar al instituto las medidas que haya adoptado en el caso; y
 
 II. Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente código les impone, integrará un expediente que remitirá a la Secretaria de Gobierno, para que proceda en los términos de la legislación aplicable; esta última deberá comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
 
@@ -798,3 +800,15 @@ C. MAURICIO ARZAMENDI GORDERO
 PARTIDO NUEVA ALIANZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente Reglamento del Régimen Sancionador Electoral entrará en vigor al día siguiente de su aprobación por el Consejo Estatal Electoral.
+
+Segundo. Se abroga el Reglamento del Régimen Sancionador Electoral del Instituto Estatal Electoral, aprobado el día veintisiete de noviembre del año dos mil ocho.
+
+Tercero. Todas las referencias al Instituto Morelense de Procesos Electorales y Participación Ciudadana, se entenderán como propias del Instituto Estatal Electoral hasta el cumplimiento de la disposición transitoria quinta del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+Cuarto. Una vez aprobado el presente Reglamento deberá publicarse en el Periódico Oficial “Tierra y Libertad” órgano del Gobierno del Estado Libre y Soberano de Morelos.
