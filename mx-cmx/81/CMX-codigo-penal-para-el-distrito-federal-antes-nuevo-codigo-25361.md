@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2014-08-22"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2002-07-11"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2014 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -656,11 +654,9 @@ ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos,
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
-
-Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente a que se refieren los artículos 343, 343 bis, 344, 345, 345 bis y 346, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente a que se refieren los artículos 343, 343 bis, 344, 345, 345 bis y 346; Delitos cometidos por actos de maltrato o crueldad en contra de animales no humanos a que se refieren los artículos 350 Bis y 350 Ter, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ARTÍCULO 77 (Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo). La calificación de la gravedad de la culpa queda al prudente arbitrio del Juez, quien deberá considerar las circunstancias generales señaladas en el artículo 72 de este Código y las especiales siguientes:
 
@@ -3604,21 +3600,31 @@ Al que se atribuya públicamente el carácter de profesionista sin tener título
 
 ### CAPÍTULO IV. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
 
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-ARTÍCULO 350 BIS. Al que intencionalmente realice actos de maltrato o crueldad en contra de cualquier especie animal no humana, causándole lesiones evidentes, sin que pongan en peligro la vida del animal, se le impondrá de seis meses a dos años de prisión y de cincuenta a cien días multa.
+ARTÍCULO 350 BIS. Al que realice actos de maltrato o crueldad en contra de cualquier especie animal no humana, causándole lesiones de cualquier tipo sin que pongan en peligro la vida del animal, se le impondrá de seis meses a dos años de prisión y de cincuenta a cien días multa.
+
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
 
 Si las lesiones ponen en peligro la vida del animal no humano se incrementarán en una mitad las penas señaladas.
 
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
+
 Se entenderá para los efectos del presente título como animal, al organismo vivo, no humano, sensible, que no constituya plaga, que posee movilidad propia, y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie domestica o silvestre. Los animales abandonados, o callejeros no serán considerados plaga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 350 TER. Al que cometa actos de maltrato o crueldad en contra de cualquier especie animal no humana provocándole la muerte, se le impondrán de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo dispuesto por el artículo 54 de éste Código.
 
 > <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
 
-ARTÍCULO 350 TER. Al que intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal no humana provocándole la muerte, se le impondrán de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo dispuesto por el artículo 54 de éste Código.
-
 En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
 
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
+
 Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal.
+
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
 
 Por actos de maltrato o crueldad y lo relativo a éste capítulo, se estará a lo dispuesto en la Ley de Protección a los Animales del Distrito Federal.
 
@@ -4849,3 +4855,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
