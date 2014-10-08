@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-09-12"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -183,7 +183,9 @@ El Tribunal Pleno es el órgano supremo del Poder Judicial. Será coordinado por
 
 El Tribunal sesionará en Pleno ordinario con la periodicidad que acuerde éste y, extraordinariamente, cuando lo estime necesario el Presidente o lo soliciten tres de los Magistrados, previa convocatoria que al efecto emita el primero de los nombrados o por los solicitantes.
 
-Para que pueda sesionar el Pleno del Tribunal, se deberá contar con la concurrencia de la mayoría de los Magistrados que lo integran.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Para que pueda sesionar el Pleno del Tribunal, se deberá contar con la concurrencia de la mayoría de los Magistrados que lo integran; por lo que el Secretario General de Acuerdos del Pleno, al inicio de la sesión, deberá realizar el pase de lista correspondiente.
 
 Una vez iniciada la sesión, ninguno de los Magistrados presentes podrá retirarse sin autorización del Pleno.
 
@@ -197,6 +199,14 @@ En las sesiones del Tribunal se tomará conocimiento y resolverán los asuntos d
 
 Las sesiones del Pleno serán públicas, salvo que éste considere que por la naturaleza del asunto, deban ser privadas.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio del Presidente del Tribunal, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+El Secretario General de Acuerdos del Pleno deberá certificar el medio óptico o magnético en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de registro de acta y tomar las medidas necesarias para evitar que pueda alterarse.
+
 ###### Artículo 18.
 
 Las determinaciones del Tribunal Pleno se tomarán por unanimidad o mayoría de votos de los Magistrados presentes.
@@ -209,15 +219,21 @@ Ningún Magistrado de los presentes en las sesiones podrá abstenerse de votar.
 
 En las sesiones del Tribunal Pleno sólo tendrán intervención con voz y voto los Magistrados que lo integran, y podrán hacerlo en cualquier momento de su desarrollo, aun cuando no hubieren estado presentes durante la apertura.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 20.
 
-Las actas y determinaciones del Pleno serán firmadas por los Magistrados que intervinieron en la sesión en donde se originaron.
+En cada sesión, se levantará un acta mínima que, cuando menos, deberá contener:
 
-Las actas deberán contener, además:
+I. El lugar, la fecha, hora de inicio y término de la sesión que corresponde;
 
-I.- Una narración sucinta de todas las cuestiones abordadas y de las intervenciones individuales, así como de las determinaciones tomadas; y
+II. El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o no pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
 
-II.- Constancia del voto y los razonamientos de los Magistrados que hayan disentido, así como el sentido que a su juicio debió tener la determinación.
+III. Relación sucinta de todas las cuestiones abordadas y de las intervenciones individuales, así como de las determinaciones tomadas;
+
+IV. Constancia del voto y los razonamientos de los Magistrados que hayan disentido, así como el sentido que a su juicio debió tener la determinación, y
+
+V. La firma de los Magistrados que intervinieron en la sesión en donde se originaron.
 
 #### Sección Tercera. De las atribuciones de carácter administrativo del Tribunal Pleno
 
@@ -2281,7 +2297,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la ce
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPITULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3406,3 +3422,9 @@ P.O. 25 DE JULIO DE 2014.
 P.O. 12 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman los Artículos 75 fracción XX, 76 fracción VIII, 110 párrafos primero, cuarto y quinto de la Constitución Política del Estado libre y Soberano de Quintana Roo.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones que se opongan a las contenidas en el presente Decreto.
