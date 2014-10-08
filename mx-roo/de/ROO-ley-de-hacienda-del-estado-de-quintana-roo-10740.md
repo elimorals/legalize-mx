@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2013-12-04"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 057, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2013, EL PRESENTE DECRETO ENTRA EN VIGOR A PARTIR DEL 1° DE ENERO DE 2014.</small>
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 057, PUBLICADO EN EL P.O. 4 DE DICIEMBRE DE 2013, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -117,7 +113,7 @@ d).- La aportación a una sociedad o asociación.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-e).- La dación en pago, y (sic)
+e).- La dación en pago, y
 
 f).- La permuta.
 
@@ -1173,7 +1169,7 @@ Los contribuyentes de este impuesto deberán conservar y colocar en lugar visibl
 
 ###### ARTICULO 70.
 
-Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones l, III, V, y X del artículo 80 de:
+Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen obligación, excepción hecha de los comprendidos en las fracciones I, III, V, y X del artículo 80 de:
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -7161,13 +7157,13 @@ b).- Predios urbanos
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-2. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
+2. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-3. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
+3. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -7379,7 +7375,7 @@ a).- En los municipios de Othón P. Blanco y Bacalar 1.83 S.M.G.
 
 b).- En los Municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 S.M.G.
 
-c).- en (sic) los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
+c).- en los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8093,9 +8089,9 @@ I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2012)
 
 II.- Por certificados de valor catastral fiscal. 3.45 S.M.G.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
-III.- Por la expedición de certificados que consten en la oficialía central del Registro Civil, causarán derechos conforme a la siguiente:
+III.- Por la expedición de certificaciones que consten en la Oficialía Central del Registro Civil, causarán derechos conforme a la siguiente:
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -8104,6 +8100,10 @@ TARIFA
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 a).- Por Acta de Nacimiento. 0.5 S.M.G.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8183,13 +8183,13 @@ TARIFA
 
 I.- Nacimientos:
 
-a).- En las Oficinas del Registro Civil en horas hábiles. exento.
+a).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-b).- En las Oficinas del Registro Civil en horas inhábiles. 1.0 S.M.G.
+b).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-c).- Fuera de las Oficinas del Registro Civil en horas hábiles. 4.5 S.M.G.
+c).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-d).- Fuera de las Oficinas del registro Civil en horas inhábiles. 6.5 S.M.G.
+d).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -8283,11 +8283,11 @@ Los actos de Registro Civil se efectuarán previo aviso y pago de los derechos e
 
 Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 188-D.
 
-El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a las fracciones I y II incisos b), c), y d) del artículo 188-B.
+El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a la fracción II incisos b), c) y d) del artículo 188-B.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9249,7 +9249,7 @@ I.- Constancia de permiso para trabajar a menores de edad 1 S.M.G
 
 II.- Por la expedición de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
 
-En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda (sic) diez fotocopias.
+En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
 
 III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
 
@@ -9881,7 +9881,7 @@ I.- IMPUESTOS
 
 5.- A la compraventa de primera mano de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
 
-6.- A la compraventa de primera mano de productos agrícolas.
+6.- A la compra/venta de primera mano de productos agrícolas.
 
 7.- Compraventa o permuta de Ganados o sus esquilmos.
 
@@ -9917,7 +9917,7 @@ II-D).- ACTOS DE INSPECCION Y VIGILANCIA
 
 II-E.- Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los puntos 1 al 5 del inciso A) y el inciso C).
 
-Los certificados de documentos así como las reposiciones de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidadas (sic) las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+Los certificados de documentos asi como las reposiciones de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidadas (sic) las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
 En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad del Estado y los Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
 
@@ -11018,3 +11018,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir del 1° de enero de 201
 TERCERO.- El cobro de los derechos establecidos en el artículo 207-Y-BIS se mantendrá en suspenso hasta en tanto entre en vigor el ordenamiento que regule las operaciones inmobiliarias en el Estado.
 
 CUARTO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
