@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-contratos-de-colaboracion-publico-privada-para-el-62099"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2010-06-16"
+last_updated: "2014-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE MORELOS
 
-LEY DE CONTRATOS DE COLABORACION PUBLICO PRIVADA PARA EL ESTADO DE MORELOS
+LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y, CON LOS SIGUIENTES:
 
-I.- Antecedentes de la iniciativa .
+I.- Antecedentes de la iniciativa.
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -125,7 +125,9 @@ XXXIII. Riesgos Retenidos: Los riesgos inherentes a un proyecto que son responsa
 
 XXXIV. Riesgos Transferibles: Los riesgos inherentes a un proyecto que son susceptibles de transferir;
 
-XXXV. Secretaría: La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+XXXV. Secretaría: La Secretaría de Hacienda del Poder Ejecutivo del Estado;
 
 XXXVI. Servicio Requerido: El servicio, o conjunto de servicios, que requiere una entidad para satisfacer determinadas necesidades o para resolver una problemática existente, considerando los estándares, especificaciones y niveles de calidad del mismo;
 
@@ -375,7 +377,9 @@ Para los efectos de este artículo, las Entidades Contratantes, fijarán las bas
 
 Las garantías que deban otorgarse conforme a esta Ley se constituirán en favor de:
 
-I. La Tesorería General del Estado, adscrita a la Secretaría de Finanzas y Planeación, cuando los actos o contratos se celebren con el Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+I. La Tesorería General del Estado, adscrita a la Secretaría de Hacienda, cuando los actos o contratos se celebren con el Estado;
 
 II. Las Tesorerías de los Municipios cuando los actos o contratos se celebren con los Municipios; y,
 
@@ -637,11 +641,13 @@ El Comité Estatal de Proyectos de Colaboración Público Privada se integrará 
 
 I. Con derecho a voz y voto:
 
-a) El Secretario de Finanzas y Planeación, quien lo presidirá;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+a) El Secretario de Hacienda, quien lo presidirá;
 
 b) El Administrador del Proyecto, quien fungirá como secretario ejecutivo; y
 
-e) Los vocales siguientes:
+c) Los vocales siguientes:
 
 1. El titular de la Entidad Contratante;
 
@@ -1085,7 +1091,7 @@ Las Entidades Contratantes deberán remitir a la Contraloría, en el caso de Ent
 
 ###### Artículo 105.
 
-Los órganos internos de control y la Auditoría Superior de Fiscalización, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que Ia prestación de los servicios se realice conforme a lo establecido en los contratos correspondientes, en esta Ley, su Reglamento y demás disposiciones aplicables.
+Los órganos internos de control y la Auditoría Superior de Fiscalización, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que la prestación de los servicios se realice conforme a lo establecido en los contratos correspondientes, en esta Ley, su Reglamento y demás disposiciones aplicables.
 
 Los órganos internos de control y la Auditoría Superior de Fiscalización podrán realizar las visitas e inspecciones que estimen pertinentes a las Entidades Contratantes que ejecuten contratos de colaboración público privada, e igualmente podrán solicitar a los servidores públicos y a los contratistas colaboradores que participen en ellos, todos los datos e informes relacionados con los actos de que se trate, pudiendo solicitarle rendición de cuentas a la Entidad Contratante en cualquier momento.
 
@@ -1263,7 +1269,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2008.
 
@@ -1284,3 +1290,9 @@ P.O. 16 DE JUNIO DE 2010.
 Artículo Primero: Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo: El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículo (sic) 44 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
