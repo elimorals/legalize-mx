@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2014-09-08"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -996,11 +996,13 @@ Si el probable infractor solicita comunicarse con persona que le asista y defien
 
 ### CAPÍTULO III. PROCEDIMIENTO POR QUEJA
 
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 65.
 
 Los particulares podrán presentar quejas orales o por escrito ante el Juez, por hechos constitutivos de probables infracciones. El Juez considerará los elementos contenidos en la queja y, si lo estima procedente, girará citatorio al quejoso y al presunto infractor.
 
-En todos los casos la queja deberá contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma del quejoso.
+En todos los casos la queja deberá contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma del quejoso; asimismo cuando el quejoso lo considere relevante podrá presentar fotografías o videograbaciones relacionadas a la probable infracción, las cuales calificará el Juez y tendrán valor probatorio.
 
 ###### Artículo 66.
 
@@ -1188,11 +1190,15 @@ IV. Acordará la admisión de las pruebas y las desahogará de inmediato, y
 
 V. Resolverá sobre la conducta imputada, considerando todos los elementos que consten en el expediente y resolverá sobre la responsabilidad del probable infractor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 8 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+Se admitirán como pruebas las testimoniales, las fotografías, las videograbaciones, y las demás que, a juicio del Juez, sean idóneas en atención a las conductas imputadas por el quejoso. Tratándose de daños causados con motivo del tránsito de vehículos, el Juez deberá ordenar en todos los casos la intervención de los peritos en materia de tránsito terrestre, autorizados por la Consejería Jurídica y de Servicios Legales.
 
-Se admitirán como pruebas las testimoniales y las demás que, a juicio del Juez, sean idóneas en atención a las conductas imputadas por el quejoso. Tratándose de daños causados con motivo del tránsito de vehículos, el Juez deberá ordenar en todos los casos la intervención de los peritos en materia de tránsito terrestre, autorizados por la Consejería Jurídica y de Servicios Legales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE OCTUBRE DE 2014)</small>
+
+Para el caso de las fotografías y videograbaciones, quienes las presenten deberán proporcionar al Juez los medios para su reproducción al momento del desahogo de la prueba, en caso contrario estas serán desechadas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 8 DE OCTUBRE DE 2014)</small>
 
 En el caso de que el quejoso o el probable infractor no presentaren en la audiencia las pruebas ofrecidas, serán desechadas en el mismo acto. Cuando la presentación de las pruebas ofrecidas dependiera del acto de alguna autoridad, el Juez suspenderá la audiencia y señalará día y hora para la presentación y desahogo de las mismas.
 
@@ -1655,3 +1661,9 @@ QUINTO.- En consecuencia, la Secretaría del Medio Ambiente, la Secretaría de O
 SEXTO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar los cambios necesarios a la normatividad en la materia y adecuarlos al contenido del presente Decreto.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+G.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal a los 3 días posteriores a la notificación de la presente.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
