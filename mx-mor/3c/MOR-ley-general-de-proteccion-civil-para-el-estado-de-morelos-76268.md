@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-proteccion-civil-para-el-estado-de-morelos-76268
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-08-25"
-last_updated: "2013-06-26"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY GENERAL DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN SEGUNDA TRANSITORIA DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 25 de agosto de 2010.
 
@@ -1558,3 +1560,25 @@ PRIMERO.- Remítase la presente Iniciativa de Ley al Gobernador Constitucional d
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
 
 TERCERO.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERA.- La presente Ley iniciará su vigencia el día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se abroga la Ley General de Protección Civil para el Estado de Morelos, promulgada y publicada en el Periódico Oficial "Tierra y Libertad" No. 4830 de fecha 25 de agosto de 2010, así como todas las disposiciones que se opongan a la presente Ley.
+
+TERCERA.- Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+CUARTA.- El Gobernador del Estado, por conducto de los titulares de las Secretarías, Hacienda y Administración, dispondrá la transferencia de los recursos humanos, materiales y presupuestales asignados al actual órgano desconcentrado denominado Instituto Estatal de Protección Civil, al organismo público descentralizado denominado Coordinación Estatal de Protección Civil Morelos.
+
+QUINTA.- Los derechos laborales de los servidores públicos asignados al órgano desconcentrado citado y transferidos al organismo público descentralizado creado por virtud de la presente Ley, serán respetados en términos de la legislación aplicable.
+
+SEXTA.- La Junta Directiva de la Coordinación Estatal de Protección Civil Morelos, deberá quedar instalada dentro de los treinta días naturales siguientes al inicio de la vigencia de la presente Ley, órgano de gobierno que deberá autorizar, expedir y publicar el Estatuto Orgánico, dentro de los siguientes cuarenta y cinco días naturales a la instalación.
+
+SEPTIMA.- El Reglamento de la presente Ley, deberá emitirse en un plazo no mayor a noventa días hábiles, a partir del día siguiente de la entrada en vigor de la presente Ley; mientras tanto seguirán vigentes las disposiciones administrativas que regulan la materia de Protección Civil.
+
+OCTAVA.- Los Municipios dispondrán de un plazo de noventa días hábiles, a partir de la vigencia de esta Ley, a fin de expedir sus Reglamentos respectivos apegados a esta Ley.
+
+NOVENA.- Las menciones que en otros ordenamientos se haga del Instituto Estatal de Protección Civil, se entenderán referidas al organismo público descentralizado que se crea por virtud de la presente Ley.
+
+DÉCIMA.- Las obligaciones, la representatividad jurídica, las acciones administrativas que hayan sido generadas hasta la vigencia de la presente Ley por el Instituto Estatal de Protección Civil, se entenderán como propias del Organismo Público Descentralizado que se crea por virtud de la presente Ley.
