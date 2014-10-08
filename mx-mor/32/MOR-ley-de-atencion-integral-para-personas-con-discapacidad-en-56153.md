@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-01-23"
+last_updated: "2014-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -203,6 +203,10 @@ XII. Las demás que otros ordenamientos les otorguen.
 
 Los derechos que establece el presente capitulo serán reconocidos a todas las personas con discapacidad en el Estado, sin distinción por origen étnico o nacional, género, edad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquiera otra que atente contra su dignidad.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+
+Por lo anterior, esta Ley reconoce plenamente el derecho humano a la participación ciudadana de las personas con discapacidad, por lo que, derivado de dicho reconocimiento, el Estado, se obligará en todo momento a promover y garantizar la participación permanente, real y efectiva, de las personas con discapacidad y sus familias, en la elaboración, ejecución y seguimiento de las políticas públicas que se establezcan en favor de las mismas, mediante los mecanismos que para el efecto establezca la presente Ley y demás ordenamientos aplicables.
+
 ###### Artículo 9.
 
 Los principios que deberán observar las políticas públicas en la materia, son:
@@ -221,7 +225,7 @@ e) La dignidad,
 
 f) La integración,
 
-g) El respeto y (sic)
+g) El respeto y
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
@@ -665,21 +669,21 @@ III. Diseñar, ejecutar y evaluar un programa estatal y municipal de trabajo y c
 
 IV. Formular y ejecutar programas específicos de incorporación de personas con discapacidad como servidores públicos;
 
-V. Instrumentar el programa estatal de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica, becas económicas temporales; y (sic)
+V. Instrumentar el programa estatal de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica, becas económicas temporales; y
 
 VI. Asistir en materia técnica a los sectores social y privado, en materia de discapacidad, cuando lo soliciten.
 
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VII.- Fomentar la capacitación y sensibilización del personal que trabaje con personas con discapacidad en el sector público y privado;
+VII. Fomentar la capacitación y sensibilización del personal que trabaje con personas con discapacidad en el sector público y privado;
 
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
 
-VIII.- Promover medidas a efecto de que las obligaciones laborales no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
+VIII. Promover medidas a efecto de que las obligaciones laborales no interrumpan el proceso de rehabilitación de las personas con discapacidad, y
 
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2013)</small>
 
-IX.- Las demás que dispongan otros ordenamientos.
+IX. Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 45.
 
@@ -763,7 +767,7 @@ VIII.- Impulsar toda forma de comunicación escrita que facilite al discapacitad
 
 IX.- Impulsar programas de investigación, preservación y desarrollo de la lengua de señas, de las personas con discapacidad auditiva, y de las formas de comunicación de las personas con discapacidad visual, aunado al impulso del Sistema de escritura braile mediante los equipos de computo respectivos, ampliadores y lectores de texto;
 
-X.- Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje; y (sic)
+X.- Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje; y
 
 XI.- Fomentar las actividades deportivas, culturales y recreativas para las personas con discapacidad.
 
@@ -1058,3 +1062,11 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- Las Dependencias involucradas contarán con un plazo hasta de 60 días hábiles para que realicen las adecuaciones correspondientes a su normatividad.
 
 Cuarto.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto
+
+P.O. 8 DE OCTUBRE DE 2014.
+
+PRIMERO. Una vez aprobado el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
