@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-ciencia-la-tecnologia-e-innovacion-del-1642
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-06"
-last_updated: "2012-11-20"
+last_updated: "2014-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CIENCIA, LA TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 6 de mayo de 2000.
 
@@ -327,7 +329,7 @@ II. Un Secretario Ejecutivo, mismo que será el Secretario de Educación del Est
 
 III. Un Secretario Técnico, que será el Director General del COECYTJAL;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 IV. Como vocales, los titulares o sus respectivos representantes de las siguientes entidades públicas del Poder Ejecutivo Estatal, del Poder Legislativo Estatal, así como de los organismos privados siguientes:
 
@@ -339,7 +341,7 @@ a) Del Ejecutivo del Gobierno del Estado:
 
 3. Secretaría de Desarrollo Urbano;
 
-4. Secretaría de Desarrollo Rural; y (sic)
+4. Secretaría de Desarrollo Rural; y
 
 5. Secretaría de Salud;
 
@@ -902,3 +904,17 @@ SEGUNDO. El Reglamento de este decreto deberá modificarse en un plazo que no ex
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Fomento a la Ciencia, la Tecnología e Innovación del Estado de Jalisco contenida en el Decreto número 18291.
+
+TERCERO. Quedan abrogadas todas las disposiciones que se opongan a la presente.
+
+CUARTO. El Reglamento de esta Ley, así como el Reglamento Interno del Consejo Estatal de Ciencia y Tecnología de Jalisco deberán expedirse en un plazo que no exceda de ciento ochenta días hábiles, contados a partir de la fecha en que entre en vigor la presente Ley; mientras tanto el Consejo Directivo, se encargará de resolver todas las cuestiones relativas a la aplicación y debida observancia de esta ley.
+
+QUINTO. Para los efectos de esta ley, se dejan intocados todos los derechos y obligaciones de los que es parte el Consejo Estatal de Ciencia y Tecnología del Estado de Jalisco ante terceros, públicos y privados anteriores a la entrada en vigor de la presente ley, con el fin de salvaguardar los recursos económicos, humanos y materiales, así como los derechos valores, fondos y obligaciones del citado Consejo.
+
+SEXTO. Quedan a salvo todos los derechos laborales de los trabajadores del Consejo Estatal de Ciencia y Tecnología del Estado de Jalisco.
