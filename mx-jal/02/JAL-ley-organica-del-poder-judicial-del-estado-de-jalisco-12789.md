@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2014-07-31"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -61,7 +61,7 @@ I. El Supremo Tribunal de Justicia;
 
 II. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
-III. El Tribunal de lo Administrtaivo;
+III. El Tribunal de lo Administrativo;
 
 IV. Los Juzgados de Primera Instancia, Especializados y Mixtos;
 
@@ -631,17 +631,23 @@ La Presidencia del Supremo Tribunal contará con el personal de apoyo que permit
 
 Las salas del Supremo Tribunal de Justicia para los asuntos de su competencia funcionarán con tres magistrados propietarios. Cada una de las salas con sede en la capital del estado serán numerarias y especializadas; las regionales serán mixtas.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 37.
 
-Las salas funcionarán en forma colegiada, en la celebración de audiencias, práctica de diligencias, aprobación de acuerdos, discusión y resolución de los asuntos de su competencia.
+Las salas funcionarán en forma colegiada, en la celebración de audiencias, en la discusión y fallo de los asuntos de su competencia.
 
 ###### Artículo 38.
 
 Las audiencias serán públicas y los acuerdos serán reservados.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 39.
 
 Las resoluciones de las salas se tomarán por unanimidad o mayoría de votos de sus integrantes.
+
+Bastará la firma del Presidente de la Sala, así como la de su respectivo Secretario de Acuerdos para autorizar todos los acuerdos que se emitan, con excepción de aquellas resoluciones que correspondan a desahogo de audiencias, que resuelvan algún recurso, recusación, excusas o impedimentos y la emisión de sentencia, las que deben ser colegiadas.
 
 ###### Artículo 40.
 
@@ -655,9 +661,13 @@ I. Cursar la correspondencia;
 
 II. Turnar proporcional y equitativamente entre él y los demás integrantes, los asuntos para el estudio y presentación oportuna del proyecto de resolución;
 
-III. Presidir las audiencias, cuidar el orden en las mismas y dirigir los debates;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-IV. Dirigir la discusión de los asuntos y someterlos a votación cuando declare terminado el debate;
+III. Presidir la celebración de audiencias, cuidando el orden en las mismas y dirigir los debates, la práctica de diligencias; emitir y suscribir la aprobación de los acuerdos en los asuntos de la competencia del Tribunal;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+IV. Dirigir la discusión de los asuntos y someterlos a votación cuando declare terminado el debate, en aquellos acuerdos que se encuentren en los supuestos a que alude el segundo párrafo del artículo 39 de esta ley, así como de las sentencias que se emitan;
 
 V. Disponer los trámites que procedan en los asuntos de la competencia de la Sala; y
 
@@ -3446,6 +3456,12 @@ Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamen
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
 
 P.O. 31 DE JULIO DE 2014.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2014.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
