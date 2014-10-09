@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2014-10-08"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1229,9 +1229,9 @@ XVIII.- Declarar si ha lugar o no a formación de causa de que habla el artícul
 
 XIX.- Elegir la Diputación Permanente.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-XX.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
+XX.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado así como a los Consejeros Ciudadanos del Consejo de la Judicatura y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de esta Constitución.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1369,7 +1369,9 @@ VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución
 
 VII.- Designar por el voto de las dos terceras partes de sus integrantes a los miembros de los Consejos Municipales en los casos previstos por esta Constitución y por la Ley de los Municipios;
 
-VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de ésta Constitución;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+VIII.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado así como a los Consejeros Ciudadanos del Consejo de la Judicatura y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de ésta Constitución.
 
 IX.- Recibir la protesta de Ley al Gobernador interino, provisional, sustituto o quien haga sus veces;
 
@@ -2071,13 +2073,13 @@ En comisiones ejercerá las funciones de administración, carrera judicial, disc
 
 Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la ley orgánica y en su reglamento interior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ### CAPITULO II. De la Hacienda Pública
 
 ###### ARTICULO 110.
 
-El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado Numerario nombrado por el Pleno del Tribunal Superior de Justicia; un Juez de Primera Instancia nombrado por el Colegio de Jueces, de entre quienes tengan mayor antigüedad; y dos Consejeros Ciudadanos.
+El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado Numerario nombrado por el Pleno del Tribunal Superior de Justicia; un Juez de Primera Instancia nombrado por el Colegio de Jueces, de entre quienes tengan mayor antigüedad, y dos Consejeros Ciudadanos designados por la Legislatura. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
@@ -2087,13 +2089,13 @@ Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán reuni
 
 El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia, a excepción de las sesiones de este órgano, que tengan por objeto la elección del Magistrado que presidirá el Tribunal Superior de Justicia, tal como se establece en el párrafo primero del Artículo 99 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-El Magistrado distinto del Presidente y el juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
+El Magistrado distinto del Presidente, excepto en los casos previstos por esta Constitución, y el Juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-Los consejeros designados por la Legislatura del Estado durarán en su encargo cinco años y durante el mismo solo podrán ser removidos en términos del Titulo Octavo de esta Constitución.
+Los Consejeros Ciudadanos durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado o la Diputación Permanente, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de esta Constitución. El procedimiento de reelección se sujetará a los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4504,3 +4506,9 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Consejeros Ciudadanos que se encuentran en funciones podrán ser reelectos en términos del presente Decreto.
