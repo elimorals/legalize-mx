@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-combatir-y-erradicar-la-trata-de-8932
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2012-11-06"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO.
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 1 de septiembre de 2012.
 
@@ -123,17 +121,21 @@ c) Secretaría de Educación;
 
 d) Secretaría de Salud;
 
-e) Secretaría de Vialidad y Transporte;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+e) Secretaría de Movilidad;
 
-f) Secretaría de Seguridad Pública, Prevención y Reinserción Social;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+f) Fiscalía General;
 
 g) Secretaría del Trabajo y Previsión Social;
 
-h) Secretaría de Desarrollo Humano;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-i) Procuraduría General de Justicia;
+h) Secretaría de Desarrollo e Integración Social;
+
+i) (DEROGADO, P.O. 9 DE OCTUBRE DE 2014)
 
 j) Procuraduría Social;
 
@@ -185,7 +187,7 @@ V. Promover convenios de colaboración interinstitucional y suscribir convenios 
 
 VI. Dar seguimiento y evaluar los resultados que se obtengan por la ejecución de los convenios de coordinación;
 
-VIl. Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la infancia, sobre los conceptos fundamentales y las implicaciones de la trata de personas y de los instrumentos internacionales con la materia al personal de la administración pública estatal y municipal, relacionados con la prevención e investigación con este fenómeno delictivo;
+VII. Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la infancia, sobre los conceptos fundamentales y las implicaciones de la trata de personas y de los instrumentos internacionales con la materia al personal de la administración pública estatal y municipal, relacionados con la prevención e investigación con este fenómeno delictivo;
 
 VIII. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional, incluyendo organizaciones de la sociedad civil vinculadas con la protección de las personas;
 
@@ -500,3 +502,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+Único. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
