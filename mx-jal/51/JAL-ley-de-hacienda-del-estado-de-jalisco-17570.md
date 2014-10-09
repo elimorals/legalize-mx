@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2014-07-26"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 26 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -883,11 +881,13 @@ VII. Llevar contabilidad en registro específico de las operaciones relativas a 
 
 Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en le (sic) momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 69.
 
-A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen (sic) la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaría de Planeación, Administración y Finanzas. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social, para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
+A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaria de Planeación, Administración y Finanzas. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
+
+Tampoco causarán pago de derechos la expedición de constancias certificadas de inexistencias de registros de nacimientos.
 
 ###### Artículo 70.
 
@@ -1021,7 +1021,7 @@ a). Recargos, indemnizaciones por cheques no pagados por instituciones de crédi
 
 b). Multas;
 
-c). Gastos de Ejecución; y (sic)
+c). Gastos de Ejecución; y
 
 d). Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco.
 
@@ -1154,3 +1154,7 @@ P.O. 14 DE JUNIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de la fecha de publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO.- El Poder Ejecutivo dentro de los 30 días hábiles siguientes, contados a partir de la entrada en vigor del presente decreto, debe emitir las reglas que establecen los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal, así como los referentes a la entrega y transparencia de los recursos; mismo que será observado y aplicado por la Secretaría de Cultura del Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
