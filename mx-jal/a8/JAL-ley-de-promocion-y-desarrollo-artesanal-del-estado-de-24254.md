@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2012-02-23"
+last_updated: "2014-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -285,7 +285,7 @@ VII. Registro de las instituciones públicas o privadas encargadas de difundir l
 
 Queda prohibido utilizar la información del censo o registro artesanal para fines distintos a los que fue creado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. De las Ramas de la Producción Artesanal
 
@@ -295,7 +295,7 @@ Queda prohibido utilizar la información del censo o registro artesanal para fin
 
 Bis. Para el cumplimiento de los objetivos del Instituto, se consideran como ramas de la producción artesanal las que determine su Dirección de Investigación, previa realización del censo respectivo y como resultado de las investigaciones que lleve a cabo.
 
-(REUBICADO [N. DE E. ANTES CAPITULO II], P.O. 27 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 27 DE ENERO DE 2009)
 
 ### CAPÍTULO III. Del Registro Artesanal
 
@@ -325,7 +325,7 @@ Las solicitudes de inscripción para el Registro de Artesanos, talleres, empresa
 
 ## TITULO SEXTO. Del Instituto de la Artesanía Jalisciense
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2007)</small>
 
 ### CAPÍTULO I. Del Instituto de Artesanía Jalisciense
 
@@ -421,7 +421,7 @@ XXIV. Procurar la participación de organismos especializados en las artesanías
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
-XXV. Organizar anualmente el Certamen·de las Artesanías Jaliscienses que tendrá como objetivo impulsar la calidad en los productos y preservar las diferentes técnicas artesanales. Dicho concurso se desarrollará conforme a lo estipulado en la convocatoria respectiva y en lo dispuesto en el reglamento interior del Instituto;
+XXV. Organizar anualmente el Certamen de las Artesanías Jaliscienses que tendrá como objetivo impulsar la calidad en los productos y preservar las diferentes técnicas artesanales. Dicho concurso se desarrollará conforme a lo estipulado en la convocatoria respectiva y en lo dispuesto en el reglamento interior del Instituto;
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -473,7 +473,7 @@ d) Educación;
 
 e) Cultura, y
 
-f) Promoción Económica; (sic)
+f) Promoción Económica;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
@@ -745,7 +745,7 @@ El Director del Instituto, durante sus ausencias temporales, será suplido por e
 
 Los directores y subdirectores de área, durante sus ausencias temporales, serán suplidos por el servidor público de la jerarquía inmediata inferior.
 
-(REUBICADO [N. DE E. ANTES CAPITULO II], P.O. 27 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 27 DE ENERO DE 2009)
 
 ### CAPÍTULO IV. Del Entorno Ecológico y la actividad Artesanal
 
@@ -763,7 +763,7 @@ El Gobierno del Estado y los ayuntamientos procurarán propiciar las condiciones
 
 El Instituto en coordinación con las dependencias y entidades federales, estatales y municipales competentes, fomentarán la utilización de insumos artesanales alternos en las zonas en que, de conformidad con los criterios ecológicos, disposiciones administrativas, normas oficiales y disposiciones jurídicas aplicables, ya no sea posible la explotación de recursos naturales.
 
-(REUBICADO [N. DE E. ANTES CAPITULO III], P.O. 27 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 27 DE ENERO DE 2009)
 
 ### CAPÍTULO V. Del régimen fiscal del Instituto
 
@@ -773,7 +773,7 @@ El Instituto en coordinación con las dependencias y entidades federales, estata
 
 El Instituto y. sus servicios, en tanto que es un organismo público descentralizado, gozará de la exención de impuestos y derechos, conforme lo dispuesto en el artículo 32 de la Ley de Hacienda Municipal del Estado de Jalisco.
 
-(REUBICADO [N. DE E. ANTES CAPITULO IV], P.O. 27 DE ENERO DE 2009)
+(REUBICADO [N. DE E. ANTES CAPÍTULO IV], P.O. 27 DE ENERO DE 2009)
 
 ### CAPÍTULO VI. Del patrimonio del Instituto
 
@@ -809,11 +809,11 @@ Queda prohibido el empleo del patrimonio del Instituto para fines no especificad
 
 La enajenación de bienes propiedad del Instituto deberá ser autorizada por la Junta de Gobierno; tratándose de inmuebles, se requerirá además, la autorización del Congreso del Estado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ## TITULO SEPTIMO. Del Organismo de Participación Social y Consulta
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. Del Consejo Consultivo Estatal de la Artesanía
 
@@ -833,11 +833,11 @@ La enajenación de bienes propiedad del Instituto deberá ser autorizada por la 
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2012)
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ## TITULO OCTAVO. Del financiamiento, la gestoría comercial y la comercialización
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO I. De la comercialización y la gestoría comercial
 
@@ -893,7 +893,7 @@ III. Actuar en beneficio de los artesanos, procurando en todo momento comerciali
 
 IV. Mantener canales de comercialización seguros y permanentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO II. Del financiamiento
 
@@ -921,11 +921,11 @@ II. Promover la reinversión de parte de las utilidades obtenidas para fines soc
 
 III. Ofrecer a los artesanos préstamos con intereses bajos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ## TITULO NOVENO. Del fomento artesanal en la actividad educativa y turística
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -935,11 +935,11 @@ III. Ofrecer a los artesanos préstamos con intereses bajos.
 
 El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Educación del Estado, considere dentro de sus programas educativos la impartición de conocimientos tendientes a la preservación de las tradiciones artesanales de la entidad, con la finalidad de fomentar y preservar social y culturalmente esta actividad.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 54.
 
-El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Turismo y la Secretaría de Promoción Económica, procuren que en cada evento de promoción turística económica se realicen las actividades necesarias que garanticen la promoción de las tradiciones artesanales del estado y, en su caso, coadyuven a la comercialización de los productos presentados u otros relativos.
+El Instituto realizará las gestiones necesarias a fin de que la Secretaría de Turismo y la Secretaría de Desarrollo Económico, procuren que en cada evento de promoción turística económica se realicen las actividades necesarias que garanticen la promoción de las tradiciones artesanales del Estado y, en su caso, coadyuven a la comercialización de los productos presentados u otros relativos.
 
 ## TRANSITORIOS
 
@@ -985,7 +985,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR PEREZ PLAZOLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE FEBRERO DE 2007.
 
@@ -1020,5 +1020,9 @@ P.O. 1 DE OCTUBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 23 DE FEBRERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
