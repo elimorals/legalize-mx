@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2014-05-09"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MAYO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -236,7 +234,7 @@ IV.- Por cualesquiera otra de las causas establecidas por la ley.
 
 Todo allanamiento, convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2010)</small>
 
 Artículo 29 bis.- La caducidad de la instancia operará de pleno derecho, cualquiera que sea el estado del juicio, desde la notificación del primer auto que se dicte en el mismo hasta antes de la citación para sentencia, si transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de alguna de las partes tendiente a la prosecución del procedimiento. Los efectos y formas de su declaración se sujetarán a las normas siguientes:
 
@@ -292,7 +290,7 @@ X.- Las costas serán a cargo del actor; pero serán compensables con las que co
 
 Las acciones duran lo que la obligación que representan, menos en los casos que la ley señale distintos plazos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO II.
 
@@ -306,7 +304,7 @@ El ejercicio de las acciones se combate con la oposición de excepciones; pero l
 
 La excepción procede en juicio aún cuando no se exprese su nombre o se exprese equivocadamente, con tal de que se determine con claridad y precisión el hecho en que se hace consistir la defensa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 33.
 
@@ -408,7 +406,7 @@ ARTICULO 39 bis.- Habrá falta de legitimación activa en la causa, cuando el ac
 
 Reglas Generales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO I.
 
@@ -498,7 +496,7 @@ Mientras continúe el abogado patrono, procurador o representante común en su c
 
 Respecto de los poderes otorgados fuera del Estado, se observará lo dispuesto en los artículos 330 y 331.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO SEGUNDO.
 
@@ -536,7 +534,7 @@ En las actuaciones judiciales no se emplearán abreviaturas, ni se borrarán ni 
 
 Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, con la firma de los servidores públicos judiciales que deban intervenir en el acto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 55.
 
@@ -758,7 +756,7 @@ III.- La suspensión que no exceda de un mes;
 
 IV.- La multa, que no excederá del importe de ciento veinte días de salario mínimo vigente, que se duplicará en caso de reincidencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 74.
 
@@ -884,7 +882,13 @@ II.- Decisiones sobre materia que no sea de puro trámite y entonces se llamará
 
 III. Sentencias definitivas o interlocutorias, según que decidan el negocio principal o un incidente, un artículo sobre excepciones dilatorias o una competencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
 Todas las resoluciones pronunciadas por los jueces o magistrados deben contener la motivación y fundamentación de las mismas y serán autorizadas con su firma y la del secretario que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+En las Salas Colegiadas, bastará la firma del Presidente de la Sala, así como la de su respectivo Secretario de Acuerdos para autorizar todos los autos que se emitan, con excepción de aquellas resoluciones que correspondan a desahogo de audiencias, que resuelvan algún recurso, recusación, excusas o impedimentos de magistrado y la emisión de sentencia, cuyas resoluciones deben ser en forma colegiada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1026,7 +1030,7 @@ Los documentos privados se presentarán originales, salvo el caso de que el inte
 
 Si el documento se encuentra en libros, papeles o registros de negociaciones mercantiles o industriales, el que pida la presentación o la constancia, deberá fijar con precisión cuál sea y la copia testimoniada la que se tomará en el escritorio del establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, y sólo presentarán las partidas o documentos designados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 93.
 
@@ -1176,7 +1180,7 @@ Entre tanto que un litigante no hiciera nueva designación del domicilio en dond
 
 Se equipara a una negativa a recibir notificaciones, el hecho de que el servidor público que practique la diligencia encuentre cerrado el domicilio señalado con tal fin dos o más veces, de lo que deberá expresamente asentarse razón en autos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 109.
 
@@ -1420,7 +1424,7 @@ De las Costas.
 
 Por ningún acto judicial se cobrarán costas, ni aún cuando se actuare con testigos de asistencia, o se practicaren diligencias fuera del lugar del juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 138.
 
@@ -1696,7 +1700,7 @@ La declinatoria se propondrá ante el Juez a quien se considere incompetente, pi
 
 En ningún caso se promoverán de oficio las cuestiones de competencia, pero el Juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 169.
 
@@ -1778,7 +1782,7 @@ III.- Cuando los Juzgados que conozcan respectivamente de los Juicios pertenezca
 
 La excepción de conexidad con petición acumulatoria se opondrá como todas al contestar la Demanda o la Reconvención, en su caso, del Juicio nuevo, siempre que en el más antiguo no se haya pronunciado todavía sentencia, pues en caso contrario, la excepción sólo cabe para tomar en cuenta dicha Sentencia en el moderno litigio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 178.
 
@@ -1986,7 +1990,7 @@ Toda recusación se interpondrá ante el Juez o Tribunal que conozca del negocio
 
 De las recusaciones con causa interpuesta contra los Jueces, conocerá el superior inmediato y de las interpuestas contra los Magistrados la Sala de que formen parte integrada legalmente, sin concurrencia del recusado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 203.
 
@@ -2006,7 +2010,7 @@ En el tribunal, queda el magistrado recusado separado del conocimiento del negoc
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 205.
 
@@ -2040,7 +2044,7 @@ Las recusaciones de los Secretarios o de quienes hagan sus veces, se sustanciar�
 
 De los Actos Prejudiciales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO I.
 
@@ -2124,7 +2128,7 @@ Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demanda
 
 De los Medios Preparatorios del Juicio Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 218.
 
@@ -2158,7 +2162,7 @@ El notario hará constar el reconocimiento al pie del documento mismo, asentando
 
 ARTICULO 220 bis.- La ejecución deberá despacharse por cantidad líquida, entendiéndose por tal no tan sólo la cierta y determinada en el título sino también la que puede determinarse mediante simples operaciones aritméticas, con los datos que el mismo título suministre.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE JULIO DE 1975)</small>
 
 ### CAPITULO III.
 
@@ -2224,29 +2228,35 @@ La solicitud debe ser presentada al Juez competente en forma escrita, debiendo s
 
 El Juez deberá intervenir personalmente en el cumplimiento de las medidas que disponga para la separación y practicará las diligencias que a su juicio sean necesarias antes de dictar la resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 225.
 
 Recibida la solicitud, el juez, sin más trámite y cumplimiento (sic) los preceptos de los artículos anteriores, resolverá sobre su procedencia y si la concediera, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular y establecerá la situación de los hijos menores, tomando en cuenta las obligaciones señaladas en el Código Civil del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-En el momento de la diligencia los cónyuges podrán de común acuerdo designar la persona que tendrá a su cargo la custodia de los mismos. En ausencia de convenio, el juez dejará a la madre el cuidado de los hijos que no hayan cumplido trece años, salvo que la madre se dedicase a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, sea aficionada o adicta a las drogas, tuviese alguna enfermedad contagiosa, por su conducta ofreciera peligro grave para la salud o la moralidad de sus hijos o fuere negligente en el cuidado de los mismos.
+En el momento de la diligencia los cónyuges podrán de común acuerdo designar a la persona que tendrá a su cargo la custodia de los mismos. En ausencia de convenio, el juez determinará a cuál de los progenitores otorgará la custodia de los hijos menores de edad, en los términos que establece el artículo 572 del Código civil del Estado de Jalisco, para ello podrá escuchar la opinión de estos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+El juez deberá resolver sobre la custodia de manera objetiva e imparcial, garantizando el interés superior del menor y la igualdad de derechos a ambos progenitores.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 226.
 
-El juez dictará las medidas necesarias que estime procedentes para que se cumplan sus determinaciones, así como para evitar que los cónyuges se ocasionen molestias bajo apercibimiento de proceder en contra del desobediente.
+El juez dictará las medidas necesarias que estime procedentes para que se cumplan sus determinaciones, así como para evitar que los cónyuges se ocasionen molestias entre ellos y en su caso, para evitar que uno de los padres influya negativamente en los sentimientos y en la sana convivencia del hijo con el otro progenitor, bajo apercibimiento de proceder en contra del desobediente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 227.
 
-El juez con audiencia de las partes, podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, sin sujeción estricta a los términos y formas establecidas respecto de la jurisdicción contenciosa.
+El juez con audiencia de las partes, podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de los padres, de común acuerdo o individualmente le soliciten, sin sujeción estricta a los términos y formas establecidas respecto de la jurisdicción contenciosa.
 
-Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos se encuentre en alguno de los supuestos previstos en la parte final del artículo 225 de este código, se le revocará aquella, una vez acreditada la existencia de cualesquiera de los supuestos en el incidente que con tal fin debe promoverse.
+En todo caso que se solicite la variación de los términos de la custodia, el juez, cuando ello sea posible, deberá escuchar a los hijos menores para resolver lo conducente.
+
+Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos tenga una conducta nociva a la salud física o psíquica del menor, se le revocará aquella, una vez acreditada la existencia que con tal fin debe promoverse.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
@@ -3316,7 +3326,7 @@ Todas las cuestiones que se formulen deberán tener relación con los hechos con
 
 Los peritos deberán tener título en la ciencia o arte a que pertenezca el punto sobre el que ha de oírse su parecer, si aquellas estuvieran reglamentadas. En caso contrario o cuando no hubiere peritos en el lugar donde deba desahogarse la prueba pericial, podrán ser nombradas personas prácticas en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 353.
 
@@ -3426,7 +3436,7 @@ De las Declaraciones de los Testigos.
 
 Todos los que tengan conocimiento de los hechos que las partes deban probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 363.
 
@@ -3488,7 +3498,7 @@ Los testigos serán examinados separada y sucesivamente, sin que unos puedan per
 
 Cuando el testigo deje de contestar algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del Juez para que éste, si lo estima conveniente, exija, al testigo las aclaraciones oportunas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 372.
 
@@ -3820,13 +3830,13 @@ III. Las sentencias respecto de las cuales se interpuso recurso, pero no se expr
 
 Para que las sentencias que causen estado por ministerio de ley produzcan los efectos de cosa juzgada no se requerirá promoción de las partes ni declaración judicial, bastando certificación de la Secretaría, en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos de plano por el Juez.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ## TITULO SEPTIMO.
 
 De los Recursos y Revisión de Oficio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO I.
 
@@ -3920,7 +3930,7 @@ III. Resolverá con plenitud de jurisdicción las cuestiones omitidas en la reso
 
 IV. Los recursos de la misma naturaleza interpuestos contra una misma resolución por personas distintas, deberán estudiarse y decidirse en un mismo fallo.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO II.
 
@@ -3944,7 +3954,7 @@ REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)
 
 La revocación se substanciará y resolverá siempre de plano. La resolución que decida el recurso de revocación es irrecurrible.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO III.
 
@@ -4134,7 +4144,7 @@ Si la queja no resulta apoyada en hecho cierto, si no estuviere fundada en derec
 
 La falta o deficiencia del informe con justificación, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir al juez o secretario omiso en una multa de tres a treinta días de salario mínimo vigente, que impondrá de plano la autoridad que conozca de la queja en la misma resolución que se dicte sobre ella; lo anterior sin perjuicio de la obligación que tiene el recurrente de demostrar los agravios en que funde sus impugnaciones.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO V.
 
@@ -4216,7 +4226,7 @@ La demanda sólo podrá promoverse cuando hubiere quedado firme la resolución e
 
 Cuando la demanda se dirija contra los jueces Menores o de Paz, conocerá de ella, cualquiera que sea su cuantía, el juez de Primera Instancia del partido judicial que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 471.
 
@@ -4464,7 +4474,7 @@ IV. En lo que no se contraponga a las especiales establecidas en éste artículo
 
 Todo lo que en este capítulo se dispone respecto de la sentencia comprende las transacciones, convenios judiciales, el convenio final de método alternativo y los laudos que ponen fin a los juicios arbitrales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO II.
 
@@ -4646,7 +4656,7 @@ IV.- En los casos de tercería, conforme a lo dispuesto en este Código.
 
 En todo secuestro se tendrá como depositario a la persona que bajo su responsabilidad nombre el actor, otorgando fianza previamente o dentro de las setenta y dos horas de inventariado lo embargado, apercibido que en caso de no hacerlo se revocará el depósito luego que lo pida el ejecutado. Cuando se nombre depositario al mismo demandado, éste no necesitará otorgar fianza, pero contraerá la responsabilidad civil y penal consiguiente, a menos que en el acto, de modo expreso, rehuse el depósito en cuyo caso se procederá como se previene al principio de este mismo artículo. El demandado podrá dar contrafianza para conservar la posesión de la cosa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1967)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 1967)</small>
 
 ###### ARTICULO 528.
 
@@ -4972,7 +4982,7 @@ El juez ejecutor decidirá de plano toda cuestión que se suscite durante la sub
 
 El día del remate, a la hora señalada, el juez ordenará al secretario levante certificación de la publicación de los edictos, pasará lista de los postores presentados; hecho lo anterior, procederá al remate sin admitir nuevos postores. Enseguida revisarán las propuestas presentadas desechando, desde luego, las que no tengan postura legal y los demás requisitos que mencione el artículo 562.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 567.
 
@@ -4994,7 +5004,7 @@ Una vez que cause estado el auto que aprobó el remate, mandará el juez a solic
 
 Si el comprador no consigna el precio en el plazo que el juez le señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si la anterior no se hubiere celebrado, y perderá el postor el depósito a que se refiere el artículo 560 en beneficio del ejecutado, pero se aplicará al ejecutante, si éste lo solicita en abono de su crédito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 570.
 
@@ -5316,7 +5326,7 @@ III. La rendición de cuentas por tutores, administradores y por todas aquellas 
 
 IV. Los interdictos;
 
-V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y (sic)
+V. La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute y en todo lo relativo a la cosa común; y
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -5912,41 +5922,61 @@ Concluida la diligencia, el Juez con base en el acta circunstanciada determinar�
 
 De los Juicios sobre Alimentos.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 693.
 
-Los juicios que versen sobre pago o aseguración de alimentos se tramitarán conforme a las reglas generales de los demás sumarios y a las especiales siguientes:
+Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán conforme a las reglas generales de los demás sumarios y a las especiales establecidas en este capítulo.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 694.
 
-Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, el juez sin correr traslado a la contraparte verificará que el demandante le acredite con los medios permitidos a su alcance la urgencia y necesidad de la medida y que justifique aproximadamente cuando menos, la posibilidad del que deba darlos.
+Ambas partes, en sus respectivos escritos de demanda o de contestación, deberán acompañar los documentos tendientes a la justificación de su acción o de sus excepciones, así como ofrecer los medios de convicción que consideren adecuados.
 
-Cuando el solicitante, bajo protesta de decir verdad, manifieste no contar con elementos suficientes para acreditar la posibilidad económica del deudor y bajo los mismos términos informe el ingreso aproximado mensual de éste, el juzgador atendiendo a la capacidad económica y nivel de vida del deudor y de los acreedores alimenticios, así como las circunstancias especiales del caso, fijará la pensión con base en el salario mínimo vigente de la zona.
-
-Cuando se pida la fijación y aseguramiento de alimentos provisionales por una institución oficial dedicada a la protección de la familia, o a la asistencia pública, se presumirá (sic) como ciertos salvo prueba en contrario, los dictámenes y documentos por ellas elaborados que se acompañen a la solicitud correspondiente.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 695.
 
-Una vez satisfecho lo que establece el artículo anterior, el juez decretará de plano la pensión de alimentos provisionales, fijando la suma, porcentaje o salarios mínimos en que deben consistir la pensión y mandará abonarlos, por mensualidades anticipadas, mientras se resuelve en definitiva.
+En esta clase de asuntos no se designarán tutores ni se celebrará la audiencia a que se refiere el artículo 282 bis de este Código, sin perjuicio de que las partes, hasta antes de la citación a sentencia, puedan celebrar convenio para dar por concluido el juicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 696.
 
+Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales, se presumirá la urgencia y necesidad de la medida solicitada.
+
+En el auto admisorio y sin correr traslado, el juez:
+
+I. Basándose en la información que bajo protesta de decir verdad fue proporcionada en la demanda y relativa a la posibilidad económica del deudor y al nivel de vida del mismo, así como al de los acreedores alimenticios y las necesidades de éstos, y atendiendo a las circunstancias particulares del caso, determinará de inmediato el derecho a la alimentación, fijando la cantidad o el porcentaje que sea suficiente para cubrir las necesidades alimentarias, y que como pensión provisional deberá cubrir el demandado, en tanto se resuelve el asunto en definitiva;
+
+II. De igual forma, apercibirá al actor de que en caso de que en autos se llegare a demostrar que buscando incrementar la pensión provisional proporcionó información falsa, se hará acreedor a una multa de hasta 100 cien veces el salario mínimo vigente en la zona geográfica a que pertenezca el Partido Judicial, sin perjuicio de las sanciones penales que correspondan; y
+
+III. Si el demandado cuenta con trabajo estable, se ordenará girar oficio a la fuente laboral, a efecto de que a partir del siguiente día hábil al de la diligencia de requerimiento, se le comience a descontar al deudor la cantidad fijada como pensión provisional.
+
 Contra la resolución en que se otorguen los alimentos provisionales, no habrá recurso alguno y contra la que los deniegue procederá el de apelación en ambos efectos.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+Si el actor demanda alimentos caídos, estos serán materia de la sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 697.
 
-Inmediatamente que se decrete la fijación de la pensión de alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad, y si no lo verifica en el acto de la diligencia, se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo, se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguirá el juicio por los demás trámites.
+En caso de no estar en el supuesto de la fracción III del artículo anterior, inmediatamente que se decrete la fijación de la pensión de alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad, y si no lo verifica en el acto de la diligencia, se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo, se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguirá el juicio por los demás trámites.
+
+Para el caso de la venta de los bienes secuestrados se realizará por cuerda separada en la forma y con los trámites prevenidos para los remates.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 698.
 
-La venta de los bienes secuestrados se tramitará por cuerda separada en la forma y con los trámites prevenidos para los remates, lo mismo se hará en las subsecuentes mensualidades, una vez practicado el embargo.
+El juez en el mismo auto en que admita la contestación o declare la rebeldía, citará a una audiencia de pruebas y alegatos, dentro de los diez días posteriores y resolverá sobre la admisión de las pruebas, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
+
+Abierta la audiencia se procederá al desahogo de las pruebas admitidas y de las ordenadas oficiosamente. Una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente hasta por quince minutos por cada parte o por escrito. Acto continuo el juez citará a las partes para oír sentencia, misma que deberá ser dictada dentro de los quince días siguientes.
+
+La audiencia podrá ser diferida, a criterio del Juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento, debiendo celebrarse dentro de los tres días siguientes al diferimiento.
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el Juez señalará nueva fecha para su celebración dentro de los cinco días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se le tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5954,11 +5984,11 @@ La venta de los bienes secuestrados se tramitará por cuerda separada en la form
 
 En los juicios de divorcio por mutuo consentimiento, se observarán las disposiciones relativas de este procedimiento y las contenidas en el capítulo IV del Título Duodécimo.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 700.
 
-Si se trata de alimentos provisionales que deban abonarse sólo mientras dure el procedimiento en los juicios de divorcio necesario, acreditados los extremos del artículo 694, el juez procederá, en lo relativo, como se previene en este capítulo, sin perjuicio de los derechos que conceda a las partes la ejecutoria de divorcio para reclamar alimentos.
+Si se trata de alimentos provisionales que deban abonarse sólo mientras dure el procedimiento en los juicios de divorcio necesario, acreditados los extremos del artículo 696, el juez procederá, en lo relativo, como se previene en este capítulo, sin perjuicio de los derechos que conceda a las partes la ejecutoria de divorcio para reclamar alimentos.
 
 ### CAPITULO VI.
 
@@ -6060,7 +6090,7 @@ Contra las sentencias que se dicten en los interdictos procederá la apelación 
 
 Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO VII.
 
@@ -6198,7 +6228,7 @@ Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de 
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 742.
 
@@ -6326,7 +6356,7 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 Del Divorcio Por Mutuo Consentimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 764.
 
@@ -6384,7 +6414,7 @@ Si el Agente de la Procuraduría Social expresa su conformidad con la solicitud 
 
 ###### ARTICULO 769.
 
-Cuando el Agente del la Procuraduría Social se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias de la Procuraduría Social o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
+Cuando el Agente del (sic) la Procuraduría Social se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias de la Procuraduría Social o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 
 ###### ARTICULO 770.
 
@@ -6428,7 +6458,7 @@ Sección 1a.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 776.
 
@@ -6438,7 +6468,7 @@ Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acre
 
 Es necesario, cuando dos o más acreedores de plazo cumplido han demandado y ejecutado ante un mismo o diversos jueces a su deudor común y no hay bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 777.
 
@@ -6634,7 +6664,7 @@ El que se halle en alguno de estos casos deberá excusarse y ser substituido inm
 
 El síndico deberá otorgar fianza dentro de los quince días que sigan a la aceptación del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 808.
 
@@ -6732,7 +6762,7 @@ II.- Cuando haya menores interesados;
 
 III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ARTICULO 817 bis.- En los juicios sucesorios el Juez pedirá informe al Procurador Social del Estado, al Director del Archivo de Instrumentos Públicos y al Director del Registro Nacional de Avisos de Testamentos, acerca de si en su oficina se ha depositado o registrado algún testamento del autor de la sucesión, para que en caso de que así sea, se le remita copia autorizada del mismo.
 
@@ -6858,7 +6888,7 @@ Sección 2a.
 
 De las Testamentarías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 837.
 
@@ -7042,7 +7072,7 @@ El inventario solemne se formará con intervención del Agente de la Procuradur�
 
 Antes de iniciarse la formación de inventarios, deberá citarse a los interesados en la sucesión, por medio de cédula o correo con acuse de recibo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 860.
 
@@ -7118,7 +7148,7 @@ Si se dedujere oposición contra el inventario o avalúo, se sustanciará la que
 
 Para dar curso a esta oposición, es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean las pruebas que se invocan como base de la objeción del inventario o avalúo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
 ###### Artículo 871.
 
@@ -7212,7 +7242,7 @@ El Juez abrirá toda la correspondencia que venga dirigida al difunto, en presen
 
 Todas las disposiciones relativas al interventor regirán respecto al albacea judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 888.
 
@@ -7252,7 +7282,7 @@ Sección 6a.
 
 De la Rendición de Cuentas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 893.
 
@@ -7516,7 +7546,7 @@ Del Testamento Público Cerrado.
 
 Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El Agente de la Procuraduría Social asistirá a la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 940.
 
@@ -7630,7 +7660,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás se observará lo dispuesto en el Capítulo que antecede.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO I.
 
@@ -7756,7 +7786,7 @@ III. Por el ejecutor testamentario;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
 
-IV. Por el Agente de la Procuraduría Social; y (sic)
+IV. Por el Agente de la Procuraduría Social; y
 
 V. Por el Consejo de Familia.
 
@@ -7986,7 +8016,7 @@ De la Vigilancia y Cuentas de la Tutela.
 
 En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Familias y demás interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1002.
 
@@ -8086,7 +8116,7 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 De la Adopción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 1014.
 
@@ -8112,7 +8142,7 @@ La solicitud del tutor se substanciará en forma de incidente con el curador y e
 
 Los peritos que se designen para hacer el avalúo, serán nombrados por el Juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1016.
 
@@ -8128,7 +8158,7 @@ Si en la primer almoneda no hubiere postor, el Juez convocará, a solicitud del 
 
 Para la venta de acciones y títulos de venta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comerciante establecido y acreditado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1018.
 
@@ -8144,7 +8174,7 @@ El Juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya o
 
 Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 528 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1021.
 
@@ -8188,7 +8218,7 @@ El que pretenda adoptar a alguna persona, deberá acreditar los requisitos estab
 
 En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1028.
 
@@ -8252,7 +8282,7 @@ La oposición se resolverá en juicio sumario, debiendo el Juez dictar las medid
 
 El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 1037.
 
@@ -8266,7 +8296,7 @@ III.- Observar el incapacitado buena conducta.
 
 Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1038.
 
@@ -8280,7 +8310,7 @@ De este último auto no cabe recurso alguno y el que la conceda será apelable e
 
 De las resoluciones en que se conceda la emancipación se remitirá copia certificada al Oficial del Registro Civil para los efectos de levantar el acta y hacer las anotaciones que correspondan, de acuerdo a lo dispuesto al respecto por el Código Civil.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO VII.
 
@@ -8442,7 +8472,7 @@ No tendrá valor la información cuando se hubiere recibido habiendo juicio pend
 
 Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 1058.
 
@@ -8748,7 +8778,7 @@ El Secretario Gral. de Gobierno,
 
 Lic. J. Carlos Osorio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 9 DE MARZO DE 1946.
 
@@ -8896,7 +8926,7 @@ P.O. 28 DE NOVIEMBRE DE 2002.
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
-DECRETO NUMERO 20398, QUE REFORMA LOS ARTICULOS 23, 29, 56, 111, 112, 329, 353, 457 Y 837.
+DECRETO NUMERO 20398, QUE REFORMA LOS ARTÍCULOS 23, 29, 56, 111, 112, 329, 353, 457 Y 837.
 
 Primero: Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -8904,7 +8934,7 @@ Segundo: Las Revisiones de oficio que se encuentren en trámite al momento de la
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
-DECRETO NUMERO 20421, QUE ADICIONA LOS ARTICULOS 686 BIS, 686 TER Y 692 BIS, Y SE REFORMAN LOS ARTICULOS 685, 686, 687 Y 688.
+DECRETO NÚMERO 20421, QUE ADICIONA LOS ARTÍCULOS 686 BIS, 686 TER Y 692 BIS, Y SE REFORMAN LOS ARTÍCULOS 685, 686, 687 Y 688.
 
 ÚNICO.- El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -8914,13 +8944,13 @@ P.O. 30 DE SEPTIEMBRE DE 2004.
 
 P.O. 26 DE AGOSTO DE 2006.
 
-DECRETO NUMERO 21402-LVII/06
+DECRETO NÚMERO 21402-LVII/06
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 26 DE AGOSTO DE 2006.
 
-DECRETO NUMERO 21420-LVII/06
+DECRETO NÚMERO 21420-LVII/06
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -8942,13 +8972,13 @@ P.O. 2 DE DICIEMBRE DE 2006.
 
 P.O. 11 DE ENERO DE 2007.
 
-DECRETO NUMERO 21700/LVII/06
+DECRETO NÚMERO 21700/LVII/06
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 11 DE ENERO DE 2007.
 
-DECRETO NUMERO 21746/LVII/06
+DECRETO NÚMERO 21746/LVII/06
 
 PRIMERO. El presente decreto entrará en vigor noventa días después al de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -8980,13 +9010,13 @@ TERCERO. El archivo de Instrumentos Públicos adoptará los lineamientos general
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21794/LVII/07
+DECRETO NÚMERO 21794/LVII/07
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21818/LVII
+DECRETO NÚMERO 21818/LVII
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
 
@@ -9046,19 +9076,19 @@ UNICO. El presente decreto entrará en vigor a los sesenta días siguientes al d
 
 P.O. 8 DE ENERO DE 2011.
 
-DECRETO NUMERO 23465/LIX/10, SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 279 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23465/LIX/10, SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 279 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 8 DE ENERO DE 2011.
 
-DECRETO NUMERO 23466/LIX/10, SE REFORMA EL ARTICULO 764 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23466/LIX/10, SE REFORMA EL ARTÍCULO 764 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 8 DE ENERO DE 2011.
 
-DECRETO NUMERO 23467/LIX/10, SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 871 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23467/LIX/10, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 871 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -9111,3 +9141,25 @@ P.O. 8 DE ABRIL DE 2014.
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24954/LX/14 POR EL QUE REFORMAN LOS ARTÍCULOS 693, 694, 695, 696, 697, 698 Y 700 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los juicios iniciados antes de la entrada en vigor del presente Decreto continuarán su tramitación conforme a las reglas vigentes al momento de su inicio.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24969/LX/14 POR EL QUE SE REFORMA EL ARTÍCULO 83 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24977/LX/14 POR EL QUE SE REFORMAN DEL ARTÍCULO 225, 226 Y 227 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
