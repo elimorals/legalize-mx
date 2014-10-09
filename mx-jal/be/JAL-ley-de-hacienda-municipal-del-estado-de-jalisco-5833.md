@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2014-08-30"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24952/LX/14 PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -199,17 +197,21 @@ III. El funcionario encargado de la hacienda municipal cualquiera que sea su den
 
 IV. El servidor público encargado del área de ingresos, en aquellos municipios en que exista;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-V. Los delegados y agentes municipales;
+V. Los delegados y agentes municipales, en aquellos municipios que existan;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-VI. Los organismos públicos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económico-coactiva, la cual sólo podrán ejercerla cuando el Congreso del Estado, mediante ley, les otorgue el carácter de organismo fiscal autónomo; fuera de estos casos, sólo podrá ser ejercida por los funcionarios encargados de las haciendas municipales o por los servidores públicos que determine cada municipio, y
+VI. Los organismos públicos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los acuerdos o convenios que crean estos organismos, exceptuándose la facultad económico-coactiva, la cual sólo podrán ejercerla cuando el Congreso del Estado, mediante ley, les otorgue el carácter de organismo fiscal autónomo; fuera de estos casos, sólo podrá ser ejercida por los funcionarios encargados de las haciendas municipales o por los servidores públicos que determine cada municipio; y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 VII. Las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+Con excepción del Presidente Municipal, los regidores, ya sea en lo individual, o como integrantes de las Comisiones Edilicias, carecen del carácter de autoridades fiscales, por lo que están impedidas para ejercer las atribuciones a que se refiere esta ley o para realizar cualquier función ejecutiva.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2011)</small>
 
@@ -1863,6 +1865,16 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 170 Bis.
+
+Estarán exentos de derechos a que se refiere éste capítulo el registro de nacimientos, que se realicen en las oficinas del Registro Civil y dentro del horario de labores que establezca el Ayuntamiento, o bien, fuera de las oficinas o del horario, cuando exista causa justificada.
+
+Así mismo, estará exento del pago del derecho correspondiente, la expedición de la primera copia certificada del acta del registro de nacimiento.
+
 ### CAPITULO IX. Certificaciones
 
 ###### Art. 171.
@@ -1879,9 +1891,23 @@ No causarán el pago de derechos por certificaciones:
 
 I. Las que asiente la autoridad municipal respecto de la clausura de establecimientos, para fines fiscales;
 
-II. Las que las autoridades municipales asienten en los expedientes de los negocios que se tramitan ante ellas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Los certificados de buena conducta o de insolvencia que expida la autoridad municipal, y que se destinen para realizar trámites relativos a la educación.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+II. Las que las autoridades municipales asienten en los expedientes de los negocios que se tramitan ante ellas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+III. Los certificados de buena conducta o de insolvencia que expida la autoridad municipal, y que se destinen para realizar trámites relativos a la educación; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+IV. Las que expidan los Oficiales del Registro Civil respecto de inexistencias de actas de nacimiento.
 
 ### CAPITULO X. Seguridad Pública y Tránsito
 
@@ -3119,13 +3145,13 @@ IV. Dentro de los cinco días siguientes de transcurrido el término probatorio,
 
 V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, cuando en ésta se determine la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del Giro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-###### Art. 316 Bis.
+###### Artículo 316 Bis.
 
-La revocación de las licencias o permisos para operar los giros restringidos establecidos en la Ley para Regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco, se sujeta a los procedimientos establecidos en los ordenamientos municipales respectivos y, en su defecto, al siguiente procedimiento:
+La revocación de las licencias o permisos para operar los giros restringidos establecidos en la Ley para Regular la Venta y el Consumo de Bebidas Alcohólicas del Estado de Jalisco, se sujeta a los procedimientos establecidos en los ordenamientos municipales respectivos, y en su defecto al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE OCTUBRE DE 2014)</small>
 
 I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas de revocación señaladas en los artículos 315 de la Ley de Hacienda Municipal del Estado de Jalisco y 58 de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, o lo señalado por los ordenamientos municipales respectivos, iniciará mediante acuerdo escrito el procedimiento de revocación;
 
@@ -3141,17 +3167,21 @@ III. En caso de que el interesado no comparezca, se le tendrá por conforme con 
 
 IV. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días, a partir de su ofrecimiento;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación, pudiendo los consejos de giros restringidos proponer al Ayuntamiento la revocación de las licencias a que se refiere el artículo 8.° de la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas del Estado de Jalisco. Dicha resolución será notificada al interesado;
+V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación. Dicha resolución será notificada al interesado;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1996)</small>
 
 VI. Cuando el interesado sea el responsable de las causales de la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del giro, y
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-VII. Cuando las causales de revocación no sean imputables al interesado, se le concederá el término que acuerde el Presidente Municipal para que suspenda sus actividades o, en su caso, cambie el domicilio del establecimiento o local donde las realice.
+VII. Cuando las causales de la revocación no sean imputables al interesado, se le concederá el término que acuerde el Presidente Municipal para que suspenda sus actividades o, en su caso, cambie el domicilio del establecimiento o local donde las realice.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+Los Consejos municipales de giros restringidos sobre venta y consumo de bebidas alcohólicas a que se refiere la ley de la materia, al ser órganos honoríficos de consulta, no pueden participar en este procedimiento, ni en ningún otro que tenga que ver con la emisión de actos administrativos consistentes en licencias o permisos de giros.
 
 ###### Art. 317.
 
@@ -3632,3 +3662,15 @@ CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles
 QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
 
 SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24966/LX/14 POR EL QUE SE REFORMA EL ARTÍCULO 173 FRACCIONES II Y III; Y SE ADICIONA UN ARTÍCULO 170 BIS Y UNA FRACCIÓN IV AL ARTÍCULO 173 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+DECRETO NÚMERO 24967/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 20 Y 316 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
