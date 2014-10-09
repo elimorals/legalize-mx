@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-hospital-civil-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2001-03-15"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
-LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -129,9 +129,11 @@ I. Un presidente que será el Titular del Poder Ejecutivo del Estado, o quien é
 
 II. El Secretario de Salud;
 
-III. El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-IV. El Secretario de Administración;
+III. El Secretario de Planeación, Administración y Finanzas;
+
+IV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2014)
 
 V. El Rector General de la Universidad de Guadalajara;
 
@@ -331,10 +333,14 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE MARZO DE 2001.
 
 PRIMERO.- El artículo cuarto del presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Publíquese el presente Decreto incorporando la exposición de motivos de la iniciativa de origen.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
