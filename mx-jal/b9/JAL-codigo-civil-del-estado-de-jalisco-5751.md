@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2014-08-07"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1223,7 +1223,7 @@ El testimonio que expida el notario, deberá ser inscrito en el Registro Públic
 
 ###### Art. 175.
 
-Si la asociación no consta en escritura pública, o no se ha inscrito en el Registro Público de la Propiedad y se adquieren por los integrantes de los órganos de administración o representación (sic) obligaciones frente a terceros, la asociación será considerada como irregular, quedando obligados en forma solidaria quienes a nombre de la misma hubieren contratado.
+Si la asociación no consta en escritura pública, o no se ha inscrito en el Registro Público de la Propiedad y se adquieren por los integrantes de los órganos de administración o representación obligaciones frente a terceros, la asociación será considerada como irregular, quedando obligados en forma solidaria quienes a nombre de la misma hubieren contratado.
 
 ###### Art. 176.
 
@@ -1991,7 +1991,7 @@ Los gastos que se hubieren causado para hacer efectivo el título, serán a carg
 
 ###### Art. 308.
 
-Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los raíces (sic) que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
+Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los (sic) raíces que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
 
 ###### Art. 309.
 
@@ -4279,7 +4279,7 @@ quáter.- Se pueden designar tutores en forma sucesiva.
 
 quinquies.- En el documento público se podrán dictar instrucciones sobre tratamientos terapéuticos, los cuales serán determinados por un médico, donación de órganos y ceremonial de funerales.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTICULO 653-BIS], P.O. 30 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 653-BIS], P.O. 30 DE JULIO DE 2011)</small>
 
 ###### Art. 653
 
@@ -6397,7 +6397,7 @@ b) El segundo libro, para asentar las actas de asamblea del consejo de administr
 
 c) El tercer libro, para registrar los ingresos y egresos del condominio; y
 
-d) Cuando así lo estime necesario la asamblea de condóminos podrán llevarse los libros de registros auxiliares que se requieran; también podrán utilizarse para llevar los registros auxiliares (sic) sistemas de cómputo.
+d) Cuando así lo estime necesario la asamblea de condóminos podrán llevarse los libros de registros auxiliares que se requieran; también podrán utilizarse para llevar los registros auxiliares sistemas de cómputo.
 
 Los libros antes indicados deberán ser autorizados en la primera hoja útil por el secretario del ayuntamiento de (sic) correspondiente a la ubicación del condominio.
 
@@ -7861,7 +7861,7 @@ Las obligaciones civiles nacen de la voluntad de las partes, de disposiciones ex
 
 La voluntad, como fuente de obligaciones, puede ser expresa o tácita; debiendo presumirse cuando una persona ejecuta actos o acepta beneficios que no se pueden explicar, dentro de la equidad y la justicia, sin el reconocimiento de las obligaciones correlativas, para ello se estará a lo siguiente:
 
-I. Será expresa cuando se manifiesta verbalmente, por escrito, por medio electrónicos, ópticos o de cualquier otra tecnología o por signos inequívocos; y
+I. Será expresa cuando se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos o de cualquier otra tecnología o por signos inequívocos; y
 
 II. Será tácita cuando resulte de hechos o de actos que la presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio deba manifestarse expresamente.
 
@@ -14483,7 +14483,9 @@ TITULO DECIMOQUINTO
 
 De la hipoteca
 
-### CAPITULO IV. Disposiciones comunes a las diversas clases de hipotecas
+### CAPITULO III BIS. De la Hipoteca Pensionaria
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 2517.
 
@@ -14653,7 +14655,11 @@ Inscrito el gravamen, quedan sujetos los bienes al mismo, aunque pasen a poder d
 
 La hipoteca puede constituirse por contrato, testamento o declaración unilateral de voluntad, así como por mandato legal. En los tres primeros casos, la hipoteca se llama voluntaria y en el último, necesaria.
 
-### CAPITULO V. De la extinción de las hipotecas
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+La hipoteca pensionaria se constituirá por contrato.
+
+### CAPITULO IV. Disposiciones comunes a las diversas clases de hipotecas
 
 ###### Art. 2548.
 
@@ -14761,7 +14767,7 @@ Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para
 
 En caso de prórroga, la prescripción empieza a contar a partir del día siguiente del vencimiento de aquélla.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO V. De la extinción de las hipotecas
 
 ###### Art. 2563.
 
@@ -14817,9 +14823,77 @@ La constitución de hipotecas que se refieran a bienes de menores u otros incapa
 
 Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el juez.
 
-### CAPITULO II. De la designación y aceptación de árbitros
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO III. De las obligaciones de los compromitentes
+### CAPITULO I. Disposiciones generales
+
+###### Art. 2570 Bis.
+
+Se denomina hipoteca pensionaria aquella que se constituye sobre un bien inmueble propiedad del pensionista y que garantizará el pago del capital mediante la amortización pecuniaria que le otorgará el pensionario para cubrir o complementar el pago de sus necesidades económicas de vida.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 2570 Bis 1.
+
+La hipoteca pensionaria se instituirá mediante contrato en el cual se obliga al pensionario a pagar con una periodicidad máxima mensual, en el lugar y plazo acordados en el contrato y en forma vitalicia, predeterminada cantidad de dinero al pensionista o su beneficiario en base al valor del inmueble, y se sujetará a las siguientes reglas:
+
+I. El pensionista deberá ser persona física y tener al menos 60 años de edad a la fecha de celebración del contrato de hipoteca pensionaria;
+
+II. Las personas físicas y jurídicas podrán ser pensionarios y otorgar hipoteca pensionaria. Quedan excluidos de ser pensionarios los ascendientes o descendientes del pensionista;
+
+III. El tutor podrá constituir hipoteca pensionaria para garantizar las necesidades económicas a favor de un adulto mayor incapaz con la debida autorización judicial y en los términos del presente capítulo;
+
+IV. El beneficiario del pensionista podrá ser su cónyuge, concubina o concubinario siempre y cuando cuenten con al menos 60 años de edad al constituirse la hipoteca;
+
+V. El valor del inmueble sujeto a hipoteca deberá valuarse cada tres años para mantener la actualización de la plusvalía del bien, el costo del avalúo será a cargo del pensionario; y
+
+VI. Se considerará que cuando se acredite una enfermedad grave o accidente que ponga en riesgo la vida del pensionista o su beneficiario, el pensionario garantice un adelanto al pensionista o a su beneficiario, de al menos el equivalente a cinco tantos de las aportaciones periódicas convenidas, para efecto de contribuir a satisfacer las necesidades y gastos extraordinarios que esto le origine al pensionista.
+
+La disposición prevista en la fracción anterior no podrá exceder de un evento cada dos años.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 2570 Bis 2.
+
+Para la constitución de la hipoteca pensionaria, deberán además de lo pactado, satisfacerse los siguientes requisitos:
+
+I. Que los montos que reciba y disponga el pensionista sean suficientes para que se satisfagan las necesidades básicas para su manutención, así como en su momento la de su beneficiario, y que mediante éstas acceda en un término razonable al importe objeto de la hipoteca;
+
+II. Establecer los nombres y generales de las personas que intervengan, los lineamientos de las amortizaciones, las condiciones de pago total y la terminación anticipada sin penalización alguna;
+
+III. Se deberá prever que en caso de que con el transcurso del tiempo se cubra por el pensionario el monto total del valor del inmueble sujeto a hipoteca, el pensionista continuará recibiendo la amortización periódica pactada hasta su fallecimiento y podrá, en su caso, continuar habitando el inmueble sujeto a hipoteca, pero en caso de que el inmueble sea arrendado por el pensionista, el monto de la mensualidad por el arrendamiento que reciba el pensionista se restará de la aportación periódica mensual que le corresponda pagar al pensionario;
+
+IV. El pensionista preferentemente habitará de forma vitalicia el inmueble hipotecado, pero puede arrendarlo parcial o totalmente siempre y cuando cuente con autorización expresa por parte del pensionario, sin afectar la naturaleza de la hipoteca pensionaria constituida sobre el mismo; y
+
+V. Se incluirán las especificaciones del incremento anual que tendrá la amortización periódica que se entrega al pensionario, de acuerdo con las condiciones del mercado y el valor del inmueble, mismo que no deberá ser inferior al porcentaje de incremento del salario mínimo general vigente en el área metropolitana de Guadalajara.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 2570 Bis 3.
+
+El cálculo de intereses que se generen por el capital, será únicamente sobre las cantidades dispuestas por el pensionista, pero no podrá ser superior al interés legal.
+
+Cualquier heredero del pensionista podrá pagar al pensionario ante fedatario público la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo en los casos de fallecimiento del pensionista y de su beneficiario.
+
+Transcurridos tres meses después del fallecimiento del pensionista sin efectuar el pago por parte de los herederos, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado o, en su caso, se ejecutará la hipoteca de conformidad con el contrato.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 2570 Bis 4.
+
+El incumplimiento del pensionario de una mensualidad de pago al pensionista, dará lugar a la rescisión o cumplimiento forzoso del contrato, en ambos casos durante la tramitación del juicio correspondiente se dictarán las medidas cautelares equivalentes a las señaladas para el juicio de alimentos.
+
+El monto a fijar en las medidas cautelares señaladas en el párrafo anterior, serán equivalentes al monto de la pensión hipotecaria actualizada, sin que sea obligatorio probar la necesidad del acreedor alimenticio ni la capacidad del deudor.
+
+En los casos que se demuestre el incumplimiento del pensionario, el Juez dictará invariablemente en la sentencia la cancelación de la hipoteca en beneficio del pensionista a costa del pensionario.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+###### Art. 2570 Bis 5.
+
+El inmueble sobre el cual se constituya la hipoteca pensionaria no podrá ser transmitido o enajenado sin la autorización expresa del pensionario, por lo que cualquier acto que afecte al inmueble se declarará nulo de pleno derecho.
+
+### CAPITULO II. De la designación y aceptación de árbitros
 
 ###### Art. 2571.
 
@@ -14861,7 +14935,7 @@ Si todos los deudores de una obligación mancomunada constituyeren hipotecas sob
 
 Se llaman hipotecas indivisibles las constituidas para garantizar una obligación indivisible. Las mismas facultan al acreedor para hacer efectivo su crédito sobre todos los bienes gravados, atendiendo lo dispuesto para el remate en las hipotecas solidarias.
 
-### CAPITULO IV. Modalidades del contrato de compromiso arbitral
+### CAPITULO III. De las obligaciones de los compromitentes
 
 ###### Art. 2580.
 
@@ -14955,7 +15029,7 @@ TITULO DECIMOSEXTO
 
 Contrato de compromiso arbitral
 
-### CAPITULO V. De la cláusula compromisoria
+### CAPITULO IV. Modalidades del contrato de compromiso arbitral
 
 ###### Art. 2592.
 
@@ -15079,7 +15153,7 @@ II. Cuando no se ha cumplido algún acuerdo del contrato de compromiso arbitral 
 
 III. Cuando se prevea un plazo para objetar un incumplimiento al contrato de compromiso arbitral y el compromitente que pueda hacerlo no lo haga.
 
-### CAPITULO I. De los testamentos en general
+### CAPITULO V. De la cláusula compromisoria
 
 ###### Art. 2605.
 
@@ -15191,7 +15265,7 @@ Las cláusulas del contrato de compromiso arbitral deben interpretarse estrictam
 
 No podrá intentarse demanda contra el valor o subsistencia de un contrato de compromiso arbitral, sin que previamente se haya asegurado la devolución de todo lo recibido por virtud del convenio que quiera impugnar.
 
-### CAPITULO II. De la capacidad para testar
+### CAPITULO I. De los testamentos en general
 
 ###### Art. 2619.
 
@@ -15213,7 +15287,7 @@ Cuando en la ejecución del laudo arbitral, alguno de los compromitentes haya tr
 
 Cuando el bien transmitido en los términos del artículo anterior tenga vicios o gravámenes ocultos, podrá el que lo recibió, proceder conforme a lo que se determina en el contrato de compraventa.
 
-### CAPITULO III. De las condiciones que pueden ponerse en los testamentos
+### CAPITULO II. De la capacidad para testar
 
 ###### Art. 2624.
 
@@ -15235,7 +15309,7 @@ Cuando en el contrato de compromiso arbitral no se establezca a qué clase de ar
 
 Las partes tendrán plena facultad para establecer la normatividad sustantiva y adjetiva que deberá seguir el juicio arbitral, pero a condición de que las primeras no vayan contra las disposiciones del orden público y en las segundas, se respete siempre el derecho de las partes de rendir pruebas y producir alegatos.
 
-### CAPITULO IV. De los testamentos inoficiosos
+### CAPITULO III. De las condiciones que pueden ponerse en los testamentos
 
 ###### Art. 2629.
 
@@ -15441,7 +15515,7 @@ III. Cuando la adquisición se haga para una sociedad económico matrimonial o e
 
 ## TITULO TERCERO. De la forma de los testamentos
 
-### CAPITULO V. De la institución de heredero
+### CAPITULO IV. De los testamentos inoficiosos
 
 ###### Art. 2666.
 
@@ -15503,7 +15577,7 @@ Si un testamento se pierde por un evento ignorado por el testador, o por haber s
 
 En todo testamento, el testador deberá expresar cuando los hubiere, los siguientes datos: sus generales, documento con que se identifica, los nombres completos de sus progenitores, el de sus hijos, el o los matrimonios contraídos, bajo que régimen y en su caso, si vive en concubinato.
 
-### CAPITULO VI. De los legados
+### CAPITULO V. De la institución de heredero
 
 ###### Art. 2676.
 
@@ -15537,9 +15611,7 @@ VI. Firmarán el testamento, además del testador y el notario, el juez, el secr
 
 Para apreciar la capacidad del testador se atenderá únicamente el estado en que se halle al hacer el testamento.
 
-### CAPITULO VII. De las sustituciones
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO VI. De los legados
 
 ###### Art. 2680.
 
@@ -15639,7 +15711,9 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPITULO VIII. De la nulidad, revocación y caducidad de los testamentos
+### CAPITULO VII. De las sustituciones
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 2704.
 
@@ -15665,7 +15739,7 @@ I. El nacido después de la muerte del testador; y
 
 II. El nacido en vida de su padre o de su madre después que aquél o ésta hayan otorgado su testamento, si no existe disposición expresa en el sentido de desheredarlo.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VIII. De la nulidad, revocación y caducidad de los testamentos
 
 ###### Art. 2709.
 
@@ -15725,7 +15799,7 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse, será nula; a menos que por algún evento puedan resultar ciertas.
 
-### CAPITULO II. Del testamento público abierto
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2722.
 
@@ -16063,7 +16137,7 @@ Sólo duran veinte años los legados de que trata el artículo anterior, si fuer
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá respetar esos derechos hasta que legalmente se extingan.
 
-### CAPITULO III. Del testamento público cerrado
+### CAPITULO II. Del testamento público abierto
 
 ###### Art. 2802.
 
@@ -16121,7 +16195,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Agente de la Procuraduría Social.
 
-### CAPITULO IV. Del testamento ológrafo
+### CAPITULO III. Del testamento público cerrado
 
 ###### Art. 2814.
 
@@ -16191,7 +16265,7 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## TITULO CUARTO. De la sucesión legítima
 
-### CAPITULO V. Del testamento privado
+### CAPITULO IV. Del testamento ológrafo
 
 ###### Art. 2829.
 
@@ -16273,7 +16347,7 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### CAPITULO VI. Del testamento militar y marítimo
+### CAPITULO V. Del testamento privado
 
 ###### Art. 2841.
 
@@ -16317,7 +16391,7 @@ Las solemnidades se practicarán ininterrumpidamente y el notario dará fe de ha
 
 No se considera interrumpido el testamento por la impresión de la escritura.
 
-### CAPITULO VII. El testamento hecho fuera del Estado
+### CAPITULO VI. Del testamento militar y marítimo
 
 ###### Art. 2848.
 
@@ -16421,7 +16495,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Quien substraiga o destruya un testamento cerrado, será sancionado en los términos del Código Penal, y si fuese heredero aún en el caso de intestado, perderá sus derechos sobre la herencia.
 
-### CAPITULO VIII. El testamento hecho en país extranjero
+### CAPITULO VII. El testamento hecho fuera del Estado
 
 ###### Art. 2873.
 
@@ -16491,7 +16565,7 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO VIII. El testamento hecho en país extranjero
 
 ###### Art. 2888.
 
@@ -16565,7 +16639,7 @@ Lo dispuesto en el artículo anterior se observará también en el caso de ausen
 
 El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro que se hallaba, o dentro de un mes de desaparecida la causa que lo motivó.
 
-### CAPITULO II. De la sucesión de los descendientes
+### CAPITULO I. Disposiciones generales
 
 ###### Art. 2900.
 
@@ -16589,13 +16663,13 @@ Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser e
 
 Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Ministerio de la Secretaría correspondiente y éste a la autoridad judicial competente, a fin de que proceda teniendo en cuenta lo dispuesto en los artículos del 2893 a 2899 de este código.
 
-### CAPITULO III. De la sucesión de los ascendientes
+### CAPITULO II. De la sucesión de los descendientes
 
 ###### Art. 2905.
 
 En el Estado de Jalisco se dará plena validez y reconocimiento a los testamentos hechos en otra entidad federativa, dentro del territorio nacional siempre y cuando hayan sido formulados de acuerdo con las leyes del lugar donde pasaron.
 
-### CAPITULO IV. De la sucesión del cónyuge
+### CAPITULO III. De la sucesión de los ascendientes
 
 ###### Art. 2906.
 
@@ -16607,7 +16681,7 @@ Para que en el Estado se admitan y tengan validez los testamentos hechos en paí
 
 ## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
-### CAPITULO V. De la sucesión de los colaterales
+### CAPITULO IV. De la sucesión del cónyuge
 
 ###### Art. 2908.
 
@@ -16649,7 +16723,7 @@ Los parientes más próximos excluyen a los más remotos, salvo que concurran hi
 
 Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
-### CAPITULO VI. De la sucesión de los concubinos
+### CAPITULO V. De la sucesión de los colaterales
 
 ###### Art. 2915.
 
@@ -16675,7 +16749,7 @@ El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adopt
 
 Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
-### CAPITULO VII. De la sucesión de la Beneficencia Pública
+### CAPITULO VI. De la sucesión de los concubinos
 
 ###### Art. 2921.
 
@@ -16713,7 +16787,7 @@ Los ascendientes, tienen derecho de heredar a sus descendientes reconocidos.
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce, ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
+### CAPITULO VII. De la sucesión de la Beneficencia Pública
 
 ###### Art. 2930.
 
@@ -16741,7 +16815,7 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes y ascendientes, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO II. De la capacidad para heredar
+### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ###### Art. 2936.
 
@@ -16763,19 +16837,19 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### CAPITULO III. De las cargas alimentarias
+### CAPITULO II. De la capacidad para heredar
 
 ###### Art. 2941.
 
 Tendrá derecho a heredar, aplicándose las disposiciones relativas a la sucesión del cónyuge, la persona con quien el autor de la herencia vivió en el mismo domicilio como si fuera su cónyuge durante los 3 años si tuvieron hijos en común o durante 5 años si no los hubieren tenido, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, en ambos casos se deberá entender los años que precedieron inmediatamente a su muerte. Si fueron varias las personas que vivieron con el autor de la sucesión como si éste fuere su cónyuge, ninguna de ellas heredará.
 
-### CAPITULO IV. De la apertura y transmisión de la herencia
+### CAPITULO III. De las cargas alimentarias
 
 ###### Art. 2942.
 
 A falta de todos los herederos llamados en los capítulos anteriores, sucederán los establecimientos de asistencia social en los términos de ley prefiriéndose a los que funcionen en el lugar del domicilio del autor de la sucesión.
 
-### CAPITULO V. De la aceptación y de la repudiación de la herencia
+### CAPITULO IV. De la apertura y transmisión de la herencia
 
 ###### Art. 2943.
 
@@ -16823,7 +16897,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
 
-### CAPITULO VI. De los albaceas e interventores
+### CAPITULO V. De la aceptación y de la repudiación de la herencia
 
 ###### Art. 2954.
 
@@ -16985,7 +17059,7 @@ No puede deducirse acción para declarar la incapacidad, pasados tres años desd
 
 Si el que entró en posesión de la herencia y la pierde después por declaración de incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél, con quien se contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### CAPITULO VII. Del inventario y de la liquidación de la herencia
+### CAPITULO VI. De los albaceas e interventores
 
 ###### Art. 2984.
 
@@ -17069,7 +17143,7 @@ III. Después se ministrarán también a prorrata a los hermanos; y
 
 IV. Se ministrarán igualmente a prorrata a los demás parientes consanguíneos dentro del cuarto grado.
 
-### CAPITULO VIII. De la partición
+### CAPITULO VII. Del inventario y de la liquidación de la herencia
 
 ###### Art. 2990.
 
@@ -17089,7 +17163,7 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho a reclamar la herencia prescribe en diez años contados a partir del discernimiento del cargo al albacea de la sucesión. Este derecho es transmisible a los herederos y legatarios.
 
-### CAPITULO IX. De los efectos de la partición
+### CAPITULO VIII. De la partición
 
 ###### Art. 2994.
 
@@ -17203,7 +17277,7 @@ El que a instancias de un legatario o acreedor hereditario, haya sido declarado 
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
 
-### CAPITULO X. De la rescisión y nulidad de las particiones
+### CAPITULO IX. De los efectos de la partición
 
 #### Sección Primera. De los albaceas
 
@@ -17615,6 +17689,8 @@ VII. Por remoción.
 
 La revocación puede hacerse por los herederos en cualquier tiempo, pero en el mismo acto debe nombrarse al sustituto.
 
+### CAPITULO X. De la rescisión y nulidad de las particiones
+
 ###### Art. 3097.
 
 El albacea definitivo, dentro del término y condiciones que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
@@ -18021,7 +18097,7 @@ P.O. 15 DE AGOSTO DE 2006.
 
 P.O. 22 DE AGOSTO DE 2006.
 
-ÚNICO.- el (sic) presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- el presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 26 DE AGOSTO DE 2006.
 
@@ -18254,5 +18330,9 @@ P.O. 1 DE ABRIL DE 2014.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 7 DE AGOSTO DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
