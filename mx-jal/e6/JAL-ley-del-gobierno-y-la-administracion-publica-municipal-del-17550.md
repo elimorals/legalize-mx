@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2014-08-30"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24952/LX/14 PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1107,11 +1105,17 @@ VII. No desempeñar otro empleo, cargo o comisión de la Federación, del Estado
 
 VIII. No intervenir en los asuntos municipales, en los que tengan un interés personal, o que interesen a su cónyuge, concubina o concubinario, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo, siempre que no se trate de disposiciones de carácter general;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-IX. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
+IX. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
-X. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+X. No realizar actividad alguna de índole ejecutivo, en el desempeño de sus funciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE OCTUBRE DE 2014)</small>
+
+XI. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
 
 ###### Artículo 50.
 
@@ -2211,17 +2215,13 @@ III. CORRESPONDE AL AYUNTAMIENTO ESTABLECER LOS LÍMITES DE LA COLONIA, BARRIO, 
 
 IV. No pueden ser propuestos como miembros de las directivas, personas que sean integrantes del ayuntamiento o que desempeñen cargos en la administración pública municipal; y
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2007)</small>
+V. Las personas jurídicas que tengan funciones de representación ciudadana y vecinal deben promover la conservación y mejoramiento del medio ambiente, con el fin de propiciar una mejor calidad de vida de los habitantes de su zona, barrio o colonia; y
 
-V. LAS PERSONAS JURÍDICAS QUE TENGAN FUNCIONES DE REPRESENTACIÓN CIUDADANA Y VECINAL DEBEN PROMOVER LA CONSERVACIÓN Y MEJORAMIENTO DEL MEDIO AMBIENTE, CON EL FIN DE PROPICIAR UNA MEJOR CALIDAD DE VIDA DE LOS HABITANTES DE SU ZONA, BARRIO O COLONIA; Y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
-
-VI. LOS CONFLICTOS QUE SE PRESENTEN ENTRE LOS VECINOS Y LAS PERSONAS JURÍDICAS QUE LOS REPRESENTEN, ENTRE LOS INTEGRANTES DE ÉSTAS Y LAS DIRECTIVAS, ASÍ COMO ENTRE LAS DIVERSAS PERSONAS JURÍDICAS CON FUNCIONES DE REPRESENTACIÓN CIUDADANA Y VECINAL, SERÁN RESUELTOS MEDIANTE ARBITRAJE DE LA DEPENDENCIA MUNICIPAL DESIGNADA PARA COORDINAR LAS RELACIONES DEL MUNICIPIO CON LAS PERSONAS JURÍDICAS QUE SEÑALA ESTE TÍTULO. EN CASO DE PERSISTIR EL CONFLICTO, DEBE RESOLVER EL AYUNTAMIENTO CONFORME A LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+VI. Los conflictos que se presenten entre los vecinos y las personas jurídicas que los representen, entre los integrantes de estas y las directivas, así como entre las diversas personas jurídicas con funciones de representación ciudadana y vecinal, serán resueltos mediante arbitraje de la dependencia municipal designada para coordinar las relaciones del Municipio con las personas jurídicas que señala este título. En caso de persistir el conflicto, debe resolver el Ayuntamiento conforme a la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2930,3 +2930,7 @@ CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles
 QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
 
 SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
