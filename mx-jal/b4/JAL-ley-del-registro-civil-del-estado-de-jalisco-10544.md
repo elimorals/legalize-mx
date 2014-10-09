@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2014-02-08"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -265,7 +265,7 @@ III. Defunción, declaración de ausencia y presunción de muerte;
 
 IV. Tutela y tutela voluntaria;
 
-V. Emancipación; y (sic)
+V. Emancipación; y
 
 VI. Pérdida o limitación de la capacidad legal para administrar bienes y el levantamiento de esta restricción;
 
@@ -517,7 +517,7 @@ Si al dar aviso de un nacimiento, se comunicase también la muerte del recién n
 
 ###### Artículo 55.
 
-Cuando se trate de parto múltiple, se levantará una acta por cada uno de los nacidos.
+Cuando se trate de parto múltiple, se levantará una (sic) acta por cada uno de los nacidos.
 
 ### CAPITULO VI. De los registros extemporáneos de nacimiento
 
@@ -565,7 +565,7 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en el C
 
 ###### Artículo 62.
 
-La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta ley y del Código Civil, pero los responsables de la omisión incurrirán en una multa de un tanto de el salario mínimo vigente en el lugar en donde debió inscribirse el acto, que impondrá y hará efectiva el oficial del Registro Civil ante quien se haga valer el reconocimiento.
+La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta ley y del Código Civil, pero los responsables de la omisión incurrirán en una multa de un tanto de el (sic) salario mínimo vigente en el lugar en donde debió inscribirse el acto, que impondrá y hará efectiva el oficial del Registro Civil ante quien se haga valer el reconocimiento.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2013)</small>
 
@@ -1253,11 +1253,11 @@ III. No comunicar a la Dirección General del Registro Civil las anotaciones o c
 
 IV. Asentar en las formas errores mecanográficos, ortográficos y otros que no afecten la esencia del acta
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 141], P.O. 15 DE JUNIO DE 1999)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 143.
 
-Las personas, que estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas con una multa de hasta el equivalente a un día de salario mínimo general vigente en la zona, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2014)
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 15 DE JUNIO DE 1999)
 
@@ -1456,3 +1456,7 @@ P.O. 6 DE JUNIO DE 2013.
 P.O. 8 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
