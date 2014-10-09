@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2010-08-05"
+last_updated: "2014-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -273,9 +273,13 @@ El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto org�
 
 El Sistema para la Igualdad entre Mujeres y Hombres se estructurará con un Consejo Técnico, a cargo del Instituto Jalisciense de las Mujeres y deberá contar, al menos, con representantes de:
 
-I. La Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
-II. La Secretaría de Promoción Económica;
+I. La Secretaría de Desarrollo e Integración Social;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+II. La Secretaría de Desarrollo Económico;
 
 III. La Secretaría del Trabajo y Previsión Social;
 
@@ -285,7 +289,9 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Cultura;
 
-VII. La Procuraduría General de Justicia del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
+
+VII. La Fiscalía General del Estado;
 
 VIII. La Procuraduría Social;
 
@@ -740,3 +746,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
