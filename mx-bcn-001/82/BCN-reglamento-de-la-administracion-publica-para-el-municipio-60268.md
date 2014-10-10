@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2014-02-14"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -77,7 +77,7 @@ La planeación, ejecución y control del gobierno y de la Administración del Mu
 
 La interpretación de las disposiciones del presente Reglamento y las resoluciones de los conflictos de competencias que se generen entre los diferentes órganos de la administración pública municipal son competencia del Ayuntamiento.
 
-Salvo los casos de urgencia que haga (sic) imposible la reunión del Ayuntamiento, el Presidente Municipal podrá girar las instrucciones que considere pertinentes de tal forma que los servicios públicos y las tareas propias de la administración no se vean interrumpidas, informando al Ayuntamiento en la primera oportunidad.
+Salvo los casos de urgencia que haga imposible la reunión del Ayuntamiento, el Presidente Municipal podrá girar las instrucciones que considere pertinentes de tal forma que los servicios públicos y las tareas propias de la administración no se vean interrumpidas, informando al Ayuntamiento en la primera oportunidad.
 
 ###### ARTÍCULO 5.
 
@@ -101,7 +101,7 @@ Es la sesión en que se reúnen los integrantes del Ayuntamiento, con el objeto 
 
 IV.- Gobierno Municipal:
 
-Es la conjunción del Ayuntamiento y la Administración Pública Municipal; y (sic),
+Es la conjunción del Ayuntamiento y la Administración Pública Municipal; y,
 
 V.- Municipio:
 
@@ -217,7 +217,7 @@ Las atribuciones de carácter ejecutivo que en las diversas Leyes o en los conve
 
 ###### ARTÍCULO 18.
 
-Las atribuciones cuyo ejercicio constituya un acto de autoridad, que en el presente Reglamento y en las demás disposiciones legales y reglamentarias aplicables, se establecen a cargo de determinada coordinación, secretaría, dirección, o delegación, serán ejercidas por el titular de dicha dependencia, o por el jefe del departamento a quien se le señala en este ordenamiento la atención del asunto del (sic) que se trate, quienes se auxiliarán para el desarrollo de las actividades inherentes a la ejecución de tales atribuciones en el personal que tengan asignado.
+Las atribuciones cuyo ejercicio constituya un acto de autoridad, que en el presente Reglamento y en las demás disposiciones legales y reglamentarias aplicables, se establecen a cargo de determinada coordinación, secretaría, dirección, o delegación, serán ejercidas por el titular de dicha dependencia, o por el jefe del departamento a quien se le señala en este ordenamiento la atención del asunto del que se trate, quienes se auxiliarán para el desarrollo de las actividades inherentes a la ejecución de tales atribuciones en el personal que tengan asignado.
 
 A su vez, las atribuciones de la naturaleza aludida que se prevén a cargo de los departamentos, serán ejercidas por los jefes de éstos, o por sus superiores jerárquicos.
 
@@ -311,7 +311,7 @@ b) Dependencia o entidad que asumiría las funciones transferidas.
 
 c) Forma en que se financiaría el ejercicio de las nuevas facultades.
 
-d) Reformas a ordenamientos municipales que se requerían (sic) por virtud de la asunción de funciones Estatales.
+d) Reformas a ordenamientos municipales que se requerían por virtud de la asunción de funciones Estatales.
 
 e) Recursos humanos y materiales que se entregarían por el Gobierno del Estado al Municipio como consecuencia del convenio a celebrar.
 
@@ -323,7 +323,7 @@ IV.- De aprobarse la celebración del convenio, se autorizará al Presidente Mun
 
 ###### ARTÍCULO 26.
 
-En dado caso en que el Ayuntamiento de Ensenada tuviese que celebrar convenios con el Gobierno del Estado o con municipios de Baja California, con el objeto de que este o estos asuman de manera temporal, total o parcialmente, o se coordine (sic) con el Municipio, en la prestación de servicios públicos municipales se sujetará a:
+En dado caso en que el Ayuntamiento de Ensenada tuviese que celebrar convenios con el Gobierno del Estado o con municipios de Baja California, con el objeto de que este o estos asuman de manera temporal, total o parcialmente, o se coordine con el Municipio, en la prestación de servicios públicos municipales se sujetará a:
 
 El Presidente Municipal propondrá al Ayuntamiento la celebración del convenio correspondiente, acompañando dicha propuesta de los elementos que la sustenten para su posible autorización.
 
@@ -385,7 +385,7 @@ XXII.- Vigilar que el personal de la dependencia, entidad o departamento, que se
 
 (REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
-XXIII.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y, (sic)
+XXIII.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y,
 
 (REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADA, P.O. 22 DE NOVIEMBRE DE 2013)
 
@@ -737,7 +737,7 @@ XI.- Supervisar las actividades que desarrollen los Jueces Calificadores;
 
 XII.- Ejercer las atribuciones que correspondan, en materia de control de la venta, almacenaje y consumo de bebidas con graduación alcohólica;
 
-XIII.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y, (sic)
+XIII.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y,
 
 XIV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento.
 
@@ -775,7 +775,7 @@ VI. Dirección de Desarrollo Regional;
 
 VII. Oficialía de Registro Civil 01, con sede en la ciudad de Ensenada;
 
-VIII. Oficialía de Registro Civil 02, con sede en la Delegación de la Colonia Vicente Guerrero; y (sic)
+VIII. Oficialía de Registro Civil 02, con sede en la Delegación de la Colonia Vicente Guerrero; y
 
 IX. Departamento de Atención a la Juventud y Junta de Reclutamiento.
 
@@ -977,7 +977,7 @@ VII (SIC).- Ejercer las atribuciones ejecutivas en materia de funcionamiento de 
 
 VIII.- Vigilar, inspeccionar y aplicar que se cumplan con las normas en materia de funcionamiento de aparatos electromecánicos, mecánicos, eléctricos y demás similares ofertados al público que sean competencia de la administración pública municipal, aplicando las sanciones previstas de acuerdo al ordenamiento respectivo;
 
-IX.- Ejercer las atribuciones ejecutivas en materia establecimientos (sic) comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas que las leyes y los reglamentos otorguen a la administración pública municipal;
+IX.- Ejercer las atribuciones ejecutivas en materia (sic) establecimientos comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas que las leyes y los reglamentos otorguen a la administración pública municipal;
 
 X.- Integrar los expedientes de solicitantes y de titulares de los permisos de establecimientos comerciales, uso de la vía pública para comercio ambulante y mercado sobre ruedas;
 
@@ -1435,27 +1435,29 @@ La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el c
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2014)
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 72.
 
 La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir la autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones de que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California, y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno municipal, así como las que le instruya el Presidente Municipal, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia.
 
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo los siguientes departamentos:
+Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo las siguientes áreas; una Subdirección y siete departamentos:
 
-I.- Valuación Inmobiliaria;
+I. Subdirección
 
-II.- Registro Inmobiliario;
+II. Valuación Inmobiliaria;
 
-III.- Cartografía;
+III. Registro Inmobiliario;
 
-IV.- Usos de suelo;
+IV. Cartografía;
 
-V.- Fraccionamientos;
+V. Usos de suelo;
 
-VI.- Licencias de construcción;
+VI. Fraccionamientos;
 
-VII.- Inspecciones y Denuncias; y
+VII. Licencias de construcción;
+
+VIII. Inspecciones y Denuncias; y
 
 La Dirección de Catastro y Control Urbano, contará con una oficina de despacho en la Zona Sur del Municipio.
 
@@ -1471,7 +1473,7 @@ I.- Las de orden ejecutivo que en materia de equilibrio ecológico le confieren 
 
 II.- La aplicación de las normas y programas que se establezcan en el ámbito municipal, para la preservación y restauración, en su caso, del equilibrio ecológico; así como la protección al medio ambiente;
 
-III.- Determinar las políticas de utilización de uso de suelo para la preservación ecológica del municipio; y (sic),
+III.- Determinar las políticas de utilización de uso de suelo para la preservación ecológica del municipio; y,
 
 IV.- Promover ante instancias u organizaciones públicas o privadas, nacionales o extranjeras; el intercambio, cooperación o elaboración de información, estudios o proyectos de interés y beneficio al municipio, dentro de los temas concernientes al medio ambiente.
 
@@ -1677,7 +1679,7 @@ XIV.- Coadyuvar con las demás autoridades Municipales en los operativos de auxi
 
 XV.- Coordinarse con las autoridades sanitarias para vigilar que se conserve y mantenga el aseo en las vías públicas del Municipio;
 
-XVI.- Capacitar y coordinar un cuerpo de elementos para la elaboración de peritajes de hechos de tránsito; (sic)
+XVI.- Capacitar y coordinar un cuerpo de elementos para la elaboración de peritajes de hechos de tránsito;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1757,7 +1759,7 @@ XIV.- Las demás que expresamente le encomienden las leyes y reglamentos o le in
 
 Para el cumplimiento de sus obligaciones, la Secretaría de Desarrollo Social, tendrá a su cargo las siguientes áreas:
 
-I.- Dirección De Servicios Médicos; y (sic)
+I.- Dirección De Servicios Médicos; y
 
 II.- Dirección de Educación;
 
@@ -1793,7 +1795,7 @@ IX.- Las demás que expresamente le encomiendan las Leyes y reglamentos o le ins
 
 ###### ARTÍCULO 88.
 
-A la Dirección Educación (sic) corresponde:
+A la Dirección (sic) Educación corresponde:
 
 I. Aplicar y vigilar el cumplimiento de las disposiciones en materia de educación que corresponden al Presidente Municipal, conforme a la disposición aplicable
 
@@ -1973,7 +1975,7 @@ X.- Instrumentar las normas, y vigilar el uso, conservación y adecuado aprovech
 
 XI.- Aplicar y supervisar el cumplimiento de los procedimientos y normas de control de personal;
 
-XII.- Ejecutar, controlar y verificar el pago de percepciones al personal; y, (sic)
+XII.- Ejecutar, controlar y verificar el pago de percepciones al personal; y,
 
 XIII.- Administrar el fondo para gastos menores;
 
@@ -2033,7 +2035,7 @@ IV.- Los recursos y bienes que integrarán su patrimonio;
 
 V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y,
 
-VI.- La manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
+VI.- La manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo;
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -2065,7 +2067,7 @@ XI.- COMIFE: Comité de Festejos de Ensenada, Baja California;
 
 XII.- IMJUVENS: Instituto Municipal de la Juventud de Ensenada.
 
-En el caso de las entidades paramunicipales ya existentes y enunciadas en este artículo, deberán contemplar en su Reglamento Interno la manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo; (sic)
+En el caso de las entidades paramunicipales ya existentes y enunciadas en este artículo, deberán contemplar en su Reglamento Interno la manera en que se informará al Ayuntamiento sobre la aplicación de los recursos públicos asignados, los ingresos obtenidos, cuando así sea el caso y los resultados de gestión de la entidad de acuerdo a las metas trazadas en el programa operativo anual y el Plan Municipal de Desarrollo;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -2109,7 +2111,7 @@ X.- Designar a las personas que auxiliarán en la recepción de quejas y denunci
 
 XI.- Conocer e investigar de oficio, o por virtud de queja o denuncia, los actos, omisiones o conductas de los Servidores Públicos que les pueden generar responsabilidades en el ejercicio de su función; instruir los procedimientos correspondientes, y en su caso, aplicar las sanciones que procedan;
 
-XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, en relación a prestación de servicios públicos municipales, y al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del (sic) que se trate, y además verificar que se dé dicha atención;
+XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, en relación a prestación de servicios públicos municipales, y al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del que se trate, y además verificar que se dé dicha atención;
 
 XIII.- Operar el registro de situación patrimonial de los servidores públicos municipales;
 
@@ -2414,3 +2416,7 @@ Los derechos que se establecen en la Ley de Ingresos por los servicios que prest
 ###### ARTÍCULO DECIMO.
 
 Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
