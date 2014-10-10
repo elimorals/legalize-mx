@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-tribunal-8347
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-06-05"
+last_updated: "2014-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83470&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -130,11 +130,15 @@ q) Sueldo: salario
 
 En lo no previsto al régimen laboral establecido en este Reglamento, se aplicarán en estricto orden y de forma supletoria:
 
-I. Las reglas internas, lineamientos, políticas y procedimientos específicos que autorice el Pleno;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+I. Las reglas internas, lineamientos, y procedimientos específicos que autorice el Pleno;
 
 II. La Ley Federal de los Trabajadores al Servicio de Estado, por cuanto a las normas protectoras del salario, de retribuciones de carácter económico y beneficios de la seguridad social;
 
-III. Las normas de carácter internacional en la materia, y
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+III. Tratados internacionales de los que el Estado mexicano sea parte, y
 
 IV. Los principios generales de derecho.
 
@@ -156,7 +160,9 @@ El Pleno, la Presidenta o el Presidente, la Comisión de Conciliación y Arbitra
 
 Las relaciones laborales del Tribunal con sus personas servidoras, se rigen por lo dispuesto en la fracción XIV, del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones del Código, la Ley Procesal, el Reglamento Interior y este Reglamento.
 
-De conformidad con lo previsto por el artículo 149 del Código y el primer párrafo del artículo 99 de la Ley Procesal, todas las personas servidoras del Tribunal son de confianza, no gozan de estabilidad en el empleo y sólo disfrutarán de las medidas de protección al salario, las atinentes a sus retribuciones, así como de los beneficios de la seguridad social.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+De conformidad con lo previsto por el artículo 149 del Código, todas las personas servidoras del Tribunal son de confianza, no gozan de estabilidad en el empleo y sólo disfrutaran de las medidas de protección al salario, las atientes a sus retribuciones y compensaciones por los servicios prestados, así como de los beneficios de la seguridad social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ENERO DE 2014)</small>
 
@@ -234,9 +240,11 @@ A ninguna persona se le expedirá nombramiento que lo acredite como persona serv
 
 Queda prohibido utilizar los servicios meritorios, así como de personas que carezcan de nombramiento, salvo cuando se trate de la prestación del servicio social y/o prácticas profesionales en términos de lo establecido en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 16.
 
-Los efectos del nombramiento de una persona servidora del Tribunal, podrán suspenderse temporalmente por:
+Son causas de suspensión temporal del nombramiento de una persona servidora del Tribunal:
 
 I. La puesta de la persona a disposición del Ministerio Público,
 
@@ -248,7 +256,9 @@ La suspensión surtirá efectos desde el momento en que se tenga conocimiento de
 
 Durante el tiempo de la suspensión de la persona servidora no se generará retribución alguna a su favor.
 
-La Secretaria o el Secretario, a petición de la o del titular del órgano o área de adscripción de la persona servidora del Tribunal, podrá dar por terminados los efectos del nombramiento en caso de auto vinculación a proceso se decrete prisión preventiva, con excepción de los delitos culposos.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+La Secretaria o el Secretario, a petición de la o del titular del órgano o área de adscripción de la persona servidora del Tribunal, podrá dar por terminados los efectos del nombramiento en caso de auto de vinculación a proceso que decrete prisión preventiva, con excepción de los delitos culposos.
 
 ###### Artículo 17.
 
@@ -274,7 +284,9 @@ En caso de comisión temporal o readscripción por necesidades del servicio, el/
 
 La estructura orgánica es la que se encuentra determinada en el Código, en el Reglamento Interior y en el Manual de Organización.
 
-El Pleno es la única instancia facultada para crear los cargos y puestos de la estructura orgánica, modificar o eliminar los mismos, así como para determinar los niveles que los conforman y los tabuladores salariales, a propuesta debidamente soportada de la Secretaría.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+El Pleno es el único facultado para crear los cargos y puestos de la estructura orgánica, modificar o eliminar los mismos, así como para determinar los niveles que los conforman y los tabuladores salariales, a propuesta debidamente soportada de la Secretaría.
 
 ###### Artículo 20.
 
@@ -380,7 +392,9 @@ VII. Incurrir en faltas injustificadas a sus labores;
 
 VIII. Acumular más de tres retardos en una quincena en el horario de entrada establecido por el Pleno;
 
-IX. Salir de las instalaciones del Tribunal una vez registrada su entrada o después de quince minutos posteriores al horario de salida que para tal efecto se haya determinado, salvo que cuente con la autorización de su superior/a jerárquico/a, justificada por sus labores;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+IX. Salir de las instalaciones del Tribunal una vez registrada su entrada o ingresar después de quince minutos posteriores al horario de salida que para tal efecto se haya determinado, salvo que cuente con la autorización de su superior/a jerárquico/a, justificada por sus labores;
 
 X. Laborar, sin autorización por escrito de su superior/a jerárquico/a, tiempo extraordinario. No se considera tiempo extraordinario aquel en que se celebran procesos electorales o de participación ciudadana, en los cuales la ley determina que todos los días y horas son hábiles, en este supuesto, el Pleno determinará las cargas de trabajo;
 
@@ -388,9 +402,13 @@ XI. Fumar en las instalaciones cerradas del Tribunal;
 
 XII. Ingerir bebidas alcohólicas y/o consumir drogas o estupefacientes dentro de las instalaciones del Tribunal, así como concurrir a sus labores en estado de embriaguez o bajo la influencia, sin causa médica justificada, de algún narcótico, sea droga enervante o estupefaciente;
 
-XIII. Realizar actos inmorales, de discriminación, violencia o maltrato a personas, objetos o instalaciones del Tribunal, y dentro de ellas;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
 
-XIV. Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal, salvo cuando realicen ofertas por las vías de comunicación interna institucional, con la previa validación de la Coordinación de Difusión y Transparencia del Tribunal;
+XIII. Realizar actos inmorales, de discriminación, violencia o maltrato a personas, objetos o instalaciones del Tribunal;
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+XIV. Realizar, con carácter lucrativo, colectas, rifas, sorteos, o la venta de bienes o servicios en las instalaciones del Tribunal, salvo cuando realicen ofertas por las vías de comunicación interna institucional, con la previa validación de la Coordinación de Comunicación Social y Relaciones Públicas del Tribunal;
 
 XV. Portar armas u objetos de defensa de cualquier clase en el interior del Tribunal, salvo que por la naturaleza de sus labores las requieran, y
 
@@ -426,9 +444,11 @@ V. Los días de descanso semanal y obligatorio.
 
 La jornada de trabajo será la que determine el Pleno, la cual se dará a conocer a todas las personas servidoras del Tribunal mediante los medios de difusión institucionales y generales que se consideren necesarios para que surtan plenos efectos y se cumplan a cabalidad.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 27.
 
-Durante los procesos electorales y de participación ciudadana en los que todos los días y horas son hábiles, el Pleno preverá las compensaciones extraordinarias que deban otorgarse a las personas servidoras del Tribunal, de acuerdo con la jornada y cargas de trabajo que hubiesen desahogado.
+Durante los procesos electorales y de participación ciudadana en los que todos los días y horas son hábiles, el Pleno preverá las compensaciones que deban otorgarse a las personas servidoras del Tribunal, de acuerdo con la jornada y cargas de trabajo que hubiesen desahogado.
 
 ###### Artículo 28.
 
@@ -474,7 +494,9 @@ I. Las personas servidoras del Tribunal no adscritas a la Presidencia, ni a las 
 
 II. Las personas servidoras del Tribunal adscritas a la Presidencia y a las Ponencias.
 
-El alta del personal de nuevo ingreso en los medios implementados para el registro de asistencia, se realizará preferentemente los días primero y dieciséis de cada mes.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+El alta del personal de nuevo ingreso en los medios implementados para el registro de asistencia, se realizará los días primero y dieciséis de cada mes.
 
 ###### Artículo 33.
 
@@ -482,7 +504,9 @@ En los medios de control instalados para el registro y control de asistencia, el
 
 I. Un periodo de veinte minutos, como máximo, para registrar su inicio de labores, minutos que serán contabilizados desde el primero hasta el vigésimo, y
 
-II. Un periodo máximo de treinta minutos para registrar su conclusión de labores.
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+II. Un periodo máximo de treinta minutos para registrar su salida.
 
 Tratándose de la utilización de medios electrónicos, la persona servidora del Tribunal que registre su inicio o conclusión de labores en dos o más ocasiones, automáticamente se le invalidarán los primeros registros, quedando como válido el último.
 
@@ -514,43 +538,41 @@ I. La autorización de la incidencia por escrito, expedida por la o el titular d
 
 II. Constancia médica expedida por el ISSSTE, en la que se señale la incapacidad que justifique los días de inasistencia.
 
-En ningún caso se aceptarán justificaciones debido a olvido de registros en el mecanismo de registro de asistencia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 37.
 
-El Centro de Capacitación hará del conocimiento mediante oficio a la Dirección de Recursos Humanos los nombres de las personas servidoras que asistan a cursos de capacitación fuera de las instalaciones del Tribunal, por lo que no se requerirá de la presentación del formato de autorización de incidencias. Para esos efectos, junto con el oficio remitirá copia de las constancias y asistencia puntual a los cursos.
+Cuando ocurran tres retardos injustificados, la inasistencia injustificada, que se acumulen en una quincena, conforme a los registros en los medios electrónicos, serán motivo de descuento proporcional correspondiente vía nómina, sin que medie documento alguno.
 
-La autorización de incidencias por comisiones oficiales, debidamente justificadas, no tendrá limitación alguna.
-
-Quedará sujeto a consideración de las y los titulares de los órganos o áreas, la autorización de incidencias relacionadas con permisos para realizar actividades de carácter personal y no podrán autorizar incidencias que justifiquen más de cinco días de trabajo en un mes.
-
-Las y los titulares de los órganos o áreas deberán remitir a la Dirección de Recursos Humanos el formato de autorización de incidencias el mismo día en que ocurran o a más tardar los viernes de cada semana, incluyendo las incidencias que tengan lugar el día viernes con motivo del registro de inicio de labores.
-
-Si la incidencia del día viernes se relaciona con el registro de conclusión de la jornada, o bien, no existió registro del inicio y/o conclusión de la jornada laboral, la autorización de la incidencia podrá presentarse el día lunes siguiente.
-
-###### Artículo 38.
-
-Cuando ocurran tres retardos injustificados, la inasistencia injustificada o el olvido de registros de asistencia que se acumulen en una quincena, conforme a los registros en los medios electrónicos, serán motivo de descuento proporcional correspondiente vía nómina, sin que medie documento alguno.
-
-De no utilizarse medios electrónicos, la o el titular del órgano o área, deberá remitir quincenalmente a la Secretaría el reporte de asistencia respectivo y, en su caso, las incidencias autorizadas.
+De no utilizarse medios electrónicos, la o el titular del órgano o área, deberá remitir quincenalmente a la Secretaria el reporte de asistencia respectivo y, en su caso, las incidencias autorizadas.
 
 El reembolso autorizado, por los descuentos realizados con motivo de la falta de asistencia registrada en los medios electrónicos, se hará en la quincena siguiente a la fecha en que la Secretaría reciba la autorización de incidencia por parte de la o el titular del órgano o área y la consecuente solicitud de reembolso.
 
 La Secretaría enviará mensualmente a las y los titulares de los órganos y áreas un reporte estadístico de las incidencias generadas por su personal, así como de los descuentos efectuados.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 38.
+
+Las inasistencias injustificadas de las personas servidoras del Tribunal que excedan de tres días hábiles, dentro de un periodo de treinta días, serán motivo de levantamiento de acta administrativa y terminación de la relación laboral.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 39.
-
-Las inasistencias injustificadas de las personas servidoras del Tribunal que excedan de tres días hábiles, dentro de un período de treinta días, serán motivo de levantamiento de acta administrativa y terminación de la relación laboral.
-
-###### Artículo 40.
 
 La Dirección de Recursos Humanos del Tribunal proporcionará, para su llenado, los archivos de los formatos de autorización de incidencia y aviso de vacaciones, establecidos en los procedimientos administrativos que apruebe el Pleno.
 
-###### Artículo 41.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 40.
 
 Las personas servidoras del Tribunal que por enfermedad no asistan a sus labores, deberán avisar a su superior/a jerárquico/a directo/a el mismo día, asimismo si llega después de la hora de inicio o se retira antes de la hora de conclusión de la jornada. En ambos supuestos, podrá justificar sus incidencias mediante los documentos que al efecto se señalen en este Reglamento o en el procedimiento administrativo que determine el Pleno.
 
-###### Artículo 42.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 41.
 
 El mismo día en que se reincorporen a sus labores, las personas servidoras del Tribunal deberán proporcionar a la o al titular del órgano o área los originales de los justificantes del ISSSTE.
 
@@ -559,6 +581,18 @@ La o el titular del órgano o área, deberá remitir los justificantes a la Secr
 Los justificantes deberán estar debidamente requisitados con las firmas y sellos correspondientes. La Secretaría, por conducto del área competente, podrá solicitar información sobre éstos a la delegación de zona del ISSSTE respectiva o, en su caso, a quienes hubieran expedido constancias de incapacidad.
 
 Queda a responsabilidad de la o el titular del órgano o área, aceptar que la incidencia a justificar por enfermedad sea mediante constancia médica expedida por un/a profesional en la materia de carácter privado o de cualquier otra institución distinta al ISSSTE, siempre y cuando sea menor a tres días y se expresen los datos relativos a la identidad de quien prestó el servicio médico o institución, cédula profesional, firma autógrafa, domicilio y teléfono.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 42.
+
+El Centro de Capacitación hará del conocimiento mediante oficio a la Dirección de Recursos Humanos los nombres de las personas servidoras que asistan a cursos de capacitación fuera de las instalaciones del Tribunal, por lo que no se requerirá de la presentación del formato de autorización de incidencias. Para esos efectos, junto con el oficio remitirá copia de las constancias y asistencia puntual a los cursos.
+
+Quedará sujeto a consideración de las y los titulares de los órganos o áreas, la autorización de incidencias relacionadas con permisos para realizar actividades de carácter personal y no podrán autorizar incidencias que justifiquen más de cinco días de trabajo en un mes.
+
+Las y los titulares de los órganos o áreas deberán remitir a la Dirección de Recursos Humanos el formato de autorización de incidencias el mismo día en que ocurran o a más tardar los viernes de cada semana, incluyendo las incidencias que tengan lugar el día viernes con motivo del registro de inicio de labores.
+
+Si la incidencia del día viernes se relaciona con el registro de conclusión de la jornada, o bien, no existió registro del inicio y/o conclusión de la jornada laboral, la autorización de la incidencia podrá presentarse el día lunes siguiente.
 
 #### Sección IV. De los días de descanso
 
@@ -578,7 +612,9 @@ V. El 16 de septiembre.- Conmemoración del aniversario del inicio de la Indepen
 
 VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-VII. El 1º de diciembre de cada 6 años, cuando corresponda la transmisión del Poder Ejecutivo Federal;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+VII. El día en que cada seis años, corresponda la transmisión del Poder Ejecutivo Federal;
 
 VIII. El 25 de diciembre.- Navidad, y
 
@@ -586,7 +622,9 @@ IX. Los demás que determine el Pleno.
 
 Por cada cinco días de labores, la persona servidora disfrutará de dos días de descanso continuos, de preferencia sábado y domingo, con goce íntegro de su salario.
 
-Mediante aviso podrá darse a conocer días inhábiles o de descanso adicionales a los previstos en este artículo, determinados por el Pleno.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+Mediante aviso se darán a conocer días inhábiles o de descanso adicionales a los previstos en este artículo, determinados por el Pleno.
 
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2014)</small>
 
@@ -598,9 +636,17 @@ Los días de descanso, señalados, perderán vigencia cuando exista proceso elec
 
 Se entiende por vacaciones el tiempo que en términos del presente Reglamento se otorga a las personas servidoras del Tribunal como derecho irrenunciable a efecto de que disfruten anualmente de dos períodos de descanso de diez días hábiles cada uno, con goce de salario íntegro, sin que sea necesaria la interrupción en la materia de trabajo por parte del Tribunal.
 
-Para el ejercicio de este derecho, las personas servidoras del Tribunal deberán contar con seis meses de servicios ininterrumpidos en el Tribunal antes de que dé inicio el derecho a gozar de cualquiera de los períodos vacacionales.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
 
-Todo lo relacionado respecto al disfrute de los períodos vacacionales será determinado por la Presidenta o el Presidente previo visto bueno del Pleno.
+Para el ejercicio de este derecho, las personas servidoras del Tribunal deberán contar con seis meses de servicios ininterrumpidos en el Tribunal antes de que dé inicio el derecho a gozar de cualquiera de los períodos vacacionales, dicho período vacacional deberá concederse al servidor público como máximo dentro de los tres meses siguientes al cumplimiento de los seis meses de servicios ininterrumpidos.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+Todo lo relacionado respecto al disfrute de los períodos vacacionales será determinado por la Presidenta o el Presidente previo visto bueno del Pleno, tomando en consideración si al momento de que se fijen los períodos vacacionales, los servidores públicos cumplen en ese período con los meses ininterrumpidos de servicios, entonces, tendrán derecho a gozar del período vacacional fijado por el Pleno, en los términos establecidos en el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+Si la relación entre el servidor público y el Tribunal termina antes de que se cumplan los seis meses de servicios, el servidor tendrá derecho a una remuneración proporcionada al tiempo de servicios prestados.
 
 ###### Artículo 45.
 
@@ -632,6 +678,10 @@ La Secretaría, por conducto de la Dirección de Recursos Humanos, vigilará que
 
 Cuando la persona servidora del Tribunal no pueda disfrutar del período vacacional durante el periodo autorizado y previo a la solicitud de las vacaciones, por causa de enfermedad legalmente acreditada que la incapacite, la persona servidora pública tendrá derecho a disfrutar de su período vacacional, una vez que aquella haya concluido, siempre y cuando las necesidades del servicio lo permitan, contando para tal efecto con la autorización de su superior/a jerárquico/a.
 
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+Asimismo, se les concederá dicho período a los servidores públicos que hayan cumplido seis meses ininterrumpidos en el Tribunal, aún después de los períodos fijados por el Pleno, previa solicitud y autorización de su superior/a jerárquico/a.
+
 Cuando la persona servidora del Tribunal no pueda disfrutar del período vacacional por causa de carga de trabajo derivada de la actividad del órgano o área de adscripción, gozará de esta prestación en un período distinto al autorizado por el Pleno, siempre y cuando se encuentre autorizada la solicitud de su titular.
 
 ###### Artículo 51.
@@ -660,9 +710,11 @@ Las deducciones, descuentos o retenciones que se realicen sobre las percepciones
 
 El cálculo de las percepciones quincenales o extraordinarias derivadas del salario, deberá realizarse invariablemente con apego a la normatividad aplicable y a las disposiciones plenarias.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 55.
 
-Tanto el salario como las prestaciones que otorga el Tribunal, son de carácter personal y por ninguna circunstancia serán transferibles, salvo mandato judicial.
+Tanto el salario como las prestaciones que otorga el Tribunal, son de carácter personal e intransferible, salvo mandato judicial.
 
 #### Sección II. Del salario
 
@@ -706,7 +758,9 @@ En caso de que el pago deba hacerse mediante cheque a solicitud de la persona se
 
 Sólo podrán hacerse retenciones, descuentos o deducciones al salario de las personas servidoras del Tribunal, cuando se trate de:
 
-I. Deudas contraídas con el Estado, pagos hechos en exceso, error o pérdidas debidamente comprobadas;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+I. Deudas contraídas con el Estado, por concepto de anticipos de salarios, pagos hechos en exceso, error o pérdidas debidamente comprobadas;
 
 II. Cobro de aportaciones para la constitución de fondos de ahorro, siempre que la persona servidora del Tribunal hubiese manifestado previamente, de una manera expresa, su conformidad, en el entendido de que la parte alícuota que aporta el Tribunal será considerada como previsión social y no formará parte del salario de la persona servidora del Tribunal;
 
@@ -782,7 +836,9 @@ II. Ayuda para despensa de fin de año;
 
 III. Ayuda para la compra de un pavo;
 
-IV. Compensación adicional con motivo de la realización de trabajos extraordinarios durante los procesos electorales, y de participación ciudadana;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+IV. Remuneración adicional por proceso electoral, y/o de participación ciudadana;
 
 V. Seguro de Gastos Médicos Mayores;
 
@@ -922,6 +978,10 @@ En el periodo de lactancia gozarán de dos horas por día durante los primeros t
 
 Los servidores del Tribunal disfrutarán de una licencia de paternidad de diez días hábiles con goce de salario, para apoyar a su cónyuge o concubina en los cuidados inmediatos posteriores al parto.
 
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+La licencia anteriormente referida, deberá de tramitarse de conformidad con lo establecido por la Dirección de Recursos Humanos.
+
 Estos derechos no podrán ser suspendidos o afectados por necesidades del servicio; quien lo haga será sujeto/a de responsabilidad.
 
 La personas servidoras del Tribunal con el carácter de madre o padre de familia, podrán tramitar permisos en cuanto a horarios y atención médica para sus hijos/as, previo justificante escolar o de servicios médicos. En este caso, las y los superiores jerárquicos deberán dar aviso a la Secretaría para realizar las adecuaciones correspondientes.
@@ -970,9 +1030,11 @@ En los casos de epidemias, emergencias sanitarias o de la aparición de factores
 
 ### CAPÍTULO PRIMERO. DE LA REESTRUCTURACIÓN DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 76.
 
-El Tribunal está facultado para realizar promociones, renivelaciones y cambios de adscripción de las personas servidoras del Tribunal en términos del acuerdo que emita el Pleno, en los casos siguientes:
+El Pleno está facultado para realizar promociones, renivelaciones y cambios de adscripción de las personas servidoras del Tribunal en términos del acuerdo que emita, en los casos siguientes:
 
 I. Por reestructuración derivada de las disposiciones del Código, y
 
@@ -1016,7 +1078,9 @@ I. La renuncia irrevocable;
 
 II. El abandono del empleo, que consistirá en que la persona servidora tenga más de tres inasistencias, sin justificación alguna, en un periodo de treinta días;
 
-III. La terminación del nombramiento sin responsabilidad para el Tribunal, en virtud de que todas las personas servidoras del órgano jurisdiccional son consideradas de confianza, en términos de lo previsto por la Sección I de este Capítulo;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+III. La terminación de los efectos del nombramiento sin responsabilidad para el Tribunal, en virtud de que todas las personas servidoras del órgano jurisdiccional son consideradas de confianza, en términos de lo previsto por la Sección I de este Capítulo;
 
 IV. El cumplimiento del término del nombramiento, en caso de que éste se hubiese expedido por tiempo determinado;
 
@@ -1044,7 +1108,9 @@ I. Las diligencias necesarias para que se realice el pago del finiquito y la liq
 
 II. La notificación de la baja de la persona al ISSSTE y a la compañía de seguros que tuviera contratada en ese momento el Tribunal;
 
-III. La expedición de la constancia de antigüedad, la constancia de percepciones y retenciones, y la hoja única de servicios, y
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+III. La expedición de la constancia de antigüedad, la constancia de percepciones y retenciones, y la hoja única de servicios, y la baja del ISSSTE
 
 IV. La entrega al interesado de una carta de recomendación cuando lo autorice la o el titular del órgano o área al que se encontraba adscrita la o el solicitante.
 
@@ -1068,7 +1134,9 @@ II. Para dar continuidad a la relación laboral que los vincula, previo consenti
 
 El pago por única vez sólo podrá efectuarse si se cumplen los requisitos siguientes:
 
-I. Si la persona servidora tiene una antigüedad en el cargo de un año o más ininterrumpidos en el Tribunal;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
+
+I. Si la persona servidora tiene una antigüedad en el cargo de seis meses o más ininterrumpidos en el Tribunal;
 
 II. Si el Tribunal cuenta con suficiencia presupuestal;
 
@@ -1084,15 +1152,11 @@ V. Mediante la celebración de un convenio que deberá ratificarse y cumplimenta
 
 Para efectos de cuantificar el pago por única vez, el salario corresponderá al bruto mensual que venía percibiendo la persona servidora del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 85.
 
-El importe del pago por única vez, para dar por terminada la relación de trabajo por mutuo consentimiento será proporcional al tiempo laborado en el Tribunal, conforme a lo siguiente:
-
-I. De uno a tres años de servicios: el equivalente a un mes de salario bruto más veinte días por cada año de servicio;
-
-II. De más de tres a cinco años de servicios: el equivalente a dos meses de salario bruto más veinte días por cada año de servicio, y
-
-III. De más de cinco años de servicios: el equivalente a tres meses de salario bruto más veinte días por cada año de servicio.
+El importe del pago por única vez, para dar por terminada la relación de trabajo por mutuo consentimiento se le otorgará al servidor público que haya prestado su servicio al Tribunal por el período de seis meses ininterrumpidos, y será por el equivalente a tres meses de salario bruto y adicionalmente veinte días por cada año de prestación de servicios, para el caso de que no se haya cumplido el año de prestación de servicios, esta última será cubierta en su parte proporcional.
 
 > <small>(ADICIONADO, G.O. 28 DE ENERO DE 2014)</small>
 
@@ -1227,6 +1291,12 @@ PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su ap
 SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
 
 G.O. 5 DE JUNIO DE 2014.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 10 DE OCTUBRE DE 2014.
 
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
