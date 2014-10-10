@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-postal-mexicano-101138"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-03"
-last_updated: "2014-06-03"
+last_updated: "2014-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,6 +20,8 @@ issue_date: "2014-05-16"
 # ESTATUTO ORGANICO DEL SERVICIO POSTAL MEXICANO
 
 ESTATUTO ORGÁNICO DEL SERVICIO POSTAL MEXICANO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL AVISO RELATIVO A LO DISPUESTO EN EL TRANSITORIO PRIMERO DEL ESTATUTO ORGÁNICO DEL SERVICIO POSTAL MEXICANO, PUBLICADO EN EL D.O.F. DE 10 DE OCTUBRE DE 2014, LA VIGENCIA DEL PRESENTE ESTATUTO INICIÓ A PARTIR DEL 29 DE SEPTIEMBRE DE 2014.</small>
 
 TEXTO ORIGINAL.
 
@@ -896,3 +898,25 @@ Artículo Sexto.- Cuando en este Estatuto Orgánico se dé una denominación nue
 Artículo Séptimo.- Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso sus prestaciones serán afectadas por la reorganización administrativa que implica el presente Estatuto Orgánico.
 
 Dado en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de mayo de dos mil catorce.- La Directora General del Servicio Postal Mexicano, Yuriria Mascott Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+"AVISO RELATIVO A LO DISPUESTO EN EL TRANSITORIO PRIMERO DEL ESTATUTO ORGÁNICO DEL SERVICIO POSTAL MEXICANO.
+
+ANTECEDENTES
+
+El martes 3 de junio de 2014, se publicó en el Diario Oficial de la Federación, el Estatuto Orgánico del Servicio Postal Mexicano.
+
+Lo anterior, atendiendo al acuerdo emitido por la Junta Directiva del Servicio Postal Mexicano, en ejercicio de las facultades que le asisten, en términos de los artículos 1o., 2o., 8o., 9o., 11, 14 al 26, 46 al 62, 64, 65 y 66 de la Ley Federal de las Entidades Paraestatales, artículos 1o. al 7o. y 11 de la Ley del Servicio Postal Mexicano, 1o., 8o. fracción V y 14 del Decreto por el que se crea el Organismo Descentralizado denominado Servicio Postal Mexicano, en sesión celebrada el 21 de marzo de 2014, aprobó y acordó expedir las bases de organización, las facultades y funciones que corresponden a las distintas Áreas que integran el Organismo.
+
+Cabe señalar que de conformidad con lo dispuesto en el transitorio primero del Estatuto Orgánico del Servicio Postal Mexicano, publicado en el Diario Oficial de la Federación, dicho artículo textualmente establece:
+
+## TRANSITORIOS
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor a partir del día siguiente en que se publique en el Diario Oficial de la Federación, una vez obtenida la autorización y registro de la estructura orgánica por parte de las Secretarías de Hacienda y Crédito Público y de la Función Pública en sus respectivos ámbitos de competencia.”
+
+Por lo anterior, se hace del conocimiento que la Secretaría de la Función Pública, mediante Oficios números SSFP/408/0985/2014 y SSFP/408/DGOR/1115/2014, ambos de fecha 23 de septiembre de 2014, el Director General Adjunto de Evaluación y Seguimiento en suplencia por la ausencia del Titular de la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Subsecretaría de la Función Pública, aprobó la estructura orgánica y ocupacional del Servicio Postal Mexicano y el Director General de Organización y Remuneraciones de la Administración Pública Federal, registró la estructura orgánica y ocupacional del Servicio Postal Mexicano, respectivamente, con vigencia a partir del 1 de septiembre de 2014, por lo que la vigencia del citado Estatuto inició a partir del 29 de septiembre de 2014."
