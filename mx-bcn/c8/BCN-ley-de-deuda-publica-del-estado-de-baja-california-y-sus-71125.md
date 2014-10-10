@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-y-sus-71125"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-01"
-last_updated: "2013-10-04"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 1 de diciembre de 2009.
 
@@ -135,9 +135,9 @@ No se considerarán Deuda Pública las operaciones de financiamiento temporal si
 
 I.- Las obligaciones contraídas a corto plazo siempre que se cumplan los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
 
-a) Las realizadas para atender necesidades temporales de efectivo siempre que los contratos respectivos no excedan de un plazo de 12 meses;
+a) Las realizadas para atender necesidades temporales de efectivo siempre que los contratos respectivos no excedan de un plazo de 12 meses y que su fecha de vencimiento y pago sea a más tardar 3 meses antes del término de la gestión del Ejecutivo del Estado o Ayuntamiento de que se trate, incluyendo las operaciones realizadas por sus respectivas Entidades Paraestatales y Paramunicipales;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -538,3 +538,11 @@ P.O. 21 DE DICIEMBRE DE 2012.
 P.O. 4 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las operaciones de financiamiento temporal a que se refiere la presente reforma, contratadas antes de la fecha de entrada en vigor de la presente, serán reguladas por las disposiciones vigentes al momento de su contratación.
+
+TERCERO.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Baja California.
