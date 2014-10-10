@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-sociedades-mutualistas-del-estado-de-baja-california-315
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-30"
-last_updated: "1993-12-10"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "BCS"
 
 LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 10 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2014 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 30 de noviembre de 1988.
 
-VICTOR MANUEL LICEAGA RUIBAL,GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
+VICTOR MANUEL LICEAGA RUIBAL, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
 QUE EL H. CONGRESO DEL ESTADO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
@@ -123,10 +125,34 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUlAR.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Sociedades Mutualistas del Estado de Baja California Sur expedida por el Poder Legislativo mediante decreto número 679 y publicada en el Boletín oficial del Gobierno del Estado el día 30 de Noviembre de 1988.
+
+Así mismo se deroga el decreto número 964 mediante el cual se reformó dicho ordenamiento y que fue publicado en el Boletín oficial del Gobierno del Estado el día 10 de Diciembre de 1993.
+
+###### ARTÍCULO TERCERO.
+
+A las Sociedades Mutualistas ya registradas y a las que se registren con fecha posterior a la expedición de la presente Ley, la Secretaría General de Gobierno, les expedirá las constancias de rigor que hagan probanza de estar funcionando normalmente.
+
+###### ARTICULO CUARTO.
+
+Se concede un plazo de 60 días hábiles para que las Sociedades Mutualistas ya constituidas y que se encuentren funcionando, adecuen sus bases constitutivas, estatutos y reglamentos al presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Se concede un plazo de 30 días hábiles a la Secretaria General de Gobierno para que cree o actualice el registro especial de sociedades mutualistas a que se refiere el artículo 4 de este ordenamiento.
