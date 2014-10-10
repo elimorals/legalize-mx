@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-administracion-y-83386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2011-12-03"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2014 EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el miércoles 21 de septiembre de 2011.
 
@@ -345,7 +345,7 @@ XIV. Rendir por escrito los informes de actividades realizadas por las Unidades 
 
 XV. Informar a la Dirección General Jurídica de la Secretaría, de los actos o hechos de que tenga conocimiento con motivo de su actuación, que puedan constituirse en delitos o responsabilidades administrativas de los servidores públicos involucrados;
 
-XVI. Los subsecretarios y Directores Generales Suscribirán las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, para el desarrollo de las acciones del procedimiento administrativo de ejecución; para las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes, en los términos de la legislación aplicable y los convenios de coordinación y de colaboración celebrados o que se celebren con la Federación o los Ayuntamientos. y
+XVI. Los subsecretarios y Directores Generales Suscribirán las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, para el desarrollo de las acciones del procedimiento administrativo de ejecución; para las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes, en los términos de la legislación aplicable y los convenios de coordinación y de colaboración celebrados o que se celebren con la Federación o los Ayuntamientos, y
 
 XVI. Las demás que les confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -539,7 +539,7 @@ X. Recabar, resguardar revisar e informar previa solicitud de las Unidades Admin
 
 XI. Realizar la gestoría pertinente, para que se mantenga permanentemente actualizado el portal de transparencia de la Secretaría, que obliga la Ley de la materia;
 
-XII. Colaborar con la unidad de enlace y acceso a la información de la Secretaría en el cumplimiento de sus obligaciones y en su caso participar con el Comité de Información de la Secretaría conforme lo establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit y otras disposiciones en la materia. y
+XII. Colaborar con la unidad de enlace y acceso a la información de la Secretaría en el cumplimiento de sus obligaciones y en su caso participar con el Comité de Información de la Secretaría conforme lo establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit y otras disposiciones en la materia, y
 
 XIII. Las demás que le señale su superior jerárquico o le confieran otras disposiciones normativas.
 
@@ -651,7 +651,7 @@ XIV. Contribuir en la elaboración de los manuales administrativos de la Secreta
 
 XV. Diseñar y actualizar la página web de la Secretaría;
 
-XVI. Procesar y salvaguardar la información de los sistemas gubernamentales. y
+XVI. Procesar y salvaguardar la información de los sistemas gubernamentales, y
 
 XVII. Las demás que le confieran las disposiciones legales y aquellas que le encomiende su superior jerárquico.
 
@@ -679,7 +679,7 @@ VI. Llevar el resguardo, control y mantenimiento, garantizando el funcionamiento
 
 VII. Dictaminar sobre las características técnicas en la adquisición, contratación y/o mantenimiento de los bienes y servicios informáticos que requieran las dependencias;
 
-VIII. Contribuir en la elaboración de los manuales administrativos de la Secretaría. y
+VIII. Contribuir en la elaboración de los manuales administrativos de la Secretaría, y
 
 IX. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende el superior jerárquico.
 
@@ -793,7 +793,7 @@ XXXVII. Supervisar la verificación de mercancías de comercio exterior en trans
 
 XXXVIII. Proponer al titular las instituciones de crédito y organismos que deban recibir las declaraciones y, en su caso, el pago de contribuciones estatales, municipales y federales, en términos de las leyes y convenios respectivos;
 
-XXXIX. Proponer al titular la expedición de permisos a establecimientos que produzcan, almacenen, distribuyan y enajenen bebidas alcohólicas, en términos de la ley respectiva; así como los relativos a las casas de empeño. y
+XXXIX. Proponer al titular la expedición de permisos a establecimientos que produzcan, almacenen, distribuyan y enajenen bebidas alcohólicas, en términos de la ley respectiva; así como los relativos a las casas de empeño, y
 
 XL. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
@@ -859,7 +859,7 @@ XXIV. Turnar a la Dirección de Cobro Coactivo, los créditos fiscales determina
 
 XXV. Suministrar a las autoridades fiscales federales correspondientes, la información generada con motivo del ejercicio de las facultades que la Dirección desarrolla al amparo de los convenios que se tienen suscritos con el Gobierno Federal;
 
-XXVI. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el uso de máquinas registradoras de comprobación fiscal en establecimientos o locales ubicados en el territorio del Estado y en su caso, determinar las sanciones que correspondan, de conformidad con la legislación fiscal aplicable y los convenios de coordinación y colaboración celebrados con el gobierno federal. y
+XXVI. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el uso de máquinas registradoras de comprobación fiscal en establecimientos o locales ubicados en el territorio del Estado y en su caso, determinar las sanciones que correspondan, de conformidad con la legislación fiscal aplicable y los convenios de coordinación y colaboración celebrados con el gobierno federal, y
 
 XXVII. Las demás que, en su carácter de autoridad fiscal, le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
@@ -921,7 +921,7 @@ XXIV. Ordenar y supervisar que no se otorguen tarjeta y placas de circulación o
 
 XXV. Informar y proponer a la unidad administrativa competente, gestionar ante las autoridades federales correspondientes el pago de los incentivos que le corresponden al Estado, con motivo de las funciones en materia de colaboración administrativa que lleva a cabo conforme a los convenios suscritos con la Federación;
 
-XXVI. Vigilar que los servidores públicos de su adscripción, que manejen fondos y valores del Estado, caucionen debidamente su actuación. y
+XXVI. Vigilar que los servidores públicos de su adscripción, que manejen fondos y valores del Estado, caucionen debidamente su actuación, y
 
 XXVII. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
 
@@ -945,7 +945,7 @@ V. Recibir y revisar las solicitudes de devolución o compensación de cantidade
 
 VI. Informar y proponer a su superior jerárquico, el pago de los incentivos que le corresponden al Estado, con motivo de las funciones en materia de colaboración administrativa que lleva a cabo conforme a los convenios suscritos con la Federación;
 
-VII. Vigilar que los servidores públicos de su adscripción, que manejen fondos y valores del Estado, caucionen debidamente su actuación. y
+VII. Vigilar que los servidores públicos de su adscripción, que manejen fondos y valores del Estado, caucionen debidamente su actuación, y
 
 VIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
 
@@ -999,7 +999,7 @@ XX. Proponer y aplicar, las normas y políticas para la asignación y uso de los
 
 XXI. Desarrollar y aplicar los procedimientos para enajenación, concesión, incorporación, destino, desincorporación, afectación, desafectación, regularización e inventario del patrimonio inmobiliario del Poder Ejecutivo del Estado;
 
-XXII. Imponer las sanciones por infracciones a la normatividad en materia catastral. y
+XXII. Imponer las sanciones por infracciones a la normatividad en materia catastral, y
 
 XXIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende su superior jerárquico.
 
@@ -1025,7 +1025,7 @@ VI. Determinar y ejecutar, de conformidad con lo previsto en la ley respectiva, 
 
 VII. Proporcionar la información catastral a las unidades administrativas competentes de la Secretaría encargadas de administrar, cobrar y fiscalizar las contribuciones y derechos sobre la propiedad inmobiliaria;
 
-VIII. Realizar los trabajos técnicos y administrativos que permitan conocer permanentemente, las características físicas, cuantitativas y cualitativas, tales como; identificar, deslindar, medir, describir, clasificar, valuar, inscribir y controlar el inventario de los bienes que forman parte del patrimonio inmobiliario del Poder Ejecutivo del Estado. y
+VIII. Realizar los trabajos técnicos y administrativos que permitan conocer permanentemente, las características físicas, cuantitativas y cualitativas, tales como; identificar, deslindar, medir, describir, clasificar, valuar, inscribir y controlar el inventario de los bienes que forman parte del patrimonio inmobiliario del Poder Ejecutivo del Estado, y
 
 IX. Las demás que le encomiende el Director General de Catastro.
 
@@ -1113,7 +1113,7 @@ XI. Analizar y dar seguimiento a las propuestas que se generen y se presenten en
 
 XII. Llevar el seguimiento de la operación de los Anexos al Convenio de Colaboración Administrativa en Materia Fiscal firmados con la Federación y rendir la información que corresponda en el ámbito de su competencia;
 
-XIII. Coordinar los trabajos que sean necesarios para mantener vigentes las funciones establecidas en la Ley de Coordinación Fiscal y Gasto Público del Estado de Nayarit, proponiendo las modificaciones procedentes a la misma. y
+XIII. Coordinar los trabajos que sean necesarios para mantener vigentes las funciones establecidas en la Ley de Coordinación Fiscal y Gasto Público del Estado de Nayarit, proponiendo las modificaciones procedentes a la misma, y
 
 XIV. Las demás que le encomiende su superior jerárquico.
 
@@ -1285,7 +1285,7 @@ IX. Elaborar y turnar las órdenes de pago a la Dirección General de Tesorería
 
 X. Evaluar y acordar con las dependencias y entidades, los cierres de ejercicio de los presupuestos;
 
-XI. Efectuar las adecuaciones presupuestales para el saneamiento entre las partidas del presupuesto de egresos, previa solicitud de las dependencias y entidades con la autorización de la Comisión Intersecretarial de Gasto y Financiamiento. y
+XI. Efectuar las adecuaciones presupuestales para el saneamiento entre las partidas del presupuesto de egresos, previa solicitud de las dependencias y entidades con la autorización de la Comisión Intersecretarial de Gasto y Financiamiento, y
 
 XII. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1309,7 +1309,7 @@ VI. Registrar la deuda pública del Gobierno del Estado de Nayarit;
 
 VII. Registrar las obligaciones contingentes del Estado;
 
-VIII. Integrar y custodiar el archivo contable gubernamental. y
+VIII. Integrar y custodiar el archivo contable gubernamental, y
 
 IX. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1335,7 +1335,7 @@ VII. Evaluar y acordar con las dependencias y entidades, los cierres de ejercici
 
 VIII. Efectuar las adecuaciones presupuestales de la obra pública conforme a las solicitudes de las Secretarias previa autorización de la Comisión Intersecretarial de Gasto y Financiamiento;
 
-IX. Participar en la integración del anteproyecto del Presupuesto de Egresos del Estado de Nayarit para el ejercicio fiscal correspondiente en el rubro de obra pública. y
+IX. Participar en la integración del anteproyecto del Presupuesto de Egresos del Estado de Nayarit para el ejercicio fiscal correspondiente en el rubro de obra pública, y
 
 X. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1421,7 +1421,7 @@ XXXVI. Apoyar a las dependencias en la integración de expedientes relativos a p
 
 XXXVII. Auxiliar a las dependencias y participar, conforme a sus atribuciones, en la debida ejecución de los laudos que afecten al Poder Ejecutivo;
 
-XXXVIII. Aplicar la normatividad referente a la selección, capacitación, contratación y control de los servidores públicos que laboren en la Administración Pública Centralizada, así como suscribir contratos para la prestación de servicios profesionales. y
+XXXVIII. Aplicar la normatividad referente a la selección, capacitación, contratación y control de los servidores públicos que laboren en la Administración Pública Centralizada, así como suscribir contratos para la prestación de servicios profesionales, y
 
 XXXIX. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1477,7 +1477,7 @@ XXI. Determinar la retención de impuestos de las nominas y los pagos únicos po
 
 XXII. Elaborar las constancias de retención de impuestos para efectos de la declaración anual al Servicio de Administración Tributaria de los servidores públicos del Poder Ejecutivo;
 
-XXIII. Efectuar los movimientos de afiliación de altas y bajas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como de otros centros médicos con quien se tenga contrato celebrado, a que tienen derecho los servidores públicos del Poder Ejecutivo. y
+XXIII. Efectuar los movimientos de afiliación de altas y bajas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como de otros centros médicos con quien se tenga contrato celebrado, a que tienen derecho los servidores públicos del Poder Ejecutivo, y
 
 XXIV. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1589,7 +1589,7 @@ V. Entablar y mantener permanentemente las relaciones con las diferentes institu
 
 VI. Cancelar, y en su caso, reponer los cheques expedidos por la Secretaría, con base a las disposiciones legales aplicables;
 
-VII. Entregar a los municipios las cantidades que les correspondan por concepto de participaciones de conformidad con la Ley de Coordinación Fiscal y lo dispuesto por la Legislatura Local. y
+VII. Entregar a los municipios las cantidades que les correspondan por concepto de participaciones de conformidad con la Ley de Coordinación Fiscal y lo dispuesto por la Legislatura Local, y
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1607,7 +1607,7 @@ III. Realizar la dispersión electrónica bancaria para el pago de sueldo de nó
 
 IV. Llevar el control y seguimiento de los movimientos e incidentes de la nómina de compensaciones y contratos, tales como bajas, altas, incrementos, disminuciones, descuentos y cualquier otro que afecte la percepción del trabajador;
 
-V. Generar la información necesaria para el registro contable y presupuestal de la nómina de compensaciones y contratos de honorarios asimilables a salarios. y
+V. Generar la información necesaria para el registro contable y presupuestal de la nómina de compensaciones y contratos de honorarios asimilables a salarios, y
 
 VI. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
@@ -1667,7 +1667,7 @@ XIV. Informar periódicamente al Secretario, sobre la fiscalización practicada 
 
 XV. Vigilar el cumplimiento de las normas internas de la Secretaria, fincando en su caso las responsabilidades administrativas a los servidores públicos, aplicando las correcciones que correspondan conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-XVI. Instruir y resolver los medios de impugnación que hagan valer los servidores públicos de la Secretaría, respecto a la resolución por los que se imponga sanción administrativa en su contra. Y
+XVI. Instruir y resolver los medios de impugnación que hagan valer los servidores públicos de la Secretaría, respecto a la resolución por los que se imponga sanción administrativa en su contra, y
 
 XVII. Las demás que le atribuyan otros ordenamientos legales.
 
@@ -1703,7 +1703,7 @@ IV. Proponer la adecuación, en su caso, de los instrumentos jurídicos-administ
 
 V. Proponer los medios más adecuados para coordinar la actuación de la Secretaría ante las demás dependencias que integran la Administración Pública Estatal;
 
-VI. Expedir el Manual de operación de la Comisión de Administración de la Secretaría. y
+VI. Expedir el Manual de operación de la Comisión de Administración de la Secretaría, y
 
 VII. Las demás que le encomiende el Secretario.
 
@@ -1754,3 +1754,11 @@ ROBERTO SANDOVAL CASTAÑEDA, GOBERNADOR DEL ESTADO DE NAYARIT.- RÚBRICA.- LIC. 
 P.O. 19 DE OCTUBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE NOVIEMBRE DE 2014 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El Manual de Organización de esta Dependencia se adecuará de acuerdo a las atribuciones contempladas en este Reglamento, en un plazo de 30 días posteriores a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
