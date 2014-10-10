@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2014-04-04"
+last_updated: "2014-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -153,7 +153,7 @@ III. Realizar encuestas de opinión, foros y consultas populares sobre los asunt
 
 IV. Solicitar licencia a la Legislatura;
 
-V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan; y (sic)
+V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan; y
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
@@ -1329,13 +1329,15 @@ IX. Proponer a la Legislatura el nombramiento y remoción de los funcionarios ex
 
 X. Supervisar y ordenar el trabajo de la Coordinación de Comunicación Social;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
 
-XI. Proponer al Pleno de la Legislatura, en términos del artículo 3 del presente ordenamiento, la celebración de contratos a que alude el segundo párrafo de dicho numeral, pudiendo también proponer, en su caso, que el Poder Ejecutivo del Estado intervenga en la celebración del contrato correspondiente como aval o deudor solidario, de las obligaciones que contraiga la Legislatura del Estado en ejercicio de la atribución conferida en el presente numeral. Los contratos correspondientes, podrán ser adjudicados o asignados directamente por el Poder Legislativo del Estado de Querétaro; y
+XI. Proponer al Pleno de la Legislatura, en términos del artículo 3 del presente ordenamiento, la celebración de contratos a que alude el segundo párrafo de dicho numeral, pudiendo también proponer, en su caso, que el Poder Ejecutivo del Estado intervenga en la celebración del contrato correspondiente como aval o deudor solidario, de las obligaciones que contraiga la Legislatura del Estado en ejercicio de la atribución conferida en el presente numeral. Los contratos correspondientes, podrán ser adjudicados o asignados directamente por el Poder Legislativo del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2014)</small>
 
-XII. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
+XII. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de la Junta, exclusivamente para la atención de asuntos contenciosos en que se deba hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional de Licenciados en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva; y
+
+XIII. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 140.
 
@@ -1391,6 +1393,10 @@ Las Comisiones se tendrán por instaladas a partir de su integración y aprobaci
 
 La integración de las Comisiones podrá modificarse por acuerdo de la mayoría de los integrantes de la Legislatura.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+Para el estudio y despacho de los asuntos que determine la Junta de Concertación Política o la Mesa Directiva, las comisiones podrán actuar unidas; en tal caso, todos los integrantes tendrán los mismos derechos y obligaciones, y serán presididas por quien designe la Junta.
+
 ###### Artículo 144.
 
 (Competencia) Las Comisiones tendrán la competencia por materia que se derive de su denominación y la que la Legislatura les asigne mediante acuerdo; además, les corresponde:
@@ -1411,9 +1417,15 @@ VI. Emitir declaraciones y pronunciamientos no constitutivos de derechos u oblig
 
 VII. Proponer a la Junta de Concertación Política, representantes de la Legislatura ante organismos públicos o privados que lo soliciten;
 
-VIII. Acudir en forma colegiada o a través de un diputado que las represente, a congresos, foros, seminarios y demás eventos que enriquezcan la experiencia y capacidad de acción del trabajo legislativo en las materias de su competencia, en el territorio del Estado o fuera de éste; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
 
-IX. Ejercer los recursos que se les asignen.
+VIII. Acudir en forma colegiada o a través de un diputado que las represente, a congresos, foros, seminarios y demás eventos que enriquezcan la experiencia y capacidad de acción del trabajo legislativo en las materias de su competencia, en el territorio del Estado o fuera de éste;
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+IX. Delegar, por conducto de su Presidente, al Director de Asuntos Legislativos y Jurídicos, la representación legal de las Comisiones, exclusivamente para la atención de asuntos contenciosos en que se deban hacer valer los intereses institucionales del propio órgano legislativo; la misma delegación podrá realizarse a favor de prestadores externos de servicios profesionales que cuenten con título profesional (sic) Licenciado en Derecho, pero en tal caso será necesario el acuerdo mayoritario de sus integrantes y la anuencia previa de la Mesa Directiva; y
+
+X. Ejercer los recursos que se les asignen.
 
 ###### Artículo 145.
 
@@ -2176,3 +2188,19 @@ P.O. 4 DE ABRIL DE 2014.
 Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Una vez aprobada por el Pleno de la Legislatura del Estado, envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+LEY QUE REFORMA EL ARTÍCULO 139, FRACCIÓN XI Y SE ADICIONA UNA NUEVA FRACCIÓN XII, RECORRIENDO LA SUBSECUENTE EN SU ORDEN; EL ARTÍCULO 144, FRACCIÓN VIII Y SE ADICIONA UNA NUEVA FRACCIÓN IX, RECORRIENDO LA SUBSECUENTE EN SU ORDEN, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+LEY QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 143 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
