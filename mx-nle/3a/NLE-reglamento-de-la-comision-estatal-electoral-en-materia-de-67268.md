@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-estatal-electoral-en-materia-de-67268
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2009-12-18"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA COMISION ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-REGLAMENTO DE LA COMISION ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION
+REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CONSIDERANDO DÉCIMO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de febrero de 2009.
 
@@ -751,12 +753,18 @@ Dr. Víctor Aurelio Zúñiga González
 
 Secretario
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE DICIEMBRE DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
 
 PRIMERO: Expedir la reforma al Reglamento de la Comisión Estatal Electoral en Materia de Transparencia y Acceso a la Información, en los términos expuestos en el presente acuerdo.
 
 SEGUNDO: Publicar el presente acuerdo en el Periódico Oficial del Estado, para los efectos legales a que haya lugar.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Queda abrogado el Reglamento de la Comisión Estatal Electoral en Materia de Transparencia y Acceso a la Información aprobado por el Pleno de la Comisión Estatal Electoral en sesión ordinaria celebrada el veintitrés de febrero de dos mil nueve y publicado en el Periódico Oficial del Estado número veintisiete en fecha veinticinco de febrero de dos mil nueve.
