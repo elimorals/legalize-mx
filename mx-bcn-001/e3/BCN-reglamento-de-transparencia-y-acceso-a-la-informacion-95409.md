@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-95409"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2013-08-09"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -117,6 +117,30 @@ XIX. Unidad: La Unidad Municipal Concentradora de Transparencia y Acceso a la In
 
 XX. Unidad Receptora: Al personal de cada sujeto obligado que funge como vínculo con la Unidad, responsable de la atención a las solicitudes de información pública, actualización de la información de oficio en el portal, así como las solicitudes de corrección de datos personales, competencia de la dependencia o entidad de su adscripción.
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 4 Bis.
+
+Toda persona por sí o por medio de representante legal, tiene derecho a presentar una solicitud de acceso a la información, sin necesidad de sustentar justificación o motivación alguna.
+
+Todos los procedimientos relativos al acceso a la información deberán regirse por los siguientes principios:
+
+I. Máxima publicidad;
+
+II. Simplicidad y prontitud en el procedimiento;
+
+III. Gratuidad;
+
+IV. Suplencia de la solicitud,
+
+V. Orientación y asesoría a los particulares.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 4 Ter.
+
+Las disposiciones de este reglamento son aplicables para los organismos ciudadanos, instituciones privadas y organismos no gubernamentales que reciban, administren o apliquen recursos públicos, sólo en lo referente a la solicitud y entrega de información respecto del origen, administración y aplicación de dichos recursos.
+
 ###### Artículo 5.
 
 La vigilancia, aplicación, interpretación y evaluación para el cumplimiento del Reglamento, compete a las autoridades señaladas en el ámbito de su competencia.
@@ -145,9 +169,15 @@ VIII. Las enajenaciones de bienes que realicen por cualquier título o acto (ven
 
 IX. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base a la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 7.
 
-La Unidad será la responsable de actualizar la información a que se refiere el artículo anterior conforme a los plazos estableciaos (sic) por la Ley, indicando la fecha de la actualización, invariablemente estar en idioma español de tal forma que facilite su uso y comprensión por los ciudadanos y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+La Unidad será la responsable de actualizar la información a que se refiere el artículo anterior conforme a los plazos establecidos por la Ley, indicando la fecha de la actualización, invariablemente estar en idioma español de tal forma que facilite su uso y comprensión por los ciudadanos y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+
+Para el cumplimiento de lo anterior, el Titular de la Unidad, deberá contar (sic) el apoyo directo de la Subdirección de Informática, dependencia en la cual contará con un Responsable de Enlace que dependerá de la Unidad, y tendrá la función de atender todos los requerimientos de la Unidad de publicación y/o actualización y/o cualquier otra actividad a realizarse en el portal oficial (página web) del Ayuntamiento de Ensenada, o en el de la propia Unidad.
+
+La Subdirección de Informática deberá brindar todas las facilidades necesarias para el buen desempeño de las funciones del Enlace de la Unidad, en las instalaciones de la Subdirección; en caso de omisión de esta disposición, el Director de Informática o quien realice sus funciones, será sujeto a la Ley de Responsabilidad de los Servidores Públicos Para el Estado de Baja California.
 
 ###### Artículo 8.
 
@@ -207,9 +237,43 @@ La Unidad Receptora de los sujetos obligados serán responsables del cuidado y c
 
 ### CAPÍTULO I. DE LA UNIDAD MUNICIPAL CONCENTRADORA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LAS UNIDADES RECEPTORAS
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 17.
 
-Para la atención de las solicitudes de información el Ayuntamiento contará con una Unidad Municipal Concentradora de Transparencia y Acceso a la Información, que dependerá de la Coordinación General de Gabinete, tendrá como objeto ser el vínculo entre la Unidad Receptora de los sujetos obligados y el solicitante, además será la responsable de difundir la información de oficio, supervisar que el resto de los sujetos obligados lo hagan, recibir y tramitar las solicitudes de acceso a la información y de protección de datos personales que se formulen a los sujetos obligados y por ende obligada a realizar las notificaciones relacionadas con los procedimientos previstos en la Ley y este ordenamiento.
+Para la atención de las solicitudes de información el Ayuntamiento contará con una Unidad Municipal Concentradora de Transparencia y Acceso a la Información, que dependerá de la Oficina de Presidencia, tendrá como objeto ser el vínculo entre la Unidad Receptora de los sujetos obligados y el solicitante, además será la responsable de difundir la información de oficio, supervisar que el resto de los sujetos obligados lo hagan, recibir y tramitar las solicitudes de acceso a la información y de protección de datos personales que se formulen a los sujetos obligados y por ende obligada a realizar las notificaciones relacionadas con los procedimientos previstos en la Ley y este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 17 Bis.
+
+La Unidad estará a cargo de un titular, que contará con un responsable de Enlace con la Subdirección de Informática, además del apoyo humano y material necesario para el cumplimiento de las funciones de la misma, conforme lo permitan las condiciones presupuestales del Ayuntamiento.
+
+El Titular de la Unidad, es el responsable de vigilar que el presente Reglamento sea aplicado y observado por los Sujetos Obligados, así como de ejecutar las atribuciones y deberes establecidos para la Unidad por la Ley y el presente ordenamiento.
+
+El Titular tendrá la obligación de informar a la Dirección de Asuntos Jurídicos, la omisión en el cumplimiento de las disposiciones de la ley y del presente reglamento, o la obstrucción del cumplimiento de las actividades de la Unidad, en que incurran las autoridades competentes.
+
+El cargo es incompatible con cualquier otro empleo, cargo o comisión, salvo la docencia y la investigación académica, siempre y cuando no se atiendan de tiempo completo.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 17 Ter.
+
+Para ser Titular de la Unidad se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos;
+
+II. Contar con residencia legal en el Municipio de Ensenada, B.C. de por lo menos cinco años anteriores a la designación;
+
+III. Gozar de reconocido prestigio personal y profesional;
+
+IV. Ser licenciado en derecho o administración pública con título legalmente expedido por la autoridad correspondiente o experiencia en la administración pública;
+
+V. No haber sido condenado por delito doloso;
+
+VI. No haber sido dirigente de ningún Partido Político a nivel Nacional, Estatal o Municipal, o de una asociación Política en el período de cuatro años seis meses anteriores a la fecha de su designación; y
+
+VII. No ser ministro o dirigente de algún culto o asociación religiosa.
 
 ###### Artículo 18.
 
@@ -253,7 +317,9 @@ XVI. Observar el transcurso y el vencimiento de los plazos de reserva de informa
 
 XVII. Supervisar y revisar que el Portal sea actualizado con la periodicidad debida y que se contenga la información de oficio actualizada;
 
-XVIII. Fomentar la cultura de transparencia; y
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+XVIII. Fomentar la cultura de la transparencia, promover el derecho de acceso a la información pública y la protección de los datos personales; y
 
 XIX. Las demás obligaciones que señalen ésta Ley y los reglamentos.
 
@@ -291,17 +357,21 @@ En el caso de las Delegaciones Municipales, éstas actuarán como oficina recept
 
 En este último caso, el plazo para la entrega de la información queda automáticamente duplicado.
 
-### CAPÍTULO II. DEL COMITÉ TÉCNICO DE TRANSPERENCIA (SIC) Y ACCESO A LA INFORMACION PÚBLICA DEL AYUNTAMIENTO DE ENSENADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+### CAPÍTULO II. DEL COMITÉ TÉCNICO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE ENSENADA
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 24.
 
-El Comité Municipal de Información Pública, es un órgano normativo y tendrá como objeto coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
+El Comité técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Ensenada, es un órgano normativo y tendrá como objeto coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
 
 I. El Presidente Municipal, quien presidirá el Comité de Información;
 
 II. El Síndico Procurador;
 
-III. Sindico Social;
+III. Síndico Social;
 
 IV. El Regidor Coordinador de la Comisión de Gobernación y Legislación;
 
@@ -311,13 +381,13 @@ VI. El Regidor Coordinador de la Comisión de Transparencia y Rendición de Cuen
 
 VII. El Secretario General del Ayuntamiento;
 
-VIII. El Coordinador General de Gabinete;
+VIII. Jefe de la Oficina de Presidencia;
 
-IX. El Secretario de Finanzas y Administración;
+IX. Tesorero Municipal;
 
 X. El Director de Asuntos Jurídicos;
 
-XI. El Director de Informática; y
+XI. El Subdirector de Informática; y
 
 XII. El Titular de la Unidad Municipal Concentradora de Transparencia y Acceso a la Información, quien fungirá como Secretario Técnico del mismo y sólo tendrá derecho a voz.
 
@@ -329,11 +399,13 @@ El Presidente Municipal podrá designar un representante para que asista a las s
 
 Los integrantes del Comité harán comparecer a los titulares de las Dependencias o Entidades, cuando se discutan asuntos relacionados con éstas y que tengan que resolverse de manera específica o que por el nivel técnico requieran de su presencia para que emitan sus opiniones al respecto.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 26.
 
 El Comité sesionará por lo menos dos veces al año con el objeto de satisfacer las funciones que por Ley le competen, sus decisiones se tomarán por mayoría de votos y en caso de empate el voto de calidad lo tendrá el Presidente Municipal o quien lo represente.
 
-Para acreditar quórum para sesionar se requiere por lo menos con la presencia de las dos terceras partes de los miembros del Comité y la convocatoria para las sesiones será entregada a los integrantes del comité por conducto del titular de la Unidad debiendo expresar los puntos a tratar a manera de orden del día.
+Para acreditar quórum para sesionar se requiere por lo menos la presencia de la mitad más uno de los miembros del Comité y la convocatoria para las sesiones será entregada a los integrantes del comité por conducto del titular de la Unidad debiendo expresar los puntos a tratar a manera de orden del día.
 
 Las sesiones serán públicas, excepto en aquellos casos que en el orden del día se vayan a tratar datos o información que pueda ser clasificada como reservada, confidencial o verse sobre datos personales.
 
@@ -510,3 +582,13 @@ Se extiende la presente certificación a solicitud de parte interesada para los 
 EL SECRETARIO GENERAL DEL XX AYUNTAMIENTO DE ENSENADA, B.C. CON FACULTADES DE FEDATARIO
 
 LIC. MIGUEL ANGEL LEY ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
+
+SEGUNDO.- Una vez siendo aprobada la presente reforma no será aplicable el perfil establecido en el presente reglamento, ni transgredir los derechos laborales del actual Titular de la Unidad de Transparencia y Acceso a la Información, por lo que al momento de designar un nuevo Titular este deberá cumplir con los requisitos establecidos en el presente reglamento.
+
+TERCERO.- El Responsable de Enlace de la Unidad que menciona el presente Reglamento será designado del personal actual de la dependencia.
