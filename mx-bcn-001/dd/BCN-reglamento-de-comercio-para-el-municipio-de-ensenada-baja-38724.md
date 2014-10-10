@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2010-04-30"
+last_updated: "2014-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -103,51 +103,71 @@ Para efectos de este Reglamento se consideran:
 
 ACTIVIDADES COMERCIALES O PRESTACIÓN DE SERVICIOS: los actos de comercio o explotación de algún giro, u obtengan de algún modo ingresos por el Ejercicio de Actividades comerciales que ejecuten dentro de los límites del Municipio, las personas físicas que en la vía pública en forma ambulante, fija, semifija y mercado común, con permiso anual o accidental.
 
-VENDEDOR AMBULANTE: Es el comerciante debidamente autorizado que presta sus servicios transitando por las calles y banquetas transportando la mercancía sobre sus propios cuerpos o utiliza en su actividad muebles rodantes de cualquier tipo, y no se detiene en forma permanente en un solo lugar, sino solo para ofrecer sus productos a quien lo solicite mediante una remuneración de los mismos no debiendo permanecer más de 15 minutos en el mismo lugar pudiendo repetir dicha acción salvo en otro lugar distinto al anterior y a una distancia mínima de 100 metros, quedan comprendidos dentro de esta definición:
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
 
-a).- Aseadores de calzado;
+VENDEDOR AMBULANTE: Es el comerciante debidamente autorizado que presta sus servicios transitando por las calles y banquetas transportando la mercancía sobre sus propios cuerpos o utiliza en su actividad muebles rodantes y no se detienen en forma permanente en un solo lugar, sino solo para ofrecer sus productos a quien le solicite mediante una remuneración de los mismos, no debiendo permanecer más de 15 minutos en el mismo lugar pudiendo repetir dicha acción salvo en otro lugar distinto al anterior y a una distancia mínima de 100 metros, quedan comprendidos dentro de esta definición:
 
-b).- Voceadores;
+a) Aseadores de calzado;
 
-c).- Vendedores de dulces;
+b) Voceaderos (sic);
 
-d).- Vendedores de Artesanías Mexicanas;
+c) Vendedores de dulces;
 
-e).- Vendedores de flores;
+d) Vendedores de Artesanías Mexicanas;
 
-f).- Vendedores de alimentos preparados;
+e) Vendedores de flores;
 
-g).- Vendedores de joyería de plata;
+f) Vendedores de alimentos preparados;
 
-h).- Vendedores de joyería de alpaca;
+g) Vendedores de joyería de plata;
 
-i).- Vendedores de bebidas refrescantes sin alcohol;
+h) Vendedores de bebidas refrescantes sin alcohol;
 
-j).- Paleteros;
+i) Peleteros;
 
-k).- Vendedores de nieve en vehículo motorizado;
+j) Vendedores de nieve en vehículo motorizado;
 
-l).- Fotógrafos;
+k) Fotógrafos;
 
-m).- Vendedores de fruta seca;
+l) Vendedores de fruta seca;
 
-n).- Vendedores de palo fierro y todos aquellos no comprendidos que incidan en este ordenamiento, debiendo además, sujetarse a todas las disposiciones anotadas en su permiso.
+m) Vendedores de palo fierro y todos aquellos no comprendidos que incidan en este ordenamiento, debiendo demás (sic), sujetarse a todas las disposiciones anotadas en su permiso.
+
+Los muebles rodantes no pueden exceder las siguientes medidas:
+
+De altura: 1.20 Metros
+
+De ancho: .50 Metros
+
+De largo: 1 Metro
+
+Las llantas no podrán tener más de .20 Metros de altura.
+
+En ningún caso el mueble rodante antes descrito excederá las medidas antes estipuladas incluyendo la mercancía que en ellos se transporte, con la excepción de 5 Centímetros de ancho de cada lado para la mercancía colgante.
+
+Los muebles rodantes deberán ser de estructura metálica y de color blanco.
 
 VENDEDOR EN PUESTO SEMIFIJO: Es el comerciante debidamente autorizado que ejerce su actividad estableciéndose o instalándose de manera transitoria en la vía pública en días y horarios determinados, retirándose del lugar para instalarse nuevamente en la jornada siguiente, en el lugar indicado en su permiso, quedando estrictamente prohibido dejar su carreta, puesto o mercancía en la vía pública, quien además, deberá sujetarse a todas las disposiciones anotadas en su permiso.
 
 VENDEDOR EN PUESTO FIJO: Es el comerciante debidamente autorizado, ya que se establece en línea de calle de manera permanente, sujetándose al horario indicado y todas las disposiciones anotadas en su permiso.
 
-VENDEDOR EN MERCADO COMUN: Es el comerciante debidamente autorizado, que participando con un grupo de comerciantes, se estaciona en un lugar específico de la vía pública en las colonias populares un determinado día de la semana, con sujeción a las condiciones fijadas en su permiso y bajo las condicionantes y regulaciones que en lo específico establece el presente Reglamento, para el expendio de mercancías o prestación de servicios al público.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+VENDEDOR EN MERCADO COMÚN: Es el comerciante debidamente autorizado, que participando con un grupo de comerciantes, se estaciona en un lugar específico de la vía pública en las colonias populares un determinado día de la semana, con sujeción a las condiciones fijadas en su permiso y bajo las condicionantes y regulaciones que en lo específico establece el presente Reglamento, para el expendio de mercancías o prestación de servicios al público.
 
 PERMISO ANUAL: Es la autorización otorgada por la Autoridad Municipal para ejercer el comercio sobre la vía pública por un período de 12 meses.
 
 PERMISO ACCIDENTAL: Es la autorización para expender mercancías en forma periódica y/o temporal por lapsos de 1 hasta 30 días.
 
-ARTESANIA: Arte u obra de los artesanos.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+ARTESANÍA: Arte u obra de los artesanos.
 
 ARTESANO: Persona que a diferencia del obrero febril; ejercita un arte u oficio meramente mecánico, referente a quien hace o elabora objetos de uso doméstico, imprimiéndoles un sello personal, manifestación de la actividad humana, mediante la cual se expresa una visión personal que interpreta lo real o lo imaginativo.
 
-GIRO COMERCIAL: Artículo(s) o tipo de alimento autorizado para su venta, de acuerdo a este Reglamento.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+
+GIRO COMERCIAL: ARTÍCULO(s) o tipo de alimento autorizado para su venta, de acuerdo a este Reglamento.
 
 ###### ARTÍCULO 8.
 
@@ -405,7 +425,7 @@ f).- Queda prohibido para fines publicitarios la utilización de aparatos de son
 
 g).- A cada puesto se le asignará un número de manera progresiva;
 
-h).- Deberán ajustarse disposiciones que en materia de salud, vialidad, uso de suelo y protección civil que se encuentren vigentes, para lo cual la Dirección de Comercio Municipal solicitará la expedición de dictámenes de factibilidad a efecto corroborar (sic) dicha situación;
+h).- Deberán ajustarse disposiciones que en materia de salud, vialidad, uso de suelo y protección civil que se encuentren vigentes, para lo cual la Dirección de Comercio Municipal solicitará la expedición de dictámenes de factibilidad a efecto corroborar dicha situación;
 
 i).- Al instalarse, no tapar la visibilidad de otro puesto con lona o mercancía;
 
@@ -503,7 +523,7 @@ XIII.- Utilizar a menores de edad para que ejerzan su actividad, salvo lo dispue
 
 XIV.- Comercializar en la vía pública, automóviles nuevos y usados;
 
-XV.- Incumplir con las disposiciones a que deben sujetarse en lo genérico o en lo específico los comerciantes regulados por este Reglamento; (sic)
+XV.- Incumplir con las disposiciones a que deben sujetarse en lo genérico o en lo específico los comerciantes regulados por este Reglamento;
 
 ###### ARTÍCULO 52.
 
@@ -699,11 +719,11 @@ Lic. Guillermo Bernardo Islas León
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE ENERO DE 2005.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 15 DE ENERO DE 2010.
 
@@ -716,3 +736,7 @@ P.O. 30 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
