@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-28"
-last_updated: "2009-04-28"
+last_updated: "2014-10-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO (JAPEM)
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO (JAPEM)
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO (JAPEM)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN (COCOE), DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO (JAPEM) PUBLICADO EN LA G.G. DE 10 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 28 de abril de 2009.
 
@@ -151,7 +153,7 @@ III. Las sesiones extraordinarias se realizarán las veces que sea necesario, se
 
 IV. En los casos en que los integrantes del Comité soliciten la inclusión de asuntos en el orden del día, se deberá actuar en los términos del Artículo 25 del presente Reglamento y el Secretario Técnico deberá remitir a los demás integrantes, anexo a la convocatoria, copia de la documentación soporte e información sobre el asunto que se pretende incluir.
 
-V. La convocatoria a los invitados se efectuará con la misma anticipación fijada para los integrantes del Comité, dándoles a conocer el orden del día y acompañando la información complementaria de los asuntos a tratar con los que tenga ingerencia. En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria correspondiente.
+V. La convocatoria a los invitados se efectuará con la misma anticipación fijada para los integrantes del Comité, dándoles a conocer el orden del día y acompañando la información complementaria de los asuntos a tratar con los que tenga ingerencia (sic). En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria correspondiente.
 
 ###### Artículo 11.
 
@@ -329,7 +331,7 @@ VIII. Fungir como responsable del escrutinio, en los asuntos que sean sometidos 
 
 IX. Recopilar, ordenar y organizar la información de los asuntos a tratar en las sesiones del Comité.
 
-X. Elaborar las actas del Comité y verificar que sean debidamente firmadas por los asistentes; asÍ como integrar la documentación correspondiente para su archivo y control.
+X. Elaborar las actas del Comité y verificar que sean debidamente firmadas por los asistentes; así como integrar la documentación correspondiente para su archivo y control.
 
 XI. Llevar el registro de los acuerdos cumplidos y por cumplir para presentar la situación que guardan; asimismo registrar en las actas de cada sesión el estado que guarda la totalidad de los acuerdos en proceso de sesiones anteriores.
 
@@ -476,3 +478,17 @@ Subdirectora de Evaluación y Capacitación
 Vocal del Comité
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del
+
+Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE publicado el veintiocho de abril de dos mil nueve.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
