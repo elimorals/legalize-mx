@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-estatal-electoral-y-de-las-64232"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-27"
-last_updated: "2008-10-27"
+last_updated: "2014-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE LA COMISION ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA COMISIÓN ESTATAL ELECTORAL Y DE LAS COMISIONES MUNICIPALES ELECTORALES DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 27 de octubre de 2008.
 
@@ -632,7 +634,7 @@ Las actividades de difusión y comunicación social, deben preservar la naturale
 
 ###### Artículo 62.
 
-La Comisión fomentará el acercamiento permanente con los medios de comunicación, con la finalidad de garantizar la plena y oportuna información hacia la ciudadanía en general, de todos sus proyectos, planes, programas, campañas y de toda actividad que desarrolle la Comisión, las Comisiones Municipales, las Mesas Directivas de Casilla y las Mesas Auxiliares de Cómputo del Estado, estableciendo para tal efecto la Unidad Técnica de Comunicación Social, dependiente de la Coordinación Técnica de conformidad con Io establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
+La Comisión fomentará el acercamiento permanente con los medios de comunicación, con la finalidad de garantizar la plena y oportuna información hacia la ciudadanía en general, de todos sus proyectos, planes, programas, campañas y de toda actividad que desarrolle la Comisión, las Comisiones Municipales, las Mesas Directivas de Casilla y las Mesas Auxiliares de Cómputo del Estado, estableciendo para tal efecto la Unidad Técnica de Comunicación Social, dependiente de la Coordinación Técnica de conformidad con lo establecido en los artículos 81 fracción VII, 84, 86 y 87 de la Ley.
 
 ###### Artículo 63.
 
@@ -780,7 +782,7 @@ V. Coadyuvar en el diseño del sistema de cómputo y difusión electrónica rela
 
 VI. Mantener actualizada la cartografía electoral;
 
-VII. Solicitar continuamente, la actualización al Registro Federal del Electores de la Lista Nominal de electores y del Padrón Electoral en el Estado;
+VII. Solicitar continuamente, la actualización al Registro Federal del (sic) Electores de la Lista Nominal de electores y del Padrón Electoral en el Estado;
 
 VIII. Realizar los estudios comparativos respecto de otros organismos electorales relativos a la organización y estadística electoral;
 
@@ -790,7 +792,7 @@ X. Colaborar en la elaboración del informe de cada proceso electoral;
 
 XI. Colaborar en las actividades de negociación y aplicación del Convenio y Anexos Técnicos entre el Instituto Federal Electoral y la Comisión para el desarrollo de las elecciones;
 
-XII. Responsable de las actividades y obligaciones del Registro Estatal de Electores, que no se suspendan por el cumplimiento de los Artículos Segundo y Tercero transitorios del Decreto numero 202, publicado en el Periódico Oficial del Estado de Nuevo León, de fecha 30-treinta de julio de 1999-mil novecientos noventa y nueve, mediante el cual se reformó la Ley, así como las derivadas del convenio respectivo.
+XII. Responsable de las actividades y obligaciones del Registro Estatal de Electores, que no se suspendan por el cumplimiento de los Artículos Segundo y Tercero transitorios del Decreto número 202, publicado en el Periódico Oficial del Estado de Nuevo León, de fecha 30-treinta de julio de 1999-mil novecientos noventa y nueve, mediante el cual se reformó la Ley, así como las derivadas del convenio respectivo.
 
 XIII. Realizar la negociación de la logística entre la Comisión y las Instituciones de Educación Superior del Estado para la designación de los auxiliares electorales que establece la Ley y la del Servicio Profesional Electoral;
 
@@ -820,7 +822,7 @@ d. Coadyuva con los proyectos de sesiones (actas, acuerdos, circulares y órdene
 
 e. Realiza el proceso de monitoreo de sesiones (asistencia, fechas y reemplazos de funcionarios);
 
-f. Coadyuva en el proceso de lIenado de actas de sesión de acuerdo a la Ley;
+f. Coadyuva en el proceso de llenado de actas de sesión de acuerdo a la Ley;
 
 g. Apoya en el seguimiento a los acuerdos de las sesiones;
 
@@ -1330,7 +1332,7 @@ Artículo Tercero.- Los asuntos que se encuentren en trámite a la entrada en vi
 
 Por lo anteriormente expuesto, motivado y fundado, se acuerda:
 
-PRIMERO: Expedir el Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, formulado en los términos expuestos en el presente acuerdo. En consecuencia, (sic)
+PRIMERO: Expedir el Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, formulado en los términos expuestos en el presente acuerdo. En consecuencia,
 
 SEGUNDO: Abrogar el Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, expedido el uno de mayo de mil novecientos noventa y siete.
 
@@ -1347,3 +1349,17 @@ Presidente
 Dr. Alejandro Medina Pérez
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2014.
+
+Artículo Primero.- El presente Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se abroga el Reglamento de la Comisión Estatal Electoral y de las Comisiones Municipales Electorales del Estado de Nuevo León, aprobado en fecha 13 de octubre de 2008, publicado en el Periódico Oficial del Estado, en fecha 27 de octubre de 2008.
+
+Artículo Tercero.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Artículo Cuarto.- La sustitución del personal del servicio profesional electoral y administrativo será de manera temporal en tanto se apruebe el estatuto del Servicio Profesional Electoral Nacional. Durante este lapso, las designaciones temporales del personal del servicio profesional electoral y administrativo de la Comisión serán realizadas por el Consejero Presidente.
+
+Artículo Quinto.- Por lo que hace a la regulación del Servicio Profesional Electoral, que establecen los artículos 24, fracción V, 31, fracción IV, 38, fracción III, 81, 82, fracciones V y VI y demás disposiciones a fines del Reglamento, estarán vigentes hasta en tanto el Instituto Nacional Electoral emita y aplique el estatuto y demás normatividad del Servicio Profesional Electoral Nacional.
