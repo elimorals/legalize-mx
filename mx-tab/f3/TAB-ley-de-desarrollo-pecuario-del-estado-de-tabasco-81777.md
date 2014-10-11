@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-pecuario-del-estado-de-tabasco-81777"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2011-06-01"
+last_updated: "2014-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2011.
 
@@ -335,7 +335,7 @@ VII. Establecerá las políticas para el mejoramiento genético de las especies 
 
 VIII. Realizará acciones y programas de capacitación para la implementación de las buenas prácticas pecuarias y de producción, con el objeto de proteger y conservar la fauna silvestre, manteniendo el equilibrio de los ecosistemas y el ambiente en general;
 
-IX. Promoverá la instalación (sic) centros de acopio de leche con la finalidad de mantener un control estadístico, sanitario y de calidad del producto; y (sic)
+IX. Promoverá la instalación (sic) centros de acopio de leche con la finalidad de mantener un control estadístico, sanitario y de calidad del producto; y
 
 X. Otorgará apoyos preferentemente en especie para el fortalecimiento de las unidades de producción dirigidas al autoabastecimiento;
 
@@ -1253,7 +1253,9 @@ La Secretaría, resolverá en definitiva lo conducente en un término no mayor d
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Para los efectos que contrae esta Ley, se derogan todas las disposiciones legales o reglamentarias que estén en vigor y que se opongan a la misma.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2014)</small>
+
+SEGUNDO.- Se abroga la Ley de Ganadería del estado de Tabasco, publicada en el suplemento 6084, del Periódico Oficial del estado, de fecha 27 de Diciembre del 2000 y el Reglamento de la Ley de Ganadería del estado de Tabasco, publicado en el suplemento 6104, del Periódico Oficial del estado, de fecha 07 de Marzo del 2001.
 
 TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término no mayor de ciento ochenta días hábiles a la entrada en vigor del presente ordenamiento.
 
@@ -1278,3 +1280,9 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
