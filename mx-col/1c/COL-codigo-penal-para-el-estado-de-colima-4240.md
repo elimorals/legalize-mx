@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2014-08-16"
+last_updated: "2014-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
+> <small>N. DE E. DE ACUERDO AL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO SE ABROGA GRADUALMENTE, DE CONFORMIDAD A LAS FECHAS EN QUE SE VAYA INCORPORANDO EL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL EN EL PARTIDO JUDICIAL CORRESPONDIENTE, ACORDE A LAS REGIONES Y MODALIDADES REFERIDAS EN EL TRANSITORIO PRIMERO DE DICHO PERIÓDICO OFICIAL.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE AGOSTO DE 2014 NO APLICA AL ARTICULADO DEL DECRETO No. 352 PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -123,7 +123,7 @@ Se califican como delitos graves, para todos los efectos legales, por afectar de
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., 15 DE OCTUBRE DE 2011)
 
-En tratándose (sic) del delito de Lesiones, se exceptúa de lo dispuesto por el párrafo anterior los casos previstos en los artículos 175, 176, 177 y 178, cuando las lesiones sean de las señaladas en las fracciones I y II del artículo 174.
+En tratándose del delito de Lesiones, se exceptúa de lo dispuesto por el párrafo anterior los casos previstos en los artículos 175, 176, 177 y 178, cuando las lesiones sean de las señaladas en las fracciones I y II del artículo 174.
 
 ###### ARTICULO 11.
 
@@ -2269,7 +2269,7 @@ El Homicidio y las lesiones son calificados cuando se cometan con cualquiera de 
 
 I.- Con premeditación, la que se dá cuando el agente haya reflexionado sobre el delito que pretende cometer;
 
-II.- Con alevosía, consistente en sorprender intencionalmente a alguien de improviso o empleando acechanza (sic) o engaño;
+II.- Con alevosía, consistente en sorprender intencionalmente a alguien de improviso o empleando acechanza o engaño;
 
 III.- Con ventaja, entendida ésta cuando el delincuente tenga conciencia plena de que no corre riesgo de ser muerto o lesionado por el ofendido;
 
@@ -4106,3 +4106,31 @@ P.O. 9 DE AGOSTO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Con respecto a la descripción típica y penalidad, la investigación y persecución de los delitos se estará a lo dispuesto en la Ley General en Materia de Delitos Electorales y demás legislación federal y local aplicables.
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
+
+I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+
+II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+
+III. En materia de Justicia Penal para Adolecentes entrará en vigor el 1º de abril del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+
+IV. El 5 de agosto del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
+
+V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Penal para el Estado de Colima publicado el día 27 de Julio de 1985 en el Periódico Oficial "El Estado de Colima" gradualmente, de conformidad a las fechas en que se vaya incorporando el Nuevo Sistema de Justicia Penal Acusatorio Adversarial en el partido judicial correspondiente, conforme a lo establecido en el Artículo Transitorio anterior, hasta que quede abrogado definitivamente. Asimismo, quedan abrogadas todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En la medida que se vaya aplicando el presente Código gradualmente en los partidos judiciales de la Entidad especificados en el Artículo Primero Transitorio de este Decreto, se derogarán gradualmente las disposiciones contenidas para el robo de ganado contenidas en la Ley de Ganadería del Estado de Colima y el artículo 398 de la Ley de Asentamientos Humanos del Estado de Colima. Asimismo, se derogan los preceptos de cualquier otra ley que establezca delitos previstos en este Código.
+
+###### ARTÍCULO CUARTO.
+
+Respecto a las disposiciones contenidas en el presente Decreto, en caso de que no se dieran las condiciones necesarias para la implantación del Nuevo Sistema de Justicia Penal Acusatorio Adversarial en el Estado, de conformidad con lo previsto en el Artículo Primero Transitorio antes señalado, se hará una declaratoria de ampliación del término para la entrada en vigor del mismo.
