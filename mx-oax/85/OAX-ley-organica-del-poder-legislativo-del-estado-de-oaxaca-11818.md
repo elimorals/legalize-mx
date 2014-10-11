@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2014-04-12"
+last_updated: "2014-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -383,7 +383,7 @@ XII.- Celebrar convenios de coordinación con las Entidades y dependencias del G
 
 XIII.- Asumir y desempeñar las atribuciones que no estén expresamente señaladas a la Mesa Directiva de la Legislatura;
 
-XIV.- Proponer al pleno del Congreso del Estado, la agenda legislativa; y (sic)
+XIV.- Proponer al pleno del Congreso del Estado, la agenda legislativa; y
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -645,9 +645,11 @@ Los integrantes de las Comisiones podrán ser aumentados según las necesidades 
 
 Las Comisiones son responsables de todos los expedientes que reciban de la Secretaría y de los documentos que se le remitan de otros archivos u oficinas.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 48.
 
-Las Comisiones dictaminarán por escrito acerca de los asuntos que se le turnen y después de referir cuando sea conducente, propondrán la resolución que en su concepto deba tomarse, reduciéndola a proposiciones o artículos claros y sencillos que puedan sujetarse a votación.
+Las Comisiones dictaminarán por escrito acerca de los asuntos que se le turnen y después de referir cuando sea conducente, motivarán su resolución con perspectiva de género, multiculturalidad, sustentabilidad, y desarrollo social que en su concepto deba tomarse, reduciéndola a proposiciones o artículos claros y sencillos que puedan sujetarse a votación.
 
 ###### ARTICULO 49.
 
@@ -1060,3 +1062,7 @@ P.O. 4 DE DICIEMBRE DE 2013.
 P.O. 12 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor día el (sic) primero de mayo del presente año, publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entra en vigor el día siguiente de su aprobación. Publíquese en el Periódico Oficial del Gobierno (sic)
