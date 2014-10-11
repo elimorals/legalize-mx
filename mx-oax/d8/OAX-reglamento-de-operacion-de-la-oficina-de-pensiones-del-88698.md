@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-operacion-de-la-oficina-de-pensiones-del-88698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-14"
-last_updated: "2013-11-23"
+last_updated: "2014-10-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "OAX"
 
 REGLAMENTO DE OPERACIÓN DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 14 de junio de 2012.
 
@@ -846,9 +846,13 @@ III. Fotocopia del comprobante de domicilio reciente del solicitante y de los av
 
 El trámite de obtención de la solicitud de préstamo quirografario deberá realizarlo el interesado. En este acto se hará entrega de la solicitud correspondiente para que el interesado recabe las firmas de los avales si es que los requiriera y del jefe del Área Administrativa de la Dependencia que corresponda quien sellará la solicitud.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2014)</small>
 
-No se autorizarán dos préstamos quirografarios a la misma persona a la vez, aun cuando estos siendo aportantes del fondo de pensiones gocen de una pensión por fallecimiento.
+Se podrán autorizar dos préstamos quirografarios a la misma persona a la vez, solo en el caso de que uno de ellos sea destinado a constituir el fondo de primeras perdidas para a (sic) la obtención de un crédito para cubrir su necesidad de vivienda de acuerdo a los convenios que en su caso celebre el Gobierno del Estado con el Instituto del Fondo Nacional de Vivienda para los Trabajadores (INFONAVIT)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE OCTUBRE DE 2014)</small>
+
+Precisando que el procedimiento para la constitución de dicho fondo de primeras perdidas una vez otorgado el préstamo quirografario que se refiere en líneas anteriores, será perfeccionado por la Oficina de Pensiones.
 
 ###### Artículo 75.
 
@@ -1273,3 +1277,9 @@ Director General de la Oficina de Pensiones del Estado de Oaxaca y Secretario de
 P.O. 23 DE NOVIEMBRE DE 2013.
 
 Artículo Único.- La presente reforma al Reglamento de Operación de la Oficina de Pensiones del Estado de Oaxaca, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA PARTE FINAL DEL PUNTO ÚNICO DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+Acto seguido los integrantes del Consejo Directivo instruyen al Director General a publicar el presente acuerdo en el Periódico Oficial del Gobierno del Estado para que surta los efectos correspondientes a partir de su publicación y a ejecutar el procedimiento que sea necesario para el perfeccionamiento y cumplimiento del presente acuerdo.
