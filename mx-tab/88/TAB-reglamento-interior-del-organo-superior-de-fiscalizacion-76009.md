@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-organo-superior-de-fiscalizacion-76009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-30"
-last_updated: "2011-10-01"
+last_updated: "2014-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de junio de 2010.
 
@@ -153,7 +155,7 @@ c) Las normas y procedimientos de auditoría para la revisión y fiscalización 
 
 d) Las recomendaciones sobre los sistemas, procedimientos, procedimientos y controles de contabilidad, normas de control interno del ingreso, gasto y patrimonio de los entes fiscalizables;
 
-e) Los Códigos de Ética Profesional y de Conducta de los Servidores Públicos del Órgano Superior de Fiscalización del Estado; y (sic)
+e) Los Códigos de Ética Profesional y de Conducta de los Servidores Públicos del Órgano Superior de Fiscalización del Estado; y
 
 f) Los Manuales de Organización y de Procedimientos del Órgano, conforme a la Ley, al presente Reglamento y a los acuerdos administrativos, así como establecer los demás ordenamientos administrativos y de servicios, necesarios para el mejor funcionamiento del Órgano.
 
@@ -793,7 +795,7 @@ l. Contar al momento de su designación con una experiencia mínima de 3 años e
 
 C. Los Subdirectores y Jefes de Departamento deberán reunir al momento de su designación, los siguientes requisitos:
 
-I. Cumplir con lo establecido en las fracciones I, lII y V, apartado A, del presente artículo;
+I. Cumplir con lo establecido en las fracciones I, III y V, apartado A, del presente artículo;
 
 II. Contar con una experiencia mínima de 2 años; y
 
@@ -805,7 +807,7 @@ I. Cumplir con Io establecido en las fracciones l, III y V apartado A, del prese
 
 II. Tener conocimientos básicos en la teoría y práctica del área de trabajo al que fuere asignado;
 
-III. Tener habilidad para comunicarse verbalmente y por escrito; y (sic)
+III. Tener habilidad para comunicarse verbalmente y por escrito; y
 
 IV. Tener conocimientos básicos del marco jurídico que regula la Fiscalización Superior y en el manejo de programas y equipos informáticos;
 
@@ -899,10 +901,24 @@ Fiscal Superior del Estado.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-1 DE OCTUBRE DE 2011.
+P.O. 1 DE OCTUBRE DE 2011.
 
 PRIMERO.- Las presentes modificaciones al Reglamento Interior del Órgano Superior del Estado, entrarán en vigor a partir del día siguiente de su publicación.
 
 SEGUNDO.- Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del presente Acuerdo, se tramitarán y resolverán por la Unidad Administrativa del Órgano que tenga para estos efectos la competencia, conforme al citado Reglamento.
 
 TERCERO.- En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del presente Acuerdo, continuarán siendo aplicables en lo conducente, los acuerdos, lineamientos, Manuales y demás, expedidos con anterioridad a la entrada en vigor del presente, en lo que no se oponga al mismo.
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+PRIMERO.- Se abroga el Reglamento Interior del Órgano Superior de Fiscalización del Estado publicado en el Suplemento B al Periódico Oficial del Estado número 7076 de fecha 30 de junio de 2010, reformado con fecha 1 de octubre de 2011 y publicado que fue en él Periódico Oficial del Estado número 7207, Suplemento B.
+
+SEGUNDO.- El presente Reglamento Interior del Órgano Superior de Fiscalización del Estado, entrará en vigor a partir del día siguiente de su publicación.
+
+TERCERO.- Los asuntos que se refieran a actos o resoluciones que se hayan emitido con anterioridad a la entrada en vigor del presente Acuerdo, se tramitarán y resolverán por la Unidad Administrativa del Órgano que tenga para estos efectos la competencia, conforme al citado Reglamento.
+
+CUARTO.- Se establece un plazo de 120 días hábiles a partir de la entrada en vigor del presente Reglamento, para emitir las disposiciones normativas que sean necesarias para el cumplimiento del presente Reglamento Interior, o para realizar las modificaciones que requieran los Manuales o lineamientos expedidos con anterioridad a la entrada en vigor del presente Acuerdo.
+
+QUINTO.- A más tardar en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Reglamento, emitir las disposiciones normativas que regulen el Servicio Fiscalizador de Carrera, así como los Comités a que se hace referencia en el presente Reglamento.
+
+SEXTO.- En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del presente Acuerdo, continuarán siendo aplicables en lo conducente, los acuerdos, lineamientos, Manuales y demás, expedidos con anterioridad a la entrada en vigor del presente, en lo que no se oponga al mismo.
