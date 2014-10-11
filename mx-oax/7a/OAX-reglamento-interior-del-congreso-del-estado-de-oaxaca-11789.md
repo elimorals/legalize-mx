@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2014-09-13"
+last_updated: "2014-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -959,9 +959,11 @@ Toda iniciativa será presentada por escrito.
 
 Las iniciativas de Leyes o Decretos presentadas por el Gobernador del Estado o el Presidente del Honorable Tribunal Superior de Justicia, previa lectura que se den a las mismas en sesión, pasarán desde luego a Comisión para estudio y dictamen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 72.
 
-Las iniciativas de Leyes o Decretos presentados por uno o más miembros del Congreso, sin que formen éstos la mayoría de la Legislatura, deberán quedar sujetos a los trámites siguientes:
+Las iniciativas de Leyes o Decretos presentados por uno o más miembros del Congreso, deberán observar perspectiva de género, multiculturalidad, sustentabilidad, y desarrollo social y quedar sujetos a los trámites siguientes:
 
 En la sesión en que sea presentada, será leída la iniciativa y podrá su autor ampliar los fundamentos de su proposición. Podrán hablar dos veces dos Diputados uno en pro y otro en contra, preguntándose a la asamblea si se pone o no a discusión, en el primer caso, el asunto pasará a la Comisión o Comisiones que corresponda, y en segundo se tendrá por desechado.
 
@@ -1684,3 +1686,7 @@ P.O. 4 DE DICIEMBRE DE 2013.
 P.O. 13 DE SEPTIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entra en vigor el día siguiente de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
