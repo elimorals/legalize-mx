@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2014-06-28"
+last_updated: "2014-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2014 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE OCTUBRE DE 2014.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -3986,6 +3986,8 @@ IX. Las demás que determinen la CONSTITUCIÓN o demás las (sic) leyes que resu
 Los Magistrados Electorales estatales gozarán de todas las garantías judiciales previstas en la CONSTITUCIÓN a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
 
 Los Magistrados Electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la CONSTITUCIÓN FEDERAL, la CONSTITUCIÓN y las leyes de responsabilidades de los servidores públicos aplicables.
+
+> <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2014)</small>
 
 # LIBRO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
