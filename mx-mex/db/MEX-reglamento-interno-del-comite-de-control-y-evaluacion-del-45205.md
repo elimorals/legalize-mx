@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-45205
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-13"
-last_updated: "2009-06-19"
+last_updated: "2014-10-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO DE INFORMACION E INVESTIGACION GEOGRAFICA, ESTADISTICA Y CATASTRAL DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL INSTITUTO DE INFORMACION E INVESTIGACION GEOGRAFICA, ESTADISTICA Y CATASTRAL DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL INSTITUTO DE INFORMACIÓN E INVESTIGACIÓN GEOGRÁFICA, ESTADÍSTICA Y CATASTRAL DEL ESTADO DE MÉXICO (COCOE), PUBLICADO EN LA G.G. DE 13 DE OCTUBRE DE 2014, EL PRESENTE REGLAMENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE OCTUBRE 2014 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 13 de junio de 2005.
 
@@ -63,7 +65,7 @@ V. Instancias Fiscalizadoras Externas: La Auditoría Superior de la Federación,
 
 VI. MICI: El Modelo Integral de Control Interno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -115,7 +117,7 @@ En cada sesión del COCOE se levantará un acta, en la que indicarán los acuerd
 
 Los miembros del COCOE firmarán el acta de dicha sesión aceptando con ello el cumplimiento de los compromisos contraídos.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE JUNIO DE 2009)</small>
 
 ### CAPITULO SEGUNDO. DEL FUNCIONAMIENTO DEL COCOE
 
@@ -189,7 +191,7 @@ X. Autorizar la participación de invitados a las sesiones del COCOE.
 
 XI. Las demás necesarias para el logro de los objetivos del COCOE.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 8], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 8], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -207,19 +209,19 @@ V. Cuando algún integrante del COCOE solicite la inclusión de asuntos en el or
 
 VI. La convocatoria a los invitados se efectuará en los términos establecidos en el artículo 39 del presente ordenamiento, dándoles a conocer el orden del día y acompañando la información complementaria de los asuntos a tratar en los que tenga injerencia. En el caso de que se requiera información y documentación por parte de los invitados, relativa a los asuntos a tratar en el orden del día, se le solicitará en la convocatoria correspondiente.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 9], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 9], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 10.
 
 Para que las sesiones ordinarias y extraordinarias del COCOE sean válidas, se deberá contar con la asistencia del Presidente, del Secretario Técnico y de la mayoría de los vocales que lo integran.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 10], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 10], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 11.
 
 En caso de no reunirse el quórum requerido, el Secretario Técnico levantará un acta en la que se haga constar este hecho y se convocará a una nueva reunión con la expresión de esta circunstancia, en un plazo no mayor a diez días hábiles tratándose de sesiones ordinarias y cinco días hábiles para sesiones extraordinarias.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 11], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 11], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 12.
 
@@ -227,19 +229,19 @@ En el caso de que la segunda reunión no cumpla con el quórum fijado en el Art�
 
 La reunión se celebrará con los asistentes a la misma.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 12], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 12], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 13.
 
 Cualquier integrante del COCOE podrá proponer modificaciones por situaciones no previstas en este Reglamento, las cuales deberán ser aprobadas por la mayoría de los miembros del COCOE y serán sometidas a la autorización del Consejo Directivo y posteriormente publicados en la Gaceta del Gobierno.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 13], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 13], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 14.
 
 En las sesiones del COCOE, los integrantes procederán a informar el avance y estado que guardan los asuntos que les hayan sido encomendados por acuerdo del COCOE, centrando los trabajos en la presentación, revisión y análisis de los problemas sustantivos del lGECEM y que competan al COCOE.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 14], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 14], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 15.
 
@@ -247,19 +249,19 @@ El Secretario deberá conservar por lo menos cinco años las actas de cada sesi�
 
 Cuando algún miembro del COCOE requiera la documentación señalada en el párrafo anterior, deberá solicitarla a través del Secretario, quien turnará el requerimiento al área respectiva y al recibir la respuesta, la remitirá al miembro solicitante.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 15], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 15], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 16.
 
 Es facultad del COCOE estudiar sobre aspectos prioritarios y proponer toda clase de acciones correctivas y preventivas a las problemáticas presentadas en materia de control y evaluación y convocar eventualmente la participación de funcionarios del IGECEM, con carácter de invitados.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 16], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 16], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 17.
 
 Para opinar sobre los asuntos presentados ante el COCOE, estos serán soportados por los análisis cualitativos y/o cuantitativos que amerite el caso, así como por la documentación soporte correspondiente que el propio COCOE juzgue pertinente.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 17], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 17], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -269,7 +271,7 @@ Los integrantes del COCOE, en su caso, harán las observaciones que consideren p
 
 En caso de no recibirse observaciones al acta en el plazo establecido, se entenderá tácitamente aprobada; las actas del COCOE se firmarán en la sesión inmediata posterior a la de su fecha, previa lectura de la misma.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 18], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 18], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 19.
 
@@ -281,13 +283,13 @@ En caso de empate, los miembros del COCOE que tengan injerencia en el asunto tra
 
 Ningún miembro del COCOE podrá ser interrumpido mientras tenga la palabra, a menos que se trate de una moción de orden.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 19], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 19], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 20.
 
 Las sesiones del COCOE no podrán exceder de tres horas, salvo que por mayoría de votos de sus integrantes se constituyan en sesión permanente para concluir la discusión o resolución de los asuntos pendientes.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 20], G.G. 19 DE JUNIO DE 2009)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20], G.G. 19 DE JUNIO DE 2009)
 
 ###### Artículo 21.
 
@@ -319,41 +321,41 @@ IX. Nombre y firma de los asistentes.
 
 ### CAPITULO PRIMERO. DE LAS ATRIBUCIONES DE CARACTER GENERAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 21], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 21], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 22.
 
 Todos los integrantes deberán cumplir con los acuerdos tomados durante las sesiones del COCOE, así como con las obligaciones que por su función dentro del mismo les corresponda, proporcionando oportuna y adecuadamente la información y documentación solicitada por este a través del Secretario.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 22], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 22], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 23.
 
 Los participantes se obligan a guardar secreto profesional sobre la información del lGECEM y a no utilizarla en beneficio propio o de intereses ajenos al mismo, aún después de que se concluya su intervención en el COCOE.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 23], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 23], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 24.
 
 Los integrantes tienen la facultad de solicitar al Secretario la inclusión de asuntos en la orden del día, siempre y cuando sean competencia del COCOE, con una anticipación no menor a diez días hábiles en los casos de sesiones ordinarias y de dos días hábiles para las sesiones extraordinarias, a la solicitud referida se deberá anexar el soporte documental que requiera.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 24], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 24], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 25.
 
 Cualquier integrante del COCOE podrá solicitar al Secretario Técnico, debidamente justificado, la realización de una sesión extraordinaria con una anticipación de cinco días hábiles, anexando a su solicitud la documentación soporte del asunto a tratar.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 25], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 25], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 26.
 
 Es facultad de los integrantes del COCOE proponer la asistencia de invitados, cuando así lo juzgue conveniente, justificando previamente su participación en el COCOE, para lo cual deberán apegarse a lo establecido en el articulo 39 del presente ordenamiento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 26], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 26], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 27.
 
-Los miembros del COCOE deberán cumplir en el ejercicio de sus funciones, con las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado (sic) y Municipios, el Reglamento Interior y Manual General de Organización del IGECEM, y con las demás disposiciones legales y normativas aplicables.
+Los miembros del COCOE deberán cumplir en el ejercicio de sus funciones, con las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, el Reglamento Interior y Manual General de Organización del IGECEM, y con las demás disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, G. G. 19 DE JUNIO DE 2009)</small>
 
@@ -361,13 +363,13 @@ Los miembros del COCOE deberán cumplir en el ejercicio de sus funciones, con la
 
 Los integrantes del COCOE tendrán la misma responsabilidad y jerarquía para opinar, sugerir y decidir sobre asuntos que se traten.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 27], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 27], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 29.
 
 Al finalizar cada ejercicio, el COCOE a través de su Presidente, presentará al H. Consejo Directivo un informe sobre su actuación, en el cual se incluirán los logros y objetivos alcanzados.
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 28], G.G. 19 DE JUNIO DE 2009)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 28], G.G. 19 DE JUNIO DE 2009)
 
 ###### Artículo 30.
 
@@ -389,7 +391,7 @@ V. Efectuar, en el ámbito de su competencia, las gestiones que se requieran par
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DEL PRESIDENTE
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 29], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 29], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -411,13 +413,13 @@ VII. Proponer la creación de comisiones especiales de trabajo para la atención
 
 VIII. Autorizar la realización de sesiones extraordinarias, solicitadas por los integrantes del Comité de conformidad a los Artículos 8 fracción III y 24.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 30], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 30], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 32.
 
 El Presidente llevará a cabo todas las funciones que sean afines con las atribuciones señaladas en este capitulo, siendo el vinculo directo con el Consejo Directivo y como tal comunicará al COCOE las tareas y asuntos que éste encomiende para su atención y/o solución.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE JUNIO DE 2009)</small>
 
 ### CAPITULO TERCERO. DE LAS ATRIBUCIONES DEL SECRETARIO TECNICO
 
@@ -493,13 +495,13 @@ IV. Análisis del cumplimiento por parte del Instituto de las medidas de raciona
 
 ### CAPITULO CUARTO. DE LAS ATRIBUCIONES DE LOS VOCALES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 33], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 33], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 35.
 
 Los vocales se constituirán dentro del COCOE en una instancia técnica de consulta y apoyo con relación al ámbito de sus funciones, por lo que deberán asesorar y emitir las opiniones que el COCOE les solicite, así como implementar las medidas necesarias para el cumplimiento de los acuerdos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 34], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 34], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 36.
 
@@ -513,7 +515,7 @@ III. Vigilar el cumplimiento de los acuerdos tomados por el COCOE en el ámbito 
 
 IV. Dar seguimiento, en las áreas de su competencia, a las observaciones o recomendaciones determinadas en las auditorías practicadas por las instancias fiscalizadoras internas y externas.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 35], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 35], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 37.
 
@@ -533,25 +535,25 @@ El titular de la Unidad de Información, Planeación, Programación y Evaluació
 
 ### CAPITULO QUINTO. DE LA PARTICIPACION DE LOS INVITADOS
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 36], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 36], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 39.
 
 Los miembros del COCOE que requieran la participación de algún invitado de conformidad con el artículo 26 de este ordenamiento, deberán solicitar al Secretario Técnico la invitación al COCOE a más tardar diez días hábiles antes de la sesión ordinaria y cinco días hábiles antes en caso de sesiones extraordinarias.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTICULO 37], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTÍCULO 37], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 40.
 
 Los invitados podrán participar previa invitación del Secretario Técnico en los términos del articulo 9 fracción VI.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTICULO 38], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTÍCULO 38], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 41.
 
 Los invitados formarán parte de las comisiones especiales cuando así lo determine el COCOE, apoyando y ejecutando dentro del ejercicio de sus funciones todas aquellas acciones que les requiera el COCOE para el logro eficaz de sus objetivos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTICULO 39], G.G. 19 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO [N. DE E. ANTES ARTÍCULO 39], G.G. 19 DE JUNIO DE 2009)</small>
 
 ###### Artículo 42.
 
@@ -638,3 +640,13 @@ G.G. 19 DE JUNIO DE 2009.
 PRIMERO. Este ordenamiento entrará en vigor una vez aprobado por el H. Consejo Directivo y al Día siguiente de su publicación en la Gaceta del Gobierno.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente acuerdo.
+
+G.G. 13 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se deja sin efectos el Reglamento Interior del COCOE publicado en fecha diecinueve de junio del año dos mil nueve.
+
+CUARTO.- Las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como lo no previsto en el mismo, será resuelto por la Secretaría de la Contraloría.
