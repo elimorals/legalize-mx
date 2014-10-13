@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-74847
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2011-04-11"
+last_updated: "2014-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ZONIFICACION Y USOS DEL SUELO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE ZONIFICACION Y USOS DEL SUELO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DE SAN PEDRO GARZA GARCÍA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2014 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 7 de mayo de 2010.
 
@@ -319,15 +321,15 @@ IX. Barda: Es aquélla obra, construcción o material que sirve para encerrar un
 
 X. Coeficiente de Área Verde (CAV): Es el lineamiento urbanístico expresado en porcentaje, que resulta de dividir la superficie libre de techo, pavimento, sótano o de cualquier material impermeable y que únicamente sea destinada para jardín, área verde o arborización entre la superficie total del lote o predio por cien:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 XI. Coeficiente de Ocupación del Suelo (COS): Es el lineamiento urbanístico expresado en porcentaje, que resulta de dividir la superficie del desplante entre la superficie total de lote o predio multiplicado por cien:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 XII. Coeficiente de Utilización del Suelo (CUS): Es el lineamiento urbanístico mediante el cual se determina la máxima superficie total de construcción a realizar en un lote o predio, en relación a la superficie total del mismo lote o predio, expresado en número de veces, que resulta de dividir la superficie total a construir entre la superficie total de lote o predio.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 XIII. Consejo: Consejo Municipal de Participación Ciudadana para el Desarrollo Urbano.
 
@@ -805,7 +807,7 @@ Los usos y destinos prohibidos son los que por sus características se considere
 
 ###### Artículo 35.
 
-Los usos y destinos del suelo prohibidos en el programa de desarrollo urbano de centro de población, solamente podrán ser cambiados a permitidos o condicionados, mediante la modificación a dicho programa de desarrollo urbano de conformidad con el procedimiento que expresamente dispone la Ley, (sic)
+Los usos y destinos del suelo prohibidos en el programa de desarrollo urbano de centro de población, solamente podrán ser cambiados a permitidos o condicionados, mediante la modificación a dicho programa de desarrollo urbano de conformidad con el procedimiento que expresamente dispone la Ley,
 
 ###### Artículo 36.
 
@@ -1867,7 +1869,7 @@ El uso de suelo o las edificaciones comerciales, de servicios, mixtos, industria
 
 MATRIZ DE CAJONES DE ESTACIONAMIENTO SEGUN USOS Y DESTINOS DEL SUELO
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Las bodegas o almacenes deberán tener 1 un cajón para estacionamiento por cada 100 cien metros cuadrados de construcción o fracción menor.
 
@@ -1955,7 +1957,7 @@ CILLA BLE CILLA BLE
 
 NOTA: (E) = C+D
 
-Por cada 4 cajones de estacionamiento podrá haber 1 para vehículos compactos. Para las personas discapacitadas, adultos mayores y mujeres embarazadas, los cajones de estacionamiento deberán cumplir con lo dispuesto por los artículos siguientes: (sic)
+Por cada 4 cajones de estacionamiento podrá haber 1 para vehículos compactos. Para las personas discapacitadas, adultos mayores y mujeres embarazadas, los cajones de estacionamiento deberán cumplir con lo dispuesto por los artículos siguientes:
 
 ###### Artículo 79.
 
@@ -2511,7 +2513,7 @@ Las edificaciones comerciales o de servicios deben exhibir de manera permanente,
 
 Previo acuerdo aprobado por la mayoría del H. Cabildo, la Secretaría expedirá la licencia de uso de suelo con sujeción a lo que establece la Ley, el Reglamento en materia ambiental, este Reglamento y el Plan o Programas de desarrollo urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2011)</small>
 
 ###### Artículo 138.
 
@@ -2583,7 +2585,7 @@ VIII. En su caso, poder que acredite las facultades del Apoderado o representant
 
 IX. Tratándose de persona moral;
 
-X. Acta constitutiva; y (sic)
+X. Acta constitutiva; y
 
 XI. En su caso la última modificación;
 
@@ -2645,7 +2647,7 @@ h. Área de estacionamiento a razón de 1 cajón por cada 100 metros cuadrados d
 
 ### CAPÍTULO IV. DE LAS LICENCIAS DE CONSTRUCCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 143.
 
@@ -2753,7 +2755,7 @@ IV. La Secretaría dará vista de la solicitud y el dictamen técnico al Consejo
 
 La Secretaría enviará el dictamen técnico y la opinión del Consejo Consultivo Ciudadano de Control Urbano a la Comisión de Control Urbano del Republicano Ayuntamiento para que emita su dictamen, mismo que se someterá al pleno del Republicano Ayuntamiento;
 
-VI. El Republicano Ayuntamiento podrá negar o aprobar el dictamen de la Comisión de Control Urbano del Republicano Ayuntamiento, así mismo, podrá establecer las normas de planificación, restricciones de orden urbanístico o condiciones que considere necesarias, cuando el dictamen sea en sentido positivo, o bien podrá acordar retirar el dictamen para su modificación; y, (sic)
+VI. El Republicano Ayuntamiento podrá negar o aprobar el dictamen de la Comisión de Control Urbano del Republicano Ayuntamiento, así mismo, podrá establecer las normas de planificación, restricciones de orden urbanístico o condiciones que considere necesarias, cuando el dictamen sea en sentido positivo, o bien podrá acordar retirar el dictamen para su modificación; y,
 
 VII. Al resolver una solicitud, el Republicano Ayuntamiento, instruirá a la Secretaría a fin de notificar al solicitante;
 
@@ -3301,7 +3303,7 @@ IV. El riesgo a proteger;
 
 V. El área construida;
 
-VI. Una dotación de cinco litros por metro cuadrado de construcción; y (sic)
+VI. Una dotación de cinco litros por metro cuadrado de construcción; y
 
 VII. Un almacenamiento mínimo de veinte metros cúbicos en la cisterna;
 
@@ -3393,7 +3395,7 @@ VI. De 0% hasta del 15% (Color Amarillo);
 
 VII. Mayores del 15% hasta del 30% (Color Café);
 
-VIII. Mayores del 30% hasta del 45% (Color Naranja); y, (sic)
+VIII. Mayores del 30% hasta del 45% (Color Naranja); y,
 
 IX. Mayores del 45% (Color Rojo);
 
@@ -3923,7 +3925,7 @@ Ningún voto se podrá delegar.
 
 ###### Artículo 253.
 
-Los cargos en el Consejo serán honoríficos, (sic)
+Los cargos en el Consejo serán honoríficos,
 
 ###### Artículo 254.
 
@@ -4291,7 +4293,7 @@ V. Describir los hechos o abstenciones, usos de suelo o usos de edificación, bi
 
 VI. Si con la ejecución de los trabajos se generan o pudieran generar riesgos, describir los mismos en el acta;
 
-VII. Fecha y hora de inicio y término de la inspección y (sic)
+VII. Fecha y hora de inicio y término de la inspección y
 
 VIII. Nombre, cargo y firma o huella dactilar de las personas que atienden la diligencia;
 
@@ -4537,7 +4539,7 @@ LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE MARZO DE 2011.
 
@@ -4576,3 +4578,13 @@ Las presentes reformas por modificación, adición y derogación al Reglamento d
 ###### ARTÍCULO SEXTO.
 
 Las solicitudes, permisos y recursos que se encuentren en trámite y pendientes de resolución se tramitarán bajo las normas que establece el Reglamento de Zonificación y Usos del Suelo que se modifica.
+
+P.O. 13 DE OCTUBRE DE 2014.
+
+Artículo primero.- El presente reglamento se publicará en el Periódico Oficial del Estado de Nuevo León y entrará en vigor el 17 de octubre de 2014.
+
+Artículo segundo.- Se abroga el Reglamento de Zonificación y Usos de Suelo del Municipio de San Pedro Garza García, Nuevo León, aprobado en Sesión Extraordinaria de Cabildo de fecha 05-cinco de mayo del año 2010-dos mil diez, y publicado en el Periódico Oficial del Estado de Nuevo León No. 61-II de fecha 07-siete de Mayo del 2010-dos mil diez y sus modificaciones y reformas.
+
+Artículo tercero.- El Consejo Municipal de Participación Ciudadana para el Desarrollo Urbano actual seguirá en funciones.
+
+Artículo cuarto.- Las solicitudes de los particulares y demás trámites previstos en el Reglamento objeto de abrogación, al que se refiere el artículo segundo transitorio de este Reglamento y que se encuentren en proceso, se resolverán de conformidad con el Reglamento vigente en el momento del inicio del trámite.
