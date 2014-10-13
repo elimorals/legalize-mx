@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2014-04-21"
+last_updated: "2014-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2014.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2505,7 +2505,7 @@ IX.- Secretaría de Desarrollo Económico y Turismo,
 
 X.- Secretaría de Desarrollo Rural,
 
-XI.- Secretaría de Desarrollo Integral de la Familia; y (sic)
+XI.- Secretaría de Desarrollo Integral de la Familia; y
 
 XII.- Secretaría Particular.
 
@@ -5691,19 +5691,23 @@ VII.- Se depuran las hojas, tarjetas, formatos y formas valoradas que no conteng
 
 VIII.- En el caso especifico de los proyectos, estudios, manuales, programas, investigaciones, informes, presupuestos, planes, estadísticas, se conservan sin importar si son originales y copias. Sólo en el caso de que hayan sido publicados podrán ser eliminados los orinales (sic) y copias.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2014)</small>
+
 ###### Artículo 560.
 
-Para los efectos de depuración de documentos, funcionará un Consejo Consultivo de Depuración Documental, integrado por el Secretario del Ayuntamiento quien lo presidirá, por el Jefe del Departamento de Recursos Materiales y por un asesor en materia archivística, que podrá ser enviado por el gobierno del Estado.
+Para los efectos de la depuración documental, el Archivo General del Municipio contará con un Consejo Consultivo de Depuración Documental, que estará integrado de la siguiente forma:
 
-El procedimiento para la depuración de documentos, se sujetará a los lineamientos siguientes:
+I. Por el Presidente Municipal, quien lo presidirá,
 
-I.- El Consejo Consultivo de Depuración Documental, es el único órgano facultado para autorizar la baja de documentos;
+II. Por el Secretario de Gobernación y del Ayuntamiento, quien fungirá como Secretario Ejecutivo;
 
-II.- El Archivo General Municipal deberá de elaborar una relación de la documentación a depurar, que incluirá el asunto, año, y volumen de la documentación, informando de ello a la dependencia generadora, y convocara al Consejo Consultivo de Depuración Documental;
+III. Por el Jefe del Departamento del Archivo General del Municipio, quien fungirá como Secretario Técnico;
 
-III.- Si procede, el Consejo levantará un acta, autorizando la depuración al Archivo General Municipal para que sea cotejada con la relación a que se hace mención en la fracción que antecede; y
+IV. Por el Síndico Municipal, el Regidor de Educación, Cultura y deporte, los titulares de la Contraloría Municipal y del Instituto de Cultura de Calvillo, así como por un representante de la sociedad civil que tenga experiencia como historiador o archivista, quienes fungirán como Consejeros;
 
-IV.- Concluida la revisión y confirmando el cotejo, el personal del Archivo procederá a la destrucción física de la documentación.
+V. Por el titular o un representante del Archivo General del Estado de Aguascalientes, quien fungirá como Consejero, y
+
+VI. En su caso por un Consejero que será el representante del Archivo General de la Nación.
 
 ###### Artículo 561.
 
@@ -23984,3 +23988,13 @@ SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL DECRETO DE REFORMAS QUE SE RELACIO
 Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 2014.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL DECRETO POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES.</small>
+
+Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
