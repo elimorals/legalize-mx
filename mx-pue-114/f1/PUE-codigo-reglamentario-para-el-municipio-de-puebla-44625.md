@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2014-08-26"
+last_updated: "2014-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2014.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1149,7 +1149,7 @@ I. Nombrar de manera libre y democrática a los miembros de la Mesa Directiva de
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-II. Aprobar a propuesta de la Mesa Directiva las carteras y/o comisiones, ya sean permanentes o transitorias, que se requieran para el mejor funcionamiento, desarrollo y ejecución de los trabajos.; (sic)
+II. Aprobar a propuesta de la Mesa Directiva las carteras y/o comisiones, ya sean permanentes o transitorias, que se requieran para el mejor funcionamiento, desarrollo y ejecución de los trabajos.;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
@@ -25081,13 +25081,13 @@ Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el
 
 Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; artículos 51, 52 y 53 del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla y normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Bis.
 
 El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización, o en su caso, incineración.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637 Bis 1.
 
@@ -25097,7 +25097,7 @@ I. Si se encuentran alteraciones que los hagan impropios para el consumo humano,
 
 II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Ter.
 
@@ -25371,7 +25371,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -35091,17 +35091,17 @@ III. Los integrantes de la Comisión permanente del Ayuntamiento que atienda el 
 
 DEL PREMIO AL "MÉRITO EMPRESARIAL"
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2322.
 
-El Premio al "Mérito Empresarial", será otorgado a aquellas empresas que por sus actividades contribuyen al desarrollo económico, generación de empleo y posicionamiento nacional e internacional de la Ciudad de Puebla.
+El Premio al "Mérito Empresarial", será otorgado a aquellas empresas que por sus actividades contribuyen al desarrollo económico, generación de empleo y posicionamiento nacional e internacional del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 2323.
 
-El Premio al "Mérito Empresarial", consistirá en un Diploma por su actividad destacada en el ámbito empresarial, el cual será entregado durante la última semana del mes de noviembre de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante la primera quincena del mes de octubre.
+El Premio al "Mérito Empresarial", consistirá en un diploma por su actividad destacada en el ámbito empresarial, el cual será entregado durante el mes de noviembre de cada año, en Acto Protocolario de Cabildo. La convocatoria será emitida durante la primera quincena del mes de octubre.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -35149,13 +35149,19 @@ Las propuesta (sic) de la empresa a recibir dicho premio, deberán ser formulada
 
 La Empresa que se haga merecedora a recibir el Premio al "Mérito Empresarial", deberá cumplir como mínimo, los siguientes requisitos:
 
-I. Encontrarse dentro del Municipio de Puebla;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2014)</small>
+
+I. Generar impacto económico en el Municipio de Puebla;
 
 II. Contar con un origen, identidad, marca o razón social;
 
 III. Contar con una reconocida trayectoria o antigüedad;
 
-IV. Ser generadora de un gran número de empleos dentro del Municipio;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2014)</small>
+
+IV. Ser generadora de un gran número de empleos;
+
+(REPUBLICADA, P.O. 13 DE OCTUBRE DE 2014)
 
 V. Contar con un proceso de innovación (involucrando tecnología de punta en general);
 
@@ -36134,3 +36140,7 @@ PRIMERO.- El presente Dictamen entrará en vigor al año de su publicación en e
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 TERCERO.- Se instruye a las Dependencias competentes a realizar las adecuaciones materiales y normativas necesarias para la aplicación de las disposiciones.
+
+P.O. 13 DE OCTUBRE DE 2014.
+
+ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
