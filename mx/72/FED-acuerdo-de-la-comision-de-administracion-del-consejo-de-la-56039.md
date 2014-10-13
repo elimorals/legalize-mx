@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-de-la-comision-de-administracion-del-consejo-de-la-5603
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-07-03"
-last_updated: "2008-10-14"
+last_updated: "2014-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-06-14"
 ---
 # ACUERDO DE LA COMISION DE ADMINISTRACION DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO DE ASIGNACION, CERTIFICACION Y USO DE LA FIRMA ELECTRONICA PARA EL SEGUIMIENTO DE EXPEDIENTES (FESE)
 
-ACUERDO DE LA COMISION DE ADMINISTRACION DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO DE ASIGNACION, CERTIFICACION Y USO DE LA FIRMA ELECTRONICA PARA EL SEGUIMIENTO DE EXPEDIENTES (FESE)
+ACUERDO DE LA COMISIÓN DE ADMINISTRACIÓN DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO DE ASIGNACIÓN, CERTIFICACIÓN Y USO DE LA FIRMA ELECTRÓNICA PARA EL SEGUIMIENTO DE EXPEDIENTES (FESE)
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 34/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN (FIREL) EMITIDA POR EL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 13 DE OCTUBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2014 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2007.
 
@@ -198,3 +200,21 @@ D.O.F. 14 DE OCTUBRE DE 2008.
 PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. DE 13 DE OCTUBRE DE 2014.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abrogan el Acuerdo General 21/2007, del Pleno del Consejo de la Judicatura Federal, que establece la Firma Electrónica para el Seguimiento de Expedientes (FESE), así como el Acuerdo de la Comisión de Administración del Consejo, que establece el procedimiento de asignación, certificación y uso de la Firma Electrónica para el Seguimiento de Expedientes (FESE), aprobado el catorce de junio de dos mil siete. Y se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+CUARTO. Los procedimientos relacionados con los certificados digitales de la FIREL emitidos por el Consejo y regulados en el presente Acuerdo, estarán disponibles en los términos en que se emita la declaratoria referida en el artículo Sexto transitorio del Acuerdo General Conjunto número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico.
+
+QUINTO. Una vez que los servidores públicos adscritos a los tribunales de Circuito y a los juzgados de Distritos, así como al Instituto Federal de Defensoría Pública y áreas administrativas del Consejo, obtengan su certificado digital de firma electrónica (FIREL) a que se refiere el presente Acuerdo, se deberán revocar los certificados digitales emitidos conforme a las disposiciones anteriores a la entrada en vigor del presente Acuerdo.
+
+SEXTO. La DGTI deberá realizar los ajustes necesarios a los sistemas informáticos del Consejo para implementar el uso de la FIREL a que se refiere el presente Acuerdo.
+
+En tanto la DGTI realiza las adecuaciones necesarias a los sistemas informáticos del Consejo, los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones y las autoridades usuarias de la Ventana Electrónica de Trámite, seguirán utilizando los certificados digitales de firma electrónica expedidos con anterioridad a la entrada en vigor de este Acuerdo; incluso, el procedimiento para su solicitud, emisión y entrega será de la forma con la que se venía realizando.
+
+De manera oportuna, la Dirección General de Estadística Judicial, a través de la UNCOCEFI, hará del conocimiento a los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones y a las autoridades usuarias de la Ventana Electrónica de Trámite, la fecha en que comenzarán a utilizar los certificados de la FIREL a que se refiere el presente Acuerdo.
