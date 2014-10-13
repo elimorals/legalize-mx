@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-refinacion-93377"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2014-02-25"
+last_updated: "2014-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93377&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-REFINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2014.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 28 de marzo de 2013
 
@@ -517,6 +517,10 @@ III. Subdirección de Distribución
 
 6. Gerencia de Transporte por Ducto
 
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2014)</small>
+
+7. Gerencia de Terminal Logística Pajaritos
+
 IV. Subdirección de Almacenamiento y Reparto
 
 1. Gerencia de Operación y Mantenimiento de Terminales
@@ -814,6 +818,22 @@ II. Administrar los procesos de integridad y confiabilidad operativa del sistema
 III. Analizar nuevas tecnologías, elaborar estudios técnicos, desarrollar proyectos de ingeniería y proyectar nueva infraestructura del sistema de transporte por ductos, y
 
 IV. Calcular, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, las tarifas de transporte por ducto de productos petrolíferos y sus derivados.
+
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2014)</small>
+
+Artículo 47 A. La Gerencia de Terminal Logística Pajaritos tendrá las funciones siguientes:
+
+I. Recibir, almacenar, reformular, adecuar y entregar productos petrolíferos y sus derivados, a través del sistema de logística de la terminal logística Pajaritos;
+
+II. Establecer mecanismos de evaluación del sistema de logística de la terminal logística Pajaritos;
+
+III. Administrar los procesos de integridad mecánica y confiabilidad operativa del sistema de logística de la terminal logística Pajaritos;
+
+IV. Elaborar estudios, analizar tecnologías y desarrollar proyectos de crecimiento, rehabilitación, adquisición y modernización, así como promover nuevos negocios y mercados para el sistema de logística de la terminal logística Pajaritos;
+
+V. Definir y gestionar los requerimientos de materiales, equipos, servicios y obras necesarios para operar y mantener el sistema de logística de la terminal logística Pajaritos, y
+
+VI. Calcular, en coordinación con la Subdirección de Planeación, Coordinación y Evaluación, las tarifas de servicios portuarios, de guarda, manejo y otros servicios relacionados con el sistema de logística de la terminal logística Pajaritos.
 
 ### CAPITULO QUINTO. DE LA SUBDIRECCION DE ALMACENAMIENTO Y REPARTO
 
@@ -1634,3 +1654,13 @@ DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo co
 DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
 
 DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE OCTUBRE DE 2014.
+
+PRIMERO. Las modificaciones al Estatuto Orgánico de Pemex-Refinación, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas del Organismo Subsidiario.
+
+TERCERO. Se deberán realizar todas las gestiones administrativas para la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como las instalaciones y los recursos financieros asociados con dicha transferencia, derivadas de las presentes modificaciones.
+
+CUARTO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
